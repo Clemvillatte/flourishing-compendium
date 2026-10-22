@@ -18,7 +18,7 @@ The article on Heideggerian terminology describes Being-toward-death as not an o
 
 The everyday way of talking conceals this: "One dies" is interpreted as a fact, and comes to mean "nobody dies". Authentic being-toward-death calls Dasein's individual self out of its "they-self", and frees it to re-evaluate life from the standpoint of finitude.
 
-(Being and Time, as cited by the opened article at H. 255.)
+(Being and Time, as cited by the article at H. 255.)
 
 **Plain words** The everyday voice says "One dies", which means nobody in particular. The practice the principle proposes is to put your own name in that sentence. As a hypothetical: if you had ten summers left, which of your deferred decisions would you book on Tuesday?
 

@@ -25,7 +25,7 @@ In Lavie's account, perceptual processing that exhausts available capacity leave
 ## Sources
 
 - [Lavie, "Distracted and confused?: Selective attention under load" (2005), Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf) — the theory's core predictions and the perceptual-versus-cognitive-load dissociation; the blockquote above is from this review.
-- Lavie, 1995 — cited in the original entry and referenced by the opened review.
+- Lavie, 1995 — cited in the original entry and referenced by the review.
 - Forster & Lavie, 2008 — cited in the original entry; not independently opened here.
 
 ## Cited in psychology parallels

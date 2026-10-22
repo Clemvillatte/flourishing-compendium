@@ -12,7 +12,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Sources
 
-- Boethius, *The Consolation of Philosophy*, trans. H. R. James, [Project Gutenberg, eBook 14328](https://www.gutenberg.org/ebooks/14328) — passages quoted verbatim from the opened text
+- Boethius, *The Consolation of Philosophy*, trans. H. R. James, [Project Gutenberg, eBook 14328](https://www.gutenberg.org/ebooks/14328) — passages quoted verbatim from the text
 
 ## Related concepts
 

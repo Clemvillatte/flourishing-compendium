@@ -18,7 +18,7 @@ The measure is the mind, not the ledger. Shantideva's verse on the same perfecti
 
 > "The perfection of giving is said to be through the mind that would give away to everyone all that is mine, together with its results; thus, it's the mind itself." (Bodhicharyavatara 5.10)
 
-His argument that the perfection cannot mean that poverty has disappeared everywhere: "if the perfection of giving were that the poverty of wandering beings was all gone; then how could the Guardians of old have perfected it, since wandering beings have hunger still now?" (5.9). And Shantideva cautions against giving away the body before compassion is sufficiently developed: "I shall not give this body away while my thought of compassion is still not pure" (5.87) (translation carried on the opened [redzambala page](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-5.html)).
+His argument that the perfection cannot mean that poverty has disappeared everywhere: "if the perfection of giving were that the poverty of wandering beings was all gone; then how could the Guardians of old have perfected it, since wandering beings have hunger still now?" (5.9). And Shantideva cautions against giving away the body before compassion is sufficiently developed: "I shall not give this body away while my thought of compassion is still not pure" (5.87) (translation carried on the [redzambala page](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-5.html)).
 
 This entry's exercise: give something small daily for a month, and watch the grip-meter rather than the ledger.
 
@@ -28,8 +28,8 @@ For example: Giving up an evening to help a friend move, when you'd rather rest,
 
 ## Sources
 
-- [Gampopa, The Jewel Ornament of Liberation, trans. Konchog Gyaltsen Rinpoche (Snow Lion, 1998)](https://karunabuddhistcenter.org/wp-content/uploads/2025/05/Gampopa_-Konchog-Gyaltsen-Rinpoche-Tr-The-Jewel-Ornament-of-Liberation_-The-Wish-Fulfilling-Gem-of-the-Noble-Teachings-1998.pdf) — ch. 12 definition and classification quoted verbatim from the opened PDF
-- [Shantideva, Bodhicharyavatara chapter 5 (Engaging in Bodhisattva Behaviour), full text](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-5.html) — verses 9, 10, 87 quoted verbatim from the opened page; translator not identified on the page
+- [Gampopa, The Jewel Ornament of Liberation, trans. Konchog Gyaltsen Rinpoche (Snow Lion, 1998)](https://karunabuddhistcenter.org/wp-content/uploads/2025/05/Gampopa_-Konchog-Gyaltsen-Rinpoche-Tr-The-Jewel-Ornament-of-Liberation_-The-Wish-Fulfilling-Gem-of-the-Noble-Teachings-1998.pdf) — ch. 12 definition and classification quoted verbatim from the PDF
+- [Shantideva, Bodhicharyavatara chapter 5 (Engaging in Bodhisattva Behaviour), full text](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-5.html) — verses 9, 10, 87 quoted verbatim from the page; translator not identified on the page
 
 ## Psychology parallels
 

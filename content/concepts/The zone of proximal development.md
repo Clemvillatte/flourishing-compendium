@@ -23,7 +23,7 @@ The idea has a consequence for anyone teaching, parenting or training: the right
 
 ## Sources
 
-- [Vygotsky, L. S. (1978), Mind in Society, p. 86, quoted verbatim in Chaiklin, S., "The zone of proximal development in Vygotsky's analysis of learning and instruction," UCSD LCHC archive](https://lchc.ucsd.edu/mca/Mail/xmcamail.2002_11.dir/att-0211/02-Chaiklin_The_zone_of_proximal_development_in_Vygotsky.doc) — the opened carrier for the verbatim definition.
+- [Vygotsky, L. S. (1978), Mind in Society, p. 86, quoted verbatim in Chaiklin, S., "The zone of proximal development in Vygotsky's analysis of learning and instruction," UCSD LCHC archive](https://lchc.ucsd.edu/mca/Mail/xmcamail.2002_11.dir/att-0211/02-Chaiklin_The_zone_of_proximal_development_in_Vygotsky.doc) — the carrier for the verbatim definition.
 
 ## Cited in psychology parallels
 

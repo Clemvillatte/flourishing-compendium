@@ -23,7 +23,7 @@ The list is deliberately unglamorous: I must die, I must suffer, I must struggle
 
 ## Sources
 
-- Jaspers, K. (1951). Way to Wisdom, ch. II "Sources of Philosophy" (tr. Ralph Manheim, Yale UP 1954, p. 20) — quote verified through the opened [Epimelea carrier](https://epimelea.com/library/jaspers-boundary-situations/); the Grenzsituationen doctrine originates in Philosophy, vol. II (1932); raw-text check done 2026-10-22.
+- Jaspers, K. (1951). Way to Wisdom, ch. II "Sources of Philosophy" (tr. Ralph Manheim, Yale UP 1954, p. 20) — quote verified through the [Epimelea carrier](https://epimelea.com/library/jaspers-boundary-situations/); the Grenzsituationen doctrine originates in Philosophy, vol. II (1932); raw-text check done 2026-10-22.
 
 ## Cited in philosophy parallels
 

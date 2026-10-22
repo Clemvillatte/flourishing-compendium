@@ -29,7 +29,7 @@ For the compendium's principles, the phrase marks this shift: the goal-shaped pi
 
 ## Sources
 
-- Maslow, A. H. (1968). Toward a Psychology of Being (2nd ed.), ch. 3 "Deficiency Motivation and Growth Motivation". [Full text copy](https://epdf.pub/toward-a-psychology-of-beingfddacaa1d3466cbd5f4a39782d346cc289247.html) — quotes verified verbatim against the opened full text.
+- Maslow, A. H. (1968). Toward a Psychology of Being (2nd ed.), ch. 3 "Deficiency Motivation and Growth Motivation". [Full text copy](https://epdf.pub/toward-a-psychology-of-beingfddacaa1d3466cbd5f4a39782d346cc289247.html) — quotes verified verbatim against the full text.
 
 [[P116 — Pursue becoming, not arrival]]
 [[SE065 — Learn self-actualization — become who you are capable of being]]

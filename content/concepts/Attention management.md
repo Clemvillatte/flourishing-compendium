@@ -37,7 +37,7 @@ Leroy ran two experiments on switching between work tasks. Finishing the first t
 
 ## Sources
 
-- [Leroy, S., "Why is it so hard to do my work? The challenge of attention residue when switching between work tasks" (2009), Organizational Behavior and Human Decision Processes 109(2), 168-181](https://www.scribd.com/document/856551539/c-Coek-Info-Why-is-It-So-Hard-to-Do-My-Work-the-Challenge-of-a-1) — the time-pressure sentence, the definition sentence, and the two-experiment abstract (all verified verbatim in the opened document text)
+- [Leroy, S., "Why is it so hard to do my work? The challenge of attention residue when switching between work tasks" (2009), Organizational Behavior and Human Decision Processes 109(2), 168-181](https://www.scribd.com/document/856551539/c-Coek-Info-Why-is-It-So-Hard-to-Do-My-Work-the-Challenge-of-a-1) — the time-pressure sentence, the definition sentence, and the two-experiment abstract (all verified verbatim in the document text)
 
 ## Cited in psychology parallels
 

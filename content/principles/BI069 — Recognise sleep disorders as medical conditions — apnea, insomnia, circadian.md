@@ -19,7 +19,7 @@ Chronic insomnia has its own guideline-level treatment: the American Academy of 
 > "See a doctor if you have problems sleeping or if you feel unusually tired during the day. Most sleep disorders can be treated effectively." (NINDS, [Brain Basics: Understanding Sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep))
 
 **Plain words**
-Snoring with gasping, chronic insomnia and persistent daytime sleepiness are things to bring to a doctor, because the opened pages name diagnostics and treatments for apnea and insomnia. The partner's report of gasping is information, and it belongs in the referral conversation ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)).
+Snoring with gasping, chronic insomnia and persistent daytime sleepiness are things to bring to a doctor, because the pages name diagnostics and treatments for apnea and insomnia. The partner's report of gasping is information, and it belongs in the referral conversation ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)).
 
 *For example:* An imagined case: someone whose partner reports the gasping pattern takes the report to their doctor instead of shrugging it off as how they have always slept ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)).
 

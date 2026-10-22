@@ -26,7 +26,7 @@ The "more" is deliberately ambiguous: by it Abram also meant "to encourage a new
 
 ## Sources
 
-- Abram, D. (1996). The Spell of the Sensuous: Perception and Language in a More-than-Human World (subtitle); Abram, D. "On the Origin of the Phrase 'More-Than-Human'", in More Than Human Rights — passage quoted verbatim from the [opened PDF carrier](https://mothrights.org/wp-content/themes/moth/assets/images/book/pdfs/ripped/15-More-Than-Human-Rights_Book-On-the-Origin-of-the-Phrase-More-Than-Human.pdf); Abram, D. "On Being Human in a More-than-Human World" — passage quoted verbatim from the [opened davidabram.org essay](https://www.davidabram.org/essays/magic-and-machine-65hd4-fj357-pblhw); raw-text checks done 2026-10-22.
+- Abram, D. (1996). The Spell of the Sensuous: Perception and Language in a More-than-Human World (subtitle); Abram, D. "On the Origin of the Phrase 'More-Than-Human'", in More Than Human Rights — passage quoted verbatim from the [opened PDF carrier](https://mothrights.org/wp-content/themes/moth/assets/images/book/pdfs/ripped/15-More-Than-Human-Rights_Book-On-the-Origin-of-the-Phrase-More-Than-Human.pdf); Abram, D. "On Being Human in a More-than-Human World" — passage quoted verbatim from the [opened davidabram.org essay](https://www.davidabram.org/essays/magic-and-machine-65hd4-fj357-pblhw); raw-text checks done.
 
 ## Cited in philosophy parallels
 

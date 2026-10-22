@@ -26,7 +26,7 @@ Bem's move was measurement first. If masculinity and femininity are two independ
 ## Sources
 
 - Bem, 1974
-- [Sandra L. Bem, "The measurement of psychological androgyny," Journal of Consulting and Clinical Psychology 42(2), 155–162 (1974), PDF at bibb.de](https://www.bibb.de/dokumente/pdf/AB26_WBT3_Vertiefung_Bem-1974.pdf) — the opened carrier of the quotations above.
+- [Sandra L. Bem, "The measurement of psychological androgyny," Journal of Consulting and Clinical Psychology 42(2), 155–162 (1974), PDF at bibb.de](https://www.bibb.de/dokumente/pdf/AB26_WBT3_Vertiefung_Bem-1974.pdf) — the carrier of the quotations above.
 
 ## Cited in psychology parallels
 

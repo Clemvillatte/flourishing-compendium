@@ -28,8 +28,8 @@ For example: Learning to code, you add "so I can build tools that help people in
 
 ## Sources
 
-- [Tsongkhapa, Three Principal Aspects of the Path, trans. Adam Pearcey (Lotsawa House)](https://www.lotsawahouse.org/tibetan-masters/tsongkhapa/three-principal-aspects) — verses 6 and 8 quoted verbatim from the opened page
-- [The Dalai Lama, commentary on Tsongkhapa's Three Principal Aspects (Berzin Archives)](https://studybuddhism.com/en/tibetan-buddhism/path-to-enlightenment/commentaries-on-lam-rim-texts/commentary-on-the-three-principal-aspects-of-the-path-the-dalai-lama) — bodhichitta definition and daily-conduct passage quoted verbatim from the opened page
+- [Tsongkhapa, Three Principal Aspects of the Path, trans. Adam Pearcey (Lotsawa House)](https://www.lotsawahouse.org/tibetan-masters/tsongkhapa/three-principal-aspects) — verses 6 and 8 quoted verbatim from the page
+- [The Dalai Lama, commentary on Tsongkhapa's Three Principal Aspects (Berzin Archives)](https://studybuddhism.com/en/tibetan-buddhism/path-to-enlightenment/commentaries-on-lam-rim-texts/commentary-on-the-three-principal-aspects-of-the-path-the-dalai-lama) — bodhichitta definition and daily-conduct passage quoted verbatim from the page
 
 ## Psychology parallels
 

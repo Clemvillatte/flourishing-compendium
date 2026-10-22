@@ -49,9 +49,9 @@ The compendium cites the construct from its principles on voluntary action and e
 ## Sources
 
 - [Bandura, "Self-efficacy: Toward a unifying theory of behavioral change" (1977), Psychological Review 84, 191-215, open PDF](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf) — the blockquote, the efficacy-versus-outcome-expectation distinction, and the four sources are from this paper.
-- Bandura, 1997, Self-efficacy: The exercise of control — the compressed definition, quoted verbatim via the opened review below.
+- Bandura, 1997, Self-efficacy: The exercise of control — the compressed definition, quoted verbatim via the review below.
 - [Jonker, Comijs, Knipscheer & Deeg, "Promotion of self-management in vulnerable older people" (2009), PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776941/) — renders the Bandura 1997 definition and describes the CDSMP's self-efficacy strategies.
-- Lorig et al., 2001 — the chronic-disease facet's original citation; the facet's content here rests on the opened CDSMP review.
+- Lorig et al., 2001 — the chronic-disease facet's original citation; the facet's content here rests on the CDSMP review.
 
 ## Cited in psychology parallels
 

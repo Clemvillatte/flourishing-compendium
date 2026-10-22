@@ -22,7 +22,7 @@ The positive term he offers is disponibilité, and his own definition of it is a
 
 The encyclopaedia summary of his usage: disponibilité "refers to the measure in which I am available to someone, the state of having my resources at hand to offer", and the disponible soul "cannot think in terms of cases; in its eyes there are no cases at all" (Marcel, as quoted in SEP). Availability is also what lets presence do its work: "presence does really make itself felt, it can refresh my inner being; it reveals me to myself, it makes me more fully myself than I should be if I were not exposed to its impact" (Marcel, [as quoted in Cali and Gustafson, 2026](https://www.dialogic-ethics.org/uploads/1/3/8/4/138406736/vol._5_no._1_cali_gustafson.pdf)).
 
-(Marcel, Being and Having and related works, as carried in the opened sources below.)
+(Marcel, Being and Having and related works, as carried in the sources below.)
 
 **Plain words** Disponibilité: availability — the disposition to be actually present and open, versus the absorbed, distracted, enclosed-in-oneself default. When someone speaks to you, be there for it. The opposite of availability isn't rudeness; it's absence wearing your face.
 

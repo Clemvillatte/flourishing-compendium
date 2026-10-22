@@ -23,7 +23,7 @@ One caution travels with the idea. There is a difference between a season and a 
 
 ## Sources
 
-- [Ecclesiastes 3:1–8, King James Version, Bible Hub](https://biblehub.com/kjv/ecclesiastes/3.htm) — the opened carrier for the verbatim passage (original citation: Ecclesiastes 3:1–8).
+- [Ecclesiastes 3:1–8, King James Version, Bible Hub](https://biblehub.com/kjv/ecclesiastes/3.htm) — the carrier for the verbatim passage (original citation: Ecclesiastes 3:1–8).
 
 ## Cited in philosophy parallels
 

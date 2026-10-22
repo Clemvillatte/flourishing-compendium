@@ -7,7 +7,7 @@ file: "The logos common to all"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The compendium's heading "the logos common to all" follows Heraclitus' references to what is common. In the opened Burnet translation, fragment 2 contrasts the common Word with the many living as if they had wisdom of their own.
+The compendium's heading "the logos common to all" follows Heraclitus' references to what is common. In the Burnet translation, fragment 2 contrasts the common Word with the many living as if they had wisdom of their own.
 
 ### Heraclitus' ground
 

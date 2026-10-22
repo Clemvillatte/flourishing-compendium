@@ -21,7 +21,7 @@ The tradition itself was already contested in antiquity, which is part of the pa
 
 ## Sources
 
-- Smith, W. (1875). "Pontifex," in Dictionary of Greek and Roman Antiquities — quotations verified through the opened [LacusCurtius carrier](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Pontifex.html); raw-text check done 2026-10-22.
+- Smith, W. (1875). "Pontifex," in Dictionary of Greek and Roman Antiquities — quotations verified through the [LacusCurtius carrier](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Pontifex.html); raw-text check done 2026-10-22.
 
 ## Cited in philosophy parallels
 

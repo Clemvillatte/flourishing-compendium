@@ -24,8 +24,8 @@ The technical definition: "Heart rate variability (HRV) consists of changes in t
 
 ## Sources
 
-- [Shaffer & Ginsberg, "An Overview of Heart Rate Variability Metrics and Norms", Frontiers in Public Health 5:258, 2017](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2017.00258/full) — quotes checked against the opened article text, Abstract and Heart Rate Variability section
-- [Lehrer & Gevirtz, "Heart rate variability biofeedback: how and why does it work?", Frontiers in Psychology 5:756, 2014](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00756/full) — quotes checked against the opened article text, Introduction and baroreflex and phase-relationship sections
+- [Shaffer & Ginsberg, "An Overview of Heart Rate Variability Metrics and Norms", Frontiers in Public Health 5:258, 2017](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2017.00258/full) — quotes checked against the article text, Abstract and Heart Rate Variability section
+- [Lehrer & Gevirtz, "Heart rate variability biofeedback: how and why does it work?", Frontiers in Psychology 5:756, 2014](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00756/full) — quotes checked against the article text, Introduction and baroreflex and phase-relationship sections
 
 ## Psychology parallels
 

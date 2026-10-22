@@ -31,7 +31,7 @@ Cook-Greuter's later work extends the same idea from moral reasoning to meaning-
 
 - Cook-Greuter, 2000
 - Kohlberg, 1981
-- [Lawrence Kohlberg, "The Child as a Moral Philosopher," 1968, PDF at sdimakis.github.io](https://sdimakis.github.io/moral_psychology/readings/week_2/Kohlberg_1968.pdf) — the opened carrier of the quotations above.
+- [Lawrence Kohlberg, "The Child as a Moral Philosopher," 1968, PDF at sdimakis.github.io](https://sdimakis.github.io/moral_psychology/readings/week_2/Kohlberg_1968.pdf) — the carrier of the quotations above.
 
 ## Cited in psychology parallels
 

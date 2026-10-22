@@ -7,7 +7,7 @@ file: "The evolutionary account of loneliness"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The evolutionary account of loneliness treats loneliness not as a personal defect or a mere unhappy feeling, but as an aversive biological signal that evolved to keep members of a social species connected to others. The account was developed by John Cacioppo and his colleagues; this page is carried by the opened review below, and the original entry's later papers (Cacioppo and Cacioppo, 2018; Cacioppo et al., 2011) are cited without being opened here.
+The evolutionary account of loneliness treats loneliness not as a personal defect or a mere unhappy feeling, but as an aversive biological signal that evolved to keep members of a social species connected to others. The account was developed by John Cacioppo and his colleagues; this page is carried by the review below, and the original entry's later papers (Cacioppo and Cacioppo, 2018; Cacioppo et al., 2011) are cited without being opened here.
 
 ### The signal
 

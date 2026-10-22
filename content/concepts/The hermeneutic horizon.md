@@ -24,7 +24,7 @@ The horizon is not a prison but a starting position that can widen. Gadamer's mo
 
 ## Sources
 
-- Gadamer, H.-G. Truth and Method (1960; 2nd rev. English ed., trans. J. Weinsheimer & D. G. Marshall; London: Continuum, 2003), pp. 302, 306, 307 — passages quoted verbatim as reproduced in the opened scholarly carrier: [Journal of Dialogue Studies 7 (2019)](https://www.dialoguestudies.org/wp-content/uploads/2019/12/Hans-Georg-Gadamers-Truth-and-Method-Revisited-On-the-Very-Idea-of-a-Fusion-of-Horizons-in-Intense-Asymmetric-and-Intractable-Conflicts.pdf); raw-text check done 2026-10-22.
+- Gadamer, H.-G. Truth and Method (1960; 2nd rev. English ed., trans. J. Weinsheimer & D. G. Marshall; London: Continuum, 2003), pp. 302, 306, 307 — passages quoted verbatim as reproduced in the scholarly carrier: [Journal of Dialogue Studies 7 (2019)](https://www.dialoguestudies.org/wp-content/uploads/2019/12/Hans-Georg-Gadamers-Truth-and-Method-Revisited-On-the-Very-Idea-of-a-Fusion-of-Horizons-in-Intense-Asymmetric-and-Intractable-Conflicts.pdf); raw-text check done 2026-10-22.
 
 ## Cited in philosophy parallels
 

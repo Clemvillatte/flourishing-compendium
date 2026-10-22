@@ -23,7 +23,7 @@ The second pole is the school of suspicion: "Three masters, seemingly mutually e
 
 ## Sources
 
-- Ricoeur, P. Freud and Philosophy: An Essay on Interpretation, trans. D. Savage (New Haven: Yale University Press, 1970), pp. 32–33 — passages quoted verbatim as reproduced in an opened scholarly carrier: [Stanford Humanities Center](https://shc.stanford.edu/arcade/interventions/suspicion-solidarity); the "double motivation" phrase as quoted in Itao, A. (2010), "Paul Ricoeur's Hermeneutics of Symbols," [Kritike 4(2)](https://www.kritike.org/journal/issue_8/itao_december2010.pdf); raw-text checks done 2026-10-22.
+- Ricoeur, P. Freud and Philosophy: An Essay on Interpretation, trans. D. Savage (New Haven: Yale University Press, 1970), pp. 32–33 — passages quoted verbatim as reproduced in an opened scholarly carrier: [Stanford Humanities Center](https://shc.stanford.edu/arcade/interventions/suspicion-solidarity); the "double motivation" phrase as quoted in Itao, A. (2010), "Paul Ricoeur's Hermeneutics of Symbols," [Kritike 4(2)](https://www.kritike.org/journal/issue_8/itao_december2010.pdf); raw-text checks done.
 
 ## Cited in philosophy parallels
 

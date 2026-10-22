@@ -37,5 +37,5 @@ The scale is documented: in a ten-country survey of 10,000 people aged 16 to 25,
 
 ## Sources
 
-- [Berry, H. L., Bowen, K., & Kjellstrom, T. (2010). Climate change and mental health: a causal pathways framework. Int J Public Health 55(2), 123-132](https://openresearch-repository.anu.edu.au/items/aaa28319-7e4b-4e50-bea1-e0b09d42820e) — abstract verified against the opened ANU record (raw, unprompted); the Springer page is the publisher record
+- [Berry, H. L., Bowen, K., & Kjellstrom, T. (2010). Climate change and mental health: a causal pathways framework. Int J Public Health 55(2), 123-132](https://openresearch-repository.anu.edu.au/items/aaa28319-7e4b-4e50-bea1-e0b09d42820e) — abstract verified against the ANU record (raw, unprompted); the Springer page is the publisher record
 - [Hickman, C., et al. (2021). Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey. Lancet Planet Health 5(12), e863-e873](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00278-3/fulltext) — abstract Methods and Findings opened

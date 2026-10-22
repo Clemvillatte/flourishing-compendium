@@ -45,4 +45,4 @@ The program that follows treats the affects as objects of study rather than targ
 
 ## Sources
 
-- Spinoza, B. (c. 1677). Ethics. Part III Preface and Part I P15, in the clear-language translation by Jonathan Bennett. [PDF](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf), quotes verified at Part III Preface (PDF pp. 52-53, printed pp. 50-51) and Part I P15 (PDF p. 9, printed p. 7). The inherited "like hot and cold" simile does not appear in the opened translation and was dropped.
+- Spinoza, B. (c. 1677). Ethics. Part III Preface and Part I P15, in the clear-language translation by Jonathan Bennett. [PDF](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf), quotes verified at Part III Preface (PDF pp. 52-53, printed pp. 50-51) and Part I P15 (PDF p. 9, printed p. 7). The inherited "like hot and cold" simile does not appear in the translation and was dropped.

@@ -29,7 +29,7 @@ The core recovery experience she studies is detachment. She defines it with a bo
 
 - Sonnentag, 2018
 
-- [Sabine Sonnentag, "The recovery paradox: Portraying the complex interplay between job stressors, lack of recovery, and poor well-being," Research in Organizational Behavior 38, 2018, PDF hosted by University of Helsinki](https://www.helsinki.fi/assets/drupal/2024-04/Sonnentag.pdf) — the opened carrier of the quotations above.
+- [Sabine Sonnentag, "The recovery paradox: Portraying the complex interplay between job stressors, lack of recovery, and poor well-being," Research in Organizational Behavior 38, 2018, PDF hosted by University of Helsinki](https://www.helsinki.fi/assets/drupal/2024-04/Sonnentag.pdf) — the carrier of the quotations above.
 
 ## Cited in psychology parallels
 

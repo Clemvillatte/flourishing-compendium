@@ -46,7 +46,7 @@ Attention · Psychological science
 
 ## Sources
 
-- [MacLeod, C., Mathews, A., and Tata, P., "Attentional bias in emotional disorders" (1986), Journal of Abnormal Psychology 95(1), 15-20, via SciSpace](https://scispace.com/papers/attentional-bias-in-emotional-disorders-c9tlej18p2) — the abstract's threat-shift, control-away, and maintenance sentences (verified verbatim on the opened record; the dot-probe design sentences paraphrased)
+- [MacLeod, C., Mathews, A., and Tata, P., "Attentional bias in emotional disorders" (1986), Journal of Abnormal Psychology 95(1), 15-20, via SciSpace](https://scispace.com/papers/attentional-bias-in-emotional-disorders-c9tlej18p2) — the abstract's threat-shift, control-away, and maintenance sentences (verified verbatim on the record; the dot-probe design sentences paraphrased)
 
 ## Cited in philosophy parallels
 

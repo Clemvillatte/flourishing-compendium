@@ -31,7 +31,7 @@ The Loftus and Palmer follow-up showed the same openness from outside: merely de
 
 - Loftus & Palmer, 1974
 
-- [Commane and Kopelman, "Memory: what we think the psychiatrist should know in a forensic context," BJPsych Advances 28, 2022](https://www.cambridge.org/core/journals/bjpsych-advances/article/memory-what-we-think-the-psychiatrist-should-know-in-a-forensic-context/C92F403F36B050EDADC363CE8BB2B2B3) — the opened carrier of the Bartlett quotation above.
+- [Commane and Kopelman, "Memory: what we think the psychiatrist should know in a forensic context," BJPsych Advances 28, 2022](https://www.cambridge.org/core/journals/bjpsych-advances/article/memory-what-we-think-the-psychiatrist-should-know-in-a-forensic-context/C92F403F36B050EDADC363CE8BB2B2B3) — the carrier of the Bartlett quotation above.
 
 ## Cited in psychology parallels
 

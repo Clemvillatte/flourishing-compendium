@@ -20,7 +20,7 @@ Kotahitanga also names a political history. [Te Ara](https://teara.govt.nz/en/ko
 
 Bandura's psychology gives a parallel. He writes that perceived collective efficacy is "an emergent group-level property" and that beliefs of collective efficacy "predict level of group performance" ([Bandura 2001, as excerpted](https://static1.squarespace.com/static/5f515c06be95ce214b7e209d/t/6160e885b97706442cbc37ed/1633740943508/Bandura,+A.+(2001).+Social+cognitive+theory:+An+agentic+perspective.+Annual+review+of+psychology,+52(1),+1-26.)). That is a different concept from kotahitanga, so treat it as a comparison and not as an equivalent.
 
-**Plain words** Kotahitanga means unity of purpose. In the opened sources, it asks for a shared direction and for everyone to have a voice. It also has a history as a political strategy.
+**Plain words** Kotahitanga means unity of purpose. In the sources, it asks for a shared direction and for everyone to have a voice. It also has a history as a political strategy.
 
 *For example:* This is an imagined case. A village committee of elders, young people and sceptics all want different things. They keep meeting until they find one project each can support, and each person's reasons are spoken aloud.
 

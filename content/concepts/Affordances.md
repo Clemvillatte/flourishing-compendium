@@ -24,7 +24,7 @@ The concept has since traveled into design, where interfaces are judged by what 
 
 ## Sources
 
-- [Gibson, J. J. (1979), The Ecological Approach to Visual Perception, ch. 8, p. 127, excerpt PDF](https://dl1.cuni.cz/pluginfile.php/595142/mod_resource/content/3/05%20-%20Gibson%20-%20The%20Ecological%20Approach%20To%20Visual%20Perception%20-%20ch%208.pdf) — the opened carrier for the verbatim definition.
+- [Gibson, J. J. (1979), The Ecological Approach to Visual Perception, ch. 8, p. 127, excerpt PDF](https://dl1.cuni.cz/pluginfile.php/595142/mod_resource/content/3/05%20-%20Gibson%20-%20The%20Ecological%20Approach%20To%20Visual%20Perception%20-%20ch%208.pdf) — the carrier for the verbatim definition.
 
 ## Cited in psychology parallels
 

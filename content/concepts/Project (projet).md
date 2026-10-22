@@ -27,7 +27,7 @@ For Sartre the project is not something a person has but what a person is: a thr
 ## Sources
 
 - Sartre, Being and Nothingness
-- [Jean-Paul Sartre, Wikiquote](https://en.wikiquote.org/wiki/Jean-Paul_Sartre) — the opened carrier of the quotations above, with the Being and Nothingness part and chapter references.
+- [Jean-Paul Sartre, Wikiquote](https://en.wikiquote.org/wiki/Jean-Paul_Sartre) — the carrier of the quotations above, with the Being and Nothingness part and chapter references.
 
 ## Cited in philosophy parallels
 

@@ -15,7 +15,7 @@ The research the original entry points to is Oaten and Cheng's work on self-cont
 
 Two things in this abstract carry the concept's weight. First, the measurement: regulatory capacity was tested as performance on a visual tracking task after a thought-suppression task, a sustained-attention load. Second, the transfer: the practice was a structured study program, yet the reported gains spread to smoking, drinking, spending, chores and emotional control, domains the program never mentioned. The original entry's one-line summary compresses this into the muscle image — short-run fatigue from use, long-run strengthening from practice.
 
-A naming note for the owner: the opened sources present this as research on self-control strength, not as a theory published under the name "vigilance theory." The connection between the heading and the research is the original entry's framing, and the tracking task is a sustained-attention task only in description. The compendium's application of the original entry's framing is the paragraph above; the underlying findings are as quoted.
+A naming note for the owner: the sources present this as research on self-control strength, not as a theory published under the name "vigilance theory." The connection between the heading and the research is the original entry's framing, and the tracking task is a sustained-attention task only in description. The compendium's application of the original entry's framing is the paragraph above; the underlying findings are as quoted.
 
 ## Field
 

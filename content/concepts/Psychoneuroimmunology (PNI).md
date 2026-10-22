@@ -29,7 +29,7 @@ The field's founder gives the definition and the founding story in one account. 
 
 - Dantzer et al., 2008
 
-- [Robert Ader, "On the Development of Psychoneuroimmunology," European Journal of Pharmacology 405, 2000, PubMed](https://pubmed.ncbi.nlm.nih.gov/11033324/) — the opened carrier of the definition quoted above.
+- [Robert Ader, "On the Development of Psychoneuroimmunology," European Journal of Pharmacology 405, 2000, PubMed](https://pubmed.ncbi.nlm.nih.gov/11033324/) — the carrier of the definition quoted above.
 
 ## Cited in psychology parallels
 

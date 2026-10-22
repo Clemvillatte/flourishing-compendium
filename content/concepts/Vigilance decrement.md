@@ -27,7 +27,7 @@ Exhortation does nothing; structure does everything. Breaks, interruptions and f
 
 ## Sources
 
-- [Klein, R. M. & Feltmate, B. B. T. (2025), "The vigilance decrement: its first 75 years," Frontiers in Cognition, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13281068/) — the opened carrier for both verbatim passages and the historical summary of Mackworth's 1948 findings.
+- [Klein, R. M. & Feltmate, B. B. T. (2025), "The vigilance decrement: its first 75 years," Frontiers in Cognition, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13281068/) — the carrier for both verbatim passages and the historical summary of Mackworth's 1948 findings.
 
 ## Cited in psychology parallels
 

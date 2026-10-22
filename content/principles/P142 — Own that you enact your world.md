@@ -36,7 +36,7 @@ Imagine planning a walk with someone whose access needs differ from yours. As a 
 
 ## Psychology parallels
 
-- **[[Predictive processing|Predictive processing]]** (Clark, 2013; Seth, 2013): retained comparison, not an equivalent account. Thompson explicitly criticizes predictive representationalism in the opened paper.
+- **[[Predictive processing|Predictive processing]]** (Clark, 2013; Seth, 2013): retained comparison, not an equivalent account. Thompson explicitly criticizes predictive representationalism in the paper.
 
 ## Philosophy parallels
 

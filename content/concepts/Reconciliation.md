@@ -27,7 +27,7 @@ The point is not against reconciliation. It is against treating the paperwork as
 
 - Laozi, Daodejing 79
 
-- [Tao Te Ching chapter 79, James Legge translation, egreenway.com](https://www.egreenway.com/taoism/ttclz79.htm) — the opened carrier of the quotation above.
+- [Tao Te Ching chapter 79, James Legge translation, egreenway.com](https://www.egreenway.com/taoism/ttclz79.htm) — the carrier of the quotation above.
 
 ## Cited in philosophy parallels
 

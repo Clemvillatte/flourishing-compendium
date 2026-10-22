@@ -20,7 +20,7 @@ The Letter gives one further instruction about the natural. Epicurus writes that
 
 ## Sources
 
-- [Epicurus, Letter to Menoeceus §127, Bailey 1926 translation, EpicureanFriends](https://www.epicureanfriends.com/wcf/menoeceus/) — the opened carrier of the verbatim classification quote and the natural-versus-superfluous and bread-and-water passages.
+- [Epicurus, Letter to Menoeceus §127, Bailey 1926 translation, EpicureanFriends](https://www.epicureanfriends.com/wcf/menoeceus/) — the carrier of the verbatim classification quote and the natural-versus-superfluous and bread-and-water passages.
 
 ## Cited in psychology parallels
 

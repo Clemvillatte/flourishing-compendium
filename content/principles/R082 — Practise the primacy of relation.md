@@ -30,7 +30,7 @@ The "between" of the later work is where this lives: "the realm that 'hides in o
 
 ## Sources
 
-- [Martin Buber, I and Thou (Ronald Gregor Smith translation, archive.org full-text PDF)](https://ia800608.us.archive.org/16/items/IAndThou_572/BuberMartin-i-and-thou_text.pdf) — "I become through my relation to the Thou... All real living is meeting", "In the beginning is relation" and the fuller a-priori passage, "the extended lines of relations meet in the eternal Thou"; opened. Note: the opened text is the Smith translation, not the 1970 Kaufmann
+- [Martin Buber, I and Thou (Ronald Gregor Smith translation, archive.org full-text PDF)](https://ia800608.us.archive.org/16/items/IAndThou_572/BuberMartin-i-and-thou_text.pdf) — "I become through my relation to the Thou... All real living is meeting", "In the beginning is relation" and the fuller a-priori passage, "the extended lines of relations meet in the eternal Thou"; opened. Note: the text is the Smith translation, not the 1970 Kaufmann
 - [Claudia Welz, "Buber's Relational Ontology and Dialogical Listening," chapter in A Companion to Martin Buber (open-access manuscript, Aarhus University)](https://pure.au.dk/ws/files/429218485/Buber_s_Relational_Ontology_and_Dialogical_Listening.2025.pdf) — the I and Thou p. 99 between passage (citing the German pagination), the ontological claim that relations are more fundamental than the relata; opened; secondary carrier, disclosed
 - Buber, The Knowledge of Man (1965) — cited by the original entry for the later essays; not directly opened; not relied on for any quotation above
 

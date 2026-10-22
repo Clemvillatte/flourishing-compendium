@@ -15,7 +15,7 @@ The systems are defined from the inside out. The microsystem is "a pattern of ac
 
 > "encompasses change or consistency over time not only in the characteristics of the person but also of the environments in which the person lives"
 
-(Bronfenbrenner 1994, p. 40, [quoted in the opened review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10801006/))
+(Bronfenbrenner 1994, p. 40, [quoted in the review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10801006/))
 
 In the later bioecological version, Bronfenbrenner and Morris describe proximal processes as the "primary engines of development": "human development takes place through processes of progressively more complex reciprocal interaction between an active, evolving biopsychological human organism and the persons, objects, and symbols in its immediate external environment", effective when the interaction occurs "on a fairly regular basis over extended periods of time"; these "enduring forms of interaction in the immediate environment are referred to as proximal processes" ([Bronfenbrenner and Morris, ch. 14](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf)). Proposition II states that proximal processes vary with the developing person's characteristics, immediate and more remote environments, the developmental outcomes considered, and social continuities and changes across the life course and historical period ([Bronfenbrenner and Morris, ch. 14](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf)).
 

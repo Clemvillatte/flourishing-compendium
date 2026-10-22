@@ -25,7 +25,7 @@ James's own distinction at the end of the passage is between two ways the severa
 
 ## Sources
 
-- [James, W. (1890), The Principles of Psychology, ch. X, psychclassics.yorku.ca](https://psychclassics.yorku.ca/James/Principles/prin10.htm) — the opened primary source; both quoted passages verbatim, the second at p. 294 as the page itself marks.
+- [James, W. (1890), The Principles of Psychology, ch. X, psychclassics.yorku.ca](https://psychclassics.yorku.ca/James/Principles/prin10.htm) — the primary source; both quoted passages verbatim, the second at p. 294 as the page itself marks.
 
 ## Cited in psychology parallels
 

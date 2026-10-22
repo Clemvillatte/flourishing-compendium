@@ -29,8 +29,8 @@ The fire image carries two things at once. A fire consumes what it burns, and it
 
 ## Sources
 
-- [Mūla Sutta (AN 3.69), trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an03/an03.069.than.html) — the opened carrier naming greed, aversion and delusion as the three roots.
-- [Dhammapada 251, trans. Acharya Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html) — the opened carrier for the fire image in each of the three.
+- [Mūla Sutta (AN 3.69), trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an03/an03.069.than.html) — the carrier naming greed, aversion and delusion as the three roots.
+- [Dhammapada 251, trans. Acharya Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html) — the carrier for the fire image in each of the three.
 
 ## Cited in philosophy parallels
 

@@ -29,7 +29,7 @@ The trilogy's arc runs from Augustine's puzzle about time to Aristotle's plot, t
 
 - Ricoeur, Time and Narrative
 
-- [Gert J. Malan, "Ricoeur on time: From Husserl to Augustine," HTS Theological Studies 73, 2017](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-94222017000100003) — the opened carrier of the Time and Narrative quotation above.
+- [Gert J. Malan, "Ricoeur on time: From Husserl to Augustine," HTS Theological Studies 73, 2017](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0259-94222017000100003) — the carrier of the Time and Narrative quotation above.
 
 ## Cited in philosophy parallels
 

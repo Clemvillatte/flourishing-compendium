@@ -42,7 +42,7 @@ These findings concern associations in romantic couples. They do not establish t
 
 ## Related concepts
 
-- [[Self-compassion]] — the construct the opened study measured.
+- [[Self-compassion]] — the construct the study measured.
 
 ## Sources
 

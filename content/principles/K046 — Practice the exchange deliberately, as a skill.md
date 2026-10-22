@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 46** — Practice the exchange deliberately, as a skill
 
-Shantideva names the method the exchange of self and others: "Thus, anyone who wishes to give safe direction swiftly to himself and others needs to practice the most sacred secret: the exchange of self with others" (Bodhicharyavatara 8.120). The exercise is formal and deliberate. You swap the labels and view yourself from the other side: "Creating in lesser beings and so forth (the sense of) a 'me' and creating in yourself (the sense of) others, meditate on envy, rivalry, and arrogance (like this), with a mind free from prejudiced thoughts: 'This one's shown respect, but I'm not; I don't have wealth like this one has. This one's praised, but I'm belittled...'" (8.140-141) (translation carried on the opened [redzambala page](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-8.html)). The reversal extends to what you hold: "whatever you see on this body of mine, rob each and every one of them and use it for the benefit of others" (8.139). And Shantideva argues by analogy from familiarity: "Just as, out of familiarity, there's an understanding of a 'me' regarding drops of semen and blood belonging to others, despite it's not existing as some 'thing,' Why couldn't I likewise take as 'me' a body that belongs to someone else?" (8.111-112).
+Shantideva names the method the exchange of self and others: "Thus, anyone who wishes to give safe direction swiftly to himself and others needs to practice the most sacred secret: the exchange of self with others" (Bodhicharyavatara 8.120). The exercise is formal and deliberate. You swap the labels and view yourself from the other side: "Creating in lesser beings and so forth (the sense of) a 'me' and creating in yourself (the sense of) others, meditate on envy, rivalry, and arrogance (like this), with a mind free from prejudiced thoughts: 'This one's shown respect, but I'm not; I don't have wealth like this one has. This one's praised, but I'm belittled...'" (8.140-141) (translation carried on the [redzambala page](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-8.html)). The reversal extends to what you hold: "whatever you see on this body of mine, rob each and every one of them and use it for the benefit of others" (8.139). And Shantideva argues by analogy from familiarity: "Just as, out of familiarity, there's an understanding of a 'me' regarding drops of semen and blood belonging to others, despite it's not existing as some 'thing,' Why couldn't I likewise take as 'me' a body that belongs to someone else?" (8.111-112).
 
 Practically, in your hardest relationship, write one page describing yourself from their side, and read it aloud.
 
@@ -22,7 +22,7 @@ For example: Before a tense phone call, imagine being the person on the other en
 
 ## Sources
 
-- [Shantideva, Bodhicharyavatara chapter 8 (Engaging in Bodhisattva Behaviour), full text](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-8.html) — verses 111-112, 120, 139, 140-141 quoted verbatim from the opened page; translator not identified on the page
+- [Shantideva, Bodhicharyavatara chapter 8 (Engaging in Bodhisattva Behaviour), full text](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-8.html) — verses 111-112, 120, 139, 140-141 quoted verbatim from the page; translator not identified on the page
 
 ## Psychology parallels
 

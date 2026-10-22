@@ -27,7 +27,7 @@ Try separating two questions: what is already the case, and what will I do next?
 
 ## Sources
 
-- [Sartre, Being and Nothingness, trans. Hazel Barnes, text (dhspriory.org)](https://dhspriory.org/kenny/PhilTexts/Sartre/BeingAndNothingness.pdf) — Part One, ch. 2 (Bad Faith): facticity and transcendence as two aspects of human reality that ought to be coordinated; passage on printed p. 56, wording verified in the opened scan
+- [Sartre, Being and Nothingness, trans. Hazel Barnes, text (dhspriory.org)](https://dhspriory.org/kenny/PhilTexts/Sartre/BeingAndNothingness.pdf) — Part One, ch. 2 (Bad Faith): facticity and transcendence as two aspects of human reality that ought to be coordinated; passage on printed p. 56, wording verified in the scan
 - [Film-Philosophy, "Bad Faith in Film Spectatorship"](https://www.euppublishing.com/doi/full/10.3366/film.2020.0135) — quotes the same passage with the Barnes page number (p. 56)
 - [Stanford Encyclopedia of Philosophy, "Jean-Paul Sartre", section 4](https://plato.stanford.edu/entries/sartre/) — the café waiter and the quotation from p. 60, quoted secondhand
 ## Psychology parallels

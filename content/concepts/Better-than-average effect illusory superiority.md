@@ -28,7 +28,7 @@ The numbers are described as impossible at the group level: not everyone can be 
 
 ## Sources
 
-- Svenson O (1981). Are we all less risky and more skillful than our fellow drivers? Acta Psychologica, 47(2):143-148 — the original driving study, cited via the opened reviews.
+- Svenson O (1981). Are we all less risky and more skillful than our fellow drivers? Acta Psychologica, 47(2):143-148 — the original driving study, cited via the reviews.
 - [McCormick IA, Walkey FH, Green DE (1986). Comparative perceptions of driver ability — a confirmation and expansion. Accident Analysis & Prevention](https://pubmed.ncbi.nlm.nih.gov/3730094/) — the 178-driver confirmation, 80% above average on a number of characteristics.
 - [PMC article: The hazards of perception](https://pmc.ncbi.nlm.nih.gov/articles/PMC6529486/) — review carrying the 70–90% summary of Svenson 1981.
 - Svenson, 1981

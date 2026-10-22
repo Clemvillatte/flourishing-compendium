@@ -28,7 +28,7 @@ Douglas's own term for dirt elsewhere in the book is "matter out of place": the 
 ## Sources
 
 - Douglas, Purity and Danger
-- [Therese Andrews, "Modern Taboos and Moral Regulations: Mother's Milk in the Symbolic Order," Sociology, 2022](https://journals.sagepub.com/doi/full/10.1177/00380385211024448) — the opened carrier of the Douglas quotation above, citing Purity and Danger, p. 2.
+- [Therese Andrews, "Modern Taboos and Moral Regulations: Mother's Milk in the Symbolic Order," Sociology, 2022](https://journals.sagepub.com/doi/full/10.1177/00380385211024448) — the carrier of the Douglas quotation above, citing Purity and Danger, p. 2.
 
 ## Cited in philosophy parallels
 

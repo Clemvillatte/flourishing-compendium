@@ -24,7 +24,7 @@ The model's premise: "Bouton and colleagues propose that after extinction, the C
 
 ## Sources
 
-- [Craske, Treanor, Conway, Zbozinek & Vervliet, "Maximizing exposure therapy: An inhibitory learning approach", Behaviour Research and Therapy 58: 10-23, 2014 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/) — quotes checked against the opened article text, Inhibitory Learning Model of Extinction section
+- [Craske, Treanor, Conway, Zbozinek & Vervliet, "Maximizing exposure therapy: An inhibitory learning approach", Behaviour Research and Therapy 58: 10-23, 2014 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/) — quotes checked against the article text, Inhibitory Learning Model of Extinction section
 
 ## Psychology parallels
 

@@ -21,7 +21,7 @@ One head-to-head trial compared techniques. In the Stanford remote randomized st
 **Plain words**
 One month-long trial tested five minutes of cyclic sighing each day and reported improvements in mood and respiratory rate compared with mindfulness meditation. That finding concerns regular practice of the tested exercise; it does not establish immediate relief before a difficult conversation.
 
-*For example:* An imagined case: someone learns one technique, the exhale-lengthened sigh, and does it for five minutes a day, the dose the opened trial tested; other techniques wait until that one is habitual.
+*For example:* An imagined case: someone learns one technique, the exhale-lengthened sigh, and does it for five minutes a day, the dose the trial tested; other techniques wait until that one is habitual.
 
 ## Sources
 
@@ -42,4 +42,4 @@ One month-long trial tested five minutes of cyclic sighing each day and reported
 
 ## Practice
 
-- Learn breath techniques: slow breathing for relaxation ([Zaccaro et al. 2018](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)); cyclic sighing, emphasizing prolonged exhalations, five minutes daily, the schedule the opened trial tested over one month, which measured daily mood and respiratory rate ([Balban et al. 2023](https://pubmed.ncbi.nlm.nih.gov/36630953/)).
+- Learn breath techniques: slow breathing for relaxation ([Zaccaro et al. 2018](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)); cyclic sighing, emphasizing prolonged exhalations, five minutes daily, the schedule the trial tested over one month, which measured daily mood and respiratory rate ([Balban et al. 2023](https://pubmed.ncbi.nlm.nih.gov/36630953/)).

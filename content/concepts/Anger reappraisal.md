@@ -42,7 +42,7 @@ When used to down-regulate negative emotions, the review finds reappraisal leads
 - [[Self-conscious emotions]] — reworking appraisals, the same lever in a different emotion family
 ## Sources
 
-- [Gross, J. J., "Emotion regulation: Current status and future prospects" (2015), Psychological Inquiry 26(1), 1-26](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the cognitive-change definition (Cognitive Change subsection), the down-regulation findings, the intensity limit, and the controllability moderation (all verified against the opened PDF)
+- [Gross, J. J., "Emotion regulation: Current status and future prospects" (2015), Psychological Inquiry 26(1), 1-26](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the cognitive-change definition (Cognitive Change subsection), the down-regulation findings, the intensity limit, and the controllability moderation (all verified against the PDF)
 - [Bushman, B. J., "Does venting anger feed or extinguish the flame?" (2002), Personality and Social Psychology Bulletin 28(6), 724-731, via Semantic Scholar](https://www.semanticscholar.org/paper/PERSONALITY-AND-SOCIAL-PSYCHOLOGY-BULLETIN-Bushman-Bushman/c051c315c8131211de2d62f42cf4ac49d2326ff2) — the abstract's rumination/venting findings, quoted from the abstract as reproduced in the Semantic Scholar record
 
 ## Cited in psychology parallels

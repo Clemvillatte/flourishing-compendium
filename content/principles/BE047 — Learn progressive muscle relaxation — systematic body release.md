@@ -28,8 +28,8 @@ Among the techniques compared, "applied relaxation, progressive relaxation and m
 
 ## Sources
 
-- [Wikipedia, "Progressive muscle relaxation"](https://en.wikipedia.org/wiki/Progressive_muscle_relaxation) — technique description checked against the opened article text, lead
-- [Manzoni, Pagnini, Castelnuovo & Molinari, "Relaxation training for anxiety: a ten-years systematic review with meta-analysis", BMC Psychiatry 8:41, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2427027/) — quotes checked against the opened article text, Abstract, Results and Conclusion
+- [Wikipedia, "Progressive muscle relaxation"](https://en.wikipedia.org/wiki/Progressive_muscle_relaxation) — technique description checked against the article text, lead
+- [Manzoni, Pagnini, Castelnuovo & Molinari, "Relaxation training for anxiety: a ten-years systematic review with meta-analysis", BMC Psychiatry 8:41, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2427027/) — quotes checked against the article text, Abstract, Results and Conclusion
 
 ## Psychology parallels
 

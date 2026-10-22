@@ -44,7 +44,7 @@ Cognition · Psychological science
 
 ## Sources
 
-- Teasdale (the hypothesis's author, named in the original entry; his 1988 paper cited by the opened sources below)
+- Teasdale (the hypothesis's author, named in the original entry; his 1988 paper cited by the sources below)
 
 - [MacKenzie, M. B., & Kocovski, N. L. (2016). Mindfulness-based cognitive therapy for depression: trends and developments, PMC4876939](https://pmc.ncbi.nlm.nih.gov/articles/PMC4876939/) — supports the prose quote describing the model
 

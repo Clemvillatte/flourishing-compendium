@@ -41,7 +41,7 @@ The chapter gives the mechanism in Bowlby's terms: attachment figures provide a 
 
 ## Sources
 
-- [Shaver, P. R., and Mikulincer, M., "Attachment security and psychological change" (2007), Sydney Symposium chapter](https://sydneysymposium.unsw.edu.au/2007/Chapters/ShaverMikulincerSSSP07.pdf) — the Bowlby definition sentence, the safe haven/secure base passage, the two-dimension security criterion, the plasticity claim, and the eight-month longitudinal finding (all verified against the opened PDF text)
+- [Shaver, P. R., and Mikulincer, M., "Attachment security and psychological change" (2007), Sydney Symposium chapter](https://sydneysymposium.unsw.edu.au/2007/Chapters/ShaverMikulincerSSSP07.pdf) — the Bowlby definition sentence, the safe haven/secure base passage, the two-dimension security criterion, the plasticity claim, and the eight-month longitudinal finding (all verified against the PDF text)
 
 ### Inherited references
 

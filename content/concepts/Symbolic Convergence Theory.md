@@ -21,7 +21,7 @@ A fantasy theme is a dramatizing message that sparks a chain reaction: members r
 
 ### Origin
 
-The theory is stated in the work of Ernest Bormann; the opened carrier article reproduces his 1985 and 1996 formulations, quoted above, in the course of its own account of groups. The formulations are the theory's own terms of art, and this page does not go beyond them into the theory's history.
+The theory is stated in the work of Ernest Bormann; the carrier article reproduces his 1985 and 1996 formulations, quoted above, in the course of its own account of groups. The formulations are the theory's own terms of art, and this page does not go beyond them into the theory's history.
 
 ### How convergence builds a group
 

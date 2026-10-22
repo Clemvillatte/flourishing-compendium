@@ -28,7 +28,7 @@ In his system, immature defenses include projection, schizoid fantasy, hypochond
 
 - Vaillant's defense-hierarchy research, as the modern cousin
 
-- [George E. Vaillant, "Involuntary coping mechanisms: a psychodynamic perspective," Dialogues in Clinical Neuroscience 13, 2011, PubMed](https://pubmed.ncbi.nlm.nih.gov/22034454/) — the opened carrier of the quotation above.
+- [George E. Vaillant, "Involuntary coping mechanisms: a psychodynamic perspective," Dialogues in Clinical Neuroscience 13, 2011, PubMed](https://pubmed.ncbi.nlm.nih.gov/22034454/) — the carrier of the quotation above.
 
 ## Cited in psychology parallels
 

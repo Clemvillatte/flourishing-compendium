@@ -42,7 +42,7 @@ Clinical Psychodynamic · Psychological science
 
 ## Sources
 
-- [Freud, S., New Introductory Lectures on Psycho-Analysis (1933), Lecture XXXI, p. 80, quoted in the International Dictionary of Psychoanalysis via Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/new-introductory-lectures-psycho-analysis) — the therapeutic-intention passage (verified verbatim on the opened page)
+- [Freud, S., New Introductory Lectures on Psycho-Analysis (1933), Lecture XXXI, p. 80, quoted in the International Dictionary of Psychoanalysis via Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/new-introductory-lectures-psycho-analysis) — the therapeutic-intention passage (verified verbatim on the page)
 - Freud, Introductory Lectures on Psychoanalysis (1916-17), Penguin Freud Library Vol. 1 (front matter consulted in the archive.org full text: the method's origin description)
 
 ## Cited in philosophy parallels

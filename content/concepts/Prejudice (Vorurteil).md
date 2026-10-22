@@ -25,7 +25,7 @@ Gadamer's rehabilitation of prejudice begins with the word itself: a Vor-urteil 
 ## Sources
 
 - Gadamer, Truth and Method
-- [Hans-Georg Gadamer, Wikiquote](https://en.wikiquote.org/wiki/Hans-Georg_Gadamer) — the opened carrier of the quotation above, with the Truth and Method page reference.
+- [Hans-Georg Gadamer, Wikiquote](https://en.wikiquote.org/wiki/Hans-Georg_Gadamer) — the carrier of the quotation above, with the Truth and Method page reference.
 
 ## Cited in philosophy parallels
 

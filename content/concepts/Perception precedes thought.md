@@ -25,7 +25,7 @@ Shields reports that Aristotle models thinking on perception: "Just as perceptio
 
 ### Where the label overreaches
 
-Shields also records that Aristotle does not treat the mind as simply another bodily power. The mind "is not 'mixed with the body', insofar as it, unlike the perceptual faculty, lacks a bodily organ" (De Anima iii 4, 429a24-7). The compendium's use of the label for embodiment (as in the principle on thinking being embodied) therefore needs care: Aristotle makes thought depend on perception, and he also sets thought apart from the body. A passage in De Anima Book III about thinking and mental images was not found in the opened sources, so it is not used.
+Shields also records that Aristotle does not treat the mind as simply another bodily power. The mind "is not 'mixed with the body', insofar as it, unlike the perceptual faculty, lacks a bodily organ" (De Anima iii 4, 429a24-7). The compendium's use of the label for embodiment (as in the principle on thinking being embodied) therefore needs care: Aristotle makes thought depend on perception, and he also sets thought apart from the body. A passage in De Anima Book III about thinking and mental images was not found in the sources, so it is not used.
 
 ### In the compendium
 

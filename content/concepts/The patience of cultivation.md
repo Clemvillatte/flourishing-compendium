@@ -30,7 +30,7 @@ Read as a practice teaching, patience here is not waiting passively; it is worki
 
 ## Sources
 
-- Laozi. Daodejing, chapter 64, trans. James Legge (1891). Online text: [Internet Classics Archive](https://classics.mit.edu/Lao/taote.2.ii.html) — quotations verbatim from the opened page; raw-text check done 2026-10-22.
+- Laozi. Daodejing, chapter 64, trans. James Legge (1891). Online text: [Internet Classics Archive](https://classics.mit.edu/Lao/taote.2.ii.html) — quotations verbatim from the page; raw-text check done 2026-10-22.
 
 ## Cited in psychology parallels
 

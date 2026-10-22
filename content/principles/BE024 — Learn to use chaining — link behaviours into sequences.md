@@ -24,8 +24,8 @@ Fogg's recipe cards describe a related habit-design approach: an existing routin
 
 ## Sources
 
-- [Slocum & Tiger, "An assessment of the efficiency of and child preference for forward and backward chaining", Journal of Applied Behavior Analysis 44(4), 2011 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/) — quote checked against the opened article text, p. 793, Introduction
-- [Fogg, Tiny Habits recipe cards (PDF)](https://tinyhabits.com/wp-content/uploads/2020/10/tinyhabits-recipe-cards.pdf) — recipe format checked against the opened PDF text
+- [Slocum & Tiger, "An assessment of the efficiency of and child preference for forward and backward chaining", Journal of Applied Behavior Analysis 44(4), 2011 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/) — quote checked against the article text, p. 793, Introduction
+- [Fogg, Tiny Habits recipe cards (PDF)](https://tinyhabits.com/wp-content/uploads/2020/10/tinyhabits-recipe-cards.pdf) — recipe format checked against the PDF text
 
 ## Psychology parallels
 

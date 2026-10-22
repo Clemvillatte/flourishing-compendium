@@ -43,7 +43,7 @@ and that no reduction of intrinsic motivation is found if the reward is not tang
 ## Sources
 
 - [Promberger M, Marteau TM (2013). When Do Financial Incentives Reduce Intrinsic Motivation? Comparing Behaviors Studied in Psychological and Economic Literatures. Health Psychology, 32(5):453-462](https://pmc.ncbi.nlm.nih.gov/articles/PMC3906839/) — the review of the undermining-effect literature and its moderators.
-- [Deci EL, Koestner R, Ryan RM (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125(6):627-668](https://pubmed.ncbi.nlm.nih.gov/10589297/) — the 128-study meta-analysis, cited via the opened Promberger & Marteau review.
+- [Deci EL, Koestner R, Ryan RM (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125(6):627-668](https://pubmed.ncbi.nlm.nih.gov/10589297/) — the 128-study meta-analysis, cited via the Promberger & Marteau review.
 
 ## Cited in psychology parallels
 

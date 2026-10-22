@@ -36,6 +36,6 @@ Industrial Organizational · Psychological science
 
 ## Sources
 
-- Dawis, R. V., England, G., & Lofquist, L. H. (1968). A Theory of Work Adjustment (A Revision). Minnesota Studies in Vocational Rehabilitation: XXIII. — as summarized in the opened [ERIC record ED031740](https://eric.ed.gov/?id=ED031740)
+- Dawis, R. V., England, G., & Lofquist, L. H. (1968). A Theory of Work Adjustment (A Revision). Minnesota Studies in Vocational Rehabilitation: XXIII. — as summarized in the [ERIC record ED031740](https://eric.ed.gov/?id=ED031740)
 - Weiss, D. J. (1970). Occupational Reinforcers, Vocational Needs, and Job Satisfaction. Work Adjustment Project, University of Minnesota. — opened and quoted verbatim from [ERIC full text ED015511](https://files.eric.ed.gov/fulltext/ED015511.pdf)
 - Dawis, R. V., & Lofquist, L. H. (1984). A Psychological Theory of Work Adjustment. University of Minnesota Press. — the canonical book, cited via the carriers above

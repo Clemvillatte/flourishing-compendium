@@ -33,8 +33,8 @@ The eightfold path, in other words, is the three trainings unfolded.
 
 ## Sources
 
-- [Sikkhā Sutta (AN 3.88), trans. Thanissaro Bhikkhu, Access to Insight](https://accesstoinsight.org/tipitaka/an/an03/an03.088.than) — the opened carrier giving the Buddha's definition of each of the three trainings.
-- [Cūḷa Vedalla Sutta (MN 44), trans. Thanissaro Bhikkhu, Access to Insight](https://accesstoinsight.org/tipitaka/mn/mn.044.than.html) — the opened carrier for the mapping of the eight path factors onto the three aggregates.
+- [Sikkhā Sutta (AN 3.88), trans. Thanissaro Bhikkhu, Access to Insight](https://accesstoinsight.org/tipitaka/an/an03/an03.088.than) — the carrier giving the Buddha's definition of each of the three trainings.
+- [Cūḷa Vedalla Sutta (MN 44), trans. Thanissaro Bhikkhu, Access to Insight](https://accesstoinsight.org/tipitaka/mn/mn.044.than.html) — the carrier for the mapping of the eight path factors onto the three aggregates.
 
 ## Cited in philosophy parallels
 

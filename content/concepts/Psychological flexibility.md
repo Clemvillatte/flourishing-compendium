@@ -17,7 +17,7 @@ The therapy tradition's version: "Psychological flexibility can be defined as co
 
 ### What the review argues
 
-Kashdan and Rottenberg present the construct "as a fundamental aspect of health," reviewing the literature to "offer evidence for the prominence of psychological flexibility in understanding psychological health" ([PubMed record](https://pubmed.ncbi.nlm.nih.gov/21151705/)). They also describe it dynamically, as processes that enable individuals to "adapt to fluctuating situational demands, reconfigure mental resources, shift perspectives, and balance competing desires, needs, and life domains" (p. 866). The original entry page's stronger claims — outperforming rigid control-based coping on nearly every outcome, predicting mental health across hundreds of studies — are kept below as inherited formulations; this page asserts only what the opened sources support.
+Kashdan and Rottenberg present the construct "as a fundamental aspect of health," reviewing the literature to "offer evidence for the prominence of psychological flexibility in understanding psychological health" ([PubMed record](https://pubmed.ncbi.nlm.nih.gov/21151705/)). They also describe it dynamically, as processes that enable individuals to "adapt to fluctuating situational demands, reconfigure mental resources, shift perspectives, and balance competing desires, needs, and life domains" (p. 866). The original entry page's stronger claims — outperforming rigid control-based coping on nearly every outcome, predicting mental health across hundreds of studies — are kept below as inherited formulations; this page asserts only what the sources support.
 
 ### In the compendium
 

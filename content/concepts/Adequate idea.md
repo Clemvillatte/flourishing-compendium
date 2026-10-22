@@ -24,7 +24,7 @@ The practical use of the concept: it grades understanding rather than sorting be
 
 ## Sources
 
-- [Spinoza, B. (1677), Ethics, Part II, Definition IV, Project Gutenberg ebook #3800](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — the opened carrier for the verbatim definition and explanation.
+- [Spinoza, B. (1677), Ethics, Part II, Definition IV, Project Gutenberg ebook #3800](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — the carrier for the verbatim definition and explanation.
 - SEP Spinoza (inherited original reference, not consulted this pass).
 
 ## Cited in philosophy parallels

@@ -29,7 +29,7 @@ Besides death, the entry names "thrownness" into factical determinacy as a "fund
 
 ### Finitude in knowing
 
-An earlier version of the same encyclopedia entry says that, for Heidegger, human beings as Dasein are essentially finite, and that an infinite being would understand things directly, while we must understand them indirectly by "taking-as". ([Stanford Encyclopedia, earlier edition](https://plato.stanford.edu/archives/win2023/entries/heidegger/)) This is the closest the opened sources come to the Kantian theme of limits on knowledge that the original entry's book title points to.
+An earlier version of the same encyclopedia entry says that, for Heidegger, human beings as Dasein are essentially finite, and that an infinite being would understand things directly, while we must understand them indirectly by "taking-as". ([Stanford Encyclopedia, earlier edition](https://plato.stanford.edu/archives/win2023/entries/heidegger/)) This is the closest the sources come to the Kantian theme of limits on knowledge that the original entry's book title points to.
 
 ### What this page does not show
 

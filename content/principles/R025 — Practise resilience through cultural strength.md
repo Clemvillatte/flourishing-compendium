@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 On the Aboriginal side, the SEWB framework's nine guiding principles include "recognition of Aboriginal strengths" and "recognition of the centrality of kinship" ([Gee et al. 2014, chapter 4 of Dudgeon, Milroy and Walker, eds., Working Together](https://www.thekids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf)). The chapter defines its subject: "We define SEWB as a multidimensional concept of health that includes mental health, but which also encompasses domains of health and wellbeing such as connection to land or 'country', culture, spirituality, ancestry, family, and community."
 
-As a cross-cultural psychology account, the opened paper The Social Ecology of Resilience gives a definition Ungar attributes to his 2008 work:
+As a cross-cultural psychology account, the paper The Social Ecology of Resilience gives a definition Ungar attributes to his 2008 work:
 
 > "In the context of exposure to significant adversity, resilience is both the capacity of individuals to navigate their way to the psychological, social, cultural, and physical resources that sustain their well being, and their capacity individually and collectively to negotiate for these resources to be provided and experienced in culturally meaningful ways (Ungar, 2008, p. 225)." ([Ungar, The Social Ecology of Resilience](https://michaelungar.com/files/15contributions/10._The_Social_Ecology_of_Resilience.pdf))
 

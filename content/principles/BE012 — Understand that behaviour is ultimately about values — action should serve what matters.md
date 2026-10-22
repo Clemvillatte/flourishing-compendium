@@ -22,7 +22,7 @@ Hayes and colleagues describe committed action in Acceptance and Commitment Ther
 
 ## Sources
 
-- [Hayes, Pistorello & Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 2012 (APA)](https://www.apa.org/education/ce/acceptance-commitment.pdf) — quote checked against the opened PDF text, p. 988
+- [Hayes, Pistorello & Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 2012 (APA)](https://www.apa.org/education/ce/acceptance-commitment.pdf) — quote checked against the PDF text, p. 988
 
 ## Psychology parallels
 

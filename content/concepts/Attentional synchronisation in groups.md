@@ -39,7 +39,7 @@ The same review reports the classroom activities as lectures, instructional vide
 
 - [Richardson DC, Dale R, Kirkham NZ (2007). The Art of Conversation Is Coordination: Common Ground and the Coupling of Eye Movements During Dialogue. Psychological Science, 18(5):407-413](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2007.01914.x) — the coupling finding in dyads.
 - [Davidesco I (2020). Brain-to-Brain Synchrony in the STEM Classroom. CBE Life Sciences Education, 19(3):es8](https://pmc.ncbi.nlm.nih.gov/articles/PMC8711813/) — secondary description of Dikker et al. 2017, used for the group finding.
-- [Dikker S, Wan L, Davidesco I, Kaggen L, Oostrik M, McClintock J, Rowland J, Michalareas G, Van Bavel JJ, Ding M, Poeppel D (2017). Brain-to-Brain Synchrony Tracks Real-World Dynamic Group Interactions in the Classroom. Current Biology, 27(9):1375-1380](https://pubmed.ncbi.nlm.nih.gov/28457867/) — the primary record; described via the opened Davidesco review.
+- [Dikker S, Wan L, Davidesco I, Kaggen L, Oostrik M, McClintock J, Rowland J, Michalareas G, Van Bavel JJ, Ding M, Poeppel D (2017). Brain-to-Brain Synchrony Tracks Real-World Dynamic Group Interactions in the Classroom. Current Biology, 27(9):1375-1380](https://pubmed.ncbi.nlm.nih.gov/28457867/) — the primary record; described via the Davidesco review.
 - [Richardson et al., 2007](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2007.01914.x)
 - [Dikker et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28457867/)
 

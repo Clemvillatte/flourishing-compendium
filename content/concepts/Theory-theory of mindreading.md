@@ -37,4 +37,4 @@ Cognition · Psychological science
 ## Sources
 
 - Theory of Mind. Internet Encyclopedia of Philosophy. — opened and quoted verbatim from [iep.utm.edu/theomind](https://iep.utm.edu/theomind/)
-- Gopnik, A., & Wellman, H. M. (1992). Why the Child's Theory of Mind Really Is a Theory. Mind & Language, 7(1-2), 145-171. — the founding paper, cited via the opened IEP survey (full text not consulted for quotations)
+- Gopnik, A., & Wellman, H. M. (1992). Why the Child's Theory of Mind Really Is a Theory. Mind & Language, 7(1-2), 145-171. — the founding paper, cited via the IEP survey (full text not consulted for quotations)

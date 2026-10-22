@@ -22,7 +22,7 @@ The test is the questioner. Treanor and Sweetman explain the difference: with a 
 
 He also distinguishes mystery from the unknowable: "The mysterious is not the unknowable, the unknowable is only the limiting case of the problematic" (Marcel, Being and Having, p. 118, as quoted in [SEP](https://plato.stanford.edu/entries/marcel/)).
 
-(Marcel, Being and Having; The Philosophy of Existentialism, as carried in the opened SEP entry.)
+(Marcel, Being and Having; The Philosophy of Existentialism, as carried in the SEP entry.)
 
 **Plain words** A technical question can be handed to another person without changing what is being asked. A mystery includes your own involvement; removing yourself would change the question. Marcel is distinguishing kinds of inquiry, not simply naming questions we have not solved yet.
 

@@ -21,7 +21,7 @@ Niederlohmann proposes that a patient's momentary state can constrain productive
 
 - Yerkes-Dodson law
 - arousal regulation research
-- [Niederlohmann, "Autonomic regulation constrains psychotherapeutic workability: a state-dependent translational model for psychotherapy and psychosomatics", Frontiers in Psychiatry, 2026, PMC13200463](https://pmc.ncbi.nlm.nih.gov/articles/PMC13200463/) — the abstract sentence quoted above, verified verbatim against the opened carrier
+- [Niederlohmann, "Autonomic regulation constrains psychotherapeutic workability: a state-dependent translational model for psychotherapy and psychosomatics", Frontiers in Psychiatry, 2026, PMC13200463](https://pmc.ncbi.nlm.nih.gov/articles/PMC13200463/) — the abstract sentence quoted above, verified verbatim against the carrier
 
 ## Cited in psychology parallels
 

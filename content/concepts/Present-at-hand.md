@@ -27,7 +27,7 @@ Heidegger's term for the thing as it stands before a detached look. Equipment in
 ## Sources
 
 - Heidegger, Being and Time
-- [Martin Heidegger, Being and Time, trans. Macquarrie and Robinson, p. 104, at beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.104.html) — the opened carrier of the quotation above.
+- [Martin Heidegger, Being and Time, trans. Macquarrie and Robinson, p. 104, at beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.104.html) — the carrier of the quotation above.
 
 ## Cited in philosophy parallels
 

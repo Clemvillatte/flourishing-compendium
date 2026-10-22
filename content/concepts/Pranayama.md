@@ -26,7 +26,7 @@ The Yoga-sutra defines the practice in one line and then names its fruit. Pranay
 ## Sources
 
 - Yoga tradition
-- [Yoga-sūtra 2.49 and 2.53 with Vyāsa's commentary, trans. Rama Prasada, wisdomlib](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216700.html) — the opened carrier of the sūtra quotations above.
+- [Yoga-sūtra 2.49 and 2.53 with Vyāsa's commentary, trans. Rama Prasada, wisdomlib](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216700.html) — the carrier of the sūtra quotations above.
 
 ## Cited in philosophy parallels
 

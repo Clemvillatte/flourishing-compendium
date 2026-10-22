@@ -22,8 +22,8 @@ For example: A nurse who grew up in poverty notices what the polished report mis
 
 ## Sources
 
-- [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/) — the self-determination of the dialectical world and counter-determination passages quoted verbatim from the opened entry
-- ["Nishida Kitaro," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nishida-kitaro/) — the historical-world summary and Nishida's "from the created to the creating" quoted verbatim from the opened entry
+- [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/) — the self-determination of the dialectical world and counter-determination passages quoted verbatim from the entry
+- ["Nishida Kitaro," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nishida-kitaro/) — the historical-world summary and Nishida's "from the created to the creating" quoted verbatim from the entry
 
 ## Psychology parallels
 

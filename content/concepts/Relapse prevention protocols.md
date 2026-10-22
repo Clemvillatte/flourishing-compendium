@@ -27,7 +27,7 @@ The abstinence violation effect is the model's account of how a first slip becom
 
 ### How well it holds up
 
-The overview reports mixed results. In the large Relapse Replication and Extension Project, the original taxonomy of high-risk situations had only moderate inter-rater reliability at its finest level, and its predictive validity was modest, though the authors argue the study was not a good test of it. Support was better for other parts: how people coped strongly predicted relapse, and the abstinence violation effect predicted who relapsed after a lapse. The sources opened here are about alcohol treatment; the page does not claim the findings carry over to other behaviours.
+The overview reports mixed results. In the large Relapse Replication and Extension Project, the original taxonomy of high-risk situations had only moderate inter-rater reliability at its finest level, and its predictive validity was modest, though the authors argue the study was not a good test of it. Support was better for other parts: how people coped strongly predicted relapse, and the abstinence violation effect predicted who relapsed after a lapse. The sources cited here are about alcohol treatment; the page does not claim the findings carry over to other behaviours.
 
 ### In the compendium
 

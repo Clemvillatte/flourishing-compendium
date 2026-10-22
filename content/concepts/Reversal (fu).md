@@ -29,7 +29,7 @@ The Daodejing's fortieth chapter describes the Dao as moving by contraries and a
 ## Sources
 
 - Daoism, Daodejing 40
-- [Laozi, Tao Teh King, Legge translation (chapters 9, 40, 58), Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — the opened carrier of the quotation and the chapter readings above.
+- [Laozi, Tao Teh King, Legge translation (chapters 9, 40, 58), Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — the carrier of the quotation and the chapter readings above.
 
 ## Cited in philosophy parallels
 

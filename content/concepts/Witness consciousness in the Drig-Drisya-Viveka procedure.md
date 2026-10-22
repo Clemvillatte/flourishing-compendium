@@ -22,7 +22,7 @@ The last clause carries the argument's weight: the witness is never the seen. Ev
 
 ## Sources
 
-- [Drig-Drisya-Viveka, verse 1, trans. Swami Tejomayananda, quoted at Aumdada Maya Studios](https://www.aumdada.com/2024/04/drg-drsya-viveka-1-transnotes.html) — the opened carrier for the verbatim verse.
+- [Drig-Drisya-Viveka, verse 1, trans. Swami Tejomayananda, quoted at Aumdada Maya Studios](https://www.aumdada.com/2024/04/drg-drsya-viveka-1-transnotes.html) — the carrier for the verbatim verse.
 - Attribution to Śaṅkara's circle (inherited original reference, not consulted this pass).
 
 ## Cited in philosophy parallels

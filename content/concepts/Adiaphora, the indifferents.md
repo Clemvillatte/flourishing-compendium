@@ -23,7 +23,7 @@ Indifference does not mean neglect. The Stoics famously split the indifferents i
 
 ## Sources
 
-- [Epictetus, Enchiridion, Chapter 1, trans. Elizabeth Carter, Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html) — the opened carrier for the verbatim opening and the free/slavish passage.
+- [Epictetus, Enchiridion, Chapter 1, trans. Elizabeth Carter, Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html) — the carrier for the verbatim opening and the free/slavish passage.
 
 ## Cited in philosophy parallels
 

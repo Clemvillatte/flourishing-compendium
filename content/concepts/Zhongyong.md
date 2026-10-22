@@ -28,6 +28,6 @@ Two features distinguish the Confucian mean from a calculus of averages. First, 
 
 ## Sources
 
-- [Zhongyong (The Doctrine of the Mean), Chapter 1, trans. James Legge, full public-domain text](http://oaks.nvg.org/the-mean.html) — the opened carrier for both verbatim passages.
+- [Zhongyong (The Doctrine of the Mean), Chapter 1, trans. James Legge, full public-domain text](http://oaks.nvg.org/the-mean.html) — the carrier for both verbatim passages.
 
 ## Cited in philosophy parallels

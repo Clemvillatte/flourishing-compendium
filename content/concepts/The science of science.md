@@ -23,7 +23,7 @@ On Ziman's account, published information is not yet scientific knowledge: the f
 
 ## Sources
 
-- Ziman, J. M. (1968). Public Knowledge: An Essay Concerning the Social Dimension of Science. Cambridge: Cambridge University Press, pp. 8–9, 126 — quotations verified through the opened review carrier: Michalos, A. C. (1969), [Philosophy of Science 36(2): 222–224](http://magrawal.myweb.usf.edu/phd/articles/Ziman_PublicKnowledge_1969.pdf); raw-text check done 2026-10-22.
+- Ziman, J. M. (1968). Public Knowledge: An Essay Concerning the Social Dimension of Science. Cambridge: Cambridge University Press, pp. 8–9, 126 — quotations verified through the review carrier: Michalos, A. C. (1969), [Philosophy of Science 36(2): 222–224](http://magrawal.myweb.usf.edu/phd/articles/Ziman_PublicKnowledge_1969.pdf); raw-text check done 2026-10-22.
 
 ## Cited in psychology parallels
 

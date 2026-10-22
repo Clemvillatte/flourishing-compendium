@@ -25,7 +25,7 @@ The claim is not that whatever works is true, whatever feels good goes. It is th
 
 ## Sources
 
-- [James, W. (1907), Pragmatism, Lecture VI, Project Gutenberg ebook #5116](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm) — the opened carrier for both verbatim passages.
+- [James, W. (1907), Pragmatism, Lecture VI, Project Gutenberg ebook #5116](https://www.gutenberg.org/files/5116/5116-h/5116-h.htm) — the carrier for both verbatim passages.
 
 ## Cited in philosophy parallels
 

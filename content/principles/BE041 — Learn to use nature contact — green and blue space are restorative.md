@@ -24,7 +24,7 @@ Rumination, in the study's words, is "a maladaptive pattern of self-referential 
 
 ## Sources
 
-- [Bratman, Hamilton, Hahn, Daily & Gross, "Nature experience reduces rumination and subgenual prefrontal cortex activation", PNAS 112(28), 2015 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/) — quotes checked against the opened article text, Abstract
+- [Bratman, Hamilton, Hahn, Daily & Gross, "Nature experience reduces rumination and subgenual prefrontal cortex activation", PNAS 112(28), 2015 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/) — quotes checked against the article text, Abstract
 
 ## Psychology parallels
 

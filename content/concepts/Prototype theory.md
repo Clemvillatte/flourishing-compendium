@@ -40,7 +40,7 @@ Cognition · Psychological science
 
 ## Sources
 
-- [Rosch, E., "Principles of categorization" (1978), in Rosch and Lloyd (eds.), Cognition and categorization, 27-48, Lawrence Erlbaum](https://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/9778_083247.pdf) — the clear-cut-boundaries sentence, the two formation principles, the Rosch-Mervis negative-correlation finding, and the redundancy-structure summary (all verified verbatim in the opened PDF text)
+- [Rosch, E., "Principles of categorization" (1978), in Rosch and Lloyd (eds.), Cognition and categorization, 27-48, Lawrence Erlbaum](https://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/9778_083247.pdf) — the clear-cut-boundaries sentence, the two formation principles, the Rosch-Mervis negative-correlation finding, and the redundancy-structure summary (all verified verbatim in the PDF text)
 
 ## Cited in philosophy parallels
 

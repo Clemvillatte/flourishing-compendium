@@ -30,7 +30,7 @@ The same tree: lumber to the carpenter, home to the owl, carbon to the scientist
 
 ## Sources
 
-- [Nelson Goodman, Ways of Worldmaking, pp. 20–21, as quoted in Vervoort et al., "Scenarios and the art of worldmaking" (Futures, 2015)](https://people.cs.vt.edu/~aislingk/papers/vervoort_Futures15.pdf) — print edition of the book (Hackett, 1978); no open web edition verified, so the passage is quoted via the opened scholarly article.
+- [Nelson Goodman, Ways of Worldmaking, pp. 20–21, as quoted in Vervoort et al., "Scenarios and the art of worldmaking" (Futures, 2015)](https://people.cs.vt.edu/~aislingk/papers/vervoort_Futures15.pdf) — print edition of the book (Hackett, 1978); no open web edition verified, so the passage is quoted via the scholarly article.
 
 ## Practice kernels
 

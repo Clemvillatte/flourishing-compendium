@@ -34,8 +34,8 @@ The account's history matters to its use. Frith's 1989 original framed weak cohe
 
 ## Sources
 
-- [Happé, F., and Frith, U., "The weak coherence account: detail-focused cognitive style in autism spectrum disorders" (2006), Journal of Autism and Developmental Disorders 36(1), 5-25, PMID 16450045](https://pubmed.ncbi.nlm.nih.gov/16450045/) — the definition sentence, the review-of-50-studies finding, the three challenges to the deficit reading, and the executive-dysfunction and theory-of-mind independence claims (all verified verbatim on the opened PubMed record)
-- Frith, U. (1989). Autism: Explaining the Enigma (the 1989 deficit formulation, cited in the opened abstract)
+- [Happé, F., and Frith, U., "The weak coherence account: detail-focused cognitive style in autism spectrum disorders" (2006), Journal of Autism and Developmental Disorders 36(1), 5-25, PMID 16450045](https://pubmed.ncbi.nlm.nih.gov/16450045/) — the definition sentence, the review-of-50-studies finding, the three challenges to the deficit reading, and the executive-dysfunction and theory-of-mind independence claims (all verified verbatim on the PubMed record)
+- Frith, U. (1989). Autism: Explaining the Enigma (the 1989 deficit formulation, cited in the abstract)
 
 ## Cited in psychology parallels
 

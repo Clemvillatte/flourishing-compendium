@@ -49,4 +49,4 @@ Not applicable as a recording: response prevention is the deliberate absence of 
 ## Sources
 
 - [Gillihan, S. J., Williams, M. T., Malcoun, E., Yadin, E., & Foa, E. B. (2012). Common pitfalls in exposure and response prevention (EX/RP) for OCD. *Journal of Obsessive-Compulsive and Related Disorders*](https://pmc.ncbi.nlm.nih.gov/articles/PMC3423997/) — quotes verbatim; raw-text check done 2026-10-22.
-- Foa, E. B., et al. (2005). Randomized, placebo-controlled trial of exposure and ritual prevention, clomipramine, and their combination in the treatment of obsessive-compulsive disorder. *American Journal of Psychiatry*, 162(1), 151–161 — trial results as reported in the opened carrier above.
+- Foa, E. B., et al. (2005). Randomized, placebo-controlled trial of exposure and ritual prevention, clomipramine, and their combination in the treatment of obsessive-compulsive disorder. *American Journal of Psychiatry*, 162(1), 151–161 — trial results as reported in the carrier above.

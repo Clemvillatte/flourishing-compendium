@@ -28,7 +28,7 @@ For example: Giving a big presentation completely, and also quietly knowing it's
 
 ## Sources
 
-- [Jamgön Kongtrül, The Great Path of Awakening, trans. Ken McLeod (Shambhala)](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen) — commentary on the slogan, quoted verbatim on the opened Tibetan Buddhist Encyclopedia page
+- [Jamgön Kongtrül, The Great Path of Awakening, trans. Ken McLeod (Shambhala)](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen) — commentary on the slogan, quoted verbatim on the Tibetan Buddhist Encyclopedia page
 - [Pema Chödrön, Compassion Cards (Shambhala Publications, 2003)](http://www.shambhala.com/wp/wp-content/uploads/2018/06/20-cards.pdf) — commentary on the slogan; root-text slogan translation by Diana J. Mukpo and the Nalanda Translation Committee
 
 ## Psychology parallels

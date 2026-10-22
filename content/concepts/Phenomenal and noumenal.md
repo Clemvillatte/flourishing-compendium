@@ -26,7 +26,7 @@ Kant's distinction marks the boundary of knowledge. Space and time are the forms
 ## Sources
 
 - Kant, Critique of Pure Reason
-- [Immanuel Kant, Critique of Pure Reason, trans. J. M. D. Meiklejohn, Project Gutenberg](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm) — the opened carrier of the quotations above.
+- [Immanuel Kant, Critique of Pure Reason, trans. J. M. D. Meiklejohn, Project Gutenberg](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm) — the carrier of the quotations above.
 
 ## Cited in philosophy parallels
 

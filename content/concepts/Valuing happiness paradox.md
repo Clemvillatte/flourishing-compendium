@@ -25,7 +25,7 @@ The practical lesson is not to abandon happiness but to stop aiming at it direct
 
 ## Sources
 
-- [Mauss, I. B., Tamir, M., Anderson, C. L., & Savino, N. S. (2011), "Can seeking happiness make people unhappy? Paradoxical effects of valuing happiness," Emotion 11(4), 807–815, PubMed](https://pubmed.ncbi.nlm.nih.gov/21517168/) — the opened carrier; the quoted sentences are from the abstract.
+- [Mauss, I. B., Tamir, M., Anderson, C. L., & Savino, N. S. (2011), "Can seeking happiness make people unhappy? Paradoxical effects of valuing happiness," Emotion 11(4), 807–815, PubMed](https://pubmed.ncbi.nlm.nih.gov/21517168/) — the carrier; the quoted sentences are from the abstract.
 
 ## Cited in psychology parallels
 

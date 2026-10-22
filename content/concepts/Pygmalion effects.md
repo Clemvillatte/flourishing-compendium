@@ -29,7 +29,7 @@ The book's own caveat: "For the basic year of the experiment, the self-fulfillin
 ## Sources
 
 - Rosenthal and Jacobson, 1968
-- [Robert Rosenthal and Lenore Jacobson, Pygmalion in the Classroom, chapter 7 excerpt, Tufts](https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/804/files/2017/02/Pygmalion-in-the-Classroom.pdf) — the opened carrier of the quotations above.
+- [Robert Rosenthal and Lenore Jacobson, Pygmalion in the Classroom, chapter 7 excerpt, Tufts](https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/804/files/2017/02/Pygmalion-in-the-Classroom.pdf) — the carrier of the quotations above.
 
 ## Cited in psychology parallels
 

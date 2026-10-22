@@ -27,7 +27,7 @@ Jones and Nisbett's actor-observer hypothesis says people explain their own beha
 
 ### What was not checked
 
-The original entry's claim about a reversal of self-serving attribution in depression research was not checked for this page. The meta-analysis above covers valence only, and no depression source was opened.
+The original entry's claim about a reversal of self-serving attribution in depression research was not checked for this page. The meta-analysis above covers valence only, and no depression source is cited.
 
 ### In the compendium
 

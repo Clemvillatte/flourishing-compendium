@@ -25,7 +25,7 @@ In the Stanford Encyclopedia's account of the transcendental deduction, Kant arg
 
 "Interpretation" can suggest that perception is a subjective guess that varies from person to person. Kant says something different. The categories apply with necessity to all objects we can experience, and the structure is the same in every human mind. The Stanford entry also notes the "central and most controversial thesis" that humans "experience only appearances, not things in themselves". The label therefore suits the view that perception is shaped by the mind, but not the idea that every reading of experience is equally valid.
 
-The link to modern psychology, such as predictive accounts of perception, is the compendium's bridge. The sources opened here are philosophical and do not test it.
+The link to modern psychology, such as predictive accounts of perception, is the compendium's bridge. The sources cited here are philosophical and do not test it.
 
 ### In the compendium
 

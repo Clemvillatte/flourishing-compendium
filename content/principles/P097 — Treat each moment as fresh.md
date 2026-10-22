@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Rogers describes openness to experience as a willingness to encounter feelings and situations without forcing them into a preconceived picture of oneself. His account includes fear, discouragement and pain as well as courage and tenderness. Freshness here means allowing the present to inform your understanding ([On Becoming a Person excerpt, “The Characteristics of the Process”](https://www.panarchy.org/rogers/person.html)).
 
-> "I believe it would be evident that for the person who was fully open to his new experience, completely without defensiveness, each moment would be new." (Rogers, “Increasingly Existential Living,” in the opened excerpt.)
+> "I believe it would be evident that for the person who was fully open to his new experience, completely without defensiveness, each moment would be new." (Rogers, “Increasingly Existential Living,” in the excerpt.)
 
 ### Make room for what is here
 

@@ -20,7 +20,7 @@ And the narrowing result:
 
 > "In Experiment 2, negative emotions, relative to a neutral state, narrowed thought-action repertoires." ([Fredrickson & Branigan, 2005, same abstract](https://pubmed.ncbi.nlm.nih.gov/21852891/))
 
-The study is about emotional states: in the opened abstract, positive emotions broadened the scope of attention in Experiment 1, and negative emotions narrowed thought-action repertoires in Experiment 2. It is not a study of deliberate focus. The compendium's zoom practice — narrow to inspect a detail, broaden to inspect context — is an exercise, not a finding from this study.
+The study is about emotional states: in the abstract, positive emotions broadened the scope of attention in Experiment 1, and negative emotions narrowed thought-action repertoires in Experiment 2. It is not a study of deliberate focus. The compendium's zoom practice — narrow to inspect a detail, broaden to inspect context — is an exercise, not a finding from this study.
 
 **Plain words** The study found that emotional states move the scope of attention and thought: positive emotions broadened it in one experiment, and negative emotions narrowed thought-action repertoires in another. The zoom practice takes that as a hint, not a proof: when you need a detail, narrow; when you need the context, broaden. The study does not test whether deliberately doing this works.
 

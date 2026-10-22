@@ -29,7 +29,7 @@ The same paper's conclusion gives the individual-difference reading:
 
 ## Sources
 
-- [Guadagno RE, Asher T, Demaine LJ, Cialdini RB (2001). When Saying Yes Leads to Saying No: Preference for Consistency and the Reverse Foot-in-the-Door Effect. Personality and Social Psychology Bulletin, 27(7):879-886](https://journals.sagepub.com/doi/10.1177/0146167201277008) — the opened paper on preference for consistency and the FITD effect.
+- [Guadagno RE, Asher T, Demaine LJ, Cialdini RB (2001). When Saying Yes Leads to Saying No: Preference for Consistency and the Reverse Foot-in-the-Door Effect. Personality and Social Psychology Bulletin, 27(7):879-886](https://journals.sagepub.com/doi/10.1177/0146167201277008) — the paper on preference for consistency and the FITD effect.
 - Cialdini, 2001
 
 ## Cited in psychology parallels

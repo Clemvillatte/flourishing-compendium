@@ -56,4 +56,4 @@ Affect · Psychological science
 ## Sources
 
 - [Hobfoll, S. E. (1989), "Conservation of resources: A new attempt at conceptualizing stress", American Psychologist 44(3), 513-524 — PubMed record, PMID 2648906](https://pubmed.ncbi.nlm.nih.gov/2648906/) — abstract-derived quotations: the model statement and the critique of prior stress models
-- ["Conservation of Resources Theory", a chapter of The Handbook of Stress and Health, Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118993811.ch27) — carrier for the loss-salience statement and the defend-conserve-acquire sentence, from the opened chapter page's visible abstract
+- ["Conservation of Resources Theory", a chapter of The Handbook of Stress and Health, Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118993811.ch27) — carrier for the loss-salience statement and the defend-conserve-acquire sentence, from the chapter page's visible abstract

@@ -29,7 +29,7 @@ Heidegger's point is not that conformity is a moral failing. The they is where a
 
 ## Sources
 
-- [Heidegger, M. (1927), Being and Time, Macquarrie-Robinson translation, §27, beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.165.html) — the opened carrier of the verbatim publicness and averageness quotes.
+- [Heidegger, M. (1927), Being and Time, Macquarrie-Robinson translation, §27, beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.165.html) — the carrier of the verbatim publicness and averageness quotes.
 
 ## Cited in philosophy parallels
 

@@ -40,7 +40,7 @@ Motivation · Psychological science
 
 ## Sources
 
-- [Ryan, R. M., and Deci, E. L., "Self-Determination Theory" (2022), Encyclopedia of Quality of Life and Well-Being Research, Springer](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf) — the postulates sentence, the BPNT formalized-propositions passage, the all-three-essential claim, and the cross-cultural programme note (all verified verbatim in the opened PDF text)
+- [Ryan, R. M., and Deci, E. L., "Self-Determination Theory" (2022), Encyclopedia of Quality of Life and Well-Being Research, Springer](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf) — the postulates sentence, the BPNT formalized-propositions passage, the all-three-essential claim, and the cross-cultural programme note (all verified verbatim in the PDF text)
 
 ## Cited in parallels
 

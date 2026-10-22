@@ -22,7 +22,7 @@ For example: In a heated meeting, noticing that you're furious and noticing that
 
 ## Sources
 
-- [Ninth Karmapa Wangchuk Dorje, Mahamudra: Eliminating the Darkness of Ignorance, trans. Alexander Berzin (Study Buddhism)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/tantra-texts/mahamudra-eliminating-the-darkness-of-ignorance/mahamudra-vipashyana-meditation) — settled/stirring examination, water-and-waves image, awareness/unawareness passage, and the mind-appearance inseparability quoted verbatim from the opened page
+- [Ninth Karmapa Wangchuk Dorje, Mahamudra: Eliminating the Darkness of Ignorance, trans. Alexander Berzin (Study Buddhism)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/tantra-texts/mahamudra-eliminating-the-darkness-of-ignorance/mahamudra-vipashyana-meditation) — settled/stirring examination, water-and-waves image, awareness/unawareness passage, and the mind-appearance inseparability quoted verbatim from the page
 
 ## Psychology parallels
 

@@ -23,7 +23,7 @@ The view reverses the usual metaphysical habit. Substance-metaphysics asks what 
 
 ## Sources
 
-- [Whitehead, A. N. (1929), Process and Reality, quoted verbatim in Larval Subjects](https://larvalsubjects.wordpress.com/2009/03/07/objectiles-and-actual-occasions/) — the opened carrier for both the actual-occasions passage and the being/becoming principle.
+- [Whitehead, A. N. (1929), Process and Reality, quoted verbatim in Larval Subjects](https://larvalsubjects.wordpress.com/2009/03/07/objectiles-and-actual-occasions/) — the carrier for both the actual-occasions passage and the being/becoming principle.
 
 ## Cited in philosophy parallels
 

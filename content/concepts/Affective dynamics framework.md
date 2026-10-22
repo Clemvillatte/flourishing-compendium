@@ -26,7 +26,7 @@ The meta-analytic result pairs all three with low well-being: across 793 effect 
 
 ## Sources
 
-- [Houben, M., Van Den Noortgate, W., & Kuppens, P. (2015), "The relation between short-term emotion dynamics and psychological well-being: A meta-analysis," Psychological Bulletin 141(4), 901–930, PubMed](https://pubmed.ncbi.nlm.nih.gov/25822133/) — the opened carrier for both verbatim abstract sentences.
+- [Houben, M., Van Den Noortgate, W., & Kuppens, P. (2015), "The relation between short-term emotion dynamics and psychological well-being: A meta-analysis," Psychological Bulletin 141(4), 901–930, PubMed](https://pubmed.ncbi.nlm.nih.gov/25822133/) — the carrier for both verbatim abstract sentences.
 
 ## Cited in psychology parallels
 

@@ -31,7 +31,7 @@ Later work tied the modes to outcomes: assessment predicts procrastination and i
 
 - Kruglanski, A. W., Thompson, E. P., Higgins, E. T., Atash, M. N., Pierro, A., Shah, J. Y., and Spiegel, S., "To 'Do the Right Thing' or to 'Just Do It': Locomotion and Assessment as Distinct Self-Regulatory Imperatives," Journal of Personality and Social Psychology 79, 2000
 
-- [Paper PDF hosted at Columbia University](https://www.columbia.edu/cu/psychology/higgins/papers/kruglanski%202000%20rmode.pdf) — the opened carrier of the quotations above.
+- [Paper PDF hosted at Columbia University](https://www.columbia.edu/cu/psychology/higgins/papers/kruglanski%202000%20rmode.pdf) — the carrier of the quotations above.
 
 ## Cited in psychology parallels
 

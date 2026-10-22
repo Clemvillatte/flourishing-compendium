@@ -25,7 +25,7 @@ Leibniz's preface to the New Essays argues that the mind is busy far below what 
 ## Sources
 
 - Leibniz, New Essays on Human Understanding
-- [Leibniz, New Essays on Human Understanding, Preface and Book I, trans. Jonathan Bennett (earlymoderntexts)](https://www.earlymoderntexts.com/assets/pdfs/leibniz1705book1.pdf) — the opened carrier of the quotation above.
+- [Leibniz, New Essays on Human Understanding, Preface and Book I, trans. Jonathan Bennett (earlymoderntexts)](https://www.earlymoderntexts.com/assets/pdfs/leibniz1705book1.pdf) — the carrier of the quotation above.
 
 ## Cited in philosophy parallels
 

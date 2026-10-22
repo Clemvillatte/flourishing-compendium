@@ -21,7 +21,7 @@ The abstract goes on to note that many characteristics once believed to reflect 
 
 Tetlock's *Expert Political Judgment* examined expert political forecasting. It records 284 experts making roughly 28,000 predictions between 1984 and 2003, and the findings were that forecasters were often only slightly more accurate than chance and usually worse than simple extrapolation algorithms, especially on longer-range forecasts ([Wikipedia, Philip E. Tetlock](https://en.wikipedia.org/wiki/Philip_E._Tetlock)).
 
-(Ericsson et al., 1993; Tetlock, 2005, as summarized in the opened sources.)
+(Ericsson et al., 1993; Tetlock, 2005, as summarized in the sources.)
 
 **Plain words** When asking a specialist for advice, ask what supports this particular answer and how uncertain it is. Decide what further evidence you need before acting.
 

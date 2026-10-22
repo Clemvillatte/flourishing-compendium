@@ -24,8 +24,8 @@ For example: A craftsperson realises her skill is a gift from her teachers and c
 
 ## Sources
 
-- [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/) — mediation structure, the nation-state lapse, and Tanabe's correction quoted verbatim from the opened entry
-- [Melanie Coughlin, review of Morisato, Tanabe Hajime and the Kyoto School (Journal of Buddhist Ethics, 2023)](https://blogs.dickinson.edu/buddhistethics/files/2023/11/Coughlin_Review_of_Morisato_Tanabe_Hajime_and_the_Kyoto_School.pdf) — the tripartite scheme and Tanabe's "differences rather than opposition" correction quoted verbatim from the opened PDF (quoting Morisato's translation of Tanabe)
+- [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/) — mediation structure, the nation-state lapse, and Tanabe's correction quoted verbatim from the entry
+- [Melanie Coughlin, review of Morisato, Tanabe Hajime and the Kyoto School (Journal of Buddhist Ethics, 2023)](https://blogs.dickinson.edu/buddhistethics/files/2023/11/Coughlin_Review_of_Morisato_Tanabe_Hajime_and_the_Kyoto_School.pdf) — the tripartite scheme and Tanabe's "differences rather than opposition" correction quoted verbatim from the PDF (quoting Morisato's translation of Tanabe)
 
 ## Psychology parallels
 

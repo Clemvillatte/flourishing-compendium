@@ -27,7 +27,7 @@ The practical upshot is not to abandon self-report but to stop treating it as te
 
 ## Sources
 
-- [Nisbett, R. E. & Wilson, T. D. (1977), "Telling More Than We Can Know: Verbal Reports on Mental Processes," Psychological Review 84(3), 231–259 (PDF)](https://home.csulb.edu/~cwallis/382/readings/482/nisbett%20saying%20more.pdf) — the opened carrier; the quoted sentence is the article's opening abstract sentence.
+- [Nisbett, R. E. & Wilson, T. D. (1977), "Telling More Than We Can Know: Verbal Reports on Mental Processes," Psychological Review 84(3), 231–259 (PDF)](https://home.csulb.edu/~cwallis/382/readings/482/nisbett%20saying%20more.pdf) — the carrier; the quoted sentence is the article's opening abstract sentence.
 
 ## Cited in philosophy parallels
 

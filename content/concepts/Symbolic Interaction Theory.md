@@ -13,7 +13,7 @@ Symbolic interaction theory holds that people act toward things, other people in
 
 ### Origin
 
-The tradition runs from George Herbert Mead's pragmatist social psychology to Herbert Blumer, who, per the opened carrier, coined the term and condensed the approach into the three premises quoted here.
+The tradition runs from George Herbert Mead's pragmatist social psychology to Herbert Blumer, who, per the carrier, coined the term and condensed the approach into the three premises quoted here.
 
 ### The three premises
 

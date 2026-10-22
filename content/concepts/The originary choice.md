@@ -23,7 +23,7 @@ The original choice is not a decision made at a moment, and that is precisely it
 
 ## Sources
 
-- Sartre, J.-P. Being and Nothingness (1943) — doctrine summarised with BN page citations (564, 565) in the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/sartre-ex/); the "not a deliberate choice... foundation of any deliberation" passage quoted verbatim from Sartre (2018, p. 604) as reproduced in Schmidt, P. (2020), [Freedom as a Constitutive Aim, philarchive](https://philarchive.org/archive/ALTFAA-3); raw-text checks done 2026-10-22.
+- Sartre, J.-P. Being and Nothingness (1943) — doctrine summarised with BN page citations (564, 565) in the [Internet Encyclopedia of Philosophy](https://iep.utm.edu/sartre-ex/); the "not a deliberate choice... foundation of any deliberation" passage quoted verbatim from Sartre (2018, p. 604) as reproduced in Schmidt, P. (2020), [Freedom as a Constitutive Aim, philarchive](https://philarchive.org/archive/ALTFAA-3); raw-text checks done.
 
 ## Cited in philosophy parallels
 

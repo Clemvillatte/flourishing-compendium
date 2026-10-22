@@ -37,7 +37,7 @@ Ryff's critique targeted two prior indexes: Bradburn's affect balance, built for
 - [[A001]] — Ryff's measured dimensions are compared without being equated with Aristotelian virtue
 ## Sources
 
-- [Ryff, C. D., "Happiness Is Everything, or Is It? Explorations on the Meaning of Psychological Well-Being" (1989), Journal of Personality and Social Psychology 57(6), 1069-1081](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf) — the abstract's grounding-and-dimensions sentences and the not-strongly-tied findings (verified verbatim in the opened PDF text); the eudaimonia-translation argument and the Bradburn critique paraphrased from the same opened text
+- [Ryff, C. D., "Happiness Is Everything, or Is It? Explorations on the Meaning of Psychological Well-Being" (1989), Journal of Personality and Social Psychology 57(6), 1069-1081](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf) — the abstract's grounding-and-dimensions sentences and the not-strongly-tied findings (verified verbatim in the PDF text); the eudaimonia-translation argument and the Bradburn critique paraphrased from the same opened text
 
 ## Cited in psychology parallels
 

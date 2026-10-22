@@ -24,7 +24,7 @@ The review frames the purpose in terms of extinction: "Response prevention would
 
 ## Sources
 
-- [Law & Boisseau, "Exposure and Response Prevention in the Treatment of Obsessive-Compulsive Disorder: Current Perspectives", Psychology Research and Behavior Management 12: 1167-1174, 2019 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/) — quotes checked against the opened article text, Introduction and Exposure and Response Prevention sections
+- [Law & Boisseau, "Exposure and Response Prevention in the Treatment of Obsessive-Compulsive Disorder: Current Perspectives", Psychology Research and Behavior Management 12: 1167-1174, 2019 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6935308/) — quotes checked against the article text, Introduction and Exposure and Response Prevention sections
 
 ## Psychology parallels
 

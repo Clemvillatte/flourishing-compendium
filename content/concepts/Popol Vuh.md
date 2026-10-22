@@ -31,7 +31,7 @@ The twins' plan to shoot him, made before the deed, ends on the same line the na
 ## Sources
 
 - Wikipedia Popol Vuh: https://en.wikipedia.org/wiki/Popol_Vuh
-- [Popol Vuh: The Sacred Book of the Ancient Quiché Maya, English by Delia Goetz and Sylvanus G. Morley from Adrián Recinos's Spanish translation, text at latinamericanstudies.org](https://latinamericanstudies.org/maya/Popol_Vuh.pdf) — the opened carrier of the quotations above, with chapter locators.
+- [Popol Vuh: The Sacred Book of the Ancient Quiché Maya, English by Delia Goetz and Sylvanus G. Morley from Adrián Recinos's Spanish translation, text at latinamericanstudies.org](https://latinamericanstudies.org/maya/Popol_Vuh.pdf) — the carrier of the quotations above, with chapter locators.
 
 ## Cited in philosophy parallels
 

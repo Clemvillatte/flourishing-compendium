@@ -23,7 +23,7 @@ The same section links fidelity with hope: "Thus, creative fidelity invariably t
 
 ### Reading Marcel carefully
 
-The sources opened here support reading Marcel's fidelity as presence and openness to another person, kept up over time. They do not, on their own, support reading it as a technique or a duty of consistency.
+The sources cited here support reading Marcel's fidelity as presence and openness to another person, kept up over time. They do not, on their own, support reading it as a technique or a duty of consistency.
 
 ## Related concepts
 

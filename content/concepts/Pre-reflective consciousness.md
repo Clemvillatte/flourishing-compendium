@@ -29,7 +29,7 @@ The consequence Sartre draws is that this pre-reflective awareness is what makes
 ## Sources
 
 - Sartre, Being and Nothingness
-- [Stanford Encyclopedia of Philosophy, Phenomenological Approaches to Self-Consciousness](https://plato.stanford.edu/entries/self-consciousness-phenomenological/) — the opened carrier of the quotation above, quoting the Barnes translation of Being and Nothingness with page references.
+- [Stanford Encyclopedia of Philosophy, Phenomenological Approaches to Self-Consciousness](https://plato.stanford.edu/entries/self-consciousness-phenomenological/) — the carrier of the quotation above, quoting the Barnes translation of Being and Nothingness with page references.
 
 ## Cited in philosophy parallels
 

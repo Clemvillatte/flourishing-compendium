@@ -44,14 +44,14 @@ For an illustration: someone who did not see a cake being eaten still expects th
 
 ## Sources
 
-- Baron-Cohen, 1995 — inherited original reference; the book's proposal is summarised in the opened Wilkinson encyclopedia entry below.
+- Baron-Cohen, 1995 — inherited original reference; the book's proposal is summarised in the Wilkinson encyclopedia entry below.
 - Premack and Woodruff, 1978
 - Apperly, 2011 — inherited original reference, consulted via search results only.
 - [Premack, D. and Woodruff, G. (1978), Behavioral and Brain Sciences 1(4), 515-526](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/does-the-chimpanzee-have-a-theory-of-mind/1E96B02CD9850016B7C93BC6D2FEF1D0) — origin of the term; definition passage at p. 515.
-- [Tanaka, S. (2015), Theory and Psychology 25(4), PMC5390942](https://pmc.ncbi.nlm.nih.gov/articles/PMC5390942/) — the opened carrier of the verbatim definition quote.
+- [Tanaka, S. (2015), Theory and Psychology 25(4), PMC5390942](https://pmc.ncbi.nlm.nih.gov/articles/PMC5390942/) — the carrier of the verbatim definition quote.
 - [Internet Encyclopedia of Philosophy, "Theory of Mind"](https://iep.utm.edu/theomind/) — false-belief task detail, Baron-Cohen Leslie Frith percentages, theory-theory versus simulation-theory framing, Apperly reading.
-- [Wilkinson, L. A. (2011), "Mindblindness", Encyclopedia of Child Behavior and Development](https://link.springer.com/rwe/10.1007/978-0-387-79061-9_1795) — the opened summary of Baron-Cohen's 1995 proposal.
-- [Call, J. and Tomasello, M. (2008), Trends in Cognitive Sciences 12(5), 187-192](https://www.eva.mpg.de/documents/Elsevier/Call_Does_TrendsCogSci_2008_1554401.pdf) — the chimpanzee evidence thirty years on; broad and narrow construals quoted from the opened PDF.
+- [Wilkinson, L. A. (2011), "Mindblindness", Encyclopedia of Child Behavior and Development](https://link.springer.com/rwe/10.1007/978-0-387-79061-9_1795) — the summary of Baron-Cohen's 1995 proposal.
+- [Call, J. and Tomasello, M. (2008), Trends in Cognitive Sciences 12(5), 187-192](https://www.eva.mpg.de/documents/Elsevier/Call_Does_TrendsCogSci_2008_1554401.pdf) — the chimpanzee evidence thirty years on; broad and narrow construals quoted from the PDF.
 
 ## Cited in psychology parallels
 

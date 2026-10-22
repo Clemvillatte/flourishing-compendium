@@ -30,7 +30,7 @@ A later chapter of the book, outside the Inner Chapters, carries the same samene
 ## Sources
 
 - Zhuangzi, Inner Chapters
-- [Zhuangzi, Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles (1889), chapters II and XXI, Project Gutenberg](https://www.gutenberg.org/files/59709/59709-h/59709-h.htm) — the opened carrier of the quotations above.
+- [Zhuangzi, Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles (1889), chapters II and XXI, Project Gutenberg](https://www.gutenberg.org/files/59709/59709-h/59709-h.htm) — the carrier of the quotations above.
 
 ## Cited in philosophy parallels
 

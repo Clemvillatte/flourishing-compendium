@@ -28,7 +28,7 @@ The abstract carries a cost note: acting out of character "may also compromise w
 ## Sources
 
 - Little, 2008
-- [Brian R. Little, "Personal Projects and Free Traits: Personality and Motivation Reconsidered," Social and Personality Psychology Compass 2 (2008), abstract, Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x) — the opened carrier of the quotation above.
+- [Brian R. Little, "Personal Projects and Free Traits: Personality and Motivation Reconsidered," Social and Personality Psychology Compass 2 (2008), abstract, Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x) — the carrier of the quotation above.
 
 ## Cited in psychology parallels
 

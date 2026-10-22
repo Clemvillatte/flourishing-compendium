@@ -39,6 +39,6 @@ Self · Psychological science
 
 ## Sources
 
-- Zuckerman, M. (1994). Behavioral Expressions and Biosocial Bases of Sensation Seeking. Cambridge University Press. — sensation-seeking definition quoted verbatim (p. 27) via the opened [WKU review PDF](https://people.wku.edu/richard.miller/520_Sensation-seeking%20physiology%20correlates.pdf)
-- Zuckerman, M., et al. (1993). The Zuckerman–Kuhlman Personality Questionnaire and its five-factor structure. — cited by the opened review as the model's instrument (full bibliographic details not verified from an source)
+- Zuckerman, M. (1994). Behavioral Expressions and Biosocial Bases of Sensation Seeking. Cambridge University Press. — sensation-seeking definition quoted verbatim (p. 27) via the [WKU review PDF](https://people.wku.edu/richard.miller/520_Sensation-seeking%20physiology%20correlates.pdf)
+- Zuckerman, M., et al. (1993). The Zuckerman–Kuhlman Personality Questionnaire and its five-factor structure. — cited by the review as the model's instrument (full bibliographic details not verified from an source)
 - A review of behavioral and biological correlates of sensation seeking (open [PDF](https://people.wku.edu/richard.miller/520_Sensation-seeking%20physiology%20correlates.pdf), opened) — the carrier quoting both definitions above

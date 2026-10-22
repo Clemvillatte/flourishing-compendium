@@ -21,7 +21,7 @@ A 2017 study by Strachan and colleagues, summarising earlier work, says that whe
 
 ### In the compendium
 
-The principles listed (R070, AT062, K355, K248 and others) use social attention to talk about attentiveness to people and about how digital environments capture attention. The sources opened here establish that attention is shaped by others' gaze in laboratory tasks. They do not test attentiveness as a virtue, synchrony practice, or the effects of social media feeds, and those links are the compendium's own. Only the abstract of Frischen et al. (2007) was opened, not the full review.
+The principles listed (R070, AT062, K355, K248 and others) use social attention to talk about attentiveness to people and about how digital environments capture attention. The sources cited here establish that attention is shaped by others' gaze in laboratory tasks. They do not test attentiveness as a virtue, synchrony practice, or the effects of social media feeds, and those links are the compendium's own. Only the abstract of Frischen et al. (2007) is available in open text, not the full review.
 
 ## Related concepts
 

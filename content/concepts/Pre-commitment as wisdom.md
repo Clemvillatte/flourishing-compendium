@@ -29,8 +29,8 @@ Seneca's counsel for dealing with emotion is timing. An emotion is weak at the t
 ## Sources
 
 - Stoics, Seneca
-- [Seneca, Epistle 116, "On Self-Control," trans. Richard M. Gummere, Monadnock Valley Press](https://monadnock.net/seneca/116.html) — the opened carrier of the Epistle 116 quotations above.
-- [Seneca, Epistle 123, "On the Conflict Between Pleasure and Virtue," lettersfromastoic.net](https://www.lettersfromastoic.net/letter-123-on-the-conflict-between-pleasure-and-virtue/) — the opened carrier of the Ulysses quotation above.
+- [Seneca, Epistle 116, "On Self-Control," trans. Richard M. Gummere, Monadnock Valley Press](https://monadnock.net/seneca/116.html) — the carrier of the Epistle 116 quotations above.
+- [Seneca, Epistle 123, "On the Conflict Between Pleasure and Virtue," lettersfromastoic.net](https://www.lettersfromastoic.net/letter-123-on-the-conflict-between-pleasure-and-virtue/) — the carrier of the Ulysses quotation above.
 
 ## Cited in philosophy parallels
 

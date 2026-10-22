@@ -32,7 +32,7 @@ The passage's reasoning runs through the whole and the part. A hand cut off from
 
 ## Sources
 
-- [Aristotle, Politics I.2, 1253a, Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0058:book=1:section=1253a) — the opened carrier of all verbatim quotes, fetched without an extraction prompt; parenthesis characters normalised from the page's rendering.
+- [Aristotle, Politics I.2, 1253a, Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0058:book=1:section=1253a) — the carrier of all verbatim quotes, fetched without an extraction prompt; parenthesis characters normalised from the page's rendering.
 
 ## Cited in philosophy parallels
 

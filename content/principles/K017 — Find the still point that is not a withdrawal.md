@@ -22,7 +22,7 @@ For example: After a few weeks of practice, you're more available to your kids a
 
 ## Sources
 
-- [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/) — the field-of-emptiness passage, the "true emptiness, marvelous being" formulation, and Nishida's action-intuition quoted verbatim from the opened entry
+- [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/) — the field-of-emptiness passage, the "true emptiness, marvelous being" formulation, and Nishida's action-intuition quoted verbatim from the entry
 
 ## Psychology parallels
 

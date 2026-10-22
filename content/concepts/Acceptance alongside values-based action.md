@@ -30,7 +30,7 @@ Acceptance involves attending to thoughts, feelings and bodily sensations withou
 
 ## Sources
 
-- Hayes, Strosahl and Wilson, 2011 (the six-process model's first presentation; see the opened Webster source)
+- Hayes, Strosahl and Wilson, 2011 (the six-process model's first presentation; see the Webster source)
 
 - [Webster, "Introduction to acceptance and commitment therapy" (Advances in Psychiatric Treatment 17(4), 2011, Cambridge Core)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introduction-to-acceptance-and-commitment-therapy/D67B44FDED4147CA35C1AA8FA9D3DDA5) — source for the Summary sentence, the acceptance and committed-action descriptions, the six components and the psychological flexibility aim
 

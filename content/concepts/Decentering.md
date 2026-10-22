@@ -69,7 +69,7 @@ Fresco and colleagues also describe decentering in clinical practice:
 - [Bernstein et al., 2015, Perspectives on Psychological Science 10(5):599-617](https://journals.sagepub.com/doi/10.1177/1745691615594577) — the proposed metacognitive processes model
 - [Bernstein et al., authors’ manuscript of the same paper](https://www.observingmindslab.com/s/PPS-DecenteringMetaCogProc_March-25-2015_in-press-1gam.pdf) — the three process definitions; the Safran and Segal p. 117 quotation
 
-- Safran and Segal, 1990 — the construct’s early description (p. 117, quoted via the opened Bernstein manuscript)
+- Safran and Segal, 1990 — the construct’s early description (p. 117, quoted via the Bernstein manuscript)
 - [Fresco et al., 2007, Behavior Therapy 38:234-246](https://contextualscience.org/sites/default/files/Fresco,2007.pdf) — the definition; the Experiences Questionnaire
 
 ## Cited in psychology parallels

@@ -26,7 +26,7 @@ Theoria is not inquiry. It is the having of understanding, not the search for it
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics, Book X.8, trans. W. D. Ross, aristotle-ethics.com](https://www.aristotle-ethics.com/book/book-10/chapter/chapter-8/paragraph/paragraph-2-the-contemplative-nature-of-supreme-happiness) — the opened carrier for the verbatim God-contemplation passage.
+- [Aristotle, Nicomachean Ethics, Book X.8, trans. W. D. Ross, aristotle-ethics.com](https://www.aristotle-ethics.com/book/book-10/chapter/chapter-8/paragraph/paragraph-2-the-contemplative-nature-of-supreme-happiness) — the carrier for the verbatim God-contemplation passage.
 - Wikipedia, "Theoria" (inherited original reference, not consulted this pass).
 
 ## Cited in philosophy parallels

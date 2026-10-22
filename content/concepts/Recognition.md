@@ -35,7 +35,7 @@ Iser traces mutual recognition through Fichte and Hegel. His account presents He
 
 ## Sources
 
-- [Iser, M., "Recognition" (2026 revision), Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/recognition/) — the Honneth three-spheres sentence, the Hegel master-slave and Philosophy of Right passages, the standing-versus-distribution framing of justice, and the misrecognition-harm claims (all verified verbatim in the opened entry text)
+- [Iser, M., "Recognition" (2026 revision), Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/recognition/) — the Honneth three-spheres sentence, the Hegel master-slave and Philosophy of Right passages, the standing-versus-distribution framing of justice, and the misrecognition-harm claims (all verified verbatim in the entry text)
 
 ## Cited in philosophy parallels
 

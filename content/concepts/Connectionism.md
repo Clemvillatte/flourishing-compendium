@@ -73,6 +73,6 @@ Quantitative General · Psychological science
 [[SO034 — Treat knowledge as social]]
 ## Sources
 
-- [Internet Encyclopedia of Philosophy, "Connectionism"](https://iep.utm.edu/connectionism/) — the definition, the 1986 PDP resurgence, the representation and processing claims, the learning characterization, the past-tense model, and the Fodor-Pylyshyn critique; all quotations verified verbatim against the opened page (the article's byline was not verifiable from the opened HTML; no editor claim made)
+- [Internet Encyclopedia of Philosophy, "Connectionism"](https://iep.utm.edu/connectionism/) — the definition, the 1986 PDP resurgence, the representation and processing claims, the learning characterization, the past-tense model, and the Fodor-Pylyshyn critique; all quotations verified verbatim against the page (the article's byline was not verifiable from the HTML; no editor claim made)
 - [McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. (1986), "The Appeal of Parallel Distributed Processing", in Parallel Distributed Processing, Vol. 1: Foundations, Chapter 1 — PDF at Stanford](https://stanford.edu/~jlmcc/papers/PDP/Chapter1.pdf) — the theorists' own statement of the approach's wager
 - Rumelhart, D., Hinton, G., & Williams, R. (1986), "Learning internal representations by error propagation", in Parallel Distributed Processing, Vol. 1 — the backpropagation paper named by the IEP article's references

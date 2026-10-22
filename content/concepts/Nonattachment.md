@@ -17,7 +17,7 @@ Sahdra and colleagues distinguish nonattachment from secure and insecure interpe
 
 ### Measuring everyday experience
 
-The Nonattachment Scale is a 30-item self-report measure of how nonattachment appears in ordinary life ([Devine and colleagues, abstract](https://link.springer.com/rwe/10.1007/978-3-031-47219-0_38)). Its instructions ask people to report their actual experience rather than how they think they should be ([appendix 1](https://link.springer.com/rwe/10.1007/978-3-031-47219-0_38)). The original study reports evidence consistent with psychological and social adaptiveness; the opened abstract does not supply a causal test showing that increasing nonattachment produces those benefits ([Sahdra et al., 2010](https://pubmed.ncbi.nlm.nih.gov/20155561/)).
+The Nonattachment Scale is a 30-item self-report measure of how nonattachment appears in ordinary life ([Devine and colleagues, abstract](https://link.springer.com/rwe/10.1007/978-3-031-47219-0_38)). Its instructions ask people to report their actual experience rather than how they think they should be ([appendix 1](https://link.springer.com/rwe/10.1007/978-3-031-47219-0_38)). The original study reports evidence consistent with psychological and social adaptiveness; the abstract does not supply a causal test showing that increasing nonattachment produces those benefits ([Sahdra et al., 2010](https://pubmed.ncbi.nlm.nih.gov/20155561/)).
 
 ## Related concepts
 

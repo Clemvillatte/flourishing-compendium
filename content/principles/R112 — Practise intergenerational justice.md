@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 374** — Practise intergenerational justice
 
-Jonas proposes an imperative for what he calls a new type of human action, addressed to the new type of agency that operates it ([Philosophical Essays, 1980, quoted in the opened Lublin text](https://up.lublin.pl/files/biochemia/Etyka/ethics,_may,_28.pdf)):
+Jonas proposes an imperative for what he calls a new type of human action, addressed to the new type of agency that operates it ([Philosophical Essays, 1980, quoted in the Lublin text](https://up.lublin.pl/files/biochemia/Etyka/ethics,_may,_28.pdf)):
 
 > An imperative responding to the new type of human action and addressed to the new type of agency that operates it might run thus: "Act so that the effects of your action are compatible with the permanence of genuine human life"; or expressed negatively: "Act so that the effects of your action are not destructive of the future possibility of such life"; or simply: "Do not compromise the conditions for an indefinite continuation of humanity on earth"; or most generally: "In your present choices, include the future wholeness of Man among the objects of your will."
 

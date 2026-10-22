@@ -43,7 +43,7 @@ The 2016 revision, stated on animal evidence, inverts the original direction of 
 ### In everyday life
 The original experiment contains its own documented cure attempt. Threats, rewards and demonstrations of escape did nothing for the helpless dogs; what worked was being physically moved through the motions of escape, at least twice, after which they began jumping the barrier on their own ([Wikipedia](https://en.wikipedia.org/wiki/Learned_helplessness)).
 
-(illustrative scenario) A person ground down by a bad marriage, job or illness may, on the theory's prediction, stop trying in new situations where trying would pay; whether small arranged experiences of control reverse this in humans is a further question the opened sources do not settle.
+(illustrative scenario) A person ground down by a bad marriage, job or illness may, on the theory's prediction, stop trying in new situations where trying would pay; whether small arranged experiences of control reverse this in humans is a further question the sources do not settle.
 
 ## Field
 

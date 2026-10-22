@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Grit is a personality trait introduced to psychology by Angela Duckworth and colleagues in 2007. The article defines it by what it sustains: effort and interest kept up over years, through failure, adversity, and plateaus in progress.
 
-> "perseverance and passion for long-term goals" (Duckworth et al. 2007, p. 1087, quoted verbatim in the opened [Hou et al. 2021 meta-analysis](https://www.pure.ed.ac.uk/ws/files/245949034/HouEtalPSPB2021DoGrittierPeople.pdf); [primary PDF](https://www.timeandlearning.org/files/-duckwort/images/grit%20jpsp.pdf), Journal of Personality and Social Psychology 92(6))
+> "perseverance and passion for long-term goals" (Duckworth et al. 2007, p. 1087, quoted verbatim in the [Hou et al. 2021 meta-analysis](https://www.pure.ed.ac.uk/ws/files/245949034/HouEtalPSPB2021DoGrittierPeople.pdf); [primary PDF](https://www.timeandlearning.org/files/-duckwort/images/grit%20jpsp.pdf), Journal of Personality and Social Psychology 92(6))
 
 ### What the studies found
 

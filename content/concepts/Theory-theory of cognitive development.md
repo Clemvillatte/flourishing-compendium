@@ -36,6 +36,6 @@ Developmental · Psychological science
 
 ## Sources
 
-- Gopnik, A. (1996a). The scientist as child. Philosophy of Science. — quoted verbatim (p. 486) via the opened Faucher et al. PDF
+- Gopnik, A. (1996a). The scientist as child. Philosophy of Science. — quoted verbatim (p. 486) via the Faucher et al. PDF
 - Gopnik, A., & Meltzoff, A. (1997). Words, Thoughts, and Theories. MIT Press. — quoted verbatim (p. 214) via the same opened PDF
-- Faucher, L., Mallon, R., Nazer, D., Nichols, S., Ruby, A., Stich, S., & Weinberg, J. The Baby in the Lab-Coat: Why Child Development Is Not an Adequate Model for Understanding the Development of Science. — the opened carrier quoting Gopnik's formulations and stating the identicality thesis; also the source of the critique quoted above ([PDF](https://ruccs.rutgers.edu/images/labs-rgehc/publications/Baby_in_the_Labcoat.pdf))
+- Faucher, L., Mallon, R., Nazer, D., Nichols, S., Ruby, A., Stich, S., & Weinberg, J. The Baby in the Lab-Coat: Why Child Development Is Not an Adequate Model for Understanding the Development of Science. — the carrier quoting Gopnik's formulations and stating the identicality thesis; also the source of the critique quoted above ([PDF](https://ruccs.rutgers.edu/images/labs-rgehc/publications/Baby_in_the_Labcoat.pdf))

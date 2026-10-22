@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Rogers describes the good life as an ongoing movement involving greater openness to experience and a willingness to meet situations without imposing a rigid picture of oneself. He explicitly distinguishes it from contentment, happiness or adjustment understood as settled states ([On Becoming a Person excerpt, “The Good Life and the Fully Functioning Person”](https://www.panarchy.org/rogers/person.html)).
 
-> "The good life is a process, not a state of being. It is a direction not a destination." (Rogers, “The Good Life and the Fully Functioning Person,” in the opened excerpt.)
+> "The good life is a process, not a state of being. It is a direction not a destination." (Rogers, “The Good Life and the Fully Functioning Person,” in the excerpt.)
 
 ### Direction does not cancel needs
 

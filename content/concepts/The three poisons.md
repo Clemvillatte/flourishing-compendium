@@ -31,7 +31,7 @@ The sutta then describes what a mind consumed by them is like, in terms that mak
 
 ## Sources
 
-- [Mula Sutta: Roots (AN 3.69), translated by Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an03/an03.069.than.html) — the roots-of-unskillful passage and the suffering description, verified verbatim against the opened page
+- [Mula Sutta: Roots (AN 3.69), translated by Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an03/an03.069.than.html) — the roots-of-unskillful passage and the suffering description, verified verbatim against the page
 
 [[K029 — Take the three poisons as practice material]]
 [[K173 — Creative hopelessness]]

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 76** — Recognise behavioural challenges in neurodivergence: different patterns
 
-The principle names neurodivergence broadly (autistic, ADHD, dyslexic and others); the opened studies behind this page concern autism specifically. The survey's own framing is deficit-as-difference: acknowledge the real difficulties and treat the pattern as a variation rather than a defect.
+The principle names neurodivergence broadly (autistic, ADHD, dyslexic and others); the studies behind this page concern autism specifically. The survey's own framing is deficit-as-difference: acknowledge the real difficulties and treat the pattern as a variation rather than a defect.
 
 A survey of 657 people with different relations to autism found that views did not split into a simple pro-cure versus pro-identity divide; the authors' summary of their findings:
 

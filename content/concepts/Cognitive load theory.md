@@ -15,7 +15,7 @@ Cognitive load theory is John Sweller's theory of working-memory demands in lear
 
 > In cognitive psychology, cognitive load is the effort being used in the working memory. — [Wikipedia, Cognitive load (opened)](https://en.wikipedia.org/wiki/Cognitive_load)
 
-As described in the opened overview, the theory distinguishes intrinsic load (the difficulty of the material itself), extraneous load (added by the way the material is presented), and germane load (the working-memory resources the learner dedicates to the essential information for learning). When presentation is cluttered, the learner spends working memory on the clutter:
+As described in the overview, the theory distinguishes intrinsic load (the difficulty of the material itself), extraneous load (added by the way the material is presented), and germane load (the working-memory resources the learner dedicates to the essential information for learning). When presentation is cluttered, the learner spends working memory on the clutter:
 
 > A heavy cognitive load typically creates error or some kind of interference in the task at hand. — [Wikipedia, Cognitive load (opened)](https://en.wikipedia.org/wiki/Cognitive_load)
 

@@ -24,7 +24,7 @@ The Republic's Book V sets the condition for a city's rest from its evils in a u
 ## Sources
 
 - Plato, Republic
-- [Plato, Republic, trans. Benjamin Jowett, Project Gutenberg](https://www.gutenberg.org/files/1497/1497-h/1497-h.htm) — the opened carrier of the quotation above.
+- [Plato, Republic, trans. Benjamin Jowett, Project Gutenberg](https://www.gutenberg.org/files/1497/1497-h/1497-h.htm) — the carrier of the quotation above.
 
 ## Cited in philosophy parallels
 

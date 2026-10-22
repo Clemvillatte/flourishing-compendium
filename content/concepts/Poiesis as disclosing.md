@@ -24,7 +24,7 @@ Heidegger's essay on art takes making out of the register of copying and into th
 ## Sources
 
 - Heidegger, "The Origin of the Work of Art"
-- [Heidegger, Der Ursprung des Kunstwerkes (GA 5), English text at beyng.com](https://www.beyng.com/pages/de/GA05/DerUrsprungderKunstwerkes.Dict.html) — the opened carrier of the quotation above.
+- [Heidegger, Der Ursprung des Kunstwerkes (GA 5), English text at beyng.com](https://www.beyng.com/pages/de/GA05/DerUrsprungderKunstwerkes.Dict.html) — the carrier of the quotation above.
 
 ## Cited in philosophy parallels
 

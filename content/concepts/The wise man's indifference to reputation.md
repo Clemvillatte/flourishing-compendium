@@ -21,7 +21,7 @@ Indifference here is Stoic indifference: not contempt, but refusal to count repu
 
 ## Sources
 
-- [Seneca, Epistulae Morales 76, trans. John Gummere (Letters from a Stoic), quoted at Rockyrook](http://www.rockyrook.com/2021/06/letters-from-stoic-76-on-learning.html) — the opened carrier for both verbatim passages.
+- [Seneca, Epistulae Morales 76, trans. John Gummere (Letters from a Stoic), quoted at Rockyrook](http://www.rockyrook.com/2021/06/letters-from-stoic-76-on-learning.html) — the carrier for both verbatim passages.
 
 ## Cited in philosophy parallels
 

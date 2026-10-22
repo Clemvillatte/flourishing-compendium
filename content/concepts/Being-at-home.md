@@ -23,7 +23,7 @@ For Bachelard the house integrates a person's thoughts, memories and dreams; it 
 
 ## Sources
 
-- Bachelard, G. (1958). The Poetics of Space, ch. 1 — quote verified through the opened [Wikiquote carrier](https://en.wikiquote.org/wiki/Gaston_Bachelard); Heidegger, M. (1951). Building Dwelling Thinking (Basic Writings, 1993) — passages quoted verbatim from the [opened beyng.com page](https://www.beyng.com/pages/en/BasicWritings/BasicWritings.347.html); raw-text checks done 2026-10-22.
+- Bachelard, G. (1958). The Poetics of Space, ch. 1 — quote verified through the [Wikiquote carrier](https://en.wikiquote.org/wiki/Gaston_Bachelard); Heidegger, M. (1951). Building Dwelling Thinking (Basic Writings, 1993) — passages quoted verbatim from the [opened beyng.com page](https://www.beyng.com/pages/en/BasicWritings/BasicWritings.347.html); raw-text checks done.
 
 ## Cited in philosophy parallels
 

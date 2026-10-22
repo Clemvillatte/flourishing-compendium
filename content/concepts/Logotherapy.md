@@ -45,7 +45,7 @@ The treatment page connects to the compendium's essays on meaning, suffering, an
 ## Sources
 
 - [Wikipedia, "Logotherapy"](https://en.wikipedia.org/wiki/Logotherapy) — opened; quotes above verified against the article: the Third Viennese School definition, the will-to-meaning premise and strong formulation, the paradoxical-intention explanation, the three-ways passage, and the last-of-the-human-freedoms quote
-- Frankl, V. (2006). Man's Search for Meaning. Beacon Press. The passages quoted above are quoted as they appear in Wikipedia's Logotherapy article, which cites Frankl 2006; the source is the opened Wikipedia article, not the book directly.
+- Frankl, V. (2006). Man's Search for Meaning. Beacon Press. The passages quoted above are quoted as they appear in Wikipedia's Logotherapy article, which cites Frankl 2006; the source is the Wikipedia article, not the book directly.
 
 ## Related thinkers
 

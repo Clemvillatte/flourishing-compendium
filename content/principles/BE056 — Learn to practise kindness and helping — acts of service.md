@@ -24,7 +24,7 @@ The authors' proposed explanation for the effect: "it is equally straightforward
 
 ## Sources
 
-- [Curry, Rowland, Van Lissa, Zlotowitz, McAlaney & Whitehouse, "Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor", Journal of Experimental Social Psychology 76: 320-329, 2018 (open PDF)](https://research-portal.uu.nl/ws/files/247379826/1-s2.0-S0022103117303451-main.pdf) — quotes checked against the opened PDF text, Abstract and Section 3 "The consequences of kindness"
+- [Curry, Rowland, Van Lissa, Zlotowitz, McAlaney & Whitehouse, "Happy to help? A systematic review and meta-analysis of the effects of performing acts of kindness on the well-being of the actor", Journal of Experimental Social Psychology 76: 320-329, 2018 (open PDF)](https://research-portal.uu.nl/ws/files/247379826/1-s2.0-S0022103117303451-main.pdf) — quotes checked against the PDF text, Abstract and Section 3 "The consequences of kindness"
 
 ## Psychology parallels
 

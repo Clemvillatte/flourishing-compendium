@@ -23,7 +23,7 @@ The needs are five and genetic: "According to Choice Theory, there are five Basi
 
 ## Sources
 
-- Glasser, W. Choice Theory: A New Psychology of Personal Freedom (1998), as summarised in the [Little Book of Choice Theory](https://wglasser.com/wp-content/uploads/2019/10/Little-Book-of-Choice-Theory-2019.pdf), Glasser Institute for Choice Theory — passages quoted verbatim from the opened PDF; raw-text check done 2026-10-22.
+- Glasser, W. Choice Theory: A New Psychology of Personal Freedom (1998), as summarised in the [Little Book of Choice Theory](https://wglasser.com/wp-content/uploads/2019/10/Little-Book-of-Choice-Theory-2019.pdf), Glasser Institute for Choice Theory — passages quoted verbatim from the PDF; raw-text check done 2026-10-22.
 
 ## Cited in philosophy parallels
 

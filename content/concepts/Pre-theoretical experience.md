@@ -41,7 +41,7 @@ Read together, the two passages give the concept its shape. Experience does not 
 
 - Heidegger, Being and Time
 - Merleau-Ponty, Phenomenology of Perception
-- [Merleau-Ponty, Phenomenology of Perception, trans. Donald A. Landes, body excerpts at the Topological Media Lab](https://topologicalmedialab.net/xinwei/classes/readings/Merleau-Ponty/Merleau-Ponty_Phenomenology_of_Perception_Landes_Body_excerpts.pdf) — the opened carrier of the quotation above.
+- [Merleau-Ponty, Phenomenology of Perception, trans. Donald A. Landes, body excerpts at the Topological Media Lab](https://topologicalmedialab.net/xinwei/classes/readings/Merleau-Ponty/Merleau-Ponty_Phenomenology_of_Perception_Landes_Body_excerpts.pdf) — the carrier of the quotation above.
 
 ## Cited in philosophy parallels
 

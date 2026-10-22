@@ -28,7 +28,7 @@ The transtheoretical model grew out of a study of 872 smokers changing on their 
 
 - Prochaska & DiClemente, 1983
 
-- [Prochaska and DiClemente, "Stages and Processes of Self-Change of Smoking: Toward an Integrative Model of Change," Journal of Consulting and Clinical Psychology 51, 1983, scan at Harvard](https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/prochaska_1983_stages_of_behavior_change.pdf) — the opened carrier of the quotations above.
+- [Prochaska and DiClemente, "Stages and Processes of Self-Change of Smoking: Toward an Integrative Model of Change," Journal of Consulting and Clinical Psychology 51, 1983, scan at Harvard](https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/prochaska_1983_stages_of_behavior_change.pdf) — the carrier of the quotations above.
 
 ## Cited in psychology parallels
 

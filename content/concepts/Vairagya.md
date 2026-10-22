@@ -24,7 +24,7 @@ The distinction matters because vairagya is easily counterfeited. Suppression lo
 
 ## Sources
 
-- [Patañjali, Yoga Sūtra 1.15, trans. Swami Satchidananda, quoted in Integral Yoga Magazine](https://integralyogamagazine.org/patanjalis-words-practice-the-path-to-self-mastery/) — the opened carrier for the verbatim sūtra translation.
+- [Patañjali, Yoga Sūtra 1.15, trans. Swami Satchidananda, quoted in Integral Yoga Magazine](https://integralyogamagazine.org/patanjalis-words-practice-the-path-to-self-mastery/) — the carrier for the verbatim sūtra translation.
 - [Vyāsa's commentary on Yoga Sūtra 1.15, Wisdom Library](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216614.html) — reference consulted via search excerpt only, not fetched this pass.
 
 ## Cited in philosophy parallels

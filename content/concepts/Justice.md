@@ -37,7 +37,7 @@ The modern anchor reconstructs justice for institutions. Rawls's two principles,
 - [[Restorative justice]] — the corrective branch in its modern form
 - [[Forgiveness]] — the release of a debt: ending resentment and the claim to repayment without excusing the wrong
 - [[S113]] — A Stoic principle on holding power as a friend of justice
-- [[A023]] — general and particular justice in the opened Book V account
+- [[A023]] — general and particular justice in the Book V account
 ## Sources
 
 - [Aristotle, Nicomachean Ethics V (D.P. Chase translation), Project Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.html) — the another's-good passage, the definition, the two branches.

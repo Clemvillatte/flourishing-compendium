@@ -23,7 +23,7 @@ The Leopold Foundation, keeper of the essay's legacy, states the core plainly: a
 
 ## Sources
 
-- Leopold, A. (1949). A Sand County Almanac and Sketches Here and There, "The Land Ethic," pp. 224–225 — maxim quoted verbatim as reproduced in the opened scholarly carrier [Wardrope, A. (2020), Journal of Medical Ethics 46(12): 791](https://jme.bmj.com/content/46/12/791); the "When we see land as a community..." quotation and the Foundation's definition from the opened [Aldo Leopold Foundation page](https://www.aldoleopold.org/about/the-land-ethic); raw-text checks done 2026-10-22.
+- Leopold, A. (1949). A Sand County Almanac and Sketches Here and There, "The Land Ethic," pp. 224–225 — maxim quoted verbatim as reproduced in the scholarly carrier [Wardrope, A. (2020), Journal of Medical Ethics 46(12): 791](https://jme.bmj.com/content/46/12/791); the "When we see land as a community..." quotation and the Foundation's definition from the [Aldo Leopold Foundation page](https://www.aldoleopold.org/about/the-land-ethic); raw-text checks done.
 
 ## Cited in philosophy parallels
 

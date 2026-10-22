@@ -30,9 +30,9 @@ The mechanism is error cancellation: each guess mixes information with error, an
 
 ## Sources
 
-- [Surowiecki, The Wisdom of Crowds, quoted verbatim in Philosophy Etc.](https://www.philosophyetc.net/2004/07/collective-intelligence-rousseau.html) — the opened carrier for the book's central claim.
-- [The Wisdom of Crowds, Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_crowds) — the opened carrier for the four-condition table and the Galton anecdote.
-- [Galton, "Vox Populi" (1907), quoted in Atticus Li, "Wisdom of Crowds"](https://atticusli.com/replication-crisis/wisdom-of-crowds/) — the opened carrier for the verbatim Galton quotation.
+- [Surowiecki, The Wisdom of Crowds, quoted verbatim in Philosophy Etc.](https://www.philosophyetc.net/2004/07/collective-intelligence-rousseau.html) — the carrier for the book's central claim.
+- [The Wisdom of Crowds, Wikipedia](https://en.wikipedia.org/wiki/Wisdom_of_crowds) — the carrier for the four-condition table and the Galton anecdote.
+- [Galton, "Vox Populi" (1907), quoted in Atticus Li, "Wisdom of Crowds"](https://atticusli.com/replication-crisis/wisdom-of-crowds/) — the carrier for the verbatim Galton quotation.
 
 ## Cited in psychology parallels
 

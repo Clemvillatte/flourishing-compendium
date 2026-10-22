@@ -31,8 +31,8 @@ The practical corollary for a person: expecting stillness from a restless world 
 
 ## Sources
 
-- [Heraclitus, fragments 12 and 49a, trans. John Burnet (Early Greek Philosophy, 1892), Wikisource](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)) — the opened carrier for the verbatim river fragments.
-- [Whitehead, Process and Reality (1929), quoted in Larval Subjects](https://larvalsubjects.wordpress.com/2009/03/07/objectiles-and-actual-occasions/) — the opened carrier for the verbatim actual-occasions passage.
+- [Heraclitus, fragments 12 and 49a, trans. John Burnet (Early Greek Philosophy, 1892), Wikisource](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)) — the carrier for the verbatim river fragments.
+- [Whitehead, Process and Reality (1929), quoted in Larval Subjects](https://larvalsubjects.wordpress.com/2009/03/07/objectiles-and-actual-occasions/) — the carrier for the verbatim actual-occasions passage.
 - Nooteboom, Process Philosophy (inherited original reference, not consulted this pass).
 
 ## Cited in philosophy parallels

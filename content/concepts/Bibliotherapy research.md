@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Bibliotherapy research is the study of structured reading as a treatment: a standardized cognitive-behavioural programme taken home in book form and worked through more or less independently, with therapist contact only supportive. The founding meta-analysis is Cuijpers (1997) on unipolar depression:
 
-> "The mean effect size of studies comparing bibliotherapy with a waiting list control group (6 studies, 7 comparisons) was 0.82 (95% confidence interval, CI: 0.50, 1.15)." ([Cuijpers 1997, via the opened NCBI review record](https://www.ncbi.nlm.nih.gov/books/NBK67070/))
+> "The mean effect size of studies comparing bibliotherapy with a waiting list control group (6 studies, 7 comparisons) was 0.82 (95% confidence interval, CI: 0.50, 1.15)." ([Cuijpers 1997, via the NCBI review record](https://www.ncbi.nlm.nih.gov/books/NBK67070/))
 
 ### What the research carries
 

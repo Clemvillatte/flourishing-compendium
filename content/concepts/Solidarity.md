@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Solidarity” — Camus, The Rebel; Rorty, Contingency, Irony, and Solidarity; Scholz, Political Solidarity.
 
-Solidarity is a bond of unity among people in the face of a shared adversity. The three works the original entry cites each build it differently: Camus from revolt, Rorty from imagination, Scholz from a chosen commitment against injustice. This page reports each as the opened sources present it.
+Solidarity is a bond of unity among people in the face of a shared adversity. The three works the original entry cites each build it differently: Camus from revolt, Rorty from imagination, Scholz from a chosen commitment against injustice. This page reports each as the sources present it.
 
 ### Rorty: created by imagination
 

@@ -30,7 +30,7 @@ The mechanism underneath is prospective hindsight, and the article names the fin
 
 - Klein, 2007
 - Mitchell et al., 1989
-- [Gary Klein, "Performing a Project Premortem," Harvard Business Review, September 2007 (PDF reprint)](https://lmscontent.embanet.com/USC/PPD554/Week10/PPD554_W10_HBR_Klein_Performaing_a_Project_Premortem.pdf) — the opened carrier of the quotations above, including the article's own summary of Mitchell, Russo and Pennington (1989).
+- [Gary Klein, "Performing a Project Premortem," Harvard Business Review, September 2007 (PDF reprint)](https://lmscontent.embanet.com/USC/PPD554/Week10/PPD554_W10_HBR_Klein_Performaing_a_Project_Premortem.pdf) — the carrier of the quotations above, including the article's own summary of Mitchell, Russo and Pennington (1989).
 
 ## Cited in psychology parallels
 

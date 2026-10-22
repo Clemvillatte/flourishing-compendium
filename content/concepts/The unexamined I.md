@@ -12,7 +12,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Sources
 
-- Nishida Kitarō, as quoted in the [Stanford Encyclopedia of Philosophy entry "Nishida Kitarō"](https://plato.stanford.edu/entries/nishida-kitaro/) — quotations from Nishida's *An Inquiry into the Good* (1911) and late-1920s writings are given there with citations; the entry is the opened carrier for both
+- Nishida Kitarō, as quoted in the [Stanford Encyclopedia of Philosophy entry "Nishida Kitarō"](https://plato.stanford.edu/entries/nishida-kitaro/) — quotations from Nishida's *An Inquiry into the Good* (1911) and late-1920s writings are given there with citations; the entry is the carrier for both
 
 ## Related concepts
 

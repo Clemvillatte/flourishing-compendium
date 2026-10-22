@@ -27,7 +27,7 @@ Descartes' doubt pulled the ground out from under his beliefs, but a life does n
 ## Sources
 
 - Descartes, Discourse on Method, Part III
-- [René Descartes, Discourse on the Method of Rightly Conducting the Reason, trans. John Veitch, Project Gutenberg](https://www.gutenberg.org/files/59/59-h/59-h.htm) — the opened carrier of the quotations above.
+- [René Descartes, Discourse on the Method of Rightly Conducting the Reason, trans. John Veitch, Project Gutenberg](https://www.gutenberg.org/files/59/59-h/59-h.htm) — the carrier of the quotations above.
 
 ## Cited in philosophy parallels
 

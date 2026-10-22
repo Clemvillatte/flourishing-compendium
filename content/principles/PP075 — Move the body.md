@@ -31,7 +31,7 @@ On format, the same abstract reports: "Larger effects were found for interventio
 ## Sources
 
 - [Cooney et al. 2013, "Exercise for depression," Cochrane Database of Systematic Reviews, CD004366, hosted full-text copy](https://baycrest.echoontario.ca/wp-content/uploads/2021/05/Exercise-for-depression-Cochrane.pdf) — pooled SMD for exercise vs control, comparisons with therapies and medication, methodological caveat
-- [Schuch et al. 2016, "Exercise as a treatment for depression: a meta-analysis adjusting for publication bias," Journal of Psychiatric Research 77:42-51, King's Research Portal record with the embedded MEDLINE abstract](https://kclpure.kcl.ac.uk/portal/en/publications/exercise-as-a-treatment-for-depression-a-meta-analysis-adjusting-/) — adjusted effect size and fail-safe number, verified in the abstract embedded in the opened portal record; the PubMed page itself renders empty in the fetcher
+- [Schuch et al. 2016, "Exercise as a treatment for depression: a meta-analysis adjusting for publication bias," Journal of Psychiatric Research 77:42-51, King's Research Portal record with the embedded MEDLINE abstract](https://kclpure.kcl.ac.uk/portal/en/publications/exercise-as-a-treatment-for-depression-a-meta-analysis-adjusting-/) — adjusted effect size and fail-safe number, verified in the abstract embedded in the portal record; the PubMed page itself renders empty in the fetcher
 
 ## Psychology parallels
 

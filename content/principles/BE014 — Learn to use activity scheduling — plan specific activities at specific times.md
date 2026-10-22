@@ -24,7 +24,7 @@ The same guidance tells patients to "start activity scheduling with short-term g
 
 ## Sources
 
-- [Veale, "Behavioural activation for depression", Advances in Psychiatric Treatment 14: 29-36, 2008 (Cambridge)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EBC5FC0D9D550FFBE6F982B33BF91EE9/S1355514600004375a.pdf/behavioural-activation-for-depression.pdf) — quotes checked against the opened PDF text, p. 32
+- [Veale, "Behavioural activation for depression", Advances in Psychiatric Treatment 14: 29-36, 2008 (Cambridge)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EBC5FC0D9D550FFBE6F982B33BF91EE9/S1355514600004375a.pdf/behavioural-activation-for-depression.pdf) — quotes checked against the PDF text, p. 32
 
 ## Psychology parallels
 

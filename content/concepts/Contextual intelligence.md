@@ -23,7 +23,7 @@ The same article records where Sternberg later took the idea, in the theory of s
 
 ## Related concepts
 
-- [[Practical wisdom]] — the classical counterpart the opened article gestures at with "practical and wisdom-based skills"
+- [[Practical wisdom]] — the classical counterpart the article gestures at with "practical and wisdom-based skills"
 
 ## Sources
 

@@ -7,7 +7,7 @@ file: "Creative selection"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Creative selection is this wiki's label for a family of ideas around creation and keeping in Henri Bergson's Creative Evolution (1907). The term does not appear in the book; the research note below records what the opened text does say. Flagged for a namespace disposition (rename or merge into [[Creative evolution]]).
+Creative selection is this wiki's label for a family of ideas around creation and keeping in Henri Bergson's Creative Evolution (1907). The term does not appear in the book; the research note below records what the text does say. Flagged for a namespace disposition (rename or merge into [[Creative evolution]]).
 
 Bergson on existence as self-remaking, in Arthur Mitchell's translation:
 

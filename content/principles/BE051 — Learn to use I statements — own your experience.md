@@ -24,8 +24,8 @@ A related finding concerns beginnings: in the newlywed study, "It was possible t
 
 ## Sources
 
-- [Wikipedia, "I-message"](https://en.wikipedia.org/wiki/I-message) — definition checked against the opened article text
-- [Carrère & Gottman, "Predicting Divorce among Newlyweds from the First Three Minutes of a Marital Conflict Discussion", Family Process 38(3), 1999; study summary from the Gottman Institute](https://www.gottman.com/blog/the-research-predicting-divorce-among-newlyweds-from-the-first-three-minutes-of-a-marital-conflict-discussion/) — study findings checked against the opened page text
+- [Wikipedia, "I-message"](https://en.wikipedia.org/wiki/I-message) — definition checked against the article text
+- [Carrère & Gottman, "Predicting Divorce among Newlyweds from the First Three Minutes of a Marital Conflict Discussion", Family Process 38(3), 1999; study summary from the Gottman Institute](https://www.gottman.com/blog/the-research-predicting-divorce-among-newlyweds-from-the-first-three-minutes-of-a-marital-conflict-discussion/) — study findings checked against the page text
 
 ## Psychology parallels
 

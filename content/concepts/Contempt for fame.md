@@ -27,5 +27,5 @@ The sentence does the Stoic work in one move: fame is derivative, a shadow cast 
 - [[S097 — Recognise that fame after death is meaningless]]
 - [[S112 — Handle fame without vanity]]## Sources
 
-- [Seneca, Moral Letters to Lucilius, Letter 79, Gummere translation (Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_79) — the fame-as-shadow passage, verified verbatim against the opened page (the carrier renders a zero-width space inside "against her will", noted here)
-- [Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/) — the preferred-indifferent classification of reputation, verified verbatim against the opened page
+- [Seneca, Moral Letters to Lucilius, Letter 79, Gummere translation (Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_79) — the fame-as-shadow passage, verified verbatim against the page (the carrier renders a zero-width space inside "against her will", noted here)
+- [Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/) — the preferred-indifferent classification of reputation, verified verbatim against the page

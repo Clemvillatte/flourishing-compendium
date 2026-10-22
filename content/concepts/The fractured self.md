@@ -23,7 +23,7 @@ Laing's stated aim in the book was to make the process of going mad understandab
 
 ## Sources
 
-- Laing, R. D. (1960). The Divided Self: An Existential Study in Sanity and Madness (1990 Penguin ed.), pp. 17, 39 — quotations verified through the opened scholarly carrier: Gustafsson, K., & Krickel-Choi, N. C. (2020), "Returning to the roots of ontological security," [Journal of International Political Theory](https://journals.sagepub.com/doi/pdf/10.1177/1354066120927073); raw-text check done 2026-10-22.
+- Laing, R. D. (1960). The Divided Self: An Existential Study in Sanity and Madness (1990 Penguin ed.), pp. 17, 39 — quotations verified through the scholarly carrier: Gustafsson, K., & Krickel-Choi, N. C. (2020), "Returning to the roots of ontological security," [Journal of International Political Theory](https://journals.sagepub.com/doi/pdf/10.1177/1354066120927073); raw-text check done 2026-10-22.
 
 ## Cited in philosophy parallels
 

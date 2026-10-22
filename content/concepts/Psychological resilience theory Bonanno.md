@@ -48,8 +48,8 @@ Affect · Psychological science
 
 ## Sources
 
-- [Bonanno, G. A., "Loss, Trauma, and Human Resilience" (2004), American Psychologist 59(1), 20-28, abstract via ERIC](https://eric.ed.gov/?id=EJ684215) — the abstract's challenge sentence (verified verbatim on the opened record)
-- [Bonanno, G. A., Westphal, M., and Mancini, A. D., "Resilience to Loss and Potential Trauma" (2011), Annual Review of Clinical Psychology 7, 1-25](https://www.upaya.org/uploads/pdfs/2011BonannoWestphalManciniARCP.pdf) — the abstract's most-common-outcome sentence, the resilience-versus-recovery distinction passage, the 45.9% and 60.7% trajectory findings, the ordinary-capabilities claim, and the review's verbatim quotation of the 2004 definition (p. 20) (all verified in the opened PDF text)
+- [Bonanno, G. A., "Loss, Trauma, and Human Resilience" (2004), American Psychologist 59(1), 20-28, abstract via ERIC](https://eric.ed.gov/?id=EJ684215) — the abstract's challenge sentence (verified verbatim on the record)
+- [Bonanno, G. A., Westphal, M., and Mancini, A. D., "Resilience to Loss and Potential Trauma" (2011), Annual Review of Clinical Psychology 7, 1-25](https://www.upaya.org/uploads/pdfs/2011BonannoWestphalManciniARCP.pdf) — the abstract's most-common-outcome sentence, the resilience-versus-recovery distinction passage, the 45.9% and 60.7% trajectory findings, the ordinary-capabilities claim, and the review's verbatim quotation of the 2004 definition (p. 20) (all verified in the PDF text)
 
 ## Cited in philosophy parallels
 

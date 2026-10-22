@@ -29,7 +29,7 @@ The abstract closes on the balance point: "Each individual human is seen as poss
 
 - Trivers, 1971
 
-- [Robert L. Trivers, "The Evolution of Reciprocal Altruism," Quarterly Review of Biology 46, 1971, abstract](https://www.journals.uchicago.edu/doi/10.1086/406755) — the opened carrier of the quotations above.
+- [Robert L. Trivers, "The Evolution of Reciprocal Altruism," Quarterly Review of Biology 46, 1971, abstract](https://www.journals.uchicago.edu/doi/10.1086/406755) — the carrier of the quotations above.
 
 ## Cited in psychology parallels
 

@@ -26,9 +26,9 @@ For example: Sitting with a friend's grief in the hospital corridor and quietly 
 
 ## Sources
 
-- [Jamgön Kongtrül, The Great Path of Awakening, trans. Ken McLeod (Shambhala)](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen) — taking-and-sending commentary quoted verbatim on the opened Tibetan Buddhist Encyclopedia page
+- [Jamgön Kongtrül, The Great Path of Awakening, trans. Ken McLeod (Shambhala)](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen) — taking-and-sending commentary quoted verbatim on the Tibetan Buddhist Encyclopedia page
 - [B. Alan Wallace, A Passage from Solitude (Snow Lion, 1992)](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Lojong_-_Tonglen) — practice-on-the-spot passage quoted verbatim on the same opened page
-- Root slogan rendering: "Train in taking and sending alternately. Put them on the breath" (McLeod translation, as carried on the opened TBE page)
+- Root slogan rendering: "Train in taking and sending alternately. Put them on the breath" (McLeod translation, as carried on the TBE page)
 
 ## Psychology parallels
 

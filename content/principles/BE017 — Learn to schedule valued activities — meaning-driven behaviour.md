@@ -24,7 +24,7 @@ The review traces the shift: later versions of BA "tended to move away from focu
 
 ## Sources
 
-- [Kanter, Manos, Bowe, Baruch, Busch & Rusch, "What is behavioral activation? A review of the empirical literature", Clinical Psychology Review 30: 608-620, 2010 (open PDF)](https://batd.com.ar/wp-content/uploads/2014/08/2010-What-is-behavioral-activation-A-review-of-the-empirical-literature.-Kanter-et-al.pdf) — quotes checked against the opened PDF text
+- [Kanter, Manos, Bowe, Baruch, Busch & Rusch, "What is behavioral activation? A review of the empirical literature", Clinical Psychology Review 30: 608-620, 2010 (open PDF)](https://batd.com.ar/wp-content/uploads/2014/08/2010-What-is-behavioral-activation-A-review-of-the-empirical-literature.-Kanter-et-al.pdf) — quotes checked against the PDF text
 
 ## Psychology parallels
 

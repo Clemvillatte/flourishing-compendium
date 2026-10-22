@@ -24,7 +24,7 @@ The state, not the behaviour, is what counts: "Two people might be throwing a ba
 
 ## Sources
 
-- Brown, S., with Vaughan, C. (2009). Play: How It Shapes the Brain, Opens the Imagination, and Invigorates the Soul. New York: Avery — definition and stakes as quoted verbatim from two opened carriers: the [National Institute for Play science page](https://nifplay.org/science/foundations) (definition; "Play is like oxygen" also quoted there) and the [Stanford Bing School report](https://bingschool.stanford.edu/news/leading-researcher-play-speaks-bing) ("The opposite of play is not work, but depression"); raw-text checks done 2026-10-22.
+- Brown, S., with Vaughan, C. (2009). Play: How It Shapes the Brain, Opens the Imagination, and Invigorates the Soul. New York: Avery — definition and stakes as quoted verbatim from two carriers: the [National Institute for Play science page](https://nifplay.org/science/foundations) (definition; "Play is like oxygen" also quoted there) and the [Stanford Bing School report](https://bingschool.stanford.edu/news/leading-researcher-play-speaks-bing) ("The opposite of play is not work, but depression"); raw-text checks done.
 
 ## Cited in psychology parallels
 

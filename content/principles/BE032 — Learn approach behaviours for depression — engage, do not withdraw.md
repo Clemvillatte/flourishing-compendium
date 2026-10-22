@@ -24,7 +24,7 @@ The authors state that BA "is designed to help individuals approach and access s
 
 ## Sources
 
-- [Jacobson, Martell & Dimidjian, "Behavioral Activation Treatment for Depression: Returning to Contextual Roots", Clinical Psychology: Science and Practice 8(3): 255-270, 2001 (open PDF)](https://i-cbt.org.ua/wp-content/uploads/2017/11/Jacobson-BA-for-depression-2001.pdf) — quotes checked against the opened PDF text, opening paragraphs
+- [Jacobson, Martell & Dimidjian, "Behavioral Activation Treatment for Depression: Returning to Contextual Roots", Clinical Psychology: Science and Practice 8(3): 255-270, 2001 (open PDF)](https://i-cbt.org.ua/wp-content/uploads/2017/11/Jacobson-BA-for-depression-2001.pdf) — quotes checked against the PDF text, opening paragraphs
 
 ## Psychology parallels
 

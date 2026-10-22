@@ -45,7 +45,7 @@ The interest for a reader is double. Nietzsche's claim is about power: whoever i
 
 - Nietzsche, Genealogy of Morals
 
-- [Friedrich Nietzsche, The Genealogy of Morals, Horace B. Samuel translation, Project Gutenberg #52319](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm) — the opened carrier of the quotation above. (The title page attributes the Genealogy itself to Samuel; J. M. Kennedy translated only the appended fragment 'Peoples and Countries'.)
+- [Friedrich Nietzsche, The Genealogy of Morals, Horace B. Samuel translation, Project Gutenberg #52319](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm) — the carrier of the quotation above. (The title page attributes the Genealogy itself to Samuel; J. M. Kennedy translated only the appended fragment 'Peoples and Countries'.)
 
 ## Cited in philosophy parallels
 

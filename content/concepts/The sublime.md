@@ -9,11 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 In Part I, section VII of his Philosophical Enquiry, Burke identifies things that excite ideas of pain and danger, or operate analogously to terror, as sources of the sublime. ([Burke's text](https://www.viscomi.sites.oasis.unc.edu/viscomi/Burke/sublime/I.7.htm))
 
-> "WHATEVER is fitted in any sort to excite the ideas of pain and danger, that is to say, whatever is in any sort terrible, or is conversant about terrible objects, or operates in a manner analogous to terror, is a source of the *sublime*; that is, it is productive of the strongest emotion which the mind is capable of feeling." (Burke, Philosophical Enquiry, Part I, §7, [opened text](https://www.viscomi.sites.oasis.unc.edu/viscomi/Burke/sublime/I.7.htm))
+> "WHATEVER is fitted in any sort to excite the ideas of pain and danger, that is to say, whatever is in any sort terrible, or is conversant about terrible objects, or operates in a manner analogous to terror, is a source of the *sublime*; that is, it is productive of the strongest emotion which the mind is capable of feeling." (Burke, Philosophical Enquiry, Part I, §7, [text](https://www.viscomi.sites.oasis.unc.edu/viscomi/Burke/sublime/I.7.htm))
 
 Burke's reason for the "strongest emotion" claim:
 
-> "I say the strongest emotion, because I am satisfied the ideas of pain are much more powerful than those which enter on the part of pleasure." (Burke, Philosophical Enquiry, Part I, §7, [opened text](https://www.viscomi.sites.oasis.unc.edu/viscomi/Burke/sublime/I.7.htm))
+> "I say the strongest emotion, because I am satisfied the ideas of pain are much more powerful than those which enter on the part of pleasure." (Burke, Philosophical Enquiry, Part I, §7, [text](https://www.viscomi.sites.oasis.unc.edu/viscomi/Burke/sublime/I.7.htm))
 
 
 ## Facets
@@ -27,7 +27,7 @@ Burke's reason for the "strongest emotion" claim:
 
 ## Sources
 
-- [Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful (1757), Part I, §7 — opened text carrier (UNC)](https://www.viscomi.sites.oasis.unc.edu/viscomi/Burke/sublime/I.7.htm) — both quoted passages verbatim
+- [Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful (1757), Part I, §7 — text carrier (UNC)](https://www.viscomi.sites.oasis.unc.edu/viscomi/Burke/sublime/I.7.htm) — both quoted passages verbatim
 - Kant, Critique of Judgement (inherited original reference)
 
 ## Cited in philosophy parallels

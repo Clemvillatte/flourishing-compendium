@@ -28,7 +28,7 @@ The paper's own summary line: "All in all, the effect is extremely robust: needl
 
 ## Sources
 
-- [Daniel M. Oppenheimer, "Consequences of erudite vernacular utilized irrespective of necessity: problems with using long words needlessly," Applied Cognitive Psychology 20 (2006)](https://cahill.people.unm.edu/480-21/Oppenheimer-2006-Applied_Cognitive_Psychology.pdf) — the opened carrier of the quotations above.
+- [Daniel M. Oppenheimer, "Consequences of erudite vernacular utilized irrespective of necessity: problems with using long words needlessly," Applied Cognitive Psychology 20 (2006)](https://cahill.people.unm.edu/480-21/Oppenheimer-2006-Applied_Cognitive_Psychology.pdf) — the carrier of the quotations above.
 
 ## Cited in psychology parallels
 

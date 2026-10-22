@@ -32,7 +32,7 @@ Healing, in Atkinson's account, is the other half of the same trails: people tel
 
 - [Barney and Mackinlay 2010, "'Singing Trauma Trails': Songs of the Stolen Generations in Indigenous Australia," Music and Politics, open full text](https://quod.lib.umich.edu/m/mp/9460447.0004.202/--singing-trauma-trails-songs-of-the-stolen-generations?rgn=main;view=fulltext) — carries Atkinson 2002 quotations with page numbers (pp. 24, 88, 96); secondary carrier, disclosed
 - [Gupta et al. 2020, "A scoping review about social and emotional wellbeing programs and services targeting Aboriginal and Torres Strait Islander young people in Australia," BMC Public Health, PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7596979/) — carries the SEWB Framework passage and the healing-programme critical elements; secondary carrier, disclosed
-- Atkinson 2002, Trauma Trails, Recreating Song Lines (Spinifex Press) — primary text, not directly opened; quotations carried via the opened article above
+- Atkinson 2002, Trauma Trails, Recreating Song Lines (Spinifex Press) — primary text, not directly opened; quotations carried via the article above
 
 ## Psychology parallels
 

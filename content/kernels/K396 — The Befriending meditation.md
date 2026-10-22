@@ -62,7 +62,7 @@ The authors host a free recording on the book's own site: [The Befriending Medit
 
 ## Related kernels
 
-- [[K161 — Loving-kindness meditation]] (complement — one is the general form, this is the staged form as the opened transcript gives it)
+- [[K161 — Loving-kindness meditation]] (complement — one is the general form, this is the staged form as the transcript gives it)
 - [[K162 — Self-compassion practice]]
 - [[K163 — Compassion-focused breathing]]
 

@@ -24,7 +24,7 @@ The practical error the doctrine guards against runs in both directions. Taking 
 
 ## Sources
 
-- [Nāgārjuna, Mūlamadhyamakakārikā, Chapter 24, trans. Jay L. Garfield, PDF](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf) — the opened carrier for the verbatim verses 24.8–10.
+- [Nāgārjuna, Mūlamadhyamakakārikā, Chapter 24, trans. Jay L. Garfield, PDF](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf) — the carrier for the verbatim verses 24.8–10.
 
 ## Cited in philosophy parallels
 

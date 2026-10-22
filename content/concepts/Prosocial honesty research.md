@@ -28,7 +28,7 @@ The finding cuts both ways for the speaker: the same sentence can build one kind
 ## Sources
 
 - Levine & Schweitzer, 2015
-- [Emma E. Levine and Maurice E. Schweitzer, "Prosocial lies: When deception breeds trust," Organizational Behavior and Human Decision Processes 126 (2015), abstract at Chicago Booth](https://www.chicagobooth.edu/research/rustandy/social-impact-research/research-papers/2015/prosocial-lies-when-deception-breeds-trust) — the opened carrier of the quotations above.
+- [Emma E. Levine and Maurice E. Schweitzer, "Prosocial lies: When deception breeds trust," Organizational Behavior and Human Decision Processes 126 (2015), abstract at Chicago Booth](https://www.chicagobooth.edu/research/rustandy/social-impact-research/research-papers/2015/prosocial-lies-when-deception-breeds-trust) — the carrier of the quotations above.
 
 ## Cited in psychology parallels
 

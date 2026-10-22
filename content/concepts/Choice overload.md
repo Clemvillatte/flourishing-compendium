@@ -32,7 +32,7 @@ The same review notes that a more recent meta-analytic work, Chernev et al. 2015
 
 ## Sources
 
-- [Misuraca R, Nixon AE, Miceli S, Di Stefano G, Scaffidi Abbate C (2024). On the advantages and disadvantages of choice: future research directions in choice overload and its moderators. Frontiers in Psychology, 15:1392911](https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/) — the opened review carrying the Iyengar & Lepper jam-study figures.
+- [Misuraca R, Nixon AE, Miceli S, Di Stefano G, Scaffidi Abbate C (2024). On the advantages and disadvantages of choice: future research directions in choice overload and its moderators. Frontiers in Psychology, 15:1392911](https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/) — the review carrying the Iyengar & Lepper jam-study figures.
 - Iyengar SS, Lepper MR (2000). When choice is demotivating: can one desire too much of a good thing? Journal of Personality and Social Psychology, 79(6):995-1006 — the primary record, cited via the review.
 - Iyengar and Lepper, 2000
 - Schwartz, 2004

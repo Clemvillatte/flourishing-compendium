@@ -23,7 +23,7 @@ The target is not abstraction itself, which Whitehead held unavoidable, but forg
 
 ## Sources
 
-- Whitehead, A. N. Science and the Modern World (1925; Free Press 1967), pp. 51, 55 — quotations verified through the opened [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/whitehead/); Process and Reality (1929; Free Press), pp. 7–8 — passage quoted verbatim from the opened [Open Horizons](https://www.openhorizons.org/the-spectral-luminosity-of-ordinary-things-whiteheads-fallacy-of-misplaced-concreteness.html) carrier; raw-text checks done 2026-10-22.
+- Whitehead, A. N. Science and the Modern World (1925; Free Press 1967), pp. 51, 55 — quotations verified through the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/whitehead/); Process and Reality (1929; Free Press), pp. 7–8 — passage quoted verbatim from the [Open Horizons](https://www.openhorizons.org/the-spectral-luminosity-of-ordinary-things-whiteheads-fallacy-of-misplaced-concreteness.html) carrier; raw-text checks done.
 
 ## Cited in philosophy parallels
 

@@ -22,7 +22,7 @@ Taylor constructs from this a politics of equal recognition, and identifies two 
 
 ## Sources
 
-- [Internet Encyclopedia of Philosophy, "Social and Political Recognition"](https://iep.utm.edu/recog_sp/) — the opened carrier of the verbatim Taylor quotes and page numbers, the identity definition, the honour-to-dignity narrative, and the equal-dignity-versus-difference summary.
+- [Internet Encyclopedia of Philosophy, "Social and Political Recognition"](https://iep.utm.edu/recog_sp/) — the carrier of the verbatim Taylor quotes and page numbers, the identity definition, the honour-to-dignity narrative, and the equal-dignity-versus-difference summary.
 - Kymlicka, Multicultural Citizenship — inherited original reference, not consulted this pass.
 - Taylor, Multiculturalism — inherited original reference, not consulted this pass.
 

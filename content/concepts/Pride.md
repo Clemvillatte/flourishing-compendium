@@ -31,7 +31,7 @@ The condition Aristotle puts on the crown is the whole argument: "Now the man is
 - [[Self-conscious emotions]] — the positive member of the family, in both its hubristic and achievement forms
 ## Sources
 
-- [Aristotle, Nicomachean Ethics, Book IV chapter 3, trans. W. D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — the opened carrier of the quotations above.
+- [Aristotle, Nicomachean Ethics, Book IV chapter 3, trans. W. D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — the carrier of the quotations above.
 
 ## Cited in philosophy parallels
 

@@ -22,7 +22,7 @@ The paradox is in the direction of the change. The article's summary of what the
 
 ## Sources
 
-- [Keltner, D. (2016), "Don't Let Power Corrupt You", Harvard Business Review, October 2016](https://hbr.org/2016/10/dont-let-power-corrupt-you) — the opened carrier of the verbatim quote, the summary of the pattern, and the proposed counter.
+- [Keltner, D. (2016), "Don't Let Power Corrupt You", Harvard Business Review, October 2016](https://hbr.org/2016/10/dont-let-power-corrupt-you) — the carrier of the verbatim quote, the summary of the pattern, and the proposed counter.
 
 ## Cited in psychology parallels
 

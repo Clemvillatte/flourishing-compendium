@@ -29,7 +29,7 @@ The relation closes on the other side too: "Without an affirmative response from
 
 - Noddings, Caring
 
-- [Nel Noddings, Caring in Education, University of Vermont](https://www.uvm.edu/~rgriffin/NoddingsCaring.pdf) — the opened carrier of the engrossment quotations above.
+- [Nel Noddings, Caring in Education, University of Vermont](https://www.uvm.edu/~rgriffin/NoddingsCaring.pdf) — the carrier of the engrossment quotations above.
 
 ## Cited in philosophy parallels
 

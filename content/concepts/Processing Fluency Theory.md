@@ -30,7 +30,7 @@ Cognition · Psychological science
 ## Sources
 
 - Reber, R., Schwarz, N., and Winkielman, P. (2004). "Processing fluency and aesthetic pleasure: Is beauty in the perceiver's processing experience?" Personality and Social Psychology Review 8(4), 364–382.
-- [Reber, Schwarz and Winkielman 2004, PDF](https://tiffaning.com/files/Reber%20et%20al_2004_Processing%20fluency%20and%20aesthetic%20pleasure.pdf) — the opened carrier of the quotations above.
+- [Reber, Schwarz and Winkielman 2004, PDF](https://tiffaning.com/files/Reber%20et%20al_2004_Processing%20fluency%20and%20aesthetic%20pleasure.pdf) — the carrier of the quotations above.
 
 ## Cited in philosophy parallels
 

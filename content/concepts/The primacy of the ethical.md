@@ -24,7 +24,7 @@ The claim is not an argument from principles but a description of an encounter. 
 
 ## Sources
 
-- Levinas, E. Totality and Infinity: An Essay on Exteriority, trans. A. Lingis (Pittsburgh: Duquesne University Press, 1969), pp. 84, 304 — quotations verified through two opened carriers: the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/levinas/) (TI 84, with edition details) and [Jones, 2014, Leadership 2(1)](https://www.elgaronline.com/view/journals/lath/2-1/lath.2014.01.03.xml) (TI 304); Otherwise than Being, trans. A. Lingis (1981), OBBE 11, as quoted in the SEP article; raw-text checks done 2026-10-22.
+- Levinas, E. Totality and Infinity: An Essay on Exteriority, trans. A. Lingis (Pittsburgh: Duquesne University Press, 1969), pp. 84, 304 — quotations verified through two opened carriers: the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/levinas/) (TI 84, with edition details) and [Jones, 2014, Leadership 2(1)](https://www.elgaronline.com/view/journals/lath/2-1/lath.2014.01.03.xml) (TI 304); Otherwise than Being, trans. A. Lingis (1981), OBBE 11, as quoted in the SEP article; raw-text checks done.
 
 ## Cited in philosophy parallels
 

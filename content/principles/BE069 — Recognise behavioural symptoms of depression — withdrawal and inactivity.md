@@ -24,7 +24,7 @@ Jacobson and colleagues describe inactivity, withdrawal and inertia as commonly 
 
 ## Sources
 
-- [Jacobson, Martell & Dimidjian, "Behavioral Activation Treatment for Depression: Returning to Contextual Roots", Clinical Psychology: Science and Practice 8(3): 255-270, 2001 (open PDF)](https://i-cbt.org.ua/wp-content/uploads/2017/11/Jacobson-BA-for-depression-2001.pdf) — quotes checked against the opened PDF text, Clinical Application section, pp. 258-259
+- [Jacobson, Martell & Dimidjian, "Behavioral Activation Treatment for Depression: Returning to Contextual Roots", Clinical Psychology: Science and Practice 8(3): 255-270, 2001 (open PDF)](https://i-cbt.org.ua/wp-content/uploads/2017/11/Jacobson-BA-for-depression-2001.pdf) — quotes checked against the PDF text, Clinical Application section, pp. 258-259
 
 ## Psychology parallels
 

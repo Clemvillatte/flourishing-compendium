@@ -24,7 +24,7 @@ The same guideline is careful about what hygiene alone can do: "Although all pat
 
 ## Sources
 
-- [Schutte-Rodin, Broch, Buysse, Dorsey & Sateia, "Clinical guideline for the evaluation and management of chronic insomnia in adults", Journal of Clinical Sleep Medicine 4(5): 487-504, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2576317/) — quotes checked against the opened article text, Table 11 and Summary Recommendations
+- [Schutte-Rodin, Broch, Buysse, Dorsey & Sateia, "Clinical guideline for the evaluation and management of chronic insomnia in adults", Journal of Clinical Sleep Medicine 4(5): 487-504, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2576317/) — quotes checked against the article text, Table 11 and Summary Recommendations
 
 ## Psychology parallels
 

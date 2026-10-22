@@ -28,9 +28,9 @@ Pneuma is the Greek word for wind, breath, spirit ([Wiktionary](https://en.wikti
 
 - Aristotle, On the Soul
 - Stoic tradition
-- [Wiktionary, pneuma](https://en.wiktionary.org/wiki/pneuma) — the opened carrier of the word's Greek sense.
-- [Aristotle, On the Motion of Animals, trans. A. S. L. Farquharson, Internet Classics Archive](https://classics.mit.edu/Aristotle/motion_animals.html) — the opened carrier of the Aristotle quotation above.
-- [Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/) — the opened carrier of the Stoic quotation above.
+- [Wiktionary, pneuma](https://en.wiktionary.org/wiki/pneuma) — the carrier of the word's Greek sense.
+- [Aristotle, On the Motion of Animals, trans. A. S. L. Farquharson, Internet Classics Archive](https://classics.mit.edu/Aristotle/motion_animals.html) — the carrier of the Aristotle quotation above.
+- [Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/) — the carrier of the Stoic quotation above.
 
 ## Cited in philosophy parallels
 

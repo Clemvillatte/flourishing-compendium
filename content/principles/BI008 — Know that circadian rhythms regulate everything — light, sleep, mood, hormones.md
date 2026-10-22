@@ -24,7 +24,7 @@ Artificial light changed the exposure pattern: "the availability of artificial l
 
 ## Sources
 
-- [Blume, Garbazza & Spitschan, "Effects of light on human circadian rhythms, sleep and mood", Somnologie 23(3): 147-156, 2019 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6751071/) — quotes checked against the opened article text, Abstract, sleep and mood sections, and Summary
+- [Blume, Garbazza & Spitschan, "Effects of light on human circadian rhythms, sleep and mood", Somnologie 23(3): 147-156, 2019 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6751071/) — quotes checked against the article text, Abstract, sleep and mood sections, and Summary
 
 ## Psychology parallels
 

@@ -30,8 +30,8 @@ The practical consequence is a change in stance toward one's own past. Not disbe
 
 ## Sources
 
-- [Nietzsche, F. (1886), Beyond Good and Evil, §68, trans. Helen Zimmern, Project Gutenberg ebook #4363](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm) — the opened carrier for the verbatim aphorism.
-- [F. C. Bartlett, Remembering (1932), quoted in Encyclopedia.com, "Reconstructive Memory"](https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/reconstructive-memory) — the opened carrier for the reconstructive view and its verbatim formulation.
+- [Nietzsche, F. (1886), Beyond Good and Evil, §68, trans. Helen Zimmern, Project Gutenberg ebook #4363](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm) — the carrier for the verbatim aphorism.
+- [F. C. Bartlett, Remembering (1932), quoted in Encyclopedia.com, "Reconstructive Memory"](https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/reconstructive-memory) — the carrier for the reconstructive view and its verbatim formulation.
 
 ## Cited in philosophy parallels
 

@@ -18,7 +18,7 @@ The mechanism explains why the intervention looks too small to work. Threats set
 
 ## Sources
 
-- [Cohen, G. L. & Sherman, D. K. (2014), "The Psychology of Change: Self-Affirmation and Social Psychological Intervention," Annual Review of Psychology 65, 333–371, PDF](https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/cohen_sherman_2014.pdf) — the opened carrier for the verbatim abstract sentences and the self-affirmation definition.
+- [Cohen, G. L. & Sherman, D. K. (2014), "The Psychology of Change: Self-Affirmation and Social Psychological Intervention," Annual Review of Psychology 65, 333–371, PDF](https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/cohen_sherman_2014.pdf) — the carrier for the verbatim abstract sentences and the self-affirmation definition.
 
 ## Cited in psychology parallels
 

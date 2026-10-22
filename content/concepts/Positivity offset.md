@@ -29,7 +29,7 @@ The review's table adds the functional reading: without a positivity offset, "a 
 ## Sources
 
 - Cacioppo et al., 1999
-- [Norris, C. J., Gollan, J., Berntson, G. G., and Cacioppo, J. T., "The current status of research on the structure of evaluative space," Biological Psychology 83 (2010), PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894997/) — the opened carrier of the quotations above.
+- [Norris, C. J., Gollan, J., Berntson, G. G., and Cacioppo, J. T., "The current status of research on the structure of evaluative space," Biological Psychology 83 (2010), PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894997/) — the carrier of the quotations above.
 
 ## Cited in psychology parallels
 

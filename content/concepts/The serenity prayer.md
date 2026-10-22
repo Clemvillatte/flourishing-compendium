@@ -25,7 +25,7 @@ The prayer has long drawn doubts about its authorship. Fred Shapiro's investigat
 
 ## Sources
 
-- [Yale Alumni Magazine, "Who Wrote the Serenity Prayer?", July/August 2008](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html) — the opened carrier of the 1943 version, the AA wording, the pre-1943 attestations, Sifton's account, Niebuhr's own statement, and Shapiro's conclusion.
+- [Yale Alumni Magazine, "Who Wrote the Serenity Prayer?", July/August 2008](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html) — the carrier of the 1943 version, the AA wording, the pre-1943 attestations, Sifton's account, Niebuhr's own statement, and Shapiro's conclusion.
 
 ## Cited in psychology parallels
 

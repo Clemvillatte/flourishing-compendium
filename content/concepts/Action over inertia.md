@@ -24,7 +24,7 @@ For practice, the entry's counsel: when inert, do not attempt to move the whole 
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics, Book II, ch. 1, trans. W. D. Ross, The Complete Aristotle (austria-forum.org)](https://austria-forum.org/web-books/en/completearistotle00enisds/001766) — the opened carrier for the verbatim passage.
+- [Aristotle, Nicomachean Ethics, Book II, ch. 1, trans. W. D. Ross, The Complete Aristotle (austria-forum.org)](https://austria-forum.org/web-books/en/completearistotle00enisds/001766) — the carrier for the verbatim passage.
 
 ## Cited in philosophy parallels
 

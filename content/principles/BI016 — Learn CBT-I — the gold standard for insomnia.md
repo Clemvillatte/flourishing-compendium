@@ -24,7 +24,7 @@ The medication comparison is the reason the treatment is called first-line: "sho
 
 ## Sources
 
-- [Schutte-Rodin, Broch, Buysse, Dorsey & Sateia, "Clinical guideline for the evaluation and management of chronic insomnia in adults", Journal of Clinical Sleep Medicine 4(5): 487-504, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2576317/) — quotes checked against the opened article text, Summary Recommendations and Treatment of Chronic Insomnia sections
+- [Schutte-Rodin, Broch, Buysse, Dorsey & Sateia, "Clinical guideline for the evaluation and management of chronic insomnia in adults", Journal of Clinical Sleep Medicine 4(5): 487-504, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2576317/) — quotes checked against the article text, Summary Recommendations and Treatment of Chronic Insomnia sections
 
 ## Psychology parallels
 

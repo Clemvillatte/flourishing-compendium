@@ -38,4 +38,4 @@ Kawachi and colleagues analysed data from 167,259 people in 39 US states: reside
 ## Sources
 
 - [Kawachi, I., Kennedy, B. P., & Glass, R. (1999). Social capital and self-rated health: a contextual analysis. Am J Public Health 89(8), 1187-1193 — PMC1508687](https://pmc.ncbi.nlm.nih.gov/articles/PMC1508687/) — abstract: definition and odds-ratio finding
-- [Putnam, R. D. (2000). Bowling Alone — summary by B. Reeder, Conflict Research Consortium (Utah Valley University)](https://www.uvu.edu/ccs/docs/putnam_bowling_alone.pdf) — pp. 19, 23, 287 as carried by the opened summary
+- [Putnam, R. D. (2000). Bowling Alone — summary by B. Reeder, Conflict Research Consortium (Utah Valley University)](https://www.uvu.edu/ccs/docs/putnam_bowling_alone.pdf) — pp. 19, 23, 287 as carried by the summary

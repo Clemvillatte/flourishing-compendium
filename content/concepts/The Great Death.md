@@ -13,7 +13,7 @@ The phrase does not refer to physical dying. In the account of Hakuin's curricul
 
 ### Origin
 
-The great death belongs to the Zen curriculum of the Japanese master Hakuin Ekaku: the opened chapter describes daishi as what Hakuin calls the experience. The fetched passage does not state Hakuin's dates or the chapter's author, so none are asserted here.
+The great death belongs to the Zen curriculum of the Japanese master Hakuin Ekaku: the chapter describes daishi as what Hakuin calls the experience. The fetched passage does not state Hakuin's dates or the chapter's author, so none are asserted here.
 
 ### Core claims
 

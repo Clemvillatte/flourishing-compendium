@@ -22,8 +22,8 @@ For example: The calm you find on the cushion holds, a little, when your phone r
 
 ## Sources
 
-- [Ninth Karmapa Wangchuk Dorje, Mahamudra: Eliminating the Darkness of Ignorance, trans. Alexander Berzin (Study Buddhism)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/tantra-texts/mahamudra-eliminating-the-darkness-of-ignorance/enhancing-mahamudra-meditation) — root-text passages on the lesser and middling stages of the single taste and on total absorption and subsequent attainment quoted verbatim from the opened page
-- [Beru Khyentse Rinpoche's commentary on the Ninth Karmapa's text (Study Buddhism)](https://studybuddhism.com/en/advanced-studies/vajrayana/mahamudra-advanced/commentary-on-mahamudra-eliminating-the-darkness-of-ignorance-beru-khyentse-rinpoche/karma-kagyu-mahamudra-enhancing-the-meditation) — the "abiding foundation" passage quoted verbatim from the opened commentary page
+- [Ninth Karmapa Wangchuk Dorje, Mahamudra: Eliminating the Darkness of Ignorance, trans. Alexander Berzin (Study Buddhism)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/tantra-texts/mahamudra-eliminating-the-darkness-of-ignorance/enhancing-mahamudra-meditation) — root-text passages on the lesser and middling stages of the single taste and on total absorption and subsequent attainment quoted verbatim from the page
+- [Beru Khyentse Rinpoche's commentary on the Ninth Karmapa's text (Study Buddhism)](https://studybuddhism.com/en/advanced-studies/vajrayana/mahamudra-advanced/commentary-on-mahamudra-eliminating-the-darkness-of-ignorance-beru-khyentse-rinpoche/karma-kagyu-mahamudra-enhancing-the-meditation) — the "abiding foundation" passage quoted verbatim from the commentary page
 
 ## Psychology parallels
 

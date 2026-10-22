@@ -27,7 +27,7 @@ Heidegger's Entwurf is the throwing of Dasein ahead of itself onto its own possi
 ## Sources
 
 - Heidegger, Being and Time
-- [Martin Heidegger, Being and Time, trans. Macquarrie and Robinson, pp. 183 and 185, at beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.183.html) — the opened carrier of the quotations above.
+- [Martin Heidegger, Being and Time, trans. Macquarrie and Robinson, pp. 183 and 185, at beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.183.html) — the carrier of the quotations above.
 
 ## Cited in philosophy parallels
 

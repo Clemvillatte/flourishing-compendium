@@ -29,8 +29,8 @@ Rorty's companion line names what the solidarity is made of: "human solidarity i
 ## Sources
 
 - Bernstein, The Pragmatic Turn
-- [Guy Axtell, draft chapter for Objectivity, philarchive](https://philarchive.org/archive/AXTORA) — the opened carrier of the summary of Bernstein's reading of Rorty.
-- [Solidarity in Contingency, Open Book Publishers](https://books.openbookpublishers.com/10.11647/obp.0487.pdf) — the opened carrier of the Rorty and Bernstein quotations above, reprinted from Contingency, Irony and Solidarity and The Abuse of Evil with page references.
+- [Guy Axtell, draft chapter for Objectivity, philarchive](https://philarchive.org/archive/AXTORA) — the carrier of the summary of Bernstein's reading of Rorty.
+- [Solidarity in Contingency, Open Book Publishers](https://books.openbookpublishers.com/10.11647/obp.0487.pdf) — the carrier of the Rorty and Bernstein quotations above, reprinted from Contingency, Irony and Solidarity and The Abuse of Evil with page references.
 
 ## Cited in philosophy parallels
 

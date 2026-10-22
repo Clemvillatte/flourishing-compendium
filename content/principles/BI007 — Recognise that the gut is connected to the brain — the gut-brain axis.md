@@ -24,7 +24,7 @@ The microbiota's role: "Recent advances in research have described the importanc
 
 ## Sources
 
-- [Carabotti, Scirocco, Maselli & Severi, "The gut-brain axis: interactions between enteric microbiota, central and enteric nervous systems", Annals of Gastroenterology 28(2): 203-209, 2015 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4367209/) — quotes checked against the opened article text, Abstract and the gut-to-brain section
+- [Carabotti, Scirocco, Maselli & Severi, "The gut-brain axis: interactions between enteric microbiota, central and enteric nervous systems", Annals of Gastroenterology 28(2): 203-209, 2015 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4367209/) — quotes checked against the article text, Abstract and the gut-to-brain section
 
 ## Psychology parallels
 

@@ -67,7 +67,7 @@ A person who has been depressed before notices the first dip on a grey Monday: a
 - [[Body scan in MBSR (Kabat-Zinn)]] — MBCT grew from the MBSR program this practice belongs to
 - [[Acceptance]] — allowing distressing moods and thoughts to come and go without battling them
 - [[Dispositional mindfulness]] — the everyday mindfulness tendency the PREVENT trial measured as a mediator of the program's effect
-- [[Self-compassion]] — a neighbouring concept in the compendium's contemplative-research pages; the opened MBCT sources do not establish a direct link
+- [[Self-compassion]] — a neighbouring concept in the compendium's contemplative-research pages; the MBCT sources do not establish a direct link
 ## Sources
 
 - [Kuyken, Warren, Taylor et al., "Efficacy of Mindfulness-Based Cognitive Therapy in Prevention of Depressive Relapse: An Individual Patient Data Meta-analysis From Randomized Trials", JAMA Psychiatry 73(6), 2016, pp. 565-574 (open repository copy)](https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1060&context=psy-research) — the definition quote, the clinical placement, the hazard ratios, trial count, participant numbers and the limitations

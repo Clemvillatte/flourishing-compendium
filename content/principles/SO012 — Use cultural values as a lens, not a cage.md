@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 12** — Use cultural values as a lens, not a cage
 
-Treat cultural values as a lens through which to understand your own and others' behavior, not a cage that determines it. The cultural-level taxonomies are descriptions of societies, and the opened Schwartz evidence is about personal values; the two levels must not be confused. At the cultural level, Schwartz's framework distinguishes societies on three bipolar dimensions:
+Treat cultural values as a lens through which to understand your own and others' behavior, not a cage that determines it. The cultural-level taxonomies are descriptions of societies, and the Schwartz evidence is about personal values; the two levels must not be confused. At the cultural level, Schwartz's framework distinguishes societies on three bipolar dimensions:
 
 > "At the cultural level, Schwartz identified three bipolar dimensions of values that allow for comparing societies. The embeddedness versus autonomy dimension focuses on the regulation of relationships between the individual and the group; the hierarchy versus egalitarianism dimension focuses on the regulation of responsible behavior among societal members; and the mastery versus harmony dimension focuses on the relationships between humanity and nature." (Elster, 2015, [Wiley Encyclopedia of Management](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118785317.weom060176))
 

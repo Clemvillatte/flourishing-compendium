@@ -29,7 +29,7 @@ In this account, being is not itself an entity. ([IEP article, section 4](https:
 
 ## Sources
 
-- [Internet Encyclopedia of Philosophy, "Martin Heidegger", section 4: The Quest for the Meaning of Being](https://iep.utm.edu/heidegge/) — the "Being is essentially different" quotation and the ontological-difference passage, verified verbatim against the opened page
+- [Internet Encyclopedia of Philosophy, "Martin Heidegger", section 4: The Quest for the Meaning of Being](https://iep.utm.edu/heidegge/) — the "Being is essentially different" quotation and the ontological-difference passage, verified verbatim against the page
 
 [[ST290 — Job and the Whirlwind]]
 [[ST289 — Jaspers's Shipwreck]]
