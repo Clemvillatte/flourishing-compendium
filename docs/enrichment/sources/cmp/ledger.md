@@ -289,11 +289,13 @@ Two blockers from the gallery-enrichment checkpoint, resolved:
 2. Full-recording classification completed for all six sampled
    recordings. All six re-downloaded and fully transcribed with vosk
    (small en-us 0.15 model, complete files, no time limit); the
-   executed script, run log with UTC timestamps, per-file ffprobe
+   executed runner, run log with UTC timestamps, per-file ffprobe
    durations of the re-downloads (all equal to the committed
-   ffprobe-durations.txt) and a reproduction script are preserved in
-   evidence/ (run_transcribe.sh, transcribe-run.log,
-   ffprobe-redownload.txt, reproduce-full-transcripts.sh). The
+   ffprobe-durations.txt) and a historical command record
+   documenting the download and transcription commands are preserved
+   in evidence/ (run_transcribe.sh, transcribe-run.log,
+   ffprobe-redownload.txt, reproduce-full-transcripts.sh; the command
+   record is documentation, not a runnable reproducer). The
    original session records cited in the handoff (session
    cffd561c...) are no longer present in this environment, so the
    earlier opening-sample commands could not be recovered; the

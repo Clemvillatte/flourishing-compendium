@@ -1,12 +1,16 @@
 #!/bin/bash
-# Exact reproduction commands for evidence/full-*.txt (complete vosk
-# transcripts of the six previously sampled CMP recordings).
-# Executed 2026-10-22, 13:29:25 to 13:32:52 UTC (see transcribe-run.log).
-# Environment: python3 3.14, vosk pip package, vosk-model-small-en-us-0.15
-# from https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip
+# HISTORICAL COMMAND RECORD, not a runnable reproducer: this file
+# documents the commands used on 2026-10-22 to produce evidence/
+# full-*.txt. The download and ffprobe commands were executed
+# interactively; the transcription itself was executed via
+# run_transcribe.sh (preserved unchanged; its log is transcribe-run.log,
+# whose 13:29:25 to 13:32:52 UTC timestamps are the transcription
+# runner's timestamps, not timestamps of this assembled record).
+# The runner also cds to /home/user/workspace/cmp_verify, its
+# execution-time working directory; adjust that path to re-run.
 
-set -e
-cd "$(dirname "$0")/../work" 2>/dev/null || cd .
+# set -e   # (documentation-only file; commands below are the historical record)
+# cd "$(dirname "$0")/../work" 2>/dev/null || cd .
 
 UA="Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0"
 
@@ -31,11 +35,11 @@ curl -sL -o vosk-model-small-en-us-0.15.zip \
   https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip
 python3 -c "import zipfile; zipfile.ZipFile('vosk-model-small-en-us-0.15.zip').extractall('.')"
 
-# 4. Full transcription over the entire file (no time limit). The
-#    executed python invocation is preserved in run_transcribe.sh
-#    (historical record: it cds to /home/user/workspace/cmp_verify,
-#    the working directory used at execution time; adjust that path
-#    when re-running elsewhere). The execution log is transcribe-run.log.
+# 4. Full transcription over the entire file (no time limit). NOT
+#    executed by this record: the runner is preserved in run_transcribe.sh
+#    (historical execution record; cds to /home/user/workspace/cmp_verify,
+#    the working directory used at execution time). The execution log is
+#    transcribe-run.log.
 #    Per file: ffmpeg -y -loglevel error -i <mp3> -ar 16000 -ac 1 <wav>
 #    then vosk KaldiRecognizer(model, 16000) fed all frames of the wav.
-cd "$(dirname "$0")" && bash run_transcribe.sh
+# cd "$(dirname "$0")" && bash run_transcribe.sh   # not run by this record
