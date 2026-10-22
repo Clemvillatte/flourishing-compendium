@@ -15,11 +15,11 @@ Subsequent repair notes (PENDING RE-CLEARANCE): the subtractive repair pass remo
 
 Evidence carriers opened this session (distinct successful fetches): Tanaka 2015 PMC, Wilkinson 2011 Springer, Call-Tomasello 2008 MPG PDF, IEP Theory of Mind, HBR Keltner 2016, Yale Alumni Magazine serenity, EpicureanFriends Menoeceus, IEP Social and Political Recognition, Perseus Politics 1253a, psychclassics James ch. X. Total: 10. sources_checked corrected to 10 (the earlier 5 and 14 were wrong).
 
-## Session continuation (11:47-12:00Z): items 8-28, fast-track
+## Session continuation (11:47-12:00Z): items 8-30, fast-track
 
-All 21 additional items written to fast-track bar (degree < 15), each with verbatim quotes verified from an opened carrier. Batch validation against base 56d09a360: 21 checked, 0 failed after repairs (two transient failures fixed: lost seed links restored in The restless world and Actual occasions; Zhongyong piped wikilink markup restored; dash-count and staging-pattern repairs in Vairagya, Values affirmation, Zhongyong, Witness consciousness, Adequate idea).
+All 23 additional items written to fast-track bar (degree < 15), each with verbatim quotes verified from an opened carrier. Batch validation against base 56d09a360: 23 checked, 0 failed after repairs (two transient failures fixed: lost seed links restored in The restless world and Actual occasions; Zhongyong piped wikilink markup restored; dash-count and staging-pattern repairs in Vairagya, Values affirmation, Zhongyong, Witness consciousness, Adequate idea).
 
-Opened carriers for this pass (26 distinct fetches):
+Opened carriers for this pass (28 distinct fetches):
 - Theory of mind (reused from QC pass)
 - The they (das Man): beyng.com BT Macquarrie-Robinson §27 (publicness, averageness, levelling quotes)
 - The three fires: Access to Insight AN 3.69 Mula Sutta + Dhammapada 251 (Buddharakkhita)
@@ -43,4 +43,6 @@ Opened carriers for this pass (26 distinct fetches):
 - Actual occasions: Larval Subjects (Whitehead PR, reused)
 - Adequate idea: Gutenberg Ethics 3800 Part II Definition IV
 
-sources_checked updated to 36 (10 prior + 26 new).
+sources_checked updated to 38 (10 prior + 28 new).
+
+Late additions in the same pass (items 29-30): Action over inertia (austria-forum.org Complete Aristotle, NE II.1 Ross verbatim), Affordances (UMich PDF Gibson 1979 ch. 8, p. 127 definition verbatim). Full-batch re-validation at 12:04Z: 23 checked, 0 failed.
