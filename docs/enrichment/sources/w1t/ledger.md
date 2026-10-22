@@ -366,3 +366,14 @@ Decisions:
 - Related concepts: Participate in the world's becoming, The whole in the part (both existing originals per neighbors).
 - Process and Reality book citation carried from the seed; not independently opened this session.
 - No reciprocal proposals (fast-track bar).
+
+### Conditional regard (fast-track, deg 3)
+
+Source opened (fetch_url, fresh):
+- https://pubmed.ncbi.nlm.nih.gov/14686884/ — Assor, Roth, Deci 2004 Journal of Personality 72(1):47-88. Full abstract retrieved via search_web (PubMed direct fetch blocked by robots).
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Front-matter preserved; D140/P166 Cited-in wikilinks preserved.
+- Related concepts: The actualizing tendency (existing original).
+- No reciprocal proposals (fast-track bar).
