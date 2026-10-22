@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K211** — Acts of kindness
 
-Do one visible act of help daily. Small counts: holding a door, sending a text, picking up litter. The act trains the habit of outward attention, and the study quoted below counted acts of kindness rather than weighing them. Reach for it when your attention has curled inward for too long.
+Do one visible act of help daily. Small counts: holding a door, sending a text, picking up litter. The study quoted below counted acts of kindness rather than weighing them; the outward-attention aim is the exercise's intention, not a result it established. Reach for it when your attention has curled inward for too long.
 
 ### Protocol
 
@@ -28,7 +28,7 @@ From the counting-kindnesses study:
 
 > "Happy people became more kind and grateful through the counting kindnesses intervention." (same abstract)
 
-What this evidence does not test: the practice as designed here. The intervention studied was counting one's own acts of kindness for one week, in Japanese samples, with subjective happiness as the outcome; it did not test a daily visible-help practice, and the seed's affiliative-system framing is the practice's own rationale, not a finding quoted from the carrier.
+What this evidence does not test: the practice as designed here. The intervention studied was counting one's own acts of kindness for one week, in Japanese samples, with subjective happiness as the outcome; it did not test a daily visible-help practice.
 
 ### A guided version
 

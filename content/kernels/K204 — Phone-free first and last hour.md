@@ -16,7 +16,7 @@ Do not touch your phone for the first hour after waking or the last hour before 
 
 The steps are the compendium's practice form; the finding the form leans on is quoted in the Evidence section.
 
-1. Choose a physical place for the phone overnight that is not the bedside: distance is the mechanism, not willpower.
+1. [Editorial, not from the carrier:] choose a physical place for the phone overnight that is not the bedside.
 2. For the last hour before sleep, replace the screen with a printed book or any non-light-emitting wind-down.
 3. For the first hour after waking, the practice's own rule applies: no phone until the day has a shape without it.
 

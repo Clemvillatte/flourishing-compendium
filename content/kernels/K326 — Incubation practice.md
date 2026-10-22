@@ -28,7 +28,7 @@ From the meta-analytic review:
 
 > "Surprisingly, low cognitive demand tasks yielded a stronger incubation effect than did rest during an incubation period when solving linguistic insight problems." (same abstract)
 
-What this evidence does not test: the mechanism. The review's authors offer differential invocation of knowledge-based versus strategic solution processes as an interpretation, not a settled mechanism, and the inherited framing that unconscious processing continues during the break is carried here as the practice's rationale rather than as an established explanation. The effect also varies by task type, and the review cautions that incubation "must be designed with care."
+What this evidence does not test: the mechanism. The review's authors offer differential invocation of knowledge-based versus strategic solution processes as an interpretation, not a settled mechanism, and the review cautions that incubation "must be designed with care." The effect also varies by task type, and the review cautions that incubation "must be designed with care."
 
 ### A guided version
 

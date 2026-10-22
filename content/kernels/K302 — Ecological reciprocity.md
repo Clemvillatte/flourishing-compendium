@@ -30,7 +30,7 @@ From Kimmerer's account of the Honorable Harvest:
 
 From the meta-analysis of connection to nature and proenvironmental behavior:
 
-> "A random-effects model demonstrated a positive and significant association between connection to nature and PEB (r = 0.42, 95% CI 0.36, 0.47, p < 0.001). People who are more connected to nature reported greater engagement in PEB." (Abstract, [Whitburn, Linklater & Abrahamse, 2019, Conservation Biology 34(1), 180-193](https://doi.org/10.1111/cobi.13381))
+> "A random-effects model demonstrated a positive and significant association between connection to nature and PEB (r = 0.42, 95% CI 0.36, 0.47, p < 0.001). People who are more connected to nature reported greater engagement in PEB." (Abstract, [Whitburn, Linklater & Abrahamse, 2019 (online first; print issue February 2020), Conservation Biology 34(1), 180-193](https://doi.org/10.1111/cobi.13381))
 
 What this evidence does not test: the practice. The meta-analysis is correlational; it does not show that performing monthly acts builds connection, and the Honorable Harvest is presented as an Indigenous ethic Kimmerer describes, not a tested intervention for well-being.
 

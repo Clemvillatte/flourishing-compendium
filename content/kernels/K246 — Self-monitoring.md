@@ -31,7 +31,7 @@ The same review sizes the effect and its conditions:
 
 > "Reactive effects tend to be fairly small but reliable and do not appear to be susceptible to demand (Nelson, Kapust, Dorsey, & Hayes, 1977) and expectancies (Nelson et al., 1975; Hutzell, 1977)." (p. 420)
 
-And it names what maximizes reactivity, which this practice deliberately withholds:
+The review identifies several conditions for maximizing reactivity; this practice omits explicit goals and contingent reinforcement:
 
 > "…a prototypical self-monitoring procedure that would maximize reactivity would be one in which (a) target responses are well-defined and motoric, (b) the client is motivated to change, (c) explicit goals for change are formulated, (d) reinforcement is provided contingent on reactive effects, (e) recordings are made just before each occurrence of the target behavior, and (f) concurrent response requirements are minimized." (p. 420)
 

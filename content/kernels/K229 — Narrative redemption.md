@@ -10,14 +10,14 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K229** — Narrative redemption
 
-Take one hard chapter of your life and rewrite it toward what it grew, what it taught, what it made possible. The redemption is not denial of pain but the discovery of meaning within it. Reach for it when a difficult stretch has hardened into the whole story.
+Take one hard chapter of your life and rewrite it toward what it grew, what it taught, what it made possible. The redemption keeps the pain in view and asks what, if anything, the chapter grew, taught, or made possible. Reach for it when a difficult stretch has hardened into the whole story.
 
 ### Protocol
 
 The steps are the compendium's practice form; the findings the form leans on are quoted in the Evidence section.
 
 1. Choose one hard chapter, and write it first as it currently reads, pain included.
-2. Rewrite the same chapter toward what it grew, what it taught, what it made possible, keeping the difficulty in the text rather than editing it out.
+2. Rewrite the same chapter toward what it grew, what it taught, what it made possible, keeping the difficulty in the text and inventing no benefits the events do not support.
 3. Read both versions and notice what the second one makes possible that the first does not; the exercise works on the story's shape, not on the events.
 
 ### Evidence
