@@ -35,8 +35,20 @@ Three bounded repairs under the maintenance baton, all pages re-validated (enric
 - Affect heuristic: misquote replaced with genuine carrier wording (paraphrase outside quotes).
 - Anticipatory affect: "affectively" → "affective" inside the Frontiers quote.
 
+## Round 2 — routed findings cleared (same session, ~11:58-12:14 UTC)
+
+All routed items from round 1 were checked against freshly opened carriers:
+
+1. **Anger's attributional analysis (4 quotes)** — Kent repository PDF (both quotes), Glasgow repository PDF (four attributions + queue scenario), DiGiuseppe chapter PDF (both quotes): ALL PASS, verbatim.
+2. **Anti-authoritarian inquiry (5 quotes)** — Oslo Democracy and Education PDF: "Since a democratic society repudiates..." PASS verbatim. Purdue paper (fetchable via HTTP reader even though direct download is Cloudflare-gated): 1936 restatement PASS verbatim. Dewey Dictionary (archive.org djvu text, OCR normalized): all three fragments ("fixed dogmas", "directing and utilizing change", "after taking pains to gather all available evidence") PASS. Dewey 1903 fragments: wording PASS via the [UCLA eScholarship dissertation](https://escholarship.org/content/qt26k2t4w2/qt26k2t4w2.pdf) quoting MW3: 236, but the page's cited carrier (pbworks) is DOWN ("PBworks - maintenance underway"). REPAIRED: citation re-pointed to the eScholarship reproduction.
+3. **Anti-essentialism (6 quotes)** — PhilArchive Knoll paper is LIVE (direct download fails, but the archive page opens and prints the BGE 108 Kaufmann quote): PASS. HAH quote: the Knoll paper prints it starting mid-passage; full wording verified verbatim via the [Brunel Entertext paper](https://www.brunel.ac.uk/creative-writing/research/entertext/documents/entertext043/Steven-Michels-Nietzsches-Aphoristic-Turn.pdf) (Hollingdale translation). Stanford Gay Science PDF: aphorism-54 passage PASS verbatim. Philoscopia: notebook line and attribution PASS. HMC: aphorism 51 PASS verbatim. DEFECT: the perspectival-seeing quote was labeled "The Gay Science" but its carrier (Philoscopia) attributes it to On the Genealogy of Morals III §12 — REPAIRED (label corrected).
+4. **Affect heuristic, r = -.74** — VERIFIED: the [Efendić et al. 2022 SAGE paper](https://journals.sagepub.com/doi/10.1177/19485506211056761) prints "original: r = −.74 [−0.92, −0.30]", i.e. it is the original Finucane et al. 2000 figure, as the page states. No repair needed; routed item closed.
+
 ## Summary
 
-9 pages checked this round, 12 quoted passages verified verbatim against opened carriers,
-3 defects found and repaired, 1 numeric claim routed for verification, 3-4 pages routed as
-next-up. The w1x batch's remaining unverified pages are listed above for the next verify worker.
+Round 2: 15 quoted passages checked, all verified verbatim; 2 defects repaired (dead pbworks citation re-pointed;
+perspectival-seeing quote mislabeled Gay Science instead of Genealogy III §12). Combined with round 1: all 12
+pages of the w1x batch now fully verified, 27 quoted passages checked against opened carriers, 5 defects found
+and repaired, all repaired pages re-validated (enrich_validate ok). The w1x fast-track batch is
+quotation-faithful at 100% of the sample after repair.
+

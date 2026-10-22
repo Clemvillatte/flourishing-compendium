@@ -15,7 +15,7 @@ The 1882 book contains the fullest formulation. In the aphorism on the conscious
 
 ### The concept's limit
 
-The position is often misread as relativism, and the distinction matters for the compendium. Nietzsche's own words in the same period: "There is only a perspectival seeing, only a perspectival knowing" ([The Gay Science, Philoscopia](https://www.philoscopia.com/en/quotes/nietzsche/)). What is denied is not the possibility of better accounts, but the possibility of a view from nowhere. The Gay Science aphorism on skeptics gives the operative attitude: "I favor any skepsis to which I may reply: 'Let us try it!'" ([Nietzsche, The Gay Science, #51, quoted in the HMC reading guide](https://pages.hmc.edu/beckman/philosophy/nietzsche/Gay.htm)). Anti-essentialism is not the claim that all accounts are equal; it is the claim that the only thing that settles an account is what happens when you try it.
+The position is often misread as relativism, and the distinction matters for the compendium. Nietzsche's own words in the same period: "There is only a perspectival seeing, only a perspectival knowing" ([On the Genealogy of Morals, III §12, Philoscopia](https://www.philoscopia.com/en/quotes/nietzsche/)). What is denied is not the possibility of better accounts, but the possibility of a view from nowhere. The Gay Science aphorism on skeptics gives the operative attitude: "I favor any skepsis to which I may reply: 'Let us try it!'" ([Nietzsche, The Gay Science, #51, quoted in the HMC reading guide](https://pages.hmc.edu/beckman/philosophy/nietzsche/Gay.htm)). Anti-essentialism is not the claim that all accounts are equal; it is the claim that the only thing that settles an account is what happens when you try it.
 
 ## Related concepts
 
