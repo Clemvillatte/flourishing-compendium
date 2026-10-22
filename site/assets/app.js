@@ -3876,10 +3876,9 @@ if (window.fcSwitchView) window.fcSwitchView('rand');
     if (lastSynced === location.hash) return true; /* already showing it */
     var t;
     try { t = decodeURIComponent(m[1]); } catch (err) { t = m[1]; }
-    var e = byId.get(t) || byFile.get(t);
-    if (!e) return false;
-    window.fcWiki.open(cardTarget(e));
-    return true;
+    /* fcWiki.open resolves the key against the entry maps inside its own
+       scope and returns false when nothing matches */
+    return !!window.fcWiki.open(t);
   }
   window.__deepLink = { syncCardHash: syncCardHash, wireLinkButton: wireLinkButton, cardUrlFor: cardUrlFor };
   window.addEventListener('hashchange', openCardFromHash);
