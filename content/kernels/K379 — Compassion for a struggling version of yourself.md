@@ -34,7 +34,7 @@ Adapted from Kolts, CFT Made Simple, New Harbinger, 2016, ch. 9, "Cultivating th
 
 ### Evidence
 
-The cited studies examine self-criticism and self-reassurance as mental states, and CFT as a therapy, not this exercise alone. In an fMRI study, participants were instructed to imagine being self-critical or self-reassuring in matched scenarios; the study compared those instructed states and did not test this exercise or measure symptom change ([Longe et al., 2010](https://pubmed.ncbi.nlm.nih.gov/19770047/)):
+The cited studies examine self-criticism and self-reassurance as mental states, and CFT as a therapy, not this exercise alone. In an fMRI study, participants were instructed to imagine being self-critical or self-reassuring in matched scenarios; the study compared those instructed states, and its findings do not establish the effectiveness of this exercise ([Longe et al., 2010](https://pubmed.ncbi.nlm.nih.gov/19770047/)):
 
 > "Self-reassurance was associated with left temporal pole and insula activation, suggesting that efforts to be self-reassuring engage similar regions to expressing compassion" — [Longe et al. (2010)](https://pubmed.ncbi.nlm.nih.gov/19770047/)
 

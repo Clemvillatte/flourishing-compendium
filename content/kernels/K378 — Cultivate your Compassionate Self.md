@@ -67,6 +67,6 @@ Russell Kolts's guided recording: [Compassionate Self Meditation](https://insigh
 
 ## Sources
 
-- [Gilbert (2009), "Introducing compassion-focused therapy", Advances in Psychiatric Treatment](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) — the founder's description of compassionate-self practice (the earlier Kolts, CFT Made Simple attribution is recorded in the ledger)
+- [Gilbert (2009), "Introducing compassion-focused therapy", Advances in Psychiatric Treatment](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) — the founder's description of compassionate-self practice
 - [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychol Med, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)
 - [MacBeth & Gumley (2012), "Exploring compassion: a meta-analysis of the association between self-compassion and psychopathology", Clinical Psychology Review, PubMed](https://pubmed.ncbi.nlm.nih.gov/22796446/)
