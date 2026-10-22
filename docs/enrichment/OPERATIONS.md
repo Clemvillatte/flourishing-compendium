@@ -562,3 +562,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   finished-band draw, w1l) — all three Beckes & Coan 2011 quotes checked against the
   opened squarespace PDF carrier (the page's own citation): all verbatim. Sample
   PASS. Twenty-seven samples this session, all PASS.
+- Supervisor verification sample 28 (2026-10-22 ~15:51 UTC): Revenge (random
+  finished-band draw, w1l) — the Carlsmith, Wilson & Gilbert 2008 abstract quote and
+  the body's supporting claims checked against the opened Europe PMC abstract:
+  verbatim/supported. Sample PASS. Twenty-eight samples this session, all PASS.
