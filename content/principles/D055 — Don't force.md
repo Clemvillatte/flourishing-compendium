@@ -12,16 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 55** — Don't force
 
-Chapter 29 of the Daodejing concerns an attempt to gain possession of the kingdom:
+In chapter 29 of the Daodejing, the wish to possess a kingdom leads to a warning about trying to seize and control it:
 
 > "The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it."
 > (DDJ 29, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-Chapter 64 describes the sage as someone who "helps the natural development of all things, and does not dare to act (with an ulterior purpose of his own)" (DDJ 64). The compendium applies this caution to everyday action: before increasing your effort, examine what your intervention is doing and whether to change your approach. (DDJ 29, 64.)
+Chapter 64 describes the sage as someone who "helps the natural development of all things, and does not dare to act (with an ulterior purpose of his own)" ([DDJ 64, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)). Helping remains possible; the qualification concerns the purpose brought to it.
 
-**Plain words** Separate the result you want from the way you are trying to get it. Does your current approach help? Is there something you need to understand before doing more? You might pause or offer a different kind of help. These passages leave room for helping something develop; they do not establish that every effort is a mistake.
+In his scholarly account of wuwei, Alan Chan distinguishes nonaction from total inactivity and reads it as a reorientation away from self-serving desire. On this reading, doing less would miss the point if it were simply another tactic for gaining control ([Stanford Encyclopedia of Philosophy, §7](https://plato.stanford.edu/entries/laozi/)).
 
-*For example:* Suppose a colleague says they need time to think about a proposal. Agree when to return to it and stop asking for an immediate answer.
+### Plain words
+
+Before pressing harder, ask what your intervention is for. Consider whether you are helping someone work something out or requiring them to reach your preferred answer. You may still need to act, but you can reconsider the pressure you bring.
+
+### For example
+
+Imagine that a colleague asks for time to consider your proposal. You could agree when to return to it and offer the information they need, while leaving them free to disagree. Securing a meeting is different from securing their assent.
+
+## Sources
+
+- [Laozi, Daodejing 29 and 64, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): the kingdom warning and the sage's assistance.
+- [Alan Chan, "Laozi", Stanford Encyclopedia of Philosophy, §7, "Naturalness and Nonaction"](https://plato.stanford.edu/entries/laozi/): the interpretation of wuwei used here.
 
 ## Stories
 
@@ -57,7 +68,7 @@ Chapter 64 describes the sage as someone who "helps the natural development of a
 - [[ST326 — Bob Ross's Happy Accidents|326. Bob Ross's Happy Accidents]]
 ## Psychology parallels
 
-- **[[Ironic process|Ironic-process theory]]**, trying to force mental states backfires (Wegner, 1994)
+- [[Ironic process|Ironic-process theory]] (Wegner, 1994)
 - **[[Psychological flexibility|Psychological flexibility versus experiential control]]** (Hayes et al., 2011)
 
 ## Philosophy parallels
@@ -90,3 +101,5 @@ Half the energy we spend pushing is spent pushing against ourselves. What's your
 ## Related concepts
 
 - [[D099]] — the two faces of wu wei: D055 the abstention (don't force), D099 the positive letting (of themselves, DDJ 37)
+- [[Wu wei]]: the philosophical term discussed above.
+- [[Ziran (naturalness)]]: naturalness in the same Daoist vocabulary.
