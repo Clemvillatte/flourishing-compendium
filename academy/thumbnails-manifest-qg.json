@@ -1,0 +1,802 @@
+[
+ {
+  "session_index": 0,
+  "title": "1-Minute Guided Taoist Breathwork",
+  "practice_type": "rescue",
+  "practice_label": "Five-minute rescues",
+  "length_label": "1:39",
+  "generated_file": "assets/academy/sessions/q000.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/concealing-coloration/concealing-coloration-6.jpg",
+  "source_title": "Blue Jays in Winter and Birds of Paradise in the Forest"
+ },
+ {
+  "session_index": 1,
+  "title": "60-Second Daily Health Boost",
+  "practice_type": "rescue",
+  "practice_label": "Five-minute rescues",
+  "length_label": "1:59",
+  "generated_file": "assets/academy/sessions/q001.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Brooklyn_Museum_-_Wind_Blown_Grass_Across_the_Moon_-_Utagawa_Hiroshige_%28Ando%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Brooklyn Museum - Wind Blown Grass Across the Moon - Utagawa Hiroshige (Ando)"
+ },
+ {
+  "session_index": 2,
+  "title": "Grounding Qigong",
+  "practice_type": "rescue",
+  "practice_label": "Five-minute rescues",
+  "length_label": "1:16",
+  "generated_file": "assets/academy/sessions/q002.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/29775129927_40e4cb8d4d_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 3,
+  "title": "Standing Meditation",
+  "practice_type": "rescue",
+  "practice_label": "Five-minute rescues",
+  "length_label": "2:18",
+  "generated_file": "assets/academy/sessions/q003.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/unkindo-kimono-designs/yachigusav8ueno_0005.jpeg",
+  "source_title": "Kimono design"
+ },
+ {
+  "session_index": 4,
+  "title": "3-Breath Qigong Practice",
+  "practice_type": "rescue",
+  "practice_label": "Five-minute rescues",
+  "length_label": "2:05",
+  "generated_file": "assets/academy/sessions/q004.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hiroshige_Benzaiten_Shrine_at_Inokashira_in_Snow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Hiroshige Benzaiten Shrine at Inokashira in Snow"
+ },
+ {
+  "session_index": 5,
+  "title": "The Eight Brocades, short form",
+  "practice_type": "rescue",
+  "practice_label": "Five-minute rescues",
+  "length_label": "5:44",
+  "generated_file": "assets/academy/sessions/q005.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803031265_c5c79f217e_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 6,
+  "title": "5-Minute Heart and Shen Calming Qigong",
+  "practice_type": "rescue",
+  "practice_label": "Five-minute rescues",
+  "length_label": "5:07",
+  "generated_file": "assets/academy/sessions/q006.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/elements-and-temperaments-maerten-de-vos/water.jpg",
+  "source_title": "Water"
+ },
+ {
+  "session_index": 7,
+  "title": "Qigong Morning 'Magic 5' for Beginners",
+  "practice_type": "morning",
+  "practice_label": "Ten-minute mornings",
+  "length_label": "14:29",
+  "generated_file": "assets/academy/sessions/q007.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hiroshige_Full_moon_over_a_mountain_landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Hiroshige Full moon over a mountain landscape"
+ },
+ {
+  "session_index": 8,
+  "title": "10 Minute Morning Qi Gong for Beginners",
+  "practice_type": "morning",
+  "practice_label": "Ten-minute mornings",
+  "length_label": "10:49",
+  "generated_file": "assets/academy/sessions/q008.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803040365_cd1fea78fd_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 9,
+  "title": "Simple Daily Qigong",
+  "practice_type": "morning",
+  "practice_label": "Ten-minute mornings",
+  "length_label": "10:28",
+  "generated_file": "assets/academy/sessions/q009.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/unkindo-kimono-designs/yachigusav15ueno_0010.jpeg",
+  "source_title": "Kimono design"
+ },
+ {
+  "session_index": 10,
+  "title": "Simple Qigong Routine — 10-minute practice",
+  "practice_type": "morning",
+  "practice_label": "Ten-minute mornings",
+  "length_label": "10:45",
+  "generated_file": "assets/academy/sessions/q010.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hiroshige_Moon_over_mountain_landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Hiroshige Moon over mountain landscape"
+ },
+ {
+  "session_index": 11,
+  "title": "Tension-release routine",
+  "practice_type": "morning",
+  "practice_label": "Ten-minute mornings",
+  "length_label": "8 min",
+  "generated_file": "assets/academy/sessions/q011.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994120514_9cf3df4d11_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 12,
+  "title": "Morning Qi Gong follow-along",
+  "practice_type": "morning",
+  "practice_label": "Ten-minute mornings",
+  "length_label": "18:13",
+  "generated_file": "assets/academy/sessions/q012.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/herbert-geddes-life-in-japan/Snow-covered_mountain_(Mt._Fuji_)_wreathed_with_clouds;_low_ground_leading_down_to_water_in_foreground._(19955173811).jpg",
+  "source_title": "Snow-covered mountain (Mt. Fuji ) wreathed with clouds."
+ },
+ {
+  "session_index": 13,
+  "title": "6-Minute Ba Duan Jin, mirror version",
+  "practice_type": "brocades",
+  "practice_label": "Ba Duan Jin (Eight Brocades)",
+  "length_label": "6:11",
+  "generated_file": "assets/academy/sessions/q013.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Untitled%2C_Two_Rabbits%2C_Pampas_Grass%2C_and_Full_Moon_%28Hiroshige%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Untitled, Two Rabbits, Pampas Grass, and Full Moon (Hiroshige)"
+ },
+ {
+  "session_index": 14,
+  "title": "8 Brocades Qigong Practice",
+  "practice_type": "brocades",
+  "practice_label": "Ba Duan Jin (Eight Brocades)",
+  "length_label": "18:33",
+  "generated_file": "assets/academy/sessions/q014.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/30841404218_a93139bd5d_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 15,
+  "title": "Health Qigong Ba Duan Jin",
+  "practice_type": "brocades",
+  "practice_label": "Ba Duan Jin (Eight Brocades)",
+  "length_label": "12:15",
+  "generated_file": "assets/academy/sessions/q015.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/herbert-geddes-life-in-japan/Two_men_landing_boat_on_beach._(19949920335).jpg",
+  "source_title": "Two men landing boat on beach."
+ },
+ {
+  "session_index": 16,
+  "title": "15-Minute Ba Duan Jin for immune and lung health",
+  "practice_type": "brocades",
+  "practice_label": "Ba Duan Jin (Eight Brocades)",
+  "length_label": "14:56",
+  "generated_file": "assets/academy/sessions/q016.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hiroshi_Yoshida_-_Wisteria_-_10651.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Hiroshi Yoshida - Wisteria - 10651"
+ },
+ {
+  "session_index": 17,
+  "title": "Ba Duan Jin — Eight Section Brocade",
+  "practice_type": "brocades",
+  "practice_label": "Ba Duan Jin (Eight Brocades)",
+  "length_label": "12:12",
+  "generated_file": "assets/academy/sessions/q017.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/shop/edit-pd17-386-num-ardea-alba-white-heron-id-277401-jpeg.jpg",
+  "source_title": "White Heron"
+ },
+ {
+  "session_index": 18,
+  "title": "Ba Duan Jin",
+  "practice_type": "brocades",
+  "practice_label": "Ba Duan Jin (Eight Brocades)",
+  "length_label": "21:00",
+  "generated_file": "assets/academy/sessions/q018.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/travels-in-the-air/travelsinair00flam_0227-edit.jpg",
+  "source_title": "A moonlight effect as seen from the balloon by M. Flammarion."
+ },
+ {
+  "session_index": 19,
+  "title": "Qigong: The 18 Forms — Day 1 of six",
+  "practice_type": "shibashi",
+  "practice_label": "Shibashi and flowing forms",
+  "length_label": "25:12",
+  "generated_file": "assets/academy/sessions/q019.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Katsushika_Hokusai%2C_published_by_Nishimuraya_Yohachi_%28Eijud%C5%8D%29_-_Fine_Wind%2C_Clear_Weather_%28Gaif%C5%AB_kaisei%29%2C_also_known_as_Red_Fuji%2C_from_the_series_Thirty-six_Views_o..._-_Google_Art_Project_-_Cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Katsushika Hokusai, published by Nishimuraya Yohachi (Eijudō) - Fine Wind, Clear Weather (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views o... - Google Art Project - Cropped"
+ },
+ {
+  "session_index": 20,
+  "title": "Standing Meditation",
+  "practice_type": "standing",
+  "practice_label": "Standing (zhan zhuang)",
+  "length_label": "2:18",
+  "generated_file": "assets/academy/sessions/q020.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/essays/audubons-haiti/47196135232_373eaaa66f_b.jpg",
+  "source_title": "Yellow-Crowned Heron"
+ },
+ {
+  "session_index": 21,
+  "title": "Xing Yi Standing Pole practice",
+  "practice_type": "standing",
+  "practice_label": "Standing (zhan zhuang)",
+  "length_label": "31:55",
+  "generated_file": "assets/academy/sessions/q021.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/highlights-from-the-cleveland-museum-of-art-s-release-of-more-than-30k-images-of-public-domain-works/39975288263_bded8e51e0_c.jpg",
+  "source_title": "Orchid Blossoms"
+ },
+ {
+  "session_index": 22,
+  "title": "5 Animal Qi Gong",
+  "practice_type": "animal",
+  "practice_label": "Animal forms",
+  "length_label": "16:08",
+  "generated_file": "assets/academy/sessions/q022.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Red_Fuji_southern_wind_clear_morning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Red Fuji southern wind clear morning"
+ },
+ {
+  "session_index": 23,
+  "title": "Tiger Qigong",
+  "practice_type": "animal",
+  "practice_label": "Animal forms",
+  "length_label": "11:57",
+  "generated_file": "assets/academy/sessions/q023.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/shop/edit-pd17-307-rob-egretta-caerulea-blue-crane-or-heron-id-277568-jpeg.jpg",
+  "source_title": "Blue Crane or Heron"
+ },
+ {
+  "session_index": 24,
+  "title": "Flying Crane Qigong",
+  "practice_type": "animal",
+  "practice_label": "Animal forms",
+  "length_label": "11:51",
+  "generated_file": "assets/academy/sessions/q024.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/spring-morning-in-the-han-palace-17th-c/800px-Qiu_Ying_-_Spring_Morning_in_the_Han_Palace_-_Walters_3548_-_View_A.jpg",
+  "source_title": "Spring Morning in the Han Palace (detail)"
+ },
+ {
+  "session_index": 25,
+  "title": "Flying Dragon workshop practice",
+  "practice_type": "animal",
+  "practice_label": "Animal forms",
+  "length_label": "12:24",
+  "generated_file": "assets/academy/sessions/q025.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hasegawa_Tohaku_-_Pine_Trees_%28Sh%C5%8Drin-zu_by%C5%8Dbu%29_-_left_hand_screen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Hasegawa Tohaku - Pine Trees (Shōrin-zu byōbu) - left hand screen"
+ },
+ {
+  "session_index": 26,
+  "title": "Yi Jin Jing, mirror version",
+  "practice_type": "yijinjing",
+  "practice_label": "Yi Jin Jing",
+  "length_label": "13:01",
+  "generated_file": "assets/academy/sessions/q026.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/ogawa-kazumasa-s-hand-coloured-photographs-of-flowers-1896/32425996377_1cd557ab51_c.jpg",
+  "source_title": "Untitled Image by Ogawa Kazumasa from Some Japanese Flowers (1896)"
+ },
+ {
+  "session_index": 27,
+  "title": "Yi Jin Jing practised at the Potala Palace",
+  "practice_type": "yijinjing",
+  "practice_label": "Yi Jin Jing",
+  "length_label": "5:24",
+  "generated_file": "assets/academy/sessions/q027.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/principles-of-light-and-color/principlesoflig00babb_0222.jpg",
+  "source_title": "Eclipses and Phases of the Moon"
+ },
+ {
+  "session_index": 28,
+  "title": "Liu Zi Jue, mirror practice",
+  "practice_type": "liuzijue",
+  "practice_label": "Six Healing Sounds",
+  "length_label": "8:55",
+  "generated_file": "assets/academy/sessions/q028.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hasegawa_Tohaku_-_Pine_Trees_%28Sh%C5%8Drin-zu_by%C5%8Dbu%29_-_right_hand_screen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Hasegawa Tohaku - Pine Trees (Shōrin-zu byōbu) - right hand screen"
+ },
+ {
+  "session_index": 29,
+  "title": "Liu Zi Jue with English instruction",
+  "practice_type": "liuzijue",
+  "practice_label": "Six Healing Sounds",
+  "length_label": "16:41",
+  "generated_file": "assets/academy/sessions/q029.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/ogawa-kazumasa-s-hand-coloured-photographs-of-flowers-1896/32425997157_41e4d6de84_c.jpg",
+  "source_title": "Untitled Image by Ogawa Kazumasa from Some Japanese Flowers (1896)"
+ },
+ {
+  "session_index": 30,
+  "title": "Ma Wang Dui — 20-minute meridian cleanse",
+  "practice_type": "daoyin",
+  "practice_label": "Daoyin sets",
+  "length_label": "19:02",
+  "generated_file": "assets/academy/sessions/q030.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/aurora-borealis-in-art/innorthernmistsa002nans_0008.jpg",
+  "source_title": "Frontispiece to Fridtjof Nansen's *In Northern Mists: Arctic Exploration in Early Times*"
+ },
+ {
+  "session_index": 31,
+  "title": "Ma Wang Dui Health Qigong",
+  "practice_type": "daoyin",
+  "practice_label": "Daoyin sets",
+  "length_label": "14:58",
+  "generated_file": "assets/academy/sessions/q031.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nukina_S%C5%AB%C5%8D_Old_Pine_Tree_ink_and_light-color_on_paper_hanging_scroll_The_Shiga_prefecture_Lake_Biwa_Culture_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Nukina Sūō Old Pine Tree ink and light-color on paper hanging scroll The Shiga prefecture Lake Biwa Culture Center"
+ },
+ {
+  "session_index": 32,
+  "title": "Ma Wang Dui Daoyin Shu",
+  "practice_type": "daoyin",
+  "practice_label": "Daoyin sets",
+  "length_label": "19:14",
+  "generated_file": "assets/academy/sessions/q032.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/highlights-from-the-cleveland-museum-of-art-s-release-of-more-than-30k-images-of-public-domain-works/46887555232_118d6d0cd7_o.jpg",
+  "source_title": "Chrysanthemums by a Stream"
+ },
+ {
+  "session_index": 33,
+  "title": "6 Ancient Movements of Taoist Monks",
+  "practice_type": "daoyin",
+  "practice_label": "Daoyin sets",
+  "length_label": "7:14",
+  "generated_file": "assets/academy/sessions/q033.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/campi-phlegraei/campi-phlegraei-13.jpg",
+  "source_title": "Little mountains raised in 1760 by the eruption of Mount Vesuvius, inland and offshore"
+ },
+ {
+  "session_index": 34,
+  "title": "Spring Cleanse Qi Gong",
+  "practice_type": "seasonal",
+  "practice_label": "Five elements and seasons",
+  "length_label": "25:15",
+  "generated_file": "assets/academy/sessions/q034.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Xia_Gui_-_Mountain_Market-_Clear_with_Rising_Mist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Xia Gui - Mountain Market- Clear with Rising Mist"
+ },
+ {
+  "session_index": 35,
+  "title": "Fire element practice",
+  "practice_type": "seasonal",
+  "practice_label": "Five elements and seasons",
+  "length_label": "13:03",
+  "generated_file": "assets/academy/sessions/q035.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/shop/The-Stalheimsfossen-waterfall-near-Voss-1.jpg",
+  "source_title": "The Stalheimsfossen Waterfall near Voss"
+ },
+ {
+  "session_index": 36,
+  "title": "Earth element practice",
+  "practice_type": "seasonal",
+  "practice_label": "Five elements and seasons",
+  "length_label": "16:06",
+  "generated_file": "assets/academy/sessions/q036.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/visualising-bubbles/soap-bubble-21.jpg",
+  "source_title": "BORDERLINE: 600x601, below 640px threshold"
+ },
+ {
+  "session_index": 37,
+  "title": "Metal element practice",
+  "practice_type": "seasonal",
+  "practice_label": "Five elements and seasons",
+  "length_label": "15:09",
+  "generated_file": "assets/academy/sessions/q037.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Zha_Shibiao_-_Mountains_at_Dawn_-_Walters_35208B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Zha Shibiao - Mountains at Dawn - Walters 35208B"
+ },
+ {
+  "session_index": 38,
+  "title": "Autumn practice, no music",
+  "practice_type": "seasonal",
+  "practice_label": "Five elements and seasons",
+  "length_label": "17:12",
+  "generated_file": "assets/academy/sessions/q038.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/sketches-by-yoshitoshi-1882/8577909216_89b2de3385_c.jpg",
+  "source_title": "Narihira and Nijō no Tsubone at the Fuji River"
+ },
+ {
+  "session_index": 39,
+  "title": "Evening Qi Gong for Deep Rest",
+  "practice_type": "evening",
+  "practice_label": "Evening and sleep",
+  "length_label": "9:12",
+  "generated_file": "assets/academy/sessions/q039.jpg",
+  "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ito_Jakuchu_-_Plum_Blossoms_from_Seiran%27en_Painting_Album_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "source_title": "Ito Jakuchu - Plum Blossoms from Seiran'en Painting Album - Google Art Project"
+ },
+ {
+  "session_index": 40,
+  "title": "Qigong for Better Sleep",
+  "practice_type": "evening",
+  "practice_label": "Evening and sleep",
+  "length_label": "14:05",
+  "generated_file": "assets/academy/sessions/q040.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/art-of-kite-flying/kite-flying-00025.jpg",
+  "source_title": "Kites flying over old Edo during a festival in early spring"
+ },
+ {
+  "session_index": 41,
+  "title": "Qi Gong for Insomnia",
+  "practice_type": "evening",
+  "practice_label": "Evening and sleep",
+  "length_label": "8:46",
+  "generated_file": "assets/academy/sessions/q041.jpg",
+  "source_image_url": "https://commons.wikimedia.org/wiki/File:Night_Snow_at_Kambara_(Kambara_Yoru_no_Yuki),_Station_15,_from_the_Fifty-Three_Stations_of_the_Tokaido_(Tokaido_Gojusantsugi_no_Uchi)_(Hoeido),_by_Utagawa_(And%C5%8D)_Hiroshige,_1832-1834,_Hood_Museum_-_PR.972.63.16.tif",
+  "source_title": "Night Snow at Kambara (Kambara Yoru no Yuki), Station 15, from the Fifty-Three Stations of the Tokaido"
+ },
+ {
+  "session_index": 42,
+  "title": "Tai Chi for Better Sleep",
+  "practice_type": "evening",
+  "practice_label": "Evening and sleep",
+  "length_label": "12:31",
+  "generated_file": "assets/academy/sessions/q042.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/art-of-kite-flying/kite-flying-00041.jpg",
+  "source_title": "Asakusa Hongan Temple in Edo"
+ },
+ {
+  "session_index": 43,
+  "title": "Healing Qigong for a Heavy Heart",
+  "practice_type": "calm",
+  "practice_label": "Calm under pressure",
+  "length_label": "24:18",
+  "generated_file": "assets/academy/sessions/q043.jpg",
+  "source_image_url": "https://commons.wikimedia.org/wiki/File:Ando_Hiroshige_-_Plum_Garden,_Kameido_-_Google_Art_Project.jpg",
+  "source_title": "Ando Hiroshige - Plum Garden, Kameido"
+ },
+ {
+  "session_index": 44,
+  "title": "Qi Gong for Grief and Loss",
+  "practice_type": "calm",
+  "practice_label": "Calm under pressure",
+  "length_label": "11:21",
+  "generated_file": "assets/academy/sessions/q044.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c4.jpg",
+  "source_title": "Untitled Image by Katsushika Hokusai from Illustrated Warrior Vanguard of Japan and China (1836)"
+ },
+ {
+  "session_index": 45,
+  "title": "Qigong to Calm Stress and Anxiety, Nourish the Heart",
+  "practice_type": "calm",
+  "practice_label": "Calm under pressure",
+  "length_label": "9:15",
+  "generated_file": "assets/academy/sessions/q045.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c19.jpg",
+  "source_title": "Untitled Image by Katsushika Hokusai from Illustrated Warrior Vanguard of Japan and China (1836)"
+ },
+ {
+  "session_index": 46,
+  "title": "6-Minute Qigong for Stress and Anxiety",
+  "practice_type": "calm",
+  "practice_label": "Calm under pressure",
+  "length_label": "9:11",
+  "generated_file": "assets/academy/sessions/q046.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c7.jpg",
+  "source_title": "Untitled Image by Katsushika Hokusai from Illustrated Warrior Vanguard of Japan and China (1836)"
+ },
+ {
+  "session_index": 47,
+  "title": "Release Stress and Recharge",
+  "practice_type": "calm",
+  "practice_label": "Calm under pressure",
+  "length_label": "18:40",
+  "generated_file": "assets/academy/sessions/q047.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c11.jpg",
+  "source_title": "Untitled Image by Katsushika Hokusai from Illustrated Warrior Vanguard of Japan and China (1836)"
+ },
+ {
+  "session_index": 48,
+  "title": "Qigong for Love — Kindness and Compassion",
+  "practice_type": "calm",
+  "practice_label": "Calm under pressure",
+  "length_label": "25:10",
+  "generated_file": "assets/academy/sessions/q048.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c1.jpg",
+  "source_title": "Untitled Image by Katsushika Hokusai from Illustrated Warrior Vanguard of Japan and China (1836)"
+ },
+ {
+  "session_index": 49,
+  "title": "Microcosmic Orbit practice",
+  "practice_type": "calm",
+  "practice_label": "Calm under pressure",
+  "length_label": "11:05",
+  "generated_file": "assets/academy/sessions/q049.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c22.jpg",
+  "source_title": "Untitled Image by Katsushika Hokusai from Illustrated Warrior Vanguard of Japan and China (1836)"
+ },
+ {
+  "session_index": 50,
+  "title": "Qigong for Healing",
+  "practice_type": "calm",
+  "practice_label": "Calm under pressure",
+  "length_label": "8:42",
+  "generated_file": "assets/academy/sessions/q050.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/44711800391_f06d0dfa25_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 51,
+  "title": "Tai Chi Walking: Turn Any Walk Into an Energy Practice",
+  "practice_type": "walking",
+  "practice_label": "Walking practice",
+  "length_label": "6:12",
+  "generated_file": "assets/academy/sessions/q051.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994123754_b84e5a89b0_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 52,
+  "title": "Tai Chi Walking for Beginners",
+  "practice_type": "walking",
+  "practice_label": "Walking practice",
+  "length_label": "11:23",
+  "generated_file": "assets/academy/sessions/q052.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803034805_153d7379fa_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 53,
+  "title": "Tai Chi Walking to Reset the Nervous System",
+  "practice_type": "walking",
+  "practice_label": "Walking practice",
+  "length_label": "10:45",
+  "generated_file": "assets/academy/sessions/q053.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994126084_c017a133e0_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 54,
+  "title": "Walking to Stop Anxiety",
+  "practice_type": "walking",
+  "practice_label": "Walking practice",
+  "length_label": "10:38",
+  "generated_file": "assets/academy/sessions/q054.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/albert-racinet-s-l-ornement-polychrome-1869-73/43216769341_fa071b31f9_c.jpg",
+  "source_title": "Chinese (Detail)"
+ },
+ {
+  "session_index": 55,
+  "title": "Seated Qigong for Relaxation and Balance",
+  "practice_type": "seated",
+  "practice_label": "Seated and chair-based",
+  "length_label": "19:08",
+  "generated_file": "assets/academy/sessions/q055.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803031265_c5c79f217e_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 56,
+  "title": "Seated Tai Chi for Health and Vitality",
+  "practice_type": "seated",
+  "practice_label": "Seated and chair-based",
+  "length_label": "3:02",
+  "generated_file": "assets/academy/sessions/q056.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803040365_cd1fea78fd_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 57,
+  "title": "3-Minute Restorative Tai Chi",
+  "practice_type": "seated",
+  "practice_label": "Seated and chair-based",
+  "length_label": "3:38",
+  "generated_file": "assets/academy/sessions/q057.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/44662902712_5a6a54f0de_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 58,
+  "title": "Qi Gong for Arthritis — gentle hands and joints",
+  "practice_type": "seated",
+  "practice_label": "Seated and chair-based",
+  "length_label": "7:06",
+  "generated_file": "assets/academy/sessions/q058.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994120514_9cf3df4d11_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 59,
+  "title": "Open Qigong Class: Fire and Summer",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "1:10:49",
+  "generated_file": "assets/academy/sessions/q059.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803038685_4ff14826cc_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 60,
+  "title": "Qigong class on nourishment",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "1:14:45",
+  "generated_file": "assets/academy/sessions/q060.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994125164_f5915fca91_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 61,
+  "title": "18 Forms with etheric cleansing — full class",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "1:18:20",
+  "generated_file": "assets/academy/sessions/q061.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/30841404218_a93139bd5d_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 62,
+  "title": "Live-streamed qigong class, full length",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "1:21:58",
+  "generated_file": "assets/academy/sessions/q062.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/44662899742_2ac90f2057_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 63,
+  "title": "Baduanjin Lesson One — full class",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "1:08:28",
+  "generated_file": "assets/academy/sessions/q063.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/sketches-by-yoshitoshi-1882/8577909576_45b8a7a103_c.jpg",
+  "source_title": "Kintarō Riding the Carp"
+ },
+ {
+  "session_index": 64,
+  "title": "Baduanjin Lesson Two — full class",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "1:16:39",
+  "generated_file": "assets/academy/sessions/q064.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/utagawa-hiroshige-last-great-master-of-ukiyo-e/40962681534_356c9daaef_b.jpg",
+  "source_title": "Carp Swimming Against a Waterfall"
+ },
+ {
+  "session_index": 65,
+  "title": "Baduanjin Lesson Three — full class",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "56:06",
+  "generated_file": "assets/academy/sessions/q065.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0105.jpg",
+  "source_title": "Le Ferrugineux, Le Tettard, Le Frangirouge"
+ },
+ {
+  "session_index": 66,
+  "title": "Year of the Fire Horse, Session 1",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "55:00",
+  "generated_file": "assets/academy/sessions/q066.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0109.jpg",
+  "source_title": "Le Nigricant, L'aurore"
+ },
+ {
+  "session_index": 67,
+  "title": "Live class, Session 2",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "1:00:27",
+  "generated_file": "assets/academy/sessions/q067.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0193.jpg",
+  "source_title": "L'arlequin"
+ },
+ {
+  "session_index": 68,
+  "title": "Calming Fire livestream class",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "52:37",
+  "generated_file": "assets/academy/sessions/q068.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0209.jpg",
+  "source_title": "L'albatre, La Roussette, Le Mulâtre"
+ },
+ {
+  "session_index": 69,
+  "title": "20-Minute Qi Gong — Simplicity is Mastery",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "25:41",
+  "generated_file": "assets/academy/sessions/q069.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0205.jpg",
+  "source_title": "Le Robino, Le Sombrun"
+ },
+ {
+  "session_index": 70,
+  "title": "World Peace Qigong Flow",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "33:20",
+  "generated_file": "assets/academy/sessions/q070.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0169.jpg",
+  "source_title": "Le Rougissant"
+ },
+ {
+  "session_index": 71,
+  "title": "Xing Yi Standing Pole — long hold",
+  "practice_type": "fullclass",
+  "practice_label": "Full classes",
+  "length_label": "31:55",
+  "generated_file": "assets/academy/sessions/q071.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0049.jpg",
+  "source_title": "Le Souci, La Capucine"
+ },
+ {
+  "session_index": 72,
+  "title": "Tai Chi for Beginners — free first lesson",
+  "practice_type": "taichi",
+  "practice_label": "Tai chi bridge",
+  "length_label": "44:25",
+  "generated_file": "assets/academy/sessions/q072.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0185.jpg",
+  "source_title": "Le Rouge-lys, Le Varié"
+ },
+ {
+  "session_index": 73,
+  "title": "Tai Chi for Beginners — 15 minutes a day",
+  "practice_type": "taichi",
+  "practice_label": "Tai chi bridge",
+  "length_label": "9:17",
+  "generated_file": "assets/academy/sessions/q073.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0101.jpg",
+  "source_title": "Le Quintebande, Le Norimembre"
+ },
+ {
+  "session_index": 74,
+  "title": "Beginner Tai Chi — gentle flow",
+  "practice_type": "taichi",
+  "practice_label": "Tai chi bridge",
+  "length_label": "13:29",
+  "generated_file": "assets/academy/sessions/q074.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0117.jpg",
+  "source_title": "Le Rubis, Le Taches-mine"
+ },
+ {
+  "session_index": 75,
+  "title": "1-Minute Guided Taoist Breathwork",
+  "practice_type": "breath",
+  "practice_label": "Breath",
+  "length_label": "1:39",
+  "generated_file": "assets/academy/sessions/q075.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0201.jpg",
+  "source_title": "Le Bleuissant, Le semiblanc"
+ },
+ {
+  "session_index": 76,
+  "title": "Taoist True Breathing",
+  "practice_type": "breath",
+  "practice_label": "Breath",
+  "length_label": "13:01",
+  "generated_file": "assets/academy/sessions/q076.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0177.jpg",
+  "source_title": "Le Créole, Le Frangimine"
+ },
+ {
+  "session_index": 77,
+  "title": "The Breath Superpower",
+  "practice_type": "breath",
+  "practice_label": "Breath",
+  "length_label": "7:18",
+  "generated_file": "assets/academy/sessions/q077.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0133.jpg",
+  "source_title": "Le Rouillé, Le Cerise, Le Léopard"
+ },
+ {
+  "session_index": 78,
+  "title": "Qigong Breathing Flow",
+  "practice_type": "breath",
+  "practice_label": "Breath",
+  "length_label": "15:00",
+  "generated_file": "assets/academy/sessions/q078.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0093.jpg",
+  "source_title": "Le Rubis-mouche, Le Nuageux"
+ },
+ {
+  "session_index": 79,
+  "title": "Simple Qigong Breathing",
+  "practice_type": "breath",
+  "practice_label": "Breath",
+  "length_label": "8:40",
+  "generated_file": "assets/academy/sessions/q079.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/weird-islands/weird-islands-00003.jpeg",
+  "source_title": "Gave Out a Grave, Concentrated Note"
+ }
+]
