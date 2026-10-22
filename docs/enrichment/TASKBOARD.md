@@ -28,6 +28,13 @@ first blockquote — the open punctuation question from the verify worker is RES
 Gadamer "On the Circle of Understanding" sentence was fetched and compared
 character-for-character; the page's quote is EXACT (no comma after "the individual from
 the whole" in the source either). No repair needed.
+Supervisor verification (2026-10-22 ~12:10Z, worker-sup-6dc18459): ROUTED REPAIR APPLIED on
+Reinterpretation of the past (w1ac, released band): the w1ac Kennedy attribution was WRONG —
+Gutenberg #52319's title page attributes The Genealogy of Morals itself to Horace B. Samuel
+(J. M. Kennedy translated only the appended fragment "Peoples and Countries"). Attribution
+corrected to Samuel with a title-page note; quote wording confirmed verbatim (source
+italicizes "overpowering"). The page's 60-word prose shortfall is pre-existing — next w1ac-class
+worker should enrich to the 150-word bar. Zimmern->Kennedy->Samuel chain now closed.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
