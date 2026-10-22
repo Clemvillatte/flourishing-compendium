@@ -179,3 +179,46 @@ perceptions and beliefs".
    the abstract assigns to "lapses in simple attention" specifically (domain-level
    simple attention: −0.762 lapses, −0.732 reaction time). Fair summary, but the precise
    referent of −0.776 is lapses.
+
+## Round 5 (07:08Z) — further w1x pages
+
+### Zuowang (sitting in forgetfulness) — 3 quoted passages checked, 3 PASS
+
+1. Legge translation (ETH Zurich PDF) — "My connexion with the body and its parts is
+   dissolved; my perceptive organs are discarded. Thus leaving my material form, and
+   bidding farewell to my knowledge, I am become one with the Great Pervader. This I call
+   sitting and forgetting all things." — VERBATIM.
+2. Same carrier, Confucius reply — "free from all likings" — VERBATIM substring.
+3. Same carrier — "become impermanent" — VERBATIM substring ("so transformed, you are
+   become impermanent").
+
+### The lifeworld — 10 quoted passages checked, 10 PASS
+
+1. SEP, Edmund Husserl — "The lifeworld is, not surprisingly, the world we live and feel
+   at home in." — VERBATIM. (The page continues the quote with "It is the world of
+   experience, which we are all acquainted with, which we take for granted and which
+   forms the basis for our daily actions" — this continuation is the article's next
+   sentence, not returned separately by this extraction; the quoted opening is verbatim.)
+2. SEP, Edmund Husserl — "a subject-relative world that contains objects with
+   affordances—cups to drink from, spoons to eat with, chairs to sit on, trees to climb
+   in or seek shelter under" — VERBATIM.
+3. Same — "a historically and culturally shaped world, a world of cumulative traditions
+   and sedimented meaning that we as bodily subjects are anchored and socialized into" —
+   VERBATIM.
+4. Same — "In ordinary life we are so absorbed in the world that we simply take its
+   reality for granted" — VERBATIM.
+5. Same — "we should never forget that scientifically valid knowledge has first-person
+   plural intentionality as its precondition" — VERBATIM.
+6. Same — "the difference between the world of perceptual experience and the world as
+   determined by the natural sciences is not a difference between the world for us and
+   the world in itself, but rather a difference between two ways in which one and the
+   same world can appear to us" — VERBATIM.
+7. Same — "Its abstract idealized models have their roots in the lifeworld, which serves
+   as the soil from which scientific concepts grow..." — VERBATIM.
+8. Wikipedia, Lifeworld — "a universe of what is self-evident or given, a world that
+   subjects may experience together" — VERBATIM.
+9. SEP, Habermas — "a background stock of cultural knowledge that is 'always already'
+   familiar to agents" — VERBATIM; "the whole program of subjecting the lifeworld to the
+   imperatives of the market must be subject to scrutiny" — VERBATIM.
+10. SEP, Merleau-Ponty — the "fundamental philosophical act" ... "return to the lived
+    world beneath the objective world" — VERBATIM.
