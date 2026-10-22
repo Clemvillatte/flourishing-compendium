@@ -28,7 +28,7 @@ The lineage the entry traces runs through Weber: his "theory of rationalization.
 
 - Habermas, Theory of Communicative Action
 
-- [Celikates, R., Flynn, J. & Ross, A. (2023), Critical Theory (Frankfurt School), Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/critical-theory/) — sentences quoted verbatim above
+- [Celikates, R. & Flynn, J. (2023), Critical Theory (Frankfurt School), Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/critical-theory/) — sentences quoted verbatim above
 
 ## Cited in philosophy parallels
 
