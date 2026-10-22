@@ -66,9 +66,10 @@
   "Temptation bundling (Milkman)",
   "The Cynic's freedom",
   "The Dreaming",
-  "The absurd"
+  "The absurd",
+  "The aha moment"
  ],
- "in_progress": "The aha moment",
+ "in_progress": null,
  "flagged": {
   "Samadhi": "RESOLVED (advisor round 1 repairs applied, d3f2f59): ordinal claim removed, seeded/seedless equivalence removed; validated clean",
   "Shamatha (calm abiding)": "RESOLVED (advisor round 1 repairs applied, 61c73e0): definition quote now Thanissaro's own phrase; breath claim and Samadhi gloss repaired; validated clean",
@@ -109,5 +110,5 @@
   }
  ],
  "sources_checked": 0,
- "updated": "2026-10-22T08:41:12+00:00"
+ "updated": "2026-10-22T08:41:21+00:00"
 }
