@@ -1061,3 +1061,14 @@ record, the publisher's Physiological Reviews abstract, and the UCC institutiona
 repository, all the identical article): the routes-of-communication sentence, the
 conditions sentence, and the future-studies sentence all appear word-for-word. No routed
 findings.
+
+## Round 49 (2026-10-22; inspection ~12:44-12:45Z; raw-text method)
+
+### The desert before the promised land (w1ae, fast-track done, commit 8ad652a6f)
+
+2 quoted passages checked, 2 PASS — the Numbers 14:2-3 lament ("If only we had died in the
+land of Egypt... or if only we might die in this wilderness!... It would be better for us
+to go back to Egypt!") and the 14:33 sentence ("your children roam the wilderness for
+forty years, suffering for your faithlessness") both verified verbatim against an
+unprompted raw fetch of the cited Sefaria page (Revised JPS, 2023); the page's ellipses
+correctly elide the intervening phrases. No routed findings.
