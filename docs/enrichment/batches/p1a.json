@@ -16,7 +16,6 @@
   "E011",
   "D039",
   "B001",
-  "D019",
   "D141",
   "D037",
   "D031",
@@ -32,15 +31,16 @@
   "D080",
   "D054"
  ],
- "in_progress": null,
+ "in_progress": "D019",
  "flagged": {
   "D087": "Reopened for QC: Shorten source quote; reverify opened silkqin text; replace audit wording and operationalise example",
   "D055": "Reopened for QC: Restore wuwei motive distinction using opened Laozi and SEP; rewrite plain words and example",
   "D080": "Reopened for QC: Source precision: timing is a real difference; remove moral-equivalence inference; plain words repair",
-  "D054": "SCOPED REPAIR COMPLETE. Protected statement compounds and reflection promise of transformation at one year are not established by opened sources; owner/supervisor decision needed. Meditation dose-response reference not certified."
+  "D054": "SCOPED REPAIR COMPLETE. Protected statement compounds and reflection promise of transformation at one year are not established by opened sources; owner/supervisor decision needed. Meditation dose-response reference not certified.",
+  "D019": "Reopened for QC: Correct inherited composite quotation and replace repeated Plain words with needs-aware application"
  },
  "missing_concepts": [],
  "sources_checked": 25,
- "updated": "2026-10-22T11:56:59+00:00",
+ "updated": "2026-10-22T11:57:03+00:00",
  "band_done": false
 }
