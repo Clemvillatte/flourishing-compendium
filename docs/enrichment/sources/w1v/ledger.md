@@ -39,8 +39,8 @@
 
 ## Prohairesis (fast-track, 2026-10-22)
 - Sources opened: MIT Classics NE Book III (Ross translation, raw HTML fetched and parsed; verbatim III.3 formula and III.2 subtraction passages); Wikipedia Prohairesis (Greek term, Aristotle first use, Epictetus faculty).
-- S056 title verified ("Prohairesis as the core self"); cited-in completed with A054 and S056.
-- Validator: ok (fast-track). Advisor QC: not due (item 7).
+- Sequence note: first validation FAILED (unresolved S056 link — I had linked the parallel-section label, not the principle title); the save for that state was pushed before the fix; the link was then corrected to 'S056 — Recognise that you can choose your response' and a clean validation + fix commit (e46e5b06d) followed.
+- Validator: ok (fast-track, after repair). Advisor QC: not due (item 7).
 
 ## Nihilism (fast-track, 2026-10-22)
 - Sources opened: IEP Pratt "Nihilism" (definition, existential nihilism definition, Nietzsche summary — all verbatim); marxists.org de Beauvoir Ethics of Ambiguity Part II (verbatim: "Nihilism is disappointed seriousness which has turned back upon itself." plus the nihilist paragraph).
@@ -51,3 +51,9 @@
 - Sources opened: PubMed 11474723 abstract (Monin & Miller 2001, verbatim); PMC12372676 (Xiao et al. 2024 replication registered report, verbatim failed-replication sentence with effect sizes).
 - Empirical status included per protocol (failed replication noted on the page).
 - Validator: ok (fast-track). Advisor QC: not due (item 9).
+
+
+## Observational learning (fast-track, item 10, 2026-10-22)
+- Sources opened: psychclassics.yorku.ca 1961 Bobo doll paper (raw HTML fetched and parsed; verbatim Table 1 sentence with "(See Table 1)." and the confirmation sentence, p. 578); Wikipedia Observational learning (definition sentence; four-factor labels dropped from the page per advisor — Wikipedia not authoritative for them).
+- Repairs per advisor: discovery/priority claim removed, group-level reporting only, blockquote made exact, four-factor sentence omitted, production commentary removed, D135/Y085 read and described from their bodies.
+- Validator: ok (fast-track, pipefail-gated).
