@@ -13,9 +13,9 @@ The veil of ignorance is John Rawls's device in A Theory of Justice (1971) for m
 
 The canonical statement is in Section 3:
 
-> "Among the essential features of this situation is that no one knows his place in society, his class position or social status, nor does any one know his fortune in the distribution of natural assets and abilities, his intelligence, strength and the like. I shall even assume that the parties do not know their conceptions of the good or their special psychological propensities. The principles of justice are chosen behind a veil of ignorance."
+> "Among the essential features of this situation is that no one knows his place in society, his class position or social status, nor does any one know his fortune in the distribution of natural assets and abilities, his intelligence, strength, and the like. I shall even assume that the parties do not know their conceptions of the good or their special psychological propensities. The principles of justice are chosen behind a veil of ignorance."
 
-([Rawls, A Theory of Justice, TJ p. 12/11, quoted in the Stanford Encyclopedia of Philosophy, "Original Position"](https://plato.stanford.edu/entries/original-position/).)
+([Rawls, A Theory of Justice, TJ p. 12/11, quoted at NYU Stern](https://pages.stern.nyu.edu/~gsimon/Rawls01.pdf).)
 
 The purpose follows immediately: "This ensures that no one is advantaged or disadvantaged in the choice of principles by the outcome of natural chance or the contingency of social circumstances. Since all are similarly situated and no one is able to design principles to favor his particular condition, the principles of justice are the result of a fair agreement or bargain" ([Rawls, TJ p. 11/12, quoted at NYU Stern](https://pages.stern.nyu.edu/~gsimon/Rawls01.pdf)).
 

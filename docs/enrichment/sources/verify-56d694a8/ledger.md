@@ -120,3 +120,12 @@ Round 8: 4 pages, 7 quoted passages verified, no defects.
 3. **Decision-making under uncertainty (Gigerenzer's fast-and-fractal heuristics)** — both Gigerenzer & Brighton quotes ("Heuristics are efficient cognitive processes that ignore information"; take-the-best rules, p. 113) VERIFIED verbatim against the opened MPG PDF. PASS.
 
 Round 9: 3 pages, 5 quoted passages verified, no defects.
+
+## Round 10 — morning sample continued
+
+1. **The invisible hand** — WoN IV.ii.9 quote VERIFIED verbatim via the opened Gutenberg text. TMS IV.1.10 quote: wording VERIFIED via the [Adam Smith Works reading guide](https://www.adamsmithworks.org/documents/tms-reading-guide-part-iv), but the page's quote skipped the guide's intervening sentences ("They consume little more than the poor... they divide with the poor...") without an ellipsis — REPAIRED: "[...]" inserted. Page re-validated ok.
+2. **The veil of ignorance** — both Rawls quotes VERIFIED verbatim against the opened [NYU Stern PDF](https://pages.stern.nyu.edu/~gsimon/Rawls01.pdf). Two repairs: the missing comma in "strength, and the like" (per the carrier), and the first quote's citation re-pointed from SEP (whose entry paraphrases the passage with different wording) to the NYU Stern PDF that prints it verbatim. Page re-validated ok.
+3. **The problem of induction** — both Hume Enquiry Section IV Part II quotes VERIFIED verbatim via the opened Gutenberg text. PASS.
+4. **Theory of mind** — Premack & Woodruff quote VERIFIED verbatim via the opened Tanaka 2015 PMC article; the 85%/86%/20% sentence VERIFIED verbatim via the opened IEP page. PASS.
+
+Round 10: 4 pages, 6 quoted passages verified, 3 defects repaired.

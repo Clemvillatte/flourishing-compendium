@@ -19,7 +19,7 @@ In The Wealth of Nations, Book IV, the argument is a case against directing priv
 
 In The Theory of Moral Sentiments the phrase describes the landlord who cannot personally consume what his fields produce:
 
-> "The rich only select from the heap what is most precious and agreeable. They are led by an invisible hand to make nearly the same distribution of the necessaries of life, which would have been made, had the earth been divided into equal portions among all its inhabitants, and thus without intending it, without knowing it, advance the interest of the society, and afford means to the multiplication of the species."
+> "The rich only select from the heap what is most precious and agreeable. [...] They are led by an invisible hand to make nearly the same distribution of the necessaries of life, which would have been made, had the earth been divided into equal portions among all its inhabitants, and thus without intending it, without knowing it, advance the interest of the society, and afford means to the multiplication of the species."
 
 ([Smith, The Theory of Moral Sentiments IV.1.10, Adam Smith Works reading guide](https://www.adamsmithworks.org/documents/tms-reading-guide-part-iv).)
 
