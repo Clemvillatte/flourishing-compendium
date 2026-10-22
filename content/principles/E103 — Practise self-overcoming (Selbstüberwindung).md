@@ -15,7 +15,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 The idea is Zarathustra's. In Thomas Common's translation, the chapter is titled "Self-Surpassing". Zarathustra reports three things he heard while following living things, all about obedience and command. The second and third:
 
 > "Whatever cannot obey itself, is commanded. Such is the nature of living things. ... Yea, even when it commandeth itself, then also must it atone for its commanding. Of its own law must it become the judge and avenger and victim."
-> — Nietzsche, Thus Spake Zarathustra, "Self-Surpassing," trans. Thomas Common
+> — Nietzsche, Thus Spake Zarathustra, "Self-Surpassing," trans. Thomas Common ([Project Gutenberg](https://www.gutenberg.org/cache/epub/1998/pg1998.txt))
 
 ### The central claim
 
@@ -38,6 +38,11 @@ The principle's other two citations do not carry this idea. Beyond Good and Evil
 **Plain words** Nietzsche's claim is that anything alive is driven past its current form, and that a self which governs itself pays for it. That is a harder picture than "keep improving". New values mean breaking old ones, and the person doing the breaking is also the one on trial.
 
 *For example:* Imagine a musician who has mastered a style and now has to break it to make anything new. The old work is not worthless, but it is what the new work has to get past.
+
+## Sources
+
+- Nietzsche, *Thus Spake Zarathustra*, "Self-Surpassing", trans. Thomas Common: [Project Gutenberg](https://www.gutenberg.org/cache/epub/1998/pg1998.txt)
+- Nietzsche, *The Gay Science* §289: [Project Gutenberg](https://www.gutenberg.org/cache/epub/52881/pg52881.txt)
 
 ## Stories
 

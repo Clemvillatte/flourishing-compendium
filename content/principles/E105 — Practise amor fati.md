@@ -15,10 +15,10 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 Two of the places Nietzsche uses the phrase show its range: a private resolution and a formula.
 
 > "I want more and more to perceive the necessary characters in things as the beautiful:—I shall thus be one of those who beautify things. Amor fati: let that henceforth be my love! I do not want to wage war with the ugly. I do not want to accuse, I do not want even to accuse the accusers."
-> — The Gay Science §276, "For the New Year" (trans. Thomas Common, 1910)
+> — The Gay Science §276, "For the New Year" (trans. Thomas Common, 1910; [Project Gutenberg](https://www.gutenberg.org/cache/epub/52881/pg52881.txt))
 
 > "My formula for greatness in man is! amor fati: the fact that a man wishes nothing to be different, either in front of him or behind him, or for all eternity. Not only must the necessary be borne, and on no account concealed,--all idealism is falsehood in the face of necessity,--but it must also be loved...."
-> — Ecce Homo, "Why I Am So Clever" §10 (trans. A. M. Ludovici, 1911)
+> — Ecce Homo, "Why I Am So Clever" §10 (trans. A. M. Ludovici, 1911; [Project Gutenberg](https://www.gutenberg.org/cache/epub/52190/pg52190.txt))
 
 ### Not providence
 
@@ -33,6 +33,11 @@ Both quotations are about the necessary: what cannot be otherwise. The principle
 **Plain words** Nietzsche's version of acceptance starts with not fighting what has already happened: no war on the ugly, no accusing. Then he goes further and asks for love, not just endurance. He is clear this is not a comforting story about everything being for the best. The wish is that you would not change what had to be, backwards or forwards.
 
 *For example:* Imagine a year in which a diagnosis changed your plans. Amor fati would not require you to call the diagnosis good. It would ask whether you can stop wishing the life that includes it were a different life.
+
+## Sources
+
+- Nietzsche, *The Gay Science* (*The Joyful Wisdom*), §276-277, trans. Thomas Common: [Project Gutenberg](https://www.gutenberg.org/cache/epub/52881/pg52881.txt)
+- Nietzsche, *Ecce Homo*, trans. Anthony M. Ludovici: [Project Gutenberg](https://www.gutenberg.org/cache/epub/52190/pg52190.txt)
 
 ## Stories
 
