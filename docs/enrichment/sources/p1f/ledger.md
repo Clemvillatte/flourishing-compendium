@@ -241,3 +241,29 @@
 ### Band closure (2026-10-20, worker-p1f-9d3f7c2b)
 - 60/60 manifest items done. Closure QC (advisor) round 1 FAIL: repairs applied to the three items done this session (AT059, AT060, AT073); all validate clean vs their pre-item baselines. Repairs applied; re-review pending (no subsequent advisor PASS on the repaired passages was obtained).
 - Predecessor flags ("Reopened for QC" markers for D074, B006, B043, B053, B054, B069, B122, B133, P091, P100, P163, P182, P183, S051 and others) remain in the state file flagged dict; per p1r/p1s precedent these are for SUPERVISOR disposition (not cleared by this worker).
+
+## Supervisor QC backlog disposition (2026-10-22 04:08Z, worker-sup-flourish-1022)
+
+Took over the 25 "Reopened for QC" flags left from the p1f closeout. Method per the p1h
+precedent: for each flagged page, verify the flagged defect against freshly opened
+carriers; confirm the defect is absent or repair it. All 25 cleared:
+
+- Quotes re-verified verbatim against freshly opened carriers: B043 (MN 10 Thanissaro,
+  accesstoinsight.org), B122 (Garfield MMK 24.8/24.10, uoregon.edu), P091 (Bergson
+  Pogson, Gutenberg 56852), P100 (Dewey Democracy and Education ch. VI, Standard
+  Ebooks), P163 (Kanter et al., PMC2223147), P182/P183 (James Talks to Teachers,
+  Gutenberg 16287), S051 (Epictetus Enchiridion 5, Long trans., Standard Ebooks),
+  SE006/SE008 (James Principles ch. X, psychclassics.yorku.ca prin10), SO002
+  (Bronfenbrenner & Morris 2006, Columbia PDF), SO018 (Boroditsky 2011, uvic PDF),
+  A013/A030/A046/A047/A057 (Aristotle NE IV/VI/VII, Rackham, Perseus 1999.01.0054).
+- Defects confirmed absent on the current pages: B053/B054/B069 (plain-words sections
+  are genuine re-derivations), B133 (collapse equation absent), AT025 (validator
+  passes), AT060 (all four requested repairs present).
+- Repairs applied in this session: B069/B122/B133/A057 list formatting (missing
+  newline before Related-concepts lines); AT059 inherited parallel reduced to a bare
+  reference (Simon 1971; Ward et al. 2017); AT073 sample-to-individual overreach
+  softened to "on the averages these studies report"; SO018 one quote normalized to
+  the carrier's exact punctuation (em dash spacing).
+
+Full per-item records in batches/p1f.json flagged. State file also carries the two
+earlier supervisor dispositions (D074, B006).
