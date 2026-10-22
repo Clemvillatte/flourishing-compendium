@@ -264,3 +264,20 @@ Round 8 totals: 2 pages PASS, 1 defect repaired, 1 routed. Cumulative w1ac sampl
 checked (19 PASS, 1 PASS-with-unresolved-comma-variance, 2 defects+1 attribution repaired,
 3 routed: Relational Frame Theory interstitial, Pre-understanding p. 192 dropped glosses,
 Pre-theoretical experience dead carrier).
+
+## Round 9 — w1ac earlier pages (2026-10-22, executed ~12:03-12:05Z per clock proximity)
+
+- PURITY VS POLLUTION — PASS 1/1: the Mary Douglas Purity and Danger p. 2 passage
+  verbatim vs the cited Andrews 2022 SAGE article (opened via fetch).
+- PROVISIONAL MORALITY — maxim 2 PASS verbatim; DEFECT FOUND AND REPAIRED (under the
+  w1ac baton): maxim 3's quotation closed with a period where the Veitch source sentence
+  continues with a colon ("...absolutely impossible: and this single principle seemed to me
+  sufficient...") — the same E058 class as the Natural rights finding. Repaired: honest
+  ellipsis close. Fast-track validation 1 checked 0 failed.
+- PERSONAL PROJECTS — PASS 1/1: the Little 2008 abstract passage verbatim vs the cited
+  Wiley page (opened via fetch).
+- PROCESSING FLUENCY THEORY — PASS 2/2: both Reber, Schwarz and Winkielman 2004 passages
+  verbatim vs the cited PDF (freshly downloaded and opened).
+
+Round 9 totals: 3 pages PASS, 1 defect repaired. Cumulative w1ac sample: 29 pages checked
+(22 PASS, 1 PASS-with-unresolved-comma-variance, 3 defects+1 attribution repaired, 3 routed).
