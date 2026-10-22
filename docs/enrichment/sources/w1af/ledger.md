@@ -37,3 +37,14 @@ Decisions:
 - Seed mis-attribution (BGE → Genealogy II.2) documented on the page and here; no fabricated BGE locators.
 - Related concepts: Autonomy, Master-slave dialectic (existing originals).
 - No reciprocal proposals (fast-track bar).
+
+### The stimulus-response gap (fast-track, deg 1)
+
+Source opened (fetch_url, fresh):
+- https://www.gutenberg.org/files/10661/10661-h/10661-h.htm — Epictetus, Encheiridion (George Long translation). Chapters I and V fetched verbatim: the opinions-not-things sentence; the blame practice; the in-our-power catalogue. (Gutenberg #4519 turned out to be a Wharton novel — wrong ebook id, corrected to #10661.)
+
+Decisions:
+- Fast-track eligibility: deg 1 < 15 confirmed.
+- Front-matter preserved; SP052 Cited-in wikilink preserved.
+- Related concepts: Apatheia, Eudaimonia (existing originals).
+- No reciprocal proposals (fast-track bar).
