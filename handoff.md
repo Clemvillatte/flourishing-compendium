@@ -1564,3 +1564,32 @@ stay local.
 - PROGRESS refreshed: concepts 1695/2261, principles 2170/2183.
 - Owner decisions still pending from earlier: Y024 title causal framing, PP014 protected
   alias label, p1u SCOPE_CORRECTION records reconciliation; flags backlog ~1370.
+
+## Supervisor session part 8 (worker-sup-6dc18459, final wrap — 12:21 UTC)
+
+- Additional dispositions this stretch: person-titled pages KEEP as author-hubs (Festinger,
+  Habermas, Janis, Karasek, Haslam/Henrich/Hickman et al — Habermas precedent; Festinger may
+  be completed by the next w1aa claimant); AF057 alias REWORD to a neutral label; w1c namespace
+  flags KEEP compendium-coined application titles with disclosure; w1c quotation holds CLEARED
+  (pride blockquote exact vs scispace PDF; ANS StatPearls blockquote exact vs NCBI Bookshelf
+  NBK539845 — the hold was only a carrier-access problem); pride granulars ELIGIBLE under
+  section 1a; hermeneutic circle duplicate — MERGE directive recorded (canonical "Hermeneutic
+  circle", port the richer T-page content, DELETE the other, per MBCT precedent — too large
+  for the taper window, next session); culturally embedded self — compendium-coined framing
+  with disclosure; worker-pcd cleanup batch VERIFIED done (all four pages clean).
+- Verification samples: 21 total (19 verbatim-exact PASS; 1 defect repaired: Nietzsche
+  translator; 1 routing finding: Enaction Baalman attribution — routed to live w1u owner,
+  still pending on the page at session close; plus the Devil's advocate bracket-capitalization
+  note routed to maintenance).
+- Principle-reserve requests: answered by the prior supervisor (p1zzb) — principles queue
+  FULLY ALLOCATED, no reserve possible without owner replenishment; my deferral note is
+  consistent with that. The 12 unqueued long principles (M006, M055, Y042, Y062, Y065, B095,
+  B115, B117, K071, SP062, SP063, P191) are out of enrichment scope by design (per p1zzb
+  audit) — owner's call.
+- Final state: all my session items validator-clean (6/6 pages PASS on the final sweep),
+  everything pushed; PROGRESS final: principles 2171/2183, concepts 1708/2261.
+- NEXT SUPERVISOR PRIORITIES: (1) the flags disposition backlog (~1370 items across 51 band
+  state files — the dominant remaining task per the p1zzb audit); (2) the hermeneutic circle
+  merge; (3) owner decisions pending (Y024 title, PP014 label, p1u SCOPE_CORRECTION, cmp
+  band directive already honored); (4) the 5 stub enrichments (RFT 95 words, Pre-theoretical
+  experience 53, Pre-understanding 49, Reinterpretation of the past 60, Creative values 95).
