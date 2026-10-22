@@ -37,7 +37,8 @@
   "Facticity",
   "Experiential grounding",
   "Experiential values",
-  "Experimental reform"
+  "Experimental reform",
+  "Expression as construction"
  ],
  "in_progress": null,
  "flagged": {
@@ -47,9 +48,10 @@
   "Correspondence theory of truth": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): round-1 repairs stand; 'most often' reduced to SEP's own 'often traced back'; family-of-theories catalogue shortened; link anchors named",
   "Creative self-efficacy": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): round-1 repairs stand; the OpenAlex stray-parenthesis fragment now paraphrased rather than quoted; slogan-like closer removed; measurement caveat verbatim from opened Haase et al. 2018",
   "Cosmopolitan care": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): round-1 repairs stand; Held material re-verified this session against the opened Held 2006 book (open PDF copy, voidnetwork.gr) - the scaling-up argument and the p.168 concluding sentence quoted directly from the book, IEP carrier dropped; Oxford Academic book abstract re-verified",
-  "Deautomatization": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): all deikman.com quotes re-verified verbatim against Wayback Machine archived copies of the author-site pages (deautomat/experimental/implications), opened this session; proposal framing grounded on the full 1966 opening sentence; conclusion paragraph added as grounded prose top-up; restructuring per spec"
+  "Deautomatization": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): all deikman.com quotes re-verified verbatim against Wayback Machine archived copies of the author-site pages (deautomat/experimental/implications), opened this session; proposal framing grounded on the full 1966 opening sentence; conclusion paragraph added as grounded prose top-up; restructuring per spec",
+  "Expression as construction": "fast-track §1a (deg 2): Dewey Art as Experience ch. IV passages quoted verbatim from full-text carrier (narod.ru mirror, opened and verified); construction-in-time passage + boiling-over/discharge distinction; Related line added for Doing and undergoing; saturation otherwise skipped per §1a"
  },
  "missing_concepts": [],
- "sources_checked": 0,
- "updated": "2026-10-22T12:22:55+00:00"
+ "sources_checked": 1,
+ "updated": "2026-10-22T14:01:57+00:00"
 }
