@@ -37,7 +37,8 @@
   "Dichotomous (black-and-white) thinking",
   "Dynamic Skill Theory",
   "Divided attention theory",
-  "Encoding strategies"
+  "Encoding strategies",
+  "Delay reduction hypothesis"
  ],
  "in_progress": null,
  "flagged": {
@@ -48,9 +49,10 @@
   "Effort-recovery cycles": "inherited seed claim (well-being depends on oscillation) not stated in Sonnentag&Fritz 2007 abstract; page states scope",
   "Dichotomous (black-and-white) thinking": "Seed claim 'predicts distress and interpersonal dysfunction' is stronger than the scoping review (correlational, modest r); page states real scope.",
   "Dynamic Skill Theory": "Seed 'predictable growth spurts' only holds for optimal-level skill under high support; PP018 is flow-based and does not cite Fischer.",
-  "Encoding strategies": "Seed lists organisation as a Craik & Lockhart 1972 claim; the paper supports depth/elaboration, organisation not found in checked passages."
+  "Encoding strategies": "Seed lists organisation as a Craik & Lockhart 1972 claim; the paper supports depth/elaboration, organisation not found in checked passages.",
+  "Delay reduction hypothesis": "Filed under SO046 (in-group bias) but SO046 never mentions delay/reinforcement; Chung & Herrnstein attribution unverified (hypothesis is Fantino 1969)."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:52:26+00:00"
+ "updated": "2026-10-22T15:53:05+00:00"
 }
