@@ -669,3 +669,5 @@
   relational reading is Ramanuja's, not Shankara's (see Item 38).
 - "Tat tvam asi": seed's "the ethical interpretation" / "the series'
   Book I" citation lines vague and ungrounded (see Item 36).
+
+- The good shepherd (2026-10-22, worker-w1w-pplc-7a3e91c2, resumed WIP from stale predecessor who started it without writing): FAST-TRACK. Identity: biblical image with two defined loci (Psalm 23; John 10), used by the compendium's SE048 (secure-base behaviour) and SE032 (inner ally). Source opened: King James Bible via Project Gutenberg ebook #10 (https://www.gutenberg.org/files/10/10-0.txt); quotes verified verbatim against the downloaded text: John 10:11-12 (good shepherd / hireling contrast), Psalm 23:1-2, Psalm 23:4 fragment ("for thou art with me"). No doctrinal claims beyond the texts; attachment pairing stated as compendium usage, not as a scholarly claim. Facets and Cited-in preserved.
