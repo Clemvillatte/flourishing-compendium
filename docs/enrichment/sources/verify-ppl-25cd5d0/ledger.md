@@ -967,3 +967,14 @@ ROUTED to the w1s owner (one word): the page's fourth quote reads "civilization 
 upon renunciation of instinctual gratifications"; the cited Riviere text prints "built up
 on renunciation" (no "upon"). Either change "upon" to "on" to match the cited carrier, or
 switch that quote to the Strachey wording with a Strachey carrier.
+
+## Round 41 (2026-10-22; inspection ~12:42-12:43Z; raw-text method)
+
+### The social selves (w1t, done)
+
+2 quoted passages checked, 2 PASS — both verified against an unprompted raw fetch of the
+cited psychclassics.yorku.ca page (James, Principles of Psychology, ch. X): the one-line
+definition and the "as many social selves" passage are verbatim (the carrier inserts a
+footnote marker "[2]" after "wound him." which the page rightly omits, and italics markers
+around "a man has... recognize him"; words identical). The pirate-youth passage the page
+paraphrases is present verbatim in the carrier. No routed findings.
