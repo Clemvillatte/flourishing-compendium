@@ -978,9 +978,14 @@
      "t": "2026-10-22T15:05:22+00:00",
      "to": "qc_pending",
      "note": "draft complete; first advisor QC"
+    },
+    {
+     "t": "2026-10-22T15:07:54+00:00",
+     "to": "qc_pending",
+     "note": "rewritten per advisor QC 1; quotes verbatim from opened carriers"
     }
    ]
   }
  },
- "updated": "2026-10-22T15:05:22+00:00"
+ "updated": "2026-10-22T15:07:54+00:00"
 }
