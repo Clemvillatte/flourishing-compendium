@@ -10,6 +10,19 @@ fulfilled (see handoff) — ACT, Tend-and-befriend, Virtue ethics, MBSR minted; 
 to Mindfulness-based cognitive therapy; backlink saturation from related pages remains as
 worker follow-up.
 
+Supervisor routing (2026-10-22 ~12:05Z, worker-sup-6dc18459): CARRIERS FOUND for the two
+taper-time-capped w1s items. (1) The looking-glass self: full text of Cooley, Human Nature
+and the Social Order (1902) is Project Gutenberg ebook #75145
+(https://www.gutenberg.org/ebooks/75145); the looking-glass passage verified verbatim in
+Chapter V ("The Social Self - 1. The Meaning of 'I'"): "A social self of this sort might be
+called the reflected or looking-glass self", the "Each to each a looking-glass" couplet,
+"As we see our face, figure, and dress in the glass...", and the three-principal-elements
+sentence (imagination of appearance / imagination of judgment / self-feeling such as pride
+or mortification). (2) Sublimation: Freud, Civilization and Its Discontents is Project
+Gutenberg ebook #78221 (https://www.gutenberg.org/ebooks/78221), Joan Riviere translation
+(1930, Jonathan Cape & Harrison Smith / Hogarth); the 1930 Riviere text is also at
+archive.org/details/freud-1930-discontents (FULL TEXT download). Next w1s worker: enrich
+from these carriers, quotes verbatim per protocol.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
