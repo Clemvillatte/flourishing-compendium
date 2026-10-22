@@ -139,3 +139,25 @@ Fast-track enrichment.
   no-cases remark (Marcel 1995, p. 41), unavailability as the
   impenetrable self.
 - Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
+
+## 2026-10-22 (UTC): Autonomy-supportive leadership (worker-pplc-523749d5)
+
+Fast-track enrichment.
+
+- Item: content/concepts/Autonomy-supportive leadership.md (seed:
+  Deci and Ryan, 2000).
+- Opened source: Richard M. Ryan and Edward L. Deci, "Intrinsic and
+  extrinsic motivation from a self-determination theory
+  perspective: Definitions, theory, practices, and future
+  directions", Contemporary Educational Psychology (2020), PDF at
+  https://selfdeterminationtheory.org/wp-content/uploads/2020/06/2020_RyanDeci_IntrinsicandExtrinsic.pdf
+- Verbatim blockquotes: the autonomy need definition ("Autonomy
+  concerns a sense of initiative and ownership in one's actions...")
+  and the autonomy-support passage ("Teachers who support students'
+  autonomy begin by attempting to understand, acknowledge...").
+- Synthesis: perspective taking, rationale, noncontrolling language
+  and choice generalised per the same literature (the three
+  interpersonal conditions from Deci et al. 1994 are cited in the
+  SDT literature as summarised in the same review's references);
+  controlling style as the opposite.
+- Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
