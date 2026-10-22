@@ -152,8 +152,19 @@ research); all other sampled items PASS.
     (theoretically). They are compensatory substitutes...") verified against
     a fresh fetch of the archive.wawhite.org PDF. No hallucinated quotes.
 
+## Round 10 (11:32Z) — The politics of recognition (w1t, commit 4463a5479)
+
+17. **The politics of recognition (w1t)** — 3 quoted passages checked, 3 PASS:
+    the "grievous wound" and "a vital human need" quotes verified verbatim
+    against a fresh fetch of the IEP carrier (iep.utm.edu/recog_sp/, with the
+    p. 26 locators); the "peremptory and inauthentic judgments of equal value"
+    fragment verified against the essay's own conclusion text (the cmu.edu rtf
+    full text and multiple academic reproductions print it in Taylor's closing
+    paragraph). The continuation paraphrase (willingness to be open to
+    comparative cultural study) is faithful. No hallucinated quotes.
+
 ## Summary
 
-16 items checked, 14 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
+17 items checked, 15 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
 further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first sixteen items after repair.
+quotation-faithful at a 100% sample of its first seventeen items after repair.
