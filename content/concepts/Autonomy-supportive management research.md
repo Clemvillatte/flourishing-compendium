@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Autonomy-supportive management research” — Deci and Ryan, 2000.
 
-Autonomy-supportive management is the cluster of supervisory behaviours that self-determination theory identifies as supporting the employee's basic psychological needs for autonomy, competence and relatedness. The behaviours include taking the employee's internal frame of reference, providing rationale and choice, and minimising controls used to motivate.
+Autonomy-supportive management is the cluster of supervisory behaviours that self-determination theory identifies as supporting the employee's basic psychological needs for autonomy, competence and relatedness.
 
 ### What the meta-analysis found
 
@@ -21,20 +21,20 @@ The same record reports the database as 754 correlations across 72 studies, 83 u
 
 ### In the compendium
 
-- [[D134 — Govern like cooking a small fish]] — the Daodejing principle on restrained oversight, which the research reading of autonomy support supplies an empirical contrast to.
-- [[SO057 — Design workplaces for flourishing]] — the principle takes workplace design as a flourishing question, with autonomy support as one of the levers the research identifies.
+- [[D134 — Govern like cooking a small fish]] — the Daodejing principle on restrained oversight.
+- [[SO057 — Design workplaces for flourishing]] — the principle on workplace design as a flourishing question.
 
 ## Related concepts
 
-- [[Autonomy-supportive leadership]] — the leadership-behaviours concept that the research record rests on.
-- [[Autonomous motivation]] — the internalised form of motivation the meta-analysis finds correlated with leader autonomy support.
+- [[Autonomy-supportive leadership]] — the leadership-behaviours concept.
+- [[Autonomous motivation]] — the internalised form of motivation.
 - [[Controlled motivation]] — the form of motivation the meta-analysis finds unrelated to leader autonomy support.
-- [[Autonomous versus controlled motivation]] — the distinction self-determination theory organises the finding around.
+- [[Autonomous versus controlled motivation]] — the self-determination theory distinction.
 
 ## Sources
 
 - [Slemp GR, Kern ML, Patrick KJ, Ryan RM (2018). Leader autonomy support in the workplace: A meta-analytic review. Motivation and Emotion, 42(5):756-773](https://pmc.ncbi.nlm.nih.gov/articles/PMC6133074/) — the meta-analysis of perceived leader autonomy support.
-- [Deci EL, Ryan RM (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4):227-268](https://pubmed.ncbi.nlm.nih.gov/11392867/) — the self-determination theory account of autonomy, competence and relatedness.
+- [Ryan RM, Deci EL (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1):68-78](https://pubmed.ncbi.nlm.nih.gov/11392867/) — the self-determination theory account of autonomy, competence and relatedness.
 - [Deci and Ryan, 2000](https://pubmed.ncbi.nlm.nih.gov/11392867/)
 
 ## Cited in psychology parallels

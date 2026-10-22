@@ -48,3 +48,51 @@ sources_checked updated to 40 (10 prior + 30 new).
 Late additions in the same pass (items 29-30): Action over inertia (austria-forum.org Complete Aristotle, NE II.1 Ross verbatim), Affordances (UMich PDF Gibson 1979 ch. 8, p. 127 definition verbatim). Full-batch re-validation at 12:04Z: 23 checked, 0 failed.
 
 Final additions (items 31-32): Adiaphora, the indifferents (MIT Classics Enchiridion ch. 1, Carter translation verbatim), Affective dynamics framework (PubMed Houben et al. 2015 abstract verbatim). Final full-batch validation at 12:08Z: 25 checked, 0 failed.
+
+---
+
+## 2026-10-22 session (worker-pplc-w1t-kn93jqs0)
+
+### Anger (normal track, deg 15)
+
+Sources opened (fetch_url, fresh):
+- https://www.gutenberg.org/files/64576/64576-0.txt — Aubrey Stewart translation, Seneca Of Anger. Book II.III definition, Book I.II no-plague sentence, Book II.XXIX delay remedy, Book II.XXII time-discloses-truth fragment all verified verbatim.
+- https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf — Batchelor translation, Shantideva Bodhicharyavatara VI.1, VI.2, VI.3, VI.5, VI.7, VI.8 verified verbatim.
+- en.wikisource.org search result showed the same Stewart text for II.III/XXIX; Gutenberg full text used as primary carrier for all citations.
+- Reciprocal proposals written to docs/enrichment/proposals/w1t.json (8 reciprocals, 2 inline for A029/A115).
+- Advisor round-1 QC: source-verification gap found and repaired; D074 clause narrowed; A029/A115 added to In-the-compendium; Shantideva URL corrected.
+- Note: advisor flagged that a 14-row Related list exceeds the template. Not yet repaired.
+
+### Attentional synchronisation in groups (fast-track, deg 6)
+
+Sources opened (fetch_url, fresh):
+- https://journals.sagepub.com/doi/10.1111/j.1467-9280.2007.01914.x — Richardson/Dale/Kirkham 2007 Psychological Science 18(5):407-413. Full abstract fetched verbatim.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8711813/ — Davidesco 2020 CBE Life Sciences Education 19(3):es8. Sentences describing Dikker et al. 2017 fetched verbatim (12 students, classroom activities, engagement/social closeness).
+- Advisor QC: Dikker primary record not directly opened; repaired by quoting via the opened Davidesco secondary review with secondary attribution. Unsupported methodological-inference claim removed. Related-clauses reduced to descriptive only.
+
+### Authoritative parenting (fast-track, deg 5)
+
+Source opened (fetch_url, fresh):
+- https://journals.sagepub.com/doi/10.1177/0272431691111004 — Baumrind 1991 The Journal of Early Adolescence 11(1):56-95. Full abstract fetched verbatim.
+- Advisor QC: unsupported additions removed (Maccoby-Martin history, dimension definitions, quadrant characterisations not in the abstract). Related rows reduced to descriptive clauses. Two original wikilinks (Psychological control, Hover-parenting research) accidentally dropped in repair, caught by validator and restored.
+- Degree correction per advisor: 5 connections (3 concepts + 2 principles), not 3. Eligibility unchanged (< 15).
+
+### Autonomy-supportive management research (fast-track, deg 2)
+
+Sources opened (fetch_url, fresh):
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC6133074/ — Slemp, Kern, Patrick, Ryan 2018 Motivation and Emotion. Full abstract fetched verbatim.
+- Advisor QC: citation mismatch repaired (PMID 11392867 is Ryan & Deci 2000 American Psychologist, not Deci & Ryan Psychological Inquiry). Unsupported behaviours list (empathy/rationale/choice/minimal-controls from a search excerpt, not the fetched abstract) removed.
+
+### Autonomy-threat research (fast-track, deg 3)
+
+Source opened (fetch_url, fresh):
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC3906839/ — Promberger & Marteau 2013 Health Psychology. Sentences on undermining-effect meta-analyses, CET mechanism, low-interest-task exception, and unexpected/non-tangible rewards fetched verbatim.
+- Advisor QC: Deci/Koestner/Ryan 1999 primary not directly openable (PubMed robots). Repaired by re-grounding the page in the opened Promberger & Marteau review with secondary attribution. Effect-size figures removed. Controversy paragraph re-scoped to what the opened review states. "Most often cited" claim removed.
+
+### Incident note
+
+The ledger file was accidentally overwritten with `cat >` at session start. Restored from git (d93e6702e) at commit 805c42d8. All prior QC history preserved.
+
+### QC status
+
+Advisor round-2 repairs applied to all five items. Anger still carries one open note (Related list exceeds template). All validate clean.

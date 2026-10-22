@@ -11,15 +11,23 @@ Studies on how controlling environments and externally imposed goals undermine [
 
 ### The undermining effect
 
-The research record most often cited here is Deci, Koestner and Ryan's meta-analysis of 128 studies on extrinsic rewards and intrinsic motivation.
+A review by Promberger and Marteau summarises the literature on rewards and intrinsic motivation:
 
-> "As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards." (Deci, Koestner & Ryan, 1999, [Psychological Bulletin, PubMed record](https://pubmed.ncbi.nlm.nih.gov/10589297/))
+> "A wide body of research examined the prevalence of the undermining effect of rewards, with meta-analyses including 124 studies (Cameron & Pierce, 1994) and 128 studies (Deci et al., 1999)." (Promberger & Marteau, 2013, [Health Psychology, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3906839/))
 
-The same record adds that positive feedback enhanced both free-choice behaviour (d = 0.33) and self-reported interest (d = 0.31). The mechanism the authors give is cognitive evaluation theory: contingent rewards can feel subtly controlling, thwarting the psychological need for autonomy.
+The same review reports that these meta-analyses come to different conclusions: either that the undermining effect of tangible external rewards is pervasive (Deci et al., 1999), or that it is limited (Cameron, 2001).
 
-### Where the evidence applies
+### The mechanism and the exceptions
 
-The effect is not universal. The same abstract reports tangible rewards were more detrimental for children than for college students, and that verbal rewards tended to be less enhancing for children than college students. Other readings of the literature note that rewards have no undermining effect on tasks with low initial interest, and that the debate over the effect's size and scope continues.
+The review gives the theory's mechanism and its limits:
+
+> "Cognitive evaluation theory (CET; Deci & Ryan, 1985) predicts that rewards only reduce intrinsic motivation when they are perceived as controlling the behavior, and might actually enhance intrinsic motivation if they engender feelings of competence." (Promberger & Marteau, 2013, [Health Psychology, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3906839/))
+
+The review also records where the effect does not appear:
+
+> "the rewards have no undermining or even a positive effect on 'dull,' 'boring,' 'uninteresting' tasks, that is, tasks for which initial intrinsic motivation is low" (Promberger & Marteau, 2013, [Health Psychology, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3906839/))
+
+and that no reduction of intrinsic motivation is found if the reward is not tangible, such as verbal praise, and if it is unexpected.
 
 ### In the compendium
 
@@ -29,13 +37,13 @@ The effect is not universal. The same abstract reports tangible rewards were mor
 
 - [[Intrinsic motivation]] — the form of motivation the research tracks.
 - [[Self-determination]] — the theory the research sits inside.
-- [[Autonomous motivation]] — the internalised motivation that controlling conditions crowd out.
+- [[Autonomous motivation]] — the internalised motivation that controlling conditions can crowd out.
 - [[Controlled motivation]] — the form of motivation controlling conditions produce.
 
 ## Sources
 
-- [Deci EL, Koestner R, Ryan RM (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125(6):627-668](https://pubmed.ncbi.nlm.nih.gov/10589297/) — the 128-study meta-analysis.
-- [Di Domenico SI, Ryan RM (2017). The Emerging Neuroscience of Intrinsic Motivation: A New Frontier in Self-Determination Research. Frontiers in Human Neuroscience, 11:145](https://pmc.ncbi.nlm.nih.gov/articles/PMC5364176/) — review framing the reward and autonomy literature.
+- [Promberger M, Marteau TM (2013). When Do Financial Incentives Reduce Intrinsic Motivation? Comparing Behaviors Studied in Psychological and Economic Literatures. Health Psychology, 32(5):453-462](https://pmc.ncbi.nlm.nih.gov/articles/PMC3906839/) — the review of the undermining-effect literature and its moderators.
+- [Deci EL, Koestner R, Ryan RM (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125(6):627-668](https://pubmed.ncbi.nlm.nih.gov/10589297/) — the 128-study meta-analysis, cited via the opened Promberger & Marteau review.
 
 ## Cited in psychology parallels
 
