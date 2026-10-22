@@ -62,3 +62,16 @@ Decisions:
 - Front-matter preserved (git diff starts after the closing ---); D134/SO057 Cited-in wikilinks preserved.
 - Related concepts added (Autonomy-supportive leadership, Autonomous motivation, Controlled motivation, Autonomous versus controlled motivation — all resolve).
 - No reciprocal proposals (fast-track bar).
+
+### Autonomy-threat research (fast-track, deg 3)
+
+Sources opened (fetch_url, fresh):
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC5364176/ — Di Domenico & Ryan 2017 Frontiers in Human Neuroscience 11:145. Full abstract fetched verbatim.
+- PubMed record 10589297 (Deci, Koestner & Ryan 1999 Psychological Bulletin 125(6):627-668): full abstract retrieved verbatim via search_web from PubMed (direct fetch_url blocked by robots; the search result carried the complete abstract text).
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Seed description preserved verbatim on line 1.
+- Front-matter preserved (git diff starts after the closing ---); D137 Cited-in wikilink preserved; Intrinsic motivation and Self-determination inline wikilinks preserved in the seed description.
+- Scope honesty: page carries the children-vs-college-students moderator, the low-interest-task exception, and the ongoing debate note.
+- No reciprocal proposals (fast-track bar).
