@@ -259,3 +259,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 
 - Frozen-baseline validation of all 22 kernels enriched this session (K236, K144, K215, K223, K228, K237, K168, K136, K150, K345, K180, K193, K221, K246, K301, K302, K335, K227, K239, K347, K127, K211) against the pre-session commit b4bc0ed39610b47be21adc61e283ab744bc14b81: 22 checked, 0 failed (front matter, wikilinks, protected content all intact).
 - K302 Kimmerer quotes upgraded to raw verification: direct curl of https://emergencemagazine.org/conversation/practical-reverence/ succeeded (the earlier "raw retrieval not attempted" note is superseded); both blockquotes confirmed present in the raw HTML (HTML-entity apostrophes decoded), matching the page text. The extraction disclosure above is retained for history.
+
+## K326 — Incubation practice (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Sio & Ormerod 2009 (Psychological Bulletin 135(1):94-120), abstract verified raw against the NCBI efetch API (PMID 19210055, located via esearch; one wrong-PMID fetch discarded).
+- Both blockquotes verified against the raw abstract: the positive-effect-with-moderators sentence and the low-demand-vs-rest finding.
+- The seed's claims are downgraded honestly: "one of the most robust findings in creativity research" became the meta-analysis's own qualified statement (positive effect, task-dependent, "must be designed with care" — quoted); the unconscious-processing mechanism is labelled the practice's rationale, since the review offers differential solution-process invocation as interpretation, not settled mechanism.
+- Protocol steps tie directly to the quoted moderators (preparation length, filler demand) and are labelled as the compendium's practice form.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed (front matter copied verbatim from the seed).
