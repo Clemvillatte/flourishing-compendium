@@ -26,4 +26,4 @@ The first published results came from the program's chronic-pain patients, train
 ## Sources
 
 - Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: theoretical considerations and preliminary results. General Hospital Psychiatry, 4(1), 33–47. Abstract opened at https://pubmed.ncbi.nlm.nih.gov/7042457/
-- Kabat-Zinn, J. (2011). Some Reflections on the Origins of MBSR, Skillful Means, and Mindfulness Teaching. Opened at https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_SomeReflectionsOriginsMBSR.pdf
+- Kabat-Zinn, J. (2011). Some Reflections on the Origins of MBSR, Skillful Means, and Mindfulness Teaching. Contemporary Buddhism, 12(1). Opened at https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_SomeReflectionsOriginsMBSR.pdf
