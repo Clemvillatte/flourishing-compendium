@@ -16,7 +16,7 @@ When you assume you know what someone thinks or feels, ask instead. Asking is th
 
 1. Notice the guess. Catch yourself mid-assumption: "She must be annoyed," "He'll hate this plan."
 2. Ask the person, not your simulation. "What did you make of that?" "How does this plan sit with you?" The direct question is the whole practice.
-3. Ask thoroughly. In one experiment, only 12 of 46 participants asked anything at all, and in another only 23% asked about every item; the finding on dosage was plain: "We found that the more items someone asked about, the more accurate that person was (there was a lower discrepancy between the predicted and the actual price estimates), ρ = −0.277, p = 0.024" ([Damen, Pollmann and Grassow, 2021](https://www.frontiersin.org/articles/10.3389/fcomm.2021.611187/full), study 2).
+3. Ask thoroughly. In one experiment, only 12 of 46 participants asked anything at all, and in another only 23% asked about every item; the association was plain: "We found that the more items someone asked about, the more accurate that person was (there was a lower discrepancy between the predicted and the actual price estimates), ρ = −0.277, p = 0.024" ([Damen, Pollmann and Grassow, 2021](https://www.frontiersin.org/articles/10.3389/fcomm.2021.611187/full), study 2).
 4. Treat the answer as data. Update your picture, and check the updated picture against what the person does next.
 
 ## A guided version
@@ -25,7 +25,7 @@ The asking happens in conversation with the other person; no guided recording is
 
 ## Evidence
 
-The case against guessing: across "25 experiments testing whether being instructed to adopt another person's perspective increases interpersonal insight," the authors "failed to find any consistent evidence that it actually did so," and found that "If anything, perspective taking decreased accuracy overall while occasionally increasing confidence in judgment" ([Eyal, Steffel and Epley, 2018](https://pubmed.ncbi.nlm.nih.gov/29620401/), abstract). The case for asking: "A final experiment confirmed that getting another person's perspective directly, through conversation, increased accuracy but that perspective taking did not" (same abstract). The conclusion the authors draw: "Increasing interpersonal accuracy seems to require gaining new information rather than utilizing existing knowledge about another person" (same abstract).
+The case against guessing: across "25 experiments testing whether being instructed to adopt another person's perspective increases interpersonal insight," the authors "failed to find any consistent evidence that it actually did so," and found that "If anything, perspective taking decreased accuracy overall while occasionally increasing confidence in judgment" ([Eyal, Steffel and Epley, 2018](https://pubmed.ncbi.nlm.nih.gov/29620401/), abstract). The case for asking: of the 25 experiments, all but the last tested perspective taking; "A final experiment confirmed that getting another person's perspective directly, through conversation, increased accuracy but that perspective taking did not" (same abstract). The conclusion the authors draw: "Increasing interpersonal accuracy seems to require gaining new information rather than utilizing existing knowledge about another person" (same abstract).
 
 What the research does not cover: the advantage is not guaranteed. In the first of the three Damen experiments, "Only 26% of all people engaged in perspective getting, and it did not lead to better predictions" ([Damen, Pollmann and Grassow, 2021](https://www.frontiersin.org/articles/10.3389/fcomm.2021.611187/full), abstract). The studies measured prediction accuracy about money distributions, prices and attitudes, not relationship quality or how it feels to be asked. The practice's confidence that asking beats guessing comes from the general pattern, not from every study.
 
@@ -44,7 +44,7 @@ What the research does not cover: the advantage is not guaranteed. In the first 
 - [[Perspective-getting]] — the concept page for this practice
 - [[Perspective-taking]] — the guessing strategy the evidence questions
 - [[Empathic accuracy]] — the skill being measured
-- [[Egocentric projection in social inference]] — the bias asking corrects
+- [[Egocentric projection in social inference]] — the bias asking sidesteps
 
 ## Related kernels
 
