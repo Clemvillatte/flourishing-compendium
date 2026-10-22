@@ -57,3 +57,8 @@
 - Sources opened: psychclassics.yorku.ca 1961 Bobo doll paper (raw HTML fetched and parsed; verbatim Table 1 sentence with "(See Table 1)." and the confirmation sentence, p. 578); Wikipedia Observational learning (definition sentence; four-factor labels dropped from the page per advisor — Wikipedia not authoritative for them).
 - Repairs per advisor: discovery/priority claim removed, group-level reporting only, blockquote made exact, four-factor sentence omitted, production commentary removed, D135/Y085 read and described from their bodies.
 - Validator: ok (fast-track, pipefail-gated).
+
+## Liberality (fast-track, 2026-10-22)
+- Source opened: MIT Classics NE Book IV (Ross translation, raw HTML fetched and parsed; verbatim IV.1 definition sentence, the relative-to-substance sentence, the meanness judgement).
+- Note: D136's parallel label says "(megaloprepeia)" but NE IV.1 liberality is eleutheriotes (magnificence/megaloprepeia is IV.2); page uses the IV.1 sense only; flagging the D136 label for supervisor.
+- Validator: ok (fast-track). Advisor QC: not due (item 11).
