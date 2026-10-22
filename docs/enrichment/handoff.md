@@ -1,4 +1,7 @@
 
+### CMP owner feedback — 2026-10-21 (routed by the closing CMP agent)
+- The owner reviewed the finished CMP degree and requested three changes (status still "draft" → flip to final; practice gallery to live ON the degree page under the Syllabus with practice-type and time filters; thumbnails). None were implemented — no time in the run. Full brief with repo locations and verification requirements: docs/DEGREE-CMP-HANDOFF.md, section "OWNER FEEDBACK (2026-10-21 post-completion review)". Read it before any CMP work.
+
 ### Supervisor closeout — 2026-10-21 07:55 UTC (worker-w1i-f6d3f54d-sup)
 - Silent-monitoring pass at the owner's request before going offline; full record in
   the OPERATIONS.md QC log (takeover row). Health check clean: no content commits in

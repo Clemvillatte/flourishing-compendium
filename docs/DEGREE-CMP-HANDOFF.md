@@ -4,6 +4,44 @@
 
 ---
 
+## OWNER FEEDBACK (2026-10-21 post-completion review) — three required changes, NOT yet implemented
+
+The owner reviewed the finished degree and requested the three changes below. The previous agent had no time to implement them; this section is the handoff. Work them in order; item 2 is the large one. Repo facts below were re-verified from the live tree on 2026-10-21 (~16:55Z).
+
+### Change 1 — the degree still reads "draft": flip to final
+
+- Where: the `deg-cmp` object inside `window.fcAcademyData` on the data line of `site/assets/app.js`. Currently `"status": "draft"`. (Safe-splice recipe applies: the marker `window.fcAcademyData = ` appears TWICE in app.js — pick the occurrence that raw-decodes to JSON with `schemaVersion` 1. Never find/replace the data line.)
+- The visible chip renders in `renderDegreeDetail` (app.js, ~line 3124): `if(deg.status==='draft'){ … 'draft — some modules lack Mastery-level sources' }`.
+- Pattern to copy: `deg-qigong` has `"status": "final"` and renders no chip. Its openingNote ("Practice five or six days a week; two rest days are part of the design. Everything essential is free.") is the style reference; the deg-cmp openingNote contains no draft language and needs no change.
+- Authorization: the earlier protocol said flip to final only after owner review. The owner's 2026-10-21 review message ("CMP: it is written 'draft'") is that review — flip it. Before flipping, run the standard closeout: unit tests, randomizer tests, build, live-deploy probe. The eight OTHER degrees saying "draft-with-capstones" are out of scope; do not touch them.
+
+### Change 2 — practice gallery ON the degree page, under the Syllabus, with practice-type and time filters
+
+Current state (verified):
+
+- The practice gallery is 47 guided sessions in markdown tables in `content/structure/CMP1 — Contemplative & Mental Practices — A Year of Practice.md`, section `## The practice gallery`, one table per shelf: Focused attention: the breath (FAM, 8 sessions), Open monitoring (OMM, 5), Loving-kindness and compassion (LKM, 7), Body scan/deep rest/NSDR (11), Daoist stillness (5), Zen guided sitting (6), Walking meditation (5). Columns: Session | Guide | Length. Every row was audio- or page-verified in session 6 (see the cmp ledger).
+- On the degree page the gallery is reachable only via the "Browse practice gallery" button (`renderDegreeDetail`, app.js ~line 3127), which jumps to the wiki viewer (`deg.practiceGallery` = the CMP1 wiki id). There is no in-app practice gallery, no filters, and nothing under the syllabus.
+
+Required:
+
+(a) Render the practice gallery on the deg-cmp degree page BELOW the syllabus module list. Insertion point: `renderDegreeDetail`, the `main` column (class `acad-syllabus`), after the module cards append a section (e.g. "The practice gallery") with the component below. Keep or replace the wiki jump button at your judgment; the wiki tables remain the canonical data until (b) is done.
+(b) Filters: two selects — practice type (the seven shelves) and time (duration buckets derived from the actual data, e.g. ≤5 / 10 / 15 / 20 / 30 / 45+ min). Filters combine; "All" defaults; show result counts.
+(c) Full gallery: all sessions render, paginated (reuse the existing gallery view's pattern: 120 per page, "Load more").
+(d) Breadth (owner's words: "each time and each practice type should offer a large breadth of qualitative choice"): audit the practice-type × time matrix and where a cell has fewer than ~3 high-quality options, source and add sessions per this handoff's inclusion standard and verification protocol: audio-classified guided sessions only (a talk containing ten minutes of meditation is NOT a guided session; guided sessions may include substantial silence); instructor standard — established lineage/monastery/research institution or documented teacher training in the specific practice, credential linked; durations from source pages, ffprobe-verified; YouTube via oembed + watch-page duration; no unverified pushes. Known thin cells from the session-6 audit: OMM long sits, Zen guided sitting at short durations, Daoist stillness above ~20 min (the Daoist long-session gap is documented — no qualifying source was found; Old Oak Dao fails the instructor standard; state gaps honestly, do not pad). Do not redo the Cheetah House removal or the existing gallery dispositions; extend, don't re-litigate.
+(e) Data shape: the component needs structured fields per session — practice_type, duration_minutes, url, guide, host, thumbnail. Either derive from the CMP1 tables at build time or add a collection to fcAcademyData (e.g. a `practiceSessions` array on deg-cmp). If you splice fcAcademyData, remember: app.js is NOT committed by enrich_save.sh — commit it yourself.
+
+### Change 3 — thumbnails
+
+- Gallery cards must show thumbnails. The existing 602-source gallery card pattern (`makeCard`, app.js ~2917) already handles images with a monogram fallback.
+- YouTube sessions: `https://i.ytimg.com/vi/<ID>/mqdefault.jpg` — no API needed; verify each loads.
+- Audio-only sources (most of the CMP sessions) have no native thumbnail. Pick ONE consistent approach: per-practice-type artwork (existing per-degree images in `site/assets/academy/*.jpg` — contemplative.jpg, mind.jpg, etc.), or source-page og:image where the host provides one (probe each; do not hotlink images that 403), or generate per-shelf images. Do not leave cards imageless and do not invent images of teachers.
+
+### Closeout for all three changes
+
+Binding rules unchanged: zero hallucination; owner directive 2B (NO disclaimers, safety warnings, adverse-effect caveats, or contraindication language anywhere — evidence honesty stays); humanized prose, no em dashes in prose, no AI tells; run `python3 -m unittest discover -s scripts/tests` and `node --test scripts/tests/randomizer.test.cjs` before every push; push via `scripts/enrich_save.sh "message"` (commit app.js manually first); the CMP1 enrich_validate structure-page failure is pre-existing and flagged to maintainers — don't chase it, don't claim all checks passed while it stands. Verify with browser QA on the degree page (desktop + mobile): filters combine correctly, all 47+ sessions reachable, thumbnails load, zero console errors; live Pages probe after deploy. Update this doc's changelog and the cmp ledger when done.
+
+---
+
 ## PART 0 — Ready-to-send prompt
 
 The owner supplies a fresh token (the one used to write this document is deleted). Placeholder: `[TOKEN]`.
