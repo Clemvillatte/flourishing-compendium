@@ -58,7 +58,8 @@
   "Identity-protective cognition",
   "Faith seeking understanding",
   "Gentleness as strength",
-  "Interest as motive"
+  "Interest as motive",
+  "Holism"
  ],
  "in_progress": null,
  "flagged": {
@@ -81,7 +82,7 @@
   "Future self-continuity": "fast-track §1a: Ersner-Hershfield 2009 abstract quoted verbatim from opened author research page; Related line added for Temporal discounting; Hershfield 2011 original line preserved",
   "Fluency-driven illusory truth": "fast-track; Fazio 2020 Collabra PDF opened, abstract quoted verbatim (two sentences incl. 'prior knowledge does not protect'); seed citation line and parallels preserved; fluency-vs-knowledge distinction kept honest.",
   "Inattentional blindness": "fast-track; Simons & Chabris 1999 abstract verified via author's chabris.com publications page, two sentences quoted verbatim; similarity/difficulty and spatial-proximity findings from abstract; seed Related [[Attention]] line preserved; duplicate seed citation line deduplicated.",
-  "Genealogy": "fast-track; Nietzsche On the Genealogy of Morals Preface §3 quoted verbatim from Gutenberg full text (Samuel trans. 1913); translation noted; E089 seed link preserved after validator caught removal; added E103/E106/R050 parallels and hermeneutics-of-suspicion Related. QC repair: removed strong/weak narrative beyond opened Preface §3; removed added parallels E103/R050 (no genealogy mention on those pages; E106/E089 verified); translation claim softened to 'full text via Project Gutenberg'.",
+  "Genealogy": "fast-track; Nietzsche On the Genealogy of Morals Preface §3 quoted verbatim from Gutenberg full text (Samuel trans. 1913); translation noted; E089 seed link preserved after validator caught removal; added E103/E106/R050 parallels and hermeneutics-of-suspicion Related. QC repair: removed strong/weak narrative beyond opened Preface §3; removed added parallels E103/R050 (no genealogy mention on those pages; E106/E089 verified); translation claim softened to 'full text via Project Gutenberg'. Validator required retaining E103/R050 links (now baseline); moved from 'Cited in' section to Related concepts with thematic glosses; final fix in 89b192b7.",
   "Happiness as by-product": "fast-track; Mill Autobiography ch.5 opened at Gutenberg, key sentences quoted verbatim; Frankl kept as seed citation (no open carrier used for Frankl quotes); Related switched to existing pages Flow/Hedonic adaptation. QC repair: Frankl camps account and mood-inspection extrapolation trimmed to Mill-supported wording; Frankl kept as seed citation only.",
   "Hospitality": "fast-track; Kant Perpetual Peace third definitive article quoted verbatim from Gutenberg; Derrida/Levinas seed citations preserved but not quoted (copyright); manaakitanga link verified. QC repair: Derrida/Levinas characterisations grounded via Cambridge Public Humanities article and cited; previously unverified.",
   "Hypercompetitiveness": "fast-track; PMC5972296 (Orosz et al. 2018) opened, Horney/Ryckman definition sentences quoted verbatim; correlates list from same review; seed 'Other formulations' section preserved; 'Narcissism'/'Zero-sum thinking' links replaced with existing pages. QC repair: 'only way the self can feel worth anything' narrowed to source wording; heading changed to 'Reported associations'; enemies/unfair-strategies claims attributed to review; self-developmental contrast corrected to 'unrelated to resilience/positivity'; Taoist exit sentence removed.",
@@ -89,9 +90,10 @@
   "Identity-protective cognition": "fast-track; Kahan 2013 JDM paywalled at Cambridge (abstract read via search snippet, two findings paraphrased with care); verbatim quotes taken from open Kahan et al. working paper (uoregon scholarsbank) for SCT/ICT theses and cultural-cognition definition; no unverified direct quotes.",
   "Faith seeking understanding": "fast-track; Anselm Proslogium ch.1 quoted verbatim from Fordham sourcebook (Deane trans. 1903); noted translation is Deane not Charlesworth; seed E029/Y064 links preserved.",
   "Gentleness as strength": "fast-track; La Rochefoucauld maxim 479 quoted verbatim from Gutenberg 9105; 'Assertiveness' replaced with existing 'Assertiveness research'; praotes cross-link added.",
-  "Interest as motive": "fast-track; Dewey Democracy and Education ch.X opened at Gutenberg, three sentences quoted verbatim; 'interest and effort same fact' phrasing confirmed absent from this edition and not used. QC repair: deterministic opening replaced; locator improved to ch. X §1; ADHD gloss removed; summary quote located."
+  "Interest as motive": "fast-track; Dewey Democracy and Education ch.X opened at Gutenberg, three sentences quoted verbatim; 'interest and effort same fact' phrasing confirmed absent from this edition and not used. QC repair: deterministic opening replaced; locator improved to ch. X §1; ADHD gloss removed; summary quote located.",
+  "Holism": "fast-track; Smuts Holism and Evolution (1926) full text via Internet Archive opened; three sentences quoted verbatim (OCR Greek glyphs noted, coinage sentence quoted in the 'whole-ward tendency' form as printed); metaphysics kept attributed to Smuts, modern survival framed as methodological."
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-22T14:17:29+00:00"
+ "updated": "2026-10-22T14:22:10+00:00"
 }
