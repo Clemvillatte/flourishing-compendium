@@ -27,7 +27,7 @@ He is careful about what this is:
 
 > "de-automatization is not a regression but rather an undoing of a pattern in order to permit a new and perhaps more advanced experience." — Deikman, "Experimental Meditation" ([author's site](https://www.deikman.com/experimental.html))
 
-It is a hypothesis built from mystic literature and his own experiments, not a proof of unmediated access to reality.
+It is a hypothesis built from mystic literature and his own experiments, not a proof of unmediated access to reality. The 1966 paper's conclusion states the model in full: a mystic experience "is the production of an unusual state of consciousness", brought about "by a de-automatization of hierarchically ordered structures of perception and cognition, structures that ordinarily conserve attentional energy for maximum efficiency in achieving the basic goals of the individual: biological survival as an organism and psychological survival as a personality" ([Deikman 1966, author's site](https://www.deikman.com/deautomat.html)).
 
 ### In the compendium
 - [[D041 — Practice purity and stillness (qingjing)]] cites deautomatization: meditation dismantles automatic thought-perception links (Deikman, 1966).
