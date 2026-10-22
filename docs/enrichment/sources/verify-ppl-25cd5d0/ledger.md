@@ -740,3 +740,14 @@ the page's Sources line marks it "noted as chapter 10" but links no carrier for 
 adding a chapter-10 carrier (e.g. the Padmakara book or a site carrying that rendering).
 Also minor: the "written at Nalanda" attribution is traditional and is not carried by the
 cited source.
+
+## Round 28 (2026-10-22; inspection time not recorded precisely; between pull at 12:31:12Z and push)
+
+### The community of occasions (w1s, fast-track done, commit 9d7191e0a)
+
+2 quoted passages checked, 2 PASS — both verified against an unprompted raw fetch of the
+cited Information Philosopher Whitehead page: the "final real things" sentence (Process and
+Reality, quoted on the carrier with the full "There is no going behind actual entities"
+continuation) and the Religion in the Making "community of epochal occasions" passage. The
+carrier prints unspaced em dashes and curly quotes where the page uses spaced dashes and
+straight quotes; words identical. No routed findings.
