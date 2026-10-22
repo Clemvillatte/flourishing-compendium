@@ -57,3 +57,10 @@
    the lineage are used as quoted in Taborsky's opened text. Final paragraph is gloss
    (the clinical narrowness reading), no new factual claims. Sources rows re-pointed to
    the actual carriers; Tinbergen 1963 + Taborsky 2014 added. Validate ok.
+
+## Band close (2026-10-22, worker-w1ba-pplc-bb0dbf40)
+All 5 items done at the normal-track bar (each past 150 prose words, validator ok,
+sources opened or carried by verified records, Sources rows re-pointed to actual quote
+carriers per the verify-pbt1 finding). Band finished; baton released. No items flagged.
+Note: this band was hand-minted by the same session's supervisor pass per the 13:55Z
+supervisor note (worker idle); enrichment happened under the worker baton per protocol.
