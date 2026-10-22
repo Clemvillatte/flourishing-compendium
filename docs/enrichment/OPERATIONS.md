@@ -667,3 +667,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   Center, AUB ScholarWorks PDF, Ricoeur Studies journal — all quoting the same
   sentence with the p. 33 locator): verbatim. Sample PASS. Forty-seven samples this
   session, all PASS.
+- Supervisor verification sample 48 (2026-10-22 ~16:56 UTC): Prohairesis (random
+  finished-band draw, w1v) — the Aristotle NE III.3 choice-definition quote checked
+  against the opened MIT Classics carrier (Ross): verbatim. Sample PASS. Forty-eight
+  samples this session, all PASS.
