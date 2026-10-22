@@ -19,7 +19,7 @@ For Aristotle, cleverness is the capacity to find effective means to a goal alre
 
 Practical wisdom needs this ability, but also good judgment about what action is for. Aristotle argues that bad character can distort the starting points of deliberation. In VI.13 he makes the dependence reciprocal: strict goodness requires practical wisdom, and practical wisdom requires moral virtue ([VI.12–13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
 
-The distinction therefore challenges both ingenuity detached from a worthy purpose and good intentions unable to find an appropriate course of action. This is an ethical account of wisdom, not a psychological test of intelligence.
+The distinction therefore challenges both ingenuity detached from a worthy purpose and good intentions unable to find an appropriate course of action. It asks us to examine the purpose of an action as well as our ability to carry it out.
 
 ### Plain words
 

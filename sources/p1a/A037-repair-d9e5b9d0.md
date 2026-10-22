@@ -15,3 +15,7 @@ The marketer example is imagined. It proposes redirecting a skill to an honest p
 Removed unsupported intelligence claims from the inherited moral-disengagement and dark-triad rows while preserving both exact original wikilinks and author/date references. Neither empirical work was opened or certified in this pass.
 
 Read Phronesis, Virtue ethics and The unity of the virtues locally. The unity page already links A037. Phronesis and Virtue ethics reciprocals are proposed; no concept page edited.
+
+## Independent final-item QC
+
+Advisor gpt_6_luna checked the full draft against the exact VI.12 quotation and VI.13 sentence. Scoped pass on quotation identity, means and ends, reciprocity and the explicitly imagined example. Applied its scope caution by removing the psychological-test aside and keeping the practical reflection within the ethical account.
