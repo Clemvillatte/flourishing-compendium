@@ -29,7 +29,8 @@
   "Sophrosyne",
   "System justification theory",
   "State-dependent memory",
-  "Task-switching costs"
+  "Task-switching costs",
+  "Technology acceptance model"
  ],
  "in_progress": null,
  "flagged": {
@@ -54,10 +55,11 @@
   "Sophrosyne": "Prior page claimed Delphi and Plato lineage without sources; removed. Page rests on Chase translation only; PP040 cites NE III.10.",
   "System justification theory": "Already enriched by w1i (overlap); validated, no change.",
   "State-dependent memory": "Seed pairs Godden & Baddeley (physical context, replication failed in Murre 2021) with Eich (mood); page separates them. Goodwin 1969 added (abstract). Eich 1995 abstract only.",
-  "Task-switching costs": "Rubinstein et al. 2001 (seed) not consulted. Lab ms costs; AT016 applies them to everyday practice (it says so)."
+  "Task-switching costs": "Rubinstein et al. 2001 (seed) not consulted. Lab ms costs; AT016 applies them to everyday practice (it says so).",
+  "Technology acceptance model": "Thematic link only; E102 (Gelassenheit) does not cite Davis. Abstracts and secondary summaries used; the MIS Quarterly full text was not opened."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T16:12:59+00:00",
+ "updated": "2026-10-22T16:13:21+00:00",
  "band_done": false
 }
