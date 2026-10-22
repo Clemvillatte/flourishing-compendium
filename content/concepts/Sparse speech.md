@@ -9,9 +9,17 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Sparse speech” — Laozi, Daodejing 23.
 
+Sparse speech is the Daoist discipline of saying little: letting words be as economical as the way itself, which does not explain or argue the world into shape. The Daodejing's image in chapter 23 is meteorological. Nature's loudest events are brief; a gale spends itself in a morning and a downpour in a day. Talk that blusters is the same kind of spasm, and the chapter treats restraint in speech as agreement with how nature runs rather than as coldness or aloofness.
+
+> "Abstaining from speech marks him who is obeying the spontaneity of his nature. A violent wind does not last for a whole morning; a sudden rain does not last for the whole day. To whom is it that these (two) things are owing? To Heaven and Earth. If Heaven and Earth cannot make such (spasmodic) actings last long, how much less can man!" (Daodejing 23, James Legge translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+### What the restraint is for
+
+The point is not silence as a pose but words kept rare enough to carry weight. For a writer on wisdom, the chapter offers a test worth running before speaking: is this utterance more like the steady climate of the way or more like a squall, impressive for a moment and gone by noon? The compendium's principle B172 holds the value this concept grounds.
+
 ## Sources
 
-- Laozi, Daodejing 23
+- Laozi, Daodejing (Tao Teh King), ch. 23, James Legge translation, Project Gutenberg full text: [gutenberg.org/cache/epub/216/pg216.txt](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 ## Cited in philosophy parallels
 
