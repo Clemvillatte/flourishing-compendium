@@ -39,7 +39,8 @@
   "content/kernels/K143 — Self-complexity mapping.md",
   "content/kernels/K157 — Evening review.md",
   "content/kernels/K241 — Seasonal redesign.md",
-  "content/kernels/K130 — Decatastrophizing.md"
+  "content/kernels/K130 — Decatastrophizing.md",
+  "content/kernels/K159 — Affect labeling.md"
  ],
  "in_progress": null,
  "queue": [
@@ -88,5 +89,5 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T14:01:50+00:00"
+ "updated": "2026-10-22T14:02:08+00:00"
 }
