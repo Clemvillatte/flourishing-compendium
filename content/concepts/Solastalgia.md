@@ -13,7 +13,7 @@ Solastalgia is the distress produced by environmental change while a person is s
 
 ### The distinction that does the work
 
-The contrast with nostalgia is the point: nostalgia grieves a home left behind, solastalgia grieves a home that is being transformed while you are still in it. The studies Albrecht's team worked with found that "people exposed to environmental change experienced negative affect that is exacerbated by a sense of powerlessness or lack of control over the unfolding change process" ([2007, abstract](https://journals.sagepub.com/doi/10.1080/10398560701701288)), which is why the concept matters for a wiki about suffering: it names a distress that comes from watching, without being able to stop it, the place that holds you come apart.
+The contrast with nostalgia is the point: nostalgia grieves a home left behind, solastalgia grieves a home that is being transformed while you are still in it. The studies Albrecht's team worked with, in drought-affected rural New South Wales and coal-mining districts of the Upper Hunter Valley, found that "people exposed to environmental change experienced negative affect that is exacerbated by a sense of powerlessness or lack of control over the unfolding change process" ([2007, abstract](https://journals.sagepub.com/doi/10.1080/10398560701701288)). That pairing of place-loss with powerlessness is why the concept matters for a wiki about suffering: it names a distress that comes from watching, without being able to stop it, the place that holds you come apart.
 
 ### In the compendium
 

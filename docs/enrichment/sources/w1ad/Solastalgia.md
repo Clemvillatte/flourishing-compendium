@@ -5,3 +5,5 @@
 - Quotations: the nostalgia-contrast definition (block); "people exposed to environmental change experienced negative affect that is exacerbated by a sense of powerlessness or lack of control over the unfolding change process" (inline). The S-page range was NOT asserted (the abstract record does not carry it).
 - Scope: single-carrier scope per the fast-track bar; the seed's "Albrecht, Earth Emotions" (2019) was not opened — the 2007 primary paper (the concept's founding publication, with Albrecht as first author) carries the definition; the page names Albrecht and colleagues accordingly and asserts nothing from Earth Emotions.
 - QC disposition: validator ok vs seed baseline; the next advisor milestone falls at item 15.
+
+- Verification-pass hardening: prose topped up past the 150-word normal minimum (the opening of the second section now carries the study locations and the powerlessness pairing from the abstract's own sentences); the page now passes BOTH the fast-track and normal validator profiles (was 145 words).
