@@ -268,3 +268,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Protocol steps tie directly to the quoted moderators (preparation length, filler demand) and are labelled as the compendium's practice form.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed (front matter copied verbatim from the seed).
+
+## K229 — Narrative redemption (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: McAdams & Guo 2015 (Psychological Science 26(4):475-483), abstract verified raw against the NCBI efetch API (PMID 25749704, located via esearch; two other McAdams-related PMIDs examined and set aside before this one was selected).
+- The blockquote matches the raw abstract verbatim, including the "The results showed that" opening (an initial draft silently dropped that lead-in; corrected before save).
+- What the evidence does not test is stated on the page: the study is correlational, its outcome is generativity in late-midlife adults rather than well-being or healing, and it tested no rewrite exercise; the meaning-within-pain framing is labelled the practice's rationale.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed (front matter copied verbatim from the seed).

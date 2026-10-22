@@ -64,7 +64,8 @@
   "content/kernels/K347 — Story-before-statistic.md",
   "content/kernels/K127 — Cognitive reappraisal.md",
   "content/kernels/K211 — Acts of kindness.md",
-  "content/kernels/K326 — Incubation practice.md"
+  "content/kernels/K326 — Incubation practice.md",
+  "content/kernels/K229 — Narrative redemption.md"
  ],
  "in_progress": null,
  "queue": [
@@ -113,7 +114,7 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T14:48:58+00:00",
+ "updated": "2026-10-22T14:50:10+00:00",
  "band_done": false,
  "flagged": {
   "content/kernels/K144 — The chariot analysis.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
@@ -138,6 +139,7 @@
   "content/kernels/K347 — Story-before-statistic.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
   "content/kernels/K127 — Cognitive reappraisal.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
   "content/kernels/K211 — Acts of kindness.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
-  "content/kernels/K326 — Incubation practice.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling"
+  "content/kernels/K326 — Incubation practice.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
+  "content/kernels/K229 — Narrative redemption.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling"
  }
 }
