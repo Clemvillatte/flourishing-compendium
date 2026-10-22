@@ -15,20 +15,20 @@ Nietzsche's diagnosis in the Genealogy is that the moral vocabulary most of Euro
 
 ### Two systems of value
 
-The Genealogy sets two modes of valuation against each other. The aristocratic mode affirms itself first: "The contrary is the case when we come to the aristocrat's system of values: it acts and grows spontaneously, it merely seeks its antithesis in order to pronounce a more grateful and exultant 'yes' to its own self" (I.10). The reactive mode does the reverse: it needs an enemy to name evil first, and only then defines itself as good: "good is every one who does not oppress, who hurts no one, who does not attack, who does not pay back... like ourselves the patient, the meek, the just" (I.10).
+The Genealogy sets two modes of valuation against each other. In I.10, the aristocrat's system of values is described as acting and growing spontaneously, seeking its antithesis only to pronounce a more grateful and exultant yes to itself. The reactive mode does the reverse: it needs an enemy to name evil first, and only then defines itself as good, so that the patient, the meek and the just are those who do not oppress, do not attack, do not pay back.
 
 ### Where the herd comes in
 
-Nietzsche names the social force behind the shift: "it is... the herd instinct which finds in this antithesis an expression in many ways" (I.2). When aristocratic values decay, the egoistic-altruistic antithesis presses on the conscience, and morality becomes what the herd needs it to be: protective of the many, suspicious of the outstanding. In §9 he is blunter about the historical outcome: "the people have triumphed—or the slaves, or the populace, or the herd, or whatever name you care to give them."
+The slave revolt in morals and the herd are connected but distinct strands in Nietzsche's diagnosis. On the herd: he writes in I.2 that it is the herd instinct that finds expression in the antithesis between egoistic and altruistic when aristocratic values decay. In I.9 he names the historical outcome bluntly, as a triumph of the people, the slaves, the populace, the herd.
 
 ### The point for a flourishing compendium
 
-Herd morality is not an argument that groups are bad. It is a claim about the origin of a value system: some values exist because they serve creatures who cannot otherwise protect themselves. The reader who takes it seriously asks, of any inherited "good," whose need it first expressed. The psychological parallels in this compendium carry the question forward: the principle on affective contagion asks whether a felt conviction is even one's own, and the principle on differing from the crowd asks what it costs to do so.
+Herd morality is Nietzsche's claim about the origin of a value system: some values exist because they serve creatures who cannot otherwise protect themselves. The reader who takes the diagnosis seriously asks, of any inherited "good," whose need it first expressed. The psychological parallels in this compendium carry the question forward: the principle on affective contagion asks whether a felt conviction is even one's own, and the principle on differing from the crowd asks what it costs to do so.
 
 - [[AF022 — Recognise affective contagion in groups; do not mistake it for your own feeling]]
 - [[D109 — Be willing to differ from the crowd]]
 - [[P194 — Distinguish closed morality from open morality; the open requires creative effort, not mere expansion]]
-- [[Spiral of Silence Theory]], a modern empirical descendant of the same question
+- [[Spiral of Silence Theory]], which studies how public opinion pressures dissenters into silence
 
 ## Sources
 

@@ -19,9 +19,9 @@ The participants were "1,299 children (mean age at year 1 = 8.3 y; 51% girls) fr
 
 ### What it means
 
-The bias is not a general suspicion of others. It shows up where the evidence runs out, in the bump from behind whose meaning must be guessed. The aggressive child is not misreading clear signals; the two groups differ mainly in how they resolve ambiguity. That makes the mechanism a target for intervention, as the authors note, since the interpretation, not the provocation, is the trainable step.
+The bias is not a general suspicion of others. It shows up where the evidence runs out, in the bump from behind whose meaning must be guessed. The study measured predicted responses to hypothetical vignettes, and, separately, chronic aggressive behavior problems as rated by mothers and children. The authors' abstract notes that the findings point to potential interventions, while the study design does not itself test them.
 
-The compendium pairs the finding with its contemplative counterweights. [[D088 — Don't take offense personally (the empty boat)]] trains the same gap: the Zhuangzi story of the empty boat asks why rage needs a rower. A principle on giving up the doer's claim loosens the assumption that harm has an author, and the self-serving bias principle shows the mirror-image error, in which circumstances get blamed when the self is at stake.
+The compendium pairs the finding with its contemplative counterweights: the empty boat principle, the principle on giving up the doer's claim, and the self-serving bias principle.
 
 ## Sources
 
