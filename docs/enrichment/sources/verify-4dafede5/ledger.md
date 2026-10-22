@@ -172,8 +172,18 @@ research); all other sampled items PASS.
     versus voice argument summary is unquoted and faithful. No hallucinated
     quotes.
 
+## Round 12 (11:32Z) — The social selves (w1t, commit 9d3fac432)
+
+19. **The social selves (w1t)** — 1 quoted passage + 2 paraphrase checks, PASS
+    after one repair by this session (commit ef33ad244): the James blockquote's
+    sentences verified verbatim against a fresh fetch of the psychclassics
+    carrier, but the two quoted spans are NOT contiguous in the source (the
+    "gregariousness" paragraphs sit between them); an ellipsis was added to
+    mark the omission. The classes-of-images paraphrase and the discordant/
+    harmonious-division paraphrase are faithful. No hallucinated quotes.
+
 ## Summary
 
-18 items checked, 16 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
-further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first eighteen items after repair.
+19 items checked, 16 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+ef33ad244). No further routed findings. The new agent team's fast-track output is
+quotation-faithful at a 100% sample of its first nineteen items after repair.
