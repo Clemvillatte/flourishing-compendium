@@ -1409,3 +1409,20 @@ opened carriers):
 Live workers at checkpoint: w1q (fast-track), w1w (concepts), cmp
 (bio-citation fixes), kpr (kernel-special). Supervisor baton held by
 worker-sup-5e8a3c7f.
+
+## Core-theories audit (worker-core1022, w1v, 2026-10-22 04:03 UTC)
+Owner-directed check that core theories are minted and enriched. DONE this session: MBCT,
+Learned Helplessness Theory, Meaning-centred therapy — all theory-page standard, verbatim
+quotes from opened sources, validator clean (see w1v batch). WEAK STUBS FOUND (13-53 prose
+words, all assigned to bands, none enriched yet): MBCT(w1v, now done), Learned Helplessness
+Theory(w1v, now done), Meaning-centred therapy(w1v, now done), Flourishing scale(w1r),
+Competence(w1r), Relatedness(w1s), Self-verification theory Swann(w1s), Polyvagal theory
+Porges(w1ac), Dispositional optimism(w1z), Ego integrity Erikson(w1z), Two-factor model of
+well-being(w1af), Wisdom theory Berlin paradigm(w1af). MISSING PAGES (no concept page
+exists; minting is supervisor/queue territory — FLAGGED for supervisor): Acceptance and
+Commitment Therapy (only Psychological flexibility + Process-based therapy pages exist),
+Tend-and-befriend, Positive psychology (field page), Virtue ethics, Hope theory (Snyder),
+Logotherapy, Ego development (Loevinger), Conscientiousness, Subjective well-being
+(Diener; only two-factor model + flourishing scale stubs), MBSR program page (only the
+body-scan practice page exists). Also: 'MBCT' page title is an acronym; consider renaming
+to 'Mindfulness-based cognitive therapy' (namespace change, supervisor call).
