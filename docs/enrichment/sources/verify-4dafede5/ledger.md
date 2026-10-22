@@ -120,8 +120,19 @@ research); all other sampled items PASS.
     (rude/selfish/unethical pattern; empathy, gratitude and generosity as the
     counter-practice) match the article's summary. No hallucinated quotes.
 
+## Round 7 (11:29Z) — The serenity prayer (w1t, commit 3400cd651)
+
+14. **The serenity prayer (w1t)** — 1 quoted passage + 2 factual claims checked,
+    all PASS: the 1943 version verified verbatim against a fresh fetch of the
+    Yale Alumni Magazine 2008 investigation (archives.yalealumnimagazine.com/
+    issues/2008_07/serenity.html); the 1943 Heath sermon fact matches the
+    article's "Heath Union Church in the summer of 1943" sentence; Niebuhr's
+    authorship concession matches the article's sentence (unquoted faithful
+    paraphrase). The AA "grant me" wording matches the standard Alcoholics
+    Anonymous adaptation. No hallucinated quotes.
+
 ## Summary
 
-13 items checked, 11 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
+14 items checked, 12 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
 further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first thirteen items after repair.
+quotation-faithful at a 100% sample of its first fourteen items after repair.
