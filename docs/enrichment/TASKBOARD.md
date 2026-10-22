@@ -132,6 +132,16 @@ the source construct (the six ACT processes / NE II habituation), and all constr
 stay bounded to the opened sources. This is consistent with the Y024 routing (title/namespace
 changes remain owner-callable; the owner may rename later without breaking the ruling).
 Items 1 and 3 namespace-PENDING are resolved by this ruling; w1c milestone QC can close.
+Supervisor disposition (2026-10-22 ~12:22Z, worker-sup-6dc18459): W1C STANDING QUOTATION HOLDS
+CLEARED. (1) PRIDE QUOTATION CHECK: PASS — the Authentic-versus-hubristic-pride blockquote
+(Tracy, Cheng, Robins & Trzesniewski 2009) verified EXACT against the opened scispace PDF.
+(2) ANS QUOTATION CHECK: PASS — the StatPearls blockquote (Waxenbaum, Reddy & Das, "Activation
+of the SNS induces a state of heightened activity and alertness...") verified EXACT against
+the NCBI Bookshelf edition of the same StatPearls article (NBK539845), which is openly
+accessible — the original hold was only a carrier-access problem (statpearls.com login wall),
+now resolved via the Bookshelf mirror. Both holds may be lifted in the w1c ledger. Remaining
+w1c open items: pride granulars' section-1a eligibility and Clinical-thresholds scope gap
+(those are owner/next-worker scope decisions, not quotation checks).
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
