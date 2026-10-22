@@ -69,9 +69,10 @@
   "D003",
   "B003",
   "AF036",
-  "AT070"
+  "AT070",
+  "D114"
  ],
- "in_progress": "D114",
+ "in_progress": null,
  "flagged": {
   "E012": "Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages",
   "D003": "Source-checked and validator passed. Independent advisor launch failed because platform credits were exhausted; supervisor independent QC still requested.",
@@ -82,10 +83,10 @@
   "A065": "Reopened for QC: QC correction: wine quote drops source parenthesis",
   "SE066": "Reopened for QC: QC correction: outcomes not established by Vygotsky source",
   "P038": "Reopened for QC: QC correction: inference and mechanical claim beyond James source",
-  "D114": "Reopened for QC: Replace quote scaffold and self-erasing workplace example with source-bounded noncontention; verify chapters8,22,66 and add precise source quote"
+  "D114": "Replaced quotation scaffolding and self-erasing example; DDJ8/22/66 and Ryckman1994 opened, precise Legge quote retained. Validator passed; independent advisor unavailable, supervisor QC requested."
  },
  "missing_concepts": [],
- "sources_checked": 105,
- "updated": "2026-10-22T12:38:36+00:00",
+ "sources_checked": 107,
+ "updated": "2026-10-22T12:39:51+00:00",
  "band_done": false
 }

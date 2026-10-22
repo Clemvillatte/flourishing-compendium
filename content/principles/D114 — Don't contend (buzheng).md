@@ -12,29 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 114** — Don't contend (buzheng)
 
-Chapters 22 and 66 of the Daodejing use almost the same line about the sage and rivals, and chapter 8 gives the image behind it. The Chinese term in the title, buzheng, means not striving or not contending.
+Chapter 8 of the Daodejing pictures water benefiting things while occupying a low place. Chapter 22 connects the sage's lack of contention with freedom from self-display, boasting and self-satisfaction. ([James Legge's translation, chapters 8 and 22](https://www.sacred-texts.com/tao/taote.htm))
 
-> "It is because he is thus free from striving that therefore no one in the world is able to strive with him."
-> — James Legge, trans., The Tao Teh King, ch. 22.2
+Chapter 66 carries the image into leadership: rivers and seas receive the streams because they lie below them, and the ruler is asked to put himself below others in speech. ([Daodejing 66](https://www.sacred-texts.com/tao/taote.htm)) The practical reading offered here is to contribute without making every exchange a contest over who stands highest.
 
-> "Because he does not strive, no one finds it possible to strive with him."
-> — Legge, ch. 66.3
+That leaves room for disagreement, fair credit and firm boundaries. Withholding your needs to make yourself harmless is a different proposal. Neither these images nor the modern application establishes that modest conduct will stop others behaving competitively.
 
-### How the text gets there
+**Plain words** Stand up for what matters without turning every disagreement into a struggle for rank. You can make a clear contribution without needing someone else to lose face.
 
-Chapter 8 starts with water, which benefits "all things" by "occupying, without striving (to the contrary), the low place which all men dislike", and ends: "when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him" (8.1, 8.3).
+*For example:* In a tense meeting, you could name your contribution accurately, acknowledge a colleague's help and return to the decision at hand. Afterwards, check whether this clarified the work; if credit or responsibilities remain unfair, address them directly.
 
-Chapter 66 gives the mechanism for a ruler. Rivers and seas receive the streams because of "their skill in being lower than they", and the sage "puts himself by his words below them". Chapter 22 ties it to humility: he is "free from self-display ... self-assertion ... self-boasting ... self-complacency".
+## Related concepts
 
-### A caution
-
-The compendium's gloss, "win by not entering races whose prize is ruin", goes beyond the text. In the text, not striving is mostly a matter of posture, being low and unassertive, not a way to pick which contests to join. Read as a tactic, it risks becoming striving by another route.
-
-(DDJ 8, 22, 66.)
-
-**Plain words** The text claims that if you are not pushing to be ahead, you give other people little to push against. Whether that works as a rule of thumb for modern work and life is the open question. The chapters describe a sage, and in ch. 66 a ruler, not a worker or an entrepreneur.
-
-*For example:* Imagine a colleague who never claims credit in meetings. The text predicts few will bother to compete with them. Real workplaces may well behave otherwise, so treat this as the text's claim, not a result.
+- [[Wu wei]]: acting without unnecessary forcing.
+- [[Dao]]: the wider teaching behind the images.
+- [[Hypercompetitiveness]]: a psychological comparison concerning the need to win.
 
 ## Stories
 
@@ -60,6 +52,14 @@ The compendium's gloss, "win by not entering races whose prize is ruin", goes be
 
 - **[[Non-retaliation|Non-retaliation]]** (Marcus Aurelius, Meditations VII)
 - **[[The meek|The meek]]** (Gospel of Matthew)
+
+## Sources
+
+### Primary source (verbatim)
+
+> "Because he does not strive, no one finds it possible to strive with him."
+>
+> Daodejing 66, closing sentence; translated by James Legge, The Tao Teh King (1891). [Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm). Chapters 8 and 22 supply the companion images discussed above.
 
 <!-- fc: reflections
 What race are you currently in whose prize is ruin? What would not entering look like?
