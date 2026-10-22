@@ -29,7 +29,8 @@
   "Behavioral self-regulation theory",
   "Being-at-home",
   "Boundary situations",
-  "Challenge appraisals"
+  "Challenge appraisals",
+  "Catharsis"
  ],
  "in_progress": null,
  "flagged": {
@@ -39,6 +40,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:34:13+00:00",
+ "updated": "2026-10-22T14:34:45+00:00",
  "band_done": false
 }
