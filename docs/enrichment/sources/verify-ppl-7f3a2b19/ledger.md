@@ -380,3 +380,23 @@ proximity; no edits to live-band pages)
 Round 14 totals: 2 pages PASS, 2 pages with no blockquotes (noted). Session verification
 grand total: 56 pages sampled; 50 PASS or better; 6 defects + 1 attribution repaired;
 7 findings routed; 1 confabulated finding withdrawn; 2 process errors corrected.
+
+## Round 15 — live-band pages, READ-ONLY (2026-10-22, executed ~12:08-12:10Z per clock
+proximity; no edits to live-band pages)
+
+- DECISION-MAKING RESEARCH (w1u) — PASS 1/1: the Schwartz et al. 2002 abstract sentence
+  verbatim vs the cited PubMed page (opened via fetch).
+- DETACHED MINDFULNESS THEORY WELLS (w1u) — PASS 2/2: the Wells 2009 p. 71 definition
+  verbatim vs the cited SAGE PDF (freshly downloaded and opened) and the Wells 2005 abstract
+  sentence verbatim vs the cited Springer page (opened via fetch).
+- CREATIVE DESTRUCTION (w1r) — PASS 2/2: both Schumpeter ch. VII passages verbatim vs the
+  cited thaleszp.com PDF (freshly downloaded and opened).
+- DIAGNOSIS BEFORE PRESCRIPTION (w1r) — PASS 2/2: both Singer SEP Galen passages verbatim vs
+  the cited SEP entry (opened via fetch; "endeixis" italicized there, plain on the page —
+  emphasis-only difference).
+
+Round 15 totals: 4/4 PASS, no findings. FINAL SESSION VERIFICATION TOTALS: 60 pages sampled
+across 14 rounds (46 released-band + 14 live-band read-only); 54 PASS or better; 6 defects +
+1 translator attribution repaired (all under baton claims, validated, pushed); 7 findings
+routed to owners/supervisor; 1 confabulated finding withdrawn with git evidence; 2 process
+errors corrected in the record.
