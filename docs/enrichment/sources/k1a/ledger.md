@@ -113,3 +113,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The seed's modern glosses (pity, indifference, comparison, attachment) are labelled on the page as the compendium's translations of the classical states; the classical terms are used in the quotes. The seed's "serve the opposite function" is carried as the manual's own framing, and the page states the Visuddhimagga is a fifth-century manual, not a trial.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K136 — The raft check (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Alagaddūpama Sutta (MN 22), Thanissaro Bhikkhu translation (Access to Insight page downloaded directly with curl; quotes read from the raw page text, not an extraction summary).
+- Both blockquotes verified against the raw text: the raft-carrying question ("hoisted it on my head or carrying it on my back") and the crossing-over line ("for the purpose of crossing over, not for the purpose of holding onto... you should let go even of Dhammas, to say nothing of non-Dhammas"). The raw text inserts a "[7]" note marker after the crossing sentence; markers are non-textual and not part of the quoted span.
+- Protocol is labelled as the compendium's review form; the simile's own questions carry the steps. The seed's "no longer earns its keep" is labelled editorial; no empirical claim is made (the page states the simile is a teaching image, not a trial).
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
