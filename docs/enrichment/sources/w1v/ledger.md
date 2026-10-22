@@ -88,3 +88,7 @@
 - Placebo effects: Kaptchuk et al. 2008 BMJ 336:999 (Harvard DASH full text) — objective and conclusion quoted verbatim; "physiological change" formulation NOT asserted as study finding (trial measured symptom improvement); P069/P099 narrowed to listing facts.
 - Moral dilemma research: SEP Moral Dilemmas (McConnell) definition quoted verbatim; interpretation sentence replaced with advisor's narrow formulation; A052/A105 narrowed to listing facts.
 - Justice sensitivity: Schmitt et al. 2005 EJPA abstract quoted verbatim (THREE perspectives: victim, observer, perpetrator — not Wikipedia's four); "research group behind the construct" claim removed; four-perspective formulation attributed to the current encyclopedia summary, not the 2005 paper.
+
+## Perceptual learning (fast-track, 2026-10-22)
+- Source opened: Goldstone 1998 author-hosted PDF (pcl.sitehost.iu.edu) via fetch — abstract sentence and p. 586 definition quoted verbatim; four mechanisms from the abstract; differentiation detail sentence from the same abstract text.
+- Validator: ok (fast-track). Advisor QC: not due (item 16; next due item 20).
