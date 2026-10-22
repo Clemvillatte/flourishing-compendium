@@ -402,3 +402,12 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   acquaintance" (content/concepts/Knowledge by acquaintance.md), same seed line "William James,
   Radical Empiricism" and same cited principles (M021, SP084). No enrichment written to avoid
   doubling; held out of done pending supervisor disposition (merge, rename, or differentiate).
+
+- **Problem-solving's flexible strategies** (2026-10-22, worker-w1v-pplc-7a3e91c2, w1v): term-existence flag. No opened
+  source defines "problem-solving's flexible strategies"; the seed anchors it to "D'Zurilla and Nezu's problem-solving
+  research, as framework". Grounded in the real underlying construct (social problem-solving model, D'Zurilla/Nezu) at the
+  fast-track bar with verbatim quotes from the author-hosted D'Zurilla, Nezu & Maydeu-Olivares 2004 chapter
+  (https://www.ub.edu/gdne/documents/sps_chapter_in_APA_book.pdf); the unsupported "flexibility outperforms brute
+  persistence" seed claim was reduced to the source-supported contrast and the editorial label disclosed on the page.
+  Supervisor disposition requested: keep as the D'Zurilla/Nezu model carrier, or migrate its resolvable links to
+  [[Problem-solving therapy]] (a separate queued concept) and delete. Evidence trail: w1v ledger entry 68.
