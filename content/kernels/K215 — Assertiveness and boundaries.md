@@ -46,6 +46,7 @@ Not applicable: the practice is a conversation with a person, not a recording.
 
 - [[Assertiveness training]]
 - [[Nonviolent communication]]
+- [[Assertiveness research]]
 
 ## Related kernels
 

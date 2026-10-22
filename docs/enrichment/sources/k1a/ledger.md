@@ -38,3 +38,13 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The seed's aphorism ("Boundaries are not walls...") kept as the compendium's own framing, not sourced fact.
 - Guided version: exempt as an inherently interactive practice (supervisor disposition 2026-10-22); recorded here per the disposition.
 - Validator: 1 checked, 0 failed.
+
+## K223 — Meaning audit (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carriers opened this session: Sheldon et al. 2004 (Self-Concordance and Subjective Well-Being in Four Cultures, selfdeterminationtheory.org PDF, fetched) and Kreiss & Schnell 2022 (Frontiers in Psychology 13:977687, PMC, fetched).
+- The four reason questions in step 2 are quoted verbatim from the opened Sheldon et al. 2004 paper (external, introjected, identified, intrinsic reason statements). The identified-reason item is also blockquoted in Evidence with full author list and journal.
+- Kreiss & Schnell quote taken verbatim from the fetched abstract ("activities grouped under culture/music, communication, intimacy, and sports are experienced as both highly meaningful and pleasant"), with full coordinates.
+- The page states what the evidence does not test: self-concordance studies rate goals, not a month's activity load; the ESM study observes ratings for one week and changes nothing.
+- The monthly rhythm and the feed/prune close are labelled as the compendium's editorial choices, not the published method.
+- Guided version: exempt as an inherently written reflection (supervisor disposition 2026-10-22); recorded here per the disposition.
+- Validator: 1 checked, 0 failed.

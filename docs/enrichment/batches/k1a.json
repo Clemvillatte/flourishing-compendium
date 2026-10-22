@@ -44,7 +44,8 @@
   "content/kernels/K170 — Forgiveness practice.md",
   "content/kernels/K236 — Community of inquiry.md",
   "content/kernels/K144 — The chariot analysis.md",
-  "content/kernels/K215 — Assertiveness and boundaries.md"
+  "content/kernels/K215 — Assertiveness and boundaries.md",
+  "content/kernels/K223 — Meaning audit.md"
  ],
  "in_progress": null,
  "queue": [
@@ -93,5 +94,5 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T14:11:58+00:00"
+ "updated": "2026-10-22T14:13:05+00:00"
 }
