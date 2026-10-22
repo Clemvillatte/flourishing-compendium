@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 134** — Govern like cooking a small fish
 
-Chapter 60 of the Daodejing is one of the shortest chapters in the book, and the whole teaching is a single image. Legge: "Governing a great state is like cooking small fish. Let the kingdom be governed according to the Dao, and the manes of the departed will not manifest their spiritual energy" ([Daodejing 60, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The image carries the entire argument: a small fish is delicate, and the impulse to keep prodding it is precisely what destroys it.
+Chapter 60 of the Daodejing is one of the shortest chapters in the book, and its teaching is a single image. In Legge's translation, which spells the name "Tao":
 
-The chapter's second half extends the point with a claim about interference itself: it is not that the sage does nothing; it is that the not-doing is what allows the thing to do itself. "When the Dao prevails in the world, they send back their horses to draw carts... When the Dao is disregarded in the world, war-horses are bred in the suburbs" ([Daodejing 46, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The same system, under two different kinds of handling, produces two different outcomes.
+> Governing a great state is like cooking small fish. Let the kingdom be governed according to the Tao, and the manes of the departed will not manifest their spiritual energy. ([Daodejing 60.1-2, trans. Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-> "Governing a great state is like cooking small fish." (Daodejing 60, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+The usual reading of the first line is that small fish fall apart if you keep turning them, so a ruler or anyone in charge should handle the work lightly. That reading is a common gloss. Legge's text states only the comparison.
 
-**Plain words** The sourdough you keep checking and fixing comes out dense; the one you leave alone comes out perfect, and the difference is not the flour. This is the pattern the principle is about — not that attention is bad, but that interference is not attention. A great project, team or family is delicate in the same way, and the instinct to keep prodding it is exactly what breaks it. You can care without touching.
+Chapter 46 gives the same idea a contrast:
+
+> When the Tao prevails in the world, they send back their swift horses to (draw) the dung-carts. When the Tao is disregarded in the world, the war-horses breed in the border lands. ([Daodejing 46.1, trans. Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The chapters describe a system left to run and a system pushed, with different outcomes.
+
+(Daodejing 60 and 46, trans. Legge.)
+
+**Plain words** A fish you keep turning falls apart. The principle is about that pattern: attention and interference are different things. A great project, team or family is delicate in the same way, and the instinct to keep prodding it is exactly what breaks it. You can care without touching.
 
 *For example:* Two managers run the same team. One checks in daily, adjusts constantly, and cannot understand why the team never develops its own judgement. The other sets the boundary once and stops touching it; the team develops, and the results arrive without the manager's hand on the wheel. Same team; only one of them is cooking a small fish.
 
