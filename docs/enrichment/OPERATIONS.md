@@ -558,3 +558,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   (random finished-band draw, w1l) — the Dewey How We Think definition checked against
   the opened Gutenberg #37423 carrier (the page's own citation): verbatim. Sample
   PASS. Twenty-six samples this session, all PASS.
+- Supervisor verification sample 27 (2026-10-22 ~15:49 UTC): Social baseline (random
+  finished-band draw, w1l) — all three Beckes & Coan 2011 quotes checked against the
+  opened squarespace PDF carrier (the page's own citation): all verbatim. Sample
+  PASS. Twenty-seven samples this session, all PASS.
