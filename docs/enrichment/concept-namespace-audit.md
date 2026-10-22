@@ -411,3 +411,11 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   persistence" seed claim was reduced to the source-supported contrast and the editorial label disclosed on the page.
   Supervisor disposition requested: keep as the D'Zurilla/Nezu model carrier, or migrate its resolvable links to
   [[Problem-solving therapy]] (a separate queued concept) and delete. Evidence trail: w1v ledger entry 68.
+
+- **Purpose-linked practice** (2026-10-22, worker-w1v-pplc-7a3e91c2, w1v): term-existence flag. No opened source defines
+  "purpose-linked practice"; the seed anchors it to "the effects of self-transcendent goals on well-being". Grounded in the
+  real construct (self-transcendent purpose, Yeager et al. 2014, author-hosted Stanford PDF,
+  https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf) at the fast-track bar with verbatim quotes; the seed's
+  well-being claim was reduced to the source-supported persistence/self-regulation/GPA effects and the editorial label
+  disclosed on the page. Supervisor disposition requested: keep as the self-transcendent-purpose carrier, or migrate its
+  resolvable links to [[Purpose]]. Evidence trail: w1v ledger entry 70.
