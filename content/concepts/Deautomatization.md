@@ -15,7 +15,13 @@ The APA Dictionary gives the everyday version: a skill becomes "routine" and req
 
 > "De-automatization is the undoing of automatization, presumably by reinvestment of actions and percepts with attention." — Deikman, "Experimental Meditation" ([author's site](https://www.deikman.com/experimental.html))
 
-In meditation the percept receives intense attention while abstract categorization is set aside, so "the active intellectual style is replaced by a receptive perceptual mode" ([Deikman 1966, author's site](https://www.deikman.com/deautomat.html)). The result Deikman describes is a temporary freshness: colors "may appear to have gained (temporarily) a new richness and vividness so that the natural world is seen in a 'fresh' state" ([Deikman, Implications, author's site](https://www.deikman.com/implications.html)).
+In meditation the percept receives intense attention while abstract categorization is set aside:
+
+> "the active intellectual style is replaced by a receptive perceptual mode." — Deikman 1966, "De-automatization and the Mystic Experience" ([author's site](https://www.deikman.com/deautomat.html))
+
+The result Deikman describes is a temporary freshness:
+
+> "colors may appear to have gained (temporarily) a new richness and vividness so that the natural world is seen in a 'fresh' state." — Deikman, "Bimodal Consciousness" / Implications page ([author's site](https://www.deikman.com/implications.html))
 
 He is careful about what this is:
 
