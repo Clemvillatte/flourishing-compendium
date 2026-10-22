@@ -79,3 +79,22 @@ Fast-track enrichment.
   noble, under penalties and honours) and "Brave, not on
   compulsion, but from a sense of honour."
 - Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
+
+## 2026-10-22 (UTC): Authentic discourse (worker-pplc-523749d5)
+
+Fast-track enrichment.
+
+- Item: content/concepts/Authentic discourse.md (seed: "Heidegger,
+  Being and Time, §34").
+- Opened source: Mark Wrathall, "Martin Heidegger", Stanford
+  Encyclopedia of Philosophy, first published January 31, 2025
+  https://plato.stanford.edu/entries/heidegger/ (the Being and Time
+  discourse section; the entry also contains the SZ citations).
+- Verbatim blockquote: the SEP passage on primordial discourse
+  degrading into idle talk, including the inner verbatim quote of
+  SZ 169 ("Idle talk is the possibility of understanding everything
+  without previously making the thing one's own").
+- Synthesis grounded in the same opened passage: discourse as
+  articulation of intelligibility, communication as letting another
+  see with us (SZ 155 quoted in the entry), language derivative.
+- Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
