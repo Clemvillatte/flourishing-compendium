@@ -239,3 +239,28 @@ Round 6 totals: 4/4 selected-quotation PASS. Cumulative w1ac sample: 17 pages ch
 
 Round 7 totals: 3 pages PASS, 1 finding routed. Cumulative w1ac sample: 21 pages checked
 (17 PASS, 1 PASS-with-unresolved-comma-variance, 1 defect+attribution repaired, 2 routed).
+
+## Round 8 — w1ac earlier pages (2026-10-22, executed ~12:01-12:03Z per clock proximity)
+
+- PROJECTION (ENTWURF) — DEFECT FOUND AND REPAIRED (under the w1ac baton): the p. 183
+  quote verbatim; the p. 185 quote was STITCHED — two verbatim fragments joined with no
+  ellipsis, silently omitting intervening source text (the source's "But Dasein is never
+  more than it factically is..." sentence and more stand between "supposing that one were
+  able to do so." and "On the contrary, any Dasein has..."). Repaired: bracketed ellipsis
+  "[...]" inserted at the splice (fast-track validation 1 checked 0 failed). Both fragments
+  individually verbatim vs the cited beyng.com pages (opened).
+- PROJECT (PROJET) — PASS 2/2: both Sartre passages verbatim vs the cited Wikiquote page
+  (opened via fetch; "the Ens causa sui" italicized there, plain on the page — emphasis-only
+  difference).
+- POIESIS AS DISCLOSING — PASS 1/1: the Heidegger Greek-temple passage verbatim vs the
+  cited beyng.com GA5 page (opened).
+- PRE-THEORETICAL EXPERIENCE — ROUTED, CARRIER UNREACHABLE: the cited
+  topologicalmedialab.net PDF (Merleau-Ponty, Landes trans., body excerpts) fails to connect
+  (curl http 000). The three quoted fragments could not be re-verified against the cited
+  carrier this pass. Routed for the w1ac owner/supervisor: re-point to a reachable carrier
+  of the same Landes text and verify the fragments.
+
+Round 8 totals: 2 pages PASS, 1 defect repaired, 1 routed. Cumulative w1ac sample: 25 pages
+checked (19 PASS, 1 PASS-with-unresolved-comma-variance, 2 defects+1 attribution repaired,
+3 routed: Relational Frame Theory interstitial, Pre-understanding p. 192 dropped glosses,
+Pre-theoretical experience dead carrier).
