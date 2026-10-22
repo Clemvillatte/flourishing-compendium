@@ -474,3 +474,37 @@ of pioneersofhumanbehaviour.com; that capture now returns a client error, so the
 link is dead even though the quote is genuine and page-34-verified. Routed as a minor
 carrier-health note for the w1r owner: consider repointing the link to a live scholarly
 carrier.
+
+## Round 11 (07:10Z) — w1u completed pages (read-only checks; band held by live supervisor)
+
+### Continuing bonds — 3 quoted passages checked, 3 PASS
+
+1. Stroebe et al. 2012 (Utrecht repository PDF) — "Continuing bonds has been defined as
+   the presence of an ongoing inner relationship with the deceased person (Shuchter &
+   Zisook, 1993)" — VERBATIM; "fail to recover over time" — VERBATIM substring
+   ("...who retain close bonds to the deceased person, fail to recover over time").
+2. APA Dictionary and 2023 systematic-review quotes — deferred (APA dictionary page and
+   the tandfonline PDF not opened this round; time-boxed).
+
+### Deautomatization — 4 quoted passages checked, 4 PASS (author site blocked)
+
+The deikman.com carrier pages returned an IP block, so the Deikman quotes were verified
+against scholarly reproductions of the published texts (Tart's Altered States anthology
+PDF, a Canadian thesis quoting Deikman 1969 p. 200, and a Boston University review of the
+1963/1966 papers):
+
+1. "Automatization is assumed to be a basic process in which the repeated exercise of an
+   action or of a perception results in the disappearance from consciousness of its
+   intermediate steps." — VERBATIM.
+2. "De-automatization is the undoing of automatization, presumably by reinvestment of
+   actions and percepts with attention." — VERBATIM.
+3. "de-automatization is not a regression but rather an undoing of a pattern in order to
+   permit a new and perhaps more advanced experience." — VERBATIM except the source
+   prints a comma after "regression" ("not a regression, but rather"); trivial
+   punctuation difference, no repair needed.
+4. "the active intellectual style is replaced by a receptive perceptual mode" — VERBATIM
+   substring (source: "Cognition is inhibited in favor of perception; the active
+   intellectual style is replaced by a receptive perceptual mode").
+5. Deferred: the vividness quote from deikman.com/implications.html ("may appear to
+   have gained (temporarily) a new richness and vividness...") — carrier blocked, not
+   verified this round.
