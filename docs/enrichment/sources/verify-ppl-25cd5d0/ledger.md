@@ -989,3 +989,19 @@ opening sentence and the concluding sentence both appear word-for-word, as do th
 effect sizes / 79 studies figures and the definitions of the three measures (variability as
 within-person standard deviation, instability as magnitude of consecutive changes, inertia
 as autocorrelation). No routed findings.
+
+## Round 43 (2026-10-22; inspection ~12:46-12:47Z; raw-text method with carrier fallbacks)
+
+### Object relations theory (w1s, done)
+
+4 quoted passages checked, 4 PASS —
+- Gomez blockquote (object-seeking libido) and the "loyalty to her internal objects" fragment:
+  verified verbatim against a raw download of the cited TCF chapter-3 PDF (the S3 carrier is
+  robots-blocked to the fetcher; direct download and local extraction worked).
+- Mitchell's two quotes ("a natural, inevitable and continual accompaniment of all
+  experience" for Klein; "internal objects are neither primary nor inevitable
+  (theoretically)..." for Fairbairn): verified verbatim against an unprompted raw fetch of
+  the cited W.A. White Institute PDF.
+- Sutherland's Winnicott sentence: verified via a search-engine snippet of the cited PubMed
+  record (7009698), word-for-word.
+No routed findings.
