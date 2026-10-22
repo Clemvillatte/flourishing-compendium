@@ -20,7 +20,7 @@ Aristotle compares this to how one "takes account" of a father or friends, and s
 
 He closes his account of temperance in III.12 with the same picture: "as the child should live according to the direction of his tutor, so the appetitive element should live according to rational principle. Hence the appetitive element in a temperate man should harmonize with the rational principle; for the noble is the mark at which both aim" ([Book III, Ross](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). He adds that "the exercise of appetite increases its innate force," which is why appetites "should be moderate and few."
 
-The claim that crushing desire leaves it "stronger underground" is not in Aristotle and has been dropped. The De Anima reference and the Plato, Deci and Ryan and dual-process parallels were not opened. The budget-and-coffee example is the entry's own illustration.
+The claim that crushing desire leaves it "stronger underground" is not in Aristotle and has been dropped. The De Anima reference and the Plato, Deci and Ryan and dual-process parallels are cited at second hand. The budget-and-coffee example is the entry's own illustration.
 
 **Plain words** Aristotle does not treat reason and desire as enemies. Desire can listen to reason, and in a well-formed person it wants what reason recommends. That takes training over time, because desire is shaped by what you repeatedly do.
 

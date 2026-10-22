@@ -18,7 +18,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 
 The abstract adds three points that matter for the practice. The finding "appears not to result from either participant selection or publication biases." Contact under Allport's "optimal" conditions "typically leads to even greater reduction in prejudice." And yet "these conditions are not essential for prejudice reduction": the authors conclude that they work best as "an interrelated bundle rather than as independent factors." So the entry's line that the conditions matter is true in degree, but contact helped without them as well.
 
-The authors also call for work on "negative factors that prevent intergroup contact from diminishing prejudice." The claim that contact is the most reliable prejudice-reduction tool available is not in the abstract and is not supported here. The entry's cited work on the limits of contact (Dixon et al.) was not opened.
+The authors also call for work on "negative factors that prevent intergroup contact from diminishing prejudice." The claim that contact is the most reliable prejudice-reduction tool available is not in the abstract and is not supported here. The entry's cited work on the limits of contact (Dixon et al.) is cited at second hand.
 
 **Plain words** Working alongside people from another group usually lowers prejudice, and it tends to work better when the contact is cooperative, on equal footing and backed by the institution. That is a pattern across studies, and some contact helps even when those conditions are only partly met.
 

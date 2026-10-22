@@ -35,7 +35,7 @@ The house example is doing the work in the Physics passage. The steps would come
 ## Sources
 
 - [Aristotle, Physics 199a8-20 and Generation of Animals 735a2-4, quoted verbatim in an opened academic paper on art and nature in Aristotle](https://pdfs.semanticscholar.org/76d1/7b1a27ea0165a26ec023fd6fd40ee2794acf.pdf) — both quotes, with the paper's citations.
-- Aristotle, Generation of Animals I.1 (inherited citation; this formulation was not verified there this session)
+- Aristotle, Generation of Animals I.1 (cited at second hand; this formulation is not verified there)
 
 ## Cited in philosophy parallels
 

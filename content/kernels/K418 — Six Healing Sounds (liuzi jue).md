@@ -14,7 +14,7 @@ The liuzi jue (六子訣, as Kohn prints it), the Six Healing Sounds, is a set o
 
 ### Protocol
 
-The sources are layered: Kohn's historical descriptions, the modern form as studies describe it, one general framework; each passage cites its carrier; the Association's manual was not opened.
+The sources are layered: Kohn's historical descriptions, the modern form as studies describe it, one general framework; each passage cites its carrier; the Association's manual, cited at second hand.
 
 #### Historical breathing descriptions
 

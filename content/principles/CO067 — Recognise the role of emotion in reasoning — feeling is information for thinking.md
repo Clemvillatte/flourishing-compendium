@@ -27,7 +27,7 @@ You feel uneasy while viewing a house. Look for a cause: a damp smell, a crooked
 ## Sources
 
 - [Bechara, Damasio, Tranel and Damasio, Deciding advantageously before knowing the advantageous strategy, Science 275 (1997), 1293-1295, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/9036851/): abstract only
-- [Lucas and Lawless, Does life seem better on a sunny day? Journal of Personality and Social Psychology 104(5) (2013), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3695376/): abstract, and the description of Schwarz and Clore (1983) in the introduction. The 1983 paper itself was not opened.
+- [Lucas and Lawless, Does life seem better on a sunny day? Journal of Personality and Social Psychology 104(5) (2013), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3695376/): abstract, and the description of Schwarz and Clore (1983) in the introduction. The 1983 paper itself is cited at second hand.
 - [Yap et al., The effect of mood on judgments of subjective well-being: nine tests of the judgment model, JPSP 113 (2017), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/27936835/): abstract only
 
 ## Psychology parallels

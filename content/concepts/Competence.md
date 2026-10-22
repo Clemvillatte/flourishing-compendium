@@ -34,7 +34,7 @@ By way of illustration: a pianist drilled by a controlling teacher may play accu
 
 - [[Achievement goal theory (Dweck, Elliot)]] — the goal framework whose two goal classes are both defined by competence
 - [[Autonomous motivation]] — CET's condition that competence needs autonomy to enhance intrinsic motivation
-- [[Self-efficacy]] — Bandura's belief-based account of felt effectiveness (not opened here; inherited context)
+- [[Self-efficacy]] — Bandura's belief-based account of felt effectiveness (cited at second hand)
 - [[Relatedness]] — the companion need, connected to how values are internalized
 
 ## Sources

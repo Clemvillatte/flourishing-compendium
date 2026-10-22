@@ -41,4 +41,4 @@ A man sits in a team meeting where a colleague is being talked over, and stays q
 ## Sources
 
 - [Bhagavad Gita 3.4 to 3.8 (Swami Mukundananda translation), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/3/verse/5/)
-- The inherited Martell et al. (2010) and Aristotle parallels were not opened and no claim here rests on them.
+- The inherited Martell et al. (2010) and Aristotle parallels are cited at second hand and no claim here rests on them.

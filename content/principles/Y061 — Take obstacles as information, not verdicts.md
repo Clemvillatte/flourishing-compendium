@@ -41,4 +41,4 @@ A man keeps a short note for a month: day, time, what he was doing before sittin
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 1.30 to 1.39, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
-- The inherited self-monitoring (Michie et al.) and Marcus Aurelius V.20 parallels were not opened and no claim here rests on them.
+- The inherited self-monitoring (Michie et al.) and Marcus Aurelius V.20 parallels are cited at second hand and no claim here rests on them.

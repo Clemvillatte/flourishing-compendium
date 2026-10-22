@@ -35,7 +35,7 @@ Runco and Acar write that divergent thinking "does not guarantee actual creative
 - [Beaty and Silvia (2012), Why do ideas get more creative across time?](https://libres.uncg.edu/ir/uncg/f/P_Silvia_Why_2012.pdf)
 - [Scott, Leritz and Mumford (2004), The effectiveness of creativity training: a quantitative review, Creativity Research Journal 16, 361-388](http://www.psychologie.uni-mannheim.de/cip/tut/seminare_wittmann/meta_fribourg/sources/Scott_etal_2004_Effectiveness_of_creativity_training.pdf)
 - [Runco and Acar (2012), Divergent thinking as an indicator of creative potential, Creativity Research Journal](https://www.tandfonline.com/doi/abs/10.1080/10400419.2012.652929)
-- Guilford (1967) and Torrance (1974): not opened.
+- Guilford (1967) and Torrance (1974): cited at second hand.
 
 ## Psychology parallels
 

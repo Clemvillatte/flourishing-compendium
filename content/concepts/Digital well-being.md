@@ -46,4 +46,4 @@ Within this field, the Verduyn review's distinction separates two ways of using 
 
 - [Burr, Taddeo and Floridi, "The Ethics of Digital Well-Being: A Thematic Review", Science and Engineering Ethics, 2020, PMC7417400](https://pmc.ncbi.nlm.nih.gov/articles/PMC7417400/) — definition of digital well-being
 
-- [Calvin, Chen and Selkie, "A longitudinal study of directly observed social media posting", Computers in Human Behavior Reports, 2025, PMC13341170](https://pmc.ncbi.nlm.nih.gov/articles/PMC13341170/) — Verduyn et al. (2017, p. 281) passive-use definition verbatim and the active/passive model summary; the Wiley original was not opened in this session
+- [Calvin, Chen and Selkie, "A longitudinal study of directly observed social media posting", Computers in Human Behavior Reports, 2025, PMC13341170](https://pmc.ncbi.nlm.nih.gov/articles/PMC13341170/) — Verduyn et al. (2017, p. 281) passive-use definition verbatim and the active/passive model summary; the Wiley original is cited at second hand

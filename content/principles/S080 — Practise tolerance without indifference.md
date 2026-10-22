@@ -20,7 +20,7 @@ The line pairs forbearance with an effort to change the other person, which is c
 
 William James offers a limit from outside Stoicism. In "On a Certain Blindness" he writes: "The first thing to learn in intercourse with others is non-interference with their own peculiar ways of being happy, provided those ways do not assume to interfere by violence with ours" ([Talks to Teachers, Project Gutenberg #16287](https://www.gutenberg.org/cache/epub/16287/pg16287.txt), opened). The label "Tolerance without indifference" is the compendium's, not James's.
 
-The Tyler (2006) and Hayes et al. (2011) references and Bernstein were not opened. A paper by Tyler on legitimacy exists in the Annual Review of Psychology, but its abstract does not mention tolerance, so it was not used here.
+The Tyler (2006) and Hayes et al. (2011) references and Bernstein are cited at second hand. A paper by Tyler on legitimacy exists in the Annual Review of Psychology, but its abstract does not mention tolerance, so it was not used here.
 
 **Plain words** Marcus says people exist for one another, so teach them or put up with them. He grounds patience with wrongdoers in the idea that they act from ignorance and cannot damage his own character. Acting against injustice to others is a reasonable extension that the passages opened do not state.
 

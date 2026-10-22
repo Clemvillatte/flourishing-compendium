@@ -18,7 +18,7 @@ Every object you own owns a slice of your attention in return. A closet is a boa
 
 > "Health is the greatest gain, contentment the greatest wealth." (Dhammapada 204, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html))
 
-**Plain words** Moving apartments reveals the actual inventory: half the boxes were not opened since the last move. The load was mostly weight, not wealth. This is the accounting error the principle is about — the objects were counted as assets and never audited for their attention cost. Owning little is not a moral position about materialism; it is the choice to keep the tax bill low enough that you can still think.
+**Plain words** Moving apartments reveals the actual inventory: half the boxes were cited at second hand since the last move. The load was mostly weight, not wealth. This is the accounting error the principle is about — the objects were counted as assets and never audited for their attention cost. Owning little is not a moral position about materialism; it is the choice to keep the tax bill low enough that you can still think.
 
 *For example:* Two people have the same income. One has filled the apartment with things that each need a small decision, a small repair and a small worry; the evenings are spent managing the inventory. The other owns less, and the same evenings are spent on things that are not inventory. Same income; very different attention budgets.
 

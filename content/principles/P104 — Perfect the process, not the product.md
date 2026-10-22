@@ -28,7 +28,7 @@ Consider the athlete who medals once and keeps training for a decade. On the pro
 
 ## Sources
 
-- [Rescher, "Process Philosophy", Stanford Encyclopedia of Philosophy, Spring 2009 archive](https://plato.stanford.edu/archives/spr2009/entries/process-philosophy/) — the archived SEP essay, authored by Rescher; his Process Metaphysics (1996) was not opened (borrow-only on Internet Archive)
+- [Rescher, "Process Philosophy", Stanford Encyclopedia of Philosophy, Spring 2009 archive](https://plato.stanford.edu/archives/spr2009/entries/process-philosophy/) — the archived SEP essay, authored by Rescher; his Process Metaphysics (1996) was cited at second hand (borrow-only on Internet Archive)
 
 ## Psychology parallels
 

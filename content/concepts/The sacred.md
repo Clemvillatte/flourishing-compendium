@@ -25,7 +25,7 @@ In Wikipedia's account of Durkheim's theory, the sacred represented the interest
 
 ## Facets
 
-- in nature — unexamined seed grouping (Leopold, A Sand County Almanac; Stanner, White Man Got No Dreaming — not opened)
+- in nature — unexamined grouping (Leopold, A Sand County Almanac; Stanner, White Man Got No Dreaming — cited at second hand)
 
 ## Related concepts
 
@@ -34,7 +34,7 @@ In Wikipedia's account of Durkheim's theory, the sacred represented the interest
 ## Sources
 
 - [Wikipedia, "Sacred"](https://en.wikipedia.org/wiki/Sacred) — the Durkheim definition with its citation, opened and quoted verbatim
-- Durkheim, The Elementary Forms of Religious Life — original work not opened; quotation accessed through Wikipedia
+- Durkheim, The Elementary Forms of Religious Life — original work cited at second hand; quotation accessed through Wikipedia
 - Marcel, The Mystery of Being — original reference
 - Otto, The Idea of the Holy — original reference
 - Leopold, A Sand County Almanac — original reference

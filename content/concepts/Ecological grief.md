@@ -45,4 +45,4 @@ The same review distinguishes it from its neighbours: solastalgia "closely overl
 
 - Cunsolo and Ellis, 2018
 
-- [Comtesse et al., "Ecological Grief as a Response to Environmental Change", Int J Environ Res Public Health 18(2):734, 2021, PMC7830022](https://pmc.ncbi.nlm.nih.gov/articles/PMC7830022/) — the Cunsolo and Ellis (2018, p. 275) definition verbatim and the solastalgia/eco-anxiety distinctions; the Nature Climate Change original and Mourning Nature were not opened in this session
+- [Comtesse et al., "Ecological Grief as a Response to Environmental Change", Int J Environ Res Public Health 18(2):734, 2021, PMC7830022](https://pmc.ncbi.nlm.nih.gov/articles/PMC7830022/) — the Cunsolo and Ellis (2018, p. 275) definition verbatim and the solastalgia/eco-anxiety distinctions; the Nature Climate Change original and Mourning Nature are cited at second hand

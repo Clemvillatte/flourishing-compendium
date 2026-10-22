@@ -25,7 +25,7 @@ Measurement is contested. A validation study with Indian students retained a 40-
 
 ### Note on the original entry reference
 
-The earlier line cited Flavell (1979) and Nelson (1996) without text. I opened Flavell's article for the page on [[Metacognition]]. Nelson (1996) was not opened.
+The earlier line cited Flavell (1979) and Nelson (1996) without text. I opened Flavell's article for the page on [[Metacognition]]. Nelson (1996) is cited at second hand.
 
 ## Related concepts
 
@@ -39,7 +39,7 @@ The earlier line cited Flavell (1979) and Nelson (1996) without text. I opened F
 - [Metacognitive awareness and academic achievement in college students (ERIC PDF)](https://files.eric.ed.gov/fulltext/EJ854832.pdf)
 - [Validation of Metacognitive Awareness Inventory (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8552251/)
 - [Can metacognition predict your success in solving problems? (arXiv)](https://arxiv.org/html/2410.06267v1)
-- Flavell, 1979 and Nelson, 1996: original references; Flavell is opened on the Metacognition page, Nelson was not opened.
+- Flavell, 1979 and Nelson, 1996: original references; Flavell is opened on the Metacognition page, Nelson is cited at second hand.
 
 ## Cited in psychology parallels
 

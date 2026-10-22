@@ -41,4 +41,4 @@ A trainee nurse recalls her ward sister's slow, level voice during a bad night s
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 1.37 and 1.38 with the Tika, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
-- The inherited Bandura (1997) and Analects 4.17 parallels were not opened (ctext.org was unavailable) and no claim here rests on them.
+- The inherited Bandura (1997) and Analects 4.17 parallels were cited at second hand (ctext.org was unavailable) and no claim here rests on them.

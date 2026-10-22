@@ -36,7 +36,7 @@ Kohn describes an early breath-cultivation pattern: a deep breath is collected i
 
 ### Evidence
 
-No clinical trial of the microcosmic orbit appears in the opened sources. Kohn presents the orbit as traditional practice; the modern versions she names (Mantak Chia and others) were not opened. The Qi Encyclopedia summary is a practice description, not clinical evidence; the protocol above is an abbreviated account of it and complete instructional provenance remains pending. The long-life claims are the tradition's own framing. What is documented: a historical practitioner, Jiang Weiqiao (Master Yinshi), "moved from here into the circulation of qi in inner alchemical fashion, establishing the microcosmic orbit" ([Kohn, Sitting in Oblivion](https://drive.google.com/uc?export=download&id=1RO92-oZ64aGydm5IomYUC_XIqLnaN3Gc), printed p. 13, note 13).
+No clinical trial of the microcosmic orbit appears in the sources. Kohn presents the orbit as traditional practice; the modern versions she names (Mantak Chia and others) are cited at second hand. The Qi Encyclopedia summary is a practice description, not clinical evidence; the protocol above is an abbreviated account of it and complete instructional provenance remains pending. The long-life claims are the tradition's own framing. What is documented: a historical practitioner, Jiang Weiqiao (Master Yinshi), "moved from here into the circulation of qi in inner alchemical fashion, establishing the microcosmic orbit" ([Kohn, Sitting in Oblivion](https://drive.google.com/uc?export=download&id=1RO92-oZ64aGydm5IomYUC_XIqLnaN3Gc), printed p. 13, note 13).
 
 ## Related principles
 

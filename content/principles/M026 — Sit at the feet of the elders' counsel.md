@@ -22,7 +22,7 @@ The psychology is mixed. In [Grossmann et al. 2010](https://www.socialpsychology
 
 ### Scope
 
-Book VI itself was not opened. The original entry's "unguarded tenderness and unflinching directness" is not tested here.
+Book VI itself is cited at second hand. The original entry's "unguarded tenderness and unflinching directness" is not tested here.
 
 **Plain words**
 Nahua elders gave the young counsel at important moments and asked them to keep it and weigh it. Age does not guarantee wisdom, so choose elders for what they have lived through and ask them a specific question.

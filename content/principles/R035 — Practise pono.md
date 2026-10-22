@@ -18,7 +18,7 @@ Te Aka Māori Dictionary gives pono as an adjective meaning "be true, valid, hon
 
 ### What I could confirm
 
-The dictionary supports the plain sense of the principle: truth, honesty, genuineness. It does not describe how pono operates in tikanga, for instance its link with tika (what is correct) or its role in leadership. The sources listed in the locator (Mead 2003; Durie 1994) were not opened, so this page makes no claims about them.
+The dictionary supports the plain sense of the principle: truth, honesty, genuineness. It does not describe how pono operates in tikanga, for instance its link with tika (what is correct) or its role in leadership. The sources listed in the locator (Mead 2003; Durie 1994) were cited at second hand, so this page makes no claims about them.
 
 **Plain words**
 Say what is so, and do what you said you would. Honesty here is about being reliable, not about being blunt.

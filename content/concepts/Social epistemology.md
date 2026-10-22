@@ -30,7 +30,7 @@ The entry's working topics are testimony (the paradigm case of relying on others
 
 ## Sources
 
-- [O'Connor, Goldberg & Goldman, "Social Epistemology", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epistemology-social/) — opened this session; carries the definition, the Goldman 1999 veritistic account, the Kitcher 1990 credit argument, the doctrinal paradox example, and the systems question
+- [O'Connor, Goldberg & Goldman, "Social Epistemology", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epistemology-social/) — carries the definition, the Goldman 1999 veritistic account, the Kitcher 1990 credit argument, the doctrinal paradox example, and the systems question
 
 ## Cited in psychology parallels
 

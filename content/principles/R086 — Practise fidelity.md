@@ -18,7 +18,7 @@ The Stanford Encyclopedia of Philosophy reads Marcel's fidelity as more than con
 
 ### Fidelity is to another person
 
-The encyclopedia's notes add that fulfilling obligations out of duty is "mere 'constancy'" and, "lacking presence, cannot rise to the level of 'fidelity'". It also says that "fidelity always implies otherness" and that "it would seem improper to speak of fidelity to oneself in the sense that Marcel uses the term" ([SEP notes on Marcel](https://plato.stanford.edu/archives/fall2025/entries/marcel/notes.html)). The principle's phrase "to your deepest self" therefore goes beyond what is said here. Marcel's own texts (Being and Having; The Mystery of Being) were not opened.
+The encyclopedia's notes add that fulfilling obligations out of duty is "mere 'constancy'" and, "lacking presence, cannot rise to the level of 'fidelity'". It also says that "fidelity always implies otherness" and that "it would seem improper to speak of fidelity to oneself in the sense that Marcel uses the term" ([SEP notes on Marcel](https://plato.stanford.edu/archives/fall2025/entries/marcel/notes.html)). The principle's phrase "to your deepest self" therefore goes beyond what is said here. Marcel's own texts (Being and Having; The Mystery of Being) are cited at second hand.
 
 **Plain words**
 Keeping a promise is not enough. Fidelity means staying present to the person, and letting the commitment change you so that you can still meet them as they are now.

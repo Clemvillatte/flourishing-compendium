@@ -20,7 +20,7 @@ The Corollary draws the contrast: "Under desire which springs from reason, we se
 
 The entry's first sentence, that the free person avoids danger but not from fear, fits Proposition 69: "The virtue of a free man is seen to be as great, when it declines dangers, as when it overcomes them." The proof of Proposition 73 states that "The man, who is guided by reason, does not obey through fear (IV. lxiii.)."
 
-The claims that fear-built orders decay, that the honest-from-fear person is honest only while watched, and the practice of converting one fear-kept rule per season are the entry's own developments. They are consistent with this teaching but are not stated in these passages. The Higgins, Plato and 1 John parallels were not opened.
+The claims that fear-built orders decay, that the honest-from-fear person is honest only while watched, and the practice of converting one fear-kept rule per season are the entry's own developments. They are consistent with this teaching but are not stated in these passages. The Higgins, Plato and 1 John parallels are cited at second hand.
 
 **Plain words** Spinoza says that doing good only to escape something bad is not acting from reason. A rule kept out of fear lasts as long as the threat does. Ask of any rule you keep: if the deadline or the person watching vanished tomorrow, would I still keep it?
 

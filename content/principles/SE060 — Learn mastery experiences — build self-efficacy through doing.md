@@ -16,7 +16,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 
 (Bandura, "Self-efficacy: Toward a unifying theory of behavioral change," Psychological Review 84(2), 1977, p. 195, on "performance accomplishments"; [reprint PDF](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf).)
 
-Bandura's four sources of efficacy expectations are performance accomplishments, vicarious experience, verbal persuasion and physiological states. He ranks mastery as "especially influential." The 1977 paper does not say it is "the strongest" in those words, and the 1997 book that the entry's psychology parallel cites was not opened.
+Bandura's four sources of efficacy expectations are performance accomplishments, vicarious experience, verbal persuasion and physiological states. He ranks mastery as "especially influential." The 1977 paper does not say it is "the strongest" in those words, and the 1997 book that the entry's psychology parallel cites is cited at second hand.
 
 He also adds a condition that the slogan "just do it and succeed" leaves out. "Performance attainment is a prominent source of efficacy information, but it is by no means unambiguous," and "Successes are more likely to enhance self-efficacy if performances are perceived as resulting from skill than from fortuitous or special external aids" (p. 201). A cleared challenge counts most when the person can credit their own skill for it.
 

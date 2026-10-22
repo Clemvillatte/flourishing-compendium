@@ -28,7 +28,7 @@ Nahua poets faced death plainly: we are mortal, and we will be erased like a pai
 
 ## Psychology parallels
 
-- **Advance care planning**, wishes were known and followed far more often and relatives had less stress, anxiety and depression (Detering et al., 2010); Cozzolino's work on death attitudes is cited in the original and was not opened
+- **Advance care planning**, wishes were known and followed far more often and relatives had less stress, anxiety and depression (Detering et al., 2010); Cozzolino's work on death attitudes is cited in the original and was cited at second hand
 
 ## Philosophy parallels
 

@@ -42,4 +42,4 @@ A manager has to tell a colleague that her report missed the mark. She says what
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 2.30 with Vyasa (pp. 178-179) and 2.35, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
-- The inherited Bhagavad Gita 13.7-11 reference was not re-opened for this page. The Klimecki, Hippocrates and Mill parallels were not opened and no claim here rests on them.
+- The inherited Bhagavad Gita 13.7-11 reference was not re-opened for this page. The Klimecki, Hippocrates and Mill parallels are cited at second hand and no claim here rests on them.

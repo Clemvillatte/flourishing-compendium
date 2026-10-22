@@ -15,7 +15,7 @@ The reflex is robust enough to be a laboratory instrument. In a 2016 study, "All
 
 ### Why Linehan reached for it
 
-The original entry's citation is Linehan (1993), and the technique appears in DBT's distress-tolerance materials as the cold-water step of the TIPP skills. The specific handout instructions (bowl of cold water or cold pack on the eyes and upper cheeks, breath held, roughly half a minute, with a caution for heart conditions) could not be verified against an opened document this session — the handout PDF hosted at tri-life.org renders blank — so they are recorded as awaiting verification rather than quoted.
+The original entry's citation is Linehan (1993), and the technique appears in DBT's distress-tolerance materials as the cold-water step of the TIPP skills. The specific handout instructions (bowl of cold water or cold pack on the eyes and upper cheeks, breath held, roughly half a minute, with a caution for heart conditions) could not be verified against an accessible document — the handout PDF hosted at tri-life.org renders blank — so they are recorded as awaiting verification rather than quoted.
 
 ### In the compendium
 
@@ -36,7 +36,7 @@ The original entry's citation is Linehan (1993), and the technique appears in DB
 - Konishi, M., et al., "Diurnal variation in the diving bradycardia response in young men", Clinical Autonomic Research 26(2), 2016, pp. 135-140 — [PubMed 26795189](https://pubmed.ncbi.nlm.nih.gov/26795189/)
 - Linehan, M. M. (1993) — original citation, carried over
 - DBT skills handout (TIPP: Temperature) — [tri-life.org PDF](http://tri-life.org/wp-content/uploads/2020/05/TIPP-Skills_DBT.pdf) renders blank; procedural details flagged as awaiting verification
-- Linehan, 1993; Khalsa et al., 2016 — original citations carried over; Khalsa et al. 2016 could not be matched to a dive-reflex paper and was not opened
+- Linehan, 1993; Khalsa et al., 2016 — original citations carried over; Khalsa et al. 2016 could not be matched to a dive-reflex paper and is cited at second hand
 
 ## Cited in psychology parallels
 

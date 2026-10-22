@@ -20,7 +20,7 @@ Seneca gives the instruction in a letter to Lucilius, and it is specific:
 
 Seneca gives the reason that follows: "It is precisely in times of immunity from care that the soul should toughen itself beforehand for occasions of greater stress." (Letters 18.6, same edition.) He compares it to the soldier who, in days of peace, "throws up earthworks with no enemy in sight, and wearies himself by gratuitous toil, in order that he may be equal to unavoidable toil." He says some men did this, identified in the Wikisource footnote as the Epicureans, "that they might never recoil from what they had so often rehearsed," and he sums up the idea in his own words: "let us become intimate with poverty, so that Fortune may not catch us off our guard" (Letters 18.6, same edition).
 
-The passage opened here covers poor food and coarse dress, which is the practice named in the statement. The other lists in the original citation, from Musonius, Epictetus and Marcus, were not opened.
+The passage opened here covers poor food and coarse dress, which is the practice named in the statement. The other lists in the original citation, from Musonius, Epictetus and Marcus, are cited at second hand.
 
 **Plain words** You test a fire exit before there is a fire. Voluntary discomfort does the same for loss: go without something you like for a few days, and you learn two things. Most of what you thought you needed, you can live without, and the fear of losing it shrinks because you have already met the thing you feared. Seneca's question to ask while you do it is whether this is the condition you dreaded.
 

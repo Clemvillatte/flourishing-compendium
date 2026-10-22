@@ -41,4 +41,4 @@ A man chooses forgiveness for a week and keeps a note each evening of the moment
 ## Sources
 
 - [Bhagavad Gita 13.7 and 13.8-12 (Swami Mukundananda translation), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/13/verse/8/)
-- The inherited weekly-review and Zengzi (Analects 1.4) parallels were not opened and no claim here rests on them.
+- The inherited weekly-review and Zengzi (Analects 1.4) parallels are cited at second hand and no claim here rests on them.

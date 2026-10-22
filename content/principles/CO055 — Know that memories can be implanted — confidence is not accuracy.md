@@ -26,7 +26,7 @@ A family story says you once got lost in a department store. Relatives tell it e
 
 ## Sources
 
-- [Murphy et al., Lost in the mall again: a preregistered replication and extension of Loftus and Pickrell (1995), Memory 31(6) (2023), pp. 818-830, accepted manuscript via UCC CORA](https://cora.ucc.ie/server/api/core/bitstreams/075c236a-356f-4694-94c5-9500b6c148d3/content): abstract; introduction (the quotation and the original 25%, n = 6); discussion (partial 27%, full 8%). The Loftus and Pickrell 1995 paper itself was not opened; its wording is taken from this source.
+- [Murphy et al., Lost in the mall again: a preregistered replication and extension of Loftus and Pickrell (1995), Memory 31(6) (2023), pp. 818-830, accepted manuscript via UCC CORA](https://cora.ucc.ie/server/api/core/bitstreams/075c236a-356f-4694-94c5-9500b6c148d3/content): abstract; introduction (the quotation and the original 25%, n = 6); discussion (partial 27%, full 8%). The Loftus and Pickrell 1995 paper itself was cited at second hand; its wording is taken from this source.
 - [Wixted and Wells, The relationship between eyewitness confidence and identification accuracy: a new synthesis, Psychological Science in the Public Interest 18(1) (2017), pp. 10-65, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/28395650/): abstract only
 
 ## Psychology parallels

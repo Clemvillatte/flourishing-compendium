@@ -42,4 +42,4 @@ A woman hears from a friend that her landlord is selling the building. She asks 
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 1.7 with Vyasa and the Tika, pp. 20-21, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
-- The inherited source-monitoring (Johnson et al., 1993), Aristotle and Hume parallels were not opened and no claim here rests on them.
+- The inherited source-monitoring (Johnson et al., 1993), Aristotle and Hume parallels are cited at second hand and no claim here rests on them.

@@ -26,7 +26,7 @@ The old cite of Heidegger needs care. In Being and Time §9 Heidegger uses "exis
 
 *For example:* Imagined example: a person spends years fitting in at work, then declines a promotion that would have required lying to a client. The refusal is the first moment in years that felt like theirs.
 
-(Jaspers, Way to Wisdom, trans. Ralph Manheim (Yale, 1951), pp. 31-32, 54, 57, Internet Archive; Heidegger, Being and Time §9, trans. Macquarrie and Robinson (1962), Internet Archive; both opened 2026-10-21. Jaspers's Philosophy vols. 1-3 not opened.)
+(Jaspers, Way to Wisdom, trans. Ralph Manheim (Yale, 1951), pp. 31-32, 54, 57, Internet Archive; Heidegger, Being and Time §9, trans. Macquarrie and Robinson (1962), Internet Archive; both opened 2026-10-21. Jaspers's Philosophy vols. 1-3 cited at second hand.)
 
 ## Sources
 

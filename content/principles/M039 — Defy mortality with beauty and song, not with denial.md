@@ -30,7 +30,7 @@ The old songs say that jade, gold and feathers wear away, and that people die to
 
 ## Psychology parallels
 
-- **Generativity and creative legacy**, Erikson's generativity is cited in the original and was not opened; a phase II trial of dignity therapy (N=45) found more hope, no difference in dignity-related distress (Hall et al., 2011)
+- **Generativity and creative legacy**, Erikson's generativity is cited in the original and was cited at second hand; a phase II trial of dignity therapy (N=45) found more hope, no difference in dignity-related distress (Hall et al., 2011)
 
 ## Philosophy parallels
 

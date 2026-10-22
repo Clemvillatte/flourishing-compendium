@@ -18,7 +18,7 @@ What tika means. The same paper lists meanings of tika as "straight, accurate, f
 
 How it connects to other values. The 2021 paper reports that "tika presupposes pono, and is the basis for aroha", and that "pono can be exercised with tika, and tika must be exercised with pono, but both can be superseded by aroha". So asking "is this tika?" is not a free-standing test. It sits beside truth and care.
 
-For the psychology parallel, Aquino and Reed (2002) define moral identity as "a self-conception organized around a set of moral traits" (quoted in [a 2016 paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC5014871/)). That is a different thing from tika. Blasi (1984) was not opened.
+For the psychology parallel, Aquino and Reed (2002) define moral identity as "a self-conception organized around a set of moral traits" (quoted in [a 2016 paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC5014871/)). That is a different thing from tika. Blasi (1984) is cited at second hand.
 
 **Plain words** Tika is rightness, in the sense of doing things correctly, fairly and justly within a set of relationships. It is not simply a personal sense of integrity, and it works alongside truth and care.
 

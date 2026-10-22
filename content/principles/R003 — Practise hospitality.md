@@ -31,7 +31,7 @@ The household that always sets one extra place at Sunday dinner; over the years 
 ## Sources
 
 - [Tutu, No Future Without Forgiveness (1999), the ubuntu passage, excerpt verified at Goodreads quotes](https://www.goodreads.com/work/quotes/1520177-no-future-without-forgiveness) — generous/hospitable sentence quoted verbatim from the opened excerpt
-- Mbiti, African Religions and Philosophy (1969) — cited on the page's own locator line or reverified in this session
+- Mbiti, African Religions and Philosophy (1969) — cited on the page's own locator line or reverified
 
 ## Stories
 

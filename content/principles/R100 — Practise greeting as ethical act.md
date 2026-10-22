@@ -20,7 +20,7 @@ In the same reader Levinas writes: "The face opens the primordial discourse whos
 
 For the psychological side, Sandstrom and Dunn found that "students experienced greater happiness and greater feelings of belonging on days when they interacted with more classmates than usual," and that weak ties relate to "social and emotional well-being" (Personality and Social Psychology Bulletin 40(7), 2014, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/24769739/)). Wesselmann and colleagues' short report on passers-by, as summarised by a later paper, found that "briefly looking at someone is sufficient to reduce their feelings of disconnectedness, regardless of whether you smile at the other person or not" (summary in [Psychological needs related to civil inattention, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11602955/); the original, Psychological Science 23(2), 2012, has no abstract on [PubMed](https://pubmed.ncbi.nlm.nih.gov/22246319/) and was not read).
 
-The claim of the entry that a greeting says "you matter," and the Pratt (2002) and Verduyn et al. (2019) citations, were not verified. The Ubuntu and Honneth parallels were not opened.
+The claim of the entry that a greeting says "you matter," and the Pratt (2002) and Verduyn et al. (2019) citations, were not verified. The Ubuntu and Honneth parallels are cited at second hand.
 
 **Plain words** For Levinas, meeting someone in conversation begins with welcoming them. A greeting can be a small version of that: an acknowledgement that the other person is there. Research on everyday contact suggests that even brief acknowledgement of acquaintances and strangers is linked to feeling more connected.
 

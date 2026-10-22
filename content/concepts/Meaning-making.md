@@ -18,7 +18,7 @@ The model "identifies two levels of meaning, global and situational (Park & Folk
 
 ### The narrative branch
 
-The page's facets mark the tradition's other streams. The narrative one runs through McAdams's life-story model: narrative identity is "a person's internalized and evolving life story, integrating the reconstructed past and imagined future to provide life with some degree of unity and purpose" (McAdams and McLean 2013, [Narrative Identity](https://journals.sagepub.com/doi/10.1177/0963721413475622)). The page's remaining facets — the durable resource, post-traumatic growth, the creative response to mortality — are kept as inherited citation lines (Calhoun and Tedeschi 2004; Cozzolino 2006; Pennebaker et al. 1997), with their claims made only where opened sources support them.
+The page's facets mark the tradition's other streams. The narrative one runs through McAdams's life-story model: narrative identity is "a person's internalized and evolving life story, integrating the reconstructed past and imagined future to provide life with some degree of unity and purpose" (McAdams and McLean 2013, [Narrative Identity](https://journals.sagepub.com/doi/10.1177/0963721413475622)). The page's remaining facets — the durable resource, post-traumatic growth, the creative response to mortality — are kept as citation lines carried from the original entry (Calhoun and Tedeschi 2004; Cozzolino 2006; Pennebaker et al. 1997), with their claims made only where opened sources support them.
 
 ### In the compendium
 

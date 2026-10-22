@@ -14,11 +14,11 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 
 > All actions following from emotion, which are attributable to the mind in virtue of its understanding, I set down to strength of character (fortitudo), which I divide into courage (animositas) and highmindedness (generositas). By courage I mean the desire whereby every man strives to preserve his own being in accordance solely with the dictates of reason.
 
-(Spinoza, Ethics, Part III, Proposition 59, Note, trans. R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/ebooks/3800). Elwes renders animositas as "courage"; the entry's "tenacity" follows another translation, which was not opened.)
+(Spinoza, Ethics, Part III, Proposition 59, Note, trans. R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/ebooks/3800). Elwes renders animositas as "courage"; the entry's "tenacity" follows another translation, which is cited at second hand.)
 
 Spinoza continues: "Those actions, therefore, which have regard solely to the good of the agent I set down to courage, those which aim at the good of others I set down to highmindedness. Thus temperance, sobriety, and presence of mind in danger, &c., are varieties of courage." So the first mark of strength of character concerns what one does for one's own good under reason, and it covers temperance and presence of mind.
 
-The passage defines the trait. The contrast with stubbornness, the idea that it is "trained by keeping small rational commitments," and the practice of treating mood "as information rather than instruction" are the entry's own development. They are not in this Note. The Snyder (2002), Plato and Nietzsche parallels were not opened.
+The passage defines the trait. The contrast with stubbornness, the idea that it is "trained by keeping small rational commitments," and the practice of treating mood "as information rather than instruction" are the entry's own development. They are not in this Note. The Snyder (2002), Plato and Nietzsche parallels are cited at second hand.
 
 **Plain words** Spinoza calls the first part of strength of character courage or tenacity: the desire to keep your own being going according to reason alone. Mood and weather do not vote. Staying with a commitment whose reasons you can state is one way to practise it.
 

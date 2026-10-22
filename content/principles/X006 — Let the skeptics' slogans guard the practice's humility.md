@@ -16,7 +16,7 @@ Sextus (Outlines of Pyrrhonism 1.197, Bury translation) says the Sceptic "determ
 
 The "changed teams" warning also has a source: the Pyrrhonist avoids the "negative dogmatism" Sextus levels at the Academics ([Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/sextus-empiricus-third-century-ce)). Scholars read the slogans as reports of how things appear ([Oxford Academic](https://academic.oup.com/book/26354/chapter/194665319)). The original entry's list of three slogans is accurate: the Stanford Encyclopedia lists "No more this than that", "I determine nothing" and the "all things are non-apprehensible" formula among them ([Stanford Encyclopedia](https://plato.stanford.edu/entries/sextus-empiricus/)). The practical advice to "hold your own suspension-practices' results lightly", and the ex-believer example, are the page's application.
 
-The psychology parallel, "fixed anti-belief functions as belief", and its link to cognitive fusion, were not opened. Treat it as an analogy only. Wittgenstein (Tractatus 6.54) and the Alagaddupama Sutta (MN 22) were also unread.
+The psychology parallel, "fixed anti-belief functions as belief", and its link to cognitive fusion, are cited at second hand. Treat it as an analogy only. Wittgenstein (Tractatus 6.54) and the Alagaddupama Sutta (MN 22) were also unread.
 
 **Plain words** In Sextus's account, "I determine nothing" reports a state of mind and is not a claim about reality. The slogans cancel themselves, like a purgative that leaves with what it clears. So if you become certain that certainty is bad, you have moved from the method into a doctrine.
 

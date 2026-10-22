@@ -42,7 +42,7 @@ Lucas stresses showing that "different measures of the same construct cohere eve
 
 ## Psychology parallels
 
-- **Convergent measurement in wellbeing science**, validity and potential biases of subjective well-being measures (Diener et al., 2018); weak mood and weather effects on life-satisfaction judgments (Lucas, 2018; Lucas & Lawless, 2013); Luhmann (2017) and the MULTIS method were not opened
+- **Convergent measurement in wellbeing science**, validity and potential biases of subjective well-being measures (Diener et al., 2018); weak mood and weather effects on life-satisfaction judgments (Lucas, 2018; Lucas & Lawless, 2013); Luhmann (2017) and the MULTIS method were cited at second hand
 
 <!-- fc: reflections
 Rate your life satisfaction now, then imagine rating it on your worst day this month. What does the gap say about what the number measures?

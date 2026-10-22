@@ -20,7 +20,7 @@ The texts do allow a retreat, but of one kind. In Meditations IV.3 Marcus says "
 
 Seneca makes a related point about how a philosopher should appear. In Letter 5 he writes "The first thing which philosophy undertakes to give is fellow-feeling with all men; in other words, sympathy and sociability," and warns against separating "ourselves from the customs of our fellow-men" (Gummere trans., [Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_5), opened). The letter is mostly about showy austerity, which is a narrower topic than the entry's.
 
-Holt-Lunstad, Smith and Layton's meta-analysis of 148 studies found that stronger social relationships went with a 50% greater likelihood of survival ([PLoS Medicine, 2010; PubMed](https://pubmed.ncbi.nlm.nih.gov/20668659/)). That is an outcome of mortality and not of flourishing, and it is correlational. The other cited passages, Dimidjian et al. (2011), Heidegger and Dewey were not opened.
+Holt-Lunstad, Smith and Layton's meta-analysis of 148 studies found that stronger social relationships went with a 50% greater likelihood of survival ([PLoS Medicine, 2010; PubMed](https://pubmed.ncbi.nlm.nih.gov/20668659/)). That is an outcome of mortality and not of flourishing, and it is correlational. The other cited passages, Dimidjian et al. (2011), Heidegger and Dewey are cited at second hand.
 
 **Plain words** In the texts opened, Marcus treats the working day as the proper place for practice, and he allows only a short retreat that sends a person back to it. Seneca asks philosophers to stay sociable.
 

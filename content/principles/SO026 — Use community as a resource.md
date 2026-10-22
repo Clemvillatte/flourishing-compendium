@@ -18,7 +18,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 
 The definition has two directions in it. Members' needs are met, and members "matter to one another and to the group," so the person is both served by the community and counted on by it. In Rotman and Wu's summary of the theory, influence "is a bidirectional concept that encompasses both the member's influence over the group and the reciprocal affect the group has on its individual members."
 
-This fits the entry's point that the healthy stance is to give and to receive. The entry's remark that community "makes demands" and its neighbour-and-drill example are its own illustrations. McMillan and Chavis describe the shared faith that needs will be met "through their commitment," which is the nearest the definition comes to naming a cost. The Aristotle and Tutu parallels were not opened.
+This fits the entry's point that the healthy stance is to give and to receive. The entry's remark that community "makes demands" and its neighbour-and-drill example are its own illustrations. McMillan and Chavis describe the shared faith that needs will be met "through their commitment," which is the nearest the definition comes to naming a cost. The Aristotle and Tutu parallels are cited at second hand.
 
 **Plain words** A community works when people feel they belong, feel they matter to the others, and trust that their needs will be met. The same feeling runs the other way: you matter to them, and they need you too.
 

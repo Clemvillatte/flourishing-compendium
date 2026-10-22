@@ -20,7 +20,7 @@ The same abstract gives the proposed mechanism: passive use "provokes social com
 
 The picture has since become less clear. An umbrella review of 25 reviews on adolescents found that "most reviews interpreted the associations between social media use and mental health as 'weak' or 'inconsistent,' whereas a few qualified the same associations as 'substantial' and 'deleterious'" (Valkenburg, Meier and Beyens, Current Opinion in Psychology 44, 2022; [PubMed](https://pubmed.ncbi.nlm.nih.gov/34563980/)). And a later extension of the active-passive model holds that "active use is not always beneficial and passive use is not always detrimental" ([Current Directions in Psychological Science](https://journals.sagepub.com/doi/pdf/10.1177/09637214211053637)).
 
-So "passive use harms, active use helps" is better stated as a tendency with exceptions. The idea that digital environments can be designed, such as keeping devices out of the bedroom, is this entry's practical claim and was not tested in these sources. The attention-economy and Arendt/Habermas references were not opened.
+So "passive use harms, active use helps" is better stated as a tendency with exceptions. The idea that digital environments can be designed, such as keeping devices out of the bedroom, is this entry's practical claim and was not tested in these sources. The attention-economy and Arendt/Habermas references are cited at second hand.
 
 **Plain words** How you use social media seems to matter more than whether you use it. Scrolling through other people's lives tends to go with feeling worse, and talking with people tends to go with feeling better, but the evidence is mixed. Small changes to your surroundings can steer use without relying on willpower.
 

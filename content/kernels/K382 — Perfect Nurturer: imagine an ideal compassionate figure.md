@@ -38,7 +38,7 @@ Adapted from Kolts, CFT Made Simple, New Harbinger, 2016, ch. 11, "Using Compass
 
 ### Evidence
 
-Kolts presents the perfect nurturer as an imagery practice for self-critical clients, paired with the safe place exercise (K383) in the same chapter; the dialogue example shows a client whose image resolved into her own future self, which the therapist treats as a welcome development rather than an error. The practice's rationale (self-soothing through an affiliative image) rests on Lee (2005) as cited by Kolts; Lee's original paper was not opened, and Kolts cites no trial for the exercise itself.
+Kolts presents the perfect nurturer as an imagery practice for self-critical clients, paired with the safe place exercise (K383) in the same chapter; the dialogue example shows a client whose image resolved into her own future self, which the therapist treats as a welcome development rather than an error. The practice's rationale (self-soothing through an affiliative image) rests on Lee (2005) as cited by Kolts; Lee's original paper was cited at second hand, and Kolts cites no trial for the exercise itself.
 
 ## Operationalises
 

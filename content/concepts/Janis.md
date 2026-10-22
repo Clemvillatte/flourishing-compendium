@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Janis” — 1972.
 
-Irving Janis's 1972 book on groupthink laid out when a cohesive group is likely to decide badly, what it looks like from the inside, and what follows. The definition and the procedural fixes are on the [[Groupthink theory]] page; this page covers the structure of the model and the evidence behind it, as summarised in Aldag and Fuller's 1993 review in Psychological Bulletin (the Janis books themselves were not opened).
+Irving Janis's 1972 book on groupthink laid out when a cohesive group is likely to decide badly, what it looks like from the inside, and what follows. The definition and the procedural fixes are on the [[Groupthink theory]] page; this page covers the structure of the model and the evidence behind it, as summarised in Aldag and Fuller's 1993 review in Psychological Bulletin (the Janis books themselves are cited at second hand).
 
 ### When it is supposed to happen
 

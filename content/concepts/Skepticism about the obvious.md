@@ -27,7 +27,7 @@ The modes work on exactly the cases that feel obvious. Honey is the entry's exam
 
 ## Sources
 
-- [Vogt, "Ancient Skepticism", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/skepticism-ancient/) — opened this session; carries the PH 1.8 definition, the honey example (PH 1.19), the no-view-from-nowhere explanation, and the PH 1.14-15 formulae quotation
+- [Vogt, "Ancient Skepticism", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/skepticism-ancient/) — carries the PH 1.8 definition, the honey example (PH 1.19), the no-view-from-nowhere explanation, and the PH 1.14-15 formulae quotation
 
 ## Cited in philosophy parallels
 

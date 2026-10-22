@@ -20,7 +20,7 @@ A passage on p. 118 of the same chapter reads: "The ego is not an entity 'capabl
 
 The entry's phrase "you don't opt into it" matches that structure. Its advice to "let it ground your selfhood" is the compendium's reading and is not found in the passages above. Levinas also speaks of the self as hostage and expiation, so the demand is much heavier than ordinary kindness, and the compendium's softer example of a family role is an analogy, not his meaning. Whether Levinas's account fits everyday duties of care is a question for interpreters, and none were opened here.
 
-The psychology parallel cites Batson (2011) on altruism. That book was not opened, so the link between empathy-based helping and Levinas's pre-reflective responsibility is not checked.
+The psychology parallel cites Batson (2011) on altruism. That book was cited at second hand, so the link between empathy-based helping and Levinas's pre-reflective responsibility is not checked.
 
 **Plain words** For Levinas, responsibility for the other is not something I take on after thinking it over. It is there before my freedom, and he says the self is called to its uniqueness by it. The word for this extreme condition is substitution, and the self as hostage is his picture of it.
 

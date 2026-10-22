@@ -24,7 +24,7 @@ A manager insists on constant positivity. After a team member says an honest wor
 
 ## Sources
 
-- [James Maffie, "Aztec Philosophy," Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/): opened; section 2b "Dialectical Polar Monism" and 2f "Popular Aztec Religion." Leon-Portilla's The Aztec Image of Self and Universe was not opened; the Ometeotl material is taken from Maffie's account.
+- [James Maffie, "Aztec Philosophy," Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/) (section 2b "Dialectical Polar Monism" and 2f "Popular Aztec Religion"). Leon-Portilla's The Aztec Image of Self and Universe is cited at second hand; the Ometeotl material is taken from Maffie's account.
 
 ## Psychology parallels
 

@@ -26,7 +26,7 @@ The modes include "that which we ourselves are", which "is called being-there, c
 
 *For example:* Imagined example: after a personality assessment, someone reads their profile and recognises most of it. They also notice that the one reading it is not in the report, and they hold the results as a map, not as a verdict.
 
-(Jaspers, Way to Wisdom, trans. Ralph Manheim (Yale, 1951), pp. 28-32, Internet Archive; Stanford Encyclopedia of Philosophy, "Karl Jaspers"; both opened 2026-10-21. Philosophy vol. 1 and Von der Wahrheit not opened.)
+(Jaspers, Way to Wisdom, trans. Ralph Manheim (Yale, 1951), pp. 28-32, Internet Archive; Stanford Encyclopedia of Philosophy, "Karl Jaspers"; both opened 2026-10-21. Philosophy vol. 1 and Von der Wahrheit cited at second hand.)
 
 ## Sources
 

@@ -31,7 +31,7 @@ For example (imagined): "I am a reader" gives you a reason to open a book tonigh
 
 ## Psychology parallels
 
-- **[[Identity|Identity-based motivation (Oyserman)]]**, Oyserman's theory is tested in current work with students, including a program with trial data (Burbidge & Oyserman, 2026, abstract only); the 2010 and 2015 papers were not opened
+- **[[Identity|Identity-based motivation (Oyserman)]]**, Oyserman's theory is tested in current work with students, including a program with trial data (Burbidge & Oyserman, 2026, abstract only); the 2010 and 2015 papers were cited at second hand
 - **Identity and habit formation** (Gardner, 2015; Clear, 2018; not verified for the identity claim)
 
 ## Philosophy parallels

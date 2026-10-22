@@ -43,4 +43,4 @@ A man tells himself he has stopped caring about status. Looking at last month, h
 ## Sources
 
 - [Bhagavad Gita 2.54, 2.56, 2.57, 12.15 (Swami Mukundananda translation), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/2/verse/54/)
-- The inherited Vidyaranya and Yoga Vasistha references (jivanmukti) were not opened, so the later doctrine is not described here. The behavioural-integrity and Analects 2.10 parallels were not opened either.
+- The inherited Vidyaranya and Yoga Vasistha references (jivanmukti) were cited at second hand, so the later doctrine is not described here. The behavioural-integrity and Analects 2.10 parallels were cited at second hand either.

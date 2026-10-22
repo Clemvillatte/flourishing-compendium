@@ -27,6 +27,6 @@ In the compendium, A063 carries the necessity-for-flourishing claim, A064 the th
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, Books VIII-IX (1892 English edition, Cornell University Library scan, Internet Archive)](https://archive.org/details/cu31924012537001) — the verbatim VIII.1 opening, the VIII.3 utility/pleasure passages and the VIII.4 perfect-friendship passage
-- IEP Aristotle's Ethics: https://iep.utm.edu/aris-eth/ (original source line; the IEP entry could not be opened this session, so no IEP-specific claims are asserted)
+- IEP Aristotle's Ethics: https://iep.utm.edu/aris-eth/ (original source line; the IEP entry is not accessible, so no IEP-specific claims are asserted)
 
 ## Cited in philosophy parallels

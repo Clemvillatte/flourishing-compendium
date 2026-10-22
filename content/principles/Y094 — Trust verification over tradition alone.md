@@ -44,4 +44,4 @@ A student writes one line in a notebook from a teaching he admires. Beside it he
 
 - [Muller, The Upanishads, Part I (SBE 1, 1879), Talavakara (Kena) Upanishad, Khandas 1-2, Internet Archive](https://archive.org/details/upanishads01mluoft)
 - [Bhagavad Gita 4.34 (Swami Mukundananda translation), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/4/verse/34/)
-- The inherited Roediger & Karpicke (2006) parallel was not opened and no claim here rests on it. The earlier wording "by what impelled does the mind fall on its object" comes from a different translation and was not verified.
+- The inherited Roediger & Karpicke (2006) parallel was cited at second hand and no claim here rests on it. The earlier wording "by what impelled does the mind fall on its object" comes from a different translation and was not verified.

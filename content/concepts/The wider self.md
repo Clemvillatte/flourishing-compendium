@@ -7,7 +7,7 @@ file: "The wider self"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The wider self is the compendium's umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body — a place, a river, other living beings — can be part of the self rather than objects for it. The inherited citation names Whitehead's Process and Reality, but the clearest modern statement of the idea is Arne Naess's ecological self, and the compendium's practice work is built on Naess.
+The wider self is the compendium's umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body — a place, a river, other living beings — can be part of the self rather than objects for it. The original entry's citation names Whitehead's Process and Reality, but the clearest modern statement of the idea is Arne Naess's ecological self, and the compendium's practice work is built on Naess.
 
 ### Naess's version
 

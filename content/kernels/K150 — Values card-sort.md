@@ -31,7 +31,7 @@ And the outcome line attached to values work in that tradition:
 
 > "Client experience of discrepancy between values and substance use behavior is related to better client outcomes (Apodaca & Longabaugh, 2009)." (same chapter)
 
-What this evidence does not test: the card sort as a standalone intervention. The outcome line concerns discrepancy between values and behavior in counseling sessions, not the sorting exercise alone, and the instrument is a clinical tool whose direct trial evidence is not opened here.
+What this evidence does not test: the card sort as a standalone intervention. The outcome line concerns discrepancy between values and behavior in counseling sessions, not the sorting exercise alone, and the instrument is a clinical tool whose direct trial evidence is cited at second hand here.
 
 ### A guided version
 

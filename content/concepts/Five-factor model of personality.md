@@ -35,7 +35,7 @@ Trull and Widiger's review also notes that personality "does change over time, t
 - [Britannica, "five-factor model of personality"](https://www.britannica.com/science/five-factor-model-of-personality): the three lines of validity evidence
 - [Costa, "The Five-Factor Model of Personality and Its Relevance to Personality Disorders", Journal of Personality Disorders 6(4), 1992 (abstract)](https://guilfordjournals.com/doi/10.1521/pedi.1992.6.4.343)
 - [Trull and Widiger, "Dimensional models of personality: the five-factor model and the DSM-5", Dialogues in Clinical Neuroscience 15(2), 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3811085/): personality change with maturity
-- Costa and McCrae (the original entry's attribution; their NEO instruments were not opened)
+- Costa and McCrae (the original entry's attribution; their NEO instruments are cited at second hand)
 
 ## Field
 

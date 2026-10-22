@@ -20,7 +20,7 @@ The WHO adds that "Gender influences people's experience of and access to health
 
 On the philosophical side, Beauvoir's sentence is given in the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/beauvoir/) as "One is not born but becomes a woman" (1953 translation, p. 267). The SEP notes that whether Beauvoir was launching the sex-gender distinction is debated, and it reads her as analysing how the meanings of "woman" are socially made and then taken up in lived, bodily experience.
 
-Ridgeway (2011), Connell (2002) and Butler (1990), named in this entry, were not opened. The phrase "not a biological destiny" is the entry's wording, and the WHO text stops at saying that sex and gender are different things.
+Ridgeway (2011), Connell (2002) and Butler (1990), named in this entry, are cited at second hand. The phrase "not a biological destiny" is the entry's wording, and the WHO text stops at saying that sex and gender are different things.
 
 **Plain words** Sex and gender are not the same thing. The roles and expectations attached to gender are learned from society, they differ between societies and they change. They also have real effects on health and opportunity, so they can be examined and, where useful, reshaped.
 

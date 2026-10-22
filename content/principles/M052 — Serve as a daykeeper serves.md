@@ -28,7 +28,7 @@ In the Maya communities described, the daykeeper is the person people consult in
 
 ## Psychology parallels
 
-- **Prosocial acts and well-being**, kindness interventions raise the actor's well-being by a small to medium amount (δ = 0.28; Curry et al., 2018); Lyubomirsky's kindness research is cited in the original and was not opened
+- **Prosocial acts and well-being**, kindness interventions raise the actor's well-being by a small to medium amount (δ = 0.28; Curry et al., 2018); Lyubomirsky's kindness research is cited in the original and was cited at second hand
 
 ## Philosophy parallels
 

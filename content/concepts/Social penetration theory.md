@@ -47,4 +47,4 @@ Sociocultural · Psychological science
 [[SO025 — Prioritize the quality of relationships over the quantity]]
 ## Sources
 
-- [Wikipedia, "Social penetration theory"](https://en.wikipedia.org/wiki/Social_penetration_theory) — the breadth-and-depth claim, the 1973 Altman-Taylor formulation, and the onion metaphor, verified against the raw HTML download; all four quoted fragments re-verified against a fresh raw HTML download this session
+- [Wikipedia, "Social penetration theory"](https://en.wikipedia.org/wiki/Social_penetration_theory) — the breadth-and-depth claim, the 1973 Altman-Taylor formulation, and the onion metaphor, verified against the raw HTML download; all four quoted fragments re-verified against a fresh raw HTML download

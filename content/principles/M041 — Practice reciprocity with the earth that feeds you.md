@@ -29,7 +29,7 @@ Accounts of Maya milpa farming describe the field as part of a relationship that
 
 ## Psychology parallels
 
-- **[[Nature connectedness|Nature connectedness and well-being]]**, a meta-analysis of 30 samples found a small positive association with happiness (r = 0.19; Capaldi et al., 2014); Mayer & Frantz, 2004, and Kaplan, 1995, are cited in the original and were not opened
+- **[[Nature connectedness|Nature connectedness and well-being]]**, a meta-analysis of 30 samples found a small positive association with happiness (r = 0.19; Capaldi et al., 2014); Mayer & Frantz, 2004, and Kaplan, 1995, are cited in the original and were cited at second hand
 
 ## Philosophy parallels
 

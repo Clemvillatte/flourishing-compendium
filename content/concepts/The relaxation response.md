@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The relaxation response” — Benson, 1975.
 
-The relaxation response is Herbert Benson's name for the body's counterpart to the stress response, elicited by a simple mental practice. The original entry cites 1975, which is the year of the popular book by Benson and Miriam Klipper. Benson, Beary and Carol had already published an article with the same title in Psychiatry in [1974](https://pubmed.ncbi.nlm.nih.gov/4810622/). The page rests on a PubMed record for that article (no abstract available), a PubMed abstract of a later study, and secondary descriptions of the book. The book itself was not opened.
+The relaxation response is Herbert Benson's name for the body's counterpart to the stress response, elicited by a simple mental practice. The original entry cites 1975, which is the year of the popular book by Benson and Miriam Klipper. Benson, Beary and Carol had already published an article with the same title in Psychiatry in [1974](https://pubmed.ncbi.nlm.nih.gov/4810622/). The page rests on a PubMed record for that article (no abstract available), a PubMed abstract of a later study, and secondary descriptions of the book. The book itself is cited at second hand.
 
 ### What it is
 

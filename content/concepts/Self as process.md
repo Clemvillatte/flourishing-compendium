@@ -15,7 +15,7 @@ The review's most quotable move is to deny that there is one stable inventory of
 
 ### The older company it keeps
 
-The idea has older company, which the page's source list records. William James's Principles of Psychology (1890) and Whitehead's Process and Reality are the two Western anchors the compendium files it under; the Zhuangzi pages carry a third, the transformation of things (wuhua), where the self is what changes rather than what resists change. Those anchors are inherited citations from the original entry, and how each argues the point belongs to their own pages; the psychological claim here stands on the 1987 review.
+The idea has older company, which the page's source list records. William James's Principles of Psychology (1890) and Whitehead's Process and Reality are the two Western anchors the compendium files it under; the Zhuangzi pages carry a third, the transformation of things (wuhua), where the self is what changes rather than what resists change. Those anchors are citations carried from the original entry, and how each argues the point belongs to their own pages; the psychological claim here stands on the 1987 review.
 
 ### In the compendium
 

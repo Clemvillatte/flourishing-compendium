@@ -41,4 +41,4 @@ A woman's practice stalls. She reads the list and sees it was doubt: she keeps t
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 1.30 and 1.32 with Vyasa and the Tika, pp. 64-65, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
-- The inherited behaviour-change and Marcus Aurelius 5.20 parallels were not opened and no claim here rests on them.
+- The inherited behaviour-change and Marcus Aurelius 5.20 parallels are cited at second hand and no claim here rests on them.

@@ -44,4 +44,4 @@ The same passage continues: these relations include relations with "our home bio
 
 - process ecology of Cobb, Is It Too Late?
 
-- [Bill Devall, "The Ecological Self", essay PDF, social-ecology.org](https://social-ecology.org/wp/wp-content/uploads/2023/08/Devall-Ecological-Self.pdf) — Naess's 1986 "Self-realization" lecture passage verbatim; the Naess originals and Plumwood's and Cobb's books were not opened in this session
+- [Bill Devall, "The Ecological Self", essay PDF, social-ecology.org](https://social-ecology.org/wp/wp-content/uploads/2023/08/Devall-Ecological-Self.pdf) — Naess's 1986 "Self-realization" lecture passage verbatim; the Naess originals and Plumwood's and Cobb's books are cited at second hand

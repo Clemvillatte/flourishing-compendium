@@ -43,4 +43,4 @@ A meditator finds a blank, easy quiet in her second month and spends a year tryi
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 1.17, 1.18, 1.46 and 1.51 with Vyasa's commentary and the Tika, pp. 40-42 and 99, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
-- The inherited psychology and philosophy parallels (Lutz et al., 2008; The Cloud of Unknowing) were not opened for this pass; no claim on this page rests on them.
+- The inherited psychology and philosophy parallels (Lutz et al., 2008; The Cloud of Unknowing) are cited at second hand; no claim on this page rests on them.

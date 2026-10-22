@@ -27,7 +27,7 @@ For example (imagined): someone who has organised years around novelty may notic
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, Søren Kierkegaard](https://plato.stanford.edu/entries/kierkegaard/), sections 1, 3 and 3.1-3.3 (Lippitt and Evans)
-- The primary texts (Either/Or, Stages on Life's Way, Postscript) were not opened for this page
+- The primary texts (Either/Or, Stages on Life's Way, Postscript) are cited at second hand
 
 ## Psychology parallels
 

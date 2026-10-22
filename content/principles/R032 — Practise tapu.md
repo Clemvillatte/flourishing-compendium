@@ -20,7 +20,7 @@ Te Ara, the Encyclopedia of New Zealand, describes tapu as inherited: "A person'
 
 Tapu applies to places as well as people. Te Ara lists burial grounds, sites where people had been killed, and the tops of tribal mountains as wāhi tapu (restricted areas), and notes that people "either had to stay away from them, or refrain from doing things which would break their tapu". On a marae, the urupā (cemetery) "is one of the most tapu places in all of Māori society", and no eating, drinking or smoking is permitted there ([Te Ara, Māori manners and social behaviour](https://teara.govt.nz/en/maori-manners-and-social-behaviour-nga-mahi-tika/print)).
 
-The same article says these customs "vary between tribes and are not always observed, and the best practice is to follow the guidance of the host people". That is the practical rule for a visitor. Mead 2003 and Durie 1994 were not opened.
+The same article says these customs "vary between tribes and are not always observed, and the best practice is to follow the guidance of the host people". That is the practical rule for a visitor. Mead 2003 and Durie 1994 are cited at second hand.
 
 **Plain words**
 Some people, places and moments are set apart, and respect means changing your behaviour. What that looks like depends on the people whose place it is, so ask them.

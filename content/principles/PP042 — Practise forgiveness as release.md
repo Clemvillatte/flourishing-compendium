@@ -31,7 +31,7 @@ The working definition here (not condoning, excusing or reconciling) is not stat
 ## Psychology parallels
 
 - [[Forgiveness|Forgiveness interventions meta-analysis]] (the meta-analysis is Wade et al., 2014; Griffin et al., 2015 is a self-forgiveness workbook trial)
-- [[REACH model of forgiveness|REACH model of forgiveness]] (Worthington's model; its original 2006 source was not opened)
+- [[REACH model of forgiveness|REACH model of forgiveness]] (Worthington's model; its original 2006 source is cited at second hand)
 
 ## Philosophy parallels
 

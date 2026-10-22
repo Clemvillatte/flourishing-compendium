@@ -20,7 +20,7 @@ The Treatise names the usual objects of desire as "Riches, Fame, and the Pleasur
 
 The Ethics gives the answer in Part IV, Proposition 28: "The mind's highest good is the knowledge of God, and the mind's highest virtue is to know God."
 
-The keel image, the habit of writing down the one thing your life is for, and testing commitments against it are the entry's own devices. They do not appear in these texts. The Treatise also says that wealth, pleasure and fame are not hindrances "if they be sought as means" and not as ends (§11), which is closer to ordering them than discarding them. The Yeager et al. (2014) parallel and the Gospel parallels were not opened.
+The keel image, the habit of writing down the one thing your life is for, and testing commitments against it are the entry's own devices. They do not appear in these texts. The Treatise also says that wealth, pleasure and fame are not hindrances "if they be sought as means" and not as ends (§11), which is closer to ordering them than discarding them. The Yeager et al. (2014) parallel and the Gospel parallels are cited at second hand.
 
 **Plain words** Spinoza describes deciding to look for one good that would settle the mind, because the usual goals, money, fame and pleasure, absorb it without satisfying it. In the Ethics he names that good as understanding, ultimately of the whole of nature. A single chosen center is a way of organising your life around it.
 

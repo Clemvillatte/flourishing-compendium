@@ -22,7 +22,7 @@ Humor research supports a social cost. Martin and colleagues (2003) defined aggr
 
 ### Scope
 
-The Nahuatl source text was not opened. The locator "Book VI" may be wrong.
+The Nahuatl source text is cited at second hand. The locator "Book VI" may be wrong.
 
 **Plain words**
 The counsel is to treat the unfortunate, the blind, the deaf and the poor with respect and not to laugh at them. People who use ridicule are also judged as less warm.

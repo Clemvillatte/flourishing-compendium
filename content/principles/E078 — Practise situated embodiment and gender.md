@@ -29,7 +29,7 @@ For example (imagined): two people walking the same street at night may read it 
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, Simone de Beauvoir](https://plato.stanford.edu/entries/beauvoir/), sections 7 and 13 (Bergoffen and Burke)
-- The Second Sex was not opened directly; the marxists.org page checked (The Data of Biology) did not contain the quoted passage
+- The Second Sex was cited at second hand directly; the marxists.org page checked (The Data of Biology) did not contain the quoted passage
 
 ## Psychology parallels
 

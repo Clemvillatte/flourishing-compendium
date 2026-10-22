@@ -46,7 +46,7 @@ The malleability claim is the practical part: the shift is not locked to birthda
 
 - [Carstensen, Isaacowitz & Charles (1999), "Taking time seriously: A theory of socioemotional selectivity", American Psychologist 54(3), 165-181 — abstract, PMID 10199217](https://pubmed.ncbi.nlm.nih.gov/10199217/)
 - [Carstensen (2006), "The influence of a sense of time on human development", Science 312(5782), 1913-1915 — abstract, PMID 16809530](https://pubmed.ncbi.nlm.nih.gov/16809530/)
-- Abstract-derived quotations are labelled as such; the article texts behind them were not opened this session
+- Abstract-derived quotations are labelled as such; the article texts behind them were cited at second hand
 
 ## Cited in psychology parallels
 

@@ -20,7 +20,7 @@ MacIntyre continues on the same page: "We enter human society, that is, with one
 
 This matters for how the entry is read. The compendium's Plain words say "you're the author as well as the character." MacIntyre's passage points the other way, since the key question for him is "not about their own authorship" but about which story one is already part of. On his account identity is received from communities and traditions and then lived forward. An invitation to retell one's own story fits the psychological work on narrative identity (see the principle CO061 and its sources), but it is not MacIntyre's claim.
 
-Taylor's Sources of the Self and Ricoeur's Oneself as Another were not opened, nor were McAdams (2008) and McAdams (1993) in this entry.
+Taylor's Sources of the Self and Ricoeur's Oneself as Another were cited at second hand, nor were McAdams (2008) and McAdams (1993) in this entry.
 
 **Plain words** MacIntyre says people are story-telling animals who find themselves already inside stories, such as a family, a community or a tradition, and who answer "what should I do?" by asking which story they belong to. The authorship of one's life is shared with those stories.
 

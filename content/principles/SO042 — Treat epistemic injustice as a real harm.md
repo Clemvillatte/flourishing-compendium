@@ -26,7 +26,7 @@ Fricker distinguishes a prejudice-driven credibility deficit from an interpretiv
 
 ## Sources
 
-- [Fricker, "Epistemic Injustice: Power and the Ethics of Knowing", OUP 2007 — Introduction, publisher's visible extract, Oxford Academic](https://academic.oup.com/book/32817/chapter/274999524) — the two-form definition and the "capacity as a knower" passage quoted (chapter range pp. 1-8; carrier disclosure: publisher's visible Introduction extract; full book not opened)
+- [Fricker, "Epistemic Injustice: Power and the Ethics of Knowing", OUP 2007 — Introduction, publisher's visible extract, Oxford Academic](https://academic.oup.com/book/32817/chapter/274999524) — the two-form definition and the "capacity as a knower" passage quoted (chapter range pp. 1-8; carrier disclosure: publisher's visible Introduction extract; full book cited at second hand)
 
 ## Psychology parallels
 

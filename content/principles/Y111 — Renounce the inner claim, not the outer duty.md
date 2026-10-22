@@ -43,4 +43,4 @@ A woman resents the hour a week she spends doing the books for her father's shop
 ## Sources
 
 - [Bhagavad Gita 18.2, 18.6, 18.7, 18.9 (Swami Mukundananda translation and commentary), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/18/verse/9/)
-- The inherited BG 5.13 and 3.19 citations were not re-opened for this page (3.19 was opened on Y102). The ACT and John 17 parallels were not opened and no claim here rests on them.
+- The inherited BG 5.13 and 3.19 citations were not re-opened for this page (3.19 was opened on Y102). The ACT and John 17 parallels are cited at second hand and no claim here rests on them.

@@ -20,7 +20,7 @@ Marcus reminds himself that death did not skip the powerful, the skilled or the 
 
 In VIII.24 he moves to the people around him, and the list is a chain of burials: "Lucilla buried Verus; then was Lucilla herself buried by others. So Secunda Maximus, then Secunda herself... So Antoninus Pius, Faustina his wife; then Antoninus himself. This is the course of the world." (Meditations VIII.24, same edition.) The pattern is the same each time. Someone stands at a grave and is later in one. The passage ends with the reminder that what he is made of "shall soon be dispersed."
 
-The statement on this page goes further than the passages opened here, saying the thought is clarifying and makes grudges a waste. That is a reasonable use of the pattern, and the compendium's own inference. Seneca's Letters, also cited in the original list, were not opened.
+The statement on this page goes further than the passages opened here, saying the thought is clarifying and makes grudges a waste. That is a reasonable use of the pattern, and the compendium's own inference. Seneca's Letters, also cited in the original list, are cited at second hand.
 
 **Plain words** Think of someone you are angry with, and then of someone you love. The same fact covers both: the time each of you has is limited and nobody knows how much is left. It is easy to carry a grudge as if there were endless time to settle it, and the chain of burials is a reminder that there is not.
 

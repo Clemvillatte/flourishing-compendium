@@ -30,7 +30,7 @@ Nahua schools were built around forming a person's character as well as teaching
 
 ## Psychology parallels
 
-- **[[Deliberate practice|Deliberate practice and curriculum effects]]**, Ericsson's research on structured training is cited in the original and was not opened in this pass; it is a modern parallel, not evidence for Nahua schooling
+- **[[Deliberate practice|Deliberate practice and curriculum effects]]**, Ericsson's research on structured training is cited in the original and was cited at second hand in this pass; it is a modern parallel, not evidence for Nahua schooling
 
 ## Philosophy parallels
 

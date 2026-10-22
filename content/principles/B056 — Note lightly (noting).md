@@ -31,7 +31,7 @@ The noting is mental, not spoken: "The rising should be noted mentally as 'risin
 ## Sources
 
 - [Mahasi Sayadaw, Practical Vipassana Exercises, IBC eLibrary](https://ibc-elibrary.thanhsiang.org/files/ebook/Meditation/mahasit1.pdf)
-- SN 36.7, trans. Nyanaponika Thera, IBC eLibrary — opened at B002 this session, re-mined; not recounted
+- SN 36.7, trans. Nyanaponika Thera, IBC eLibrary — opened at B002, re-mined; not recounted
 
 ## Stories
 

@@ -32,7 +32,7 @@ Critics argue the benefits are overstated. Ordóñez and colleagues list side ef
 - [Ordóñez, Schweitzer, Galinsky and Bazerman (2009), Goals Gone Wild, Academy of Management Perspectives 23(1), 6-16, abstract](https://journals.aom.org/doi/10.5465/amp.2009.37007999)
 ## Psychology parallels
 
-- **[[Goal setting theory (Locke & Latham)|Goal setting theory (Locke & Latham)]]**, specific, difficult goals outperformed nonspecific goals in a group-goal meta-analysis (Kleingeld et al., 2011); the 35-year review is Locke & Latham (2002); Latham & Locke (2007) and Locke & Latham (2006) were not opened
+- **[[Goal setting theory (Locke & Latham)|Goal setting theory (Locke & Latham)]]**, specific, difficult goals outperformed nonspecific goals in a group-goal meta-analysis (Kleingeld et al., 2011); the 35-year review is Locke & Latham (2002); Latham & Locke (2007) and Locke & Latham (2006) were cited at second hand
 - **Side effects and limits**, goal setting can narrow focus, distort risk preferences, raise unethical behaviour and reduce intrinsic motivation (Ordóñez et al., 2009); the older note citing Miner (2005) is unopened
 
 ## Philosophy parallels

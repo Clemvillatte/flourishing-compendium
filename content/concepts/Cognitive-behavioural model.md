@@ -7,7 +7,7 @@ file: "Cognitive-behavioural model"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-The cognitive-behavioural model holds that how a person interprets a situation, more than the situation itself, shapes what they feel and do. Aaron Beck developed it from the 1960s (the original entry cites Beck, 1976), and it underlies cognitive behavioural therapy (CBT). The summaries below come from the Beck Institute, a StatPearls review and a meta-review, not from Beck's 1976 book, which was not opened.
+The cognitive-behavioural model holds that how a person interprets a situation, more than the situation itself, shapes what they feel and do. Aaron Beck developed it from the 1960s (the original entry cites Beck, 1976), and it underlies cognitive behavioural therapy (CBT). The summaries below come from the Beck Institute, a StatPearls review and a meta-review, not from Beck's 1976 book, which is cited at second hand.
 
 ### The core claim
 

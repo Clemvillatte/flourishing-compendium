@@ -27,7 +27,7 @@ Meno offers a definition: "Virtue is the desire of things honourable and the pow
 
 ## Sources
 
-- Plato, Meno, trans. Benjamin Jowett — [full text, The Internet Classics Archive](http://classics.mit.edu/Plato/meno.html) — opened this session; all quotations verified against the fetched text
+- Plato, Meno, trans. Benjamin Jowett — [full text, The Internet Classics Archive](http://classics.mit.edu/Plato/meno.html) — all quotations verified against the fetched text
 
 ## Cited in philosophy parallels
 

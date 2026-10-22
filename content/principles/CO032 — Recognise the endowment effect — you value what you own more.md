@@ -20,7 +20,7 @@ In one of the mug experiments, "the median selling price of $5.75 was over twice
 
 Culture seems to matter. Maddux and colleagues tested buyers and sellers of a coffee mug and of a box of chocolates and found a smaller endowment effect for East Asians than for Westerners. They suggest the effect "may be influenced by the degree to which independence and self-enhancement (vs. interdependence and self-criticism) are culturally valued or normative" (Maddux et al., Psychological Science 21(12), 2010, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/21097722/)).
 
-The entry's description of the effect as "weaker in cultures with less individual ownership norms" is a loose paraphrase of that finding. Thaler (1980), which the entry also cites, was not opened. The "would I buy this today?" test is a heuristic from the compendium and has not been tested in the studies above.
+The entry's description of the effect as "weaker in cultures with less individual ownership norms" is a loose paraphrase of that finding. Thaler (1980), which the entry also cites, is cited at second hand. The "would I buy this today?" test is a heuristic from the compendium and has not been tested in the studies above.
 
 **Plain words** People asked to sell something they hold tend to ask for much more than people asked to buy the same thing are willing to pay. In the mug experiments the gap was about double. Owning something seems to add value in the owner's mind, and the size of that effect varies by culture. Asking "would I choose this today if I did not own it?" is a way to check how much of the price is ownership.
 

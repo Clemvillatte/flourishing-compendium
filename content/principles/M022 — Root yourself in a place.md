@@ -29,7 +29,7 @@ Maya milpa farming links food, identity and ceremony to one piece of land. Moder
 
 ## Psychology parallels
 
-- **[[Place attachment|Place attachment and place identity]]**, Scannell and Gifford (2010) define place attachment as a person-process-place framework spanning affect, cognition and behaviour (J Environ Psychol 30:1-10); Lewicka (2011) is cited as a review and was not opened
+- **[[Place attachment|Place attachment and place identity]]**, Scannell and Gifford (2010) define place attachment as a person-process-place framework spanning affect, cognition and behaviour (J Environ Psychol 30:1-10); Lewicka (2011) is cited as a review and was cited at second hand
 - **Residential mobility and well-being**, more moves are associated with lower well-being, partly through fewer close relationships (Oishi & Schimmack, 2010)
 
 ## Philosophy parallels

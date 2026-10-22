@@ -28,7 +28,7 @@ The Codex speaks to people in different ranks and defines honor by how a person 
 
 ## Psychology parallels
 
-- **Envy and upward comparison**, envy is defined as a painful emotion of inferiority, hostility and resentment, and benign envy is distinguished from envy proper (Smith & Kim, 2007); R. H. Smith, 2000, cited in the original and not opened
+- **Envy and upward comparison**, envy is defined as a painful emotion of inferiority, hostility and resentment, and benign envy is distinguished from envy proper (Smith & Kim, 2007); R. H. Smith, 2000, cited in the original and cited at second hand
 
 ## Philosophy parallels
 

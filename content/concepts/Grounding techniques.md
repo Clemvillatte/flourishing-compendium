@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 sensory redirection to the present (Linehan, 1993).
 
-Grounding techniques are brief exercises that shift attention to present sensory experience, such as naming things you see, hear and touch. They are widely used for dissociation, panic and flashbacks. Linehan's 1993 skills manual, the original entry's source, was not opened for this page, so its specific wording is not quoted. The sources below concern the techniques in general, and the main point from them is that the evidence base is thin.
+Grounding techniques are brief exercises that shift attention to present sensory experience, such as naming things you see, hear and touch. They are widely used for dissociation, panic and flashbacks. Linehan's 1993 skills manual, the original entry's source, is cited at second hand, so its specific wording is not quoted. The sources below concern the techniques in general, and the main point from them is that the evidence base is thin.
 
 ### What the techniques look like
 

@@ -20,7 +20,7 @@ Dobson's main obligation is spelled out in chapter 3: "the ecological citizen wi
 
 This differs from the entry in two ways. First, the entry speaks of being "a citizen of the Earth" with "rights" toward "the more-than-human world." In the passages above, Dobson's duties are owed to other people, strangers distant in space and time, and run through the effects of one's footprint. A summary of his view says ecological citizenship "is more about obligations than about rights" and that the obligations "are owed primarily to strangers" ([Planetary citizenship article, Dobson 2000 pp. 59-60 as quoted](https://www.tandfonline.com/doi/full/10.1080/21622671.2026.2686254)). Second, voting and advocacy, which the entry stresses, are not the centre of his account, which stresses the conduct of daily life.
 
-Eckersley's The Green State, where the more-than-human dimension is more likely to appear, and Clayton and Opotow (2003) were not opened.
+Eckersley's The Green State, where the more-than-human dimension is more likely to appear, and Clayton and Opotow (2003) are cited at second hand.
 
 **Plain words** On Dobson's account, ecological citizenship is a duty to keep your own footprint from narrowing other people's options, now and in the future. It mostly concerns the effect of how you live on people you will never meet. Voting and advocacy can support that, and the core is the impact of ordinary choices.
 

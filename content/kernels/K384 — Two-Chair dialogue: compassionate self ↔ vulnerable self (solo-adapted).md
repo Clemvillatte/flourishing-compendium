@@ -36,7 +36,7 @@ Adapted from Kolts, CFT Made Simple, New Harbinger, 2016, ch. 12, "Embodying Com
 
 ### Evidence
 
-Kolts situates chair work in the emotion-focused therapy tradition ("CFT draws heavily from the work of a pioneer of modern chair work, Leslie Greenberg", [ch. 12, p. 155](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)) and reports a pilot study in his own words: "A recent pilot study demonstrated the usefulness of such chair work for increasing self-compassion and self-reassurance in self-critical clients, in addition to decreasing self-criticism and symptoms of anxiety and depression (Shahar et al., 2012)" ([ch. 12, p. 155](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)). That study and Greenberg's originals were not opened; the solo form is an adaptation of a therapist-facilitated exercise.
+Kolts situates chair work in the emotion-focused therapy tradition ("CFT draws heavily from the work of a pioneer of modern chair work, Leslie Greenberg", [ch. 12, p. 155](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)) and reports a pilot study in his own words: "A recent pilot study demonstrated the usefulness of such chair work for increasing self-compassion and self-reassurance in self-critical clients, in addition to decreasing self-criticism and symptoms of anxiety and depression (Shahar et al., 2012)" ([ch. 12, p. 155](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)). That study and Greenberg's originals were cited at second hand; the solo form is an adaptation of a therapist-facilitated exercise.
 
 ## Operationalises
 

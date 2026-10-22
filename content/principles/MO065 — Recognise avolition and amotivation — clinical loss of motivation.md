@@ -33,7 +33,7 @@ So the principle's line between laziness and illness is not something the source
 - [Ryan and Deci (2000), Self-determination theory and the facilitation of intrinsic motivation, American Psychologist 55, 68-78](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 ## Psychology parallels
 
-- **Avolition as clinical symptom**, reduced initiation and persistence of goal-directed activity, a core negative symptom of schizophrenia, with loss of interest and low energy listed among common depression symptoms (Marder & Galderisi, 2017; NIMH); the APA (2022) manual was not opened
+- **Avolition as clinical symptom**, reduced initiation and persistence of goal-directed activity, a core negative symptom of schizophrenia, with loss of interest and low energy listed among common depression symptoms (Marder & Galderisi, 2017; NIMH); the APA (2022) manual was cited at second hand
 - **Amotivation in SDT**, a state of lacking intention to act, arising from not valuing the activity, not feeling competent, or not expecting a result; it is a motivational state in the theory and not a clinical diagnosis (Ryan & Deci, 2000); Ryan & Deci (2017) is unopened
 
 ## Philosophy parallels
