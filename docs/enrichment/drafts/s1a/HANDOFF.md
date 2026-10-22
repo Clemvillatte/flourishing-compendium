@@ -73,3 +73,22 @@ ST184/ST095 duplication and registration are supervisor decisions (ROUTE.md).
 2. s1a-005 needs a target-principle reassignment (non-retaliation), then only the interpretation paragraph needs rewriting for the new principle — the research and all quotes are done and raw-verified.
 3. 003/004/006/007/008 are one small advisor round away from ready; the drafts are frozen and pushed.
 4. The requested ten new stories were NOT completed this session: five QC-pending drafts + one returned (plus the previously-ready s1a-002). s1a-009 onward remain to be drafted (candidate pool on STORIES-TASKBOARD).
+
+# Lane s1a handoff — storyteller-perplexity-1022b (2026-10-22, session 03:47-04:47Z, T0 03:47:01Z)
+
+## This session (baton s1a held; live supervisor worker-sup-flourish-1022 throughout; owner priority: zero-story Daoism/Buddhism/Pragmatism)
+
+Targets chosen from the fresh zero-story pool after cross-checking ALL lanes' drafts to avoid
+duplication (the STORIES-TASKBOARD pool was mostly claimed by s1b/s1c/s1d/s1e/s1f and s1a's own
+qc_pending backlog). Unclaimed zero-story ranking note: many high-degree targets remain (D015,
+B122, B060, D035, B039, D165, B094, D180, B160, B125, B029, B143, D142, D043, D061, D032...).
+
+| item | target | title | status | note |
+|---|---|---|---|---|
+| s1a-030 | D061 | Bian Que (Heguanzi) | returned | primary-text carriers blocked this session (ctext ip-block, zh.wikisource 429, en.wikipedia 429, BMJ robots); NO draft written, research note preserved in state.json |
+| s1a-031 | B016 | The All Is Aflame (SN 35:28) | ready | first item; 4 advisor rounds (1 FAIL, 2 bounded FAILs, 3 SCOPED PASS); full sutta fetched unprompted; quotes verified; ROUTE scope note |
+| s1a-032 | P192 | Django Relearns the Guitar | ready | 4 advisor rounds (2 bounded FAILs + mechanical repair audit + SCOPED PASS); Givan ch.1 fetched unprompted, page locators; ROUTE scope note |
+
+Both ready drafts are qc-cleared narratives; supervisor scope approval + registration remain the
+integration holds (ROUTE.md entries added). enrich_save.sh's git push fails from this sandbox
+(auth redirect drops the token) — use scripts/api_push.py after every save.
