@@ -40,11 +40,11 @@ The abstract reports emotions and resources measured over time; the sequence des
 - [[B148 — Speak lovingly]] — the warm heart as [[Right speech|the affective basis of right speech]]
 - [[B158 — Everyone wants to be happy]] — the shared wish underlying metta for friend and enemy alike
 - [[D104 — Love without possessing]] — goodwill without grasping
-- Cross-tradition parallels (comparisons, not influences): [[Agape|Kierkegaard's agape]], the Confucian ren, and the Christian love of neighbour.
+- Cross-tradition parallel (a comparison, not an influence claim): [[Agape|Kierkegaard's agape]], the Christian love given without regard to worth or return.
 
 ## Related concepts
 
-- [[Agape]] — the Christian love given without regard to worth or return, the member of the universal-love family closest to metta
+- [[Agape]] — the Christian love given without regard to worth or return
 - [[Karuna]] — compassion, its companion brahmavihara
 - [[Four immeasurables]] — the brahmavihara set metta belongs to
 - [[Metta (loving-kindness)]] — this page: the Pali term metta with its English rendering
@@ -54,7 +54,7 @@ The abstract reports emotions and resources measured over time; the sequence des
 - [[Right intention]] — the path factor that resolves on freedom from ill will, the intention metta trains
 - [[Broaden-and-build]] — the theory whose build hypothesis the Fredrickson experiment tested on loving-kindness meditation
 - [[Ahimsa]] — non-harm, the ethical floor beneath the wish that all beings be happy
-- [[Self-compassion]] — the turn of metta's goodwill toward one's own suffering
+- [[Self-compassion]] — comparison: kindness toward one's own suffering
 - [[SP059]] — Metta is trained as a stance before a feeling; Spinoza's generositas is likewise a desire by reason's dictate rather than a mood, goodwill as structure rather than feeling.
 
 ## Sources

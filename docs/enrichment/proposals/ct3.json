@@ -2,12 +2,10 @@
   "reciprocal": [
     {"into": "Broaden-and-build", "link": "Metta (loving-kindness)", "why": "loving-kindness meditation is the practice whose daily positive emotions the theory's build hypothesis was tested on"},
     {"into": "Compassion", "link": "Metta (loving-kindness)", "why": "loving-kindness and compassion are companion brahmaviharas"},
-    {"into": "Amor sui (right self-love)", "link": "Metta (loving-kindness)", "why": "metta training begins the sequence with oneself, the same turn of goodwill toward oneself that right self-love makes"},
-    {"into": "Growth through practice", "link": "Metta (loving-kindness)", "why": "metta-bhavana is one of the classical cultivation exercises the page lists"}
+    {"into": "Amor sui (right self-love)", "link": "Metta (loving-kindness)", "why": "right self-love and metta make a parallel turn of goodwill toward oneself, a comparison rather than an equivalence"},
+    {"into": "Growth through practice", "link": "Metta (loving-kindness)", "why": "metta-bhavana is the cultivation of goodwill through practice"}
   ],
   "inline": [
-    {"into": "AF065", "concept": "Metta (loving-kindness)", "phrase": "loving-kindness and compassion meditation"},
-    {"into": "B099", "concept": "Metta (loving-kindness)", "phrase": "The Karaṇīya Metta Sutta"},
-    {"into": "B164", "concept": "Metta (loving-kindness)", "phrase": "The Metta Sutta"}
+    {"into": "AF065", "concept": "Metta (loving-kindness)", "phrase": "loving-kindness"}
   ]
 }

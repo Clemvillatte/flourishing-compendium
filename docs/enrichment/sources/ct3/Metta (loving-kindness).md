@@ -41,3 +41,10 @@ Full rebuild of a never-pipelined legacy page per the owner's ct2/ct3 directive.
 - Related glosses re-grounded against each target's own definition: Agape ("love given without regard to worth or return"), Right intention ("resolve on renunciation, freedom from ill will, and harmlessness"), Care, Equanimity, Ahimsa, Self-compassion, SP059 (its own page discusses Spinoza's generositas and links Metta as stance-before-feeling — verified).
 - Mention/context saturation run (metta/loving-kindness/maitri, 60 results): new reciprocal proposals for Amor sui (right self-love) and Growth through practice (unlinked metta-bhavana/metta mentions); inline proposals for AF065, B099, B164 (unlinked Metta Sutta mentions). Compassion proposal why-clause corrected to the companion-brahmaviharas form.
 - Ledger correction: the Nyanaponika ellipsis marks omitted words (the embedded aspiration and intervening instructions), not italic formatting; nested-quotation formatting in the Thanissaro blockquote is the page's own rendering, not carrier punctuation.
+
+## QC round 3 (advisor-directed bounded repairs, applied and pushed)
+
+- Agape gloss de-ranked ("closest to metta" removed); Confucian-ren and love-of-neighbour comparisons removed (not carried by an opened carrier); the [[Agape|Kierkegaard's agape]] markup preserved as a comparison pointer with the Agape page's own definition.
+- Self-compassion gloss recast as an explicit comparison.
+- Proposals corrected: AF065 inline narrowed to the exact word "loving-kindness"; B099/B164 inline proposals dropped (their phrases name the Metta Sutta text, not the metta concept); Amor sui and Growth through practice why-clauses rewritten reader-facing with comparison language.
+- Advisor scope note recorded: the advisor certified the repairs against the session's saved carrier outputs, not an independent re-fetch; my own raw-text comparisons are in the ledger above.
