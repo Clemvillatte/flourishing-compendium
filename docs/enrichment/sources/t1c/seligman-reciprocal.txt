@@ -1,0 +1,445 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+      "id": "A001",
+      "title": "Make eudaimonia the organising end of your life",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A003 \u2014 Make virtue your primary investment.md",
+      "id": "A003",
+      "title": "Make virtue your primary investment",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A012 \u2014 Practice temperance (sophrosyne).md",
+      "id": "A012",
+      "title": "Practice temperance (sophrosyne)",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF072 \u2014 Recognise that positive affect alone is not flourishing; it is one component.md",
+      "id": "AF072",
+      "title": "Recognise that positive affect alone is not flourishing; it is one component",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AT021 \u2014 Learn to attend to the positive deliberately \u2014 attention training for well-being.md",
+      "id": "AT021",
+      "title": "Learn to attend to the positive deliberately: attention training for well-being",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B033 \u2014 Cultivate the seven factors of awakening.md",
+      "id": "B033",
+      "title": "Cultivate the seven factors of awakening",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BE055 \u2014 Learn to express gratitude behaviourally \u2014 thank others.md",
+      "id": "BE055",
+      "title": "Learn to express gratitude behaviourally: thank others",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO070 \u2014 Cultivate epistemic curiosity \u2014 the drive to know for its own sake.md",
+      "id": "CO070",
+      "title": "Cultivate epistemic curiosity: the drive to know for its own sake",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D001 \u2014 Align your life with the Dao.md",
+      "id": "D001",
+      "title": "Align your life with the Dao",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D004 \u2014 Cultivate de \u2014 your embodied character-power.md",
+      "id": "D004",
+      "title": "Cultivate de: your embodied character-power",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E058 \u2014 Practise measure.md",
+      "id": "E058",
+      "title": "Practise measure",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E063 \u2014 Practise meaning through love.md",
+      "id": "E063",
+      "title": "Practise meaning through love",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/M016 \u2014 Understand personhood as something built.md",
+      "id": "M016",
+      "title": "Understand personhood as something built",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P065 \u2014 Experience comes whole \u2014 relations are experienced.md",
+      "id": "P065",
+      "title": "Experience comes whole: relations are experienced",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P155 \u2014 Make workability your everyday criterion.md",
+      "id": "P155",
+      "title": "Make workability your everyday criterion",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P158 \u2014 Choose values as directions, not destinations.md",
+      "id": "P158",
+      "title": "Choose values as directions, not destinations",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P164 \u2014 Judge your life as a direction, not a destination.md",
+      "id": "P164",
+      "title": "Judge your life as a direction, not a destination",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P170 \u2014 Build flourishing strand by strand (PERMA).md",
+      "id": "P170",
+      "title": "Build flourishing strand by strand (PERMA)",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P171 \u2014 Watch your explanatory style.md",
+      "id": "P171",
+      "title": "Watch your explanatory style",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P172 \u2014 Design your days for the strands.md",
+      "id": "P172",
+      "title": "Design your days for the strands",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP004 \u2014 Treat flourishing as multi-dimensional.md",
+      "id": "PP004",
+      "title": "Treat flourishing as multi-dimensional",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP036 \u2014 Identify and use signature strengths.md",
+      "id": "PP036",
+      "title": "Identify and use signature strengths",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP037 \u2014 Cultivate courage.md",
+      "id": "PP037",
+      "title": "Cultivate courage",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP038 \u2014 Cultivate humanity.md",
+      "id": "PP038",
+      "title": "Cultivate humanity",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP039 \u2014 Cultivate justice.md",
+      "id": "PP039",
+      "title": "Cultivate justice",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP041 \u2014 Cultivate transcendence.md",
+      "id": "PP041",
+      "title": "Cultivate transcendence",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP065 \u2014 Build a portfolio, not a single practice.md",
+      "id": "PP065",
+      "title": "Build a portfolio, not a single practice",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R051 \u2014 Practise ren (humanitybenevolence).md",
+      "id": "R051",
+      "title": "Practise ren (humanity/benevolence)",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R087 \u2014 Practise hope.md",
+      "id": "R087",
+      "title": "Practise hope",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE015 \u2014 Recognise your strengths and weaknesses \u2014 accurate, not inflated.md",
+      "id": "SE015",
+      "title": "Recognise your strengths and weaknesses: accurate, not inflated",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE079 \u2014 Recognise the self is not the goal \u2014 self serves living well.md",
+      "id": "SE079",
+      "title": "Recognise the self is not the goal: self serves living well",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE081 \u2014 Give style to one's character.md",
+      "id": "SE081",
+      "title": "Give style to one's character",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SP029 \u2014 Understand bondage as being determined from outside.md",
+      "id": "SP029",
+      "title": "Understand bondage as being determined from outside",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y110 \u2014 Cultivate the divine dispositions.md",
+      "id": "Y110",
+      "title": "Cultivate the divine dispositions",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Benevolence.md",
+      "id": "Benevolence",
+      "title": "Benevolence",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Character strengths (Peterson & Seligman).md",
+      "id": "Character strengths (Peterson & Seligman)",
+      "title": "Character strengths (Peterson & Seligman)",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Connectedness in well-being research.md",
+      "id": "Connectedness in well-being research",
+      "title": "Connectedness in well-being research",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Designing for virtue.md",
+      "id": "Designing for virtue",
+      "title": "Designing for virtue",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Dispositional optimism.md",
+      "id": "Dispositional optimism",
+      "title": "Dispositional optimism",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Gratitude.md",
+      "id": "Gratitude",
+      "title": "Gratitude",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/HEXACO model of personality structure.md",
+      "id": "HEXACO model of personality structure",
+      "title": "HEXACO model of personality structure",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Happiness as activity.md",
+      "id": "Happiness as activity",
+      "title": "Happiness as activity",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Judging by where one rests.md",
+      "id": "Judging by where one rests",
+      "title": "Judging by where one rests",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Learned Helplessness Theory.md",
+      "id": "Learned Helplessness Theory",
+      "title": "Learned Helplessness Theory",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Learned optimism.md",
+      "id": "Learned optimism",
+      "title": "Learned optimism",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Logotherapy.md",
+      "id": "Logotherapy",
+      "title": "Logotherapy",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Love.md",
+      "id": "Love",
+      "title": "Love",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Moral courage research.md",
+      "id": "Moral courage research",
+      "title": "Moral courage research",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Moral situation research.md",
+      "id": "Moral situation research",
+      "title": "Moral situation research",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Optimism.md",
+      "id": "Optimism",
+      "title": "Optimism",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Optimistic explanatory style.md",
+      "id": "Optimistic explanatory style",
+      "title": "Optimistic explanatory style",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/PERMA model.md",
+      "id": "PERMA model",
+      "title": "PERMA model",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Positive psychology.md",
+      "id": "Positive psychology",
+      "title": "Positive psychology",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Schwartz.md",
+      "id": "Schwartz",
+      "title": "Schwartz",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Self-regulation.md",
+      "id": "Self-regulation",
+      "title": "Self-regulation",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Tragic optimism.md",
+      "id": "Tragic optimism",
+      "title": "Tragic optimism",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/VIA classification.md",
+      "id": "VIA classification",
+      "title": "VIA classification",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Virtue.md",
+      "id": "Virtue",
+      "title": "Virtue",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Work engagement.md",
+      "id": "Work engagement",
+      "title": "Work engagement",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K212 \u2014 Gratitude expression.md",
+      "id": "K212",
+      "title": "Gratitude expression",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST136 \u2014 Seligman Renames the Target.md",
+      "id": "ST136",
+      "title": "136. Seligman Renames the Target",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST318 \u2014 The VIA Classification.md",
+      "id": "ST318",
+      "title": "318.  The VIA Classification",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/thinkers/T001 \u2014 Csikszentmihalyi, Mihaly.md",
+      "id": "T001",
+      "title": "Csikszentmihalyi, Mihaly",
+      "thinker": "T026",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
