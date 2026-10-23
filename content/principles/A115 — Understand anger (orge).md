@@ -37,6 +37,9 @@ The compendium's exercise: when anger arrives, write down the slight as the angr
 
 - **[[Gentleness (praotes)|Gentleness (praotes)]]** (Aristotle, NE IV.5)
 - **[[The empty boat reflection|The empty boat reflection]]** (Zhuangzi tradition)
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the empty boat, the anger page's own parable
 
 <!-- fc: reflections
 When did anger last make a claim about being wronged? Was the claim true?
