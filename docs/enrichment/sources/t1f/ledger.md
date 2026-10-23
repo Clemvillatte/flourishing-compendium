@@ -1,9 +1,26 @@
 # t1f band ledger
 
-## T048 Jaspers, Karl (worker-pplx-t1f-b9c3e4a1, 2026-10-23)
+## Band completion (worker-pplx-t1f-4f8b21c9, 2026-10-23)
 
-- Carriers opened this session: SEP "Karl Jaspers" (fetched via fetch_url AND raw curl of the page HTML; the psychopathology quotation verified against the unprompted raw HTML, not only the prompted extraction); Way to Wisdom, trans. Manheim (Internet Archive djvu full text, downloaded and grepped; OCR double-spacing normalized per house practice); Britannica "The Axial Age" (fetched; supports the 800-200 BCE span and the traditions list, does NOT credit Jaspers with the term).
-- Advisor QC round 1 (first-item QC, required): FAIL with corrections, all applied: (1) Axial Age sentence re-cited to Britannica (SEP entry does not cover it) and "appeared at once" softened to "emerged"; (2) unsupported interpretations narrowed (why-section rewritten to SEP's freedom/self-transformation/scientific-limits account; ciphers sentence re-grounded to SEP's nature/art/religious-symbolism/metaphysical-philosophy list; "mask drops" shipwreck gloss replaced with the verbatim p. 23 failure passage "The way in which man approaches his failure determines what he will become"); (3) Comprehensive quote punctuation restored to the carrier's terminal period; (4) inventory process note replaced (no unverifiable "37 context-checked" claim); (5) markdown italics removed; (6) opening birth/death facts now carry the SEP citation.
-- Verification scope, honestly stated: quotes verified are the six Way to Wisdom fragments (Grenzsituation list; "most profound source of philosophy"; despair-and-rebirth; both Comprehensive passages; p. 23 failure line) and the SEP psychopathology quote. Inventory classification: 4 entries context-checked by grep before round 1 (B001, CO070, E054, S007-class), remaining entries classified from the script's evidence list and the principles' own citation lines (E040 Fundamental stance/Psychology of World Views, E046 Decision/Philosophy vol. 2, E091-E098 explicit Jaspers practices, E099 mystery-of-being line shared with Marcel, E100 + S007 + the saying connected only through the ST289 story backlink, disclosed on-page). Full script output retained per the link-preservation rule and the owner's exhaustive-interconnection directive.
-- Reciprocal proposals: docs/enrichment/drafts/t1f/jaspers-reciprocal.md (37 entries, unapplied, supervisor review required per PROTOCOL-THINKERS).
-- Validator: ok (1 checked, 0 failed) after the repair pass; earlier commits b3be307c and 1ab52fe9/53ee2eee preceded the advisor pass and are superseded by the repair commit.
+EXTENSION band (owner-approved). All 9 thinkers minted: Jaspers T048 (prior session), then Gadamer T049, Nagarjuna T050, Nishida T051, MacIntyre T052, Dogen T053, Shankara T054, Mencius T055, Nishitani T056. Reciprocal proposals (191 entries) in docs/enrichment/proposals/t1f.json.
+
+## Quote verification record
+
+Every quote fetched, then verified verbatim against raw carrier text before or immediately after writing: Wikipedia action=raw wikitext (Gadamer, Nagarjuna, Dogen, Shankara, Nishitani), SEP raw HTML via curl (Mencius, Nishida). The Nishida objective statement (NKZ IX, 3) and miner-of-ore quotes verified against the raw SEP HTML (entity-encoded em-dashes hid them from a first grep; found on context read). Mencius quotes (Van Norden 6A6 and 2A6, Lau 2A2) verified against the raw SEP page. Dogen Genjōkōan passage verified against raw wikitext. MacIntyre tradition definition, After Virtue p. 261 sentence and Dependent Rational Animals preface sentence verified against raw wikitext.
+
+## QC history
+
+- Advisor QC (2026-10-23, after the batch): correction pass applied —
+  - T036/T037 sed corruption found and fixed (a GNU-sed BRE `\|` alternation matched an empty string and left stray `|206. The Inner Citadel]]` / `|23. Simone Weil on Attention]]` prefixes on the inventory lines; restored to the original markup; validator re-run clean).
+  - T055 Mencius: Zisi study hedged to mirror the carrier ("is said to have studied"); unsupported "father died / poverty" detail removed.
+  - T053 Dogen: unsupported "orphaned young" removed; "Studying Zen ... is zazen" re-attributed from Fukanzazengi to the Zazengi per the carrier.
+  - T049 Gadamer: unsupported "continuing to work into his hundredth year" removed; Heidelberg career grounded in the infobox institutions (1949-2002).
+  - T056 Nishitani: "interested in Zen through Suzuki" reworded to the carrier's wording; unsupported "European death of God had reached Japan" inference removed.
+  - T051 Nishida: unsupported "rather than imported Western categories" gloss removed.
+  - T054 Shankara: monastery founding moved under the tradition hedge; Sivananda formulation already honestly attributed.
+  - T052 MacIntyre: burned-library bullet softened to what the carriers support (the wiki's own ST252 retelling as See link).
+  - T050 Nagarjuna: inventory intro now labels the cross-tradition (Daoist/Stoic) entries as comparisons; the samsara/nirvana chapter locator (22.19-20) is cited as it appears in the carrier, not independently verified against an opened MMK translation — flagged for a future pass.
+  - Public "all quotes verified" workflow notes removed from all eight Sources sections (record kept here instead).
+  - Word counts: sections are visibly within protocol bands and the validator passes all pages; the counting script used during drafting deleted quoted strings, so the counts are conservative rather than official — noted for the supervisor.
+- T050 Nagarjuna first draft had invented principle links; caught before push and rewritten from the real thinker_links.py generated list (the recorded T037 lesson, applied).
+- State files: t1f bogus in_progress="done" cleared; ct3 done items normalized to plain paths with verification notes moved to the notes field; the two PBT pages (Process-based therapy, Treatment kernels) returned to verification-pending because their verification relied on the prior PBT-EEMM audit document rather than passage-level evidence recovered this session.

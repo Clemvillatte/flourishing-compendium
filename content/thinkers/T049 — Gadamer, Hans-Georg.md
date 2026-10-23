@@ -12,7 +12,7 @@ Hans-Georg Gadamer (February 11, 1900, Marburg – March 13, 2002, Heidelberg) w
 
 ## Personal story / context
 
-Born in Marburg, he took his doctorate in 1922 with a thesis on the nature of pleasure in Plato's dialogues under Paul Natorp, and worked with Martin Heidegger, whose radical rethinking of understanding he carried into his own hermeneutics ([Wikipedia, Hans-Georg Gadamer](https://en.wikipedia.org/wiki/Hans-Georg_Gadamer)). He spent most of his career at Heidelberg, publishing *Truth and Method* at sixty and continuing to work into his hundredth year.
+Born in Marburg, he took his doctorate in 1922 with a thesis on the nature of pleasure in Plato's dialogues under Paul Natorp, and worked with Martin Heidegger, whose radical rethinking of understanding he carried into his own hermeneutics ([Wikipedia, Hans-Georg Gadamer](https://en.wikipedia.org/wiki/Hans-Georg_Gadamer)). He spent most of his career at Heidelberg, from 1949 until his death, publishing *Truth and Method* at sixty.
 
 ## Their why
 
@@ -82,4 +82,4 @@ Kept to the pages that carry or substantively apply Gadamer's work: horizons, pr
 
 ## Sources
 
-- [Wikipedia, "Hans-Georg Gadamer"](https://en.wikipedia.org/wiki/Hans-Georg_Gadamer) — the biography (Marburg 1900, Heidelberg 2002, the 1922 Plato thesis under Natorp, the Heidegger influence, *Truth and Method* 1960), the fusion-of-horizons and prejudice doctrine, the "prejudice against prejudices" point, and the verbatim statement of his philosophic concern. All quotes verified against the raw article wikitext.
+- [Wikipedia, "Hans-Georg Gadamer"](https://en.wikipedia.org/wiki/Hans-Georg_Gadamer) — the biography (Marburg 1900, Heidelberg 2002, the 1922 Plato thesis under Natorp, the Heidegger influence, *Truth and Method* 1960), the fusion-of-horizons and prejudice doctrine, the "prejudice against prejudices" point, and the verbatim statement of his philosophic concern. 

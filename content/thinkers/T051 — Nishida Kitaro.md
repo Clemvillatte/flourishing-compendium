@@ -8,7 +8,7 @@ tags: ["person", "track/philosophy"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Kitarō Nishida (西田幾多郎, May 19, 1870 – June 7, 1945) was a Japanese philosopher who founded the Kyoto School and spent his career building a philosophy out of Zen-informed experience rather than imported Western categories ([SEP, Nishida Kitarō](https://plato.stanford.edu/entries/nishida-kitaro/)).
+Kitarō Nishida (西田幾多郎, May 19, 1870 – June 7, 1945) was a Japanese philosopher who founded the Kyoto School and made pure experience the starting point of philosophy ([SEP, Nishida Kitarō](https://plato.stanford.edu/entries/nishida-kitaro/)).
 
 ## Personal story / context
 
@@ -73,4 +73,4 @@ Kept to the pages that carry or substantively apply Nishida's work: pure experie
 
 ## Sources
 
-- [Stanford Encyclopedia of Philosophy, "Nishida Kitarō" by John Maraldo](https://plato.stanford.edu/entries/nishida-kitaro/) — the biography (Unoke 1870, Tokyo Imperial University, the Hume thesis, Kyoto Imperial University career, basho theory, death June 7 1945, Kyoto School foundation) and the verbatim quotes: pure experience ("The moment of seeing a color or hearing a sound", "one and only reality"), absolute nothingness (NKZ IX, 6), "I am myself by knowing my own death" (NKZ XI, 420), the miner-of-ore preface, and the NKZ IX, 3 objective statement. All quotes verified against the raw page text.
+- [Stanford Encyclopedia of Philosophy, "Nishida Kitarō" by John Maraldo](https://plato.stanford.edu/entries/nishida-kitaro/) — the biography (Unoke 1870, Tokyo Imperial University, the Hume thesis, Kyoto Imperial University career, basho theory, death June 7 1945, Kyoto School foundation) and the verbatim quotes: pure experience ("The moment of seeing a color or hearing a sound", "one and only reality"), absolute nothingness (NKZ IX, 6), "I am myself by knowing my own death" (NKZ XI, 420), the miner-of-ore preface, and the NKZ IX, 3 objective statement. 

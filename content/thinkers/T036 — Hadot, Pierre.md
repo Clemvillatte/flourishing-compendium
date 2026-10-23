@@ -72,7 +72,7 @@ Kept to the pages that carry or substantively apply Hadot's scholarship: the spi
 - [[Therapeutic philosophy]]
 
 ### Stories (1)
-|206. The Inner Citadel]]- [[ST206 — The Inner Citadel|206. The Inner Citadel]]
+- [[ST206 — The Inner Citadel|206. The Inner Citadel]]
 
 ## Sources
 

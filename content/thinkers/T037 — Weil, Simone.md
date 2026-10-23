@@ -82,7 +82,7 @@ Kept to the pages that carry or substantively apply Weil's writings on attention
 - [[Two modes of attentional control|Two modes of attentional control]]
 
 ### Stories (1)
-|23. Simone Weil on Attention]]- [[ST023 — Simone Weil on Attention|23. Simone Weil on Attention]]
+- [[ST023 — Simone Weil on Attention|23. Simone Weil on Attention]]
 
 ## Sources
 

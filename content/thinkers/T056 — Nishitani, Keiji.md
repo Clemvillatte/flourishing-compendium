@@ -16,11 +16,11 @@ His life as a young man, in his own words:
 
 > "My life as a young man can be described in a single phrase: it was a period absolutely without hope... My life at the time lay entirely in the grips of nihility and despair... My decision then, to study philosophy was in fact – melodramatic as it might sound – a matter of life and death." (quoted in [Wikipedia, Keiji Nishitani](https://en.wikipedia.org/wiki/Keiji_Nishitani))
 
-He received his doctorate from Kyoto Imperial University in 1924 for a dissertation on Schelling and Bergson, studied under Martin Heidegger, and became interested in Zen through D. T. Suzuki's interpretation ([Wikipedia, Keiji Nishitani](https://en.wikipedia.org/wiki/Keiji_Nishitani)). His major work is *Religion and Nothingness*, with *The Self-Overcoming of Nihilism* alongside it.
+He received his doctorate from Kyoto Imperial University in 1924 for a dissertation on Schelling and Bergson, studied under Martin Heidegger, and became interested in Zen, especially in D. T. Suzuki's interpretation of it ([Wikipedia, Keiji Nishitani](https://en.wikipedia.org/wiki/Keiji_Nishitani)). His major work is *Religion and Nothingness*, with *The Self-Overcoming of Nihilism* alongside it.
 
 ## Their why
 
-The problem of his life, verbatim: "The fundamental problem of my life ... has always been, to put it simply, the overcoming of nihilism through nihilism" (quoted in Heisig's *Philosophers of Nothingness*, via [Wikipedia, Keiji Nishitani](https://en.wikipedia.org/wiki/Keiji_Nishitani)). The European death of God had reached Japan as meaninglessness; his question was whether that collapse could be passed through rather than merely treated.
+The problem of his life, verbatim: "The fundamental problem of my life ... has always been, to put it simply, the overcoming of nihilism through nihilism" (quoted in Heisig's *Philosophers of Nothingness*, via [Wikipedia, Keiji Nishitani](https://en.wikipedia.org/wiki/Keiji_Nishitani)). His question was whether that collapse could be passed through rather than merely treated.
 
 ## Their position
 
@@ -62,4 +62,4 @@ Kept to the pages that carry or substantively apply Nishitani's work: nihility, 
 
 ## Sources
 
-- [Wikipedia, "Keiji Nishitani"](https://en.wikipedia.org/wiki/Keiji_Nishitani) — the biography (1900-1990, Kyoto School, Nishida's disciple, the 1924 Schelling-and-Bergson doctorate, Heidegger study, D. T. Suzuki's Zen, *Religion and Nothingness*, *The Self-Overcoming of Nihilism*) and the verbatim quotes: the nihility passage, the fundamental-problem statement (via Heisig), and the interdependence sentence from *Religion and Nothingness*. All quotes verified against the raw article wikitext.
+- [Wikipedia, "Keiji Nishitani"](https://en.wikipedia.org/wiki/Keiji_Nishitani) — the biography (1900-1990, Kyoto School, Nishida's disciple, the 1924 Schelling-and-Bergson doctorate, Heidegger study, D. T. Suzuki's Zen, *Religion and Nothingness*, *The Self-Overcoming of Nihilism*) and the verbatim quotes: the nihility passage, the fundamental-problem statement (via Heisig), and the interdependence sentence from *Religion and Nothingness*. 

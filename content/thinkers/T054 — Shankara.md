@@ -12,7 +12,7 @@ Adi Shankara (c. 700 CE, Kaladi in present-day Kerala) was an Indian Vedic schol
 
 ## Personal story / context
 
-Firm biographical facts are scarce and the hagiographies are legendary; scholarly datings of his life range from c. 700 CE to 788–820 CE ([Wikipedia, Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara)). He was born at Kaladi, became a monk, and traveled and debated across the subcontinent, founding monasteries (*mathas*) — the tradition credits him with reviving Sanatan Dharma through the philosophy of Advaita Vedanta and promoting cultural unity ([Wikipedia, Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara)).
+Firm biographical facts are scarce and the hagiographies are legendary; scholarly datings of his life range from c. 700 CE to 788–820 CE ([Wikipedia, Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara)). He was born at Kaladi, became a monk, and traveled and debated across the subcontinent; the tradition credits him with founding monasteries (*mathas*), reviving Sanatan Dharma through the philosophy of Advaita Vedanta and promoting cultural unity ([Wikipedia, Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara)).
 
 ## Their why
 
@@ -62,4 +62,4 @@ Kept to the pages that carry or substantively apply Shankara's school: non-dual 
 
 ## Sources
 
-- [Wikipedia, "Adi Shankara"](https://en.wikipedia.org/wiki/Adi_Shankara) — the biography and its scholarly uncertainty (Kaladi, c. 700 CE and alternative datings, the commentaries, the monastery tradition), the Advaita doctrine statement in Sivananda's formulation, and the Mayeda-cited distinction of the two notions with Atman as witness. All quotes verified against the raw article wikitext.
+- [Wikipedia, "Adi Shankara"](https://en.wikipedia.org/wiki/Adi_Shankara) — the biography and its scholarly uncertainty (Kaladi, c. 700 CE and alternative datings, the commentaries, the monastery tradition), the Advaita doctrine statement in Sivananda's formulation, and the Mayeda-cited distinction of the two notions with Atman as witness. 

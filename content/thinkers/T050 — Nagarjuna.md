@@ -38,7 +38,7 @@ Emptiness is not a doctrine that disables the world but the condition of its wor
 
 ## Everything connected in the wiki — the Madhyamaka tradition
 
-Kept to the pages that carry or substantively apply Nagarjuna's school: emptiness, dependent origination, the two truths and the middle way.
+Kept to the pages that cite or apply Nagarjuna's school. Some entries (the Daoist and Stoic pages) are cross-tradition comparisons rather than Madhyamaka content, and are marked here for what they are.
 
 ### Principles (20)
 - [[AF009 — Understand that affect is constructed, not discovered|Understand that affect is constructed, not discovered]]
@@ -79,4 +79,4 @@ Kept to the pages that carry or substantively apply Nagarjuna's school: emptines
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, "Nagarjuna" by Jan Westerhoff](https://plato.stanford.edu/entries/nagarjuna/) — the dates (c. 150-250 CE), southern India, the Madhyamaka framing, the *Mūlamadhyamakakārikā* as his most important work (about 450 stanzas), and the emptiness-as-absence-of-*svabhāva* analysis.
-- [Wikipedia, "Nagarjuna"](https://en.wikipedia.org/wiki/Nagarjuna) — the biographical uncertainty and traditional locations, the Sātavāhana dating argument, and the verbatim *Mūlamadhyamakakārikā* verses 24.8-10, 24.14, 22.19-20 and the Tathagata sentence, all verified against the raw article wikitext.
+- [Wikipedia, "Nagarjuna"](https://en.wikipedia.org/wiki/Nagarjuna) — the biographical uncertainty and traditional locations, the Sātavāhana dating argument, and the verbatim *Mūlamadhyamakakārikā* verses 24.8-10, 24.14, 22.19-20 and the Tathagata sentence.

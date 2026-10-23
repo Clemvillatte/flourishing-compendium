@@ -12,7 +12,7 @@ Mencius (孟子, Mengzi, "Master Meng"; Latinized by Jesuit missionaries; full n
 
 ## Personal story / context
 
-Details of his early life are sketchy: his father is said to have died when he was young, leaving him and his mother in poverty, and he studied under Confucius's grandson Zisi ([SEP, Mencius](https://plato.stanford.edu/entries/mencius/)). As an adult he traveled among states advising rulers to govern through benevolence rather than force, held office in Qi, and resigned when the ruler would not enact his reforms ([SEP, Mencius](https://plato.stanford.edu/entries/mencius/)). He self-identified as a follower of Confucius: "Ever since man came into this world, there has never been one greater than Confucius" (Mengzi 2A2, Lau translation, quoted in [SEP, Mencius](https://plato.stanford.edu/entries/mencius/)).
+He is said to have studied under Confucius's grandson Zisi ([SEP, Mencius](https://plato.stanford.edu/entries/mencius/)). As an adult he traveled among states advising rulers to govern through benevolence rather than force, held office in Qi, and resigned when the ruler would not enact his reforms ([SEP, Mencius](https://plato.stanford.edu/entries/mencius/)). He self-identified as a follower of Confucius: "Ever since man came into this world, there has never been one greater than Confucius" (Mengzi 2A2, Lau translation, quoted in [SEP, Mencius](https://plato.stanford.edu/entries/mencius/)).
 
 ## Their why
 
@@ -69,4 +69,4 @@ Kept to the pages that carry or substantively apply Mencius's teaching: the virt
 
 ## Sources
 
-- [Stanford Encyclopedia of Philosophy, "Mencius" by Bryan Van Norden](https://plato.stanford.edu/entries/mencius/) — the biography (Zou in Shandong, study under Zisi, travel among states, office in Qi and resignation, the Mengzi text structure) and the verbatim Van Norden translations of Mengzi 6A6 (human nature, the four feelings, not-welded-externally) and 2A6 (the child at the well), plus the Lau quote of 2A2. All quotes verified against the raw page text.
+- [Stanford Encyclopedia of Philosophy, "Mencius" by Bryan Van Norden](https://plato.stanford.edu/entries/mencius/) — the biography (Zou in Shandong, study under Zisi, travel among states, office in Qi and resignation, the Mengzi text structure) and the verbatim Van Norden translations of Mengzi 6A6 (human nature, the four feelings, not-welded-externally) and 2A6 (the child at the well), plus the Lau quote of 2A2.
