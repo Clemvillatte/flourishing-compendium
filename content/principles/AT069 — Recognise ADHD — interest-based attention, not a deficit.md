@@ -28,6 +28,10 @@ For this attention system, interest is the on-switch. The machinery is not missi
 **For example**
 The report that sits untouched for days, then gets finished in one focused hour once the deadline lights up. The capacity was there the whole time; it was waiting for urgency.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the tree that is not judged by the forest, the page's image for interest-shaped attention.
+
 ## Sources
 
 - [DeWitt, "ADHD, Willpower, and Interest: A Positive Approach", MAPP capstone, University of Pennsylvania (2020), full text via UPenn repository](https://repository.upenn.edu/server/api/core/bitstreams/e85d5911-7c45-41b2-8377-2bb30cec785a/content) — Beike & Zentall 2012 novelty finding (p. 17); stimulation-and-interest claim (p. 18); Volkow et al. 2011 dopamine findings and "motivation or interest deficit" suggestion (pp. 19-20); deficit-of-interest synthesis (p. 20). Note: master's capstone synthesising peer-reviewed studies; study claims attributed within.

@@ -37,11 +37,19 @@
   "content/principles/AF014 — Recognise emotional inertia — the difference between feeling and getting stuck.md",
   "content/principles/AT023 — Learn to attend to process, not just outcome.md",
   "content/principles/AT026 — Learn to enter flow — the state of full attentional absorption.md",
-  "content/principles/AF028 — Master emotional regulation flexibility — the skill is matching strategy to context.md"
+  "content/principles/AF028 — Master emotional regulation flexibility — the skill is matching strategy to context.md",
+  "content/principles/AF081 — Recognise neurodivergent affect — it is not disordered.md",
+  "content/principles/AT036 — Learn to use deliberate mind-wandering — incubation and creative insight.md",
+  "content/principles/AT038 — Use nature for attentional restoration — soft fascination.md",
+  "content/principles/AT069 — Recognise ADHD — interest-based attention, not a deficit.md",
+  "content/principles/AT074 — Recognise neurodivergent attention — different patterns, not deficits.md",
+  "content/principles/B001 — Face suffering directly.md",
+  "content/principles/B015 — Nothing exists alone (interbeing).md",
+  "content/principles/B050 — Rest in ordinary mind — it is the Way.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:14:45+00:00",
+ "updated": "2026-10-23T14:15:16+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it."
 }

@@ -25,6 +25,10 @@ When a problem stops yielding, continuing to hammer it has a poor record. The me
 
 **For example**
 Stuck on a paragraph, you weed the garden for twenty minutes and come back to the page.
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the useless tree behind the page's parallel: idle wandering as the usefulness of uselessness.
+
 ## Sources
 
 - [Sio & Ormerod 2009, Does incubation enhance problem solving? A meta-analytic review, Psychological Bulletin 135(1):94-120, abstract](https://eric.ed.gov/?id=EJ827110) — the 117-study meta-analysis: positive incubation effect, divergent-thinking tasks benefit most, low-demand fillers beat demanding ones.

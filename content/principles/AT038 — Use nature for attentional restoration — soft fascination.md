@@ -28,6 +28,10 @@ There are two ways attention can be held. One takes effort and wears out; that i
 **For example**
 The lunchtime walk through the park instead of the scroll by the microwave: same twenty minutes, and the afternoon goes differently afterwards. The trees hold attention lightly while the effortful kind recharges.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the nature-as-teacher parallel the page cites for soft fascination.
+
 ## Sources
 
 - [Kaplan, "The restorative benefits of nature: Toward an integrative framework", Journal of Environmental Psychology 15(3), 169-182 (1995), PDF](https://new.censusatschool.org.nz/wp-content/uploads/2013/09/restorative-benefits-of-nature.pdf) — soft-hard fascination dimension (p. 172); fascination necessary-not-sufficient (p. 173); soft fascination exemplars (p. 174); DOI [10.1016/0272-4944(95)90001-2](https://doi.org/10.1016/0272-4944(95)90001-2)

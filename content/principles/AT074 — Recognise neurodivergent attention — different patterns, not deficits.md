@@ -30,6 +30,10 @@ The studies establish variation in pattern — a local bias, an interest-gated f
 
 *For example:* (Imagined case.) An autistic engineer who cannot work in the open-plan office but out-focuses the department from the quiet room: the pattern is not broken; the office was.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the tree that is not judged by the forest, the page's image for attention that differs without disorder.
+
 ## Sources
 
 - [Happé, F., & Frith, U. (2006). The weak coherence account: Detail-focused cognitive style in autism spectrum disorders. Journal of Autism and Developmental Disorders 36(1), 5-25, abstract](https://pubmed.ncbi.nlm.nih.gov/16450045/) — the three sentences quoted above

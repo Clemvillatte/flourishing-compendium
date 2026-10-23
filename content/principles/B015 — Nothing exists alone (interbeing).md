@@ -33,6 +33,8 @@ This is a claim about what a thing is. The paper is not a self-contained item th
 - **[[Oneness of things|Oneness of things]]** (Zhuangzi 2)
 ## Related concepts
 
+- [[T009 — Zhuangzi]]: the oneness-of-things passage behind the page's interbeing parallel.
+
 - [[T035 — Thich Nhat Hanh]]: interbeing, the page's own name for nothing existing alone
 
 <!-- fc: reflections

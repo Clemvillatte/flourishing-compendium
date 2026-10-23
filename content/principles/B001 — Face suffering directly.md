@@ -25,6 +25,10 @@ Pick a difficulty you are experiencing. Put into words what happened and what is
 
 *For example:* Imagine missing someone on a quiet Sunday. As an exercise, describe what you miss and what you are feeling at that moment.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the basin-drumming story (ST031) the page uses for grief met directly rather than denied.
+
 ## Stories
 
 - [[ST012 — The Fish on Dry Land|12. The Fish on Dry Land]]

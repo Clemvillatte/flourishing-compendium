@@ -26,6 +26,10 @@ The compendium draws an invitation to examine the activity you are already in be
 
 Imagine pausing over morning tea. Notice its warmth and taste, then return to what the day requires. If the moment feels unremarkable, you need not label it a failed practice or invent a story about having found ultimate peace.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the ziran (self-so) naturalness the page rests on: ordinary mind as the Way itself.
+
 ## Stories
 
 - [[ST344 — Suzuki Keeps the Beginner's Mind|344. Suzuki Keeps the Beginner's Mind]]
