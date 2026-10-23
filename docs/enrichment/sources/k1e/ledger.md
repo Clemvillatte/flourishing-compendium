@@ -339,3 +339,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The original Operationalises line's exact alias markup preserved after a validator catch (AF33 alias, not the full title); K272 Related-kernel preserved with a reader-facing how-clause; Related concepts added only for existing pages (Temporal distancing, Self-distancing, Impermanence — existence checked with enrich_find.py title).
 - Tompkins workbook (New Harbinger, commercial) remains the protocol's editorial source; the research evidence honestly scoped as cue-based reflection studies, not the rating-ladder intervention; the boundary note (no effect on academic functioning) is the paper's own framing, not a page invention.
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K390 — The Raisin meditation (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~200-word seed (Williams/Penman attribution only, no quotes, no Sources section, no Protocol) rebuilt to the K100 model (611 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: UC Berkeley Greater Good in Education (ggie.berkeley.edu) — the eight-stage raisin practice (Holding/Seeing/Touching/Smelling/Placing/Tasting/Swallowing/Following) read verbatim; Fede Lozano "Raisin Exploration" — the "mind rushes ahead, labels, judges, or disengages" framing quoted verbatim; UCSF Osher Full Catastrophe Living PDF — the "give everybody three raisins" passage was rendered verbatim in the search result; the PDF itself was NOT openable this session (http_code_client_error), so that quote rests on the search-result rendering and the same wording appears in the goodbooksummary secondary — flagged for the next pass to re-verify against a reachable copy of the primary.
+- The franticworld.com "Beyond chocolate" page (which carries the book's own eight-stage text verbatim) is robots-blocked for fetching; the Greater Good version is the opened carrier of the canonical practice steps.
+- Related concepts retargeted to existing pages only (Beginner's mind, Mindfulness-based stress reduction, Savoring — existence checked with enrich_find.py title; the "Autopilot" and "Mindfulness-Based Stress Reduction" uppercase forms do not exist).
+- The original Limits section preserved verbatim. Customer-facing grep clean; validator ok, 0 failed.
