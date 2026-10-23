@@ -24,7 +24,7 @@ The paper presents the model as consistent with the major features of panic and 
 
 **Plain words** In this model, noticing a bodily sensation and predicting a catastrophe are different things. A racing heart is the sensation; the belief that it means an imminent collapse is the prediction.
 
-*For example:* In an imagined meeting, you notice your heart racing and fear you will collapse. Record the sensation and the prediction separately.
+*For example:* You notice your heart racing and fear you will collapse. Record the sensation and the prediction separately.
 
 ## Sources
 

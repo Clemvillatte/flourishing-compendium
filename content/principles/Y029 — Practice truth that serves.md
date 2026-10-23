@@ -22,7 +22,7 @@ For a compendium exercise, draft one piece of difficult feedback. Ask what is ac
 Think about something difficult you need to tell someone. Put the factual point in one sentence. Then ask why the listener needs it, how you could phrase it, and whether this is the moment to speak.
 
 **For example**
-In an imagined exercise, someone drafts two comments on a friend's novel, checks their accuracy and purpose, and decides whether to offer the feedback.
+Someone drafts two comments on a friend's novel, checks their accuracy and purpose, and decides whether to offer the feedback.
 
 ## Psychology parallels
 

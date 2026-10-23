@@ -22,7 +22,7 @@ As a compendium exercise, audit your commitments and note the why: kept because 
 Imagine everyone treating danger as a reason to break an agreement. Why would anyone rely on agreements to work together? Spinoza uses that difficulty to argue for good faith. As a practical exercise, consider which of your commitments others need to rely on.
 
 **For example**
-In an imagined application, an employee notes that they are honest only while supervised, and asks what their word is worth to the people who will still be around after the next restructuring.
+An employee notes that they are honest only while supervised, and asks what their word is worth to the people who will still be around after the next restructuring.
 
 ## Sources
 

@@ -20,7 +20,7 @@ Spinoza argues that a true idea differs from a false one in its own nature, not 
 A feeling of certainty leaves a question unanswered: is the idea itself true? Spinoza's proposition starts with someone who has a true idea. It does not turn confidence or familiarity into a test of truth.
 
 **For example**
-In an imagined application, a student unsure of a proof writes down each step and asks what justifies it. This is a study exercise inspired by the principle.
+A student unsure of a proof writes down each step and asks what justifies it. This is a study exercise inspired by the principle.
 
 ## Sources
 

@@ -24,7 +24,7 @@ The second step of the sequence is reflection (manana), working over what has be
 Hearing a teaching once leaves it as somebody else's sentence in your head. The step that makes it yours is working it over: restate it, look for where it could be wrong, and check it against what you already know for yourself. Only then does keeping it or dropping it mean much.
 
 **For example**
-In an imagined case, someone hears in a talk that attention is trainable. They spend a week testing it, three short sessions a day with notes on what changes, before repeating the claim to anyone else.
+Someone hears in a talk that attention is trainable. They spend a week testing it, three short sessions a day with notes on what changes, before repeating the claim to anyone else.
 ## Psychology parallels
 
 - **[[Comprehension-strategy instruction|Comprehension-strategy instruction]]** (Pressley et al., 1992)

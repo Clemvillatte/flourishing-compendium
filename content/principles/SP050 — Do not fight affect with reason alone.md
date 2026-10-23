@@ -20,7 +20,7 @@ In Ethics IV.7, Spinoza says that an emotion is checked by a contrary emotion wi
 Knowing the reasons for a choice does not, in this account, settle which desire prevails. The question is whether those reasons are also felt as a desire strong enough to oppose the competing emotion.
 
 **For example**
-In an imagined application, someone anticipating a tempting purchase writes down what they want to save for. They are trying to bring a competing desire into view. They still have to find out whether it outweighs the attraction of buying.
+Someone anticipating a tempting purchase writes down what they want to save for. They are trying to bring a competing desire into view. They still have to find out whether it outweighs the attraction of buying.
 
 ## Sources
 

@@ -23,7 +23,7 @@ A review cites a meta-analysis by Banas and Rains (2010) finding that inoculatio
 
 ### Cautions
 
-Most of the newer evidence concerns misinformation, not everyday persuasion. The Science feature notes that McGuire believed inoculation only worked if people's beliefs had never been challenged before. The trials above are short-term online studies; the sources I opened do not report long-run effects.
+Most of the newer evidence concerns misinformation, not everyday persuasion. The Science feature notes that McGuire believed inoculation only worked if people's beliefs had never been challenged before. The trials above are short-term online studies; the sources opened for this page do not report long-run effects.
 
 ## Related concepts
 

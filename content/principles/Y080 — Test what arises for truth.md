@@ -24,7 +24,7 @@ Yoga Sūtra 1.47 describes an internal undisturbed calm that comes with clarity 
 An insight that shows up during practice can still be wrong about your life. Before you let one change a big decision, write down what would prove it mistaken, then go look for that evidence and talk the plan through with someone who will push back.
 
 **For example**
-In an imagined case, someone returns from retreat wanting to resign. They review their finances, discuss the plan with a person they trust to push back, and only then give notice.
+Someone returns from retreat wanting to resign. They review their finances, discuss the plan with a person they trust to push back, and only then give notice.
 ## Psychology parallels
 
 - **Illusory truth and confidence-accuracy dissociation** (Fazio et al., 2015)

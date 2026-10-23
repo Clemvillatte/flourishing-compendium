@@ -20,7 +20,7 @@ This finding concerns how the measures related in that research. It does not est
 
 **Plain words** Ask two questions: what felt unpleasant today, and what felt pleasant? Record both answers without assuming that knowing one tells you the other.
 
-*For example:* In an imagined daily note, you record worry about an appointment and enjoyment of a walk. Keep both entries rather than assigning the whole day one good-or-bad score.
+*For example:* You record worry about an appointment and enjoyment of a walk. Keep both entries rather than assigning the whole day one good-or-bad score.
 
 ## Sources
 

@@ -22,7 +22,7 @@ For a compendium exercise, choose one goal whose deadline comes from comparison 
 Pick a goal that makes you feel late. Who set the expected date? Write down which parts of the schedule you can change and why you would change them.
 
 **For example**
-In an imagined exercise, a writer who has not published by 40 writes down the under-30 lists they grew up hearing and drafts a weekly writing schedule.
+A writer who has not published by 40 writes down the under-30 lists they grew up hearing and drafts a weekly writing schedule.
 
 ## Psychology parallels
 

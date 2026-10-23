@@ -20,7 +20,7 @@ Spinoza says that life must be carried on while we work to improve the understan
 You still have everyday decisions to make while you work out how to live. Choose a few workable rules for those decisions, so the everyday side runs on something while the inquiry keeps going.
 
 **For example**
-In an imagined application, someone beginning this inquiry keeps enough paid work to cover living costs and reserves Tuesday evenings for reading.
+Someone beginning this inquiry keeps enough paid work to cover living costs and reserves Tuesday evenings for reading.
 
 ## Sources
 

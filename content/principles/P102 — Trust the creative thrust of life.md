@@ -28,7 +28,7 @@ You can begin a piece of work without knowing exactly what it will become. Choos
 
 ### For example
 
-Imagine wanting to write but having no finished argument. Try a paragraph that names the question and one reason it matters, then decide whether to continue, revise, or stop. This hypothetical exercise makes no prediction about improved mood or restored motivation.
+Imagine wanting to write but having no finished argument. Try a paragraph that names the question and one reason it matters, then decide whether to continue, revise, or stop. The exercise makes no prediction about improved mood or restored motivation.
 
 ## Sources
 

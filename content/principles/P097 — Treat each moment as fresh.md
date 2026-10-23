@@ -28,7 +28,7 @@ Before deciding that you already know how an encounter will go, ask what you are
 
 ### For example
 
-Imagine expecting a colleague to dismiss your suggestion. At the next meeting, distinguish that expectation from the words the colleague actually uses. This hypothetical exercise illustrates openness without predicting that the colleague, or your feelings, will change.
+Imagine expecting a colleague to dismiss your suggestion. At the next meeting, distinguish that expectation from the words the colleague actually uses. The exercise illustrates openness without predicting that the colleague, or your feelings, will change.
 
 ## Sources
 

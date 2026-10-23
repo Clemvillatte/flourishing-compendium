@@ -24,7 +24,7 @@ For a compendium exercise, set aside a brief sitting period. Afterwards, record 
 Give yourself a short period to sit. When you notice attention wandering, observe what you do next. Afterwards, write down whether you repeated instructions, returned to your chosen focus, or ended the session.
 
 **For example**
-In an imagined exercise, a beginning meditator who has been silently repeating "stop thinking" notices the repetition, drops the command, and returns attention to the breath for the remainder of the sitting.
+A beginning meditator who has been silently repeating "stop thinking" notices the repetition, drops the command, and returns attention to the breath for the remainder of the sitting.
 
 ## Psychology parallels
 

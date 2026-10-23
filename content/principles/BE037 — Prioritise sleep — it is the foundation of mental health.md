@@ -21,7 +21,7 @@ Sleep is also a treatment target. In the OASIS trial, 3,755 university students 
 **Plain words**
 Tell someone helping you with your mental health about nights spent awake as well as difficulties during the day. The student trial shows why sleep belongs in that conversation: treatment aimed at insomnia also helped with some other symptoms.
 
-*For example:* In an imagined example, a student brings notes about nights spent awake to an appointment and asks about insomnia treatment alongside help for anxiety.
+*For example:* A student brings notes about nights spent awake to an appointment and asks about insomnia treatment alongside help for anxiety.
 
 ## Sources
 

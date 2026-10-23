@@ -24,7 +24,7 @@ The same page describes depression as among the most treatable of mental disorde
 
 **Plain words** You do not have to decide whether you have depression before asking for help. The APA recommends seeing a family physician or psychiatrist if you are experiencing symptoms; diagnosis involves a professional evaluation.
 
-*For example:* In an imagined case, your mood has been low and work has become difficult. Describe those changes when arranging an evaluation, rather than deciding the diagnosis yourself.
+*For example:* Your mood has been low and work has become difficult. Describe those changes when arranging an evaluation, rather than deciding the diagnosis yourself.
 
 ## Sources
 

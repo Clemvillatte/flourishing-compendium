@@ -20,7 +20,7 @@ Vyasa's commentary on Yoga Sūtra 1.1 lists five states of mind: restless (kṣi
 Before a session, jot down what your attention is doing. Is it jumping between objects, sluggish, or staying with one thing? Afterwards, compare this note with what happened during the session.
 
 **For example**
-In an imagined exercise, someone writes "restless" before sitting, then notes when attention moved and when it stayed with the chosen object.
+Someone writes "restless" before sitting, then notes when attention moved and when it stayed with the chosen object.
 
 ## Psychology parallels
 

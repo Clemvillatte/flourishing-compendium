@@ -24,7 +24,7 @@ As a compendium exercise, keep a record of capacities exercised rather than comp
 When you assess yourself, what are you looking at: your actions, or other people's reactions? For this exercise, choose one action and describe what you were able to do. Keep that description separate from any praise you received.
 
 **For example**
-In an imagined application, someone keeps a weekly note of one difficult thing they completed and what capability it used, and reads it before asking whether they are doing well.
+Someone keeps a weekly note of one difficult thing they completed and what capability it used, and reads it before asking whether they are doing well.
 
 ## Sources
 

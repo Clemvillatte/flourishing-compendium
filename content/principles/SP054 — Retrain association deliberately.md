@@ -20,7 +20,7 @@ Spinoza states a conditional power: so long as we are not assailed by emotions c
 Consider how you want to respond to a difficult encounter before it happens. Work through what you know about the situation and what reasons support your response. This is the compendium's preparation exercise.
 
 **For example**
-In an imagined application, before a meeting a worker writes down one likely criticism and a reply they can defend. Afterwards, they compare the encounter with what they anticipated.
+Before a meeting a worker writes down one likely criticism and a reply they can defend. Afterwards, they compare the encounter with what they anticipated.
 
 ## Sources
 

@@ -19,7 +19,7 @@ A 2013 systematic review of 40 papers on formal volunteering carries the princip
 **Plain words**
 Finding that volunteers fare better does not tell someone what will happen if they sign up tomorrow. The experimental studies in this review did not confirm the benefits seen in cohort studies. You can choose a manageable way to contribute without expecting it to relieve depression.
 
-*For example:* In an imagined example, a retired teacher asks a local school about one weekly reading session and checks whether the commitment fits their available time.
+*For example:* A retired teacher asks a local school about one weekly reading session and checks whether the commitment fits their available time.
 
 ## Sources
 

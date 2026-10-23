@@ -17,7 +17,7 @@ Sextus tells the story as an accident: the painter Apelles, unable to render the
 > "they found that quietude, as if by chance, followed upon their suspense, even as a shadow follows its substance." (Sextus Empiricus, Outlines of Pyrrhonism I.12, [Bury translation](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))
 
 **Plain words**
-The Sceptics set out to settle the questions and expected quiet to arrive as the reward at the end. It arrived earlier and by accident, the moment they gave up the settling. Sextus' image is the shadow that follows a walking body without being asked. The practical point: calm is a poor target to aim at directly, because it tends to arrive while you are occupied with something else.
+The Sceptics set out to settle the questions and expected quiet to arrive as the reward at the end. It arrived earlier and by accident, the moment they gave up the settling. Sextus' image is the shadow that follows a walking body without being asked. On Sextus' account, quietude followed the suspension of judgment, not the striving that came before it; his image is the shadow that follows a walking body without being asked.
 
 **For example**
 Next time a question keeps circling, a decision you cannot settle, write the two live answers side by side, admit you cannot prove either one, and notice whether the circling slows on its own.

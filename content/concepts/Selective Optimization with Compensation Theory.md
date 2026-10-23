@@ -19,7 +19,7 @@ The Cambridge paper The Process of Successful Ageing gives a case: an elderly pe
 
 ### Scope and cautions
 
-The original entry says "successful ageing", which is the original focus, but the model is "a life-span model of successful development" that is also applied to work ([Exploring the Use of Selection, Optimization, and Compensation, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8866242/)). The Groningen chapter adds that "specific criteria of successful aging are subject to cultural and personal values", so what counts as a gain or a loss is not fixed by the model. an outcome meta-analysis, so I make no claim about how strongly SOC use predicts wellbeing is cited at second hand.
+The original entry says "successful ageing", which is the original focus, but the model is "a life-span model of successful development" that is also applied to work ([Exploring the Use of Selection, Optimization, and Compensation, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8866242/)). The Groningen chapter adds that "specific criteria of successful aging are subject to cultural and personal values", so what counts as a gain or a loss is not fixed by the model. The page does not rest on an outcome meta-analysis, so it makes no claim about how strongly SOC use predicts wellbeing.
 ## Sources
 
 - [The Model of Selection, Optimization, and Compensation (Springer Nature Link)](https://link.springer.com/rwe/10.1007/978-3-319-69892-2_109-1)

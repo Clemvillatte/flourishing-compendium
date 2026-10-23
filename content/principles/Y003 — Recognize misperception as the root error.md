@@ -24,7 +24,7 @@ For a compendium exercise, choose one belief about something you expect to last.
 Think of something you expect to remain part of your life, such as a role or possession. What changes could affect it? Record what you can actually establish about its permanence.
 
 **For example**
-In an imagined exercise, someone certain that a job title is permanent writes that belief beside the sutra's four mis-takings and marks which of the four the belief involves.
+Someone certain that a job title is permanent writes that belief beside the sutra's four mis-takings and marks which of the four the belief involves.
 
 ## Psychology parallels
 

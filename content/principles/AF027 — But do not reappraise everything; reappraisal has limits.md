@@ -24,7 +24,7 @@ A 2016 corrigendum corrected the depression scores of 7 of the 170 participants;
 
 **Plain words** This study examined reappraisal ability and depression in relation to stressor controllability. It did not establish which strategy would help a particular person. Before reframing, the compendium suggests asking what you could change in the situation.
 
-*For example:* In an imagined case, you tell yourself that a misassigned weekly task is fine. Separately, consider whether you could ask for reassignment. Reinterpreting the task and trying to change it are different options.
+*For example:* You tell yourself that a misassigned weekly task is fine. Separately, consider whether you could ask for reassignment. Reinterpreting the task and trying to change it are different options.
 
 ## Sources
 

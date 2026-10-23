@@ -22,7 +22,7 @@ As a compendium exercise, when you want a change to survive, state the reason it
 Notice what a feeling is attached to. If it hangs on one absent thing, other feelings about present things can crowd it out; if it comes from what holds generally, it keeps the same shape across situations and time. The question of what a feeling is attached to is more useful than the question of how strong it feels right now.
 
 **For example**
-In an imagined application, someone notes that their gym motivation is attached to a single image of a future summer, and that it weakens whenever that image is displaced. They restate the reason for exercising in terms they take to hold year-round, and watch whether the motive steadies.
+Someone notes that their gym motivation is attached to a single image of a future summer, and that it weakens whenever that image is displaced. They restate the reason for exercising in terms they take to hold year-round, and watch whether the motive steadies.
 
 ## Sources
 

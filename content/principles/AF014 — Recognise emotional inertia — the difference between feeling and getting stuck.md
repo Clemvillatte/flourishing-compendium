@@ -20,7 +20,7 @@ Greater inertia in positive and negative emotional behaviors predicted depressio
 
 **Plain words** The question is how much a feeling carries into the next observation. Its intensity is a separate question. A casual description of feeling fine does not give you the measure used in this study.
 
-*For example:* In an imagined diary, you record irritation at two check-ins. Keep both entries as observations; they are not an inertia estimate or a forecast of depression.
+*For example:* You record irritation at two check-ins. Keep both entries as observations; they are not an inertia estimate or a forecast of depression.
 
 ## Sources
 

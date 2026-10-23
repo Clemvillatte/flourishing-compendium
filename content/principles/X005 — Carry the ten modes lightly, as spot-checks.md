@@ -22,7 +22,7 @@ For a compendium exercise, choose one judgment and ask whether your circumstance
 Take an impression you feel sure about. Ask whether it would look different to another observer, from another position, or when you are tired. Write down the conditions you have not checked.
 
 **For example**
-In an imagined exercise, someone reading a colleague's email notes their own tiredness, asks another reader how they interpret the words, and rereads the full exchange.
+Someone reading a colleague's email notes their own tiredness, asks another reader how they interpret the words, and rereads the full exchange.
 
 ## Sources
 

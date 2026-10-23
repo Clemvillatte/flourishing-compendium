@@ -23,7 +23,7 @@ A summary on Philopedia lists four mechanisms of change: conversion, accommodati
 
 ### Reading the original entry note
 
-The original entry is a bare citation, so the page above states what the work actually argues. In the sources I opened, nonviolent action is presented as a method of struggle that works through withdrawn consent; I did not find a moral argument in them, so treat any ethical claim as outside this entry.
+The original entry is a bare citation, so the page above states what the work actually argues. In the sources opened for this page, nonviolent action is presented as a method of struggle that works through withdrawn consent; no moral argument appears in them, so treat any ethical claim as outside this entry.
 
 ## Sources
 

@@ -24,7 +24,7 @@ For a compendium exercise, pause at the end of each day and record what you find
 At day's end, describe one part of your life you appreciate. Also name something difficult or unfinished. Keep both in the record.
 
 **For example**
-In an imagined exercise, someone writes down what they appreciate about their current home and one source of discontent at the end of each day.
+Someone writes down what they appreciate about their current home and one source of discontent at the end of each day.
 
 ## Psychology parallels
 

@@ -23,7 +23,7 @@ For the living being, the operation has a temporal dimension: individuation in l
 (Simondon, L'individuation, 1958.)
 
 **Plain words**
-Individuation sounds like a grand word for becoming yourself. Simondon's point is more specific: a living thing is never finished being formed. The operation keeps running, so an identity is a snapshot, not a destination. The practical question is not who you really are, frozen in time, but whether the roles you are running still fit what is happening now. Fit is checked, not assumed.
+Individuation sounds like a grand word for becoming yourself. Simondon's point is more specific: a living thing is never finished being formed. The operation keeps running, so an identity is a snapshot, not a destination. The practical question shifts from who you really are, frozen in time, to whether the roles you are running still fit what is happening now. Fit is checked, not assumed.
 
 **For example**
 Imagine someone whose role was built around circumstances that have since changed. The question the principle suggests is whether the role still fits, rather than which version of themselves to get back to.

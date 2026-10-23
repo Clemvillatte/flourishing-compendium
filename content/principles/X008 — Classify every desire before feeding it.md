@@ -22,7 +22,7 @@ As a compendium exercise, sort your current pursuits into the three classes, one
 Ask two questions about a want: where does it come from, and is it necessary? A wish can be unnecessary and still natural. Give a reason for the category you choose before deciding whether to pursue it.
 
 **For example**
-In an imagined exercise, someone lists water, a costly lunch and praise at a reunion. Beside each, they write a proposed category and a reason for choosing it.
+Someone lists water, a costly lunch and praise at a reunion. Beside each, they write a proposed category and a reason for choosing it.
 
 ## Sources
 

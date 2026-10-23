@@ -21,7 +21,7 @@ The intervention study goes one step further. In a randomised placebo-controlled
 **Plain words**
 The questionnaire study links playfulness with life satisfaction; the intervention study shows a week-long exercise can raise measured playfulness with short-term well-being effects. The observational finding is an association, and the trial reports short-term effects. The exercises are small enough to fit into a week, which is what the trial actually tested.
 
-*For example:* In an imagined example, an adult makes time for a game they enjoy. This is a suggested activity, not a reproduction of the trial protocol.
+*For example:* An adult makes time for a game they enjoy. This is a suggested activity, not a reproduction of the trial protocol.
 
 ## Sources
 

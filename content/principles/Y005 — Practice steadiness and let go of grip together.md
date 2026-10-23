@@ -24,7 +24,7 @@ For a compendium exercise, plan a repeatable study period. Record whether each s
 Choose a regular task. Decide when you will do it and note what you hope to get from it. After each session, record the work you did and any urge to judge your progress immediately.
 
 **For example**
-In an imagined exercise, a language learner plans a repeatable study period and records after each session whether the planned session took place.
+A language learner plans a repeatable study period and records after each session whether the planned session took place.
 
 ## Psychology parallels
 

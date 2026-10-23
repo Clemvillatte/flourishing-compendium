@@ -24,7 +24,7 @@ The compendium applies this account by separating willingness to experience a fe
 
 **Plain words** You are answering two questions: what am I feeling, and how do I want to respond? If you worry that allowing the feeling means approving the event, use that distinction to examine the [[Acceptance|barrier to acceptance]].
 
-*For example:* In an imagined case, you acknowledge feeling angry after a betrayal and separately consider whether to have a conversation about it. Recognizing the feeling leaves that decision open.
+*For example:* You acknowledge feeling angry after a betrayal and separately consider whether to have a conversation about it. Recognizing the feeling leaves that decision open.
 
 ## Sources
 

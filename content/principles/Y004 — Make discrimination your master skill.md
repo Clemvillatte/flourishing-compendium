@@ -24,7 +24,7 @@ An everyday compendium exercise is to pause before a difficult decision and sepa
 Choose a decision you feel certain about. Write down what you have observed, what you have assumed, and what still needs checking.
 
 **For example**
-In an imagined exercise, a shop owner records a sales figure, a forecast and an unanswered question separately before choosing a next step.
+A shop owner records a sales figure, a forecast and an unanswered question separately before choosing a next step.
 
 ## Psychology parallels
 

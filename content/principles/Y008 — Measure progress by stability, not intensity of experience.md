@@ -24,7 +24,7 @@ For a compendium exercise, keep two kinds of notes after sitting: occasions when
 After a sitting, note when attention wandered and when you returned to your chosen focus. If an experience stood out, describe that separately.
 
 **For example**
-In an imagined exercise, a meditator dates a page, records an interruption and how they resumed, and gives a separate line to a vivid image.
+A meditator dates a page, records an interruption and how they resumed, and gives a separate line to a vivid image.
 
 ## Psychology parallels
 

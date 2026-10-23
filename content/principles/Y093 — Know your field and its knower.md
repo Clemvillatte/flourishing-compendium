@@ -24,7 +24,7 @@ The thirteenth chapter of the Gita sets up a working pair. Arjun asks what praká
 In the Gita's picture, the body is the field, and the one who knows the body is the field's knower; the chapter adds that there is a knower in every field. The everyday use of the distinction is a sorting question: when a moment is loud, list what is in the field, the racing heart, the email, the anger, and notice that the list is being read by the one who knows it. The verse states the distinction; what it finally shows is the chapter's longer argument, and this page stops at the exercise.
 
 **For example**
-In an imagined case, a player in the final minutes of a match takes stock of the field first: burning legs, the score, the noise. The exercise ends with the sorting; what the player does next is theirs.
+A player in the final minutes of a match takes stock of the field first: burning legs, the score, the noise. The exercise ends with the sorting; what the player does next is theirs.
 ## Psychology parallels
 
 - **[[Metacognitive monitoring|Metacognitive monitoring]]** (Flavell, 1979)

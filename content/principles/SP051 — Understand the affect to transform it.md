@@ -22,7 +22,7 @@ The method is stated plainly: "we must chiefly direct our efforts to acquiring, 
 Giving a feeling a name still leaves questions about the situation. What happened, and what have you assumed about it? Examining those assumptions is a starting exercise for this principle. Spinoza's corollary describes increasing control in proportion to understanding.
 
 **For example**
-In an imagined application, a worker separates what a reviewer actually said from the rejection they feared. They examine which beliefs are supported before deciding how to respond.
+A worker separates what a reviewer actually said from the rejection they feared. They examine which beliefs are supported before deciding how to respond.
 
 ## Sources
 

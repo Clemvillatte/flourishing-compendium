@@ -24,7 +24,7 @@ Book X's case for the contemplative life argues that it is the best activity (re
 The comparison is about company and equipment. Every virtuous person needs the necessaries of life; the just person also needs other people to be just towards, while the thinker can work alone. The pleasure argument runs alongside it: the pursuit is thought to offer pleasures marvellous for their purity and their enduringness. Making room for it is ordinary work: some hours, a subject, and staying with a hard question.
 
 **For example**
-In an imagined case, someone reserves one evening a week for reading and thinking.
+Someone reserves one evening a week for reading and thinking.
 
 ## Psychology parallels
 

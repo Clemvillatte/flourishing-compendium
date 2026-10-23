@@ -24,7 +24,7 @@ As a compendium exercise, take the list as this page's title suggests: read it m
 The appendix gathers the Ethics' practical teaching into something you can hold in one view. Read it top to bottom and ask, item by item, whether it describes you. For this exercise, choose one item and describe a recent situation in which you did or did not act that way.
 
 **For example**
-In an imagined application, someone reads the appendix on the first Sunday of each month and picks the one item that least describes them as the month's single project.
+Someone reads the appendix on the first Sunday of each month and picks the one item that least describes them as the month's single project.
 
 ## Sources
 

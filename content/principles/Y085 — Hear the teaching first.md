@@ -24,7 +24,7 @@ In the Advaita method, the teaching is first received from a teacher. The Upade≈
 You cannot weigh a teaching you have not received. The first step is ordinary: find someone who knows the material, ask, and keep listening until you can state the teaching back without distorting it. Weighing it comes later, and it only means something if the statement you weighed was the one actually given.
 
 **For example**
-In an imagined case, a student wants to dispute a teacher's position after one lecture. The teacher asks for the position restated in a paragraph the teacher would accept, and the dispute waits until then.
+A student wants to dispute a teacher's position after one lecture. The teacher asks for the position restated in a paragraph the teacher would accept, and the dispute waits until then.
 ## Psychology parallels
 
 - **[[Modeling|Modeling and observational learning]]** (Bandura, 1997)

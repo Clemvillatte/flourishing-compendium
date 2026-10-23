@@ -24,7 +24,7 @@ For an everyday compendium exercise, record one recurring reaction, what precede
 Pick one reaction you keep repeating. Describe the situation, what you did, and one different response you can practise. Review the record after a week.
 
 **For example**
-In an imagined exercise, a parent records an evening interruption and plans to pause before answering at the next interruption.
+A parent records an evening interruption and plans to pause before answering at the next interruption.
 
 ## Psychology parallels
 

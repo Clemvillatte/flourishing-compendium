@@ -7,7 +7,7 @@ file: "Skills training (DBT, CBT)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Skills training is the teaching of specific behavioural skills, such as emotion regulation or interpersonal skills, as an organised programme. The original entry cites Linehan (1993) and Kelly (2004). The best-documented case in the sources opened for this page is the skills training component of dialectical behaviour therapy (DBT), run from a manual by Linehan; the title also names CBT, but those sources describe DBT only.
+Skills training is the teaching of specific behavioural skills, such as emotion regulation or interpersonal skills, as an organised programme. The original entry cites Linehan (1993) and Kelly (2004). The best-documented case in the sources this page uses is the skills training component of dialectical behaviour therapy (DBT), run from a manual by Linehan; the title also names CBT, but those sources describe DBT only.
 
 ### Where it sits in DBT
 

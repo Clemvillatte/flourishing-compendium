@@ -22,7 +22,7 @@ For a compendium exercise, try a week of simpler spending and record what was ma
 Find out what you need to get through an ordinary week. Keep a record of spending and the comforts you miss. Include time with friends in the exercise.
 
 **For example**
-In an imagined exercise, someone between jobs plans an inexpensive week, records its actual costs, and keeps a regular visit with a friend.
+Someone between jobs plans an inexpensive week, records its actual costs, and keeps a regular visit with a friend.
 
 ## Psychology parallels
 

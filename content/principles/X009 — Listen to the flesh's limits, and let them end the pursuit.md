@@ -22,7 +22,7 @@ For a compendium exercise, try a simple meal when hungry and write down what you
 An expensive meal need not give more pleasure. Epicurus asks us to consider what simple food can provide when we are hungry. Try the comparison and describe your experience without assuming how it will feel.
 
 **For example**
-In an imagined exercise, someone serves rice and vegetables and records their hunger before and after the meal.
+Someone serves rice and vegetables and records their hunger before and after the meal.
 
 ## Psychology parallels
 

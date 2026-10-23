@@ -22,7 +22,7 @@ As a compendium exercise, consider something you valued understanding for its ow
 Spinoza identifies blessedness with virtue, rather than treating it as a separate payment. He then makes a further claim: enjoying blessedness enables control of desire. His proof connects this with divine love and understanding.
 
 **For example**
-In an imagined application, a reader writes down what was worth understanding about a conflict even if that understanding brought no praise or advantage.
+A reader writes down what was worth understanding about a conflict even if that understanding brought no praise or advantage.
 
 ## Sources
 

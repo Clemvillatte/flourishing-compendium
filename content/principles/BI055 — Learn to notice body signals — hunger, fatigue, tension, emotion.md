@@ -19,7 +19,7 @@ One caution matters for self-care. Garfinkel and colleagues tested 80 people and
 **Plain words**
 Your body keeps sending information about hunger, tiredness, tension and mood. Paying attention to it is a reasonable habit, and researchers link difficulties with these signals to several mental health conditions. But people are not always as accurate at reading their own bodies as they feel, so treat a signal as a prompt to check, not as proof. If a sensation worries you, a doctor can check what it means.
 
-*For example:* At mid-afternoon you notice a tight jaw and a short temper. You ask yourself whether you have eaten, slept badly or been sitting for hours, and you try the cheapest fix first. the cause may well be something else.
+*For example:* At mid-afternoon you notice a tight jaw and a short temper. You ask yourself whether you have eaten, slept badly or been sitting for hours, and you try the cheapest fix first. The cause may well be something else.
 
 ## Sources
 

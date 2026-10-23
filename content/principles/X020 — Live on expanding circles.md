@@ -22,7 +22,7 @@ For a compendium exercise, choose one long-held conviction. Record the experienc
 Pick a belief you have not reconsidered for a while. Ask what experience it rests on and what would change your mind. Use those questions to choose something to read or someone to talk with.
 
 **For example**
-In an imagined exercise, someone who expects managers to resemble a former boss asks two colleagues about their experiences and records similarities and differences.
+Someone who expects managers to resemble a former boss asks two colleagues about their experiences and records similarities and differences.
 
 ## Psychology parallels
 

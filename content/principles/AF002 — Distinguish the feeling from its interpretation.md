@@ -18,7 +18,7 @@ The compendium's exercise is to write down a bodily sensation and your explanati
 
 **Plain words** You can take the discomfort seriously and still question your explanation of it. Write down what you feel, then write down what you think it means, and read the second line as a claim that might be wrong.
 
-*For example:* In an imagined presentation scenario, you notice warm hands and predict that you will forget your opening. Record the sensation and the prediction separately, then compare the prediction with what happened during rehearsal.
+*For example:* You notice warm hands and predict that you will forget your opening. Record the sensation and the prediction separately, then compare the prediction with what happened during rehearsal.
 
 ## Sources
 

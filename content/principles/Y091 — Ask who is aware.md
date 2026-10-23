@@ -24,7 +24,7 @@ The Kena Upanishad opens with the "who" questions, quoted below. The reply does 
 Most of your attention sits on things: sounds, worries, the phone. This question points it the other way, at whatever is doing the noticing. The Kena's reply gives no object to find there. The exercise is to ask and to look; the page promises no result.
 
 **For example**
-In an imagined case, someone caught in a loop of worry asks "who is aware of this worry?" and looks back for the looker. The exercise is the looking itself.
+Someone caught in a loop of worry asks "who is aware of this worry?" and looks back for the looker. The exercise is the looking itself.
 ## Psychology parallels
 
 - **Default mode network and self-referential processing** (Brewer et al., 2011; neural evidence, doctrinally neutral)
