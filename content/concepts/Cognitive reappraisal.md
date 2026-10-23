@@ -3,32 +3,51 @@ schema: 0
 id: "Cognitive reappraisal"
 type: "concept"
 title: "Cognitive reappraisal"
-file: "Cognitive reappraisal"
 tags: ["psych/cognition", "theory"]
+file: "Cognitive reappraisal"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Cognitive reappraisal is the emotion-regulation strategy of changing an emotional event's meaning — reinterpreting the situation so that the feeling that follows it changes. In James Gross's process model of emotion regulation it is a well-supported antecedent-focused strategy: it acts on the interpretation of the event before the response fully forms, rather than on the response itself ([Gross's model via PMC review of cognitive strategies](https://pmc.ncbi.nlm.nih.gov/articles/PMC3887268/); [converging psychophysiological evidence](https://pmc.ncbi.nlm.nih.gov/articles/PMC4106258/)). Its neural signature is the one the models predict: prefrontal regions engaged in regulating limbic response ([Springer, neural bases of cognitive emotion regulation](https://link.springer.com/article/10.3758/s13415-020-00775-8)).
+Cognitive reappraisal is the emotion-regulation strategy of changing an emotional event's meaning: reinterpreting the situation so that the feeling that follows it changes. In James Gross's process model of emotion regulation it is a well-supported antecedent-focused strategy. A review of the cognitive strategies states the model's placement directly:
 
-The concept is a close cousin of the oldest Stoic teaching: you are disturbed not by things but by your judgements about things ([[S003 — Recognise that you are disturbed not by things but by your judgements about them]]; [[S051 — Recognise that your judgements are the source of your distress]]; [[S058 — Practise reframing]]). What the Stoics called examining the impression, the emotion researchers call changing the appraisal — the event stays; the reading changes; the feeling follows ([[SP051 — Understand the affect to transform it]]; [[D083 — Reframe to dissolve conflict]]; [[Y034 — Counter negative states with their opposites]] is its yogic cousin).
+> "Reappraisal is also an antecedent-focused strategy, but it is implemented later than distraction during the time course of ER (Gross, 1998)." ([Moyal, Henik & Anholt 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC3887268/))
 
-The distinctions to hold are two. Reappraisal is not suppression: habitual reappraisers show greater well-being and fewer depressive symptoms than non-users, per Gross and John's survey data ([[PP017 — Regulate negative emotion without suppressing it]]; [[AF026 — Prefer cognitive reappraisal over suppression when possible]]). And it is not [[Cognitive defusion]]: reappraisal argues for a better interpretation; defusion drops the argument — a full toolkit carries both, and the wise read of each situation picks ([[AF025 — Learn the full regulation toolkit — it is larger than calm down.]]; [[S014 — Want what actually happens]] is the reappraisal that meets reality rather than merely reframing it).
+The same review reports the down-regulation evidence: "although distraction caused greater decrease in amygdala activation compared with reappraisal, reappraisal was more effective in down-regulating the emotional experience as measured by self-reports" ([Moyal et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC3887268/)).
 
-An example at its smallest: the delayed train read as dead time, then re-read as the last unclaimed half-hour of the week — same facts, different event, and the body confirms it within a minute.
+### The Stoic cousin
 
-Its social-cognitive sibling is [[Perspective-taking]] — reappraisal of the event through another's model of it.
+The concept is a close cousin of the oldest Stoic teaching: you are disturbed not by things but by your judgements about things. What the Stoics called examining the impression, the emotion researchers call changing the appraisal: the event stays; the reading changes; the feeling follows.
+
+### Two distinctions to hold
+
+Reappraisal is not suppression. And it is not [[Cognitive defusion]]: reappraisal argues for a better interpretation; defusion drops the argument. A full toolkit carries both, and the wise read of each situation picks.
+
+### In everyday life
+
+The delayed train read as dead time, then re-read as the last unclaimed half-hour of the week: same facts, different event, and the body confirms it within a minute. (Illustrative scenario, not a reported participant or study result.)
+
+Its social-cognitive sibling is [[Perspective-taking]], reappraisal of the event through another's model of it.
+
+### In the compendium
+
+- [[S003 — Recognise that you are disturbed not by things but by your judgements about them]] — the Stoic source
+- [[S051 — Recognise that your judgements are the source of your distress]] — judgements as the lever
+- [[S058 — Practise reframing]] — the practice principle
+- [[SP051 — Understand the affect to transform it]] — Spinoza's understanding move
+- [[D083 — Reframe to dissolve conflict]] — the Daoist reframe
+- [[Y034 — Counter negative states with their opposites]] — the yogic cousin
+- [[PP017 — Regulate negative emotion without suppressing it]] — the suppression boundary
+- [[AF026 — Prefer cognitive reappraisal over suppression when possible]] — the preference rule
+- [[AF025 — Learn the full regulation toolkit — it is larger than calm down.]] — the toolkit point
+- [[S014 — Want what actually happens]] — the reappraisal that meets reality rather than merely reframing it
+
 ## Other formulations in this library
 
 - changing the interpretation of a situation to change its emotional impact (Gross, 2015)
 - the most consistently effective emotion-regulation strategy (Gross, 1998; 2015)
+- habitual reappraisers show greater well-being and fewer depressive symptoms than non-users (Gross and John, 2003)
 
 ## Related concepts
-
-
-
-
-
-
 
 - [[Anger regulation research]] — the research tradition that tested reappraisal against other strategies
 - [[Cognitive flexibility]] — generating alternative interpretations is perspective-shifting in action
@@ -37,11 +56,12 @@ Its social-cognitive sibling is [[Perspective-taking]] — reappraisal of the ev
 - [[Judgment adds the harm]] — the clinical descendant of the Stoic doctrine
 - [[Mid-level emotion regulation]] — the strategy with the better record in the comparison this page makes
 - [[Dual-process theory]] — Evans and Stanovich's Type 1/Type 2 distinction (2013)
+
 ## Sources
 
-- Gross, 1998
-- 2015
-- Gross, 2015
+- [Moyal, N., Henik, A., & Anholt, G. E. (2014). Cognitive strategies to regulate emotions — current evidence and future directions. Frontiers in Psychology, 5, 149](https://pmc.ncbi.nlm.nih.gov/articles/PMC3887268/) — the antecedent-focused placement and the distraction comparison, both quoted above
+- Gross, 1998; Gross, 2015 — the process model and the strategy findings, carried over
+- Gross and John, 2003 — the habitual-reappraiser findings, carried over as a formulation
 
 ## Cited in parallels
 
