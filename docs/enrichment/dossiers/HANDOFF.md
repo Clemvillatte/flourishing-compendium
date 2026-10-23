@@ -219,3 +219,59 @@ format) and set a new standard. Verbatim substance, do not lose it:
 - e0677250 baton release (v1 session close)
 - 2026-10-23T13:24:30Z worker-pplx-dossiers-1024 clocked in (current
   holder at time of writing; handoff written under this baton)
+
+## Worker session record (worker-pplx-dossiers-1025, 2026-10-23)
+
+The dossiers baton was held by the supervisor; this worker ran the
+verification and second-dossier work alongside. All commits pushed to
+origin/main.
+
+Verification of The Self v2:
+- 160 card targets verified against content/ file names (script); 0
+  unresolved. Markdown and Academy data in exact parity (links, headings,
+  quotes).
+- 14 map entries truncated mid-sentence by the build script (ellipsis)
+  completed from the linked concept pages' own opening text; 2 more
+  non-ellipsis truncations (Self-regulation "ch.", Ego depletion "Hagger
+  et al.") completed the same way.
+- Two sayings printed the literal word "None" as their description; both
+  given short source-faithful descriptions.
+- Em-dash separators normalized to colons/commas in all non-quoted text
+  (161 markdown lines, 12 Academy blocks) per the HUMANIZER rule.
+- Two contradictory evidence labels corrected in the Academy data (Dalal/
+  SEP -> Scholarly interpretation; Hayes et al. -> Scholarly review).
+
+Renderer fixes (site/assets/app.js):
+- Card URL double-encoding fixed: dossierCardUrl now decodes before
+  encoding, so The%20witness no longer becomes The%2520witness.
+- dossierRich extended to convert plain markdown carrier links
+  ([label](https://...)) in quote attributions into anchors; they
+  previously rendered as literal text on both dossiers.
+
+Second dossier: Anger (the owner's own example of the format):
+- 40 card entries across 7 subthemes, 5 verified quotes (Seneca De Ira
+  II.III, I.II, II.XXIX; Shantideva VI.1; Aristotle NE IV.5 in the
+  divergence section), 2 divergence research questions reduced to the one
+  genuine Aristotle-vs-Seneca disagreement after the Carlsmith
+  subsection was moved to the map as a research finding, VSR practice
+  with 6 kernels.
+- All quote carriers opened and verified this session (Gutenberg, Internet
+  Classics, tibethouse PDF, PMC, PubMed-via-search). NE II.7 locator
+  corrected after the carrier was opened (Book IV.9 is about shame).
+- One invented entry ("Hatred never ceases by hatred") removed: no wiki
+  card exists.
+- Anger was lost from the Academy view in a concurrent regeneration
+  (commit 6a7fa2c) and restored (commit 5982449).
+
+Live verification: both dossiers confirmed rendering on the Pages deploy
+(TOC, entries, quotes, practice steps, card links, carrier links), at the
+commit the deploy had reached. The Pages deploy lags origin/main by
+several minutes due to concurrent pushes; final state verified
+programmatically on origin/main.
+
+Flagged for other bands:
+- The concept page "Righteous indignation (nemesis)" carries the wrong
+  NE IV.9 locator; the passage is in Book II chapter 7. See the anger
+  ledger, revision 4-5.
+- scripts/dossier_build.py depends on /tmp/glosses.json, which does not
+  survive sessions; it needs the gloss file regenerated or vendored.
