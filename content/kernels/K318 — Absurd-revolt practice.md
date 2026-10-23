@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K318** — Absurd-revolt practice
 
-When you meet a situation that is genuinely absurd or unjust and cannot be changed, choose your response to it. An editorial exercise in the spirit of Camus, not one he prescribed: for him the absurd names the divorce between the human demand for meaning and the world's silence, and revolt is the stance his essay draws from facing it. It is not silver-lining work; it is stance work, the choosing of how to stand in relation to what cannot be fixed.
+When you meet a situation that is genuinely absurd or unjust and cannot be changed, choose your response to it. An editorial exercise in the spirit of Camus, not one he prescribed: for him "the absurd is born of this confrontation between the human need and the unreasonable silence of the world", and revolt is the stance his essay draws from facing that confrontation. It is not silver-lining work; it is stance work, the choosing of how to stand in relation to what cannot be fixed.
 
 ### Protocol
 
