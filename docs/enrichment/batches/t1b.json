@@ -8,12 +8,13 @@
   "Confucius",
   "Viktor Frankl",
   "Immanuel Kant",
-  "Bandura"
+  "Bandura",
+  "Daniel Kahneman"
  ],
- "in_progress": "Daniel Kahneman",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:30:34+00:00",
+ "updated": "2026-10-23T05:30:45+00:00",
  "band_done": false
 }
