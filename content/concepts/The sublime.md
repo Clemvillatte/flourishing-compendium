@@ -26,7 +26,7 @@ Burke adds that he will "endeavour to investigate hereafter" the cause. The pass
 
 ### What it is not
 
-Burke's passage is not a recommendation to seek danger. His own wording is conditional: pain and danger delight only "at certain distances, and with certain modifications", and he names no safe distance in advance. This page quotes one section of the Enquiry and does not survey Kant's later account.
+Burke's passage is not a recommendation to seek danger. His own wording is conditional: pain and danger delight only "at certain distances, and with certain modifications", and this passage names no safe distance. This page quotes one section of the Enquiry and does not survey Kant's later account.
 
 ## Facets
 
