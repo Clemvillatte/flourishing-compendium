@@ -39,6 +39,7 @@ Imagine that you knowingly send an unkind reply, without threats or compulsion. 
 - [[Responsibility]]: the question of praise and blame.
 - [[Prohairesis]]: deliberate choice, distinguished here from the voluntary.
 - [[Freedom]]: a broader comparison, not an interchangeable term.
+- [[T013 — Seneca]]: the anger letters behind the page's story (ST205), voluntary action versus impulse.
 
 ## Stories
 
