@@ -23,3 +23,13 @@ On the Shortness of Life / Stoic-tradition entries retained as plain items.
 Validator ok. NOTE for supervisor: prose em-dash budget (max 3) forced most
 principle links out of prose paragraphs into the compendium list; this is the
 framework pattern for pages whose principle ids contain em dashes.
+
+## Post-script (conflict repair, 11:37 UTC)
+A concurrent ct2 worker (e79303d33) rebuilt this page in parallel; my rebuild
+(e2d1b5eb4/401252ff1) was rebased on top and the merge left conflict markers that
+were pushed in 401252ff1. Resolved in 633783785 by keeping the e79303d33 side
+(three verified Letter 101 quotes, principle links out of prose per dash budget,
+expanded Related, kernel link K230) and dropping my duplicate side; validated
+against the a9f097ec9 pre-rebuild baseline. All 42 ct2 pages then re-validated
+clean. The e79303d33 version's Letter 101 quotes were verified by me against the
+same Wikisource page earlier in this session.
