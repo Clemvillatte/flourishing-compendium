@@ -60,7 +60,7 @@
 ### Milestone QC acceptance (2026-10-23, same session)
 
 - The hyphenation check RESOLVED by rendered-page inspection at 300 dpi: in the K260 2017 quote the word is printed closed "egocentric" (the preceding sentence in the same column shows the closed form within one line; in the quoted sentence the word is split across a line break as "ego-"/"centric", which is a typesetting line-break hyphen, not a hyphen in the word). The pdftotext reading is faithful; the page quote stands unchanged.
-- Ledger correction per advisor: the K259 light-meats passage sits in Book VI, Chapter VIII in the Chase carrier (a Bekker locator would use page/column/line numbers, which the Chase carrier does not print); the "Bekker VI.8 chapter" phrasing in the earlier entry is superseded by this record. The on-page locator "Nicomachean Ethics VI.8" stands as the conventional citation for the passage.
+- Ledger correction per advisor: the K259 light-meats passage sits in Book VI, Chapter VIII in the Chase carrier (a Bekker locator would use page/column/line numbers, which the Chase carrier does not print); the "Bekker VI.8 chapter" phrasing in the earlier entry is superseded by this record. VI.8 here denotes Book VI, Chapter VIII in the Chase carrier.
 - Scoped QC disposition: the reviewed passages and repairs are accepted (advisor: substantive repairs acceptable in scope; this supports acceptance of the reviewed passages, not a blanket independent audit of every claim on the five pages). K260 QC-pending flag resolved; items 2-6 recorded done. Band continues.
 
 ## K265 — The advisor consultation (2026-10-23, worker-pplx-k1e-63e0b1a0)
@@ -111,3 +111,7 @@
 - K269: "The questions are the Stoic ones" corrected to "editorial questions informed by the Stoic account of assent"; the not-carried narration removed, keeping the bounded laboratory-tasks scope statement.
 - Ledger: the "standard Bekker chapter numbering convention" phrase removed per the advisor ruling (the verification established Book VI, Chapter VIII in the Chase carrier, nothing more).
 - Baton heartbeat refreshed before editing (per the advisor checkpoint note). All five pages re-validated ok and pushed with this entry.
+
+### Every-5th QC acceptance (items 7-11)
+
+- Advisor scoped PASS recorded for K265, K266, K268, K269, K276 ("accepts the reviewed passages and repairs, not every claim across all five pages"). Standing self-checks adopted for subsequent items, per the advisor: (1) compare quoted strings directly against the carrier, including internal quotation marks and sentence-ending punctuation; (2) keep editorial procedures distinct from historical instructions and tested interventions, and describe evidence limits without narrating discarded claims or verification work.
