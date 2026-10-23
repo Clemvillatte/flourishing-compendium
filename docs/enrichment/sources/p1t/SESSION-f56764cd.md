@@ -112,3 +112,12 @@ Independent advisor freshly checked Legge, Giles and Roth and returned scoped PA
 ## Additional supervisor flag
 
 D149's pre-existing [[Measure in all things]] target is missing from content/concepts. Existing link retained to respect preservation requirements. No stub invented and no other band's file changed.
+
+## D151
+
+- Reopened with enrich_state.py. Checked the last-spring-month section and exact rainfall sentence in the opened book: https://archive.org/stream/theessentialhuainanziliuan/The%20Essential%20Huainanzi%20-%20Liu%20An_djvu.txt. The weather predictions are explicitly attributed to the court calendar, not endorsed as meteorology.
+- Replaced a long quote with its exact first complete sentence, labeled excerpt, and linked the actual opened text alongside the retained catalog source.
+- Removed duplicated court-calendar gloss from Plain words. Personal scheduling is a clearly modern application.
+- Example compares two times for an outdoor task against actual conditions, selects a workable time, and retains the habit of reviewing conditions; overt behaviour named.
+- Read Ziran (naturalness) in full and ran seasons mention search. Existing D151 backlink is present but its public rationale is procedural; flagged in reopen commit and left for supervisor. Chronobiology was also read; daily timing is not the same topic as monthly seasonal ordinances, so no decorative new link proposed.
+- Original psychology/philosophy links and reflections preserved; existing empirical parallels not independently certified.

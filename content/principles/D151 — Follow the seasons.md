@@ -12,22 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 151** — Follow the seasons
 
-Chapter 5 of the Huainanzi, "Seasonal Rules," organizes the year into monthly ordinances: what the court wears and eats, what work is opened and what is prohibited, all changing with the month. The section for the last month of spring orders the granaries opened for the impoverished, the dikes repaired before the seasonal rains, and hunting and the felling of mulberry trees prohibited while growth completes. Its closing warning is the principle's core: observe the month's ordinances and sweet rain falls; carry out another season's ordinances in spring, and the text lists the harms that follow.
+Huainanzi 5.3 sets out court ordinances for the last month of spring and predicts consequences for following a different season's rules. The quoted rainfall claim belongs to that court calendar. A personal scheduling practice can borrow its attention to changing conditions without treating the calendar's predictions as modern weather forecasts.
 
 (Huainanzi, ch. 5.)
 
-> "If the ordinances for this month are observed, sweet rain will fall during the three ten-day periods of the month. If, during the last month of spring, the ordinances of winter were carried out, then cold qi would from time to time issue forth; all the plants and trees would wither; and the state would [suffer] great fear." (Huainanzi 5.3, [Major, Queen, Meyer and Roth trans.](https://archive.org/details/theessentialhuainanziliuan))
+> "If the ordinances for this month are observed, sweet rain will fall during the three ten-day periods of the month." (Huainanzi 5.3, excerpt from [Major, Queen, Meyer and Roth trans.](https://archive.org/stream/theessentialhuainanziliuan/The%20Essential%20Huainanzi%20-%20Liu%20An_djvu.txt))
 
-The chapter's ordinances are addressed to a court, not a household. The compendium's personal reading, adjusting sleep, work and mood to the season, is an extension of the chapter's premise rather than its instruction.
+### Plain words
 
-**Plain words**
-The chapter's premise is that each stretch of the year has its own tasks, and running another season's program during it has costs the text spells out. The personal version: notice what the season around you is doing, hours of daylight, temperature, the pace of your field or household, and ask which of your routines belongs to a different season. The exercise is naming one routine and the season it actually fits.
+You can keep a commitment while changing how or when you do the work. Look at the daylight, weather and obligations you are working with now. A schedule deserves another look when the conditions it was made for have changed.
 
-*For example:* Imagine keeping a winter training plan through midsummer: same hours, same load. The compendium's question is whether the plan's ordinances belong to the month you are in.
+### For example
+
+For an outdoor task, compare two possible times against the forecast, daylight and available shade. Choose the workable option and note what made it suitable. Repeat the check when conditions change. This overt-behaviour practice retains a way of reviewing the schedule, rather than a time that must always be right.
 
 ## Sources
 
 - [The Essential Huainanzi, Major, Queen, Meyer and Roth trans., Columbia University Press 2012, Internet Archive](https://archive.org/details/theessentialhuainanziliuan) — section 5.3
+- [Full text of The Essential Huainanzi](https://archive.org/stream/theessentialhuainanziliuan/The%20Essential%20Huainanzi%20-%20Liu%20An_djvu.txt).
 
 ## Psychology parallels
 
