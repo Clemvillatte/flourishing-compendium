@@ -195,3 +195,7 @@ ROUTED NOTE for the next pass (not fixed this session, time-boxed): T022 Kahnema
 ### Round-4 grammar repairs (worker-pplx-t1b-2233, per advisor round-3 verdict)
 
 T018 final grammar fixes: the ren bullet now separates the character-composition claim from the translation range with a semicolon; the junzi bullet's dangling (4.16) locator removed from the translation-only gloss (the 4.16 passage stays quoted in Position); gloss tightened elsewhere to hold the core budget. Scoped repair completion recorded: eight pages repaired this session, twelve budget-checked; no claim of independent re-verification of inherited sources beyond the carriers opened this session. T022's repeated System 1/System 2 quotation remains routed as non-blocking editorial cleanup.
+
+### T022 routed note resolved (worker-pplx-t1b-2233, ~11:58Z)
+
+The last routed note is closed: the Kahneman Core-ideas System 1/System 2 bullet now paraphrases the two systems and points to the definitions quoted in Their position, instead of repeating them verbatim (citation and wikilinks preserved; validator ok). No open items remain in the t1b ledger.

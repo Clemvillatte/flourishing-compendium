@@ -20,7 +20,7 @@
   "Viktor Frankl": "QC round 4 (advisor): \"theory places meaning where Freud placed pleasure and Adler power\" unsupported by the opened Wikipedia page — verify or remove; remove repair narration sentence [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
   "Immanuel Kant": "QC round 4 (advisor): \"the rule becomes right rather than philanthropy\" interpretation still present — replace with separate introduction; \"spent his life in Königsberg\" needs the six-years-outside narrowing [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
   "Bandura": "QC round 4 (advisor): the file still says \"arising from performance accomplishments\" where the source reads \"arising from effective performance\" — exact repair needed; \"American psychologist\" unsourced [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
-  "Daniel Kahneman": "QC round 4 (advisor): BLOCKED — Macmillan and SAGE carriers unverified, disclosure insufficient; find accessible carrier or remove [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
+  "Daniel Kahneman": "ROUTED NOTE RESOLVED 2026-10-23 by worker-pplx-t1b-2233: the Core-ideas System 1/System 2 bullet no longer repeats the Position quotes verbatim (paraphrase with pointer to Their position; citation and links preserved). This closes the last open t1b routed note.",
   "Aaron Beck": "RESOLVED 2026-10-23: Core ideas expanded to 158 words with the verified automatic-thoughts/cognitive-triad material from the opened Wikipedia bio; all six word budgets now pass (story 90, why 94, pos 94, core 158, total 278). Earlier REOPEN note superseded.",
   "Kierkegaard": "RESOLVED 2026-10-23 by worker-pplx-t1b-2233: Core ideas expanded 75->151 and narrative total 215->275 with verbatim additions from the freshly opened Storm commentary page (sickness-unto-death.html): the rooted-out formula, the Sickness-of-the-Spirit heading, the infinite-advantage line, the companion-piece and anxiety/ethical-despair/religious notes; all quoted fragments re-verified verbatim against the opened carrier. Earlier REOPEN note superseded.",
   "Carl Rogers": "QC round 4 (advisor): six-condition numbering and PDF passages supported; format six conditions as readable list; present necessity/sufficiency as Rogers theoretical claim [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
@@ -31,6 +31,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T11:46:06+00:00",
+ "updated": "2026-10-23T11:55:48+00:00",
  "band_done": true
 }
