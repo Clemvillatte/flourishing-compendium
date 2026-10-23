@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "cha
 
 ## Personal story / context
 
-Beck began in psychoanalysis, but the clinical evidence did not fit the Freudian account of depression as anger turned inward, and he built a testable model instead. Cognitive therapy, the method he built on it, is one of the most-studied psychotherapies in the literature.
+Beck began in psychoanalysis, but the clinical evidence did not fit the Freudian account of depression as anger turned inward, and he built a testable model instead. The model he proposed has, per the 2011 review, "been the predominant theory of depression in the cognitive-behavioural tradition since" its proposal ([Disner et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21731066/)). Cognitive therapy, the method built on the model, is one of the most-studied psychotherapies in the literature.
 
 ## Their why
 
