@@ -13,3 +13,5 @@
 **Advisor QC pass (pre-taper):** fixes applied per milestone review — see git history. T045: chapter-content claims re-sourced to the Bodhisattvacaryāvatāra carrier (ten chapters/six perfections/patience chapter), unsupported "most quoted" and later-chapter specifics removed; T046: mechanism-vs-finalism contrast corrected per SEP, CO002 link retained with explicit non-equivalence note; T047: SEP paraphrase de-quoted, narrative-identity claim softened to the fetched account, "Their why" recast around the cogito evidence.
 
 **Second-pass quote verification (pre-taper):** all SEP-quoted passages re-verified verbatim against the reopened SEP entry; the Wikipedia 'pure mobility' phrase re-verified against the reopened Wikipedia page.
+
+**P169 gate ruling (resolved):** P169 (Trust the actualizing tendency) appears in the 51-entry surname floor because its own wiki page mentions Bergson; per the t1e mint rule this counts as wiki-side evidence of a tradition link, and P169 is retained in the gated inventory list only (it is not asserted in Core ideas prose). Flagged for the supervisor in case a stricter reading of the gate is preferred.
