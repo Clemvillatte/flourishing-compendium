@@ -61,9 +61,9 @@ Gated per the t1e mint rule (own tradition plus what the page teaches); the scri
 - [[BE059 — Engage in creative behaviour — making is well-being|Engage in creative behaviour: making is well-being]]
 
 ### Concepts (6)
-- [[Elan vital|Elan vital]]
-- [[Durée|Durée]]
-- [[Intuition as method|Intuition as method]]
+- [[Elan vital|Élan vital]]
+- [[Durée|Duration (durée)]]
+- [[Intuition as method|Intuition]]
 - [[Creative evolution|Creative evolution]]
 - [[Flow|Flow]]
 - [[Process philosophy|Process philosophy]]
