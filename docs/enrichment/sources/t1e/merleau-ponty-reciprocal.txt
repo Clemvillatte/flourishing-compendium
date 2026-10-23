@@ -1,0 +1,515 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/AF011 \u2014 Know that affect has a biological substrate; do not moralise it.md",
+      "id": "AF011",
+      "title": "Know that affect has a biological substrate; do not moralise it",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AT050 \u2014 Learn body scan \u2014 systematic attention through the body.md",
+      "id": "AT050",
+      "title": "Learn body scan: systematic attention through the body",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B039 \u2014 Practice the four foundations of mindfulness (satipatthana).md",
+      "id": "B039",
+      "title": "Practice the four foundations of mindfulness (satipatthana)",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B040 \u2014 Know the body (body contemplation).md",
+      "id": "B040",
+      "title": "Know the body (body contemplation)",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B076 \u2014 See through perception.md",
+      "id": "B076",
+      "title": "See through perception",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B189 \u2014 Ground in the body.md",
+      "id": "B189",
+      "title": "Ground in the body",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B191 \u2014 Practice the half-smile.md",
+      "id": "B191",
+      "title": "Practice the half-smile",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BE028 \u2014 Learn interoceptive exposure \u2014 approach bodily sensations.md",
+      "id": "BE028",
+      "title": "Learn interoceptive exposure: approach bodily sensations",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BE046 \u2014 Learn to use the body to regulate emotion \u2014 posture, breath, movement.md",
+      "id": "BE046",
+      "title": "Learn to use the body to regulate emotion: posture, breath, movement",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BE048 \u2014 Learn to use the dive reflex \u2014 cold water for acute distress.md",
+      "id": "BE048",
+      "title": "Learn to use the dive reflex: cold water for acute distress",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI001 \u2014 Understand that the body is the foundation of the mind \u2014 physiology shapes psychology.md",
+      "id": "BI001",
+      "title": "Understand that the body is the foundation of the mind: physiology shapes psychology",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI009 \u2014 Understand that interoception is the foundation of emotional awareness.md",
+      "id": "BI009",
+      "title": "Understand that interoception is the foundation of emotional awareness",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI010 \u2014 Recognise that the body can be used to regulate the mind \u2014 bottom-up regulation.md",
+      "id": "BI010",
+      "title": "Recognise that the body can be used to regulate the mind: bottom-up regulation",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI048 \u2014 Learn to use cold exposure \u2014 the dive reflex.md",
+      "id": "BI048",
+      "title": "Learn to use cold exposure: the dive reflex",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI049 \u2014 Learn to use movement to discharge stress \u2014 shake, dance, walk.md",
+      "id": "BI049",
+      "title": "Learn to use movement to discharge stress: shake, dance, walk",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI053 \u2014 Cultivate interoceptive awareness \u2014 notice internal signals.md",
+      "id": "BI053",
+      "title": "Cultivate interoceptive awareness: notice internal signals",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI057 \u2014 Learn grounding techniques \u2014 present-moment body awareness.md",
+      "id": "BI057",
+      "title": "Learn grounding techniques: present-moment body awareness",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO005 \u2014 Understand that thinking is embodied \u2014 the body shapes the mind.md",
+      "id": "CO005",
+      "title": "Understand that thinking is embodied: the body shapes the mind",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D141 \u2014 Care for life as the root of all endeavor.md",
+      "id": "D141",
+      "title": "Care for life as the root of all endeavor",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D142 \u2014 Align the body.md",
+      "id": "D142",
+      "title": "Align the body",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E004 \u2014 Practise the lifeworld (Lebenswelt).md",
+      "id": "E004",
+      "title": "Practise the lifeworld (Lebenswelt)",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E011 \u2014 Practise phenomenological description.md",
+      "id": "E011",
+      "title": "Practise phenomenological description",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E013 \u2014 Practise the lived body (Leib).md",
+      "id": "E013",
+      "title": "Practise the lived body (Leib)",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E014 \u2014 Practise the habit body.md",
+      "id": "E014",
+      "title": "Practise the habit body",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E015 \u2014 Practise motor intentionality.md",
+      "id": "E015",
+      "title": "Practise motor intentionality",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E016 \u2014 Practise the body-subject.md",
+      "id": "E016",
+      "title": "Practise the body-subject",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E017 \u2014 Practise embodied perception.md",
+      "id": "E017",
+      "title": "Practise embodied perception",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E018 \u2014 Practise the reversibility of flesh.md",
+      "id": "E018",
+      "title": "Practise the reversibility of flesh",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E019 \u2014 Practise the chiasm.md",
+      "id": "E019",
+      "title": "Practise the chiasm",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E020 \u2014 Practise embodiment as condition of possibility.md",
+      "id": "E020",
+      "title": "Practise embodiment as condition of possibility",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E025 \u2014 Practise spatiality of Dasein.md",
+      "id": "E025",
+      "title": "Practise spatiality of Dasein",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E026 \u2014 Practise being-with (Mitsein).md",
+      "id": "E026",
+      "title": "Practise being-with (Mitsein)",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E032 \u2014 Practise the distinction between facticity and transcendence.md",
+      "id": "E032",
+      "title": "Practise the distinction between facticity and transcendence",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E037 \u2014 Practise the situation.md",
+      "id": "E037",
+      "title": "Practise the situation",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E069 \u2014 Practise the body-for-others.md",
+      "id": "E069",
+      "title": "Practise the body-for-others",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E070 \u2014 Practise the ethics of ambiguity.md",
+      "id": "E070",
+      "title": "Practise the ethics of ambiguity",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E078 \u2014 Practise situated embodiment and gender.md",
+      "id": "E078",
+      "title": "Practise situated embodiment and gender",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P143 \u2014 Think with the whole body \u2014 the body is not a machine.md",
+      "id": "P143",
+      "title": "Think with the whole body: the body is not a machine",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP075 \u2014 Move the body.md",
+      "id": "PP075",
+      "title": "Move the body",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R089 \u2014 Practise incarnation.md",
+      "id": "R089",
+      "title": "Practise incarnation",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R106 \u2014 Practise situated freedom.md",
+      "id": "R106",
+      "title": "Practise situated freedom",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R130 \u2014 Practise the more-than-human relational self.md",
+      "id": "R130",
+      "title": "Practise the more-than-human relational self",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE006 \u2014 Know that the self is embodied \u2014 the body is part of who you are.md",
+      "id": "SE006",
+      "title": "Know that the self is embodied: the body is part of who you are",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Ambiguity.md",
+      "id": "Ambiguity",
+      "title": "Ambiguity",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Body memory.md",
+      "id": "Body memory",
+      "title": "Body memory",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Body representation.md",
+      "id": "Body representation",
+      "title": "Body representation",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Body schema.md",
+      "id": "Body schema",
+      "title": "Body schema",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Embodied perception.md",
+      "id": "Embodied perception",
+      "title": "Embodied perception",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Embodiment.md",
+      "id": "Embodiment",
+      "title": "Embodiment",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Flesh (chair).md",
+      "id": "Flesh (chair)",
+      "title": "Flesh (chair)",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Intersubjectivity.md",
+      "id": "Intersubjectivity",
+      "title": "Intersubjectivity",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Mind-body parallelism.md",
+      "id": "Mind-body parallelism",
+      "title": "Mind-body parallelism",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Motor intentionality.md",
+      "id": "Motor intentionality",
+      "title": "Motor intentionality",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Phenomenological description.md",
+      "id": "Phenomenological description",
+      "title": "Phenomenological description",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Pre-theoretical experience.md",
+      "id": "Pre-theoretical experience",
+      "title": "Pre-theoretical experience",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Reduction as return.md",
+      "id": "Reduction as return",
+      "title": "Reduction as return",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Reversibility.md",
+      "id": "Reversibility",
+      "title": "Reversibility",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Sensorimotor accounts of perception.md",
+      "id": "Sensorimotor accounts of perception",
+      "title": "Sensorimotor accounts of perception",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Sensorimotor contingency theory.md",
+      "id": "Sensorimotor contingency theory",
+      "title": "Sensorimotor contingency theory",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Situated freedom.md",
+      "id": "Situated freedom",
+      "title": "Situated freedom",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Skillful coping.md",
+      "id": "Skillful coping",
+      "title": "Skillful coping",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The body schema.md",
+      "id": "The body schema",
+      "title": "The body schema",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The body-for-others.md",
+      "id": "The body-for-others",
+      "title": "The body-for-others",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The body-subject.md",
+      "id": "The body-subject",
+      "title": "The body-subject",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The chiasm.md",
+      "id": "The chiasm",
+      "title": "The chiasm",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The habit body.md",
+      "id": "The habit body",
+      "title": "The habit body",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The lifeworld.md",
+      "id": "The lifeworld",
+      "title": "The lifeworld",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The lived body.md",
+      "id": "The lived body",
+      "title": "The lived body",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The moving body.md",
+      "id": "The moving body",
+      "title": "The moving body",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K306 \u2014 Affordance walk.md",
+      "id": "K306",
+      "title": "Affordance walk",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K309 \u2014 Intersubjective presence.md",
+      "id": "K309",
+      "title": "Intersubjective presence",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST132 \u2014 The Blind Man's Cane.md",
+      "id": "ST132",
+      "title": "132. The Blind Man's Cane",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST263 \u2014 The Phantom Hand.md",
+      "id": "ST263",
+      "title": "263.  The Phantom Hand",
+      "thinker": "T044",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
