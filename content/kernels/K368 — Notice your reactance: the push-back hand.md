@@ -14,7 +14,33 @@ Try this with a friend: put your palms together and start gently pushing. Most o
 
 The same thing happens in conversations. When someone tells you what to change, notice whether your first thought is *why they're wrong*. That's the push-back hand. It happens inside you too: "You should exercise" often meets "No, I'm too tired." Once you notice the push-back, you have a choice — keep pushing (and keep getting pushed back), or stop pushing and let the reasons for change come from your side instead.
 
-Adapted from Burke, Lundahl & Arkowitz (Eds.), *Motivational Interviewing in the Treatment of Psychological Problems* (3rd ed.), ch. 1, printed p. 1 (the palm-pushing demo). The palm-pushing demo is a teaching illustration, not an empirical claim.
+Adapted from Burke, Lundahl & Arkowitz (Eds.), Motivational Interviewing in the Treatment of Psychological Problems (3rd ed.), ch. 1, printed p. 1 (the palm-pushing demo). The palm-pushing demo is a teaching illustration, not an empirical claim.
+
+### Protocol
+
+1. In a conversation where you are being told what to change, catch the moment your attention shifts from their point to their wrongness.
+2. Name it silently as the push-back hand: the push arrived, the push answered.
+3. Once, deliberately, do not push back: say what is true on your side without correcting theirs, and watch what happens to the conversation's temperature.
+4. If the pushing is yours (advice nobody asked for), the same rule applies in reverse: the more emphatic the advice, the more pushback it invites.
+
+### Evidence
+
+The construct the demo illustrates is psychological reactance, in the MI book's own account:
+
+> "Telling someone that “You can’t,” and more generally trying to constrain someone’s choices typically evokes psychological reactance (Dillard & Shen, 2005; Karno & Longabaugh, 2005a, 2005b), the desire to reassert one’s freedom. On the other hand, directly acknowledging a person’s freedom of choice typically diminishes defensiveness and can facilitate change."
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+
+The book's own name for the pushing habit:
+
+> "We call this the “righting reflex”—the desire to fix what seems wrong with people and to set them promptly on a better course, relying in particular on directing."
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+
+And the dosage effect the protocol's step 4 leans on:
+
+> "The more emphatic or authoritarian the advice, the more likely it is to evoke a pushback. Most people simply don’t like receiving unsolicited advice, although fewer mind giving it."
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+
+What the sources do not test: these passages are the MI account of reactance and advice; the palm-pushing demo itself is a teaching illustration, and neither passage evaluates this noticing exercise.
 
 ## Operationalises
 
@@ -24,3 +50,16 @@ Adapted from Burke, Lundahl & Arkowitz (Eds.), *Motivational Interviewing in the
 ## Psychology parallels
 
 - Psychological reactance (Brehm) is an established construct; the palm-pushing demo is an illustrative teaching device, not an empirical claim (conceptual parallel).
+
+## Related concepts
+
+- [[Psychological reactance]] — the construct the push-back hand is a felt instance of.
+- [[Motivational interviewing]] — the research tradition the righting reflex and freedom-of-choice passages come from.
+
+## Related kernels
+
+- [[K373 — Notice the fixing reflex]]
+
+## Sources
+
+- [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
