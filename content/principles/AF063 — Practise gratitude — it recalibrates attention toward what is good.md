@@ -24,6 +24,10 @@ Think back over today and record something you appreciated, with enough detail t
 **For example**
 Imagine a nightly list of three specific things. Someone might write "family", or they might write "the way Dad mispronounced 'quinoa' at dinner". The compendium's suggestion: write specific moments rather than categories; the specificity is the attentional exercise.
 
+## Related concepts
+
+- [[T013 — Seneca]]: On Benefits, gratitude as the virtue that returns what it receives
+
 ## Sources
 
 - [Emmons & McCullough 2003, Counting Blessings Versus Burdens, Journal of Personality and Social Psychology 84(2), full text](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf) — the blessing-listing experiments and their measured conclusion.
