@@ -40,3 +40,15 @@ Cited-in link. No edits made; marked done with a light-check note.
 Light check: page already adequate. Legge Daodejing 23 blockquote verified verbatim against
 a fresh download of the cited Gutenberg #216 carrier (raw text, section 23.1). B172 title
 matches the Cited-in link. No edits; marked done with light-check note.
+
+# w1ad evidence ledger — Spiritual joy (2026-10-23, same session)
+
+Light check + one repair. Chase NE I blockquote verified against a fresh download of
+Gutenberg #8438: verbatim except the page closed the fragment with a period where the
+source sentence continues with a colon ("...virtue of a certain kind: and of the other
+goods, some we must have to begin with..."). Repaired per the E058/K185 precedent: the
+fragment now ends with the source's colon and the continuation is disclosed on-page.
+Body paraphrases verified against the opened carrier: the amusement argument (Chase
+"Happiness then stands not in amusement", Book X) and the final-end claim (I.7, "choose
+always for its own sake, and never with a view to anything"). B118 title matches the
+Cited-in link.
