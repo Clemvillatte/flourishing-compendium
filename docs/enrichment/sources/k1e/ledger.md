@@ -129,3 +129,11 @@
 - Seed repairs: the seed's "Research on the hedonic treadmill shows that people adapt to improvements and raise their expectations, which undermines the well-being gains from achievement" narrowed to the opened 2006 abstract (treadmill model stated, then its revisions quoted — adaptation real but not uniform, set points can change), honestly scoped; "Defining sufficiency in advance creates a brake on the escalation" kept as an explicitly editorial framing, not a research finding.
 - The written-number form labelled editorial. Guided-version exemption: number-written-in-advance practice, no recording required (self-directed; K203 nap precedent).
 - All 6 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
+
+## K286 — The good citizen audit (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carriers opened: Gutenberg 2680 (Marcus Aurelius Meditations, Long translation) raw-downloaded — the happy-citizen passage verbatim; Thoits & Hewitt 2001 JHSB abstract via NCBI eutils — the bidirectional volunteer-well-being sentence verbatim.
+- Seed repairs: the seed's "Stoic and Confucian ideal of the engaged citizen" narrowed to the Stoic side (Marcus) with the Confucian duty concept linked for navigation, not claimed from an unopened carrier; the seed's "Research on civic engagement shows that it predicts well-being through the mechanism of social connection and purpose" replaced with the opened Thoits & Hewitt abstract's actual bidirectional finding (volunteer work enhances all six well-being aspects; well-being also feeds volunteer hours), honestly scoped (volunteering outcomes, not voting/informedness/public-space respect; panel data, both directions).
+- The four audit questions carried from the seed as editorial design, labelled editorial; the bidirectional finding explicitly stated as the honest heart of the evidence. Guided-version exemption: monthly self-review, no recording required (self-directed; K203 nap precedent).
+- Related-concepts fix in self-check: [[Civic engagement]] did not resolve (no such concept page); replaced with [[Social capital theory Putnam]].
+- All 6 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.

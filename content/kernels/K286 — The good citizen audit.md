@@ -10,8 +10,62 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K286** — The good citizen audit
 
-Once a month, review your civic participation: Have I voted? Have I contributed to my community? Have I stayed informed about issues that affect others? Have I treated public spaces and services with respect? The audit operationalises the Stoic and Confucian ideal of the engaged citizen. Research on civic engagement shows that it predicts well-being through the mechanism of social connection and purpose.
+Once a month, review civic participation: whether the vote was cast, whether the community received a contribution, whether the issues affecting others were followed, whether public spaces and services were treated with respect. The ideal behind the audit is Marcus Aurelius's happy citizen, whose study and practice are for the good of the fellow citizens ([Meditations, Long translation](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). Reach for it when citizenship has become something watched rather than practiced.
+
+### What it rests on
+
+Marcus's own picture, from the Meditations:
+
+> "These things once so fixed and concluded, as thou wouldst think him a happy citizen, whose constant study and practice were for the good and benefit of his fellow citizens, and the carriage of the city such towards him, that he were well pleased with it; so must it needs be with thee, that thou shalt live a happy life." — [Marcus Aurelius, Meditations, Long translation (Project Gutenberg 2680)](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
+
+The monthly audit questions are the compendium's editorial design; the engaged citizen they measure is Marcus's.
+
+### Protocol
+
+The four questions are editorial; the standard behind them is the passage above.
+
+1. Once a month, ask: have I voted?
+2. Have I contributed to my community?
+3. Have I stayed informed about issues that affect others?
+4. Have I treated public spaces and services with respect?
+5. Where an answer is no, note one act for the coming month that would change it.
+
+### Evidence
+
+The nearest research concerns volunteer work in the community, from a panel study of Americans' Changing Lives:
+
+> "Results show that volunteer work indeed enhances all six aspects of well-being and, conversely, people who have greater well-being invest more hours in volunteer service." — [Thoits & Hewitt, 2001, Journal of Health and Social Behavior 42(2), Abstract](https://pubmed.ncbi.nlm.nih.gov/11467248/)
+
+The bidirectional finding is the honest heart of it: volunteering enhances well-being, and well-being also feeds volunteering, so the study cannot say which way the traffic mainly runs.
+
+What this evidence does not test: the cited research measured volunteer hours and well-being over panel waves; it did not evaluate a monthly civic audit, and voting, staying informed and respect for public spaces were not its outcomes.
+
+### A guided version
+
+Not applicable: the practice is a monthly self-review, not a recording.
 
 ## Operationalises
 
-[[S011 — Recognise the three topoi — the three disciplines|S011 Recognise the three topoi: the three disciplines]], [[S012 — Remember that you are a rational being|S012 Remember that you are a rational being]], [[A078 — Recognise that the best friendship is between the good|A078 Recognise that the best friendship is between the good]], [[R005 — Practise forgiveness|R005 Practise forgiveness]], [[R010 — Practise generosity|R010 Practise generosity]], [[R065 — Practise the extension of knowledge (zhizhi)|R065 Practise the extension of knowledge (zhizhi)]]
+- [[S011 — Recognise the three topoi — the three disciplines|S011 Recognise the three topoi: the three disciplines]]
+- [[S012 — Remember that you are a rational being|S012 Remember that you are a rational being]]
+- [[A078 — Recognise that the best friendship is between the good|A078 Recognise that the best friendship is between the good]]
+- [[R005 — Practise forgiveness|R005 Practise forgiveness]]
+- [[R010 — Practise generosity|R010 Practise generosity]]
+- [[R065 — Practise the extension of knowledge (zhizhi)|R065 Practise the extension of knowledge (zhizhi)]]
+
+## Related concepts
+
+- [[Civic republicanism]]
+- [[Confucian duty]]
+- [[Social capital theory Putnam]]
+
+## Related kernels
+
+- [[K214 — Community participation]]
+- [[K219 — Social accountability]]
+- [[K211 — Acts of kindness]]
+
+## Sources
+
+- [Marcus Aurelius, Meditations, George Long translation (Project Gutenberg 2680)](https://www.gutenberg.org/cache/epub/2680/pg2680.txt) — the happy-citizen passage.
+- [Thoits, P. A., & Hewitt, L. N. (2001). Volunteer work and well-being. Journal of Health and Social Behavior, 42(2), 115-131](https://pubmed.ncbi.nlm.nih.gov/11467248/) — the bidirectional volunteer-well-being findings, Abstract.
