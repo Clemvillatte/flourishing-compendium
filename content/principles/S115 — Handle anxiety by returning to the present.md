@@ -25,6 +25,10 @@ Before a difficult event, you may find yourself rehearsing a bad outcome. Bring 
 
 *For example:* Before a big presentation, you do the next task on the list rather than imagine the room.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Seneca on Crowds story (ST218) the page carries.
+
 ## Stories
 
 - [[ST217 — The Morning Preparation|217. The Morning Preparation]]

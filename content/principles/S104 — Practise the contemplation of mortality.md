@@ -25,6 +25,10 @@ Death limits the time available to act, although you do not know that limit. Thi
 
 *For example:* You draft a brief farewell letter, then review one commitment named in it.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters 26 citation the page carries.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book II, section 11; Book IV, section 17

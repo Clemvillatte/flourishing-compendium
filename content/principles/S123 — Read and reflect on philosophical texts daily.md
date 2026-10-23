@@ -21,6 +21,10 @@ In Letter 2, Seneca advises Lucilius to remain with a limited number of authors 
 **Plain words** Read philosophy the way you'd eat a good meal: one bite at a time, chewed properly. As a compendium exercise, read a short passage, then explain it in your own words. Choose one situation in which you could try using the idea.
 
 *For example:* Someone who reads two pages of the Meditations with their morning coffee and carries one line around all day like a stone in their pocket.
+## Related concepts
+
+- [[T013 — Seneca]]: the Letter 2 advice to remain with a limited number of authors, the page's opening case.
+
 ## Sources
 
 - [Seneca, Moral Letters to Lucilius, Letter 2, Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2)

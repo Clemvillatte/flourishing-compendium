@@ -25,6 +25,10 @@ Marcus lists the possibilities and the compendium turns them into a fork: if dea
 
 *For example:* Imagine a person with a terminal diagnosis spending her last weeks arranging things for her family, and finding the fear shrinks as the arrangements grow.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Seneca on Crowds story (ST218) the page carries.
+
 ## Stories
 
 - [[ST217 — The Morning Preparation|217. The Morning Preparation]]

@@ -25,6 +25,10 @@ At day's end, answer Sextius's questions in writing. Add a sentence about someth
 
 *For example:* At the end of a workday, someone writes about a disagreement and drafts a question to ask next time.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the private-notebook observation the page opens with.
+
 ## Sources
 
 - [Seneca, On Anger III.36 (Aubrey Stewart translation, Wikisource)](https://en.wikisource.org/wiki/Of_Anger/Book_III)

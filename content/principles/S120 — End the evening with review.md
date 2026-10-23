@@ -28,6 +28,10 @@ Before bed, recall one action you would repeat and one you would handle differen
 *For example:*
 after interrupting a colleague, a manager notes what happened and decides to let the colleague finish before replying at the next meeting.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the daily habit Seneca reports to Lucilius, which the page opens with.
+
 ## Sources
 
 - [Seneca, Moral Letters 83 (Wikisource, Gummere translation)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_83) — the review-each-day passage and the opening account

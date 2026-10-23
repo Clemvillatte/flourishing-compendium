@@ -24,6 +24,10 @@ This is one clinical model, Gilbert's, and not a settled consensus. It supports 
 
 *For example:* Someone who has always called a friend at the first sign of panic spends a year learning a few things they can do alone: slow breathing, a walk, a kind sentence said to themselves. The friend is still welcome, but is no longer the only option.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the inner-friend teaching (Letters) the page lists.
+
 ## Sources
 
 - [Gilbert, P. (2020). Compassion: From Its Evolution to a Psychotherapy. Frontiers in Psychology 11:586161](https://pmc.ncbi.nlm.nih.gov/articles/PMC7762265/) — open-access full text read; attachment and soothing sections

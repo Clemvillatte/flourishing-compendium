@@ -21,6 +21,10 @@ The Stoic trains attention: to notice impressions before assenting to them, to n
 **Plain words** Notice early: the first flash of anger before it becomes a rant, the first drift before it becomes a month lost. An impression arrives, but you decide whether to sign for it. Ask first whether the thing concerns what is in your control; if it does not, it is nothing to you.
 
 *For example:* Someone who feels the heat rise when a colleague talks over them, names it — "that's the flash" — and chooses to finish their sentence instead of sharpening a retort.
+## Related concepts
+
+- [[T013 — Seneca]]: the citations the page's source list carries.
+
 ## Sources
 
 - [Epictetus, The Enchiridion, translated by Elizabeth Carter, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html) — chapter 1

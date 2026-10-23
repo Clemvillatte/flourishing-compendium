@@ -24,6 +24,10 @@ For the psychology parallel, a meta-analysis of 92 longitudinal samples found th
 
 *For example:* A twenty-year meditator still sets the timer for ten minutes each morning.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letter 16 repetition point the page opens with.
+
 ## Sources
 
 - [Epictetus, Enchiridion 50 (trans. E. Carter)](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, opened

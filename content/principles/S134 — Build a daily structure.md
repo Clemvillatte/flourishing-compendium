@@ -27,6 +27,10 @@ The compendium combines these passages into a suggested routine: prepare for a d
 **Plain words** Give the practice a place in your day. Before work, choose one interaction you want to handle thoughtfully. Afterwards, recall what you said and consider what you would change. Those two steps, at the same two points each day, are the routine.
 
 *For example:* Before a shift, a nurse considers how she wants to respond to interruptions. Afterwards, she reviews an impatient reply and notes how she would handle a similar interruption next time.
+## Related concepts
+
+- [[T013 — Seneca]]: the Sextius evening questioning described in On Anger III.36, the page's opening case.
+
 ## Psychology parallels
 
 - **[[Habit formation|Habit formation]]** (Lally et al., 2010; Wood and Neal, 2007)

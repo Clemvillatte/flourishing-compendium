@@ -26,6 +26,10 @@ The statement on this page goes further than the passages opened here, saying th
 
 *For example:* Before a family feud flares at a holiday, remembering that none of you will be around for long.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Seneca on Crowds story (ST218) the page carries.
+
 ## Stories
 
 - [[ST213 — The Shortness of Life|213. The Shortness of Life]]

@@ -24,6 +24,10 @@ Kasser and Ryan studied financial success, and not fame. Across three studies th
 
 *For example:* A teacher with a large following asks herself, and not the numbers, whether the lesson was good.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the milder line from Letter 79 the page quotes: fame as the shadow of virtue.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations IV.19 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.4.four.html) — MIT Internet Classics Archive, Book Four opened

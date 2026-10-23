@@ -25,6 +25,10 @@ Review a failed attempt. Identify what obstructed it, what is still possible, an
 
 *For example:* After a lost contract, you review what happened, change one habit, and send the next proposal.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the adversity-as-training teaching (On Providence) the page lists.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book V, section 20; Book VII, section 20; Book VIII, section 35

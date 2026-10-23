@@ -24,6 +24,10 @@ The count of 140 principles belongs to this compendium, not to the Stoics. Both 
 
 *For example:* Someone spends a month on one question only: is this up to me? By the third week they notice themselves asking it at the steering wheel, before they have decided to.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letter 2 sections 2-3 source (Gummere translation) the page quotes.
+
 ## Sources
 
 - [Seneca, Moral letters to Lucilius, Letter 2 (trans. R. M. Gummere), Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2) — opened; "limited number of master-thinkers" and the "plant" sentence

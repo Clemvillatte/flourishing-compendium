@@ -30,6 +30,10 @@ The practice is first diagnostic: find out where your worth is actually staked b
 
 ## Related concepts
 
+- [[T013 — Seneca]]: the dignity-vs-reputation teaching (Letters) the page lists.
+
+## Related concepts
+
 - [[SE004]] — listed for comparison
 
 ## Sources
