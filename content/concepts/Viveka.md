@@ -17,6 +17,14 @@ In Advaita Vedanta, viveka is the first of the four prerequisites for the seeker
 
 The same tradition places vairagya (detachment) next after viveka: "In the Vedanta, viveka is considered to be the first requirement of the spiritual journey, the next being vairagya (detachment), as a natural extension of viveka" ([Wikipedia, "Viveka"](https://en.wikipedia.org/wiki/Viveka)).
 
+### Discernment as the way out of pain
+
+The Yoga Sutra gives viveka a practical job. Sutra 2.26, in the Rama Prasada translation, reads: "The means of the removal is discriminative knowledge undisturbed." The commentary of Vyasa sets the context: "Pain is removed on the removal of the cause of pain", and "Discriminative knowledge is the recognition of the distinct natures of the Puruṣa and the Essence of matter" ([Yoga-Sutra 2.26, Wisdom Library](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216677.html)). The word "undisturbed" is the discipline: the sutra asks for discernment that stays steady, not an occasional insight.
+
+### What it is not
+
+Viveka is not cleverness or criticism of others. In these sources it names a steady recognition of what is and is not the self, and its purpose is the end of pain. The metaphysics (Puruṣa and matter) belongs to the Yoga and Sankhya schools, and a reader who does not share it can still take the practical lesson of steady, undisturbed discernment.
+
 ### In the compendium
 
 - [[Y004 — Make discrimination your master skill]] — grounds its wording in Yoga Sūtra 2.26
