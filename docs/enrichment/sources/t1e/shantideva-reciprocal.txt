@@ -1,0 +1,291 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/B073 \u2014 Hold experience loosely (non-attachment).md",
+      "id": "B073",
+      "title": "Hold experience loosely (non-attachment)",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B099 \u2014 Respond to suffering with the wish to relieve it (karuna in action).md",
+      "id": "B099",
+      "title": "Respond to suffering with the wish to relieve it (karuna in action)",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B101 \u2014 Rejoice in others' happiness (mudita as practice).md",
+      "id": "B101",
+      "title": "Rejoice in others' happiness (mudita as practice)",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B104 \u2014 Practice patience (kshanti).md",
+      "id": "B104",
+      "title": "Practice patience (kshanti)",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B105 \u2014 Dissect anger when it arises.md",
+      "id": "B105",
+      "title": "Dissect anger when it arises",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B106 \u2014 Blame conditions, not persons.md",
+      "id": "B106",
+      "title": "Blame conditions, not persons",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B113 \u2014 Be grateful to everyone (lojong).md",
+      "id": "B113",
+      "title": "Be grateful to everyone (lojong)",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B154 \u2014 Practice is for others (service).md",
+      "id": "B154",
+      "title": "Practice is for others (service)",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B155 \u2014 Take the vow \u2014 commit beyond your comfort.md",
+      "id": "B155",
+      "title": "Take the vow: commit beyond your comfort",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D036 \u2014 Treasure your life and health as the vessel of everything.md",
+      "id": "D036",
+      "title": "Treasure your life and health as the vessel of everything",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K004 \u2014 Take the mind itself as the laboratory.md",
+      "id": "K004",
+      "title": "Take the mind itself as the laboratory",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K005 \u2014 See that all fear and suffering are mind-made at the root.md",
+      "id": "K005",
+      "title": "See that all fear and suffering are mind-made at the root",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K006 \u2014 Guard the mind as the root of everything downstream.md",
+      "id": "K006",
+      "title": "Guard the mind as the root of everything downstream",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K028 \u2014 Practice sending and taking on the breath.md",
+      "id": "K028",
+      "title": "Practice sending and taking on the breath",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K034 \u2014 Be grateful to everyone.md",
+      "id": "K034",
+      "title": "Be grateful to everyone",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K037 \u2014 Learn the three sources of harm before responding.md",
+      "id": "K037",
+      "title": "Learn the three sources of harm before responding",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K038 \u2014 If there is a remedy, why be angry; if there is none, what use is anger.md",
+      "id": "K038",
+      "title": "If there is a remedy, why be angry; if there is none, what use is anger?",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K039 \u2014 Treat the enemy as the teacher of patience.md",
+      "id": "K039",
+      "title": "Treat the enemy as the teacher of patience",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K040 \u2014 See that anger destroys what you are trying to protect.md",
+      "id": "K040",
+      "title": "See that anger destroys what you are trying to protect",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K041 \u2014 Trace every harm to conditions, including your own.md",
+      "id": "K041",
+      "title": "Trace every harm to conditions, including your own",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K042 \u2014 Take the body as a vessel, not a treasure.md",
+      "id": "K042",
+      "title": "Take the body as a vessel, not a treasure",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K043 \u2014 Keep the mind's watch with a hundred cares.md",
+      "id": "K043",
+      "title": "Keep the mind's watch with a hundred cares",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K044 \u2014 Speak slowly, and let speech be timely.md",
+      "id": "K044",
+      "title": "Speak slowly, and let speech be timely",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K045 \u2014 Understand self-cherishing as the root error.md",
+      "id": "K045",
+      "title": "Understand self-cherishing as the root error",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K046 \u2014 Practice the exchange deliberately, as a skill.md",
+      "id": "K046",
+      "title": "Practice the exchange deliberately, as a skill",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K047 \u2014 Let all joy be traced to the wish for others' happiness.md",
+      "id": "K047",
+      "title": "Let all joy be traced to the wish for others' happiness",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K055 \u2014 Train generosity as the first perfection.md",
+      "id": "K055",
+      "title": "Train generosity as the first perfection",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K056 \u2014 Train ethics as the second perfection, at the floor first.md",
+      "id": "K056",
+      "title": "Train ethics as the second perfection, at the floor first",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K057 \u2014 Train patience, energy, concentration, and wisdom as the sequence.md",
+      "id": "K057",
+      "title": "Train patience, energy, concentration, and wisdom as the sequence",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P088 \u2014 Use praise and blame as instruments, not metaphysics.md",
+      "id": "P088",
+      "title": "Use praise and blame as instruments, not metaphysics",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Anger reappraisal.md",
+      "id": "Anger reappraisal",
+      "title": "Anger reappraisal",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Anger.md",
+      "id": "Anger",
+      "title": "Anger",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Antidotes to afflictions.md",
+      "id": "Antidotes to afflictions",
+      "title": "Antidotes to afflictions",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Attribution retraining.md",
+      "id": "Attribution retraining",
+      "title": "Attribution retraining",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Beneficial speech.md",
+      "id": "Beneficial speech",
+      "title": "Beneficial speech",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Bodhicitta.md",
+      "id": "Bodhicitta",
+      "title": "Bodhicitta",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Prosocial spending.md",
+      "id": "Prosocial spending",
+      "title": "Prosocial spending",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The bodhisattva vow.md",
+      "id": "The bodhisattva vow",
+      "title": "The bodhisattva vow",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The commitment of the knight of faith.md",
+      "id": "The commitment of the knight of faith",
+      "title": "The commitment of the knight of faith",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The unexamined I.md",
+      "id": "The unexamined I",
+      "title": "The unexamined I",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/sayings/Blame conditions, not persons.md",
+      "id": "Blame conditions, not persons",
+      "title": "Blame conditions, not persons",
+      "thinker": "T045",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
