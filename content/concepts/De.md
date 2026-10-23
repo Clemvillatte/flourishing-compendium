@@ -32,6 +32,7 @@ The compendium's principle D004 ("Cultivate de: your embodied character-power") 
 The craftsperson whose skill has sunk into the hands: the line that comes out straight without watching, the apology that lands because it is not rehearsed. (Illustrative scenario, not a reported participant or study result.)
 
 ## Related concepts
+- [[T009 — Zhuangzi]]: the Virtue Complete gallery (Inner Chapter 5) the page reads for de made psychological.
 
 - [[Wu wei]] — non-forcing action is how de expresses
 - [[Ziran (naturalness)]] — de is the power of a thing being itself

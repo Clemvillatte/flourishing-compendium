@@ -25,6 +25,10 @@ Yoga Sūtra I.41 compares the settled mind to a precious gem that takes on the c
 Before trying to understand something difficult, give it your attention. Notice what you keep bringing to it, such as an old grievance or a wish to be finished.
 
 For example: Before answering a colleague's complaint, let them finish describing it. Then check whether your reply addresses what they said or the argument you expected.
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the still mirror of the Inner Chapters, the page's image for the settled mind.
+
 ## Psychology parallels
 
 - **[[Mindfulness's clarity mechanism|Mindfulness's clarity mechanism]]**, seeing mental events accurately rather than dimly (Bishop et al., 2004, operational definition)

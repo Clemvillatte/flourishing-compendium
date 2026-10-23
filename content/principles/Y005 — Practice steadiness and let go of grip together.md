@@ -26,6 +26,10 @@ Choose a regular task. Decide when you will do it and note what you hope to get 
 **For example**
 A language learner plans a repeatable study period and records after each session whether the planned session took place.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the cross-tradition effortless-action-through-long-effort parallel the page cites.
+
 ## Psychology parallels
 
 - **[[Acceptance alongside values-based action|Acceptance alongside values-based action]]** (Hayes, Strosahl and Wilson, 2011)

@@ -28,6 +28,10 @@ Nothing in this passage says that attention "stops returning and begins resting"
 
 (Yoga Sutras 3.1-3.3 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 203-205, Internet Archive.)
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the skill stories' wu wei as ripened practice, the page's parallel for absorption.
+
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 203-205

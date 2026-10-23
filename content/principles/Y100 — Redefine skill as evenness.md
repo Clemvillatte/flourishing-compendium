@@ -30,6 +30,10 @@ We usually call someone skilled when they are fast or brilliant. The verse adds 
 
 Two surgeons face the same emergency with the same hands. One is white-knuckled and tight, the other level and fully engaged. On this reading the second is the more skilled, whoever wins the round.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: Cook Ding's wu wei as the mark of mastery, the page's parallel for evenness.
+
 ## Psychology parallels
 
 - **[[Choking under pressure|Choking under pressure]]**, the performance research on why self-focus and outcome-focus degrade skill (Beilock, 2010)
