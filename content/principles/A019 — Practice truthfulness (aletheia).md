@@ -26,6 +26,10 @@ For example: you wrote the report and a colleague built its charts. Saying "I wr
 
 (NE IV.7.)
 
+## Related concepts
+
+- [[T011 — Socrates]]: Aristotle's named case of the mock-modest, truthfulness leaning down
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics IV.7, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)
