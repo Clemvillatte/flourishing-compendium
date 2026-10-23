@@ -8,3 +8,5 @@
 **Quotes NOT used:** Wikipedia fetch failed (429); SEP excerpt did not cover the threefold mimesis (ST285 covers it on the wiki side); the "I was there, believe me" quote not needed.
 
 **Validation:** FAIL→fixed (4 em-dashes in prose; reworded "Their why"); clean after fix (prose 464).
+
+**Advisor QC pass (pre-taper):** fixes applied per milestone review — see git history. T045: chapter-content claims re-sourced to the Bodhisattvacaryāvatāra carrier (ten chapters/six perfections/patience chapter), unsupported "most quoted" and later-chapter specifics removed; T046: mechanism-vs-finalism contrast corrected per SEP, CO002 link retained with explicit non-equivalence note; T047: SEP paraphrase de-quoted, narrative-identity claim softened to the fetched account, "Their why" recast around the cogito evidence.

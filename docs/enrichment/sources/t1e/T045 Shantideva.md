@@ -9,3 +9,5 @@
 **Quotes NOT used (absent from opened carriers):** the famous "All the joy the world contains..." verse appeared only in an unopened search snippet (Pema Chödrön, No Time to Lose, p. 319); per the no-hallucination rule the page cites the K047 principle instead of quoting the verse. SEP entry fetch failed (client error).
 
 **Validation:** clean (prose 328; 1 warn "no ## Related concepts section" as with all t1e pages).
+
+**Advisor QC pass (pre-taper):** fixes applied per milestone review — see git history. T045: chapter-content claims re-sourced to the Bodhisattvacaryāvatāra carrier (ten chapters/six perfections/patience chapter), unsupported "most quoted" and later-chapter specifics removed; T046: mechanism-vs-finalism contrast corrected per SEP, CO002 link retained with explicit non-equivalence note; T047: SEP paraphrase de-quoted, narrative-identity claim softened to the fetched account, "Their why" recast around the cogito evidence.

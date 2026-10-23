@@ -9,3 +9,5 @@
 **Quotes NOT used (absent from opened carriers):** the shell-burst/fountain/jet-of-steam imagery for élan vital (SEP excerpt did not include it); the Prigogine-recalled duration quote and "freedom is mobility" (SEP reference note) were not treated as verbatim Bergson text; death date discrepancy in Wikipedia infobox (4 Jan vs 3 Jan 1941) — page gives no date.
 
 **Validation:** FAIL→fixed (unresolved [[Élan vital]] alias; file exists as Elan vital — aliased); clean after fix.
+
+**Advisor QC pass (pre-taper):** fixes applied per milestone review — see git history. T045: chapter-content claims re-sourced to the Bodhisattvacaryāvatāra carrier (ten chapters/six perfections/patience chapter), unsupported "most quoted" and later-chapter specifics removed; T046: mechanism-vs-finalism contrast corrected per SEP, CO002 link retained with explicit non-equivalence note; T047: SEP paraphrase de-quoted, narrative-identity claim softened to the fetched account, "Their why" recast around the cogito evidence.
