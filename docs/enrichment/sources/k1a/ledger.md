@@ -679,3 +679,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Mention check run (before this entry): K122 already linked from D073/D080/B001/B128/P010/P026 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). "Single-session" appears only as the study's own design description.
 - NOTE: the heading line above initially mis-typed the worker id and was corrected in the same entry; no other text affected.
+
+## K325 — Divergent-option generation (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Wang, Hao, Ku, Grabner & Fink 2017 (Neuropsychologia 99:92-100), EEG study of the serial order effect in divergent thinking, abstract verified raw via NCBI efetch (PMID 28259772); authors read from the efetch header.
+- The blockquote (fluency decreases / originality increases sentence) matches the raw efetch text verbatim.
+- Honesty on page: object-uses task, not real problem solving; the number five and deferred evaluation left as the kernel's design, not tested findings; shifting/inhibition moderation noted.
+- Mention check run (before this entry): K325 already linked from E010/A037/S021 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
