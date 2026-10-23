@@ -7,6 +7,7 @@ file: "Memento mori"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
+<<<<<<< HEAD
 Memento mori ("remember that you will die") is the Stoic practice of deliberately contemplating mortality, not as morbidity but as the great clarifier of life. The tradition runs through Seneca (*Letters* 101 and *On the Shortness of Life*): death is not to be feared but kept in view, because the certainty of ending is what gives time its weight and priorities their order. Seneca's own summary of the discipline:
 
 > "Therefore, let us so order our minds as if we had come to the very end. Let us postpone nothing. Let us balance life's account every day." ([Seneca, *Letters* 101, Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101))
@@ -40,6 +41,39 @@ One sentence written at the top of the day's plan, "this may be one of few remai
 - [[Y096 — Keep urgency without hurry]] and [[B193 — Live with death lightly in view]] — the urgency pair, the practice's failure mode being apathy
 - [[M037 — Number your days; we only borrow our time]], [[S089 — Remember that you will die]] and [[S090 — See that life is short and do not waste it]] — the remembrance and numbering set
 - [[K230 — Memento mori]] — the compendium's own kernel page
+=======
+Memento mori ("remember that you will die") is the Stoic practice of deliberately contemplating mortality, not as morbidity but as the great clarifier of life. The Stoics of classical antiquity were particularly prominent in their use of this discipline, and Seneca's letters are full of injunctions to meditate on death ([Wikipedia, "Memento mori"](https://en.wikipedia.org/wiki/Memento_mori)). The tradition runs through Seneca (*Letters* 101, *On the Shortness of Life*): death is not to be feared but kept in view, because the certainty of ending is what gives time its weight and priorities their order ([[M037 — Number your days; we only borrow our time]]; [[S089 — Remember that you will die]]; [[S090 — See that life is short and do not waste it]]).
+
+### The practice
+
+> "Therefore, let us so order our minds as if we had come to the very end. Let us postpone nothing. Let us balance life's account every day." — [Seneca, Letters 101 (Gummere, Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101)
+
+Seneca's rule in the same letter is to begin at once to live and count each separate day as a separate life; one who daily puts the finishing touches to his life is never in want of time ([Seneca, Letters 101, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101)). Marcus Aurelius carries the same discipline as a standing estimate: consider how ephemeral and mean all mortal things are ([Marcus Aurelius, Meditations, as quoted in Wikipedia](https://en.wikipedia.org/wiki/Memento_mori)).
+
+### The mechanism
+
+The mechanism is contrast, not fear: against the background of ending, trivial anxieties shrink and postponed living becomes visible. The practice is the Stoic training of desire and aversion, death being the thing most avoided and therefore the heaviest available training weight; the Buddhist parallel is maranasati, and the Tibetan four reminders do the same work daily and briefly.
+
+The distinction to hold: memento mori is not fatalism or gloom. It is urgency without hurry, the opposite of [[Acedia]], the apathy that mortality-awareness misused can collapse into. Its partner is [[Amor fati]]: remembering the ending is what makes loving the whole possible.
+
+### In everyday life
+
+One sentence written at the top of the day's plan ("this may be one of few remaining"), and the plan edited accordingly. (Illustrative scenario, not a reported participant or study result.)
+
+### In the compendium
+
+- [[M037 — Number your days; we only borrow our time]] — the loan of time
+- [[S089 — Remember that you will die]] and [[S090 — See that life is short and do not waste it]] — the plain remembrance
+- [[S036 — Do not postpone living well]]
+- [[S098 — Remember the brevity of life and reputation]], [[S102 — Remember that everyone you know will die]], [[S103 — Recognise that the dead feel nothing]]
+- [[S104 — Practise the contemplation of mortality]] and [[S024 — Do not fear death]]
+- [[B055 — Contemplate mortality (maranasati)]] — the Buddhist parallel, with [[K024 — Begin with the four reminders, briefly and daily]]
+- [[Y096 — Keep urgency without hurry]] and [[B193 — Live with death lightly in view]]
+- [[P106 — Let mortality give shape]] and [[P164 — Judge your life as a direction, not a destination]]
+- [[M040 — Meet death with a made face]] and [[D090 — Accept death as transformation]]
+- [[AF052 — Learn to grieve — grief is a process, not a problem to solve]], [[CO030 — Use pre-mortems — imagine failure before it happens]], [[CO066 — Learn to take the third-person perspective — distanced self-talk improves reasoning]], [[SE016 — Learn self-distancing — view yourself from the outside]]
+- Ageing-awareness parallels: [[CO079 — Recognise the impact of cognitive ageing — some capacities decline, others improve]], [[AT073 — Recognise attentional changes with ageing — some decline, some stability]], [[MO070 — Recognise motivation and ageing — motivation changes across lifespan]], [[BE075 — Recognise behavioural challenges in ageing — maintaining activity]], [[SE075 — Recognise self and ageing — self continues to develop]]
+>>>>>>> e2d1b5eb4 (enrich: Memento mori rebuilt (ct2) — Seneca Letters 101 verified via Wikisource, unverified paraphrase replaced with verified rule, subheadings, labeled example, compendium list)
 
 Its Stoic sibling is [[Premeditatio malorum]] (adversity rehearsed instead of death) and its Buddhist one [[Impermanence]].
 
@@ -53,8 +87,15 @@ Its Stoic sibling is [[Premeditatio malorum]] (adversity rehearsed instead of de
 
 ## Sources
 
+<<<<<<< HEAD
 - [Seneca, *Moral Letters to Lucilius*, Letter 101 (Gummere translation, Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101) — the three passages quoted above
 - Seneca, *On the Shortness of Life*; Marcus Aurelius, *Meditations* — the wider Stoic tradition behind the practice (consulted editions; no passages quoted on this page)
+=======
+- [Seneca, Letters 101 (Gummere translation, Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101) — the daily-account rule
+- Seneca, On the Shortness of Life
+- [Wikipedia, "Memento mori"](https://en.wikipedia.org/wiki/Memento_mori) — the Stoic discipline and the Meditations quote
+- Stoic tradition; Marcus Aurelius, Meditations; the series' Stoic volume
+>>>>>>> e2d1b5eb4 (enrich: Memento mori rebuilt (ct2) — Seneca Letters 101 verified via Wikisource, unverified paraphrase replaced with verified rule, subheadings, labeled example, compendium list)
 
 ## Cited in parallels
 
