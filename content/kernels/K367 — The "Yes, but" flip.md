@@ -30,19 +30,19 @@ Adapted from Drapkin, *The Motivational Interviewing Path to Personal Change*, c
 The flip rests on the motivational-interviewing account of ambivalent speech. In the authors' own words:
 
 > "I need to do something about my weight [change talk] but I've tried about everything and it never lasts [sustain talk]. I mean, I know I need to lose weight for my health [change talk] but I just love to eat [sustain talk]." "Yes, but . . ." is the cadence of ambivalence.
-> — [Miller & Rollnick, *Motivational Interviewing* (3rd ed., 2012), archive.org full text](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
 The two halves have names, and the book distinguishes them from discord:
 
 > "The opposite type is sustain talk—the person's own arguments for not changing, for sustaining the status quo."
-> — [same carrier](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
 > "Sustain talk is about the target behavior or change. Discord is about you or more precisely about your relationship with the client—signals of discord in your working alliance."
-> — [same carrier](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
-The research claim behind the flip is the ratio: a predominance of change talk over sustain talk predicts subsequent behavior change, per the studies the book cites (Moyers, Martin and colleagues); the "but to and" rewrite is a way of stopping the stronger half from deleting the weaker one in your own speech.
+The rewrite keeps both sides of the ambivalence in the sentence. The MI findings quoted here do not establish its effect on behavior.
 
-What the sources do not test: the ratio evidence comes from clinician-delivered MI; Drapkin's "but to and" move is a lay self-help adaptation, cited at second hand.
+What the sources do not test: the passages quoted are the MI background; the specific "but to and" move is attributed to Drapkin's workbook, cited at second hand, and its effect is not established.
 
 ## Operationalises
 
@@ -51,13 +51,13 @@ What the sources do not test: the ratio evidence comes from clinician-delivered 
 - [[P041 — Set ends-in-view, and revise them|P041 Set ends-in-view, and revise them]] — **grounding**: the goal survives its own obstacles.
 ## Psychology parallels
 
-- Drapkin cites the MI literature that more change talk predicts more behavior change (reported by the source book); the specific "but → and" self-talk move is her lay adaptation and has not been independently tested.
+- The change-talk/sustain-talk background is supported by the opened book; the specific "but → and" move is attributed to Drapkin's workbook, cited at second hand.
 
 ## Related concepts
 
 - [[Motivational interviewing]] — the research tradition the change-talk/sustain-talk distinction comes from.
-- [[Approach versus avoidance motivation]] — the two pulls the "yes, but" sentence carries in one line.
-- [[Action commitment]] — what the surviving half of the rewritten sentence can feed.
+- [[Approach versus avoidance motivation]] — another way motivation splits into two pulls; the flip's split is change versus maintain, not valence.
+- [[Action commitment]] — the ACT process for building committed action toward values.
 
 ## Related kernels
 
@@ -67,4 +67,4 @@ What the sources do not test: the ratio evidence comes from clinician-delivered 
 
 ## Sources
 
-- [Miller, W. R. & Rollnick, S. (2012). *Motivational Interviewing: Helping People Change* (3rd ed.). Guilford Press — archive.org full text](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
+- [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
