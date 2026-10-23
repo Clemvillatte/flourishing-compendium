@@ -28,6 +28,11 @@ For an everyday illustration, think about fear of making a mistake. It could lea
 
 Suppose you say “I'm not a math person.” Try one familiar kind of problem alone and another comparable problem with a tutor who asks you to explain each step. Compare what you can do and where you get stuck. Keep any support that helps you work on a specific difficulty. This compendium exercise investigates present conditions; it does not establish what caused your history with maths or guarantee a change.
 
+## Sources
+
+- [John Dewey, Human Nature and Conduct, part II, §2, “Plasticity of Impulse”](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-2) — fear, education, habits and the possibility of reorganisation
+- [John Dewey, Human Nature and Conduct, part II, §3, “Changing Human Nature”](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-3) — inertia of custom; native materials, machinery and designs
+
 ## Psychology parallels
 
 - **[[Neuroplasticity|Neuroplasticity]]**, gray-matter change induced by training (Draganski et al., 2004, [record](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14737157&resultType=core&format=json))
