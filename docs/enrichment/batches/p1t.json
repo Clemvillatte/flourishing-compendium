@@ -12,7 +12,6 @@
   "D151",
   "D153",
   "D157",
-  "D164",
   "D169",
   "D172",
   "D174",
@@ -32,10 +31,12 @@
   "D190",
   "P009"
  ],
- "in_progress": null,
- "flagged": {},
+ "in_progress": "D164",
+ "flagged": {
+  "D164": "Reopened for QC: Owner priority: replace mechanical Plain words and overlong summary with primary-source-bounded explanation and workable application"
+ },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-20T03:43:57+00:00",
- "band_done": true
+ "updated": "2026-10-23T06:30:34+00:00",
+ "band_done": false
 }
