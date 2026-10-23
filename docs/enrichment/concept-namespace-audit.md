@@ -525,3 +525,12 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   virtuous actions, Book X pastimes denial). Supervisor/owner disposition requested:
   (a) keep as the companion's heading with the frame disclosed, or (b) fold toward
   eudaimonia. Evidence trail: w1ad ledger.
+
+- **Taxonomy of mental motions** (2026-10-23, worker-pplx-w1ad-f6d92b31, w1ad):
+  heading-provenance flag, marked done with on-page disclosure. The heading is the
+  compendium's phrase; the source line names Descartes's classification of the passions
+  (Passions of the Soul, 1649), and the page now grounds that classification in the SEP
+  entry with verbatim quotes and discloses the heading's provenance in its first
+  sentence. Supervisor/owner disposition requested: (a) keep as the companion's heading,
+  or (b) fold toward The taxonomy of passions / Naming the passions. Evidence trail: w1ad
+  ledger.
