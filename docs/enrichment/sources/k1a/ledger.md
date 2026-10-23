@@ -409,3 +409,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: educational trial, medical students, role-play measurement, short-term, authors' own multicenter caveat; real-conflict defusing stated as the practice's wager. Rosenberg's NVC origin noted only as the framework's description in the trial background, no unopened biography claims.
 - Seed's K380 related-kernel link preserved; mention check run (B146/B148/P129 already link the kernel); no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K242 — Daily architecture (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Lally, Wardle & Gardner 2011 (Psychol Health Med 16(4):484-489), qualitative study of 10 participants, abstract verified raw via NCBI efetch (PMID 21749245).
+- The blockquote (work-context habits / weekend disruption sentence) matches the raw efetch text verbatim.
+- Honesty on page: qualitative, ten accounts, not a test of a three-point structure; automaticity findings stated in reader terms. "Retention system" framing grounded to the cue/context mechanism.
+- Mention check run: K242 already linked from Daily architecture concept and B192; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets; Practises the concept line kept).
