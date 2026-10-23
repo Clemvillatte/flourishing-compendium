@@ -13,13 +13,27 @@ Self-transcendent experiences are temporary states in Yaden and colleagues' fram
 >
 > David Bryce Yaden and colleagues, “The Varieties of Self-Transcendent Experience,” [abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102).
 
+The framework's two-component structure has been widely adopted. A later review summarizes it this way:
+
+> "Yaden et al. (2017a) posit the following constructs for self-transcendence: mindfulness, flow, positive emotions (elevation, compassion, admiration, gratitude, love, awe), peak experiences (e.g., comic consciousness, merging with the universe), mystical experiences (e.g., psychedelic), pathological experiences (e.g., schizophrenia, depersonalization disorder). The authors suggest that self-transcendent experiences contain two sub components: reduced self-saliency (annihilation component) and increased connectedness (relational component)."
+> — ["A Review on Research and Evaluation Methods for Investigating Self-Transcendence", PMC7701337](https://pmc.ncbi.nlm.nih.gov/articles/PMC7701337/)
+
+The two components have names the framework gives them:
+
+> "Both are related to the two basic components of transcendent emotion, which according to Yaden et al. (2017), are: (a) annihilational (reduction of self-boundaries and self-salience) and (b) relational, 'sense of connectedness, even to the point of oneness…with other people and aspects of one's environment or surrounding context' (p. 145)."
+> — [Corraliza, "Transcendence and Sublime Experience in Nature", PMC6424873](https://pmc.ncbi.nlm.nih.gov/articles/PMC6424873/)
+
 ### A proposed framework
 
 Their integrative review proposes an organizational framework and possible psychological and neurobiological mechanisms for these experiences ([Yaden et al., 2017](https://journals.sagepub.com/doi/10.1037/gpr0000102)). The authors identify further empirical research as needed to develop the account ([abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)).
 
+The framework's value for the compendium's essays is that it groups states the traditions usually treat separately. Awe in nature, flow in craft, love in relationship, and mystical experience in prayer all show the same two components from different angles: the self-salience drops, the connectedness rises. That grouping is what makes the framework a research programme rather than a single theory — it names the common structure across states that differ in their elicitors, their duration, and their after-effects.
+
 ## Related concepts
 
 - [[Self-transcendence]] — the sibling page in the same family
+- [[Awe]] — one of the varieties the framework groups under the same two-component structure
+- [[Ego dissolution]] — the annihilational component named at its extreme
 
 ## Sources
 
