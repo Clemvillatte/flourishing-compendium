@@ -7,23 +7,43 @@ file: "Gradual training"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-G"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter G", "parent": ""}
 ---
-The gradual training (anupubbasikkhā, "training in sequence") is the Buddha's presentation of the path as an ordered curriculum rather than a single leap. In the suttas the sequence runs: virtue, then guarding the sense doors, moderation in eating, devotion to wakefulness, mindfulness and full awareness, the jhānas, and the knowledges and realizations ([MN 107, Gaṇakamoggallāna Sutta](https://www.dhammatalks.org/suttas/MN/MN107.html)). Each rung is training for the next: the person who can keep precepts can restrain the senses; the restrained mind can settle; the settled mind can see clearly.
+The gradual training (anupubbasikkhā, "training in sequence") is the Buddha's presentation of the path as an ordered curriculum rather than a single leap. The Gaṇakamoggallāna Sutta opens with the horse-tamer image:
 
-The mechanism is that the sequence is load-bearing: the later capacities are built from the earlier ones, which is why the tradition treats skipping stages not as efficiency but as self-deception ([[B029 — Follow the gradual training]]; [[K049 — Use the graduated structure; do not skip stages]]). The compendium's [[Eightfold Path]] is the same path paced for ordinary life, and the capacity-building cousin [[AT031 — Cultivate attentional endurance — build capacity gradually]] carries the same pacing.
+> "Brahman, a step-by-step training, a step-by-step activity, a step-by-step practice can likewise be described in this Dhamma & Vinaya. Just as when a dexterous horse-tamer, on getting a fine thoroughbred colt, first makes it perform the task of wearing the bit, and then trains it further, in the same way, when the Tathāgata gets a person fit to be tamed, he first trains him thus: 'Come, monk. Be virtuous. Dwell restrained in accordance with the Pāṭimokkha, consummate in your behavior & sphere of activity. Train yourself, having undertaken the training rules, seeing danger in the slightest faults.'" ([MN 107](https://www.dhammatalks.org/suttas/MN/MN107.html))
 
-The distinction to hold: gradual is not slow for slowness' sake. The tradition also holds the sudden-seeing model — a single re-seeing that reorganizes the whole field — and the practice instruction is to hold both ([[B130 — Expect awakening to shift in a moment]]): train daily so that the lightning, when it comes, has somewhere to land.
+In the suttas the sequence runs: virtue, then guarding the sense doors, moderation in eating, devotion to wakefulness, mindfulness and full awareness, the jhānas, and the knowledges and realizations ([MN 107](https://www.dhammatalks.org/suttas/MN/MN107.html)). Each rung is training for the next: the person who can keep precepts can restrain the senses; the restrained mind can settle; the settled mind can see clearly.
 
-An example at its smallest: one precept kept for one week before the second is added.
+### The mechanism
 
-Its cross-tradition cognates are Aristotle's habituation — virtue built by repeated acts ([[The doctrine of the mean]]) — Laozi's stepwise way ([[The journey of a thousand miles]]), and its modern research cousin, [[Deliberate practice]].
+The sequence is load-bearing: the later capacities are built from the earlier ones, which is why the tradition treats skipping stages not as efficiency but as self-deception. The compendium's [[Eightfold Path]] is the same path paced for ordinary life.
+
+### Gradual is not slow
+
+The distinction to hold: gradual is not slow for slowness' sake. The tradition also holds the sudden-seeing model, a single re-seeing that reorganizes the whole field, and the practice instruction is to hold both: train daily so that the lightning, when it comes, has somewhere to land.
+
+### In everyday life
+
+One precept kept for one week before the second is added. (Illustrative scenario, not a reported participant or study result.)
+
+Its cross-tradition cognates are Aristotle's habituation (virtue built by repeated acts, [[The doctrine of the mean]]), Laozi's stepwise way, and its modern research cousin, [[Deliberate practice]].
+
+### In the compendium
+
+- [[B029 — Follow the gradual training]] — the Buddhist form
+- [[K049 — Use the graduated structure; do not skip stages]] — the structure rule
+- [[AT031 — Cultivate attentional endurance — build capacity gradually]] — the capacity-building cousin
+- [[B130 — Expect awakening to shift in a moment]] — the sudden-seeing counterweight
+
+## Related concepts
+
+- [[Eightfold Path]] — the same path paced for ordinary life
+- [[The doctrine of the mean]] — Aristotle's habituation logic
+- [[The journey of a thousand miles]] — Laozi's stepwise way
+- [[Deliberate practice]] — the modern research cousin
 
 ## Sources
 
-- Buddhist tradition, MN 107
-
-- MN 107
-
-- the series' Buddhist volume
+- [MN 107, Gaṇakamoggallāna Sutta (Thanissaro translation, dhammatalks.org)](https://www.dhammatalks.org/suttas/MN/MN107.html) — the horse-tamer passage, quoted above
 
 [[MO037 — Learn to stack habits — link new behaviours to existing ones]]
 [[B013 — Trust that the mind is trainable]]
