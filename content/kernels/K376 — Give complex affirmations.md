@@ -14,7 +14,7 @@ A simple affirmation comments on something specific someone did: "You said that 
 
 The complex version goes beyond the action to the quality behind it. Miller & Rollnick note that an affirmation is also a reflection — a guess — and the person may confirm or correct it. A further tip from the same book's fourth edition: leave out the word "I" when affirming; it's about the person, not about you.
 
-Use it on yourself too: "I kept going even when it was boring" is more useful than "good job me."
+The self-directed version works the same way; for example: "I kept going even when it was boring."
 
 Adapted from Miller & Rollnick, Motivational Interviewing (4th ed.), ch. 4 (Engaging), p. 61.
 

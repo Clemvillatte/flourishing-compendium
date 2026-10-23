@@ -27,7 +27,7 @@ Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 6, p.
 - [[BE007 — Understand that behaviour change follows stages — precontemplation to maintenance|BE007 Understand that behaviour change follows stages: precontemplation to maintenance]] — **grounding**: stage-matched practice.
 ## Psychology parallels
 
-- Miller & Rollnick cite empirical MI literature (their footnote 14) finding that decisional balance with ambivalent clients decreases commitment; the account here rests on the book's report of that literature.
+- The change-versus-neutral distinction is the third edition's account of when a balanced sheet fits; the caution for helpers is this page's adaptation.
 
 ## Evidence
 

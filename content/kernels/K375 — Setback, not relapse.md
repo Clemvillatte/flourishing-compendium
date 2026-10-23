@@ -16,7 +16,7 @@ The practice: catch the setback early, treat it as a normal part of change rathe
 
 A caveat the source takes seriously: not every setback is harmless. For some changes (addiction, self-harm, medical regimens), a slip can have serious consequences, and "it's just data" can be the wrong frame. Where that's the case, professional support belongs in the picture.
 
-Adapted from Miller & Rollnick, Motivational Interviewing (4th ed.), ch. 12 (Supporting Persistence), p. 205; Miller (2015), "Retire the concept of 'relapse'," cited at p. 211 n.11.
+The passage quoted below is the third edition's account of setbacks and the word "relapse"; the framing of a slip as data is this page's adaptation.
 
 ### Evidence
 
@@ -30,8 +30,8 @@ What the sources do not test: the passage describes the clinical support task; t
 ## Related concepts
 
 - [[Habit formation]] — the behavior the slip happens inside.
-- [[Habit maintenance]] — the stage a setback most often interrupts.
-- [[Habit discontinuity]] — the breaks in habit the setback can be read as.
+- [[Habit maintenance]] — the stage a setback can interrupt.
+- [[Habit discontinuity]] — the life-change windows that loosen habits; a related but different phenomenon from a slip.
 
 ## Related kernels
 

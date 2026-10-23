@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K377** — Offer two or three options, not one
 
-When you're helping someone choose a course of action, don't offer one option at a time. Offering a single option invites the reflexive "why that won't work" — the push-back hand. Offering two or three at once lets the person compare and choose, which is a different mental move from defending against a push.
+When you're helping someone choose a course of action, the book's recommendation is a menu of options. How many to offer is an editorial suggestion of this page: two or three at once, so the person can compare and choose.
 
 "Of the things I've mentioned, which ones do you think would be possible for you?" is a question that respects both the person's autonomy and the reality that they know their life better than you do.
 
@@ -25,7 +25,7 @@ The recommendation, in the book's own words:
 
 The menu has a history in the brief-intervention research the book recounts, in the FRAMES components:
 
-> "This review also pointed to six common components of effective brief treatment (cf. Miller & Sanchez, 1994), summarized by the acronym FRAMES: Feedback of personal status relative to norms Responsibility for personal change Advice to change Menu of options from which to choose in pursuing change Empathic counselor style Support for self-efficacy"
+> "This review also pointed to six common components of effective brief treatment (cf. Miller & Sanchez, 1994), summarized by the acronym FRAMES: Feedback of personal status relative to norms; Responsibility for personal change; Advice to change; Menu of options from which to choose in pursuing change; Empathic counselor style; Support for self-efficacy"
 > — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
 What the sources do not test: the passages give the method's recommendation and its research lineage; they do not evaluate the everyday version on this page.
@@ -52,4 +52,4 @@ What the sources do not test: the passages give the method's recommendation and 
 - [[P041 — Set ends-in-view, and revise them|P041 Set ends-in-view, and revise them]] — **complement**: ends-in-view with multiple means is less brittle than one path.
 ## Psychology parallels
 
-- Part of clinical MI protocols; the lay version has not been directly tested (indirect evidence).
+- Part of clinical MI protocols; the quoted passages give the method's account; they do not establish the outcome effects of this lay version.

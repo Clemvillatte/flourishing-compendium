@@ -35,8 +35,8 @@ What the source does not test: the vignette is a therapist-led exercise; the sel
 ## Related concepts
 
 - [[Compassion-focused therapy]] — the therapy family the exercise comes from.
-- [[Distanced self-talk (Kross)]] — the research tradition on naming vs. being a self.
-- [[Perspective-taking]] — the shift the walk around the cutout produces.
+- [[Distanced self-talk (Kross)]] — referring to yourself by name or non-first-person pronouns while reflecting; a related distancing practice.
+- [[Perspective-taking]] — the shift in viewpoint the walk around the cutout is meant to produce.
 
 ## Related kernels
 

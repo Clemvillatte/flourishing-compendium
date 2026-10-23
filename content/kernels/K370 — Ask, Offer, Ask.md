@@ -14,7 +14,7 @@ Before you tell someone what to do, ask permission: "Would it be OK if I mention
 
 The structure keeps advice from becoming a lecture — the surrounding listening is what makes information easier to digest.
 
-Adapted from Miller & Rollnick, Motivational Interviewing (4th ed.), ch. 11 (Offering Information and Advice), p. 195. The third edition of the same book calls this sequence elicit–provide–elicit, in the same chapter role.
+The third edition of the book calls this sequence elicit–provide–elicit (its Chapter 11 role); the "Ask, Offer, Ask" name is the fourth edition's.
 
 ### Protocol
 
@@ -44,7 +44,7 @@ What the sources do not test: the quoted passages explain the sequence's rationa
 - [[S053 — Distinguish between what you control and what you influence|S053 Distinguish between what you control and what you influence]] — **analogy**: the Stoic control/influence line drawn in conversation.
 ## Psychology parallels
 
-- Ask–Offer–Ask is part of clinical MI protocols; the lay version has not been directly tested (indirect evidence).
+- Ask–Offer–Ask is part of clinical MI protocols; the quoted passages give the method's account; they do not establish the outcome effects of this lay version.
 
 ## Related concepts
 

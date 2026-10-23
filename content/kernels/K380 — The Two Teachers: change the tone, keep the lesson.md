@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K380** — The Two Teachers: change the tone, keep the lesson
 
-Think of two teachers who gave you the same correction — one with contempt, one with warmth. You learned the lesson from both; only one of them made you want to keep going.
+Think of two teachers giving the same correction — one with contempt, one with warmth. The imagined comparison is the exercise: which lesson would you keep working at?
 
 When you catch yourself in self-criticism (or criticizing someone you care about), ask: what is the *information* here? What would change if the same words were delivered by someone who was on your side? The goal is not to stop being corrected — the goal is to correct the *way* you're correcting.
 

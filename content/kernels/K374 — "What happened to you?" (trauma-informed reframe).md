@@ -22,7 +22,7 @@ Adapted from Burke, Lundahl & Arkowitz (Eds.), Motivational Interviewing in the 
 
 The reframe, as the trauma-informed care literature states it:
 
-> "Under this view, it is often stated that a trauma-informed approach asks not ‘What is wrong with you?’ but rather ‘What happened to you?’"
+> "Under this view, it is often stated that a trauma-informed approach asks not "What is wrong with you?" but rather "What happened to you?""
 > — [Wikipedia, “Trauma-informed care”](https://en.wikipedia.org/wiki/Trauma-informed_care)
 
 The origin of the approach, from the same article's history section:

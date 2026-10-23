@@ -14,7 +14,7 @@ When someone tells you about a problem, notice the urge that arrives first: the 
 
 The practice: when you feel the urge to fix, pause and check — did they ask for a solution, or are they telling you how it is? If you're not sure, you can ask: "Do you want ideas, or do you want me to just listen?"
 
-Adapted from Miller & Rollnick, Motivational Interviewing (4th ed.), Preface p. ix and ch. 1 p. 19. The explicit check-in question is an addition, not Miller & Rollnick's own.
+The passage quoted below is the third edition's account of the reflex; the explicit check-in question is an addition, not Miller & Rollnick's own.
 
 ### Evidence
 
