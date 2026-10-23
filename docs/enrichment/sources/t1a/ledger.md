@@ -35,3 +35,9 @@ OWNER-UPDATE-2026-10-22 Directive 3 mass-minting gate for this band.
   quoted Ethics passages directly support the eudaimonia/function/habituation/whole-life
   bullets. The remaining queue (T003 William James onward) is untouched for the next
   t1a worker; T003–T013 stay queued in the manifest.
+
+## T002 Aristotle — partial QC repair (2026-10-23, worker-pplx-ct3-1023a, t1a baton)
+- Flag item "section word limits" DONE: Personal story trimmed 182 → 150 words, Their position 139 → 120 words (both within PROTOCOL-THINKERS budgets 60–150 / 60–120). Only connective prose and one SEP link-text repetition were cut; no facts, quotes, or citations removed. The "intended for an inner circle of auditors" clause was dropped from the treatises sentence (unverified-this-session claim; the remaining SEP quote is untouched).
+- Nicomachean Ethics I.7 quote ellipsis-truncated after "a working of the Soul in the way of Excellence'" to fit budget; truncated portion matches the carrier verbatim up to the ellipsis.
+- Flag item "humanizer tells": scanned for the standard tell patterns (imagined/imaginary markers, session language, hypothetical-example framing); none found in T002.
+- REMAINING flag items for the next t1a owner: translator metadata (NE quotes are the Jowett Gutenberg translation — verify the metadata line states this), peripatetic/treatises claims (see note above on the dropped clause), why-section sourcing.
