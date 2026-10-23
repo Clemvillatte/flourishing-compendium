@@ -21,9 +21,9 @@ Chapter 19 of the Daodejing lists three renunciations, the first of which it say
 The chapters address rulers and the naming of virtues. The compendium's personal reading is the third clause's shape: scheming is listed as a thing a person can renounce, and the chapter's conditional is that its renunciation would leave no thieves nor robbers.
 
 **Plain words**
-Chapter 19's conditional: renounce artful contrivances and scheming for gain, and there would be no thieves nor robbers. Chapter 57's claims of degree: more crafty dexterity, more strange contrivances; more display of legislation, more thieves and robbers. The compendium's exercise: name one scheme you are running, and list what it has required so far.
+A scheme is a plan that needs other people not to see it whole. The Daodejing treats scheming as something a ruler, or anyone, can simply drop, and it prices the dropping: no scheming for gain, nothing left for thieves and robbers to feed on. The exercise is an audit of one running scheme: name it, then list what it has required so far.
 
-*For example:* The compendium's hypothetical: the office politician wins the quarter — what does the decade pay for it?
+*For example:* name one scheme you are running. List what it has required so far: favours called in, information kept back, people managed. Then ask what the decade pays for the quarter the scheme wins.
 
 ## Sources
 
