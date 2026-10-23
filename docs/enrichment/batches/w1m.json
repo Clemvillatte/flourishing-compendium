@@ -2,7 +2,6 @@
  "batch": "w1m",
  "done": [
   "The coloured lens",
-  "The return of the soul to its source",
   "Whole Trait Theory",
   "Cohort model of speech perception",
   "Action Assembly Theory",
@@ -72,7 +71,8 @@
   "A certain blindness",
   "Verum factum",
   "Walking off one's thoughts",
-  "The ontological difference"
+  "The ontological difference",
+  "The return of the soul to its source"
  ],
  "in_progress": null,
  "flagged": {
@@ -108,11 +108,12 @@
   "Contempt for fame": "Reopened for QC: extension: add what-it-is-not and small case (prose 138)",
   "The great doubt": "Reopened for QC: extension: add scope note (prose 124)",
   "A certain blindness": "Reopened for QC: extension: add James's conclusion ('Hands off') verified (prose 93)",
-  "Verum factum": "Reopened for QC: extension: add SEP on human sciences and wisdom (prose 79)"
+  "Verum factum": "Reopened for QC: extension: add SEP on human sciences and wisdom (prose 79)",
+  "The return of the soul to its source": "Reopened for QC: extension: add reading notes grounded in the quoted passage (prose 54)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:35:53+00:00",
+ "updated": "2026-10-23T14:36:16+00:00",
  "band_done": false,
  "new_concepts": [
   {

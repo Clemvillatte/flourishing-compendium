@@ -13,6 +13,14 @@ In [Ennead IV.8.1](https://archive.org/details/plotinus-ennead-iv), Plotinus des
 
 The passage describes an inward ascent followed by descent to discursive reasoning ([Loeb Classical Library](https://archive.org/details/plotinus-ennead-iv)). In the same treatise the soul "though it is divine and comes from above, enters into the body" (Ennead IV.8, Armstrong translation, [Loeb](https://archive.org/details/plotinus-ennead-iv)).
 
+### Reading the passage
+
+Three features of the passage are worth keeping in view. It is a first-person report ("Often I have woken up out of the body to my self"), so it offers testimony and not a demonstration. The experience is not permanent: Plotinus has "come down from Intellect to discursive reasoning" and is "puzzled" at the descent. And the movement is inward, "going out from all other things", so the source is reached through the self and not away from it.
+
+### What it is not
+
+The return of the soul is not a recommendation to withdraw from ordinary life, and the passage does not say that discursive reasoning is worthless. It describes a rhythm of ascent and descent that Plotinus found puzzling, and the compendium cites it as one tradition's picture of coming home to what is deepest in oneself. Whether the experience is what Plotinus takes it to be is a question these sources do not settle.
+
 ### In the compendium
 
 - [[D065 — Use the light, return to the insight]] — grounds its wording in DDJ 52 (Legge)
