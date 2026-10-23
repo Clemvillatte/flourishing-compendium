@@ -54,7 +54,7 @@ Its Buddhist ancestor is [[Right effort]], effort decided in advance of the mome
 
 - [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that planning exploits
 - [[Morning intention]] — the day's first if-then, set the night before
-- [[Right intention]] — listed for comparison
+- [[Right intention]] — the Eightfold Path's direction for action, set in advance like the if-then cue
 - [[PP069]] — progress reporting as a companion to planning when to act
 
 ## Sources
