@@ -24,27 +24,19 @@ The review's conclusion follows from the number of these mechanisms:
 
 ### Where the switch is thrown
 
-Bandura's Figure 1 places the mechanisms at four points in the chain between moral standards and conduct:
-
-> "The disengagement may center on the reconstrual of the conduct itself so it is not viewed as immoral; the operation of the agency of action so that the perpetrators can minimize their role in causing harm; in the consequences that flow from actions; or on how the victims of maltreatment are regarded by devaluing them as human beings and blaming them for what is being done to them." (Bandura, 1999, pp. 194–195, [full text](https://www.antoniocasella.eu/nume/Bandura_1999.pdf))
-
-A person can hold the same standards throughout; what changes is which part of the causal story is left available for self-censure to work on.
+Bandura's Figure 1 places the mechanisms at four points in the chain between moral standards and conduct: how the conduct itself is described, who is seen as acting, which consequences get counted, and how the victim is regarded ([Bandura, 1999, full-text PDF, pp. 2–3](https://www.antoniocasella.eu/nume/Bandura_1999.pdf)). A person can hold the same standards throughout; what changes is which part of the causal story is left available for self-censure to work on.
 
 ### Moral justification and sanitizing language
 
-Two mechanisms do their work on the description of the act. In moral justification, "detrimental conduct is made personally and socially acceptable by portraying it as serving socially worthy or moral purposes", and Bandura observes that people do not ordinarily engage in harmful conduct until they have justified to themselves the morality of their actions (p. 195). Language carries the quieter half of the job:
+In moral justification, detrimental conduct is made personally and socially acceptable by portraying it as serving socially worthy or moral purposes; Bandura notes that people do not ordinarily engage in harmful conduct until they have justified to themselves the morality of their actions ([p. 3](https://www.antoniocasella.eu/nume/Bandura_1999.pdf)). Naming does related work, and the effect has been measured:
 
-> "Euphemizing is an injurious weapon. People behave much more cruelly when assaultive actions are verbally sanitized than when they are called aggression." (Bandura, 1999, p. 196, citing Diener et al., 1975, [full text](https://www.antoniocasella.eu/nume/Bandura_1999.pdf))
+> "Euphemizing is an injurious weapon. People behave much more cruelly when assaultive actions are verbally sanitized than when they are called aggression." (Bandura, 1999, [full-text PDF](https://www.antoniocasella.eu/nume/Bandura_1999.pdf), p. 4)
 
 ### Diffusion of responsibility
 
-The account also reaches collectives. Division of labour lets each participant perform a subdivided job that seems harmless in itself, and self-censure loses its target:
+Moral control also weakens when responsibility for detrimental behaviour is spread across many hands. Most enterprises require the services of many people, each performing subdivided jobs that seem harmless in themselves; once activities are routinized into detached subfunctions, people shift their attention from the morality of what they are doing ([p. 7](https://www.antoniocasella.eu/nume/Bandura_1999.pdf)). On this account large-scale harm can be produced by considerate people, each doing a small, well-described part.
 
-> "The exercise of moral control is also weakened when personal agency is obscured by diffusing responsibility for detrimental behavior." (Bandura, 1999, p. 199, [full text](https://www.antoniocasella.eu/nume/Bandura_1999.pdf))
-
-This is the bridge between the individual mechanisms and the institutional scale the review is named for: large-scale harm can be produced by considerate people, each doing a small, well-described part.
-
-For the compendium's principles the research supplies the mechanism behind a recurring worry of the virtue traditions: the clever rationaliser whose conduct needs no weakness of will to explain, only a switched-off sanction ([[A059|Distinguish incontinence from vice]]; [[A037|Distinguish cleverness from practical wisdom]]), and the leader whose restraints turn out to be conditional on who is on the receiving end ([[S113|Handle power without tyranny]]; [[Y041|Keep the restraints unconditional]]).
+Aristotle separates the incontinent person, who knows better and repents, from the vicious one, who does not ([[A059|Distinguish incontinence from vice]]), and treats cleverness as finding effective means to whatever goal is already set ([[A037|Distinguish cleverness from practical wisdom]]). Bandura's mechanisms describe a further figure: someone who keeps the standards and switches them off.
 
 ## Related concepts
 
@@ -55,9 +47,8 @@ For the compendium's principles the research supplies the mechanism behind a rec
 
 ## Sources
 
-- Bandura, 1999
-- [Bandura, "Moral Disengagement in the Perpetration of Inhumanities", Personality and Social Psychology Review 3(3), 193–209 (1999)](https://pubmed.ncbi.nlm.nih.gov/15661671/) — abstract; quoted fragments verified against the NCBI record (PMID 15661671; title and authors confirmed)
-- [Bandura, "Moral Disengagement in the Perpetration of Inhumanities" (author manuscript PDF)](https://www.antoniocasella.eu/nume/Bandura_1999.pdf) — pp. 194–196, 199; blockquotes on this page checked against this full text
+- [Bandura, "Moral Disengagement in the Perpetration of Inhumanities", Personality and Social Psychology Review 3(3), 193–209 (1999) — abstract](https://pubmed.ncbi.nlm.nih.gov/15661671/)
+- [Bandura, "Moral Disengagement in the Perpetration of Inhumanities" — full-text PDF copy](https://www.antoniocasella.eu/nume/Bandura_1999.pdf)
 
 ## Cited in psychology parallels
 
