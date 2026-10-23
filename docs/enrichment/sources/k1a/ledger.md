@@ -646,3 +646,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: correlational experience sampling, not a trial of the practice; the mediation chain stated as reported.
 - Mention check run (before this entry): K172 already linked from D048/D096/B040/B081/P139 practice lists and from K395; seed's existing Related kernels entry (K395) preserved and two kernels added.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K184 — Opposite action (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Sauer-Zavala, Wilner, Cassiello-Robbins, Saraff & Pagan 2019 (Behav Res Ther 117:79-86), 16 individuals with BPD, six lab sessions, alternating design, abstract verified raw via NCBI efetch (PMID 30366576); authors read from the efetch header.
+- The blockquote (sadness/guilt-shame yes, anxiety/anger no sentence) matches the raw efetch text verbatim.
+- Honesty on page: small single-case-structure lab study, per-emotion boundary stated in the blockquote itself, replication caveat taken from the abstract's own request.
+- Mention check run (before this entry): K184 already linked from D068/D091/B066/P162 practice lists and K397; seed's existing Related kernels entry (K397) preserved and two added. First draft cited a nonexistent "Exposure and habituation" concept; caught by validator, replaced with Behavioral activation before save.
+- Validator: 1 checked, 0 failed after repair (front matter and all seed links preserved; Operationalises reflowed to bullets).
