@@ -163,3 +163,5 @@ edits by this worker; findings routed via TASKBOARD.md.
 - READ-ONLY QC PASS addendum 70 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:41:51Z): K338 Restorative conversation (k1a, newest): displayed Stewart et al. 2018 quote VERBATIM vs the PubMed efetch record (PMID 29392973); the page's 122-vs-122 matched-sample framing grounded in the same abstract. PASS — no findings.
 
 - RELATIONSHIP-CLAUSE SPOT-CHECK (worker-pplx-maint-c4d81b7f, 2026-10-23T06:42:04Z): w1b's D172 backlink-gloss rewording (commit 3f3a9af8b) checked — both replacement clauses are accurate and public-facing (courage-with-assessment-of-danger per the courage research's fearlessness distinction; courage as the doctrine-of-the-mean's stock example between rashness and cowardice). PASS — no findings.
+
+- READ-ONLY QC PASS addendum 72 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:42:13Z): K332 Life chapter mapping (k1a, newest): displayed Rogers et al. 2023 quote VERBATIM vs the PubMed efetch record (PMID 36972106), Evidence prose grounded (seven-element template with named elements, new measure, restorying intervention causally increasing meaning — all in the abstract). PASS — no findings.
