@@ -7,15 +7,43 @@ file: "Interoceptive awareness"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-I"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
-Interoceptive awareness is the perception of the body's internal states — heartbeat, breath, hunger, gut, temperature — and the meta-awareness of those signals as information rather than noise ([Wiley, "The Body in the Mind"](https://onlinelibrary.wiley.com/doi/10.1111/j.1756-8765.2012.01189.x); [Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00135/full)). The construct descends from Craig's mapping of interoception to the insula, and research now treats it as an elemental foundation of homeostasis, subjective experience, and motivated behaviour — the bodily substrate that emotions are read off ([Frontiers](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00135/full); the compendium's kernel is [[AF005 — Learn to read your own body — interoception]]).
+Interoceptive awareness is the perception of the body's internal states (heartbeat, breath, hunger, gut, temperature) and the meta-awareness of those signals as information rather than noise. The Frontiers review gives the definition:
 
-The contemplative traditions arrived at the same training from the other side: body contemplation and grounding ([[B040 — Know the body (body contemplation)]]; [[B189 — Ground in the body]]), the Daoist cultivation of vitality as felt current ([[Qi]]; [[D146 — Cultivate your qi — vitality]]), and testing experience layer by layer ([[Y090 — Test experience layer by layer]]). The clinical interest is emotional: interoception is the foundation of emotional awareness — people who cannot read the body's early signals meet their emotions only at full amplitude ([[BI009 — Understand that interoception is the foundation of emotional awareness]]; panic work uses exactly this early-detection route, [[AF049 — Learn to work with panic — panic is fear of fear]]).
+> "Interoception, a vital process that sends neural information from the body to the brain, regulates life processes at the most basic levels, while also modulating emotional experience and subjective awareness at the most complex levels." ([Duquette, Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00135/full))
 
-The distinction to hold: awareness is not amplification. The skill is noticing the signal at low volume — the heartbeat quickening before it becomes anxiety — which is accuracy, not hypervigilance.
+And the more compact gloss it quotes: interoception is "the process of how the brain senses and integrates signals originating from inside the body, providing a moment by moment mapping of the body's internal landscape" (Khalsa and Lapidus, quoted in [the same review](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00135/full)). The construct descends from Craig's mapping of interoception to the insula; the review's summary of that line: "emotional experience is intimately tied to information about internal bodily states" ([the same review](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00135/full)).
 
-An example at its smallest: twice daily, one unhurried breath spent counting the heartbeat without taking a pulse — then naming what preceded the change.
+### The clinical interest
+
+The clinical interest is emotional. The review quotes Garfinkel and colleagues:
+
+> "a person's sensitivity to internal bodily responses may be a better determinant of emotional style, predicting one's vulnerability to emotional disorders and the capacity to regulate one's own emotional state" (Garfinkel et al., 2015, quoted in [the Frontiers review](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00135/full))
+
+People who cannot read the body's early signals meet their emotions only at full amplitude; panic work uses exactly this early-detection route. Mindfulness and other contemplative practices are under evaluation as means to affect functional change in interoceptive experience in depression and anxiety ([the same review](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00135/full)).
+
+### The contemplative traditions
+
+The contemplative traditions arrived at the same training from the other side: body contemplation and grounding, the Daoist cultivation of vitality as felt current, and testing experience layer by layer.
+
+### The distinction to hold
+
+Awareness is not amplification. The skill is noticing the signal at low volume, the heartbeat quickening before it becomes anxiety, which is accuracy, not hypervigilance.
+
+### In everyday life
+
+Twice daily, one unhurried breath spent counting the heartbeat without taking a pulse, then naming what preceded the change. (Illustrative scenario, not a reported participant or study result.)
 
 The ancient training is [[Yangsheng (cultivating vitality)]]; the current it reads is [[Qi]].
+
+### In the compendium
+
+- [[AF005 — Learn to read your own body — interoception]] — the kernel
+- [[B040 — Know the body (body contemplation)]] and [[B189 — Ground in the body]] — the Buddhist body practices
+- [[D146 — Cultivate your qi — vitality]] — the Daoist form
+- [[Y090 — Test experience layer by layer]] — the Yogacara testing
+- [[BI009 — Understand that interoception is the foundation of emotional awareness]] — the emotional foundation
+- [[AF049 — Learn to work with panic — panic is fear of fear]] — the panic application
+
 ## Other formulations in this library
 
 - predicts emotion regulation (Mehling et al., 2009)
@@ -28,8 +56,8 @@ The ancient training is [[Yangsheng (cultivating vitality)]]; the current it rea
 
 ## Sources
 
-- Mehling et al., 2009
-- Seth, 2013
+- [Duquette, "Increasing Our Insular World View", Frontiers in Neuroscience](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00135/full) — the definition, the Khalsa and Lapidus gloss, the emotional-experience line, and the Garfinkel sensitivity passage, all quoted above
+- Mehling et al., 2009; Seth, 2013 — listed in the original sources; no passages quoted on this page
 
 ## Cited in parallels
 
