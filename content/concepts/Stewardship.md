@@ -15,11 +15,12 @@ Stewardship is the holding of something that is not one's own: resources, a plac
 
 ### What the holding is for
 
-The parable's praise goes to the servant who put what was entrusted to work, and its charge falls on the one who buried it. Stewardship, read this way, is neither ownership nor renunciation: it is answerable care. The compendium's principle R028 makes it a practice — guardianship of people and places one did not make and will not keep. The page's prior source line named Whitehead's Process and Reality; the biblical carrier is the opened source for this page.
+The parable's praise goes to the servant who put what was entrusted to work, and its charge falls on the one who buried it. Stewardship, read this way, is neither ownership nor renunciation: it is answerable care. The compendium's principle R028 makes it a practice — guardianship of people and places one did not make and will not keep. Whitehead's Process and Reality is the book this heading was first filed under; the parable in Matthew is where the idea is stated.
 
 ## Sources
 
 - Gospel of Matthew, chapter 25, verses 14-21 (parable of the talents), King James Version, BibleHub full chapter text: [biblehub.com/kjv/matthew/25.htm](https://biblehub.com/kjv/matthew/25.htm)
+- Whitehead, Process and Reality
 
 ## Cited in philosophy parallels
 
