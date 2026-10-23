@@ -7,21 +7,21 @@ file: "Metta (loving-kindness)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Metta (Pali; Sanskrit maitrī) is the Buddhist practice of goodwill, usually rendered "loving-kindness." It is the first of the four brahmaviharas, and the Karaṇīya Metta Sutta (Sutta Nipāta 1.8) gives the classic image:
+Metta (Pali) is the Buddhist practice of goodwill, usually rendered "loving-kindness." It is the first of the four brahmaviharas, and the Karaṇīya Metta Sutta (Sutta Nipāta 1.8) gives the classic image:
 
 > "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." ([Sutta Nipāta 1.8, trans. Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
-The sutta sets the wish inside a way of living: the practitioner is to be "capable, upright, & straightforward" and to do nothing "the wise would later censure" before radiating the wish that all beings be happy ([Sutta Nipāta 1.8](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)). Metta is therefore closer to goodwill than to a warm feeling, and Thanissaro Bhikkhu, who translates the sutta's title as "Good Will", insists on the difference:
+The sutta sets the wish inside a way of living: the practitioner is to be "capable, upright, & straightforward" and to do nothing "the wise would later censure" before radiating the wish that all beings be happy ([Sutta Nipāta 1.8](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)). Thanissaro Bhikkhu, who translates the sutta's title as "Good Will", distinguishes metta from a requirement to feel affectionate toward everyone:
 
 > "Metta is a wish for happiness — true happiness — and the Buddha says to develop this wish for ourselves and everyone else: 'With metta for the entire cosmos, cultivate a limitless heart.' (Snp 1.8)" ([Thanissaro Bhikkhu, "Metta Means Goodwill"](https://www.accesstoinsight.org/lib/authors/thanissaro/metta_means_goodwill))
 
 ### How metta is trained
 
-The tradition trains metta as a meditation (metta bhavana) in a deliberate sequence, from the easiest object to the hardest. Nyanaponika Thera describes the progression:
+The tradition trains metta as a meditation (metta bhavana), in a selection of people that Nyanaponika Thera says "proceeds from the easier to the more difficult" (["The Four Sublime States"](https://accesstoinsight.org/lib/authors/nyanaponika/wheel006)). He describes the progression:
 
 > "For instance, when meditating on loving-kindness, one starts with an aspiration for one's own well-being, using it as a point of reference for gradual extension... Then one extends the thought of loving-kindness to a person for whom one has a loving respect, as, for instance, a teacher; then to dearly beloved people, to indifferent ones, and finally to enemies, if any, or those disliked." ([Nyanaponika Thera, "The Four Sublime States"](https://accesstoinsight.org/lib/authors/nyanaponika/wheel006))
 
-When the wish reaches the difficult people, the instruction is to "break down the barriers" (sima-sambheda): without discrimination between the four types of person, loving-kindness is extended to them equally.
+When the wish reaches the difficult people, the instruction is to "break down the barriers" (sima-sambheda): without discrimination between the four types of person, loving-kindness is extended to them equally (["The Four Sublime States"](https://accesstoinsight.org/lib/authors/nyanaponika/wheel006)).
 
 ### What the evidence shows
 
@@ -29,7 +29,7 @@ A field experiment with 139 working adults, half randomly assigned to begin a pr
 
 > "Results showed that this meditation practice produced increases over time in daily experiences of positive emotions, which, in turn, produced increases in a wide range of personal resources (e.g., increased mindfulness, purpose in life, social support, decreased illness symptoms). In turn, these increments in personal resources predicted increased life satisfaction and reduced depressive symptoms." ([Fredrickson et al., 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18954193/))
 
-The abstract reports emotions and resources measured over time; the training sequence above follows Nyanaponika Thera's presentation of the traditional method, not this experiment.
+The abstract reports emotions and resources measured over time; the sequence described above follows [Nyanaponika Thera's account](https://accesstoinsight.org/lib/authors/nyanaponika/wheel006) of the traditional method.
 
 ### In the compendium
 
@@ -44,14 +44,14 @@ The abstract reports emotions and resources measured over time; the training seq
 
 ## Related concepts
 
-- [[Agape]] — Kierkegaard: unconditional love, the Christian counterpart in the universal-love family
+- [[Agape]] — the Christian love given without regard to worth or return, the member of the universal-love family closest to metta
 - [[Karuna]] — compassion, its companion brahmavihara
 - [[Four immeasurables]] — the brahmavihara set metta belongs to
 - [[Metta (loving-kindness)]] — this page: the Pali term metta with its English rendering
 - [[Mudita (sympathetic joy)]] — joy in others' good, the third brahmavihara
 - [[Equanimity]] — the fourth brahmavihara, the guiding and restraining power for the other three
 - [[Care]] — attention, feeling and action bent toward the well-being of a particular other; metta generalises the wish to all beings
-- [[Right intention]] — metta as the intention of goodwill, listed for comparison
+- [[Right intention]] — the path factor that resolves on freedom from ill will, the intention metta trains
 - [[Broaden-and-build]] — the theory whose build hypothesis the Fredrickson experiment tested on loving-kindness meditation
 - [[Ahimsa]] — non-harm, the ethical floor beneath the wish that all beings be happy
 - [[Self-compassion]] — the turn of metta's goodwill toward one's own suffering

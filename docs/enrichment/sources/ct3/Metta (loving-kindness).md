@@ -11,7 +11,7 @@ Full rebuild of a never-pipelined legacy page per the owner's ct2/ct3 directive.
 
 1. Karaṇīya Metta Sutta passage — the original page quoted "Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings", which does NOT match Thanissaro's translation. Replaced with the verbatim Thanissaro wording ("As a mother would risk her life to protect her child...") from the opened AccessToInsight carrier (Sn 1.08, snp.1.08.than.html). The conduct-prelude fragments ("capable, upright, & straightforward"; "the wise would later censure") also verbatim from the same opened page.
 2. "Metta is a wish for happiness — true happiness — and the Buddha says to develop this wish for ourselves and everyone else." — verbatim from the opened Thanissaro essay "Metta Means Goodwill" (AccessToInsight).
-3. Nyanaponika training-sequence passage — verbatim from the opened "The Four Sublime States" (BPS Wheel 6, AccessToInsight); ellipsis marked where the carrier's emphasis italics were dropped; "break[s] down the barriers" bracket repair disclosed by the brackets; the sima-sambheda sentence checked against the same page.
+3. Nyanaponika training-sequence passage — verbatim from the opened "The Four Sublime States" (BPS Wheel 6, AccessToInsight); ellipsis marks the omitted embedded aspiration sentence and the intervening instructions; "break[s] down the barriers" bracket repair disclosed by the brackets; the sima-sambheda sentence checked against the same page.
 4. Fredrickson et al. 2008 abstract sentence — verbatim from the opened PubMed record (PMID 18954193). The legacy stray line claimed the study showed metta "reduces anger and increases positive affect"; the abstract supports positive-emotion increases and reduced depressive symptoms, NOT anger reduction, so the claim was rewritten to the carrier's own wording with an honest scope note (the study does not test metta as an antidote to ill will; the sequence comes from the commentarial tradition).
 
 ## Notes
@@ -31,3 +31,13 @@ Full rebuild of a never-pipelined legacy page per the owner's ct2/ct3 directive.
 - Related glosses grounded: Care aligned to its page's own definition; Equanimity gloss replaced with Nyanaponika's "guiding and restraining power for the other three"; Ahimsa and Self-compassion added (both already link Metta).
 - Saturation: reciprocal proposals minted in docs/enrichment/proposals/ct3.json (Broaden-and-build, Compassion).
 - Validator vs pre-rebuild baseline (45cd1320^): ok.
+
+## QC round 2 (advisor-directed, applied and pushed)
+
+- "Sanskrit maitrī" removed from the opening (not carried by any opened carrier).
+- The goodwill sentence reattributed: the inference "closer to goodwill than a warm feeling" replaced by Thanissaro's own distinction, introduced by "distinguishes metta from a requirement to feel affectionate toward everyone".
+- Method paragraph: the "from the easier to the more difficult" fragment now an inline verbatim quote with citation; barriers sentence carries an inline citation.
+- Evidence scope note replaced by the honest form: "the sequence described above follows Nyanaponika Thera's account" (no claim about what the experiment did not contain).
+- Related glosses re-grounded against each target's own definition: Agape ("love given without regard to worth or return"), Right intention ("resolve on renunciation, freedom from ill will, and harmlessness"), Care, Equanimity, Ahimsa, Self-compassion, SP059 (its own page discusses Spinoza's generositas and links Metta as stance-before-feeling — verified).
+- Mention/context saturation run (metta/loving-kindness/maitri, 60 results): new reciprocal proposals for Amor sui (right self-love) and Growth through practice (unlinked metta-bhavana/metta mentions); inline proposals for AF065, B099, B164 (unlinked Metta Sutta mentions). Compassion proposal why-clause corrected to the companion-brahmaviharas form.
+- Ledger correction: the Nyanaponika ellipsis marks omitted words (the embedded aspiration and intervening instructions), not italic formatting; nested-quotation formatting in the Thanissaro blockquote is the page's own rendering, not carrier punctuation.
