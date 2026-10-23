@@ -15,5 +15,7 @@
    "from": "worker-pplx-t1c-6f0d3c9e",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-23T11:57:09+00:00"
 }
