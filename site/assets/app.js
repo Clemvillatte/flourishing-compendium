@@ -2291,10 +2291,11 @@ function buildPool() {
   document.querySelector('.draw-label').textContent = mixed ? 'Draw an entry' : 'Draw a principle';
   $r('drawBtn').setAttribute('aria-label', mixed ? 'Draw an entry' : 'Draw a principle');
   $r('drawBtn').disabled = pool.length === 0;
+  $r('drawBtnTop').disabled = pool.length === 0;
   $r('todayBtn').disabled = pool.length === 0;
   $r('todayBtn').textContent = mixed ? "Today’s entry" : "Today’s principle";
   $r('todayBtn').title = 'The same entry for this selection on the same UTC day';
-  $r('randSub').textContent = pool.length.toLocaleString() + ' eligible entries · ' +
+  $r('randSub').textContent = pool.length.toLocaleString() + ' entries · ' +
     selectedBooks.size + ' of ' + MODEL.categoryCount + ' categories';
 }
 function shuffle(arr) {
@@ -2723,6 +2724,7 @@ function init() {
     filtersChanged();
   });
   $r('drawBtn').addEventListener('click', draw);
+  $r('drawBtnTop').addEventListener('click', draw);
   $r('prevBtn').addEventListener('click', () => navHistory(-1));
   $r('nextBtn').addEventListener('click', () => navHistory(1));
   $r('todayBtn').addEventListener('click', todaysPrinciple);

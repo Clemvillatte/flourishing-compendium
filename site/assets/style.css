@@ -264,8 +264,11 @@ body.rand-mode #treeToggle, body.rand-mode #listToggle { display:none; }
 
 /* the card */
 .rcard {
-  background:var(--panel); border:1px solid var(--line); border-radius:18px;
-  box-shadow:var(--shadow); overflow:hidden;
+  background:var(--panel);
+  border:1px solid color-mix(in oklab, var(--gold) 45%, var(--line));
+  border-radius:18px;
+  box-shadow:0 0 0 1px color-mix(in oklab, var(--gold) 14%, transparent), var(--shadow);
+  overflow:hidden;
 }
 .rcard-inner { padding:32px 36px 26px; animation:rcard-in .4s cubic-bezier(.2,.8,.3,1); }
 @keyframes rcard-in { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:none; } }
@@ -373,6 +376,7 @@ body.rand-mode #treeToggle, body.rand-mode #listToggle { display:none; }
 
 /* draw actions */
 .rand-actions { display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin:6px 0 10px; }
+.draw-top { display:none; width:38px; height:38px; border-radius:50%; padding:0; align-items:center; justify-content:center; }
 .nav-btn {
   width:40px; height:40px; font-size:15px; color:var(--muted);
   background:var(--panel); border:1px solid var(--line2); border-radius:11px;
@@ -1626,10 +1630,11 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
   }
   .rand-head { display:flex; flex-direction:row; align-items:center; flex-wrap:wrap; gap:10px; }
   /* minimal drawing controls: one round icon button + save on the card */
-  .rand-actions { justify-content:center; gap:12px; }
-  .rand-actions .nav-btn, .rand-actions .today-btn { display:none; }
+  .rand-actions { display:none; }
+  .draw-top { display:inline-flex; }
+  .rand-head p { display:none; }
   .draw-btn {
-    width:58px; height:58px; border-radius:50%; padding:0;
+    width:40px; height:40px; border-radius:50%; padding:0;
     display:inline-flex; align-items:center; justify-content:center;
   }
   .draw-btn .draw-label { display:none; }

@@ -4,8 +4,8 @@
   else root.FCRandomizer = model;
 })(typeof globalThis === 'object' ? globalThis : this, function () {
   'use strict';
-  const EXTRA_TYPES = ['concept', 'theory', 'story', 'saying'];
-  const LABELS = { concept: 'Concepts', theory: 'Theories', story: 'Stories', saying: 'Sayings' };
+  const EXTRA_TYPES = ['concept', 'theory', 'story', 'saying', 'thinker'];
+  const LABELS = { concept: 'Concepts', theory: 'Theories', story: 'Stories', saying: 'Sayings', thinker: 'Thinkers' };
   function kindOf(entry) {
     if (entry.type === 'concept' &&
         ((entry.tags || []).includes('theory') ||
