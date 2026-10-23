@@ -131,19 +131,24 @@ exhaustive-map spec. Evidence basis:
 
 - All quoted passages are carried over unchanged from v1 revision 3, where
   each was verified word-for-word against raw carrier text (record above).
-- The Grossmann and Kross 2014 sentence in the intro ("Across three
-  experiments with 693 participants...") was re-verified against the raw
-  PDF (pdftotext, abstract): "In three experiments (N = 693), participants
-  displayed wiser reasoning... about another person's problems compared
-  with their own" and "instructing individuals to self-distance (rather
-  than self-immersse) eliminated this asymmetry" [sic: carrier prints
-  "self-immersse"; dossier paraphrases, does not quote this fragment].
+- The Grossmann and Kross 2014 sentence in the intro was re-verified
+  against the raw PDF (pdftotext, abstract): "In three experiments
+  (N = 693), participants displayed wiser reasoning... about another
+  person's problems compared with their own" and "Across Studies 2 and
+  3, instructing individuals to self-distance (rather than
+  self-immerse) eliminated this asymmetry." The dossier's phrasing
+  ("and in Studies 2 and 3, instructing people to self-distance
+  eliminated the asymmetry") matches the study's own scoping of the
+  result to Studies 2 and 3; revision 2 of this record had wrongly
+  claimed a carrier typo and scoped the finding to all three studies.
+  Both errors corrected in this revision.
 - New v2 material is wiki-internal: every concept gloss was extracted from
   the entry's own body text (content/concepts/*.md, opened for this pass)
   or hand-compressed from the same opened pages; every kernel line was
   checked against its kernel page. No new external claims introduced.
-- All 162 card links verified against actual content/ file names by
-  script (docs/enrichment/dossiers build pass).
+- All 169 card links verified against actual content/ file names by
+  script (the build now extracts glosses itself and splices the Academy
+  view data in one deterministic pass: scripts/dossier_build.py).
 - The Academy view data was regenerated from the markdown by
   scripts/dossier_build.py (deterministic converter); node --check clean;
   DOM-stub render test: layout, side TOC (17 items), 3 vs blocks,

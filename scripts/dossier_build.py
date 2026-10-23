@@ -9,6 +9,7 @@ Output: docs/enrichment/dossiers/the-self.md (v2, replaces v1) and
 /tmp/the-self-blocks.json (data blocks for the Academy view).
 """
 import json, re, os
+import urllib.parse
 from urllib.parse import quote
 
 BASE = 'https://clemvillatte.github.io/flourishing-compendium/#card='
@@ -46,15 +47,25 @@ def gloss(path, first_only=True):
 
 SWEEP = json.load(open('docs/enrichment/sources/dossiers/the-self-sweep-v2.json'))
 BY_TITLE = {}
+BY_TITLE_KERNEL = {}
 for e in SWEEP:
     p = None
     for root in ('content/concepts', 'content/kernels', 'content/sayings', 'content/structure'):
         q = os.path.join(root, e['file'])
         if os.path.exists(q): p = q; break
-    BY_TITLE[e['title']] = (p, e)
-
-G = json.load(open('/tmp/glosses.json'))
-GLOSS = {t: s for k, t, s in G}
+    if e['kind'] == 'kernels':
+        BY_TITLE_KERNEL[e['title']] = (p, e)
+    elif e['title'] not in BY_TITLE:  # concepts win over other kinds on collision
+        BY_TITLE[e['title']] = (p, e)
+GLOSS = {}
+for e in SWEEP:
+    p = None
+    for root in ('content/concepts', 'content/kernels'):
+        q = os.path.join(root, e['file'])
+        if os.path.exists(q): p = q; break
+    if p:
+        g = gloss(p)
+        if g: GLOSS[e['title']] = g
 OVERRIDES = {
  'Cognitive-Experiential Self-Theory': 'Seymour Epstein\u2019s theory that the mind runs two systems side by side: a rational one that thinks slowly and logically, and an experiential one that is fast, automatic and emotionally driven.',
  'Multiple self-aspects model (MSA)': 'Allen McConnell\u2019s framework: the self-concept is a collection of context-dependent self-aspects \u2014 roles, relationships, goals, group identities \u2014 held in an associative memory network.',
@@ -173,7 +184,7 @@ md.append('> What am I, if not the story I keep telling about myself?')
 md.append('')
 md.append('This dossier is a map, not an essay. The aim is that a reader can say \u201cI want to think about the self\u201d, open this page, and see the whole spread of what the compendium holds on it: every entry that bears on the self, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to loosen the grip of the self-as-object, the self known, judged and defended.')
 md.append('')
-md.append('Two essay angles the material supports. First, the two great examinations of experience, SN 22.59\u2019s aggregate analysis and Advaita Ved\u0101nta\u2019s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person\u2019s problems than about their own, and instruction to self-distance eliminated the asymmetry ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf)).')
+md.append('Two essay angles the material supports. First, the two great examinations of experience, SN 22.59\u2019s aggregate analysis and Advaita Ved\u0101nta\u2019s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person\u2019s problems than about their own, and in Studies 2 and 3, instructing people to self-distance eliminated the asymmetry ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf)).')
 md.append('')
 md.append('How to read this page. Each line gives the entry\u2019s own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.')
 md.append('')
@@ -240,10 +251,9 @@ md.append('### The wiki\u2019s own shelves on the self')
 md.append('')
 md.append('The compendium also organizes self material into structured pathways; the hub is ' + card('SE \u2014 Self', 'SE — Self.md') + ', with layers on the architecture of self, knowing and evaluating the self, self-compassion, identity construction and revision, self in relation, self-expansion, and specific self-challenges:')
 md.append('')
-for t in ['SE — Self', 'SE-S01 — LAYER I — FIRST PRINCIPLES — THE ARCHITECTURE OF SELF', 'SE-S02 — LAYER II — KNOWING AND EVALUATING THE SELF', 'SE-S03 — LAYER III — SELF-COMPASSION AND SELF-RELATIONSHIP', 'SE-S04 — LAYER IV — IDENTITY — CONSTRUCTION AND REVISION', 'SE-S05 — LAYER V — SELF IN RELATION — OTHERS AND CULTURE', 'SE-S06 — LAYER VI — SELF-EXPANSION AND GROWTH', 'SE-S07 — LAYER VII — SPECIFIC SELF-CHALLENGES & BOUNDARY CONDITIONS']:
-    p, e = BY_TITLE.get(t, (None, None))
-    if e: emit(t)
-md.append('')
+for t in ['SE-S01 — LAYER I — FIRST PRINCIPLES — THE ARCHITECTURE OF SELF', 'SE-S02 — LAYER II — KNOWING AND EVALUATING THE SELF', 'SE-S03 — LAYER III — SELF-COMPASSION AND SELF-RELATIONSHIP', 'SE-S04 — LAYER IV — IDENTITY — CONSTRUCTION AND REVISION', 'SE-S05 — LAYER V — SELF IN RELATION — OTHERS AND CULTURE', 'SE-S06 — LAYER VI — SELF-EXPANSION AND GROWTH', 'SE-S07 — LAYER VII — SPECIFIC SELF-CHALLENGES & BOUNDARY CONDITIONS']:
+    md.append('- ' + card(t, t + '.md'))
+    md.append('')
 md.append('One title match was left out of the map as off-theme: ' + card('The self-evident', 'The self-evident.md') + ' is Aristotle\u2019s account of what demonstration rests on, not an entry about the self.')
 md.append('')
 md.append('## Where the traditions genuinely disagree')
@@ -267,7 +277,7 @@ md.append('')
 md.append('::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:')
 md.append('')
 for i, (t, line) in enumerate(KERNELS, 1):
-    p, e = BY_TITLE[t]
+    p, e = BY_TITLE_KERNEL[t]
     md.append(f'{i}. {card(t, e["file"])} \u2014 {line}.')
     md.append('')
     if t == 'Self-distanced reflection':
@@ -276,7 +286,7 @@ for i, (t, line) in enumerate(KERNELS, 1):
     if t == 'Self-as-context':
         md.append('The component evidence is thin, and the review that canvassed it says so in its own words: \u201cthere is only provisional but very limited evidence to suggest that SAC can be effectively taught and implemented as a stand-alone process to manage emotional well-being\u201d (Godbee and Kangas 2020, quoted passage checked).')
         md.append('')
-md.append('::Retention:: Retention is what people keep because it works for them. A kernel that changes one reader\u2019s week will be dropped by another; the map above is wide on purpose, so what stays is a matter of fit between the practice and the life it enters. What people usually report keeping is small and concrete: a name for the observer, a kinder sentence to say to themselves, a story they found out they could re-tell.')
+md.append('::Retention:: Retention is what people keep because it works for them. Keep a practice that helped, and give it a place in ordinary life; a name for the observer, a kinder sentence to say to yourself, a story you found out you could re-tell.')
 md.append('')
 
 open('docs/enrichment/dossiers/the-self.md', 'w', encoding='utf-8').write('\n'.join(md))
@@ -288,22 +298,33 @@ intro = []
 seen_h = False
 q = None
 for ln in md:
+    if ln.startswith('# '):
+        continue  # title renders in the band; never a body paragraph
     if ln.startswith('## '):
         seen_h = True
         blocks.append({'t': 'h', 'x': ln[3:].strip()})
     elif ln.startswith('### '):
+        seen_h = True
         blocks.append({'t': 'h2', 'x': ln[4:].strip()})
     elif ln.startswith('::Variation::'):
+        seen_h = True
         blocks.append({'t': 'vs', 'l': 'Variation', 'x': ln.replace('::Variation::', '').strip()})
     elif ln.startswith('::Selection::'):
+        seen_h = True
         blocks.append({'t': 'vs', 'l': 'Selection', 'x': ln.replace('::Selection::', '').strip()})
     elif ln.startswith('::Retention::'):
+        seen_h = True
         blocks.append({'t': 'vs', 'l': 'Retention', 'x': ln.replace('::Retention::', '').strip()})
     elif re.match(r'^\d+\. ', ln):
         blocks.append({'t': 'n', 'i': int(ln.split('.')[0]), 'x': re.sub(r'^\d+\. ', '', ln).strip()})
     elif ln.startswith('> ') and 'What am I' not in ln:
-        # quote with inline cite; keep cite part after last ' — ' marker
-        blocks.append({'t': 'q', 'x': ln[2:].strip(), 's': 'Primary text; quoted passages checked'})
+        body = ln[2:].strip()
+        status = 'Primary text; quoted passages checked'
+        m2 = re.search(r' \u2014 (Primary text|Scholarly interpretation|Scholarly review|Study abstract)[^.]*\.$', body)
+        if m2:
+            status = m2.group(0).strip(' \u2014')
+            body = body[:m2.start()].rstrip()
+        blocks.append({'t': 'q', 'x': body, 's': status})
     elif ln.startswith('> '):
         q = ln[2:].strip()
     elif ln.strip():
@@ -313,15 +334,29 @@ for ln in md:
         else:
             blocks.append({'t': 'p', 'x': p})
 
-def to_card_links(text):
-    return re.sub(r'\[([^\]]+)\]\(' + re.escape(BASE) + r'([^)]+)\)',
-                 lambda m: f'[{m.group(1)}](card:{m.group(2)})', text)
+def to_rich(text):
+    text = re.sub(r'\[([^\]]+)\]\(' + re.escape(BASE) + r'([^)]+)\)',
+                 lambda m: f'[{m.group(1)}](card:{urllib.parse.unquote(m.group(2))})', text)
+    text = re.sub(r'\[([^\]]+)\]\((https?://[^)]+)\)',
+                 lambda m: f'[{m.group(1)}](url:{m.group(2)})', text)
+    return text
 
 for b in blocks:
-    if 'x' in b: b['x'] = to_card_links(b['x'])
-    if 'l' in b: pass
-intro = [to_card_links(p) for p in intro]
+    if 'x' in b: b['x'] = to_rich(b['x'])
+intro = [to_rich(p) for p in intro]
 
 data = {'the-self': {'question': q, 'intro': intro, 'blocks': blocks}}
 json.dump(data, open('/tmp/the-self-blocks.json', 'w'), ensure_ascii=False, indent=1)
 print('blocks:', len(blocks), 'intro:', len(intro))
+
+# --- splice the Academy view data into site/assets/app.js ---
+appjs_path = 'site/assets/app.js'
+appsrc = open(appjs_path, encoding='utf-8').read()
+new = {'schemaVersion': 2, 'updated': '2026-10-23',
+  'dossiers': [{'id': 'the-self', 'title': 'The Self', 'question': q,
+                'intro': intro, 'blocks': blocks}]}
+js = 'window.fcDossiersData = ' + json.dumps(new, ensure_ascii=False, indent=2) + ';\n'
+m3 = re.search(r'window\.fcDossiersData = \{.*?\n\};\n', appsrc, re.S)
+assert m3, 'fcDossiersData block not found'
+open(appjs_path, 'w', encoding='utf-8').write(appsrc[:m3.start()] + js + appsrc[m3.end():])
+print('app.js data spliced')

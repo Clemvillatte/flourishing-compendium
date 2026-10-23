@@ -42,13 +42,19 @@ abstract; quoted passage checked", "Further reading; not assessed".
 ## Dossiers
 
 1. [The Self](the-self.md) — the v2 exemplar, rebuilt 2026-10-23 to the
-   exhaustive standard: 140 concept entries + 16 practice kernels mapped
-   across ten subthemes plus the classical sayings and the wiki's own Self
-   shelves, two divergences, Variation-Selection-Retention practice section.
-   The v1 narrow version is superseded (history in the git log); its verified
-   quotes and further-reading material were carried into v2. Evidence record:
+   exhaustive standard: every entry the title sweep holds on the self
+   (140 concept cards + 16 practice kernels + 2 classical sayings), mapped
+   across ten subthemes, plus the wiki's own Self shelves (SE hub + its
+   seven layers), two divergences, and the Variation-Selection-Retention
+   practice section. The 145 principle pages bearing "self" in the title
+   are deliberately not listed inline: every concept card carries onward to
+   the principles that cite it, so the map stays a map. One off-theme
+   title match (The self-evident, on Aristotle's demonstration) is
+   excluded and noted in the dossier. The v1 narrow version is superseded
+   (history in the git log); its verified quotes were carried into v2.
+   Evidence record:
    [sources/dossiers/the-self.md](../sources/dossiers/the-self.md),
-   revision 4.1 (v2 addendum).
+   v2 rebuild record + revision 4.1 addendum.
 
 2. [Anger](anger.md) — the second dossier in the v2 format, built to the
    same standard (owner named Anger as the format illustration). Evidence
