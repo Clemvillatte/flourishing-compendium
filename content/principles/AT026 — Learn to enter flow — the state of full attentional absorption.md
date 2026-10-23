@@ -49,3 +49,4 @@ Imagine working at something until the noise around you only registers when it s
 ## Related thinkers
 
 - [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+- [[T009 — Zhuangzi]]: the Cook Ding story behind the page's wu wei parallel: effortless action inside full absorption.

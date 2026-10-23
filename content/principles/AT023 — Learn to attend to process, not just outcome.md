@@ -60,3 +60,4 @@ As a compendium exercise, choose one activity and, mid-action, name what your at
 ## Related thinkers
 
 - [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+- [[T009 — Zhuangzi]]: the Cook Ding passage the page quotes, attention to what is in front of the blade as the whole of skill.

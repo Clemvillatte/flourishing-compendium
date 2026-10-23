@@ -29,6 +29,10 @@ The review names a common assumption — that particular regulatory strategies a
 The authors question assigning a strategy the same value across situations and propose a framework for examining its use ([Bonanno & Burton, 2013](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf)). For reflection, describe a recent strategy choice and the circumstances it faced. Then record what happened before deciding whether to repeat or change it.
 
 For example: the same grief might call for stepping out at one moment and staying seated at the next; the exercise is naming which one the moment asks for. (An invented illustration.)
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the wu wei parallel the page draws: responsiveness as regulation, not force.
+
 ## Psychology parallels
 
 - **Regulatory flexibility predicts better outcomes**, the ability to match strategy to context is associated with better mental health than any single strategy (Bonanno & Burton, 2013; Blanke et al., 2020)
