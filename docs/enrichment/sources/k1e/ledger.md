@@ -420,3 +420,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The Blackledge book (commercial New Harbinger) remains unopened; the attribution year on the seed was corrected 2017 → 2015 (the book's publication year is 2015 per the New Harbinger page and Google Books record); the Russ Harris exercise form and the commonlanguagepsychotherapy definition are the opened carriers of the technique's published form.
 - Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (the seed's inline `[[a]], [[b]], [[c]]` form counted as prose and tripped the dash rule; the K100 exemplar uses bullets); the seed's Blackledge-attribution wikilink `[[Cognitive defusion|Cognitive Defusion]]` preserved in the Protocol line; Related concepts retargeted to existing pages only (Cognitive defusion, Acceptance and Commitment Therapy, Metacognition — existence checked; "Cognitive fusion" standalone does not exist).
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K402 — Listen to the storyteller for thirty seconds (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~180-word seed rebuilt to the K100 model (~500 prose words, 4 standalone blockquotes, all sections).
+- Carriers opened: pensierocritico.eu PDF of the ACT Made Simple preface (Harris 2009) — the full Master Storyteller Metaphor dialogue and the Talking-and-Listening close read verbatim; mimhtraining.com PDF of The Big Book of ACT Metaphors (Stoddard & Afari 2014) — the Master Storyteller retelling with the "(Harris, 2009, p. 119)" attribution and the pp. 177-178 Talking-and-Listening citation read verbatim; the p. 119 locator in the seed is CONFIRMED against the opened Big Book text.
+- Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (same as the K401 fix; the seed's inline form tripped the dash rule); Related concepts retargeted to existing pages only (Cognitive defusion, Self-as-context, Metacognition — existence checked).
+- The seed's attribution (Harris 2009 p. 119 retold in Stoddard & Afari 2014 pp. 80-81) is confirmed accurate against both opened carriers; the "Talking and Listening" pp. 177-178 citation is the Big Book's own note on the source essay.
+- Customer-facing grep clean; validator ok, 0 failed.
