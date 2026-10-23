@@ -62,7 +62,8 @@
   "TRACE model of speech perception",
   "The aesthetic",
   "The art of apology",
-  "The art of letting go"
+  "The art of letting go",
+  "The bondage of desire"
  ],
  "in_progress": null,
  "flagged": {
@@ -103,6 +104,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:37:33+00:00",
+ "updated": "2026-10-23T05:37:41+00:00",
  "band_done": false
 }
