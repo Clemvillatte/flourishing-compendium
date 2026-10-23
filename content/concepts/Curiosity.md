@@ -21,6 +21,10 @@ Golman and Loewenstein describe the information-gap account: "In a review of the
 - [[BE066 — Engage in learning behaviour — growth through curiosity]]
 - [[CO070 — Cultivate epistemic curiosity — the drive to know for its own sake]]
 
+### Wanting to know and not wanting to know
+
+The same paper's abstract adds a counterweight: curiosity is "a desire for knowledge for its own sake, even in the absence of material benefits", but people are also motivated to avoid information about issues they do not like thinking about, an "ostrich effect" ([Golman and Loewenstein](https://www.cmu.edu/dietrich/sds/docs/golman/golman_loewenstein_curiosity.pdf)). The framework that explains wanting to know also explains refusing to know, and the two can operate on the same person at the same time.
+
 ## Related concepts
 
 
@@ -37,7 +41,8 @@ Golman and Loewenstein describe the information-gap account: "In a review of the
 - [[Sensation seeking]] — a neighboring disposition in the compendium's map of novelty-seeking traits
 ## Sources
 
-- Wikipedia Curiosity: https://en.wikipedia.org/wiki/Curiosity
+- [Golman and Loewenstein, "Curiosity, Information Gaps, and the Utility of Knowledge" (author-hosted paper, August 4, 2014)](https://www.cmu.edu/dietrich/sds/docs/golman/golman_loewenstein_curiosity.pdf)
+- [Aristotle, Metaphysics, W. D. Ross translation (ELLOPOS full text)](https://www.ellopos.net/elpenor/greek-texts/ancient-greece/aristotle/metaphysics.asp?pg=5)
 - [Aristotle, Metaphysics, W. D. Ross translation, ELLOPOS full text, page 5](https://www.ellopos.net/elpenor/greek-texts/ancient-greece/aristotle/metaphysics.asp?pg=5) — the wonder passage quoted above, located by the page and its opening words
 - [Russell Golman and George Loewenstein, Curiosity, Information Gaps, and the Utility of Knowledge (author-hosted paper, Carnegie Mellon University, dated August 4, 2014)](https://www.cmu.edu/dietrich/sds/docs/golman/golman_loewenstein_curiosity.pdf) — the information-gap statement quoted above, section 4.2 "Curiosity"
 
