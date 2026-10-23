@@ -20,3 +20,10 @@
 - The Seligman paper's own site typo "www.authenichappiness.org" reproduced verbatim inside the blockquote (it is the carrier's printing). The blockquote's "signature" quotation marks restored to the carrier's double quotes after a single-quote normalization was caught in self-check.
 - Guided-version exemption: self-administered online survey plus daily-life practice; no recording is required for this self-directed exercise (K203 nap precedent).
 - Front-matter preserved (a write error briefly dropped it; caught by the validator KeyError, file restored from HEAD before reassembly). All 24 original Operationalises wikilinks preserved; dense link paragraph reformatted to K100-model bullets, zero link changes. Validator ok, 0 failed. Customer-facing grep clean.
+
+## K253 — The mean calibration (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carrier: Gutenberg 8438 (Chase NE) raw text, already downloaded for K250 — II.6 two-kinds-of-mean passage (verbatim, incl. the Milo example; footnote marker [13] and OCR spacing "so found ;" normalized per house practice), II.9 rareness-of-goodness passage, II.9 bent-timber correction, II.9 first-care rule and the pleasure warning, all verbatim.
+- Evidence section follows the K208 scripture-not-trials pattern: states plainly that no study tests a mean-calibration practice and none is cited. The 1-to-10 rating and weekly review labelled editorial; the two calibration rules (keep away from the more contrary extreme; force off in the contrary direction) are Aristotle's II.9 and quoted.
+- Guided-version exemption: notebook practice, no recording required (self-directed; K203 nap precedent).
+- All 23 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). One workflow word ("seed") caught by the customer-facing grep and removed before push. Validator ok, 0 failed.
