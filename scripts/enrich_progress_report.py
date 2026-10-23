@@ -29,11 +29,12 @@ def load_done():
             continue
         if str(d.get('type', '')).startswith('kernel'):
             continue
-        # 2026-10-23 fix (supervisor-pplx-8c47a5): thinker bands (t1a-t1f) record
+        # 2026-10-23 fix (supervisor-pplx-8c47a5): thinker bands (t1a-t1f) and backlink
+        # bands (t2a-t2c) record
         # done entries as thinker names (often short forms: 'Bergson'), not
         # concept titles — skip them like kernel bands; the dashboard counts
         # principles and concepts only.
-        if re.match(r'^t1[a-z]?$', os.path.basename(f)[:-5]):
+        if re.match(r'^t[12][a-z]?$', os.path.basename(f)[:-5]):
             continue
         for x in d.get('done') or []:
             if isinstance(x, str):

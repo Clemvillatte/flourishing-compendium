@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-23 12:22 UTC (input revision `5b44a9859`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 13:22 UTC.
+As of 2026-10-23 12:57 UTC (input revision `e76db229e`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 13:57 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -32,11 +32,11 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 | Program | Pages | Done entries (bands) | Distinct done K-IDs | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queued IDs not in done |
 |---|---|---|---|---|---|---|---|
-| Kernels | 316 | 343 (cmp, k1a, k1b, k1c, k1d, k1e, kpr) | 270 | 270 | 85.4% | 216 | 9 |
+| Kernels | 316 | 359 (cmp, k1a, k1b, k1c, k1d, k1e, kpr) | 286 | 286 | 90.5% | 216 | 9 |
 | Thinkers | 56 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 56 | — |
 
 - Thinker reconciliation: 56 thinker page(s) exist (T001, T002, T003, T004, T005…); the thinker queue holds 56 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 12 recorded done. No completion percentage is computed: the program has no defined completion denominator.
-- Kernel reconciliation: 73 kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is ['K109', 'K112', 'K118', 'K119', 'K123', 'K124', 'K128', 'K129', 'K130', 'K133', 'K134', 'K137', 'K138', 'K143', 'K145', 'K147', 'K155', 'K157', 'K159', 'K160', 'K166', 'K169', 'K170', 'K171', 'K173', 'K175', 'K176', 'K181', 'K183', 'K185', 'K186', 'K187', 'K188', 'K189', 'K190', 'K191', 'K197', 'K198', 'K202', 'K203', 'K206', 'K207', 'K208', 'K209', 'K210', 'K212', 'K214', 'K217', 'K218', 'K219', 'K220', 'K224', 'K225', 'K226', 'K232', 'K233', 'K235', 'K238', 'K240', 'K241', 'K243', 'K244', 'K247', 'K248', 'K249', 'K303', 'K324', 'K327', 'K329', 'K348', 'K350', 'K414', 'K415'] — recorded both by K-ID and by title); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 46 kernel pages are not recorded done; 9 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
+- Kernel reconciliation: 73 kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is ['K109', 'K112', 'K118', 'K119', 'K123', 'K124', 'K128', 'K129', 'K130', 'K133', 'K134', 'K137', 'K138', 'K143', 'K145', 'K147', 'K155', 'K157', 'K159', 'K160', 'K166', 'K169', 'K170', 'K171', 'K173', 'K175', 'K176', 'K181', 'K183', 'K185', 'K186', 'K187', 'K188', 'K189', 'K190', 'K191', 'K197', 'K198', 'K202', 'K203', 'K206', 'K207', 'K208', 'K209', 'K210', 'K212', 'K214', 'K217', 'K218', 'K219', 'K220', 'K224', 'K225', 'K226', 'K232', 'K233', 'K235', 'K238', 'K240', 'K241', 'K243', 'K244', 'K247', 'K248', 'K249', 'K303', 'K324', 'K327', 'K329', 'K348', 'K350', 'K414', 'K415'] — recorded both by K-ID and by title); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 30 kernel pages are not recorded done; 9 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
 - Stories carry no completion denominator in their registry; the Stories section above reports counts only.
 
 ## Principles by forest
