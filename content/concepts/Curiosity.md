@@ -23,7 +23,7 @@ Golman and Loewenstein describe the information-gap account: "In a review of the
 
 ### Wanting to know and not wanting to know
 
-The same paper's abstract adds a counterweight: curiosity is "a desire for knowledge for its own sake, even in the absence of material benefits", but people are also motivated to avoid information about issues they do not like thinking about, an "ostrich effect" ([Golman and Loewenstein](https://www.cmu.edu/dietrich/sds/docs/golman/golman_loewenstein_curiosity.pdf)). The framework that explains wanting to know also explains refusing to know, and the two can operate on the same person at the same time.
+The same paper's abstract adds a counterweight: curiosity is "a desire for knowledge for its own sake, even in the absence of material benefits", but people are also motivated to avoid information about issues they do not like thinking about, an "ostrich effect" ([Golman and Loewenstein](https://www.cmu.edu/dietrich/sds/docs/golman/golman_loewenstein_curiosity.pdf)). The framework that explains wanting to know also explains refusing to know.
 
 ## Related concepts
 

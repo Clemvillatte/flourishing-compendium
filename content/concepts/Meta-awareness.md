@@ -31,7 +31,7 @@ The review proposes that noticing is functional rather than incidental:
 
 > "From this perspective, meta-awareness directly aids in the identification of mind-wandering lapses, and the subsequent re-engagement of the primary task." (Schooler et al., 2011, p. 323, [full text](https://metalab.psych.ucsb.edu/sites/default/files/publications/2011/2011-Meta-awareness-perceptual-decoupling-and-the-wandering-mind.pdf))
 
-The intermittent assessment can detect lapses that lower-level implicit monitoring misses; noticing is the step that makes return possible.
+The intermittent assessment can detect lapses that lower-level implicit monitoring misses, and the review proposes that noticing aids the re-engagement of the primary task.
 
 ## Facets
 

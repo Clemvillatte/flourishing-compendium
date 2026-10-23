@@ -17,7 +17,7 @@ The stillness is not mere silence: it is that condition in which the soul's powe
 
 ### The link to worship
 
-The book's larger claim runs beyond individual rest: culture, Pieper holds, depends for its very existence on leisure, and leisure in its turn is not possible unless it has a durable and consequently living link with the cultus, with divine worship ([Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)). The distinction this page records between leisure and idleness sits inside that larger claim.
+The book's larger claim connects leisure with worship and makes it foundational to culture: on Pieper's account, leisure is not possible unless it keeps a durable, living link with the cultus, with divine worship ([Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf)). The distinction this page records between leisure and idleness sits inside that larger claim.
 
 ## Related concepts
 
