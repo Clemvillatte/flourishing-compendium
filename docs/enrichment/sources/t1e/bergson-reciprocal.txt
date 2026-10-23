@@ -1,0 +1,361 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A020 \u2014 Practice wit (eutrapelia).md",
+      "id": "A020",
+      "title": "Practice wit (eutrapelia)",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A033 \u2014 Cultivate intelligence (nous).md",
+      "id": "A033",
+      "title": "Cultivate intelligence (nous)",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B002 \u2014 Assume change (anicca).md",
+      "id": "B002",
+      "title": "Assume change (anicca)",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BE059 \u2014 Engage in creative behaviour \u2014 making is well-being.md",
+      "id": "BE059",
+      "title": "Engage in creative behaviour: making is well-being",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI009 \u2014 Understand that interoception is the foundation of emotional awareness.md",
+      "id": "BI009",
+      "title": "Understand that interoception is the foundation of emotional awareness",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO002 \u2014 Recognise the two systems (or modes) of thinking \u2014 fast intuition and slow analysis.md",
+      "id": "CO002",
+      "title": "Recognise the two systems (or modes) of thinking: fast intuition and slow analysis",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO074 \u2014 Cultivate creative thinking \u2014 divergent and convergent modes.md",
+      "id": "CO074",
+      "title": "Cultivate creative thinking: divergent and convergent modes",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D001 \u2014 Align your life with the Dao.md",
+      "id": "D001",
+      "title": "Align your life with the Dao",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D012 \u2014 Model yourself on water.md",
+      "id": "D012",
+      "title": "Model yourself on water",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D018 \u2014 Give things time.md",
+      "id": "D018",
+      "title": "Give things time",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D058 \u2014 Don't rush.md",
+      "id": "D058",
+      "title": "Don't rush",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P006 \u2014 Creativity is the ultimate principle.md",
+      "id": "P006",
+      "title": "Creativity is the ultimate principle",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P043 \u2014 Vary, select, retain \u2014 learn the evolutionary way.md",
+      "id": "P043",
+      "title": "Vary, select, retain: learn the evolutionary way",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P054 \u2014 Balance exploration and exploitation.md",
+      "id": "P054",
+      "title": "Balance exploration and exploitation",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P071 \u2014 Trust the plasticity of human nature.md",
+      "id": "P071",
+      "title": "Trust the plasticity of human nature",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P086 \u2014 Channel the creative impulse.md",
+      "id": "P086",
+      "title": "Channel the creative impulse",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P091 \u2014 Distinguish lived time from clock time.md",
+      "id": "P091",
+      "title": "Distinguish lived time from clock time",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P092 \u2014 Live in a thick present.md",
+      "id": "P092",
+      "title": "Live in a thick present",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P093 \u2014 You are time \u2014 own your becoming.md",
+      "id": "P093",
+      "title": "You are time: own your becoming",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P094 \u2014 Use intuition to enter the flow of things.md",
+      "id": "P094",
+      "title": "Use intuition to enter the flow of things",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P098 \u2014 Know memory as living reconstruction.md",
+      "id": "P098",
+      "title": "Know memory as living reconstruction",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P102 \u2014 Trust the creative thrust of life.md",
+      "id": "P102",
+      "title": "Trust the creative thrust of life",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P105 \u2014 Feel time in the body \u2014 rhythm, tempo, flow.md",
+      "id": "P105",
+      "title": "Feel time in the body: rhythm, tempo, flow",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P143 \u2014 Think with the whole body \u2014 the body is not a machine.md",
+      "id": "P143",
+      "title": "Think with the whole body: the body is not a machine",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P161 \u2014 Return to the present \u2014 contact what is here.md",
+      "id": "P161",
+      "title": "Return to the present: contact what is here",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P169 \u2014 Trust the actualizing tendency.md",
+      "id": "P169",
+      "title": "Trust the actualizing tendency",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P191 \u2014 Joy is the felt signature of creation; distinct from pleasure.md",
+      "id": "P191",
+      "title": "Joy is the felt signature of creation; distinct from pleasure",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P192 \u2014 Life is freedom inserting itself into necessity.md",
+      "id": "P192",
+      "title": "Life is freedom inserting itself into necessity",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P193 \u2014 Consciousness is choice; where there is no choice, there is mechanism.md",
+      "id": "P193",
+      "title": "Consciousness is choice; where there is no choice, there is mechanism",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P194 \u2014 Distinguish closed morality from open morality; the open requires creative effort, not mere expansion.md",
+      "id": "P194",
+      "title": "Distinguish closed morality from open morality; the open requires creative effort, not mere expansion",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P195 \u2014 Creative emotion (\u00e9motion cr\u00e9atrice) is generative of thought, not a byproduct of it.md",
+      "id": "P195",
+      "title": "Creative emotion (\u00e9motion cr\u00e9atrice) is generative of thought, not a byproduct of it",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P196 \u2014 Intuition is a return to lived duration, not a leap to the eternal.md",
+      "id": "P196",
+      "title": "Intuition is a return to lived duration, not a leap to the eternal",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Both-and.md",
+      "id": "Both-and",
+      "title": "Both-and",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Broaden-and-build.md",
+      "id": "Broaden-and-build",
+      "title": "Broaden-and-build",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Creative evolution.md",
+      "id": "Creative evolution",
+      "title": "Creative evolution",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Creative selection.md",
+      "id": "Creative selection",
+      "title": "Creative selection",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Creativity.md",
+      "id": "Creativity",
+      "title": "Creativity",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Curiosity.md",
+      "id": "Curiosity",
+      "title": "Curiosity",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Dur\u00e9e.md",
+      "id": "Dur\u00e9e",
+      "title": "Dur\u00e9e",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Elan vital.md",
+      "id": "Elan vital",
+      "title": "Elan vital",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Emergence.md",
+      "id": "Emergence",
+      "title": "Emergence",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Emergent evolution.md",
+      "id": "Emergent evolution",
+      "title": "Emergent evolution",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Flow.md",
+      "id": "Flow",
+      "title": "Flow",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Growth mindset.md",
+      "id": "Growth mindset",
+      "title": "Growth mindset",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Intuition as method.md",
+      "id": "Intuition as method",
+      "title": "Intuition as method",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Process philosophy.md",
+      "id": "Process philosophy",
+      "title": "Process philosophy",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The moment of vision (Augenblick).md",
+      "id": "The moment of vision (Augenblick)",
+      "title": "The moment of vision (Augenblick)",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST120 \u2014 Bergson and the Melody.md",
+      "id": "ST120",
+      "title": "120. Bergson and the Melody",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST122 \u2014 Augustine's Threefold Present.md",
+      "id": "ST122",
+      "title": "122. Augustine's Threefold Present",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST353 \u2014 The Four Clock Strokes Bergson Had Not Counted.md",
+      "id": "ST353",
+      "title": "353.  The Four Clock Strokes Bergson Had Not Counted",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST355 \u2014 Brekhunov Warms the Man He Underpaid.md",
+      "id": "ST355",
+      "title": "355.  Brekhunov Warms the Man He Underpaid",
+      "thinker": "T046",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}

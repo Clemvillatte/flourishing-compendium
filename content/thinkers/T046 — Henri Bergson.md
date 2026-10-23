@@ -33,7 +33,7 @@ His doctoral thesis, *Time and Free Will* (1889), introduced duration (*durée*)
 
 ## Connection to the compendium
 
-- [[Élan vital]]
+- [[Elan vital|Élan vital]]
 - [[P091 — Distinguish lived time from clock time|Distinguish lived time from clock time]]
 - [[P102 — Trust the creative thrust of life|Trust the creative thrust of life]]
 - [[P191 — Joy is the felt signature of creation; distinct from pleasure|Joy is the felt signature of creation; distinct from pleasure]]
