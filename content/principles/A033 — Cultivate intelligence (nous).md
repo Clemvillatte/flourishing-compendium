@@ -39,6 +39,9 @@ For example: suppose a team argues, "We cannot accept this project because all s
 
 - **[[Intuition as method|Intuition as method]]** (Bergson, Introduction to Metaphysics)
 - **[[Radical empiricism|Radical empiricism]]** (James, Essays in Radical Empiricism)
+## Related concepts
+
+- [[T011 — Socrates]]: the oracle story, intelligence that knows what it doesn't know (ST152)
 
 <!-- fc: reflections
 Think of a conviction you hold that you cannot prove from anything else. Where did it come from, and what experience would make you revise it?
