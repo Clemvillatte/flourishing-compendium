@@ -7,7 +7,6 @@
   "Self-deception",
   "Self-esteem research",
   "Self-legislation",
-  "Self-making",
   "Self-perception theory",
   "Self-talk research",
   "Self-trust",
@@ -67,7 +66,8 @@
   "Source credibility research",
   "Te Whare Tapa Whā",
   "Self-transcendent emotions",
-  "Self-transformation over information"
+  "Self-transformation over information",
+  "Self-making"
  ],
  "in_progress": null,
  "flagged": {
@@ -76,7 +76,7 @@
   "Self-deception": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-deception.md",
   "Self-esteem research": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-esteem research.md",
   "Self-legislation": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-legislation.md",
-  "Self-making": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-making.md",
+  "Self-making": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
   "Self-transformation over information": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
   "Self-transcendent emotions": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
   "Self-perception theory": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-perception theory.md",
@@ -111,6 +111,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:20:52+00:00",
+ "updated": "2026-10-23T06:21:20+00:00",
  "band_done": false
 }

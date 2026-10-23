@@ -1,5 +1,10 @@
-# Self-making (w1ad, worker-w1ad-pplx-a91f2c03, 2026-10-22)
+# Self-making — w1ad takeover (worker-pplx-w1ad-436b6873, 2026-10-23)
 
-- Opened: Thus Spake Zarathustra, Common translation, Project Gutenberg full text (https://www.gutenberg.org/files/1998/1998-h/1998-h.htm) — fetched once; page quotes verified verbatim against the returned text: "Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea. Aye, for the game of creating..."; "To create new values—that, even the lion cannot yet accomplish: but to create itself freedom for new creating—that can the might of the lion do."; the camel framing ("load-bearing spirit in which reverence dwelleth") is verbatim.
-- QC correction (advisor round 5, applied): opening rewritten as "This page approaches self-making through Zarathustra's three metamorphoses of the spirit" (the source describes metamorphoses of the spirit, not "self-making" as a defined term); the unsupported "a self no longer handed down" gloss and the categorical closing definition removed (narrowed to lion-wins-freedom / child-affirms); closing dash removed for the prose-dash rule.
-- Provenance check: the Gutenberg title page states NO translator credit for this text — the earlier "Common trans." attribution was removed from page, quotes and Sources; quotes are attributed to the Project Gutenberg text by URL only. Verification limits: the translator is unidentified on the opened carrier. Related-concept links are bare links, no relationship claims.
+Item class: prose-short expansion found in the w1ad manifest sweep (135 -> 175 words).
+Carrier opened this session: Gutenberg #1998 Thus Spake Zarathustra (Common translation),
+fetched raw and text-extracted. All quoted fragments re-verified verbatim: the child quote
+("Innocence is the child, and forgetfulness..."), "load-bearing spirit in which reverence
+dwelleth", "Thou shalt" dragon, the lion limits quote. Repair: "accumulated values of a
+thousand years" narrowed to the source's "values of a thousand years" phrasing; "This
+page approaches" self-reference removed; one-spirit-three-stages closing sentence added
+(paraphrase of the chapter's own summary line). Validator ok.
