@@ -22,6 +22,7 @@ The paradox is the point. The Dao "does nothing" for the sake of doing, yet noth
 - [[B060 — Practice without seeking]] cites this concept as a philosophy parallel.
 
 ## Related concepts
+- [[T012 — Laozi]]: the refusal of forcing the concept names, from the Daodejing's own terms.
 
 - [[Wu wei]] — the compendium's page on wu wei
 - [[Non-seeking]] — the compendium's page on non-seeking

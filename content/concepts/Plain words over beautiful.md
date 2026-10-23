@@ -26,6 +26,7 @@ The Buddhist parallel the compendium pairs with this page runs a gate instead of
 - [[E504 — Spare a person shame]] — plain speech that spares the listener, rather than performing virtue at them.
 
 ## Related concepts
+- [[T012 — Laozi]]: the preference stated in the closing chapter (Daodejing 81).
 
 
 - [[Parrhesia (frank speech)]]

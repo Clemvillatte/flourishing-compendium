@@ -27,6 +27,7 @@ The training consequence is watchfulness: to watch states arise and pass until t
 - [[B137 — Expect your seeing to change (the wise see differently)]] — seeing itself is among the changing things
 
 ## Related concepts
+- [[T012 — Laozi]]: the process-reality formulation the page cites as the cross-tradition insight.
 
 - [[Impermanence]] — the cross-tradition hub of this family
 - [[Panta rhei]] — Heraclitus: everything flows

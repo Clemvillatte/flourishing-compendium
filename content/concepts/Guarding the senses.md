@@ -47,6 +47,7 @@ Both texts treat unbridled sensory appetite as costly. The Buddhist passages des
 - MO031, MO041 and MO049 turn it into environment design: add friction, change context, remove distractions.
 
 ## Related concepts
+- [[T012 — Laozi]]: the Daodejing section the page carries (chapter 12).
 
 - [[Pratyahara]] — the Yoga practice of drawing the senses back
 - [[Mindfulness]] — the Buddhist training in which sense restraint sits

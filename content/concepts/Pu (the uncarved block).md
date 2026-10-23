@@ -36,6 +36,7 @@ Pu is not ignorance or childish naivety. In chapter 28 it pairs with the "simple
 - [[D101 — Drop pretense — stop standing on tiptoe]] — the performance that the block does without
 
 ## Related concepts
+- [[T012 — Laozi]]: the image's source: wood not yet cut, original simplicity (Daodejing 15).
 
 - [[The examined life]] — the examined self is what remains when the carving is noticed
 - [[Ziran (naturalness)]] — the uncarved block acts naturally, of itself

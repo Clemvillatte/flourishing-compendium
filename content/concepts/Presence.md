@@ -25,6 +25,7 @@ The same article stresses that the I-Thou "cannot be reduced to a concept" but p
 - [[D001 — Align your life with the Dao]]
 
 ## Related concepts
+- [[T012 — Laozi]]: the Daodejing 2 citation the page carries.
 
 - [[The Between]] — the space presence occupies in Buber
 - [[Alterity]] — the otherness of the other in the encounter

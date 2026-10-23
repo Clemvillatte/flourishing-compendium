@@ -30,6 +30,7 @@ The Dao is the Chinese member of a family of concepts that name the self-organis
 Reading the grain of a situation before acting: the argument that escalates when you push and dissolves when you stop, the body that heals on rest days. (Illustrative scenario, not a reported participant or study result.)
 
 ## Related concepts
+- [[T012 — Laozi]]: the term's own source: the way the world works, in Laozi's words.
 
 - [[Wu wei]] — acting with, not against, the Dao
 - [[Ziran (naturalness)]] — the Dao's model is what is so of itself

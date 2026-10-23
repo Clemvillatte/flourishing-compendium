@@ -18,6 +18,7 @@ Sparse speech is the Daoist discipline of saying little. The Daodejing's image i
 Legge links restraint in speech with following one's nature, and his example is the short duration of violent wind and rain. The compendium's principle B172 holds the value this concept grounds; its plain-words reading is the pause before speaking, asking whether what is about to be said serves a purpose. The image is about force and duration rather than silence for its own sake. A squall spends everything at once and is over by morning; the reading this page takes from it is that speech delivered at full volume all day cannot last, and that a person who wants words to keep working spreads them thin.
 
 ## Related concepts
+- [[T012 — Laozi]]: the Daodejing 23 source the page opens with.
 
 - [[Wu wei]] — sparse speech is the verbal form of non-forcing
 - [[Ziran (naturalness)]] — the chapter ties abstaining from speech to obeying one's own nature

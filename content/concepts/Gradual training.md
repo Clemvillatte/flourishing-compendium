@@ -35,6 +35,7 @@ Its cross-tradition cognates are Aristotle's habituation (virtue built by repeat
 - [[B130 — Expect awakening to shift in a moment]] — the sudden-seeing counterweight
 
 ## Related concepts
+- [[T012 — Laozi]]: the Daoist cognate of habituation the page lists.
 
 - [[Eightfold Path]] — the same path paced for ordinary life
 - [[The doctrine of the mean]] — Aristotle's habituation logic

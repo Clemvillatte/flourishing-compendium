@@ -20,6 +20,7 @@ The point is not against reconciliation. It is against treating the paperwork as
 - [[B163 — Reconcile quickly — don't let conflict fester]] — lists the concept among its philosophy parallels.
 
 ## Related concepts
+- [[T012 — Laozi]]: the Daodejing 79 source the page opens with.
 
 - [[Forgiveness]] — the release of a debt: ending resentment and the claim to repayment without excusing the wrong
 

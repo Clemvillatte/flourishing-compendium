@@ -26,6 +26,7 @@ The sources describe domination and submission as responses to insecurity in a h
 - [[D133 — Don't dominate — the world can't be controlled]] lists this concept. That principle rests on Laozi and does not quote Fromm, so the link is thematic.
 
 ## Related concepts
+- [[T012 — Laozi]]: the chapter 29 and 60 warnings behind the D133 principle the page cites.
 
 - [[Escape from freedom]] — domination is the assertive pole of Fromm's authoritarianism mechanism
 

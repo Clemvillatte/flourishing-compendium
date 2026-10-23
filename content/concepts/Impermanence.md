@@ -42,6 +42,7 @@ Where the Buddhist mark stresses passing, the Daoist chapter stresses the return
 - [[A075 — Recognise that friendships change over time]] and [[D159 — Treat your body as a loan, not a possession]] — the fact applied to a relationship and to the body
 
 ## Related concepts
+- [[T012 — Laozi]]: the Daoist cognate the page lists beside the Three Marks.
 
 
 - [[Buddhist emptiness of inherent nature]] — the arising and ceasing that chapter 24 ties to dependent origination

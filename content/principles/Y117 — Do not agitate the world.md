@@ -30,6 +30,10 @@ The verse describes someone who does not rattle other people and is not easily r
 
 A manager with a short fuse realizes that her team goes quiet when she walks in. For a month she works on her tone in meetings. The calm she gets from it also helps when a client shouts at her.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the undisturbed-and-undisturbing portrait (Daodejing 15) the page lists.
+
 ## Psychology parallels
 
 - **[[Emotional contagion|Emotional contagion and co-regulation]]**, the research showing one person's state spreads through groups (Hatfield et al., 1994)

@@ -22,6 +22,7 @@ The Daodejing's fortieth chapter describes the Dao as moving by contraries and a
 - [[AF008 — Know the negativity bias; correct for it deliberately]] — lists the concept among its philosophy parallels.
 
 ## Related concepts
+- [[T012 — Laozi]]: the chapter 40 rule the page is named from.
 
 - [[D005]] — D005 is the compendium's principle on the reversal the concept page cites from Daodejing 40, built on the Gutenberg Legge edition with verbatim chapters 9, 40 and 58.
 - [[Wu wei]] — chapter 40 sets the Dao's movement by contraries beside weakness, the soft course that the Daoist idea of non-forcing (wu wei) also names.

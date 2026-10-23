@@ -37,6 +37,7 @@ Illustrative scenario, not a reported study: a person who dates casually for yea
 - [[D039 — Make rest the root of activity]] — the Daodejing's stillness as ruler of movement
 
 ## Field
+- [[T012 — Laozi]]: the chapter 76 argument D156 carries as the flexibility teaching.
 
 Sociocultural · Psychological science
 ## Cited in philosophy parallels

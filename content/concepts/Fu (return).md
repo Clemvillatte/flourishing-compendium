@@ -20,6 +20,7 @@ The chapter opens by asking for vacancy and stillness guarded with unwearying vi
 - [[P001 — Build your life on becoming, not being]] — cites it among process-philosophy parallels
 
 ## Related concepts
+- [[T012 — Laozi]]: the chapter 16 pattern the concept names: return as the movement.
 
 - [[Eternal recurrence]] — the Daoist pattern of return, set beside Nietzsche's recurrence as a comparison
 - [[Impermanence]] — the Buddhist account of the change that return presupposes

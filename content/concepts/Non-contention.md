@@ -22,6 +22,7 @@ Neither chapter asks the reader to withdraw from action. Chapter 8 ties the refu
 The compendium pairs the idea with two principles: A017 (Practice gentleness) lists it among its philosophy parallels, and S043 (Be patient with difficult people) sets it beside the practice of patience under provocation.
 
 ## Related concepts
+- [[T012 — Laozi]]: the refusal to wrangle the concept is drawn from (Daodejing 8, 22, 66).
 
 - [[Wu wei]] — non-forcing action, the larger Daoist practice this refusal belongs to
 - [[Dao]] — the way of the world the water image is near to

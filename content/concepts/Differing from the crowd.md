@@ -26,6 +26,7 @@ Chapter 20 describes a feeling and a value. It does not give advice on when to f
 - [[B173 — Be alone well]] lists this concept. The principle's page rests on the Dhammapada and the Rhinoceros Sutta and does not cite Daodejing 20, so the link is thematic.
 
 ## Related concepts
+- [[T012 — Laozi]]: the chapter 20 first-person portrait of feeling out of step with everyone.
 
 - [[Conformity]] — the psychological pressure the speaker stands apart from
 - [[Authenticity]] — a nearby theme of living in line with what one values

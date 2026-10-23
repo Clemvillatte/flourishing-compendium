@@ -27,6 +27,7 @@ The list itself runs across feeling and conduct. Two of its items are about hono
 - [[AF065 — Cultivate compassion — it is sustainable empathy plus concern]] and [[AT051 — Learn loving-kindness meditation — attention oriented toward warmth]] — the psychology of the same orientation.
 
 ## Related concepts
+- [[T012 — Laozi]]: the Daoist counterpart the page names: the first treasure, compassion (ci).
 
 - [[Four immeasurables]] — unconditional Christian love as a comparison tradition
 - [[Grace]] — the unearned favor the concept presupposes
