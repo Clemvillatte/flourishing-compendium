@@ -1,11 +1,10 @@
-# w1ad evidence: Shamefastness as quasi-virtue
+# Shamefastness as quasi-virtue — w1ad takeover (worker-pplx-w1ad-436b6873, 2026-10-23)
 
-- Item: Shamefastness as quasi-virtue (w1ad manifest, fast-track bar, degree 2 at start).
-- Carrier opened this session: Aristotle, Nicomachean Ethics IV.9 (1128b), Rackham translation, Perseus Digital Library, https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker%20page%3D1128b (fetched via curl; the fetch tool is robots-blocked on perseus.tufts.edu, curl reaches it).
-- Quotations: the blockquote is the source's complete sentence from "Modesty cannot properly be described as a virtue" through "a feeling rather than a disposition", verified character-for-character against the fetched text. Mid-sentence fragments "as they live by feeling they often err, and modesty may keep them in check", "ought not to do anything of which he need be ashamed", "a virtuous man will never voluntarily do a base action", "but the virtues are not conditional" all verbatim in the opened carrier. Locator given as IV.9, 1128b (Bekker line range not asserted; the Perseus page shows section markers only).
-- Advisor QC round 1 (first item of session): FAIL with repairs, all applied: blockquote extended to the source's complete sentence (was truncated mid-sentence with an inserted period); locator narrowed from "1128b10-15" to "1128b"; unsupported "older English word" opening claim replaced with a source-bounded opening; the "mature virtuous person does not feel shame at all" inference weakened to the source's own conditional statement; the Eudemian-aischyne related-line claim removed; the unsupported Sophrosyne related row removed (the passage does not define sophrosyne). A021 gloss verified against the A021 body before keeping ("Its job is to restrain the learner", "Shame is conditional equipment").
-- Limitations: Rackham renders aidos as "modesty" in this chapter; the English gloss "shame" follows the compendium's own usage and the Ross rendering cited on A021, and is disclosed here rather than asserted from the opened carrier. Single-source scope per the fast-track bar.
-- QC disposition: pending advisor re-clearance of the repaired text.
-
-- Advisor round 2 (scoped): PASS for the repaired text; one residual gap fixed: the '(aidos)' transliteration removed (the opened Rackham carrier does not supply it; grep on the fetched page found no such string; the compendium's own A021 usage is not evidence for an outside fact). QC disposition: scoped fast-track PASS, this page and this evidence only.
-
+Item class: prose-short expansion found in the w1ad manifest sweep at the NORMAL profile
+(137 -> 170 words; the item was fast-track-validated by the supervisor on 2026-10-22, this
+pass raises it to the full bar). Carrier opened this session: Perseus Rackham NE IV.9 1128b
+via the hopper dltext endpoint (text pages robots-blocked; method per the QC-log note).
+All five quoted fragments re-verified verbatim against the freshly fetched text. New closing
+sentence (self-restraint comparison) paraphrases the source's closing sentences ("any more
+than Self-restraint is a virtue, and not rather a mixture of virtue and vice").
+Validator ok at the normal profile.

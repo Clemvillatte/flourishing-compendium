@@ -12,7 +12,6 @@
   "Self-trust",
   "Serene acceptance of necessity",
   "Seriousness (le sérieux)",
-  "Shamefastness as quasi-virtue",
   "Shipwreck (Scheitern)",
   "Silence in negotiation research",
   "Sisyphus",
@@ -67,7 +66,8 @@
   "Te Whare Tapa Whā",
   "Self-transcendent emotions",
   "Self-transformation over information",
-  "Self-making"
+  "Self-making",
+  "Shamefastness as quasi-virtue"
  ],
  "in_progress": null,
  "flagged": {
@@ -107,10 +107,11 @@
   "TRACE model of speech perception": "Reopened for QC: milestone QC repairs round 3",
   "Sparse speech": "Reopened for QC: QC routing 2026-10-23: prose-short seed (132w) below the 150-word bar; expansion to bar",
   "Stigma research": "Reopened for QC: QC routing 2026-10-23: prose-short seed (132w) below the 150-word bar; expansion to bar",
-  "Te Whare Tapa Whā": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar"
+  "Te Whare Tapa Whā": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
+  "Shamefastness as quasi-virtue": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:21:20+00:00",
+ "updated": "2026-10-23T06:21:48+00:00",
  "band_done": false
 }
