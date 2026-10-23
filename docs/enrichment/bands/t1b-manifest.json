@@ -1,0 +1,35 @@
+{
+ "band": "t1b",
+ "source_queue": "queue-thinkers.json",
+ "source_queue_commit": "",
+ "thinkers": [
+  "Marcus Aurelius",
+  "Richard Ryan & Edward Deci",
+  "Steven Hayes",
+  "James Gross",
+  "Confucius",
+  "Kierkegaard",
+  "Carl Rogers",
+  "Viktor Frankl",
+  "Immanuel Kant",
+  "Bandura",
+  "Daniel Kahneman",
+  "Aaron Beck"
+ ],
+ "ids": [
+  "T014",
+  "T015",
+  "T016",
+  "T017",
+  "T018",
+  "T019",
+  "T020",
+  "T021",
+  "T022",
+  "T023",
+  "T024",
+  "T025"
+ ],
+ "selection": "continuation of t1a (T002-T013): next 12 thinkers in queue-thinkers.json by corpus-mention score (ranks 13-24), per PROTOCOL-THINKERS.md owner directive 2026-10-22 (Thinkers pages special focus); minted by worker-pplx-t1b-81kf4 with supervisor live (worker-pplx-8c46f0c8)",
+ "note": "format per PROTOCOL-THINKERS.md; exemplars T001 Csikszentmihalyi and T002 Aristotle"
+}
