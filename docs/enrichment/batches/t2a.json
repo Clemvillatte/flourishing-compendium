@@ -508,13 +508,13 @@
   "content/principles/D156 — Stay flexible — rigidity is death's companion.md",
   "content/principles/D170 — Work on yourself first — influence radiates.md",
   "content/principles/D184 — Don't over-cultivate the appearance of virtue.md",
-  "content/kernels/K006 — Guard the mind as the root of everything downstream.md",
-  "content/kernels/K012 — Do not make an identity out of the collapse.md",
-  "content/kernels/K058 — Let the mind be, unaltered.md"
+  "content/principles/K006 — Guard the mind as the root of everything downstream.md",
+  "content/principles/K012 — Do not make an identity out of the collapse.md",
+  "content/principles/K058 — Let the mind be, unaltered.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:32:05+00:00",
+ "updated": "2026-10-23T14:32:16+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }
