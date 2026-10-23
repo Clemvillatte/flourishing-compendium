@@ -23,6 +23,7 @@ The same handout lists all-the-way additions: "Imagine understanding and empathy
 *For example:* after a partner forgets a commitment, someone takes a slow-breathing time-out instead of opening with the list of past failures, then returns, asks what happened, and tries out a genuinely good reason for it before responding.
 
 ## Sources
+- [[T032 — Linehan, Marsha]]: the DBT opposite-action skill for anger's attack urge, the page's source.
 
 - [Linehan, DBT Skills Training Manual, 2nd ed. (2015), Emotion Regulation Handouts 10-11 (Guilford reproducible handouts PDF)](https://www.guilford.com/add/linehan7_old/lin-p-handouts.pdf?t=1) — Handout 10: anger's action urge and opposite action, step-by-step procedure; Handout 11: opposite actions and all-the-way opposite actions for anger
 

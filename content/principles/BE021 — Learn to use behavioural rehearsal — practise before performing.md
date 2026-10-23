@@ -23,6 +23,7 @@ Two details from the same notes shape the practice. Participants take turns play
 *For example:* someone who dreads asking the landlord for repairs first role-plays the request with a friend playing the landlord, then swaps parts to hear what the request sounds like from the other side.
 
 ## Related concepts
+- [[T032 — Linehan, Marsha]]: the covert-rehearsal quote the page opens with, from the DBT manual.
 
 - [[T013 — Seneca]]: the rehearsal-of-virtue teaching the page lists.
 

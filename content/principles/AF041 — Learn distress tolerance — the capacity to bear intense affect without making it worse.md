@@ -21,6 +21,7 @@ Distress tolerance names the capacity to withstand aversive internal states rath
 *For example:* A man feels a wave of panic in a supermarket queue and stays in the line rather than abandoning the trolley. His task is to keep standing there while the feeling is present.
 
 ## Psychology parallels
+- [[T032 — Linehan, Marsha]]: the DBT module the page's skill comes from: distress tolerance as trainable capacity.
 
 - [A review of distress tolerance and its proposed relationships with psychopathology (Leyro et al., 2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2891552/)
 - [Linehan's 1993 account treats a persistent unwillingness or inability to tolerate emotional distress as a central mechanism in borderline personality disorder (via Leyro et al., 2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2891552/)

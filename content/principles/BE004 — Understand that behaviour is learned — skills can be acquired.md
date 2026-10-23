@@ -25,6 +25,7 @@ For example: before giving a team update, a new employee watches a colleague pre
 (Bandura, Social Learning Theory, 1971.)
 
 ## Psychology parallels
+- [[T032 — Linehan, Marsha]]: the DBT skills-training premise the page lists: specific behaviours, taught and rehearsed.
 
 - **[[Social learning theory (Bandura)|Social learning theory (Bandura)]]**, behaviour is learned through observation, modelling, and reinforcement (Bandura, 1977; Bandura et al., 1961)
 - **[[Skills training (DBT, CBT)|Skills training (DBT, CBT)]]**, specific behavioural skills (assertiveness, emotion regulation, social skills) are trainable (Linehan, 1993; Kelly, 2004)

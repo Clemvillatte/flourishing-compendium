@@ -27,6 +27,7 @@ The evidence is thinner than the skill's reputation. Linehan's idea is that acti
 For example: you feel ashamed after a clumsy presentation and want to skip the next team meeting. The opposite action is to attend and say hello to the people who were in the room. You are choosing against the urge to hide, and you are not trying to feel fine first.
 
 ## Sources
+- [[T032 — Linehan, Marsha]]: the idea the page tests: acting against the emotion's urge to change the emotion.
 
 - Fassbinder, Schweiger, Martius, Brand-de Wilde & Arntz (2016), "Emotion Regulation in Schema Therapy and Dialectical Behavior Therapy", Frontiers in Psychology: [PMC5021701](https://pmc.ncbi.nlm.nih.gov/articles/PMC5021701/)
 - Sauer-Zavala, Wilner, Cassiello-Robbins, Saraff & Pagan (2019), "Isolating the Effect of Opposite Action in Borderline Personality Disorder", Behav Res Ther 117:79-86: [PMC6467696](https://pmc.ncbi.nlm.nih.gov/articles/PMC6467696/)

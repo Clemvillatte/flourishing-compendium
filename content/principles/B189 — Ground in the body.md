@@ -24,6 +24,7 @@ When thoughts race, the body is a place attention can go. The sutta's instructio
 *For example:* Imagine the 3am worry spiral. Instead of arguing with the thoughts, you locate the pillow, the blanket, the mattress, and follow one breath, noting whether it is long or short.
 
 ## Sources
+- [[T032 — Linehan, Marsha]]: the grounding techniques the page lists from the DBT lineage.
 
 - [Access to Insight: Satipatthana Sutta (MN 10), tr. Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — sitting posture, breath instructions, and the body-focused refrain
 

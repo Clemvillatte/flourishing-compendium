@@ -33,6 +33,7 @@ You can feel an emotion fully without acting on it straight away. The furious dr
 Two people get the same infuriating email. One replies at once, while shaking. The other parks outside the house, breathes, and writes the same sharp points the next morning. This one is imagined.
 
 ## Sources
+- [[T032 — Linehan, Marsha]]: the DBT distress-tolerance module (Linehan, 1993) the page lists.
 
 - Thich Nhat Hanh, *The Heart of the Buddha's Teaching*: [PDF copy](https://www.dwms.org/uploads/8/7/8/7/87873912/thich_nhat_hanh_-_the_heart_of_buddhas_teaching.pdf)
 - MN 20, Vitakkasanthana Sutta, trans. Thanissaro Bhikkhu: [Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)

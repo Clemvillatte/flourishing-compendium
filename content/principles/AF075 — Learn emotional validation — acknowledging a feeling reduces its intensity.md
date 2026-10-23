@@ -24,6 +24,7 @@ The study's abstract states the theory in its background: validation is associat
 For example: a child is melting down over the wrong colour cup. One parent says it is silly, it is just a cup; the other says the child really wanted the blue one. The second is the acknowledgement the theory describes. Whether it reduces escalation in this instance is not guaranteed by the study's findings.
 
 ## Psychology parallels
+- [[T032 — Linehan, Marsha]]: the validation-and-negative-affect finding the page lists (Linehan, 1993).
 
 - **Validation and negative affect** (Linehan, 1993; Fruzzetti & Iverson, 2004)
 - **Validation in therapy** (Linehan, 1993; Gottman & Levenson, 2000)

@@ -25,6 +25,7 @@ The demand is completeness, verbatim: "When you do opposite action, do it all th
 *For example:* Suppose the urge after a conflict is to withdraw and wait to be pursued. Whether opposite action fits depends on the facts: if the fear of abandonment does not fit them, the opposite action might be a message that says you are still in this. The skill is conditional, not automatic, and it does not imply renewed contact is appropriate after every conflict.
 
 ## Sources
+- [[T032 — Linehan, Marsha]]: the DBT manual's plain definition of opposite action, which the page opens with.
 
 - [Linehan, DBT Skills Training Manual, 2nd edition, reproducible teaching notes (Guilford Press)](https://www.guilford.com/add/linehan7_old/lin-p-3teaching.pdf?t=1) — definition, condition, and all-the-way instruction quoted verbatim
 

@@ -27,6 +27,7 @@ Pause over what is actually available to notice before deciding what it means ab
 Imagine a friend describing a difficult day. Listen to the words they use and check what they are asking from you before preparing advice. Your response may still require interpretation and judgment; the exercise asks that those be answerable to what you heard.
 
 ## Related concepts
+- [[T032 — Linehan, Marsha]]: the radical-acceptance handout the page's acknowledgment ask comes from.
 
 - [[T009 — Zhuangzi]]: the ziran (self-so) naturalness the page rests suchness on.
 
