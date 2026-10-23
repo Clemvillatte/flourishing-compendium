@@ -17,11 +17,11 @@ A practical reading is to consider the three observations together when assessin
 
 ## Related concepts
 
-- [[Character development]] — listed for comparison
-- [[Practical wisdom]] — listed for comparison
-- [[Li — ritual propriety]] — listed for comparison
-- [[Filial piety]] — listed for comparison
-- [[Character strengths (Peterson & Seligman)]] — listed for comparison
+- [[Character development]] — what the observation is evidence about
+- [[Practical wisdom]] — the competence this test tracks
+- [[Li — ritual propriety]] — Confucius's practice side of the same formation
+- [[Filial piety]] — the first practice Confucius takes as a sign of the whole
+- [[Character strengths (Peterson & Seligman)]] — the modern taxonomy of the same stable dispositions
 
 ## Sources
 

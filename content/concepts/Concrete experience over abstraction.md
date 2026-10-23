@@ -36,11 +36,11 @@ Dewey is not arguing against abstraction as such. The same chapter treats thinki
 
 ## Related concepts
 
-- [[Empiricism: experience over argument]] — listed for comparison
-- [[Pragmatism]] — listed for comparison
-- [[Experiential learning]] — listed for comparison
-- [[Learning by doing]] — listed for comparison
-- [[Embodied cognition]] — listed for comparison
+- [[Empiricism: experience over argument]] — the epistemology behind the insistence
+- [[Pragmatism]] — the philosophy that makes consequences the test
+- [[Experiential learning]] — Kolb's cycle built on the same priority
+- [[Learning by doing]] — the everyday version of the claim
+- [[Embodied cognition]] — the science that grounds thinking in the body
 
 ## Sources
 

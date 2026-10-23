@@ -22,11 +22,11 @@ The theory belongs to the same tradition as Acceptance and Commitment Therapy (A
 ## Related concepts
 
 
-- [[Acceptance]] — listed for comparison
-- [[Exposure therapy (Foa, Craske)]] — listed for comparison
-- [[Opposite action (Linehan)]] — listed for comparison
-- [[The avoidance of suffering]] — listed for comparison
-- [[Acceptance alongside values-based action]] — listed for comparison
+- [[Acceptance]] — the opposite stance the theory names
+- [[Exposure therapy (Foa, Craske)]] — the treatment that reverses avoidance
+- [[Opposite action (Linehan)]] — the emotion-theory version of the reversal
+- [[The avoidance of suffering]] — the page the theory explains
+- [[Acceptance alongside values-based action]] — the acceptance-plus-values combination the theory pushes toward
 - [[Experiential avoidance research]] — the empirical strand of the construct
 - [[Process-based therapy]] — the most-studied maladaptive process in PBT's ACT lineage
 - [[Acceptance and Commitment Therapy]] — the clinical model built to target avoidance

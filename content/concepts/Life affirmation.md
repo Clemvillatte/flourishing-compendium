@@ -19,11 +19,11 @@ Scholarship frames life affirmation as one of Nietzsche's central aims: "There i
 
 ## Related concepts
 
-- [[Amor fati]] — listed for comparison
-- [[Eternal recurrence]] — listed for comparison
-- [[Nihilism]] — listed for comparison
-- [[Meaning-making]] — listed for comparison
-- [[Post-traumatic growth]] — listed for comparison
+- [[Amor fati]] — the love of fate that affirms even the past
+- [[Eternal recurrence]] — the thought experiment that tests whether one affirms life
+- [[Nihilism]] — the denial that affirmation answers
+- [[Meaning-making]] — the active construction affirmation expresses
+- [[Post-traumatic growth]] — affirmation under the hardest conditions
 
 ## Sources
 

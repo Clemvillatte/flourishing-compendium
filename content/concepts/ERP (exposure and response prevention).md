@@ -23,11 +23,11 @@ The compendium's interest is the structure: an action taken while the discomfort
 - [[BE029 — Learn to use response prevention — block the compulsive behaviour]] — the compulsive-blocking half of the treatment
 - [[BE071 — Recognise behavioural symptoms of OCD — compulsions and rituals]] — the disorder the treatment targets
 - [[K119 — Response prevention]] — the kernel version of the second half
-- [[AF047 — Understand fear's function — it prepares you for threat]] — listed for comparison
-- [[B066 — Watch states arise and pass]] — listed for comparison
-- [[P155 — Make workability your everyday criterion]] — listed for comparison
-- [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]] — listed for comparison
-- [[V1K-S01.02 — 2. Acceptance and Willingness]] — listed for comparison
+- [[AF047 — Understand fear's function — it prepares you for threat]] — the fear-system knowledge ERP relies on
+- [[B066 — Watch states arise and pass]] — the acceptance-of-change skill exposure trains
+- [[P155 — Make workability your everyday criterion]] — the outcome-first criterion ERP shares
+- [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]] — the science-backed band the ERP evidence sits in
+- [[V1K-S01.02 — 2. Acceptance and Willingness]] — the acceptance band ERP belongs to
 
 ## Related concepts
 
