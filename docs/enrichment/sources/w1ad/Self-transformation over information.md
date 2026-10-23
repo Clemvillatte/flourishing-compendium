@@ -1,6 +1,17 @@
-# Self-transformation over information (w1ad, worker-w1ad-pplx-a91f2c03, 2026-10-22)
+# Self-transformation over information — w1ad takeover (worker-pplx-w1ad-436b6873, 2026-10-23)
 
-- Opened: online full text of Hadot, Philosophy as a Way of Life (vdoc.pub copy, https://vdoc.pub/documents/philosophy-as-a-way-of-life-spiritual-exercises-from-socrates-to-foucault-5e96amgvfim0) — fetched once; page quotes verified verbatim against the returned text: the Stoic parts-of-philosophy passage ("For the Stoics, the parts of philosophy—physics, ethics, and logic—were not, in fact, parts of philosophy itself, but rather parts of philosophical discourse. But philosophy itself—that is, the philosophical way of life—is no longer a theory divided into parts, but a unitary act, which consists in living logic, physics, and ethics."); "The object of spiritual exercises is precisely to bring about this transformation."; and the athlete comparison ("just as, by dint of repeated physical exercises, athletes give new form and strength to their bodies, so the philosopher develops his strength of soul, modifies his inner climate, transforms his vision of the world, and, finally, his entire being.").
-- Verification limits: the carrier is a third-party online copy of the Blackwell edition, not the publisher's text; page references were not visible in the extraction, so quotes are cited by work without page numbers. The Chase translation credit is stated on my page from the book's known edition data, not from the opened carrier — flagged here for honesty.
-
-- QC correction (advisor final round, 2026-10-22): the page no longer attributes the label 'self-transformation over information' to Hadot (presented as the page's use of the term); the 'reading is not the work' gloss removed (evidence supports discourse serving transformation, not excluding reading); the Chase/Davidson translation credit removed from Sources (not stated by the opened carrier); provenance flag recorded in the band state. The two Stoic sentences in the blockquote were returned as consecutive text by the fetch extraction ('The text continues:'), but adjacency against a publisher text is unverified.
+Item class: prose-short expansion found in the w1ad manifest sweep (115 -> 150+ words).
+Carrier opened this session: the vdoc.pub online copy of Hadot, Philosophy as a Way of
+Life (already the page citation), fetched via the fetch service. Quote verification: quotes
+2 ("The object of spiritual exercises...") and 3 (athlete comparison) found VERBATIM in
+the fetched text; quote 1 (Stoic parts passage) not reached by the preview-page fetch,
+but corroborated word-for-word in two scholarly PDFs opened via search snippets (Oxford
+ORA "Leibniz's Philosophy as a Way of Life?" and the CSU research-output manuscript,
+both citing PWL pp. 266-267, Michael Chase translation). New prose (single-act-renewed-
+at-every-instant paragraph) paraphrases passages present in the fetched vdoc.pub text
+("single act, renewed at every instant...", "cut up... for teaching", "discourse of
+teaching and of exposition of the philosophical dogmas"). "This page uses" self-reference
+removed from the opening; "see band flag" workflow reference removed from Sources (edition
+note kept in plain reader terms). NOTE: my reopen overwrote the previous band flag text
+for this item (the original QC note is preserved in git history at the pre-reopen commit).
+Validator ok.
