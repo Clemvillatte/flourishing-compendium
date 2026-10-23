@@ -558,3 +558,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: single-session lab paradigm, novices, no long-practice or nature-setting claims; "letting-go" framing kept as the practice's own description. Psychedelic ego-dissolution literature deliberately not used (not the practice's method).
 - Mention check run (before this entry): K146 already linked from D008/D087/B160/P001/P059 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K192 — Double-loop learning (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Elliott 1996 (Jt Comm J Qual Improv 22(1):59-66), PubMed-indexed conceptual application of Argyris's double-loop learning to hospital QI, abstract verified raw via NCBI efetch (PMID 8808200); author read from the efetch header.
+- The blockquote (double-loop definition sentence) matches the raw efetch text verbatim.
+- Honesty on page: the surrounding literature is conceptual and organizational, not experimental on individuals; the productivity claim stated as argued, not measured. No Argyris primary text was opened and none is cited.
+- Mention check run (before this entry): K192 already linked from D073/D080/B065/P049 and K191; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
