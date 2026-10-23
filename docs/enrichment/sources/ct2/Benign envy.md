@@ -13,3 +13,9 @@ SE050, B053 — no principle page directly cites Benign envy per rg, so the sect
 the envy-territory principles with grounded clauses); prose expanded past the 150-word
 floor. Related concepts and Sources kept as found (Sources already markdown-linked).
 Front-matter untouched. Validator ok.
+
+## Spot-check (2026-10-23 11:54 UTC, taper verification pass)
+The page's blockquote (the moving-up/pulling-down abstract passage of van de Ven,
+Zeelenberg and Pieters 2009) re-checked against the PubMed efetch of PMID 19485619
+opened earlier this session for the Malicious envy page — all sentences match the
+abstract verbatim, including the benign-envy "moving-up motivation" clause.
