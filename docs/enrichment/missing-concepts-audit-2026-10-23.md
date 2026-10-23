@@ -208,8 +208,13 @@ umbrella (Four immeasurables) — all verified as existing pages.
    Buber context — none is a Buber-specific use (generic social-psychology
    usage); Buber's inclusion (Umfassung) is an honest absence at 0 dedicated
    corpus weight.
-7. The 48-item kernel stem-match shortlist: per-item semantic verification
-   pending (the ataraxia withdrawal shows why).
+7. PARTIALLY DONE before this push: the E-forest cluster was verified at the
+   lexical level (kernel bodies grepped per practice word: shipwreck,
+   conscience, axial age, emplotment, historicity, chiasm, incarnation,
+   thrownness, gelassenheit — all 0; resoluteness/resolve has 24 adjacent
+   hits); the Pacific/Māori cluster remains stem-match-only; the semantic
+   adjacency question (does an unnamed kernel implement the operation?) stays
+   open for both — the ataraxia withdrawal shows why.
 8. DONE before this push: asana has 0 word-boundary mentions in the corpus —
    an honest absence; the "Yoga — union of body, breath, and mind" page
    carries the umbrella.
