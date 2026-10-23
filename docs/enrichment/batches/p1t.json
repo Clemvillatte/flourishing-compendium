@@ -1,7 +1,6 @@
 {
  "batch": "p1t",
  "done": [
-  "D169",
   "D175",
   "D176",
   "D179",
@@ -32,7 +31,7 @@
   "D153",
   "D157"
  ],
- "in_progress": null,
+ "in_progress": "D169",
  "flagged": {
   "D164": "Reopened for QC: Owner priority: replace mechanical Plain words and overlong summary with primary-source-bounded explanation and workable application",
   "D172": "Reopened for QC: QC repair: preserve chapter 73 wrongdoing context; replace repeated Plain words with clear practical application",
@@ -47,10 +46,11 @@
   "D149": "Reopened for QC: Replace repeated moderation gloss and slash quotation markers; bound the actual source categories and make the routine experiment observable",
   "D151": "Reopened for QC: Replace duplicated court-calendar gloss with a clear modern scheduling application; shorten quotation to an exact complete sentence",
   "D153": "Reopened for QC: Compress source recital, distinguish primary images from a movement programme, remove peripheral historical trivia and give a repeatable gentle-movement choice",
-  "D157": "Reopened for QC: Replace duplicated baggage gloss and driving example with source-bounded gravity image and explicit motivation trade-off"
+  "D157": "Reopened for QC: Replace duplicated baggage gloss and driving example with source-bounded gravity image and explicit motivation trade-off",
+  "D169": "Reopened for QC: Replace chain recital and judge-theatre anecdote with an accurate interpretation boundary and fact-versus-guess cognition practice"
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-23T06:59:15+00:00",
+ "updated": "2026-10-23T06:59:42+00:00",
  "band_done": false
 }
