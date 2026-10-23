@@ -20,6 +20,10 @@ Bonanno distinguishes two trajectories after loss or trauma. Recovery involves d
 
 *For example:* After a layoff, you update your CV but still avoid your inbox. Record both observations, then revisit them next week.
 
+## Related concepts
+
+- [[T013 — Seneca]]: premeditatio malorum, the Letters' rehearsal that steadies the return to baseline
+
 ## Sources
 
 - [Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? American Psychologist 59(1), 20-28, author-hosted full text](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/americanPsychologist.pdf) — the resilience-equilibrium sentence quoted above; the recovery and resilient trajectory definitions in the same opening section
