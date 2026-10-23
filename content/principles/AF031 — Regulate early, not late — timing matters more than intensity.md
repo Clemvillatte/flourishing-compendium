@@ -16,7 +16,7 @@ In their account of emotion regulation effectiveness, Sheppes and Gross contrast
 
 > "For these reasons reappraisal is effective in the context of a low intensity emotional response, but it becomes costly and effortful in the context of a high intensity emotional response." (Sheppes, G., & Gross, J. J. (2012). Emotion Regulation Effectiveness: What Works When. Handbook of Psychology, Second Edition, [DOI](https://doi.org/10.1002/9781118133880.hop205018))
 
-**Plain words** In this framework, the reinterpretation strategy is described as effective when a feeling is small and costly when it is large ([Sheppes & Gross, 2012](https://doi.org/10.1002/9781118133880.hop205018)). The compendium proposes noting when an emotion first becomes noticeable and recording its intensity before deciding what to try — a proposal, not a guarantee.
+**Plain words** The research behind this card is about a fork. While a feeling is still small you can reinterpret what is happening, and that is cheap; once it is at full strength the cheaper move is to look away from the fuel. The practice sits before the fork: catch the feeling early enough that both roads are still open. Note when it first became noticeable and how strong it was, then choose.
 
 **For example:** The person who catches the first warmth of anger at low activation tries reframing it then; the one who first notices at full fury tries the look-away strategy instead. Neither option is guaranteed to work.
 ## Psychology parallels
