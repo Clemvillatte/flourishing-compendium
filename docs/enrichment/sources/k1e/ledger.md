@@ -322,3 +322,12 @@ Enriched: Evidence with two verbatim blockquotes from Wegner's 2011 American Psy
 
 ## K387 — Carry the thought on paper (2026-10-23, worker-pplx-k1e-2a9f)
 Verification pass: the page (already at the bar from a prior worker) quote-checked against freshly opened carriers — Marcks & Woods 2005 via the PubMed efetch (the suppression-distress/acceptance-discomfort sentence verbatim) and Najmi, Riemann & Wegner 2009 via the author-hosted Harvard PDF (downloaded and extracted this session; the M-values passage verbatim against the printed PDF — the extraction renders '=' as '¼', an OCR ligature artifact recorded here; the 'counterproductive technique' claim sentence also verbatim). The Tolin Doing CBT (2nd ed.) exercise-passage citation remains unverified (commercial volume, no reachable carrier) and the page already says so honestly in reader terms. Recorded done.
+
+## K388 — Passengers on the bus (metaphor practice) (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~100-word seed (bare metaphor retelling, no quotes, no Sources section, no Protocol) rebuilt to the K100 model (664 prose words, 3 standalone blockquotes, 7 sections).
+- Carriers opened: UNC Morris 2013 PDF (full Passengers-on-the-Bus text as quoted from Hayes/Strosahl/Wilson 1999 pp. 157-158) — the complete metaphor passage read verbatim; Luoma & Hayes Cognitive Defusion PDF (Kent) — the pp. 157-158 passage with the "driver has control" closing quoted verbatim; PMC3357099 Blackledge — the menacing-passengers sentence quoted verbatim; search results from Cambridge APT, PMC2727477, Johns 2016 KCL confirmed the same text.
+- Quote verbatim verification: all three blockquotes compared word-for-word against the freshly opened carriers; the Luoma/Kent rendering and the UNC/Morris rendering agree on every sentence (differing only in the paraphrase-quote mark style, noted as house practice).
+- Front-matter preserved byte-for-byte. All original Operationalises wikilinks preserved (D055, P041, AF006) and reformatted to K100-model bullets; K115 Related-kernel preserved with a reader-facing how-clause added; the Willingness concept-page link (which does not exist) retargeted into the K115 line per the validator catch.
+- Guided-version note: no recording exists for the metaphor as such; the written Morris (2013) Box 8 form is linked.
+- Customer-facing grep clean; validator ok, 0 failed.
