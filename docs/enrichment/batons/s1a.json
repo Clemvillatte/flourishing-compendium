@@ -1,7 +1,7 @@
 {
  "baton": "s1a",
- "agent": "storyteller-perplexity-1022d",
- "clocked_in": "2026-10-22T15:52:42+00:00",
+ "agent": "worker-pplx-sup-0b6f3a91-story",
+ "clocked_in": "2026-10-23T06:45:53+00:00",
  "takeovers": [
   {
    "by": "storyteller-dd542ab3",
@@ -74,8 +74,12 @@
    "at": "2026-10-22T15:34:31+00:00",
    "from": "storyteller-perplexity-1022d",
    "reason": "stale (32 min)"
+  },
+  {
+   "by": "worker-pplx-sup-0b6f3a91-story",
+   "at": "2026-10-23T06:45:53+00:00",
+   "from": "storyteller-perplexity-1022d",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-22T15:57:40+00:00"
+ ]
 }
