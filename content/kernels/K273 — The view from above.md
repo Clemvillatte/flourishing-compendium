@@ -14,7 +14,7 @@ Imagine yourself from a great height: your city, then your country, then the pla
 
 ### Protocol
 
-1. Generate the ascent in three steps, each held for a few breaths: the street you are on, then the city from above it, then the country, then the planet, with your concern visible at each height, shrinking in context without disappearing.
+1. Generate the ascent in four scales, each held for a few breaths: the street you are on, then the city from above it, then the country, then the planet, with your concern visible at each height, shrinking in context without disappearing.
 2. Select the concern deliberately, one matter, and watch it from each height in turn. The practice is not a blur of everything at once; it is one thing seen four ways.
 3. Retain the proportion, not the numbness: come down with the concern still yours, still to be dealt with, but sized. The exercise fails if the descent erases the care; it succeeds when the care continues at true scale.
 4. Repeat when the concern inflates, the practice replacing the argument with the view. Marcus's sum after the ascent: what happens, accept contentedly; what you do, do justly.

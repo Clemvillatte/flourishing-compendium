@@ -17,7 +17,7 @@ Take a thought that is causing distress. Write down the evidence for it. Then wr
 1. Generate the record while the distress is live or just after, writing the thought in one sentence, exactly as it presents itself, without softening: the accusation, the prediction, the verdict on yourself.
 2. Select the evidence on both sides, for and against, in the form of observable facts only, what was said, what happened, what is recorded. Interpretations are not evidence; each time one appears on the list, move it to the third column, where it belongs.
 3. Write the alternative interpretation in the same one-sentence form, an account of the same evidence that the first thought also fits. The drill does not require the alternative to be kinder; it requires it to fit the facts.
-4. Retain the written record and re-read it when the thought returns. The point is not the one-off insight but the trained reflex, seeing the notion as a notion before assenting to it.
+4. Retain the written record and re-read it when the thought returns. Revisit the record until the notion is seen as a notion before assent.
 
 ### Evidence
 
