@@ -518,3 +518,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Seed Facets section dropped per kernel exemplar pattern; the facet's "Gross 2015 extended process model" citation was not opened and is represented only via the opened study's design. Honesty note: offered-material design, not life-context choice.
 - Mention check run (before this entry): K178 already linked from B170/D024/D034 practice lists and K177; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K334 — Identity script revision (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Adler 2012 (JPSP 102(2):367-389), prospective multiwave study (47 adults, ~600 narratives across 12 assessment points), abstract verified raw via NCBI efetch (PMID 21910554); author read from the efetch header.
+- The blockquote (lagged growth curve sentence) matches the raw efetch text verbatim.
+- Honesty on page: therapy-context writing, no test of solo sentence rewriting, causation outside the study not settled. Inherited "changing the story changes the experience" grounded to the agency-precedes-improvement finding.
+- Mention check run (before this entry): K334 already linked from E008/A001/S130 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
