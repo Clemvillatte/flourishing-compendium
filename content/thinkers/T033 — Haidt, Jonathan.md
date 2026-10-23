@@ -16,7 +16,7 @@ He was raised in a secular Jewish family in Scarsdale, New York, and identified 
 
 ## Their why
 
-The puzzle that runs through his work: people are certain, fast and emotional about right and wrong, and only afterwards produce reasons. His dissertation put the intuition first: what people feel about eating a dog, not what they can argue about it. The cross-cultural work with Shweder kept the question alive: if reasoning were the engine of morality, moral codes would not look so different from place to place.
+The puzzle that runs through his work: people are certain, fast and emotional about right and wrong, and only afterwards produce reasons. His dissertation put the intuition first: what people feel about eating a dog, not what they can argue about it. The postdoctoral years with Shweder turned the question toward how morality differs across cultures ([Wikipedia, Jonathan Haidt](https://en.wikipedia.org/wiki/Jonathan_Haidt)).
 
 ## Their position
 
@@ -37,7 +37,7 @@ The model's core sentence: "moral judgment is generally the result of quick, aut
 
 ## Everything connected in the wiki — the moral-psychology tradition
 
-Kept to the pages that carry or substantively apply Haidt's research — the social intuitionist model, moral foundations, the moral emotions and the awe research. Every principle listed cites his work as research support rather than as a passing parallel.
+Kept to the pages that carry or apply Haidt's research: the social intuitionist model, moral foundations, the moral emotions and the awe research.
 
 ### Principles (24)
 - [[A021 — Practice shame (aidos)|Practice shame (aidos)]]
@@ -83,5 +83,5 @@ Kept to the pages that carry or substantively apply Haidt's research — the soc
 ## Sources
 
 - [Wikipedia, "Jonathan Haidt"](https://en.wikipedia.org/wiki/Jonathan_Haidt) — the biography (New York 1963, Yale philosophy, Penn psychology with the dog-eating dissertation, Shweder postdoc, UVA 1995-2011, NYU Stern 2011, the four books, Ethical Systems and Heterodox Academy, Templeton Prize in Positive Psychology 2001, AAAS 2019) and the descriptions of the social intuitionist model, moral foundations theory (five foundations plus liberty/oppression, MFQ-2), the Disgust Scale, moral elevation, and the elephant-and-rider metaphor.
-- [Haidt, "The emotional dog and its rational tail: a social intuitionist approach to moral judgment", Psychological Review 108(4): 814-834, 2001 — PubMed record](https://pubmed.ncbi.nlm.nih.gov/11699120/) — the abstract sentences quoted verbatim (verified against the NCBI eutils record).
-- [Keltner & Haidt, "Approaching awe, a moral, spiritual, and aesthetic emotion", Cognition and Emotion 17(2): 297-314, 2003 — PubMed record](https://pubmed.ncbi.nlm.nih.gov/29715721/) — the two-appraisals awe sentence quoted verbatim (verified against the NCBI eutils record).
+- [Haidt, "The emotional dog and its rational tail: a social intuitionist approach to moral judgment", Psychological Review 108(4): 814-834, 2001 — PubMed record](https://pubmed.ncbi.nlm.nih.gov/11699120/) — the abstract sentences quoted verbatim.
+- [Keltner & Haidt, "Approaching awe, a moral, spiritual, and aesthetic emotion", Cognition and Emotion 17(2): 297-314, 2003 — PubMed record](https://pubmed.ncbi.nlm.nih.gov/29715721/) — the two-appraisals awe sentence quoted verbatim.
