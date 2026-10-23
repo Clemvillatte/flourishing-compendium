@@ -135,6 +135,12 @@ Repair: connect the title's metaphor to named roots while explicitly distinguish
 
 Independent advisor review completed on the first three repairs, on P087's separate locator check, on the Buddhist/Daoist read-only checks, and on B012/B017/B049. Requested a further four-page advisor check at the ten-item milestone, but that subagent stopped because its service reported credits exhausted. No failed review is being counted as a pass. Main-worker source checks and validation continue; final source/protection checks will be recorded.
 
+## p1s disposition before changing bands
+
+Twelve substantive repairs completed: B012, B017, B030, B049, B078, B096, B113, B114, B126, B141, B150 and B165. The read-only advisor triaged the remaining 23 pages before the last five repairs; eighteen were deliberately left alone because minor stylistic issues did not justify replacing meaningful explanations. No claim that every inherited citation or protected reflection in the band has been certified.
+
+The free p1r baton is the next same-kind role, for the already researched P087 locator/Plain words repair. A stale supervisor baton remains available; this worker will not change supervisor-controlled progress or queues while in a worker role.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.
