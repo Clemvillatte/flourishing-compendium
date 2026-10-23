@@ -51,5 +51,7 @@
    "from": "worker-p1b-pplx-a91f2c03",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-23T13:57:54+00:00"
 }
