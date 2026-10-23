@@ -10,15 +10,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K213** — Prosocial spending
 
-Spend a small amount of money on someone else: a coffee carried to a colleague, a book posted to a friend, a stranger's bus fare. The practice comes from a line of research on how the direction of small spending shapes mood, a line with a notable replication history. Reach for it when a little money is burning a hole in your pocket, or when giving has drifted into abstraction and needs a body.
+Spend a small amount of money on someone else: a coffee carried to a colleague, a book posted to a friend, a stranger's bus fare. The practice comes from research on how the direction of small spending shapes mood, a line with a notable replication history. Reach for it when a little money is burning a hole in your pocket, or when giving has drifted into abstraction and needs a body.
 
 ### Protocol
 
-The steps are this practice's own exercise, assembled from the experiments cited below; the lab gave participants a windfall and a deadline, and this page turns that into a household practice. The practice moves the Overt behaviour and Affect dimensions.
+The steps are assembled from the experiments cited below; the lab gave participants a windfall and a deadline, and this page turns that into a household practice. The practice moves the Overt behaviour and Affect dimensions.
 
-1. Choose a person and a small amount. In the original experiment, participants received an envelope with five or twenty dollars in the morning and spent it by 5 p.m.; in that experiment the size of the sum showed no significant effect and the direction did. Editorial addition, not from the carriers: start with an amount whose loss you would not notice.
-2. Spend it on a specific other person by the end of the day, and keep what you did plain: a purchase, a gift, a paid fare. The evidence concerns money spent to benefit others, not donations of time.
-3. Editorial addition, not from the carriers: notice the effect once, without turning the noticing into the goal. One round is one round; the practice is repeatable by nature.
+1. Choose a person and a small amount. In the original experiment, participants received five or twenty dollars in the morning and spent it by 5 p.m.; the size of the sum showed no significant effect and the direction did. Editorial addition: start with an amount whose loss you would not notice.
+2. Spend it on a specific other person by day's end, and keep what you did plain: a purchase, a gift, a paid fare. The evidence concerns money spent to benefit others, not donations of time.
+3. Editorial addition: notice the effect once, without turning the noticing into the goal. One round is one round; the practice is repeatable by nature.
 
 ### Evidence
 
@@ -38,7 +38,7 @@ The replication record matters here. A close 2022 replication of the windfall ex
 
 ### A guided version
 
-A research-team-designed exercise exists, published as a teaching activity: the [prosocial spending classroom activity by Aknin and Dunn](https://www.psychologicalscience.org/observer/teaching-current-directions-in-psychological-science-11). Rate your happiness now; spend five minutes vividly re-experiencing the last time you spent about twenty dollars on someone else ("think about how you felt at the time the event occurred and what led to those feelings"); rate your happiness again and take the difference. The authors built it with random assignment, red-paper versus green-paper envelopes and all, so a solo runner keeps the two ratings and the essay.
+A research-team-designed exercise exists: the [prosocial spending teaching activity by Aknin and Dunn](https://www.psychologicalscience.org/observer/teaching-current-directions-in-psychological-science-11). Rate your happiness; spend five minutes vividly re-experiencing the last time you spent about twenty dollars on someone else; rate it again and take the difference.
 
 ## Facets
 
