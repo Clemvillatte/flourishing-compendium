@@ -5,7 +5,8 @@
   "Viktor Frankl",
   "Immanuel Kant",
   "Bandura",
-  "Daniel Kahneman"
+  "Daniel Kahneman",
+  "Aaron Beck"
  ],
  "in_progress": null,
  "flagged": {
@@ -24,6 +25,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:18:25+00:00",
+ "updated": "2026-10-23T06:24:46+00:00",
  "band_done": false
 }
