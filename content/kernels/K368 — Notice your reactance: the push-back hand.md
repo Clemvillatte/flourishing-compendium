@@ -40,7 +40,15 @@ And the authors' caution about unsolicited advice:
 > "The more emphatic or authoritarian the advice, the more likely it is to evoke a pushback. Most people simply don’t like receiving unsolicited advice, although fewer mind giving it."
 > — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
-What the sources do not test: these passages are the MI account of reactance and advice; the palm-pushing demo itself is a teaching illustration, and neither passage evaluates this noticing exercise.
+The palm-pushing demo, in a published facilitation account:
+
+> "In almost all cases, as the shorter person pushed, their partner pushed back, ostensibly to avoid being pushed over. Naturally, the shorter person then asserted their role and pushed even harder, which of course, caused their taller partner to dig their heels in and push back even more, etc, etc."
+> — [Mark Collard, "If You Meet Resistance, Stop Pushing", playmeo](https://www.playmeo.com/if-you-meet-resistance-stop-pushing/)
+
+> "The workshop facilitator, Will Dobud, then connected this to the experience of what happens when we, as group facilitators and program leaders, push people. They almost always push back. His advice: when you meet resistance, stop pushing."
+> — [same source](https://www.playmeo.com/if-you-meet-resistance-stop-pushing/)
+
+What the sources do not test: these passages are the MI account of reactance and advice; the palm-pushing demo itself is a teaching illustration, and neither passage evaluates this noticing exercise. The palm-pushing demo is carried in published facilitation/training practice (see the playmeo account above), not just in the commercial Guilford volume.
 
 ## Operationalises
 
@@ -55,6 +63,7 @@ What the sources do not test: these passages are the MI account of reactance and
 
 - [[Psychological reactance]] — the construct the push-back hand is a felt instance of.
 - [[Motivational interviewing]] — the research tradition the righting reflex and freedom-of-choice passages come from.
+- [[Autonomy]] — the need the reactance protects; why constrained choice meets push-back.
 
 ## Related kernels
 
@@ -63,3 +72,4 @@ What the sources do not test: these passages are the MI account of reactance and
 ## Sources
 
 - [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+- [Collard, M. — "If You Meet Resistance, Stop Pushing", playmeo](https://www.playmeo.com/if-you-meet-resistance-stop-pushing/)
