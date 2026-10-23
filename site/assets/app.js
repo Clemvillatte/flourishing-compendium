@@ -2277,6 +2277,13 @@ function updateFavUI() {
 }
 
 /* ---------- pool & draw ---------- */
+// "LAYER IV — WORKING WITH THE MIND" -> "IV · Working with the mind"
+function layerShort(c) {
+  const m = /^LAYER\s+([IVXLC\d]+)\s*[\u2014\u2013-]\s*(.+)$/i.exec(String(c || '').trim());
+  if (!m) return String(c || '');
+  const t = m[2].toLowerCase();
+  return m[1].toUpperCase() + ' \u00b7 ' + t.charAt(0).toUpperCase() + t.slice(1);
+}
 function buildPool() {
   pool = [];
   RBOOKS.forEach((b, bi) => b.e.forEach((e, ei) => {
@@ -2285,7 +2292,7 @@ function buildPool() {
   }));
   bag = []; lastIdx = -1;
   $r('poolNote').textContent = pool.length
-    ? pool.length.toLocaleString() + ' in the current pool' + (bookFilter === -2 ? ' · saved only' : '') + ' \u00b7 no repeats until it cycles'
+    ? pool.length.toLocaleString() + ' in the pool' + (bookFilter === -2 ? ' \u00b7 saved only' : '') + ' \u00b7 no repeats until all are seen'
     : 'No entries in the current pool';
   const mixed = enabledTypes.size > 0;
   document.querySelector('.draw-label').textContent = mixed ? 'Draw an entry' : 'Draw a principle';
@@ -2357,14 +2364,13 @@ function render() {
 
   const parts = [];
   parts.push('<div class="card-meta">');
-  if (entry.wiki) parts.push('<div class="eyebrow">' + resc(kind) +
-    (entry.categories.size ? ' · ' + resc([...entry.categories].map(i => MODEL.categories[i].label).join(' · ')) : ' · Shared library') + '</div>');
-  else parts.push('<div class="eyebrow"><a class="wlink" data-wiki="' + resc(book.volFile) + '">' +
-    resc(book.vol) + '</a> \u00b7 <a class="wlink" data-wiki="' + resc(book.bookFile) + '">' +
+  if (entry.wiki) parts.push('<div class="eyebrow"' + (entry.categories.size > 2 ? ' title="' + resc([...entry.categories].map(i => MODEL.categories[i].label).join(' · ')) + '"' : '') + '>' + resc(kind) +
+    (entry.categories.size ? ' · ' + resc([...entry.categories].slice(0, 2).map(i => MODEL.categories[i].label).join(' · ')) +
+      (entry.categories.size > 2 ? ' +' + (entry.categories.size - 2) : '') : ' · Shared library') + '</div>');
+  else parts.push('<div class="eyebrow" title="' + resc(book.vol) + '"><a class="wlink" data-wiki="' + resc(book.bookFile) + '">' +
     resc(book.book) + '</a>' +
-    (entry.c ? '<br><span class="layername">' + resc(entry.c) + '</span>' : '') + '</div>');
-  parts.push('<div class="meta-right"><span class="counter">Pool position ' +
-    pos.toLocaleString() + ' of ' + ofTotal.toLocaleString() + '</span>' +
+    (entry.c ? '<span class="layername">' + resc(layerShort(entry.c)) + '</span>' : '') + '</div>');
+  parts.push('<div class="meta-right" title="Position in the current pool: ' + pos.toLocaleString() + ' of ' + ofTotal.toLocaleString() + '">' +
     '<button class="fav-btn" id="favBtn" type="button" aria-pressed="false">\u2606 Save</button></div>');
   parts.push('</div>');
   parts.push('<div class="principle-num">' + (entry.wiki ? resc(kind) : entry.w ? resc(entry.w) : 'No. ' + entry.n) + '</div>');
@@ -2673,7 +2679,7 @@ function rebuildLayerOptions() {
   });
   const opts = ['<option value="">All layers</option>'];
   seen.forEach((count, c) => {
-    opts.push('<option value="' + resc(c) + '">' + resc(c) + ' (' + count + ')</option>');
+    opts.push('<option value="' + resc(c) + '">' + resc(layerShort(c)) + ' (' + count + ')</option>');
   });
   sel.innerHTML = opts.join('');
   sel.disabled = false;
@@ -2724,7 +2730,10 @@ function init() {
     filtersChanged();
   });
   $r('drawBtn').addEventListener('click', draw);
-  $r('drawBtnTop').addEventListener('click', draw);
+  $r('drawBtnTop').addEventListener('click', () => {
+    document.body.classList.remove('rand-filters-open'); // phone: close the Filters sheet so the new card leads
+    draw();
+  });
   $r('prevBtn').addEventListener('click', () => navHistory(-1));
   $r('nextBtn').addEventListener('click', () => navHistory(1));
   $r('todayBtn').addEventListener('click', todaysPrinciple);
