@@ -7,7 +7,9 @@ file: "Ziran (naturalness)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-Z"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter Z", "parent": ""}
 ---
-Ziran (自然) literally means "self-so" or "so-of-itself" — it is the Daoist term for spontaneity and naturalness: the condition of a thing being what it is without external compulsion ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). The compound combines zi (自, "self") and ran (然, "so" or "thus"), so the word names what is the case of itself, without being done by anyone or for a purpose. The concept receives its most famous formulation in chapter 25 of the Daodejing, in a chain that ends the text's account of what takes its model from what: the human takes earth as its model, earth takes heaven, heaven takes the Dao, and the Dao takes ziran as its model ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). The ultimate itself does not impose but lets things be as they are ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)).
+Ziran (自然) literally means "self-so" or "so-of-itself" — it is the Daoist term for spontaneity and naturalness: the condition of a thing being what it is without external compulsion ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). The compound combines zi (自, "self") and ran (然, "so" or "thus"), so the word names what is the case of itself, without being done by anyone or for a purpose. The concept receives its most famous formulation in chapter 25 of the Daodejing, in a chain that ends the text's account of what takes its model from what: the human takes earth as its model, earth takes heaven, heaven takes the Dao, and the Dao takes ziran as its model ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). The ultimate itself does not impose but lets things be as they are ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). Legge's rendering of the chain's last link:
+
+> "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is." (Daodejing 25, [Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
 ## What it is NOT
 
@@ -31,6 +33,8 @@ Two habits follow. First, notice when an action is being forced by external comm
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 - [[D055]] — naturalness and nonaction in the SEP Laozi discussion
 ## Sources
+
+- [Daodejing, trans. James Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 25 quoted verbatim
 
 
 - [Divinity Atlas — Ziran](https://www.divinityatlas.com/doctrines/ziran)
