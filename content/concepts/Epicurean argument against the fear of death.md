@@ -29,7 +29,7 @@ The premise is sentience: "good and evil imply the capacity for sensation, and d
 
 ## Related concepts
 
-- [[S103]] — listed for comparison
+- [[S103]] — the principle the argument grounds
 
 ## Sources
 

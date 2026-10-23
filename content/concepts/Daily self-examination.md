@@ -22,7 +22,7 @@ The three points are relational: faithfulness in work done for others, sincerity
 
 ## Related concepts
 
-- [[S065]] — listed for comparison
+- [[S065]] — the principle the daily practice operationalises
 - [[Self-examination]] — the Stoic practice the same habit feeds
 - [[The evening review]] — Seneca's nightly version of the audit
 - [[The examined life]] — the Socratic demand the habit serves

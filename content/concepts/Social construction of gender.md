@@ -29,8 +29,8 @@ The principles listed (E078, SO013, SO045, AF009 and ST253) draw on construction
 
 ## Related concepts
 
-- [[Social identity theory]] — listed for comparison
-- [[Social constructivist theory]] — listed for comparison
+- [[Social identity theory]] — the account of identity drawn from group membership
+- [[Social constructivist theory]] — the general theory gender construction applies
 
 ## Sources
 

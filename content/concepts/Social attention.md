@@ -26,9 +26,9 @@ The principles listed (R070, AT062, K355, K248 and others) use social attention 
 ## Related concepts
 
 
-- [[Attention]] — listed for comparison
-- [[Attention management]] — listed for comparison
-- [[Mindful attention]] — listed for comparison
+- [[Attention]] — the parent construct social attention is a share of
+- [[Attention management]] — the practical regulation of the same resource
+- [[Mindful attention]] — the trained, non-judgmental mode of the same capacity
 - [[AT009]] — The principle stating that gaze both steers and couples attention between people, listed alongside the social-media attention principle
 ## Sources
 

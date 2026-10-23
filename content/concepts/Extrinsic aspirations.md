@@ -40,9 +40,9 @@ These are mainly correlational and self-report studies. The meta-analysis found 
 
 ## Related concepts
 
-- [[Intrinsic versus extrinsic goals]] — listed for comparison
-- [[Materialism]] — listed for comparison
-- [[Self-determination]] — listed for comparison
+- [[Intrinsic versus extrinsic goals]] — the goal taxonomy extrinsic aspirations sit on the wrong side of
+- [[Materialism]] — the value orientation extrinsic aspirations feed
+- [[Self-determination]] — the needs theory that predicts the aspirations' costs
 
 ## Sources
 

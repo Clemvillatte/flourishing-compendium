@@ -29,9 +29,9 @@ AF002 (Distinguish the feeling from its interpretation) cites this page as its p
 
 ## Related concepts
 
-- [[Reappraisal's effectiveness depends on controllability]] — listed for comparison
-- [[Cognitive reappraisal]] — listed for comparison
-- [[Affect labeling]] — listed for comparison
+- [[Reappraisal's effectiveness depends on controllability]] — the sister boundary condition on the same strategy
+- [[Cognitive reappraisal]] — the strategy whose boundary conditions these pages map
+- [[Affect labeling]] — the neighboring strategy that works by naming rather than reframing
 
 ## Sources
 

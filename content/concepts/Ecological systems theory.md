@@ -26,12 +26,12 @@ The compendium uses the nesting as a lens for practice: the individual's work is
 - [[SO002 — Treat the person as embedded in nested systems]] — the principle version of the theory
 - [[R116 — Practise ecological embeddedness]] — the practice counterpart
 - [[ST210 — Hierocles's Circles]] — a nested-circles picture from Stoicism
-- [[R110 — Practise capabilities]] — listed for comparison
-- [[R109 — Practise social justice]] — listed for comparison
-- [[SE065 — Learn self-actualization — become who you are capable of being]] — listed for comparison
-- [[SP010 — Know yourself as striving]] — listed for comparison
-- [[A057 — Know that akrasia is not invincible]] — listed for comparison
-- [[E109 — Practise the overman (Übermensch)]] — listed for comparison
+- [[R110 — Practise capabilities]] — the capabilities approach that takes these systems as its setting
+- [[R109 — Practise social justice]] — the justice principle that reads the same layered systems
+- [[SE065 — Learn self-actualization — become who you are capable of being]] — the growth account that presupposes a sustaining environment
+- [[SP010 — Know yourself as striving]] — the organism-environment framing these systems describe
+- [[A057 — Know that akrasia is not invincible]] — the habit-training principle that environment design serves
+- [[E109 — Practise the overman (Übermensch)]] — the self-overcoming ideal these systems condition
 
 ## Field
 

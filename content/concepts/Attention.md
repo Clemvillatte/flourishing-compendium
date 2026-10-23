@@ -45,7 +45,7 @@ The concept anchors the attention track: AT054 trains attention through delibera
 - [[Care]] — Weil and Noddings both make attention the substance of care
 - [[Mindful attention]] — the underlying capacity being trained
 - [[E002]] — E002's parallels cite attention-as-selection research (Posner and Petersen, 1990)
-- [[AT001]] — listed for comparison
+- [[AT001]] — the attention principle this research page grounds
 - [[The discipline of attention]] — Weil’s account of attention in study, prayer, and attention to a sufferer.
 - [[X017]] — devotional attention to intention and conduct
 ## Sources

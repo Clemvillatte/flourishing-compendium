@@ -17,7 +17,7 @@ The Greek behind it is praus, the word for a horse trained to the bit or a wind 
 
 The concept sits in the wiki because it states a structural claim several traditions reach independently: the yielding posture wins in the long run. The Daoist version is the Daodejing's water model, "there is nothing in the world more soft and weak than water, and yet for attacking things that are firm and strong there is nothing that can take precedence of it" ([DDJ 78, Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)), which Prefer the soft to the hard (D011) develops into a practice. The psychological neighbour is [[Psychological flexibility]], where Kashdan and Rottenberg's review frames adaptability as a fundamental aspect of health ([PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2998793/)).
 
-- [[D011]] — D011's philosophy parallels list this Gospel saying
+- [[D011]] — the Daoist principle the saying's lowliness shares a family with
 - [[D114 — Don't contend (buzheng)]] — the Daoist refusal of contention
 - [[Gentleness (praotes)]] — the fruit-of-the-Spirit virtue closest to the Greek word
 - [[Gentleness as strength]] — the La Rochefoucauld line of the same claim
@@ -31,7 +31,7 @@ The concept sits in the wiki because it states a structural claim several tradit
 
 ## Related concepts
 
-- [[D011]] — D011's philosophy parallels list this Gospel saying
+- [[D011]] — the Daoist principle the saying's lowliness shares a family with
 - [[D114 — Don't contend (buzheng)]] — the Daoist refusal of contention
 
 ## Sources

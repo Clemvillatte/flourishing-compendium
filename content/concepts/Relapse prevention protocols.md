@@ -37,10 +37,10 @@ The overview reports mixed results. In the large Relapse Replication and Extensi
 ## Related concepts
 
 
-- [[Stress inoculation training]] — listed for comparison
+- [[Stress inoculation training]] — the exposure-based cousin of relapse prevention
 - [[Urge surfing]] — one of the urge-management techniques the overview describes
-- [[Self-efficacy]] — listed for comparison
-- [[Transtheoretical model (Prochaska & DiClemente)]] — listed for comparison
+- [[Self-efficacy]] — the belief construct the protocols aim to restore
+- [[Transtheoretical model (Prochaska & DiClemente)]] — the stages-of-change framework the protocols sit inside
 - [[Neurobiology of addiction]] — a three-stage neurocircuitry account of addiction
 ## Sources
 

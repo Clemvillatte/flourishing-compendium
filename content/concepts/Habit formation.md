@@ -67,7 +67,7 @@ Because the association is with context rather than goals, habit formation works
 - [[Habit stacking]] — anchoring a new behaviour to an existing routine as context-cue design
 - [[Context-dependent behaviour (Wood & Neal)]] — the model this page summarises
 - [[Behavioural chaining (applied behaviour analysis)]] — everyday routines as habit chains
-- [[Education as growth]] — listed for comparison
+- [[Education as growth]] — the Deweyan account of learning as reorganization the habit literature echoes
 - [[Y070]] — the three conditions of sutra 1.14, a long time, without interruption, with earnest attention, are the Yoga-Vedanta form of this page's consistency finding
 - [[MO042]] — A principle on displacing an unwanted habit with a new response to the same cue
 - [[MO043]] — A principle on the role immediate rewards play in sustaining the repetitions that form habits

@@ -18,9 +18,9 @@ The theory posits that people hold specific behavioral freedoms, and when a free
 
 ## Related concepts
 
-- [[Attachment research on autonomy-granting]] — listed for comparison
-- [[Achievement motivation theory]] — listed for comparison
-- [[Escape from freedom]] — listed for comparison
+- [[Attachment research on autonomy-granting]] — the developmental research on what autonomy-support does
+- [[Achievement motivation theory]] — the achievement-side account of the same need
+- [[Escape from freedom]] — Fromm's account of fleeing the very autonomy reactance defends
 
 ## Sources
 
