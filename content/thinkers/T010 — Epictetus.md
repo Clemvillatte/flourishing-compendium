@@ -1,15 +1,15 @@
 ---
 schema: 0
-id: "T004"
+id: "T010"
 type: "thinker"
 title: "Epictetus"
-file: "T004 — Epictetus"
+file: "T010 — Epictetus"
 tags: ["person", "track/philosophy"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter E", "parent": ""}
 ---
 
-> **Thinker T004** — Epictetus (c. 50–135 CE), Greek Stoic philosopher; born enslaved in Hierapolis, taught at Rome, exiled to Nicopolis; he wrote nothing, and his teaching survives in Arrian's Discourses and Encheiridion.
+> **Thinker T010** — Epictetus (c. 50–135 CE), Greek Stoic philosopher; born enslaved in Hierapolis, taught at Rome, exiled to Nicopolis; he wrote nothing, and his teaching survives in Arrian's Discourses and Encheiridion.
 
 ## Personal story / context
 

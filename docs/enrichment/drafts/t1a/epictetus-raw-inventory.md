@@ -12,7 +12,7 @@ Inventory for Epictetus (191 entries):
 - [[AF034 — Cultivate equanimity — the capacity to remain steady amid affect|Cultivate equanimity: the capacity to remain steady amid affect]]
 - [[AF038 — Know when to stop regulating and start acting|Know when to stop regulating and start acting]]
 - [[AF040 — Distinguish accepting a feeling from accepting a circumstance|Distinguish accepting a feeling from accepting a circumstance]]
-- [[AT004 — Understand that attention can be captured (bottom-up) or directed (top-down)|Understand that attention can be captured (bottom-up) or directed (top-down)]]
+- [[AT010 — Understand that attention can be captured (bottom-up) or directed (top-down)|Understand that attention can be captured (bottom-up) or directed (top-down)]]
 - [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice|Recognise attentional bias: anxiety and depression distort what you notice]]
 - [[AT071 — Recognise depression's effect on attention — negative bias and rumination|Recognise depression's effect on attention: negative bias and rumination]]
 - [[B007 — Trust that the fires can cool here and now (nibbana)|Trust that the fires can cool here and now (nibbana)]]
