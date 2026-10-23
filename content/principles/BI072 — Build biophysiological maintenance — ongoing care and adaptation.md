@@ -22,6 +22,10 @@ The same abstract names the maintenance behaviours, verbatim: "As an adjunct to 
 
 *For example:* The runner who becomes a swimmer who becomes a walker: same body, three eras, each with its own servicing schedule. The routine is the current version, not the finished one.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined life as ongoing practice (Apology 38a), the page's grounding for ongoing care.
+
 ## Sources
 
 - [McEwen, "Physiology and neurobiology of stress and adaptation: central role of the brain" (2007), Physiological Reviews 87(3), 873-904](https://pubmed.ncbi.nlm.nih.gov/17615391/) — abstract quoted verbatim; allostatic load, allostasis, and behavioural maintenance

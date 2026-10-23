@@ -23,6 +23,10 @@ Knowing what an error is and checking for it in your own answer are separate tas
 *For example:*
 As a hypothetical application, imagine favouring a job applicant after a confident opening. Before deciding, list another explanation for that confidence and identify a question that could test your impression.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-method parallel: intention alone is not examination.
+
 ## Sources
 
 - [Morewedge, Yoon, Scopelliti, Symborski, Korris & Kassam (2015), Debiasing decisions: improved decision making with a single training intervention, Policy Insights from the Behavioral and Brain Sciences 2(1):129-140](https://openaccess.city.ac.uk/id/eprint/12324/1/Debiasing_Decisions_PIBBS.pdf)

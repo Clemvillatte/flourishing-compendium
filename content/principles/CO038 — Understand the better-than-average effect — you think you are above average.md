@@ -27,6 +27,10 @@ For an entire comparison group, more than half cannot rank strictly above that g
 ### For example
 
 Suppose you describe yourself as an unusually safe driver. In a refresher lesson, you could ask an instructor for specific observations rather than treating your self-description as the assessment.
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-self-assessment parallel the page draws.
+
 ## Psychology parallels
 
 - **[[Better-than-average effect / illusory superiority|Better-than-average effect / illusory superiority]]**, most people rate themselves above average (Svenson, 1981; Dunning et al., 1989)

@@ -26,6 +26,10 @@ On treatment, a randomised trial of 42 people with medication-refractory residua
 
 *For example:* Someone replays a difficult conversation for the tenth night. On the eleventh they write down one thing they will say differently next time and then do something else, which is the move from brooding toward problem solving.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-vs-rumination contrast the page draws: examination turns, rumination circles.
+
 ## Sources
 
 - [Nolen-Hoeksema (1991), J Abnorm Psychol 100(4), 569-582](https://pubmed.ncbi.nlm.nih.gov/1757671/) — PubMed abstract opened

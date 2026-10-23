@@ -27,6 +27,10 @@ A review of memory-specificity training found short-term benefits, but advantage
 ### For example
 
 Suppose you catch yourself saying that every meeting goes badly. You could examine one recent meeting, including what you contributed, what was difficult and what remains uncertain.
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-in-detail parallel the page draws for specific memories.
+
 ## Psychology parallels
 
 - **[[Overgeneral autobiographical memory (OGM)|Overgeneral autobiographical memory (OGM)]]**: an updated meta-analysis found generally small associations with the course of depressive symptoms ([Hallford et al., 2021, abstract](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/overgeneral-and-specific-autobiographical-memory-predict-the-course-of-depression-an-updated-metaanalysis/AEB0FBD32C2538CF4468E6A364931733)).

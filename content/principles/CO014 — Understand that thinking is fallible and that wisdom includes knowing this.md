@@ -33,6 +33,10 @@ Knowing that thinking is fallible is not a guarantee of better thinking, and the
 
 *For example:* Imagine you are asked to give a range for how long a project will take. Before settling on one, list three ways it could take far longer. That is an informal cousin of what the experiments above did by making people consider every outcome. The study did not test this exact trick.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the oracle at Delphi (Apology 21d): the wisdom that knows it does not know.
+
 ## Psychology parallels
 
 - **Intellectual humility**, the degree to which people recognise their beliefs might be wrong, was linked to openness, curiosity and low dogmatism in four studies (Leary et al., 2017). [Abstract](https://dukespace.lib.duke.edu/items/1c8163dc-6138-4f57-a841-b8b2c36a4617)

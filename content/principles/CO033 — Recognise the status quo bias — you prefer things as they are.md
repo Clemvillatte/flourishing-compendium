@@ -21,6 +21,10 @@ Ask whether you favour an option for its features or because you already have it
 
 *For example:* An imagined chooser compares two health plans without seeing which one they currently hold, then checks whether learning that detail changes their preference.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the questioning-of-inherited-beliefs parallel the page draws from the Apology.
+
 ## Sources
 
 - [Samuelson & Zeckhauser, "Status quo bias in decision making," Journal of Risk and Uncertainty 1(1): 7-59 (1988)](https://rzeckhauser.scholars.harvard.edu/sites/g/files/omnuum4441/files/rzeckhauser/files/status_quo_bias_in_decision_making.pdf) — abstract (Harvard-hosted PDF opened)

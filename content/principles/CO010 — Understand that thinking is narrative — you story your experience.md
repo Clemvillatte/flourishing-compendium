@@ -25,6 +25,7 @@ Everybody explains their life to themselves as a running story: what happened, w
 A failed course told as "my plans always collapse" leads to not signing up again. The same failure told as "I attempted something hard and learned what broke" leads to a second attempt with the fix. The facts did not change; the story picked the next move.
 
 ## Related concepts
+- [[T011 — Socrates]]: the examined-life-as-a-story parallel the page draws.
 
 - [[SE035]] — listed for comparison
 

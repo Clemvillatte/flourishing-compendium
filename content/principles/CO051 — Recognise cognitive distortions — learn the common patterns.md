@@ -28,6 +28,10 @@ Some mistakes in thinking come in recognisable shapes. When you can name the sha
 **For example**
 After a flat meeting you think "I'm useless here." Ask "What was just going through my mind?" The answer is a label and a prediction. Next, write down what actually happened and two other explanations, such as tired colleagues or an unclear brief.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding the page gives for naming distorted patterns.
+
 ## Sources
 
 - [Beck, Thinking and depression: II. Theory and therapy, Archives of General Psychiatry 10(6) (1964), pp. 561-571, archive.org full text](https://archive.org/stream/ThinkingAndDepressionTheoryAndTherapy/Thinking%20and%20depression-%20theory%20and%20therapy_djvu.txt): p. 561 (systematic errors), p. 569 (evidence, logic, thinking versus believing); opened and text-checked

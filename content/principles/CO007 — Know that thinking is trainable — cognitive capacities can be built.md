@@ -23,6 +23,10 @@ Modern research on cognitive training adds a qualification Aristotle does not ad
 
 *For example:* Imagine someone who wants to write better at work: instead of downloading a working-memory training app, they practise writing a short argument each day and have someone read it and say where it lost them. What they are practising is the actual activity they want to improve, and the feedback is the part of the practice that tells them whether it is working.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding the page gives trainable thinking.
+
 ## Psychology parallels
 
 - Working-memory training produces short-term, specific training effects that do not generalize to measures of "real-world" cognitive skills (Melby-Lervåg, Redick & Hulme, 2016, meta-analysis of 87 publications)

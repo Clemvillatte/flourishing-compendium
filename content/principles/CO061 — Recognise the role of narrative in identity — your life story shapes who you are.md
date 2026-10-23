@@ -26,6 +26,10 @@ The entry's specific "redemption" and "contamination" claims (McAdams et al., 20
 
 *For example:* After a job loss, someone tells it first as something that happened to them. Months later, the same facts appear in a version that includes what they did next.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-as-a-story parallel the page draws for narrative identity.
+
 ## Sources
 
 - [Adler (2012), J Pers Soc Psychol 102(2), 367-389](https://pubmed.ncbi.nlm.nih.gov/21910554/) — PubMed abstract opened

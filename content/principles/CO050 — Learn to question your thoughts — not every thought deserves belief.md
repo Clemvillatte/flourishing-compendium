@@ -27,6 +27,10 @@ What the Buddhist instruction describes is a specific act of recognition — nam
 
 *For example:* Imagine someone who notices the thought "I always get this wrong" arriving after a mistake. Instead of accepting it, they ask what the evidence is: one error this week against several tasks that went fine. Reading the same facts differently, the thought changes from "I always get this wrong" to "I got this one wrong"; the first is an unsupported generalisation, and the second is the one the evidence actually supports.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) for questioning your own thoughts.
+
 ## Psychology parallels
 
 - **[[Cognitive restructuring|Cognitive restructuring in CBT]]**, the evidence-checking procedure of the thought record (Beck Institute)

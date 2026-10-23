@@ -318,11 +318,23 @@
   "content/principles/BI062 — Learn to track physiological states — HRV, sleep, energy.md",
   "content/principles/BI064 — Recognise medication effects on mood — side effects matter.md",
   "content/principles/BI069 — Recognise sleep disorders as medical conditions — apnea, insomnia, circadian.md",
-  "content/principles/BI071 — Learn to assess and monitor biophysiological health — regular check-ups.md"
+  "content/principles/BI071 — Learn to assess and monitor biophysiological health — regular check-ups.md",
+  "content/principles/BI072 — Build biophysiological maintenance — ongoing care and adaptation.md",
+  "content/principles/CO007 — Know that thinking is trainable — cognitive capacities can be built.md",
+  "content/principles/CO010 — Understand that thinking is narrative — you story your experience.md",
+  "content/principles/CO014 — Understand that thinking is fallible and that wisdom includes knowing this.md",
+  "content/principles/CO027 — Learn debiasing — it is possible but hard.md",
+  "content/principles/CO033 — Recognise the status quo bias — you prefer things as they are.md",
+  "content/principles/CO038 — Understand the better-than-average effect — you think you are above average.md",
+  "content/principles/CO046 — Recognise rumination as a distinct and maladaptive cognitive mode.md",
+  "content/principles/CO050 — Learn to question your thoughts — not every thought deserves belief.md",
+  "content/principles/CO051 — Recognise cognitive distortions — learn the common patterns.md",
+  "content/principles/CO061 — Recognise the role of narrative in identity — your life story shapes who you are.md",
+  "content/principles/CO062 — Understand autobiographical memory specificity — specific memories are healthier than general ones.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:23:28+00:00",
+ "updated": "2026-10-23T14:23:43+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }
