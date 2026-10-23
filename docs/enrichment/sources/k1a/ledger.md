@@ -425,3 +425,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Inherited "Indigenous SEWB frameworks treat custodianship as protective" grounded to the study's findings with the causal-direction caveat the authors themselves make; urban extension stated as the practice form, and the non-interchangeability of the Indigenous frameworks noted.
 - Mention check run: K300 already linked from R011/R012/R015 and the Stewardship concept; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K307 — Body-schema noticing (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Pazzaglia, Galli, Scivoletto & Molinari 2013 (PLoS One 8(3):e58312), PCA of structured reports from 55 wheelchair users with SCI, abstract verified raw via NCBI efetch (PMID 23484015).
+- The blockquote (body's edges sentence) matches the raw efetch text verbatim.
+- Honesty on page: wheelchair-user reports, not a noticing practice; confident/anxious sizing stated as the practice's own phenomenology, not a finding. Sibling K308 uses Cardinali 2012; carrier deliberately different.
+- Mention check run: K307 already linked from A053/E003/E004/E005 practice lists and K308; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
