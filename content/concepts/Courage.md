@@ -32,7 +32,7 @@ SP065's acting from strength rather than fear is a modern echo of Aristotle's no
 - [[Vulnerability]] — the openness that fear guards and courage spends
 - [[Hope]] — paired with suffering in the compendium's courage principle
 - [[Shame]] — the citizen-soldier's motive, courage's nearest counterfeit
-- [[D172]] — D172's psychology parallels list the courage research separating fearlessness from courage; the Courage concept page's cited-in lists do not include D172
+- [[D172]] — courage that runs alongside a reading of the situation, not fearlessness alone: the principle treats courage as acting with an assessment of danger rather than in ignorance of it
 ## Sources
 
 - [Aristotle, Nicomachean Ethics III.6-9, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)

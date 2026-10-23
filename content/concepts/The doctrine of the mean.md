@@ -39,7 +39,7 @@ The misunderstanding to avoid is that the mean is mediocrity or moderation-for-i
 
 - [[Virtue]] — each virtue as a mean between two vices
 - [[B084]] — B084's philosophy parallels list this as the mean-as-corrective (Aristotle, NE II)
-- [[D172]] — D172's philosophy parallels list courage as the mean between rashness and cowardice; the doctrine-of-the-mean concept page's cited-in lists do not include D172
+- [[D172]] — courage is this doctrine's stock example: the mean between rashness and cowardice
 ## Sources
 
 - Aristotle, Nicomachean Ethics II
