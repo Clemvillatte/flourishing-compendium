@@ -51,7 +51,6 @@
   "Survivorship bias",
   "System 1 and System 2",
   "Taxonomy of mental motions",
-  "Te Whare Tapa Whā",
   "Temperament-environment fit",
   "Temporality (Zeitlichkeit)",
   "The Axial Age",
@@ -67,7 +66,8 @@
   "Transactive memory systems",
   "Sparse speech",
   "Stigma research",
-  "Source credibility research"
+  "Source credibility research",
+  "Te Whare Tapa Whā"
  ],
  "in_progress": null,
  "flagged": {
@@ -106,10 +106,11 @@
   "Source credibility research": "Reopened for QC: QC routing 2026-10-23: prose-short seed (123w) below the 150-word bar; expansion to bar",
   "TRACE model of speech perception": "Reopened for QC: milestone QC repairs round 3",
   "Sparse speech": "Reopened for QC: QC routing 2026-10-23: prose-short seed (132w) below the 150-word bar; expansion to bar",
-  "Stigma research": "Reopened for QC: QC routing 2026-10-23: prose-short seed (132w) below the 150-word bar; expansion to bar"
+  "Stigma research": "Reopened for QC: QC routing 2026-10-23: prose-short seed (132w) below the 150-word bar; expansion to bar",
+  "Te Whare Tapa Whā": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:13:51+00:00",
+ "updated": "2026-10-23T06:19:14+00:00",
  "band_done": false
 }

@@ -7,7 +7,7 @@ file: "Te Whare Tapa Whā"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Te Whare Tapa Whā is the Māori model of health that pictures wellbeing as a wharenui, a meeting house with four walls, developed by Tā Mason Durie. New Zealand's Ministry of Health describes it this way:
+Te Whare Tapa Whā is the Māori model of health that pictures wellbeing as a wharenui, a meeting house with four walls, developed by Tā Mason Durie. The image carries the argument: a house needs all four walls standing, and so does a person. New Zealand's Ministry of Health describes it this way:
 
 > "Te Whare Tapa Whā uses the wharenui (meeting house) as a symbol for the 4 cornerstones of Māori health. With its strong foundations and 4 equal sides, the wharenui illustrates the 4 dimensions of Māori wellbeing. If one of the 4 dimensions is missing or damaged in some way, a person or collective may become 'unbalanced' and subsequently unwell." ([Ministry of Health NZ](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha))
 
@@ -21,6 +21,8 @@ Each wall is a capacity, in the ministry's wording:
 - Taha hinengaro, mental health: "the capacity to communicate, to think and to feel mind and body are inseparable".
 
 ([Ministry of Health NZ](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha))
+
+The walls are one house, not separable parts. The ministry's account of physical health says it cannot be separated from mind, spirit and family; its account of mental health says thoughts, feelings and emotions are integral components of the body and soul; and whānau is described as the link to ancestors, a tie with past, present and future. What the meeting house does in a single image is keep all four walls in view at once. The spiritual wall is treated as a person's life force, and a traditional Māori analysis of physical illness will ask whether damage to wairua is a contributing factor.
 
 ### In the compendium
 
