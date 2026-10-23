@@ -1,7 +1,6 @@
 {
  "batch": "p1t",
  "done": [
-  "D146",
   "D149",
   "D151",
   "D153",
@@ -32,7 +31,7 @@
   "D143",
   "D145"
  ],
- "in_progress": null,
+ "in_progress": "D146",
  "flagged": {
   "D164": "Reopened for QC: Owner priority: replace mechanical Plain words and overlong summary with primary-source-bounded explanation and workable application",
   "D172": "Reopened for QC: QC repair: preserve chapter 73 wrongdoing context; replace repeated Plain words with clear practical application",
@@ -42,10 +41,11 @@
   "D109": "Reopened for QC: Sharpen chapter 20 nonconformity without glorifying loneliness; remove repeated Plain words and give a repeatable attention exercise",
   "D112": "Reopened for QC: Replace repeated arithmetic gloss and guaranteed-progress example with bounded parable reading and voluntary shared-work practice",
   "D143": "Reopened for QC: Replace source recital and rate-performance framing with gentle, non-targeted attention application; no health-effect claim",
-  "D145": "Reopened for QC: Replace repeated conservation gloss with the source jing-qi relationship, exact verse layout and a bounded observation practice"
+  "D145": "Reopened for QC: Replace repeated conservation gloss with the source jing-qi relationship, exact verse layout and a bounded observation practice",
+  "D146": "Reopened for QC: Remove OCR workaround from public quotation and fitness/mood analogy; distinguish source bodily practice from a modern regularity exercise"
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-23T06:49:58+00:00",
+ "updated": "2026-10-23T06:50:40+00:00",
  "band_done": false
 }
