@@ -17,7 +17,7 @@ Speak, to someone you trust, a brief account of what has mattered most in your l
 Adapted from the dignity therapy framework. The practice moves the Self, Motivation and Overt behaviour dimensions: the self that is witnessed, the generative wish to hand something on, and the speaking itself.
 
 1. Take a few minutes alone to gather the account: what has mattered most, what you have learned, what you would want someone to know. In the clinical form, a trained therapist records and edits the sessions into a legacy document; here the deliverable is the conversation itself.
-2. Share it aloud with one trusted person, chosen because they receive rather than advise. For this everyday adaptation, choose a trusted person who will listen without immediately offering advice.
+2. Share the account with a trusted person who will listen without immediately offering advice.
 3. Let the listener respond in their own words. One conversation is a complete round.
 
 ### Evidence
@@ -29,11 +29,11 @@ Second, the randomised trial — and its honest reading:
 > "No significant differences were noted in the distress levels before and after completion of the study in the three groups... Although the ability of dignity therapy to mitigate outright distress, such as depression, desire for death or suicidality, has yet to be proven, its benefits in terms of self-reported end-of-life experiences support its clinical application for patients nearing death."
 > — [Chochinov et al. 2011, *Lancet Oncology* 12(8), PubMed record](https://pubmed.ncbi.nlm.nih.gov/21741309/)
 
-What the studies do not test: the patients were terminally ill, in palliative care, working with trained therapists; the sources cited here do not test this page's spoken version between trusted people in ordinary life, and the primary distress outcomes of the trial were not significantly improved.
+The cited studies concern terminally ill patients in palliative care working with trained therapists. The sources cited here do not test this page's everyday conversation between trusted people, and the primary distress outcomes of the trial were not significantly improved.
 
 ### A guided version
 
-the clinical form is therapist-guided by design; this page's version needs no guide.
+For this everyday adaptation, use the prompts above.
 
 ## Operationalises
 
