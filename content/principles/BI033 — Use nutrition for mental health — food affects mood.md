@@ -21,7 +21,7 @@ The wider evidence agrees in direction but is smaller: across sixteen randomised
 **Plain words**
 SMILES tested a whole dietary pattern, not a single food: its design cannot identify which ingredients explain the improvement ([Jacka et al. 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5282719/)). The observational studies compare existing eating patterns, and they do not establish cause ([Li et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28431261/)).
 
-*For example:* An imagined case: someone receiving care for depression asks their clinician whether dietitian support could be added to their current care.
+*For example:* someone receiving care for depression asks their clinician whether dietitian support could be added to their current care.
 
 ## Sources
 

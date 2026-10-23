@@ -21,7 +21,7 @@ An intervention built on that contrast, Acting on Values, had volunteers initiat
 **Plain words**
 Naming a value leaves a practical question: what will you do this week? The review found benefits more consistent when people were helped to act on their values, so the compendium's exercise is choosing one manageable action rather than stopping at the list. The studies were mostly low to moderate quality, so the reading stays modest.
 
-*For example:* An imagined case: someone whose stated value is family, whose month holds no family dinners, books one recurring weekly dinner as that one action.
+*For example:* someone whose stated value is family, whose month holds no family dinners, books one recurring weekly dinner as that one action.
 
 ## Sources
 

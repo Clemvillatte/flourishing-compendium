@@ -19,7 +19,7 @@ A two-experiment study with 104 college students had participants view films eli
 **Plain words**
 How you feel can affect the range of actions that come to mind. As a practical exercise, write down your options, then return to the list later and see whether you add anything.
 
-*For example:* An imagined case: someone notices the list of things they feel like doing is short on a bad day, writes the list down, and looks again on a quieter one.
+*For example:* someone notices the list of things they feel like doing is short on a bad day, writes the list down, and looks again on a quieter one.
 
 ## Sources
 

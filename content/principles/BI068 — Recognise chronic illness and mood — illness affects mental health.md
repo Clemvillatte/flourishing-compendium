@@ -21,7 +21,7 @@ The practical reading the authors offer is concurrent targeting rather than a pr
 **Plain words**
 Diabetes and depression travel together more often than chance would suggest, in both directions, so mood belongs in the conversation when diabetes is being treated. The studies behind this are associations: they do not show that treating one fixes the other, only that attending to both at once is the reading the authors offer.
 
-*For example:* An imagined case: a person with diabetes notices persistent low mood and mentions it at their next appointment. The studies do not establish what caused that person's mood change; they support raising the question.
+*For example:* a person with diabetes notices persistent low mood and mentions it at their next appointment. The studies do not establish what caused that person's mood change; they support raising the question.
 
 ## Sources
 

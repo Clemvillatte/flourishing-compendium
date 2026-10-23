@@ -21,7 +21,7 @@ The stress-physiology evidence comes from the laboratory. Sixty-seven women face
 **Plain words**
 Two findings sit behind the principle. In the diary study, people who received a hug on conflict days showed smaller mood changes than those who did not; in the laboratory, the massage group's stress responses were lower. The hug finding is an association, and the massage trial covered women with male partners. The principle's word "appropriately" does the heavy lifting; consent and context decide when touch connects rather than intrudes.
 
-*For example:* An imagined case: after a tense phone call with a sibling, someone accepts their partner's offered hug rather than waving it off. The hug does not remove the conflict; the diary study's association is with smaller mood changes on days like that.
+*For example:* after a tense phone call with a sibling, someone accepts their partner's offered hug rather than waving it off. The hug does not remove the conflict; the diary study's association is with smaller mood changes on days like that.
 
 ## Sources
 

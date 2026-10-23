@@ -19,7 +19,7 @@ A Psychological Review paper comparing East Asian and Western cognition reports 
 **Plain words**
 People can approach the same question with different assumptions about what matters. Ask someone with a different background how they understand a familiar problem, then compare what each of you took for granted.
 
-*For example:* An imagined case: two colleagues discuss a missed deadline. One begins with workload and team coordination; the other begins with the person's planning. They compare their assumptions before deciding what happened.
+*For example:* two colleagues discuss a missed deadline. One begins with workload and team coordination; the other begins with the person's planning. They compare their assumptions before deciding what happened.
 
 ## Sources
 

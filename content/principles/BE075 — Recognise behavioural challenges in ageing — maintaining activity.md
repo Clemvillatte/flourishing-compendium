@@ -21,7 +21,7 @@ The activity side has cohort evidence behind it. Fifteen community cohorts total
 **Plain words**
 The documented change is a sleep change: nights get lighter and more broken with age, and in this review only sleep efficiency showed a further significant decline after 60. The activity evidence is an association: people who stayed physically active were more likely to age successfully in these cohorts, with the measured association stronger in younger groups and attenuating across longer follow-ups. The practical task is negotiation, not denial; adjust the form, keep the behaviour.
 
-*For example:* An imagined case: a lifelong runner whose knees and nights both object at 70 switches to swimming and a shorter morning routine, treating the change of form as part of the training rather than as its end.
+*For example:* a lifelong runner whose knees and nights both object at 70 switches to swimming and a shorter morning routine, treating the change of form as part of the training rather than as its end.
 
 ## Sources
 

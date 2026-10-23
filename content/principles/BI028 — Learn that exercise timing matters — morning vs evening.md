@@ -21,7 +21,7 @@ A meta-analysis of 23 studies in healthy participants ([Stutz et al. 2019](https
 **Plain words**
 Two practical readings replace the blanket rule. If your clock runs late and you want it earlier, morning or mid-afternoon exercise is the phase-advancing window the study found ([Youngstedt et al. 2019](https://pubmed.ncbi.nlm.nih.gov/30784068/)). If you train in the evening, the meta-analysis says disruption is not the default: the specific thing the review flags as a risk is vigorous work ending inside the last hour before bed ([Stutz et al. 2019](https://www.research-collection.ethz.ch/server/api/core/bitstreams/e97ceae9-be5e-4ed8-ad86-dd282b3fa7ed/content)).
 
-*For example:* An imagined case: a night owl whose vigorous class ends at 10 p.m., with bed at 10:30, reschedules the hard part of the session to finish earlier and keeps the wind-down gentle, following the review's qualifier about sessions ending close to bedtime ([Stutz et al. 2019](https://www.research-collection.ethz.ch/server/api/core/bitstreams/e97ceae9-be5e-4ed8-ad86-dd282b3fa7ed/content)).
+*For example:* a night owl whose vigorous class ends at 10 p.m., with bed at 10:30, reschedules the hard part of the session to finish earlier and keeps the wind-down gentle, following the review's qualifier about sessions ending close to bedtime ([Stutz et al. 2019](https://www.research-collection.ethz.ch/server/api/core/bitstreams/e97ceae9-be5e-4ed8-ad86-dd282b3fa7ed/content)).
 
 ## Sources
 

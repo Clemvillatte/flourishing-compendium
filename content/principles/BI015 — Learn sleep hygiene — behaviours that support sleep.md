@@ -21,7 +21,7 @@ So the honest reading is two-layered: the hygiene behaviours are supports worth 
 **Plain words**
 Sleep hygiene is the maintenance work of sleep: steady schedule, dark cool room, no late caffeine, bed for sleeping, get up if sleep does not come ([NINDS](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)). The guideline finding that matters is the ceiling on it: hygiene alone treats chronic insomnia worse than the fuller therapies ([Edinger et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)), so persistent sleep problems despite good routines are a reason to see a clinician, not a discipline failure.
 
-*For example:* An imagined case: someone with months of insomnia does everything right: dark room, regular hours, no late coffee, phone out of the bedroom, and still sleeps badly. This is exactly the case the guideline addresses: it conditionally suggests not using sleep hygiene alone to treat chronic insomnia in adults ([Edinger et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)), and the next step is a clinician who does CBT-I.
+*For example:* someone with months of insomnia does everything right: dark room, regular hours, no late coffee, phone out of the bedroom, and still sleeps badly. This is exactly the case the guideline addresses: it conditionally suggests not using sleep hygiene alone to treat chronic insomnia in adults ([Edinger et al. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/)), and the next step is a clinician who does CBT-I.
 
 ## Sources
 

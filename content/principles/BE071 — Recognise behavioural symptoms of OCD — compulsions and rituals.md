@@ -21,7 +21,7 @@ Behavioural therapy is a treatment option for OCD; its essential element is expo
 **Plain words**
 A compulsion is a behaviour the person feels driven to perform, done to prevent or reduce the anxiety caused by obsessive thoughts. The manual's test is excess or disconnection: the behaviour is either not connected in a realistic way with what it is designed to prevent, or is clearly excessive. Distinguishing these symptoms from ordinary caution is assessment work; the manual's criteria, not a count of stove checks, are what a clinician applies. Treatment is gradual therapeutic work with a professional.
 
-*For example:* An imagined case: a person checks the stove nine times before leaving, because an intrusive thought of the house burning makes the tenth check feel required. The compulsion is the checking the person feels driven to repeat; describing the fear and the checking to a clinician is how the assessment gets made.
+*For example:* a person checks the stove nine times before leaving, because an intrusive thought of the house burning makes the tenth check feel required. The compulsion is the checking the person feels driven to repeat; describing the fear and the checking to a clinician is how the assessment gets made.
 
 ## Sources
 

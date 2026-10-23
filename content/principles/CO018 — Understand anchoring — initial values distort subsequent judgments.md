@@ -21,7 +21,7 @@ The paper adds that anchoring occurs when the starting point is given to the sub
 **Plain words**
 The first number on the table does a job on the second number you form. It is not that you take the anchor as the answer; in this account, people often adjust too little. The wheel-of-fortune case makes the mechanism visible: the anchor was random and everyone watched the wheel spin, and the estimates still tracked it.
 
-*For example:* An imagined case: a shirt marked was $200, now $80 feels like a find, and the felt bargain is an estimate made by adjusting down from a number the seller chose.
+*For example:* a shirt marked was $200, now $80 feels like a find, and the felt bargain is an estimate made by adjusting down from a number the seller chose.
 
 ## Sources
 

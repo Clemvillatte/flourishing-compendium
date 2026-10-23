@@ -19,7 +19,7 @@ The 1979 prospect theory paper names the asymmetry in the attitudes data: a sali
 **Plain words**
 In this account, equal cash gains and losses need not carry equal psychological weight ([Kahneman & Tversky 1979](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf)). Someone can dislike an even bet because the possible loss counts more heavily for them ([Kahneman & Tversky 1979](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf)). The paper describes a tendency, so check how you respond to a particular gamble.
 
-*For example:* An imagined case: someone is offered an even bet, equal gain, equal loss, and watches which side their mind dwells on.
+*For example:* someone is offered an even bet, equal gain, equal loss, and watches which side their mind dwells on.
 
 ## Sources
 

@@ -21,7 +21,7 @@ Self-touch is a subtler case. The brain-and-heart study that compared being stro
 **Plain words**
 A self-hug and a massage are different activities. In the one opened comparison, the cardiac measures favoured being touched by another person over touching yourself. Findings about massage do not tell you how a self-hug will affect your body, so try it as an optional comfort practice without assuming the same results.
 
-*For example:* An imagined case: someone alone after bad news puts a hand on their chest and breathes slowly, because that is what is available at midnight; the next day they also seek out people who can put an arm around them. The practice scales with availability ([Candia-Rivera et al. 2024](https://www.nature.com/articles/s42003-024-07448-z)).
+*For example:* someone alone after bad news puts a hand on their chest and breathes slowly, because that is what is available at midnight; the next day they also seek out people who can put an arm around them. The practice scales with availability ([Candia-Rivera et al. 2024](https://www.nature.com/articles/s42003-024-07448-z)).
 
 ## Sources
 

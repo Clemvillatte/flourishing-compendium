@@ -21,7 +21,7 @@ Chronic insomnia has its own guideline-level treatment: the American Academy of 
 **Plain words**
 Snoring with gasping, chronic insomnia and persistent daytime sleepiness are things to bring to a doctor, because the pages name diagnostics and treatments for apnea and insomnia. The partner's report of gasping is information, and it belongs in the referral conversation ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)).
 
-*For example:* An imagined case: someone whose partner reports the gasping pattern takes the report to their doctor instead of shrugging it off as how they have always slept ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)).
+*For example:* someone whose partner reports the gasping pattern takes the report to their doctor instead of shrugging it off as how they have always slept ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)).
 
 ## Sources
 

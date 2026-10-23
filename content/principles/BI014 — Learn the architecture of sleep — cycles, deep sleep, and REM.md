@@ -21,7 +21,7 @@ The memory research adds the mechanism. In the review literature, consolidation 
 **Plain words**
 A night is not one block of unconsciousness but a repeating pattern, and the pattern is weighted toward the end: the page describes increasingly longer, deeper REM periods occurring later in the sleep session ([NINDS](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)). Ending sleep early may therefore cut into those later REM periods ([NINDS](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)) — the stage the memory research says may help stabilise what the night has consolidated ([Rasch & Born 2013](https://pubmed.ncbi.nlm.nih.gov/23589831/)).
 
-*For example:* An imagined case: someone who sleeps from midnight to six sets an early alarm for a flight and cuts the night shorter still. On the primer's description ([NINDS](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)), what gets cut is weighted toward the later REM periods rather than spread evenly across the night.
+*For example:* someone who sleeps from midnight to six sets an early alarm for a flight and cuts the night shorter still. On the primer's description ([NINDS](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)), what gets cut is weighted toward the later REM periods rather than spread evenly across the night.
 
 ## Sources
 

@@ -19,7 +19,7 @@ The mortality numbers are what make this a health behaviour rather than a temper
 **Plain words**
 The evidence treats connection like a health behaviour: people with stronger relationships were more likely to be alive at follow-up, with an effect the reviewers compare to well-known risk factors. A weekly dinner belongs in the same category as sleep and exercise, and is worth protecting when the calendar fills.
 
-*For example:* An imagined case: a freelancer who has dropped every social commitment to hit a deadline keeps the deadline, then books two evenings with friends in the following week and treats them as fixed appointments rather than as rewards to be dropped if work appears.
+*For example:* a freelancer who has dropped every social commitment to hit a deadline keeps the deadline, then books two evenings with friends in the following week and treats them as fixed appointments rather than as rewards to be dropped if work appears.
 
 ## Sources
 
