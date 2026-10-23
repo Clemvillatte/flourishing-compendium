@@ -17,7 +17,7 @@ His life is known through legend and late biography. One account makes him a pri
 
 ## Their why
 
-The poem exists because discipline has an address. Its verses warn that the mind left unguarded brings calamities "no worldly beast, however wild" could bring, and that without the guard upon the mind no discipline can be maintained ([Way of the Bodhisattva, Padmakara trans., quoted at Terebess](https://terebess.hu/english/oxherd27a.html)). The remedy it teaches is a graded path whose chapters develop the wish for enlightenment for others through the six perfections, giving a whole chapter to patience and the criticism of anger ([Wikipedia, Bodhisattvacaryāvatāra](https://en.wikipedia.org/wiki/Bodhicaryavatara)).
+Its verses warn that the mind left unguarded brings calamities "no worldly beast, however wild" could bring, and that without the guard upon the mind no discipline can be maintained ([Way of the Bodhisattva, Padmakara trans., quoted at Terebess](https://terebess.hu/english/oxherd27a.html)). The remedy it teaches is a graded path whose chapters develop the wish for enlightenment for others through the six perfections, giving a whole chapter to patience and the criticism of anger ([Wikipedia, Bodhisattvacaryāvatāra](https://en.wikipedia.org/wiki/Bodhicaryavatara)).
 
 ## Their position
 
