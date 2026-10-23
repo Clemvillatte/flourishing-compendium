@@ -17,6 +17,16 @@ The ontological difference is Heidegger's distinction between being (das Sein) a
 
 In this account, being is not itself an entity. ([IEP article, section 4](https://iep.utm.edu/heidegge/))
 
+### Why the distinction is hard to hold
+
+The IEP presents the puzzle as an ordinary one. We can think of beings, "a table, my desk, the pencil with which I am writing", but being is another matter. Heidegger's starting point is that "We understand the 'is' we use in speaking ... although we do not comprehend it conceptually". If the being whose meaning he seeks seems so elusive, the IEP explains, "it is because it is not an entity. It is not something; it is not a being."
+
+The forgetting is described as a slow slide. According to the IEP, the distinction gradually slipped away, so that "being was reduced to a being: to idea in Plato, substantia and actualitas in Medieval philosophy, objectivity in modern philosophy, and will to power in Nietzsche and contemporary thought" ([IEP, "Martin Heidegger"](https://iep.utm.edu/heidegge/)).
+
+### What it is not
+
+The ontological difference is not a distinction between two kinds of thing, as if being were a very large entity placed beside the others. That is the mistake the IEP's wording rules out. The passages above are an encyclopaedia's summary of Heidegger, and this page does not claim to reproduce his own argument in Being and Time.
+
 ### In the compendium
 
 - [[E100 — Practise the ontological difference]]

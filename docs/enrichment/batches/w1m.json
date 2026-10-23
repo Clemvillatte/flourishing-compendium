@@ -1,7 +1,6 @@
 {
  "batch": "w1m",
  "done": [
-  "The ontological difference",
   "The coloured lens",
   "The return of the soul to its source",
   "Whole Trait Theory",
@@ -72,14 +71,15 @@
   "The great doubt",
   "A certain blindness",
   "Verum factum",
-  "Walking off one's thoughts"
+  "Walking off one's thoughts",
+  "The ontological difference"
  ],
  "in_progress": null,
  "flagged": {
   "Sub specie aeternitatis": "Reopened for QC: extension: add scope note (prose near threshold)",
   "The job demands-resources model": "Reopened for QC: extension: abstract detail added (prose 78)",
   "Steelmanning the opposing view": "Reopened for QC: extension: add scope note and small case (prose 132)",
-  "The ontological difference": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 3): scoped prose-and-quotation PASS after the punctuation restoration and citation placement. Validated ok --fast-track vs pre-enrichment baseline abca149^. Item-5 milestone CLOSED as scoped PASS (namespace resolution and whole-band certification excluded).",
+  "The ontological difference": "Reopened for QC: extension: add IEP detail on the 'is' and the reduction of being to a being (prose 42)",
   "The limits of introspection": "RESOLVED 2026-10-23 (worker-pplx-w1m-aae235f1): routed prose-short repair complete; Nisbett-Wilson 1977 full text re-opened (MIT PDF); stockings/nightgown position-effect evidence pp. 243-244 with verbatim quotes; maiden-name anecdote p. 256; content-vs-process distinction p. 256; validator ok.",
   "The culturally embedded self": "Reopened for QC: extension: add Markus & Kitayama 1991 abstract as psychology parallel (prose 42)",
   "The three poisons": "Reopened for QC: extension: dangling lead-in replaced with verified AN 3.69 passage",
@@ -112,7 +112,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:35:29+00:00",
+ "updated": "2026-10-23T14:35:53+00:00",
  "band_done": false,
  "new_concepts": [
   {
