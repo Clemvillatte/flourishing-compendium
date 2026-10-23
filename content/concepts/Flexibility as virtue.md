@@ -34,9 +34,9 @@ Read together, the two aphorisms support a limited claim: fixity is socially rew
 
 ## Related concepts
 
-- [[Cognitive flexibility]] — listed for comparison
-- [[Goal adjustment capacity]] — listed for comparison
-- [[Psychological flexibility]] — listed for comparison
+- [[Cognitive flexibility]] — the mental-shifting ability this virtue includes
+- [[Goal adjustment capacity]] — the capacity to let go of goals that no longer fit
+- [[Psychological flexibility]] — the ACT construct; the clinical sibling
 
 ## Sources
 

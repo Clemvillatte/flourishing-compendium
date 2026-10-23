@@ -28,8 +28,8 @@ The principles listed apply this literature to flourishing: A006 (Expect flouris
 ## Related concepts
 
 
-- [[Social determinants of well-being]] — listed for comparison
-- [[The social gradient of health]] — listed for comparison
+- [[Social determinants of well-being]] — the well-being-side framework
+- [[The social gradient of health]] — the stepwise finding that health tracks status
 - [[SO061]] — the disputed contextual effect of income distribution on health
 ## Sources
 

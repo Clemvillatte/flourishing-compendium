@@ -25,8 +25,8 @@ The passage's rule is to hear the opposing reasons "from persons who actually be
 
 ## Related concepts
 
-- [[Partial truths in every opinion]] — listed for comparison
-- [[Epistemic humility]] — listed for comparison
+- [[Partial truths in every opinion]] — the finding that even wrong views hold something
+- [[Epistemic humility]] — knowing what one does not know
 
 ## Sources
 

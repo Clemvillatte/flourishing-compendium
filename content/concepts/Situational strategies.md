@@ -20,8 +20,8 @@ The paper's move is to take self-control out of the head and put it in the room.
 ## Related concepts
 
 - [[Moral situation research]] — the research base for situation-shaping strategies
-- [[Optimal arousal]] — listed for comparison
-- [[Designing for virtue]] — listed for comparison
+- [[Optimal arousal]] — the arousal-performance idea behind choosing the right situation
+- [[Designing for virtue]] — the virtue-side application of situation-shaping
 
 ## Sources
 

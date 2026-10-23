@@ -24,8 +24,8 @@ BE038 and BI015 (Learn sleep hygiene) and BE039 and BI016 (Learn CBT-I) are the 
 
 
 - [[Sabbath]] — the weekly rhythm the sleep clinic prescribes daily
-- [[Sleep architecture (Walker)]] — listed for comparison
-- [[Sleep deprivation]] — listed for comparison
+- [[Sleep architecture (Walker)]] — the stages hygiene protects
+- [[Sleep deprivation]] — what poor hygiene risks
 - [[BI020]] — guidance on nap length and timing
 - [[BI039]] — the not-before-bed alcohol rule this principle teaches is one of the practices the insomnia guideline on that page lists
 ## Sources

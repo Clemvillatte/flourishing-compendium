@@ -24,8 +24,8 @@ The study used self-reports and observer ratings of working conditions across hu
 
 ## Related concepts
 
-- [[Flow]] — listed for comparison
-- [[Burnout]] — listed for comparison
+- [[Flow]] — the absorbed-work state the model's engagement side points to
+- [[Burnout]] — the exhaustion outcome the model predicts
 
 ## Sources
 

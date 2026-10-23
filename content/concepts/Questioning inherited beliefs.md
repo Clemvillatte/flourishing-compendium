@@ -18,8 +18,8 @@ In Plato's Apology, Socrates describes examining the people thought wise — pol
 ## Related concepts
 
 - [[Limits of introspection]] — the modern caution on how far such self-examination can see
-- [[Cognitive biases]] — listed for comparison
-- [[Status quo bias]] — listed for comparison
+- [[Cognitive biases]] — the built-in errors self-examination must get past
+- [[Status quo bias]] — the pull of the default that makes inherited beliefs sticky
 
 ## Sources
 

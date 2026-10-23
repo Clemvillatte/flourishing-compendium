@@ -61,9 +61,9 @@ Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
 - [[Eternal recurrence]] — amor fati's test is the thought experiment of eternal recurrence
 - [[Tragic optimism]] — affirmation under conditions that should extinguish it
 - [[Joy]] — the yea-saying the New Year aphorism ends on
-- [[Premeditatio malorum]] — listed for comparison
-- [[Will to power]] — listed for comparison
-- [[K032]] — listed for comparison: the embrace of one's fate beside K032's instruction to transform mishaps into the path of practice.
+- [[Premeditatio malorum]] — the Stoic rehearsal of setbacks; the sober sibling of amor fati
+- [[Will to power]] — the other famous Nietzsche idea of the same period
+- [[K032]] — the embrace of one's fate beside K032's instruction to transform mishaps into the path of practice.
 
 ## Sources
 

@@ -52,9 +52,9 @@ Ubuntu anchors the relational R-principles: R001 "I am because we are" states th
 - [[Family systems theory]] — personhood constituted in relation as a comparison from southern Africa
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the psychological theory that parallels this personhood
 - [[R012]] — R012 is the compendium's Ubuntu dignity principle, carrying verbatim Tutu from No Future Without Forgiveness, the work behind the concept page's dignity discussion.
-- [[Associated living]] — listed for comparison
+- [[Associated living]] — Dewey's term for life lived with others
 - [[R009]] — Mangena's account connects respect for elders with passing communal values and experience between generations.
-- [[AF058]] — A principle about responding to loneliness, listed for comparison
+- [[AF058]] — a principle about responding to loneliness
 - [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means
 - [[SE026]] — A principle on suffering as shared human material rather than a private defect
 ## Sources

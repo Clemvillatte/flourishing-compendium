@@ -35,9 +35,9 @@ Neither source tests whether adopting a creative identity changes behaviour. The
 ## Related concepts
 
 - [[Creative self-efficacy]] — the construct the 2006 paper actually measures
-- [[Self-efficacy]] — listed for comparison
-- [[Four-C model of creativity]] — listed for comparison
-- [[Creativity]] — listed for comparison
+- [[Self-efficacy]] — the confidence construct the creative version builds on
+- [[Four-C model of creativity]] — a creativity theory spanning mini-c to big-C
+- [[Creativity]] — the ability domain this identity is about
 
 ## Sources
 

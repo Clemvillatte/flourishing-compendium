@@ -34,9 +34,9 @@ Banai, Mikulincer and Shaver (2005) ran seven studies on the three needs and on 
 
 ## Related concepts
 
-- [[Individual Psychology (Adlerian psychology)]] — listed for comparison
+- [[Individual Psychology (Adlerian psychology)]] — another classical sibling among the psychoanalytic schools
 - [[Attachment theory]] — the 2005 study reports conceptual links with it
-- [[Empathy]] — listed for comparison
+- [[Empathy]] — the listening tool of the method
 
 ## Sources
 

@@ -20,8 +20,8 @@ The sitter relinquishes personal aims while continuing diligent meditation ([Nag
 ## Related concepts
 
 
-- [[Gelassenheit]] — listed for comparison
-- [[Pure experience]] — listed for comparison
+- [[Gelassenheit]] — Heidegger's releasement; the German cousin of just sitting
+- [[Pure experience]] — experience before the subject-object split; Nishida's ground
 ## Sources
 
 - Dogen, Shobogenzo

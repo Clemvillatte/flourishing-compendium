@@ -26,8 +26,8 @@ The 1943 paper is the earliest source cited for this page. The page's original c
 ## Related concepts
 
 - [[ERG Theory]] — the theory that recast this need as the growth category
-- [[Hierarchy of Needs Theory]] — listed for comparison
-- [[The actualizing tendency]] — listed for comparison
+- [[Hierarchy of Needs Theory]] — Maslow's own pyramid this term crowns
+- [[The actualizing tendency]] — Rogers's version of the same growth idea
 
 ## Sources
 

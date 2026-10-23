@@ -20,8 +20,8 @@ The authors give the categories concrete faces:
 ## Related concepts
 
 - [[Self as process]] — the future-directed contents of the shifting array
-- [[Narrative self]] — listed for comparison
-- [[Self as construction]] — listed for comparison
+- [[Narrative self]] — the storytelling self these imagined futures feed
+- [[Self as construction]] — the view of self as built; possible selves are among its materials
 
 ## Sources
 

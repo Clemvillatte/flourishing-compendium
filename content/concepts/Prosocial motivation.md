@@ -31,8 +31,8 @@ The facet "and collective well-being" has no direct support in the abstracts ope
 ## Related concepts
 
 - [[Prosocial behaviour]] — the motive side of prosocial behaviour
-- [[Autonomous versus controlled motivation]] — the self-determination distinction used in both studies, listed for comparison
-- [[Extrinsic motivation]] — listed for comparison
+- [[Autonomous versus controlled motivation]] — the self-determination distinction used in both studies
+- [[Extrinsic motivation]] — motivation from outside rewards; the contrast case
 
 ## Sources
 

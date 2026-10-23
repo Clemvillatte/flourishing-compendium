@@ -26,8 +26,8 @@ B097 (Wish well, starting with yourself) and P166 (Offer unconditional regard, t
 ## Related concepts
 
 - [[Amor sui (right self-love)]] — Spinoza's parallel case that self-love can be noble
-- [[Narcissism versus healthy self-regard]] — listed for comparison
-- [[Self-compassion]] — listed for comparison
+- [[Narcissism versus healthy self-regard]] — the contrast case: self-love gone wrong
+- [[Self-compassion]] — kindness toward oneself without inflation
 
 ## Sources
 

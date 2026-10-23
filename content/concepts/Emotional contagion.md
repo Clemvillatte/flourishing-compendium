@@ -52,9 +52,9 @@ Network clustering in a single cohort does not show the mimicry-and-feedback pro
 
 ## Related concepts
 
-- [[Social contagion]] — listed for comparison
-- [[Social-network effects on behavior]] — listed for comparison
-- [[Empathy]] — listed for comparison
+- [[Social contagion]] — the wider spread of behaviour and feeling through groups
+- [[Social-network effects on behavior]] — the network research on such spread
+- [[Empathy]] — feeling with another on purpose, not by catching
 
 ## Sources
 

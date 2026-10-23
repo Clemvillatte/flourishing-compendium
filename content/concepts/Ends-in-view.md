@@ -50,9 +50,9 @@ Dewey is describing how purposeful action works. He does not offer a goal-settin
 
 
 
-- [[Goal adjustment capacity]] — listed for comparison
-- [[Graded task assignment (Beck, BA)]] — listed for comparison
-- [[Learning by doing]] — listed for comparison
+- [[Goal adjustment capacity]] — the letting-go capacity for when ends-in-view change
+- [[Graded task assignment (Beck, BA)]] — a way of staging action toward an end-in-view
+- [[Learning by doing]] — the Deweyan idea the ends-in-view concept belongs to
 ## Sources
 
 - Dewey, Human Nature and Conduct

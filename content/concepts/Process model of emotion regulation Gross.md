@@ -25,9 +25,9 @@ The principles listed under this page include AF025 (the full regulation toolkit
 
 ## Related concepts
 
-- [[Extended process model of emotion regulation]] — listed for comparison
+- [[Extended process model of emotion regulation]] — the later revision of this model
 - [[Cognitive reappraisal]] — the main strategy in the cognitive-change family
-- [[Expressive suppression versus reappraisal]] — listed for comparison
+- [[Expressive suppression versus reappraisal]] — the two strategies compared in this literature
 - [[Emotion regulation]] — the wider field
 
 ## Sources

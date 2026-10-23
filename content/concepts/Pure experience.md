@@ -38,9 +38,9 @@ Nishida's Inquiry opens with the same move: experience prior to judgment. In the
 - [[Shikantaza, just sitting]] — objectless sitting as enacted non-duality
 - [[Bracketing]] — the phenomenological move that suspends the subject-object split
 - [[Beginner's mind]] — the open stance that has not yet divided experience
-- [[Self-transcendence]] — listed for comparison
+- [[Self-transcendence]] — the beyond-self side of experience
 - [[K002]] — examines Nishida's account of experience before subject-object differentiation
-- [[K003]] — listed for comparison: K003 applies Nishida's pure-experience opening to the unity of knowing and willing.
+- [[K003]] — K003 applies Nishida's pure-experience opening to the unity of knowing and willing.
 ## Sources
 
 - [James, Essays in Radical Empiricism (Gutenberg)](https://www.gutenberg.org/files/32547/32547-h/32547-h.htm) — both definitions; the newborn-babes concession; the retrospection act.

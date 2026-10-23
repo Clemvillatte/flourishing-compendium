@@ -31,8 +31,8 @@ The linked principles apply the concept to practice, for example M022 (Root your
 
 ## Related concepts
 
-- [[Being-at-home]] — listed for comparison
-- [[Ecological identity]] — listed for comparison
+- [[Being-at-home]] — the dwelling side of belonging
+- [[Ecological identity]] — identity tied to the natural world
 
 ## Sources
 

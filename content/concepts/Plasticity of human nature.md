@@ -25,9 +25,9 @@ The principles below apply Dewey's view to habit change and to conduct as intera
 
 ## Related concepts
 
-- [[Neuroplasticity]] — a separate empirical literature, listed for comparison
+- [[Neuroplasticity]] — a separate empirical literature
 - [[Habit]] — the main object of Dewey's discussion
-- [[Habit formation]] — listed for comparison
+- [[Habit formation]] — the research on building habits
 
 ## Sources
 
