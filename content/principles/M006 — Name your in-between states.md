@@ -16,7 +16,7 @@ Nepantla is a Nahuatl word for "in the middle". It appears in sixteenth-century 
 
 The modern reading of nepantla as a working concept is Gloria Anzaldúa's:
 
-> Bridges span liminal (threshold) spaces between worlds, spaces I call nepantla, a Nahuatl word meaning tierra entre medio. Transformations occur in this in-between space, an unstable, unpredictable, precarious, always-in-transition space lacking clear boundaries. ([Anzaldúa and Keating 2002, p. 1, as quoted in a journal article](https://ojs.tnkul.pl/index.php/rh/article/download/6657/6449/))
+> Bridges span liminal (threshold) spaces between worlds, spaces I call Nepantla, a Nahuatl word meaning tierra entre medio. Transformations occur in this in-between space, an unstable, unpredictable, precarious always-in-transition space lacking boundaries. ([Anzaldúa and Keating 2002, p. 1, as quoted in a journal article](https://ojs.tnkul.pl/index.php/rh/article/download/6657/6449/))
 
 Anzaldúa also says it is "very awkward, uncomfortable and frustrating to be in that Nepantla because you are in the midst of transformation" ([Heidelberg HeLix, 2025](https://journals.ub.uni-heidelberg.de/index.php/helix/article/download/112141/107933/286299)). So the colonial record shows a painful position, and Anzaldúa builds a method on it. The compendium's practical step is its own: when you are between jobs, homes or selves, say aloud that this is nepantla.
 
