@@ -7,15 +7,46 @@ file: "Amor fati"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Amor fati (“love of fate”) is Nietzsche's formula for the highest attitude a person can take toward their own life: not merely to bear what happens, but to want it. The phrase crystallises in *The Gay Science* §276 — “I want to learn more and more to see as beautiful what is necessary in things; then I shall be one of those who make things beautiful” — and returns in *Ecce Homo* as his stated formula for greatness ([Wikipedia, “Amor fati”](https://en.wikipedia.org/wiki/Amor_fati); [Elgat, “Amor Fati as Practice”](https://onlinelibrary.wiley.com/doi/10.1111/sjp.12171)). Its test is the thought experiment of eternal recurrence: could you will your life, exactly as it has been, to repeat? ([NYU appraisal of amor fati's Stoic roots](https://ifp.nyu.edu/2025/journal-article-abstracts/hum0000354/)).
+Amor fati ("love of fate") is Nietzsche's name for the highest attitude a person can take toward their own life: to want what happens, not merely to bear it. He sets it out as a New Year's resolution in *The Gay Science* §276:
 
-The idea is Nietzsche's radicalisation of Stoic acceptance: where the Stoics counselled wanting what happens because nature wills it ([[S014 — Want what actually happens]]; [[S007 — Accept what happens as the will of providence]]), amor fati wants it without the metaphysical guarantee — an acceptance with the love turned up, closer in spirit to the Daoist befriending of change ([[D091 — Befriend change (hua)]]; [[D098 — Accept what destiny brings (li ming)]]).
+> "I want more and more to perceive the necessary characters in things as the beautiful:—I shall thus be one of those who beautify things. _Amor fati_: let that henceforth be my love! I do not want to wage war with the ugly. I do not want to accuse, I do not want even to accuse the accusers. _Looking aside_, let that be my sole negation! And all in all, to sum up: I wish to be at any time hereafter only a yea-sayer!" (Nietzsche, *The Gay Science* §276, trans. Thomas Common)
 
-The distinction that keeps it livable: love of fate is not resignation, and not approval. What cannot be changed is accepted; what can be changed is still worked on — the serenity formula is compatible ([[P157 — Accept what cannot be changed while committing to what can]]; [[AF039 — Learn acceptance — the willingness to have a feeling without fighting it]]). Amor fati does not cancel action; it cancels the second arrow of resenting the action's conditions ([[E104 — Practise the eternal recurrence]]; [[E105 — Practise amor fati]]; [[E110 — Practise life affirmation]]).
+### The formula for greatness
 
-An example at its smallest: the two-column note after a bad week — left, what happened, stated flatly; right, what I will do next — with the left column closed by a single line: “and this too.”
+In *Ecce Homo* he gives the attitude its canonical statement:
+
+> "My formula for greatness in man is! _amor fati_: the fact that a man wishes nothing to be different, either in front of him or behind him, or for all eternity. Not only must the necessary be borne, and on no account concealed,--all idealism is falsehood in the face of necessity,--but it must also be _loved_" (Nietzsche, *Ecce Homo*, "Why I Am So Clever," trans. Anthony M. Ludovici).
+
+### A radicalisation of Stoic acceptance
+
+The idea is Nietzsche's radicalisation of Stoic acceptance. Where the Stoics counselled wanting what happens because nature wills it, amor fati wants it without the metaphysical guarantee: an acceptance with the love turned up, closer in spirit to the Daoist befriending of change.
+
+Its test is the thought experiment of eternal recurrence: could you will your life, exactly as it has been, to repeat?
+
+### Not resignation
+
+Love of fate is not resignation, and not approval. What cannot be changed is accepted; what can be changed is still worked on. Amor fati does not cancel action; it cancels the second arrow of resenting the action's conditions.
+
+### In everyday life
+
+The two-column note after a bad week: left, what happened, stated flatly; right, what I will do next. The left column closes with a single line: "and this too." (Illustrative scenario, not a reported participant or study result.)
 
 Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
+
+### In the compendium
+
+- [[S014 — Want what actually happens]] — the Stoic counsel that amor fati radicalises
+- [[S007 — Accept what happens as the will of providence]] — the Stoic original, with its metaphysical guarantee
+- [[D091 — Befriend change (hua)]] — the Daoist befriending of change
+- [[D098 — Accept what destiny brings (li ming)]] — accepting what destiny brings
+- [[P157 — Accept what cannot be changed while committing to what can]] — the serenity formula, compatible with amor fati
+- [[AF039 — Learn acceptance — the willingness to have a feeling without fighting it]] — acceptance of inner events
+- [[E104 — Practise the eternal recurrence]] — amor fati's test
+- [[E105 — Practise amor fati]] — the practice principle
+- [[E110 — Practise life affirmation]] — affirmation as the wider stance
+- [[SP033 — Let repentance go]] — amor fati as the end of repentance
+- [[B180 — Turn mishaps into the path (lojong)]] — mishaps turned into path
+
 ## Facets
 
 - **without naivety** — Nietzsche, The Gay Science
@@ -26,26 +57,19 @@ Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
 
 ## Related concepts
 
-
-
-
-
-
-
 - [[Amor sui (right self-love)]] — self-love of one's own power of acting (cross-tradition comparison)
 - [[Eternal recurrence]] — amor fati's test is the thought experiment of eternal recurrence
 - [[Tragic optimism]] — the concept page lists this topic among its Related entries; this link returns it
-- [[Joy]] — Nietzsche’s New Year aphorism (GS 276) states the affirmation the amor fati concept names
+- [[Joy]] — Nietzsche's New Year aphorism (GS 276) states the affirmation the amor fati concept names
 - [[Premeditatio malorum]] — listed for comparison
 - [[Will to power]] — listed for comparison
 - [[K032]] — listed for comparison: the embrace of one's fate beside K032's instruction to transform mishaps into the path of practice.
+
 ## Sources
 
-- Nietzsche, Ecce Homo
-- Nietzsche, The Gay Science
-- Nietzsche, The Gay Science 276
-- Nietzsche, The Gay Science §276
-- Hayes, Strosahl and Wilson, 2011
+- [Nietzsche, F. (1882/1910). The Joyful Wisdom ("The Gay Science"), §276, trans. Thomas Common. Project Gutenberg](https://www.gutenberg.org/cache/epub/52881/pg52881.txt) — the New Year's aphorism quoted above
+- [Nietzsche, F. (1908/1911). Ecce Homo, "Why I Am So Clever," trans. Anthony M. Ludovici. Project Gutenberg](https://www.gutenberg.org/cache/epub/52190/pg52190.txt) — the formula for greatness quoted above
+- [Elgat, G. (2015). Amor Fati as Practice. The Journal of Speculative Philosophy, 29(3)](https://onlinelibrary.wiley.com/doi/10.1111/sjp.12171) — secondary discussion, carried over from the earlier version of this page
 
 ## Cited in parallels
 
