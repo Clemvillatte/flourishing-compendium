@@ -22,6 +22,10 @@ A review of twelve studies in nonclinical participants (1,447 people) reported p
 
 For example: the focused-work block that suited you before a baby arrived becomes two shorter blocks. You keep the part that worked, which was a clear start ritual, and change the length.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined life as ongoing practice (Apology 38a), the page's grounding for maintenance.
+
 ## Sources
 
 - Jha, Izaguirre & Adler (2025), "Mindfulness Training in Military Settings: Emerging Evidence and Best-Practice Guidance", Curr Psychiatry Rep 27:393-407: [PubMed 40456956](https://pubmed.ncbi.nlm.nih.gov/40456956/)

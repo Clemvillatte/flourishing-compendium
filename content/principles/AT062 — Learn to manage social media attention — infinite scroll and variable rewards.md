@@ -39,6 +39,10 @@ Two things keep you in an app longer than the reason you opened it. The first is
 
 *For example:* Imagine opening an app to answer one reply. The exercise: answer the reply, and set the end (close the app) before you begin scrolling the feed.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-media parallel the page draws.
+
 ## Sources
 
 - [Tristan Harris, "How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist" (2016), full text PDF (University of Washington course copy of the Medium essay)](https://social.cs.washington.edu/cse481social/readings/W3S1/how-technology-hijacks-peoples-minds-TristanHarris.pdf) — Hijacks #2 and #6

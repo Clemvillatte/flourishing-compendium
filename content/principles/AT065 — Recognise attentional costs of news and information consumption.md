@@ -24,6 +24,10 @@ Negative news changed mood in the lab: a 14-minute bulletin raised anxiety and s
 **For example**
 As an everyday illustration: choosing to check headlines twice a day at set times, rather than refreshing throughout the day.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-news parallel, with the unexamined-life quote the page leans on.
+
 ## Sources
 
 - [Johnston & Davey 1997, The psychological impact of negative TV news bulletins, British Journal of Psychology 88(1):85-91, abstract via PubMed efetch](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9061893&rettype=abstract&retmode=text) — experiment: negatively valenced 14-min bulletin increased anxious and sad mood and catastrophizing of personal worries.

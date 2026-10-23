@@ -21,6 +21,10 @@ Attention comes and goes, and you can get a rough picture of it by asking yourse
 
 *For example:* Set three random alarms a day. When one goes off, note whether your mind was on the task (yes or no) and what you were doing. It is in the style of the Killingsworth and Gilbert sampling, and what it shows is for you to discover.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-data parallel the page draws.
+
 ## Sources
 
 - [Killingsworth, M. A. & Gilbert, D. T. (2010), A wandering mind is an unhappy mind, Science 330(6006), 932](https://www.science.org/doi/10.1126/science.1192439) — sampling question and 46.9% figure from the [author copy](https://pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf)

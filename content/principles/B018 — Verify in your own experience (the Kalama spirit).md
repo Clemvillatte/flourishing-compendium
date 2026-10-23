@@ -26,6 +26,10 @@ Ask what following a teaching leads you to do and whom it affects. Consider your
 
 Imagine a teacher advising you to cut off anyone who questions the group. Before complying, examine the consequences, seek independent counsel, and ask whether the instruction encourages harm. Your initial relief or the teacher's confidence need not settle the question.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the unexamined-life warning the page pairs with the Kalama spirit of checking for yourself.
+
 ## Psychology parallels
 
 - **[[Actively open-minded thinking|Actively open-minded thinking]]**: its measures include willingness to consider contrary evidence, but the authors report that AOT scores do not predict avoidance of myside thinking; this is a limited comparison with the discourse ([Stanovich and Toplak, 2023, abstract](https://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Toplak_2023.pdf)).

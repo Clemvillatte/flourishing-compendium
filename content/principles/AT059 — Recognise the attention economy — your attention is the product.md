@@ -26,6 +26,10 @@ A service can cost you no money and still take an hour of your day. Count that h
 *For example:*
 a reader spends twenty minutes each morning in a free news app and records the time for a week before deciding whether to keep it.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-technology parallel the page draws: the examined life includes examined technology.
+
 ## Sources
 
 - [Simon, "Designing Organizations for an Information-Rich World", in Greenberger (ed.), Computers, Communications, and the Public Interest, Johns Hopkins Press, 1971, pp. 40-41 (open PDF)](https://veryinteractive.net/pdfs/simon_designing-organizations-for-an-information-rich-world.pdf) — the poverty-of-attention passage and the cost-of-receiving passage

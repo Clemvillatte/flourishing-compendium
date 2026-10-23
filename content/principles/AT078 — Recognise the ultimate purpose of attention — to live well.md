@@ -26,6 +26,10 @@ Where your mind sits matters more than what your hands are doing. People checked
 **For example**
 The person who optimises morning routines and focus blocks, and has nothing scheduled in the freed-up hours but more optimisation. The lens is polished. A lens earns its keep by what you look at through it.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) for attention's end: living well.
+
 ## Sources
 
 - [Killingsworth & Gilbert, "A Wandering Mind Is an Unhappy Mind", Science 330(6006), 932 (2010), PDF](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf) — thinking-vs-doing variance findings and concluding sentences (p. 932); DOI [10.1126/science.1192439](https://doi.org/10.1126/science.1192439)

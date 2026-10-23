@@ -284,11 +284,21 @@
   "content/principles/AT018 — Practise deliberate distraction management — know what pulls your attention.md",
   "content/principles/AT034 — Cultivate metacognitive awareness of attention — notice when attention drifts.md",
   "content/principles/AT053 — Learn to notice and name attentional states — labelling improves control.md",
-  "content/principles/AT058 — Learn to monitor and maintain attention — build a practice.md"
+  "content/principles/AT058 — Learn to monitor and maintain attention — build a practice.md",
+  "content/principles/AT059 — Recognise the attention economy — your attention is the product.md",
+  "content/principles/AT060 — Learn to manage smartphone attention — the device is designed to capture you.md",
+  "content/principles/AT062 — Learn to manage social media attention — infinite scroll and variable rewards.md",
+  "content/principles/AT065 — Recognise attentional costs of news and information consumption.md",
+  "content/principles/AT068 — Learn to protect attentional time — the most valuable resource.md",
+  "content/principles/AT075 — Recognise clinical attentional symptoms — when attention problems require evaluation.md",
+  "content/principles/AT076 — Learn to assess and monitor attention — track your capacity.md",
+  "content/principles/AT077 — Build attentional maintenance — ongoing practice and adaptation.md",
+  "content/principles/AT078 — Recognise the ultimate purpose of attention — to live well.md",
+  "content/principles/B018 — Verify in your own experience (the Kalama spirit).md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:22:42+00:00",
+ "updated": "2026-10-23T14:22:55+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

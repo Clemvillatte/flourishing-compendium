@@ -26,6 +26,10 @@ Putting your phone elsewhere is an option to try during demanding work. Check wh
 *For example:*
 a writer leaves the phone in the kitchen while reviewing a draft and records interruptions and completed edits.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-device-use parallel the page draws.
+
 ## Sources
 
 - [Ward, Duke, Gneezy and Bos, "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity", Journal of the Association for Consumer Research 2(2), 2017 (open full text)](https://www.journals.uchicago.edu/doi/full/10.1086/691462) — the brain drain hypothesis and the location-condition results

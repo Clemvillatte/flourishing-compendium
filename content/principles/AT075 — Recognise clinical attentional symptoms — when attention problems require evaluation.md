@@ -23,6 +23,10 @@ If trouble concentrating keeps disrupting daily tasks, bring concrete examples t
 
 *For example:* Imagine repeatedly losing your place during routine work and struggling to finish it. You write down several instances to discuss at an appointment.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-symptoms parallel: knowing when to seek evaluation is part of the examined life.
+
 ## Sources
 
 - [NIMH, ADHD in adults: 4 things to know](https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know)
