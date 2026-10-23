@@ -20,7 +20,7 @@ Spinoza connects intellectual love specifically with the third kind of knowledge
 Spinoza connects taking pleasure in understanding with recognizing God as its cause. He calls the love arising from this particular kind of knowledge intellectual love; the passage does not promise that every strong intellectual interest makes someone immune to disappointment ([Ethics V P32 and its corollary, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
 **For example**
-follow V P32 into its corollary. Mark the references to third-kind knowledge, pleasure, God as cause, and intellectual love.
+Follow V P32 into its corollary. Mark the references to third-kind knowledge, pleasure, God as cause, and intellectual love.
 
 (Ethics V, P32 and P36, with its corollary and note.)
 

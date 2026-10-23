@@ -20,7 +20,7 @@ The proof gives the doctrine's core: "the more things a mind knows by the second
 This is a claim about eternity as Spinoza understands it, not a promise that a person's memories continue indefinitely. His note on V P34 warns that people "confuse eternity with duration," and "credit their imagination = memory with being eternal, believing that it lasts after death" ([Ethics V, note on 34, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
 **For example**
-compare V P38 with the note on V P34. Identify which kind of understanding the proposition names, and which interpretation of eternity the note rejects.
+Compare V P38 with the note on V P34. Identify which kind of understanding the proposition names, and which interpretation of eternity the note rejects.
 
 (Ethics V, P38-39, with the corollary, the note on 20-40, and the note on 34.)
 
