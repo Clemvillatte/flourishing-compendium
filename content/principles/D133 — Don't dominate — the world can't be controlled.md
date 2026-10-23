@@ -24,6 +24,7 @@ When you push someone into doing what you want, watch what happens to the wantin
 *For example:* The parent who tries to control their adult child's choices gets compliance at best — the influence they wanted required letting go.
 
 ## Sources
+- [[T012 — Laozi]]: the kingdom argument the page opens: governing as cooking small fish.
 
 - [Laozi, Dao De Jing 29 (James Legge, 1891), Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm) — verbatim quotes
 - [Bradshaw et al., "Disentangling autonomy-supportive and psychologically controlling parenting: A meta-analysis of self-determination theory's dual process model across cultures," American Psychologist 80 (2025) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/39052356/) — dual-process meta-analysis, k = 238

@@ -26,6 +26,7 @@ You may need to take a firm position with someone. Consider what you need to say
 *For example:* Imagine greeting a frightened newcomer to your meeting before checking your notes.
 
 ## Sources
+- [[T012 — Laozi]]: the three treasures of Daodejing 67, the first of which this principle is.
 
 - [Laozi, Daodejing 67, Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — the three treasures, full chapter text
 

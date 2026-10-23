@@ -24,6 +24,7 @@ The passage advises setting aside these emotions and desires so the mind can ret
 *For example:* Replaying the argument for a week after it ended — the other person got one evening of your rage; you got seven.
 
 ## Sources
+- [[T012 — Laozi]]: the equanimity-as-resting-state parallel the page draws from the Daodejing.
 
 - [Neiye III (Inward Training), Harold Roth's translation, Original Tao (1999), excerpted at the Kongdan Foundation](https://thekongdanfoundation.com/nei-yeh-inward-training-and-the-unity-of-spirit/) — verbatim quote on the six disturbances
 - [Laozi, Dao De Jing 55 (James Legge, 1891), Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm) — infant and harmony passage

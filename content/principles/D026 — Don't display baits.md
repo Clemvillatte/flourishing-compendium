@@ -22,6 +22,7 @@ Try this personal application: before posting an expensive purchase, ask what yo
 *For example:* Imagine buying a new car. You decide against posting its price to impress acquaintances and send a photograph to the friend who helped you choose it.
 
 ## Sources
+- [[T012 — Laozi]]: the chapter 3 advice the page opens with: not prizing rare goods or displaying objects of desire.
 
 - [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 3
 

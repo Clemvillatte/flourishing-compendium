@@ -26,6 +26,7 @@ A calendar filled entirely with work leaves rest dependent on a cancellation. Pu
 *For example:* Imagine a musician planning a demanding rehearsal week. Reserve an evening without rehearsals before adding extra sessions.
 
 ## Sources
+- [[T012 — Laozi]]: the chapter 26 terms the principle takes: rest as the master of restlessness.
 
 - [Laozi, Daodejing 26, Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — full chapter text
 

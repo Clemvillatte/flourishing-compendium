@@ -29,6 +29,7 @@ Kindness that only works for people who deserve it is a transaction. The chapter
 Two teachers share a difficult student. One keeps her patience whatever the student does. The other's patience runs out once the student stops earning it. The chapter points to the first. This one is imagined.
 
 ## Sources
+- [[T012 — Laozi]]: the chapter 49 policy of goodness that does not depend on how others treat you.
 
 - Laozi, *Tao Teh King*, trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 

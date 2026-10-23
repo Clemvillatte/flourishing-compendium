@@ -30,6 +30,7 @@ There is a counterweight in chapter 63.3: "he who is continually thinking things
 *For example:* Imagine a small crack you notice in a wall. Filling it today is a tube of filler and ten minutes. Leaving it means that a year from now you are asking what the damp has done.
 
 ## Sources
+- [[T012 — Laozi]]: the chapter 63 rule and chapter 64 images the page is built on.
 
 - Laozi, Daodejing (Tao Teh King), chs. 63-64, trans. James Legge, *The Texts of Taoism* (1891): [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 

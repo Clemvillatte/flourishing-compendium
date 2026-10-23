@@ -30,6 +30,7 @@ Before pressing harder, ask what your intervention is for. Consider whether you 
 Imagine that a colleague asks for time to consider your proposal. You could agree when to return to it and offer the information they need, while leaving them free to disagree. Securing a meeting is different from securing their assent.
 
 ## Sources
+- [[T012 — Laozi]]: the chapter 29 warning the page draws: trying to master the kingdom, one fails.
 
 - [Laozi, Daodejing 29 and 64, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): the kingdom warning and the sage's assistance.
 - [Alan Chan, "Laozi", Stanford Encyclopedia of Philosophy, §7, "Naturalness and Nonaction"](https://plato.stanford.edu/entries/laozi/): the interpretation of wuwei used here.

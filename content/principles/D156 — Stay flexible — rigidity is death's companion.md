@@ -37,6 +37,7 @@ The text speaks of bodies, plants, armies and trees. Extending it to opinions an
 *For example:* Imagine a plan you made in January that March has overtaken. The supple move is to rewrite it. The rigid move is to defend it, because changing it feels like admitting you were wrong.
 
 ## Sources
+- [[T012 — Laozi]]: the chapter 76 argument from body and garden the page unfolds.
 
 - Laozi, Daodejing (Tao Teh King), ch. 76, trans. James Legge, *The Texts of Taoism* (1891): [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 

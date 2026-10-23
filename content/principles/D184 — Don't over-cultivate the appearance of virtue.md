@@ -31,6 +31,7 @@ A person who has to announce their kindness has usually run short of the real th
 Someone posts about every donation they make. Another gives quietly and mentions it to nobody. The chapter points to the second as the one still in touch with the root. This one is imagined.
 
 ## Sources
+- [[T012 — Laozi]]: the chapters 18 and 38 source pair the page quotes.
 
 - Laozi, *Daodejing* (*Tao Teh King*), trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 

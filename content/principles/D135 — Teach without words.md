@@ -31,6 +31,7 @@ You teach most by how you live, and less by what you say. A person who treats ot
 A new hire watches how the team lead handles a mistake: no blame, a quick fix, a note on what to change. Nobody explained the culture. The new hire absorbed it. This one is imagined.
 
 ## Sources
+- [[T012 — Laozi]]: the chapter 2 one-liner and the chapter 43 image the principle rests on.
 
 - Laozi, *Daodejing* (*Tao Teh King*), trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 

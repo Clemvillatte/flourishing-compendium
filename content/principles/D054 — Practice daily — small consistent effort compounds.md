@@ -35,6 +35,7 @@ Choose a practice and a time or cue that gives you a realistic opportunity to re
 Suppose you want to read a demanding philosophical text. You might read one paragraph after breakfast and write down a question it raises. If you miss a morning, return at the next suitable opportunity and reconsider the arrangement if it repeatedly fails.
 
 ## Sources
+- [[T012 — Laozi]]: the large-undertakings-begin-small teaching (Daodejing 63/64) the page opens with.
 
 - [Laozi, Daodejing 64, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): small beginnings.
 - [The Secret of the Golden Flower, Wilhelm/Baynes edition, commentary on sections 3 and 8](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt): continuity within the text's light-circulation practice.

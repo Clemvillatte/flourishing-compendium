@@ -29,6 +29,7 @@ If you want a calmer house, a better team or a kinder town, the chapter starts w
 A parent who wants less shouting at home begins by lowering their own voice. Whether the house follows is not guaranteed, but the parent has done the one part that was theirs. This one is imagined.
 
 ## Sources
+- [[T012 — Laozi]]: the chapter 54 chain outward from the person, the page's own structure.
 
 - Laozi, *Daodejing* (*Tao Teh King*), trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
