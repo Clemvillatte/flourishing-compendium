@@ -34,3 +34,10 @@
 - Seed claim repaired: "wise reasoning research shows that considering multiple viewpoints and recognising context-dependence predicts better life outcomes" narrowed to what the opened carriers support — the 2013 correlational association study and the 2016 daily-diary state-level findings, both honestly scoped (correlational; measures reasoning about conflicts, not mapping practices or decision quality).
 - Protocol labelled editorial; the third facet (consideration of others' perspectives/compromise) quoted as the construct the map serves. Guided-version exemption: paper-list practice, no recording required (self-directed; K203 nap precedent).
 - All 15 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
+
+## K259 — Particulars before rules (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carrier: Gutenberg 8438 (Chase NE) raw text, already downloaded — VI.8 light-meats passage and its conclusion verbatim (Practical Wisdom needs particular details; knowledge of details over principles if only one); VII.3 "using the universal but not the particular" diagnosis verbatim.
+- Evidence follows the K208 primary-text pattern: states plainly that no study tests a particulars-first protocol. The two-minute timing labelled editorial. The seed's "A rule applied without attention to the particular is not virtue but mechanism" aphorism not carried verbatim (rephrased as a reader-facing sentence grounded in the VII.3 diagnosis).
+- Guided-version exemption: written-description practice, no recording required (self-directed; K203 nap precedent).
+- All 5 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
