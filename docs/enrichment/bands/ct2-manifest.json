@@ -48,8 +48,6 @@
   "Mindfulness-based cognitive therapy",
   "Mindfulness-based stress reduction",
   "Nirvana",
-  "Non-dual awareness",
-  "Nonattachment",
   "Nonviolent communication",
   "Perspective-taking",
   "Phronesis",
@@ -68,10 +66,7 @@
   "Shunyata",
   "Simplicity",
   "Situation selection",
-  "Situation-sensitivity in self-regulation",
   "Skandha",
-  "Skepticism about the obvious",
-  "Socioemotional wisdom",
   "Speech gate",
   "Tanha",
   "Tend-and-befriend",
@@ -81,7 +76,6 @@
   "The middle path",
   "The pragmatic maxim",
   "The returning practice",
-  "The transformation of consciousness",
   "The unity of the virtues",
   "The view from above",
   "Tipping point (networks)",
@@ -93,5 +87,17 @@
   "Yangsheng (cultivating vitality)",
   "Yin and yang",
   "Ziran (naturalness)"
- ]
+ ],
+ "removed_at_mint": {
+  "recorded_done_dashboard_artifacts": [
+   "Nonattachment",
+   "Non-dual awareness"
+  ],
+  "retired_to_owner_pending_holds": [
+   "Situation-sensitivity in self-regulation",
+   "Skepticism about the obvious",
+   "Socioemotional wisdom",
+   "The transformation of consciousness"
+  ]
+ }
 }
