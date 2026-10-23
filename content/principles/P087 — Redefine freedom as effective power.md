@@ -12,24 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 87** — Redefine freedom as effective power
 
-Dewey argues that freedom is needed in and among actual events, that the road to it lies in knowledge of facts, and that intelligence is the key to freedom in act. He illustrates with the physician or engineer, free in the degree to which they know what they deal with. (Dewey, Human Nature and Conduct, part 3, section 3.)
+Dewey asks what freedom amounts to in the world where we act. He names three elements: carrying out plans, being able to change them and try something new, and having one's choices affect events. Mere efficiency is insufficient: a person executing someone else's wishes may be highly effective without being free. ([Human Nature and Conduct, part 4, section III, pp. 303–304](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm))
 
-> "For we need freedom in and among actual events, not apart from them. It is to be hoped therefore that there remains an alternative; that the road to freedom may be found in that knowledge of facts which enables us to employ them in connection with desires and aims." (Dewey, Human Nature and Conduct, part 3, sec. 3, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
+> "For we need freedom in and among actual events, not apart from them. It is to be hoped therefore that there remains an alternative; that the road to freedom may be found in that knowledge of facts which enables us to employ them in connection with desires and aims." (Dewey, Human Nature and Conduct, part 4, section III, p. 303, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-> "A physician or engineer is free in his thought and his action in the degree in which he knows what he deals with. Possibly we find here the key to any freedom." (Dewey, Human Nature and Conduct, part 3, sec. 3, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
+> "A physician or engineer is free in his thought and his action in the degree in which he knows what he deals with. Possibly we find here the key to any freedom." (Dewey, Human Nature and Conduct, part 4, section III, p. 303, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-> "Intelligence is the key to freedom in act." (Dewey, Human Nature and Conduct, part 3, sec. 3, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
+> "Intelligence is the key to freedom in act." (Dewey, Human Nature and Conduct, part 4, section III, p. 304, [Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt))
 
-The compendium's exercise: pick one thing you feel blocked on, and list three facts about it you have not yet learned.
+The physician and engineer illustrate why knowledge matters: understanding conditions makes more deliberate action possible. Dewey also insists on social and economic conditions that support action. Obstacles are not all failures of individual judgement; actual freedom depends on an environment in which people can pursue their aims. ([Part 4, section III, pp. 303–306](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm))
 
 **Plain words**
-Freedom shows up as being able to carry out what you plan. Study the facts of your situation and use them.
+Being told “you may” leaves a question unanswered: can you actually do it, change your mind or make another choice? Learning a skill, gaining access to resources or changing an unfair arrangement can give a permission practical meaning. Freedom concerns the possibilities open to your purposes, not a feeling of being unconstrained. ([Dewey, part 4, section III, pp. 303–307](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm))
 
-*For example:* Imagine you want to cycle to work. You learn which streets have bike lanes and at which hours the roads are clear, and you plan the route around them.
+For example: Imagine a tenant who is allowed to challenge an incorrect charge but cannot understand the form. As an exercise, compare trying it unaided with using clear guidance from a tenants' service. Check whether you can identify the charge, complete the relevant fields and submit a reasoned challenge. Keep the explanation that makes those steps possible, and note any remaining cost or access barrier. A completed challenge demonstrates an available action; it does not guarantee a favourable decision.
 
 ## Sources
 
-- [Human Nature and Conduct, John Dewey, Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt) — part 3, section 3, "What is Freedom?"
+- [Human Nature and Conduct, John Dewey, Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt) — part 4, section III, “What is Freedom?”, pp. 303–313
+- [John Dewey, Human Nature and Conduct, page-numbered HTML edition](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm) — physician/engineer, p. 303; three elements, pp. 303–304; intelligence, p. 304; social/economic conditions, pp. 305–307
 
 ## Psychology parallels
 
