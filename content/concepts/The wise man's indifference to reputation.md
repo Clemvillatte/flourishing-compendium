@@ -20,6 +20,7 @@ The passage rules the standard of action: honour, not reward. Reputation — app
 Indifference here is Stoic indifference: not contempt, but refusal to count reputation as a good. It is classed with money, pleasure and power — things that can accompany a good life or a bad one, and so cannot be its measure. The practical corollary is a division of attention: the wise man does not consult the audience before acting, and does not audit its verdict afterward.
 
 ## Sources
+- [[T013 — Seneca]]: the Stoic claim about what others say, which his letters articulate.
 
 - [Seneca, Epistulae Morales 76, trans. John Gummere (Letters from a Stoic), quoted at Rockyrook](http://www.rockyrook.com/2021/06/letters-from-stoic-76-on-learning.html) — the carrier for both verbatim passages.
 

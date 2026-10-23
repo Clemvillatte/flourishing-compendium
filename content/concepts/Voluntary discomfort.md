@@ -31,6 +31,7 @@ The letter's reasoning is timing: "It is precisely in times of immunity from car
 - [[Desirable difficulties]] — difficulty that produces durable learning gains, retrieval practice as the paradigm case
 
 ## Sources
+- [[T013 — Seneca]]: the Letters source the saying is drawn from.
 
 - Seneca, Letters
 - [Seneca, Moral Letters to Lucilius, Letter 18 (Gummere translation, Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18) — the "scantiest and cheapest fare" passage at 18.5
