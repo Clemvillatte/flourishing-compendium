@@ -13,6 +13,16 @@ The via negativa is the negative way: what cannot be said positively is approach
 
 The SEP credits the introduction of the via negativa to Christianity to Pseudo-Dionysius the Areopagite, who "also wrote works in the kataphatic approach on religious symbolism and the names of God, while still stressing that God cannot be fully captured by any name" ([SEP, "Mysticism"](https://plato.stanford.edu/entries/mysticism/)).
 
+### Across traditions, and its puzzle
+
+The same entry shows the negative way is not only Christian. "Shankara's Advaita Vedanta is apophatic: no words describing phenomenal features apply to Brahman." Plotinus "stated that no name applies to the One", and wrote that "we can only state what the One is not, not what it is". The SEP adds that "the two approaches can represent two stages in mystical contemplation with the apophatic approach usually treated as higher" ([SEP, "Mysticism"](https://plato.stanford.edu/entries/mysticism/)).
+
+The method also carries a puzzle, which the SEP states directly: mystics say that what is experienced is "indescribable, inexpressible, and even unnameable, and then they proceed to name, express, and describe it." Meister Eckhart, for example, says "God is above all names" while naming God. The negative way is therefore best read as a practice of taking back each description and not as a final statement about the divine.
+
+### What it is not
+
+The via negativa is not nihilism and not a refusal to speak. As the SEP notes of Pseudo-Dionysius, the same author also wrote positive works "on religious symbolism and the names of God". It refers to a discipline of negation in a particular religious and philosophical setting, and nothing in these sources makes it a general technique for self-improvement.
+
 ## Related concepts
 
 - [[Docta ignorantia]] — the coincidence of opposites as a limit of negation
