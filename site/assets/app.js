@@ -2927,7 +2927,7 @@ function moduleById(id){ return window.fcAcademyData.modules[id]; }
    Links inside text: [label](card:File) and [label](url:https://...).
    The dossier markdown of record lives in docs/enrichment/dossiers/. */
 const DOSSIER_BASE = location.origin + location.pathname;
-function dossierCardUrl(f){ return DOSSIER_BASE + '#card=' + encodeURIComponent(f); }
+function dossierCardUrl(f){ let name=f; try{ name=decodeURIComponent(f); }catch(e){} return DOSSIER_BASE + '#card=' + encodeURIComponent(name); }
 function dossierRich(text){
   const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
   let out = '', i = 0;
@@ -3015,11 +3015,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Critique of the unencumbered self](card:Critique%20of%20the%20unencumbered%20self) — Michael Sandel calls the self conceived as given prior to and independent of its purposes and ends the \"unencumbered self\"; his critique targets versions of liberalism associated with Kant and John Rawls (Sandel…"
+          "x": "[Critique of the unencumbered self](card:Critique%20of%20the%20unencumbered%20self) — Michael Sandel calls the self conceived as given prior to and independent of its purposes and ends the \"unencumbered self\"; his critique targets versions of liberalism associated with Kant and John Rawls (Sandel interview, sourcesjournal.org)."
         },
         {
           "t": "p",
-          "x": "[The wider self](card:The%20wider%20self) — the compendium's umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body — a place, a river, other living beings — can be part of the self…"
+          "x": "[The wider self](card:The%20wider%20self) — the compendium's umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body, a place, a river, other living beings, can be part of the self rather than objects for it."
         },
         {
           "t": "p",
@@ -3067,7 +3067,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-distancing](card:Self-distancing) — in Kross's formulation, is a process that allows people to transcend their egocentric viewpoint when reasoning about an experience, viewing themselves from the perspective of a distanced observer, akin…"
+          "x": "[Self-distancing](card:Self-distancing) — in Kross's formulation, is a process that allows people to transcend their egocentric viewpoint when reasoning about an experience, viewing themselves from the perspective of a distanced observer, akin to a fly on the wall (Kross et al. 2012)."
         },
         {
           "t": "p",
@@ -3174,7 +3174,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The relational self](card:The%20relational%20self) — the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities rather than assembled first and connected…"
+          "x": "[The relational self](card:The%20relational%20self) — the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities rather than assembled first and connected later."
         },
         {
           "t": "p",
@@ -3198,7 +3198,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Embodied social identity](card:Embodied%20social%20identity) — The compendium anchors embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze (Fanon, The Fact of Blackness), and Cross's model of Black identity development…"
+          "x": "[Embodied social identity](card:Embodied%20social%20identity) — The compendium anchors embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze (The Fact of Blackness), and Cross's model of Black identity development."
         },
         {
           "t": "p",
@@ -3226,7 +3226,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-silencing theory Jack](card:Self-silencing%20theory%20Jack) — Self-silencing theory is Dana Jack's account of how people, beginning with the depressed women she interviewed, suppress their own thoughts, feelings and needs to keep close relationships safe, and what that suppression…"
+          "x": "[Self-silencing theory Jack](card:Self-silencing%20theory%20Jack) — Self-silencing theory is Dana Jack's account of how people, beginning with the depressed women she interviewed, suppress their own thoughts, feelings and needs to keep close relationships safe, and what that suppression costs."
         },
         {
           "t": "p",
@@ -3284,7 +3284,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-handicapping theory Jones](card:Self-handicapping%20theory%20Jones) — Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle…"
+          "x": "[Self-handicapping theory Jones](card:Self-handicapping%20theory%20Jones) — Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle rather than on one's ability."
         },
         {
           "t": "p",
@@ -3384,7 +3384,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-compassion](card:Self-compassion) — Kristin Neff's construct for relating to one's own suffering the way one would to a friend's, with three components: self-kindness (versus self-judgment), common humanity (versus isolation), and…"
+          "x": "[Self-compassion](card:Self-compassion) — Kristin Neff's construct for relating to one's own suffering the way one would to a friend's, with three components: self-kindness (versus self-judgment), common humanity (versus isolation), and mindfulness (versus over-identification)."
         },
         {
           "t": "p",
@@ -3540,7 +3540,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-determination](card:Self-determination) — the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed — chosen and wanted rather than pressured — and that…"
+          "x": "[Self-determination](card:Self-determination) — the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed, chosen and wanted rather than pressured, and that well-being tracks the satisfaction of three basic psychological needs, autonomy, competence, and relatedness."
         },
         {
           "t": "p",
@@ -3552,7 +3552,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-concordance theory](card:Self-concordance%20theory) — proposes that people do better when their goals fit their developing interests and core values, and that this fit works in two ways: it sustains effort toward the goal, and it makes attaining the…"
+          "x": "[Self-concordance theory](card:Self-concordance%20theory) — proposes that people do better when their goals fit their developing interests and core values, and that this fit works in two ways: it sustains effort toward the goal, and it makes attaining the goal more rewarding."
         },
         {
           "t": "p",
@@ -3560,7 +3560,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-concordant goal pursuit over time](card:Self-concordant%20goal%20pursuit%20over%20time) — the sequence described in Sheldon and Elliot's self-concordance model: goals that fit a person's developing interests and core values are pursued with more sustained effort, are…"
+          "x": "[Self-concordant goal pursuit over time](card:Self-concordant%20goal%20pursuit%20over%20time) — the sequence described in Sheldon and Elliot's self-concordance model: goals that fit a person's developing interests and core values are pursued with more sustained effort, are more likely to be reached, and bring more well-being when they are reached."
         },
         {
           "t": "p",
@@ -3572,7 +3572,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-as-doer theory](card:Self-as-doer%20theory) — Houser-Marko and Sheldon (2006) introduced the self-as-doer as \"a new motivational construct\" to answer: \"Why do some people persist in goal pursuit, even in the face of boredom or setbacks, whereas others quickly give…"
+          "x": "[Self-as-doer theory](card:Self-as-doer%20theory) — Houser-Marko and Sheldon (2006) introduced the self-as-doer as \"a new motivational construct\" to answer why some people persist in goal pursuit while others quickly give up; studies found longitudinal evidence that endorsing doer statements predicts goal attainment."
         },
         {
           "t": "p",
@@ -3580,7 +3580,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-transcendent emotions](card:Self-transcendent%20emotions) — are the class of positive emotions a 2016 study sorts by their fit to religious and spiritual life: awe, gratitude, love and peace carry the relation between spirituality and well-being, while…"
+          "x": "[Self-transcendent emotions](card:Self-transcendent%20emotions) — are the class of positive emotions a 2016 study sorts by their fit to religious and spiritual life: awe, gratitude, love and peace carry the relation between spirituality and well-being, while amusement and pride, positive as they are, do not."
         },
         {
           "t": "p",
@@ -3604,7 +3604,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Behavioral self-regulation theory](card:Behavioral%20self-regulation%20theory) — Carver and Scheier's cybernetic account of how actions are steered: goals act as reference values, perception supplies the input, a comparator measures the gap, and behaviour changes…"
+          "x": "[Behavioral self-regulation theory](card:Behavioral%20self-regulation%20theory) — Carver and Scheier's cybernetic account of how actions are steered: goals act as reference values, perception supplies the input, a comparator measures the gap, and behaviour changes to close it."
         },
         {
           "t": "p",
@@ -3803,7 +3803,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "The map — every entry the wiki holds on anger"
+          "x": "The map: every entry the wiki holds on anger"
         },
         {
           "t": "h2",
@@ -3811,19 +3811,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Anger](card:Anger) — Seneca's definition in De Ira: not the first stirring at an apparent injury, but the subsequent mad rush that treats the appearance as true and moves to revenge."
+          "x": "[Anger](card:Anger): Seneca's definition in De Ira: not the first stirring at an apparent injury, but the subsequent mad rush that treats the appearance as true and moves to revenge."
         },
         {
           "t": "p",
-          "x": "[Righteous anger vs wrath](card:Righteous%20anger%20vs%20wrath) — the contrast between anger that fits its object and anger that is excessive, prolonged or vengeful."
+          "x": "[Righteous anger vs wrath](card:Righteous%20anger%20vs%20wrath): the contrast between anger that fits its object and anger that is excessive, prolonged or vengeful."
         },
         {
           "t": "p",
-          "x": "[The fury of the virtuous](card:The%20fury%20of%20the%20virtuous) — Nietzsche's diagnosis in the Genealogy: the moral vocabulary of the weak can be a weapon, and the anger can wear the clothes of goodness."
+          "x": "[The fury of the virtuous](card:The%20fury%20of%20the%20virtuous): Nietzsche's diagnosis in the Genealogy: the moral vocabulary of the weak can be a weapon, and the anger can wear the clothes of goodness."
         },
         {
           "t": "p",
-          "x": "[The irritation of doubt](card:The%20irritation%20of%20doubt) — Peirce's name for the discomfort that inquiry exists to settle."
+          "x": "[The irritation of doubt](card:The%20irritation%20of%20doubt): Peirce's name for the discomfort that inquiry exists to settle."
         },
         {
           "t": "p",
@@ -3831,8 +3831,8 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Anger is that which goes beyond reason and carries her away with it: wherefore the first confusion of a man's mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve.\" ([Seneca, De Ira II.III, trans. Aubrey Stewart](https://www.gutenberg.org/files/64576/64576-0.txt)) — Primary text; quoted passages checked.",
-          "s": "Primary text; quoted passages checked"
+          "x": "\"Anger is that which goes beyond reason and carries her away with it: wherefore the first confusion of a man's mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve.\" ([Seneca, De Ira II.III, trans. Aubrey Stewart](https://www.gutenberg.org/files/64576/64576-0.txt)): Primary text; quoted passages checked.",
+          "s": null
         },
         {
           "t": "p",
@@ -3840,8 +3840,8 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"no plague has cost the human race more dear: you will see slaughterings and poisonings, accusations and counter-accusations, sacking of cities, ruin of whole peoples, the persons of princes sold into slavery by auction, torches applied to roofs, and fires not merely confined within city-walls but making whole tracts of country glow with hostile flame.\" (Seneca, De Ira I.II) — Primary text; quoted passages checked.",
-          "s": "Primary text; quoted passages checked"
+          "x": "\"no plague has cost the human race more dear: you will see slaughterings and poisonings, accusations and counter-accusations, sacking of cities, ruin of whole peoples, the persons of princes sold into slavery by auction, torches applied to roofs, and fires not merely confined within city-walls but making whole tracts of country glow with hostile flame.\" (Seneca, De Ira I.II): Primary text; quoted passages checked.",
+          "s": null
         },
         {
           "t": "h2",
@@ -3849,23 +3849,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Anger examined early](card:Anger%20examined%20early) — Seneca's advice in On Anger: examine the belief that one is injured before it settles, because anger cannot begin without the mind's agreement."
+          "x": "[Anger examined early](card:Anger%20examined%20early): Seneca's advice in On Anger: examine the belief that one is injured before it settles, because anger cannot begin without the mind's agreement."
         },
         {
           "t": "p",
-          "x": "[Hostile attribution bias](card:Hostile%20attribution%20bias) — the reading error Dodge's group traced: when a provocation is ambiguous, some children fill the gap with hostile intent, and the fill predicts retaliation."
+          "x": "[Hostile attribution bias](card:Hostile%20attribution%20bias): the reading error Dodge's group traced: when a provocation is ambiguous, some children fill the gap with hostile intent, and the fill predicts retaliation."
         },
         {
           "t": "p",
-          "x": "[Anger's attributional analysis](card:Anger%27s%20attributional%20analysis) — the research line treating anger as what follows a judgment about who is to blame; Novaco's stress-inoculation work is the clinical anchor."
+          "x": "[Anger's attributional analysis](card:Anger%27s%20attributional%20analysis): the research line treating anger as what follows a judgment about who is to blame; Novaco's stress-inoculation work is the clinical anchor."
         },
         {
           "t": "p",
-          "x": "[Frustration–aggression hypothesis](card:Frustration%E2%80%93aggression%20hypothesis) — the 1939 formulation that aggression follows frustration, one of the most seminal theories in the aggression literature."
+          "x": "[Frustration–aggression hypothesis](card:Frustration%E2%80%93aggression%20hypothesis): the 1939 formulation that aggression follows frustration, one of the most seminal theories in the aggression literature."
         },
         {
           "t": "p",
-          "x": "[Hostility research](card:Hostility%20research) — the studies asking whether chronic hostility and anger predict coronary heart disease; Chida and Steptoe's 2009 synthesis found the association."
+          "x": "[Hostility research](card:Hostility%20research): the studies asking whether chronic hostility and anger predict coronary heart disease; Chida and Steptoe's 2009 synthesis found the association."
         },
         {
           "t": "h2",
@@ -3873,11 +3873,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Revenge](card:Revenge) — the paradox Carlsmith, Wilson and Gilbert found: people expect hedonic rewards from punishing an offender, but revenge can have consequences precisely the opposite of what was expected."
+          "x": "[Revenge](card:Revenge): the paradox Carlsmith, Wilson and Gilbert found: people expect hedonic rewards from punishing an offender, but revenge can have consequences precisely the opposite of what was expected."
         },
         {
           "t": "p",
-          "x": "[Aggression research](card:Aggression%20research) — the modern study of harm-doing; Anderson and Bushman's 2002 definition: behaviour directed at another with the immediate intent to cause harm."
+          "x": "[Aggression research](card:Aggression%20research): the modern study of harm-doing; Anderson and Bushman's 2002 definition: behaviour directed at another with the immediate intent to cause harm."
         },
         {
           "t": "p",
@@ -3885,8 +3885,8 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Whatever wholesome deeds. Such as venerating the Buddhas, and generosity, That have been amassed over a thousand aeons Will all be destroyed in one moment of anger.\" ([Shantideva, Bodhicharyavatara VI.1, Batchelor translation](https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf)) — Primary text; quoted passages checked.",
-          "s": "Primary text; quoted passages checked"
+          "x": "\"Whatever wholesome deeds. Such as venerating the Buddhas, and generosity, That have been amassed over a thousand aeons Will all be destroyed in one moment of anger.\" ([Shantideva, Bodhicharyavatara VI.1, Batchelor translation](https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf)): Primary text; quoted passages checked.",
+          "s": null
         },
         {
           "t": "h2",
@@ -3894,15 +3894,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Anger management](card:Anger%20management) — the clinical field that treats problematic anger as its own target rather than as a symptom of something else."
+          "x": "[Anger management](card:Anger%20management): the clinical field that treats problematic anger as its own target rather than as a symptom of something else."
         },
         {
           "t": "p",
-          "x": "[Anger reappraisal](card:Anger%20reappraisal) — applying cognitive reappraisal to situations that elicit anger; Gross describes reappraisal as cognitive change directed at a situation's meaning."
+          "x": "[Anger reappraisal](card:Anger%20reappraisal): applying cognitive reappraisal to situations that elicit anger; Gross describes reappraisal as cognitive change directed at a situation's meaning."
         },
         {
           "t": "p",
-          "x": "[Anger regulation research](card:Anger%20regulation%20research) — what people can do, before and during an episode, to change anger's intensity and expression; Gross's process model organizes the field."
+          "x": "[Anger regulation research](card:Anger%20regulation%20research): what people can do, before and during an episode, to change anger's intensity and expression; Gross's process model organizes the field."
         },
         {
           "t": "p",
@@ -3910,8 +3910,8 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end.\" (Seneca, De Ira II.XXIX) — Primary text; quoted passages checked.",
-          "s": "Primary text; quoted passages checked"
+          "x": "\"The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end.\" (Seneca, De Ira II.XXIX): Primary text; quoted passages checked.",
+          "s": null
         },
         {
           "t": "h2",
@@ -3919,15 +3919,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Forgiveness](card:Forgiveness) — the release of a debt: the decision and the slow work of ending resentment and the claim to repayment, without erasing the wrong or excusing it."
+          "x": "[Forgiveness](card:Forgiveness): the release of a debt: the decision and the slow work of ending resentment and the claim to repayment, without erasing the wrong or excusing it."
         },
         {
           "t": "p",
-          "x": "[REACH model of forgiveness](card:REACH%20model%20of%20forgiveness) — Worthington's five steps: Recall the hurt, Empathize with the offender, give an Altruistic gift, Commit, Hold on to the forgiveness."
+          "x": "[REACH model of forgiveness](card:REACH%20model%20of%20forgiveness): Worthington's five steps: Recall the hurt, Empathize with the offender, give an Altruistic gift, Commit, Hold on to the forgiveness."
         },
         {
           "t": "p",
-          "x": "[Self-forgiveness](card:Self-forgiveness) — Hall and Fincham's construct: the motivational changes whereby one becomes decreasingly motivated to avoid, retaliate against, or withdraw from the self after an offense."
+          "x": "[Self-forgiveness](card:Self-forgiveness): Hall and Fincham's construct: the motivational changes whereby one becomes decreasingly motivated to avoid, retaliate against, or withdraw from the self after an offense."
         },
         {
           "t": "h",
@@ -3939,19 +3939,37 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question: does anger ever fit its object, or is it always a judgment error to be dissolved? Seneca's treatise treats anger as the rush that treats an appearance as true, and so as always resting on an unexamined judgment; the remedy is delay, not better aim. Aristotle's account (carried on [Righteous anger vs wrath](card:Righteous%20anger%20vs%20wrath)) allows anger with the right measure at the right object. The two positions answer the same question — what does a person with a grievance owe their anger — and part on whether the fitting case exists. What remains unresolved is whether the psychological findings on hostile attribution and anger's costs settle the question or only describe the typical case."
+          "x": "The shared question: does anger ever fit its object, or is it always a judgment error to be dissolved? Aristotle's account in the Nicomachean Ethics allows the fitting case:"
         },
         {
-          "t": "h2",
-          "x": "Does forgiveness help the one who forgives?"
+          "t": "q",
+          "x": "\"The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised.\" ([Aristotle, Nicomachean Ethics IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)): Primary text; quoted passages checked.",
+          "s": null
         },
         {
           "t": "p",
-          "x": "The shared question: does releasing a resentment benefit the holder, or only the offender? Worthington's REACH model and Carlsmith's revenge findings support the holder's side: revenge predicts worse mood and more rumination than forgiveness. Seneca's delay remedy is agnostic on the debt; it asks only for a right judgment. What remains unresolved is whether the benefits generalize, since the evidence base is largely correlational and the model is a protocol, not a mechanism."
+          "x": "Seneca's treatise treats anger as the rush that treats an appearance as true, and so as resting on a judgment the mind has not examined; the remedy is delay, not better aim. The two positions answer the same question, what a person with a grievance owes their anger, and part on whether the fitting case exists. What remains unresolved is whether the psychological findings on hostile attribution and anger's costs settle the question or only describe the typical case. Aristotle himself says the line is not easy to draw."
+        },
+        {
+          "t": "h2",
+          "x": "Does revenge deliver what it promises?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: does punishing an offender give the punisher what they expect? Carlsmith, Wilson and Gilbert tested this directly:"
+        },
+        {
+          "t": "q",
+          "x": "\"People expect to reap hedonic rewards when they punish an offender, but in at least some instances, revenge has hedonic consequences that are precisely the opposite of what people expect.\" ([Carlsmith, Wilson and Gilbert 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/19025285/)): Study abstract; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The finding is that people who punish continue to ruminate about the offender, whereas those who do not punish move on and think less about the offender. Seneca's delay remedy is agnostic on the debt; it asks only for a right judgment. What remains unresolved is whether the rumination finding generalizes beyond the experimental setting, since the study measured a single lab game rather than real-world grievances."
         },
         {
           "t": "h",
-          "x": "Practice — variation, selection, retention"
+          "x": "Practice: variation, selection, retention"
         },
         {
           "t": "vs",
@@ -3961,7 +3979,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "x": "Selection",
-          "body": "1. [Anger dissection](card:K169%20%E2%80%94%20Anger%20dissection) — take anger apart as it rises: the bodily sensation, the trigger, the story, the value violated, the urge to act.\n\n2. [Forgiveness practice](card:K170%20%E2%80%94%20Forgiveness%20practice) — the REACH steps: name the harm, attempt empathy, give the gift, commit, hold on."
+          "body": "1. [Anger dissection](card:K169%20%E2%80%94%20Anger%20dissection): take anger apart as it rises: the bodily sensation, the trigger, the story, the value violated, the urge to act.\n\n2. [Forgiveness practice](card:K170%20%E2%80%94%20Forgiveness%20practice): the REACH steps: name the harm, attempt empathy, give the gift, commit, hold on."
         },
         {
           "t": "vs",

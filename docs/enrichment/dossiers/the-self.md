@@ -36,9 +36,9 @@ How to read this page. Each line gives the entry’s own opening claim, compress
 
 [Embodied self](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20self) — The self as felt from inside the body: an interoceptive account of embodiment rather than the body as observed.
 
-[Critique of the unencumbered self](https://clemvillatte.github.io/flourishing-compendium/#card=Critique%20of%20the%20unencumbered%20self) — Michael Sandel calls the self conceived as given prior to and independent of its purposes and ends the "unencumbered self"; his critique targets versions of liberalism associated with Kant and John Rawls (Sandel…
+[Critique of the unencumbered self](https://clemvillatte.github.io/flourishing-compendium/#card=Critique%20of%20the%20unencumbered%20self) — Michael Sandel calls the self conceived as given prior to and independent of its purposes and ends the "unencumbered self"; his critique targets versions of liberalism associated with Kant and John Rawls (Sandel interview, sourcesjournal.org).
 
-[The wider self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wider%20self) — the compendium's umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body — a place, a river, other living beings — can be part of the self…
+[The wider self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wider%20self) — the compendium's umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body, a place, a river, other living beings, can be part of the self rather than objects for it.
 
 The Anattalakkhaṇa Sutta runs the analysis through the five aggregates, testing each for the control a true owner would have:
 
@@ -60,7 +60,7 @@ The chariot image from the Milindapañha gives the aggregate analysis its everyd
 
 [Self-as-context](https://clemvillatte.github.io/flourishing-compendium/#card=K139%20%E2%80%94%20Self-as-context) — The ACT move of noticing the one who notices: awareness as context rather than content (Hayes et al., 2011).
 
-[Self-distancing](https://clemvillatte.github.io/flourishing-compendium/#card=Self-distancing) — in Kross's formulation, is a process that allows people to transcend their egocentric viewpoint when reasoning about an experience, viewing themselves from the perspective of a distanced observer, akin…
+[Self-distancing](https://clemvillatte.github.io/flourishing-compendium/#card=Self-distancing) — in Kross's formulation, is a process that allows people to transcend their egocentric viewpoint when reasoning about an experience, viewing themselves from the perspective of a distanced observer, akin to a fly on the wall (Kross et al. 2012).
 
 [Distanced self-talk (Kross)](https://clemvillatte.github.io/flourishing-compendium/#card=Distanced%20self-talk%20%28Kross%29) — Ethan Kross’s practice of referring to yourself by name or with non-first-person pronouns while reflecting on something stressful.
 
@@ -112,7 +112,7 @@ The ACT version trains the position as a skill:
 
 [The social self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20self) — George Herbert Mead's answer to the question of what a self is made of.
 
-[The relational self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20relational%20self) — the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities rather than assembled first and connected…
+[The relational self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20relational%20self) — the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities rather than assembled first and connected later.
 
 [Independent vs interdependent self-construal (Markus & Kitayama)](https://clemvillatte.github.io/flourishing-compendium/#card=Independent%20vs%20interdependent%20self-construal%20%28Markus%20%26%20Kitayama%29) — Independent and interdependent self-construal are Hazel Markus and Shinobu Kitayama's names for the two ways cultures teach people to be a self.
 
@@ -124,7 +124,7 @@ The ACT version trains the position as a skill:
 
 [Self-Categorization Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-Categorization%20Theory) — Self-categorization theory (SCT) "was developed by John Turner and colleagues, and along with social identity theory it is a constituent part of the social identity approach" (Self-categorization theory, Wikipedia).
 
-[Embodied social identity](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20social%20identity) — The compendium anchors embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze (Fanon, The Fact of Blackness), and Cross's model of Black identity development…
+[Embodied social identity](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20social%20identity) — The compendium anchors embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze (The Fact of Blackness), and Cross's model of Black identity development.
 
 [The culturally embedded self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20culturally%20embedded%20self) — Taylor connects identity with commitments and identifications that provide a framework for judging what is good, valuable, or ought to be done.
 
@@ -138,7 +138,7 @@ The ACT version trains the position as a skill:
 
 [Ecological identity](https://clemvillatte.github.io/flourishing-compendium/#card=Ecological%20identity) — the part of a person's self-understanding that is built in relation to the natural world.
 
-[Self-silencing theory Jack](https://clemvillatte.github.io/flourishing-compendium/#card=Self-silencing%20theory%20Jack) — Self-silencing theory is Dana Jack's account of how people, beginning with the depressed women she interviewed, suppress their own thoughts, feelings and needs to keep close relationships safe, and what that suppression…
+[Self-silencing theory Jack](https://clemvillatte.github.io/flourishing-compendium/#card=Self-silencing%20theory%20Jack) — Self-silencing theory is Dana Jack's account of how people, beginning with the depressed women she interviewed, suppress their own thoughts, feelings and needs to keep close relationships safe, and what that suppression costs.
 
 Markus and Kitayama’s two construals, in their own definitions:
 
@@ -166,7 +166,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Self-serving attribution bias](https://clemvillatte.github.io/flourishing-compendium/#card=Self-serving%20attribution%20bias) — the tendency to explain your own successes by what you did and your failures by what the world did.
 
-[Self-handicapping theory Jones](https://clemvillatte.github.io/flourishing-compendium/#card=Self-handicapping%20theory%20Jones) — Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle…
+[Self-handicapping theory Jones](https://clemvillatte.github.io/flourishing-compendium/#card=Self-handicapping%20theory%20Jones) — Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle rather than on one's ability.
 
 [Temporal self-appraisal theory (Wilson & Ross)](https://clemvillatte.github.io/flourishing-compendium/#card=Temporal%20self-appraisal%20theory%20%28Wilson%20%26%20Ross%29) — Temporal self-appraisal theory is Anne Wilson and Michael Ross's account of how people use their past selves as material for feeling good now.
 
@@ -216,7 +216,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Harsh self-criticism](https://clemvillatte.github.io/flourishing-compendium/#card=Harsh%20self-criticism) — The inner attacker in Gilbert’s clinical account of self-criticism, linked with psychopathology.
 
-[Self-compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Self-compassion) — Kristin Neff's construct for relating to one's own suffering the way one would to a friend's, with three components: self-kindness (versus self-judgment), common humanity (versus isolation), and…
+[Self-compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Self-compassion) — Kristin Neff's construct for relating to one's own suffering the way one would to a friend's, with three components: self-kindness (versus self-judgment), common humanity (versus isolation), and mindfulness (versus over-identification).
 
 [Mindful self-compassion programme](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20self-compassion%20programme) — Neff and Germer’s eight-week programme training self-compassion (2013).
 
@@ -294,27 +294,27 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Self-actualization (Maslow)](https://clemvillatte.github.io/flourishing-compendium/#card=Self-actualization%20%28Maslow%29) — Self-actualization, in Abraham Maslow's original statement, is the need to become what one has it in one to become.
 
-[Self-determination](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determination) — the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed — chosen and wanted rather than pressured — and that…
+[Self-determination](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determination) — the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed, chosen and wanted rather than pressured, and that well-being tracks the satisfaction of three basic psychological needs, autonomy, competence, and relatedness.
 
 [Self-determined personality growth](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determined%20personality%20growth) — A compendium label for personality growth driven by the basic psychological needs; not a term from the underlying literature.
 
 [Self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Self-efficacy) — Albert Bandura's construct for the belief that one can execute the behaviour required to produce an outcome (Bandura, 1977).
 
-[Self-concordance theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordance%20theory) — proposes that people do better when their goals fit their developing interests and core values, and that this fit works in two ways: it sustains effort toward the goal, and it makes attaining the…
+[Self-concordance theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordance%20theory) — proposes that people do better when their goals fit their developing interests and core values, and that this fit works in two ways: it sustains effort toward the goal, and it makes attaining the goal more rewarding.
 
 [Self-concordant goals](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordant%20goals) — A goal is self-concordant when it is consistent with the person's developing interests and core values.
 
-[Self-concordant goal pursuit over time](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordant%20goal%20pursuit%20over%20time) — the sequence described in Sheldon and Elliot's self-concordance model: goals that fit a person's developing interests and core values are pursued with more sustained effort, are…
+[Self-concordant goal pursuit over time](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordant%20goal%20pursuit%20over%20time) — the sequence described in Sheldon and Elliot's self-concordance model: goals that fit a person's developing interests and core values are pursued with more sustained effort, are more likely to be reached, and bring more well-being when they are reached.
 
 [Self-expansion](https://clemvillatte.github.io/flourishing-compendium/#card=Self-expansion) — the motivation to grow the self: to add knowledge, abilities, perspectives and resources to what one is.
 
 [The expanding self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20expanding%20self) — a cross-tradition figure: the self described not as a fixed unit but as something that grows past its own boundaries, whether by including more of the world or by discovering layers within.
 
-[Self-as-doer theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-as-doer%20theory) — Houser-Marko and Sheldon (2006) introduced the self-as-doer as "a new motivational construct" to answer: "Why do some people persist in goal pursuit, even in the face of boredom or setbacks, whereas others quickly give…
+[Self-as-doer theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-as-doer%20theory) — Houser-Marko and Sheldon (2006) introduced the self-as-doer as "a new motivational construct" to answer why some people persist in goal pursuit while others quickly give up; studies found longitudinal evidence that endorsing doer statements predicts goal attainment.
 
 [Self-transcendence](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transcendence) — names the family of experiences and orientations in which the self recedes from the center.
 
-[Self-transcendent emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transcendent%20emotions) — are the class of positive emotions a 2016 study sorts by their fit to religious and spiritual life: awe, gratitude, love and peace carry the relation between spirituality and well-being, while…
+[Self-transcendent emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transcendent%20emotions) — are the class of positive emotions a 2016 study sorts by their fit to religious and spiritual life: awe, gratitude, love and peace carry the relation between spirituality and well-being, while amusement and pride, positive as they are, do not.
 
 [Self-transcendent experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transcendent%20experiences) — are temporary states in Yaden and colleagues' framework (2017, abstract).
 
@@ -324,9 +324,9 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 ### The self in the engine room
 
-[Self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Self-regulation) — In Carver and Scheier's model, behavioral self-regulation means guiding behavior toward goals using feedback about current progress (On the Self-Regulation of Behavior, ch.
+[Self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Self-regulation) — In Carver and Scheier's model, behavioral self-regulation means guiding behavior toward goals using feedback about current progress (On the Self-Regulation of Behavior, ch. 5).
 
-[Behavioral self-regulation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20self-regulation%20theory) — Carver and Scheier's cybernetic account of how actions are steered: goals act as reference values, perception supplies the input, a comparator measures the gap, and behaviour changes…
+[Behavioral self-regulation theory](https://clemvillatte.github.io/flourishing-compendium/#card=Behavioral%20self-regulation%20theory) — Carver and Scheier's cybernetic account of how actions are steered: goals act as reference values, perception supplies the input, a comparator measures the gap, and behaviour changes to close it.
 
 [Control theory of self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Control%20theory%20of%20self-regulation) — Carver, Scheier — behaviour is governed by feedback loops comparing current state to goals; mismatch drives action.
 
@@ -336,7 +336,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Self-control training](https://clemvillatte.github.io/flourishing-compendium/#card=Self-control%20training) — "Self-control training" names the practice of doing small, regular self-control tasks — using the non-dominant hand, avoiding sweets, sitting up straight — in the hope of building a general capacity.
 
-[Ego depletion](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20depletion) — theory Baumeister — the strength or resource depletion model proposes that self-control is a limited resource depleted after a period of exertion (Hagger et al.
+[Ego depletion](https://clemvillatte.github.io/flourishing-compendium/#card=Ego%20depletion) — theory Baumeister — the strength or resource depletion model proposes that self-control is a limited resource depleted after a period of exertion (Hagger et al. 2016, Perspect Psychol Sci 11(4):546-573, abstract).
 
 ### Working on the self, in the classical sayings
 
