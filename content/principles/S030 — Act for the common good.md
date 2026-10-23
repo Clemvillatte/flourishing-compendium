@@ -24,6 +24,10 @@ A modern parallel exists on the psychology side. Dunn, Aknin and Norton found th
 
 *For example:* A team member could skip a testing step to finish sooner. They think about the colleague who will inherit the bugs and run the test.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the philosopher's-appearance point the page draws on.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations II, VI, IX (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.2.two.html) — MIT Internet Classics Archive, Books Two, Six and Nine opened

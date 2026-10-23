@@ -28,6 +28,10 @@ Seneca uses "pleasure" here for unstable delight based on something mistaken for
 
 Take two people at the same dinner. One needs the evening to be excellent to call the week a success; the other came for the company. The same meal costs the first more than the second.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letter 59 line between pleasure and joy the page draws on.
+
 ## Psychology parallels
 
 - **Eudaimonic versus hedonic well-being** (Ryff, 1989; Huta and Ryan, 2010)

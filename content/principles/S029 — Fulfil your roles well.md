@@ -25,6 +25,10 @@ The method is naming before acting. Say what you are in this room: a father, a m
 
 *For example:* Dragging yourself to your daughter's recital after a long day, because being her father right now means being there.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters 44, 71 and 95 citations the page carries.
+
 ## Sources
 
 - [Epictetus, Discourses II.10, "How we may discover the duties of life from names" (George Long translation), Delphi Complete Works of Epictetus, owner's Drive library](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view?usp=drive_link) — the senator/youth/old man passage and the forgotten-name diagnosis

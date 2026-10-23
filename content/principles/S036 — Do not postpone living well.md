@@ -20,6 +20,10 @@ Two psychology items are loose fits. Kasser and Sheldon (2009) report across fou
 
 *For example:* You call the friend you have been meaning to call, rather than waiting until things calm down.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the On the Shortness of Life opening (Basore translation) the page quotes.
+
 ## Sources
 
 - [Seneca, On the Shortness of Life, ch. 1 (Basore), Wikisource](https://en.wikisource.org/wiki/On_the_shortness_of_life/Chapter_I)

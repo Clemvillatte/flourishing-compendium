@@ -24,6 +24,10 @@ That asymmetry matters: grateful acceptance already returns goodwill, while a ma
 
 *For example:* Suppose a friend drives you to an appointment. Thank them for the time and trouble; when they later need a lift, offer one because it would help, not to cancel the first journey.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the goodwill-behind-the-benefit teaching the page draws on.
+
 ## Stories
 
 - [[ST199 — Marcus at the Front|199. Marcus at the Front]]

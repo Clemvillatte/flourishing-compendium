@@ -26,6 +26,10 @@ The psychology parallel is also mixed. A systematic review of 53 articles on you
 
 *For example:* Someone attends a local planning meeting about clinic funding, and speaks up because the outcome affects neighbours they will never meet.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letter 73 non-answer on public office the page unpacks.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations IV, VI (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.4.four.html) — MIT Internet Classics Archive, Books Four and Six opened

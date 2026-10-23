@@ -22,6 +22,10 @@ The standard is demanding without requiring an unbroken performance of perfectio
 
 *For example:* Suppose you tell your child that honesty matters, then notice a shop has undercharged you. Going back to correct the bill gives your child something more concrete than another talk about honesty.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the prove-your-words-by-your-deeds quote (Letters 20.1) the page opens with.
+
 ## Stories
 
 - [[ST198 — The Gardener Tends|198. The Gardener Tends]]

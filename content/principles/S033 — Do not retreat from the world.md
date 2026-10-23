@@ -26,6 +26,10 @@ Holt-Lunstad, Smith and Layton's meta-analysis of 148 studies found that stronge
 
 *For example:* Someone who has been meaning to read in peace instead accepts a hard committee role, and keeps a short quiet hour each morning to prepare for it.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letter 5 point about how a philosopher should appear.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations IV and V (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.4.four.html) — MIT Internet Classics Archive, Books Four and Five opened

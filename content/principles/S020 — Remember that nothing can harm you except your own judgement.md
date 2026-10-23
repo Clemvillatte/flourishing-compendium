@@ -26,6 +26,10 @@ The compendium's application: run the distinction on a small case before you nee
 
 *For example:* A rude email lands. The email is a fact. The three hours of seething afterwards are yours.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Seneca Writes to His Mother story (ST194) the page carries.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations IV.7 (George Long translation, Wikisource)](https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IV)

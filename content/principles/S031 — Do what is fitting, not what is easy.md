@@ -25,6 +25,10 @@ The hard part is usually the moment before the act, not the act itself: the conv
 
 *For example:* Telling your team the project is behind schedule, rather than letting it slide until someone else finds out.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters 20, 71 and 104 citations the page carries.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VIII.11 (reluctance and the common good), IX.28 (do what thy nature doth now require)

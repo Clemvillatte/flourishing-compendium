@@ -25,6 +25,10 @@ For the compendium's planning exercise, choose one specific disruption and write
 
 *For example:* Imagine a train cancellation on the way to an appointment. Before travelling, you note an alternative route and whom to tell if you are delayed.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letter 18 practice of days with inexpensive food, the page's source.
+
 ## Sources
 
 - [Seneca, Moral Letters to Lucilius, Letter 18 (Gummere translation, full text)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)

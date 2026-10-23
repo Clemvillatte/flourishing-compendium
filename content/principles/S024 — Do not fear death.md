@@ -28,6 +28,10 @@ You will die; the date is unknown. In this Stoic exercise, examine the thought t
 
 A person can spend a quiet half hour imagining their own death, on purpose, and see what the week's frictions weigh afterwards. The rehearsal is the old Stoic one: meet death while it is far away, so it is not met only in panic.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the memento mori teaching (On the Shortness of Life) the page lists.
+
 ## Psychology parallels
 
 - **[[Terror management|Terror management theory]]** (Greenberg et al., 1986)

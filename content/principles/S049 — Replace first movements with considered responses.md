@@ -28,6 +28,10 @@ Seneca distinguishes the initial disturbance from accepting an apparent injury a
 
 For example: an angry email lands and you flinch as you read it; the flinch is the first movement. A reply is drafted and left unsent while its accusations are checked one by one; what finally goes out is chosen.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the On Anger question about whether anger springs up without the mind, the page's source.
+
 ## Psychology parallels
 
 - **[[Emotion regulation|Emotion regulation research]]** (Gross, 2015)

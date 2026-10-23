@@ -20,6 +20,10 @@ Cohen and Wills (1985) concluded that evidence fits both a buffering model and a
 
 *For example:* You phone a friend who has just lost a job, not to cheer him up, but to listen.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letter 9 self-sufficiency-and-friendship passage the page matches closely.
+
 ## Sources
 
 - [Seneca, Letter 9 (Gummere), Standard Ebooks](https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere/text/letter-9)

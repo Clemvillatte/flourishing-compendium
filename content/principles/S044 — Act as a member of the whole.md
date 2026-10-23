@@ -26,6 +26,10 @@ The whole-part idea is a claim about where your interests actually live. The bee
 *For example:*
 Throwing away a plastic bottle becomes a slightly different act when you remember where it ends up.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the citations the page carries in its source list.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations IV.40 and VI.54, George Long translation, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.4.four.html) — universe-as-one-living-being passage quoted verbatim (IV.40); bee and Rome/world passages cited (Book VI)

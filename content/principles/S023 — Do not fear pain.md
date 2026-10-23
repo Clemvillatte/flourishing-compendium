@@ -25,6 +25,10 @@ The fear of pain usually does more work than the pain itself: dread arrives firs
 
 *For example:* Getting through a hard physical therapy session without complaint, because the recovery matters more than the comfort.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Nature quote the page opens with.
+
 ## Sources
 
 - [Seneca, Moral Letters to Lucilius, Letter 78 (Gummere, Loeb Vol. II), Internet Archive full text](https://archive.org/details/ad-lucilium-epistulae-morales) — pain endurable or short; pain slight if opinion has added nothing
