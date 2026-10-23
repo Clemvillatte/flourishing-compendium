@@ -22,6 +22,10 @@ The training is to intercept the impression before it hardens into opinion: "be 
 
 *For example:* Hearing a noise at night and thinking "intruder," then recognising it as the radiator.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the exemplar behind the page's separation of impression from reality.
+
 ## Stories
 
 - [[ST203 — Socrates as the Stoic Before the Stoics|203. Socrates as the Stoic Before the Stoics]]

@@ -24,6 +24,10 @@ The compendium applies this argument to beginning a practice with the time and a
 
 *For example:* an exhausted parent spends two minutes reviewing a difficult exchange with their child and writes down one response to try next time.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the naturally-dull passage the page quotes from Epictetus's Socrates.
+
 ## Sources
 
 - [Epictetus, Discourses I.2, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt)

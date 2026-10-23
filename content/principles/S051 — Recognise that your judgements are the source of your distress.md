@@ -20,6 +20,10 @@ The chapter then grades the learner: "It is the act of an ill-instructed man to 
 
 *For example:* after a harsh review you feel worthless. Write the verdict as a sentence, say, "one criticism means I'm incompetent," and check it against the evidence you would demand from anyone else making the claim.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the exemplar behind Epictetus's Enchiridion 5 division of events and verdicts.
+
 ## Sources
 
 - [Epictetus, Enchiridion 5, trans. George Long (Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0236:text=enc:chapter=5)

@@ -25,6 +25,10 @@ Pick something you say matters to you. Write down your reasons for pursuing it a
 
 *For example:* Imagine considering a promotion. You list the reasons for accepting or declining, then ask which priorities you are willing to defend.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the daily examination of virtue the page puts at the centre of the good life.
+
 ## Sources
 
 - Plato, Apology 38a (Benjamin Jowett translation) — [MIT Classics](https://classics.mit.edu/Plato/apology.html)

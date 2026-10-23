@@ -27,6 +27,10 @@ Someone can remember wanting a very different life ten years ago and still assum
 
 *For example:* Before spending a windfall, someone compares a purchase they want now with keeping money available for later life. They write a possible ordinary day at seventy and consider what they might want then, while recognizing that the picture could change.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-across-time parallel the page draws.
+
 ## Sources
 
 - [Markus, H. and Nurius, P. (1986), Possible selves, American Psychologist 41(9), 954-969, full text PDF](https://cmapspublic2.ihmc.us/rid=1LQJK1Z9J-16LFNTG-39MK/Possible%20Selves%20ARTICLE.pdf) — the definition; the incentive claim

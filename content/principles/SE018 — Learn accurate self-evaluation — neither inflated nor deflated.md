@@ -25,6 +25,10 @@ For one task, list what you can demonstrate and what remains uncertain. Identify
 
 *For example:* Imagine a new employee completing an analysis they have checked while asking a colleague to review an unfamiliar procedure.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the calibration edge over the politician he examined, the page's opening case.
+
 ## Sources
 
 - Plato, Apology 21d (Benjamin Jowett translation) — [MIT Classics](https://classics.mit.edu/Plato/apology.html)

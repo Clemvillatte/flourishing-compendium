@@ -28,6 +28,10 @@ The passages are self-address. Book I thanks others for lessons, including a gra
 
 *For example:* Admitting to yourself that you avoid hard conversations by staying busy, and planning one for Thursday.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the know-thyself maxim the page names him for.
+
 ## Stories
 
 - [[ST209 — The Citizen of the World|209. The Citizen of the World]]

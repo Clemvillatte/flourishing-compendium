@@ -25,6 +25,10 @@ A thought arrives the way a sound arrives: unasked. The Stoic claim is that betw
 
 *For example:* Noticing "there's the 'I'm a failure' thought again" and seeing it as weather.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the Stoic-before-the-Stoics story (ST203) the page lists for thoughts held at a distance.
+
 ## Stories
 
 - [[ST201 — Withholding Assent|201. Withholding Assent]]

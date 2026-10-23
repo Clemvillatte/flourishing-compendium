@@ -24,6 +24,10 @@ The exercise is to take apart what often arrives as one thing: something that ha
 
 For example: a friend misses an agreed call; "she didn't call" is the fact, "she doesn't care" is the interpretation added to it.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the exemplar behind the page's Enchiridion quote on opinions versus things.
+
 ## Psychology parallels
 
 - **[[Cognitive defusion|Cognitive defusion]]** (Hayes et al., 2011)

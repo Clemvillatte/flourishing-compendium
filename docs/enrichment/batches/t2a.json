@@ -366,11 +366,25 @@
   "content/principles/S003 — Recognise that you are disturbed not by things but by your judgements about them.md",
   "content/principles/S017 — Refuse to see externals as good or bad.md",
   "content/principles/S021 — Do not desire externals as if they were permanent.md",
-  "content/principles/S039 — Be a good family member.md"
+  "content/principles/S039 — Be a good family member.md",
+  "content/principles/S045 — Examine every impression.md",
+  "content/principles/S047 — See impressions as what they are — appearances, not realities.md",
+  "content/principles/S048 — Withhold assent when the impression is uncertain.md",
+  "content/principles/S051 — Recognise that your judgements are the source of your distress.md",
+  "content/principles/S054 — Distinguish between facts and interpretations.md",
+  "content/principles/S057 — Recognise that your thoughts are not you.md",
+  "content/principles/S086 — Be honest with yourself.md",
+  "content/principles/S107 — Handle exile with resilience.md",
+  "content/principles/S132 — Begin where you are.md",
+  "content/principles/SE007 — Understand that the self has temporal depth — past, present, and future selves.md",
+  "content/principles/SE011 — Recognise the narrative structure of self — you are a story.md",
+  "content/principles/SE013 — Cultivate accurate self-knowledge — know your traits, values, and patterns.md",
+  "content/principles/SE014 — Know your values — what actually matters to you.md",
+  "content/principles/SE018 — Learn accurate self-evaluation — neither inflated nor deflated.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:24:37+00:00",
+ "updated": "2026-10-23T14:24:53+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

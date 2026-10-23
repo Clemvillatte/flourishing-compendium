@@ -36,6 +36,10 @@ The first question is about control. The questions "is it true?" and "is it comp
 
 *For example:* Imagine you read an alarming headline. Before sharing it, you say to it, "You are an appearance," and look for what the headline leaves out.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the Stoic-before-the-Stoics story (ST203) the page lists for examining impressions.
+
 ## Stories
 
 - [[ST201 — Withholding Assent|201. Withholding Assent]]

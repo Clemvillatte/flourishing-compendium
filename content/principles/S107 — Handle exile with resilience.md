@@ -25,6 +25,10 @@ Choose a particular displacement. List what it would remove and what it would le
 
 *For example:* Moving abroad for work and building a small routine in a language you barely speak.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the premise Musonius's exile answer turns on, the page's source.
+
 ## Sources
 
 - [Musonius Rufus, Lecture IX (Cora Lutz translation, StoicSource)](https://www.stoicsource.com/rufus/lectures/IX/)

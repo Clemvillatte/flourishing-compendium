@@ -25,6 +25,10 @@ The compendium's reading: if identity is narrated, the narration can be examined
 **Plain words** You already tell your life as a story — to friends, in your head, at interviews. The research point is that the telling has a shape, and the shape is countable: does it move from bad scenes to good outcomes, or the reverse? Two people with the same facts can be telling very different stories. Noticing your default arc is the first edit; the second is checking whether a dark chapter is doing the closing narration.
 
 *For example:* The divorce told as "I was deceived and wasted my best years" versus "I learned what I value and left" — same marriage, same facts, and the second narrator walks into the next chapter.
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-as-a-story parallel the page draws.
+
 ## Psychology parallels
 
 - **[[Narrative identity|Narrative identity (McAdams)]]**, identity is a life story with themes, arcs, and meaning (McAdams, 2001; McAdams & McLean, 2013)

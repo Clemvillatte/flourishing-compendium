@@ -32,6 +32,10 @@ You know some things about yourself better than anyone else does, and others kno
 **For example**
 Pick one trait you have rated yourself on and ask two close friends to rate it independently. Compare the answers.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) for knowing your own patterns.
+
 ## Sources
 
 - [Vazire 2010, Who knows what about a person? (PubMed)](https://pubmed.ncbi.nlm.nih.gov/20085401/)

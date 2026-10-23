@@ -26,6 +26,10 @@ The understanding already has a default policy: incline to the true, be dissatis
 *For example:*
 You don't reply to a worrying message until you've heard the full story.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the Stoic-before-the-Stoics story (ST203) the page lists for withholding assent.
+
 ## Sources
 
 - [Epictetus, Discourses I.28, George Long translation, StoicSource](https://www.stoicsource.com/epictetus/discourses/1.28/) — the constitution-of-understanding passage quoted verbatim; madman and scales passages cited
