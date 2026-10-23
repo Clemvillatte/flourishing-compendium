@@ -77,9 +77,14 @@ absence. The original proposal as approved follows.
 
 ## Proposal (owner sign-off requested — the queue is the owner's canonical artifact)
 
-1. EXTEND the queue with the eleven first-wave candidates in rank order: Heidegger,
-   Buber, Husserl, Patanjali, Whitehead, Levinas, Merleau-Ponty, Rumi, Shantideva,
-   Bergson, Ricoeur — IDs T038–T048. Each clears the 10+ floor at least 5x.
+1. [EXECUTED WITH AMENDMENTS — see the Decision section above: Rumi was dropped on
+   word-boundary recount (7 files, below the 10+ floor) BEFORE minting, so the first
+   wave minted as TEN candidates, IDs T038–T047: Heidegger, Buber, Husserl, Patanjali,
+   Whitehead, Levinas, Merleau-Ponty, Shantideva, Bergson, Ricoeur. Each clears the
+   10+ floor at least 5x.] EXTEND the queue with the eleven first-wave candidates in
+   rank order: Heidegger, Buber, Husserl, Patanjali, Whitehead, Levinas, Merleau-Ponty,
+   Rumi, Shantideva, Bergson, Ricoeur — IDs T038–T048. Each clears the 10+ floor at
+   least 5x.
 2. SECOND WAVE (owner taste call): Nishida, Nagarjuna, Shankara at minimum — so the
    Yoga-Vedanta, Kyoto-School and Madhyamaka anchors each have a thinker; consider also
    Jaspers, Gadamer, MacIntyre, Dogen, Mencius, Nishitani.

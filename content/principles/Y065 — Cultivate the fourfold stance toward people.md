@@ -16,11 +16,11 @@ Yoga Sutra 1.33 is the tradition's most practical social psychology. In Rama Pra
 
 > By cultivating habits of friendliness, compassion, complacency and indifference towards happiness, misery, virtue and vice (respectively) the mind becomes pure. ([YS 1.33, Wisdom Library](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216632.html))
 
-Swami Satchidananda renders the same sutra as "attitudes of friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and disregard toward the wicked" ([quoted at Oyster Bay Yoga](https://www.oysterbayyoga.com/news/2021/2/28/6k6oduzgj63yaro617uikdc9q1e6br); the Oyster Bay page carries this wording but does not itself name a translator). The compendium reads the last category (upeksha) as the hostile and corrosive, and not as a license for contempt. Disregard here means even-minded non-engagement. It does not mean tolerating harm: where a relationship is abusive or dangerous, the practice is safety and boundaries, and the stance work comes later.
+Oyster Bay Yoga reproduces another rendering of the same sutra: "attitudes of friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and disregard toward the wicked" ([Oyster Bay Yoga](https://www.oysterbayyoga.com/news/2021/2/28/6k6oduzgj63yaro617uikdc9q1e6br); the carrier carries this wording without naming a translator, and no opened carrier establishes the translator). The compendium reads the last category (upeksha) as the hostile and corrosive, and not as a license for contempt. Disregard here means even-minded non-engagement. It does not mean tolerating harm: where a relationship is abusive or dangerous, the practice is safety and boundaries, and the stance work comes later.
 
 Practically, when a person disturbs you, identify which of the four conditions they are in and apply the matching stance.
 
-(YS 1.33, trans. Rama Prasada, 1924; Satchidananda as quoted.)
+(YS 1.33, trans. Rama Prasada, 1924; the Oyster Bay rendering is quoted without translator attribution.)
 
 ### Plain words
 
@@ -33,7 +33,7 @@ You notice your reaction to a friend's good news is envy. You practise the delig
 ## Sources
 
 - Yoga Sutra 1.33, trans. Rama Prasada (1924): [Wisdom Library](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216632.html)
-- Yoga Sutra 1.33, trans. Swami Satchidananda, as quoted at [Oyster Bay Yoga](https://www.oysterbayyoga.com/news/2021/2/28/6k6oduzgj63yaro617uikdc9q1e6br) (the carrier carries the wording without naming a translator; the Satchidananda attribution is not established by this carrier)
+- Yoga Sutra 1.33, rendering as quoted at [Oyster Bay Yoga](https://www.oysterbayyoga.com/news/2021/2/28/6k6oduzgj63yaro617uikdc9q1e6br) (the carrier carries the wording without naming a translator; no opened carrier establishes the translator)
 
 ## Psychology parallels
 

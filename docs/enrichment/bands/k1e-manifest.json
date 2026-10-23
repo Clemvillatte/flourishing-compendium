@@ -1,8 +1,7 @@
 {
  "band": "k1e",
- "source": "reconciliation of out-of-queue kernel pages (content/kernels/ pages with no recorded-done entry and no queue entry, 2026-10-23 supervisor reconciliation)",
+ "source": "reconciliation of out-of-queue kernel pages (content/kernels/ pages with no recorded-done entry \u2014 by K-ID OR by bare title, across ALL band state files \u2014 and no queue entry; 2026-10-23 supervisor reconciliation, corrected same day)",
  "paths": [
-  "content/kernels/K200 \u2014 Rest as practice.md",
   "content/kernels/K250 \u2014 Virtue rehearsal.md",
   "content/kernels/K251 \u2014 Signature strengths in new ways.md",
   "content/kernels/K253 \u2014 The mean calibration.md",
@@ -38,8 +37,6 @@
   "content/kernels/K375 \u2014 Setback, not relapse.md",
   "content/kernels/K376 \u2014 Give complex affirmations.md",
   "content/kernels/K377 \u2014 Offer two or three options, not one.md",
-  "content/kernels/K378 \u2014 Cultivate your Compassionate Self.md",
-  "content/kernels/K379 \u2014 Compassion for a struggling version of yourself.md",
   "content/kernels/K380 \u2014 The Two Teachers: change the tone, keep the lesson.md",
   "content/kernels/K381 \u2014 Compassionate Thinking: name the part, then look from the other side.md",
   "content/kernels/K383 \u2014 Safe Place with an affiliative welcome.md",
@@ -68,7 +65,6 @@
   "content/kernels/K419 \u2014 Microcosmic orbit (xiao zhoutian).md"
  ],
  "ids": [
-  "K200",
   "K250",
   "K251",
   "K253",
@@ -104,8 +100,6 @@
   "K375",
   "K376",
   "K377",
-  "K378",
-  "K379",
   "K380",
   "K381",
   "K383",

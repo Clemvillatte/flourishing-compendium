@@ -194,29 +194,21 @@ def main():
     kdone_entries = 0
     kdone_ids = []
     kband_names = []
-    for bp in sorted(glob.glob(os.path.join(ROOT, 'docs/enrichment/batches/k*.json'))):
-        try:
-            s = json.load(open(bp))
-        except Exception:
-            continue
-        d = s.get('done', [])
-        if not isinstance(d, list) or not d:
-            continue
-        if not (isinstance(d[0], str) and re.search(r'K\d', d[0])):
-            continue
-        kband_names.append(os.path.basename(bp)[:-5])
-        kdone_entries += len(d)
-        for it in d:
-            kdone_ids.extend(_kids([it]))
-    # title-recorded entries (kpr records some kernels by title, not K-ID): match against page filenames
+    # kernel page IDs/titles first, so bands are matched against real kernel pages
+    kpage_ids = set()
     kpage_titles = {}
     for fp in glob.glob(os.path.join(ROOT, 'content/kernels/*.md')):
         b = os.path.basename(fp)[:-3]
         m = re.match(r'(K\d+) — (.*)', b)
         if m:
+            kpage_ids.add(m.group(1))
             kpage_titles[m.group(2)] = m.group(1)
     title_matched = set()
-    for bp in sorted(glob.glob(os.path.join(ROOT, 'docs/enrichment/batches/k*.json'))):
+    # ALL band state files count: kernel-adjacent bands outside batches/k*.json also
+    # record kernel completions (e.g. cmp records 'K413 — Box breathing' strings), and
+    # kpr records some kernels by bare title. Entries are counted only when they match
+    # an existing kernel page (K-ID or title), so principle-band K-IDs cannot collide.
+    for bp in sorted(glob.glob(os.path.join(ROOT, 'docs/enrichment/batches/*.json'))):
         try:
             s = json.load(open(bp))
         except Exception:
@@ -224,12 +216,17 @@ def main():
         d = s.get('done', [])
         if not isinstance(d, list) or not d:
             continue
-        if not (isinstance(d[0], str) and re.search(r'K\d', d[0])):
-            continue
+        band_hit = False
         for it in d:
             s2 = it if isinstance(it, str) else ''
-            if not re.search(r'K\d+', s2) and s2 in kpage_titles:
-                title_matched.add(kpage_titles[s2])
+            m = re.search(r'K\d+', s2)
+            if m and m.group(0) in kpage_ids:
+                kdone_ids.append(m.group(0)); band_hit = True
+            elif not m and s2 in kpage_titles:
+                title_matched.add(kpage_titles[s2]); band_hit = True
+        if band_hit:
+            kband_names.append(os.path.basename(bp)[:-5])
+            kdone_entries += sum(1 for it in d if isinstance(it, str))
     from collections import Counter
     kcnt = Counter(kdone_ids)
     for kid_ in title_matched:
