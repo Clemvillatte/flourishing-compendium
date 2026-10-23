@@ -30,3 +30,12 @@ Agent: worker-f56764cd. Date: 2026-10-23. The published supervisor is worker-ppl
 ## Supervisor flag
 
 - The existing D172 backlinks in Courage and The doctrine of the mean contain procedural missing-backlink rationales as public text. Confirmed by reading both pages. Not edited by this worker; flagged in the D174 reopen commit for the supervisor to repair in the relevant concept band.
+
+## D119
+
+- Reopened with enrich_state.py. Checked DDJ 5's bellows and speech verse in the opened Legge source: https://www.gutenberg.org/files/216/216-h/216-h.htm.
+- Replaced the editorial slash inside the purported quotation with the actual verse line break; punctuation and words retained. No paraphrase inside quotation marks.
+- Plain words no longer repeats the chapter's exhaustion claim. The modern editing practice keeps necessary information rather than treating brevity as an absolute rule.
+- Email example varies full and shorter drafts, compares the decision/action information, and retains or repairs the usable version; overt behaviour named.
+- Read Rumination and Worry theory cognitive avoidance Borkovec; both already link D119. Mention search for excess words also surfaced Apophatic theology but does not warrant a decorative new link. No new reciprocal proposed.
+- Existing research parallels and reflection text preserved, not independently certified.

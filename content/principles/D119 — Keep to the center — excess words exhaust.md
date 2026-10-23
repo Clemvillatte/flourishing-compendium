@@ -16,14 +16,18 @@ Chapter 5 of the Daodejing compares the space between heaven and earth to a bell
 
 (DDJ 5.)
 
-> "Much speech to swift exhaustion lead we see; / Your inner being guard, and keep it free." (DDJ 5, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+> "Much speech to swift exhaustion lead we see;  
+> Your inner being guard, and keep it free." (DDJ 5, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium's exercise takes the verse as a reason to stop once a thing is clearly explained, rather than to keep explaining past it.
+Using this counsel as an editing practice means distinguishing useful information from repetition. It need not mean choosing the shortest answer regardless of what a listener needs to know.
 
-**Plain words**
-Next time you explain something, notice the moment it becomes clear. Practice stopping there, and notice what the sentences after that moment feel like they are for. The chapter's counsel is about supply: much spending of speech, it says, ends in exhaustion.
+### Plain words
 
-*For example:* Imagine explaining a decision in a meeting. When the explanation is complete, count the extra sentences you are tempted to add.
+If you keep adding sentences, ask what new information each supplies. Leave room for a real question rather than trying to answer every imagined objection. Keep the facts someone needs, even when they make the answer longer.
+
+### For example
+
+For an overt-behaviour exercise, draft a difficult email in full, then make a shorter version. Compare whether each explains the decision and the action requested. Retain the shorter form only if it keeps those essentials; otherwise restore what is missing.
 
 ## Sources
 
