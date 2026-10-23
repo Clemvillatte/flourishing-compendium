@@ -49,3 +49,51 @@ compendium's general retention framing.
 - 45922ff — the markdown
 - 6694db0 — the Academy view mirror (fcDossiersData, 42 blocks; render
   test PASS, the-self regression PASS)
+
+## Revision 2 (2026-10-23, worker-pplx-dossiers-1025)
+
+This revision records the verification performed in this session, replacing
+the revision-1 carryover framing.
+
+### Carriers opened this session and compared directly
+
+- Seneca, Of Anger, Aubrey Stewart translation (Gutenberg 64576-0.txt):
+  all three Seneca passages on the dossier ("no plague has cost...", "Anger
+  is that which goes beyond reason...", "The greatest remedy for anger is
+  delay...") verified word-for-word against the retrieved text.
+- Shantideva, Bodhicharyavatara VI.1, Batchelor translation
+  (tibethouse.jp PDF): "Whatever wholesome deeds..." verified word-for-word.
+- Aristotle, Nicomachean Ethics IV.5, Ross translation (Internet Classics
+  Archive): "The man who is angry at the right things..." verified
+  word-for-word against the retrieved text. This quote was added to the
+  divergence section in this revision.
+- Carlsmith, Wilson and Gilbert 2008, "The paradoxical consequences of
+  revenge" (PubMed 19025285 abstract, retrieved via web search): the
+  abstract sentence "People expect to reap hedonic rewards when they punish
+  an offender, but in at least some instances, revenge has hedonic
+  consequences that are precisely the opposite of what people expect."
+  verified. This quote was added to the divergence section in this revision.
+- Dodge et al. 2015, "Hostile attributional bias and aggressive behavior in
+  global context" (PMC4522743, full abstract retrieved): the hostile
+  attribution claim in the map verified against the abstract.
+
+### Corrections made in this revision
+
+- The divergence section originally claimed revenge "predicts worse mood and
+  more rumination than forgiveness." The Carlsmith study compares punishing
+  with not punishing, not punishing with forgiving. The claim was corrected
+  to the study's own framing: people who punish continue to ruminate,
+  whereas those who do not punish move on.
+- The Aristotle position in the divergence section originally had no
+  quotation. The NE IV.5 passage was added, carrier opened and verified.
+- The em-dash separators in the map entries were replaced with colons per
+  the HUMANIZER no-em-dash rule.
+
+### The Self repairs recorded here for the baton
+
+- 14 truncated entries in The Self (ending mid-sentence with an ellipsis)
+  were completed from the linked concept pages' own opening text, in both
+  the markdown and the Academy data.
+- The Academy renderer's card URL function double-encoded already-encoded
+  card names (The%20witness became The%2520witness). Fixed with a
+  decode-then-encode guard.
