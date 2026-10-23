@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 29** — Practice the right kind of anger
 
-Aristotle treats anger as a passion that admits of a mean. Ross's translation calls it good temper, while noting that the middle state is unnamed and the label inclines toward deficiency:
+Aristotle treats [[Anger|anger]] as a passion that admits of a mean. Ross's translation calls it good temper, while noting that the middle state is unnamed and the label inclines toward deficiency:
 
 > "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." (NE IV.5)
 

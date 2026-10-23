@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 115** — Understand anger (orge)
 
-The Rhetoric opens its account of the emotions with anger, defined:
+The Rhetoric opens its account of the emotions with [[Anger|anger]], defined:
 
 > "Anger may be defined as an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight directed without justification towards what concerns oneself or towards what concerns one's friends." ([Rhetoric II.2, Rhys Roberts translation, MIT Classics](http://classics.mit.edu/Aristotle/rhetoric.2.ii.html))
 
