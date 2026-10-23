@@ -16,7 +16,9 @@ In 1942, nine months after his marriage, Frankl and his family were sent to the 
 
 ## Their why
 
-While head of the Neurological Department at the General Polyclinic Hospital, Frankl wrote the book over a nine-day period. It was originally titled A Psychologist Experiences the Concentration Camp, released in German in 1946; the English translation, Man's Search for Meaning, was published in 1959 ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)). ## Their position
+While head of the Neurological Department at the General Polyclinic Hospital, Frankl wrote the book over a nine-day period. It was originally titled A Psychologist Experiences the Concentration Camp, released in German in 1946; the English translation, Man's Search for Meaning, was published in 1959 ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)).
+
+## Their position
 
 Frankl's book states the freedom-and-responsibility pairing directly:
 
@@ -41,6 +43,49 @@ Frankl "was expelled from Adler's circle when he insisted that meaning was the c
 - [[Self-transcendence]]
 - [[Tragic optimism]]
 
+## Everything connected in the wiki — the logotherapy tradition
+
+Entries are kept to Frankl's own tradition — his logotherapy principles and the pages that carry his ideas; other traditions may echo him, but linking them here would drown the graph. (Owner direction, October 2026.)
+
+### Principles (7)
+- [[E060 — Practise self-transcendence|Practise self-transcendence]]
+- [[E061 — Practise tragic optimism|Practise tragic optimism]]
+- [[E062 — Practise meaning through creative work|Practise meaning through creative work]]
+- [[E063 — Practise meaning through love|Practise meaning through love]]
+- [[E064 — Practise meaning through the attitude toward suffering|Practise meaning through the attitude toward suffering]]
+- [[E065 — Practise noogenic neurosis awareness|Practise noogenic neurosis awareness]]
+- [[E066 — Practise the will to meaning|Practise the will to meaning]]
+
+### Concepts (20)
+- [[Attitudinal values]]
+- [[Boundary situations]]
+- [[Creative values]]
+- [[Existential therapy]]
+- [[Experiential values]]
+- [[Happiness as by-product]]
+- [[Legacy motivation research]]
+- [[Limit situations (Grenzsituationen)]]
+- [[Logotherapy]]
+- [[Meaning]]
+- [[Meaning-centred therapy]]
+- [[Meaning-making]]
+- [[Noogenic neurosis]]
+- [[Post-traumatic growth]]
+- [[Self-transcendence]]
+- [[The meaning of suffering]]
+- [[The search for meaning]]
+- [[The will to meaning]]
+- [[Tragic optimism]]
+- [[Values-driven life]]
+
+### Kernels (1)
+- [[K317 — Tragic optimism|Tragic optimism]]
+
+### Stories (3)
+- [[ST036 — Frankl Chooses the Attitude|36. Frankl Chooses the Attitude]]
+- [[ST279 — Frankl's Meaning|279. Frankl's Meaning]]
+- [[ST311 — Frankl's Why|311. Frankl's Why]]
+
 ## Sources
 
-- [Wikipedia, "Viktor Frankl"](https://en.wikipedia.org/wiki/Viktor_Frankl) — the biography, camps, publication history, the freedom/responsibleness quotation and the three-ways list are all verbatim from this carrier.
+- [Wikipedia, "Viktor Frankl"](https://en.wikipedia.org/wiki/Viktor_Frankl)

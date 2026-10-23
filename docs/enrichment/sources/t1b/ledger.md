@@ -8,3 +8,13 @@ Item reopened after the first-item advisor QC (advisor call de638f96165140a4ac80
 3. CORE IDEAS expanded to the protocol's 150-300-word budget (9 bullets, each gloss anchored in the opened IEP carrier; all quotes verbatim per the audit above).
 4. VALIDATION: enrich_validate.py --base 5dceafa6 (the pre-session baseline; the ungated round-1 inventory is not part of that baseline so the gating removes no original link): 1 checked, 0 failed. Build ok (5849 entries). The default-HEAD validation would flag the ungated-inventory links as lost — intended by this owner-directed gating; documented here for the supervisor.
 5. BANNED PATTERN check: no first-person editing prose, no verification narration left on the page (removed in round 1).
+
+## 2026-10-23 — worker-pplx-t1b-2d4e7a91 — Viktor Frankl (T019), QC round-4 repair
+
+Flag: "\"theory places meaning where Freud placed pleasure and Adler power\" unsupported — verify or remove; remove repair narration sentence". Disposition: the flagged sentence was already removed by the predecessor's round-4 patch (c0c3306af); confirmed absent at HEAD. What was done:
+
+1. CARRIER OPENED: Wikipedia "Viktor Frankl" full wikitext via the MediaWiki parse API (curl; raw wikitext, ref tags visible). ALL five quotes re-verified verbatim ("a school of psychotherapy that describes a search for a life's meaning as the central human motivational force"; "spent three years in four concentration camps"; the Freedom/responsibleness blockquote; "was expelled from Adler's circle..." — the apparent miss is the ref tag `<ref name="Klingberg2001" />` mid-sentence in wikitext, verbatim in rendered text; "by making a difference in the world, by having particular experiences, or by adopting particular attitudes"). All biographical facts (Theresienstadt 1942, starvation/pneumonia, Auschwitz 1944, typhus/Bergen-Belsen, Kaufering III, nine-day writing, 1946/1959 titles, Polyclinic Neurological Department) confirmed in the carrier.
+2. REPAIR NARRATION removed from the Sources line (the "all verbatim from this carrier" clause).
+3. STRUCTURE fixed: the "## Their position" heading was glued mid-paragraph after the "Their why" section (broken markdown); placed on its own line.
+4. TRADITION GATING applied per the owner rule (James/T002 precedent): gated inventory added — 7 logotherapy principles (E060-E066), 20 Frankl/existential-therapy-anchored concepts, K317, 3 Frankl stories (ST036/ST279/ST311); Stoic/Heidegger/Greek/psychoanalysis echoes dropped. Original "Connection to the compendium" list preserved intact.
+5. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
