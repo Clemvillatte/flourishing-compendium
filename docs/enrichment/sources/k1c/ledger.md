@@ -131,3 +131,7 @@ The advisor's round-3 verdict was again "not QC-clear"; the following repairs we
 - Proposals: the two entries that used a nonstandard "link2" key were split into separate ordinary reciprocal proposals (51 entries now).
 - K142 Narrative reconstruction: deferred without content changes; state flag records it for the next worker.
 - Save discipline: outstanding working-tree changes are committed via enrich_save.sh only; retry loops that could mask rebase outcomes have been discontinued; final commit verified against origin/main by fetch before reporting.
+
+## Item 23 (worker-pplx-k1c-65228089, ~T+41)
+
+- K263 Post-action phronesis review (done; flag: guided-version search pending) — Aristotle NE VI.5 (Ross trans., MIT Classics page, prompt-extracted — disclosed; phronesis definition and particulars passage verbatim) + Keiser & Arthur 2021 AAR meta-analysis (PMID 32852990, eutils abstract in full, d = 0.79 finding). Prompt extraction disclosed per the house rule.
