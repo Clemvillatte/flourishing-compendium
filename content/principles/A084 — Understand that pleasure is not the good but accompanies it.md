@@ -21,7 +21,7 @@ The Nicomachean Ethics discusses pleasure in two places, Book VII and Book X. Bo
 > Aristotle, Nicomachean Ethics X.4, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
-Aristotle is not against pleasure. The passages give two descriptions: one reports the argument that the chief good would be some pleasure; the other describes pleasure as what completes an activity, arriving with it when it goes well, the way the bloom of youth sits on someone in their prime. As a compendium exercise, notice the pleasure present while an activity is going well.
+Aristotle is not against pleasure. Two claims do the work here: the argument that the happy life is pleasant, so pleasure belongs with the good; and the description of pleasure as the bloom that arrives on an activity going well. The practical upshot: treat pleasure as data about the activity. Notice it while the work is under your hands, not only at the finish.
 
 **For example**
 Someone notices, part-way through an evening's work on a difficult translation, that she is enjoying the work: the pleasure is in the activity while it goes on, not only in what follows it.
