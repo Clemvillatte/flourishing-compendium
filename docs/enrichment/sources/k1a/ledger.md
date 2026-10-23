@@ -630,3 +630,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: the study tests a technique, not the workability question itself; the bridge stated as premise support (believability separable from truth), not as a test of values-based decisions. The efetch abstract contains two typographical errors ("note yet known") which I did not quote.
 - Mention check run (before this entry): K135 already linked from D016/D080/B127/P012/P159 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K153 — Implementation intentions (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Sheeran & Orbell 2000 (Health Psychol 19(3):283-289), field experiment N=114 with attendance verified from medical records, abstract verified raw via NCBI efetch (PMID 10868773); authors read from the efetch header.
+- The blockquote (92% vs 69% sentence) matches the raw efetch text verbatim.
+- Honesty on page: one appointment plan, not the kernel's anxious-moment example; decision-fatigue mechanism left as the kernel's proposal, not a tested finding; equal-motivation design point quoted.
+- Mention check run (before this entry): K153 already linked from D059/D061/B058/P038 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Facets section left as in the seed; Operationalises reflowed to bullets).
