@@ -17,6 +17,10 @@ The note to Ethics V, Prop. XXIX draws the contrast the phrase turns on:
 
 Spinoza associates this second way of regarding something as true or real with understanding it under the form of eternity. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)) The next proposition states what this knowledge is: "Our mind, in so far as it knows itself and the body under the form of eternity, has to that extent necessarily a knowledge of God, and knows that it is in God, and is conceived through God." (Ethics V, Prop. XXX, [Elwes translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
+### What it is not
+
+The phrase does not declare the time-bound view unreal. Spinoza says things are conceived as actual "in two ways", one "in relation to a given time and place" and the other as "following from the necessity of the divine nature", so both count as ways of regarding what is actual. As a practice it is an invitation to add the second view to the first.
+
 ### In the compendium
 
 - [[SP082 — Practice seeing things under the aspect of eternity]]

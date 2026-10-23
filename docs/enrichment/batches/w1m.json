@@ -2,7 +2,6 @@
  "batch": "w1m",
  "done": [
   "The great doubt",
-  "Sub specie aeternitatis",
   "The ontological difference",
   "The coloured lens",
   "The return of the soul to its source",
@@ -72,11 +71,12 @@
   "Value creation",
   "The culturally embedded self",
   "Contempt for fame",
-  "Steelmanning the opposing view"
+  "Steelmanning the opposing view",
+  "Sub specie aeternitatis"
  ],
  "in_progress": null,
  "flagged": {
-  "Sub specie aeternitatis": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
+  "Sub specie aeternitatis": "Reopened for QC: extension: add scope note (prose near threshold)",
   "The job demands-resources model": "Reopened for QC: extension: abstract detail added (prose 78)",
   "Steelmanning the opposing view": "Reopened for QC: extension: add scope note and small case (prose 132)",
   "The ontological difference": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 3): scoped prose-and-quotation PASS after the punctuation restoration and citation placement. Validated ok --fast-track vs pre-enrichment baseline abca149^. Item-5 milestone CLOSED as scoped PASS (namespace resolution and whole-band certification excluded).",
@@ -109,7 +109,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:32:22+00:00",
+ "updated": "2026-10-23T14:32:45+00:00",
  "band_done": false,
  "new_concepts": [
   {

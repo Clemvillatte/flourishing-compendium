@@ -13,6 +13,10 @@ The heading names an image rather than a technical term: the current mood or sta
 
 In the reading Gallegos reports, a person in a mood becomes disposed to see encountered objects as carrying evaluative properties that fit the mood, and to miss what does not fit ([Gallegos, 2017](https://philarchive.org/archive/GALMAN-2)). Gallegos himself argues the metaphor misleads in important ways ([Gallegos, 2017](https://philarchive.org/archive/GALMAN-2)).
 
+### What it is not
+
+The image is not a claim that every mood falsifies the world. Emerson says each lens "shows only what lies in its focus", which describes selective emphasis, and Gallegos, as reported above, argues that the metaphor misleads in important ways. For practice the useful part is modest: name the mood before trusting what it shows, and check what the lens may be leaving out.
+
 ### In the compendium
 
 The compendium also links this image to [[Right view]].
