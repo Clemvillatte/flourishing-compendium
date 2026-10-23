@@ -14,11 +14,11 @@ Spend time in natural settings: green space, water, sky, weather on the skin. Th
 
 ### Protocol
 
-The steps are this practice's own exercise; the schedule below is the compendium's prescription, and the single-walk experiments say nothing about duration or frequency. The practice moves the Attention and Affect dimensions, with the walk itself an overt behaviour.
+The steps are this practice's own exercise; the schedule is the compendium's prescription. The practice moves the Attention and Affect dimensions, with the walk itself an overt behaviour.
 
-1. Go to whatever natural setting is reachable: a park, a tree-lined street's shade, water if there is water. The evidence behind this kernel contrasts natural settings with urban ones; the compendium's schedule is thirty minutes or more, several times a week.
-2. Walk, sit, or stand; let the setting do the work. In the study behind this kernel, participants simply walked for ninety minutes in either a natural area or the city ([Bratman et al. 2015, PubMed record](https://pubmed.ncbi.nlm.nih.gov/26124129/)).
-3. Editorial addition, not from the carriers: weather on the skin is part of the dose, not an obstacle to it. If the mind rehearses its loops, that is the pattern the nature-walk study measured a reduction in; return attention to what is in front of you.
+1. Go to whatever natural setting is reachable: a park, a tree-lined street's shade, water if there is water. The evidence contrasts natural with urban settings; the compendium's schedule is thirty minutes or more, several times a week.
+2. Walk, sit, or stand; let the setting work. In the study behind this kernel, participants walked ninety minutes in either a natural area or the city ([Bratman et al. 2015, PubMed record](https://pubmed.ncbi.nlm.nih.gov/26124129/)).
+3. Editorial addition, not from the carriers: weather on the skin is part of the dose. If the mind rehearses its loops, that is the pattern the nature-walk study measured a reduction in; return attention to what is in front of you.
 
 ### Evidence
 
@@ -33,11 +33,11 @@ Attention, from the backward-digit-span experiments: "We present two experiments
 
 Stress physiology, from the cortisol meta-analysis: "The main results of the meta-analysis showed that salivary cortisol levels were significantly lower in the forest groups compared with the urban groups both before (MD = - 0.08 μg/dl [95% CI - 0.11 to - 0.05 μg/dl]; p < 0.01; I2 = 46%) and after intervention (MD = - 0.05 μg/dl [95% CI - 0.06 to - 0.04 μg/dl]; p < 0.01; I2 = 88%)" ([Antonelli, Barbieri & Donelli 2019, *International Journal of Biometeorology* 63(8)](https://pubmed.ncbi.nlm.nih.gov/31001682/)). The same review's plain-language summary: "In all but two included studies, cortisol levels were significantly lower after intervention in forest groups if compared with control/comparison groups, or a significant pre-post reduction of cortisol levels was reported in the forest groups".
 
-What the studies do not test: the rumination and attention findings come from single walks and brief laboratory paradigms, not from a thirty-minute several-times-a-week routine; the cortisol result pools heterogeneous forest-bathing trials of varying length; and none of them tested this page's assembled schedule.
+What the studies do not test: the rumination and attention findings come from single walks and brief laboratory paradigms, not from this page's thirty-minute routine; the cortisol result pools heterogeneous forest-bathing trials; and none tested this page's assembled schedule.
 
 ### A guided version
 
-The bounded search overturns the earlier verdict: guided recordings of nature contact exist, designed to be taken outdoors. Jörg Sprave's [I Am Nature guided forest bathing meditation at Mindful.org](https://www.mindful.org/jorg-sprave-a-guided-forest-bathing-meditation/) is an audio practice with a published script, based on shinrin-yoku, that has you settle where you are, notice your intimate connection with the natural world, and sit in the calm and awe of meditating outdoors. The kernel's default remains unguided: its job is contact, and the evidence above concerns unguided settings; the recording is the doorway when starting still needs a voice.
+The bounded search overturns the earlier verdict: guided outdoor recordings exist. Jörg Sprave's [I Am Nature guided forest bathing meditation at Mindful.org](https://www.mindful.org/jorg-sprave-a-guided-forest-bathing-meditation/) is an audio practice with a published script, based on shinrin-yoku, designed to be done outdoors. The kernel's default remains unguided and the evidence above concerns unguided settings; the recording is the doorway when starting needs a voice.
 
 ## Operationalises
 
