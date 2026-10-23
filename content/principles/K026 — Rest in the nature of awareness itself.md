@@ -18,9 +18,9 @@ The slogan that directs the practitioner to the awareness register: rest in the 
 
 > Ponder that phenomena are like a dream. Discern the basic nature of awareness that has no arising. The opponent itself liberates itself in its own place. The essential nature of the path is to settle within a state of the all-encompassing basis. (Geshe Chekawa, Seven-Point Mind Training, Point Two, Alexander Berzin translation; "all-encompassing basis" renders the Tibetan kun-gzhi, alaya)
 
-**Plain words** The slogan says to rest in the nature of awareness itself, the plain knowing before any content. Lojong includes a wordless resting practice alongside the slogans, and the two feed each other. End a sitting with a minute of that, without doing anything.
+**Plain words** Most meditation instructions give you something to do: watch, count, note. This one gives you something to drop. Awareness here is the plain knowing already running before any content shows up in it. You are not producing it, only resting in it. Sixty seconds at the end of a sitting is enough to learn the difference.
 
-*For example:* A compendium exercise: after twenty minutes working with slogans, drop them for sixty seconds and just sit, aware, with nothing to fix.
+*For example:* after twenty minutes working with slogans, drop them for sixty seconds and just sit, aware, with nothing to fix.
 
 ## Sources
 

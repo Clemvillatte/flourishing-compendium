@@ -18,7 +18,7 @@ The Treasury discussion of the term adds its context: kaitiakitanga is "most oft
 
 (Resource Management Act 1991; Kawharu, 2000, as discussed in New Zealand Treasury, He Ara Waiora.)
 
-**Plain words** The word names a job rather than a mood. The statutory definition has guardianship exercised by the tangata whenua of an area, in accordance with tikanga, and includes the ethic of stewardship. Rendering it as guardianship is perhaps, in Kawharu's words, "a response to the Crown's need to understand more fully what kaitiakitanga means in terms intelligible to the Crown".
+**Plain words** Kaitiakitanga is a guardianship job, not a nature-loving mood. In the law it belongs to the people of a place and their own tikanga. The common translation, stewardship, was offered so officials could follow it; Kawharu's caution is that the term is bigger than what the Crown finds intelligible. The test of whether you hold the job: you keep doing it when nobody thanks you and nobody pays you.
 
 *For example:* Imagine the family that clears the invasive weed from the creek bank each season, with no sign thanking them and nobody paying them.
 
