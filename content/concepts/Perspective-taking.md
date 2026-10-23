@@ -21,7 +21,7 @@ A critique in Psychology Today notes the control groups may have been taking per
 
 ### Reading it for practice
 
-Imagining another person's view is cheap and can loosen a rigid first reading, but it should not be mistaken for knowledge of what they think. Where asking is possible, ask. Where it is not, hold the imagined view as a guess. The Confucian [[Shu]], which the compendium renders as reciprocity, is an older relative of the habit, and a practical cousin of what [[Shu]] asks in daily dealings.
+Imagining another person's view is cheap and can loosen a rigid first reading, but it should not be mistaken for knowledge of what they think. Where asking is possible, ask. Where it is not, hold the imagined view as a guess. The Confucian [[Shu]], which the compendium renders as reciprocity, is an older relative of the habit.
 
 ### What it is not
 
@@ -35,6 +35,7 @@ Before replying to an email that stung, write one sentence from the sender's lik
 
 - [[SO033 — Treat perspective-taking as a skill]] and [[K046 — Practice the exchange deliberately, as a skill]] — the skill framing
 - [[CO065 — Cultivate wise reasoning — wisdom is a trainable skill, not a fixed trait]] — pairs it with wise reasoning
+- [[Shu]] — reciprocity as the Confucian root of the habit
 - [[R064 — Practise reciprocity (shu)]] — the Confucian practice
 - [[M010 — Let the in-between soften your judgments of both sides]] — holding two views without collapsing them
 - [[E080 — Practise the fusion of horizons]] — the hermeneutic form
