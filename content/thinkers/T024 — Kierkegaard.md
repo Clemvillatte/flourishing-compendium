@@ -8,7 +8,11 @@ tags: ["person", "track/philosophy"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter K", "parent": ""}
 ---
-Søren Kierkegaard published The Sickness unto Death (Sygdommen til Døden) in 1849 under the pseudonym Anti-Climacus ([Storm commentary, work listing](https://sorenkierkegaard.org/sickness-unto-death.html)). The Storm commentary page is a commentary with excerpted passages, not a complete scholarly edition; the quotations below are from that page's excerpts.
+Søren Kierkegaard (5 May 1813 – 11 November 1855) was a Danish philosopher, Christian theologian, poet, social critic and religious author, widely considered the first existentialist philosopher; much of his work deals with how one lives as a "single individual" ([Wikipedia, Søren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)). He published The Sickness unto Death (Sygdommen til Døden) in 1849 under the pseudonym Anti-Climacus ([Storm commentary, work listing](https://sorenkierkegaard.org/sickness-unto-death.html)).
+
+## Personal story / context
+
+Kierkegaard lived almost his whole life in Copenhagen. He wrote critical texts on organized religion, Christianity, morality, ethics, psychology and love, with a fondness for metaphor, irony and parables, and published much of the work under pseudonyms; his broken engagement to Regine Olsen runs through the authorship ([Wikipedia, Søren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)). The Sickness unto Death comes late in that arc, a Christian-psychological work signed Anti-Climacus ([Storm commentary](https://sorenkierkegaard.org/sickness-unto-death.html)).
 
 ## Their why
 
@@ -39,6 +43,54 @@ The concept carries a practice: despair is a category of the self rather than a 
 - [[The leap of faith]]
 - [[Repetition]]
 
+## Everything connected in the wiki — the existential tradition
+
+Kept to the pages that carry Kierkegaard's own ideas and the existential tradition he begins; the principles that cite him as a cross-tradition parallel stay on their own pages.
+
+### Principles (14)
+- [[E031 — Practise radical freedom|Practise radical freedom]]
+- [[E034 — Practise authenticity (Eigentlichkeit)|Practise authenticity (Eigentlichkeit)]]
+- [[E037 — Practise the situation|Practise the situation]]
+- [[E038 — Practise project|Practise project]]
+- [[E039 — Practise the choice of self|Practise the choice of self]]
+- [[E042 — Practise commitment without guarantees|Practise commitment without guarantees]]
+- [[E044 — Practise anxiety (Angst)|Practise anxiety (Angst)]]
+- [[E048 — Practise Kierkegaardian anxiety|Practise Kierkegaardian anxiety]]
+- [[E049 — Practise despair and its overcoming|Practise despair and its overcoming]]
+- [[E050 — Practise the stages of existence|Practise the stages of existence]]
+- [[E051 — Practise repetition (Gjentagelse)|Practise repetition (Gjentagelse)]]
+- [[E052 — Practise the leap of faith|Practise the leap of faith]]
+- [[E053 — Practise the self as relation|Practise the self as relation]]
+- [[E095 — Practise the distinction between existence and being|Practise the distinction between existence and being]]
+
+### Concepts (20)
+- [[Angst]]
+- [[Anxiety about the future]]
+- [[Authentic existence]]
+- [[Choice of self]]
+- [[Creative repetition]]
+- [[Despair]]
+- [[Freedom]]
+- [[Life lived forwards]]
+- [[Purity of heart]]
+- [[Radical freedom]]
+- [[Repetition]]
+- [[Repentance]]
+- [[Retrieval (Wiederholung)]]
+- [[Self-constitution through action]]
+- [[The aesthetic]]
+- [[The commitment of the knight of faith]]
+- [[The dizziness of freedom]]
+- [[The ethical]]
+- [[The leap of faith]]
+- [[The moral situation]]
+
+### Stories (3)
+- [[ST073 — The Danish Poet and the Umbrella|73. The Danish Poet and the Umbrella]]
+- [[ST270 — Kierkegaard's Abraham|270. Kierkegaard's Abraham]]
+- [[ST273 — The Dizziness of Freedom|273. The Dizziness of Freedom]]
+
 ## Sources
 
-- [D. Anthony Storm's commentary on Kierkegaard, The Sickness Unto Death](https://sorenkierkegaard.org/sickness-unto-death.html) — the work metadata (1849, Anti-Climacus) and both quotations verified verbatim against the page's own excerpted passages. The page is a commentary carrying excerpts, not a complete edition; the translation's scholarly attribution is not stated on the page.
+- [D. Anthony Storm's commentary on Kierkegaard, The Sickness Unto Death](https://sorenkierkegaard.org/sickness-unto-death.html) — the work metadata (1849, Anti-Climacus) and both quotations, from the page's excerpted passages. The page is a commentary carrying excerpts, not a complete edition; the translation's scholarly attribution is not stated on the page.
+- [Wikipedia, "Søren Kierkegaard"](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard) — the biography (Copenhagen, 1813-1855, pseudonyms, Regine Olsen, first existentialist, the single individual).

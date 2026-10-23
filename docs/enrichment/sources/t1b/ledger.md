@@ -71,3 +71,13 @@ Flag: "BLOCKED — verify the quote and the 'early dreams of discovering laws of
 4. TRADITION GATING: gated inventory — 8 cognitive-therapy principles (AT020, AT071, BE015, BE020, CO050, CO051, CO081, SE072), 11 Beck-anchored concepts, 2 kernels (K128 thought record, K175 graded task assignment); Stoic/Daoist/koan/pragmatist parallels and the Dewey thinker false positive dropped.
 5. Core ideas glosses added where the opened carriers carry them (the 40-years quote; distortions).
 6. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
+
+## 2026-10-23 — worker-pplx-t1b-2d4e7a91 — Kierkegaard (T024), QC round-4 repair
+
+Flag: "Purity of Heart blockquote not verbatim vs the opened Pin-Spears PDF — fix or remove; Appleton's Preface quote was not retrieved with opening (only search result seen) — fix or remove." Disposition: BOTH quotes absent from the current page (removed by the predecessor's rebuild) — nothing to fix; verified absent at HEAD this session. What was done:
+
+1. CARRIERS OPENED: the Storm commentary page (raw HTML, curl) and the Wikipedia "Søren Kierkegaard" wikitext (MediaWiki parse API). Both Storm quotations re-verified verbatim against the freshly opened page (the synthesis-of-a-self excerpt and the despair-as-misrelation blockquote); the 1849/Anti-Climacus metadata confirmed.
+2. STRUCTURE: Personal story section added from the opened Wikipedia carrier (Danish philosopher/theologian/poet, 1813-1855, Copenhagen, pseudonyms, Regine Olsen, "single individual", first existentialist).
+3. SOURCES narration removed ("verified verbatim against the page's own excerpted passages" — now recorded here instead); the honest commentary-not-edition scope note kept; Wikipedia added as the biography carrier.
+4. TRADITION GATING: gated inventory — 14 E-book existential principles, 20 Kierkegaard-anchored concepts, 3 Kierkegaard stories; Buddhist/Daoist/psychology parallels dropped.
+5. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
