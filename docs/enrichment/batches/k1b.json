@@ -29,7 +29,8 @@
   "content/kernels/K175 — Graded task assignment.md",
   "content/kernels/K240 — The weekly review.md",
   "content/kernels/K238 — Kill-the-Buddha drill.md",
-  "content/kernels/K243 — The returning practice.md"
+  "content/kernels/K243 — The returning practice.md",
+  "content/kernels/K324 — Constraint-based creation.md"
  ],
  "in_progress": null,
  "queue": [
@@ -92,8 +93,10 @@
   "content/kernels/K225 — Service and creation.md": "guided-version recording: none found or verified this session; absence flagged pending supervisor ruling; not claimed as an established exemption; page states the absence in plain reader terms",
   "content/kernels/K175 — Graded task assignment.md": "guided-version recording: none found or verified this session; absence flagged pending supervisor ruling; not claimed as an established exemption; page states the absence in plain reader terms",
   "content/kernels/K240 — The weekly review.md": "guided version PARTIAL: official GTD guided audio walk-through exists for the checklist version (gettingthingsdone.com Episode #7 podcast page, seen in search results, not separately fetched); no recording for the kernel-category version; supervisor ruling requested; not claimed as an established exemption",
-  "content/kernels/K247 — Motivational interviewing (self-directed).md": "guided-version recording: none found or verified this session; absence flagged pending supervisor ruling; not claimed as an established exemption; page states the absence in plain reader terms"
+  "content/kernels/K247 — Motivational interviewing (self-directed).md": "guided-version recording: none found or verified this session; absence flagged pending supervisor ruling; not claimed as an established exemption; page states the absence in plain reader terms",
+  "content/kernels/K238 — Kill-the-Buddha drill.md": "Guided version: exemption claimed (self-directed written argument drill, no official recording found); supervisor ruling requested",
+  "content/kernels/K324 — Constraint-based creation.md": "Guided version: exemption claimed (self-directed making task, no official recording found); supervisor ruling requested"
  },
  "band_done": false,
- "updated": "2026-10-23T05:26:27+00:00"
+ "updated": "2026-10-23T05:30:09+00:00"
 }

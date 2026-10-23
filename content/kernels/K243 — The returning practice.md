@@ -24,17 +24,21 @@ The steps are this practice's own exercise. The practice moves two dimensions: A
 2. Return with the smallest possible action: one breath in the sitting; one short sitting today after a lapse.
 3. Drop the guilt framing. Name the drift as a lapse, not a verdict on who you are.
 4. Do not require a streak. Count the returns, not the unbroken days.
-5. Repeat identically at every drift: what is trained is the capacity to return, and it only trains on drift.
+5. Repeat identically at every drift: each noticed drift is another opportunity to practise returning.
 
 ### A guided version
 
-A free guided recording that teaches this move is [Complete Meditation Instructions (19 minutes) from UCLA Mindful](https://www.uclahealth.org/uclamindful/guided-meditations), recorded by Diana Winston. The breath is "your focus that you can always return to"; being lost in thought is met with "It's not a problem, just relax"; the instruction is to notice the thinking and "return your attention right back to your breath".
+A free guided recording for the within-sitting half of the practice is [Complete Meditation Instructions (19 minutes) from UCLA Mindful](https://www.uclahealth.org/uclamindful/guided-meditations), recorded by Diana Winston. The breath is "your focus that you can always return to"; being lost in thought is met with "It's not a problem, just relax"; the instruction is to notice the thinking and "return your attention right back to your breath".
 
 ### Evidence
 
 In experience sampling across daily life, "Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love", and "people were less happy when their minds were wandering than when they were not" ([Killingsworth & Gilbert 2010](https://pdodds.w3.uvm.edu/files/papers/others/everything/killingsworth2010a.pdf)). The returning has a mapped shape: a review describes the focused-attention cycle as four phases, "(i) mind-wandering; (ii) awareness of mind-wandering; (iii) an intentional shift of attention back to the object; and (iv) a sustained, focused attention on the object" (Hasenkamp et al. 2012, as described in [this review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4443777/)).
 
-Across a lapse, the guilt framing is the measured risk. In Marlatt's relapse-prevention model, "People who attribute the lapse to their own personal failure are likely to experience guilt and negative emotions that can, in turn, lead to increased drinking as a further attempt to avoid or escape the feelings of guilt or failure" ([Larimer, Palmer & Marlatt](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/)). The model comes from addiction treatment; applying it to a meditation lapse is an extension. On the other side of the same coin, "taking an accepting approach to personal failure may make people more motivated to improve themselves" ([Breines & Chen 2012](https://journals.sagepub.com/doi/10.1177/0146167212445599)).
+Across a lapse, the risk the drill guards against is self-blame, and the relapse-prevention model from addiction treatment describes the mechanism:
+
+> "People who attribute the lapse to their own personal failure are likely to experience guilt and negative emotions that can, in turn, lead to increased drinking as a further attempt to avoid or escape the feelings of guilt or failure" ([Larimer, Palmer & Marlatt](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/)).
+
+The model comes from addiction treatment and is offered here as background for the same self-blame move after a meditation lapse. On the other side of the same coin, "taking an accepting approach to personal failure may make people more motivated to improve themselves" ([Breines & Chen 2012](https://journals.sagepub.com/doi/10.1177/0146167212445599)).
 
 Not covered: none of these studies tests a returning drill; the lapse research concerns drinking, the self-compassion experiments test performance and personal weaknesses.
 

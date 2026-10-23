@@ -35,13 +35,13 @@ The steps are this practice's own exercise, not Linji's instructions. The practi
 
 ### A guided version
 
-Not applicable. The drill is an argument written for oneself, not a recorded exercise.
+The drill is self-directed, an argument written for oneself; no guided recording of it exists.
 
 ### Evidence
 
 Relevant background, not a validation of this drill: the research below measures how much a message's acceptance depends on who delivers it. In the classic Yale experiments:
 
-> "Opinions were changed immediately after the communication in the direction advocated by the communicator to a significantly greater degree when the material was presented by a trustworthy source than when presented by an untrustworthy source." (Hovland & Weiss 1951, p. 650, quoted verbatim in [Hellmueller & Trilling 2012](https://pure.uva.nl/ws/files/1362753/164537_vd_3.pdf))
+> "Opinions were changed immediately after the communication in the direction advocated by the communicator to a significantly greater degree when the material was presented by a trustworthy source than when presented by an untrustworthy source" (Hovland & Weiss 1951, p. 650, quoted verbatim in [Hellmueller & Trilling 2012](https://pure.uva.nl/ws/files/1362753/164537_vd_3.pdf)).
 
 The same study's abstract records that over time people "disassociate the content and the source with the result that the original scepticism faded and the 'untrustworthy' material was accepted" ([Hovland & Weiss 1951](https://academic.oup.com/poq/article-abstract/15/4/635/1923117)). A review of five decades concluded that "The main effect studies of source credibility on persuasion seem to indicate the superiority of a high-credibility source over a low-credibility one", while its abstract also reports that interaction studies show source credibility to be a liability under certain conditions ([Pornpitakpan 2004](https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.2004.tb02547.x)).
 
