@@ -24,6 +24,10 @@ Aristotle's example is medical: a man who knows that light meats are wholesome "
 
 *For example:* Imagine a veteran bus driver who keeps a rowdy Friday stop calm without being able to say how.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: skillful responsiveness, the Inner Chapters' hands-on knowing this page values
+
 ## Sources
 
 - [Nicomachean Ethics Book VI, trans. D. P. Chase, Project Gutenberg](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm) — the practical-wisdom and light-meats passages
