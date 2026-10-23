@@ -16,7 +16,36 @@ Then do the cardboard-cutout move. Imagine the anxious part of you is looking at
 
 The practice is the shift of perspective, not the content of the thought.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 10, printed pp. 129–138 (vignette at pp. 131–133).
+Adapted from Kolts, CFT Made Simple, New Harbinger, 2016, ch. 10, printed pp. 129-138 (vignette at pp. 131-133).
+
+### Evidence
+
+The cutout, in the vignette itself:
+
+> "If we think about Anxious Jenny—this version of you that is completely organized around fear and anxiety—it’s like she’s looking at a really scary cardboard cutout right from the front, so it looks like a real threat. So there’s this cutout of someone laughing at you, or a teacher who’s going to criticize you…or Justin Bieber. And this threat is right there, and from the front it looks really real. So she sees this, and gets really scared, and we can understand why."
+> — [Kolts, CFT Made Simple (PDF), ch. 10](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
+
+And the walk around it:
+
+> "But imagine that Compassionate Jenny shows up, and she sees how scared Anxious Jenny is getting. Compassionate Jenny is kind, and wise, and courageous—courageous enough to walk around the room and look closely, seeing the situation from all angles. What would Compassionate Jenny see? What would she understand? Jenny: She’d see that it wasn’t real. She’d see that this scary person isn’t really there, that it isn’t really dangerous. It’s just cardboard."
+> — [Kolts, CFT Made Simple (PDF)](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
+
+What the source does not test: the vignette is a therapist-led exercise; the self-directed version on this page is an adaptation.
+
+## Related concepts
+
+- [[Compassion-focused therapy]] — the therapy family the exercise comes from.
+- [[Distanced self-talk (Kross)]] — the research tradition on naming vs. being a self.
+- [[Perspective-taking]] — the shift the walk around the cutout produces.
+
+## Related kernels
+
+- [[K218 — Perspective-getting]] (complement — one is interpersonal perspective-getting, this is intra-personal)
+- [[K380 — The Two Teachers: change the tone, keep the lesson]]
+
+## Sources
+
+- [Kolts, R. L. (2016). CFT Made Simple. New Harbinger — PDF](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
 
 ## Operationalises
 
