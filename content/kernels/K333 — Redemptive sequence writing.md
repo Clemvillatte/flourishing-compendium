@@ -28,6 +28,7 @@ The study that named the form reports its payoff directly: "in both samples, red
 
 - [[Narrative identity]]: the research field this kernel practices
 - [[Generativity theory]]: the life-orientation whose stories run dense with redemption sequences
+- [[Acceptance]]: the story does not deny the pain; it gives the pain a place
 
 ## Related kernels
 
