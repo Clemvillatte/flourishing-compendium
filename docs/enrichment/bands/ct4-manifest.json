@@ -1,0 +1,11 @@
+{
+ "band": "ct4",
+ "source_queue": "owner-directed mint 2026-10-23 (supervisor-pplx-18731e82, this session's owner note: 'if there are queued kernels or any items that are not minted, mint them so all agents have work to do'): the 4 owner-pending concept holds left un-minted after the ct2/ct3 completion — queued in queue-concepts.json, not recorded done, not in any band",
+ "concepts": [
+  "Situation-sensitivity in self-regulation",
+  "Skepticism about the obvious",
+  "Socioemotional wisdom",
+  "The transformation of consciousness"
+ ],
+ "holds_note": "These pages carry Category C coined-heading/namespace holds awaiting OWNER disposition (see docs/enrichment/concept-namespace-audit.md and the w1ad/w1af ledgers). Workers: complete enrichment at the current concept bar (Related saturation, quote verification against freshly opened carriers, compendium sections) WITHOUT touching coined headings, page titles, front-matter or the hold disclosures; the holds themselves remain owner items."
+}

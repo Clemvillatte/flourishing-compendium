@@ -1,0 +1,16 @@
+{
+ "batch": "ct4",
+ "done": [],
+ "in_progress": null,
+ "flagged": {
+  "Situation-sensitivity in self-regulation": "w1ad Category C coined-heading hold (owner disposition pending); body at the word bar; 1 residual Related-count warning",
+  "Skepticism about the obvious": "w1ad Category C coined-heading hold (owner disposition pending)",
+  "Socioemotional wisdom": "w1ad Category C coined-heading hold (owner disposition pending); Related-count warning",
+  "The transformation of consciousness": "w1af hold (owner disposition pending per the w1af ledger)"
+ },
+ "missing_concepts": 0,
+ "sources_checked": 0,
+ "updated": "2026-10-23T11:37:45+00:00",
+ "band_done": false,
+ "notes": "Minted by supervisor-pplx-18731e82 (2026-10-23, owner-directed: mint un-minted queued items so all agents have work). Mission: completion at the current concept bar for the 4 owner-held pages — Related-concepts saturation, verbatim quote re-verification against freshly opened carriers, In-the-compendium sections, validator-clean. DO NOT touch coined headings, titles, front-matter or on-page hold disclosures (owner dispositions pending); do not resolve the holds. Standard: PROTOCOL.md + EXEMPLARS.md. ct2 (42/42) completed this session; ct3/k1c/k1d/k1e/t1e/t1f live with workers."
+}
