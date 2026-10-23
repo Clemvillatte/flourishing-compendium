@@ -13,6 +13,10 @@ Suppression, as defined in the laboratory work of James Gross and Robert Levenso
 
 > "Study 3 shows that reappraisers experience and express greater positive emotion and lesser negative emotion, whereas suppressors experience and express lesser positive emotion, yet experience greater negative emotion. Study 4 indicates that using reappraisal is associated with better interpersonal functioning, whereas using suppression is associated with worse interpersonal functioning. Study 5 shows that using reappraisal is related positively to well-being, whereas using suppression is related negatively." (Gross and John, [Individual differences in two emotion regulation processes: implications for affect, relationships, and well-being, Journal of Personality and Social Psychology 85 (2003), pp. 348-362, abstract](https://pubmed.ncbi.nlm.nih.gov/12916575/))
 
+### How they measured it
+
+The paper's first hypothesis is that individuals differ in their habitual use of the two strategies; the second is that these differences carry implications for affect, well-being and social relationships. Study 1 presents new measures of the habitual use of reappraisal and suppression, and Study 2 examines their convergent and discriminant validity ([Gross and John, 2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12916575/)). Because the studies measure habits rather than assigning strategies, they identify associations rather than effects, and the findings describe people who already regulate one way or the other.
+
 ### In the compendium
 
 - [[PP017 — Regulate negative emotion without suppressing it]]
