@@ -12,18 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 174** — Choose your ground
 
-Chapter 8 of the Daodejing opens with water: the highest excellence is like water, whose excellence appears in benefiting all things and in occupying, without striving, the low place which all men dislike, hence near to the Tao. The chapter then lists excellences, and the first is this principle's ground: the excellence of a residence is in the suitability of the place. The list runs on through the mind, associations, government, the conduct of affairs and the timing of movement, and closes with the note that the one with the highest excellence does not wrangle about his low position, and so no one finds fault with him.
+Chapter 8 of the Daodejing begins with water benefiting things and occupying a low place without striving. It then names different excellences, beginning with a residence's suitability of place. For a workplace decision, take this as a question about fit, not a promise that a move will reveal hidden talent.
 
 (DDJ 8.)
 
 > "The excellence of a residence is in (the suitability of) the place; that of the mind is in abysmal stillness; that of associations is in their being with the virtuous; that of government is in its securing good order; that of (the conduct of) affairs is in its ability; and that of (the initiation of) any movement is in its timeliness." (DDJ 8, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium's reading: the chapter's word for the residence is suitability, and the person with the highest excellence does not wrangle about position. The reading extends the residence to the chosen environment — the people, places and fields a life is lived among — which is this principle's ground.
+### Plain words
 
-**Plain words**
-The chapter's water takes the low place without striving, and its list of excellences starts with a residence suiting its place. The compendium's exercise: name where you are currently fighting the terrain, a place, a team, a field, and what suitability would look like instead.
+Name the conditions you need for a task and compare them with the place where you attempt it. Which condition could you change? Try a small adjustment before treating a larger move as the answer.
 
-*For example:* The compendium's hypothetical: a salesperson moves to the product team and starts to look talented — the question the exercise asks is what fit was missing on the first team.
+### For example
+
+For an overt-behaviour trial, do comparable tasks at your usual desk and in a quieter place. Note interruptions and what you finish, rather than judging yourself by how talented you feel. Reuse the setting that better supports the task.
 
 ## Sources
 

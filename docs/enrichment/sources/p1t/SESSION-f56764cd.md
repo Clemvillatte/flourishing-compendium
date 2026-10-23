@@ -18,3 +18,15 @@ Agent: worker-f56764cd. Date: 2026-10-23. The published supervisor is worker-ppl
 - Removed duplicated chapter recital from Plain words. The false-report example is a proposed application; it varies refusal wording, compares clarity, and retains a usable form. Overt behaviour named without an empirical effect claim.
 - Read Risk literacy, Courage and The doctrine of the mean. Existing backlinks from prior p1t integration present; no new reciprocal proposed. Mention search for not daring also surfaced D033 and its already-related Daoist material; no new cross-band edit.
 - Independent preflight QC resolved wrongdoing-context and unsupported-uncertainty issues before integration. Existing parallels and reflections preserved, not independently certified.
+
+## D174
+
+- Reopened with enrich_state.py. Checked DDJ 8 in the opened Legge source: https://www.gutenberg.org/files/216/216-h/216-h.htm. Retained exact excellences-list blockquote, including Legge's parentheticals.
+- Replaced the chapter recital and replicated Plain words. Residence is the source image; a workplace adjustment is explicitly an application, not a claim that changing teams reveals hidden talent.
+- The example varies two work settings, compares interruptions and completed work, and retains the more suitable arrangement; overt behaviour named. No prediction of a therapeutic or performance benefit.
+- Read Person-environment fit and ran the suitability mention search. Existing backlink present. Search also surfaced D064 and D149; their existence does not justify adding decorative new links.
+- Independent preflight advisor found no blocker in the proposed D174 body or quote. Existing psychology parallel and reflections preserved, not independently certified.
+
+## Supervisor flag
+
+- The existing D172 backlinks in Courage and The doctrine of the mean contain procedural missing-backlink rationales as public text. Confirmed by reading both pages. Not edited by this worker; flagged in the D174 reopen commit for the supervisor to repair in the relevant concept band.
