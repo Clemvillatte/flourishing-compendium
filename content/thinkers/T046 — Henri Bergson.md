@@ -42,7 +42,7 @@ His doctoral thesis, *Time and Free Will* (1889), introduced duration (*durée*)
 
 Gated per the t1e mint rule (own tradition plus what the page teaches); the script's full 51-entry surname-match floor is not reproduced.
 
-### Principles (16)
+### Principles (15)
 - [[P006 — Creativity is the ultimate principle|Creativity is the ultimate principle]]
 - [[P071 — Trust the plasticity of human nature|Trust the plasticity of human nature]]
 - [[P086 — Channel the creative impulse|Channel the creative impulse]]
@@ -54,7 +54,6 @@ Gated per the t1e mint rule (own tradition plus what the page teaches); the scri
 - [[P102 — Trust the creative thrust of life|Trust the creative thrust of life]]
 - [[P105 — Feel time in the body — rhythm, tempo, flow|Feel time in the body: rhythm, tempo, flow]]
 - [[P143 — Think with the whole body — the body is not a machine|Think with the whole body: the body is not a machine]]
-- [[P169 — Trust the actualizing tendency|Trust the actualizing tendency]]
 - [[P191 — Joy is the felt signature of creation; distinct from pleasure|Joy is the felt signature of creation; distinct from pleasure]]
 - [[P192 — Life is freedom inserting itself into necessity|Life is freedom inserting itself into necessity]]
 - [[P193 — Consciousness is choice; where there is no choice, there is mechanism|Consciousness is choice; where there is no choice, there is mechanism]]

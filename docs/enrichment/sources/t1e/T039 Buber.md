@@ -16,4 +16,4 @@ Two issues: banned phrase "testament" (reworded per IEP's Tzevaat Ha-RIBASH cont
 - Inventory GATED per the t1e mint rule: 12 principles + 12 concepts + 1 story from the 82-entry floor; gate stated on the page. Ubuntu/whakawhanaungatanga/vā/talanoa parallels excluded from the pasted list (cross-tradition; supervisor may widen).
 - Reciprocal proposals saved to sources/t1e/buber-reciprocal.txt (83 entries; supervisor applies per standing ruling).
 
-**Second-pass quote verification (pre-taper):** the four quoted passages (Midrashim, polarities/Zwischen, I-It/I-Thou, classified object) re-verified verbatim against the reopened IEP entry; Wikipedia-sourced facts not re-fetched.
+**Second-pass quote verification (pre-taper):** checked through prompted exact-wording fetches: the Midrashim, polarities/Zwischen, I-It/I-Thou, and classified-object passages; other quotations and Wikipedia-sourced facts rely on mint-time evidence.

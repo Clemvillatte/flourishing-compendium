@@ -16,4 +16,4 @@ Mint validated clean on the first pass.
 - Inventory GATED per the t1e mint rule: the Y-series (Patanjali's own wiki tradition) plus the yoga concepts; 26 principles + 9 concepts from the 81-entry floor; gate stated on the page.
 - Reciprocal proposals saved to sources/t1e/patanjali-reciprocal.txt (81 entries; supervisor applies per standing ruling).
 
-**Second-pass quote verification (pre-taper):** the three Johnston-translation verses (versatile psychic nature, Seer, warded off) re-verified verbatim against the reopened Gutenberg carrier; Wikipedia-sourced quotes not re-fetched.
+**Second-pass quote verification (pre-taper):** checked through prompted exact-wording fetches: the versatile-psychic-nature, Seer, and warded-off verses (Johnston translation); other quotations and Wikipedia-sourced facts rely on mint-time evidence.
