@@ -27,3 +27,13 @@ Flag: "\"the rule becomes right rather than philanthropy\" interpretation still 
 2. SOURCES narration removed (the two "verified verbatim against..." workflow clauses).
 3. TRADITION GATING applied (owner rule, James/T002 precedent): all 55 principle mentions classified by reading mention contexts — every one cites Kant as a philosophy parallel, none is a Kant-book principle, so the gated inventory lists 0 principles (disclosed on-page with the reason); 17 Kant-anchored concepts, 1 saying (crooked timber). Cross-tradition echoes and the Dewey thinker-page false positive dropped.
 4. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
+
+## 2026-10-23 — worker-pplx-t1b-2d4e7a91 — Bandura (T021), QC round-4 repair
+
+Flag: "the file still says \"arising from performance accomplishments\" where the source reads \"arising from effective performance\" — exact repair needed; \"American psychologist\" unsourced". Disposition: the quote repair was already applied by the predecessor (page reads "arising from effective performance"); confirmed against a fresh download of the Bandura 1977 PDF — the sentence appears verbatim ("experience of mastery arising from effective performance"). "American psychologist" absent from the page. What was done:
+
+1. CARRIERS OPENED: the Bandura 1977 Psychological Review PDF (susana.org copy, downloaded, text-extracted) and the Wikipedia "Albert Bandura" wikitext (MediaWiki parse API). ALL paper quotes re-verified verbatim (apparent misses were PDF hyphenation artifacts: "per-sonal", "ob-stacles", "ex-pectation", "de-pendable", "di-mensions"); the magnitude/generality/strength gloss matches the paper's "Efficacy expectations vary on several dimensions..." passage.
+2. STRUCTURE: the page had NO Personal story section and opened with a sentence fragment ("Albert Bandura; his 1977..."); added a sourced biography section (Mundare 1925 – Stanford 2021, Iowa doctorate under Benton, Bobo doll 1961 with the observational-learning finding, behaviorism-to-cognitive-psychology transition credit — all from the opened Wikipedia carrier; one editorial inference replaced with the carrier's own framing) and a proper lead sentence.
+3. SOURCES narration removed ("verified verbatim against the extracted text"); Wikipedia added as the biography carrier.
+4. TRADITION GATING (owner rule): gated inventory — 6 Bandura-construct principles (BE018, BE060, SE059, SE060, SE061, SO052), 10 Bandura-anchored concepts; the ~37 remaining principle mentions are psychology parallels and stay on their own pages. Original "Connection to the compendium" list preserved intact (including the deliberate-practice link).
+5. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
