@@ -275,7 +275,22 @@
      "note": ""
     }
    ]
+  },
+  "s1f-011": {
+   "status": "ready",
+   "angle": "rung 5: verification pass on the earliest lane drafts (s1f-001, s1f-002) which were not re-verified this session",
+   "history": [
+    {
+     "t": "2026-10-23T06:39:53+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:40:05+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-23T06:39:31+00:00"
+ "updated": "2026-10-23T06:40:05+00:00"
 }
