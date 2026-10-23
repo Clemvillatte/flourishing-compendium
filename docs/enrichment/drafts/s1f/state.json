@@ -202,7 +202,7 @@
    ]
   },
   "s1f-008": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B039 satipatthana: need a genuine four-foundations narrative object; search for a modern practitioner account that names all four domains",
    "history": [
     {
@@ -223,9 +223,14 @@
      "t": "2026-10-23T06:32:36+00:00",
      "to": "qc_pending",
      "note": "first advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:34:11+00:00",
+     "to": "ready",
+     "note": ""
     }
    ]
   }
  },
- "updated": "2026-10-23T06:32:36+00:00"
+ "updated": "2026-10-23T06:34:11+00:00"
 }
