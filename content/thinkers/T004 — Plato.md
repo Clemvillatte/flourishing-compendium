@@ -37,7 +37,7 @@ The soul has parts, and justice is their harmony. In the Republic the argument r
 
 ## Connected in the wiki — the Platonic and Socratic layer
 
-The corpus has no Platonic book of principles; the section keeps entries citing Plato or the Socratic material in their sources. Other traditions echo him in passing; a citation scan selects candidates without proving dependence, so supervisor audit is requested. The first draft's cave links [[The daimon]] and [[Elpis (hope)]] are retained in this note only as unverified scan candidates, not as explanations of the allegory. (Scoping applied by analogy to the T002 owner direction; supervisor, please confirm.)
+The corpus has no Platonic book of principles; the section keeps entries citing Plato or the Socratic material in their sources. Other traditions echo him in passing; a citation scan selects candidates without proving dependence, so supervisor audit is requested. (Scoping applied by analogy to the T002 owner direction; supervisor, please confirm.)
 
 ### Principles (80)
 - [[A007 — Let reason (logos) guide desire (orexis)|Let reason (logos) guide desire (orexis)]]

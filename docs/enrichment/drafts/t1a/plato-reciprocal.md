@@ -3801,3 +3801,5 @@
     }
   ]
 }
+
+# Worker QC note (2026-10-23): the first draft linked [[The daimon]] and [[Elpis (hope)] from the cave bullet; on audit these were judged irrelevant to the allegory's meaning (daimon and hope are not cave explanations) and removed from the article per advisor QC round-4. Retained here as dispositions: REMOVED, reason = no textual or corpus support for the connection to the cave allegory.

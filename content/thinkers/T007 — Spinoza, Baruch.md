@@ -36,7 +36,7 @@ There is one substance. "That thing is called free, which exists solely by the n
 
 ## Connected in the wiki — the Spinozist book
 
-The corpus's SP principles are the Spinozist book, and they head this list; the remaining principles and the concepts come from a Sources-section citation scan whose keyword set was too loose (a bare "Ethics" also matched Aristotelian-ethics citations), so every non-SP entry below is an unverified candidate and supervisor audit is requested. (Scoping by analogy to the T002 owner direction; supervisor, please confirm.)
+The corpus's SP principles are the Spinozist book; the other principles and the concepts below were selected by a Sources-section citation scan and each carries an explicit Spinoza reference on its page, but a reference is not yet a verified intellectual connection, so supervisor audit of the mention contexts is requested. (Scoping by analogy to the T002 owner direction; supervisor, please confirm.)
 
 ### Principles (107)
 - [[A007 — Let reason (logos) guide desire (orexis)|Let reason (logos) guide desire (orexis)]]
