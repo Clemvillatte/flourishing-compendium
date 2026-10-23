@@ -7,7 +7,7 @@ file: "Anatta"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Anatta (Pali; Sanskrit anātman) is the Buddhist teaching that there is no permanent, unchanging, independent self. The word is often translated as "non-self" or "not-self" ([Wikipedia](https://en.wikipedia.org/wiki/Anatta)). It is one of the Three Marks of Existence in Buddhist doctrine, along with dukkha ("suffering, dissatisfaction") and anicca ("impermanence"). The teaching denies that there is any unchanging essence, an ātman in Sanskrit or an attan in Pali, that persists beneath the changing stream of experience.
+Anatta (Pali; Sanskrit anātman) is the Buddhist teaching that there is no permanent, unchanging, independent self. The word is often translated as "non-self" or "not-self" ([Wikipedia](https://en.wikipedia.org/wiki/Anatta)). It is one of the Three Marks of Existence in Buddhist doctrine, along with dukkha ("suffering, dissatisfaction") and anicca, the mark of [[Impermanence]]. The teaching denies that there is any unchanging essence, an ātman in Sanskrit or an attan in Pali, that persists beneath the changing stream of experience.
 
 ### The analysis
 
@@ -29,11 +29,11 @@ The Milindapañha (Questions of King Milinda) gives the teaching its most famous
 
 ### What it is not
 
-Anatta is not nihilism, and it is not a claim that persons do not exist conventionally. Buddhism distinguishes conventional truth from ultimate truth: in everyday life "I" and "you" remain useful designations. Nor is anatta equivalent to low self-esteem or self-abandonment. The point is analytic, not self-referential: it is a statement about what does not exist, not about how to feel. In some later Buddhist traditions, notably the Mahāyāna Mahāparinirvāṇa Sūtra and the Tathāgatagarbha tradition, the concept is qualified by a doctrine of Buddha-nature, which itself is described as "not-self". Scholars such as Gethin, Gombrich and Wynne argue that the early teaching was "not-self" (a method of analysis) that later hardened into "no-self" (a metaphysical claim).
+Anatta is not nihilism, and it is not a claim that persons do not exist conventionally. Buddhism distinguishes conventional truth from ultimate truth: in everyday life "I" and "you" remain useful designations. Nor is anatta equivalent to low self-esteem or self-abandonment. The point is analytic, not self-referential: it is a statement about what does not exist, not about how to feel. In some later Buddhist traditions, notably the Mahāyāna Mahāparinirvāṇa Sūtra and the Tathāgatagarbha tradition, the concept is qualified by a doctrine of Buddha-nature: the Ratnagotravibhāga asserts that the "self" implied in tathāgatagarbha doctrine is actually "not-self" ([Wikipedia, Anatta](https://en.wikipedia.org/wiki/Anatta)). Gombrich and Wynne argue that the Buddha's statements on anattā were originally a "not-self" teaching that developed into a "no-self" teaching in later Buddhist thought ([Wikipedia, Anatta](https://en.wikipedia.org/wiki/Anatta)).
 
 ### Practical implications
 
-For flourishing, anatta reframes identity from a fixed possession to a set of habits, roles, and narratives that can be examined, revised, or released. It is a functional parallel to modern research on identity flexibility and self-concept change: the person you are is a pattern you are maintaining, not a substance you are discovering. Cognitive-behavioural and acceptance-based therapies use a similar move, "I am having the thought that I am a failure," to loosen identification with painful self-judgments. Anatta generalises this: no mental event, however central, has to be "me". (Illustrative example of the therapeutic phrasing, not a quote from a study.)
+For flourishing, anatta reframes identity from a fixed possession to a set of habits, roles, and narratives that can be examined, revised, or released. It is a functional parallel to modern research on identity flexibility and self-concept change: the person you are is a pattern you are maintaining, not a substance you are discovering. As a comparison the compendium draws rather than a claim the suttas make: modern acceptance-based therapies use a similar phrasing move, "I am having the thought that I am a failure," to loosen identification with painful self-judgments. Anatta generalises this: no mental event, however central, has to be "me". (Illustrative example of the therapeutic phrasing, not a quote from a study.)
 
 ### In the compendium
 
@@ -56,13 +56,14 @@ For flourishing, anatta reframes identity from a fixed possession to a set of ha
 - [[Fixed views of self]] — the Buddhist no-self as the deepest holding of the self lightly
 - [[Buddhist emptiness of inherent nature]] — Madhyamaka extends the analysis of persons' lack of independent self to phenomena generally
 - [[CO011]] — CO011's philosophy parallels list anatta as non-identification with mental events
-- [[Impermanence]] — The Anatta page describes anatta as one of the Three Marks of Existence alongside dukkha and anicca ('impermanence') — the same family the Impermanence page hubs. rg found no [[Impermanence]] link on the Anatta page (exact:0).
+- [[Impermanence]] — anicca, the first of the Three Marks of Existence alongside anatta and dukkha
 - [[SE045]] — the Buddhist analysis behind this principle's core test (SN 22.59 is the source of its blockquote)
 - [[K069]] — listed for comparison: the early-Buddhist analysis of no permanent self beside K069's Zen koan on every way of being.
 
 ## Sources
 
 - [Wikipedia, Ātman (Buddhism)](https://en.wikipedia.org/wiki/%C4%80tman_(Buddhism)) — textual and doctrinal detail, including the distinction between "not-self" and "no-self" and the later Tathāgatagarbha qualification
+- [Wikipedia, Anatta](https://en.wikipedia.org/wiki/Anatta) — the Gombrich and Wynne argument on "not-self" versus "no-self", and the Ratnagotravibhāga passage on tathāgatagarbha
 - [e-Buddhism, The Milindapanha](https://e-buddhism.com/milindapanha/) — the chariot analogy in detail, including the Pali phrase saṅkhā samaññā paññatti vohāro nāmamattaṁ
 - [Musacchio, Anatta: The illusion of self](https://www.fabriziomusacchio.com/weekend_stories/told/2025/2025-05-29-anatta/) — the SN 22.49 quotation and the mechanism linking self-belief to craving and dukkha
 - [Wikipedia, Anatta](https://en.wikipedia.org/wiki/Anatta) — the three marks of existence and the khandha analysis

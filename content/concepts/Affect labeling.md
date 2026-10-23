@@ -7,7 +7,7 @@ file: "Affect labeling"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Affect labeling is the practice of putting a feeling into words as it occurs: naming anger as anger, dread as dread. The term comes from Matthew Lieberman's social cognitive neuroscience lab at UCLA, which took an old folk idea into the scanner. The study's abstract states the question and the findings:
+Affect labeling is the practice of putting a feeling into words as it occurs: naming anger as anger, dread as dread. The practice was tested directly in a 2007 neuroimaging study, whose abstract states the question and the findings:
 
 > "Putting feelings into words (affect labeling) has long been thought to help manage negative emotional experiences; however, the mechanisms by which affect labeling produces this benefit remain largely unknown" (Lieberman et al. 2007, p. 421).
 
@@ -21,11 +21,11 @@ The authors' own summary of what the study established:
 
 > "this study provides the first unambiguous evidence that affect labeling, compared with other ways of encoding, produces diminished responses to negative emotional images in the amygdala and other limbic regions" (Lieberman et al. 2007, p. 427).
 
-The mechanism is precision. Naming a feeling moves it from being an all-encompassing weather to being an object of attention with a name and a boundary.
+The study reports the pattern of activity; it does not itself claim a mechanism for why naming helps. The compendium's reading of why the practice works, precision that gives the feeling a name and a boundary, is an interpretation of the finding, not a finding itself.
 
 ### What it is not
 
-Labeling is not venting: expression without shape amplifies. It is not rumination, which circles without naming anything new ([[Rumination]] is its failure mode). And the label is a name, not a verdict. "I notice resentment" keeps both the noticing and the agency; "I AM resentful" fuses identity with state.
+In the compendium's practice pages the distinction drawn here is between naming and venting: the label is a name, not a verdict. "I notice resentment" keeps both the noticing and the agency; "I am resentful" reads as a verdict on the self. What the naming avoids is the circling that never lands on anything new.
 
 ### In everyday life
 
@@ -56,13 +56,14 @@ A person in a difficult conversation can say one silent internal sentence, "that
 ## Related concepts
 
 - [[Emotion regulation]] — an attentional strategy within this taxonomy
-- [[Distrust names and labels]] — the label-as-name-not-verdict distinction is the two pages' shared core; reciprocal of the Related entry
+- [[Distrust names and labels]] — where the label-as-name-not-verdict distinction is drawn out
 - [[Appraisal theory]] — listed for comparison
+- [[Rumination]] — the circling that naming interrupts
 - [[BE037]] — listed for comparison
 
 ## Sources
 
-- [Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli. Psychological Science, 18(5), 421–428](https://www.uclascnlab.com/s/Lieberman_Psychological-Science2007.pdf) — the fMRI findings quoted above; page locators refer to this copy (the former sanlab.psych.ucla.edu URL now serves an HTML page; this is the author's current lab site)
+- [Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli. Psychological Science, 18(5), 421–428](https://www.uclascnlab.com/s/Lieberman_Psychological-Science2007.pdf) — the fMRI findings quoted above; page locators refer to this copy
 - [Wolpert, S. (2007). Putting Feelings Into Words Produces Therapeutic Effects in the Brain. UCLA Newsroom](https://newsroom.ucla.edu/releases/Putting-Feelings-Into-Words-Produces-8047) — the university's plain-language release on the study
 
 ## Cited in parallels

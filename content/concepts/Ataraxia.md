@@ -36,7 +36,7 @@ Ataraxia can be compared, as an interpretive analogy, to the modern psychologica
 ### In the compendium
 
 - [[S067 — Cultivate tranquillity (ataraxia)]] — the practice principle
-- [[X004 — Expect the quiet to arrive unsought, like a shadow following a body]] — the Epicurean parallel
+- [[X004 — Expect the quiet to arrive unsought, like a shadow following a body]] — the Pyrrhonist parallel: quiet following suspension of judgment
 - [[D093 — Make happiness independent of externals]] — the Daoist cousin
 - [[B054 — Practice equanimity (upekkha)]] — the Buddhist cousin
 - [[B094 — Cultivate tranquility (passaddhi)]] — tranquility as a factor of awakening

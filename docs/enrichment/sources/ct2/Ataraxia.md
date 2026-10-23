@@ -24,3 +24,7 @@ promoted to standalone blockquotes with attributions; "In the compendium" sectio
 the stray "- Epicurus, Principal Doctrines" bullet folded into the Sources descriptions;
 the dangling final bullet removed. Related concepts kept as found (2 lines, pre-existing;
 validator warning noted). Front-matter untouched. Validator ok.
+
+QC round 2 (advisor, this session): X004 gloss corrected — X004 is a Pyrrhonism principle
+(Sextus Empiricus, Outlines of Pyrrhonism I.12, the shadow image), not Epicurean; gloss
+now reads "the Pyrrhonist parallel: quiet following suspension of judgment."

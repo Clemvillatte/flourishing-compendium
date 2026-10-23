@@ -19,3 +19,12 @@ no target page) removed; the bare "Buddhism, Anatta-lakkhana Sutta" / "Buddhism"
 stubs replaced by the actual sutta carrier. All original wikilinks preserved byte-for-byte
 or relocated with their clauses (validator ok, no markup lost). The defusion phrasing
 example labeled illustrative per protocol §2. Front-matter untouched.
+
+QC round 2 (advisor, this session): workflow debris removed from the Impermanence Related
+entry (the "rg found no [[Impermanence]] link (exact:0)" sentence was maintenance
+commentary; a natural second [[Impermanence]] link added in the body so the occurrence
+count is preserved); Gethin dropped from the "not-self vs no-self" claim (Wikipedia Anatta
+attributes it to Gombrich and Wynne, verified this session); the Tathagatagarbha
+qualification now carries its carrier link (Ratnagotravibhaga passage verified on
+Wikipedia); the therapy-phrasing comparison explicitly marked as a compendium-drawn
+comparison rather than a sutta claim. Validator ok.

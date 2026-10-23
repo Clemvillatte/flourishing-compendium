@@ -9,23 +9,23 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Amor fati ("love of fate") is Nietzsche's name for the highest attitude a person can take toward their own life: to want what happens, not merely to bear it. He sets it out as a New Year's resolution in *The Gay Science* §276:
 
-> "I want more and more to perceive the necessary characters in things as the beautiful:—I shall thus be one of those who beautify things. _Amor fati_: let that henceforth be my love! I do not want to wage war with the ugly. I do not want to accuse, I do not want even to accuse the accusers. _Looking aside_, let that be my sole negation! And all in all, to sum up: I wish to be at any time hereafter only a yea-sayer!" (Nietzsche, *The Gay Science* §276, trans. Thomas Common)
+> "I want more and more to perceive the necessary characters in things as the beautiful:—I shall thus be one of those who beautify things. _Amor fati_: let that henceforth be my love! I do not want to wage war with the ugly. I do not want to accuse, I do not want even to accuse the accusers. _Looking aside_, let that be my sole negation! And all in all, to sum up: I wish to be at any time hereafter only a yea-sayer!" (Nietzsche, *The Gay Science* §276, [trans. Thomas Common](https://www.gutenberg.org/cache/epub/52881/pg52881.txt))
 
 ### The formula for greatness
 
 In *Ecce Homo* he gives the attitude its canonical statement:
 
-> "My formula for greatness in man is! _amor fati_: the fact that a man wishes nothing to be different, either in front of him or behind him, or for all eternity. Not only must the necessary be borne, and on no account concealed,--all idealism is falsehood in the face of necessity,--but it must also be _loved_" (Nietzsche, *Ecce Homo*, "Why I Am So Clever," trans. Anthony M. Ludovici).
+> "My formula for greatness in man is! _amor fati_: the fact that a man wishes nothing to be different, either in front of him or behind him, or for all eternity. Not only must the necessary be borne, and on no account concealed,--all idealism is falsehood in the face of necessity,--but it must also be _loved_" (Nietzsche, *Ecce Homo*, "Why I Am So Clever," [trans. Anthony M. Ludovici](https://www.gutenberg.org/cache/epub/52190/pg52190.txt)).
 
 ### A radicalisation of Stoic acceptance
 
-The idea is Nietzsche's radicalisation of Stoic acceptance. Where the Stoics counselled wanting what happens because nature wills it, amor fati wants it without the metaphysical guarantee: an acceptance with the love turned up, closer in spirit to the Daoist befriending of change.
+On the compendium's reading, the idea is a radicalisation of Stoic acceptance. Where the Stoic principles counsel wanting what actually happens, amor fati wants it without the metaphysical guarantee: an acceptance with the love turned up, closer in spirit to the Daoist befriending of change.
 
 Its test is the thought experiment of eternal recurrence: could you will your life, exactly as it has been, to repeat?
 
 ### Not resignation
 
-Love of fate is not resignation, and not approval. What cannot be changed is accepted; what can be changed is still worked on. Amor fati does not cancel action; it cancels the second arrow of resenting the action's conditions.
+On the compendium's reading, love of fate is not resignation, and not approval. What cannot be changed is accepted; what can be changed is still worked on. Amor fati does not cancel action; it cancels the second arrow of resenting the action's conditions.
 
 ### In everyday life
 
@@ -59,8 +59,8 @@ Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
 
 - [[Amor sui (right self-love)]] — self-love of one's own power of acting (cross-tradition comparison)
 - [[Eternal recurrence]] — amor fati's test is the thought experiment of eternal recurrence
-- [[Tragic optimism]] — the concept page lists this topic among its Related entries; this link returns it
-- [[Joy]] — Nietzsche's New Year aphorism (GS 276) states the affirmation the amor fati concept names
+- [[Tragic optimism]] — affirmation under conditions that should extinguish it
+- [[Joy]] — the yea-saying the New Year aphorism ends on
 - [[Premeditatio malorum]] — listed for comparison
 - [[Will to power]] — listed for comparison
 - [[K032]] — listed for comparison: the embrace of one's fate beside K032's instruction to transform mishaps into the path of practice.
@@ -69,7 +69,7 @@ Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
 
 - [Nietzsche, F. (1882/1910). The Joyful Wisdom ("The Gay Science"), §276, trans. Thomas Common. Project Gutenberg](https://www.gutenberg.org/cache/epub/52881/pg52881.txt) — the New Year's aphorism quoted above
 - [Nietzsche, F. (1908/1911). Ecce Homo, "Why I Am So Clever," trans. Anthony M. Ludovici. Project Gutenberg](https://www.gutenberg.org/cache/epub/52190/pg52190.txt) — the formula for greatness quoted above
-- [Elgat, G. (2015). Amor Fati as Practice. The Journal of Speculative Philosophy, 29(3)](https://onlinelibrary.wiley.com/doi/10.1111/sjp.12171) — secondary discussion, carried over from the earlier version of this page
+- [Elgat, G. (2016). Amor Fati as Practice: How to Love Fate. The Southern Journal of Philosophy, 54(2), 174–188](https://onlinelibrary.wiley.com/doi/10.1111/sjp.12171) — secondary discussion of the practice reading
 
 ## Cited in parallels
 

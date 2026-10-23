@@ -14,9 +14,7 @@ Approach versus avoidance motivation is the valence split in the science of moti
 
 ### Two systems, different fuel
 
-Approach goals organize attention around opportunity and mastery; avoidance goals organize it around threat and self-protection. The performance and well-being findings favor approach goals: they predict better achievement and positive affect, while avoidance goals predict anxiety, self-handicapping, and worse performance. The anger research runs on the same split: anger is approach-motivated mobilization.
-
-Avoidance is not weakness; avoiding real danger is sane. The claim is about chronic posture: a motivational life organized around threat narrows attention and makes every outcome self-relevant. Higgins' regulatory focus is the cousin distinction, promotion versus prevention ([[Regulatory focus theory]]).
+Approach goals organize behavior around positive possibilities; avoidance goals organize it around negative ones. In the affect research the same split appears. A review of the evidence concludes that "anger relates to an appetitive or approach motivational system, whereas anxiety relates to an aversive or avoidance motivational system" (Carver & Harmon-Jones 2009, [abstract](https://pubmed.ncbi.nlm.nih.gov/19254075/)). Avoidance of real danger is not weakness; the research question is about chronic posture. Higgins' regulatory focus is the cousin distinction, promotion versus prevention ([[Regulatory focus theory]]).
 
 ### In everyday life
 
@@ -29,7 +27,7 @@ Its contemplative cousin is [[Right effort]], the Buddhist training that is expl
 ### In the compendium
 
 - [[MO019 — Learn to set approach goals, not avoidance goals]] — the applied principle
-- [[AF050 — Understand anger's function — it signals a violated boundary or blocked goal]] — anger as approach-motivated mobilization
+- [[AF050 — Understand anger's function — it signals a violated boundary or blocked goal]] — the anger side of the approach/avoidance split
 - [[MO048 — Learn to break tasks down — overwhelm causes avoidance]] — task breakdown against avoidance
 - [[MO045 — Recognise procrastination as emotion regulation, not laziness]] — avoidance's emotional engine
 - [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation]] — threat-talk is avoidance fuel
@@ -52,8 +50,7 @@ Its contemplative cousin is [[Right effort]], the Buddhist training that is expl
 ## Sources
 
 - [Elliot, A. J. (2006). The Hierarchical Model of Approach-Avoidance Motivation. Motivation and Emotion, 30(2), 111–116](https://link.springer.com/article/10.1007/s11031-006-9028-7) — the definition quoted above
-- Elliot, A. J., & Church, M. A. (1997). A hierarchical model of approach and avoidance achievement motivation. Journal of Personality and Social Psychology, 72(1), 218–232 — the approach-goal outcome findings, carried over
-- Higgins, E. T. (1997). Beyond pleasure and pain. American Psychologist, 52(12), 1280–1300 — the regulatory-focus framework, carried over
+- [Carver, C. S., & Harmon-Jones, E. (2009). Anger is an approach-related affect: evidence and implications. Psychological Bulletin, 135(2), 183–204](https://pubmed.ncbi.nlm.nih.gov/19254075/) — the anger/anxiety motivational split quoted above
 
 ## Cited in psychology parallels
 

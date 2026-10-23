@@ -16,3 +16,14 @@ section (4 entries), the duplicated mixed Cited-in sections rebuilt as one clean
 lines; all 27 original wikilink occurrences preserved (validator ok, no markup lost,
 B016's two occurrences kept). "In the compendium" section added (7 entries). Illustrative
 goal-reframe labeled per protocol §2. Front-matter untouched.
+
+QC round 2 (advisor, this session): outcome claims cut from prose (achievement/anxiety/
+self-handicapping specifics) pending an opened carrier; anger/anxiety split replaced by the
+verbatim Carver & Harmon-Jones 2009 abstract sentence, opened via PubMed (PMID 19254075)
+and added to Sources; "narrowed attention" claim cut. OPEN ISSUE (flagged): the Elliot 2006
+definition blockquote is corroborated verbatim by three independent indexes of the Springer
+PDF (Springer PDF snippet, SciSpace, typeset.io print the identical sentence) but both the
+Springer article page and PDF are robots/bot-blocked to fetch and curl this session;
+supervisor to verify the Springer carrier or supply an openable copy. "Carried over"
+wording removed from Sources (E&C 1997 and Higgins 1997 remain only in the inherited
+Other-formulations line, attributed as such).

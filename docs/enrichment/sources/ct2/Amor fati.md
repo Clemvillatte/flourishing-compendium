@@ -22,3 +22,10 @@ principle links with dash titles moved out of prose into the compendium list; Re
 concepts and Facets preserved as found (empty lines cleaned); Sources rebuilt as markdown
 links; Cited in parallels kept as found; illustrative two-column note labeled per
 protocol §2. Front-matter untouched. Validator ok.
+
+QC round 2 (advisor, this session): Elgat metadata corrected (The Southern Journal of
+Philosophy 54(2), 2016, 174-188, per Wiley's own citation line and multiple CVs; the
+rebuild had wrongly printed Journal of Speculative Philosophy 29(3)); "carried over"
+maintenance wording removed; Stoic-radicalisation and not-resignation passages marked as
+the compendium's reading; translation attributions in blockquotes now link to their
+Gutenberg carriers; Related entries for Tragic optimism and Joy rewritten reader-facing.

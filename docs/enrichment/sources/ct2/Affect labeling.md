@@ -18,3 +18,11 @@ wikilinks preserved (Emotion regulation, Distrust names and labels, Appraisal th
 Interoceptive awareness, Rumination, all inline principle links, full Cited-in parallels list
 kept as found). Illustrative conversation scenario labeled per protocol §2. Front-matter
 untouched.
+
+QC round 2 (advisor, this session): origin claim removed ("the term comes from Lieberman's
+lab"); mechanism paragraph reframed as compendium interpretation, explicitly marked as not
+a finding of the study; "what it is not" reframed as the compendium's practice distinction;
+maintenance wording removed from Related/Sources (URL-history note moved here: the former
+sanlab.psych.ucla.edu carrier URL now serves an HTML page; the working carrier is
+uclascnlab.com/s/Lieberman_Psychological-Science2007.pdf); [[Rumination]] link preserved
+(relocated to Related concepts). Validator ok.
