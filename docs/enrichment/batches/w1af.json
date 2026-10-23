@@ -21,7 +21,8 @@
   "The vainglorious man",
   "The via negativa of appetite",
   "The wounds of love",
-  "Theory of Reasoned Action"
+  "Theory of Reasoned Action",
+  "Theory of valuation"
  ],
  "in_progress": null,
  "flagged": {
@@ -40,6 +41,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:47:20+00:00",
+ "updated": "2026-10-23T05:40:59+00:00",
  "band_done": false
 }
