@@ -68,6 +68,8 @@ Opened with fetch on 2026-10-23:
 
 Rewrite: move from a qualified blog excerpt to the directly opened translated text while retaining the old carrier. Distinguish fixation from insensibility and make training explicit. The conversation analogy and musician comparison are marked as editorial applications, not claims about modern treatment, a tested protocol or Zen attainment.
 
+Milestone advisor fixes applied: sword quotation now cites the directly checked PDF; definition includes “neither discrimination nor thought” and “placed nowhere”; added the trained return to a beginner-like state from PDF pp. 6 and 7, read directly; musician comparison now begins with an already-practised skill and connects to the successive-action image on p. 5. Removed repetitive defensive disclaimers.
+
 ## B114: giving, limited means and household responsibility
 
 Opened with fetch on 2026-10-23:

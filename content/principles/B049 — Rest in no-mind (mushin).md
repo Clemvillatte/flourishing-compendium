@@ -14,16 +14,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 In William Scott Wilson's translation of The Unfettered Mind, Takuan describes a swordsman's attention becoming caught by the opponent's weapon. The problem is being detained by what one sees, leaving no freedom to respond to what follows. ([“The Affliction of Abiding in Ignorance”, PDF p. 4](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf))
 
-> "when you first notice the sword that is moving to strike you, if you think of meeting that sword just as it is, your mind will stop at the sword in just that position, your own movements will be undone, and you will be cut down by your opponent" (Takuan Soho, [The Mysterious Record of Immovable Wisdom, excerpt](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/))
+> "when you first notice the sword that is moving to strike you, if you think of meeting that sword just as it is, your mind will stop at the sword in just that position, your own movements will be undone, and you will be cut down by your opponent" (Takuan Soho, [The Mysterious Record of Immovable Wisdom, PDF p. 4](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf))
 
-His “no-mind” neither congeals nor fixes itself in one place, yet is not insensible like wood or stone. ([“The Mind of the Existent Mind and the Mind of No-Mind”, PDF p. 13](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf)) He also insists on technical training: understanding a principle alone does not make the hands work. ([PDF p. 8](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf))
+His “no-mind” has “neither discrimination nor thought”, is “placed nowhere” and responds appropriately when needed. He distinguishes it from insensibility, describing a mind that does not congeal in one place. ([“The Mind of the Existent Mind and the Mind of No-Mind”, PDF p. 13](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf)) With practice, he says, the body remembers technique and the mind resembles the beginner's again. Learning lies between those two beginnings. ([PDF pp. 6 and 7](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf))
 
 > "Technique and principle are just like the two wheels of a cart." ([The Unfettered Mind, PDF p. 8](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf))
 
 **Plain words**
-For an everyday analogy, imagine still defending the point you made two minutes ago while someone is asking you a new question. You have something in mind, but are you available to what is happening? The invitation is to let the next moment have a claim on your attention too. This is an analogy, not a definition of Zen attainment.
+For an everyday analogy, imagine still defending the point you made two minutes ago while someone is asking you a new question. You have something in mind, but are you available to what is happening? The invitation is to let the next moment have a claim on your attention too.
 
-For example: On a familiar piece, a musician misses a note. They can stop to analyse it, or continue to the next phrase and return to the mistake after the run. Record both approaches at rehearsal and compare how the pauses affect continuity. Retain whichever serves that part of practice: analysis has a place, and continuing without a long interruption has another. This rehearsal comparison is the compendium's proposal, not a test reported by Takuan.
+For example: A musician has practised a piece until the fingering is familiar. When a note goes wrong, they can stop to analyse it or continue to the next phrase and review it afterward. Record both approaches in rehearsal and compare the continuity of each run. Keep a place for analysis and a place for playing through. This adapts Takuan's image of meeting successive actions without stopping at each one; it starts with a skill already practised.
 
 ## Sources
 
