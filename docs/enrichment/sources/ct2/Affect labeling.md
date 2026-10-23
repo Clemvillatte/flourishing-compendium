@@ -26,3 +26,11 @@ maintenance wording removed from Related/Sources (URL-history note moved here: t
 sanlab.psych.ucla.edu carrier URL now serves an HTML page; the working carrier is
 uclascnlab.com/s/Lieberman_Psychological-Science2007.pdf); [[Rumination]] link preserved
 (relocated to Related concepts). Validator ok.
+
+## Spot-check (2026-10-23 11:52 UTC, taper verification pass)
+All three body quotes re-verified verbatim against a fresh fetch of the original
+carrier (uclascnlab.com PDF of Lieberman et al. 2007, Psychological Science
+18(5) 421-428): the "long been thought" abstract sentence, the three-sentence
+results summary (amygdala, RVLPFC, MPFC mediation), and the "first unambiguous
+evidence" summary sentence (the page's quote begins mid-sentence at "this
+study provides"; the quoted span itself is verbatim).
