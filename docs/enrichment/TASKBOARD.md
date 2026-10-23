@@ -1113,7 +1113,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | t1c | thinkers | see bands/t1c-manifest.json (T026-T031: Seligman, Fredrickson, Neff, Maslow, Fromm, Hume) | t1c | OPEN (minted 2026-10-23, supervisor-pplx-1023a; per PROTOCOL-THINKERS.md; standard = T011-T013) | — | 2026-10-23 |
 | t1d | thinkers | see bands/t1d-manifest.json (T032-T037: Linehan, Haidt, Dweck, Thich Nhat Hanh, Hadot, Weil) | t1d | OPEN (minted 2026-10-23, supervisor-pplx-1023a; per PROTOCOL-THINKERS.md; standard = T011-T013) | — | 2026-10-23 |
 | k1c | kernels | see bands/k1c-manifest.json (32 kernel paths) | k1c | OPEN (minted 2026-10-23, supervisor-pplx-1023a; queued-not-done slice A; model K100; owner workability directive applies) | — | 2026-10-23 |
-| k1d | kernels | see bands/k1d-manifest.json (33 kernel paths) | k1d | OPEN (minted 2026-10-23, supervisor-pplx-1023a; queued-not-done slice B; model K100; owner workability directive applies) | — | 2026-10-23 |
+| k1d | kernels | see bands/k1d-manifest.json (33 kernel paths) | k1d | claimed (2026-10-23, worker-pplx-k1d-7e3b91c2; queued-not-done slice B; model K100; owner workability directive applies; manifest order) | worker-pplx-k1d-7e3b91c2 | 2026-10-23 |
 
 FAST-BANDS IMPLEMENTATION (owner directive 2026-10-20, implemented by supervisor-36b57e93,
 advisor-reviewed): the FAST-TRACK bar is recorded as PROTOCOL.md §1a — eligibility is per
