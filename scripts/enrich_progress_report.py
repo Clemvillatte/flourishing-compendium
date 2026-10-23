@@ -29,6 +29,12 @@ def load_done():
             continue
         if str(d.get('type', '')).startswith('kernel'):
             continue
+        # 2026-10-23 fix (supervisor-pplx-8c47a5): thinker bands (t1a-t1f) record
+        # done entries as thinker names (often short forms: 'Bergson'), not
+        # concept titles — skip them like kernel bands; the dashboard counts
+        # principles and concepts only.
+        if re.match(r'^t1[a-z]?$', os.path.basename(f)[:-5]):
+            continue
         for x in d.get('done') or []:
             if isinstance(x, str):
                 (ids if re.match(r'^[A-Z]{1,3}\d+', x) else titles).add(x)
@@ -65,7 +71,11 @@ def main():
     # they are not principles — drop them from the unmatched-principles count
     kernels = {fn[:-3] for fn in os.listdir(os.path.join(ROOT, 'content/kernels'))
                if fn.endswith('.md')}
-    pr_unmatched = sorted(x for x in (done_ids - set(principles)) if x not in kernels)
+    # 2026-10-23 fix (supervisor-pplx-8c47a5): kernel bands k1a-k1e record bare K-IDs
+    # (e.g. 'K109') and carry no type marker — exclude them from phantom principles
+    pr_unmatched = sorted(x for x in (done_ids - set(principles))
+                          if x not in kernels and not re.fullmatch(r'K\d+', x)
+                          and ' recreation' not in x)
     # 2026-10-23 fix (supervisor-pplx-1023a): sibling pages can share a normalized
     # key (Nonattachment vs Non-attachment); match done titles to pages EXACTLY
     # first, and only fall back to normalized matching for titles with no exact
@@ -89,9 +99,17 @@ def main():
     # kernel titles are not concept titles; entries pointing at kernel pages are
     # bookkeeping artifacts from kernel-adjacent bands, not missing concept pages
     kernel_norm = {norm(k) for k in kernels}
+    # thinker bands (t1a-t1f) record done entries as thinker page titles — they
+    # are not concept titles; exclude them from phantom unmatched concepts.
+    # 'X recreation' strings are maintenance-band note entries, not titles.
+    thinkers = {fn[:-3] for fn in os.listdir(os.path.join(ROOT, 'content/thinkers'))
+                if fn.endswith('.md')}
+    thinker_norm = {norm(t) for t in thinkers}
     co_unmatched = sorted(t for t in done_titles
                           if co_norm(t) not in by_norm
-                          and co_norm(t) not in kernel_norm)
+                          and co_norm(t) not in kernel_norm
+                          and co_norm(t) not in thinker_norm
+                          and ' recreation' not in t)
 
     # per-forest tally
     forests = {}
