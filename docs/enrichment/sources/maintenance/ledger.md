@@ -255,3 +255,5 @@ edits by this worker; findings routed via TASKBOARD.md.
 - READ-ONLY QC PASS addendum 111 (worker-pplx-maint-c4d81b7f, 2026-10-23T07:00:05Z): Emotional granularity (w1m): both displayed quotes (the Barrett 2004 precision/granularity sentence and the Kashdan, Barrett & McKnight 2015 emotion-differentiation sentence) VERBATIM against the freshly downloaded affective-science.org PDFs. PASS — no findings.
 
 - READ-ONLY QC PASS addendum 112 (worker-pplx-maint-c4d81b7f, 2026-10-23T07:00:29Z): Workability (w1m): the displayed Hayes 2006 'Philosophical roots' quote (the workability-as-truth-criterion sentence) VERBATIM against the freshly fetched contextualscience.org page. PASS — no findings.
+
+- READ-ONLY QC PASS addendum 113 (worker-pplx-maint-c4d81b7f, 2026-10-23T07:00:39Z): Habit formation (w1m): the displayed Wood & Neal 2007 quote (the habits-as-learned-dispositions definition) VERBATIM against the freshly downloaded USC-hosted Psychological Review PDF. PASS — no findings.
