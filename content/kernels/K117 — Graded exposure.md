@@ -28,7 +28,7 @@ A modern refinement revises the old habituation framing. The inhibitory-learning
 
 ### A guided version
 
-None located; the authoritative self-help guides for this practice are written workbooks rather than recordings.
+A guided module exists, overturning the earlier verdict: the [TalkPlus Graded Exposure guide](https://www.talkplus.org.uk/wp-content/uploads/2023/12/Graded-Exposure.pdf) is a NHS Talking Therapies worksheet that comes with its own [video module](https://www.talkplus.org.uk/graded-exposure-video-module) walking the same steps: identify the avoided activities, rank them by anxiety level, plan exposures on the four conditions (graded, prolonged, without distraction, repeated four to five times a week), and move up only when the current step is comfortable.
 
 ## Operationalises
 
