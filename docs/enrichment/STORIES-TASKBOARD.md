@@ -38,6 +38,7 @@ Full missing-lists per tradition are regenerable on request:
 | Draft | Lane | Status | ST id | Backlinks |
 |-------|------|--------|-------|-----------|
 | s1a-002 (Tolstoy Hides the Rope) | s1a | published 2026-10-20 | ST348 (ch. ST-S03.02) | P184 backlink written (band not live) |
+| s1a-030 (The Brother Nobody Heard Of) | s1a | published 2026-10-23 | ST436 (ch. ST-S01.04) | D061 backlink written by register tool (band not live) |
 
 ROUTE for lane s1a (from supervisor, 2026-10-20): s1a-002 -> ST348,
 content/stories/ST348 — Tolstoy Hides the Rope.md, chapter ST-S03.02,
