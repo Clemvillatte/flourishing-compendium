@@ -12,21 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 78** — Name the poison on contact
 
-MN 2 distinguishes appropriate and inappropriate attention. When a monk attends inappropriately, unarisen fermentations arise and arisen ones increase; when he attends appropriately, unarisen fermentations do not arise and arisen ones are abandoned. The sutta pairs this with sense-door restraint: dwelling restrained with the eye-faculty, so that the vexation that would arise from dwelling unrestrained does not. (MN 2.) Dhammapada 3-4 offers a related contrast: those who keep the thought "He abused me" do not still their hatred, and those who do not harbor it still it. (Dhammapada 3-4.)
+Here “poison” is the compendium's metaphor for greed, aversion and delusion, which MN 9 calls roots of unskillful action. ([MN 9, “Skillful & unskillful”](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html)) MN 2 examines what attention encourages or abandons. Its “fermentations” are a different list: sensuality, becoming and ignorance. The sutta also teaches restraint at the sense doors, including the eye. ([MN 2, §§1 and 2](https://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html))
 
 > "When a monk attends inappropriately, unarisen fermentations arise, and arisen fermentations increase. When a monk attends appropriately, unarisen fermentations do not arise, and arisen fermentations are abandoned." (MN 2, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html))
 
-The compendium adapts these passages into a naming exercise: identify a reaction when you notice it, then examine the action you are considering.
+Dhammapada 3 and 4 contrast harbouring an account of being wronged with releasing it. ([Dhammapada 3 and 4](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)) The compendium adapts these passages into a naming exercise: identify a motive or reaction when you notice it, then examine the action you are considering. The passages do not prescribe this naming procedure.
 
 **Plain words**
-Describe the urge separately from what you are considering doing. Wanting a new phone is something to notice; placing an order is a decision to examine. Try naming what you feel, then reviewing the proposed action.
+Wanting a new phone is something to notice; placing an order is a decision to examine. Naming anger or greed gives you something specific to look at between the urge and the action. You can ask what is driving this purchase and whether you want to follow that motive. The name begins the examination.
 
-*For example:* Imagine browsing a shop after an upsetting conversation. Before placing an order, you consider whether you want the item or are looking for a distraction.
+For example: You browse a shop after an upsetting conversation and name what you notice: “I am angry, and buying this looks like relief.” Compare the purchase you want to make now with how the item looks when you review it later, including its cost and use. Keep the decision process that lets you give reasons for the purchase. This is a proposed experiment, not a promise that labelling anger will remove it.
 
 ## Sources
 
 - [MN 2, Sabbasava Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html) — appropriate attention and sense-door restraint
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html) — verses 3-4, the harbored grudge
+- [MN 9, Sammaditthi Sutta, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html) — “Skillful & unskillful”; greed, aversion and delusion as roots of unskillful action
 
 ## Psychology parallels
 

@@ -121,6 +121,16 @@ Targeted change: replaced the note/judge/revise instructions with a fresh explan
 
 Supervisor terminology flag: title says “equanimity as faculty”, but SN 46.51 calls it a factor for Awakening. The immutable title has not been changed.
 
+## B078: name the missing concept without conflating lists
+
+Opened with fetch on 2026-10-23:
+
+- [MN 9, Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html), “Skillful & unskillful”: greed, aversion and delusion explicitly named as roots of unskillful action.
+- [MN 2, Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html), opening and §§1 and 2: retained attention quotation verified; sensuality, becoming and ignorance as fermentations; sense restraint.
+- [Dhammapada 3 and 4, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html): harbouring and not harbouring the grievance.
+
+Repair: connect the title's metaphor to named roots while explicitly distinguishing that list from MN 2's fermentations. Preserve the natural urge/action distinction and make the example actually name anger. No claim that the suttas prescribe affect-labelling or that the proposed exercise has demonstrated efficacy.
+
 ## Milestone QC record
 
 Independent advisor review completed on the first three repairs, on P087's separate locator check, on the Buddhist/Daoist read-only checks, and on B012/B017/B049. Requested a further four-page advisor check at the ten-item milestone, but that subagent stopped because its service reported credits exhausted. No failed review is being counted as a pass. Main-worker source checks and validation continue; final source/protection checks will be recorded.
