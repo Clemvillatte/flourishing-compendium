@@ -39,10 +39,10 @@ The preface is a later, retrospective piece in Nietzsche's own voice, and is not
 
 ## Related concepts
 
-- [[Freedom]] — listed for comparison
-- [[Perspectivism]] — listed for comparison
-- [[Self-overcoming]] — listed for comparison
-- [[Amor fati]] — listed for comparison
+- [[Freedom]] — the broader idea; the free spirit is one shape it takes
+- [[Perspectivism]] — a sibling Nietzsche idea: beliefs held as one perspective among many
+- [[Self-overcoming]] — a sibling Nietzsche ideal: exceeding one's current self
+- [[Amor fati]] — a sibling Nietzsche idea: affirming one's life as it is
 
 ## Sources
 

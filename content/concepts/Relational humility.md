@@ -39,10 +39,10 @@ In the Observer piece the authors describe their support for the social bonds id
 ## Related concepts
 
 - [[Humility]] — the broader construct this concept belongs to
-- [[Intellectual humility]] — listed for comparison
-- [[Expressed humility]] — listed for comparison
-- [[Leader humility]] — listed for comparison
-- [[Epistemic humility]] — listed for comparison
+- [[Intellectual humility]] — a sibling construct: humility about one's beliefs
+- [[Expressed humility]] — a sibling construct: humility as shown in behaviour
+- [[Leader humility]] — a sibling construct: humility as studied in leaders
+- [[Epistemic humility]] — a sibling construct: humility about what one can know
 
 ## Sources
 

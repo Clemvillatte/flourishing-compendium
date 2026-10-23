@@ -38,10 +38,10 @@ The original entry's second source, Summa Theologiae II-II, q.158, is about ange
 
 ## Related concepts
 
-- [[Righteous anger vs wrath]] — listed for comparison
-- [[Envy]] — listed for comparison
-- [[Schadenfreude]] — listed for comparison
-- [[The doctrine of the mean]] — listed for comparison
+- [[Righteous anger vs wrath]] — the broader anger family; nemesis is its measured member
+- [[Envy]] — the vice next door in the same discussion: pain at another's good
+- [[Schadenfreude]] — a contrast case: pleasure at another's bad fortune, where nemesis is pain at another's undeserved good fortune
+- [[The doctrine of the mean]] — the framework that reads nemesis as a mean between envy and spite
 - [[Shame]] — NE IV.9 discusses shame, the chapter the original entry cites
 
 ## Facets

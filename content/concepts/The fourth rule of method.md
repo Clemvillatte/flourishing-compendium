@@ -39,10 +39,10 @@ Only Part II was used. This page does not assess whether the rule works in pract
 
 ## Related concepts
 
-- [[Doubt as method]] — listed for comparison
-- [[Clear and distinct perception]] — listed for comparison
-- [[Provisional morality]] — listed for comparison
-- [[Debiasing techniques]] — listed for comparison
+- [[Doubt as method]] — the same method's first move: withholding assent
+- [[Clear and distinct perception]] — the same method's criterion of certainty
+- [[Provisional morality]] — Descartes' own interim rules for conduct
+- [[Debiasing techniques]] — a modern parallel: procedures that guard against missed alternatives
 
 ## Sources
 

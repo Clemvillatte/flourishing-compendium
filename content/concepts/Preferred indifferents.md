@@ -26,10 +26,10 @@ S015 (Distinguish preferred from dispreferred indifferents) and S017 (Refuse to 
 ## Related concepts
 
 
-- [[Adiaphora, the indifferents]] — the wider category, listed for comparison
-- [[Externals as indifferents]] — listed for comparison
-- [[The dichotomy of control]] — listed for comparison
-- [[S023]] — listed for comparison
+- [[Adiaphora, the indifferents]] — the wider Stoic category: preferred indifferents are the subclass worth pursuing
+- [[Externals as indifferents]] — the externals the preference rule ranks
+- [[The dichotomy of control]] — the Stoic division that places indifferents outside full control
+- [[S023]] — the compendium's principle on pain; pain counts as a dispreferred indifferent in the same Stoic scheme
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, "Stoicism"](https://plato.stanford.edu/entries/stoicism/) — definition of preferred indifferents, the pursuit rule, and the ancient objection

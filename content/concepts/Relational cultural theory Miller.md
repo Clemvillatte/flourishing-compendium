@@ -42,10 +42,10 @@ Jordan notes that the theory was "initially ignored then treated as 'dangerous,'
 
 ## Related concepts
 
-- [[Independent vs interdependent self-construal (Markus & Kitayama)]] — listed for comparison
-- [[Connectedness in well-being research]] — listed for comparison
-- [[Loneliness]] — listed for comparison
-- [[Empathy]] — listed for comparison
+- [[Independent vs interdependent self-construal (Markus & Kitayama)]] — a neighbouring framework: cultural differences in how the self is defined
+- [[Connectedness in well-being research]] — the research area on relationships and well-being
+- [[Loneliness]] — the painful side of disconnection; this theory's concerns run the other way, toward connection
+- [[Empathy]] — the capacity to feel with another person
 
 ## Sources
 

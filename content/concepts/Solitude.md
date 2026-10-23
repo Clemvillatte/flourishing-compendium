@@ -33,10 +33,10 @@ A few lines later he adds: "Solitude is not measured by the miles of space that 
 ## Related concepts
 
 
-- [[Capacity to be alone (Winnicott)]] — listed for comparison
-- [[Loneliness]] — listed for comparison
-- [[The inner friend]] — listed for comparison
-- [[SE058]] — listed for comparison
+- [[Capacity to be alone (Winnicott)]] — Winnicott's developmental account of tolerating aloneness
+- [[Loneliness]] — the distinction this page turns on: being alone versus feeling alone
+- [[The inner friend]] — a sibling idea in the same family: the inner life of being alone
+- [[SE058]] — the compendium's principle on solitude and the self
 ## Sources
 - Wikipedia Solitude: https://en.wikipedia.org/wiki/Solitude
 - [Nguyen, Ryan & Deci (2018), Solitude as an Approach to Affective Self-Regulation, Pers Soc Psychol Bull 44(1):92-106 (PubMed 29072531)](https://pubmed.ncbi.nlm.nih.gov/29072531/) — source (abstract)

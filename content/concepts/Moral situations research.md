@@ -20,10 +20,10 @@ The book's practical lesson, as the reviewer reads it, is that ethical attention
 ## Related concepts
 
 - [[Character development]] — the project whose premises the research questions
-- [[Designing for virtue]] — listed for comparison
-- [[Moral development research]] — listed for comparison
-- [[Obedience research]] — listed for comparison
-- [[Bystander effect theory Darley Latane]] — listed for comparison
+- [[Designing for virtue]] — the applied question this research raises: shaping situations, not only persons
+- [[Moral development research]] — the research on character growth; this page's findings put situational pressure on that picture
+- [[Obedience research]] — the classic obedience studies, among the same situational findings
+- [[Bystander effect theory Darley Latane]] — the situational finding about groups and helping
 
 ## Sources
 
