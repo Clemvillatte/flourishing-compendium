@@ -33,7 +33,7 @@ What the studies do not test: the amygdala finding concerns emotion words in a l
 
 ### A guided version
 
-None located; the bracket is performed at the moment of experience rather than guided, and no official recording of it exists.
+No official recording exists; the bounded search confirms it. Two worked guides walk the bracket on paper. The [Groningen phenomenology textbook exercise](https://opentextbooks.rug.nl/philpolarization/chapter/phenomenology/) has you pick a short scene, describe what you see, hear or feel, then "check whether there are assumptions present in your description, and literally bracket these if applicable". The [Rutgers qualitative-research bracketing prompts](https://openpub.libraries.rutgers.edu/qualgo2/chapter/__unknown__-6/) ask in writing: "What are my beliefs and attitudes about this topic or phenomenon? What assumptions am I making?"
 
 ## Operationalises
 
