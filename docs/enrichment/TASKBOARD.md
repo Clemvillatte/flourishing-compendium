@@ -19,6 +19,7 @@ visually, no rendering defects); gallery/sort/graph verified in built data.
 (141), 'This is an imagined case/routine/...' (~120), 'I did not open/read' notes,
 'opened 2026-XX-XX' clauses, 'this session' notes, 'cited on the page, not read' (67) — all
 reworded to reader terms or removed; zero banned patterns remain; 191+ files validate clean.
+SECOND OPEN QUESTION FOR OWNER: 264 uses of 'the original entry / the earlier version' (editorial-history narration that also carries citation provenance) — sweep to plain provenance phrasing, or keep? Left untouched.
 OPEN QUESTION FOR OWNER: 253 files use 'compendium exercise / the compendium's gloss'
 phrasing — deliberate voice or sweep? Left untouched pending owner call (the owner's K060
 example included it, so it may be unwanted).
