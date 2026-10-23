@@ -137,3 +137,10 @@
 - The four audit questions carried from the seed as editorial design, labelled editorial; the bidirectional finding explicitly stated as the honest heart of the evidence. Guided-version exemption: monthly self-review, no recording required (self-directed; K203 nap precedent).
 - Related-concepts fix in self-check: [[Civic engagement]] did not resolve (no such concept page); replaced with [[Social capital theory Putnam]].
 - All 6 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
+
+## K292 — Reciprocity mapping (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carriers opened: Muller Analects (acmuller.net) raw-downloaded — Analects 15:24 the single-thread reciprocity answer, verbatim including internal quotation marks; Kuijer, Buunk, Ybema & Wobbes 2002 B J Soc Psychol abstract via NCBI eutils — the underbenefit-dissatisfaction association verbatim.
+- Seed repairs: the seed's "Research on social exchange and equity theory shows that perceived imbalance predicts relationship dissatisfaction" replaced with the opened equity-theory study's actual findings (68 cancer patients and partners; perceived balance tracked satisfaction; underbenefit hurt most; the overbenefit/underbenefit expectations were partly contradicted — honestly stated); the map's three questions carried from the seed as editorial design, labelled editorial.
+- Related-concepts fix in self-check: the original page's [[Prosocial behaviour]] link with its annotation was lost in assembly and restored; validator now passes. The "quoted verbatim" phrase in Sources was workflow language and was removed; customer-facing sweep across all 15 pages shows only substring false positives (possession/sessions), no workflow language.
+- Guided-version exemption: drawn map, no recording required (self-directed; K203 nap precedent). All 32 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed.
