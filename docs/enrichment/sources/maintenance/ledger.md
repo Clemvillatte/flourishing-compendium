@@ -197,3 +197,5 @@ edits by this worker; findings routed via TASKBOARD.md.
 - READ-ONLY QC PASS addendum 84 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:48:24Z): T024 Kierkegaard (t1b, newest repair): both displayed Sickness unto Death quotes (the synthesis-of-infinite-and-finite passage and the despair-as-misrelation passage) VERBATIM against the freshly fetched sorenkierkegaard.org carrier. PASS — no findings.
 
 - READ-ONLY QC PASS addendum 85 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:48:33Z): D143 Breathe like a baby (p1t, newest repair): the displayed Legge DDJ 10 quote VERBATIM against the already-opened Gutenberg 216 text (Legge's own parenthetical glosses '(vital)' and '(tender)' preserved as in the source). PASS — no findings.
+
+- READ-ONLY QC PASS addendum 86 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:48:52Z): T015 Ryan & Deci (t1b, newest repair): the displayed SDT quote ('Research guided by self-determination theory (SDT) has had an ongoing concern with precisely these issues') VERBATIM against the freshly downloaded 2000 Ryan & Deci American Psychologist PDF (selfdeterminationtheory.org carrier). PASS — no findings.
