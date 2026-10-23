@@ -22,6 +22,10 @@ Verse 13 of the Ganges Mahamudra asks the practitioner to let what arises settle
 
 *For example:* sitting down and, instead of trying to calm yourself, letting restlessness be restlessness, and noticing whether it settles on its own after a while.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the wu wei non-interference parallel (Daodejing 37) the page lists.
+
 ## Sources
 
 - [Tilopa, Ganges Mahamudra (Ken McLeod translation)](https://unfetteredmind.org/practice/pith-instructions-on-mahamudra/)

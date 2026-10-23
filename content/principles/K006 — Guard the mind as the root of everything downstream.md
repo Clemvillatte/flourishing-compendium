@@ -23,6 +23,10 @@ Everything you say and do flows out of the state your mind is in, the way a harv
 
 *For example:* Noticing that every time you read certain news before bed you wake up irritable, and quietly stopping. Not suppressing anything, just choosing the water.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the guarding-the-senses parallel (Daodejing 12) the page lists.
+
 ## Sources
 
 - [Shantideva, Bodhicharyavatara, ch. 5 (Padmakara Translation Group), Nalanda Institute chapter text](https://nalandaolywa.org/docs/Shantideva-Ch5.pdf) — verses 1-3, verbatim

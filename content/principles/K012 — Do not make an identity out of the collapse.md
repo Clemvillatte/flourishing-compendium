@@ -22,6 +22,10 @@ The Buddha's raft simile in MN 22 gives the warning its plainest form: the Dhamm
 
 *For example:* the friend who has been to three retreats and now corrects everyone's attachments at dinner is wearing his awakening like a badge.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the sage-wears-rough-cloth-and-holds-jade image (Daodejing 70) the page lists.
+
 ## Sources
 
 - [Alagaddupama Sutta, MN 22 (Thanissaro Bhikkhu translation)](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html)
