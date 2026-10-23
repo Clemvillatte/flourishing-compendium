@@ -24,6 +24,7 @@ Think of something that grew without you managing it: a friendship, a garden, a 
 *For example:* A scab you keep checking and picking at heals slower than one you leave alone; the body knows what to do when you stop interfering.
 
 ## Sources
+- [[T012 — Laozi]]: the opener the page quotes for the whole theme of emergent order.
 
 - [Laozi, Dao De Jing, chapters 37 and 57 (James Legge, 1891), Sacred Texts Archive](https://www.sacred-texts.com/tao/taote.htm) — verbatim quotes (Drive library file unmapped; web edition fallback)
 - [Deci, Koestner & Ryan, "A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation," Psychological Bulletin 125 (1999) (PubMed)](https://pubmed.ncbi.nlm.nih.gov/10589297/) — 128-study meta-analysis, reward undermining and feedback effects

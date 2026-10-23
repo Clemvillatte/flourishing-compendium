@@ -24,6 +24,7 @@ What follows is a stance toward apparent contradiction, not a claim that incompa
 *For example:* Imagine a parent describing a difficult year of caring for a child. Both sentences are true — that it was the hardest thing they have ever done, and that they would do it again. Treating the pair as a contradiction that needs resolving loses what each half of it knows; each is answering a different question about the same year.
 
 ## Psychology parallels
+- [[T012 — Laozi]]: the chapter 2 argument that opposites arise together, the page's opening case.
 
 ## Philosophy parallels
 

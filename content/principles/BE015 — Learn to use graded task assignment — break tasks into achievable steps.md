@@ -23,6 +23,7 @@ The authors suggest the mechanism: "the reinforcing qualities of success and mas
 *For example:* the unopened tax folder becomes "open the folder", a two-minute task somehow avoided for a month. Open the folder; that is the whole assignment today.
 
 ## Sources
+- [[T012 — Laozi]]: the thousand-mile journey (Daodejing 64) behind graded tasks.
 
 - [Jacobson, Martell & Dimidjian, "Behavioral Activation Treatment for Depression: Returning to Contextual Roots", Clinical Psychology: Science and Practice 8(3): 255-270, 2001 (open PDF)](https://i-cbt.org.ua/wp-content/uploads/2017/11/Jacobson-BA-for-depression-2001.pdf) — quotes checked against the PDF text, Graded Task Assignment section
 

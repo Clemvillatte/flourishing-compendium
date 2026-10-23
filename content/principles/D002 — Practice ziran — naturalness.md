@@ -33,6 +33,7 @@ Stop performing a version of yourself. Ziran means letting things be what they a
 A friend who is quiet at parties but lively one-on-one stops dragging themselves to clubs and starts hosting small dinners. Nothing about them changed. They stopped working against their own grain.
 
 ## Sources
+- [[T012 — Laozi]]: the source text of the practice: what is so of itself, in the Daodejing's own terms.
 
 - Laozi, Daodejing (Tao Teh King), chs. 25 and 29, trans. James Legge, *The Texts of Taoism* (1891): [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 

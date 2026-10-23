@@ -26,6 +26,7 @@ Think of something helpful someone did today. Tell them exactly what you appreci
 *For example:* Imagine opening a team meeting by naming something a colleague did that helped the work, and thanking them for it.
 
 ## Sources
+- [[T012 — Laozi]]: the what-you-feed-grows parallel (Daodejing 27) the page cites.
 
 - [Archive.org PDF of Thich Nhat Hanh, The Heart of the Buddha's Teaching](https://ia902904.us.archive.org/view_archive.php?archive=/5/items/thichnhathanh/THICH%20NHAT%20HANH.rar&file=THICH%20NHAT%20HANH/EBOOK/ENG/the-heart-of-buddhas-teaching-hanh-thich-nhat.pdf) — store-consciousness seeds passage and the Right Diligence chapter
 - [Lion's Roar: Thich Nhat Hanh on How Mindfulness Nurtures Joy](https://www.lionsroar.com/watering-the-seeds-of-happiness/) — seeds (bija), store consciousness, and the returns-stronger mechanism

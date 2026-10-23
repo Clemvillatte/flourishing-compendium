@@ -33,6 +33,7 @@ The model grounds the start: a five-minute version of a task requires less abili
 *For example:* (Imagined case.) "Just five minutes of tidying" and forty minutes later the kitchen is done — the five minutes were never the plan; they were the ignition. When they really are only five minutes, the deal still beats zero.
 
 ## Sources
+- [[T012 — Laozi]]: the single step (Daodejing 64) behind lowering the barrier to starting.
 
 - [Fogg, B. J. (2009). A behavior model for persuasive design. Persuasive '09, full text](https://storage.ghost.io/c/89/6e/896e4a8a-731d-46fb-a1c8-1b750eb08140/content/files/2024/03/BJ-Fogg--A-Behavior-Model-for-Persuasive-Design.pdf) — the model sentences and the simplicity principle quoted above
 

@@ -23,6 +23,7 @@ Begin with an action the learner can already perform that approaches the goal. R
 Skinner's procedure starts with food for a pigeon turning toward a spot. It then requires movement toward the spot, progressively closer positions, forward head movement and finally beak contact (ch. VI, p. 92).
 
 ## Sources
+- [[T012 — Laozi]]: the thousand-mile journey (Daodejing 64) behind shaping from small components.
 
 - [Skinner, Science and Human Behavior (1953), ch. VI, B. F. Skinner Foundation PDF](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf) — pp. 91-92, the sculptor analogy, the pigeon procedure and the successive-approximations passage
 

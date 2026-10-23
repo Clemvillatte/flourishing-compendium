@@ -31,6 +31,7 @@ Imagine a group where everyone wants the visible role. Ask what useful work is b
 Suppose a meeting has ended without a clear record of its decisions. You offer to prepare the summary without asking to be named the project lead.
 
 ## Sources
+- [[T012 — Laozi]]: the water-excellence passage (Daodejing 8) the page is built on.
 
 - [Laozi, Tao Teh King (Daodejing), James Legge translation (1891), Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 8, 61, 66 and 78; ch. 8 quoted verbatim, the rest paraphrased with citations
 

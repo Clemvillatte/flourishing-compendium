@@ -25,6 +25,7 @@ Read carefully, this is a comparison of goal structures, not of step sizes: near
 *For example:* In the compendium's hypothetical example, a learner practises more often when two minutes of practice earns a reward. Once that response occurs reliably, the requirement becomes three minutes before the same reward is given.
 
 ## Sources
+- [[T012 — Laozi]]: the single-step opening of the thousand-mile journey (Daodejing 64), the page's image for gradual change.
 
 - [Skinner, Science and Human Behavior (1953; B. F. Skinner Foundation edition), Chapter VI](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf) — shaping passages quoted verbatim
 - [Bandura and Schunk, "Cultivating Competence, Self-Efficacy, and Intrinsic Interest Through Proximal Self-Motivation" (1981), Journal of Personality and Social Psychology 41(3), 586-598](https://www.digitalgreensboro.org/record/8817?v=pdf) — abstract quoted verbatim; proximal subgoals vs distal goals

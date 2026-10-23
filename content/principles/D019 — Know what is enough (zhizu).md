@@ -33,6 +33,7 @@ Ask what you want the next gain to provide and whether you already have enough f
 Imagine a freelancer deciding how many clients to accept. They first consider essential costs and caring responsibilities, then choose a workable limit. When another inquiry arrives, they can revisit that judgment instead of assuming that either accepting or refusing is automatically the wiser choice.
 
 ## Related concepts
+- [[T012 — Laozi]]: the chapter 44 questions the page draws on: knowing what is enough.
 
 - [[D030]] — zhizu (knowing enough) is the DDJ 33 root of the contentment argument D030 draws from DDJ 44/46; the two are the limit and the asset
 - [[Sufficiency]]: the philosophical question of enough.

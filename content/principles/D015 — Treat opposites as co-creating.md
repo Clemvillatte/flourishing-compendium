@@ -23,6 +23,7 @@ The practical instruction follows directly: the sage manages affairs without doi
 *For example:* A runner who has never hit the wall calls every easy run "a good run" and learns nothing from it. The wall — the failure, the fatigue — is what later gives the effortless session its weight. Remove the wall from the story and the runner's sense of progress collapses with it.
 
 ## Psychology parallels
+- [[T012 — Laozi]]: the claim the page unpacks: each opposite is what gives the other its intelligibility.
 
 - **[[Integrative complexity|Integrative complexity]]**, holding multiple perspectives predicts adaptive outcomes under stress (Suedfeld and Tetlock)
 - **Dialectical self-complexity buffers reactivity**

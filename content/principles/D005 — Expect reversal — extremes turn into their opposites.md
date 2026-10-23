@@ -34,6 +34,7 @@ Suppose things are going well and you are considering taking on more. Ask what w
 Suppose you are carrying tea across a room. Leave space below the rim instead of filling the cup to the top.
 
 ## Related concepts
+- [[T012 — Laozi]]: the chapter 40 rule the page quotes: reversal the movement of the Dao.
 
 - [[P190]] — thematic pair read from both bodies: DDJ 40 holds reversal as the Dao's course, P190 (Dewey) holds the hazardous and the stable as jointly conditioning experience; two framings of the world's changeableness, no genealogy claimed
 

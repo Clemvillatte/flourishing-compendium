@@ -28,6 +28,7 @@ The Daoist passage is included here as an editorial analogy, not as scientific s
 *For example:* Imagine a project team whose working process stops paying after a client changes requirements. The flexible response is to ask whether the old process was fitted to the old requirements rather than to their competence, and to try a different process if it was.
 
 ## Psychology parallels
+- [[T012 — Laozi]]: the water-excellence passage (Daodejing 8) the page quotes: benefiting all without contending.
 
 - **[[Cognitive flexibility|Cognitive flexibility as a core executive function]]** (Diamond, 2013)
 

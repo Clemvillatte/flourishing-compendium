@@ -25,6 +25,7 @@ If concentrating feels harder after exercise, recent fluid loss is one possible 
 (Imagined) Imagine a student planning a walk before an afternoon of proofreading. They bring water and, if concentration is poor afterward, consider fluid loss alongside other possible explanations.
 
 ## Sources
+- [[T012 — Laozi]]: the water-of-life parallel (Daodejing 8) the page lists.
 
 - [Ganio et al., 2011, Br J Nutr 106(10): 1535-43, PubMed](https://pubmed.ncbi.nlm.nih.gov/21736786/) — abstract: men, 1.59% body mass loss, vigilance and working memory
 - [Armstrong et al., 2012, J Nutr 142(2): 382-8, PubMed](https://pubmed.ncbi.nlm.nih.gov/22190027/) — abstract: women, 1.36% dehydration, mood effects

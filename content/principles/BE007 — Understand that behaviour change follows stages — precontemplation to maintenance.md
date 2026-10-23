@@ -33,6 +33,7 @@ The model was developed for health behaviours in at-risk populations. The compen
 *For example:* (Imagined case.) Nagging a smoker to quit fails because they are two stairs below the argument. The talk that helps at that stair sounds like "what would make you even consider it?" — not "here's your patch."
 
 ## Sources
+- [[T012 — Laozi]]: the thousand-mile journey (Daodejing 64) behind staged change.
 
 - [Prochaska, J. O., & Velicer, W. F. (1997). The transtheoretical model of health behavior change. American Journal of Health Promotion 12(1), 38-48, full text](https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/prochaska_1997_transtheoretical_model_of_health_behaviour_change.pdf) — the abstract sentence, two stage definitions, and the rule-of-thumb finding quoted above
 
