@@ -30,6 +30,7 @@ Kelemen's experiments concern explanations of natural phenomena, not whether peo
 ## Related concepts
 
 - [[Hindsight bias]] — the compendium's page on hindsight bias
+- [[Confirmation bias]] — the fellow pattern: evidence bent to the preferred purpose
 
 ## Sources
 

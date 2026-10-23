@@ -17,6 +17,12 @@ The chain of virtue is Aristotle's account of how good character gets built: act
 
 The passage gives the compendium its sequence: act, habit, character. There is no step where virtue arrives directly; it comes by doing the acts first, in the relations one is actually thrown into. The same passage extends the chain to self-mastery and mildness, through the occasions of lust and anger, and to politics: law-givers make the individual members good men by habituation, and this is the intention of every law-giver, in which Aristotle locates the difference between a good constitution and a bad. The compendium's principle BE024 names the modern practice of chaining, linking behaviours into sequences, and Aristotle supplies the oldest version of the idea: each act is a link, and the links add up.
 
+## Related concepts
+
+- [[Habit]] — the repeated-act mechanism Aristotle’s chain runs on
+- [[Self-cultivation]] — the Confucian program of the same act-habit-character sequence
+- [[Implementation intentions]] — the modern practice of pre-linking acts into sequences
+
 ## Sources
 
 - Aristotle, The Nicomachean Ethics of Aristotle, Book II, D.P. Chase translation, Project Gutenberg full text: [gutenberg.org/cache/epub/8438/pg8438.txt](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)

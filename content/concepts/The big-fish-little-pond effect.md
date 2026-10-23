@@ -28,6 +28,8 @@ The effect is documented for academic self-concept in school settings. It does n
 ## Related concepts
 
 - [[Contingent self-esteem]] — the compendium's page on self-worth that depends on outcomes
+- [[Social comparison]] — the mechanism the effect runs on
+- [[Fragile vs secure high self-esteem (Kernis)]] — the self-worth profile the comparison feeds
 
 ## Sources
 

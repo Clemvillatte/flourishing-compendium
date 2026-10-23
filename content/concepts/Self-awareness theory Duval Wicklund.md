@@ -38,6 +38,8 @@ Self · Psychological science
 ## Related concepts
 
 - [[Self-perception theory]]
+- [[Social comparison]] — the standards the theory measures the self against
+- [[Contingent self-esteem]] — the affective outcome of the discrepancy it describes
 
 ## Sources
 

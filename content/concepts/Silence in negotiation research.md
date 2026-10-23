@@ -26,6 +26,8 @@ Study 3 traced the mechanism through deliberative mindset, and Study 4 showed a 
 ## Related concepts
 
 - [[System 1 and System 2]] — the paper's own framing: the fixed-pie default is System 1 thinking, the deliberative shift System 2
+- [[Face negotiation theory]] — another negotiation literature that works the silence
+- [[Silence as evidence]] — what the unsaid carries, read from the evidence side
 
 ## Sources
 

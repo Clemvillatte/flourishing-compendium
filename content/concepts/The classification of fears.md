@@ -36,6 +36,8 @@ The letter is a primary text in one translation. It is an ancient philosophical 
 ## Related concepts
 
 - [[Ataraxia]] — the compendium's page on tranquillity
+- [[Facing the fear]] — the exposure practice that works through the classified fears
+- [[Courage: action despite fear]] — the virtue that answers them
 
 ## Sources
 

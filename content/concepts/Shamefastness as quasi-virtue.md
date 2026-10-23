@@ -22,6 +22,8 @@ The feeling suits the young because "as they live by feeling they often err, and
 ## Related concepts
 
 - [[Shame]] — the emotion Aristotle examines in IV.9
+- [[Shamefastness (aidos)]] — the Greek concept this quasi-virtue analysis works on
+- [[The chain of virtue]] — Aristotle’s other account of how character gets built
 
 ## Sources
 

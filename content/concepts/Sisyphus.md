@@ -24,6 +24,8 @@ Camus's attention is fixed on the walk back down: "That hour like a breathing-sp
 ## Related concepts
 
 - [[Breakdown as breakthrough]]
+- [[The absurd]] — the Camus frame the myth carries
+- [[Amor fati]] — the contrast stance: loving the fate rather than outscorning it
 
 ## Sources
 
