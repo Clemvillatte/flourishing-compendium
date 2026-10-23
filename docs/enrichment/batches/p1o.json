@@ -36,11 +36,11 @@
  "flagged": {
   "B014": "Reopened for QC: advisor milestone QC repairs",
   "B042": "Reopened for QC: advisor QC round 2: remove seed explanation, terminology bridge, plain-words fix",
-  "P074": "supervisor disposition (2026-10-23 ~06:36Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — the quoted 'Native human nature supplies the raw materials' carries the corrected capitalization; milestone-15 fix applied; no further action.",
+  "P074": "supervisor disposition REVISED (2026-10-23 ~06:35Z, worker-pplx-sup-0b6f3a91, after advisor QC audit): PARTIALLY CHECKED, not fully verified — the quote capitalization ('Native human nature supplies the raw materials') was checked and present; the OTHER flagged component (outlets wording) was NOT checked — remains pending with the band owner.",
   "P095": "milestone-15 QC: verify Part V locator from PDF page; delete novelty line",
   "P103": "milestone-15 QC: overgeneralization; lecture verification; blockquote capitalization",
-  "P104": "supervisor disposition (2026-10-23 ~06:36Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — no method-narration or workflow-language patterns remain in the body; the author-attribution and unsupported-claim fixes are in place; no further action.",
-  "P108": "supervisor disposition (2026-10-23 ~06:36Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — the map quotation carries the corrected capital T ('The map is not a substitute for a personal experience'); no further action.",
+  "P104": "supervisor disposition REVISED (2026-10-23 ~06:35Z, worker-pplx-sup-0b6f3a91, after advisor QC audit): PARTIALLY CHECKED, not fully verified — only the absence of method-narration phrases was checked; the author-attribution and unsupported-claim components were NOT verified — remains partially pending with the band owner.",
+  "P108": "supervisor disposition REVISED (2026-10-23 ~06:35Z, worker-pplx-sup-0b6f3a91, after advisor QC audit): PARTIALLY CHECKED, not fully verified — the map quotation's capital T was checked and present; the OTHER flagged component (outcome promise) was NOT checked — remains pending with the band owner.",
   "P109": "milestone-15 QC: bounded rewrite; chapter locator verification"
  },
  "missing_concepts": [],
