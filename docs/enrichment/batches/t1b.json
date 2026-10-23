@@ -1,14 +1,12 @@
 {
  "batch": "t1b",
- "done": [
-  "Marcus Aurelius",
-  "Richard Ryan & Edward Deci",
-  "Steven Hayes",
-  "James Gross"
- ],
- "in_progress": null,
+ "done": [],
+ "in_progress": "Marcus Aurelius",
  "flagged": {
-  "Marcus Aurelius": "QC round 1 (advisor): translation credit wrong (Gutenberg 2680 is Casaubon 1634/1635 comparison edition, not Long 1862); unsupported claims (daily correspondent, philosophical anchor Epictetus, left unpublished, three-themes ranking); no verbatim Meditations quote; Granua passage is Book I.15; t1b band self-minted — supervisor reconciliation pending"
+  "Marcus Aurelius": "QC round 2 (advisor FAIL): opening fragment; intro authorship claim; I.7 locator; II.1 truncation mark; three-themes ranking; mixed-edition citations \u2014 full rebuild on one carrier needed",
+  "Richard Ryan & Edward Deci": "QC round 2 (advisor): unverified status claims (most-cited, underpins eudaimonic literature); missing (SDT) in quote; rewards claim too broad; Their-why overreach",
+  "Steven Hayes": "QC round 2 (advisor): carried-over citations not opened this session (APA PDF, ACBS); attribution mismatch (Behavior Therapy vs ACBS); too-categorical therapy claim; status claims need sourcing; birthplace narrative on page",
+  "James Gross": "QC round 2 (advisor): 2002 affiliation not current-appointment claim; status claims (most-cited); Sheppes quote mismatch; extended-model stage description wrong; reappraisal-not-costly overclaim; workflow narration"
  },
  "missing_concepts": [],
  "sources_checked": 0,
