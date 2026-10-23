@@ -32,6 +32,10 @@ A different line of work tested a writing exercise. In Seligman and colleagues' 
 
 For example: before bed you record a meal with a friend and a piece of work finished, then write what helped each happen. This does not require calling the whole day good.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters' gratitude, attention trained on the good
+
 ## Sources
 
 - Wadlinger & Isaacowitz (2008), "Looking happy: The experimental manipulation of a positive visual attention bias", Emotion 8:121-126: [PubMed 18266522](https://pubmed.ncbi.nlm.nih.gov/18266522/)

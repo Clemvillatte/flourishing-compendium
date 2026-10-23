@@ -30,11 +30,12 @@
   "content/principles/A048 — Act in the right way, at the right time, toward the right objects, in the right manner.md",
   "content/principles/AF063 — Practise gratitude — it recalibrates attention toward what is good.md",
   "content/principles/AF062 — Savour positive experiences — deliberately attend to and amplify them.md",
-  "content/principles/AT007 — Understand that attention shapes experience — what you attend to grows.md"
+  "content/principles/AT007 — Understand that attention shapes experience — what you attend to grows.md",
+  "content/principles/AT021 — Learn to attend to the positive deliberately — attention training for well-being.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T13:26:00Z",
+ "updated": "2026-10-23T13:27:00Z",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it."
 }
