@@ -17,7 +17,8 @@
   "Cognitive reappraisal",
   "Compassion",
   "Daily architecture",
-  "Dao"
+  "Dao",
+  "De"
  ],
  "in_progress": null,
  "flagged": {
@@ -28,7 +29,7 @@
  },
  "missing_concepts": 0,
  "sources_checked": 0,
- "updated": "2026-10-23T11:22:17+00:00",
+ "updated": "2026-10-23T11:23:30+00:00",
  "band_done": false,
  "notes": "Minted by supervisor-pplx-1023a (2026-10-23), REVISED per OWNER DIRECTIVE (2026-10-23, in-session): CONCEPTS-FINAL band (ct2, successor to ct1). 85 items = the concepts gap to 100% MINUS two dashboard artifacts and four owner-held pages (see below). OWNER DIRECTIVE (binding, 2026-10-23): these pages were NOT pipelined because they were already rich — they were NOT built on the current concept model. They are important concepts (Dao, Wu wei, Eudaimonia, Flow...) and must be AT LEAST AS GOOD AS THE REST: rebuild, improve or restructure them on the current Concept framework (docs/enrichment/PROTOCOL.md, EXEMPLARS.md) — full enrichment, NOT merely validator-conformity repairs. Per page: READ the page and its linked principles; VERIFY every existing quoted fragment against an OPENED carrier (check git history and band ledgers first — pages touched by the 2026-10-19+ verification regime may already carry verified quotes); REBUILD the body to the current framework (definition-led explanation, humanised prose per HUMANIZER-SKILL.md, verbatim primary-source quotes with locators, genuine Related-concepts saturation via enrich_find.py, Sources with real carrier URLs); preserve the front-matter, ALL existing wikilinks and the Cited-in lists (validator enforces); restructure is authorised where the current shape serves the reader worse than the EXEMPLARS.md model. Dao and De are the ORIGINAL exemplars — treat them as first among equals: rebuild to the current framework without flattening their voice. Not merely fixing dash counts: the 62 validator mismatches (dash budget, Sources URLs, length, banned phrases) are the floor, not the mission. NOT IN THIS BAND (do not work): Nonattachment and Non-dual awareness are RECORDED DONE (w1c/w1i state files) — the dashboard shows them as remaining only because sibling pages collide under the progress script's normalized-title matching (maintenance item, supervisor flagged); Situation-sensitivity in self-regulation, Skepticism about the obvious, Socioemotional wisdom (w1ad) and The transformation of consciousness (w1af) are FLAGGED HOLDS of released bands awaiting OWNER disposition. Expect 4-6 sessions at full bar; ct3 holds the remaining 43 titles (parallel band, same mission)."
 }
