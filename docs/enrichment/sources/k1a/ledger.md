@@ -449,3 +449,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - "Meaning in life" concept does not exist in the compendium; Eudaimonic well-being used instead (validator caught the unresolved link pre-save). "Week's ledger" phrasing reworded pre-save.
 - Mention check run: K349 already linked from R011/R012/R015/A091/E007 (same operationalises set as K300); no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K121 — Dropping the struggle (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Marcks & Woods 2005 (Behav Res Ther 43(4):433-445), two studies (naturalistic strategies; instructed suppression vs acceptance vs monitoring), abstract verified raw via NCBI efetch (PMID 15701355).
+- The blockquote (Study II results sentence) matches the raw efetch text verbatim; the discomfort-not-frequency distinction and the authors' initial-evidence caveat stated on page.
+- "Laboratory session" in the honesty note is study description, not workflow language; checked against the banned-markers list.
+- Mention check run: K121 already linked from B066/D055/B085 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
