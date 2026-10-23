@@ -181,3 +181,7 @@
 - K293, K279: evidence-limits sentences now carry their own inline links.
 - Pagination-check description corrected (per the recheck): the locators were verified by per-page PDF text extraction with printed-footer inspection, not rendered-image inspection.
 - All five pages revalidated (5 checked, 0 failed); customer-facing sweep clean.
+
+## QC milestone acceptance, items 12-16 (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Third focused recheck returned a scoped PASS for the round-three repairs: K286 translator attribution removed; K277 printed-page locators (5, 13) supported by per-page PDF text extraction with printed-footer inspection, both clinical-description sentences cited; K292 findings and all five evidence-limit passages cited; ledger pagination description corrected. Acceptance is of the supplied excerpts after repairs, alongside the local validator result (5 checked, 0 failed) — not an independent file-level audit or rendered-image inspection. Milestone QC for items 12-16 closed; next advisor QC due at item 21.
