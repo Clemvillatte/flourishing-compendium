@@ -53,6 +53,7 @@ What this evidence does not test: the cited work is an overview of a clinician-d
 Not applicable: the practice is a chosen discomfort and a question, not a recording.
 
 ## Operationalises
+- [[T013 — Seneca]]: the Letter 18 practice of days with inexpensive food behind deliberate discomfort.
 
 - [[S006 — Remember that you are a citizen of the cosmos|S006 Remember that you are a citizen of the cosmos]]
 - [[S007 — Accept what happens as the will of providence|S007 Accept what happens as the will of providence]]

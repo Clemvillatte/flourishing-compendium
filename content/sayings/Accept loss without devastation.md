@@ -10,6 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Accept loss without devastation” — Epictetus, Enchiridion 11.
 
 ## Sources
+- [[T013 — Seneca]]: the ST194 story the saying is drawn from.
 
 - Epictetus, Enchiridion 11
 

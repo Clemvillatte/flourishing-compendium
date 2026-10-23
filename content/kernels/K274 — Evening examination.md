@@ -33,6 +33,7 @@ What this evidence does not test: the Stoic form. In the trial, 95 undergraduate
 No guided version is supplied here.
 
 ## Operationalises
+- [[T013 — Seneca]]: the On Anger 3.36 nightly review the kernel's three questions descend from.
 
 - [[S130 — Practise the discipline of speech|S130 Practise the discipline of speech]]
 - [[A039 — Value experience over theory in practical matters|A039 Value experience over theory in practical matters]]
