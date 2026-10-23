@@ -473,3 +473,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: guided manipulations, games and choices, no eulogy written; specific-vs-bare contemplation distinction stated as the supported premise.
 - Mention check run: K151 already linked from D001/D090/B055/P080/P164 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K154 — Mental contrasting (WOOP) (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Wang, Wang & Gai 2021 (Front Psychol 12:565202), meta-analysis of 21 MCII studies (24 effect sizes, N=15,907), abstract verified raw via NCBI efetch (PMID 34054628, PMCID PMC8149892).
+- The blockquote (effect-size sentence) matches the raw efetch text verbatim (including the source's own grammatical slip "MCII to be effective", preserved verbatim); effect size recorded; publication-bias caveat stated.
+- Honesty on page: small-to-medium pooled effect, moderator and study-count limits stated in reader terms; WOOP named as the popular packaging of MCII.
+- Mention check run: K154 already linked from MO026, K275 and the WOOP concept; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets; Practises the concept line kept).
