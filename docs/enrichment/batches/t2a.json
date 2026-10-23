@@ -1,9 +1,11 @@
 {
  "batch": "t2a",
- "done": [],
+ "done": [
+  "content/principles/A001 — Make eudaimonia the organising end of your life.md (T013 Seneca backlink, supervisor)"
+ ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T12:44:00Z",
+ "updated": "2026-10-23T12:59:00Z",
  "band_done": false,
- "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z). "
+ "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok."
 }

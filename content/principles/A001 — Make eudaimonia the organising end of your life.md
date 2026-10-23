@@ -41,6 +41,7 @@ Imagine deciding whether to begin an evening course while caring for a relative.
 - [[Eudaimonia]]: Aristotle's account of the human good.
 - [[Happiness as activity]]: the distinction between possessing and exercising a capacity.
 - [[Psychological well-being]]: a modern research comparison.
+- [[T013 — Seneca]]: the exile consolation behind the page's story (ST194).
 
 ## Stories
 
