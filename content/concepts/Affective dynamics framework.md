@@ -19,6 +19,10 @@ The meta-analytic result pairs all three with low well-being: across 793 effect 
 > "The findings demonstrate that psychological flourishing is characterized by specific patterns of emotional fluctuations across time, and provide insight into what constitutes optimal and suboptimal emotional functioning."
 > — [Houben et al., Psychological Bulletin 141 (2015)](https://pubmed.ncbi.nlm.nih.gov/25822133/)
 
+### What it is not
+
+The framework is not a rule that moods should be steady. The result is stated above as co-occurrence, with low well-being found alongside more variable, unstable and inert emotions, so it does not show that fluctuation causes poor well-being or that reducing it would raise well-being. The measures describe patterns across many measurements in a person's day, and a single bad day says little about any of them.
+
 ## Related concepts
 
 - [[The seasons of energy]] — the acceptance of temporal structure in capacity that this framework measures in affect
