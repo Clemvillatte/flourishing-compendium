@@ -441,3 +441,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Inherited "(Reis and Shaver)" citation grounded to the model's empirical test; reciprocity stated as the model's reading, not a tested nudge. Invitation-not-confession framing kept as practice form.
 - Mention check run: K344 already linked from A063/S011/R005/R055; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K349 — Act of repair (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Prinzing 2024 (Psychol Sci 35(9):951-961), two preregistered studies (10-day ESM N=181; randomized experiment N=545), abstract verified raw via NCBI efetch (PMID 38805409).
+- The blockquote (randomized experiment sentence) matches the raw efetch text verbatim; demand-characteristics caveat and warm-glow partial support stated on page.
+- "Meaning in life" concept does not exist in the compendium; Eudaimonic well-being used instead (validator caught the unresolved link pre-save). "Week's ledger" phrasing reworded pre-save.
+- Mention check run: K349 already linked from R011/R012/R015/A091/E007 (same operationalises set as K300); no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
