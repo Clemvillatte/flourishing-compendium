@@ -12,18 +12,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 47** — Let practical wisdom unify the virtues
 
-The moral virtues are not a checklist. They are integrated by phronesis into a coherent character. ([Nicomachean Ethics VI.13, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Work on the whole person, not on isolated virtues.
+Aristotle closes Book VI with a two-way lock: "it is not possible to be good in the true sense without Prudence, nor to be prudent without Moral Virtue" ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)). Someone can have natural courage or natural honesty the way a child has them, as dispositions that work until the situation turns. Prudence is what settles them into virtues, and it comes as a set: "For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it" (VI.13).
 
-(NE VI.12-13.)
+**Plain words** Judgement is not one virtue among others; it is the part that reads each situation and tells the rest what to do here. That is why, in Aristotle's picture, you cannot be genuinely honest in one corner of your life and genuinely unjust in another. The same reading skill that makes you honest is the one being refused in the unjust corner. Character training that targets one virtue at a time keeps missing this.
 
-> "These considerations therefore show that it is not possible to be good in the true sense without Prudence, nor to be prudent without Moral Virtue." (Aristotle, Nicomachean Ethics VI.13, trans. H. Rackham, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
+*For example:* pick two virtues you are working on, say honesty and patience. Take one situation from this week where they pulled against each other, and write down what the reading of the situation (not the rule, the reading) would have had each one do.
 
-Aristotle argues that possessing prudence entails possessing the moral virtues together with it: "For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it." ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) The compendium uses this argument as a prompt to consider virtues together rather than as independent targets.
+## Sources
 
-**Plain words**
-The moral virtues aren't a checklist. Aristotle argues that prudence and the moral virtues come together. ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) For this exercise, consider how your virtues fit together rather than targeting them one by one.
-
-*For example* (hypothetical exercise): Giving a big gift while underpaying your staff — consider what the virtues together require in that situation.
+- [Aristotle, Nicomachean Ethics, Book VI, trans. H. Rackham (Perseus)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)
 
 ## Stories
 

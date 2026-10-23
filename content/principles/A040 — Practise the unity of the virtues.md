@@ -12,19 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 40** — Practise the unity of the virtues
 
-In Book VI of the Ethics the virtues come out as one fabric rather than a set of separate traits. Virtue sets the target and practical wisdom finds the way: "for virtue makes us aim at the right mark, and practical wisdom makes us take the right means." The natural dispositions children and brutes have can even be hurtful without reason: "while one may be led astray by them, as a strong body which moves without sight may stumble badly because of its lack of sight, still, if a man once acquires reason, that makes a difference in action." ([Nicomachean Ethics VI.12-13, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
+In Book VI Aristotle argues that the virtues arrive together or not at all. Moral virtue sets the target and practical wisdom finds the means: "for virtue makes us aim at the right mark, and practical wisdom makes us take the right means" ([NE VI.12, Ross](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The dependence runs both ways: "It is clear, then, from what has been said, that it is not possible to be good in the strict sense without practical wisdom, nor practically wise without moral virtue" (VI.13).
 
-Aristotle reports and half-corrects Socrates here: "in thinking that all the virtues were forms of practical wisdom he was wrong, but in saying they implied practical wisdom he was right." The upshot is stated flatly:
+He takes natural courage and sharpness seriously as raw material, and notes what happens without reason: "while one may be led astray by them, as a strong body which moves without sight may stumble badly because of its lack of sight, still, if a man once acquires reason, that makes a difference in action" (VI.13). Socrates, he says, was in one respect on the right track: "in thinking that all the virtues were forms of practical wisdom he was wrong, but in saying they implied practical wisdom he was right" (VI.13).
 
-> "It is clear, then, from what has been said, that it is not possible to be good in the strict sense without practical wisdom, nor practically wise without moral virtue."
+**Plain words** A trait is not yet a virtue. Courage without justice gets people hurt; generosity without temperance bankrupts you and teaches others to wait for handouts. The part that turns a trait into a virtue is judgement, the reading of the situation, and the same judgement has to show up in every trait you have. So you cannot split your character into separate self-improvement projects and expect them to add up.
 
-And again: natural virtues can exist separately, "but not in respect of those in respect of which a man is called without qualification good; for with the presence of the one quality, practical wisdom, will be given all the virtues." A character is one thing; polishing a single trait in isolation is not how it becomes good.
+*For example:* take the trait you are most proud of and name its natural counterweight (courage's temperance, generosity's justice, honesty's kindness). Review one action from this week where the proud trait ran without its counterweight, and write one sentence about what the counterweight would have changed.
 
-The compendium's exercise: pick a virtue you are proud of, name the virtue that checks it (courage's temperance, generosity's justice), and review one recent action for the pair.
+## Sources
 
-**Plain words** The virtues are not separate skills. In Aristotle's picture they come as one character: full virtue needs practical wisdom, and practical wisdom brings all the virtues with it. A strong trait without the rest can even do harm, like a strong body without sight.
-
-*For example:* Someone proud of courage reviews a rescue of a friend and notices they had been shortchanging others in the same week.
+- [Aristotle, Nicomachean Ethics, Book VI, trans. W. D. Ross](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)
 
 ## Practice kernels
 

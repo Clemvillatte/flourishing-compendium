@@ -12,17 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 41** — Know that virtue aims at the beautiful (to kalon)
 
-Aristotle's virtuous person acts for the sake of the noble. In the chapter on courage the brave man "will face them as he ought and as the rule directs, for honour's sake; for this is the end of virtue", and the account closes the loop:
+Aristotle's word for what virtue is for is kalon, usually translated "noble" or "fine". In the chapter on courage he derives it from the structure of action itself: "the end of every activity is conformity to the corresponding state of character... But courage is noble. Therefore the end also is noble; for each thing is defined by its end. Therefore it is for a noble end that the brave man endures and acts as courage directs" ([NE III.7, Ross](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
-> "But courage is noble. Therefore the end also is noble; for each thing is defined by its end. Therefore it is for a noble end that the brave man endures and acts as courage directs." ([Nicomachean Ethics III.7, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
+The test he applies runs both ways. The brave man "will face them as he ought and as the rule directs, for honour's sake; for this is the end of virtue", and courage "chooses or endures things because it is noble to do so, or because it is base not to do so" (III.7). But "to die to escape from poverty or love or anything painful is not the mark of a brave man, but rather of a coward" (III.7). The same act, done to flee trouble rather than for the fine, loses the virtue.
 
-The test runs both ways. Courage "chooses or endures things because it is noble to do so, or because it is base not to do so", but to die "to escape from poverty or love or anything painful is not the mark of a brave man, but rather of a coward... such a man endures death not because it is noble but to fly from evil." The same note runs through the other virtues: "Now virtuous actions are noble and done for the sake of the noble" (IV.1), and one ought to be brave "not under compulsion but because it is noble to be so" (III.8). The Greek word behind Ross's "noble" is kalon, the fine.
+**Plain words** Aristotle thinks a good action has a reason you would still have with nothing to gain. The useful reason and the fine reason can point the same way, and often do. The check is simple to run and uncomfortable to run honestly: strip the audience, the reward and the credit out of a choice and see what reason is left standing. If the answer is none, that is information about the choice, not a verdict on you.
 
-The compendium's exercise: for one decision this week, write down the noble-making reason next to the useful one, and check whether the action still holds with nothing to gain.
+*For example:* before one decision this week, write two lines: the useful reason (what it gets you) and the fine one (why it would still be worth doing if nobody knew). Compare them.
 
-**Plain words** The good person acts for what is noble, not just what is useful or pleasant. Aristotle's word for the noble is kalon: the fine. Test an action by asking not only whether it works, but whether you would still do it with nothing to gain.
+## Sources
 
-*For example:* Someone helps a stranger carry shopping upstairs and notes later that they would have done it with no one watching.
+- [Aristotle, Nicomachean Ethics, Book III, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)
 
 ## Psychology parallels
 
