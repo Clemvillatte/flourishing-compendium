@@ -26,7 +26,8 @@
   "Therapeutic empathy",
   "Therapeutic philosophy",
   "Therapeutic presence",
-  "Things thinging"
+  "Things thinging",
+  "Thundering silence"
  ],
  "in_progress": null,
  "flagged": {
@@ -45,6 +46,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:42:48+00:00",
+ "updated": "2026-10-23T05:42:58+00:00",
  "band_done": false
 }
