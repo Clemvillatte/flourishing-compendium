@@ -24,10 +24,14 @@ The catch is that the heading is easier to live inside than to see. Sartre's own
 
 That is the whole case for the audit. The project runs whether or not you know it; the examination is the making-known, and the making-known is the only chance of steering.
 
-**Plain words**
-You are always heading somewhere, even when you think you are standing still. The heading comes from a choice you keep making, and that choice is easier to live inside than to see. The project is fully lived before it is known. The audit is the difference between a heading you are steering and a heading that is steering you.
+**Plain words** Your life already has a direction, made of what you keep saying yes to and what you keep avoiding. Nobody drafted it on paper; it built itself out of small choices. You cannot step outside it, and you do not need to. What you can do is look straight at it, ask what you are living for, and then decide whether to keep the heading.
 
-*For example:* Someone's project turns out, on inspection, to be "remain comfortable and be approved of" — a project they never chose, running for years. The audit doesn't change the project overnight; it just ends the deniability.
+*For example:* Someone's project turns out, on inspection, to be "remain comfortable and be approved of" — a project they never chose, running for years. Naming it does not change it overnight; it ends the deniability, which is where changing it starts.
+
+## Sources
+
+- [Reynolds and Renaudie, "Jean-Paul Sartre," Stanford Encyclopedia of Philosophy, section 5](https://plato.stanford.edu/entries/sartre/)
+
 ## Stories
 
 - [[ST269 — The Waiter's Dance|269. The Waiter's Dance]]
