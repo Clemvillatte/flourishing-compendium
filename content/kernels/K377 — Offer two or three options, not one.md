@@ -14,7 +14,36 @@ When you're helping someone choose a course of action, don't offer one option at
 
 "Of the things I've mentioned, which ones do you think would be possible for you?" is a question that respects both the person's autonomy and the reality that they know their life better than you do.
 
-Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 11 (Offering Information and Advice), p. 195 (the "quit smoking… exercise… diet… medications" menu example).
+Adapted from Miller & Rollnick, Motivational Interviewing (4th ed.), ch. 11 (Offering Information and Advice), p. 195 (the "quit smoking… exercise… diet… medications" menu example).
+
+### Evidence
+
+The recommendation, in the book's own words:
+
+> "As discussed in Chapter 11, when it comes to advice we recommend offering not one possibility but a menu of options from which to choose."
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+
+The menu has a history in the brief-intervention research the book recounts, in the FRAMES components:
+
+> "This review also pointed to six common components of effective brief treatment (cf. Miller & Sanchez, 1994), summarized by the acronym FRAMES: Feedback of personal status relative to norms Responsibility for personal change Advice to change Menu of options from which to choose in pursuing change Empathic counselor style Support for self-efficacy"
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+
+What the sources do not test: the passages give the method's recommendation and its research lineage; they do not evaluate the everyday version on this page.
+
+## Related concepts
+
+- [[Motivational interviewing]] — the research tradition the menu recommendation comes from.
+- [[Autonomous motivation]] — the kind of motivation a choice among options supports.
+- [[Values clarification]] — the direction the options are means to.
+
+## Related kernels
+
+- [[K369 — The autonomy statement]]
+- [[K370 — Ask, Offer, Ask]]
+
+## Sources
+
+- [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
 ## Operationalises
 
