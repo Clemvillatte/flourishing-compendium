@@ -18,7 +18,7 @@ A rule made in advance, applied in the moment. The practice moves the Cognition 
 
 1. Define the threshold now, while calm: any commitment of money, time or self above the line triggers the rule. Editorial addition, not from the carriers: write the threshold down; rules defined in the hot state are negotiated away in it.
 2. When a candidate decision crosses the line, start the clock. During the wait, gather information and consult people who are not in your hot state.
-3. At the end of the wait, decide from the cold state. The timeout does not decide for you; it moves the deciding to a state whose predictions you can trust.
+3. At the end of the wait, decide. Editorial addition, not from the carriers: the timeout does not decide for you, and the cold state is not a guarantee of accuracy; it only moves the deciding out of the state the research shows mispredicts itself.
 
 ### Evidence
 
@@ -29,7 +29,7 @@ The mechanism, in the author's words:
 
 And the paper's summary of consequences: "hot-cold empathy gaps can lead healthy persons to expose themselves excessively to health risks and can cause health care providers to undertreat patients for pain" ([Loewenstein 2005, PubMed record](https://pubmed.ncbi.nlm.nih.gov/16045419/)). The hot state both distorts the forecast and hides the distortion.
 
-What the research does not test: these are findings on affective forecasting and state-dependent prediction, mostly in medical and consumer domains; no study tests a mandatory one-to-three-day timeout rule, and the page claims no measured effect for it.
+What the research does not test: these are findings on affective forecasting and state-dependent prediction, mostly in medical and consumer domains; the cited studies do not test a mandatory one-to-three-day timeout rule, and the page claims no measured effect for it.
 
 ### A guided version
 

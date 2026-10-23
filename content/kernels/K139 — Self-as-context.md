@@ -24,7 +24,7 @@ Suggested adaptation of the ACT tradition cited below. The practice moves the Se
 
 The definition, from the model's own progress review:
 
-> "ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the 'I/here/nowness' of conscious experience. It is usually termed 'self as context' although other terms ('noticing self,' 'observer perspective,' 'transcendent sense of self') have been used."
+> ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the "I/here/nowness" of conscious experience. It is usually termed "self as context" although other terms ("noticing self," "observer perspective," "transcendent sense of self") have been used.
 > — [Hayes, Levin, Plumb-Vilardaga, Villatte & Pistorello (2013), *Behavior Therapy* 44(2), 180–198 (epub 2011)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/)
 
 The component evidence is honestly thin, and the review that canvassed it says so:
@@ -36,7 +36,7 @@ What the studies do not test: the review covers single-session laboratory trials
 
 ### A guided version
 
-A free recording exists: the Observer Exercise, from the 1999 ACT book, recorded by Randy Burgess and hosted by the Association for Contextual Behavioral Science ([contextualscience.org](https://contextualscience.org/free_practical_audio_exercises)); the host page does not state its duration.
+A candidate exists: the Observer Exercise, from the 1999 ACT book, recorded by Randy Burgess and listed by the Association for Contextual Behavioral Science ([contextualscience.org](https://contextualscience.org/free_practical_audio_exercises)); the host page does not state its duration, and the recording itself was not played back this pass.
 
 ## Facets
 

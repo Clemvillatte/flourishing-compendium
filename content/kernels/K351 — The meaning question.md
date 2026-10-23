@@ -22,11 +22,11 @@ An inquiry practice, not an answer machine. The practice moves the Cognition and
 
 ### Evidence
 
-The two dimensions, from the open-access study of 1,042 community-dwelling adults across the adult lifespan, in the authors' words: "Presence of meaning exhibited an inverted U-shaped relationship whereas Search showed a U-shaped relationship with age (Presence peaking and Search reaching the lowest point around age 60)" — meaning is felt most strongly in midlife, sought most intensely in youth and old age ([Umucu et al. 2020, PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7138140/)).
+The two dimensions, from the open-access study of 1,042 community-dwelling adults across the adult lifespan: in the authors' words, presence of meaning "exhibited an inverted U-shaped relationship" and search "a U-shaped relationship with age (Presence peaking and Search reaching the lowest point around age 60)" — meaning is felt most strongly in midlife, sought most intensely in youth and old age ([Aftab et al. 2019, *Journal of Clinical Psychiatry* 80(6), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7138140/)).
 
-And the well-being findings from the same study: "Mental well-being positively correlated with age (p < .001) and Presence (p < .001), and negatively with Search (p = .002). Cognitive function correlated inversely with age (p < .001) and with Search (p < .001)." Presence travels with better mental well-being; search, in this cross-sectional sample, with slightly worse. A three-level meta-analysis of the Meaning in Life Questionnaire literature reached a compatible conclusion: presence of meaning correlates moderately and positively with subjective well-being, search weakly and negatively ([Li, Dou & Liang 2021](https://doi.org/10.1007/s10902-020-00230-y)).
+The same study's statistical modelling found mental well-being correlated positively with presence of meaning and negatively with search for meaning, and cognitive function inversely with search (all at reported significance levels, in a cross-sectional sample). Presence travels with better mental well-being; search, in this sample, with slightly worse.
 
-What the studies do not test: these are correlations, mostly cross-sectional; none tests whether holding the question open, as this page directs, causes anything at all, and the page claims no such effect.
+What the study does not test: these are cross-sectional correlations; the cited study does not test whether holding the question open, as this page directs, causes anything at all, and the page claims no such effect.
 
 ### A guided version
 
@@ -52,5 +52,4 @@ None located; the question is self-administered by design, and no official guide
 
 ## Sources
 
-- [Umucu, E., et al. (2020). Meaning in Life and its Relationship with Physical, Mental, and Cognitive Functioning: A Study of 1,042 Community-Dwelling Adults across the Lifespan. PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7138140/) — full text retrieved via the NCBI full-text service and quoted verbatim; the MLQ dimensions, age curves, and well-being correlations.
-- [Li, J.-B., Dou, K., & Liang, Y. (2021). The relationship between presence of meaning, search for meaning, and subjective well-being: a three-level meta-analysis based on the meaning in life questionnaire. *Journal of Happiness Studies* 22, 467–489](https://doi.org/10.1007/s10902-020-00230-y)
+- [Aftab, A., Lee, E. E., Klaus, J., Daly, W., Wu, T.-C., Tu, X., Huege, J., & Jeste, D. V. (2019). Meaning in Life and its Relationship with Physical, Mental, and Cognitive Functioning: A Study of 1,042 Community-Dwelling Adults across the Lifespan. *Journal of Clinical Psychiatry* 80(6) — PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7138140/) — full text retrieved via the NCBI full-text service; authors and journal verified against the article metadata; the MLQ dimensions, age curves, and well-being correlations.

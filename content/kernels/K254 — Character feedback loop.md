@@ -24,12 +24,12 @@ The practice moves the Self and Overt behaviour dimensions: the self-concept und
 
 The ground for preferring other-eyes to self-eyes, from the meta-analysis of 44,178 targets rated across 263 independent samples:
 
-> "Collecting personality ratings from other-raters, such as family, friends, and even strangers, is a dramatically underutilized method that allows better explanation and prediction of personality's role in many domains of psychology."
+> "However, collecting personality ratings from other-raters, such as family, friends, and even strangers, is a dramatically underutilized method that allows better explanation and prediction of personality's role in many domains of psychology."
 > — [Connelly & Ones 2010, *Psychological Bulletin* 136(6), PubMed record](https://pubmed.ncbi.nlm.nih.gov/21038940/)]
 
-And the virtue-side cousin, the character strengths intervention study: in "a 6-group, random-assignment, placebo-controlled Internet study... 3 of the interventions lastingly increased happiness and decreased depressive symptoms" ([Seligman, Steen, Park & Peterson 2005, *American Psychologist* 60(5), PubMed record](https://pubmed.ncbi.nlm.nih.gov/16045394/)) — including exercises that work with signature strengths, which the feedback loop helps locate.
+And the virtue-side cousin, the character strengths intervention study: in "a 6-group, random-assignment, placebo-controlled Internet study... 3 of the interventions lastingly increased happiness and decreased depressive symptoms" ([Seligman, Steen, Park & Peterson 2005, *American Psychologist* 60(5), PubMed record](https://pubmed.ncbi.nlm.nih.gov/16045394/)). The abstract does not specify which three interventions succeeded.
 
-What the studies do not test: the meta-analysis concerns observers' accuracy for personality traits, not a three-person character interview; the intervention study did not test this loop; and no study measures whether taking feedback improves virtue.
+What the studies do not test: the meta-analysis concerns observers' accuracy for personality traits, not a three-person character interview; the intervention study did not test this loop; and the cited studies do not measure whether taking feedback improves virtue.
 
 ### A guided version
 

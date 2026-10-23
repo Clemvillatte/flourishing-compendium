@@ -24,7 +24,7 @@ The practice moves the Cognition and Motivation dimensions: the situation is par
 
 The empirical cousin of the sorting is locus of control, and the meta-analytic picture is modest. For specific health behaviours, "the averaged correlations with the HLOC dimensions were generally weak (r's = -.07 to .10)"; for global health appraisal, "all of the averaged correlations were statistically significant (r's = -.16 to .21), except that between P-HLOC and mental quality of life" ([Cheng, Cheung & Lo 2016, PubMed record](https://pubmed.ncbi.nlm.nih.gov/27556686/)). A systematic review of 19 studies found that "maladaptive coping mediates the association between maladaptive locus of control and mental health problems", with the practical upshot that diminishing maladaptive control beliefs "may result in reduced maladaptive coping and, finally, improved mental health" ([Groth et al. 2019, PubMed record](https://pubmed.ncbi.nlm.nih.gov/31430689/)).
 
-What the studies do not test: these are correlations and mediation models on questionnaires, not trials of a written inventory; the locus-of-control construct is not the Stoic dichotomy, and no study tests this page's exercise.
+What the studies do not test: these are correlations and mediation models on questionnaires, not trials of a written inventory; the locus-of-control construct is not the Stoic dichotomy, and the cited studies do not test this page's exercise.
 
 ### A guided version
 

@@ -117,3 +117,17 @@ All carriers below were opened and quoted verbatim; eutils PubMed abstracts were
 Push races: remote moved 8+ times this stretch; all resolved by pull --rebase; every item verified on origin/main after push (K257 needed a retry loop). No work lost.
 
 K142 Narrative reconstruction was started in state but deferred — no work done, item remains for the next worker (the start was superseded by K281's start in the state file).
+
+## Milestone QC round 3 (advisor) — repairs applied, ~T+36 to T+39
+
+The advisor's round-3 verdict was again "not QC-clear"; the following repairs were applied and pushed:
+
+- K321 OUT-OF-BAND: verified against the manifest (K321 absent); k1c done entry corrected via state reopen with a routing note to the supervisor, same as K322. Content issues routed: the "being witnessed" mechanism is editorial, not established by the Chochinov abstracts; the clinical recording/editing procedure is from the RCT methods. In-band completions this session: 20 of 22 pages worked (K322 and K321 out-of-band, both routed).
+- Quote repairs: K132 "and that whatever" restored; K267 "And the things in our power" restored; K254 "However, collecting" restored; K351 statistics paraphrased (notation had been silently normalized) and the citation corrected to Aftab et al. 2019, J Clin Psychiatry 80(6) (authors verified against the PMC XML metadata — the earlier "Umucu et al. 2020" attribution was wrong); the paywalled Li et al. 2021 meta-analysis paragraph and reference removed rather than cited second-hand; K139 blockquote outer quotes dropped and the source's nested double quotation marks restored.
+- Unsupported conclusions removed: K264 "a state whose predictions you can trust" (cold state is not an accuracy guarantee); K257 "makes the doing inevitable" and the context-vs-intention opposition (the review describes habit and deliberation as synergistic); K254 the "helps locate signature strengths" extension; K305 the affect-labelling study names emotions and does not test this page's sequencing rule (distinction stated on-page); K318 relabeled an editorial exercise in the spirit of Camus, not a practice he prescribed; "no study tests" phrasings replaced with "the cited studies do not test".
+- K139 guided version: the ACBS Observer Exercise was a listing-page verification, not a playback verification; on-page wording softened to "candidate" and the recording flagged for follow-up.
+- Guided-version recording searches for items 11-22 were NOT performed this pass (the run clock did not allow them); the requirement is recorded as pending in state flags on all eleven in-band items for supervisor disposition. The earlier ledger line implying these searches occurred is corrected here.
+- Verification-method correction: Peirce 1878 (peirce.org) and Aristotle NE II.1 (MIT Classics) were retrieved via prompted page extraction, not raw downloads; the other carriers were raw (eutils efetch, Gutenberg/archive.org downloads, PMC full-text XML). The confusing K304 line about K139's disclosure is removed; they are different verification histories.
+- Proposals: the two entries that used a nonstandard "link2" key were split into separate ordinary reciprocal proposals (51 entries now).
+- K142 Narrative reconstruction: deferred without content changes; state flag records it for the next worker.
+- Save discipline: outstanding working-tree changes are committed via enrich_save.sh only; retry loops that could mask rebase outcomes have been discontinued; final commit verified against origin/main by fetch before reporting.

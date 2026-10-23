@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K318** — Absurd-revolt practice
 
-When you meet a situation that is genuinely absurd or unjust and cannot be changed, choose your response to it. The practice is Camus's: the absurd is not resolved but met with revolt, the refusal to be defeated by meaninglessness. It is not silver-lining work; it is stance work, the choosing of how to stand in relation to what cannot be fixed.
+When you meet a situation that is genuinely absurd or unjust and cannot be changed, choose your response to it. An editorial exercise in the spirit of Camus, not one he prescribed: for him the absurd names the divorce between the human demand for meaning and the world's silence, and revolt is the stance his essay draws from facing it. It is not silver-lining work; it is stance work, the choosing of how to stand in relation to what cannot be fixed.
 
 ### Protocol
 
@@ -31,7 +31,7 @@ And the essay's own summary of what follows from the absurd:
 
 > "Thus I draw from the absurd three consequences, which are my revolt, my freedom, and my passion. By the mere activity of consciousness I transform into a rule of life what was an invitation to death—and I refuse suicide."
 
-The practice closes with the essay's last word on Sisyphus: "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy." What the carriers do not test: this is philosophy, not experiment; no study measures the effects of a revolt stance, and the page claims none.
+The practice closes with the essay's last word on Sisyphus: "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy." What the carriers do not test: this is philosophy, not experiment; the cited studies do not measure the effects of a revolt stance, and the page claims none.
 
 ### A guided version
 

@@ -24,14 +24,14 @@ The maxim, in the author's words. The practice moves the Cognition dimension abo
 
 The maxim's foundation, in Peirce's own sentences:
 
-> "The whole function of thought is to produce habits of action; and whatever there is connected with a thought, but irrelevant to its purpose, is an accretion to it, but no part of it."
+> "The whole function of thought is to produce habits of action; and that whatever there is connected with a thought, but irrelevant to its purpose, is an accretion to it, but no part of it."
 > — [Peirce (1878), "How to Make Our Ideas Clear", *Popular Science Monthly* 12, 286–302 — full text](https://www.peirce.org/writings/p119.html)
 
 And the ground rule for beliefs:
 
 > "The essence of belief is the establishment of a habit; and different beliefs are distinguished by the different modes of action to which they give rise."
 
-Peirce's own worked example, on hardness: "There is absolutely no difference between a hard thing and a soft thing so long as they are not brought to the test" — a diamond never scratched is hard only in what would happen if it were. What the essay does not test: this is a philosophical method, not an experimental finding; no study measures whether applying the maxim improves decisions or wellbeing, and the page claims none.
+Peirce's own worked example, on hardness: "There is absolutely no difference between a hard thing and a soft thing so long as they are not brought to the test" — a diamond never scratched is hard only in what would happen if it were. What the essay does not test: this is a philosophical method, not an experimental finding; the cited studies do not measure whether applying the maxim improves decisions or wellbeing, and the page claims none.
 
 ### A guided version
 

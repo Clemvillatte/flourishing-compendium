@@ -179,7 +179,11 @@
   {
    "into": "Locus of control",
    "link": "K267 — Controllability sorting",
-   "link2": "K311 — Responsibility inventory",
+   "why": "the sorting exercises that apply the construct"
+  },
+  {
+   "into": "Locus of control",
+   "link": "K311 — Responsibility inventory",
    "why": "the sorting exercises that apply the construct"
   },
   {
@@ -205,7 +209,11 @@
   {
    "into": "Meaning-making",
    "link": "K351 — The meaning question",
-   "link2": "K318 — Absurd-revolt practice",
+   "why": "the open question and the unconsoling stance both belong to the family"
+  },
+  {
+   "into": "Meaning-making",
+   "link": "K318 — Absurd-revolt practice",
    "why": "the open question and the unconsoling stance both belong to the family"
   },
   {
@@ -236,7 +244,11 @@
   {
    "into": "Phenomenological description",
    "link": "K318 — Absurd-revolt practice",
-   "link2": "K304 — Lived-body description",
+   "why": "the lucid naming both practices begin with"
+  },
+  {
+   "into": "Phenomenological description",
+   "link": "K304 — Lived-body description",
    "why": "the lucid naming both practices begin with"
   },
   {

@@ -27,7 +27,7 @@ The method's own honesty, from Merleau-Ponty's preface:
 > "The most important lesson which the reduction teaches us is the impossibility of a complete reduction."
 > — [Merleau-Ponty (1962), *Phenomenology of Perception* (Smith trans.), full text](https://archive.org/stream/merleaupontyphenomenologyofperception/Merleau-Ponty%20-%20Phenomenology%20of%20Perception_djvu.txt)
 
-The bracket never fully closes; there is no view from nowhere, only the bracketing, done again. And the empirical cousin, affect labelling, from a recent experiment on bilinguals (N = 151): "In unbalanced bilinguals, labeling reduced amygdala activity only in the dominant, native" language ([Davydova et al. 2026, PNAS, PubMed record](https://pubmed.ncbi.nlm.nih.gov/42673452/)) — the labelling effect is real but bounded, working through the language one inhabits most.
+The bracket never fully closes; there is no view from nowhere, only the bracketing, done again. The empirical cousin is affect labelling, which names emotions themselves; the cited study does not test this page's sequencing rule, only what naming does. From a recent experiment on bilinguals (N = 151): "In unbalanced bilinguals, labeling reduced amygdala activity only in the dominant, native" language ([Davydova et al. 2026, PNAS, PubMed record](https://pubmed.ncbi.nlm.nih.gov/42673452/)) — the labelling effect is real but bounded, working through the language one inhabits most.
 
 What the studies do not test: the amygdala finding concerns emotion words in a laboratory task, not the sequencing rule this page teaches, and the page claims no measured outcome for the practice.
 

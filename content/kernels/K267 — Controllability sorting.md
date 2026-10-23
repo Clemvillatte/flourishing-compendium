@@ -24,12 +24,12 @@ The Stoic original, then the sort. The practice moves the Cognition and Motivati
 
 The Stoic ground, and its warning:
 
-> "The things in our power are by nature free, not subject to restraint or hindrance; but the things not in our power are weak, slavish, subject to restraint, in the power of others. Remember then, that if you think the things which are by nature slavish to be free... you will be hindered, you will lament, you will be disturbed, you will blame both gods and men; but if you think that only which is your own to be your own... no man will compel you, no man will restrain you."
+> "And the things in our power are by nature free, not subject to restraint or hindrance; but the things not in our power are weak, slavish, subject to restraint, in the power of others. Remember then, that if you think the things which are by nature slavish to be free... you will be hindered, you will lament, you will be disturbed, you will blame both gods and men; but if you think that only which is your own to be your own... no man will compel you, no man will restrain you."
 > — [Epictetus, *Encheiridion* 1 (George Long, trans.) — full text](https://www.gutenberg.org/files/10661/10661-h/10661-h.htm)
 
 The empirical cousin, honestly read. A meta-analysis of health locus of control found that for specific health behaviours "the averaged correlations with the HLOC dimensions were generally weak (r's = -.07 to .10)", while for global health appraisal "all of the averaged correlations were statistically significant (r's = -.16 to .21), except that between P-HLOC and mental quality of life" ([Cheng, Cheung & Lo 2016, PubMed record](https://pubmed.ncbi.nlm.nih.gov/27556686/)). A systematic review of 19 studies found that "maladaptive coping mediates the association between maladaptive locus of control and mental health problems" and concluded that it "might be more promising to diminish maladaptive locus of control, which may result in reduced maladaptive coping and, finally, improved mental health" ([Groth et al. 2019, PubMed record](https://pubmed.ncbi.nlm.nih.gov/31430689/)).
 
-What the studies do not test: these are correlational, small-to-moderate effects measured on Rotter-style questionnaires, not trials of a two-column sorting exercise; and no study tests the Stoic practice itself.
+What the studies do not test: these are correlational, small-to-moderate effects measured on Rotter-style questionnaires, not trials of a two-column sorting exercise; and the cited studies do not test the Stoic practice itself.
 
 ### A guided version
 

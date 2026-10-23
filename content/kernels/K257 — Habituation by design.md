@@ -10,14 +10,14 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K257** — Habituation by design
 
-Choose one virtue and design a thirty-day habituation plan around it, built from daily micro-actions so small that skipping feels absurd. If the virtue is justice, the action might be: notice one unfairness each day and do one small thing about it. Aristotle's insight is that we become just by doing just acts; the design just makes the doing inevitable. Reach for it when a virtue you admire exists only in your opinions.
+Choose one virtue and design a thirty-day habituation plan around it, built from daily micro-actions so small that skipping feels absurd. If the virtue is justice, the action might be: notice one unfairness each day and do one small thing about it. Aristotle's insight is that we become just by doing just acts; the design is an editorial attempt to make the doing routine. Reach for it when a virtue you admire exists only in your opinions.
 
 ### Protocol
 
 The practice moves the Overt behaviour and Motivation dimensions above all: what is done daily, and the wish that the doing gradually becomes.
 
 1. Pick one virtue and translate it into a single daily act that takes under five minutes. Write the act as a sentence you could not misread on a bad morning.
-2. Anchor the act to a fixed context, the same time, place or preceding event each day. Editorial addition drawing on the habit research: the context, not the intention, is what the learning attaches to; repeat the act in the same situation, and let the situation start doing the remembering.
+2. Anchor the act to a fixed context, the same time, place or preceding event each day. Editorial addition drawing on the habit research: repeat the act in the same situation, and let the context share the remembering; the review describes habit and deliberate pursuit as working together, not as rivals.
 3. Run it for thirty days and expect the act to feel mechanical for most of them. Editorial addition, not from the carriers: the plan is a training scaffold, not a test of commitment; if a day is missed, the next act is the whole response.
 
 ### Evidence
