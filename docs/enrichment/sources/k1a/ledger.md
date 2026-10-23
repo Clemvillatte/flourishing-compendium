@@ -340,3 +340,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: studies did not test the recording practice; samples were married couples. Notice kept distinct from log.
 - Advisor QC pattern applied. Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
 - Saturation: mention check run; MO055 and The progress principle already link the goal-progress line; no new reciprocal proposals needed.
+
+## K196 — Daily movement (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Schuch et al. 2018 (Am J Psychiatry 175(7):631-648), 49 prospective cohort meta-analysis, abstract verified raw via NCBI efetch (PMID 29690792). PMID located via web search after esearch failed to surface it; quote verified against raw efetch text, not the search snippet.
+- The blockquote (high vs low activity odds ratio sentence) matches the raw efetch text verbatim; effect size and CI recorded on page per kernel standard.
+- Honesty on page: observational cohorts, high-vs-low contrast, walk dose/outdoors/nature not tested. No treatment claim.
+- Advisor QC pattern applied. Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+- Saturation: mention check run; D036, B041, BI030/BI032 already reference daily walking; no new reciprocal proposals needed.

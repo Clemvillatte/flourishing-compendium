@@ -12,6 +12,45 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 Walk 20 to 30 minutes daily, ideally outdoors, in contact with weather and ground. If possible, walk in nature. Movement is a first-line mental health intervention with meta-analytic support.
 
+### Protocol
+
+The steps below are a practice form, not a tested protocol; the findings they lean on are quoted in the Evidence section. Intended focus: Overt behaviour and Subjective well-being.
+
+1. Walk 20 to 30 minutes a day, at whatever pace you can keep. Outdoors beats a treadmill when available; contact with weather and ground is part of the practice, not decoration.
+2. Keep the walk separate from its uses: errands count only if the walking is the errand. Where possible, walk where something green is visible.
+3. Track only whether the walk happened. If it lapses, restart at a smaller size rather than scheduling a larger one; keep the version that survives weather, mood and schedule.
+
+### Evidence
+
+From the prospective-cohort research on movement and depression:
+
+> "Compared with people with low levels of physical activity, those with high levels had lower odds of developing depression (adjusted odds ratio=0.83, 95% CI=0.79, 0.88; I2=0.00)." (Abstract, [Schuch, Vancampfort, Firth, Rosenbaum, Ward, Silva, Hallgren, Ponce De Leon, Dunn, Deslandes, Fleck, Carvalho & Stubbs, 2018, American Journal of Psychiatry 175(7), 631-648](https://pubmed.ncbi.nlm.nih.gov/29690792/))
+
+What this evidence does not test: the walk. The meta-analysis pooled 49 prospective cohort studies (N=266,939) and reports a protective association between higher physical activity and lower odds of developing depression, across age groups and regions. It is observational: it does not show that a daily 20 to 30 minute walk prevents depression, and the comparison is between high and low activity levels, not between walking and not walking. The dose, the outdoor setting and the nature contact are the practice form; the study does not speak to them.
+
+### A guided version
+
+No guided version is supplied here.
+
 ## Operationalises
 
-[[D036 — Treasure your life and health as the vessel of everything|D036 Treasure your life and health as the vessel of everything]], [[D141 — Care for life as the root of all endeavor|D141 Care for life as the root of all endeavor]], [[B041 — Practice walking meditation|B041 Practice walking meditation]], [[P141 — Perceive by acting — perception is movement|P141 Perceive by acting: perception is movement]]
+- [[D036 — Treasure your life and health as the vessel of everything|D036 Treasure your life and health as the vessel of everything]]
+- [[D141 — Care for life as the root of all endeavor|D141 Care for life as the root of all endeavor]]
+- [[B041 — Practice walking meditation|B041 Practice walking meditation]]
+- [[P141 — Perceive by acting — perception is movement|P141 Perceive by acting: perception is movement]]
+
+## Related concepts
+
+- [[Behavioral activation]]: the family of get-moving practices this belongs to
+- [[Attention restoration]]: the outdoor side of the practice
+- [[Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder]]: where the evidence sits relative to clinical care
+
+## Related kernels
+
+- [[K104 — Mindful walking]]: the same walk taken as attention practice
+- [[K205 — Nature exposure]]: the green half of the recommendation
+- [[K174 — Behavioral activation]]: the scheduling approach when the walk will not start itself
+
+## Sources
+
+- [Schuch, F. B., et al. (2018). Physical Activity and Incident Depression: A Meta-Analysis of Prospective Cohort Studies. American Journal of Psychiatry, 175(7), 631-648](https://pubmed.ncbi.nlm.nih.gov/29690792/) — the meta-analysis abstract: high versus low activity and incident depression
