@@ -18,7 +18,7 @@ The wise-reasoning research program measures how people reason about social conf
 
 > "We conducted a daily diary study of wise reasoning (WR) by recording people's reflections on daily challenges in terms of three facets: intellectual humility, self-transcendence, and consideration of others' perspectives/compromise." — [Grossmann, Gerlach & Denissen, 2016, Social Psychological and Personality Science 7(7), Abstract](https://www.psych.uni-goettingen.de/de/biopers/publications_department/grossmannetal2016/@@download/pdf_file/grossmann_gerlach_denissen_2016_wise_reasoning_in_the_face_of_everyday_life_challenges_spps.pdf)
 
-A stakeholder map is a concrete way of forcing the third facet before a decision rather than after it. The one-sentence-per-person format is editorial, not from the studies.
+A stakeholder map is a concrete way of prompting the third facet before a decision rather than after it. The one-sentence-per-person format is editorial, not from the studies.
 
 ### Protocol
 

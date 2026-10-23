@@ -16,7 +16,7 @@ For one virtue at a time, track the two vices around it, the excess and the defi
 
 Aristotle's own distinction between the two kinds of mean:
 
-> "by the mean relatively to ourselves, that which is neither too much nor too little for the particular individual. This of course is not one nor the same to all: for instance, suppose ten is too much and two too little, people take six for the absolute mean; because it exceeds the smaller sum by exactly as much as it is itself exceeded by the larger, and this mean is according to arithmetical proportion. But the mean relatively to ourselves must not be so found; for it does not follow, supposing ten minæ is too large a quantity to eat and two too small, that the trainer will order his man six; because for the person who is to take it this also may be too much or too little: for Milo it would be too little, but for a man just commencing his athletic exercises too much." — [Aristotle, Nicomachean Ethics II.6, Chase translation (Project Gutenberg 8438)](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)
+> "by the mean relatively to ourselves, that which is neither too much nor too little for the particular individual. This of course is not one nor the same to all: for instance, suppose ten is too much and two too little, people take six for the absolute mean; because it exceeds the smaller sum by exactly as much as it is itself exceeded by the larger, and this mean is according to arithmetical proportion. But the mean relatively to ourselves must not be so found; for it does not follow, supposing ten minæ is too large a quantity to eat and two too small, that the trainer will order his man six; because for the person who is to take it this also may be too much or too little: for Milo it would be too little, but for a man just commencing his athletic exercises too much: similarly too of the exercises themselves, as running or wrestling." — [Aristotle, Nicomachean Ethics II.6, Chase translation (Project Gutenberg 8438)](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)
 
 So then, he says, "every one possessed of skill avoids excess and defect, but seeks for and chooses the mean, not the absolute but the relative" (II.6).
 
@@ -27,11 +27,11 @@ The two calibration rules are Aristotle's (II.9); the 1-to-10 rating and the wee
 1. Name the virtue and its two extremes: assertiveness between passivity and aggression, courage between rashness and cowardice, giving between stinginess and waste.
 2. After each situation that called for the virtue, rate where the response landed, 1 for the deficient extreme, 10 for the excessive one.
 3. Note which extreme your failures lean toward. Aristotle's rule: "he who aims at the mean should make it his first care to keep away from that extreme which is more contrary than the other to the mean" ([II.9](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).
-4. Force the aim away from that bias, and expect the correction to overshoot before it settles; the rating scale is a way of watching that happen over weeks.
+4. Force the aim away from that bias, in the contrary direction, as Aristotle's rule directs; the rating scale keeps the record of where the responses land.
 
 ### Evidence
 
-The carrier here is the primary text, not trials: no study tests a mean-calibration practice, and none is cited. Aristotle's own account of why calibration is slow, and of the overshoot:
+The carrier here is the primary text, not trials. Aristotle's account of the difficulty:
 
 > "to be angry, to give money, and be expensive, is what any man can do, and easy: but to do these to the right person, in due proportion, at the right time, with a right object, and in the right manner, this is not as before what any man can do, nor is it easy; and for this cause goodness is rare, and praiseworthy, and noble." — [Aristotle, Nicomachean Ethics II.9, Chase translation (Project Gutenberg 8438)](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)
 

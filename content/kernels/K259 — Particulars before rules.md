@@ -22,15 +22,15 @@ His conclusion: "Since then Practical Wisdom is apt to act, one ought to have bo
 
 ### Protocol
 
-The order is Aristotle's; the two-minute timing is editorial.
+The sequence and the timing are editorial, informed by Aristotle's account of practical wisdom.
 
 1. Before deciding, spend two minutes writing the particular situation: who is involved, what is at stake, what the context is.
 2. Only then ask which principle applies, and check it against what was written.
-3. Where the rule and the written particulars clash, re-read the particulars before adjusting the rule; a rule applied without attention to the particular serves the rule, not the situation.
+3. Where the rule and the written particulars clash, treat the clash as a question about the rule rather than an error in the description; this step is editorial.
 
 ### Evidence
 
-The carrier here is the primary text, not trials: no study tests a particulars-first protocol, and none is cited. Aristotle's diagnosis of what goes wrong when the universal is used without the particular, from his account of failing to act on knowledge:
+The carrier here is the primary text, not trials. Aristotle's diagnosis of what goes wrong when the universal is used without the particular, from his account of failing to act on knowledge:
 
 > "there is no reason why a man may not act against his Knowledge, having both propositions in his mind, using the universal but not the particular, for the particulars are the objects of moral action." — [Aristotle, Nicomachean Ethics VII.3, Chase translation (Project Gutenberg 8438)](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)
 

@@ -10,15 +10,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K251** — Signature strengths in new ways
 
-Take the VIA Inventory of Character Strengths, note the top five "signature" strengths it returns, then use one of them in a new way each day. The tested form comes from Seligman's research team: the exercise was one of five validated in a randomised, placebo-controlled internet study published in 2005 ([Seligman et al., 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)). Reach for it when self-knowledge about character already exists and the missing piece is use.
+Take the VIA Inventory of Character Strengths, note the top five "signature" strengths it returns, then use one of them in a new way each day. The tested form comes from Seligman's research team: the exercise was one of five exercises tested in a randomised, placebo-controlled internet study published in 2005 ([Seligman et al., 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)). Reach for it when self-knowledge about character already exists and the missing piece is use.
 
 ### What it rests on
 
 The study's own description of the exercise:
 
-> "Using signature strengths in a new way - were asked to take our inventory of character strengths online at www.authenichappiness.org and receive individualized feedback about their top five ("signature") strengths (Peterson, Park, & Seligman, 2005). They were then asked to use one of these top strengths in a new and different way every day for one week." — [Seligman, Steen, Park & Peterson, 2005, American Psychologist 60(5)](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)
+> "Using signature strengths in a new way - were asked to take our inventory of character strengths online at www.authenichappiness.org and receive individualized feedback about their top five ("signature") strengths (Peterson, Park, & Seligman, 2005). They were then asked to use one of these top strengths in a new and different way every day for one week." — [Seligman, Steen, Park & Peterson, 2005, American Psychologist 60(5), Method section, exercise list](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)
 
-The inventory behind it is the Values in Action classification of 24 character strengths (see [[VIA classification]] and [[Character strengths (Peterson & Seligman)]]).
+The inventory behind it is the Values in Action classification of character strengths (see [[VIA classification]] and [[Character strengths (Peterson & Seligman)]]).
 
 ### Protocol
 
@@ -32,7 +32,7 @@ The first week follows the study; the weekly rotation through all five is the co
 
 The validation study, 577 self-selected volunteers at a positive-psychology website, placebo control (writing about early memories):
 
-> "Two of the exercises—using signature strengths in a new way and three good things—increased happiness and decreased depressive symptoms for six months." — [Seligman et al., 2005, American Psychologist 60(5)](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)
+> "Two of the exercises—using signature strengths in a new way and three good things—increased happiness and decreased depressive symptoms for six months." — [Seligman et al., 2005, American Psychologist 60(5), Results section](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)
 
 The authors add that the participants who kept benefiting were those who spontaneously continued the exercises beyond the required week. The outcomes were self-reported happiness and depressive symptoms, not character change.
 
