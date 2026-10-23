@@ -15,7 +15,11 @@ Sorrow's fruit is a literary image from Kahlil Gibran's The Prophet (1923): in t
 
 ### What the image does
 
-Gibran pictures joy and sorrow as inseparable. His cup and lute images suggest that the same life can contain both pain and delight. This is a literary image, and the page offers it as such: it is a way of seeing grief, and the compendium's principle SP095 carries the practical edge it points to, converting suffering into understanding at the moment of loss.
+Gibran pictures joy and sorrow as inseparable, and the chapter argues the point in both directions:
+
+> "When you are joyous, look deep into your heart and you shall find it is only that which has given you sorrow that is giving you joy. When you are sorrowful look again in your heart, and you shall see that in truth you are weeping for that which has been your delight." (Kahlil Gibran, The Prophet, "On Joy and Sorrow", [Project Gutenberg](https://www.gutenberg.org/cache/epub/58585/pg58585.txt))
+
+The chapter also refuses the ranking question. When some say joy is greater and others say sorrow is the greater, the answer is that they are inseparable: together they come, and when one sits alone at the board, the other is asleep upon the bed. The cup and lute images carry the same claim: the cup that holds the wine is the cup that was burned in the potter's oven, and the lute that soothes the spirit is wood that was hollowed with knives. This is a literary image offered as a way of seeing grief; the compendium's principle SP095 carries the practical edge it points to, converting suffering into understanding at the moment of loss.
 
 ## Sources
 
