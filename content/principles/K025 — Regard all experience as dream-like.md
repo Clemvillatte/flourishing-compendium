@@ -25,7 +25,7 @@ The dream comparison lands on perception, and Trungpa applies it to the contents
 **Plain words**
 In this reading, an experience can be vivid without being as fixed as it seems. As an everyday exercise, notice a remembered conversation as it comes to mind. What words, pictures or feelings are present? Watch whether they change while you pay attention.
 
-For example (an imagined application): After an argument, you notice yourself replaying one sentence. You gently label it as thinking and return attention to your breath.
+For example: After an argument, you notice yourself replaying one sentence. You gently label it as thinking and return attention to your breath.
 
 ## Sources
 

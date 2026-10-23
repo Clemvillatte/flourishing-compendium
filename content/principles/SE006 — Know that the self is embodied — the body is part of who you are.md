@@ -27,7 +27,7 @@ The compendium recommends including bodily care when considering care of yoursel
 **Plain words**
 You are not a mind renting a body. When the body is tired or hurt, it is you who is tired or hurt, not your transport. So caring for yourself has to include the unglamorous maintenance: sleep, food, movement. A plan for self-improvement that skips them is a plan built on a crumbling foundation.
 
-*For example* (reflection exercise): When describing a difficult day, consider whether bodily discomfort appears in how you describe yourself.
+*For example:* When describing a difficult day, consider whether bodily discomfort appears in how you describe yourself.
 ## Psychology parallels
 
 - **[[Embodied self|Embodied self]]**, bodily states and interoception shape self-concept and self-awareness (Barrett et al., 2019; Craig, 2009)

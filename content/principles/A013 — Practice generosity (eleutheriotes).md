@@ -27,7 +27,7 @@ The measure is the giver's means, not the gift's size: "the liberal man is one w
 **Plain words**
 Giving well means the right amount to the right people at the right time, for the right reasons. ([NE IV.1, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)) Aristotle measures generosity against your means: spending in proportion is the virtue, exceeding it is prodigality, and wasting your substance is a kind of self-ruin. ([NE IV.1, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4))
 
-*For example* (exercise): compare a regular donation with a gift that would leave rent unpaid. Consider the recipient, amount, timing, motive and your available resources.
+*For example:* compare a regular donation with a gift that would leave rent unpaid. Consider the recipient, amount, timing, motive and your available resources.
 
 ## Stories
 

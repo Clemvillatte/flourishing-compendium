@@ -20,7 +20,7 @@ Vallerand's hierarchical model distinguishes a general motivational orientation,
 
 **Plain words** Start with the activity you are struggling to begin. Describing your motivation toward one task is more specific than deciding that you are unmotivated in every part of life.
 
-*For example (imagined exercise):* A student who cannot start studying describes her motivation toward that one course: no goal in it that matters to her, no fixed time slot in the week, and a phone on the desk. Naming the parts is the exercise; whether the changes then help is for her to observe.
+*For example:* A student who cannot start studying describes her motivation toward that one course: no goal in it that matters to her, no fixed time slot in the week, and a phone on the desk. Naming the parts is the exercise; whether the changes then help is for her to observe.
 
 ## Sources
 

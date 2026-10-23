@@ -21,7 +21,7 @@ The verse before it treats the perfection of generosity the same way: "The perfe
 **Plain words**
 The verse locates moral discipline in a resolve rather than a completed result: the killing of creatures has not been universally eradicated, and the perfection is the thought to forsake such things. To keep the practice, the chapter says to guard the mind.
 
-For example (a compendium exercise): For three months, tell no lies, not even white ones, and watch what occasions arise to test the resolve.
+For example: For three months, tell no lies, not even white ones, and watch what occasions arise to test the resolve.
 
 ## Sources
 

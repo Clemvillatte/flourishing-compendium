@@ -25,7 +25,7 @@ The article discusses examples in particular domains, including space, time and 
 **Plain words**
 The words you reach for do some of the thinking. A language that has a word for a distinction makes that distinction easier to notice, and one that lacks it makes it easier to miss. For a writer the lesson is concrete: when something will not quite say itself, ask whether your wording, or the whole vocabulary you inherited, is hiding the very thing you mean.
 
-*For example* (writing exercise): Describe the same event twice, first naming the actor and then leaving the actor unnamed. Ask what each wording makes explicit.
+*For example:* Describe the same event twice, first naming the actor and then leaving the actor unnamed. Ask what each wording makes explicit.
 ## Psychology parallels
 
 - [[Linguistic relativity|Linguistic relativity]] (Boroditsky, 2011; Lupyan et al., 2020); language and identity (Norton, 2000); code-switching as cultural practice (Gumperz, 1982); bilingualism and cognition (Bialystok, 2017).

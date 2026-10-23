@@ -21,7 +21,7 @@ Nishida treats thinking, imagining and willing as related unifying activities. R
 **Plain words**
 Nishida's starting point: in immediate experience there is not yet a gap between knower and known, and he treats thinking, imagining and willing as related unifying activities rather than separate faculties. The application: when reflecting on an action, consider how these worked together within it, rather than asking which self, the acting one or the evaluating one, was the real one.
 
-For example (application): After service, a cook reviews how tasting, remembering recipes and adjusting seasoning worked together, then considers what she would change next time.
+For example: After service, a cook reviews how tasting, remembering recipes and adjusting seasoning worked together, then considers what she would change next time.
 
 ## Sources
 
