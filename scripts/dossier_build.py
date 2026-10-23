@@ -92,6 +92,15 @@ OVERRIDES = {
  'Narrative self': 'The self understood as the protagonist of one\u2019s own life story.',
  'Embodied self': 'The self as felt from inside the body: an interoceptive account of embodiment rather than the body as observed.',
  'The self-evident': 'Aristotle\u2019s account of what all demonstration rests on and what demonstration cannot reach (not an entry about the self).',
+ "Critique of the unencumbered self": "Michael Sandel calls the self conceived as given prior to and independent of its purposes and ends the \"unencumbered self\"; his critique targets versions of liberalism associated with Kant and John Rawls (Sandel interview, sourcesjournal.org).",
+ "The wider self": "the compendium's umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body, a place, a river, other living beings, can be part of the self rather than objects for it.",
+ "Self-distancing": "in Kross's formulation, is a process that allows people to transcend their egocentric viewpoint when reasoning about an experience, viewing themselves from the perspective of a distanced observer, akin to a fly on the wall (Kross et al. 2012).",
+ "Embodied social identity": "The compendium anchors embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze (The Fact of Blackness), and Cross's model of Black identity development.",
+ "Self-compassion": "Kristin Neff's construct for relating to one's own suffering the way one would to a friend's, with three components: self-kindness (versus self-judgment), common humanity (versus isolation), and mindfulness (versus over-identification).",
+ "Self-determination": "the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed, chosen and wanted rather than pressured, and that well-being tracks the satisfaction of three basic psychological needs, autonomy, competence, and relatedness.",
+ "Self-concordant goal pursuit over time": "the sequence described in Sheldon and Elliot's self-concordance model: goals that fit a person's developing interests and core values are pursued with more sustained effort, are more likely to be reached, and bring more well-being when they are reached.",
+ "Self-as-doer theory": "Houser-Marko and Sheldon (2006) introduced the self-as-doer as \"a new motivational construct\" to answer why some people persist in goal pursuit while others quickly give up; studies found longitudinal evidence that endorsing doer statements predicts goal attainment.",
+ "Self-transcendent emotions": "are the class of positive emotions a 2016 study sorts by their fit to religious and spiritual life: awe, gratitude, love and peace carry the relation between spirituality and well-being, while amusement and pride, positive as they are, do not.",
  'Rectify the self before others': 'Confucius, Analects 13.6: order in one\u2019s own person comes before order in the world.',
  'Rectify the self, then the family, then the state': 'the Great Learning\u2019s sequence of rectification, moving outward from the self.',
  'Self-determined personality growth': 'A compendium label for personality growth driven by the basic psychological needs; not a term from the underlying literature.',
@@ -199,7 +208,7 @@ def emit(title, kind='concepts'):
             if g.startswith(pre): g = g[len(pre):].lstrip()
         if g.startswith(title) and len(g) > len(title) + 2:
             g = g[len(title):].lstrip(' ,.:')
-    md.append(f'{card(title, e["file"])} \u2014 {g}')
+    md.append(f'{card(title, e["file"])}: {g}')
     md.append('')
 
 for h2, titles in MAP:
