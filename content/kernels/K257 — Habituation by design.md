@@ -31,7 +31,7 @@ The psychological mechanism, from the review of habit research: "habits form as 
 
 ### A guided version
 
-None located; the plan is a written scaffold rather than a guided exercise, and no official recording of it exists.
+No official recording of the kernel itself exists, but two carriers walk it. The [Habituation & Why Exposure Works printable at psychology.com](https://psychology.com/tools/pdf/habituation.pdf) guides the design directly: start with something moderately rather than maximally provoking, stay until the anxiety wave peaks and starts to fall, drop safety behaviours, repeat spaced often rather than once heroically, and compare what happened with what you feared. For the reactivity being habituated, Patricia Rockman's [guided meditation on interrupting habitual reactions at Mindful.org](https://www.mindful.org/a-meditation-for-exploring-your-habitual-reactions/) (audio plus script) has you bring a manageable stressor to mind, name what arises, and stay with the sensations while noting whether they increase, persist, or fade.
 
 ## Operationalises
 
