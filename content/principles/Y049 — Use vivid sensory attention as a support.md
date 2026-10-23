@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 49** — Use vivid sensory attention as a support
 
-Sutra 1.35 reads: "Or [he gains stability when] a sense-activity (pravrtti) arises connected with an object [and] bringing the central-organ into a relation of stability" (trans. Woods, pp. 72-73). The principle calls this "higher sense-experience", a phrase from another translation that I have not reopened. Woods' commentary shows what is meant.
+Sutra 1.35 reads: "Or [he gains stability when] a sense-activity (pravrtti) arises connected with an object [and] bringing the central-organ into a relation of stability" (trans. Woods, pp. 72-73). The principle calls this "higher sense-experience", a phrase from another translation not reopened here. Woods' commentary shows what is meant.
 
 ### What the commentary describes
 

@@ -20,7 +20,7 @@ A Queensland Health guide describing the domain says that "stories, rituals, cer
 
 ### Scope
 
-I could not open the Working Together chapter text, so I cannot confirm the original entry's statements about the Dreaming being "a living reality". Aboriginal and Torres Strait Islander peoples are many, with different traditions, so this entry describes a framework, not one belief. Anyone applying it should follow guidance from the relevant community.
+The Working Together chapter text could not be opened, so the original entry's statements about the Dreaming being "a living reality" cannot be confirmed. Aboriginal and Torres Strait Islander peoples are many, with different traditions, so this entry describes a framework, not one belief. Anyone applying it should follow guidance from the relevant community.
 
 **Plain words**
 In the SEWB framework, connection to spirituality and ancestors is one of seven linked domains of wellbeing. Practice looks different between communities.
