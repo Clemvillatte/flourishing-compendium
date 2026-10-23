@@ -25,6 +25,10 @@ Two questions at day's end beat an hour of vague guilt: what did I actually do t
 
 *For example:* Five minutes before bed with a notebook: what went well, what I'd redo.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the nightly audit from On Anger the page draws on.
+
 ## Sources
 
 - [Seneca, Moral Letters to Lucilius, Letter 83 (Gummere, Loeb Vol. II), Internet Archive full text](https://archive.org/details/ad-lucilium-epistulae-morales) — the daily self-review and its rationale

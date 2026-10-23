@@ -22,6 +22,10 @@ His catalogue of waste: "one man is possessed by an avarice that is insatiable, 
 
 *For example:* Noticing you've spent forty minutes on a stranger's holiday photos and closing the app.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the life-is-short answer the page quotes.
+
 ## Stories
 
 - [[ST209 — The Citizen of the World|209. The Citizen of the World]]

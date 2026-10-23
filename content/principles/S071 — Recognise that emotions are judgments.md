@@ -35,6 +35,10 @@ The pairing of anger with "wronged and revenge is appropriate" follows Seneca cl
 
 *For example:* Imagine you feel a pang of jealousy when a friend gets promoted. The Stoic question is what judgment sits inside it, perhaps that something that was yours has been taken. Then ask whether it was ever yours.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Seneca-on-anger section the page carries.
+
 ## Stories
 
 - [[ST205 — Seneca on Anger|205. Seneca on Anger]]

@@ -26,6 +26,10 @@ A second list in VIII.24 makes the same point with the dead of his own circle, n
 
 *For example:* Walking past a statue nobody can name, and deciding what you'll actually put effort into.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the memento mori teaching (On the Shortness of Life) the page lists.
+
 ## Stories
 
 - [[ST215 — Watanabe Finds the Playground|215. Watanabe Finds the Playground]]

@@ -25,6 +25,10 @@ The hours you have and the way you use them are different questions. Review an o
 
 *For example:* Tracking a week in half-hour blocks and finding that three hours a day vanish into scrolling.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the much-of-life-is-wasted argument (ch. 1) the page opens with.
+
 ## Sources
 
 - [Seneca, On the Shortness of Life (John W. Basore translation, Wikisource)](https://en.wikisource.org/wiki/On_the_shortness_of_life) — chapters 1-2

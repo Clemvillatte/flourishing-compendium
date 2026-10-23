@@ -24,6 +24,10 @@ On the psychology side, George and Park describe meaning in life as having three
 
 *For example:* A team member stays late to help finish a shared deadline, and accepts the lost evening as the cost of belonging to the team.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the sources the page carries beside the meaning research.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations X.6 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.10.ten.html) — MIT Internet Classics Archive, Book Ten opened

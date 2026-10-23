@@ -24,6 +24,10 @@ The stages are not equally voluntary. The first is given; the second is the mind
 
 For example: your pulse jumps at an insult. You notice the thought "I ought to get even", question it, and answer the criticism without returning an insult.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the stages set out in order the page draws from On Anger.
+
 ## Psychology parallels
 
 - **Emotion regulation, the gap between stimulus and response** (Gross, 2015)

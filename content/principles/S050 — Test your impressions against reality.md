@@ -24,6 +24,10 @@ For the psychology parallel, Kahneman and Klein conclude that "subjective experi
 
 *For example:* Thinking the boss is angry, someone waits and notices she spoke to everyone that way this morning, and holds off on the angry reply.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the question-about-the-impression test the page builds on.
+
 ## Sources
 
 - [Epictetus, Enchiridion 1 (trans. E. Carter)](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, page opened

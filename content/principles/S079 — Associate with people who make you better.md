@@ -22,6 +22,10 @@ So be deliberate about your associations: the choice of company is a choice abou
 
 *For example:* Spending less time with the friend who always complains, and more with the one who gets you thinking.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the character-rubs-off warning the page opens with.
+
 ## Psychology parallels
 
 - **[[Social contagion|Social contagion and network effects on well-being]]** (Christakis and Fowler, 2009)

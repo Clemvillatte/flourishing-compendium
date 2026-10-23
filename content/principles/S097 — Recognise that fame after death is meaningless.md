@@ -22,6 +22,10 @@ And even if the memory lasted forever: "suppose that both they that shall rememb
 
 *For example:* Declining to polish a legacy project and spending the time with your grandchildren.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the contempt-for-fame teaching (Letters) the page lists.
+
 ## Psychology parallels
 
 - **[[Extrinsic motivation|Extrinsic motivation and well-being]]** (Kasser and Ryan, 1993)

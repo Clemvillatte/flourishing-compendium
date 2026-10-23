@@ -28,6 +28,10 @@ In Letter 13, Seneca writes of fears in particular: "we suffer more often in ima
 
 For example: dreading a difficult conversation, you prepare the truthful points you want to make; the other person's reaction is not yours to control, the preparation is.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letter 13 fears passage the page quotes.
+
 ## Psychology parallels
 
 - **[[Graded exposure / systematic desensitisation (Wolpe)|Graded exposure therapy]]** (Foa and McLean, 2016)

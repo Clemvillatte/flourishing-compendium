@@ -28,6 +28,10 @@ The review passes over nothing, and what it hands down is a pardon with a correc
 
 For example: after snapping at a colleague, you write down the incident, choose the correction (ask first, then complain), and resume the project the next morning.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the nightly audit described in On Anger, passing the whole day in review.
+
 ## Psychology parallels
 
 - **[[Self-compassion|Self-compassion research]]** (Neff, 2003; MacBeth and Gumley, 2012)

@@ -34,6 +34,10 @@ Choose something you have been postponing. Does it matter enough to begin today?
 *For example:*
 before agreeing to a meeting that bores you, you ask whether this is how you'd spend a day you'd never get back.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the memento mori teaching (On the Shortness of Life) the page lists.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations, George Long translation (Wikisource, Book II)](https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_II) — II.11 and II.14

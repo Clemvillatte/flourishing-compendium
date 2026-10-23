@@ -34,6 +34,10 @@ Seneca stages the same point as a taunt addressed to pain in person:
 
 *For example:* Sitting through a dental procedure with slow breathing rather than tensing against it.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters 24, 67 and 78 citations the page carries.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations (tr. Meric Casaubon), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm): the measure of pain (Book VII.22 in this edition) and the Epicurus line (Book VII.35 in this edition)

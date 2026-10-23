@@ -26,6 +26,10 @@ Seneca's advice is about timing: reject straightway the first incentives to ange
 
 *For example:* Being sad at a friend's departure is fitting. Spiralling for a week over it is the passion.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the anger-as-short-madness characterisation the page opens with.
+
 ## Sources
 
 - [Seneca, Of Anger, Book I (Aubrey Stewart translation, Wikisource)](https://en.wikisource.org/wiki/Of_Anger/Book_I) — I.1, I.8

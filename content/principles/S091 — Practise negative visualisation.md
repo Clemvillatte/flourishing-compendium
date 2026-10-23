@@ -24,6 +24,10 @@ For psychology, Koo, Algoe, Wilson and Gilbert asked people to imagine that a po
 
 *For example:* While a partner is in the next room, someone pictures life without them for a minute, then goes in and listens to them talk.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letter 91 section 8 source (Gummere translation) the page quotes.
+
 ## Sources
 
 - [Seneca, Letter 91 (trans. R. Gummere)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_91) — Wikisource, opened
