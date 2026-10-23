@@ -28,6 +28,10 @@ A plan includes guesses about what you have not met yet. Use those guesses to pr
 **For example**
 Imagine preparing an opening line and three points for a difficult conversation. The other person raises a concern you had not expected. Ask about it before deciding which of your prepared points still matter.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the True Men of old (chapter 6) who laid no plans to attain their ends.
+
 ## Sources
 
 - [Zhuangzi, James Legge translation (1891), METIS English Classics, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 6, the True Men of old (PDF page 28)

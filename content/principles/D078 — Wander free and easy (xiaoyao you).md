@@ -25,6 +25,10 @@ When something seems useless, ask what job you expected it to do. A tree can fai
 
 *For example:* Take a walk with no fitness target and no errand attached. Nothing about the walk needs justifying for it to be worth taking.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the first chapter the principle is named from, xiaoyao you.
+
 ## Sources
 
 - [Zhuangzi, Inner Chapter 1, "Enjoyment in Untroubled Ease", Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Huizi's ailantus-tree dialogue, chapter end

@@ -30,6 +30,10 @@ Before rejecting an offer, identify which part you object to. You may want a dif
 
 *For example:* Imagine agreeing to seven hours of help across a weekend. You ask for four hours on Saturday and three on Sunday instead of the reverse. The total stays fixed; the timing changes.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the monkey-keeper's acorn reallocation the page uses for reframing.
+
 ## Sources
 
 - [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2, monkey keeper

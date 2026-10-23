@@ -32,6 +32,10 @@ The argument is about transmission, not about reading as a waste of time. A craf
 
 *For example:* You can read every swimming manual ever written — the first time the water takes you, you'll find out which knowledge you actually have.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the chapter 13 passage the page cites for learning by doing.
+
 ## Sources
 
 - [Zhuangzi, ch. 13 (tr. Burton Watson), via Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi) — the wheelwright P'ien passage

@@ -28,6 +28,10 @@ The speaker names the crowd's pleasures precisely, then names his own object of 
 
 *For example:* Halfway through law school, someone realizes they're there because it was the family's dream — that's the moment to ask the question.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the first chapter's closing catalogue of scaled beings the page quotes.
+
 ## Sources
 
 - [Zhuangzi, Legge trans., ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Part 1, sections 1-3

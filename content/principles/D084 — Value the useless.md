@@ -28,6 +28,10 @@ The passages concern usefulness exposing trees to destructive treatment. The com
 
 *For example:* Imagine keeping an evening for drawing and declining a suggestion to sell the work.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the ailantus tree dialogue that closes the first chapter: no use, therefore no harm.
+
 ## Sources
 
 - [Zhuangzi, Legge trans., ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Part 1 §7, Part 4 §6 and §9

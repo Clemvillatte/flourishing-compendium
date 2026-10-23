@@ -77,11 +77,21 @@
   "content/principles/D056 — Follow the natural grain.md",
   "content/principles/D057 — Enter flow.md",
   "content/principles/D069 — Don't meet force with force.md",
-  "content/principles/D070 — Let stillness precede mastery.md"
+  "content/principles/D070 — Let stillness precede mastery.md",
+  "content/principles/D071 — Practice undivided attention.md",
+  "content/principles/D072 — Learn by doing, not only by reading.md",
+  "content/principles/D073 — Don't over-plan — act from presence.md",
+  "content/principles/D078 — Wander free and easy (xiaoyao you).md",
+  "content/principles/D079 — Question conventional measures of success.md",
+  "content/principles/D080 — Dissolve rigid right and wrong (qiwu).md",
+  "content/principles/D081 — Recognize the relativity of perspectives.md",
+  "content/principles/D082 — Don't impose your frame on others.md",
+  "content/principles/D083 — Reframe to dissolve conflict.md",
+  "content/principles/D084 — Value the useless.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:16:07+00:00",
+ "updated": "2026-10-23T14:16:22+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it."
 }

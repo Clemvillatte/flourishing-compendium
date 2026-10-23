@@ -27,6 +27,7 @@ You can be busy with a task while repeatedly turning to something else. Read as 
 Suppose you are revising an essay paragraph. Leave an unrelated notification unopened until you have finished that paragraph.
 
 ## Related concepts
+- [[T009 — Zhuangzi]]: the hunchback cicada-catcher's training the page retells for undivided attention.
 
 - [[D048]] — companion principles on undivided attention; D048 names the guard, D071 the act
 

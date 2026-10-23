@@ -24,6 +24,10 @@ The compendium's practical reading takes Huizi's objection as the warning: you a
 
 *For example:* Assuming your quiet colleague is miserable and needs bringing out of their shell — maybe the shell is the happiness.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the debate on the dam over the Hao about knowing the fish's enjoyment.
+
 ## Sources
 
 - [Zhuangzi, ch. 17 "Autumn Floods", Legge translation (METIS English Classics)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — the fish debate over the Hao; quotations verbatim

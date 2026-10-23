@@ -28,6 +28,10 @@ When you judge something as large, successful or obvious, ask what you are compa
 *For example:*
 Suppose everyone who has read your essay shares your training. Ask a reader outside that group which claims need explaining or defending.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the river god at the North Sea (chapter 17) the page draws on for relativity of perspectives.
+
 ## Sources
 
 - [Zhuangzi, James Legge translation (1891), ETH Zurich METIS edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — chapter 17, frog and sea-god dialogue quoted verbatim

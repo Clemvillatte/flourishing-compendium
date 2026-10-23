@@ -27,6 +27,10 @@ Before treating a disagreement as a contest between sense and nonsense, find out
 
 Imagine two colleagues dividing the same hours of work. One wants an earlier shift because of caring responsibilities. Check whether changing the arrangement would meet both people's needs before dismissing the preference as a refusal to do a fair share.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the monkey-keeper's three-and-four (chapter 2) the page retells for qiwu.
+
 ## Sources
 
 - [Zhuangzi, Chapter 2, §6, James Legge translation, NOVA Open Publishing](https://pressbooks.nvcc.edu/eng255/chapter/the-zhuangzi/): the monkey-keeper passage quoted above.
