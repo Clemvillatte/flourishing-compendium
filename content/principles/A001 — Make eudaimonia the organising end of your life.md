@@ -42,6 +42,7 @@ Imagine deciding whether to begin an evening course while caring for a relative.
 - [[Happiness as activity]]: the distinction between possessing and exercising a capacity.
 - [[Psychological well-being]]: a modern research comparison.
 - [[T013 — Seneca]]: the exile consolation behind the page's story (ST194).
+- [[T011 — Socrates]]: the Crito story the page tells, the examined life refusing the easy exit (ST141).
 
 ## Stories
 
