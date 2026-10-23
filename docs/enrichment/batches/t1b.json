@@ -11,12 +11,13 @@
   "Bandura",
   "Daniel Kahneman",
   "Aaron Beck",
-  "Kierkegaard"
+  "Kierkegaard",
+  "Carl Rogers"
  ],
- "in_progress": "Carl Rogers",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:31:24+00:00",
+ "updated": "2026-10-23T05:31:31+00:00",
  "band_done": false
 }
