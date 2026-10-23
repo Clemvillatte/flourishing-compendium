@@ -7,15 +7,30 @@ file: "Radical acceptance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Radical acceptance is Marsha Linehan's term, from DBT, for complete and total acceptance — "from deep within" — of the facts of reality as they are: acknowledging what is true and letting go of the fight with reality ([Linehan, *DBT Skills Training Manual*](https://www.guilford.com/add/linehan7_old/lin-p-4teaching.pdf)). The word *radical* marks the difference from grudging tolerance: it is acceptance of the whole fact — including the facts about oneself and about the past that cannot be edited — not merely of the convenient parts ([Springer review of radical acceptance](https://link.springer.com/article/10.1007/s12144-025-07286-0)).
+Radical acceptance is Marsha Linehan's term, from dialectical behavior therapy (DBT), for fully acknowledging reality as it is, without fighting it. Behavioral Tech, the DBT training institute, quotes her definition: "The fully open experience of what is, just as it is, by unrivaled entering into reality, just as it is, at this moment. Radical Acceptance is the only way out of hell." The same article says she traces the idea to Zen practice and the letting go of attachments ([Behavioral Tech Institute](https://behavioraltech.org/on-radical-acceptance-part-1/)).
 
-The mechanism is the ending of the second suffering: reality's pain is unavoidable, but the war against reality adds a self-inflicted layer — rage at the diagnosis does not treat it, resentment of traffic does not dissolve it. Acceptance is what stops the bleeding of energy into that war, which is why it is a *precondition* for effective change, not an alternative to it ([[K123 — Radical acceptance]] is the compendium's kernel; [[P157 — Accept what cannot be changed while committing to what can]] is the serenity-form statement). The tradition-mates are exactly this page's links: the Stoic acceptance of what nature brings ([[S007 — Accept what happens as the will of providence]]; [[S094 — Accept pain as part of nature]]), the Buddhist suchness ([[B124 — Meet suchness — things as they are]]), and [[Amor fati]] as its affirming extreme.
+### What the skill asks
 
-The distinction to hold: acceptance is not approval, and not resignation. One accepts the facts and *then* chooses the response — the refusal to accept reality is precisely what removes the freedom to respond to it.
+A 2006 review of DBT describes it as something that "essentially involves accepting the experience of the present moment for what it is, without struggling to change it or willfully resisting it" ([Psychiatry, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963469/)). It sits in DBT's distress tolerance module, where patients learn that pain is an inevitable part of life and that unwillingness to accept this fact "often leads to greater suffering" ([PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/)). The mechanism is the one the compendium describes as ending the second suffering: pain is given, and the war against the facts adds a layer of its own. See [[K123 — Radical acceptance]], the compendium's kernel.
 
-An example at its smallest: after bad news, one sentence spoken aloud — "this is what happened" — with the plan for the next action written underneath it.
+### Acceptance is not approval
 
-Its siblings across traditions are [[Equanimity]] (the calm) and [[Nonattachment]] (the letting go).
+The same review states the limit clearly: "accepting their current situation does not mean that they must approve of their current situation" ([PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/)). In DBT, acceptance is also paired with change. A review in The Behavior Analyst frames the clinical decision as a question: "Can the problematic stimulus be effectively removed or avoided without substantial harm?" If not, promoting acceptance is warranted; if so, "acceptance is contraindicated, and first-order change strategies can be implemented" ([The Behavior Analyst, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731500/pdf/behavan00010-0095.pdf)). That is the logic of [[P157 — Accept what cannot be changed while committing to what can]].
+
+### Neighbours
+
+Radical acceptance has Stoic, Buddhist and Nietzschean relatives, listed below, and [[Amor fati]] is its affirming extreme. [[Equanimity]] and [[Nonattachment]] are the contemplative forms.
+
+### A small case
+
+A delayed flight: say the fact once ("I will not make the connection"), feel the disappointment, then ask what the next effective step is. (Illustrative scenario, not a reported case.)
+
+### In the compendium
+
+- [[S007 — Accept what happens as the will of providence]] and [[S094 — Accept pain as part of nature]] — the Stoic relatives
+- [[B124 — Meet suchness — things as they are]] — the Buddhist relative
+- [[S023 — Do not fear pain]] — the Stoic relative on pain
+
 ## Other formulations in this library
 
 - fully experiencing what is present (Linehan, 1993)
@@ -23,6 +38,10 @@ Its siblings across traditions are [[Equanimity]] (the calm) and [[Nonattachment
 
 ## Sources
 
+- [Behavioral Tech Institute, On Radical Acceptance (Part 1)](https://behavioraltech.org/on-radical-acceptance-part-1/) — Linehan's definition and its Zen source
+- [Dialectical Behavior Therapy: Current Indications and Unique Elements, Psychiatry (2006), PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963469/) — the description of radical acceptance
+- [Dialectical behavior therapy as treatment for borderline personality disorder, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/) — acceptance as not approval
+- [The Behavior Analyst, review of acceptance, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731500/pdf/behavan00010-0095.pdf) — when acceptance versus change applies
 - Linehan, 1993
 
 ## Cited in parallels
