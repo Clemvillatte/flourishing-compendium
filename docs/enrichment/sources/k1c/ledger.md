@@ -135,3 +135,7 @@ The advisor's round-3 verdict was again "not QC-clear"; the following repairs we
 ## Item 23 (worker-pplx-k1c-65228089, ~T+41)
 
 - K263 Post-action phronesis review (done; flag: guided-version search pending) — Aristotle NE VI.5 (Ross trans., MIT Classics page, prompt-extracted — disclosed; phronesis definition and particulars passage verbatim) + Keiser & Arthur 2021 AAR meta-analysis (PMID 32852990, eutils abstract in full, d = 0.79 finding). Prompt extraction disclosed per the house rule.
+
+## Item 24 (worker-pplx-k1c-65228089, ~T+42)
+
+- K336 Contamination sequence audit (done; flag: guided-version search pending) — Adler, Turner, Brookshier, Monahan, Walder-Biesanz, Harmeling, Albaugh, McAdams & Oltmanns 2015, JPSP 108(3):476-496 (PMID 25751718, eutils abstract in full, author list verified via esummary): the contamination/redemption/agency themes and 4-year mental-health trajectories, quoted. Associations only; the page says so.
