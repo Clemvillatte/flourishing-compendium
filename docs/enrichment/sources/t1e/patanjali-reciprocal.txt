@@ -1,0 +1,571 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/BI029 \u2014 Learn that yoga and tai chi combine movement, breath, and meditation.md",
+      "id": "BI029",
+      "title": "Learn that yoga and tai chi combine movement, breath, and meditation",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y006 \u2014 Understand dispassion as release, not numbness.md",
+      "id": "Y006",
+      "title": "Understand dispassion as release, not numbness",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y007 \u2014 Grade your effort honestly.md",
+      "id": "Y007",
+      "title": "Grade your effort honestly",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y009 \u2014 Treat identity as a working hypothesis.md",
+      "id": "Y009",
+      "title": "Treat identity as a working hypothesis",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y010 \u2014 Locate the problem in misidentification, not in weakness.md",
+      "id": "Y010",
+      "title": "Locate the problem in misidentification, not in weakness",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y011 \u2014 Prevent suffering before it arrives.md",
+      "id": "Y011",
+      "title": "Prevent suffering before it arrives",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y012 \u2014 Read the fragility of chasing as signal.md",
+      "id": "Y012",
+      "title": "Read the fragility of chasing as signal",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y013 \u2014 Work with the field and the witness.md",
+      "id": "Y013",
+      "title": "Work with the field and the witness",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y014 \u2014 Hold the metaphysics lightly.md",
+      "id": "Y014",
+      "title": "Hold the metaphysics lightly",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y015 \u2014 Classify the mind's movements into five types.md",
+      "id": "Y015",
+      "title": "Classify the mind's movements into five types",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y016 \u2014 Verify before you trust.md",
+      "id": "Y016",
+      "title": "Verify before you trust",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y017 \u2014 Catch distortion early.md",
+      "id": "Y017",
+      "title": "Catch distortion early",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y018 \u2014 Label fiction as fiction.md",
+      "id": "Y018",
+      "title": "Label fiction as fiction",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y019 \u2014 Treat sleep as practice, not absence.md",
+      "id": "Y019",
+      "title": "Treat sleep as practice, not absence",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y020 \u2014 Use memory deliberately.md",
+      "id": "Y020",
+      "title": "Use memory deliberately",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y021 \u2014 Diagnose the mind's state before choosing a practice.md",
+      "id": "Y021",
+      "title": "Diagnose the mind's state before choosing a practice",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y023 \u2014 Build the upward spiral on purpose.md",
+      "id": "Y023",
+      "title": "Build the upward spiral on purpose",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y024 \u2014 Expect latent material to surface when practice deepens.md",
+      "id": "Y024",
+      "title": "Expect latent material to surface when practice deepens",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y025 \u2014 Treat restlessness as weather, not as enemy.md",
+      "id": "Y025",
+      "title": "Treat restlessness as weather, not as enemy",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y028 \u2014 Ground everything in non-harm.md",
+      "id": "Y028",
+      "title": "Ground everything in non-harm",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y030 \u2014 Take only what is given.md",
+      "id": "Y030",
+      "title": "Take only what is given",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y031 \u2014 Manage energy and appetite deliberately.md",
+      "id": "Y031",
+      "title": "Manage energy and appetite deliberately",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y032 \u2014 Reduce accumulation.md",
+      "id": "Y032",
+      "title": "Reduce accumulation",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y033 \u2014 Apply the restraints especially when they are tested.md",
+      "id": "Y033",
+      "title": "Apply the restraints especially when they are tested",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y035 \u2014 Practice purity inside and out.md",
+      "id": "Y035",
+      "title": "Practice purity inside and out",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y037 \u2014 Choose deliberate difficulty in the right dose.md",
+      "id": "Y037",
+      "title": "Choose deliberate difficulty in the right dose",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y038 \u2014 Make self-study a discipline.md",
+      "id": "Y038",
+      "title": "Make self-study a discipline",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y041 \u2014 Keep the restraints unconditional.md",
+      "id": "Y041",
+      "title": "Keep the restraints unconditional",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y043 \u2014 Let ethics stabilize the mind.md",
+      "id": "Y043",
+      "title": "Let ethics stabilize the mind",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y044 \u2014 Establish a steady, comfortable seat.md",
+      "id": "Y044",
+      "title": "Establish a steady, comfortable seat",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y045 \u2014 Relax effort into support.md",
+      "id": "Y045",
+      "title": "Relax effort into support",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y047 \u2014 Regulate the breath deliberately.md",
+      "id": "Y047",
+      "title": "Regulate the breath deliberately",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y048 \u2014 Use the breath to steady attention.md",
+      "id": "Y048",
+      "title": "Use the breath to steady attention",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y049 \u2014 Use vivid sensory attention as a support.md",
+      "id": "Y049",
+      "title": "Use vivid sensory attention as a support",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y050 \u2014 Cultivate an inner luminous anchor.md",
+      "id": "Y050",
+      "title": "Cultivate an inner luminous anchor",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y051 \u2014 Contemplate a settled model.md",
+      "id": "Y051",
+      "title": "Contemplate a settled model",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y052 \u2014 Learn from dream and sleep.md",
+      "id": "Y052",
+      "title": "Learn from dream and sleep",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y053 \u2014 Choose your own contemplative object.md",
+      "id": "Y053",
+      "title": "Choose your own contemplative object",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y054 \u2014 Withdraw the senses on schedule.md",
+      "id": "Y054",
+      "title": "Withdraw the senses on schedule",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y059 \u2014 Know the obstacles by name.md",
+      "id": "Y059",
+      "title": "Know the obstacles by name",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y060 \u2014 Read the symptoms that ride with obstacles.md",
+      "id": "Y060",
+      "title": "Read the symptoms that ride with obstacles",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y061 \u2014 Take obstacles as information, not verdicts.md",
+      "id": "Y061",
+      "title": "Take obstacles as information, not verdicts",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y063 \u2014 Hold one practice to steady the mind.md",
+      "id": "Y063",
+      "title": "Hold one practice to steady the mind",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y064 \u2014 Begin with faith, energy, and memory.md",
+      "id": "Y064",
+      "title": "Begin with faith, energy, and memory",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y066 \u2014 Prepare the practice environment.md",
+      "id": "Y066",
+      "title": "Prepare the practice environment",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y068 \u2014 Expect relapse and plan the return.md",
+      "id": "Y068",
+      "title": "Expect relapse and plan the return",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y070 \u2014 Ground practice in the three conditions.md",
+      "id": "Y070",
+      "title": "Ground practice in the three conditions",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y071 \u2014 Balance solitude and company.md",
+      "id": "Y071",
+      "title": "Balance solitude and company",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y072 \u2014 Walk the eight limbs as a curriculum.md",
+      "id": "Y072",
+      "title": "Walk the eight limbs as a curriculum",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y073 \u2014 Bind attention to one place.md",
+      "id": "Y073",
+      "title": "Bind attention to one place",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y074 \u2014 Let absorption come from continuity.md",
+      "id": "Y074",
+      "title": "Let absorption come from continuity",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y075 \u2014 Let the object fill the field.md",
+      "id": "Y075",
+      "title": "Let the object fill the field",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y076 \u2014 Combine the three into one skill.md",
+      "id": "Y076",
+      "title": "Combine the three into one skill",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y077 \u2014 Climb the subtlety ladder.md",
+      "id": "Y077",
+      "title": "Climb the subtlety ladder",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y078 \u2014 Distinguish settling with and without seed.md",
+      "id": "Y078",
+      "title": "Distinguish settling with and without seed",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y079 \u2014 Use AUM as a portable anchor.md",
+      "id": "Y079",
+      "title": "Use AUM as a portable anchor",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y081 \u2014 Hold powers and peak experiences lightly.md",
+      "id": "Y081",
+      "title": "Hold powers and peak experiences lightly",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y082 \u2014 Apply contemplation to master any subject.md",
+      "id": "Y082",
+      "title": "Apply contemplation to master any subject",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y084 \u2014 Expect stages, not leaps.md",
+      "id": "Y084",
+      "title": "Expect stages, not leaps",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y087 \u2014 Assimilate until it changes perception.md",
+      "id": "Y087",
+      "title": "Assimilate until it changes perception",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y114 \u2014 Match your stance to the other's condition.md",
+      "id": "Y114",
+      "title": "Match your stance to the other's condition",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y125 \u2014 Use the limbs as a diagnostic grid.md",
+      "id": "Y125",
+      "title": "Use the limbs as a diagnostic grid",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y126 \u2014 Sequence by need, not prestige.md",
+      "id": "Y126",
+      "title": "Sequence by need, not prestige",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y130 \u2014 Rebuild from the basics when the advanced stalls.md",
+      "id": "Y130",
+      "title": "Rebuild from the basics when the advanced stalls",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y131 \u2014 Practice the same principle at every scale.md",
+      "id": "Y131",
+      "title": "Practice the same principle at every scale",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y132 \u2014 End in rest, not striving.md",
+      "id": "Y132",
+      "title": "End in rest, not striving",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Ahimsa.md",
+      "id": "Ahimsa",
+      "title": "Ahimsa",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Attentional control training and the role of repeated redirection.md",
+      "id": "Attentional control training and the role of repeated redirection",
+      "title": "Attentional control training and the role of repeated redirection",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Chitta-vritti.md",
+      "id": "Chitta-vritti",
+      "title": "Chitta-vritti",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Early intervention research.md",
+      "id": "Early intervention research",
+      "title": "Early intervention research",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Ethics as foundation.md",
+      "id": "Ethics as foundation",
+      "title": "Ethics as foundation",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/One koan.md",
+      "id": "One koan",
+      "title": "One koan",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Pratyahara.md",
+      "id": "Pratyahara",
+      "title": "Pratyahara",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Samadhi.md",
+      "id": "Samadhi",
+      "title": "Samadhi",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Santosha.md",
+      "id": "Santosha",
+      "title": "Santosha",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Skepticism about the obvious.md",
+      "id": "Skepticism about the obvious",
+      "title": "Skepticism about the obvious",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Taxonomy of mental motions.md",
+      "id": "Taxonomy of mental motions",
+      "title": "Taxonomy of mental motions",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The five pillars of practice.md",
+      "id": "The five pillars of practice",
+      "title": "The five pillars of practice",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The seer at rest in its own nature.md",
+      "id": "The seer at rest in its own nature",
+      "title": "The seer at rest in its own nature",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Unresolved-goal interference.md",
+      "id": "Unresolved-goal interference",
+      "title": "Unresolved-goal interference",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Yoga \u2014 union of body, breath, and mind.md",
+      "id": "Yoga: union of body, breath, and mind",
+      "title": "Yoga: union of body, breath, and mind",
+      "thinker": "T041",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
