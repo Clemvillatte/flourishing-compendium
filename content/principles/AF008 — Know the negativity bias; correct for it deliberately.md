@@ -42,3 +42,7 @@ For example: after a review with nine strengths and one critique, write down all
 ## Practice
 
 - When something goes wrong, deliberately note 2–3 things that went right in the same period. This is not toxic positivity; it is a calibration exercise.
+
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters' gratitude counterweight, the page's Stoic reply to the bias
