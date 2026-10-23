@@ -13,6 +13,10 @@ The Mindful Self-Compassion (MSC) program is an 8-week workshop designed to trai
 
 > "The aim of these two studies was to evaluate the effectiveness of the Mindful Self-Compassion (MSC) program, an 8-week workshop designed to train people to be more self-compassionate." (Neff & Germer, 2013, Journal of Clinical Psychology 69(1), 28–44, [abstract](https://pubmed.ncbi.nlm.nih.gov/23070875/))
 
+### The evidence
+
+The pilot (N = 21) and the randomized controlled trial (treatment group N = 25, waitlist control N = 27) measured change in self-compassion, mindfulness and wellbeing; the trial found the treatment group improved more than the waitlist control, and gains were maintained at 6-month and 1-year follow-ups. The authors' conclusion is cautious: the program "appears to be effective at enhancing self-compassion, mindfulness, and wellbeing" (Neff & Germer, 2013, [abstract](https://pubmed.ncbi.nlm.nih.gov/23070875/)). The participants were community adults, mostly women in middle age; the studies do not speak to how the program fares in clinical populations.
+
 ## Related concepts
 
 - [[Compassion-focused therapy]] — a sibling compassion-training approach
