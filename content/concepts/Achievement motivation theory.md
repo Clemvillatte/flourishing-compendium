@@ -15,6 +15,10 @@ Achievement motivation theory is the McClelland–Atkinson account of achievemen
 
 The two motives do not simply add up. When fear of failure outweighs the achievement motive, the paper predicts, a person avoids the middle of the difficulty range, preferring either very easy and safe undertakings or extremely difficult and speculative undertakings; when the achievement motive is stronger, aspiration settles where risk is moderate. The research tradition measured these motives with thematic apperception (thoughts after a story cue) and found moderate-risk preferences and entrepreneurship among its correlates.
 
+### What it is not
+
+The theory is not a verdict on a person's worth or ability. Atkinson's own summary says that "A theoretical model is presented", so the paper offers a model of how two motives combine in evaluated situations, and the risk-preference pattern is a prediction of that model.
+
 ### In the compendium
 
 - [[MO019 — Learn to set approach goals, not avoidance goals]] — Elliot and McGregor's valence distinction: competence construed in terms of success or of failure.
