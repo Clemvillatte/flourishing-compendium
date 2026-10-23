@@ -34,9 +34,9 @@ The nearest research is the meta-analytic review of social relationships and mor
 
 > "Across 148 studies (308,849 participants), the random effects weighted average effect size was OR = 1.50 (95% CI 1.42 to 1.59), indicating a 50% increased likelihood of survival for participants with stronger social relationships." — [Holt-Lunstad, Smith & Layton, 2010, PLoS Medicine 7(7), Abstract](https://pubmed.ncbi.nlm.nih.gov/20668659/)
 
-The same abstract reports that "the association was strongest for complex measures of social integration (OR = 1.91; 95% CI 1.63 to 2.23)" and lowest for a binary living-alone indicator (same abstract). Complex measures of social integration carried the strongest association.
+The abstract also reports that "the association was strongest for complex measures of social integration (OR = 1.91; 95% CI 1.63 to 2.23)" and lowest for a binary living-alone indicator ([Holt-Lunstad et al., 2010, Abstract](https://pubmed.ncbi.nlm.nih.gov/20668659/)).
 
-What this evidence does not test: the cited research pooled observational studies of social relationships and mortality; it did not evaluate a weekly belonging practice, and it does not establish that perceived belonging rather than quantity of contact is the operative ingredient ([Holt-Lunstad et al., 2010, Abstract](https://pubmed.ncbi.nlm.nih.gov/20668659/)).
+What this evidence does not test: the cited research pooled studies of social relationships and mortality; it does not establish the effectiveness of this editorial protocol, and it does not establish that perceived belonging rather than quantity of contact is the operative ingredient ([Holt-Lunstad et al., 2010, Abstract](https://pubmed.ncbi.nlm.nih.gov/20668659/)).
 
 ### A guided version
 

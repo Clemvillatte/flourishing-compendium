@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K294** — Shared meal practice
 
-Share a meal with someone at least once a week, with no screens and no agenda. The Epicurean grounding is the plainness of the fare: once want is removed, bread and water give the highest pleasure, so the value of the meal is not on the plate ([Epicurus, Letter to Menoeceus, Hicks translation](https://en.wikisource.org/wiki/Letter_to_Menoeceus)). Reach for it when eating has become solitary logistics.
+Share a meal with someone at least once a week, with no screens and no agenda. The Epicurean grounding is the plainness of the fare: once want is removed, plain fare gives as much pleasure as a costly diet ([Epicurus, Letter to Menoeceus, Hicks translation](https://en.wikisource.org/wiki/Letter_to_Menoeceus)). Reach for it when eating has become solitary logistics.
 
 ### What it rests on
 
@@ -18,7 +18,7 @@ Epicurus's line, from the Letter to Menoeceus:
 
 > "Plain fare gives as much pleasure as a costly diet, when once the pain of want has been removed, while bread and water confer the highest possible pleasure when they are brought to hungry lips." — [Epicurus, Letter to Menoeceus, Hicks translation (Wikisource)](https://en.wikisource.org/wiki/Letter_to_Menoeceus)
 
-The weekly frequency and the no-screens rule are the compendium's editorial design; the plainness is Epicurus's.
+The weekly frequency and the no-screens rule are the compendium's editorial design; Epicurus's observation that plain fare can be pleasurable offers a reflection on keeping the meal simple ([Letter to Menoeceus, Hicks translation](https://en.wikisource.org/wiki/Letter_to_Menoeceus)).
 
 ### Protocol
 
@@ -34,7 +34,7 @@ The nearest research is a meta-analysis of shared family mealtimes:
 
 > "The frequency of shared family meals is significantly related to nutritional health in children and adolescents. Children and adolescents who share family meals 3 or more times per week are more likely to be in a normal weight range and have healthier dietary and eating patterns than those who share fewer than 3 family meals together." — [Hammons & Fiese, 2011, Pediatrics 127(6), Abstract](https://pubmed.ncbi.nlm.nih.gov/21536618/)
 
-The meta-analysis covered 17 studies and 182,836 children and adolescents, and its outcomes were nutritional (same abstract).
+The meta-analysis covered 17 studies and 182,836 children and adolescents, and its outcomes were nutritional ([Hammons & Fiese, 2011, Abstract](https://pubmed.ncbi.nlm.nih.gov/21536618/)).
 
 What this evidence does not test: the cited research examined nutritional health in children and adolescents; it did not test shared meals between adults, did not measure connection as a mechanism, and a weekly practice of screen-free meals is not the family-meal frequency it pooled ([Hammons & Fiese, 2011, Abstract](https://pubmed.ncbi.nlm.nih.gov/21536618/)).
 

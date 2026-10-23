@@ -34,9 +34,9 @@ The motivation moderation, from four studies of autonomous versus controlled hel
 
 > "Findings support the idea that autonomous motivation for helping yields benefits for both helper and recipient through greater need satisfaction." — [Weinstein & Ryan, 2010, Journal of Personality and Social Psychology 98(2), Abstract](https://pubmed.ncbi.nlm.nih.gov/20085397/)
 
-The four studies used a diary method, an experimental design with choice manipulation, a dyadic task, and a motivation manipulation (same abstract), so the finding rests on both daily-report and experimental designs.
+The four studies used a diary method, an experimental design with choice manipulation, a dyadic task, and a motivation manipulation ([Weinstein & Ryan, 2010, Abstract](https://pubmed.ncbi.nlm.nih.gov/20085397/)), so the finding rests on both daily-report and experimental designs.
 
-What this evidence does not test: the cited research studied autonomous versus controlled motivation for helping; it did not evaluate weekly unpaid community contributions, and litter-picking and neighbourly help were not its tasks ([Weinstein & Ryan, 2010, Abstract](https://pubmed.ncbi.nlm.nih.gov/20085397/)).
+What this evidence does not test: the cited research studied autonomous versus controlled motivation for helping; the reported motivation comparisons do not establish the effectiveness of this editorial protocol ([Weinstein & Ryan, 2010, Abstract](https://pubmed.ncbi.nlm.nih.gov/20085397/)).
 
 ### A guided version
 

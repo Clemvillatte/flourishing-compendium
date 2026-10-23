@@ -33,11 +33,11 @@ The tracking form is editorial; the repair is the point.
 
 The nearest research is the apology-versus-denial literature on trust repair:
 
-> "Results reveal that trust was repaired more successfully when mistrusted parties (a) apologized for violations concerning matters of competence but denied culpability for violations concerning matters of integrity, and (b) had apologized for violations when there was subsequent evidence of guilt but had denied culpability for violations when there was subsequent evidence of innocence." — [Kim, Ferrin, Cooper & Dirks, 2004, Journal of Personality and Social Psychology 87(2), Abstract](https://pubmed.ncbi.nlm.nih.gov/14769123/)
+> "Results reveal that trust was repaired more successfully when mistrusted parties (a) apologized for violations concerning matters of competence but denied culpability for violations concerning matters of integrity, and (b) had apologized for violations when there was subsequent evidence of guilt but had denied culpability for violations when there was subsequent evidence of innocence." — [Kim, Ferrin, Cooper & Dirks, 2004, Journal of Applied Psychology 89(1), Abstract](https://pubmed.ncbi.nlm.nih.gov/14769123/)
 
-The finding is type-dependent: apology repaired trust better for competence violations, denial for integrity violations, across two studies with mediating trusting beliefs (same abstract).
+The finding is type-dependent: apology repaired trust better for competence violations, denial for integrity violations, across two studies with mediating trusting beliefs ([Kim et al., 2004, Abstract](https://pubmed.ncbi.nlm.nih.gov/14769123/)).
 
-What this evidence does not test: the cited research compared apology and denial responses in two experimental studies; it did not evaluate a self-tracking practice, did not test changed behaviour over time, and its apology was not always the more effective response ([Kim et al., 2004, Abstract](https://pubmed.ncbi.nlm.nih.gov/14769123/)).
+What this evidence does not test: the cited research compared apology and denial responses in two studies; it did not evaluate a self-tracking practice, and its apology was not always the more effective response ([Kim et al., 2004, Abstract](https://pubmed.ncbi.nlm.nih.gov/14769123/)).
 
 ### A guided version
 
@@ -81,4 +81,4 @@ Not applicable: the practice is a tracked commitment, not a recording.
 ## Sources
 
 - [Confucius, Analects 1:4, A. Charles Muller translation](http://www.acmuller.net/con-dao/analects.html) — Ceng Zi's daily self-examination on trustworthiness.
-- [Kim, P. H., Ferrin, D. L., Cooper, C. D., & Dirks, K. T. (2004). Removing the shadow of suspicion: The effects of apology versus denial for repairing competence- versus integrity-based trust violations. Journal of Personality and Social Psychology, 87(2)](https://pubmed.ncbi.nlm.nih.gov/14769123/) — the type-dependent apology and denial findings, Abstract.
+- [Kim, P. H., Ferrin, D. L., Cooper, C. D., & Dirks, K. T. (2004). Removing the shadow of suspicion: The effects of apology versus denial for repairing competence- versus integrity-based trust violations. Journal of Applied Psychology, 89(1), 104-118](https://pubmed.ncbi.nlm.nih.gov/14769123/) — the type-dependent apology and denial findings, Abstract.

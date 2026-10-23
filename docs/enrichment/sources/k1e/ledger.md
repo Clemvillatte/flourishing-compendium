@@ -220,3 +220,14 @@
 - Seed repairs: the seed's "Research on intergroup contact shows that contact under conditions of equal status, common goals, and cooperation reduces prejudice" narrowed to the opened abstract's actual finding (contact typically reduces prejudice, 713 samples, 515 studies, across targets and settings); the Allport conditions explicitly stated as not established by this abstract; "genuine connection requires humility about one's own perspective" reframed as the relational principle in the opening, editorial.
 - The three rules carried from the seed as editorial design, labelled editorial. Guided-version exemption: engagement with others, no recording required (self-directed; K203 nap precedent). The Mbiti PDF carrier link on the Ubuntu concept page failed to download this session; the Tutu excerpt carrier used instead.
 - All 32 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
+
+## QC round, items 17-21 (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Milestone advisor QC returned FAIL-with-repairs on K294, K295, K296, K297, K298. All bounded repairs applied with asserted-match edits and read back:
+- K297: journal corrected from JPSP 87(2) to Journal of Applied Psychology 89(1), 104-118 (verified against the PubMed record); "two studies" wording restored (designs not established by the record); the limits claim narrowed (dropped "did not test changed behaviour over time").
+- K294: the unsupported inference ("so the value of the meal is not on the plate") removed; the Epicurus gloss replaced with the bounded reflection on keeping the meal simple, with its own citation; the 17-study/182,836-participant sentence now carries its own link.
+- K295: "observational" removed from the limits (designs not confirmed from the abstract); the redundant "Complex measures..." summary sentence deleted; the comparison sentence now carries its own link; limits reframed to "does not establish the effectiveness of this editorial protocol".
+- K296: "litter-picking and neighbourly help were not its tasks" removed (the abstract does not establish that absence); limits reframed; the four-designs sentence now carries its own link.
+- K298: the full Pettigrew & Tropp abstract read — it DOES address the Allport conditions ("contact under these conditions typically leads to even greater reduction in prejudice", quoted verbatim with its own link); the limits sentence rewritten accordingly (conditions associated with greater reduction, not with the effectiveness of a questions-first practice); the targets/settings/rigour sentence now carries its own link.
+- Across all five: "same abstract" phrasing eliminated (each source-derived sentence now carries its own inline link); "The same abstract reports" rephrased to "The abstract also reports".
+- All five pages revalidated (5 checked, 0 failed); customer-facing sweep clean.

@@ -34,9 +34,9 @@ The nearest research is the meta-analytic test of intergroup contact theory:
 
 > "With 713 independent samples from 515 studies, the meta-analysis finds that intergroup contact typically reduces intergroup prejudice." — [Pettigrew & Tropp, 2006, Journal of Personality and Social Psychology 90(5), Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)
 
-The same abstract reports the finding held across a broad range of outgroup targets and contact settings, and that the more rigorous studies yielded larger mean effects (same abstract).
+The abstract also reports the finding held across a broad range of outgroup targets and contact settings, and that the more rigorous studies yielded larger mean effects ([Pettigrew & Tropp, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)). It also reports: "A global indicator of Allport's optimal contact conditions demonstrates that contact under these conditions typically leads to even greater reduction in prejudice" ([Pettigrew & Tropp, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)).
 
-What this evidence does not test: the cited research pooled studies of intergroup contact; it did not evaluate a questions-first practice, and the classic facilitating conditions of equal status, common goals and cooperation are not established by this abstract ([Pettigrew & Tropp, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)).
+What this evidence does not test: the cited research pooled studies of intergroup contact; it did not evaluate a questions-first practice, and contact under the classic facilitating conditions of equal status, common goals and cooperation was associated with even greater reduction in prejudice, not with the effectiveness of a questions-first practice ([Pettigrew & Tropp, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)).
 
 ### A guided version
 
