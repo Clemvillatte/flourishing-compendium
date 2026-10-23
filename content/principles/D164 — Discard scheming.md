@@ -12,18 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 164** — Discard scheming
 
-Chapter 19 of the Daodejing lists three renunciations, the first of which it says would be better for the people a hundredfold: renouncing sageness and discarding wisdom; renouncing benevolence and discarding righteousness, after which the people would again become filial and kindly; and, the clause this principle takes as its core, renouncing artful contrivances and discarding scheming for gain, which the chapter says would leave no thieves nor robbers. Chapter 57 states its own claims: the more acts of crafty dexterity that men possess, the more do strange contrivances appear; and the more display there is of legislation, the more thieves and robbers there are.
+Chapter 19 of the Daodejing links renouncing artful contrivances and scheming for gain with the disappearance of thieves and robbers. Chapter 57 links crafty dexterity to strange contrivances, and greater display of legislation to more thieves and robbers. Applying these claims about social order to a personal negotiation requires an additional interpretation.
 
 (DDJ 19, 57.)
 
 > "If we could renounce our artful contrivances and discard our (scheming for) gain, there would be no thieves nor robbers." (DDJ 19, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapters address rulers and the naming of virtues. The compendium's personal reading is the third clause's shape: scheming is listed as a thing a person can renounce, and the chapter's conditional is that its renunciation would leave no thieves nor robbers.
+### Plain words
 
-**Plain words**
-A scheme is a plan that needs other people not to see it whole. The Daodejing treats scheming as something a ruler, or anyone, can simply drop, and it prices the dropping: no scheming for gain, nothing left for thieves and robbers to feed on. The exercise is an audit of one running scheme: name it, then list what it has required so far.
+For a personal application, examine a request you are deliberately making difficult to understand. Write down what you want and what you are asking the other person to give up. Could you put both in front of them and let them decide?
 
-*For example:* name one scheme you are running. List what it has required so far: favours called in, information kept back, people managed. Then ask what the decade pays for the quarter the scheme wins.
+### For example
+
+Try an overt-behaviour exercise: draft two versions of a shift-swap request, your usual version and one that gives your reason and offers a specific return shift. Compare which gives your colleague a clearer choice. Use that form for your next request.
+
+## Related concepts
+
+- [[Simplicity as practice]]: the same chapter's recommendation to relinquish scheming for gain.
 
 ## Sources
 
