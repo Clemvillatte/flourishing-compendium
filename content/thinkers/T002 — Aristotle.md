@@ -183,3 +183,6 @@ Principles are kept to the Aristotelian tradition — his own book of principles
 
 
 ## Sources
+
+- [Shields, C., "Aristotle," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/aristotle/) — biography: Stagira, the Academy years, Alexander's tutorship, the Lyceum, Chalcis.
+- [Aristotle, The Nicomachean Ethics, translated by D. P. Chase, Project Gutenberg ebook 8438](https://www.gutenberg.org/files/8438/8438-0.txt) — the source of all quotations above; the Chase translation, with an introduction by J. A. Smith.
