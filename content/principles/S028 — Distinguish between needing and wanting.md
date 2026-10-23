@@ -22,6 +22,10 @@ Kasser and Ryan (1993) found that when financial success was relatively central 
 
 *For example:* You look at a full wardrobe and notice you wear a fifth of it.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the needing-versus-wanting teaching cited alongside Seneca and Epicurus.
+
 ## Sources
 
 - [Epictetus, Enchiridion (Carter), Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html)

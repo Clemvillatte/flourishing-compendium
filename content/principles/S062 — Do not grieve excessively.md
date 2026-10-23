@@ -22,6 +22,10 @@ On "excessive": prolonged grief disorder requires grief lasting beyond 6 months 
 
 *For example:* After a parent's death, you mourn fully and also call the funeral home the next morning.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the second-hand citation among the grief sources the page leans on.
+
 ## Sources
 
 - [Seneca, Letter 63 (Gummere), Standard Ebooks](https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere/text/letter-63)

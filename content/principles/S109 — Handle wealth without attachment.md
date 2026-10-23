@@ -24,6 +24,10 @@ The compendium applies the passage to wealth: money is one of the places Marcus 
 
 *For example:* someone with savings picks a smaller flat than the bank would finance, and gives a fixed share of income away each year.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
+
 ## Sources
 
 - [Meditations VIII.1, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — the single locator the body uses

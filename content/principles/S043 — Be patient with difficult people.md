@@ -28,6 +28,10 @@ The difficult person, on this view, is a fellow part of a body that works togeth
 
 For example: a manager delivers criticism abrasively. The team member asks for a concrete example, then answers the criticism without trading insults.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the non-contention teaching (Daodejing 8) the page lists.
+
 ## Psychology parallels
 
 - **[[Compassion|Compassion research]]** (Goetz et al., 2010)

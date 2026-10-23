@@ -28,6 +28,10 @@ Cry, remember, say the name. What Seneca objects to is turning mourning into a p
 **For example**
 Each year on the anniversary, spend ten minutes telling someone a story about the person that you enjoy remembering, then carry on with the day.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the return-to-the-root teaching (Daodejing 16) the page lists.
+
 ## Sources
 
 - [Seneca, Letter 63 (Gummere), Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_63)

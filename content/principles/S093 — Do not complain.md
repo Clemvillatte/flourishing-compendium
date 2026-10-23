@@ -24,6 +24,10 @@ On the psychology side, Gross and John found in five studies that habitual reapp
 
 *For example:* Stuck in a slow queue, someone answers messages on their phone instead of sighing.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the wu wei non-forcing parallel (Daodejing 37) the page lists.
+
 ## Sources
 
 - [Epictetus, Enchiridion 8 (trans. E. Carter)](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, opened

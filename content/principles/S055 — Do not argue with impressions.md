@@ -24,6 +24,10 @@ A modern parallel is the "urge surfing" technique. In a randomised study of 123 
 
 *For example:* An anxious thought arrives during a meeting. The person tells it to wait, notes what it claims, and carries on with the agenda.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the second-hand citation among the Stoic sources the page leans on.
+
 ## Sources
 
 - [Epictetus, Discourses (Long selection), Project Gutenberg #10661](https://www.gutenberg.org/cache/epub/10661/pg10661.txt) — "How we should struggle against appearances," opened

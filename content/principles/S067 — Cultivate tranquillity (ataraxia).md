@@ -26,6 +26,10 @@ Epictetus gives the sequence. Asked what virtue produces, he answers in one line
 
 *For example:* A nurse who stays steady in an emergency isn't cold. She's calm enough to help.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the wu wei non-forcing parallel (Daodejing 37) the page lists.
+
 ## Psychology parallels
 
 - **[[Equanimity|Equanimity as contemplative outcome]]** ([Desbordes et al., 2014)

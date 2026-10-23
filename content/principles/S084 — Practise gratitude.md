@@ -28,6 +28,10 @@ Gratitude works best when it is specific: a person, and what they did. Expect a 
 **For example**
 Once a week, write down one person and one concrete thing they did for you, as Marcus does in Book 1. If it fits, tell them.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations Book 1 (Long), MIT Classics Archive](https://classics.mit.edu/Antoninus/meditations.1.one.html)

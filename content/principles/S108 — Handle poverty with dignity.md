@@ -30,6 +30,10 @@ Seneca recommends rehearsing a simple life for a few days. Lasting poverty is di
 **For example**
 Follow Letter 18 for three days: plain food and plain clothes, and each day ask whether this is the condition you feared.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
+
 ## Sources
 
 - [Seneca, Moral letters to Lucilius, Letter 17 (Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_17)

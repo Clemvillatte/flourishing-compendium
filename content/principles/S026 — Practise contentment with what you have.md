@@ -28,6 +28,10 @@ Contentment, in this account, is the ability to be well while a want is unsatisf
 
 Someone opens the cupboard, finds one ingredient short of the planned recipe, and cooks a different meal with what is there. A small case of the skill Marcus is pointing at: working with the actual inventory rather than the imagined one.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
+
 ## Psychology parallels
 
 - **[[Gratitude|Gratitude research]]**, gratitude for what one has predicts well-being (Emmons and McCullough, 2003)

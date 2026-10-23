@@ -26,6 +26,10 @@ Before reacting to a difficulty, ask what part you have in the situation and wha
 *For example:*
 Suppose a shared project changes after a setback. Reconsider what your responsibility now involves and identify something useful you can contribute. You can question the new plan while still deciding how to carry out your part.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the Daoist living-according-to-nature comparison the page lists beside the Stoic claim.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations II.9, George Long translation, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html) — quoted verbatim

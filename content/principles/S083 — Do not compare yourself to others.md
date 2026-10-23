@@ -24,6 +24,10 @@ On the psychology side, a meta-analysis of 60-plus years of social comparison re
 
 *For example:* A runner stops watching rivals' times and checks whether she is more consistent than last month.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the comparison teaching cited beside the social-comparison research the page opens with.
+
 ## Sources
 
 - [Epictetus, Enchiridion 25 (trans. E. Carter)](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, page opened

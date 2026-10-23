@@ -25,6 +25,10 @@ As a practical exercise, separate a useful criticism from the wish to be liked. 
 
 *For example:* A colleague wants you to omit an error from a report. You include it and explain your reasons despite their disapproval.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the distrust-names-and-labels teaching (Daodejing 1) the page lists.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book IV, section 18; Book VI, section 16; Book IX, section 30

@@ -24,6 +24,10 @@ The compendium applies the passage to any crowd, online or physical. The warning
 
 *For example:* someone leaves a work group chat that thrives on gossip, and finds their mood improves within a week.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the guard-your-senses-from-overload teaching (Daodejing 12) the page lists.
+
 ## Sources
 
 - [Enchiridion XXXIII, Thomas Wentworth Higginson translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/45109/pg45109.txt) — the single locator the body uses

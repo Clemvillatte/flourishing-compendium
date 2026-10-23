@@ -23,6 +23,10 @@ As a practical exercise, ask what you actually know before repeating an accusati
 
 *For example:* At lunch, someone repeats an accusation about a colleague. You decline to pass it on to the next person.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the feed-the-belly-not-the-eye teaching (Daodejing 12) the page lists.
+
 ## Sources
 
 - [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book I, section 10 (Alexander the Grammarian) and Book VI, section 30 (Antoninus Pius remembrance)

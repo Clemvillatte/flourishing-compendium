@@ -28,6 +28,10 @@ Seneca proposes a rehearsal, not a verdict. If your basic needs are secure, try 
 
 Someone whose necessities are secure forgoes one optional purchase for several days and records what they miss. The record, not the discomfort, is the yield.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
+
 ## Practice kernels
 
 - [[K260 — Wise-reasoning prompts|K260 Wise-reasoning prompts]]

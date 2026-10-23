@@ -24,6 +24,10 @@ Marcus compares luxury with the enjoyment of acting according to human nature. T
 
 *For example:* someone does the washing up without the usual podcast, and the dishes still get done.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the subtract-don't-add teaching (Daodejing 48) the page lists.
+
 ## Sources
 
 - [Meditations X.33, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — the single locator the body uses
