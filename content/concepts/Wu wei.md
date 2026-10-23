@@ -143,7 +143,7 @@ Wu wei is not passivity. Chapter 48 still has the sage accomplish things, and Di
 - [[D011]] — D011's body links this practice to its soft-over-hard choice (Daodejing 43)
 - [[The ten thousand things]] — the Tao's non-managing manner toward them
 - [[D012]] — the Daodejing's chapter 8 water image, occupying the low place without striving, is one of the text's own expressions of non-forcing.
-- [[Gelassenheit]] — listed for comparison
+- [[Gelassenheit]] — the sibling page in the same family
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 - [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)
 - [[Temperance]] — one of the four cardinal virtues: the right ordering of pleasure and appetite

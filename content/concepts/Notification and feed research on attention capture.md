@@ -21,8 +21,8 @@ The study tested notifications on a lab task with students. It did not test infi
 
 ## Related concepts
 
-- [[Attention management]] — listed for comparison
-- [[Attention residue]] — listed for comparison
+- [[Attention management]] — the sibling page in the same family
+- [[Attention residue]] — the sibling page in the same family
 
 ## Sources
 

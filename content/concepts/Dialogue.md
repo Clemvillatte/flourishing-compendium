@@ -19,7 +19,7 @@ For Buber, the two primary words are I-Thou and I-It: the first "can only be spo
 
 ## Related concepts
 
-- [[Associated living]] — listed for comparison
+- [[Associated living]] — the sibling page in the same family
 - [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
 - [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
 - [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means

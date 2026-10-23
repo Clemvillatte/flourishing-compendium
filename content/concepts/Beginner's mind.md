@@ -35,8 +35,8 @@ CO040 names the cognitive cost: the curse of knowledge, the inability to un-know
 - [[Curiosity]] — the beginner's motive energy
 - [[Openness]] — the personality trait the compendium pairs with this posture
 - [[Socratic ignorance]] — knowing that one does not know, the Greek cousin
-- [[Gelassenheit]] — listed for comparison
-- [[Pure experience]] — listed for comparison
+- [[Gelassenheit]] — the sibling page in the same family
+- [[Pure experience]] — the sibling page in the same family
 ## Sources
 
 - [Shunryu Suzuki, Zen Mind, Beginner's Mind (Weatherhill, 1970), full text PDF, Stanford University](https://web.stanford.edu/~funn/ZenMindBeginners.pdf)

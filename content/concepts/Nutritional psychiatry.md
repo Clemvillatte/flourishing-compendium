@@ -24,7 +24,7 @@ The field's premise is stated plainly in its opening: present treatment "is achi
 ## Related concepts
 
 
-- [[BE042]] — listed for comparison
+- [[BE042]] — the sibling page in the same family
 - [[BI035]] — the diet-depression association this principle summarises is one of the field's core observational findings
 - [[BI038]] — randomised-trial evidence that a breakfast's glycaemic index tracks later mood ratings
 

@@ -19,7 +19,7 @@ The compendium's principle on fixing belief by experiment gives the epistemology
 
 ## Related concepts
 
-- [[Education as growth]] — listed for comparison
+- [[Education as growth]] — the sibling page in the same family
 - [[Abduction]] — Peirce's account of where hypotheses come from
 - [[The problem of induction]] — the neighboring epistemology of the testing
 

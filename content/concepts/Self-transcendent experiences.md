@@ -19,7 +19,7 @@ Their integrative review proposes an organizational framework and possible psych
 
 ## Related concepts
 
-- [[Self-transcendence]] — listed for comparison
+- [[Self-transcendence]] — the sibling page in the same family
 
 ## Sources
 

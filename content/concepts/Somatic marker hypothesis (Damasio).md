@@ -30,7 +30,7 @@ A gut sense of "don't take that deal" that arrives before any conscious accounti
 
 ## Related concepts
 
-- [[Appraisal theory]] — listed for comparison
+- [[Appraisal theory]] — the sibling page in the same family
 - [[Embodied emotion theory]] — the body-based account of emotion the hypothesis presupposes
 - [[Action precedes feeling]] — the James-line counterpoint the hypothesis engages
 - [[Theory of constructed emotion]] — the later constructivist alternative to body-driven markers

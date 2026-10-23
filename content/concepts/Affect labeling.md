@@ -57,9 +57,9 @@ A person in a difficult conversation can say one silent internal sentence, "that
 
 - [[Emotion regulation]] — an attentional strategy within this taxonomy
 - [[Distrust names and labels]] — where the label-as-name-not-verdict distinction is drawn out
-- [[Appraisal theory]] — listed for comparison
+- [[Appraisal theory]] — the sibling page in the same family
 - [[Rumination]] — the circling that naming interrupts
-- [[BE037]] — listed for comparison
+- [[BE037]] — the sibling page in the same family
 
 ## Sources
 

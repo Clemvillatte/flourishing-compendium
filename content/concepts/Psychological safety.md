@@ -29,7 +29,7 @@ The page's facet "and group performance" rests on the study above. The linked pr
 
 ## Related concepts
 
-- [[Generalized trust]] — listed for comparison
+- [[Generalized trust]] — the sibling page in the same family
 
 ## Sources
 

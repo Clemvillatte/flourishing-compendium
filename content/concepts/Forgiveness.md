@@ -40,7 +40,7 @@ R005 "Practise forgiveness" frames it as releasing the debt, not the memory, wit
 - [[Justice]] — Arendt's alternative to forgiveness, not its opposite
 - [[Guilt]] — the offender's side of the ledger
 - [[Shame]] — what blocks self-forgiveness
-- [[Agape]] — listed for comparison
+- [[Agape]] — the sibling page in the same family
 - [[SP030]] — A comparison with SP030 on hatred, love and the response one chooses
 - [[SE031]] — A principle on releasing past wrongs after acknowledgement and amends
 - [[SP066]] — Forgiveness as the release of the claim to repayment, and IV, P46's rule of answering hatred with kindness, are two accounts of ending the retaliation chain.

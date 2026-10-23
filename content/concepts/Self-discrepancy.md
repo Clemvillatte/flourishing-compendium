@@ -26,7 +26,7 @@ Within Higgins's framework, one question the theory suggests for a person in low
 ## Related concepts
 
 
-- [[SE003]] — listed for comparison
+- [[SE003]] — the sibling page in the same family
 - [[Self-Evaluation Maintenance Theory]] — the social side: other people's performance moves the same self-evaluations
 - [[Identity stability]] — the compendium's pages on how self-views hold or shift
 - [[Role model research]] — another theory of the gap between self and an outstanding other

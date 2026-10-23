@@ -31,8 +31,8 @@ The compendium pairs these findings with principles that turn them into practice
 
 ## Related concepts
 
-- [[Risk literacy]] — listed for comparison
-- [[The fourth rule of method]] — listed for comparison
+- [[Risk literacy]] — the sibling page in the same family
+- [[The fourth rule of method]] — the sibling page in the same family
 
 ## Sources
 

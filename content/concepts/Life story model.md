@@ -50,7 +50,7 @@ The compendium treats the model as the psychology of self-authorship. R105 pract
 - [[Self as process]] — the self as ongoing construction rather than fixed thing
 - [[The search for meaning]] — the existential project the story serves
 - [[Fixed views of self]] — the frozen story, the model's diagnostic contrast
-- [[CO010]] — listed for comparison
+- [[CO010]] — the sibling page in the same family
 - [[The seasons of life]] — the ancient image that human life has a temporal shape: stages that ask different things
 ## Cited in psychology parallels
 

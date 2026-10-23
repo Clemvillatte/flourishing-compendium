@@ -45,7 +45,7 @@ AF061 "Cultivate positive affect deliberately — it broadens and builds" carrie
 - [[Contentment in station]] — contentment as a place to rest, echoing the savour urge
 - [[Dispositional optimism]] — positive expectation as a durable reserve
 - [[Eudaimonia]] — the flourishing the built resources serve
-- [[Appraisal theory]] — listed for comparison
+- [[Appraisal theory]] — the sibling page in the same family
 - [[CO013]] — the principle carries the attention-side evidence for the theory's broadening half and pairs it with the stress-narrowing finding
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 - [[Creative evolution]] — Bergson's 1907 account of life as genuinely new

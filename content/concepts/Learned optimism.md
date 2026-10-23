@@ -39,6 +39,6 @@ Affect · Psychological science
 
 - [[Hope]] — the trainable cousin from positive psychology
 - [[Tragic optimism]] — the concept page lists this topic among its Related entries; this link returns it
-- [[Growth mindset]] — listed for comparison
+- [[Growth mindset]] — the sibling page in the same family
 - [[Positive psychology]] — the field this research belongs to
 - [[Optimistic explanatory style]] — explaining bad events as temporary, specific and changeable

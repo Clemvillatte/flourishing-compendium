@@ -30,7 +30,7 @@ The theory's most direct empirical support comes from a smartphone experience-sa
 
 
 - [[Mind wandering]] — the departure state: thought running elsewhere than the current activity
-- [[Mindfulness]] — listed for comparison
+- [[Mindfulness]] — the sibling page in the same family
 - [[Meta-awareness]] — the noticing that catches the departure
 - [[X017]] — a religious practice of returning attention through remembrance
 - [[Extended Evolutionary Meta-Model]] — the grid that classifies present-moment work as an attentional-dimension process

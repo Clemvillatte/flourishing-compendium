@@ -16,7 +16,7 @@ Cloninger's model originally consisted of three temperament dimensions: Novelty 
 ## Related concepts
 
 - [[Explore-exploit trade-off research]] — the decision-theoretic framing of the same pattern
-- [[Sensation seeking]] — listed for comparison
+- [[Sensation seeking]] — the sibling page in the same family
 - [[Curiosity]] — the drive the trait supplies when it serves learning
 - [[Action commitment]] — the counterweight the pattern lacks
 

@@ -24,7 +24,7 @@ Aristotle's treatment carries the standing qualification: the self-sufficient go
 
 - [[D105]] — D105 reads Xu You's refusal of the throne as a test of whether an acquisition serves a need.
 - [[Eudaimonia]] — the final good Aristotle defines through self-sufficiency
-- [[Wu wei]] — listed for comparison
+- [[Wu wei]] — the sibling page in the same family
 
 ## Sources
 

@@ -21,7 +21,7 @@ The theory starts from the hedonic principle — people approach pleasure and av
 
 - [[Achievement goal theory (Dweck, Elliot)]] — the goal-orientation research that parallels the two foci
 - [[Cognitive dissonance]] — one of the phenomena Higgins reconsiders under prevention focus
-- [[Framing effects]] — listed for comparison
+- [[Framing effects]] — the sibling page in the same family
 
 ## Sources
 

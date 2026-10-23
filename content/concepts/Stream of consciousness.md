@@ -15,7 +15,7 @@ The name is a metaphor he offers for what consciousness is like from the inside,
 
 ## Related concepts
 
-- [[Pure experience]] — listed for comparison
+- [[Pure experience]] — the sibling page in the same family
 
 ## Sources
 

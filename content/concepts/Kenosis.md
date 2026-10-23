@@ -40,7 +40,7 @@ The meeting where the most knowledgeable person in the room asks the questions i
 ## Related concepts
 
 - [[Docta ignorantia]] — the unknowing that knows itself, in the Christian key
-- [[Agape]] — listed for comparison
+- [[Agape]] — the sibling page in the same family
 - [[D168 — Put yourself last — and be preserved]] — the Daoist parallel to voluntary self-emptying
 
 ## Sources

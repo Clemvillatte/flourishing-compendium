@@ -20,8 +20,8 @@ The inverted-U shape shows up in the difficult condition: learning speeds up as 
 ## Related concepts
 
 - [[Arousal regulation]] — the practical skill the law describes the target of
-- [[Flow]] — listed for comparison
-- [[Cognitive load theory]] — listed for comparison
+- [[Flow]] — the sibling page in the same family
+- [[Cognitive load theory]] — the sibling page in the same family
 
 ## Sources
 

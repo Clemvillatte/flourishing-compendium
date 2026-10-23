@@ -80,7 +80,7 @@ The same scans showed stronger coupling in the meditators between control-relate
 - [[Meta-awareness]] — the noticing that catches the drift
 - [[Present-moment awareness theory]] — the target state the drift departs from
 - [[Mental time travel]] — one of the places the wandering goes
-- [[Rumination]] — listed for comparison
+- [[Rumination]] — the sibling page in the same family
 - [[AT068]] — The principle protecting attentional time, grounded in the same Killingsworth and Gilbert study the concept page cites
 ## Cited in psychology parallels
 

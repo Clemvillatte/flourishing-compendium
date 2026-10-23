@@ -49,7 +49,7 @@ Spinoza called honour rooted in popular approval "really empty, being nothing" (
 - [[Authentic versus hubristic pride]] — the empirical analogue of Spinoza's split between grounded and comparative self-joy
 - [[Magnanimity]] — Aristotle's honest sense of one's own worth, neither inflated nor deflated
 - [[SE021]] — A comparison with SE021 on the conditions people place on feeling worthwhile
-- [[SP060]] — listed for comparison
+- [[SP060]] — the sibling page in the same family
 ## Sources
 
 - [Spinoza, Ethics (Elwes translation, Project Gutenberg)](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — IIIp55s and Definitions of the Emotions XXV, XXVIII; IVp18s, IVp37, IVp52+s, IVp56, IVp57s, IVp58s: the self-love passages

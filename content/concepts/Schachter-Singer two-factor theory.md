@@ -43,4 +43,4 @@ Affect · Psychological science
 
 ## Related concepts
 
-- [[Appraisal theory]] — listed for comparison
+- [[Appraisal theory]] — the sibling page in the same family

@@ -22,7 +22,7 @@ The Recovery Experience Questionnaire differentiates four recovery experiences: 
 
 - [[Sabbath]] — the ancient weekly container for the recovery taxonomy
 - [[Psychological detachment]] — the first of the four experiences
-- [[Effort-recovery cycles]] — listed for comparison
+- [[Effort-recovery cycles]] — the sibling page in the same family
 - [[PP073]] — try different breaks and compare how fatigue changes
 ## Sources
 

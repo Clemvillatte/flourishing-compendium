@@ -40,7 +40,7 @@ For habit and flourishing, phronesis names the skill the entire self-improvement
 - [[Moral situation research]] — the experimental challenge that phronesis must answer
 - [[Moral identity]] — the practical wisdom that guides the moral self
 - [[MO034]] — grounds adaptive judgment about ends in Aristotle practical wisdom, the philosophical parallel MO034 names.
-- [[Wisdom]] — listed for comparison
+- [[Wisdom]] — the sibling page in the same family
 - [[Virtue ethics]] — the tradition that makes this wisdom central
 - [[Wisdom theory Berlin paradigm]] — an Aristotelian account of practical judgment, beside the Berlin paradigm's expertise-based scoring of responses to life problems
 - [[A091]] — practical wisdom distinguished from contemplation in the scholarly account

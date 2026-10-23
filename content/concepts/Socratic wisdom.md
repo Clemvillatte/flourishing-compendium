@@ -19,7 +19,7 @@ Socrates interprets the oracle's answer as showing the limits of human wisdom: i
 
 ## Related concepts
 
-- [[Wisdom]] — listed for comparison
+- [[Wisdom]] — the sibling page in the same family
 
 ## Sources
 

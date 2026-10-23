@@ -41,7 +41,7 @@ The mechanism is plot. Narrative discourse "configures such heterogeneous concep
 - [[The relational self]] — identity co-authored with its witnesses
 - [[Moral identity]] — the story form moral identity often takes
 - [[Narrative redemption sequences]] — the construct the sequences are coded within
-- [[CO010]] — listed for comparison
+- [[CO010]] — the sibling page in the same family
 - [[The seasons of life]] — the ancient image that human life has a temporal shape: stages that ask different things
 - [[SE005]] — A principle on describing the self through relationships, alongside the narrative account of the self
 - [[SE036]] — A principle on reconsidering identity labels after life transitions, using Nietzsche's metamorphoses as an analogy

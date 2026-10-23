@@ -32,8 +32,8 @@ Early support, Aldag and Fuller say, rested almost entirely on retrospective cas
 ## Related concepts
 
 - [[Groupthink theory]] — the concept page for the theory itself
-- [[Psychological safety]] — listed for comparison
-- [[Conformity]] — listed for comparison
+- [[Psychological safety]] — the sibling page in the same family
+- [[Conformity]] — the sibling page in the same family
 
 ## Sources
 

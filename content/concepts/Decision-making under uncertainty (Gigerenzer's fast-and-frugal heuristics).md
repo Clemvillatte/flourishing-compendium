@@ -37,8 +37,8 @@ To see the rules at work, take a hypothetical pair of cities, with cue values in
 
 ## Related concepts
 
-- [[Risk literacy]] — listed for comparison
-- [[Strategic Contingencies Theory]] — listed for comparison
+- [[Risk literacy]] — the sibling page in the same family
+- [[Strategic Contingencies Theory]] — the sibling page in the same family
 
 ## Sources
 

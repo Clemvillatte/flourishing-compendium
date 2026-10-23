@@ -33,4 +33,4 @@ The tradition reaches back through Roman law's distinction between free citizens
 ## Related concepts
 
 - [[The common good]] — the tradition that keeps the citizen at the center
-- [[Associated living]] — listed for comparison
+- [[Associated living]] — the sibling page in the same family

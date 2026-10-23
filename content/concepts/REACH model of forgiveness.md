@@ -17,7 +17,7 @@ The model leads participants through five steps, built as an acronym: Recall the
 
 - [[Forgiveness]] — the practice the model structures
 - [[Revenge]] — the alternative the model works against
-- [[Altruism theory Batson empathy]] — listed for comparison
+- [[Altruism theory Batson empathy]] — the sibling page in the same family
 
 ## Sources
 

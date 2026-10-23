@@ -25,7 +25,7 @@ Spinoza associates this second way of regarding something as true or real with u
 
 ## Related concepts
 
-- [[Blessedness]] — listed for comparison
+- [[Blessedness]] — the sibling page in the same family
 - [[Conatus]] — the same work's account of each thing's striving
 
 ## Sources

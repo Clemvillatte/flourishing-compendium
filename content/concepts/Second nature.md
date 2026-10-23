@@ -29,7 +29,7 @@ The principles listed use second nature in different ways. A042 (virtue is a hex
 
 - [[Effortless action through long effort]] — the Cook Ding account of skill becoming second nature
 - [[Growth through practice]] — the Buddhist version of capacities becoming second nature
-- [[Habit]] — listed for comparison
+- [[Habit]] — the sibling page in the same family
 
 ## Sources
 

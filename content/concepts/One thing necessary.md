@@ -25,8 +25,8 @@ The principles below are linked by the compendium's original citation, which cal
 
 ## Related concepts
 
-- [[The contemplative life]] — listed for comparison
-- [[Contemplation (theoria)]] — listed for comparison
+- [[The contemplative life]] — the sibling page in the same family
+- [[Contemplation (theoria)]] — the sibling page in the same family
 
 ## Sources
 
