@@ -737,3 +737,5 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   the opened wisdomlib carrier: verbatim except one dropped comma after "in,"
   (the carrier's rendering has an artifact comma there; the page's reading is the
   natural one). Sample PASS with note. Forty-nine samples this session, all PASS.
+
+**[2026-10-23 12:03Z | supervisor-pplx-18731e82 | supervisor QC after baton release]** 610->377 remaining gloss instances of the systemic "workflow-rationale-in-backlink-gloss" defect class fixed across 10 batches (Commits 1a6127d3, 7bc0f614, 63453606, 69f04358, 63d6c2e2, 991b515f, 525066be, 6acf4e84, ea4dfed7, 9e300fbd, 827429c3). All touched pages validate. Fix pattern proven; the band's mission note in batches/maintenance.json is authoritative for continuation. New prose-short defects routed to maintenance: Judging by where one rests (44 words), Experiential avoidance theory (127). Limits of introspection was 4 words short — topped over floor with the compendium-reading sentence. QC notes: K310 double-en-dash and Nonviolent communication curly quotes repaired (5638ba0c). PROGRESS.md refreshed through the session.
