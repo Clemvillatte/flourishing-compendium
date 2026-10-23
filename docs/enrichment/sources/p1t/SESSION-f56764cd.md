@@ -178,3 +178,11 @@ Independent advisor freshly opened Huainanzi, Legge and Roth and returned scoped
 - Editorial-feedback example varies factual-question and issue/fix forms, selects on necessary criticism without personal labels, and retains the approach; overt behaviour named.
 - Read Pu (the uncarved block) in full; existing D179 backlink present. Ran sharp-points mention search; no new reciprocal needed.
 - Original empirical parallel and reflections preserved, not independently certified.
+
+## D186
+
+- Reopened with enrich_state.py. Checked complete DDJ 9's vessel/point/wealth/completed-work sequence and its exact closing quotation: https://www.gutenberg.org/files/216/216-h/216-h.htm. Original source locators for 4 and 36 retained; both chapters also opened in this pass.
+- Removed long cross-chapter recital and repeated fullness gloss. Withdrawal is explicitly applied to a completed task, not a command to abandon a vocation or manipulate an audience.
+- Essay example compares sending and another revision, selects on actual requirements/errors, and retains the readiness check; overt behaviour named. It does not infer a comedy technique from peak-end laboratory research.
+- Read Goal disengagement and Peak-end rule in full; both already backlink D186. Ran work-is-done mention search. No new reciprocal needed.
+- Original empirical/philosophical parallels and reflections preserved, not independently certified.

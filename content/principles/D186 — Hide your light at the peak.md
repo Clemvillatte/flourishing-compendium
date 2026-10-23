@@ -12,18 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 186** — Hide your light at the peak
 
-Chapter 9 of the Daodejing says it is better to leave a vessel unfilled than to attempt to carry it when it is full; if you keep feeling a point that has been sharpened, the point cannot long preserve its sharpness; when gold and jade fill the hall, their possessor cannot keep them safe; and when wealth and honours lead to arrogancy, this brings its evil on itself. The chapter's closing rule concerns completed work: when the work is done and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven. Chapter 4 gives the dimming image: we should blunt our sharp points, attemper our brightness, and bring ourselves into agreement with the obscurity of others. Chapter 36 names the strategist's version, hiding the light of his procedure.
+Daodejing 9 moves from an unfilled vessel to a sharpened point, a hall full of gold and jade, and the arrogance wealth can bring. Its closing line places completed work and growing reputation next to withdrawal. Here, apply that withdrawal to a particular completed task, rather than treating attention as a reason to keep extending it.
 
 (DDJ 4, 9, 36.)
 
 > "When the work is done, and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven." (DDJ 9, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium's reading: the chapters' withdrawal is from fullness — the filled vessel, the filled hall, the name becoming distinguished. The reading takes the principle's peak to be the vessel's fullness: the chapter's rule is to leave it unfilled, and the withdrawal is the way of Heaven.
+### Plain words
 
-**Plain words**
-The compendium's exercise: before adding another round to a successful project, ask whether the work is finished and what the extra round is for. Consider stopping rather than assuming that more is better.
+Name what counts as finished. When those requirements are met, ask what another round would change. You may discover a real omission; you may also find that stopping feels uncomfortable. Address what remains to be done before deciding to keep going.
 
-*For example:* The compendium's hypothetical: a comedian ends the set early with the room wanting more — the exercise is to ask what the next encore would cost, not to assume the answer.
+### For example
+
+For a finished essay, compare sending it with doing another round of revisions. Check agreed requirements and remaining substantive errors. Select on what the essay needs, then retain that readiness check for your next submission. The overt-behaviour practice is ending a completed task deliberately.
 
 ## Sources
 
