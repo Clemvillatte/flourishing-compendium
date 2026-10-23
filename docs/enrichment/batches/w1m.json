@@ -48,7 +48,6 @@
   "Companionate love in adversity",
   "The via media",
   "Transaction",
-  "State-dependent intervention matching",
   "The urgency of time",
   "Transactive memory systems",
   "The limits of introspection",
@@ -72,7 +71,8 @@
   "Verum factum",
   "Walking off one's thoughts",
   "The ontological difference",
-  "The return of the soul to its source"
+  "The return of the soul to its source",
+  "State-dependent intervention matching"
  ],
  "in_progress": null,
  "flagged": {
@@ -86,7 +86,7 @@
   "The sublime": "Reopened for QC: extension: add Burke distance passage (prose 38)",
   "Transactive memory systems": "RESOLVED 2026-10-23 (worker-pplx-w1m-aae235f1): routed prose-short repair completed on origin/main by the concurrent w1ad worker (commit 862c4858b, quotes re-verified vs opened Wegner 1987 PDF); this w1m holder verified the page validator-clean at HEAD (prose at bar); duplicate local edit dropped in rebase, nothing lost.",
   "The progress principle": "Reopened for QC: extension: summary detail added (prose 101)",
-  "State-dependent intervention matching": "IDENTITY-SUPPORT HOLD (2026-10-21, worker-w1m-5f8e3a2b, advisor QC round 1): heading names a practice guideline, not a source-defined concept — the term 'State-dependent intervention matching' is not established by the sources opened (web search returned no source defining it; the underlying matching practice IS source-grounded: Niederlohmann 2026, Frontiers in Psychiatry, PMC13200463, abstract sentence verified verbatim vs the opened raw HTML). Advisor verdict: FAIL for completion, do not enrich as a concept per PROTOCOL.md §1 step 0 + concept-namespace-audit.md rule 3; bounded source-bounded WIP saved per the advisor's minimal draft (abstract blockquote + one-line synthesis + bare Related links; original inherited citation lines restored unchanged, Yerkes-Dodson carrier NOT opened this session); done-mark BLOCKED pending supervisor/owner disposition: rename to a source-defined neighbour (candidates: State-matched emotion regulation, Arousal regulation), merge and migrate links, or supply a source defining the heading. In the compendium the heading sits under Y021/K199/ST327/V1K-S01/Y124.",
+  "State-dependent intervention matching": "Reopened for QC: extension: add abstract detail and status as hypothesis paper (prose 17)",
   "The coloured lens": "QC round 2 (advisor, 2026-10-21): bounded citation/content repairs applied (inline links on quote and Gallegos paragraph, empirical glosses reduced to topic descriptions, seed line replaced with 'The compendium also links this image to Right view', Mood-congruent gloss made bare); citing-context check resolved the referent question; held for re-verification of the repaired text.",
   "The seasons of illness": "SUPERVISOR DISPOSITION 2026-10-21 (worker-sup-5e8a3c7f): Category C heading approved — compendium coinage over Ecclesiastes 3; opening discloses the compendium's application; prose topped up (Eccles 3:4 weep/laugh quote verified verbatim vs Gutenberg #8300), validated ok; marked done",
   "The urgency of time": "NAMESPACE HOLD (2026-10-21, worker-w1m-5f8e3a2b): compendium coinage over Heideggerian finitude; no source defines 'The urgency of time' as a concept. Being and Time was NOT opened this session (no lawful full-text carrier available quickly; owner's Drive/local library does not list Heidegger), so no quote can be verified — per the zero-hallucination rule the page is left at seed and held out of done pending supervisor disposition (rename to a source-defined neighbour e.g. Being-towards-death, or owner supplies a carrier). Citing principles: E054/Y096/AT069/K050/MO052.",
@@ -113,7 +113,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:36:16+00:00",
+ "updated": "2026-10-23T14:36:37+00:00",
  "band_done": false,
  "new_concepts": [
   {
