@@ -39,5 +39,7 @@
    "from": "worker-f56764cd",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-23T14:08:49+00:00"
 }
