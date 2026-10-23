@@ -139,3 +139,7 @@ The advisor's round-3 verdict was again "not QC-clear"; the following repairs we
 ## Item 24 (worker-pplx-k1c-65228089, ~T+42)
 
 - K336 Contamination sequence audit (done; flag: guided-version search pending) — Adler, Turner, Brookshier, Monahan, Walder-Biesanz, Harmeling, Albaugh, McAdams & Oltmanns 2015, JPSP 108(3):476-496 (PMID 25751718, eutils abstract in full, author list verified via esummary): the contamination/redemption/agency themes and 4-year mental-health trajectories, quoted. Associations only; the page says so.
+
+## Item 25 (worker-pplx-k1c-65228089, ~T+43)
+
+- K142 Narrative reconstruction (done; flag: guided-version search pending; earlier deferred flag superseded) — Frattaroli 2006 expressive-disclosure meta-analysis (PMID 17073523, 146 randomized studies, r = .075) + Adler et al. 2015 JPSP (PMID 25751718, reused from K336), both eutils abstracts in full. The rewrite rule is presented as editorial; the writing effect is small and the narrative association is correlational, and the page says both.
