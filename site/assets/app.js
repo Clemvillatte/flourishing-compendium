@@ -3215,6 +3215,26 @@ function practiceDurationMinutes(s){
   return null;
 }
 
+/* ---------- Practice gallery favourites (owner request 2026-10-23) ----------
+   A per-browser favourites list for the degree practice galleries (CMP, Qi Gong).
+   Keyed on the session URL (fallback: title), stored in localStorage. */
+const GALLERY_FAV_KEY = 'fcPracticeFavs';
+const GALLERY_FAV_SENTINEL = '__favs__';
+function galleryFavId(s){ return s.url || s.title || ''; }
+function galleryFavs(){
+  try{ const v = JSON.parse(localStorage.getItem(GALLERY_FAV_KEY)); return Array.isArray(v) ? v : []; }
+  catch(e){ return []; }
+}
+function isGalleryFav(s){ return galleryFavs().indexOf(galleryFavId(s)) !== -1; }
+function toggleGalleryFav(s){
+  const id = galleryFavId(s);
+  let f = galleryFavs();
+  const i = f.indexOf(id);
+  if(i === -1) f.push(id); else f.splice(i,1);
+  try{ localStorage.setItem(GALLERY_FAV_KEY, JSON.stringify(f)); }catch(e){ /* private mode: favourites last for the visit */ }
+  return i === -1;
+}
+
 function renderPracticeGallery(deg){
   const sessions = deg.practiceSessions || [];
   const wrap = el('div','acad-practice-gallery');
@@ -3229,6 +3249,7 @@ function renderPracticeGallery(deg){
   const types = [];
   sessions.forEach(s=>{ if(!types.some(t=>t.value===s.practice_type)) types.push({value:s.practice_type, label:s.practice_label}); });
   types.forEach(t=>{ const o = el('option', null, t.label); o.value = t.value; typeSel.appendChild(o); });
+  const typeFav = el('option', null, 'Favourites'); typeFav.value = GALLERY_FAV_SENTINEL; typeSel.appendChild(typeFav);
   const timeSel = el('select','acad-explorer-select');
   timeSel.setAttribute('aria-label','Filter by session length');
   PRACTICE_TIME_BUCKETS.forEach(b=>{ const o = el('option', null, b.label); o.value = b.value; timeSel.appendChild(o); });
@@ -3263,6 +3284,25 @@ function renderPracticeGallery(deg){
     const metaLine = [s.guide, s.practice_label].filter(Boolean).join(' \u00b7 ');
     info.appendChild(el('div','gallery-card-theme', metaLine));
     card.appendChild(info);
+    // Gold favourites star, bottom-right (owner request 2026-10-23)
+    const fav = isGalleryFav(s);
+    const star = el('button','apg-fav' + (fav ? ' is-fav' : ''));
+    star.type = 'button';
+    star.innerHTML = '\u2605';
+    star.title = fav ? 'Remove from favourites' : 'Add to favourites';
+    star.setAttribute('aria-label', star.title);
+    star.setAttribute('aria-pressed', fav ? 'true' : 'false');
+    star.onclick = function(e){
+      e.stopPropagation();
+      const nowFav = toggleGalleryFav(s);
+      star.classList.toggle('is-fav', nowFav);
+      star.title = nowFav ? 'Remove from favourites' : 'Add to favourites';
+      star.setAttribute('aria-label', star.title);
+      star.setAttribute('aria-pressed', nowFav ? 'true' : 'false');
+      // Un-favouriting while the Favourites filter is active drops the card from view
+      if(typeSel.value === GALLERY_FAV_SENTINEL && !nowFav) render();
+    };
+    card.appendChild(star);
     card.onclick = () => { if(s.url) window.open(s.url,'_blank','noopener'); };
     return card;
   }
@@ -3271,7 +3311,9 @@ function renderPracticeGallery(deg){
     list.innerHTML = '';
     shown = 0;
     const visible = sessions.filter(s=>{
-      if(typeSel.value && s.practice_type !== typeSel.value) return false;
+      if(typeSel.value === GALLERY_FAV_SENTINEL){
+        if(!isGalleryFav(s)) return false;
+      } else if(typeSel.value && s.practice_type !== typeSel.value) return false;
       const bucket = PRACTICE_TIME_BUCKETS.find(b=>b.value===timeSel.value);
       if(bucket && bucket.test){
         const m = practiceDurationMinutes(s);
