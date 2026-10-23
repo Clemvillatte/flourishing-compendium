@@ -20,7 +20,7 @@ The concrete shape of the reported effect: "when participants made more progress
 
 **Plain words** Imagine writing one page of a book you have not finished. That is progress without completion. In the diary studies, people reported better well-being on days when their goals moved forward more than usual, relative to their own usual days; this association does not establish that making progress caused the difference ([Jakubiak & Feeney, 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC5000864/)).
 
-*For example (compendium exercise):* Keep a one-week record of daily goal progress and mood, and read the week against your own average.
+*For example:* Keep a one-week record of daily goal progress and mood, and read the week against your own average.
 
 ## Sources
 
