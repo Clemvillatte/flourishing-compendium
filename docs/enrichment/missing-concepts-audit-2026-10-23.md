@@ -1,9 +1,13 @@
-# Missing-concepts / missing-kernels audit — 2026-10-23 (final)
+# Missing-concepts / missing-kernels audit — 2026-10-23 (incomplete, time-boxed)
 
 Auditor: auditor-pplx-b9c3e4a1 (owner-launched; spec by supervisor-pplx-1023a).
-Status: audit pass complete within the session; evidence artifact saved alongside
-this report: `docs/enrichment/audit-evidence-2026-10-23.json`. PROPOSAL ONLY:
-nothing is minted; every candidate waits for owner sign-off (standing rule 1).
+Status: INCOMPLETE (time-boxed) — verified findings below plus an exact
+unfinished-scope list at the end; deliberately NOT promoted to a completed
+audit (advisor ruling round 3). Evidence artifact:
+`docs/enrichment/audit-evidence-2026-10-23.json` (v2, generated from an
+immutable `git archive` of revision 1a908455; every count is asserted equal
+to its saved path-set length). PROPOSAL ONLY: nothing is minted; every
+candidate waits for owner sign-off (standing rule 1).
 
 Mission lens (owner, in-session, 2026-10-23): every suggestion must serve
 "guiding people to alleviate suffering, detach from the self-as-object,
@@ -62,21 +66,21 @@ check was NOT performed (disclosed as not done).
 
 ## Stream 2 — tradition-inventory comparison (all forests, indexes opened)
 
-Headline: after corrected verification, every forest's core inventory is
-substantially present. The genuine gaps are few and mostly below the 10-file
-mention floor; the spec's floor is treated as evidence-weight, not an
-automatic rejection (an opened-carrier case can outweigh it).
+The corrected pass found few gaps, and the first-round false negatives show
+why absence claims need the verification they got: several suspected gaps
+proved to exist. The spec's 10-file floor is treated as evidence-weight, not
+an automatic rejection (an opened-carrier case can outweigh it).
 
 | Forest (index) | Covered core (examples verified) | Absent (prose mention count) |
 |---|---|---|
 | Stoicism (IEP) | eudaimonia, cardinal virtues, adiaphora, preferred indifferents, passions as judgments, apatheia, oikeiosis, ataraxia, prosochê, amor fati, cosmopolitanism | eupatheiai (3); propatheiai (1); kathēkonta (0 direct) |
-| Yoga (Wikipedia) | ahimsa, santosha, pranayama, pratyahara, samadhi, metta | dharana (3); dhyana (5); satya (8, principle-only coverage) |
-| Buddhist (IEP Buddha) | four noble truths, eightfold path, dukkha, anicca, anatta, tanha, samsara, nirvana, dependent origination, skandha, three poisons, four immeasurables, mudita, karuna, upekkha | **satipatthana / four foundations of mindfulness (47 — principle B039 exists, no concept or kernel page)**; avijjā as a named page (0) |
+| Yoga (Wikipedia) | ahimsa, santosha, pranayama, pratyahara, samadhi | dharana (3); dhyana (5); satya (8, principle-only coverage). Metta is NOT an item of the opened eight-limb list (it belongs to the Buddhist cluster; moved there). The asana limb accounting is incomplete in this pass (disclosed). |
+| Buddhist (IEP Buddha) | four noble truths, eightfold path, dukkha, anicca, anatta, tanha, samsara, nirvana, dependent origination, skandha, three poisons, four immeasurables, mudita, karuna, upekkha | **satipatthana / four foundations of mindfulness (46, frozen revision — principle B039 and story ST069 exist, no concept or kernel page)**; avijjā as a named page (0) |
 | Daoist (IEP) | dao, de, wu wei, ziran, pu, yin-yang, qi, ten thousand things, sage | hundun (0); zhenren (0); he-as-harmony (0 direct) |
-| Kyoto/Tibetan (SEP) | absolute nothingness, pure experience, emptiness/shunyata, zazen (Shikantaza), koan practice, self as process | **metanoetics (11)**; **nihility (10)**; action-intuition (8); basho (1); satori (3); tonglen (2); self-power/other-power (1-2); rigpa (2) |
+| Kyoto/Tibetan (SEP) | absolute nothingness, pure experience, emptiness/shunyata, zazen (Shikantaza), koan practice, self as process | **metanoetics (7, frozen revision)**; **nihility (6, frozen revision)**; action-intuition (4); basho (1); satori (3); tonglen (2); self-power/other-power (1-2); rigpa (2) |
 | Aristotelian (IEP) | eudaimonia, ergon, arete, the mean, phronesis, akrasia, habituation, friendship, self-love, contemplation | (no core item absent at corpus weight) |
 | Spinozist (IEP) | substance monism, conatus, affects, adequate ideas, three kinds of knowledge, bondage of desire, amor dei intellectualis, sub specie aeternitatis | common notions (2); active/passive affects as named pages (0); eternity of the mind (0) |
-| Pragmatist (SEP) | pragmatic maxim, inquiry, community of inquiry, fallibilism, habit, transaction, instrumentalism (as instrumental reason), anti-representationalism | meliorism (0); warranted assertibility (0) |
+| Pragmatist (SEP) | pragmatic maxim, inquiry, community of inquiry, fallibilism, habit, transaction, anti-representationalism | meliorism (0); warranted assertibility (0). The existing page is named 'Instrumental reason' and was NOT read this pass, so whether it covers Dewey's instrumentalism is unverified (disclosed). |
 | Process (SEP) | becoming, actual occasions, prehension, concrescence, emergence, self as process | eternal objects (2); downward causation (0); panexperientialism (0) |
 | Relational (IEP Buber) | I-Thou, I-It (covered within I and Thou), the between, dialogue, confirmation, mutuality | inclusion (36, but the word is generic — Buber-specific uses need hand-verification); making present (0); distance-and-relation (1) |
 | Psychology (canonical list) | hope, optimism, grit, flow, self-distancing, post-traumatic growth, explanatory style, appraisal theory, savoring, implementation intentions, behavioral activation, cognitive defusion, values clarification, habit formation | pessimism (7); best possible self (0); hope theory as a named page (Hope.md covers the construct) |
@@ -103,50 +107,59 @@ result. Semantic reads performed for the top candidates:
 
 - **S067 Cultivate tranquillity (ataraxia)** — read in full. It prescribes a
   concrete sequence: calm arrives from "the dichotomy of control" sorting plus
-  deciding in advance "what you will and will not fight over", with Seneca's
-  De Tranquillitate Animi called "a manual for that work". The kernel-side
-  check: "ataraxia"/"tranquillity"/"tranquility" appear in NO kernel body
-  (case-insensitive grep, all 316 files). The nearest kernels, K157/K274
-  (evening review/examination), are general written reflection — their
-  protocol does not implement the dichotomy-of-control sort or the
-  pre-decision of fights. So the concrete absent operation is nameable: a
-  Stoic tranquillity kernel walking S067's own sequence.
+  deciding in advance "what you will and will not fight over". Kernel check:
+  four kernels implement exactly that operation — K267 Controllability sorting
+  (two-column sort with Epictetus's Encheiridion 1 test), K271 The "is this
+  up to me?" check, plus K266 and K272 (word-body search for the operation,
+  then the matches read). The word "ataraxia" appears in no kernel body, but
+  the PRESCRIBED OPERATION IS IMPLEMENTED. The Stoic tranquillity kernel-gap
+  candidate is therefore WITHDRAWN (recorded for the QC trail: the advisor's
+  warning that word-absence is not operation-absence was correct).
 - **E-forest contemplative practices** — "gelassenheit" appears in no kernel
-  body despite E102 and 18 prose mentions; shipwreck/failure reflection
-  (E092) has no kernel. The stem-match list (resoluteness, historicity,
-  thrownness, conscience, the chiasm, etc.) is plausible-lacking pending
-  per-item reading.
+  body despite E102 and 20 prose mentions; shipwreck/failure reflection (E092)
+  has no kernel. Adjacent kernels exist (K112 Scheduled empty time, K146 Ego
+  dissolution practice, K123 Radical acceptance); whether any of them
+  implements a Gelassenheit-style releasement or a failure reflection was NOT
+  read this pass. Plausible-lacking, unverified.
 - **Pacific/Māori cluster (~20 principles)** — stem-match only; owner call
   whether kernels or concept enrichment is the right instrument.
 
 ## Ranked proposal list (mission lens applied)
 
-The strongest findings serve the mission directly: satipatthana is the core
-contemplative attention curriculum for suffering alleviation; the Stoic
-tranquillity protocol is a workable calm practice for an uncertain world;
+The strongest surviving findings serve the mission directly: satipatthana is
+the core contemplative attention curriculum for suffering alleviation;
 Tanabe's metanoetics and Nishitani's nihility are wisdom-through-darkness
-teachings; the E-forest kernels turn philosophical concepts into doable
-practices.
+teachings. The Stoic tranquillity kernel and the brahmavihara umbrella were
+both WITHDRAWN on verification (the operation is implemented by K267/K271;
+the Four immeasurables page exists).
 
 ### Concept candidates
 
 | Rank | Candidate | Evidence | Mission fit | Status |
 |---|---|---|---|---|
-| 1 | Satipatthana (the four foundations of mindfulness) | 47 prose mentions; B039 principle prescribes it; no concept or kernel page (verified by normalized-title + ls checks) | very high: the base contemplative curriculum for attention to suffering as it arises | verified-lacking (concept page; kernel gap separately ranked) |
-| 2 | Metanoetics (Tanabe's zangedō) | 11 mentions; Kyoto School index opened; no page | high: repentance, self-negation and rebirth as a response to suffering no technique can fix | verified-lacking |
-| 3 | Nihility (Nishitani's field of nihility) | 10 mentions; no page; the Kyoto index presents the three-field pathway (being, nihility, emptiness) | high: passing through meaninglessness rather than around it | verified-lacking |
+| 1 | Satipatthana (the four foundations of mindfulness) as a concept page | 46 prose mentions (frozen revision, path set saved); B039 principle and ST069 story exist; no concept or kernel page (normalized-title + ls verified); the Mindfulness page covers satipatthana in one passing sentence | very high: the base contemplative curriculum for attention to suffering as it arises | verified-lacking as a dedicated page; substantive coverage exists in B039 + ST069 (a consolidation page, not a from-nothing mint) |
+| 2 | Metanoetics (Tanabe's zangedō) as a concept page | 7 prose mentions (frozen revision); K-forest structure layer K-S10 and principles K065/K066 carry the ideas; no concept page | high: repentance, self-negation and rebirth as a response to suffering no technique can fix | plausible-lacking (layer coverage exists; owner call whether a concept page adds value) |
+| 3 | Nihility (Nishitani's field of nihility) as a concept page | 6 prose mentions; K-S02 layer and T056 Nishitani carry the ideas; no concept page | high: passing through meaninglessness rather than around it | plausible-lacking (same caveat) |
 | 4 | The eupatheiai (Stoic good feelings) | 3 mentions (Apatheia, Passions as judgments, S059); IEP inventory item; no page | moderate: joy and goodwill as trainable emotions, the positive half of Stoic affect training | plausible-lacking (weak corpus weight) |
-| 5 | Action-intuition (Nishida) | 8 mentions; no page | moderate: knowing by becoming, an embodied alternative to detached observation | plausible-lacking |
-| 6 | Dharana / dhyana (Yoga Sutras limbs 6-7) | 3 / 5 mentions; limbs 4, 5, 8 have pages | moderate: concentration as a trainable step toward meditation | plausible-lacking (weak) |
+| 5 | Action-intuition (Nishida) | 4 mentions; no page | moderate: knowing by becoming, an embodied alternative to detached observation | plausible-lacking |
+| 6 | Dharana / dhyana (Yoga Sutras limbs 6-7) | 3 / 5 mentions; limbs 4, 5 and 8 have pages | moderate: concentration as a trainable step toward meditation | plausible-lacking (weak) |
 
 ### Kernel candidates
 
 | Rank | Candidate | Evidence | Mission fit | Status |
 |---|---|---|---|---|
-| 1 | Stoic tranquillity (ataraxia) kernel implementing S067 | word-absence verified across all 316 kernel bodies; semantic read shows the nearest kernels do not implement the prescribed operation | very high: a concrete calm protocol for an overwhelming news cycle | verified word-absence + semantic gap read; adjacent kernels may partly serve (owner/editor judgment) |
-| 2 | Satipatthana practice kernel (body, feeling, mind, dhamma foundations) | B039 prescribes; Anapanasati and bare-attention kernels cover fragments; no four-foundations pathway | very high | plausible-lacking (stem-match + page check) |
-| 3 | E-forest contemplative kernels (Gelassenheit release practice; shipwreck/failure reflection) | gelassenheit absent from all kernel bodies (verified); E092/E102 prescribe | high: letting-go and failure-reflection are directly workable | plausible-lacking (stem-match list) |
-| 4 | Pacific/Māori practice pathways | ~20 principles with no kernel hit (stem-match) | owner call: relational-cultural practices may be better served by concept pages | plausible-lacking, method-limited |
+| 1 | Satipatthana practice kernel (body, feeling, mind, dhamma foundations) | B039 prescribes; Anapanasati and bare-attention kernels cover fragments; no four-foundations pathway found by page check — the adjacent kernel bodies were not all read this pass | very high | plausible-lacking |
+| 2 | E-forest contemplative kernels (Gelassenheit release practice; shipwreck/failure reflection) | gelassenheit absent from all kernel bodies (lexical fact only); adjacent kernels K112/K146/K123 unread against the operation | high: letting-go and failure-reflection are directly workable | plausible-lacking, unverified |
+| 3 | Pacific/Māori practice pathways | ~20 principles with no kernel hit (stem-match) | owner call: relational-cultural practices may be better served by concept pages | plausible-lacking, method-limited |
+
+WITHDRAWN (recorded for the QC trail): the Stoic tranquillity (ataraxia)
+kernel — K267 Controllability sorting and K271 The "is this up to me?"
+check implement the prescribed dichotomy-of-control operation; the advisor's
+warning that word-absence is not operation-absence was correct.
+
+WITHDRAWN earlier: Samadhi, Mudita, Self-distancing, Skandha, Grit, Flow,
+Prosochē, Eightfold Path, meaning in life, zazen (Shikantaza), brahmavihara
+umbrella (Four immeasurables) — all verified as existing pages.
 
 ### Maintenance fixes (routing only)
 
@@ -157,12 +170,28 @@ practices.
   replace with a reader-facing line (routed, not applied — the audit is
   read-only over content/).
 
+## Exact unfinished scope (time-boxed; the next auditor continues here)
+
+1. Existential/phenomenological forest: no external survey opened (the E-forest
+   was covered only via canonical-term checks).
+2. Tibetan inventory: the Kyoto School survey does not establish one; lojong
+   and tonglen-class practice terms were only mention-counted.
+3. Psychology: a canonical-term list is not an external-reference comparison;
+   a proper index was not opened.
+4. See/Related plain-text cross-reference check: not performed.
+5. The seven practice-domain comparisons (attention, emotion regulation,
+   relationships, meaning, self, body, wisdom): not performed.
+6. Buber "inclusion" (36 generic-word mentions): hand-verification pending.
+7. The 48-item kernel stem-match shortlist: per-item semantic verification
+   pending (the ataraxia withdrawal shows why).
+8. The Yoga asana limb accounting.
+
 ## Owner sign-off section
 
 Nothing has been executed. Sign-off lines:
 
 - [ ] Concept candidates 1-6 (all / by rank: ___)
-- [ ] Kernel candidates 1-4 (all / by rank: ___)
+- [ ] Kernel candidates 1-3 (all / by rank: ___)
 - [ ] Optimism bias retarget
 - [ ] Ruling on Pacific/Māori cluster: kernels vs concept enrichment
 - [ ] Buber "inclusion" (36 generic-word mentions): hand-verify before any
