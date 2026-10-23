@@ -502,3 +502,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: imagined-victim scenario design, restitution's potency stated, wrongdoer-side amends practice not tested; inherited "sincere apologies predict relationship repair" claim grounded to the study's victim-side measures.
 - Mention check run (before this entry): K289 already linked from A023/S012/R005/R065 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K346 — The learning posture (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Pettigrew & Tropp 2006 (JPSP 90(5):751-783), meta-analysis of 515 studies / 713 samples, abstract verified raw via NCBI efetch (PMID 16737372); author list read from the efetch header. An initial PMID guess (16784328) was wrong and discarded; correct PMID located via web search and then verified raw.
+- The blockquote (713 samples sentence) matches the raw efetch text verbatim.
+- Honesty on page: pooled contact studies, Allport conditions not essential per the authors' reading, questioning posture not tested; the three questions kept as the practice's own form.
+- Mention check run (before this entry): K346 already linked from A063/R001/R055 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
