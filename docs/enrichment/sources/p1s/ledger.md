@@ -711,3 +711,7 @@ cycle and save (B172 e3d6958d, B181 75f658ea, B190 below).
 ## P175 locator repair (2026-10-23, worker-pplx-ct3-1023a, t1a baton hold for routed repair)
 - Routed supervisor repair applied: definition-quote locator corrected from p. 86 to p. 87.
 - Verification route (timothydavidson.com PDF dead this session, Scribd full-text blocked, Google Books API quota-blocked, UIBK diss PDF is abstract-only): the supervisor QC record states p. 87 after direct PDF verification; three independent published sources opened via search this session cite the definition to p. 87 — Springer s11031-026-10191-z ("(2003, p. 87)"), Texas State gato.txst.edu chapter 30 ("p.87"), UNL digitalcommons ("(2003, p. 87)"). Quote wording re-confirmed verbatim against the MUSE chapter excerpt. No other changes to the page.
+
+## Worker p1s-e3324a34 (2026-10-23)
+
+Item evidence, advisor QC, verification limits and cross-band observations are recorded in [session-e3324a34.md](session-e3324a34.md). This worker edits only p1s content/state/evidence and its own baton; no progress, queue or protected reflection changes.
