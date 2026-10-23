@@ -22,4 +22,3 @@ These principles concern the cultivation of creative capacity and the value of p
 - [[PP056 — Engage in play]]
 - [[PP057 — Pursue aesthetic experience]]
 - [[PP058 — Practise curiosity as a disposition]]
-- [[PP059 — Engage in narrative arts]]

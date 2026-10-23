@@ -17,7 +17,6 @@ The theory separates two things stories do. They model the social world in simpl
 
 ### In the compendium
 
-- [[PP059 — Engage in narrative arts]] — turns the simulation account into a practice recommendation
 - [[A110 — Use music and the arts for moral education]] — extends the same mechanism to the arts and moral formation
 - [[K347 — Story-before-statistic]] — uses narrative engagement where bare information fails to move people
 
@@ -40,7 +39,6 @@ The theory separates two things stories do. They model the social world in simpl
 
 ## Cited in psychology parallels
 
-- [[PP059 — Engage in narrative arts]]
 - [[A110 — Use music and the arts for moral education]]
 
 [[K347 — Story-before-statistic]]
