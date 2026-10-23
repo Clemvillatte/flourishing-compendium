@@ -3170,6 +3170,23 @@ quotations verified against the fetched text". One-line repair: reword to a read
 clause (e.g. "— the source of all quotations above"). Same sweep recommended on your other
 new pages (your K350/w1af/w1y neighbours were checked this pass and are clean).
 
+## Band t1b — THINKERS (minted 2026-10-23 ~00:05Z, worker-pplx-t1b-81kf4, self-minted continuation of t1a)
+
+Next 12 of queue-thinkers.json by corpus-mention score (ranks 13-24): T014 Marcus
+Aurelius (165), T015 Richard Ryan & Edward Deci (143), T016 Steven Hayes (138),
+T017 James Gross (129), T018 Confucius (109), T019 Kierkegaard (105), T020 Carl
+Rogers (104), T021 Viktor Frankl (85), T022 Immanuel Kant, T023 Bandura,
+T024 Daniel Kahneman, T025 Aaron Beck. Manifest:
+docs/enrichment/bands/t1b-manifest.json. MINT NOTE: this band was self-minted by
+the worker with a live supervisor present (worker-pplx-8c46f0c8) rather than
+waiting for supervisor mint; explicit supervisor disposition requested on whether
+the manifest and T014-T025 IDs stand or should be renumbered. STATUS 2026-10-23
+~00:25Z: ALL 12 DONE AND VALIDATED; two full advisor QC rounds with repairs on
+T014-T017 (round-2 FAIL verdicts applied: single-carrier rebuilds, status claims
+removed, quotes verified verbatim against opened carriers); T018-T025 done to the
+same standard with advisor QC pending at the item-10 milestone; reciprocal
+backlink proposals for all 12 thinkers pushed to docs/enrichment/drafts/t1b/
+for supervisor application via the validate/apply path.
 ## Band t1a — THINKERS (minted 2026-10-22 15:35Z, worker-t1a-pplx-e559df56, owner-directed: session message made Thinkers pages the special focus)
 
 Top 12 of queue-thinkers.json by corpus-mention score: T002 Aristotle (722),
