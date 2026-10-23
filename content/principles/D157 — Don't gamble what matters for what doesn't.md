@@ -12,18 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 157** — Don't gamble what matters for what doesn't
 
-Chapter 26 of the Daodejing pairs gravity with lightness and stillness with movement: gravity is the root of lightness, stillness the ruler of movement. Its prince, marching the whole day, does not go far from his baggage waggons, and quietly remains indifferent to brilliant prospects. The chapter then puts the question this principle turns on: how should the lord of a myriad chariots carry himself lightly before the kingdom? To act lightly is to lose the root; to proceed to active movement is to lose the throne.
+Daodejing 26 calls gravity the root of lightness and stillness the ruler of movement. Its travelling prince stays near his baggage waggons despite brilliant prospects, before the text warns that a ruler who loses his root can lose his throne. Read as a personal warning, the image asks whether a pursuit jeopardizes what makes pursuing anything possible.
 
 (DDJ 26.)
 
 > "How should the lord of a myriad chariots carry himself lightly before the kingdom? If he do act lightly, he has lost his root (of gravity); if he proceed to active movement, he will lose his throne." (DDJ 26, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium's reading: the prince's baggage train is what the day's march actually depends on, and the brilliant prospects are what it does not. In this modern application, the baggage train represents what should not be jeopardized for an attractive distraction.
+### Plain words
 
-**Plain words**
-The chapter's image is a traveler who keeps near what carries him even when something brilliant passes by. The compendium's version of the baggage train: the people, health and integrity your day's outcomes rest on. The exercise is naming what yours is, and what you are currently chasing at its expense.
+Before chasing an attractive gain, name what you are unwilling to put at stake. Do not leave that boundary as a general intention. Describe what you would decline, delay or do differently to protect it.
 
-*For example:* The compendium's application: checking the phone while driving stakes the baggage train, everyone in the car, on a brilliant prospect, one glance at a text.
+### For example
+
+Suppose a prestigious panel invitation conflicts with a promise to help a friend. Compare accepting, asking for another time, and declining. Select the option that honours your chosen commitment, then use that boundary when the next invitation arrives. The motivation practice is naming what the opportunity would cost.
 
 ## Sources
 

@@ -130,3 +130,11 @@ D149's pre-existing [[Measure in all things]] target is missing from content/con
 - Example varies suitable seated movement and walking, selects a comfortable feasible break, and retains it the next day; overt behaviour named.
 - Read Movement snacks in full; existing D153 backlink present. Its cited trial is vigorous stair climbing, not a test of gentle Daoist movement; retained parallel is not presented as validation of this practice. Ran gentle-movement mention search; Yangsheng already read and linked. No new reciprocal.
 - Original parallel lines and reflections preserved, not independently certified.
+
+## D157
+
+- Reopened with enrich_state.py. Checked whole DDJ 26, including gravity/stillness, baggage waggons and the ruler's loss of root/throne, in the opened source: https://www.gutenberg.org/files/216/216-h/216-h.htm.
+- Exact existing chapter-26 quotation retained. Shortened recital and made the personal baggage/pursuit reading explicit rather than repeating it in Plain words.
+- Invitation example generates three options, selects in relation to a chosen commitment and retains a boundary for later offers; motivation named. No factual driving-risk claim or predetermined ranking of commitments added.
+- Read Risk perception, Diversion and Prudence in full. All already backlink D157. Ran baggage mention search; no new reciprocal needed.
+- Existing story link, parallel lines and reflections preserved, not independently certified.
