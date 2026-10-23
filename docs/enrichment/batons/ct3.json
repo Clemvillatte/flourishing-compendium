@@ -1,0 +1,13 @@
+{
+ "baton": "ct3",
+ "agent": "worker-pplx-ct3-1023a",
+ "clocked_in": "2026-10-23T11:00:55+00:00",
+ "takeovers": [
+  {
+   "by": "worker-pplx-ct3-1023a",
+   "at": "2026-10-23T11:00:55+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
