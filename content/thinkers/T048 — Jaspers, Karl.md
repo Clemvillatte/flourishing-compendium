@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKE
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter J", "parent": ""}
 ---
 
-Karl Jaspers (born 23 February 1883, Oldenburg; died 26 February 1969, Basel) was a psychiatrist who moved to philosophy and became the philosopher of the situations a person cannot escape. His own list of them reads: "I must die, I must suffer, I must struggle, I am subject to chance, I involve myself inexorably in guilt" ([Jaspers, *Way to Wisdom*, trans. Manheim, pp. 19-20](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)).
+Karl Jaspers (born 23 February 1883, Oldenburg; died 26 February 1969, Basel) was a psychiatrist who moved to philosophy and became the philosopher of the situations a person cannot escape. His list of them reads: "I must die, I must suffer, I must struggle, I am subject to chance, I involve myself inexorably in guilt" ([Jaspers, *Way to Wisdom*, trans. Manheim, pp. 19-20](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)).
 
 ## Personal story / context
 
