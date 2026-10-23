@@ -21,6 +21,10 @@ The twins beat stronger opponents by preparing, hiding their plans and using cle
 
 *For example:* A small shop that cannot match a chain's prices finds a service the chain cannot offer and tests it for a month. success is not guaranteed.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the soft-overcomes-the-hard teaching (Daodejing 36) the page draws on.
+
 ## Sources
 
 - [Bazzett, M. (2018), The Popol Vuh: A New English Version (translation PDF), Part Three](https://last303.sites.olt.ubc.ca/files/2023/11/the-popol-vuh_trans-bazzett.pdf)

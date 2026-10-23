@@ -22,6 +22,10 @@ His own case was flossing: "I had the insight that I already know how to floss a
 
 *For example:* Someone commits to one push-up a day, right after their morning coffee; additional repetitions are optional.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the thousand-mile journey (Daodejing 64) behind starting tiny.
+
 ## Sources
 
 - [Godoy, M. (2020). How to start a new habit: think small — NPR Life Kit episode transcript, originally published 27 February 2020, all quoted passages spoken by BJ Fogg per the transcript's speaker labels](https://www.npr.org/transcripts/809256398) — Fogg's own account of the Tiny Habits method (scaling back, the one-tooth case, anchoring, celebration, habit formation as a skill)

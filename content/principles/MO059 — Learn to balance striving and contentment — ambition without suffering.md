@@ -25,6 +25,10 @@ The passage is a philosophical comparison, not a claim that ambition stops produ
 
 *For example:* Imagine someone working hard on a project who is also, at the same time, at peace with the possibility that it does not succeed. They are ambitious and content in the same hour.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the Daoist comparison the page places beside the compendium's own claim.
+
 ## Sources
 
 - [Laozi, Daodejing 48, Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — the diminishing-doing passage

@@ -31,6 +31,10 @@ An illness takes your health; a cowardly choice takes your character, and only y
 
 *For example:* You can prefer the bigger flat. But if getting it means shading the truth with your landlord, the Stoic says you've swapped a good for an indifferent.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the de as embodied character-power (Daodejing 51) behind the page's Stoic-adjacent claim.
+
 ## Sources
 
 - [Epictetus, Delphi Complete Works (owner's library) — Ench. 1 and Disc. I.30 (Long trans.); Disc. III.19 (Oldfather trans.)](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view?usp=drive_link)

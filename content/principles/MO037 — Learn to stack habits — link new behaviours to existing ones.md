@@ -22,6 +22,10 @@ Judah and colleagues tested the placement of a new behaviour in a routine. In 50
 
 For example: "after I pour my morning coffee, I write for ten minutes". Keep the cue exactly the same each day.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the journey's single step (Daodejing 64) behind stacking from what exists.
+
 ## Sources
 
 - Lally, van Jaarsveld, Potts & Wardle (2010), [How are habits formed](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674), abstract

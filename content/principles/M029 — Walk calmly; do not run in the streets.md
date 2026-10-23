@@ -28,6 +28,10 @@ The elders ask for a calm, deliberate walk without hopping or dragging, and spee
 **For example**
 For one week, walk the same route with your head up and an even stride, neither dragging nor rushing. Rate your mood from 1 to 10 before and after each walk.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the cautious-walker-of-the-winter-stream image the page cites.
+
 ## Sources
 
 - [Advice of an Aztec Father to His Sons (Children and Youth in History)](https://cyh.rrchnm.org/primary-sources/442.html)

@@ -31,6 +31,10 @@ Amabile and Kramer describe small steps in meaningful work as potentially import
 
 *For example:* Suppose you are revising a thesis chapter. Set a subgoal of checking the citations in one paragraph. Afterward, note whether that step moved the chapter forward and how the work felt.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the thousand-mile journey's single step (Daodejing 64) behind small wins.
+
 ## Sources
 
 - [Amabile & Kramer, "The Power of Small Wins," Harvard Business Review, May 2011 (PDF)](https://www.develor.si/wp-content/uploads/2022/05/The-power-of-small-wins.pdf) — the progress principle; small wins boost inner work life; ordinary incremental progress

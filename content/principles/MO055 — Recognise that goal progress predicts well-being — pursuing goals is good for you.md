@@ -22,6 +22,10 @@ The concrete shape of the reported effect: "when participants made more progress
 
 *For example:* Keep a one-week record of daily goal progress and mood, and read the week against your own average.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the journey-not-just-destination line the page attributes to him.
+
 ## Sources
 
 - [Jakubiak, B. K., & Feeney, B. C. (2016). Daily goal progress is facilitated by spousal support and promotes psychological, physical, and relational well-being throughout adulthood. Journal of Personality and Social Psychology, 111(3), 317-340 — open text at PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC5000864/) — the abstract's two findings, the robust-association statement, the Brunstein semester result and the within-person design

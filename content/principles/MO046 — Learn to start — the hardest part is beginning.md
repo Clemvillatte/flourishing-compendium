@@ -23,6 +23,10 @@ Masicampo and Baumeister's abstract records that "Unfulfilled goals persist in t
 
 *For example:* Imagine an essay that has been avoided for a week. The first move is not "write the essay" but "open the document after dinner and write one bad sentence"; the plan then has a time and a place.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the arithmetic the page opens with: whatever is large was once small.
+
 ## Sources
 
 - [Daodejing 64, trans. James Legge, Tao Teh King (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — the sprout, the tower, the single step

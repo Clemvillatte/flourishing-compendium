@@ -25,6 +25,10 @@ Hisamatsu includes thinking, feeling, sitting and standing in the predicament: n
 
 For example: After retirement, a surgeon notices how often she uses her former title to claim authority. She takes this as an occasion to examine her dependence on that role, while leaving open the larger question Hisamatsu asks of every way of being.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the uncarved block (Daodejing 15) behind the page's formless self.
+
 ## Sources
 
 - [Hisamatsu Shin'ichi, An Introduction to Hisamatsu Shin'ichi's Religious Thought (FAS Society, Kyoto, 2012)](http://www.fas.x0.com/writings/hisamatsu/FAS%20hisamatsu.pdf) — Formless Self definition and bondage passage in section 5, Ultimate Crisis and Resurrection (trans. Tokiwa Gishin); fundamental koan in section 6, True Sitting and the Fundamental Koan (trans. Jeff Shore et al.); "being awakened as one is" in section 7, On Mutually Going Into The Matter Of Self

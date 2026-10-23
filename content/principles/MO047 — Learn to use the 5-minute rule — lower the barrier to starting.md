@@ -22,6 +22,10 @@ Starting is the hardest part, and it feels worse in your head than it is once yo
 **For example**
 Set a timer for five minutes and open the document you've been avoiding. Write anything on the section you dread. When the timer rings, decide whether to stop or go on. Note which you chose.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the single step (Daodejing 64) behind lowering the barrier.
+
 ## Sources
 
 - [Pychyl, "Procrastination: Oops, Where Did the Day Go?", Psychology Today 2011](https://www.psychologytoday.com/us/articles/201109/procrastination-oops-where-did-the-day-go)

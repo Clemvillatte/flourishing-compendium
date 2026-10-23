@@ -28,6 +28,10 @@ An unchanged name can hide changed circumstances. Calling someone a friend leave
 
 Imagine your friend's working hours change. Discuss a new time to meet, then check whether the arrangement works for both of you.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the fu return (Daodejing 16) behind becoming over being.
+
 ## Stories
 
 - [[ST096 — Heraclitus and the River|96. Heraclitus and the River]]

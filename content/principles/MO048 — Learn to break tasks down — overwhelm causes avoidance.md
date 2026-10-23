@@ -29,6 +29,10 @@ The authors connect putting off unpleasant tasks with attempts to manage immedia
 
 *For example:* Suppose you have been putting off your tax return. Choose one limited action, such as looking for last year's file, and decide when to try it. Afterward, note what you did and how it felt.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the thousand-mile journey (Daodejing 64) behind breaking tasks down.
+
 ## Sources
 
 - [Sirois & Pychyl, "Procrastination and the Priority of Short-Term Mood Regulation," Social and Personality Psychology Compass 7(2), 2013 (accepted version, White Rose Research Online)](https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf) — abstract (aversive tasks); conclusion (short-term mood repair over intended actions)

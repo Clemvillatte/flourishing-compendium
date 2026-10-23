@@ -28,6 +28,10 @@ Money protects you from some kinds of suffering, and having too little makes eve
 **For example**
 Work out the monthly cost of rent, food, transport and health, then count the months of that you have saved. Treat getting that number to a level you can live with as the first goal, and write down what any money beyond it is for before chasing it.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the desire-and-sufficiency teaching the page cites.
+
 ## Sources
 
 - [Kahneman and Deaton 2010, PNAS 107](https://www.pnas.org/doi/10.1073/pnas.1011492107)

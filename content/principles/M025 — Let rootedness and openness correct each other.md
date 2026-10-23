@@ -20,6 +20,10 @@ Root deeply and cross often, with each correcting the other, is the compendium's
 
 *For example:* A family keeps the farm and takes a working holiday each year; the children grow up fluent in both the local ground and the wider world.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the tree-and-wind echo (Daodejing 26) the page lists as cross-tradition.
+
 ## Psychology parallels
 
 - [The secure base concept: to be attached is to use someone preferentially as a secure base from which to explore (Waters & Cummings, online reprint)](https://psychology.psy.sunysb.edu/attachment/online/waters_cummings.pdf)

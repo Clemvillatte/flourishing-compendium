@@ -32,6 +32,10 @@ The same abstract reports "weaker correlations when individuals were from an ind
 
 *For example:* Imagine a task you could do in your sleep. Raising the difficulty, say by setting a tighter time or a harder case, is one way to bring the challenge level back up toward your skill.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the wu wei effortless action (Daodejing 48) the page pairs with flow.
+
 ## Stories
 
 - [[ST026 — Woodcarver Qing Makes a Bell-Stand|26. Woodcarver Qing Makes a Bell-Stand]]

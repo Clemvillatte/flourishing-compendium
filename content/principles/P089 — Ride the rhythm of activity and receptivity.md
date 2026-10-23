@@ -26,6 +26,10 @@ Before pressing on, ask what you have noticed that your original plan did not ac
 **For example**
 After drafting a page, take a short walk. When you return, read the page before revising and note one passage you want to change.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the yin-yang rhythm (Daodejing 42) the page draws.
+
 ## Sources
 
 - [Dewey, Art as Experience (1934), full text, Internet Archive](https://archive.org/stream/deweyjohnartasanexperience/DEWEY%20John,%20Art%20as%20an%20Experience%22_djvu.txt) — rhythm and doing/undergoing passages verified verbatim

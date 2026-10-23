@@ -22,6 +22,10 @@ Gardner, Lally and Wardle's review, describing the same study's result, puts the
 
 *For example:* Someone three weeks into a stretching routine records that it still requires deliberate attention, without treating day 21 as either a deadline or proof of failure.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the nature-does-not-hurry line the page attributes to him.
+
 ## Sources
 
 - [Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009 — abstract at Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674) — the 18-254 day range and the missed-opportunity finding
