@@ -38,7 +38,7 @@ The replication record matters here. A close 2022 replication of the windfall ex
 
 ### A guided version
 
-None located; the practice is a purchase, not a meditation.
+A research-team-designed exercise exists, published as a teaching activity: the [prosocial spending classroom activity by Aknin and Dunn](https://www.psychologicalscience.org/observer/teaching-current-directions-in-psychological-science-11). Rate your happiness now; spend five minutes vividly re-experiencing the last time you spent about twenty dollars on someone else ("think about how you felt at the time the event occurred and what led to those feelings"); rate your happiness again and take the difference. The authors built it with random assignment, red-paper versus green-paper envelopes and all, so a solo runner keeps the two ratings and the essay.
 
 ## Facets
 
