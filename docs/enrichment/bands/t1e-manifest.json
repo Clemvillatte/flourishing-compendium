@@ -1,0 +1,28 @@
+{
+ "band": "t1e",
+ "source_queue": "queue-thinkers.json (T038-T047 extension, owner-approved 2026-10-23)",
+ "thinkers": [
+  "Heidegger",
+  "Buber",
+  "Husserl",
+  "Patanjali",
+  "Whitehead",
+  "Levinas",
+  "Merleau-Ponty",
+  "Shantideva",
+  "Bergson",
+  "Ricoeur"
+ ],
+ "ids": [
+  "T038",
+  "T039",
+  "T040",
+  "T041",
+  "T042",
+  "T043",
+  "T044",
+  "T045",
+  "T046",
+  "T047"
+ ]
+}

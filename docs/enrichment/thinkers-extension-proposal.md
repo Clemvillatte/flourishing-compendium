@@ -64,6 +64,17 @@ forbids minting passing mentions.
 Gap summary: Y, K, R and the phenomenology/process side of E/P have NO queue
 representative today; the Mesoamerican forest has no eligible thinker (honest).
 
+## Decision (owner sign-off received 2026-10-23)
+
+OWNER APPROVED: "every tradition should have at least the core thinkers representing
+them (as long as they are relevant to our mission)." Executed by supervisor-pplx-1023a
+same day: queue-thinkers.json extended to 55 identities (T038-T047 first wave, T048-T056
+second wave — the forest anchors plus the tradition voices listed in point 2). Evidence
+lists regenerated with word-boundary alias-union scan; counts differ slightly from the
+triage table above (alias handling), all clear the 10+ floor. Bands minted: t1e (T038-T047),
+t1f (T048-T056). Rumi stays dropped (7 files, below floor); Mesoamerican stays an honest
+absence. The original proposal as approved follows.
+
 ## Proposal (owner sign-off requested — the queue is the owner's canonical artifact)
 
 1. EXTEND the queue with the eleven first-wave candidates in rank order: Heidegger,

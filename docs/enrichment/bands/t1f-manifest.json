@@ -1,0 +1,26 @@
+{
+ "band": "t1f",
+ "source_queue": "queue-thinkers.json (T048-T056 extension, owner-approved 2026-10-23)",
+ "thinkers": [
+  "Jaspers",
+  "Gadamer",
+  "Nagarjuna",
+  "Nishida",
+  "MacIntyre",
+  "Dogen",
+  "Shankara",
+  "Mencius",
+  "Nishitani"
+ ],
+ "ids": [
+  "T048",
+  "T049",
+  "T050",
+  "T051",
+  "T052",
+  "T053",
+  "T054",
+  "T055",
+  "T056"
+ ]
+}
