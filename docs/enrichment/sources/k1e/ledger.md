@@ -243,3 +243,13 @@
 ## QC milestone acceptance, items 17-21 (2026-10-23, worker-pplx-k1e-63e0b1a0)
 
 - Focused recheck returned a scoped PASS: the complete Allport quotation matches the carrier sentence, K294's limit is appropriately bounded, and the four historical-attribution glosses carry citations. Acceptance is of the supplied excerpts after repairs, supported by asserted edits and local validation (5 checked, 0 failed) — not an independent file-level audit. Milestone QC for items 17-21 closed; next advisor QC would fall due at item 26 (not reached this session).
+
+## Verification pass, own recent items (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Quotation-boundary check across items 12-21 (K277, K279, K286, K292, K293, K294, K295, K296, K297, K298): all file-carrier blockquotes verified against the cached raw carriers (Seneca 18 Wikisource, Meichenbaum PDF text, Legge DDJ, Meditations Gutenberg, Muller Analects, Hicks Menoeceus, Tutu excerpt) — the Aristotle NE I.7 passage and the Tutu ubuntu passage both match their carriers in wording and quotation-mark structure; the Tutu excerpt's curly quote glyphs are rendered as straight quotes per house typography. Abstract-carrier quotations (Diener/Lucas/Scollon, Thoits & Hewitt, Kuijer et al., Varma et al., Hammons & Fiese, Holt-Lunstad et al., Weinstein & Ryan, Kim et al., Pettigrew & Tropp) were quoted directly from the NCBI eutils records during writing and re-checked against re-fetched records during the QC rounds; the K297 journal metadata was corrected from the PubMed record during QC.
+- Full validation of all session items run before the final save (see final-save entry below for the result).
+
+## Final verification and save (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Full-band validation before final save: 40 kernel files checked, 39 ok, 1 failed — K252 Moral exemplar modelling (prose too short 110 < 150; 4 dashes; Sources has no http URL). K252 is NOT a k1e item and was last touched by the supervisor's proposal-integration commit (74c103fc), not by this worker — flagged for the supervisor, not edited here per band boundaries.
+- All 21 k1e items completed this session are validated ok and pushed to origin/main.
