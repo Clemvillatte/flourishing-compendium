@@ -294,11 +294,23 @@
   "content/principles/AT076 — Learn to assess and monitor attention — track your capacity.md",
   "content/principles/AT077 — Build attentional maintenance — ongoing practice and adaptation.md",
   "content/principles/AT078 — Recognise the ultimate purpose of attention — to live well.md",
-  "content/principles/B018 — Verify in your own experience (the Kalama spirit).md"
+  "content/principles/B018 — Verify in your own experience (the Kalama spirit).md",
+  "content/principles/B160 — Question authority — even the Buddha's.md",
+  "content/principles/B192 — Begin the day with intention; end it with review.md",
+  "content/principles/BE005 — Recognise that behaviour is specific — general be better does not work.md",
+  "content/principles/BE006 — Know that behaviour has a functional analysis — every behaviour serves a function.md",
+  "content/principles/BE011 — Recognise that behaviour is measurable — tracking improves outcomes.md",
+  "content/principles/BE012 — Understand that behaviour is ultimately about values — action should serve what matters.md",
+  "content/principles/BE014 — Learn to use activity scheduling — plan specific activities at specific times.md",
+  "content/principles/BE020 — Learn to use behavioural experiments — test beliefs through action.md",
+  "content/principles/BE031 — Learn to use behavioural experiments for social anxiety — test social predictions.md",
+  "content/principles/BE039 — Learn CBT-I — the gold standard for insomnia.md",
+  "content/principles/BE058 — Learn to balance solitude and sociality — both are needed.md",
+  "content/principles/BE061 — Engage in helping behaviour — contribute to others.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:22:55+00:00",
+ "updated": "2026-10-23T14:23:10+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

@@ -31,6 +31,7 @@ Pick one behaviour to watch today. In the evening, recall a specific instance an
 Before a difficult conversation, set an intention to let the other person finish. That evening, review one moment when you did or did not interrupt, its effect, and what you will do next time.
 
 ## Related concepts
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) for the page's morning intention and evening review.
 
 - [[S120]] — B192 pairs morning intention with evening review; S120 adapts Seneca's daily-review practice for the evening.
 

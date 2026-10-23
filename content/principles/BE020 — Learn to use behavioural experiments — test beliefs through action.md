@@ -22,6 +22,10 @@ The same article lists their functions: to test aspects of a case formulation, t
 **Plain words** A belief can be treated as a prediction and put to the test. Design a small action that the belief says will go badly, run it, and record what actually happens. The article's term for the point of this is discovering something new; the discovery, either way, is data the inner monologue cannot supply.
 
 *For example:* Suppose the prediction is that speaking up in the meeting will be met with mockery. Design the smallest version of the action, run it, and write down the outcome as it happened, not as predicted. The record, not the rehearsal, is the result.
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-experiments parallel the page draws.
+
 ## Psychology parallels
 
 - **[[Behavioral experiments in CBT|Behavioural experiments (CBT)]]**, designing actions to test beliefs is a core CBT technique (Bennett-Levy et al., 2004; Beck, 1976)

@@ -22,6 +22,10 @@ Their design, the guide continues, comes from a cognitive formulation of the pro
 
 *For example:* someone predicts that pausing mid-sentence will make the other person roll their eyes or end the conversation. They plan an experiment with their therapist, then record whether either response occurs.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding for testing social predictions through action.
+
 ## Sources
 
 - [Bennett-Levy, Butler, Fennell, Hackman, Mueller & Westbrook (eds.), Oxford Guide to Behavioural Experiments in Cognitive Therapy (Oxford University Press, 2004; open PDF)](http://cabct.hr/wp-content/uploads/2019/04/Oxford-Guide-to-Behavioural-Experiments-in-Cognitive-Therapy-Bennett-Levy-J-Butler-G-Fennell-M-Hackman-A-Mueller-M-Westbrook-D-compressed.pdf) — operational definition, ch. 1, p. 8; social phobia chapter

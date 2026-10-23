@@ -19,6 +19,10 @@ You need time alone and time with others, but there is no magic ratio to hit. In
 
 *For example:* You block Saturday morning for a solo walk because you chose it, then ring a friend in the evening because you noticed you felt flat. It uses the study's finding that chosen solitude carried fewer costs, and nothing in it says three hours alone is the right amount.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-both parallel for solitude and sociality.
+
 ## Sources
 
 - [Weinstein, N., Vuorre, M., Adams, M. & Nguyen, T. (2023), Balance between solitude and socializing: everyday solitude time both benefits and harms well-being, Scientific Reports 13, 21160 (abstract)](https://pubmed.ncbi.nlm.nih.gov/38052821/)

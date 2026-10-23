@@ -22,6 +22,10 @@ Their discussion concerns demonstrating the events responsible for behaviour, in
 
 *For example:* Suppose scrolling repeatedly begins when a difficult email needs answering. Delaying the reply is one possible explanation to investigate. You could try drafting its first sentence and record whether you still turn to your phone. Do not assume that scrolling alone establishes fatigue or a need for comfort.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-behaviour parallel the page draws for functional analysis.
+
 ## Sources
 
 - [Baer, Wolf and Risley, "Some current dimensions of applied behavior analysis" (1968), Journal of Applied Behavior Analysis 1(1), 91-97](http://www.behaviorpedia.com/wp-content/uploads/2013/01/Baer-Wolf-Risley.pdf) — full text (OCR) quoted verbatim, pp. 93-94; definition of behavioral analysis

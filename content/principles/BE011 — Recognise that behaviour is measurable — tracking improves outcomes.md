@@ -21,6 +21,10 @@ Keeping a record of what you do tends to help you do it, and the evidence is str
 
 *For example:* Each evening you tick a box if you walked that day, and on Sunday you read the week back. It applies Harkin's finding that physically recording progress, and reporting it, gave larger effects.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-data parallel behind the page's tracking.
+
 ## Sources
 
 - [Harkin, B. et al. (2016), Does monitoring goal progress promote goal attainment?, Psychological Bulletin 142(2), 198–229 (abstract)](https://pubmed.ncbi.nlm.nih.gov/26479070/)

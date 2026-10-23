@@ -32,6 +32,10 @@ For insomnia that has dragged on for months, the sleep-medicine guideline to ask
 **For example**
 The person who has tried melatonin, lavender and phone apps but never kept a sleep diary or held one fixed wake time. The protocol asks for both, and for a few weeks of patience before the numbers move.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-sleep parallel: the examined life includes examined sleep.
+
 ## Sources
 
 - [Edinger et al., "Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline", J Clin Sleep Med 17(2), 255-262 (2021), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/) — strong recommendation for multicomponent CBT-I; description of CBT-I components; conditional recommendation against sleep hygiene as a single-component therapy. Quotes checked against the page text. DOI [10.5664/jcsm.8986](https://doi.org/10.5664/jcsm.8986)

@@ -25,6 +25,10 @@ For example: someone is taught a practice by a respected instructor. They consid
 
 (Kalama Sutta, AN 3.65; Dhammapada 74.)
 
+## Related concepts
+
+- [[T011 — Socrates]]: the unexamined-life warning behind the page's questioning of authority.
+
 ## Practice kernels
 
 - [[K139 — Self-as-context|K139 Self-as-context]]

@@ -20,6 +20,10 @@ Hayes and colleagues describe committed action in Acceptance and Commitment Ther
 
 *For example:* someone who wants to be more attentive at home chooses to put their phone away during dinner.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding the page gives behaviour's tie to values.
+
 ## Sources
 
 - [Hayes, Pistorello & Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 2012 (APA)](https://www.apa.org/education/ce/acceptance-commitment.pdf) — quote checked against the PDF text, p. 988

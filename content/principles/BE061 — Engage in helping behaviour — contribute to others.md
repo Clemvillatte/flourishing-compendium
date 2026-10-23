@@ -21,6 +21,10 @@ Finding that volunteers fare better does not tell someone what will happen if th
 
 *For example:* A retired teacher asks a local school about one weekly reading session and checks whether the commitment fits their available time.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-includes-contribution parallel the page draws.
+
 ## Sources
 
 - [Jenkinson et al., "Is volunteering a public health intervention? A systematic review and meta-analysis of the health and survival of volunteers," BMC Public Health (2013)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3766013/) — abstract

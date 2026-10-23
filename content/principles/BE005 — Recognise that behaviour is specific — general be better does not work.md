@@ -21,6 +21,10 @@ That meta-analysis tests if-then planning, so the broader claim that any specifi
 
 *For example:* "When I finish breakfast on a weekday, I will put on my shoes and walk for thirty minutes out of the side door." The plan is in the if-then form the review tested.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-behaviour parallel: the examined life requires specific, examined behaviour.
+
 ## Sources
 
 - [Gollwitzer, P. M. & Sheeran, P. (2006), Implementation intentions and goal achievement: a meta-analysis of effects and processes, Advances in Experimental Social Psychology 38, 69–119 (abstract)](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f)
