@@ -4,15 +4,16 @@
   "Aristotle",
   "William James",
   "Epictetus",
-  "Plato"
+  "Plato",
+  "John Dewey"
  ],
- "in_progress": "John Dewey",
+ "in_progress": null,
  "flagged": {
   "Aristotle": "Reopened for QC: advisor QC round-1: translator metadata, peripatetic/treatises claims, why-section sourcing, section word limits, humanizer tells",
   "William James": "Reopened for QC: QC round-1: verbatim quotes re-anchored to opened carriers; will-to-believe gloss narrowed; reciprocal file marked UNREVIEWED"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:29:09+00:00",
+ "updated": "2026-10-23T05:30:19+00:00",
  "band_done": false
 }
