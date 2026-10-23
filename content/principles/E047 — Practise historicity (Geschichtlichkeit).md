@@ -26,7 +26,7 @@ Authentic historicality takes the inheritance on knowingly. "The resoluteness in
 
 *For example:* you notice that you apologise whenever a meal goes wrong, the way your mother always did. You see the habit as inherited, and you choose to keep the generosity and drop the apology.
 
-(Heidegger, Being and Time §§6, 72-74, trans. Macquarrie and Robinson (1962), Internet Archive; opened 2026-10-21. Passages from §§75-77 were not used.)
+(Heidegger, Being and Time §§6, 72-74, trans. Macquarrie and Robinson (1962), Internet Archive. Passages from §§75-77 were not used.)
 
 ## Sources
 

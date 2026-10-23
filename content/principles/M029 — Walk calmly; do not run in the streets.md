@@ -20,7 +20,7 @@ The original entry's "80 percent pace" is the compendium's idea, and the researc
 
 ### Scope
 
-I did not open Book VI directly. The mood studies are small, and the original entry's breathing-rate claim was not tested.
+Book VI directly is cited at second hand. The mood studies are small, and the original entry's breathing-rate claim was not tested.
 
 **Plain words**
 The elders ask for a calm, deliberate walk without hopping or dragging, and speed when speed is needed. Research suggests an upright, lively gait lifts mood more than a slow one.

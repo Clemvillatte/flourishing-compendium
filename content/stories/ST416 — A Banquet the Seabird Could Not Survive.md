@@ -26,5 +26,5 @@ Philosopher Karyn Lai reads the marquis's failure as the assumption that his vie
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]]: human hospitality fails when its standards take no account of the recipient's way of life.
 
 ## Sources
-- [Zhuangzi, Perfect Enjoyment, section 5, Chinese Text Project](https://ctext.org/zhuangzi/perfect-enjoyment): primary literary source; complete frame, banquet, death and commentary opened 2026-10-21. Quotations follow this page's English wording.
+- [Zhuangzi, Perfect Enjoyment, section 5, Chinese Text Project](https://ctext.org/zhuangzi/perfect-enjoyment): primary literary source; complete frame, banquet, death and commentary. Quotations follow this page's English wording.
 - [Karyn Lai, “Philosophy and Philosophical Reasoning in the Zhuangzi: Dealing with Plurality” (2006), author manuscript](https://unsworks.unsw.edu.au/bitstreams/0c9fd908-f28e-46fd-be66-e746f2eab0be/download): Journal of Chinese Philosophy 33(3), 365–374; section “Debating the Correct View,” seabird discussion; opened and checked against full raw PDF text 2026-10-21.

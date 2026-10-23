@@ -26,7 +26,7 @@ Transcendence is no possession. "Faith is no possession. It confers no secure kn
 
 *For example:* after a death in the family, someone who normally trusts only what can be checked finds that the facts do not touch the grief. They keep the facts and stay with what the grief points to, without claiming to know what it is.
 
-(Jaspers, Way to Wisdom, trans. Ralph Manheim (Yale, 1951), pp. 31-32, 34, 43, 49-50, Internet Archive, opened 2026-10-21. Jaspers's Philosophy vol. 3 and Marcel's The Mystery of Being are cited at second hand.)
+(Jaspers, Way to Wisdom, trans. Ralph Manheim (Yale, 1951), pp. 31-32, 34, 43, 49-50, Internet Archive. Jaspers's Philosophy vol. 3 and Marcel's The Mystery of Being are cited at second hand.)
 
 ## Sources
 

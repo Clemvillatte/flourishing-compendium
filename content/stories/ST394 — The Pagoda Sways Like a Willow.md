@@ -28,5 +28,5 @@ Read alongside D156, Ueda's account illustrates the principle. The principle quo
 - [[D156 — Stay flexible — rigidity is death's companion|D156 Stay flexible — rigidity is death's companion]] — the pagoda survives by bending with the shaking while the pillar holds it to center, the article's own contrast with the oak-like stone tower.
 
 ## Sources
-- [NIPPONIA No.33, "Five-story Pagodas: Why Can't Earthquakes Knock Them Down?" (page 1)](https://web-japan.org/nipponia/nipponia33/en/topic/) — raw text opened 2026-10-21; the material, joints, layered structure and snake-dance passages, the Hōryū-ji caption, the 1995 Kobe fact
-- [NIPPONIA No.33, same article (page 2, shinbashira section)](https://web-japan.org/nipponia/nipponia33/en/topic/index02.html) — raw text opened 2026-10-21; the central pillar and oak-vs-willow passages
+- [NIPPONIA No.33, "Five-story Pagodas: Why Can't Earthquakes Knock Them Down?" (page 1)](https://web-japan.org/nipponia/nipponia33/en/topic/) — raw text; the material, joints, layered structure and snake-dance passages, the Hōryū-ji caption, the 1995 Kobe fact
+- [NIPPONIA No.33, same article (page 2, shinbashira section)](https://web-japan.org/nipponia/nipponia33/en/topic/index02.html) — raw text; the central pillar and oak-vs-willow passages

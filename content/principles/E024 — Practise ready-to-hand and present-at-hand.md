@@ -20,7 +20,7 @@ The Being of equipment he names readiness-to-hand [Zuhandenheit], and the bare l
 
 Section 16 examines equipment that is damaged, missing or obstructive. Presence-at-hand becomes apparent within these disruptions, but Heidegger cautions that "the presence-at-hand which makes itself known is still bound up in the readiness-to-hand of equipment" (§16).
 
-(Being and Time §§15-16, trans. Macquarrie and Robinson; full text at the Internet Archive, opened 2026-10-21.)
+(Being and Time §§15-16, trans. Macquarrie and Robinson; full text at the Internet Archive.)
 
 **Plain words** A hammer can be encountered through the work it serves or examined for its properties. A breakdown draws attention to the tool, yet that attention may remain directed toward getting the job done.
 

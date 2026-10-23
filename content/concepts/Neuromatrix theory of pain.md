@@ -19,7 +19,7 @@ The 2001 abstract says chronic pain syndromes are "often characterized by severe
 
 ### Reading the original entry note
 
-The original entry says pain is "not a simple sensory input". That is accurate to the abstract, which says somatic sensory input "is only a part" of the influences on the output pattern. The neuromatrix is described as "genetically determined and modified by sensory experience", so the theory does not treat pain as imaginary or independent of the body. It is a theory; I did not open an independent test of its claims.
+The original entry says pain is "not a simple sensory input". That is accurate to the abstract, which says somatic sensory input "is only a part" of the influences on the output pattern. The neuromatrix is described as "genetically determined and modified by sensory experience", so the theory does not treat pain as imaginary or independent of the body. It is a theory; an independent test of its claims is cited at second hand.
 ## Sources
 
 - [Melzack, Pain and the neuromatrix in the brain (PubMed)](https://pubmed.ncbi.nlm.nih.gov/11780656/)

@@ -26,7 +26,7 @@ Nothing I opened tells a practitioner to go back to the foundations when advance
 
 *For example:* after a stretch where your sitting has felt flat, you spend a month on sleep, honest dealings and a settled posture before returning to concentration practice.
 
-(Yoga Sutras 2.28-2.30 and 2.32, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 172, 177-178, 181, Internet Archive; Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388; both opened 2026-10-21. Arnold's verses are unnumbered.)
+(Yoga Sutras 2.28-2.30 and 2.32, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 172, 177-178, 181, Internet Archive; Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388; both. Arnold's verses are unnumbered.)
 
 ## Sources
 

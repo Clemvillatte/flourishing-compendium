@@ -20,7 +20,7 @@ The better-tested part is the link between feeling connected to nature and wellb
 
 ### What this supports
 
-Time with living things is worth trying, and the evidence for a small positive association is consistent. It does not show that nature contact causes happiness, or that an "instinct" starves without it. I did not open Wilson's Biophilia.
+Time with living things is worth trying, and the evidence for a small positive association is consistent. It does not show that nature contact causes happiness, or that an "instinct" starves without it. Wilson's Biophilia is cited at second hand.
 
 **Plain words**
 Spend regular time among living things and pay attention to them. Treat it as an experiment about your own mood and energy, not as a duty owed to an instinct.

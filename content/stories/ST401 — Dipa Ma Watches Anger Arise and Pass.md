@@ -22,7 +22,7 @@ Read beside B043, the story carries the principle's centre: insight is not agree
 - [[B043 — Develop insight (vipassana)|B043 Develop insight (vipassana)]]: Dipa Ma's first-person account carries insight as observation, watching thoughts, anger and desire arise and pass until the characteristics are seen in her own experience; the MN 10 frames are carried only as lineage, and that gap is named. ([Tricycle](https://tricycle.org/magazine/enlightenment-lifetime-meetings-remarkable-woman/))
 
 ## Sources
-- [Tricycle, "Enlightenment in This Lifetime: Meetings with a Remarkable Woman" — Amy Schmidt's interview with Dipa Ma](https://tricycle.org/magazine/enlightenment-lifetime-meetings-remarkable-woman/): opened 2026-10-21; quotations verified against the page's raw HTML.
-- [dipama.com, "Teachings"](https://dipama.com/teachings/): opened 2026-10-21; quotations verified against the page's raw HTML.
+- [Tricycle, "Enlightenment in This Lifetime: Meetings with a Remarkable Woman" — Amy Schmidt's interview with Dipa Ma](https://tricycle.org/magazine/enlightenment-lifetime-meetings-remarkable-woman/): quotations verified against the page's raw HTML.
+- [dipama.com, "Teachings"](https://dipama.com/teachings/): quotations verified against the page's raw HTML.
 - [Wikipedia, "Dipa Ma"](https://en.wikipedia.org/wiki/Dipa_Ma): raw wikitext fetched and read 2026-10-21; biographical sentences quoted from the fetched text.
 - B043 definition text read in the working tree (content/principles/B043 — Develop insight (vipassana).md).

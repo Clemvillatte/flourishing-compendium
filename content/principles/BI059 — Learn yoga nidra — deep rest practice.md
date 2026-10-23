@@ -22,7 +22,7 @@ For sleep, a 2026 meta-analysis pooled only five unique studies and rated the ce
 
 ### Scope
 
-I did not open any trauma or PTSD study, so the original entry's claim about trauma is not supported here, and the iRest and Datta citations are cited at second hand. The original entry's "restores like nothing else" is not supported by these trials, which compared yoga nidra mostly with doing nothing.
+Any trauma or PTSD study is cited at second hand; the original entry's claim about trauma is not supported here, and the iRest and Datta citations are cited at second hand. The original entry's "restores like nothing else" is not supported by these trials, which compared yoga nidra mostly with doing nothing.
 
 **Plain words**
 Yoga nidra is guided rest while lying still. Trials show small benefits for stress and sleep, with limited evidence, so treat it as a low-cost rest practice and not as a treatment.

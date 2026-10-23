@@ -15,7 +15,7 @@ The abstract says such accumulated experiences "may help account for an array of
 
 ### Reading the original entry note
 
-The original entry's "flow disruption" is a gloss: the abstract speaks of fewer opportunities for "peak motivational states", and I did not open the full text to check whether it uses the word flow. The abstract also uses "may" and "can", so the original entry's "leads to" is stronger than the authors' hedged phrasing.
+The original entry's "flow disruption" is a gloss: the abstract speaks of fewer opportunities for "peak motivational states", and The full text to check whether it uses the word flow. The abstract also uses "may" and "can" is cited at second hand; the original entry's "leads to" is stronger than the authors' hedged phrasing.
 
 ### Later research
 

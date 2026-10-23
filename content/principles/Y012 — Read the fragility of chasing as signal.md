@@ -30,7 +30,7 @@ The text says the instability is in the cycle of craving, satisfaction and fresh
 
 *For example:* a good review lifts your mood, and a day later the mood is gone. You ask what you were counting on the review to do for you.
 
-(Yoga Sutra 2.15 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 132-133, Internet Archive, opened 2026-10-21.)
+(Yoga Sutra 2.15 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 132-133, Internet Archive.)
 
 ## Sources
 

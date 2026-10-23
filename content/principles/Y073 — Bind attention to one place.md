@@ -26,7 +26,7 @@ The principle says the definition excludes "visualizing" the object and thinking
 
 *For example:* you hold attention on the sensation at the tip of your nose. When it drifts to a plan, you notice and come back. That is a modern use of the idea, not a quotation.
 
-(Yoga Sutra 3.1 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 203-204, Internet Archive, opened 2026-10-21.)
+(Yoga Sutra 3.1 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 203-204, Internet Archive.)
 
 ## Sources
 

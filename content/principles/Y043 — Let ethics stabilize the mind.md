@@ -30,7 +30,7 @@ Neither text says that an unsettled conscience is what stalls meditation, or rec
 
 *For example:* you sit every morning but keep stalling on a lie you told a colleague. Putting it right does not guarantee calm, but it removes one thing that your mind keeps returning to.
 
-(Yoga Sutras 2.29-2.31 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 177-180, Internet Archive; Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, Project Gutenberg #2388; both opened 2026-10-21. Sutra 2.28 not read.)
+(Yoga Sutras 2.29-2.31 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 177-180, Internet Archive; Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, Project Gutenberg #2388; both. Sutra 2.28 not read.)
 
 ## Sources
 

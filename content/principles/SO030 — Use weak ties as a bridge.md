@@ -22,7 +22,7 @@ Weak ties also relate to feeling good: on days when students "interacted with mo
 
 ### Scope
 
-The advice holds best for job and information searches in digital fields. I did not open Burt or Dunbar.
+The advice holds best for job and information searches in digital fields. Burt or Dunbar is cited at second hand.
 
 **Plain words**
 Acquaintances can tell you things your close circle does not know. Keep some of them warm, especially people a step or two outside your inner circle.

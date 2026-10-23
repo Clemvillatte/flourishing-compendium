@@ -26,7 +26,7 @@ Camus ties measure to Greek thought. Heraclitus, he says, "set a limit to this p
 
 *For example:* a friend wants to rage against an employer that treated them badly. Measure is saying the harm was real and that you will not lie about colleagues or burn the references that might help you next year.
 
-(Camus, The Rebel (1951), Part One and Part Five, "Moderation and Excess" and "Thought at the Meridian", trans. Anthony Bower; text opened 2026-10-21.)
+(Camus, The Rebel (1951), Part One and Part Five, "Moderation and Excess" and "Thought at the Meridian", trans. Anthony Bower; text.)
 
 ## Sources
 

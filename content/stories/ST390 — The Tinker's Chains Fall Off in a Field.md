@@ -23,4 +23,4 @@ This page compares Bunyan's account with P184's twice-born route: peace sought t
 
 ## Sources
 - [Grace Abounding to the Chief of Sinners, Project Gutenberg eBook #654](https://www.gutenberg.org/ebooks/654): plain text retrieved 2026-10-21 from https://www.gutenberg.org/cache/epub/654/pg654.txt and read in sections; quotations verbatim from the numbered paragraphs (2, 129-137, 205-207, 229-233, 279-280, and the appended dialogue's tinker aside), with the Gutenberg italics simplified to plain text; paragraph numbers are the text's own numbered sections.
-- P184 definition text read in the working tree (content/principles/P184 — Distinguish the once-born from the twice-born: two routes through suffering.md); James's Varieties was not opened this session and no claim here depends on its wording beyond what P184's definition states.
+- P184 definition text read in the working tree (content/principles/P184 — Distinguish the once-born from the twice-born: two routes through suffering.md); James's Varieties is cited at second hand; no claim here depends on its wording beyond what P184's definition states.

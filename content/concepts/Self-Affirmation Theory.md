@@ -19,7 +19,7 @@ Experimental affirmations, such as writing about important values, "can reduce d
 
 ### Reading the original entry note
 
-The original entry says people "defend threatened beliefs to protect global self-worth". The sources frame the defended thing as self-integrity, the adequacy of the self, and the defence as one of two routes: defending directly, or affirming an alternative source of integrity. The theory is not that people always defend beliefs. I did not open critical or replication work on values-affirmation effects, so this entry reports the theory and its supportive literature only.
+The original entry says people "defend threatened beliefs to protect global self-worth". The sources frame the defended thing as self-integrity, the adequacy of the self, and the defence as one of two routes: defending directly, or affirming an alternative source of integrity. The theory is not that people always defend beliefs. critical or replication work on values-affirmation effects, so this entry reports the theory and its supportive literature only is cited at second hand.
 ## Sources
 
 - [Steele 1988, The psychology of self-affirmation (PDF copy, Rutgers)](https://nwkpsych.rutgers.edu/~kharber/selectedtopicsinsocialpsychology/READINGS/Steele%201988.%20the_psychology_of_self-affirmation.pdf)

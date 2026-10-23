@@ -23,7 +23,7 @@ Dittmar et al. observed "a stronger relationship between materialism and individ
 
 ### Caution
 
-The original entry note cites Kasser (2002) and says the pursuit of possessions predicts lower life satisfaction. I did not open Kasser's book. The meta-analytic figures show a modest average association that is weakest for life satisfaction. Essays should say "tends to go with lower well-being", and avoid wording that treats materialism as a sure cause of unhappiness.
+The original entry note cites Kasser (2002) and says the pursuit of possessions predicts lower life satisfaction. Kasser's book is cited at second hand. The meta-analytic figures show a modest average association that is weakest for life satisfaction. Essays should say "tends to go with lower well-being", and avoid wording that treats materialism as a sure cause of unhappiness.
 
 ## Other formulations in this library
 

@@ -25,6 +25,6 @@ Read beside B176, the story is the principle's smallest units made flesh: a sink
 
 ## Sources
 - [Thich Nhat Hanh, The Miracle of Mindfulness — full text PDF (truthbrary.mpaq.org)](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20%28Books%29/Zen%20Buddhism%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf): downloaded and read 2026-10-21; quotations verified against the extracted text layer.
-- [Jim Forest memorial page (jfi.ssu.ca)](https://jfi.ssu.ca/jim-forest): opened 2026-10-21; Jim Forest's own correction of the book's scene and the infant-Christ line.
-- [Jim Forest, "Learning from Thich Nhat Hanh" (2014)](https://jimandnancyforest.com/2014/01/nhat-hanh-2/) and ["When America Met Thich Nhat Hanh" (2021)](https://jimandnancyforest.com/2021/12/when-america-met-thich-nhat-hanh/): both opened 2026-10-21; the tangerine account and the 1969-70 prison year.
+- [Jim Forest memorial page (jfi.ssu.ca)](https://jfi.ssu.ca/jim-forest): Jim Forest's own correction of the book's scene and the infant-Christ line.
+- [Jim Forest, "Learning from Thich Nhat Hanh" (2014)](https://jimandnancyforest.com/2014/01/nhat-hanh-2/) and ["When America Met Thich Nhat Hanh" (2021)](https://jimandnancyforest.com/2021/12/when-america-met-thich-nhat-hanh/): both; the tangerine account and the 1969-70 prison year.
 - B176 definition text read in the working tree (content/principles/B176 — Treat the present moment as the miracle.md).

@@ -20,7 +20,7 @@ The psychological side is easier to support. Kunda's review found "considerable 
 
 ### Scope
 
-Kunda studied motivated reasoning in general, not specifically identity-protecting consistency. I did not open Nyhan's work, and I did not test the monthly "I no longer believe" exercise.
+Kunda studied motivated reasoning in general, not specifically identity-protecting consistency. Nyhan's work, and I did not test the monthly "I no longer believe" exercise is cited at second hand.
 
 **Plain words**
 Emerson mocks clinging to consistency for its own sake, and psychology shows we are often motivated to protect conclusions we like. Changing your mind in the open is a way to resist both.

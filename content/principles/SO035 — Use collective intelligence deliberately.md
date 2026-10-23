@@ -20,7 +20,7 @@ Sharing information can also hurt. In an experiment with 144 participants, "even
 
 ### Scope
 
-These results come from lab tasks with small groups. I did not open Surowiecki, Sunstein and Hastie, Janis or Stasser and Titus.
+These results come from lab tasks with small groups. Surowiecki, Sunstein and Hastie, Janis or Stasser and Titus is cited at second hand.
 
 **Plain words**
 A group does best when people think alone before they compare notes, when quieter members get turns, and when sharing is staged.

@@ -26,7 +26,7 @@ The text gives two instructions: avoid sowing despair or making the untaught stu
 
 *For example:* you have been arguing with your brother about his spending. For a week you drop the subject and manage your own money in plain view. You see what he asks.
 
-(Bhagavad-Gita ch. 3, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388, opened 2026-10-21. Arnold's verses are unnumbered, so the old cite, 3.26, is not checked against a numbered edition.)
+(Bhagavad-Gita ch. 3, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388. Arnold's verses are unnumbered, so the old cite, 3.26, is not checked against a numbered edition.)
 
 ## Sources
 

@@ -22,7 +22,7 @@ Psychology adds a caution. Mani and colleagues found that financial worries redu
 
 ### Scope
 
-I did not open the other texts in the locator, so I cannot confirm the "dispreferred indifferent" wording or Musonius's teaching. Chosen simplicity is not involuntary poverty.
+The other texts in the locator are cited at second hand, so the "dispreferred indifferent" wording and Musonius's teaching cannot be confirmed here. Chosen simplicity is not involuntary poverty.
 
 **Plain words**
 Seneca recommends rehearsing a simple life for a few days. Lasting poverty is different, and research suggests it can strain thinking.

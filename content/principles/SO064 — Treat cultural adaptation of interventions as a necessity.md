@@ -20,7 +20,7 @@ Castro, Barrera and Holleran Steiker are more cautious. Their review says adapta
 
 ### Scope
 
-Hall's samples are mostly studies of adults with symptoms, and the comparison with unadapted versions is a subset of the evidence. I did not open Gone 2011, Patel et al. 2010 or Lewis-Fernández and Aggarwal.
+Hall's samples are mostly studies of adults with symptoms, and the comparison with unadapted versions is a subset of the evidence. Gone 2011, Patel et al is cited at second hand. 2010 or Lewis-Fernández and Aggarwal.
 
 **Plain words**
 Do not assume a programme tested in one setting will work in another. Check it with the people it is for, and let them help shape what changes.

@@ -26,7 +26,7 @@ The principle reads ipse as "the capacity to be author of your life". That is cl
 
 *For example:* someone is still stubborn at fifty, as at twenty (idem). They also own an apology they made at thirty and keep acting on it (ipse). Both are true of the same person.
 
-(Ricoeur, Oneself as Another, trans. Blamey (1992), pp. 116-117; as quoted in Dierckxsens (Antwerp repository), Rodrigues (Études Ricœuriennes), and Truc; plus the Stanford Encyclopedia of Philosophy; all opened 2026-10-21. The book itself is not openly available.)
+(Ricoeur, Oneself as Another, trans. Blamey (1992), pp. 116-117; as quoted in Dierckxsens (Antwerp repository), Rodrigues (Études Ricœuriennes), and Truc; plus the Stanford Encyclopedia of Philosophy; all. The book itself is not openly available.)
 
 ## Sources
 

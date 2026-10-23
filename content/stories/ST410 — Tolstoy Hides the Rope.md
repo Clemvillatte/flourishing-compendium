@@ -32,8 +32,8 @@ The compendium reads the story as the twice-born route told from inside. James c
 - [[P184 — Distinguish the once-born from the twice-born: two routes through suffering|P184 Distinguish the once-born from the twice-born]] — Tolstoy's collapse and reconstruction illustrate the twice-born route.
 
 ## Sources
-- [Tolstoy, A Confession (1882), Part 4 (Marxists Internet Archive text)](https://www.marxists.org/archive/tolstoy/1882/a-confession/part-4.html) — the standstill, the hidden cord, the dragon fable; opened 2026-10-20
-- [Tolstoy, A Confession, Part 7](https://www.marxists.org/archive/tolstoy/1882/a-confession/part-7.html) — the four ways out; opened 2026-10-20
-- [Tolstoy, A Confession, Part 13](https://www.marxists.org/archive/tolstoy/1882/a-confession/part-13.html) — the labouring people, the changed relation to faith; opened 2026-10-20
-- [James, The Varieties of Religious Experience, Lecture VIII, full text](https://www.authorama.com/varieties-of-religious-experience-7.html) — once-born and sick soul, Tolstoy's recovery; opened 2026-10-20
-- [James, The Varieties of Religious Experience, Lectures VI and VII, full text](https://www.authorama.com/varieties-of-religious-experience-6.html) — the thirst for God, "die to an unreal life"; opened 2026-10-20
+- [Tolstoy, A Confession (1882), Part 4 (Marxists Internet Archive text)](https://www.marxists.org/archive/tolstoy/1882/a-confession/part-4.html) — the standstill, the hidden cord, the dragon fable
+- [Tolstoy, A Confession, Part 7](https://www.marxists.org/archive/tolstoy/1882/a-confession/part-7.html) — the four ways out
+- [Tolstoy, A Confession, Part 13](https://www.marxists.org/archive/tolstoy/1882/a-confession/part-13.html) — the labouring people, the changed relation to faith
+- [James, The Varieties of Religious Experience, Lecture VIII, full text](https://www.authorama.com/varieties-of-religious-experience-7.html) — once-born and sick soul, Tolstoy's recovery
+- [James, The Varieties of Religious Experience, Lectures VI and VII, full text](https://www.authorama.com/varieties-of-religious-experience-6.html) — the thirst for God, "die to an unreal life"

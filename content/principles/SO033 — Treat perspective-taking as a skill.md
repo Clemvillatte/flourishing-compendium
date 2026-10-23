@@ -20,7 +20,7 @@ Two cautions follow from the same literature. First, the 2008 abstract adds that
 
 ### Scope
 
-I found no study that trains perspective-taking over weeks and measures the gain, so "learnable skill" rests on the effects of instructions and incentives. I did not open Todd et al. 2011, Ku et al. 2015, Ames 2004 or Mor et al. 2013.
+I found no study that trains perspective-taking over weeks and measures the gain, so "learnable skill" rests on the effects of instructions and incentives. Todd et al is cited at second hand. 2011, Ku et al. 2015, Ames 2004 or Mor et al. 2013.
 
 **Plain words**
 Ask what the other person knows, wants and fears, and check your guess with them when you can. Your first guess tends to sound like you.

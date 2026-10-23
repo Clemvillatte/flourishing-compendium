@@ -20,7 +20,7 @@ Hasana Sharp reads the passage as a direct answer to the idea that solitude suit
 
 ### Scope
 
-The claim concerns a person guided by reason in a state of law, which Spinoza treats as an ideal, not a description of all legal systems. I did not open the text of IV P37's scholia, where he discusses law and the common good, so I do not go further. The page does not defend any particular law.
+The claim concerns a person guided by reason in a state of law, which Spinoza treats as an ideal, not a description of all legal systems. the text of IV P37's scholia, where he discusses law and the common good, so I do not go further is cited at second hand. The page does not defend any particular law.
 
 **Plain words**
 For Spinoza, a person who lives by reason is freer inside a lawful community than alone. They want the shared rules because they want the common good, and not because they fear punishment.

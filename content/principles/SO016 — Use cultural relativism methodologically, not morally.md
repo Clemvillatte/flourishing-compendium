@@ -20,7 +20,7 @@ The two have been run together in the field's own history. The Stanford entry li
 
 ### Scope
 
-The sources define the distinction. They do not argue about particular practices such as the ones named in the original wording, and I did not open Rosaldo, Donnelly, Sen or Nussbaum.
+The sources define the distinction. They do not argue about particular practices such as the ones named in the original wording, and Rosaldo, Donnelly, Sen or Nussbaum is cited at second hand.
 
 **Plain words**
 Understand a practice from inside its own setting first. Then make a separate judgement about it. Doing the first does not oblige you to skip the second.

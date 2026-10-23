@@ -26,7 +26,7 @@ Read alongside B026, those practices map the four efforts with unusual directnes
 - [[B026 — Apply right effort — the four efforts|B026 Apply right effort — the four efforts]] — the program's own practices map the four efforts: the morning practice and 24 hours (guard), Step Ten's crop-up passage (abandon), turning thoughts to someone to help (develop), the daily reprieve (maintain).
 
 ## Sources
-- [Wikipedia, History of Alcoholics Anonymous](https://en.wikipedia.org/wiki/History_of_Alcoholics_Anonymous) — the Akron founding, the two realizations, June 10 1935; opened 2026-10-21
-- [Big Book ch. 5, "How It Works" (text mirror)](https://12steptoolkit.com/aa-literature/big-book/how-it-works/) and [official AA excerpt PDF P-10](https://www.aa.org/sites/default/files/literature/assets/p-10_howitworks.pdf) — the opening paragraph, half measures; opened 2026-10-21
-- [The Twelve Steps, aa.org](https://www.aa.org/the-twelve-steps) — official step wording; opened 2026-10-21
-- [Big Book ch. 6, "Into Action" (text mirror)](https://12steptoolkit.com/aa-literature/big-book/into-action/) — the daily reprieve passage; opened 2026-10-21
+- [Wikipedia, History of Alcoholics Anonymous](https://en.wikipedia.org/wiki/History_of_Alcoholics_Anonymous) — the Akron founding, the two realizations, June 10 1935
+- [Big Book ch. 5, "How It Works" (text mirror)](https://12steptoolkit.com/aa-literature/big-book/how-it-works/) and [official AA excerpt PDF P-10](https://www.aa.org/sites/default/files/literature/assets/p-10_howitworks.pdf) — the opening paragraph, half measures
+- [The Twelve Steps, aa.org](https://www.aa.org/the-twelve-steps) — official step wording
+- [Big Book ch. 6, "Into Action" (text mirror)](https://12steptoolkit.com/aa-literature/big-book/into-action/) — the daily reprieve passage

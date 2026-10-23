@@ -22,5 +22,5 @@ Then the ending got the same care. On the 1761 Jamaica trial "H4 having only los
 - [[D018 — Give things time|D018 Give things time]]: the four clocks are the principle's gradual-made-visible, thirty years of ripening that ends in a watch, with the endings warning carried by Harrison's own refusal to trial a machine he had found a flaw in and by the second trial demanded after the first succeeded.
 
 ## Sources
-- [Royal Museums Greenwich, "Longitude found - the story of Harrison's timekeepers"](https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem) — dates and trials of H1-H4, the Lizard anecdote, the Board's recommendation; opened 2026-10-21
-- [MacTutor History of Mathematics, "English attack on the Longitude Problem"](https://mathshistory.st-andrews.ac.uk/HistTopics/Longitude2/) — the prize terms, the 1737 Board minutes, Harrison's statement on H4, the trial errors; opened 2026-10-21
+- [Royal Museums Greenwich, "Longitude found - the story of Harrison's timekeepers"](https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem) — dates and trials of H1-H4, the Lizard anecdote, the Board's recommendation
+- [MacTutor History of Mathematics, "English attack on the Longitude Problem"](https://mathshistory.st-andrews.ac.uk/HistTopics/Longitude2/) — the prize terms, the 1737 Board minutes, Harrison's statement on H4, the trial errors

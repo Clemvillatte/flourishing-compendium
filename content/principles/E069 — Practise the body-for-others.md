@@ -26,7 +26,7 @@ Merleau-Ponty says the encounter need not turn me into an object: "the positing 
 
 *For example:* a student stands to give a talk and feels every part of the body as a thing for the room to judge. The practice is to bring attention back to the feet on the floor and the breath, while accepting that the audience's view exists too.
 
-(Sartre, Being and Nothingness, Part III, ch. 2, pp. 351-353, trans. Barnes; Merleau-Ponty, Phenomenology of Perception, trans. Colin Smith (Routledge Classics, 2002), pp. 410-411; de Beauvoir, The Second Sex (1949), Introduction, trans. H. M. Parshley; all opened 2026-10-21.)
+(Sartre, Being and Nothingness, Part III, ch. 2, pp. 351-353, trans. Barnes; Merleau-Ponty, Phenomenology of Perception, trans. Colin Smith (Routledge Classics, 2002), pp. 410-411; de Beauvoir, The Second Sex (1949), Introduction, trans. H. M. Parshley; all.)
 
 ## Sources
 

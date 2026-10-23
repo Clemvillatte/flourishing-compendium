@@ -22,7 +22,7 @@ The original entry's stricter rule, that abstinence "may be the only workable op
 
 ### Scope
 
-I did not open Grant et al. 2015. The sleep review covers alcohol only. For relationship and cognition costs I found no source. Anyone with dependence should decide their goal with a clinician.
+Grant et al is cited at second hand. 2015. The sleep review covers alcohol only. For relationship and cognition costs I found no source. Anyone with dependence should decide their goal with a clinician.
 
 **Plain words**
 Alcohol and other drugs trade short-term reward for later costs, and alcohol disrupts the second half of the night's sleep. For people with dependence, abstinence is not the only option that research supports, but it may suit many.

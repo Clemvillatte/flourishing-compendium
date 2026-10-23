@@ -20,7 +20,7 @@ Vallor argues that living well with new technologies calls for character, not ju
 
 Another study paraphrases Vallor's care as "the skilful, attentive, responsible and emotionally responsive disposition to personally meet the needs of those with whom we share our techno-social environment" (same article). Her chapter on surveillance and self-tracking asks how "cultivating the technomoral virtues" can help us flourish together in an "increasingly panoptic technosocial environment" ([Vallor, 2016, ch. 8, OUP](https://academic.oup.com/book/25951/chapter/193740513)). The twelve-virtue selection has been criticised, including by Howard and Curzer in a book symposium, though it "remains arguably the most important virtue-based approach in ethics of technology" ([Philosophy & Technology, 2022](https://link.springer.com/article/10.1007/s13347-022-00553-z)).
 
-I did not open Floridi's The Ethics of Information, so this page makes no claim about it.
+Floridi's The Ethics of Information is cited at second hand, so this page makes no claim about it.
 
 **Plain words**
 Treat people online as you would in the room. Pausing, reading what the other person actually wrote, and replying with care are all part of that.

@@ -26,7 +26,7 @@ None of these passages mentions a lake settling, and none says that striving is 
 
 *For example:* after a sitting, you leave the timer running for one extra minute and do nothing. The minute is your own addition.
 
-(Yoga Sutras 1.3 and 4.34, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 13, 347-348, Internet Archive; Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388; both opened 2026-10-21.)
+(Yoga Sutras 1.3 and 4.34, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 13, 347-348, Internet Archive; Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388; both.)
 
 ## Sources
 

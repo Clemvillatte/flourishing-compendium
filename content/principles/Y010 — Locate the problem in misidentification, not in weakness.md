@@ -26,7 +26,7 @@ The commentary gives an analogy: the foot has a "liability-to-scratches", the th
 
 *For example:* someone with stage fright first thinks "I am broken". Seeing the fear as something that happens in the body and mind, and not as a statement about who they are, makes room to work on it.
 
-(Yoga Sutras 2.17 and 2.24 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 111, 140, Internet Archive, opened 2026-10-21. Sutras 2.18-2.23 not quoted.)
+(Yoga Sutras 2.17 and 2.24 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 111, 140, Internet Archive. Sutras 2.18-2.23 not quoted.)
 
 ## Sources
 

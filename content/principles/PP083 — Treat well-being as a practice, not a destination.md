@@ -22,7 +22,7 @@ Ryff's 1989 paper supplies a six-part list of well-being aspects: self-acceptanc
 
 ### Scope
 
-I read the Rogers passage in an online excerpt, not the book. I did not open the full Ryff paper beyond its abstract and opening pages.
+I read the Rogers passage in an online excerpt, not the book. the full Ryff paper beyond its abstract and opening pages is cited at second hand.
 
 **Plain words**
 Rogers said the good life is a direction you keep moving in, not a place you reach. Ryff gave a way to measure parts of well-being, but did not test whether it needs daily upkeep.

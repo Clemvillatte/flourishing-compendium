@@ -20,7 +20,7 @@ Gardiner's book explains why acting on this is hard. He argues that "the current
 
 ### What the sources do and do not say
 
-The word "trustee" and the image of debt come from the compendium, not from Jonas or Gardiner in the passages I opened. The Stanford Encyclopedia mentions trusteeship only as an institutional proposal. I did not open the book chapters themselves.
+The word "trustee" and the image of debt come from the compendium, not from Jonas or Gardiner in the passages I opened. The Stanford Encyclopedia mentions trusteeship only as an institutional proposal. the book chapters themselves is cited at second hand.
 
 **Plain words**
 Before a big decision, ask what it hands to people who will live after you and cannot object. Some of the weight belongs to laws and institutions, not only to you.

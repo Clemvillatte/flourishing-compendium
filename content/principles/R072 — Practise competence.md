@@ -20,7 +20,7 @@ Critics treat this less simply. One Feminist Philosophy Quarterly article argues
 
 ### Scope
 
-The original entry's pages 127-130 may not match where Tronto discusses competence; the Feminist Philosophy Quarterly article cites p. 133 for the quoted reasoning, and I did not check the printed book. I did not open the psychology parallel, Bandura 1977.
+The original entry's pages 127-130 may not match where Tronto discusses competence; the Feminist Philosophy Quarterly article cites p. 133 for the quoted reasoning, and I did not check the printed book. the psychology parallel, Bandura 1977 is cited at second hand.
 
 **Plain words**
 Good intentions do not meet a need. Tronto holds that care must actually work, and that this takes skill and enough resources.

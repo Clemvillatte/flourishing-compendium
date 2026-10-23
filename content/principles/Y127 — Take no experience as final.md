@@ -26,7 +26,7 @@ Neither passage says that a luminous state is only a state, or tells anyone to w
 
 *For example:* after an unusually clear morning of reflection, you write a paragraph about it. You then go back to the plain routine of your practice the next day.
 
-(Brihadaranyaka Upanishad 2.3.6, trans. F. Max Muller, Sacred Books of the East vol. 15, via the Brhat open library; Majjhima Nikaya 22, trans. Bhikkhu Sujato, SuttaCentral; both opened 2026-10-21.)
+(Brihadaranyaka Upanishad 2.3.6, trans. F. Max Muller, Sacred Books of the East vol. 15, via the Brhat open library; Majjhima Nikaya 22, trans. Bhikkhu Sujato, SuttaCentral; both.)
 
 ## Sources
 

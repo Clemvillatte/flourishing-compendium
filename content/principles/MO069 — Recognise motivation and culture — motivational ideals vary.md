@@ -16,7 +16,7 @@ Markus and Kitayama describe two construals of the self. In the interdependent o
 
 Iyengar and Lepper tested this with children. "Personal choice generally enhanced motivation more for American independent selves than for Asian interdependent selves". Anglo American children "showed less intrinsic motivation when choices were made for them by others than when they made their own choices", but Asian American children "proved most intrinsically motivated when choices were made for them by trusted authority figures or peers" (Iyengar & Lepper, 1999, Journal of Personality and Social Psychology 76(3), 349-366, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/10101874/)).
 
-These sources show that the conditions for motivation differ across groups, but neither passage judges which ideal is better or says that all ideals are equally valid. They compare group averages from two studies, so they do not predict any one person. I did not open evidence on whether autonomy matters across cultures in other ways.
+These sources show that the conditions for motivation differ across groups, but neither passage judges which ideal is better or says that all ideals are equally valid. They compare group averages from two studies, so they do not predict any one person. evidence on whether autonomy matters across cultures in other ways is cited at second hand.
 
 **Plain words**
 What feels like real motivation to you partly reflects the culture that raised you. For some people it means choosing for themselves, and for others it means choosing with or for people they trust. Don't assume that your own pattern is the standard.

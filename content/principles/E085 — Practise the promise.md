@@ -26,7 +26,7 @@ Marcel, whom the principle cites, gives the same act a first-person angle. "When
 
 *For example:* you promised to help a friend move on Saturday, then a better offer comes in. Keeping the promise tells your friend, and you, that your word does not depend on your mood.
 
-(Ricoeur, Oneself as Another, trans. Blamey (1992), pp. 123, 165, via Truc, Halsema and Dierckxsens; Marcel via the Stanford Encyclopedia of Philosophy; all opened 2026-10-21.)
+(Ricoeur, Oneself as Another, trans. Blamey (1992), pp. 123, 165, via Truc, Halsema and Dierckxsens; Marcel via the Stanford Encyclopedia of Philosophy; all.)
 
 ## Sources
 

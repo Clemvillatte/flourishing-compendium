@@ -20,7 +20,7 @@ On timelines, Lally and colleagues followed 96 volunteers who repeated a daily b
 
 ### Scope
 
-I did not open Sheldon et al. 2013 or Lyubomirsky 2008, which the original entry cites. The studies above cover positive psychology interventions and daily habits, not every well-being practice.
+Sheldon et al is cited at second hand. 2013 or Lyubomirsky 2008, which the original entry cites. The studies above cover positive psychology interventions and daily habits, not every well-being practice.
 
 **Plain words**
 Well-being practices tend to give small gains, and building a daily habit takes anywhere from weeks to many months. A missed day is not a reset.

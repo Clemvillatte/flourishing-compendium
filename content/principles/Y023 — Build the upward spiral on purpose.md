@@ -26,7 +26,7 @@ The commentary speaks of restriction and emergence inside meditation. It does no
 
 *For example:* someone who has never left a party early does so three times in a month. By the fourth week the question "should I stay?" has changed shape. It is a modern illustration of the pattern, not a claim from the sutras.
 
-(Yoga Sutras 3.9-3.11 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 209-211, Internet Archive, opened 2026-10-21. Sutra 3.12 not quoted.)
+(Yoga Sutras 3.9-3.11 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 209-211, Internet Archive. Sutra 3.12 not quoted.)
 
 ## Sources
 

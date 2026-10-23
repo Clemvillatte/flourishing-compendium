@@ -19,7 +19,7 @@ The Construction Corollary states: "A person anticipates events by construing th
 
 ### How well it holds up
 
-Kihlstrom reports that test-retest studies indicate most normal individuals have fairly stable construct systems, and that responses on the test permitted prediction of actual behaviour. He adds that stability "is an open question in Kelly's theory, and should not be assumed in advance". I did not open evidence on therapeutic outcomes, such as fixed-role therapy.
+Kihlstrom reports that test-retest studies indicate most normal individuals have fairly stable construct systems, and that responses on the test permitted prediction of actual behaviour. He adds that stability "is an open question in Kelly's theory, and should not be assumed in advance". evidence on therapeutic outcomes, such as fixed-role therapy is cited at second hand.
 ## Sources
 
 - [Fundamental Postulate (Kelly) (Springer Nature Link)](https://link.springer.com/rwe/10.1007/978-3-319-24612-3_977?error=cookies_not_supported&code=f223088d-9543-4b3f-82f3-4dc58e6361cc)

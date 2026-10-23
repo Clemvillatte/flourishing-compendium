@@ -26,7 +26,7 @@ The next sutras give the means: the cause of future pain is the link between the
 
 *For example:* after a bad week, someone sees that the trouble started with two skipped nights of sleep. Next time they treat sleep as an early warning, not a symptom.
 
-(Yoga Sutra 2.16 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 139, Internet Archive, opened 2026-10-21.)
+(Yoga Sutra 2.16 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 139, Internet Archive.)
 
 ## Sources
 

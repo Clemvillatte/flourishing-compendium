@@ -20,7 +20,7 @@ Marcus's first book is mostly a list of what he learned from particular people. 
 
 A preregistered meta-analysis of 145 papers (24,804 participants, 28 countries) found that gratitude interventions "led to small overall increases in well-being, Hedges' g = 0.19, 95% CI [0.15, 0.22]" ([PNAS](https://www.pnas.org/doi/10.1073/pnas.2425193122)). An earlier meta-analysis of 38 studies concluded that the unique benefits of gratitude "may be overemphasized in the literature" ([Dickens 2017](https://www.tandfonline.com/doi/abs/10.1080/01973533.2017.1323638)). So the effect is real and small.
 
-I did not open Seneca's Letters 9 and 31 or Epictetus for this page.
+Seneca's Letters 9 and 31 or Epictetus for this page is cited at second hand.
 
 **Plain words**
 Gratitude works best when it is specific: a person, and what they did. Expect a modest lift, not a transformation.

@@ -26,7 +26,7 @@ The sutra defines memory by its fidelity to the original object, a definition ab
 
 *For example:* instead of replaying a conversation at 3 a.m., you write a few sentences about it after dinner. You note only what was said, then close the notebook.
 
-(Yoga Sutra 1.11 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 31, Internet Archive, opened 2026-10-21.)
+(Yoga Sutra 1.11 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 31, Internet Archive.)
 
 ## Sources
 

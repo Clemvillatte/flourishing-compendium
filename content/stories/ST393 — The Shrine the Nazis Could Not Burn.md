@@ -30,6 +30,6 @@ Read alongside D039, that sentence offers an analogy for the principle. The prin
 - [[D039 — Make rest the root of activity|D39 Make rest the root of activity]] — Heschel's Sabbath shows rest as the structural root of the week, not the leftover pause.
 
 ## Sources
-- [Heschel, The Sabbath (1951), passages as collected at LibQuotes](https://libquotes.com/abraham-joshua-heschel/works/the-sabbath) — the three quotations, opened 2026-10-21; secondary collection, no book pagination available
-- [Jewish Theological Seminary, Heschel life-and-work timeline](https://heschel.jtsa.edu/life-and-work/) — the 1938 arrest and deportation, the 1940 arrival, the 1951 publication, opened 2026-10-21
-- [Wikipedia, Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel) — the fate of his mother and sisters, opened 2026-10-21
+- [Heschel, The Sabbath (1951), passages as collected at LibQuotes](https://libquotes.com/abraham-joshua-heschel/works/the-sabbath) — the three quotations,; secondary collection, no book pagination available
+- [Jewish Theological Seminary, Heschel life-and-work timeline](https://heschel.jtsa.edu/life-and-work/) — the 1938 arrest and deportation, the 1940 arrival, the 1951 publication
+- [Wikipedia, Abraham Joshua Heschel](https://en.wikipedia.org/wiki/Abraham_Joshua_Heschel) — the fate of his mother and sisters

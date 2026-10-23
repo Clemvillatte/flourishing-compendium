@@ -26,7 +26,7 @@ Woods says the idea follows from "perceptions or of words", not from words alone
 
 *For example:* you think "everyone thinks I got that wrong". You notice there is no particular person or comment behind the sentence, and you write beside it: no evidence, just words.
 
-(Yoga Sutra 1.9 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 26-27, Internet Archive, opened 2026-10-21.)
+(Yoga Sutra 1.9 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 26-27, Internet Archive.)
 
 ## Sources
 

@@ -18,7 +18,7 @@ In the UK, the Prime Minister's 2010 programme aimed to measure progress by "how
 
 ### Scope
 
-These sources show that well-being is measured and stated as a policy aim. I found no evidence here that the measures changed policy decisions or outcomes. I did not open the work by Diener, Clark, Veenhoven or the International Wellbeing Group.
+These sources show that well-being is measured and stated as a policy aim. I found no evidence here that the measures changed policy decisions or outcomes. the work by Diener, Clark, Veenhoven or the International Wellbeing Group is cited at second hand.
 
 **Plain words**
 Governments can ask people how their lives are going and publish the results next to economic figures. Whether this changes decisions is a separate question.

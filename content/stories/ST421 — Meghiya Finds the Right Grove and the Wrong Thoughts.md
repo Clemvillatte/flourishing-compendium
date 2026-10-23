@@ -26,4 +26,4 @@ The account ends with teaching about understanding and releasing thoughts, witho
 - [[B026 — Apply right effort — the four efforts|B026 Apply right effort: the four efforts]]: Meghiya's troubled retreat leads to instructions for abandoning particular unskillful states and developing their supports.
 
 ## Sources
-- [Udana 4.1, Meghiya Sutta: About Meghiya, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.4.01.than.html): PTS Ud 34; complete text opened 2026-10-21. All quotations follow this translation.
+- [Udana 4.1, Meghiya Sutta: About Meghiya, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.4.01.than.html): PTS Ud 34; complete text. All quotations follow this translation.

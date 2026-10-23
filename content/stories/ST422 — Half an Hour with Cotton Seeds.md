@@ -26,4 +26,4 @@ Earlier in the chapter, he distinguishes the school's purpose from the economic 
 - [[P042 — Learn by doing|P042 Learn by doing]]: direct work with materials produces consequences the learners compare, discuss and use in further experiments.
 
 ## Sources
-- [John Dewey, The School and Society, chapter I, The School and Social Progress, Mead Project, Brock University](https://brocku.ca/MeadProject/Dewey/Dewey_1907/Dewey_1907a.html): pp. 32-37; complete chapter opened 2026-10-21. All quotations follow the university transcription.
+- [John Dewey, The School and Society, chapter I, The School and Social Progress, Mead Project, Brock University](https://brocku.ca/MeadProject/Dewey/Dewey_1907/Dewey_1907a.html): pp. 32-37; complete chapter. All quotations follow the university transcription.

@@ -28,7 +28,7 @@ In The Rebel, Camus carries the idea from private meaning to shared life. The re
 
 *For example:* a nurse on an underfunded ward knows one shift will not repair the system. She does the shift anyway, with care, and without telling herself that the system is fine.
 
-(Camus, The Myth of Sisyphus (1942), "An Absurd Reasoning" and "The Myth of Sisyphus," pp. 54-55, 64, 123, trans. Justin O'Brien, Vintage 1991; The Rebel (1951), Part One, trans. Anthony Bower; both opened 2026-10-21.)
+(Camus, The Myth of Sisyphus (1942), "An Absurd Reasoning" and "The Myth of Sisyphus," pp. 54-55, 64, 123, trans. Justin O'Brien, Vintage 1991; The Rebel (1951), Part One, trans. Anthony Bower; both.)
 
 ## Sources
 

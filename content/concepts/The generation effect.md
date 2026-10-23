@@ -28,7 +28,7 @@ A later meta-analysis summarised the field: "Meta-analytic techniques were used 
 ## Sources
 
 - Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory*, 4(6), 592–604. Full text: [PDF](https://andymatuschak.org/prompts/Slamecka1978.pdf) — abstract quoted verbatim; raw-text check done 2026-10-22.
-- Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A. (2007). The generation effect: A meta-analytic review. *Memory & Cognition*, 35(2), 201–210. [PubMed record](https://pubmed.ncbi.nlm.nih.gov/17645161/) — abstract quoted verbatim; opened 2026-10-22.
+- Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A. (2007). The generation effect: A meta-analytic review. *Memory & Cognition*, 35(2), 201–210. [PubMed record](https://pubmed.ncbi.nlm.nih.gov/17645161/) — abstract quoted verbatim.
 
 ## Cited in psychology parallels
 

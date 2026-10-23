@@ -20,7 +20,7 @@ The Stanford Encyclopedia reads this as a rejection of a moral conception of rig
 
 ### Scope
 
-The sources support a naturalistic reading of right and power. The advice to compare incentive structures with mission statements is the compendium's practical extension, and I did not find it in the passages I opened. I did not open Chapter 1 of the Treatise.
+The sources support a naturalistic reading of right and power. The advice to compare incentive structures with mission statements is the compendium's practical extension, and I did not find it in the passages I opened. Chapter 1 of the Treatise is cited at second hand.
 
 **Plain words**
 For Spinoza, right follows power. An institution holds only as much authority as the power and cooperation behind it. To predict how it behaves, look at what it can enforce and who it depends on.

@@ -19,7 +19,7 @@ Do, Rupert and Wolford (2008) reported "strong evidence that the peak-end rule a
 
 ### Limits
 
-The laboratory trials involved cold water and short films, so applying the rule to life as a whole is an extension. I did not open Redelmeier and Kahneman (1996), the original entry's second reference, so the medical-procedure evidence is not summarised here.
+The laboratory trials involved cold water and short films, so applying the rule to life as a whole is an extension. Redelmeier and Kahneman (1996), the original entry's second reference, is cited at second hand, so the medical-procedure evidence is not summarised here.
 
 ## Other formulations in this library
 

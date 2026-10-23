@@ -23,7 +23,7 @@ The view is contested. Stanford's entry points readers to criticism of pre-refle
 
 ### Caution for essays
 
-The original entry cites only Gallagher, 2000, which I did not open. I have verified the ownership and agency definition through secondary sources quoting Gallagher. Cite those quoted passages as reported, not as direct readings of the 2000 text.
+The original entry cites only Gallagher, 2000, at second hand. The ownership and agency definition is verified through secondary sources quoting Gallagher; those quoted passages are reported, not direct readings of the 2000 text.
 
 ## Facets
 

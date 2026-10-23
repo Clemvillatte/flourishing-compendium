@@ -21,7 +21,7 @@ A philosophical critique says Baumeister et al. are taken to have offered the ca
 
 ### Scope of the original entry claim
 
-The original entry says negative events elicit "stronger and faster reactions". The abstract supports stronger, and speed in impression formation ("quicker to form"). I did not open Rozin and Royzman (2001), so no claim here rests on it.
+The original entry says negative events elicit "stronger and faster reactions". The abstract supports stronger, and speed in impression formation ("quicker to form"). Rozin and Royzman (2001) is cited at second hand; no claim here rests on it.
 
 ## Related concepts
 

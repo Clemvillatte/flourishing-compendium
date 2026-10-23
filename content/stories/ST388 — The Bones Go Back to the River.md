@@ -22,8 +22,8 @@ The compendium's reading for D006: the ceremony is return treated as fulfillment
 - [[D006 — Move by return (fu) — everything renews in cycles|D006 Move by return (fu): everything renews in cycles]]: the First Salmon ceremony arranges the fishing year around the salmon's return as fulfillment, holding the return open by sending the bones back to the river; the 1957 flooding is the counter-image of a plan with no stopping, and the feast's continuation the renewal that outlasts it.
 
 ## Sources
-- [Northwest Power and Conservation Council, "First-salmon ceremony"](https://www.nwcouncil.org/reports/columbia-river-history/firstsalmonceremony/) — the ritual's order of operations, Lewis and Clark 1806; opened 2026-10-21
-- [Columbia River Inter-Tribal Fish Commission, "Honoring First Salmon"](https://critfc.org/2013/04/01/honoring-first-salmon/) — the feast and the Salmon volunteer story; opened 2026-10-21
-- [National Geographic, "Why wild salmon remains king in the Pacific Northwest"](https://www.nationalgeographic.com/travel/article/searching-for-wild-pacific-northwest-salmon-from-river-to-table) — the ceremony's logic and its present-day form; opened 2026-10-21
-- [U.S. National Library of Medicine, Native Voices, "1957: Celilo Falls fishery, village destroyed by Dalles Dam"](https://www.nlm.nih.gov/nativevoices/timeline/632.html) — the flooding; opened 2026-10-21
-- [Indian Country Today, "Celilo Falls; Gone and forgotten? PART ONE"](https://ictnews.org/archive/celilo-falls-gone-and-forgotten-part-one/) — the gathering, the continuation; opened 2026-10-21
+- [Northwest Power and Conservation Council, "First-salmon ceremony"](https://www.nwcouncil.org/reports/columbia-river-history/firstsalmonceremony/) — the ritual's order of operations, Lewis and Clark 1806
+- [Columbia River Inter-Tribal Fish Commission, "Honoring First Salmon"](https://critfc.org/2013/04/01/honoring-first-salmon/) — the feast and the Salmon volunteer story
+- [National Geographic, "Why wild salmon remains king in the Pacific Northwest"](https://www.nationalgeographic.com/travel/article/searching-for-wild-pacific-northwest-salmon-from-river-to-table) — the ceremony's logic and its present-day form
+- [U.S. National Library of Medicine, Native Voices, "1957: Celilo Falls fishery, village destroyed by Dalles Dam"](https://www.nlm.nih.gov/nativevoices/timeline/632.html) — the flooding
+- [Indian Country Today, "Celilo Falls; Gone and forgotten? PART ONE"](https://ictnews.org/archive/celilo-falls-gone-and-forgotten-part-one/) — the gathering, the continuation

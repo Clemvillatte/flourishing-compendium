@@ -26,7 +26,7 @@ The principle strips out the ritual and the gods and keeps the structure of work
 
 *For example:* before starting, a teacher writes "for the students who will read this next term". The sentence does not change the task but it changes what the task is for.
 
-(Bhagavad-Gita ch. 3, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388, opened 2026-10-21. Arnold's verses are unnumbered, so the old cite, 3.9-3.16, is not checked against a numbered edition.)
+(Bhagavad-Gita ch. 3, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388. Arnold's verses are unnumbered, so the old cite, 3.9-3.16, is not checked against a numbered edition.)
 
 ## Sources
 

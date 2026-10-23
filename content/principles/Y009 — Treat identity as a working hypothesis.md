@@ -26,7 +26,7 @@ Treating identity as a working hypothesis is a modern practical gloss. The text 
 
 *For example:* someone loses a job and feels they have lost themselves. The practice is to say: the role was a tool I used, and the one who used it is still here to decide what comes next.
 
-(Patanjali, Yoga Sutra 2.6, with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (Harvard Oriental Series 17, 1914), pp. 115-116, Internet Archive, opened 2026-10-21.)
+(Patanjali, Yoga Sutra 2.6, with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (Harvard Oriental Series 17, 1914), pp. 115-116, Internet Archive.)
 
 ## Sources
 

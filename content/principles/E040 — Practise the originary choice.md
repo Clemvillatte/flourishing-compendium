@@ -26,7 +26,7 @@ Sartre insists on revisability. The initial project can change by "a radical con
 
 *For example:* someone always treats work as a test they might fail. They notice that every reason they give for overworking assumes that stance. Changing it means changing what counts as a reason at all.
 
-(Sartre, Being and Nothingness, Part IV, ch. 1, §I, pp. 461-465, trans. Hazel Barnes, Internet Archive, opened 2026-10-21. The old cite "Part IV, ch. 2" was corrected.)
+(Sartre, Being and Nothingness, Part IV, ch. 1, §I, pp. 461-465, trans. Hazel Barnes, Internet Archive. The old cite "Part IV, ch. 2" was corrected.)
 
 ## Sources
 

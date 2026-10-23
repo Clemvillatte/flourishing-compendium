@@ -19,7 +19,7 @@ When a category becomes salient, "people come to see themselves more as the inte
 
 ### Limits
 
-The sources I opened are reviews and descriptions of the theory; I did not open a critical paper. The PMC article says SCT is often described as primarily cognitive, though it can accommodate the emotional significance of membership.
+The sources I opened are reviews and descriptions of the theory; a critical paper is cited at second hand. The PMC article says SCT is often described as primarily cognitive, though it can accommodate the emotional significance of membership.
 ## Sources
 
 - [Self-categorization theory (Wikipedia)](https://en.wikipedia.org/wiki/Self-categorization_theory)

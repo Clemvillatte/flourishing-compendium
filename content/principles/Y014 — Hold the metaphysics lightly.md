@@ -24,13 +24,13 @@ The Buddhist position is stated plainly in the Anattalakkhana Sutta (SN 22.59), 
 
 ### Not sourced here
 
-I did not open sources for the Advaita identity claim or for the pragmatist bracketing, so this page makes no statement about them. The principle's position, to examine procedures without ontological assent and to name where a principle depends on doctrine, is its own method choice. The empirical question whether effects depend on belief is left open, as the principle says.
+Sources for the Advaita identity claim and for the pragmatist bracketing are cited at second hand, so this page makes no statement about them. The principle's position, to examine procedures without ontological assent and to name where a principle depends on doctrine, is its own method choice. The empirical question whether effects depend on belief is left open, as the principle says.
 
 **Plain words** The Yoga text and the Gita speak of an enduring Self. The Buddha's discourse says there is none to find among the five aggregates. The book asks you to test practices and see what they do, while it names where a given practice leans on a doctrine.
 
 *For example:* you try a breathing practice from a tradition whose metaphysics you do not share. You judge it by what it does for your attention, and note which of its instructions depend on a doctrine.
 
-(Yoga Sutra 1.3 with Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 13, Internet Archive; Bhagavad-Gita ch. 2, trans. Sir Edwin Arnold, Project Gutenberg #2388; SN 22.59, trans. Bhikkhu Sujato, SuttaCentral; all opened 2026-10-21. Gita 2.21-2.25 is not checked against a numbered edition.)
+(Yoga Sutra 1.3 with Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 13, Internet Archive; Bhagavad-Gita ch. 2, trans. Sir Edwin Arnold, Project Gutenberg #2388; SN 22.59, trans. Bhikkhu Sujato, SuttaCentral; all. Gita 2.21-2.25 is not checked against a numbered edition.)
 
 ## Sources
 

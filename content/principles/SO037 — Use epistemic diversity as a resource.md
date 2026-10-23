@@ -20,7 +20,7 @@ The result is also disputed. Thompson argued that the paper "contains a theorem 
 
 ### What to take from it
 
-Evidence from real groups is better placed elsewhere: group performance in [Woolley et al.](https://pubmed.ncbi.nlm.nih.gov/20929725/) tracked social sensitivity and balanced turn-taking more than member intelligence. I did not open Page 2007, Phillips et al. 2004 or Reynolds and Lewis 2017, so I make no claim from them.
+Evidence from real groups is better placed elsewhere: group performance in [Woolley et al.](https://pubmed.ncbi.nlm.nih.gov/20929725/) tracked social sensitivity and balanced turn-taking more than member intelligence. Page 2007, Phillips et al is cited at second hand. 2004 or Reynolds and Lewis 2017, so I make no claim from them.
 
 **Plain words**
 Different ways of thinking can help a group find what it would otherwise miss, but the case is conditional, not automatic. It helps when the problem is hard and everyone gets heard.

@@ -36,4 +36,4 @@ The comparison with D080 is limited to the danger of clinging to one side. The s
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]]: the fistfight follows exclusive claims based on limited encounters.
 
 ## Sources
-- [Tittha Sutta: Sectarians (1), Udana 6.4, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.6.04.than.html): the full parable, fistfight and coda; reopened 2026-10-21 by storyteller-e40d7d3c.
+- [Tittha Sutta: Sectarians (1), Udana 6.4, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.6.04.than.html): the full parable, fistfight and coda.

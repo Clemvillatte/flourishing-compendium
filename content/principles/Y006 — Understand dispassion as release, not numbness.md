@@ -26,7 +26,7 @@ Sutra 1.16 goes further: passionlessness is "highest when discernment of the Sel
 
 *For example:* you love your house, and a job takes you to another city. You can sell it with sadness and without panic, because your sense of being all right was never tied to owning it.
 
-(Yoga Sutras 1.15-1.16 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (Harvard Oriental Series 17, 1914), pp. 36-38, Internet Archive, opened 2026-10-21. The old parenthetical rendering "seen and heard" is from a modern translation not re-opened.)
+(Yoga Sutras 1.15-1.16 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (Harvard Oriental Series 17, 1914), pp. 36-38, Internet Archive. The old parenthetical rendering "seen and heard" is from a modern translation not re-opened.)
 
 ## Sources
 

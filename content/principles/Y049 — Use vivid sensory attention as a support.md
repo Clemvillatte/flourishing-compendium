@@ -26,7 +26,7 @@ The sutra describes supernormal perceptions that arise after sustained practice.
 
 *For example:* you cannot settle on a thought, so you rest attention on the feel of your feet on the floor for a few minutes. That is a modern use of a steady sensory object, not the supernormal perception of the sutra.
 
-(Yoga Sutra 1.35 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 72-73, Internet Archive, opened 2026-10-21.)
+(Yoga Sutra 1.35 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 72-73, Internet Archive.)
 
 ## Sources
 

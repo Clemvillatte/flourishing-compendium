@@ -20,7 +20,7 @@ The test is therefore a demotion, as the original entry says, not a rejection. P
 
 ### Scope
 
-Spinoza writes as a narrator describing his own conversion, and the passage is a philosophical argument, not a finding about modern money, fame or pleasure. I did not open the sentence behind the original entry's claim that fame requires "living according to others' understanding", so it is not given here as a quotation.
+Spinoza writes as a narrator describing his own conversion, and the passage is a philosophical argument, not a finding about modern money, fame or pleasure. the sentence behind the original entry's claim that fame requires "living according to others' understanding", so it is not given here as a quotation is cited at second hand.
 
 **Plain words**
 Spinoza does not tell you to drop money, reputation or pleasure. He says they cause trouble when they become the aim, and they are fine as means to something else.

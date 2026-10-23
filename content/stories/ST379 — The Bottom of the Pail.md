@@ -27,5 +27,5 @@ The compendium's reading for B133: the pail is the self as something maintained,
 - [[B133 — Let the self-construct fall away (the Great Death)|B133 Let the self-construct fall away (the Great Death)]]: the nun's release arrives when the pail she laboured to save breaks, the maintenance effort and the moon-image going out with the water; the return half of the principle is named as not carried.
 
 ## Sources
-- [No Water, No Moon, no. 29, ashidakim.com koan collection (Shasekishū and modern Japanese anecdotes)](https://ashidakim.com/zenkoans/29nowaternomoon.html) — story text and poem verbatim; opened 2026-10-21
-- [Yamada Mumon Roshi, "Hakuin's Tears of Awakening", Tricycle, trans. Norman Waddell](https://tricycle.org/article/hakuin-ekaku-awakening/) — the Great Death and returning eko; opened 2026-10-21
+- [No Water, No Moon, no. 29, ashidakim.com koan collection (Shasekishū and modern Japanese anecdotes)](https://ashidakim.com/zenkoans/29nowaternomoon.html) — story text and poem verbatim
+- [Yamada Mumon Roshi, "Hakuin's Tears of Awakening", Tricycle, trans. Norman Waddell](https://tricycle.org/article/hakuin-ekaku-awakening/) — the Great Death and returning eko

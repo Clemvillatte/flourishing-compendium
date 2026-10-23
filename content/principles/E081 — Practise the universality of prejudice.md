@@ -26,7 +26,7 @@ The prejudices "that occupy the interpreter's consciousness are not at his free 
 
 *For example:* you read a letter from a relative and hear it as cold. A second reading, with the thought that you expected coldness, lets you see a nervous attempt to be careful. Neither reading was prejudice-free; the second one knew what it was bringing.
 
-(Gadamer, Truth and Method, 2nd rev. ed. (Continuum, 2004), pp. 269-273, 278, 295, trans. Weinsheimer and Marshall. Quotations and page numbers are taken from the excerpt compiled by Pierre Legrand, which cites this edition; opened 2026-10-21.)
+(Gadamer, Truth and Method, 2nd rev. ed. (Continuum, 2004), pp. 269-273, 278, 295, trans. Weinsheimer and Marshall. Quotations and page numbers are taken from the excerpt compiled by Pierre Legrand, which cites this edition.)
 
 ## Sources
 

@@ -26,5 +26,5 @@ The useful image for D156 is the moving tree with its hold intact. Muir's accoun
 - [[D156 — Stay flexible — rigidity is death's companion|D156 Stay flexible: rigidity is death's companion]]: Muir's chosen tree gives under strain while keeping its hold; the narrative also preserves the limits of that image.
 
 ## Sources
-- [John Muir, The Mountains of California, chapter 10, “A Wind-Storm in the Forests,” Sierra Club John Muir Exhibit](https://vault.sierraclub.org/john_muir_exhibit/writings/the_mountains_of_california/chapter_10.aspx): complete primary chapter opened 2026-10-21; all narrative facts and quotations follow this text.
-- [William A. Magee, “Reminiscence of John Muir,” University of the Pacific Scholarly Commons, item 22](https://scholarlycommons.pacific.edu/muir-reminiscences/22/): archival context, opened 2026-10-21. Magee's recollection of hearing Muir tell the story is not treated as independent witnessing of the storm.
+- [John Muir, The Mountains of California, chapter 10, “A Wind-Storm in the Forests,” Sierra Club John Muir Exhibit](https://vault.sierraclub.org/john_muir_exhibit/writings/the_mountains_of_california/chapter_10.aspx): complete primary chapter; all narrative facts and quotations follow this text.
+- [William A. Magee, “Reminiscence of John Muir,” University of the Pacific Scholarly Commons, item 22](https://scholarlycommons.pacific.edu/muir-reminiscences/22/): archival context. Magee's recollection of hearing Muir tell the story is not treated as independent witnessing of the storm.

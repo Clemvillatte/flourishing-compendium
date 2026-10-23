@@ -24,7 +24,7 @@ After months of micromanaging a project that stalls, you stop forcing it, ask th
 
 ## Sources
 
-- [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/): opened; quotes Tanabe, Philosophy as Metanoetics (trans. Takeuchi Yoshinori, University of California Press, 1986). I did not open Tanabe's book itself.
+- [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/): opened; quotes Tanabe, Philosophy as Metanoetics (trans. Takeuchi Yoshinori, University of California Press, 1986). Tanabe's book itself is cited at second hand.
 - [Frederick Franck, ed., The Buddha Eye: An Anthology of the Kyoto School and Its Contemporaries](https://drive.google.com/file/d/1_zv7Yry2uiUDh1LLAL6EBVyql8jEWgLZ/view): owner's library, opened; Kiyozawa chapter 17
 
 ## Psychology parallels

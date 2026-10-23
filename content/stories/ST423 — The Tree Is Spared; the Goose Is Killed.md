@@ -28,5 +28,5 @@ Read beside D156, the story extends flexibility to the rules someone adopts for 
 - [[D156 — Stay flexible — rigidity is death's companion|D156 Stay flexible: rigidity is death's companion]]: a rule of uselessness, or a fixed compromise, gives way to responsiveness rooted in Dao.
 
 ## Sources
-- [Zhuangzi, The Tree on the Mountain, chapter 20, section 1, James Legge translation, Chinese Text Project](https://ctext.org/zhuangzi/tree-on-the-mountain): complete primary chapter opened 2026-10-21. All direct quotations follow this version.
-- [The Use of the Useless: Zhuangzi, China Heritage](https://chinaheritage.net/journal/the-use-of-the-useless-zhuangzi/): Three Trees & a Gourd, III, Burton Watson translation; opened 2026-10-21 as a cross-check, without mixing its wording into Legge quotations.
+- [Zhuangzi, The Tree on the Mountain, chapter 20, section 1, James Legge translation, Chinese Text Project](https://ctext.org/zhuangzi/tree-on-the-mountain): complete primary chapter. All direct quotations follow this version.
+- [The Use of the Useless: Zhuangzi, China Heritage](https://chinaheritage.net/journal/the-use-of-the-useless-zhuangzi/): Three Trees & a Gourd, III, Burton Watson translation; used as a cross-check, without mixing its wording into Legge quotations.

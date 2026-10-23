@@ -26,7 +26,7 @@ Silence is how it works: "Conscience discourses solely and constantly in the mod
 
 *For example:* on a Sunday evening the usual scrolling stops working, and a plain thought arrives: I do not want to be doing this in ten years. The thought comes with no instructions. The practice is to stay with it long enough to find what it concerns, instead of reaching for the next distraction.
 
-(Heidegger, Being and Time §§54-60, esp. §56 and §58, H. 270-289, trans. Macquarrie and Robinson; text of Division II ch. 2 at the Dominican House of Studies, opened 2026-10-21.)
+(Heidegger, Being and Time §§54-60, esp. §56 and §58, H. 270-289, trans. Macquarrie and Robinson; text of Division II ch. 2 at the Dominican House of Studies.)
 
 ## Sources
 

@@ -18,7 +18,7 @@ Stuart Hall supplies the "not a constraint" half. Cultural identity "is a matter
 
 ### Scope
 
-The words "resource" and "constraint" belong to the compendium. The sources show that thinking through your cultural identity goes with higher self-esteem and that holding both cultures goes with better adaptation. Neither source shows that identity "constrains" people. I did not open Sellers or Cross.
+The words "resource" and "constraint" belong to the compendium. The sources show that thinking through your cultural identity goes with higher self-esteem and that holding both cultures goes with better adaptation. Neither source shows that identity "constrains" people. Sellers or Cross is cited at second hand.
 
 **Plain words**
 Your culture can give you belonging, stories and practices. It is yours to examine, keep what serves you and question what does not.

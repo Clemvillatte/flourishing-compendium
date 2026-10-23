@@ -18,7 +18,7 @@ The same passage keeps a door open that the principle's wording closes: "social 
 
 ### Scope
 
-Confidence does not transfer automatically, but it can carry over when two tasks share sub-skills. I did not open Bandura's 1997 book itself, and I did not look for evidence on how much transfer occurs in practice.
+Confidence does not transfer automatically, but it can carry over when two tasks share sub-skills. Bandura's 1997 book itself, and I did not look for evidence on how much transfer occurs in practice is cited at second hand.
 
 **Plain words**
 Ask "confident at what?" before judging yourself. A failure in one area says little about another, and a win in one area does not guarantee the next unless the skills overlap.

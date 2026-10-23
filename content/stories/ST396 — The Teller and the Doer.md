@@ -29,4 +29,4 @@ The compendium reads the story as P182 caught in the act, and the reading runs t
 
 ## Sources
 - [Gallwey, The Inner Game of Tennis (revised edition, full-text PDF; Bounce-Hit passage printed p. 77, Self 1/Self 2 passage printed p. 11; downloaded and text-extracted 2026-10-21)](https://files.catbox.moe/x4i7a4.pdf) — the Bounce-Hit instructions and the Self 1/Self 2 passage
-- [Steve Tignor, "Inside Story", tennis.com (2016)](https://www.tennis.com/news/articles/inside-story) — the backhand anecdote, the drill's two purposes, "become more aware"; opened 2026-10-21
+- [Steve Tignor, "Inside Story", tennis.com (2016)](https://www.tennis.com/news/articles/inside-story) — the backhand anecdote, the drill's two purposes, "become more aware"

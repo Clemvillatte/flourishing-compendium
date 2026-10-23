@@ -25,7 +25,7 @@ A medical-education study of learning from clinical teachers found that students
 
 ### Note on original citations
 
-The original entry cites Bandura 1977 and 1997. I did not open either book. The quotations above come from secondary sources that quote Bandura, and are marked as such.
+The original entry cites Bandura 1977 and 1997. either book is cited at second hand. The quotations above come from secondary sources that quote Bandura, and are marked as such.
 
 ### Other formulations in this library
 

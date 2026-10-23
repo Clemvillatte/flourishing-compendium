@@ -30,7 +30,7 @@ Arnold's text lists the three domains, but it does not say to adopt one austerit
 
 *For example:* one month you commit to saying nothing about a colleague that you would not say to them. You do not mention it to anyone.
 
-(Bhagavad-Gita ch. 17, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388, opened 2026-10-21. Arnold's verses are unnumbered, so the old cite, 17.14-17.19, is not checked against a numbered edition.)
+(Bhagavad-Gita ch. 17, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388. Arnold's verses are unnumbered, so the old cite, 17.14-17.19, is not checked against a numbered edition.)
 
 ## Sources
 

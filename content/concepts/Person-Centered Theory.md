@@ -19,7 +19,7 @@ Quoted by Bozarth: unconditional positive regard means that "the therapist finds
 
 ### Debate
 
-The ADPCA history says Rogers later stressed that the relationship these attitudes create "was most growth-producing" ([The History of the PCA, ADPCA](https://adpca.org/the-history-of-the-pca/)). Bozarth argues that unconditional positive regard is "the primary change agent", with congruence and empathy embedded in it, so practitioners within the tradition disagree about how the conditions relate (Bozarth PDF). I did not open outcome studies, so no claim here rests on effectiveness evidence.
+The ADPCA history says Rogers later stressed that the relationship these attitudes create "was most growth-producing" ([The History of the PCA, ADPCA](https://adpca.org/the-history-of-the-pca/)). Bozarth argues that unconditional positive regard is "the primary change agent", with congruence and empathy embedded in it, so practitioners within the tradition disagree about how the conditions relate (Bozarth PDF). outcome studies, so no claim here rests on effectiveness evidence is cited at second hand.
 ## Related concepts
 
 - [[Unconditional positive regard]] — one of the six conditions

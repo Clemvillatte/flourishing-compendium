@@ -20,7 +20,7 @@ The scholium qualifies the proposition: "As men seldom live under the guidance o
 
 ### Scope
 
-The advice to extract one lesson and move on is the compendium's addition. I did not find it in the passages I opened. I did not open Spinoza's other remarks on remorse in Part III or any research on self-criticism.
+The advice to extract one lesson and move on is the compendium's addition. I did not find it in the passages I opened. Spinoza's other remarks on remorse in Part III or any research on self-criticism is cited at second hand.
 
 **Plain words**
 For Spinoza, repentance adds pain to a mistake without helping you act better. He still thinks it can help people who are not yet guided by reason.

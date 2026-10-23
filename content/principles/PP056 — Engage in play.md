@@ -16,7 +16,7 @@ Magnuson and Barnett studied 898 university students and found that "playful ind
 
 In a sample of 255 adults, "adult playfulness demonstrated robust positive relations with life satisfaction and an inclination to enjoyable activities and an active way of life", with "minor positive relations with physical fitness" (Proyer, 2013, European Journal of Humour Research 1, 84-98, [abstract](https://europeanjournalofhumour.org/index.php/ejhr/article/view/Rene%20Proyer)). Proyer's other studies relate playfulness to "a high expectation of intrinsic and a low expectation of extrinsic goals", and to greater self-rated and tested ingenuity (Proyer, 2012, Psychological Test and Assessment Modeling 54, 103-127, [abstract](https://core.ac.uk/download/11291759.pdf)).
 
-All these studies are correlational. I did not open any source that tests the principle's claimed mechanism, the suspension of goal-directed striving, and I did not open Brown's 2009 book.
+All these studies are correlational. any source that tests the principle's claimed mechanism, the suspension of goal-directed striving, and Brown's 2009 book is cited at second hand is cited at second hand.
 
 **Plain words**
 Playful adults tend to feel less stressed, cope more actively and report more life satisfaction. Whether play causes this is untested in these studies. Making room for activities you do for their own sake is a low-risk way to test it for yourself.

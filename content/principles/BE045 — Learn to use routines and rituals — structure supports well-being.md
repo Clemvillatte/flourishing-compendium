@@ -18,7 +18,7 @@ For rituals, Norton and Gino ran three experiments in which people who completed
 
 ### Scope
 
-The original entry's claim that routines "reduce decision fatigue" was not supported by a source I read. I did not open Lyons 2016 or Zisberg 2007. Norton and Gino 2014 is a set of lab experiments with short-term measures.
+The original entry's claim that routines "reduce decision fatigue" was not supported by a source I read. Lyons 2016 or Zisberg 2007 is cited at second hand. Norton and Gino 2014 is a set of lab experiments with short-term measures.
 
 **Plain words**
 Regular daily patterns go with better mood, but the studies cannot show routines cause it. Rituals after loss can help by restoring a sense of control.

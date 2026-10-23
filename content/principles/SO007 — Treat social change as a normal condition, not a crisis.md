@@ -18,7 +18,7 @@ Adaptation also depends on the society, not only the person. Integration "can on
 
 ### Limits
 
-These studies are about acculturation. They do not show that all rapid change, including technological or economic change, is best met by the same stance. I did not open Kirmayer and Minas, Inglehart and Welzel, or Henrich et al.
+These studies are about acculturation. They do not show that all rapid change, including technological or economic change, is best met by the same stance. Kirmayer and Minas, Inglehart and Welzel, or Henrich et al is cited at second hand.
 
 **Plain words**
 Change is going to keep arriving, so the useful question is how to build the skills and the institutions that help people adapt. Adapting well is easier in places that make room for it.

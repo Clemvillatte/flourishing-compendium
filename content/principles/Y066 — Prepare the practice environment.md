@@ -26,7 +26,7 @@ In Arnold's rendering the Gita passage asks for a "fair, still spot" that is nei
 
 *For example:* you keep one cushion in a corner of a quiet room and sit there each morning. After a few weeks, sitting there starts to feel like the beginning of the practice.
 
-(Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388; Yoga Sutra 2.46 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 191, Internet Archive; both opened 2026-10-21.)
+(Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388; Yoga Sutra 2.46 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 191, Internet Archive; both.)
 
 ## Sources
 

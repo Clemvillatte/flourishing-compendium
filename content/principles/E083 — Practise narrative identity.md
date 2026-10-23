@@ -26,7 +26,7 @@ Ricoeur finds two ways of lasting in time: character, and keeping one's word. "T
 
 *For example:* after a failed business, someone tells it as "the year I wasted". Retelling it as "the year I learned to price my work" does not erase the loss. It changes which promises they are willing to make next.
 
-(Ricoeur, Oneself as Another, trans. Kathleen Blamey (Chicago, 1992), pp. 147-148, 123, via SEP; Truc, "Narrative Identity against Biographical Illusion", Études Ricœuriennes 2008; Halsema, "Time" (VU Research Portal); all opened 2026-10-21.)
+(Ricoeur, Oneself as Another, trans. Kathleen Blamey (Chicago, 1992), pp. 147-148, 123, via SEP; Truc, "Narrative Identity against Biographical Illusion", Études Ricœuriennes 2008; Halsema, "Time" (VU Research Portal); all.)
 
 ## Sources
 

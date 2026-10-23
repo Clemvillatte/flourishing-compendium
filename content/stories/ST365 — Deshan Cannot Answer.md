@@ -23,4 +23,4 @@ The compendium's reading for B129: her question bypassed the commentaries he car
 
 ## Sources
 - [Dōgen, Shōbōgenzō, "On the Mind Cannot Be Held Onto" (oral version, 1241) with the Shinji Shōbōgenzō kōan 4 addendum, pp. 188-194 (thezensite PDF)](https://www.thezensite.com/ZenTeachings/Dogen_Teachings/Shobogenzo/017shinFukatoku.pdf) — the rice-cake dialogue, the candle, the burning; opened and read in full 2026-10-21
-- [John C. H. Wu, The Golden Age of Zen (1967), chapter on Te-shan, pp. 150-154, reproduced by Terebess](https://terebess.hu/zen/deshan.html) — Deshan's motive, "mind-refreshers", the burning; opened 2026-10-21
+- [John C. H. Wu, The Golden Age of Zen (1967), chapter on Te-shan, pp. 150-154, reproduced by Terebess](https://terebess.hu/zen/deshan.html) — Deshan's motive, "mind-refreshers", the burning

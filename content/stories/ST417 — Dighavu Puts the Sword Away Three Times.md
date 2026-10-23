@@ -28,5 +28,5 @@ The practical comparison with B068 concerns repeated reconsideration, followed b
 - [[B068 — Find the gap between stimulus and response|B068 Find the gap between stimulus and response]]: remembering counsel repeatedly interrupts revenge, and the eventual agreement changes what each person can expect from the other.
 
 ## Sources
-- [Dighavu-kumara Vatthu, The Story of Prince Dighavu, Mahavagga X.2.3-20, Vipassana Fellowship](https://www.vipassana.com/canon/vinaya/mv10-2-3.html): complete primary narrative opened 2026-10-21; all direct quotations follow this version.
-- [Noble Warrior, chapter Twelve, The Quarrel at Kosambi](https://www.dhammatalks.org/books/NobleWarrior/Section0018.html): embedded translation Mv 10:2.2-20, opened 2026-10-21 to check the monks' refusal before and after the story.
+- [Dighavu-kumara Vatthu, The Story of Prince Dighavu, Mahavagga X.2.3-20, Vipassana Fellowship](https://www.vipassana.com/canon/vinaya/mv10-2-3.html): complete primary narrative; all direct quotations follow this version.
+- [Noble Warrior, chapter Twelve, The Quarrel at Kosambi](https://www.dhammatalks.org/books/NobleWarrior/Section0018.html): embedded translation Mv 10:2.2-20, checked the monks' refusal before and after the story.

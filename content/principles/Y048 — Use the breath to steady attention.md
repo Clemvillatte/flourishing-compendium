@@ -26,7 +26,7 @@ The sutra names expulsion and retention. It does not mention extending the exhal
 
 *For example:* scattered before a meeting, you breathe out slowly for a count of six, five times, then turn to the first agenda item. The count is your own addition.
 
-(Yoga Sutra 1.34 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 72, Internet Archive, opened 2026-10-21.)
+(Yoga Sutra 1.34 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 72, Internet Archive.)
 
 ## Sources
 

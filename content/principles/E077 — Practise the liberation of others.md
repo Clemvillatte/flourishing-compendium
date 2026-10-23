@@ -26,7 +26,7 @@ In the Conclusion of The Second Sex the same idea becomes social. She does not w
 
 *For example:* a manager who has been the only woman on her team argues for a transparent promotion process, even though the old system favoured her. The test is whether the people behind her get more room to choose.
 
-(de Beauvoir, The Ethics of Ambiguity (1947), Parts II-III, trans. Bernard Frechtman, full text at Marxists Internet Archive; The Second Sex (1949), Conclusion, trans. H. M. Parshley, Marxists Internet Archive; both opened 2026-10-21. The old cite "Part III" for the first quote is corrected to Part II.)
+(de Beauvoir, The Ethics of Ambiguity (1947), Parts II-III, trans. Bernard Frechtman, full text at Marxists Internet Archive; The Second Sex (1949), Conclusion, trans. H. M. Parshley, Marxists Internet Archive; both. The old cite "Part III" for the first quote is corrected to Part II.)
 
 ## Sources
 

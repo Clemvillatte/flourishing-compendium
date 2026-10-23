@@ -19,7 +19,7 @@ A 2021 systematic review and multilevel meta-analysis by Cole, Smith, Ragan, Suu
 
 ### Where process focus is studied now
 
-The 2025 Springer paper summarises academic work by Krause and Freund (2016) as showing process focus to be "superior for positive goal-related outcomes (e.g., task persistence and performance, higher levels of self-efficacy)" and negatively linked to procrastination. It also says that combining process and outcome representations "may yield beneficial effects" ([Springer, 2025](https://link.springer.com/article/10.1007/s10212-025-00995-x)). I did not open Krause and Freund.
+The 2025 Springer paper summarises academic work by Krause and Freund (2016) as showing process focus to be "superior for positive goal-related outcomes (e.g., task persistence and performance, higher levels of self-efficacy)" and negatively linked to procrastination. It also says that combining process and outcome representations "may yield beneficial effects" ([Springer, 2025](https://link.springer.com/article/10.1007/s10212-025-00995-x)). Krause and Freund is cited at second hand.
 
 ### In the compendium
 

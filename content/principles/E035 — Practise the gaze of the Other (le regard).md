@@ -30,7 +30,7 @@ Sartre does not offer a way to switch the look off. He names two authentic attit
 
 *For example:* you rehearse a toast alone and it sounds fine. A friend opens the door and the same words feel stiff. Name what just happened, then choose: finish it, change it, or ask the friend what they heard.
 
-(Sartre, Being and Nothingness, Part III, ch. 1, pp. 221-222, 259-263, 290; Part IV, ch. 1, §III, pp. 553-554, trans. Hazel Barnes; full text at the Internet Archive, opened 2026-10-21.)
+(Sartre, Being and Nothingness, Part III, ch. 1, pp. 221-222, 259-263, 290; Part IV, ch. 1, §III, pp. 553-554, trans. Hazel Barnes; full text at the Internet Archive.)
 
 ## Sources
 

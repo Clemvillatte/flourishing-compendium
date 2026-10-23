@@ -16,7 +16,7 @@ Te Aka Māori Dictionary defines whanaungatanga as "a relationship through share
 
 It is also something one does. A kaupapa Māori mental-health report describes it as "the direct and deliberate action of forming relationships" and says that as a practice it "acknowledges that relationships are at the heart of improving Māori health" ([Awa Association report, 2020](https://www.health.govt.nz/system/files/2020-02/awa-association-report-14feb2020.pdf)). Te Ara notes that kin bonds "extend well beyond the nuclear family", and that whanaungatanga "may decide a particular course of action" ([Te Ara](https://teara.govt.nz/en/maori-manners-and-social-behaviour-nga-mahi-tika/page-2)).
 
-I did not open Durie (1994) or Mead (2003), so I rely on the sources above.
+Durie (1994) or Mead (2003) is cited at second hand; this page relies on the sources above.
 
 **Plain words**
 Belonging is built through shared work, time and obligations, and it can reach beyond blood relatives. Make relationships on purpose, wherever you spend your days. People usually belong more fully to a team or street when they have done things together there.

@@ -19,7 +19,7 @@ Criminogenic needs are "dynamic risk factors that are directly linked to crimina
 
 ### Evidence and scope
 
-Andrews and Bonta report that programs adhering to the model "have been shown to reduce offender recidivism by up to 35%" (2010 PDF, written by the model's authors). A review of implementation says interventions adhering to all three principles are associated with significant reductions in recidivism, and those that did not have poorer outcomes, citing Andrews and Dowden (2005) ([Implementation of the Risk-Need-Responsivity Framework, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4376237/)). The ERIC article notes that RNR "is not a theory of intervention in itself", but a set of principles within which many interventions can be used. I did not open critiques from the Good Lives tradition, so no criticism is summarised here.
+Andrews and Bonta report that programs adhering to the model "have been shown to reduce offender recidivism by up to 35%" (2010 PDF, written by the model's authors). A review of implementation says interventions adhering to all three principles are associated with significant reductions in recidivism, and those that did not have poorer outcomes, citing Andrews and Dowden (2005) ([Implementation of the Risk-Need-Responsivity Framework, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4376237/)). The ERIC article notes that RNR "is not a theory of intervention in itself", but a set of principles within which many interventions can be used. critiques from the Good Lives tradition, so no criticism is summarised here is cited at second hand.
 ## Sources
 
 - [Public Safety Canada, Risk-need-responsivity model for offender assessment and treatment](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rsk-nd-rspnsvty/index-en.aspx)

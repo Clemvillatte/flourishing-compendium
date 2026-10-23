@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 305** — Practise fa'asamoa
 
-The original entry names Tuhiwai Smith's Decolonizing Methodologies as a source. I did not open it, and it is not a Samoan source, so the claims below rest on Samoan-authored and Samoan-focused research.
+The original entry names Tuhiwai Smith's Decolonizing Methodologies as a source. it, and it is not a Samoan source, so the claims below rest on Samoan-authored and Samoan-focused research is cited at second hand.
 
 In a Family Centre study of Samoan perspectives on mental health, participants described a self that "exists in relationship to other people both living and those who have passed on" ([Tamasese, Peteru and Waldegrave project, via Dulwich Centre](https://dulwichcentre.com.au/wp-content/uploads/2020/01/Honouring_Samoan_ways_and_understandings_Multiple_sites_of_healing_Kiwi_Tamasese.pdf)). The report summary says mental wellness was described as "a state of relational harmony, where personal elements of spiritual, mental and physical are in balance", and that mental ill health was sometimes linked to breaches of forbidden and sacred relationships ([Ole Taeao Afua, Samoa Digital Library](https://sadil.ws/handle/123456789/973)).
 

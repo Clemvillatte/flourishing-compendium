@@ -20,7 +20,7 @@ Glenn Albrecht's related term, solastalgia, is "the distress that is produced by
 
 ### Limits
 
-The link from grief to action is a hope in these sources, not a measured result. One secondary article reports that Albrecht sees solastalgia as something that "invites grieving and then a call to action" ([Taylor and Francis](https://www.tandfonline.com/doi/full/10.1080/17524032.2024.2427289)). I did not open Albrecht's book or the Cunsolo and Landman volume. Persistent distress that disrupts sleep, work or relationships is a reason to talk to a health professional.
+The link from grief to action is a hope in these sources, not a measured result. One secondary article reports that Albrecht sees solastalgia as something that "invites grieving and then a call to action" ([Taylor and Francis](https://www.tandfonline.com/doi/full/10.1080/17524032.2024.2427289)). Albrecht's book or the Cunsolo and Landman volume is cited at second hand. Persistent distress that disrupts sleep, work or relationships is a reason to talk to a health professional.
 
 **Plain words**
 Grief over a lost place makes sense when the place mattered to you. Name it, talk about it with someone, and see whether it points toward something you want to protect.

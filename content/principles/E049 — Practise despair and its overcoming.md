@@ -24,7 +24,7 @@ The more secular-sounding version of the principle is in Either/Or, where Judge 
 
 *For example:* someone realises that every major choice in their twenties was made to satisfy an audience. The first step is to name that plainly. After that, decide which of those commitments they would still choose, knowing they were never chosen freely.
 
-(Kierkegaard, The Sickness unto Death, Part One and Part Two, trans. Walter Lowrie (1941/1954), pp. 146-147, 153, 202, 262; Either/Or, Part II, trans. Hong, in Hong and Hong, The Essential Kierkegaard; both opened 2026-10-21.)
+(Kierkegaard, The Sickness unto Death, Part One and Part Two, trans. Walter Lowrie (1941/1954), pp. 146-147, 153, 202, 262; Either/Or, Part II, trans. Hong, in Hong and Hong, The Essential Kierkegaard; both.)
 
 ## Sources
 
