@@ -11,6 +11,14 @@ Abhyāsa (Sanskrit, "practice") is the Yoga tradition's term for sustained, repe
 
 > "Of these, practice is the effort to secure steadiness." (Yoga-Sutra 1.13, [Wisdom Library](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216612.html))
 
+### Practice and its partner
+
+Practice is never taught alone in the Yoga Sutra. Sutra 1.12 reads, in the Rama Prasada translation: "They are restrained by practice and desireless-ness." The word-by-word gloss gives abhyāsa as "by practice" and vairāgya as "desirelessness, unattachment" ([Yoga-Sutra 1.12, Wisdom Library](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216611.html)). On a plain reading, effort alone can harden into strain and release alone can drift, so the text asks for the steady effort of abhyāsa together with the loosening grip of [[Vairagya]].
+
+### What it is not
+
+Abhyāsa is not intensity. Sutra 1.14, quoted below, asks for a long time and no interruption, which describes regularity and not force. It is also not a claim about outcomes: the quotations here show what the tradition prescribes, and say nothing of how reliably it works.
+
 ### How practice becomes firm
 
 Sūtra 1.14 gives the conditions:
