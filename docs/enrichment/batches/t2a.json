@@ -87,11 +87,21 @@
   "content/principles/D081 — Recognize the relativity of perspectives.md",
   "content/principles/D082 — Don't impose your frame on others.md",
   "content/principles/D083 — Reframe to dissolve conflict.md",
-  "content/principles/D084 — Value the useless.md"
+  "content/principles/D084 — Value the useless.md",
+  "content/principles/D085 — Prefer humble freedom to gilded captivity.md",
+  "content/principles/D086 — Don't sell your nature for glory.md",
+  "content/principles/D087 — Hold identity lightly.md",
+  "content/principles/D088 — Don't take offense personally (the empty boat).md",
+  "content/principles/D089 — Grief without destruction.md",
+  "content/principles/D090 — Accept death as transformation.md",
+  "content/principles/D091 — Befriend change (hua).md",
+  "content/principles/D092 — Don't chase happiness directly.md",
+  "content/principles/D093 — Make happiness independent of externals.md",
+  "content/principles/D094 — Don't exhaust yourself for what you don't need.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:16:22+00:00",
+ "updated": "2026-10-23T14:16:39+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it."
 }

@@ -42,6 +42,10 @@ The compendium applies these passages as advice for responding to changes one ca
 
 [[D110 — Hold events lightly — the horse story]]
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the word hua itself: the Zhuangzi's transformation running through everything, the page's engine.
+
 ## Sources
 
 - [Zhuangzi, ch. 2 and 6, Legge translation (METIS English Classics)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — hua passages; quotations verbatim

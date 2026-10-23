@@ -21,6 +21,10 @@ Zhuangzi looks back beyond the death itself. In his account, changes brought his
 
 *For example:* As a modern writing exercise, describe the passage first as an account of bereavement, then as an account of transformation. Identify which details support each reading, without assuming either description should change a mourner's feelings.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the drumming on the basin after his wife's death (Book XVIII) the page draws on.
+
 ## Sources
 
 - [Zhuangzi, trans. James Legge (ETH Zurich edition)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book XVIII, the wife-death passage

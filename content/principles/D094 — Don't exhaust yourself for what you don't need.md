@@ -23,6 +23,10 @@ Before accepting a new commitment, write down what you hope to gain and what you
 
 *For example:* Imagine being offered a bonus for extra evening shifts. You check which planned visits to a friend you would have to cancel before deciding.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the cicada, the mantis and the magpie absorbed in the gain in front of them.
+
 ## Sources
 
 - [The Writings of Kwang-zu, James Legge translation, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — chapter 20, section 8 (mantis and cicada)

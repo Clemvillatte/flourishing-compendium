@@ -36,6 +36,10 @@ The famous scene is in chapter 18. Zhuangzi's wife has died and he is found drum
 
 *For example:* Imagine someone whose grandmother has died at ninety. They cry at the funeral, and a month later they can talk about her whole life, from birth to its end, without it feeling like a betrayal. On Zhuangzi's account, that second state is understanding what was appointed, not a lack of love.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the chapters the page reads for whether death-dread aims at the right thing.
+
 ## Sources
 
 - Zhuangzi, chs. 2, 6, 18 and 22, trans. James Legge, *The Texts of Taoism* (1891), ETH Zurich Metis edition: [PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)

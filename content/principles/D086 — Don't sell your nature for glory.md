@@ -33,6 +33,7 @@ Before accepting an attractive position, find out what it requires of you and wh
 Imagine a promotion with a higher salary that requires weekend travel, when you have committed those weekends to caring for a parent. Ask for different travel terms, or decline if that commitment cannot be protected.
 
 ## Related concepts
+- [[T009 — Zhuangzi]]: the fox and the leopard (chapter 20) whose beauty traps them, the page's animals for nature sold for glory.
 
 - [[D085]] — D085 emphasizes retaining freedom; D086 questions rewards offered at the recipient's expense
 

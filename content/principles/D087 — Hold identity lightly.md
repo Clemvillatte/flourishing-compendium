@@ -27,6 +27,10 @@ Allow your description of yourself to change when it no longer fits. You can kee
 
 Imagine that you have always avoided asking for help because independence matters to you. During an illness, if it feels safe and useful, you might ask someone you trust for one specific favour. Afterwards, consider whether receiving that help conflicted with the independence you value.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the butterfly dream that closes chapter 2, the page's image for identity held lightly.
+
 ## Sources
 
 - [Legge's translation of the butterfly dream, Zhuangzi ch. 2 (Qiwulun), with the Chinese](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm): the passage quoted above.

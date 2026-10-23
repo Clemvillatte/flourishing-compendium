@@ -23,6 +23,10 @@ The shout only starts when there is someone in the boat to blame: the choleric m
 
 *For example:* Suppose a driver cuts you off. You know the gap you now have to the car in front, and nothing about the other driver's purpose. The empty-boat reading is to adjust your speed first and leave the question of their intention open.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the empty-boat parable the page retells for offense taken personally.
+
 ## Stories
 
 - [[ST166 — Achilles and Patroclus|166. Achilles and Patroclus]]

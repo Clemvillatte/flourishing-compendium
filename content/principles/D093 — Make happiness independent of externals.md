@@ -24,6 +24,10 @@ The consequence the chapter draws is blunt: "If they do not got these things, th
 
 *For example:* The person who can only enjoy the beach when the weather's perfect has rented their peace from the forecast.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the chapter 18 opening the page quotes: enjoyment listed against what the world chases.
+
 ## Sources
 
 - [Zhuangzi, Legge trans., ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Part 18, opening

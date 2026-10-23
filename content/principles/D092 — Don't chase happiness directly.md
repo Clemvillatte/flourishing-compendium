@@ -23,6 +23,10 @@ People in this passage wear themselves out getting the things they expect to enj
 
 *For example:* Suppose a vacation planned for maximum fun. As a modern application, plan the ingredients you can control, the walk, the meal, the people, and leave the fun itself unplanned.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the Book XVIII survey of where perfect enjoyment is found, the page's opening question.
+
 ## Sources
 
 - [Zhuangzi, trans. James Legge (ETH Zurich edition)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book XVIII, the perfect-enjoyment opening

@@ -31,6 +31,7 @@ The pheasant is chapter 3's shorter version of the same argument:
 *For example:* The corporate job with the title and the golden handcuffs versus the smaller role where you can look at yourself in the mirror — the pheasant knows.
 
 ## Related concepts
+- [[T009 — Zhuangzi]]: the sacrificial ox and the pig (chapters 3 and 17) the page sets against gilded captivity.
 
 - [[D086]] — same Daoist refusal from two sides: the ox fed and robed for the temple is the image of gilded captivity
 
