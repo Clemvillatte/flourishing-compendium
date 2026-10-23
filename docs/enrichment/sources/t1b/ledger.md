@@ -120,3 +120,12 @@ Flag: "CBS definition and origins are fixed; still needed: quote the actual defi
 2. CBS DEFINITION added to Their position, quoted in full from the opened 2012 carrier, with the carrier listed in Sources.
 3. TRADITION GATING: gated inventory — 11 ACT/CBS principles (AF039-AF046, BE006/BE012/BE017/BE036/BE062, MO013, PP081), 24 CBS-anchored concepts, all 7 ACT kernels, 3 Hayes/ACT stories (ST137, ST332 Quicksand, ST333 Chessboard; ST331 Hungry Tiger is a Buddhist koan — dropped), the William James thinker link (the APA paper itself cites James 1907). The ~90 Stoic/Daoist/existential/koan/pragmatist parallels dropped from the inventory.
 4. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
+
+## 2026-10-23 — worker-pplx-t1b-2d4e7a91 — Gross (T017), QC round-4 repair
+
+Flag: "quote is now fixed; still needed: replace the formula explanation '4 = appraisal-dependent' with the exact claim (4 = control of display intensity?) and quote it from the source; verify against an accessible text." Disposition: the "4 = appraisal-dependent" formula gloss appears NOWHERE in the repo (removed by the predecessor's rebuild — verified at HEAD); nothing to replace. What was done:
+
+1. CARRIERS OPENED: both PDFs (2002 Psychophysiology reprint at psychiatry.wisc.edu; 2015 Psychological Inquiry reprint at johnnietfeld.com — downloaded and text-extracted). The 2002 quotes re-verified verbatim (the definition sentence; the Figure 1 five-point caption — the apparent parenthetical mismatch is a PDF-extraction artifact rendering "(1)" as "~1!"; "Stanford University" affiliation). The 2015 abstract's extended-model sentence VERIFIED verbatim ("this model considers emotion regulation to be one type of valuation, and distinguishes three emotion regulation stages (identification, selection, implementation)") — the Core-ideas gloss (valuation, identification, selection, implementation) is carried by it, and the sentence is NOW QUOTED on the page (previously the 2015 carrier was listed but not quoted).
+2. FORMATTING: the jammed "## Core ideas" heading (no blank line after the Figure-1 paragraph) fixed.
+3. TRADITION GATING: gated inventory — 10 AF-book emotion-regulation principles, 23 emotion-regulation concepts, K127 cognitive reappraisal; Stoic/Buddhist/Yoga-Vedanta parallels dropped. NOTE: the "From the gross to the subtle" saying is a FALSE POSITIVE (gross = coarse, not the person) — excluded; K177/K303 likewise not Gross-anchored.
+4. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
