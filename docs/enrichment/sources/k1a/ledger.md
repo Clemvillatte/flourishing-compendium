@@ -314,3 +314,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Guided version: none supplied; flagged pending a supervisor ruling, consistent with earlier items.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises line reflowed to bullets, same link markup).
 - Saturation: mention check run; K156 already linked from B022, D001, P172, K176, K233, K242 and the Morning intention concept page; no new reciprocal proposals needed (existing links cover the neighbours).
+
+## K140 — The observer question (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Bernstein, Hadash, Lichtash, Tanay, Shepherd & Fresco 2015 (Perspect Psychol Sci 10(5):599-617), abstract verified raw via NCBI efetch (PMID 26385999). Decentering construct model: meta-awareness, disidentification from internal experience, reduced reactivity to thought content.
+- The blockquote matches the raw efetch text verbatim (sentence chosen avoids the abstract's em dashes, which efetch renders as hyphens).
+- Honesty on page: stated as theoretical review, not a trial of the question; the three processes describe the target, not measured effects of asking.
+- Advisor QC applied per K156 round-1 pattern: topic-label Related-concepts glosses only; Intended focus line (Self and Attention); step 3 attempt-tracking.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises line reflowed to bullets).
+- Saturation: mention check run; The observer question already linked from P160, SE002, Decentering, K335 etc.; no new reciprocal proposals needed.
