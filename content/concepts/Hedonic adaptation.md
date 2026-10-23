@@ -8,49 +8,64 @@ tags: ["psych/affect", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-Hedonic adaptation — the "hedonic treadmill" — is the finding, named by Brickman and Campbell in 1971, that people adapt to both good and bad changes in circumstance, returning toward a relatively stable baseline of happiness ([Wikipedia, "Hedonic treadmill"](https://en.wikipedia.org/wiki/Hedonic_treadmill)). Later work refined rather than repealed it: set points are real but not fixed, and adaptation is event-specific — people adapt substantially to income changes and mostly to marriage, but show incomplete and slower adaptation to unemployment and to chronic noise ([Lucas et al., "Beyond the hedonic treadmill"](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1920&context=soss_research)).
+Hedonic adaptation is the "hedonic treadmill": the finding, named by Brickman and Campbell in 1971, that people adapt to both good and bad changes in circumstance, returning toward a relatively stable baseline of happiness ([Wikipedia, "Hedonic treadmill"](https://en.wikipedia.org/wiki/Hedonic_treadmill)):
 
-The mechanism is the double movement of desire: rising aspirations chase rising circumstances (the treadmill's belt), and attention migrates off whatever has become normal ([[S095 — See that everything passes]] is the contemplative version). Its personal and political upshots: the compendium's rule that happiness must be made independent of externals ([[D093 — Make happiness independent of externals]]), the Aristotelian point that pleasure accompanies good activity rather than constituting it ([[A084 — Understand that pleasure is not the good but accompanies it]]), and the Buddhist eight worldly winds that alternate gain and loss ([[B102 — Know the eight worldly winds]]).
+> "'Hedonic treadmill' is a term coined by Brickman and Campbell in their article, 'Hedonic Relativism and Planning the Good Society' (1971), describing the tendency of people to keep a fairly stable baseline level of happiness despite external events and fluctuations in demographic circumstances. ... The process of hedonic adaptation is conceptualized as a treadmill, since no matter how hard one tries to be happier, one remains in the same place." ([Wikipedia, "Hedonic treadmill"](https://en.wikipedia.org/wiki/Hedonic_treadmill))
 
-The countermeasures are attentional, not acquisitive: [[Savoring]] and [[Gratitude]] slow the migration of attention; deliberate variety and re-appreciation interrupt the baseline ([[X009 — Listen to the flesh's limits, and let them end the pursuit]]); X011 banks gratitude for past pleasures. The distinction to hold: adaptation is not an argument against enjoying goods — it is an argument against *financing* the pursuit of happiness with acquisition.
+Later work refined rather than repealed it. Lucas and colleagues' revision:
 
-An example at its smallest: after the third week in a new home, list three features still noticed daily — that list is the residue of adaptation, and gratitude practice is what keeps it from reaching zero.
+> "However, the extent of adaptation varies for different life events. ... Adaptation may proceed slowly over a period of years, and in some cases the process is never complete." ([Lucas et al., "Beyond the hedonic treadmill"](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1920&context=soss_research))
+
+And on set points: "well-being set points can change under some conditions", with long-term levels of happiness changing for some individuals ([same paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1920&context=soss_research)). In short: set points are real but not fixed, and adaptation is event-specific, quick for marriage-like boosts and slow, often incomplete, for unemployment and chronic stressors.
+
+### The mechanism
+
+The mechanism is the double movement of desire: rising aspirations chase rising circumstances (the treadmill's belt), and attention migrates off whatever has become normal. Its personal and political upshots: the compendium's rule that happiness must be made independent of externals, the Aristotelian point that pleasure accompanies good activity rather than constituting it, and the Buddhist eight worldly winds that alternate gain and loss.
+
+### The countermeasures
+
+The countermeasures are attentional, not acquisitive: [[Savoring]] and [[Gratitude]] slow the migration of attention; deliberate variety and re-appreciation interrupt the baseline. The distinction to hold: adaptation is not an argument against enjoying goods, it is an argument against *financing* the pursuit of happiness with acquisition.
+
+### In everyday life
+
+After the third week in a new home, list three features still noticed daily; that list is the residue of adaptation, and gratitude practice is what keeps it from reaching zero. (Illustrative scenario, not a reported participant or study result.)
 
 The contemplative traditions named it first: [[Impermanence]] is the law of which the treadmill is the psychophysics.
+
+### In the compendium
+
+- [[S095 — See that everything passes]] — the contemplative version
+- [[D093 — Make happiness independent of externals]] — the compendium's rule
+- [[A084 — Understand that pleasure is not the good but accompanies it]] — the Aristotelian point
+- [[B102 — Know the eight worldly winds]] — the alternating gains and losses
+- [[X009 — Listen to the flesh's limits, and let them end the pursuit]] — the pursuit-ending cousin
+
 ## Other formulations in this library
 
 - arrival states fade (Lyubomirsky, 2011)
 - major gains and losses show substantial but often incomplete and asymmetric adaptation, varying by domain and person (Brickman, Coates and Janoff-Bulman, 1978; Lucas, 2007; Wilson and Gilbert, 2003)
 - the decay of received pleasures (Frederick and Loewenstein, 1999); **flow's self-reinforcing structure** (Csikszentmihalyi, 1990)
 - gains and losses both fade toward baseline, and the rate of adaptation is often underestimated (Lyubomirsky, 2011)
-- the robust finding that the hedonic impact of gains decays (Frederick & Loewenstein, 1999; Lyubomirsky, 2011)
 - both positive and negative changes fade toward baseline (Lyubomirsky, 2011)
 - the [[Savoring|savoring]] research
-- gains and losses both fade toward baseline (Lyubomirsky, 2011)
 
 ## Facets
 
-- **and novelty seeking** — Lyubomirsky, 2011
-- **applied to positive states**
+- variety and novelty seeking — Lyubomirsky, 2011
+- adaptation applied to positive states
 
 ## Related concepts
-
-
-
 
 - [[Gratitude]] — the taking-for-granted that gratitude counters
 - [[Natural and necessary]] — the modern finding behind the unnecessary-desire treadmill
 - [[AF070]] — The principle naming the tested variety moderator of adaptation, listed alongside the forecasting and treadmill principles
 - [[SP039]] — Spinoza's examination of wealth, fame and pleasure as objects of pursuit
+
 ## Sources
 
-- Lyubomirsky, 2011
-- Brickman, Coates and Janoff-Bulman, 1978
-- Lucas, 2007
-- Wilson and Gilbert, 2003
-- Frederick & Loewenstein, 1999
-- Frederick and Loewenstein, 1999
-- Csikszentmihalyi, 1990
+- [Wikipedia, "Hedonic treadmill"](https://en.wikipedia.org/wiki/Hedonic_treadmill) — the coinage and treadmill-metaphor passages, quoted above
+- [Lucas, Diener and Scollon, "Beyond the hedonic treadmill" (SMU research repository)](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1920&context=soss_research) — the event-specific adaptation and set-point-change passages, quoted above
+- Lyubomirsky, 2011; Brickman, Coates and Janoff-Bulman, 1978; Lucas, 2007; Wilson and Gilbert, 2003; Frederick and Loewenstein, 1999; Csikszentmihalyi, 1990 — listed in the original sources; no passages quoted on this page
 
 ## Cited in parallels
 
