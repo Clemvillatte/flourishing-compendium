@@ -22,9 +22,9 @@ The 1977 paper's abstract states the core hypothesis:
 
 ## Their position
 
-The paper's distinction is between two expectations: "An outcome expectancy is defined as a person's estimate that a given behavior will lead to certain outcomes. An efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
+The paper distinguishes two expectations: "An outcome expectancy is defined as a person's estimate that a given behavior will lead to certain outcomes. An efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
 
-The model states where the expectation comes from: "In the proposed model, expectations of personal efficacy are derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states. The more dependable the experiential sources, the greater are the changes in perceived self-efficacy" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). And it proposes the cognitive-mediator account: "cognitive processes mediate change but... cognitive events are induced and altered most readily by experience of mastery arising from effective performance" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
+The model names its sources: "In the proposed model, expectations of personal efficacy are derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states. The more dependable the experiential sources, the greater are the changes in perceived self-efficacy" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). It proposes the cognitive-mediator account: "cognitive processes mediate change but... cognitive events are induced and altered most readily by experience of mastery arising from effective performance" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
 
 ## Core ideas
 

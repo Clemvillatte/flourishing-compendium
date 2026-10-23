@@ -28,10 +28,10 @@ The concept carries a practice: despair is a category of the self, not a mood re
 
 ## Core ideas
 
-- **Despair as misrelation** — the self's failure to be itself; "Despair is a Sickness of the Spirit", and all despair is "ultimately traced to the despair not to will to be oneself"; its cure is the formula of the self resting "transparently in the power that established it". See [[Despair]].
-- **Anxiety and the dizziness of freedom** — freedom's own vertigo; the book is a "companion piece to the Concept of Anxiety". See [[Angst]], [[The dizziness of freedom]], [[Escape from freedom]].
+- **Despair as misrelation** — the self's failure to be itself; "Despair is a Sickness of the Spirit" ([Storm commentary excerpt](https://sorenkierkegaard.org/sickness-unto-death.html)), and the commentary glosses that all despair is "ultimately traced to the despair not to will to be oneself"; its cure is the formula of the self resting "transparently in the power that established it" ([Storm commentary excerpt](https://sorenkierkegaard.org/sickness-unto-death.html)). See [[Despair]].
+- **Anxiety and the dizziness of freedom** — freedom's own vertigo; the book is a "companion piece to the Concept of Anxiety" ([Storm commentary](https://sorenkierkegaard.org/sickness-unto-death.html)). See [[Angst]], [[The dizziness of freedom]], [[Escape from freedom]].
 - **The leap of faith** — the movement beyond evidence. See [[The leap of faith]], [[The commitment of the knight of faith]].
-- **The aesthetic, the ethical, the religious** — the stages; in the commentary's phrasing, "as anxiety is related to the ethical, despair is related to the religious". See [[The aesthetic]], [[The ethical]].
+- **The aesthetic, the ethical, the religious** — the stages; in the commentary's phrasing, "[a]s anxiety is related to the ethical, despair is related to the religious" ([Storm commentary](https://sorenkierkegaard.org/sickness-unto-death.html)). See [[The aesthetic]], [[The ethical]].
 - **Repetition** — life lived forwards, understood backwards. See [[Repetition]], [[Creative repetition]], [[Life lived forwards]].
 
 ## Connection to the compendium
