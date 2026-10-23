@@ -23,6 +23,10 @@ Before offering help, ask what kind of help the person wants: to understand the 
 
 *For example:* A mentor might do all three in one meeting: lay out the situation plainly, ask the question that lets you see your own part in it, and then walk the next stretch beside you.
 
+## Related concepts
+
+- [[T055 — Mencius]] — the great person's mirroring influence, the page's mirror for others
+
 ## Sources
 
 - Códice Matritense de la Real Academia VIII, fol. 118r-118v (trans. León-Portilla 1963: 10-11), as printed in [James Maffie, "Aztec Philosophy", Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/)

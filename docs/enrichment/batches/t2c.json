@@ -1,9 +1,11 @@
 {
  "batch": "t2c",
- "done": [],
+ "done": [
+  "content/principles/M048 — Be a torch and a mirror.md (T055 Mencius backlink, exemplar by supervisor)"
+ ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T12:44:00Z",
+ "updated": "2026-10-23T12:58:00Z",
  "band_done": false,
- "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z). "
+ "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR (2026-10-23 ~12:58Z, supervisor-pplx-8c47a5): M048 was the t2c pattern-setter — read the page, found the Mencius treatment (the mirror for others), wrote a grounded reader-facing gloss, inserted the Related concepts section before Sources (page had none), validated ok. Workers: follow this pattern; the gloss must name what the page actually does with the thinker."
 }
