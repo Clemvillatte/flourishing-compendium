@@ -1,0 +1,326 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+      "id": "A001",
+      "title": "Make eudaimonia the organising end of your life",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A002 \u2014 Live according to your function (ergon).md",
+      "id": "A002",
+      "title": "Live according to your function (ergon)",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A083 \u2014 Recognise that bodily pleasures are not the highest.md",
+      "id": "A083",
+      "title": "Recognise that bodily pleasures are not the highest",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A120 \u2014 Understand emulation (zelos).md",
+      "id": "A120",
+      "title": "Understand emulation (zelos)",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D057 \u2014 Enter flow.md",
+      "id": "D057",
+      "title": "Enter flow",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E097 \u2014 Practise transcendence.md",
+      "id": "E097",
+      "title": "Practise transcendence",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E103 \u2014 Practise self-overcoming (Selbst\u00fcberwindung).md",
+      "id": "E103",
+      "title": "Practise self-overcoming (Selbst\u00fcberwindung)",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E109 \u2014 Practise the overman (\u00dcbermensch).md",
+      "id": "E109",
+      "title": "Practise the overman (\u00dcbermensch)",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/MO002 \u2014 Know that motivation serves three basic psychological needs \u2014 autonomy, competence, and relatedness.md",
+      "id": "MO002",
+      "title": "Know that motivation serves three basic psychological needs: autonomy, competence, and relatedness",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P015 \u2014 Make growth your criterion of value.md",
+      "id": "P015",
+      "title": "Make growth your criterion of value",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P107 \u2014 Treat education as growth, not preparation.md",
+      "id": "P107",
+      "title": "Treat education as growth, not preparation",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P114 \u2014 Create as growth \u2014 creation is the evidence of growth.md",
+      "id": "P114",
+      "title": "Create as growth: creation is the evidence of growth",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P115 \u2014 Welcome peak experiences \u2014 don't chase them.md",
+      "id": "P115",
+      "title": "Welcome peak experiences: don't chase them",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P116 \u2014 Pursue becoming, not arrival.md",
+      "id": "P116",
+      "title": "Pursue becoming, not arrival",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P117 \u2014 Grow from being-values, not deficiency-needs.md",
+      "id": "P117",
+      "title": "Grow from being-values, not deficiency-needs",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P118 \u2014 Engineer flow \u2014 match challenge to skill.md",
+      "id": "P118",
+      "title": "Engineer flow: match challenge to skill",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P176 \u2014 Prefer growth goals to validation goals.md",
+      "id": "P176",
+      "title": "Prefer growth goals to validation goals",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP009 \u2014 Pursue self-concordant goals.md",
+      "id": "PP009",
+      "title": "Pursue self-concordant goals",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP026 \u2014 Contribute beyond yourself.md",
+      "id": "PP026",
+      "title": "Contribute beyond yourself",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP041 \u2014 Cultivate transcendence.md",
+      "id": "PP041",
+      "title": "Cultivate transcendence",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S132 \u2014 Begin where you are.md",
+      "id": "S132",
+      "title": "Begin where you are",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S139 \u2014 Accept that Stoicism is a practice, not a destination.md",
+      "id": "S139",
+      "title": "Accept that Stoicism is a practice, not a destination",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE065 \u2014 Learn self-actualization \u2014 become who you are capable of being.md",
+      "id": "SE065",
+      "title": "Learn self-actualization: become who you are capable of being",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Acquired Needs Theory (McClelland).md",
+      "id": "Acquired Needs Theory (McClelland)",
+      "title": "Acquired Needs Theory (McClelland)",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/B-values.md",
+      "id": "B-values",
+      "title": "B-values",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Being-values (B-values).md",
+      "id": "Being-values (B-values)",
+      "title": "Being-values (B-values)",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Creativity.md",
+      "id": "Creativity",
+      "title": "Creativity",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Distinguishing needs from wants (SDT).md",
+      "id": "Distinguishing needs from wants (SDT)",
+      "title": "Distinguishing needs from wants (SDT)",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/ERG Theory.md",
+      "id": "ERG Theory",
+      "title": "ERG Theory",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Hierarchy of Needs Theory.md",
+      "id": "Hierarchy of Needs Theory",
+      "title": "Hierarchy of Needs Theory",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Optimal experience.md",
+      "id": "Optimal experience",
+      "title": "Optimal experience",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Participate in the world's becoming.md",
+      "id": "Participate in the world's becoming",
+      "title": "Participate in the world's becoming",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Peak experiences.md",
+      "id": "Peak experiences",
+      "title": "Peak experiences",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Positive psychology.md",
+      "id": "Positive psychology",
+      "title": "Positive psychology",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Pursue becoming, not arrival.md",
+      "id": "Pursue becoming, not arrival",
+      "title": "Pursue becoming, not arrival",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Schwartz.md",
+      "id": "Schwartz",
+      "title": "Schwartz",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Self-Completion Theory.md",
+      "id": "Self-Completion Theory",
+      "title": "Self-Completion Theory",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Self-actualization (Maslow).md",
+      "id": "Self-actualization (Maslow)",
+      "title": "Self-actualization (Maslow)",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Self-doubt theory.md",
+      "id": "Self-doubt theory",
+      "title": "Self-doubt theory",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Self-transcendence.md",
+      "id": "Self-transcendence",
+      "title": "Self-transcendence",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The actualizing tendency.md",
+      "id": "The actualizing tendency",
+      "title": "The actualizing tendency",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The overman (\u00dcbermensch).md",
+      "id": "The overman (\u00dcbermensch)",
+      "title": "The overman (\u00dcbermensch)",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Transcendence.md",
+      "id": "Transcendence",
+      "title": "Transcendence",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K205 \u2014 Nature exposure.md",
+      "id": "K205",
+      "title": "Nature exposure",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST125 \u2014 Maslow and the Peak Experiences.md",
+      "id": "ST125",
+      "title": "125. Maslow and the Peak Experiences",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/thinkers/T025 \u2014 Rogers, Carl.md",
+      "id": "T025",
+      "title": "Rogers, Carl",
+      "thinker": "T029",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
