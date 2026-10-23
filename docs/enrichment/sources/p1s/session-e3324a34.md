@@ -89,6 +89,18 @@ Opened with fetch on 2026-10-23:
 
 Rewrite: remove the body/quote duplicate list while preserving the historical wording. The contemporary exploitation test is explicitly the compendium's extension, not a claim that the ancient list contains a modern account of consent. Plain words now explains constrained refusal. Replaced the generic moving-house request with a thought experiment about managerial power; it does not instruct readers to experiment on a dependent person.
 
+## B126: four notions and the bodhisattva's aspiration
+
+Opened with fetch on 2026-10-23:
+
+- [Gemmell, The Diamond Sutra](https://www.gutenberg.org/files/64623/64623-h/64623-h.htm): read the introduction and the main translation labelled chapters 3 and 4. The old page's long quote was from the introduction, not verbatim from the main chapter translation; replaced it with a directly checked chapter-3 quotation from another named translation.
+- [Satyori, chapter 3](https://satyori.com/source-texts/diamond-sutra/3/): comparison translation opened, but its broad modern clinical/cross-tradition commentary is not relied on.
+- [Thich Nhat Hanh, The Diamond Sutra, Jason Espada reproduction](https://jasonespada.com/wp-content/uploads/2024/03/The-Diamond-Sutra.pdf): chapter 3 and PDF pp. 2 and 3. Newly quoted four-notions sentence verified, with PDF line wrapping normalized.
+- [Thich Nhat Hanh, Four Notions to Remove, Plum Village App](https://www.youtube.com/watch?v=N6PJA33JvhI): full 19-minute transcript fetched. Description identifies it as an excerpt from the 2 October 2011 Magnolia Grove talk. Specific explanations are explicitly attributed to this teacher, not presented as the only scholarly gloss.
+- [Thich Nhat Hanh, 4 December 1997 Diamond Sutra talk](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/The%20Diamond%20Sutra/Thich%20Nhat%20Hahn-%20Diamond%20Sutra%20I.htm): additional context on bodhicitta, non-discrimination and the helper/helped relation.
+
+Rewrite: explain the four notions and connect the practical illustration to the aspiration to help without fixing helper/helped as separate identities. The exercise is editorial and modest, not a replacement for the sutra's liberative aim.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.

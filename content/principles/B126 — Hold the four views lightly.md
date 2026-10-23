@@ -12,21 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 126** — Hold the four views lightly
 
-Chapter 3 of the Diamond Sutra sets the bodhisattva's resolve to lead all beings to final liberation, and immediately adds that in reality no idea of a world of sentient life has been liberated. The reason is the four arbitrary ideas the chapter names: an entity, a being, a living being, and a personality. (Diamond Sutra, ch. 3.)
+Chapter 3 of the Diamond Sutra, in Thich Nhat Hanh's translation, joins the resolve to liberate all beings with release from four notions: self, person, living being and life span. The aspiration to help remains; the text challenges the way helper and helped are conceived. ([Diamond Sutra, chapter 3](https://jasonespada.com/wp-content/uploads/2024/03/The-Diamond-Sutra.pdf))
 
-> "Thus you shall obtain deliverance from the idea of an immeasurable, innumerable, and illimitable world of sentient life; but, in reality there is no idea of a world of sentient life from which to obtain deliverance. And why? Because, in the mind of an enlightened disciple, there have ceased to exist such arbitrary ideas of phenomena as an entity, a being, a living being, or a personality." (Diamond Sutra, ch. 3, [Gemmell translation](https://www.gutenberg.org/files/64623/64623-h/64623-h.htm))
+> "If, Subhuti, a bodhisattva holds on to the idea that a self, a person, a living being, or a life span exists, that person is not an authentic bodhisattva." ([Diamond Sutra, chapter 3, Thich Nhat Hanh translation](https://jasonespada.com/wp-content/uploads/2024/03/The-Diamond-Sutra.pdf))
 
-The compendium adapts the warning into an exercise in examining descriptions of oneself.
+In his teaching on the four notions, Thich Nhat Hanh questions a self existing alone, humanity separated from the nonhuman world, ordinary beings separated from Buddhas, and a life confined between birth and annihilation. These are his explanatory readings, not four personality labels to revise. ([Four Notions to Remove, 00:24 to 19:00](https://www.youtube.com/watch?v=N6PJA33JvhI)) Gemmell's earlier translation uses different English terms: entity, being, living being and personality. ([Gemmell, chapter 3](https://www.gutenberg.org/files/64623/64623-h/64623-h.htm))
 
 **Plain words**
-Choose a self-description you often use. Write what it describes in a particular situation and where it fails to fit. Consider whether you need to revise it.
+An everyday way into this is to notice the story “I am the helper; you are the one who needs me.” That can make two changing lives sound like two fixed things. The sutra asks for a much deeper release, while keeping the work of helping. You can begin by making room for the other person's capacities and for the help you also receive.
 
-*For example:* Imagine someone who calls themselves "a poor listener." They review a recent conversation and identify what they did and what they would change.
+For example: You are helping a friend prepare for an appointment. Compare two plans: taking over the conversation, or asking which parts they want to handle and where they want support. Afterward, review whose knowledge and effort made the visit possible. Keep the arrangement that supports the person without making your role indispensable. This is a compendium illustration of loosening a helper identity, not an attainment test.
 
 ## Sources
 
 - [The Diamond Sutra, Gemmell translation, Project Gutenberg](https://www.gutenberg.org/files/64623/64623-h/64623-h.htm) — chapter 3, the quoted passage (public-domain full text)
 - [Diamond Sutra, chapter 3, with Sanskrit and translation](https://satyori.com/source-texts/diamond-sutra/3/) — a second rendering of the chapter, consulted for comparison
+- [The Diamond Sutra, translated by Thich Nhat Hanh, reproduced by Jason Espada (PDF)](https://jasonespada.com/wp-content/uploads/2024/03/The-Diamond-Sutra.pdf) — chapter 3, PDF pp. 2 and 3; resolve to liberate and four notions
+- [Thich Nhat Hanh, Four Notions to Remove, Plum Village App](https://www.youtube.com/watch?v=N6PJA33JvhI) — transcript of the 2 October 2011 teaching excerpt; self, person, living being and life span explained
 
 ## Psychology parallels
 
