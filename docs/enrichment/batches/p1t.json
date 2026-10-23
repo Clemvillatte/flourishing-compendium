@@ -1,7 +1,6 @@
 {
  "batch": "p1t",
  "done": [
-  "D186",
   "D187",
   "P060",
   "P076",
@@ -32,7 +31,7 @@
   "D176",
   "D179"
  ],
- "in_progress": null,
+ "in_progress": "D186",
  "flagged": {
   "D164": "Reopened for QC: Owner priority: replace mechanical Plain words and overlong summary with primary-source-bounded explanation and workable application",
   "D172": "Reopened for QC: QC repair: preserve chapter 73 wrongdoing context; replace repeated Plain words with clear practical application",
@@ -51,10 +50,11 @@
   "D169": "Reopened for QC: Replace chain recital and judge-theatre anecdote with an accurate interpretation boundary and fact-versus-guess cognition practice",
   "D175": "Reopened for QC: Replace reciprocity-as-return exercise with transparent gift/exchange application; retain honest strategic source context and exact clean quote excerpt",
   "D176": "Reopened for QC: Replace literal-wantlessness gloss and repeated Plain words with translation-specific reading and purpose-based optional-purchase practice",
-  "D179": "Reopened for QC: Replace long image recital and process-labelled Plain words with direct chapter-4 support and constructive critical-feedback practice"
+  "D179": "Reopened for QC: Replace long image recital and process-labelled Plain words with direct chapter-4 support and constructive critical-feedback practice",
+  "D186": "Reopened for QC: Replace fullness recital and hypothetical encore with completion-specific application and readiness check"
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-23T07:07:51+00:00",
+ "updated": "2026-10-23T07:08:42+00:00",
  "band_done": false
 }
