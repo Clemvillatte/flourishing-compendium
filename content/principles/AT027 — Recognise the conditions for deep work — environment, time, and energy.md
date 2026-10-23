@@ -22,7 +22,7 @@ The compendium uses these findings to suggest planning a suitable place, an avai
 If the previous task is still on your mind, beginning another may leave some of your attention behind. Before demanding work, decide what can wait and choose a time and place you expect to suit it.
 
 **For example**
-As an imagined illustration, a novelist writes from 6 to 8 a.m. with the router unplugged: a quiet room, a protected window, morning alertness.
+In an illustration, a novelist writes from 6 to 8 a.m. with the router unplugged: a quiet room, a protected window, morning alertness.
 ## Sources
 
 - [Leroy 2009, Why is it so hard to do my work? The challenge of attention residue when switching between work tasks, OBHDP 109(2):168-181, abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html) — the attention-residue experiments: unfinished tasks make transitions difficult and hurt the next task's performance.

@@ -22,7 +22,7 @@ The account the authors give is anchoring with insufficient adjustment: you stan
 Your own experience is the anchor: the stain feels enormous from the inside. The study's result is that wearers estimated roughly twice as many observers would identify the shirt's picture as actually did. Knowing the effect exists gives you a reason to re-check your first estimate of how many eyes are on you.
 
 **For example**
-As an imagined illustration, after worrying about a joke told at dinner, you ask a friend what they recall instead of assuming everyone dwelt on it.
+In an illustration, after worrying about a joke told at dinner, you ask a friend what they recall instead of assuming everyone dwelt on it.
 ## Sources
 
 - [Gilovich, Medvec & Savitsky 2000, The spotlight effect in social judgment, Journal of Personality and Social Psychology 78(2):211-222, full text](https://www.psychologyib.com/uploads/1/1/7/5/11758934/the_spotlight_effect_-_ib_psychology.pdf) — the Barry Manilow T-shirt studies, the discussion-utterance study, and the anchoring-and-adjustment account.

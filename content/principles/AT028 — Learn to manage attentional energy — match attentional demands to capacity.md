@@ -22,7 +22,7 @@ The compendium turns this into a planning practice: notice which stretches of th
 Attention has a shape across the day, and the shape differs by person: some are sharpest early, others late. Two things follow: learn your own shape, and stop scheduling by other people's clocks alone. The demanding task goes where your capacity is; the routine goes in the trough.
 
 **For example**
-As an imagined illustration, an analyst schedules the heavy model for 9 a.m. and the expense reports for the post-lunch dip.
+In an illustration, an analyst schedules the heavy model for 9 a.m. and the expense reports for the post-lunch dip.
 ## Sources
 
 - [Schmidt, Collette, Cajochen & Peigneux 2007, A time to think: circadian rhythms in human cognition, Cognitive Neuropsychology 24(7):755-789, full text](http://www.chronobiology.ch/wp-content/uploads/publications/2007_09.pdf) — the review of time-of-day effects on attention, executive function and memory, and the chronotype-contingent synchrony effect.
