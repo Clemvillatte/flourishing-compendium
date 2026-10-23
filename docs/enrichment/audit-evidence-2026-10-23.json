@@ -1,0 +1,1039 @@
+{
+ "frozen_at_commit": "af8995ce",
+ "stream1_dangling": {
+  "V1K-S01 \u2014 PART I \u2014 SCIENCE-BACKED KERNELS": [
+   "content/concepts/Acceptance alongside values-based action.md",
+   "content/concepts/Action commitment.md",
+   "content/concepts/Action over intention.md",
+   "content/concepts/Active constructive responding.md",
+   "content/concepts/Active listening.md",
+   "content/concepts/Acts of kindness (Lyubomirsky).md",
+   "content/concepts/Affect labeling.md",
+   "content/concepts/Anger reappraisal.md",
+   "content/concepts/Appraisal theory.md",
+   "content/concepts/Behavioral activation.md",
+   "content/concepts/Body scan in MBSR (Kabat-Zinn).md",
+   "content/concepts/Cognitive flexibility.md",
+   "content/concepts/Cognitive reappraisal.md",
+   "content/concepts/Community intervention research.md",
+   "content/concepts/Compassion-focused therapy.md",
+   "content/concepts/Component Process Model of Emotion.md",
+   "content/concepts/Creative identity.md",
+   "content/concepts/Creative selection.md",
+   "content/concepts/Creative values.md",
+   "content/concepts/Daily architecture.md",
+   "content/concepts/Deep listening.md",
+   "content/concepts/Differential Activation Hypothesis of depression.md",
+   "content/concepts/ERP (exposure and response prevention).md",
+   "content/concepts/Emotion awareness.md",
+   "content/concepts/Empathic understanding.md",
+   "content/concepts/Existential communication.md",
+   "content/concepts/Existential meaning.md",
+   "content/concepts/Existential therapy.md",
+   "content/concepts/Exposure therapy (Foa, Craske).md",
+   "content/concepts/Expressive suppression versus reappraisal.md",
+   "content/concepts/Expressive writing.md",
+   "content/concepts/Feedback intervention research.md",
+   "content/concepts/Feedback intervention theory.md",
+   "content/concepts/Flow.md",
+   "content/concepts/Graded exposure systematic desensitisation (Wolpe).md",
+   "content/concepts/Graded task assignment (Beck, BA).md",
+   "content/concepts/Habit stacking.md",
+   "content/concepts/Holding as hypothesis.md",
+   "content/concepts/Hormetic exposure research.md",
+   "content/concepts/Integrative Theory of Communication Work.md",
+   "content/concepts/Interoceptive awareness.md",
+   "content/concepts/Interoceptive exposure (Barlow).md",
+   "content/concepts/Legacy motivation research.md",
+   "content/concepts/Matching Hypothesis.md",
+   "content/concepts/Mental time travel.md",
+   "content/concepts/Mindful attention.md",
+   "content/concepts/Mindful self-compassion programme.md",
+   "content/concepts/Mindful uncertainty.md",
+   "content/concepts/Morning intention.md",
+   "content/concepts/Motivational interviewing.md",
+   "content/concepts/Narrative repair.md",
+   "content/concepts/Nature exposure.md",
+   "content/concepts/Nonviolent action.md",
+   "content/concepts/Nonviolent communication.md",
+   "content/concepts/Perspective-getting.md",
+   "content/concepts/Perspective-taking.md",
+   "content/concepts/Progressive muscle relaxation (Jacobson).md",
+   "content/concepts/Progressive refinement in perceptual learning.md",
+   "content/concepts/Prosocial motivation.md",
+   "content/concepts/Radical acceptance.md",
+   "content/concepts/Response prevention (OCD treatment).md",
+   "content/concepts/Savoring.md",
+   "content/concepts/Self-as-context.md",
+   "content/concepts/Situation awareness in expert performance.md",
+   "content/concepts/Situation selection.md",
+   "content/concepts/Sleep architecture (Walker).md",
+   "content/concepts/Social cognitive career theory.md",
+   "content/concepts/Social cognitive theory of morality.md",
+   "content/concepts/Social identity theory.md",
+   "content/concepts/Social influences on motivation.md",
+   "content/concepts/Social learning theory (Bandura).md",
+   "content/concepts/Social value orientation.md",
+   "content/concepts/Speech gate.md",
+   "content/concepts/State-dependent intervention matching.md",
+   "content/concepts/The creative life.md",
+   "content/concepts/The evening review.md",
+   "content/concepts/The habit body.md",
+   "content/concepts/The pragmatic maxim.md",
+   "content/concepts/The relational self.md",
+   "content/concepts/The relaxation response.md",
+   "content/concepts/The returning practice.md",
+   "content/concepts/The seer at rest in its own nature.md",
+   "content/concepts/Values clarification.md",
+   "content/concepts/WOOP (Wish, Outcome, Obstacle, Plan).md",
+   "content/concepts/Walking meditation.md",
+   "content/concepts/Weekly-review implementation intentions.md",
+   "content/concepts/Yoga \u2014 union of body, breath, and mind.md",
+   "content/sayings/Living the question.md",
+   "content/sayings/The empty boat reflection.md"
+  ],
+  "V2K-S01 \u2014 Part I \u2014 Science-Backed Kernels": [
+   "content/concepts/Citizen of the world.md",
+   "content/concepts/Cognitive-developmental theory of moral reasoning.md",
+   "content/concepts/Cosmopolitan care.md",
+   "content/concepts/Creative evolution.md",
+   "content/concepts/Creative identity.md",
+   "content/concepts/Creative values.md",
+   "content/concepts/Deliberation as rehearsal.md",
+   "content/concepts/Ecological ethics.md",
+   "content/concepts/Ecological gratitude.md",
+   "content/concepts/Ecological grief.md",
+   "content/concepts/Ecological identity.md",
+   "content/concepts/Embodied social identity.md",
+   "content/concepts/Existential meaning.md",
+   "content/concepts/Existential therapy.md",
+   "content/concepts/Grief for what passes.md",
+   "content/concepts/Justice reasoning.md",
+   "content/concepts/Meaning-making.md",
+   "content/concepts/Moral courage research.md",
+   "content/concepts/Moral exemplar research.md",
+   "content/concepts/Moral identity.md",
+   "content/concepts/Narrative repair.md",
+   "content/concepts/Narrative therapy.md",
+   "content/concepts/Phenomenological description.md",
+   "content/concepts/Restorative justice.md",
+   "content/concepts/The creative life.md",
+   "content/concepts/The evening review.md",
+   "content/concepts/The rehearsal of virtue.md",
+   "content/concepts/The view from above.md",
+   "content/concepts/Tragic optimism.md",
+   "content/concepts/Value creation.md",
+   "content/concepts/Voluntary discomfort.md"
+  ],
+  "V1K Reference \u2014 Sources for Book IV": [
+   "content/concepts/Affect labeling.md",
+   "content/concepts/Bayesian brain.md",
+   "content/concepts/Behavioral activation.md",
+   "content/concepts/Cognitive reappraisal.md",
+   "content/concepts/Contemporary psychodynamic theory.md",
+   "content/concepts/Death reflection.md",
+   "content/concepts/Evolutionary Psychology.md",
+   "content/concepts/Expressive suppression versus reappraisal.md",
+   "content/concepts/Expressive writing.md",
+   "content/concepts/Functional analysis.md",
+   "content/concepts/Multiple Code Theory.md",
+   "content/concepts/Objectification Theory.md",
+   "content/concepts/Outcome monitoring in psychological treatment.md",
+   "content/concepts/Personalised medicine personalised intervention.md",
+   "content/concepts/Savoring.md",
+   "content/concepts/Slow-paced breathing.md",
+   "content/concepts/The evidence base for community-level intervention.md",
+   "content/concepts/Transformational leadership theory.md"
+  ],
+  "V2K \u2014 Kernels (Volume II)": [
+   "content/concepts/Ecological ethics.md",
+   "content/concepts/Ecological grief.md",
+   "content/concepts/Ecological identity.md",
+   "content/concepts/Embodied social identity.md",
+   "content/concepts/Existential therapy.md",
+   "content/concepts/Moral courage research.md",
+   "content/concepts/Moral identity.md",
+   "content/concepts/Narrative therapy.md",
+   "content/concepts/Restorative justice.md",
+   "content/concepts/Role ethics.md",
+   "content/concepts/Value creation.md",
+   "content/concepts/Voluntary discomfort.md"
+  ],
+  "V1K-S03 \u2014 PART III \u2014 COVERAGE MAP": [
+   "content/concepts/Behavioral activation.md",
+   "content/concepts/Buddhist emptiness of inherent nature.md",
+   "content/concepts/Clarity of mind.md",
+   "content/concepts/Daily architecture.md",
+   "content/concepts/The attention economy.md",
+   "content/concepts/The book of nature.md",
+   "content/concepts/The three gates of speech.md",
+   "content/concepts/Timing as wisdom.md"
+  ],
+  "V1K-S01.09 \u2014 9. Social and Relational": [
+   "content/concepts/Active constructive responding.md",
+   "content/concepts/Active listening.md",
+   "content/concepts/Deep listening.md",
+   "content/concepts/Nonviolent communication.md",
+   "content/concepts/Perspective-getting.md",
+   "content/concepts/Speech gate.md"
+  ],
+  "V1K-S01.07 \u2014 7. Behavioral Activation and Habit": [
+   "content/concepts/Behavioral activation.md",
+   "content/concepts/Graded task assignment (Beck, BA).md",
+   "content/concepts/Habit stacking.md",
+   "content/concepts/Opposite action (Linehan).md",
+   "content/concepts/Situation selection.md"
+  ],
+  "V1K-S01.03 \u2014 3. Cognitive Flexibility and View-Lightness": [
+   "content/concepts/Cognitive flexibility.md",
+   "content/concepts/Cognitive reappraisal.md",
+   "content/concepts/Holding as hypothesis.md",
+   "content/concepts/Perspective-taking.md",
+   "content/concepts/The pragmatic maxim.md"
+  ],
+  "V1K-S01.11 \u2014 11. Inquiry, Experimentation, and Process": [
+   "content/concepts/Daily architecture.md",
+   "content/concepts/Expressive writing.md",
+   "content/concepts/Motivational interviewing.md",
+   "content/concepts/The community of inquiry.md",
+   "content/concepts/The returning practice.md"
+  ],
+  "V1K-S01.02 \u2014 2. Acceptance and Willingness": [
+   "content/concepts/ERP (exposure and response prevention).md",
+   "content/concepts/Experience plus reflection.md",
+   "content/concepts/Interoceptive exposure (Barlow).md",
+   "content/concepts/Radical acceptance.md",
+   "content/sayings/The empty boat reflection.md"
+  ],
+  "V2K-S01.19 \u2014 19. Embodied Intersubjectivity": [
+   "content/concepts/Embodied social identity.md",
+   "content/concepts/Social attention.md",
+   "content/concepts/Social cognitive career theory.md",
+   "content/concepts/Social cognitive theory of morality.md",
+   "content/concepts/Social learning theory (Bandura).md"
+  ],
+  "V2K-S01.18 \u2014 18. Existential Therapy and Moral Injury": [
+   "content/concepts/Existential confrontation.md",
+   "content/concepts/Existential meaning.md",
+   "content/concepts/Existential therapy.md",
+   "content/concepts/The meaning of life.md",
+   "content/sayings/Living the question.md"
+  ],
+  "V2K-S01.13 \u2014 13. Narrative Identity and Life Review": [
+   "content/concepts/Hermeneutics of the self.md",
+   "content/concepts/Narrative identity theory McAdams.md",
+   "content/concepts/Narrative therapy.md",
+   "content/concepts/Self as construction.md",
+   "content/concepts/The redemptive self.md"
+  ],
+  "V2K-S01.03 \u2014 3. Stoic Assent and Judgement Training": [
+   "content/concepts/Cognitive reappraisal.md",
+   "content/concepts/Delay plus reappraisal.md",
+   "content/concepts/First impressions bias.md",
+   "content/concepts/The view from above.md"
+  ],
+  "V2K-S01.07 \u2014 7. Relational-Cultural Wellbeing": [
+   "content/concepts/Confucian role ethics.md",
+   "content/concepts/Relational humility.md",
+   "content/concepts/The ethics of care.md",
+   "content/concepts/Ubuntu.md"
+  ],
+  "V2K-S01.01 \u2014 1. Character and Virtue Formation": [
+   "content/concepts/Behavioural rehearsal role-play (DBT, social skills training).md",
+   "content/concepts/Moral cultivation (xiushen).md",
+   "content/concepts/Moral exemplar research.md"
+  ],
+  "V1K-S01.08 \u2014 8. Body and Biophysiology": [
+   "content/concepts/Hormetic exposure research.md",
+   "content/concepts/Nature exposure.md",
+   "content/concepts/Progressive muscle relaxation (Jacobson).md"
+  ],
+  "V1K-S01.05 \u2014 5. Values and Motivation": [
+   "content/concepts/Morning intention.md",
+   "content/concepts/Values clarification.md",
+   "content/concepts/WOOP (Wish, Outcome, Obstacle, Plan).md"
+  ],
+  "V1K \u2014 Kernels (Volume I)": [
+   "content/concepts/Attention Network Test (ANT).md",
+   "content/concepts/Behavioral activation.md"
+  ],
+  "V1K-S02.02 \u2014 Step 2 \u2014 Identify the dimension and level": [
+   "content/concepts/Co-regulation of affect in relationships.md",
+   "content/concepts/Community intervention research.md"
+  ],
+  "V1K-S01.13 \u2014 13. Compassion-Focused Therapy (CFT) Kernels": [
+   "content/concepts/Compassion-focused therapy.md",
+   "content/concepts/The ideal self.md"
+  ],
+  "V2K-S01.17 \u2014 17. Ecological Grief and Stewardship": [
+   "content/concepts/Ecological grief.md",
+   "content/concepts/Place attachment.md"
+  ],
+  "V1K-S01.01 \u2014 1. Attention and Awareness": [
+   "content/concepts/Interoceptive awareness.md",
+   "content/concepts/Outcome monitoring in psychological treatment.md"
+  ],
+  "V1K-S01.10 \u2014 10. Meaning and Existential Orientation": [
+   "content/concepts/Legacy motivation research.md",
+   "content/sayings/Living the question.md"
+  ],
+  "V1K-S01.04 \u2014 4. Self and Perspective": [
+   "content/concepts/Self-as-context.md",
+   "content/concepts/The observing self.md"
+  ],
+  "V1K-S02.06 \u2014 Step 6 \u2014 Vary when it stalls": [
+   "content/concepts/The seasons of life.md",
+   "content/concepts/Working memory capacity limits.md"
+  ],
+  "V1K-S01.06 \u2014 6. Emotion and Compassion": [
+   "content/concepts/Affect labeling.md"
+  ],
+  "V1K-S02.07 \u2014 A note on scope": [
+   "content/concepts/Behavioral activation.md"
+  ],
+  "V1K-S02.05 \u2014 Step 5 \u2014 Retain what works": [
+   "content/concepts/Buddhist emptiness of inherent nature.md"
+  ],
+  "V2K-S01.05 \u2014 5. Role Ethics and Duty": [
+   "content/concepts/Confucian role ethics.md"
+  ],
+  "V2K-S01.21 \u2014 21. Civic Courage and Democratic Practice": [
+   "content/concepts/Deliberative democracy.md"
+  ],
+  "V2K-S01.16 \u2014 16. Cultural Safety and Cross-Cultural Practice": [
+   "content/concepts/Intergroup contact.md"
+  ],
+  "A \u2014 Aristotelian Virtue Ethics and Practical Wisdom": [
+   "content/concepts/Moral exemplarism.md"
+  ],
+  "V2K-S01.09 \u2014 9. Phenomenological Embodiment": [
+   "content/concepts/Perception as interpretation.md"
+  ],
+  "Optimism bias": [
+   "content/concepts/Probabilistic thinking.md"
+  ],
+  "V2K-S01.06 \u2014 6. Justice, Equity, and Civic Conduct": [
+   "content/concepts/Procedural justice.md"
+  ],
+  "V2K-S01.14 \u2014 14. Conflict Mediation and Restorative Practice": [
+   "content/concepts/Restorative justice.md"
+  ],
+  "V1K-S02 \u2014 PART II \u2014 THE VRSCDL CYCLE \u2014 HOW TO SELECT, APPLY, AND RETAIN KERNELS": [
+   "content/concepts/Situation selection.md"
+  ],
+  "V2K-S01.04 \u2014 4. Desire, Preference, and Voluntary Discomfort": [
+   "content/concepts/The wantingliking dissociation.md"
+  ],
+  "V2K-S01.11 \u2014 11. Finitude, Tragedy, and Existential Meaning": [
+   "content/concepts/Tragic optimism.md"
+  ],
+  "V2K-S01.12 \u2014 12. Creativity and Value Creation": [
+   "content/concepts/Value creation.md"
+  ],
+  "V1K-S01.16 \u2014 16. Acceptance and Commitment Therapy (ACT) Kernels": [
+   "content/concepts/Values clarification.md"
+  ],
+  "V2K-S01.02 \u2014 2. Practical Wisdom and Deliberation": [
+   "content/concepts/Wise reasoning.md"
+  ]
+ },
+ "stream3_wordboundary_prose_counts": {
+  "mudita": 20,
+  "sympathetic joy": 15,
+  "brahmavihara": 9,
+  "meaning in life": 30,
+  "self-distancing": 25,
+  "samadhi": 16,
+  "five aggregates": 11,
+  "zazen": 9,
+  "eupatheiai": 3,
+  "prosoche": 6,
+  "dharana": 3,
+  "dhyana": 5,
+  "kath\u0113kon": 0,
+  "ataraxia": 15,
+  "tranquillity": 29,
+  "gelassenheit": 18,
+  "tonglen": 2,
+  "satori": 3,
+  "meliorism": 0,
+  "pessimism": 7,
+  "common notions": 2,
+  "satipatthana": 47,
+  "metanoetics": 11,
+  "nihility": 10,
+  "action-intuition": 8,
+  "I-It": 20,
+  "basho": 1
+ },
+ "stream3_paths": {
+  "mudita": {
+   "count": 20,
+   "paths": [
+    "content/principles/A077 \u2014 Honour friendship in prosperity as well as adversity.md",
+    "content/principles/A119 \u2014 Understand envy (phthonos).md",
+    "content/principles/AF055 \u2014 Work with envy \u2014 it signals a value, not a defect.md",
+    "content/principles/AF062 \u2014 Savour positive experiences \u2014 deliberately attend to and amplify them.md",
+    "content/principles/AT021 \u2014 Learn to attend to the positive deliberately \u2014 attention training for well-being.md",
+    "content/principles/B053 \u2014 Practice sympathetic joy (mudita).md",
+    "content/principles/B101 \u2014 Rejoice in others' happiness (mudita as practice).md",
+    "content/principles/BE019 \u2014 Learn to schedule pleasurable activities \u2014 enjoyment-driven behaviour.md",
+    "content/principles/S016 \u2014 Do not desire what belongs to others.md",
+    "content/principles/S082 \u2014 Do not be envious of others' success.md",
+    "content/principles/SP073 \u2014 Guard the free person's cheerfulness under loss.md",
+    "content/concepts/Four immeasurables.md",
+    "content/concepts/Joy.md",
+    "content/concepts/Mindfulness.md",
+    "content/concepts/Mudita (sympathetic joy).md",
+    "content/concepts/Right effort.md",
+    "content/kernels/K166 \u2014 Sympathetic joy.md",
+    "content/thinkers/T045 \u2014 Shantideva.md",
+    "content/stories/ST316 \u2014 How You Respond to Good News.md",
+    "content/sayings/Wishing the friend's good for his own sake.md"
+   ]
+  },
+  "sympathetic joy": {
+   "count": 15,
+   "paths": [
+    "content/principles/A077 \u2014 Honour friendship in prosperity as well as adversity.md",
+    "content/principles/A119 \u2014 Understand envy (phthonos).md",
+    "content/principles/AF055 \u2014 Work with envy \u2014 it signals a value, not a defect.md",
+    "content/principles/AF062 \u2014 Savour positive experiences \u2014 deliberately attend to and amplify them.md",
+    "content/principles/AT021 \u2014 Learn to attend to the positive deliberately \u2014 attention training for well-being.md",
+    "content/principles/B053 \u2014 Practice sympathetic joy (mudita).md",
+    "content/principles/B101 \u2014 Rejoice in others' happiness (mudita as practice).md",
+    "content/principles/S016 \u2014 Do not desire what belongs to others.md",
+    "content/principles/S082 \u2014 Do not be envious of others' success.md",
+    "content/principles/SP073 \u2014 Guard the free person's cheerfulness under loss.md",
+    "content/concepts/Four immeasurables.md",
+    "content/concepts/Mudita (sympathetic joy).md",
+    "content/kernels/K166 \u2014 Sympathetic joy.md",
+    "content/thinkers/T006 \u2014 Siddhartha Gautama (the Buddha).md",
+    "content/sayings/Wishing the friend's good for his own sake.md"
+   ]
+  },
+  "brahmavihara": {
+   "count": 9,
+   "paths": [
+    "content/principles/B053 \u2014 Practice sympathetic joy (mudita).md",
+    "content/principles/B054 \u2014 Practice equanimity (upekkha).md",
+    "content/principles/B100 \u2014 Keep compassion free of pity (the near enemy).md",
+    "content/principles/Y065 \u2014 Cultivate the fourfold stance toward people.md",
+    "content/principles/Y114 \u2014 Match your stance to the other's condition.md",
+    "content/concepts/Equanimity.md",
+    "content/concepts/Four immeasurables.md",
+    "content/concepts/Metta (loving-kindness).md",
+    "content/kernels/K166 \u2014 Sympathetic joy.md"
+   ]
+  },
+  "meaning in life": {
+   "count": 30,
+   "paths": [
+    "content/principles/D001 \u2014 Align your life with the Dao.md",
+    "content/principles/D192 \u2014 Die well by having lived aligned.md",
+    "content/principles/E038 \u2014 Practise project.md",
+    "content/principles/E064 \u2014 Practise meaning through the attitude toward suffering.md",
+    "content/principles/E066 \u2014 Practise the will to meaning.md",
+    "content/principles/E505 \u2014 The ceremony transforms natural ends into infinite tasks (Deleuze).md",
+    "content/principles/MO061 \u2014 Learn to cultivate meaning \u2014 purpose sustains motivation.md",
+    "content/principles/PP028 \u2014 Mattering matters.md",
+    "content/principles/S096 \u2014 Remember that the whole is more important than the part.md",
+    "content/principles/SE046 \u2014 Recognise identity and meaning \u2014 identity provides meaning.md",
+    "content/principles/SO020 \u2014 Treat secular meaning as legitimate.md",
+    "content/principles/SP085 \u2014 Cultivate the intellectual love of God.md",
+    "content/concepts/Attitudinal values.md",
+    "content/concepts/Creative values.md",
+    "content/concepts/Existential confrontation.md",
+    "content/concepts/Existential mattering.md",
+    "content/concepts/Existential meaning.md",
+    "content/concepts/Experiential values.md",
+    "content/concepts/Logotherapy.md",
+    "content/concepts/Meaning.md",
+    "content/concepts/The search for meaning.md",
+    "content/concepts/True self.md",
+    "content/concepts/Values-driven life.md",
+    "content/kernels/K230 \u2014 Memento mori.md",
+    "content/kernels/K231 \u2014 Living the question.md",
+    "content/kernels/K328 \u2014 Aesthetic attention.md",
+    "content/kernels/K332 \u2014 Life chapter mapping.md",
+    "content/kernels/K349 \u2014 Act of repair.md",
+    "content/kernels/K351 \u2014 The meaning question.md",
+    "content/thinkers/T019 \u2014 Frankl, Viktor.md"
+   ]
+  },
+  "self-distancing": {
+   "count": 25,
+   "paths": [
+    "content/principles/AF029 \u2014 Build a regulation repertoire \u2014 the number of strategies you can deploy matters.md",
+    "content/principles/AF033 \u2014 Learn self-distancing \u2014 the ability to step back from your own experience.md",
+    "content/principles/CO065 \u2014 Cultivate wise reasoning \u2014 wisdom is a trainable skill, not a fixed trait.md",
+    "content/principles/CO066 \u2014 Learn to take the third-person perspective \u2014 distanced self-talk improves reasoning.md",
+    "content/principles/K010 \u2014 Step back from the ego to the field.md",
+    "content/principles/K045 \u2014 Understand self-cherishing as the root error.md",
+    "content/principles/K070 \u2014 Take the FAS perspective \u2014 formless, all-humankind, suprahistorical.md",
+    "content/principles/P185 \u2014 The sovereign cure for worry is a hold on larger realities.md",
+    "content/principles/S052 \u2014 Practise the view from above.md",
+    "content/principles/S100 \u2014 See the smallness of human affairs.md",
+    "content/principles/S124 \u2014 Practise the view from above.md",
+    "content/principles/SE016 \u2014 Learn self-distancing \u2014 view yourself from the outside.md",
+    "content/principles/SE032 \u2014 Cultivate an inner ally \u2014 develop a supportive internal voice.md",
+    "content/principles/SP082 \u2014 Practice seeing things under the aspect of eternity.md",
+    "content/principles/Y089 \u2014 Separate the seer from the seen daily.md",
+    "content/concepts/Distanced self-talk (Kross).md",
+    "content/concepts/Formative assessment theory.md",
+    "content/concepts/Self-distancing.md",
+    "content/concepts/Temporal dynamics of regulation.md",
+    "content/concepts/The observing self.md",
+    "content/concepts/Wise reasoning.md",
+    "content/kernels/K138 \u2014 Multiple versioning.md",
+    "content/kernels/K261 \u2014 Self-distanced reflection.md",
+    "content/kernels/K273 \u2014 The view from above.md",
+    "content/kernels/K339 \u2014 The third story.md"
+   ]
+  },
+  "samadhi": {
+   "count": 16,
+   "paths": [
+    "content/principles/AT002 \u2014 Know that attention has three networks \u2014 alerting, orienting, and executive control.md",
+    "content/principles/B028 \u2014 Develop right concentration (samadhi).md",
+    "content/principles/B095 \u2014 Collect the mind (samadhi as gathering).md",
+    "content/principles/S011 \u2014 Recognise the three topoi \u2014 the three disciplines.md",
+    "content/principles/Y021 \u2014 Diagnose the mind's state before choosing a practice.md",
+    "content/principles/Y073 \u2014 Bind attention to one place.md",
+    "content/principles/Y074 \u2014 Let absorption come from continuity.md",
+    "content/principles/Y075 \u2014 Let the object fill the field.md",
+    "content/principles/Y076 \u2014 Combine the three into one skill.md",
+    "content/principles/Y078 \u2014 Distinguish settling with and without seed.md",
+    "content/concepts/One-pointedness.md",
+    "content/concepts/Right concentration.md",
+    "content/concepts/Right livelihood.md",
+    "content/concepts/Samadhi.md",
+    "content/concepts/The three trainings.md",
+    "content/thinkers/T041 \u2014 Patanjali.md"
+   ]
+  },
+  "five aggregates": {
+   "count": 11,
+   "paths": [
+    "content/principles/AF023 \u2014 Know that affect changes memory; do not trust emotional memory as a record.md",
+    "content/principles/B001 \u2014 Face suffering directly.md",
+    "content/principles/B075 \u2014 The thinker is another thought.md",
+    "content/principles/B119 \u2014 The self is a chariot \u2014 parts without an essence.md",
+    "content/principles/B120 \u2014 Experience is five streams (the aggregates).md",
+    "content/principles/K011 \u2014 See the ego's groundlessness as its nature, not its failure.md",
+    "content/principles/Y014 \u2014 Hold the metaphysics lightly.md",
+    "content/concepts/Anatta.md",
+    "content/concepts/Samskara.md",
+    "content/concepts/Skandha.md",
+    "content/concepts/The charioteer's analysis.md"
+   ]
+  },
+  "zazen": {
+   "count": 9,
+   "paths": [
+    "content/principles/B044 \u2014 Just sit (zazen, shikantaza).md",
+    "content/principles/B058 \u2014 Sit daily \u2014 consistency over intensity.md",
+    "content/principles/B178 \u2014 Practice without gaining ideas.md",
+    "content/principles/D070 \u2014 Let stillness precede mastery.md",
+    "content/concepts/Shikantaza, just sitting.md",
+    "content/concepts/The rhythm of small pauses.md",
+    "content/concepts/The six departures.md",
+    "content/thinkers/T053 \u2014 Dogen.md",
+    "content/stories/ST070 \u2014 D\u014dgen Just Sits.md"
+   ]
+  },
+  "eupatheiai": {
+   "count": 3,
+   "paths": [
+    "content/principles/S059 \u2014 Do not be carried away by passion.md",
+    "content/concepts/Apatheia.md",
+    "content/concepts/Passions as judgments.md"
+   ]
+  },
+  "prosoche": {
+   "count": 6,
+   "paths": [
+    "content/principles/S129 \u2014 Practise the discipline of attention.md",
+    "content/concepts/Prosoch\u0113.md",
+    "content/concepts/Spiritual exercises.md",
+    "content/concepts/Spiritual vigilance.md",
+    "content/concepts/Therapeutic philosophy.md",
+    "content/thinkers/T036 \u2014 Hadot, Pierre.md"
+   ]
+  },
+  "dharana": {
+   "count": 3,
+   "paths": [
+    "content/principles/Y073 \u2014 Bind attention to one place.md",
+    "content/principles/Y076 \u2014 Combine the three into one skill.md",
+    "content/concepts/Samadhi.md"
+   ]
+  },
+  "dhyana": {
+   "count": 5,
+   "paths": [
+    "content/principles/Y074 \u2014 Let absorption come from continuity.md",
+    "content/principles/Y076 \u2014 Combine the three into one skill.md",
+    "content/concepts/Samadhi.md",
+    "content/concepts/Shravana, manana, nididhyasana.md",
+    "content/concepts/The same in all conditions.md"
+   ]
+  },
+  "kath\u0113kon": {
+   "count": 0,
+   "paths": []
+  },
+  "ataraxia": {
+   "count": 15,
+   "paths": [
+    "content/principles/B007 \u2014 Trust that the fires can cool here and now (nibbana).md",
+    "content/principles/B054 \u2014 Practice equanimity (upekkha).md",
+    "content/principles/B094 \u2014 Cultivate tranquility (passaddhi).md",
+    "content/principles/B111 \u2014 Rest in contentment \u2014 the greatest wealth.md",
+    "content/principles/D030 \u2014 Contentment is the greatest wealth.md",
+    "content/principles/D093 \u2014 Make happiness independent of externals.md",
+    "content/principles/S067 \u2014 Cultivate tranquillity (ataraxia).md",
+    "content/principles/SP060 \u2014 Build true self-esteem.md",
+    "content/principles/X004 \u2014 Expect the quiet to arrive unsought, like a shadow following a body.md",
+    "content/principles/Y008 \u2014 Measure progress by stability, not intensity of experience.md",
+    "content/concepts/Ataraxia.md",
+    "content/concepts/Eudaimonia.md",
+    "content/concepts/Nirvana.md",
+    "content/concepts/The contemplative life.md",
+    "content/concepts/The dichotomy of control.md"
+   ]
+  },
+  "tranquillity": {
+   "count": 29,
+   "paths": [
+    "content/principles/B033 \u2014 Cultivate the seven factors of awakening.md",
+    "content/principles/B035 \u2014 Balance calming and insight (samatha-vipassana; zhiguan).md",
+    "content/principles/B094 \u2014 Cultivate tranquility (passaddhi).md",
+    "content/principles/D148 \u2014 Let stillness heal.md",
+    "content/principles/D154 \u2014 Treat sleep as sacred.md",
+    "content/principles/D187 \u2014 Master the art of beginning well.md",
+    "content/principles/S026 \u2014 Practise contentment with what you have.md",
+    "content/principles/S064 \u2014 Build the inner citadel.md",
+    "content/principles/S067 \u2014 Cultivate tranquillity (ataraxia).md",
+    "content/principles/S094 \u2014 Accept pain as part of nature.md",
+    "content/principles/SE057 \u2014 Learn to set boundaries \u2014 the self needs protection.md",
+    "content/concepts/Ataraxia.md",
+    "content/concepts/Autonomic nervous system (sympathetic vs parasympathetic).md",
+    "content/concepts/Cortisol awakening response theory.md",
+    "content/concepts/Epoch\u00e9.md",
+    "content/concepts/Equipollence.md",
+    "content/concepts/Eudaimonia.md",
+    "content/concepts/Externals as indifferents.md",
+    "content/concepts/Growth through practice.md",
+    "content/concepts/Katastematic pleasure.md",
+    "content/concepts/Natural and necessary.md",
+    "content/concepts/Shamatha (calm abiding).md",
+    "content/concepts/The classification of fears.md",
+    "content/concepts/The contemplative life.md",
+    "content/concepts/The dichotomy of control.md",
+    "content/concepts/The inner citadel.md",
+    "content/concepts/The relaxation response.md",
+    "content/concepts/The ten modes.md",
+    "content/concepts/Wabi-sabi.md"
+   ]
+  },
+  "gelassenheit": {
+   "count": 18,
+   "paths": [
+    "content/principles/AT005 \u2014 Know that attention and awareness are not the same \u2014 you can be aware without attending.md",
+    "content/principles/AT043 \u2014 Understand attentional restoration through meditation \u2014 rest in awareness.md",
+    "content/principles/AT048 \u2014 Learn open monitoring meditation \u2014 awareness without narrow focus.md",
+    "content/principles/B044 \u2014 Just sit (zazen, shikantaza).md",
+    "content/principles/B060 \u2014 Practice without seeking.md",
+    "content/principles/B090 \u2014 Don't suppress \u2014 observe kindly.md",
+    "content/principles/D003 \u2014 Act through wu wei \u2014 non-forcing.md",
+    "content/principles/D013 \u2014 Keep the valley-mind \u2014 low, open, receptive.md",
+    "content/principles/D046 \u2014 Practice fasting of the mind (xinzhai).md",
+    "content/principles/D047 \u2014 Practice sitting and forgetting (zuowang).md",
+    "content/principles/D055 \u2014 Don't force.md",
+    "content/principles/D099 \u2014 Let things happen of themselves.md",
+    "content/principles/E102 \u2014 Practise Gelassenheit (releasement).md",
+    "content/principles/S055 \u2014 Do not argue with impressions.md",
+    "content/concepts/Gelassenheit.md",
+    "content/concepts/Language on holiday.md",
+    "content/concepts/Letting-be.md",
+    "content/thinkers/T038 \u2014 Heidegger, Martin.md"
+   ]
+  },
+  "tonglen": {
+   "count": 2,
+   "paths": [
+    "content/principles/B180 \u2014 Turn mishaps into the path (lojong).md",
+    "content/principles/K028 \u2014 Practice sending and taking on the breath.md"
+   ]
+  },
+  "satori": {
+   "count": 3,
+   "paths": [
+    "content/principles/B019 \u2014 Awakening is available in this life.md",
+    "content/concepts/The Great Death.md",
+    "content/stories/ST356 \u2014 The Shade Tree After the Great Death.md"
+   ]
+  },
+  "meliorism": {
+   "count": 0,
+   "paths": []
+  },
+  "pessimism": {
+   "count": 7,
+   "paths": [
+    "content/principles/D005 \u2014 Expect reversal \u2014 extremes turn into their opposites.md",
+    "content/principles/PP016 \u2014 Distinguish realistic from unrealistic optimism.md",
+    "content/concepts/Negative visualisation.md",
+    "content/concepts/Nihilism.md",
+    "content/concepts/Sublimation.md",
+    "content/kernels/K275 \u2014 Morning premeditation.md",
+    "content/stories/ST221 \u2014 The Premeditation of Evils.md"
+   ]
+  },
+  "common notions": {
+   "count": 2,
+   "paths": [
+    "content/principles/SP049 \u2014 Trust what is common to all.md",
+    "content/principles/SP084 \u2014 Seek the third kind of knowledge directly.md"
+   ]
+  },
+  "satipatthana": {
+   "count": 47,
+   "note": "grep -rli word-boundary prose scan; principle B039 exists; no concept or kernel page found (ls + normalized-title checks)"
+  }
+ },
+ "existing_page_matches": {
+  "mudita": {
+   "exact": [],
+   "fuzzy": [
+    "practice sympathetic joy mudita",
+    "b053 practice sympathetic joy mudita",
+    "rejoice in others happiness mudita as practice",
+    "b101 rejoice in others happiness mudita as practice",
+    "mudita sympathetic joy"
+   ]
+  },
+  "sympathetic joy": {
+   "exact": [
+    "content/kernels/K166 \u2014 Sympathetic joy.md"
+   ],
+   "fuzzy": [
+    "practice sympathetic joy mudita",
+    "b053 practice sympathetic joy mudita",
+    "mudita sympathetic joy",
+    "sympathetic joy",
+    "k166 sympathetic joy"
+   ]
+  },
+  "brahmavihara": {
+   "exact": [],
+   "fuzzy": []
+  },
+  "four sublime states": {
+   "exact": [],
+   "fuzzy": []
+  },
+  "meaning in life": {
+   "exact": [],
+   "fuzzy": []
+  },
+  "self-distancing": {
+   "exact": [
+    "content/concepts/Self-distancing.md",
+    "content/concepts/Self-distancing.md"
+   ],
+   "fuzzy": [
+    "learn self distancing the ability to step back from your own experience",
+    "af033 learn self distancing the ability to step back from your own experience",
+    "learn self distancing view yourself from the outside",
+    "se016 learn self distancing view yourself from the outside",
+    "self distancing"
+   ]
+  },
+  "samadhi": {
+   "exact": [
+    "content/concepts/Samadhi.md",
+    "content/concepts/Samadhi.md"
+   ],
+   "fuzzy": [
+    "develop right concentration samadhi",
+    "b028 develop right concentration samadhi",
+    "collect the mind samadhi as gathering",
+    "b095 collect the mind samadhi as gathering",
+    "samadhi"
+   ]
+  },
+  "five aggregates": {
+   "exact": [],
+   "fuzzy": [
+    "experience is five streams the aggregates",
+    "b120 experience is five streams the aggregates"
+   ]
+  },
+  "zazen": {
+   "exact": [],
+   "fuzzy": [
+    "just sit zazen shikantaza",
+    "b044 just sit zazen shikantaza"
+   ]
+  },
+  "eupatheiai": {
+   "exact": [],
+   "fuzzy": []
+  },
+  "prosoche": {
+   "exact": [
+    "content/concepts/Prosoch\u0113.md",
+    "content/concepts/Prosoch\u0113.md"
+   ],
+   "fuzzy": [
+    "prosoche"
+   ]
+  },
+  "dharana": {
+   "exact": [],
+   "fuzzy": []
+  },
+  "dhyana": {
+   "exact": [],
+   "fuzzy": []
+  },
+  "ataraxia": {
+   "exact": [
+    "content/concepts/Ataraxia.md",
+    "content/concepts/Ataraxia.md"
+   ],
+   "fuzzy": [
+    "cultivate tranquillity ataraxia",
+    "s067 cultivate tranquillity ataraxia",
+    "ataraxia"
+   ]
+  },
+  "shikantaza": {
+   "exact": [],
+   "fuzzy": [
+    "just sit zazen shikantaza",
+    "b044 just sit zazen shikantaza",
+    "shikantaza just sitting"
+   ]
+  }
+ },
+ "stream4_kernel_shortlist": {
+  "practice_principles": 696,
+  "kernel_files": 316,
+  "no_kernel_hit": [
+   {
+    "principle": "Practise perceptiveness (aisthesis)",
+    "path": "content/principles/A050 \u2014 Practise perceptiveness (aisthesis).md"
+   },
+   {
+    "principle": "Practice heedfulness (appamada)",
+    "path": "content/principles/B017 \u2014 Practice heedfulness (appamada).md"
+   },
+   {
+    "principle": "Use antidotes skillfully",
+    "path": "content/principles/B084 \u2014 Use antidotes skillfully.md"
+   },
+   {
+    "principle": "Cultivate tranquility (passaddhi)",
+    "path": "content/principles/B094 \u2014 Cultivate tranquility (passaddhi).md"
+   },
+   {
+    "principle": "Practise the chiasm",
+    "path": "content/principles/E019 \u2014 Practise the chiasm.md"
+   },
+   {
+    "principle": "Practise thrownness (Geworfenheit)",
+    "path": "content/principles/E022 \u2014 Practise thrownness (Geworfenheit).md"
+   },
+   {
+    "principle": "Practise conscience (Gewissen)",
+    "path": "content/principles/E045 \u2014 Practise conscience (Gewissen).md"
+   },
+   {
+    "principle": "Practise resoluteness (Entschlossenheit)",
+    "path": "content/principles/E046 \u2014 Practise resoluteness (Entschlossenheit).md"
+   },
+   {
+    "principle": "Practise historicity (Geschichtlichkeit)",
+    "path": "content/principles/E047 \u2014 Practise historicity (Geschichtlichkeit).md"
+   },
+   {
+    "principle": "Practise solidarity",
+    "path": "content/principles/E059 \u2014 Practise solidarity.md"
+   },
+   {
+    "principle": "Practise emplotment",
+    "path": "content/principles/E084 \u2014 Practise emplotment.md"
+   },
+   {
+    "principle": "Practise shipwreck",
+    "path": "content/principles/E092 \u2014 Practise shipwreck.md"
+   },
+   {
+    "principle": "Practise the encompassing (das Umgreifende)",
+    "path": "content/principles/E094 \u2014 Practise the encompassing (das Umgreifende).md"
+   },
+   {
+    "principle": "Practise the axial age",
+    "path": "content/principles/E096 \u2014 Practise the axial age.md"
+   },
+   {
+    "principle": "Practise Gelassenheit (releasement)",
+    "path": "content/principles/E102 \u2014 Practise Gelassenheit (releasement).md"
+   },
+   {
+    "principle": "Practise the overman (\u00dcbermensch)",
+    "path": "content/principles/E109 \u2014 Practise the overman (\u00dcbermensch).md"
+   },
+   {
+    "principle": "Use instability creatively",
+    "path": "content/principles/P149 \u2014 Use instability creatively.md"
+   },
+   {
+    "principle": "Practise whanaungatanga",
+    "path": "content/principles/R026 \u2014 Practise whanaungatanga.md"
+   },
+   {
+    "principle": "Practise manaakitanga",
+    "path": "content/principles/R027 \u2014 Practise manaakitanga.md"
+   },
+   {
+    "principle": "Practise kaitiakitanga",
+    "path": "content/principles/R028 \u2014 Practise kaitiakitanga.md"
+   },
+   {
+    "principle": "Practise rangatiratanga",
+    "path": "content/principles/R029 \u2014 Practise rangatiratanga.md"
+   },
+   {
+    "principle": "Practise kotahitanga",
+    "path": "content/principles/R030 \u2014 Practise kotahitanga.md"
+   },
+   {
+    "principle": "Practise tapu",
+    "path": "content/principles/R032 \u2014 Practise tapu.md"
+   },
+   {
+    "principle": "Practise utu",
+    "path": "content/principles/R033 \u2014 Practise utu.md"
+   },
+   {
+    "principle": "Practise tika",
+    "path": "content/principles/R034 \u2014 Practise tika.md"
+   },
+   {
+    "principle": "Practise pono",
+    "path": "content/principles/R035 \u2014 Practise pono.md"
+   },
+   {
+    "principle": "Practise aroha",
+    "path": "content/principles/R036 \u2014 Practise aroha.md"
+   },
+   {
+    "principle": "Practise Te Whare Tapa Wh\u0101",
+    "path": "content/principles/R037 \u2014 Practise Te Whare Tapa Wh\u0101.md"
+   },
+   {
+    "principle": "Practise whakawhanaungatanga",
+    "path": "content/principles/R038 \u2014 Practise whakawhanaungatanga.md"
+   },
+   {
+    "principle": "Practise hau",
+    "path": "content/principles/R039 \u2014 Practise hau.md"
+   },
+   {
+    "principle": "Practise wh\u0101nau ora",
+    "path": "content/principles/R040 \u2014 Practise wh\u0101nau ora.md"
+   },
+   {
+    "principle": "Practise teu le v\u0101",
+    "path": "content/principles/R042 \u2014 Practise teu le v\u0101.md"
+   },
+   {
+    "principle": "Practise fa'asamoa",
+    "path": "content/principles/R043 \u2014 Practise fa'asamoa.md"
+   },
+   {
+    "principle": "Practise tautua",
+    "path": "content/principles/R044 \u2014 Practise tautua.md"
+   },
+   {
+    "principle": "Practise talanoa",
+    "path": "content/principles/R046 \u2014 Practise talanoa.md"
+   },
+   {
+    "principle": "Practise va tapuia",
+    "path": "content/principles/R047 \u2014 Practise va tapuia.md"
+   },
+   {
+    "principle": "Practise ofo",
+    "path": "content/principles/R048 \u2014 Practise ofo.md"
+   },
+   {
+    "principle": "Practise alofa",
+    "path": "content/principles/R049 \u2014 Practise alofa.md"
+   },
+   {
+    "principle": "Practise attentiveness",
+    "path": "content/principles/R070 \u2014 Practise attentiveness.md"
+   },
+   {
+    "principle": "Practise availability (disponibilit\u00e9)",
+    "path": "content/principles/R085 \u2014 Practise availability (disponibilit\u00e9).md"
+   },
+   {
+    "principle": "Practise fidelity",
+    "path": "content/principles/R086 \u2014 Practise fidelity.md"
+   },
+   {
+    "principle": "Practise incarnation",
+    "path": "content/principles/R089 \u2014 Practise incarnation.md"
+   },
+   {
+    "principle": "Practise capabilities",
+    "path": "content/principles/R110 \u2014 Practise capabilities.md"
+   },
+   {
+    "principle": "Practise beneficence",
+    "path": "content/principles/S037 \u2014 Practise beneficence.md"
+   },
+   {
+    "principle": "Practise non-retaliation",
+    "path": "content/principles/S042 \u2014 Practise non-retaliation.md"
+   },
+   {
+    "principle": "Cultivate tranquillity (ataraxia)",
+    "path": "content/principles/S067 \u2014 Cultivate tranquillity (ataraxia).md"
+   },
+   {
+    "principle": "Do not gossip",
+    "path": "content/principles/S075 \u2014 Do not gossip.md"
+   },
+   {
+    "principle": "Practice tenacity",
+    "path": "content/principles/SP058 \u2014 Practice tenacity.md"
+   }
+  ]
+ },
+ "stream1_dangling_all_content_files": {
+  "Optimism bias": [
+   "content/concepts/Probabilistic thinking.md"
+  ]
+ },
+ "stream1_note": "The six-tree-only scan (above) omits ~504 structure/volume/layer files that legitimately resolve the V1K/V2K/A-forest targets; the all-content scan is the correct Stream 1 and yields 1 dangling target.",
+ "stream2_indexes_opened": [
+  "IEP Stoicism",
+  "IEP Daoism",
+  "IEP Buber",
+  "IEP Spinoza",
+  "IEP Aristotle",
+  "IEP Buddha",
+  "SEP Kyoto School",
+  "SEP Pragmatism",
+  "SEP Process Philosophy",
+  "Wikipedia Yoga Sutras of Patanjali",
+  "Britannica The Axial Age"
+ ]
+}
