@@ -13,6 +13,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **and holds jade** — Laozi, Daodejing 70
 
+- [[T012 — Laozi]]: the Daodejing 70 source this saying is drawn from.
+
 ## Sources
 
 - Laozi, Daodejing 70

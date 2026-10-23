@@ -610,11 +610,17 @@
   "content/sayings/The cautious walker of the winter stream.md",
   "content/sayings/The journey begins with a single step.md",
   "content/sayings/The journey of a thousand miles.md",
-  "content/sayings/The sage teaches without words.md"
+  "content/sayings/The sage teaches without words.md",
+  "content/sayings/The sage wears coarse cloth and carries jade.md",
+  "content/sayings/The sage wears rough cloth.md",
+  "content/sayings/The single step.md",
+  "content/sayings/The soft overcomes the hard.md",
+  "content/sayings/The thousand-mile journey.md",
+  "content/thinkers/T006 — Siddhartha Gautama (the Buddha).md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:34:44+00:00",
+ "updated": "2026-10-23T14:35:06+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

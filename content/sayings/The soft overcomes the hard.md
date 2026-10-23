@@ -9,6 +9,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The soft overcomes the hard” — Laozi, Daodejing 36.
 
+- [[T012 — Laozi]]: the Daodejing 36 source this saying is drawn from.
+
 ## Sources
 
 - Laozi, Daodejing 36
