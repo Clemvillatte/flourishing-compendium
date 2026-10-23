@@ -17,7 +17,7 @@ The Nahua proverb for a good person who falls into wrongdoing is terrain descrip
 **Plain words**
 The proverb describes an upright person who slips into wrongdoing — balance is hard to keep on this earth, the tradition says. The compendium's adaptation: when you lose footing, name the terrain first, then decide what, if anything, the slip means about you.
 
-*For example (imagined):* Two people are laid off the same week. One reads it as proof of failure; the other as a slip on a slope everyone walks. The second is looking for the next hold a month sooner.
+*For example:* Two people are laid off the same week. One reads it as proof of failure; the other as a slip on a slope everyone walks. The second is looking for the next hold a month sooner.
 
 ## Psychology parallels
 

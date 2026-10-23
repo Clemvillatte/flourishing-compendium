@@ -24,7 +24,7 @@ For the psychological parallel, Mayer and Frantz's Connectedness to Nature Scale
 
 **Plain words** Abram's claim is that human senses and thinking grew up in exchange with animals, landscapes and weather, so being cut off from them diminishes us. The compendium turns this into an invitation to count those relations as real parts of who you are.
 
-*For example (imagined):* Someone who has walked the same river for years notices its changes with the seasons and finds that the habit shapes how they notice everything else.
+*For example:* Someone who has walked the same river for years notices its changes with the seasons and finds that the habit shapes how they notice everything else.
 
 ## Sources
 

@@ -20,7 +20,7 @@ Bandura argues that learning entirely from the consequences of one's own actions
 
 **Plain words** Pick a situation you want to handle better. Name the action involved, such as opening a conversation or explaining a task. As a compendium exercise, ask someone to demonstrate how they do it, then choose a manageable opportunity to practise that action yourself.
 
-For example (imagined): before giving a team update, a new employee watches a colleague present one. They prepare their own outline and ask the colleague to listen to a rehearsal.
+For example: before giving a team update, a new employee watches a colleague present one. They prepare their own outline and ask the colleague to listen to a rehearsal.
 
 (Bandura, Social Learning Theory, 1971.)
 

@@ -18,7 +18,7 @@ Spinoza states the identity in the scholium to Part III, Proposition 2: mind and
 
 **Plain words** Instead of asking which half of you caused an experience, try describing it twice: what you were thinking, and what you noticed in your body. This is an exercise in approaching the philosophical view, not a diagnosis.
 
-**For example (imagined):** Before speaking at a meeting, someone records their worry about forgetting a point and the tightness they notice in their stomach. They consider both descriptions when reflecting on the occasion.
+**For example:** Before speaking at a meeting, someone records their worry about forgetting a point and the tightness they notice in their stomach. They consider both descriptions when reflecting on the occasion.
 ## Psychology parallels
 
 - **[[Interoception|Interoception as the substrate of emotional regulation]]**, the evidence that bodily awareness supports affective control (Khalsa et al., 2018)

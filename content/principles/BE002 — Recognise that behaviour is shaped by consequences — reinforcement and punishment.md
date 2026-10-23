@@ -28,7 +28,7 @@ If punishment is avoided repeatedly, "the punished behavior eventually emerges".
 
 **Plain words** Positive and negative mean adding and removing, not good and bad. A consequence counts as reinforcing because the response becomes more likely; calling something a reward does not establish that effect. Skinner's practical question is what changes when a consequence follows a response. His warning about punishment concerns avoidance and the possible return of the punished behaviour.
 
-For example (imagined): loud complaints become more frequent after receiving a manager's attention. That pattern is a reason to investigate what attention is reinforcing, rather than assuming the manager's intended reward explains the result.
+For example: loud complaints become more frequent after receiving a manager's attention. That pattern is a reason to investigate what attention is reinforcing, rather than assuming the manager's intended reward explains the result.
 
 ## Sources
 

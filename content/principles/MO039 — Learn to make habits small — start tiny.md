@@ -20,7 +20,7 @@ His own case was flossing: "I had the insight that I already know how to floss a
 
 **Plain words** Choose a very small version of the behaviour and an existing routine after which to attempt it. Define what counts as completing that minimum; doing more need not increase the next attempt's requirement.
 
-*For example (imagined):* Someone commits to one push-up a day, right after their morning coffee; additional repetitions are optional.
+*For example:* Someone commits to one push-up a day, right after their morning coffee; additional repetitions are optional.
 
 ## Sources
 

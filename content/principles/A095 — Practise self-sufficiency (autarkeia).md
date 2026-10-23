@@ -22,7 +22,7 @@ Nor does self-sufficiency mean solitude. In [NE I.7](https://classics.mit.edu/Ar
 
 **Plain words** Aristotle's claim is comparative. Of all the good activities, thinking and study depend least on other people and on money, so building a capacity for them makes your happiness harder to disturb. It does not make you independent of everything. You still need health, food and a modest income, and the self-sufficiency he has in mind still includes family, friends and fellow citizens.
 
-For example (imagined): someone who enjoys reading and long walks is less shaken when a holiday is cancelled than someone whose pleasures all need money and company. They still need friends, and they still need to eat.
+For example: someone who enjoys reading and long walks is less shaken when a holiday is cancelled than someone whose pleasures all need money and company. They still need friends, and they still need to eat.
 
 ## Sources
 

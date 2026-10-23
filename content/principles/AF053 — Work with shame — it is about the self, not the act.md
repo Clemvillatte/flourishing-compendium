@@ -18,7 +18,7 @@ Tangney and colleagues discuss Lewis's distinction between evaluating the whole 
 
 **Plain words** After a mistake, notice whether you are judging one action or condemning yourself as a person. In this distinction, guilt concerns the action; shame concerns the person. As a reflection exercise, describe what happened specifically and consider whether there is something you can put right.
 
-*For example (imagined):* Two employees miss the same deadline. One spends the week dodging the manager's corridor (shame: I am a fraud); the other sends the revision plan by Friday (guilt: the miss was mine).
+*For example:* Two employees miss the same deadline. One spends the week dodging the manager's corridor (shame: I am a fraud); the other sends the revision plan by Friday (guilt: the miss was mine).
 
 ## Psychology parallels
 

@@ -22,7 +22,7 @@ It also warns against reading the stages as a ladder: "even when someone does, t
 
 **Plain words** Kierkegaard sketches three ways of living, built around pleasure, commitment and faith. They are rival views of what makes a life worth living, and a person can stay in one by choice. The scheme works better as a set of questions about your own life than as a ranking.
 
-For example (imagined): someone who has organised years around novelty may notice it no longer satisfies and begin to ask what a lasting commitment would involve. That asks the ethical sphere's question without claiming to have left the aesthetic behind.
+For example: someone who has organised years around novelty may notice it no longer satisfies and begin to ask what a lasting commitment would involve. That asks the ethical sphere's question without claiming to have left the aesthetic behind.
 
 ## Sources
 

@@ -23,7 +23,7 @@ Book VI adds the sober estimate of applause: "the praise which comes from the ma
 **Plain words**
 As a practical exercise, separate a useful criticism from the wish to be liked. Ask whether the criticism gives you a reason to change what you did. Approval alone cannot answer whether your action was just.
 
-*For example (imagined):* A colleague wants you to omit an error from a report. You include it and explain your reasons despite their disapproval.
+*For example:* A colleague wants you to omit an error from a report. You include it and explain your reasons despite their disapproval.
 
 ## Sources
 

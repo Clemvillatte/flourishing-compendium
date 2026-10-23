@@ -23,7 +23,7 @@ Of Sextus he records "a benevolent disposition"; the same entry includes "to loo
 **Plain words**
 As a practical exercise, keep the ledger Marcus kept: one line per person for what they got right — a parent, a teacher, a colleague. Take the ledger down when you need direction; the entries are instructions.
 
-*For example (imagined):* Before a difficult parent meeting, a head teacher writes down a question she remembers her mentor asking.
+*For example:* Before a difficult parent meeting, a head teacher writes down a question she remembers her mentor asking.
 
 ## Sources
 

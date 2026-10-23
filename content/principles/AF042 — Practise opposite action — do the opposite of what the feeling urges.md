@@ -24,7 +24,7 @@ The evidence is thinner than the skill's reputation. Linehan's idea is that acti
 
 **Plain words** A feeling tells you what it wants you to do. This skill is to notice that, check whether the feeling fits the situation, and when it does not, do something else on purpose. It is not pretending the feeling is absent. The feeling stays; what you do with it is up to you.
 
-For example (imagined): you feel ashamed after a clumsy presentation and want to skip the next team meeting. The opposite action is to attend and say hello to the people who were in the room. You are choosing against the urge to hide, and you are not trying to feel fine first.
+For example: you feel ashamed after a clumsy presentation and want to skip the next team meeting. The opposite action is to attend and say hello to the people who were in the room. You are choosing against the urge to hide, and you are not trying to feel fine first.
 
 ## Sources
 

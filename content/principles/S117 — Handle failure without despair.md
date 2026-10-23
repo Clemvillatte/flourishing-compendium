@@ -23,7 +23,7 @@ He returns to this image in VIII.35: "so also the rational animal is able to mak
 **Plain words**
 Review a failed attempt. Identify what obstructed it, what is still possible, and what you want to change before trying again.
 
-*For example (imagined):* After a lost contract, you review what happened, change one habit, and send the next proposal.
+*For example:* After a lost contract, you review what happened, change one habit, and send the next proposal.
 
 ## Sources
 

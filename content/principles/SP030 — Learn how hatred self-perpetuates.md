@@ -22,7 +22,7 @@ Spinoza argues that reciprocated hatred strengthens hatred and that love can des
 
 **Plain words** An angry reply can carry a useful complaint and a wish to hurt. Separate them before sending it. What happened? What do you want changed? Keep those points; leave out the extra wound.
 
-*For example (imagined):* A relative revives an old accusation at a family gathering. Their cousin answers the practical question about the arrangements and offers help, without returning the insult. The disagreement remains unresolved.
+*For example:* A relative revives an old accusation at a family gathering. Their cousin answers the practical question about the arrangements and offers help, without returning the insult. The disagreement remains unresolved.
 
 ## Sources
 

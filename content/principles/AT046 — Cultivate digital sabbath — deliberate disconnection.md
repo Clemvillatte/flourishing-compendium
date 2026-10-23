@@ -24,7 +24,7 @@ Sleep research asks a different question. Readers of a light-emitting e-book "to
 
 **Plain words** Findings differ across restrictions, outcomes and studies; a break is not a guaranteed mood treatment. As a practical reflection, choose any offline period around your responsibilities and what you value. Personal notes can help you notice benefits and costs, but rising mood ratings alone do not prove the break caused them.
 
-For example (imagined): you plan a phone-free Sunday morning and tell anyone who may need you how to make contact. Afterwards, note what the time made possible and what it made harder.
+For example: you plan a phone-free Sunday morning and tell anyone who may need you how to make contact. Afterwards, note what the time made possible and what it made harder.
 
 ## Sources
 

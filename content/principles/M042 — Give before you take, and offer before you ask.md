@@ -17,7 +17,7 @@ The exchange structure of Nahua ritual life, as Maffie summarizes it: "Humans an
 **Plain words**
 The tradition ties receiving knowledge to a morally regulated exchange. The adaptation keeps only the stance: you arrive in any system already owing it something, so give the first hour, the first portion, before you take or ask.
 
-*For example (imagined):* Someone takes the first hour of the day, before the inbox, for the thing they would otherwise never get to, and finds the offering quietly re-prices the whole day.
+*For example:* Someone takes the first hour of the day, before the inbox, for the thing they would otherwise never get to, and finds the offering quietly re-prices the whole day.
 
 ## Psychology parallels
 

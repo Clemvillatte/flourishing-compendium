@@ -26,7 +26,7 @@ The costs may depend on culture. Butler, Lee and Gross found that the negative s
 
 **Plain words** Keeping feelings hidden can have interpersonal costs, but the evidence differs across strangers, couples and cultural settings. The blood-pressure experiment was not a study of intimate partners. These findings invite reflection on how you communicate; they do not require sharing every feeling or establish that disclosure is always better.
 
-For example (imagined): you have had a bad week and answer "fine" when your partner asks. They sense something is off and cannot tell what. Saying "I had a rough week and I'm tired" gives them something to respond to.
+For example: you have had a bad week and answer "fine" when your partner asks. They sense something is off and cannot tell what. Saying "I had a rough week and I'm tired" gives them something to respond to.
 
 ## Sources
 

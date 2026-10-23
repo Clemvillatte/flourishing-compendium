@@ -23,7 +23,7 @@ Such a man "does not value or despise any place as the cause of his happiness or
 **Plain words**
 Choose a particular displacement. List what it would remove and what it would leave available, then name an action still open to you.
 
-*For example (imagined):* Moving abroad for work and building a small routine in a language you barely speak.
+*For example:* Moving abroad for work and building a small routine in a language you barely speak.
 
 ## Sources
 

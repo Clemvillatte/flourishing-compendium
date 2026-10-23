@@ -25,7 +25,7 @@ The instruction names whichever obstacle is yours and refuses the postponement t
 **Plain words**
 The instruction asks you to work on a serious difficulty you already recognize, such as jealousy or aggression, instead of postponing it until you have meditated more. It also warns against demanding a particular result.
 
-For example (imagined): Someone who repeatedly interrupts others examines one recent interruption instead of postponing the issue until they have meditated more.
+For example: Someone who repeatedly interrupts others examines one recent interruption instead of postponing the issue until they have meditated more.
 
 ## Sources
 

@@ -26,7 +26,7 @@ Those reviews address cognitive-training programs. Their findings do not by them
 
 **Plain words** Improvement on a practised task does not automatically mean better attention everywhere. The reviews make that distinction important. A demanding hobby can be worth pursuing for its own sake; broader gains in focus need their own evidence. For reflection, be specific about what you are trying to learn and what feedback would show progress.
 
-For example (imagined): a teacher identifies a difficult piano passage and gives feedback as you practise it. Track what changes in that passage rather than assuming the work will also improve concentration on a spreadsheet.
+For example: a teacher identifies a difficult piano passage and gives feedback as you practise it. Track what changes in that passage rather than assuming the work will also improve concentration on a spreadsheet.
 
 ## Sources
 

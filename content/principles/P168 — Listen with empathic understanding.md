@@ -22,7 +22,7 @@ Rogers also describes checking one's understanding and temporarily setting aside
 
 **Plain words** Listening with empathic understanding is something you do together with the other person: describe their situation as they experience it, then ask whether you have it right and let their answer correct you.
 
-*For example (imagined):* A friend says the family holiday got cancelled again. You say: "So the one weekend everyone counts on fell through." Then you ask whether that is how it feels.
+*For example:* A friend says the family holiday got cancelled again. You say: "So the one weekend everyone counts on fell through." Then you ask whether that is how it feels.
 
 ## Psychology parallels
 

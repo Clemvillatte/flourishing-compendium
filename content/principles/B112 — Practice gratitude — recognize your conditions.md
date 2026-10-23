@@ -21,7 +21,7 @@ The Kataññu Suttas frame gratitude as a mark of integrity rather than as a ple
 
 **Plain words** The sutta names gratitude and thankfulness as qualities of a person of integrity, and then names two people who are not easy to repay: your mother and father. It gives the reason they are hard to repay — they care for you, they nourish you, they introduce you to this world — and it names the repayment it does accept: settling them in conviction, virtue, generosity and discernment.
 
-For example (imagined): a person sits down to a meal and names, briefly, three of the people whose work brought it to the table. The meal is unchanged; the person's attention has changed.
+For example: a person sits down to a meal and names, briefly, three of the people whose work brought it to the table. The meal is unchanged; the person's attention has changed.
 
 (Katannuta Suttas, AN 2:31-32.)
 

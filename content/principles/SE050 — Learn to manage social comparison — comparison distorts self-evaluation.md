@@ -18,7 +18,7 @@ Social comparison is evaluating yourself relative to others. Festinger presents 
 
 **Plain words** Ask what the comparison is measuring. Are you looking at comparable work and circumstances, with enough information to judge? Write down what is missing before drawing a conclusion about yourself.
 
-*For example (imagined):* Someone sees a classmate's promotion announcement and starts calling their own career a failure. They list what they do not know about the other job before deciding whether the comparison provides useful information.
+*For example:* Someone sees a classmate's promotion announcement and starts calling their own career a failure. They list what they do not know about the other job before deciding whether the comparison provides useful information.
 
 ## Sources
 

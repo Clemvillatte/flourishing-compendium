@@ -21,7 +21,7 @@ Aristotle takes up the Pythagorean view that justice is simply reciprocal suffer
 
 **Plain words** A return is not the same amount of the same thing back. It is a return matched to what was given, in proportion. Aristotle's claim is that this is what holds an association together, and he extends it to the state itself.
 
-For example (imagined): bringing a meal to the neighbour who helped you move is not a like-for-like exchange of moving services. As a contemporary analogy, it is a return matched to the help in a fitting way.
+For example: bringing a meal to the neighbour who helped you move is not a like-for-like exchange of moving services. As a contemporary analogy, it is a return matched to the help in a fitting way.
 
 (NE V.5.)
 

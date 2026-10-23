@@ -20,7 +20,7 @@ Gardner, Lally and Wardle's review, describing the same study's result, puts the
 
 **Plain words** These estimates describe substantial variation, not a deadline. Continuing to need deliberate attention after several weeks does not, by itself, establish whether an attempt is succeeding or failing. One missed day did not materially set the study's participants back.
 
-*For example (imagined):* Someone three weeks into a stretching routine records that it still requires deliberate attention, without treating day 21 as either a deadline or proof of failure.
+*For example:* Someone three weeks into a stretching routine records that it still requires deliberate attention, without treating day 21 as either a deadline or proof of failure.
 
 ## Sources
 

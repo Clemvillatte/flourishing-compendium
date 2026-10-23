@@ -19,7 +19,7 @@ Chapter 22 of Book VI presents a father's advice to his son about speaking slowl
 **Plain words**
 When you have something to say, try saying it at a pace and volume you can control. A point can be delivered without shouting or rushing through it.
 
-*For example (imagined):* During a tense meeting, someone pauses before stating a disagreement slowly and without raising their voice.
+*For example:* During a tense meeting, someone pauses before stating a disagreement slowly and without raising their voice.
 
 ## Psychology parallels
 

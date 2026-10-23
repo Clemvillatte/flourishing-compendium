@@ -22,7 +22,7 @@ The compendium's exercise: for one decision this week, write down the noble-maki
 
 **Plain words** The good person acts for what is noble, not just what is useful or pleasant. Aristotle's word for the noble is kalon: the fine. Test an action by asking not only whether it works, but whether you would still do it with nothing to gain.
 
-*For example (imagined):* Someone helps a stranger carry shopping upstairs and notes later that they would have done it with no one watching.
+*For example:* Someone helps a stranger carry shopping upstairs and notes later that they would have done it with no one watching.
 
 ## Psychology parallels
 

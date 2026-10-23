@@ -24,7 +24,7 @@ A large meta-analysis supports one link between wants and needs. Across 259 samp
 
 **Plain words** A short list of needs sits under many wants. When a want feels urgent, ask which need it might serve. The research suggests, with modest effect sizes, that a pile of materialist wants goes with lower well-being partly because needs go unmet.
 
-For example (imagined): "I need this promotion" may mean "I need security, and I want the promotion", which opens other routes to security.
+For example: "I need this promotion" may mean "I need security, and I want the promotion", which opens other routes to security.
 
 ## Sources
 

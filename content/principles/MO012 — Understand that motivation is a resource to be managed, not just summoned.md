@@ -20,7 +20,7 @@ The same review argues that depletion and fatigue describe the same phenomenon, 
 
 **Plain words** The old picture said willpower was a fuel tank that empties. Inzlicht and Berkman propose instead that after a stretch of obligation, motivation shifts from have-to toward want-to, and effort starts to feel costly. The move their account supports is motivational, not mechanical: notice the competing goal before deciding what to do next.
 
-*For example (imagined):* While working on an obligatory report, someone notices a growing wish to switch to a hobby. They identify that competing goal before deciding whether to continue.
+*For example:* While working on an obligatory report, someone notices a growing wish to switch to a hobby. They identify that competing goal before deciding whether to continue.
 
 ## Sources
 

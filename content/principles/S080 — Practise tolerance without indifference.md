@@ -24,7 +24,7 @@ The Tyler (2006) and Hayes et al. (2011) references and Bernstein are cited at s
 
 **Plain words** Marcus says people exist for one another, so teach them or put up with them. He grounds patience with wrongdoers in the idea that they act from ignorance and cannot damage his own character. Acting against injustice to others is a reasonable extension that the passages opened do not state.
 
-*For example (imagined):* A person accepts that their father will not change, and still joins a campaign to improve the care home.
+*For example:* A person accepts that their father will not change, and still joins a campaign to improve the care home.
 
 ## Sources
 

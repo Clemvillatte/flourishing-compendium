@@ -20,7 +20,7 @@ Kasser and Ryan add a related finding from three studies. When money-related val
 
 **Plain words** Goals that fit your own interests and values led to more sustained effort and larger well-being gains in the self-concordance studies. The page's contrast with goals pursued for approval or pressure goes a step beyond this abstract. Asking whose goal it is can still be a useful check.
 
-For example (imagined): someone completes a qualification because their family expects it and feels relief, not satisfaction. A project they chose themselves leaves them wanting more.
+For example: someone completes a qualification because their family expects it and feels relief, not satisfaction. A project they chose themselves leaves them wanting more.
 
 ## Sources
 

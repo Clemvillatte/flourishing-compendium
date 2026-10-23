@@ -28,7 +28,7 @@ The compendium offers a secular adaptation: name a person or purpose your work i
 
 **Plain words** If recognition never came, who would you still want this work to help? Let that answer help set your priorities.
 
-*For example (imagined):* A researcher dedicates an afternoon's analysis to the patients the project is intended to help.
+*For example:* A researcher dedicates an afternoon's analysis to the patients the project is intended to help.
 ## Psychology parallels
 
 - **[[Self-transcendence|Self-transcendent purpose and goal pursuit]]** (Yeager et al., 2014)

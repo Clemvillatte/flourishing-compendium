@@ -27,7 +27,7 @@ When a self-problem is persistent and impairing, the compendium's practical advi
 
 **Plain words** The WHO list above is what a depressive episode can look like from the inside: low self-worth that stays, hopelessness, changed sleep and energy. If that description fits what you live with, the practical move is a professional assessment.
 
-*For example (imagined):* Someone notices that feelings of worthlessness have lasted months, with changed sleep and low energy. They bring the pattern to a professional assessment instead of treating it as a motivation problem.
+*For example:* Someone notices that feelings of worthlessness have lasted months, with changed sleep and low energy. They bring the pattern to a professional assessment instead of treating it as a motivation problem.
 
 ## Sources
 

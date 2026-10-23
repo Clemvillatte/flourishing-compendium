@@ -21,7 +21,7 @@ The sutta's application to emotional acceptance is the compendium's comparison, 
 **Plain words**
 Notice the feeling and your response to having it. Are you frightened, and also judging yourself for being frightened? The suggested practice is to let the feeling be present while you decide what to do next.
 
-*For example (imagined):* Before a presentation, someone notices anxiety, names it, and begins speaking while the anxiety is still present.
+*For example:* Before a presentation, someone notices anxiety, names it, and begins speaking while the anxiety is still present.
 
 ## Psychology parallels
 

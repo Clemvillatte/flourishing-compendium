@@ -24,7 +24,7 @@ The page's earlier wording that one is "born with a face and a heart" is not wha
 
 **Plain words** The Nahua view is that character is made, mainly through teaching and shaping from childhood. A person is not finished at birth. The suggestion to treat your character as under construction is a fair reading, though the sources are about education by sages, not self-help.
 
-For example (imagined): two people start with the same talent. One keeps working at it, the other does not, and years later they differ.
+For example: two people start with the same talent. One keeps working at it, the other does not, and years later they differ.
 
 ## Sources
 

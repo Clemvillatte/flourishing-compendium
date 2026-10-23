@@ -21,7 +21,7 @@ Aristotle's argument runs by elimination. A state of the soul is either an emoti
 
 **Plain words** A good quality is not a mood that shows up on a good day, and not merely the capacity to feel something. It is something formed, and Aristotle says it is formed through repeated action. His own bar for a virtuous act is higher than mere repetition: the agent must act with knowledge, choose the act for its own sake, and act from a fixed disposition.
 
-For example (imagined): tipping well only when in a good mood is not generosity, on this account. Neither is tipping automatically, without the act being chosen for its own sake. What counts is the act done knowingly and from the disposition it expresses.
+For example: tipping well only when in a good mood is not generosity, on this account. Neither is tipping automatically, without the act being chosen for its own sake. What counts is the act done knowingly and from the disposition it expresses.
 
 (NE II.1, II.4, II.5.)
 

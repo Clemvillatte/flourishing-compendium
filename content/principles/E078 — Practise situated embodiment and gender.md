@@ -24,7 +24,7 @@ The principle's extension to race, class and ability is the compendium's, not Be
 
 **Plain words** Beauvoir argues that gender is lived through the body in a social setting, so it is neither pure biology nor a free choice. A situation shapes you without fixing you. Whether the same idea fits race, class or ability is a further step the compendium takes.
 
-For example (imagined): two people walking the same street at night may read it differently because of what their bodies have been taught to expect from it.
+For example: two people walking the same street at night may read it differently because of what their bodies have been taught to expect from it.
 
 ## Sources
 

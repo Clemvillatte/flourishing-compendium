@@ -27,7 +27,7 @@ Adler and Stewart describe research reporting graded associations between socioe
 
 **Plain words** To understand someone's circumstances, ask what resources they have and where they feel they stand compared with other people. Those are different questions. The health finding describes a pattern across socioeconomic positions, with individual outcomes still uncertain.
 
-*For example (imagined):* Two interview participants report similar incomes but different perceived social standing. The researcher records both answers instead of treating income as the whole account of class.
+*For example:* Two interview participants report similar incomes but different perceived social standing. The researcher records both answers instead of treating income as the whole account of class.
 
 ## Psychology parallels
 

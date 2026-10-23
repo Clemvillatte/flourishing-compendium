@@ -23,7 +23,7 @@ In IV.35 he adds: "Everything is only for a day, both that which remembers and t
 **Plain words**
 A pleasant experience may be something you want to preserve; a painful one may be something you want to end. Marcus asks you to attend to change in both, without giving a timetable for when a particular difficulty will end.
 
-*For example (imagined):* During a difficult week, you notice what has changed since yesterday without assuming the problem will soon disappear.
+*For example:* During a difficult week, you notice what has changed since yesterday without assuming the problem will soon disappear.
 
 ## Sources
 

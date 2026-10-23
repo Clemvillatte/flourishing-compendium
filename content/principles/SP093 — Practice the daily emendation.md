@@ -21,7 +21,7 @@ The proof of Proposition III identifies a passion with a confused idea. Proposit
 **Plain words**
 Try this with an upsetting exchange. Write down what happened separately from what you think the other person intended. Check which parts of your explanation you can support and which parts you are assuming.
 
-*For example (imagined):* After a difficult review, someone notes their anger and their belief that the reviewer dislikes them. They separate the reviewer's actual comments from their guess about the motive.
+*For example:* After a difficult review, someone notes their anger and their belief that the reviewer dislikes them. They separate the reviewer's actual comments from their guess about the motive.
 
 ## Psychology parallels
 

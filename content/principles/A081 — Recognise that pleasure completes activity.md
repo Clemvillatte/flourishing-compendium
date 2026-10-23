@@ -22,7 +22,7 @@ The compendium's exercise: choose an activity and record whether pleasure accomp
 
 **Plain words** For Aristotle, pleasure completes an activity, like bloom completing youth. Enjoying an activity can help sustain it; pleasure from something else can interrupt it.
 
-*For example (imagined):* A cyclist repairs a puncture, then records whether the work was enjoyable and whether nearby music distracted them.
+*For example:* A cyclist repairs a puncture, then records whether the work was enjoyable and whether nearby music distracted them.
 
 ## Stories
 

@@ -20,7 +20,7 @@ So "motivation equals expectancy times value" is a simplified numerator of that 
 
 **Plain words** Two questions help: do I think I can do this, and do I care about it? If one answer is near zero, motivation is likely low, as the formula suggests. Treat it as a diagnostic aid, not an exact calculation.
 
-For example (imagined): you stall on a job search. If the stall is "nothing I send gets a reply", that is an expectancy problem. If it is "I am not sure I want this career", it is a value problem. The fixes differ.
+For example: you stall on a job search. If the stall is "nothing I send gets a reply", that is an expectancy problem. If it is "I am not sure I want this career", it is a value problem. The fixes differ.
 
 ## Sources
 

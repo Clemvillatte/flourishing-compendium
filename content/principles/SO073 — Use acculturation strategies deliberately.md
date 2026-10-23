@@ -34,7 +34,7 @@ The same paper concludes that "the role of acculturation for adaptation may be l
 
 **Plain words** Berry distinguishes maintaining a heritage culture from participating in the wider society. Integration combines the two. His account of marginalization includes enforced cultural loss and exclusion. He describes integration as least stressful where the wider society accommodates it. A later meta-analysis found weak associations between acculturation and adaptation. Use these categories to ask what you want to maintain and what opportunities or constraints you face.
 
-*For example (imagined):* A migrant family keeps the mother tongue at home and uses the local language at work and school, treating both languages as parts of one arrangement.
+*For example:* A migrant family keeps the mother tongue at home and uses the local language at work and school, treating both languages as parts of one arrangement.
 
 ## Related concepts
 

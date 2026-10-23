@@ -22,7 +22,7 @@ He adds that a speaker's "character may almost be called the most effective mean
 
 **Plain words** Aristotle asks how a speaker comes across as sensible, decent and well disposed toward the audience. Here the speech itself must give people reasons for that trust. For contemporary reflection, ask what your explanation shows about your judgement, honesty and concern for those listening. A good reputation alone does not meet this particular account of ethos.
 
-For example (imagined): a colleague explains a result, acknowledges its limits and answers the room's concerns without overselling it. Her manner of arguing gives listeners something to judge, even if they have never met her.
+For example: a colleague explains a result, acknowledges its limits and answers the room's concerns without overselling it. Her manner of arguing gives listeners something to judge, even if they have never met her.
 
 ## Sources
 

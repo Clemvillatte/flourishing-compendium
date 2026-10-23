@@ -24,7 +24,7 @@ The model has limits. One study found that worry was associated with less imager
 
 **Plain words** Worry is mostly words about possible futures. In the lab it dampened the body's response to a feared image while leaving people just as afraid, which fits the idea that it works as a way of avoiding the feeling. The theory has critics. A useful check is still whether a stretch of worrying ended in a concrete step.
 
-*For example (imagined):* The night before a presentation, someone loops through everything that could go wrong, then notices there is no outline. Writing the first slide heading is the move from worry to preparation.
+*For example:* The night before a presentation, someone loops through everything that could go wrong, then notices there is no outline. Writing the first slide heading is the move from worry to preparation.
 
 ## Sources
 

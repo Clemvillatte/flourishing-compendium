@@ -18,7 +18,7 @@ Stroebe and Schut's dual process model distinguishes attending to the loss itsel
 
 **Plain words** After a death, you may be remembering the person at one moment and dealing with a changed part of daily life at another. This model includes pauses from those demands. It does not ask you to attend to the loss continuously.
 
-*For example (imagined):* After sorting her husband's papers, a widow accepts a friend's invitation to watch a comedy.
+*For example:* After sorting her husband's papers, a widow accepts a friend's invitation to watch a comedy.
 
 ## Psychology parallels
 

@@ -21,7 +21,7 @@ The compendium proposes checking one's state before a difficult conversation.
 **Plain words**
 Pause before the conversation and notice how you feel. Afterward, recall what you said first.
 
-*For example (imagined):* After a difficult commute, you notice irritation before speaking to someone at home. You consider how you want to open the conversation.
+*For example:* After a difficult commute, you notice irritation before speaking to someone at home. You consider how you want to open the conversation.
 
 ## Sources
 

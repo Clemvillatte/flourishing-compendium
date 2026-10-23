@@ -22,7 +22,7 @@ Dewey illustrates with a mariner: "A mariner does not sail towards the stars, bu
 
 **Plain words** What action does your aim suggest now? After acting, reconsider what to do next.
 
-*For example (imagined):* A runner keeps a target race time in view and plans four training sessions for the week. After a session, she reviews what happened before deciding on the next one.
+*For example:* A runner keeps a target race time in view and plans four training sessions for the week. After a session, she reviews what happened before deciding on the next one.
 
 ## Psychology parallels
 

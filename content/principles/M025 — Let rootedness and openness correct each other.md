@@ -18,7 +18,7 @@ Root deeply and cross often, with each correcting the other, is the compendium's
 
 **Plain words** A base is not a cage, and a trip is not a life. You need somewhere to come back to and reasons to leave it, and each is what makes the other work. A person who never leaves home gets parochial; a person with nothing to return to gets thin. The correction runs both ways.
 
-*For example (imagined):* A family keeps the farm and takes a working holiday each year; the children grow up fluent in both the local ground and the wider world.
+*For example:* A family keeps the farm and takes a working holiday each year; the children grow up fluent in both the local ground and the wider world.
 
 ## Psychology parallels
 

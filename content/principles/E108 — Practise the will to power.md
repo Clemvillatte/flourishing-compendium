@@ -24,7 +24,7 @@ Scholars split on this. The [Stanford Encyclopedia](https://plato.stanford.edu/e
 
 **Plain words** Nietzsche makes growth and discharge of strength the core of living things. Whether this means mastery of oneself, or power over others as well, is disputed. The page's version, self-overcoming rather than domination, is one strand of interpretation, associated with Kaufmann. The posthumous compilation The Will to Power is not used here, since the encyclopedia calls the editing unreliable.
 
-For example (imagined): a violinist who practises to beat her own earlier performance is an easy case for the self-overcoming reading. A manager who builds a team to win a rivalry shows why the other reading remains live.
+For example: a violinist who practises to beat her own earlier performance is an easy case for the self-overcoming reading. A manager who builds a team to win a rivalry shows why the other reading remains live.
 
 ## Sources
 

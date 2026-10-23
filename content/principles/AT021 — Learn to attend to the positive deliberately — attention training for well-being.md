@@ -30,7 +30,7 @@ A different line of work tested a writing exercise. In Seligman and colleagues' 
 
 **Plain words** Writing about good events and practising where to look on a screen are different activities with different evidence. The writing study supports a possible benefit in its sample, not a promise to every reader. If you try the exercise, there is no need to deny what went badly that day.
 
-For example (imagined): before bed you record a meal with a friend and a piece of work finished, then write what helped each happen. This does not require calling the whole day good.
+For example: before bed you record a meal with a friend and a piece of work finished, then write what helped each happen. This does not require calling the whole day good.
 
 ## Sources
 

@@ -22,7 +22,7 @@ Verse 4 also connects thoughts subsiding with mind seeing itself: "Likewise, the
 **Plain words**
 As an everyday exercise inspired by the passage, notice a thought that comes up while you sit. Leave its story unfinished and avoid trying to force it away. Observe what happens without making its disappearance the goal.
 
-For example (imagined): During sitting, you remember tomorrow's meeting. You notice the thought without rehearsing what you will say or trying to drive it away.
+For example: During sitting, you remember tomorrow's meeting. You notice the thought without rehearsing what you will say or trying to drive it away.
 
 ## Sources
 

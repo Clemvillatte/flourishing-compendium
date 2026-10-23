@@ -26,7 +26,7 @@ It is the sixth of sixteen commitments in that section, and commonly numbered sl
 
 **Plain words** The instruction targets the grip on results, not goals themselves. Lief says the work continues, with attention on the present. The weekly "this is not going anywhere" exercise is the compendium's own suggestion, not found in these sources.
 
-For example (imagined): sit for ten minutes with no aim of becoming calmer, and notice what the sitting is like when nothing is being measured.
+For example: sit for ten minutes with no aim of becoming calmer, and notice what the sitting is like when nothing is being measured.
 
 ## Sources
 

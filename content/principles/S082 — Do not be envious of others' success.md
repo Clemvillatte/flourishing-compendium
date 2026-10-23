@@ -23,7 +23,7 @@ In VI.16 Marcus calls fame worthless and values acting in conformity with one's 
 **Plain words**
 Name what you envy about the other person's success. Is it their achievement or the approval surrounding it? Then identify something you can work on yourself. Someone else receiving praise does not tell you whether your own conduct was good.
 
-*For example (imagined):* A friend publishes a book. You congratulate them, then return to revising a page of your own draft.
+*For example:* A friend publishes a book. You congratulate them, then return to revising a page of your own draft.
 
 ## Sources
 

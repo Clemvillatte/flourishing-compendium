@@ -18,7 +18,7 @@ In their account of emotion regulation effectiveness, Sheppes and Gross contrast
 
 **Plain words** In this framework, the reinterpretation strategy is described as effective when a feeling is small and costly when it is large ([Sheppes & Gross, 2012](https://doi.org/10.1002/9781118133880.hop205018)). The compendium proposes noting when an emotion first becomes noticeable and recording its intensity before deciding what to try — a proposal, not a guarantee.
 
-**For example (imagined):** The person who catches the first warmth of anger at low activation tries reframing it then; the one who first notices at full fury tries the look-away strategy instead. Neither option is guaranteed to work.
+**For example:** The person who catches the first warmth of anger at low activation tries reframing it then; the one who first notices at full fury tries the look-away strategy instead. Neither option is guaranteed to work.
 ## Psychology parallels
 
 - **[[Temporal dynamics of regulation|Temporal dynamics of regulation]]**, reappraisal is more effective when applied early; suppression is more necessary when applied late (Sheppes & Gross, 2012)

@@ -23,7 +23,7 @@ A later systematic review of 46 publications covering 3,402 adults concluded tha
 
 **Plain words** Progressive muscle relaxation means tensing one muscle group at a time, letting go, and noticing the difference. Across many trials this kind of training lowers anxiety by a medium amount, with more benefit from longer programmes. A single short session may do little.
 
-*For example (imagined):* After a week of practising on the sofa each evening, someone notices their shoulders are sitting near their ears during the working day and lets them down.
+*For example:* After a week of practising on the sofa each evening, someone notices their shoulders are sitting near their ears during the working day and lets them down.
 
 ## Sources
 

@@ -20,7 +20,7 @@ The model's abstract states the two roles plainly:
 
 **Plain words** Choose one goal and write down why you pursue it. Which interests or values does it express? Then consider whether you want to keep or revise it.
 
-*For example (imagined):* Someone reviews their goals and finds one they cannot trace to any value of their own: they absorbed it from what people around them reward. For this exercise they write down whose goal it is and whether to keep it.
+*For example:* Someone reviews their goals and finds one they cannot trace to any value of their own: they absorbed it from what people around them reward. For this exercise they write down whose goal it is and whether to keep it.
 ## Sources
 
 - [Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: the self-concordance model. Journal of Personality and Social Psychology, 76(3), 482-497](https://pubmed.ncbi.nlm.nih.gov/10101878/) — abstract

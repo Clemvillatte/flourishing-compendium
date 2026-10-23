@@ -20,7 +20,7 @@ Judah and colleagues tested the placement of a new behaviour in a routine. In 50
 
 **Plain words** [[Habit stacking|Habit stacking]], attaching a new action to a steady daily cue, is supported by these studies, though they do not prove stacking works better than other methods. Expect weeks to months, not days. One missed day did not undo the process in Lally's data.
 
-For example (imagined): "after I pour my morning coffee, I write for ten minutes". Keep the cue exactly the same each day.
+For example: "after I pour my morning coffee, I write for ten minutes". Keep the cue exactly the same each day.
 
 ## Sources
 

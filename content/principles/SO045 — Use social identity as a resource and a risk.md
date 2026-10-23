@@ -31,7 +31,7 @@ The compendium brings these contexts together as reasons to examine what a membe
 
 **Plain words** Think about a group that has helped you. What support would you miss without it? Separately, consider whether you give its members credit you would withhold from someone outside it. These questions let you examine the help you receive alongside your judgments about other people.
 
-*For example (imagined):* A professional association provides mentoring. A member reviewing job applications notices a preference for another member and checks every applicant against the same stated criteria.
+*For example:* A professional association provides mentoring. A member reviewing job applications notices a preference for another member and checks every applicant against the same stated criteria.
 
 ## Psychology parallels
 

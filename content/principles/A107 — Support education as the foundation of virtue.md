@@ -24,7 +24,7 @@ He reports disagreement about the aim (VIII.2): "should the useful in life, or s
 
 **Plain words** What schools teach matters to the kind of people children become. Aristotle thinks arguments alone cannot replace years of practice, and he gives the state responsibility for that practice. He reports disagreement about education's purpose without remaining neutral himself. A contemporary reader can ask what schooling should cultivate without accepting his political programme.
 
-For example (imagined): a parent-teacher group that argues for regular class time on cooperation and honest work, alongside exam results, is treating education as character formation.
+For example: a parent-teacher group that argues for regular class time on cooperation and honest work, alongside exam results, is treating education as character formation.
 
 ## Sources
 

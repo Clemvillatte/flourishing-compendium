@@ -23,7 +23,7 @@ In chapter 2, Seneca cites a poet: "The part of life we really live is small." H
 **Plain words**
 The hours you have and the way you use them are different questions. Review an ordinary day and identify one optional activity you would choose differently.
 
-*For example (imagined):* Tracking a week in half-hour blocks and finding that three hours a day vanish into scrolling.
+*For example:* Tracking a week in half-hour blocks and finding that three hours a day vanish into scrolling.
 
 ## Sources
 

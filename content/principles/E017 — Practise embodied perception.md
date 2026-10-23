@@ -22,7 +22,7 @@ The body is the way in. Perceiving "as we do with our body", he writes, "the bod
 
 **Plain words** Merleau-Ponty treats perceiving as something a living body does from a position in the world, not as a camera feeding a mind. Psychology supports parts of this picture and disputes others, so the strong slogan "participation, not representation" is a philosophical stance, not a settled finding.
 
-For example (imagined): standing in an unfamiliar hallway, you sense its width and light by how you would move through it, which photographs only hint at.
+For example: standing in an unfamiliar hallway, you sense its width and light by how you would move through it, which photographs only hint at.
 
 ## Sources
 

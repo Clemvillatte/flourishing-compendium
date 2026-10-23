@@ -18,7 +18,7 @@ On the definition Eastwood and colleagues argue for, boredom is wanting to be en
 
 **Plain words** You can want something satisfying to do and still struggle to settle your attention on it. Eastwood and colleagues' account describes that frustrating situation. As a practical prompt, ask what you are trying to attend to and whether you want to continue or try something different.
 
-*For example (imagined):* In a waiting room, a man switches between apps, notices that he is not following any of them, and decides to try sketching the chair opposite.
+*For example:* In a waiting room, a man switches between apps, notices that he is not following any of them, and decides to try sketching the chair opposite.
 
 ## Psychology parallels
 

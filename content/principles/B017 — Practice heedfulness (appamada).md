@@ -21,7 +21,7 @@ The compendium uses the exhortation as a prompt to give a chosen commitment deli
 **Plain words**
 Choose something you care about sustaining. What would attending to it look like today?
 
-*For example (imagined):* You have been postponing a visit to your garden plot. You put a visit on tomorrow's calendar and decide to look at what needs attention.
+*For example:* You have been postponing a visit to your garden plot. You put a visit on tomorrow's calendar and decide to look at what needs attention.
 
 ## Sources
 

@@ -26,7 +26,7 @@ On the psychology side, [Diener and Seligman (2002)](https://pubmed.ncbi.nlm.nih
 
 **Plain words** Frankl claims that loving someone lets you see what they could become. Diener and Seligman show a link between close relationships and happiness, which is not the same as meaning. The study is correlational and used a small student sample.
 
-For example (imagined): a friend says, "I think you'd be good at this", and the idea sticks because they have watched you for years. That is the kind of seeing Frankl describes.
+For example: a friend says, "I think you'd be good at this", and the idea sticks because they have watched you for years. That is the kind of seeing Frankl describes.
 
 ## Sources
 

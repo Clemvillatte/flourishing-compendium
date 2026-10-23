@@ -26,7 +26,7 @@ Treatment is the practical consequence: "Fortunately, depression is very treatab
 
 **Plain words** Low mood comes in sizes. Sadness after a loss or setback fits what happened and has ups and downs. Depression is a longer-lasting pattern that affects sleep, energy, interest and daily functioning, and it has treatments that work. The hard part from the inside is that the two can feel the same on a given day. Duration and effect on daily life are the clearer signs, and a clinician makes the diagnosis.
 
-For example (imagined): two months after a breakup, one person has bad days and good days and still meets friends. Another has felt flat nearly every day, has lost interest in everything and is missing work. The second pattern is a reason to see a doctor or psychologist, and anyone with thoughts of ending their life should seek help immediately.
+For example: two months after a breakup, one person has bad days and good days and still meets friends. Another has felt flat nearly every day, has lost interest in everything and is missing work. The second pattern is a reason to see a doctor or psychologist, and anyone with thoughts of ending their life should seek help immediately.
 
 ## Sources
 

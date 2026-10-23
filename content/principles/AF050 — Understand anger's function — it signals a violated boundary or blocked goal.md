@@ -21,7 +21,7 @@ He also describes failure to become angry at appropriate things as blameworthy. 
 **Plain words**
 Being angry does not settle whether someone wronged you. Check what happened and what you inferred. Then decide whether a response is called for and how to make it proportionate.
 
-*For example (imagined):* After being interrupted in a meeting, someone checks whether it was a misunderstanding, then asks the colleague to let them finish their point.
+*For example:* After being interrupted in a meeting, someone checks whether it was a misunderstanding, then asks the colleague to let them finish their point.
 
 ## Psychology parallels
 

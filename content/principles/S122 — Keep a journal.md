@@ -23,7 +23,7 @@ The older version he records is Sextius's: "It was the custom of Sextius when th
 **Plain words**
 At day's end, answer Sextius's questions in writing. Add a sentence about something you said or did and a change you want to try tomorrow.
 
-*For example (imagined):* At the end of a workday, someone writes about a disagreement and drafts a question to ask next time.
+*For example:* At the end of a workday, someone writes about a disagreement and drafts a question to ask next time.
 
 ## Sources
 

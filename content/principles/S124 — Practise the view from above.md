@@ -23,7 +23,7 @@ His own version is the sudden lift: "if thou shouldst suddenly be raised up abov
 **Plain words**
 As a practical exercise, take your current worry and describe it from two heights: first as the city would see it, then as the earth would. Marcus's list — assemblies, armies, marriages, births, deaths, markets — is the template: place your item on the list.
 
-*For example (imagined):* The founder pacing over a failed pitch pictures the earth from orbit for ten seconds — one meeting, one speck of a city.
+*For example:* The founder pacing over a failed pitch pictures the earth from orbit for ten seconds — one meeting, one speck of a city.
 
 ## Sources
 

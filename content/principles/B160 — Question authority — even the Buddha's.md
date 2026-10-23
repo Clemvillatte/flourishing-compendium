@@ -21,7 +21,7 @@ The Kalama Sutta gives the instruction in its own terms. The Buddha tells a grou
 
 **Plain words** The check the sutta describes is about the qualities a teaching encourages in the person following it, and the effects of those qualities when carried out. It is not about the source of the teaching.
 
-For example (imagined): someone is taught a practice by a respected instructor. They consider, for themselves, whether the qualities the practice encourages appear skillful and blameless in their own life, and whether following it appears to lead toward welfare rather than harm.
+For example: someone is taught a practice by a respected instructor. They consider, for themselves, whether the qualities the practice encourages appear skillful and blameless in their own life, and whether following it appears to lead toward welfare rather than harm.
 
 (Kalama Sutta, AN 3.65; Dhammapada 74.)
 

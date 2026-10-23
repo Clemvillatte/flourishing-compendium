@@ -21,7 +21,7 @@ Aristotle's account of prudence treats particular facts as its object, and notes
 
 **Plain words** Aristotle's contrast is between abstract subjects that can be mastered young and particular facts that only accumulate over time. Experience does not automatically produce judgement. What it supplies is the particular knowledge that practical judgement draws on.
 
-For example (imagined): a manager who has watched three projects fail at the planning stage recognises the pattern when it starts in the fourth.
+For example: a manager who has watched three projects fail at the planning stage recognises the pattern when it starts in the fourth.
 
 (NE VI.8.)
 

@@ -24,7 +24,7 @@ The Hooker et al. (2020) citation in the entry's reference line is cited at seco
 
 **Plain words** Macy and Brown present ecological awareness as a practice that moves from gratitude to grief for the world to a sense of interdependence and then to action. Surveys link mindful attention in everyday behaviour with more self-reported sustainable choices, though the evidence is correlational. Noticing where things come from is a reasonable habit, and the research does not show that it changes behaviour on its own.
 
-*For example (imagined):* Someone reads a clothing label, learns where the garment was made, and chooses a second-hand alternative the next time they need one.
+*For example:* Someone reads a clothing label, learns where the garment was made, and chooses a second-hand alternative the next time they need one.
 
 ## Sources
 

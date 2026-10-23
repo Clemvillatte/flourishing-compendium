@@ -18,7 +18,7 @@ In the Preface to Part IV of the Ethics, Spinoza defines good as what we certain
 
 **Plain words** If you call a routine good, explain what it helps you do. Keep that practical judgment distinct from the further question Spinoza raises about the kind of human life being aimed at.
 
-**For example (imagined):** A student compares two study schedules in terms of keeping up with reading. They explain what each allows them to do instead of declaring one schedule best for everyone.
+**For example:** A student compares two study schedules in terms of keeping up with reading. They explain what each allows them to do instead of declaring one schedule best for everyone.
 ## Psychology parallels
 
 - **[[Workability|Workability as a criterion]]**, the ACT proposal that inner events be assessed by whether they function toward valued living rather than by their literal content (Hayes et al., 2011)

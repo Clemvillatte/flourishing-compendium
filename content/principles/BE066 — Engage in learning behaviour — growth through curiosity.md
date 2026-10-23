@@ -19,7 +19,7 @@ Learning behaviour is a specific practice: reading, studying, taking courses, le
 **Plain words**
 Curiosity needs somewhere to go. Give one thing you do not know a regular slot: a book by the bed, a class one evening a week, an app on the commute. Finishing is not the measure; staying comfortable with not-knowing-yet is.
 
-*For example (imagined):* A 60-year-old joins a beginner's Spanish class and is the worst student in the room. Fluency was never the aim. Being someone still learning was.
+*For example:* A 60-year-old joins a beginner's Spanish class and is the worst student in the room. Fluency was never the aim. Being someone still learning was.
 
 ## Psychology parallels
 

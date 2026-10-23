@@ -21,7 +21,7 @@ This principle works on the word "reconstruction" in that definition: the story 
 **Plain words**
 Choose an event you often use to explain who you are. Write down what happened, then the conclusion you drew about yourself. Ask whether your account leaves out relevant experiences or treats a tentative conclusion as final.
 
-*For example (imagined):* A person revises an account of a divorce to include support from friends that the first version omitted. The separation remains part of both accounts.
+*For example:* A person revises an account of a divorce to include support from friends that the first version omitted. The separation remains part of both accounts.
 
 ## Psychology parallels
 

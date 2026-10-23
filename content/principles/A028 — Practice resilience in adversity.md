@@ -21,7 +21,7 @@ Aristotle does not treat happiness as immune to fortune in I.10. He acknowledges
 
 **Plain words** Aristotle's resilience is not insensibility. He distinguishes bearing misfortune patiently from not feeling it. What he holds onto is that the person of virtue will act in the noblest manner the circumstances allow, whatever fortune does to the circumstances themselves.
 
-For example (imagined): one person who has spent years keeping promises in small things keeps one, later, at a cost they did not expect to pay.
+For example: one person who has spent years keeping promises in small things keeps one, later, at a cost they did not expect to pay.
 
 (NE I.10.)
 

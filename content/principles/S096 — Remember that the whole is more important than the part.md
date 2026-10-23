@@ -22,7 +22,7 @@ On the psychology side, George and Park describe meaning in life as having three
 
 **Plain words** Marcus reasons that since he is a part of nature's whole, nothing that benefits the whole can harm him as a part, and a person who turns against what happens is like a limb cut off from the body. He adds that the person can rejoin.
 
-*For example (imagined):* A team member stays late to help finish a shared deadline, and accepts the lost evening as the cost of belonging to the team.
+*For example:* A team member stays late to help finish a shared deadline, and accepts the lost evening as the cost of belonging to the team.
 
 ## Sources
 

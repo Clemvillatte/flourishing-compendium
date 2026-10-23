@@ -20,7 +20,7 @@ The comparison makes relief of suffering a criterion of philosophy's usefulness.
 
 **Plain words** Choose a recurring worry and write down what the teaching says about it. Does that help you examine the worry? Note what remains unresolved, too.
 
-*For example (imagined):* After reading an argument about fear of failure, you reconsider whether one rejected application would make your whole life a failure. Record whether you find the argument convincing and whether your fear changes.
+*For example:* After reading an argument about fear of failure, you reconsider whether one rejected application would make your whole life a failure. Record whether you find the argument convincing and whether your fear changes.
 ## Psychology parallels
 
 - **[[Outcome monitoring in psychological treatment|Outcome monitoring in psychological treatment]]** (Lambert's feedback-informed treatment research)

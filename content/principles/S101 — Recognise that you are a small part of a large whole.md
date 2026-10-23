@@ -23,7 +23,7 @@ Marcus describes mutual dependence: "All things are implicated with one another,
 **Plain words**
 Marcus pictures unsocial action as cutting yourself off from a body. He also says you can rejoin it. When a dispute leaves you wanting to withdraw, ask what part you can still take in a shared task.
 
-*For example (imagined):* After a disagreement on a shared project, you resume your agreed part of the work.
+*For example:* After a disagreement on a shared project, you resume your agreed part of the work.
 
 ## Sources
 

@@ -18,7 +18,7 @@ Distress tolerance names the capacity to withstand aversive internal states rath
 
 **Plain words** Feeling able to bear discomfort and actually bearing it are different things. For an uncomfortable task you have chosen to continue, consider what you can do while the feeling is still present. The question is about your next action; it does not require the feeling to disappear first.
 
-*For example (imagined):* A man feels a wave of panic in a supermarket queue and stays in the line rather than abandoning the trolley. His task is to keep standing there while the feeling is present.
+*For example:* A man feels a wave of panic in a supermarket queue and stays in the line rather than abandoning the trolley. His task is to keep standing there while the feeling is present.
 
 ## Psychology parallels
 

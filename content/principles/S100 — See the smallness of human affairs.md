@@ -23,7 +23,7 @@ The same scale is personal: "Think of the universal substance, of which thou has
 **Plain words**
 Marcus's smallness concerns scale; he still asks how to act. Set the worry against a wider setting, then decide what response is needed from you now.
 
-*For example (imagined):* After a difficult day at work, you look at the night sky and reconsider what you need to do about tomorrow's meeting.
+*For example:* After a difficult day at work, you look at the night sky and reconsider what you need to do about tomorrow's meeting.
 
 ## Sources
 

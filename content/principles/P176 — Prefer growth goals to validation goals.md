@@ -22,7 +22,7 @@ Maslow gives the satisfaction of basic needs a place in this account. The compen
 
 **Plain words** Choose a goal. What do you want to learn, and whose approval do you hope to gain? Consider what you would still want from it if nobody else knew.
 
-*For example (imagined):* A student considering a course wants to learn statistical methods and wants her tutor to admire her work. She considers how each wish is affecting her choice.
+*For example:* A student considering a course wants to learn statistical methods and wants her tutor to admire her work. She considers how each wish is affecting her choice.
 
 ## Psychology parallels
 

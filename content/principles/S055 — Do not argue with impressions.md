@@ -22,7 +22,7 @@ A modern parallel is the "urge surfing" technique. In a randomised study of 123 
 
 **Plain words** Epictetus advises pausing when an impression arrives: tell it to wait, look at it, and test it before agreeing. Simply letting it go is a different practice that the research on urge surfing has begun to study.
 
-*For example (imagined):* An anxious thought arrives during a meeting. The person tells it to wait, notes what it claims, and carries on with the agenda.
+*For example:* An anxious thought arrives during a meeting. The person tells it to wait, notes what it claims, and carries on with the agenda.
 
 ## Sources
 

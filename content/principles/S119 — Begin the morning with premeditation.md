@@ -20,7 +20,7 @@ Marcus records the exercise as a morning rehearsal: telling himself what kind of
 
 **Plain words** Before you go out, allow for the possibility of meeting someone rude. Ask how you want to behave toward them. You can consider your response before the encounter.
 
-*For example (imagined):* A nurse spends two minutes in the car park thinking "today someone will be rude to me, and I will not be rude back." At 10 a.m., when someone is, she has already decided how she will answer.
+*For example:* A nurse spends two minutes in the car park thinking "today someone will be rude to me, and I will not be rude back." At 10 a.m., when someone is, she has already decided how she will answer.
 ## Sources
 
 - [Marcus Aurelius, Meditations, Casaubon translation, Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm) — the morning passage (I.15 in this edition; II.1 in most modern numberings)

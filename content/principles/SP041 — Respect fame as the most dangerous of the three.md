@@ -18,7 +18,7 @@ In the Treatise on the Emendation of the Intellect, Spinoza compares the three o
 
 **Plain words** Fame, in Spinoza's comparison, absorbs the mind more than riches or pleasure do, and the drawback he singles out is living by other people's preferences ([TIE [4]-[5], Elwes tr.](https://www.gutenberg.org/ebooks/1016)). Ask yourself which of your usual decisions would change if nobody was watching; that question is this page's exercise.
 
-**For example (imagined):** A creator who finally has an audience notices the pattern Spinoza describes: the more approval arrives, the more they are incited to seek, and their choices quietly bend toward what the audience usually rewards. They set aside work with no audience and ask which decisions they would make differently.
+**For example:** A creator who finally has an audience notices the pattern Spinoza describes: the more approval arrives, the more they are incited to seek, and their choices quietly bend toward what the audience usually rewards. They set aside work with no audience and ask which decisions they would make differently.
 ## Psychology parallels
 
 - **[[Contingent self-esteem|Contingent self-worth on approval]]**, the instability of externally-anchored esteem (Crocker, 2002)

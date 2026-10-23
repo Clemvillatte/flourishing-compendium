@@ -24,7 +24,7 @@ On culture, Miyamoto and Kitayama found that when behaviour was still diagnostic
 
 **Plain words** People tend to read another person's behaviour as showing their character, even when circumstances are pushing them, as the essay studies show. The commonly repeated second half, that we always excuse ourselves by pointing to the situation, did not hold up in a large meta-analysis. The useful habit survives: before judging someone's character, ask what their situation might be doing.
 
-*For example (imagined):* A colleague's curt email reads as rudeness. Before replying, the reader asks what the sender's week might look like, and answers more gently.
+*For example:* A colleague's curt email reads as rudeness. Before replying, the reader asks what the sender's week might look like, and answers more gently.
 
 ## Related concepts
 

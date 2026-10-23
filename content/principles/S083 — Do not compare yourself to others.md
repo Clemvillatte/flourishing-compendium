@@ -22,7 +22,7 @@ On the psychology side, a meta-analysis of 60-plus years of social comparison re
 
 **Plain words** Epictetus tells his reader not to be upset when someone else gets a favour or an honour, since either it is a real good and worth being glad about, or it is not worth grieving over. Research finds that comparing with others often leaves people feeling worse about themselves.
 
-*For example (imagined):* A runner stops watching rivals' times and checks whether she is more consistent than last month.
+*For example:* A runner stops watching rivals' times and checks whether she is more consistent than last month.
 
 ## Sources
 

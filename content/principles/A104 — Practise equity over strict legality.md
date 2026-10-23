@@ -21,7 +21,7 @@ Aristotle's argument about equity runs against treating it as a separate virtue 
 
 **Plain words** Aristotle is not saying the rule is bad. He is saying the case in front of you was not one the rule's generality could cover, and the correction is made in the rule's own spirit, as the lawgiver would have decided it had they known the case.
 
-For example (imagined): if a school's exam-absence penalty is aimed at avoidable absence, then a student who missed an exam during an unavoidable family emergency falls outside what the rule was for, and waiving the penalty may fit the exception Aristotle describes.
+For example: if a school's exam-absence penalty is aimed at avoidable absence, then a student who missed an exam during an unavoidable family emergency falls outside what the rule was for, and waiving the penalty may fit the exception Aristotle describes.
 
 (NE V.10.)
 

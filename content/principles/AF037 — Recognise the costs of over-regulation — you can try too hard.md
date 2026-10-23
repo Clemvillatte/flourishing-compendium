@@ -18,7 +18,7 @@ Levitt and colleagues randomly assigned 60 patients with panic disorder to accep
 
 **Plain words** Before trying another way to change a feeling, ask what you need to do next. Could you do that while still uncomfortable? Use the question to consider an alternative to waiting for the feeling to disappear.
 
-*For example (imagined):* Before making a necessary phone call, a woman repeatedly checks whether she feels calm enough to begin. She decides to dial while still nervous.
+*For example:* Before making a necessary phone call, a woman repeatedly checks whether she feels calm enough to begin. She decides to dial while still nervous.
 
 ## Psychology parallels
 

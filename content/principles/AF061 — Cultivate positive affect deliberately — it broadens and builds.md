@@ -21,7 +21,7 @@ Fredrickson proposes the broaden-and-build as a theory of what positive emotions
 
 **Plain words** The theory treats positive affect as something with a function, not only a feeling. It proposes that a good mood widens what you think you can do in the moment, and that using that wider range, over time, adds to what you have.
 
-For example (imagined): during a cheerful team meeting, colleagues sketch three possible approaches to a stalled project and agree to test one.
+For example: during a cheerful team meeting, colleagues sketch three possible approaches to a stalled project and agree to test one.
 
 ## Psychology parallels
 

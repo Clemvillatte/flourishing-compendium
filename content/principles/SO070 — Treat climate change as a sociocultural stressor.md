@@ -20,7 +20,7 @@ The scale is documented: in a ten-country survey of 10,000 people aged 16 to 25,
 
 **Plain words** Take climate-related distress seriously without assuming that the problem lies entirely within the person. Ask what they are worried about and what has changed around them. This principle invites attention to circumstances as well as feelings.
 
-**For example (imagined):** A construction worker loses paid hours during a heatwave and worries about rent. A conversation about the worry also makes room for the practical problem of lost income.
+**For example:** A construction worker loses paid hours during a heatwave and worries about rent. A conversation about the worry also makes room for the practical problem of lost income.
 
 ## Psychology parallels
 

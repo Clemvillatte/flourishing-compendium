@@ -22,7 +22,7 @@ The same entry says Climacus, not Kierkegaard, proclaims that "truth is subjecti
 
 **Plain words** In these accounts the leap is a personal commitment that evidence alone cannot settle. It is not presented as a technique for everyday decisions. Applying it to marriage or career is the compendium's extension.
 
-For example (imagined): someone deciding to move abroad has gathered every fact available and still faces a choice the facts do not make. The leap, in the loose modern sense, is deciding anyway.
+For example: someone deciding to move abroad has gathered every fact available and still faces a choice the facts do not make. The leap, in the loose modern sense, is deciding anyway.
 
 ## Sources
 

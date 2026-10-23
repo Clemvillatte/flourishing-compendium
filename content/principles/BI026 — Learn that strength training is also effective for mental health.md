@@ -24,7 +24,7 @@ The entry's further claims that strength training raises self-esteem and cogniti
 
 **Plain words** Lifting weights, or anything similarly demanding, lowered depression and anxiety scores in trials. The effect on depression was moderate and the effect on anxiety smaller. Getting measurably stronger did not seem to be required for the mood benefit.
 
-*For example (imagined):* Someone who dislikes gyms does squats and rows with a loaded backpack twice a week at home. The research behind this entry looked at structured programmes, so a home version is a reasonable bet and has not been tested here.
+*For example:* Someone who dislikes gyms does squats and rows with a loaded backpack twice a week at home. The research behind this entry looked at structured programmes, so a home version is a reasonable bet and has not been tested here.
 
 ## Sources
 

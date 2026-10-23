@@ -23,7 +23,7 @@ The same section handles the grievance: "But he who has taken it from me is a ba
 **Plain words**
 As a practical exercise, take one thing you are afraid of losing and describe it as held rather than owned: who gave it, for how long, and what you would still control on the day it goes back. Epictetus's verb change is the whole exercise: restored, not lost.
 
-*For example (imagined):* After a house fire, a family rebuilds routines before the house, starting with sitting down to eat together.
+*For example:* After a house fire, a family rebuilds routines before the house, starting with sitting down to eat together.
 
 ## Sources
 

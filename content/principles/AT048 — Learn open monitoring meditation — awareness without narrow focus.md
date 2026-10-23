@@ -24,7 +24,7 @@ They also describe the order of learning: open monitoring practices share "the i
 
 **Plain words** In the practices described by this review, focused attention can prepare the way for open monitoring. The emphasis shifts from returning to one chosen object to noticing experience without making any object the centre. A sound, a worry or a mood can be noticed in that way. This describes a practice and its aim; it does not establish one learning sequence or timetable for every meditation tradition.
 
-For example (imagined): a practitioner familiar with focused attention notices a sound and then a thought, without deliberately selecting either as the next object to hold. The review gives no fixed number of weeks after which this transition must happen.
+For example: a practitioner familiar with focused attention notices a sound and then a thought, without deliberately selecting either as the next object to hold. The review gives no fixed number of weeks after which this transition must happen.
 
 ## Sources
 

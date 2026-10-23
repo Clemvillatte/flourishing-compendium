@@ -20,7 +20,7 @@ The abstract adds how the expectation grows: "Persistence in activities that are
 
 **Plain words** Choose a specific action and ask whether you believe you can carry it out. If your answer is no, write down what makes it seem difficult and what experience you already have.
 
-*For example (imagined):* Two people with similar skills face the same hard project. One says "I've handled worse" and starts on Monday; the other says "I'm probably not the right person" and keeps putting it off. For this exercise, both write down which belief they bring.
+*For example:* Two people with similar skills face the same hard project. One says "I've handled worse" and starts on Monday; the other says "I'm probably not the right person" and keeps putting it off. For this exercise, both write down which belief they bring.
 ## Sources
 
 - [Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191-215](https://susana.org/_resources/documents/default/3-4524-7-1640787326.pdf) — abstract, p. 191

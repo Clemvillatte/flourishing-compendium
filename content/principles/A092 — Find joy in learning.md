@@ -22,7 +22,7 @@ The compendium's exercise: follow one question with no use in mind for a fixed s
 
 **Plain words** Aristotle says everyone wants to know things by nature. We even enjoy looking at things when nothing depends on it. Wonder at something difficult is where philosophy starts, and learning itself is one of the pleasantest activities.
 
-*For example (imagined):* Someone spends an evening reading about birdsong and notes that nothing is riding on it.
+*For example:* Someone spends an evening reading about birdsong and notes that nothing is riding on it.
 
 ## Psychology parallels
 

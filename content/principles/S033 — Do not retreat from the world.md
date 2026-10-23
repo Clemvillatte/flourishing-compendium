@@ -24,7 +24,7 @@ Holt-Lunstad, Smith and Layton's meta-analysis of 148 studies found that stronge
 
 **Plain words** In the texts opened, Marcus treats the working day as the proper place for practice, and he allows only a short retreat that sends a person back to it. Seneca asks philosophers to stay sociable.
 
-*For example (imagined):* Someone who has been meaning to read in peace instead accepts a hard committee role, and keeps a short quiet hour each morning to prepare for it.
+*For example:* Someone who has been meaning to read in peace instead accepts a hard committee role, and keeps a short quiet hour each morning to prepare for it.
 
 ## Sources
 

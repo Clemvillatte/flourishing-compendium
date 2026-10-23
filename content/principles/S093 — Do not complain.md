@@ -22,7 +22,7 @@ On the psychology side, Gross and John found in five studies that habitual reapp
 
 **Plain words** Epictetus advises wishing for things to happen as they do happen, and Marcus likens the steady person to a rock the waves break against. Neither text addresses complaining aloud. That part of the entry is the compendium's reading.
 
-*For example (imagined):* Stuck in a slow queue, someone answers messages on their phone instead of sighing.
+*For example:* Stuck in a slow queue, someone answers messages on their phone instead of sighing.
 
 ## Sources
 

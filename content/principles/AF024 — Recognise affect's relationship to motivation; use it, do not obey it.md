@@ -18,7 +18,7 @@ Functional accounts of emotion, as Keltner and Gross summarize them, define emot
 
 **Plain words** One reading of emotions treats them as carrying information rather than orders — that is the compendium's interpretive exercise, not a settled fact. The exercise: when a feeling gets loud, write down what it seems to be saying as a possibility, then separately decide what to do about it.
 
-**For example (imagined):** The anxiety before a launch suggests cancelling. As the exercise, the person writes the message down as a possibility — this matters — and decides the day before, not in the moment, whether to prepare harder or actually cancel.
+**For example:** The anxiety before a launch suggests cancelling. As the exercise, the person writes the message down as a possibility — this matters — and decides the day before, not in the moment, whether to prepare harder or actually cancel.
 ## Psychology parallels
 
 - **[[Functional accounts of emotion|Functional accounts of emotion]]**, each emotion carries adaptive information about the environment (Keltner & Gross, 1999)

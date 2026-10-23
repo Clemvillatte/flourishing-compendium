@@ -20,7 +20,7 @@ Modern work gives a partial echo. Leary and colleagues measured intellectual hum
 
 **Plain words** Knowing where your knowledge ends tells you where to look next. The sources link that awareness to open-minded habits. They do not show it is the only route to learning.
 
-For example (imagined): in a meeting, "I don't know, I'll check by Thursday" gives colleagues a clear next step. A confident guess can send people the wrong way until someone checks.
+For example: in a meeting, "I don't know, I'll check by Thursday" gives colleagues a clear next step. A confident guess can send people the wrong way until someone checks.
 
 ## Sources
 

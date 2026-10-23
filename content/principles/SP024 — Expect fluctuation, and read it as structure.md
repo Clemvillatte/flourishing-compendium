@@ -18,7 +18,7 @@ In the note to Part III, Proposition 17, Spinoza names the condition: a disposit
 
 **Plain words** Spinoza allows that one and the same object can cause conflicting emotions in you ([Ethics III, Prop. XVII, note](https://www.gutenberg.org/ebooks/3800)). Pick the decision that has you going back and forth, then finish two sentences about it: "what I want from this is..." and "what I am trying to avoid is...". Both sentences describe the same choice.
 
-**For example (imagined):** Someone wants a promotion and dreads it. Instead of reading each mood as the final answer, they write down what they would welcome in the new role and what they dread about it, and the conflict becomes something they can look at.
+**For example:** Someone wants a promotion and dreads it. Instead of reading each mood as the final answer, they write down what they would welcome in the new role and what they dread about it, and the conflict becomes something they can look at.
 ## Psychology parallels
 
 - **[[Rumination|Rumination and goal conflict as amplifiers of mood swing]]**, the finding that unresolved strivings maintain oscillation (Emmons and King, 1988; Nolen-Hoeksema, 1991)

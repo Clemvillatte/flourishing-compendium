@@ -24,7 +24,7 @@ Eckersley's The Green State, where the more-than-human dimension is more likely 
 
 **Plain words** On Dobson's account, ecological citizenship is a duty to keep your own footprint from narrowing other people's options, now and in the future. It mostly concerns the effect of how you live on people you will never meet. Voting and advocacy can support that, and the core is the impact of ordinary choices.
 
-*For example (imagined):* A voter adds candidates' environmental records to their checklist, and also reviews their own energy use, travel and shopping, since Dobson locates the obligation in the footprint.
+*For example:* A voter adds candidates' environmental records to their checklist, and also reviews their own energy use, travel and shopping, since Dobson locates the obligation in the footprint.
 
 ## Sources
 

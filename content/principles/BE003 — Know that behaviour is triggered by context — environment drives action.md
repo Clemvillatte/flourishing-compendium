@@ -20,7 +20,7 @@ Goals still matter, since they motivate the repetition that builds a habit. Mart
 
 **Plain words** Where a behaviour has often happened, the setting can set it off without a decision. So changing the setting is one lever for change. The sources do not show that willpower or motivation play a minor role overall.
 
-For example (imagined): someone who always scrolls their phone on the sofa after dinner may find the urge weaker at the kitchen table, because the sofa is the cue.
+For example: someone who always scrolls their phone on the sofa after dinner may find the urge weaker at the kitchen table, because the sofa is the cue.
 
 ## Sources
 

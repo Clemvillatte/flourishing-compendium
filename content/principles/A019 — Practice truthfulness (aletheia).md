@@ -22,7 +22,7 @@ He does not rate the two errors equally. The boaster is "the worse character". M
 
 **Plain words** This is about how you describe your own part in things. Overstating it hands people a false picture, and so does shrinking it, because they will plan around whichever picture you gave them. Aristotle leans toward the modest side, since inflated claims wear people out, but he is hard on people who downplay what everyone can see.
 
-For example (imagined): you wrote the report and a colleague built its charts. Saying "I wrote the report and Sam built the charts" is the mean. "I produced the whole thing" overreaches, and "I just helped out" belittles your actual work.
+For example: you wrote the report and a colleague built its charts. Saying "I wrote the report and Sam built the charts" is the mean. "I produced the whole thing" overreaches, and "I just helped out" belittles your actual work.
 
 (NE IV.7.)
 

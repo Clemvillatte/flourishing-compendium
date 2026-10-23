@@ -24,7 +24,7 @@ The claim of the entry that a greeting says "you matter," and the Pratt (2002) a
 
 **Plain words** For Levinas, meeting someone in conversation begins with welcoming them. A greeting can be a small version of that: an acknowledgement that the other person is there. Research on everyday contact suggests that even brief acknowledgement of acquaintances and strangers is linked to feeling more connected.
 
-*For example (imagined):* Someone in a lobby says good morning to the security guard every day by name. After a few weeks the guard begins saying it first.
+*For example:* Someone in a lobby says good morning to the security guard every day by name. After a few weeks the guard begins saying it first.
 
 ## Sources
 

@@ -22,7 +22,7 @@ Sartre gives the philosophical frame ([Existentialism Is a Humanism](https://www
 
 **Plain words** Describing a goal as who you are can be more motivating than describing it as something to do, at least for voting, where the effect was tested. The identity has to fit and then be acted on. Saying it alone is unlikely to be enough, and the studies here do not test that.
 
-For example (imagined): "I am a reader" gives you a reason to open a book tonight that "I should read more" does not. You still have to open it.
+For example: "I am a reader" gives you a reason to open a book tonight that "I should read more" does not. You still have to open it.
 
 ## Sources
 

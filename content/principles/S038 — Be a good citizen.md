@@ -24,7 +24,7 @@ The psychology parallel is also mixed. A systematic review of 53 articles on you
 
 **Plain words** Marcus counts himself a citizen of the whole human community, and Seneca's letters disagree about whether a wise person must hold public office. Civic involvement and wellbeing are linked in a mixed way in the research found.
 
-*For example (imagined):* Someone attends a local planning meeting about clinic funding, and speaks up because the outcome affects neighbours they will never meet.
+*For example:* Someone attends a local planning meeting about clinic funding, and speaks up because the outcome affects neighbours they will never meet.
 
 ## Sources
 

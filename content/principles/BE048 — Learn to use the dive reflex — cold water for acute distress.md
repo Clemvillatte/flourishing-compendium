@@ -20,7 +20,7 @@ The dive reflex is the mechanism humans share with diving mammals: when cold tou
 
 **Plain words** Your face carries a switch that slows your heart: cold receptors around the eyes and cheeks report to the vagus nerve. Splashing cold water on your face, or holding something cold against your eyes and cheeks, pulls heart rate down. It is a tool for a spike of panic or rage, not a way of life, and it does nothing about what caused the spike.
 
-For example (imagined): during a late-evening panic spiral, someone holds a cold, damp cloth over their eyes and cheeks for half a minute, using the heart-rate drop the reflex produces.
+For example: during a late-evening panic spiral, someone holds a cold, damp cloth over their eyes and cheeks for half a minute, using the heart-rate drop the reflex produces.
 
 (Foster & Sheel, "The human diving response, its function, and its control," 2005.)
 

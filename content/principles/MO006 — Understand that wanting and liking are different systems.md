@@ -20,7 +20,7 @@ Separately, [Schultz, Dayan and Montague (1997)](https://pubmed.ncbi.nlm.nih.gov
 
 **Plain words** Wanting something and enjoying it can come apart, and the research on addiction suggests a strong pull toward something does not guarantee pleasure from it. The next time an urge is strong, treat it as information about the wanting system, not as proof of what you will enjoy.
 
-For example (imagined): you pick up your phone with no particular anticipation, and a minute later notice you are not enjoying it.
+For example: you pick up your phone with no particular anticipation, and a minute later notice you are not enjoying it.
 
 ## Sources
 

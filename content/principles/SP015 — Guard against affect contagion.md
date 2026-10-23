@@ -18,7 +18,7 @@ In Part III, Proposition 27 of the Ethics, Spinoza gives the imitation mechanism
 
 **Plain words** Spinoza describes a way one person's emotion can arise from imagining another's ([Ethics III, Prop. XXVII](https://www.gutenberg.org/ebooks/3800)). When a feeling shows up strongly right after you have been with someone, this page's exercise is to ask whether it began in you or in them before deciding what to do.
 
-**For example (imagined):** After layoff news lands, panic moves through a group chat across an afternoon. One member notices their own rising fear, considers that it may have begun in someone else's message, and mutes the chat for a day while deciding what to do.
+**For example:** After layoff news lands, panic moves through a group chat across an afternoon. One member notices their own rising fear, considers that it may have begun in someone else's message, and mutes the chat for a day while deciding what to do.
 ## Psychology parallels
 
 - **[[Emotional contagion|Emotional contagion]]** (Hatfield, Cacioppo and Rapson, 1994); **social network contagion of behavior and mood** (Christakis and Fowler, 2007)

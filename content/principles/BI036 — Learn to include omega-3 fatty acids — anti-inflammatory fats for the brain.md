@@ -19,7 +19,7 @@ Omega-3 fatty acids are a class of dietary fats. A hypothesis-testing meta-analy
 **Plain words**
 This review found evidence of benefit for EPA-heavy formulations in participants diagnosed with depression. It did not find evidence of prevention in participants without that diagnosis. Ask your clinician whether these findings are relevant to your care.
 
-*For example (imagined):* A psychiatrist mentions omega-3s alongside everything else on the plan. The evidence said "helps some, in this specific way." That was enough for the list.
+*For example:* A psychiatrist mentions omega-3s alongside everything else on the plan. The evidence said "helps some, in this specific way." That was enough for the list.
 
 ## Psychology parallels
 

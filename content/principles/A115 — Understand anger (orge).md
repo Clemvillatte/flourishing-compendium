@@ -22,7 +22,7 @@ The compendium's exercise: when anger arrives, write down the slight as the angr
 
 **Plain words** Aristotle defines anger as a painful impulse to get visible revenge for a visible slight. The slight is an opinion: that the other treated you as worth nothing, and on purpose. Check the opinion before acting on it.
 
-*For example (imagined):* Someone not thanked at a meeting writes down the moment, and checks whether their account of it reads forgetfulness or insult.
+*For example:* Someone not thanked at a meeting writes down the moment, and checks whether their account of it reads forgetfulness or insult.
 
 ## Stories
 

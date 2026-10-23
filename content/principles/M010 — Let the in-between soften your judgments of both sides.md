@@ -21,7 +21,7 @@ This principle applies that image to disagreement: when you know competing accou
 **Plain words**
 Hear each account and check it against what happened. Notice what you cannot yet judge. You may choose a side afterward; you do not have to split the difference.
 
-*For example (imagined):* Someone stuck between two feuding family factions finds they cannot take either side's story at full strength anymore, because they have seen how each side's "obvious truth" looks from the other shore.
+*For example:* Someone stuck between two feuding family factions finds they cannot take either side's story at full strength anymore, because they have seen how each side's "obvious truth" looks from the other shore.
 
 ## Psychology parallels
 

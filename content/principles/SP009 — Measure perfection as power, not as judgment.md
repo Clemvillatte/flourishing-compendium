@@ -18,7 +18,7 @@ Spinoza uses reality and perfection as synonymous terms ([Ethics II, Def. VI, El
 
 **Plain words** As an exercise, replace a sweeping judgment about yourself with a description of a particular difficulty. What can you currently do, and where do you struggle? This application does not decide questions of moral responsibility.
 
-**For example (imagined):** Someone cannot follow an argument in a book. Instead of calling themselves stupid, they list the unfamiliar terms and decide which to look up first.
+**For example:** Someone cannot follow an argument in a book. Instead of calling themselves stupid, they list the unfamiliar terms and decide which to look up first.
 ## Psychology parallels
 
 - **[[The quiet ego|The quiet ego]]**, a growth-oriented, less-defensive identity structure associated with well-being (Wayment and Bauer, 2017)

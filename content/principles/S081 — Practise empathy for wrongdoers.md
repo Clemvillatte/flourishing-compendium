@@ -23,7 +23,7 @@ The XI.18 checklist applies the diagnosis when you are the one offended against:
 **Plain words**
 As a practical exercise, ask what the person believed was good about the action. When it is possible to ask them, check your understanding. Use what you learn when deciding how to respond.
 
-*For example (imagined):* A colleague snaps at your correction. You ask what they understood you to mean before deciding how to respond.
+*For example:* A colleague snaps at your correction. You ask what they understood you to mean before deciding how to respond.
 
 ## Sources
 

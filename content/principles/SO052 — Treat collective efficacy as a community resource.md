@@ -29,7 +29,7 @@ Hipp and Wo also reproduce a proposed condition for residents' willingness to in
 
 **Plain words** Being capable yourself and believing that your group can act together are different judgments. Ask what the group thinks it can accomplish jointly and what coordination the task requires. In the neighborhood research, mutual trust and willingness to intervene are also part of the picture.
 
-*For example (imagined):* Residents planning a crossing campaign list which neighbors would actually show up and what the first attempt would require of them, before deciding what to promise the council.
+*For example:* Residents planning a crossing campaign list which neighbors would actually show up and what the first attempt would require of them, before deciding what to promise the council.
 
 ## Psychology parallels
 

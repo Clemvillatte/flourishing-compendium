@@ -26,7 +26,7 @@ The entry's claim about encoding strategies cites Craik and Lockhart (1972), whi
 
 **Plain words** Trying to recall something works better for lasting memory than reading it again, though rereading feels better. Spreading practice out over days beats cramming. The sensible method is to close the book, write what you remember, check, and come back after a gap.
 
-*For example (imagined):* A student finishes a chapter, closes the book, and writes down everything they can recall. They then check the gaps, and repeat the exercise two days later.
+*For example:* A student finishes a chapter, closes the book, and writes down everything they can recall. They then check the gaps, and repeat the exercise two days later.
 
 ## Sources
 

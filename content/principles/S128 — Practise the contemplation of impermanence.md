@@ -22,7 +22,7 @@ Sahdra, Shaver and Brown describe nonattachment as "based on insight into the co
 
 **Plain words** Marcus pictures time as a river that carries each thing away and brings the next, and says that reflecting on this teaches a person to despise what perishes. Readers may find it freeing, which is a modern gloss.
 
-*For example (imagined):* Someone agonising over a public mistake reminds themselves that in five years almost nobody at the dinner will recall it, and then apologises and moves on.
+*For example:* Someone agonising over a public mistake reminds themselves that in five years almost nobody at the dinner will recall it, and then apologises and moves on.
 
 ## Sources
 

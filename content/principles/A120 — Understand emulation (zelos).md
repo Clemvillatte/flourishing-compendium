@@ -22,7 +22,7 @@ The compendium's exercise: when a comparison bites, write down the good thing wa
 
 **Plain words** Aristotle calls emulation the good twin of envy. Both hurt at not having what another has. Emulation takes a step to get the thing; envy takes a step to stop the other having it. And it only works for things you could actually get.
 
-*For example (imagined):* A junior designer sees a colleague's polished portfolio and writes down one technique from it to study that week.
+*For example:* A junior designer sees a colleague's polished portfolio and writes down one technique from it to study that week.
 
 ## Psychology parallels
 

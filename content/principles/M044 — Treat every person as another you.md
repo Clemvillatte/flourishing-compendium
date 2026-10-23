@@ -17,7 +17,7 @@ This page uses "I am another you" as a contemporary ethical prompt, not as a ver
 **Plain words**
 Use "this person is another me" as a prompt to consider the other person's standpoint before choosing your next sentence.
 
-*For example (imagined):* The driver who lets the merging car in, because that car is a person running late to something that matters to them, the way you are, and the whole commute runs on that arithmetic.
+*For example:* The driver who lets the merging car in, because that car is a person running late to something that matters to them, the way you are, and the whole commute runs on that arithmetic.
 
 ## Psychology parallels
 

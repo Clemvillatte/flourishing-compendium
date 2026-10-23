@@ -31,7 +31,7 @@ The same study reports a context condition for the treatment:
 
 **Plain words** A student can struggle with the work and also wonder whether they fit in. A belonging intervention addresses that second concern. Before borrowing an intervention, check who took part in the study and what conditions accompanied its effects.
 
-*For example (imagined):* An orientation adviser shares older students' accounts of feeling uncertain at the beginning and invites first-year students to discuss their own concerns.
+*For example:* An orientation adviser shares older students' accounts of feeling uncertain at the beginning and invites first-year students to discuss their own concerns.
 
 ## Psychology parallels
 

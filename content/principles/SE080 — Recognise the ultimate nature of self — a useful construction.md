@@ -20,7 +20,7 @@ His summary of the rest of mankind: "a bundle or collection of different percept
 
 **Plain words** Try looking for what you mean by "me". List what you actually notice: a sensation, a feeling, a memory. Then ask what, if anything, you mean beyond those experiences.
 
-*For example (imagined):* A cellist describes herself as confident, then notices anxiety before performing. For this exercise, she records both the self-description and the feeling, without treating either as a final answer about who she is.
+*For example:* A cellist describes herself as confident, then notices anxiety before performing. For this exercise, she records both the self-description and the feeling, without treating either as a final answer about who she is.
 ## Psychology parallels
 
 - Self as construction — Markus & Wurf, 1987; Baumeister, 1998

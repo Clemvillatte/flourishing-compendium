@@ -23,7 +23,7 @@ The same register runs through the Meditations: "Since it is possible that thou 
 **Plain words**
 Death limits the time available to act, although you do not know that limit. Think of one decision you are postponing and ask what you want to do with the time you have.
 
-*For example (imagined):* You draft a brief farewell letter, then review one commitment named in it.
+*For example:* You draft a brief farewell letter, then review one commitment named in it.
 
 ## Sources
 

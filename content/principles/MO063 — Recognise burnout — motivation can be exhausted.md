@@ -22,7 +22,7 @@ The page's claim of causation by "lack of autonomy" is narrower than the evidenc
 
 **Plain words** Burnout is exhaustion, distance from the job and a drop in felt effectiveness, tied to ongoing workplace stress. The two studies suggest heavy demands and missing resources both matter, so changing the work may help more than rest alone. They do not test any remedy.
 
-For example (imagined): a teacher returns from two weeks off and is tired again by midweek. The workload, not the lack of rest, is a likely source.
+For example: a teacher returns from two weeks off and is tired again by midweek. The workload, not the lack of rest, is a likely source.
 
 ## Sources
 

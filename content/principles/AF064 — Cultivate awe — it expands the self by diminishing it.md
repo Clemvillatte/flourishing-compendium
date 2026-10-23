@@ -26,7 +26,7 @@ The evidence for lasting benefit is narrower. In an eight-week randomized study 
 
 **Plain words** Awe is the feeling of meeting something so big that your usual way of making sense of things does not quite hold. In that moment your own worries shrink, and studies find people then act more generously. It is a short-term shift, and the walks study did not find it changed clinical measures of mood.
 
-For example (imagined): you spend ten minutes outdoors looking at the night sky, or standing under old trees, and notice how small your to-do list feels. Treat it as a reset of perspective, and do not expect it to treat anxiety or depression.
+For example: you spend ten minutes outdoors looking at the night sky, or standing under old trees, and notice how small your to-do list feels. Treat it as a reset of perspective, and do not expect it to treat anxiety or depression.
 
 ## Sources
 

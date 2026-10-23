@@ -22,7 +22,7 @@ For the psychology parallel, Kahneman and Klein conclude that "subjective experi
 
 **Plain words** Epictetus teaches saying to a strong impression, "You are only an appearance," and then examining it before accepting it. The examination he names is about what is in one's control. Checking the facts is a sensible addition.
 
-*For example (imagined):* Thinking the boss is angry, someone waits and notices she spoke to everyone that way this morning, and holds off on the angry reply.
+*For example:* Thinking the boss is angry, someone waits and notices she spoke to everyone that way this morning, and holds off on the angry reply.
 
 ## Sources
 

@@ -28,7 +28,7 @@ The compendium applies this praise of the intention to benefit beings by asking 
 **Plain words**
 Choose a practice you keep. Whom would you like it to serve, and what action could express that intention?
 
-*For example (imagined):* A retiree finishes a meditation session and prepares a reading lesson for a neighbour. She names helping the neighbour as one intention of her practice.
+*For example:* A retiree finishes a meditation session and prepares a reading lesson for a neighbour. She names helping the neighbour as one intention of her practice.
 
 ## Practice kernels
 

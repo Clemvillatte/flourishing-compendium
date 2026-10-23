@@ -20,7 +20,7 @@ A six-year study of 135 older adults found that "poor goal disengagement capacit
 
 **Plain words** Being able to let go of a goal that is no longer reachable goes with better well-being in these studies, particularly when circumstances worsen. The evidence for taking on a new goal as well is mixed. Both findings come from self-reports and mostly from specific groups.
 
-For example (imagined): a runner whose knees end marathon training stops chasing the old time. Whether coaching fills the gap is something to test, not assume.
+For example: a runner whose knees end marathon training stops chasing the old time. Whether coaching fills the gap is something to test, not assume.
 
 ## Sources
 

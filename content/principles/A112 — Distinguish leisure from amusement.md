@@ -24,7 +24,7 @@ Amusements "should be our medicines", whereas "leisure of itself gives pleasure 
 
 **Plain words** Amusement helps us recover; Aristotle recognises that need. His question is what we recover for. Leisure, in this argument, includes activities worth doing for themselves, such as learning and thought. Rest after work and time spent on something we value have different places in that account. This need not become a reason to feel guilty about needing rest.
 
-For example (imagined): an evening of television after a heavy shift is amusement doing its proper job. Two evenings a week spent on a piece of music you are slowly learning, with no deadline, is closer to what he means by leisure.
+For example: an evening of television after a heavy shift is amusement doing its proper job. Two evenings a week spent on a piece of music you are slowly learning, with no deadline, is closer to what he means by leisure.
 
 ## Sources
 

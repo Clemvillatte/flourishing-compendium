@@ -38,7 +38,7 @@ The compendium's exercise: read the list, pick one disposition, and practise it 
 
 **Plain words** The chapter gives a long list of good qualities, from fearlessness and self-restraint to patience and humility. It is a picture of a person, not a checklist to pass or fail. Pick one quality from the list and try to practise it deliberately for a while.
 
-*For example (imagined):* Someone picks "slowness unto wrath" and treats each flare-up during the month as material to study, noting what preceded it.
+*For example:* Someone picks "slowness unto wrath" and treats each flare-up during the month as material to study, noting what preceded it.
 
 ## Psychology parallels
 

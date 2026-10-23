@@ -22,7 +22,7 @@ The Internet Encyclopedia of Philosophy frames Aztec wisdom in the same directio
 
 **Plain words** Pick a skill you can demonstrate. Show a learner how you perform it, explain the standards you use, and give them an opportunity to ask questions.
 
-*For example (imagined):* A veteran nurse takes a new graduate under wing for a year: the IV techniques, and also how to sit with a dying patient.
+*For example:* A veteran nurse takes a new graduate under wing for a year: the IV techniques, and also how to sit with a dying patient.
 
 ## Sources
 

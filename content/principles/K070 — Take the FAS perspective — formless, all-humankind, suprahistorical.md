@@ -24,7 +24,7 @@ For a psychological comparison, [Grossmann and Kross (2014)](https://pubmed.ncbi
 
 **Plain words** Hisamatsu's compass links three questions: who am I at bottom, who is included, and what history am I helping to make. The three-question routine for conflicts is the compendium's adaptation. Stepping back from your own view has experimental support for wiser reasoning, though the study does not test Hisamatsu's framework.
 
-For example (imagined): facing a workplace dispute, you ask what you are clinging to, how the dispute looks to everyone affected, and what difference it makes to the longer story of the team.
+For example: facing a workplace dispute, you ask what you are clinging to, how the dispute looks to everyone affected, and what difference it makes to the longer story of the team.
 
 ## Sources
 

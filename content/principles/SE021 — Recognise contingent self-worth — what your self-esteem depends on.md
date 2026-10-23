@@ -26,7 +26,7 @@ The practice is first diagnostic: find out where your worth is actually staked b
 
 **Plain words** Ask which outcomes change how you feel about yourself. A poor review can remain a judgment about a piece of work; it can also become a judgment about your value as a person. Notice when you make that second move.
 
-*For example (imagined):* After a disappointing performance review, someone concludes that they are worthless. They identify work performance as a condition they have placed on feeling worthwhile.
+*For example:* After a disappointing performance review, someone concludes that they are worthless. They identify work performance as a condition they have placed on feeling worthwhile.
 
 ## Related concepts
 

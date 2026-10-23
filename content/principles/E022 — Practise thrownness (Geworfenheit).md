@@ -22,7 +22,7 @@ For Heidegger this is a structure of existing, not a list of unlucky circumstanc
 
 **Plain words** You start from a language, a family and a period you did not pick. Heidegger's point is that no one can step outside that starting place, and owning it is where self-directed action begins.
 
-For example (imagined): someone raised in a household where money was never discussed does not get to start from a blank slate with money. Seeing that clearly comes before deciding what to do about it.
+For example: someone raised in a household where money was never discussed does not get to start from a blank slate with money. Seeing that clearly comes before deciding what to do about it.
 
 ## Sources
 

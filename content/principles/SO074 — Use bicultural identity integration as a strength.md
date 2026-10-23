@@ -18,7 +18,7 @@ The Benet-Martínez paper reports three studies testing whether perceived compat
 
 **Plain words** You can value both cultural identities without treating them as rivals. As an exercise, describe what matters to you in each, then consider a situation where you would like to draw on both.
 
-**For example (imagined):** While planning a wedding, someone chooses a reading from each of their two cultural traditions. They explain to their partner why each belongs in the ceremony.
+**For example:** While planning a wedding, someone chooses a reading from each of their two cultural traditions. They explain to their partner why each belongs in the ceremony.
 
 ## Psychology parallels
 

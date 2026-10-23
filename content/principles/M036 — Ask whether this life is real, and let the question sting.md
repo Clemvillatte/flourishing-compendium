@@ -17,7 +17,7 @@ The songs ask the question directly. Tochihuitzin Coyolchiuhqui sings: "We only 
 **Plain words**
 The songs say we come only to dream; Maffie reads the dreamlikeness as a fact about human perception, not about the world's reality. The exercise below is this compendium's adaptation: hold the question once in a while and let it re-price your hours.
 
-*For example (imagined):* Someone in a full status race reads the question once a year, "is any of this real the way I treat it as real?", and each time something expensive and hollow quietly falls off the list.
+*For example:* Someone in a full status race reads the question once a year, "is any of this real the way I treat it as real?", and each time something expensive and hollow quietly falls off the list.
 
 ## Psychology parallels
 

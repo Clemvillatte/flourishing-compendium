@@ -22,7 +22,7 @@ The Ethics counts pity among the feelings that "may be felt both too much and to
 
 **Plain words** Aristotle describes how pity arises, including the effects of likeness and nearness. That description is not a rule for deciding who should receive help. As a contemporary reflection, notice whose suffering feels close, whose seems remote, and how quickly you assume someone deserves their misfortune.
 
-For example (imagined): a colleague loses their job. Before explaining why it happened, ask what they need. Then consider people whose difficulties you hear less about.
+For example: a colleague loses their job. Before explaining why it happened, ask what they need. Then consider people whose difficulties you hear less about.
 
 ## Sources
 

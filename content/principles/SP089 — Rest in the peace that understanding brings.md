@@ -20,7 +20,7 @@ Spinoza describes the contrast as one of degree, and the degree is qualified: th
 
 **Plain words** The scholium contrasts two people. One is knocked around by whatever happens, barely conscious of himself, of God or of things, and stops when the suffering stops. The other is barely disturbed in spirit and possesses what Spinoza calls true acquiescence. Understanding is what makes the difference between them.
 
-*For example (imagined):* An experienced gardener in a storm year. Plants are lost; he works out what to replant and where, and plants it.
+*For example:* An experienced gardener in a storm year. Plants are lost; he works out what to replant and where, and plants it.
 ## Psychology parallels
 
 - **[[Equanimity|Equanimity as the contemplative outcome measure]]** (Desbordes et al., 2014)

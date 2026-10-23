@@ -21,7 +21,7 @@ Aristotle treats gentleness as the virtue between irascibility and lack of spiri
 
 **Plain words** Some wrongs deserve a response and some are better let go. The hard part is telling them apart. Aristotle's own text warns against the person who never gets angry at things at which it is right to be angry, so patience with others' faults is not silence in the face of everything.
 
-For example (imagined): in one person's situation, a neighbour's bin left out for two days is not worth a note, while a neighbour's dog attacking theirs is. Another person's line between the two may fall somewhere else.
+For example: in one person's situation, a neighbour's bin left out for two days is not worth a note, while a neighbour's dog attacking theirs is. Another person's line between the two may fall somewhere else.
 
 (NE IV.5.)
 

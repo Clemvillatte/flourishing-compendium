@@ -22,7 +22,7 @@ The effect was therefore shown for the breathwork conditions combined against mi
 
 **Plain words** Breathe in through the nose, take a second short sip of air on top, then let the air out slowly. Done for five minutes a day for a month, this lifted mood and slowed resting breathing more than five minutes of mindfulness did. The study was small and early, so it counts as a promising idea rather than a settled result.
 
-*For example (imagined):* Someone sits on the edge of the bed with a timer after waking, breathes this way for five minutes, and keeps a short note of mood each evening to see whether anything shifts.
+*For example:* Someone sits on the edge of the bed with a timer after waking, breathes this way for five minutes, and keeps a short note of mood each evening to see whether anything shifts.
 
 ## Sources
 

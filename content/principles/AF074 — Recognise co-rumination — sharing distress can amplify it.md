@@ -26,7 +26,7 @@ The evidence here comes from adolescents. It does not show that every long talk 
 
 **Plain words** Two friends can spend an evening going over the same problem, from the same angle, and come away feeling close and no better. The risk is in the repetition. A talk that ends with a decision, a new way of seeing it, or a plan is a different thing.
 
-For example (imagined): you and a friend spend a nightly hour on the same work conflict, and each night ends with agreement that it is awful. Ending the call with one question, such as what you will try on Thursday, keeps the care and adds some movement.
+For example: you and a friend spend a nightly hour on the same work conflict, and each night ends with agreement that it is awful. Ending the call with one question, such as what you will try on Thursday, keeps the care and adds some movement.
 
 ## Sources
 

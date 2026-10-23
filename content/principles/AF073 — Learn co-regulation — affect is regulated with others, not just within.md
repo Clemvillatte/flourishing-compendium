@@ -21,7 +21,7 @@ Butler and Randall give the term a precise definition rather than a loose one. T
 
 **Plain words** The definition treats emotional regulation as something that happens between people, not only inside one person. What a person does in interaction changes what the other person's affect does, and the definition describes the two as forming one system.
 
-For example (imagined): a panicked caller and a friend who says, slowly, that they should work out exactly what is happening. That is an attempt at interpersonal regulation. Whether it becomes the bidirectional process the definition describes would depend on both partners adjusting.
+For example: a panicked caller and a friend who says, slowly, that they should work out exactly what is happening. That is an attempt at interpersonal regulation. Whether it becomes the bidirectional process the definition describes would depend on both partners adjusting.
 
 ## Psychology parallels
 

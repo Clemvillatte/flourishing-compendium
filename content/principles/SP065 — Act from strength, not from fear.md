@@ -24,7 +24,7 @@ The claims that fear-built orders decay, that the honest-from-fear person is hon
 
 **Plain words** Spinoza says that doing good only to escape something bad is not acting from reason. A rule kept out of fear lasts as long as the threat does. Ask of any rule you keep: if the deadline or the person watching vanished tomorrow, would I still keep it?
 
-*For example (imagined):* Two organisations adopt a security policy. One does it after a breach, and the rule is easy to drop once the memory fades. The other adopts it as part of how it works, so no fear is needed to keep it.
+*For example:* Two organisations adopt a security policy. One does it after a breach, and the rule is easy to drop once the memory fades. The other adopts it as part of how it works, so no fear is needed to keep it.
 
 ## Sources
 

@@ -24,7 +24,7 @@ The entry's specific "redemption" and "contamination" claims (McAdams et al., 20
 
 **Plain words** People carry an inner story about their lives, and the way it is told, especially how much it stresses agency, goes along with how well they are doing. In one therapy study, stories became more agentic before mental health improved. That shows association and timing, not proof that changing the story causes the change.
 
-*For example (imagined):* After a job loss, someone tells it first as something that happened to them. Months later, the same facts appear in a version that includes what they did next.
+*For example:* After a job loss, someone tells it first as something that happened to them. Months later, the same facts appear in a version that includes what they did next.
 
 ## Sources
 

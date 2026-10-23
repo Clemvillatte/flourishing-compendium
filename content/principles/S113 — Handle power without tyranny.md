@@ -23,7 +23,7 @@ The model was his adoptive father, of whom he records "no vain-glory in those th
 **Plain words**
 As a practical exercise, take one thing your position lets you decide for other people, and state who benefits from the current arrangement. Marcus's test for his own position is blunt: do not be made into a Caesar.
 
-*For example (imagined):* A manager uses her authority to protect a junior colleague from unfair blame.
+*For example:* A manager uses her authority to protect a junior colleague from unfair blame.
 
 ## Sources
 

@@ -22,7 +22,7 @@ He separates two ways to fail: "some men after deliberating fail, owing to their
 
 **Plain words** You can know a rule and still fail to bring it to bear on what you are doing. Being able to explain it afterwards does not settle what you understood in the moment. Aristotle's strict account concerns bodily appetites; he discusses failures involving anger, honour or gain in a qualified sense (VII.4). For reflection, ask whether you abandoned a considered decision or acted before deliberating. This is a prompt for examining a lapse, not a diagnosis of every regretted choice.
 
-For example (imagined): you decide to stop eating sweets, then reach for another. Afterwards, you can still explain your decision. What happened between deciding and reaching?
+For example: you decide to stop eating sweets, then reach for another. Afterwards, you can still explain your decision. What happened between deciding and reaching?
 
 ## Sources
 

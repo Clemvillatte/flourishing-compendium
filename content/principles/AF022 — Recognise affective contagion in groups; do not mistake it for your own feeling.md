@@ -18,7 +18,7 @@ In a laboratory study of managerial decision making, Sigal Barsade found evidenc
 
 **Plain words** In one lab study, a mood that one person deliberately acted was reflected among group members ([Barsade, 2002](https://doi.org/10.2307/3094912)). For the exercise, consider your own concerns, other people's expressions and the shared situation as possible contributors, and list what may have fed the feeling before deciding what to do about it.
 
-**For example (imagined):** A person leaves every family gathering with the same anxiety. As an observation exercise, they spend a weekend alone and note when the anxiety is present and absent — without concluding in advance what the pattern means.
+**For example:** A person leaves every family gathering with the same anxiety. As an observation exercise, they spend a weekend alone and note when the anxiety is present and absent — without concluding in advance what the pattern means.
 ## Psychology parallels
 
 - **[[Group affective synchronisation|Group affective synchronisation]]**, emotional states converge within groups over time (Barsade, 2002)

@@ -22,7 +22,7 @@ She adds that it hinges on the stance, not the cause: "There is the serious from
 
 **Plain words** Seriousness means treating a value, role or cause as beyond question, so you no longer have to choose. Beauvoir says the problem is the stance, not the cause, and that it can end in disregard for other people's freedom.
 
-For example (imagined): someone who says "that is just what a good employee does" about every unpaid weekend has stopped asking whether they endorse it.
+For example: someone who says "that is just what a good employee does" about every unpaid weekend has stopped asking whether they endorse it.
 
 ## Sources
 

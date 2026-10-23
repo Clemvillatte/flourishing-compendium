@@ -21,7 +21,7 @@ The study's abstract states the theory in its background: validation is associat
 
 **Plain words** The theory treats acknowledging someone's feeling as understandable in their situation as itself a form of regulation, not merely a courtesy before solving the problem. The study's own results add that the size of the effect is not uniform across emotions or people.
 
-For example (imagined): a child is melting down over the wrong colour cup. One parent says it is silly, it is just a cup; the other says the child really wanted the blue one. The second is the acknowledgement the theory describes. Whether it reduces escalation in this instance is not guaranteed by the study's findings.
+For example: a child is melting down over the wrong colour cup. One parent says it is silly, it is just a cup; the other says the child really wanted the blue one. The second is the acknowledgement the theory describes. Whether it reduces escalation in this instance is not guaranteed by the study's findings.
 
 ## Psychology parallels
 

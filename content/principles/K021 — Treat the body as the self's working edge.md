@@ -21,7 +21,7 @@ The same account gives the instruments passage: scientific experimentation "prov
 **Plain words**
 Nishida's account treats the body as an active participant in understanding and acting. A researcher understands through bodily activity with instruments. The embodied person is also shaped by the world they act within.
 
-For example (imagined): A cellist notices that knowing where a passage is difficult for her hand tells her something about the instrument's design and her own trained hand together.
+For example: A cellist notices that knowing where a passage is difficult for her hand tells her something about the instrument's design and her own trained hand together.
 
 ## Sources
 

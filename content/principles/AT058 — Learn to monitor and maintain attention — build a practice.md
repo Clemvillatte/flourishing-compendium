@@ -24,7 +24,7 @@ The groups were small (31 and 17) and were not randomly assigned. Working memory
 
 **Plain words** One course or one burst of effort does not set your attention for good. In this study, people who practised a lot improved their working memory, and people under heavy load who practised little or not at all saw it slip. Treat attention as something to look after at a steady pace. Checking in regularly on how well you are focusing, and on what is getting in the way, shows you when to adjust.
 
-For example (imagined): you keep a short note each Friday on how many hours of focused work you managed and what interrupted them. After three weeks the pattern shows you which change to try next.
+For example: you keep a short note each Friday on how many hours of focused work you managed and what interrupted them. After three weeks the pattern shows you which change to try next.
 
 ## Sources
 

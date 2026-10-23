@@ -22,7 +22,7 @@ Here, meaning is subjective significance. The compendium applies the definition 
 
 **Plain words** Think about a commitment you are considering. What do you enjoy getting absorbed in? Why would you want to keep doing it? The compendium suggests using these questions when deciding what to take on.
 
-*For example (imagined):* A programmer enjoys becoming absorbed in debugging and personally values her volunteer work for a local clinic. When offered another shift on its booking system, she considers both reasons for returning.
+*For example:* A programmer enjoys becoming absorbed in debugging and personally values her volunteer work for a local clinic. When offered another shift on its booking system, she considers both reasons for returning.
 
 ## Psychology parallels
 

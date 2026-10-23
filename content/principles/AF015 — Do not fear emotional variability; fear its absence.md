@@ -18,7 +18,7 @@ Writing in a 2015 Emotion Review special section on affect dynamics, Peter Kuppe
 
 **Plain words** The sources behind this page are one researcher's proposal ([Kuppens, 2015](https://doi.org/10.1177/1754073915590947)) and a cross-sectional association ([Quoidbach et al., 2014](https://doi.org/10.1037/a0038025)). For the proposed diary, choose two moments from the week and record the situation and the feeling you remember. Do not use those entries to classify yourself as healthy or unwell.
 
-**For example (imagined):** A colleague is equally flat at a win and at a layoff. The exercise is to observe whether the feeling changed when the situation changed, and to leave open what the flatness means.
+**For example:** A colleague is equally flat at a win and at a layoff. The exercise is to observe whether the feeling changed when the situation changed, and to leave open what the flatness means.
 ## Psychology parallels
 
 - **Emotional variability is not uniformly maladaptive**, moderate variability associated with context sensitivity is adaptive; very low variability can indicate dissociation or depression (Hollenstein, 2015)

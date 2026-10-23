@@ -18,7 +18,7 @@ Spinoza argues that everything is determined by the necessity of the divine natu
 
 **Plain words** Look for the circumstances that shaped an event, including your own part in it. Then ask what response you want to make now. This is a suggested application of the philosophical view, not a limit on how long someone may reflect.
 
-**For example (imagined):** After a divorce, someone looks back at recurring arguments and decides to seek advice about communication before entering another relationship.
+**For example:** After a divorce, someone looks back at recurring arguments and decides to seek advice about communication before entering another relationship.
 ## Psychology parallels
 
 - **Counterfactual rumination as a risk factor for depression and complicated grief**, the finding that repetitive "if only" thinking maintains distress (Nolen-Hoeksema, 1991)

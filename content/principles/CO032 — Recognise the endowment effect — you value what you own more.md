@@ -24,7 +24,7 @@ The entry's description of the effect as "weaker in cultures with less individua
 
 **Plain words** People asked to sell something they hold tend to ask for much more than people asked to buy the same thing are willing to pay. In the mug experiments the gap was about double. Owning something seems to add value in the owner's mind, and the size of that effect varies by culture. Asking "would I choose this today if I did not own it?" is a way to check how much of the price is ownership.
 
-*For example (imagined):* A seller lists a house well above comparable sales because it is theirs, and the house sits unsold for months.
+*For example:* A seller lists a house well above comparable sales because it is theirs, and the house sits unsold for months.
 
 ## Sources
 

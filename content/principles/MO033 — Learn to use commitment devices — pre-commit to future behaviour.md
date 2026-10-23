@@ -20,7 +20,7 @@ The same review distinguishes hard commitments, which "call for real economic pe
 
 **Plain words** Identify the plan you expect to find difficult later. Decide in advance what voluntary restriction or consequence you will accept. A financial stake is one option, not a requirement.
 
-*For example (imagined):* A student who keeps missing the 6 a.m. gym slot pays a deposit into an agreement that forfeits it for a missed session; the deposit, not the intention, is the device.
+*For example:* A student who keeps missing the 6 a.m. gym slot pays a deposit into an agreement that forfeits it for a missed session; the deposit, not the intention, is the device.
 
 ## Sources
 

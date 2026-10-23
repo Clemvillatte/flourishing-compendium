@@ -20,7 +20,7 @@ A review of twelve studies in nonclinical participants (1,447 people) reported p
 
 **Plain words** The military review highlights practice and programme context, but it does not establish one adjustment routine for everyone. As a practical reflection, ask whether your current arrangements still fit your responsibilities. Notes about what you tried and noticed can inform that question; they are not proof that an adjustment caused a benefit.
 
-For example (imagined): the focused-work block that suited you before a baby arrived becomes two shorter blocks. You keep the part that worked, which was a clear start ritual, and change the length.
+For example: the focused-work block that suited you before a baby arrived becomes two shorter blocks. You keep the part that worked, which was a clear start ritual, and change the length.
 
 ## Sources
 

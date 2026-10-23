@@ -24,7 +24,7 @@ For the psychology, Sahdra, Shaver and Brown describe nonattachment as "based on
 
 **Plain words** Epictetus says it is our judgements about things, not the things, that disturb us. For the Stoics wealth and poverty do not make a life good or bad, and only virtue does. They still treated health and money as worth choosing, and what changes is how much weight the outcome gets.
 
-*For example (imagined):* A freelancer loses a client and first feels it as a verdict on their worth. They then ask whether they dealt honestly, and answer yes. The loss still stings and is no longer a disaster.
+*For example:* A freelancer loses a client and first feels it as a verdict on their worth. They then ask whether they dealt honestly, and answer yes. The loss still stings and is no longer a disaster.
 
 ## Sources
 

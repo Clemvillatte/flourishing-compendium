@@ -20,7 +20,7 @@ Kawachi and colleagues analysed data from 167,259 people in 39 US states: reside
 
 **Plain words** Think about the people who could organise help across your neighbourhood. This principle treats those connections as something worth supporting together. As a practical step, you might help run a group or contribute to an arrangement you already use.
 
-**For example (imagined):** A parents' group organises meals for households with a new baby. You volunteer to coordinate the next rota, helping maintain an arrangement other families can use.
+**For example:** A parents' group organises meals for households with a new baby. You volunteer to coordinate the next rota, helping maintain an arrangement other families can use.
 
 ## Psychology parallels
 

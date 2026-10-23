@@ -21,7 +21,7 @@ Aristotle's doctrine of the mean is not a doctrine that everything has a defensi
 
 **Plain words** Aristotle's claim is about the specific acts he names: with these, the act itself is the fault, and there is no right amount or context. A reader can take this as a model for their own non-negotiables, deciding in advance which commitments are not subject to weighing when pressure arrives. That is the reader's application, not the same thing as Aristotle's list.
 
-For example (imagined): a person who decides in advance never to falsify a record does not weigh it up when a boss leans on them. That is their own commitment, in the spirit of Aristotle's point about acts not subject to a mean.
+For example: a person who decides in advance never to falsify a record does not weigh it up when a boss leans on them. That is their own commitment, in the spirit of Aristotle's point about acts not subject to a mean.
 
 (NE II.6.)
 

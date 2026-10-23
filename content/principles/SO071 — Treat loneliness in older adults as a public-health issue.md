@@ -18,7 +18,7 @@ A meta-analysis of 148 studies covering 308,849 participants found higher odds o
 
 **Plain words** As a practical application, ask an older person what company they want and whether they can reach it. Discuss visits or calls with them, rather than treating a contact count as the whole answer. The principle makes social connection a concern worth discussing alongside other aspects of health.
 
-**For example (imagined):** An older man says that he feels cut off after a fall. His daughter asks whom he would like to see and offers to arrange a regular visit.
+**For example:** An older man says that he feels cut off after a fall. His daughter asks whom he would like to see and offers to arrange a regular visit.
 
 ## Psychology parallels
 

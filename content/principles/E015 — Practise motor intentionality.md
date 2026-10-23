@@ -26,7 +26,7 @@ Later he states the consequence:
 
 **Plain words** Reaching for a cup is not a thought followed by a movement. The reach already points at the cup. Merleau-Ponty says the body relates to things directly, before any picture of them is held in mind.
 
-For example (imagined): when you pick up a mug in a dark kitchen, your hand finds the handle without a plan for each finger. Notice that next time you reach for something.
+For example: when you pick up a mug in a dark kitchen, your hand finds the handle without a plan for each finger. Notice that next time you reach for something.
 
 ## Sources
 

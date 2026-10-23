@@ -26,7 +26,7 @@ On the modern side, [Zettle and colleagues (2026)](https://pubmed.ncbi.nlm.nih.g
 
 **Plain words** These texts advise watching thoughts arise and pass, without sorting them into true and false. That is a different move from arguing with them. One small modern trial found no difference in short-term results between the two approaches, so neither is shown to be better for everyone.
 
-For example (imagined): stuck on "what if I fail", you stop arguing and notice a thought, a tightening in the chest, another thought. Whether that helps is for you to check.
+For example: stuck on "what if I fail", you stop arguing and notice a thought, a tightening in the chest, another thought. Whether that helps is for you to check.
 
 ## Sources
 

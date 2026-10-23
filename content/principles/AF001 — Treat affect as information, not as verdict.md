@@ -24,7 +24,7 @@ They add that a feeling loses its pull on a judgment once its source is found to
 
 **Plain words** Before you trust a feeling about something, ask where the feeling came from. If it came from the thing itself, it is evidence. If it came from elsewhere, it says little about the thing, and noticing that is often enough to loosen its hold.
 
-For example (imagined): you feel dread about a colleague's email, then remember you slept badly and skipped lunch. The dread is real. What it tells you about the email is much less than it seemed. Reply after you have eaten.
+For example: you feel dread about a colleague's email, then remember you slept badly and skipped lunch. The dread is real. What it tells you about the email is much less than it seemed. Reply after you have eaten.
 
 ## Sources
 

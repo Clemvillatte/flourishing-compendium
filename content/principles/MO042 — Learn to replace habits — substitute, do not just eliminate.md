@@ -20,7 +20,7 @@ The mechanism the review describes is competition between associations: "As the 
 
 **Plain words** Identify the situation in which you usually do the thing you want to change. Choose an alternative you can practise when that situation recurs. Notice whether you still feel prompted to do the old thing.
 
-*For example (imagined):* Someone who usually eats chocolate at 2 pm plans to eat an apple then, and records which response they actually make.
+*For example:* Someone who usually eats chocolate at 2 pm plans to eat an apple then, and records which response they actually make.
 
 ## Sources
 

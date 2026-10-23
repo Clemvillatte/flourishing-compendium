@@ -24,7 +24,7 @@ The compendium's exercise: after a meeting or meal, write down one thing that ma
 
 **Plain words** Wise action starts with seeing what matters in a situation. Aristotle's word for this seeing is aisthesis: perception. The wise are not those with more rules but those with a trained eye for the particular case, an eye that experience gives.
 
-*For example (imagined):* A host notices a quiet guest has not been included and draws her into the conversation.
+*For example:* A host notices a quiet guest has not been included and draws her into the conversation.
 
 ## Psychology parallels
 

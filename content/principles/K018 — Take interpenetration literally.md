@@ -24,7 +24,7 @@ Two limits follow. Each thing stays "absolutely unique", so interpenetration doe
 
 **Plain words** In Indra's net every jewel reflects all the rest. Nishitani applies that to things and people, who can be themselves only through their relations. Seeing someone this way adds a second fact to hold alongside their separateness.
 
-For example (imagined): before a tense conversation with your sister, you remind yourself that how she is with you is partly how you are with her, and your first sentence comes out softer.
+For example: before a tense conversation with your sister, you remind yourself that how she is with you is partly how you are with her, and your first sentence comes out softer.
 
 ## Sources
 

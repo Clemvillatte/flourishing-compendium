@@ -24,7 +24,7 @@ The psychology parallel cites Batson (2011) on altruism. That book was cited at 
 
 **Plain words** For Levinas, responsibility for the other is not something I take on after thinking it over. It is there before my freedom, and he says the self is called to its uniqueness by it. The word for this extreme condition is substitution, and the self as hostage is his picture of it.
 
-*For example (imagined):* An eldest sibling resents being the responsible one for years, then one day sees that the pull of the family's needs was never a role assigned to them. Levinas goes much further, since his claim applies to everyone, about everyone.
+*For example:* An eldest sibling resents being the responsible one for years, then one day sees that the pull of the family's needs was never a role assigned to them. Levinas goes much further, since his claim applies to everyone, about everyone.
 
 ## Sources
 

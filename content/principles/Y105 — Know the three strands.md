@@ -25,7 +25,7 @@ Use these as philosophical descriptions when reflecting on experience. The compe
 
 **Plain words** Even the pleasant condition binds in this account. When using the map, ask what you are reluctant to give up about an activity. Describe that attachment before choosing a label; the label can remain undecided.
 
-*For example (imagined):* Someone writes down why they keep adding tasks, then compares that account with Arnold's description of passion and work.
+*For example:* Someone writes down why they keep adding tasks, then compares that account with Arnold's description of passion and work.
 ## Psychology parallels
 
 - **Temperament and arousal-based typologies**, [[Behavioral activation|behavioral activation]] and inhibition systems (Carver & White, 1994)

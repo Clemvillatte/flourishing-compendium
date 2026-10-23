@@ -24,7 +24,7 @@ The psychology parallel, Gergen's relational self (2009), and Marcel's Being and
 
 **Plain words** For Buber, relation comes first, and the individual self takes shape within it. What passes between two people is not just a private feeling in each head. The compendium turns that into a practice of attending to the relation itself, which is its reading of him.
 
-*For example (imagined):* A friendship has a running joke, a saved seat, a phrase only the two of them use. None of it belongs to one person alone.
+*For example:* A friendship has a running joke, a saved seat, a phrase only the two of them use. None of it belongs to one person alone.
 
 ## Sources
 

@@ -24,7 +24,7 @@ Taylor's Sources of the Self and Ricoeur's Oneself as Another were cited at seco
 
 **Plain words** MacIntyre says people are story-telling animals who find themselves already inside stories, such as a family, a community or a tradition, and who answer "what should I do?" by asking which story they belong to. The authorship of one's life is shared with those stories.
 
-*For example (imagined):* Someone asked to decide whether to take over the family business first asks what story their family tells about work, loyalty and leaving, and then decides which chapter they want to write.
+*For example:* Someone asked to decide whether to take over the family business first asks what story their family tells about work, loyalty and leaving, and then decides which chapter they want to write.
 
 ## Sources
 

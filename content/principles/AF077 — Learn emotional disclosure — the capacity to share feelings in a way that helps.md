@@ -21,7 +21,7 @@ The average effect is small, and a later meta-analysis of physically healthy adu
 **Plain words**
 Before sharing, consider what you want from the conversation: someone to listen, help understanding what happened, or practical assistance. Choose what you want to disclose. Feeling better immediately is not a test of whether you shared properly.
 
-*For example (imagined):* Someone writes a private account of an argument, then asks a trusted friend to listen to the part they want help understanding.
+*For example:* Someone writes a private account of an argument, then asks a trusted friend to listen to the part they want help understanding.
 ## Psychology parallels
 
 - **Expressive writing** (Pennebaker & Beall, 1986; Frattaroli, 2006)

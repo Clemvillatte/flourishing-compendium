@@ -24,7 +24,7 @@ That gap existed only under low perceptual load, and they suggest "high-load mod
 
 **Plain words** Your list of attention traps is personal: a certain app, a topic, a person who drops by. Knowing the list lets you act before the pull starts, by moving the phone, closing the tab or choosing a seat away from the door, which is easier than resisting once it has begun.
 
-For example (imagined): if checking sports scores always costs you an hour, put the app on a second screen of your phone and check it at set times. The effort goes into the setup once and not into resisting every time.
+For example: if checking sports scores always costs you an hour, put the app on a second screen of your phone and check it at set times. The effort goes into the setup once and not into resisting every time.
 
 ## Sources
 

@@ -24,7 +24,7 @@ Diagnosis needs symptoms lasting more than a month that cause "significant distr
 
 **Plain words** Intrusive memories, avoidance and persistent changes in mood or alertness after trauma can be reasons to seek help. A clinician considers the full pattern, its duration and its effect on daily life. The one-month diagnostic threshold is not an instruction to endure distress before asking for support; the APA also describes treatment for earlier acute stress.
 
-For example (imagined): after a car crash, someone snaps at family and grips the wheel at junctions. Those reactions alone do not establish intrusion, avoidance or PTSD. An assessment can explore what is happening and what support would fit.
+For example: after a car crash, someone snaps at family and grips the wheel at junctions. Those reactions alone do not establish intrusion, avoidance or PTSD. An assessment can explore what is happening and what support would fit.
 
 ## Sources
 

@@ -18,7 +18,7 @@ In the Definitions of the Emotions, Spinoza defines self-approval as pleasure ar
 
 **Plain words** Pride is thinking too highly of yourself; humility is pain when you look at your own weakness ([Ethics, Definitions of the Emotions XXVIII and XXVI](https://www.gutenberg.org/ebooks/3800)). This page proposes a two-column exercise: one column for what you know about your abilities, one for what you only assume other people think, and then a look at which column carries more weight in your day.
 
-**For example (imagined):** A colleague makes a real mistake in a report and reads the team's silence afterward as contempt. The exercise is to distinguish the mistake, which is on the page, from the assumed audience, which is not.
+**For example:** A colleague makes a real mistake in a report and reads the team's silence afterward as contempt. The exercise is to distinguish the mistake, which is on the page, from the assumed audience, which is not.
 ## Psychology parallels
 
 - **Contingent versus true self-esteem**, and competence-based self-efficacy (Crocker, 2002; Bandura, 1997)

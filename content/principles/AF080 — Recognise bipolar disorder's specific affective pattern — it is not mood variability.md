@@ -26,7 +26,7 @@ The same page says symptoms of a manic episode "commonly require hospital care t
 
 **Plain words** An unusual change in sleep, energy, activity and judgement deserves more attention than the label “moody”. A clinician considers the whole pattern and other possible explanations. The episode lengths help describe diagnoses; they are not instructions to postpone seeking care or to wait for both high and low periods.
 
-For example (imagined): over several nights someone needs much less sleep, spends recklessly and behaves very differently from usual. That warrants prompt medical advice, not a diagnosis from this example.
+For example: over several nights someone needs much less sleep, spends recklessly and behaves very differently from usual. That warrants prompt medical advice, not a diagnosis from this example.
 
 ## Sources
 

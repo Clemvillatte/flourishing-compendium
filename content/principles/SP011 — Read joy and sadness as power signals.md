@@ -18,7 +18,7 @@ Elwes's translation defines pleasure and pain as transitions between degrees of 
 
 **Plain words** As a reflective exercise, describe a recent experience and what you could do before and afterwards. Write down the changes you actually noticed; leave the comparison open when you cannot tell.
 
-**For example (imagined):** After a difficult discussion, someone records what they understood better and what remains unresolved. They leave the entry descriptive rather than assigning the whole experience a good-or-bad score.
+**For example:** After a difficult discussion, someone records what they understood better and what remains unresolved. They leave the entry descriptive rather than assigning the whole experience a good-or-bad score.
 ## Psychology parallels
 
 - **[[Affect as information|Affect-as-information]]**, the finding that feeling states are read by the mind as data about the situation (Schwarz and Clore, 1983)

@@ -24,7 +24,7 @@ The program that follows treats the affects as objects of study rather than targ
 
 **Plain words** Spinoza treats fear and appetite as natural things, subject to causes like anything else. That is a way to examine them: look for what comes before a feeling and what changes with it. The preface itself states the approach; it does not report evidence about outcomes.
 
-*For example (imagined):* A man who has hated himself for years for being "so emotional" starts keeping notes on when the emotion rises and what comes before it, treating it as information about his own system.
+*For example:* A man who has hated himself for years for being "so emotional" starts keeping notes on when the emotion rises and what comes before it, treating it as information about his own system.
 
 ## Related concepts
 

@@ -18,7 +18,7 @@ Kahneman and Deaton distinguish two aspects of subjective well-being: the emotio
 
 **Plain words** Two open definitions — the emotional quality of everyday experience, and the appraisal made when thinking about one's life — measured separately in this research ([Kahneman & Deaton, 2010](https://doi.org/10.1073/pnas.1011492107)). The exercise: pick a period, record how it felt emotionally and how you judge your life overall, and keep the two entries separate.
 
-**For example (imagined):** A person enjoys a good dinner while judging their life overall unfavourably. The exercise is to record both reports separately, without assuming one contradicts the other.
+**For example:** A person enjoys a good dinner while judging their life overall unfavourably. The exercise is to record both reports separately, without assuming one contradicts the other.
 ## Psychology parallels
 
 - **[[The wanting/liking dissociation|Wanting vs liking dissociation]]**, dopamine mediates wanting (pursuit) and opioids mediate liking (consumption); the two can come apart (Berridge & Robinson, 2016)

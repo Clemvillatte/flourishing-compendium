@@ -20,7 +20,7 @@ Behavioural activation treats low mood as a loop of withdrawal: a person stops d
 
 **Plain words** Low mood removes the desire to do the things that would help. Behavioural activation asks you to treat your week like a set of appointments: choose a few specific activities you value, put them in the calendar at fixed times, and keep the appointment whether or not you feel ready that day.
 
-For example (imagined): someone who has stopped answering messages picks two evenings a week, writes "reply to Sam" and "walk before dinner" on those evenings, and does both at the scheduled time, including the evenings when the desire is absent.
+For example: someone who has stopped answering messages picks two evenings a week, writes "reply to Sam" and "walk before dinner" on those evenings, and does both at the scheduled time, including the evenings when the desire is absent.
 
 (Veale, "Behavioural activation for depression," 2008.)
 

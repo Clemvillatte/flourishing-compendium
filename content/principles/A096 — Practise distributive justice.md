@@ -21,7 +21,7 @@ Aristotle's account of distributive justice is a proportion between persons and 
 
 **Plain words** In any group you lead or belong to, check whether the distribution of goods matches the claims people actually have. Aristotle reports that people disagree about what counts as desert, and does not resolve it here. What his proportion rules out is distribution that ignores the ratio between persons and shares.
 
-For example (imagined): a manager who gives the biggest bonus to the person who carried the project, and explains why, illustrates distributing according to one stated criterion of desert. Whether that criterion is the right one is a further question.
+For example: a manager who gives the biggest bonus to the person who carried the project, and explains why, illustrates distributing according to one stated criterion of desert. Whether that criterion is the right one is a further question.
 
 (NE V.3.)
 

@@ -22,7 +22,7 @@ For psychology, Koo, Algoe, Wilson and Gilbert asked people to imagine that a po
 
 **Plain words** Seneca advises picturing, ahead of time, the worst that could happen, because fortune is unstable. Epictetus tells his reader to remember that a loved one is mortal. Both aim at being less shaken when loss comes.
 
-*For example (imagined):* While a partner is in the next room, someone pictures life without them for a minute, then goes in and listens to them talk.
+*For example:* While a partner is in the next room, someone pictures life without them for a minute, then goes in and listens to them talk.
 
 ## Sources
 

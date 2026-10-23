@@ -22,7 +22,7 @@ The compendium's exercise: for one rule you follow, write whether it names a nat
 
 **Plain words** Aristotle says some justice is natural: the same everywhere, not made true by anyone's say-so. Some is legal: fixed by a decision that could have been otherwise. He admits even the natural kind can shift, like a right-handed person becoming ambidextrous. Still, the two are different in kind.
 
-*For example (imagined):* Someone lists a workplace rule, and notes next to it what it is for, and whether the harm it prevents would still be a harm without the rule.
+*For example:* Someone lists a workplace rule, and notes next to it what it is for, and whether the harm it prevents would still be a harm without the rule.
 
 ## Psychology parallels
 

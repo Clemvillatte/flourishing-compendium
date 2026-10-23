@@ -24,7 +24,7 @@ Krishna tells Arjuna to bring the wandering mind back under the soul's control e
 
 **Plain words** One practical reading of this principle is to resume your meditation without first passing judgment on the session. Suppose you notice that you have been planning tomorrow instead of meditating. You can leave the plan unfinished and begin attending again. The compendium's phrase without drama describes that way of applying the instruction.
 
-For example (imagined): During a sitting, someone notices that they are rehearsing an argument. They put the imagined reply aside and resume the meditation.
+For example: During a sitting, someone notices that they are rehearsing an argument. They put the imagined reply aside and resume the meditation.
 
 (BG 6.26.)
 

@@ -26,7 +26,7 @@ These are laboratory tasks with brief displays, not comparisons of email filters
 
 **Plain words** Knowing that something is irrelevant does not ensure you will ignore it. These studies distinguish perceptual demands from demands on cognitive control; making work harder or more absorbing is not a general remedy for distraction. For everyday reflection, ask which inputs you actually want to receive and which you could remove before they compete for attention.
 
-For example (imagined): you unsubscribe from newsletters you never use. Other demands remain in your inbox, but these subscriptions no longer require a decision about opening them.
+For example: you unsubscribe from newsletters you never use. Other demands remain in your inbox, but these subscriptions no longer require a decision about opening them.
 
 ## Sources
 

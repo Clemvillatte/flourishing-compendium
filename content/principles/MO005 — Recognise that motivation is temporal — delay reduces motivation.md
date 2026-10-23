@@ -20,7 +20,7 @@ That supports the page's two main points: delay weakens motivation, and procrast
 
 **Plain words** Rewards that are close pull harder than rewards that are far away. People who procrastinate usually mean to act and do not. Shortening the distance, with milestones or nearer rewards, is a reasonable response, though this study did not test those fixes.
 
-For example (imagined): saving for retirement feels abstract. A target of "first $10,000 saved" with a progress bar brings the reward closer.
+For example: saving for retirement feels abstract. A target of "first $10,000 saved" with a progress bar brings the reward closer.
 
 ## Sources
 

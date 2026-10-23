@@ -22,7 +22,7 @@ The compendium's exercise: before a decision with a deadline, write the end, two
 
 **Plain words** Good deliberation is thinking through what to do, and doing it in a way that fits: right aim, workable means, done in time. It is not being clever or quick. A clever plan aimed at the wrong thing, or the right plan found too late, both miss it.
 
-*For example (imagined):* Someone lists options and consequences for an evening before choosing a flat, sets a decision date two weeks out, and decides that day.
+*For example:* Someone lists options and consequences for an evening before choosing a flat, sets a decision date two weeks out, and decides that day.
 
 ## Psychology parallels
 

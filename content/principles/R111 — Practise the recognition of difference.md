@@ -22,7 +22,7 @@ For the psychology, Phinney and Chavira followed 18 adolescents from three ethni
 
 **Plain words** Taylor argues that how others see your group affects how you see yourself, and that being shown a demeaning picture of yourself does real harm. His remedy is a starting presumption that other cultures have something worth learning from, not a requirement to praise everything.
 
-*For example (imagined):* A workplace calendar built around one tradition's holidays is revised to include the festivals that people in the room keep. The change costs little, and it tells everyone that they belong in the picture.
+*For example:* A workplace calendar built around one tradition's holidays is revised to include the festivals that people in the room keep. The change costs little, and it tells everyone that they belong in the picture.
 
 ## Sources
 

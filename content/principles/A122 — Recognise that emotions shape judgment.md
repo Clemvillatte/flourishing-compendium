@@ -22,7 +22,7 @@ The compendium's exercise: before a decision, name the feeling present and write
 
 **Plain words** Aristotle defines emotions as feelings that change how you judge, carrying pain or pleasure with them. A friendly mood makes the person before you seem to have done little wrong; a hostile one makes the same facts read the other way.
 
-*For example (imagined):* Someone feels uneasy before signing and writes down what the unease points to, next to the reasons for signing.
+*For example:* Someone feels uneasy before signing and writes down what the unease points to, next to the reasons for signing.
 
 ## Psychology parallels
 

@@ -22,7 +22,7 @@ She does not dismiss him outright. She calls his choice "very close to a genuine
 
 **Plain words** For Beauvoir, the adventurer enjoys freedom and action but not their meaning for other people. She credits the energy and rejects the indifference. What she faults is ignoring what the constant movement does to others.
 
-For example (imagined): someone who moves to a new country every year can be adventurous in her sense, if they stay answerable to the people affected. The same life is her adventurer if the people left behind do not matter.
+For example: someone who moves to a new country every year can be adventurous in her sense, if they stay answerable to the people affected. The same life is her adventurer if the people left behind do not matter.
 
 ## Sources
 

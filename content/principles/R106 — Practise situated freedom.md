@@ -22,7 +22,7 @@ So Sartre does teach that freedom is situated. The compendium's wording that you
 
 **Plain words** On Sartre's account, nobody is free in a vacuum. The obstacles and givens of your life are real, and they count as obstacles only in light of what you are trying to do. Freedom shows up as how you take up the situation you are in.
 
-*For example (imagined):* A caregiver cannot change the diagnosis or the family's circumstances. What stays open is how they organise the year, what they decide matters in it, and how they treat each person.
+*For example:* A caregiver cannot change the diagnosis or the family's circumstances. What stays open is how they organise the year, what they decide matters in it, and how they treat each person.
 
 ## Sources
 

@@ -21,7 +21,7 @@ The compendium takes the undertaking formula as a prompt to choose a concrete re
 **Plain words**
 Name the restraint you are undertaking and a situation in which you intend to observe it. Afterward, review whether you kept the undertaking.
 
-*For example (imagined):* Before a difficult conversation, you undertake to speak truthfully. Afterward, you consider whether anything you said needs correcting.
+*For example:* Before a difficult conversation, you undertake to speak truthfully. Afterward, you consider whether anything you said needs correcting.
 
 ## Sources
 

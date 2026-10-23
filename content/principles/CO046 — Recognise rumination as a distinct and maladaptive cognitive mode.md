@@ -24,7 +24,7 @@ On treatment, a randomised trial of 42 people with medication-refractory residua
 
 **Plain words** Rumination means going around the same distress, its causes and what it might lead to, without getting anywhere. Studies link it to longer and new episodes of depression. A thinking style closer to purposeful problem solving looked less harmful than gloomy brooding, though that split is blurrier in people who are already depressed. Therapy aimed at rumination helped in a small early trial.
 
-*For example (imagined):* Someone replays a difficult conversation for the tenth night. On the eleventh they write down one thing they will say differently next time and then do something else, which is the move from brooding toward problem solving.
+*For example:* Someone replays a difficult conversation for the tenth night. On the eleventh they write down one thing they will say differently next time and then do something else, which is the move from brooding toward problem solving.
 
 ## Sources
 

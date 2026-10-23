@@ -21,7 +21,7 @@ What humans call nature (heavens, earth, rain, people, trees, rocks) is generate
 **Plain words**
 One old Nahua way of seeing it: there is no stuff sitting still anywhere — one sacred energy folding itself into everything, and you are one of the folds.
 
-*For example (imagined):* Someone in a bad year keeps waiting for their "real life" to resume. The teotl view reframes the wait: everything, including them, is already movement.
+*For example:* Someone in a bad year keeps waiting for their "real life" to resume. The teotl view reframes the wait: everything, including them, is already movement.
 
 ## Psychology parallels
 

@@ -20,7 +20,7 @@ His account also contains a hierarchy that this principle does not endorse. He d
 
 **Plain words** Aristotle asks what fairness and affection require within different family relationships. A contemporary way to use that question is to look at ordinary household decisions: who receives care, whose needs get heard, and how responsibilities are shared. His descriptions of marriage and slavery also need to be read critically; this principle does not endorse them.
 
-For example (imagined): dividing the last slice of cake between two children is a small exercise in fairness, and how you do it shows them what fair looks like.
+For example: dividing the last slice of cake between two children is a small exercise in fairness, and how you do it shows them what fair looks like.
 
 ## Sources
 

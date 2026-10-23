@@ -22,7 +22,7 @@ For the psychology parallel, a meta-analysis of 92 longitudinal samples found th
 
 **Plain words** Epictetus tells his reader to stop postponing and start living as a proficient person now. Seneca treats philosophy as daily repetition and keeping resolutions. Even on his own terms, where wisdom can be completed, the road there is repetition — so the practice cannot turn into a phase you did once.
 
-*For example (imagined):* A twenty-year meditator still sets the timer for ten minutes each morning.
+*For example:* A twenty-year meditator still sets the timer for ten minutes each morning.
 
 ## Sources
 

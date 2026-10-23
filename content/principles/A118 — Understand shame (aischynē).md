@@ -22,7 +22,7 @@ In [NE IV.9 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen
 
 **Plain words** Shame involves other people's judgement, but feeling ashamed does not establish that you did wrong. Aristotle's examples include both fault and unchosen humiliation. For contemporary reflection, ask whose judgement matters here and what, if anything, needs repair. These are questions to consider, not a clinical test supplied by Aristotle.
 
-For example (imagined): an awkward comment keeps coming back to mind. You can ask whether an apology is needed without treating that moment as a verdict on your worth.
+For example: an awkward comment keeps coming back to mind. You can ask whether an apology is needed without treating that moment as a verdict on your worth.
 
 ## Sources
 

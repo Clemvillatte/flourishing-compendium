@@ -21,7 +21,7 @@ Aristotle does not give a simple self-authorship slogan in NE III.5. He says we 
 
 **Plain words** Your choices help form your character. Repeated acts can settle into dispositions that do not disappear simply because you wish them away. That gives you a reason to pay attention to the choices you keep repeating.
 
-For example (imagined): a person raised in a cynical household who starts keeping small promises as an adult is working on their own character through acts they still control.
+For example: a person raised in a cynical household who starts keeping small promises as an adult is working on their own character through acts they still control.
 
 (NE III.5.)
 

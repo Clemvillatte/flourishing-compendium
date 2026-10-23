@@ -22,7 +22,7 @@ Even then, he rejects waiting. He quotes the formula that "one need not hope in 
 
 **Plain words** Sartre says there is no outside sign that tells you the right choice, and that this is not a reason to hold off. You decide, then act on the decision, and you own it. The page's wider claim that this works better than waiting is an application, not something Sartre or the sources below test.
 
-For example (imagined): someone weighing a job offer in another city lists every risk, then notices the list never ends. Accepting or declining is still a choice, made without proof either way.
+For example: someone weighing a job offer in another city lists every risk, then notices the list never ends. Accepting or declining is still a choice, made without proof either way.
 
 ## Sources
 

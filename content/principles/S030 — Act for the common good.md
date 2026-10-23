@@ -22,7 +22,7 @@ A modern parallel exists on the psychology side. Dunn, Aknin and Norton found th
 
 **Plain words** Marcus says people are built to work together, like the parts of a body, and that what harms the group harms each member. So before acting, it helps to ask who else the action touches.
 
-*For example (imagined):* A team member could skip a testing step to finish sooner. They think about the colleague who will inherit the bugs and run the test.
+*For example:* A team member could skip a testing step to finish sooner. They think about the colleague who will inherit the bugs and run the test.
 
 ## Sources
 

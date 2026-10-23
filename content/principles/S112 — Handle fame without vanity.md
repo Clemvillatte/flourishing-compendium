@@ -22,7 +22,7 @@ Kasser and Ryan studied financial success, and not fame. Across three studies th
 
 **Plain words** Seneca calls fame the shadow of virtue, something that may follow, and Marcus asks what praise is worth beyond its use. Neither tells a person to refuse fame. They say not to pursue it or depend on it.
 
-*For example (imagined):* A teacher with a large following asks herself, and not the numbers, whether the lesson was good.
+*For example:* A teacher with a large following asks herself, and not the numbers, whether the lesson was good.
 
 ## Sources
 

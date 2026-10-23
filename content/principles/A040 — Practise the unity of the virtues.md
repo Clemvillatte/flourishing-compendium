@@ -24,7 +24,7 @@ The compendium's exercise: pick a virtue you are proud of, name the virtue that 
 
 **Plain words** The virtues are not separate skills. In Aristotle's picture they come as one character: full virtue needs practical wisdom, and practical wisdom brings all the virtues with it. A strong trait without the rest can even do harm, like a strong body without sight.
 
-*For example (imagined):* Someone proud of courage reviews a rescue of a friend and notices they had been shortchanging others in the same week.
+*For example:* Someone proud of courage reviews a rescue of a friend and notices they had been shortchanging others in the same week.
 
 ## Practice kernels
 

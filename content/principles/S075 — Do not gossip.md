@@ -21,7 +21,7 @@ Book VI carries the same discipline into the remembrance of Antoninus Pius: "how
 **Plain words**
 As a practical exercise, ask what you actually know before repeating an accusation. You can leave it out of the next conversation. When correcting someone's wording, try supplying the right expression in your reply without rebuking the speaker.
 
-*For example (imagined):* At lunch, someone repeats an accusation about a colleague. You decline to pass it on to the next person.
+*For example:* At lunch, someone repeats an accusation about a colleague. You decline to pass it on to the next person.
 
 ## Sources
 

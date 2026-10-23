@@ -24,7 +24,7 @@ The claim that this is "the basis of effective therapies for old wounds" is ther
 
 **Plain words** Lab work shows that a recalled fear memory briefly becomes changeable, and that this can be used to weaken it in animals. In humans the best-known result, using a reminder before extinction, has failed replication in several labs. Recalling a painful memory in a safer setting may still help, but this evidence does not show that a memory can be rewritten at will.
 
-*For example (imagined):* In therapy, someone recalls an old failure with support and adds what they have learned since. Whether the change comes from reconsolidation or from ordinary new learning is not settled by this research.
+*For example:* In therapy, someone recalls an old failure with support and adds what they have learned since. Whether the change comes from reconsolidation or from ordinary new learning is not settled by this research.
 
 ## Sources
 

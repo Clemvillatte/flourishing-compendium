@@ -20,7 +20,7 @@ The same article reduces the advice to one line: "repeat a chosen behaviour in t
 
 **Plain words** Habits are learned associations: same cue, same action, repeated, until the cue itself activates the action. The practice is to choose the cue deliberately (after breakfast, at the desk) rather than leaving it to whatever context happens to be around. A single missed day did not measurably set the study's participants back.
 
-*For example (imagined):* Someone chooses to write one journal entry after evening tea in the same chair, and records whether they do so.
+*For example:* Someone chooses to write one journal entry after evening tea in the same chair, and records whether they do so.
 
 ## Sources
 

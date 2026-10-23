@@ -20,7 +20,7 @@ The wider evidence base is thinner than the principle suggests. Hollands and col
 
 **Plain words** Making a behaviour easier to start, or more visible, shifts what people choose in at least one real setting. How far this beats willpower is not established by these sources. Treat friction changes as cheap experiments.
 
-For example (imagined): you leave your running shoes by the door and your phone charger outside the bedroom, then check after two weeks whether anything changed.
+For example: you leave your running shoes by the door and your phone charger outside the bedroom, then check after two weeks whether anything changed.
 
 ## Sources
 

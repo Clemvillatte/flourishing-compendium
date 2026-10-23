@@ -21,7 +21,7 @@ The Dugas et al. model of generalised anxiety disorder names four process variab
 
 **Plain words** The study names a tendency to react negatively to uncertainty itself. The application is to distinguish between checking or problem-solving and the underlying not-knowing that the checking tries to remove.
 
-For example (imagined): a person notices they check the tracking, the forecast, the reviews, everything, in order to eliminate not-knowing. That is one instance of the pattern the study describes.
+For example: a person notices they check the tracking, the forecast, the reviews, everything, in order to eliminate not-knowing. That is one instance of the pattern the study describes.
 
 ## Psychology parallels
 

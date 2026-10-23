@@ -20,7 +20,7 @@ The diagnosis calls these disturbances in self-organisation. This page's "fragme
 
 **Plain words** The additional difficulties described here concern managing emotions, persistent negative beliefs about yourself, and sustaining close relationships. If these experiences are troubling you, describe them during a professional assessment.
 
-*For example (imagined):* After traumatic events, someone reports difficulty managing emotions, persistent feelings of worthlessness, and trouble feeling close to others. They bring these experiences to an assessment.
+*For example:* After traumatic events, someone reports difficulty managing emotions, persistent feelings of worthlessness, and trouble feeling close to others. They bring these experiences to an assessment.
 
 ## Sources
 

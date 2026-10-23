@@ -24,7 +24,7 @@ The psychology parallel is shared reality theory. Echterhoff, Higgins and Levine
 
 **Plain words** A conversation can be more than two people exchanging messages. For Buber, what happens in the space between speaker and listener belongs to neither of them alone. Speaking to someone, rather than at them or about them, is where the relation lives.
 
-*For example (imagined):* Two former partners can trade tidy, accurate messages for weeks. The one conversation in which each says what is true and listens to the other is a different kind of event.
+*For example:* Two former partners can trade tidy, accurate messages for weeks. The one conversation in which each says what is true and listens to the other is a different kind of event.
 
 ## Sources
 

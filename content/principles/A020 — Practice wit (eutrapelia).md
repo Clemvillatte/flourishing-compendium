@@ -26,7 +26,7 @@ The compendium's exercise: over a week, note jokes that raised a laugh and jokes
 
 **Plain words** Aristotle says good humour is a virtue of character. The buffoon jokes at any cost to get a laugh. The boor can neither make nor take a joke. The witty person considers what suits the company and which jokes to leave unsaid.
 
-*For example (imagined):* A host leaves a joke about a guest's recent loss unsaid and joins the banter about the overcooked dinner instead.
+*For example:* A host leaves a joke about a guest's recent loss unsaid and joins the banter about the overcooked dinner instead.
 
 ## Practice kernels
 
