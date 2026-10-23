@@ -40,9 +40,14 @@ The two halves have names, and the book distinguishes them from discord:
 > "Sustain talk is about the target behavior or change. Discord is about you or more precisely about your relationship with the client—signals of discord in your working alliance."
 > — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
+The flip's own MI-tradition formulation, in a published training toolkit:
+
+> "Recall that the structure for double-sided reflections is to start with the sustain talk and ending with the change talk, because people tend to continue talking about the last topic they heard. Additionally, using "and" rather than "but" honors the presence of ambivalence without negating it."
+> — [All Rise, Motivational Interviewing Toolkit, PDF](https://allrise.org/wp-content/uploads/2024/04/MI-VTC-Toolkit-Final.pdf)
+
 The rewrite keeps both sides of the ambivalence in the sentence. The MI findings quoted here do not establish its effect on behavior.
 
-What the sources do not test: the passages quoted are the MI background; the specific "but to and" move is attributed to Drapkin's workbook, cited at second hand, and its effect is not established.
+What the sources do not test: the passages quoted are the MI background; the specific "but to and" move is attributed to Drapkin's workbook, cited at second hand, and its effect is not established. The move's MI-tradition form is carried in published MI training materials (see the All Rise MI Toolkit quote above), but no trial isolates the flip as an intervention.
 
 ## Operationalises
 
@@ -68,3 +73,4 @@ What the sources do not test: the passages quoted are the MI background; the spe
 ## Sources
 
 - [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+- [All Rise — Motivational Interviewing Toolkit, PDF](https://allrise.org/wp-content/uploads/2024/04/MI-VTC-Toolkit-Final.pdf)
