@@ -14,9 +14,9 @@ Take one action today that is consistent with a chosen value, however small. The
 
 ### Protocol
 
-The steps below are a practice form, not a tested protocol; the findings they lean on are quoted in the Evidence section. Intended focus: Motivation and Overt behaviour.
+Steps are a practice form; the review behind it is quoted below. Intended focus: Motivation and Overt behaviour.
 
-1. Name one chosen value for the day (a clarified value works better than a mood).
+1. Choose one value to guide today's action.
 2. Take one action consistent with it, however small. If the chosen action meets the feeling of not wanting to, take it anyway, at a size you can actually do.
 3. In the evening log, record the action taken and whether it happened at all. Keep the sizes that get done; drop the ones that stay on the list.
 
@@ -43,7 +43,8 @@ No guided version is supplied here.
 
 - [[Psychological flexibility]]: the process family that names committed action
 - [[Acceptance alongside values-based action]]: the pairing this practice works on the values side of
-- [[Attitudinal values]]: the values side of the practice
+- [[Behavioral activation]]: the behaviour-first family the review reduces the technique to
+- [[Attitudinal values]]: another page in the values family
 
 ## Related kernels
 

@@ -10,14 +10,14 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K196** — Daily movement
 
-Walk 20 to 30 minutes daily, ideally outdoors, in contact with weather and ground. If possible, walk in nature. Movement is a first-line mental health intervention with meta-analytic support.
+Walk 20 to 30 minutes daily, ideally outdoors, in contact with weather and ground. If possible, walk in nature. The prospective research below links higher physical activity to lower odds of developing depression.
 
 ### Protocol
 
-The steps below are a practice form, not a tested protocol; the findings they lean on are quoted in the Evidence section. Intended focus: Overt behaviour and Subjective well-being.
+Steps are a practice form; the study behind it is quoted below. Intended focus: Overt behaviour and Subjective well-being.
 
-1. Walk 20 to 30 minutes a day, at whatever pace you can keep. Outdoors beats a treadmill when available; contact with weather and ground is part of the practice, not decoration.
-2. Keep the walk separate from its uses: errands count only if the walking is the errand. Where possible, walk where something green is visible.
+1. Walk 20 to 30 minutes a day, at whatever pace you can keep. Outdoor walking is this practice's chosen format; contact with weather and ground is part of it, not decoration.
+2. Where possible, walk where something green is visible.
 3. Track only whether the walk happened. If it lapses, restart at a smaller size rather than scheduling a larger one; keep the version that survives weather, mood and schedule.
 
 ### Evidence
@@ -26,7 +26,7 @@ From the prospective-cohort research on movement and depression:
 
 > "Compared with people with low levels of physical activity, those with high levels had lower odds of developing depression (adjusted odds ratio=0.83, 95% CI=0.79, 0.88; I2=0.00)." (Abstract, [Schuch, Vancampfort, Firth, Rosenbaum, Ward, Silva, Hallgren, Ponce De Leon, Dunn, Deslandes, Fleck, Carvalho & Stubbs, 2018, American Journal of Psychiatry 175(7), 631-648](https://pubmed.ncbi.nlm.nih.gov/29690792/))
 
-What this evidence does not test: the walk. The meta-analysis pooled 49 prospective cohort studies (N=266,939) and reports a protective association between higher physical activity and lower odds of developing depression, across age groups and regions. It is observational: it does not show that a daily 20 to 30 minute walk prevents depression, and the comparison is between high and low activity levels, not between walking and not walking. The dose, the outdoor setting and the nature contact are the practice form; the study does not speak to them.
+What this evidence does not test: the walk. This meta-analysis combined 49 prospective observational studies involving 266,939 people. Higher activity levels were associated with lower odds of developing depression, across age groups and regions. These findings do not establish that this particular 20 to 30 minute outdoor walking routine prevents depression; the dose, the outdoor setting and the nature contact are the practice form.
 
 ### A guided version
 

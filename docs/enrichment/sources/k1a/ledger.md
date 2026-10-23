@@ -348,3 +348,14 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: observational cohorts, high-vs-low contrast, walk dose/outdoors/nature not tested. No treatment claim.
 - Advisor QC pattern applied. Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
 - Saturation: mention check run; D036, B041, BI030/BI032 already reference daily walking; no new reciprocal proposals needed.
+
+## QC round (advisor milestone pass 2, 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Advisor flagged repairs on K196, K182, K140, K152; all applied via reopen -> edit -> validate -> done.
+- K196: seed's "first-line mental health intervention" claim rewritten to the supported association; "outdoors beats a treadmill" comparison and errand exclusion removed; observational caveat softened to what the abstract does not establish.
+- K182: "more than goal attainment" comparative removed from the opening paragraph; "supports the noticing, not the log" overreach replaced; Self-concordance gloss reduced to topic-label.
+- K140: unverified "self-report scales" methods claim removed; step 2 rewritten as optional experiential instruction (no separate watcher entity); witness/Drig-Drisya-Viveka equivalence glosses reduced to topic-labels; opening claim reframed as aim.
+- K152: "clarified value works better than a mood" comparative replaced with a plain instruction; Attitudinal values link retained (protected markup) with neutral gloss, Behavioral activation link added.
+- Ledger correction: the K152 seed file carries no facet row; the Harris 2019 reference came from the handoff's queue description, not the page. Earlier entry's wording corrected here.
+- Mention checks actually run for all five items: K156 (B022, D001, P172, K176, K233, K242, concept page), K140 (B160, D050, D087, K137, K147, P059, NAV-PSYCH-ACT), K152 (B022, B026, Action before feeling, Action commitment, ACT concept), K182 (B026, D018, D060, K176, K185), K196 (B041, D036, D141, P141, V1K-S01 navnode). Existing links cover the neighbours; no new reciprocal proposals needed.
+- Standing change going forward: varied section-intro wording across kernel pages (humanisation note applies to kernels); no unsupported comparatives; no cross-tradition equivalence claims without opened support.

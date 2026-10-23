@@ -10,14 +10,14 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K140** — The observer question
 
-Periodically ask: "Who is noticing?" The answer is not a word or a concept but a shift in perspective. The question interrupts identification with thought and opens the observing stance.
+Periodically ask: "Who is noticing?" The answer is not a word or a concept but a shift in perspective. The question aims at interrupting identification with thought; whether it lands is what step 3 keeps track of.
 
 ### Protocol
 
-The steps below are a practice form, not a tested protocol; the findings they lean on are quoted in the Evidence section. Intended focus: Self and Attention.
+Steps are a practice form; the review behind it is quoted below. Intended focus: Self and Attention.
 
 1. At a chosen point in the day, or when you notice being caught in a loop of thought, ask the question: "Who is noticing?"
-2. Do not answer in words. Look instead for the shift the question produces: the thoughts continue, and something is watching them. That something is what the question points at.
+2. Do not answer in words. Notice whether you can attend to the thought as an experience, something occurring rather than something you are; no particular answer or sensation is required.
 3. Stay with the shifted stance for a few breaths, then return to the task. Repeat at intervals. In the evening log, note whether the question broke any loop it was asked in; keep the intervals that worked.
 
 ### Evidence
@@ -26,7 +26,7 @@ From the research on decentering:
 
 > "Specifically, we propose that, to varying degrees, decentering-related constructs reflect a common mental phenomenon subserved by three interrelated metacognitive processes: meta-awareness, disidentification from internal experience, and reduced reactivity to thought content." (Abstract, [Bernstein, Hadash, Lichtash, Tanay, Shepherd & Fresco, 2015, Perspectives on Psychological Science 10(5), 599-617](https://pubmed.ncbi.nlm.nih.gov/26385999/))
 
-What this evidence does not test: the question itself. The article is a theoretical review and construct model, not a trial of a questioning practice; it defines decentering through self-report scales and related constructs, and its three processes (meta-awareness, disidentification, reduced reactivity) describe what the question aims at rather than what asking it has been shown to produce. The review does not settle whether perspective can be shifted on command; that is the practice's own wager, checked in step 3.
+What this evidence does not test: the question itself. The article is a theoretical review and construct model, not a trial of a questioning practice; its three processes (meta-awareness, disidentification, reduced reactivity) describe what the question aims at rather than what asking it has been shown to produce. The review does not settle whether perspective can be shifted on command; that is the practice's own wager, checked in step 3.
 
 ### A guided version
 
@@ -44,8 +44,8 @@ No guided version is supplied here.
 
 - [[The observing self]]: the stance the question opens
 - [[Decentering]]: the research construct that names the shift
-- [[The witness]]: the contemplative tradition's name for the same stance
-- [[Witness consciousness in the Drig-Drisya-Viveka procedure]]: a classical instruction built on the same question
+- [[The witness]]: the contemplative line on witnessing
+- [[Witness consciousness in the Drig-Drisya-Viveka procedure]]: a classical Indian instruction on the witness
 
 ## Related kernels
 
