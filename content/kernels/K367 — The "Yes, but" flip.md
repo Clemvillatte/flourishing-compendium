@@ -18,6 +18,32 @@ This is a language move, not a denial of the obstacle — the "busy" is still tr
 
 Adapted from Drapkin, *The Motivational Interviewing Path to Personal Change*, ch. 4, PDF p. 1402 (this edition has no printed page numbers).
 
+### Protocol
+
+1. Catch a sentence of your own that cancels itself: change talk in front, "but", obstacle behind.
+2. Write the sentence down and mark which half is the reason-for-change and which half is the status quo.
+3. Rewrite it with the two halves joined by "and", order swapped or kept — choose the order that leaves the reason-for-change standing at the end.
+4. Say the rewritten version aloud once. The obstacle stays in the sentence; only the cancellation goes.
+
+### Evidence
+
+The flip rests on the motivational-interviewing account of ambivalent speech. In the authors' own words:
+
+> "I need to do something about my weight [change talk] but I've tried about everything and it never lasts [sustain talk]. I mean, I know I need to lose weight for my health [change talk] but I just love to eat [sustain talk]." "Yes, but . . ." is the cadence of ambivalence.
+> — [Miller & Rollnick, *Motivational Interviewing* (3rd ed., 2012), archive.org full text](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
+
+The two halves have names, and the book distinguishes them from discord:
+
+> "The opposite type is sustain talk—the person's own arguments for not changing, for sustaining the status quo."
+> — [same carrier](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
+
+> "Sustain talk is about the target behavior or change. Discord is about you or more precisely about your relationship with the client—signals of discord in your working alliance."
+> — [same carrier](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
+
+The research claim behind the flip is the ratio: a predominance of change talk over sustain talk predicts subsequent behavior change, per the studies the book cites (Moyers, Martin and colleagues); the "but to and" rewrite is a way of stopping the stronger half from deleting the weaker one in your own speech.
+
+What the sources do not test: the ratio evidence comes from clinician-delivered MI; Drapkin's "but to and" move is a lay self-help adaptation, cited at second hand.
+
 ## Operationalises
 
 - [[D080 — Dissolve rigid right and wrong (qiwu)|D080 Dissolve rigid right and wrong (qiwu)]] — **analogy**: qiwu in a sentence — not letting one side erase the other.
@@ -26,3 +52,19 @@ Adapted from Drapkin, *The Motivational Interviewing Path to Personal Change*, c
 ## Psychology parallels
 
 - Drapkin cites the MI literature that more change talk predicts more behavior change (reported by the source book); the specific "but → and" self-talk move is her lay adaptation and has not been independently tested.
+
+## Related concepts
+
+- [[Motivational interviewing]] — the research tradition the change-talk/sustain-talk distinction comes from.
+- [[Approach versus avoidance motivation]] — the two pulls the "yes, but" sentence carries in one line.
+- [[Action commitment]] — what the surviving half of the rewritten sentence can feed.
+
+## Related kernels
+
+- [[K366 — Reflective listening: guess the meaning]]
+- [[K372 — The decisional-balance caution]]
+- [[K373 — Notice the fixing reflex]]
+
+## Sources
+
+- [Miller, W. R. & Rollnick, S. (2012). *Motivational Interviewing: Helping People Change* (3rd ed.). Guilford Press — archive.org full text](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
