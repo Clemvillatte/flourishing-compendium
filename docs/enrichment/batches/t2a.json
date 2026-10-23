@@ -448,11 +448,25 @@
   "content/kernels/K266 — Impression-judgement-action log.md",
   "content/kernels/K270 — Evidence-versus-interpretation drill.md",
   "content/thinkers/T004 — Plato.md",
-  "content/thinkers/T010 — Epictetus.md"
+  "content/thinkers/T010 — Epictetus.md",
+  "content/principles/A095 — Practise self-sufficiency (autarkeia).md",
+  "content/principles/AT011 — Recognise that attention can be open or closed — both are needed.md",
+  "content/principles/AT031 — Cultivate attentional endurance — build capacity gradually.md",
+  "content/principles/B002 — Assume change (anicca).md",
+  "content/principles/B010 — See emptiness — nothing has a fixed essence (shunyata).md",
+  "content/principles/B044 — Just sit (zazen, shikantaza).md",
+  "content/principles/B045 — Let practice and enlightenment be one.md",
+  "content/principles/B049 — Rest in no-mind (mushin).md",
+  "content/principles/B060 — Practice without seeking.md",
+  "content/principles/B062 — Rest in the unborn (Bankei).md",
+  "content/principles/B066 — Watch states arise and pass.md",
+  "content/principles/B072 — Practice letting go (vossagga).md",
+  "content/principles/B082 — Meet restlessness with settling (hindrance 4).md",
+  "content/principles/B113 — Be grateful to everyone (lojong).md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:29:24+00:00",
+ "updated": "2026-10-23T14:29:59+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

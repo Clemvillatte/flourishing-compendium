@@ -35,6 +35,7 @@ An analogy from a different tradition: the Daodejing's pairs produce each other,
 *For example:* Imagine revising an essay. You inspect one sentence closely, then reread the whole section to consider how that sentence fits.
 
 ## Sources
+- [[T008 — Laozi]]: the Daodejing's producing pairs (difficulty and ease, long and short), the page's cross-tradition analogy.
 
 - [Thanissaro Bhikkhu, "One Tool Among Many: The Place of Vipassana in Buddhist Practice" (Access to Insight)](https://accesstoinsight.org/lib/authors/thanissaro/onetool.html) — samatha and vipassana as complementary, brought into balance
 - [Lippelt, Hommel & Colzato, "Focused attention, open monitoring and loving kindness meditation", Frontiers in Psychology 5, 2014](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01083/full) — FAM and OMM definitions; narrow vs broader attentional focus

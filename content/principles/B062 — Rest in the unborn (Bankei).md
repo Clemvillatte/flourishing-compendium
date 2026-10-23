@@ -26,6 +26,7 @@ Try this application: when a worry interrupts what you are doing, pause before f
 *For example:* Imagine remembering tomorrow's appointment while washing dishes. You check that the time is in your calendar, then try returning to the washing without waiting for the worry to disappear.
 
 ## Sources
+- [[T008 — Laozi]]: the pu uncarved-block parallel (Daodejing 15) the page lists.
 
 - [A Lecture from Bankei Yotaku, Dharma Zen Center](https://www.dharmazen.com/dharma-talks/2025/12/5/a-lecture-from-bankei-yotaku) — abide in the Unborn, the hearing proof
 

@@ -26,6 +26,7 @@ For an everyday analogy, imagine still defending the point you made two minutes 
 For example: A musician has practised a piece until the fingering is familiar. When a note goes wrong, they can stop to analyse it or continue to the next phrase and review it afterward. Record both approaches in rehearsal and compare the continuity of each run. Keep a place for analysis and a place for playing through. This adapts Takuan's image of meeting successive actions without stopping at each one; it starts with a skill already practised.
 
 ## Sources
+- [[T008 — Laozi]]: the wu wei effortless-action parallel (Daodejing 48: doing nothing) the page lists.
 
 - [Takuan Soho, The Mysterious Record of Immovable Wisdom, excerpts reproduced at the Scarsdale Aikido page](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/) — the stopping mind and the trained body
 - [Takuan Soho, The Unfettered Mind, translated by William Scott Wilson, direct text reproduction (PDF)](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf) — PDF pp. 4 to 8 and 13; fixation, technique and principle, and the no-mind distinction

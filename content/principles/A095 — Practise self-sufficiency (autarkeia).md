@@ -25,6 +25,7 @@ Nor does self-sufficiency mean solitude. In [NE I.7](https://classics.mit.edu/Ar
 For example: someone who enjoys reading and long walks is less shaken when a holiday is cancelled than someone whose pleasures all need money and company. They still need friends, and they still need to eat.
 
 ## Sources
+- [[T008 — Laozi]]: the wu wei non-forcing parallel (Daodejing 37) the page draws.
 
 - [Aristotle, Nicomachean Ethics I.7, X.7 and X.8, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)
 

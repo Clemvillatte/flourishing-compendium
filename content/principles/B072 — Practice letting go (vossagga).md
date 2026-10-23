@@ -27,6 +27,7 @@ Noticing where your effort is going is the exercise: the plan you keep re-runnin
 Imagine re-reading an email you already sent, rewording it in your head. Letting go is noticing that you are doing this and returning to what you are actually doing now. The rewording may start again later; the exercise is the returning.
 
 ## Psychology parallels
+- [[T008 — Laozi]]: the wu wei effortless-action parallel (Daodejing 64) the page draws.
 
 - **[[Nonattachment|Nonattachment]]**: Sahdra, Shaver and Brown define the Buddhist notion as "release from mental fixations", related to but distinguishable from the Western construct of attachment, and present evidence consistent with Buddhist theory that it is "psychologically and socially adaptive" ([2010, J Pers Assess 92(2)](https://pubmed.ncbi.nlm.nih.gov/20155561/))
 

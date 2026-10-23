@@ -23,6 +23,7 @@ This is the teaching Dogen is most famous for — shusho-itto, practice and real
 *For example:* Two people sit for the same ten minutes. One is waiting for the meditation to start working, and evaluates each session by whether anything happened. The other treats the sitting itself as the complete thing, and the only question is whether they were actually present. Same ten minutes; one of them has been doing the thing the whole time.
 
 ## Psychology parallels
+- [[T008 — Laozi]]: the path-is-the-goal parallel (Daodejing 25) the page cites.
 
 - **[[Intrinsic motivation|Intrinsic motivation]]**, autotelic activity is its own reward (Deci and Ryan, 2000)
 - **[[Process versus outcome focus|Process focus over outcome focus]]** (Vallerand, 2010)
