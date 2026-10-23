@@ -17,7 +17,7 @@ Fromm was the only child of a Frankfurt family of rabbis, and his dissertation a
 
 ## Their why
 
-Fromm watched ordinary people surrender to authoritarianism and saw a psychological event, not just a political one. Freedom had cut the old ties that gave life security, and for many it became "an unbearable burden," so that "powerful tendencies arise to escape from this kind of freedom into submission" ([Wikipedia, Erich Fromm](https://en.wikipedia.org/wiki/Erich_Fromm)). His question was what a free person could do with that isolation, and his answer was character: the productive person relates to the world through love and work instead of submission or possession.
+Fromm watched ordinary people surrender to authoritarianism and saw a psychological event. Freedom had cut the old ties that gave life security, and for many it became "an unbearable burden," so that "powerful tendencies arise to escape from this kind of freedom into submission" ([Wikipedia, Erich Fromm](https://en.wikipedia.org/wiki/Erich_Fromm)). His question was what a free person could do with that isolation, and his answer was character: the productive person relates to the world through love and work instead of submission or possession.
 
 ## Their position
 
