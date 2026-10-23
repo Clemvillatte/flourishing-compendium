@@ -3832,7 +3832,7 @@ window.fcDossiersData = {
         {
           "t": "q",
           "x": "\"Anger is that which goes beyond reason and carries her away with it: wherefore the first confusion of a man's mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve.\" ([Seneca, De Ira II.III, trans. Aubrey Stewart](https://www.gutenberg.org/files/64576/64576-0.txt)): Primary text; quoted passages checked.",
-          "s": null
+          "s": "Primary text; quoted passages checked"
         },
         {
           "t": "p",
@@ -3841,7 +3841,7 @@ window.fcDossiersData = {
         {
           "t": "q",
           "x": "\"no plague has cost the human race more dear: you will see slaughterings and poisonings, accusations and counter-accusations, sacking of cities, ruin of whole peoples, the persons of princes sold into slavery by auction, torches applied to roofs, and fires not merely confined within city-walls but making whole tracts of country glow with hostile flame.\" (Seneca, De Ira I.II): Primary text; quoted passages checked.",
-          "s": null
+          "s": "Primary text; quoted passages checked"
         },
         {
           "t": "h2",
@@ -3886,7 +3886,7 @@ window.fcDossiersData = {
         {
           "t": "q",
           "x": "\"Whatever wholesome deeds. Such as venerating the Buddhas, and generosity, That have been amassed over a thousand aeons Will all be destroyed in one moment of anger.\" ([Shantideva, Bodhicharyavatara VI.1, Batchelor translation](https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf)): Primary text; quoted passages checked.",
-          "s": null
+          "s": "Primary text; quoted passages checked"
         },
         {
           "t": "h2",
@@ -3911,7 +3911,7 @@ window.fcDossiersData = {
         {
           "t": "q",
           "x": "\"The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end.\" (Seneca, De Ira II.XXIX): Primary text; quoted passages checked.",
-          "s": null
+          "s": "Primary text; quoted passages checked"
         },
         {
           "t": "h2",
@@ -3930,6 +3930,98 @@ window.fcDossiersData = {
           "x": "[Self-forgiveness](card:Self-forgiveness): Hall and Fincham's construct: the motivational changes whereby one becomes decreasingly motivated to avoid, retaliate against, or withdraw from the self after an offense."
         },
         {
+          "t": "p",
+          "x": "[The art of apology](card:The%20art%20of%20apology): Desmond Tutu's account, from his Truth and Reconciliation Commission work, of what it takes for a wrongdoer to say the two hardest words and mean them."
+        },
+        {
+          "t": "h2",
+          "x": "Anger's moral clothing"
+        },
+        {
+          "t": "p",
+          "x": "[Moral outrage research](card:Moral%20outrage%20research): the study of indignation at injustice; Batson and colleagues define moral outrage as anger at the violation of a moral standard, separating it from personal anger at being harmed."
+        },
+        {
+          "t": "p",
+          "x": "[Righteous indignation (nemesis)](card:Righteous%20indignation%20%28nemesis%29): Aristotle's treatment in Nicomachean Ethics IV.9 of the mean concerned with indignation."
+        },
+        {
+          "t": "p",
+          "x": "[The critique of ressentiment](card:The%20critique%20of%20ressentiment): Nietzsche's diagnosis in the Genealogy: ressentiment is the simmering revenge of those who cannot act, and his scandalous claim is that it invented a morality."
+        },
+        {
+          "t": "p",
+          "x": "[Threatened Egotism Theory](card:Threatened%20Egotism%20Theory): Baumeister's account of aggression: it follows threatened egotism, inflated and unstable self-worth meeting insult, not low self-esteem."
+        },
+        {
+          "t": "h2",
+          "x": "The classical answers"
+        },
+        {
+          "t": "p",
+          "x": "[Non-retaliation](card:Non-retaliation): Marcus Aurelius's rule for answering injury: refuse to answer it in kind."
+        },
+        {
+          "t": "p",
+          "x": "[Gentleness as virtue](card:Gentleness%20as%20virtue): the compendium's label for Aristotle's treatment of the mean concerned with anger in the Nicomachean Ethics."
+        },
+        {
+          "t": "p",
+          "x": "[Gentleness (praotes)](card:Gentleness%20%28praotes%29): the classical virtue name for the strength that meets provocation without hardness."
+        },
+        {
+          "t": "p",
+          "x": "[The doctrine of the mean](card:The%20doctrine%20of%20the%20mean): Aristotle's general account of virtue as the middle state between excess and deficiency, applied to anger in NE IV.5."
+        },
+        {
+          "t": "h2",
+          "x": "Expression and de-escalation"
+        },
+        {
+          "t": "p",
+          "x": "[Express by shaping, not venting](card:Express%20by%20shaping%2C%20not%20venting): Dewey's distinction between expression and discharge: a scream discharges emotion; expression is different in kind."
+        },
+        {
+          "t": "p",
+          "x": "[De-escalation science](card:De-escalation%20science): the study of techniques that lower the intensity of a conflict or crisis, tested most often in health care where staff meet agitated patients."
+        },
+        {
+          "t": "p",
+          "x": "[Attribution retraining](card:Attribution%20retraining): Hudley and Graham's program training aggressive children to judge peers' intentions more accurately and interpret ambiguous intent as benign."
+        },
+        {
+          "t": "p",
+          "x": "[Affect labeling](card:Affect%20labeling): putting feelings into words; the research showing that naming an emotion reduces its intensity."
+        },
+        {
+          "t": "h2",
+          "x": "The stories and sayings"
+        },
+        {
+          "t": "p",
+          "x": "The compendium holds anger in narrative form too:"
+        },
+        {
+          "t": "p",
+          "x": "[146. Achilles' Disproportionate Rage](card:ST146%20%E2%80%94%20Achilles%27%20Disproportionate%20Rage): the Iliad's account of a grief that turns to rage and burns past every limit."
+        },
+        {
+          "t": "p",
+          "x": "[205. Seneca on Anger](card:ST205%20%E2%80%94%20Seneca%20on%20Anger): the Stoic's own account of the passion he spent three books dissecting."
+        },
+        {
+          "t": "p",
+          "x": "[401.  Dipa Ma Watches Anger Arise and Pass](card:ST401%20%E2%80%94%20Dipa%20Ma%20Watches%20Anger%20Arise%20and%20Pass): the meditation teacher's observation that anger, watched, arises and passes on its own."
+        },
+        {
+          "t": "p",
+          "x": "[The empty boat reflection](card:The%20empty%20boat%20reflection): Zhuangzi's parable of the empty boat: you do not shout at a boat with no one in it."
+        },
+        {
+          "t": "p",
+          "x": "[Gentle answer turns away wrath](card:Gentle%20answer%20turns%20away%20wrath): the Proverb's one-line de-escalation."
+        },
+        {
           "t": "h",
           "x": "Where the traditions genuinely disagree"
         },
@@ -3944,7 +4036,7 @@ window.fcDossiersData = {
         {
           "t": "q",
           "x": "\"The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised.\" ([Aristotle, Nicomachean Ethics IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)): Primary text; quoted passages checked.",
-          "s": null
+          "s": "Primary text; quoted passages checked"
         },
         {
           "t": "p",
@@ -3961,7 +4053,7 @@ window.fcDossiersData = {
         {
           "t": "q",
           "x": "\"People expect to reap hedonic rewards when they punish an offender, but in at least some instances, revenge has hedonic consequences that are precisely the opposite of what people expect.\" ([Carlsmith, Wilson and Gilbert 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/19025285/)): Study abstract; quoted passage checked.",
-          "s": null
+          "s": "Study abstract; quoted passage checked"
         },
         {
           "t": "p",
@@ -3979,7 +4071,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "x": "Selection",
-          "body": "1. [Anger dissection](card:K169%20%E2%80%94%20Anger%20dissection): take anger apart as it rises: the bodily sensation, the trigger, the story, the value violated, the urge to act.\n\n2. [Forgiveness practice](card:K170%20%E2%80%94%20Forgiveness%20practice): the REACH steps: name the harm, attempt empathy, give the gift, commit, hold on."
+          "body": "1. [Anger dissection](card:K169%20%E2%80%94%20Anger%20dissection): take anger apart as it rises: the bodily sensation, the trigger, the story, the value violated, the urge to act.\n\n2. [Forgiveness practice](card:K170%20%E2%80%94%20Forgiveness%20practice): the REACH steps: name the harm, attempt empathy, give the gift, commit, hold on.\n\n3. [The mean calibration](card:K253%20%E2%80%94%20The%20mean%20calibration): the practice of finding the middle state between too much and too little anger for a given provocation.\n\n4. [The empty boat reflection](card:The%20empty%20boat%20reflection): Zhuangzi's parable used as a check on taking offense personally.\n\n5. [Opposite action](card:K184%20%E2%80%94%20Opposite%20action): the dialectical behaviour therapy move of acting against the emotion's urge.\n\n6. [Amends and restitution](card:K289%20%E2%80%94%20Amends%20and%20restitution): the repair practice for the one who has done the harm."
         },
         {
           "t": "vs",

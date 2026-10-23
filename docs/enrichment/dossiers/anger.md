@@ -68,6 +68,53 @@ The delay remedy Seneca prescribes is narrow:
 
 [Self-forgiveness](https://clemvillatte.github.io/flourishing-compendium/#card=Self-forgiveness): Hall and Fincham's construct: the motivational changes whereby one becomes decreasingly motivated to avoid, retaliate against, or withdraw from the self after an offense.
 
+[The art of apology](https://clemvillatte.github.io/flourishing-compendium/#card=The%20art%20of%20apology): Desmond Tutu's account, from his Truth and Reconciliation Commission work, of what it takes for a wrongdoer to say the two hardest words and mean them.
+
+### Anger's moral clothing
+
+[Moral outrage research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20outrage%20research): the study of indignation at injustice; Batson and colleagues define moral outrage as anger at the violation of a moral standard, separating it from personal anger at being harmed.
+
+[Righteous indignation (nemesis)](https://clemvillatte.github.io/flourishing-compendium/#card=Righteous%20indignation%20%28nemesis%29): Aristotle's treatment in Nicomachean Ethics IV.9 of the mean concerned with indignation.
+
+[The critique of ressentiment](https://clemvillatte.github.io/flourishing-compendium/#card=The%20critique%20of%20ressentiment): Nietzsche's diagnosis in the Genealogy: ressentiment is the simmering revenge of those who cannot act, and his scandalous claim is that it invented a morality.
+
+[Threatened Egotism Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Threatened%20Egotism%20Theory): Baumeister's account of aggression: it follows threatened egotism, inflated and unstable self-worth meeting insult, not low self-esteem.
+
+### The classical answers
+
+[Non-retaliation](https://clemvillatte.github.io/flourishing-compendium/#card=Non-retaliation): Marcus Aurelius's rule for answering injury: refuse to answer it in kind.
+
+[Gentleness as virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Gentleness%20as%20virtue): the compendium's label for Aristotle's treatment of the mean concerned with anger in the Nicomachean Ethics.
+
+[Gentleness (praotes)](https://clemvillatte.github.io/flourishing-compendium/#card=Gentleness%20%28praotes%29): the classical virtue name for the strength that meets provocation without hardness.
+
+[The doctrine of the mean](https://clemvillatte.github.io/flourishing-compendium/#card=The%20doctrine%20of%20the%20mean): Aristotle's general account of virtue as the middle state between excess and deficiency, applied to anger in NE IV.5.
+
+### Expression and de-escalation
+
+[Express by shaping, not venting](https://clemvillatte.github.io/flourishing-compendium/#card=Express%20by%20shaping%2C%20not%20venting): Dewey's distinction between expression and discharge: a scream discharges emotion; expression is different in kind.
+
+[De-escalation science](https://clemvillatte.github.io/flourishing-compendium/#card=De-escalation%20science): the study of techniques that lower the intensity of a conflict or crisis, tested most often in health care where staff meet agitated patients.
+
+[Attribution retraining](https://clemvillatte.github.io/flourishing-compendium/#card=Attribution%20retraining): Hudley and Graham's program training aggressive children to judge peers' intentions more accurately and interpret ambiguous intent as benign.
+
+[Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20labeling): putting feelings into words; the research showing that naming an emotion reduces its intensity.
+
+### The stories and sayings
+
+The compendium holds anger in narrative form too:
+
+[146. Achilles' Disproportionate Rage](https://clemvillatte.github.io/flourishing-compendium/#card=ST146%20%E2%80%94%20Achilles%27%20Disproportionate%20Rage): the Iliad's account of a grief that turns to rage and burns past every limit.
+
+[205. Seneca on Anger](https://clemvillatte.github.io/flourishing-compendium/#card=ST205%20%E2%80%94%20Seneca%20on%20Anger): the Stoic's own account of the passion he spent three books dissecting.
+
+[401.  Dipa Ma Watches Anger Arise and Pass](https://clemvillatte.github.io/flourishing-compendium/#card=ST401%20%E2%80%94%20Dipa%20Ma%20Watches%20Anger%20Arise%20and%20Pass): the meditation teacher's observation that anger, watched, arises and passes on its own.
+
+[The empty boat reflection](https://clemvillatte.github.io/flourishing-compendium/#card=The%20empty%20boat%20reflection): Zhuangzi's parable of the empty boat: you do not shout at a boat with no one in it.
+
+[Gentle answer turns away wrath](https://clemvillatte.github.io/flourishing-compendium/#card=Gentle%20answer%20turns%20away%20wrath): the Proverb's one-line de-escalation.
+
+
 ## Where the traditions genuinely disagree
 
 ### Is anger ever fitting?
@@ -95,5 +142,13 @@ The finding is that people who punish continue to ruminate about the offender, w
 1. [Anger dissection](https://clemvillatte.github.io/flourishing-compendium/#card=K169%20%E2%80%94%20Anger%20dissection): take anger apart as it rises: the bodily sensation, the trigger, the story, the value violated, the urge to act.
 
 2. [Forgiveness practice](https://clemvillatte.github.io/flourishing-compendium/#card=K170%20%E2%80%94%20Forgiveness%20practice): the REACH steps: name the harm, attempt empathy, give the gift, commit, hold on.
+
+3. [The mean calibration](https://clemvillatte.github.io/flourishing-compendium/#card=K253%20%E2%80%94%20The%20mean%20calibration): the practice of finding the middle state between too much and too little anger for a given provocation.
+
+4. [The empty boat reflection](https://clemvillatte.github.io/flourishing-compendium/#card=The%20empty%20boat%20reflection): Zhuangzi's parable used as a check on taking offense personally.
+
+5. [Opposite action](https://clemvillatte.github.io/flourishing-compendium/#card=K184%20%E2%80%94%20Opposite%20action): the dialectical behaviour therapy move of acting against the emotion's urge.
+
+6. [Amends and restitution](https://clemvillatte.github.io/flourishing-compendium/#card=K289%20%E2%80%94%20Amends%20and%20restitution): the repair practice for the one who has done the harm.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the delay, or the dissection, or the release has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
