@@ -30,7 +30,20 @@ And the genuineness rule:
 > "affirming should be genuine; it should prize what actually is true about the person."
 > — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
-The simple versus complex distinction itself belongs to the fourth edition: its publisher's description lists "simple versus complex affirmations" among the topics new to that edition ([Guilford, via Google Books](https://books.google.com/books/about/Motivational_Interviewing.html?id=OrTFEAAAQBAJ)). That confirms the distinction is Miller and Rollnick's, but the opened sources do not show the wording of their examples.
+The simple versus complex distinction itself belongs to the fourth edition. Its own text, verified against an opened carrier:
+
+> "A simple affirmation comments on something specific that the person has done or said: 'You said that well.' 'You somehow knew what to do and you went ahead and did it.' 'You saw the warning signs and took action.' 'What a kind thing to do!' Such simple affirmations are relatively easy, though if overused they can sound disingenuous."
+> — [Miller & Rollnick, Motivational Interviewing (4th ed., 2023), ch. 4 — text carried on Scribd](https://www.scribd.com/document/759368772/Motivational-Interviewing-Helping-People-Change-and-Grow-4th-Edition-William-R-Miller-Stephen-Rollnick-Z-Library)
+
+> "In contrast, a complex affirmation comments on an enduring strength or admirable attribute. Complex affirmations are about the person, going beyond simple actions to appreciating some abiding positive characteristic. 'What you did took real courage.' 'Once you make up your mind about something, you persist until you succeed.' 'You're someone people can rely on.'"
+> — [same source](https://www.scribd.com/document/759368772/Motivational-Interviewing-Helping-People-Change-and-Grow-4th-Edition-William-R-Miller-Stephen-Rollnick-Z-Library)
+
+The fourth edition's own account of where the distinction comes from, from the official MINT "What's New in MI-4" note:
+
+> "To address confusion about praise versus affirmation we added the distinction between simple and complex affirmations described by Miller and Moyers (2021) in their book, Effective Psychotherapists."
+> — ["What's New in MI-4", motivationalinterviewing.org PDF](https://motivationalinterviewing.org/sites/default/files/what_new_in_mi-4.pdf)
+
+The distinction originates in Miller & Moyers, *Effective Psychotherapists* (2021), which describes the same division in the same terms: "Simple affirmations comment on a particular client behavior, whereas complex affirmations focus on clients' positive strengths and traits" ([Scribd excerpt, pp. 48–53](https://www.scribd.com/document/1022295432/Miller-Moyers-Effective-Psychotherapists-pp19-53)).
 
 What the sources do not test: the passages give the method's account of affirming; they do not evaluate the everyday self-use version on this page.
 
@@ -48,6 +61,9 @@ What the sources do not test: the passages give the method's account of affirmin
 ## Sources
 
 - [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+- [Miller, W. R., & Rollnick, S. (2023). *Motivational Interviewing: Helping People Change and Grow* (4th ed.). Guilford Press, ch. 4 — text carried on [Scribd](https://www.scribd.com/document/759368772/Motivational-Interviewing-Helping-People-Change-and-Grow-4th-Edition-William-R-Miller-Stephen-Rollnick-Z-Library)]
+- [Miller, W. R., & Moyers, T. B. (2021). *Effective Psychotherapists: Clinical Skills That Improve Client Outcomes*. Guilford Press — excerpt carried on [Scribd](https://www.scribd.com/document/1022295432/Miller-Moyers-Effective-Psychotherapists-pp19-53)]
+- ["What's New in MI-4", motivationalinterviewing.org PDF](https://motivationalinterviewing.org/sites/default/files/what_new_in_mi-4.pdf)
 
 ## Operationalises
 
