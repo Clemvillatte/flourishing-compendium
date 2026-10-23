@@ -15,6 +15,10 @@ Aristotle's account of habituation explains how repeated activities form charact
 
 In II.4 Aristotle adds a guard: merely doing just acts is not yet being just. He requires that the agent know what he is doing, choose the act for its own sake, and act from a settled condition of character. He calls an action just when it is the sort a just person would do; the just person is the one who also does it in the way just people do. Repetition is what builds the settled condition.
 
+### What it is not
+
+Action before feeling is not a claim that feelings do not matter or should be overridden. The Aristotelian source speaks of acts that build a settled character, and the ordering of action ahead of emotion is, as noted above, the compendium's application rather than a thesis of the Ethics. For the psychological side, the linked pages on behavioural activation and opposite action are the place to look.
+
 ### In the compendium
 
 - [[A108 — Practise habituation through repeated action]] — the habituation principle drawn from this stretch of the Ethics
