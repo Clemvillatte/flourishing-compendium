@@ -18,16 +18,20 @@ In Legge's translation, chapter 10 of the Daodejing connects attention to the vi
 
 > "When one gives undivided attention to the (vital) breath, and brings it to the utmost degree of pliancy, he can become as a (tender) babe." (DDJ 10, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium takes the infant image as a prompt for gentle attention to breathing. Neither passage specifies nasal or abdominal breathing, a target rate, or a prolonged exhalation.
+The infant image can guide gentle attention without turning it into a performance. Neither passage specifies nasal or abdominal breathing, a target rate, or a prolonged exhalation.
 
-**Plain words**
-As a compendium exercise, notice an ordinary breath without setting a target for its depth or speed. Consider whether you are trying to force it into a particular pattern. Approach the exercise gently, using the chapter's pliant babe as your image.
+### Plain words
 
-*For example:* Imagine waiting for an interview. You pause to notice a few breaths, then return to your preparations.
+Take one ordinary breath as it is. You do not need a special rate, depth or feeling. If attention turns into a demand to breathe perfectly, return to what you were doing; this is not a test to pass.
+
+### For example
+
+While waiting for an interview, try an attention cue based on one ordinary breath and another based on a sound in the room. Compare which lets you return to preparing your first question without forcing your breathing. Reuse the gentler cue, or neither if they do not suit you.
 
 ## Sources
 
 - [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 10, 55
+- [Zaccaro et al., How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/).
 
 ## Psychology parallels
 

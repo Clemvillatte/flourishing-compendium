@@ -69,3 +69,11 @@ Independent advisor read_only_daoist_principle_qc_mvkkitzm freshly opened Legge 
 - The example varies garden-work schedules, compares progress and voluntary commitment, and retains the workable arrangement; overt behaviour named.
 - Read Grit, Approach-oriented commitment research and The will to believe; all already backlink D112. Ran mountain mention search. No new reciprocal proposed.
 - Existing research/philosophy parallels and reflections preserved, not independently certified.
+
+## D143
+
+- Reopened with enrich_state.py. Checked DDJ 10 and 55 in the opened Legge source: https://www.gutenberg.org/files/216/216-h/216-h.htm. Existing quotation retained exactly.
+- Preserved the already bounded explanation of pliancy/harmony, removing the compendium-process phrasing from its practical interpretation. No medical efficacy claim added.
+- Plain words does not prescribe a rate or depth and permits returning to the ordinary task. The attention example varies a breath cue and an external sound, compares return to the interview task without forcing breath, and retains the gentler cue or neither.
+- Read Slow-paced breathing in full and ran tender-babe mention search; existing D143 backlink present, no new reciprocal. Opened Zaccaro's review for the modern controlled-breathing parallel: https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/ (relevant sections available before fetch truncation); added bibliography entry rather than treating that rate-controlled research as proof of an infant-breathing method.
+- Existing Balban attribution and reflections preserved; Balban's particular vagal-tone attribution not certified by this repair.
