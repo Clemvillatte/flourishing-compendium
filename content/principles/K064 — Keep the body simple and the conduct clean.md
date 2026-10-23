@@ -22,7 +22,7 @@ In a song addressed to the benefactors gathered around him, Milarepa sums his co
 >
 > (Milarepa, from the Songs of Milarepa, Lowell Cook translation)
 
-**Plain words** The song's one line of counsel to the gathered benefactors is to forsake negative deeds and accomplish virtue, with Milarepa offering his own example rather than a rulebook. The compendium's test for a habit: does it simplify or complicate?
+**Plain words** Milarepa does not hand his benefactors a rulebook; he points at how he lives and says follow that. The counsel fits in one line: drop the harmful deeds, do the good ones. The rest is upkeep. The habit test this card keeps: does the habit simplify your life or complicate it?
 
 *For example:* a parent with a job, a mortgage and a sick relative practises by working honestly, keeping needs modest, and not lying at the school gate.
 
