@@ -16,7 +16,35 @@ What happened? Most people find the elephant popping up every few seconds. The v
 
 The practice is not to stop having negative thoughts — it's to notice that struggling against them is what makes them stick. When you catch yourself suppressing, say: "OK, I'm having that thought. Let me get on with my day."
 
-Adapted from Tolin, *Doing CBT* (2nd ed.), Guilford, 2024, ch. 15, printed pp. 396–398 (exercise at p. 396).
+The demo replaces the bear with elephants; the research behind it used a white bear. The Tolin, Doing CBT (2nd ed.) citation is inherited, cited at second hand; the passages below come from an open carrier.
+
+### Evidence
+
+The experiment, in Wegner's own later account:
+
+> “Wegner, Schneider, Carter, and White (1987) did it by asking people to suppress the thought of a white bear in the lab—and found that those thinking aloud during this task typically mentioned the bear once per minute.”
+> — [Wegner (2011), "Setting Free the Bears", American Psychologist, PDF](https://dtg.sites.fas.harvard.edu/DANWEGNER/pub/Setting%20free%20the%20bears%202011.pdf)
+
+And the rebound:
+
+> “People did have difficulty suppressing this thought, and further, the thought tended to rebound with unusual frequency when the suppression attempt was rescinded. Although the extent of the effect varies in different experimental settings, the basic finding that people have difficulty with thought suppression has now been substantiated in a wide range of studies”
+> — [same PDF](https://dtg.sites.fas.harvard.edu/DANWEGNER/pub/Setting%20free%20the%20bears%202011.pdf)
+
+What the sources do not test: the passages establish the suppression difficulty and rebound; the thirty-second self-demo and the letting-it-pass response on this page are adaptations.
+
+## Related concepts
+
+- [[Rumination]] — the stuck-thinking pattern suppression feeds.
+- [[Acceptance]] — the alternative stance the demo motivates.
+- [[Expressive suppression versus reappraisal]] — the suppression-cost research adjacent to the bear studies.
+
+## Related kernels
+
+- [[K115 — Willingness practice]] (complement — the demo motivates the willingness practice)
+
+## Sources
+
+- [Wegner, D. M. (2011). Setting free the bears. American Psychologist 66(9). — PDF](https://dtg.sites.fas.harvard.edu/DANWEGNER/pub/Setting%20free%20the%20bears%202011.pdf)
 
 ## Operationalises
 
