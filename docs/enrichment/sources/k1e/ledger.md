@@ -185,3 +185,10 @@
 ## QC milestone acceptance, items 12-16 (2026-10-23, worker-pplx-k1e-63e0b1a0)
 
 - Third focused recheck returned a scoped PASS for the round-three repairs: K286 translator attribution removed; K277 printed-page locators (5, 13) supported by per-page PDF text extraction with printed-footer inspection, both clinical-description sentences cited; K292 findings and all five evidence-limit passages cited; ledger pagination description corrected. Acceptance is of the supplied excerpts after repairs, alongside the local validator result (5 checked, 0 failed) — not an independent file-level audit or rendered-image inspection. Milestone QC for items 12-16 closed; next advisor QC due at item 21.
+
+## K294 — Shared meal practice (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carriers opened: Epicurus Letter to Menoeceus (Hicks translation, Wikisource) raw-fetched — the plain-fare passage verbatim (already a house carrier for Frugal plenty); Hammons & Fiese 2011 Pediatrics meta-analysis abstract via NCBI eutils — the shared-family-meals results sentence and study scope (17 studies, 182,836 children and adolescents) verbatim.
+- Seed repairs: the seed's "Research on family meals shows associations with well-being in children and adolescents, though the mechanism is connection, not nutrition" replaced with the opened meta-analysis's actual findings — nutritional health outcomes in children and adolescents (normal weight range, healthier dietary patterns, less disordered eating at 3+ meals/week), honestly scoped (nutritional outcomes, not connection mechanisms; connection-as-mechanism not carried; adults not studied). The weekly frequency and no-screens rule carried from the seed as editorial design, labelled editorial.
+- Guided-version exemption: shared meal, no recording required (self-directed; K203 nap precedent). Third Related-concepts entry ([[Hospitality]]) added after validator warned of fewer than three.
+- All 19 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
