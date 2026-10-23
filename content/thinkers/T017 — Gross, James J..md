@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "cha
 
 ## Personal story / context
 
-Gross was at the Department of Psychology, Stanford University, when he published the 2002 Psychophysiology article "Emotion regulation: Affective, cognitive, and social consequences," an early-career award statement ([Gross 2002](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/gross_2002_psychophys.pdf)).
+Gross was at the Department of Psychology, Stanford University, when the 2002 Psychophysiology article "Emotion regulation: Affective, cognitive, and social consequences" appeared under the journal's Early Career Award heading ([Gross 2002](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/gross_2002_psychophys.pdf)). The program it presents had been set out in his 1998 review, which the article cites as the process model's source, and it runs forward to the 2015 extension, written as the field he helped define changed size: "only a small number of papers on emotion regulation were published each year through the mid-1990s", but "this small stream has become a rushing torrent", with Google Scholar indexing far more than 10,000 emotion-regulation papers in 2013 alone ([Gross 2015](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)).
 
 ## Their why
 
@@ -25,10 +25,10 @@ The model's core move is a location, not a content, distinction. In the 2002 art
 
 ## Core ideas
 
-- **The process model of emotion regulation** — five families by location in the emotion-generative process. See [[Process model of emotion regulation Gross]], [[Situation selection]], [[Attentional deployment theory]].
-- **Reappraisal versus suppression** — the canonical comparison of an antecedent-focused and a response-focused strategy. See [[Expressive suppression versus reappraisal]], [[Cognitive reappraisal]], [[Anger regulation research]].
+- **The process model of emotion regulation** — five families by location in the emotion-generative process; the model's two canonical strategies are defined by location: reappraisal "consists of changing the way a situation is construed so as to decrease its emotional impact", suppression "consists of inhibiting the outward signs of inner feelings". See [[Process model of emotion regulation Gross]], [[Situation selection]], [[Attentional deployment theory]].
+- **Reappraisal versus suppression** — the canonical comparison of an antecedent-focused and a response-focused strategy; the 2002 abstract's summary: "Reappraisal decreases emotion experience and behavioral expression, and has no impact on memory. By contrast, suppression decreases behavioral expression, but fails to decrease emotion experience, and actually impairs memory." See [[Expressive suppression versus reappraisal]], [[Cognitive reappraisal]], [[Anger regulation research]].
 - **The extended process model** — valuation, identification, selection, implementation. See [[Extended process model of emotion regulation]], [[State-matched emotion regulation]].
-- **Emotion regulation as a field** — definition, measures, paradigms. See [[Emotion regulation]], [[Mid-level emotion regulation]].
+- **Emotion regulation as a field** — definition, measures, paradigms; a field that "emerged in the mid-1990s and has been gathering steam ever since". See [[Emotion regulation]], [[Mid-level emotion regulation]].
 - **Emotion dynamics** — regulation acts on latency, rise time, magnitude, duration, offset. See [[Temporal dynamics of regulation]].
 
 ## Connection to the compendium
