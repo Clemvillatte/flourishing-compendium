@@ -48,3 +48,15 @@ Agent: worker-f56764cd. Date: 2026-10-23. The published supervisor is worker-ppl
 - Overt-behaviour example varies ways to pause a meeting, compares boundary clarity and conditions for resuming, and retains the clearer safe wording. No empirical conflict-resolution outcome promised.
 - Read Aggression research, Ultimatum research and Just war criteria; all already backlink D131. Ran last-resort mention search. No reciprocal needed.
 - Existing research parallels and reflection text preserved, not independently certified. Milestone advisor QC requested on items 2–5.
+
+## Milestone five advisor QC
+
+Independent advisor read_only_daoist_principle_qc_mvkkitzm freshly opened Legge and returned scoped PASS on D172, D174, D119 and D131: source claims, quotations, distinct Plain words, and variation/selection/retention examples. Retained parallels and reflections not certified. All five repaired items validated with zero failures before completion.
+
+## D109
+
+- Reopened with enrich_state.py. Checked DDJ 20's whole speaker/crowd contrast in the opened Legge source: https://www.gutenberg.org/files/216/216-h/216-h.htm. Existing verbatim quotation retained.
+- Replaced the recital with the passage's important difficulty: the speaker describes confusion and seeming to have no home, not a triumphant dissenter. The permission-to-differ reading does not promise easy belonging.
+- Plain words separates agreement, learning and dissent without treating difference as proof of superiority. The attention example generates keeping/changing a preference, selects on endorsed reasons, and repeats the pre-discussion check.
+- Read Conformity, Minority influence and Herd morality. All already backlink D109. Mention search checked differing from the crowd; no new reciprocal needed.
+- Existing empirical and philosophical parallels and reflections preserved, not independently certified.

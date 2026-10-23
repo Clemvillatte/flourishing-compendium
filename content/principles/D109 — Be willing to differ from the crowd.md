@@ -12,16 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 109** — Be willing to differ from the crowd
 
-In chapter 20 of the Daodejing the multitude look satisfied and pleased, and the speaker describes himself as listless and still, like an infant which has not yet smiled, drifting as if he had nowhere to rest. Ordinary men look bright and intelligent; he alone seems benighted, dull and confused. He closes the chapter by saying that he alone is different from other men, and that he values the nursing-mother, which Legge identifies as the Tao.
+The speaker in Daodejing 20 does not look triumphant beside the crowd. They seem satisfied and intelligent; he describes himself as listless and confused, as if he had no home. Yet he closes by valuing the nursing-mother, which Legge identifies as the Tao. Read here as permission to differ, the passage does not promise that holding to what you value will make belonging easy.
 
 (DDJ 20.)
 
 > "The multitude of men look satisfied and pleased; as if enjoying a full banquet, as if mounted on a tower in spring. I alone seem listless and still, my desires having as yet given no indication of their presence. I am like an infant which has not yet smiled." (DDJ 20, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-**Plain words**
-Think of something the people around you are all enthusiastic about. Ask whether you want it too, and give your own reasons a hearing alongside theirs. The chapter's speaker looks dull next to the crowd and stays with what he values. The exercise is allowing yourself to prefer something else without needing everyone to agree.
+### Plain words
 
-*For example:* Imagine colleagues ordering wine at a work dinner. You prefer water and order it.
+You can agree with a group, learn from it, or choose something else. The question is whether you can explain the choice in your own terms. You do not have to make disagreement proof that you are special.
+
+### For example
+
+Before a low-stakes group decision, write down your preference and a reason. After hearing others, consider both keeping it and changing it. Choose on reasons you endorse, then repeat this attention exercise next time.
 
 ## Sources
 
