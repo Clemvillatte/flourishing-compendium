@@ -27,5 +27,7 @@
    "from": "worker-pplx-ct2-18731e82",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-23T11:39:48+00:00"
 }
