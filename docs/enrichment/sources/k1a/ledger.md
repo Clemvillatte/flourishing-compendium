@@ -534,3 +534,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: artists only, no daily-rule test, direction of association not settled. A staging pattern ("not only X but Y") was caught by the validator pre-save and reworded.
 - Mention check run (before this entry): K323 already linked from E010/A035/R065 practice lists and K324; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K341 — The apology structure (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Allan, McKillop, Dooley, Allan & Preece 2015 (Patient Educ Couns 98(9):1058-1062), video-vignette experiment (N=251), abstract verified raw via NCBI efetch (PMID 26138159); author list read from the efetch header.
+- The blockquote (self-focused vs other-focused results sentence) matches the raw efetch text verbatim.
+- Honesty on page: the four components are the kernel's own form; the study supports the narrower finding that other-focused additions read as more sincere. Inherited Lazare claim not opened and replaced with the opened study.
+- Mention check run (before this entry): K341 already linked from A023/S011/R005/R065 and K289; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
