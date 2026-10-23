@@ -29,6 +29,7 @@ The chapter contrasts two ways of knowing: going out to gather, and understandin
 The traveler who's been everywhere and knows themselves nowhere — the chapter's contrast between distance and depth.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the self-transformation-over-information parallel the page lists.
 
 - [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 47 §1-2
 

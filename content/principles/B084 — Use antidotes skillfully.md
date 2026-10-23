@@ -27,6 +27,7 @@ A restless afternoon is a condition, and conditions have counters; a moralist as
 The 4pm doom-scroll reads as restlessness, and restlessness has a counter: the walk. The guilt was never a treatment.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the spiritual-exercises-as-remedies parallel (Philosophy as a Way of Life) the page lists.
 
 - [Vitakkasanthana Sutta (MN 20), Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html) — carpenter simile verified verbatim
 

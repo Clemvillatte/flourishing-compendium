@@ -37,6 +37,7 @@ Short and daily beats long and occasional. Five minutes every day counts as a si
 Pick a cue you already have, such as finishing your morning coffee. Sit for five minutes right after it, every day for two weeks, and put a mark on a calendar each time. If you miss a day, sit the next day for the same five minutes; do not make up for it with a longer session.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the spiritual-exercises parallel (Philosophy as a Way of Life) the page lists.
 
 - Dhammapada, ch. 18 (Malavagga), v. 239, trans. Acharya Buddharakkhita: [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html)
 - Shunryu Suzuki, *Zen Mind, Beginner's Mind* (1970), Part 2, "Repetition": [Stanford copy of the text](https://web.stanford.edu/~funn/ZenMindBeginners.pdf)

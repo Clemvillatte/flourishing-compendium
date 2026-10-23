@@ -23,6 +23,7 @@ The instruction runs both directions. When the mind is restless, those same thre
 *For example:* Two people both feel their meditation is stale. One doubles down on discipline and effort; the staleness gets worse. The other notices the mind is sluggish, not weak, and deliberately cultivates joy and interest — the factor that was actually missing. Same symptom; only one of them read the instrument panel before choosing a tool.
 
 ## Stories
+- [[T036 — Hadot, Pierre]]: the spiritual-exercises parallel (Philosophy as a Way of Life) the page lists.
 
 - [[ST066 — The Kālāmas Test It|66. The Kālāmas Test It]]
 

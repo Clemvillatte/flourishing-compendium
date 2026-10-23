@@ -37,6 +37,7 @@ Make room for quiet without demanding that it cure a symptom. Try a brief pause 
 Before returning to a demanding task, sit quietly for a short period. Notice whether anything changes, without requiring a particular result.
 
 ## Related concepts
+- [[T036 — Hadot, Pierre]]: the spiritual-exercises parallel (Philosophy as a Way of Life) the page lists.
 
 
 - [[D041]] — thematic pair in the stillness family: D041 is the Qingjing Jing/DDJ teaching on clearing the mind, D148 the Neiye teaching on tranquillity and vitality; both are cultivation texts, neither establishes the other's effect

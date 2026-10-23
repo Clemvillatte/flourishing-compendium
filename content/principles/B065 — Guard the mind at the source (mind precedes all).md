@@ -25,6 +25,7 @@ Verse 2 runs the same structure in the other direction: with a pure mind, "happi
 *For example:* Imagine drafting a sarcastic reply. Leave it unsent while you ask what you want the remark to do, then choose how to respond.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the spiritual-exercises-as-mind-training parallel (Philosophy as a Way of Life) the page lists.
 
 - [Dhammapada 1-2, trans. Acharya Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
 

@@ -26,6 +26,7 @@ Pick cues your day already makes: sounds such as the phone, the kettle, or a mes
 *For example:* Every red light on the commute: one conscious breath instead of one curse, twice daily.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the spiritual-exercises-woven-into-the-day parallel (Philosophy as a Way of Life) the page lists.
 
 - [Inviting the Bell — Meditation Teaching of Thich Nhat Hanh, quoting Peace Is Every Step (1995), pp. 18-19](https://tnhmeditation.org/inviting-the-bell/)
 - [A Buddhist Library: Thich Nhat Hanh dharma talk "Walking into the Kingdom of God," August 6, 1997](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/Walking%20into%20the%20Kingdom%20of%20God/Dharma%20Talk%20given%20by%20Thich%20Nhat%20Hanh%20on%20August%206.htm)

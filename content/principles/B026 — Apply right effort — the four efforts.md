@@ -24,6 +24,7 @@ Choose the target of your effort first. Ask whether a mental quality is harmful 
 *For example:* Suppose junk food in the house and a gratitude practice that keeps lapsing. As a modern application, prevention is not keeping the junk food; for the restlessness, a walk is one thing to try; development is starting the practice, and maintenance could mean reserving a regular time for it.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the spiritual-exercises parallel (Philosophy as a Way of Life) the page lists.
 
 - [SN 45.8, trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html) — the right-effort formula
 - [Dhammapada 276, trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.than.html) — "It's for you to strive ardently"

@@ -28,6 +28,7 @@ Ask what is happening to your attention before automatically trying to become ca
 Imagine beginning a sitting and repeatedly losing track of the task. Identify what you are trying to observe and take a fresh interest in one detail. If you are too tired to continue usefully, that is also relevant information; the example does not promise that effort substitutes for sleep.
 
 ## Practice kernels
+- [[T036 — Hadot, Pierre]]: the spiritual-vigilance parallel (Philosophy as a Way of Life) the page lists.
 
 - [[K111 — Interoceptive awareness|K111 Interoceptive awareness]]
 - [[K172 — Body-first emotion work|K172 Body-first emotion work]]

@@ -34,6 +34,7 @@ Applied to present-day choices, this contrast invites a question about attention
 *For example:* If you open your phone to check tomorrow's weather, check it and close the app. Decide separately whether you want to read the news.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the inner-citadel parallel (The Inner Citadel) the page lists.
 
 - [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 12
 

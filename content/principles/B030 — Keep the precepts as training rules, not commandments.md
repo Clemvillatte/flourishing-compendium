@@ -26,6 +26,7 @@ You give yourself a clear promise because you see a reason to keep it. “I want
 For example: You missed a deadline and feel tempted to invent a computer failure. Draft the excuse and a truthful account, then compare what each would lead your colleague to believe. Send the truthful account, acknowledge the delay and offer a realistic next step. After the next deadline, check the messages you actually sent and keep whichever wording let you tell the truth.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the spiritual-exercises parallel (Philosophy as a Way of Life) the page lists.
 
 - [Uposatha Sutta (AN 8.41), Anguttara Nikaya, Britannica primary-source mirror](https://cdn.britannica.com/primary_source/gutenberg/PGCC_classics/canon/anguttara/an08-041.html) — the eight-factor observance
 - [The Five Precepts, Access to Insight study guide](https://accesstoinsight.org/ptf/dhamma/sila/pancasila.html) — the undertaking formula

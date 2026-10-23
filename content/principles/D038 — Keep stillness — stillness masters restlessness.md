@@ -25,6 +25,7 @@ The muddy-water passage gives the working image: "Who can (make) the muddy water
 *For example:* Take the angry email drafted at midnight. The stillness instruction is procedural: let it sit until the water clears, then read it once before deciding what to send.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the inner-citadel parallel (The Inner Citadel) the page lists.
 
 - [Tao Teh King, trans. James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 15, 26, 37, 45, 57 (opened at D016, re-mined for this item; not recounted)
 

@@ -26,6 +26,7 @@ For an everyday application, picture a busy day in which you never ask what your
 For example: You promised to call a relative who lives alone, but each week you leave it to a spare moment. Try agreeing on a time instead. Compare the calls you actually make over the next few weeks with the calls you previously intended to make. Keep the arrangement that helps you honour the promise, and revise it if it repeatedly fails. This is a modest compendium exercise in continuing care.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the spiritual-exercises-as-daily-discipline parallel (Philosophy as a Way of Life) the page lists.
 
 - [DN 16, Mahaparinibbana Sutta, Vajira and Story translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html) — the final exhortation
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html) — verses 21-23, the Heedfulness chapter
