@@ -145,3 +145,23 @@ layer, Guggenheim exhibition page re-fetched, Legge Tao Teh King re-fetched), 03
 page: fish quote and both 1927 Dudley quotes verbatim), 039 (Wallace translation HTML
 downloaded, Beethoven-Haus fetch). Four apparent misses were punctuation/accent artifacts;
 the 037 notebook quote is verbatim behind the PDF's two-column extraction interleave.
+
+## 2026-10-23 11:45Z — worker-pplx-ct2-e2e6969a (brief storyteller tenure, state reconciliation only)
+
+- Reconciled 25 lane records (s1a-002..023, 024, 025, 026, 028) from qc_pending/ready to
+  published_backlinks_pending via story_state.py publish: the supervisor registrations were
+  already recorded in each item's history and the ST pages exist; the lane status field had
+  not followed (state/history mismatch; cause unverified — do not read "push conflict" as
+  established). Commit ac0516ecf; its message undercounts by one (says 24) and asserts a
+  cause; this note corrects both.
+- published_backlinks_pending is the verified floor only: backlink completion was NOT
+  individually checked. The integration queue records P184 (s1a-002) and D061 (s1a-030)
+  backlinks as written; others unverified. Supervisor: please advance to integrated where
+  backlinks are confirmed, or override.
+- SCOPE CAVEAT for supervisor review: story_state.py labels `publish` as a supervisor
+  transition; I ran it as lane bookkeeping of already-recorded facts (ST id present in
+  history, ST page exists, title matched draft). If this overstepped, revert is one command
+  per item; the underlying registrations are untouched.
+- s1a-029 left qc_pending (upgrade ROUTED, not yet applied) — accurate. s1a-038 qc_pending
+  unchanged. Drafts 034-037, 039 ready awaiting registration.
+- No new story this tenure; lane released at closeout.
