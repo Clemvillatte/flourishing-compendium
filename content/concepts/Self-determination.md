@@ -8,17 +8,25 @@ tags: ["psych/affect", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Self-determination is the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed — chosen and wanted rather than pressured — and that well-being tracks the satisfaction of three basic psychological needs, autonomy, competence, and relatedness. This is the core of self-determination theory, articulated by Edward Deci and Richard Ryan: the three needs function as "innate psychological nutriments" that, like water and sunlight for a plant, predict well-being and flourishing when satisfied and ill-being when thwarted ([Deci & Ryan, "The 'What' and 'Why' of Goal Pursuits" (2000)](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)).
+Self-determination is the psychological claim that people do best when their motivation is their own. It sits at the centre of self-determination theory (SDT), developed by Edward Deci and Richard Ryan, which its official site describes as "a broad framework for the study of human motivation and personality" ([Self-Determination Theory](https://selfdeterminationtheory.org/theory/)). The site names three basic psychological needs, autonomy, competence and relatedness, and says that conditions supporting them "are argued to foster the most volitional and high quality forms of motivation and engagement for activities, including enhanced performance, persistence, and creativity". The converse is stated just as directly: SDT "proposes that the degree to which any of these three psychological needs is unsupported or thwarted within a social context will have a robust detrimental impact on wellness in that setting".
 
-The mechanism is the internalization ladder: motives run from external (rewards, pressure) through introjected (guilt, "should") to identified (personally endorsed) and intrinsic (done for its own sake). Each step up the ladder is a step toward self-determination — behavior becomes more durable, more enjoyable, and better performed as it is more fully endorsed ([[Identified versus introjected motivation]]; [[Intrinsic versus extrinsic goals]]). This is also why externally imposed goals undermine intrinsic motivation: controlling conditions displace self-endorsement ([[Autonomy-threat research]]; [[MO002 — Know that motivation serves three basic psychological needs — autonomy, competence, and relatedness]]).
+### From pressure to ownership
 
-The distinction to hold: autonomy is not independence. Within the theory, autonomy means acting with a sense of choice and volition; relatedness — connection to others — is a co-equal need, not autonomy's opposite. The lone-wolf reading of self-determination is precisely what the theory denies ([[R077 — Practise relational autonomy]]).
+Deci and Ryan's 2000 paper sets out a continuum of motivation. At one end, external regulation is "the classic case of extrinsic motivation in which people's behavior is controlled by specific external contingencies". Through introjected and identified regulation the person takes a value on as their own, until, with integration, "the person's extrinsically motivated actions will be fully volitional" (Deci & Ryan, 2000, [selfdeterminationtheory.org](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)). The practical reading: the further along that continuum an activity sits, the more it is done with ownership and the less with inner conflict. See [[Identified versus introjected motivation]] and [[Intrinsic versus extrinsic goals]].
 
-An example at its smallest: take one task done under pressure and find one reason inside it that is yours; if none is findable, that is information too.
+### Autonomy is not independence
 
-Its philosophical kin are the eudaimonist accounts of growth — [[Eudaimonia]], well-being as the unfolding of one's potential — and [[Authenticity]], acting as the author of one's own life.
+The paper warns against a common misreading. Autonomy, they write, is "often incorrectly equated with the ideas of internal locus of control, independence, or individualism". Their own account: "autonomy concerns the experience of integration and freedom, and it is an essential aspect of healthy human functioning". Relatedness stays a co-equal need, which is why [[R077 — Practise relational autonomy]] belongs beside it.
 
-autonomy and relatedness grow together (Deci and Ryan, 2000).
+### Small case
+
+Take one task done under pressure and look for one reason inside it that is yours. If none can be found, that is information too. (Illustrative scenario, not a reported case.)
+
+### In the compendium
+
+- [[MO002 — Know that motivation serves three basic psychological needs — autonomy, competence, and relatedness]] — the three needs as a principle
+- [[Autonomy-threat research]] — what controlling conditions do to self-endorsement
+- [[Eudaimonia]] and [[Authenticity]] — the philosophical kin: growth as unfolding, and acting as author of one's own life
 
 ## Facets
 
@@ -28,11 +36,6 @@ autonomy and relatedness grow together (Deci and Ryan, 2000).
 - **autonomy and relatedness** — Deci and Ryan, 2000
 
 ## Other formulations in this library
-
-
-
-
-
 
 - universal basic needs across cultures (Deci and Ryan, 2000)
 - autonomy, competence, and relatedness as the nutriments of flourishing (Deci and Ryan, 2000)
@@ -44,15 +47,14 @@ autonomy and relatedness grow together (Deci and Ryan, 2000).
 
 ## Related concepts
 
-
-
-
 - [[ERG Theory]] — another needs theory without a ladder, for comparison
 - [[E031]] — presents Sartre's freedom-as-responsibility as a philosophical parallel to motivational autonomy.
 - [[P169]] — P169 compares Rogers's trust in capacities and freedom of choice with self-determination theory, without treating the theories as interchangeable.
 - [[Intrinsic versus extrinsic goals]] — the concept page lists this topic among its Related entries; this link returns it
 ## Sources
 
+- [Self-Determination Theory, Theory overview](https://selfdeterminationtheory.org/theory/) — the three needs and the need-support and thwarting claims
+- [Ryan & Deci (2000), The "What" and "Why" of Goal Pursuits](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf) — regulation continuum and the autonomy-independence distinction
 - Deci and Ryan, 2000
 - Berlin, "Two Concepts of Liberty," in Four Essays on Liberty
 - Deci & Ryan, 2000
@@ -69,12 +71,5 @@ autonomy and relatedness grow together (Deci and Ryan, 2000).
 - - - - - - - [[R022 — Practise self-determination]]
 - - - - - - - - - - - 
 ## Cited in philosophy parallels
-
-
-
-
-
-
-
 
 - [[R022 — Practise self-determination]]
