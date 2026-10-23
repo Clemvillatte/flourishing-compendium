@@ -27,4 +27,33 @@ Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 6, p.
 - [[BE007 — Understand that behaviour change follows stages — precontemplation to maintenance|BE007 Understand that behaviour change follows stages: precontemplation to maintenance]] — **grounding**: stage-matched practice.
 ## Psychology parallels
 
-- Miller & Rollnick cite empirical MI literature (footnote 14) that decisional balance with ambivalent clients decreases commitment; WIKI has not independently re-verified (reported by the source book).
+- Miller & Rollnick cite empirical MI literature (their footnote 14) finding that decisional balance with ambivalent clients decreases commitment; the account here rests on the book's report of that literature.
+
+## Evidence
+
+The distinction this caution turns on, in the book's own words:
+
+> "MI is also sometimes confused with a decisional balance technique of equally exploring the pros and cons of change. In this edition we discuss decisional balance as a way of proceeding when you wish to counsel with neutrality rather than move toward a particular change goal (Chapter 17)."
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+
+And the helper-investment caution, in the book's parenting discussion:
+
+> "We simply don’t have the detachment (thank goodness!) to sit with our own children and dispassionately explore the pros and cons of their injecting drugs or engaging in criminal behavior."
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+
+What the sources do not test: the quoted passages give the book's account of when decisional balance fits; they do not evaluate the everyday self-use caution on this page.
+
+## Related concepts
+
+- [[Motivational interviewing]] — the research tradition the caution comes from.
+- [[Goal conflict research]] — the ambivalence a balanced sheet can freeze, studied.
+- [[Values clarification]] — the direction-given alternative to a neutral balance.
+
+## Related kernels
+
+- [[K367 — The "Yes, but" flip]]
+- [[K371 — Importance and confidence rulers]]
+
+## Sources
+
+- [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
