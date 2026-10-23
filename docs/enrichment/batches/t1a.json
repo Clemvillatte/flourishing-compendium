@@ -1,15 +1,15 @@
 {
  "batch": "t1a",
  "done": [
-  "Aristotle",
-  "William James"
+  "Aristotle"
  ],
- "in_progress": null,
+ "in_progress": "William James",
  "flagged": {
-  "Aristotle": "Reopened for QC: advisor QC round-1: translator metadata, peripatetic/treatises claims, why-section sourcing, section word limits, humanizer tells"
+  "Aristotle": "Reopened for QC: advisor QC round-1: translator metadata, peripatetic/treatises claims, why-section sourcing, section word limits, humanizer tells",
+  "William James": "Reopened for QC: QC round-1: verbatim quotes re-anchored to opened carriers; will-to-believe gloss narrowed; reciprocal file marked UNREVIEWED"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:22:01+00:00",
+ "updated": "2026-10-23T05:24:31+00:00",
  "band_done": false
 }
