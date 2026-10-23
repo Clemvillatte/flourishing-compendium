@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKE
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter B", "parent": ""}
 ---
 
-Martin Buber (born 8 February 1878, Vienna; died 13 June 1965, Jerusalem) was a Jewish philosopher of encounter whose *I and Thou* (1923) made relation, rather than the isolated individual, the basic fact of human life ([IEP, Martin Buber](https://iep.utm.edu/buber/); [Wikipedia, Martin Buber](https://en.wikipedia.org/wiki/Martin_Buber)). He coined the paired attitudes I-Thou and I-It, and spent his life showing that the Thou is reached only in meeting.
+Martin Buber (born 8 February 1878, Vienna; died 13 June 1965, Jerusalem) was a Jewish philosopher of encounter whose *I and Thou* (1923) made relation, rather than the isolated individual, the basic fact of human life ([IEP, Martin Buber](https://iep.utm.edu/buber/); [Wikipedia, Martin Buber](https://en.wikipedia.org/wiki/Martin_Buber)). He coined the paired attitudes I-Thou and I-It.
 
 ## Personal story / context
 

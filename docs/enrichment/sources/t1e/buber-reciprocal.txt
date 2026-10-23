@@ -1,0 +1,585 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A018 \u2014 Practice friendliness (philia).md",
+      "id": "A018",
+      "title": "Practice friendliness (philia)",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A063 \u2014 Recognise that friendship is necessary for flourishing.md",
+      "id": "A063",
+      "title": "Recognise that friendship is necessary for flourishing",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A072 \u2014 Practise living together (suz\u0113n).md",
+      "id": "A072",
+      "title": "Practise living together (suz\u0113n)",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A073 \u2014 Distinguish friendship from partnership.md",
+      "id": "A073",
+      "title": "Distinguish friendship from partnership",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF076 \u2014 Recognise expressive suppression in close relationships \u2014 it reduces intimacy.md",
+      "id": "AF076",
+      "title": "Recognise expressive suppression in close relationships: it reduces intimacy",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AT057 \u2014 Cultivate attentional presence in relationships \u2014 attend to others.md",
+      "id": "AT057",
+      "title": "Cultivate attentional presence in relationships: attend to others",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B100 \u2014 Keep compassion free of pity (the near enemy).md",
+      "id": "B100",
+      "title": "Keep compassion free of pity (the near enemy)",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B138 \u2014 Empty the relations too (who bows to whom).md",
+      "id": "B138",
+      "title": "Empty the relations too (who bows to whom?)",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B147 \u2014 Listen deeply.md",
+      "id": "B147",
+      "title": "Listen deeply",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B150 \u2014 Relate without exploitation.md",
+      "id": "B150",
+      "title": "Relate without exploitation",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B159 \u2014 See the human behind the position.md",
+      "id": "B159",
+      "title": "See the human behind the position",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BE034 \u2014 Learn approach behaviours for shame \u2014 show up, do not hide.md",
+      "id": "BE034",
+      "title": "Learn approach behaviours for shame: show up, do not hide",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BE050 \u2014 Learn to practise active listening \u2014 attend fully to others.md",
+      "id": "BE050",
+      "title": "Learn to practise active listening: attend fully to others",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BE051 \u2014 Learn to use I statements \u2014 own your experience.md",
+      "id": "BE051",
+      "title": "Learn to use \\\"I\\\" statements: own your experience",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO006 \u2014 Recognise that thinking is socially distributed \u2014 you think with others.md",
+      "id": "CO006",
+      "title": "Recognise that thinking is socially distributed: you think with others",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D063 \u2014 Help without meddling.md",
+      "id": "D063",
+      "title": "Help without meddling",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D082 \u2014 Don't impose your frame on others.md",
+      "id": "D082",
+      "title": "Don't impose your frame on others",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D104 \u2014 Love without possessing.md",
+      "id": "D104",
+      "title": "Love without possessing",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D111 \u2014 Keep your intentions transparent.md",
+      "id": "D111",
+      "title": "Keep your intentions transparent",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D126 \u2014 Trust the trustworthy and the untrustworthy.md",
+      "id": "D126",
+      "title": "Trust the trustworthy and the untrustworthy",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E003 \u2014 Practise the natural attitude and its suspension.md",
+      "id": "E003",
+      "title": "Practise the natural attitude and its suspension",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E063 \u2014 Practise meaning through love.md",
+      "id": "E063",
+      "title": "Practise meaning through love",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E090 \u2014 Practise the hermeneutics of faith.md",
+      "id": "E090",
+      "title": "Practise the hermeneutics of faith",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E093 \u2014 Practise existential communication.md",
+      "id": "E093",
+      "title": "Practise existential communication",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/M006 \u2014 Name your in-between states.md",
+      "id": "M006",
+      "title": "Name your in-between states",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/MO002 \u2014 Know that motivation serves three basic psychological needs \u2014 autonomy, competence, and relatedness.md",
+      "id": "MO002",
+      "title": "Know that motivation serves three basic psychological needs: autonomy, competence, and relatedness",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP008 \u2014 Satisfy the need for relatedness.md",
+      "id": "PP008",
+      "title": "Satisfy the need for relatedness",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP029 \u2014 Build responsive relationships.md",
+      "id": "PP029",
+      "title": "Build responsive relationships",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP034 \u2014 Build secure attachment.md",
+      "id": "PP034",
+      "title": "Build secure attachment",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP035 \u2014 Practise social perspective-taking.md",
+      "id": "PP035",
+      "title": "Practise social perspective-taking",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R038 \u2014 Practise whakawhanaungatanga.md",
+      "id": "R038",
+      "title": "Practise whakawhanaungatanga",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R041 \u2014 Honour the v\u0101.md",
+      "id": "R041",
+      "title": "Honour the v\u0101",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R042 \u2014 Practise teu le v\u0101.md",
+      "id": "R042",
+      "title": "Practise teu le v\u0101",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R046 \u2014 Practise talanoa.md",
+      "id": "R046",
+      "title": "Practise talanoa",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R047 \u2014 Practise va tapuia.md",
+      "id": "R047",
+      "title": "Practise va tapuia",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R055 \u2014 Practise xin (trustworthinessintegrity).md",
+      "id": "R055",
+      "title": "Practise xin (trustworthiness/integrity)",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R081 \u2014 Practise I-Thou.md",
+      "id": "R081",
+      "title": "Practise I-Thou",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R082 \u2014 Practise the primacy of relation.md",
+      "id": "R082",
+      "title": "Practise the primacy of relation",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R083 \u2014 Practise the face of the Other.md",
+      "id": "R083",
+      "title": "Practise the face of the Other",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R085 \u2014 Practise availability (disponibilit\u00e9).md",
+      "id": "R085",
+      "title": "Practise availability (disponibilit\u00e9)",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R086 \u2014 Practise fidelity.md",
+      "id": "R086",
+      "title": "Practise fidelity",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R087 \u2014 Practise hope.md",
+      "id": "R087",
+      "title": "Practise hope",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R089 \u2014 Practise incarnation.md",
+      "id": "R089",
+      "title": "Practise incarnation",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R091 \u2014 Practise the word that is spoken.md",
+      "id": "R091",
+      "title": "Practise the word that is spoken",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R092 \u2014 Practise listening as a moral act.md",
+      "id": "R092",
+      "title": "Practise listening as a moral act",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R098 \u2014 Practise the I-It relation without abandoning it.md",
+      "id": "R098",
+      "title": "Practise the I-It relation without abandoning it",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R099 \u2014 Practise the between as ontological.md",
+      "id": "R099",
+      "title": "Practise the between as ontological",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S040 \u2014 Be a good friend.md",
+      "id": "S040",
+      "title": "Be a good friend",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S073 \u2014 Love the people you live with.md",
+      "id": "S073",
+      "title": "Love the people you live with",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE005 \u2014 Recognise that the self is partly social \u2014 it is formed in relation.md",
+      "id": "SE005",
+      "title": "Recognise that the self is partly social: it is formed in relation",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE052 \u2014 Cultivate the relational self \u2014 self-in-connection is not weakness.md",
+      "id": "SE052",
+      "title": "Cultivate the relational self: self-in-connection is not weakness",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE053 \u2014 Learn to balance autonomy and connection \u2014 both are needs.md",
+      "id": "SE053",
+      "title": "Learn to balance autonomy and connection: both are needs",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO033 \u2014 Treat perspective-taking as a skill.md",
+      "id": "SO033",
+      "title": "Treat perspective-taking as a skill",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO046 \u2014 Guard against in-group bias.md",
+      "id": "SO046",
+      "title": "Guard against in-group bias",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO047 \u2014 Use intergroup contact as a prejudice-reduction tool.md",
+      "id": "SO047",
+      "title": "Use intergroup contact as a prejudice-reduction tool",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO072 \u2014 Use cultural formulation in clinical practice.md",
+      "id": "SO072",
+      "title": "Use cultural formulation in clinical practice",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y121 \u2014 Let relationship sharpen self-knowledge.md",
+      "id": "Y121",
+      "title": "Let relationship sharpen self-knowledge",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Authentic communication.md",
+      "id": "Authentic communication",
+      "title": "Authentic communication",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Authenticity.md",
+      "id": "Authenticity",
+      "title": "Authenticity",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Autonomy.md",
+      "id": "Autonomy",
+      "title": "Autonomy",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Care.md",
+      "id": "Care",
+      "title": "Care",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Commitment.md",
+      "id": "Commitment",
+      "title": "Commitment",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Confirming the other.md",
+      "id": "Confirming the other",
+      "title": "Confirming the other",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Conversation as method.md",
+      "id": "Conversation as method",
+      "title": "Conversation as method",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Deep listening.md",
+      "id": "Deep listening",
+      "title": "Deep listening",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Dialogic reason.md",
+      "id": "Dialogic reason",
+      "title": "Dialogic reason",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Dialogical philosophy.md",
+      "id": "Dialogical philosophy",
+      "title": "Dialogical philosophy",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Dialogue.md",
+      "id": "Dialogue",
+      "title": "Dialogue",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Empathic understanding.md",
+      "id": "Empathic understanding",
+      "title": "Empathic understanding",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/I and Thou.md",
+      "id": "I and Thou",
+      "title": "I and Thou",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Listening.md",
+      "id": "Listening",
+      "title": "Listening",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Object relations theory.md",
+      "id": "Object relations theory",
+      "title": "Object relations theory",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Presence.md",
+      "id": "Presence",
+      "title": "Presence",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Relational ontology.md",
+      "id": "Relational ontology",
+      "title": "Relational ontology",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Taking the role of the other.md",
+      "id": "Taking the role of the other",
+      "title": "Taking the role of the other",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The Between.md",
+      "id": "The Between",
+      "title": "The Between",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The face.md",
+      "id": "The face",
+      "title": "The face",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The relational self.md",
+      "id": "The relational self",
+      "title": "The relational self",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Ubuntu.md",
+      "id": "Ubuntu",
+      "title": "Ubuntu",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K309 \u2014 Intersubjective presence.md",
+      "id": "K309",
+      "title": "Intersubjective presence",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K355 \u2014 Synchrony practice.md",
+      "id": "K355",
+      "title": "Synchrony practice",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST248 \u2014 Buber and the Tree.md",
+      "id": "ST248",
+      "title": "248. Buber and the Tree",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST251 \u2014 Wally and Andre Have Dinner.md",
+      "id": "ST251",
+      "title": "251. Wally and Andre Have Dinner",
+      "thinker": "T039",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
