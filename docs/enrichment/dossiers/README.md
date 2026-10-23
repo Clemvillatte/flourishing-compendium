@@ -68,7 +68,8 @@ detaching from the self-as-object, cultivating wisdom, genuine flourishing):
 
 Dossiers stage in this folder, in the wiki's card-link format so every entry
 is one click from the live site. The owner's stated destination is the
-Academy, as a Dossiers view beside MORE VIDEOS and DISCOVERY. This staging
-delivers the content; wiring the Academy view itself is site work outside
-this folder, and the first dossier is delivered with that integration still
-to do.
+Academy, as a Dossiers view beside MORE VIDEOS and DISCOVERY. That view is
+wired in this pass (site/assets/app.js, window.fcDossiersData + renderers);
+the markdown of record for each dossier stays in this folder, and the view's
+data is a transcription of it, updated when the markdown changes. Visual
+rendering on the live deploy still needs the owner's one-glance check.

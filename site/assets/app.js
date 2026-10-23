@@ -2909,6 +2909,160 @@ const $ = id => document.getElementById(id);
 function el(tag, cls, text){ const e=document.createElement(tag); if(cls)e.className=cls; if(text!=null)e.textContent=text; return e; }
 function sourceById(id){ return window.fcAcademyData.sources.find(s=>s.source_id===id); }
 function moduleById(id){ return window.fcAcademyData.modules[id]; }
+/* ═════════════════════════════════════════════════════════════════
+   Dossiers — theme compilations beside the study pathways.
+   Content model: window.fcDossiersData, blocks of type
+   h / h2 / p / q (quote with cite, optional status) / n (numbered note).
+   Links inside text: [label](card:File) and [label](url:https://...).
+   The dossier markdown of record lives in docs/enrichment/dossiers/. */
+const DOSSIER_BASE = location.origin + location.pathname;
+function dossierCardUrl(f){ return DOSSIER_BASE + '#card=' + encodeURIComponent(f); }
+function dossierRich(text){
+  const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  let out = '', i = 0;
+  const re = /\[([^\]]+)\]\((card:[^()]*(?:\([^()]*\)[^()]*)*|url:[^()]*)\)/g;
+  let m;
+  while((m = re.exec(text)) !== null){
+    out += esc(text.slice(i, m.index));
+    const href = m[2].startsWith('card:') ? dossierCardUrl(m[2].slice(5)) : m[2].slice(4);
+    out += '<a href="' + esc(href) + '" target="_blank" rel="noopener">' + esc(m[1]) + '</a>';
+    i = m.index + m[0].length;
+  }
+  out += esc(text.slice(i));
+  return out;
+}
+window.fcDossiersData = {
+  schemaVersion: 1,
+  updated: '2026-10-23',
+  dossiers: [
+    {
+      id: 'the-self',
+      title: 'The Self',
+      question: 'What am I, if not the story I keep telling about myself?',
+      intro: [
+        'The editorial aim behind this dossier is the one that runs through the whole compendium: to loosen the grip of the self-as-object, the self known, judged and defended, and to let the opened sources carry the claims.',
+        'Two essay angles the material supports. First, the two great examinations of experience, SN 22.59\u2019s aggregate analysis and Advaita Ved\u0101nta\u2019s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person\u2019s problems than about their own, and instruction to self-distance eliminated the asymmetry (Grossmann and Kross 2014).',
+        'Evidence notes describe the quoted passages only. A checked quotation certifies the passage, not the whole linked page.'
+      ],
+      blocks: [
+        { t: 'h', x: 'Theme-Based Compilation' },
+        { t: 'h2', x: 'What do I take myself to be?' },
+        { t: 'p', x: '[Anatta](card:Anatta) is the Buddhist teaching that no permanent, unchanging, independent self is to be found. The analysis in the Anattalakkha\u1e47a Sutta runs through the five aggregates, testing each for the control a true owner would have:' },
+        { t: 'q', x: 'Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease. It would be possible (to say) with regard to form, \u2018Let my form be thus. Let my form not be thus.\u2019', c: 'SN 22.59, trans. Thanissaro', u: 'https://www.dhammatalks.org/suttas/SN/SN22_59.html', s: 'Primary text; quoted passages checked' },
+        { t: 'q', x: 'Every form is to be seen with right discernment as it has come to be: \u2018This is not mine. This is not my self. This is not what I am.\u2019', c: 'SN 22.59', s: 'Primary text; quoted passages checked' },
+        { t: 'p', x: 'Practice principle: [B003 \u2014 Hold the self lightly](card:B003 \u2014 Hold the self lightly (anatta)).' },
+        { t: 'p', x: '[Atman](card:Atman) is Advaita Ved\u0101nta\u2019s answer: the self, examined to the bottom, is pure consciousness. Neil Dalal\u2019s Stanford entry states the position:' },
+        { t: 'q', x: 'The fundamental thrust of Advaita Ved\u0101nta is that the \u0101tman is pure non-intentional consciousness. It is one without a second, nondual, infinite existence, and numerically identical with brahman.', c: 'Dalal, SEP', u: 'https://plato.stanford.edu/archives/spr2026/entries/shankara/', s: 'Scholarly interpretation; cited passage checked' },
+        { t: 'p', x: 'This is Advaita\u2019s position, not a statement about Indian philosophy as a whole.' },
+        { t: 'p', x: '[The observing self](card:The observing self) is Arthur Deikman\u2019s name for the witness that notices thoughts and feelings without being any of them:' },
+        { t: 'q', x: 'Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.', c: 'Deikman 1982', u: 'https://www.deikman.com/observing.html', s: 'Primary text; quoted passages checked' },
+        { t: 'q', x: 'In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.', c: 'Deikman 1982', s: 'Primary text; quoted passages checked' },
+        { t: 'p', x: 'Practice principle: [SE002 \u2014 Recognise the observing self](card:SE002 \u2014 Recognise the observing self \u2014 you are not only the contents of awareness).' },
+        { t: 'h2', x: 'What changes when I observe a thought?' },
+        { t: 'p', x: '[Self-distancing](card:Self-distancing) is the research programme that measured what the observing position does. The authors\u2019 own image:' },
+        { t: 'q', x: 'It is also possible for people to take a step back when thinking about past experiences and reason about them from the perspective of a distanced observer, akin to a fly on the wall.', c: 'Kross and Ayduk 2011', u: 'https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf', s: 'Study text; quoted passage checked' },
+        { t: 'p', x: 'The wise-reasoning result, quoted in the opening (Grossmann and Kross 2014, quoted passage checked). Practice principle: [CO066 \u2014 Take the third-person perspective](card:CO066 \u2014 Learn to take the third-person perspective \u2014 distanced self-talk improves reasoning).' },
+        { t: 'p', x: '[Self-as-context](card:Self-as-context) is the version from acceptance and commitment therapy, where the observing position is trained as a skill:' },
+        { t: 'q', x: 'ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the \u201cI/here/nowness\u201d of conscious experience. It is usually termed \u201cself as context\u201d although other terms (\u201cnoticing self,\u201d \u201cobserver perspective,\u201d \u201ctranscendent sense of self\u201d) have been used.', c: 'Hayes et al. 2013', u: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/', s: 'Scholarly review; cited passage checked' },
+        { t: 'p', x: 'Training kernel: [K139 \u2014 Self-as-context](card:K139 \u2014 Self-as-context).' },
+        { t: 'h2', x: 'What do relationships contribute to identity?' },
+        { t: 'p', x: '[Independent vs interdependent self-construal](card:Independent vs interdependent self-construal (Markus & Kitayama)) is Hazel Markus and Shinobu Kitayama\u2019s account of the two ways cultures teach people to be a self. Their definitions:' },
+        { t: 'q', x: 'Achieving the cultural goal of independence requires construing oneself as an individual whose behavior is organized and made meaningful primarily by reference to one\u2019s own internal repertoire of thoughts, feelings, and action, rather than by reference to the thoughts, feelings, and actions of others.', c: 'Markus and Kitayama 1991', u: 'https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf', s: 'Primary text; quoted passages checked' },
+        { t: 'q', x: 'Experiencing interdependence entails seeing oneself as part of an encompassing social relationship and recognizing that one\u2019s behavior is determined, contingent on, and, to a large extent organized by what the actor perceives to be the thoughts, feelings, and actions of others in the relationship.', c: 'Markus and Kitayama 1991', s: 'Primary text; quoted passages checked' },
+        { t: 'p', x: 'Related compendium pages: [Ubuntu](card:Ubuntu) and [The relational self](card:The relational self).' },
+        { t: 'h2', x: 'What, if anything, remains through change?' },
+        { t: 'p', x: 'The [chariot image](card:Anatta) from the Milindapa\u00f1ha gives the aggregate analysis its everyday handle:' },
+        { t: 'q', x: 'It is on account of its having all these things\u2014the pole, and the axle, the wheels, and the framework, the ropes, the yoke, the spokes, and the goad\u2014that it comes under the generally understood term, the designation in common use, of \u2018chariot.\u2019', c: 'Mil 3.1.1, trans. Rhys Davids', u: 'https://suttacentral.net/mil3.1.1/en/tw_rhysdavids', s: 'Primary text; quoted passage checked' },
+        { t: 'p', x: 'Practice kernel: [K144 \u2014 The chariot analysis](card:K144 \u2014 The chariot analysis).' },
+        { t: 'p', x: 'Further reading; not assessed for this dossier: [Minimal self](card:Minimal self), [The narrative self](card:The narrative self), [Ecological self](card:Ecological self), [Ego dissolution](card:Ego dissolution).' },
+        { t: 'p', x: 'A caution worth carrying into any essay: four claims that sound alike and are not. That experience has a first-person character, that a person needs a narrative, that identity is social through and through, and that a permanent metaphysical essence exists. A tradition can hold any three and deny the fourth, so a disagreement about \u201cthe self\u201d is never about one thing.' },
+        { t: 'h', x: 'Theme-Based Areas of divergence' },
+        { t: 'h2', x: 'Is there a permanent self?' },
+        { t: 'p', x: 'The shared question, stated narrowly: what can rightly be regarded as self? SN 22.59\u2019s aggregate analysis answers by examination. Each aggregate, past or future, internal or external, is tested for ownership, and the test fails: \u201cThis is not mine. This is not my self. This is not what I am\u201d (SN 22.59, quoted passage checked). That analysis locates no owner in the body or the mind. Advaita Ved\u0101nta, in Dalal\u2019s account, runs an examination of its own and takes it to end elsewhere: in consciousness that is not an object. \u201cAdvaitins understand brahman as transcending individuality and empirical plurality. They seek to establish that the essential core of one\u2019s self (\u0101tman) is brahman\u201d (SEP, cited passage checked). The entry describes the error as mutual superimposition: \u201cWe mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)\u201d (SEP, cited passage checked).' },
+        { t: 'p', x: 'On the Advaita side, Dalal\u2019s entry describes what the error costs: \u015aa\u1e45kara identifies avidy\u0101 as \u201cthe root cause of all existential suffering\u201d, producing \u201ca baseline of fear and anxiety due to assuming one\u2019s self as a limited being subject to sorrow, sickness, and death\u201d (SEP, cited passage checked).' },
+        { t: 'p', x: 'The precise difference is what the examination is taken to find. SN 22.59\u2019s analysis works through the contents of experience one by one and grants none of them the status of owner. Advaita holds that consciousness itself, the field in which all contents appear, is the one referent that is not a content. What remains unresolved, and what an essay can honestly leave open: whether the observing position that the practices below train is a final referent or one more event to be examined. The psychological research measures what the perspective does; it does not settle what the perspective is.' },
+        { t: 'h2', x: 'Is the self separate or relational?' },
+        { t: 'p', x: 'The shared question: is identity primarily a possession of the individual or a property of relationships? Markus and Kitayama\u2019s two construals, quoted above, give the cleanest statement of each pole: the self organized by one\u2019s own internal repertoire of thoughts, feelings and action, against the self organized by what the actor perceives to be the thoughts, feelings and actions of others in the relationship (1991, quoted passages checked).' },
+        { t: 'p', x: 'For comparison here, the two descriptions are treated as lenses, without assigning whole people or cultures to either. The concept page carries the debate the theory set off over whether whole cultures fit either pole. The relational pole is carried by [Ubuntu](card:Ubuntu) and [The relational self](card:The relational self); the delicate work of holding both is [R077 \u2014 Practise relational autonomy](card:R077 \u2014 Practise relational autonomy). Unresolved: whether the construals describe selves, or the situations selves move between.' },
+        { t: 'h', x: 'Theme-Based practice' },
+        { t: 'p', x: 'An editorial sequence of existing practice kernels, ordered from the smallest move to the widest view. No study tested this sequence; each kernel carries its own evidence and its own limits, stated with it.' },
+        { t: 'n', i: 1, x: '[K126 \u2014 Cognitive defusion](card:K126 \u2014 Cognitive defusion), for the moment a single sticky thought bites. The technique is defined as designed \u201cto reduce the functions of thoughts by altering the context in which they occur, rather than the attempting to alter the form, frequency, or situational sensitivity of the thoughts themselves\u201d (Masuda et al. 2004, quoted passage checked). The kernel\u2019s protocol, an adaptation of the tradition, reframes the thought as an event: \u201cI notice I\u2019m having the thought that I will fail.\u201d Evidence limits, in the authors\u2019 own words: their data \u201cdo not show, however, that Titchener\u2019s defusion procedure, or defusion procedures more generally, are actually clinically useful\u201d (Masuda et al. 2004, quoted passage checked).' },
+        { t: 'n', i: 2, x: '[K261 \u2014 Self-distanced reflection](card:K261 \u2014 Self-distanced reflection), for when a whole situation loops. The kernel\u2019s protocol is an editorial arrangement: write about the situation from the fly-on-the-wall perspective, in the third person, then keep what the observer knows that the player did not. The research behind the move is quoted in the opening: self-distancing eliminated the own-versus-other asymmetry in wise reasoning across three experiments, N = 693 (Grossmann and Kross 2014, quoted passages checked), and spontaneous self-distancers report less distress and rumination (Kross and Ayduk 2011, quoted passage checked). The experiments measured reasoning on relationship problems, not life decisions, and they concern chosen reflection tasks, so the practice is a tool for a chosen question.' },
+        { t: 'n', i: 3, x: '[K139 \u2014 Self-as-context](card:K139 \u2014 Self-as-context), for when a self-judgment has hardened into a verdict. The kernel\u2019s protocol, an adaptation of the ACT tradition, names the story as a story and moves attention to the one noticing it. The component evidence is thin, and the review that canvassed it says so in its own words: \u201cthere is only provisional but very limited evidence to suggest that SAC can be effectively taught and implemented as a stand-alone process to manage emotional well-being\u201d (Godbee and Kangas 2020, quoted passage checked).' },
+        { t: 'n', i: 4, x: '[K144 \u2014 The chariot analysis](card:K144 \u2014 The chariot analysis), for when a self-image starts speaking as the whole self. In the kernel\u2019s everyday adaptation, a self-image is examined through feelings, memories and roles. Its source dialogue examines the chariot through its parts, and closes with the dialogue\u2019s own questions: \u201cThen is it all these parts of it that are the chariot?\u201d \u201cNo, Sir.\u201d \u201cBut is there anything outside them that is the chariot?\u201d And still he answered no. (Mil 3.1.1, trans. Rhys Davids, quoted passages checked.) The dialogue is a philosophical text, and the kernel\u2019s page says so plainly.' },
+        { t: 'p', x: 'Further practices held in the corpus, as exploration rather than steps: [K335 \u2014 The witness practice](card:K335 \u2014 The witness practice) and [K146 \u2014 Ego dissolution practice](card:K146 \u2014 Ego dissolution practice). Widening the self relationally is a reading direction here, through [Ubuntu](card:Ubuntu) and the further-reading pages above, and the compendium\u2019s verified practice for that work belongs to a future dossier, not this one.' }
+      ]
+    }
+  ]
+};
+
+function renderDossiers(){
+  const wrap = el('div');
+  const top = el('div','acad-topbar');
+  top.appendChild(el('h2','acad-title','Dossiers'));
+  top.appendChild(el('p','acad-sub','One theme at a time: what the compendium holds on it, where its traditions genuinely disagree, and how it is practiced. Every quoted passage checked against an opened source.'));
+  wrap.appendChild(top);
+  const grid = el('div','acad-hall-grid');
+  (window.fcDossiersData.dossiers||[]).forEach(d=>{
+    const card = el('div','acad-hall dossier-card');
+    card.tabIndex = 0; card.setAttribute('role','button'); card.setAttribute('aria-label','Open dossier: ' + d.title);
+    const plate = el('div','acad-hall-plate dossier-plate');
+    plate.appendChild(el('span','acad-hall-rn','01'));
+    card.appendChild(plate);
+    const body = el('div','acad-hall-body');
+    body.appendChild(el('div','acad-hall-title', d.title));
+    body.appendChild(el('div','acad-hall-desc', d.question));
+    const foot = el('div','acad-hall-foot');
+    foot.appendChild(el('span','acad-hall-meta','compilation \u00b7 divergence \u00b7 practice'));
+    body.appendChild(foot);
+    card.appendChild(body);
+    card.onclick = () => { A.view='dossierDetail'; A.dossier=d.id; renderAcademy(); };
+    card.onkeydown = (e)=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); card.onclick(); } };
+    grid.appendChild(card);
+  });
+  wrap.appendChild(grid);
+  return wrap;
+}
+
+function renderDossierDetail(id){
+  const d = (window.fcDossiersData.dossiers||[]).find(x=>x.id===id);
+  if(!d) return el('div','acad-empty','Dossier not found');
+  const wrap = el('div','acad-detail');
+  const band = el('div','dossier-band');
+  const back = el('button','acad-btn ghost','\u2190 Dossiers');
+  back.onclick = () => { A.view='dossiers'; renderAcademy(); };
+  band.appendChild(back);
+  band.appendChild(el('h2','acad-band-title', d.title));
+  band.appendChild(el('p','acad-band-desc', d.question));
+  wrap.appendChild(band);
+  const body = el('div','dossier-body');
+  (d.intro||[]).forEach(p=>{ const pe = el('p','dossier-p'); pe.innerHTML = dossierRich(p); body.appendChild(pe); });
+  (d.blocks||[]).forEach(b=>{
+    if(b.t==='h'){ body.appendChild(el('h3','dossier-h', b.x)); }
+    else if(b.t==='h2'){ body.appendChild(el('h4','dossier-h2', b.x)); }
+    else if(b.t==='p'){ const pe = el('p','dossier-p'); pe.innerHTML = dossierRich(b.x); body.appendChild(pe); }
+    else if(b.t==='n'){
+      const item = el('div','dossier-step');
+      item.appendChild(el('span','dossier-step-n', String(b.i)));
+      const pe = el('p','dossier-p'); pe.innerHTML = dossierRich(b.x);
+      item.appendChild(pe); body.appendChild(item);
+    }
+    else if(b.t==='q'){
+      const holder = el('div','dossier-qwrap');
+      const q = el('blockquote','dossier-quote'); q.innerHTML = dossierRich(b.x);
+      holder.appendChild(q);
+      const c = el('div','dossier-cite');
+      if(b.u){ const a = document.createElement('a'); a.href=b.u; a.target='_blank'; a.rel='noopener'; a.textContent = b.c || ''; c.appendChild(a); }
+      else if(b.c){ c.appendChild(document.createTextNode(b.c)); }
+      if(b.s){ c.appendChild(el('span','dossier-status', b.s)); }
+      holder.appendChild(c);
+      body.appendChild(holder);
+    }
+  });
+  wrap.appendChild(body);
+  return wrap;
+}
+
 
 /* ---------- State (no persistent storage — sandbox) ---------- */
 const A = { view:'home', degree:null, module:null, filters:{q:'',topic:'',level:''}, completed:new Set() };
@@ -3112,6 +3266,8 @@ function renderAcademy(){
     return;
   }
   if(A.view==='moduleDetail' && A.module){ root.appendChild(renderModuleDetail(A.module)); return; }
+  if(A.view==='dossiers'){ root.appendChild(renderDossiers()); return; }
+  if(A.view==='dossierDetail' && A.dossier){ root.appendChild(renderDossierDetail(A.dossier)); return; }
   root.appendChild(renderAcademyHome());
 }
 
@@ -3173,6 +3329,15 @@ function renderAcademyHome(){
   discoveryBtn.title = 'Flourishing Gallery — 602 primary sources';
   discoveryBtn.onclick = () => { switchView('gallery'); };
   actions.appendChild(discoveryBtn);
+
+  // Dossiers — theme compilations beside the study pathways
+  const dossiersBtn = el('button','acad-btn','Dossiers');
+  dossiersBtn.title = 'Theme dossiers: compilation, divergence, practice';
+  dossiersBtn.onclick = () => {
+    A.view = 'dossiers';
+    renderAcademy();
+  };
+  actions.appendChild(dossiersBtn);
 
   top.appendChild(actions);
   wrap.appendChild(top);

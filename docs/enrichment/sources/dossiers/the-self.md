@@ -72,10 +72,16 @@ extraction prompt.
 
 - Card-link URLs follow the site's documented deep-link scheme
   (site/assets/app.js, #card=<file or id>); all 22 targets verified
-  against actual content/ file names by script. Page rendering was not
-  opened in a browser this pass.
-- Academy integration (Dossiers view beside MORE VIDEOS and DISCOVERY) is
-  not implemented in this pass; the deliverable is the staged dossier
-  content, reported as such.
+  against actual content/ file names by script. The dossier's card links
+  were exercised through the same scheme in the Academy view code.
+- ACADEMY INTEGRATION (this pass): a Dossiers view added beside MORE
+  VIDEOS and DISCOVERY in site/assets/app.js (window.fcDossiersData +
+  renderDossiers + renderDossierDetail + card-link renderer + dossier
+  CSS in style.css). Verification level: node --check clean, link
+  renderer unit-tested (nested-paren file names handled), render smoke
+  test via DOM stubs (1 card, 49 body blocks, missing-ID path). Visual
+  rendering in a live browser was NOT inspected this pass — the sandbox
+  has no browser; a one-glance check on the Pages deploy (~40 s after
+  push) is the remaining step.
 - K261's and K144's protocols are labelled in the dossier as the kernel's
   own adaptations, matching how the kernel pages present them.
