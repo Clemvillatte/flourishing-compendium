@@ -19,7 +19,7 @@ The mechanism is care-giving. Gilbert's account grounds compassion in the evolve
 
 > "Gilbert (2007) describes compassion as a 'multifaceted process' that has evolved from 'the caregiver mentality' found in human parental care and childrearing." ([Gilbert 2010](https://self-compassion.org/wp-content/uploads/publications/ijct.2010.3.2.pdf))
 
-On the compendium's reading, this is why compassion training works through tone and imagery rather than argument. The compendium's forms are the relational practices: motivational displacement, the Confucian heart of humanity, and the psychological distinction that compassion includes self-compassion rather than ending at the self's edge.
+On the compendium's reading, this is why compassion training works through tone and imagery rather than argument. The compendium's forms are the relational practices: motivational displacement, the Confucian heart of humanity ([[Ren]]), and the psychological distinction that compassion includes self-compassion rather than ending at the self's edge.
 
 ### What it is not
 

@@ -17,3 +17,7 @@ entries: R004, R068, PP046, B052, R036/R048 combined line, plus the Self-compass
 concept link; PP046 markup preserved); illustrative two-step example labeled; Related
 concepts cleaned (empty lines removed, all links kept); Sources rebuilt with the verified
 carrier first and carried-over citations labeled. Front-matter untouched. Validator ok.
+
+Post-save fix (this session): the original page had two [[Ren]] occurrences (caregiving
+paragraph and closing line); the rebuild kept one. The second restored in the caregiving
+paragraph. Validator ok after fix.
