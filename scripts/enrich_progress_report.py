@@ -66,7 +66,17 @@ def main():
     kernels = {fn[:-3] for fn in os.listdir(os.path.join(ROOT, 'content/kernels'))
                if fn.endswith('.md')}
     pr_unmatched = sorted(x for x in (done_ids - set(principles)) if x not in kernels)
-    co_done = {by_norm[norm(t)] for t in done_titles if norm(t) in by_norm}
+    # 2026-10-23 fix (supervisor-pplx-1023a): sibling pages can share a normalized
+    # key (Nonattachment vs Non-attachment); match done titles to pages EXACTLY
+    # first, and only fall back to normalized matching for titles with no exact
+    # page — otherwise one sibling's done record hides the other as "remaining".
+    exact_pages = set(concepts)
+    co_done = set()
+    for t in done_titles:
+        if t in exact_pages:
+            co_done.add(t)
+        elif norm(t) in by_norm:
+            co_done.add(by_norm[norm(t)])
     # concept done entries recorded as paths (content/kernels/...) or with trailing
     # audit-note suffixes '(verify-...)' are bookkeeping artifacts, not concept titles;
     # normalize them before matching so they do not surface as phantom unmatched

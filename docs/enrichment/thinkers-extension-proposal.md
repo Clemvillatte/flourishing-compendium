@@ -32,7 +32,6 @@ queue's tail (Hume 41, Fromm 42, Hadot 28, Weil 23 at queue mint):
 | Whitehead | 78 | above Beck (63) | Process philosophy; P forest |
 | Levinas | 75 | above Beck (63) | R forest, ethics of the Other |
 | Merleau-Ponty | 72 | above Beck (63) | The lived body, The habit body |
-| Rumi | 68 | above Seligman (61) | sayings, story material |
 | Shantideva | 55 | above Neff (45) | Bodhicaryavatara-sourced B-forest material |
 | Bergson | 52 | above Neff (45) | Durée, P191 joy/creation |
 | Ricoeur | 51 | above Neff (45) | narrative identity, hermeneutics |
@@ -40,7 +39,7 @@ queue's tail (Hume 41, Fromm 42, Hadot 28, Weil 23 at queue mint):
 Second tier (all clear the PROTOCOL-THINKERS 10+ floor): Jaspers 37, Gadamer 36,
 Nagarjuna 32, Nishida 29, MacIntyre 28, Dogen 27, Shankara 21, Mencius 19, Nishitani 16.
 
-Mesoamerican audit: the strongest Mesoamerican names in the corpus (Tlamatinime 5,
+Correction (2026-10-23, after owner question): Rumi was counted on a substring match that caught "Rumination"; on word-boundary matching Rumi appears in 7 files — BELOW the 10+ floor — and is dropped from the first wave. Mesoamerican audit: the strongest Mesoamerican names in the corpus (Tlamatinime 5,
 Nezahualcoyotl 4) sit below the 10-file floor — an honest absence; the queue's own rule
 forbids minting passing mentions.
 
@@ -78,7 +77,7 @@ representative today; the Mesoamerican forest has no eligible thinker (honest).
 
 ## Effect
 
-36 → 47 queue identities covering every forest that has an eligible thinker; 12
+36 → 46 queue identities covering every forest that has an eligible thinker; 12
 currently unminted (t1c/t1d), 11 proposed. Graph integration is unaffected: the wiki
 graph is UNDIRECTED (a [[wikilink]] from the thinker page already creates the graph
 edge), so new pages integrate on mint; reciprocal backlinks remain a navigation and
