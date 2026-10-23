@@ -11,7 +11,7 @@ Courage (andreia) is one of the four cardinal virtues: acting well in the face o
 
 ### What courage is not
 
-Aristotle's sharpest teaching is negative: he distinguishes courage from several states that resemble it. The citizen-soldier who fears disgrace more than death comes closest to the real thing, "because it is due to shame and to desire of a noble object"; those who fight from passion are "pugnacious but not brave; for they do not act for honour's sake nor as the rule directs" ([Nicomachean Ethics III.6-9](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The mark of the real thing is that it is chosen "because it is noble to do so" ([Nicomachean Ethics III.6-9](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
+Aristotle's sharpest teaching is negative: he distinguishes courage from several states that resemble it. The citizen-soldier who fears disgrace more than death comes closest to the real thing, "for it is due to shame and to desire of a noble object"; those who fight from passion are "pugnacious but not brave; for they do not act for honour's sake nor as the rule directs" ([Nicomachean Ethics III.6-9](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The mark of the real thing is that it is chosen "because it is noble to do so" ([Nicomachean Ethics III.6-9](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
 ### The clinical pairing
 
