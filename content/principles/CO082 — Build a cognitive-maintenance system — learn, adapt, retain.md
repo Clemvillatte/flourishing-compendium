@@ -28,7 +28,7 @@ Lövdén and colleagues' framework says adult cognitive plasticity "is driven by
 
 ### What the sources do not show
 
-None of these shows that reasoning, debiasing or metacognition "degrade without use", or that an annual audit helps. Those are the compendium's claims. The decision-journal practice below is one way to put the principle to use, and the parallels listed below (Tetlock, Stern, Ericsson, Socrates, Peirce) are not relied on.
+None of these shows that reasoning, debiasing or metacognition "degrade without use", or that an annual audit helps. Those are the compendium's claims. The decision-journal practice below is one way to put the principle to use, and the thinkers cited below (Tetlock, Stern, Ericsson, Socrates, Peirce) are not relied on.
 
 (Aristotle, Nicomachean Ethics II.1; Cepeda et al., 2006; Lövdén et al., 2010.)
 
