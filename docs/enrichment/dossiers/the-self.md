@@ -214,7 +214,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Proper self-love](https://clemvillatte.github.io/flourishing-compendium/#card=Proper%20self-love) — the Aristotelian claim that loving oneself is not itself a fault: the question is which part of oneself one loves and what one assigns to oneself.
 
-[Harsh self-criticism](https://clemvillatte.github.io/flourishing-compendium/#card=Harsh%20self-criticism) — The inner attacker in Gilbert’s clinical account; associated in the opened sources with psychopathology.
+[Harsh self-criticism](https://clemvillatte.github.io/flourishing-compendium/#card=Harsh%20self-criticism) — The inner attacker in Gilbert’s clinical account of self-criticism, linked with psychopathology.
 
 [Self-compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Self-compassion) — Kristin Neff's construct for relating to one's own suffering the way one would to a friend's, with three components: self-kindness (versus self-judgment), common humanity (versus isolation), and…
 
@@ -296,7 +296,7 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 [Self-determination](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determination) — the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed — chosen and wanted rather than pressured — and that…
 
-[Self-determined personality growth](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determined%20personality%20growth) — "Self-determined personality growth" is the wiki's label, not a term I found in the sources opened.
+[Self-determined personality growth](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determined%20personality%20growth) — A compendium label for personality growth driven by the basic psychological needs; not a term from the underlying literature.
 
 [Self-efficacy](https://clemvillatte.github.io/flourishing-compendium/#card=Self-efficacy) — Albert Bandura's construct for the belief that one can execute the behaviour required to produce an outcome (Bandura, 1977).
 
@@ -340,9 +340,9 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 ### Working on the self, in the classical sayings
 
-[Rectify the self before others](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%20before%20others) — Confucius, Analects 13.6: order in one's own person comes before order in the world.
+[Rectify the self before others](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%20before%20others) — Confucius, Analects 13.6: order in one’s own person comes before order in the world.
 
-[Rectify the self, then the family, then the state](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state) — the Great Learning's sequence of rectification, moving outward from the self.
+[Rectify the self, then the family, then the state](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state) — the Great Learning’s sequence of rectification, moving outward from the self.
 
 
 ### The wiki’s own shelves on the self
@@ -372,40 +372,40 @@ A caution worth carrying into any essay: four claims that sound alike and are no
 
 ::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
 
-1. [Self-as-context](https://clemvillatte.github.io/flourishing-compendium/#card=K139%20%E2%80%94%20Self-as-context) — the ACT move of noticing the one who notices, for when a self-judgment has hardened into a verdict.
+1. [Self-as-context](https://clemvillatte.github.io/flourishing-compendium/#card=K139%20%E2%80%94%20Self-as-context) — when caught in a self-story, shifting attention from the story to the one who notices the story.
 
 The component evidence is thin, and the review that canvassed it says so in its own words: “there is only provisional but very limited evidence to suggest that SAC can be effectively taught and implemented as a stand-alone process to manage emotional well-being” (Godbee and Kangas 2020, quoted passage checked).
 
-2. [The observer question](https://clemvillatte.github.io/flourishing-compendium/#card=K140%20%E2%80%94%20The%20observer%20question) — a sitting practice that asks, of each event, to whom it appears.
+2. [The observer question](https://clemvillatte.github.io/flourishing-compendium/#card=K140%20%E2%80%94%20The%20observer%20question) — the periodic question “who is noticing?”, aimed at interrupting identification with thought.
 
-3. [Identity flexibility audit](https://clemvillatte.github.io/flourishing-compendium/#card=K141%20%E2%80%94%20Identity%20flexibility%20audit) — a check of which parts of your identity are load-bearing and which are inherited.
+3. [Identity flexibility audit](https://clemvillatte.github.io/flourishing-compendium/#card=K141%20%E2%80%94%20Identity%20flexibility%20audit) — listing the roles you identify with and asking whether each is a process you live or a box you defend.
 
-4. [Narrative reconstruction](https://clemvillatte.github.io/flourishing-compendium/#card=K142%20%E2%80%94%20Narrative%20reconstruction) — rewriting a life chapter that has been telling the same wrong story.
+4. [Narrative reconstruction](https://clemvillatte.github.io/flourishing-compendium/#card=K142%20%E2%80%94%20Narrative%20reconstruction) — rewriting one fixed, painful sentence of your self-narrative in the direction of growth without denying the facts.
 
-5. [Self-complexity mapping](https://clemvillatte.github.io/flourishing-compendium/#card=K143%20%E2%80%94%20Self-complexity%20mapping) — charting the distinct self-aspects you hold, so one bad chapter cannot speak for the whole.
+5. [Self-complexity mapping](https://clemvillatte.github.io/flourishing-compendium/#card=K143%20%E2%80%94%20Self-complexity%20mapping) — charting your self-aspects so that no single failure can speak for the whole.
 
-6. [Ego dissolution practice](https://clemvillatte.github.io/flourishing-compendium/#card=K146%20%E2%80%94%20Ego%20dissolution%20practice) — a contemplative exercise loosening the boundary of self.
+6. [Ego dissolution practice](https://clemvillatte.github.io/flourishing-compendium/#card=K146%20%E2%80%94%20Ego%20dissolution%20practice) — letting the boundary between self and world soften, in meditation or in nature, without forcing it.
 
-7. [Self-compassion practice](https://clemvillatte.github.io/flourishing-compendium/#card=K162%20%E2%80%94%20Self-compassion%20practice) — Neff’s three moves — mindfulness, common humanity, kindness — trained on your own suffering.
+7. [Self-compassion practice](https://clemvillatte.github.io/flourishing-compendium/#card=K162%20%E2%80%94%20Self-compassion%20practice) — the hand-on-chest practice: naming the moment of suffering as part of life and treating yourself as you would a good friend.
 
-8. [Narrative redemption](https://clemvillatte.github.io/flourishing-compendium/#card=K229%20%E2%80%94%20Narrative%20redemption) — finding the turn in a hard story where a bad scene turns good.
+8. [Narrative redemption](https://clemvillatte.github.io/flourishing-compendium/#card=K229%20%E2%80%94%20Narrative%20redemption) — rewriting a hard chapter toward what it grew or made possible, with the pain kept in view.
 
-9. [Self-monitoring](https://clemvillatte.github.io/flourishing-compendium/#card=K246%20%E2%80%94%20Self-monitoring) — recording your own behaviour as it happens, the behaviour-change technique.
+9. [Self-monitoring](https://clemvillatte.github.io/flourishing-compendium/#card=K246%20%E2%80%94%20Self-monitoring) — tracking a target behaviour without trying to change it; the recording itself often shifts it.
 
-10. [Motivational interviewing (self-directed)](https://clemvillatte.github.io/flourishing-compendium/#card=K247%20%E2%80%94%20Motivational%20interviewing%20%28self-directed%29) — rolling with your own resistance instead of arguing with it.
+10. [Motivational interviewing (self-directed)](https://clemvillatte.github.io/flourishing-compendium/#card=K247%20%E2%80%94%20Motivational%20interviewing%20%28self-directed%29) — borrowing the interviewer’s chair and sitting in it yourself when ambivalent about a change.
 
-11. [Self-distanced reflection](https://clemvillatte.github.io/flourishing-compendium/#card=K261%20%E2%80%94%20Self-distanced%20reflection) — writing about a looping situation from the fly-on-the-wall perspective, in the third person.
+11. [Self-distanced reflection](https://clemvillatte.github.io/flourishing-compendium/#card=K261%20%E2%80%94%20Self-distanced%20reflection) — writing about a difficult situation in the third person, the linguistic shift that creates psychological distance.
 
 The research behind it is quoted in the opening: self-distancing eliminated the own-versus-other asymmetry in wise reasoning across three experiments, N = 693 (Grossmann and Kross 2014, quoted passages checked).
 
-12. [Future-self dialogue](https://clemvillatte.github.io/flourishing-compendium/#card=K322%20%E2%80%94%20Future-self%20dialogue) — a written conversation with the person you are becoming.
+12. [Future-self dialogue](https://clemvillatte.github.io/flourishing-compendium/#card=K322%20%E2%80%94%20Future-self%20dialogue) — a letter from your future self, ten years out, about the decision you are facing.
 
-13. [Identity script revision](https://clemvillatte.github.io/flourishing-compendium/#card=K334%20%E2%80%94%20Identity%20script%20revision) — editing the lines you were handed about who you are.
+13. [Identity script revision](https://clemvillatte.github.io/flourishing-compendium/#card=K334%20%E2%80%94%20Identity%20script%20revision) — rewriting one fixed, limiting sentence of your self-narrative in the direction of growth, without denial.
 
-14. [The witness practice](https://clemvillatte.github.io/flourishing-compendium/#card=K335%20%E2%80%94%20The%20witness%20practice) — resting attention in the witness rather than the witnessed.
+14. [The witness practice](https://clemvillatte.github.io/flourishing-compendium/#card=K335%20%E2%80%94%20The%20witness%20practice) — telling someone a story from your week and having them tell it back, to see what a listener keeps, drops and reweights.
 
-15. [Cultivate your Compassionate Self](https://clemvillatte.github.io/flourishing-compendium/#card=K378%20%E2%80%94%20Cultivate%20your%20Compassionate%20Self) — building the inner voice that sees you the way a good friend would.
+15. [Cultivate your Compassionate Self](https://clemvillatte.github.io/flourishing-compendium/#card=K378%20%E2%80%94%20Cultivate%20your%20Compassionate%20Self) — imagining yourself as a highly compassionate person and practising that role’s posture, voice and ways of thinking.
 
-16. [Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted)](https://clemvillatte.github.io/flourishing-compendium/#card=K384%20%E2%80%94%20Two-Chair%20dialogue%3A%20compassionate%20self%20%E2%86%94%20vulnerable%20self%20%28solo-adapted%29) — letting the strong voice and the hurt one talk, in writing.
+16. [Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted)](https://clemvillatte.github.io/flourishing-compendium/#card=K384%20%E2%80%94%20Two-Chair%20dialogue%3A%20compassionate%20self%20%E2%86%94%20vulnerable%20self%20%28solo-adapted%29) — a spoken dialogue between the vulnerable chair and the compassionate chair, facing each other.
 
 ::Retention:: Retention is what people keep because it works for them. A kernel that changes one reader’s week will be dropped by another; the map above is wide on purpose, so what stays is a matter of fit between the practice and the life it enters. What people usually report keeping is small and concrete: a name for the observer, a kinder sentence to say to themselves, a story they found out they could re-tell.

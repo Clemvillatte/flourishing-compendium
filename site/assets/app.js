@@ -3380,7 +3380,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Harsh self-criticism](card:Harsh%20self-criticism) — The inner attacker in Gilbert’s clinical account; associated in the opened sources with psychopathology."
+          "x": "[Harsh self-criticism](card:Harsh%20self-criticism) — The inner attacker in Gilbert’s clinical account of self-criticism, linked with psychopathology."
         },
         {
           "t": "p",
@@ -3544,7 +3544,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-determined personality growth](card:Self-determined%20personality%20growth) — \"Self-determined personality growth\" is the wiki's label, not a term I found in the sources opened."
+          "x": "[Self-determined personality growth](card:Self-determined%20personality%20growth) — A compendium label for personality growth driven by the basic psychological needs; not a term from the underlying literature."
         },
         {
           "t": "p",
@@ -3632,11 +3632,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Rectify the self before others](card:Rectify%20the%20self%20before%20others) — Confucius, Analects 13.6: order in one's own person comes before order in the world."
+          "x": "[Rectify the self before others](card:Rectify%20the%20self%20before%20others) — Confucius, Analects 13.6: order in one’s own person comes before order in the world."
         },
         {
           "t": "p",
-          "x": "[Rectify the self, then the family, then the state](card:Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state) — the Great Learning's sequence of rectification, moving outward from the self."
+          "x": "[Rectify the self, then the family, then the state](card:Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state) — the Great Learning’s sequence of rectification, moving outward from the self."
         },
         {
           "t": "h2",
@@ -3695,7 +3695,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 1,
-          "x": "[Self-as-context](card:K139%20%E2%80%94%20Self-as-context) — the ACT move of noticing the one who notices, for when a self-judgment has hardened into a verdict."
+          "x": "[Self-as-context](card:K139%20%E2%80%94%20Self-as-context) — when caught in a self-story, shifting attention from the story to the one who notices the story."
         },
         {
           "t": "p",
@@ -3704,52 +3704,52 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 2,
-          "x": "[The observer question](card:K140%20%E2%80%94%20The%20observer%20question) — a sitting practice that asks, of each event, to whom it appears."
+          "x": "[The observer question](card:K140%20%E2%80%94%20The%20observer%20question) — the periodic question “who is noticing?”, aimed at interrupting identification with thought."
         },
         {
           "t": "n",
           "i": 3,
-          "x": "[Identity flexibility audit](card:K141%20%E2%80%94%20Identity%20flexibility%20audit) — a check of which parts of your identity are load-bearing and which are inherited."
+          "x": "[Identity flexibility audit](card:K141%20%E2%80%94%20Identity%20flexibility%20audit) — listing the roles you identify with and asking whether each is a process you live or a box you defend."
         },
         {
           "t": "n",
           "i": 4,
-          "x": "[Narrative reconstruction](card:K142%20%E2%80%94%20Narrative%20reconstruction) — rewriting a life chapter that has been telling the same wrong story."
+          "x": "[Narrative reconstruction](card:K142%20%E2%80%94%20Narrative%20reconstruction) — rewriting one fixed, painful sentence of your self-narrative in the direction of growth without denying the facts."
         },
         {
           "t": "n",
           "i": 5,
-          "x": "[Self-complexity mapping](card:K143%20%E2%80%94%20Self-complexity%20mapping) — charting the distinct self-aspects you hold, so one bad chapter cannot speak for the whole."
+          "x": "[Self-complexity mapping](card:K143%20%E2%80%94%20Self-complexity%20mapping) — charting your self-aspects so that no single failure can speak for the whole."
         },
         {
           "t": "n",
           "i": 6,
-          "x": "[Ego dissolution practice](card:K146%20%E2%80%94%20Ego%20dissolution%20practice) — a contemplative exercise loosening the boundary of self."
+          "x": "[Ego dissolution practice](card:K146%20%E2%80%94%20Ego%20dissolution%20practice) — letting the boundary between self and world soften, in meditation or in nature, without forcing it."
         },
         {
           "t": "n",
           "i": 7,
-          "x": "[Self-compassion practice](card:K162%20%E2%80%94%20Self-compassion%20practice) — Neff’s three moves — mindfulness, common humanity, kindness — trained on your own suffering."
+          "x": "[Self-compassion practice](card:K162%20%E2%80%94%20Self-compassion%20practice) — the hand-on-chest practice: naming the moment of suffering as part of life and treating yourself as you would a good friend."
         },
         {
           "t": "n",
           "i": 8,
-          "x": "[Narrative redemption](card:K229%20%E2%80%94%20Narrative%20redemption) — finding the turn in a hard story where a bad scene turns good."
+          "x": "[Narrative redemption](card:K229%20%E2%80%94%20Narrative%20redemption) — rewriting a hard chapter toward what it grew or made possible, with the pain kept in view."
         },
         {
           "t": "n",
           "i": 9,
-          "x": "[Self-monitoring](card:K246%20%E2%80%94%20Self-monitoring) — recording your own behaviour as it happens, the behaviour-change technique."
+          "x": "[Self-monitoring](card:K246%20%E2%80%94%20Self-monitoring) — tracking a target behaviour without trying to change it; the recording itself often shifts it."
         },
         {
           "t": "n",
           "i": 10,
-          "x": "[Motivational interviewing (self-directed)](card:K247%20%E2%80%94%20Motivational%20interviewing%20%28self-directed%29) — rolling with your own resistance instead of arguing with it."
+          "x": "[Motivational interviewing (self-directed)](card:K247%20%E2%80%94%20Motivational%20interviewing%20%28self-directed%29) — borrowing the interviewer’s chair and sitting in it yourself when ambivalent about a change."
         },
         {
           "t": "n",
           "i": 11,
-          "x": "[Self-distanced reflection](card:K261%20%E2%80%94%20Self-distanced%20reflection) — writing about a looping situation from the fly-on-the-wall perspective, in the third person."
+          "x": "[Self-distanced reflection](card:K261%20%E2%80%94%20Self-distanced%20reflection) — writing about a difficult situation in the third person, the linguistic shift that creates psychological distance."
         },
         {
           "t": "p",
@@ -3758,27 +3758,27 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 12,
-          "x": "[Future-self dialogue](card:K322%20%E2%80%94%20Future-self%20dialogue) — a written conversation with the person you are becoming."
+          "x": "[Future-self dialogue](card:K322%20%E2%80%94%20Future-self%20dialogue) — a letter from your future self, ten years out, about the decision you are facing."
         },
         {
           "t": "n",
           "i": 13,
-          "x": "[Identity script revision](card:K334%20%E2%80%94%20Identity%20script%20revision) — editing the lines you were handed about who you are."
+          "x": "[Identity script revision](card:K334%20%E2%80%94%20Identity%20script%20revision) — rewriting one fixed, limiting sentence of your self-narrative in the direction of growth, without denial."
         },
         {
           "t": "n",
           "i": 14,
-          "x": "[The witness practice](card:K335%20%E2%80%94%20The%20witness%20practice) — resting attention in the witness rather than the witnessed."
+          "x": "[The witness practice](card:K335%20%E2%80%94%20The%20witness%20practice) — telling someone a story from your week and having them tell it back, to see what a listener keeps, drops and reweights."
         },
         {
           "t": "n",
           "i": 15,
-          "x": "[Cultivate your Compassionate Self](card:K378%20%E2%80%94%20Cultivate%20your%20Compassionate%20Self) — building the inner voice that sees you the way a good friend would."
+          "x": "[Cultivate your Compassionate Self](card:K378%20%E2%80%94%20Cultivate%20your%20Compassionate%20Self) — imagining yourself as a highly compassionate person and practising that role’s posture, voice and ways of thinking."
         },
         {
           "t": "n",
           "i": 16,
-          "x": "[Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted)](card:K384%20%E2%80%94%20Two-Chair%20dialogue%3A%20compassionate%20self%20%E2%86%94%20vulnerable%20self%20%28solo-adapted%29) — letting the strong voice and the hurt one talk, in writing."
+          "x": "[Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted)](card:K384%20%E2%80%94%20Two-Chair%20dialogue%3A%20compassionate%20self%20%E2%86%94%20vulnerable%20self%20%28solo-adapted%29) — a spoken dialogue between the vulnerable chair and the compassionate chair, facing each other."
         },
         {
           "t": "vs",

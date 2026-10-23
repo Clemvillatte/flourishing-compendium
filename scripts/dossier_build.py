@@ -61,7 +61,7 @@ OVERRIDES = {
  'Self-discrepancy': 'E. Tory Higgins\u2019s term for the gaps between a person\u2019s self-state representations: actual, ideal and ought selves, each with its own emotional weather.',
  'The fractured self': 'R. D. Laing\u2019s description, in The Divided Self (1960), of the person split from the world, from himself and from his body.',
  'The ideal self': 'In Higgins\u2019s self-discrepancy theory, the representation of the attributes that someone would like a person, ideally, to possess \u2014 hopes and aspirations rather than duties.',
- 'Harsh self-criticism': 'The inner attacker in Gilbert\u2019s clinical account; associated in the opened sources with psychopathology.',
+ 'Harsh self-criticism': 'The inner attacker in Gilbert\u2019s clinical account of self-criticism, linked with psychopathology.',
  'Distanced self-talk (Kross)': 'Ethan Kross\u2019s practice of referring to yourself by name or with non-first-person pronouns while reflecting on something stressful.',
  'Identity-protective cognition': 'Dan Kahan\u2019s name for reasoning in which \u201cis this true?\u201d is answered, unnoticed, by \u201cdoes this mark me as one of us?\u201d',
  'Psychodynamic accounts of ego defense and rationalization': 'George Vaillant\u2019s rated hierarchy of defenses, from psychotic through immature and neurotic to mature, built on decades of the Harvard Grant Study.',
@@ -81,6 +81,9 @@ OVERRIDES = {
  'Narrative self': 'The self understood as the protagonist of one\u2019s own life story.',
  'Embodied self': 'The self as felt from inside the body: an interoceptive account of embodiment rather than the body as observed.',
  'The self-evident': 'Aristotle\u2019s account of what all demonstration rests on and what demonstration cannot reach (not an entry about the self).',
+ 'Rectify the self before others': 'Confucius, Analects 13.6: order in one\u2019s own person comes before order in the world.',
+ 'Rectify the self, then the family, then the state': 'the Great Learning\u2019s sequence of rectification, moving outward from the self.',
+ 'Self-determined personality growth': 'A compendium label for personality growth driven by the basic psychological needs; not a term from the underlying literature.',
 }
 
 MAP = [
@@ -145,22 +148,22 @@ MAP = [
 ]
 
 KERNELS = [  # (sweep title, selection line)
- ('Self-as-context', 'the ACT move of noticing the one who notices, for when a self-judgment has hardened into a verdict'),
- ('The observer question', 'a sitting practice that asks, of each event, to whom it appears'),
- ('Identity flexibility audit', 'a check of which parts of your identity are load-bearing and which are inherited'),
- ('Narrative reconstruction', 'rewriting a life chapter that has been telling the same wrong story'),
- ('Self-complexity mapping', 'charting the distinct self-aspects you hold, so one bad chapter cannot speak for the whole'),
- ('Ego dissolution practice', 'a contemplative exercise loosening the boundary of self'),
- ('Self-compassion practice', 'Neff\u2019s three moves \u2014 mindfulness, common humanity, kindness \u2014 trained on your own suffering'),
- ('Narrative redemption', 'finding the turn in a hard story where a bad scene turns good'),
- ('Self-monitoring', 'recording your own behaviour as it happens, the behaviour-change technique'),
- ('Motivational interviewing (self-directed)', 'rolling with your own resistance instead of arguing with it'),
- ('Self-distanced reflection', 'writing about a looping situation from the fly-on-the-wall perspective, in the third person'),
- ('Future-self dialogue', 'a written conversation with the person you are becoming'),
- ('Identity script revision', 'editing the lines you were handed about who you are'),
- ('The witness practice', 'resting attention in the witness rather than the witnessed'),
- ('Cultivate your Compassionate Self', 'building the inner voice that sees you the way a good friend would'),
- ('Two-Chair dialogue: compassionate self \u2194 vulnerable self (solo-adapted)', 'letting the strong voice and the hurt one talk, in writing'),
+ ('Self-as-context', 'when caught in a self-story, shifting attention from the story to the one who notices the story'),
+ ('The observer question', 'the periodic question \u201cwho is noticing?\u201d, aimed at interrupting identification with thought'),
+ ('Identity flexibility audit', 'listing the roles you identify with and asking whether each is a process you live or a box you defend'),
+ ('Narrative reconstruction', 'rewriting one fixed, painful sentence of your self-narrative in the direction of growth without denying the facts'),
+ ('Self-complexity mapping', 'charting your self-aspects so that no single failure can speak for the whole'),
+ ('Ego dissolution practice', 'letting the boundary between self and world soften, in meditation or in nature, without forcing it'),
+ ('Self-compassion practice', 'the hand-on-chest practice: naming the moment of suffering as part of life and treating yourself as you would a good friend'),
+ ('Narrative redemption', 'rewriting a hard chapter toward what it grew or made possible, with the pain kept in view'),
+ ('Self-monitoring', 'tracking a target behaviour without trying to change it; the recording itself often shifts it'),
+ ('Motivational interviewing (self-directed)', 'borrowing the interviewer\u2019s chair and sitting in it yourself when ambivalent about a change'),
+ ('Self-distanced reflection', 'writing about a difficult situation in the third person, the linguistic shift that creates psychological distance'),
+ ('Future-self dialogue', 'a letter from your future self, ten years out, about the decision you are facing'),
+ ('Identity script revision', 'rewriting one fixed, limiting sentence of your self-narrative in the direction of growth, without denial'),
+ ('The witness practice', 'telling someone a story from your week and having them tell it back, to see what a listener keeps, drops and reweights'),
+ ('Cultivate your Compassionate Self', 'imagining yourself as a highly compassionate person and practising that role\u2019s posture, voice and ways of thinking'),
+ ('Two-Chair dialogue: compassionate self \u2194 vulnerable self (solo-adapted)', 'a spoken dialogue between the vulnerable chair and the compassionate chair, facing each other'),
 ]
 
 md = []

@@ -41,10 +41,12 @@ abstract; quoted passage checked", "Further reading; not assessed".
 
 ## Dossiers
 
-1. [The Self](the-self.md) — the exemplar, rebuilt to the v2 exhaustive
-   standard (owner direction 2026-10-24): a map of every self-bearing entry
-   grouped by question, with a sticky side table of contents and a
-   Variation-Selection(+Retention) practice section. Evidence record:
+1. [The Self](the-self.md) — the v2 exemplar, rebuilt 2026-10-23 to the
+   exhaustive standard: 140 concept entries + 16 practice kernels mapped
+   across ten subthemes plus the classical sayings and the wiki's own Self
+   shelves, two divergences, Variation-Selection-Retention practice section.
+   The v1 narrow version is superseded (history in the git log); its verified
+   quotes and further-reading material were carried into v2. Evidence record:
    [sources/dossiers/the-self.md](../sources/dossiers/the-self.md),
    revision 4.1 (v2 addendum).
 
@@ -91,9 +93,10 @@ retired; their material will resurface inside the topical dossiers above.
 Dossiers stage in this folder, in the wiki's card-link format so every entry
 is one click from the live site. The owner's stated destination is the
 Academy, as a Dossiers view beside MORE VIDEOS and DISCOVERY. That view is
-wired in this pass (site/assets/app.js, window.fcDossiersData + renderers)
-and verified live in a browser on the Pages deploy: tab, grid, detail,
-quotes with attributions, card links opening wiki cards, back
-navigation. The markdown of record for each dossier stays in this folder,
-and the view's data is a manually maintained transcription of it, updated
-when the markdown changes.
+wired (site/assets/app.js, window.fcDossiersData + renderers) and verified
+live in a browser on the Pages deploy: tab, grid, detail, quotes with
+attributions, card links opening wiki cards, back navigation. The markdown of
+record for each dossier stays in this folder; the view's data is generated
+from the markdown by scripts/dossier_build.py (deterministic conversion,
+re-run whenever the markdown changes), and the detail view carries a sticky
+side table of contents built from the headers.
