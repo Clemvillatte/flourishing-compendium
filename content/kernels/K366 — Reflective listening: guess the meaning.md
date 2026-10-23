@@ -16,6 +16,29 @@ The move is small — a possible extension of what they said, not a big leap. Yo
 
 Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 4 (Engaging), pp. 57–58, and ch. 8 (Deeper Listening), p. 143.
 
+### Protocol
+
+1. Wait for a statement that carries feeling or unfinished business under its words.
+2. Form a silent hypothesis about the meaning underneath: not the topic, the point of mentioning it now.
+3. Offer the hypothesis as a statement, in roughly the speaker's register: "Like you don't have much energy."
+4. Hold the guess lightly. If they correct you, the correction tells you where the meaning actually sits; offer the next guess from there.
+
+### Evidence
+
+The skill is a core clinical method in motivational interviewing. In the authors' own words, from the third edition:
+
+> "A complex reflection adds some meaning or emphasis to what the person has said, making a guess about the unspoken content or what might come next (continuing the paragraph)."
+> — [Miller & Rollnick, *Motivational Interviewing* (3rd ed., 2012), archive.org full text](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
+
+The book's name for the move:
+
+> "In essence, the interviewer is venturing what might be the next sentence in the person’s paragraph instead of merely echoing the last one. This is a skillful form of reflection that we call continuing the paragraph."
+> — [same carrier](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
+
+The same chapter warns against the failure mode the intro describes: leaning on simple reflections, staying too close to exactly what the person said, tends to leave the conversation going in circles.
+
+What the sources do not test: the research base is for clinician-delivered motivational interviewing; this everyday, self-directed use of the move has not been directly evaluated.
+
 ## Operationalises
 
 - [[D082 — Don't impose your frame on others|D082 Don't impose your frame on others]] — **grounding**: guessing at the meaning is how you avoid installing your own frame.
@@ -25,3 +48,19 @@ Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 4 (En
 ## Psychology parallels
 
 - Complex reflections are a core clinical MI skill; the research base is for clinician-delivered MI, and this self-use adaptation has not been directly tested (indirect evidence).
+
+## Related concepts
+
+- [[Active listening]] — the broader listening family the reflection belongs to.
+- [[Deep listening]] — the receptive ground the guess grows from.
+- [[Empathy]] — what an accurate guess communicates.
+
+## Related kernels
+
+- [[K207 — Deep listening]]
+- [[K218 — Perspective-getting]]
+- [[K402 — Listen to the storyteller for thirty seconds]]
+
+## Sources
+
+- [Miller, W. R. & Rollnick, S. (2012). *Motivational Interviewing: Helping People Change* (3rd ed.). Guilford Press — archive.org full text](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/)
