@@ -19,6 +19,9 @@ Nisbett and Wilson describe cases in which participants were unaware of a stimul
 
 — Nisbett & Wilson (1977), abstract, ([MIT-hosted full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf))
 
+Their evidence: in a pair of consumer-survey studies, passersby chose among four different nightgowns or four identical pairs of nylon stockings, and the right-most article in the array was heavily overchosen; for the stockings the right-most pair beat the left-most by almost four to one. When asked why they had chosen, not one participant brought up the article's position on their own, and asked about position directly, virtually all denied any such effect, "usually with a worried glance at the interviewer suggesting that they felt either that they had misunderstood the question or were dealing with a madman" (Nisbett & Wilson 1977, pp. 243-244, [full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf)).
+
+The reports people give are not random noise, and the authors are careful about why the illusion survives. In their anecdote, an acquaintance asked how he had just retrieved his mother's maiden name said "I know just what the process was," and described first thinking of his uncle's last name, which happened to be the maiden name; Nisbett and Wilson read this as a report of an intermediate result, not of the process that produced it (p. 256, [full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf)). They grant that private access to such content sometimes lets a person name the causes of their behavior better than an observer could, and argue that these occasional wins are what sustain the feeling of privileged access to process (p. 256).
 
 ### In the compendium
 
