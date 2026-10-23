@@ -48,6 +48,11 @@ abstract; quoted passage checked", "Further reading; not assessed".
    [sources/dossiers/the-self.md](../sources/dossiers/the-self.md),
    revision 4.1 (v2 addendum).
 
+2. [Anger](anger.md) — the second dossier in the v2 format, built to the
+   same standard (owner named Anger as the format illustration). Evidence
+   record: [sources/dossiers/anger.md](../sources/dossiers/anger.md),
+   revision 1.
+
 ## Proposed next dossiers (v2, per owner direction 2026-10-24)
 
 Clear, single-topic commonplace books:
