@@ -7,15 +7,26 @@ file: "The lived body"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The lived body (Leib) is the body as it is lived from within — the body of first-person experience — as distinct from the objective body (Körper), the body of anatomy and measurement ([Stanford Encyclopedia of Philosophy, "Maurice Merleau-Ponty"](https://plato.stanford.edu/entries/merleau-ponty/); [Wikipedia, "Leib"](https://en.wikipedia.org/wiki/Leib)). The term comes from Husserl and was made central by Merleau-Ponty: the body is not primarily an object I have but the subject I am — "being-toward-the-world," the medium through which I perceive and act.
+The lived body is the body as experienced from within: the body one is, not only the body one has. The phenomenological tradition marks the difference with two German words. The Stanford Encyclopedia of Philosophy puts Husserl's distinction this way: "It is necessary to distinguish the body as it is subjectively lived through (Leib), and the body as an object among others (Körper)" ([SEP, Husserl](https://plato.stanford.edu/entries/husserl/)). The second kind of awareness, it adds, depends on the first.
 
-The mechanism: perception and skill run through the body without being represented by it. The lived body carries a situational spatiality — "up" and "down" are built into its posture, not calculated by it — which is why tools become extensions of it (the blind man's cane is not in his world but *is* his touch), and why the body is experienced as the "I can" of every action rather than as a thing operated. Its compendium practices are the somatic disciplines: [[E013 — Practise the lived body (Leib)]] and [[P143 — Think with the whole body — the body is not a machine]].
+### Merleau-Ponty's account
 
-The distinction to hold: Leib and Körper are not two bodies but two stances toward one. Illness, pain, and examination make the lived body fall into the objective body; skillful absorption returns it to being subject. The error to avoid is treating the body as a machine one pilots — the drone-operator fantasy that experience happens somewhere behind the eyes.
+Maurice Merleau-Ponty made the lived body central in the Phenomenology of Perception. The SEP summarises his claim: the body's typical mode of existence is "being-toward-the-world", described as "a pre-objective orientation toward a vital situation that is explicable neither in terms of third-person causal interactions nor by explicit judgments or representations" ([SEP, Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)). Two features follow. The present body is characterised, after Husserl, as an "I can", and the habit body is made of "the sedimentations of past activities that take on a general, anonymous, and autonomous character". The body also has "a situational spatiality that is oriented toward actual or possible tasks", resting on what he calls the "body schema". The case of Schneider, a brain-injured patient, brings this into view: his injury disrupts the ability to "project" into virtual space.
 
-An example at its smallest: walking without a destination — gait, ground, and breath felt from the inside, the body as doer rather than vehicle.
+### The body is not an instrument to pilot
 
-Its contemplative cognates are [[Interoceptive awareness]] (the inside view made deliberate) and the body-scan family of practices; its compendium stories are the case studies of [[ST264]] and [[ST265]].
+The SEP notes that the body is experienced in ways unlike any other thing: it is always part of the perceptual field, though never fully available to perception, and it has "double sensations", such as when one hand touches the other. Skill and habit work through this lived body without being represented as a set of commands. Compare an arm that has gone numb: it is suddenly a thing among things. In ordinary skilled action it is just the "I can".
+
+### What it is not
+
+Leib and Körper are not two bodies but two ways of relating to one. The same body can be examined, measured and treated as an object, and lived. Pain or illness often pushes the body towards being a thing. Skilled absorption returns it to being subject.
+
+### In the compendium
+
+- [[E013 — Practise the lived body (Leib)]] and [[P143 — Think with the whole body — the body is not a machine]] — the somatic practices that follow from it
+- [[B040 — Know the body (body contemplation)]], [[B189 — Ground in the body]] and [[AT050 — Learn body scan — systematic attention through the body]] — Buddhist and attentional body practices, offered as parallels
+- [[ST264]] and [[ST265]] — two stories about living in the body under severe constraint (Bauby, Christy Brown)
+- [[Interoceptive awareness]], [[PP075 — Move the body]] and [[BE046 — Learn to use the body to regulate emotion — posture, breath, movement]] — the psychology of using the body
 
 ## Facets
 
@@ -28,6 +39,8 @@ Its contemplative cognates are [[Interoceptive awareness]] (the inside view made
 
 ## Sources
 
+- [Stanford Encyclopedia of Philosophy, Edmund Husserl](https://plato.stanford.edu/entries/husserl/) — the Leib and Körper distinction
+- [Stanford Encyclopedia of Philosophy, Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/) — being-toward-the-world, the "I can" and the body schema
 - Husserl, Ideas II
 - Merleau-Ponty
 - Merleau-Ponty, Phenomenology of Perception
