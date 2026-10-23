@@ -35,6 +35,10 @@ Aristotle names liberality the mean with regard to giving and taking wealth. The
 - Laozi, Daodejing 44.
 - Fromm, To Have or To Be?
 
+## Related concepts
+
+- [[T012 — Laozi]]: Daodejing 44's knowing-enough, the measure of giving
+
 ## Sources
 
 - [NicEth IV.1, English rendering hosted by Boston University](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm)
