@@ -30,7 +30,7 @@ And the genuineness rule:
 > "affirming should be genuine; it should prize what actually is true about the person."
 > — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
-The simple versus complex distinction itself belongs to the fourth edition. Its own text, verified against an opened carrier:
+The simple versus complex distinction itself belongs to the fourth edition, in its own text:
 
 > "A simple affirmation comments on something specific that the person has done or said: 'You said that well.' 'You somehow knew what to do and you went ahead and did it.' 'You saw the warning signs and took action.' 'What a kind thing to do!' Such simple affirmations are relatively easy, though if overused they can sound disingenuous."
 > — [Miller & Rollnick, Motivational Interviewing (4th ed., 2023), ch. 4 — text carried on Scribd](https://www.scribd.com/document/759368772/Motivational-Interviewing-Helping-People-Change-and-Grow-4th-Edition-William-R-Miller-Stephen-Rollnick-Z-Library)
