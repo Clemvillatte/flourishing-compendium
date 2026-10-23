@@ -17,6 +17,10 @@ Iser summarises three dimensions of recognition through Honneth's account: love,
 
 Iser traces mutual recognition through Fichte and Hegel. His account presents Hegel's master–slave encounter as a failure to achieve mutual recognition, and connects Hegel's later treatment of love, contractual respect and solidarity with social freedom. The entry describes a recognition-based approach to justice centred on people's standing in relation to others.
 
+### Why misrecognition leads to struggle
+
+The entry summarises the tradition's hinge between harm and politics: as experiences of misrecognition violate the identity of subjects, the affected are particularly motivated to stand up against such violations, to engage in a "struggle for recognition" ([Iser, SEP entry on Recognition](https://plato.stanford.edu/entries/recognition/)). The tradition's politics grows out of that mechanism: violations of standing produce resistance.
+
 ### In the compendium
 
 - [[R104 — Practise recognition]] — the direct principle, quoting the entry's practical-identity and misrecognition passages.

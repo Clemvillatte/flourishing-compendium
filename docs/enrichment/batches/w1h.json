@@ -60,7 +60,6 @@
   "Psychological needs theory",
   "Psychological resilience theory Bonanno",
   "Psychological well-being",
-  "Recognition",
   "Relapse prevention protocols",
   "Relational cultural theory Miller",
   "Relational humility",
@@ -70,7 +69,8 @@
   "Self-concordance theory",
   "Curiosity",
   "Non-attachment",
-  "Expressive suppression versus reappraisal"
+  "Expressive suppression versus reappraisal",
+  "Recognition"
  ],
  "in_progress": null,
  "flagged": {
@@ -125,10 +125,11 @@
   "Optimal experience": "Reopened for QC: milestone QC round 2: optimal-experience bridge sentence added",
   "PERMA model": "Reopened for QC: milestone QC round 2: Flourish title claim removed, prose link added",
   "Relational cultural theory Miller": "fast-track enriched; title is garbled seed label (should be Relational-cultural theory) - rename needs supervisor; sources: Jordan 2024 APA sample pages (opened)",
-  "Righteous indignation (nemesis)": "seed cite NE IV.9 is wrong (IV.9 = shame); nemesis mean is NE II.7 (Ross, MIT Classics) + Rhetoric II.9; Aquinas II-II.158 is about anger, not nemesis; page states this"
+  "Righteous indignation (nemesis)": "seed cite NE IV.9 is wrong (IV.9 = shame); nemesis mean is NE II.7 (Ross, MIT Classics) + Rhetoric II.9; Aquinas II-II.158 is about anger, not nemesis; page states this",
+  "Recognition": "Reopened for QC: prose 136<150 at canonical degree 19; misrecognition-struggle section added from the opened SEP Recognition entry"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:22:54+00:00",
+ "updated": "2026-10-23T14:23:07+00:00",
  "band_done": false
 }
