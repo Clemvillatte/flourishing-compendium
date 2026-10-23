@@ -77,3 +77,12 @@ Independent advisor read_only_daoist_principle_qc_mvkkitzm freshly opened Legge 
 - Plain words does not prescribe a rate or depth and permits returning to the ordinary task. The attention example varies a breath cue and an external sound, compares return to the interview task without forcing breath, and retains the gentler cue or neither.
 - Read Slow-paced breathing in full and ran tender-babe mention search; existing D143 backlink present, no new reciprocal. Opened Zaccaro's review for the modern controlled-breathing parallel: https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/ (relevant sections available before fetch truncation); added bibliography entry rather than treating that rate-controlled research as proof of an infant-breathing method.
 - Existing Balban attribution and reflections preserved; Balban's particular vagal-tone attribution not certified by this repair.
+
+## D145
+
+- Reopened with enrich_state.py. Checked Neiye VIII and XV and Roth's commentary connecting their jing/qi relationship in the opened full text: https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt.
+- Retained the exact unambiguous XV lines 1–3, replacing editorial slash markers with verse line breaks. Checked those lines in both translation and commentary; no silent OCR emendation.
+- Replaced repeated conservation gloss with the text's reciprocal generation/wellspring account. The modern routine exercise explicitly does not measure jing.
+- Example compares usual and less-full evenings, records next-morning experience, repeats comparison and retains a helpful workable adjustment; attention dimension named.
+- Read Yangsheng and Allostatic load in full. Both already backlink D145. Ran wellspring mention search. Opened McEwen's actual review and added bibliography entry: https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/mcewen_njm_1998.pdf. Its allostatic-load framework is a modern parallel, not a validation or measurement of jing.
+- Original links, parallel and reflections preserved.
