@@ -42,3 +42,4 @@ What you look at becomes what you remember, and what you remember becomes what y
 ## Related concepts
 
 - [[AT012]] — listed for comparison
+- [[T013 — Seneca]] — the Letters' gratitude, attention turned toward what grows
