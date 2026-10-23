@@ -17,11 +17,11 @@ Hayes received his B.A. in psychology from Loyola Marymount University and his M
 
 ## Their why
 
-Hayes's psychotherapy program begins from a philosophical position rather than a clinical one: functional contextualism, "a type of psychological pragmatism that extends Skinner's radical behaviorism" ([Hayes, Pistorello and Levin 2012, p. 979](https://www.apa.org/education-career/ce/acceptance-commitment.pdf)). The Behavior Therapy review that frames the model puts the analytic goal as "the prediction-and-influence of psychological events" (same source). Therapy, on this view, is not about correcting the content of thought; it is about changing the workability of behaviour relative to a stated goal.
+Hayes's psychotherapy program begins from a philosophical position rather than a clinical one: functional contextualism, the behavior-analytic philosophy of science that underlies Acceptance and Commitment Therapy. Therapy, on this view, is not about correcting the content of thought; it is about changing the workability of behaviour relative to a stated goal.
 
 ## Their position
 
-ACT, the clinical application, is built around psychological flexibility rather than symptom removal. The Behavior Therapy review that frames it puts the goal as "the prediction-and-influence of psychological events" and treats chosen values as the necessary precursor to assessing workability. RFT, the research program under the clinical one, gives an account of human language and higher cognition as learned, arbitrarily applicable relational responding. Hayes is also a co-developer of process-based therapy, an idiographic approach that combines insights from evolution theory and complex network theory to target the processes underlying effective treatments ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)).
+ACT, the clinical application, is built around psychological flexibility rather than symptom removal. RFT, the research program under the clinical one, gives an account of human language and higher cognition as learned, arbitrarily applicable relational responding. Hayes is also a co-developer of process-based therapy, an idiographic approach that combines insights from evolution theory and complex network theory to target the processes underlying effective treatments ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)).
 
 ## Core ideas
 
@@ -43,5 +43,4 @@ ACT, the clinical application, is built around psychological flexibility rather 
 ## Sources
 
 - [Wikipedia, "Steven C. Hayes"](https://en.wikipedia.org/wiki/Steven_C._Hayes) — the biographical spine: birth year, education, appointments, the ACT and RFT research tallies, process-based therapy description, book list.
-- [Hayes, Pistorello and Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 2012, p. 979 (APA-hosted PDF)](https://www.apa.org/education-career/ce/acceptance-commitment.pdf) — the functional-contextualism definition quoted verbatim (already opened and cited on the compendium's Functional contextualism page).
-- [ACBS, "Philosophical roots"](https://contextualscience.org/book/export/html/839) — the values-as-precursor-to-workability claim (already opened on the Functional contextualism page).
+- [Hayes, Pistorello and Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 2012, p. 979 (APA-hosted PDF)](https://www.apa.org/education-career/ce/acceptance-commitment.pdf) — the functional-contextualism definition carried from the compendium's Functional contextualism page; not quoted on this page.
