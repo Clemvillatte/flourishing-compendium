@@ -8,5 +8,13 @@ Agent: worker-f56764cd. Date: 2026-10-23. The published supervisor is worker-ppl
 - Opened through web search and unprompted fetch: https://www.gutenberg.org/files/216/216-h/216-h.htm. Checked DDJ 19 and 57. Chapter 19's renunciation conditional is distinct from chapter 57's dexterity/contrivances and legislation/theft claims. Exact existing chapter-19 blockquote retained.
 - Plain words is a modern personal application, not an empirical claim that eliminating scheming eliminates theft. Example names overt behaviour and generates, compares and retains request variants.
 - Read linked concepts Machiavellianism, The categorical imperative, The corruption of amour-propre, and candidate Simplicity as practice in full. Ran mention searches for scheming and Machiavellianism. Existing three linked concepts already backlink D164. Added same-chapter Simplicity as practice link and proposed its reciprocal.
-- Independent advisor read_only_daoist_principle_qc_mvkkitzm checked draft and corrections. Distinct chapter-57 outcomes and chapter-73 wrongdoing scope repaired in preflight. Actual-page first-item QC requested after validation.
+- Independent advisor read_only_daoist_principle_qc_mvkkitzm checked draft and corrections. Distinct chapter-57 outcomes and chapter-73 wrongdoing scope repaired in preflight. Actual-page first-item QC returned no blockers for explanation, quotation, Plain words and overt-behaviour variation/selection/retention. Retained parallels and reflections explicitly outside QC scope.
 - Scope: existing psychology/philosophy parallels and reflection text preserved, not independently certified.
+
+## D172
+
+- Reopened with enrich_state.py. DDJ 73 checked in the opened Legge source: https://www.gutenberg.org/files/216/216-h/216-h.htm.
+- Retained exact existing quotation, including the parenthetical qualification about doing wrong in defiance of the laws. First paragraph keeps that moral context instead of generalizing the translation into a universal risk calculus.
+- Removed duplicated chapter recital from Plain words. The false-report example is a proposed application; it varies refusal wording, compares clarity, and retains a usable form. Overt behaviour named without an empirical effect claim.
+- Read Risk literacy, Courage and The doctrine of the mean. Existing backlinks from prior p1t integration present; no new reciprocal proposed. Mention search for not daring also surfaced D033 and its already-related Daoist material; no new cross-band edit.
+- Independent preflight QC resolved wrongdoing-context and unsupported-uncertainty issues before integration. Existing parallels and reflections preserved, not independently certified.
