@@ -3623,11 +3623,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Rectify the self before others](card:Rectify%20the%20self%20before%20others) — None"
+          "x": "[Rectify the self before others](card:Rectify%20the%20self%20before%20others) — Confucius, Analects 13.6: order in one's own person comes before order in the world."
         },
         {
           "t": "p",
-          "x": "[Rectify the self, then the family, then the state](card:Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state) — None"
+          "x": "[Rectify the self, then the family, then the state](card:Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state) — the Great Learning's sequence of rectification, moving outward from the self."
         },
         {
           "t": "h2",

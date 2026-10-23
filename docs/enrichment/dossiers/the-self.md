@@ -340,9 +340,9 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 ### Working on the self, in the classical sayings
 
-[Rectify the self before others](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%20before%20others) — None
+[Rectify the self before others](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%20before%20others) — Confucius, Analects 13.6: order in one's own person comes before order in the world.
 
-[Rectify the self, then the family, then the state](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state) — None
+[Rectify the self, then the family, then the state](https://clemvillatte.github.io/flourishing-compendium/#card=Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state) — the Great Learning's sequence of rectification, moving outward from the self.
 
 
 ### The wiki’s own shelves on the self
