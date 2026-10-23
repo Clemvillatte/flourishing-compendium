@@ -28,6 +28,10 @@ Plan a regular reset, in the body, the home or a relationship, instead of waitin
 **For example**
 Pick one reset for each scale: a ten-minute tidy at the end of each day, a monthly clear-out of one cupboard, and a yearly honest conversation with a partner or friend. Put them in the calendar now.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the nightly audit from De Ira III the page carries as cross-tradition echo.
+
 ## Sources
 
 - [First Medicine, chapter 11, OUP](https://academic.oup.com/book/44925/chapter/384843056?guestAccessKey=)

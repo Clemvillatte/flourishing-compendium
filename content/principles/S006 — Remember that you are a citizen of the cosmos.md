@@ -24,6 +24,10 @@ Epictetus makes the duty explicit: "you are a citizen of the world, and a part o
 
 *For example:* Giving a seat to a stranger and also taking an interest in what a distant war does to ordinary people are the same habit at two sizes.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters 28 and 44 citations the page carries.
+
 ## Sources
 
 - [Meditations IV.4, trans. Meric Casaubon (1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm) — translator verified on the edition's notes page (the text is Casaubon's 1634 translation; George Long's 1862 version is listed only as a related credit)

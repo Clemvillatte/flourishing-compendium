@@ -26,6 +26,10 @@ Time being finite is what makes choosing matter. If you had forever, postponing 
 *For example:*
 Imagine the week after a health scare: the pointless meetings are cancelled and the trip is booked. The scare did not add time; it re-read the calendar. On the compendium's reading that re-reading is available without the scare.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the treatise on the shortness of life the page opens with, refusing the complaint.
+
 ## Sources
 
 - [Seneca, On the Shortness of Life (Aubrey Stewart, trans.), in Minor Dialogues, Project Gutenberg](https://www.gutenberg.org/ebooks/64576)

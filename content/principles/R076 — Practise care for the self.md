@@ -22,6 +22,10 @@ The caution comes from Maslach and Leiter (2016). They define burnout as "a psyc
 
 *For example:* A carer takes the offered respite weekend. She also asks the agency to share the night shifts, because rest alone will not fix the load.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the care-of-the-self teaching (On the Shortness of Life) the page lists beside Foucault.
+
 ## Sources
 
 - [Neff (2003) as quoted in Self-Compassion, Stress, and Coping, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2914331/)

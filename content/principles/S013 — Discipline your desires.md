@@ -22,6 +22,10 @@ Train yourself to want only what is within your control — acting well. Epictet
 
 *For example:* Hoping for a particular reply from a friend makes the wait unbearable. Wanting to write a kind message makes it done once you've sent it.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Seneca Writes to His Mother story (ST194) the page carries.
+
 ## Stories
 
 - [[ST194 — Seneca Writes to His Mother|194. Seneca Writes to His Mother]]

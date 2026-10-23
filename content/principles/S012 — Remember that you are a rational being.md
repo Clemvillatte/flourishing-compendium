@@ -24,6 +24,10 @@ On Epictetus's account, reason is not one tool among many: it is the faculty tha
 
 *For example:* Choosing to count to ten and think before sending the angry email is reason doing its job.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters 41 and 76 citations the page carries.
+
 ## Sources
 
 - [Epictetus, Discourses I.1, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html) — the self-examining rational faculty

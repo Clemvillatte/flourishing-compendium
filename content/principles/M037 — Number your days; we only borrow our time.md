@@ -23,6 +23,10 @@ The old songs do arithmetic with your life: jade breaks, gold wears out, feather
 
 *For example:* A calendar review at the start of a month: pick the thing most often postponed and decide whether it gets a slot.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the memento mori teaching (Letters 101) the page lists.
+
 ## Sources
 
 - Cantares mexicanos, fol. 17r (trans. León-Portilla 1992:80), as quoted in [James Maffie, "Aztec Philosophy", Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/)

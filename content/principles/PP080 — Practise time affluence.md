@@ -30,6 +30,10 @@ People who prefer time to money report being happier, but that is a correlation.
 **For example**
 Spend a small, fixed sum on a task you dislike, such as delivered groceries or a cleaner, and note your mood that evening.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the On the Shortness of Life source the page lists.
+
 ## Sources
 
 - [Whillans, Weidman and Dunn 2016, Valuing Time Over Money Is Associated With Greater Happiness (HBS)](https://www.hbs.edu/faculty/Pages/item.aspx?num=52948)

@@ -26,6 +26,10 @@ Berscheid (1994) and Mikulincer et al. (2005) are cited as unopened leads. The d
 
 *For example:* A daughter drives her father to every appointment. When he refuses a treatment she thinks is wrong, she says so once, kindly, and keeps driving.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the gratitude teaching (On Benefits) the page lists.
+
 ## Sources
 
 - [Analects 1 and 2, Legge translation, Chinese Text Project](https://ctext.org/analects/xue-er/ens) and [Wei Zheng](https://ctext.org/analects/wei-zheng/ens)

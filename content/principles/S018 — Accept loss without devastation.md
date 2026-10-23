@@ -22,6 +22,10 @@ The same teaching as a banquet: "Suppose that it passes by you. Do not detain it
 
 *For example:* When a friend moves abroad, the practice is to hold both missing her and being grateful she was in your life.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Seneca Writes to His Mother story (ST194) the page carries.
+
 ## Stories
 
 - [[ST194 — Seneca Writes to His Mother|194. Seneca Writes to His Mother]]

@@ -21,6 +21,10 @@ Nahua poets faced death plainly: we are mortal, and we will be erased like a pai
 
 *For example:* A grandfather uses his last good year to record passwords, stories and a map of where things are kept, so that the family's grief is not doubled by confusion.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the memento mori teaching (Letters 101) the page lists.
+
 ## Sources
 
 - [León-Portilla, M. (1995), The indigenous voices of Mexico, Voices of Mexico (UNAM)](http://www.revistascisan.unam.mx/Voices/pdfs/3010.pdf)

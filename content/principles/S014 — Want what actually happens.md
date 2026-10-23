@@ -36,6 +36,10 @@ Marcus gives the cosmology behind it:
 
 *For example:* Rain on your wedding day. Wanting dry weather ruins it. Wanting this day, rained on, saves it.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the On Providence citation the page carries.
+
 ## Sources
 
 - [Epictetus, Enchiridion 8 (tr. Higginson), Project Gutenberg](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm): the demand and the wish

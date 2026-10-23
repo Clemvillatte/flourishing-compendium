@@ -25,6 +25,10 @@ Your behavior is welded to your surroundings. Willpower works against everything
 
 *For example:* The jogger who wants to run but owns no shoes and sleeps badly has three places to work: the wanting, the couch habit, the shoes and the sleep. Dewey's point is that the third is a legitimate place to start, not a confession of weak will.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Seneca on Crowds story (ST218) the page carries.
+
 ## Stories
 
 - [[ST001 — Cook Ding and the Ox|1. Cook Ding and the Ox]]

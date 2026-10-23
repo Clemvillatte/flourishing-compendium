@@ -25,6 +25,10 @@ For the compendium's exercise, choose one idea you have studied and identify a s
 
 *For example:* Imagine a waiter bringing the wrong order. Before speaking, you recall the response you intended to practise and decide how to ask for the correction.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters 16 and 71 citations the page carries.
+
 ## Sources
 
 - [Epictetus, Delphi Complete Works (Discourses IV.8, George Long translation, owner's Drive copy)](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)

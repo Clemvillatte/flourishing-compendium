@@ -26,6 +26,10 @@ Mayer and Frantz's five studies assessed the validity and reliability of the con
 
 *For example:* Imagine a family naming the plants, rain and people involved in their meal, then discussing how much food to serve.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the gratitude teaching (On Benefits) the page lists.
+
 ## Sources
 
 - [Practical Reverence: An Interview with Robin Wall Kimmerer, Emergence Magazine](https://emergencemagazine.org/conversation/practical-reverence/)

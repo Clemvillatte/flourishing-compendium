@@ -24,6 +24,10 @@ Picturing success alone can leave you feeling you've already arrived. Picture th
 **For example**
 "I'll finish the degree" becomes "I'll finish the degree, the obstacle is Thursday exhaustion, and on Thursdays I study at the café after work."
 
+## Related concepts
+
+- [[T013 — Seneca]]: the premeditatio malorum teaching (Letters) the page lists.
+
 ## Sources
 
 - [Oettingen and Mayer, The motivating function of thinking about the future: expectations versus fantasies, JPSP 83(5) (2002), 1198-1212, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/12416922/): abstract only
