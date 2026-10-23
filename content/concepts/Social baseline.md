@@ -32,11 +32,11 @@ The authors flag the status of their own claims: "some of the specific ideas dis
 
 ## Related concepts
 
-- [[Connectedness in well-being research]] — listed for comparison
-- [[Co-regulation of affect in relationships]] — listed for comparison
+- [[Connectedness in well-being research]] — the well-being-side evidence for the same social default
+- [[Co-regulation of affect in relationships]] — the relational mechanism the baseline presupposes
 - [[Attachment theory]] — SBT is presented as related to it and distinct in mechanism
-- [[Loneliness]] — listed for comparison
-- [[Social support theory Cohen Wills]] — listed for comparison
+- [[Loneliness]] — what absence of the social baseline feels like
+- [[Social support theory Cohen Wills]] — the buffering account of what others supply
 
 ## Sources
 

@@ -30,12 +30,12 @@ In the "Memorial Address" of 1955 Heidegger brings the same disposition to techn
 ### In the compendium
 
 - [[E102 — Practise Gelassenheit (releasement)]] — the dedicated principle: cultivate the letting-be of things as an active release of the grip of willing, controlling and possessing.
-- [[D055 — Don't force]] — the Daoist principle on not forcing (DDJ 29, 64); its parallels list names Gelassenheit.
-- [[D099 — Let things happen of themselves]] — the Daoist principle on letting things proceed of themselves; its parallels list names Gelassenheit.
-- [[D013 — Keep the valley-mind — low, open, receptive]] — the Daoist image of the receptive valley; its parallels list names Gelassenheit.
-- [[D046 — Practice fasting of the mind (xinzhai)]] and [[D047 — Practice sitting and forgetting (zuowang)]] — the Zhuangzian emptying practices; their parallels lists name Gelassenheit.
-- [[B044 — Just sit (zazen, shikantaza)]] and [[B060 — Practice without seeking]] — just sitting and practice without seeking; their parallels lists name Gelassenheit.
-- [[B090 — Don't suppress — observe kindly]] — observation without suppressing; its parallels list names Gelassenheit.
+- [[D055 — Don't force]] — the Daoist principle on not forcing (DDJ 29, 64).
+- [[D099 — Let things happen of themselves]] — the Daoist principle on letting things proceed of themselves.
+- [[D013 — Keep the valley-mind — low, open, receptive]] — the Daoist image of the receptive valley.
+- [[D046 — Practice fasting of the mind (xinzhai)]] and [[D047 — Practice sitting and forgetting (zuowang)]] — the Zhuangzian emptying practices.
+- [[B044 — Just sit (zazen, shikantaza)]] and [[B060 — Practice without seeking]] — just sitting and practice without seeking.
+- [[B090 — Don't suppress — observe kindly]] — observation without suppressing.
 
 ## Related concepts
 
