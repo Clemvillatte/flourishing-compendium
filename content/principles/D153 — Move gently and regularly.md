@@ -12,18 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 153** — Move gently and regularly
 
-The gentle half of this principle comes from the Daodejing. Chapter 76 reads a rule off the life cycle: man at his birth is supple and weak, at his death firm and strong; trees and plants in their early growth are soft and brittle, at their death dry and withered. The chapter concludes that softness and weakness are the concomitants of life, and that he who relies on the strength of his forces does not conquer. The regular half comes from the Neiye's practice instruction, to be firm and regular in the practice and hold fast to it. The yangsheng tradition also has a movement practice, daoyin; the Mawangdui Daoyin tu, dated 168 BC, shows forty-four figures in stretching and breathing postures.
+Daodejing 76 uses birth, growth and death to contrast pliancy with rigidity, giving the soft and weak the upper place. Neiye XVII contributes the instruction to be firm and regular in practice. Read together, they suggest a movement practice whose form stays gentle and whose occasion returns.
 
 ([[Yangsheng (cultivating vitality)|Yangsheng]] literature.)
 
 > "Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life." (DDJ 76, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium pairs chapter 76's imagery of softness with the Neiye's instruction to maintain a practice. It applies that pairing to gentle movement done regularly.
+That movement practice is an application of the pairing; the verses do not supply an exercise programme.
 
-**Plain words**
-For this modern application, choose a movement you can do without straining and a time you can reliably return to it. If the routine is too demanding to keep, simplify it.
+### Plain words
 
-*For example:* The compendium's experiment: pick the softest regular movement you would actually keep, a short daily walk, say, and try it for two weeks against your current routine.
+Choose a familiar movement and do it without rushing. Can you stop while it is still comfortable, rather than turning the session into a test of toughness? Leave yourself a clear occasion to return to it.
+
+### For example
+
+Compare a brief seated movement break with a short comfortable walk, where either is suitable for you. Notice which fits a work break without strain or disruption. Retain one feasible break in tomorrow's schedule, adapting as needed. This changes overt behaviour, not a target amount of exertion.
 
 ## Sources
 

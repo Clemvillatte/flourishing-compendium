@@ -121,3 +121,12 @@ D149's pre-existing [[Measure in all things]] target is missing from content/con
 - Example compares two times for an outdoor task against actual conditions, selects a workable time, and retains the habit of reviewing conditions; overt behaviour named.
 - Read Ziran (naturalness) in full and ran seasons mention search. Existing D151 backlink is present but its public rationale is procedural; flagged in reopen commit and left for supervisor. Chronobiology was also read; daily timing is not the same topic as monthly seasonal ordinances, so no decorative new link proposed.
 - Original psychology/philosophy links and reflections preserved; existing empirical parallels not independently certified.
+
+## D153
+
+- Reopened with enrich_state.py. Checked whole DDJ 76 in Legge and XVII's regularity instruction in Roth, both already opened sources: https://www.gutenberg.org/files/216/216-h/216-h.htm and https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt.
+- Exact existing DDJ 76 quotation retained. Removed peripheral artifact-dating trivia from the explanation, preserving the original source list and links.
+- Source images and modern movement application distinguished. Plain words does not prescribe an exercise dose or urge pushing through strain.
+- Example varies suitable seated movement and walking, selects a comfortable feasible break, and retains it the next day; overt behaviour named.
+- Read Movement snacks in full; existing D153 backlink present. Its cited trial is vigorous stair climbing, not a test of gentle Daoist movement; retained parallel is not presented as validation of this practice. Ran gentle-movement mention search; Yangsheng already read and linked. No new reciprocal.
+- Original parallel lines and reflections preserved, not independently certified.
