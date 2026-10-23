@@ -20,6 +20,7 @@ Mindfulness of breathing is the object the sutta names. The compendium draws an 
 - [[S135 — Practise one principle at a time]] — builds the practice advice on this ground: pick one idea and stay with it until it changes what you do, rather than moving to a new one every few days.
 
 ## Related concepts
+- [[T013 — Seneca]]: the Letter 2 practice the page draws on.
 
 - [[Anapanasati (mindfulness of breathing)]] — the classic single object of Buddhist practice, quoted above.
 - [[One koan]] — the Zen form of the same move: one assigned word, worked to the end.

@@ -23,6 +23,7 @@ Sara Algoe's find-remind-and-bind theory shifts the center from well-being to re
 The wiki's practices split along the same lines: attention practices (S084, AF063, AT021, PP013 with specificity), expression practices (BE055, S037 beneficence), relational and ecological extensions (R058 filial piety, R128 ecological gratitude), and kernels (K053 recognizing kindness received, B112 recognizing your conditions). The full principle list is below.
 
 ## Related concepts
+- [[T013 — Seneca]]: the account the page opens with, in his letters' terms.
 
 
 

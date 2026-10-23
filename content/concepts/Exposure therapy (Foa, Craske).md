@@ -35,6 +35,7 @@ Foa and McLean describe how emotional processing theory led to two protocols: pr
 - S121 (Seneca on voluntary discomfort) is a Stoic cousin, placed here as a parallel for reflection, not a claimed influence.
 
 ## Related concepts
+- [[T013 — Seneca]]: the S121 voluntary-discomfort cousin the page places beside exposure.
 
 
 

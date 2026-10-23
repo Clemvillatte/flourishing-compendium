@@ -31,6 +31,7 @@ The argument runs through finality and self-sufficiency. Honour, pleasure and vi
 - [[ST194 — Seneca Writes to His Mother]]
 
 ## Related concepts
+- [[T013 — Seneca]]: the ST194 story the page carries.
 
 - [[Eudaimonia]] — the concept the claim is about
 - [[Happiness as activity]] — Aristotle's answer to what happiness is, from the same book

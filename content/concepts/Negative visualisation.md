@@ -28,6 +28,7 @@ The near neighbour is premeditatio malorum, the premeditation of future ills, wh
 A parent looks at a child asleep and privately notes that this is a loan, not a possession. The thought is not morbid; it is the Enchiridion's own practice of holding death "daily before your eyes", so that neither the child nor the bath, the commute or the paycheck owns the mind's peace. When the small losses arrive, they meet a person who had already met them.
 
 ## Related concepts
+- [[T013 — Seneca]]: the mechanism the page states in the chapter before the quotation.
 
 - [[Premeditatio malorum]] — the premeditation of future ills, the close Stoic cousin of this exercise
 ## Sources

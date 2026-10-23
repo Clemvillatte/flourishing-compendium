@@ -32,6 +32,7 @@ The same author warns against the exercise's shadow. "There are more things, Luc
 - [[ST221 — The Premeditation of Evils]] — the story illustration.
 
 ## Related concepts
+- [[T013 — Seneca]]: the nothing-ought-to-be-unexpected passage the page quotes.
 
 - [[Negative visualisation]] — the modern cognitive name for the same practice
 - [[Amor fati]] — the sibling practice: loving what happens rather than rehearsing it

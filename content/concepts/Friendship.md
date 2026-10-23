@@ -19,6 +19,7 @@ The other kinds dissolve when their grounds shift: "when the motive which made t
 - Aristotle, Nicomachean Ethics VIII-IX
 - the tradition's own image
 ## Related concepts
+- [[T013 — Seneca]]: the S136 friendship-as-practice the page carries.
 
 
 

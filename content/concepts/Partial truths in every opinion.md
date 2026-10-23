@@ -20,6 +20,7 @@ Mill also says that "Popular opinions, on subjects not palpable to sense, are of
 Mill's claim is about opinions in public discussion, in the context of arguing against silencing dissent. The compendium's principles on holding views as tools or noticing that every view is from somewhere (B014, P034) apply a similar attitude to personal practice, but Mill was not writing about that, and this page does not claim he was.
 
 ## Related concepts
+- [[T013 — Seneca]]: the ST218 story the page carries.
 
 - [[Steelmanning the opposing view]] — the practice of building the other side's best case
 - [[Actively open-minded thinking]] — the thinking style that looks for the truth in other views

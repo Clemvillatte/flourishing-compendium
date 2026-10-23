@@ -22,6 +22,7 @@ Seneca's counsel for dealing with emotion is timing. An emotion is weak at the t
 - [[MO033 — Learn to use commitment devices — pre-commit to future behaviour]] — lists the concept among its philosophy parallels.
 
 ## Related concepts
+- [[T013 — Seneca]]: the Stoic source the page names.
 
 - [[Self-control training]] — the modern research on building the capacity Seneca trains
 - [[Temptation bundling (Milkman)]] — a commitment-adjacent technique from the same behavioral family

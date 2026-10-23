@@ -23,6 +23,7 @@ The tradition behind the construct is older and wider. Aquinas treats humility a
 - [[CO038 — Understand the better-than-average effect — you think you are above average]] — the bias humility's accurate self-assessment corrects
 
 ## Related concepts
+- [[T013 — Seneca]]: the Letters citation the page carries.
 
 
 - [[Narcissism versus healthy self-regard]] — the virtue on the healthy side of the distinction

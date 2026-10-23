@@ -16,6 +16,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 The entry describes the judgmentalists' response to these critiques: judgments understood as "enclosing a core desire" (Solomon), dynamic and able to "house…the disorderly motions of emotion" (the entry's citation of Nussbaum 2001: 45), available to infants and animals through pre-linguistic acceptance of how the world seems, and capable of being held jointly with contradictory judgments — which, on this theory, is how recalcitrance to reason is explained ([SEP, "Emotion", §5](https://plato.stanford.edu/entries/emotion/)).
 
 ## Sources
+- [[T013 — Seneca]]: the ST205 story the page carries.
 
 - [Nussbaum, M. (2001). Upheavals of Thought. Cambridge University Press — discussed in SEP, "Emotion"](https://plato.stanford.edu/entries/emotion/)
 - [Scarantino, A. & de Sousa, R., "Emotion", Stanford Encyclopedia of Philosophy (2018 revision)](https://plato.stanford.edu/entries/emotion/) — §5, the early evaluative tradition: emotions as judgments

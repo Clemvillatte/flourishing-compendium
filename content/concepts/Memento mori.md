@@ -44,6 +44,7 @@ One sentence written at the top of the day's plan, "this may be one of few remai
 Its Stoic sibling is [[Premeditatio malorum]] (adversity rehearsed instead of death) and its Buddhist one [[Impermanence]].
 
 ## Related concepts
+- [[T013 — Seneca]]: the practice the page opens with, in his letters' terms.
 
 - [[M013]] — the remembrance-of-death tradition and the flower-and-song elegies treat the same fact from two sides
 - [[Amor fati]] — loving the whole is what remembering the ending trains
