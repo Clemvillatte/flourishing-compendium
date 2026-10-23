@@ -13,6 +13,16 @@ Verum factum is Giambattista Vico's principle that the true and the made are one
 
 The principle stands behind Vico's break with Descartes: given that "the norm of the truth is to have made it" (DA, 52), Vico reasons that clear and distinct ideas cannot be the source of truth, since "the mind does not make itself as it gets to know itself" ([Costelloe, SEP](https://plato.stanford.edu/entries/vico/)).
 
+### From knowing to the human world
+
+Costelloe reports that Vico applies the principle to the human sciences. "Drawing on the verum factum principle first described in De Antiquissima", Vico argues against Cartesian philosophy "that full knowledge of any thing involves discovering how it came to be what it is as a product of human action", and he takes the "principal property" of human beings to be "of being social". The same entry reports where this leads: unveiling the falsehood in what has come down to us "leads to 'wisdom,' which is 'nothing but the science of making such use of things as their nature dictates'" (Element CXIV) ([Costelloe, SEP](https://plato.stanford.edu/entries/vico/)).
+
+For a writer on flourishing, the useful reading is that a way of life, an institution or a habit can be understood by asking how it was made and by whom. That reading is the compendium's application, not a claim from the SEP entry.
+
+### What it is not
+
+Verum factum is not the claim that anything one makes is true, and it does not make every belief a matter of preference. In the SEP's account it is a thesis about which kind of knowledge is fullest: knowledge of what is made, because the knower can trace how it was made. Vico contrasts human "abstraction" with "construction", which the SEP says is found "in God alone".
+
 ### In the compendium
 
 - [[P009 — Truth is made, not merely found]]
