@@ -77,7 +77,8 @@ an automatic rejection (an opened-carrier case can outweigh it).
 | Yoga (Wikipedia) | ahimsa, santosha, pranayama, pratyahara, samadhi | dharana (3); dhyana (5); satya (8, principle-only coverage). Metta is NOT an item of the opened eight-limb list (it belongs to the Buddhist cluster; moved there). The asana limb accounting is incomplete in this pass (disclosed). |
 | Buddhist (IEP Buddha) | four noble truths, eightfold path, dukkha, anicca, anatta, tanha, samsara, nirvana, dependent origination, skandha, three poisons, four immeasurables, mudita, karuna, upekkha | **satipatthana / four foundations of mindfulness (46, frozen revision — principle B039 and story ST069 exist, no concept or kernel page)**; avijjā as a named page (0) |
 | Daoist (IEP) | dao, de, wu wei, ziran, pu, yin-yang, qi, ten thousand things, sage | hundun (0); zhenren (0); he-as-harmony (0 direct) |
-| Kyoto/Tibetan (SEP) | absolute nothingness, pure experience, emptiness/shunyata, zazen (Shikantaza), koan practice, self as process | **metanoetics (7, frozen revision)**; **nihility (6, frozen revision)**; action-intuition (4); basho (1); satori (3); tonglen (2); self-power/other-power (1-2); rigpa (2) |
+| Tibetan (Wikipedia Tibetan Buddhism) | four noble truths, anatta, aggregates, emptiness, bodhicitta, compassion, vipassana (insight), tonglen-adjacent giving-and-receiving ideas inside other pages | **lojong mind training (31 — no page)**; **samatha / calm abiding (17 + 3)**; **mahamudra (14)**; **lamrim (11)**; tonglen (5); bardo (7); pāramitā (7); six perfections (3); dzogchen (1); rigpa (2); ngöndro, guru yoga, tummo, dream yoga, trikaya, five paths, mandala (0 — honest absences) |
+| Kyoto (SEP) | absolute nothingness, pure experience, emptiness/shunyata, zazen (Shikantaza), koan practice, self as process | metanoetics (7, frozen revision); nihility (6, frozen revision); action-intuition (4); basho (1); satori (3); self-power/other-power (1-2) |
 | Aristotelian (IEP) | eudaimonia, ergon, arete, the mean, phronesis, akrasia, habituation, friendship, self-love, contemplation | (no core item absent at corpus weight) |
 | Spinozist (IEP) | substance monism, conatus, affects, adequate ideas, three kinds of knowledge, bondage of desire, amor dei intellectualis, sub specie aeternitatis | common notions (2); active/passive affects as named pages (0); eternity of the mind (0) |
 | Pragmatist (SEP) | pragmatic maxim, inquiry, community of inquiry, fallibilism, habit, transaction, anti-representationalism | meliorism (0); warranted assertibility (0). The existing page is named 'Instrumental reason' and was NOT read this pass, so whether it covers Dewey's instrumentalism is unverified (disclosed). |
@@ -145,6 +146,10 @@ the Four immeasurables page exists).
 | 6 | Dharana / dhyana (Yoga Sutras limbs 6-7) | 3 / 5 mentions; limbs 4, 5 and 8 have pages | moderate: concentration as a trainable step toward meditation | plausible-lacking (weak) |
 | 7 | PERMA (Seligman's five-pillar flourishing model) | 16 prose mentions; the well-being pages exist but none presents PERMA (Wikipedia positive-psychology index opened) | very high: the mission's own flagship framework for genuine flourishing | verified-lacking as a dedicated page |
 | 8 | Subjective well-being (Diener's construct) | 45 prose mentions; The two-factor model of well-being mentions it only in passing; no dedicated page | high: the hedonic counterpart the wiki's eudaimonic pages need for balance | verified-lacking as a dedicated page |
+| 9 | Lojong (Tibetan mind training) | 31 prose mentions; no page; tonglen appears only inside other pages (5) | very high: the Tibetan curriculum for training the mind toward suffering's alleviation | verified-lacking as a dedicated page |
+| 10 | Samatha (calm abiding) | 17 + 3 prose mentions; Vipassana (insight) exists as its pair; no page | high: the concentration half of the classic samatha-vipassana pairing | verified-lacking as a dedicated page |
+| 11 | Mahamudra | 14 prose mentions; no page | moderate-high: direct experience of mind's nature | verified-lacking as a dedicated page |
+| 12 | Lamrim (stages of the path) | 11 prose mentions; no page | moderate-high: a graded path from renunciation to wisdom | verified-lacking as a dedicated page |
 
 ### Kernel candidates
 
@@ -179,8 +184,12 @@ umbrella (Four immeasurables) — all verified as existing pages.
    download) — existence precedes essence, anxiety, authenticity, bad faith,
    the absurd, facticity, death, freedom, responsibility, the crowd and
    nausea all have wiki pages; no gap.
-2. Tibetan inventory: the Kyoto School survey does not establish one; lojong
-   and tonglen-class practice terms were only mention-counted.
+2. DONE before this push: the Tibetan inventory was established ([Wikipedia,
+   "Tibetan Buddhism"](https://en.wikipedia.org/wiki/Tibetan_Buddhism)) —
+   lojong, samatha, mahamudra and lamrim are above-floor verified candidates
+   (ranked); tonglen/bardo/pāramitā are below floor; ngöndro, guru yoga,
+   tummo, dream yoga, trikaya, five paths and mandala are honest absences
+   (0 mentions).
 3. DONE before this push: the psychology comparison index was opened
    ([Wikipedia, "Positive psychology"](https://en.wikipedia.org/wiki/Positive_psychology))
    — new verified finds below (PERMA, subjective well-being); toxic positivity
