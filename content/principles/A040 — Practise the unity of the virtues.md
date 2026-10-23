@@ -20,6 +20,10 @@ He takes natural courage and sharpness seriously as raw material, and notes what
 
 *For example:* take the trait you are most proud of and name its natural counterweight (courage's temperance, generosity's justice, honesty's kindness). Review one action from this week where the proud trait ran without its counterweight, and write one sentence about what the counterweight would have changed.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the unity thesis Aristotle half-keeps, virtues implying practical wisdom (NE VI.13)
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, Book VI, trans. W. D. Ross](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)
