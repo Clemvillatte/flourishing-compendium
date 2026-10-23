@@ -7,27 +7,37 @@ file: "Nirvana"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Nirvana (Sanskrit; Pali nibbāna, literally "blowing out" or "cooling") is the third Noble Truth: the cessation of dukkha. The Dhammacakkappavattana Sutta (SN 56.11) defines it precisely and negatively — the remainderless fading and cessation, the relinquishing, releasing, and letting go of that very craving. It is not annihilation and not a place: it is the fires of greed, hatred, and delusion going out.
+Nirvana (Sanskrit; Pali nibbāna) is the Buddhist name for the cessation of suffering: literally a "blowing out" or "quenching" ([Wikipedia, "Nirvana in Buddhism"](https://en.wikipedia.org/wiki/Nirvana_(Buddhism))). It is not a place and not annihilation; the image is of a flame going out for lack of fuel. The tradition has read that flame as the three fires of greed (raga), aversion (dvesha) and delusion (moha). The Buddha's first sermon defines the third Noble Truth as the cessation of dukkha in terms of what stops:
 
-> "And this, monks, is the noble truth of the cessation of stress: the remainderless fading & cessation, renunciation, relinquishment, release, & letting go of that very craving." (Dhammacakkappavattana Sutta, SN 56.11, [trans. Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
+> "And this, monks, is the noble truth of the cessation of stress: the remainderless fading & cessation, renunciation, relinquishment, release, & letting go of that very craving." ([Dhammacakkappavattana Sutta, SN 56.11, trans. Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
 
-The compendium's reading (principles B007, B019, B198): the fires can cool here and now; awakening is available in this life; freedom is now, nothing to wait for. This is the Theravāda emphasis — nibbāna as a present possibility, verified in experience, not a reward after death. The Mahāyāna development (B135) goes further: samsara and nirvana are one mind — the same world, seen without grasping.
+### Defined by what ceases
 
-Nirvana's cross-tradition family is the vocabulary of liberation across traditions: the Stoic ataraxia (untroubledness), the Epicurean ataraxia, the mystical union of the theistic traditions, and the psychological flow state. What distinguishes nirvana is its definition by cause: it is exactly the cessation of craving, and its availability in this life.
+The definition is negative: nirvana is described as the ending of craving, not as a thing with qualities of its own. What ceases is tanha, the craving that runs through the second Noble Truth, and with it the fires of greed, aversion and delusion ([Wikipedia, "Nirvana in Buddhism"](https://en.wikipedia.org/wiki/Nirvana_(Buddhism))). Traditional sources distinguish nirvana "with a remainder", attained and maintained during life, from final nirvana at the death of one fully awakened; the Theravada tradition treats the quenching of the defilements as its common soteriological aim. The sutta's formula does not describe a world elsewhere: it marks the end of the grasping that turns experience into stress.
+
+### In the compendium
+
+- [[B007 — Trust that the fires can cool here and now (nibbana)]] — the reading that the cooling is available in this life
+- [[B019 — Awakening is available in this life]] — nirvana as present possibility, not a reward after death
+- [[B198 — Freedom is now — nothing to wait for]] — the same emphasis as a practice of attention
+- [[B135 — Samsara and nirvana are one mind]] — the Mahāyāna development: the same world, seen without grasping
+- The liberation vocabulary of other traditions offers comparisons, not identities: the Stoic and Epicurean ataraxia, the patristic apatheia, the mystical union of the theistic traditions.
 
 ## Related concepts
 
-- [[Four Noble Truths]] — nirvana as the third truth
-- [[Tanha]] — what ceases
+- [[Four Noble Truths]] — nirvana as the third truth, the cessation of dukkha
+- [[Tanha]] — the craving whose remainderless ending nirvana is
+- [[Dukkha]] — the stress that ceases
 - [[The middle path]] — the non-extreme view that holds for nirvana too
-- [[Ataraxia]] — the Stoic/Epicurean untroubledness
-- [[Apatheia]] — the patristic passionlessness
-- [[Flow]] — the psychological analogue of absorption
+- [[Ataraxia]] — the Stoic/Epicurean untroubledness, a comparison
+- [[Apatheia]] — the patristic passionlessness, a comparison
+- [[Flow]] — the psychological analogue of absorption, a comparison
 
 ## Sources
 
-- Dhammacakkappavattana Sutta (SN 56.11), Setting the Wheel of Dhamma in Motion, translated from the Pali by Thanissaro Bhikkhu, AccessToInsight: [accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html)
-- Itivuttaka 44 (listed in the page's prior sources; not quoted in the body, no carrier opened)
+- [Dhammacakkappavattana Sutta (SN 56.11), "Setting the Wheel of Dhamma in Motion", trans. Thanissaro Bhikkhu (AccessToInsight)](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — the third-truth definition of cessation
+- [Wikipedia, "Nirvana (Buddhism)"](https://en.wikipedia.org/wiki/Nirvana_(Buddhism)) — the etymology, the three-fires reading, the with-remainder distinction
+- Itivuttaka 44
 
 ## Cited in philosophy parallels
 
