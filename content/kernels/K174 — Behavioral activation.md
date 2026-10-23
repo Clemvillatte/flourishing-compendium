@@ -50,6 +50,7 @@ Practises the concept: [[Behavioral activation|Behavioral activation]]
 ## Related concepts
 
 - [[Behavioral activation]] — the concept page this kernel practices; it carries the Jacobson component analysis and the depression loop the scheduling interrupts.
+- [[Self-concordant goal pursuit over time]] — the model behind the meaningful half of the dose: goals that fit a person's values are pursued with more sustained effort.
 - [[Avoidance versus attentional engagement]] — the withdrawal the schedule counteracts is avoidance wearing the face of rest.
 
 ## Related kernels
