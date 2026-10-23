@@ -269,6 +269,24 @@ body.rand-mode #treeToggle, body.rand-mode #listToggle { display:none; }
 }
 .rcard-inner { padding:32px 36px 26px; animation:rcard-in .4s cubic-bezier(.2,.8,.3,1); }
 @keyframes rcard-in { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:none; } }
+
+/* ── swipe navigation on the randomiser card (mobile) ──
+   The card follows the finger, lifts while swiping, flies out on release,
+   and the next card is revealed with a short entrance. */
+.rcard { touch-action: pan-y; }
+.rcard.is-swiping {
+  box-shadow: 0 18px 44px rgba(0,0,0,.30), 0 4px 12px rgba(0,0,0,.14);
+  will-change: transform;
+}
+.rcard.swipe-nudge { animation: rcard-nudge .36s cubic-bezier(.36,.07,.19,.97); }
+@keyframes rcard-nudge {
+  0%, 100% { transform: translateX(0); }
+  30% { transform: translateX(-10px); }
+  62% { transform: translateX(6px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .rcard.is-swiping, .rcard.swipe-nudge { animation: none; }
+}
 .rcard .card-meta {
   display:flex; justify-content:space-between; align-items:flex-start; gap:14px;
   padding-bottom:18px; margin-bottom:20px; border-bottom:1px solid var(--line);

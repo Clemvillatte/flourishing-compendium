@@ -2729,6 +2729,100 @@ function init() {
   $r('savedBtn').addEventListener('click', () => { savedMode = !savedMode; render(); });
   $r('searchBtn').addEventListener('click', openSearch);
 
+  /* ── swipe navigation on the card (mobile) ──
+     Swipe left  → bring back the previous card (history back)
+     Swipe right → draw a new card
+     The card follows the finger; on release it exits in the swipe direction
+     and the next card is revealed with a short entrance animation. */
+  (function () {
+    const card = $r('card');
+    if (!card) return;
+    const reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const EASE = 'cubic-bezier(.22,1,.36,1)';
+    let sx = 0, sy = 0, t0 = 0, dx = 0, axis = null, swiping = false;
+
+    function xform(x, rot, withTransition, ms) {
+      card.style.transition = withTransition ? 'transform ' + (ms || 260) + 'ms ' + EASE + ', box-shadow ' + (ms || 260) + 'ms ease' : 'none';
+      card.style.transform = x === null ? '' : 'translateX(' + x + 'px)' + (rot ? ' rotate(' + rot + 'deg)' : '');
+    }
+    function lift(on) { card.classList.toggle('is-swiping', on); }
+
+    card.addEventListener('touchstart', function (ev) {
+      if (ev.touches.length !== 1) { axis = 'y'; return; }
+      sx = ev.touches[0].clientX; sy = ev.touches[0].clientY; t0 = Date.now(); dx = 0; axis = null; swiping = false;
+    }, { passive: true });
+
+    card.addEventListener('touchmove', function (ev) {
+      if (axis === 'y' || axis === 'done') return;
+      const mx = ev.touches[0].clientX - sx, my = ev.touches[0].clientY - sy;
+      if (axis === null) {
+        if (Math.abs(mx) < 10 && Math.abs(my) < 10) return;
+        axis = Math.abs(mx) > Math.abs(my) * 1.2 ? 'x' : 'y';
+        if (axis === 'y') return;
+      }
+      // horizontal swipe claimed: follow the finger (damped); taps stay free
+      if (ev.cancelable) ev.preventDefault();
+      swiping = true;
+      dx = Math.max(-180, Math.min(180, mx));
+      xform(dx * 0.55, dx * 0.045, false);
+      lift(true);
+    }, { passive: false });
+
+    card.addEventListener('touchend', function () {
+      if (axis !== 'x' && !swiping) { axis = null; return; } // tap or scroll: let it through
+      const dt = Math.max(1, Date.now() - t0);
+      const vel = dx / dt; // px per ms; a fast flick commits with less travel
+      const need = Math.max(40, 64 - Math.abs(vel) * 40);
+      const left = dx < -need;
+      const right = dx > need;
+      lift(false);
+      if (!left && !right) { springBack(); return; }
+      if (right && pool.length === 0) { springBack(); return; }
+      if (left && histPos <= 0) { springBack(true); return; }
+      axis = 'done';
+      commitSwipe(left ? 'left' : 'right');
+    });
+
+    function springBack(nudge) {
+      xform(null, 0, true, 240);
+      if (nudge) card.classList.add('swipe-nudge');
+      setTimeout(function () { card.classList.remove('swipe-nudge'); axis = null; }, nudge ? 360 : 260);
+    }
+
+    function commitSwipe(dir) {
+      if (reduceMotion) { dir === 'left' ? navHistory(-1) : draw(); cleanup(); return; }
+      // 1. fly out in the swipe direction
+      card.style.transition = 'transform 230ms cubic-bezier(.4,0,.9,.4), box-shadow 230ms ease';
+      card.style.transform = 'translateX(' + (dir === 'left' ? -130 : 130) + '%) rotate(' + (dir === 'left' ? -9 : 9) + 'deg)';
+      card.style.opacity = '0';
+      // 2. swap the content while the card is out of sight
+      setTimeout(function () {
+        if (savedMode) savedMode = false; // render() would show the saved list otherwise
+        dir === 'left' ? navHistory(-1) : draw();
+        // 3. reveal: the previous card returns from the left; a new card fades up in place
+        card.style.transition = 'none';
+        card.style.transform = dir === 'left' ? 'translateX(-46px)' : 'translateY(16px) scale(.985)';
+        card.style.opacity = '0';
+        void card.offsetHeight; // reflow so the entrance runs from the out state
+        card.style.transition = 'transform 320ms ' + EASE + ', opacity 300ms ' + EASE + ', box-shadow 300ms ease';
+        card.style.transform = '';
+        card.style.opacity = '';
+        setTimeout(cleanup, 340);
+      }, 235);
+    }
+
+    function cleanup() { xform(null, 0, false); card.style.opacity = ''; axis = null; swiping = false; }
+
+    card.addEventListener('touchcancel', function () {
+      lift(false); springBack(); 
+    });
+
+    // a completed swipe must not also fire a click on links under the finger
+    card.addEventListener('click', function (ev) {
+      if (axis === 'done') { ev.preventDefault(); ev.stopPropagation(); }
+    }, true);
+  })();
+
   /* wiki links anywhere in the randomiser view (eyebrow, card text, layers) */
   document.addEventListener('click', ev => {
     if (!document.body.classList.contains('rand-mode')) return;
@@ -2832,6 +2926,7 @@ function switchView(v){
     document.body.classList.add('academy-mode');
     $('tabRand').classList.remove('active');
     $('tabWiki').classList.remove('active');
+    const tgr = $('tabGraph'); if (tgr) tgr.classList.remove('active');
     $('tabAcademy').classList.add('active');
     renderAcademy();
     return;
@@ -2842,6 +2937,7 @@ function switchView(v){
     document.body.classList.add('academy-mode'); // reuse academy-mode container
     $('tabRand').classList.remove('active');
     $('tabWiki').classList.remove('active');
+    const tgr2 = $('tabGraph'); if (tgr2) tgr2.classList.remove('active');
     // Keep the Academy tab active — the gallery is an Academy sub-view
     $('tabAcademy').classList.add('active');
     const tabGallery = $('tabGallery');
