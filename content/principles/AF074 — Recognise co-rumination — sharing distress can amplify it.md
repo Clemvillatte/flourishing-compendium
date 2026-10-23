@@ -28,6 +28,10 @@ The evidence here comes from adolescents. It does not show that every long talk 
 
 For example: you and a friend spend a nightly hour on the same work conflict, and each night ends with agreement that it is awful. Ending the call with one question, such as what you will try on Thursday, keeps the care and adds some movement.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-vs-rumination contrast the page draws: examination turns, rumination circles.
+
 ## Sources
 
 - Rose (2002), "Co-rumination in the friendships of girls and boys", Child Development 73:1830-1843: [PubMed 12487497](https://pubmed.ncbi.nlm.nih.gov/12487497/)

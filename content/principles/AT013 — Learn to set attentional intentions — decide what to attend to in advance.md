@@ -23,6 +23,10 @@ Choose a situation in which you want to listen closely. Decide what you will do 
 
 *For example:* Imagine making a plan before a family dinner: if the phone lights up while your sister is talking, you will leave it on the table and return your attention to her.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-intention parallel the page cites.
+
 ## Sources
 
 - [Gollwitzer & Sheeran (2006), Implementation intentions and goal achievement: a meta-analysis of effects and processes, Advances in Experimental Social Psychology 38:69-119](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f)

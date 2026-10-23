@@ -26,6 +26,10 @@ Trying something is half the job; checking whether it helped is the other half. 
 **For example**
 Pick a strategy, such as slow breathing, and before starting rate the feeling from 0 to 10. After a fixed few minutes, rate it again. If the number has not moved, change something: the method, the place, or the person you are with. The rating habit is a plain way of doing what the authors describe, not their protocol.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the self-examination parallel the page draws from the Apology.
+
 ## Sources
 
 - [Bonanno and Burton 2013 (PDF)](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf)

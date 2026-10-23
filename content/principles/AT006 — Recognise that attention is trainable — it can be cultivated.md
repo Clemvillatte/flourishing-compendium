@@ -32,6 +32,10 @@ Ask which part of attention a practice is meant to train and what would count as
 
 Imagine practising meditation, then checking whether reading a chapter involves fewer unplanned phone checks. That is a possible way to observe your habits; this review does not establish that mindfulness causes improvement on that everyday task.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-training parallel the page cites.
+
 ## Psychology parallels
 
 - **Mindfulness training and attention**: strongest support for conflict monitoring, weak support for orienting, and mixed evidence for alerting ([Prakash et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC8011594/)).

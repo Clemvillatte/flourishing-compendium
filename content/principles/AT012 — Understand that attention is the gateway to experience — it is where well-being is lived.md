@@ -24,6 +24,10 @@ What you get to live through is only ever the parts you noticed. Two people can 
 **For example**
 Filming a concert on a phone: you keep the video and lose the concert. The attention went to holding the shot steady, and experience follows attention.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) the page gives attention.
+
 ## Sources
 
 - [William James, The Principles of Psychology, Vol. 1 (1890), full text at Project Gutenberg](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm) — ch. XI "Attention", p. 402 (passage beginning "Millions of items of the outward order"); ebook #57628

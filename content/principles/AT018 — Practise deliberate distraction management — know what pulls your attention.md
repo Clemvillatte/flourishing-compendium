@@ -26,6 +26,10 @@ That gap existed only under low perceptual load, and they suggest "high-load mod
 
 For example: if checking sports scores always costs you an hour, put the app on a second screen of your phone and check it at set times. The effort goes into the setup once and not into resisting every time.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-distraction parallel: the examined life includes examined distraction.
+
 ## Sources
 
 - Duckworth, Gendler & Gross (2016), "Situational Strategies for Self-Control", Perspect Psychol Sci 11:35-55: [PubMed 26817725](https://pubmed.ncbi.nlm.nih.gov/26817725/)

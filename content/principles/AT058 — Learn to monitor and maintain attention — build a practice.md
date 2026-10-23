@@ -26,6 +26,10 @@ The groups were small (31 and 17) and were not randomly assigned. Working memory
 
 For example: you keep a short note each Friday on how many hours of focused work you managed and what interrupted them. After three weeks the pattern shows you which change to try next.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-as-ongoing-practice grounding (Apology 38a) the page cites.
+
 ## Sources
 
 - Jha, Stanley, Kiyonaga, Wong & Gelfand (2010), "Examining the protective effects of mindfulness training on working memory capacity and affective experience", Emotion 10:54-64: [PubMed 20141302](https://pubmed.ncbi.nlm.nih.gov/20141302/)

@@ -33,6 +33,7 @@ The finding: naming an emotional state in words attenuates the experience, and t
 While scrolling, a reader says to herself, "I'm doomscrolling." She then decides whether to continue or close the app.
 
 ## Related concepts
+- [[T011 — Socrates]]: the examined-life parallel the page gives for naming states.
 
 - [[AT034]] — AT053 works on noticing and labelling attentional states; AT034 reports the account in which noticing mind-wandering lapses enables re-engagement of the primary task.
 

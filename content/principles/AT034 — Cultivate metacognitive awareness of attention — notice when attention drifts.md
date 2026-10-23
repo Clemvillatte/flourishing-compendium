@@ -32,6 +32,10 @@ Mind wandering often happens without your knowing it; the paper's phrase is that
 *For example:*
 Midway through a budget review, a reader notices the sentence "I'm planning my holiday in the middle of this budget review" arrive in their mind. The noticing itself, not the scolding that could follow, is what the account treats as the operative event.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the Apology's examined-life dialogue, the page's source for noticing where attention goes.
+
 ## Sources
 
 - [Schooler, Smallwood, Christoff, Handy, Reichle and Sayette, "Meta-awareness, perceptual decoupling and the wandering mind", Trends in Cognitive Sciences 15(7), 2011 (open PDF, UCSB META Lab)](https://metalab.psych.ucsb.edu/sites/default/files/2025-12/perceptual-decoupling.pdf) — definition, intermittency finding, and the re-engagement account

@@ -25,6 +25,7 @@ Your ways of managing mood are not installed once. The habit that carried you th
 A toolkit built in one's twenties: the Tuesday run, the friend called after bad news, the early night. An annual audit asks which still changes how the day feels. The run still works, the friend has moved, the early night has become a phone-scroll. Keep the run, replace the night.
 
 ## Related concepts
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) the page gives for a system that learns.
 
 - [[BE078]] — listed for comparison
 
