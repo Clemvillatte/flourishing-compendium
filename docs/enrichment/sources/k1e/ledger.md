@@ -445,3 +445,12 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The seed's values-conflict application (honesty against kindness, ambition against family) is preserved as this wiki's own framing, with the worksheet's original single-stuck-thought application shown in the Protocol; the two are honestly distinguished in the Evidence paragraph.
 - Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (same class as K401-K403); the "seed's" workflow language caught by the validator's owner-directive warning removed; dashes reduced to 3.
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K405 — The matrix sort (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~200-word seed rebuilt to the K100 model (~600 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: Scribd "A Step By Step Guide To The ACT Matrix" — the full five-step delivery read verbatim (the who's-important, unwanted-thoughts-feelings, what-do-you-do-to-move-away, what-do-you-do-to-move-toward, and the notice-throughout-your-day close); Utah ACT matrix mobile app pilot randomized trial PDF — the axis-label paragraph read verbatim (away/toward horizontal, mental-experiencing/five-sensing vertical); the Polk/Schoendorff/ Webster/Olaz book (commercial New Harbinger) remains unopened; the praxiscet.com Q&A is robots-blocked (the Polk interview answer carried in the search snippet matches the Utah PDF's axis description).
+- The pilot trial is an honest evidence anchor (the matrix as a mobile intervention tested on health behaviours), scoped as a whole-protocol study, not a daily-self-sort trial.
+- Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (same class as K401-K404); Related concepts retargeted to existing pages only (Psychological flexibility, Acceptance and Commitment Therapy, Experiential avoidance theory — existence checked; the "Experiential avoidance" standalone does not exist); the seed's em dashes in the header paragraph replaced with commas to stay inside the dash budget.
+- Push note: enrich_save.sh's git push rejected (fast-forward race with the concurrent k1c worker); api_push.py used; the earlier api_push token()-prefix fix (x-access-token: stripped) is what made this recovery possible.
+- Customer-facing grep clean; validator ok, 0 failed.
