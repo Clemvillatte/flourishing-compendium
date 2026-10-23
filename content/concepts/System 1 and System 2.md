@@ -19,7 +19,8 @@ Kahneman's picture is a division of labor rather than two brain parts: System 1 
 
 ## Sources
 
-- Daniel Kahneman, Thinking, Fast and Slow (Farrar, Straus and Giroux, 2011), chapter 1, official publisher's excerpt: [us.macmillan.com/books/9780374533557/thinkingfastandslow](https://us.macmillan.com/books/9780374533557/thinkingfastandslow/) (excerpt is the opened carrier; the full book is under copyright)
+- Daniel Kahneman, Thinking, Fast and Slow (Farrar, Straus and Giroux, 2011), chapter 1, official publisher's excerpt: [us.macmillan.com/books/9780374533557/thinkingfastandslow](https://us.macmillan.com/books/9780374533557/thinkingfastandslow/)
+- [Dual process theory, Wikipedia — the terms System 1 and System 2 as coined by Keith Stanovich and Richard West](https://en.wikipedia.org/wiki/Dual_process_theory)
 
 ## Cited in psychology parallels
 
