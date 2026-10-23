@@ -7,7 +7,7 @@ file: "Expressive writing"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-Expressive writing is a research paradigm created by James Pennebaker and Martha Beall in 1986 ([Confronting a traumatic event, Journal of Abnormal Psychology 95:274-281](https://pubmed.ncbi.nlm.nih.gov/3745650/)): several short sessions of writing about one emotional upheaval, for no audience, to see what the writing does to mood and health. The instruction participants receive is the part that matters, and it has barely changed since:
+Expressive writing is a research paradigm created by James Pennebaker and Beall in 1986 ([Confronting a traumatic event, Journal of Abnormal Psychology 95:274-281](https://pubmed.ncbi.nlm.nih.gov/3745650/)): several short sessions of writing about one emotional upheaval, to see what the writing does to mood and health. The instruction participants receive is the part that matters:
 
 > "…very deepest thoughts and feeling about an extremely important emotional issue that has affected you and your life" (Pennebaker, 1997, p. 162, as quoted in [Penn State Psych 425, Expressive Writing](https://psu.pb.unizin.org/psych425/chapter/expressive-writing-one-type-of-confrontation/))
 
@@ -15,9 +15,9 @@ Expressive writing is a research paradigm created by James Pennebaker and Martha
 
 The assignment is deliberately small. In the lab version, participants come in on three to five days and write for fifteen to thirty minutes; the topic is their own choice, the same or different each day, and a control group writes about neutral topics ([Penn State Psych 425](https://psu.pb.unizin.org/psych425/chapter/expressive-writing-one-type-of-confrontation/)). A review of the paradigm summarises the standard form:
 
-> "In the standard expressive writing intervention, over the course of four consecutive days, in daily sessions of about twenty minutes, participants are asked to write about their deepest thoughts and feelings about a negative life event" ([Barcaccia et al., 2017, Terapia Psicológica](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-48082017000300213))
+> "In the standard expressive writing intervention, over the course of four consecutive days, in daily sessions of about twenty minutes, participants are asked to write about their deepest thoughts and feelings about a negative life event" ([Barcaccia et al., 2017, Terapia psicológica](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-48082017000300213))
 
-No one reads the pages. Spelling and grammar are explicitly not the point, and confidentiality is part of the instructions, which is what makes honesty cheap.
+Spelling and grammar are explicitly not the point, and the instructions ask that the writing be confidential, which is what makes honesty cheap.
 
 ### What the research finds
 
@@ -25,7 +25,7 @@ The effects are real but modest. The review states the field's summary finding:
 
 > "Studies indicate that the expressive writing intervention has small, but significant positive effects on physical and psychological health, including reduced blood pressure, improved immune system functioning, improved mood, and feelings of greater wellbeing compared to control groups" ([Barcaccia et al., 2017](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-48082017000300213))
 
-An early meta-analysis reported an effect size of d = .47 at two months' follow-up (Smyth 1998, as reported in the same review). The honest qualifications travel with the finding: "the extent and the duration of these gains are variable among findings in expressive writing research", and studies with children and adolescents "have shown more mixed results" ([Barcaccia et al., 2017](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-48082017000300213)). The benefits appear to depend on cognitive processing capacity, which is why the review cautions that the method may fit some minds and stages of life better than others. Writing is one option among several: for some people and some subjects, suppression is not maladaptive ([[AF032]]).
+An early meta-analysis reported an effect size of d = .47 at two months' follow-up (Smyth 1998, as reported in the same review). The honest qualifications travel with the finding: "the extent and the duration of these gains are variable among findings in expressive writing research", and studies with children and adolescents "have shown more mixed results" ([Barcaccia et al., 2017](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-48082017000300213)). The review's own qualification is that the method "may be most beneficial to those with sound executive functioning" and least effective "for those with severely disordered cognition, or whose executive functions are still developing, as in preadolescents". Writing is one option among several: for some people and some subjects, suppression is not maladaptive ([[AF032]]).
 
 ### In the compendium
 
@@ -42,18 +42,18 @@ An early meta-analysis reported an effect size of d = .47 at two months' follow-
 
 ## Other formulations in this library
 
-- the reliable finding that structured narrativization of emotional events improves outcomes (Pennebaker and Beall, 1986)
+- some health benefits to writing about the facts and emotions surrounding stressful and traumatic life events (Pennebaker and Beall, 1986)
 
 ## Related concepts
 
-- [[Meaning-making]] — the writing session is meaning-making given a pen and a timer
+- [[Meaning-making]] — the writing task is a meaning-making exercise in miniature
 - [[Express by shaping, not venting]] — Dewey's distinction between expression and discharge (Art as Experience)
-- [[Rumination]] — the failure mode the writing can become when it circles without sequence
+- [[Rumination]] — the circling mode of self-focus that unstructured writing about distress can slide into
 - [[The examined life]] — the writing is the examined life made procedural
 - [[Journaling as self-reflection]] — the everyday cousin without the protocol
-- [[Narrative therapy]] — therapy built on the retelling move the paradigm trains
+- [[Narrative therapy]] — the therapy tradition that works by retelling
 - [[Decentering]] — describing one's own experience from the outside
-- [[Self-distancing]] — writing moves the writer back a step from the event
+- [[Self-distancing]] — the observer stance a written account can invite
 
 ## Sources
 

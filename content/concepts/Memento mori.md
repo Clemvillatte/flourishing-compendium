@@ -7,9 +7,9 @@ file: "Memento mori"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Memento mori ("remember that you will die") is the Stoic practice of deliberately contemplating mortality, not as morbidity but as the great clarifier of life. The tradition runs through Seneca (*Letters* 101 and *On the Shortness of Life*): death is not to be feared but kept in view, because the certainty of ending is what gives time its weight and priorities their order. Seneca's own summary of the discipline:
+Memento mori ("remember that you will die") is the practice of deliberately contemplating mortality, not as morbidity but as the great clarifier of life. The Stoic thread runs through Seneca (Letters 101 and On the Shortness of Life): death is not to be feared but kept in view, because the certainty of ending is what gives time its weight and priorities their order. Seneca's own summary of the discipline:
 
-> "Therefore, let us so order our minds as if we had come to the very end. Let us postpone nothing. Let us balance life's account every day." ([Seneca, *Letters* 101, Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101))
+> "Therefore, let us so order our minds as if we had come to the very end. Let us postpone nothing. Let us balance life's account every day." ([Seneca, Letters 101, Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101))
 
 The same letter names the failure the practice repairs: we schedule our lives as if the schedule were guaranteed.
 
@@ -21,7 +21,7 @@ The letter's closing rule is the whole practice in one line:
 
 ### The mechanism
 
-The mechanism is contrast, not fear: against the background of ending, trivial anxieties shrink and postponed living becomes visible. The practice is the Stoic training of desire and aversion, and death is the thing most avoided, which makes it the heaviest available training weight. The principle links for this cluster are gathered below.
+In the compendium's reading, the mechanism is contrast, not fear: against the background of ending, trivial anxieties shrink and postponed living becomes visible. The practice belongs to the Stoic training of desire and aversion, and death is the thing most avoided, which makes it the heaviest available training weight.
 
 ### The distinction to hold
 
@@ -53,8 +53,8 @@ Its Stoic sibling is [[Premeditatio malorum]] (adversity rehearsed instead of de
 
 ## Sources
 
-- [Seneca, *Moral Letters to Lucilius*, Letter 101 (Gummere translation, Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101) — the three passages quoted above
-- Seneca, *On the Shortness of Life*; Marcus Aurelius, *Meditations* — the wider Stoic tradition behind the practice (consulted editions; no passages quoted on this page)
+- [Seneca, Moral Letters to Lucilius, Letter 101 (Gummere translation, Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101) — the three passages quoted above
+- Seneca, On the Shortness of Life; Marcus Aurelius, Meditations — the wider Stoic tradition behind the practice (no passages quoted on this page)
 
 ## Cited in parallels
 
