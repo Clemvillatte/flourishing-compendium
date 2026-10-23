@@ -38,6 +38,16 @@ Rewrite: connect the ideal to conduct without merging the two sources; add the a
 
 Advisor QC: removed the straw-man contrast about a brief pause; replaced an inference about perfect calm with the author's own action/meditation statement; restored the historical context as something the interviewee said, not independent historical certification. Final draft: 209 prose words; no hard validation errors. Protected content unchanged.
 
+## B012: present practice without flattening liberation into task focus
+
+Opened with fetch on 2026-10-23:
+
+- [MN 131, Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/mn/mn.131.than.html): the retained verse quotation and the detailed explanation of chasing the past/expecting the future in terms of delight in form, feeling, perception, fabrications and consciousness.
+- [Ud 1.10, Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html): the “seen/heard” instruction and its continuation through “no you” to the end of stress. Kept the liberative context explicit.
+- [Thich Nhat Hanh, The Miracle of Mindfulness excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm): dishes, tea and future plans. The carrier contains typographical defects elsewhere; no biographical claims copied from its introduction.
+
+Rewrite: distinguish the sources' scope, explain the anticipation habit through the dishes/tea example, and replace a procedural Plain words block with a fresh explanation. The lunch/note comparison is expressly an editorial experiment, not a full Buddhist practice or an empirically established intervention.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.

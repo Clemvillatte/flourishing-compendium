@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 12** — Practice only happens now
 
-MN 131 gives the instruction to a monk in direct terms: what is past is left behind, the future is as yet unreached, and whatever quality is present, you clearly see right there. (MN 131.) The Bahiya Sutta gives a related instruction about seeing: in reference to the seen, there will be only the seen; in reference to the heard, only the heard. (Ud 1.10.)
+MN 131 asks the practitioner to see the present clearly instead of chasing what has passed or delighting in an imagined future. Its explanation concerns attachment to past or anticipated experience, including form, feeling and consciousness. ([MN 131](https://www.accesstoinsight.org/tipitaka/mn/mn.131.than.html)) Ud 1.10 gives the instruction “In reference to the seen, there will be only the seen” within a teaching about release from identification and the end of stress. It is more than advice to concentrate on a task. ([Bāhiya Sutta](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html))
 
 > "You shouldn't chase after the past or place expectations on the future. What is past is left behind. The future is as yet unreached. Whatever quality is present you clearly see right there, right there." (MN 131, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.131.than.html))
 
-In an excerpt from The Miracle of Mindfulness, Thich Nhat Hanh draws the same warning with the dishes: hurrying through them to get to the tea, he says, means not being alive while washing them, and if the dishes cannot be washed with attention, the tea will likely be drunk the same way. (The Miracle of Mindfulness, excerpt.)
+Thich Nhat Hanh gives an everyday illustration: washing dishes while thinking only about the tea to come. He warns that this way of rushing past an activity can continue when we reach the tea. ([The Miracle of Mindfulness, excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
 
 > "If while washing dishes, we think only of the cup of tea that awaits us, thus hurrying to get the dishes out of the way as they were a nuisance, then we are not 'washing the dishes to wash the dishes.' What's more, we are not alive during the time we are washing the dishes." (Thich Nhat Hanh, [The Miracle of Mindfulness, excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
 
 **Plain words**
-As a compendium exercise, notice when thoughts about an upcoming event take your attention from what you are doing. Choose whether to continue planning or return to the present task.
+You can treat an ordinary part of the day as a waiting room for the next part. The dishes become an obstacle to tea; then the tea becomes an obstacle to whatever comes after. Thich Nhat Hanh's example asks where you will actually live if every activity is only something to get through. ([The Miracle of Mindfulness, excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
 
-*For example:* Imagine eating lunch while rehearsing an afternoon meeting. You pause the rehearsal and notice the next bite.
+For example: You are eating lunch while rehearsing an afternoon meeting. Try putting the rehearsal into a short note, then return to the next bite. Compare this with continuing the rehearsal throughout lunch: what do you remember of the meal, and did the note preserve the point you needed? Keep the approach that lets the meal be a meal without losing a useful plan. This is a compendium experiment, not the full practice described in either sutta.
 
 ## Sources
 
