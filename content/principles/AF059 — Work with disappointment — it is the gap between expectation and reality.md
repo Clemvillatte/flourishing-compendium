@@ -24,6 +24,10 @@ Write down what you hoped would happen and what actually happened. If they diffe
 **For example**
 Imagine a launch that lands at 60% of the hoped-for numbers. The comparison to sit with is between the forecast and the actual result. The compendium's suggestion: treat it as an audit of the forecast rather than a verdict on the effort, and build the next forecast from the actual numbers.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters' hope tempered by prudence, the page's Stoic parallel
+
 ## Sources
 
 - [Tzieropoulos et al. 2011, The Impact of Disappointment in Decision Making, Frontiers in Human Neuroscience, PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3020567/) — Introduction: Bell's formal definition of disappointment.
