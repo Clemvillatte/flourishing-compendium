@@ -8,26 +8,17 @@ tags: ["person", "track/psychology"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-
-> **Thinker T023** — Aaron T. Beck, American psychiatrist, founder of cognitive therapy; the cognitive model of depression and anxiety is the compendium's main hook.
-
-## Personal story / context
-
-Beck began in psychoanalysis, but the clinical evidence did not fit the Freudian account of depression as anger turned inward, and he built a testable model instead. The model he proposed has, per the 2011 review, "been the predominant theory of depression in the cognitive-behavioural tradition since" its proposal ([Disner et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21731066/)). Cognitive therapy, the method built on the model, is one of the most-studied psychotherapies in the literature.
+Aaron T. Beck is the co-author, with Disner, Beevers and Haigh, of the 2011 Nature Reviews Neuroscience review of the cognitive model of depression: "In the 40 years since Aaron Beck first proposed his cognitive model of depression, the elements of this model--biased attention, biased processing, biased thoughts and rumination, biased memory, and dysfunctional attitudes and schemas--have been consistently linked with the onset and maintenance of depression" ([Disner et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21731066/)). The review's abstract states the authors' purpose: "In this Review, we identify the functional and structural neurobiological architecture of Beck's cognitive model of depression."
 
 ## Their why
 
-Beck's model states that automatic thoughts, assumptions and core schemas about self and world maintain depression and anxiety. A 2011 review co-authored with Disner, Beevers and Haigh summarised its elements:
-
-> "In the 40 years since Aaron Beck first proposed his cognitive model of depression, the elements of this model--biased attention, biased processing, biased thoughts and rumination, biased memory, and dysfunctional attitudes and schemas--have been consistently linked with the onset and maintenance of depression." (Disner, Beevers, Haigh & Beck, 2011, [Nature Reviews Neuroscience, PubMed record](https://pubmed.ncbi.nlm.nih.gov/21731066/))
-
-The review's neural reading of the same elements:
-
-> "Although the mechanisms underlying each element of the model differ, in general the negative cognitive biases in depression are facilitated by increased influence from subcortical emotion processing regions combined with attenuated top-down cognitive control." (Disner, Beevers, Haigh & Beck, 2011, [Nature Reviews Neuroscience, PubMed record](https://pubmed.ncbi.nlm.nih.gov/21731066/))
+The model's elements, as the review lists them, are the biased attention, biased processing, biased thoughts and rumination, biased memory, and dysfunctional attitudes and schemas that have been "consistently linked with the onset and maintenance of depression" ([Disner et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21731066/)). The 2011 review is the framing the compendium carries; it is a review of the model, not the model's first statement.
 
 ## Their position
 
-The model's practice is to surface the automatic thought, test it against evidence and replace it with a truer one; the theory is the cognitive mediation of distress claim. The compendium's Cognitive mediation of distress page carries the framing; the Cognitive restructuring, Belief evaluation in CBT and Behavioral experiments in CBT pages carry the practice side.
+The review's neural reading:
+
+> "Although the mechanisms underlying each element of the model differ, in general the negative cognitive biases in depression are facilitated by increased influence from subcortical emotion processing regions combined with attenuated top-down cognitive control." (Disner, Beevers, Haigh & Beck, 2011, [Nature Reviews Neuroscience, PubMed record](https://pubmed.ncbi.nlm.nih.gov/21731066/))
 
 ## Core ideas
 
@@ -47,4 +38,4 @@ The model's practice is to surface the automatic thought, test it against eviden
 
 ## Sources
 
-- [Disner, Beevers, Haigh & Beck (2011), Neural mechanisms of the cognitive model of depression, Nature Reviews Neuroscience 12(8):467-477](https://pubmed.ncbi.nlm.nih.gov/21731066/) — the model elements and the neural reading; already opened on the compendium's Beck's cognitive model page.
+- [Disner, Beevers, Haigh & Beck (2011), Neural mechanisms of the cognitive model of depression, Nature Reviews Neuroscience 12(8):467-477, PMID 21731066](https://pubmed.ncbi.nlm.nih.gov/21731066/) — the abstract retrieved and verified verbatim via the Europe PMC REST record; the two long quotations are the abstract's opening and closing sentences.
