@@ -33,3 +33,11 @@ expanded Related, kernel link K230) and dropping my duplicate side; validated
 against the a9f097ec9 pre-rebuild baseline. All 42 ct2 pages then re-validated
 clean. The e79303d33 version's Letter 101 quotes were verified by me against the
 same Wikisource page earlier in this session.
+
+## Post-script 2 (quote audit, 11:39 UTC)
+The third Letter 101 quote kept in the conflict fix ("We plan distant voyages...")
+was re-verified verbatim against the Wikisource page (fresh fetch, section 6).
+The "go to bed as if one had lived one's last day / each day received as
+borrowed" sentence was NOT in Letter 101 (same fetch confirmed absence) and was
+removed as an unverified paraphrase; replaced with a sentence grounded in the
+verified daily-account rule. Both validator contexts pass.
