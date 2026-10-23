@@ -27,6 +27,7 @@ The review's framing: "Although numerous studies have examined the neural mechan
 ## Core ideas
 
 - **The cognitive model** — the claim that depression is maintained by biased attention, processing, memory and schemas rather than by circumstances alone: the model's elements "have been consistently linked with the onset and maintenance of depression" ([Disner et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21731066/)). See [[Beck's cognitive model]], [[Cognitive-behavioural model]].
+- **Automatic thoughts and the cognitive triad** — Beck "termed these cognitions 'automatic thoughts'" and found their content "fell into three categories: negative ideas about oneself, the world, and the future," interrelated as the cognitive triad ([Wikipedia, Aaron Beck](https://en.wikipedia.org/wiki/Aaron_Beck)). See [[Beck's cognitive model]].
 - **Cognitive distortions** — the systematic errors of depressed thinking the therapy teaches patients to catch ([Wikipedia, Aaron Beck](https://en.wikipedia.org/wiki/Aaron_Beck)). See [[Cognitive distortions]], [[Cognitive distortions research]].
 - **Cognitive restructuring** — testing and revising beliefs as the therapy's core move. See [[Cognitive restructuring]], [[Belief evaluation in CBT]], [[Behavioral experiments in CBT]].
 - **Behavioral activation** — re-engaging depressed patients in scheduled, graded activity. See [[Behavioral activation]], [[Activity scheduling (BA)]], [[Graded task assignment (Beck, BA)]].
