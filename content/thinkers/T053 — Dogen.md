@@ -8,7 +8,7 @@ tags: ["person", "track/philosophy"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Dōgen Kigen (道元希玄, 1200 – 1253) was a Japanese Zen master who founded the Sōtō school of Zen in Japan and made sitting meditation itself — zazen — the whole of the religious life ([Wikipedia, Dōgen](https://en.wikipedia.org/wiki/D%C5%8Dgen)). His masterwork, the *Shōbōgenzō* ("Treasury of the True Dharma Eye"), is a collection of essays on practice and realization.
+Dōgen Kigen (道元希玄, 1200 – 1253) was a Japanese Zen master who founded the Sōtō school of Zen in Japan and made sitting meditation itself, zazen, the whole of the religious life ([Wikipedia, Dōgen](https://en.wikipedia.org/wiki/D%C5%8Dgen)). His masterwork, the *Shōbōgenzō* ("Treasury of the True Dharma Eye"), is a collection of essays on practice and realization.
 
 ## Personal story / context
 
