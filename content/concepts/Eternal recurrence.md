@@ -19,10 +19,10 @@ Whether Nietzsche also meant it as cosmology is disputed. The SEP notes that all
 
 ### In the compendium
 
-E104 states the test directly: "Practise living in a way that you would will the eternal recurrence of every moment." SP027's parallels list the recurrence as a determinism test; BE068 ties it to what outlasts a life, mentoring and planting for the next people; AF069 supplies the compendium's separate comparison from psychology, that both positive and negative experiences fade toward baseline; SE007 frames the self with temporal depth across past, present and future selves; D006 supplies the Daoist comparison of cyclical return.
+E104 states the test directly: "Practise living in a way that you would will the eternal recurrence of every moment." SP027 treats the recurrence as a determinism test; BE068 ties it to what outlasts a life, mentoring and planting for the next people; AF069 supplies the compendium's separate comparison from psychology, that both positive and negative experiences fade toward baseline; SE007 frames the self with temporal depth across past, present and future selves; D006 supplies the Daoist comparison of cyclical return.
 
 - [[E104 — Practise the eternal recurrence]] — live so that you would will the recurrence of every moment
-- [[SP027 — Drop the illusion of free will]] — the parallels list the recurrence as a determinism test
+- [[SP027 — Drop the illusion of free will]] — treats the recurrence as a determinism test
 - [[BE068 — Engage in legacy behaviour — contribute beyond yourself]] — what outlasts you: mentoring, institutions, planting for the next people
 - [[AF069 — Recognise the hedonic treadmill — adaptation is inevitable; plan for it]] — both positive and negative experiences fade toward baseline
 - [[SE007 — Understand that the self has temporal depth — past, present, and future selves]] — the self across past, present and future selves

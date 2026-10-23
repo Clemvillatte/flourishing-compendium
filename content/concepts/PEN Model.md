@@ -20,7 +20,7 @@ The taxonomy is now considered outdated: the psychoticism entry calls it "his ou
 
 ### In the compendium
 
-The page's cited-in list runs through the Daoist track (D001 onward), paired with principles about working with one's nature rather than against it. D002's ziran (naturalness), D012's modeling on water and D013's valley-mind are read here as self-acceptance of temperament; D019's knowing-what-is-enough and D021's reducing desires are arousal management by another name. The pairing is thematic; the principle texts do not cite Eysenck, and the batch log flags the long cited-in list as a likely data artifact.
+The compendium pairs the model with principles across the Daoist track (D001 onward), all about working with one's nature rather than against it. D002's ziran (naturalness), D012's modeling on water and D013's valley-mind are read here as self-acceptance of temperament; D019's knowing-what-is-enough and D021's reducing desires are arousal management by another name. The pairing is thematic; the principle texts do not cite Eysenck, and the long backlink list is flagged as a likely data artifact.
 
 PEN's arousal account gives that Daoist advice a mechanism to test: if introverts are chronically overaroused, stillness practices are not moral decoration but arousal regulation matched to temperament. That is a question, not a finding.
 

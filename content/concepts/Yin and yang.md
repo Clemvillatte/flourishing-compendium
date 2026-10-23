@@ -22,7 +22,7 @@ The practical value of yin-yang thinking is diagnostic: it trains you to ask whe
 ## Related concepts
 
 
-- [[P089]] — P089's philosophy parallels list the yin-yang rhythm (Laozi, Daodejing 42)
+- [[P089]] — the yin-yang rhythm of rest and return (Laozi, Daodejing 42)
 - [[CO052]] — uses co-arising opposites in Daodejing 2 to examine apparent contradictions.
 ## Sources
 

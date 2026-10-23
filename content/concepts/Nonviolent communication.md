@@ -27,7 +27,7 @@ NVC has been applied in clinical, educational, organisational and community sett
 
 ### In the compendium
 
-The compendium pairs NVC with principles across both traditions; the pairings are editorial, made visible in the cited-in lists below.
+The compendium pairs NVC with principles across both traditions; the pairings are editorial, gathered in the list below.
 
 - [[B023 — Practice right speech]] — the speech precept read alongside Rosenberg's method
 - [[B148 — Speak lovingly]] — the title is the practice

@@ -26,7 +26,7 @@ A friend wins something you wanted. The flicker of envy is immediate; the wider 
 
 ### Related concepts
 
-- [[B100]] — B100's philosophy parallels list sympathy versus empathy (Scheler)
+- [[B100]] — compares sympathy with empathy in Scheler's terms
 - [[Empathy]] — the two states are standardly contrasted: feeling with another versus care for another's well-being
 - [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
 
