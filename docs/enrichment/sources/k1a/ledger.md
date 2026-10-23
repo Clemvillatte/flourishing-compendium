@@ -614,3 +614,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: one instruction in a medical exam, small-to-moderate effects, and the Study 3 boundary (low-baseline students showed no benefit) stated explicitly; nothing claimed about the kernel's four positions or decision quality.
 - Mention check run (before this entry): K131 already linked from D081/D082/B082/P030/P057 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Facets section left as in the seed; Operationalises reflowed to bullets).
+
+## K230 — Memento mori (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Spitzenstätter & Schnell 2022 (Death Stud 46(5):1219-1233), RCT of mortality-awareness interventions (n=51 vs 47), abstract verified raw via NCBI efetch (PMID 32845800); authors read from the efetch header.
+- The blockquote (fear decreased / acceptance increased sentence) matches the raw efetch text verbatim.
+- Honesty on page: no test of physical reminders or daily reflection; meaningfulness changes contingent on religiousness and attitudes toward death unchanged, both stated; nothing claimed about effects on time use.
+- Mention check run (before this entry): K230 already linked from D090/B055/P164 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Facets section left as in the seed; Operationalises reflowed to bullets).
