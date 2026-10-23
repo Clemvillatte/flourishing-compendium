@@ -22,3 +22,8 @@ entries: S003, S051, S058, SP051, D083, Y034, PP017, AF026, AF025, S014); illust
 train example labeled; Related concepts cleaned (empty lines removed); the broken
 Sources entries ("Gross, 1998 / 2015 / Gross, 2015") rebuilt with the verified carrier
 first and carried-over citations labeled. Front-matter untouched. Validator ok.
+
+## Spot-check (2026-10-23 11:53 UTC, taper verification pass)
+The page's single blockquote (Moyal, Henik and Anholt 2014, "Reappraisal is also
+an antecedent-focused strategy...") re-verified verbatim against a fresh fetch of
+the linked carrier (Frontiers in Psychology, PMC3887268).
