@@ -54,7 +54,9 @@ Aristotle calls this "an outline of the good", to be filled in later. The questi
 
 - **[[Self-actualization (Maslow)|Self-actualisation as becoming what one can be]]** (Maslow, Toward a Psychology of Being)
 - **[[Conatus|Conatus as striving]]** (Spinoza, Ethics III)- **[[The function argument|Ergon]]** (Aristotelianism)
+## Related concepts
 
+- [[T011 — Socrates]]: the Crito story the page leans on, function kept under threat (ST141)
 
 <!-- fc: reflections
 When you lose yourself in some activity, what exactly are you doing, and is that activity distinctively human, or something you share with every animal? What does your answer say about what "your work" is?
