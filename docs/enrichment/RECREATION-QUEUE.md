@@ -26,6 +26,11 @@ the owner's named example and was recreated 2026-10-23 (commit 82ba7eb80).
 
 ## Tier 2 — plain-words replicates (overlap >= 0.5)
 
+CAVEAT (2026-10-23, session 8c46f0c8): the detector over-flags cards whose domain vocabulary
+naturally repeats (whakawhanaungatanga, perspective-taking, attention). Read the card before
+rewriting. Human-verified as genuine re-derivations and needing no work: SO033, R038, R030,
+R019, Y080, AT017 (top of the list, checked 2026-10-23).
+
 184 cards. These have the owner's "Plain words is a broken replicate" problem; most already
 have sources. The fix is the standard principles-pass Plain-words replacement (per
 PROTOCOL-PRINCIPLES.md this is mandatory for any band item on the list), not full recreation:
