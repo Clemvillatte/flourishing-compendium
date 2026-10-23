@@ -428,3 +428,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (same as the K401 fix; the seed's inline form tripped the dash rule); Related concepts retargeted to existing pages only (Cognitive defusion, Self-as-context, Metacognition — existence checked).
 - The seed's attribution (Harris 2009 p. 119 retold in Stoddard & Afari 2014 pp. 80-81) is confirmed accurate against both opened carriers; the "Talking and Listening" pp. 177-178 citation is the Big Book's own note on the source essay.
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K403 — Core and satellite values (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~170-word seed rebuilt to the K100 model (~540 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: workingwithact.com "Finding True North" (Dr Rob Archer, 2011) — the "what Richard Blonna calls 'core' and 'satellite' values" sentence read verbatim; junfermann.de Blonna worksheets PDF (the German edition's Arbeitsblatt 4.3, "Kern- versus Satellitenwerte") — the full exercise read verbatim in German (the ten envelopes, the three-in-the-center + seven-scattered arrangement with the electrons-around-a-nucleus image, the multiple reads, the step-back line, the one-or-two-more-paces step-back close).
+- Translation note: the two German-worksheet quotes are rendered on the page in English translation and marked as such in the Evidence introduction ("English translation of the German worksheets published with the book's German edition"); the German original is the opened carrier; the English 2015 New Harbinger book remains unopened (commercial); the archive.org record carries only metadata, not text.
+- Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (same class as the K401/K402 fixes); Related concepts retargeted to existing pages only (Values clarification, Self-as-context, Acceptance and Commitment Therapy — existence checked; the "Values" standalone does not exist).
+- Customer-facing grep clean; validator ok, 0 failed.
