@@ -15,7 +15,15 @@ Sparse speech is the Daoist discipline of saying little. The Daodejing's image i
 
 ### What the restraint is for
 
-Legge links restraint in speech with following one's nature, and his example is the short duration of violent wind and rain. The compendium's principle B172 holds the value this concept grounds; its plain-words reading is the pause before speaking, asking whether what is about to be said serves a purpose.
+Legge links restraint in speech with following one's nature, and his example is the short duration of violent wind and rain. The compendium's principle B172 holds the value this concept grounds; its plain-words reading is the pause before speaking, asking whether what is about to be said serves a purpose. The image is about force and duration rather than silence for its own sake. A squall spends everything at once and is over by morning; the reading this page takes from it is that speech delivered at full volume all day cannot last, and that a person who wants words to keep working spreads them thin.
+
+## Related concepts
+
+- [[Wu wei]] — sparse speech is the verbal form of non-forcing
+- [[Ziran (naturalness)]] — the chapter ties abstaining from speech to obeying one's own nature
+- [[Thundering silence]] — a Buddhist cousin of saying little
+- [[Beneficial speech]] — when words are spent, spend them on benefit
+- [[Silence as evidence]] — what a person does not say carries information
 
 ## Sources
 

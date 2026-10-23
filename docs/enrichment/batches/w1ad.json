@@ -42,7 +42,6 @@
   "The classification of fears",
   "Somatic psychotherapy",
   "Sorrow's fruit",
-  "Sparse speech",
   "Spiritual joy",
   "Source credibility research",
   "Spiritual vigilance",
@@ -67,7 +66,8 @@
   "The breakthrough to the ground",
   "The chain of virtue",
   "The charioteer's analysis",
-  "Transactive memory systems"
+  "Transactive memory systems",
+  "Sparse speech"
  ],
  "in_progress": null,
  "flagged": {
@@ -104,10 +104,11 @@
   "The body-for-others": "SEP only; Sartre's text not opened; SEP section consulted has no passage on the body for others, so E069's Barnes quotes are not verified by this page.",
   "The classification of fears": "Letter classifies desires, not fears; label is the compendium's. Hicks translation via MIT Classics. D097 link not checked against letter.",
   "Source credibility research": "Reopened for QC: milestone QC repairs",
-  "TRACE model of speech perception": "Reopened for QC: milestone QC repairs round 3"
+  "TRACE model of speech perception": "Reopened for QC: milestone QC repairs round 3",
+  "Sparse speech": "Reopened for QC: QC routing 2026-10-23: prose-short seed (132w) below the 150-word bar; expansion to bar"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:04:04+00:00",
+ "updated": "2026-10-23T06:07:02+00:00",
  "band_done": false
 }
