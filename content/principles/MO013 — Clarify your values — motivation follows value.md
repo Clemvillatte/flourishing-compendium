@@ -16,7 +16,7 @@ Self-determination theory describes a range of ways of taking on a goal. At one 
 
 The two ends have different costs. In schoolchildren (Ryan and Connell, 1989, as reported there), "Introjected regulation was positively related to expending more effort, but it was also related to feeling more anxiety and coping more poorly with failures". In contrast, "identified regulation was associated with more interest and enjoyment of school and with more positive coping styles, as well as with expending more effort" (Ryan and Deci, 2000). Effort can come from borrowed values, but the cost differs.
 
-This covers motivation for particular activities. It does not show that listing your values produces motivation, and I found no source on the ACT claim attached to this principle.
+This covers motivation for particular activities. It does not show that listing your values produces motivation, and no source on the ACT claim attached to this principle was found.
 
 **Plain words**
 You can push yourself with guilt, pride or other people's expectations, and it works for a while. Effort from something you have thought over and accept costs less. For each big commitment, ask whether you chose it or absorbed it.

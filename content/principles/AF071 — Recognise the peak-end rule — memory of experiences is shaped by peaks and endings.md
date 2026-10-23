@@ -18,7 +18,7 @@ The claim that you do not remember the average needs one correction. A meta-anal
 
 ### Scope
 
-Kahneman's 1993 full text or the Redelmeier and Kahneman 1996 paper, and the evidence concerns ratings of specific episodes, such as pain, films and workdays is cited at second hand. I found no study of family holidays, so the original entry's holiday example is dropped.
+Kahneman's 1993 full text and the Redelmeier and Kahneman 1996 paper are cited at second hand, and the evidence concerns ratings of specific episodes, such as pain, films and workdays. No study of family holidays was found, so the original entry's holiday example is dropped.
 
 **Plain words**
 When you look back on an experience, its worst or best moment and its last moments weigh heavily, along with the overall average. Duration counts for little.

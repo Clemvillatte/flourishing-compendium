@@ -18,7 +18,7 @@ The closest evidence I found links attention-related capacity to how much people
 >
 > Jha et al., Emotion (2010)
 
-The groups were small (31 and 17) and were not randomly assigned. Working memory capacity is close to attention without being the same thing. I found no study among those I opened showing that attention fades at a set rate once practice stops.
+The groups were small (31 and 17) and were not randomly assigned. Working memory capacity is close to attention without being the same thing. No study among those opened for this page shows that attention fades at a set rate once practice stops.
 
 (Jha et al., 2010.)
 

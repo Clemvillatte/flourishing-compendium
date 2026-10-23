@@ -26,7 +26,7 @@ The portfolio is an application of Fredrickson's broaden-and-build theory. Her 2
 
 ### What the evidence does and does not show
 
-The Proof Positive page lists many benefits of regularly feeling positive emotions, but it gives no specific study, sample or statistics for the portfolio itself. I found no trial of the portfolio on its own. Treat it as a reasonable, low-cost practice that rests on the broader positive-emotion literature, not as a tested intervention. The broaden-and-build paper reviews preliminary evidence and lists open questions, which is a reminder to stay modest about how far the theory reaches.
+The Proof Positive page lists many benefits of regularly feeling positive emotions, but it gives no specific study, sample or statistics for the portfolio itself. No trial of the portfolio on its own was found. Treat it as a reasonable, low-cost practice that rests on the broader positive-emotion literature, not as a tested intervention. The broaden-and-build paper reviews preliminary evidence and lists open questions, which is a reminder to stay modest about how far the theory reaches.
 
 ### In the compendium
 

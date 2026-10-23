@@ -23,7 +23,7 @@ Reputation describes a person's behaviour; identity explains it. A review of the
 
 The publisher's summary reports Hogan's agenda: "the agenda for personality theory is to explain individual differences among people in their ability to get along and get ahead" ([Hogan Assessments, Socioanalytic Theory](http://www.hoganassessments.com/sites/default/files/Socioanalytic%20Theory%20(2).pdf)). The theory's three master motives are summarized in the review as: "Homo Sapiens want to get along (and fear loneliness), get ahead (losing resources, status and control are depressive), and find meaning (chaos and unpredictability are anxiety provoking)" ([Gottlieb, Furnham and Klewe, 2021](https://www.scirp.org/pdf/psych_2021122114111230.pdf)). What connects identity to reputation is social skill: role-taking is "what translates motivation into accomplishment, and identity into successful reputation" ([same review](https://www.scirp.org/pdf/psych_2021122114111230.pdf)).
 
-An everyday-life case (imagined): a manager describes herself as direct and fair-minded. Her team, who experience the directness as sharp, describe her as intimidating. The first description is her identity; the second is her reputation.
+An everyday-life case : a manager describes herself as direct and fair-minded. Her team, who experience the directness as sharp, describe her as intimidating. The first description is her identity; the second is her reputation.
 
 ### Origin
 

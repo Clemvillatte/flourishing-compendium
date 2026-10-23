@@ -24,7 +24,7 @@ These findings concern associations in romantic couples. They do not establish t
 
 **Plain words** When you make a mistake, ask what needs putting right and how to address it without insulting yourself. Try the same questions when someone else makes a mistake. Treating both people with care is the compendium's suggested practice.
 
-*For example:* (imagined) After snapping at a colleague, someone apologises and identifies what they need to change, while examining their own mistake without insulting themselves.
+*For example:* After snapping at a colleague, someone apologises and identifies what they need to change, while examining their own mistake without insulting themselves.
 ## Psychology parallels
 
 - **[[Self-compassion|Self-compassion]] and relationship quality**, self-compassion linked to healthier relationship behavior (Neff & Beretvas, 2013)

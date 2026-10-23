@@ -24,7 +24,7 @@ The study concerns self-esteem changes during graduate applications. Separating 
 
 **Plain words** If an application is rejected, first describe the result: this application was unsuccessful. Then consider what feedback, if any, can help you improve. Calling your whole self a failure adds a judgement about the person to the outcome of one attempt.
 
-*For example:* (imagined) After a rejected application, someone asks for feedback and revises their writing sample without treating that decision as a verdict on their value as a person.
+*For example:* After a rejected application, someone asks for feedback and revises their writing sample without treating that decision as a verdict on their value as a person.
 ## Psychology parallels
 
 - **Contingent self-worth on competence** (Crocker & Wolfe, 2001; Crocker, 2002)

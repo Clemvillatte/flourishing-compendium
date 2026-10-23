@@ -22,7 +22,7 @@ He adds in VII.10 that the incontinent person is "not a criminal; for he does no
 
 **Plain words** Two people can do the same wrong thing while judging it differently. One breaks a rule they still accept and regrets it. The other chooses the excess and considers that choice right. Aristotle distinguishes a failure to follow one's judgement from a settled mistaken judgement about what to pursue. His disease comparisons describe that difference; they are not modern clinical diagnoses. For reflection, ask about choice and regret before treating a lapse as the whole of someone's character.
 
-As an analogy (imagined): two employees pad an expense claim. One regrets breaking a rule they accept. The other treats it as a rightful perk. The act is the same; the judgements behind it differ.
+As an analogy : two employees pad an expense claim. One regrets breaking a rule they accept. The other treats it as a rightful perk. The act is the same; the judgements behind it differ.
 
 ## Sources
 

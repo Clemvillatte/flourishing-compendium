@@ -30,7 +30,7 @@ The compendium's instruction from the letter: practise with others who share the
 
 **Plain words** Use the letter's own method: discuss a passage with someone else who reads it, and report to each other an occasion when you tried to live it. Seneca ran this by letter; you could arrange the exchange by message or in person.
 
-*For example:* (imagined) Two friends each send one message a week: one line on what they tried to practise, one line on where they drifted.
+*For example:* Two friends each send one message a week: one line on what they tried to practise, one line on where they drifted.
 ## Psychology parallels
 
 - **Social support and resilience** (Cohen and Wills, 1985)

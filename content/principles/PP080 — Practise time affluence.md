@@ -22,7 +22,7 @@ Causal evidence comes from a field experiment: 60 working adults spent $40 on a 
 
 ### Scope
 
-Mogilner and Norton 2016 is cited at second hand. I found no source comparing time affluence directly with wealth as predictors.
+Mogilner and Norton 2016 is cited at second hand. No source was found comparing time affluence directly with wealth as predictors.
 
 **Plain words**
 People who prefer time to money report being happier, but that is a correlation. In one small experiment, paying to save time lifted people's mood more than buying things.
