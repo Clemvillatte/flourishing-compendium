@@ -37,7 +37,7 @@ What the studies do not test: the rumination and attention findings come from si
 
 ### A guided version
 
-None located; the practice is unguided exposure, and the evidence above concerns unguided settings.
+The bounded search overturns the earlier verdict: guided recordings of nature contact exist, designed to be taken outdoors. Jörg Sprave's [I Am Nature guided forest bathing meditation at Mindful.org](https://www.mindful.org/jorg-sprave-a-guided-forest-bathing-meditation/) is an audio practice with a published script, based on shinrin-yoku, that has you settle where you are, notice your intimate connection with the natural world, and sit in the calm and awe of meditating outdoors. The kernel's default remains unguided: its job is contact, and the evidence above concerns unguided settings; the recording is the doorway when starting still needs a voice.
 
 ## Operationalises
 
