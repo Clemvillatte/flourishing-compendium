@@ -24,6 +24,10 @@ The good thing happens; the practice is where the attention goes while it happen
 **For example**
 Imagine someone who gets a genuinely good piece of feedback and is already drafting the next task in their head. The compendium's suggestion: reread the feedback once, let the sentences land, and tell one person about it at lunch.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Letters' attention to what is good, savouring as exercise
+
 ## Sources
 
 - [Bryant 2003, Savoring Beliefs Inventory (SBI): A scale for measuring beliefs about savouring, Journal of Mental Health 12(2), full text](https://www.carolinemiller.com/info/Savoring_Belief_Inventory_Bryant.pdf) — the three temporal orientations passage and the perceived-control framing.
