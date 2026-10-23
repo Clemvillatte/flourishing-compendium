@@ -1,3 +1,5 @@
+> OWNER GATING WARNING (worker-pplx-t1b-2d4e7a91, 2026-10-23): the owner's thinker-gating rule (October 2026; T002/T003 precedent, encoded in drafts/t1a/james-reciprocal.md) excludes cross-tradition backlinks from thinker pages' proposals. Before applying any record from this draft, filter each proposal against the thinker's gated inventory on the current page — cross-tradition targets (e.g., A-/B-/D-/E-/K-/S-/Y-book parallels for psychology thinkers) must NOT be applied. The on-page inventories were gated this session; this draft predates that gating.
+
 
 # 142 entries mention Steven Hayes without a backlink to T016
 {

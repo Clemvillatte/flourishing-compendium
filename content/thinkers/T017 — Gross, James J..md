@@ -55,7 +55,7 @@ Kept to the pages that carry or substantively apply Gross's work — the process
 - [[AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how|Recognise affect's sociocultural interfaces: culture shapes what you feel and how]]
 - [[AF084 — Build a personal affect-maintenance system — learn, adapt, retain|Build a personal affect-maintenance system: learn, adapt, retain]]
 
-### Concepts (24)
+### Concepts (23)
 - [[Anger reappraisal]]
 - [[Anger regulation research]]
 - [[Attention management]]

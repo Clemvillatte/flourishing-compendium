@@ -8,7 +8,7 @@ tags: ["stoicism", "philosophy", "roman"]
 discipline: "Stoicism"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHIL-STOIC"], "alternatePaths": ["NAV-PHILOSOPHY"]}
 ---
-Marcus Aurelius (born April 26, A.D. 121, as Marcus Annius Verus; died March 17, A.D. 180, in a military camp in Pannonia, Sirmium per one authority and Vienna per another) was a Roman emperor who ruled from A.D. 161 until his death ([Meditations, Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). He wrote the Meditations in Greek as private notes to himself; the Gutenberg edition republishes a comparison of the 1634 and 1635 Casaubon translation, and its introduction notes that he "extenuates nothing, but nothing sets down in malice."
+Marcus Aurelius (born April 26, A.D. 121, as M. Annius Verus; died March 17, A.D. 180, in Pannonia) was a Roman emperor who assumed the imperial state in A.D. 161 and ruled until his death ([Meditations, Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). He wrote the Meditations in Greek as private notes to himself; the Gutenberg edition republishes a comparison of the 1634 and 1635 Casaubon translation, and its introduction notes that he "extenuates nothing, but nothing sets down in malice."
 
 > "Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it. It is high time for thee to understand the true nature both of the world, whereof thou art a part; and of that Lord and Governor of the world, from whom, as a channel from the spring, thou thyself didst flow: and that there is but a certain limit of time appointed unto thee, which if thou shalt not make use of to calm and allay the many distempers of thy soul, it will pass away and thou with it, and never after return." — Meditations II.1 ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt))
 
@@ -47,7 +47,7 @@ The Meditations is a notebook, not a treatise. It records practice notes kept du
 
 Kept to the Stoic tradition — the S-book of principles is the tradition Marcus belongs to, and the Stoic-anchored concepts, stories and sayings that carry his teaching.
 
-### Principles (94)
+### Principles (82)
 - [[S005 — Live according to nature|Live according to nature]]
 - [[S014 — Want what actually happens|Want what actually happens]]
 - [[S016 — Do not desire what belongs to others|Do not desire what belongs to others]]
@@ -130,18 +130,6 @@ Kept to the Stoic tradition — the S-book of principles is the tradition Marcus
 - [[S134 — Build a daily structure|Build a daily structure]]
 - [[S137 — Integrate philosophy into your work|Integrate philosophy into your work]]
 - [[S140 — Remember that the smallest complete practice is one conscious breath and one kind act|Remember that the smallest complete practice is one conscious breath and one kind act]]
-- [[SE004 — Understand that self-esteem is not the same as self-worth|Understand that self-esteem is not the same as self-worth]]
-- [[SE016 — Learn self-distancing — view yourself from the outside|Learn self-distancing: view yourself from the outside]]
-- [[SE019 — Recognise the spotlight effect — you overestimate how much others notice you|Recognise the spotlight effect: you overestimate how much others notice you]]
-- [[SE021 — Recognise contingent self-worth — what your self-esteem depends on|Recognise contingent self-worth: what your self-esteem depends on]]
-- [[SE023 — Learn to distinguish self-worth from performance|Learn to distinguish self-worth from performance]]
-- [[SE031 — Learn self-forgiveness — release what cannot be changed|Learn self-forgiveness: release what cannot be changed]]
-- [[SE034 — Recognise that self-relationship is the foundation of all relationships|Recognise that self-relationship is the foundation of all relationships]]
-- [[SE057 — Learn to set boundaries — the self needs protection|Learn to set boundaries: the self needs protection]]
-- [[SE075 — Recognise self and ageing — self continues to develop|Recognise self and ageing: self continues to develop]]
-- [[SP001 — Understand rather than condemn|Understand rather than condemn]]
-- [[SP003 — Accept that nothing is contingent|Accept that nothing is contingent]]
-- [[SP082 — Practice seeing things under the aspect of eternity|Practice seeing things under the aspect of eternity]]
 
 ### Concepts (13)
 - [[Endurance (hypomenein)|Endurance (hypomenein)]]
