@@ -7,25 +7,39 @@ file: "Situation selection"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Situation selection is the most upstream of the regulation strategies: choosing or avoiding situations before they can generate the impulse or emotion in the first place. In James Gross's process model it is the first family of regulation points — selection, modification, attention, appraisal, response ([[Process model of emotion regulation Gross]]); in the self-control literature, Duckworth, Gendler and Gross organize strategies by the timeline of the developing tempting impulse and argue that situational strategies — which "can nip a tempting impulse in the bud" — may be especially effective in preventing undesirable action ([Duckworth et al., "Situational Strategies for Self-Control" (2016)](https://www.psychologicalscience.org/journals/perspectives/1745691615623247/)).
+Situation selection is the most upstream way of managing emotion and impulse: choosing, ahead of time, which situations to enter. In James Gross's process model of emotion regulation it is the first of five families of strategy, ahead of situation modification, attentional deployment, cognitive change and response modulation (see [[Process model of emotion regulation Gross]]). Gross defines it this way:
 
-The mechanism: impulses grow stronger over time, so willpower is weakest exactly where most people deploy it — at the peak of temptation. Acting on the situation (no snacks in the house, phone in another room, the route that doesn't pass the bar) spends the decision once, at a calm moment, instead of re-spending it hourly at the weakest one. Its compendium form is the kernel [[K178 — Situation selection]], and its emotion-regulation sibling is [[AF025 — Learn the full regulation toolkit — it is larger than calm down.]].
+> "Situation selection refers to taking actions that make it more (or less) likely that one will be in a situation that one expects will give rise to desirable (or undesirable) emotions. Examples include arranging to go to a movie, or avoiding a mean coworker. Situation selection is among the most forward looking of the regulation strategies" (Gross, 2015, [Psychological Inquiry](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf))
 
-The distinction to hold: situation selection is not avoidance-as-coping. Choosing not to enter situations that serve no purpose beyond temptation is strategy; withdrawing from necessary difficulty is avoidance. The test is what the situation is for.
+### Choosing the setting instead of resisting the pull
 
-An example at its smallest: the study session planned where the phone is not.
+The same idea appears in the self-control literature. Duckworth, Gendler and Gross give examples of situational self-control: "the partygoer who chooses a seat far from where drinks are being poured, the dieter who asks the waiter not to bring around the dessert cart, and the student who goes to the library without a cell phone." Their reasoning: "Because impulses tend to grow stronger over time, situational self-control strategies—which can nip a tempting impulse in the bud—may be especially effective in preventing undesirable action." They add that we may underappreciate these strategies because they minimise "the in-the-moment experience of intrapsychic struggle" (Duckworth et al., 2016, [Perspectives on Psychological Science](https://www.psychologicalscience.org/journals/perspectives/1745691615623247/)).
 
-Its contemplative cognates are the Buddhist guarding of the sense doors ([[Right effort]]) and the Daoist insight of arranging life so the unskillful is inconvenient ([[Wu wei]]).
+In plain terms, willpower is weakest at the peak of temptation, which is where most people try to use it. Acting on the situation spends the decision once, at a calm moment.
 
-situational strategies — choosing environments rather than resisting temptations — may be especially effective in preventing undesirable action (Duckworth et al., 2016).
+### What it is not
+
+Situation selection is not avoidance as a way of coping. Declining a situation that serves no purpose beyond temptation is strategy. Withdrawing from necessary difficulty is a different thing. The test is what the situation is for.
+
+### A small case
+
+A study session planned for a room where the phone is not. (Illustrative scenario, not a reported case.)
+
+### In the compendium
+
+- [[K178 — Situation selection]] — the compendium's kernel for it
+- [[AF025 — Learn the full regulation toolkit — it is larger than calm down.]] — its emotion-regulation sibling
+- [[Right effort]] — a contemplative cousin, the Buddhist discipline of effort
+- [[Wu wei]] — a Daoist cousin, acting without forcing
 
 ## Related concepts
-
 
 - [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that choosing contexts upstream works on
 - [[Emotion regulation]] — the earliest family in Gross's model
 ## Sources
 
+- [Gross (2015), Emotion Regulation: Current Status and Future Prospects, Psychological Inquiry 26(1)](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the definition of situation selection
+- [Duckworth, Gendler & Gross (2016), Situational Strategies for Self-Control, Perspectives on Psychological Science](https://www.psychologicalscience.org/journals/perspectives/1745691615623247/) — abstract quoted above
 - Duckworth et al., 2016
 - Gross, 2015, extended process model
 
