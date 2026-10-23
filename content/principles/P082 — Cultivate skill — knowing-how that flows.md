@@ -36,6 +36,10 @@ Dewey offers a related account of habit from the psychological side:
 
 *For example:* The veteran barista during the morning rush — no decisions, no strain, just the pour. That's years of joints, followed. Grace is accumulated.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the Inner Chapters skill stories the page pairs with Dewey for knowing-how that flows.
+
 ## Sources
 
 - [Zhuangzi ch. 3 (tr. James Legge)](https://tianmu.org/good-work-library/daoist/zhuangzi/inner-chapters/zhuangzi-nourishing-the-lord-of-life): Cook Ding and the nineteen-year knife

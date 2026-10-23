@@ -25,6 +25,10 @@ Stigma. The consensus statement's stated aim is to challenge misconceptions that
 
 *For example:* An adult with ADHD works through a dull report in a library next to a friend who is also working, with a timer on. The task has an immediate structure that its distant deadline lacks.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the tree that is not judged by the forest, the page's image for interest-based motivation.
+
 ## Sources
 
 - [Faraone et al. (2021), World Federation of ADHD International Consensus Statement, Neurosci Biobehav Rev 128, 789-818](https://pmc.ncbi.nlm.nih.gov/articles/PMC8328933/)

@@ -22,6 +22,10 @@ Separately, in an interview about forming habits, Stanford behavior scientist BJ
 
 *For example:* Fogg's demonstration from the interview: floss one tooth, then look in the mirror, smile and say "Great job, BJ!" ([NPR Life Kit, 2026](https://www.npr.org/transcripts/nx-s1-5694679-e1)).
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the wu wei enjoyment-of-process parallel the page cites for rewards that work.
+
 ## Sources
 
 - [Woolley, K., & Fishbach, A. (2017). Immediate rewards predict adherence to long-term goals. Personality and Social Psychology Bulletin, 43(2), 151-162 — abstract at PubMed (PMID 27899467)](https://pubmed.ncbi.nlm.nih.gov/27899467/) — the meta-analysis sentence, the New Year's resolutions finding and the study scope

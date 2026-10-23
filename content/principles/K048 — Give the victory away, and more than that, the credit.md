@@ -23,6 +23,10 @@ The verse trains a specific move: when someone belittles you, take the loss on y
 
 For example: After a successful project, you name your colleague's contribution in the meeting before she has to.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the argument passages' letting the other be right, the page's parallel for giving victory away.
+
 ## Sources
 
 - [Geshe Langri Thangpa, Eight Verses of Training the Mind (Lotsawa House)](https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind) — Rigpa Translations, revised 2012; verses 2 and 5

@@ -117,11 +117,21 @@
   "content/principles/D192 — Die well by having lived aligned.md",
   "content/principles/E011 — Practise phenomenological description.md",
   "content/principles/K003 — Act from unity; reflect from unity.md",
-  "content/principles/K014 — Let nothingness work as the place of things.md"
+  "content/principles/K014 — Let nothingness work as the place of things.md",
+  "content/principles/K025 — Regard all experience as dream-like.md",
+  "content/principles/K048 — Give the victory away, and more than that, the credit.md",
+  "content/principles/K062 — Practice one taste.md",
+  "content/principles/M036 — Ask whether this life is real, and let the question sting.md",
+  "content/principles/MO035 — Understand that habits are the foundation of sustainable motivation.md",
+  "content/principles/MO043 — Recognise the role of reward in habit formation — immediate rewards work.md",
+  "content/principles/MO060 — Recognise the role of flow in motivated well-being.md",
+  "content/principles/MO067 — Recognise ADHD and motivation — interest-based, not importance-based.md",
+  "content/principles/MO071 — Recognise motivation and neurodivergence — different patterns.md",
+  "content/principles/P082 — Cultivate skill — knowing-how that flows.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:17:05+00:00",
+ "updated": "2026-10-23T14:17:23+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it."
 }

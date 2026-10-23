@@ -27,6 +27,10 @@ Compare the situations in which you can begin and sustain a task with the situat
 
 *For example:* Imagine a person who cannot start the tax filing until the deadline is two days out, yet reorganizes a whole archive the moment a subject fascinates them. The pattern Dodson's account names is engagement that follows interest; recording when engagement actually shows up is how the person learns their own version.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the tree that is not judged by the forest, the page's image for motivation that differs without disorder.
+
 ## Sources
 
 - Dodson, "Secrets of Your ADHD Brain", ADDitude (medically reviewed) — [article](https://www.additudemag.com/secrets-of-the-adhd-brain/)

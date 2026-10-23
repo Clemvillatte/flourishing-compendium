@@ -20,6 +20,10 @@ This entry's translation of the test is transfer: what you can access on the cus
 
 For example: The calm you find on the cushion holds, a little, when your phone rings at an awkward moment.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the sameness of the sage (Inner Chapters), the page's parallel for one taste.
+
 ## Sources
 
 - [Ninth Karmapa Wangchuk Dorje, Mahamudra: Eliminating the Darkness of Ignorance, trans. Alexander Berzin (Study Buddhism)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/tantra-texts/mahamudra-eliminating-the-darkness-of-ignorance/enhancing-mahamudra-meditation) — root-text passages on the lesser and middling stages of the single taste and on total absorption and subsequent attainment quoted verbatim from the page

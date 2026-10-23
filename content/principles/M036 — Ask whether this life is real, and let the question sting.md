@@ -19,6 +19,10 @@ The songs say we come only to dream; Maffie reads the dreamlikeness as a fact ab
 
 *For example:* Someone in a full status race reads the question once a year, "is any of this real the way I treat it as real?", and each time something expensive and hollow quietly falls off the list.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the butterfly dream the page cites for the question that stings.
+
 ## Psychology parallels
 
 - **[[Savoring|savoring]]** (Cozzolino, 2006)

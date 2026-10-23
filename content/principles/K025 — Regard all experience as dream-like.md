@@ -27,6 +27,10 @@ In this reading, an experience can be vivid without being as fixed as it seems. 
 
 For example: After an argument, you notice yourself replaying one sentence. You gently label it as thinking and return attention to your breath.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the butterfly dream the page lists for experience held as dream.
+
 ## Sources
 
 - [Chekawa Yeshe Dorje, Seven Points of Mind Training, Point Two](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point) — root slogan "Regard all dharmas as dreams"; commentary by Chögyam Trungpa (Training the Mind), as carried on the Tibetan Buddhist Encyclopedia page

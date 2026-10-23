@@ -23,6 +23,10 @@ Lally and colleagues followed 96 volunteers for 12 weeks as they performed a cho
 
 *For example:* Imagine a person who wants to walk daily and stops deciding each morning: shoes by the door, walk after breakfast. On a morning when the resolve is missing, the shoes are still by the door.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the Cook Ding effortless action the page pairs with habit formation.
+
 ## Sources
 
 - [Gardner, Lally and Wardle, Making health habitual: the psychology of 'habit-formation' and general practice, Br J Gen Pract 62(605), December 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/) — habit definition, cue transfer
