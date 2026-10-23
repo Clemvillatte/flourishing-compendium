@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKE
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter S", "parent": ""}
 ---
 
-> **Thinker T007** — Baruch Spinoza (1632–1677), Dutch philosopher of Portuguese-Jewish descent; excommunicated at twenty-three, he ground lenses and wrote the Ethics in geometrical order; one substance, God or Nature, and freedom as understanding necessity.
+> **Thinker T007** — Baruch Spinoza (1632–1677), Dutch philosopher of Portuguese-Jewish descent; excommunicated by the Amsterdam Sephardic community in 1656, he wrote the Ethics in geometrical order: one substance, God or Nature, and freedom as understanding necessity.
 
 ## Personal story / context
 
@@ -17,7 +17,7 @@ Born in 1632 in Amsterdam, the middle son of a prominent family of moderate mean
 
 ## Their why
 
-The herem expelled a man already convinced that truth about God, the soul and the Law had to be reached by reason alone. His answer was the Ethics: a book that begins with God and definitions and ends with human freedom, written as a geometry proof because truth should be demonstrated, not preached. "Blessedness is not the reward of virtue, but virtue itself" ([Ethics V P42](https://www.gutenberg.org/ebooks/3800)).
+The Ethics examines how people governed by external causes and powerful emotions can become more active through understanding: Spinoza calls the inability to moderate and restrain the affects bondage, and freedom does not mean escaping necessity ([SEP](https://plato.stanford.edu/entries/spinoza/)). The final proposition states the aim: "Blessedness is not the reward of virtue, but virtue itself" ([Ethics V P42](https://www.gutenberg.org/ebooks/3800)).
 
 ## Their position
 
@@ -34,9 +34,9 @@ There is one substance. "That thing is called free, which exists solely by the n
 - **The three kinds of knowledge** — imagination, reason, and intuition grasping things under the aspect of eternity. See [[The three kinds of knowledge]], [[Sub specie aeternitatis]].
 - **Intellectual love of God** — understanding the universe is virtue, happiness and freedom at once. See [[Amor dei intellectualis]], [[Blessedness]].
 
-## Connected in the wiki — the Spinozist layer
+## Connected in the wiki — the Spinozist book
 
-The corpus has no Spinozist book of principles; the section keeps the entries whose pages cite Spinoza or the Ethics in their sources, plus the concepts keyed to him. A citation scan selects candidates without proving dependence, so supervisor audit is requested. (Scoping by analogy to the T002 owner direction; supervisor, please confirm.)
+The corpus's SP principles are the Spinozist book, and they head this list; the remaining principles and the concepts come from a Sources-section citation scan whose keyword set was too loose (a bare "Ethics" also matched Aristotelian-ethics citations), so every non-SP entry below is an unverified candidate and supervisor audit is requested. (Scoping by analogy to the T002 owner direction; supervisor, please confirm.)
 
 ### Principles (107)
 - [[A007 — Let reason (logos) guide desire (orexis)|Let reason (logos) guide desire (orexis)]]
@@ -187,7 +187,7 @@ The corpus has no Spinozist book of principles; the section keeps the entries wh
 No kernel page names him; the conatus kernels closest to his territory are reachable through the concepts above.
 
 ### Thinkers (0)
-No thinker page links to him yet; [[T003 — James, William|William James]] admired him and the pragmatist layer carries the echo.
+No thinker page links to him yet; [[T003 — James, William|William James]] is the nearest pragmatist neighbor in the corpus.
 
 ## Sources
 
