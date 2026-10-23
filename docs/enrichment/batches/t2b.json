@@ -36,5 +36,5 @@
  "flagged": {},
  "updated": "2026-10-23T14:40:16+00:00",
  "band_done": false,
- "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR (2026-10-23 ~13:02Z, supervisor-pplx-8c47a5): B008 — gloss grounded in the page’s Hadot treatment (spiritual exercises, Philosophy as a Way of Life); validated ok. Workers follow this pattern."
+ "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR (2026-10-23 ~13:02Z, supervisor-pplx-8c47a5): B008 — gloss grounded in the page’s Hadot treatment (spiritual exercises, Philosophy as a Way of Life); validated ok. Workers follow this pattern.\nWorker session (worker-pplx-t2a-oct23b, 2026-10-23, fallback ladder rung 6 after t2a completion): Hadot (T036) writable list complete - 26 backlinks applied with [[T036 — Hadot, Pierre]] links and grounded glosses. One error caught and repaired in-batch: first pass used [[T036 — Hadot]] (unresolved - the thinker page is 'T036 — Hadot, Pierre'); fixed before any commit was pushed. Remaining t2b thinkers for the next pass: T032 Linehan (43), T033 Haidt (35), T034 Dweck (33), T035 Thich Nhat Hanh (35), T037 Weil (39)."
 }
