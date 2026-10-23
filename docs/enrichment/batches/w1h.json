@@ -49,7 +49,6 @@
   "Plan-then-adapt strategies outperform rigid plans",
   "Narrative repair",
   "Nature connectedness",
-  "Optimal experience",
   "PERMA model",
   "Positive activity interventions",
   "Posner's three-network model",
@@ -70,7 +69,8 @@
   "Expressive suppression versus reappraisal",
   "Recognition",
   "Experiential learning",
-  "Community"
+  "Community",
+  "Optimal experience"
  ],
  "in_progress": null,
  "flagged": {
@@ -122,7 +122,7 @@
   "Plan-then-adapt strategies outperform rigid plans": "Category A in concept-namespace-audit.md (claim, not concept); NOT enriched per IS-IT-A-CONCEPT rule; awaiting supervisor conversion",
   "Narrative repair": "Reopened for QC: milestone QC round 2: prose source link added",
   "Nature connectedness": "Reopened for QC: milestone QC round 2: prose source link added",
-  "Optimal experience": "Reopened for QC: milestone QC round 2: optimal-experience bridge sentence added",
+  "Optimal experience": "Reopened for QC: prose 104<150 at canonical degree 15; design-shape section added from the opened 1989 abstract",
   "PERMA model": "Reopened for QC: milestone QC round 2: Flourish title claim removed, prose link added",
   "Relational cultural theory Miller": "fast-track enriched; title is garbled seed label (should be Relational-cultural theory) - rename needs supervisor; sources: Jordan 2024 APA sample pages (opened)",
   "Righteous indignation (nemesis)": "seed cite NE IV.9 is wrong (IV.9 = shame); nemesis mean is NE II.7 (Ross, MIT Classics) + Rhetoric II.9; Aquinas II-II.158 is about anger, not nemesis; page states this",
@@ -130,6 +130,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:23:35+00:00",
+ "updated": "2026-10-23T14:23:49+00:00",
  "band_done": false
 }

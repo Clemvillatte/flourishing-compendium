@@ -15,6 +15,10 @@ In their 1989 study Optimal experience in work and leisure, Csikszentmihalyi and
 
 The same study found that, regardless of the quality of experience, respondents were more motivated in leisure than in work, while individuals more motivated in flow than in apathy reported more positive experiences in work (Csikszentmihalyi and LeFevre, [1989, PubMed record](https://pubmed.ncbi.nlm.nih.gov/2724069/), abstract).
 
+### The finding's shape
+
+The design gives the finding its shape. With self-reports sampled randomly through the day, the same person's experience can be compared across contexts and across states, so the comparison runs between flow and setting rather than between people ([Csikszentmihalyi and LeFevre, 1989, abstract](https://pubmed.ncbi.nlm.nih.gov/2724069/)). The result, that flow matters more to the quality of experience than the work-leisure setting, is a claim about what carries that quality.
+
 ## Sources
 
 - [Csikszentmihalyi, M. and LeFevre, J., "Optimal experience in work and leisure", Journal of Personality and Social Psychology 56(5), 1989, pp. 815-822, PubMed record 2724069](https://pubmed.ncbi.nlm.nih.gov/2724069/) — the abstract supplies the ESM design, the flow-vs-context finding, and the work-leisure motivation results quoted above
