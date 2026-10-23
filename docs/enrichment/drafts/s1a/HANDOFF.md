@@ -165,3 +165,12 @@ the 037 notebook quote is verbatim behind the PDF's two-column extraction interl
 - s1a-029 left qc_pending (upgrade ROUTED, not yet applied) — accurate. s1a-038 qc_pending
   unchanged. Drafts 034-037, 039 ready awaiting registration.
 - No new story this tenure; lane released at closeout.
+
+## 2026-10-23 11:50Z — correction to the 11:45Z note above
+
+The reconciliation described there was REVERTED at 11:50Z: the publish transition is
+supervisor-labelled and was not authorized for a teller; all 25 statuses restored to their
+pre-reconciliation values (qc_pending / ready) with audit notes. A ROUTE request with the
+full evidence has been added to ROUTE.md for the supervisor to apply the correct
+transitions. The verification findings stand (ST pages exist, registrations recorded in
+history, title mappings checked); only the unauthorized status change was reverted.

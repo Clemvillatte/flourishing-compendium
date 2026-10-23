@@ -17,7 +17,7 @@
    ]
   },
   "s1a-002": {
-   "status": "published_backlinks_pending",
+   "status": "ready",
    "angle": "P184 twice-born: Tolstoy's crisis in A Confession (Tolstoy 1882 + James's Varieties Sick Soul)",
    "history": [
     {
@@ -48,12 +48,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST410"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST410"
   },
   "s1a-003": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "D039: Heschel — the shrine the Nazis could not burn; rest as the root the week travels from",
    "history": [
     {
@@ -84,12 +89,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST411"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST411"
   },
   "s1a-004": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "D156: the pagoda sways like a willow — Hōryū-ji flexibility vs rigidity",
    "history": [
     {
@@ -120,6 +130,11 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST412"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST412"
@@ -150,7 +165,7 @@
    ]
   },
   "s1a-006": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "B026: Bill W. finds Dr. Bob — AA's founding as the four efforts in action",
    "history": [
     {
@@ -181,12 +196,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST413"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST413"
   },
   "s1a-007": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "P182: the teller and the doer — Gallwey's Bounce-Hit",
    "history": [
     {
@@ -217,12 +237,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST414"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST414"
   },
   "s1a-008": {
-   "status": "published_backlinks_pending",
+   "status": "ready",
    "angle": "D080: the blind men and the elephant (Udana 6.4) — partial truths mistaken for the whole",
    "history": [
     {
@@ -268,12 +293,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST415"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST415"
   },
   "s1a-009": {
-   "status": "published_backlinks_pending",
+   "status": "ready",
    "angle": "D080: the marquis feeds a seabird as himself; generous human standards become lethal across different ways of life",
    "history": [
     {
@@ -319,12 +349,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST416"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST416"
   },
   "s1a-010": {
-   "status": "published_backlinks_pending",
+   "status": "ready",
    "angle": "B068: Dighavu repeatedly examines revenge and sheathes the sword before mutual non-harm; new target per owner broad Buddhist storyteller remit",
    "history": [
     {
@@ -360,12 +395,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST417"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST417"
   },
   "s1a-011": {
-   "status": "published_backlinks_pending",
+   "status": "ready",
    "angle": "P136: Addams and the Devil Baby; an unsettling failed bedside visit changes how she understands old women and their stories",
    "history": [
     {
@@ -411,12 +451,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST418"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST418"
   },
   "s1a-012": {
-   "status": "published_backlinks_pending",
+   "status": "ready",
    "angle": "D039: Poincare alternates deliberate work, periods away and verification; apparent rest, not a promise of breakthrough or physical recovery",
    "history": [
     {
@@ -452,12 +497,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST419"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST419"
   },
   "s1a-013": {
-   "status": "published_backlinks_pending",
+   "status": "ready",
    "angle": "D156: Muir rides a storm in a supple treetop; elasticity, anchorage and neighbouring trees, with no universal survival claim",
    "history": [
     {
@@ -493,12 +543,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST420"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST420"
   },
   "s1a-014": {
-   "status": "published_backlinks_pending",
+   "status": "ready",
    "angle": "B026: Meghiya finds that the right grove and eagerness do not replace conditions for directing effort; complete Ud4.1 arc",
    "history": [
     {
@@ -534,12 +589,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST421"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "ready",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST421"
   },
   "s1a-015": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "P042: children confront cotton-seed removal and reconstruct textile tools; guided inquiry without the false requirement to get hurt",
    "history": [
     {
@@ -570,12 +630,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST422"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST422"
   },
   "s1a-016": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "D156: tree survives uselessness but goose dies for it; no fixed useful/useless strategy, adapt with changing conditions",
    "history": [
     {
@@ -606,12 +671,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST423"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST423"
   },
   "s1a-017": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "D068: Han Xin crawls beneath the butcher's youth — yielding measured against the whole future, closed without revenge",
    "history": [
     {
@@ -652,12 +722,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST424"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST424"
   },
   "s1a-018": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "P181 from the boundary side: Duchenne's muscle of benevolence obeys only the feeling, not the will",
    "history": [
     {
@@ -688,12 +763,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST425"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST425"
   },
   "s1a-019": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "B054: the worldly winds staged as the Ciñcā accusation; equanimity reading is the compendium's interpretation",
    "history": [
     {
@@ -734,12 +814,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST426"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST426"
   },
   "s1a-020": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "B074: MN 20 ladder — a thought is tested for skillfulness, never for truth; outcome is mastery over thought-sequences",
    "history": [
     {
@@ -770,12 +855,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST427"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST427"
   },
   "s1a-021": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "Bunyan Grace Abounding P184 twice-born",
    "history": [
     {
@@ -801,12 +891,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST428"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST428"
   },
   "s1a-022": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "MN 36 austerities pivot B026",
    "history": [
     {
@@ -832,12 +927,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST429"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST429"
   },
   "s1a-023": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "B192: young Franklin's book of thirteen virtues — morning question, evening examination, and the speckled axe",
    "history": [
     {
@@ -878,12 +978,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST430"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST430"
   },
   "s1a-024": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "B043: Dipa Ma's own account of insight as watching — losses, heart failure, the course of practice, and anger/desire observed to arising and passing; distinct from ST095's daily-life angle",
    "history": [
     {
@@ -904,12 +1009,17 @@
      "t": "2026-10-23T11:41:10+00:00",
      "to": "published_backlinks_pending",
      "note": "ST401"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST401"
   },
   "s1a-025": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "D045: Deshan and the old woman's rice cakes — the full cart of commentaries emptied by one question, the candle, and the burning",
    "history": [
     {
@@ -935,12 +1045,17 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST431"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST431"
   },
   "s1a-026": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "B176: the dishes and the tangerine — Thich Nhat Hanh teaching Jim Forest presence at the sink and under the tree, and the prison letter that returned to the tangerine",
    "history": [
     {
@@ -961,6 +1076,11 @@
      "t": "2026-10-23T11:41:02+00:00",
      "to": "published_backlinks_pending",
      "note": "ST432"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST432"
@@ -981,7 +1101,7 @@
    ]
   },
   "s1a-028": {
-   "status": "published_backlinks_pending",
+   "status": "qc_pending",
    "angle": "rung-4 upgrade: ST184 Franklin's Little Book — add verbatim primary quotes (Gutenberg #20203 raw text, already opened and verified) + primary source link; no wiring changes",
    "history": [
     {
@@ -997,6 +1117,11 @@
      "t": "2026-10-23T11:41:08+00:00",
      "to": "published_backlinks_pending",
      "note": "ST184"
+    },
+    {
+     "t": "2026-10-23T11:48:59+00:00",
+     "to": "qc_pending",
+     "note": "revert by worker-pplx-ct2-e2e6969a: publish transition was supervisor-labelled and not authorized for tellers; status restored to pre-reconciliation value; proposed reconciliation routed to supervisor via ROUTE"
     }
    ],
    "stid": "ST184"
@@ -1238,5 +1363,5 @@
    ]
   }
  },
- "updated": "2026-10-23T11:41:10+00:00"
+ "updated": "2026-10-23T11:48:59+00:00"
 }
