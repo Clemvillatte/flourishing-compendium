@@ -12,18 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 176** — Desire to be without desires
 
-Chapter 64 of the Daodejing ends with the sage's difference from other men: he desires what other men do not desire, and does not prize things difficult to get; he learns what other men do not learn, and turns back to what the multitude of men have passed by; thus he helps the natural development of all things, and does not dare to act with an ulterior purpose of his own. Earlier in the chapter, it also says that action should be taken before a thing has made its appearance, order secured before disorder has begun; and that people in their conduct of affairs are constantly ruining them when they are on the eve of success — if they were careful at the end as at the beginning, they would not so ruin them.
+In Daodejing 64, Legge's sage desires what others do not desire and declines to prize what is difficult to get. The text still gives him something to desire. This principle's title is a reading of that difference, rather than a claim that the sage in this translation wants nothing at all.
 
 (DDJ 64.)
 
 > "Therefore the sage desires what (other men) do not desire, and does not prize things difficult to get; he learns what (other men) do not learn, and turns back to what the multitude of men have passed by." (DDJ 64, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The principle's title, "desire to be without desires", is the compendium's gloss on the sage's desiring what other men do not desire: the reading takes the difference to be about desire itself, in the sage's not prizing things difficult to get.
+### Plain words
 
-**Plain words**
-The chapter's sage wants what others do not want, and does not prize what is hard to get. The compendium's exercise: name a goal, including a spiritual one, and ask what its loss would do to you — that is the test of whether it is held as a prize or as a direction.
+You can want something and decide not to organise your day around getting it. Ask what acquiring it would require and whether it serves a purpose you endorse. Leave some wants unanswered without making freedom from wanting another task to perfect.
 
-*For example:* The compendium's hypothetical: the person who turns meditation into another achievement app with streaks — the practice became the new prize.
+### For example
+
+For an optional purchase, compare buying now, borrowing, and waiting. Write down the purpose each option would serve and what it would cost beyond money. Select on that purpose, then keep the question for your next purchase. The motivation practice is examining what you want the acquisition to do.
 
 ## Sources
 

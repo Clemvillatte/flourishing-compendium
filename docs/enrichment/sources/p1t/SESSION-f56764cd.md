@@ -156,3 +156,16 @@ D149's pre-existing [[Measure in all things]] target is missing from content/con
 - Replaced watching-for-return exercise with transparent gift/exchange terms. Example generates unconditional and reciprocal offers, selects the one honestly intended, and retains that distinction; overt behaviour named.
 - Read Reciprocity and Prosocial spending in full; both already backlink D175. Ran first-give mention search. No new reciprocal proposed.
 - Original parallels and reflections preserved, not independently certified.
+
+## Milestone fifteen advisor QC
+
+Independent advisor freshly opened Huainanzi, Legge and Roth and returned scoped PASS on D149, D151, D153, D157 and D169. Exact quotations, source/application boundaries, distinct Plain words, and varied/selected/retained examples checked; no blocker-level unnatural or repetitive prose. Retained parallels and reflections not reviewed. All fifteen repairs validated with zero failures.
+
+## D176
+
+- Reopened with enrich_state.py. Checked complete DDJ 64, especially the sage's desires and refusal to prize things difficult to get: https://www.gutenberg.org/files/216/216-h/216-h.htm.
+- Existing exact quotation retained. Removed the long recital of other chapter topics and made the interpretation boundary explicit: the title is not a literal statement that Legge's sage desires nothing.
+- Plain words considers choosing not to organise life around an acquisition without turning wantlessness into a new achievement demand.
+- Optional-purchase example varies buying, borrowing and waiting, selects on an endorsed purpose and keeps that question for later choices; motivation named. No shopping transaction or price claim.
+- Read Nonattachment, Non-attachment and Preferred indifferents in full; all already backlink D176. Ran difficult-to-get mention search. No new reciprocal proposed.
+- Existing parallels and reflections preserved, not independently certified.
