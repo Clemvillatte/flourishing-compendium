@@ -7,17 +7,43 @@ file: "The view from above"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The view from above is the Stoic contemplative exercise of deliberately viewing human affairs from cosmic height — the classic locus is Marcus Aurelius, *Meditations* VII.48: whoever discourses about human beings should "look at earthly things as if from somewhere above" — thousands of flocks, harvests, marriages and funerals, the mixing of lives ([readaurelius.org, Meditations VII.48](https://readaurelius.org/passage/7/48); [Robertson on the view from above in Stoicism](https://donaldrobertson.name/2019/09/20/stoicism-at-the-athenian-acropolis/)). The exercise descends from Plato's advice to look at human affairs from a height, and Hadot's reading of it as a physical cosmology practice, not a metaphor.
+The view from above is a Stoic exercise: picture human affairs from a great height until their scale changes. Marcus Aurelius gives it most plainly in his Meditations, in George Long's translation:
 
-The mechanism is scale-contrast: the urgent becomes the small — insults, status races, tomorrow's meeting — while what actually matters at scale (character, what one is doing with a life) stays visible. It is the Stoic cognitive-move of seeing the smallness of human affairs ([[S100 — See the smallness of human affairs]]; [[S052 — Practise the view from above]] is the compendium's training form) and pairs naturally with mortality as the other great scale-setter ([[Memento mori]]; [[B193 — Live with death lightly in view]]) and with the observing self distinct from the story of self ([[P160 — Distinguish the observing self from the story of self]]).
+> "Look down from above on the countless herds of men and their countless solemnities, and the infinitely varied voyagings in storms and calms, and the differences among those who are born, who live together, and die." (Marcus Aurelius, Meditations, Book 9, Long translation, [MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.9.nine.html))
 
-The distinction to hold: the view from above is not dissociation or contempt. The exercise ends in returning to the ground and doing the day's work with lighter hands — distance is in the service of engagement, not escape ([[D081 — Recognize the relativity of perspectives]] keeps the plurality of views; [[Equanimity]] is what the altitude produces).
+The passage goes on to widen in time as well as space: lives lived long ago, lives to come, "how many know not even thy name, and how many will soon forget it".
 
-An example at its smallest: stuck in a grudge, one deliberate minute imagining the block from ten thousand feet — the complaint shrinking to its actual size, then deciding again what, at that size, still deserves action.
+### Where it comes from
 
-Its siblings are [[Equanimity]] (what the altitude produces) and [[Shunyata]] (the vastness without categories).
+A related passage in Book 7, where Marcus quotes Plato, makes the same point about elevated minds:
+
+> "The man who has an elevated mind and takes a view of all time and of all substance, dost thou suppose it possible for him to think that human life is anything great?" (Marcus Aurelius, Meditations, Book 7, Long translation, [MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.7.seven.html))
+
+The commentary at [readaurelius.org](https://readaurelius.org/passage/7/48) points to Meditations 7.48 as the best-known statement, rendering the instruction as looking at earthly things "as if from somewhere above, looking down", and ties the spirit of it to Plato's Republic 486a and Theaetetus 173e to 174a.
+
+### What the altitude does
+
+The mechanism is contrast of scale. The urgent becomes small: insults, status races, tomorrow's meeting. What matters at scale, such as character and what one does with a life, stays in view. It is the Stoic habit of seeing the smallness of human affairs, and it pairs with keeping death in view and with watching one's own story from the observing self. With practice, the result tends toward [[Equanimity]].
+
+### What it is not
+
+It is not contempt or dissociation. The exercise ends back on the ground. Distance serves engagement: the grudge shrinks to its real size, and then one decides what, at that size, still deserves action. For a small case, a minute spent imagining the block from ten thousand feet while stuck in a grudge. (Illustrative scenario, not a reported case.)
+
+### In the compendium
+
+- [[S100 — See the smallness of human affairs]] — the Stoic move itself
+- [[S052 — Practise the view from above]] — the compendium's training form
+- [[Memento mori]] and [[B193 — Live with death lightly in view]] — mortality as the other great scale-setter
+- [[P160 — Distinguish the observing self from the story of self]] — the observer in the exercise
+- [[D081 — Recognize the relativity of perspectives]] — keeps the plurality of views
+- [[Equanimity]] — what the altitude produces
+- [[Shunyata]] — the vastness without categories, a sibling concept
+
 ## Sources
 
+- [Marcus Aurelius, Meditations, George Long translation, Book 9 (MIT Internet Classics Archive)](https://classics.mit.edu/Antoninus/meditations.9.nine.html) — the "look down from above" passage
+- [Marcus Aurelius, Meditations, George Long translation, Book 7 (MIT Internet Classics Archive)](https://classics.mit.edu/Antoninus/meditations.7.seven.html) — the Platonic remark on the elevated mind
+- [readaurelius.org, Meditations 7.48](https://readaurelius.org/passage/7/48) — commentary on the classic locus of the exercise
 - Marcus Aurelius, Meditations 9.30
 - Stoics, Marcus Aurelius, Meditations
 - the Stoics
