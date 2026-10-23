@@ -41,7 +41,10 @@
   "Topophilia",
   "Sparse speech",
   "Sorrow's fruit",
-  "Thundering silence"
+  "Thundering silence",
+  "Ultimatum research",
+  "Worry research",
+  "Therapeutic empathy"
  ],
  "in_progress": null,
  "flagged": {
@@ -56,7 +59,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 8,
- "updated": "2026-10-23T05:34:12+00:00",
+ "updated": "2026-10-23T05:35:05+00:00",
  "band_done": true,
  "notes": {
   "fast_track_leftovers_2026_10_22": "worker-pplx-w1a-4e6d8b90: corpus audit found 114 thin no-URL concept pages NOT present in any band manifest (queue leftovers; full list in commit history of this note). Working them at the §1a fast-track bar under w1a with ownership verified per item; Daoist/Buddhist items first per §1a. FLAGGED TO SUPERVISOR: these 114 items sit outside all manifests — reconcile or re-mint as you prefer. First item: Zhi zu (knowing sufficiency), Daodejing 33/44/46, Legge (Gutenberg 216) raw-verified quotes. Second item: Subitism (Platform Sutra sections 16/39, Yampolsky via IEP Huineng article, fetched and verified). Third item: Zhuangzi's laughter (chs. 1/17/29, public-domain Zhuangzi via Gutenberg 59709, raw-verified; ch. 29 spurious-marker disclosed on page). Fourth item: The art of letting go (MN 22 raft simile, Thanissaro translation via AccessToInsight, fetched and verified verbatim). Fifth item: Va (Wendt 1996 pp. 18-19 quoted verbatim via the open-access ANU Press Vā Moana chapter; NZEPC essay page unreachable from this environment, second-hand quoting disclosed on page). Sixth item: Vitality (Ryan & Frederick 1997 p.530 definition verified via the open-access Frederick & Ryan Oxford Handbook of SDT chapter on ACU Research Bank). Seventh item: Daily awe (Sturm et al. awe-walk RCT, Emotion 22(5):1044-1058 via PMC, abstract sentences fetched and verified verbatim; honest scope of effects stated on page). Eighth item: Topophilia (Tuan 1974 definition quoted via Sinclair 1995 open-access citation-classic study, Kennesaw State DigitalCommons; term origin 1961 essay + 1974 book verified on the fetched page). Ninth item: Sparse speech (Daodejing 23 Legge, raw-verified against the already-opened Gutenberg 216 carrier). Tenth item: Sorrow's fruit (Gibran The Prophet 'On Joy and Sorrow', Gutenberg 58585, raw-verified quotes).",
