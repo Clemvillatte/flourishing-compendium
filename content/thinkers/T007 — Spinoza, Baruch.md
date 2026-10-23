@@ -36,7 +36,7 @@ There is one substance. "That thing is called free, which exists solely by the n
 
 ## Connected in the wiki — the Spinozist book
 
-The corpus's SP principles are the Spinozist book; all 94 in the mention inventory are listed. The other 34 principles were inspected this session: each carries an explicit doctrinal comparison to Spinoza with varying locator precision (most cite an Ethics part, a few a proposition, and three a looser reference), so they are kept as cross-tradition parallels; the concepts were filtered by explicit Spinoza reference but not context-audited. (Scoping by analogy to the T002 owner direction; supervisor, please confirm.)
+The corpus's SP principles are the Spinozist book; all 94 in the mention inventory are listed. The other 34 principles each carry an explicit doctrinal comparison to Spinoza, with varying locator precision (most cite an Ethics part, a few a proposition, and three a looser reference), so they are kept as cross-tradition parallels; the concepts are filtered by explicit Spinoza reference.
 
 ### Principles (128)
 - [[SP001 — Understand rather than condemn|Understand rather than condemn]]

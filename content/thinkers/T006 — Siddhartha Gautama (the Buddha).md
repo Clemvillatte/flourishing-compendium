@@ -39,7 +39,7 @@ Mind is the forerunner: "All that we are is the result of what we have thought: 
 
 ## Connected in the wiki — the Buddhist tradition
 
-The page keeps the B principles plus entries from other books citing the suttas or Dhammapada, with the concepts, kernels, stories and sayings keyed to him; later Buddhist reception is kept as tradition, not as Gautama's sermons (B061 is Bankei's Japanese Zen, B161 the Linji-lu koan, Original enlightenment and Interbeing later developments). (Scoping by analogy to T002; supervisor, please confirm.)
+The page keeps the B principles plus entries from other books citing the suttas or Dhammapada, with the concepts, kernels, stories and sayings keyed to him; later Buddhist reception is kept as tradition, not as Gautama's sermons (B061 is Bankei's Japanese Zen, B161 the Linji-lu koan, Original enlightenment and Interbeing later developments).
 
 ### Principles (46)
 - [[A005 — Choose the mean, not the extreme|Choose the mean, not the extreme]]

@@ -40,7 +40,7 @@ Experience comes first and it comes whole. Thought is a river: "Consciousness ..
 
 ## Connected in the wiki — the Jamesian tradition
 
-The page keeps to the corpus entries that substantively draw on James; other traditions echo him only in passing. (Scoping applied by analogy to the T002 owner direction; supervisor, please confirm it holds for James.)
+The page keeps to the corpus entries that substantively draw on James; other traditions echo him only in passing.
 
 ### Principles (54)
 - [[AF036 — Learn to regulate through action — affect follows behaviour|Learn to regulate through action: affect follows behaviour]]

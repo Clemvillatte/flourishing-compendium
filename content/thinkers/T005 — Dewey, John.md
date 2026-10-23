@@ -38,7 +38,7 @@ Growth is the point. "If education is growth, it must progressively realize pres
 
 ## Connected in the wiki — the Deweyan layer of the pragmatist book
 
-The corpus has no separate Dewey book; his principles live in the pragmatist (P) book alongside James's, and the section keeps the entries whose pages cite Dewey or his works in their sources, plus the education and experience concepts derived from him. (Scoping applied by analogy to the T002 owner direction; supervisor, please confirm.)
+The corpus has no separate Dewey book; his principles live in the pragmatist (P) book alongside James's, and the section keeps the entries whose pages cite Dewey or his works in their sources, plus the education and experience concepts derived from him.
 
 ### Principles (128)
 - [[A004 — Become virtuous by doing virtuous acts|Become virtuous by doing virtuous acts]]

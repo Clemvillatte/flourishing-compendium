@@ -35,7 +35,7 @@ The good for a human being is activity, and the distinctively human activity is 
 - **The whole life and its external conditions** — flourishing takes a complete life, moderate goods, and some luck. See [[A008 — Accept that flourishing takes a whole life|A008]], [[A006 — Expect flourishing to require external goods|A006]], [[A010 — Recognise that fortune can overturn happiness|A010]].
 
 ## Connected in the wiki — the Aristotelian tradition
-Principles are kept to the Aristotelian tradition — his own book of principles — and to what the page itself teaches; other traditions may echo Aristotle, but linking them here would drown the graph. (Owner direction, October 2026.)
+Principles are kept to the Aristotelian tradition — his own book of principles — and to what the page itself teaches; other traditions may echo Aristotle, but linking them here would drown the graph.
 
 ### Principles (122)
 - [[A001 — Make eudaimonia the organising end of your life|Make eudaimonia the organising end of your life]]
