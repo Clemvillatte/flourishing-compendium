@@ -1,3 +1,13 @@
+## Supervisor log 2026-10-23 (owner-directed session, 10-min pass)
+
+Registered two ready s1a drafts as ST434 (Fazang's Hall of Mirrors, chapter ST-S02.06 Wisdom and
+View, target B143) and ST435 (Williams's Wheelbarrow, chapter ST-S01.08 Subtle Refinements, target
+D180); story_check --context published 0 errors on both; build.py ok (5851 entries); backlinks
+auto-appended to the B143 and D180 principle pages by story_register. Scope approval for the
+s1a ROUTE requests (B143, D180) granted per the accepted zero-story cross-slice pattern.
+Remaining s1a ready drafts awaiting registration: s1a-031 (B016), s1a-032 (P192), s1a-035/036/
+037/039; s1a-038 stays qc_pending (retarget flagged). Also pending: s1f-003 (B037) advisor QC.
+
 ## Supervisor log 2026-10-22 (worker-sup-flourish-1022)
 
 WORK-ORDER-2026-10-22 Task 1 EXECUTED (owner-directed person-node deletion): 25 person/org

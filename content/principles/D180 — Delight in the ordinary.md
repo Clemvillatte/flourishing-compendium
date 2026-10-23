@@ -22,6 +22,9 @@ The Zhuangzi takes the same insight and sharpens it into a paradox. True pleasur
 
 *For example:* A traveller spends thousands to reach a famous lookout at sunset, surrounded by crowds, phones up, all recording. The same sunset lands on their own balcony three days later with no one watching, and lands harder. Nothing about the light changed. The balcony had been there the whole time.
 
+## Stories
+- [[ST435 — Williams's Wheelbarrow|435. Williams's Wheelbarrow]]
+
 ## Psychology parallels
 
 - **[[Savoring|Savoring]]**, attending to and appreciating ordinary experience raises well-being (Bryant and Veroff, 2007)

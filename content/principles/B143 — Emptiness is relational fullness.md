@@ -30,6 +30,9 @@ Imagine two partners planning care for an elderly relative. They list the transp
 
 - [Nagarjuna, Mulamadhyamakakarika, trans. Stephen Batchelor (Wisdom Library)](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html) — ch. 24; [ch. 15](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79729.html)
 
+## Stories
+- [[ST434 — Fazang's Hall of Mirrors|434. Fazang's Hall of Mirrors]]
+
 ## Psychology parallels
 
 - **[[Social baseline|Social baseline theory]]**: a model of how trusted relationships may reduce risk and effort, not a demonstration of Buddhist emptiness ([Coan and Sbarra, 2015, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4375548/)).
