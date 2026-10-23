@@ -13,7 +13,8 @@
   "content/kernels/K304 — Lived-body description.md",
   "content/kernels/K321 — Dignity conversation.md",
   "content/kernels/K132 — The pragmatic maxim.md",
-  "content/kernels/K267 — Controllability sorting.md"
+  "content/kernels/K267 — Controllability sorting.md",
+  "content/kernels/K351 — The meaning question.md"
  ],
  "in_progress": null,
  "flagged": {
@@ -30,11 +31,12 @@
   "content/kernels/K304 — Lived-body description.md": "no guided recording located for the description practice itself; body-scan family covered by K102; carriers are philosophical, no outcome claims made",
   "content/kernels/K321 — Dignity conversation.md": "seed overclaim corrected: the 2011 RCT found no significant differences in distress levels; benefits were secondary, self-reported end-of-life experiences; no guided recording located",
   "content/kernels/K132 — The pragmatic maxim.md": "no guided recording located; carriers philosophical, no outcome claims",
-  "content/kernels/K267 — Controllability sorting.md": "seed overclaim softened: locus of control evidence is weak-to-moderate and correlational, not predictive of resilience; no guided recording located"
+  "content/kernels/K267 — Controllability sorting.md": "seed overclaim softened: locus of control evidence is weak-to-moderate and correlational, not predictive of resilience; no guided recording located",
+  "content/kernels/K351 — The meaning question.md": "Li et al. 2021 meta-analysis is paywalled, cited second-hand via PMC literature and disclosed; no guided recording located"
  },
  "missing_concepts": 0,
  "sources_checked": 0,
- "updated": "2026-10-23T11:29:48+00:00",
+ "updated": "2026-10-23T11:31:21+00:00",
  "band_done": false,
  "notes": "Minted by supervisor-pplx-1023a (2026-10-23): KERNELS tail band. 32 items = the queued-not-done kernel paths from the 2026-10-23 reconciliation (65 remaining in the queue after removing k1a/k1b/kpr/cmp/maintenance done entries). Model exemplar: K100 (PROTOCOL-THINKERS.md Relation to Kernels; also see K409). Owner's workability directive (2026-10-21) applies: PBT (variation-selection-retention) and/or the six dimensions. Each item: read, verify/enrich to the kernel bar with opened carriers, validate, record done (path form, as in k1a/k1b), save. Also note: 64 kernel pages exist that are outside the queue AND not recorded done — supervisor item for the next pass (mint k1e or fold into a trim of the queue).",
  "queue": [
