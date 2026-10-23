@@ -7,12 +7,19 @@
 
 ## Choices
 
-- Full rebuild to current template: definition + blockquote + three sections + Related + hyperlinked Sources.
-- Removed the stray fragment line "observation, feeling, need, request defuses attack (Rosenberg, 2003)." (single word was cited to Rosenberg 2003; the mechanism is now described in prose without the orphan citation; Rosenberg 2003 kept in Sources).
-- The "she is lazy" housemate example is now labelled an illustrative scenario, not a reported case (no carrier opened for Rosenberg's exact worked example).
-- All original wikilinks preserved exactly (linkdiff vs HEAD: nothing missing). The psychology Cited-in list restored verbatim; note the original page's list of 15 psychology links is kept as-is, and I did NOT add a "D059 — Communicate humbly" line (D059 is actually "Do the difficult while it is easy" — no such link existed in the original file; earlier session summary was wrong on this).
-- Related concepts added: Compassion, Active listening, Therapeutic empathy, Assertiveness research, Right effort (all verified as existing pages via title lookup).
-- Evidence-status paragraph kept honest per Wikipedia: heterogeneous evidence, calls for larger studies.
+- Full rebuild to current template (definition + blockquote + sections + Related + hyperlinked Sources).
+- Removed the stray fragment line "observation, feeling, need, request defuses attack (Rosenberg, 2003)."; the two bare Rosenberg entries removed from public Sources (unconsulted this run; provenance noted here).
+- The "she is lazy" housemate example is labelled an illustrative scenario, not a reported case.
+- All original wikilinks preserved exactly (linkdiff vs HEAD: nothing missing; [[Compassion]] and [[Right effort]] kept at their original counts of two each). The original file never contained a "D059 — Communicate humbly" link (earlier session summary was wrong on this); D059 is actually "Do the difficult while it is easy".
+
+## Advisor QC corrections (item 5 milestone QC)
+
+1. Attribution: blockquote lead-in changed from "Rosenberg's summary sheet" to "Jim and Jori Manske's summary sheet" (they authored the sheet; it says "developed by Marshall Rosenberg").
+2. Request/demand: rewritten — the distinction is the speaker's openness to refusal ("Open to outcome"), not whether the outcome is obtained.
+3. Comparisons labelled as editorial: Four Noble Truths mapping now "a structural analogy, not a claimed influence"; "Christian Compassion" dropped; In-the-compendium bullets framed as compendium pairings; Related-line glosses rewritten against the target pages' own definitions (Right effort = preventing the unskillful state before it arises; Therapeutic empathy = Elliott et al. therapy-outcome research; Active listening = Rogers & Farson lineage; Compassion = Gilbert's definition; Assertiveness research = Ames & Flynn).
+4. Evidence paragraph verified verbatim against the full Wikipedia fetch (small trials, scoping reviews, heterogeneous, calls for larger studies, cultural adaptation, trauma-sensitive implementation); added the trauma-specialist power-imbalance warning from the same fetch; removed "not a therapy" editorial sentence.
+5. Rogers claim: my earlier truncated fetch did not contain it; re-fetched the full Wikipedia article and grounded "highly influenced by Carl Rogers' person-centered therapy" verbatim.
+6. Quote fidelity: all quotes re-verified word-for-word against the saved raw PDF fetch (observation definition; demand line; "Open to outcome" capitalisation fixed; request definition; need definition).
 
 ## Verification
 
