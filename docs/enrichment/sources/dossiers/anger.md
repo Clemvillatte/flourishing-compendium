@@ -97,3 +97,24 @@ the revision-1 carryover framing.
 - The Academy renderer's card URL function double-encoded already-encoded
   card names (The%20witness became The%2520witness). Fixed with a
   decode-then-encode guard.
+
+## Revision 3 (2026-10-23, worker-pplx-dossiers-1025)
+
+Expanded from 19 to 40 card entries. New sections: Anger's moral clothing
+(moral outrage research, righteous indignation, ressentiment critique,
+threatened egotism theory), The classical answers (non-retaliation,
+gentleness as virtue, praotes, doctrine of the mean), Expression and
+de-escalation (express by shaping not venting, de-escalation science,
+attribution retraining, affect labeling), and The stories and sayings
+(Achilles' rage, Seneca on Anger, Dipa Ma, the empty boat, the gentle
+answer Proverb). Practice Selection expanded from 2 to 6 kernels (added
+K253 mean calibration, empty boat reflection, K184 opposite action, K289
+amends and restitution).
+
+One entry was removed during verification: "Hatred never ceases by hatred"
+was written from memory of the Dhammapada without confirming a wiki card
+existed; no such card exists in content/sayings/, so the line was deleted
+rather than kept unverified. Every remaining card target (40 unique) was
+verified against actual content/ file names by script; 0 unresolved.
+
+Commit ef2601c.
