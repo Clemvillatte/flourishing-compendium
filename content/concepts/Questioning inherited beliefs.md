@@ -15,7 +15,7 @@ In Plato's Apology, Socrates describes examining the people thought wise — pol
 
 > "...the greatest good of man is daily to converse about virtue, and all that concerning which you hear me examining myself and others, and that the life which is unexamined is not worth living - that you are still less likely to believe." (Plato, Apology, Jowett translation, [MIT Classics](https://classics.mit.edu/Plato/apology.html))
 
-The cost is the part worth keeping in view. Socrates delivers this defense at a trial the examination itself provoked; the work of questioning reputation is the very thing being judged. The two passages join on that: the daily conversation about virtue is the greatest good, the unexamined life is not worth living, and the man saying so is answering a jury. Inherited belief does not give itself up quietly, which is why the compendium pairs the practice with the biases and defaults that keep beliefs sticky.
+The cost is the part worth keeping in view. Socrates delivers this defense at a trial, with the work of questioning reputation on display before the jury. The two passages join on that: the daily conversation about virtue is the greatest good, the unexamined life is not worth living, and the man saying so is answering a jury in person. Inherited belief does not give itself up quietly, which is why the compendium pairs the practice with the cognitive biases and status-quo defaults that keep beliefs sticky.
 
 ## Related concepts
 - [[T011 — Socrates]]: the Apology: the life's work of questioning what the city hands down.

@@ -23,7 +23,7 @@ Dwelling is a manner of existence, and its fundamental character Heidegger state
 
 The order of building and dwelling is the reverse of the usual one: "The nature of building is letting dwell... Only if we are capable of dwelling, only then can we build" ([Heidegger, ibid.](https://www.contentarchive.wwf.gr/images/pdfs/pe/katoikein/Filosofia_Building%20Dwelling%20Thinking.pdf)).
 
-For a practice-oriented reader the reversal is the usable part. The default picture runs the other way: build the house, then live in it. Heidegger's claim is that the capacity comes first; only someone who can dwell, in the sparing-and-preserving sense the lecture gives the word, can build anything worth building. The principle E030 turns that order into a practice rather than a picture.
+For a practice-oriented reader the reversal is the usable part. The default picture runs the other way: build the house, then live in it. Heidegger's claim is that the capacity comes first; the lecture's order runs the other way: only if we are capable of dwelling can we build, in the sparing-and-preserving sense it gives the word. The principle E030 turns that order into a practice rather than a picture.
 
 ### In the compendium
 

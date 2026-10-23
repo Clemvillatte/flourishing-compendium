@@ -17,7 +17,7 @@ The authors give the categories concrete faces:
 
 > "The possible selves that are hoped for might include the successful self, the creative self, the rich self, the thin self, or the loved and admired self, whereas the dreaded possible selves could be the alone self, the depressed self, the incompetent self, the alcoholic self, the unemployed self, or the bag lady self." (Markus & Nurius, 1986, p. 954)
 
-The two lists do their work together. A hoped-for self gives the current view of self something to measure against, and so does a dreaded one; the loved and admired self and the alcoholic self are both evaluation, one pulling and one pushing. The question of what one might become is therefore not daydream material but the place where, in the authors' account, cognition meets motivation. The compendium's SE039 turns that hinge into a practice: cultivating possible selves, naming who one could become, and letting the named futures do the pulling.
+The two lists do their work together. A hoped-for self gives the current view of self something to measure against, and so does a dreaded one; the loved and admired self and the alcoholic self are both evaluation, one pulling and one pushing. In the authors' account, the question of what one might become is the working link between cognition and motivation. The compendium's SE039 turns that hinge into a practice: cultivating possible selves, naming who one could become, and letting the named futures do the pulling.
 
 ## Related concepts
 
