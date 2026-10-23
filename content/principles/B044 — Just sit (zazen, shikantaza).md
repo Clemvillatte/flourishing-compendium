@@ -22,6 +22,10 @@ The key term is nonthinking (hishiryo), and it does not mean having no thoughts.
 
 *For example:* Two people sit for ten minutes. One spends the whole time trying not to think, which is itself a thought, repeated. The other notices thoughts arriving and lets each one pass without a verdict. Same ten minutes; only one of them was actually sitting.
 
+## Related concepts
+
+- [[T053 — Dogen]]: the Fukanzazengi instructions this page unpacks, nonthinking and all
+
 ## Psychology parallels
 
 - **[[Open-monitoring meditation|Open-monitoring meditation]]**, non-reactive awareness of whatever arises (Lutz et al., 2008)
