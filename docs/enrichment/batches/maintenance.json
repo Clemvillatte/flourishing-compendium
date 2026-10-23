@@ -4,11 +4,12 @@
   "Flourishing scale",
   "Logotherapy",
   "Ego development",
-  "The two-factor model of well-being (verify-4d83a392: Keyes locator p.209->p.210 fixed)"
+  "The two-factor model of well-being (verify-4d83a392: Keyes locator p.209->p.210 fixed)",
+  "K060 recreation"
  ],
- "in_progress": "K060 recreation",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:09:29+00:00"
+ "updated": "2026-10-23T05:13:08+00:00"
 }
