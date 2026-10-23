@@ -4,12 +4,13 @@
   "Marcus Aurelius",
   "Richard Ryan & Edward Deci",
   "Steven Hayes",
-  "James Gross"
+  "James Gross",
+  "Confucius"
  ],
- "in_progress": "Confucius",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:29:02+00:00",
+ "updated": "2026-10-23T05:29:34+00:00",
  "band_done": false
 }

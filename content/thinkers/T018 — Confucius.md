@@ -43,6 +43,6 @@ Two ideas carry the practice. The first is ren, humaneness: the humane dispositi
 
 ## Sources
 
-- [IEP, "Confucius"](https://iep.utm.edu/confucius/) — the biographical spine and the 12.1 ritual-propriety quote; opened this session.
-- [Chinese Text Project, Analects (Legge translation)](https://ctext.org/analects/wei-zheng) — 2.17 "When you know a thing..." (the knowledge-admission passage, verbatim, opened this session via fetch).
-- [Chinese Text Project, Analects, Wei Ling Gong](https://ctext.org/analects/wei-ling-gong) — 15.24 shu reciprocity; already cited on the compendium's Ren and Shu pages.
+- [IEP, "Confucius"](https://iep.utm.edu/confucius/) — the biographical spine and the 12.1 ritual-propriety quote.
+- [Chinese Text Project, Analects (Legge translation)](https://ctext.org/analects/wei-zheng) — 2.17 "When you know a thing..." (the knowledge-admission passage, verbatim).
+- [Chinese Text Project, Analects, Wei Ling Gong](https://ctext.org/analects/wei-ling-gong) — 15.24 shu reciprocity.
