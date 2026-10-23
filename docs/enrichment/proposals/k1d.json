@@ -211,6 +211,16 @@
    "into": "Phronesis",
    "link": "K361 \u2014 Institutional feedback loop",
    "why": "The page places practical wisdom inside institutions, where the second loop question, whether the assumption under the decision is wrong, is a phronesis judgment."
+  },
+  {
+   "into": "Overconfidence effects",
+   "link": "K262 \u2014 Pre-decision review",
+   "why": "The kernel is a working countermeasure for overconfidence, with the premortem's own test and its attribution-bias limit quoted honestly."
+  },
+  {
+   "into": "Phronesis",
+   "link": "K262 \u2014 Pre-decision review",
+   "why": "The page gives phronesis a pre-commitment procedure: assumptions named, downside handled, scored afterward."
   }
  ],
  "inline": [],
