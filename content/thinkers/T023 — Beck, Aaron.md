@@ -22,11 +22,11 @@ The review's neural reading:
 
 ## Core ideas
 
-- **The cognitive model** — biased attention, processing, memory and schemas maintain depression. See [[Beck's cognitive model]], [[Cognitive-behavioural model]].
-- **Cognitive distortions** — the named error classes. See [[Cognitive distortions]], [[Cognitive distortions research]].
-- **Cognitive restructuring** — the method. See [[Cognitive restructuring]], [[Belief evaluation in CBT]], [[Behavioral experiments in CBT]].
-- **Behavioral activation** — the graded-task practice. See [[Behavioral activation]], [[Activity scheduling (BA)]], [[Graded task assignment (Beck, BA)]].
-- **Depression's negative bias** — the differential activation hypothesis. See [[Differential Activation Hypothesis of depression]].
+- **The cognitive model**. See [[Beck's cognitive model]], [[Cognitive-behavioural model]].
+- **Cognitive distortions**. See [[Cognitive distortions]], [[Cognitive distortions research]].
+- **Cognitive restructuring**. See [[Cognitive restructuring]], [[Belief evaluation in CBT]], [[Behavioral experiments in CBT]].
+- **Behavioral activation**. See [[Behavioral activation]], [[Activity scheduling (BA)]], [[Graded task assignment (Beck, BA)]].
+- **Differential activation**. See [[Differential Activation Hypothesis of depression]].
 
 ## Connection to the compendium
 

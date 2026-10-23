@@ -8,11 +8,18 @@ tags: ["person", "track/psychology"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Carl Rogers, in his 1957 Journal of Consulting Psychology paper "The Necessary and Sufficient Conditions of Therapeutic Personality Change," states the theory as six numbered conditions: "For constructive personality change to occur, it is necessary that these conditions exist and continue over a period of time: 1. Two persons are in psychological contact. 2. The first, whom we shall term the client, is in a state of incongruence, being vulnerable or anxious. 3. The second person, whom we shall term the therapist, is congruent or integrated in the relationship. 4. The therapist experiences unconditional positive regard for the client. 5. The therapist experiences an empathic understanding of the client's internal frame of reference... 6. The communication to the client of the therapist's empathic understanding and unconditional positive regard is to a minimal degree achieved" ([Rogers, 1957, reprint PDF](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf)).
+Carl Rogers, in his 1957 Journal of Consulting Psychology paper "The Necessary and Sufficient Conditions of Therapeutic Personality Change," states the theory as six numbered conditions: "For constructive personality change to occur, it is necessary that these conditions exist and continue over a period of time:
+
+1. Two persons are in psychological contact.
+2. The first, whom we shall term the client, is in a state of incongruence, being vulnerable or anxious.
+3. The second person, whom we shall term the therapist, is congruent or integrated in the relationship.
+4. The therapist experiences unconditional positive regard for the client.
+5. The therapist experiences an empathic understanding of the client's internal frame of reference...
+6. The communication to the client of the therapist's empathic understanding and unconditional positive regard is to a minimal degree achieved." ([Rogers, 1957, reprint PDF](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf)).
 
 ## Their why
 
-The paper's own summary of its claim: "No other conditions are necessary. If these six conditions exist, and continue over a period of time, this is sufficient. The process of constructive personality change will follow" ([Rogers, 1957](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf)).
+The paper's own theoretical claim: "No other conditions are necessary. If these six conditions exist, and continue over a period of time, this is sufficient. The process of constructive personality change will follow." The claim is Rogers's hypothesis about the conditions, not an established treatment guarantee ([Rogers, 1957](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf)).
 
 ## Their position
 

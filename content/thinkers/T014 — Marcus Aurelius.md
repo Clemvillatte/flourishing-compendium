@@ -18,7 +18,7 @@ The Meditations is a notebook, not a treatise. It records practice notes kept du
 
 ## Philosophy of the Meditations
 
-The work is Stoic in content. Three themes carry most of it: the dichotomy of control (some things are up to us, others are not); the discipline of desire (wanting what happens, rather than wanting reality to change); and duty to others, framed as natural kinship among rational beings.
+The work is Stoic in content. The book's own pages repeatedly mark the difference between what is in one's power and what is not, and the desire to have events be other than they are is treated as the root of disturbance; the opening quotation above shows both. The compendium's S014 carries the wanting-what-happens teaching; the Sympatheia page carries the kinship claim.
 
 ## Connection to the compendium
 
