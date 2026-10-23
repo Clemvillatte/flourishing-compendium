@@ -58,7 +58,6 @@
   "The via media",
   "Transaction",
   "State-dependent intervention matching",
-  "The culturally embedded self",
   "The urgency of time",
   "Transactive memory systems",
   "The limits of introspection",
@@ -72,7 +71,8 @@
   "Voluntary simplicity",
   "Via negativa",
   "The sublime",
-  "Value creation"
+  "Value creation",
+  "The culturally embedded self"
  ],
  "in_progress": null,
  "flagged": {
@@ -81,7 +81,7 @@
   "Steelmanning the opposing view": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
   "The ontological difference": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 3): scoped prose-and-quotation PASS after the punctuation restoration and citation placement. Validated ok --fast-track vs pre-enrichment baseline abca149^. Item-5 milestone CLOSED as scoped PASS (namespace resolution and whole-band certification excluded).",
   "The limits of introspection": "RESOLVED 2026-10-23 (worker-pplx-w1m-aae235f1): routed prose-short repair complete; Nisbett-Wilson 1977 full text re-opened (MIT PDF); stockings/nightgown position-effect evidence pp. 243-244 with verbatim quotes; maiden-name anecdote p. 256; content-vs-process distinction p. 256; validator ok.",
-  "The culturally embedded self": "IDENTITY-SUPPORT HOLD (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 1): the opened MacIntyre-review excerpt establishes Taylor's account of identity through commitments and evaluation, but NOT the specifically 'culturally embedded' framing of this heading — a source-support gap, not proof the concept is fictitious. Bounded prose saved as work in progress; done-mark REMOVED (reopened via the state workflow); supervisor/owner disposition requested: either an academic passage supporting the cultural/dialogical constitution of selfhood (then re-close), or a namespace decision on the heading. The Taylor p. 27 fragment is verified verbatim vs the opened review; the book itself was not opened (no carrier available this session). Validated ok --fast-track vs baseline dd56576^.",
+  "The culturally embedded self": "Reopened for QC: extension: add Markus & Kitayama 1991 abstract as psychology parallel (prose 42)",
   "The three poisons": "Reopened for QC: extension: dangling lead-in replaced with verified AN 3.69 passage",
   "The sublime": "Reopened for QC: extension: add Burke distance passage (prose 38)",
   "Transactive memory systems": "RESOLVED 2026-10-23 (worker-pplx-w1m-aae235f1): routed prose-short repair completed on origin/main by the concurrent w1ad worker (commit 862c4858b, quotes re-verified vs opened Wegner 1987 PDF); this w1m holder verified the page validator-clean at HEAD (prose at bar); duplicate local edit dropped in rebase, nothing lost.",
@@ -108,7 +108,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:31:08+00:00",
+ "updated": "2026-10-23T14:31:49+00:00",
  "band_done": false,
  "new_concepts": [
   {
