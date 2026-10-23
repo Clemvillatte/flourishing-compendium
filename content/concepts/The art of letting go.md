@@ -19,9 +19,9 @@ The exercise is to hold things the way the traveler holds the raft: fully, while
 
 ## Related concepts
 
-- [[Non-attachment]] — the Buddhist stance the raft practice trains
-- [[Impermanence]] — the mark that makes letting go timely
-- [[Wabi-sabi]] — the aesthetic of release and imperfection
+- [[Non-attachment]] — the Buddhist notion of release from mental fixations
+- [[Impermanence]] — the fact that everything that arises will pass
+- [[Wabi-sabi]] — the Japanese aesthetic of the imperfect and impermanent
 - [[Unresolved-goal interference]] — what stuck goals cost while they stay stuck
 
 ## Sources

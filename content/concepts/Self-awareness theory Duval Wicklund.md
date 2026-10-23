@@ -39,7 +39,7 @@ Self · Psychological science
 
 - [[Self-perception theory]]
 - [[Social comparison]] — the standards the theory measures the self against
-- [[Contingent self-esteem]] — the affective outcome of the discrepancy it describes
+- [[Contingent self-esteem]] — the condition-of-worth pattern
 
 ## Sources
 

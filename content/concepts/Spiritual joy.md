@@ -20,7 +20,7 @@ Because happiness is a working, joy here is a by-product of activity rather than
 ## Related concepts
 
 - [[Eudaimonia]] — the activity this joy is the felt side of
-- [[Hedonic adaptation]] — the treadmill the working-of-the-soul account is set against
+- [[Hedonic adaptation]] — the hedonic treadmill finding
 - [[The hedonic trap of seeking peak experiences]] — the consumed joy this page contrasts with earned gladness
 
 ## Sources

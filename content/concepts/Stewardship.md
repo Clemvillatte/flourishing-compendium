@@ -19,8 +19,8 @@ The parable's praise goes to the servant who put what was entrusted to work, and
 
 ## Related concepts
 
-- [[Ecological ethics]] — the field that gives stewardship its modern argument
-- [[Servant leadership]] — the leadership form the steward stance takes
+- [[Ecological ethics]] — the extension of moral consideration to the living world
+- [[Servant leadership]] — Greenleaf's model of leading by serving
 - [[Te Whare Tapa Whā]] — a wellbeing model that puts collective care in the walls
 
 ## Sources

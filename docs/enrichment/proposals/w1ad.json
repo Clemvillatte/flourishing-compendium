@@ -18,7 +18,7 @@
   {
    "into": "Ecological grief",
    "link": "Sorrow's fruit",
-   "why": "grief with no single personal loss, read against the image of sorrows falling away"
+   "why": "grief felt over ecological loss"
   },
   {
    "into": "The insatiability of craving",
@@ -158,17 +158,17 @@
   {
    "into": "Non-attachment",
    "link": "The art of letting go",
-   "why": "the Buddhist stance the raft practice trains"
+   "why": "the Buddhist notion of release from mental fixations"
   },
   {
    "into": "Impermanence",
    "link": "The art of letting go",
-   "why": "the mark that makes letting go timely"
+   "why": "the fact that everything that arises will pass"
   },
   {
    "into": "Wabi-sabi",
    "link": "The art of letting go",
-   "why": "the aesthetic of release and imperfection"
+   "why": "the Japanese aesthetic of the imperfect and impermanent"
   },
   {
    "into": "Unresolved-goal interference",
@@ -183,7 +183,7 @@
   {
    "into": "Hedonic adaptation",
    "link": "Spiritual joy",
-   "why": "the treadmill the working-of-the-soul account is set against"
+   "why": "the hedonic treadmill finding"
   },
   {
    "into": "The hedonic trap of seeking peak experiences",
@@ -193,12 +193,12 @@
   {
    "into": "Ecological ethics",
    "link": "Stewardship",
-   "why": "the field that gives stewardship its modern argument"
+   "why": "the extension of moral consideration to the living world"
   },
   {
    "into": "Servant leadership",
    "link": "Stewardship",
-   "why": "the leadership form the steward stance takes"
+   "why": "Greenleaf's model of leading by serving"
   },
   {
    "into": "Te Whare Tapa Whā",
@@ -258,12 +258,12 @@
   {
    "into": "Face negotiation theory",
    "link": "Silence in negotiation research",
-   "why": "another negotiation literature that works the silence"
+   "why": "another entry in the compendium's negotiation set"
   },
   {
    "into": "Silence as evidence",
    "link": "Silence in negotiation research",
-   "why": "what the unsaid carries, read from the evidence side"
+   "why": "when silence does and does not count as agreement"
   },
   {
    "into": "Confirmation bias",
@@ -273,17 +273,12 @@
   {
    "into": "Social comparison",
    "link": "The big-fish-little-pond effect",
-   "why": "the mechanism the effect runs on"
-  },
-  {
-   "into": "Fragile vs secure high self-esteem (Kernis)",
-   "link": "The big-fish-little-pond effect",
-   "why": "the self-worth profile the comparison feeds"
+   "why": "the comparison frame the effect is named for"
   },
   {
    "into": "Facing the fear",
    "link": "The classification of fears",
-   "why": "the exposure practice that works through the classified fears"
+   "why": "the Kierkegaard-rooted entry on facing anxiety"
   },
   {
    "into": "Courage: action despite fear",
@@ -298,7 +293,7 @@
   {
    "into": "Contingent self-esteem",
    "link": "Self-awareness theory Duval Wicklund",
-   "why": "the affective outcome of the discrepancy the theory describes"
+   "why": "the condition-of-worth pattern"
   },
   {
    "into": "Choice of self",
@@ -333,7 +328,7 @@
   {
    "into": "Distress tolerance (DBT)",
    "link": "TIPP skills (DBT)",
-   "why": "the TIPP skills are the DBT distress-tolerance module's quick interventions"
+   "why": "the capacity to withstand aversive states"
   },
   {
    "into": "The classification of fears",
@@ -343,7 +338,7 @@
   {
    "into": "Habit",
    "link": "Technology acceptance model",
-   "why": "the usage pattern the model's intention becomes with repetition"
+   "why": "the compendium's entry on habit formation"
   },
   {
    "into": "Embodiment",
@@ -368,7 +363,7 @@
   {
    "into": "System justification theory",
    "link": "Stigma research",
-   "why": "the power-side process that keeps a marked order in place"
+   "why": "the account of why people defend the systems they live under"
   },
   {
    "into": "Shame",
@@ -419,6 +414,11 @@
    "into": "Memento mori",
    "link": "Temporality (Zeitlichkeit)",
    "why": "the practice Heidegger's being-toward-death turns into"
+  },
+  {
+   "into": "Fragile vs secure high self-esteem (Kernis)",
+   "link": "The big-fish-little-pond effect",
+   "why": "the stability distinction in self-esteem research"
   }
  ],
  "inline": []

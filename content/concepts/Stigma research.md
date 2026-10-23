@@ -28,7 +28,7 @@ The review's larger argument joins stigma to status research. In both traditions
 ## Related concepts
 
 - [[Dehumanization research]] — the companion literature on seeing a person as less than a person
-- [[System justification theory]] — the power-side process that keeps the marked order in place
+- [[System justification theory]] — the account of why people defend the systems they live under
 - [[Shame]] — the emotion internalized stigma settles into
 
 ## Sources

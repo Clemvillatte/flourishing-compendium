@@ -33,7 +33,7 @@ TAM predicts adoption of workplace systems from users' beliefs. It does not meas
 
 - [[Self-efficacy]] — the compendium's page on confidence in one's ability, a theory Davis drew on (per the AJIS summary)
 - [[Gelassenheit]] — the compendium's page on releasement
-- [[Habit]] — the usage pattern the model’s intention becomes with repetition
+- [[Habit]] — the compendium’s entry on habit formation
 
 ## Sources
 
