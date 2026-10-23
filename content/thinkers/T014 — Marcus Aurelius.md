@@ -10,7 +10,7 @@ navigation: {"track": "philosophy", "primaryPath": ["NAV-PHIL-STOIC"], "alternat
 ---
 Marcus Aurelius (born April 26, A.D. 121, as M. Annius Verus; died March 17, A.D. 180, in Pannonia) was a Roman emperor who assumed the imperial state in A.D. 161 and ruled until his death ([Meditations, Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). He wrote the Meditations in Greek as private notes to himself; the Gutenberg edition republishes a comparison of the 1634 and 1635 Casaubon translation, and its introduction notes that he "extenuates nothing, but nothing sets down in malice."
 
-> "Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it. It is high time for thee to understand the true nature both of the world, whereof thou art a part; and of that Lord and Governor of the world, from whom, as a channel from the spring, thou thyself didst flow: and that there is but a certain limit of time appointed unto thee, which if thou shalt not make use of to calm and allay the many distempers of thy soul, it will pass away and thou with it, and never after return." — Meditations II.1 ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt))
+> "Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it." — Meditations II.1 ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt))
 
 ## Personal story / context
 
@@ -18,18 +18,20 @@ Marcus Aurelius Antoninus was born on April 26, A.D. 121; his real name was M. A
 
 ## Their why
 
-> "Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it. It is high time for thee to understand the true nature both of the world, whereof thou art a part; and of that Lord and Governor of the world, from whom, as a channel from the spring, thou thyself didst flow: and that there is but a certain limit of time appointed unto thee, which if thou shalt not make use of to calm and allay the many distempers of thy soul, it will pass away and thou with it, and never after return." — Meditations II.1 ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680.txt))
+> "Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it." — Meditations II.1 ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680.txt))
+
+
 
 The book's introduction notes that he "extenuates nothing, but nothing sets down in malice" ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680.txt)).
 
 ## Their position
 
-The Meditations is a notebook, not a treatise. It records practice notes kept during campaigns, and opens with thanks to his family and teachers for specific virtues. Two aims recur: honest self-review, and rehearsing difficulty before it arrives. The work is Stoic in content: the book's own pages repeatedly mark the difference between what is in one's power and what is not, and the desire to have events be other than they are is treated as the root of disturbance; the opening quotation above shows both. The second book's opening also frames the kinship: "we are all born to be fellow-workers, as the feet, the hands, and the eyelids; as the rows of the upper and under teeth" (II.1, the Granua heading, [Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680.txt)).
+The Meditations is a notebook, not a treatise. It records practice notes kept during campaigns, opening with thanks to his family and teachers. Two aims recur: honest self-review, and rehearsing difficulty before it arrives. The work is Stoic in content: its pages repeatedly mark the difference between what is in one's power and what is not, and the desire to have events be other than they are is treated as the root of disturbance; the opening quotation above shows both. The second book's opening also frames the kinship: "we are all born to be fellow-workers, as the feet, the hands, and the eyelids; as the rows of the upper and under teeth" (II.1, the Granua heading, [Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680.txt)).
 
 ## Core ideas
 
 - **The ruling faculty and its judgements** — nothing can harm you except your own judgement of things. See [[S020 — Remember that nothing can harm you except your own judgement|S020]], [[Equanimity]].
-- **Wanting what happens** — the refusal to demand that events be other than they are. See [[S014 — Want what actually happens|S014]], [[Amor fati]].
+- **Wanting what happens** — the refusal to demand that events be other than they are: "It is high time for thee to understand the true nature both of the world, whereof thou art a part; and of that Lord and Governor of the world, from whom, as a channel from the spring, thou thyself didst flow: and that there is but a certain limit of time appointed unto thee, which if thou shalt not make use of to calm and allay the many distempers of thy soul, it will pass away and thou with it, and never after return" (II.1) ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). See [[S014 — Want what actually happens|S014]], [[Amor fati]].
 - **Fellow-workers in one commonwealth** — the kinship of all rational beings, the feet and hands and teeth of one body. See [[Sympatheia]], [[The commonwealth of the good]].
 - **The view from above and memento mori** — rehearsing death and the whole, to shrink the present distress. See [[The view from above]], [[Memento mori]].
 - **The morning preparation** — meeting the day's difficult people already prepared. See [[S119 — Begin the morning with premeditation|S119]], [[Spiritual exercises]].

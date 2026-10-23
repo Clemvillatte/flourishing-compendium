@@ -12,7 +12,7 @@ Viktor Emil Frankl (26 March 1905, Vienna — 2 September 1997, Vienna) was an A
 
 ## Personal story / context
 
-In 1942, nine months after his marriage, Frankl and his family were sent to the Theresienstadt concentration camp; his father died there of starvation and pneumonia. In 1944 the surviving relatives were transported to Auschwitz, where his mother and brother were murdered; his wife Tilly died of typhus in Bergen-Belsen. He "spent three years in four concentration camps," and the Wikipedia biography notes he was held at Auschwitz only days, unregistered, before being sent on to Kaufering III, a subsidiary work camp of Dachau ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)).
+In 1942, nine months after his marriage, Frankl and his family were sent to the Theresienstadt concentration camp; his father died there of starvation and pneumonia. In 1944 the surviving relatives were transported to Auschwitz, where his mother and brother were murdered; his wife Tilly died of typhus in Bergen-Belsen. In all he "spent three years in four concentration camps," and the Wikipedia biography notes he was held at Auschwitz only days, unregistered, before being sent on to Kaufering III, a subsidiary work camp of Dachau ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)).
 
 ## Their why
 
@@ -33,7 +33,7 @@ Frankl "was expelled from Adler's circle when he insisted that meaning was the c
 - **The last human freedom** — "everything can be taken from a man but one thing: the last of the human freedoms – to choose one's attitude in any given set of circumstances" ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). See [[Attitudinal values]], [[Tragic optimism]], [[ST036 — Frankl Chooses the Attitude|36. Frankl Chooses the Attitude]].
 - **Noogenic neurosis and the existential vacuum** — the logotherapeutic concepts of noogenic neurosis and existential crisis, first described by Frankl in the 1950s, entered the ICD 11 as the demoralisation crisis: hopelessness, meaninglessness and existential distress ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). See [[E065 — Practise noogenic neurosis awareness|E065]], [[Noogenic neurosis]].
 - **Self-transcendence and happiness as by-product** — See [[E060 — Practise self-transcendence|E060]], [[Self-transcendence]], [[Happiness as by-product]].
-- **Meaning-centred therapy** — logotherapy, which "Frankl describes ... as 'the Third Viennese School of Psychotherapy'" ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)); the Wikipedia Logotherapy article sets it after Freud and Adler. See [[Logotherapy]], [[Meaning-centred therapy]], [[The search for meaning]].
+- **Meaning-centred therapy** — logotherapy, which "Frankl describes ... as 'the Third Viennese School of Psychotherapy'" ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). See [[Logotherapy]], [[Meaning-centred therapy]], [[The search for meaning]].
 ## Connection to the compendium
 
 - [[Logotherapy]]

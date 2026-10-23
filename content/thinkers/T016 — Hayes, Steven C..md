@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "cha
 
 ## Personal story / context
 
-Hayes received his B.A. in psychology from Loyola Marymount University and his M.A. and Ph.D. in clinical psychology from West Virginia University, then taught at the University of North Carolina at Greensboro before moving to the University of Nevada, Reno in 1986, where he is Nevada Foundation Professor in the Department of Psychology ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)).
+Hayes received his B.A. in psychology from Loyola Marymount University and his M.A. and Ph.D. in clinical psychology from West Virginia University; he then taught at the University of North Carolina at Greensboro before moving to the University of Nevada, Reno in 1986, where he remains Nevada Foundation Professor in the Department of Psychology ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)).
 
 ## Their why
 
@@ -21,7 +21,7 @@ Hayes's psychotherapy program begins from a philosophical position rather than a
 
 ## Their position
 
-ACT, the clinical application, is built around psychological flexibility rather than symptom removal. RFT, the research program under the clinical one, gives an account of human language and higher cognition as learned, arbitrarily applicable relational responding. Hayes is also a co-developer of process-based therapy, an idiographic approach that combines insights from evolution theory and complex network theory to target the processes underlying effective treatments ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)). Hayes, Barnes-Holmes and Wilson (2012) define contextual behavioral science as follows: "Contextual Behavioral Science (CBS) is a principle-focused, communitarian strategy of reticulated scientific and practical development. Grounded in contextualistic philosophical assumptions, and nested within multi-dimensional, multi-level evolution science as a contextual view of life, it seeks the development of basic and applied scientific concepts and methods that are useful in predicting-and-influencing the contextually embedded actions of whole organisms, individually and in groups, with precision, scope, and depth; and extends that approach into knowledge development itself so as to create a behavioral science more adequate to the challenges of the human condition" ([Hayes, Barnes-Holmes & Wilson 2012](https://mural.maynoothuniversity.ie/id/eprint/5020/1/DBH_Contextual%20behaviour.pdf)).
+ACT, the clinical application, is built around psychological flexibility rather than symptom removal. RFT, the research program under the clinical one, gives an account of human language and higher cognition as learned, arbitrarily applicable relational responding. Hayes is also a co-developer of process-based therapy, an idiographic approach that combines insights from evolution theory and complex network theory to target the processes underlying effective treatments ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)).
 
 ## Core ideas
 
@@ -30,7 +30,7 @@ ACT, the clinical application, is built around psychological flexibility rather 
 - **Psychological flexibility** — the six-process ACT model. See [[Psychological flexibility]].
 - **Workability** — a pragmatic truth criterion; "truth" is a matter of "successful working". See [[Workability]], [[Cash value]].
 - **Functional contextualism** — the philosophical position. See [[Functional contextualism]], [[Context sensitivity]].
-- **Process-based therapy / CBS** — the idiographic, process-targeting successor framework. See [[Process-based therapy]], [[Extended Evolutionary Meta-Model]], [[Variation-selection-retention]].
+- **Process-based therapy / CBS** — the idiographic, process-targeting successor framework. Hayes, Barnes-Holmes and Wilson (2012) define contextual behavioral science as follows: "Contextual Behavioral Science (CBS) is a principle-focused, communitarian strategy of reticulated scientific and practical development. Grounded in contextualistic philosophical assumptions, and nested within multi-dimensional, multi-level evolution science as a contextual view of life, it seeks the development of basic and applied scientific concepts and methods that are useful in predicting-and-influencing the contextually embedded actions of whole organisms, individually and in groups, with precision, scope, and depth; and extends that approach into knowledge development itself so as to create a behavioral science more adequate to the challenges of the human condition" ([Hayes, Barnes-Holmes & Wilson 2012](https://mural.maynoothuniversity.ie/id/eprint/5020/1/DBH_Contextual%20behaviour.pdf)). See [[Process-based therapy]], [[Extended Evolutionary Meta-Model]], [[Variation-selection-retention]].
 
 ## Connection to the compendium
 

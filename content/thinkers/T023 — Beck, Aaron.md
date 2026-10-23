@@ -12,15 +12,15 @@ Aaron T. Beck (July 18, 1921 – November 1, 2021) was an American psychiatrist 
 
 ## Personal story / context
 
-Beck was born in Providence, Rhode Island, on July 18, 1921, the youngest of four children of Elizabeth Temkin and Harry Beck, Jewish immigrants from Ukraine ([Wikipedia, Aaron Beck](https://en.wikipedia.org/wiki/Aaron_Beck)). The American Psychologist named him, in July 1989, one of the five most influential psychotherapists of all time ([Wikipedia, Aaron Beck](https://en.wikipedia.org/wiki/Aaron_Beck)). He died on November 1, 2021.
+Beck was born in Providence, Rhode Island, on July 18, 1921, the youngest of four children of Elizabeth Temkin and Harry Beck, Jewish immigrants from Ukraine; Harry worked as a printer, and the family lived what the biography calls a "comfortable, lower-middle class lifestyle" in the city's Blackstone neighborhood ([Wikipedia, Aaron Beck](https://en.wikipedia.org/wiki/Aaron_Beck)). The American Psychologist named him, in July 1989, one of the five most influential psychotherapists of all time, and he joined the University of Pennsylvania in 1954, where he spent the rest of his career ([Wikipedia, Aaron Beck](https://en.wikipedia.org/wiki/Aaron_Beck)). He died on November 1, 2021.
 
 ## Their why
 
-The model's elements, as the review lists them, are the biased attention, biased processing, biased thoughts and rumination, biased memory, and dysfunctional attitudes and schemas that have been "consistently linked with the onset and maintenance of depression" ([Disner et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21731066/)). The 2011 review is the framing this page carries; it is a review of the model, not the model's first statement.
+The model's elements, as the review lists them, are the biased attention, biased processing, biased thoughts and rumination, biased memory, and dysfunctional attitudes and schemas that have been "consistently linked with the onset and maintenance of depression" ([Disner et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21731066/)). The review also states the mechanism finding: "in general the negative cognitive biases in depression are facilitated by increased influence from subcortical emotion processing regions combined with attenuated top-down cognitive control" ([Disner et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21731066/)). The 2011 review is the framing this page carries; it is a review of the model, not the model's first statement.
 
 ## Their position
 
-The review's neural reading:
+The review's framing: "Although numerous studies have examined the neural mechanisms that underlie the cognitive aspects of depression, their findings have not been integrated with Beck's cognitive model. In this Review, we identify the functional and structural neurobiological architecture of Beck's cognitive model of depression" ([Disner et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21731066/)). Its neural reading:
 
 > "Although the mechanisms underlying each element of the model differ, in general the negative cognitive biases in depression are facilitated by increased influence from subcortical emotion processing regions combined with attenuated top-down cognitive control." (Disner, Beevers, Haigh & Beck, 2011, [Nature Reviews Neuroscience, PubMed record](https://pubmed.ncbi.nlm.nih.gov/21731066/))
 
