@@ -8,7 +8,7 @@ tags: ["person", "track/psychology"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-Albert Bandura, American psychologist; his 1977 Psychological Review paper, "Self-efficacy: Toward a Unifying Theory of Behavioral Change," states the theory in its abstract: "This theory states that psychological procedures, whatever their form, alter the level and strength of self-efficacy" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
+Albert Bandura; his 1977 Psychological Review paper, "Self-efficacy: Toward a Unifying Theory of Behavioral Change," states the theory in its abstract: "This theory states that psychological procedures, whatever their form, alter the level and strength of self-efficacy" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
 
 ## Their why
 
@@ -20,7 +20,7 @@ The 1977 paper's abstract states the core hypothesis:
 
 The paper's core distinction is between two kinds of expectation: "An outcome expectancy is defined as a person's estimate that a given behavior will lead to certain outcomes. An efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). Expectations also "vary on several dimensions that have important performance implications": magnitude (which difficulty levels the expectation covers), generality (how far it extends beyond the training situation), and strength (whether disconfirming experiences extinguish it) ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
 
-The model states where the expectation comes from: "In the proposed model, expectations of personal efficacy are derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states. The more dependable the experiential sources, the greater are the changes in perceived self-efficacy" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). The paper also proposes the cognitive-mediator account: "cognitive processes mediate change but... cognitive events are induced and altered most readily by experience of mastery arising from performance accomplishments" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
+The model states where the expectation comes from: "In the proposed model, expectations of personal efficacy are derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states. The more dependable the experiential sources, the greater are the changes in perceived self-efficacy" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). The paper also proposes the cognitive-mediator account: "cognitive processes mediate change but... cognitive events are induced and altered most readily by experience of mastery arising from effective performance" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
 
 ## Core ideas
 
