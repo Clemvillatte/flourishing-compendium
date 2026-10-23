@@ -1456,3 +1456,5 @@
     }
   ]
 }
+
+# Worker QC note (2026-10-23): [[Panta rhei]] is recorded here as an UNAUDITED SCAN HIT for T008 — its own page attributes it to Heraclitus, and no Nietzsche-specific connection was established; not retained on the thinker page. K330 carried only a Nietzsche mention in the scan; context not audited.

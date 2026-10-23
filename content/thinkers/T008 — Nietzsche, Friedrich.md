@@ -36,7 +36,7 @@ Value is measured by vitality. "What is good?--Whatever augments the feeling of 
 
 ## Connected in the wiki — the Nietzschean layer
 
-The corpus has no Nietzsche-prefixed book of principles; the section keeps the entries whose pages cite Nietzsche in their sources, plus the concepts, stories, kernel and sayings keyed to him (the stories include two straight from Zarathustra and the Gay Science). A citation scan selects candidates without proving dependence, so supervisor audit is requested. (Scoping by analogy to the T002 owner direction; supervisor, please confirm.)
+The section keeps the entries whose pages cite Nietzsche in their sources, plus the concepts, stories, kernel and sayings keyed to him (the stories include two straight from Zarathustra and the Gay Science, and one modern film illustration). A citation scan selects candidates without proving dependence, so supervisor audit is requested. (Scoping by analogy to the T002 owner direction; supervisor, please confirm.)
 
 ### Principles (110)
 - [[A010 — Recognise that fortune can overturn happiness|Recognise that fortune can overturn happiness]]
@@ -190,17 +190,17 @@ The corpus has no Nietzsche-prefixed book of principles; the section keeps the e
 - [[Will to power|Will to power]]
 
 ### Kernels (1)
-- [[K330 — Value-creation audit|Value-creation audit]]
+- [[K330 — Value-creation audit|Value-creation audit]] — carried a Nietzsche mention in the scan; its context was not audited
 
 ### Stories (3)
 - [[ST293 — The Three Metamorphoses|293.  The Three Metamorphoses]] — from Zarathustra's opening speech
 - [[ST294 — The Demon's Question|294.  The Demon's Question]] — from the Gay Science's greatest-weight passage
 - [[ST296 — Andrew's Final Solo|296.  Andrew's Final Solo]] — a modern film illustration (Whiplash, 2014), kept as reception, not Nietzsche's text
 
-### Sayings (3)
+### Sayings (2)
 - [[Everything serves a purpose|Everything serves a purpose]] — its page sources it to the Genealogy of Morals
 - [[Long obedience in the same direction|Long obedience in the same direction]] — its page sources it to Beyond Good and Evil 188
-- [[Panta rhei|Panta rhei]] — Heraclitus, per its own page; kept only to close the scan
+No third saying is retained: the scan also produced [[Panta rhei|Panta rhei]], which its own page attributes to Heraclitus; it is recorded in the band draft as an unaudited scan hit.
 
 ### Thinkers (0)
 No thinker page links to him yet.
