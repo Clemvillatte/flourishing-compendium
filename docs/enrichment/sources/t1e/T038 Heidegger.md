@@ -15,3 +15,5 @@ Mint validated clean on the first pass (prose and dash budget). One concurrent-p
 - Nazi record stated plainly per the opened SEP entry (rectorship, party membership dates, resignation 1934, teaching ban to 1949, antisemitism "now well-documented", never publicly renounced). This follows the owner's no-hallucination rule and the compendium's honest-treatment norm.
 - Inventory GATED per the t1e mint rule (own tradition plus what the page teaches): 30 principles + 44 concepts + 2 stories selected from the 166-entry surname-match floor; the gate is stated on the page itself. Cross-tradition parallels (Stoic mortality, Buddhist meditation, Daoist wu wei) excluded — supervisor may rule on a wider net later.
 - Reciprocal proposals saved to sources/t1e/heidegger-reciprocal.txt (166 entries; supervisor applies per standing ruling).
+
+**Second-pass quote verification (pre-taper):** every quoted passage on the page re-checked character-for-character against a reopened carrier (SEP/IEP/Terebess/Wikipedia as cited); no discrepancies found.

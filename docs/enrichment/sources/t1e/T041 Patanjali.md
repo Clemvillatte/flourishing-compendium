@@ -15,3 +15,5 @@ Mint validated clean on the first pass.
 - The "Personal story / context" section covers the authorship question per Wikipedia rather than personal biography — the honest alternative for a thinker whose life is unknown.
 - Inventory GATED per the t1e mint rule: the Y-series (Patanjali's own wiki tradition) plus the yoga concepts; 26 principles + 9 concepts from the 81-entry floor; gate stated on the page.
 - Reciprocal proposals saved to sources/t1e/patanjali-reciprocal.txt (81 entries; supervisor applies per standing ruling).
+
+**Second-pass quote verification (pre-taper):** every quoted passage on the page re-checked character-for-character against a reopened carrier (SEP/IEP/Terebess/Wikipedia as cited); no discrepancies found.

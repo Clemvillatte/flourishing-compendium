@@ -15,3 +15,5 @@ Two issues: banned phrase "testament" (reworded per IEP's Tzevaat Ha-RIBASH cont
 - Paula Winkler conversion and family details present on Wikipedia but cut for word budget; nothing wrong asserted.
 - Inventory GATED per the t1e mint rule: 12 principles + 12 concepts + 1 story from the 82-entry floor; gate stated on the page. Ubuntu/whakawhanaungatanga/vā/talanoa parallels excluded from the pasted list (cross-tradition; supervisor may widen).
 - Reciprocal proposals saved to sources/t1e/buber-reciprocal.txt (83 entries; supervisor applies per standing ruling).
+
+**Second-pass quote verification (pre-taper):** every quoted passage on the page re-checked character-for-character against a reopened carrier (SEP/IEP/Terebess/Wikipedia as cited); no discrepancies found.

@@ -14,3 +14,5 @@ Mint validated clean on the first pass. No push collisions this round.
 - "Banned from the university library" (a common biographical detail) is not stated on the opened page, so not asserted.
 - Inventory GATED per the t1e mint rule: 15 principles + 22 concepts + 2 stories + 1 thinker from the 86-entry floor; gate stated on the page. Buddhist mindfulness and Daoist parallels (B-series, D-series) excluded from the pasted list; supervisor may widen.
 - Reciprocal proposals saved to sources/t1e/husserl-reciprocal.txt (86 entries; supervisor applies per standing ruling).
+
+**Second-pass quote verification (pre-taper):** every quoted passage on the page re-checked character-for-character against a reopened carrier (SEP/IEP/Terebess/Wikipedia as cited); no discrepancies found.

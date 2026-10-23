@@ -14,3 +14,5 @@ Mint failed once on prose length (485 > 480); one clause cut. Frontmatter file f
 - The Philosopher and His Shadow is NOT identified as the Collège de France inaugural lecture on the opened page (it gives Éloge de la Philosophie); the former is not asserted.
 - Inventory GATED per the t1e mint rule: E-series plus embodiment concepts; 12 principles + 12 concepts + 2 stories from the 73-entry floor; gate stated on the page.
 - Reciprocal proposals saved to sources/t1e/merleau-ponty-reciprocal.txt (73 entries; supervisor applies per standing ruling).
+
+**Second-pass quote verification (pre-taper):** every quoted passage on the page re-checked character-for-character against a reopened carrier (SEP/IEP/Terebess/Wikipedia as cited); no discrepancies found.
