@@ -31,6 +31,7 @@ The [Behavioural Experiment Worksheet from Think CBT](https://thinkcbt.com/image
 ## Related concepts
 
 - [[Deconditioning of learned self-concepts]] — the broader project of unlearning fixed self-descriptions; this kernel is its smallest weekly unit.
+- [[Confirmation bias]] — the self-story is a bias with a narrator: it collects evidence for itself. The variation is a controlled disconfirmation.
 - [[Social contagion]] — behaviour travels between people; here you are the source as well as the audience.
 
 ## Related kernels
