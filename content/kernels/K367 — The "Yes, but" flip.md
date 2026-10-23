@@ -45,6 +45,8 @@ The flip's own MI-tradition formulation, in a published training toolkit:
 > "Recall that the structure for double-sided reflections is to start with the sustain talk and ending with the change talk, because people tend to continue talking about the last topic they heard. Additionally, using "and" rather than "but" honors the presence of ambivalence without negating it."
 > — [All Rise, Motivational Interviewing Toolkit, PDF](https://allrise.org/wp-content/uploads/2024/04/MI-VTC-Toolkit-Final.pdf)
 
+A SAMHSA training handout shows the same joining in practice. The clinician reflects: "You can't imagine how you could not smoke with your friends, and at the same time you're worried about how it's affecting you." The handout defines a double-sided reflection as one that "attempts to reflect back both sides of the ambivalence the patient experiences" ([SAMHSA motivational interviewing handout, Vermont Department of Health, PDF](https://www.healthvermont.gov/sites/default/files/documents/pdf/ADAP_SAMHSA-Motivational_Interviewing.pdf)).
+
 The rewrite keeps both sides of the ambivalence in the sentence. The MI findings quoted here do not establish its effect on behavior.
 
 What the sources do not test: the passages quoted are the MI background; the specific "but to and" move is attributed to Drapkin's workbook, cited at second hand, and its effect is not established. The move's MI-tradition form is carried in published MI training materials (see the All Rise MI Toolkit quote above), but no trial isolates the flip as an intervention.
