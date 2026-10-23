@@ -331,3 +331,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - Front-matter preserved byte-for-byte. All original Operationalises wikilinks preserved (D055, P041, AF006) and reformatted to K100-model bullets; K115 Related-kernel preserved with a reader-facing how-clause added; the Willingness concept-page link (which does not exist) retargeted into the K115 line per the validator catch.
 - Guided-version note: no recording exists for the metaphor as such; the written Morris (2013) Box 8 form is linked.
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K389 — Look through the lens of time (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~130-word seed (Tompkins attribution only, no quotes, no Sources section) rebuilt to the K100 model (559 prose words, 3 standalone blockquotes, 7 sections).
+- Carriers opened: Bruehlman-Senecal & Ayduk 2015 "This Too Shall Pass" JPSP 108(2) author PDF at Berkeley rascl — the abstract's summary sentences (the "Together, these findings" close, the "first four studies" summary, the "impermanence focus" mechanism) and the academic-functioning boundary note all quoted verbatim against the freshly opened PDF.
+- The original Operationalises line's exact alias markup preserved after a validator catch (AF33 alias, not the full title); K272 Related-kernel preserved with a reader-facing how-clause; Related concepts added only for existing pages (Temporal distancing, Self-distancing, Impermanence — existence checked with enrich_find.py title).
+- Tompkins workbook (New Harbinger, commercial) remains the protocol's editorial source; the research evidence honestly scoped as cue-based reflection studies, not the rating-ladder intervention; the boundary note (no effect on academic functioning) is the paper's own framing, not a page invention.
+- Customer-facing grep clean; validator ok, 0 failed.
