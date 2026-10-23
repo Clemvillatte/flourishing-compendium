@@ -7,3 +7,8 @@
 - Guided-version exemption: virtue rehearsal is inherently unguided (a notebook practice, no recording exists); recorded here per the K203 nap precedent, exemption rationale in this ledger.
 - Front-matter preserved byte-for-byte (an earlier draft mistakenly rewrote it; caught by the validator, restored from the original). All 24 original Operationalises wikilinks preserved; the dense original link paragraph was reformatted into the K100-model bulleted list (formatting only, zero links changed — the K100 exemplar uses bullets).
 - Validator: ok, 0 failed. Customer-facing grep clean.
+
+### K250 QC continuation (same session)
+
+- Advisor recheck round 2: three residual defects fixed on the page — the word "opened" in the opening (workflow language), the protocol disclosure broadened to "editorial exercise inspired by Franklin's self-examination chart, not a reconstruction of his instructions" (one-line-per-day layout and rotation acknowledged as editorial; "(Franklin)" removed from step 5), and the Lally method counts made exact ("of the 96 volunteers, 82 provided sufficient data; the model was fitted for 62 individuals, of whom 39 showed a good fit"). Carrier citations now point at the actually-downloaded text carriers (pg8438.txt, pg20203.txt) instead of the -h.htm renderings; immediate linked citations added to the closing Aristotle quotation and the step-4 Franklin fragment. Item was reopened with this reason and re-marked done after the repairs validated clean.
+- Ledger correction: the guided-version exemption is recorded as "no recording is required for this self-directed notebook exercise" (the earlier "no recording exists" phrasing was an unsupported assertion).
