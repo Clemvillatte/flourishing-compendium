@@ -30,7 +30,7 @@ The menu is editorial; the unpaid, unrequired character is the point.
 
 ### Evidence
 
-The motivation moderation, from four studies of autonomous versus controlled helping:
+The motivation finding, from four studies of autonomous versus controlled helping:
 
 > "Findings support the idea that autonomous motivation for helping yields benefits for both helper and recipient through greater need satisfaction." — [Weinstein & Ryan, 2010, Journal of Personality and Social Psychology 98(2), Abstract](https://pubmed.ncbi.nlm.nih.gov/20085397/)
 
@@ -80,4 +80,4 @@ Not applicable: the practice is an outward act, not a recording.
 ## Sources
 
 - [Aristotle, Nicomachean Ethics I.7, Chase translation (Project Gutenberg 8438)](https://www.gutenberg.org/cache/epub/8438/pg8438.txt) — the social-existence passage.
-- [Weinstein, N., & Ryan, R. M. (2010). When helping helps: Autonomous motivation for prosocial behavior and its influence on well-being for the helper and recipient. Journal of Personality and Social Psychology, 98(2), 222-244](https://pubmed.ncbi.nlm.nih.gov/20085397/) — the autonomous-motivation moderation finding, Abstract.
+- [Weinstein, N., & Ryan, R. M. (2010). When helping helps: Autonomous motivation for prosocial behavior and its influence on well-being for the helper and recipient. Journal of Personality and Social Psychology, 98(2), 222-244](https://pubmed.ncbi.nlm.nih.gov/20085397/) — the autonomous-motivation finding, Abstract.

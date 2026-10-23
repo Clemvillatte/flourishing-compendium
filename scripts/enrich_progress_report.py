@@ -40,6 +40,61 @@ def load_done():
                 (ids if re.match(r'^[A-Z]{1,3}\d+', x) else titles).add(x)
     return ids, titles
 
+def norm(s):
+    return re.sub(r'[^a-z0-9]', '', s.lower())
+
+def reconcile(done_ids, done_titles, principles, concepts, kernels, thinkers,
+                maintenance_notes):
+    by_norm = {norm(c): c for c in concepts}
+    # exclude only K-IDs that correspond to EXISTING kernel pages (a genuinely
+    # nonexistent K-ID stays visible); maintenance-band note entries ('X recreation')
+    # are work notes describing recreation work, not done pages.
+    pr_done = done_ids & set(principles)
+    kernel_ids = {re.match(r'^K\d+', k).group(0) for k in kernels if re.match(r'^K\d+', k)}
+    pr_unmatched = sorted(x for x in (done_ids - set(principles))
+                         if x not in kernels and x not in kernel_ids
+                         and x not in maintenance_notes)
+    # concept done entries recorded as paths (content/...) or with trailing
+    # audit-note suffixes '(verify-...)' are normalized BEFORE matching, so that
+    # path-form records COUNT as done instead of vanishing from both lists
+    # (2026-10-23 fix, supervisor-pplx-8c47a5).
+    def co_norm(t):
+        t = re.sub(r' \(verify-[^)]*\)$', '', t)
+        if t.startswith('content/'):
+            t = t.split('/')[-1]
+        t = re.sub(r'\.md$', '', t)
+        return t
+    def norm_title(t):
+        return norm(co_norm(t))
+    # 2026-10-23 fix (supervisor-pplx-1023a): sibling pages can share a normalized
+    # key (Nonattachment vs Non-attachment); match done titles to pages EXACTLY
+    # first, and only fall back to normalized matching for titles with no exact
+    # page — otherwise one sibling's done record hides the other as "remaining".
+    exact_pages = set(concepts)
+    co_done = set()
+    for t in done_titles:
+        if t in exact_pages:
+            co_done.add(t)
+        elif norm_title(t) in by_norm:
+            co_done.add(by_norm[norm_title(t)])
+    # kernel titles are not concept titles; entries pointing at kernel pages are
+    # bookkeeping artifacts from kernel-adjacent bands, not missing concept pages
+    kernel_norm = {norm(k) for k in kernels}
+    # thinker bands (t1a-t1f) record done entries as thinker page titles — they
+    # are not concept titles; exclude them from phantom unmatched concepts.
+    thinkers = {fn[:-3] for fn in os.listdir(os.path.join(ROOT, 'content/thinkers'))
+                if fn.endswith('.md')}
+    thinker_norm = {norm(t) for t in thinkers}
+    thinker_norm |= {norm(t.split(' \u2014 ', 1)[1]) for t in thinkers
+                    if ' \u2014 ' in t}
+    co_unmatched = sorted(t for t in done_titles
+                          if norm_title(t) not in by_norm
+                          and norm_title(t) not in kernel_norm
+                          and norm_title(t) not in thinker_norm
+                          and t not in maintenance_notes)
+    return pr_done, co_done, pr_unmatched, co_unmatched
+
+
 def main():
     # corpus
     principles = {}   # id -> title
@@ -63,54 +118,22 @@ def main():
 
     # reconcile (concept records use ': ' where filenames use ' — ', etc.; match on
     # alphanumeric-normalized titles)
-    def norm(s):
-        return re.sub(r'[^a-z0-9]', '', s.lower())
     by_norm = {norm(c): c for c in concepts}
     pr_done = done_ids & set(principles)
-    # kernel pages (content/kernels) are indexed by K-IDs in kernel bands (kpr, cmp);
-    # they are not principles — drop them from the unmatched-principles count
     kernels = {fn[:-3] for fn in os.listdir(os.path.join(ROOT, 'content/kernels'))
                if fn.endswith('.md')}
-    # 2026-10-23 fix (supervisor-pplx-8c47a5): kernel bands k1a-k1e record bare K-IDs
-    # (e.g. 'K109') and carry no type marker — exclude them from phantom principles
-    pr_unmatched = sorted(x for x in (done_ids - set(principles))
-                          if x not in kernels and not re.fullmatch(r'K\d+', x)
-                          and ' recreation' not in x)
-    # 2026-10-23 fix (supervisor-pplx-1023a): sibling pages can share a normalized
-    # key (Nonattachment vs Non-attachment); match done titles to pages EXACTLY
-    # first, and only fall back to normalized matching for titles with no exact
-    # page — otherwise one sibling's done record hides the other as "remaining".
-    exact_pages = set(concepts)
-    co_done = set()
-    for t in done_titles:
-        if t in exact_pages:
-            co_done.add(t)
-        elif norm(t) in by_norm:
-            co_done.add(by_norm[norm(t)])
-    # concept done entries recorded as paths (content/kernels/...) or with trailing
-    # audit-note suffixes '(verify-...)' are bookkeeping artifacts, not concept titles;
-    # normalize them before matching so they do not surface as phantom unmatched
-    def co_norm(t):
-        t = re.sub(r' \(verify-[^)]*\)$', '', t)
-        if t.startswith('content/'):
-            t = t.split('/')[-1]
-        t = re.sub(r'\.md$', '', t)
-        return norm(t)
-    # kernel titles are not concept titles; entries pointing at kernel pages are
-    # bookkeeping artifacts from kernel-adjacent bands, not missing concept pages
-    kernel_norm = {norm(k) for k in kernels}
-    # thinker bands (t1a-t1f) record done entries as thinker page titles — they
-    # are not concept titles; exclude them from phantom unmatched concepts.
-    # 'X recreation' strings are maintenance-band note entries, not titles.
     thinkers = {fn[:-3] for fn in os.listdir(os.path.join(ROOT, 'content/thinkers'))
                 if fn.endswith('.md')}
-    thinker_norm = {norm(t) for t in thinkers}
-    co_unmatched = sorted(t for t in done_titles
-                          if co_norm(t) not in by_norm
-                          and co_norm(t) not in kernel_norm
-                          and co_norm(t) not in thinker_norm
-                          and ' recreation' not in t)
-
+    maintenance_notes = set()
+    try:
+        md = json.load(open(os.path.join(ROOT, 'docs/enrichment/batches/maintenance.json')))
+        maintenance_notes = {x for x in (md.get('done') or [])
+                            if isinstance(x, str) and ' recreation' in x}
+    except Exception:
+        pass
+    pr_done, co_done, pr_unmatched, co_unmatched = reconcile(
+        done_ids, done_titles, principles, concepts, kernels, thinkers,
+        maintenance_notes)
     # per-forest tally
     forests = {}
     for pid in principles:
