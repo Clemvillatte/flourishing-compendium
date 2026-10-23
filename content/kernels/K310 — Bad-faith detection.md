@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K310** — Bad-faith detection
 
-When you are about to say "I have no choice" or "I had to," pause. Ask: what am I avoiding by framing this as necessity? The exercise is Sartre's diagnosis of bad faith: the attempt to escape freedom by treating one's choices as obligations. The point is not that constraints are unreal but that within them, a choice remains. Sartre's formula is blunt: "there is no determinism, man is free, man is freedom", and "we are left alone, without excuse" ([Sartre, Existentialism is a Humanism](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm)). Dimensions: cognition (the frame examined at the moment it is used) and motivation (the avoidance the frame serves).
+When you are about to say "I have no choice" or "I had to," pause. Ask: what am I avoiding by framing this as necessity? The exercise is Sartre's diagnosis of bad faith: the attempt to escape freedom by treating one's choices as obligations. The point is not that constraints are unreal but that within them, a choice remains. Sartre's formula is blunt: "there is no determinism – man is free, man is freedom", and "we are left alone, without excuse" ([Sartre, Existentialism is a Humanism](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm)). Dimensions: cognition (the frame examined at the moment it is used) and motivation (the avoidance the frame serves).
 
 ### Protocol
 
