@@ -26,6 +26,10 @@ When something angers you, consider what happened, whom you are blaming and what
 *For example:*
 Suppose a colleague interrupts you. You might firmly ask to finish your point, then listen to their reply without turning the interruption into a personal attack.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the Daodejing's non-contention, water's way of winning
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics IV.5, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — the good-temper chapter; the right-things formula quoted verbatim, the rest paraphrased with citations
