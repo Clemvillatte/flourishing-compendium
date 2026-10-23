@@ -7,7 +7,9 @@ file: "Practical wisdom"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-“Practical wisdom” — Aristotle, Nicomachean Ethics VI.5; Confucius, The Analects.
+“Practical wisdom” — Aristotle, Nicomachean Ethics VI.5; Confucius, The Analects. Aristotle's own account in Book VI:
+
+> "the man to whom we should give the name of Good in Counsel, simply and without modification, is he who in the way of calculation has a capacity for attaining that of practical goods which is the best for Man. Nor again does Practical Wisdom consist in a knowledge of general principles only, but it is necessary that one should know also the particular details, because it is apt to act, and action is concerned with details." (Nicomachean Ethics VI, [Chase translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))
 
 ## Facets
 
@@ -23,6 +25,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - [[Wisdom]] — listed for comparison
 ## Sources
 
+- [Aristotle, Nicomachean Ethics, trans. D. P. Chase, Project Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.txt) — the Book VI Good-in-Counsel and particular-details passages quoted verbatim
 - Aristotle, Nicomachean Ethics VI.5
 - Confucius, The Analects
 - [Wikipedia, Phronesis](https://en.wikipedia.org/wiki/Phronesis) — the NE Book VI framework, the young-geometers passage, and the later uses including the Aristotelian Phronesis Model and MacIntyre.
