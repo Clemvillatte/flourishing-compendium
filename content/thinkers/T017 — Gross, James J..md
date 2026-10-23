@@ -41,6 +41,6 @@ The model's core move is a location, not a content, distinction. In the 2002 art
 
 ## Sources
 
-- [Gross, J. J., "Emotion regulation: Affective, cognitive, and social consequences", Psychophysiology 39(3), 281–291 (2002; PDF, University of Wisconsin seminar)](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/gross_2002_psychophys.pdf) — opened this session: the Stanford affiliation, the definition, the Figure 1 five-point caption quoted verbatim.
-- [Gross, J. J., "Emotion Regulation: Current Status and Future Prospects", Psychological Inquiry 26(1), 1-26 (2015; PDF)](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the reappraisal/suppression comparison, the extended model; already opened on the compendium's Emotion regulation and Process model pages.
+- [Gross, J. J., "Emotion regulation: Affective, cognitive, and social consequences", Psychophysiology 39(3), 281–291 (2002; PDF)](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/gross_2002_psychophys.pdf) — the Stanford affiliation, the definition, the Figure 1 five-point caption quoted verbatim.
+- [Gross, J. J., "Emotion Regulation: Current Status and Future Prospects", Psychological Inquiry 26(1), 1-26 (2015; PDF)](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the reappraisal/suppression comparison, the extended model; opened for the compendium earlier; URLs carried over as verified carriers.
 - [Sheppes, Suri & Gross, "Emotion Regulation and Psychopathology", Annual Review of Clinical Psychology 11 (2015; PDF)](https://people.socsci.tau.ac.il/mu/galsheppes/files/2014/10/Sheppes-Suri-Gross-2015-Annual-Review.pdf) — the five-family definition, the extended-model caution; already opened on the compendium's Process model page.

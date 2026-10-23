@@ -3,14 +3,15 @@
  "done": [
   "Marcus Aurelius",
   "Richard Ryan & Edward Deci",
-  "Steven Hayes"
+  "Steven Hayes",
+  "James Gross"
  ],
- "in_progress": "James Gross",
+ "in_progress": null,
  "flagged": {
-  "Marcus Aurelius": "QC round 1 (advisor): translation credit wrong (Gutenberg 2680 is Casaubon 1634/1635 comparison edition, not Long 1862); unsupported claims (daily correspondent, philosophical anchor Epictetus, left unpublished, three-themes ranking); no verbatim Meditations quote; Granua passage is Book I.15; t1b band self-minted \u2014 supervisor reconciliation pending"
+  "Marcus Aurelius": "QC round 1 (advisor): translation credit wrong (Gutenberg 2680 is Casaubon 1634/1635 comparison edition, not Long 1862); unsupported claims (daily correspondent, philosophical anchor Epictetus, left unpublished, three-themes ranking); no verbatim Meditations quote; Granua passage is Book I.15; t1b band self-minted — supervisor reconciliation pending"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:25:16+00:00",
+ "updated": "2026-10-23T05:25:33+00:00",
  "band_done": false
 }
