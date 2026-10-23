@@ -69,7 +69,9 @@ detaching from the self-as-object, cultivating wisdom, genuine flourishing):
 Dossiers stage in this folder, in the wiki's card-link format so every entry
 is one click from the live site. The owner's stated destination is the
 Academy, as a Dossiers view beside MORE VIDEOS and DISCOVERY. That view is
-wired in this pass (site/assets/app.js, window.fcDossiersData + renderers);
-the markdown of record for each dossier stays in this folder, and the view's
-data is a transcription of it, updated when the markdown changes. Visual
-rendering on the live deploy still needs the owner's one-glance check.
+wired in this pass (site/assets/app.js, window.fcDossiersData + renderers)
+and verified live in a browser on the Pages deploy: tab, grid, detail,
+quotes with attributions, card links opening wiki cards, back
+navigation. The markdown of record for each dossier stays in this folder,
+and the view's data is a manually maintained transcription of it, updated
+when the markdown changes.

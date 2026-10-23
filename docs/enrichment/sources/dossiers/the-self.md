@@ -77,11 +77,16 @@ extraction prompt.
 - ACADEMY INTEGRATION (this pass): a Dossiers view added beside MORE
   VIDEOS and DISCOVERY in site/assets/app.js (window.fcDossiersData +
   renderDossiers + renderDossierDetail + card-link renderer + dossier
-  CSS in style.css). Verification level: node --check clean, link
-  renderer unit-tested (nested-paren file names handled), render smoke
-  test via DOM stubs (1 card, 49 body blocks, missing-ID path). Visual
-  rendering in a live browser was NOT inspected this pass — the sandbox
-  has no browser; a one-glance check on the Pages deploy (~40 s after
-  push) is the remaining step.
+  CSS in style.css). Verification level: node --check clean; link
+  renderer unit-tested (nested-paren file names handled); render smoke
+  test via DOM stubs; then live-browser verification on the Pages
+  deploy: Dossiers tab present on the Academy home, grid renders the
+  card, detail view renders all sections (12-entry compilation, both
+  divergences, 4 practice steps), quotes carry attributions and
+  evidence badges, a card link (Anatta) opens the wiki card, the
+  back button returns to the grid. One layout defect found and
+  fixed during that pass: the detail band laid the title and
+  subtitle out inline; repaired (flex-direction column) and
+  re-verified on the live deploy.
 - K261's and K144's protocols are labelled in the dossier as the kernel's
   own adaptations, matching how the kernel pages present them.
