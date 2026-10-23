@@ -9,29 +9,37 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKE
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter J", "parent": ""}
 ---
 
-Karl Jaspers (born 23 February 1883, Oldenburg; died 26 February 1969, Basel) was a psychiatrist who moved to philosophy and became the philosopher of the situations a person cannot escape. His list of them reads: "I must die, I must suffer, I must struggle, I am subject to chance, I involve myself inexorably in guilt" ([Jaspers, *Way to Wisdom*, trans. Manheim, pp. 19-20](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)).
+Karl Jaspers (born 23 February 1883, Oldenburg; died 26 February 1969, Basel) was a psychiatrist who moved to philosophy and became the philosopher of the situations a person cannot escape ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). His list of them reads: "I must die, I must suffer, I must struggle, I am subject to chance, I involve myself inexorably in guilt" ([Jaspers, Way to Wisdom, trans. Manheim, pp. 19-20](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)).
 
 ## Personal story / context
 
-Jaspers studied law briefly at Heidelberg, then medicine, took his M.D. in 1909 and worked in the Heidelberg psychiatric clinic ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). *General Psychopathology* (1913) made his name and carries his clinical creed: "in psychopathology it is dangerous merely to learn the matter, our task is not to 'learn psychopathology' but to learn to observe, ask questions, analyze, and think in psychopathological terms" ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). He took the chair of philosophy at Heidelberg in 1922 and published his three-volume *Philosophie* in 1932 ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). The Nazi regime dismissed him in 1937 and banned his publications in 1938; his wife Gertrud came from a German-Jewish family, and only her marriage to him allowed her to remain in Germany ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). After the war he wrote *The Question of German Guilt* (1946), moved to Basel in 1948 and became a Swiss citizen ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)).
+Jaspers studied law briefly at Heidelberg, then medicine, took his M.D. in 1909 and worked in the Heidelberg psychiatric clinic ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). General Psychopathology (1913) made his name and carries his clinical creed: "in psychopathology it is dangerous merely to learn the matter, our task is not to 'learn psychopathology' but to learn to observe, ask questions, analyze, and think in psychopathological terms" ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). He took the chair of philosophy at Heidelberg in 1922 and published his three-volume Philosophy in 1932 ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). The Nazi regime dismissed him in 1937 and banned his publications in 1938; his wife Gertrud came from a German-Jewish family, and only her marriage to him allowed her to remain in Germany ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). After the war he wrote The Question of German Guilt (1946), moved to Basel in 1948 and became a Swiss citizen ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)).
 
 ## Their why
 
-Medicine taught him that science maps everything except the one doing the mapping. The human being who chooses, suffers and feels guilty never shows up as an object in any science. Jaspers wanted philosophy to be the path on which this non-object, the self he called Existenz, becomes real to itself. The door is what ordinary life tries to forget: "Along with wonder and doubt, awareness of these ultimate situations is the most profound source of philosophy" ([Jaspers, *Way to Wisdom*, p. 20](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)).
+As a psychiatrist he kept meeting the person no science of objects could capture: the patient who chooses, feels guilty, hopes. The SEP account of his work ties existence to freedom, self-transformation and questions that cannot be posed in scientific terms ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). Philosophy was his path on which this self, Existenz, becomes real to itself, and the way in runs through what ordinary life forgets: "Along with wonder and doubt, awareness of these ultimate situations is the most profound source of philosophy" ([Jaspers, Way to Wisdom, p. 20](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)).
 
 ## Their position
 
-The limit situations cannot be solved, only acknowledged. His description of what they do: "to ultimate situations we react either by obfuscation or, if we really apprehend them, by despair and rebirth: we become ourselves by a change in our consciousness of being" ([Jaspers, *Way to Wisdom*, p. 20](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)). Behind all objects stands what he called the Comprehensive: "being as a whole is neither subject nor object but must be the Comprehensive, which is manifested in this dichotomy," and "The Comprehensive does not itself become an object but is manifested in the dichotomy of I and object" ([Jaspers, *Way to Wisdom*, pp. 30-31](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt)). Transcendence, if it shows at all, shows in ciphers, never in doctrines; hence his "philosophical faith," which refuses final answers ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). In *The Origin and Goal of History* (1949) he named the Axial Age, the span around 800-200 BCE in which Confucius, the Buddha, the Hebrew prophets and the Greek philosophers appeared at once ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)).
+The limit situations cannot be solved, only acknowledged:
+
+> "to ultimate situations we react either by obfuscation or, if we really apprehend them, by despair and rebirth: we become ourselves by a change in our consciousness of being" ([Jaspers, Way to Wisdom, p. 20](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt))
+
+Behind all objects stands what he called the Comprehensive:
+
+> "being as a whole is neither subject nor object but must be the Comprehensive, which is manifested in this dichotomy." And: "The Comprehensive does not itself become an object but is manifested in the dichotomy of I and object" ([Jaspers, Way to Wisdom, pp. 30-31](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt))
+
+Transcendence, where it shows at all, shows in ciphers, which the SEP account locates in nature, art, religious symbolism and metaphysical philosophy, signs that point toward transcendence while withholding knowledge of it; hence his "philosophical faith," which balances disclosure with rational criticism and refuses final answers ([SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/)). In The Origin and Goal of History (1949) he named the Axial Age: the centuries between roughly 800 and 200 BCE in which Socratic reason in Greece, karma and liberation in India, Confucian and Daoist guidance in China, the Hebrew prophets and Zoroastrian dualism emerged ([Britannica](https://www.britannica.com/topic/Axial-Age); [SEP, Karl Jaspers](https://plato.stanford.edu/entries/jaspers/) for the book and year).
 
 ## Core ideas
 
-- **Limit situations (Grenzsituationen)** — death, suffering, struggle, chance and guilt as the unchangeable wall that wakes the self. See [[Limit situations (Grenzsituationen)]], [[Boundary situations]], [[Finitude]].
-- **Existenz** — the self that is never an object, realized only in freedom and decision. See [[Existenz]], [[Choice of self]], [[Decision]].
-- **Existential communication** — the self becomes real only in dialogue with another self. See [[Existential communication]], [[Dialogue]].
+- **Limit situations (Grenzsituationen)** — death, suffering, struggle, chance and guilt as the unchangeable limits that wake the self. See [[Limit situations (Grenzsituationen)]], [[Boundary situations]], [[Finitude]].
+- **Existenz** — the self that is never an object, realized in freedom and decision. See [[Existenz]], [[Choice of self]], [[Decision]].
+- **Existential communication** — the self becomes real in dialogue with another self. See [[Existential communication]], [[Dialogue]].
 - **The Comprehensive (das Umgreifende)** — being as a whole, which never becomes an object. See [[The encompassing (das Umgreifende)]], [[Transcendence]].
 - **Ciphers of transcendence** — signs in nature, art and myth that point beyond without proving. See [[Ciphers of transcendence]].
-- **Shipwreck (Scheitern)** — failure as the moment the mask drops. See [[Shipwreck (Scheitern)]], [[Breakdown as breakthrough]].
-- **The Axial Age** — the simultaneous birth of the great traditions in one historical window. See [[The Axial Age]].
+- **Shipwreck (Scheitern)** — failure as the constant limit of existence: "The way in which man approaches his failure determines what he will become" (Way to Wisdom, p. 23). See [[Shipwreck (Scheitern)]], [[Breakdown as breakthrough]].
+- **The Axial Age** — the simultaneous window in which the great traditions took shape. See [[The Axial Age]].
 - **Philosophy as questioning** — philosophizing as an activity of the whole person, not a body of results. See [[Philosophy as questioning]].
 
 ## Connection to the compendium
@@ -44,7 +52,7 @@ The limit situations cannot be solved, only acknowledged. His description of wha
 
 ## Everything connected in the wiki
 
-Full 37-entry surname-match inventory; every entry was context-checked and carries a genuine Jaspers link (own-tradition principles, his concepts, the shipwreck story and its citing principles).
+Gated per the t1f mint rule (own tradition plus what the page teaches); the full script output is kept, with the two story-backlink-only entries (E100, the providence saying) classified as connected through the shipwreck story rather than as Jaspers doctrine.
 
 ### Principles (16)
 - [[B001 — Face suffering directly|Face suffering directly]]
@@ -85,12 +93,13 @@ Full 37-entry surname-match inventory; every entry was context-checked and carri
 - [[The transformation of consciousness|The transformation of consciousness]]
 - [[Transcendence|Transcendence]]
 
-### Stories (1)
-- [[ST289 — Jaspers's Shipwreck|289.  Jaspers's Shipwreck]]
-
 ### Sayings (1)
 - [[Accept what happens as the will of providence|Accept what happens as the will of providence]]
 
+### Stories (1)
+- [[ST289 — Jaspers's Shipwreck|289.  Jaspers's Shipwreck]]
+
 ## Sources
-- [Thornhill, Chris and Miron, Ronny, "Karl Jaspers", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/jaspers/) — the biography (dates, posts, Nazi-era dismissal and publication ban, Basel move) and the verbatim psychopathology quotation.
-- [Jaspers, Karl, *Way to Wisdom: An Introduction to Philosophy*, trans. Ralph Manheim (Yale, 1951), full text at Internet Archive](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt) — the Grenzsituation passage (pp. 19-20, the "ultimate situation" translator note), the Comprehensive passage (pp. 30-31), and the despair-and-rebirth quotation.
+- [Thornhill, Chris and Miron, Ronny, "Karl Jaspers", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/jaspers/) — the biography (dates, posts, Nazi-era dismissal and publication ban, Basel move), the psychopathology quotation, the ciphers and philosophical-faith account, and the Origin and Goal of History book and year.
+- [Jaspers, Karl, Way to Wisdom: An Introduction to Philosophy, trans. Ralph Manheim (Yale, 1951), full text at Internet Archive](https://archive.org/stream/waytowisdomintro00jasp/waytowisdomintro00jasp_djvu.txt) — the Grenzsituation passage (pp. 19-20, with the "ultimate situation" translator note), the Comprehensive passage (pp. 30-31), the failure passage (p. 23), and the despair-and-rebirth quotation.
+- [Britannica, "The Axial Age"](https://www.britannica.com/topic/Axial-Age) — the 800-200 BCE span and the traditions that emerged in it.
