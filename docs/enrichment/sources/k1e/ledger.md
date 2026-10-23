@@ -27,3 +27,10 @@
 - Evidence section follows the K208 scripture-not-trials pattern: states plainly that no study tests a mean-calibration practice and none is cited. The 1-to-10 rating and weekly review labelled editorial; the two calibration rules (keep away from the more contrary extreme; force off in the contrary direction) are Aristotle's II.9 and quoted.
 - Guided-version exemption: notebook practice, no recording required (self-directed; K203 nap precedent).
 - All 23 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). One workflow word ("seed") caught by the customer-facing grep and removed before push. Validator ok, 0 failed.
+
+## K258 — Stakeholder mapping (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carriers opened: Grossmann et al. 2013 JEP:General full PDF (uwaterloo.ca wisdom-and-culture-lab) raw-downloaded and pdftotext-extracted — abstract association sentence verbatim; Grossmann, Gerlach & Denissen 2016 SPPS full PDF (uni-goettingen.de) raw-downloaded — three-facets sentence and state-level findings verbatim from the abstract.
+- Seed claim repaired: "wise reasoning research shows that considering multiple viewpoints and recognising context-dependence predicts better life outcomes" narrowed to what the opened carriers support — the 2013 correlational association study and the 2016 daily-diary state-level findings, both honestly scoped (correlational; measures reasoning about conflicts, not mapping practices or decision quality).
+- Protocol labelled editorial; the third facet (consideration of others' perspectives/compromise) quoted as the construct the map serves. Guided-version exemption: paper-list practice, no recording required (self-directed; K203 nap precedent).
+- All 15 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
