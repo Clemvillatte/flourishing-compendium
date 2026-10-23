@@ -20,7 +20,7 @@ The practical error the doctrine guards against runs in both directions. Taking 
 
 - [[Buddhist emptiness of inherent nature]] — what the ultimate truth states about conventional things
 - [[Not-one-not-two]] — a neighboring formulation of the same dual-aspect structure
-- [[Phenomenal and noumenal]] — the Kantian pairing, listed for comparison
+- [[Phenomenal and noumenal]] — the Kantian pairing
 
 ## Sources
 

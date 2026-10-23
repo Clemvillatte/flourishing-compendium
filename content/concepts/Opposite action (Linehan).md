@@ -37,8 +37,8 @@ The principles below apply the skill to anger (approach rather than attack) and 
 - [[Dialectical behaviour therapy, emotion modulation]] — the treatment in which the skill is taught
 - [[Emotion regulation]] — the wider field the skill belongs to
 - [[Shame]] — one of the emotions Rizvi and Linehan's pilot study addressed
-- [[Experiential avoidance theory]] — a theory about the avoidance that acting opposite to an urge works against, listed for comparison
-- [[Behavioral activation]] — another approach that changes feelings through action, listed for comparison
+- [[Experiential avoidance theory]] — a theory about the avoidance that acting opposite to an urge works against
+- [[Behavioral activation]] — another approach that changes feelings through action
 
 ## Sources
 

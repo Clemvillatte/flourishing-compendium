@@ -31,7 +31,7 @@ BE011 (Recognise that behaviour is measurable — tracking improves outcomes) an
 
 
 
-- [[Outcome monitoring in psychological treatment]] — monitoring progress from the clinician's side, listed for comparison
+- [[Outcome monitoring in psychological treatment]] — monitoring progress from the clinician's side
 - [[Metacognitive monitoring]] — watching one's own thinking; the mental sibling
 - [[SE077]] — behaviour-change feedback applied to the self
 - [[X017]] — compare behaviour tracking with devotional watchfulness

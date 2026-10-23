@@ -20,7 +20,7 @@ The study's fine print matters for the theory. Value type moderates the directio
 ## Related concepts
 
 - [[Cultural embeddedness]] — the communitarian argument that culture constitutes the self
-- [[Cultural dimensions theory Hofstede]] — a value framework used in cross-cultural research, listed for comparison
+- [[Cultural dimensions theory Hofstede]] — a value framework used in cross-cultural research
 - [[Person-organization fit]] — the workplace branch of the same fit idea
 - [[Congruence]] — Rogers' term for the matching of self and experience
 

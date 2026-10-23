@@ -31,7 +31,7 @@ The order of building and dwelling is the reverse of the usual one: "The nature 
 
 ## Related concepts
 
-- [[Resoluteness (Entschlossenheit)]] — another existential manner of being, listed for comparison
+- [[Resoluteness (Entschlossenheit)]] — another existential manner of being
 
 ## Sources
 

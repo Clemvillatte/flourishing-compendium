@@ -35,7 +35,7 @@ Cognition · Psychological science
 
 ## Related concepts
 
-- [[Wisdom]] — listed for comparison; the compendium's hub page for this research program and its rivals
+- [[Wisdom]] — the compendium's hub page for this research program and its rivals
 - [[Ego development]] — a related account of mature judgment, from a different research tradition
 - [[Phronesis]] — an Aristotelian account of practical judgment about how to live
 - [[Practical wisdom]] — the everyday term for good judgment and advice about life problems

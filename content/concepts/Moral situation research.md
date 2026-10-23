@@ -32,7 +32,7 @@ The compendium's response is to move from traits to trained situational attentio
 - [[Situational strategies]] — the applied arm of the same insight
 - [[Habit]] — the character view under situationist pressure
 - [[Character strengths (Peterson & Seligman)]] — the positive-psychology revival of traits
-- [[Obedience research]] — experimental research on obedience to authority, listed for comparison
+- [[Obedience research]] — experimental research on obedience to authority
 ## Sources
 
 - Doris, Lack of Character (original citation, kept)

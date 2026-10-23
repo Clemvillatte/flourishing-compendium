@@ -29,7 +29,7 @@ A parent looks at a child asleep and privately notes that this is a loan, not a 
 
 ## Related concepts
 
-- [[Premeditatio malorum]] — listed for comparison; the premeditation of future ills, the close Stoic cousin of this exercise
+- [[Premeditatio malorum]] — the premeditation of future ills, the close Stoic cousin of this exercise
 ## Sources
 
 - [Epictetus, Enchiridion, chapters 4 and 21, George Long translation (MIT Classics)](https://classics.mit.edu/Epictetus/epicench.html) — the death-and-exile passage and the bath exercise

@@ -33,7 +33,7 @@ Hume's footnote distinguishes two species:
 
 ## Related concepts
 
-- [[Agape]] — listed for comparison.
+- [[Agape]] — the sibling page in the same family.
 - [[Schwartz]] — one of the ten basic values in Schwartz's circle, on the self-transcendence side.
 - [[Humanity]] — the sentiment Hume says benevolence extends from.
 - [[The free person loves all]] — a principle the compendium pairs with Hume's benevolence.

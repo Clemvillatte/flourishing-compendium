@@ -32,7 +32,7 @@ The entry quotes Husserl on what the bracketing excludes:
 
 ## Related concepts
 
-- [[Pure experience]] — listed for comparison.
+- [[Pure experience]] — the sibling page in the same family.
 - [[Suspension of the natural attitude]] — the state the epoché produces.
 - [[Constitution of meaning]] — the analysis the epoché makes possible.
 

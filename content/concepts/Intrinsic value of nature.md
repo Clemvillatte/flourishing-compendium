@@ -34,7 +34,7 @@ The Colorado copy is an excerpt of the 1981 article. Taylor's four-part biocentr
 ## Related concepts
 
 - [[Biocentric egalitarianism]] — Taylor's position as a named view
-- [[Deep ecology]] — another environmental philosophy, listed for comparison
+- [[Deep ecology]] — another environmental philosophy
 - [[Ecological ethics]] — the wider field
 - [[Biophilia]] — a psychological claim about human ties to living things
 - [[Nature connectedness]] — the psychology of feeling part of nature

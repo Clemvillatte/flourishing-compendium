@@ -25,7 +25,7 @@ Aristotle presses the problem further: to postpone the verdict until death is "a
 
 ## Related concepts
 
-- [[Doing and undergoing]] — Dewey's account of an experience completed through doing and undergoing, listed for comparison
+- [[Doing and undergoing]] — Dewey's account of an experience completed through doing and undergoing
 
 ## Sources
 

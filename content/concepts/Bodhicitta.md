@@ -24,7 +24,7 @@ The same chapter splits the resolve in two, "The mind aspiring to awaken, / And 
 
 
 - [[Four immeasurables]] — the Mahayana extension of the four
-- [[K054]] — listed for comparison: the concept's Shantideva-based treatment of the awakening mind beside K054's Tsongkhapa-based frame of daily practice.
+- [[K054]] — the concept's Shantideva-based treatment of the awakening mind beside K054's Tsongkhapa-based frame of daily practice.
 ## Sources
 
 - Santideva, Bodhicaryavatara

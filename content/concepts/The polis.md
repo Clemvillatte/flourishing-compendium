@@ -27,7 +27,7 @@ The passage's reasoning runs through the whole and the part. A hand cut off from
 
 ## Related concepts
 
-- [[K067]] — listed for comparison: Aristotle's polis as the constitutive community beside K067's Tanabean mediation of the individual through sociopolitical identity.
+- [[K067]] — Aristotle's polis as the constitutive community beside K067's Tanabean mediation of the individual through sociopolitical identity.
 - [[Common flourishing]]
 
 ## Sources

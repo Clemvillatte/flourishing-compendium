@@ -31,7 +31,7 @@ He concedes the rival position's practical record: "Galen believes that the Empi
 
 ## Related concepts
 
-- [[Debiasing techniques]] — a different guard against hasty judgment, listed for comparison
+- [[Debiasing techniques]] — a different guard against hasty judgment
 
 ## Sources
 

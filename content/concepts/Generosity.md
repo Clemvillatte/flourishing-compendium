@@ -30,7 +30,7 @@ The compendium pairs Aristotle's account with [[Prosocial spending]], the study 
 
 
 - [[S037]] — Seneca's goodwill-based beneficence is compared with Aristotle's account of giving to the right person, at the right time and for the right reason.
-- [[K055]] — listed for comparison: the Aristotelian virtue of liberality beside K055's Buddhist perfection of giving, which locates the practice in the mind that would give.
+- [[K055]] — the Aristotelian virtue of liberality beside K055's Buddhist perfection of giving, which locates the practice in the mind that would give.
 - [[Prosocial spending]] — spending money to benefit others (Dunn, Aknin & Norton 2008)
 ## Sources
 

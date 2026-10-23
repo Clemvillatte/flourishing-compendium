@@ -27,7 +27,7 @@ The Stanford Encyclopedia's account of Kant's aesthetics distinguishes judgments
 ## Related concepts
 
 
-- [[The aesthetic]] — the wider field this pleasure belongs to, listed for comparison
+- [[The aesthetic]] — the wider field this pleasure belongs to
 - [[Neuroaesthetics]] — studies the biological bases of aesthetic experiences
 ## Sources
 

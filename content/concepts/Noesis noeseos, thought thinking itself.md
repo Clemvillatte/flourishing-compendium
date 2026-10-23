@@ -35,8 +35,8 @@ Most of the principles below concern ordinary human thinking about one's own tho
 ## Related concepts
 
 - [[Contemplation (theoria)]] — the SEP entry describes the primary god as being the activity of active contemplation
-- [[The contemplative life]] — a related page on the contemplative life, listed for comparison
-- [[Noesis, direct intellectual seeing]] — Plato's use of the same Greek root, listed for comparison
+- [[The contemplative life]] — a related page on the contemplative life
+- [[Noesis, direct intellectual seeing]] — Plato's use of the same Greek root
 - [[Practical wisdom]] — the entry connects practical and theoretical wisdom through a shared starting point
 - [[Eudaimonia]] — the blessedness the entry associates with this activity
 

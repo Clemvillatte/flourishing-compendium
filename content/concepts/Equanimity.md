@@ -60,7 +60,7 @@ The opinion, not the event, is where the trouble enters — the compendium's [[J
 - [[Apatheia]] — the Stoic cousin, and that page insists it is not the unfeeling robot
 - [[Radical acceptance]] — the ending of the war against reality that parallels the even-minded stance
 - [[Metta (loving-kindness)]] — the fellow immeasurable the review's mother-metaphor sets beside equanimity
-- [[K052]] — listed for comparison: the even-minded stance defined and sourced on the concept page beside K052's lamrim instruction to level bias toward friend, enemy and stranger before cultivating love.
+- [[K052]] — the even-minded stance defined and sourced on the concept page beside K052's lamrim instruction to level bias toward friend, enemy and stranger before cultivating love.
 - [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)
 - [[Heart rate variability theory]] — beat-to-beat heart-rate variation as an index of self-regulation (Park & Thayer 2014)
 - [[S133]] — A principle on restoring equilibrium after being disturbed, with the disturbance assumed

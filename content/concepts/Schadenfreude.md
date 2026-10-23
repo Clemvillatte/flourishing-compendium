@@ -32,7 +32,7 @@ The pleasure is real and the price is social. A study of how schadenfreude expre
 ## Related concepts
 
 
-- [[Mudita (sympathetic joy)]] — listed for comparison: joy in another's good fortune is the mirror practice
+- [[Mudita (sympathetic joy)]] — joy in another's good fortune is the mirror practice
 - [[SP036]] — Spinoza's account of pleasure arising from thinking too little of someone
 - [[Envy]] — the upstream emotion that disposes toward pleasure at the envied person's fall
 - [[Benign versus malicious envy]] — the envy pages sort the routes by which another's standing can be felt

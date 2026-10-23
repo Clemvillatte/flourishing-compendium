@@ -34,7 +34,7 @@ The principles listed below cite this page, among them X014 on the therapeutic t
 ## Related concepts
 
 
-- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — about which treatments work; outcome monitoring is about checking whether a given treatment is working for a given client, listed for comparison
+- [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — about which treatments work; outcome monitoring is about checking whether a given treatment is working for a given client
 - [[PP064]] — monitor unwanted changes as well as hoped-for gains
 ## Sources
 
