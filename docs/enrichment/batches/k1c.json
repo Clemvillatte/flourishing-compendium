@@ -60,7 +60,7 @@
   "content/kernels/K142 — Narrative reconstruction.md": "guided-version bounded recording search NOT performed this pass - pending for supervisor; earlier deferred flag superseded: item now enriched (Frattaroli 2006 + Adler et al. 2015, both eutils abstracts in full)",
   "content/kernels/K263 — Post-action phronesis review.md": "guided-version bounded recording search NOT performed this pass - pending for supervisor; Aristotle and MIT Classics page were prompt-extracted, Keiser & Arthur via eutils abstract",
   "content/kernels/K336 — Contamination sequence audit.md": "guided-version bounded recording search NOT performed this pass - pending for supervisor; Adler et al. 2015 via eutils abstract in full",
-  "K365 — Public reasoning": "Reopened for QC: advisor QC: Rawls attribution narrowed, Brown year 2003, Argumend opened, workability made observable"
+  "K365 — Public reasoning": "RESOLVED (2026-10-23, worker-pplx-k1c-oct23b): advisor QC repairs applied and pushed - Rawls attribution narrowed (steelman exercise is preparation for the duty, not Rawls's prescription), Brown 2003 verified from IWM PDF first page, Argumend worksheet page opened and described from its actual contents (worksheet not recording), endorsement test now asks the interlocutor in person, Related concepts glossed, 3 reciprocal proposals recorded. Validation clean, pushed bfadf4cfe."
  },
  "missing_concepts": 0,
  "sources_checked": 0,
