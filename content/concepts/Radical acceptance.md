@@ -15,7 +15,7 @@ A 2006 review of DBT describes it as something that "essentially involves accept
 
 ### Acceptance is not approval
 
-The same review states the limit clearly: "accepting their current situation does not mean that they must approve of their current situation" ([PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/)). In DBT, acceptance is also paired with change. A review in The Behavior Analyst frames the clinical decision as a question: "Can the problematic stimulus be effectively removed or avoided without substantial harm?" If not, promoting acceptance is warranted; if so, "acceptance is contraindicated, and first-order change strategies can be implemented" ([The Behavior Analyst, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731500/pdf/behavan00010-0095.pdf)). That is the logic of [[P157 — Accept what cannot be changed while committing to what can]].
+A second DBT overview states the limit clearly: "accepting their current situation does not mean that they must approve of their current situation" ([PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/)). In DBT, acceptance is also paired with change. Cordova (2001), writing in The Behavior Analyst, frames the clinical decision as a question: "Can the problematic stimulus be effectively removed or avoided without substantial harm?" If not, promoting acceptance is warranted; if so, "acceptance is contraindicated, and first-order change strategies can be implemented" ([Cordova (2001), The Behavior Analyst, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731500/pdf/behavan00010-0095.pdf)). That is the logic of [[P157 — Accept what cannot be changed while committing to what can]].
 
 ### Neighbours
 
@@ -41,7 +41,7 @@ A delayed flight: say the fact once ("I will not make the connection"), feel the
 - [Behavioral Tech Institute, On Radical Acceptance (Part 1)](https://behavioraltech.org/on-radical-acceptance-part-1/) — Linehan's definition and its Zen source
 - [Dialectical Behavior Therapy: Current Indications and Unique Elements, Psychiatry (2006), PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963469/) — the description of radical acceptance
 - [Dialectical behavior therapy as treatment for borderline personality disorder, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/) — acceptance as not approval
-- [The Behavior Analyst, review of acceptance, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731500/pdf/behavan00010-0095.pdf) — when acceptance versus change applies
+- [Cordova (2001), Acceptance in Behavior Therapy: Understanding the Process of Change, The Behavior Analyst 24(2), PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731500/pdf/behavan00010-0095.pdf) — when acceptance versus change applies
 - Linehan, 1993
 
 ## Cited in parallels
