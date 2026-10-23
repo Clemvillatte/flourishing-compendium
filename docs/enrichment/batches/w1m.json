@@ -6,7 +6,6 @@
   "The job demands-resources model",
   "Steelmanning the opposing view",
   "The ontological difference",
-  "The three poisons",
   "The sublime",
   "The progress principle",
   "The coloured lens",
@@ -72,7 +71,8 @@
   "Transactive memory systems",
   "The limits of introspection",
   "Acedia",
-  "Abhyasa"
+  "Abhyasa",
+  "The three poisons"
  ],
  "in_progress": null,
  "flagged": {
@@ -82,7 +82,7 @@
   "The ontological difference": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 3): scoped prose-and-quotation PASS after the punctuation restoration and citation placement. Validated ok --fast-track vs pre-enrichment baseline abca149^. Item-5 milestone CLOSED as scoped PASS (namespace resolution and whole-band certification excluded).",
   "The limits of introspection": "RESOLVED 2026-10-23 (worker-pplx-w1m-aae235f1): routed prose-short repair complete; Nisbett-Wilson 1977 full text re-opened (MIT PDF); stockings/nightgown position-effect evidence pp. 243-244 with verbatim quotes; maiden-name anecdote p. 256; content-vs-process distinction p. 256; validator ok.",
   "The culturally embedded self": "IDENTITY-SUPPORT HOLD (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 1): the opened MacIntyre-review excerpt establishes Taylor's account of identity through commitments and evaluation, but NOT the specifically 'culturally embedded' framing of this heading — a source-support gap, not proof the concept is fictitious. Bounded prose saved as work in progress; done-mark REMOVED (reopened via the state workflow); supervisor/owner disposition requested: either an academic passage supporting the cultural/dialogical constitution of selfhood (then re-close), or a namespace decision on the heading. The Taylor p. 27 fragment is verified verbatim vs the opened review; the book itself was not opened (no carrier available this session). Validated ok --fast-track vs baseline dd56576^.",
-  "The three poisons": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round on items 6-9): scoped prose-and-quotation PASS after repairs — tradition-label sentence replaced by the advisor's narrow opening, the naming bridge VERIFIED against the freshly opened Princeton Dictionary excerpt (buddhanature.tsadra.org: 'three poisons' = raga/lobha, dvesa, moha, also known as the three 'unwholesome faculties' akusalamula); the second (assembled) blockquote OMITTED per the advisor's sound-repair option; the first Mula Sutta quote retained verbatim. Validated ok --fast-track vs baseline 02ee446^.",
+  "The three poisons": "Reopened for QC: extension: dangling lead-in replaced with verified AN 3.69 passage",
   "The sublime": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round on items 6-9): scoped prose-and-quotation PASS after repairs — opening replaced by the advisor's bounded sentence (no 'greatness that overwhelms', no 'influential modern definition' claim, no terror/beauty opposition); both Burke quotes kept with explicit §7 locators + URLs; Kant kept as an inherited seed pointer. Validated ok --fast-track vs baseline 5aaa929^.",
   "Transactive memory systems": "RESOLVED 2026-10-23 (worker-pplx-w1m-aae235f1): routed prose-short repair completed on origin/main by the concurrent w1ad worker (commit 862c4858b, quotes re-verified vs opened Wegner 1987 PDF); this w1m holder verified the page validator-clean at HEAD (prose at bar); duplicate local edit dropped in rebase, nothing lost.",
   "The progress principle": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, item-10 milestone): scoped prose-and-quotation PASS after the advisor's two prose repairs (seed's strengthened/unconditional sentences deleted; 'publisher's summary' carrier disclosure fixed; Sources row identifies the accessed material as the publisher's summary covering both quotations). Validated ok --fast-track vs baseline 3a453ec^. Item-10 milestone CLOSED (scoped PASS; inherited material and whole-band certification excluded).",
@@ -106,7 +106,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:26:12+00:00",
+ "updated": "2026-10-23T14:27:06+00:00",
  "band_done": false,
  "new_concepts": [
   {
