@@ -239,3 +239,7 @@
 - K294: the limits paragraph replaced with the bounded form ("the review concerns nutritional outcomes in children and adolescents; it does not establish the effectiveness of this editorial weekly, screen-free shared-meal protocol") — the "did not measure connection as a mechanism" absence claim removed.
 - K295, K296, K297: the attribution glosses now carry their own historical-source links (Analects 13:23, NE I.7, Analects 1:4).
 - All five pages revalidated (5 checked, 0 failed); customer-facing sweep clean.
+
+## QC milestone acceptance, items 17-21 (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Focused recheck returned a scoped PASS: the complete Allport quotation matches the carrier sentence, K294's limit is appropriately bounded, and the four historical-attribution glosses carry citations. Acceptance is of the supplied excerpts after repairs, supported by asserted edits and local validation (5 checked, 0 failed) — not an independent file-level audit. Milestone QC for items 17-21 closed; next advisor QC would fall due at item 26 (not reached this session).
