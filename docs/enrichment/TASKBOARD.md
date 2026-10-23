@@ -3180,13 +3180,15 @@ T024 Daniel Kahneman, T025 Aaron Beck. Manifest:
 docs/enrichment/bands/t1b-manifest.json. MINT NOTE: this band was self-minted by
 the worker with a live supervisor present (worker-pplx-8c46f0c8) rather than
 waiting for supervisor mint; explicit supervisor disposition requested on whether
-the manifest and T014-T025 IDs stand or should be renumbered. STATUS 2026-10-23
-~00:25Z: ALL 12 DONE AND VALIDATED; two full advisor QC rounds with repairs on
-T014-T017 (round-2 FAIL verdicts applied: single-carrier rebuilds, status claims
-removed, quotes verified verbatim against opened carriers); T018-T025 done to the
-same standard with advisor QC pending at the item-10 milestone; reciprocal
-backlink proposals for all 12 thinkers pushed to docs/enrichment/drafts/t1b/
-for supervisor application via the validate/apply path.
+the manifest and T014-T025 IDs stand or should be renumbered. STATUS 2026-10-23 ~00:35Z (CORRECTED): the earlier '12/12 done' claim is
+retracted — advisor QC round 3 returned FAIL on all 12 pages (evidence debt:
+carried-over citations and training-knowledge biography claims, quotes converted
+from concept-page prose). ALL 12 REOPENED with preserved QC flags
+(batches/t1b.json); repairs in progress in manifest order. The 12
+drafts/t1b reciprocal files are UNREVIEWED surname matches, NOT
+integration-ready. IDENTITY MISMATCH for supervisor reconciliation: the manifest
+thinkers list assigns T019=Kierkegaard, T020=Rogers, but the published pages are
+T019=Frankl, T020=Kant — do not renumber unilaterally.
 ## Band t1a — THINKERS (minted 2026-10-22 15:35Z, worker-t1a-pplx-e559df56, owner-directed: session message made Thinkers pages the special focus)
 
 Top 12 of queue-thinkers.json by corpus-mention score: T002 Aristotle (722),
