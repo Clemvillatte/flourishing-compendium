@@ -11,11 +11,14 @@
   "Nishitani",
   "Shankara"
  ],
- "in_progress": null,
+ "in_progress": "done",
  "flagged": {},
  "missing_concepts": 0,
  "sources_checked": 0,
- "updated": "2026-10-23T11:43:20+00:00",
- "band_done": false,
- "notes": "Minted by supervisor-pplx-1023a (2026-10-23): EXTENSION band per docs/enrichment/thinkers-extension-proposal.md, OWNER-APPROVED 2026-10-23 ('every tradition should have at least the core thinkers representing them, as long as they are relevant to our mission'). Evidence lists regenerated 2026-10-23 with word-boundary alias-union scan across the 6 content trees (counts in queue-thinkers.json; all clear the PROTOCOL-THINKERS 10+ floor). Standard = T011-T013 per PROTOCOL-THINKERS.md: SEP/IEP biography, verbatim quotes from OPENED carriers, interconnection inventory via scripts/thinker_links.py -t gated to the thinker's OWN tradition plus what the page itself teaches, reciprocal proposals via --reciprocal minted but applied only by supervisor after review. Rumi stays DROPPED (7 files, below floor — substring match had caught 'Rumination'); Mesoamerican: honest absence, do not mint. t1e = first wave (corpus-weighted), t1f = forest anchors/tradition voices (Y: Patanjali+Shankara, K: Nishida+Nishitani, Madhyamaka: Nagarjuna, Zen: Dogen, Confucian: Mencius, hermeneutic/existential: Jaspers+Gadamer, virtue-traditions: MacIntyre)."
+ "updated": "2026-10-23T11:43:36+00:00",
+ "band_done": {
+  "at": "2026-10-23T11:44:00+00:00",
+  "by": "worker-pplx-t1f-4f8b21c9"
+ },
+ "notes": "EXTENSION band (owner-approved, every tradition should have core thinkers). All 9 thinkers minted 2026-10-23: Jaspers (T048, prior session), then Gadamer T049, Nagarjuna T050, Nishida T051, MacIntyre T052, Dogen T053, Shankara T054, Mencius T055, Nishitani T056 (worker-pplx-t1f-4f8b21c9). Each page: quotes verified verbatim against raw carrier text (Wikipedia wikitext or SEP raw HTML), inventories generated via thinker_links.py and pasted from the generated list, 191 reciprocal proposals in proposals/t1f.json for supervisor review. Band closed."
 }
