@@ -77,3 +77,11 @@
 - Citation fix in self-check: an invented editor attribution for the Krohne chapter was removed (the PDF gives no encyclopedia/editorial front matter beyond author, affiliation and 2002 availability); the locator is the PDF page (p. 3).
 - Guided-version exemption: ruled-page practice, no recording required (self-directed; K203 nap precedent).
 - All 6 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean (two verification-narration phrases in Sources caught and removed before push).
+
+## K268 — Preferred-indifferent hierarchy (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carriers opened: SEP Stoicism entry fetched raw (curl + HTML-stripped, 122K chars) — the "neither good nor bad" definitional passage, the preferred-type (proegmena) passage and the virtuous-agent health example, all verbatim from the opened page; Kasser & Ryan 1993 JPSP abstract via NCBI eutils — centrality findings verbatim.
+- Note: the 1996 Kasser & Ryan follow-up PDF (selfdeterminationtheory.org) is image-based (pdftotext empty); the 1993 abstract via PubMed is the opened text carrier for the seed's claim. The seed's "Research on intrinsic versus extrinsic goal pursuit shows that materialistic aspirations predict lower well-being" narrowed to the opened 1993 abstract's correlational findings, honestly scoped.
+- The seed's "refusal to treat them as conditions of worth" aphorism replaced with the SEP-grounded preferred-indifferents material; the ranking form labelled editorial.
+- Guided-version exemption: list-and-question practice, no recording required (self-directed; K203 nap precedent).
+- All 6 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
