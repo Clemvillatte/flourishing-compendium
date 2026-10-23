@@ -24,6 +24,10 @@ An expensive meal need not give more pleasure. Epicurus asks us to consider what
 **For example**
 Someone serves rice and vegetables and records their hunger before and after the meal.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the know-what-is-enough echo the page lists.
+
 ## Psychology parallels
 
 - **[[Hedonic adaptation|Hedonic adaptation and the reset value of simplicity]]** (Frederick and Loewenstein, 1999; the [[Savoring|savoring]] research)

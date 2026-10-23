@@ -24,6 +24,10 @@ The compendium applies the portrait to success: the man is praised for using for
 
 *For example:* after a promotion, someone thanks the team and keeps their morning routine unchanged.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the expect-reversal teaching (Daodejing 40) the page lists.
+
 ## Sources
 
 - [Meditations I.16, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — the single locator the body uses

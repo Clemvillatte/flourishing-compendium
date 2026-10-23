@@ -21,6 +21,10 @@ Epictetus's instruction is more radical than wanting less: for the present, susp
 **Plain words** Epictetus's drill is blunt: for now, want nothing. Notice whether getting what you want depends on someone else's choice; for this exercise, set that demand aside and keep your next action tentative. When you do pursue something, pursue it lightly, ready for it to go either way.
 
 *For example:* Someone catches themselves refreshing a shopping app for a thing they cannot afford, names the wanting as wanting, and closes the app for the evening.
+## Related concepts
+
+- [[T012 — Laozi]]: the reduce-desires teaching (Daodejing 19) the page lists.
+
 ## Sources
 
 - [Epictetus, The Enchiridion, translated by Elizabeth Carter, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html) — chapter 2

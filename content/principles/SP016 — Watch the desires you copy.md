@@ -25,6 +25,10 @@ When someone else's enthusiasm starts a wish of your own, look at what appeals a
 
 *For example:* Imagine wanting a camera after a colleague describes theirs. Before buying the same model, name the photographs you would take and whether the camera you already own would serve them.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the not-exalting-the-rare teaching (Daodejing 3) the page lists.
+
 ## Sources
 
 - [Spinoza, Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/3800) — Part III, Definitions of the Affects, XXXIII, with explanation

@@ -30,6 +30,10 @@ The "appointment for attention" phrasing and the subtraction test are the princi
 
 (Yoga Sutra 2.30 and 2.39 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 179, 187; Bhagavad Gita ch. 13 in Edwin Arnold, The Song Celestial, Project Gutenberg 2388.)
 
+## Related concepts
+
+- [[T012 — Laozi]]: the sufficiency-as-wealth teaching (Daodejing 33) the page lists.
+
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 179, 187

@@ -28,6 +28,10 @@ Spinoza does not tell you to drop money, reputation or pleasure. He says they ca
 **For example**
 For each of the three, write what it is for. If you cannot name an end beyond itself, look at how much of your week it is taking.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
+
 ## Sources
 
 - [Spinoza, On the Improvement of the Understanding, tr. Elwes (Project Gutenberg)](https://www.gutenberg.org/files/1016/1016-h/1016-h.htm)

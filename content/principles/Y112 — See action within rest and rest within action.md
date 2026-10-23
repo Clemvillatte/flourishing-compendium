@@ -30,6 +30,10 @@ Two people can be doing the same thing and be in very different states. One sits
 
 A woman gardens on Sunday for two hours and notices the afternoon passed without a plan in her head. Her brother, on the next chair with nothing to do, is replaying an argument. Only one of them has stopped.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the wu wei teaching (Daodejing 38 context) the page lists as the direct parallel.
+
 ## Psychology parallels
 
 - **[[Effortless attention|Effortless attention and flow's recovery profile]]**, the finding that absorbed activity can restore rather than deplete (Csikszentmihalyi's recovery studies)

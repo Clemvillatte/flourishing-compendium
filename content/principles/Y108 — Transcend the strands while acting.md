@@ -19,6 +19,10 @@ Bhagavad Gita 14.24 describes a person who is the same in pleasure and pain, to 
 **Plain words** The verse lists things that normally move a person and says this person is not moved by any of them. A suggested application is to check, when censure or praise arrives, whether the action you were about to take would have been the same without it.
 
 *For example:* (Imagined application.) Someone receives an email of praise for a piece of work. Before replying, they consider whether the reply would have looked the same had the praise not arrived.
+## Related concepts
+
+- [[T012 — Laozi]]: the uncarved block (Daodejing 15) the page lists.
+
 ## Psychology parallels
 
 - [[Metacognitive regulation of state|Metacognitive regulation of state]] (Flavell, 1979).

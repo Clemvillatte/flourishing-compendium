@@ -30,6 +30,10 @@ The Gita says a steady person can pull the senses back from their objects. It al
 
 A man finds that scrolling in the evening is what winds him up. He puts the phone in another room for a week. By the weekend he notices he still reaches for it, and takes this to mean the wanting hasn't gone.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the knowing-when-to-withdraw teaching (Daodejing 9) the page lists.
+
 ## Psychology parallels
 
 - **Time-out and strategic disengagement**, the emotion-regulation research showing that well-timed withdrawal prevents escalation

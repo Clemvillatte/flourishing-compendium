@@ -26,6 +26,10 @@ At day's end, describe one part of your life you appreciate. Also name something
 **For example**
 Someone writes down what they appreciate about their current home and one source of discontent at the end of each day.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the know-what-is-enough echo the page lists.
+
 ## Psychology parallels
 
 - **[[Gratitude|Gratitude interventions and contentment practices]]** (Wood et al., 2010 review and theoretical integration)

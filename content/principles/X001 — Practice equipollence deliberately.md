@@ -24,6 +24,10 @@ Hypothetical illustration: someone convinced a neighbour dislikes them writes th
 
 (Sextus Empiricus, Outlines of Pyrrhonism, Book I, chapters 4 and 6.)
 
+## Related concepts
+
+- [[T012 — Laozi]]: the Tao-that-can-be-argued echo (Daodejing 1) the page lists.
+
 ## Psychology parallels
 
 - **Consider-the-opposite debiasing**, the evidence that constructing counter-arguments reduces biased assimilation (Lord, Ross and Lepper, 1979; Mussweiler et al., 2000)

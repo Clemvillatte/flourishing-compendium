@@ -30,6 +30,10 @@ The fruit, sutra 2.55: "As a result of this [withdrawal] there is complete maste
 
 (Yoga Sutra 2.54-2.55 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 197-198.)
 
+## Related concepts
+
+- [[T012 — Laozi]]: the guarding-the-senses teaching (Daodejing 12) the page lists.
+
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 197-198

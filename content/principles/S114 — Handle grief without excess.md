@@ -24,6 +24,10 @@ The compendium applies the passage to keeping company with grief: what hurts can
 
 *For example:* Imagined, as the compendium's modern extension: you cry with a friend at the funeral, and the next week you cook for the family.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the return-to-the-root teaching (Daodejing 16) the page lists.
+
 ## Sources
 
 - [Enchiridion XVI, Thomas Wentworth Higginson translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/45109/pg45109.txt) — the single locator the body uses

@@ -24,6 +24,10 @@ Next time a question keeps circling, a decision you cannot settle, write the two
 
 (Sextus Empiricus, Outlines of Pyrrhonism, Book I, chapters 6 and 12, the originating cause of Scepticism, the Apelles passage and the shadow image.)
 
+## Related concepts
+
+- [[T012 — Laozi]]: the Dao-does-nothing-yet-nothing-left-undone teaching (Daodejing 37) the page lists.
+
 ## Psychology parallels
 
 - **[[Ironic process|Ironic process theory]]**, the finding that monitoring for a state prevents the state (Wegner, 1994)

@@ -30,6 +30,10 @@ Before accepting a favour, ask whether the giver expects a particular return and
 *For example:*
 A local organiser is offered sponsorship by a prominent donor. Before accepting, she asks whether it would commit her to public endorsements and considers declining if it would.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the chapter 20 source the page cites in Legge's translation.
+
 ## Sources
 
 - [Spinoza, Ethics, Elwes translation (Gutenberg)](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — Part IV, Prop. LXX with proof and note

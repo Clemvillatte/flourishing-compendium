@@ -26,6 +26,10 @@ The passage opened here covers poor food and coarse dress, which is the practice
 
 *For example:* Someone who takes the stairs, skips the takeaway coffee, and sleeps without the phone for a week, and discovers that the "essentials" were mostly habits wearing the costume of needs.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the subtract-don't-add teaching (Daodejing 48) the page lists.
+
 ## Psychology parallels
 
 - **[[Hormetic exposure research|Hormetic exposure research]]**, mild stressors trigger adaptive responses (Mattson, 2008)

@@ -26,6 +26,10 @@ Give yourself a short period to sit. When you notice attention wandering, observ
 **For example**
 A beginning meditator who has been silently repeating "stop thinking" notices the repetition, drops the command, and returns attention to the breath for the remainder of the sitting.
 
+## Related concepts
+
+- [[T012 — Laozi]]: the wu wei non-forcing echo the page lists.
+
 ## Psychology parallels
 
 - **[[Ironic process|Ironic process theory]]** (Wegner, 1994)

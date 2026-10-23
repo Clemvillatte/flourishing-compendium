@@ -28,6 +28,10 @@ Sutra 1.35 offers one way to steady the mind: "Or [he gains stability when] a se
 
 (Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388; Yoga Sutras 1.12 and 1.35 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), Internet Archive; both. The old cite "BG 6.34-6.35" is by verse number; Arnold's translation is unnumbered.)
 
+## Related concepts
+
+- [[T012 — Laozi]]: the stillness-under-turbulence teaching (Daodejing 15) the page lists.
+
 ## Sources
 
 - [Arnold, The Song Celestial, Project Gutenberg](https://www.gutenberg.org/ebooks/2388) — chapter 6

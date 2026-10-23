@@ -19,6 +19,10 @@ Nature has no goal set before it, Spinoza argues in the Appendix to Part I of th
 **Plain words** That an event hurts you does not, by itself, show that it was directed at you. Ask what explanation you have for it before assigning it a purpose.
 
 **For example:** Someone wonders whether a storm damaged their house as punishment. They investigate the storm and the building damage without assuming that a message was intended for them.
+## Related concepts
+
+- [[T012 — Laozi]]: the wu wei nothing-left-undone teaching (Daodejing 37) the page lists.
+
 ## Psychology parallels
 
 - **[[Teleological bias|Teleological bias]]**, the well-documented human tendency to over-attribute purpose and design to events (Kelemen, 2004, promiscuous teleology research)
