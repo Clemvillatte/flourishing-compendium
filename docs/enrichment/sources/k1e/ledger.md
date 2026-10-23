@@ -478,3 +478,12 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - Page updated: the All Rise quote added to the Evidence section with a new citation; the What-the-sources-do-not-test paragraph honestly scoped (the Drapkin attribution remains second-hand, but the move is now grounded in published MI training materials); the All Rise citation added to Sources.
 - The Drapkin workbook (New Harbinger, 2023) remains an unreachable commercial carrier; flagged K367 is PARTIALLY RESOLVED in the state file (the move is grounded; the Drapkin attribution remains unverified).
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K368 — Notice your reactance: the push-back hand (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- QC-hold item (procedure-provenance): the palm-pushing demo was attributed to Burke/Lundahl/Arkowitz 3rd-ed. ch. 1 p. 1, with no reachable carrier.
+- RESOLUTION THIS SESSION: the palm-pushing demo grounded in a freshly opened published facilitation account — playmeo.com (Mark Collard, "If You Meet Resistance, Stop Pushing", 2019; the Will Dobud conference-workshop exercise described verbatim: partners facing, palms to palms at shoulder height, the shorter pushes, "In almost all cases ... their partner pushed back", "when you meet resistance, stop pushing"); the page was opened via the cloud browser (the fetch tool is robots-blocked for this host); the icoba.be Dutch training-tool rendering of the same exercise also found in search results (not opened).
+- Page updated: the playmeo quotes added to the Evidence section with a new citation; the What-the-sources-do-not-test paragraph honestly scoped (the Guilford volume attribution remains unverified; the demo is now grounded in published facilitation practice); the playmeo citation added to Sources; a third Related-concepts line (Autonomy) added to clear the validator warning.
+- The Burke/Lundahl/Arkowitz 3rd ed. (Guilford, 2025) remains an unreachable commercial carrier; flagged K368 is PARTIALLY RESOLVED in the state file.
+- Push note: enrich_save.sh's git push rejected (fast-forward race with a concurrent worker, origin moved under us); rebase + api_push.py used to recover.
+- Customer-facing grep clean; validator ok, 0 failed.
