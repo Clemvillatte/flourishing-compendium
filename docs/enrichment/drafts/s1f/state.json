@@ -110,7 +110,27 @@
      "note": ""
     }
    ]
+  },
+  "s1f-005": {
+   "status": "qc_pending",
+   "angle": "B190 breath: the bell of mindfulness in Plum Village — any sound as the bell, telephone rings, breathing in and out; carries breath as always available through the bell practice",
+   "history": [
+    {
+     "t": "2026-10-23T06:19:25+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:19:26+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:20:06+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    }
+   ]
   }
  },
- "updated": "2026-10-23T06:19:02+00:00"
+ "updated": "2026-10-23T06:20:06+00:00"
 }
