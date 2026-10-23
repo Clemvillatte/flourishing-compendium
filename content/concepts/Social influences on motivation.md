@@ -29,9 +29,9 @@ MO009 (Recognise that motivation is social) and MO017 (Cultivate relatedness) re
 
 ## Related concepts
 
-- [[Social comparison]] — listed for comparison
-- [[Relatedness]] — listed for comparison
-- [[Conformity]] — listed for comparison
+- [[Social comparison]] — measuring oneself against others
+- [[Relatedness]] — the belonging need
+- [[Conformity]] — aligning with the group
 
 ## Sources
 

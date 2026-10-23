@@ -44,10 +44,10 @@ The data fit a milder reading of the desire-reduction principles: most desires a
 
 ## Related concepts
 
-- [[Desire]] — listed for comparison
-- [[Ego depletion]] — listed for comparison
-- [[Temptation bundling (Milkman)]] — listed for comparison
-- [[The craving-to-addiction model]] — listed for comparison
+- [[Desire]] — the felt pulls this method samples
+- [[Ego depletion]] — the self-control resource account
+- [[Temptation bundling (Milkman)]] — a strategy for managing desires
+- [[The craving-to-addiction model]] — the clinical model of when desires go wrong
 
 ## Other formulations in this library
 

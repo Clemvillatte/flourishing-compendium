@@ -26,9 +26,9 @@ BI014 (Learn the architecture of sleep) and the other linked principles, among t
 ## Related concepts
 
 
-- [[Sleep deprivation]] — what the loss of these stages affects, listed for comparison
-- [[Sleep hygiene (CBT-I)]] — listed for comparison
-- [[Two-process model of sleep]] — listed for comparison
+- [[Sleep deprivation]] — what the loss of these stages affects
+- [[Sleep hygiene (CBT-I)]] — the behavioural practices for protecting these stages
+- [[Two-process model of sleep]] — the regulation model these stages sit in
 - [[BI014]] — the NINDS cycle description and Rasch-Born memory mechanism behind this principle
 ## Sources
 

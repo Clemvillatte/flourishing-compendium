@@ -41,9 +41,9 @@ Milton's case was made for his own time and this page does not examine whether t
 
 ## Related concepts
 
-- [[Parrhesia (frank speech)]] — listed for comparison
-- [[Epistemic humility]] — listed for comparison
-- [[Epistemic curiosity]] — listed for comparison
+- [[Parrhesia (frank speech)]] — the ancient practice of truth-telling at personal risk
+- [[Epistemic humility]] — knowing what one does not know
+- [[Epistemic curiosity]] — the drive to know more
 
 ## Sources
 

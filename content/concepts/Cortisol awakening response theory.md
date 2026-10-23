@@ -34,10 +34,10 @@ A 2019 study of salivary cortisol in healthy adults found the peak 20 minutes af
 
 ## Related concepts
 
-- [[HPA axis theory stress]] — listed for comparison
-- [[Stress response (Lupien, McEwen)]] — listed for comparison
-- [[Allostatic load]] — listed for comparison
-- [[Circadian science]] — listed for comparison
+- [[HPA axis theory stress]] — the stress-hormone system this response belongs to
+- [[Stress response (Lupien, McEwen)]] — the broader stress physiology
+- [[Allostatic load]] — the wear-and-tear account of chronic stress
+- [[Circadian science]] — the daily-rhythm framework this response is timed by
 
 ## Sources
 

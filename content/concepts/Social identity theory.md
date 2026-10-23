@@ -32,9 +32,9 @@ The page lists two facets, "health function" and "and prosocial behaviour," the 
 ## Related concepts
 
 
-- [[Embodied social identity]] — listed for comparison
-- [[Intergroup contact]] — listed for comparison
-- [[Superordinate goals]] — listed for comparison
+- [[Embodied social identity]] — the body side of group belonging
+- [[Intergroup contact]] — the research on reducing group bias through contact
+- [[Superordinate goals]] — the shared-goal mechanism from the same intergroup research
 - [[SO045]] — A compendium principle on group support and in-group preference
 ## Sources
 

@@ -32,9 +32,9 @@ Christakis and Fowler say their obesity clusters were not solely due to selectiv
 
 ## Related concepts
 
-- [[Social contagion]] — listed for comparison
-- [[Emotional contagion]] — listed for comparison
-- [[Behavioral activation]] — listed for comparison
+- [[Social contagion]] — behaviour spreading through networks
+- [[Emotional contagion]] — feeling spreading through groups
+- [[Behavioral activation]] — the depression treatment that uses activity and social contact
 
 ## Sources
 

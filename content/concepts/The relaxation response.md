@@ -30,9 +30,9 @@ The original entry compresses a book and a research programme into a date. The c
 
 ## Related concepts
 
-- [[Parasympathetic activation]] — listed for comparison
-- [[Autonomic nervous system (sympathetic vs parasympathetic)]] — listed for comparison
-- [[Progressive muscle relaxation (Jacobson)]] — listed for comparison
+- [[Parasympathetic activation]] — the rest-and-digest side of the nervous system
+- [[Autonomic nervous system (sympathetic vs parasympathetic)]] — the larger system this response sits in
+- [[Progressive muscle relaxation (Jacobson)]] — a body-based route to the same state
 
 ## Sources
 

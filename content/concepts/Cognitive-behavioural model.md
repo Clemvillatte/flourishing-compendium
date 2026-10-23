@@ -34,10 +34,10 @@ They add that "the efficacy of CBT is questionable for some problems", that many
 
 ## Related concepts
 
-- [[Cognitive restructuring]] — listed for comparison
-- [[Cognitive distortions]] — listed for comparison
-- [[Appraisal theory]] — listed for comparison
-- [[Anger reappraisal]] — listed for comparison
+- [[Cognitive restructuring]] — the model's core technique
+- [[Cognitive distortions]] — the biased thought patterns the model targets
+- [[Appraisal theory]] — the emotion theory behind the model's cognitive emphasis
+- [[Anger reappraisal]] — an applied instance: reinterpreting anger triggers
 
 ## Facets
 

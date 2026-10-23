@@ -30,9 +30,9 @@ The principles listed (for example K284, S011 and SO027) use roles as a practica
 ## Related concepts
 
 
-- [[Confucian role ethics]] — listed for comparison
-- [[Role Theory]] — listed for comparison
-- [[Narrative self]] — listed for comparison
+- [[Confucian role ethics]] — the Confucian source of role ethics
+- [[Role Theory]] — the social-psychology account of roles
+- [[Narrative self]] — the self constituted by its stories
 - [[Ren]] — Confucius's cardinal virtue: the humane disposition toward others
 ## Sources
 

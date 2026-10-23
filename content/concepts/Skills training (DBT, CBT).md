@@ -32,9 +32,9 @@ Valentine and colleagues report that DBT skills training is being given as a sta
 
 - [[Distress tolerance (DBT)]] — one of the four DBT skill areas
 - [[Emotion regulation]] — one of the four DBT skill areas
-- [[Dialectical behaviour therapy, emotion modulation]] — listed for comparison
-- [[Radical acceptance]] — listed for comparison
-- [[Compassion-focused therapy]] — listed for comparison
+- [[Dialectical behaviour therapy, emotion modulation]] — the DBT skill module
+- [[Radical acceptance]] — a DBT acceptance skill
+- [[Compassion-focused therapy]] — a sibling therapy approach
 
 ## Sources
 

@@ -25,9 +25,9 @@ SE001 (Understand that the self is constructed, not discovered), SE010 and SO003
 
 ## Related concepts
 
-- [[Self as process]] — listed for comparison
-- [[Narrative self]] — listed for comparison
-- [[Possible selves]] — listed for comparison
+- [[Self as process]] — the process view; this page's cousin
+- [[Narrative self]] — the storytelling self
+- [[Possible selves]] — the future-oriented selves one can imagine
 
 ## Sources
 

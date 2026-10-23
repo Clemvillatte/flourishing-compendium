@@ -28,9 +28,9 @@ The abstract supports a modest claim: whether training carries over depends on w
 
 ## Related concepts
 
-- [[Deliberate practice]] — listed for comparison
-- [[Desirable difficulties]] — listed for comparison
-- [[Situated cognition theory]] — listed for comparison
+- [[Deliberate practice]] — the practice-quality research; the sibling question of what makes practice work
+- [[Desirable difficulties]] — the learning-science idea that hard practice sticks
+- [[Situated cognition theory]] — the view that skills live in context; the boundary of transfer
 
 ## Other formulations in this library
 

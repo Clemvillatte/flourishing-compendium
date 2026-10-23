@@ -29,9 +29,9 @@ SE063 (Learn to set and pursue self-concordant goals) and MO013 (Clarify your va
 
 ## Related concepts
 
-- [[Self-concordance theory]] — listed for comparison
-- [[Self-concordant goals]] — listed for comparison
-- [[Autonomous motivation]] — listed for comparison
+- [[Self-concordance theory]] — the theory this page's evidence tests
+- [[Self-concordant goals]] — the goals themselves
+- [[Autonomous motivation]] — the self-endorsed motivation in the same account
 
 ## Sources
 

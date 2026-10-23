@@ -38,10 +38,10 @@ Grossmann and Kross (2014) report that across three experiments (N = 693), peopl
 
 ## Related concepts
 
-- [[Self-distancing]] — listed for comparison
-- [[Wise reasoning]] — listed for comparison
-- [[Emotion regulation]] — listed for comparison
-- [[Extended process model of emotion regulation]] — listed for comparison
+- [[Self-distancing]] — the general mechanism this technique puts to work
+- [[Wise reasoning]] — the reasoning quality studied in the same research programme
+- [[Emotion regulation]] — the broader family: managing feeling by changing perspective
+- [[Extended process model of emotion regulation]] — the process account of how regulation strategies work
 
 ## Sources
 

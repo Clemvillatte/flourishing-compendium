@@ -27,9 +27,9 @@ The principles listed (for example S030, BE056 and D117) concern acting for othe
 
 ## Related concepts
 
-- [[Prosocial behaviour]] — listed for comparison
-- [[Prosocial motivation]] — listed for comparison
-- [[Prosocial spending]] — listed for comparison
+- [[Prosocial behaviour]] — the behaviour the orientations predict
+- [[Prosocial motivation]] — the motivation side of the same idea
+- [[Prosocial spending]] — a studied prosocial act: spending on others
 
 ## Sources
 

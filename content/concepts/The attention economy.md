@@ -38,9 +38,9 @@ Simon's argument that information consumes attention, which the original entry's
 
 ## Related concepts
 
-- [[Attention]] — listed for comparison
-- [[Cognitive load theory]] — listed for comparison
-- [[ADHD: interest-based attention]] — listed for comparison
+- [[Attention]] — the finite resource this economy trades
+- [[Cognitive load theory]] — the account of attention's limits
+- [[ADHD: interest-based attention]] — the interest-driven attention mode
 
 ## Sources
 

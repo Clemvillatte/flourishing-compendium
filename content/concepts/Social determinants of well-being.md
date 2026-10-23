@@ -28,9 +28,9 @@ The principles listed (for example A006, SO001, SO009, P138 and R107) treat the 
 ## Related concepts
 
 
-- [[Social determinants of health]] — listed for comparison
-- [[Social capital theory Putnam]] — listed for comparison
-- [[Social support theory Cohen Wills]] — listed for comparison
+- [[Social determinants of health]] — the health-side framework
+- [[Social capital theory Putnam]] — the networks-and-trust account
+- [[Social support theory Cohen Wills]] — the support-as-buffer account
 - [[SO061]] — separating income distribution, living conditions and distinct outcomes
 ## Sources
 
