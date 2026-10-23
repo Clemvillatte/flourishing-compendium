@@ -21,6 +21,10 @@ How you feel can affect the range of actions that come to mind. As a practical e
 
 *For example:* someone notices the list of things they feel like doing is short on a bad day, writes the list down, and looks again on a quieter one.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the expansive-mind passage (Inner Chapters) behind the page's direction-of-thinking parallel.
+
 ## Sources
 
 - [Fredrickson & Branigan, "Positive emotions broaden the scope of attention and thought-action repertoires," Cognition and Emotion 19(2) (2005)](https://pubmed.ncbi.nlm.nih.gov/21852891/) — abstract

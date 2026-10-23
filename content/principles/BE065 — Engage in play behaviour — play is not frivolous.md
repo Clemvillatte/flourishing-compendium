@@ -23,6 +23,10 @@ The questionnaire study links playfulness with life satisfaction; the interventi
 
 *For example:* An adult makes time for a game they enjoy. This is a suggested activity, not a reproduction of the trial protocol.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the child-as-sage image the page pairs with the Gospels for play.
+
 ## Sources
 
 - [Proyer et al., "Can Playfulness be Stimulated? A Randomised Placebo-Controlled Online Playfulness Intervention Study," Applied Psychology: Health and Well-Being (2021)](https://pubmed.ncbi.nlm.nih.gov/32844597/) — abstract

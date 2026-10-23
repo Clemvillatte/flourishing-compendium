@@ -26,6 +26,10 @@ Moving regularly lifts depressive symptoms for many people, and walking works ab
 **For example**
 Pick a form of movement you will actually do, such as walking, yoga or lifting, and do it for a month.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the movement-as-life parallel the page cites for exercise and mood.
+
 ## Sources
 
 - [Cooney et al. 2013, Exercise for depression (Cochrane)](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004366.pub6/full)

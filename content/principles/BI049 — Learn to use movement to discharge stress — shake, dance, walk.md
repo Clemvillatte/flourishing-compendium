@@ -28,6 +28,10 @@ Stress is a body state, and the authors treat it as having a finish line of its 
 **For example**
 After a performance review that went badly, take the stairs instead of the lift, or walk the twenty minutes home. The walk is for the body, not for the situation: the review is unchanged either way.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the movement-as-life parallel the page cites for discharging stress through motion.
+
 ## Sources
 
 - [Nagoski and Nagoski, Burnout (2019), publisher excerpt "Complete the stress cycle to stop feeling emotionally drained" (Penguin, March 14, 2019)](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout) — the completion framework, the movement strategy and the subjective-relief passage quoted above

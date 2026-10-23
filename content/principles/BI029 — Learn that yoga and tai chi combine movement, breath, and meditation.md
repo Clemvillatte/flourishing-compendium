@@ -36,6 +36,10 @@ Two randomized trials. A 12-week Iyengar yoga intervention outperformed metaboli
 **For example**
 Suppose someone with fibromyalgia asks their clinician whether a supervised tai chi programme could form part of their care.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the Cook Ding wu wei behind the page's effortless-movement parallel.
+
 ## Sources
 
 - [Streeter et al., "Effects of Yoga Versus Walking on Mood, Anxiety, and Brain GABA Levels: A Randomized Controlled MRS Study", J Altern Complement Med 16(11), 1145-1152 (2010), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3111147/) — 12-week RCT, yoga vs metabolically matched walking; mood/anxiety and thalamic GABA. Quotes checked against the page text. DOI [10.1089/acm.2010.0007](https://doi.org/10.1089/acm.2010.0007)

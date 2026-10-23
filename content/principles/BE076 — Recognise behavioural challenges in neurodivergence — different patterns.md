@@ -24,6 +24,10 @@ On the sensory side, an editorial in the same year argues against reducing autis
 
 ***For example** an autistic employee struggles in an open-plan office, with noise and uninvited interruption. One experiment worth trying is a different setting, a quieter room or working from home, alongside asking what else might help. Whether the fit improves is something the experiment answers; the research does not guarantee it.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the tree that is not judged by the forest, the page's image for behaviour that differs without disorder.
+
 ## Psychology parallels
 
 - **Neurodiversity as deficit-and-difference (Kapp et al., 2013)**, a survey of 657 people with different relations to autism found views consistent with a deficit-as-difference conception

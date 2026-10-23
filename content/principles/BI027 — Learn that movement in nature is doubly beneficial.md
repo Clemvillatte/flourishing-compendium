@@ -24,6 +24,10 @@ When choosing a walking route, consider a park or waterside path ([Barton & Pret
 **For example**
 (Imagined) Two colleagues take the same 30-minute lunchtime walk, one along a canal path, one through a car park and arcade. The legs do identical work; each can notice what the afternoon's mood does afterward.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the nature-as-teacher parallel behind the page's double benefit of moving outdoors.
+
 ## Sources
 
 - [Barton & Pretty, 2010, Environ Sci Technol 44(10): 3947-55, Essex repository](https://repository.essex.ac.uk/683/) — abstract: ten UK studies, self-esteem d = 0.46, mood d = 0.54
