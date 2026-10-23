@@ -24,6 +24,10 @@ Cheng extends this account of entrustment to life, one's nature and one's descen
 
 *For example:* Imagine feeling disappointed by how your appearance has changed with age. You decide to spend the evening preparing a meal rather than comparing old photographs. The point is the choice to care, not a promised change in how you feel.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the chapter 22 exchange where Cheng tells Shun the body is a loan, not a possession.
+
 ## Sources
 
 - [Zhuangzi 22, Knowledge Rambling in the North, paragraph 4, translated by James Legge, Chinese Text Project](https://ctext.org/zhuangzi/knowledge-rambling-in-the-north): Shun and Cheng's dialogue.

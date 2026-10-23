@@ -27,6 +27,10 @@ Grief for the past is itself a present event, so feeling it is not the error. Th
 
 *For example:* The retiree who still misses the title some mornings and is also, by afternoon, in the garden — the missing and the gardening coexist.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the madman of Chu at Confucius's door, the page's one-line stance against past and future.
+
 ## Sources
 
 - [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 4, the madman of Chu

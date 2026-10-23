@@ -23,6 +23,10 @@ Nishida's starting point: in immediate experience there is not yet a gap between
 
 For example: After service, a cook reviews how tasting, remembering recipes and adjusting seasoning worked together, then considers what she would change next time.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the Inner Chapters skill stories the page cites for unsplit action.
+
 ## Sources
 
 - [Gelūnas 2001, Acta Orientalia Vilnensia (opened carrier)](https://www.journals.vu.lt/acta-orientalia-vilnensia/article/download/18347/17527/31254) — reproduces the pure experience opening (pp. 3-4) and the will-base passage (p. 28)

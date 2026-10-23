@@ -25,6 +25,10 @@ Before settling on a cause for what happened, describe the experience you are tr
 
 *For example:* Imagine an argument after plans change. "I noticed warmth in my face" reports an experience; "you did that because of your mother" proposes a cause. For the exercise, separate the reported experience from the proposed explanation, without assuming either statement is automatically accurate.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the basin-drumming story (ST031) the page lists: grief described before it is judged.
+
 ## Sources
 
 - [Heidegger, Being and Time (1927), Macquarrie & Robinson translation, §7C, full-text reproduction, Dominican House of Studies](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime01.doc) — the definition of phenomenology and the "To the things themselves" maxim

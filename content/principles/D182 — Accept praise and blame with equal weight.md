@@ -32,6 +32,10 @@ The compendium brings the two passages together: DDJ 13 treats favour and disgra
 
 *For example:* Imagine finishing a piece of work that is reviewed both admiringly and harshly by different readers. You could sort each review into what it says about the work and what it says about the reviewer, and take only the first kind forward.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: Zi-gong's man complete in spirit (chapter 12), unmoved by the world's approval or blame.
+
 ## Sources
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 13

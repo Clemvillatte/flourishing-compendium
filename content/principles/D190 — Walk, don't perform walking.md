@@ -28,6 +28,10 @@ Choose a safe task you have prepared to try. What can you attempt now, and what 
 
 Imagine preparing a short speech. After reading guidance, try saying the opening aloud and note where you lose your place. This proposed exercise gives you a specific question to bring back to the guidance; it does not make further reading a failure.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the wheelwright Phien's knack no words can carry, the page's case against performed skill.
+
 ## Sources
 
 - [The Texts of Taoism, Part I, trans. James Legge (sacred-texts.com)](https://www.sacred-texts.com/book/the-texts-of-taoism-part-i-of-ii/book-xiii-thien-tao-or-the-way-of-heaven/) — Book XIII, "The Way of Heaven"

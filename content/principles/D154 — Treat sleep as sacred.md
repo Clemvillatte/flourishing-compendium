@@ -30,6 +30,10 @@ The compendium brings these passages together: the Neiye treats stillness as the
 
 *For example:* Imagine a demanding day tomorrow. You could decide that tonight's sleep is part of the preparation, and finish planning early enough to protect it.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the True men's dreamless sleep, the page's portrait for sacred rest.
+
 ## Sources
 
 - [Zhuangzi, Legge trans., ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Part 6, the True men of old

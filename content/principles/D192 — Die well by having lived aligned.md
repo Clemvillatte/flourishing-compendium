@@ -28,6 +28,10 @@ The test for a good death is a settled life. Accounts kept current, amends made 
 
 *For example:* Imagine a hospice patient who is calm while the family is not. The chapter's suggestion is that the calm was earned across the whole life rather than summoned at the end.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the True men of old (chapter 6) who knew no love of life or hatred of death.
+
 ## Sources
 
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 33, 50
