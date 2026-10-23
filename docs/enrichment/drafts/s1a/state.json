@@ -17,7 +17,7 @@
    ]
   },
   "s1a-002": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P184 twice-born: Tolstoy's crisis in A Confession (Tolstoy 1882 + James's Varieties Sick Soul)",
    "history": [
     {
@@ -43,11 +43,17 @@
      "t": "2026-10-21T12:37:52+00:00",
      "to": "published",
      "note": "supervisor registration ST410"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST410"
     }
-   ]
+   ],
+   "stid": "ST410"
   },
   "s1a-003": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "D039: Heschel — the shrine the Nazis could not burn; rest as the root the week travels from",
    "history": [
     {
@@ -73,11 +79,17 @@
      "t": "2026-10-21T12:38:10+00:00",
      "to": "published",
      "note": "supervisor registration ST411"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST411"
     }
-   ]
+   ],
+   "stid": "ST411"
   },
   "s1a-004": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "D156: the pagoda sways like a willow — Hōryū-ji flexibility vs rigidity",
    "history": [
     {
@@ -103,8 +115,14 @@
      "t": "2026-10-21T12:38:26+00:00",
      "to": "published",
      "note": "supervisor registration ST412"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST412"
     }
-   ]
+   ],
+   "stid": "ST412"
   },
   "s1a-005": {
    "status": "returned",
@@ -132,7 +150,7 @@
    ]
   },
   "s1a-006": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "B026: Bill W. finds Dr. Bob — AA's founding as the four efforts in action",
    "history": [
     {
@@ -158,11 +176,17 @@
      "t": "2026-10-21T12:38:42+00:00",
      "to": "published",
      "note": "supervisor registration ST413"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST413"
     }
-   ]
+   ],
+   "stid": "ST413"
   },
   "s1a-007": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "P182: the teller and the doer — Gallwey's Bounce-Hit",
    "history": [
     {
@@ -188,11 +212,17 @@
      "t": "2026-10-21T12:39:18+00:00",
      "to": "published",
      "note": "supervisor registration ST414"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST414"
     }
-   ]
+   ],
+   "stid": "ST414"
   },
   "s1a-008": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D080: the blind men and the elephant (Udana 6.4) — partial truths mistaken for the whole",
    "history": [
     {
@@ -233,11 +263,17 @@
      "t": "2026-10-21T12:39:43+00:00",
      "to": "published",
      "note": "supervisor registration ST415"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST415"
     }
-   ]
+   ],
+   "stid": "ST415"
   },
   "s1a-009": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D080: the marquis feeds a seabird as himself; generous human standards become lethal across different ways of life",
    "history": [
     {
@@ -278,11 +314,17 @@
      "t": "2026-10-21T12:40:11+00:00",
      "to": "published",
      "note": "supervisor registration ST416"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST416"
     }
-   ]
+   ],
+   "stid": "ST416"
   },
   "s1a-010": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B068: Dighavu repeatedly examines revenge and sheathes the sword before mutual non-harm; new target per owner broad Buddhist storyteller remit",
    "history": [
     {
@@ -313,11 +355,17 @@
      "t": "2026-10-21T12:40:28+00:00",
      "to": "published",
      "note": "supervisor registration ST417"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST417"
     }
-   ]
+   ],
+   "stid": "ST417"
   },
   "s1a-011": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "P136: Addams and the Devil Baby; an unsettling failed bedside visit changes how she understands old women and their stories",
    "history": [
     {
@@ -358,11 +406,17 @@
      "t": "2026-10-21T12:40:42+00:00",
      "to": "published",
      "note": "supervisor registration ST418"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST418"
     }
-   ]
+   ],
+   "stid": "ST418"
   },
   "s1a-012": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D039: Poincare alternates deliberate work, periods away and verification; apparent rest, not a promise of breakthrough or physical recovery",
    "history": [
     {
@@ -393,11 +447,17 @@
      "t": "2026-10-21T12:40:56+00:00",
      "to": "published",
      "note": "supervisor registration ST419"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST419"
     }
-   ]
+   ],
+   "stid": "ST419"
   },
   "s1a-013": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "D156: Muir rides a storm in a supple treetop; elasticity, anchorage and neighbouring trees, with no universal survival claim",
    "history": [
     {
@@ -428,11 +488,17 @@
      "t": "2026-10-21T12:41:12+00:00",
      "to": "published",
      "note": "supervisor registration ST420"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST420"
     }
-   ]
+   ],
+   "stid": "ST420"
   },
   "s1a-014": {
-   "status": "ready",
+   "status": "published_backlinks_pending",
    "angle": "B026: Meghiya finds that the right grove and eagerness do not replace conditions for directing effort; complete Ud4.1 arc",
    "history": [
     {
@@ -463,11 +529,17 @@
      "t": "2026-10-21T12:41:31+00:00",
      "to": "published",
      "note": "supervisor registration ST421"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST421"
     }
-   ]
+   ],
+   "stid": "ST421"
   },
   "s1a-015": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "P042: children confront cotton-seed removal and reconstruct textile tools; guided inquiry without the false requirement to get hurt",
    "history": [
     {
@@ -493,11 +565,17 @@
      "t": "2026-10-21T12:41:48+00:00",
      "to": "published",
      "note": "supervisor registration ST422"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST422"
     }
-   ]
+   ],
+   "stid": "ST422"
   },
   "s1a-016": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "D156: tree survives uselessness but goose dies for it; no fixed useful/useless strategy, adapt with changing conditions",
    "history": [
     {
@@ -523,11 +601,17 @@
      "t": "2026-10-21T12:42:07+00:00",
      "to": "published",
      "note": "supervisor registration ST423"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST423"
     }
-   ]
+   ],
+   "stid": "ST423"
   },
   "s1a-017": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "D068: Han Xin crawls beneath the butcher's youth — yielding measured against the whole future, closed without revenge",
    "history": [
     {
@@ -563,11 +647,17 @@
      "t": "2026-10-21T12:42:18+00:00",
      "to": "published",
      "note": "supervisor registration ST424"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST424"
     }
-   ]
+   ],
+   "stid": "ST424"
   },
   "s1a-018": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "P181 from the boundary side: Duchenne's muscle of benevolence obeys only the feeling, not the will",
    "history": [
     {
@@ -593,11 +683,17 @@
      "t": "2026-10-21T12:42:37+00:00",
      "to": "published",
      "note": "supervisor registration ST425"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST425"
     }
-   ]
+   ],
+   "stid": "ST425"
   },
   "s1a-019": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "B054: the worldly winds staged as the Ciñcā accusation; equanimity reading is the compendium's interpretation",
    "history": [
     {
@@ -633,11 +729,17 @@
      "t": "2026-10-21T12:42:51+00:00",
      "to": "published",
      "note": "supervisor registration ST426"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST426"
     }
-   ]
+   ],
+   "stid": "ST426"
   },
   "s1a-020": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "B074: MN 20 ladder — a thought is tested for skillfulness, never for truth; outcome is mastery over thought-sequences",
    "history": [
     {
@@ -663,11 +765,17 @@
      "t": "2026-10-21T12:43:05+00:00",
      "to": "published",
      "note": "supervisor registration ST427"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST427"
     }
-   ]
+   ],
+   "stid": "ST427"
   },
   "s1a-021": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "Bunyan Grace Abounding P184 twice-born",
    "history": [
     {
@@ -688,11 +796,17 @@
      "t": "2026-10-21T12:43:29+00:00",
      "to": "published",
      "note": "supervisor registration ST428"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST428"
     }
-   ]
+   ],
+   "stid": "ST428"
   },
   "s1a-022": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "MN 36 austerities pivot B026",
    "history": [
     {
@@ -713,11 +827,17 @@
      "t": "2026-10-21T12:43:50+00:00",
      "to": "published",
      "note": "supervisor registration ST429"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST429"
     }
-   ]
+   ],
+   "stid": "ST429"
   },
   "s1a-023": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "B192: young Franklin's book of thirteen virtues — morning question, evening examination, and the speckled axe",
    "history": [
     {
@@ -753,11 +873,17 @@
      "t": "2026-10-21T12:55:22+00:00",
      "to": "qc_pending",
      "note": "advisor round-2: SCOPED PASS; verification record corrected (16 prose + 4 table strings); stays qc_pending for supervisor scope/ST184 dispositions"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST430"
     }
-   ]
+   ],
+   "stid": "ST430"
   },
   "s1a-024": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "B043: Dipa Ma's own account of insight as watching — losses, heart failure, the course of practice, and anger/desire observed to arising and passing; distinct from ST095's daily-life angle",
    "history": [
     {
@@ -773,11 +899,17 @@
      "t": "2026-10-21T12:30:22+00:00",
      "to": "published",
      "note": "supervisor verification: quotes verified against opened Tricycle + dipama.com pages"
+    },
+    {
+     "t": "2026-10-23T11:41:10+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST401"
     }
-   ]
+   ],
+   "stid": "ST401"
   },
   "s1a-025": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "D045: Deshan and the old woman's rice cakes — the full cart of commentaries emptied by one question, the candle, and the burning",
    "history": [
     {
@@ -798,11 +930,17 @@
      "t": "2026-10-21T12:44:25+00:00",
      "to": "published",
      "note": "supervisor registration ST431"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST431"
     }
-   ]
+   ],
+   "stid": "ST431"
   },
   "s1a-026": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "B176: the dishes and the tangerine — Thich Nhat Hanh teaching Jim Forest presence at the sink and under the tree, and the prison letter that returned to the tangerine",
    "history": [
     {
@@ -818,8 +956,14 @@
      "t": "2026-10-21T12:44:58+00:00",
      "to": "published",
      "note": "supervisor registration ST432"
+    },
+    {
+     "t": "2026-10-23T11:41:02+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST432"
     }
-   ]
+   ],
+   "stid": "ST432"
   },
   "s1a-027": {
    "status": "qc_pending",
@@ -837,7 +981,7 @@
    ]
   },
   "s1a-028": {
-   "status": "qc_pending",
+   "status": "published_backlinks_pending",
    "angle": "rung-4 upgrade: ST184 Franklin's Little Book — add verbatim primary quotes (Gutenberg #20203 raw text, already opened and verified) + primary source link; no wiring changes",
    "history": [
     {
@@ -848,8 +992,14 @@
      "t": "2026-10-21T12:52:39+00:00",
      "to": "qc_pending",
      "note": "rung-4 upgrade applied to ST184: verbatim primary quotes added (6 strings verified vs Gutenberg #20203 raw text), primary source linked, Sources section added, Principles converted to justified list (links unchanged: A106/A111/A039, resonates D054/S130); unsupported 'at about 20' removed; checker published-context 0 errors; build ok (5829 entries)"
+    },
+    {
+     "t": "2026-10-23T11:41:08+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST184"
     }
-   ]
+   ],
+   "stid": "ST184"
   },
   "s1a-029": {
    "status": "qc_pending",
@@ -1088,5 +1238,5 @@
    ]
   }
  },
- "updated": "2026-10-23T06:57:51+00:00"
+ "updated": "2026-10-23T11:41:10+00:00"
 }
