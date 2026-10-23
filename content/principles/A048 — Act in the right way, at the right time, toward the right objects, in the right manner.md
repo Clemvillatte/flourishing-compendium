@@ -45,3 +45,4 @@ Telling someone a hard truth at the right time can heal, and at the wrong time c
 ## Related concepts
 
 - [[D118]] — A048's reflections ask what cues tell you when to speak; D118 is the Daoist counterpart on speech timing (reticence, few words)
+- [[T012 — Laozi]] — Daodejing 64's timing as wisdom, the page's own Daoist anchor
