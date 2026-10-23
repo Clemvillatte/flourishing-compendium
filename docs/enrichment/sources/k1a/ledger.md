@@ -494,3 +494,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - K300, K349: Related-concepts glosses neutralised (no claimed effects on Nature connectedness / Place attachment).
 - Ownership verification: kpr/k1b done lists checked by kernel ID against all 20 items worked this session, no collisions; the kernel queue remaining is 100 items by ID (the earlier 120 figure over-counted by ignoring kpr's ID-only done entries).
 - Standing changes going forward: run the mention check before writing the ledger entry; cite author lists only from the opened efetch header; keep honesty notes concise and specific to what the opened abstract does not report.
+
+## K289 — Amends and restitution (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Witvliet, Root Luna, Worthington & Tsang 2020 (Front Psychol 11:284), scenario psychophysiology study (61 participants), abstract verified raw via NCBI efetch (PMID 32231606); author list read from the efetch header.
+- The blockquote (apology and restitution effects sentence) matches the raw efetch text verbatim.
+- Honesty on page: imagined-victim scenario design, restitution's potency stated, wrongdoer-side amends practice not tested; inherited "sincere apologies predict relationship repair" claim grounded to the study's victim-side measures.
+- Mention check run (before this entry): K289 already linked from A023/S012/R005/R065 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
