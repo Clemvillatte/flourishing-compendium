@@ -52,7 +52,8 @@
   "Subitism",
   "Substitution",
   "Survivorship bias",
-  "System 1 and System 2"
+  "System 1 and System 2",
+  "TRACE model of speech perception"
  ],
  "in_progress": null,
  "flagged": {
@@ -92,6 +93,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:30:00+00:00",
+ "updated": "2026-10-23T05:30:38+00:00",
  "band_done": false
 }
