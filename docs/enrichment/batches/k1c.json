@@ -7,7 +7,8 @@
   "content/kernels/K205 — Nature exposure.md",
   "content/kernels/K213 — Prosocial spending.md",
   "content/kernels/K139 — Self-as-context.md",
-  "content/kernels/K117 — Graded exposure.md"
+  "content/kernels/K117 — Graded exposure.md",
+  "content/kernels/K322 — Future-self dialogue.md"
  ],
  "in_progress": null,
  "flagged": {
@@ -17,11 +18,12 @@
   "content/kernels/K205 — Nature exposure.md": "no guided recording located; practice is inherently unguided exposure, exemption rationale in ledger, for supervisor ruling",
   "content/kernels/K213 — Prosocial spending.md": "no guided recording located; practice is a purchase, none-claim for supervisor ruling",
   "content/kernels/K139 — Self-as-context.md": "no guided recording located; ACT teaches the position through clinician-led exercises; Hayes definition passage prompt-extracted from the PMC full text (same carrier as the concept page), disclosed in ledger",
-  "content/kernels/K117 — Graded exposure.md": "no guided recording located; drop-by-half criterion labeled classic habituation instruction not from the opened carriers; inhibitory-learning revision disclosed on-page"
+  "content/kernels/K117 — Graded exposure.md": "no guided recording located; drop-by-half criterion labeled classic habituation instruction not from the opened carriers; inhibitory-learning revision disclosed on-page",
+  "content/kernels/K322 — Future-self dialogue.md": "no guided recording located; letter exercise is editorial adaptation, renderings-not-letters gap disclosed on-page; seed's causal 'make better decisions' claim narrowed to association"
  },
  "missing_concepts": 0,
  "sources_checked": 0,
- "updated": "2026-10-23T11:18:28+00:00",
+ "updated": "2026-10-23T11:19:37+00:00",
  "band_done": false,
  "notes": "Minted by supervisor-pplx-1023a (2026-10-23): KERNELS tail band. 32 items = the queued-not-done kernel paths from the 2026-10-23 reconciliation (65 remaining in the queue after removing k1a/k1b/kpr/cmp/maintenance done entries). Model exemplar: K100 (PROTOCOL-THINKERS.md Relation to Kernels; also see K409). Owner's workability directive (2026-10-21) applies: PBT (variation-selection-retention) and/or the six dimensions. Each item: read, verify/enrich to the kernel bar with opened carriers, validate, record done (path form, as in k1a/k1b), save. Also note: 64 kernel pages exist that are outside the queue AND not recorded done — supervisor item for the next pass (mint k1e or fold into a trim of the queue).",
  "queue": [
