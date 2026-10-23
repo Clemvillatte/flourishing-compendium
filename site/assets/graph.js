@@ -386,7 +386,62 @@ function applyToggles() {
 }
 
 /* ---------- layout ---------- */
+/* Persisted layout (owner request 2026-10-23: faster graph loading).
+   After every completed arrange the settled positions are saved to
+   localStorage, keyed by a graph fingerprint (node/edge counts). On the next
+   load with the SAME graph the layout is restored instead of re-seeded and
+   the warmup is short (settle, not organise) — the wall-clock arrange drops
+   several-fold on repeat visits with an identical final layout. A changed
+   graph (content pushes add nodes/edges) falls back to the full arrange. */
+const LAYOUT_KEY = 'fcGraphLayout-v1';
+function layoutFingerprint() { return G ? G.nodes.length + '/' + G.edges.length : ''; }
+function tryRestoreLayout() {
+  if (!G || scopeValue !== 'all') return false;
+  let s = null;
+  try { s = JSON.parse(localStorage.getItem(LAYOUT_KEY) || 'null'); } catch (e) { return false; }
+  if (!s || !s.pos || s.fp !== layoutFingerprint()) return false;
+  let restored = 0, missing = 0;
+  for (const n of G.nodes) {
+    if (!n.visible) { n.x = n.y = 1e7; n.vx = n.vy = 0; continue; }   // parked, as always
+    const p = s.pos[n.id];
+    if (p && isFinite(p[0]) && Math.abs(p[0]) < 1e6 && Math.abs(p[1]) < 1e6) {
+      n.x = p[0]; n.y = p[1]; n.vx = n.vy = 0; restored++;
+    } else { n.x = n.y = 1e7; n.vx = n.vy = 0; missing++; }   // new since the save
+  }
+  if (restored + missing === 0 || restored / (restored + missing) < 0.85) return false;
+  // nodes added since the save: next to their visible neighbours (unpark-style)
+  for (const n of G.nodes) {
+    if (!n.visible || Math.abs(n.x) < 1e6) continue;
+    const nbs = (adj.get(n.id) || []).filter(m => m.visible && Math.abs(m.x) < 1e6);
+    if (nbs.length) {
+      let sx = 0, sy = 0;
+      for (const m of nbs) { sx += m.x; sy += m.y; }
+      n.x = sx / nbs.length + (Math.random() - 0.5) * 60;
+      n.y = sy / nbs.length + (Math.random() - 0.5) * 60;
+    } else {
+      const a = Math.random() * Math.PI * 2, r = Math.random() * 400;
+      n.x = Math.cos(a) * r; n.y = Math.sin(a) * r;
+    }
+    n.vx = n.vy = 0;
+  }
+  return true;
+}
+function saveLayout() {
+  if (!G || scopeValue !== 'all') return;
+  try {
+    const pos = {};
+    for (const n of G.nodes) {
+      if (n.visible && Math.abs(n.x) < 1e6) pos[n.id] = [Math.round(n.x * 10) / 10, Math.round(n.y * 10) / 10];
+    }
+    localStorage.setItem(LAYOUT_KEY, JSON.stringify({ fp: layoutFingerprint(), pos }));
+  } catch (e) { /* storage full or unavailable — non-fatal */ }
+}
+let warmStart = false;   // seedPositions() restored a settled layout — short warmup
+
 function seedPositions() {
+  // warm start: a settled layout for THIS graph is saved — restore it and let
+  // restart() run a short settle instead of the full organise
+  if (tryRestoreLayout()) { warmStart = true; return; }
   // park hidden nodes far away so they never take part in the layout
   for (const n of G.nodes) if (!n.visible) { n.x = 1e7; n.y = 1e7; n.vx = n.vy = 0; }
   if (scopeValue !== 'all') {
@@ -426,6 +481,20 @@ function seedPositions() {
     }
     n.vx = n.vy = 0;
   }
+  // thinkers: dedicated outer ring, evenly spaced (owner fix 2026-10-23).
+  // Thinkers are high-degree hubs (up to ~250 links each, up to 80px radius) —
+  // seeded with the concepts in the centre disk, 25 hubs physically cannot
+  // fit without overlapping and their ~3,000 springs fight the collision pass
+  // for the whole warmup, which is what the owner saw as overlapping nodes.
+  // On their own outer ring each hub settles fast and organises its own
+  // neighbourhood around itself.
+  const th = G.nodes.filter(n => n.visible && n.kind === 'thinker');
+  th.forEach((n, i) => {
+    const a = (i + 0.5) * 2 * Math.PI / Math.max(1, th.length);
+    const r = R * 1.45;
+    n.x = Math.cos(a) * r; n.y = Math.sin(a) * r;
+    n.vx = n.vy = 0;
+  });
 }
 
 function step() {
@@ -1185,8 +1254,15 @@ function fitView() {
 function restart(fit) {
   alpha = 1;
   // 1600 ticks ≈ the point where alpha decays below 0.008 — the same total
-  // settling the old endless loop reached, now bounded and then frozen
-  if (fit) { warmup(window.matchMedia && window.matchMedia('(max-width:920px)').matches ? 900 : 1600); fitAfterWarmup = true; }
+  // settling the old endless loop reached, now bounded and then frozen.
+  // Warm start (restored layout): the graph is already settled — a short
+  // settle re-runs the collision pass and fits; several-fold faster load.
+  if (fit) {
+    const mobile = window.matchMedia && window.matchMedia('(max-width:920px)').matches;
+    warmup(warmStart ? (mobile ? 240 : 420) : (mobile ? 900 : 1600));
+    warmStart = false;
+    fitAfterWarmup = true;
+  }
   dragged = null; panning = false;   // an in-progress drag cannot survive a re-layout
   liveMode = false; settleTicks = 0; // neither can live physics
   dragPhysics = false;
@@ -1569,6 +1645,7 @@ function frame() {
       freezeSim();
       declutter();   // separate overlapping nodes before the reveal + fit
       if (fitAfterWarmup) { fitAfterWarmup = false; fitView(); }
+      saveLayout();   // persist the settled layout — the next load warm-starts
       if (arrangingEl) arrangingEl.hidden = true;
       // if a node is still selected, its cleared room re-opens around the fresh layout
       if (selected && selected.visible) setSpread(selected);
