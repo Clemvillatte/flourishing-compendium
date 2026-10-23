@@ -37,7 +37,7 @@ The compendium's behavioural-science entries sit alongside this passage in the r
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the True Men's autumn-cold, spring-warm portrait the page reads beside Heraclitus.
 
 ## Sources
 

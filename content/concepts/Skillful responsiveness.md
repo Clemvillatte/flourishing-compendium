@@ -30,7 +30,7 @@ The stages matter, and the change is trained rather than gifted. As he puts it: 
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the picture of mastery this concept is: a reading of the situation so exact the response meets no resistance.
 
 ## Sources
 

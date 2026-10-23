@@ -29,7 +29,7 @@ The chapter's examples are the feather in a hat kept at a safe distance without 
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the basin-drumming story (ST031) the page lists for the body in grief.
 
 ## Sources
 

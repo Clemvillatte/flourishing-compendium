@@ -34,7 +34,7 @@ Two habits follow. First, notice when an action is being forced by external comm
 - [[D055]] — naturalness and nonaction in the SEP Laozi discussion
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the self-so naturalness the concept names: action arising from one's own condition, not command.
 
 ## Sources
 

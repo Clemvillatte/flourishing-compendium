@@ -39,7 +39,7 @@ These findings are correlations from questionnaires, mostly in Japan and Austral
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the both-sides-of-the-question teaching D080 offers as the psychological comparison.
 
 ## Sources
 

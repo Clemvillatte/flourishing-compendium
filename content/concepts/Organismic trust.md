@@ -28,7 +28,7 @@ The dual role matters for the trust the label names: the abstract reports more s
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the duck and crane, D107's warning against correcting natural differences as faults.
 
 ## Sources
 

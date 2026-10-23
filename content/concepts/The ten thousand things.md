@@ -33,7 +33,7 @@ The number is uncountable in practice, and the tradition's practical counsel fol
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the argument against ranking (D080) offered as the concept's comparison.
 
 ## Sources
 

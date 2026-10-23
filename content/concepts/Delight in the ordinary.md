@@ -38,7 +38,7 @@ D180 carries the concept directly, with Zhuangzi 18 and Daodejing 80 as its sour
 - [[Death reflection]] — the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the chapter 18 source D180 carries for delight in the ordinary.
 
 ## Sources
 

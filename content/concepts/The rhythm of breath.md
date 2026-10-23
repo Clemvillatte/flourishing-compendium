@@ -32,7 +32,7 @@ Giles, the translator, notes in the footnote to this passage that "uttermost dep
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the locus classicus of whole-body breathing the page draws on.
 
 ## Sources
 

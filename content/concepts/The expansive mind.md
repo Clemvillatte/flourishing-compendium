@@ -21,7 +21,7 @@ The CO013 principle takes the psychological reading: thought has a direction, an
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the expansive-mind passage of the Inner Chapters the concept is named from.
 
 ## Sources
 

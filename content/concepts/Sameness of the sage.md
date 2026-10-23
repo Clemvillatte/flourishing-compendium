@@ -29,7 +29,7 @@ A later chapter of the book, outside the Inner Chapters, carries the same samene
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the Inner Chapters sameness the concept is named from.
 
 ## Sources
 

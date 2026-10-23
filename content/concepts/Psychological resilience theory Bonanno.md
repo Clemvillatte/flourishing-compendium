@@ -48,7 +48,7 @@ Affect · Psychological science
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the basin-drumming story D089 lists beside resilience research.
 
 ## Sources
 

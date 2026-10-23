@@ -22,7 +22,7 @@ The quietness is twofold. The craftsman works without the noise of ambition, hav
 - [[D141]] — the cook's careful handling of difficulty and preservation of his blade
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the ideal running through the book: skilled, quiet work done for its own sake, away from display.
 
 ## Sources
 

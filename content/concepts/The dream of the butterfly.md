@@ -15,7 +15,7 @@ The ending explicitly distinguishes Zhou from the butterfly and calls the episod
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the episode the concept is: Zhou dreaming he is a butterfly, waking to question which is real.
 
 ## Sources
 

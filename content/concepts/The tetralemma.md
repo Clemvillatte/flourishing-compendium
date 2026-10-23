@@ -27,7 +27,7 @@ And the upshot of rejecting all four:
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the qiwu equalising D080 pairs with the tetralemma's dissolution of fixed positions.
 
 ## Sources
 

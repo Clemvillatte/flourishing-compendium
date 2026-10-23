@@ -53,7 +53,7 @@ Self · Psychological science
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the monkey-keeper parable D080 pairs with self-silencing: how the framing of a demand shapes reaction.
 
 ## Sources
 

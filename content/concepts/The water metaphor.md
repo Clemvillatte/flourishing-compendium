@@ -36,7 +36,7 @@ The metaphor returns in Daodejing 78, where Eno's translation reads: "Nothing in
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the Daoist side of the water metaphor, read with Daodejing 78.
 
 ## Sources
 

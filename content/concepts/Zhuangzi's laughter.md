@@ -19,7 +19,7 @@ The counting is the point: laughter is rare because life is short and mostly occ
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the laughing sage the concept is named from.
 
 ## Sources
 

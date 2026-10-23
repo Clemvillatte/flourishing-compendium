@@ -26,7 +26,7 @@ The Zhuangzi's second chapter contains the claim in this passage ([Zhuangzi 2, t
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the chapter 2 source of the concept: the ten thousand things as one.
 
 ## Sources
 

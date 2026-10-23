@@ -58,7 +58,7 @@ S001 sorts what is up to you from what is not, and A001 gives freedom a directio
 - [[Obedience research]] — experimental research on obedience to authority, listed for comparison
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the pheasant that refuses the cage even gilded, D085's parallel.
 
 ## Sources
 

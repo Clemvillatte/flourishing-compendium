@@ -29,7 +29,7 @@ Fazang (643-712), the third patriarch and the school's great systematizer, illus
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the oneness-of-things echo of one-is-all on the Zhuangzi side.
 
 ## Sources
 

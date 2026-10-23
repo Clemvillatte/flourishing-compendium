@@ -51,7 +51,7 @@ A calm guided introduction is [Zuowang Guided Meditation, by Giovanni Dienstmann
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the first description of the practice this kernel teaches: sloughing off the limbs, dismissing hearing and sight.
 
 ## Sources
 

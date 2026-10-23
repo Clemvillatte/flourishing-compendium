@@ -45,7 +45,7 @@ The reason he gives is about the natural order of change. Whether this counts as
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the drumming-on-the-tub story read as a lesson in grieving well, not feeling nothing.
 
 ## Sources
 

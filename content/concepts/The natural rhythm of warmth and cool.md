@@ -15,7 +15,7 @@ In the passage the image belongs to the portrait of the True Man, whose mind is 
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the chapter 6 True Men: coldness like autumn, warmth like spring, joy and anger assimilating.
 
 ## Sources
 

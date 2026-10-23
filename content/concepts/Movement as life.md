@@ -30,7 +30,7 @@ The principles put the cosmology into practice. M002 expects the cosmos itself t
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the Daoist reading of existence as process: world and self as transformations.
 
 ## Sources
 

@@ -17,7 +17,7 @@ Because the teaching has no words, it is available anywhere the natural order ca
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the Daoist centre of the concept: heaven and earth display their order without saying anything.
 
 ## Sources
 

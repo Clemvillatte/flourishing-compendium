@@ -32,7 +32,7 @@ The image returns in the Outer Chapter "The Way of Heaven." There the sage's sti
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the Inner Chapter 7 image the concept is: a mind that responds without pursuing or storing.
 
 ## Sources
 

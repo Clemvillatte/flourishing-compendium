@@ -15,7 +15,7 @@ A later section of the chapter returns to the image in the story of the hunchbac
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the sixth chapter's great Mass of nature as the body's support through the stages of life.
 
 ## Sources
 

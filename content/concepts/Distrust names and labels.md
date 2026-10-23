@@ -42,7 +42,7 @@ Both passages concern naming the Tao. The extension to the labels put on people,
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the critique of argumentative words that never reach their point, paired with D016.
 
 ## Sources
 

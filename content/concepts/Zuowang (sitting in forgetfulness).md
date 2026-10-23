@@ -30,7 +30,7 @@ The passage names what falls away, not a technique: the felt connexion to the bo
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the chapter 6 practice this page is named from.
 
 ## Sources
 

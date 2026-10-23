@@ -36,7 +36,7 @@ The page relies on one encyclopedia entry and one review, not on Bakhtin's own t
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the fish-debate parallel D082 lists for dialogism's meeting of views.
 
 ## Sources
 

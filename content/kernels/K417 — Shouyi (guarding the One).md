@@ -65,7 +65,7 @@ No guided recording from a Daoist lineage source was located for this practice; 
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the Daoist meditation root the page traces for guarding the One.
 
 ## Sources
 

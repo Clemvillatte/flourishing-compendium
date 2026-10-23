@@ -38,7 +38,7 @@ The idea has older company, which the page's source list records. William James'
 
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the process-self in older company, alongside James and Whitehead in the page's sources.
 
 ## Sources
 

@@ -37,7 +37,7 @@ The compendium wires the concept to its habit and flow principles. A108, "Practi
 - [[Growth through practice]] — the Buddhist version of the long-effort arc
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+- [[T009 — Zhuangzi]]: the wu wei paradox this concept resolves: effortless action built by long effort.
 
 ## Sources
 
