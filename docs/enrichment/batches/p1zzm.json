@@ -1,11 +1,13 @@
 {
  "batch": "p1zzm",
- "done": [],
+ "done": [
+  "B095"
+ ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": 0,
  "sources_checked": 0,
- "updated": "2026-10-23T10:39:56+00:00",
+ "updated": "2026-10-23T10:45:07+00:00",
  "band_done": false,
- "notes": "Minted by supervisor-pplx-1023a (2026-10-23, corrected after advisor QC): PRINCIPLES-FINAL band. These 12 pages are the entire principles gap to 100%. Ownership audit: none of the 12 IDs appear in any state file (done/flagged/holds) or manifest \u2014 never claimed, so no ownership conflicts. All 12 validate clean at HEAD. Worker mission per PROTOCOL-PRINCIPLES speed directive: per page \u2014 light check (READ the page: verbatim source quote present with locator? quotes are often INLINE, not blockquote lines \u2014 count quotation marks, not '>' lines; Plain words a genuine re-derivation? For example concrete?), check the page's git history and prior repair records first (e.g. P191 was plain-words-repaired by an earlier supervisor and carries inline verbatim Bergson quotes with its Anthologia carrier), repair what is missing, validate, record done, save. One session expected."
+ "notes": "Minted by supervisor-pplx-1023a (2026-10-23, corrected after advisor QC): PRINCIPLES-FINAL band. These 12 pages are the entire principles gap to 100%. Ownership audit: none of the 12 IDs appear in any state file (done/flagged/holds) or manifest — never claimed, so no ownership conflicts. All 12 validate clean at HEAD. Worker mission per PROTOCOL-PRINCIPLES speed directive: per page — light check (READ the page: verbatim source quote present with locator? quotes are often INLINE, not blockquote lines — count quotation marks, not '>' lines; Plain words a genuine re-derivation? For example concrete?), check the page's git history and prior repair records first (e.g. P191 was plain-words-repaired by an earlier supervisor and carries inline verbatim Bergson quotes with its Anthologia carrier), repair what is missing, validate, record done, save. One session expected."
 }
