@@ -25,6 +25,10 @@ Take a live anger and sort it into event and account. Write the event as a camer
 
 *For example:* Imagine the story "they deliberately ignored me" taken to examination and finding a person mid-crisis, phone dead, mother in hospital. The anger had cast the story; the examination recast it.
 
+## Related concepts
+
+- [[T013 — Seneca]]: On Anger, the dissection the page practises
+
 ## Sources
 
 - [Shantideva, Bodhicharyavatara, Wallace translation](https://thuvienhoasen.org/images/file/EUaZhZ1G0QgQANVp/shantideva-bodhicaryavatara-wallace.pdf) — chapter 6, verses 1, 3, 10
