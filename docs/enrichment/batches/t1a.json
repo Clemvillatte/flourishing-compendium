@@ -1,14 +1,15 @@
 {
  "batch": "t1a",
  "done": [
-  "Aristotle"
+  "Aristotle",
+  "William James"
  ],
- "in_progress": "William James",
+ "in_progress": null,
  "flagged": {
   "Aristotle": "Reopened for QC: advisor QC round-1: translator metadata, peripatetic/treatises claims, why-section sourcing, section word limits, humanizer tells"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:18:06+00:00",
+ "updated": "2026-10-23T05:22:01+00:00",
  "band_done": false
 }
