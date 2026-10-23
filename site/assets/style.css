@@ -107,7 +107,22 @@ a { color:var(--link-text); }
   padding:6px 16px; letter-spacing:.01em; transition:color .15s, background .15s;
 }
 .vtab:hover { color:var(--text); }
-.vtab.active { background:var(--gold); color:var(--accent-on-gold); box-shadow:var(--shadow); }
+.vtab.active {
+  /* Gilded selected state — layered brass gradient with a candlelit inner sheen,
+     a soft outer halo and a hairline bright rim. Discreet: same hue family as before. */
+  color:var(--accent-on-gold);
+  background:
+    radial-gradient(130% 170% at 50% -25%, color-mix(in oklab, var(--gold-bright) 50%, transparent), transparent 62%),
+    linear-gradient(180deg, var(--gold-bright), var(--gold) 55%, color-mix(in oklab, var(--gold) 72%, #3a2c0c));
+  border:1px solid color-mix(in oklab, var(--gold-bright) 65%, transparent);
+  box-shadow:
+    inset 0 1px 0 color-mix(in oklab, #fff 20%, transparent),
+    inset 0 -1px 0 color-mix(in oklab, #000 16%, transparent),
+    0 1px 6px color-mix(in oklab, var(--gold) 26%, transparent),
+    0 0 12px color-mix(in oklab, var(--gold-bright) 18%, transparent);
+  text-shadow:0 1px 0 color-mix(in oklab, #fff 12%, transparent);
+}
+.vtab.active:hover { filter:brightness(1.03); }
 
 /* hints */
 #hints { font-size:11.5px; color:var(--muted); display:flex; gap:14px; align-items:center; white-space:nowrap; }
@@ -434,7 +449,11 @@ body.rand-mode #treeToggle, body.rand-mode #listToggle { display:none; }
 .trow .caret { padding-top:3px; }
 .trow .dot { margin-top:5px; }
 .trow:hover { background:var(--rowhover); }
-.trow.active { background:var(--sel); box-shadow:inset 3px 0 0 var(--gold); }
+.trow.active {
+  /* Illuminated selected row — warm wash fading from the gilded left edge. */
+  background:linear-gradient(90deg, color-mix(in oklab, var(--gold) 22%, var(--sel)), var(--sel) 72%);
+  box-shadow:inset 3px 0 0 var(--gold-bright), inset 0 0 0 1px color-mix(in oklab, var(--gold) 30%, transparent), 0 0 10px color-mix(in oklab, var(--gold) 14%, transparent);
+}
 .trow .caret { width:14px; flex:none; color:var(--faint); font-size:9px; text-align:center; transition:transform .12s; }
 .trow .caret.on { transform:rotate(90deg); }
 .trow .tlabel { font-size:12.5px; min-width:0; }
@@ -472,7 +491,12 @@ body.rand-mode #treeToggle, body.rand-mode #listToggle { display:none; }
   border:1px solid transparent;
 }
 .lrow:hover { background:var(--rowhover); }
-.lrow.active { background:var(--sel); border-color:var(--gold); }
+.lrow.active {
+  /* Matching gilded selection for library rows. */
+  background:linear-gradient(90deg, color-mix(in oklab, var(--gold) 18%, var(--sel)), var(--sel) 80%);
+  border-color:color-mix(in oklab, var(--gold-bright) 70%, transparent);
+  box-shadow:0 0 10px color-mix(in oklab, var(--gold) 16%, transparent);
+}
 .lrow .ltop { display:flex; align-items:baseline; gap:8px; }
 .lrow .lid { flex:none; font-size:9.5px; font-weight:700; letter-spacing:.04em; color:var(--gold);
   background:var(--chipbg); border:1px solid var(--line); border-radius:4px; padding:0 5px; }

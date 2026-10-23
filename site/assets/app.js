@@ -3279,6 +3279,15 @@ function renderPracticeGallery(deg){
       }
       return true;
     });
+    // Owner directive 2026-10-23: practice galleries sort by duration (ascending);
+    // sessions with no verified duration keep their shelf order after the timed ones.
+    visible.sort(function(a, b){
+      const ma = practiceDurationMinutes(a), mb = practiceDurationMinutes(b);
+      if(ma === null && mb === null) return 0;
+      if(ma === null) return 1;
+      if(mb === null) return -1;
+      return ma - mb;
+    });
     count.textContent = visible.length + (visible.length === 1 ? ' session' : ' sessions');
     if(!visible.length){
       list.appendChild(el('div','acad-empty','No sessions at this length yet. The shelf tables state honestly where coverage thins out; try Any length.'));
