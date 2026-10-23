@@ -207,3 +207,14 @@ Independent advisor freshly opened Legge, Roth and Horan and returned scoped PAS
 - Mechanically compared all 20 main quotations to the actually opened primary text carriers, plus D187's Horan saying. All pass. Roth's printed verse line numbers were treated as editorial metadata, not as words of the quotation; this resolved the initial contiguous-match flag on D145 without changing its already correct quote.
 - Custom prose check found 124–180 words per revised body, excluding blockquotes/headings; repository validation independently reported 20 checked, 0 failed. Missing/sparse Related concepts sections produce non-blocking warnings; no decorative links were invented to silence them.
 - scripts/build.py completed successfully: 5856 entries. Generated output did not modify tracked source files. This is a build result, not a claim that all inherited global links or unrelated concurrent changes are certified.
+
+## Additional read-only source audits
+
+- D190 was already substantively repaired before this pass and was left unchanged. Opened Zhuangzi XIII in Legge and checked paragraph 10's wheelwright story and exact knack quotation: https://www.sacred-texts.com/book/the-texts-of-taoism-part-i-of-ii/book-xiii-thien-tao-or-the-way-of-heaven/. Also checked its inline DDJ 1 quotation against the opened Gutenberg source. Its distinction between skill practice and description is source-bounded; no rewrite was warranted.
+- P009 was also already substantively repaired and was left unchanged. Opened Bergin/Fisch's New Science and checked paragraph 331, including its nature/civil-world contrast and exact quoted clause: https://archive.org/stream/newscienceofgiam030174mbp/newscienceofgiam030174mbp_djvu.txt. Opened SEP's Vico entry for the earlier verum-factum context: https://plato.stanford.edu/entries/vico/. The page's bounded claim about understanding the made civil world does not purport to prove any maker's beliefs true.
+- Both unchanged pages pass the repository validator. These are source audits, not two additional rewritten items, and their inherited research parallels/reflections remain outside the audit.
+- Checked p1t reciprocal proposal fields against the documented apply schema without running enrich_apply.py. The single Simplicity as practice target exists; no D164 backlink is yet present there. Supervisor integration remains pending.
+
+## Flag refresh
+
+On rechecking the current concept files after concurrent updates, Courage and The doctrine of the mean now have public-facing D172 rationales; the procedural-text issue there is resolved by other work. Ziran (naturalness) still has the missing-edge workflow rationale for D151 and remains a supervisor flag. Measure in all things is still missing. No concept file was edited by this worker.
