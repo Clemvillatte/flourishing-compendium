@@ -23,7 +23,7 @@ Cajal described gaps between cells across which communication took place, summed
 
 ### Limits
 
-The Psychology Today piece says electron microscopy left no doubt about "the vast majority of neurons", so the doctrine has recognised exceptions; a source listing them is cited at second hand. Cajal's own late summary named six principles, calling each neuron an anatomical, genetic, functional, trophic, nosological and electrophysiological unit, per a [Waldeyer biography in PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8591077/).
+The Psychology Today piece says electron microscopy left no doubt about "the vast majority of neurons", so the doctrine has recognised exceptions, though no dedicated source on the exceptions was opened here. Cajal's own late summary named six principles, calling each neuron an anatomical, genetic, functional, trophic, nosological and electrophysiological unit, per a [Waldeyer biography in PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8591077/).
 ## Sources
 
 - [Neuron doctrine (Wikipedia)](https://en.wikipedia.org/wiki/Neuron_doctrine)

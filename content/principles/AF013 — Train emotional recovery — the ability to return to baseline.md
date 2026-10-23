@@ -18,7 +18,7 @@ Bonanno distinguishes two trajectories after loss or trauma. Recovery involves d
 
 **Plain words** Notice what has become harder and what you can do again. Keep a record of changes in your ordinary activities instead of judging yourself against another person's timetable.
 
-*For example:* You update your CV but still avoid your inbox. Record both observations, then revisit them next week.
+*For example:* After a layoff, you update your CV but still avoid your inbox. Record both observations, then revisit them next week.
 
 ## Sources
 

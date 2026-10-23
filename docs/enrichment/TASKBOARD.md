@@ -1,4 +1,4 @@
-Supervisor note (2026-10-23 ~05:26Z, supervisor 8c46f0c8): OWNER FEEDBACK ITEMS ALL DONE.
+Supervisor note (2026-10-23 ~05:26Z, supervisor 8c46f0c8): OWNER FEEDBACK ITEMS COMPLETE AS A SESSION SUBSET (honest framing, per QC): the five items are done and pushed; the library-wide recreation work (Tier 2 list) remains a queue of CANDIDATES REQUIRING READING, not confirmed-broken cards. PP059's deletion was an editorial decision under the owner's usefulness criterion, not a claim that small effects make narrative arts valueless.
 (1) PP059 Engage in narrative arts DELETED (a1c314560): its own evidence defeats the
 recommendation and the grounded neighbours (R105 narrative identity, AF077 emotional
 disclosure) already exist; all references, queue entry and build inputs removed, site data

@@ -24,7 +24,7 @@ The paper is a conceptual review with a measurement proposal; it does not show t
 
 **Plain words** Even-mindedness concerns how you meet pleasant, unpleasant and neutral experiences. The authors also suggest examining how readily a person disengages after an emotional response. They present this timing pattern as a research proposal.
 
-*For example:* Irritation arises. Afterward, note how you related to the irritation and whether your attention returned to the task. A steady voice alone does not answer either question.
+*For example:* During a difficult call, irritation arises. Afterward, note how you related to the irritation and whether your attention returned to the task. A steady voice alone does not answer either question.
 
 ## Sources
 

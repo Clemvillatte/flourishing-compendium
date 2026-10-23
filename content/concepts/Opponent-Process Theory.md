@@ -23,7 +23,7 @@ A PMC review on addiction applies the account to drugs: the a-process is a posit
 
 ### Tests in humans
 
-A Motivation and Emotion study tested three hypotheses in humans: an opposite emotional response after removal of charged stimuli, that this response reacts to the initial affect, and that co-occurring opponent processes cancel. It reports that when they cooccur "they appear to interact and cancel" ([Opponent processes in human emotions?, Motivation and Emotion](http://link.springer.com/10.1007/BF00992358)). the full results for the first two hypotheses is cited at second hand.
+A Motivation and Emotion study tested three hypotheses in humans: an opposite emotional response after removal of charged stimuli, that this response reacts to the initial affect, and that co-occurring opponent processes cancel. It reports that when they cooccur "they appear to interact and cancel" ([Opponent processes in human emotions?, Motivation and Emotion](http://link.springer.com/10.1007/BF00992358)). The full results for the first two hypotheses are cited at second hand.
 ## Sources
 
 - [Solomon and Corbit 1974, abstract (SciSpace)](https://scispace.com/papers/an-opponent-process-theory-of-motivation-i-temporal-dynamics-516bk2bcfj)

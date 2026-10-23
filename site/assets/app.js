@@ -3279,10 +3279,14 @@ function renderPracticeGallery(deg){
       }
       return true;
     });
-    // Owner directive 2026-10-23: practice galleries sort by duration (ascending);
+    // Owner directive 2026-10-23: practice galleries sort by duration (ascending).
+    // Sort on the RAW duration_minutes value (bucketing elsewhere rounds up for display);
     // sessions with no verified duration keep their shelf order after the timed ones.
+    const rawMinutes = function(s){
+      return (typeof s.duration_minutes === 'number' && isFinite(s.duration_minutes) && s.duration_minutes > 0) ? s.duration_minutes : null;
+    };
     visible.sort(function(a, b){
-      const ma = practiceDurationMinutes(a), mb = practiceDurationMinutes(b);
+      const ma = rawMinutes(a), mb = rawMinutes(b);
       if(ma === null && mb === null) return 0;
       if(ma === null) return 1;
       if(mb === null) return -1;

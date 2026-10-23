@@ -24,7 +24,7 @@ Someone says family matters most, yet every calendar slot goes to work. Their wo
 
 ## Sources
 
-- [James Maffie, "Aztec Philosophy," Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/): opened; sections 3b and 4b. Leon-Portilla (1963) and Gingerich (1987) are cited there; them is cited at second hand. The root-meaning of neltiliztli as given here is Maffie's, not independently checked.
+- [James Maffie, "Aztec Philosophy," Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/): opened; sections 3b and 4b. Leon-Portilla (1963) and Gingerich (1987) are cited there and are cited at second hand. The root-meaning of neltiliztli as given here is Maffie's, not independently checked.
 
 ## Psychology parallels
 

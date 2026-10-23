@@ -20,7 +20,7 @@ This does not show that momentary happiness always tracks expectations; the rela
 
 **Plain words** The claim concerns how a feeling at that moment is predicted: recent rewards, expectations about them, and the gap between the expectation and the outcome. If a pleasant surprise feels stronger than a fully planned one, this model is one place to look; the surprise does not have to be engineered.
 
-*For example:* Write what you expected before an outcome, the outcome, and the feeling afterward. Read them next to each other.
+*For example:* In a daily record, write what you expected before an outcome, the outcome, and the feeling afterward. Read them next to each other.
 
 ## Sources
 
