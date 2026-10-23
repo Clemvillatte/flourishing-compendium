@@ -24,7 +24,7 @@ The compendium's practice takes the robust part: when stuck, set the problem asi
 When a problem stops yielding, continuing to hammer it has a poor record. The meta-analytic result is plain: set it aside, keep busy with something easy rather than something hard, and a longer initial effort before the break helped too. What the break does inside the head is not settled; the eureka-in-the-shower story is anecdote, and the one laboratory demonstration of the mind-wandering mechanism did not replicate.
 
 **For example**
-As an imagined illustration: stuck on a paragraph, you weed the garden for twenty minutes and come back to the page.
+As stuck on a paragraph, you weed the garden for twenty minutes and come back to the page.
 ## Sources
 
 - [Sio & Ormerod 2009, Does incubation enhance problem solving? A meta-analytic review, Psychological Bulletin 135(1):94-120, abstract](https://eric.ed.gov/?id=EJ827110) — the 117-study meta-analysis: positive incubation effect, divergent-thinking tasks benefit most, low-demand fillers beat demanding ones.

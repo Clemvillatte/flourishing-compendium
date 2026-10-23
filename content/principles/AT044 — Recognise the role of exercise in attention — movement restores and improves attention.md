@@ -22,7 +22,7 @@ The compendium's reading is practical rather than heroic: if thinking is stuck, 
 Exercise is not a caffeine substitute with a kick: the pooled effect is small, and it depends on how long, how hard, and what you measure. It is cheap, low-risk and always available. When attention sags, a 20-minute moderate walk is a reasonable first move, and if it helps you, you have learned something about your own response rather than proven a law.
 
 **For example**
-As an imagined illustration: the walking meeting, a hard problem taken around the block instead of back into the conference room.
+As the walking meeting, a hard problem taken around the block instead of back into the conference room.
 ## Sources
 
 - [Chang, Labban, Gapin & Etnier 2012, The effects of acute exercise on cognitive performance: a meta-analysis, Brain Research 1453:87-101, PubMed record](https://pubmed.ncbi.nlm.nih.gov/22480735/) — 79 studies, small pooled positive effect (g = 0.097), significant moderators.
