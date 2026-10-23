@@ -29,9 +29,10 @@
   "D175",
   "D176",
   "D179",
-  "D186"
+  "D186",
+  "D187"
  ],
- "in_progress": "D187",
+ "in_progress": null,
  "flagged": {
   "D164": "Reopened for QC: Owner priority: replace mechanical Plain words and overlong summary with primary-source-bounded explanation and workable application",
   "D172": "Reopened for QC: QC repair: preserve chapter 73 wrongdoing context; replace repeated Plain words with clear practical application",
@@ -56,6 +57,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-23T07:10:12+00:00",
+ "updated": "2026-10-23T07:11:32+00:00",
  "band_done": false
 }

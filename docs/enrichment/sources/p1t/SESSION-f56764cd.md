@@ -186,3 +186,12 @@ Independent advisor freshly opened Huainanzi, Legge and Roth and returned scoped
 - Essay example compares sending and another revision, selects on actual requirements/errors, and retains the readiness check; overt behaviour named. It does not infer a comedy technique from peak-end laboratory research.
 - Read Goal disengagement and Peak-end rule in full; both already backlink D186. Ran work-is-done mention search. No new reciprocal needed.
 - Original empirical/philosophical parallels and reflections preserved, not independently certified.
+
+## D187
+
+- Reopened with enrich_state.py. Checked complete DDJ 64, including care at the end, in Legge: https://www.gutenberg.org/files/216/216-h/216-h.htm. Checked Neiye XXII's inward tranquility/outward reverence passage in the already opened Roth text.
+- Existing exact DDJ 64 quotation retained. Removed long source recital and explicitly distinguished Neiye's vitality subject from modern project preparation.
+- Example varies drafting an opening and checking a central source, selects the dependency that resolves the important uncertainty, and retains the dependency check; overt behaviour named.
+- Independently searched and opened Plato's full Laws in David Horan's translation: https://www.platonicfoundation.org/translation/laws/. Located 753e–754a, including the actual saying and the Athenian's stronger judgement. Replaced the inherited unsourced-in-this-pass quotation with exact wording from this opened edition and cited it directly; identified it as a saying cited by the Athenian.
+- Read Fresh start effect (Dai et al.) and Implementation intentions in full; both already backlink D187. Ran beginning-well mention search. No new reciprocal needed.
+- All original wiki links and reflections preserved. Psychology parallels otherwise unchanged and not independently certified. Milestone-twenty advisor QC requested on D175, D176, D179, D186 and D187.

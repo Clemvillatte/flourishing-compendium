@@ -12,23 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 187** — Master the art of beginning well
 
-Chapter 64 of the Daodejing gives the beginning's smallness: that which is brittle is easily broken, that which is very small is easily dispersed, action should be taken before a thing has made its appearance, and order secured before disorder has begun. The chapter's images: the tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a small heap of earth; a thousand-li journey commenced with a single step. The Neiye's verse XXII is a passage on vitality: as for the vitality of all human beings, it inevitably occurs because of balanced and aligned breathing, and the reason for its loss is inevitably pleasure and anger, worry and anxiety; its counsel is tranquility — inwardly tranquil and outwardly reverent, one returns to one's innate nature.
+Daodejing 64 asks for action before disorder begins and pictures large things arising from small starts. Neiye XXII supplies a different image: inward tranquility and outward reverence. Applying the two to a small, deliberate project beginning is a personal reading; the Neiye verse itself concerns vitality.
 
 (DDJ 64; Neiye.)
 
 > "Action should be taken before a thing has made its appearance; order should be secured before disorder has begun." (DDJ 64, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium's extension: it applies the verse's alignment to the beginning of projects, taking the principle's stillness from the Neiye's tranquility, the alignment from its balanced breathing, and the smallness from DDJ 64's sprout, heap and single step. The verse itself concerns vitality, not projects.
+The same Daodejing chapter asks for care at the end as at the beginning. A good first step still needs follow-through.
 
-**Plain words**
-The compendium's exercise: before starting your next project, name one small first action and take a moment to settle yourself. Then identify what comes next; beginning carefully does not replace care later.
+### Plain words
 
-*For example:* The compendium's hypothetical: the renovation that checks the pipes first — ask what the pipes are in your next beginning.
+Name one small action you can complete and what it depends on. Check that dependency before committing to a larger step. Take a brief pause if it helps you choose deliberately, then identify what comes next.
+
+### For example
+
+For a new essay, compare beginning with a polished opening paragraph and beginning with checking the central source. Select the step that resolves the more important uncertainty, do it, and keep the dependency check for your next project. The overt-behaviour practice starts with what the work requires.
 
 ## Sources
 
 - [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 64
 - [Inward Training (Neiye), trans. Harold D. Roth (archive.org full text)](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt) — verse XXII
+- [Plato, Laws, translated by David Horan](https://www.platonicfoundation.org/translation/laws/) — 753e–754a.
 
 ## Psychology parallels
 
@@ -37,7 +41,7 @@ The compendium's exercise: before starting your next project, name one small fir
 
 ## Philosophy parallels
 
-- **"the beginning is half of the whole"** (Plato, Laws 753e)
+- **A good beginning**: Plato's Athenian cites the saying "the beginning is half of any task" and goes on to call it more than half ([Laws 753e–754a, Horan](https://www.platonicfoundation.org/translation/laws/)).
 
 <!-- fc: reflections
 What in your current life began badly and is still paying for it? What would beginning well actually require?
