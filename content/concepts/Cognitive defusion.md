@@ -68,6 +68,11 @@ The cross-tradition cognates are exact: [[Anatta]] and [[Self-as-context]] are t
 - [Bernstein, A., Hadash, Y., Lichtash, Y., Tanay, G., Shepherd, K., & Fresco, D. M. (2015). Decentering and Related Constructs: A Critical Review and Metacognitive Processes Model. Perspectives on Psychological Science, 10(5), 599–617](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/) — the two definitional statements quoted above, quoting Hayes, Strosahl & Wilson 1999 and Forman et al. 2012
 - Hayes et al., 2011 — the ACT phrasings listed in Other formulations, carried over
 - Hayes, A Liberated Mind — carried over
+- Hayes et al., 2006 — carried over
+- Levin et al., 2012 — carried over
+- Zettle et al., 2011 — carried over
+- Gillanders et al., 2014 — carried over
+- Zettle's comparative studies, as framework — carried over
 
 ## Cited in parallels
 
