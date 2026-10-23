@@ -1,0 +1,256 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A060 \u2014 Forgive but do not excuse.md",
+      "id": "A060",
+      "title": "Forgive but do not excuse",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A066 \u2014 Be a friend to yourself first.md",
+      "id": "A066",
+      "title": "Be a friend to yourself first",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A071 \u2014 Recognise that self-love is the foundation.md",
+      "id": "A071",
+      "title": "Recognise that self-love is the foundation",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF065 \u2014 Cultivate compassion \u2014 it is sustainable empathy plus concern.md",
+      "id": "AF065",
+      "title": "Cultivate compassion: it is sustainable empathy plus concern",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF066 \u2014 Cultivate self-compassion \u2014 treat yourself as you would a good friend.md",
+      "id": "AF066",
+      "title": "Cultivate self-compassion: treat yourself as you would a good friend",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B097 \u2014 Wish well, starting with yourself.md",
+      "id": "B097",
+      "title": "Wish well, starting with yourself",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B158 \u2014 Everyone wants to be happy.md",
+      "id": "B158",
+      "title": "Everyone wants to be happy",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI051 \u2014 Learn to use touch \u2014 self-soothing through contact.md",
+      "id": "BI051",
+      "title": "Learn to use touch: self-soothing through contact",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D031 \u2014 Treasure 1 \u2014 compassion (ci).md",
+      "id": "D031",
+      "title": "Treasure 1: compassion (ci)",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D108 \u2014 Accept imperfection.md",
+      "id": "D108",
+      "title": "Accept imperfection",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/MO050 \u2014 Learn to practise self-compassion when procrastinating \u2014 guilt backfires.md",
+      "id": "MO050",
+      "title": "Learn to practise self-compassion when procrastinating: guilt backfires",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P150 \u2014 Accept incompleteness as constitutive.md",
+      "id": "P150",
+      "title": "Accept incompleteness as constitutive",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P178 \u2014 Treat yourself as a process \u2014 self-compassion as process acceptance.md",
+      "id": "P178",
+      "title": "Treat yourself as a process: self-compassion as process acceptance",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP046 \u2014 Cultivate self-compassion.md",
+      "id": "PP046",
+      "title": "Cultivate self-compassion",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R076 \u2014 Practise care for the self.md",
+      "id": "R076",
+      "title": "Practise care for the self",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S010 \u2014 Practise oikeiosis \u2014 appropriate self-love.md",
+      "id": "S010",
+      "title": "Practise oikeiosis: appropriate self-love",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S066 \u2014 Be gentle with yourself in the review.md",
+      "id": "S066",
+      "title": "Be gentle with yourself in the review",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S133 \u2014 Accept that you will fail and return.md",
+      "id": "S133",
+      "title": "Accept that you will fail and return",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE012 \u2014 Understand that the self is not the enemy \u2014 self-relation is a skill.md",
+      "id": "SE012",
+      "title": "Understand that the self is not the enemy: self-relation is a skill",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE017 \u2014 Recognise and manage the inner critic \u2014 harsh self-talk is not motivation.md",
+      "id": "SE017",
+      "title": "Recognise and manage the inner critic: harsh self-talk is not motivation",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE022 \u2014 Cultivate self-acceptance \u2014 accept who you are without resigning to it.md",
+      "id": "SE022",
+      "title": "Cultivate self-acceptance: accept who you are without resigning to it",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE023 \u2014 Learn to distinguish self-worth from performance.md",
+      "id": "SE023",
+      "title": "Learn to distinguish self-worth from performance",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE025 \u2014 Cultivate self-compassion \u2014 treat yourself as you would a good friend.md",
+      "id": "SE025",
+      "title": "Cultivate self-compassion: treat yourself as you would a good friend",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE026 \u2014 Recognise common humanity \u2014 your suffering is not unique or isolating.md",
+      "id": "SE026",
+      "title": "Recognise common humanity: your suffering is not unique or isolating",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE027 \u2014 Practise self-kindness over self-judgment \u2014 kindness is more motivating than cruelty.md",
+      "id": "SE027",
+      "title": "Practise self-kindness over self-judgment: kindness is more motivating than cruelty",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE028 \u2014 Learn mindful self-awareness \u2014 hold your experience without over-identifying.md",
+      "id": "SE028",
+      "title": "Learn mindful self-awareness: hold your experience without over-identifying",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE030 \u2014 Recognise and work with shame \u2014 shame is about the self, not the act.md",
+      "id": "SE030",
+      "title": "Recognise and work with shame: shame is about the self, not the act",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE034 \u2014 Recognise that self-relationship is the foundation of all relationships.md",
+      "id": "SE034",
+      "title": "Recognise that self-relationship is the foundation of all relationships",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE082 \u2014 The seal of attained liberty is to no longer be ashamed of oneself.md",
+      "id": "SE082",
+      "title": "The seal of attained liberty is to no longer be ashamed of oneself",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SP035 \u2014 Do not build on humility.md",
+      "id": "SP035",
+      "title": "Do not build on humility",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y034 \u2014 Counter negative states with their opposites.md",
+      "id": "Y034",
+      "title": "Counter negative states with their opposites",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Amor sui (right self-love).md",
+      "id": "Amor sui (right self-love)",
+      "title": "Amor sui (right self-love)",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Mindful self-compassion programme.md",
+      "id": "Mindful self-compassion programme",
+      "title": "Mindful self-compassion programme",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Mindfulness.md",
+      "id": "Mindfulness",
+      "title": "Mindfulness",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Self-compassion.md",
+      "id": "Self-compassion",
+      "title": "Self-compassion",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K162 \u2014 Self-compassion practice.md",
+      "id": "K162",
+      "title": "Self-compassion practice",
+      "thinker": "T028",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
