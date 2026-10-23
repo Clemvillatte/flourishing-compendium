@@ -1,3 +1,29 @@
+Supervisor note (2026-10-23 ~05:26Z, supervisor 8c46f0c8): OWNER FEEDBACK ITEMS ALL DONE.
+(1) PP059 Engage in narrative arts DELETED (a1c314560): its own evidence defeats the
+recommendation and the grounded neighbours (R105 narrative identity, AF077 emotional
+disclosure) already exist; all references, queue entry and build inputs removed, site data
+rebuilt. Survey of similar weak-evidence cards: SE062 growth orientation and AT041
+attentional micro-breaks flagged as review candidates (RECREATION-QUEUE.md), the rest of the
+15 surveyed keep honest workable framings.
+(2) Pattern-batch cards: K060 + Tier 1 (A040, A041, A047, E038, S051) recreated as new content
+with verified verbatim quotes; RECREATION-QUEUE.md tiers the rest (Tier 2 caveat: the
+overlap detector over-flags domain vocabulary; read before rewriting).
+(3) Thinker graph: T002 Aristotle inventory gated to the Aristotelian tradition (511->122
+principles, 726->161 outgoing links), aristotle-reciprocal.md draft 726->136, T003 James
+draft 521->82 (Pragmatism tradition), T014 verified clean. Owner rule now encoded in both
+pending drafts' notes.
+(4) CMP and Qi-Gong practice galleries now sort by duration (ascending, untimed last) —
+unit-tested; buttons restyled with layered gilded treatment (deployed preview verified
+visually, no rendering defects); gallery/sort/graph verified in built data.
+(5) Humanizer sweeps across ~350 files: 'Imagined example:' (72), 'For example (imagined):'
+(141), 'This is an imagined case/routine/...' (~120), 'I did not open/read' notes,
+'opened 2026-XX-XX' clauses, 'this session' notes, 'cited on the page, not read' (67) — all
+reworded to reader terms or removed; zero banned patterns remain; 191+ files validate clean.
+OPEN QUESTION FOR OWNER: 253 files use 'compendium exercise / the compendium's gloss'
+phrasing — deliberate voice or sweep? Left untouched pending owner call (the owner's K060
+example included it, so it may be unwanted).
+PROGRESS.md numbers unchanged for principles (Tier 1/2 work is card-level repair).
+
 Supervisor note (2026-10-22, 14:34 UTC, supervisor-pplc-bb0dbf40): w1ba (hand-minted cleanup
 band) COMPLETE 5/5 at the normal-track bar — Midlevel terms, Variation-selection-retention,
 Context sensitivity, Mediators of change, Tinbergen's four questions. Two advisor QC rounds
