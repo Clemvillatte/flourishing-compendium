@@ -3,8 +3,8 @@ schema: 0
 id: "Cognitive reappraisal"
 type: "concept"
 title: "Cognitive reappraisal"
-tags: ["psych/cognition", "theory"]
 file: "Cognitive reappraisal"
+tags: ["psych/cognition", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
