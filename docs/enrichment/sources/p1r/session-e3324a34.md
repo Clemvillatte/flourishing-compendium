@@ -31,3 +31,9 @@ Retained the substantive body and quotations. Replaced the procedural Plain word
 Opened [Dewey, Democracy and Education](https://www.gutenberg.org/cache/epub/852/pg852.txt) and [James, Talks to Teachers](https://www.gutenberg.org/files/16287/16287-h/16287-h.htm) with fetch, full text. Read Dewey chapter 10, §1 around “Deliberation will be perfunctory…” and his explicit interest/discipline connection. Read James chapter X, native/acquired interest, railway timetable illustration and the two existing quoted teacher instructions. All retained quotations match after line-wrap normalization.
 
 Repair: replace a procedural question with a shelf/measurements analogy that explains how a subject gains significance through an existing purpose. The football example now compares learning and transfer with datasets rather than betting odds. It is a proposed exercise, not a claimed efficacy finding.
+
+## P071: plasticity without unlimited rebuilding
+
+Opened [Human Nature and Conduct, part II, §2](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-2) and [§3](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-3) with fetch. Read both whole sections. Both retained block quotations match the text, allowing typographic apostrophe normalization in the new §3 sentence.
+
+Repair: specify that the opening discussion of highly flexible impulses concerns the young; retain Dewey's account of adult possibilities and the inertia of custom without promising universal rebuilding. Replace “what feels like your nature is mostly your habits” and “what was built can be rebuilt” with a concrete fear/habits/surroundings explanation. The maths illustration tests current support rather than guessing which teacher or classroom caused a person's history. No neuroplasticity efficacy claim added; inherited Draganski parallel remains unchanged.

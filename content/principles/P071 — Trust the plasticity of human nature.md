@@ -12,19 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 71** — Trust the plasticity of human nature
 
-Dewey's claim runs against both the fixed-nature and blank-slate extremes. Impulse is raw material, not destiny: "Any impulse may become organized into almost any disposition according to the way it interacts with surroundings" (Human Nature and Conduct, Part II, sec. 2, [text](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-2)). What holds behavior in place is custom, an artifact: "Native human nature supplies the raw materials, but custom furnishes the machinery and the designs" (Part II, sec. 3, [text](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-3)). His contrast inverts the folk version: "it is precisely custom which has greatest inertia, which is least susceptible of alteration; while instincts are most readily modifiable through use, most subject to educative direction" (Part II, sec. 3, [text](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-3)).
+Dewey argues that an impulse can take different forms through its interaction with surroundings. Discussing the young, he uses fear as an example: it may become cowardice, caution, reverence or scepticism. ([Human Nature and Conduct, part II, §2](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-2)) He also warns reformers that established habits resist change. His argument concerns possibilities for education and social reorganisation, with custom itself a major obstacle. ([Part II, §3](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-3))
+
+> "Native human nature supplies the raw materials, but custom furnishes the machinery and the designs." ([Human Nature and Conduct, part II, §3](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-3))
 
 > "The moral problem in child and adult alike as regards impulse and instinct is to utilize them for formation of new habits, or what is the same thing, the modification of an old habit so that it may be adequately serviceable under novel conditions." (Dewey, Human Nature and Conduct, Part II, sec. 2, [text](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-2))
 
-Dewey is arguing about moral theory, against doctrines that treat human nature as a fixed input to be gratified or suppressed. The compendium's exercise is a proposed application: when a trait is declared unchangeable, locate the conditions that organize it and ask what would have to change for the same impulse to be drafted into a different channel.
+Dewey calls impulse a possibility of reorganising habits, not an assurance of doing so. ([Part II, §2, closing paragraphs](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-2))
 
 ### Plain words
 
-You arrive with raw material, not a finished house. Impulses can be organized into almost any disposition, depending on the surroundings they meet. What feels like your nature is mostly your habits, and habits were built. What was built can be rebuilt, and the rebuilding runs through the surroundings.
+For an everyday illustration, think about fear of making a mistake. It could leave someone hiding a problem, or lead them to check their work carefully and ask for help. Calling both responses “fear” does not explain why one takes hold. Dewey invites attention to the habits and surroundings that give an impulse its use. That leaves room for inquiry where “that's just my nature” closes it.
 
 ### For example
 
-Take the belief "I'm just not a math person." The exercise is to read that as a report about the channel the impulses were organized into, not about the raw material: name the surrounding that organized it, a classroom, a teacher, a comparison, and name one new surrounding that would organize the same impulses differently, a course, a tutor, a project that needs the math. The exercise treats the trait as organized, not fixed, and promises no easy opening of the new channel.
+Suppose you say “I'm not a math person.” Try one familiar kind of problem alone and another comparable problem with a tutor who asks you to explain each step. Compare what you can do and where you get stuck. Keep any support that helps you work on a specific difficulty. This compendium exercise investigates present conditions; it does not establish what caused your history with maths or guarantee a change.
 
 ## Psychology parallels
 
