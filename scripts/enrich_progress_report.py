@@ -217,12 +217,17 @@ def main():
         if not isinstance(d, list) or not d:
             continue
         band_hit = False
+        is_kernel_band = '/batches/k' in bp.replace(os.sep, '/')
         for it in d:
             s2 = it if isinstance(it, str) else ''
             m = re.search(r'K\d+', s2)
             if m and m.group(0) in kpage_ids:
+                # K-ID entries are unambiguous (only kernel pages have these IDs
+                # in kpage_ids): count from any band (cmp records K413-style strings).
                 kdone_ids.append(m.group(0)); band_hit = True
-            elif not m and s2 in kpage_titles:
+            elif not m and is_kernel_band and s2 in kpage_titles:
+                # bare-title entries are ambiguous (concept pages share titles with
+                # kernel pages): count only from kernel bands (kpr records by title).
                 title_matched.add(kpage_titles[s2]); band_hit = True
         if band_hit:
             kband_names.append(os.path.basename(bp)[:-5])
