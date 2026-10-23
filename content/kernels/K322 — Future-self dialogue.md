@@ -50,7 +50,7 @@ The practice is writing rather than listening; no recording is needed.
 
 ## Related concepts
 
-- [[Future self-continuity]] — the construct this kernel trains; the concept page carries the three-experiment chain.
+- [[Future self-continuity]] — the research construct that informs this exercise; the concept page carries the three-experiment chain.
 - [[Mental time travel]] — the capacity for visiting personal pasts and futures that the letter recruits.
 - [[Temporal discounting]] — the impatience the continuity research links to feeling distant from your future self.
 - [[Memento mori]] — the contemplative family the deathbed test belongs to; the letter is the forward-facing sibling.
