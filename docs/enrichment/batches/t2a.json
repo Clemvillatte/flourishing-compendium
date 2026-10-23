@@ -19,11 +19,12 @@
   "content/principles/A031 — Cultivate understanding (synesis).md",
   "content/principles/A033 — Cultivate intelligence (nous).md",
   "content/principles/A036 — Cultivate theoretical wisdom (sophia).md",
-  "content/principles/A037 — Distinguish cleverness (deinotes) from practical wisdom.md"
+  "content/principles/A037 — Distinguish cleverness (deinotes) from practical wisdom.md",
+  "content/principles/A039 — Value experience over theory in practical matters.md (T011 Socrates backlink, supervisor)"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T13:15:00Z",
+ "updated": "2026-10-23T13:16:00Z",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it."
 }
