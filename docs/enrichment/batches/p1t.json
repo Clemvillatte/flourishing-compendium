@@ -1,7 +1,6 @@
 {
  "batch": "p1t",
  "done": [
-  "D112",
   "D143",
   "D145",
   "D146",
@@ -32,17 +31,18 @@
   "D131",
   "D109"
  ],
- "in_progress": null,
+ "in_progress": "D112",
  "flagged": {
   "D164": "Reopened for QC: Owner priority: replace mechanical Plain words and overlong summary with primary-source-bounded explanation and workable application",
   "D172": "Reopened for QC: QC repair: preserve chapter 73 wrongdoing context; replace repeated Plain words with clear practical application",
   "D174": "Reopened for QC: Owner priority: replace duplicated Plain words and unhelpful talent example with source-bounded explanation and a test of environmental fit",
   "D119": "Reopened for QC: Repair quotation line-break marker and replace repeated chapter gloss with a practical editing exercise",
   "D131": "Reopened for QC: Repair overlong recital, source typography and overextended everyday-weapon analogy; retain source grief and necessity without restricting urgent safety",
-  "D109": "Reopened for QC: Sharpen chapter 20 nonconformity without glorifying loneliness; remove repeated Plain words and give a repeatable attention exercise"
+  "D109": "Reopened for QC: Sharpen chapter 20 nonconformity without glorifying loneliness; remove repeated Plain words and give a repeatable attention exercise",
+  "D112": "Reopened for QC: Replace repeated arithmetic gloss and guaranteed-progress example with bounded parable reading and voluntary shared-work practice"
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-23T06:44:34+00:00",
+ "updated": "2026-10-23T06:45:18+00:00",
  "band_done": false
 }
