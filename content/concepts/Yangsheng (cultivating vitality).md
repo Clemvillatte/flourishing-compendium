@@ -7,15 +7,26 @@ file: "Yangsheng (cultivating vitality)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-Y"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter Y", "parent": ""}
 ---
-Yangsheng (養生, “nourishing life”) is the Chinese tradition of self-cultivation aimed at health and longevity — a range of practices integrating body and mind, associated above all with Daoism. Its canonical early statement is the *Neiye* (“Inward Training”), the oldest known text on breath and vital-energy cultivation, preserved in the *Guanzi*; its intellectual lineage runs from Laozi and Zhuangzi through Ge Hong to the regimen literature of later Daoism ([Britannica, “Yangsheng”](https://www.britannica.com/topic/yangsheng); [Springer, “Yangsheng and Longevity in Chinese Culture”](https://link.springer.com/rwe/10.1007/978-3-319-69892-2_919-1)). The practices span movement (daoyin calisthenics, the ancestors of qigong and tai chi), breathing, diet, and sleep — all aimed at conserving and replenishing [[Qi]], the vital energy that animates the body, and protecting the “three treasures”: *jing* (essence), *qi* (vital breath), and *shen* (spirit) ([Britannica](https://www.britannica.com/topic/yangsheng)).
+Yangsheng (養生, “nourishing life”) is the Chinese tradition of self-cultivation aimed at health and longevity: a range of practices integrating body and mind, associated above all with Daoism. Its canonical early statement is the *Neiye* (“Inward Training”), the oldest known text on breath and vital-energy cultivation, preserved in the *Guanzi*; its intellectual lineage runs from Laozi and Zhuangzi through Ge Hong to the regimen literature of later Daoism ([Britannica, “Yangsheng”](https://www.britannica.com/topic/yangsheng); [Springer, “Yangsheng and Longevity in Chinese Culture”](https://link.springer.com/rwe/10.1007/978-3-319-69892-2_919-1)). The practices span movement (daoyin calisthenics, the ancestors of qigong and tai chi), breathing, diet, and sleep, all aimed at conserving and replenishing [[Qi]], the vital energy that animates the body, and protecting the “three treasures”: *jing* (essence), *qi* (vital breath), and *shen* (spirit) ([Britannica](https://www.britannica.com/topic/yangsheng)).
 
-The Daoist premise underneath is [[Dao]] and its own way of working: since the world has a grain, care of the body is not a war against appetite but an alignment with the body's rhythms — eat when hungry, rest when tired, move gently and regularly, moderate emotion because extremes injure vitality ([[D095 — Moderate emotion — extremes injure vitality]]; [[D153 — Move gently and regularly]]). Life is the root of all endeavour, as D141 has it: whatever you mean to do with your mind depends on the animal that carries it ([[D141 — Care for life as the root of all endeavor]]; [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]]).
+The Daoist premise underneath is [[Dao]] and its own way of working: since the world has a grain, care of the body is not a war against appetite but an alignment with the body's rhythms: eat when hungry, rest when tired, move gently and regularly, moderate emotion because extremes injure vitality. Life is the root of all endeavour, as D141 has it: whatever you mean to do with your mind depends on the animal that carries it.
 
-The distinction that keeps yangsheng from becoming modern self-optimisation: it is nourishment, not performance. Nothing is being maximised; the measure of the practice is the *quality of aliveness* — steady energy, settled sleep, clear awareness — not output or metrics. Its contemporary echoes are deliberately close: interoceptive awareness ([[BI053 — Cultivate interoceptive awareness — notice internal signals]]), body-scan practice ([[AT050 — Learn body scan — systematic attention through the body]]), and the compendium's principle that the body is read, not overridden ([[AF005 — Learn to read your own body — interoception]]).
+Carried by:
+- [[D095 — Moderate emotion — extremes injure vitality]]
+- [[D153 — Move gently and regularly]]
+- [[D141 — Care for life as the root of all endeavor]]
+- [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]]
 
-An example at its smallest: the ten-minute daily round — a little movement, a few slow breaths, plain food, sleep at a regular hour — kept for months, adjusted by how it leaves you feeling the next day.
+The distinction that keeps yangsheng from becoming modern self-optimisation: it is nourishment, not performance. Nothing is being maximised; the measure of the practice is the *quality of aliveness* (steady energy, settled sleep, clear awareness), not output or metrics. Its contemporary echoes are deliberately close: interoceptive awareness, body-scan practice, and the compendium's principle that the body is read, not overridden.
 
-Its modern cognate is [[Interoceptive awareness]] — the same body-listening without the cosmology; the current it cultivates is [[Qi]].
+Echoed by:
+- [[BI053 — Cultivate interoceptive awareness — notice internal signals]]
+- [[AT050 — Learn body scan — systematic attention through the body]]
+- [[AF005 — Learn to read your own body — interoception]]
+
+An example at its smallest: the ten-minute daily round (a little movement, a few slow breaths, plain food, sleep at a regular hour), kept for months, adjusted by how it leaves you feeling the next day.
+
+Its modern cognate is [[Interoceptive awareness]], the same body-listening without the cosmology; the current it cultivates is [[Qi]].
 ## Facets
 
 - **ongoing** — Daoism, Neiye
@@ -31,8 +42,8 @@ Its modern cognate is [[Interoceptive awareness]] — the same body-listening wi
 - [[D147]] — D147 locates guarding shen in the Neiye's cultivation account, including bodily regulation and quieting the heart-mind.
 ## Sources
 
-- Daoism, Neiye
-- Guanzi, Neiye
+- [Britannica, "Yangsheng"](https://www.britannica.com/topic/yangsheng) — the definition ("nourishing life", self-cultivation practices aimed at personal health and longevity, particularly Daoism) and the three treasures (jing, qi, shen); re-opened and confirmed against the live page.
+- [Springer, "Yangsheng and Longevity in Chinese Culture"](https://link.springer.com/rwe/10.1007/978-3-319-69892-2_919-1) — the Neiye/Guanzi lineage statement carried in the body text.
 
 ## Cited in philosophy parallels
 
