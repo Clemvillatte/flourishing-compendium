@@ -60,3 +60,12 @@ Independent advisor read_only_daoist_principle_qc_mvkkitzm freshly opened Legge 
 - Plain words separates agreement, learning and dissent without treating difference as proof of superiority. The attention example generates keeping/changing a preference, selects on endorsed reasons, and repeats the pre-discussion check.
 - Read Conformity, Minority influence and Herd morality. All already backlink D109. Mention search checked differing from the crowd; no new reciprocal needed.
 - Existing empirical and philosophical parallels and reflections preserved, not independently certified.
+
+## D112
+
+- Reopened with enrich_state.py. Opened Giles's Book V in full: https://en.wikisource.org/wiki/Taoist_teachings_from_the_book_of_Lieh_Tz%C5%AD/Book_5. Checked the Simpleton/river-bend mocker passage and divine ending.
+- Existing quotation preserved, including the explicit ellipsis over the sentence about later generations. Source's narrative is identified as a tale, not empirical support for guaranteed success.
+- Replaced repeated arithmetic metaphor and asserted shrinking-pile outcome with a bounded shared-work reading. Willing successors are a condition to ask about, not an entitlement implied by one's own devotion.
+- The example varies garden-work schedules, compares progress and voluntary commitment, and retains the workable arrangement; overt behaviour named.
+- Read Grit, Approach-oriented commitment research and The will to believe; all already backlink D112. Ran mountain mention search. No new reciprocal proposed.
+- Existing research/philosophy parallels and reflections preserved, not independently certified.
