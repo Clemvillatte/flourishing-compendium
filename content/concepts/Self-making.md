@@ -13,7 +13,7 @@ Zarathustra's account of the spirit's three metamorphoses supplies this picture 
 
 ### Camel, lion, child
 
-The chapter runs the sequence in order. The camel is the "load-bearing spirit in which reverence dwelleth" asking for the heaviest burden. In the loneliest wilderness the spirit becomes a lion, whose foe is the great dragon called "Thou shalt" — the values of a thousand years, glittering on every scale. The lion's word is "I will." But the lion has limits of its own: "To create new values—that, even the lion cannot yet accomplish: but to create itself freedom for new creating—that can the might of the lion do" (Thus Spake Zarathustra). The passage adds that to assume the right to new values is the most formidable assumption for a load-bearing and reverent spirit. The lion wins freedom for creating; the child is the figure of the affirmative work that follows, the new beginning the freedom is for.
+The chapter runs the sequence in order. The camel is the "load-bearing spirit in which reverence dwelleth" asking for the heaviest burden. In the loneliest wilderness the spirit becomes a lion, whose foe is the great dragon called "Thou shalt", with the values of a thousand years glittering on every scale. The lion's word is "I will." But the lion has limits of its own: "To create new values—that, even the lion cannot yet accomplish: but to create itself freedom for new creating—that can the might of the lion do" (Thus Spake Zarathustra). The passage adds that to assume the right to new values is the most formidable assumption for a load-bearing and reverent spirit. The lion wins freedom for creating; the child is the figure of the affirmative work that follows, the new beginning the freedom is for.
 
 ## Related concepts
 

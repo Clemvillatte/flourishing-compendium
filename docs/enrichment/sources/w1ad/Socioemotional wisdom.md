@@ -10,3 +10,13 @@
 - Advisor milestone round 2 (items 6-10) DISPOSITION CHANGED: held OUT OF DONE (Category C coined heading, same handling as Situation-sensitivity; the audit entry above was corrected from non-blocking to hold). Page repairs: the "purely cognitive wisdom theories" contrast deleted; the despair sentence now attributed to Miller as reproduced by Javed & Kakul (the article's reference 21); the MDPI citation metadata taken from the article page's own citation block (Journal of Gerontology and Geriatrics 71(2), 109-114; raw HTML access is bot-blocked, recorded); the ninth-stage sentence rewritten to the PMC article's own attribution (Erik and Joan Erikson proposed the ninth stage; the earlier Joan-only/conditions-of-decline phrasing replaced with "an older adult revisits the previous eight stages", the PMC article's words).
 
 - Round-3 edits: "The stage Erikson sets against despair is not a mood but a reckoning" deleted (unsupported aphorism); ledger note: the MDPI citation metadata comes from a prompted extraction of the article page (raw HTML is bot-blocked), NOT from raw verification — the page cites it as extracted.
+
+DISPOSITION (2026-10-23 ~06:49Z, final advisor QC round 4): this is a Category C coined-heading hold
+awaiting OWNER disposition. During the saturation sweep I added one navigation-only Related line
+(Socioemotional selectivity theory (Carstensen)) to this page; per the final advisor QC instruction
+that no navigation-only exception exists for held pages, that line was REMOVED, restoring the
+pre-session state (body, heading and state record untouched). The validator now reports
+"LOST 1 original link (Socioemotional selectivity theory (Carstensen))" against the pushed
+baseline — that link was my own same-session addition, pushed in the interim commit and then
+removed; the removal restores the pre-session baseline, not a pre-existing link. Recorded so the
+next validator pass or supervisor can disposition the ERR as a same-session add/remove artifact.

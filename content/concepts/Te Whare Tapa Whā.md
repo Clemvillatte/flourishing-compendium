@@ -40,6 +40,5 @@ The ministry describes a person's spiritual essence as their life force, and wit
 ## Sources
 
 - [Te Whare Tapa Whā model of Māori health, New Zealand Ministry of Health](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha)
-- [Wikipedia, Te Whare Tapa Whā](https://en.wikipedia.org/wiki/Te_Whare_Tapa_Wh%C4%81) (not verified in this account)
 
 ## Cited in philosophy parallels

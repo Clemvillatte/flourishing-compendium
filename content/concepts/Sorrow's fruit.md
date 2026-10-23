@@ -25,7 +25,7 @@ The chapter also refuses the ranking question. When some say joy is greater and 
 
 - [[Grief for what passes]] — the same pairing of loss and meaning, in the compendium's own terms
 - [[Impermanence]] — the Buddhist ground of the same consolation
-- [[Complicated grief research]] — the clinical study of when grief does not convert into meaning
+- [[Complicated grief research]] — the clinical side of the same subject
 - [[Ecological grief]] — grief with no single personal loss to point to
 
 ## Sources

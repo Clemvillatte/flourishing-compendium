@@ -24,7 +24,7 @@ The distinction verse 338 draws is that cutting down the tree does not prevent r
 ## Related concepts
 
 - [[The insatiability of craving]] — the Buddhist analysis of why craving never fills
-- [[The craving-to-addiction model]] — the modern mechanism the flood-and-reed image anticipates
+- [[The craving-to-addiction model]] — the compendium's addiction entry for the same craving
 - [[Impermanence]] — the mark of existence that craving denies
 
 ## Sources

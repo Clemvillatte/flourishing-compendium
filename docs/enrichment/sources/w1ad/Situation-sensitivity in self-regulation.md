@@ -10,3 +10,13 @@
 - Degree note: the neighbors output showed the citing principle M005's degree (6), not the concept's; the concept has one principle neighbor.
 
 - Advisor rounds 3-4 (milestone): Aldao quotations linked inline; "no strategy is healthy by definition" removed (narrower source-supported warning kept); hold handling verdict: PASS — item remains OUTSIDE done pending owner disposition; the audit entry corrected (the existing Context sensitivity page is the PBT/EEMM construct, not a Bonanno duplicate; no proven duplicate recorded).
+
+DISPOSITION (2026-10-23 ~06:49Z, final advisor QC round 4): this is a Category C coined-heading hold
+awaiting OWNER disposition. During the saturation sweep I added two navigation-only Related lines
+(Situational strategies, Rumination) to this page; per the final advisor QC instruction that no
+navigation-only exception exists for held pages, both lines were REMOVED, restoring the pre-session
+state (body, heading and state record untouched). The validator now reports "LOST 2 original
+links (Rumination, Situational strategies)" against the pushed baseline — those links were my own
+same-session additions, pushed in the interim commit and then removed; the removal restores the
+pre-session baseline, not pre-existing links. The page carries one residual warning (1 Related
+line); a warning is preferred to modifying a held page.
