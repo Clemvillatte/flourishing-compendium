@@ -15,6 +15,14 @@ Community, in the After Virtue sense, is the local form of life in which a perso
 
 Daniel Bell records an objection to this ideal: "But this pre-modern Gemeinschaft conception of an all-encompassing community that members unreflectively endorse seemed distinctly ill-suited for complex and conflict-ridden large-scale industrialized societies" ([Bell, SEP, section 1](https://plato.stanford.edu/entries/communitarianism/)).
 
+### The atomism charge
+
+The communitarians' central charge against liberalism is atomism: the liberal valuation of choice seemed to suggest an image of a subject who impinges his will on the world, neglecting the extent to which selves are formed within a social context ([Bell, SEP, section 1](https://plato.stanford.edu/entries/communitarianism/)). The entry quotes Taylor's summary of the alternative:
+
+> "Man is a social animal, indeed a political animal, because he is not self-sufficient alone, and in an important sense is not self-sufficient outside a polis" (Taylor 1985, 190, quoted in [Bell, SEP](https://plato.stanford.edu/entries/communitarianism/))
+
+Bell also records that the charge did not entirely stick: liberals may not have been arguing that individuals can completely extricate themselves from their social context, and most people in liberal societies do not view themselves as atomistic selves.
+
 ### In the compendium
 
 - [[R015 — Practise connection to community]]

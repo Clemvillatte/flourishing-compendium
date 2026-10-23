@@ -13,7 +13,6 @@
   "Cognitive-developmental theory of moral reasoning",
   "Collective intelligence",
   "Common flourishing",
-  "Community",
   "Community psychology theory",
   "Competence motivation",
   "Complexity theory in psychology",
@@ -70,7 +69,8 @@
   "Non-attachment",
   "Expressive suppression versus reappraisal",
   "Recognition",
-  "Experiential learning"
+  "Experiential learning",
+  "Community"
  ],
  "in_progress": null,
  "flagged": {
@@ -87,7 +87,7 @@
   "Cognitive-developmental theory of moral reasoning": "fast-track; evidence: Kohlberg 1975 Educational Leadership ASCD PDF (files.ascd.org link); invariant-sequence passage p. 48, Table 1 six stages p. 49, longitudinal study description p. 48 (page locators re-verified this session); 'evidence base' claim rescoped to 'one longitudinal study Kohlberg describes'; overlap with Kohlberg's theory of moral development routed to supervisor on taskboard; inherited citation none",
   "Collective intelligence": "fast-track; evidence: Woolley et al. 2010 Science author-hosted PDF (cs.cmu.edu link); definition p. 686, results and turn-taking sentences p. 687 (locators re-verified); speaking-turn result identified as badge-recorded subset; inherited 'conversation quality' formulation replaced with supported association; Surowiecki citation line kept unverified (not opened)",
   "Common flourishing": "fast-track; evidence: Aristotle Politics Ellis translation, Project Gutenberg eBook 6762; Book I Ch II and Book III Ch IX passages verbatim (locators: chapter numbers); 'common flourishing' framed as summary label, not Aristotle's terminology; Perseus crawler-blocked and MIT Classics URLs failed (edition route recorded here, removed from public Sources); Eudaimonic well-being gloss removed",
-  "Community": "fast-track; evidence: SEP Communitarianism by Daniel Bell (plato.stanford.edu, revision 7 June 2024), section 1 locator on both quotes; MacIntyre passage quoted as Bell's description of After Virtue; After Virtue not consulted (noted in Sources); Peirce Collected Papers inherited citation moved into Sources, unverified; document-meta closer and unsupported glosses removed",
+  "Community": "Reopened for QC: prose 79<150 at canonical degree 19; atomism-charge section added from the opened SEP Communitarianism entry (Taylor 1985 quote as carried by Bell)",
   "Community psychology theory": "fast-track; evidence: APA Community Psychology 4th ed. open sample chapter (apa.org link); definition and person-in-context p. 3, sense of community and Exhibit 1.1 p. 24, empowerment p. 27 (locators re-verified); sense of community and empowerment framed as two of eight core values; Scarpa/Orford inherited seed citation kept in Sources as not opened; advisor QC round 1 repairs complete",
   "Competence motivation": "fast-track; evidence: White 1959 Psychological Review open PDF; definition p. 297, effectance pp. 320-323, efficacy p. 329 verbatim; closure edits applied: opening uses the supported capacity/motivation distinction with pp. 297/329 citation",
   "Complexity theory in psychology": "fast-track; evidence: Dayioglu 2025 review (PMC12805186) + Sturmberg 2017 (PMC7187952); closure edits applied: inline citations on opening synthesis, paragraph-opening locators on both Dayioglu quotes",
@@ -130,6 +130,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:23:21+00:00",
+ "updated": "2026-10-23T14:23:35+00:00",
  "band_done": false
 }
