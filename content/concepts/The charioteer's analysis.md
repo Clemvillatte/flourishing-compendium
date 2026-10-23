@@ -23,6 +23,7 @@ Nagasena hands the king's own answer back to him, applied to the person: "And ju
 
 - [[Anatta]] — the not-self teaching the chariot argues for
 - [[Two truths]] — the framework the designation 'chariot' lives in
+- [[Buddhist emptiness of inherent nature]] — the emptiness the chariot argument serves
 
 ## Sources
 

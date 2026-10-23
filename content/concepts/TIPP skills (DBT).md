@@ -31,6 +31,7 @@ The sources are clinical teaching materials, not trials of the skills. The expla
 
 - [[BI048]] — the compendium's principle on cold exposure and the dive reflex, which cites Linehan's TIP handout
 - [[Emotion regulation]] — the compendium's page on the wider field
+- [[Distress tolerance (DBT)]] — the DBT module the skills belong to
 
 ## Sources
 

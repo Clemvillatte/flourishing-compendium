@@ -23,6 +23,7 @@ The SEP entry's section on the classification of the passions begins: "Descartes
 
 - [[The taxonomy of passions]] — the Stoic side of the same sorting impulse
 - [[Naming the passions]] — the practical skill of calling each movement by its name
+- [[The classification of fears]] — the same sorting impulse applied to fear
 
 ## Sources
 

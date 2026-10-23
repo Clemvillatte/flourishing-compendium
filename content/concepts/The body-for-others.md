@@ -33,6 +33,7 @@ The entry covers the Look and being-for-others, and it points readers to other s
 
 - [[The body-subject]] — the compendium's page on the body as perceiving subject
 - [[The chiasm]] — the compendium's page on Merleau-Ponty's account of reversibility
+- [[Embodiment]] — the wider field the body-as-object belongs to
 
 ## Sources
 

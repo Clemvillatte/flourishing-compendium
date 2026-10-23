@@ -23,6 +23,7 @@ Despair, as the article summarizes a developmental textbook by Miller, is "a dis
 
 - [[Wisdom]] — listed for comparison
 - [[Ego integrity (Erikson)]] — the crisis side of the same eighth stage
+- [[Socioemotional selectivity theory (Carstensen)]] — the aging account that parallels the same late-life focus
 
 ## Sources
 

@@ -23,6 +23,7 @@ The movement is subtractive before it is additive. Eckhart's claim, in the SEP's
 
 - [[Detachment from outcomes]] — the letting-go the breakthrough trains at ordinary scale
 - [[Gelassenheit]] — the releasement Eckhart builds on
+- [[The art of letting go]] — the raft-level version of the same release
 
 ## Sources
 

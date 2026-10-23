@@ -23,6 +23,7 @@ The contrast with nostalgia is the point: nostalgia grieves a home left behind, 
 
 - [[Ecological grief]] — the broader family of grief responses to environmental loss
 - [[Hickman et al]] — the climate-anxiety survey research the compendium pairs with this concept
+- [[Place attachment]] — the bond whose loss solastalgia names
 
 ## Sources
 

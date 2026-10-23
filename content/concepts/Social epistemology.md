@@ -27,6 +27,7 @@ The entry's working topics are testimony, peer disagreement, judgment aggregatio
 
 - [[Collective intelligence]]
 - [[Epistemic humility]]
+- [[The unreliability of testimony]] — the classical problem that starts the social study of knowing from others
 
 ## Sources
 

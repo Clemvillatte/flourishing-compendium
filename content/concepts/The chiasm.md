@@ -29,6 +29,7 @@ The sources are one encyclopedia entry and the quotations it reproduces from The
 
 - [[The body-subject]] — the compendium's page on the body as perceiving subject
 - [[The body-for-others]] — the compendium's page on the body seen by others
+- [[Embodiment]] — the wider field reversibility belongs to
 
 ## Sources
 

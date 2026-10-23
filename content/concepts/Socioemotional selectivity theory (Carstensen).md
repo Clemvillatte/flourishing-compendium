@@ -41,6 +41,7 @@ The malleability claim is the practical part. Imagine someone preparing to leave
 
 - [[Positivity effect]] — the effect this theory predicts
 - [[SE075]] — age-related emotional-experience findings in long-run samples
+- [[Future time perspective]] — the perception the theory runs on
 
 ## Sources
 

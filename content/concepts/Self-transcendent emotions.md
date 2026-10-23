@@ -21,6 +21,7 @@ The finding comes from two cross-sectional studies: "In two different contexts (
 
 - [[Awe]]
 - [[Gratitude]]
+- [[Self-transcendence]] — the broader construct the four emotions serve
 
 ## Sources
 

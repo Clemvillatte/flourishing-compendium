@@ -23,6 +23,7 @@ Heteronomy is the will going out of itself for its law: "If the will seeks the l
 
 - [[Autonomy]]
 - [[Value creation]]
+- [[Choice of self]] — the existential version of giving oneself the law
 
 ## Sources
 

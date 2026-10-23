@@ -33,6 +33,7 @@ State dependence appears task-specific. Goodwin's recognition task showed no sta
 
 - [[Memory reconsolidation]] — the compendium's page on how retrieved memories are re-stored
 - [[Encoding strategies]] — the compendium's page on how encoding shapes later recall
+- [[Mood-congruent memory]] — the sibling effect: recall bent by current state
 
 ## Sources
 
