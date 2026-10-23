@@ -34,11 +34,11 @@
  ],
  "in_progress": null,
  "flagged": {
-  "D113": "Reopened for QC: QC: causal sleep claims unsupported",
+  "D113": "supervisor disposition (2026-10-23 ~06:38Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — the page explicitly disclaims the causal claim ('The passage does not establish a cause of sleep difficulties') and bounds the sleep reading ('How well you sleep is not a test...'); the unsupported causal-sleep defect is repaired; no further action.",
   "D122": "Reopened for QC: QC repair verified",
   "D136": "Reopened for QC: QC repair verified",
   "D167": "Reopened for QC: QC: overextended commentary",
-  "D191": "Reopened for QC: QC: unlabelled reading; ch20 scope",
+  "D191": "supervisor disposition (2026-10-23 ~06:38Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — the chapter-20 scope is labeled in plain reader terms (first-person stance, renouncing learning) and the reading is marked as the compendium's application; no further action.",
   "P007": "supervisor disposition (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): stale flag closed — the file now exists ('P007 — Expect emergence — wholes exceed their parts.md'), validates ok standalone, and is recorded done in the batch; the premature-done condition no longer holds."
  },
  "missing_concepts": [],

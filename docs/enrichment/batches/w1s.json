@@ -73,8 +73,8 @@
  "in_progress": null,
  "flagged": {
   "Motor intentionality": "Reopened for QC: QC: attribution and phrasing repairs",
-  "Object relations theory": "Reopened for QC: QC: attribution repairs (Fairbairn specificity, Winnicott grounding)",
-  "Organism-environment transaction": "Reopened for QC: QC: remove snippet-sourced quote, ground origin"
+  "Object relations theory": "supervisor disposition (2026-10-23 ~06:38Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — the Fairbairn specificity is carried by the Gomez introduction quote (properly attributed with an opened PDF carrier), and the Winnicott grounding is in the founders line; no further action.",
+  "Organism-environment transaction": "supervisor disposition (2026-10-23 ~06:38Z, worker-pplx-sup-0b6f3a91): repair verified present on the current page — no snippet-sourced quotation remains (no search-result or snippet markers; quotes carry opened http carriers); the origin-grounding fix is in place; no further action."
  },
  "missing_concepts": [],
  "sources_checked": 0,
