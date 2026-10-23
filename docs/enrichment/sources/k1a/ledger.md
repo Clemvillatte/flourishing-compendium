@@ -767,3 +767,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: Hero's Journey template, not chapter mapping; outcome is meaning in life, not well-being or generativity; the seed's McAdams attribution kept as the theory's name with the measured outcome scoped honestly; McAdams's own primary text not opened and not cited.
 - Mention check run (before this entry): K332 already linked from E008/E012/A001/S130 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K340 — Repair-before-resolve (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Parsons, Prager, Wu, Poucher, Hansen & Shirvani 2020 (J Fam Psychol 34(1):35-45), three studies culminating in a 2-week diary of 226 cohabiting couples, abstract verified raw via NCBI efetch (PMID 31393139); authors read from the efetch header.
+- The blockquote (active repair / avoidance results sentence) matches the raw efetch text verbatim.
+- Honesty on page: outcome is affective recovery, not long-term stability; the seed's Gottman framing kept as attribution with the measured outcome scoped; naturally occurring behavior, not the practice.
+- Mention check run (before this entry): K340 already linked from A023/A063/S011/R005/R065 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). A metaphorical use of the word "ledger" was caught post-validation by the workflow-word grep and reworded to "account" before save.
