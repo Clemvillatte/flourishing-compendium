@@ -4,13 +4,14 @@
   "Heidegger",
   "Buber",
   "Husserl",
-  "Patanjali"
+  "Patanjali",
+  "Whitehead"
  ],
- "in_progress": "Whitehead",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": 0,
  "sources_checked": 0,
- "updated": "2026-10-23T11:23:47+00:00",
+ "updated": "2026-10-23T11:24:26+00:00",
  "band_done": false,
  "notes": "Minted by supervisor-pplx-1023a (2026-10-23): EXTENSION band per docs/enrichment/thinkers-extension-proposal.md, OWNER-APPROVED 2026-10-23 ('every tradition should have at least the core thinkers representing them, as long as they are relevant to our mission'). Evidence lists regenerated 2026-10-23 with word-boundary alias-union scan across the 6 content trees (counts in queue-thinkers.json; all clear the PROTOCOL-THINKERS 10+ floor). Standard = T011-T013 per PROTOCOL-THINKERS.md: SEP/IEP biography, verbatim quotes from OPENED carriers, interconnection inventory via scripts/thinker_links.py -t gated to the thinker's OWN tradition plus what the page itself teaches, reciprocal proposals via --reciprocal minted but applied only by supervisor after review. Rumi stays DROPPED (7 files, below floor — substring match had caught 'Rumination'); Mesoamerican: honest absence, do not mint. t1e = first wave (corpus-weighted), t1f = forest anchors/tradition voices (Y: Patanjali+Shankara, K: Nishida+Nishitani, Madhyamaka: Nagarjuna, Zen: Dogen, Confucian: Mencius, hermeneutic/existential: Jaspers+Gadamer, virtue-traditions: MacIntyre)."
 }

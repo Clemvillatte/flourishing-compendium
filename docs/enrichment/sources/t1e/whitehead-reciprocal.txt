@@ -1,0 +1,550 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A008 \u2014 Accept that flourishing takes a whole life.md",
+      "id": "A008",
+      "title": "Accept that flourishing takes a whole life",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF010 \u2014 Recognise that affect has temporal structure \u2014 intensity, duration, variability, recovery.md",
+      "id": "AF010",
+      "title": "Recognise that affect has temporal structure: intensity, duration, variability, recovery",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF071 \u2014 Recognise the peak-end rule \u2014 memory of experiences is shaped by peaks and endings.md",
+      "id": "AF071",
+      "title": "Recognise the peak-end rule: memory of experiences is shaped by peaks and endings",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B002 \u2014 Assume change (anicca).md",
+      "id": "B002",
+      "title": "Assume change (anicca)",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B015 \u2014 Nothing exists alone (interbeing).md",
+      "id": "B015",
+      "title": "Nothing exists alone (interbeing)",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B143 \u2014 Emptiness is relational fullness.md",
+      "id": "B143",
+      "title": "Emptiness is relational fullness",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BE007 \u2014 Understand that behaviour change follows stages \u2014 precontemplation to maintenance.md",
+      "id": "BE007",
+      "title": "Understand that behaviour change follows stages: precontemplation to maintenance",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI006 \u2014 Understand that neurotransmitters are not simple cause-and-effect \u2014 complexity matters.md",
+      "id": "BI006",
+      "title": "Understand that neurotransmitters are not simple cause-and-effect: complexity matters",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO057 \u2014 Recognise the peak-end rule in memory \u2014 you remember peaks and endings.md",
+      "id": "CO057",
+      "title": "Recognise the peak-end rule in memory: you remember peaks and endings",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D001 \u2014 Align your life with the Dao.md",
+      "id": "D001",
+      "title": "Align your life with the Dao",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D006 \u2014 Move by return (fu) \u2014 everything renews in cycles.md",
+      "id": "D006",
+      "title": "Move by return (fu): everything renews in cycles",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D156 \u2014 Stay flexible \u2014 rigidity is death's companion.md",
+      "id": "D156",
+      "title": "Stay flexible: rigidity is death's companion",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E053 \u2014 Practise the self as relation.md",
+      "id": "E053",
+      "title": "Practise the self as relation",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E109 \u2014 Practise the overman (\u00dcbermensch).md",
+      "id": "E109",
+      "title": "Practise the overman (\u00dcbermensch)",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/MO007 \u2014 Recognise that motivation is influenced by reward prediction error \u2014 surprise drives learning.md",
+      "id": "MO007",
+      "title": "Recognise that motivation is influenced by reward prediction error: surprise drives learning",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P001 \u2014 Build your life on becoming, not being.md",
+      "id": "P001",
+      "title": "Build your life on becoming, not being",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P002 \u2014 Treat the world as events and doings, not things and substances.md",
+      "id": "P002",
+      "title": "Treat the world as events and doings, not things and substances",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P003 \u2014 Relation is primary.md",
+      "id": "P003",
+      "title": "Relation is primary",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P006 \u2014 Creativity is the ultimate principle.md",
+      "id": "P006",
+      "title": "Creativity is the ultimate principle",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P072 \u2014 Grow by incorporating the other.md",
+      "id": "P072",
+      "title": "Grow by incorporating the other",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P092 \u2014 Live in a thick present.md",
+      "id": "P092",
+      "title": "Live in a thick present",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P093 \u2014 You are time \u2014 own your becoming.md",
+      "id": "P093",
+      "title": "You are time: own your becoming",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P095 \u2014 Expect genuine novelty \u2014 the future is open.md",
+      "id": "P095",
+      "title": "Expect genuine novelty: the future is open",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P096 \u2014 Let the many become one \u2014 and be increased by one.md",
+      "id": "P096",
+      "title": "Let the many become one: and be increased by one",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P097 \u2014 Treat each moment as fresh.md",
+      "id": "P097",
+      "title": "Treat each moment as fresh",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P114 \u2014 Create as growth \u2014 creation is the evidence of growth.md",
+      "id": "P114",
+      "title": "Create as growth: creation is the evidence of growth",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P147 \u2014 Notice that you and the world co-constitute each other.md",
+      "id": "P147",
+      "title": "Notice that you and the world co-constitute each other",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P152 \u2014 Know yourself ecologically.md",
+      "id": "P152",
+      "title": "Know yourself ecologically",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P153 \u2014 Participate in the world's becoming.md",
+      "id": "P153",
+      "title": "Participate in the world's becoming",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P154 \u2014 Care for the community of life.md",
+      "id": "P154",
+      "title": "Care for the community of life",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/P180 \u2014 Accept the final principle \u2014 you never arrive \u2014 and that is the good news.md",
+      "id": "P180",
+      "title": "Accept the final principle: you never arrive: and that is the good news",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R028 \u2014 Practise kaitiakitanga.md",
+      "id": "R028",
+      "title": "Practise kaitiakitanga",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R116 \u2014 Practise ecological embeddedness.md",
+      "id": "R116",
+      "title": "Practise ecological embeddedness",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R119 \u2014 Practise ecological self.md",
+      "id": "R119",
+      "title": "Practise ecological self",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R122 \u2014 Practise biophilic engagement.md",
+      "id": "R122",
+      "title": "Practise biophilic engagement",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S035 \u2014 Be useful.md",
+      "id": "S035",
+      "title": "Be useful",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S044 \u2014 Act as a member of the whole.md",
+      "id": "S044",
+      "title": "Act as a member of the whole",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S096 \u2014 Remember that the whole is more important than the part.md",
+      "id": "S096",
+      "title": "Remember that the whole is more important than the part",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S131 \u2014 Make Stoicism a lifelong practice, not a phase.md",
+      "id": "S131",
+      "title": "Make Stoicism a lifelong practice, not a phase",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE010 \u2014 Understand that the self is a process, not a thing.md",
+      "id": "SE010",
+      "title": "Understand that the self is a process, not a thing",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO002 \u2014 Treat the person as embedded in nested systems.md",
+      "id": "SO002",
+      "title": "Treat the person as embedded in nested systems",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO006 \u2014 Treat the social environment as a designable context.md",
+      "id": "SO006",
+      "title": "Treat the social environment as a designable context",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO007 \u2014 Treat social change as a normal condition, not a crisis.md",
+      "id": "SO007",
+      "title": "Treat social change as a normal condition, not a crisis",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO008 \u2014 Treat the sociocultural level as nested within the biophysiological.md",
+      "id": "SO008",
+      "title": "Treat the sociocultural level as nested within the biophysiological",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO017 \u2014 Treat cultural evolution as real.md",
+      "id": "SO017",
+      "title": "Treat cultural evolution as real",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO021 \u2014 Treat cultural traditions as living, not static.md",
+      "id": "SO021",
+      "title": "Treat cultural traditions as living, not static",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO056 \u2014 Design institutions for flourishing.md",
+      "id": "SO056",
+      "title": "Design institutions for flourishing",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO068 \u2014 Treat rapid social change as a stressor.md",
+      "id": "SO068",
+      "title": "Treat rapid social change as a stressor",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO070 \u2014 Treat climate change as a sociocultural stressor.md",
+      "id": "SO070",
+      "title": "Treat climate change as a sociocultural stressor",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Actual occasions.md",
+      "id": "Actual occasions",
+      "title": "Actual occasions",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Anicca.md",
+      "id": "Anicca",
+      "title": "Anicca",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Concrescence.md",
+      "id": "Concrescence",
+      "title": "Concrescence",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Creative advance.md",
+      "id": "Creative advance",
+      "title": "Creative advance",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Creative evolution.md",
+      "id": "Creative evolution",
+      "title": "Creative evolution",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Ecological relationality.md",
+      "id": "Ecological relationality",
+      "title": "Ecological relationality",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Future time perspective.md",
+      "id": "Future time perspective",
+      "title": "Future time perspective",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Internal relations.md",
+      "id": "Internal relations",
+      "title": "Internal relations",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Participate in the world's becoming.md",
+      "id": "Participate in the world's becoming",
+      "title": "Participate in the world's becoming",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Prehension.md",
+      "id": "Prehension",
+      "title": "Prehension",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Process ecology.md",
+      "id": "Process ecology",
+      "title": "Process ecology",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Process philosophy.md",
+      "id": "Process philosophy",
+      "title": "Process philosophy",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Relational ontology.md",
+      "id": "Relational ontology",
+      "title": "Relational ontology",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Self as process.md",
+      "id": "Self as process",
+      "title": "Self as process",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Self-transcendence.md",
+      "id": "Self-transcendence",
+      "title": "Self-transcendence",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Stewardship.md",
+      "id": "Stewardship",
+      "title": "Stewardship",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The community of occasions.md",
+      "id": "The community of occasions",
+      "title": "The community of occasions",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The expanding self.md",
+      "id": "The expanding self",
+      "title": "The expanding self",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The limits of reductionism.md",
+      "id": "The limits of reductionism",
+      "title": "The limits of reductionism",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The many become one.md",
+      "id": "The many become one",
+      "title": "The many become one",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The restless world.md",
+      "id": "The restless world",
+      "title": "The restless world",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The ten thousand things.md",
+      "id": "The ten thousand things",
+      "title": "The ten thousand things",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The whole in the part.md",
+      "id": "The whole in the part",
+      "title": "The whole in the part",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The whole prior to the parts.md",
+      "id": "The whole prior to the parts",
+      "title": "The whole prior to the parts",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The whole tradition's turn \u2014 re-examine everything.md",
+      "id": "The whole tradition's turn: re-examine everything",
+      "title": "The whole tradition's turn: re-examine everything",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The wider self.md",
+      "id": "The wider self",
+      "title": "The wider self",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Unity of opposites.md",
+      "id": "Unity of opposites",
+      "title": "Unity of opposites",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST099 \u2014 Whitehead's Many Become One.md",
+      "id": "ST099",
+      "title": "99. Whitehead's \\\"Many Become One\\\"",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST121 \u2014 The Creative Advance.md",
+      "id": "ST121",
+      "title": "121. The Creative Advance",
+      "thinker": "T042",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
