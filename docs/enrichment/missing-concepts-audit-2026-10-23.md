@@ -143,6 +143,8 @@ the Four immeasurables page exists).
 | 4 | The eupatheiai (Stoic good feelings) | 3 mentions (Apatheia, Passions as judgments, S059); IEP inventory item; no page | moderate: joy and goodwill as trainable emotions, the positive half of Stoic affect training | plausible-lacking (weak corpus weight) |
 | 5 | Action-intuition (Nishida) | 4 mentions; no page | moderate: knowing by becoming, an embodied alternative to detached observation | plausible-lacking |
 | 6 | Dharana / dhyana (Yoga Sutras limbs 6-7) | 3 / 5 mentions; limbs 4, 5 and 8 have pages | moderate: concentration as a trainable step toward meditation | plausible-lacking (weak) |
+| 7 | PERMA (Seligman's five-pillar flourishing model) | 16 prose mentions; the well-being pages exist but none presents PERMA (Wikipedia positive-psychology index opened) | very high: the mission's own flagship framework for genuine flourishing | verified-lacking as a dedicated page |
+| 8 | Subjective well-being (Diener's construct) | 45 prose mentions; The two-factor model of well-being mentions it only in passing; no dedicated page | high: the hedonic counterpart the wiki's eudaimonic pages need for balance | verified-lacking as a dedicated page |
 
 ### Kernel candidates
 
@@ -172,13 +174,22 @@ umbrella (Four immeasurables) — all verified as existing pages.
 
 ## Exact unfinished scope (time-boxed; the next auditor continues here)
 
-1. Existential/phenomenological forest: no external survey opened (the E-forest
-   was covered only via canonical-term checks).
+1. DONE before this push: the E-forest survey was opened ([SEP,
+   "Existentialism"](https://plato.stanford.edu/entries/existentialism/), raw
+   download) — existence precedes essence, anxiety, authenticity, bad faith,
+   the absurd, facticity, death, freedom, responsibility, the crowd and
+   nausea all have wiki pages; no gap.
 2. Tibetan inventory: the Kyoto School survey does not establish one; lojong
    and tonglen-class practice terms were only mention-counted.
-3. Psychology: a canonical-term list is not an external-reference comparison;
-   a proper index was not opened.
-4. See/Related plain-text cross-reference check: not performed.
+3. DONE before this push: the psychology comparison index was opened
+   ([Wikipedia, "Positive psychology"](https://en.wikipedia.org/wiki/Positive_psychology))
+   — new verified finds below (PERMA, subjective well-being); toxic positivity
+   (2), positive illusions (1) and the pleasant/meaningful-life paths (1/5)
+   are honest absences.
+4. DONE before this push: the See/Related plain-text check was run (one
+   plain-text reference found, on the Autonomous versus controlled motivation
+   page, pointing at sections of its own page — not dangling; no dangling
+   See-wikilinks found).
 5. The seven practice-domain comparisons (attention, emotion regulation,
    relationships, meaning, self, body, wisdom): not performed.
 6. Buber "inclusion" (36 generic-word mentions): hand-verification pending.
