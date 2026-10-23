@@ -1,0 +1,361 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+      "id": "A001",
+      "title": "Make eudaimonia the organising end of your life",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF077 \u2014 Learn emotional disclosure \u2014 the capacity to share feelings in a way that helps.md",
+      "id": "AF077",
+      "title": "Learn emotional disclosure: the capacity to share feelings in a way that helps",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO010 \u2014 Understand that thinking is narrative \u2014 you story your experience.md",
+      "id": "CO010",
+      "title": "Understand that thinking is narrative: you story your experience",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO053 \u2014 Recognise that memory is reconstructive, not reproductive.md",
+      "id": "CO053",
+      "title": "Recognise that memory is reconstructive, not reproductive",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO061 \u2014 Recognise the role of narrative in identity \u2014 your life story shapes who you are.md",
+      "id": "CO061",
+      "title": "Recognise the role of narrative in identity: your life story shapes who you are",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D087 \u2014 Hold identity lightly.md",
+      "id": "D087",
+      "title": "Hold identity lightly",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E079 \u2014 Practise the hermeneutic circle.md",
+      "id": "E079",
+      "title": "Practise the hermeneutic circle",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E080 \u2014 Practise the fusion of horizons.md",
+      "id": "E080",
+      "title": "Practise the fusion of horizons",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E083 \u2014 Practise narrative identity.md",
+      "id": "E083",
+      "title": "Practise narrative identity",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E084 \u2014 Practise emplotment.md",
+      "id": "E084",
+      "title": "Practise emplotment",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E085 \u2014 Practise the promise.md",
+      "id": "E085",
+      "title": "Practise the promise",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E086 \u2014 Practise idem and ipse identity.md",
+      "id": "E086",
+      "title": "Practise idem and ipse identity",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E087 \u2014 Practise narrative repair.md",
+      "id": "E087",
+      "title": "Practise narrative repair",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E088 \u2014 Practise critical distance.md",
+      "id": "E088",
+      "title": "Practise critical distance",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E089 \u2014 Practise the hermeneutics of suspicion.md",
+      "id": "E089",
+      "title": "Practise the hermeneutics of suspicion",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E090 \u2014 Practise the hermeneutics of faith.md",
+      "id": "E090",
+      "title": "Practise the hermeneutics of faith",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/M009 \u2014 Build bridges rather than choosing sides.md",
+      "id": "M009",
+      "title": "Build bridges rather than choosing sides",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP024 \u2014 Build narrative coherence.md",
+      "id": "PP024",
+      "title": "Build narrative coherence",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R105 \u2014 Practise narrative identity.md",
+      "id": "R105",
+      "title": "Practise narrative identity",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE001 \u2014 Understand that the self is constructed, not discovered.md",
+      "id": "SE001",
+      "title": "Understand that the self is constructed, not discovered",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE011 \u2014 Recognise the narrative structure of self \u2014 you are a story.md",
+      "id": "SE011",
+      "title": "Recognise the narrative structure of self: you are a story",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE042 \u2014 Recognise the role of narrative in identity revision \u2014 change the story, change the self.md",
+      "id": "SE042",
+      "title": "Recognise the role of narrative in identity revision: change the story, change the self",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO014 \u2014 Use cultural identity as a resource, not a constraint.md",
+      "id": "SO014",
+      "title": "Use cultural identity as a resource, not a constraint",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO045 \u2014 Use social identity as a resource and a risk.md",
+      "id": "SO045",
+      "title": "Use social identity as a resource and a risk",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO067 \u2014 Treat intergenerational trauma as a real mechanism.md",
+      "id": "SO067",
+      "title": "Treat intergenerational trauma as a real mechanism",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO069 \u2014 Treat cultural bereavement as a real loss.md",
+      "id": "SO069",
+      "title": "Treat cultural bereavement as a real loss",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Charity in interpretation.md",
+      "id": "Charity in interpretation",
+      "title": "Charity in interpretation",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Critical distance.md",
+      "id": "Critical distance",
+      "title": "Critical distance",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Emplotment (mise en intrigue).md",
+      "id": "Emplotment (mise en intrigue)",
+      "title": "Emplotment (mise en intrigue)",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Fusion of horizons.md",
+      "id": "Fusion of horizons",
+      "title": "Fusion of horizons",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Hermeneutics of the self.md",
+      "id": "Hermeneutics of the self",
+      "title": "Hermeneutics of the self",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Idem and ipse.md",
+      "id": "Idem and ipse",
+      "title": "Idem and ipse",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Identity stability.md",
+      "id": "Identity stability",
+      "title": "Identity stability",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Identity.md",
+      "id": "Identity",
+      "title": "Identity",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Interpretive understanding.md",
+      "id": "Interpretive understanding",
+      "title": "Interpretive understanding",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Intersubjectivity.md",
+      "id": "Intersubjectivity",
+      "title": "Intersubjectivity",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Journaling as self-reflection.md",
+      "id": "Journaling as self-reflection",
+      "title": "Journaling as self-reflection",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Narrative as meaning-making.md",
+      "id": "Narrative as meaning-making",
+      "title": "Narrative as meaning-making",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Narrative configuration.md",
+      "id": "Narrative configuration",
+      "title": "Narrative configuration",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Narrative identity.md",
+      "id": "Narrative identity",
+      "title": "Narrative identity",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Narrative therapy.md",
+      "id": "Narrative therapy",
+      "title": "Narrative therapy",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Paradigm shifts.md",
+      "id": "Paradigm shifts",
+      "title": "Paradigm shifts",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Reconfiguration of narrative.md",
+      "id": "Reconfiguration of narrative",
+      "title": "Reconfiguration of narrative",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Reinterpretation of the past.md",
+      "id": "Reinterpretation of the past",
+      "title": "Reinterpretation of the past",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The hermeneutic circle.md",
+      "id": "The hermeneutic circle",
+      "title": "The hermeneutic circle",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The hermeneutics of faith.md",
+      "id": "The hermeneutics of faith",
+      "title": "The hermeneutics of faith",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The hermeneutics of suspicion.md",
+      "id": "The hermeneutics of suspicion",
+      "title": "The hermeneutics of suspicion",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The interpreter module.md",
+      "id": "The interpreter module",
+      "title": "The interpreter module",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST285 \u2014 Ricoeur's Threefold Mimesis.md",
+      "id": "ST285",
+      "title": "285.  Ricoeur's Threefold Mimesis",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST291 \u2014 The Tower of Babel.md",
+      "id": "ST291",
+      "title": "291.  The Tower of Babel",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST312 \u2014 McAdams's Redemptive Sequences.md",
+      "id": "ST312",
+      "title": "312.  McAdams's Redemptive Sequences",
+      "thinker": "T047",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
