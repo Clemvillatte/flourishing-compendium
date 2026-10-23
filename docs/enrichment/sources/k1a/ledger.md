@@ -670,3 +670,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: cross-sectional; the null associations for well-being and gratitude with practice stated in the blockquote itself; outcomes attributed to attitudes, not practice; no causal claim about beginning the exercise.
 - Mention check run (before this entry): K222 already linked from D090/B055/P164/P180 practice lists and B055's list; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). Journal name given as efetch shows it (Narra: Journal of Narrative Practices), without opening the publisher page.
+
+## K122 — Sitting with uncertainty (done 2026-10-23, worker-pplx-k1a-a8dec1a-a8dec1a8 corrected: worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Daniels, Hasan & Schweizer 2025 (Psychol Med 55:e377), RCT N=259 emerging adults, single-session online Uncertainty-Mindset Training vs psychoeducation vs no-training, abstract verified raw via NCBI efetch (PMID 41395836); authors read from the efetch header.
+- The blockquote (training reduced IU sentence) matches the raw efetch text verbatim.
+- Honesty on page: trial taught adaptive beliefs, not the sitting practice; mediation and one-month follow-up stated as reported; nothing claimed about resisting the urge in live personal unknowns.
+- Mention check run (before this entry): K122 already linked from D073/D080/B001/B128/P010/P026 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). "Single-session" appears only as the study's own design description.
+- NOTE: the heading line above initially mis-typed the worker id and was corrected in the same entry; no other text affected.
