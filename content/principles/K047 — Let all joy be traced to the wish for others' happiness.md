@@ -20,7 +20,7 @@ Shantideva's summary verse states the teaching directly: everyone who is happy i
 
 **Plain words** The verse pairs happiness with wishing others well and misery with the wish for your own happiness. Shantideva offers it as a diagnosis, and a compendium exercise follows it: look over a week of your own hours and see whether the pairing holds for you.
 
-*For example:* Imagined example: looking back over a week's calendar, someone marks which hours felt best and checks how many of those involved someone else's good.
+*For example:* looking back over a week's calendar, someone marks which hours felt best and checks how many of those involved someone else's good.
 
 ## Sources
 

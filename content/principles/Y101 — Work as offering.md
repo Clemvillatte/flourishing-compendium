@@ -24,7 +24,7 @@ The principle strips out the ritual and the gods and keeps the structure of work
 
 **Plain words** The Gita says work done only for oneself is a lost life, and work done without grasping for results, as a contribution to the world's cycle, is honourable. The original frame is a sacrifice to the gods. Writing down whom your work serves before you begin is a modern way of keeping the spirit of that teaching.
 
-*For example:* Imagined example: before starting, a teacher writes "for the students who will read this next term". The sentence does not change the task but it changes what the task is for.
+*For example:* before starting, a teacher writes "for the students who will read this next term". The sentence does not change the task but it changes what the task is for.
 
 (Bhagavad-Gita ch. 3, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388, opened 2026-10-21. Arnold's verses are unnumbered, so the old cite, 3.9-3.16, is not checked against a numbered edition.)
 

@@ -24,7 +24,7 @@ Book X connects receptiveness to argument with prior habituation: "the soul of t
 
 **Plain words** A child can learn what to do while still needing help learning what to enjoy or dislike. Aristotle includes both in education, and he says habituation should continue during adult life.
 
-*For example:* Imagined example: a parent helps a child thank someone for a kindness and asks what that person did for them.
+*For example:* a parent helps a child thank someone for a kindness and asks what that person did for them.
 
 ## Sources
 

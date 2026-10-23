@@ -28,7 +28,7 @@ Sartre does not offer a way to switch the look off. He names two authentic attit
 
 **Plain words** Being watched changes what you are doing. A thing you did without thinking becomes something that can be judged, and you feel that in your body before you can reason about it. Sartre argues the feeling is not imagination: another person's presence adds a side of you that you cannot see or control. What stays in your hands is the next move, and you make it better once you have noticed the look instead of being run by it.
 
-*For example:* Imagined example: you rehearse a toast alone and it sounds fine. A friend opens the door and the same words feel stiff. Name what just happened, then choose: finish it, change it, or ask the friend what they heard.
+*For example:* you rehearse a toast alone and it sounds fine. A friend opens the door and the same words feel stiff. Name what just happened, then choose: finish it, change it, or ask the friend what they heard.
 
 (Sartre, Being and Nothingness, Part III, ch. 1, pp. 221-222, 259-263, 290; Part IV, ch. 1, §III, pp. 553-554, trans. Hazel Barnes; full text at the Internet Archive, opened 2026-10-21.)
 

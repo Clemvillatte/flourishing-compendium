@@ -24,7 +24,7 @@ Authentic historicality takes the inheritance on knowingly. "The resoluteness in
 
 **Plain words** Your life is not a point in the present with a past behind and a future ahead. You are already moving between where you came from and what you are headed toward, and each shapes the other. The inheritance includes your language, your family and your culture. You do not escape it, but you can find out what you were given and take up some of it on purpose.
 
-*For example:* Imagined example: you notice that you apologise whenever a meal goes wrong, the way your mother always did. You see the habit as inherited, and you choose to keep the generosity and drop the apology.
+*For example:* you notice that you apologise whenever a meal goes wrong, the way your mother always did. You see the habit as inherited, and you choose to keep the generosity and drop the apology.
 
 (Heidegger, Being and Time §§6, 72-74, trans. Macquarrie and Robinson (1962), Internet Archive; opened 2026-10-21. Passages from §§75-77 were not used.)
 

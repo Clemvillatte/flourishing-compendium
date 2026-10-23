@@ -24,7 +24,7 @@ Sutra 1.16 goes further: passionlessness is "highest when discernment of the Sel
 
 **Plain words** Dispassion is not a lack of feeling. It is the freedom of not being run by what you want. You can still enjoy things, and you can still lose them without losing yourself. The commentary treats this as a skill built in stages, starting with noticing what pulls you.
 
-*For example:* Imagined example: you love your house, and a job takes you to another city. You can sell it with sadness and without panic, because your sense of being all right was never tied to owning it.
+*For example:* you love your house, and a job takes you to another city. You can sell it with sadness and without panic, because your sense of being all right was never tied to owning it.
 
 (Yoga Sutras 1.15-1.16 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (Harvard Oriental Series 17, 1914), pp. 36-38, Internet Archive, opened 2026-10-21. The old parenthetical rendering "seen and heard" is from a modern translation not re-opened.)
 

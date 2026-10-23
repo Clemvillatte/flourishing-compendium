@@ -26,7 +26,7 @@ The contemplative activity "seems both to be superior in serious worth and to ai
 
 **Plain words** Suggested reflection: alongside a pleasure that relieves a need, consider something you value doing even when it brings little immediate enjoyment.
 
-*For example:* Imagined example: after enjoying a meal, a reader returns to a difficult chapter because she wants to understand its argument.
+*For example:* after enjoying a meal, a reader returns to a difficult chapter because she wants to understand its argument.
 
 ## Sources
 

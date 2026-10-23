@@ -24,7 +24,7 @@ Marcel, whom the principle cites, gives the same act a first-person angle. "When
 
 **Plain words** A promise is a way of staying who you said you would be when you no longer feel like it. Ricoeur does not say the self is made only of kept promises. He says the promise is where selfhood shows most clearly, because it does not lean on habit. Others plan around you, and that is part of what it is to be someone.
 
-*For example:* Imagined example: you promised to help a friend move on Saturday, then a better offer comes in. Keeping the promise tells your friend, and you, that your word does not depend on your mood.
+*For example:* you promised to help a friend move on Saturday, then a better offer comes in. Keeping the promise tells your friend, and you, that your word does not depend on your mood.
 
 (Ricoeur, Oneself as Another, trans. Blamey (1992), pp. 123, 165, via Truc, Halsema and Dierckxsens; Marcel via the Stanford Encyclopedia of Philosophy; all opened 2026-10-21.)
 

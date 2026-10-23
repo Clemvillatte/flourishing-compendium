@@ -28,7 +28,7 @@ The principle also cites Heidegger. In Being and Time §74: "If everything 'good
 
 **Plain words** Whatever you think, you think from somewhere: a language, a family, a culture, a time. The past is not behind you in a drawer. It already shapes what you notice and what you take for obvious. Gadamer's practice is to keep asking where your view comes from.
 
-*For example:* Imagined example: you find your grandparents' advice about work old-fashioned. Then you notice that your own idea of "a good job" is also inherited, from your parents' fear of insecurity. Seeing both as traditions lets you choose between them.
+*For example:* you find your grandparents' advice about work old-fashioned. Then you notice that your own idea of "a good job" is also inherited, from your parents' fear of insecurity. Seeing both as traditions lets you choose between them.
 
 (Gadamer, Truth and Method, 2nd rev. ed. (Continuum, 2004), pp. 277-278, 281-282, 293, 300-301, trans. Weinsheimer and Marshall, via the excerpt compiled by Pierre Legrand; Heidegger, Being and Time §74, trans. Macquarrie and Robinson, Internet Archive; opened 2026-10-21.)
 

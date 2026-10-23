@@ -22,7 +22,7 @@ The more secular-sounding version of the principle is in Either/Or, where Judge 
 
 **Plain words** Despair, as Kierkegaard uses the word, is not just feeling low. It is a mismatch between the person you are and the person you are living as. One version runs from the self you were given; the other builds a self by willpower. In both, you are not at home in your own life. His own cure is religious. Judge William's version asks something you can try without that framework: see the mismatch honestly and choose to own your life from where you stand.
 
-*For example:* Imagined example: someone realises that every major choice in their twenties was made to satisfy an audience. The first step is to name that plainly. After that, decide which of those commitments they would still choose, knowing they were never chosen freely.
+*For example:* someone realises that every major choice in their twenties was made to satisfy an audience. The first step is to name that plainly. After that, decide which of those commitments they would still choose, knowing they were never chosen freely.
 
 (Kierkegaard, The Sickness unto Death, Part One and Part Two, trans. Walter Lowrie (1941/1954), pp. 146-147, 153, 202, 262; Either/Or, Part II, trans. Hong, in Hong and Hong, The Essential Kierkegaard; both opened 2026-10-21.)
 

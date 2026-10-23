@@ -20,7 +20,7 @@ The Zen koan at the root of this principle is Mumon's case 19: asked what the pa
 
 **Plain words** In the koan, the answer to "what is the path" is everyday life, and the warning is that studying the answer takes you away from it. The compendium's measure of progress: whether dishes, work and family carry less self-referential noise than they did, not whether the states are special.
 
-*For example:* Imagined example: a person who has spent years on retreats and reading shows it by being the one who quietly stays to wash up.
+*For example:* a person who has spent years on retreats and reading shows it by being the one who quietly stays to wash up.
 
 ## Sources
 

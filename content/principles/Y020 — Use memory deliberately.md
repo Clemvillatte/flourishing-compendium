@@ -24,7 +24,7 @@ The sutra defines memory by its fidelity to the original object, a definition ab
 
 **Plain words** Patanjali's definition is short: memory is holding on to what was experienced, without adding to it. It comes from the stored impressions left by earlier experience. The idea of managing when and how you remember is the principle's own application.
 
-*For example:* Imagined example: instead of replaying a conversation at 3 a.m., you write a few sentences about it after dinner. You note only what was said, then close the notebook.
+*For example:* instead of replaying a conversation at 3 a.m., you write a few sentences about it after dinner. You note only what was said, then close the notebook.
 
 (Yoga Sutra 1.11 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 31, Internet Archive, opened 2026-10-21.)
 

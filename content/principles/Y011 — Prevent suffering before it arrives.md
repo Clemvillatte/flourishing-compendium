@@ -24,7 +24,7 @@ The next sutras give the means: the cause of future pain is the link between the
 
 **Plain words** You cannot fix pain that has already happened, and pain you are in now is already being felt. Patanjali's practical aim is to prevent what is still ahead. The tradition's way is to work on the cause, not to brace for each blow. Looking back to find the first warning sign is a sensible practice for this, but it comes from the principle, not the text.
 
-*For example:* Imagined example: after a bad week, someone sees that the trouble started with two skipped nights of sleep. Next time they treat sleep as an early warning, not a symptom.
+*For example:* after a bad week, someone sees that the trouble started with two skipped nights of sleep. Next time they treat sleep as an early warning, not a symptom.
 
 (Yoga Sutra 2.16 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 139, Internet Archive, opened 2026-10-21.)
 

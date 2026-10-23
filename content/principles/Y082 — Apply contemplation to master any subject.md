@@ -28,7 +28,7 @@ The sutras present these as supernormal powers (vibhuti) that follow from master
 
 **Plain words** In the text, holding attention on a single object through all three stages is a named technique, and its result is clear insight into the object. It has to be built stage by stage. The idea of using that skill to study one subject at a time is the principle's own application.
 
-*For example:* Imagined example: you give one subject, say a single philosophical text, a full season of sustained reading and reflection. This is a modern use of the idea, not a power the sutras describe.
+*For example:* you give one subject, say a single philosophical text, a full season of sustained reading and reflection. This is a modern use of the idea, not a power the sutras describe.
 
 (Yoga Sutras 3.4-3.6 and 3.16 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 205-206, 232-233, Internet Archive, opened 2026-10-21. Sutras 3.17-3.29 not read.)
 

@@ -24,7 +24,7 @@ The principle already calls its claim an editorial rule of thumb, not an empiric
 
 **Plain words** Patanjali lists the aids in a fixed order and says the practice should follow it in turn. Reading that order as a troubleshooting grid, starting at the bottom when something fails, is a modern idea. It may be useful, but it is the principle's, and its sample lists do not match Woods.
 
-*For example:* Imagined example: when your sitting goes badly, you ask first whether you have been sleeping and eating well, then whether something in your conduct is unresolved. This is a way of using the order, not something the text says.
+*For example:* when your sitting goes badly, you ask first whether you have been sleeping and eating well, then whether something in your conduct is unresolved. This is a way of using the order, not something the text says.
 
 (Yoga Sutras 2.28-2.30 and 2.32 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 172, 177-178, 181, Internet Archive, opened 2026-10-21.)
 

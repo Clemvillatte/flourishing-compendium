@@ -28,7 +28,7 @@ Arnold's translation does not give the idea of a general rule to "grade inputs b
 
 **Plain words** The Gita sorts food by what it does to you and gifts by how and why they are given. Strong appetite goes with the harmful food, and hope of return or a grudge marks the weaker gifts. A one-week audit is a sensible use of the passage, though not in the text.
 
-*For example:* Imagined example: for one week you note how you feel after each meal, and why you gave each time you gave. You find that the gifts you gave hoping for thanks are the ones you resent.
+*For example:* for one week you note how you feel after each meal, and why you gave each time you gave. You find that the gifts you gave hoping for thanks are the ones you resent.
 
 (Bhagavad-Gita ch. 17, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388, opened 2026-10-21. Arnold's verses are unnumbered, so the old cites, 17.7-10 and 17.20-22, are not checked against a numbered edition.)
 

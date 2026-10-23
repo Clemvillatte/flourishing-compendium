@@ -22,7 +22,7 @@ In III.5, he also connects states of character with activities and describes us 
 
 **Plain words** A visible deed does not tell you everything about the decision behind it. Ask what the person considered and chose to pursue. Aristotle gives that decision particular weight when judging character.
 
-*For example:* Imagined example: two people make the same donation after deliberating. One aims to help the recipient; the other aims to improve her reputation. The outward act is alike; their reasons for choosing it differ.
+*For example:* two people make the same donation after deliberating. One aims to help the recipient; the other aims to improve her reputation. The outward act is alike; their reasons for choosing it differ.
 
 ## Sources
 

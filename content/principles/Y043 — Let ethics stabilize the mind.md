@@ -28,7 +28,7 @@ Neither text says that an unsettled conscience is what stalls meditation, or rec
 
 **Plain words** The texts place the ethical limits before the sitting practices, as steps in order. The conduct rules are treated as part of the path, not as extras. It is reasonable to look at your own conduct first when meditation goes badly, though that rule of thumb is modern, not quoted.
 
-*For example:* Imagined example: you sit every morning but keep stalling on a lie you told a colleague. Putting it right does not guarantee calm, but it removes one thing that your mind keeps returning to.
+*For example:* you sit every morning but keep stalling on a lie you told a colleague. Putting it right does not guarantee calm, but it removes one thing that your mind keeps returning to.
 
 (Yoga Sutras 2.29-2.31 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 177-180, Internet Archive; Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, Project Gutenberg #2388; both opened 2026-10-21. Sutra 2.28 not read.)
 

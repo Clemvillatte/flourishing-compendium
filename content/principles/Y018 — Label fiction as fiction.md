@@ -24,7 +24,7 @@ Woods says the idea follows from "perceptions or of words", not from words alone
 
 **Plain words** Patanjali names a kind of mental event that speaks of something without a matching perceived object. It is neither a valid piece of knowledge nor a plain mistake. The text treats it as a feature of how language works. Marking your own rumination sentences as constructions is a modern, practical use of that idea, not part of the sutra.
 
-*For example:* Imagined example: you think "everyone thinks I got that wrong". You notice there is no particular person or comment behind the sentence, and you write beside it: no evidence, just words.
+*For example:* you think "everyone thinks I got that wrong". You notice there is no particular person or comment behind the sentence, and you write beside it: no evidence, just words.
 
 (Yoga Sutra 1.9 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 26-27, Internet Archive, opened 2026-10-21.)
 

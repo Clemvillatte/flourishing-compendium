@@ -20,7 +20,7 @@ In the account of Nishitani's three-field topology given in the Stanford Encyclo
 
 **Plain words** The account has two steps: first away from the ego's stance, then through the emptiness that remains. In the compendium's exercise, the step is taken with a question: with the "me" subtracted, what is still true of the situation? What shows up is what the field was holding all along.
 
-*For example:* Imagined example: after a public failure, someone stops drafting a comeback story and for a day notices the weather, the dishes, a friend's voice, as they are.
+*For example:* after a public failure, someone stops drafting a comeback story and for a day notices the weather, the dishes, a friend's voice, as they are.
 
 ## Sources
 

@@ -24,7 +24,7 @@ Levinas, in Totality and Infinity, describes a different encounter. The way the 
 
 **Plain words** Being looked at by another person is not just a thought you have about them. For Sartre it is a basic fact of living among others: your world is no longer arranged around you alone. You cannot argue it away, because it is not an opinion. The point of the principle is to build that fact into how you act, instead of treating each embarrassment as a private failing.
 
-*For example:* Imagined example: you cross an empty office to take a call, then notice a colleague at the far desk. Your voice drops and your posture changes. Nothing in the call has changed, but the room has a new centre.
+*For example:* you cross an empty office to take a call, then notice a colleague at the far desk. Your voice drops and your posture changes. Nothing in the call has changed, but the room has a new centre.
 
 (Sartre, Being and Nothingness, Part III, ch. 1, pp. 255-261, trans. Barnes; Levinas, Totality and Infinity, pp. 50-51, 198-199, trans. Lingis; both opened 2026-10-21.)
 

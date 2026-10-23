@@ -21,7 +21,7 @@ He argues in the same chapter that music and poetry imitate dispositions and aff
 
 **Plain words** Consider what a work invites you to enjoy, admire or dislike. Afterward, ask how you judge those responses.
 
-*For example:* Imagined example: a playgoer notices sympathy for a character she initially dismissed and reflects on that change.
+*For example:* a playgoer notices sympathy for a character she initially dismissed and reflects on that change.
 
 ## Sources
 

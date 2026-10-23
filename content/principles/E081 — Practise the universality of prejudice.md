@@ -24,7 +24,7 @@ The prejudices "that occupy the interpreter's consciousness are not at his free 
 
 **Plain words** You never come to a person or a text with an empty head. You come with expectations, and they are what let you understand anything at all. The risk is not having them but not seeing them. Gadamer's answer is to let the other person or text push back and to change your reading when it does.
 
-*For example:* Imagined example: you read a letter from a relative and hear it as cold. A second reading, with the thought that you expected coldness, lets you see a nervous attempt to be careful. Neither reading was prejudice-free; the second one knew what it was bringing.
+*For example:* you read a letter from a relative and hear it as cold. A second reading, with the thought that you expected coldness, lets you see a nervous attempt to be careful. Neither reading was prejudice-free; the second one knew what it was bringing.
 
 (Gadamer, Truth and Method, 2nd rev. ed. (Continuum, 2004), pp. 269-273, 278, 295, trans. Weinsheimer and Marshall. Quotations and page numbers are taken from the excerpt compiled by Pierre Legrand, which cites this edition; opened 2026-10-21.)
 

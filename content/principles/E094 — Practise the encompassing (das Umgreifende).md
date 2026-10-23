@@ -24,7 +24,7 @@ The modes include "that which we ourselves are", which "is called being-there, c
 
 **Plain words** Everything you know about yourself is something you have turned into an object: your habits, your history, your test scores. The one doing the knowing is not on that list. Jaspers says that does not make you mysterious in a spooky way. It means every description of you leaves something out, because the describer is not in it. The practice is to treat self-knowledge as useful and incomplete.
 
-*For example:* Imagined example: after a personality assessment, someone reads their profile and recognises most of it. They also notice that the one reading it is not in the report, and they hold the results as a map, not as a verdict.
+*For example:* after a personality assessment, someone reads their profile and recognises most of it. They also notice that the one reading it is not in the report, and they hold the results as a map, not as a verdict.
 
 (Jaspers, Way to Wisdom, trans. Ralph Manheim (Yale, 1951), pp. 28-32, Internet Archive; Stanford Encyclopedia of Philosophy, "Karl Jaspers"; both opened 2026-10-21. Philosophy vol. 1 and Von der Wahrheit cited at second hand.)
 

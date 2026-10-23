@@ -28,7 +28,7 @@ I did not open sources for the Advaita identity claim or for the pragmatist brac
 
 **Plain words** The Yoga text and the Gita speak of an enduring Self. The Buddha's discourse says there is none to find among the five aggregates. The book asks you to test practices and see what they do, while it names where a given practice leans on a doctrine.
 
-*For example:* Imagined example: you try a breathing practice from a tradition whose metaphysics you do not share. You judge it by what it does for your attention, and note which of its instructions depend on a doctrine.
+*For example:* you try a breathing practice from a tradition whose metaphysics you do not share. You judge it by what it does for your attention, and note which of its instructions depend on a doctrine.
 
 (Yoga Sutra 1.3 with Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 13, Internet Archive; Bhagavad-Gita ch. 2, trans. Sir Edwin Arnold, Project Gutenberg #2388; SN 22.59, trans. Bhikkhu Sujato, SuttaCentral; all opened 2026-10-21. Gita 2.21-2.25 is not checked against a numbered edition.)
 

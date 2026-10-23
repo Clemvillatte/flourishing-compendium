@@ -24,7 +24,7 @@ Transcendence is no possession. "Faith is no possession. It confers no secure kn
 
 **Plain words** Jaspers asks you not to take the world's surface for all there is. Measuring and explaining are good and he does not drop them. He asks you to keep a place for what cannot be proved or measured, and to read it in what the world shows you. That is a practice of attention, not a set of beliefs, and it asks a lot of honesty about what you do not know.
 
-*For example:* Imagined example: after a death in the family, someone who normally trusts only what can be checked finds that the facts do not touch the grief. They keep the facts and stay with what the grief points to, without claiming to know what it is.
+*For example:* after a death in the family, someone who normally trusts only what can be checked finds that the facts do not touch the grief. They keep the facts and stay with what the grief points to, without claiming to know what it is.
 
 (Jaspers, Way to Wisdom, trans. Ralph Manheim (Yale, 1951), pp. 31-32, 34, 43, 49-50, Internet Archive, opened 2026-10-21. Jaspers's Philosophy vol. 3 and Marcel's The Mystery of Being are cited at second hand.)
 

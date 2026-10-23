@@ -20,7 +20,7 @@ The Buddha's raft simile in MN 22 gives the warning its plainest form: the Dhamm
 
 **Plain words** The raft simile's logic applies to insight itself: a raft is for crossing, and a person who carries it on their head has stopped travelling. The compendium's test for a new self-description founded on an insight: does ordinary life continue, or does the insight now do the talking?
 
-*For example:* Imagined example: the friend who has been to three retreats and now corrects everyone's attachments at dinner is wearing his awakening like a badge.
+*For example:* the friend who has been to three retreats and now corrects everyone's attachments at dinner is wearing his awakening like a badge.
 
 ## Sources
 

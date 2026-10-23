@@ -17,7 +17,7 @@ Nietzsche places this aphorism after two remarks about shame. Section 273 condem
 **Plain words**
 The compendium draws a question from this line: can you consider something you regret without treating your whole life as a disgrace? Consider this alongside whatever you owe anyone affected.
 
-*For example:* Imagined example: a founder describes a failed venture, acknowledges her mistakes and considers what she owes former colleagues, without treating the failure as a verdict on her entire life.
+*For example:* a founder describes a failed venture, acknowledges her mistakes and considers what she owes former colleagues, without treating the failure as a verdict on her entire life.
 
 ## Psychology parallels
 

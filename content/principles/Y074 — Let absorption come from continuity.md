@@ -24,7 +24,7 @@ Nothing in this passage says that attention "stops returning and begins resting"
 
 **Plain words** In the text, contemplation is the same attention as in sutra 3.1, held without interruption. It is produced by the earlier stage, so you work on the earlier stage. How long it takes is not stated, so counting returns is a modern device.
 
-*For example:* Imagined example: you hold attention on a candle flame for ten minutes. At first you return to it often. Later the returns are fewer and the flame fills your attention. This is a modern description, not the sutra's.
+*For example:* you hold attention on a candle flame for ten minutes. At first you return to it often. Later the returns are fewer and the flame fills your attention. This is a modern description, not the sutra's.
 
 (Yoga Sutras 3.1-3.3 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 203-205, Internet Archive, opened 2026-10-21.)
 

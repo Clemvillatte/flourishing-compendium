@@ -20,7 +20,7 @@ In the passage quoted by Michiel Herman, Tanabe says his philosophy is 'returned
 
 **Plain words** The quoted passage has Tanabe answering what he received with gratitude and passing the philosophy back to the world. The compendium's version is the daily one-line exercise: name a particular kindness received that day, something given rather than earned, and notice what the naming does.
 
-*For example:* Imagined example: before sleep, someone thinks: the neighbour who watered the plants, the bus driver's nod, the tea. Not earned, just given.
+*For example:* before sleep, someone thinks: the neighbour who watered the plants, the bus driver's nod, the tea. Not earned, just given.
 
 ## Sources
 

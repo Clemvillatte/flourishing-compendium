@@ -24,7 +24,7 @@ The sutra names expulsion and retention. It does not mention extending the exhal
 
 **Plain words** One of Patanjali's listed ways to steady the mind is to work with the breath, by pushing it out and holding it out. The commentary says the body grows light and the mind stable. Counting slow, long exhalations is a gentler modern adaptation, offered in the spirit of the sutra but not found in it.
 
-*For example:* Imagined example: scattered before a meeting, you breathe out slowly for a count of six, five times, then turn to the first agenda item. The count is your own addition.
+*For example:* scattered before a meeting, you breathe out slowly for a count of six, five times, then turn to the first agenda item. The count is your own addition.
 
 (Yoga Sutra 1.34 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 72, Internet Archive, opened 2026-10-21.)
 

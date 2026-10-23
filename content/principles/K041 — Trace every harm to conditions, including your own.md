@@ -20,7 +20,7 @@ Shantideva asks why a person should be the target of anger when, like bodily ill
 
 **Plain words** Separate what someone did from what you know about why it happened. List the circumstances you actually know, and leave unknown causes open. Apply the same check to your own actions.
 
-*For example:* Imagined example: after being cut off in traffic, a driver notices that they know nothing about the other person's circumstances and leaves the motive undecided.
+*For example:* after being cut off in traffic, a driver notices that they know nothing about the other person's circumstances and leaves the motive undecided.
 
 ## Sources
 

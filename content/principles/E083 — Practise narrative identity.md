@@ -24,7 +24,7 @@ Ricoeur finds two ways of lasting in time: character, and keeping one's word. "T
 
 **Plain words** You are not a fixed list of traits, and not a blank to rewrite at will. Ricoeur says a life holds together through the story you can tell about it, and that story has to fit what happened and still leave room for change.
 
-*For example:* Imagined example: after a failed business, someone tells it as "the year I wasted". Retelling it as "the year I learned to price my work" does not erase the loss. It changes which promises they are willing to make next.
+*For example:* after a failed business, someone tells it as "the year I wasted". Retelling it as "the year I learned to price my work" does not erase the loss. It changes which promises they are willing to make next.
 
 (Ricoeur, Oneself as Another, trans. Kathleen Blamey (Chicago, 1992), pp. 147-148, 123, via SEP; Truc, "Narrative Identity against Biographical Illusion", Études Ricœuriennes 2008; Halsema, "Time" (VU Research Portal); all opened 2026-10-21.)
 

@@ -20,7 +20,7 @@ In Nishida's early account, pure experience precedes the differentiation into an
 
 **Plain words** An account of hearing that starts with you on one side and a sound on the other has already divided the event in two. This principle asks you to examine that starting assumption.
 
-*For example:* Imagined example: after listening to a friend's story, compare attending to the story with describing yourself as its listener.
+*For example:* after listening to a friend's story, compare attending to the story with describing yourself as its listener.
 
 ## Sources
 

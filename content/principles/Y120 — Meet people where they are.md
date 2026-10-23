@@ -24,7 +24,7 @@ The text gives two instructions: avoid sowing despair or making the untaught stu
 
 **Plain words** Krishna tells the person who sees clearly not to shake those who are still busy with outcomes, and to keep doing his own work steadily. It is a limit on how the wise should act around others, not a teaching method. Using it to give up arguing with someone for a week is a modern application.
 
-*For example:* Imagined example: you have been arguing with your brother about his spending. For a week you drop the subject and manage your own money in plain view. You see what he asks.
+*For example:* you have been arguing with your brother about his spending. For a week you drop the subject and manage your own money in plain view. You see what he asks.
 
 (Bhagavad-Gita ch. 3, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388, opened 2026-10-21. Arnold's verses are unnumbered, so the old cite, 3.26, is not checked against a numbered edition.)
 

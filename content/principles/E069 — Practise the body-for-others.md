@@ -24,7 +24,7 @@ Merleau-Ponty says the encounter need not turn me into an object: "the positing 
 
 **Plain words** You have two bodies at once: the one you live in, and the one other people see. You cannot get rid of the second or fully control it, which is why being watched can feel like having something taken from you. Sartre's account suggests that hiding will not work. The task is to hold both: this is what I do and feel, and this is how I appear, without letting either swallow the other.
 
-*For example:* Imagined example: a student stands to give a talk and feels every part of the body as a thing for the room to judge. The practice is to bring attention back to the feet on the floor and the breath, while accepting that the audience's view exists too.
+*For example:* a student stands to give a talk and feels every part of the body as a thing for the room to judge. The practice is to bring attention back to the feet on the floor and the breath, while accepting that the audience's view exists too.
 
 (Sartre, Being and Nothingness, Part III, ch. 2, pp. 351-353, trans. Barnes; Merleau-Ponty, Phenomenology of Perception, trans. Colin Smith (Routledge Classics, 2002), pp. 410-411; de Beauvoir, The Second Sex (1949), Introduction, trans. H. M. Parshley; all opened 2026-10-21.)
 

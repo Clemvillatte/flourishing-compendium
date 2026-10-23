@@ -24,7 +24,7 @@ Silence is how it works: "Conscience discourses solely and constantly in the mod
 
 **Plain words** Most of the day you act on what people like you are expected to do. Heidegger says that now and then something in you interrupts that, without giving instructions. It does not tell you what is right. It only pulls you back to the question of your own life. You cannot make it speak, and it is easy to drown out. What you can do is leave enough quiet for it to be heard.
 
-*For example:* Imagined example: on a Sunday evening the usual scrolling stops working, and a plain thought arrives: I do not want to be doing this in ten years. The thought comes with no instructions. The practice is to stay with it long enough to find what it concerns, instead of reaching for the next distraction.
+*For example:* on a Sunday evening the usual scrolling stops working, and a plain thought arrives: I do not want to be doing this in ten years. The thought comes with no instructions. The practice is to stay with it long enough to find what it concerns, instead of reaching for the next distraction.
 
 (Heidegger, Being and Time §§54-60, esp. §56 and §58, H. 270-289, trans. Macquarrie and Robinson; text of Division II ch. 2 at the Dominican House of Studies, opened 2026-10-21.)
 

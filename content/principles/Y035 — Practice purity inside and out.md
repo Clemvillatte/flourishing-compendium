@@ -24,7 +24,7 @@ Sutra 2.40 says "As a result of cleanliness there is disgust at one's own body a
 
 **Plain words** In the text, cleanliness has an outer side (washing, clean food) and an inner side (clearing the mind of what clouds it). The inner one is what the tradition cares about, and it leads toward calm, gentleness and focus. Tidying a space can support that, though the commentary asks for much more than tidiness.
 
-*For example:* Imagined example: before sitting to write, you clear the desk and silence the phone. It is a small outer step that helps you notice what is crowding your head.
+*For example:* before sitting to write, you clear the desk and silence the phone. It is a small outer step that helps you notice what is crowding your head.
 
 (Yoga Sutras 2.32 and 2.40-2.41 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 181, 188-189, Internet Archive, opened 2026-10-21.)
 

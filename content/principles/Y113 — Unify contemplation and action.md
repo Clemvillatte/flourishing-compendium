@@ -24,7 +24,7 @@ The earlier version of this principle spoke of children arguing over the distinc
 
 **Plain words** Krishna refuses to split the way of knowledge from the way of action. He says that someone who masters one gains the fruit of both. A reasonable rule of thumb from this is to test insights by acting on them and to examine actions afterward. The rule is the principle's, not the Gita's.
 
-*For example:* Imagined example: after a morning of reflection on impatience, you note one meeting in the afternoon where you will pause before answering. That evening you look back at how it went.
+*For example:* after a morning of reflection on impatience, you note one meeting in the afternoon where you will pause before answering. That evening you look back at how it went.
 
 (Bhagavad-Gita ch. 5 and ch. 3, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388, opened 2026-10-21. Arnold's verses are unnumbered, so the old cites, 5.4-5.5 and 3.3, are not checked against a numbered edition.)
 

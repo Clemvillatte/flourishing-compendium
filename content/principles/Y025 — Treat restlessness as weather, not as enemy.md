@@ -24,7 +24,7 @@ Sutra 1.35 offers one way to steady the mind: "Or [he gains stability when] a se
 
 **Plain words** Restlessness is not shameful. Even Arjuna says it is like trying to hold the wind. The answer in these texts is repetition and detachment, practised over time, not a battle. "Weather" is the principle's image, not Arnold's or Patanjali's, but it fits the advice to give the mind a steady object and let the changes pass.
 
-*For example:* Imagined example: you sit to work and your mind pulls toward your phone. You do not argue with it. You return to one task, again and again, and the pull weakens with practice.
+*For example:* you sit to work and your mind pulls toward your phone. You do not argue with it. You return to one task, again and again, and the pull weakens with practice.
 
 (Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388; Yoga Sutras 1.12 and 1.35 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), Internet Archive; both opened 2026-10-21. The old cite "BG 6.34-6.35" is by verse number; Arnold's translation is unnumbered.)
 

@@ -24,7 +24,7 @@ Arnold's translation does not use the phrase "discipline destroys sorrow", thoug
 
 **Plain words** The Gita asks for balance in food, rest, recreation and effort, and warns against both too much and too little. It links this to a steady mind. Checking those four areas now and then is a sensible way to keep them in balance, though the check-in schedule comes from the principle.
 
-*For example:* Imagined example: once a month you note how you have been eating, sleeping, working and resting. You see that you have been skipping rest to meet deadlines, and you correct it before it hardens into habit.
+*For example:* once a month you note how you have been eating, sleeping, working and resting. You see that you have been skipping rest to meet deadlines, and you correct it before it hardens into habit.
 
 (Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388, opened 2026-10-21. Arnold's verses are unnumbered, so the verse numbers in the old cite, 6.16-6.17, are not checked here.)
 

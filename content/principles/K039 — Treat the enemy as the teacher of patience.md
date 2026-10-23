@@ -20,7 +20,7 @@ In VI.107-111, Shantideva treats an enemy as an aid to bodhisattva practice beca
 
 **Plain words** Choose a minor disagreement and identify the response you want to practise. You can work on that response while also asking the other person to change their behaviour.
 
-*For example:* Imagined example: a relative makes a sharp remark. You ask them to stop without replying with an insult.
+*For example:* a relative makes a sharp remark. You ask them to stop without replying with an insult.
 
 ## Sources
 

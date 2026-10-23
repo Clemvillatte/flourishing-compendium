@@ -24,7 +24,7 @@ The commentary gives an analogy: the foot has a "liability-to-scratches", the th
 
 **Plain words** The text locates the trouble in a mix-up between the one who sees and what is seen, not in your strength. A mix-up can be corrected, which is why the diagnosis is hopeful. The "I am weak" verdict is replaced by "I am confusing the instrument with myself". The tradition's fix is discrimination, practised over years, not a quick reframe.
 
-*For example:* Imagined example: someone with stage fright first thinks "I am broken". Seeing the fear as something that happens in the body and mind, and not as a statement about who they are, makes room to work on it.
+*For example:* someone with stage fright first thinks "I am broken". Seeing the fear as something that happens in the body and mind, and not as a statement about who they are, makes room to work on it.
 
 (Yoga Sutras 2.17 and 2.24 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 111, 140, Internet Archive, opened 2026-10-21. Sutras 2.18-2.23 not quoted.)
 

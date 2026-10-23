@@ -28,7 +28,7 @@ The text says the instability is in the cycle of craving, satisfaction and fresh
 
 **Plain words** Patanjali says that for a discerning person even pleasure carries a cost: it feeds craving and leaves residue. The point is to see how the cycle works. Using a pleasure's sudden collapse as a cue to ask where you placed stability is a modern application.
 
-*For example:* Imagined example: a good review lifts your mood, and a day later the mood is gone. You ask what you were counting on the review to do for you.
+*For example:* a good review lifts your mood, and a day later the mood is gone. You ask what you were counting on the review to do for you.
 
 (Yoga Sutra 2.15 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 132-133, Internet Archive, opened 2026-10-21.)
 

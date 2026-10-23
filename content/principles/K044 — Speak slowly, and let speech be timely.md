@@ -20,7 +20,7 @@ Shantideva's speech instruction calls for clear meaning, coherence and gentlenes
 
 **Plain words** Before replying, work out the point you want the other person to understand. As a compendium exercise, try phrasing it without an accusation, then decide whether and when to say it.
 
-*For example:* Imagined example: during a meeting, someone replaces an insult they were about to say with a specific question about the disputed decision.
+*For example:* during a meeting, someone replaces an insult they were about to say with a specific question about the disputed decision.
 
 ## Sources
 

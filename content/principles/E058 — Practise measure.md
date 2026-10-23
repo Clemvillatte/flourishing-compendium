@@ -24,7 +24,7 @@ Camus ties measure to Greek thought. Heraclitus, he says, "set a limit to this p
 
 **Plain words** Measure means holding two refusals at once. You do not say yes to everything as it is, and you do not say no to everything. You keep your protest and your limits together, even though that is tiring. Camus says it is tense because both sides keep pulling. For him this is a source of strength, not a half-measure.
 
-*For example:* Imagined example: a friend wants to rage against an employer that treated them badly. Measure is saying the harm was real and that you will not lie about colleagues or burn the references that might help you next year.
+*For example:* a friend wants to rage against an employer that treated them badly. Measure is saying the harm was real and that you will not lie about colleagues or burn the references that might help you next year.
 
 (Camus, The Rebel (1951), Part One and Part Five, "Moderation and Excess" and "Thought at the Meridian", trans. Anthony Bower; text opened 2026-10-21.)
 

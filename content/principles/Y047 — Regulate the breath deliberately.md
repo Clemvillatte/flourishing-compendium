@@ -28,7 +28,7 @@ The commentary says nothing about autonomic tone, a daily set time, or a calm-in
 
 **Plain words** In these texts, breath practice comes after the body is steady and aims to clear the mind's covering so that attention can hold. It is measured and regular, not casual. A fixed daily practice fits that spirit, though the daily schedule itself is the principle's advice, not Patanjali's.
 
-*For example:* Imagined example: after settling into a comfortable seat each morning, you count a slow, measured breath for five minutes. The count follows the sutra's rule that the breath is regulated in number.
+*For example:* after settling into a comfortable seat each morning, you count a slow, measured breath for five minutes. The count follows the sutra's rule that the breath is regulated in number.
 
 (Yoga Sutras 2.49-2.53 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 193-197, Internet Archive, opened 2026-10-21. Sutra 2.51 not quoted.)
 

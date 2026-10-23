@@ -24,7 +24,7 @@ The commentary speaks of restriction and emergence inside meditation. It does no
 
 **Plain words** In the text, practice works by tipping a balance. Each time restriction wins, its impression gets stronger and the mind rests more easily. If the impressions weaken, the old ones return. A good everyday rule is to protect the early repetitions, since they are the least stable.
 
-*For example:* Imagined example: someone who has never left a party early does so three times in a month. By the fourth week the question "should I stay?" has changed shape. It is a modern illustration of the pattern, not a claim from the sutras.
+*For example:* someone who has never left a party early does so three times in a month. By the fourth week the question "should I stay?" has changed shape. It is a modern illustration of the pattern, not a claim from the sutras.
 
 (Yoga Sutras 3.9-3.11 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 209-211, Internet Archive, opened 2026-10-21. Sutra 3.12 not quoted.)
 

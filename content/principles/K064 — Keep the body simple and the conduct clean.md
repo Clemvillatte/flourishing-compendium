@@ -24,7 +24,7 @@ In a song addressed to the benefactors gathered around him, Milarepa sums his co
 
 **Plain words** The song's one line of counsel to the gathered benefactors is to forsake negative deeds and accomplish virtue, with Milarepa offering his own example rather than a rulebook. The compendium's test for a habit: does it simplify or complicate?
 
-*For example:* Imagined example: a parent with a job, a mortgage and a sick relative practises by working honestly, keeping needs modest, and not lying at the school gate.
+*For example:* a parent with a job, a mortgage and a sick relative practises by working honestly, keeping needs modest, and not lying at the school gate.
 
 ## Sources
 

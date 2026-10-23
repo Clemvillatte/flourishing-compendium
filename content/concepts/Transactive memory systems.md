@@ -15,7 +15,7 @@ Wegner describes a transactive memory system as individual memory systems combin
 
 This definition includes both individual remembering and communication within the group.
 
-Imagined example: one partner remembers appointment dates and another remembers repair arrangements; they ask each other for the information.
+one partner remembers appointment dates and another remembers repair arrangements; they ask each other for the information.
 
 ### In the compendium
 

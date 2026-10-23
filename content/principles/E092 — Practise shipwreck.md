@@ -28,7 +28,7 @@ The German is Scheitern. In a note to his study of Jaspers, Jean Wahl records th
 
 **Plain words** Jaspers says hard limits, such as death, guilt and chance, always bring some failure. What changes is how you stand to it. You can hide from it and be hit later, or you can look at it and see what it shows. He does not promise that a shipwreck turns into a gift. He says the way you meet it shapes who you become.
 
-*For example:* Imagined example: a business you built collapses. One person spends years blaming others. Another, after months of grief, asks what the collapse showed about what they were actually after.
+*For example:* a business you built collapses. One person spends years blaming others. Another, after months of grief, asks what the collapse showed about what they were actually after.
 
 (Jaspers, Way to Wisdom (1951), pp. 21-22, trans. Ralph Manheim, full text at the Internet Archive; Wahl, "The Problem of Choice: Existence and Transcendence in the Philosophy of Jaspers," J. French and Francophone Philosophy 24:1 (2016); both opened 2026-10-21. Philosophy vols. 2-3 cited at second hand.)
 

@@ -24,7 +24,7 @@ Section 16 examines equipment that is damaged, missing or obstructive. Presence-
 
 **Plain words** A hammer can be encountered through the work it serves or examined for its properties. A breakdown draws attention to the tool, yet that attention may remain directed toward getting the job done.
 
-*For example:* Imagined example: a carpenter finds a hammer's handle cracked and examines the damage while deciding how to finish the repair.
+*For example:* a carpenter finds a hammer's handle cracked and examines the damage while deciding how to finish the repair.
 
 ## Sources
 

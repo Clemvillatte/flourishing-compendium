@@ -27,7 +27,7 @@ Tilopa's Six Words of Advice: five negative instructions followed by a sixth wor
 
 **Plain words** The instruction is six words: don't recall, don't imagine, don't think, don't examine, don't control, rest. In the compendium's gloss, the first five name the mind's ways of leaving the present, and the sixth is what is left when they stop. Use them as a portable reset.
 
-*For example:* Imagined example: standing in a queue with a racing mind, someone runs through the six words and arrives, for a moment, in the queue.
+*For example:* standing in a queue with a racing mind, someone runs through the six words and arrives, for a moment, in the queue.
 
 ## Sources
 

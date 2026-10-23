@@ -20,7 +20,7 @@ In V.2-3, Shantideva compares an unguarded mind to a dangerous elephant and pres
 
 **Plain words** During a difficult moment, ask what you are thinking and what you are about to do. This exercise draws attention to your response while leaving room to address the external problem too.
 
-*For example:* Imagined example: after receiving a message asking to talk, someone distinguishes the message's actual words from their own guess that it means bad news.
+*For example:* after receiving a message asking to talk, someone distinguishes the message's actual words from their own guess that it means bad news.
 
 ## Sources
 

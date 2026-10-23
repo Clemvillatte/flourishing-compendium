@@ -24,7 +24,7 @@ In Arnold's rendering the Gita passage asks for a "fair, still spot" that is nei
 
 **Plain words** The Gita asks for a still place that is neither too high nor too low, and a steady body. Patanjali asks that the posture be steady and easy. The idea of using the same spot each time is a modern suggestion that fits those instructions.
 
-*For example:* Imagined example: you keep one cushion in a corner of a quiet room and sit there each morning. After a few weeks, sitting there starts to feel like the beginning of the practice.
+*For example:* you keep one cushion in a corner of a quiet room and sit there each morning. After a few weeks, sitting there starts to feel like the beginning of the practice.
 
 (Bhagavad-Gita ch. 6, trans. Sir Edwin Arnold, The Song Celestial, Project Gutenberg #2388; Yoga Sutra 2.46 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 191, Internet Archive; both opened 2026-10-21.)
 

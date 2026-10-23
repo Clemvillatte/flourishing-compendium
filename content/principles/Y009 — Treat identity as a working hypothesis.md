@@ -24,7 +24,7 @@ Treating identity as a working hypothesis is a modern practical gloss. The text 
 
 **Plain words** The sutra says the part of you that sees is not the same as the tools it sees through, such as your body, mind and roles. We tend to run them together. The tradition wants you to notice the gap, and that is what the daily practice trains. You can use your roles fully and still not take them for the one using them.
 
-*For example:* Imagined example: someone loses a job and feels they have lost themselves. The practice is to say: the role was a tool I used, and the one who used it is still here to decide what comes next.
+*For example:* someone loses a job and feels they have lost themselves. The practice is to say: the role was a tool I used, and the one who used it is still here to decide what comes next.
 
 (Patanjali, Yoga Sutra 2.6, with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (Harvard Oriental Series 17, 1914), pp. 115-116, Internet Archive, opened 2026-10-21.)
 

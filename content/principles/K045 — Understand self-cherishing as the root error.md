@@ -20,7 +20,7 @@ In chapter 8, Shantideva attributes violence, fear and suffering to grasping at 
 
 **Plain words** The verse says the world's violence and fear grow out of gripping a self. The chapter's prescribed practice is to swap places in imagination, and the compendium turns that into an exercise: when two cases compete for your attention, try taking the other's as yours and see what changes.
 
-*For example:* Imagined example: in a queue, someone pushes ahead of you; before deciding what to feel, you ask what the moment looks like from their side and from the bystanders'.
+*For example:* in a queue, someone pushes ahead of you; before deciding what to feel, you ask what the moment looks like from their side and from the bystanders'.
 
 ## Sources
 

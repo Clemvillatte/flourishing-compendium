@@ -24,7 +24,7 @@ The text gives a ladder of four forms that grow less gross by subtraction, with 
 
 **Plain words** Woods' commentary describes four kinds of conscious concentration, each with less in it than the one before: first reasoning about a coarse object, then a subtler look at it, then joy, then only the sense of being oneself. The advice to move from the easy coarse object to a finer one is the principle's way of using this ladder.
 
-*For example:* Imagined example: counting breaths becomes easy, so you drop the count and follow the finer sensation of air at the nostrils. That is a modern use of the idea of moving to finer objects.
+*For example:* counting breaths becomes easy, so you drop the count and follow the finer sensation of air at the nostrils. That is a modern use of the idea of moving to finer objects.
 
 (Yoga Sutra 1.17 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 40, Internet Archive, opened 2026-10-21. Woods renders vitarka as deliberation and vicara as reflection; the principle's "reasoning" and "beyond reasoning" are other translators' words.)
 

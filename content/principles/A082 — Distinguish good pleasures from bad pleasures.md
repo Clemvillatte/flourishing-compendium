@@ -22,7 +22,7 @@ He also says that a pleasure proper to an activity intensifies that activity. ([
 
 **Plain words** Enjoying something does not settle whether it is worth doing. Ask what action you are enjoying and whether you have reason to approve of it.
 
-*For example:* Imagined example: a competitor enjoys playing well, then notices she also enjoys her opponent's humiliation. She can assess those sources of enjoyment separately.
+*For example:* a competitor enjoys playing well, then notices she also enjoys her opponent's humiliation. She can assess those sources of enjoyment separately.
 
 ## Sources
 

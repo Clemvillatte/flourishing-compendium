@@ -24,7 +24,7 @@ Sartre insists on revisability. The initial project can change by "a radical con
 
 **Plain words** Under your daily choices lies a basic stance toward the world and yourself, a project you are already living. Sartre says you do not choose it by weighing pros and cons; weighing only makes sense inside it. You can notice it, because it is not hidden, and you can change it, though not by a simple resolution. Change would be a turn in the whole project, and every old reason would then look different.
 
-*For example:* Imagined example: someone always treats work as a test they might fail. They notice that every reason they give for overworking assumes that stance. Changing it means changing what counts as a reason at all.
+*For example:* someone always treats work as a test they might fail. They notice that every reason they give for overworking assumes that stance. Changing it means changing what counts as a reason at all.
 
 (Sartre, Being and Nothingness, Part IV, ch. 1, §I, pp. 461-465, trans. Hazel Barnes, Internet Archive, opened 2026-10-21. The old cite "Part IV, ch. 2" was corrected.)
 

@@ -20,7 +20,7 @@ Verse 13 of the Ganges Mahamudra asks the practitioner to let what arises settle
 
 **Plain words** The verse tells the practitioner to let what arises settle by itself, the way patterns settle in water. The compendium exercise: take one minute and add nothing; notice the difference between watching a thought and fixing one.
 
-*For example:* Imagined example: sitting down and, instead of trying to calm yourself, letting restlessness be restlessness, and noticing whether it settles on its own after a while.
+*For example:* sitting down and, instead of trying to calm yourself, letting restlessness be restlessness, and noticing whether it settles on its own after a while.
 
 ## Sources
 
