@@ -25,6 +25,10 @@ For example: a text message arrives that reads as a slight. The reader notices a
 
 (Dhammapada 17, 222-223.)
 
+## Related concepts
+
+- [[T013 — Seneca]]: the anger-examined-early teaching (On Anger) the page lists.
+
 ## Psychology parallels
 
 - **[[Emotion regulation|Emotion-regulation timing]]** (Gross, 1998; 2015)

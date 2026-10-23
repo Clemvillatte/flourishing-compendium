@@ -26,6 +26,10 @@ The verse also describes someone whose commands are fulfilled while he works hum
 
 *For example:* Suppose a colleague sends a sharp email about a missed deadline. Save your first response as a draft. When you reread it, keep the explanation of what happened and the proposed next step; remove the personal jab.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the Seneca on Anger story (ST205) the page carries.
+
 ## Stories
 
 - [[ST146 — Achilles' Disproportionate Rage|146. Achilles' Disproportionate Rage]]

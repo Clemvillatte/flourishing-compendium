@@ -25,6 +25,10 @@ Take an inventory of what is already running well: health enough to read this, s
 
 *For example:* Imagine two neighbors with identical lawns: one is planning the upgrade, one is barefoot in it. The wealth difference for that hour is not in the lawns.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the sufficiency teaching from the Letters the page draws.
+
 ## Sources
 
 - [Dhammapada Sukhavagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.15.budd.html) — verse 204

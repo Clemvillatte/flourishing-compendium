@@ -28,6 +28,10 @@ The paradox is the point: economy is what makes liberality possible. Chapter 59 
 
 *For example:* The freelancer who keeps expenses low can say no to a nightmare client; the one leveraged to the hilt can't afford to.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the voluntary-discomfort teaching (Letters) the page lists.
+
 ## Sources
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 59, 67

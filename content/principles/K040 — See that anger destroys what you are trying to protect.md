@@ -23,6 +23,10 @@ In verses 6.70-71, Shantideva compares hatred spreading in the mind with a fire 
 
 *For example:* Imagine drafting an insulting email after a colleague misses a deadline. You leave it unsent and write another version explaining what the delay affected and asking when the work will be ready.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the anger-as-temporary-madness teaching (De Ira) the page lists.
+
 ## Sources
 
 - [Shantideva, Bodhicharyavatara ch. 6 (Patience), trans. Kate Crosby and Andrew Skilton, in the Triratna study text Cultivating the Heart of Patience](https://thebuddhistcentre.com/system/files/groups/files/bodhicaryavatara_-_chapter_on_patience.pdf) — vv. 1, 3, 5, 70-71

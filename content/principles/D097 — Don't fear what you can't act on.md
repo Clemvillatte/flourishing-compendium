@@ -22,6 +22,10 @@ The friend's cure is not reassurance; it is physics. Sky is accumulated air, eve
 
 *For example:* A colleague hears a rumor of layoffs and loses a week of sleep. Another hears the same rumor, spends ten minutes updating a resume and sending two emails, then stops. Both faced the same uncertainty. Only one of them was still functional when the rumor dissolved.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the premeditatio malorum teaching (Letters) the page lists.
+
 ## Psychology parallels
 
 - **[[Intolerance of uncertainty|Intolerance of uncertainty]]** (Dugas et al., 1998), predicts worry and GAD

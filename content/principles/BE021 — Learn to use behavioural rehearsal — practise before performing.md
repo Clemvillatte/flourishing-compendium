@@ -22,6 +22,10 @@ Two details from the same notes shape the practice. Participants take turns play
 
 *For example:* someone who dreads asking the landlord for repairs first role-plays the request with a friend playing the landlord, then swaps parts to hear what the request sounds like from the other side.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the rehearsal-of-virtue teaching the page lists.
+
 ## Sources
 
 - [Linehan, DBT Skills Training Manual, 2nd ed. (2015), reproducible teaching notes (Guilford PDF)](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1) — rehearsal formats section: role-play with leader and participants, dialogue rehearsal, covert rehearsal, both-part role-play rationale

@@ -31,6 +31,10 @@ Say the facts to yourself plainly: I am subject to aging, illness, and death; I 
 
 *For example:* Imagine two free hours: answering backlog email, or calling the person you keep meaning to call. Run both through the five facts and notice which one survives.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the On the Shortness of Life source the page lists.
+
 ## Sources
 
 - [Access to Insight: Upajjhatthana Sutta (AN 5.57), tr. Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html) — the five facts for frequent reflection

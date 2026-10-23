@@ -24,6 +24,10 @@ For a decision that matters, write down what you expect and what evidence you us
 **For example**
 Before launching a venture, estimate the costs of a delayed launch. Record what you would change if sales fell below your forecast.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the premeditatio malorum teaching the page lists.
+
 ## Sources
 
 - [Sharot, The Optimism Bias, Current Biology 2011, author's PDF](https://affectivebrain.com/wp-content/uploads/2014/09/Sharot-T.-2011-The-Optimism-Bias.-Current-Biology.pdf) — definition passage verified verbatim

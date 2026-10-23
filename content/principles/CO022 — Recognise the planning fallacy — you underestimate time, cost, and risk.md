@@ -27,6 +27,10 @@ The claims made here concern task duration, as investigated in the paper ([abstr
 ### For example
 
 Suppose your last essay took longer because you had to request sources and revise a difficult section. Before promising a date for the next essay, check whether those steps are still required.
+## Related concepts
+
+- [[T013 — Seneca]]: the humility-about-one's-powers teaching (Letters) the page lists.
+
 ## Psychology parallels
 
 - **[[Planning fallacy|Planning fallacy]]**, people underestimate task duration and overestimate benefits (Buehler et al., 1994; Kahneman & Tversky, 1979)

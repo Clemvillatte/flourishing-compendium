@@ -27,6 +27,10 @@ Plausibility is not proof: Mitchell and colleagues' experiments examined explana
 ### For example
 
 Suppose your writing group plans a public reading. Someone imagines that the venue falls through; the group could check the booking and discuss a backup rather than assuming the imagined failure is likely.
+## Related concepts
+
+- [[T013 — Seneca]]: the premeditatio malorum teaching (Letters) the page lists.
+
 ## Psychology parallels
 
 - **[[Pre-mortem technique|Pre-mortem technique]]**: Klein's method generates plausible failure explanations for review, rather than verified predictions ([Klein, 2007](https://lmscontent.embanet.com/USC/PPD554/Week10/PPD554_W10_HBR_Klein_Performaing_a_Project_Premortem.pdf)).

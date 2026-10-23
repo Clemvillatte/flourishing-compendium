@@ -26,6 +26,10 @@ The model has limits. One study found that worry was associated with less imager
 
 *For example:* The night before a presentation, someone loops through everything that could go wrong, then notices there is no outline. Writing the first slide heading is the move from worry to preparation.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the premeditatio-vs-catastrophising distinction the page draws.
+
 ## Sources
 
 - [Borkovec & Hu (1990), Behav Res Ther 28(1), 69-73](https://pubmed.ncbi.nlm.nih.gov/2302151/) — PubMed abstract opened

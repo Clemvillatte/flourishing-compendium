@@ -28,6 +28,10 @@ It is the sixth of sixteen commitments in that section, and commonly numbered sl
 
 For example: sit for ten minutes with no aim of becoming calmer, and notice what the sitting is like when nothing is being measured.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the virtue-is-its-own-reward teaching (De Vita Beata) the page lists, unverified there.
+
 ## Sources
 
 - Geshe Chekawa Yeshe Dorje, [Seven Points of Mind Training](https://www.lotsawahouse.org/tibetan-masters/geshe-chekhawa-yeshe-dorje/seven-points-mind-training), trans. Adam Pearcey (2012), point 6 (Lotsawa House)

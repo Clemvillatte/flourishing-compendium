@@ -24,6 +24,10 @@ They frame the paradox itself as "a common habit of mind: People reason more wis
 
 ## Related concepts
 
+- [[T013 — Seneca]]: the wisdom-as-highest-virtue teaching the page lists.
+
+## Related concepts
+
 - [[SE016]] — CO065’s page discusses the Grossmann and Kross finding that self-distancing eliminated the wisdom asymmetry; SE016 reports the third-person self-talk method for creating that distance under social stress.
 
 ## Sources

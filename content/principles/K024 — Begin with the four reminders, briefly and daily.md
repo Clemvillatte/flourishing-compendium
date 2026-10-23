@@ -22,6 +22,10 @@ The root text of the Seven-Point Mind Training opens with one line, "Train first
 
 *For example:* A compendium exercise: thirty seconds at the kitchen table before the day starts, one thought each: I'm healthy enough to be here, this won't last, what I do today has consequences, and there are costs to drifting.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the memento mori teaching (Letters 101) the page lists.
+
 ## Sources
 
 - [Geshe Chekawa, "Seven Point Mind Training", Togme Zangpo edition (Berzin translation)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/seven-point-mind-training)

@@ -21,6 +21,10 @@ Most of us expect a thank-you to feel more awkward and less welcome than it turn
 
 *For example:* A colleague covered your shift when you were ill. You send a message saying "Thank you for covering on Thursday. It meant I could rest, and I noticed." The message follows the specific style the letter studies used.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the gratitude teaching (On Benefits) the page lists.
+
 ## Sources
 
 - [Kumar, A. & Epley, N. (2018), Undervaluing gratitude: Expressers misunderstand the consequences of showing appreciation, Psychological Science 29(9), 1423–1435 (abstract)](https://pubmed.ncbi.nlm.nih.gov/29949445/)
