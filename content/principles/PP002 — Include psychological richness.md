@@ -27,6 +27,10 @@ The paper's claim is that "interesting, varied, perspective-changing" names a th
 
 *For example:* Suppose you spend six months in a country whose language you do not speak. The paper's definition does not promise the time will be happy or meaningful; what it would ask is whether the experience changed your perspective.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) the page lists for richness of life.
+
 ## Sources
 
 - [Oishi & Westgate, "A psychologically rich life: Beyond happiness and meaning," Psychological Review 129(4), 2022 — abstract (PubMed)](https://pubmed.ncbi.nlm.nih.gov/34383524/) — the proposal and definition passage; the survey findings passage

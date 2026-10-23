@@ -354,11 +354,23 @@
   "content/principles/MO072 — Recognise clinical motivational symptoms — when motivation problems require evaluation.md",
   "content/principles/MO074 — Learn to assess and monitor motivation — track your patterns.md",
   "content/principles/MO075 — Build motivational maintenance — ongoing practice and adaptation.md",
-  "content/principles/P008 — Take perspectives seriously — the human measure is real.md"
+  "content/principles/P008 — Take perspectives seriously — the human measure is real.md",
+  "content/principles/P048 — Think reflectively — turn experience over.md",
+  "content/principles/PP002 — Include psychological richness.md",
+  "content/principles/PP010 — Distinguish intrinsic from extrinsic aspirations.md",
+  "content/principles/PP043 — Practise humility as accurate self-assessment.md",
+  "content/principles/PP050 — Practise tolerance of uncertainty.md",
+  "content/principles/PP058 — Practise curiosity as a disposition.md",
+  "content/principles/PP068 — Connect practices to values.md",
+  "content/principles/S001 — Distinguish what is up to you from what is not.md",
+  "content/principles/S003 — Recognise that you are disturbed not by things but by your judgements about them.md",
+  "content/principles/S017 — Refuse to see externals as good or bad.md",
+  "content/principles/S021 — Do not desire externals as if they were permanent.md",
+  "content/principles/S039 — Be a good family member.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:24:19+00:00",
+ "updated": "2026-10-23T14:24:37+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

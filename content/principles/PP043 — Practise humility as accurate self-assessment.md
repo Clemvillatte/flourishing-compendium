@@ -23,6 +23,10 @@ Humility here is not putting yourself down. The exercise is listing where you in
 
 *For example:* Imagine an engineer who lists her own assessment of her strengths and limitations, then asks a colleague she respects for the same list about her, and compares the two.
 
+## Related concepts
+
+- [[T011 — Socrates]]: Socratic ignorance: knowing that you do not know, the page's humility exemplar.
+
 ## Sources
 
 - Davis, D. E., "Relational Humility" (doctoral dissertation, Virginia Commonwealth University, 2011) — [full text, VCU Scholars Compass](https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=3292&context=etd)

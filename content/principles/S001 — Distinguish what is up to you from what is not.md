@@ -23,6 +23,10 @@ He warns that treating what belongs to others as your own will leave you hindere
 
 *For example:* Suppose tomorrow's exam paper has already been set. Choose what to review tonight without assuming that studying a topic guarantees it will appear.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the Crito story (ST141) the page lists: refusing the easy exit when the question is open.
+
 ## Stories
 
 - [[ST033 — Mandela's Twenty-Seven Years|33. Mandela's Twenty-Seven Years]]

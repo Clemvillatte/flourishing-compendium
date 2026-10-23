@@ -23,6 +23,10 @@ The model's finding is that goals consistent with your developing interests and 
 
 *For example:* Imagine a parent who meditates so he can actually listen at dinner; whether that reason sustains the practice is for him to observe.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) for practices tied to values.
+
 ## Sources
 
 - Sheldon, K. M., & Elliot, A. J., "Goal striving, need satisfaction, and longitudinal well-being: the self-concordance model", Journal of Personality and Social Psychology 76(3) (1999), pp. 482-497 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/10101878/)

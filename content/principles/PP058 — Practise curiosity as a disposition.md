@@ -22,6 +22,10 @@ Curiosity is a habit of meeting the unknown with interest. It goes with a fuller
 **For example**
 Once a day, when something confuses you, write down the question before you look for the answer. At the end of the week, pick one question and spend twenty minutes on it.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) behind curiosity as a way of life.
+
 ## Sources
 
 - [Kashdan et al. 2009, Curiosity and Exploration Inventory-II](https://pubmed.ncbi.nlm.nih.gov/20160913/)

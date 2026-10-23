@@ -22,6 +22,10 @@ The definition follows immediately, and it is one of the most quoted sentences i
 
 *For example:* Two people go through the same bad month at work. One complains about it and moves on. The other spends fifteen minutes on the last Friday writing down what actually went wrong and what they would do differently. A year later the second person has fifty small corrections applied; the first has had the same month twelve times.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) for turning experience over.
+
 ## Psychology parallels
 
 - **[[Expressive writing|Expressive writing and reflection]]**, meaning-making improves outcomes (Pennebaker and Beall, 1986)

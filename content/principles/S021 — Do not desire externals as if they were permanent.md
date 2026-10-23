@@ -23,6 +23,10 @@ After redundancy, someone can still want another job and worry about the bills. 
 
 *For example:* A person whose confidence rests on her job title is shaken at redundancy. One whose confidence rests on how she treats people carries it to the next job.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the oracle story (ST152) the page lists: knowing what you do not know.
+
 ## Sources
 
 - [Epictetus, Discourses I.25, Oldfather translation, The Stoic Library](https://thestoiclibrary.com/discourses/1/25) — the moral-choice rule; the faithfulness passage

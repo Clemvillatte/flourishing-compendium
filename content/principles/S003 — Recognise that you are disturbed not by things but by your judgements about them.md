@@ -28,6 +28,10 @@ The compendium's practical reading: the same event can be read as catastrophe or
 
 *For example:* Two cyclists get a flat tyre on the same road. One reads it as ruin of the day, one as a chance to stretch her legs.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the exemplar behind Epictetus's Enchiridion teaching, which the page's source cites.
+
 ## Sources
 
 - [Epictetus, Enchiridion 5 (Internet Classics Archive)](https://classics.mit.edu/Epictetus/epicench.html) — quotations verbatim

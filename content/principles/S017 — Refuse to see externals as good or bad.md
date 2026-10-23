@@ -26,6 +26,10 @@ For the psychology, Sahdra, Shaver and Brown describe nonattachment as "based on
 
 *For example:* A freelancer loses a client and first feels it as a verdict on their worth. They then ask whether they dealt honestly, and answer yes. The loss still stings and is no longer a disaster.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the exemplar Epictetus's formulation leans on, the page's source.
+
 ## Sources
 
 - [Epictetus, Enchiridion (trans. E. Carter), sections 1, 5, 32](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, page opened

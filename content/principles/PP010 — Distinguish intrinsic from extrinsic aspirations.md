@@ -32,6 +32,10 @@ These are associations from observational studies, not proof that wealth or reco
 
 *For example:* Imagine someone who starts a company to help farmers. Two years in, every decision is about valuation, and the farmers rarely come up. In the studies' terms, the centre of their goals has moved.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) the page gives for examining aspirations.
+
 ## Stories
 
 - [[ST016 — Thoreau's Bean Field|16. Thoreau's Bean Field]]

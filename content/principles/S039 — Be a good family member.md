@@ -32,6 +32,10 @@ Musonius's ground is that "marriage, if anything, is manifestly in accord with n
 
 For example: someone whose evening practice is Stoic reading, and whose mother calls every night to worry, takes the call itself as the practice: listening without fixing, keeping the tone even, ending warmly.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the marriage reply the page quotes: no handicap to the pursuit of worth.
+
 ## Psychology parallels
 
 - **[[Family systems theory|Family systems theory]]** (Bowen, 1978)

@@ -22,6 +22,10 @@ The urge to settle questions fast can feed worry. People who can't stand not kno
 **For example**
 You are waiting on test results and notice the urge to search symptoms again. You write the question down, do something else, and leave the answer until the appointment.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) the page lists for tolerating the unexamined.
+
 ## Sources
 
 - [Carleton (2012), The intolerance of uncertainty construct in the context of anxiety disorders, Expert Rev. Neurother.](https://pubmed.ncbi.nlm.nih.gov/23002938/): abstract opened
