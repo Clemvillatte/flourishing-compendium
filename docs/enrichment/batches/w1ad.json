@@ -14,7 +14,6 @@
   "Seriousness (le sérieux)",
   "Shipwreck (Scheitern)",
   "Silence in negotiation research",
-  "Sisyphus",
   "Social epistemology",
   "Socioemotional selectivity theory (Carstensen)",
   "Socratic elenchus",
@@ -67,7 +66,8 @@
   "Self-transcendent emotions",
   "Self-transformation over information",
   "Self-making",
-  "Shamefastness as quasi-virtue"
+  "Shamefastness as quasi-virtue",
+  "Sisyphus"
  ],
  "in_progress": null,
  "flagged": {
@@ -108,10 +108,11 @@
   "Sparse speech": "Reopened for QC: QC routing 2026-10-23: prose-short seed (132w) below the 150-word bar; expansion to bar",
   "Stigma research": "Reopened for QC: QC routing 2026-10-23: prose-short seed (132w) below the 150-word bar; expansion to bar",
   "Te Whare Tapa Whā": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
-  "Shamefastness as quasi-virtue": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar"
+  "Shamefastness as quasi-virtue": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
+  "Sisyphus": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:21:48+00:00",
+ "updated": "2026-10-23T06:22:11+00:00",
  "band_done": false
 }

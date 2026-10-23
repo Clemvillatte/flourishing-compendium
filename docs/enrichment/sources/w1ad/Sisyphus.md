@@ -1,13 +1,9 @@
-# w1ad evidence: Sisyphus
+# Sisyphus — w1ad takeover (worker-pplx-w1ad-436b6873, 2026-10-23)
 
-- Item: Sisyphus (w1ad manifest, fast-track bar, degree 7 at start).
-- Carrier opened this session: Camus, The Myth of Sisyphus and Other Essays, trans. Justin O'Brien (1955), full text at Internet Archive https://archive.org/stream/CamusMythOfSisyphusAndOtherReadings/Camus%20Myth%20of%20Sisyphus%20and%20other%20readings_djvu.txt (downloaded raw; final chapter grepped; the OCR has mechanical artifacts, e.g. "thi nk s" for "thinks", "es-sential" for "essential"; all quoted passages read clean in context).
-- Quotations: all verified against the opened carrier: the "Sisyphus, proletarian of the gods" passage (block, verbatim incl. "There is no fate that cannot be surmounted by scorn"); "works every day in his life at the same tasks, and this fate is no less absurd. But it is tragic only at the rare moments when it becomes conscious" (opening paragraph); "That hour like a breathing-space which returns as surely as his suffering, that is the hour of consciousness"; "His fate belongs to him. His rock is his thing."; the closing two sentences (block). Quoted fragments embedded mid-sentence keep the source's capitalization (K207/K244 precedent).
-- Consistency: E057 quotes the same passages from the same translation; the page's compendium line matches E057's own reading ("the task does not become light, but it becomes yours").
-- Scope: final chapter only, per the fast-track bar; no claim about the essay's earlier chapters beyond what the opening paragraph states.
-- QC disposition: validator ok vs seed baseline 7b2d6ca; advisor QC not due this item (milestone QC due at item 5).
-
-- Advisor milestone round repairs applied: 1942 verified via the SEP Camus entry (opened this session; October 1942 publication of the French original) and added to Sources; heading renamed "The conscious descent"; the Boundary situations related row removed (the Camus-Jaspers comparison was the compendium's, not an opened source's); the Breakdown as breakthrough gloss grounded in that page's own Scheitern discussion (read this session); the closing block's citation made a full link instead of "same chapter"; quotations verified directly against the downloaded O'Brien full text (E057 used only to confirm the compendium's reading, not to authenticate Camus).
-- Degree note: the neighbors output showed the citing principle E057's degree (7), not the concept's; the concept has one principle neighbor.
-
-- Advisor rounds 3-4 (milestone): round-3 repairs (inline Camus citations after the workman quotation and the conscious-descent paragraph; Breakdown row reduced to a bare link) plus the round-4 final edit ("His fate belongs to him. His rock is his thing." now carries its inline citation; the interpretive "not a report that Sisyphus feels good" clause removed and the closing blockquote introduced directly). Verdict: scoped PASS (this page, this evidence).
+Item class: prose-short expansion found in the w1ad manifest sweep at the NORMAL profile
+(148 -> 165 words; supervisor-milestone-PASS item, this pass closes the 2-word gap to the
+full bar). Carrier opened this session: the Internet Archive djvu.txt of the O'Brien 1955
+translation, downloaded raw. All quoted fragments re-verified verbatim against the fetched
+text (djvu OCR spacing artifacts aside, word-for-word). One new quoted fragment added
+("he is superior to his fate. He is stronger than his rock."), verbatim from the same
+fetched chapter. Validator ok at the normal profile.
