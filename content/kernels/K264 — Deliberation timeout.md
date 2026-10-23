@@ -33,7 +33,7 @@ What the research does not test: these are findings on affective forecasting and
 
 ### A guided version
 
-None located; the timeout is a self-imposed rule rather than a guided exercise, and no official recording of it exists.
+Elisha Goldstein's [STOP Practice (5 Minutes) on Insight Timer](https://insighttimer.com/drelishagoldstein/guided-meditations/stop-practice-5-minutes) is a guided audio recording of the pause itself: Stop, Take a breath, Observe body, feelings and thoughts, then Proceed by asking "what's most important for me to pay attention to right now?" — the timeout made guided, for moments too hot to run it unaided.
 
 ## Operationalises
 
