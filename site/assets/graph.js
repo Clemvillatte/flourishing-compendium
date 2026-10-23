@@ -123,8 +123,9 @@ let scopeValue = 'all';
 let findMatches = [], findIdx = 0;   // search cache (shared: bindEvents' handlers + fcGraph.focus reset it)
 // Launch defaults: principles + kernels on (the user's "principles only" wish —
 // concepts/theories/stories are 4,500+ nodes and make the first launch laggy;
-// the full set is one click away on the toggle bar).
-const kindOn = { principle: true, kernel: true, concept: false, theory: false, story: false, saying: false };
+// the full set is one click away on the toggle bar). Thinkers are on (25 nodes,
+// the owner's directed focus); missing this key toggles a kind off with no button.
+const kindOn = { principle: true, kernel: true, concept: false, theory: false, story: false, saying: false, thinker: true };
 const KIND_LABEL = { principle: 'Principle', kernel: 'Kernel', concept: 'Concept', theory: 'Theory', story: 'Story', saying: 'Saying', thinker: 'Thinker' };
 const KIND_PLURAL = { principle: 'Principles', kernel: 'Kernels', concept: 'Concepts', theory: 'Theories', story: 'Stories', saying: 'Sayings', thinker: 'Thinkers' };
 
@@ -356,7 +357,7 @@ function buildScopeOptions() {
 function applyScope(val) {
   scopeValue = val;
   const vis = new Set();
-  const conceptish = k => k === 'concept' || k === 'theory' || k === 'hub' || k === 'discipline';
+  const conceptish = k => k === 'concept' || k === 'theory' || k === 'hub' || k === 'discipline' || k === 'thinker';
   for (const n of G.nodes) {
     const pp = (n.e._navigation || {}).primaryPath || [];
     if (val === 'all' || pp.indexOf(val) >= 0) vis.add(n.id);
