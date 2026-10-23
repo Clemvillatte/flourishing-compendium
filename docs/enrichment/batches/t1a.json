@@ -18,10 +18,11 @@
   "John Dewey": "QC round-2 applied: democracy claim narrowed",
   "Siddhartha Gautama (the Buddha)": "QC round-2 applied: duration claims removed, sayings labeled, reciprocal regenerated on Buddha key",
   "Epictetus": "QC round-2 applied: leg anecdote re-cited to Long introduction, education passage re-cited",
-  "Baruch Spinoza": "QC rounds 4-5 applied: blockquote trimmed to SEP facts, SEP-grounded why, herem uncertainty restored, SP book identified and audited (all 107 Connected entries carry explicit Spinoza references, verified programmatically), note matches audited content"
+  "Baruch Spinoza": "QC rounds 4-5 applied: blockquote trimmed to SEP facts, SEP-grounded why, herem uncertainty restored, SP book identified and audited (all 107 Connected entries carry explicit Spinoza references, verified programmatically), note matches audited content",
+  "Friedrich Nietzsche": "QC applied: blockquote dated per SEP, GS 276 contiguous, will-to-power dispute added, ST296 labeled film illustration, Panta rhei moved to draft as unaudited hit, book-absence inference dropped"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:51:13+00:00",
+ "updated": "2026-10-23T05:55:07+00:00",
  "band_done": false
 }
