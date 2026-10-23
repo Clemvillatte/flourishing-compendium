@@ -191,3 +191,7 @@ FULL-BAND BUDGET SWEEP (all 12 t1b thinkers, display-text counter): three inheri
 VERIFICATION: all 8 pages edited this session validate ok vs the pre-session baseline b4589d67 (5 checked earlier + T018/T021/T022 re-validated after the budget fixes: 3 checked, 0 failed); build.py clean (5880 entries). The Maynooth CBS-definition check settled: the PDF prints BOTH "multidimensional" (section 2) and "multi-dimensional" (the later re-printing of the definition); the page's quote matches the second occurrence verbatim — no repair needed.
 
 ROUTED NOTE for the next pass (not fixed this session, time-boxed): T022 Kahneman Core ideas bullet 1 repeats the System 1/System 2 quotes already used in Position (inherited duplicate-quote class, same as the T014 lead/why case the supervisor routed earlier); a paraphrase in the bullet would resolve it.
+
+### Round-4 grammar repairs (worker-pplx-t1b-2233, per advisor round-3 verdict)
+
+T018 final grammar fixes: the ren bullet now separates the character-composition claim from the translation range with a semicolon; the junzi bullet's dangling (4.16) locator removed from the translation-only gloss (the 4.16 passage stays quoted in Position); gloss tightened elsewhere to hold the core budget. Scoped repair completion recorded: eight pages repaired this session, twelve budget-checked; no claim of independent re-verification of inherited sources beyond the carriers opened this session. T022's repeated System 1/System 2 quotation remains routed as non-blocking editorial cleanup.
