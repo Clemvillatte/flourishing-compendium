@@ -542,3 +542,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: the four components are the kernel's own form; the study supports the narrower finding that other-focused additions read as more sincere. Inherited Lazare claim not opened and replaced with the opened study.
 - Mention check run (before this entry): K341 already linked from A023/S011/R005/R065 and K289; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K343 — Needs-before-solutions (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Sahi, He, Silvers & Eisenberger 2023 (Emotion 23(6):1522-1535), two experiments (N=50, N=268), abstract verified raw via NCBI efetch (PMID 36480403); author list read from the efetch header.
+- The blockquote (validation most comforting sentence) matches the raw efetch text verbatim.
+- Honesty on page: feedback-type comfort measured, not the advice-withholding ordering; long-term distress reduction not tested. Inherited "feeling understood reduces distress more than advice" grounded to the opened contrast.
+- Mention check run (before this entry): K343 already linked from A063/S011/R005/R055 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
