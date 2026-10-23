@@ -13,6 +13,8 @@ Dialogue is the exchange in which each person turns to the other as a Thou rathe
 
 For Buber, the two primary words are I-Thou and I-It: the first "can only be spoken with the whole being", and the second "can never be spoken with the whole being". Dialogue is what happens between two people who speak the first word to each other; the I-It relation experiences and uses rather than meets. Gadamer's version of the idea makes understanding itself conversational, a coming-together of horizons, and Marcel's makes presence a matter of availability to another.
 
+The stakes are easy to miss because the everyday word is cheap. Anyone can talk; dialogue in this sense is the rarer event where each speaker is met rather than merely processed. Buber's contrast gives the test: the I-It relation experiences and uses, the I-Thou relation meets. A conversation can be technically fluent and entirely I-It, two people using each other as sounding boards for positions already held.
+
 ### In the compendium
 
 - [[R038 — Practise whakawhanaungatanga]], [[R046 — Practise talanoa]], [[R081 — Practise I-Thou]] and [[R091 — Practise the word that is spoken]] are this concept's philosophy parallels
