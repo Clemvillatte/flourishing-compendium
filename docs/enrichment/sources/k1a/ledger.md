@@ -384,3 +384,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Inherited "tool use extends the body schema to include the tool" claim grounded to the review's finding; attention exercise stated as not tested. Heidegger hammer passage not used (no lawful opened copy); phenomenology side kept as practice description, per honest-source rule.
 - Mention check run: K308 already linked from the Phenomenology chapter pages (E003/E004 neighbours); no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K177 — Environment design (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Duckworth, White, Matteucci, Shearer & Gross 2016 (J Educ Psychol 108(3):329-341), naturalistic study plus two field experiments, abstract verified raw via NCBI efetch (PMID 27158155, PMCID PMC4856169).
+- The blockquote (Study 2 situation-modification sentence) matches the raw efetch text verbatim; Study 3 (college, temptation-mediation) stated in reader terms.
+- Inherited "strongest self-control strategy" claim reframed as the practice's own framing; home redesign and specific examples stated as not tested. Caught and removed a "the seed's" workflow phrase pre-save.
+- Mention check run: K177 already linked from B170, D024, D034, Choice architecture; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
