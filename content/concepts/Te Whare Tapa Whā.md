@@ -13,20 +13,29 @@ Te Whare Tapa Whā is the Māori model of health that pictures wellbeing as a wh
 
 ### The four walls
 
-Each wall is a capacity, in the ministry's wording: taha tinana, physical health, "is the capacity for physical growth and development"; taha wairua, spiritual health, "is the capacity for faith and wider communication"; taha whānau, family health, "is the capacity to belong, care and share where individuals are part of wider social systems"; and taha hinengaro, mental health, "is the capacity to communicate, to think and to feel mind and body are inseparable" ([Ministry of Health NZ](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha)). The model's teaching is the house itself: no wall carries the building alone, and a weakness in one shows up in the others.
+Each wall is a capacity, in the ministry's wording:
+
+- Taha tinana, physical health: "the capacity for physical growth and development".
+- Taha wairua, spiritual health: "the capacity for faith and wider communication".
+- Taha whānau, family health: "the capacity to belong, care and share where individuals are part of wider social systems".
+- Taha hinengaro, mental health: "the capacity to communicate, to think and to feel mind and body are inseparable".
+
+([Ministry of Health NZ](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha))
 
 ### In the compendium
 
-- [[R037 — Practise Te Whare Tapa Whā]] carries the model as a practice: check all four walls rather than treating the wall that happens to be loudest.
+- [[R037 — Practise Te Whare Tapa Whā]] turns the model into four questions asked of one's own month: where the person last sat that holds them, how the thinking is, how the body is, and who they have actually eaten with. Its plain-words rule: looking only at physical health leaves out three dimensions of Durie's model.
 
 ## Related concepts
 
-- [[Holistic well-being]] — the general idea this model gives a Māori shape
-- [[Stewardship]] — the companion's other Māori-anchored entry, kaitiakitanga as answerable care
-- [[Analytic vs holistic cognition]] — the thinking difference a four-walls check asks the reader to bridge
+- [[Holistic well-being]] — the general idea the model gives a wharenui shape
+- [[Ubuntu]] — another relational account of wellbeing in the compendium
+- [[Stewardship]] — the compendium's other Māori-rooted entry, kaitiakitanga
+- [[Analytic vs holistic cognition]] — the thinking difference between one wall at a time and the whole house
 
 ## Sources
 
 - [Te Whare Tapa Whā model of Māori health, New Zealand Ministry of Health](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha)
+- Wikipedia Te Whare Tapa Whā: https://en.wikipedia.org/wiki/Te_Whare_Tapa_Wh%C4%81
 
 ## Cited in philosophy parallels

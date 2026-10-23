@@ -19,7 +19,7 @@ The compendium's own subject matter — the wisdom traditions that ask what a go
 
 ## Sources
 
-- Karl Jaspers, The Origin and Goal of History (Vom Ursprung und Ziel der Geschichte, 1949), term origin summarized in Encyclopedia Britannica: [britannica.com/topic/Axial-Age](https://www.britannica.com/topic/Axial-Age) and [The Axial Age: 5 Fast Facts](https://www.britannica.com/story/the-axial-age-5-fast-facts) (Britannica is the opened carrier for this page)
+- Karl Jaspers, The Origin and Goal of History (Vom Ursprung und Ziel der Geschichte, 1949), term origin summarized in Encyclopedia Britannica: [britannica.com/topic/Axial-Age](https://www.britannica.com/topic/Axial-Age) and [The Axial Age: 5 Fast Facts](https://www.britannica.com/story/the-axial-age-5-fast-facts); Jaspers's book identified by [Wikipedia, Axial Age](https://en.wikipedia.org/wiki/Axial_Age)
 
 ## Cited in philosophy parallels
 

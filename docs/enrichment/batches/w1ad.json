@@ -53,13 +53,13 @@
   "Substitution",
   "Survivorship bias",
   "System 1 and System 2",
-  "TRACE model of speech perception",
   "Taxonomy of mental motions",
   "Te Whare Tapa Whā",
   "Temperament-environment fit",
   "Temporality (Zeitlichkeit)",
   "The Axial Age",
-  "The Seven Levels of the nafs"
+  "The Seven Levels of the nafs",
+  "TRACE model of speech perception"
  ],
  "in_progress": null,
  "flagged": {
@@ -95,10 +95,11 @@
   "The chiasm": "Only SEP opened; Visible and the Invisible and Eye and Mind not opened; stray 'Intertwining' alias lines at foot of file preserved.",
   "The body-for-others": "SEP only; Sartre's text not opened; SEP section consulted has no passage on the body for others, so E069's Barnes quotes are not verified by this page.",
   "The classification of fears": "Letter classifies desires, not fears; label is the compendium's. Hicks translation via MIT Classics. D097 link not checked against letter.",
-  "Source credibility research": "Reopened for QC: milestone QC repairs"
+  "Source credibility research": "Reopened for QC: milestone QC repairs",
+  "TRACE model of speech perception": "Reopened for QC: milestone QC repairs round 3"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:32:45+00:00",
+ "updated": "2026-10-23T05:36:10+00:00",
  "band_done": false
 }

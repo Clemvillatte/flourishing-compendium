@@ -50,3 +50,34 @@ outcomes."
   existing concept matched (checked: Spoiled identity, Labeling theory, Self-stigma —
   none exist as concept pages).
 - Validator ok (fast-track profile); humanizer grep clean.
+
+# w1ad evidence ledger — milestone QC round 3 (2026-10-23, worker-pplx-w1ad-f6d92b31)
+
+Repairs applied (items reopened then re-done):
+- Taxonomy of mental motions: the classification quote was stitched from two SEP
+  sentences that are separated by an intervening sentence in the literal text (verified
+  against a downloaded copy of the SEP page). Now split into two quotes with the joining
+  sentence paraphrased; locators corrected (the §6 was the SEP entry's own section, not
+  the book's; the definition sits under the entry's "Definition of the Passions of the
+  Soul" anchor). Desire-has-no-opposite paraphrase now follows the SEP's own reason
+  (comprises both appetites and aversions).
+- TRACE model: core-claims section added with verbatim abstract quotations (TRACE II
+  sentence, COHORT sentences, limitations sentence); the /k/-"kiss" example and
+  bi-directional-flow sentence now quoted verbatim from the opened author-hosted 2006
+  retrospective; the unsupported "critics had posed" origin claim removed (replaced with
+  the paper's own interactive-activation-framework sentence); Rumelhart claim now
+  grounded in that sentence; institutions claim dropped; the "cough fills in for the
+  phoneme" example marked as the model's prediction, not established fact; the 2006
+  authors' own not-the-brain's-implementation caution added; bold seed line removed.
+  Validator note: "Crucially" from the 2006 quote triggered the banned-phrase check,
+  so that sentence is paraphrased with only the verbatim bi-directional clause quoted.
+- Te Whare Tapa Whā: original Wikipedia source line restored; the four walls set as
+  short entries; In-the-compendium line rewritten from R037's own body (read this
+  session); the Analytic vs holistic cognition link restored with a grounded gloss.
+- Substitution: invented second SEP author name removed (the entry's metadata lists
+  Bettina Bergo alone).
+- Stigma research: "founding book" and "most-cited later definition" removed (not
+  established by the opened review); replaced with text-grounded phrasing.
+- The Axial Age: Jaspers's book title and year verified verbatim against the Wikipedia
+  Axial Age article (fetched); Wikipedia added as the carrier; "opened carrier"
+  workflow phrase removed from the Sources line.

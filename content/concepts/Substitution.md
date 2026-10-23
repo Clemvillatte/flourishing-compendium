@@ -27,7 +27,7 @@ Levinas builds the term from an analogy with language: a word stands in for a th
 
 ## Sources
 
-- [Bergo, B. & Zaczyk, R. et al., "Emmanuel Levinas", Stanford Encyclopedia of Philosophy — substitution section and OBBE publication details](https://plato.stanford.edu/entries/levinas/)
+- [Bergo, Bettina, "Emmanuel Levinas", Stanford Encyclopedia of Philosophy — substitution section and OBBE publication details](https://plato.stanford.edu/entries/levinas/)
 - [Levinas, Otherwise Than Being, ch. IV "Substitution", p. 114, Lingis translation — passage as reproduced on a University of Texas course dossier](https://sites.dwrl.utexas.edu/davis/european-graduate-school/levinas-substitution/)
 - Levinas, Otherwise Than Being
 

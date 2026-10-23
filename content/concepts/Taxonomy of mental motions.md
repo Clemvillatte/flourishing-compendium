@@ -9,11 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Taxonomy of mental motions is this compendium's heading for a family of classifications of what moves through the mind; the heading is the compendium's own phrase, and the entry named in its source line is Descartes's classification of the passions in Passions of the Soul (1649). Descartes defines the passions narrowly:
 
-> "those perceptions, sensations or emotions of the soul which we refer particularly to it, and which are caused, maintained and strengthened by some movement of the spirits" (Descartes, Passions of the Soul, as quoted in [SEP, Descartes on the Emotions, §4](https://plato.stanford.edu/entries/emotions-17th18th/LD2Descartes.html))
+> "those perceptions, sensations or emotions of the soul which we refer particularly to it, and which are caused, maintained and strengthened by some movement of the spirits" (Descartes, Passions of the Soul, as quoted in [SEP, Descartes on the Emotions, § The Definition of the Passions of the Soul](https://plato.stanford.edu/entries/emotions-17th18th/LD2Descartes.html))
 
 ### The classification
 
-The Stanford Encyclopedia's summary of the book's section 6: "Descartes identifies six 'primitive' passions: wonder, which he calls 'the first of all the passions,' love and hatred, desire, and joy and sadness. And each of these passions, except for wonder, have a built-in direction of motion, either appetitive or aversive depending on how they evaluate their objects" ([SEP, §6](https://plato.stanford.edu/entries/emotions-17th18th/LD2Descartes.html)). Love opposes hatred, joy opposes sadness, and desire, which pulls toward the future, has no opposite. Beyond the six, Descartes accepts "an unlimited number" of further passions, which he calls combinations of the six primitives ([SEP, §6](https://plato.stanford.edu/entries/emotions-17th18th/LD2Descartes.html)).
+The SEP entry's section on the classification of the passions begins: "Descartes identifies six 'primitive' passions: wonder, which he calls 'the first of all the passions,' love and hatred, desire, and joy and sadness." It continues: "each of these passions, except for wonder, have a built-in direction of motion, either appetitive or aversive depending on how they evaluate their objects" ([SEP, § The Classification of the Passions](https://plato.stanford.edu/entries/emotions-17th18th/LD2Descartes.html)). Love opposes hatred and joy opposes sadness; desire has no opposite, since it comprises both appetites and aversions. Beyond the six, Descartes accepts "an unlimited number" of further passions, which he calls combinations of the six primitives ([SEP](https://plato.stanford.edu/entries/emotions-17th18th/LD2Descartes.html)).
 
 ### In the compendium
 
