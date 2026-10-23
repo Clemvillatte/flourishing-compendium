@@ -25,7 +25,6 @@ SN 36.7 illustrates the teaching through a pleasant feeling. The monk considers 
 *For example:* As an exercise, notice a pleasant feeling during a visit with a friend. Check again later and describe what you find, including whether the feeling is still present. You need not assign it a deadline.
 
 ## Sources
-- [[T008 — Laozi]]: the fu (return) parallel (Daodejing 16) the page pairs with anicca.
 
 - [Dhammapada 277, trans. Acharya Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)
 - [SN 36.7, Gelañña Sutta, trans. Nyanaponika Thera, IBC eLibrary](https://ibc-elibrary.thanhsiang.org/files/accesstoinsight/html/tipitaka/sn/sn36/sn36.007.nypo.html)

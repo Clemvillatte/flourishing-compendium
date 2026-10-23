@@ -37,7 +37,6 @@ As a practical exercise, describe the feeling before choosing a response. Ask wh
 Imagine receiving a message that angers you. Leave the reply unsent while you note what is happening, then decide whether and how to respond.
 
 ## Sources
-- [[T008 — Laozi]]: the fu return-of-states parallel (Daodejing 16) the page lists.
 
 - [MN 10, Satipatthana Sutta, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the mind section
 - [Dhammapada 277, trans. Acharya Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)

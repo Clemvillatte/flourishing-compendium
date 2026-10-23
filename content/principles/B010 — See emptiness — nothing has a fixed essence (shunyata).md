@@ -27,7 +27,6 @@ The compendium suggests asking what supports something you have come to regard a
 Imagine describing a workplace as permanently hostile. Examine particular practices: how feedback is delivered, who assigns work, and what happens when concerns are raised. You may identify something changeable, or discover a constraint you must take seriously. The example illustrates an inquiry, not proof of emptiness or a guaranteed solution.
 
 ## Psychology parallels
-- [[T008 — Laozi]]: the wu non-being parallel (Daodejing 11: the hub's emptiness makes the wheel useful) the page draws.
 
 - **[[Cognitive flexibility|Cognitive flexibility]]**: Kashdan and Rottenberg review the broader construct of [[Psychological flexibility|psychological flexibility]], including adaptation to changing situations; their review does not test Buddhist emptiness or establish it as identical to laboratory set-shifting ([2010, abstract and introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/)).
 

@@ -29,7 +29,6 @@ A gaining idea treats awakening as an object to acquire, and the grasping mind c
 Meditating to 'achieve calm' and getting tense about progress — the measurement was the agitation.
 
 ## Sources
-- [[T008 — Laozi]]: the non-striving parallel (Daodejing 37) the page draws.
 
 - [Eihei Dogen, Genjokoan, trans. Shohaku Okumura (Tricycle)](https://tricycle.org/article/dogen-genjokoan/)
 

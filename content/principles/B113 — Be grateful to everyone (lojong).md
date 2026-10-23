@@ -28,7 +28,6 @@ It is easy to imagine yourself patient when nobody is provoking you. The difficu
 For example: A client calls you lazy for declining overnight work. You might draft a retaliatory reply and a firm reply that states your available hours. Compare whether each sets the same boundary without an insult. Send the firm version; after another difficult exchange, review the actual words and retain the approach that let you refuse without retaliation. The gratitude can be private: this encounter gave you a chance to practise.
 
 ## Related concepts
-- [[T008 — Laozi]]: the other-as-teacher parallel (Daodejing 27) the page cites.
 
 - [[K034]] — listed for comparison: the same thirteenth lojong slogan, treated through Shantideva's patience argument on B113 and through Trungpa's obstacles-as-material commentary on K034.
 
