@@ -21,15 +21,15 @@ The compendium pairs the construct with the effortlessness materials listed belo
 
 ### In the compendium
 
-- [[AT026 — Learn to enter flow — the state of full attentional absorption]] — listed for comparison
-- [[D003 — Act through wu wei — non-forcing]] — listed for comparison
-- [[AT038 — Use nature for attentional restoration — soft fascination]] — listed for comparison
-- [[B049 — Rest in no-mind (mushin)]] — listed for comparison
-- [[D053 — Balance alertness and ease]] — listed for comparison
-- [[Y112 — See action within rest and rest within action]] — listed for comparison
-- [[ST028 — Eliud Kipchoge Runs 1 — 59]] — listed for comparison
-- [[BI029 — Learn that yoga and tai chi combine movement, breath, and meditation]] — listed for comparison
-- [[BI060 — Learn mindful movement — walking meditation, yoga, tai chi]] — listed for comparison
+- [[AT026 — Learn to enter flow — the state of full attentional absorption]] — the flow principle effortless attention grounds
+- [[D003 — Act through wu wei — non-forcing]] — the Daoist non-forcing principle
+- [[AT038 — Use nature for attentional restoration — soft fascination]] — the restoration principle that runs on effortless modes
+- [[B049 — Rest in no-mind (mushin)]] — the Zen form of the same effortlessness
+- [[D053 — Balance alertness and ease]] — the alertness-ease balance effortless attention is
+- [[Y112 — See action within rest and rest within action]] — the Gita's rest-in-action ideal
+- [[ST028 — Eliud Kipchoge Runs 1 — 59]] — the story of effortless running made literal
+- [[BI029 — Learn that yoga and tai chi combine movement, breath, and meditation]] — the movement practices that train it
+- [[BI060 — Learn mindful movement — walking meditation, yoga, tai chi]] — mindful movement as its training ground
 
 ## Facets
 
@@ -37,9 +37,9 @@ The compendium pairs the construct with the effortlessness materials listed belo
 
 ## Related concepts
 
-- [[Attentional control training and the role of repeated redirection]] — listed for comparison
-- [[Effortless action through long effort]] — listed for comparison
-- [[Flow]] — listed for comparison
+- [[Attentional control training and the role of repeated redirection]] — the effortful training the effortless end-state comes after
+- [[Effortless action through long effort]] — how the effortlessness is earned
+- [[Flow]] — the psychology of full absorption this page's tradition pairs with
 
 ## Sources
 

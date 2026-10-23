@@ -21,18 +21,18 @@ William Cross's 1971 model describes "a five-stage theory of acquisition of Blac
 
 - [[E078 — Practise situated embodiment and gender]] — the situated reading of the body
 - [[SE006 — Know that the self is embodied — the body is part of who you are]] — the embodied self this identity lives in
-- [[D004 — Cultivate de — your embodied character-power]] — listed for comparison
-- [[SO034 — Treat knowledge as social]] — listed for comparison
-- [[V2K-S01.19 — 19. Embodied Intersubjectivity]] — listed for comparison
-- [[V2K-S01 — Part I — Science-Backed Kernels]] — listed for comparison
-- [[V2K — Kernels (Volume II)]] — listed for comparison
-- [[A003 — Make virtue your primary investment]] — listed for comparison
-- [[R053 — Practise li (ritual propriety)]] — listed for comparison
+- [[D004 — Cultivate de — your embodied character-power]] — the Daoist principle of character carried in the body
+- [[SO034 — Treat knowledge as social]] — the social-epistemology principle identity is lived inside
+- [[V2K-S01.19 — 19. Embodied Intersubjectivity]] — the kernels part on the same theme
+- [[V2K-S01 — Part I — Science-Backed Kernels]] — the kernels collection this theme belongs to
+- [[V2K — Kernels (Volume II)]] — the volume carrying those kernels
+- [[A003 — Make virtue your primary investment]] — virtue as what the embodied identity is for
+- [[R053 — Practise li (ritual propriety)]] — ritual as the embodied social form
 
 ## Related concepts
 
-- [[Procedural justice]] — listed for comparison
-- [[Social identity theory]] — listed for comparison
+- [[Procedural justice]] — the fairness-of-process account of the same social body
+- [[Social identity theory]] — the cognitive account of identity drawn from groups
 
 ## Sources
 

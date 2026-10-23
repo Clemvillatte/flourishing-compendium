@@ -13,24 +13,24 @@ His recurring example is the blind man's stick. In perception, "The blind man's 
 
 > The pressures on the hand and the stick are no longer given; the stick is no longer an object perceived by the blind man, but an instrument with which he perceives. It is a bodily auxiliary, an extension of the bodily synthesis. (Merleau-Ponty, [Phenomenology of Perception, Colin Smith translation](https://archive.org/details/merleaupontyphenomenologyofperception))
 
-The compendium pairs the account with its own lived-body kernels (the Leib distinction, the body-subject); the parallels below are listed for comparison.
+The compendium pairs the account with its own lived-body kernels (the Leib distinction, the body-subject); the pages below are its kin.
 
 ### In the compendium
 
 - [[E017 — Practise embodied perception]] — the practice page for this concept
 - [[E016 — Practise the body-subject]] — the perceiving subject
 - [[E013 — Practise the lived body (Leib)]] — the lived-body distinction this account turns on
-- [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]] — listed for comparison
-- [[SE006 — Know that the self is embodied — the body is part of who you are]] — listed for comparison
-- [[ST264 — Bauby Blinks]] — listed for comparison
-- [[ST133 — Bateson's Circuit]] — listed for comparison
-- [[ST134 — Ingold's Lines]] — listed for comparison
-- [[D142 — Align the body]] — listed for comparison
+- [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]] — the body-founds-mind principle
+- [[SE006 — Know that the self is embodied — the body is part of who you are]] — the embodied-self principle
+- [[ST264 — Bauby Blinks]] — the story of a mind living entirely through a body
+- [[ST133 — Bateson's Circuit]] — the story of perception as a loop, not a line
+- [[ST134 — Ingold's Lines]] — the story of perception learned along paths
+- [[D142 — Align the body]] — the postural discipline the body-subject takes
 
 ## Related concepts
 
-- [[Body schema]] — listed for comparison
-- [[Affordances]] — listed for comparison
+- [[Body schema]] — the pre-reflective body-knowing the account depends on
+- [[Affordances]] — what the environment offers a body, the ecological twin of the account
 
 ## Sources
 
