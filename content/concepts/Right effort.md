@@ -7,15 +7,39 @@ file: "Right effort"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Right effort (*sammā-vāyāma*) is the sixth factor of the Buddhist Noble Eightfold Path — the practice of directing energy at the mind itself. Its canonical definition, the four right exertions of SN 45.8, is precise about the four directions effort can go: preventing unarisen unskillful states from arising, abandoning unskillful states that have arisen, arousing skillful states that have not yet arisen, and maintaining, increasing and bringing to culmination skillful states that have arisen ([SN 45.8, trans. Access to Insight](https://accesstoinsight.org/ptf/dhamma/sacca/sacca4/samma-vayamo/)). Effort, in other words, is not generalised trying: it is aimed at specific mental movements, in a specific direction, at a specific moment ([BBC, “The Four Noble Truths”](https://www.bbc.co.uk/religion/religions/buddhism/beliefs/fournobletruths_1.shtml)).
+Right effort (*sammā-vāyāma*) is the sixth factor of the Noble Eightfold Path: energy aimed at the mind itself. SN 45.8 defines it in four parts, and the first reads:
 
-The tradition is emphatic that right effort is *arousing, not straining*: the classic image is the lute string — too slack, it will not play; too tight, it snaps; tuned, it makes music ([[B036 — Tune, don't force — the lute string]]; [[B091 — Tune effort without strain (relaxed diligence)]]). The Buddha's own biography is read as this lesson: the years of ascetic over-exertion failed; the middle way of balanced energy succeeded ([[The middle path]]). The compendium's B026 renders the four exertions as practice: guard the mind at the source ([[B065 — Guard the mind at the source (mind precedes all)]]), catch irritation early — sparks before fires ([[B116 — Catch irritation early — sparks before fires]]).
+> "There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen." (SN 45.8, Thanissaro translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html))
 
-The distinction worth keeping: right effort is not willpower. Willpower pushes against feeling; right effort arranges conditions — clear aim, a plan, the first five minutes, repetition — so that energy follows structure ([[B058 — Sit daily — consistency over intensity]]; [[MO046 — Learn to start — the hardest part is beginning]]). Effort is also its own reward in the doing: the state of absorbed practice the positive psychologists call [[Flow]] is effort without the friction of self-monitoring.
+### Four directions for one energy
 
-An example at its smallest: sitting down to meditate on a low-energy morning, for five minutes only, because a small effort actually made beats a heroic one postponed — and the repetition itself is the skill being trained ([[AT025 — Build concentration capacity through practice — attention is like a muscle]]).
+The sutta repeats the same verbs for four aims: that unskillful qualities not arise, that those already arisen be abandoned, that skillful qualities not yet present arise, and that skillful qualities already present be maintained and developed. So effort here is not generalised trying. It is aimed at particular movements of the mind, in a particular direction, at a particular moment.
 
-The clinical cognate is [[Implementation intentions]] — effort pre-decided rather than re-decided at the moment of fatigue.
+The first verb is also worth noticing: the monk "generates desire". On a plain reading, effort begins as wanting the result, before any gritting of teeth.
+
+### Arousing, not straining
+
+The tradition treats pushing harder as a failure mode. In AN 6.55 the Buddha tells Sona, who was ready to give up the training:
+
+> "In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence" (AN 6.55, Thanissaro translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html))
+
+The image is a vina, the Indian stringed instrument, tuned neither too taut nor too loose. This ties right effort to [[The middle path]]: the amount of effort is part of the practice.
+
+### A small case
+
+Sitting for five minutes on a low-energy morning is right effort at its smallest, if the aim is clear and the sitting happens. (Illustrative scenario, not a reported case.) A small effort made counts for more than a large one postponed, and the repetition is what trains the skill.
+
+### In the compendium
+
+- [[B036 — Tune, don't force — the lute string]] and [[B091 — Tune effort without strain (relaxed diligence)]] — the tuning image as practice
+- [[B065 — Guard the mind at the source (mind precedes all)]] — effort aimed at what has not yet arisen
+- [[B116 — Catch irritation early — sparks before fires]] — effort aimed at what has just arisen
+- [[B058 — Sit daily — consistency over intensity]] and [[MO046 — Learn to start — the hardest part is beginning]] — the small, repeatable start
+- [[AT025 — Build concentration capacity through practice — attention is like a muscle]] — effort trained over time
+- [[Flow]] — absorbed practice, offered as a modern comparison
+- [[Implementation intentions]] — effort decided in advance, a clinical cousin
+- [[The middle path]] — where the tuning image comes from
+
 ## Facets
 
 - **plan** — Buddhism
@@ -48,6 +72,8 @@ The clinical cognate is [[Implementation intentions]] — effort pre-decided rat
 
 ## Sources
 
+- [Thanissaro Bhikkhu, Magga-vibhanga Sutta (SN 45.8)](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html) — the Eightfold Path analysed, with the fourfold definition of right effort
+- [Thanissaro Bhikkhu, Sona Sutta (AN 6.55)](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html) — the vina image and the right pitch of persistence
 - Buddhism, Eightfold Path
 - Buddhist tradition
 - Buddhism
