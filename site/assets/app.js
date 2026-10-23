@@ -2931,11 +2931,14 @@ function dossierCardUrl(f){ let name=f; try{ name=decodeURIComponent(f); }catch(
 function dossierRich(text){
   const esc = s => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
   let out = '', i = 0;
-  const re = /\[([^\]]+)\]\((card:[^()]*(?:\([^()]*\)[^()]*)*|url:[^()]*)\)/g;
+  const re = /\[([^\]]+)\]\((card:[^()]*(?:\([^()]*\)[^()]*)*|url:[^()]*|https?:\/\/[^()\s]*)\)/g;
   let m;
   while((m = re.exec(text)) !== null){
     out += esc(text.slice(i, m.index));
-    const href = m[2].startsWith('card:') ? dossierCardUrl(m[2].slice(5)) : m[2].slice(4);
+    let href;
+    if(m[2].startsWith('card:')) href = dossierCardUrl(m[2].slice(5));
+    else if(m[2].startsWith('url:')) href = m[2].slice(4);
+    else href = m[2];
     out += '<a href="' + esc(href) + '" target="_blank" rel="noopener">' + esc(m[1]) + '</a>';
     i = m.index + m[0].length;
   }
@@ -3600,7 +3603,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-regulation](card:Self-regulation) — In Carver and Scheier's model, behavioral self-regulation means guiding behavior toward goals using feedback about current progress (On the Self-Regulation of Behavior, ch."
+          "x": "[Self-regulation](card:Self-regulation) — In Carver and Scheier's model, behavioral self-regulation means guiding behavior toward goals using feedback about current progress (On the Self-Regulation of Behavior, ch. 5)."
         },
         {
           "t": "p",
@@ -3624,7 +3627,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Ego depletion](card:Ego%20depletion) — theory Baumeister — the strength or resource depletion model proposes that self-control is a limited resource depleted after a period of exertion (Hagger et al."
+          "x": "[Ego depletion](card:Ego%20depletion) — theory Baumeister — the strength or resource depletion model proposes that self-control is a limited resource depleted after a period of exertion (Hagger et al. 2016, Perspect Psychol Sci 11(4):546-573, abstract)."
         },
         {
           "t": "h2",
@@ -4065,18 +4068,48 @@ window.fcDossiersData = {
         },
         {
           "t": "vs",
-          "x": "Variation",
-          "body": "What tends to need varying on this theme is the rush from provocation to verdict: the impression taken as true before it is checked, the hostile attribution that fills ambiguity with intent, and the revenge that promises relief and delivers rumination. The adaptive direction is the gap between the stir and the judgment: the belief examined before it settles, the attribution held as a hypothesis, and the debt released rather than collected."
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the rush from provocation to verdict: the impression taken as true before it is checked, the hostile attribution that fills ambiguity with intent, and the revenge that promises relief and delivers rumination. The adaptive direction is the gap between the stir and the judgment: the belief examined before it settles, the attribution held as a hypothesis, and the debt released rather than collected."
         },
         {
           "t": "vs",
-          "x": "Selection",
-          "body": "1. [Anger dissection](card:K169%20%E2%80%94%20Anger%20dissection): take anger apart as it rises: the bodily sensation, the trigger, the story, the value violated, the urge to act.\n\n2. [Forgiveness practice](card:K170%20%E2%80%94%20Forgiveness%20practice): the REACH steps: name the harm, attempt empathy, give the gift, commit, hold on.\n\n3. [The mean calibration](card:K253%20%E2%80%94%20The%20mean%20calibration): the practice of finding the middle state between too much and too little anger for a given provocation.\n\n4. [The empty boat reflection](card:The%20empty%20boat%20reflection): Zhuangzi's parable used as a check on taking offense personally.\n\n5. [Opposite action](card:K184%20%E2%80%94%20Opposite%20action): the dialectical behaviour therapy move of acting against the emotion's urge.\n\n6. [Amends and restitution](card:K289%20%E2%80%94%20Amends%20and%20restitution): the repair practice for the one who has done the harm."
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Anger dissection](card:K169%20%E2%80%94%20Anger%20dissection): take anger apart as it rises: the bodily sensation, the trigger, the story, the value violated, the urge to act."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Forgiveness practice](card:K170%20%E2%80%94%20Forgiveness%20practice): the REACH steps: name the harm, attempt empathy, give the gift, commit, hold on."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[The mean calibration](card:K253%20%E2%80%94%20The%20mean%20calibration): the practice of finding the middle state between too much and too little anger for a given provocation."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[The empty boat reflection](card:The%20empty%20boat%20reflection): Zhuangzi's parable used as a check on taking offense personally."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Opposite action](card:K184%20%E2%80%94%20Opposite%20action): the dialectical behaviour therapy move of acting against the emotion's urge."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Amends and restitution](card:K289%20%E2%80%94%20Amends%20and%20restitution): the repair practice for the one who has done the harm."
         },
         {
           "t": "vs",
-          "x": "Retention",
-          "body": "Retention is what people keep because it works for them. A reader who keeps the delay, or the dissection, or the release has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the delay, or the dissection, or the release has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
         }
       ]
     }
