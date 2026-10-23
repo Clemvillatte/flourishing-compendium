@@ -1,0 +1,11 @@
+{
+ "batch": "ct2",
+ "done": [],
+ "in_progress": null,
+ "flagged": {},
+ "missing_concepts": 0,
+ "sources_checked": 0,
+ "updated": "2026-10-23T10:39:56+00:00",
+ "band_done": false,
+ "notes": "Minted by supervisor-pplx-1023a (2026-10-23): CONCEPTS-FINAL band (ct2, successor to ct1). The 91 pages are the entire concepts gap to 100%. Composition (supervisor audit at mint): 62 pages FAIL the current validator on old-page rule mismatches \u2014 dash budget (54), ## Sources without http(s) URL (50), prose too long (7) or too short (3), banned phrases/staging (4); 29 validate clean but are unrecorded. Mission per PROTOCOL.md with the owner's speed directives: per page \u2014 verify every quoted fragment against an OPENED carrier (these are mostly pre-enrichment-era pages: quotes were written before the verification regime; treat every quotation as unverified until opened); repair validator ERRs (re-humanise dash-heavy prose to the dash budget, add real carrier URLs to ## Sources, trim to length, reword banned phrases); check Related-concepts saturation; record done; save. Pages Dao and De are the EXEMPLARS (EXEMPLARS.md) \u2014 repair their validator mismatches without flattening their voice. TWO KNOWN HOLDS, owner disposition pending, do NOT force: Situation-sensitivity in self-regulation and Socioemotional wisdom (Category C coined-heading holds, docs/enrichment/concept-namespace-audit.md) \u2014 work their repairable ERRs if possible, leave the holds flagged. Expect 4-6 sessions; take items in the listed order (highest-value first by degree)."
+}

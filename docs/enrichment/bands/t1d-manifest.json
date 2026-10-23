@@ -1,0 +1,20 @@
+{
+ "band": "t1d",
+ "source_queue": "queue-thinkers.json (T026-T037 tail)",
+ "thinkers": [
+  "Marsha Linehan",
+  "Jonathan Haidt",
+  "Carol Dweck",
+  "Thich Nhat Hanh",
+  "Pierre Hadot",
+  "Simone Weil"
+ ],
+ "ids": [
+  "T032",
+  "T033",
+  "T034",
+  "T035",
+  "T036",
+  "T037"
+ ]
+}

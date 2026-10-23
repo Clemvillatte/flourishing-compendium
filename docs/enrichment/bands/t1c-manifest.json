@@ -1,0 +1,20 @@
+{
+ "band": "t1c",
+ "source_queue": "queue-thinkers.json (T026-T037 tail)",
+ "thinkers": [
+  "Martin Seligman",
+  "Barbara Fredrickson",
+  "Kristin Neff",
+  "Abraham Maslow",
+  "Erich Fromm",
+  "David Hume"
+ ],
+ "ids": [
+  "T026",
+  "T027",
+  "T028",
+  "T029",
+  "T030",
+  "T031"
+ ]
+}

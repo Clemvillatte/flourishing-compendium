@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-23 06:13 UTC (input revision `454f7eb`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 07:13 UTC.
+As of 2026-10-23 10:40 UTC (input revision `b52e0c987`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 11:40 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,12 +9,12 @@ As of 2026-10-23 06:13 UTC (input revision `454f7eb`). Scope: principles and con
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2170 | 12 | 2182 | 99.5% |
-| Concepts | 2168 | 93 | 2261 | 95.9% |
-| **Combined** | **4338** | **105** | **4443** | **97.6%** |
+| Concepts | 2170 | 91 | 2261 | 96.0% |
+| **Combined** | **4340** | **103** | **4443** | **97.7%** |
 
 ## Stories (separate pipeline)
 
-Published story pages (content/stories/ST*.md): 433. The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
+Published story pages (content/stories/ST*.md): 436. The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
 
 | Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ Published story pages (content/stories/ST*.md): 433. The per-lane rows below are
 | s1c | 0 | 38 | 1 | 0 |
 | s1d | 3 | 7 | 0 | 0 |
 | s1e | 2 | 0 | 6 | 0 |
-| s1f | 0 | 2 | 1 | 0 |
-| **All lanes** | **5** | **86** | **28** | **6** |
+| s1f | 0 | 10 | 0 | 0 |
+| **All lanes** | **5** | **94** | **27** | **6** |
 
 ## Kernels and thinkers (enrichment programs)
 
@@ -32,11 +32,11 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 | Program | Pages | Done entries (bands) | Distinct done K-IDs | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queued IDs not in done |
 |---|---|---|---|---|---|---|---|
-| Kernels | 316 | 134 (k1a, k1b, kpr) | 133 | 133 | 42.1% | 216 | 119 |
-| Thinkers | 21 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 36 | — |
+| Kernels | 316 | 228 (k1a, k1b, kpr) | 187 | 187 | 59.2% | 216 | 65 |
+| Thinkers | 25 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 36 | — |
 
-- Thinker reconciliation: 21 thinker page(s) exist (T001, T002, T003, T004, T005…); the thinker queue holds 36 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 8 recorded done. No completion percentage is computed: the program has no defined completion denominator.
-- Kernel reconciliation: 1 kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is ['K112'] — recorded both by K-ID and by title); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 183 kernel pages are not recorded done; 119 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
+- Thinker reconciliation: 25 thinker page(s) exist (T001, T002, T003, T004, T005…); the thinker queue holds 36 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 12 recorded done. No completion percentage is computed: the program has no defined completion denominator.
+- Kernel reconciliation: 41 kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is ['K109', 'K112', 'K118', 'K119', 'K124', 'K130', 'K134', 'K138', 'K143', 'K145', 'K157', 'K159', 'K160', 'K166', 'K170', 'K171', 'K181', 'K186', 'K187', 'K188', 'K189', 'K190', 'K191', 'K197', 'K198', 'K202', 'K203', 'K207', 'K208', 'K210', 'K212', 'K214', 'K217', 'K219', 'K220', 'K224', 'K226', 'K235', 'K241', 'K244', 'K249'] — recorded both by K-ID and by title); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 129 kernel pages are not recorded done; 65 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
 - Stories carry no completion denominator in their registry; the Stories section above reports counts only.
 
 ## Principles by forest
@@ -67,8 +67,8 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 ## Reconciliation notes
 
-- Recorded-done principle IDs with no current page: 4 (A040-A041-A047 recreation, E038-S051 recreation, K060 recreation, PP059)
-- Recorded-done concept titles with no current page (even after normalizing punctuation): 11 (Aristotle, Baruch Spinoza, Character as habits, Epictetus, Friedrich Nietzsche…)
+- Recorded-done principle IDs with no current page: 44 (A040-A041-A047 recreation, E038-S051 recreation, K060 recreation, K109, K118, K119, K124, K130, K134, K138…)
+- Recorded-done concept titles with no current page (even after normalizing punctuation): 26 (Aaron Beck, Aristotle, Bandura, Baruch Spinoza, Carl Rogers…)
 - Concept records are matched to pages on alphanumeric-normalized titles, so renames between colon and dash forms do not show as unmatched; true renames or deletions appear above and are counted as done, not as backlog.
 
 Generated by `python3 scripts/enrich_progress_report.py` — read-only; never touches the queues.
