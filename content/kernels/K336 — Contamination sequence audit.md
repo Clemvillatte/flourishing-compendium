@@ -31,7 +31,7 @@ What the cited study does not test: these are associations between narrated them
 
 ### A guided version
 
-None located; the audit is a written re-telling, and no official guided recording of it exists.
+No official recording exists; the bounded search confirms it. A guided re-authoring exercise exists for exactly this audit: the [narrative identity revision practice](https://www.ixcoach.com/practices/the-life-crafting-intervention/narrative-identity-revision) has you identify one limiting story ("I'm not the kind of person who ___"), rewrite the same events with a redemption frame ("This happened, and what it eventually gave me was ___"), locate one piece of genuine evidence for the revision so it stays honest rather than falsely positive, and practice telling the revised story aloud to a trusted person.
 
 ## Operationalises
 
