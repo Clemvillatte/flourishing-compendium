@@ -13,6 +13,16 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The passage makes walking a way of relating to thoughts rather than fighting them: the thought is not answered, it is walked away from.
 
+### What the letter adds, and what a study found
+
+The letter continues past the quoted line with the contrast Kierkegaard had in mind: "but by sitting still, and the more one sits still, the closer one comes to feeling ill". The Roger Poole essay prints the letter in this form with an ellipsis before the continuation ([London Review of Books](https://www.lrb.co.uk/the-paper/v02/n03/roger-poole/a-walk-with-kierkegaard)).
+
+A modern experiment tests a nearby claim. Oppezzo and Schwartz report in four experiments that "walking boosts creative ideation in real time and shortly after": walking "increased 81% of participants' creativity" on a divergent-thinking test but "only increased 23% of participants' scores" on a convergent-thinking test, and they conclude that "Walking opens up the free flow of ideas" (Oppezzo & Schwartz, 2014, [PubMed](https://pubmed.ncbi.nlm.nih.gov/24749966/)). The study measured creative thinking, not burdensome thoughts or illness, so it supports the idea that walking loosens thinking and does not show that a thought has been left behind.
+
+### What it is not
+
+Walking away from a thought is not avoidance by decree. Kierkegaard describes a daily habit that returns him to well-being, not a way to prove a worry false. The compendium's pages on [[K061 — Recognize thoughts' nature rather than fighting their content]] and psychological flexibility remain the place for working with the thought itself.
+
 ### In the compendium
 
 - [[X025 — Walk at your own pace, and let that be the sermon]]
