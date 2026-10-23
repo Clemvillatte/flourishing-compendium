@@ -376,3 +376,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The 90-second figure is stated on the page as the practice's own clock, not a research finding; duration predictors (importance, onset intensity, reappearance of trigger) stated in reader terms. Inherited "rise, peak, fall within that window" claim softened per QC round 2 pattern.
 - Mention check run: K120 already linked from D044, B066 and the Acceptance-family pages; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K308 — Object-use phenomenology (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Cardinali, Jacobs, Brozzoli, Frassinetti, Roy & Farne 2012 (Exp Brain Res 218(2):259-271), tool-use and body representation review, abstract verified raw via NCBI efetch (PMID 22349501). PMID located via web search; quote verified against raw efetch.
+- The blockquote (tool-use-dependent plasticity sentence) matches the raw efetch text verbatim.
+- Inherited "tool use extends the body schema to include the tool" claim grounded to the review's finding; attention exercise stated as not tested. Heidegger hammer passage not used (no lawful opened copy); phenomenology side kept as practice description, per honest-source rule.
+- Mention check run: K308 already linked from the Phenomenology chapter pages (E003/E004 neighbours); no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
