@@ -21,11 +21,11 @@ The authors' own summary of what the study established:
 
 > "this study provides the first unambiguous evidence that affect labeling, compared with other ways of encoding, produces diminished responses to negative emotional images in the amygdala and other limbic regions" (Lieberman et al. 2007, p. 427).
 
-The mechanism is precision. Naming a feeling moves it from being an all-encompassing weather to being an object of attention with a name and a boundary ([[AF004 — Cultivate emotional granularity — name feelings precisely]]; [[AF001 — Treat affect as information, not as verdict]]).
+The mechanism is precision. Naming a feeling moves it from being an all-encompassing weather to being an object of attention with a name and a boundary.
 
 ### What it is not
 
-Labeling is not venting: expression without shape amplifies ([[P113 — Express by shaping, not venting]]; [[AF074 — Recognise co-rumination — sharing distress can amplify it]]). It is not rumination, which circles without naming anything new ([[Rumination]] is its failure mode). And the label is a name, not a verdict. "I notice resentment" keeps both the noticing and the agency; "I AM resentful" fuses identity with state ([[AF006 — Accept mixed feelings; do not force them to resolve]]; [[AT053 — Learn to notice and name attentional states — labelling improves control]]).
+Labeling is not venting: expression without shape amplifies. It is not rumination, which circles without naming anything new ([[Rumination]] is its failure mode). And the label is a name, not a verdict. "I notice resentment" keeps both the noticing and the agency; "I AM resentful" fuses identity with state.
 
 ### In everyday life
 
@@ -45,6 +45,8 @@ A person in a difficult conversation can say one silent internal sentence, "that
 - [[S122 — Keep a journal]] — writing as labeling
 - [[Y015 — Classify the mind's movements into five types]] — a kindred classification; the study is an indirect parallel for naming, not a validation of the fivefold taxonomy
 - [[K159 — Affect labeling]] — the compendium's practice kernel for this move
+- [[AF074 — Recognise co-rumination — sharing distress can amplify it]] — the venting caution
+- [[AF006 — Accept mixed feelings; do not force them to resolve]] — labels hold mixed states without forcing resolution
 
 ## Other formulations in this library
 
