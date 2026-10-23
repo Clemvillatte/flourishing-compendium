@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K368** — Notice your reactance: the push-back hand
 
-Try this with a friend: put your palms together and start gently pushing. Most of the time, they push back — not out of ill will, but because being pushed makes humans push back. That's reactance.
+Try this with a friend: put your palms together and start gently pushing. Usually they push back. The physical push-back is an analogue for the conversational one; the demo is a teaching illustration, not evidence.
 
 The same thing happens in conversations. When someone tells you what to change, notice whether your first thought is *why they're wrong*. That's the push-back hand. It happens inside you too: "You should exercise" often meets "No, I'm too tired." Once you notice the push-back, you have a choice — keep pushing (and keep getting pushed back), or stop pushing and let the reasons for change come from your side instead.
 
@@ -19,7 +19,7 @@ Adapted from Burke, Lundahl & Arkowitz (Eds.), Motivational Interviewing in the 
 ### Protocol
 
 1. In a conversation where you are being told what to change, catch the moment your attention shifts from their point to their wrongness.
-2. Name it silently as the push-back hand: the push arrived, the push answered.
+2. Name it silently as the push-back hand: the pressure arrived, and something in you pushed back.
 3. Once, deliberately, do not push back: say what is true on your side without correcting theirs, and watch what happens to the conversation's temperature.
 4. If the pushing is yours (advice nobody asked for), the same rule applies in reverse: the more emphatic the advice, the more pushback it invites.
 
@@ -35,7 +35,7 @@ The book's own name for the pushing habit:
 > "We call this the “righting reflex”—the desire to fix what seems wrong with people and to set them promptly on a better course, relying in particular on directing."
 > — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
-And the dosage effect the protocol's step 4 leans on:
+And the authors' caution about unsolicited advice:
 
 > "The more emphatic or authoritarian the advice, the more likely it is to evoke a pushback. Most people simply don’t like receiving unsolicited advice, although fewer mind giving it."
 > — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
