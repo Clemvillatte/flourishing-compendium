@@ -43,6 +43,9 @@ For example: hearing "we've always done it this way, so it works" and judging wh
 
 - **Critical thinking as intellectual virtue** (Bloom, Taxonomy of Educational Objectives)
 - **[[The examined life|The examined life]]** (Socrates/Plato, Apology)
+## Related concepts
+
+- [[T011 — Socrates]]: the examined life, the Apology's understanding that keeps asking
 
 <!-- fc: reflections
 What belief of yours have you never followed to its logical end? What do you suspect you'd find?
