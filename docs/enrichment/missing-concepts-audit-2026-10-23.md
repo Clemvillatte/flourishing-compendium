@@ -199,12 +199,17 @@ umbrella (Four immeasurables) — all verified as existing pages.
    plain-text reference found, on the Autonomous versus controlled motivation
    page, pointing at sections of its own page — not dangling; no dangling
    See-wikilinks found).
-5. The seven practice-domain comparisons (attention, emotion regulation,
-   relationships, meaning, self, body, wisdom): not performed.
+5. DONE at filename granularity before this push (disclosed limitation): all
+   seven domains have kernels (attention 3, emotion regulation 2,
+   relationships 9, meaning 10, self 9, body 10, wisdom 8 by kernel-filename
+   match); no domain is empty, so no domain-level gap is claimed. The
+   fine-grained gap remains the 48-item stem-match shortlist (item 7).
 6. Buber "inclusion" (36 generic-word mentions): hand-verification pending.
 7. The 48-item kernel stem-match shortlist: per-item semantic verification
    pending (the ataraxia withdrawal shows why).
-8. The Yoga asana limb accounting.
+8. DONE before this push: asana has 0 word-boundary mentions in the corpus —
+   an honest absence; the "Yoga — union of body, breath, and mind" page
+   carries the umbrella.
 
 ## Owner sign-off section
 
