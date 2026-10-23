@@ -31,6 +31,9 @@ This is a claim about what a thing is. The paper is not a self-contained item th
 - **[[Internal relations|Internal relations]]** (Whitehead, Process and Reality)
 - **[[Interbeing|Interbeing]]** (Hanh, Interbeing)
 - **[[Oneness of things|Oneness of things]]** (Zhuangzi 2)
+## Related concepts
+
+- [[T035 — Thich Nhat Hanh]]: interbeing, the page's own name for nothing existing alone
 
 <!-- fc: reflections
 What in your life are you currently treating as existing alone when it's actually a web — a person, problem, or object? What's the web?
