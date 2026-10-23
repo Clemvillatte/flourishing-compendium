@@ -27,6 +27,7 @@ Aristotle's example is medical: a man who knows that light meats are wholesome "
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: skillful responsiveness, the Inner Chapters' hands-on knowing this page values
+- [[T011 — Socrates]]: the oracle story, knowing where theory runs out (ST152)
 
 ## Sources
 
