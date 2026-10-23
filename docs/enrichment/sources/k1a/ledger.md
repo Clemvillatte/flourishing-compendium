@@ -457,3 +457,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - "Laboratory session" in the honesty note is study description, not workflow language; checked against the banned-markers list.
 - Mention check run: K121 already linked from B066/D055/B085 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K141 — Identity flexibility audit (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Settles 2008 (PSPB 34(12):1588-1600), study of working women's multiple identities, abstract verified raw via NCBI efetch (PMID 19050334).
+- The blockquote (harmony/conflict prediction sentence) matches the raw efetch text verbatim (efetch renders the abstract's hyphens as-is); "Results supported this model" verified raw and stated in reader terms.
+- Sample context (working women) stated on page; process-vs-box distinction stated as the practice's own instrument, not a study finding.
+- Mention check run: K141 already linked from D087/P016/P059 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
