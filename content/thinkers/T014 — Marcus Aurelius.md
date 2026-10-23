@@ -10,19 +10,15 @@ navigation: {"track": "philosophy", "primaryPath": ["NAV-PHIL-STOIC"], "alternat
 ---
 Marcus Aurelius (born April 26, A.D. 121, as M. Annius Verus; died March 17, A.D. 180, in Pannonia) was a Roman emperor who assumed the imperial state in A.D. 161 and ruled until his death ([Meditations, Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). He wrote the Meditations in Greek as private notes to himself; the Gutenberg edition republishes a comparison of the 1634 and 1635 Casaubon translation, and its introduction notes that he "extenuates nothing, but nothing sets down in malice."
 
-> "Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it." — Meditations II.1 ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt))
-
 ## Personal story / context
 
 Marcus Aurelius Antoninus was born on April 26, A.D. 121; his real name was M. Annius Verus, of a noble family claiming descent from Numa, second King of Rome. His father Annius Verus held high office in Rome. Antoninus Pius died in 161, and Marcus assumed the imperial state, at once associating with himself L. Ceionius Commodus ([Meditations, Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680.txt)). He wrote the Meditations in Greek as private notes to himself during the campaigns; on March 17, 180, he died in Pannonia ([Meditations, Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680.txt)).
 
 ## Their why
 
-> "Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it." — Meditations II.1 ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680.txt))
+> "Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it." — Meditations II.1 ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt))
 
-
-
-The book's introduction notes that he "extenuates nothing, but nothing sets down in malice" ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680.txt)).
+The note he wrote to himself at the opening of Book II is a nudge against postponement. He counted the days already lost to delay and treated each morning as a fixed appointment with his own soul — one he had missed too often. The book's introduction notes that he "extenuates nothing, but nothing sets down in malice" ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)).
 
 ## Their position
 
