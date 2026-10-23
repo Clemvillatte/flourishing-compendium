@@ -22,6 +22,7 @@ The two orders differ in origin: the made order is put together for a purpose, w
 - [[ST242 — The Stable Burns]] — the story carrying the pattern
 
 ## Related concepts
+- [[T012 — Laozi]]: the cooking-a-small-fish counsel (Daodejing 60) the page reads as emergent order.
 
 - [[Emergence]] — the general property of wholes forming without design
 - [[Cultural evolution theory]] — the evolutionary account of how the rules behind grown orders change

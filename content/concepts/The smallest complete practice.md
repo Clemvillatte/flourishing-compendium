@@ -25,6 +25,7 @@ The sutta's claim for the practice is stated in its benefit sentence: "Mindfulne
 - [[S134 — Build a daily structure]] — where the smallest practice lives inside a day
 
 ## Related concepts
+- [[T012 — Laozi]]: the small-complete-units logic the page traces through the Dao De Jing.
 
 
 - [[Anapanasati (mindfulness of breathing)]] — the full method the single breath scales

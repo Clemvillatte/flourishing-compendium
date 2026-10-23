@@ -10,6 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “The sage teaches without words” — Laozi, Daodejing 2.
 
 ## Sources
+- [[T012 — Laozi]]: the Daodejing 2 source the saying is drawn from.
 
 - Laozi, Daodejing 2
 

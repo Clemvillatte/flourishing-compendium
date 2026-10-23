@@ -10,6 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “The journey of a thousand miles” — Laozi, Daodejing 64.
 
 ## Sources
+- [[T012 — Laozi]]: the Daodejing 64 source the saying is drawn from.
 
 - Laozi, Daodejing 64
 

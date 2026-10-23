@@ -20,6 +20,7 @@ The images sit inside a chapter about timing and restraint, not about striving. 
 Read as a practice teaching, patience here is not waiting passively; it is working at the scale at which growth actually happens, the sprout rather than the tree. The third image is the one that became the world proverb; the Chinese counts in li, not miles. A compendium exercise drawn from the chapter is to name the sprout version of a large aim, the single step under the foot, and to treat care at the end as equal to care at the beginning. What the chapter does not give: empirical evidence that gradual approaches outperform fast ones; that is a question the psychology of gradual training takes up separately.
 
 ## Related concepts
+- [[T012 — Laozi]]: the teaching the page names: cultivation's own patience.
 
 - [[Dao]] — the way the chapter's natural development refers to
 - [[Wu wei]] — the non-forcing stance the chapter's sage models

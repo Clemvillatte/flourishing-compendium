@@ -10,6 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Knowing when to withdraw” — Laozi, Daodejing 9.
 
 ## Sources
+- [[T012 — Laozi]]: the Daodejing 9 source the saying is drawn from.
 
 - Laozi, Daodejing 9
 

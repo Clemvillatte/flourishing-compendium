@@ -10,6 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “The cautious walker of the winter stream” — Laozi, Daodejing 15.
 
 ## Sources
+- [[T012 — Laozi]]: the Daodejing 15 source the saying is drawn from.
 
 - Laozi, Daodejing 15
 

@@ -22,6 +22,7 @@ The chapter is not a praise of nothingness over substance — the spokes, the cl
 The practice the image supports is an attention shift: to the pauses, margins, and room to move that ordinary measurement overlooks. A schedule with no free time, a conversation with no silence, a system with no discretion — "may be full yet unable to function well" ([wudang.org beginner's guide](https://wudang.org/dao/dao-de-jing/full-text/chapter-11)). The instruction is to protect the hollow, not to add more spokes.
 
 ## Related concepts
+- [[T012 — Laozi]]: the image's source: the working part of the wheel (Daodejing 11).
 
 - [[Non-attachment]] — the Buddhist treatment of the same not-grasping
 - [[Default mode network]] — the research-side account of the value of the idle brain

@@ -20,6 +20,7 @@ Chapter 46 contrasts two states of the world: when the way prevails, horses are 
 The compendium's principle CO044 applies it to satisficing: good enough is often optimal.
 
 ## Sources
+- [[T012 — Laozi]]: the Daodejing 46 source the page opens with.
 
 - Laozi, Daodejing (Tao Teh King), chs. 33, 44 and 46, James Legge translation, Project Gutenberg full text: [gutenberg.org/cache/epub/216/pg216.txt](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 

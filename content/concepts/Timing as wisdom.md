@@ -24,6 +24,7 @@ Later in the chapter: "When people pursue an undertaking, it is always at the po
 - [[ST151 — The Owl of Minerva]]
 
 ## Related concepts
+- [[T012 — Laozi]]: the chapter 64 claim about when to act and when to stop that the page labels.
 
 - [[Following nature's rhythm]]
 - [[Wu wei]]

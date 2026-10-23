@@ -10,6 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “The Dao moves by reversal” — Laozi, Daodejing 40.
 
 ## Sources
+- [[T012 — Laozi]]: the Daodejing 40 source the saying is drawn from.
 
 - Laozi, Daodejing 40
 

@@ -10,6 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Living according to nature” — Aristotle, Nicomachean Ethics; Laozi, Daodejing 25; Marcus Aurelius, Meditations.
 
 ## Sources
+- [[T012 — Laozi]]: the Daoist citation the saying carries beside Aristotle.
 
 - Aristotle, Nicomachean Ethics
 

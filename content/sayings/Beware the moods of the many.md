@@ -10,6 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Beware the moods of the many” — Laozi, Daodejing 20.
 
 ## Sources
+- [[T012 — Laozi]]: the Daodejing 20 source the saying is drawn from.
 
 - Laozi, Daodejing 20
 

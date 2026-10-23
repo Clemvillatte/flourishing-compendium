@@ -10,6 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Small country, simple life” — Laozi, Daodejing 80.
 
 ## Sources
+- [[T012 — Laozi]]: the Daodejing 80 source the saying is drawn from.
 
 - Laozi, Daodejing 80
 

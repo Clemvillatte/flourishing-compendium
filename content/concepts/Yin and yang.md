@@ -14,6 +14,7 @@ Three basic themes underlie nearly all deployments of the concept: (1) yinyang a
 > "The Tao produced One; One produced Two; Two produced Three; Three produced All things. All things leave behind them the Obscurity (out of which they have come), and go forward to embrace the Brightness (into which they have emerged), while they are harmonised by the Breath of Vacancy." (Daodejing 42, [Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
 ## What it is NOT
+- [[T012 — Laozi]]: the chapter 42 production chain the page quotes.
 
 Yin and yang are not a dualism of opposing forces in the Western moral sense — not good-versus-evil, spirit-versus-matter, or light-versus-dark in any hierarchy of value ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/yinyang/)). Each requires the other: yang is generated from yin and yin from yang, and they mutually alternate ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/yinyang/)). Nor are they fixed essences; the most enduring interpretation relates them to qi as a dynamic, natural form of flowing energy, and the medical texts subdivide each organ into yin and yang aspects — the activity or function of an organ is its yang aspect, its substance the yin aspect ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/yinyang/)).
 

@@ -14,6 +14,7 @@ In the Daodejing's eighth chapter, the highest excellence is compared to water: 
 The chapter continues through the excellences of residence, mind (abysmal stillness), associations, government, conduct of affairs, and timeliness of movement, and ends: when the one with the highest excellence does not wrangle about his low position, no one finds fault with him. ([Daodejing 8, Legge translation](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
 ## Sources
+- [[T012 — Laozi]]: the eighth chapter's comparison: the highest excellence like water.
 
 - Laozi, Daodejing 8, Legge translation, [Tao Te Ching, Project Gutenberg ebook #216](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 

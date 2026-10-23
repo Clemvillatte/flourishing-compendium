@@ -26,6 +26,7 @@ The concept sits in the wiki because it states a structural claim several tradit
 - [[Yin and yang]] — the Daoist cosmology behind the soft-overcomes-hard reading
 
 ## Facets
+- [[T012 — Laozi]]: the structural claim the page finds in several traditions, Daoism among them.
 
 - inherit the earth — Gospel of Matthew
 

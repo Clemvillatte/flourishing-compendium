@@ -10,6 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Not exalting the rare” — Laozi, Daodejing 3.
 
 ## Sources
+- [[T012 — Laozi]]: the Daodejing 3 source the saying is drawn from.
 
 - Laozi, Daodejing 3
 

@@ -21,6 +21,7 @@ Chapter 44 opens by asking the reader to weigh life against fame and wealth, the
 - Brown and Kasser, 2005
 - Laozi, Daodejing 33, "he who knows he has enough is rich"
 ## Sources
+- [[T012 — Laozi]]: the Daodejing 33 and 44 passages the page opens with.
 
 - Laozi, Daodejing 33 and 44, Legge translation, [Tao Te Ching, Project Gutenberg ebook #216](https://www.gutenberg.org/cache/epub/216/pg216.txt) (opened)
 - Daoism, Daodejing 44

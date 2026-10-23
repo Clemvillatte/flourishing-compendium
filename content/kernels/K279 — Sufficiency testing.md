@@ -46,6 +46,7 @@ What this evidence does not test: the cited research concerns adaptation of happ
 Not applicable: the practice is a number written in advance, not a recording.
 
 ## Operationalises
+- [[T012 — Laozi]]: the sufficiency teaching the kernel tests in one domain.
 
 - [[S006 — Remember that you are a citizen of the cosmos|S006 Remember that you are a citizen of the cosmos]]
 - [[S007 — Accept what happens as the will of providence|S007 Accept what happens as the will of providence]]

@@ -20,6 +20,7 @@ Non-being is also one half of a pair, and chapter 2 gives the pairing's rhythm:
 The Buddhist parallels cite this page, and the comparison holds only so far: shunyata in the Madhyamaka tradition is an argument about the emptiness of essence in all things, while wu is a way of talking about the absent and the uncarved as what works. The compendium's principles use wu for the practical point: rest, silence, the unplanned hour, the empty room are the load-bearing part of a life rather than its leftover.
 
 ## Related concepts
+- [[T012 — Laozi]]: the source of the term: what is not, as the working part (Daodejing 11).
 
 - [[Wu wei]] — the companion term: what non-doing is to action, non-being is to things
 - [[Creative advance]] — a tradition in which absence does different work

@@ -32,6 +32,7 @@ A ten-minute daily round of gentle movement, a few slow breaths, plain food and 
 - [[BI053 — Cultivate interoceptive awareness — notice internal signals]], [[AT050 — Learn body scan — systematic attention through the body]] and [[AF005 — Learn to read your own body — interoception]] — modern practices that echo it
 
 ## Facets
+- [[T012 — Laozi]]: the Daodejing caution section the page carries.
 
 - **ongoing** — Daoism, Neiye
 

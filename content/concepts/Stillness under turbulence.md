@@ -18,6 +18,7 @@ Stillness under turbulence is the Daoist art of letting agitation settle instead
 The chapter's stillness is not suppression. It is the refusal to add action to agitation: the muddy water clears because nothing disturbs the settling, and rest arises out of movement rather than in place of it. The compendium's principle Y025 carries the same discipline for the mind: treat restlessness as weather, not as enemy. The compendium's Related-concepts neighbor "The inner citadel" holds the Stoic counterpart. The chapter's closing line explains what the stillness preserves: those who keep this method of the Tao do not wish to be full of themselves, and it is through not being full that they can afford to seem worn and not appear new and complete ([Daodejing 15, Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt)).
 
 ## Related concepts
+- [[T012 — Laozi]]: the Daodejing 15 source the page opens with.
 
 - [[The inner citadel]] — the Stoic discipline of retiring into one's own soul as the source of steadiness
 - [[Wu wei]] — the Daoist non-forcing stance
