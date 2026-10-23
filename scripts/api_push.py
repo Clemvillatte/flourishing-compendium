@@ -24,7 +24,13 @@ def token():
     url = subprocess.check_output(
         ["git", "remote", "get-url", "origin"], text=True).strip()
     m = re.match(r"https://([^@]+)@", url)
-    return m.group(1) if m else None
+    if not m:
+        return None
+    tok = m.group(1)
+    # strip any "x-access-token:" or "username:" prefix before the PAT
+    if ":" in tok and tok.count(":") == 1 and not tok.startswith("github_pat"):
+        tok = tok.split(":", 1)[1]
+    return tok
 
 
 def api_call(path, method="GET", body=None):
