@@ -332,3 +332,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Advisor QC pattern applied (topic-label glosses, Intended focus: Motivation and Overt behaviour, attempt-tracking step 3).
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
 - Saturation: mention check run; K152 already linked from P162, Psychological flexibility, Acceptance alongside values-based action, K149/K320; no new reciprocal proposals needed.
+
+## K182 — Small-wins tracking (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Jakubiak & Feeney 2016 (JPSP 111(3):317-340), two daily diary studies, abstract verified raw via NCBI efetch (PMID 27560610, PMCID PMC5000864).
+- The blockquote (daily independent goal progress sentence) matches the raw efetch text verbatim. Same-day/next-day well-being specifics (positive affect, sleep quality, relationship quality, physical symptoms) stated on page in reader terms.
+- Honesty on page: studies did not test the recording practice; samples were married couples. Notice kept distinct from log.
+- Advisor QC pattern applied. Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+- Saturation: mention check run; MO055 and The progress principle already link the goal-progress line; no new reciprocal proposals needed.
