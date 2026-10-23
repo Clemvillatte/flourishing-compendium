@@ -138,3 +138,12 @@ D149's pre-existing [[Measure in all things]] target is missing from content/con
 - Invitation example generates three options, selects in relation to a chosen commitment and retains a boundary for later offers; motivation named. No factual driving-risk claim or predetermined ranking of commitments added.
 - Read Risk perception, Diversion and Prudence in full. All already backlink D157. Ran baggage mention search; no new reciprocal needed.
 - Existing story link, parallel lines and reflections preserved, not independently certified.
+
+## D169
+
+- Reopened with enrich_state.py. Checked whole DDJ 16's return/stillness and capacity/forbearance/community-of-feeling chain: https://www.gutenberg.org/files/216/216-h/216-h.htm.
+- Retained exact existing quotation. Shortened recital while preserving the essential distinction that acceptance and impartiality are this principle's interpretive terms, not Legge's wording.
+- Plain words asks for known facts and marked guesses before judgement; it does not promise that a pause guarantees fairness.
+- Example varies immediate and context-informed accounts, selects a response consistent with facts and a boundary, and retains the fact/guess check; cognition named.
+- Read Emotion regulation, Sympatheia and The free person loves all in full. All already backlink D169. Ran forbearance mention search; no new reciprocal needed.
+- Original parallels and reflections preserved, not independently certified. Milestone-fifteen advisor QC requested.
