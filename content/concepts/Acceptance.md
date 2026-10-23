@@ -42,8 +42,8 @@ The same paper is explicit that acceptance is instrumental: "Acceptance (and def
 - [[Goal adjustment capacity]] — the stance that makes disengagement possible
 - [[Anger regulation research]] — acceptance-based strategies with meta-analytic support here
 - [[S001]] — the Stoic principle that parallels ACT acceptance
-- [[Gelassenheit]] — the sibling page in the same family
-- [[Urge surfing]] — the sibling page in the same family
+- [[Gelassenheit]] — Heidegger's releasement; the contemplative cousin of acceptance
+- [[Urge surfing]] — riding an urge out rather than fighting it
 - [[AF037]] — a laboratory comparison of acceptance and suppression in patients with panic disorder
 - [[Right mindfulness]] — the eightfold path's mindfulness factor (MN 10's four establishments)
 - [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference

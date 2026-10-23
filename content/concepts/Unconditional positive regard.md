@@ -41,7 +41,7 @@ Rogers proposed the six conditions as jointly necessary and sufficient for const
 
 - [[Empathy]] — a fellow core condition in the 1957 model ([McLeod](https://www.simplypsychology.org/unconditional-positive-regard.html))
 - [[Congruence]] — another core condition ([McLeod](https://www.simplypsychology.org/unconditional-positive-regard.html))
-- [[Agape]] — the sibling page in the same family
+- [[Agape]] — love without conditions; the theological cousin
 ## Cited in psychology parallels
 
 - [[D125 — Be good to the good and the not-good]]

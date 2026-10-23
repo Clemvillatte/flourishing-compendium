@@ -29,7 +29,7 @@ The phrase does not declare the time-bound view unreal. Spinoza says things are 
 
 ## Related concepts
 
-- [[Blessedness]] — the sibling page in the same family
+- [[Blessedness]] — the state Spinoza's view promises
 - [[Conatus]] — the same work's account of each thing's striving
 
 ## Sources

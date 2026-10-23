@@ -19,7 +19,7 @@ The "more" is deliberately ambiguous: by it Abram also meant "to encourage a new
 
 ## Related concepts
 
-- [[R129]] — the sibling page in the same family
+- [[R129]] — the compendium's principle on ecological relationality as spiritual practice
 - [[Nature connectedness]] — the measured correlate of the attunement the phrase invites
 - [[Biophilia]] — the affinity the phrase presupposes
 - [[The land ethic]] — Leopold's earlier carrying of the same enlargement of the moral community

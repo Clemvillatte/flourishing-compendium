@@ -59,7 +59,7 @@ Overt Behavior · Psychological science
 - [[SP029 — Understand bondage as being determined from outside]]
 ## Related concepts
 
-- [[Growth mindset]] — the sibling page in the same family
+- [[Growth mindset]] — the belief-based response to setbacks this theory contrasts
 - [[Optimistic explanatory style]] — the attribution pattern the 1978 reformulation made central to who becomes helpless
 - [[Self-efficacy]] — the belief in one's capacity to produce outcomes, the human-scale counterpart of perceived control
 

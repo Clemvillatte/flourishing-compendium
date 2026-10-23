@@ -32,7 +32,7 @@ SE058 "Recognise self and solitude: the self needs alone time" treats solitude a
 - [[Avoidance versus attentional engagement]] — avoidance-driven withdrawal distinguished from contented aloneness
 - [[The capacity to be alone]] — the sibling page carrying the same Winnicott citation
 - [[SE053]] — Winnicott's ego-relatedness offers a comparison: aloneness in the presence of support, read against this principle's autonomy-need
-- [[AF058]] — A principle about responding to loneliness
+- [[AF058]] — a principle about responding to loneliness
 ## Sources
 
 - [Winnicott, "The Capacity to be Alone," International Journal of Psycho-Analysis 39(5) (1958), pp. 416-420](https://web.english.upenn.edu/~cavitch/pdf-library/Winnicott_Capacity_To_Be_Alone.pdf) — the primary text; all quotations verbatim; paper consulted as reproduced in The Collected Works of D. W. Winnicott, vol. 5

@@ -34,7 +34,7 @@ The first sermon's listing gives the position: "right view, right resolve, right
 - [[Metta (loving-kindness)]] — the good-will the resolve turns toward
 - [[Implementation intentions]] — the if-then planning parallel
 - [[Self-concordance theory]] — the goals-alignment parallel
-- [[Right view]] — the sibling page in the same family
+- [[Right view]] — the path factor that precedes intention
 - [[Morning intention]] — the concept page lists this topic among its Related entries; this link returns it
 - [[Karma]] — the Buddha's definition of karma as intention makes right intention the path's karma-work
 - [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)

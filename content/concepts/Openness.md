@@ -23,7 +23,7 @@ P114 (Create as growth) is the principle linked below. Whether creating is evide
 
 
 - [[E080]] — examines Gadamer's account of understanding across different horizons.
-- [[Intellectual humility]] — the sibling page in the same family
+- [[Intellectual humility]] — knowing what one does not know; the Big-Five sibling
 - [[Openness and not knowing in skilled practice]] — a compendium page with a similar name; it is not drawn from Kaufman et al.
 - [[Beginner's mind]] — the Zen practice of meeting experience as if for the first time
 ## Sources

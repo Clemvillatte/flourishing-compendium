@@ -35,7 +35,7 @@ The argument runs through finality and self-sufficiency. Honour, pleasure and vi
 
 - [[Eudaimonia]] — the concept the claim is about
 - [[Happiness as activity]] — Aristotle's answer to what happiness is, from the same book
-- [[Happiness as by-product]] — the sibling page in the same family
+- [[Happiness as by-product]] — the alternative view: happiness arrives sideways
 - [[Self-sufficiency]] — the second mark of the final good in the argument above
 - [[Virtue]] — one of the goods chosen both for itself and for the sake of happiness
 

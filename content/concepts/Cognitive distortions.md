@@ -28,7 +28,7 @@ Beck describes examining whether the initial impression of a situation was disto
 
 ## Related concepts
 
-- [[Right view]] — the sibling page in the same family
+- [[Right view]] — the Buddhist counterpart: clear seeing of what is
 
 ## Sources
 

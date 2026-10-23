@@ -20,7 +20,7 @@ The lifeworld also has depth in time. Earlier experiences leave traces in us tha
 
 - [[The lifeworld]] — the world of ordinary experience this standpoint opens onto
 - [[The natural attitude]] — the unexamined immersion the standpoint lives in
-- [[Right view]] — the sibling page in the same family
+- [[Right view]] — the Buddhist seeing-clearly counterpart
 ## Sources
 
 - Husserl, The Crisis of European Sciences

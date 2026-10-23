@@ -21,8 +21,8 @@ The study tested notifications on a lab task with students. It did not test infi
 
 ## Related concepts
 
-- [[Attention management]] — the sibling page in the same family
-- [[Attention residue]] — the sibling page in the same family
+- [[Attention management]] — the practical discipline the research supports
+- [[Attention residue]] — the cost of switching this research measures
 
 ## Sources
 

@@ -38,7 +38,7 @@ Cognition · Psychological science
 
 ## Related concepts
 
-- [[Avoidance versus attentional engagement]] — the sibling page in the same family
+- [[Avoidance versus attentional engagement]] — the withdrawal pattern the hypothesis predicts
 
 - [[Mindfulness]] — the capacity MBCT trains to disengage from that thinking
 

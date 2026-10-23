@@ -26,7 +26,7 @@ The mechanism is error cancellation: each guess mixes information with error, an
 ## Related concepts
 
 - [[Collective intelligence]] — the broader field the ox experiment founded
-- [[Wisdom]] — the individual virtue
+- [[Wisdom]] — the individual virtue, for contrast
 
 ## Sources
 

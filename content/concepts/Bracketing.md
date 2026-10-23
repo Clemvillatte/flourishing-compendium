@@ -49,7 +49,7 @@ The bracketing move is therefore not a retreat from the world but a change of pl
 
 ## Related concepts
 
-- [[Pure experience]] — the sibling page in the same family.
+- [[Pure experience]] — the field before the bracket is set
 - [[Suspension of the natural attitude]] — the state the epoché produces.
 - [[Constitution of meaning]] — the analysis the epoché makes possible.
 

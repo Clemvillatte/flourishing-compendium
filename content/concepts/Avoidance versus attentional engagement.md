@@ -39,8 +39,8 @@ K017 "Find the still point that is not a withdrawal" frames a test in the compen
 - [[Differential Activation Hypothesis of depression]] — another account of what maintains depressive episodes
 - [[Behavioral experiments in CBT]] — testing beliefs through action instead of avoiding the test
 - [[Behavior analysis]] — the operant tradition that explains the cycle's reinforcement logic
-- [[Graded exposure / systematic desensitisation (Wolpe)]] — the sibling page in the same family
-- [[Capacity to be alone (Winnicott)]] — the sibling page in the same family
+- [[Graded exposure / systematic desensitisation (Wolpe)]] — the exposure protocol that breaks the cycle
+- [[Capacity to be alone (Winnicott)]] — tolerating aloneness without flight
 ## Sources
 
 - [Veale, "Behavioural activation for depression," Advances in Psychiatric Treatment 14(1) (2008), pp. 29-36](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9) — Ferster's model, the withdrawal cycle, BA's approach, the Jacobson 1996 component analysis

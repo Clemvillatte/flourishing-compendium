@@ -33,8 +33,8 @@ Research that only contrasts mastery with performance goals "does not capture th
 
 
 - [[Implicit theories of intelligence]] — the response pattern the incremental theory predicts
-- [[Growth mindset]] — the sibling page in the same family
-- [[Education as growth]] — the sibling page in the same family
+- [[Growth mindset]] — the incremental-theory belief behind it
+- [[Education as growth]] — the growth view of learning
 ## Sources
 
 - [Annual Review of Psychology chapter on classroom goal structures and student motivation, 2006 (PDF)](http://sohs.pbs.uam.es/webjesus/motiv_ev_autorr/lects%20extranjeras/anual%20review%202006.pdf)

@@ -48,7 +48,7 @@ The compendium treats the principle as an epistemology of practice. P042 states 
 - [[Self-efficacy]] — the belief about agency that the doing builds
 - [[Graded task assignment (Beck, BA)]] — the clinical application of sequenced doing
 - [[Growth through practice]] — the contemplative counterpart to growth as activity
-- [[Education as growth]] — the sibling page in the same family
+- [[Education as growth]] — Dewey's growth view of learning
 ## Cited in philosophy parallels
 
 - [[P042 — Learn by doing]]

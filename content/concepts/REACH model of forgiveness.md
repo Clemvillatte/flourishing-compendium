@@ -28,7 +28,7 @@ The effect sizes from the trial are moderate: unforgiveness (TRIM) d = -.56, dec
 
 - [[Forgiveness]] — the practice the model structures
 - [[Revenge]] — the alternative the model works against
-- [[Altruism theory Batson empathy]] — the sibling page in the same family
+- [[Altruism theory Batson empathy]] — the empathy-altruism route to forgiving
 
 ## Sources
 

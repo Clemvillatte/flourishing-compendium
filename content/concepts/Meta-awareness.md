@@ -48,8 +48,8 @@ The intermittent assessment can detect lapses that lower-level implicit monitori
 
 - [[Mind wandering]] — thought about something other than the current activity, which noticing can catch
 - [[Right mindfulness]] — the eightfold path's mindfulness factor (MN 10's four establishments)
-- [[Limits of introspection]] — the sibling page in the same family
-- [[The observing self]] — the sibling page in the same family
+- [[Limits of introspection]] — what introspection cannot see
+- [[The observing self]] — the watcher meta-awareness exercises
 
 ## Sources
 

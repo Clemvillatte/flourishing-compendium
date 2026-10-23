@@ -42,7 +42,7 @@ The theory's scope is honest about what the evidence does and does not show. The
 
 
 - [[Mind wandering]] — the departure state: thought running elsewhere than the current activity
-- [[Mindfulness]] — the sibling page in the same family
+- [[Mindfulness]] — the practice tradition behind the theory
 - [[Meta-awareness]] — the noticing that catches the departure
 - [[X017]] — a religious practice of returning attention through remembrance
 - [[Extended Evolutionary Meta-Model]] — the grid that classifies present-moment work as an attentional-dimension process

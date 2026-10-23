@@ -43,4 +43,4 @@ Affect · Psychological science
 
 ## Related concepts
 
-- [[Appraisal theory]] — the sibling page in the same family
+- [[Appraisal theory]] — the later appraisal account of emotion

@@ -25,7 +25,7 @@ What the sources do not test: the dimensions are hypothesised to map onto geneti
 ## Related concepts
 
 - [[Explore-exploit trade-off research]] — the decision-theoretic framing of the same pattern
-- [[Sensation seeking]] — the sibling page in the same family
+- [[Sensation seeking]] — the trait version of the same appetite
 - [[Curiosity]] — the drive the trait supplies when it serves learning
 - [[Action commitment]] — the counterweight the pattern lacks
 

@@ -26,7 +26,7 @@ Principles linked below include CO028 (Use the outside view), CO022 (planning fa
 ## Related concepts
 
 - [[Planning fallacy]] — the optimistic-forecast pattern the outside view is proposed to correct
-- [[Outcome forecasting]] — the sibling page in the same family
+- [[Outcome forecasting]] — the forecasting practice the outside view belongs to
 
 ## Sources
 

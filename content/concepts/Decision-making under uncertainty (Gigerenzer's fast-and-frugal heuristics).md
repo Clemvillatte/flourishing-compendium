@@ -37,8 +37,8 @@ To see the rules at work, take a hypothetical pair of cities, with cue values in
 
 ## Related concepts
 
-- [[Risk literacy]] — the sibling page in the same family
-- [[Strategic Contingencies Theory]] — the sibling page in the same family
+- [[Risk literacy]] — the skill of understanding risk that the heuristics serve
+- [[Strategic Contingencies Theory]] — an organisational theory about power that hinges on unpredictable situations
 
 ## Sources
 

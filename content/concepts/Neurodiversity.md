@@ -23,8 +23,8 @@ The linked principles, MO067 on ADHD and motivation and BE073 on behavioural sym
 
 
 
-- [[Neurodiversity paradigm]] — the sibling page in the same family
-- [[ADHD — interest-based attention]] — the sibling page in the same family
+- [[Neurodiversity paradigm]] — the paradigm built on this term
+- [[ADHD — interest-based attention]] — one neurotype's attention profile
 - [[SE074]] — the self-pattern variation framing for the paradigm's 'different not less' claim
 - [[MO071]] — A principle illustrating Dodson's ADHD account of interest-based engagement as one instance of varying engagement patterns
 ## Sources

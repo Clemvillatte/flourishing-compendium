@@ -17,6 +17,8 @@ Schiller and colleagues investigated the updating of human fear memories with a 
 
 > "We provide evidence that old fear memories can be updated with non-fearful information provided during the reconsolidation window. As a consequence, fear responses are no longer expressed, an effect that lasted at least a year and was selective only to reactivated memories without affecting others." (Schiller et al., 2010, Nature 463, 49–53, [abstract](https://pubmed.ncbi.nlm.nih.gov/20010606/))
 
+Together the two studies frame the concept's practical edge. A reactivated memory is briefly open, and what arrives during that window, a drug in the rat amygdala or new information in the human lab, is what gets re-saved. The second finding carries the clinical interest: fear responses updated during reconsolidation stayed gone, at least across the year that study tracked.
+
 ## Related concepts
 
 - [[Exposure therapy (Foa, Craske)]] — the clinical use of reactivation

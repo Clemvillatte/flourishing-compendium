@@ -32,7 +32,7 @@ The advantage is not owning knowledge but a disposition toward it: not thinking 
 ## Related concepts
 - [[T011 — Socrates]]: the Delphic oracle's aftermath in the Apology: knowing that you do not know.
 
-- [[Wisdom]] — the sibling page in the same family
+- [[Wisdom]] — the broader virtue Socrates models
 
 ## Sources
 

@@ -39,7 +39,7 @@ What the sources do not test: the four-experience framework is measured with the
 
 - [[Sabbath]] — the ancient weekly container for the recovery taxonomy
 - [[Psychological detachment]] — the first of the four experiences
-- [[Effort-recovery cycles]] — the sibling page in the same family
+- [[Effort-recovery cycles]] — the physiology the experiences complete
 - [[PP073]] — try different breaks and compare how fatigue changes
 ## Sources
 

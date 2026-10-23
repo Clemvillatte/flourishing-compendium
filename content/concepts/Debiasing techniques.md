@@ -31,8 +31,8 @@ The compendium pairs these findings with principles that turn them into practice
 
 ## Related concepts
 
-- [[Risk literacy]] — the sibling page in the same family
-- [[The fourth rule of method]] — the sibling page in the same family
+- [[Risk literacy]] — the skill these techniques build toward
+- [[The fourth rule of method]] — Descartes' complete-enumeration rule; an early completeness guard
 
 ## Sources
 

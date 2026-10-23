@@ -27,7 +27,7 @@ Three principles put the concept to work in different traditions:
 
 - [[Resoluteness (Entschlossenheit)]] — the committed side of decision in Heidegger's terms
 - [[Deliberation as rehearsal]] — Dewey's account of what happens before a decision
-- [[Equipollence]] — the sibling page in the same family
+- [[Equipollence]] — the Pyrrhonian equal-and-opposite reasons; decision under suspended judgment
 
 ## Sources
 

@@ -56,7 +56,7 @@ The compendium's carrier is Y065, "Cultivate the fourfold stance toward people,"
 - [[Ahimsa]] — non-harm, the ethical base the four rest on
 - [[Bodhicitta]] — the Mahayana extension of the four
 - [[Self-compassion]] — the modern clinical descendant of the set
-- [[Mudita (sympathetic joy)]] — the sibling page in the same family
+- [[Mudita (sympathetic joy)]] — one of the four; its own page
 ## Cited in philosophy parallels
 
 "The brahmaviharas in social form" — Buddhist tradition.

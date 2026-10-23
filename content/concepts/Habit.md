@@ -59,7 +59,7 @@ James's advice for education and habit aims at making "our nervous system our al
 - [[MO035]] — the motivation-science reading of habit: cue-triggered automaticity that persists when conscious motivation dissipates
 - [[R053]] — Ritual practice is compared with Aristotle's account of habituation, with knowledge, choice and disposition distinguished from mechanical repetition.
 - [[BI022]] — the see-a-doctor rule distinguishes sleep habits from medical symptoms
-- [[SP054]] — the sibling page in the same family
+- [[SP054]] — the compendium's principle on deliberately retraining associations
 - [[Karma]] — habit is the psychological form the karma-repetition takes
 - [[Temperance]] — one of the four cardinal virtues: the right ordering of pleasure and appetite
 - [[Experience plus reflection]] — the Deweyan pairing of experience and reflection (How We Think, 1910)

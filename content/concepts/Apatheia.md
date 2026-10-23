@@ -33,7 +33,7 @@ S071's emotions are judgments and S059's not being carried away by passion are t
 - [[Premeditatio malorum]] — rehearsing what judgment will face
 - [[Temperance]] — the cardinal virtue that orders appetite
 - [[Wu wei]] — non-forcing, the Daoist cousin of non-struggling
-- [[Gelassenheit]] — the sibling page in the same family
+- [[Gelassenheit]] — Heidegger's releasement; the German cousin
 - [[The inner citadel]] — the discipline of judgment expressed in Marcus’s instruction to maintain a mind free from passions
 ## Sources
 

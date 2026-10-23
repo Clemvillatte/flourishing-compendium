@@ -29,7 +29,7 @@ The page's facet "and group performance" rests on the study above. The linked pr
 
 ## Related concepts
 
-- [[Generalized trust]] — the sibling page in the same family
+- [[Generalized trust]] — the trust climate safety needs
 
 ## Sources
 

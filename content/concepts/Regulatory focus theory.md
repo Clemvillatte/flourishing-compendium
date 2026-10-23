@@ -33,7 +33,7 @@ Eagerness and vigilance are the two strategies the theory assigns to the two foc
 
 - [[Achievement goal theory (Dweck, Elliot)]] — the goal-orientation research that parallels the two foci
 - [[Cognitive dissonance]] — one of the phenomena Higgins reconsiders under prevention focus
-- [[Framing effects]] — the sibling page in the same family
+- [[Framing effects]] — the same gain-loss wording this theory reinterprets
 
 ## Sources
 

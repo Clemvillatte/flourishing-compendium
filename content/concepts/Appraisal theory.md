@@ -39,7 +39,7 @@ Lazarus splits the evaluation into two parts. Primary appraisal "concerns the st
 - [[Somatic marker hypothesis (Damasio)]] — the body-first route to evaluation
 - [[Affect labeling]] — putting the appraisal into words
 - [[Broaden-and-build]] — the function-of-positive-emotion theory in the same family
-- [[Right view]] — the sibling page in the same family
+- [[Right view]] — the Buddhist counterpart: seeing clearly precedes feeling
 ## Sources
 
 - [Lazarus 1991, Emotion and Adaptation (chapter PDF, Internet Archive)](https://dn760106.eu.archive.org/0/items/lazarus_richard-s/lazarus1991_2.pdf) — the appraisal definition; primary and secondary components, verbatim.

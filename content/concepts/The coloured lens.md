@@ -29,7 +29,7 @@ The compendium also links this image to [[Right view]].
 
 ## Related concepts
 
-- [[Right view]] — the sibling page in the same family
+- [[Right view]] — the Buddhist counterpart: the lens seen as lens
 - [[Attentional bias research]]
 - [[Mood-congruent memory]]
 - [[Metacognitive regulation of state]]

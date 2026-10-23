@@ -21,7 +21,7 @@ Clay's illustration is musical: "All the notes of a bar of a song seem to the li
 
 ## Related concepts
 
-- [[Pure experience]] — the sibling page in the same family
+- [[Pure experience]] — the lived present before measurement splits it
 
 ## Sources
 

@@ -31,9 +31,13 @@ The framework's value for the compendium's essays is that it groups states the t
 
 ## Related concepts
 
+<<<<<<< HEAD
 - [[Self-transcendence]] — the sibling page in the same family
 - [[Awe]] — one of the varieties the framework groups under the same two-component structure
 - [[Ego dissolution]] — the annihilational component named at its extreme
+=======
+- [[Self-transcendence]] — the capacity these experiences express
+>>>>>>> 6d0dbff0b (maintenance: routed top-up Physician, heal thyself 91->2xx prose words (Luke 4:16-30 KJV scene grounded in freshly opened Bible Gateway carrier, verses quoted verbatim) — validator clean)
 
 ## Sources
 
