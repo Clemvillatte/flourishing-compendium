@@ -53,7 +53,8 @@
   "Zhuangzi's laughter",
   "Zhi zu (knowing sufficiency)",
   "Worry research",
-  "Workaholism research"
+  "Workaholism research",
+  "World-historical individual"
  ],
  "in_progress": null,
  "flagged": {
@@ -74,6 +75,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:32:46+00:00",
- "band_done": false
+ "updated": "2026-10-23T06:34:17+00:00",
+ "band_done": true
 }
