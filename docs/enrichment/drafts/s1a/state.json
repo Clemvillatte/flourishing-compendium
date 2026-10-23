@@ -867,7 +867,7 @@
    ]
   },
   "s1a-030": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D061: Bian Que ranks his eldest brother best — illness removed before it takes form, fame never leaving the house (Heguanzi, Shixian chapter)",
    "history": [
     {
@@ -883,6 +883,11 @@
      "t": "2026-10-23T06:47:13+00:00",
      "to": "qc_pending",
      "note": "carrier block cleared via opened dynamicpoints.com reproduction of Needham's SCI VI:6 translation; draft complete, story_check 0 errors; awaiting advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:56:40+00:00",
+     "to": "ready",
+     "note": "advisor QC approved (3 rounds); check_rule verified as covered by story_check (no separate script exists in repo); story_check 0 errors"
     }
    ]
   },
@@ -1072,5 +1077,5 @@
    ]
   }
  },
- "updated": "2026-10-23T06:47:13+00:00"
+ "updated": "2026-10-23T06:56:40+00:00"
 }
