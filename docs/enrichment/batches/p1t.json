@@ -3,7 +3,6 @@
  "done": [
   "D109",
   "D112",
-  "D119",
   "D131",
   "D143",
   "D145",
@@ -32,14 +31,15 @@
   "D172",
   "D174"
  ],
- "in_progress": null,
+ "in_progress": "D119",
  "flagged": {
   "D164": "Reopened for QC: Owner priority: replace mechanical Plain words and overlong summary with primary-source-bounded explanation and workable application",
   "D172": "Reopened for QC: QC repair: preserve chapter 73 wrongdoing context; replace repeated Plain words with clear practical application",
-  "D174": "Reopened for QC: Owner priority: replace duplicated Plain words and unhelpful talent example with source-bounded explanation and a test of environmental fit"
+  "D174": "Reopened for QC: Owner priority: replace duplicated Plain words and unhelpful talent example with source-bounded explanation and a test of environmental fit",
+  "D119": "Reopened for QC: Repair quotation line-break marker and replace repeated chapter gloss with a practical editing exercise"
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-23T06:36:34+00:00",
+ "updated": "2026-10-23T06:37:01+00:00",
  "band_done": false
 }
