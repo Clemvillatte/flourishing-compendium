@@ -23,6 +23,10 @@ His reason for acceptance is the belief that events belong to an ordered whole a
 
 *For example:* Suppose someone else receives the promotion you wanted. A person practising Marcus's view would try to accept the outcome as part of the larger order, then consider their next action.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the basin-drumming story (ST031) the page lists for acceptance after death.
+
 ## Stories
 
 - [[ST031 — Zhuangzi Drums on a Basin|31. Zhuangzi Drums on a Basin]]

@@ -38,6 +38,10 @@ The remedy he prescribes:
 
 *For example:* Furious at a colleague's remark, you ask "was it meant that way?" and the heat drops.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the empty-boat reflection the page cites for anger's source.
+
 ## Sources
 
 - [Seneca, Of Anger Book I (tr. Aubrey Stewart), Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_I): anger as short madness, definitions, reason versus anger

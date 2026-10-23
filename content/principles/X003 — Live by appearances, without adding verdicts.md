@@ -28,6 +28,10 @@ Sextus says the Sceptic still eats when hungry, follows custom and law, and prac
 **For example**
 For one day, handle a task by following your schedule and your craft's standards. Each time you catch yourself judging what the task "really means", note it and return to the next step.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the fish trap and rabbit snare: the tool forgotten once the catch is in hand.
+
 ## Sources
 
 - [Sextus Empiricus, Outlines of Pyrrhonism, Book I (Wofford College PDF)](https://sites.wofford.edu/wp-content/uploads/OUTLINES%20OF%20PYRRHONISM.pdf)

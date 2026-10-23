@@ -19,6 +19,10 @@ Winnicott treated the capacity to be alone as "one of the most important signs o
 **Plain words** Being alone, in Winnicott's account, is a capacity you build, not a mood you either have or lack. It starts as being alone while someone supportive is present, and the support is gradually carried inside, until solitude stops feeling like abandonment. Time alone is where your own thoughts become audible; the capacity is what lets that be restful instead of empty.
 
 *For example:* a woman spends Saturday morning alone at a coffee shop; the hour is where she hears her own thoughts instead of everyone else's.
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the hermit and the sage the page lists for solitude.
+
 ## Psychology parallels
 
 - **Solitude and self-renewal**, constructive solitude is associated with self-reflection, creativity, and well-being (Larson, 1990; Long & Averill, 2003)

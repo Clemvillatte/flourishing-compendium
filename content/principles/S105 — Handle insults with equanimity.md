@@ -24,6 +24,10 @@ On his account the provocation is an appearance, and the wound is supplied by th
 
 *For example:* A stranger yells at you in traffic. You let it go by and notice it only as weather.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the empty-boat reflection the page cites for equanimity under insult.
+
 ## Sources
 
 - [Epictetus, The Enchiridion, translated by Elizabeth Carter, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html) — chapter 20

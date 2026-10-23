@@ -27,6 +27,7 @@ The program that follows treats the affects as objects of study rather than targ
 *For example:* A man who has hated himself for years for being "so emotional" starts keeping notes on when the emotion rises and what comes before it, treating it as information about his own system.
 
 ## Related concepts
+- [[T009 — Zhuangzi]]: the ten thousand things as one, the page's oneness-of-things parallel.
 
 - [[Oneness of things]] — Zhuangzi on the ten thousand things as one
 - [[Nature connectedness]] — the psychology of feeling connected to the natural world

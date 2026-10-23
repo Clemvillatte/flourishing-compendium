@@ -24,6 +24,10 @@ Hypothetical illustration: you judge that ending an argument would protect a fri
 
 (Ethics IV Preface; III, General Definition of the Affects; III P59 scholium; V P42 scholium. Bennett clear-language translation.)
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the butterfly emblem the page uses for the dream-state of external determination.
+
 ## Psychology parallels
 
 - **External locus of control and learned helplessness**, the classic findings linking perceived external determination to depression (Seligman, 1975, Helplessness; Rotter, 1966)

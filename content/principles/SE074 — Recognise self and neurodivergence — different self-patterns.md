@@ -19,6 +19,10 @@ Cooper and colleagues (2021) reported a positive relationship between the number
 **Plain words** Ask what helps you think, communicate and feel at ease, rather than assuming someone else's routine should fit you. Describe what you need in your own terms; the standard manual is not the only one that works.
 
 *For example:* Imagine an employee who finds an open-plan office overwhelming. They ask to try a quiet workspace and review whether it helps.
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the tree that is not judged by the forest, the page's image for self-patterns that differ without disorder.
+
 ## Psychology parallels
 
 - **Neurodivergent self-patterns**, autistic and ADHD individuals may have different self-concept and identity development (Happé & Frith, 2006; Cooper et al., 2017)

@@ -26,6 +26,10 @@ Seeing your own flaws as funny can help when it keeps perspective. Joking at you
 **For example**
 After a mistake, ask whether the joke you are about to make cheers you up or just buys approval.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: Zhuangzi's laughter, the page's parallel for imperfection held lightly.
+
 ## Sources
 
 - [Martin et al. 2003, Humor Styles Questionnaire (ScienceDirect)](https://www.sciencedirect.com/science/article/abs/pii/S0092656602005342)

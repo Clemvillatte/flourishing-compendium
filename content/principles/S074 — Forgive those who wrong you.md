@@ -30,6 +30,10 @@ When someone wrongs you, these passages direct attention to their understanding 
 
 As a modern application, suppose a colleague takes credit for your work. The passages' questions: what did they believe they needed, and are you able to show them the error? If yes, the instruction is to teach; if not, the instruction is indulgence. Neither response requires pretending the act was fair ([Meditations IX.11](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)).
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the empty-boat reflection the page cites for forgiveness.
+
 ## Sources
 
 - Marcus Aurelius, Meditations, Books II, VII, IX (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt): sections II.1, VII.22, VII.63, IX.11.

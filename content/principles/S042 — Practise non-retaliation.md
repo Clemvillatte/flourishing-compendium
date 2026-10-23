@@ -36,6 +36,10 @@ Someone wrongs you. Before you answer, ask two questions. What does this situati
 
 Reporting a fraud to the authorities is justice. Posting the fraudster's home address online is something else.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the empty-boat reflection the page cites for non-retaliation.
+
 ## Stories
 
 - [[ST198 — The Gardener Tends|198. The Gardener Tends]]

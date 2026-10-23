@@ -23,6 +23,10 @@ Sextus defines scepticism as opposing appearances to judgments so that equal-wei
 
 *For example:* torn for a week between two nearly identical job offers, someone says the formula, takes the one with the shorter commute, and the jaw finally unclenches.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the steering passages' unforced choice, the page's wu wei cousin.
+
 ## Sources
 
 - [Sextus Empiricus, Outlines of Pyrrhonism, Book I selections, trans. R. G. Bury (1933)](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf) — the definition of scepticism and equipollence (I.8-10), the main principle (I.12), the formula passage with self-cancellation (I.14), the End (I.25-30 area)

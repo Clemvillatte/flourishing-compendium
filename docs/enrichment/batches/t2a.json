@@ -127,11 +127,23 @@
   "content/principles/MO060 — Recognise the role of flow in motivated well-being.md",
   "content/principles/MO067 — Recognise ADHD and motivation — interest-based, not importance-based.md",
   "content/principles/MO071 — Recognise motivation and neurodivergence — different patterns.md",
-  "content/principles/P082 — Cultivate skill — knowing-how that flows.md"
+  "content/principles/P082 — Cultivate skill — knowing-how that flows.md",
+  "content/principles/S007 — Accept what happens as the will of providence.md",
+  "content/principles/S042 — Practise non-retaliation.md",
+  "content/principles/S060 — Cure anger by understanding its source.md",
+  "content/principles/S074 — Forgive those who wrong you.md",
+  "content/principles/S105 — Handle insults with equanimity.md",
+  "content/principles/SE033 — Learn to hold your imperfections with humour — lightness is a virtue.md",
+  "content/principles/SE058 — Recognise self and solitude — the self needs alone time.md",
+  "content/principles/SE074 — Recognise self and neurodivergence — different self-patterns.md",
+  "content/principles/SP005 — Treat yourself as part of nature.md",
+  "content/principles/SP029 — Understand bondage as being determined from outside.md",
+  "content/principles/X002 — Use no more this than that as a working formula.md",
+  "content/principles/X003 — Live by appearances, without adding verdicts.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:17:23+00:00",
+ "updated": "2026-10-23T14:17:37+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it."
 }
