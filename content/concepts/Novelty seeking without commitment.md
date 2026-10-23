@@ -13,6 +13,15 @@ Cloninger's model originally consisted of three temperament dimensions: Novelty 
 
 > "Novelty Seeking reflects the tendency to respond strongly to novelty and cues for reward as well as relief from punishment, and is thought to play a role in the activation or initiation of behaviours." (Verweij et al. 2010, describing Cloninger's model, [Biol Psychol](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963646/))
 
+Novelty Seeking is one of four temperament dimensions in the model, and its role only makes sense against the other three. The same paper describes them all:
+
+> "Harm Avoidance reflects the tendency to respond strongly to aversive stimuli, which leads to learned inhibition of behaviour, and is thought to play a role in the inhibition or ceasing of behaviours. Reward Dependence reflects the tendency to react strongly to rewards and to maintain behaviours previously associated with reward or relief of punishment, and is thought to play a role in the maintenance or continuation of behaviour (Cloninger, 1986, 1987). Persistence reflects the tendency to persevere despite frustration and fatigue (Cloninger, et al., 1993)."
+> — [Verweij et al. (2010), PMC2963646](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963646/)
+
+Read together, the four dimensions divide the work of behaviour between them: Novelty Seeking starts it, Harm Avoidance stops it, Reward Dependence keeps it going, and Persistence carries it through frustration and fatigue. The pattern this page names, novelty without commitment, is what the model looks like when the first dimension runs without the fourth: the activation is strong, the perseverance is absent, and the same person starts many things and finishes few.
+
+What the sources do not test: the dimensions are hypothesised to map onto genetically independent neurobiological systems, and the GWAS found no replicable loci; the without-commitment reading is this library's application of the trait language, not a finding from the model's own studies.
+
 ## Related concepts
 
 - [[Explore-exploit trade-off research]] — the decision-theoretic framing of the same pattern
