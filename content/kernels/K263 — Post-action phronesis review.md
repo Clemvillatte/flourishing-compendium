@@ -25,7 +25,7 @@ The practice moves the Cognition and Motivation dimensions: the action is re-des
 The empirical grounding for reviewing after acting, from a meta-analysis of the after-action review across 61 studies:
 
 > "Based on a bare-bones meta-analysis of the results from 61 studies (107 ds [915 teams and 3,499 individuals]), the AAR leads to an overall d of 0.79 improvement in multiple training evaluation criteria."
-> — [Keiser & Arthur 2021, *Journal of Applied Psychology* 106(7), PubMed record](https://pubmed.ncbi.nlm.nih.gov/32852990/)]
+> — [Keiser & Arthur 2021, *Journal of Applied Psychology* 106(7), PubMed record](https://pubmed.ncbi.nlm.nih.gov/32852990/)
 
 What the cited study does not test: the effect is measured on structured training evaluations with review media and facilitation, not on a personal four-question written review; the philosophical claim about phronesis is Aristotle's thesis, not a measured outcome; and the page claims no wisdom gain for the exercise.
 

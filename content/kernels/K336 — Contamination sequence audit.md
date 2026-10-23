@@ -25,7 +25,7 @@ The practice moves the Cognition and Self dimensions: the story's structure is i
 The finding behind the audit, from a two-study longitudinal investigation of narrative identity and mental health over several years:
 
 > "Concurrent analyses indicated that the themes of agency, redemption, and contamination were significantly associated with mental health. Longitudinal analyses indicated that these same 3 themes were significantly associated with participants' trajectories of mental health over the course of 4 years."
-> — [Adler et al. 2015, *JPSP* 108(3), PubMed record](https://pubmed.ncbi.nlm.nih.gov/25751718/)]
+> — [Adler et al. 2015, *JPSP* 108(3), PubMed record](https://pubmed.ncbi.nlm.nih.gov/25751718/)
 
 What the cited study does not test: these are associations between narrated themes and mental-health trajectories, not evidence that rewriting a story improves anything; no study tests this page's three-sentence audit, and the page claims no measured effect for it.
 
