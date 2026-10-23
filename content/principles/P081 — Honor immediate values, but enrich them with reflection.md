@@ -23,7 +23,7 @@ Dewey says the purpose of criticism is to establish and sustain more enduring an
 **Plain words**
 You can enjoy something before having a theory of why it is good. Reflection begins when you ask how that pleasure fits into the rest of life: what made it possible, what it costs, what follows. The delight is already there. Understanding its surroundings gives you something to work with when you want it to have a lasting place.
 
-For example: You enjoyed swimming at a quiet pool. Compare two ways of returning: a session that leaves you rushing to work and one you can reach without that pressure. After trying each, record the swim itself, the journey and what happened to the rest of the morning. Keep the arrangement that supports the experience you value. This is the compendium's application of Dewey's inquiry, not a study of swimming.
+For example: You enjoyed swimming at a quiet pool. Compare two ways of returning: a session that leaves you rushing to work and one you can reach without that pressure. After trying each, record the swim itself, the journey and what happened to the rest of the morning. Keep the arrangement that supports the experience you value.
 
 ## Sources
 
