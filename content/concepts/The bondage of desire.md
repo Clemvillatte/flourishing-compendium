@@ -23,9 +23,9 @@ The distinction verse 338 draws is that cutting down the tree does not prevent r
 
 ## Related concepts
 
-- [[The insatiability of craving]] — the Buddhist analysis of why craving never fills
+- [[The insatiability of craving]] — Schopenhauer's structural claim that wanting regenerates itself
 - [[The craving-to-addiction model]] — the compendium's addiction entry for the same craving
-- [[Impermanence]] — the mark of existence that craving denies
+- [[Impermanence]] — the cross-tradition hub for the fact that everything that arises will pass
 
 ## Sources
 
