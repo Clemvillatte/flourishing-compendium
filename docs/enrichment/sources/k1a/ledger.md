@@ -687,3 +687,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: object-uses task, not real problem solving; the number five and deferred evaluation left as the kernel's design, not tested findings; shifting/inhibition moderation noted.
 - Mention check run (before this entry): K325 already linked from E010/A037/S021 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K352 — Moral injury audit (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Litz, Stein, Delaney, Lebowitz, Nash, Silva & Maguen 2009 (Clin Psychol Rev 29(8):695-706), the conceptual paper that defined moral injury, abstract verified raw via NCBI efetch (PMID 19683376); authors read from the efetch header.
+- The blockquote (moral injury definition sentence) matches the raw efetch text verbatim.
+- Honesty on page: conceptual review with no trial data; the seed's claim that unaddressed moral pain predicts PTSD, depression and suicide risk attributed to the later literature explicitly NOT cited as if from this paper, and the wound/repair framing scoped to the definition and proposed strategies. Note: an initial efetch attempt with a guessed PMID returned an unrelated bladder-cancer paper; discarded unread beyond identification, and the correct PMID found by search — no content from the wrong record used.
+- Mention check run (before this entry): K352 already linked from E011/E012/A023/S007 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
