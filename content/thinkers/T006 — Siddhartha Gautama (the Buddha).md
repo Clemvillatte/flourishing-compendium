@@ -25,7 +25,7 @@ Mind is the forerunner: "All that we are is the result of what we have thought: 
 
 ## Core ideas
 
-- **The four truths** — suffering, its origin, its cessation, and the path: the frame of the whole corpus. See [[B044 — Recognise dukkha — the marks of unsatisfactoriness|B044]], [[Four Noble Truths]], [[Dukkha]], [[The avoidance of suffering]].
+- **The four truths** — suffering, its origin, its cessation, and the path: the frame of the whole corpus. See [[B001 — Face suffering directly|B001]], [[B006 — Craving is the engine of suffering (tanha)|B006]], [[Four Noble Truths]], [[Dukkha]], [[The avoidance of suffering]].
 - **Non-self (anatta)** — the self is a construction of impermanent parts; no spectator self to defend. See [[B075 — The thinker is another thought|B075]], [[Anatta]], [[SE001 — Understand that the self is constructed, not discovered|SE001]], [[Self-as-context]].
 - **Impermanence (anicca)** — everything arises and passes; clinging to the passing is the machinery of suffering. See [[Impermanence]], [[Non-attachment]], [[The art of letting go]].
 - **Karma as intention** — it is the volition behind the act that carries consequence. See [[B005 — Intention is karma|B005]], [[Karma]], [[Samskara]].
