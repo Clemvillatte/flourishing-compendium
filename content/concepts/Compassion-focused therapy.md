@@ -17,6 +17,10 @@ The approach rests on a model of three emotion regulation systems, set out in th
 
 The compendium's seed line, "building the affiliative soothing system", names the same target. The article holds that this system, linked to attachment and the opiates, "may be called 'social safeness'", and is "internally wired to act as a regulator of the threat protection and drive systems".
 
+### Fear of compassion
+
+The article also addresses clients for whom warmth itself is alarming. Behavioural tasks encouraging exposure to positive emotions can help the client learn to enjoy experiencing them, and the article treats fear of compassion as an obstacle the training works through ([Gilbert 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)).
+
 ### In the compendium
 
 - [[D031 — Treasure 1 — compassion (ci)]] — the Daoist compassion parallel

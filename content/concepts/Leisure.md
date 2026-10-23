@@ -15,6 +15,14 @@ Pieper characterizes leisure through stillness, receptive understanding and affi
 
 The stillness is not mere silence: it is that condition in which the soul's power "of responding to the real" has "not yet descended into words", and leisure itself is "the disposition of receptive understanding, of contemplative beholding, and immersion" in the real. Pieper is careful to distinguish leisure from both idleness and inactivity: it "is not the same as the absence of activity; it is not the same thing as quiet, or even as an inner quiet". Its ground is affirmation: leisure "is only possible in the assumption that man is not only in harmony with himself [whereas idleness is rooted in the denial of this harmony], but also that he is in agreement with the world and its meaning", for "Leisure lives on affirmation."
 
+### The link to worship
+
+The book's larger claim runs beyond individual rest:
+
+> "Culture depends for its very existence on leisure, and leisure, in its turn, is not possible unless it has a durable and consequently living link with the cultus with divine worship." (Pieper, [Leisure: The Basis of Culture](https://iwcinsb.org/studygroups/2024%20readings/Leisure.pdf))
+
+On this account leisure is not a compensatory pause but the root from which culture grows; the page's distinction between leisure and idleness sits inside that larger claim.
+
 ## Related concepts
 
 
