@@ -28,6 +28,10 @@ The theory answer works in maths because the objects are the same for everyone. 
 *For example:*
 A senior doctor who tells a patient the truth gently, at the right pace, isn't following a script. She's reading the person.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: skillful responsiveness, the cook's hand the Inner Chapters trust
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, W. D. Ross translation (Oxford 2009 edition), Internet Archive](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf) — Book VI chapters 5, 7 and 8; the mark-of-practical-wisdom passage quoted verbatim, the rest paraphrased with citations
