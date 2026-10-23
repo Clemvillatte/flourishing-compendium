@@ -8,28 +8,31 @@ tags: ["person", "track/psychology"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-
-> **Thinker T019** — Viktor Frankl (1905–1997), Austrian psychiatrist and neurologist, Holocaust survivor, founder of logotherapy, "the Third Viennese School of Psychotherapy" alongside Freud's psychoanalysis and Adler's individual psychology ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)).
+Viktor Emil Frankl (26 March 1905, Vienna — 2 September 1997, Vienna) was an Austrian neurologist, psychiatrist and Holocaust survivor who founded logotherapy, "a school of psychotherapy that describes a search for a life's meaning as the central human motivational force" ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)).
 
 ## Personal story / context
 
-Frankl survived Theresienstadt, Auschwitz and other camps, and wrote up the method in Man's Search for Meaning, first published in German as Ein Psychologe erlebt das Konzentrationslager in 1946. The Wikipedia page for logotherapy gives the primary-motivation claim: "striving to find meaning in life is the primary, most powerful motivating and driving force in humans" ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)).
+In 1942, nine months after his marriage, Frankl and his family were sent to the Theresienstadt concentration camp; his father died there of starvation and pneumonia. In 1944 the surviving relatives were transported to Auschwitz, where his mother and brother were murdered; his wife Tilly died of typhus in Bergen-Belsen. He "spent three years in four concentration camps," and the Wikipedia biography notes he was held at Auschwitz only days, unregistered, before being sent on to Kaufering III, a subsidiary work camp of Dachau ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)).
 
 ## Their why
 
-Frankl's answer to the why is written in the camps. The compendium's Logotherapy page carries the core quote: "everything can be taken from a man but one thing: the last of the human freedoms – to choose one's attitude in any given set of circumstances" ([Frankl, quoted in Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). Attitude is the one thing that can still be chosen; what follows from that for a life of suffering is the question.
+While head of the Neurological Department at the General Polyclinic Hospital, Frankl wrote the book over a nine-day period. It was originally titled A Psychologist Experiences the Concentration Camp, released in German in 1946; the English translation, Man's Search for Meaning, was published in 1959 ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)). The composition claim is a claim about the book's writing, not the camps.
 
 ## Their position
 
-Frankl's theory is a theory of motivation, not a theory of happiness. Where Freud placed the will to pleasure and Adler the will to power, Frankl placed the will to meaning. The three channels are stated as a single list: "We can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering" ([Frankl, quoted in Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)).
+Frankl's book states the freedom-and-responsibility pairing directly:
+
+> "Freedom, however, is not the last word. Freedom is only part of the story and half of the truth. Freedom is but the negative aspect of the whole phenomenon whose positive aspect is responsibleness. In fact, freedom is in danger of degenerating into mere arbitrariness unless it is lived in terms of responsibleness." ([Wikipedia, Viktor Frankl, quoting Man's Search for Meaning](https://en.wikipedia.org/wiki/Viktor_Frankl))
+
+The theory places meaning where Freud placed pleasure and Adler power: Frankl "was expelled from Adler's circle when he insisted that meaning was the central motivational force in human beings" ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)). The three ways of realizing meaning are stated as: "by making a difference in the world, by having particular experiences, or by adopting particular attitudes" ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)).
 
 ## Core ideas
 
-- **The will to meaning** — the primary motivational force, not a derivative of pleasure or power. See [[The will to meaning]], [[The search for meaning]].
-- **Logotherapy as method** — meaning-centred, not happiness-centred, treatment. See [[Logotherapy]], [[Meaning-centred therapy]], [[Noogenic neurosis]].
-- **Attitudinal values** — the third channel; meaning in unavoidable suffering. See [[Attitudinal values]], [[The meaning of suffering]], [[Tragic optimism]].
-- **Self-transcendence** — the person is constituted by aiming past themselves. See [[Self-transcendence]], [[Happiness as by-product]].
-- **Meaning in the three channels** — creation, experience, attitude. See [[Meaning-making]], [[Creative values]], [[Experiential values]].
+- **The will to meaning** — meaning as the central motivational force. See [[The will to meaning]], [[The search for meaning]].
+- **Logotherapy** — the third Viennese school, after Freud and Adler. See [[Logotherapy]], [[Meaning-centred therapy]], [[Noogenic neurosis]].
+- **Attitudinal values** — the attitude route to meaning. See [[Attitudinal values]], [[The meaning of suffering]], [[Tragic optimism]].
+- **Freedom and responsibleness** — freedom lived in terms of responsibility. See [[Self-transcendence]], [[Happiness as by-product]].
+- **Meaning in creation, experience, attitude**. See [[Meaning-making]], [[Creative values]], [[Experiential values]].
 
 ## Connection to the compendium
 
@@ -42,4 +45,4 @@ Frankl's theory is a theory of motivation, not a theory of happiness. Where Freu
 
 ## Sources
 
-- [Wikipedia, "Logotherapy"](https://en.wikipedia.org/wiki/Logotherapy) — the Third-Viennese-School framing, the primary-motivation quote, the three-channels list, the attitude-freedom quote.
+- [Wikipedia, "Viktor Frankl"](https://en.wikipedia.org/wiki/Viktor_Frankl) — the biography, camps, publication history, the freedom/responsibleness quotation and the three-ways list are all verbatim from this carrier.
