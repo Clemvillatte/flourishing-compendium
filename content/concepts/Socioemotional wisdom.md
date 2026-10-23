@@ -21,8 +21,10 @@ Despair, as the article summarizes a developmental textbook by Miller, is "a dis
 
 ## Related concepts
 
-- [[Wisdom]] — listed for comparison
+- [[Wisdom]] — the general strength; this page keeps Erikson's eighth-stage form of it
 - [[Ego integrity (Erikson)]] — the crisis side of the same eighth stage
+- [[Practical wisdom]] — the Aristotelian cousin, about what to do
+- [[Intellectual humility]] — a neighbouring virtue of holding one's knowledge lightly
 
 ## Sources
 

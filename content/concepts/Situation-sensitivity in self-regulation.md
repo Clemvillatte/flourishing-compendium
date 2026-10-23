@@ -22,6 +22,9 @@ The emotion-regulation version states the same point from the strategy side: "ER
 ## Related concepts
 
 - [[Situation selection]] — the Gross process-model strategy of shaping contexts before they arrive
+- [[Emotion regulation]] — the family of processes the construct belongs to
+- [[Cognitive flexibility]] — the capacity the sensitivity draws on
+- [[Context-dependent behaviour (Wood & Neal)]] — the habit-research account of context sensitivity
 
 ## Sources
 
