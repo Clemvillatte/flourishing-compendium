@@ -17,7 +17,7 @@ The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/pra
 
 Peirce's first example is the word "hard":
 
-> "Let us ask what we mean by calling a thing hard. Evidently that it will not be scratched by many other substances. The whole conception of this quality, as of every other, lies in its conceived, effects." (Peirce, 1878, [Wikisource](https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II))
+> "... let us ask what we mean by calling a thing hard. Evidently that it will not be scratched by many other substances. The whole conception of this quality, as of every other, lies in its conceived, effects." (Peirce, 1878, [Wikisource](https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_12/January_1878/Illustrations_of_the_Logic_of_Science_II))
 
 He then imagines a diamond crystallised in a cushion of cotton and burned up without ever being tested, and asks whether it would be false to call it soft. His point is that hard and soft differ only through what happens when they are tested.
 
