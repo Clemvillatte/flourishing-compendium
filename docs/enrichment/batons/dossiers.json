@@ -15,5 +15,7 @@
    "from": "worker-pplx-dossiers-1023b",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-23T13:25:16+00:00"
 }
