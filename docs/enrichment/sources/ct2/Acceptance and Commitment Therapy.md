@@ -31,3 +31,11 @@ abstract carrier replaced by the article manuscript (see above).
 Reciprocal backlinks: Present-moment awareness theory and Mindfulness do not backlink
 ACT — proposals minted in docs/enrichment/proposals/ct2.json. All other Related targets
 already backlink.
+
+## Spot-check (2026-10-23 11:51 UTC, taper verification pass)
+Three body quotes re-verified verbatim against a newly opened full-text copy of
+Hayes, Luoma, Bond, Masuda and Lillis 2006 (anxietyinstitute.com ScholarWorks/GSU
+copy of the Behaviour Research and Therapy 44(1) 1-25 PDF): the "not a specific
+technology" definition, the "active and aware embrace" acceptance definition, and
+the "alter the undesirable functions" defusion sentence. All three match the
+page's blockquotes word for word.
