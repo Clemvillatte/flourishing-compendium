@@ -16,7 +16,31 @@ The practice: catch the setback early, treat it as a normal part of change rathe
 
 A caveat the source takes seriously: not every setback is harmless. For some changes (addiction, self-harm, medical regimens), a slip can have serious consequences, and "it's just data" can be the wrong frame. Where that's the case, professional support belongs in the picture.
 
-Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 12 (Supporting Persistence), p. 205; Miller (2015), "Retire the concept of 'relapse,'" cited at p. 211 n.11.
+Adapted from Miller & Rollnick, Motivational Interviewing (4th ed.), ch. 12 (Supporting Persistence), p. 205; Miller (2015), "Retire the concept of 'relapse'," cited at p. 211 n.11.
+
+### Evidence
+
+The book's own account of the setback problem:
+
+> "When people set up an absolute black-or-white perfection goal for themselves (e.g., “I will not eat sweets”), the first rule violation can trigger a breakdown in self-control (Baumeister et al., 1994; Cummings, Gordon, & Marlatt, 1980). Once the rule has been broken it seems there is nothing to lose. The very term relapse is a pejorative label implying that there are only two possible states: perfection or relapse (Miller, 1996). It can help to catch these setbacks early, normalize them, and keep them from derailing the person’s entire plan."
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+
+What the sources do not test: the passage describes the clinical support task; the self-directed framing on this page is the compendium's adaptation, and the safety caveat above stands where a slip carries serious consequences.
+
+## Related concepts
+
+- [[Habit formation]] — the behavior the slip happens inside.
+- [[Habit maintenance]] — the stage a setback most often interrupts.
+- [[Habit discontinuity]] — the breaks in habit the setback can be read as.
+
+## Related kernels
+
+- [[K369 — The autonomy statement]]
+- [[K371 — Importance and confidence rulers]]
+
+## Sources
+
+- [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
 ## Operationalises
 
