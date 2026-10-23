@@ -1,305 +1,235 @@
 {
-  "proposed_reciprocal": [
-    {
-      "page": "content/principles/AF041 \u2014 Learn distress tolerance \u2014 the capacity to bear intense affect without making it worse.md",
-      "id": "AF041",
-      "title": "Learn distress tolerance: the capacity to bear intense affect without making it worse",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/AF042 \u2014 Practise opposite action \u2014 do the opposite of what the feeling urges.md",
-      "id": "AF042",
-      "title": "Practise opposite action: do the opposite of what the feeling urges",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/AF075 \u2014 Learn emotional validation \u2014 acknowledging a feeling reduces its intensity.md",
-      "id": "AF075",
-      "title": "Learn emotional validation: acknowledging a feeling reduces its intensity",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/B124 \u2014 Meet suchness \u2014 things as they are.md",
-      "id": "B124",
-      "title": "Meet suchness: things as they are",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/B183 \u2014 Ride strong emotions without acting.md",
-      "id": "B183",
-      "title": "Ride strong emotions without acting",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/B189 \u2014 Ground in the body.md",
-      "id": "B189",
-      "title": "Ground in the body",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/BE004 \u2014 Understand that behaviour is learned \u2014 skills can be acquired.md",
-      "id": "BE004",
-      "title": "Understand that behaviour is learned: skills can be acquired",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/BE021 \u2014 Learn to use behavioural rehearsal \u2014 practise before performing.md",
-      "id": "BE021",
-      "title": "Learn to use behavioural rehearsal: practise before performing",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/BE022 \u2014 Learn to use opposite action \u2014 do the opposite of what the emotion urges.md",
-      "id": "BE022",
-      "title": "Learn to use opposite action: do the opposite of what the emotion urges",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/BE033 \u2014 Learn approach behaviours for anger \u2014 step toward, do not attack.md",
-      "id": "BE033",
-      "title": "Learn approach behaviours for anger: step toward, do not attack",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/BE034 \u2014 Learn approach behaviours for shame \u2014 show up, do not hide.md",
-      "id": "BE034",
-      "title": "Learn approach behaviours for shame: show up, do not hide",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/BE036 \u2014 Learn to build tolerance for discomfort \u2014 approach despite discomfort.md",
-      "id": "BE036",
-      "title": "Learn to build tolerance for discomfort: approach despite discomfort",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/BE048 \u2014 Learn to use the dive reflex \u2014 cold water for acute distress.md",
-      "id": "BE048",
-      "title": "Learn to use the dive reflex: cold water for acute distress",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/BE052 \u2014 Learn assertiveness \u2014 express needs and boundaries directly.md",
-      "id": "BE052",
-      "title": "Learn assertiveness: express needs and boundaries directly",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/BI048 \u2014 Learn to use cold exposure \u2014 the dive reflex.md",
-      "id": "BI048",
-      "title": "Learn to use cold exposure: the dive reflex",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/S007 \u2014 Accept what happens as the will of providence.md",
-      "id": "S007",
-      "title": "Accept what happens as the will of providence",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/S014 \u2014 Want what actually happens.md",
-      "id": "S014",
-      "title": "Want what actually happens",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/S023 \u2014 Do not fear pain.md",
-      "id": "S023",
-      "title": "Do not fear pain",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/S059 \u2014 Do not be carried away by passion.md",
-      "id": "S059",
-      "title": "Do not be carried away by passion",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/S094 \u2014 Accept pain as part of nature.md",
-      "id": "S094",
-      "title": "Accept pain as part of nature",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/SE069 \u2014 Recognise identity disturbances \u2014 when self is fragmented.md",
-      "id": "SE069",
-      "title": "Recognise identity disturbances: when self is fragmented",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/SE076 \u2014 Recognise clinical self-symptoms \u2014 when self-problems require evaluation.md",
-      "id": "SE076",
-      "title": "Recognise clinical self-symptoms: when self-problems require evaluation",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/Y025 \u2014 Treat restlessness as weather, not as enemy.md",
-      "id": "Y025",
-      "title": "Treat restlessness as weather, not as enemy",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/principles/Y118 \u2014 Bear the opposites.md",
-      "id": "Y118",
-      "title": "Bear the opposites",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Behavioural rehearsal role-play (DBT, social skills training).md",
-      "id": "Behavioural rehearsal / role-play (DBT, social skills training)",
-      "title": "Behavioural rehearsal / role-play (DBT, social skills training)",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/DBT Biosocial Theory.md",
-      "id": "DBT Biosocial Theory",
-      "title": "DBT Biosocial Theory",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Dialectical behaviour therapy, emotion modulation.md",
-      "id": "Dialectical behaviour therapy, emotion modulation",
-      "title": "Dialectical behaviour therapy, emotion modulation",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Distress tolerance (DBT).md",
-      "id": "Distress tolerance (DBT)",
-      "title": "Distress tolerance (DBT)",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Dive reflex (Linehan, Khalsa).md",
-      "id": "Dive reflex (Linehan, Khalsa)",
-      "title": "Dive reflex (Linehan, Khalsa)",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Experiential avoidance theory.md",
-      "id": "Experiential avoidance theory",
-      "title": "Experiential avoidance theory",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Facial feedback.md",
-      "id": "Facial feedback",
-      "title": "Facial feedback",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Grounding techniques.md",
-      "id": "Grounding techniques",
-      "title": "Grounding techniques",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Opposite action (Linehan).md",
-      "id": "Opposite action (Linehan)",
-      "title": "Opposite action (Linehan)",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Radical acceptance.md",
-      "id": "Radical acceptance",
-      "title": "Radical acceptance",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Schema Therapy Model.md",
-      "id": "Schema Therapy Model",
-      "title": "Schema Therapy Model",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Shame.md",
-      "id": "Shame",
-      "title": "Shame",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Skills training (DBT, CBT).md",
-      "id": "Skills training (DBT, CBT)",
-      "title": "Skills training (DBT, CBT)",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/TIPP skills (DBT).md",
-      "id": "TIPP skills (DBT)",
-      "title": "TIPP skills (DBT)",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/The courage to act against impulse.md",
-      "id": "The courage to act against impulse",
-      "title": "The courage to act against impulse",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Urge surfing.md",
-      "id": "Urge surfing",
-      "title": "Urge surfing",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/concepts/Value-based living.md",
-      "id": "Value-based living",
-      "title": "Value-based living",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/kernels/K123 \u2014 Radical acceptance.md",
-      "id": "K123",
-      "title": "Radical acceptance",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    },
-    {
-      "page": "content/kernels/K249 \u2014 Half-smile.md",
-      "id": "K249",
-      "title": "Half-smile",
-      "thinker": "T032",
-      "add": "Add thinker wikilink in Related/See-also"
-    }
-  ]
+ "proposed_reciprocal": [
+  {
+   "page": "content/principles/AF041 — Learn distress tolerance — the capacity to bear intense affect without making it worse.md",
+   "id": "AF041",
+   "title": "Learn distress tolerance: the capacity to bear intense affect without making it worse",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/AF042 — Practise opposite action — do the opposite of what the feeling urges.md",
+   "id": "AF042",
+   "title": "Practise opposite action: do the opposite of what the feeling urges",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/AF075 — Learn emotional validation — acknowledging a feeling reduces its intensity.md",
+   "id": "AF075",
+   "title": "Learn emotional validation: acknowledging a feeling reduces its intensity",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/BE004 — Understand that behaviour is learned — skills can be acquired.md",
+   "id": "BE004",
+   "title": "Understand that behaviour is learned: skills can be acquired",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/BE021 — Learn to use behavioural rehearsal — practise before performing.md",
+   "id": "BE021",
+   "title": "Learn to use behavioural rehearsal: practise before performing",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/BE022 — Learn to use opposite action — do the opposite of what the emotion urges.md",
+   "id": "BE022",
+   "title": "Learn to use opposite action: do the opposite of what the emotion urges",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/BE033 — Learn approach behaviours for anger — step toward, do not attack.md",
+   "id": "BE033",
+   "title": "Learn approach behaviours for anger: step toward, do not attack",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/BE034 — Learn approach behaviours for shame — show up, do not hide.md",
+   "id": "BE034",
+   "title": "Learn approach behaviours for shame: show up, do not hide",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/BE036 — Learn to build tolerance for discomfort — approach despite discomfort.md",
+   "id": "BE036",
+   "title": "Learn to build tolerance for discomfort: approach despite discomfort",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/BE048 — Learn to use the dive reflex — cold water for acute distress.md",
+   "id": "BE048",
+   "title": "Learn to use the dive reflex: cold water for acute distress",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/BE052 — Learn assertiveness — express needs and boundaries directly.md",
+   "id": "BE052",
+   "title": "Learn assertiveness: express needs and boundaries directly",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/BI048 — Learn to use cold exposure — the dive reflex.md",
+   "id": "BI048",
+   "title": "Learn to use cold exposure: the dive reflex",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/SE069 — Recognise identity disturbances — when self is fragmented.md",
+   "id": "SE069",
+   "title": "Recognise identity disturbances: when self is fragmented",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/principles/SE076 — Recognise clinical self-symptoms — when self-problems require evaluation.md",
+   "id": "SE076",
+   "title": "Recognise clinical self-symptoms: when self-problems require evaluation",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Behavioural rehearsal role-play (DBT, social skills training).md",
+   "id": "Behavioural rehearsal / role-play (DBT, social skills training)",
+   "title": "Behavioural rehearsal / role-play (DBT, social skills training)",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/DBT Biosocial Theory.md",
+   "id": "DBT Biosocial Theory",
+   "title": "DBT Biosocial Theory",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Dialectical behaviour therapy, emotion modulation.md",
+   "id": "Dialectical behaviour therapy, emotion modulation",
+   "title": "Dialectical behaviour therapy, emotion modulation",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Distress tolerance (DBT).md",
+   "id": "Distress tolerance (DBT)",
+   "title": "Distress tolerance (DBT)",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Dive reflex (Linehan, Khalsa).md",
+   "id": "Dive reflex (Linehan, Khalsa)",
+   "title": "Dive reflex (Linehan, Khalsa)",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Experiential avoidance theory.md",
+   "id": "Experiential avoidance theory",
+   "title": "Experiential avoidance theory",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Facial feedback.md",
+   "id": "Facial feedback",
+   "title": "Facial feedback",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Grounding techniques.md",
+   "id": "Grounding techniques",
+   "title": "Grounding techniques",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Opposite action (Linehan).md",
+   "id": "Opposite action (Linehan)",
+   "title": "Opposite action (Linehan)",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Radical acceptance.md",
+   "id": "Radical acceptance",
+   "title": "Radical acceptance",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Schema Therapy Model.md",
+   "id": "Schema Therapy Model",
+   "title": "Schema Therapy Model",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Shame.md",
+   "id": "Shame",
+   "title": "Shame",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Skills training (DBT, CBT).md",
+   "id": "Skills training (DBT, CBT)",
+   "title": "Skills training (DBT, CBT)",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/TIPP skills (DBT).md",
+   "id": "TIPP skills (DBT)",
+   "title": "TIPP skills (DBT)",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/The courage to act against impulse.md",
+   "id": "The courage to act against impulse",
+   "title": "The courage to act against impulse",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Urge surfing.md",
+   "id": "Urge surfing",
+   "title": "Urge surfing",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/concepts/Value-based living.md",
+   "id": "Value-based living",
+   "title": "Value-based living",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/kernels/K123 — Radical acceptance.md",
+   "id": "K123",
+   "title": "Radical acceptance",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  },
+  {
+   "page": "content/kernels/K249 — Half-smile.md",
+   "id": "K249",
+   "title": "Half-smile",
+   "thinker": "T032",
+   "add": "Add thinker wikilink in Related/See-also"
+  }
+ ]
 }
