@@ -1,0 +1,2 @@
+
+**Second-pass quote verification (pre-taper, 2026-10-23):** quoted passages spot-checked against reopened carriers where fetchable — T026 (Tanner PDF, verified at advisor QC), T027 (PMC broaden-and-build article), T029 (psychclassics 1943), T031 (Gutenberg Enquiry), T030 (marxists.org; "to be in love" verified) — all verbatim, no discrepancies. T028 Greater Good re-fetch returned a client error; quotes stand on the mint-time fetch and correct attribution.
