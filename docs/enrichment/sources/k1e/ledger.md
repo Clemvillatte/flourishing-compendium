@@ -69,3 +69,11 @@
 - Seed repairs: the seed's "groups that consider diverse perspectives outperform individuals" claim was NOT carried (the opened abstract supports the c-factor/social-sensitivity/turn-taking findings, which are now quoted and honestly scoped); a draft sentence claiming task types ("from brainstorming to moral reasoning") was caught in self-check and removed (the opened abstract does not list task types); the "what would you consider" question format and the two-advisor rule labelled editorial.
 - Bounded evidence statement per the advisor ruling ("the cited research did not evaluate an advisor-consultation protocol"). Guided-version exemption: conversation practice, no recording required (self-directed; K203 nap precedent).
 - All 13 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
+
+## K266 — Impression-judgement-action log (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carriers opened: Gutenberg 45109 (Epictetus Enchiridion, Higginson translation) raw-downloaded — Enchiridion V disturbance passage verbatim; Krohne 2002 "Stress and Coping Theories" PDF (uv.mx mirror) raw-downloaded and pdftotext-extracted — the appraisal-necessity passage and the Arnold/Lazarus history verbatim from PDF p. 3.
+- Seed repairs: the seed's "Research on cognitive mediation shows that it is the interpretation, not the event, that drives the emotional response" narrowed to what the opened carrier supports — appraisal theory as summarized in the Krohne review, honestly scoped (theory and research tradition, not a test of a three-column log). The Stoic sentence labelled a doctrine, not a trial result. The three-column form labelled editorial.
+- Citation fix in self-check: an invented editor attribution for the Krohne chapter was removed (the PDF gives no encyclopedia/editorial front matter beyond author, affiliation and 2002 availability); the locator is the PDF page (p. 3).
+- Guided-version exemption: ruled-page practice, no recording required (self-directed; K203 nap precedent).
+- All 6 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean (two verification-narration phrases in Sources caught and removed before push).
