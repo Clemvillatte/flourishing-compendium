@@ -396,3 +396,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - Limits section updated to record the re-verification (the original said "not independently re-verified by the WIKI" — now that the carriers are opened, the note names them).
 - Original Operationalises line preserved exactly; Related concepts retargeted to existing pages only (Approach versus avoidance motivation, Regulatory focus theory, Creativity — existence checked).
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K398 — Mindfulness bells (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~110-word seed rebuilt to the K100 model (~540 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: Parallax Press "The Bell of Mindfulness" article (Thich Nhat Hanh's own verses, from *Present Moment, Wonderful Moment*) — the "Hearing the bell, we make our minds one with the sound" passage and the "Silent bells ... Stop signs, red lights, or the face of a child" extension read verbatim; Tricycle's "Stop and Breathe" (Gary Gach, 2016) — the "we don't need a literal meditation bell" paragraph read verbatim.
+- The Williams/Penman book (commercial) remains unopened; the underlying practice is Thich Nhat Hanh's (the "mindfulness bell" is a Plum Village tradition term, and Williams/Penman's ch. 11 application to household activities is an editorial adaptation); the opened carriers are the classical tradition's own text plus a modern teacher's account; the franticworld.com pages are robots-blocked.
+- Original Operationalises line preserved exactly; the "Autopilot" Related-concepts link (no such page) retargeted to Habit formation; dashes reduced to 3 after the validator catch (the "— pre-set reminders" header em dash replaced with a colon).
+- Customer-facing grep clean; validator ok, 0 failed.
