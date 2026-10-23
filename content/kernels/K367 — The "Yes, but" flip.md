@@ -14,7 +14,7 @@ Notice when your own change-talk gets cancelled by a "but": "I really want to wo
 
 The flip: put the sustain talk first, and change "but" to "and." "I am so busy and I really want to work out regularly." The same facts, but the reason-for-change survives the sentence.
 
-This is a language move, not a denial of the obstacle — the "busy" is still true. And note: sustain talk — speech about keeping the behavior as it is — is not the same thing as discord, which is friction in the helping relationship itself. If you hear friction about the *relationship* — "you don't understand," "you always say that" — that's a different problem, and pushing harder about the change won't fix it.
+This is a language move, not a denial of the obstacle: the "busy" is still true. And note: sustain talk (speech about keeping the behavior as it is) is not the same thing as discord, which is friction in the helping relationship itself. If you hear friction about the *relationship* ("you don't understand," "you always say that"), that's a different problem, and pushing harder about the change won't fix it.
 
 Adapted from Drapkin, *The Motivational Interviewing Path to Personal Change*, ch. 4, PDF p. 1402 (this edition has no printed page numbers).
 
@@ -22,7 +22,7 @@ Adapted from Drapkin, *The Motivational Interviewing Path to Personal Change*, c
 
 1. Catch a sentence of your own that cancels itself: change talk in front, "but", obstacle behind.
 2. Write the sentence down and mark which half is the reason-for-change and which half is the status quo.
-3. Rewrite it with the two halves joined by "and", order swapped or kept — choose the order that leaves the reason-for-change standing at the end.
+3. Rewrite it with the two halves joined by "and", order swapped or kept; choose the order that leaves the reason-for-change standing at the end.
 4. Say the rewritten version aloud once. The obstacle stays in the sentence; only the cancellation goes.
 
 ### Evidence
