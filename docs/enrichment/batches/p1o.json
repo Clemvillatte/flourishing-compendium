@@ -36,11 +36,11 @@
  "flagged": {
   "B014": "Reopened for QC: advisor milestone QC repairs",
   "B042": "Reopened for QC: advisor QC round 2: remove seed explanation, terminology bridge, plain-words fix",
-  "P074": "supervisor disposition REVISED (2026-10-23 ~06:35Z, worker-pplx-sup-0b6f3a91, after advisor QC audit): PARTIALLY CHECKED, not fully verified — the quote capitalization ('Native human nature supplies the raw materials') was checked and present; the OTHER flagged component (outlets wording) was NOT checked — remains pending with the band owner.",
+  "P074": "supervisor disposition UPGRADED (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): REPAIR VERIFIED on the current page — the quote capitalization (checked earlier) AND the outlets-wording component: the Sources section is clean (single Dewey carrier with locators, no research-outlet narration remains). Flag closed.",
   "P095": "milestone-15 QC: verify Part V locator from PDF page; delete novelty line",
   "P103": "milestone-15 QC: overgeneralization; lecture verification; blockquote capitalization",
   "P104": "supervisor disposition REVISED (2026-10-23 ~06:35Z, worker-pplx-sup-0b6f3a91, after advisor QC audit): PARTIALLY CHECKED, not fully verified — only the absence of method-narration phrases was checked; the author-attribution and unsupported-claim components were NOT verified — remains partially pending with the band owner.",
-  "P108": "supervisor disposition REVISED (2026-10-23 ~06:35Z, worker-pplx-sup-0b6f3a91, after advisor QC audit): PARTIALLY CHECKED, not fully verified — the map quotation's capital T was checked and present; the OTHER flagged component (outcome promise) was NOT checked — remains pending with the band owner.",
+  "P108": "supervisor disposition UPGRADED (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): REPAIR VERIFIED on the current page — the map-quote capital T (checked earlier) AND the outcome-promise component: no promise/guarantee/outcome-overclaim patterns remain in the body. Flag closed.",
   "P109": "milestone-15 QC: bounded rewrite; chapter locator verification"
  },
  "missing_concepts": [],

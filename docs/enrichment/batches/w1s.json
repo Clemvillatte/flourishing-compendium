@@ -73,8 +73,8 @@
  "in_progress": null,
  "flagged": {
   "Motor intentionality": "Reopened for QC: QC: attribution and phrasing repairs",
-  "Object relations theory": "supervisor disposition REVISED (2026-10-23 ~06:35Z, worker-pplx-sup-0b6f3a91, after advisor QC audit): PARTIALLY CHECKED, not fully verified — only the Fairbairn specificity (Gomez quote) was checked; the flagged Winnicott grounding was NOT verified (listing Winnicott among founders is not grounding) — remains partially pending with the band owner.",
-  "Organism-environment transaction": "supervisor disposition REVISED (2026-10-23 ~06:35Z, worker-pplx-sup-0b6f3a91, after advisor QC audit): PARTIALLY CHECKED, not fully verified — only the absence of snippet/search-result markers was checked; the quotation provenance and the origin-grounding claim were NOT verified — remains partially pending with the band owner."
+  "Object relations theory": "supervisor disposition UPGRADED (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): REPAIR VERIFIED — Fairbairn specificity via the Gomez introduction quote (checked earlier) AND Winnicott grounding present: the page carries Winnicott's contribution via Sutherland's JAPA 1980 summary, disclosed as such, with the PubMed record carrier linked. Flag closed.",
+  "Organism-environment transaction": "supervisor disposition UPGRADED (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): REPAIR VERIFIED — the Dewey & Bentley triad quotation re-verified against a RAW download of the cited archive.org carrier: the passage is present, words verbatim, with the carrier's scan-artifact single quotes and hyphenation normalized per house practice; the Origin section's grounding (the introduction's transactional framing) is confirmed in the same carrier. Flag closed."
  },
  "missing_concepts": [],
  "sources_checked": 0,
