@@ -257,15 +257,25 @@
    ]
   },
   "s1f-010": {
-   "status": "researching",
-   "angle": "next rung-3 candidate: find a principle with one story where a second angle is well-documented",
+   "status": "ready",
+   "angle": "rung 4: upgrade an existing published story with a verbatim quote from a source I actually opened",
    "history": [
     {
-     "t": "2026-10-23T06:37:30+00:00",
+     "t": "2026-10-23T06:38:23+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:39:21+00:00",
+     "to": "qc_pending",
+     "note": "rung 4: ST004 upgrade drafted as a lane item; verbatim Legge quote from tianmu.org (Legge 1891 Texts of Taoism) added; the change to the published page itself is flagged for the supervisor"
+    },
+    {
+     "t": "2026-10-23T06:39:31+00:00",
+     "to": "ready",
+     "note": ""
     }
    ]
   }
  },
- "updated": "2026-10-23T06:37:30+00:00"
+ "updated": "2026-10-23T06:39:31+00:00"
 }
