@@ -31,6 +31,7 @@ Even elite performers sustain full-attention practice for a limited number of ho
 A writer starts with 45 focused minutes each morning and keeps a note of the session's interruptions. After a month, the writer reviews the notes before deciding whether to lengthen the session or add a second one.
 
 ## Sources
+- [[T012 — Laozi]]: the chapter 64 source (a thousand-li journey; the tree from a small sprout) the page cites for gradual building.
 
 - [Ericsson, Krampe and Tesch-Römer, "The Role of Deliberate Practice in the Acquisition of Expert Performance", Psychological Review 100(3), 1993 (open PDF)](https://gwern.net/doc/psychology/writing/1993-ericsson.pdf) — the practice-duration review and the Berlin violinists study
 - [MN 107, Thanissaro translation (dhammatalks.org)](https://www.dhammatalks.org/suttas/MN/MN107.html) — the "step-by-step training of a monk" (the Right effort parallel)

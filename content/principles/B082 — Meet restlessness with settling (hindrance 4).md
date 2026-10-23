@@ -24,6 +24,7 @@ The sutta's move for agitation is breath with an intention: breathe in calming b
 *For example:* Suppose pre-presentation jitters. As a modern application, the sutta's step is a few minutes of breathing with the calming intention, observing the body.
 
 ## Sources
+- [[T012 — Laozi]]: the stillness-as-master parallel (Daodejing 26) the page cites.
 
 - [MN 118 (Anapanasati Sutta), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)
 
