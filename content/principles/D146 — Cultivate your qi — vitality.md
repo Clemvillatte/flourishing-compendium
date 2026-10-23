@@ -12,22 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 146** — Cultivate your qi: vitality
 
-The Neiye grounds vitality (qi) in practice. Verse V ties mind and breath together: when the mind is tranquil and the vital breath is regular, the Way can thereby be halted. Verse XVII gives the practice instruction itself: coil and contract, uncoil and expand, be firm and regular in the practice, hold fast to it, chase away the excessive and abandon the trivial. The verse's closing promise is that reaching the practice's ultimate limit returns you to the Way and its inner power.
+Neiye V ties cultivation of the Way to a tranquil mind and regular vital breath. Verse XVII gives bodily instructions to coil, contract, uncoil and expand, alongside the demand to be firm and regular in practice. Holding fast is paired with abandoning the excessive and trivial: the instruction concerns what to leave out as well as what to repeat.
 
 (Neiye.)
 
-> "For all [to practice] this Way: / You must coil, you must contract, / You must uncoil, you must expand, / You must be firm, you must be regular [...] / Hold fast to this excellent [practice]; do not let go of it. / Chase away the excessive; abandon the trivial. / And when you reach its ultimate limit / You will return to the Way and its inner power." (Neiye, verse XVII, [Roth](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt); ellipsis marks the verse's bracketed clause "[in this practice]", whose closing bracket the OCR text corrupts)
+> "Hold fast to this excellent [practice]; do not let go of it." (Neiye, verse XVII, excerpt from [Roth](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt))
 
-The compendium's reading: the verse's verbs are physical, and its instruction includes both firm and regular. What the compendium takes from it is the regular half, something small enough to hold fast to.
+A modern walking habit can borrow the instruction to keep returning without pretending to reconstruct the ancient coiling practice.
 
-**Plain words**
-The compendium's analogy: the verse's picture of vitality is closer to fitness than to mood, a flow that answers to repeated practice. Ask what you do daily that is small enough to keep.
+### Plain words
 
-*For example:* Imagine a ten-minute walk at the same hour every day for two weeks. That is the compendium's version of something regular enough to hold fast to.
+Pick one practice you can return to. Describe what doing it involves and what you would change if it became a burden. Give it an actual place in your day, leaving out an optional demand if necessary.
+
+### For example
+
+Try a brief, comfortable walk after lunch on one day and before dinner on another. Compare which fits your obligations without rushing. Keep the workable cue for the following week, adjusting or stopping when needed. The overt-behaviour practice is returning regularly, rather than chasing a special feeling.
 
 ## Sources
 
 - [Inward Training (Neiye), trans. Harold D. Roth (archive.org full text)](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt) — verses V, XVII
+- [Lehrer and Gevirtz, Heart rate variability biofeedback: how and why does it work? (2014)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00756/full).
 
 ## Psychology parallels
 

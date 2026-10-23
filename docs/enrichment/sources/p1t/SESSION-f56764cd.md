@@ -86,3 +86,12 @@ Independent advisor read_only_daoist_principle_qc_mvkkitzm freshly opened Legge 
 - Example compares usual and less-full evenings, records next-morning experience, repeats comparison and retains a helpful workable adjustment; attention dimension named.
 - Read Yangsheng and Allostatic load in full. Both already backlink D145. Ran wellspring mention search. Opened McEwen's actual review and added bibliography entry: https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/mcewen_njm_1998.pdf. Its allostatic-load framework is a modern parallel, not a validation or measurement of jing.
 - Original links, parallel and reflections preserved.
+
+## D146
+
+- Reopened with enrich_state.py. Checked Neiye V and XVII in the opened Roth source: https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt.
+- Replaced the long slash-separated quote and public OCR-workaround explanation with an exact, clean, contiguous XVII excerpt, verified in both translation and commentary. Translator brackets around practice retained. No silent bracket repair or invented ancient walking regimen.
+- Explanation joins regularity to dropping excess, rather than equating qi with fitness or mood. Walking is an explicitly modern application of one instruction.
+- Example varies two feasible cues, compares fit to obligations, retains the workable cue and permits adjustment/stopping; overt behaviour named.
+- Read HRV coherence research and Interoceptive awareness in full; both already backlink D146. Ran regular-practice mention search. Opened and added the actual Lehrer/Gevirtz article for the modern HRV parallel: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00756/full. It is not presented as a measurement or validation of qi.
+- Existing parallel lines and reflections preserved. Milestone-ten advisor QC requested for D109, D112, D143, D145, D146.
