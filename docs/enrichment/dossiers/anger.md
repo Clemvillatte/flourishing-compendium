@@ -123,15 +123,8 @@ The shared question: does anger ever fit its object, or is it always a judgment 
 
 > "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." ([Aristotle, Nicomachean Ethics IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)): Primary text; quoted passages checked.
 
-Seneca's treatise treats anger as the rush that treats an appearance as true, and so as resting on a judgment the mind has not examined; the remedy is delay, not better aim. The two positions answer the same question, what a person with a grievance owes their anger, and part on whether the fitting case exists. What remains unresolved is whether the psychological findings on hostile attribution and anger's costs settle the question or only describe the typical case. Aristotle himself says the line is not easy to draw.
+Seneca's treatise denies the fitting case: anger is by definition the mind's rush that treats an appearance as true, and so is a mistake by its nature, not a virtue misapplied. The two positions answer the same question, what a person with a grievance owes their anger, and part on whether the fitting case exists. What remains unresolved is whether the psychological findings on hostile attribution and anger's costs settle the question or only describe the typical case. Aristotle himself says the line is not easy to draw.
 
-### Does revenge deliver what it promises?
-
-The shared question: does punishing an offender give the punisher what they expect? Carlsmith, Wilson and Gilbert tested this directly:
-
-> "People expect to reap hedonic rewards when they punish an offender, but in at least some instances, revenge has hedonic consequences that are precisely the opposite of what people expect." ([Carlsmith, Wilson and Gilbert 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/19025285/)): Study abstract; quoted passage checked.
-
-The finding is that people who punish continue to ruminate about the offender, whereas those who do not punish move on and think less about the offender. Seneca's delay remedy is agnostic on the debt; it asks only for a right judgment. What remains unresolved is whether the rumination finding, measured in a laboratory setting, generalizes to the grievances people carry in ordinary life.
 
 ## Practice: variation, selection, retention
 
