@@ -16,9 +16,9 @@ Spend time in natural settings: green space, water, sky, weather on the skin. Th
 
 The steps are this practice's own exercise; the schedule below is the compendium's prescription, and the single-walk experiments say nothing about duration or frequency. The practice moves the Attention and Affect dimensions, with the walk itself an overt behaviour.
 
-1. Go to whatever natural setting is reachable: a park, a tree-lined street's shade, water if there is water. The evidence behind this kernel contrasts natural settings with urban ones, so the greener and quieter the better; the compendium's schedule is thirty minutes or more, several times a week.
+1. Go to whatever natural setting is reachable: a park, a tree-lined street's shade, water if there is water. The evidence behind this kernel contrasts natural settings with urban ones; the compendium's schedule is thirty minutes or more, several times a week.
 2. Walk, sit, or stand; let the setting do the work. In the study behind this kernel, participants simply walked for ninety minutes in either a natural area or the city ([Bratman et al. 2015, PubMed record](https://pubmed.ncbi.nlm.nih.gov/26124129/)).
-3. Editorial addition, not from the carriers: weather on the skin is part of the dose, not an obstacle to it. If the mind rehearses its loops, that is the rumination this practice is known for displacing; return attention to what is in front of you.
+3. Editorial addition, not from the carriers: weather on the skin is part of the dose, not an obstacle to it. If the mind rehearses its loops, that is the pattern the nature-walk study measured a reduction in; return attention to what is in front of you.
 
 ### Evidence
 
@@ -31,13 +31,13 @@ Rumination, from the 90-minute-walk experiment:
 
 Attention, from the backward-digit-span experiments: "We present two experiments that show that walking in nature or viewing pictures of nature can improve directed-attention abilities as measured with a backwards digit-span task and the Attention Network Task" ([Berman, Jonides & Kaplan 2008, *Psychological Science* 19(12)](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2008.02225.x/)).
 
-Stress physiology, from the cortisol meta-analysis: "The main results of the meta-analysis showed that salivary cortisol levels were significantly lower in the forest groups compared with the urban groups both before (MD = - 0.08 μg/dl [95% CI - 0.11 to - 0.05 μg/dl]; p < 0.01; I2 = 46%) and after intervention (MD = - 0.05 μg/dl [95% CI - 0.06 to - 0.04 μg/dl]; p < 0.01; I2 = 88%)" ([Antonelli, Barbieri & Donelli 2019, *International Journal of Biometeorology* 63(8)](https://pubmed.ncbi.nlm.nih.gov/31001682/)). The same review's plain-language summary: "In all but two included studies, cortisol levels were significantly lower after intervention in forest groups if compared with control/comparison groups".
+Stress physiology, from the cortisol meta-analysis: "The main results of the meta-analysis showed that salivary cortisol levels were significantly lower in the forest groups compared with the urban groups both before (MD = - 0.08 μg/dl [95% CI - 0.11 to - 0.05 μg/dl]; p < 0.01; I2 = 46%) and after intervention (MD = - 0.05 μg/dl [95% CI - 0.06 to - 0.04 μg/dl]; p < 0.01; I2 = 88%)" ([Antonelli, Barbieri & Donelli 2019, *International Journal of Biometeorology* 63(8)](https://pubmed.ncbi.nlm.nih.gov/31001682/)). The same review's plain-language summary: "In all but two included studies, cortisol levels were significantly lower after intervention in forest groups if compared with control/comparison groups, or a significant pre-post reduction of cortisol levels was reported in the forest groups".
 
 What the studies do not test: the rumination and attention findings come from single walks and brief laboratory paradigms, not from a thirty-minute several-times-a-week routine; the cortisol result pools heterogeneous forest-bathing trials of varying length; and none of them tested this page's assembled schedule.
 
 ### A guided version
 
-None: the practice is unguided by design, and the evidence above concerns unguided exposure.
+None located; the practice is unguided exposure, and the evidence above concerns unguided settings.
 
 ## Operationalises
 
@@ -51,7 +51,7 @@ Practises the concept: [[Nature exposure|Nature exposure]]
 
 ## Related concepts
 
-- [[Nature exposure]] — the concept page this kernel practices; it anchors the same Bratman experiment with the compendium's honesty notes.
+- [[Nature exposure]] — the concept page this kernel practices; it anchors the same Bratman experiment with the study's own scope notes.
 - [[Awe]] — the emotion of perceived vastness; nature at scale is one of its paradigm triggers.
 - [[Peak experiences]] — Maslow's term for the rare moving moments natural settings can occasion; welcome them, do not chase them.
 - [[Savoring]] — the deliberate up-regulation of good feeling by attention; a sitting-in-nature round can be savored as it happens.
@@ -64,6 +64,6 @@ Practises the concept: [[Nature exposure|Nature exposure]]
 
 ## Sources
 
-- [Bratman, G. N., Hamilton, J. P., Hahn, K. S., Daily, G. C., & Gross, J. J. (2015). Nature experience reduces rumination and subgenual prefrontal cortex activation. *PNAS* 112(28), 8567–8572 — PubMed record](https://pubmed.ncbi.nlm.nih.gov/26124129/) — abstract quoted verbatim against the PubMed record.
-- [Berman, M. G., Jonides, J., & Kaplan, S. (2008). The cognitive benefits of interacting with nature. *Psychological Science* 19(12), 1207–1212 — publisher abstract page](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2008.02225.x/) — abstract sentence quoted verbatim against the downloaded page.
-- [Antonelli, M., Barbieri, G., & Donelli, D. (2019). Effects of forest bathing (shinrin-yoku) on levels of cortisol as a stress biomarker: a systematic review and meta-analysis. *International Journal of Biometeorology* 63(8), 1117–1134 — PubMed record](https://pubmed.ncbi.nlm.nih.gov/31001682/) — abstract sentences quoted verbatim against the PubMed record.
+- [Bratman, G. N., Hamilton, J. P., Hahn, K. S., Daily, G. C., & Gross, J. J. (2015). Nature experience reduces rumination and subgenual prefrontal cortex activation. *PNAS* 112(28), 8567–8572 — PubMed record](https://pubmed.ncbi.nlm.nih.gov/26124129/) — abstract; N = 38, 90-min walk, natural vs urban.
+- [Berman, M. G., Jonides, J., & Kaplan, S. (2008). The cognitive benefits of interacting with nature. *Psychological Science* 19(12), 1207–1212 — publisher abstract page](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2008.02225.x/) — abstract sentence; two experiments.
+- [Antonelli, M., Barbieri, G., & Donelli, D. (2019). Effects of forest bathing (shinrin-yoku) on levels of cortisol as a stress biomarker: a systematic review and meta-analysis. *International Journal of Biometeorology* 63(8), 1117–1134 — PubMed record](https://pubmed.ncbi.nlm.nih.gov/31001682/) — abstract sentences; 22 studies reviewed, 8 in the meta-analysis.

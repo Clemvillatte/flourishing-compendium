@@ -29,16 +29,16 @@ What the movement-coordination research found, in the authors' own abstract:
 
 The study quantified synchrony as "the coordination of patient's and therapist's movement" with an automated video-analysis algorithm, in 104 videotaped sessions of 70 outpatients. What the study does not test: it concerns therapy dyads and measured movement, not posture, breathing, or gesture separately, and it did not test this page's noticing exercise; the association it reports is between naturally arising synchrony and relationship quality, not an effect of deliberately attending to it.
 
-The acted-synchrony literature runs the other direction: making people move together. Its abstract result, verified against the publisher's page:
+The acted-synchrony literature runs the other direction: making people move together. Its abstract result:
 
-> "Across three experiments, people acting in synchrony with others cooperated more in subsequent group economic exercises, even in situations requiring personal sacrifice... The results suggest that acting in synchrony with others can increase cooperation by strengthening social attachment among group members."
+> "Across three experiments, people acting in synchrony with others cooperated more in subsequent group economic exercises, even in situations requiring personal sacrifice... In total, the results suggest that acting in synchrony with others can increase cooperation by strengthening social attachment among group members."
 > — [Wiltermuth & Heath (2009), *Psychological Science* 20(1)](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2008.02253.x/)
 
 That evidence is about walking in step and singing together, not about noticing a conversation, and the page makes no claim that the noticing exercise produces the cooperation effect.
 
 ### A guided version
 
-None found. The practice happens inside live conversation, and no official guided track for it was located.
+None located; the practice happens inside live conversation.
 
 ## Operationalises
 
@@ -52,7 +52,7 @@ None found. The practice happens inside live conversation, and no official guide
 - [[Intersubjectivity]] — the account of the world's sharedness across minds; the body layer this practice notices is part of how that sharedness is enacted.
 - [[Embodied cognition]] — the research programme that moves thinking into the body; the synchrony findings are one of its social branches.
 - [[I and Thou]] — Buber's account of meeting another without using them; attending to the bodily exchange, without staging it, parallels the unpossessive stance.
-- [[Empathy]] — the family of felt-understanding capacities; movement coordination is one of its bodily, non-voluntary expressions.
+- [[Empathy]] — the felt understanding of another's experience; movement coordination is a neighboring bodily phenomenon rather than the feeling itself.
 - [[Being-with (Mitsein)]] — Heidegger's account of being-with as basic; the spontaneous coordination of two bodies in conversation parallels it.
 
 ## Related kernels
@@ -63,5 +63,5 @@ None found. The practice happens inside live conversation, and no official guide
 
 ## Sources
 
-- [Ramseyer, F., & Tschacher, W. (2011). Nonverbal synchrony in psychotherapy: Coordinated body-movement reflects relationship quality and outcome. *Journal of Consulting and Clinical Psychology*, 79(3), 284–295 — author PDF](https://www.embodiment.ch/research/papers/Ramseyer_Tschacher_JCCP.pdf) — abstract and study details quoted verbatim against the downloaded author copy (DOI 10.1037/a0023419).
-- [Wiltermuth, S. S., & Heath, C. (2009). Synchrony and cooperation. *Psychological Science*, 20(1), 1–5 — publisher abstract page](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2008.02253.x/) — abstract sentences quoted verbatim against the downloaded page.
+- [Ramseyer, F., & Tschacher, W. (2011). Nonverbal synchrony in psychotherapy: Coordinated body-movement reflects relationship quality and outcome. *Journal of Consulting and Clinical Psychology*, 79(3), 284–295 — author PDF](https://www.embodiment.ch/research/papers/Ramseyer_Tschacher_JCCP.pdf) — abstract and study details (N = 104 sessions, Motion Energy Analysis); DOI 10.1037/a0023419.
+- [Wiltermuth, S. S., & Heath, C. (2009). Synchrony and cooperation. *Psychological Science*, 20(1), 1–5 — publisher abstract page](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2008.02253.x/) — abstract sentences.

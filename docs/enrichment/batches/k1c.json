@@ -11,11 +11,13 @@
  "flagged": {
   "content/kernels/K357 — Shared attention.md": "no official guided recording for shared attention found; inherently with-another-person practice, the none-claim needs supervisor ruling",
   "content/kernels/K355 — Synchrony practice.md": "no official guided recording found; practice is in-conversation noticing, none-claim needs supervisor ruling; seed's 'posture, breathing, gesture' narrowed to the movement coordination the carrier measures",
-  "content/kernels/K328 — Aesthetic attention.md": "no guided recording needed by design (unguided practice), none-claim for supervisor ruling; seed's 'Dewey's aesthetic experience... dimension of flourishing' narrowed to what the opened carriers support"
+  "content/kernels/K328 — Aesthetic attention.md": "no guided recording located; practice is unguided by design, none-claim for supervisor ruling",
+  "content/kernels/K205 — Nature exposure.md": "no guided recording located; practice is inherently unguided exposure, exemption rationale in ledger, for supervisor ruling",
+  "content/kernels/K213 — Prosocial spending.md": "no guided recording located; practice is a purchase, none-claim for supervisor ruling"
  },
  "missing_concepts": 0,
  "sources_checked": 0,
- "updated": "2026-10-23T11:12:23+00:00",
+ "updated": "2026-10-23T11:16:33+00:00",
  "band_done": false,
  "notes": "Minted by supervisor-pplx-1023a (2026-10-23): KERNELS tail band. 32 items = the queued-not-done kernel paths from the 2026-10-23 reconciliation (65 remaining in the queue after removing k1a/k1b/kpr/cmp/maintenance done entries). Model exemplar: K100 (PROTOCOL-THINKERS.md Relation to Kernels; also see K409). Owner's workability directive (2026-10-21) applies: PBT (variation-selection-retention) and/or the six dimensions. Each item: read, verify/enrich to the kernel bar with opened carriers, validate, record done (path form, as in k1a/k1b), save. Also note: 64 kernel pages exist that are outside the queue AND not recorded done — supervisor item for the next pass (mint k1e or fold into a trim of the queue).",
  "queue": [

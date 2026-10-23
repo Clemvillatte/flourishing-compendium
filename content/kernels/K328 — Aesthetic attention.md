@@ -31,7 +31,7 @@ Two empirical carriers place everyday aesthetic attention in ordinary life. Firs
 
 ### A guided version
 
-None found. The practice is unguided by design, and no official recording for it was located.
+None located; the practice is unguided by design.
 
 ## Operationalises
 
@@ -45,7 +45,7 @@ None found. The practice is unguided by design, and no official recording for it
 - [[Neuroaesthetics]] — the field studying what happens in the brain during aesthetic experience; the biological layer under this attentional practice.
 - [[Awe]] — the self-diminishing response to vastness; one of the stronger feelings an aesthetic object can trigger.
 - [[Savoring]] — the deliberate up-regulation of good feeling by attention; aesthetic attention is savoring pointed at an object's surface.
-- [[Flow]] — full absorption in activity; the ten-minute attention round can tip into it.
+- [[Flow]] — full absorption in activity; a neighboring state to deep attention to an object.
 
 ## Related kernels
 
@@ -55,6 +55,6 @@ None found. The practice is unguided by design, and no official recording for it
 
 ## Sources
 
-- [Dewey, J. (1934). *Art as Experience*, ch. 3 "Having an Experience" — full text](https://archive.org/stream/deweyjohnartasanexperience/DEWEY%20John,%20Art%20as%20an%20Experience%22_djvu.txt) — the consummation passage quoted verbatim against the downloaded text.
-- [Knoll, A. L., Barrière, T., Weigand, R., Jacobsen, T., Leder, H., & Specker, E. (2024). Experiencing beauty in everyday life. *Scientific Reports* 14, 9463](https://www.nature.com/articles/s41598-024-60091-w) — abstract sentences quoted verbatim against the downloaded page.
-- [Jacobi, C., Varga, P., & Vaidyanathan, B. (2022). Aesthetic experiences and flourishing in science: A four-country study. *Frontiers in Psychology* 13, 923940](https://pmc.ncbi.nlm.nih.gov/articles/PMC9396270/) — abstract sentences quoted verbatim against the downloaded page.
+- [Dewey, J. (1934). *Art as Experience*, ch. 3 "Having an Experience" — full text](https://archive.org/stream/deweyjohnartasanexperience/DEWEY%20John,%20Art%20as%20an%20Experience%22_djvu.txt) — the consummation passage.
+- [Knoll, A. L., Barrière, T., Weigand, R., Jacobsen, T., Leder, H., & Specker, E. (2024). Experiencing beauty in everyday life. *Scientific Reports* 14, 9463](https://www.nature.com/articles/s41598-024-60091-w) — abstract sentences; three experience-sampling studies.
+- [Jacobi, C., Varga, P., & Vaidyanathan, B. (2022). Aesthetic experiences and flourishing in science: A four-country study. *Frontiers in Psychology* 13, 923940](https://pmc.ncbi.nlm.nih.gov/articles/PMC9396270/) — abstract sentences; N = 3,061 scientists in India, Italy, the UK and the US.
