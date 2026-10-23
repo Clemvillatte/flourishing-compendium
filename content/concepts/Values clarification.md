@@ -7,15 +7,37 @@ file: "Values clarification"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-V"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter V", "parent": ""}
 ---
-Values clarification is the ACT (Acceptance and Commitment Therapy) practice of identifying what one genuinely wants a life to be about — not as goals to reach but as freely chosen directions to move in ([Hayes et al., 2011; values work as a foundational ACT component](https://academic.oup.com/edited-volume/38851/chapter/337815143); [APA overview of ACT](https://www.apa.org/pubs/videos/4310860)). Where goals are finishable (run the marathon), values are compass headings (health, presence, craft) that generate goal after goal; where “shoulds” are borrowed from parents and culture, clarified values are chosen, and choosing them is itself the intervention ([[P158 — Choose values as directions, not destinations]]; [[E106 — Practise the revaluation of values]] is its Nietzschean cousin).
+Values clarification is the practice, central to Acceptance and Commitment Therapy (ACT), of working out what one wants a life to be about. In the 2013 overview of ACT by Hayes and colleagues, the aim is framed this way:
 
-The mechanism: psychological flexibility — the ability to act on chosen values even while unwanted thoughts and feelings are present, rather than waiting for them to leave ([[PP081 — Cultivate psychological flexibility]]; [[AF046 — Know that tolerance is not the goal; valued living is]]). Values are therefore tested in living, not in introspection ([[P125 — Treat values as experimental]]; [[SE014 — Know your values — what actually matters to you]]), and motivation follows them — the practice treats valued living, not symptom reduction, as the aim ([[MO013 — Clarify your values — motivation follows value]]).
+> "The overarching goal of ACT is increasing the ability to persist or change in behavior in the service of one's chosen values." (Hayes et al., 2013, [Behavior Therapy, via PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))
 
-The distinction to hold: values clarification is not goal-setting, and not positive affirmation. The direction is never “achieved”; the question is only whether today's actions pointed along it ([[K152 — Committed action]] is the doing side; [[Behavioral activation]] is the behavioural engine that values steer).
+The same paper defines the term: "In ACT, values are defined as chosen, verbally constructed consequences of dynamic, evolving patterns of activity for which the predominant reinforcer becomes intrinsic to the behavioral pattern itself". It then puts the practical point plainly: "Appetitive rather than avoidant, values of this kind are never finished; they are more like a direction than a destination."
 
-An example at its smallest: the values whiteboard — ten life domains, one sentence each for the direction wanted in that domain, then one concrete action this week that points along it ([[K403 — Core and satellite values]]; [[K404 — The values whiteboard]]; [[K405 — The matrix sort]]).
+### Direction, not target
 
-The Buddhist cognate is [[Right intention]] — direction of the will as the first training.
+A goal can be reached and ticked off, such as running a marathon. A value, such as health or craft or presence, is a heading that produces goal after goal. That is why [[P158 — Choose values as directions, not destinations]] is the compendium's version of the idea. The method, in the same paper, is to use "exercises and journaling" to help a person "note and choose life directions in various domains (e.g., family, career, spirituality)" and to track what happens when they act on them.
+
+### Chosen, not borrowed
+
+The word "chosen" does real work. A psychometric paper on ACT values (Smout et al., 2014, [Contextual Science](https://contextualscience.org/sites/default/files/Smout%20et%202014%20development%20of%20VQ%20published.pdf)) notes that values are experienced as principles one has chosen, "rather than those another person or group expects or encourages one to use", and that a person can hold values common in their culture while keeping "a sense of willing ownership rather than simply complying". Clarifying is partly the sorting of ownership from compliance.
+
+### What it is not
+
+It is not goal-setting and not a list of virtues to display. The question is only whether today's actions pointed along the heading, and the practice is tested in living, which is why [[P125 — Treat values as experimental]] belongs with it. It is also the starting point for [[Behavioral activation]], the behavioural engine that values steer.
+
+### A small case
+
+On [[K404 — The values whiteboard]], write ten life domains, one sentence each beginning "I want to be someone who...", then circle the one with the sharpest gap between what is written and what last week looked like. (Illustrative scenario, not a reported case.)
+
+### In the compendium
+
+- [[E106 — Practise the revaluation of values]] — the Nietzschean cousin
+- [[PP081 — Cultivate psychological flexibility]] and [[AF046 — Know that tolerance is not the goal; valued living is]] — values as the reason to tolerate discomfort
+- [[SE014 — Know your values — what actually matters to you]] and [[MO013 — Clarify your values — motivation follows value]] — the self-knowledge and motivation sides
+- [[K152 — Committed action]] and [[K403 — Core and satellite values]] — the doing side and a sorting device
+- [[K405 — The matrix sort]] — a second sorting exercise
+- [[Right intention]] — a Buddhist neighbour, on the direction of intention
+
 ## Other formulations in this library
 
 - values as chosen qualities of action that organise behaviour (Hayes et al., 2011)
@@ -30,6 +52,8 @@ The Buddhist cognate is [[Right intention]] — direction of the will as the fir
 
 ## Sources
 
+- [Hayes et al. (2013), Acceptance and Commitment Therapy and Contextual Behavioral Science, Behavior Therapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/) — the goal of ACT and the definition of values
+- [Smout et al. (2014), Development of the Valuing Questionnaire, Journal of Contextual Behavioral Science](https://contextualscience.org/sites/default/files/Smout%20et%202014%20development%20of%20VQ%20published.pdf) — chosen versus expected values
 - Hayes et al., 2011
 - Hayes et al., 2006
 - Schwartz, 1992
