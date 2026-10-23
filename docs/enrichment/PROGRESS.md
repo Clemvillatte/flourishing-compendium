@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-23 11:06 UTC (input revision `04705af20`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 12:06 UTC.
+As of 2026-10-23 11:07 UTC (input revision `1a724df69`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 12:07 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,8 +9,8 @@ As of 2026-10-23 11:06 UTC (input revision `04705af20`). Scope: principles and c
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2182 | 0 | 2182 | 100.0% |
-| Concepts | 2175 | 86 | 2261 | 96.2% |
-| **Combined** | **4357** | **86** | **4443** | **98.1%** |
+| Concepts | 2176 | 85 | 2261 | 96.2% |
+| **Combined** | **4358** | **85** | **4443** | **98.1%** |
 
 ## Stories (separate pipeline)
 
