@@ -17,3 +17,9 @@ principle dash-links (AT057, B147, D082, D104, R081) moved from body prose into 
 "In the compendium" list; the everyday-life example labeled; Related entries kept (3,
 empty lines cleaned); Sources rebuilt as markdown links with the IEP/SEP carriers and
 the primary text noted. Validator ok (counter diff clean).
+
+Post-save fix (this session): the validator's dash rule counts en dashes, and the prose's
+I-Thou/I-It notation used five of them. Converted the prose notation to hyphens
+(I-Thou, I-It), matching the blockquotes' typography; front matter untouched. Validator
+ok after fix. (The failed-validation commit 266b8aa91 preceded this fix; this ledger note
+records the repair.)
