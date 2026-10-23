@@ -12,6 +12,10 @@ Bicultural identity integration (BII) names the degree to which a bicultural ind
 
 > "Using a sample of Chinese American biculturals, we found that variations in BII do not define a uniform phenomenon, as commonly implied in the literature, but instead encompass two separate independent constructs: perceptions of distance (vs. overlap) and perceptions of conflict (vs. harmony) between one's two cultural identities or orientations." (Benet-Martínez and Haritatos, [Bicultural identity integration (BII): components and psychosocial antecedents](https://pubmed.ncbi.nlm.nih.gov/15958143/), J Pers 73(4):1015-49, 2005, abstract)
 
+### The predictors and the instruments
+
+The study also tested what predicts BII: Big Five personality traits, and acculturation measures including acculturation stress, acculturation attitudes and bicultural competence. Differences in BII, acculturation stress and bicultural competence were measured with new instruments developed for the study ([abstract](https://pubmed.ncbi.nlm.nih.gov/15958143/)). The label names a perception rather than a demographic fact: two people with the same pair of cultural backgrounds can sit anywhere on both dimensions. The sample was Chinese American biculturals, so the two-component finding is a claim about this construct as measured in that sample, not a general law of bicultural life.
+
 ### What the construct adds
 
 The two dimensions do different work. Distance versus overlap concerns how separate the two identities sit in the self. Conflict versus harmony concerns how much they clash. The same study reported that cultural conflict and cultural distance have distinct personality, acculturation and sociodemographic antecedents ([abstract](https://pubmed.ncbi.nlm.nih.gov/15958143/)).
