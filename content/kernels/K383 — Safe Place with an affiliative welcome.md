@@ -16,13 +16,42 @@ Build the sensory detail: what you see, hear, smell, feel under your feet. Stay 
 
 Then add the affiliative move — this is what makes it CFT, not just relaxation. Say to yourself, in whatever words fit:
 
-> "If there are other beings in this place, imagine that they welcome you, value you, and are happy to see you. Imagine that this place itself values your presence — as if you complete it, and it is happy that you are here."
+> "If there are other beings in this place, imagine that they welcome you, value you, and are happy to see you. In fact, imagine that this place itself values your presence—as if you complete it, and it is happy that you are here."
 
 Let the place be glad you're in it. You're not a visitor tolerated in someone else's space; you belong here.
 
 When the mind wanders (it will), notice it and gently return to the place, as in K100 Breath anchoring. Stay for five minutes. Rehearse returning to this image at will — the point is not a one-off calm, but building a retrievable state of safety.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 11, printed pp. 141–154 (practice at pp. 142–146).
+Adapted from Kolts, CFT Made Simple, New Harbinger, 2016, ch. 11, printed pp. 141-154 (practice at pp. 142-146).
+
+### Evidence
+
+What the practice is, in the book's own words:
+
+> “Imagery can be a powerful tool for getting the safeness system online, and one way to do this involves safe place imagery. (Sometimes it’s referred to as ‘soothing space’ imagery for clients who don’t like the term ‘safe place.’) In this practice, clients imagine themselves in a setting that creates feelings of safeness, calm, peacefulness, and belonging.”
+> — [Kolts, CFT Made Simple (PDF), ch. 11](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
+
+And the CFT addition the page trains:
+
+> “In CFT, we add a dimension to the typical safe place practice by introducing an affiliative component to the imagery. This is done via specific instructions such as, ‘If there are other beings in this place, imagine that they welcome you, value you, and are happy to see you. In fact, imagine that this place itself values your presence—as if you complete it, and it is happy that you are here.’”
+> — [Kolts, CFT Made Simple (PDF)](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
+
+What the source does not test: the book teaches the practice to therapists for clients; the self-directed version on this page is an adaptation.
+
+## Related concepts
+
+- [[Compassion-focused therapy]] — the therapy family the practice comes from.
+- [[Self-compassion]] — the safeness the affiliative move builds toward.
+- [[Compassion]] — the affiliative emotion the welcome evokes.
+
+## Related kernels
+
+- [[K106 — Five-senses grounding]] (complement — one is present-moment grounding; this is imaginal)
+- [[K378 — Cultivate your Compassionate Self]]
+
+## Sources
+
+- [Kolts, R. L. (2016). CFT Made Simple. New Harbinger — PDF](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
 
 ## Operationalises
 
