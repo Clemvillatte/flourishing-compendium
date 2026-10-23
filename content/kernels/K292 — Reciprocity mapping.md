@@ -10,15 +10,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K292** — Reciprocity mapping
 
-Draw a simple map of relationships. For each person, note three things: what is given, what is received, and whether the balance is healthy. The Confucian thread behind the map is shu, the sense of reciprocity that Confucius names as the guide for a whole life ([Analects 15:24, Muller translation](http://www.acmuller.net/con-dao/analects.html)). Reach for it when relationships have quietly become one-directional, either over-giving or over-receiving.
+Draw a simple map of relationships. For each person, note three things: what is given, what is received, and whether the balance is healthy. The guide Confucius names for a whole life is reciprocity: what you don't like done to yourself, don't do to others ([Analects 15:24, Muller translation](http://www.acmuller.net/con-dao/analects.html)). Reach for it when relationships have quietly become one-directional, either over-giving or over-receiving.
 
 ### What it rests on
 
-The Analects' own one-word answer, in Muller's translation:
+The Analects' answer, in Muller's translation:
 
-> "Zi Gong asked: 'Is there a single concept that we can take as a guide for the actions of our whole life?' Confucius said, 'What about "reciprocity"? What you don't like done to yourself, don't do to others.'" — [Confucius, Analects 15:24, Muller translation](http://www.acmuller.net/con-dao/analects.html)
+> Zi Gong asked: "Is there a single concept that we can take as a guide for the actions of our whole life?" Confucius said, "What about 'reciprocity'? What you don't like done to yourself, don't do to others." — [Confucius, Analects 15:24, Muller translation](http://www.acmuller.net/con-dao/analects.html)
 
-The map's three questions are the compendium's editorial design; the reciprocity they look for is Confucius's.
+The passage is an ethical constraint on how others are treated. The map's three questions are the compendium's editorial design, and the balance they look for is editorial, not Confucius's.
 
 ### Protocol
 
@@ -34,11 +34,11 @@ The three questions are editorial; the map is the noticing, not the accounting.
 
 The nearest research is equity theory in intimate relationships, here under a serious illness:
 
-> "In general patients seemed most sensitive to underbenefit (i.e. they felt least satisfied), and experienced on average least positive and most negative affect when they felt underbenefited." — [Kuijer, Buunk, Ybema & Wobbes, 2002, British Journal of Social Psychology 41(1), Abstract](https://pubmed.ncbi.nlm.nih.gov/11970773/)
+> "It was found that in general patients seemed most sensitive to underbenefit (i.e. they felt least satisfied), and experienced on average least positive and most negative affect when they felt underbenefited." — [Kuijer, Buunk, Ybema & Wobbes, 2002, British Journal of Social Psychology 41(1), Abstract](https://pubmed.ncbi.nlm.nih.gov/11970773/)
 
-The study is honest about its own surprise: only male patients on average felt overbenefited, and the partners did not feel underbenefited as expected. Perceived balance tracked satisfaction, and the direction of the perception was not the obvious one.
+The findings include an unexpected direction: only male patients on average felt overbenefited, and the partners did not feel underbenefited as expected. Perceived balance tracked satisfaction, and the direction of the perception was not the obvious one.
 
-What this evidence does not test: the cited research examined 68 cancer patients and their partners; it did not evaluate a relationship map, and a monthly drawing exercise is not an equity measurement.
+What this evidence does not test: the cited research examined 68 cancer patients and their partners; it did not evaluate a relationship map, and a drawing exercise is not an equity measurement.
 
 ### A guided version
 
@@ -94,5 +94,5 @@ Not applicable: the practice is a drawn map, not a recording.
 
 ## Sources
 
-- [Confucius, Analects 15:24, A. Charles Muller translation](http://www.acmuller.net/con-dao/analects.html) — the single-thread reciprocity answer.
+- [Confucius, Analects 15:24, A. Charles Muller translation](http://www.acmuller.net/con-dao/analects.html) — the one-concept answer about reciprocity.
 - [Kuijer, R. G., Buunk, B. P., Ybema, J. F., & Wobbes, T. (2002). The relation between perceived inequity, marital satisfaction and emotions among couples facing cancer. British Journal of Social Psychology, 41(1), 39-56](https://pubmed.ncbi.nlm.nih.gov/11970773/) — the underbenefit-dissatisfaction association and the unexpected overbenefit findings, Abstract.

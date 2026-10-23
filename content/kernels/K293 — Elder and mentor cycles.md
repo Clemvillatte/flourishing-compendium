@@ -35,7 +35,7 @@ The nearest research is an intergenerational program in which the elders are the
 
 > "Experience Corps (EC) represents a high-intensity, intergenerational civic engagement activity where older adults serve as mentors and tutors in elementary schools." — [Varma et al., 2015, The Gerontologist 55(6), Abstract](https://pubmed.ncbi.nlm.nih.gov/24589989/)
 
-The study's own honesty is its stressors: 46 volunteers in focus groups reported both stressors and rewards, including "children's problem behavior" alongside "developing a special connection with a child", and the authors conclude that rewards and program structure "may have balanced the stress" (same abstract). Mentoring work was not frictionless for these volunteers.
+The volunteers in the study, 46 in focus groups, reported both stressors and rewards, including "children's problem behavior" alongside "developing a special connection with a child". The authors' conclusion: "Overall, intergenerational, interpersonal, and personal rewards from volunteering, as well as program structure may have balanced the stress associated with volunteering" ([Varma et al., 2015, Abstract](https://pubmed.ncbi.nlm.nih.gov/24589989/)).
 
 What this evidence does not test: the cited research gathered the volunteers' perspectives; it did not measure benefits for the mentees, and a standing arrangement of regular conversation is not the EC program it studied.
 
@@ -80,4 +80,4 @@ Not applicable: the practice is a standing conversation, not a recording.
 ## Sources
 
 - [Confucius, Analects 2:11, A. Charles Muller translation](http://www.acmuller.net/con-dao/analects.html) — the reviewing-and-learning-anew line.
-- [Varma, V. R., et al. (2015). Experience Corps Baltimore: Exploring the Stressors and Rewards of High-intensity Civic Engagement. The Gerontologist, 55(6), 1038-1049](https://pubmed.ncbi.nlm.nih.gov/24589989/) — the intergenerational mentoring activity, its stressors and rewards, Abstract.
+- [Varma, V. R., et al. (2015). Experience Corps Baltimore: Exploring the Stressors and Rewards of High-intensity Civic Engagement. The Gerontologist, 55(6), 1038-1049](https://pubmed.ncbi.nlm.nih.gov/24589989/) — the intergenerational mentoring activity, its stressors, rewards and balance conclusion, Abstract.

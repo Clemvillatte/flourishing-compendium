@@ -16,7 +16,7 @@ Once a month, review civic participation: whether the vote was cast, whether the
 
 Marcus's own picture, from the Meditations:
 
-> "These things once so fixed and concluded, as thou wouldst think him a happy citizen, whose constant study and practice were for the good and benefit of his fellow citizens, and the carriage of the city such towards him, that he were well pleased with it; so must it needs be with thee, that thou shalt live a happy life." — [Marcus Aurelius, Meditations, Long translation (Project Gutenberg 2680)](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
+> "These things once so fixed and concluded, as thou wouldst think him a happy citizen, whose constant study and practice were for the good and benefit of his fellow citizens, and the carriage of the city such towards him, that he were well pleased with it; so must it needs be with thee, that thou shalt live a happy life." — [Marcus Aurelius, Meditations X.6, Long translation (Project Gutenberg 2680)](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 
 The monthly audit questions are the compendium's editorial design; the engaged citizen they measure is Marcus's.
 
@@ -36,9 +36,9 @@ The nearest research concerns volunteer work in the community, from a panel stud
 
 > "Results show that volunteer work indeed enhances all six aspects of well-being and, conversely, people who have greater well-being invest more hours in volunteer service." — [Thoits & Hewitt, 2001, Journal of Health and Social Behavior 42(2), Abstract](https://pubmed.ncbi.nlm.nih.gov/11467248/)
 
-The bidirectional finding is the honest heart of it: volunteering enhances well-being, and well-being also feeds volunteering, so the study cannot say which way the traffic mainly runs.
+The design is a two-wave observational panel (Americans' Changing Lives, N = 2,681), reporting relationships in both directions.
 
-What this evidence does not test: the cited research measured volunteer hours and well-being over panel waves; it did not evaluate a monthly civic audit, and voting, staying informed and respect for public spaces were not its outcomes.
+What this evidence does not test: the cited research is an observational panel, not a randomized test of volunteering or of a civic audit; it did not evaluate a monthly audit practice, and voting, staying informed and respect for public spaces were not its outcomes.
 
 ### A guided version
 

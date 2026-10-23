@@ -22,26 +22,31 @@ His reasoning is the training logic:
 
 > "It is precisely in times of immunity from care that the soul should toughen itself beforehand for occasions of greater stress, and it is while Fortune is kind that it should fortify itself against her violence." — [Seneca, Letter 18.6](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)
 
-The choice of discomforts is the compendium's editorial design; the set-aside-a-number-of-days form is Seneca's.
+Seneca's own practice ran on a span:
+
+> "Endure all this for three or four days at a time, sometimes for more, so that it may be a test of yourself instead of a mere hobby." — [Seneca, Letter 18.7](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)
+
+That instruction concerns the food-and-clothing practice of the letter, not the discomfort menu below. The choice of discomforts is the compendium's editorial design.
 
 ### Protocol
 
-The discomforts are editorial; the dosing logic follows the sources.
+The discomforts are editorial; the span is a free choice.
 
 1. Choose one small discomfort for a set number of days: a cold shower, a skipped meal, a day without entertainment, a walk in the rain.
-2. Keep the dose mild. The inoculation rule: exposure "strong enough to arouse defenses and coping processes without being so powerful that it overwhelms the individual" ([Meichenbaum](http://brown.uk.com/anxiety/stress-inoculation.pdf)).
+2. Keep the dose mild.
 3. During the discomfort, ask Seneca's question: is this the condition that was feared?
-4. Endure it in Seneca's spans, "for three or four days at a time, sometimes for more, so that it may be a test of yourself instead of a mere hobby" ([Letter 18.7](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)).
+
+The comparison with stress inoculation training is conceptual, not a dosing rule. The chapter describes a multicomponent clinical intervention built on coping skills; its inoculation rule, "exposure to a stimulus strong enough to arouse defenses and coping processes without being so powerful that it overwhelms the individual" ([Meichenbaum, chapter p. 4](http://brown.uk.com/anxiety/stress-inoculation.pdf)), is the closest analogue in the chapter, not a clinically established dose for self-chosen hardship.
 
 ### Evidence
 
-Stress inoculation training, in its author's summary:
+Stress inoculation training, in its author's overview chapter:
 
-> "SIT, which is designed to intervene with humans at the psychosocial level, provides individuals with experience with minor stressors that fosters psychological preparedness and promotes resilience." — [Meichenbaum, Stress Inoculation Training chapter](http://brown.uk.com/anxiety/stress-inoculation.pdf)
+> "SIT, which is designed to intervene with humans at the psychosocial level, provides individuals with experience with minor stressors that fosters psychological preparedness and promotes resilience." — [Meichenbaum, Stress Inoculation Training chapter, p. 4](http://brown.uk.com/anxiety/stress-inoculation.pdf)
 
-The training runs in three phases, "conceptualization, skills acquisition and consolidation, application and follow-through", typically in 8 to 15 clinical sessions over 3 to 12 months (same chapter).
+The same overview describes the clinical form: "In most instances in the clinical domain, SIT consists of some 8 - 15 sessions, plus booster and follow-up sessions conducted over a 3 - 12 month period", in three phases, "conceptualization, skills acquisition and consolidation, application and follow-through" (p. 12).
 
-What this evidence does not test: the cited work is a clinical intervention delivered by clinicians; it did not evaluate cold showers, skipped meals or self-administered discomfort practices.
+What this evidence does not test: the cited work is an overview of a clinician-delivered intervention; it did not evaluate cold showers, skipped meals or self-administered discomfort practices.
 
 ### A guided version
 

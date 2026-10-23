@@ -16,7 +16,7 @@ For one domain, income, achievements, possessions, social media followers, defin
 
 Laozi's lines, in Legge's translation:
 
-> "He who is satisfied with his lot is rich" — [Daodejing 33, Legge translation (Project Gutenberg 216)](https://www.gutenberg.org/cache/epub/216/pg216.txt)
+> "He who is satisfied with his lot is rich; he who goes on acting with energy has a (firm) will." — [Daodejing 33, Legge translation (Project Gutenberg 216)](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 > "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency." — [Daodejing 46, Legge translation (Project Gutenberg 216)](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
@@ -37,9 +37,9 @@ The psychology of the moving goalpost is hedonic adaptation, and its best-known 
 
 > "According to the hedonic treadmill model, good and bad events temporarily affect happiness, but people quickly adapt back to hedonic neutrality." — [Diener, Lucas & Scollon, 2006, American Psychologist 61(4), Abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/)
 
-The same abstract revises the model: "individuals differ in their adaptation to events, with some individuals changing their set point and others not changing in reaction to some external event". Adaptation is real but not uniform, which is what makes a pre-written number worth having at all.
+The same abstract revises the model: "Finally, individuals differ in their adaptation to events, with some individuals changing their set point and others not changing in reaction to some external event."
 
-What this evidence does not test: the cited research concerns adaptation of happiness to life events; it did not evaluate pre-defined sufficiency numbers, and the brake framing is editorial.
+What this evidence does not test: the cited research concerns adaptation of happiness to life events; it did not evaluate pre-defined sufficiency numbers or moving goalposts. The written number is an editorial experiment, and the brake framing is editorial too.
 
 ### A guided version
 
