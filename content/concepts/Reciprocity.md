@@ -15,17 +15,17 @@ Gouldner's classic statement gives the norm its two demands: help those who have
 
 ### Three things called reciprocity
 
-Gouldner opens by separating three things that get called reciprocity: a pattern of mutually contingent exchange of gratifications, a folk belief that things even out in the end, and a generalised moral norm ([p. 161](http://kpolanyi.scoolaid.net:8080/xmlui/handle/10694/347)). The norm is the third of these. On its reach he quotes Westermarck:
+Gouldner opens by separating three things that get called reciprocity: a pattern of mutually contingent exchange of gratifications, an existential or folk belief in reciprocity, and a generalised moral norm ([p. 161](http://kpolanyi.scoolaid.net:8080/xmlui/handle/10694/347)). The norm is the third of these. On its reach he quotes Westermarck:
 
 > "To requite a benefit, or to be grateful to him who bestows it, is probably everywhere, at least under certain circumstances, regarded as a duty." (Westermarck, quoted in Gouldner, 1960, p. 161, [full text](http://kpolanyi.scoolaid.net:8080/xmlui/handle/10694/347))
 
 ### Reciprocity and power
 
-The norm is one support for exchange among others. Gouldner observes that if one party is considerably more powerful than the other, it may force benefits from the weaker party with little or no reciprocity; such arrangements are less stable than those in which reciprocity motivates the services, but they are sociologically real ([p. 164](http://kpolanyi.scoolaid.net:8080/xmlui/handle/10694/347)). Much of social life runs on mixtures of the two supports, which is one reason a benefit received does not by itself tell you what relationship it sits in.
+The norm is one support for exchange among others. Gouldner observes that if one party is considerably more powerful than the other, it may force benefits from the weaker party with little or no reciprocity; such arrangements are less stable than those in which reciprocity motivates the services, but they are sociologically real ([p. 164](http://kpolanyi.scoolaid.net:8080/xmlui/handle/10694/347)).
 
 ### Starting things
 
-The norm also operates at the start of relationships. People are continually brought together in new combinations, and Gouldner suggests that the norm of reciprocity is one among the starting mechanisms by which ephemeral contacts settle into social systems ([pp. 176-177](http://kpolanyi.scoolaid.net:8080/xmlui/handle/10694/347)). A first small service creates a reason for a second; Axelrod's later work on the evolution of cooperation studies what happens once such turns accumulate ([[SO039|Axelrod's durability-of-relationship account]]).
+The norm also operates at the start of relationships. People are continually brought together in new combinations, and Gouldner suggests that the norm of reciprocity is one among the starting mechanisms by which ephemeral contacts settle into social systems ([pp. 176-177](http://kpolanyi.scoolaid.net:8080/xmlui/handle/10694/347)). A first small service creates a reason for a second. Axelrod's later work asks under what conditions cooperation emerges in a world of egoists without central authority, and answers that cooperation based on reciprocity can be self-policing ([[SO039|Axelrod's durability-of-relationship account]]).
 ## Related concepts
 
 
