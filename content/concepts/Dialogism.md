@@ -34,6 +34,10 @@ The page relies on one encyclopedia entry and one review, not on Bakhtin's own t
 - [[Dialogic reason]] — a neighbouring concept in the compendium
 - [[Dialogue]] — the broader concept, which Emerson says Bakhtin uses as a philosophical principle
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Emerson, "Bakhtin, Mikhail", Filosofia: An Encyclopedia of Russian Thought, Dickinson College, 2019](https://filosofia.dickinson.edu/encyclopedia/bakhtin-mikhail/)

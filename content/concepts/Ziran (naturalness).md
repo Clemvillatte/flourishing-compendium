@@ -32,6 +32,10 @@ Two habits follow. First, notice when an action is being forced by external comm
 - [[D151]] — the follow-the-seasons principle that follows the same natural pattern ziran names
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 - [[D055]] — naturalness and nonaction in the SEP Laozi discussion
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Daodejing, trans. James Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 25 quoted verbatim

@@ -51,6 +51,10 @@ Self · Psychological science
 - [[Relational cultural theory Miller]] — comparison: another relational account of women's development
 - [[Guilt]] — comparison: the self-reproach emotion that follows doing wrong
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Jack & Ali, introductory essay to Silencing the Self Across Cultures (OUP, 2010), excerpted on the OUP blog](https://blog.oup.com/2010/03/silencing-the-self/) — the founding interviews' pattern and the vulnerability-to-depression claim

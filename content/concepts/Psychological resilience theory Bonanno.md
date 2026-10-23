@@ -46,6 +46,10 @@ Affect · Psychological science
 - [[Post-traumatic growth]] — the distinct construct of change beyond baseline, not to be confused with the resilience trajectory
 - [[Adaptation to life transitions research]] — the longitudinal research tradition the trajectory method belongs to
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Bonanno, G. A., "Loss, Trauma, and Human Resilience" (2004), American Psychologist 59(1), 20-28, abstract via ERIC](https://eric.ed.gov/?id=EJ684215) — the abstract's challenge sentence (verified verbatim on the record)

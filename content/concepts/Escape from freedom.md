@@ -56,6 +56,10 @@ S001 sorts what is up to you from what is not, and A001 gives freedom a directio
 - [[The need to belong]] — the need that the new secondary bonds promise to satisfy
 - [[Loneliness]] — the condition all three escape mechanisms relieve
 - [[Obedience research]] — experimental research on obedience to authority, listed for comparison
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Fromm, Escape from Freedom

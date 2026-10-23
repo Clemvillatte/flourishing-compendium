@@ -36,6 +36,10 @@ The idea has older company, which the page's source list records. William James'
 - [[Possible selves]] — the future-directed files in the shifting array
 - [[Deconditioning of learned self-concepts]] — the contemplative practice of unloading archived self-knowledge
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - James, 1890

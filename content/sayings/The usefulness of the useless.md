@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The usefulness of the useless” — Daoism, Zhuangzi.
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the tradition this saying belongs to.
+
 ## Sources
 
 - Daoism, Zhuangzi

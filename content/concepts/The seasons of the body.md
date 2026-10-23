@@ -35,6 +35,10 @@ The compendium's behavioural-science entries sit alongside this passage in the r
 - [[The avoidance of suffering]]
 - [[The still mirror]]
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Ecclesiastes 3:1-8, KJV (Bible Gateway)](https://www.biblegateway.com/passage/?search=Ecclesiastes+3&version=KJV) — the quotation

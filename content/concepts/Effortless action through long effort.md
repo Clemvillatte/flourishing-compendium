@@ -35,6 +35,10 @@ The compendium wires the concept to its habit and flow principles. A108, "Practi
 - [[Habit]] — automaticity as the mechanical cousin
 - [[Habit]] — second nature at the level of character, in James's account
 - [[Growth through practice]] — the Buddhist version of the long-effort arc
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Zhuangzi, Inner Chapters (original citation, kept)

@@ -13,6 +13,10 @@ The butterfly dream is an episode in the Zhuangzi in which Zhou dreams he is a b
 
 The ending explicitly distinguishes Zhou from the butterfly and calls the episode the Transformation of Things. ([Zhuangzi, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Zhuangzi, Inner Chapters (chapter 2, section 14; Legge translation, [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))

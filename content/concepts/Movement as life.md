@@ -28,6 +28,10 @@ The principles put the cosmology into practice. M002 expects the cosmos itself t
 - [[E073 — Practise avoiding the adventurer]] — the forced motion to avoid
 - [[AT004 — Understand that attention can be captured (bottom-up) or directed (top-down)]] — attention directed, not captured
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Daoism, Zhuangzi

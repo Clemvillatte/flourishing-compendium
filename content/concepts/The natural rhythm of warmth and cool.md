@@ -13,6 +13,10 @@ In the Zhuangzi's chapter 6 portrait of the True Men of old, their coldness was 
 
 In the passage the image belongs to the portrait of the True Man, whose mind is free from all thought and whose demeanour is still and unmoved. ([Zhuangzi, ch. 6, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Zhuangzi, chapter 6 ("The Great and Most Honoured Master"), section 1, Legge translation, [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)

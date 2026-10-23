@@ -294,4 +294,6 @@ Wu wei is not passivity. Chapter 48 still has the sage accomplish things, and Di
 
 ## Related thinkers
 
+- [[T009 — Zhuangzi]]: the Cook Ding story this page shows as the lived version of effortless action.
+
 - [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

@@ -40,6 +40,10 @@ Both passages concern naming the Tao. The extension to the labels put on people,
 - [[The limits of language]] — Wittgenstein's Tractatus limit-drawing: what cannot be said clearly must be passed over
 - [[Language on holiday]] — Wittgenstein's diagnosis of philosophical confusion as language idling rather than working
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Laozi, Daodejing 1](https://www.gutenberg.org/files/216/216-0.txt)

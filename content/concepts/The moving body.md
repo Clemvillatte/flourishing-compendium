@@ -27,6 +27,10 @@ The chapter's examples are the feather in a hat kept at a safe distance without 
 - [[The habit body]] — the same book's treatment of absorbed skill
 - [[Embodiment]] — the tradition the analysis belongs to
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Merleau-Ponty

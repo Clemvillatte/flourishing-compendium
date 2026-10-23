@@ -17,6 +17,10 @@ Zhuangzi's laughter is the Daoist art of taking the world lightly: laughing at g
 
 The counting is the point: laughter is rare because life is short and mostly occupied, and a practice that adds laughing days is a practice of time well spent. The chapter carrying this speech is marked spurious in this edition, and its speaker is a bandit scolding Confucius; the compendium borrows the arithmetic and leaves the abuse behind. The compendium's principle SE033 carries the application: hold your imperfections with humour, because lightness is a virtue and the alternative costs days.
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Zhuangzi, chapters 1, 17 and 29, public-domain translation (Chuang Tzu: Mystic, Moralist, and Social Reformer), Project Gutenberg full text: [gutenberg.org/cache/epub/59709/pg59709.txt](https://www.gutenberg.org/cache/epub/59709/pg59709.txt)

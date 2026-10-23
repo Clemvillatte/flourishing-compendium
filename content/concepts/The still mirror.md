@@ -30,6 +30,10 @@ The image returns in the Outer Chapter "The Way of Heaven." There the sage's sti
 - [[The water metaphor]]
 - [[The observing self]]
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Burton Watson, The Complete Works of Chuang Tzu, ch. 7 "Fit for Emperors and Kings"](https://terebess.hu/english/chuangtzu.html) — the Inner Chapter 7 quotation

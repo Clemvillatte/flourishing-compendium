@@ -19,6 +19,10 @@ The chapter then distinguishes grades of freedom. Liezi rides the wind "with an 
 
 The CO013 principle takes the psychological reading: thought has a direction, and it can be expansive or contracted. The contracted mind is not wrong at its own scale, the cicada's flight is real flight; it is simply a mind that mistakes its tree for the sky. The practice is asking, in a fixed frame of mind, what a ninety-thousand-li view of this same situation would show.
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Zhuangzi, Inner Chapters, ch. 1 ("Enjoyment in Untroubled Ease"), trans. James Legge, Chinese Text Project: https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease

@@ -37,6 +37,10 @@ These findings are correlations from questionnaires, mostly in Japan and Austral
 - [[Intolerance of ambiguity]] — closely tied to the style in the questionnaire studies
 - [[Dark triad research]] — the personality traits with which it correlates in the review
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Bonfá-Araujo, Oshio and Hauck-Filho, "Seeing things in black-and-white: a scoping review on dichotomous thinking style", Japanese Psychological Research 64(4), 2022, 461-472](https://onlinelibrary.wiley.com/doi/full/10.1111/jpr.12328)

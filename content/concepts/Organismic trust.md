@@ -26,6 +26,10 @@ The dual role matters for the trust the label names: the abstract reports more s
 - [[Controlled motivation]] — the opposite profile, guilt and external pressure.
 - [[Self-determination]] — the wider theory the model applies.
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Abstract, PubMed PMID 10101878](https://pubmed.ncbi.nlm.nih.gov/10101878/) — definition of self-concordance, the dual role, need-satisfaction mediation.

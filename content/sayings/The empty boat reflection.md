@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The empty boat reflection” — Laozi/Zhuangzi tradition; Zhuangzi tradition.
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the tradition this saying belongs to.
+
 ## Sources
 
 - Laozi/Zhuangzi tradition

@@ -31,6 +31,10 @@ The number is uncountable in practice, and the tradition's practical counsel fol
 - [[The smallest complete practice]] — chapter 64's arithmetic from the same passage
 - [[The many become one]] — Whitehead's version of a world of many particulars
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Daoism, Daodejing 34

@@ -15,6 +15,10 @@ The Daoist idea, central to the Zhuangzi, that nature is the first teacher: heav
 
 Because the teaching has no words, it is available anywhere the natural order can be watched: seasons, water, trees, animals. The compendium connects it to wu wei (D003) and, on the empirical side, to attention restoration and nature contact (AT038, BE041).
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Zhuangzi, ch. 22, Watson translation (26reads)](https://www.26reads.com/library/92138-zhuangzi/22)

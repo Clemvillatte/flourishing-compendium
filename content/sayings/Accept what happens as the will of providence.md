@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Accept what happens as the will of providence” — Marcus Aurelius, Meditations IV.10.
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the tradition this saying belongs to.
+
 ## Sources
 
 - Marcus Aurelius, Meditations IV.10

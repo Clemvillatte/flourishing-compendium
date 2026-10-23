@@ -28,6 +28,10 @@ The passage names what falls away, not a technique: the felt connexion to the bo
 - [[Ego dissolution]] — the psychology term for experiences in which the sense of being a self fades
 - [[Anatta]] — the Buddhist teaching of no permanent self, a cross-tradition theme this page touches
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Zhuangzi 6

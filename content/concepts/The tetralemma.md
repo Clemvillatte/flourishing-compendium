@@ -25,6 +25,10 @@ And the upshot of rejecting all four:
 
 - [[Buddhist emptiness of inherent nature]] — the compendium's pairing for the quoted conclusion: none of the four alternatives allows cause and effect to exist with svabhāva.
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Westerhoff JC. Nāgārjuna. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nagarjuna/) — the four-ways-of-causal-production passage and the svabhāva conclusion.

@@ -27,6 +27,10 @@ A later chapter of the book, outside the Inner Chapters, carries the same samene
 
 - [[Zhuangzi's laughter]] — the compendium's other concept attributed to Zhuangzi.
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Zhuangzi, Inner Chapters

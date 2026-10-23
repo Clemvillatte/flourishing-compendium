@@ -36,6 +36,10 @@ D180 carries the concept directly, with Zhuangzi 18 and Daodejing 80 as its sour
 - [[Sati]] — the presence that makes the ordinary appear
 - [[Joy]] — the everyday register of joy given its own page
 - [[Death reflection]] — the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Daodejing 80, translation and commentary (Wudang.org)](https://wudang.org/dao/dao-de-jing/full-text/chapter-80) — the fourfold contentment of the small community

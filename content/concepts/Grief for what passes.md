@@ -43,6 +43,10 @@ The reason he gives is about the natural order of change. Whether this counts as
 - [[Continuing bonds]] — a contrast case: keeping a relationship with the dead
 - [[Equanimity]] — a related steadiness, offered for comparison
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Zhuangzi 18, "Perfect Enjoyment", trans. James Legge, Chinese Text Project](https://ctext.org/zhuangzi/perfect-enjoyment): passage read in the search excerpt

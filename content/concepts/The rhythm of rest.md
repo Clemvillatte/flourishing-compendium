@@ -13,6 +13,10 @@ In the Zhuangzi's sixth chapter, the great Mass of nature is the body's support 
 
 A later section of the chapter returns to the image in the story of the hunchbacked Zi-yu, easy in his mind though deformed, who says that when we rest in what the time requires, neither joy nor sorrow can find entrance. The same section closes with the dying Zi-lai, and with the words: "We are born as from a quiet sleep, and we die to a calm awaking." ([Zhuangzi, ch. 6, Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Zhuangzi, chapter 6 ("The Great and Most Honoured Master"), sections 2 and 5, Legge translation, [ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)

@@ -34,6 +34,10 @@ The metaphor returns in Daodejing 78, where Eno's translation reads: "Nothing in
 - [[The still mirror]]
 - [[Wu wei]]
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Robert Eno, Daodejing ch. 8 (Terebess)](https://terebess.hu/english/tao/Daodejing-Eno.pdf) — chapter 8, quoted verbatim

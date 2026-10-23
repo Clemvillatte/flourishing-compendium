@@ -27,6 +27,10 @@ Fazang (643-712), the third patriarch and the school's great systematizer, illus
 - [[Interbeing]] — Thich Nhat Hanh's word for the same dependence of each on all
 - [[Oneness of things]] — the Zhuangzi-side echo of one-is-all
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Huayan tradition, Fazang

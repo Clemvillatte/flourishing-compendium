@@ -30,6 +30,10 @@ Giles, the translator, notes in the footnote to this passage that "uttermost dep
 - [[Anapanasati (mindfulness of breathing)]] — the Buddhist counterpart: attention resting on the in-and-out breath
 - [[Yoga: union of body, breath, and mind]] — a tradition that binds breath to attention
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - Daoism

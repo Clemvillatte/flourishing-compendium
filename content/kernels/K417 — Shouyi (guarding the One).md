@@ -63,6 +63,10 @@ No guided recording from a Daoist lineage source was located for this practice; 
 - [[K412 — The Inner Smile (Daoist practice)]]
 - [[K114 — Standing meditation (zhan zhuang)]]
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - ['Guarding the One' chapter, Routledge Handbook of Yoga and Meditation Studies, via ebrary](https://ebrary.net/322857/health/_guarding_one_)

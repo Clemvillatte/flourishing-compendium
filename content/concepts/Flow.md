@@ -133,4 +133,6 @@ the absorption state in which action and awareness merge (Csikszentmihalyi, 1990
 
 ## Related thinkers
 
+- [[T009 — Zhuangzi]]: the knack stories this page reads for the lived version of flow.
+
 - [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

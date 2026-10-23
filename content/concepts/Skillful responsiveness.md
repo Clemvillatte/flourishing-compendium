@@ -28,6 +28,10 @@ The stages matter, and the change is trained rather than gifted. As he puts it: 
 - [[Craftsmanship research]] — the modern study of the expertise the story dramatizes
 - [[Effortless attention]] — the attentional side of moving by spirit
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Zhuangzi, The Complete Works of Chuang Tzu, Watson translation (Terebess Asia Online)](https://terebess.hu/english/chuangtzu.html) — Cook Ting passage, Inner Chapters

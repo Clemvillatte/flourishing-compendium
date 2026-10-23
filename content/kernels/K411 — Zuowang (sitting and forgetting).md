@@ -49,6 +49,10 @@ A calm guided introduction is [Zuowang Guided Meditation, by Giovanni Dienstmann
 - [[K114 — Standing meditation (zhan zhuang)]]
 - [[K412 — The Inner Smile (Daoist practice)]]
 
+## Related thinkers
+
+- [[T009 — Zhuangzi]]: the source of the Zhuangzi parallel this page cites.
+
 ## Sources
 
 - [Lutz et al. (2008), "Attention regulation and monitoring in meditation", Trends in Cognitive Sciences, PubMed](https://pubmed.ncbi.nlm.nih.gov/18329323/)
