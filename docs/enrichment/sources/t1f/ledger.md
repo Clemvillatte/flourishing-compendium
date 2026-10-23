@@ -24,3 +24,7 @@ Every quote fetched, then verified verbatim against raw carrier text before or i
   - Word counts: sections are visibly within protocol bands and the validator passes all pages; the counting script used during drafting deleted quoted strings, so the counts are conservative rather than official — noted for the supervisor.
 - T050 Nagarjuna first draft had invented principle links; caught before push and rewritten from the real thinker_links.py generated list (the recorded T037 lesson, applied).
 - State files: t1f bogus in_progress="done" cleared; ct3 done items normalized to plain paths with verification notes moved to the notes field; the two PBT pages (Process-based therapy, Treatment kernels) returned to verification-pending because their verification relied on the prior PBT-EEMM audit document rather than passage-level evidence recovered this session.
+
+## Session postscript (2026-10-23, ~12:08Z)
+
+The audit that followed this band found that Stoic-kernel candidates (ataraxia) are already implemented (K267/K271), and that the strongest missing-concept candidates are satipatthana and subjective well-being (see docs/enrichment/missing-concepts-audit-2026-10-23.md). The T048 routed items remain open for the next t1f owner: the intro line's workflow narration and the Axial Age attribution gap.
