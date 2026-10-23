@@ -4,13 +4,14 @@
   "Marsha Linehan",
   "Jonathan Haidt",
   "Carol Dweck",
-  "Thich Nhat Hanh"
+  "Thich Nhat Hanh",
+  "Pierre Hadot"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": 0,
  "sources_checked": 0,
- "updated": "2026-10-23T11:11:37+00:00",
+ "updated": "2026-10-23T11:13:13+00:00",
  "band_done": false,
  "notes": "Minted by supervisor-pplx-1023a (2026-10-23): THINKERS tail band per PROTOCOL-THINKERS.md (see T011-T013 for the current standard: SEP/IEP biography, verbatim quotes from opened carriers, generated interconnection inventory via scripts/thinker_links.py -t, reciprocal proposals via --reciprocal saved to docs/enrichment/proposals/). Owner rule (encoded in the t1a/t1b drafts): the interconnection inventory is gated to the thinker's OWN tradition plus what the page itself teaches. Reciprocal proposals are minted but applied only by the supervisor after review. NOTE for the t1b owner's leftover: T016 Steven Hayes is still in_progress in t1b.json though the page is minted and QC'd — next t1b worker should reconcile the state file."
 }
