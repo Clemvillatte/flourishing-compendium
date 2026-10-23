@@ -379,3 +379,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The Williams/Penman book (commercial) remains unopened; franticworld.com is the authors' own site carrying the book's meditation; the "Why meditate on Sounds and Thoughts?" rationale paragraph and the numbered steps all read from the opened page.
 - Original Operationalises line preserved exactly; the "Open monitoring" Related-concepts link (kernel, not concept) retargeted to Acceptance and Commitment Therapy; Related concepts retargeted to existing pages only (Cognitive defusion, MBCT, ACT — existence checked).
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K395 — Exploring Difficulty meditation (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~150-word seed rebuilt to the K100 model (668 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: goodmedicine.org.uk blog post on Week Five (ch. 9 "Turning towards difficulties") — the book's own p. 59 programme summary quote, the "Acceptance is a pause" sentence, and the "[Acceptance] takes us off the hair trigger" continuation all read verbatim from the opened post; Frontiers in Human Neuroscience Zhang et al. 2019 — the MBCT practice table read verbatim (Week 5 turning toward difficulties → 10-min exploring difficulty meditation).
+- The Williams/Penman book (commercial) remains unopened; the franticworld.com Deeper Mindfulness audio page lists tracks but not text (opened via cloud browser, DOM text extracted); the Scribd Deeper Mindfulness doc is paywalled and carries only a truncated preview; the goodmedicine.org.uk post is the opened carrier of the book's programme-summary quote and the acceptance passages; the Frontiers table is the opened carrier of the week-to-practice mapping.
+- Original Operationalises line preserved exactly; the "Exposure therapy" Related-concepts link (no such page) retargeted to Exposure processes (an existing concept); dashes in prose reduced to 3 after the validator catch.
+- Customer-facing grep clean; validator ok, 0 failed.
