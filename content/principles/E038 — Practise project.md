@@ -18,7 +18,7 @@ The project is freely chosen, so why would anyone need an analysis to find it? S
 
 **Plain words** Look at what happens when two priorities collide. You say independence matters, yet you abandon each plan that might disappoint someone. That pattern gives you something specific to question: what keeps winning when you have to choose?
 
-*For example:* compare three recent decisions: something you accepted, something you refused, something you postponed. Write down what you protected in each. If one thing kept taking precedence, take one upcoming decision and examine it with that pattern in mind.
+*For example:* Compare three recent decisions: something you accepted, something you refused, something you postponed. Write down what you protected in each. If one thing kept taking precedence, take one upcoming decision and examine it with that pattern in mind.
 
 ## Sources
 
