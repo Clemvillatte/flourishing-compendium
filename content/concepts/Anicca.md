@@ -7,13 +7,24 @@ file: "Anicca"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Anicca (Pali; Sanskrit anitya) is impermanence — the first of the Three Marks of Existence. The Dhammapada states it in its most compressed form (277–279): all conditioned things are impermanent, all conditioned things are unsatisfactory, all phenomena are not-self. Everything that arises will pass: moods, plans, bodies, relationships, this very thought. Principle B002's practical reading: build your life on flow, not on frozen things — the refusal of this fact is where most anxiety is manufactured.
+Anicca (Pali; Sanskrit anitya) is impermanence, the first of the Three Marks of Existence. The Dhammapada states the three marks in their most compressed form (277–279): all conditioned things are impermanent, all conditioned things are unsatisfactory, all things are not-self. Everything that arises will pass: moods, plans, bodies, relationships, this very thought.
 
 > "All conditioned things are impermanent" — when one sees this with wisdom, one turns away from suffering. This is the path to purification. (Dhammapada 277, trans. Acharya Buddharakkhita, [AccessToInsight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html))
 
-Anicca is the Buddhist formulation of the cross-tradition insight that reality is process, not substance. Its family includes Heraclitus' Panta rhei (everything flows), the Daoist fu (return, Daodejing 16), Whitehead's process philosophy, and the stream of consciousness in James' psychology. The compendium treats Anicca as the Buddhist member of this family and Impermanence as its cross-tradition hub.
+### A process view of reality
 
-The training consequence (B066) is watchfulness: to watch states arise and pass until the fact of change becomes an observed feature of experience rather than a doctrine.
+Anicca is the Buddhist formulation of the cross-tradition insight that reality is process rather than substance. Its family includes Heraclitus' Panta rhei (everything flows), the Daoist fu (return, Daodejing 16), Whitehead's process philosophy, and the stream of consciousness in James' psychology. The compendium treats Anicca as the Buddhist member of this family and Impermanence as its cross-tradition hub.
+
+### The training consequence
+
+The training consequence is watchfulness: to watch states arise and pass until the fact of change becomes an observed feature of experience rather than a doctrine. In practice this is the noting practice of the Buddhist sit: rising, passing, rising, passing. The point is not to celebrate change but to stop being ambushed by it. A mood that is watched while it fades teaches the next mood less authority.
+
+### In the compendium
+
+- [[B002 — Assume change (anicca)]] — build your life on flow, not on frozen things; the refusal of this fact is where most anxiety is manufactured
+- [[B066 — Watch states arise and pass]] — watchfulness as the training
+- [[AF045 — Learn to let affect pass — feelings are impermanent]] — affect as the passing event watched
+- [[B137 — Expect your seeing to change (the wise see differently)]] — seeing itself is among the changing things
 
 ## Related concepts
 
@@ -27,7 +38,6 @@ The training consequence (B066) is watchfulness: to watch states arise and pass 
 
 - Dhammapada, chapter 20 (Maggavagga: The Path), verses 277-279, translated from the Pali by Acharya Buddharakkhita, AccessToInsight: [accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)
 
-[[AF045 — Learn to let affect pass — feelings are impermanent]]
 ## Cited in philosophy parallels
 
 - [[B002 — Assume change (anicca)]]
