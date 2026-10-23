@@ -606,3 +606,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: weight-loss domain evidence, weak level of evidence stated verbatim in the blockquote; transfer to virtue logging framed as an argument from mechanism, not a demonstrated result.
 - Mention check run (before this entry): K255 already linked from A004/A040/S130 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). "Session" appears only as athletic-session usage in the seed statement and step 2, consistent with established tolerance for ordinary usage.
+
+## K131 — Perspective-taking (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Blatt, LeLacheur, Galinsky, Simmens & Greenberg 2010 (Acad Med 85(9):1445-1452), three randomized studies N=608 of a perspective-taking instruction before clinical skills exams, abstract verified raw via NCBI efetch (PMID 20736672); authors read from the efetch header.
+- The blockquote (intervention results sentence) matches the raw efetch text verbatim.
+- Honesty on page: one instruction in a medical exam, small-to-moderate effects, and the Study 3 boundary (low-baseline students showed no benefit) stated explicitly; nothing claimed about the kernel's four positions or decision quality.
+- Mention check run (before this entry): K131 already linked from D081/D082/B082/P030/P057 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Facets section left as in the seed; Operationalises reflowed to bullets).
