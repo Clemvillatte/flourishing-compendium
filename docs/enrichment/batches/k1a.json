@@ -119,7 +119,8 @@
   "content/kernels/K339 — The third story.md",
   "content/kernels/K107 — Soft fascination.md",
   "content/kernels/K274 — Evening examination.md",
-  "content/kernels/K353 — Values-based decision review.md"
+  "content/kernels/K353 — Values-based decision review.md",
+  "content/kernels/K338 — Restorative conversation.md"
  ],
  "in_progress": null,
  "queue": [
@@ -168,7 +169,7 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-23T06:40:51+00:00",
+ "updated": "2026-10-23T06:41:35+00:00",
  "band_done": false,
  "flagged": {
   "content/kernels/K144 — The chariot analysis.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
