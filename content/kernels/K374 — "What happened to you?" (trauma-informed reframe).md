@@ -16,7 +16,36 @@ This is a shift in *where you look first* — not a claim that everything is cau
 
 A safety note: if someone's history includes serious harm, professional support is worth considering alongside any self-directed practice. The reframe is a lens, not a treatment.
 
-Adapted from Burke, Lundahl & Arkowitz (Eds.), *Motivational Interviewing in the Treatment of Psychological Problems* (3rd ed.), ch. 11 (Lundahl, Patin, Garcia & Howey), p. 232, citing Perry & Winfrey (2021).
+Adapted from Burke, Lundahl & Arkowitz (Eds.), Motivational Interviewing in the Treatment of Psychological Problems (3rd ed.), ch. 11 (Lundahl, Patin, Garcia & Howey), p. 232, citing Perry & Winfrey (2021). That volume is cited at second hand; the passages below come from an open encyclopedia article on the approach.
+
+### Evidence
+
+The reframe, as the trauma-informed care literature states it:
+
+> "Under this view, it is often stated that a trauma-informed approach asks not ‘What is wrong with you?’ but rather ‘What happened to you?’"
+> — [Wikipedia, “Trauma-informed care”](https://en.wikipedia.org/wiki/Trauma-informed_care)
+
+The origin of the approach, from the same article's history section:
+
+> "Trauma researchers Maxine Harris and Roger Fallot first articulated the concept of trauma-informed care (TIC) in 2001. They described trauma-informed as a vital paradigm shift, from focusing on the apparently immediate presenting problem to first considering past experience of trauma and violence."
+> — [same article](https://en.wikipedia.org/wiki/Trauma-informed_care)
+
+What the sources do not test: these passages describe the paradigm, not an evaluated self-directed practice; the safety note above stands.
+
+## Related concepts
+
+- [[Motivational interviewing]] — the kernel family this page belongs to.
+- [[Historical trauma]] — trauma carried across generations, one of the histories the question looks for.
+- [[Post-traumatic growth]] — what some histories grow into; the reframe does not assume they will.
+
+## Related kernels
+
+- [[K366 — Reflective listening: guess the meaning]]
+- [[K373 — Notice the fixing reflex]]
+
+## Sources
+
+- [Wikipedia — Trauma-informed care](https://en.wikipedia.org/wiki/Trauma-informed_care)
 
 ## Operationalises
 
