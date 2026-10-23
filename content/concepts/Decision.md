@@ -13,6 +13,8 @@ In Jaspers' account of existential freedom, decision involves considering possib
 
 The committed side is stated just as plainly: "the import of resolution is that once I have made a choice I will unconditionally stick to it" (Jaspers, [Philosophy, vol. 2, p. 159, quoted in Tepley 2019](https://existenz.us/volumes/Vol.14-2Tepley.pdf)). Taken together, the two passages describe a decision as the consideration of possibilities followed by commitment to one of them.
 
+For Jaspers the two halves are not in tension but in sequence: the broadening comes first, the commitment second, and each is worthless without the other. A choice made without the visualized possibilities is blind, and possibilities visualized without a resolution never become a life. The compendium's three principles map the same arc across traditions: Dewey's deliberation does the broadening, Heidegger's resoluteness does the committing, and Sextus marks the case where the reasons balance and no commitment is owed.
+
 ### In the compendium
 
 Three principles put the concept to work in different traditions:
