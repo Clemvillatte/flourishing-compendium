@@ -13,7 +13,6 @@
   "D153",
   "D157",
   "D169",
-  "D174",
   "D175",
   "D176",
   "D179",
@@ -32,13 +31,14 @@
   "D164",
   "D172"
  ],
- "in_progress": null,
+ "in_progress": "D174",
  "flagged": {
   "D164": "Reopened for QC: Owner priority: replace mechanical Plain words and overlong summary with primary-source-bounded explanation and workable application",
-  "D172": "Reopened for QC: QC repair: preserve chapter 73 wrongdoing context; replace repeated Plain words with clear practical application"
+  "D172": "Reopened for QC: QC repair: preserve chapter 73 wrongdoing context; replace repeated Plain words with clear practical application",
+  "D174": "Reopened for QC: Owner priority: replace duplicated Plain words and unhelpful talent example with source-bounded explanation and a test of environmental fit"
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-23T06:35:09+00:00",
+ "updated": "2026-10-23T06:35:49+00:00",
  "band_done": false
 }
