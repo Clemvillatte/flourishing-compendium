@@ -9,7 +9,6 @@
   "The coloured lens",
   "The return of the soul to its source",
   "A certain blindness",
-  "Vipassana (insight)",
   "Viveka",
   "Value creation",
   "Verum factum",
@@ -72,7 +71,8 @@
   "Abhyasa",
   "The three poisons",
   "The job demands-resources model",
-  "The progress principle"
+  "The progress principle",
+  "Vipassana (insight)"
  ],
  "in_progress": null,
  "flagged": {
@@ -102,11 +102,12 @@
   "Companionate love in adversity": "SUPERVISOR DISPOSITION 2026-10-21 (worker-sup-5e8a3c7f): Category C heading approved — compendium-created heading with explicit adversity-clause disclosure already in opening; validated ok; marked done",
   "The prior probability of the world": "SUPERVISOR DISPOSITION 2026-10-21 (worker-sup-5e8a3c7f): Category C heading approved — compendium phrase over Hume's probability-of-testimony account; custom passage (Enquiry V.1) verified verbatim vs Gutenberg #9662; heading disclosure added; validated ok; marked done",
   "The examined past": "SUPERVISOR DISPOSITION 2026-10-21 (worker-sup-5e8a3c7f): Category C heading approved — compendium label over Seneca's De Ira 3.36 review; Sextius questions + sweet-sleep quote verified verbatim vs Wikisource Stewart trans.; heading disclosure added; validated ok; marked done",
-  "Acedia": "Reopened for QC: extension: add Aquinas ST II-II q35 and Evagrius ending (prose was 80 words)"
+  "Acedia": "Reopened for QC: extension: add Aquinas ST II-II q35 and Evagrius ending (prose was 80 words)",
+  "Vipassana (insight)": "Reopened for QC: extension: add Thanissaro samatha pairing and MN 10 origination/passing away (prose 81)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:27:55+00:00",
+ "updated": "2026-10-23T14:28:22+00:00",
  "band_done": false,
  "new_concepts": [
   {
