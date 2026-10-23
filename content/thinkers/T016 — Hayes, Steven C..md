@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "cha
 
 ## Personal story / context
 
-Hayes received his B.A. in psychology from Loyola Marymount University and his M.A. and Ph.D. in clinical psychology from West Virginia University; he then taught at the University of North Carolina at Greensboro before moving to the University of Nevada, Reno in 1986, where he remains Nevada Foundation Professor in the Department of Psychology ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)).
+Born on August 12, 1948, Hayes received his B.A. in psychology from Loyola Marymount University and his M.A. and Ph.D. in clinical psychology from West Virginia University; he then taught at the University of North Carolina at Greensboro before moving to the University of Nevada, Reno in 1986, where he remains Nevada Foundation Professor in the Department of Psychology ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)).
 
 ## Their why
 
