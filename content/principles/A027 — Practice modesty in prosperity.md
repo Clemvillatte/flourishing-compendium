@@ -40,6 +40,9 @@ For example: a team that wins a big contract can keep or drop its careful weekly
 
 - **Expect reversal** (Laozi, Daodejing 40)
 - **[[Magnanimity|Magnanimity]]** (Aristotle, NE IV.3)
+## Related concepts
+
+- [[T012 — Laozi]]: Daodejing 40's reversal, the modesty that expects the turn
 
 <!-- fc: reflections
 What habit did you drop when things started going well? Trace how that slip happened.
