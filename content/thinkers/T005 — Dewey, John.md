@@ -17,7 +17,7 @@ Born October 20, 1859, in Burlington, Vermont, to Archibald Dewey, a merchant, a
 
 ## Their why
 
-Darwin's biology set his problem: an organism adapting itself in an environment, with no spectator's seat anywhere. Philosophy, he decided, had become too technical and detached from everyday social conditions, and should be reconnected to education, social criticism and practical life ([SEP](https://plato.stanford.edu/entries/dewey/)). His warrant for turning philosophy toward schooling is in the closing chapter of Democracy and Education: "If we are willing to conceive education as the process of forming fundamental dispositions, intellectual and emotional, toward nature and fellow men, philosophy may even be defined as the general theory of education" ([Democracy and Education](https://www.gutenberg.org/ebooks/852)).
+Darwin's biology set his problem: an organism adapting itself in an environment, with no spectator's seat anywhere. Philosophy, he decided, had become too technical and detached from everyday social conditions, and should be reconnected to education, social criticism and practical life ([SEP](https://plato.stanford.edu/entries/dewey/)). His warrant for turning philosophy toward schooling is in Democracy and Education: "If we are willing to conceive education as the process of forming fundamental dispositions, intellectual and emotional, toward nature and fellow men, philosophy may even be defined as the general theory of education" ([Democracy and Education](https://www.gutenberg.org/ebooks/852)).
 
 ## Their position
 
@@ -241,4 +241,4 @@ No thinker page links to him yet; [[T003 — James, William|William James]] is t
 ## Sources
 
 - [Hildebrand, D., "John Dewey," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/dewey/) — the biographical spine: Burlington, Vermont, Vermont and Johns Hopkins, Michigan and Minnesota, Chicago and the Laboratory School, Columbia, retirement and death, the works with dates, and the quoted passages from The School and Society, Human Nature and Conduct and Creative Democracy (quoted in SEP, not verified against the primary texts).
-- [John Dewey, Democracy and Education (1916; Gutenberg #852)](https://www.gutenberg.org/ebooks/852) — the growth passages of chapter 4 and the "general theory of education" passage of the closing chapter, quoted verbatim against the opened text.
+- [John Dewey, Democracy and Education (1916; Gutenberg #852)](https://www.gutenberg.org/ebooks/852) — the growth passages of chapter 4 and the "general theory of education" passage (near the end of the book), quoted verbatim against the opened text.

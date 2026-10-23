@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "cha
 
 ## Personal story / context
 
-He was born into a family of some wealth and power, members of the Śākya clan, in the area of the present border between India and Nepal ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/buddha/)). He traditionally lived to age eighty; his dates were formerly put around 560-480 BCE, though many scholars now hold he died around 405 BCE, fl. circa 450 BCE ([SEP](https://plato.stanford.edu/entries/buddha/)). In early adulthood he abandoned his comfortable life as a householder, as well as his wife and young son, in order to seek a solution to the problem of existential suffering ([SEP](https://plato.stanford.edu/entries/buddha/)). He trained under ascetic teachers, found their teachings unsatisfactory, and, through a combination of insight and meditational practice, attained enlightenment (bodhi), the cessation of all further suffering ([SEP](https://plato.stanford.edu/entries/buddha/)). What he taught is preserved in texts known as the Nikāyas or Āgamas, not written down until centuries after his death, surviving in Pāli and Chinese ([SEP](https://plato.stanford.edu/entries/buddha/)).
+He was born into a family of some wealth and power, members of the Śākya clan, in the area of the present border between India and Nepal ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/buddha/)). He traditionally lived to age eighty; his dates were formerly put around 560-480 BCE, though many scholars now hold he died around 405 BCE, fl. circa 450 BCE ([SEP](https://plato.stanford.edu/entries/buddha/)). In early adulthood he abandoned his comfortable life as a householder, and his wife and young son, to seek a solution to the problem of existential suffering ([SEP](https://plato.stanford.edu/entries/buddha/)). He trained under ascetic teachers, found their teachings unsatisfactory, and, through a combination of insight and meditational practice, attained enlightenment (bodhi), the cessation of all further suffering ([SEP](https://plato.stanford.edu/entries/buddha/)). What he taught is preserved in texts known as the Nikāyas or Āgamas, not written down until centuries after his death, surviving in Pāli and Chinese ([SEP](https://plato.stanford.edu/entries/buddha/)).
 
 ## Their why
 
@@ -21,7 +21,7 @@ His one question is the one this whole compendium serves: the end of suffering. 
 
 ## Their position
 
-Mind is the forerunner: "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts" ([Dhammapada 1](https://www.gutenberg.org/ebooks/2017)). The teaching in one line: "Not to commit any sin, to do good, and to purify one's mind, that is the teaching of (all) the Awakened" ([Dhammapada 183](https://www.gutenberg.org/ebooks/2017)). The program is summarized in four truths: there is suffering; there is the origination of suffering; there is the cessation of suffering; there is a path to the cessation of suffering ([SEP](https://plato.stanford.edu/entries/buddha/)). There is no permanent self: none of the five psychophysical elements is permanent, and if there were a self it would be permanent ([SEP](https://plato.stanford.edu/entries/buddha/)). The work is one's own: "Self is the lord of self, who else could be the lord? With self well subdued, a man finds a lord such as few can find" ([Dhammapada 160](https://www.gutenberg.org/ebooks/2017)).
+Mind is the forerunner: "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts" ([Dhammapada 1](https://www.gutenberg.org/ebooks/2017)). The teaching in one line: "Not to commit any sin, to do good, and to purify one's mind, that is the teaching of (all) the Awakened" ([Dhammapada 183](https://www.gutenberg.org/ebooks/2017)). The program is four truths: there is suffering, its origination, its cessation, and a path to that cessation ([SEP](https://plato.stanford.edu/entries/buddha/)). There is no permanent self: none of the five psychophysical elements is permanent, and if there were a self it would be permanent ([SEP](https://plato.stanford.edu/entries/buddha/)). The work is one's own: "Self is the lord of self, who else could be the lord? With self well subdued, a man finds a lord such as few can find" ([Dhammapada 160](https://www.gutenberg.org/ebooks/2017)).
 
 ## Core ideas
 
@@ -39,7 +39,7 @@ Mind is the forerunner: "All that we are is the result of what we have thought: 
 
 ## Connected in the wiki — the Buddhist tradition
 
-The page keeps the B principles plus entries from other books citing the suttas or Dhammapada in their sources, together with the concepts, kernels, stories and sayings keyed to him; later Buddhist reception (Zen material) is kept as tradition, not as Gautama's sermons. (Scoping by analogy to T002; supervisor, please confirm.)
+The page keeps the B principles plus entries from other books citing the suttas or Dhammapada, with the concepts, kernels, stories and sayings keyed to him; later Buddhist reception is kept as tradition, not as Gautama's sermons (B061 is Bankei's Japanese Zen, B161 the Linji-lu koan, Original enlightenment and Interbeing later developments). (Scoping by analogy to T002; supervisor, please confirm.)
 
 ### Principles (46)
 - [[A005 — Choose the mean, not the extreme|Choose the mean, not the extreme]]
@@ -158,8 +158,8 @@ The page keeps the B principles plus entries from other books citing the suttas 
 - [[ST427 — The Ladder for Unskillful Thoughts|427.  The Ladder for Unskillful Thoughts]]
 - [[ST429 — Backsliding into Abundance|429.  Backsliding into Abundance]]
 
-### Sayings (2)
-The scan's two sayings come from later traditions, not the Nikāyas: [[The finger pointing at the moon|The finger pointing at the moon]] is a Zen image, [[The sage teaches without words|The sage teaches without words]] a Daoist maxim; kept to close the scan honestly.
+### Sayings (0)
+No saying is attributed to Gautama. The scan's two hits are scan-closure, not attribution: [[The finger pointing at the moon|The finger pointing at the moon]] (its page sources it to the Zen tradition) and [[The sage teaches without words|The sage teaches without words]] (its page sources it to Laozi, Daodejing 2).
 
 ### Thinkers (0)
 No thinker page links to him yet; the Buddhist band's principles are his home in the corpus.

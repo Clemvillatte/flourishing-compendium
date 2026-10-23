@@ -29,15 +29,15 @@ The soul has parts, and justice is their harmony. In the Republic the argument r
 - **Socratic questioning** — elenchus, aporia, and knowing that you do not know. See [[Socratic elenchus]], [[Aporia]], [[Socratic ignorance]], [[Socratic testing]], [[Questioning inherited beliefs]].
 - **The tripartite soul** — reason, spirit, appetite; virtue is their harmony. See [[The tripartite soul]], [[Ordering the soul]], [[The unity of the soul]], [[Harmony]], [[Temperance]].
 - **The Forms** — the one thing that truly is Beauty, Goodness, Justice behind the many that appear. See [[Distinguishing appearance from reality]], [[Noesis, direct intellectual seeing]], [[Arete]].
-- **Recollection (anamnesis)** — the doctrine the corpus records from the Meno. See [[Anamnesis]], [[ST155 — Meno's Paradox|155. Meno's Paradox]].
-- **Eros and the ladder of love** — the corpus's treatment descends from the Symposium. See [[Eros]], [[The ladder of love]], [[The wounds of love]], [[Obsessive attachment]].
+- **Recollection (anamnesis)** — see [[Anamnesis]], [[ST155 — Meno's Paradox|155. Meno's Paradox]].
+- **Eros and the ladder of love** — see [[Eros]], [[The ladder of love]], [[The wounds of love]], [[Obsessive attachment]].
 - **The philosopher-ruler** — cities rest from evils only when philosophers rule or rulers philosophize. See [[Philosopher-king]], [[Justice]], [[Dikaiosyne]].
-- **The unity of the virtues** — a Socratic doctrine the corpus carries. See [[The unity of the virtues]], [[A040 — Practise the unity of the virtues|A040]], [[A047 — Let practical wisdom unify the virtues|A047]].
-- **Education as turning the soul** — the cave: the ascent from the prison-house of sight. See [[Distinguishing appearance from reality]], [[Noesis, direct intellectual seeing]], [[The daimon]], [[Elpis (hope)]].
+- **The unity of the virtues** — see [[The unity of the virtues]], [[A040 — Practise the unity of the virtues|A040]], [[A047 — Let practical wisdom unify the virtues|A047]].
+- **Education as turning the soul** — the cave: the ascent from the prison-house of sight. See [[Distinguishing appearance from reality]], [[Noesis, direct intellectual seeing]].
 
 ## Connected in the wiki — the Platonic and Socratic layer
 
-The corpus has no Platonic book of principles, so the section keeps the entries whose pages cite Plato or the Socratic material in their sources: the Socratic concepts, the soul and Forms entries, and the principles that draw on him. Other traditions echo him in passing; linking every echo would drown the graph, and a citation scan selects candidates without proving dependence, so supervisor audit is requested. (Scoping applied by analogy to the T002 owner direction; supervisor, please confirm.)
+The corpus has no Platonic book of principles; the section keeps entries citing Plato or the Socratic material in their sources. Other traditions echo him in passing; a citation scan selects candidates without proving dependence, so supervisor audit is requested. The first draft's cave links [[The daimon]] and [[Elpis (hope)]] are retained in this note only as unverified scan candidates, not as explanations of the allegory. (Scoping applied by analogy to the T002 owner direction; supervisor, please confirm.)
 
 ### Principles (80)
 - [[A007 — Let reason (logos) guide desire (orexis)|Let reason (logos) guide desire (orexis)]]
