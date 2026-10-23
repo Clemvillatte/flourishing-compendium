@@ -38,7 +38,7 @@ That evidence is about walking in step and singing together, not about noticing 
 
 ### A guided version
 
-None located; the practice happens inside live conversation.
+No official recording of the in-conversation noticing exists; the bounded search found a guided dyadic form of the same movement coordination: the [Fun House Mirror partner game](https://www.meditatehappier.com/meditations/freeguidedmeditations) is a short guided audio in which two partners mirror each other's movements, exploring body awareness through matched motion. It trains the same eye the kernel then turns on live conversation, where the coordination is breath, gesture and pace rather than arms.
 
 ## Operationalises
 
