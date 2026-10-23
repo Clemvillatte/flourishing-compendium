@@ -7,28 +7,54 @@ file: "Memento mori"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Memento mori (“remember that you will die”) is the Stoic practice of deliberately contemplating mortality — not as morbidity but as the great clarifier of life. The tradition runs through Seneca (*Letters* 101, *On the Shortness of Life*): death is not to be feared but kept in view, because the certainty of ending is what gives time its weight and priorities their order ([appliedstoic.com, “Memento Mori”](https://appliedstoic.com/knowledge/memento-mori/); [askthestoics.org](https://askthestoics.org/memento-mori); [Wikipedia, “Memento mori”](https://en.wikipedia.org/wiki/Memento_mori)). Seneca's rule: go to bed as if you had lived your last day, and let each day be received as if borrowed — time is the one loan that can be called at any moment ([[M037 — Number your days; we only borrow our time]]; [[S089 — Remember that you will die]]; [[S090 — See that life is short and do not waste it]]).
+Memento mori ("remember that you will die") is the Stoic practice of deliberately contemplating mortality, not as morbidity but as the great clarifier of life. The tradition runs through Seneca (*Letters* 101 and *On the Shortness of Life*): death is not to be feared but kept in view, because the certainty of ending is what gives time its weight and priorities their order. Seneca's own summary of the discipline:
 
-The mechanism is contrast, not fear: against the background of ending, trivial anxieties shrink and postponed living becomes visible ([[S036 — Do not postpone living well]]; [[P106 — Let mortality give shape]]). The practice is the Stoic training of desire and aversion — death is the thing most avoided, so it is the heaviest available training weight ([[S104 — Practise the contemplation of mortality]]; [[S024 — Do not fear death]]; [[B055 — Contemplate mortality (maranasati)]] is the Buddhist parallel, and the Tibetan four reminders do it daily and briefly [[K024 — Begin with the four reminders, briefly and daily]]).
+> "Therefore, let us so order our minds as if we had come to the very end. Let us postpone nothing. Let us balance life's account every day." ([Seneca, *Letters* 101, Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101))
 
-The distinction to hold: memento mori is not fatalism or gloom. It is urgency without hurry ([[Y096 — Keep urgency without hurry]]; [[B193 — Live with death lightly in view]]) — the opposite of [[Acedia]], the apathy that mortality-awareness misused can collapse into. Its partner is [[Amor fati]]: remembering the ending is what makes loving the whole possible.
+The same letter names the failure the practice repairs: we schedule our lives as if the schedule were guaranteed.
 
-An example at its smallest: one sentence written at the top of the day's plan — “this may be one of few remaining” — and the plan edited accordingly.
+> "We plan distant voyages and long-postponed home-comings after roaming over foreign shores, we plan for military service and the slow rewards of hard campaigns, we canvass for governorships and the promotions of one office after another—and all the while death stands at our side; but since we never think of it except as it affects our neighbour, instances of mortality press upon us day by day, to remain in our minds only as long as they stir our wonder." ([Seneca, *Letters* 101](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101))
+
+The letter's closing rule is the whole practice in one line:
+
+> "Therefore, my dear Lucilius, begin at once to live, and count each separate day as a separate life." ([Seneca, *Letters* 101](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101))
+
+### The mechanism
+
+The mechanism is contrast, not fear: against the background of ending, trivial anxieties shrink and postponed living becomes visible. The practice is the Stoic training of desire and aversion, and death is the thing most avoided, which makes it the heaviest available training weight. The principle links for this cluster are gathered below.
+
+### The distinction to hold
+
+Memento mori is not fatalism or gloom. It is urgency without hurry, the opposite of [[Acedia]], the apathy that mortality-awareness misused can collapse into. Its partner is [[Amor fati]]: remembering the ending is what makes loving the whole possible. Seneca's rule of going to bed as if one had lived one's last day, and of receiving each day as borrowed, says the same thing in the register of practice: time is the one loan that can be called at any moment.
+
+### An example at its smallest
+
+One sentence written at the top of the day's plan, "this may be one of few remaining", with the plan edited accordingly. (Illustrative scenario, not a reported participant or study result.)
+
+### In the compendium
+
+- [[S104 — Practise the contemplation of mortality]] — the practice principle, with [[S024 — Do not fear death]] its fear-side pair
+- [[B055 — Contemplate mortality (maranasati)]] — the Buddhist parallel, and [[K024 — Begin with the four reminders, briefly and daily]] the Tibetan daily-and-briefly form
+- [[P106 — Let mortality give shape]] — mortality as the shaper of priorities
+- [[S036 — Do not postpone living well]] — postponed living made visible
+- [[Y096 — Keep urgency without hurry]] and [[B193 — Live with death lightly in view]] — the urgency pair, the practice's failure mode being apathy
+- [[M037 — Number your days; we only borrow our time]], [[S089 — Remember that you will die]] and [[S090 — See that life is short and do not waste it]] — the remembrance and numbering set
+- [[K230 — Memento mori]] — the compendium's own kernel page
 
 Its Stoic sibling is [[Premeditatio malorum]] (adversity rehearsed instead of death) and its Buddhist one [[Impermanence]].
 
 ## Related concepts
 
 - [[M013]] — the remembrance-of-death tradition and the flower-and-song elegies treat the same fact from two sides
+- [[Amor fati]] — loving the whole is what remembering the ending trains
+- [[Premeditatio malorum]] — adversity rehearsed instead of death
+- [[Impermanence]] — the Buddhist account of why the ending is worth remembering
+- [[Acedia]] — the collapse the practice avoids when it curdles into apathy
 
 ## Sources
 
-- Seneca, Letters 101
-- Seneca, On the Shortness of Life
-- Stoic tradition
-- Stoics, Marcus Aurelius, Meditations
-- the series' Stoic volume
-- Stoics
+- [Seneca, *Moral Letters to Lucilius*, Letter 101 (Gummere translation, Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101) — the three passages quoted above
+- Seneca, *On the Shortness of Life*; Marcus Aurelius, *Meditations* — the wider Stoic tradition behind the practice (consulted editions; no passages quoted on this page)
 
 ## Cited in parallels
 
