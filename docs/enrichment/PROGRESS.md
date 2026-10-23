@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-23 11:43 UTC (input revision `8a008984f`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 12:43 UTC.
+As of 2026-10-23 11:53 UTC (input revision `827429c36`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 12:53 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,8 +9,8 @@ As of 2026-10-23 11:43 UTC (input revision `8a008984f`). Scope: principles and c
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2182 | 0 | 2182 | 100.0% |
-| Concepts | 2219 | 42 | 2261 | 98.1% |
-| **Combined** | **4401** | **42** | **4443** | **99.1%** |
+| Concepts | 2218 | 43 | 2261 | 98.1% |
+| **Combined** | **4400** | **43** | **4443** | **99.0%** |
 
 ## Stories (separate pipeline)
 
@@ -18,13 +18,13 @@ Published story pages (content/stories/ST*.md): 436. The per-lane rows below are
 
 | Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
-| s1a | 0 | 8 | 3 | 28 |
+| s1a | 0 | 16 | 20 | 3 |
 | s1b | 0 | 23 | 0 | 3 |
 | s1c | 0 | 38 | 1 | 0 |
 | s1d | 3 | 7 | 0 | 0 |
 | s1e | 2 | 0 | 6 | 0 |
 | s1f | 0 | 10 | 0 | 0 |
-| **All lanes** | **5** | **86** | **10** | **31** |
+| **All lanes** | **5** | **94** | **27** | **6** |
 
 ## Kernels and thinkers (enrichment programs)
 
@@ -32,11 +32,11 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 | Program | Pages | Done entries (bands) | Distinct done K-IDs | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queued IDs not in done |
 |---|---|---|---|---|---|---|---|
-| Kernels | 316 | 326 (cmp, k1a, k1b, k1c, k1d, k1e, kpr) | 253 | 253 | 80.1% | 216 | 11 |
-| Thinkers | 55 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 55 | — |
+| Kernels | 316 | 335 (cmp, k1a, k1b, k1c, k1d, k1e, kpr) | 262 | 262 | 82.9% | 216 | 9 |
+| Thinkers | 56 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 55 | — |
 
-- Thinker reconciliation: 55 thinker page(s) exist (T001, T002, T003, T004, T005…); the thinker queue holds 55 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 12 recorded done. No completion percentage is computed: the program has no defined completion denominator.
-- Kernel reconciliation: 73 kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is ['K109', 'K112', 'K118', 'K119', 'K123', 'K124', 'K128', 'K129', 'K130', 'K133', 'K134', 'K137', 'K138', 'K143', 'K145', 'K147', 'K155', 'K157', 'K159', 'K160', 'K166', 'K169', 'K170', 'K171', 'K173', 'K175', 'K176', 'K181', 'K183', 'K185', 'K186', 'K187', 'K188', 'K189', 'K190', 'K191', 'K197', 'K198', 'K202', 'K203', 'K206', 'K207', 'K208', 'K209', 'K210', 'K212', 'K214', 'K217', 'K218', 'K219', 'K220', 'K224', 'K225', 'K226', 'K232', 'K233', 'K235', 'K238', 'K240', 'K241', 'K243', 'K244', 'K247', 'K248', 'K249', 'K303', 'K324', 'K327', 'K329', 'K348', 'K350', 'K414', 'K415'] — recorded both by K-ID and by title); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 63 kernel pages are not recorded done; 11 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
+- Thinker reconciliation: 56 thinker page(s) exist (T001, T002, T003, T004, T005…); the thinker queue holds 55 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 12 recorded done. No completion percentage is computed: the program has no defined completion denominator.
+- Kernel reconciliation: 73 kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is ['K109', 'K112', 'K118', 'K119', 'K123', 'K124', 'K128', 'K129', 'K130', 'K133', 'K134', 'K137', 'K138', 'K143', 'K145', 'K147', 'K155', 'K157', 'K159', 'K160', 'K166', 'K169', 'K170', 'K171', 'K173', 'K175', 'K176', 'K181', 'K183', 'K185', 'K186', 'K187', 'K188', 'K189', 'K190', 'K191', 'K197', 'K198', 'K202', 'K203', 'K206', 'K207', 'K208', 'K209', 'K210', 'K212', 'K214', 'K217', 'K218', 'K219', 'K220', 'K224', 'K225', 'K226', 'K232', 'K233', 'K235', 'K238', 'K240', 'K241', 'K243', 'K244', 'K247', 'K248', 'K249', 'K303', 'K324', 'K327', 'K329', 'K348', 'K350', 'K414', 'K415'] — recorded both by K-ID and by title); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 54 kernel pages are not recorded done; 9 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
 - Stories carry no completion denominator in their registry; the Stories section above reports counts only.
 
 ## Principles by forest
@@ -68,7 +68,7 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 ## Reconciliation notes
 
 - Recorded-done principle IDs with no current page: 44 (A040-A041-A047 recreation, E038-S051 recreation, K060 recreation, K109, K118, K119, K124, K130, K134, K138…)
-- Recorded-done concept titles with no current page (even after normalizing punctuation): 60 (Aaron Beck, Abraham Maslow, Aristotle, Bandura, Barbara Fredrickson…)
+- Recorded-done concept titles with no current page (even after normalizing punctuation): 59 (Aaron Beck, Abraham Maslow, Aristotle, Bandura, Barbara Fredrickson…)
 - Concept records are matched to pages on alphanumeric-normalized titles, so renames between colon and dash forms do not show as unmatched; true renames or deletions appear above and are counted as done, not as backlog.
 
 Generated by `python3 scripts/enrich_progress_report.py` — read-only; never touches the queues.
