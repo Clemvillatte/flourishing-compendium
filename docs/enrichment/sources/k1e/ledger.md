@@ -93,3 +93,10 @@
 - Three-breath count and the two questions follow the seed's editorial design, labelled editorial; the withholding grounded in the SEP assent passages.
 - Guided-version exemption: a pause inside a moment, no recording required (self-directed; K203 nap precedent).
 - All 5 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean (one "opened" caught and reworded before push).
+
+## K276 — Preference fasting (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carriers opened: SEP Stoicism entry (already fetched this session) — the virtuous-agent health-pursuit passage verbatim; Hofmann et al. 2012 JPSP abstract via NCBI eutils — the method sentence and the desires-frequent-variable-largely-unproblematic sentence verbatim.
+- Seed repair: the seed's "Research on desire and craving shows that wants, when examined, often lose their urgency" claim was NOT carried — the opened Hofmann abstract establishes frequency, intensity variability and resistance-with-uneven-success, which is what the page now quotes; the urgency-loss claim is honestly declared not carried on the page (bounded to the consulted sources).
+- Weekly form and the note-taking labelled editorial; the preference-vs-need test grounded in the SEP preferred-indifferents material. Guided-version exemption: abstention-and-notes practice, no recording required (self-directed; K203 nap precedent).
+- All 6 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
