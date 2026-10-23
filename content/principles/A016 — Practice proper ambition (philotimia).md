@@ -45,6 +45,9 @@ People blame "the unambitious man as not willing to be honoured even for noble r
 
 - **The having versus being mode** (Fromm, To Have or To Be?)
 - **[[Contempt for fame|Contempt for fame]]** (Seneca, Letters from a Stoic)
+## Related concepts
+
+- [[T013 — Seneca]]: contempt for fame, the Letters' guard on proper ambition
 
 <!-- fc: reflections
 Which recognition are you pursuing that you would not miss if it never came, and which have you deserved but brushed off?
