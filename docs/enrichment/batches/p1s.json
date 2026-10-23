@@ -24,7 +24,6 @@
   "P177",
   "P168",
   "B096",
-  "B049",
   "D094",
   "B030",
   "B113",
@@ -32,7 +31,7 @@
   "B012",
   "B017"
  ],
- "in_progress": null,
+ "in_progress": "B049",
  "flagged": {
   "D094": "Reopened for QC: QC correction: forester clause exceeds source",
   "D103": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC repairs VERIFIED APPLIED on the current page — the ledger's 14-flag substantive verification ('All 14 confirmed repaired in current text', compared against the prescribed repairs) re-checked this session by keyword: the flagged defect phrases are ABSENT (and where the repair ADDED prescribed content — B113's 'a related discussion', B126's Gemmell 'entity, a being, a living being' quote — the prescribed content is PRESENT). The state flag was stale (repairs were applied after the flag was written). [ORIGINAL: Reopened for QC: Milestone QC FAIL: explanation overreach; repairs pending]",
@@ -45,7 +44,7 @@
   "B092": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC repairs VERIFIED APPLIED on the current page — the ledger's 14-flag substantive verification ('All 14 confirmed repaired in current text', compared against the prescribed repairs) re-checked this session by keyword: the flagged defect phrases are ABSENT (and where the repair ADDED prescribed content — B113's 'a related discussion', B126's Gemmell 'entity, a being, a living being' quote — the prescribed content is PRESENT). The state flag was stale (repairs were applied after the flag was written). [ORIGINAL: Reopened for QC: Milestone QC FAIL: source-scope + application overreach; repairs pending]",
   "B096": "Reopened for QC: QC correction: remove generalization beyond explicit sutta statement",
   "B109": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the round-2 prescribed replacement VERIFIED APPLIED on the current page — the split-into-present-and-built framing is present (the MN 18/MN 20/Dhp 212 passages scoped to what each establishes; 'several methods' named for MN 20; endearment-grief-fear association for Dhp 212); the item-15 round's deviation was corrected in round 2 per the ledger ('applied verbatim and re-validated against the fixed baseline f31a4697'). [ORIGINAL: Reopened for QC: Round-2 QC: item-15 prescribed replacement not applied verbatim; repairs pending]",
-  "B049": "supervisor disposition (2026-10-23 ~06:49Z, worker-pplx-sup-0b6f3a91): VERIFIED — the flag's component (remove banned contrast construction) is machine-checkable and the page now validates CLEAN under enrich_validate.py, which enforces the banned 'not X but Y' staging list; the construction is gone. Flag closed. (B096, B017, D094, P168 remain flagged: their semantic components — sutta-statement generalization, maintenance claims, forester-clause trim, quote period — are not machine-checkable and stay pending the band's ledger specifics.)",
+  "B049": "Reopened for QC: Ground no-mind in direct Wilson text; explain unfixed attention, training and fresh Plain words",
   "B113": "Reopened for QC: Explain patience argument and re-derive Plain words; distinguish objections in verses 109 and 110",
   "B114": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the item-20 citation repair VERIFIED APPLIED on the current page — AN 5.35 is now correctly cited as the Dananisamsa Sutta (the five benefits of giving, its own carrier) and AN 5.41 as the Adiya Sutta (the householder's uses of wealth, Thanissaro); the Dananisamsa five-benefits blockquote verified VERBATIM against a fresh fetch of the cited carrier (curly-apostrophe normalization only). [ORIGINAL: Reopened for QC: Item-20 QC FAIL: citation correction itself wrong (AN 5.35 is the Dananisamsa Sutta); repairs pending]",
   "B126": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC repairs VERIFIED APPLIED on the current page — the ledger's 14-flag substantive verification ('All 14 confirmed repaired in current text', compared against the prescribed repairs) re-checked this session by keyword: the flagged defect phrases are ABSENT (and where the repair ADDED prescribed content — B113's 'a related discussion', B126's Gemmell 'entity, a being, a living being' quote — the prescribed content is PRESENT). The state flag was stale (repairs were applied after the flag was written). [ORIGINAL: Reopened for QC: Round-2 QC: use opened named translation; repairs pending]",
@@ -67,7 +66,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T12:39:09+00:00",
+ "updated": "2026-10-23T12:39:16+00:00",
  "band_done": false,
  "notes": {
   "B021 death-recovery check": "2026-10-20: owner reported the agent working on B021 died. Verified nothing lost: B021 (p1i item) content last committed f9ce31ef (2026-10-19 QC-repair batch, milestone 15); p1s no-edit light-check fcb33b61 + cross-band incident correction 5328d488 (2026-10-20 02:20-02:25, quotes re-verified, no action owed per supervisor disposition); p1s band closed cleanly 30/30 at 03:54:11Z (5bc8f460, baton released, in_progress None). B021 validates clean at HEAD. No in-flight work, no unpushed commits; nothing owed to the next agents."
