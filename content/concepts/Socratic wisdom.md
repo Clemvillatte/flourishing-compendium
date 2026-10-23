@@ -13,6 +13,18 @@ Socratic wisdom is the wisdom Plato's Apology puts in Socrates' mouth after the 
 
 Socrates interprets the oracle's answer as showing the limits of human wisdom: in this passage, "God only is wise", while human wisdom is worth little or nothing ([Plato, Apology, same text](https://www.gutenberg.org/ebooks/1656)). The awareness of one's own ignorance, on this account, is the human wisdom the oracle affirmed.
 
+The oracle scene that sets the whole defence in motion, in the same text:
+
+> "Well, Chaerephon, as you know, was very impetuous in all his doings, and he went to Delphi and boldly asked the oracle to tell him ... he asked the oracle to tell him whether anyone was wiser than I was, and the Pythian prophetess answered, that there was no man wiser."
+> — [Plato, Apology, Jowett translation](https://www.gutenberg.org/files/1656/1656-h/1656-h.htm)
+
+The advantage Socrates claims over the politicians, poets and artisans he examined is stated with his own precision:
+
+> "Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is,—for he knows nothing, and thinks that he knows; I neither know nor think that I know. In this latter particular, then, I seem to have slightly the advantage of him."
+> — [Plato, Apology, Jowett translation](https://www.gutenberg.org/files/1656/1656-h/1656-h.htm)
+
+The advantage is not a possession of knowledge but a disposition toward it: not thinking you know what you do not. That is why Socrates can call the oracle's answer a riddle he was obliged to test, and why the testing — questioning those reputed wise — became his life's work rather than a single verdict about himself.
+
 ### In the compendium
 
 - [[CO014 — Understand that thinking is fallible and that wisdom includes knowing this]] — the fallibility principle in the same register
