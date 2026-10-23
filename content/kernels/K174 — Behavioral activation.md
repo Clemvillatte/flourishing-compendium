@@ -31,7 +31,7 @@ What the study does not test: it concerns outpatient psychotherapy for major dep
 
 ### A guided version
 
-None located; the self-help form of this practice is a written timetable, and its guides are workbooks rather than recordings.
+A guided recording exists, overturning the earlier verdict: Greater Manchester Mental Health NHS Foundation Trust publishes a step-by-step [Behavioural Activation worksheet series with a video walkthrough](https://www.gmmh.nhs.uk/behavioural-activation/) in which a Recovery Academy trainer talks through the cycle of depression, easy-medium-hard goals, the weekly plan, and the reflection steps. The Flinders [guided self-help workbook](https://www.flinders.edu.au/content/dam/documents/engage/community/cbt/2-behavioural-activation.pdf) does the same on paper: monitor, list routine, enjoyable and necessary activities, rate, plan with a coach, do, review.
 
 ## Facets
 
