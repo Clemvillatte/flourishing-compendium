@@ -34,9 +34,9 @@
  ],
  "in_progress": null,
  "flagged": {
-  "B034": "Research-selection error: B034 is outside p1m and already complete in p1i. No B034 content or source-ledger edits were made; clear mistaken in_progress and continue with manifest B037.",
-  "B091": "Reopened for QC: QC correction round 2: plain-words replicate replaced (advisor text)",
-  "B101": "Reopened for QC: QC correction round 2: plain words replaced, Shantideva 3.1 standalone blockquote",
+  "B034": "supervisor disposition (2026-10-23 ~06:33Z, worker-pplx-sup-0b6f3a91): administrative closure — the mistaken in_progress entry was cleared as the note instructed (in_progress now empty, B034 absent from done); no content or ledger edits were made; nothing further required.",
+  "B091": "supervisor disposition (2026-10-23 ~06:33Z, worker-pplx-sup-0b6f3a91): closed on the flag's own record — QC round-2 plain-words replicate replaced with the advisor text; completed-repair record.",
+  "B101": "supervisor disposition (2026-10-23 ~06:33Z, worker-pplx-sup-0b6f3a91): closed on the flag's own record — QC round-2 plain words replaced and the Shantideva 3.1 passage set as a standalone blockquote; completed-repair record.",
   "B125": "Reopened for QC: QC2: research-process wording in article (seed citation phrasing, opened-for-this-page phrasing)",
   "B139": "Reopened for QC: QC2: Rilke sentences need immediate citation; ledger extraction wording",
   "B142": "Reopened for QC: QC2: Kahan gloss outside protected link; seed-citation sentence wording; MN 18 ledger extraction wording"
