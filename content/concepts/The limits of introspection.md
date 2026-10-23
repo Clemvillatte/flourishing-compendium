@@ -7,7 +7,7 @@ file: "The limits of introspection"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The limits of introspection name what Nisbett and Wilson argued in their 1977 Psychological Review paper, "Telling More Than We Can Know: Verbal Reports on Mental Processes": that direct first-person access to one's own higher-order cognitive processes may be little or none. ([Nisbett & Wilson 1977, opened full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf))
+The limits of introspection name what Nisbett and Wilson argued in their 1977 Psychological Review paper, "Telling More Than We Can Know: Verbal Reports on Mental Processes": that direct first-person access to one's own higher-order cognitive processes may be little or none. ([Nisbett & Wilson 1977, full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf))
 
 > "Evidence is reviewed which suggests that there may be little or no direct introspective access to higher order cognitive processes."
 
@@ -34,7 +34,7 @@ Nisbett and Wilson describe cases in which participants were unaware of a stimul
 
 ## Sources
 
-- [Nisbett, R. E., & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." Psychological Review, 84(3), 231–259 (opened full text, MIT course archive)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf)
+- [Nisbett, R. E., & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." Psychological Review, 84(3), 231–259 (full text, MIT course archive)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf)
 
 ## Cited in psychology parallels
 

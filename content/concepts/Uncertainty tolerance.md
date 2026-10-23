@@ -27,7 +27,7 @@ In a CBT program for GAD, changes in IU and worry were assessed bi-weekly during
 
 ## Sources
 
-- Dugas, M. J., Gagnon, F., Ladouceur, R. and Freeston, M. H. (1998). Generalized anxiety disorder: a preliminary test of a conceptual model. Behaviour Research and Therapy, 36(2), 215-226, [record at PubMed](https://pubmed.ncbi.nlm.nih.gov/9613027/) (not directly opened; the model is described through the two opened papers below)
+- Dugas, M. J., Gagnon, F., Ladouceur, R. and Freeston, M. H. (1998). Generalized anxiety disorder: a preliminary test of a conceptual model. Behaviour Research and Therapy, 36(2), 215-226, [record at PubMed](https://pubmed.ncbi.nlm.nih.gov/9613027/) (cited at second hand; the model is described through the two opened papers below)
 - Vukosavljević Gvozden, T., Baucal, A., Krstic, K. and Filipović, S. (2021). Intolerance of Uncertainty and Tendency to Worry as Mediators. Frontiers in Psychology, opened at [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8631188/)
 - Bomyea, J., Ramsawh, H., Ball, T., Taylor, C. T., Paulus, M. P., Lang, A. J. and Stein, M. B. (2015). Intolerance of uncertainty as a mediator of reductions in worry in a cognitive behavioral treatment program for generalized anxiety disorder. Journal of Anxiety Disorders, opened at [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4480197/)
 

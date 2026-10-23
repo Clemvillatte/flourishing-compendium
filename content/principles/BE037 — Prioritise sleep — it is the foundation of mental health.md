@@ -26,7 +26,7 @@ Tell someone helping you with your mental health about nights spent awake as wel
 ## Sources
 
 - [Goldstein & Walker, "The Role of Sleep in Emotional Brain Function," Annual Review of Clinical Psychology (2014)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4286245/) — Emotional Reactivity section, amygdala reactivity and mPFC connectivity sentences, reporting Yoo et al. 2007
-- [Freeman et al., "The effects of improving sleep on mental health (OASIS)," Lancet Psychiatry (2017)](https://pubmed.ncbi.nlm.nih.gov/28888927/) — abstract; depression and anxiety sentence verified in the [opened full text](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(17)30328-0/fulltext)
+- [Freeman et al., "The effects of improving sleep on mental health (OASIS)," Lancet Psychiatry (2017)](https://pubmed.ncbi.nlm.nih.gov/28888927/) — abstract; depression and anxiety sentence verified in the [full text](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(17)30328-0/fulltext)
 - [AASM/SRS consensus, "Recommended Amount of Sleep for a Healthy Adult" (2015)](https://aasm.org/resources/pdf/pressroom/adult-sleep-duration-consensus.pdf) — duration recommendation for the Practice section
 
 ## Psychology parallels

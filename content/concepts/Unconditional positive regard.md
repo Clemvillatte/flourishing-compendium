@@ -31,7 +31,7 @@ Rogers proposed the six conditions as jointly necessary and sufficient for const
 
 ## Sources
 
-- Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. Journal of Consulting Psychology, 21(2), 95-103 (the 1957 paper was not directly opened; its conditions are rendered through [McLeod](https://www.simplypsychology.org/unconditional-positive-regard.html) and its hypothesis through [Elliott and Freire](https://strathprints.strath.ac.uk/27736/1/Rogers1957_Commentary.pdf))
+- Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. Journal of Consulting Psychology, 21(2), 95-103 (the 1957 paper was cited at second hand; its conditions are rendered through [McLeod](https://www.simplypsychology.org/unconditional-positive-regard.html) and its hypothesis through [Elliott and Freire](https://strathprints.strath.ac.uk/27736/1/Rogers1957_Commentary.pdf))
 - Rogers, C. R. (1959). A theory of therapy, personality, and interpersonal relationships. In S. Koch (ed.), Psychology: A Study of a Science, Vol. 3, the definition quote as given in [McLeod, Simply Psychology](https://www.simplypsychology.org/unconditional-positive-regard.html)
 - Elliott, R. and Freire, E. Classical Person-Centered and Experiential Perspectives on Rogers (1957), opened at [Strathclyde](https://strathprints.strath.ac.uk/27736/1/Rogers1957_Commentary.pdf)
 - McLeod, S. Unconditional Positive Regard, opened at [Simply Psychology](https://www.simplypsychology.org/unconditional-positive-regard.html)

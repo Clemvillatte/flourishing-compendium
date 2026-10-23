@@ -32,7 +32,7 @@ What holds it together is the unit of analysis. In the Taskforce's words, as rep
 
 ## Sources
 
-- [New Zealand Treasury, "Appendix C: Case study — Whānau Ora" (inquiry materials for the Productivity Commission's More effective social services inquiry; the document itself shows no publication date)](https://www.treasury.govt.nz/sites/default/files/2024-05/pc-inq-mess-appendix-c-case-study-whanau-ora.pdf) — carries the Taskforce brief verbatim in list form with its 2010 p. 6 citation; opened full text
+- [New Zealand Treasury, "Appendix C: Case study — Whānau Ora" (inquiry materials for the Productivity Commission's More effective social services inquiry; the document itself shows no publication date)](https://www.treasury.govt.nz/sites/default/files/2024-05/pc-inq-mess-appendix-c-case-study-whanau-ora.pdf) — carries the Taskforce brief verbatim in list form with its 2010 p. 6 citation; full text
 - [Hon Tariana Turia, 2010, speech receiving the Taskforce report, beehive.govt.nz](https://www.beehive.govt.nz/speech/report-taskforce-whanau-centred-initiatives) — carries the "more than the sum total of individual measures" and "self-determination and self-management" passages from the report; opened
 - [Kara et al. 2011, "Developing a Kaupapa Māori Framework for Whānau Ora"](https://www.communityresearch.org.nz/wp-content/uploads/formidable/Kara-Developing-a-Kaupapa-Maori-Framework-for-Whanau-Ora-20111.pdf) — carries the Durie 1994 formulation; opened
 - [ANU Press 2019, "Whānau Ora: An Indigenous policy success story"](https://press-files.anu.edu.au/downloads/press/n5314/pdf/ch21.pdf) — philosophy summary and the work-with-whānau rule; opened

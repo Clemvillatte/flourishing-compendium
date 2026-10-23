@@ -27,7 +27,7 @@ Vigor and dedication are the core dimensions, the direct positive opposites of b
 
 ## Sources
 
-- Schaufeli, W. B., Salanova, M., González-Romá, V. and Bakker, A. B. (2002). The measurement of engagement and burnout: A two sample confirmatory factor analytic approach. Journal of Happiness Studies, 3, 71-92, [record at Springer](https://link.springer.com/10.1023/A:1015630930326) (not directly opened; the 2002 definition is quoted through the fetched Schaufeli chapter below)
+- Schaufeli, W. B., Salanova, M., González-Romá, V. and Bakker, A. B. (2002). The measurement of engagement and burnout: A two sample confirmatory factor analytic approach. Journal of Happiness Studies, 3, 71-92, [record at Springer](https://link.springer.com/10.1023/A:1015630930326) (cited at second hand; the 2002 definition is quoted through the fetched Schaufeli chapter below)
 - Schaufeli, W. B. What is Engagement?, chapter 1, opened at [wilmarschaufeli.nl PDF](https://www.wilmarschaufeli.nl/publications/Schaufeli/414.pdf)
 - Schaufeli's later paper on burnout and work engagement, opened at [wilmarschaufeli.nl PDF](https://www.wilmarschaufeli.nl/publications/Schaufeli/237.pdf)
 

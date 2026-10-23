@@ -12,11 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 154** — Work with others, not against them
 
-Marcus Aurelius wrote his morning reminder for exactly this: he will meet the ungrateful, the arrogant, the envious, and he reads their conduct as "ignorance of what is good and evil" rather than malice ([Meditations II.1, Long translation; opened full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
+Marcus Aurelius wrote his morning reminder for exactly this: he will meet the ungrateful, the arrogant, the envious, and he reads their conduct as "ignorance of what is good and evil" rather than malice ([Meditations II.1, Long translation; full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
 > For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another, then, is contrary to nature; and it is acting against one another to be vexed and to turn away.
 
-(Marcus Aurelius, Meditations II.1, trans. George Long; [opened full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
+(Marcus Aurelius, Meditations II.1, trans. George Long; [full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
 
 The same passage names the wrongdoer as "akin to me", participating in the same intelligence and portion of the divinity (Marcus Aurelius, [Meditations II.1, Long translation](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)), which is why the instruction is patience and teaching rather than payback.
 

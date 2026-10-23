@@ -12,11 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 146** — Do not fear death
 
-Marcus Aurelius' move is to put death in the column of things that happen to everyone, and to use that as an instruction rather than a consolation ([Meditations II.11, Long translation; opened full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
+Marcus Aurelius' move is to put death in the column of things that happen to everyone, and to use that as an instruction rather than a consolation ([Meditations II.11, Long translation; full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
 > Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.
 
-(Marcus Aurelius, Meditations II.11, trans. George Long; [opened full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
+(Marcus Aurelius, Meditations II.11, trans. George Long; [full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
 
 The argument behind it: death and life, honor and dishonor, pain and pleasure "equally happen to good men and bad, being things which make us neither better nor worse. Therefore they are neither good nor evil" (Marcus Aurelius, [Meditations II.11, Long translation](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)). Meditations II.14 adds the arithmetic: "the longest liver and he who will die soonest lose just the same", since the present is the only thing a man has (Marcus Aurelius, [Meditations II.14, Long translation](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)).
 

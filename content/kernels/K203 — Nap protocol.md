@@ -46,6 +46,6 @@ Not applicable: a nap is inherently unguided; there is no instruction track beyo
 
 ## Sources
 
-- Brooks, A., & Lack, L. (2006). A brief afternoon nap following nocturnal sleep restriction: which nap duration is most recuperative? *Sleep*, 29(6), 831–840. [doi:10.1093/sleep/29.6.831](https://doi.org/10.1093/sleep/29.6.831) — findings reported through the review below (the primary abstract was not directly opened).
+- Brooks, A., & Lack, L. (2006). A brief afternoon nap following nocturnal sleep restriction: which nap duration is most recuperative? *Sleep*, 29(6), 831–840. [doi:10.1093/sleep/29.6.831](https://doi.org/10.1093/sleep/29.6.831) — findings reported through the review below (the primary abstract was cited at second hand).
 - [Hilditch, C. J., & McHill, A. W. (2019). Sleep inertia: current insights. *Nature and Science of Sleep*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6710480/) — verbatim summary of the Brooks & Lack nap-length comparison; scope limits of short naps; raw-text quote check done 2026-10-22.
 - [Sleep Foundation — Napping: Benefits and Tips](https://www.sleepfoundation.org/napping) — the timing rule (before 3 p.m.) and the length rule (about 20 minutes, no longer than 30), verbatim.

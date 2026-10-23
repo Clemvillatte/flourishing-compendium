@@ -45,9 +45,9 @@ Developmental · Psychological science
 - [[SO008]] — A principle on daily-life conditions as the social side of biophysiological functioning
 ## Sources
 
-- [Bronfenbrenner, U. and Morris, P. A. The Bioecological Model of Human Development, ch. 14 in Handbook of Child Psychology, Vol. 1: Theoretical Models of Human Development (6th ed., Damon and Lerner, eds., Wiley 2006) (opened full text; edition and year verified against the Wiley Online Library record, https://onlinelibrary.wiley.com/page/book/10.1002/9780470147658/homepage/editorscontributors.html)](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf)
+- [Bronfenbrenner, U. and Morris, P. A. The Bioecological Model of Human Development, ch. 14 in Handbook of Child Psychology, Vol. 1: Theoretical Models of Human Development (6th ed., Damon and Lerner, eds., Wiley 2006) (full text; edition and year verified against the Wiley Online Library record, https://onlinelibrary.wiley.com/page/book/10.1002/9780470147658/homepage/editorscontributors.html)](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf)
 
-- [Tong, P. and An, I. S. Review of studies applying Bronfenbrenner's bioecological theory in international and intercultural education research, Frontiers in Psychology (opened full text; carries the Bronfenbrenner 1994 macrosystem and chronosystem quotations)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10801006/)
+- [Tong, P. and An, I. S. Review of studies applying Bronfenbrenner's bioecological theory in international and intercultural education research, Frontiers in Psychology (full text; carries the Bronfenbrenner 1994 macrosystem and chronosystem quotations)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10801006/)
 
 ## Cited in parallels
 

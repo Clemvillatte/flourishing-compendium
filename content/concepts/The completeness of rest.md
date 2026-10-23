@@ -23,7 +23,7 @@ The book also describes how good activity carries its own completion. Pleasure, 
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics, Book X, Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) — chapters 4 and 6 (opened full text)
+- [Aristotle, Nicomachean Ethics, Book X, Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) — chapters 4 and 6 (full text)
 
 ## Cited in philosophy parallels
 
