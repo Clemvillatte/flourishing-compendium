@@ -17,7 +17,7 @@ In II.4 Aristotle adds a guard: merely doing just acts is not yet being just. He
 
 ### What it is not
 
-Action before feeling is not a claim that feelings do not matter or should be overridden. The Aristotelian source speaks of acts that build a settled character, and the ordering of action ahead of emotion is, as noted above, the compendium's application rather than a thesis of the Ethics. For the psychological side, the linked pages on behavioural activation and opposite action are the place to look.
+Action before feeling is not a claim that feelings do not matter or should be overridden. The Aristotelian source speaks of acts that build a settled character, and the ordering of action ahead of emotion is, as noted above, the compendium's application rather than a thesis of the Ethics. For the psychological side, the linked entries on the behavioural ordering and on opposite action are the place to look.
 
 ### In the compendium
 
