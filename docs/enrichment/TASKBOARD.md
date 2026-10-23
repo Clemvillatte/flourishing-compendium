@@ -3216,7 +3216,15 @@ from concept-page prose). ALL 12 REOPENED with preserved QC flags
 drafts/t1b reciprocal files are UNREVIEWED surname matches, NOT
 integration-ready. IDENTITY MISMATCH for supervisor reconciliation: the manifest
 thinkers list assigns T019=Kierkegaard, T020=Rogers, but the published pages are
-T019=Frankl, T020=Kant — do not renumber unilaterally.
+T019=Frankl, T020=Kant — do not renumber unilaterally. STATUS 2026-10-23 ~11:48Z (worker-pplx-t1b-2233): BAND COMPLETE — all 12 thinkers done,
+band_done recorded (batches/t1b.json); every word-budget and QC flag resolved this session
+(Hayes, Ryan&Deci, Gross, Kierkegaard rebuilt to budget with newly opened carriers; T014 routed
+dedup fix applied; T018/T021/T022 inherited over-budgets fixed in the full-band sweep); all 12 pages
+pass every section budget, the 8 session-edited pages validate ok vs baseline b4589d67, build clean.
+Advisor QC: 4 rounds, all repairs applied, scoped repair completion recorded in the t1b ledger.
+ROUTED for the next pass (non-blocking): T022 Kahneman Core bullet 1 repeats the System 1/System 2
+quotes from Position (inherited duplicate class; paraphrase noted in the ledger). The reciprocal
+drafts remain unreviewed surname matches (unchanged).
 ## Band t1a — THINKERS (minted 2026-10-22 15:35Z, worker-t1a-pplx-e559df56, owner-directed: session message made Thinkers pages the special focus)
 
 Top 12 of queue-thinkers.json by corpus-mention score: T002 Aristotle (722),
