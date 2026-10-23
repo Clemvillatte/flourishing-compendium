@@ -23,13 +23,14 @@ In Human Nature and Conduct, Dewey treats ends as foreseen consequences that giv
 The compendium's exercise for a choice at hand: list what the act would do to your own growth, to the people it touches, and to the shared conditions they rely on, before deciding.
 
 **Plain words**
-Before acting, ask what this does and to whom. Write down who is affected and how, and decide after the list is complete.
+The result you most want is only part of what an action does. The route to it is already changing people's lives, relationships and habits. Those effects belong in the account too. Dewey's warning is about letting a favoured outcome fill the whole view until the damage done along the way disappears from sight.
 
-*For example:* Imagine you are tempted to tell a comforting lie to a friend about their business plan. You list what the lie would do to them, to their trust, and to your own habits of honesty, and choose with the whole list in view.
+For example: A friend asks what you think of their business plan. Draft blanket reassurance and an honest but considerate reply, then compare the consequences you foresee for their decision, your relationship and your own credibility. Send the reply you can defend across those concerns. Later, review what actually happened and keep any wording that helped you be both clear and considerate. The comparison is between drafts; it does not require trying a lie on your friend.
 
 ## Sources
 
 - [Human Nature and Conduct, John Dewey, Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt) — part 3, section 6
+- [Human Nature and Conduct, page-numbered HTML edition](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm) — part 3, section VI, “The Nature of Aims”; foreseen consequences, p. 225; impartial consequences and lying, pp. 228 and 229; favoured consequence obscuring others, p. 229
 
 ## Psychology parallels
 

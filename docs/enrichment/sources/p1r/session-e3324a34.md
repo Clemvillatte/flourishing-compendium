@@ -37,3 +37,9 @@ Repair: replace a procedural question with a shelf/measurements analogy that exp
 Opened [Human Nature and Conduct, part II, §2](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-2) and [§3](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-2-3) with fetch. Read both whole sections. Both retained block quotations match the text, allowing typographic apostrophe normalization in the new §3 sentence.
 
 Repair: specify that the opening discussion of highly flexible impulses concerns the young; retain Dewey's account of adult possibilities and the inertia of custom without promising universal rebuilding. Replace “what feels like your nature is mostly your habits” and “what was built can be rebuilt” with a concrete fear/habits/surroundings explanation. The maths illustration tests current support rather than guessing which teacher or classroom caused a person's history. No neuroplasticity efficacy claim added; inherited Draganski parallel remains unchanged.
+
+## P079: plural consequences, not the one favoured result
+
+Read [Dewey, Human Nature and Conduct, part III, section VI, “The Nature of Aims”](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm), printed pp. 225, 228 and 229, from the full fetch already opened. All three retained quotations verified with line wrapping and the inserted page marker removed. Added exact printed locators in a new source entry while retaining the original carrier.
+
+Short taper repair: replace a procedure-only Plain words with an explanation of why the favoured outcome cannot exclude other effects from consideration. The friend/business example now compares drafts, not experimental deception; review concerns actual outcomes, not a promise of better results.
