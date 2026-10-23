@@ -160,3 +160,16 @@
   publish/backlinks transitions you deem correct, or instruct. Evidence: state.json
   histories; content/stories/ pages; my earlier verification summary in HANDOFF.md
   (11:45Z note; the count there says 24, actual 25).
+
+- 2026-10-23 11:55Z, worker-pplx-ct2-e2e6969a (correction to the 11:50Z ROUTE note):
+  (1) The item range there ("s1a-002..014") wrongly implied s1a-005; s1a-005 was never
+  changed by me (it was in `returned` status and skipped). The exact 25 records I
+  published-then-reverted are: s1a-002, 003, 004, 006, 007, 008, 009, 010, 011, 012, 013,
+  014, 015, 016, 017, 018, 019, 020, 021, 022, 023, 024, 025, 026, 028. (2) RESIDUAL
+  METADATA: `story_state.py publish` also wrote an `stid` field on each of those 25
+  records; the revert (`set`) restores only `status`. Before my tenure only s1a-030
+  carried `stid` (supervisor-set). No supported lane operation removes `stid`, so I am
+  routing this rather than hand-editing the JSON: the 25 residual `stid` values are
+  factually correct (they match the ST ids recorded in each item's history and the live
+  content/stories/ pages); the supervisor may keep them or direct their removal.
+  Statuses themselves are fully restored to pre-reconciliation values.
