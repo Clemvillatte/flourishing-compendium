@@ -735,3 +735,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: the 20-to-30-minute dosage left as the kernel's prescription, not tested in the abstract; mechanism sentence is the authors' own, quoted rather than paraphrased.
 - Mention check run (before this entry): K107 already linked from D040/D049/B170/P115/P141 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). "Session" appears only as ordinary usage for the walk itself.
+
+## K274 — Evening examination (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Fiodorova & Farb 2022 (Anxiety Stress Coping 35(2):158-170), RCT N=95 of daily self-care reflection prompts over three weeks, abstract verified raw via NCBI efetch (PMID 34313502); authors read from the efetch header.
+- The blockquote (stress and negative affect decreased sentence) matches the raw efetch text verbatim.
+- Honesty on page: self-care prompts, not the Stoic three questions; happiness and positive affect nulls stated; Seneca not cited (his text not opened).
+- Mention check run (before this entry): K274 already linked from S130/A039/A100/R055 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
