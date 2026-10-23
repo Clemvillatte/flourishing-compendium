@@ -50,7 +50,27 @@
      "note": "round-3 advisor verdict: scoped PASS; frozen ready for supervisor integration"
     }
    ]
+  },
+  "s1f-003": {
+   "status": "qc_pending",
+   "angle": "B037 kalyanamitta: find a story that carries the companions-as-practice angle, not the chariot/self angle",
+   "history": [
+    {
+     "t": "2026-10-23T06:04:20+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:05:09+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:06:11+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T13:06:12+00:00"
+ "updated": "2026-10-23T06:06:11+00:00"
 }
