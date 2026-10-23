@@ -40,9 +40,9 @@ The sources do not show that attention, mood or meditation close a spinal gate. 
 
 ## Related concepts
 
-- [[Neuromatrix theory of pain]] — listed for comparison
-- [[Chronic pain research]] — listed for comparison
-- [[Chronic pain acceptance]] — listed for comparison
+- [[Neuromatrix theory of pain]] — the later Melzack theory that extends the gate idea to the whole body-self
+- [[Chronic pain research]] — the field where the gate idea matters most
+- [[Chronic pain acceptance]] — the acceptance-based approach to living with pain
 
 ## Sources
 

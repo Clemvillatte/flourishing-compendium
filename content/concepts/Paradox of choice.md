@@ -21,9 +21,9 @@ The page's original wording, "though the effect's magnitude is debated," matches
 
 ## Related concepts
 
-- [[Choice overload]] — the term used in the meta-analysis, listed for comparison
-- [[Maximizing versus satisficing]] — listed for comparison
-- [[The sufficient good]] — listed for comparison
+- [[Choice overload]] — the term used in the meta-analysis
+- [[Maximizing versus satisficing]] — the maximizing side of this literature: wanting the best versus good enough
+- [[The sufficient good]] — the satisfaction-based alternative
 
 ## Sources
 

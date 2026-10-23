@@ -34,9 +34,9 @@ Cruwys and colleagues' 2013 population study of depression and group membership 
 ## Related concepts
 
 - [[Social identity theory]] — one of the two theories the editorial names as forming the social identity approach (with self-categorisation theory)
-- [[Social support theory Cohen Wills]] — listed for comparison
-- [[Connectedness in well-being research]] — listed for comparison
-- [[Loneliness]] — listed for comparison
+- [[Social support theory Cohen Wills]] — the support-as-buffer account of health
+- [[Connectedness in well-being research]] — the relationship-wellbeing findings
+- [[Loneliness]] — the painful side of weak connection
 
 ## Sources
 

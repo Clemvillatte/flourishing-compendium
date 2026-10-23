@@ -34,9 +34,9 @@ The sources do not show that grounding reduces PTSD, anxiety or dissociation in 
 
 ## Related concepts
 
-- [[Distress tolerance (DBT)]] — listed for comparison
-- [[TIPP skills (DBT)]] — listed for comparison
-- [[Bare attention in mindfulness practice]] — listed for comparison
+- [[Distress tolerance (DBT)]] — the skill module grounding belongs to
+- [[TIPP skills (DBT)]] — the acute-distress skills next door
+- [[Bare attention in mindfulness practice]] — the simple attention practice in the same family
 
 ## Sources
 

@@ -31,9 +31,9 @@ The paper does not claim that WEIRD findings are wrong. It says they cannot be a
 
 ## Related concepts
 
-- [[Cultural dimensions theory Hofstede]] — listed for comparison
-- [[Independent vs interdependent self-construal (Markus & Kitayama)]] — listed for comparison
-- [[Individualism collectivism theory Triandis]] — listed for comparison
+- [[Cultural dimensions theory Hofstede]] — the earlier national-culture framework
+- [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the self-construal contrast in the same cultural psychology
+- [[Individualism collectivism theory Triandis]] — the older individualism-collectivism research
 
 ## Sources
 

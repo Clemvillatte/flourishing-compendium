@@ -15,9 +15,9 @@ The Mindful Self-Compassion (MSC) program is an 8-week workshop designed to trai
 
 ## Related concepts
 
-- [[Compassion-focused therapy]] — listed for comparison
-- [[Compassion]] — listed for comparison
-- [[Anapanasati (mindfulness of breathing)]] — listed for comparison
+- [[Compassion-focused therapy]] — a sibling compassion-training approach
+- [[Compassion]] — the capacity it trains
+- [[Anapanasati (mindfulness of breathing)]] — the breathing practice at its base
 
 ## Sources
 

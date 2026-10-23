@@ -19,9 +19,9 @@ Schiller and colleagues investigated the updating of human fear memories with a 
 
 ## Related concepts
 
-- [[Exposure therapy (Foa, Craske)]] — listed for comparison
-- [[Exposure processes]] — listed for comparison
-- [[Body memory]] — listed for comparison
+- [[Exposure therapy (Foa, Craske)]] — the clinical use of reactivation
+- [[Exposure processes]] — the mechanism research beneath exposure
+- [[Body memory]] — the soma side of stored learning
 
 ## Other formulations in this library
 

@@ -27,9 +27,9 @@ P177 (Set process goals and let outcomes follow), PP021 and P104 fit the process
 
 ## Related concepts
 
-- [[Implementation intentions]] — listed for comparison
-- [[Goal setting theory (Locke & Latham)]] — listed for comparison
-- [[Mental simulation research]] — listed for comparison
+- [[Implementation intentions]] — the planning tool in the same behaviour-change family
+- [[Goal setting theory (Locke & Latham)]] — the goal-side framework
+- [[Mental simulation research]] — the rehearsal research next door
 
 ## Sources
 

@@ -25,9 +25,9 @@ The principles listed use "control" in other senses. D133 (Don't dominate), D055
 
 ## Related concepts
 
-- [[Autonomy]] — listed for comparison
-- [[Authoritative parenting]] — listed for comparison
-- [[Hover-parenting research]] — listed for comparison
+- [[Autonomy]] — the healthy alternative: support without intrusion
+- [[Authoritative parenting]] — the warm-plus-demanding style this contrasts with
+- [[Hover-parenting research]] — the over-involvement findings this belongs to
 
 ## Sources
 

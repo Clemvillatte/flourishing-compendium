@@ -32,9 +32,9 @@ The principles below cite this concept. Several titles point to a comparison wit
 
 ## Related concepts
 
-- [[Intuition as method]] — a method concept listed for comparison with direct knowing
-- [[Dialectic]] — a method concept listed for comparison
-- [[Contemplation (theoria)]] — another Greek name for intellectual activity, listed for comparison
+- [[Intuition as method]] — a sibling method concept: direct knowing
+- [[Dialectic]] — a sibling method concept: knowing through exchange
+- [[Contemplation (theoria)]] — another Greek name for intellectual activity
 - [[Wisdom]] — the wiki's central topic, listed for orientation
 
 ## Sources

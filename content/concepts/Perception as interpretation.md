@@ -34,9 +34,9 @@ The link to modern psychology, such as predictive accounts of perception, is the
 
 ## Related concepts
 
-- [[Predictive processing]] — listed for comparison
-- [[Phenomenological description]] — listed for comparison
-- [[The transcendental reduction]] — listed for comparison
+- [[Predictive processing]] — the brain-science version: perceiving as prediction
+- [[Phenomenological description]] — describing what appears as already interpreted
+- [[The transcendental reduction]] — Husserl's method in the same tradition
 
 ## Sources
 

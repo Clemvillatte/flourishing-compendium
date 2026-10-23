@@ -29,9 +29,9 @@ AT031 (Cultivate attentional endurance: build capacity gradually) reads best as 
 
 ## Related concepts
 
-- [[Attentional control training and the role of repeated redirection]] — listed for comparison
-- [[Deliberate practice]] — listed for comparison
-- [[Effortless attention]] — listed for comparison
+- [[Attentional control training and the role of repeated redirection]] — the training logic this page applies to attention
+- [[Deliberate practice]] — the practice science it borrows the overload idea from
+- [[Effortless attention]] — the far side of training: attention without strain
 
 ## Sources
 

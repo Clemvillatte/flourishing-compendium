@@ -26,9 +26,9 @@ Linked principles such as E003 (the natural attitude and its suspension) fit the
 ## Related concepts
 
 
-- [[Phenomenological methods in psychology]] — listed for comparison
-- [[Phenomenological psychology]] — listed for comparison
-- [[Phenomenological seeing]] — listed for comparison
+- [[Phenomenological methods in psychology]] — the research methods built on this describing
+- [[Phenomenological psychology]] — the school it serves
+- [[Phenomenological seeing]] — the perception side of the same programme
 - [[E007]] — neighbouring method for comparison; not asserted identical to eidetic variation
 ## Sources
 

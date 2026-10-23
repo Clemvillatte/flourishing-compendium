@@ -29,11 +29,11 @@ Other principles on this page's citation list are linked below.
 
 ## Related concepts
 
-- [[Need for cognition]] — a different construct from Cacioppo and Petty, listed for comparison
+- [[Need for cognition]] — a different construct from Cacioppo and Petty
 - [[Intolerance of uncertainty]] — a neighbouring concept about responses to not knowing
 - [[Tolerance of uncertainty]] — the opposite pole of that neighbouring concept
-- [[Belief perseverance effect]] — listed for comparison with the "freezing" tendency
-- [[Cognitive dissonance]] — another account of motivated reasoning, listed for comparison
+- [[Belief perseverance effect]] — the freezing tendency in the same account
+- [[Cognitive dissonance]] — another account of motivated reasoning
 
 ## Sources
 

@@ -36,9 +36,9 @@ The sources are secondary and the Zhouyi text and the Ten Wings were not read di
 
 ## Related concepts
 
-- [[Kairos (the opportune moment)]] — listed for comparison
-- [[Wu wei]] — listed for comparison
-- [[Phronesis]] — listed for comparison
+- [[Kairos (the opportune moment)]] — the opportune moment this skill reads for
+- [[Wu wei]] — acting with the timing rather than against it
+- [[Phronesis]] — the practical wisdom that judges the moment
 
 ## Sources
 

@@ -27,9 +27,9 @@ A029 (Practice the right kind of anger) and K253 (The mean calibration) follow A
 
 ## Related concepts
 
-- [[Righteous indignation (nemesis)]] — listed for comparison
-- [[Anger]] — listed for comparison
-- [[Moral outrage research]] — listed for comparison
+- [[Righteous indignation (nemesis)]] — the Aristotelian measured response in the same family
+- [[Anger]] — the broader emotion this distinction sorts
+- [[Moral outrage research]] — the empirical study of anger at injustice
 
 ## Sources
 

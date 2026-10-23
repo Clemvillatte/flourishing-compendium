@@ -34,9 +34,9 @@ Shields also records that Aristotle does not treat the mind as simply another bo
 
 ## Related concepts
 
-- [[Embodied cognition]] — listed for comparison
-- [[Perception as interpretation]] — listed for comparison
-- [[Phenomenological description]] — listed for comparison
+- [[Embodied cognition]] — the body-first account of mind
+- [[Perception as interpretation]] — the sibling claim: perceiving already interprets
+- [[Phenomenological description]] — the method for describing what perception gives
 
 ## Sources
 

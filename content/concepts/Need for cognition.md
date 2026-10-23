@@ -30,9 +30,9 @@ The scale was built and validated across four studies. Faculty members stood in 
 ## Related concepts
 
 - [[Intrinsic motivation]] — the category the Petty chapter places need for cognition in
-- [[Curiosity]] — a neighbouring motivation toward thinking, listed for comparison
-- [[Need for cognitive closure]] — another cognitive-motivation construct, listed for comparison
-- [[Openness]] — a trait concept in the same personality-and-motivation area, listed for comparison
+- [[Curiosity]] — a neighbouring motivation toward thinking
+- [[Need for cognitive closure]] — another cognitive-motivation construct
+- [[Openness]] — a trait concept in the same personality-and-motivation area
 
 ## Sources
 

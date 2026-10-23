@@ -31,9 +31,9 @@ AT021, AT051, AF063 and the other principles listed ask the reader to turn atten
 
 ## Related concepts
 
-- [[Attentional bias research]] — listed for comparison
-- [[Attentional bias theory MacLeod]] — listed for comparison
-- [[Positivity effect]] — listed for comparison
+- [[Attentional bias research]] — the evidence that attention tilts
+- [[Attentional bias theory MacLeod]] — the cognitive account of that tilt
+- [[Positivity effect]] — the positive-shift finding in attention and ageing research
 
 ## Sources
 

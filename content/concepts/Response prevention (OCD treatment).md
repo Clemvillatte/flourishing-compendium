@@ -25,9 +25,9 @@ The original entry sentence says that blocking compulsions is essential for expo
 
 ## Related concepts
 
-- [[ERP (exposure and response prevention)]] — listed for comparison
-- [[Exposure therapy (Foa, Craske)]] — listed for comparison
-- [[Graded exposure systematic desensitisation (Wolpe)]] — listed for comparison
+- [[ERP (exposure and response prevention)]] — the full protocol this component belongs to
+- [[Exposure therapy (Foa, Craske)]] — the exposure family it comes from
+- [[Graded exposure systematic desensitisation (Wolpe)]] — the older graduated-exposure protocol in the same family
 
 ## Sources
 

@@ -23,9 +23,9 @@ This is a claim in cognitive science and philosophy of mind about how perception
 
 ## Related concepts
 
-- [[Enaction]] — listed for comparison
-- [[Enactivism]] — listed for comparison
-- [[Affordances]] — listed for comparison; the authors contrast their view with Gibson's account of perception
+- [[Enaction]] — the theory that cognition is activity
+- [[Enactivism]] — the wider research programme of that theory
+- [[Affordances]] — the action possibilities perception registers; the authors contrast their view with Gibson's account of perception
 
 ## Sources
 

@@ -21,9 +21,9 @@ Mill's claim is about opinions in public discussion, in the context of arguing a
 
 ## Related concepts
 
-- [[Steelmanning the opposing view]] — listed for comparison
-- [[Actively open-minded thinking]] — listed for comparison
-- [[Perspective-taking]] — listed for comparison
+- [[Steelmanning the opposing view]] — the practice of building the other side's best case
+- [[Actively open-minded thinking]] — the thinking style that looks for the truth in other views
+- [[Perspective-taking]] — the act of standing in another's view
 
 ## Sources
 
