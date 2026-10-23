@@ -19,3 +19,9 @@ Independent advisor QC:
 - A separate editorial/source advisor reviewed the draft and returned PASS: three elements, slave/efficiency distinction, social/economic qualifications, Plain words and practical boundary supported.
 
 Validation: 252 prose words; zero hard errors. Frontmatter, protected sections and inherited links retained. Existing self-efficacy/learned-helplessness parallels are unchanged and outside this narrow source certification.
+
+## P081: immediate enjoyment and reflective criticism
+
+Opened [Dewey, Experience and Nature, Internet Archive full OCR text](https://archive.org/stream/in.ernet.dli.2015.188224/2015.188224.Experience-And-Nature-John-Dewey_djvu.txt) with fetch. Read printed pp. 322 and 326 directly. Both existing quotations match after line-wrap normalization; the OCR splits “perpetuating” across lines and has errors in unrelated words, so no unmarked OCR emendation was used for a new quotation.
+
+Retained the substantive body and quotations. Replaced the procedural Plain words question with an explanation of immediate enjoyment and asking about its place, conditions and consequences. Removed the odd suggestion to test whether enjoyment “survives the description”. The swimming comparison is explicitly the compendium's proposal, not empirical evidence.

@@ -18,12 +18,12 @@ Dewey distinguishes values as they are immediately enjoyed from reflection on th
 
 > "Consequently when thought and discussion enter, when theorizing sets in, when there is anything beyond bare immediate enjoyment and suffering, it is the means-consequence relationship that is considered. Thought goes beyond immediate existence to its relationships, the conditions which mediate it and the things to which it is in turn mediatory. And such a procedure is criticism." (Dewey, Experience and Nature, ch. 10, printed p. 322, [Internet Archive](https://archive.org/stream/in.ernet.dli.2015.188224/2015.188224.Experience-And-Nature-John-Dewey_djvu.txt))
 
-The compendium's exercise: after something you enjoyed, write down one condition that made it work and one consequence it led to, and notice whether the enjoyment survives the description.
+Dewey says the purpose of criticism is to establish and sustain more enduring and extensive values. The inquiry follows an enjoyment into the conditions that support it and the consequences it helps produce. ([Experience and Nature, chapter 10, p. 326](https://archive.org/stream/in.ernet.dli.2015.188224/2015.188224.Experience-And-Nature-John-Dewey_djvu.txt))
 
 **Plain words**
-Think of something you enjoyed recently. What helped make it possible, and what followed from it?
+You can enjoy something before having a theory of why it is good. Reflection begins when you ask how that pleasure fits into the rest of life: what made it possible, what it costs, what follows. The delight is already there. Understanding its surroundings gives you something to work with when you want it to have a lasting place.
 
-*For example:* Imagine you enjoyed swimming at a quiet pool. Before arranging another visit, you check when the quiet sessions run and whether getting there fits the rest of your week.
+For example: You enjoyed swimming at a quiet pool. Compare two ways of returning: a session that leaves you rushing to work and one you can reach without that pressure. After trying each, record the swim itself, the journey and what happened to the rest of the morning. Keep the arrangement that supports the experience you value. This is the compendium's application of Dewey's inquiry, not a study of swimming.
 
 ## Sources
 
