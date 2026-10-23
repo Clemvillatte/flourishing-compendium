@@ -1,9 +1,11 @@
 {
  "batch": "t2b",
- "done": [],
+ "done": [
+  "content/principles/B008 — Treat the truths as tasks, not beliefs.md"
+ ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T12:44:00Z",
+ "updated": "2026-10-23T13:02:00Z",
  "band_done": false,
- "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z). "
+ "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR (2026-10-23 ~13:02Z, supervisor-pplx-8c47a5): B008 — gloss grounded in the page’s Hadot treatment (spiritual exercises, Philosophy as a Way of Life); validated ok. Workers follow this pattern."
 }

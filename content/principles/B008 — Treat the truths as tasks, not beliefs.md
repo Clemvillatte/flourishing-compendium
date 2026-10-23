@@ -28,6 +28,10 @@ The sutta distinguishes recognising a truth, recognising its duty, and completin
 
 *For example:* Reading ten books on swimming versus getting in the water — only one of them ever changes what your body can do.
 
+## Related concepts
+
+- [[T036 — Hadot, Pierre]]: philosophy as a way of life, the page's own case for truths as tasks
+
 ## Sources
 
 - [SN 56.11, Dhammacakkappavattana Sutta (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — the four duties: comprehended, abandoned, directly experienced, developed
