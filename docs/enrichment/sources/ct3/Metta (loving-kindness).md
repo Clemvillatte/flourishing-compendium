@@ -19,3 +19,15 @@ Full rebuild of a never-pipelined legacy page per the owner's ct2/ct3 directive.
 - The self-link `[[Metta (loving-kindness)]]` in Related concepts is an original link (preserved per the link rule) but points to this page; flagged for a future maintenance sweep of legacy self-links.
 - "Hofmann et al., 2011" and "Santideva, Bodhicaryavatara" kept as original citation lines without URLs (no body claim rests on them; not opened this session).
 - Validator: ok (prose within 150-480, dash budget respected, no banned phrases, Sources carry URLs).
+
+## QC round 1 (advisor-directed repairs, applied and pushed)
+
+- All four retained carriers re-fetched as RAW text (no extraction prompts) and every quotation re-compared word-for-word: all now exact, including punctuation.
+- Thanissaro essay quote extended to the complete sentence (the colon continuation "With metta for the entire cosmos, cultivate a limitless heart.' (Snp 1.8)" restored; the earlier version had substituted a period for the continuation).
+- Nyanaponika quote now opens with the carrier's own lead-in "For instance, when meditating on loving-kindness, one starts..." (mid-sentence lowercase preserved; no editorial capital).
+- Fredrickson quote extended to the complete sentence ("Results showed that this meditation practice...").
+- The bracketed "break[s] down" repair removed: the barriers sentence recast so the carrier's unchanged phrase "break down the barriers" (sima-sambheda) fits verbatim.
+- Unsupported interpretation deleted: "the mind's home when ill will is gone" (replaced with the sutta-grounded reading), "teachers insist" narrowed to Thanissaro (who translates the sutta's title as "Good Will"), the "felt rather than willed / small enough to be honest" closer deleted, the "self-reported / antidote to ill will" inferences replaced with the abstract-anchored scope note, and the Broaden-and-build gloss corrected (the experiment tested the theory's build hypothesis, not metta "against" the theory).
+- Related glosses grounded: Care aligned to its page's own definition; Equanimity gloss replaced with Nyanaponika's "guiding and restraining power for the other three"; Ahimsa and Self-compassion added (both already link Metta).
+- Saturation: reciprocal proposals minted in docs/enrichment/proposals/ct3.json (Broaden-and-build, Compassion).
+- Validator vs pre-rebuild baseline (45cd1320^): ok.
