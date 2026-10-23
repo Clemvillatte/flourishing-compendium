@@ -17,7 +17,7 @@ Born sometime in the 50s CE in Hierapolis, a Greek city of Asia Minor ([Stanford
 
 ## Their why
 
-A slave taught freedom, and a cripple taught steadiness; legend says his master twisted his leg until it broke while Epictetus calmly warned him it would ([SEP](https://plato.stanford.edu/entries/epictetus/) records only the dates; the story is retold in the corpus at [[ST188 — Epictetus and the Leg|188. Epictetus and the Leg]]). His whole philosophy answers the question his life posed: what remains inviolably yours when everything else can be taken? "You may fetter my leg, but my will not even Zeus himself can overpower" ([Discourses I.1](https://www.gutenberg.org/ebooks/10661)).
+A slave taught freedom, and a lame man taught steadiness: the ancient story says his master twisted his leg until it broke, and Epictetus calmly warned him it would (the story survives via Origen; the corpus retells it at [[ST188 — Epictetus and the Leg|188. Epictetus and the Leg]]). His whole philosophy answers the question his life posed: what remains inviolably yours when everything else can be taken? "You may fetter my leg, but my will not even Zeus himself can overpower" ([Discourses I.1](https://www.gutenberg.org/ebooks/10661)).
 
 ## Their position
 
