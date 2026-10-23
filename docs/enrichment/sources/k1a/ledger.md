@@ -550,3 +550,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: feedback-type comfort measured, not the advice-withholding ordering; long-term distress reduction not tested. Inherited "feeling understood reduces distress more than advice" grounded to the opened contrast.
 - Mention check run (before this entry): K343 already linked from A063/S011/R005/R055 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K146 — Ego dissolution practice (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Nguyen, Palmer, Aday, Davoli & Bloesch 2020 (Conscious Cogn 83:102978), auditory evoked potential study (N=31, pre/post guided meditation), abstract verified raw via NCBI efetch (PMID 32650253); author list read from the efetch header.
+- The blockquote (PPS enhancement negated sentence) matches the raw efetch text verbatim.
+- Honesty on page: single-session lab paradigm, novices, no long-practice or nature-setting claims; "letting-go" framing kept as the practice's own description. Psychedelic ego-dissolution literature deliberately not used (not the practice's method).
+- Mention check run (before this entry): K146 already linked from D008/D087/B160/P001/P059 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
