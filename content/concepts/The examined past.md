@@ -26,6 +26,7 @@ He reports following the custom himself: when the lamp is taken out of his sight
 - [[ST034 — Truman Takes the Door]] — a story of discovering the constructed world one has lived in
 
 ## Related concepts
+- [[T013 — Seneca]]: the On Anger 3.36 daily review of conduct the page opens with.
 
 - [[The examined life]]
 - [[Daily self-examination]] — the Senecan evening review appears there as the Stoic counterpart of Zengzi's daily check

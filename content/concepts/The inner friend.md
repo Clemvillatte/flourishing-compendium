@@ -22,6 +22,7 @@ Seneca calls the line "indeed a great benefit", and gives two reasons: "such a p
 - [[Y069 — Make your own self your ally]]
 
 ## Related concepts
+- [[T013 — Seneca]]: the Letter VI passing-on-the-doctrine ideal the page draws on.
 
 - [[Self-compassion]] — the modern research analogue of the inner ally
 - [[Solitude]] — the state the self-friend makes bearable

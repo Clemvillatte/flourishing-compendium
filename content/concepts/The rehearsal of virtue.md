@@ -27,6 +27,7 @@ The compendium's kernel [[K250 — Virtue rehearsal]] operationalizes the idea f
 [[A013 — Practice generosity (eleutheriotes)]]
 
 ## Related concepts
+- [[T013 — Seneca]]: the Stoic turning of doctrine into character the page names.
 
 - [[Premeditatio malorum]] — the adversity-direction rehearsal this page's virtue-direction rehearsal pairs with
 - [[A004]] — Aristotle's habituation account of the same learn-then-do structure
