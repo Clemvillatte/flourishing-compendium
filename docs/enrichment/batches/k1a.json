@@ -100,7 +100,8 @@
   "content/kernels/K256 — The unity-of-virtue drill.md",
   "content/kernels/K299 — Place-attachment practice.md",
   "content/kernels/K125 — The empty boat reflection.md",
-  "content/kernels/K306 — Affordance walk.md"
+  "content/kernels/K306 — Affordance walk.md",
+  "content/kernels/K255 — Virtue journaling.md"
  ],
  "in_progress": null,
  "queue": [
@@ -149,7 +150,7 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-23T06:30:40+00:00",
+ "updated": "2026-10-23T06:31:04+00:00",
  "band_done": false,
  "flagged": {
   "content/kernels/K144 — The chariot analysis.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",

@@ -598,3 +598,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: lab judgment studies of distance, nothing about walking or training the noticing; Gibson and Merleau-Ponty named as the seed's framings, neither's primary text opened or cited.
 - Mention check run (before this entry): K306 already linked from E003/E004/E005/A053 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K255 — Virtue journaling (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Burke, Wang & Sevick 2011 (J Am Diet Assoc 111(1):92-102), systematic review of 22 self-monitoring studies, abstract verified raw via NCBI efetch (PMID 21185970); authors read from the efetch header.
+- The blockquote (association consistently found / weak evidence sentence) matches the raw efetch text verbatim.
+- Honesty on page: weight-loss domain evidence, weak level of evidence stated verbatim in the blockquote; transfer to virtue logging framed as an argument from mechanism, not a demonstrated result.
+- Mention check run (before this entry): K255 already linked from A004/A040/S130 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). "Session" appears only as athletic-session usage in the seed statement and step 2, consistent with established tolerance for ordinary usage.
