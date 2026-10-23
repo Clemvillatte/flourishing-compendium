@@ -12,13 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 173** — Recognise that your judgements are the source of your distress
 
-Epictetus opens the Enchiridion with a division of labour between events and verdicts: "Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing. When then we are impeded or disturbed or grieved, let us never blame others, but ourselves, that is, our opinions" ([Enchiridion 5, trans. George Long, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0236:text=enc:chapter=5)).
+In Enchiridion 5, Epictetus puts a division of labour between events and verdicts: "Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing. When then we are impeded or disturbed or grieved, let us never blame others, but ourselves, that is, our opinions" ([Enchiridion 5, trans. George Long, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0236:text=enc:chapter=5)).
 
-The chapter then grades the learner: "It is the act of an ill-instructed man to blame others for his own bad condition; it is the act of one who has begun to be instructed, to lay the blame on himself; and of one whose instruction is completed, neither to blame another, nor himself" (Enchiridion 5). The middle stage is a trap worth naming: moving from "they ruined my day" to "I ruined my day" is progress by one grade only, and the last grade is the target.
+The chapter then grades the learner: "It is the act of an ill-instructed man to blame others for his own bad condition; it is the act of one who has begun to be instructed, to lay the blame on himself; and of one whose instruction is completed, neither to blame another, nor himself" (Enchiridion 5). The middle grade blames oneself; the last stops looking for someone to blame and looks at the opinion instead.
 
-**Plain words** Something happens, and then you say something about it. The happening is out in the world; the saying is yours. Epictetus' claim is that the sting is manufactured in the saying, and can be inspected there. Notice the grading at the end of the chapter: catching your own judgement is the middle step, not the finish. The exercise is inspection, and inspection is not a fresh reason to attack yourself.
+**Plain words** A setback can seem to settle a much bigger question about you. One rejected application becomes "I'll never find work." Listen for that extra conclusion. You may still have a real problem to solve; the question is how much the event actually tells you.
 
-*For example:* after a harsh review you feel worthless. Write the verdict as a sentence — say, "one criticism means I'm incompetent" — and check it against the evidence you would demand from anyone else making the claim.
+*For example:* after a harsh review you feel worthless. Write the verdict as a sentence, say, "one criticism means I'm incompetent," and check it against the evidence you would demand from anyone else making the claim.
 
 ## Sources
 

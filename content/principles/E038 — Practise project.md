@@ -12,21 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 430** — Practise project
 
-Recognise that your existence is a project — not a plan you have made but the fundamental orientation of your being. You are always projecting toward possibilities, always ahead of yourself. The question is not whether you have a project but whether you own the project you have. Examine your fundamental project: what are you living for?
+Sartre's existential psychoanalysis starts from a claim about unity. To understand a person, on his account, you have to grasp "the specific kind of unity that lies behind their various attitudes and conducts", a unity produced by a principle of "totalization" that "commands the whole of their behaviours": "every attitude, conduct, or behaviour finds its meaning in relation to the unity of a primary choice, which all of the subject's behaviour expresses in its own way" ([SEP, Sartre, section 5](https://plato.stanford.edu/entries/sartre/)).
 
-(Original references, not consulted: Sartre, 1943/2003, Being and Nothingness, Part IV, ch. 2; Heidegger, 1927/2008, Being and Time, §§31-34. Evidence: [SEP, Sartre](https://plato.stanford.edu/entries/sartre/) §5.)
+The project is freely chosen, so why would anyone need an analysis to find it? Sartre's answer: "if the fundamental project is fully experienced by the subject and hence wholly conscious, that certainly does not mean that it must by the same token be known by him; quite the contrary" (Being and Nothingness, [1956: 570], quoted in [SEP, section 5](https://plato.stanford.edu/entries/sartre/)). The project is lived before it is known.
 
-Sartre's existential psychoanalysis holds that a person's scattered choices have a unity. As the SEP entry summarizes it, every attitude, conduct, or behaviour finds its meaning in relation to the unity of a primary choice, which all of the subject's behaviour expresses in its own way. You are always heading somewhere, even standing still, and the heading is a choice you keep making.
+**Plain words** Look at what happens when two priorities collide. You say independence matters, yet you abandon each plan that might disappoint someone. That pattern gives you something specific to question: what keeps winning when you have to choose?
 
-The catch is that the heading is easier to live inside than to see. Sartre's own words, with the locator:
-
-> if the fundamental project is fully experienced by the subject and hence wholly conscious, that certainly does not mean that it must by the same token be known by him; quite the contrary. — Sartre, Being and Nothingness [1956: 570], quoted in [SEP, Sartre §5 (opened)](https://plato.stanford.edu/entries/sartre/)
-
-That is the whole case for the audit. The project runs whether or not you know it; the examination is the making-known, and the making-known is the only chance of steering.
-
-**Plain words** Your life already has a direction, made of what you keep saying yes to and what you keep avoiding. Nobody drafted it on paper; it built itself out of small choices. You cannot step outside it, and you do not need to. What you can do is look straight at it, ask what you are living for, and then decide whether to keep the heading.
-
-*For example:* Someone's project turns out, on inspection, to be "remain comfortable and be approved of" — a project they never chose, running for years. Naming it does not change it overnight; it ends the deniability, which is where changing it starts.
+*For example:* compare three recent decisions: something you accepted, something you refused, something you postponed. Write down what you protected in each. If one thing kept taking precedence, take one upcoming decision and examine it with that pattern in mind.
 
 ## Sources
 
