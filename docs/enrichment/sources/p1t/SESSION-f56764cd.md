@@ -147,3 +147,12 @@ D149's pre-existing [[Measure in all things]] target is missing from content/con
 - Example varies immediate and context-informed accounts, selects a response consistent with facts and a boundary, and retains the fact/guess check; cognition named.
 - Read Emotion regulation, Sympatheia and The free person loves all in full. All already backlink D169. Ran forbearance mention search; no new reciprocal needed.
 - Original parallels and reflections preserved, not independently certified. Milestone-fifteen advisor QC requested.
+
+## D175
+
+- Reopened with enrich_state.py. Checked whole DDJ 36, including concealed weakening/overthrowing/despoiling strategy and gifts, in the opened source: https://www.gutenberg.org/files/216/216-h/216-h.htm.
+- Replaced the long quotation's non-source double-hyphen typography with a short exact contiguous excerpt, explicitly labeled excerpt. Lowercase when and lack of sentence-final punctuation are retained because it is a fragment.
+- Explanation does not disguise the source as straightforward altruism. Personal giving-before-asking is an explicit ethical redirection; no guaranteed return is promised.
+- Replaced watching-for-return exercise with transparent gift/exchange terms. Example generates unconditional and reciprocal offers, selects the one honestly intended, and retains that distinction; overt behaviour named.
+- Read Reciprocity and Prosocial spending in full; both already backlink D175. Ran first-give mention search. No new reciprocal proposed.
+- Original parallels and reflections preserved, not independently certified.
