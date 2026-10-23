@@ -22,7 +22,7 @@ The model includes stress processes and coping processes; the compendium offers 
 
 **Plain words** Describe a relevant situation. Separate any prejudiced event you experienced from a rejection you anticipated. Note decisions about disclosure and any coping response. Use those notes to identify questions you want to examine.
 
-*For example:* Imagined: a gay employee fears rejection at a new workplace and considers whether to mention his partner. He records that expectation separately from any prejudice he has actually encountered.
+*For example:* a gay employee fears rejection at a new workplace and considers whether to mention his partner. He records that expectation separately from any prejudice he has actually encountered.
 
 ## Sources
 

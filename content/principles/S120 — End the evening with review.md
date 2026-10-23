@@ -26,7 +26,7 @@ Letter 83 opens with Lucilius's request for an account of Seneca's day. Seneca c
 Before bed, recall one action you would repeat and one you would handle differently. Describe what happened in each case. What will you try tomorrow?
 
 *For example:*
-Imagined: after interrupting a colleague, a manager notes what happened and decides to let the colleague finish before replying at the next meeting.
+after interrupting a colleague, a manager notes what happened and decides to let the colleague finish before replying at the next meeting.
 
 ## Sources
 

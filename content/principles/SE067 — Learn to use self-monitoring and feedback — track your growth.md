@@ -22,7 +22,7 @@ The compendium applies this beyond study: the standard you compare your record a
 
 **Plain words** Pick one behaviour you want to understand. For a week, write down what happened — when, how long, and what got in the way. Compare those entries with a stated goal or your earlier performance, then choose something to try next.
 
-*For example:* Imagined: a manager convinced he is "terrible under pressure" keeps a short note after each hard meeting — what happened, how he handled it. Six weeks of notes show he handled most of them fine.
+*For example:* a manager convinced he is "terrible under pressure" keeps a short note after each hard meeting — what happened, how he handled it. Six weeks of notes show he handled most of them fine.
 
 ## Sources
 

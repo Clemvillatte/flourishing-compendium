@@ -20,7 +20,7 @@ The review traces the method to its origin: it "was originally developed for the
 
 **Plain words** If a bodily sensation has become frightening, the exercise focuses on experiencing it and examining the feared outcome. Work with a clinician to choose an appropriate exercise and plan practice. Afterwards, compare what you expected with what you observed.
 
-*For example* Imagined: with a therapist's supervision, someone who fears a pounding heart runs in place in short bouts, resting between them; the same exercise is later part of the homework plan they agreed with the therapist.
+*For example:* with a therapist's supervision, someone who fears a pounding heart runs in place in short bouts, resting between them; the same exercise is later part of the homework plan they agreed with the therapist.
 
 ## Sources
 

@@ -30,7 +30,7 @@ The studies reported improvements on their particular measures after meditation 
 Concentration behaves like a muscle in this limited sense: trained with real exercises, it improved. The catch is in what exactly was trained. Treat your routine as an experiment: something manageable, done regularly, with a gentle return when the mind walks off.
 
 *For example:*
-Imagined: Before reading, someone chooses a short section to work through. When attention wanders, they return to the paragraph. Afterwards, they note the interruptions and decide how to arrange the next session.
+Before reading, someone chooses a short section to work through. When attention wanders, they return to the paragraph. Afterwards, they note the interruptions and decide how to arrange the next session.
 
 ## Related concepts
 

@@ -20,7 +20,7 @@ The review frames the purpose in terms of extinction: "Response prevention would
 
 **Plain words** Block the ritual that follows the fear: the checking, the washing, the reassurance-seeking. The ritual feels like safety, but it is the fear's maintenance contract, and response prevention is refusing to renew it. For OCD this is specialist work, ideally with a clinician.
 
-*For example* Imagined: in ERP, a person who checks locks seven times plans, with their clinician, to check once and leave, resisting the further checks the obsession demands.
+*For example:* in ERP, a person who checks locks seven times plans, with their clinician, to check once and leave, resisting the further checks the obsession demands.
 
 ## Sources
 

@@ -26,7 +26,7 @@ The sutra is a naming act, not a new practice: three already-defined stages, app
 
 **Plain words** The three stages, binding the attention, holding it, and absorption in the object, are practiced as one thing once they run together on a single object. Woods calls the one thing constraint, from samyama. The claim worth keeping is the combination: not three achievements to collect, but one skill that gets pointed at whatever you need to see into.
 
-*For example:* Imagined: the same trained unit of attention, pointed at the breath for a season, then at a business problem, then at an old grievance, does the same work on each material. The tool does not care what it is pointed at.
+*For example:* the same trained unit of attention, pointed at the breath for a season, then at a business problem, then at an old grievance, does the same work on each material. The tool does not care what it is pointed at.
 
 (Yoga Sutra 3.4-3.5 with Vyasa's Bhasya and Vacaspati Misra's Tattva-vaicaradi, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 204-206. Woods renders dharana as "fixed-attention," dhyana as "contemplation," samadhi as "concentration," and samyama as "constraint.")
 

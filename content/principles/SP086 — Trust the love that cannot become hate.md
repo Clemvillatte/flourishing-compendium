@@ -21,7 +21,7 @@ The reason is in the proof: this love "is common to all men, and we desire that 
 **Plain words**
 Jealousy needs an exclusive good: a rival who takes what you love. Understanding is not used up by being shared, and other people rejoicing in the same good adds to it. So the test of a love is its behavior under sharing: if another's joy in the same thing shrinks yours, your good was exclusive, not common.
 
-*For example:* Imagined: two scholars love the same field. One is poisoned by a rival's success; the other's understanding is fed by it. The second case is what sharing a common good looks like from inside.
+*For example:* two scholars love the same field. One is poisoned by a rival's success; the other's understanding is fed by it. The second case is what sharing a common good looks like from inside.
 
 ## Sources
 

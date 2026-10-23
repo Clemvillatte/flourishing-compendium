@@ -28,7 +28,7 @@ The compendium uses this contrast as a prompt to examine an explanation and ask 
 After a setback, ask what you know about its cause. Are you treating one event as evidence about every situation or about your whole future? Separate what you can investigate or change from what lies outside your control.
 
 *For example:*
-Imagined: a journal rejects a manuscript. Before treating the rejection as evidence of lasting inability, the writer checks the stated reasons and considers what, if anything, to revise. A mismatch with the journal is one possibility to investigate, not an explanation to assume.
+a journal rejects a manuscript. Before treating the rejection as evidence of lasting inability, the writer checks the stated reasons and considers what, if anything, to revise. A mismatch with the journal is one possibility to investigate, not an explanation to assume.
 
 ## Sources
 

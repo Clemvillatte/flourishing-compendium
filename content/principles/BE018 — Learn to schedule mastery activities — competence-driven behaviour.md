@@ -20,7 +20,7 @@ The handout recommends balancing goals involving values, pleasure and mastery. I
 
 **Plain words** A practice session can be worth scheduling for the chance to learn something, even when it offers little enjoyment. Choose one manageable task and give it a place in the week. Afterwards, note what you attempted or completed and how much accomplishment you felt. Leave space for enjoyable activities too.
 
-*For example* Imagined: someone learning guitar schedules a short session practising a difficult chord change on Wednesday evening. Afterwards, they record whether they attempted it and how much accomplishment they felt.
+*For example:* someone learning guitar schedules a short session practising a difficult chord change on Wednesday evening. Afterwards, they record whether they attempted it and how much accomplishment they felt.
 
 ## Sources
 

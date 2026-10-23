@@ -22,7 +22,7 @@ The exercise asks you to place one concern alongside other lives and longer stre
 
 **Plain words** The point is scale. A worry fills the whole screen when nothing else is on it. The view from above puts everyone else back in the picture: people being born, living together, dying, most of them never having heard your name. The exercise is to set the worry back among those lives instead of alone on the screen.
 
-For example: Imagined: stuck in a parking dispute, a driver pictures the street from a hundred metres up: two small cars, two small figures, a whole suburb going about its evening.
+For example: stuck in a parking dispute, a driver pictures the street from a hundred metres up: two small cars, two small figures, a whole suburb going about its evening.
 
 ## Psychology parallels
 

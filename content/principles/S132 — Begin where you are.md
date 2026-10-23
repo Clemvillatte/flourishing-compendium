@@ -22,7 +22,7 @@ The compendium applies this argument to beginning a practice with the time and a
 
 **Plain words** Imagine refusing to learn to cook because you will never be a great chef. You could still learn to make dinner. When you feel too far behind to begin a practice, ask whether you are making the same demand of yourself.
 
-*For example:* Imagined: an exhausted parent spends two minutes reviewing a difficult exchange with their child and writes down one response to try next time.
+*For example:* an exhausted parent spends two minutes reviewing a difficult exchange with their child and writes down one response to try next time.
 
 ## Sources
 

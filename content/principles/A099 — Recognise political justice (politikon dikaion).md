@@ -26,7 +26,7 @@ In the opening chapter of the Ethics, Aristotle says politics "legislates as to 
 
 **Plain words** A community's rules come in two kinds. Some track something that holds whatever people happen to think. Others are agreements that could have gone another way, like a ransom price or the side of the road you drive on, and they bind once they are set. Either way, the rules around you shape how hard a good life is to reach. So asking how you are doing includes asking under which rules you are doing it, and what part of them you could change.
 
-For example: Imagined: two towns with equally decent residents, one where a reliable bus runs past the clinic and the school, one where it does not. The first town's residents find it easier to get care and education, whatever their personal virtue.
+For example: two towns with equally decent residents, one where a reliable bus runs past the clinic and the school, one where it does not. The first town's residents find it easier to get care and education, whatever their personal virtue.
 
 ## Sources
 

@@ -23,7 +23,7 @@ On treatment the statement compares the options: "Non-medication treatments for 
 
 **Plain words** Missed deadlines and lost belongings describe difficulties; they do not by themselves establish ADHD. Describe what keeps happening and how it affects daily life, then bring those examples to a qualified clinician. An assessment can guide decisions about treatment.
 
-**For example:** Imagined: someone repeatedly misses expense deadlines. They bring examples of these difficulties to an assessment and ask what might explain them, without deciding the cause beforehand.
+***For example** someone repeatedly misses expense deadlines. They bring examples of these difficulties to an assessment and ask what might explain them, without deciding the cause beforehand.
 
 ## Psychology parallels
 

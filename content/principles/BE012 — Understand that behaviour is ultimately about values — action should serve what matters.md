@@ -18,7 +18,7 @@ Hayes and colleagues describe committed action in Acceptance and Commitment Ther
 
 **Plain words** Say what you want to stand for in a situation, then name something you could do about it. If being attentive matters to you, what would that look like during your next conversation?
 
-*For example* Imagined: someone who wants to be more attentive at home chooses to put their phone away during dinner.
+*For example:* someone who wants to be more attentive at home chooses to put their phone away during dinner.
 
 ## Sources
 

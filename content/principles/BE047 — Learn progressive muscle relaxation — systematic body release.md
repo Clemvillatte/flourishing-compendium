@@ -24,7 +24,7 @@ Among the techniques compared, "applied relaxation, progressive relaxation and m
 
 **Plain words** The exercise is learning by contrast: tense a muscle group, release it, and notice the difference between the two states. That contrast is the skill.
 
-*For example* Imagined: working from the feet upward, one muscle group at a time, tensing, releasing, and noticing the contrast.
+*For example:* working from the feet upward, one muscle group at a time, tensing, releasing, and noticing the contrast.
 
 ## Sources
 

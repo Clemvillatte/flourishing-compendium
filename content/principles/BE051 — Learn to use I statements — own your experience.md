@@ -20,7 +20,7 @@ A related finding concerns beginnings: in the newlywed study, "It was possible t
 
 **Plain words** Name what happened and how you felt instead of making a general accusation. Starting with "I" is not enough if the rest of the sentence still criticises the other person.
 
-*For example* Imagined: "I felt brushed off at dinner" describes the speaker's experience; "you never listen" indicts the listener. The pronoun is a convention, not a guarantee: "I feel you are being defensive" is an accusation wearing the pronoun.
+*For example:* "I felt brushed off at dinner" describes the speaker's experience; "you never listen" indicts the listener. The pronoun is a convention, not a guarantee: "I feel you are being defensive" is an accusation wearing the pronoun.
 
 ## Sources
 

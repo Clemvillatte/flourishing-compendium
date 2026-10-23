@@ -24,7 +24,7 @@ In psychotherapy research, rupture and repair have their own model. Safran and M
 
 **Plain words** As a suggested exercise for an ordinary disagreement, say which remark you want to correct and ask how the other person experienced it. In the therapy research, repair means stopping to deal with the strain in the relationship itself rather than pushing through it: clarifying where you were coming from, apologising, exploring the other person's feelings about what went wrong. An attempted repair need not settle the underlying disagreement. What the other person does with it is not in anyone's control.
 
-**For example:** Imagined: mid-argument about chores, one says, "Hold on. That came out wrong. I don't think you're lazy; I think I'm tired and I'm taking it out on you." The chore question is still open afterwards; what the repair addresses is the escalation, not the chore question.
+***For example** mid-argument about chores, one says, "Hold on. That came out wrong. I don't think you're lazy; I think I'm tired and I'm taking it out on you." The chore question is still open afterwards; what the repair addresses is the escalation, not the chore question.
 
 ## Psychology parallels
 

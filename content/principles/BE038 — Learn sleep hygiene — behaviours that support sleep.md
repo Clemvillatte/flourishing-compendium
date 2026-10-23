@@ -20,7 +20,7 @@ The same guideline is careful about what hygiene alone can do: "Although all pat
 
 **Plain words** Sleep hygiene is boring on purpose: same time, quiet room, no late caffeine, nothing stimulating before bed. None of it is exciting; all of it is structural. Treat bedtime like an appointment with the foundation crew.
 
-*For example* Imagined: the phone that lives in the kitchen overnight, so the bedroom stays quiet and free of screens.
+*For example:* the phone that lives in the kitchen overnight, so the bedroom stays quiet and free of screens.
 
 ## Sources
 

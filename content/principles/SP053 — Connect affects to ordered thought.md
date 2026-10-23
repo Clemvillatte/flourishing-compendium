@@ -21,7 +21,7 @@ Its note adds: "By this power of rightly arranging and associating the bodily mo
 **Plain words**
 Use a calm period to choose a practical rule and rehearse how you will use it when someone wrongs you. Spinoza recommends preparing before contrary emotions overwhelm you. This page's written review is an authored exercise for practising that preparation.
 
-*For example:* Imagined: after an argument, someone writes down what was actually said, separates those observations from what each side assumed, and drafts the rule they want ready the next time the subject comes up.
+*For example:* after an argument, someone writes down what was actually said, separates those observations from what each side assumed, and drafts the rule they want ready the next time the subject comes up.
 
 ## Sources
 

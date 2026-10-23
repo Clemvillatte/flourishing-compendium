@@ -26,7 +26,7 @@ Seneca distinguishes the initial disturbance from accepting an apparent injury a
 
 **Plain words** Some reactions happen to you before you have said anything to yourself about them: the blush, the flinch, the surge after bad news. The surge is not yet anger. Anger needs your agreement: the thought that you have been injured and that revenge is owed. So catch the wish while it is still a wish, and check whether the accusation in it is true before acting on it.
 
-For example: Imagined: an angry email lands and you flinch as you read it; the flinch is the first movement. A reply is drafted and left unsent while its accusations are checked one by one; what finally goes out is chosen.
+For example: an angry email lands and you flinch as you read it; the flinch is the first movement. A reply is drafted and left unsent while its accusations are checked one by one; what finally goes out is chosen.
 
 ## Psychology parallels
 

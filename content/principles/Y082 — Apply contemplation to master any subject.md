@@ -20,7 +20,7 @@ Sutra 3.6 says "Its application is by stages". The commentary warns that by "ove
 
 ### The catalogue of applications
 
-From sutra 3.16, the commentary says, "the field-of-operation for the constraint and the supernormal powers indicative of the mastery over objects will be described" (p. 233). The first is "As a result of constraint upon the three mutations there follows the knowledge of the past and of the future" (3.16, p. 232). The later sutras in the series name other objects, which I have not read in full, so the page does not claim to list them.
+From sutra 3.16, the commentary says, "the field-of-operation for the constraint and the supernormal powers indicative of the mastery over objects will be described" (p. 233). The first is "As a result of constraint upon the three mutations there follows the knowledge of the past and of the future" (3.16, p. 232). The later sutras in the series name other objects, which are not read in full here, so the page does not claim to list them.
 
 ### What is not in the text
 

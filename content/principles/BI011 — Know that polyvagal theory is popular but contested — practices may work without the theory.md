@@ -24,7 +24,7 @@ That evidence concerns structured heart-rate-variability biofeedback as an inter
 
 **Plain words** The theory gives people a ladder of nervous-system states. The critics say the anatomy behind the ladder does not hold up; the theory's author says the critique misses the theory's actual claims. Separately, one practice that often travels with the theory, structured heart-rate-variability biofeedback, has evidence from trials of that intervention. So when a course teaches "vagal toning" with humming or cold water, note that the evidence concerns biofeedback, not those exercises; whether they help is not something this page's sources establish. If the theory is ever settled, the exhale will still be there.
 
-**For example:** Imagined: a course teaches "vagal toning" with humming and cold water. The mechanism on the label is contested science, and the trial evidence concerns a different, structured intervention. You do not need the theory to be true for a practice to be worth discussing with a professional.
+***For example** a course teaches "vagal toning" with humming and cold water. The mechanism on the label is contested science, and the trial evidence concerns a different, structured intervention. You do not need the theory to be true for a practice to be worth discussing with a professional.
 
 ## Psychology parallels
 

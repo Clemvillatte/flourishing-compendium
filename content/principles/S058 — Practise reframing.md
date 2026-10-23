@@ -22,7 +22,7 @@ On his account the hindrance itself is unchanged; what changes is the use the mi
 
 **Plain words** A plan can fail while useful actions remain. First name what has been lost; then decide what you can still do well. That might mean tackling another task, revising the plan, or treating someone fairly while handling the setback. You need not call the loss a benefit to choose your next action.
 
-For example: Imagined: a cancelled project becomes an afternoon to finish the essay that had been put off.
+For example: a cancelled project becomes an afternoon to finish the essay that had been put off.
 
 ## Psychology parallels
 

@@ -28,7 +28,7 @@ The commentary sets the limit itself. Vyasa notes the qualifying kind, self-cast
 
 **Plain words** The rule has two halves: without some accepted difficulty, the impurity does not thin; past some point, the difficulty itself harms the practice. The commentary's stop-line is a disorder of the humours, and its marker is the undisturbed calm of the mind-stuff. The skill is watching for the point where the difficulty starts costing the calm instead of serving it.
 
-*For example:* Imagined: a fasting day leaves you clear and steady by evening, and you note the effect. A fast that leaves you irritable, sleepless and unable to read has crossed the commentary's line. The dose, not the will, is what to adjust.
+*For example:* a fasting day leaves you clear and steady by evening, and you note the effect. A fast that leaves you irritable, sleepless and unable to read has crossed the commentary's line. The dose, not the will, is what to adjust.
 
 (Yoga Sutra 2.1 and 2.43 with Vyasa's Bhasya and Vacaspati Misra's Tattva-vaicaradi, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 103-104, 189.)
 

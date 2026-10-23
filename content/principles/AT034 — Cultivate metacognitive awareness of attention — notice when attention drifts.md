@@ -30,7 +30,7 @@ The compendium's reading of the original entry's insight: noticing that attentio
 Mind wandering often happens without your knowing it; the paper's phrase is that awareness of the drift is intermittent. Meta-awareness is the process that periodically takes note of what the mind is doing. When the note lands on a drift, the task can be re-engaged. Train the taking-note; the scolding is extra.
 
 *For example:*
-Imagined: Midway through a budget review, a reader notices the sentence "I'm planning my holiday in the middle of this budget review" arrive in their mind. The noticing itself, not the scolding that could follow, is what the account treats as the operative event.
+Midway through a budget review, a reader notices the sentence "I'm planning my holiday in the middle of this budget review" arrive in their mind. The noticing itself, not the scolding that could follow, is what the account treats as the operative event.
 
 ## Sources
 

@@ -24,7 +24,7 @@ The rules describe what argumentation looks like when it is, in the entry's phra
 For a meeting you organise, decide in advance how people will take turns and question a claim. Make those rules visible to participants and invite suggestions for changing them.
 
 *For example:*
-Imagined: Before a meeting, the chair proposes one uninterrupted turn for each participant, followed by questions about the evidence. The group agrees to try the format at its next meeting.
+Before a meeting, the chair proposes one uninterrupted turn for each participant, followed by questions about the evidence. The group agrees to try the format at its next meeting.
 
 ## Sources
 

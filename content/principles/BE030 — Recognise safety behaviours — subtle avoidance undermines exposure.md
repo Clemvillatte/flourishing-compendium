@@ -20,7 +20,7 @@ Sloan and Telch's experiment compared what participants did during exposure. Mar
 
 **Plain words** Ask what you expect the precaution to prevent. If the feared event does not happen, would you take that as evidence against your prediction, or conclude that the precaution saved you? Crediting the precaution alone can leave the original prediction unchanged.
 
-**For example:** Imagined: before a planned exposure exercise, someone tells their therapist, "If I stop rehearsing, I expect everyone to laugh." They discuss how to test that prediction and what observation would count against it.
+***For example** before a planned exposure exercise, someone tells their therapist, "If I stop rehearsing, I expect everyone to laugh." They discuss how to test that prediction and what observation would count against it.
 
 ## Psychology parallels
 

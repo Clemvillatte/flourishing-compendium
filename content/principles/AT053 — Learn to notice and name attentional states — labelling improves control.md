@@ -30,7 +30,7 @@ Scope: the labelling studies measured affective states and evocative stimuli. Th
 The finding: naming an emotional state in words attenuates the experience, and the naming works without any intent to regulate. The studies measured affect; the extension of the practice to attentional states is the compendium's application. Name the state you catch, then decide what to do.
 
 *For example:*
-Imagined: While scrolling, a reader says to herself, "I'm doomscrolling." She then decides whether to continue or close the app.
+While scrolling, a reader says to herself, "I'm doomscrolling." She then decides whether to continue or close the app.
 
 ## Related concepts
 

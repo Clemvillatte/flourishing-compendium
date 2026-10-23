@@ -26,7 +26,7 @@ In Letter 13, Seneca writes of fears in particular: "we suffer more often in ima
 
 **Plain words** The rule gives you a sorting question for whatever you dread: is this on my side of the line or not? Health, reputation and other people's decisions sit on the far side; what you prepare and how you speak sit on yours. Letter 13 adds that the suffering often runs ahead of the event. The practice is to sort first, then do your side.
 
-For example: Imagined: dreading a difficult conversation, you prepare the truthful points you want to make; the other person's reaction is not yours to control, the preparation is.
+For example: dreading a difficult conversation, you prepare the truthful points you want to make; the other person's reaction is not yours to control, the preparation is.
 
 ## Psychology parallels
 

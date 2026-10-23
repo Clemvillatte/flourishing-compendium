@@ -20,7 +20,7 @@ The authors' proposed explanation for the effect: "it is equally straightforward
 
 **Plain words** Kindness is a behaviour, not just a value, and the experimental literature finds it pays the giver too. Choose an act that actually helps the other person, and do it deliberately; the doer's well-being is the measured outcome.
 
-*For example* Imagined: on a grey Tuesday you buy the stranger behind you a coffee. One deliberate kind act; in the studies, the doer's well-being is what gets measured.
+*For example:* on a grey Tuesday you buy the stranger behind you a coffee. One deliberate kind act; in the studies, the doer's well-being is what gets measured.
 
 ## Sources
 

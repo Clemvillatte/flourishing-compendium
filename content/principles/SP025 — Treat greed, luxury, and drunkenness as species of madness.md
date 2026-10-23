@@ -22,7 +22,7 @@ Spinoza compares people absorbed in love, money or glory. ([Project Gutenberg](h
 
 **Plain words** Think of a pursuit that has been filling your day. What has it pushed out of view? Use that question to reflect on Spinoza's description of absorption, not to decide whether someone is mentally ill.
 
-*For example:* Imagined: a comfort purchase becomes the whole evening — the planning, the buying, the next purchase already forming — and other things have stopped getting attention.
+*For example:* a comfort purchase becomes the whole evening — the planning, the buying, the next purchase already forming — and other things have stopped getting attention.
 ## Psychology parallels
 
 - **Delay discounting and the narrowing of reward systems**, the behavioral-economics account of compulsive pursuit (Bickel et al., 2014)

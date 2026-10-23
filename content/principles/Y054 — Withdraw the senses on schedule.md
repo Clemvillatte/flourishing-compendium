@@ -26,7 +26,7 @@ The fruit, sutra 2.55: "As a result of this [withdrawal] there is complete maste
 
 **Plain words** The definition runs through the mind, not the eyes. The senses copy the mind-stuff the way bees copy the queen: when the mind pulls in, they pull in, with no separate effort needed. The work is therefore upstream, on where the mind is. The schedule is the principle's own point, and it is practical: a withdrawal you choose at a set time is the same one collapse would otherwise enforce for you.
 
-*For example:* Imagined: the evening ends either with the phone dropping from a numb hand at 1:40 a.m., or with a 10 p.m. slot, lights low, screens parked, chosen while the mind still has a vote. The second is the same withdrawal the first one forces.
+*For example:* the evening ends either with the phone dropping from a numb hand at 1:40 a.m., or with a 10 p.m. slot, lights low, screens parked, chosen while the mind still has a vote. The second is the same withdrawal the first one forces.
 
 (Yoga Sutra 2.54-2.55 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 197-198.)
 

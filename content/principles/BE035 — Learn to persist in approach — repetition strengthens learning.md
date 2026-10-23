@@ -20,7 +20,7 @@ The model's premise: "Bouton and colleagues propose that after extinction, the C
 
 **Plain words** During planned exposure practice, compare what you expected with what actually happened. You are learning a different prediction about the situation while an older fearful expectation may still be present.
 
-*For example* Imagined: a speaker treats the first successful talk as a fluke; the plan is to keep collecting occasions rather than argue with the fluke judgment.
+*For example:* a speaker treats the first successful talk as a fluke; the plan is to keep collecting occasions rather than argue with the fluke judgment.
 
 ## Sources
 

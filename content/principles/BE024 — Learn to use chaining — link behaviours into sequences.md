@@ -20,7 +20,7 @@ Fogg's recipe cards describe a related habit-design approach: an existing routin
 
 **Plain words** Write out the actions involved in a familiar task. Learning the first action gives you a place to begin; you can then practise it together with the next action. A difficult sequence can be taught a little at a time.
 
-*For example* Imagined: an instructor first teaches a learner to place a toothbrush on the counter. Applying toothpaste is added next, with both steps practised together.
+*For example:* an instructor first teaches a learner to place a toothbrush on the counter. Applying toothpaste is added next, with both steps practised together.
 
 ## Sources
 

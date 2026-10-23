@@ -24,7 +24,7 @@ Ward et al. reported better working-memory performance in the other-room than de
 Putting your phone elsewhere is an option to try during demanding work. Check whether it helps with your particular task; these experiments do not establish that every nearby phone imposes the same cost.
 
 *For example:*
-Imagined: a writer leaves the phone in the kitchen while reviewing a draft and records interruptions and completed edits.
+a writer leaves the phone in the kitchen while reviewing a draft and records interruptions and completed edits.
 
 ## Sources
 

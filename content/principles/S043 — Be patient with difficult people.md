@@ -26,7 +26,7 @@ The difficult person, on this view, is a fellow part of a body that works togeth
 
 **Plain words** Before a difficult meeting, consider how you want to answer if someone is rude. You could ask what they mean, address the substance of a complaint, or state a limit without returning an insult. The question is how you choose to respond when patience is tested.
 
-For example: Imagined: a manager delivers criticism abrasively. The team member asks for a concrete example, then answers the criticism without trading insults.
+For example: a manager delivers criticism abrasively. The team member asks for a concrete example, then answers the criticism without trading insults.
 
 ## Psychology parallels
 

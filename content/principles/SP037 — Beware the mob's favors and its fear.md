@@ -28,7 +28,7 @@ The proposition concerns dealings with people Spinoza calls "ignorant". Its note
 Before accepting a favour, ask whether the giver expects a particular return and whether you can agree to it. If you need the help, consider making those expectations explicit. If you decline, pay attention to how you explain the refusal.
 
 *For example:*
-Imagined: A local organiser is offered sponsorship by a prominent donor. Before accepting, she asks whether it would commit her to public endorsements and considers declining if it would.
+A local organiser is offered sponsorship by a prominent donor. Before accepting, she asks whether it would commit her to public endorsements and considers declining if it would.
 
 ## Sources
 

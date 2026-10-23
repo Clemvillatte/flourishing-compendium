@@ -26,7 +26,7 @@ The proof appeals to Part I, Axiom IV. The Note describes a mode of extension an
 
 **Plain words** Start with one thing and ask how Spinoza describes it under thought and under extension. Keep that reading exercise separate from checking whether your own description is accurate; this proposition does not supply that check.
 
-*For example:* Imagined: a reader draws two columns, "extension" and "thought", and uses Spinoza's circle example to compare the two descriptions.
+*For example:* a reader draws two columns, "extension" and "thought", and uses Spinoza's circle example to compare the two descriptions.
 ## Psychology parallels
 
 - **[[Predictive processing|Predictive processing]]**, the current framework in which mind and world are modeled as one loop of prediction and correction (Clark, 2013, "Whatever next?")

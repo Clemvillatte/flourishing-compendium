@@ -20,7 +20,7 @@ The medication comparison is the reason the treatment is called first-line: "sho
 
 **Plain words** CBT-I is the gold-standard insomnia programme: a package of sleep restriction, stimulus control, and cognitive work. The guideline's short version: pills help short-term and stop helping when you stop; the behavioural package keeps working at follow-up. If insomnia is chronic, this is the referral.
 
-*For example* Imagined: the "I've tried everything" shelf, everything except the one structured protocol with the Standard grading. Pills rent sleep; CBT-I owns it. Different business models.
+*For example:* the "I've tried everything" shelf, everything except the one structured protocol with the Standard grading. Pills rent sleep; CBT-I owns it. Different business models.
 
 ## Sources
 

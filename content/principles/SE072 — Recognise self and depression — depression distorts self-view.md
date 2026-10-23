@@ -24,7 +24,7 @@ The APA lists feelings of worthlessness or excessive guilt among possible sympto
 
 **Plain words** Write down the self-critical thought and what was happening when it appeared. Note accompanying changes in sleep, energy or interest. Separate the feeling from specific events you can describe.
 
-*For example:* Imagined: someone brings notes to a clinical appointment listing the thought "I am a burden", recent sleep changes and loss of interest.
+*For example:* someone brings notes to a clinical appointment listing the thought "I am a burden", recent sleep changes and loss of interest.
 
 ## Sources
 

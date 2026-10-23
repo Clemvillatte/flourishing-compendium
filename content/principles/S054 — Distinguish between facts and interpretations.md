@@ -22,7 +22,7 @@ The exercise is to take apart what often arrives as one thing: something that ha
 
 **Plain words** Suppose a friend misses an agreed call. Before concluding that they do not care, ask what you actually know: no call arrived at the agreed time. You may still need to ask why. Keeping the observation separate from your explanation leaves room to reconsider that explanation.
 
-For example: Imagined: a friend misses an agreed call; "she didn't call" is the fact, "she doesn't care" is the interpretation added to it.
+For example: a friend misses an agreed call; "she didn't call" is the fact, "she doesn't care" is the interpretation added to it.
 
 ## Psychology parallels
 

@@ -32,7 +32,7 @@ The compendium uses Marcus's reminders to examine priorities: what deserves atte
 Choose something you have been postponing. Does it matter enough to begin today? Decide what to do while remembering that you cannot count on another day being available.
 
 *For example:*
-Imagined: before agreeing to a meeting that bores you, you ask whether this is how you'd spend a day you'd never get back.
+before agreeing to a meeting that bores you, you ask whether this is how you'd spend a day you'd never get back.
 
 ## Sources
 

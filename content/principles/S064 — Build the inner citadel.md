@@ -26,7 +26,7 @@ Marcus connects this refuge with reasoned judgement and a well-ordered mind. Bui
 
 **Plain words** The citadel is a picture for where your security actually sits. The practice is the return: when something shakes you, go back to the principles you want to decide by, and check the next action against them. Your house, job and reputation are not on that list; how you judge and what you value are the part you bring with you.
 
-For example: Imagined: after losing a job, someone feels shaken, considers which principles to keep in the next conversation, and drafts a truthful, civil reply.
+For example: after losing a job, someone feels shaken, considers which principles to keep in the next conversation, and drafts a truthful, civil reply.
 
 ## Psychology parallels
 

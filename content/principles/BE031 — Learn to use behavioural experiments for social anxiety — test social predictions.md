@@ -20,7 +20,7 @@ Their design, the guide continues, comes from a cognitive formulation of the pro
 
 **Plain words** Before a social situation, write down a specific prediction and decide what observable response would count as it happening. Afterwards, compare the prediction with what occurred. In therapy, the experiment may also involve dropping a safety behaviour and directing attention towards the conversation.
 
-*For example* Imagined: someone predicts that pausing mid-sentence will make the other person roll their eyes or end the conversation. They plan an experiment with their therapist, then record whether either response occurs.
+*For example:* someone predicts that pausing mid-sentence will make the other person roll their eyes or end the conversation. They plan an experiment with their therapist, then record whether either response occurs.
 
 ## Sources
 

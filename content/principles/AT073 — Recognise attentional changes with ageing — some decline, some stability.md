@@ -24,7 +24,7 @@ The stability half comes from Hartshorne and Germine's lifespan data (48,537 web
 Averages for large groups say the portfolio changes with age; the pattern of peaks and declines varies. On these averages, processing speed has already declined from its late-teens peak by the mid-twenties, while working-memory tasks peak near 30 — so the mix of abilities shifts with age.
 
 *For example:*
-Imagined: a person learning a new note-taking system at 25 versus 55, comparing after a week.
+a person learning a new note-taking system at 25 versus 55, comparing after a week.
 
 ## Sources
 

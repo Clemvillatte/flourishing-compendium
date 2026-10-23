@@ -24,7 +24,7 @@ A later review adds a caution about measurement: perceived and received support 
 
 **Plain words** Having someone you could call is different from receiving help today. Researchers distinguish the help people believe is available from the help they actually receive. As an everyday exercise, make a specific request or decide whether to accept an offer.
 
-**For example:** Imagined: after a minor operation, a neighbour offers to take over the shopping for the week, and the person says yes instead of managing it alone. Accepting the offer is the behaviour under practice.
+***For example** after a minor operation, a neighbour offers to take over the shopping for the week, and the person says yes instead of managing it alone. Accepting the offer is the behaviour under practice.
 
 ## Psychology parallels
 

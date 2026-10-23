@@ -22,7 +22,7 @@ The compendium applies this instruction to neighbourliness: consider the next pe
 
 **Plain words** You do not need to feel close to everyone nearby to consider how your actions affect them. Ask what would be useful, and check before offering help that might be unwanted.
 
-*For example:* Imagined: a neighbour is away when a parcel arrives. With their prior agreement, you take it in and leave a note.
+*For example:* a neighbour is away when a parcel arrives. With their prior agreement, you take it in and leave a note.
 
 ## Sources
 

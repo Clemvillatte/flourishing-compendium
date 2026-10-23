@@ -22,7 +22,7 @@ The compendium uses this passage only as a philosophical comparison. Its separat
 
 **Plain words** List the request, decide what you can agree to and tell the other person. Keep the statement about your actions or availability. State your limit without predicting the other person's response or assigning motives to it.
 
-*For example:* Imagined: someone declines an extra Sunday shift and tells the manager when they are next available.
+*For example:* someone declines an extra Sunday shift and tells the manager when they are next available.
 
 ## Sources
 

@@ -22,7 +22,7 @@ The compendium applies the passage to any crowd, online or physical. The warning
 
 **Plain words** You do not have to leave every room. Watch what the room is doing to you, and leave when you can no longer watch.
 
-*For example:* Imagined: someone leaves a work group chat that thrives on gossip, and finds their mood improves within a week.
+*For example:* someone leaves a work group chat that thrives on gossip, and finds their mood improves within a week.
 
 ## Sources
 

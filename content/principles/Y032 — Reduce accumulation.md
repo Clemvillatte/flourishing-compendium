@@ -26,7 +26,7 @@ The "appointment for attention" phrasing and the subtraction test are the princi
 
 **Plain words** Every thing you keep goes on taking after the purchase: room to store it, attention to mind it, work to move it. The commentary sets the rule at the moment of taking, not afterward: if the keeping is evidently a disadvantage, do not appropriate the thing. The subtraction test is one way to run that check early, by naming what leaves when the new thing arrives.
 
-*For example:* Imagined: a fourth jacket bought on sale spends three years moving between closets and being rehung each season. Before buying it, the test would have asked which of the four leaves when it arrives. None was going to, and that was the answer.
+*For example:* a fourth jacket bought on sale spends three years moving between closets and being rehung each season. Before buying it, the test would have asked which of the four leaves when it arrives. None was going to, and that was the answer.
 
 (Yoga Sutra 2.30 and 2.39 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 179, 187; Bhagavad Gita ch. 13 in Edwin Arnold, The Song Celestial, Project Gutenberg 2388.)
 

@@ -22,7 +22,7 @@ Marcus compares luxury with the enjoyment of acting according to human nature. T
 
 **Plain words** Ask of a comfort whether the task needs it or only goes more pleasantly with it.
 
-*For example:* Imagined: someone does the washing up without the usual podcast, and the dishes still get done.
+*For example:* someone does the washing up without the usual podcast, and the dishes still get done.
 
 ## Sources
 

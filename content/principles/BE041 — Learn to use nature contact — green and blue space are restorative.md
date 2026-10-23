@@ -20,7 +20,7 @@ Rumination, in the study's words, is "a maladaptive pattern of self-referential 
 
 **Plain words** If you keep replaying an upsetting thought about yourself, choosing a natural route for a walk is one option to try. Afterwards, notice whether you are still caught in that thought.
 
-*For example* Imagined: someone replaying a mistake at work chooses a park route for their planned walk. Afterwards, they notice whether they are still revisiting the mistake.
+*For example:* someone replaying a mistake at work chooses a park route for their planned walk. Afterwards, they notice whether they are still revisiting the mistake.
 
 ## Sources
 

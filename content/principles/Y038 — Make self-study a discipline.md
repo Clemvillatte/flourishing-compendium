@@ -24,7 +24,7 @@ The extension from reciting texts to examining one's own mind on a schedule is t
 
 **Plain words** The discipline lives in the calendar, not the mood. Recitation was the classical form, and its point transfers: something you read or write about yourself, done at a set time, whether or not insight shows up that day. The Upanishad's word to the graduating student is "never neglect", which is about attendance, not inspiration.
 
-*For example:* Imagined: a Sunday slot, twenty minutes, three questions in the same notebook. Some Sundays produce a paragraph, some two lines. After a year the notebook holds a year of the mind, which no burst of inspiration would have produced.
+*For example:* a Sunday slot, twenty minutes, three questions in the same notebook. Some Sundays produce a paragraph, some two lines. After a year the notebook holds a year of the mind, which no burst of inspiration would have produced.
 
 (Yoga Sutra 2.1, 2.32 and 2.44 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 103, 181, 190; Taittiriya Upanishad I.11.1.)
 

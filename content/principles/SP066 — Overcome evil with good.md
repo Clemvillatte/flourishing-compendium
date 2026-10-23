@@ -21,7 +21,7 @@ Spinoza argues that reciprocated hatred increases hatred (III, P43) and recommen
 **Plain words**
 When someone hates you and you hate back, both hates grow; that is III, P43. Spinoza recommends answering with kindness as far as possible, because answering with hatred adds fuel to the growth. The rule tells you what to attempt; whether the other side's hatred turns is not in it.
 
-*For example:* Imagined: a rival spreads a rumour about you. When they later request a document you can legitimately share, you send it promptly, without adding a retaliatory insult.
+*For example:* a rival spreads a rumour about you. When they later request a document you can legitimately share, you send it promptly, without adding a retaliatory insult.
 
 ## Sources
 

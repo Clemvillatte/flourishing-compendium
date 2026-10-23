@@ -26,7 +26,7 @@ Reading the three as separate design requirements to audit, and diagnosing most 
 
 **Plain words** The three conditions are duration, continuity and quality of attention: a long time, no interruptions, and something done with care rather than while distracted. The first two show up as schedule; the third shows up as how you actually attend while you practice. A practice that runs long and unbroken but without the earnest attention is doing less than it appears to.
 
-*For example:* Imagined: the gym-goer with long attendance and real devotion, but a pattern of month-long interruptions. Each restart gives up the compounding the first condition exists for. The one who does less, but never stops, ends up ahead.
+*For example:* the gym-goer with long attendance and real devotion, but a pattern of month-long interruptions. Each restart gives up the compounding the first condition exists for. The one who does less, but never stops, ends up ahead.
 
 (Yoga Sutra 1.13-1.14 with Vyasa's Bhasya and Vacaspati Misra's Tattva-vaicaradi, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 35.)
 

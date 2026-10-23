@@ -22,7 +22,7 @@ The compendium applies the passage to wealth: money is one of the places Marcus 
 
 **Plain words** Ask what a purchase is for, and whether the same end could be reached with less.
 
-*For example:* Imagined: someone with savings picks a smaller flat than the bank would finance, and gives a fixed share of income away each year.
+*For example:* someone with savings picks a smaller flat than the bank would finance, and gives a fixed share of income away each year.
 
 ## Sources
 

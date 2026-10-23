@@ -22,7 +22,7 @@ The definition names two signs: pain at another's good and pleasure at their evi
 
 **Plain words** Try a two-part check: how did you react when another person succeeded, and how did you react when they suffered a setback? Feeling hurt by their success and pleased by their misfortune is the combination described in Spinoza's definition.
 
-*For example:* Imagined: a colleague receives an award, and you feel disappointed; when their next application fails, you feel pleased. Compare those two reactions with the definition.
+*For example:* a colleague receives an award, and you feel disappointed; when their next application fails, you feel pleased. Compare those two reactions with the definition.
 ## Psychology parallels
 
 - **[[Envy|Envy as upward-comparison distress]]**, the social-comparison account of when others' goods hurt (R. H. Smith, 2000, Handbook of Social Comparison)

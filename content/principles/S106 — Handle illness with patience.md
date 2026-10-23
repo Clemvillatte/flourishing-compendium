@@ -22,7 +22,7 @@ This is a philosophical position about the will, not evidence of unrestricted co
 
 **Plain words** Consider one choice available today: asking someone for help, postponing a task, or telling a visitor you need rest. You need not perform cheerfulness to use this exercise.
 
-*For example:* Imagined: a patient is too tired for a visit and asks a friend to return another day.
+*For example:* a patient is too tired for a visit and asks a friend to return another day.
 
 ## Sources
 

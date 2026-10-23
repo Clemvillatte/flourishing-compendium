@@ -20,7 +20,7 @@ The same guidance tells patients to "start activity scheduling with short-term g
 
 **Plain words** An intention without a time slot stays a wish. "I should call my brother more" can be postponed forever; "Sunday, 10 a.m., call brother" either happens or visibly does not. The schedule turns wanting into doing, and starting small keeps it doable when motivation is low.
 
-*For example* Imagined: someone who wants to restart exercise writes "Tuesday 7 p.m., 15-minute walk" in the diary and treats it like a meeting they booked with themselves.
+*For example:* someone who wants to restart exercise writes "Tuesday 7 p.m., 15-minute walk" in the diary and treats it like a meeting they booked with themselves.
 
 ## Sources
 

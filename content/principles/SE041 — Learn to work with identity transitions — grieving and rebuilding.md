@@ -22,7 +22,7 @@ The compendium takes this as a writing prompt for an identity transition, rather
 
 **Plain words** Describe one part of a former role that you miss. In a separate paragraph, sketch something you might try in your present circumstances. Neither paragraph has to turn the loss into a benefit or bring the story to a tidy ending.
 
-*For example:* Imagined: after retirement, a person writes that they miss daily contact with colleagues, then considers arranging a weekly lunch.
+*For example:* after retirement, a person writes that they miss daily contact with colleagues, then considers arranging a weekly lunch.
 
 ## Sources
 

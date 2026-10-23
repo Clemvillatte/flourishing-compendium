@@ -28,7 +28,7 @@ The compendium borrows these two descriptions as an invitation to consider what 
 Think about a conversation you are about to have. What are you responding to, and what will your words leave the other person to respond to? You can take care with your contribution while recognising that their reply is theirs to make.
 
 *For example:*
-Imagined: a new colleague joins her first team meeting. Before the meeting breaks up, you offer to stay behind if she has questions.
+a new colleague joins her first team meeting. Before the meeting breaks up, you offer to stay behind if she has questions.
 
 ## Sources
 

@@ -21,7 +21,7 @@ Faith is not salutary in itself, but only in respect to the obedience it implies
 **Plain words**
 Spinoza asks what a religion's teaching amounts to in practice, and finds the core is small: uphold justice, aid the weak, do no murder, covet no one's goods. Faith shows in works; doctrine is not the test. Ceremonies and creeds are left free, because they are not what the law rests on.
 
-*For example:* Imagined: a congregation's year runs on the building fund, the robes, the schedule. The audit question the test asks: what did the weak and needy of the district actually receive? On that answer, and not on the observances, the judgment rests.
+*For example:* a congregation's year runs on the building fund, the robes, the schedule. The audit question the test asks: what did the weak and needy of the district actually receive? On that answer, and not on the observances, the judgment rests.
 
 ## Sources
 

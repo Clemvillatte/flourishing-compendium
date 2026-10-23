@@ -22,7 +22,7 @@ Feedback has a measured record too, with a caution attached. A meta-analysis of 
 
 **Plain words** Memory is a poor witness to your own habits; a written record is a different kind of witness, not a flawless one. The suggested exercise is a one-line log of what, when and how much, kept for a couple of weeks, so that the next conversation about your habits can point at entries instead of impressions. The meta-analysis adds a caution worth keeping: feedback aimed at the self (how good or bad you are) helps less than feedback aimed at the task, and sometimes hurts. So the log works best as a mirror, not a judge.
 
-**For example:** Imagined: someone who reports "barely drinking" keeps a one-line log for two weeks and finds nine glasses of wine in it. Nothing about the moral question has been settled; what changed is that the number is now on the table, and the next decision can be made with it.
+***For example** someone who reports "barely drinking" keeps a one-line log for two weeks and finds nine glasses of wine in it. Nothing about the moral question has been settled; what changed is that the number is now on the table, and the next decision can be made with it.
 
 ## Psychology parallels
 

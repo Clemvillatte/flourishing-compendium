@@ -26,7 +26,7 @@ McAdams is describing narrative identity: the evolving story a person tells abou
 Take a description you often use about yourself, such as "I avoid responsibility". Look for particular occasions when it fits and occasions when it does not. Consider whether a more specific description would represent your experience more accurately.
 
 *For example:*
-Imagined: Someone who describes herself as unreliable lists recent commitments she kept and commitments she missed. She uses those examples to decide whether to revise the description.
+Someone who describes herself as unreliable lists recent commitments she kept and commitments she missed. She uses those examples to decide whether to revise the description.
 
 ## Sources
 

@@ -20,7 +20,7 @@ Jacobson and colleagues describe inactivity, withdrawal and inertia as commonly 
 
 **Plain words** Depression has behavioural fingerprints: withdrawal, inactivity, the cancelled plans, the curtains. In the paper's account they are symptoms with a function, and the function is what the treatment works on, through [[Behavioral activation|behavioural activation]].
 
-*For example* Imagined: a friend cancels every plan for two months. One possible reading, in the paper's terms, is avoidance behaviour; the observation alone does not diagnose.
+*For example:* a friend cancels every plan for two months. One possible reading, in the paper's terms, is avoidance behaviour; the observation alone does not diagnose.
 
 ## Sources
 

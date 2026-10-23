@@ -24,7 +24,7 @@ In the performance studies, "compared with the first-person group, the non-first
 To try the exercise, describe the same situation using your name instead of "I". Keep the event and emotional description as similar as possible, so that you are changing how you refer to yourself rather than rewriting what happened.
 
 *For example:*
-Imagined: Before preparing a presentation, Sarah writes "Sarah feels anxious about this presentation" in place of "I feel anxious about this presentation". She keeps the description otherwise unchanged.
+Before preparing a presentation, Sarah writes "Sarah feels anxious about this presentation" in place of "I feel anxious about this presentation". She keeps the description otherwise unchanged.
 
 ## Sources
 

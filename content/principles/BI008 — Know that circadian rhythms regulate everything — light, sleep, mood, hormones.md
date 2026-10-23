@@ -20,7 +20,7 @@ Artificial light changed the exposure pattern: "the availability of artificial l
 
 **Plain words** Circadian rhythms run everything on a roughly 24-hour loop set mainly by light: sleep, mood, hormones, energy. Disrupt the loop, with shift work, jet lag, or evening screens, and everything downstream wobbles. Protect the rhythm; it is the spine of your day.
 
-*For example* Imagined: the night owl forced into morning meetings, the jet-lagged week of unexplained tears. The review's evidence supports the direction of the complaint: moderate changes in the timing of the sleep-wake cycle can significantly modulate mood.
+*For example:* the night owl forced into morning meetings, the jet-lagged week of unexplained tears. The review's evidence supports the direction of the complaint: moderate changes in the timing of the sleep-wake cycle can significantly modulate mood.
 
 ## Sources
 

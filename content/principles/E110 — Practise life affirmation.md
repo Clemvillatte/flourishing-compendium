@@ -28,7 +28,7 @@ Ecce Homo goes further. His "formula for greatness in man" is that "a man wishes
 
 **Plain words** Saying yes to life does not mean calling life good or feeling cheerful. Nietzsche's yes includes the things you cannot change and would rather were different. Practise it by dropping the war on what is ugly or unfair, by not spending the day accusing, and by looking for what, in the unavoidable, you can still make beautiful.
 
-For example: Imagined: after a diagnosis you did not want, you stop asking who or what is to blame, and ask what in the days left you can still do well. That is closer to his resolution than forced positivity is.
+For example: after a diagnosis you did not want, you stop asking who or what is to blame, and ask what in the days left you can still do well. That is closer to his resolution than forced positivity is.
 
 ## Sources
 

@@ -30,7 +30,7 @@ These passages describe dormancy and recurrence during developed practice. They 
 
 **Plain words** The useful distinction is between a calm spell and a tested one. If nothing angered you this month, the month does not show whether the anger is gone; it may show only that its occasion never appeared. In the commentary's account, what wakes a dormant hindrance is the encounter with its object, and a quiet period is not that encounter.
 
-*For example:* Imagined: you feel calm for a month after a falling-out and read the calm as forgiveness. At a party you meet the other person and the anger returns at once. The month was an interval without the object; the meeting supplied the test the month lacked.
+*For example:* you feel calm for a month after a falling-out and read the calm as forgiveness. At a party you meet the other person and the anger returns at once. The month was an interval without the object; the meeting supplied the test the month lacked.
 
 (Yoga Sutra 2.4 and 4.27-4.28 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 106-108, 339-340.)
 

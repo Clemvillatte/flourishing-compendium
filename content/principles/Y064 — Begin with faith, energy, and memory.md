@@ -26,7 +26,7 @@ The motivation-design reading, faith as working trust rather than belief in resu
 
 **Plain words** The order is the teaching: trust first, effort second, memory third. Trust here is approval of the practice, not conviction about metaphysics; the gloss says its object is something you can be told about, infer, or learn from a teacher. With that approval present, energy follows it, and with energy, memory holds. The repair move when energy is missing is therefore upstream: revisit the trust, not the will.
 
-*For example:* Imagined: a beginner who cannot honestly claim faith can claim curiosity, which funds one week of practice, which produces one small result, which produces the approval the chain starts with. The sequence builds itself once it starts somewhere.
+*For example:* a beginner who cannot honestly claim faith can claim curiosity, which funds one week of practice, which produces one small result, which produces the approval the chain starts with. The sequence builds itself once it starts somewhere.
 
 (Yoga Sutra 1.20 with Vyasa's Bhasya and Vacaspati Misra's Tattva-vaicaradi, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 46.)
 

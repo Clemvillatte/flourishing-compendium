@@ -33,7 +33,7 @@ Treatment guidance is specific. NICE: "Offer an individual trauma-focused CBT in
 
 **Plain words** Two behaviour changes are on the guideline's list. First, avoidance: steering clear of situations or people that recall the event, not talking or thinking about it. Second, hyperarousal: feeling jittery, always alert and on the lookout for danger, sudden anger or irritability. The guideline treats these as symptoms with named treatments, not character flaws; if they are affecting daily life, the next step is an assessment, not a verdict.
 
-**For example:** Imagined: after a car crash, someone stops driving on motorways, takes long detours, and startles when a car brakes hard nearby. Both behaviours are traceable to the event; both belong in the conversation with a clinician about what to do next.
+***For example** after a car crash, someone stops driving on motorways, takes long detours, and startles when a car brakes hard nearby. Both behaviours are traceable to the event; both belong in the conversation with a clinician about what to do next.
 
 ## Psychology parallels
 

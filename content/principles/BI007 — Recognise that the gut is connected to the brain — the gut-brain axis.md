@@ -20,7 +20,7 @@ The microbiota's role: "Recent advances in research have described the importanc
 
 **Plain words** The gut and brain are on a party line: vagus nerve, immune system, hormones. The gut's bacteria are on the call too, and the talk runs both ways. The "gut feeling" is not a metaphor.
 
-*For example* Imagined: the week of terrible food that is followed by the week of terrible mood. The review's clinical evidence is associational, so treat the pairing as something to notice rather than proven cause.
+*For example:* the week of terrible food that is followed by the week of terrible mood. The review's clinical evidence is associational, so treat the pairing as something to notice rather than proven cause.
 
 ## Sources
 

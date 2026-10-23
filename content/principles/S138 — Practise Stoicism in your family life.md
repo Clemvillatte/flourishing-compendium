@@ -22,7 +22,7 @@ The compendium uses this recollection as a prompt to consider what conduct you m
 
 **Plain words** Think about what someone living with you might learn from watching you handle a shared responsibility. Choose one quality you would want them to learn, and consider how to show it in the next task you share.
 
-*For example:* Imagined: a parent who has spoken sharply apologises before sitting down to dinner.
+*For example:* a parent who has spoken sharply apologises before sitting down to dinner.
 
 ## Sources
 

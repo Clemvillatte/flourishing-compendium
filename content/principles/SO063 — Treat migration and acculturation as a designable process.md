@@ -22,7 +22,7 @@ In discussing the ICSEY immigrant-youth project, Berry reports that "bicultural 
 
 **Plain words** Separate what you want to keep from the ways you want to participate in your new surroundings. List your preferences alongside the opportunities and barriers you face. Do not assume that losing cultural connections or being excluded was a choice.
 
-*For example:* Imagined: a family continues using its heritage language and celebrating its festivals while taking part in local civic activities.
+*For example:* a family continues using its heritage language and celebrating its festivals while taking part in local civic activities.
 ## Psychology parallels
 
 - Berry (1997, 2005) on [[Acculturation theory Berry|acculturation]]; Sam and Berry (2010) on acculturation and well-being; Virta et al. (2004) on identity and acculturation; the immigration paradox (Marks et al., 2014); the segmented-assimilation literature (Portes and Zhou, 1993).

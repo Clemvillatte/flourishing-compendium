@@ -28,7 +28,7 @@ The compendium applies the distinction by asking whether people understand a rul
 Think of one rule you follow. Can you explain its purpose, and is that purpose part of why you follow it? If you set the rule for someone else, make time to explain it and hear their objections.
 
 *For example:*
-Imagined: A parent asks two teenagers why they keep a curfew. One mentions the possible loss of his phone; the other mentions the safety concern. The parent invites both to discuss whether the arrangement addresses that concern.
+A parent asks two teenagers why they keep a curfew. One mentions the possible loss of his phone; the other mentions the safety concern. The parent invites both to discuss whether the arrangement addresses that concern.
 
 ## Sources
 

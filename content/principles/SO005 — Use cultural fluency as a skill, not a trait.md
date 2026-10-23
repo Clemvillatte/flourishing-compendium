@@ -22,7 +22,7 @@ The abstract concerns switching between cultural frames in people who have alrea
 
 **Plain words** Notice which room you are in and which style it runs on — direct or indirect, formal or easygoing. Notice how people make requests, disagree and give feedback. Decide what you want to adapt and what you want to keep, then reflect on the exchange.
 
-*For example:* Imagined: an employee moves between the head office's direct style and the family business's indirect style, changing how bluntly feedback is given in each room — fluent in both rooms.
+*For example:* an employee moves between the head office's direct style and the family business's indirect style, changing how bluntly feedback is given in each room — fluent in both rooms.
 
 ## Sources
 

@@ -21,7 +21,7 @@ Because the formula cancels itself, saying it is not a new doctrine; the skeptic
 **Plain words**
 Sextus defines scepticism as opposing appearances to judgments so that equal-weight reasons cancel, first bringing suspense and then quietude. The formula "no more this than that" marks the cancellation: neither side of the dispute takes precedence. The formula cancels itself too, so saying it is not a new opinion, just a report of how the dispute looks right now. When two options have argued you to a standstill, say it, pick if picking is needed, and let the formula carry what is left of the weight.
 
-*For example:* Imagined: torn for a week between two nearly identical job offers, someone says the formula, takes the one with the shorter commute, and the jaw finally unclenches.
+*For example:* torn for a week between two nearly identical job offers, someone says the formula, takes the one with the shorter commute, and the jaw finally unclenches.
 
 ## Sources
 

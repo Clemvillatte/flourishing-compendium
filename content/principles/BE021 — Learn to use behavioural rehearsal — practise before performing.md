@@ -20,7 +20,7 @@ Two details from the same notes shape the practice. Participants take turns play
 
 **Plain words** Choose a response you want to practise before a difficult conversation. You could say it aloud with another person playing the other role, then exchange roles to hear how it sounds. When someone declines dialogue rehearsal, the teaching notes suggest imagining a skilled response.
 
-*For example* Imagined: someone who dreads asking the landlord for repairs first role-plays the request with a friend playing the landlord, then swaps parts to hear what the request sounds like from the other side.
+*For example:* someone who dreads asking the landlord for repairs first role-plays the request with a friend playing the landlord, then swaps parts to hear what the request sounds like from the other side.
 
 ## Sources
 

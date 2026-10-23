@@ -20,7 +20,7 @@ The review traces the shift: later versions of BA "tended to move away from focu
 
 **Plain words** Two kinds of things can go on a schedule: what feels good now, and what serves something you have chosen to matter. Values do not guarantee the second kind works better; they tell you which activities to pick. Name the value first (being a good parent, staying in shape), and the activity list writes itself.
 
-*For example* Imagined: someone whose stated value is being a good parent schedules time fixing a child's broken toy; the value picks the activity.
+*For example:* someone whose stated value is being a good parent schedules time fixing a child's broken toy; the value picks the activity.
 
 ## Sources
 

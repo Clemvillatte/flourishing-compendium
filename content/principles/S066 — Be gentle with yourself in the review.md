@@ -26,7 +26,7 @@ The review passes over nothing, and what it hands down is a pardon with a correc
 
 **Plain words** Write down what you did and what you will change next time. Calling yourself worthless does not specify a correction. You can name the mistake plainly and still decide to begin again.
 
-For example: Imagined: after snapping at a colleague, you write down the incident, choose the correction (ask first, then complain), and resume the project the next morning.
+For example: after snapping at a colleague, you write down the incident, choose the correction (ask first, then complain), and resume the project the next morning.
 
 ## Psychology parallels
 

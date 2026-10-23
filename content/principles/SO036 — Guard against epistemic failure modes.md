@@ -22,7 +22,7 @@ In the abstract, Nguyen writes: "each type of structure requires a distinct inte
 
 **Plain words** List relevant sources missing from your group's discussion. Then note how the group judges outside sources and what reasons it gives for distrusting them. Consider whether to examine missing information, the treatment of sources, or both before choosing a response.
 
-*For example:* Imagined: a team reviews its reading list, notices that no critic of its plan is included, and chooses one omitted argument to examine.
+*For example:* a team reviews its reading list, notices that no critic of its plan is included, and chooses one omitted argument to examine.
 
 ## Sources
 

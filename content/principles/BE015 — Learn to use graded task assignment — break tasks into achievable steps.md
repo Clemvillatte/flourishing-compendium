@@ -20,7 +20,7 @@ The authors suggest the mechanism: "the reinforcing qualities of success and mas
 
 **Plain words** Big tasks are finished by small ones: break it down until the first step is so small it's almost insulting, then do that one. Momentum is built at the bottom of the staircase, not the top.
 
-*For example* Imagined: the unopened tax folder becomes "open the folder", a two-minute task somehow avoided for a month. Open the folder; that is the whole assignment today.
+*For example:* the unopened tax folder becomes "open the folder", a two-minute task somehow avoided for a month. Open the folder; that is the whole assignment today.
 
 ## Sources
 

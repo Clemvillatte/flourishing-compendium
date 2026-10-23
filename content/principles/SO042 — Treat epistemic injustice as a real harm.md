@@ -22,7 +22,7 @@ Fricker distinguishes a prejudice-driven credibility deficit from an interpretiv
 
 **Plain words** Write down what the person said and the reasons offered for accepting or discounting it. Consider whether prejudice affects that judgment. Then ask whether gaps in shared understanding make the experience harder to describe. Examine both questions without assuming they are mutually exclusive.
 
-*For example:* Imagined: a committee discounts a woman's account because members assume women are unreliable witnesses, rather than examining the evidence she offers.
+*For example:* a committee discounts a woman's account because members assume women are unreliable witnesses, rather than examining the evidence she offers.
 
 ## Sources
 

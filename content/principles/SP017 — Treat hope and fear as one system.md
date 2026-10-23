@@ -28,7 +28,7 @@ In the note, Spinoza connects greater guidance by reason with less dependence on
 
 **Plain words** While you await a result, the possibility of success may please you and the possibility of failure may hurt. Spinoza connects both responses to an outcome that remains uncertain. Their connection does not mean that their intensity must move together.
 
-*For example:* Imagined: someone awaiting a result alternates between anticipating good news and worrying about bad news.
+*For example:* someone awaiting a result alternates between anticipating good news and worrying about bad news.
 ## Psychology parallels
 
 - **[[Intolerance of uncertainty]]**, with tolerance training as the clinical target (Dugas et al., 1998; uncertainty-tolerance research)

@@ -22,7 +22,7 @@ On the sensory side, an editorial in the same year argues against reducing autis
 
 **Plain words** The editorial's argument is that sensory processing is not separate from an autistic person's social behaviour; it underlies it. The practical suggestion this page takes from that is an experiment, not a demonstrated consequence: when a behaviour causes difficulty, try changing the setting as well as, or before, asking the person to change. What works in any individual case is discovered by trying it. The survey's framing allows both sides at once: acknowledge the real difficulties and treat the pattern as a variation.
 
-**For example:** Imagined: an autistic employee struggles in an open-plan office, with noise and uninvited interruption. One experiment worth trying is a different setting, a quieter room or working from home, alongside asking what else might help. Whether the fit improves is something the experiment answers; the research does not guarantee it.
+***For example** an autistic employee struggles in an open-plan office, with noise and uninvited interruption. One experiment worth trying is a different setting, a quieter room or working from home, alongside asking what else might help. Whether the fit improves is something the experiment answers; the research does not guarantee it.
 
 ## Psychology parallels
 

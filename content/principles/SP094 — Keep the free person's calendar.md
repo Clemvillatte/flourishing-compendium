@@ -19,7 +19,7 @@ The refusals were the day's defense. When Charles Lewis, Elector Palatine, offer
 **Plain words**
 Colerus, who slept in the same house, records the shape of the day: glasses ground and sold through friends, most of the time spent quietly in the chamber, money refused when receiving it would divert him from his studies. The Heidelberg chair was declined for the same reason, teaching the young would be an obstacle to his own studies. The day's shape was how the philosophy survived.
 
-*For example:* Imagined: a researcher takes a post that consumes the exact hours the work used to live in. Spinoza's counterexample is on record: the chair was declined, civilly, in one sentence, and the day went back to the glasses and the studies.
+*For example:* a researcher takes a post that consumes the exact hours the work used to live in. Spinoza's counterexample is on record: the chair was declined, civilly, in one sentence, and the day went back to the glasses and the studies.
 
 ## Sources
 

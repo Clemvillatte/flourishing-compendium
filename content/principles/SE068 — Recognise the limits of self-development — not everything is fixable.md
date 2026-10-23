@@ -26,7 +26,7 @@ Rank-order consistency concerns how similarly people are ordered on traits acros
 Choose a specific change you are considering. Write down what you want to change, what support or practice it would require, and when you will review the effort. Include adjustments to your surroundings among the options you consider.
 
 *For example:*
-Imagined: After repeated attempts to become a morning person, a man decides to arrange his work later in the day and review that arrangement after a month.
+After repeated attempts to become a morning person, a man decides to arrange his work later in the day and review that arrangement after a month.
 
 ## Sources
 

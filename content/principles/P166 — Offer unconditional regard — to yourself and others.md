@@ -24,7 +24,7 @@ Acceptance, in this account, is not approval. Rogers describes "a caring for the
 Suppose someone admits something you find difficult to hear. You can listen to their experience and still discuss their conduct. Applied to yourself, the invitation is to describe a mistake without making self-acceptance conditional on having already corrected it.
 
 *For example:*
-Imagined: a teenager brings home a disappointing grade. The parent listens to the teenager's explanation, then asks whether they would like help reviewing the work.
+a teenager brings home a disappointing grade. The parent listens to the teenager's explanation, then asks whether they would like help reviewing the work.
 
 ## Sources
 

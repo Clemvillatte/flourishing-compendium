@@ -21,7 +21,7 @@ The usual objects are classified under "Riches, Fame, and the Pleasures of Sense
 **Plain words**
 A pursuit can be useful without being what your whole life is for. Ask what your work or income is meant to make possible, then whether it serves that purpose. Spinoza's inquiry allows useful means while questioning what deserves to be the final end.
 
-*For example:* Imagined: someone asks whether the promotion they want would support the purpose they give for pursuing it, or whether the purpose has quietly become the promotion itself.
+*For example:* someone asks whether the promotion they want would support the purpose they give for pursuing it, or whether the purpose has quietly become the promotion itself.
 
 ## Sources
 

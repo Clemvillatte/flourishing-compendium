@@ -23,7 +23,7 @@ The note supplies the qualification the title omits: "it is often necessary to a
 **Plain words**
 A favour carries the giver's estimate of its worth. If they expect you to share it and your gratitude falls short, they take offence, and the pressure is to follow their desires rather than reason. The free person avoids that difficulty where he can, accepts and repays in kind where he must, and declines with courtesy, because a rude refusal creates the very offence the rule was meant to avoid.
 
-*For example:* Imagined: a neighbour insists on paying for a repair you could have managed, then expects hours of help with his renovation in return. The free response thanks him, names the imbalance kindly, and either settles it in kind or politely declines the next favour.
+*For example:* a neighbour insists on paying for a repair you could have managed, then expects hours of help with his renovation in return. The free response thanks him, names the imbalance kindly, and either settles it in kind or politely declines the next favour.
 
 ## Sources
 

@@ -22,7 +22,7 @@ The compendium uses this gradient as one example of a social pattern described w
 
 **Plain words** Before proposing a change, ask members about their priorities and examine relevant information about the group. Use those findings to inform a proposal, then check its results. Collecting data does not by itself establish what will work.
 
-*For example:* Imagined: two community programmes — one assumes what the neighbourhood needs, the other surveys it first and finds the priority is the bus route, not the workshops.
+*For example:* two community programmes — one assumes what the neighbourhood needs, the other surveys it first and finds the priority is the bus route, not the workshops.
 
 ## Sources
 

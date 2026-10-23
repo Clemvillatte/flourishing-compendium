@@ -21,7 +21,7 @@ The grounding is the note to IV, P18: "to man there is nothing more useful than 
 **Plain words**
 Generosity here is a desire, and the desire's source is reason rather than pity or mood. The case for aiding others is arithmetic in Spinoza's system: of external things, nothing is more useful to you than another person in agreement with your nature, so joining others in friendship serves your own perseverance as much as theirs. Warmth can come along; the account does not rest on it.
 
-*For example:* Imagined: a colleague explains a broken process to a new hire, unprompted, because he wants the team to work and knows the fix. Whether he also felt warm about it does not change the act's standing in the account.
+*For example:* a colleague explains a broken process to a new hire, unprompted, because he wants the team to work and knows the fix. Whether he also felt warm about it does not change the act's standing in the account.
 
 ## Sources
 

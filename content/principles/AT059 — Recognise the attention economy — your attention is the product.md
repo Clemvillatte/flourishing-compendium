@@ -24,7 +24,7 @@ The cost falls on the receiver: "most of the cost of information is the cost inc
 A service can cost you no money and still take an hour of your day. Count that hour when deciding whether it is worth using, and ask what you got during it.
 
 *For example:*
-Imagined: a reader spends twenty minutes each morning in a free news app and records the time for a week before deciding whether to keep it.
+a reader spends twenty minutes each morning in a free news app and records the time for a week before deciding whether to keep it.
 
 ## Sources
 

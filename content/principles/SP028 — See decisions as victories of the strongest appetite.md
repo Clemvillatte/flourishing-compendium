@@ -19,7 +19,7 @@ In the scholium to Ethics III, Prop. II, Spinoza argues that a mental decision a
 
 **Plain words** Imagine describing one choice twice: first as deciding what to do, then as a bodily appetite. Spinoza's claim is that these are two accounts of one occurrence, not two separate events competing for control.
 
-*For example:* Imagined: a person reaches for food. Describe the occurrence once as a decision and once as a bodily appetite, using the distinction in the quoted passage.
+*For example:* a person reaches for food. Describe the occurrence once as a decision and once as a bodily appetite, using the distinction in the quoted passage.
 
 ## Psychology parallels
 

@@ -20,7 +20,7 @@ The same handout lists all-the-way additions: "Imagine understanding and empathy
 
 **Plain words** First consider whether acting on anger would help in this situation. If it would be ineffective, choose an alternative to attacking. The handout offers gentle avoidance, a time-out, kindness and considering the other person's perspective. Choose an appropriate response without assuming that you must return immediately to the conversation.
 
-*For example* Imagined: after a partner forgets a commitment, someone takes a slow-breathing time-out instead of opening with the list of past failures, then returns, asks what happened, and tries out a genuinely good reason for it before responding.
+*For example:* after a partner forgets a commitment, someone takes a slow-breathing time-out instead of opening with the list of past failures, then returns, asks what happened, and tries out a genuinely good reason for it before responding.
 
 ## Sources
 

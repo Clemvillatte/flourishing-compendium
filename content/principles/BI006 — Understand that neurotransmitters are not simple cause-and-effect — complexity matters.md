@@ -22,7 +22,7 @@ Efficacy is a separate question from mechanism, and it has its own large evidenc
 
 **Plain words** Two findings sit side by side and both belong in one head. First, the umbrella review found no support for the low-serotonin story, and a published critique argues that finding is itself overstated; what survives is the disagreement. Second, the studied drugs outperformed placebo in the trials, for the acute treatment of adults with major depressive disorder. So the pill can help without the popular story being true. That is this page's reason for caution about simple chemical stories, not a settled account of what depression is.
 
-**For example:** Imagined: someone says "my serotonin is low" and takes an SSRI that helps. The review says the self-diagnosis rests on a theory the evidence it examined does not support; the trials say the studied drugs outperformed placebo for the studied condition. Both can be true at once, which is the point of holding the complexity.
+***For example** someone says "my serotonin is low" and takes an SSRI that helps. The review says the self-diagnosis rests on a theory the evidence it examined does not support; the trials say the studied drugs outperformed placebo for the studied condition. Both can be true at once, which is the point of holding the complexity.
 
 ## Psychology parallels
 

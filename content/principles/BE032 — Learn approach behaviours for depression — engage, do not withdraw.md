@@ -20,7 +20,7 @@ The authors state that BA "is designed to help individuals approach and access s
 
 **Plain words** When depression leads you to withdraw, behavioural activation uses planned actions to help you reconnect with activities. Choose a manageable action instead of waiting until you feel ready.
 
-*For example* Imagined: the person who cannot imagine enjoying the party goes anyway and has one good hour.
+*For example:* the person who cannot imagine enjoying the party goes anyway and has one good hour.
 
 ## Sources
 

@@ -28,7 +28,7 @@ The accumulation evidence comes from the Berlin music academy: "for all four gro
 Even elite performers sustain full-attention practice for a limited number of hours a day; the daily amount starts at an hour or less and grows slowly. What separated skill levels in the study's data was not heroic sessions but years of accumulated practice, plus more sleep for those who practiced more.
 
 *For example:*
-Imagined: A writer starts with 45 focused minutes each morning and keeps a note of the session's interruptions. After a month, the writer reviews the notes before deciding whether to lengthen the session or add a second one.
+A writer starts with 45 focused minutes each morning and keeps a note of the session's interruptions. After a month, the writer reviews the notes before deciding whether to lengthen the session or add a second one.
 
 ## Sources
 

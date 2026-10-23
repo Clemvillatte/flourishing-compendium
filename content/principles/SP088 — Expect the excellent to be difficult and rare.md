@@ -21,7 +21,7 @@ The rarity argument is Spinoza's own: the way is hard because it is so seldom fo
 **Plain words**
 The last line of the Ethics is an argument. If the free life were easy to reach, its rarity would make no sense, because almost nobody neglects what is ready to hand. So the difficulty is part of the claim, not a defect in it. When the work is hard, that is the expected price, not a sign you took the wrong path.
 
-*For example:* Imagined: someone begins the practice expecting transformation in weeks, and finds years quoted instead. The re-budgeting is not disillusionment; the book ended by quoting the same price.
+*For example:* someone begins the practice expecting transformation in weeks, and finds years quoted instead. The re-budgeting is not disillusionment; the book ended by quoting the same price.
 
 ## Sources
 

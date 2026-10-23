@@ -22,7 +22,7 @@ The compendium applies the portrait to success: the man is praised for using for
 
 **Plain words** Use what came in, thank whoever helped, and go back to the plan. Watch whether success changes how you treat other people.
 
-*For example:* Imagined: after a promotion, someone thanks the team and keeps their morning routine unchanged.
+*For example:* after a promotion, someone thanks the team and keeps their morning routine unchanged.
 
 ## Sources
 

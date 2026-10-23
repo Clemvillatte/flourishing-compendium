@@ -30,7 +30,7 @@ Musonius's ground is that "marriage, if anything, is manifestly in accord with n
 
 **Plain words** Reading about patience leaves a practical question: what will you do when a relative interrupts your plans? You might listen before answering, keep an agreed promise, or explain calmly why you cannot help today. These are ways to try the principle in daily life.
 
-For example: Imagined: someone whose evening practice is Stoic reading, and whose mother calls every night to worry, takes the call itself as the practice: listening without fixing, keeping the tone even, ending warmly.
+For example: someone whose evening practice is Stoic reading, and whose mother calls every night to worry, takes the call itself as the practice: listening without fixing, keeping the tone even, ending warmly.
 
 ## Psychology parallels
 

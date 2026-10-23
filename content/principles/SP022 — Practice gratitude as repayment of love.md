@@ -20,7 +20,7 @@ Spinoza defines gratitude as a desire springing from love: wanting to benefit so
 
 **Plain words** Think of a favour given out of care. Do you now want to help that person? Spinoza's definition concerns that wish to benefit the giver, whether or not you have acted on it. The condition it names is the giver's own love: the benefit was conferred with similar feelings of love, and the wish answers in kind.
 
-*For example:* Imagined: a mentor gives you time and advice. Later, wanting to help that mentor, you offer assistance with their project.
+*For example:* a mentor gives you time and advice. Later, wanting to help that mentor, you offer assistance with their project.
 ## Psychology parallels
 
 - **[[Gratitude|Gratitude interventions]]**, modest but reliable effects on well-being (Wood et al., 2010)

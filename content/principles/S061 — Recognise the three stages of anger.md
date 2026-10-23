@@ -22,7 +22,7 @@ The stages are not equally voluntary. The first is given; the second is the mind
 
 **Plain words** An insult may bring a jolt before you have considered it. Seneca distinguishes that jolt from judging that revenge is deserved, and then from insisting on revenge even when reason objects. His third stage concerns that insistence, whether or not you have acted. Examine the claim that retaliation is owed while you can still reject it.
 
-For example: Imagined: your pulse jumps at an insult. You notice the thought "I ought to get even", question it, and answer the criticism without returning an insult.
+For example: your pulse jumps at an insult. You notice the thought "I ought to get even", question it, and answer the criticism without returning an insult.
 
 ## Psychology parallels
 

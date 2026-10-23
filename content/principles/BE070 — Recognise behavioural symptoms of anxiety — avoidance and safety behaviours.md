@@ -20,7 +20,7 @@ The authors report a consensus to phase out safety signals during exposure thera
 
 **Plain words** Write down what you fear will happen and what you do to prevent it. In treatment, you and your clinician can examine whether that precaution is getting in the way of testing the prediction.
 
-*For example* Imagined: someone worries that they will freeze during a call and relies on a word-for-word script. They bring that prediction and the script to therapy to discuss an appropriate test.
+*For example:* someone worries that they will freeze during a call and relies on a word-for-word script. They bring that prediction and the script to therapy to discuss an appropriate test.
 
 ## Sources
 

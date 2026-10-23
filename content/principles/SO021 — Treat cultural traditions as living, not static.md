@@ -22,7 +22,7 @@ Gadamer describes understanding as participation in the continuing formation of 
 
 **Plain words** Choose a tradition you take part in. Describe how it is practised now and, where you know, how earlier participants practised it. Note what you would keep, change or ask about, and discuss those choices with others involved.
 
-*For example:* Imagined: a holiday dinner unrecognisable to great-grandmother — different foods, different faces — where the same function of gathering is served.
+*For example:* a holiday dinner unrecognisable to great-grandmother — different foods, different faces — where the same function of gathering is served.
 
 ## Sources
 
