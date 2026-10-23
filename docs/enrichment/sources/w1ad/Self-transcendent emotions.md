@@ -1,4 +1,8 @@
-# Self-transcendent emotions (w1ad, worker-w1ad-pplx-a91f2c03, 2026-10-22)
+# Self-transcendent emotions — w1ad takeover (worker-pplx-w1ad-436b6873, 2026-10-23)
 
-- Opened: UCLouvain research-portal publication page for Van Cappellen, Toth-Gauthier, Saroglou & Fredrickson 2016, "Religion and well-being: The mediating role of positive emotions" (Journal of Happiness Studies 17(2), 485-505) (https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9) — fetched once; both page quotes verified verbatim against the returned abstract: the two-contexts mediation sentence and the self-transcendent (awe, gratitude, love, and peace) vs amusement-and-pride sentence.
-- Verification limits: the opening gloss ("orient a person beyond their own concerns... response to something perceived as greater or better than the self") is a framing consistent with the abstract's religious/spiritual-context wording, not a quote; the broader STPE literature (elevation, admiration, compassion) was not opened for this item. PP041 link preserved.
+Item class: prose-short expansion found in the w1ad manifest sweep (98 -> 150+ words).
+Carrier opened this session: Van Cappellen et al. 2016, Journal of Happiness Studies,
+abstract fetched from the UCLouvain repository record. Both pre-existing quotes re-verified
+verbatim against the fetched abstract. New prose (opening contrast set + framing paragraph)
+paraphrases only abstract passages (consistent-finding framing, social/cognitive usual
+explanations, surprisingly neglected mechanism, split by context). Validator ok.

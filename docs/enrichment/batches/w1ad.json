@@ -9,7 +9,6 @@
   "Self-legislation",
   "Self-making",
   "Self-transformation over information",
-  "Self-transcendent emotions",
   "Self-perception theory",
   "Self-talk research",
   "Self-trust",
@@ -67,7 +66,8 @@
   "Sparse speech",
   "Stigma research",
   "Source credibility research",
-  "Te Whare Tapa Whā"
+  "Te Whare Tapa Whā",
+  "Self-transcendent emotions"
  ],
  "in_progress": null,
  "flagged": {
@@ -78,7 +78,7 @@
   "Self-legislation": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-legislation.md",
   "Self-making": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-making.md",
   "Self-transformation over information": "OPEN — supervisor re-verification needed (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor final-round repairs applied (label attribution scoped, translation credit removed, gloss removed); quotes verified verbatim against the opened third-party online copy (vdoc.pub) of Hadot's Philosophy as a Way of Life, which states no edition/translator credits; the two Stoic sentences were returned as consecutive text by the extraction ('The text continues:') but adjacency is unverified against a publisher text — this item should NOT count as fully source-verified until re-checked",
-  "Self-transcendent emotions": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-transcendent emotions.md",
+  "Self-transcendent emotions": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
   "Self-perception theory": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-perception theory.md",
   "Self-talk research": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-talk research.md",
   "Self-trust": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-trust.md",
@@ -111,6 +111,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:19:14+00:00",
+ "updated": "2026-10-23T06:19:44+00:00",
  "band_done": false
 }
