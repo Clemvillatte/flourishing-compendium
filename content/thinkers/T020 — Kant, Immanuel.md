@@ -46,4 +46,4 @@ The reasoning runs backward from what a categorical imperative could be grounded
 ## Sources
 
 - [Kant, Groundwork of the Metaphysics of Morals, trans. T. K. Abbott (MIT excerpt PDF)](https://openlearninglibrary.mit.edu/assets/courseware/v1/d724068ab9d302a3eba40f625520f510/asset-v1:MITx+24.02x+2T2020+type@asset+block@L11_Kant_Groundwork.pdf) — the 4:429 humanity formulation; already opened on the compendium's Persons as ends page.
-- [Kant, Perpetual Peace (Project Gutenberg #50922)](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm) — the Third Definitive Article and the hospitality definition; opened this session and verified verbatim.
+- [Kant, Perpetual Peace (Project Gutenberg #50922)](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm) — the Third Definitive Article and the hospitality definition; verified verbatim.
