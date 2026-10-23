@@ -1,12 +1,12 @@
 {
  "batch": "t1b",
- "done": [
-  "Marcus Aurelius"
- ],
- "in_progress": null,
- "flagged": [],
+ "done": [],
+ "in_progress": "Marcus Aurelius",
+ "flagged": {
+  "Marcus Aurelius": "QC round 1 (advisor): translation credit wrong (Gutenberg 2680 is Casaubon 1634/1635 comparison edition, not Long 1862); unsupported claims (daily correspondent, philosophical anchor Epictetus, left unpublished, three-themes ranking); no verbatim Meditations quote; Granua passage is Book I.15; t1b band self-minted \u2014 supervisor reconciliation pending"
+ },
  "missing_concepts": [],
- "sources_checked": [],
- "updated": "2026-10-23T05:20:27+00:00",
+ "sources_checked": 0,
+ "updated": "2026-10-23T00:00:00Z",
  "band_done": false
 }
