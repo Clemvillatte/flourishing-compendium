@@ -470,3 +470,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The Tolin *Doing CBT* book (commercial) remains unopened; the seed's attribution (Tolin pp. 337-338 decatastrophizing, pp. 373-374 core-belief, after Greenberger/Padesky 2016 and Burns 1980) is preserved; the two opened carriers are Burns himself (the originator, from the 1980 Feeling Good vertical-arrow technique) and a university clinical handout carrying the same steps; the Mentalyc worksheet FAQ independently confirms the 1980 origin and the Burns 2017 question form.
 - Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (same class as K401-K407); Related concepts retargeted to existing pages only (Cognitive restructuring, Cognitive distortions, Belief evaluation in CBT — existence checked; the "Core beliefs" standalone does not exist); dashes reduced to 3.
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K367 — The "Yes, but" flip (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- QC-hold item (procedure-provenance): the but-to-and move was attributed to Drapkin's workbook at second hand.
+- RESOLUTION THIS SESSION: the MI-tradition formulation of the same move found and verified verbatim against a freshly opened published MI training carrier — All Rise (NADCP) Motivational Interviewing VTC Toolkit PDF: "the structure for double-sided reflections is to start with the sustain talk and ending with the change talk, because people tend to continue talking about the last topic they heard. Additionally, using 'and' rather than 'but' honors the presence of ambivalence without negating it." Also verified in the centrecmi.ca MI Foundations Workbook PDF (sustain-first-then-change form).
+- Page updated: the All Rise quote added to the Evidence section with a new citation; the What-the-sources-do-not-test paragraph honestly scoped (the Drapkin attribution remains second-hand, but the move is now grounded in published MI training materials); the All Rise citation added to Sources.
+- The Drapkin workbook (New Harbinger, 2023) remains an unreachable commercial carrier; flagged K367 is PARTIALLY RESOLVED in the state file (the move is grounded; the Drapkin attribution remains unverified).
+- Customer-facing grep clean; validator ok, 0 failed.
