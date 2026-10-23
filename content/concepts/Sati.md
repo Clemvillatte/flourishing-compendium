@@ -7,9 +7,11 @@ file: "Sati"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Sati (Pali; Sanskrit smṛti, "memory" or "mindfulness") is the Buddhist faculty of present-moment awareness — keeping something in mind, vividly, without commentary. The Satipaṭṭhāna Sutta (MN 10; DN 22) gives its full training: the four foundations of mindfulness — body, feeling, mind, and mental qualities — each observed "in and of itself", ardent, alert, and mindful, putting aside greed and distress with reference to the world.
+Sati (Pali; Sanskrit smṛti, "memory" or "mindfulness") is the Buddhist faculty of present-moment awareness: keeping something in mind, vividly, without commentary. The Satipaṭṭhāna Sutta (MN 10; DN 22) gives its full training: the four foundations of mindfulness, body, feeling, mind, and mental qualities, each observed with the refrain the sutta repeats for every foundation:
 
-The compendium's reading (principle B011): mindfulness is the master tool. It is not a relaxation technique but the precondition for every other training — you cannot investigate a craving, steady a mind, or let go of what you do not first see. The practices that embody it in this corpus are anapanasati (mindfulness of breathing, B038), the four foundations (B039), noting lightly (B056), and the ordinary-cue reminders (B188) that turn a doorframe or a red light into a bell of recall.
+> "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." (Satipaṭṭhāna Sutta MN 10, [Thanissaro translation, AccessToInsight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+
+The compendium's reading (principle B011): mindfulness is the master tool. It is not a relaxation technique but the precondition for every other training: you cannot investigate a craving, steady a mind, or let go of what you do not first see. The practices that embody it in this corpus are anapanasati (mindfulness of breathing, B038), the four foundations (B039), noting lightly (B056), and the ordinary-cue reminders (B188) that turn a doorframe or a red light into a bell of recall.
 
 Sati's cross-tradition family is the attention-traditions: Weil's attention as the rarest form of generosity, Husserl's [[Epoché|epoché]], Csikszentmihalyi's flow (absorption without self-consciousness), and the secularized mindfulness of Kabat-Zinn. What distinguishes sati is its explicit pairing with clear comprehension — it is mindful awareness in service of insight, not calm alone.
 
@@ -25,6 +27,7 @@ Sati's cross-tradition family is the attention-traditions: Weil's attention as t
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 ## Sources
 
+- [Satipaṭṭhāna Sutta (MN 10), trans. Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the refrain quoted verbatim
 - Buddha, Satipaṭṭhāna Sutta (MN 10)
 - Buddha, Mahāsatipaṭṭhāna Sutta (DN 22)
 - Buddha, Ānāpānasati Sutta (MN 118)
