@@ -35,7 +35,7 @@ The nearest research is an intergenerational program in which the elders are the
 
 > "Experience Corps (EC) represents a high-intensity, intergenerational civic engagement activity where older adults serve as mentors and tutors in elementary schools." — [Varma et al., 2015, The Gerontologist 55(6), Abstract](https://pubmed.ncbi.nlm.nih.gov/24589989/)
 
-The volunteers in the study, 46 in focus groups, reported both stressors and rewards, including "children's problem behavior" alongside "developing a special connection with a child". The authors' conclusion: "Overall, intergenerational, interpersonal, and personal rewards from volunteering, as well as program structure may have balanced the stress associated with volunteering" ([Varma et al., 2015, Abstract](https://pubmed.ncbi.nlm.nih.gov/24589989/)).
+The volunteers in the study, 46 in focus groups, reported both stressors and rewards, including "children's problem behavior" alongside "developing a special connection with a child" ([Varma et al., 2015, Abstract](https://pubmed.ncbi.nlm.nih.gov/24589989/)). The authors' conclusion: "Overall, intergenerational, interpersonal, and personal rewards from volunteering, as well as program structure may have balanced the stress associated with volunteering." ([Varma et al., 2015, Abstract](https://pubmed.ncbi.nlm.nih.gov/24589989/))
 
 What this evidence does not test: the cited research gathered the volunteers' perspectives; it did not measure benefits for the mentees, and a standing arrangement of regular conversation is not the EC program it studied.
 

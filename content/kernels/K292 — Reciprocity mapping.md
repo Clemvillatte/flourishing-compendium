@@ -36,7 +36,7 @@ The nearest research is equity theory in intimate relationships, here under a se
 
 > "It was found that in general patients seemed most sensitive to underbenefit (i.e. they felt least satisfied), and experienced on average least positive and most negative affect when they felt underbenefited." — [Kuijer, Buunk, Ybema & Wobbes, 2002, British Journal of Social Psychology 41(1), Abstract](https://pubmed.ncbi.nlm.nih.gov/11970773/)
 
-The findings include an unexpected direction: only male patients on average felt overbenefited, and the partners did not feel underbenefited as expected. Perceived balance tracked satisfaction, and the direction of the perception was not the obvious one.
+The findings include an unexpected direction: only male patients on average felt overbenefited, and the partners did not feel underbenefited as expected ([Kuijer et al., 2002, Abstract](https://pubmed.ncbi.nlm.nih.gov/11970773/)). Perceived balance tracked satisfaction, and the direction of the perception was not the obvious one.
 
 What this evidence does not test: the cited research examined 68 cancer patients and their partners; it did not evaluate a relationship map, and a drawing exercise is not an equity measurement.
 

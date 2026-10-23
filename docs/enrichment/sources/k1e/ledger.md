@@ -161,3 +161,13 @@
 - K292: Analects 15:24 blockquote now copies the carrier's punctuation directly (outer double quotes, inner single quotes around 'reciprocity', no extra wrapper); Kuijer quotation restored to the complete sentence including "It was found that..."; the shu passage relabelled an ethical constraint on treatment of others with the balance question labelled editorial; "single-thread" wording removed (that exchange is Analects 4:15, not the quoted 15:24); "monthly" removed from the drawing-exercise limit.
 - K293: the Varma conclusion quoted as the complete sentence ("...may have balanced the stress associated with volunteering."); "The study's own honesty" commentary replaced with the concrete finding; "(same abstract)" replaced with the inline link.
 - All five pages revalidated (5 checked, 0 failed) and customer-facing sweep clean.
+
+## QC round 2, items 12-16 (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Second advisor recheck returned FAIL-with-repairs; all applied:
+- K286: the Long attribution was NOT verifiable from the carrier (Gutenberg 2680 catalogue and ebook credits name no translator; the intro only lists Long among eight historical translations) — attribution removed; the page now cites "Marcus Aurelius, Meditations X.6 (Project Gutenberg 2680, ebook credits no translator)". The prior ledger entry's "verified" claim for this attribution is corrected here: it was not verified, and has been withdrawn from the page.
+- K277: Meichenbaum locators corrected from PDF-index inference to printed pagination verified against the rendered PDF — the minor-stressors rationale and inoculation rule are on printed p. 5 (PDF page 6, footer "5"); the session-count and three-phases material on printed p. 13 (PDF page 14, footer "13"). The session-count quotation is now a standalone sentence with the carrier's period inside the quotation, with its own inline link.
+- K279: the bridge sentence ("The psychology of the moving goalpost is hedonic adaptation...") rewritten to present hedonic adaptation as related background ("A related body of research is hedonic adaptation..."); the revision quotation sentence now carries its own inline link.
+- K293: the Varma conclusion quotation now ends with the carrier's period inside the quotation, with its own inline link; the 46-volunteers sentence now carries its own inline link.
+- K292: the findings paragraph now carries its own inline link.
+- All five pages revalidated (5 checked, 0 failed); customer-facing sweep clean.

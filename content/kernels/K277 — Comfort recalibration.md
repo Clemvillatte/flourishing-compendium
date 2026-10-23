@@ -42,9 +42,9 @@ The comparison with stress inoculation training is conceptual, not a dosing rule
 
 Stress inoculation training, in its author's overview chapter:
 
-> "SIT, which is designed to intervene with humans at the psychosocial level, provides individuals with experience with minor stressors that fosters psychological preparedness and promotes resilience." — [Meichenbaum, Stress Inoculation Training chapter, p. 4](http://brown.uk.com/anxiety/stress-inoculation.pdf)
+> "SIT, which is designed to intervene with humans at the psychosocial level, provides individuals with experience with minor stressors that fosters psychological preparedness and promotes resilience." — [Meichenbaum, Stress Inoculation Training chapter, p. 5](http://brown.uk.com/anxiety/stress-inoculation.pdf)
 
-The same overview describes the clinical form: "In most instances in the clinical domain, SIT consists of some 8 - 15 sessions, plus booster and follow-up sessions conducted over a 3 - 12 month period", in three phases, "conceptualization, skills acquisition and consolidation, application and follow-through" (p. 12).
+The same overview describes the clinical form: "In most instances in the clinical domain, SIT consists of some 8 - 15 sessions, plus booster and follow-up sessions conducted over a 3 - 12 month period." It runs in three phases, "conceptualization, skills acquisition and consolidation, application and follow-through" ([Meichenbaum, chapter p. 13](http://brown.uk.com/anxiety/stress-inoculation.pdf)).
 
 What this evidence does not test: the cited work is an overview of a clinician-delivered intervention; it did not evaluate cold showers, skipped meals or self-administered discomfort practices.
 
