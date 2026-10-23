@@ -355,3 +355,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The Williams/Penman book itself (commercial) remains unopened; the OMC handbook (derived from the same authors) is the opened carrier of the instruction; the Heroic summary is a secondary source for the ch. 5 framing — flagged for the next pass to swap for a book-adjacent primary if one becomes reachable.
 - Related concepts retargeted to existing pages only (Mindfulness-based cognitive therapy, Mindfulness, Habit formation — existence checked; the "Habit" standalone does not exist).
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K392 — The Three-minute Breathing Space (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~230-word seed rebuilt to the K100 model (593 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: OSU-hosted MBCT Session 3 participant handout (Rockman) — the full three-step Becoming-Aware/Gathering/Expanding text plus the "automatic pilot" closing read verbatim; CU Scholar Brewer et al. 2025 dissemination paper — the "awareness, gathering, and expanding (p.184)" construct sentence read verbatim; search results from WCU, EIMJ, Routledge, Insight Timer confirm the same wording.
+- The Segal/Williams/Teasdale 2nd-edition book (commercial Guilford) remains unopened; the OSU handout carries the instructions verbatim from the same MBCT teaching tradition (Rockman attribution); the CU Scholar paper gives the book's p. 184 locator.
+- Original Operationalises line preserved exactly; bold markers in the header paragraph simplified to plain numbered prose after the validator's bold-in-prose catch; the Autopilot Related-concepts link (no such page) removed; Related concepts retargeted to existing pages (Mindfulness-based cognitive therapy, Decentering, Present-moment awareness theory, Anapanasati) after enrich_find.py existence checks.
+- Customer-facing grep clean; validator ok, 0 failed.
