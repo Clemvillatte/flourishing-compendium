@@ -1,14 +1,225 @@
-{"reciprocal": [
- {"into": "Grief for what passes", "link": "Sorrow's fruit", "why": "Gibran's image of joy and sorrow from one well belongs beside the compendium's account of grief for what passes"},
- {"into": "Impermanence", "link": "Sorrow's fruit", "why": "the lotus-leaf consolation rests on the same impermanence this concept maps"},
- {"into": "Complicated grief research", "link": "Sorrow's fruit", "why": "the clinical study of grief that does not resolve, next to the literary image of grief that converts"},
- {"into": "Ecological grief", "link": "Sorrow's fruit", "why": "grief with no single personal loss, read against the image of sorrows falling away"},
- {"into": "The insatiability of craving", "link": "The bondage of desire", "why": "the flood-and-reed image of tanha's hold belongs beside the analysis of why craving never fills"},
- {"into": "The craving-to-addiction model", "link": "The bondage of desire", "why": "the modern mechanism of craving compared with the Dhammapada's root image"},
- {"into": "Self-cultivation", "link": "The Axial Age", "why": "the Confucian program of self-work is one of the age's developments this page inventories"},
- {"into": "Socratic wisdom", "link": "The Axial Age", "why": "the Greek side of the axial turn this page dates"},
- {"into": "Ciphers of transcendence", "link": "The Axial Age", "why": "Jaspers coined both terms; the ciphers are his later account of the transcendence the Axial Age turned toward"},
- {"into": "Practical wisdom", "link": "The Axial Age", "why": "Aristotelian phronesis is the age's Greek wing in this page's inventory"},
- {"into": "Spiritual exercises", "link": "Self-transformation over information", "why": "the exercises are the instrument of the Hadot transformation this page describes"},
- {"into": "Klesha transmuted into wisdom", "link": "Self-transformation over information", "why": "the Buddhist version of afflictions as material for the path, beside Hadot's philosophy as transformation"}
-], "inline": []}
+{
+ "reciprocal": [
+  {
+   "into": "Grief for what passes",
+   "link": "Sorrow's fruit",
+   "why": "Gibran's image of joy and sorrow from one well belongs beside the compendium's account of grief for what passes"
+  },
+  {
+   "into": "Impermanence",
+   "link": "Sorrow's fruit",
+   "why": "the lotus-leaf consolation rests on the same impermanence this concept maps"
+  },
+  {
+   "into": "Complicated grief research",
+   "link": "Sorrow's fruit",
+   "why": "the clinical study of grief that does not resolve, next to the literary image of grief that converts"
+  },
+  {
+   "into": "Ecological grief",
+   "link": "Sorrow's fruit",
+   "why": "grief with no single personal loss, read against the image of sorrows falling away"
+  },
+  {
+   "into": "The insatiability of craving",
+   "link": "The bondage of desire",
+   "why": "the flood-and-reed image of tanha's hold belongs beside the analysis of why craving never fills"
+  },
+  {
+   "into": "The craving-to-addiction model",
+   "link": "The bondage of desire",
+   "why": "the modern mechanism of craving compared with the Dhammapada's root image"
+  },
+  {
+   "into": "Self-cultivation",
+   "link": "The Axial Age",
+   "why": "the Confucian program of self-work is one of the age's developments this page inventories"
+  },
+  {
+   "into": "Socratic wisdom",
+   "link": "The Axial Age",
+   "why": "the Greek side of the axial turn this page dates"
+  },
+  {
+   "into": "Ciphers of transcendence",
+   "link": "The Axial Age",
+   "why": "Jaspers coined both terms; the ciphers are his later account of the transcendence the Axial Age turned toward"
+  },
+  {
+   "into": "Practical wisdom",
+   "link": "The Axial Age",
+   "why": "Aristotelian phronesis is the age's Greek wing in this page's inventory"
+  },
+  {
+   "into": "Spiritual exercises",
+   "link": "Self-transformation over information",
+   "why": "the exercises are the instrument of the Hadot transformation this page describes"
+  },
+  {
+   "into": "Klesha transmuted into wisdom",
+   "link": "Self-transformation over information",
+   "why": "the Buddhist version of afflictions as material for the path, beside Hadot's philosophy as transformation"
+  },
+  {
+   "into": "Self-distancing",
+   "link": "Self-talk research",
+   "why": "the self-talk research this page summarizes is the instrument self-distancing studies from the outside"
+  },
+  {
+   "into": "Vygotsky's sociocultural theory",
+   "link": "Self-talk research",
+   "why": "the verbal self-regulation theory the athlete self-talk study cites as its frame"
+  },
+  {
+   "into": "Rumination",
+   "link": "Self-talk research",
+   "why": "the repetitive end of what self-talk research measures"
+  },
+  {
+   "into": "The dichotomy of control",
+   "link": "Serene acceptance of necessity",
+   "why": "the Enchiridion sorting this acceptance rests on"
+  },
+  {
+   "into": "Amor fati",
+   "link": "Serene acceptance of necessity",
+   "why": "the Stoic discipline of wanting what happens, beside the Nietzschean formula"
+  },
+  {
+   "into": "Acceptance",
+   "link": "Serene acceptance of necessity",
+   "why": "the clinical counterpart of wishing things as they happen"
+  },
+  {
+   "into": "The art of letting go",
+   "link": "Serene acceptance of necessity",
+   "why": "the letting-go practice the serenity names"
+  },
+  {
+   "into": "Bad faith",
+   "link": "Seriousness (le sérieux)",
+   "why": "de Beauvoir's serious man and Sartre's bad faith are neighboring evasions of freedom"
+  },
+  {
+   "into": "Authenticity",
+   "link": "Seriousness (le sérieux)",
+   "why": "the freedom the spirit of seriousness trades away"
+  },
+  {
+   "into": "Gradual training",
+   "link": "Subitism",
+   "why": "the gradualist pole the Platform Sutra sets sudden seeing against"
+  },
+  {
+   "into": "Buddha-nature",
+   "link": "Subitism",
+   "why": "the always-already purity Huineng's verse claims"
+  },
+  {
+   "into": "Koan practice",
+   "link": "Subitism",
+   "why": "the Chan tool for the ready mind subitism presupposes"
+  },
+  {
+   "into": "Original enlightenment",
+   "link": "Subitism",
+   "why": "the doctrinal cousin that grounds suddenness in what is already present"
+  },
+  {
+   "into": "Silence as evidence",
+   "link": "Survivorship bias",
+   "why": "the absent data point read as a signal, the survivorship method in evidence terms"
+  },
+  {
+   "into": "Availability heuristic",
+   "link": "Survivorship bias",
+   "why": "the easily-seen crowd is also the biased sample"
+  },
+  {
+   "into": "Base rate neglect / representativeness heuristic",
+   "link": "Survivorship bias",
+   "why": "reading the visible cases as the whole distribution"
+  },
+  {
+   "into": "Dual-process theory",
+   "link": "System 1 and System 2",
+   "why": "the parent framework Kahneman's two systems popularize"
+  },
+  {
+   "into": "Unconscious thought theory (Dijksterhuis)",
+   "link": "System 1 and System 2",
+   "why": "another automatic-versus-deliberate contrast"
+  },
+  {
+   "into": "Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)",
+   "link": "System 1 and System 2",
+   "why": "the rival reading of fast thinking as adaptive"
+  },
+  {
+   "into": "Non-attachment",
+   "link": "The art of letting go",
+   "why": "the Buddhist stance the raft practice trains"
+  },
+  {
+   "into": "Impermanence",
+   "link": "The art of letting go",
+   "why": "the mark that makes letting go timely"
+  },
+  {
+   "into": "Wabi-sabi",
+   "link": "The art of letting go",
+   "why": "the aesthetic of release and imperfection"
+  },
+  {
+   "into": "Unresolved-goal interference",
+   "link": "The art of letting go",
+   "why": "what stuck goals cost while they stay stuck"
+  },
+  {
+   "into": "Eudaimonia",
+   "link": "Spiritual joy",
+   "why": "the activity this joy is the felt side of"
+  },
+  {
+   "into": "Hedonic adaptation",
+   "link": "Spiritual joy",
+   "why": "the treadmill the working-of-the-soul account is set against"
+  },
+  {
+   "into": "The hedonic trap of seeking peak experiences",
+   "link": "Spiritual joy",
+   "why": "the consumed joy contrasted with earned gladness"
+  },
+  {
+   "into": "Ecological ethics",
+   "link": "Stewardship",
+   "why": "the field that gives stewardship its modern argument"
+  },
+  {
+   "into": "Servant leadership",
+   "link": "Stewardship",
+   "why": "the leadership form the steward stance takes"
+  },
+  {
+   "into": "Te Whare Tapa Whā",
+   "link": "Stewardship",
+   "why": "a wellbeing model that puts collective care in the walls"
+  },
+  {
+   "into": "Authenticity",
+   "link": "Self-trust",
+   "why": "the owning of one's own mind Emerson's essay demands"
+  },
+  {
+   "into": "Choice of self",
+   "link": "Self-trust",
+   "why": "the self-reliant stance as an existential choice"
+  },
+  {
+   "into": "Self-legislation",
+   "link": "Self-trust",
+   "why": "the Kantian version of the same authority"
+  }
+ ],
+ "inline": []
+}

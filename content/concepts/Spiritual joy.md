@@ -17,6 +17,12 @@ Spiritual joy, in the compendium's Aristotelian frame, is the gladness that belo
 
 Because happiness is a working, joy here is a by-product of activity rather than a target to be aimed at directly. The compendium's principle B118 carries this into the Buddhist register, where gladness (piti) is treated as part of the path rather than a distraction from it: B118 reads a sutta that lists rapture among the factors that raise a sluggish mind. For a writer on flourishing, the page's essay angle is this: joy that lasts is tied to what one is doing with one's soul, not to what one is consuming; the Ethics denies that happiness lies in pastimes and bodily pleasures, which "any ordinary person, or even a slave, might enjoy".
 
+## Related concepts
+
+- [[Eudaimonia]] — the activity this joy is the felt side of
+- [[Hedonic adaptation]] — the treadmill the working-of-the-soul account is set against
+- [[The hedonic trap of seeking peak experiences]] — the consumed joy this page contrasts with earned gladness
+
 ## Sources
 
 - Aristotle, The Nicomachean Ethics of Aristotle, Book I, D.P. Chase translation, Project Gutenberg full text: [gutenberg.org/cache/epub/8438/pg8438.txt](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)

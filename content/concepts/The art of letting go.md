@@ -17,6 +17,13 @@ The art of letting go is the Buddhist practice of releasing what has served its 
 
 The exercise is to hold things the way the traveler holds the raft: fully, while crossing. Goal research describes the same skill from the outside: in three studies, people's ability to "abandon unattainable goals and reengage their efforts in alternative goals" went together with "ratings of high subjective well-being" (Wrosch et al., 2003, [PubMed](https://pubmed.ncbi.nlm.nih.gov/15018681/)). The compendium's principle MO058 carries that consequence. What the simile adds is the inner stance: gratitude for what carried you, and no complaint at leaving it on the shore.
 
+## Related concepts
+
+- [[Non-attachment]] — the Buddhist stance the raft practice trains
+- [[Impermanence]] — the mark that makes letting go timely
+- [[Wabi-sabi]] — the aesthetic of release and imperfection
+- [[Unresolved-goal interference]] — what stuck goals cost while they stay stuck
+
 ## Sources
 
 - Alagaddupama Sutta (MN 22), the raft simile, translated from the Pali by Thanissaro Bhikkhu, AccessToInsight: [accesstoinsight.org/tipitaka/mn/mn.022.than.html](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html)
