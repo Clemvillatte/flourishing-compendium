@@ -23,6 +23,10 @@ Socrates supplies the older slogan: "the life which is unexamined is not worth l
 
 *For example:* Imagine a student logs motivation before morning and midday study sessions. After two weeks, she compares the notes and chooses one schedule change to test.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the older slogan the page quotes: the unexamined life is not worth living (Apology 38a).
+
 ## Sources
 
 - [Zimmerman, Becoming a Self-Regulated Learner: An Overview, Theory Into Practice 2002](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/zimmerman_2002.pdf) — 41(2), 64-70

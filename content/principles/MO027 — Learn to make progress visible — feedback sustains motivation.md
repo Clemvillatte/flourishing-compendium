@@ -22,6 +22,10 @@ If you can't see any movement, effort feels pointless. Write the movement down, 
 **For example**
 Keep a one-line log at the end of each writing session: date, what moved forward, and the word count or section finished. Read the last week of entries before you start the next one.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-data parallel behind visible progress.
+
 ## Sources
 
 - [Amabile and Kramer, "The Power of Small Wins", HBR 2011](https://hbr.org/2011/05/the-power-of-small-wins)

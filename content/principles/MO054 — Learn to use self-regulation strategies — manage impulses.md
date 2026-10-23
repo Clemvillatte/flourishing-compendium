@@ -30,6 +30,10 @@ Duckworth, Gendler and Gross organize self-control strategies by when they inter
 
 *For example:* The urge to snap in the meeting arrives; the skill is what happens next. A breath, a different reading of what the other person meant, or silence until the heat passes.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-strategy parallel the page draws.
+
 ## Sources
 
 - [Baumeister, Vohs & Tice, "The Strength Model of Self-Control", Current Directions in Psychological Science 16(6), 2007 (PDF)](https://public.websites.umich.edu/~prestos/Consumption/pdfs/BaumeisterVohsTice2007.pdf) — the definition of self-control; the self-regulation demand list

@@ -20,6 +20,10 @@ The review recommends self-monitoring to help identify cues and responses ([Gard
 
 *For example:* The Verhoeven snacking diary above: seven days of recording what, when, where, after what, and with whom, and the diary group subsequently reported less unhealthy snacking than the no-diary group ([Gardner et al., 2021, p. 14](https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf)).
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-data parallel behind habit tracking.
+
 ## Sources
 
 - [Gardner, B., Richards, R., Lally, P., Rebar, A., Thwaite, T., & Beeken, R. (2021). Breaking habits or breaking habitual behaviours? Old habits as a neglected factor in weight loss maintenance. Appetite, 162, 105183 — author accepted manuscript via UCL Discovery (quotes from pp. 7 and 14)](https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf) — the awareness passage, vigilant monitoring, and the Verhoeven diary study

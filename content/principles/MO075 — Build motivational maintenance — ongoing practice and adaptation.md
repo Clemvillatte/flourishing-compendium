@@ -23,6 +23,10 @@ Wrosch and colleagues examined goal adjustment and physical health across three 
 
 *For example:* Imagine an evening course now overlaps with a new work shift. The student checks the weekend timetable before deciding whether to change classes or postpone enrolment.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined life as ongoing practice (Apology 38a), the page's grounding for maintenance.
+
 ## Sources
 
 - [Dhammapada 20 (Magga-vagga), v. 276, trans. Acharya Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html)

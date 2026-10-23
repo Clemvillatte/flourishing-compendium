@@ -36,6 +36,10 @@ Bringing these passages together is the compendium's practical comparison.
 
 *For example:* Imagine disagreeing with a colleague about whether a project is going well. Before defending your assessment, you could ask what each of you is positioned to see, and what the other's position shows that yours does not.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the Theaetetus exchange where Socrates works through Protagoras' measure doctrine.
+
 ## Sources
 
 - [Plato, Theaetetus, Jowett trans., full text](https://genius.com/Plato-theaetetus-full-text-annotated) — 152a-b

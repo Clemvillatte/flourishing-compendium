@@ -25,6 +25,10 @@ Critics argue the benefits are overstated. Ordóñez and colleagues list side ef
 
 *For example:* A writer replaces "write more" with "300 words before breakfast, five days a week". After a month she checks whether the rule is still serving the essay, or only the count.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-goals parallel: the examined life requires examined goals.
+
 ## Sources
 
 - [Locke and Latham (2002), American Psychologist 57(9), 705-717, abstract](https://pubmed.ncbi.nlm.nih.gov/12237980/)

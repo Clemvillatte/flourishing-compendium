@@ -22,6 +22,10 @@ Everyone loses drive sometimes. When it lasts for weeks, reaches into things you
 **For example**
 For a month you have not started any of your usual evening activities, including the ones you used to look forward to. You tell your doctor exactly that.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-symptoms parallel: knowing when to seek evaluation is part of the examined life.
+
 ## Sources
 
 - [NIMH, Depression](https://www.nimh.nih.gov/health/publications/depression): opened

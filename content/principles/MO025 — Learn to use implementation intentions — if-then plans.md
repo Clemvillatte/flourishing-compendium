@@ -23,6 +23,10 @@ An if-then plan names a situation you will recognize and an action you can start
 
 *For example:* One if-then plan to try: "If I feel the urge to check my phone at my desk, then I will write one more sentence first." The situation is the cue; the sentence is the response.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-plans parallel the page draws for if-then planning.
+
 ## Sources
 
 - Gollwitzer, P. M., & Sheeran, P., "Implementation Intentions and Goal Achievement: A Meta-Analysis of Effects and Processes", Advances in Experimental Social Psychology 38 (2006), pp. 69-119 — [institutional repository record (University of Konstanz)](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f) (abstract quotation) and [full text, Internet Archive](https://archive.org/stream/06GollwitzerSheeranImplementationIntentionsAndGoalAchievement/06GollwitzerSheeran_ImplementationIntentionsAndGoalAchievement_djvu.txt) (definition quotation; 94 tests, 8,461 participants reported there)

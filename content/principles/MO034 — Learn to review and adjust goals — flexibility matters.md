@@ -25,6 +25,10 @@ The passage is about the examination of virtue, not about goal-review schedules.
 
 *For example:* Imagine a "learn piano" goal that has survived three years without practice. An honest review might revive it with a better plan, or might end it and free the energy. Either answer is available; the point of the review is that the question gets asked.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the trial's naming of daily examination as the work of a lifetime, the page's comparison.
+
 ## Sources
 
 - [Plato, Apology, Jowett translation, Internet Classics Archive](https://classics.mit.edu/Plato/apology.html) — 38a, the examined-life passage

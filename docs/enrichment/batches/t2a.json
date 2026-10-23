@@ -342,11 +342,23 @@
   "content/principles/K004 — Take the mind itself as the laboratory.md",
   "content/principles/M019 — Educate deliberately, and count character as the curriculum.md",
   "content/principles/MO013 — Clarify your values — motivation follows value.md",
-  "content/principles/MO020 — Recognise mastery vs performance goals — learning vs proving.md"
+  "content/principles/MO020 — Recognise mastery vs performance goals — learning vs proving.md",
+  "content/principles/MO023 — Set specific and difficult goals — vagueness kills motivation.md",
+  "content/principles/MO025 — Learn to use implementation intentions — if-then plans.md",
+  "content/principles/MO027 — Learn to make progress visible — feedback sustains motivation.md",
+  "content/principles/MO033 — Learn to use commitment devices — pre-commit to future behaviour.md",
+  "content/principles/MO034 — Learn to review and adjust goals — flexibility matters.md",
+  "content/principles/MO044 — Learn to track habits — monitoring sustains.md",
+  "content/principles/MO054 — Learn to use self-regulation strategies — manage impulses.md",
+  "content/principles/MO057 — Recognise the importance of self-concordant goals — your goals, not others'.md",
+  "content/principles/MO072 — Recognise clinical motivational symptoms — when motivation problems require evaluation.md",
+  "content/principles/MO074 — Learn to assess and monitor motivation — track your patterns.md",
+  "content/principles/MO075 — Build motivational maintenance — ongoing practice and adaptation.md",
+  "content/principles/P008 — Take perspectives seriously — the human measure is real.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:23:58+00:00",
+ "updated": "2026-10-23T14:24:19+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

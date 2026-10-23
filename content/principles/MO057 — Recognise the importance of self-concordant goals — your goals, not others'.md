@@ -22,6 +22,10 @@ Kasser and Ryan add a related finding from three studies. When money-related val
 
 For example: someone completes a qualification because their family expects it and feels relief, not satisfaction. A project they chose themselves leaves them wanting more.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the unexamined-life warning (Apology 38a) behind goals that are your own.
+
 ## Sources
 
 - Sheldon & Elliot (1999), [Goal striving, need satisfaction, and longitudinal well-being: the self-concordance model](https://pubmed.ncbi.nlm.nih.gov/10101878/), abstract
