@@ -363,3 +363,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The Segal/Williams/Teasdale 2nd-edition book (commercial Guilford) remains unopened; the OSU handout carries the instructions verbatim from the same MBCT teaching tradition (Rockman attribution); the CU Scholar paper gives the book's p. 184 locator.
 - Original Operationalises line preserved exactly; bold markers in the header paragraph simplified to plain numbered prose after the validator's bold-in-prose catch; the Autopilot Related-concepts link (no such page) removed; Related concepts retargeted to existing pages (Mindfulness-based cognitive therapy, Decentering, Present-moment awareness theory, Anapanasati) after enrich_find.py existence checks.
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K393 — The Habit Releaser (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~110-word seed rebuilt to the K100 model (507 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: fluidself.org book notes — the "HABIT RELEASER: CHANGING CHAIRS" Week One text read verbatim (notice chairs / try another chair / creatures of habit / automatic pilot / perspective-change close all quoted word-for-word); the Kabat-Zinn foreword "habit-breaking suggestions" sentence carried via a LinkedIn reader review (a secondary rendering — flagged as such on the page); the NHS Wales MBCT participant handbook carried in search results but not fetched.
+- The Williams/Penman book (commercial) remains unopened; fluidself.org is the opened carrier of the Week One text; the franticworld.com URL that the Deeper Mindfulness sequel points to for releasers is not fetched this session.
+- Original Operationalises line preserved exactly; the "Autopilot" Related-concepts link (no such page) retargeted to Present-moment awareness theory; Related concepts retargeted to existing pages only (Habit formation, Mindfulness, Present-moment awareness theory — existence checked).
+- Customer-facing grep clean; validator ok, 0 failed.
