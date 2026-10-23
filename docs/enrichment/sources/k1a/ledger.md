@@ -433,3 +433,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: wheelchair-user reports, not a noticing practice; confident/anxious sizing stated as the practice's own phenomenology, not a finding. Sibling K308 uses Cardinali 2012; carrier deliberately different.
 - Mention check run: K307 already linked from A053/E003/E004/E005 practice lists and K308; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K344 — Reciprocal vulnerability (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Laurenceau, Barrett & Pietromonaco 1998 (JPSP 74(5):1238-1251), two event-contingent diary studies testing the Reis & Shaver intimacy process model, abstract verified raw via NCBI efetch (PMID 9599440).
+- The blockquote (intimacy as disclosure-plus-responsiveness sentence) matches the raw efetch text verbatim; emotional vs factual disclosure finding stated in reader terms.
+- Inherited "(Reis and Shaver)" citation grounded to the model's empirical test; reciprocity stated as the model's reading, not a tested nudge. Invitation-not-confession framing kept as practice form.
+- Mention check run: K344 already linked from A063/S011/R005/R055; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
