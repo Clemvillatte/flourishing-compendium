@@ -3946,7 +3946,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Righteous indignation (nemesis)](card:Righteous%20indignation%20%28nemesis%29): Aristotle's treatment in Nicomachean Ethics IV.9 of the mean concerned with indignation."
+          "x": "[Righteous indignation (nemesis)](card:Righteous%20indignation%20%28nemesis%29): Aristotle's treatment in Nicomachean Ethics II.7 of the mean concerned with pain at undeserved good fortune."
         },
         {
           "t": "p",
@@ -3994,7 +3994,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Affect labeling](card:Affect%20labeling): putting feelings into words; the research showing that naming an emotion reduces its intensity."
+          "x": "[Affect labeling](card:Affect%20labeling): putting feelings into words; a 2007 neuroimaging study found labeling emotions, relative to other ways of encoding the same images, diminished the amygdala's response to negative images."
         },
         {
           "t": "h2",
@@ -4060,7 +4060,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The finding is that people who punish continue to ruminate about the offender, whereas those who do not punish move on and think less about the offender. Seneca's delay remedy is agnostic on the debt; it asks only for a right judgment. What remains unresolved is whether the rumination finding generalizes beyond the experimental setting, since the study measured a single lab game rather than real-world grievances."
+          "x": "The finding is that people who punish continue to ruminate about the offender, whereas those who do not punish move on and think less about the offender. Seneca's delay remedy is agnostic on the debt; it asks only for a right judgment. What remains unresolved is whether the rumination finding, measured in a laboratory setting, generalizes to the grievances people carry in ordinary life."
         },
         {
           "t": "h",

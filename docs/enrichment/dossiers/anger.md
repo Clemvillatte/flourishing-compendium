@@ -74,7 +74,7 @@ The delay remedy Seneca prescribes is narrow:
 
 [Moral outrage research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20outrage%20research): the study of indignation at injustice; Batson and colleagues define moral outrage as anger at the violation of a moral standard, separating it from personal anger at being harmed.
 
-[Righteous indignation (nemesis)](https://clemvillatte.github.io/flourishing-compendium/#card=Righteous%20indignation%20%28nemesis%29): Aristotle's treatment in Nicomachean Ethics IV.9 of the mean concerned with indignation.
+[Righteous indignation (nemesis)](https://clemvillatte.github.io/flourishing-compendium/#card=Righteous%20indignation%20%28nemesis%29): Aristotle's treatment in Nicomachean Ethics II.7 of the mean concerned with pain at undeserved good fortune.
 
 [The critique of ressentiment](https://clemvillatte.github.io/flourishing-compendium/#card=The%20critique%20of%20ressentiment): Nietzsche's diagnosis in the Genealogy: ressentiment is the simmering revenge of those who cannot act, and his scandalous claim is that it invented a morality.
 
@@ -98,7 +98,7 @@ The delay remedy Seneca prescribes is narrow:
 
 [Attribution retraining](https://clemvillatte.github.io/flourishing-compendium/#card=Attribution%20retraining): Hudley and Graham's program training aggressive children to judge peers' intentions more accurately and interpret ambiguous intent as benign.
 
-[Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20labeling): putting feelings into words; the research showing that naming an emotion reduces its intensity.
+[Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20labeling): putting feelings into words; a 2007 neuroimaging study found labeling emotions, relative to other ways of encoding the same images, diminished the amygdala's response to negative images.
 
 ### The stories and sayings
 
@@ -131,7 +131,7 @@ The shared question: does punishing an offender give the punisher what they expe
 
 > "People expect to reap hedonic rewards when they punish an offender, but in at least some instances, revenge has hedonic consequences that are precisely the opposite of what people expect." ([Carlsmith, Wilson and Gilbert 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/19025285/)): Study abstract; quoted passage checked.
 
-The finding is that people who punish continue to ruminate about the offender, whereas those who do not punish move on and think less about the offender. Seneca's delay remedy is agnostic on the debt; it asks only for a right judgment. What remains unresolved is whether the rumination finding generalizes beyond the experimental setting, since the study measured a single lab game rather than real-world grievances.
+The finding is that people who punish continue to ruminate about the offender, whereas those who do not punish move on and think less about the offender. Seneca's delay remedy is agnostic on the debt; it asks only for a right judgment. What remains unresolved is whether the rumination finding, measured in a laboratory setting, generalizes to the grievances people carry in ordinary life.
 
 ## Practice: variation, selection, retention
 
