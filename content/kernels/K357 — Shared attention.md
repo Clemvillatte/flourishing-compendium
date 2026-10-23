@@ -33,7 +33,7 @@ The talking version of sharing the good points the same direction: "communicatin
 
 ### A guided version
 
-None located; the practice is done with another person, not with a recording.
+None located for this practice among official sources. Guided recordings for two people do exist in the neighbourhood — partner-compassion and couples-mindfulness audio, such as Russ Harris's ACT exercise for partners ([Psychwire resource page](https://psychwire.com/free-resources/audio/resource-1hm1mbh/compassion-for-your-partner)) — but they guide related practices, not shared attention itself; the exercise is its own instruction.
 
 ## Operationalises
 
