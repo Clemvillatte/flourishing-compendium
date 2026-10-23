@@ -19,6 +19,13 @@ The training is not resignation to everything but a sorting of what is up to us 
 
 The original entry's second source offers a comparison in the emotions' terms. Spinoza's Ethics, Part V: "The mind has greater power over the emotions and is less subject thereto, in so far as it understands all things as necessary" ([Ethics V, Prop. VI, Elwes trans., Gutenberg](https://www.gutenberg.org/cache/epub/975/pg975-images.html)). Understanding necessity, on this account, goes with greater power over the emotions.
 
+## Related concepts
+
+- [[The dichotomy of control]] — the sorting of what is up to us that the discipline rests on
+- [[Amor fati]] — Nietzsche's version of wanting what happens
+- [[Acceptance]] — the clinical counterpart of the same stance
+- [[The art of letting go]] — the letting-go practice the serenity names
+
 ## Sources
 
 - Epictetus, Enchiridion (Internet Classics Archive translation) ([classics.mit.edu](https://classics.mit.edu/Epictetus/epicench.html))

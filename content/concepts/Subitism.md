@@ -19,6 +19,13 @@ Read closely, the doctrine is less a claim about speed than about readiness. The
 
 The compendium's principle B130 carries the practical consequence: expect awakening to shift in a moment, and treat practice as the making of readiness rather than the installment plan for enlightenment.
 
+## Related concepts
+
+- [[Gradual training]] — the gradualist pole the sutra sets sudden seeing against
+- [[Buddha-nature]] — the always-already purity the answering verse claims
+- [[Koan practice]] — the Chan tool for the ready mind
+- [[Original enlightenment]] — the doctrinal cousin that grounds suddenness in what is already present
+
 ## Sources
 
 - Huineng, Platform Sutra, sections 16 and 39, Yampolsky translation, as quoted with commentary in the Internet Encyclopedia of Philosophy, [Huineng (Hui-neng) (638—713)](https://iep.utm.edu/huineng/)

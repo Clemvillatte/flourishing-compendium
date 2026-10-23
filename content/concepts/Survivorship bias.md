@@ -21,6 +21,12 @@ In the Second World War, the Statistical Research Group at Columbia University, 
 
 Advice on living well is the most survivorship-biased literature there is: the people whose choices failed do not write the books. The compendium's use of the concept is as a standing check: when reading a success story, ask who is missing from the sample. The page's earlier source list named Merton & Barber (2004) and Taleb (2007); the sources behind this page document the Wald case and the definition.
 
+## Related concepts
+
+- [[Silence as evidence]] — the absent data point read as a signal
+- [[Availability heuristic]] — the easily-seen crowd is also the biased sample
+- [[Base rate neglect / representativeness heuristic]] — reading the visible cases as the whole distribution
+
 ## Sources
 
 - Psychology.com, "Survivorship Bias: Why the Bullet Holes You Can See Are the Wrong Ones", documenting Wald, A. (1943; reprinted 1980), A Method of Estimating Plane Vulnerability Based on Damage of Survivors, and Mangel, M., & Samaniego, F. J. (1984), Journal of the American Statistical Association 79(386): [psychology.com/biases/survivorship-bias](https://psychology.com/biases/survivorship-bias)
