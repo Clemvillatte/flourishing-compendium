@@ -12,7 +12,6 @@
   "The coloured lens",
   "The return of the soul to its source",
   "A certain blindness",
-  "Acedia",
   "Vipassana (insight)",
   "Viveka",
   "Value creation",
@@ -71,7 +70,8 @@
   "The culturally embedded self",
   "The urgency of time",
   "Transactive memory systems",
-  "The limits of introspection"
+  "The limits of introspection",
+  "Acedia"
  ],
  "in_progress": null,
  "flagged": {
@@ -100,11 +100,12 @@
   "COM-B model theory": "primary sources (PMC3216833, BMC, Europe PMC) block automated access; needs browser-based verification",
   "Companionate love in adversity": "SUPERVISOR DISPOSITION 2026-10-21 (worker-sup-5e8a3c7f): Category C heading approved — compendium-created heading with explicit adversity-clause disclosure already in opening; validated ok; marked done",
   "The prior probability of the world": "SUPERVISOR DISPOSITION 2026-10-21 (worker-sup-5e8a3c7f): Category C heading approved — compendium phrase over Hume's probability-of-testimony account; custom passage (Enquiry V.1) verified verbatim vs Gutenberg #9662; heading disclosure added; validated ok; marked done",
-  "The examined past": "SUPERVISOR DISPOSITION 2026-10-21 (worker-sup-5e8a3c7f): Category C heading approved — compendium label over Seneca's De Ira 3.36 review; Sextius questions + sweet-sleep quote verified verbatim vs Wikisource Stewart trans.; heading disclosure added; validated ok; marked done"
+  "The examined past": "SUPERVISOR DISPOSITION 2026-10-21 (worker-sup-5e8a3c7f): Category C heading approved — compendium label over Seneca's De Ira 3.36 review; Sextius questions + sweet-sleep quote verified verbatim vs Wikisource Stewart trans.; heading disclosure added; validated ok; marked done",
+  "Acedia": "Reopened for QC: extension: add Aquinas ST II-II q35 and Evagrius ending (prose was 80 words)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:06:30+00:00",
+ "updated": "2026-10-23T14:25:45+00:00",
  "band_done": false,
  "new_concepts": [
   {
