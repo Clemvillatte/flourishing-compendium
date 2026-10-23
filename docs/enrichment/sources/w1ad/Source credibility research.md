@@ -1,0 +1,42 @@
+# w1ad evidence ledger — Source credibility research (2026-10-23, worker-pplx-w1ad-f6d92b31)
+
+Eligibility: graph degree 2 (<15) → fast-track bar.
+
+## Carriers opened
+
+- OUP Academic article-abstract page for Hovland & Weiss (1951), Public Opinion Quarterly
+  15(4) 635-650. The article's own abstract, displayed on the journal site, is the quote
+  carrier (theory-page sourcing rule: journal-hosted abstract is an acceptable carrier for
+  what the abstract says). Quote verified against the fetched page text, word for word:
+  "In a new test of the process of forgetting, ... Lies, in fact, seemed to be remembered
+  better than truths." The abstract's curly quotes around "untrustworthy" rendered as straight
+  quotes in the page's blockquote (house style).
+- PMC3100161 — Kumkale & Albarracín (2004), Psychological Bulletin 130(1) 143-172, sleeper
+  effect meta-analysis. Abstract fetched and verified verbatim; the definition sentence
+  ("According to this effect, ... later in time.") is quoted on the page.
+
+## Decisions
+
+- The UvA-DARE PDF quote of Hovland & Weiss p. 650 ("Opinions were changed immediately...")
+  was NOT used: the extraction returned a garbled form of the sentence; the claim it would
+  support is therefore not carried on the page. Only abstract-supported claims appear.
+- A121 read: it lists this concept in its psychology parallels (Hovland and Weiss, 1951);
+  the In-the-compendium line reports that pairing.
+- Fast-track scope: no saturation hunt; the three Related concepts exist and were checked
+  with enrich_find (Fricker deg 3, The unreliability of testimony deg 6,
+  Heuristic-Systematic Model of Persuasion deg 9).
+- Validator ok (fast-track profile); humanizer grep clean.
+
+# w1ad evidence ledger — Sorrow's fruit (2026-10-23, same session)
+
+Light check (skip-ahead rule): the page already met the fast-track bar. The Gibran
+blockquote verified verbatim against a fresh download of the cited Gutenberg #5858585
+carrier (raw text grep; line-wraps normalize to the page's rendering; source curly
+apostrophe in "potter's" is outside the quoted span). SP095 title verified to match the
+Cited-in link. No edits made; marked done with a light-check note.
+
+# w1ad evidence ledger — Sparse speech (2026-10-23, same session)
+
+Light check: page already adequate. Legge Daodejing 23 blockquote verified verbatim against
+a fresh download of the cited Gutenberg #216 carrier (raw text, section 23.1). B172 title
+matches the Cited-in link. No edits; marked done with light-check note.

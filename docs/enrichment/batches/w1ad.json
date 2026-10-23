@@ -42,7 +42,8 @@
   "The classification of fears",
   "Somatic psychotherapy",
   "Sorrow's fruit",
-  "Source credibility research"
+  "Source credibility research",
+  "Sparse speech"
  ],
  "in_progress": null,
  "flagged": {
@@ -81,6 +82,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:23:58+00:00",
+ "updated": "2026-10-23T05:24:08+00:00",
  "band_done": false
 }
