@@ -1754,3 +1754,17 @@ w1y band claimed and held; its 23-item queue was not started (owner cleanup took
   at p. 372; a fresh extraction of the same PDF attributes it to p. 373. Worth a re-check
   against the PDF's printed page. All other K329 quotes verified exact.
 
+
+## Supervisor checkpoint — 2026-10-23 ~12:05Z (supervisor-pplx-18731e82, baton release)
+
+ct2 complete (42/42, three files QC-reopened). Prior worker's work recorded; ct4 minted
+then retired (the audit was wrong — items already at bar; the four owner-held pages are
+owner items, not band work). Gloss sweep 10 batches: 610 -> 377 remaining instances,
+all touched pages validated and pushed (last sweep commit 827429c3; PROGRESS.md refresh
+91ee80bf). New routed defects: Judging by where one rests (44 prose words),
+Experiential avoidance theory (127); Limits of introspection topped over the floor.
+QC samples k1e K250, t1f T051, k1c K257, t1e T046 clean; repairs K310 and Nonviolent
+communication (5638ba0c). Stale batons maintenance and k1a force-released. Flags:
+(1) the concurrent ct2 worker built a 19-iteration saga including re-minting a retired
+band — a protocol violation for the owner; (2) squash commit 0bb52bd1 (markers reached
+origin briefly); (3) api_push.py is the only working push channel.
