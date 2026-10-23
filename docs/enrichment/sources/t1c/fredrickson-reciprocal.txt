@@ -1,0 +1,375 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A088 \u2014 Recognise that pleasure varies with the activity.md",
+      "id": "A088",
+      "title": "Recognise that pleasure varies with the activity",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF061 \u2014 Cultivate positive affect deliberately \u2014 it broadens and builds.md",
+      "id": "AF061",
+      "title": "Cultivate positive affect deliberately: it broadens and builds",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF065 \u2014 Cultivate compassion \u2014 it is sustainable empathy plus concern.md",
+      "id": "AF065",
+      "title": "Cultivate compassion: it is sustainable empathy plus concern",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AT011 \u2014 Recognise that attention can be open or closed \u2014 both are needed.md",
+      "id": "AT011",
+      "title": "Recognise that attention can be open or closed: both are needed",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AT017 \u2014 Learn to use attention as a spotlight \u2014 narrow for focus, broad for context.md",
+      "id": "AT017",
+      "title": "Learn to use attention as a spotlight: narrow for focus, broad for context",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AT051 \u2014 Learn loving-kindness meditation \u2014 attention oriented toward warmth.md",
+      "id": "AT051",
+      "title": "Learn loving-kindness meditation: attention oriented toward warmth",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B033 \u2014 Cultivate the seven factors of awakening.md",
+      "id": "B033",
+      "title": "Cultivate the seven factors of awakening",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B051 \u2014 Practice loving-kindness (metta).md",
+      "id": "B051",
+      "title": "Practice loving-kindness (metta)",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B080 \u2014 Meet ill will with warmth (hindrance 2).md",
+      "id": "B080",
+      "title": "Meet ill will with warmth (hindrance 2)",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B087 \u2014 Trust the luminous mind \u2014 defilements are visitors.md",
+      "id": "B087",
+      "title": "Trust the luminous mind: defilements are visitors",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B093 \u2014 Nurture joy in practice (piti).md",
+      "id": "B093",
+      "title": "Nurture joy in practice (piti)",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B118 \u2014 Cultivate gladness \u2014 joy is part of the path.md",
+      "id": "B118",
+      "title": "Cultivate gladness: joy is part of the path",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B185 \u2014 Water the good seeds.md",
+      "id": "B185",
+      "title": "Water the good seeds",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO013 \u2014 Recognise that thinking has a direction \u2014 it can be expansive or contracted.md",
+      "id": "CO013",
+      "title": "Recognise that thinking has a direction: it can be expansive or contracted",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D031 \u2014 Treasure 1 \u2014 compassion (ci).md",
+      "id": "D031",
+      "title": "Treasure 1: compassion (ci)",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D161 \u2014 See the small.md",
+      "id": "D161",
+      "title": "See the small",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E069 \u2014 Practise the body-for-others.md",
+      "id": "E069",
+      "title": "Practise the body-for-others",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K028 \u2014 Practice sending and taking on the breath.md",
+      "id": "K028",
+      "title": "Practice sending and taking on the breath",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K042 \u2014 Take the body as a vessel, not a treasure.md",
+      "id": "K042",
+      "title": "Take the body as a vessel, not a treasure",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP011 \u2014 Use the broaden-and-build mechanism.md",
+      "id": "PP011",
+      "title": "Use the broaden-and-build mechanism",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP065 \u2014 Build a portfolio, not a single practice.md",
+      "id": "PP065",
+      "title": "Build a portfolio, not a single practice",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S068 \u2014 Distinguish between healthy and unhealthy emotions.md",
+      "id": "S068",
+      "title": "Distinguish between healthy and unhealthy emotions",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S073 \u2014 Love the people you live with.md",
+      "id": "S073",
+      "title": "Love the people you live with",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE051 \u2014 Recognise self-expansion \u2014 relationships and experiences expand the self.md",
+      "id": "SE051",
+      "title": "Recognise self-expansion: relationships and experiences expand the self",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SP061 \u2014 Defend cheerfulness.md",
+      "id": "SP061",
+      "title": "Defend cheerfulness",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y023 \u2014 Build the upward spiral on purpose.md",
+      "id": "Y023",
+      "title": "Build the upward spiral on purpose",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y065 \u2014 Cultivate the fourfold stance toward people.md",
+      "id": "Y065",
+      "title": "Cultivate the fourfold stance toward people",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Attentional bias theory MacLeod.md",
+      "id": "Attentional bias theory MacLeod",
+      "title": "Attentional bias theory MacLeod",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Awe.md",
+      "id": "Awe",
+      "title": "Awe",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Broaden-and-build.md",
+      "id": "Broaden-and-build",
+      "title": "Broaden-and-build",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Contentment in station.md",
+      "id": "Contentment in station",
+      "title": "Contentment in station",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Curiosity.md",
+      "id": "Curiosity",
+      "title": "Curiosity",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Delight in the ordinary.md",
+      "id": "Delight in the ordinary",
+      "title": "Delight in the ordinary",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Dispositional optimism.md",
+      "id": "Dispositional optimism",
+      "title": "Dispositional optimism",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Duration neglect.md",
+      "id": "Duration neglect",
+      "title": "Duration neglect",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Eudaimonia.md",
+      "id": "Eudaimonia",
+      "title": "Eudaimonia",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Fredrickson's positivity portfolios.md",
+      "id": "Fredrickson's positivity portfolios",
+      "title": "Fredrickson's positivity portfolios",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Hope.md",
+      "id": "Hope",
+      "title": "Hope",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Metta (loving-kindness).md",
+      "id": "Metta (loving-kindness)",
+      "title": "Metta (loving-kindness)",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Micro-moments of connection.md",
+      "id": "Micro-moments of connection",
+      "title": "Micro-moments of connection",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Mudita (sympathetic joy).md",
+      "id": "Mudita (sympathetic joy)",
+      "title": "Mudita (sympathetic joy)",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Objectification Theory.md",
+      "id": "Objectification Theory",
+      "title": "Objectification Theory",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Peak-end rule.md",
+      "id": "Peak-end rule",
+      "title": "Peak-end rule",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Polyvagal theory (Porges).md",
+      "id": "Polyvagal theory (Porges)",
+      "title": "Polyvagal theory (Porges)",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Positive emotions research.md",
+      "id": "Positive emotions research",
+      "title": "Positive emotions research",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Savoring.md",
+      "id": "Savoring",
+      "title": "Savoring",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Self-transcendent emotions.md",
+      "id": "Self-transcendent emotions",
+      "title": "Self-transcendent emotions",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K161 \u2014 Loving-kindness meditation.md",
+      "id": "K161",
+      "title": "Loving-kindness meditation",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K211 \u2014 Acts of kindness.md",
+      "id": "K211",
+      "title": "Acts of kindness",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K396 \u2014 The Befriending meditation.md",
+      "id": "K396",
+      "title": "The Befriending meditation",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST298 \u2014 The Positivity Ratio Falls.md",
+      "id": "ST298",
+      "title": "298.  The Positivity Ratio Falls",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST303 \u2014 Broaden and Build.md",
+      "id": "ST303",
+      "title": "303.  Broaden and Build",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/thinkers/T022 \u2014 Kahneman, Daniel.md",
+      "id": "T022",
+      "title": "Kahneman, Daniel",
+      "thinker": "T027",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
