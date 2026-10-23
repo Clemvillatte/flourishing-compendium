@@ -662,3 +662,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: the review covers only the calming half; the activation half and the matching itself left as the kernel's proposal; polyvagal gloss in Related concepts noted as contested by its own principle (BI011) elsewhere in the compendium.
 - Mention check run (before this entry): K199 already linked from D053/D141/B081/B082/P139 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K222 — Mortality reflection (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Glushich, DeMaranville, Wongpakaran, Wedding & Wongpakaran 2025 (Narra J 5(3):e2753), cross-sectional study of elderly Thai Buddhist meditation practitioners, abstract verified raw via NCBI efetch (PMID 41743868); authors read from the efetch header.
+- The blockquote (two results sentences with statistics) matches the raw efetch text verbatim.
+- Honesty on page: cross-sectional; the null associations for well-being and gratitude with practice stated in the blockquote itself; outcomes attributed to attitudes, not practice; no causal claim about beginning the exercise.
+- Mention check run (before this entry): K222 already linked from D090/B055/P164/P180 practice lists and B055's list; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). Journal name given as efetch shows it (Narra: Journal of Narrative Practices), without opening the publisher page.
