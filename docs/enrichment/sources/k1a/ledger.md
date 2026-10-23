@@ -622,3 +622,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: no test of physical reminders or daily reflection; meaningfulness changes contingent on religiousness and attitudes toward death unchanged, both stated; nothing claimed about effects on time use.
 - Mention check run (before this entry): K230 already linked from D090/B055/P164 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Facets section left as in the seed; Operationalises reflowed to bullets).
+
+## K135 — Workability check (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Masuda, Hayes, Sackett & Twohig 2004 (Behav Res Ther 42(4):477-485), eight single-case designs of the word-repeating defusion technique, abstract verified raw via NCBI efetch (PMID 14998740); authors read from the efetch header.
+- The blockquote (discomfort and believability reduced sentence) matches the raw efetch text verbatim.
+- Honesty on page: the study tests a technique, not the workability question itself; the bridge stated as premise support (believability separable from truth), not as a test of values-based decisions. The efetch abstract contains two typographical errors ("note yet known") which I did not quote.
+- Mention check run (before this entry): K135 already linked from D016/D080/B127/P012/P159 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
