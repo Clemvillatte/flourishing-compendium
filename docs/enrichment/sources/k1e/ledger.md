@@ -347,3 +347,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The franticworld.com "Beyond chocolate" page (which carries the book's own eight-stage text verbatim) is robots-blocked for fetching; the Greater Good version is the opened carrier of the canonical practice steps.
 - Related concepts retargeted to existing pages only (Beginner's mind, Mindfulness-based stress reduction, Savoring — existence checked with enrich_find.py title; the "Autopilot" and "Mindfulness-Based Stress Reduction" uppercase forms do not exist).
 - The original Limits section preserved verbatim. Customer-facing grep clean; validator ok, 0 failed.
+
+## K391 — Bring raisin mind to one routine activity (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~100-word seed rebuilt to the K100 model (483 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: Oxford Mindfulness Centre MBCT-L participant handbook v7 (purplelotus.uk PDF) — the "Choose one routine activity" home-practice paragraph and the "raisin mind" Session 7 question both read verbatim; Heroic legacy.us summary — the Williams/Penman "relearning how to bring awareness to everyday activities" framing quoted as a secondary carrier.
+- The Williams/Penman book itself (commercial) remains unopened; the OMC handbook (derived from the same authors) is the opened carrier of the instruction; the Heroic summary is a secondary source for the ch. 5 framing — flagged for the next pass to swap for a book-adjacent primary if one becomes reachable.
+- Related concepts retargeted to existing pages only (Mindfulness-based cognitive therapy, Mindfulness, Habit formation — existence checked; the "Habit" standalone does not exist).
+- Customer-facing grep clean; validator ok, 0 failed.
