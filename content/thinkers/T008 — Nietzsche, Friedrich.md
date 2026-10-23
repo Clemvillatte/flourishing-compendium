@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "cha
 
 ## Personal story / context
 
-Born October 15, 1844, in Röcken, near Leipzig ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nietzsche/)). His father, a Lutheran minister, died in 1849, when Nietzsche was four; the family relocated to Naumburg, where he grew up with his mother, grandmother, two aunts, and younger sister Elisabeth ([SEP](https://plato.stanford.edu/entries/nietzsche/)). As a student in Leipzig he met Richard Wagner, and in May 1869 he was called to a chair in classical philology at Basel, at twenty-four the youngest ever appointed to such a post ([SEP](https://plato.stanford.edu/entries/nietzsche/)). His friendship with Wagner and Cosima soured after 1876; sending them Human, All-too-human in early 1878 effectively ended it ([SEP](https://plato.stanford.edu/entries/nietzsche/)). His fragile health, with intense headaches, nausea and eyesight problems, forced him to resign his professorship by 1879 ([SEP](https://plato.stanford.edu/entries/nietzsche/)). In January 1889 he collapsed in the street in Turin; his friend Franz Overbeck found him suffering from dementia, and he was released into his mother's and then his sister's care, lapsing into silence ([SEP](https://plato.stanford.edu/entries/nietzsche/)). He died in 1900 of a stroke complicated by pneumonia ([SEP](https://plato.stanford.edu/entries/nietzsche/)).
+Born October 15, 1844, in Röcken, near Leipzig ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nietzsche/)). His father, a Lutheran minister, died in 1849, when Nietzsche was four; the family moved to Naumburg, where he grew up with his mother, grandmother, two aunts and younger sister Elisabeth ([SEP](https://plato.stanford.edu/entries/nietzsche/)). As a student in Leipzig he met Richard Wagner, and in May 1869 he was called to a chair in classical philology at Basel, at twenty-four the youngest ever so appointed ([SEP](https://plato.stanford.edu/entries/nietzsche/)). The Wagner friendship soured after 1876; sending them Human, All-too-human in early 1878 effectively ended it ([SEP](https://plato.stanford.edu/entries/nietzsche/)). Fragile health, with intense headaches, nausea and eyesight problems, forced his resignation by 1879 ([SEP](https://plato.stanford.edu/entries/nietzsche/)). In January 1889 he collapsed in the street in Turin; Franz Overbeck found him suffering from dementia, and he passed into his mother's and then his sister's care, lapsing into silence ([SEP](https://plato.stanford.edu/entries/nietzsche/)). He died in 1900 of a stroke complicated by pneumonia ([SEP](https://plato.stanford.edu/entries/nietzsche/)).
 
 ## Their why
 
@@ -25,10 +25,10 @@ Value is measured by vitality. "What is good?--Whatever augments the feeling of 
 
 ## Core ideas
 
-- **The death of God** — the loss of the shared faith that grounded European morality. See [[Death of God]].
+- **The death of God** — the loss of the shared faith that grounded European morality. See [[Nihilism]], [[Passive nihilism]].
 - **The will to power** — life as the growth and overcoming of resistance, not contentment. See [[Will to power]].
-- **Master and slave morality** — good/bad against good/evil; ressentiment as the engine of the slave revolt. See [[Ressentiment]], [[Master-slave morality]].
-- **The overman** — man as bridge, not goal; the higher type as a direction. See [[Übermensch]].
+- **Master and slave morality** — good/bad against good/evil; ressentiment as the engine of the slave revolt. See [[The critique of ressentiment]], [[Herd morality]].
+- **The overman** — man as bridge, not goal; the higher type as a direction. See [[The overman (Übermensch)]].
 - **Eternal recurrence** — the test of affirmation: could you will your life again, unchanged? See [[Eternal recurrence]].
 - **Amor fati** — loving necessity; saying yes. See [[Amor fati]].
 - **Perspectivism** — no view from nowhere; more eyes, more complete objectivity. See [[Perspectivism]].
