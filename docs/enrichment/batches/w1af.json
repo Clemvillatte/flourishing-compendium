@@ -36,7 +36,8 @@
   "Unity in diversity",
   "Unresolved-goal interference",
   "To kalon",
-  "VIA classification"
+  "VIA classification",
+  "VRSCDL"
  ],
  "in_progress": null,
  "flagged": {
@@ -57,6 +58,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:50:28+00:00",
+ "updated": "2026-10-23T05:50:47+00:00",
  "band_done": false
 }
