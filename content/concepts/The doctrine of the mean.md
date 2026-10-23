@@ -7,11 +7,11 @@ file: "The doctrine of the mean"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The doctrine of the mean is the claim, shared by Aristotle and by the Confucian tradition, that virtue is a state disposed toward the *intermediate* — the right amount of a passion or action, between excess and deficiency — and that finding it is a matter of practical judgment, not arithmetic. Aristotle's canonical statement is *Nicomachean Ethics* II.6: in feelings and actions “excess and deficiency are errors, while the mean amount is praised, and constitutes success” — and the mean is “relative to us,” not the average of the extremes but the response that fits *this* situation, *this* person, *this* moment ([NE II.6, Loeb translation](https://www.loebclassics.com/view/aristotle-nicomachean_ethics/1926/pb_LCL073.95.xml?readMode=recto); [Routledge Encyclopedia of Philosophy, “Aristotle's Ethics”](https://www.rep.routledge.com/dms/Aristotles-Ethics.pdf)). Virtues are therefore many, not one: courage is the mean between rashness and cowardice; generosity between prodigality and stinginess — and each is acquired by practice, by doing the act until the disposition holds ([[A005 — Choose the mean, not the extreme]]). The faculty that finds the mean is [[Phronesis]] — practical wisdom, the trained eye of the person standing in the concrete situation.
+The doctrine of the mean is the claim, shared by Aristotle and by the Confucian tradition, that virtue is a state disposed toward the *intermediate*, the right amount of a passion or action, between excess and deficiency, and that finding it is a matter of practical judgment, not arithmetic. Aristotle's canonical statement is *Nicomachean Ethics* II.6: in feelings and actions “excess and deficiency are errors, while the mean amount is praised, and constitutes success”, and the mean is “relative to us,” not the average of the extremes but the response that fits *this* situation, *this* person, *this* moment ([NE II.6, Loeb translation](https://www.loebclassics.com/view/aristotle-nicomachean_ethics/1926/pb_LCL073.95.xml?readMode=recto); [Routledge Encyclopedia of Philosophy, “Aristotle's Ethics”](https://www.rep.routledge.com/dms/Aristotles-Ethics.pdf)). Virtues are therefore many, not one: courage is the mean between rashness and cowardice; generosity between prodigality and stinginess, and each is acquired by practice, by doing the act until the disposition holds ([[A005|Choose the mean, not the extreme]]). The faculty that finds the mean is [[Phronesis]], practical wisdom, the trained eye of the person standing in the concrete situation.
 
-The Confucian counterpart is the *Zhongyong* — literally “centred and constant” — attributed to Zisi, Confucius' grandson, and canonised as one of the Four Books ([[Zhongyong]]). It shares Aristotle's central insight: equilibrium (*zhong*) is not lukewarm compromise but the perfectly attuned state from which emotion is neither suppressed nor indulged, and constancy (*yong*) is the ordinary practice that keeps it ([[R061 — Practise the Doctrine of the Mean (zhongyong)]]; [[Shu]] and [[Ren]] supply the relational reading: the mean is found *between people*, in reciprocity, not in private calculation).
+The Confucian counterpart is the *Zhongyong*, literally “centred and constant”, attributed to Zisi, Confucius' grandson, and canonised as one of the Four Books ([[Zhongyong]]). It shares Aristotle's central insight: equilibrium (*zhong*) is not lukewarm compromise but the perfectly attuned state from which emotion is neither suppressed nor indulged, and constancy (*yong*) is the ordinary practice that keeps it ([[R061 — Practise the Doctrine of the Mean (zhongyong)]]; [[Shu]] and [[Ren]] supply the relational reading: the mean is found *between people*, in reciprocity, not in private calculation).
 
-The misunderstanding to avoid is that the mean is mediocrity or moderation-for-its-own-sake. It is not half the passion: anger at the right time, at the right person, for the right reason is *more* exacting than either rage or numbness — and “tune, don't force” is its practical signature ([[B036 — Tune, don't force — the lute string]]). The Buddhist parallel is the middle way of practice, relaxed diligence ([[The middle path]]); the compendium's E058 names the same thing as measure ([[E058 — Practise measure]]).
+The misunderstanding to avoid is that the mean is mediocrity or moderation-for-its-own-sake. It is not half the passion: anger at the right time, at the right person, for the right reason is *more* exacting than either rage or numbness, and “tune, don't force” is its practical signature ([[B036|Tune, don’t force]]). The Buddhist parallel is the middle way of practice, relaxed diligence ([[The middle path]]); the compendium's E058 names the same thing as measure ([[E058 — Practise measure]]).
 
 ## Facets
 
@@ -38,12 +38,14 @@ The misunderstanding to avoid is that the mean is mediocrity or moderation-for-i
 
 
 - [[Virtue]] — each virtue as a mean between two vices
-- [[B084]] — B084's philosophy parallels list this as the mean-as-corrective (Aristotle, NE II)
+- [[B084]] — the mean as a corrective: virtue corrects the passion in the direction it needs, toward the fitting amount (Aristotle, NE II)
 - [[D172]] — courage is this doctrine's stock example: the mean between rashness and cowardice
+- [[A005 — Choose the mean, not the extreme]] — the disposition holds by repeated practice
+- [[B036 — Tune, don't force — the lute string]] — the practical signature of the mean
 ## Sources
 
-- Aristotle, Nicomachean Ethics II
-- Confucius, Zhongyong, Doctrine of the Mean
+- Aristotle, Nicomachean Ethics II.6 — [Loeb translation](https://www.loebclassics.com/view/aristotle-nicomachean_ethics/1926/pb_LCL073.95.xml?readMode=recto); [Routledge Encyclopedia of Philosophy, “Aristotle's Ethics”](https://www.rep.routledge.com/dms/Aristotles-Ethics.pdf)
+- Confucius, Zhongyong, Doctrine of the Mean — see [[Zhongyong]]
 
 ## Cited in philosophy parallels
 
