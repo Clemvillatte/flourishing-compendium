@@ -22,6 +22,8 @@ The emotion-regulation version states the same point from the strategy side: "ER
 ## Related concepts
 
 - [[Situation selection]] — the Gross process-model strategy of shaping contexts before they arrive
+- [[Situational strategies]] — the strategy family the sensitivity feeds
+- [[Rumination]] — the contrast case: regulation that ignores the situation
 
 ## Sources
 
