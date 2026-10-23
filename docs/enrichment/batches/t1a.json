@@ -12,14 +12,15 @@
  "in_progress": null,
  "flagged": {
   "Aristotle": "Reopened for QC: advisor QC round-1: translator metadata, peripatetic/treatises claims, why-section sourcing, section word limits, humanizer tells",
-  "William James": "QC round-2 applied: PP Vol II URL, inline citations on core-ideas quotes",
-  "Plato": "QC round-2 applied: Socrates-speaker attribution, softened glosses",
+  "William James": "QC round-5: attention quote subject restored, core-ideas 293 within budget",
+  "Plato": "QC round-5: daimon/Elpis cave links removed per advisor, dispositions in plato-reciprocal draft",
   "John Dewey": "QC round-2 applied: democracy claim narrowed",
   "Siddhartha Gautama (the Buddha)": "QC round-2 applied: duration claims removed, sayings labeled, reciprocal regenerated on Buddha key",
-  "Epictetus": "QC round-2 applied: leg anecdote re-cited to Long introduction, education passage re-cited"
+  "Epictetus": "QC round-2 applied: leg anecdote re-cited to Long introduction, education passage re-cited",
+  "Baruch Spinoza": "QC rounds 4-5 applied: blockquote trimmed to SEP facts, SEP-grounded why, herem uncertainty restored, SP book identified and audited (all 107 Connected entries carry explicit Spinoza references, verified programmatically), note matches audited content"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:41:15+00:00",
+ "updated": "2026-10-23T05:45:46+00:00",
  "band_done": false
 }
