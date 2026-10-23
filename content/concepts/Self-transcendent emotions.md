@@ -19,8 +19,8 @@ The finding comes from two cross-sectional studies: "In two different contexts (
 
 ## Related concepts
 
-- [[Awe]]
-- [[Gratitude]]
+- [[Awe]] — the first-listed member of the study's self-transcendent class
+- [[Gratitude]] — another of the four emotions the study names
 - [[Self-transcendence]] — the broader construct the four emotions serve
 
 ## Sources
