@@ -110,6 +110,21 @@ Opened with fetch on 2026-10-23:
 
 Rewrite: supply the missing meaning of emptiness before asking the reader to use it; replace the procedural/repetitive Plain words with an explicitly everyday table analogy; make the example a comparison of two claims a writer could actually revise. No claim that the analogy exhausts Madhyamaka.
 
+## B096: targeted even-mindedness repair
+
+Opened with fetch on 2026-10-23:
+
+- [AN 8.6, Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html): eight worldly conditions; what does and does not consume the mind; welcoming and rebelling.
+- [SN 46.51, Thanissaro Bhikkhu](https://accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html): feeding and starving equanimity as a factor for Awakening, through appropriate attention.
+
+Targeted change: replaced the note/judge/revise instructions with a fresh explanation of how praise and criticism can occupy attention. Retained the substantive body, exact primary quote and natural recital example rather than rewriting for uniformity.
+
+Supervisor terminology flag: title says “equanimity as faculty”, but SN 46.51 calls it a factor for Awakening. The immutable title has not been changed.
+
+## Milestone QC record
+
+Independent advisor review completed on the first three repairs, on P087's separate locator check, on the Buddhist/Daoist read-only checks, and on B012/B017/B049. Requested a further four-page advisor check at the ten-item milestone, but that subagent stopped because its service reported credits exhausted. No failed review is being counted as a pass. Main-worker source checks and validation continue; final source/protection checks will be recorded.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.

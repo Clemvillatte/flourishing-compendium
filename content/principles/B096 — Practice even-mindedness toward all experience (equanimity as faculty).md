@@ -19,7 +19,7 @@ AN 8.6 sets the problem as the eight worldly conditions that spin after the worl
 The compendium adapts the disciple's reflection into an exercise for responding to praise and criticism.
 
 **Plain words**
-A compliment or complaint gives you something to consider, but you need not settle its importance immediately. Write down what was said, what you think it means and how you want to respond. Revisit that judgment if new information arrives.
+Praise can invite you to build your day around being admired; criticism can make the whole day seem spoiled. An everyday application of even-mindedness is to hear either without handing it the whole of your attention. What happened still deserves a response. The question is whether welcome and resentment have taken over the responding.
 
 *For example:* Imagine your child missing a note at a recital. You notice your disappointment and keep listening to the next part of the piece.
 
