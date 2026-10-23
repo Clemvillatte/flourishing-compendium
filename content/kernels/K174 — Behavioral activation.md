@@ -16,9 +16,9 @@ Schedule one enjoyable activity and one meaningful activity per day, and do them
 
 Suggested adaptation of the therapy's scheduling rules as set out in the clinician literature. The practice moves the Overt behaviour and Affect dimensions: what gets done, and how doing lands.
 
-1. Plan the two activities on a timetable, one that gives pleasure and one that matters. In the clinical form, "these are set out on planned timetables (activity schedules)", and "individuals are encouraged to include activities that are soothing and pleasurable, as rewards" ([Veale, *Advances in Psychiatric Treatment*](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9)). Editorial addition, not from the carriers: one of each per day is the compendium's dose.
-2. Do them according to the plan, not according to how you feel. The clinical literature names the obstacle directly: "people tell themselves that they will engage in a particular activity when they feel motivated or when they 'feel like it'", and the solution is "they should always act according to the plan or activity schedule - not according to how they feel at the time".
-3. Note what the activity did to your mood. The same source: "individuals should monitor the effect of their scheduled activities (and deviations from their plan) on their mood". Start small; "a major mistake is for a patient to try to tackle everything at once".
+1. Plan the two activities on a timetable, one that gives pleasure and one that matters. In the clinical form, "these are set out on planned timetables (activity schedules)", and "Individuals are encouraged to include activities that are soothing and pleasurable, as rewards" ([Veale, *Advances in Psychiatric Treatment*](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9)). Editorial addition, not from the carriers: one of each per day is the compendium's dose.
+2. Do them according to the plan, not according to how you feel. The clinical literature names the obstacle directly: "people tell themselves that they will engage in a particular activity when they feel motivated or when they 'feel like it'", and the solution is "they should always act according to the plan or activity schedule – not according to how they feel at the time".
+3. Note what the activity did to your mood. The same source: "Individuals should monitor the effect of their scheduled activities (and deviations from their plan) on their mood". Start small: "A major mistake is for a patient to try to tackle everything at once".
 
 ### Evidence
 
@@ -31,7 +31,7 @@ What the study does not test: it concerns outpatient psychotherapy for major dep
 
 ### A guided version
 
-None located; the practice is a timetable and a pencil, and no official guided track for it was found.
+None located; the self-help form of this practice is a written timetable, and its guides are workbooks rather than recordings.
 
 ## Facets
 
@@ -50,7 +50,7 @@ Practises the concept: [[Behavioral activation|Behavioral activation]]
 ## Related concepts
 
 - [[Behavioral activation]] — the concept page this kernel practices; it carries the Jacobson component analysis and the depression loop the scheduling interrupts.
-- [[Self-concordant goal pursuit over time]] — the model behind the meaningful half of the dose: goals that fit a person's values are pursued with more sustained effort.
+- [[Self-concordant goal pursuit over time]] — a neighboring model, not BA's own: it describes why value-fitting goals sustain effort, which the meaningful half of the dose resembles.
 - [[Avoidance versus attentional engagement]] — the withdrawal the schedule counteracts is avoidance wearing the face of rest.
 
 ## Related kernels

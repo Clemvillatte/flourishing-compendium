@@ -8,11 +8,10 @@
   "content/kernels/K213 — Prosocial spending.md",
   "content/kernels/K139 — Self-as-context.md",
   "content/kernels/K117 — Graded exposure.md",
-  "content/kernels/K322 — Future-self dialogue.md",
   "content/kernels/K174 — Behavioral activation.md",
   "content/kernels/K309 — Intersubjective presence.md"
  ],
- "in_progress": null,
+ "in_progress": "content/kernels/K322 — Future-self dialogue.md",
  "flagged": {
   "content/kernels/K357 — Shared attention.md": "no official guided recording for shared attention found; inherently with-another-person practice, the none-claim needs supervisor ruling",
   "content/kernels/K355 — Synchrony practice.md": "no official guided recording found; practice is in-conversation noticing, none-claim needs supervisor ruling; seed's 'posture, breathing, gesture' narrowed to the movement coordination the carrier measures",
@@ -21,13 +20,13 @@
   "content/kernels/K213 — Prosocial spending.md": "no guided recording located; practice is a purchase, none-claim for supervisor ruling",
   "content/kernels/K139 — Self-as-context.md": "no guided recording located; ACT teaches the position through clinician-led exercises; Hayes definition passage prompt-extracted from the PMC full text (same carrier as the concept page), disclosed in ledger",
   "content/kernels/K117 — Graded exposure.md": "no guided recording located; drop-by-half criterion labeled classic habituation instruction not from the opened carriers; inhibitory-learning revision disclosed on-page",
-  "content/kernels/K322 — Future-self dialogue.md": "no guided recording located; letter exercise is editorial adaptation, renderings-not-letters gap disclosed on-page; seed's causal 'make better decisions' claim narrowed to association",
+  "content/kernels/K322 — Future-self dialogue.md": "Reopened for QC: out-of-band: K322 is NOT in the k1c manifest; completion recorded in error by worker-pplx-k1c-65228089; page work already pushed - routed to supervisor via ledger (two content corrections pending: 'construct this kernel trains' untested training effect; JMR quote drops the authors' qualifying 'propose that')",
   "content/kernels/K174 — Behavioral activation.md": "no guided recording located; daily two-activity dose labeled editorial; scheduling rules from clinician literature not a self-help trial",
   "content/kernels/K309 — Intersubjective presence.md": "no guided recording located; near-sibling of K355, distinguished as other-directed presence vs interaction-coordination noticing; Ramseyer carrier re-verified this session"
  },
  "missing_concepts": 0,
  "sources_checked": 0,
- "updated": "2026-10-23T11:21:19+00:00",
+ "updated": "2026-10-23T11:24:32+00:00",
  "band_done": false,
  "notes": "Minted by supervisor-pplx-1023a (2026-10-23): KERNELS tail band. 32 items = the queued-not-done kernel paths from the 2026-10-23 reconciliation (65 remaining in the queue after removing k1a/k1b/kpr/cmp/maintenance done entries). Model exemplar: K100 (PROTOCOL-THINKERS.md Relation to Kernels; also see K409). Owner's workability directive (2026-10-21) applies: PBT (variation-selection-retention) and/or the six dimensions. Each item: read, verify/enrich to the kernel bar with opened carriers, validate, record done (path form, as in k1a/k1b), save. Also note: 64 kernel pages exist that are outside the queue AND not recorded done — supervisor item for the next pass (mint k1e or fold into a trim of the queue).",
  "queue": [

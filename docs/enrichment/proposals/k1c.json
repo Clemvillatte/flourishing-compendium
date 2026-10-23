@@ -1,25 +1,156 @@
 {
-  "reciprocal": [
-    {"into": "Savoring", "link": "K357 — Shared attention", "why": "the deliberate up-regulation of good feeling by attention has a social form: attending to the same thing with company"},
-    {"into": "Shared reality", "link": "K357 — Shared attention", "why": "attending to the same thing is one everyday setting where perceived commonality of inner states shows up"},
-    {"into": "Intersubjectivity", "link": "K357 — Shared attention", "why": "a wordless shared focus is a simple instance of the shared world"},
-    {"into": "Capitalization", "link": "K357 — Shared attention", "why": "the talking practice that points the same direction as silent co-attendance"},
-    {"into": "Being-with (Mitsein)", "link": "K357 — Shared attention", "why": "attending to one thing together, without words, parallels Heidegger's account of being-with"},
-    {"into": "Intersubjectivity", "link": "K355 — Synchrony practice", "why": "the body layer this practice notices is part of how sharedness across minds is enacted"},
-    {"into": "Embodied cognition", "link": "K355 — Synchrony practice", "why": "the synchrony findings are one of the social branches of the embodied research programme"},
-    {"into": "I and Thou", "link": "K355 — Synchrony practice", "why": "attending to the bodily exchange, without staging it, parallels the unpossessive meeting Buber describes"},
-    {"into": "Empathy", "link": "K355 — Synchrony practice", "why": "movement coordination is a neighboring bodily phenomenon to felt understanding"},
-    {"into": "Consummatory experience", "link": "K328 — Aesthetic attention", "why": "this kernel is the practice of Dewey's fulfilled experience: letting one thing run its course in attention"},
-    {"into": "Neuroaesthetics", "link": "K328 — Aesthetic attention", "why": "the biological layer under the attentional practice of engaging with art and objects"},
-    {"into": "Awe", "link": "K328 — Aesthetic attention", "why": "one of the stronger feelings an aesthetic object can trigger is awe at vastness"},
-    {"into": "Nature exposure", "link": "K205 — Nature exposure", "why": "the practice page for this concept; it anchors the same evidence with the studies' scope notes"},
-    {"into": "Peak experiences", "link": "K205 — Nature exposure", "why": "natural settings are among the places Maslow's rare moving moments get occasioned"},
-    {"into": "Prosocial spending", "link": "K213 — Prosocial spending", "why": "the practice page for this concept, including the replication record"},
-    {"into": "Acts of kindness (Lyubomirsky)", "link": "K213 — Prosocial spending", "why": "the sibling practice of kind acts without money changing hands; the two literatures run parallel"},
-    {"into": "K110 — Savoring", "link": "K357 — Shared attention", "why": "shared attention is savoring's social form"},
-    {"into": "K228 — Awe practice", "link": "K328 — Aesthetic attention", "why": "awe and aesthetic attention are neighboring ways of attending to something larger"},
-    {"into": "K303 — Sensory nature immersion", "link": "K205 — Nature exposure", "why": "immersion in natural settings through the senses is nature exposure taken slowly"},
-    {"into": "K211 — Acts of kindness", "link": "K213 — Prosocial spending", "why": "kindness with and without money changing hands"}
-  ],
-  "inline": []
+ "reciprocal": [
+  {
+   "into": "Savoring",
+   "link": "K357 — Shared attention",
+   "why": "the deliberate up-regulation of good feeling by attention has a social form: attending to the same thing with company"
+  },
+  {
+   "into": "Shared reality",
+   "link": "K357 — Shared attention",
+   "why": "attending to the same thing is one everyday setting where perceived commonality of inner states shows up"
+  },
+  {
+   "into": "Intersubjectivity",
+   "link": "K357 — Shared attention",
+   "why": "a wordless shared focus is a simple instance of the shared world"
+  },
+  {
+   "into": "Capitalization",
+   "link": "K357 — Shared attention",
+   "why": "the talking practice that points the same direction as silent co-attendance"
+  },
+  {
+   "into": "Being-with (Mitsein)",
+   "link": "K357 — Shared attention",
+   "why": "attending to one thing together, without words, parallels Heidegger's account of being-with"
+  },
+  {
+   "into": "Intersubjectivity",
+   "link": "K355 — Synchrony practice",
+   "why": "the body layer this practice notices is part of how sharedness across minds is enacted"
+  },
+  {
+   "into": "Embodied cognition",
+   "link": "K355 — Synchrony practice",
+   "why": "the synchrony findings are one of the social branches of the embodied research programme"
+  },
+  {
+   "into": "I and Thou",
+   "link": "K355 — Synchrony practice",
+   "why": "attending to the bodily exchange, without staging it, parallels the unpossessive meeting Buber describes"
+  },
+  {
+   "into": "Empathy",
+   "link": "K355 — Synchrony practice",
+   "why": "movement coordination is a neighboring bodily phenomenon to felt understanding"
+  },
+  {
+   "into": "Consummatory experience",
+   "link": "K328 — Aesthetic attention",
+   "why": "this kernel is the practice of Dewey's fulfilled experience: letting one thing run its course in attention"
+  },
+  {
+   "into": "Neuroaesthetics",
+   "link": "K328 — Aesthetic attention",
+   "why": "the biological layer under the attentional practice of engaging with art and objects"
+  },
+  {
+   "into": "Awe",
+   "link": "K328 — Aesthetic attention",
+   "why": "one of the stronger feelings an aesthetic object can trigger is awe at vastness"
+  },
+  {
+   "into": "Nature exposure",
+   "link": "K205 — Nature exposure",
+   "why": "the practice page for this concept; it anchors the same evidence with the studies' scope notes"
+  },
+  {
+   "into": "Peak experiences",
+   "link": "K205 — Nature exposure",
+   "why": "natural settings are among the places Maslow's rare moving moments get occasioned"
+  },
+  {
+   "into": "Prosocial spending",
+   "link": "K213 — Prosocial spending",
+   "why": "the practice page for this concept, including the replication record"
+  },
+  {
+   "into": "Acts of kindness (Lyubomirsky)",
+   "link": "K213 — Prosocial spending",
+   "why": "the sibling practice of kind acts without money changing hands; the two literatures run parallel"
+  },
+  {
+   "into": "K110 — Savoring",
+   "link": "K357 — Shared attention",
+   "why": "shared attention is savoring's social form"
+  },
+  {
+   "into": "K228 — Awe practice",
+   "link": "K328 — Aesthetic attention",
+   "why": "awe and aesthetic attention are neighboring ways of attending to something larger"
+  },
+  {
+   "into": "K303 — Sensory nature immersion",
+   "link": "K205 — Nature exposure",
+   "why": "immersion in natural settings through the senses is nature exposure taken slowly"
+  },
+  {
+   "into": "K211 — Acts of kindness",
+   "link": "K213 — Prosocial spending",
+   "why": "kindness with and without money changing hands"
+  },
+  {
+   "into": "Self-as-context",
+   "link": "K139 — Self-as-context",
+   "why": "the practice page for this concept; it carries the component-evidence caution"
+  },
+  {
+   "into": "Cognitive defusion",
+   "link": "K139 — Self-as-context",
+   "why": "the sibling ACT process; stepping back from thoughts versus stepping back from the self-story"
+  },
+  {
+   "into": "Graded exposure / systematic desensitisation (Wolpe)",
+   "link": "K117 — Graded exposure",
+   "why": "the practice page for this concept"
+  },
+  {
+   "into": "The second arrow",
+   "link": "K117 — Graded exposure",
+   "why": "staying in the feared situation is the refusal to shoot the second arrow"
+  },
+  {
+   "into": "Behavioral activation",
+   "link": "K174 — Behavioral activation",
+   "why": "the practice page for this concept"
+  },
+  {
+   "into": "Intersubjectivity",
+   "link": "K309 — Intersubjective presence",
+   "why": "the practice page for attending to the bodily floor of the shared world"
+  },
+  {
+   "into": "I and Thou",
+   "link": "K309 — Intersubjective presence",
+   "why": "attending to the other's whole presence rather than only their words parallels Buber's meeting"
+  },
+  {
+   "into": "Embodied cognition",
+   "link": "K309 — Intersubjective presence",
+   "why": "the synchrony findings are a social branch of the embodied research programme"
+  },
+  {
+   "into": "K355 — Synchrony practice",
+   "link": "K309 — Intersubjective presence",
+   "why": "the near-sibling practice: presence of the other versus coordination of the exchange"
+  },
+  {
+   "into": "K139 — Self-as-context",
+   "link": "K402 — Listen to the storyteller for thirty seconds",
+   "why": "both train the noticing position relative to the self-story",
+   "notes": "reverse-direction reciprocal from K139's Related list"
+  }
+ ],
+ "inline": []
 }

@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K309** — Intersubjective presence
 
-In your next conversation, attend to the embodied presence of the other person as well as to the words: posture, breathing, the expressions that accompany speech. The practice belongs to phenomenology's account of social life, in which the other's intentions are read in their body before they are heard in their sentences. Reach for it when you are with someone and your attention has drifted to your own next remark.
+In your next conversation, attend to the embodied presence of the other person as well as to the words: posture, breathing, the expressions that accompany speech. The practice belongs to phenomenology's account of social life, in which, on Merleau-Ponty's reading, the other's intentions show in their body and gesture. Reach for it when you are with someone and your attention has drifted to your own next remark.
 
 ### Protocol
 
