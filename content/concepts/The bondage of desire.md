@@ -21,6 +21,12 @@ The verse treats craving as something with a root, which is why the compendium p
 
 The distinction verse 338 draws is that cutting down the tree does not prevent regrowth while its roots remain uncut and firm; the remedy follows from the root, not the branches. Any application to observable behavior is the reader's to draw.
 
+## Related concepts
+
+- [[The insatiability of craving]] — the Buddhist analysis of why craving never fills
+- [[The craving-to-addiction model]] — the modern mechanism the flood-and-reed image anticipates
+- [[Impermanence]] — the mark of existence that craving denies
+
 ## Sources
 
 - Dhammapada, chapter 24 (Tanhavagga: Craving), verses 336-338, translated from the Pali by Acharya Buddharakkhita, AccessToInsight: [accesstoinsight.org/tipitaka/kn/dhp/dhp.24.budd.html](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.24.budd.html)
