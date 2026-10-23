@@ -39,8 +39,8 @@ A delayed flight: say the fact once ("I will not make the connection"), feel the
 ## Sources
 
 - [Behavioral Tech Institute, On Radical Acceptance (Part 1)](https://behavioraltech.org/on-radical-acceptance-part-1/) — Linehan's definition and its Zen source
-- [Dialectical Behavior Therapy: Current Indications and Unique Elements, Psychiatry (2006), PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963469/) — the description of radical acceptance
-- [Dialectical behavior therapy as treatment for borderline personality disorder, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/) — acceptance as not approval
+- [Chapman (2006), Dialectical Behavior Therapy: Current Indications and Unique Elements, Psychiatry (Edgmont) 3(9), PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963469/) — the description of radical acceptance
+- [May et al. (2016), Dialectical behavior therapy as treatment for borderline personality disorder, Mental Health Clinician 6(2), PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6007584/) — acceptance as not approval
 - [Cordova (2001), Acceptance in Behavior Therapy: Understanding the Process of Change, The Behavior Analyst 24(2), PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731500/pdf/behavan00010-0095.pdf) — when acceptance versus change applies
 - Linehan, 1993
 
