@@ -68,9 +68,14 @@
      "t": "2026-10-23T06:06:11+00:00",
      "to": "qc_pending",
      "note": "first advisor QC"
+    },
+    {
+     "t": "2026-10-23T06:09:32+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 1 repairs applied; awaiting round 2"
     }
    ]
   }
  },
- "updated": "2026-10-23T06:06:11+00:00"
+ "updated": "2026-10-23T06:09:32+00:00"
 }
