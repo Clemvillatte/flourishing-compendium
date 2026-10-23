@@ -25,7 +25,7 @@ Dewey connects interest with discipline: the capacity to persist in an intellige
 **Plain words**
 Imagine a page of measurements that looks like busywork until you are trying to build a shelf that fits. The figures now have a job you care about. That is an everyday way into James's idea: a subject can gain meaning through a purpose already alive for you. The connection gives you a reason to work through the difficult parts.
 
-For example: You avoid a required statistics course but enjoy following football. Work through a probability exercise once with the textbook's generic data and once with match results, then explain the same concept using a third dataset. Compare where you can do the reasoning yourself. Keep the sporting connection if it helps you enter the subject and carry the idea beyond sport. This is a proposed learning exercise, not a result established by the quotations.
+For example: You avoid a required statistics course but enjoy following football. Work through a probability exercise once with the textbook's generic data and once with match results, then explain the same concept using a third dataset. Compare where you can do the reasoning yourself. Keep the sporting connection if it helps you enter the subject and carry the idea beyond sport.
 
 ## Related concepts
 
