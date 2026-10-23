@@ -12,7 +12,7 @@
   "Zhuangzi",
   "Laozi"
  ],
- "in_progress": null,
+ "in_progress": "Socrates",
  "flagged": {
   "Aristotle": "Reopened for QC: advisor QC round-1: translator metadata, peripatetic/treatises claims, why-section sourcing, section word limits, humanizer tells",
   "William James": "QC round-5: attention quote subject restored, core-ideas 293 within budget",
@@ -25,6 +25,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:26:30+00:00",
+ "updated": "2026-10-23T06:26:50+00:00",
  "band_done": false
 }
