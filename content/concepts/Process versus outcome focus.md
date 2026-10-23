@@ -7,18 +7,36 @@ file: "Process versus outcome focus"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Process versus outcome focus is the question of where attention rests during pursuit: on the controllable actions of the moment, or on the desired result. The sport-psychology literature gives the distinction its sharpest empirical form: in a 2024 meta-analysis of goal-setting in sport, process goals — a focus on what an athlete does when performing a specific skill — had the largest effect on performance (*d* = 1.36), compared with performance goals (*d* = 0.44) and outcome goals, whose effect on performance was negligible (*d* = 0.09) ([Williamson et al. 2024, systematic review and meta-analysis](https://www.tandfonline.com/doi/full/10.1080/1750984X.2022.2116723)). The related construct in motivation research is Robert Vallerand's dualistic model of passion: harmonious passion — loving an activity for its own sake — predicts flow and positive affect *during* the activity, while obsessive passion, in which the activity is contingent on self-worth and outcome, predicts rigid persistence, rumination, and burnout ([the dualistic model summarized in Lafrenière et al. 2011](https://www.southampton.ac.uk/~crsi/Lafreniere%20Belanger%20Sedikides%20%20Vallerand%202011.pdf)).
+Process versus outcome focus is the question of where attention rests while pursuing something: on the controllable actions of the moment, or on the desired result. Sport psychology gives the contrast its sharpest evidence. A systematic review and meta-analysis of goal setting in sport searched 17,841 articles, included 27, and reported that "Process goals had the largest effect on performance (d = 1.36) compared to performance goals (d = 0.44) and outcome goals (d = 0.09)". Process goals "also had large effects on self-efficacy (d = 1.11)" (Williamson et al., International Review of Sport and Exercise Psychology, [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/1750984X.2022.2116723)).
 
-The mechanism: outcome goals name results that are only partly controllable, so attention placed on them imports variance and self-evaluation into the doing; process goals name controllable actions, and the meta-analytic findings follow — process goals generally enhanced self-efficacy, intrinsic interest, and satisfaction, and in Kingston and Hardy's golf study increased golfers' ability to control anxiety, where performance-goal training did not (Williamson et al. 2024) ([[P104 — Perfect the process, not the product]]; [[B178 — Practice without gaining ideas]]).
+### Why the doing improves
 
-The distinction to hold: process focus is not outcome-denial. Outcomes set direction; process holds attention. The failure mode is not caring about results but letting them colonize the doing — the runner chasing the medal loses the running that made her fast.
+The reason is partly one of control. An outcome, such as winning, depends on other people and on luck, so putting attention there brings variance and self-judgement into the act. A process goal, such as keeping the elbow high on every serve, is something the athlete can do right now. That reading is an interpretation, since the abstract reports the effects and not the mechanism. The authors also note that studies guided by self-regulation theory produced the largest performance gains (d = 1.53), and that the psychological effects were rarely clear enough to draw conclusions.
 
-An example at its smallest: before any performance, name the one controllable action of the first minute, and let that be the whole assignment.
+### The motivational side
 
-Its contemplative cognates are the Gita's [[Nishkama karma]] (action without attachment to its fruits) and the Stoic focus on what depends on us; its kin page is [[Flow]].
+Research on passion points the same way. Lafrenière and colleagues, studying self-esteem and passion for activities, describe "two types of passion, harmonious and obsessive, that predict adaptive and less adaptive outcomes, respectively" (Lafrenière et al., 2011, [University of Southampton, PDF](https://www.southampton.ac.uk/~crsi/Lafreniere%20Belanger%20Sedikides%20%20Vallerand%202011.pdf)). Obsessive passion, in their account, comes with a fragile ego and defensiveness, which is a state in which the result is a verdict on the self.
+
+### What it is not
+
+Process focus is not indifference to results. Outcomes set the direction; process holds the attention. The failure is letting the result take over the doing, so that the runner chasing a medal stops noticing the running.
+
+### A small case
+
+Before a presentation, choose one process target for the first two minutes, such as slow breaths and eye contact with one person at a time, rather than "make the room like me". (Illustrative scenario, not a reported case.)
+
+### In the compendium
+
+- [[P104 — Perfect the process, not the product]] and [[PP021 — Value the process over the outcome]] — the principle form
+- [[B178 — Practice without gaining ideas]] and [[B045 — Let practice and enlightenment be one]] — the Buddhist version
+- [[K031 — Abandon any expectation of results]], [[Y098 — Act, release the fruits]] and [[Nishkama karma]] — the Indian version, acting without clinging to fruits
+- [[AT023 — Learn to attend to process, not just outcome]] — attention training
+- [[Flow]] — where process focus often leads
 
 ## Sources
 
+- [Williamson et al., The performance and psychological effects of goal setting in sport: A systematic review and meta-analysis, International Review of Sport and Exercise Psychology](https://www.tandfonline.com/doi/full/10.1080/1750984X.2022.2116723) — effect sizes quoted above
+- [Lafrenière, Bélanger, Sedikides & Vallerand (2011), Self-esteem and passion for activities, Personality and Individual Differences](https://www.southampton.ac.uk/~crsi/Lafreniere%20Belanger%20Sedikides%20%20Vallerand%202011.pdf) — harmonious and obsessive passion
 - Vallerand, 2010
 
 ## Cited in psychology parallels
