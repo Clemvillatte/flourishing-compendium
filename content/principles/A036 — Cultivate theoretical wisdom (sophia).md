@@ -21,6 +21,10 @@ If you can follow an argument's steps but cannot explain its starting claims, so
 
 *For example:* Imagine reading a philosophical account of reality. You can repeat its conclusion, but one of its starting claims stays unclear. That claim, written down, becomes the question you investigate next.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the oracle story, wisdom that starts from knowing nothing (ST152)
+
 ## Sources
 
 - [Perseus Digital Library: Aristotle, Nicomachean Ethics, Book VI (tr. H. Rackham)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abook%3D6) — the wisdom definition passage (VI.7)
