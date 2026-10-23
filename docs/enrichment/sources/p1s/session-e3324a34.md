@@ -57,6 +57,15 @@ Opened with fetch on 2026-10-23:
 
 Rewrite: restore the ethical/liberative scope rather than treating appamada as a generic scheduling prompt. The bodily-immortality boundary is the compendium's interpretive caution supported by reading the two passages together. The promise/call illustration is expressly a modest everyday exercise, not a substitute for the Buddhist path.
 
+## B049: direct no-mind carrier and technical training
+
+Opened with fetch on 2026-10-23:
+
+- [Scarsdale Aikido, attributed Unfettered Mind excerpt](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/): retained sword quotation checked.
+- [Takuan Soho, The Unfettered Mind, William Scott Wilson translation, direct PDF reproduction](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf): translator named on opening page; PDF pp. 4 to 8, 12 and 13 read for fixation, mobile awareness, technical training and the no-mind distinction. Newly quoted cart/two-wheels sentence matched p. 8.
+
+Rewrite: move from a qualified blog excerpt to the directly opened translated text while retaining the old carrier. Distinguish fixation from insensibility and make training explicit. The conversation analogy and musician comparison are marked as editorial applications, not claims about modern treatment, a tested protocol or Zen attainment.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.

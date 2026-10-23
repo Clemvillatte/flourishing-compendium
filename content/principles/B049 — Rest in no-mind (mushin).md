@@ -12,22 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 49** — Rest in no-mind (mushin)
 
-The excerpts from Takuan Soho reproduced by Scarsdale Aikido describe attention becoming detained by what it notices. When you notice the sword moving to strike you and your mind stops at it, he writes, your own movements are undone and you are cut down. The mind that does not stop anywhere is what the excerpts call immovable; the page defines it as glancing at something without stopping. (Takuan Soho, excerpts reproduced at the Scarsdale Aikido page.)
+In William Scott Wilson's translation of The Unfettered Mind, Takuan describes a swordsman's attention becoming caught by the opponent's weapon. The problem is being detained by what one sees, leaving no freedom to respond to what follows. ([“The Affliction of Abiding in Ignorance”, PDF p. 4](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf))
 
 > "when you first notice the sword that is moving to strike you, if you think of meeting that sword just as it is, your mind will stop at the sword in just that position, your own movements will be undone, and you will be cut down by your opponent" (Takuan Soho, [The Mysterious Record of Immovable Wisdom, excerpt](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/))
 
-A separate passage reproduced on the page describes advanced training: arms, legs and body remember what to do, while the mind does not enter into it.
+His “no-mind” neither congeals nor fixes itself in one place, yet is not insensible like wood or stone. ([“The Mind of the Existent Mind and the Mind of No-Mind”, PDF p. 13](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf)) He also insists on technical training: understanding a principle alone does not make the hands work. ([PDF p. 8](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf))
 
-The compendium adapts Takuan's warning into an exercise in noticing where attention has become detained during a familiar activity.
+> "Technique and principle are just like the two wheels of a cart." ([The Unfettered Mind, PDF p. 8](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf))
 
 **Plain words**
-When you notice yourself replaying an error, describe what the task requires next. Try continuing without first settling your judgment of the whole performance.
+For an everyday analogy, imagine still defending the point you made two minutes ago while someone is asking you a new question. You have something in mind, but are you available to what is happening? The invitation is to let the next moment have a claim on your attention too. This is an analogy, not a definition of Zen attainment.
 
-*For example:* Imagine a musician dwelling on a missed note while the ensemble continues. They attend to the next cue and continue playing.
+For example: On a familiar piece, a musician misses a note. They can stop to analyse it, or continue to the next phrase and return to the mistake after the run. Record both approaches at rehearsal and compare how the pauses affect continuity. Retain whichever serves that part of practice: analysis has a place, and continuing without a long interruption has another. This rehearsal comparison is the compendium's proposal, not a test reported by Takuan.
 
 ## Sources
 
 - [Takuan Soho, The Mysterious Record of Immovable Wisdom, excerpts reproduced at the Scarsdale Aikido page](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/) — the stopping mind and the trained body
+- [Takuan Soho, The Unfettered Mind, translated by William Scott Wilson, direct text reproduction (PDF)](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf) — PDF pp. 4 to 8 and 13; fixation, technique and principle, and the no-mind distinction
 
 ## Psychology parallels
 
