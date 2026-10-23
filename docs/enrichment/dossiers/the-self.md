@@ -4,7 +4,7 @@
 
 This dossier is a map, not an essay. The aim is that a reader can say “I want to think about the self”, open this page, and see the whole spread of what the compendium holds on it: every entry that bears on the self, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to loosen the grip of the self-as-object, the self known, judged and defended.
 
-Two essay angles the material supports. First, the two great examinations of experience, SN 22.59’s aggregate analysis and Advaita Vedānta’s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person’s problems than about their own, and instruction to self-distance eliminated the asymmetry ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf)).
+Two essay angles the material supports. First, the two great examinations of experience, SN 22.59’s aggregate analysis and Advaita Vedānta’s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person’s problems than about their own, and in Studies 2 and 3, instructing people to self-distance eliminated the asymmetry ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf)).
 
 How to read this page. Each line gives the entry’s own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
 
@@ -349,6 +349,20 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 The compendium also organizes self material into structured pathways; the hub is [SE: Self](https://clemvillatte.github.io/flourishing-compendium/#card=SE%20%E2%80%94%20Self), with layers on the architecture of self, knowing and evaluating the self, self-compassion, identity construction and revision, self in relation, self-expansion, and specific self-challenges:
 
+- [SE-S01 — LAYER I — FIRST PRINCIPLES — THE ARCHITECTURE OF SELF](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S01%20%E2%80%94%20LAYER%20I%20%E2%80%94%20FIRST%20PRINCIPLES%20%E2%80%94%20THE%20ARCHITECTURE%20OF%20SELF)
+
+- [SE-S02 — LAYER II — KNOWING AND EVALUATING THE SELF](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S02%20%E2%80%94%20LAYER%20II%20%E2%80%94%20KNOWING%20AND%20EVALUATING%20THE%20SELF)
+
+- [SE-S03 — LAYER III — SELF-COMPASSION AND SELF-RELATIONSHIP](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S03%20%E2%80%94%20LAYER%20III%20%E2%80%94%20SELF-COMPASSION%20AND%20SELF-RELATIONSHIP)
+
+- [SE-S04 — LAYER IV — IDENTITY — CONSTRUCTION AND REVISION](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S04%20%E2%80%94%20LAYER%20IV%20%E2%80%94%20IDENTITY%20%E2%80%94%20CONSTRUCTION%20AND%20REVISION)
+
+- [SE-S05 — LAYER V — SELF IN RELATION — OTHERS AND CULTURE](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S05%20%E2%80%94%20LAYER%20V%20%E2%80%94%20SELF%20IN%20RELATION%20%E2%80%94%20OTHERS%20AND%20CULTURE)
+
+- [SE-S06 — LAYER VI — SELF-EXPANSION AND GROWTH](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S06%20%E2%80%94%20LAYER%20VI%20%E2%80%94%20SELF-EXPANSION%20AND%20GROWTH)
+
+- [SE-S07 — LAYER VII — SPECIFIC SELF-CHALLENGES & BOUNDARY CONDITIONS](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S07%20%E2%80%94%20LAYER%20VII%20%E2%80%94%20SPECIFIC%20SELF-CHALLENGES%20%26%20BOUNDARY%20CONDITIONS)
+
 
 One title match was left out of the map as off-theme: [The self-evident](https://clemvillatte.github.io/flourishing-compendium/#card=The%20self-evident) is Aristotle’s account of what demonstration rests on, not an entry about the self.
 
@@ -408,4 +422,4 @@ The research behind it is quoted in the opening: self-distancing eliminated the 
 
 16. [Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted)](https://clemvillatte.github.io/flourishing-compendium/#card=K384%20%E2%80%94%20Two-Chair%20dialogue%3A%20compassionate%20self%20%E2%86%94%20vulnerable%20self%20%28solo-adapted%29): a spoken dialogue between the vulnerable chair and the compassionate chair, facing each other.
 
-::Retention:: Retention is what people keep because it works for them. A kernel that changes one reader’s week will be dropped by another; the map above is wide on purpose, so what stays is a matter of fit between the practice and the life it enters. What people usually report keeping is small and concrete: a name for the observer, a kinder sentence to say to themselves, a story they found out they could re-tell.
+::Retention:: Retention is what people keep because it works for them. Keep a practice that helped, and give it a place in ordinary life; a name for the observer, a kinder sentence to say to yourself, a story you found out you could re-tell.
