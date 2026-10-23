@@ -55,7 +55,9 @@ Opened with fetch on 2026-10-23:
 - [Dhammapada 21–24, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html): retained verse 21 quotation; read verses 22–24 for the Nibbana/liberation context and conduct/consideration/restraint.
 - [DN 16, Vajira and Story, part 6, §§7–9](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html): final exhortation quoted verbatim and placed in the account preceding the Buddha's passing.
 
-Rewrite: restore the ethical/liberative scope rather than treating appamada as a generic scheduling prompt. The bodily-immortality boundary is the compendium's interpretive caution supported by reading the two passages together. The promise/call illustration is expressly a modest everyday exercise, not a substitute for the Buddhist path.
+Rewrite: restore the ethical/liberative scope rather than treating appamada as a generic scheduling prompt. The promise/call illustration is expressly a modest everyday exercise.
+
+Milestone advisor fixes applied: verse 24 now uses discernment and self-control, following this translation; DN 16 citation narrowed to the verified exhortation at §8, since death occurs later at §11; removed the unnecessary bodily-immortality rebuttal; replaced the vague caring-about/caring-for contrast with an everyday re-derivation using the verse's waking/death image.
 
 ## B049: direct no-mind carrier and technical training
 

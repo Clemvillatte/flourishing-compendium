@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 17** — Practice heedfulness (appamada)
 
-DN 16 places an appeal to earnest effort at the end of the Buddha's life: compounded things pass away. ([DN 16, part 6, §8](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html)) The Dhammapada gives heedfulness a larger setting than keeping busy. Verses 21 to 23 connect it with the Deathless and the pursuit of Nibbana; verse 24 joins it to pure conduct, consideration, restraint and righteous living. ([Dhammapada 21 to 24](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html))
+DN 16 places an appeal to earnest effort at the end of the Buddha's life: compounded things pass away. ([DN 16, part 6, §8](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html)) The Dhammapada gives heedfulness a larger setting than keeping busy. Verses 21 to 23 connect it with the Deathless and the pursuit of Nibbana; verse 24 joins it to pure conduct, discernment, self-control and righteous living. ([Dhammapada 21 to 24](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html))
 
 > "Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already." (Dhammapada 21, [Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html))
 
 > "Behold now, bhikkhus, I exhort you: All compounded things are subject to vanish. Strive with earnestness!" ([DN 16, part 6, §8, Vajira and Story](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html))
 
-The final exhortation is spoken before the Buddha's death. The “Deathless” in the Dhammapada belongs to its account of liberation; the two passages should not be turned into a promise of bodily immortality. ([DN 16, part 6, §§8 and 9](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html); [Dhammapada 21 to 23](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html))
+Verse 23 describes the goal as “the incomparable freedom from bondage”. Heedfulness belongs to that sustained pursuit of liberation. ([Dhammapada 23](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html))
 
 **Plain words**
-For an everyday application, think of the difference between caring about a promise and caring for it. The first can remain a feeling; the second involves noticing when the promise needs something from you. Heedfulness asks for that continuing attention. One burst of enthusiasm is not the same thing as tending what you have chosen to protect.
+For an everyday application, picture a busy day in which you never ask what your actions are serving. A neglected promise disappears among urgent messages; a habit continues because you have stopped looking at it. The Dhammapada's image of being “as if dead already” can prompt a question here: are you awake to the way you are living? Heedfulness means continuing to notice and take care.
 
-For example: You promised to call a relative who lives alone, but each week you leave it to a spare moment. Try agreeing on a time instead. Compare the calls you actually make over the next few weeks with the calls you previously intended to make. Keep the arrangement that helps you honour the promise, and revise it if it repeatedly fails. This modest exercise concerns a commitment; it does not stand in for the Buddhist path to liberation.
+For example: You promised to call a relative who lives alone, but each week you leave it to a spare moment. Try agreeing on a time instead. Compare the calls you actually make over the next few weeks with the calls you previously intended to make. Keep the arrangement that helps you honour the promise, and revise it if it repeatedly fails. This is a modest compendium exercise in continuing care.
 
 ## Sources
 
