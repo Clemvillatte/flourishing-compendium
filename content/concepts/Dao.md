@@ -7,15 +7,29 @@ file: "Dao"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Dao (道) is the term Laozi uses for the way the world works — the source and pattern of all things, which can be pointed at but not named ("a dao that can be spoken is not the constant Dao", Daodejing 1). It is not a god or a creator: the Dao does not command, it nourishes without possessing (Daodejing 51). The image family in the Daodejing is of water (yielding yet carving canyons), of the valley (empty yet generative), of the mother (source without interference).
+Dao (道) is the term Laozi uses for the way the world works: the source and pattern of all things, which can be pointed at but not named. Chapter 1 of the Daodejing opens by canceling every name that might be given it:
 
-The practical reading carried by the compendium's principle D001: the Dao is what the world's own patterns are — and the practice is to align your effort with those patterns rather than against them. This makes Dao the root of wu wei (act without forcing) and ziran (be what you are of itself).
+> "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name." (Daodejing 1, Legge translation, [sacred-texts.com](https://www.sacred-texts.com/tao/taote.htm))
 
-The Dao is also the Chinese member of a family of concepts that name the self-organising pattern of the world: Heraclitus' Logos and Panta rhei (everything flows), the stream of consciousness in James' psychology, and flow as Csikszentmihalyi describes it in experience — the felt alignment of a person with what is happening.
+It is not a god or a creator. The Dao does not command; it nourishes without possessing:
+
+> "It produces them and makes no claim to the possession of them; it carries them through their processes and does not vaunt its ability in doing so; it brings them to maturity and exercises no control over them;--this is called its mysterious operation." (Daodejing 51, Legge translation, [sacred-texts.com](https://www.sacred-texts.com/tao/taote.htm))
+
+The image family in the Daodejing is of water (yielding yet carving canyons), of the valley (empty yet generative), of the mother (source without interference).
+
+### The practical reading
+
+The compendium's principle D001 reads the Dao as what the world's own patterns are, and the practice as aligning your effort with those patterns rather than against them. This makes Dao the root of wu wei (act without forcing) and ziran (be what you are of itself).
+
+### The family of flow-patterns
+
+The Dao is the Chinese member of a family of concepts that name the self-organising pattern of the world: Heraclitus' Logos and Panta rhei (everything flows), the stream of consciousness in James' psychology, and flow as Csikszentmihalyi describes it in experience, the felt alignment of a person with what is happening.
+
+### In everyday life
+
+Reading the grain of a situation before acting: the argument that escalates when you push and dissolves when you stop, the body that heals on rest days. (Illustrative scenario, not a reported participant or study result.)
 
 ## Related concepts
-
-
 
 - [[Wu wei]] — acting with, not against, the Dao
 - [[Ziran (naturalness)]] — the Dao's model is what is so of itself
@@ -24,9 +38,10 @@ The Dao is also the Chinese member of a family of concepts that name the self-or
 - [[Stream of consciousness]] — the flowing pattern of mind
 - [[Brahman]] — a cross-tradition pairing offered for reflection, not a claimed influence
 - [[D141]] — the cook's method and its lesson in nourishing life
+
 ## Sources
 
-- Laozi, Daodejing 1, 4, 25, 51
+- [Laozi, Daodejing, James Legge translation (sacred-texts.com)](https://www.sacred-texts.com/tao/taote.htm) — chapters 1 and 51, quoted above
 
 ## Cited in philosophy parallels
 
