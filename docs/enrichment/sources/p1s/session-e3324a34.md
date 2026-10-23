@@ -27,6 +27,17 @@ Rewrite: explain the patience argument instead of paraphrasing it awkwardly; rep
 
 Advisor QC: corrected two distinct replies. Verse 109 answers the lack of helpful intention with the Dharma analogy. Verses 110–111 address harmful intention by contrasting a hostile person with a doctor. “Patience” replaces the looser “restraint” when describing the textual analogy. The refusal example and mistreatment boundary are expressly compendium applications, not an attributed protocol or evidence of treatment efficacy. Final draft: 246 prose words; no hard validation errors.
 
+## B165: peace in thought, speech and action
+
+Opened with fetch on 2026-10-23:
+
+- [Dhammapada 96, Acharya Buddharakkhita translation](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.budd.html), “The Arahant or Perfected One”. Newly quoted verse 96 matched verbatim.
+- [Thich Nhat Hanh interviewed by John Malkin, Lion's Roar](https://www.lionsroar.com/in-engaged-buddhism-peace-begins-with-you/), published 1 July 2003. Existing peace/understanding/loving-kindness quotation matched. Added “Action should be meditation at the same time.” Context includes his comments on anger in the 1960s US peace movement, rejection of a society/practice dualism, and helping a wounded child while breathing mindfully.
+
+Rewrite: connect the ideal to conduct without merging the two sources; add the actual Dhammapada verse; replace a two-step procedural Plain words block with an expressly editorial everyday application; make the kitchen example compare actual openings and review what was said without promising agreement.
+
+Advisor QC: removed the straw-man contrast about a brief pause; replaced an inference about perfect calm with the author's own action/meditation statement; restored the historical context as something the interviewee said, not independent historical certification. Final draft: 209 prose words; no hard validation errors. Protected content unchanged.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.

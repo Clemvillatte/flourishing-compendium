@@ -12,16 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 165** — Peace begins in your own mind
 
-Dhammapada 96 describes calm in thought, speech and deed. In a separate discussion of peace work, Thich Nhat Hanh says:
+Dhammapada 96 describes an arahant, a liberated person, whose calm belongs together in thought, speech and action. ([Dhammapada 96, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.budd.html))
+
+> "Calm is his thought, calm his speech, and calm his deed, who, truly knowing, is wholly freed, perfectly tranquil and wise." ([Dhammapada 96](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.budd.html))
+
+Thich Nhat Hanh applies the connection between inner life and outward conduct to peace work. Recalling the 1960s US peace movement, which he says grew angry quickly, he cautions: ([Interview with John Malkin](https://www.lionsroar.com/in-engaged-buddhism-peace-begins-with-you/))
 
 > "If you don’t have enough peace and understanding and loving-kindness within yourself, your actions will not truly be for peace." (Thich Nhat Hanh, [Lion's Roar interview](https://www.lionsroar.com/in-engaged-buddhism-peace-begins-with-you/))
 
-The compendium proposes checking one's state before a difficult conversation.
+He refuses the choice between changing society and practising mindfulness: one can help a wounded child while attending to one's own breathing. ([Interview with John Malkin](https://www.lionsroar.com/in-engaged-buddhism-peace-begins-with-you/))
+
+> "Action should be meditation at the same time." ([Thich Nhat Hanh, interview](https://www.lionsroar.com/in-engaged-buddhism-peace-begins-with-you/))
 
 **Plain words**
-Pause before the conversation and notice how you feel. Afterward, recall what you said first.
+You can want an argument to end and still speak as though you are fighting to defeat someone. Here is an everyday way to apply the teaching: listen for anger in your own choice of words, including when your aim is to help. The conversation is one place to practise peace, rather than something to finish before you can begin.
 
-*For example:* After a difficult commute, you notice irritation before speaking to someone at home. You consider how you want to open the conversation.
+For example: You arrive home irritated and find the kitchen untidy. Compare “You never help” with “Can we decide who clears up tonight?” Notice the accusation in one and the concrete request in the other. Try the request, then review what you actually said, including whether it turned into an accusation. Keep the opening that lets you raise the problem without attacking the person; do not assume it guarantees agreement.
 
 ## Sources
 

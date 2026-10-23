@@ -6,7 +6,6 @@
   "D103",
   "D106",
   "B009",
-  "B012",
   "B078",
   "B080",
   "B092",
@@ -29,9 +28,10 @@
   "B049",
   "D094",
   "B030",
-  "B113"
+  "B113",
+  "B165"
  ],
- "in_progress": "B165",
+ "in_progress": "B012",
  "flagged": {
   "D094": "Reopened for QC: QC correction: forester clause exceeds source",
   "D103": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC repairs VERIFIED APPLIED on the current page — the ledger's 14-flag substantive verification ('All 14 confirmed repaired in current text', compared against the prescribed repairs) re-checked this session by keyword: the flagged defect phrases are ABSENT (and where the repair ADDED prescribed content — B113's 'a related discussion', B126's Gemmell 'entity, a being, a living being' quote — the prescribed content is PRESENT). The state flag was stale (repairs were applied after the flag was written). [ORIGINAL: Reopened for QC: Milestone QC FAIL: explanation overreach; repairs pending]",
@@ -61,11 +61,12 @@
   "B165": "Reopened for QC: Source-checked explanation of inner/outer peace; genuine Plain words and grounded dialogue example",
   "B169": "Reopened for QC: QC correction: remove three-times-a-day universal; separate Plain words from source instruction",
   "P176": "Reopened for QC: QC correction: fix quote boundary; replace diagnostic application per advisor",
-  "P177": "Reopened for QC: QC correction: end-in-view can be a desired result; fix citation destination"
+  "P177": "Reopened for QC: QC correction: end-in-view can be a desired result; fix citation destination",
+  "B012": "Reopened for QC: Replace procedural Plain words with present-attention reasoning from MN131 and TNH"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T12:34:49+00:00",
+ "updated": "2026-10-23T12:35:20+00:00",
  "band_done": false,
  "notes": {
   "B021 death-recovery check": "2026-10-20: owner reported the agent working on B021 died. Verified nothing lost: B021 (p1i item) content last committed f9ce31ef (2026-10-19 QC-repair batch, milestone 15); p1s no-edit light-check fcb33b61 + cross-band incident correction 5328d488 (2026-10-20 02:20-02:25, quotes re-verified, no action owed per supervisor disposition); p1s band closed cleanly 30/30 at 03:54:11Z (5bc8f460, baton released, in_progress None). B021 validates clean at HEAD. No in-flight work, no unpushed commits; nothing owed to the next agents."
