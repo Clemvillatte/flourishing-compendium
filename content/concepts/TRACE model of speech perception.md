@@ -24,7 +24,7 @@ The model appeared in Cognitive Psychology in 1986 (vol. 18, pp. 1-86), written 
 
 ### How the model works
 
-The model is mechanistic, and its parts are the explanation. A very large number of units sit at three levels: feature, phoneme and word. Each unit is a hypothesis that some perceptual object occurs at a particular point in the utterance, and the same detector is copied across many overlapping time slices, which is how the model represents sound unfolding in time. Units that are consistent with each other across levels (a /k/ sound, the word "kiss") excite each other; units that compete within a level ( /k/ versus /g/ ) inhibit each other. The name "Trace" refers to the network itself: the pattern of activation it holds serves as both the processing mechanism and the working memory of the perception so far.
+The model is mechanistic, and its parts are the explanation. A very large number of units sit at three levels: feature, phoneme and word. Each unit is a hypothesis that some perceptual object occurs at a particular point in the utterance, and the same detector is copied across many overlapping time slices, which is how the model represents sound unfolding in time. Units that are consistent with each other across levels (a /k/ sound, the word "kiss") excite each other; units that compete within a level ( /k/ versus /g/ ) inhibit each other. The name "Trace" refers to the network itself: the pattern of activation it holds is both the processing mechanism and the working memory of the perception so far.
 
 ### What it explained
 
