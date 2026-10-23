@@ -21,3 +21,8 @@ verified quotes promoted to blockquotes/verified inline quotes; the everyday-lif
 labeled; the seven principle dash-links (AF005, B040, B189, D146, Y090, BI009, AF049)
 moved from body prose into a new "In the compendium" list; Related entries kept (2);
 Sources rebuilt as markdown links. Validator ok (counter diff clean).
+
+Post-save fix (this session): the original body had two [[Qi]] occurrences (the felt-current
+mention and the closing line); the rebuild kept one. The second restored in the
+contemplative-traditions paragraph. Validator ok after fix. (Commit 1915104e0 preceded this
+repair; this note records it.)

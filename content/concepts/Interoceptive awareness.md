@@ -23,7 +23,7 @@ People who cannot read the body's early signals meet their emotions only at full
 
 ### The contemplative traditions
 
-The contemplative traditions arrived at the same training from the other side: body contemplation and grounding, the Daoist cultivation of vitality as felt current, and testing experience layer by layer.
+The contemplative traditions arrived at the same training from the other side: body contemplation and grounding, the Daoist cultivation of vitality as felt current ([[Qi]]), and testing experience layer by layer.
 
 ### The distinction to hold
 
