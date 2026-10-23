@@ -13,9 +13,23 @@ William James coined the term in the Principles of Psychology's chapter on the s
 
 The name is a metaphor he offers for what consciousness is like from the inside, and it replaces the older figures of chain and train with flowing water. ([James, Principles of Psychology, 1890](https://www.gutenberg.org/cache/epub/57628/pg57628.txt))
 
+The chapter does not stop at the metaphor; it draws up five characters of the process. Thought tends to be part of a personal consciousness; within each personal consciousness it is always changing; it is sensibly continuous; it appears to deal with objects independent of itself; and it is interested in some parts of those objects to the exclusion of others. ([James, Principles of Psychology, 1890](https://www.gutenberg.org/cache/epub/57628/pg57628.txt))
+
+> "Within each personal consciousness, thought is sensibly continuous. ... The proposition that within each personal consciousness thought feels continuous, means two things: 1. That even where there is a time-gap the consciousness after it feels as if it belonged together with the consciousness before it, as another part of the same self; 2. That the changes from one moment to another in the quality of the consciousness are never absolutely abrupt."
+> — [James, The Principles of Psychology, vol. 1, ch. IX](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)
+
+The fifth character gives the stream its direction. Consciousness is not an indifferent mirror: it welcomes and rejects, chooses all the while it thinks ([James, 1890](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)). The same chapter marks the difference in pace with another image, the alternation of flights and perchings, and names the two kinds of part:
+
+> "Like a bird's life, it seems to be made of an alternation of flights and perchings. ... Let us call the resting-places the 'substantive parts,' and the places of flight the 'transitive parts,' of the stream of thought."
+> — [James, The Principles of Psychology, vol. 1, ch. IX](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)
+
+The compendium's linked principles work the same stream from two sides: know it as a stream rather than a chain of bits, and train the choosing that runs through it.
+
 ## Related concepts
 
 - [[Pure experience]] — the sibling page in the same family
+- [[Mind wandering]] — the default-mode account of the same flowing thought James described from the inside
+- [[Dispositional mindfulness]] — the trained capacity to notice the stream without being swept along
 
 ## Sources
 
