@@ -1,0 +1,606 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A044 \u2014 Learn from experience.md",
+      "id": "A044",
+      "title": "Learn from experience",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A050 \u2014 Practise perceptiveness (aisthesis).md",
+      "id": "A050",
+      "title": "Practise perceptiveness (aisthesis)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF005 \u2014 Learn to read your own body \u2014 interoception.md",
+      "id": "AF005",
+      "title": "Learn to read your own body: interoception",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF082 \u2014 Recognise affect's biophysiological interfaces \u2014 sleep, pain, and illness are not separate.md",
+      "id": "AF082",
+      "title": "Recognise affect's biophysiological interfaces: sleep, pain, and illness are not separate",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AT050 \u2014 Learn body scan \u2014 systematic attention through the body.md",
+      "id": "AT050",
+      "title": "Learn body scan: systematic attention through the body",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B011 \u2014 Make mindfulness the master tool (sati).md",
+      "id": "B011",
+      "title": "Make mindfulness the master tool (sati)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B021 \u2014 Orient with right view.md",
+      "id": "B021",
+      "title": "Orient with right view",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B039 \u2014 Practice the four foundations of mindfulness (satipatthana).md",
+      "id": "B039",
+      "title": "Practice the four foundations of mindfulness (satipatthana)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B043 \u2014 Develop insight (vipassana).md",
+      "id": "B043",
+      "title": "Develop insight (vipassana)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B048 \u2014 Keep beginner's mind (shoshin).md",
+      "id": "B048",
+      "title": "Keep beginner's mind (shoshin)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B056 \u2014 Note lightly (noting).md",
+      "id": "B056",
+      "title": "Note lightly (noting)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B120 \u2014 Experience is five streams (the aggregates).md",
+      "id": "B120",
+      "title": "Experience is five streams (the aggregates)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B124 \u2014 Meet suchness \u2014 things as they are.md",
+      "id": "B124",
+      "title": "Meet suchness: things as they are",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B129 \u2014 Point directly at experience.md",
+      "id": "B129",
+      "title": "Point directly at experience",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B136 \u2014 Mind constructs the world you meet.md",
+      "id": "B136",
+      "title": "Mind constructs the world you meet",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI001 \u2014 Understand that the body is the foundation of the mind \u2014 physiology shapes psychology.md",
+      "id": "BI001",
+      "title": "Understand that the body is the foundation of the mind: physiology shapes psychology",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/BI054 \u2014 Learn body scan meditation \u2014 systematic body awareness.md",
+      "id": "BI054",
+      "title": "Learn body scan meditation: systematic body awareness",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO005 \u2014 Understand that thinking is embodied \u2014 the body shapes the mind.md",
+      "id": "CO005",
+      "title": "Understand that thinking is embodied: the body shapes the mind",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/CO018 \u2014 Understand anchoring \u2014 initial values distort subsequent judgments.md",
+      "id": "CO018",
+      "title": "Understand anchoring: initial values distort subsequent judgments",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D010 \u2014 Return to pu \u2014 the uncarved block.md",
+      "id": "D010",
+      "title": "Return to pu: the uncarved block",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D037 \u2014 Empty the heart-mind (xuxin).md",
+      "id": "D037",
+      "title": "Empty the heart-mind (xuxin)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D045 \u2014 Keep the empty cup.md",
+      "id": "D045",
+      "title": "Keep the empty cup",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D046 \u2014 Practice fasting of the mind (xinzhai).md",
+      "id": "D046",
+      "title": "Practice fasting of the mind (xinzhai)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D050 \u2014 Keep a mirror-mind.md",
+      "id": "D050",
+      "title": "Keep a mirror-mind",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D065 \u2014 Use the light, return to the insight.md",
+      "id": "D065",
+      "title": "Use the light, return to the insight",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D081 \u2014 Recognize the relativity of perspectives.md",
+      "id": "D081",
+      "title": "Recognize the relativity of perspectives",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E001 \u2014 Practise the phenomenological reduction.md",
+      "id": "E001",
+      "title": "Practise the phenomenological reduction",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E002 \u2014 Practise intentionality.md",
+      "id": "E002",
+      "title": "Practise intentionality",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E003 \u2014 Practise the natural attitude and its suspension.md",
+      "id": "E003",
+      "title": "Practise the natural attitude and its suspension",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E004 \u2014 Practise the lifeworld (Lebenswelt).md",
+      "id": "E004",
+      "title": "Practise the lifeworld (Lebenswelt)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E005 \u2014 Practise the horizon.md",
+      "id": "E005",
+      "title": "Practise the horizon",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E006 \u2014 Practise the epoch\u00e9 in daily life.md",
+      "id": "E006",
+      "title": "Practise the epoch\u00e9 in daily life",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E007 \u2014 Practise eidetic seeing.md",
+      "id": "E007",
+      "title": "Practise eidetic seeing",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E008 \u2014 Practise the structure of temporality.md",
+      "id": "E008",
+      "title": "Practise the structure of temporality",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E009 \u2014 Practise intersubjectivity.md",
+      "id": "E009",
+      "title": "Practise intersubjectivity",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E010 \u2014 Practise the constitution of meaning.md",
+      "id": "E010",
+      "title": "Practise the constitution of meaning",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E011 \u2014 Practise phenomenological description.md",
+      "id": "E011",
+      "title": "Practise phenomenological description",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E012 \u2014 Practise the reduction as ongoing.md",
+      "id": "E012",
+      "title": "Practise the reduction as ongoing",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E013 \u2014 Practise the lived body (Leib).md",
+      "id": "E013",
+      "title": "Practise the lived body (Leib)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E026 \u2014 Practise being-with (Mitsein).md",
+      "id": "E026",
+      "title": "Practise being-with (Mitsein)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K001 \u2014 Return to experience before the labels.md",
+      "id": "K001",
+      "title": "Return to experience before the labels",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/K002 \u2014 Know that the split is made, not found.md",
+      "id": "K002",
+      "title": "Know that the split is made, not found",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S129 \u2014 Practise the discipline of attention.md",
+      "id": "S129",
+      "title": "Practise the discipline of attention",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SE006 \u2014 Know that the self is embodied \u2014 the body is part of who you are.md",
+      "id": "SE006",
+      "title": "Know that the self is embodied: the body is part of who you are",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y013 \u2014 Work with the field and the witness.md",
+      "id": "Y013",
+      "title": "Work with the field and the witness",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y014 \u2014 Hold the metaphysics lightly.md",
+      "id": "Y014",
+      "title": "Hold the metaphysics lightly",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/Y089 \u2014 Separate the seer from the seen daily.md",
+      "id": "Y089",
+      "title": "Separate the seer from the seen daily",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Aisthesis.md",
+      "id": "Aisthesis",
+      "title": "Aisthesis",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Bracketing.md",
+      "id": "Bracketing",
+      "title": "Bracketing",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Constitution of meaning.md",
+      "id": "Constitution of meaning",
+      "title": "Constitution of meaning",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Eidos.md",
+      "id": "Eidos",
+      "title": "Eidos",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Epoch\u00e9.md",
+      "id": "Epoch\u00e9",
+      "title": "Epoch\u00e9",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Essence and accident.md",
+      "id": "Essence and accident",
+      "title": "Essence and accident",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Existence precedes essence.md",
+      "id": "Existence precedes essence",
+      "title": "Existence precedes essence",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Horizon.md",
+      "id": "Horizon",
+      "title": "Horizon",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Implicit and explicit.md",
+      "id": "Implicit and explicit",
+      "title": "Implicit and explicit",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Intentionality.md",
+      "id": "Intentionality",
+      "title": "Intentionality",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Intersubjectivity.md",
+      "id": "Intersubjectivity",
+      "title": "Intersubjectivity",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Mental time travel.md",
+      "id": "Mental time travel",
+      "title": "Mental time travel",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Mind in life.md",
+      "id": "Mind in life",
+      "title": "Mind in life",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Naive realism.md",
+      "id": "Naive realism",
+      "title": "Naive realism",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Phenomenological description.md",
+      "id": "Phenomenological description",
+      "title": "Phenomenological description",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Phenomenological psychology.md",
+      "id": "Phenomenological psychology",
+      "title": "Phenomenological psychology",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Phenomenological seeing.md",
+      "id": "Phenomenological seeing",
+      "title": "Phenomenological seeing",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Phenomenology of the lifeworld.md",
+      "id": "Phenomenology of the lifeworld",
+      "title": "Phenomenology of the lifeworld",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Reconfiguration of narrative.md",
+      "id": "Reconfiguration of narrative",
+      "title": "Reconfiguration of narrative",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Reduction as return.md",
+      "id": "Reduction as return",
+      "title": "Reduction as return",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Retention and protention.md",
+      "id": "Retention and protention",
+      "title": "Retention and protention",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Sati.md",
+      "id": "Sati",
+      "title": "Sati",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Suspension of the natural attitude.md",
+      "id": "Suspension of the natural attitude",
+      "title": "Suspension of the natural attitude",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Temporality (Zeitlichkeit).md",
+      "id": "Temporality (Zeitlichkeit)",
+      "title": "Temporality (Zeitlichkeit)",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The analysis of experience into elements.md",
+      "id": "The analysis of experience into elements",
+      "title": "The analysis of experience into elements",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The body-subject.md",
+      "id": "The body-subject",
+      "title": "The body-subject",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The composite self.md",
+      "id": "The composite self",
+      "title": "The composite self",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The lifeworld.md",
+      "id": "The lifeworld",
+      "title": "The lifeworld",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The lived body.md",
+      "id": "The lived body",
+      "title": "The lived body",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The natural attitude.md",
+      "id": "The natural attitude",
+      "title": "The natural attitude",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The ongoing reduction.md",
+      "id": "The ongoing reduction",
+      "title": "The ongoing reduction",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The primacy of the given.md",
+      "id": "The primacy of the given",
+      "title": "The primacy of the given",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The sensible before the conceptual.md",
+      "id": "The sensible before the conceptual",
+      "title": "The sensible before the conceptual",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The standpoint determines what appears.md",
+      "id": "The standpoint determines what appears",
+      "title": "The standpoint determines what appears",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The transcendental reduction.md",
+      "id": "The transcendental reduction",
+      "title": "The transcendental reduction",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/To the things themselves.md",
+      "id": "To the things themselves",
+      "title": "To the things themselves",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST259 \u2014 Husserl and the Apple.md",
+      "id": "ST259",
+      "title": "259.  Husserl and the Apple",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST260 \u2014 Brentano's Direction.md",
+      "id": "ST260",
+      "title": "260.  Brentano's Direction",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/thinkers/T038 \u2014 Heidegger, Martin.md",
+      "id": "T038",
+      "title": "Heidegger, Martin",
+      "thinker": "T040",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
