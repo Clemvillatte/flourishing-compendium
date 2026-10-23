@@ -411,5 +411,7 @@
    "from": "supervisor-pplx-1023a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-23T11:53:47+00:00"
 }
