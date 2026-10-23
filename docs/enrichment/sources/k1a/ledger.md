@@ -695,3 +695,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: conceptual review with no trial data; the seed's claim that unaddressed moral pain predicts PTSD, depression and suicide risk attributed to the later literature explicitly NOT cited as if from this paper, and the wound/repair framing scoped to the definition and proposed strategies. Note: an initial efetch attempt with a guessed PMID returned an unrelated bladder-cancer paper; discarded unread beyond identification, and the correct PMID found by search — no content from the wrong record used.
 - Mention check run (before this entry): K352 already linked from E011/E012/A023/S007 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K319 — Non-avoidant grief work (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Stroebe & Schut 1999 (Death Stud 23(3):197-224), the dual process model paper, abstract verified raw via NCBI efetch (PMID 10848151); authors read from the efetch header.
+- The blockquote (dosage of grieving sentence) matches the raw efetch text verbatim.
+- Honesty on page: theoretical paper, no trial of the practice; the seed's avoidance-prolongs-grief claim attributed to the later empirical literature explicitly NOT cited as if from this paper; the time-limit framed as the model's own dosage prescription.
+- Mention check run (before this entry): K319 already linked from E011/E012/A010/S007 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
