@@ -21,7 +21,7 @@ Modern evidence supports structured activity as a treatment for depression, not 
 **Plain words**
 The Nahua elders told the young to be diligent and to avoid heavy sleeping. They also said rest and laughter are gifts. Behavioural activation, which schedules meaningful activity, performed as well as CBT for depression in one large trial. That does not show that more work makes anyone well. For a week, give each day its work, done steadily, and take the rest as planned.
 
-*For example:* A retiree who thought rest was the reward finds the days blurring, and takes a part-time craft job for the structure. This is an imagined case.
+*For example:* A retiree who thought rest was the reward finds the days blurring, and takes a part-time craft job for the structure.
 
 ## Sources
 

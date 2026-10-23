@@ -21,7 +21,7 @@ A common practice tip, keeping the phone in another room, rests partly on the "b
 
 **Plain words** Make the thing you want less of a little harder to reach. Put it further away, add a step, remove the shortcut. The evidence is best for food, with modest certainty, and it does not show that friction fixes every habit.
 
-*For example:* This is an imagined case. A reader who scrolls late at night charges her phone in the kitchen. The phone is still hers, and each use costs a walk.
+*For example:* A reader who scrolls late at night charges her phone in the kitchen. The phone is still hers, and each use costs a walk.
 
 ## Sources
 

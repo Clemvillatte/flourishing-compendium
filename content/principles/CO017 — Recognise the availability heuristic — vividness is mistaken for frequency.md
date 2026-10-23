@@ -19,7 +19,7 @@ The popular extension to media and fear is on weaker ground. Pachur re-analysed 
 **Plain words**
 When you guess how common something is, your mind checks how easily examples come to you. That usually works, because common things are easier to recall. It fails when something is easy to recall for another reason, such as a recent or vivid case. The idea that news coverage drives this is less certain than it sounds, because a re-analysis found that people's guesses seemed to lean on the people around them. Before trusting a feeling that something is common or dangerous, ask whether you are counting examples or remembering one.
 
-*For example:* After a friend tells you about a burglary on their street, you feel burglaries are rising. Look up your local police figures for the last three years before changing any plans. This is an imagined case, and what the figures show for your area is for you to find.
+*For example:* After a friend tells you about a burglary on their street, you feel burglaries are rising. Look up your local police figures for the last three years before changing any plans. what the figures show for your area is for you to find.
 
 ## Sources
 

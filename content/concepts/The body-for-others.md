@@ -23,7 +23,7 @@ Sartre's early view is bleak: "The essence of the relations between consciousnes
 
 ### Scope
 
-The entry covers the Look and being-for-others, and it points readers to other sources on Sartre's treatment of embodiment. It does not supply Sartre's own wording on the body-for-others, and Being and Nothingness was not read directly. The entry reports Sartre's phenomenology, not evidence about wellbeing, and its bleak view of relations with others is described by the entry as Sartre's early position.
+The entry covers the Look and being-for-others, and it points readers to other sources on Sartre's treatment of embodiment. It does not supply Sartre's own wording on the body-for-others, and Being and Nothingness is cited at second hand. The entry reports Sartre's phenomenology, not evidence about wellbeing, and its bleak view of relations with others is described by the entry as Sartre's early position.
 
 ### In the compendium
 

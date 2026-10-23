@@ -28,7 +28,7 @@ Runco and Acar write that divergent thinking "does not guarantee actual creative
 
 **Plain words** Early ideas tend to be the obvious ones, and original ones tend to arrive later, so keep generating before you judge. Divergent thinking is one useful piece of creativity, not a guarantee of it.
 
-*For example:* This is an imagined case. You list thirty uses for a brick. The first ten are the usual ones, and the better ideas show up near the end.
+*For example:* You list thirty uses for a brick. The first ten are the usual ones, and the better ideas show up near the end.
 
 ## Sources
 

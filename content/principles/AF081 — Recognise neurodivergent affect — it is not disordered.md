@@ -23,7 +23,7 @@ One study shows where part of the cost can sit. Sasson and colleagues found that
 **Plain words**
 The way someone shows feeling can be a flat voice, a burst of excitement or a delayed reaction. It is easy to read as a fault if you assume everyone shows feeling the same way. In that study, observers judged autistic people harshly after a few seconds of watching, and the harshness went away when they only read what had been said. Before deciding someone is cold, rude or too much, check what they actually said and meant.
 
-*For example:* A colleague speaks in a flat voice and looks away while you explain a plan, and you read it as disinterest. This is an imagined case. Ask them to write back their summary of the plan; if it is accurate and specific, the first reading was about their style rather than their attention, which is the pattern the transcript condition in Sasson's study points to.
+*For example:* A colleague speaks in a flat voice and looks away while you explain a plan, and you read it as disinterest. Ask them to write back their summary of the plan; if it is accurate and specific, the first reading was about their style rather than their attention, which is the pattern the transcript condition in Sasson's study points to.
 
 ## Sources
 

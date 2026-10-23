@@ -18,7 +18,7 @@ Can hope be trained? One small test says it may be. Cheavens, Feldman, Gum, Mich
 
 **Plain words** In Snyder's account, hope is a way of thinking, not a mood: you have a goal, you can see more than one route to it, and you believe you can use those routes. It is linked with better outcomes, and one small trial suggests the skills can be taught.
 
-*For example:* This is an imagined case. When the first route to a job falls through, you already have a second route written down, and you pick it up the same week.
+*For example:* When the first route to a job falls through, you already have a second route written down, and you pick it up the same week.
 
 ## Sources
 

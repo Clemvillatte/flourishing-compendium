@@ -20,7 +20,7 @@ Singer (2015) is cited without being opened, and Batson (2011) is not used for t
 
 **Plain words** Care ethics keeps special bonds and still asks you to care beyond them. Experiments suggest that feeling for large groups may be limited by how people regulate their emotions, so extending care takes deliberate effort.
 
-*For example:* This is an imagined case. Someone whose care has stopped at the family gate starts cooking at a shelter once a month, and finds the distance was mostly a habit of attention.
+*For example:* Someone whose care has stopped at the family gate starts cooking at a shelter once a month, and finds the distance was mostly a habit of attention.
 
 ## Sources
 
@@ -30,7 +30,7 @@ Singer (2015) is cited without being opened, and Batson (2011) is not used for t
 - [The Numbing Void, The Unfinishable Map (secondary summary)](https://unfinishablemap.org/voids/numbing-void/)
 - [Motivated down-regulation of emotion and compassion collapse revisited, Frontiers](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.801150/full)
 - [Lee and Feeley (2016), The identifiable victim effect: a meta-analytic review](https://www.tandfonline.com/doi/full/10.1080/15534510.2016.1216891)
-- Tronto (2013), Batson (2011), Singer (2015): cited on the page, not read for this item.
+- Tronto (2013), Batson (2011), Singer (2015): cited at second hand.
 
 ## Psychology parallels
 

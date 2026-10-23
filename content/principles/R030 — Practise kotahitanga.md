@@ -22,7 +22,7 @@ Bandura's psychology gives a parallel. He writes that perceived collective effic
 
 **Plain words** Kotahitanga means unity of purpose. In the sources, it asks for a shared direction and for everyone to have a voice. It also has a history as a political strategy.
 
-*For example:* This is an imagined case. A village committee of elders, young people and sceptics all want different things. They keep meeting until they find one project each can support, and each person's reasons are spoken aloud.
+*For example:* A village committee of elders, young people and sceptics all want different things. They keep meeting until they find one project each can support, and each person's reasons are spoken aloud.
 
 ## Sources
 

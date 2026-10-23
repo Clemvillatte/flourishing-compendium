@@ -19,7 +19,7 @@ The anxiety claim is the weak one. A 2016 paper that said rituals improve perfor
 **Plain words**
 A ritual is a set sequence of actions done on purpose. The best-supported effects here are that after a loss it can help you feel more in control and less grief-stricken, and that a small ritual before a pleasure can make you enjoy it more. The case that rituals calm anxiety is weak right now, so treat that part as an open question.
 
-*For example:* After a disappointment, you write what you feel on a page, tear it up and say one sentence aloud. This is an imagined ritual in the spirit of Norton and Gino's lottery experiment, which used a different set of actions, and the result for any one person is uncertain.
+*For example:* After a disappointment, you write what you feel on a page, tear it up and say one sentence aloud. It is in the spirit of Norton and Gino's lottery experiment, which used a different set of actions, and the result for any one person is uncertain.
 
 ## Sources
 

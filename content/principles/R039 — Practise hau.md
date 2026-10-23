@@ -22,7 +22,7 @@ For the psychology parallel, Ryan and Frederick (1997) studied subjective vitali
 
 **Plain words** Hau is the vital essence of a person, place or object, and also the word for wind and breath. Its use in gift exchange is a famous but contested story. Subjective vitality is a related Western idea about personal energy, not a translation.
 
-*For example:* This is an imagined case. A person notices that some friendships leave them feeling more alive and some obligations leave them flat, and plans their week with that in mind.
+*For example:* A person notices that some friendships leave them feeling more alive and some obligations leave them flat, and plans their week with that in mind.
 
 ## Sources
 
@@ -32,7 +32,7 @@ For the psychology parallel, Ryan and Frederick (1997) studied subjective vitali
 - [The force in the thing: Mauss' nonauthoritarian sociality, HAU 6(2)](https://www.journals.uchicago.edu/doi/pdf/10.14318/hau6.2.017)
 - [Ranapiri on the spirit of gift exchange, Journal of the Polynesian Society (abstract)](https://thepolynesiansociety.org/jps/index.php/JPS/article/view/374)
 - [Ryan and Frederick (1997), On energy, personality, and health, J Pers 65, 529-565 (abstract)](https://pubmed.ncbi.nlm.nih.gov/9327588/)
-- Mead (2003) and Durie (1994): cited on the page, not read.
+- Mead (2003) and Durie (1994): cited at second hand.
 
 ## Psychology parallels
 

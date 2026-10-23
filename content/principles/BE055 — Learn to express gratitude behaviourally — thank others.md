@@ -19,7 +19,7 @@ Context matters. Yu and Chaudhry found that people in China were less likely tha
 **Plain words**
 Most of us expect a thank-you to feel more awkward and less welcome than it turns out to be. In the letter studies, recipients felt more positive and less awkward than writers predicted. Tell the person what they did and why it mattered. Check the setting too, because thanks to a close family member can land differently in some cultures.
 
-*For example:* A colleague covered your shift when you were ill. You send a message saying "Thank you for covering on Thursday. It meant I could rest, and I noticed." This is an imagined message, written in the specific style the letter studies used.
+*For example:* A colleague covered your shift when you were ill. You send a message saying "Thank you for covering on Thursday. It meant I could rest, and I noticed." The message follows the specific style the letter studies used.
 
 ## Sources
 

@@ -21,7 +21,7 @@ Psychology treats humility similarly. Tangney writes that "although humility fre
 **Plain words**
 The Codex speeches sound harsh to modern ears, but the harshness is ritual and tied to the moment of taking office. A ruler calls himself unworthy while accepting a duty. Nobles hear that bowing and meekness count as honor, not as shame. Psychologists describe real humility in a similar way: seeing yourself accurately, admitting limits, and not being fixated on yourself. A practical form: when you are praised, say who else and what else made it possible.
 
-*For example:* Someone promoted young thanks the team members who did the work and says plainly what they are still learning. This is an imagined case, and nothing in it implies putting yourself down.
+*For example:* Someone promoted young thanks the team members who did the work and says plainly what they are still learning. nothing in it implies putting yourself down.
 
 ## Sources
 

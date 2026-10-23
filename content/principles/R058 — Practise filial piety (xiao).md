@@ -24,7 +24,7 @@ Berscheid (1994) and Mikulincer et al. (2005) are cited as unopened leads. The d
 
 **Plain words** Xiao means more than doing what parents say. The Analects ask for reverence, an honest face, gentle disagreement and continuing what was good in them. Mencius adds that losing yourself undermines serving them.
 
-*For example:* This is an imagined case. A daughter drives her father to every appointment. When he refuses a treatment she thinks is wrong, she says so once, kindly, and keeps driving.
+*For example:* A daughter drives her father to every appointment. When he refuses a treatment she thinks is wrong, she says so once, kindly, and keeps driving.
 
 ## Sources
 
@@ -33,7 +33,7 @@ Berscheid (1994) and Mikulincer et al. (2005) are cited as unopened leads. The d
 - [Mencius 4A19, Legge translation (mengtzu.com)](https://www.mengtzu.com/en/books/li-lou-i/4a-19)
 - [Chinese Malaysian adolescents' filial piety reasoning, Child Development](https://academic.oup.com/chidev/article/89/2/383/8263272)
 - [The relationship between dual filial piety and mental disorders: a review, Springer](https://link.springer.com/article/10.1007/s40894-024-00234-2)
-- Berscheid (1994) and Mikulincer et al. (2005): cited on the page, not read.
+- Berscheid (1994) and Mikulincer et al. (2005): cited at second hand.
 
 ## Psychology parallels
 

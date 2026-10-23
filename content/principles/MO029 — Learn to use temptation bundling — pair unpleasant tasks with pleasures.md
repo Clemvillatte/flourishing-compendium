@@ -23,7 +23,7 @@ The evidence is for exercise and audiobooks, with effects that fade or stay mode
 
 **Plain words** Save a treat for the hard task. Allow yourself the audiobook only at the gym. It helps at first, and the gain can shrink, so expect to revisit the arrangement.
 
-*For example:* This is an imagined case. A student keeps her favourite podcast for the library hours only. After a few weeks, the trick feels stale, so she switches to a new series that she wants to hear.
+*For example:* A student keeps her favourite podcast for the library hours only. After a few weeks, the trick feels stale, so she switches to a new series that she wants to hear.
 
 ## Sources
 

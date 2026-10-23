@@ -21,7 +21,7 @@ Support helps, with limits. In a randomised weight-loss trial, 95% of people rec
 
 **Plain words** Other people's goals and habits rub off on you. Pick who you spend time around with that in mind, and add support that suits the goal, because a team that only cheers does not always move people.
 
-*For example:* This is an imagined case. A writer who struggles to start joins a Tuesday-morning writing group. Everyone works silently for an hour. Starting is easier, because starting is what the room does.
+*For example:* A writer who struggles to start joins a Tuesday-morning writing group. Everyone works silently for an hour. Starting is easier, because starting is what the room does.
 
 ## Sources
 

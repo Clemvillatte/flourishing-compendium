@@ -18,7 +18,7 @@ Cohen and Wills (1985) concluded that evidence fits both a buffering model and a
 
 **Plain words** In Letter 9, Seneca says a wise person wants friends in order to practise friendship, and to be the one at the sickbed, not to secure their own happiness. In Letter 3 he adds that you should choose carefully and then give yourself fully. Research shows friendship goes with wellbeing, though mostly correlationally.
 
-*For example:* This is an imagined case. You phone a friend who has just lost a job, not to cheer him up, but to listen.
+*For example:* You phone a friend who has just lost a job, not to cheer him up, but to listen.
 
 ## Sources
 
@@ -26,7 +26,7 @@ Cohen and Wills (1985) concluded that evidence fits both a buffering model and a
 - [Seneca, Letter 3, Seneca.ink](https://www.seneca.ink/letters/3-on-true-and-false-friendship)
 - [Cohen and Wills 1985 abstract, Carnegie Mellon](https://kilthub.cmu.edu/articles/journal_contribution/Stress_social_support_and_the_buffering_hypothesis/6618335)
 - [Demir et al. 2015 chapter summary](https://www.semanticscholar.org/paper/Friendship-and-happiness-among-young-adults-Demir-Orthel-Clark/68fd764e1545d16f842526451693b1217c4a8907); [adult friendship systematic review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9902704/)
-- Meditations, Discourses, Musonius, Aristotle, Buber: cited on the page, not read.
+- Meditations, Discourses, Musonius, Aristotle, Buber: cited at second hand.
 
 ## Psychology parallels
 

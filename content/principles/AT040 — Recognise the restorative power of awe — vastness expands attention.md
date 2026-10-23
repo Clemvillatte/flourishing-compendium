@@ -19,7 +19,7 @@ The restorative part has a narrower evidence base. In a randomised trial, 60 old
 **Plain words**
 Awe makes you feel smaller, and in these studies that smaller feeling went with more generosity and, over weeks of practice, less everyday distress. It is a short break from being the centre of your own story. It is not a treatment for depression or anxiety, because the walking trial found no change in either.
 
-*For example:* Take a fifteen-minute walk this week and spend it looking for one thing that is bigger or older than you can quite take in, such as a large tree, a cliff face or a wide sky. This is an imagined routine, modelled on the awe-walk instruction in Sturm's trial, and what it does for you is for you to notice, not a promised result.
+*For example:* Take a fifteen-minute walk this week and spend it looking for one thing that is bigger or older than you can quite take in, such as a large tree, a cliff face or a wide sky. It is modelled on the awe-walk instruction in Sturm's trial, and what it does for you is for you to notice, not a promised result.
 
 ## Sources
 

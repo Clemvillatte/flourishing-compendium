@@ -19,7 +19,7 @@ Chiasm is "a bi-directional becoming or exchange between the body and things" th
 
 ### Scope
 
-The sources are one encyclopedia entry and the quotations it reproduces from The Visible and the Invisible, which was not read directly. The essay "Eye and Mind", cited for the alias "Intertwining", was not consulted. The sources describe a philosophical ontology and offer no empirical test of its practical effects.
+The sources are one encyclopedia entry and the quotations it reproduces from The Visible and the Invisible, which is cited at second hand. The essay "Eye and Mind", cited for the alias "Intertwining", is cited at second hand. The sources describe a philosophical ontology and offer no empirical test of its practical effects.
 
 ### In the compendium
 

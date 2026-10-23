@@ -19,7 +19,7 @@ That is a moderate average effect from interventions that prompted monitoring. I
 **Plain words**
 Keeping a record of what you do tends to help you do it, and the evidence is stronger when you write it down than when you rely on memory. Across 138 trials the effect was moderate. Track the thing you want to change (the walks, not just the weight), write it down, and consider telling someone.
 
-*For example:* Each evening you tick a box if you walked that day, and on Sunday you read the week back. This is an imagined routine that applies Harkin's finding that physically recording progress, and reporting it, gave larger effects.
+*For example:* Each evening you tick a box if you walked that day, and on Sunday you read the week back. It applies Harkin's finding that physically recording progress, and reporting it, gave larger effects.
 
 ## Sources
 

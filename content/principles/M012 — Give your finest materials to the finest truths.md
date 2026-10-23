@@ -21,7 +21,7 @@ Reading the principle as a rule about where to spend your best effort is an inte
 **Plain words**
 Nahua poets used jade, gold and quetzal feathers as images of what is rare and real, and they also said that even these things break and wear away. The modern application is a practical question about your own effort: are you spending your best care on what matters most to you?
 
-*For example:* Someone spends an evening on a condolence letter, rewriting until it sounds like the person it is for, and sends a work email in two lines. This is an imagined case, and the weighing of what deserves the most care is the reader's own.
+*For example:* Someone spends an evening on a condolence letter, rewriting until it sounds like the person it is for, and sends a work email in two lines. the weighing of what deserves the most care is the reader's own.
 
 ## Sources
 

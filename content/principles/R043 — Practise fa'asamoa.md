@@ -22,7 +22,7 @@ For practice, a Samoan research paper says engaging in fa'asamoa "reinforces the
 
 ### Scope
 
-These sources describe Samoan values; none tests whether practising fa'asamoa improves well-being, and none supports extending it to other communities' ways. I did not read any critique of its obligations.
+These sources describe Samoan values; none tests whether practising fa'asamoa improves well-being, and none supports extending it to other communities' ways. No critique of its obligations was read.
 
 **Plain words**
 Fa'asamoa centres respect, love, service and care for relationships. What these ask of you depends on your family and village, so ask someone who lives it.

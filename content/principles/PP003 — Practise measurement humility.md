@@ -28,7 +28,7 @@ Lucas stresses showing that "different measures of the same construct cohere eve
 
 **Plain words** Well-being scales mostly work, and a single score on a single day is still only one reading. Compare methods, and watch change over time.
 
-*For example:* This is an imagined case. A person rates her life satisfaction at 6 in March and 7 in June. She also notes sleep and contact with friends, and treats the one-point change as a prompt to ask what shifted.
+*For example:* A person rates her life satisfaction at 6 in March and 7 in June. She also notes sleep and contact with friends, and treats the one-point change as a prompt to ask what shifted.
 
 ## Sources
 

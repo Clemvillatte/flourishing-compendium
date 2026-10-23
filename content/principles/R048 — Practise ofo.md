@@ -20,7 +20,7 @@ Batson's empathy-altruism hypothesis is the psychology parallel. He defines empa
 
 **Plain words** Compassion in Samoan sources is usually called alofa. Whether ofo is a recognised word for it remains unconfirmed. The shared idea is that the feeling should lead to a helping act.
 
-*For example:* This is an imagined case. Someone sees a neighbour's flooded house and, instead of scrolling on, takes round food and a mop that evening.
+*For example:* Someone sees a neighbour's flooded house and, instead of scrolling on, takes round food and a mop that evening.
 
 ## Sources
 
@@ -30,7 +30,7 @@ Batson's empathy-altruism hypothesis is the psychology parallel. He defines empa
 - [Launch of Samoan Language Week, Beehive](https://www.beehive.govt.nz/speech/launch-samoan-language-week-fale-o-samoa-mangere)
 - [Batson, Prosocial Motives, Emotions, and Behavior (chapter PDF)](https://people.uncw.edu/hakanr/documents/batsononempathy.pdf)
 - [Book review of Batson's Altruism in Humans, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10426832/)
-- Tuhiwai Smith (1999), Decolonizing Methodologies: cited on the page, not read.
+- Tuhiwai Smith (1999), Decolonizing Methodologies: cited at second hand.
 
 ## Psychology parallels
 

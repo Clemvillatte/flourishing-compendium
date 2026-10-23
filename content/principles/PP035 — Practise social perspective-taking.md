@@ -20,7 +20,7 @@ The studies cited here do not test effects on conflict or relationship quality. 
 
 **Plain words** Imagining what someone thinks is a weaker route to understanding them than asking them. In 25 experiments, imagining did not make people more accurate, and asking did.
 
-*For example:* This is an imagined case. Instead of guessing why your teenager is quiet, you say "I noticed you're quiet. What's going on?" and then listen to the answer.
+*For example:* Instead of guessing why your teenager is quiet, you say "I noticed you're quiet. What's going on?" and then listen to the answer.
 
 ## Sources
 

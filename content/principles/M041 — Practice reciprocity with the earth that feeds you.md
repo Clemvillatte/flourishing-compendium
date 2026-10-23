@@ -19,7 +19,7 @@ The psychology of connection to nature is correlational. A meta-analysis of 30 s
 **Plain words**
 Accounts of Maya milpa farming describe the field as part of a relationship that includes ceremony, thanks and permission-asking toward the land. People who feel more connected to nature report somewhat more positive feelings and vitality, though the studies cannot show which causes which. If you want to practise reciprocity with your food's ground, choose a small, regular act such as gardening, composting or buying from farmers you know.
 
-*For example:* A household starts composting as its small payment for living off a web of soil and farmers it did not build. This is an imagined case.
+*For example:* A household starts composting as its small payment for living off a web of soil and farmers it did not build.
 
 ## Sources
 

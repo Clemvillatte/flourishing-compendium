@@ -19,7 +19,7 @@ The report covers arts engagement broadly, so it does not show that any single p
 **Plain words**
 Taking part in art and music is linked, across a large and uneven body of research, with better mental and physical health. The evidence is wide and not uniformly strong, and the studies tend to report positive results. So make room for music, art or time among beautiful things because you value it, and watch for your own effect.
 
-*For example:* You put on a full album you love while you cook on Sunday evening, with no other screen on. This is an imagined routine, and nothing in the review tells us how much it would lift anyone's mood.
+*For example:* You put on a full album you love while you cook on Sunday evening, with no other screen on. nothing in the review tells us how much it would lift anyone's mood.
 
 ## Sources
 

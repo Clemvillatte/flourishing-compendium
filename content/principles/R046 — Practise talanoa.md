@@ -16,11 +16,11 @@ Timote Vaioleti, a Tongan scholar, defines talanoa as "a personal encounter wher
 
 The same paper says the aim is understanding rather than agreement. The original entry's line "not debate or negotiation" is too strong, though. Sitiveni Halapua introduced talanoa as a political dialogue method after Fiji's 2000 coup (same paper), and at the 2017 climate talks in Bonn the Fijian negotiator said it was a way to "settle difficulties and disputes" ([Fiji Times](https://www.fijitimes.com.fj/lets-talanoa-the-pacific-way/)). The UN note describing the 2018 Talanoa Dialogue says its purpose is "to share stories, build empathy and trust" and that it should not single out parties in "confrontational" discussions ([UNFCCC](https://unfccc.int/sites/default/files/approach_to_the_talanoa_dialogue.pdf)). So talanoa can sit inside a negotiation without being one. Whether it changed the climate outcomes I did not check.
 
-For psychology, McAdams (2008) argues that life stories are told in social relationship and vary with the audience ([summary in a book chapter](https://www.irma-international.org/viewtitle/76737/?isxn=9781466629493)). That fits storytelling as relational. It is not evidence that talanoa builds bonds, and I did not read the chapter itself.
+For psychology, McAdams (2008) argues that life stories are told in social relationship and vary with the audience ([summary in a book chapter](https://www.irma-international.org/viewtitle/76737/?isxn=9781466629493)). That fits storytelling as relational. It is not evidence that talanoa builds bonds; the chapter itself is cited at second hand.
 
 **Plain words** Talanoa is open, story-based conversation from Tonga, Samoa and Fiji. People tell their experiences without a rigid agenda, and the aim is shared understanding. It has been used in disputes, so it is not the opposite of negotiation.
 
-*For example:* This is an imagined case. A team replaces its blame-focused review with one question, "tell the story of what you saw", and people start listening to one another.
+*For example:* A team replaces its blame-focused review with one question, "tell the story of what you saw", and people start listening to one another.
 
 ## Sources
 

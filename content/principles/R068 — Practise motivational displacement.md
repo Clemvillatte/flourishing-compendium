@@ -20,7 +20,7 @@ Batson's empathy-altruism hypothesis is the psychology parallel. He defines empa
 
 **Plain words** Motivational displacement means your energy turns, for a while, toward what the other person needs. Noddings says the shift is temporary and not always toward what they ask for.
 
-*For example:* This is an imagined case. Someone gives up a free Saturday to drive a friend to a hospital appointment, and asks on the way what would help most.
+*For example:* Someone gives up a free Saturday to drive a friend to a hospital appointment, and asks on the way what would help most.
 
 ## Sources
 
@@ -29,7 +29,7 @@ Batson's empathy-altruism hypothesis is the psychology parallel. He defines empa
 - [ERIC document ED419801 (summary of Noddings's account)](https://files.eric.ed.gov/fulltext/ED419801.pdf)
 - [Batson, Prosocial Motives, Emotions, and Behavior (chapter PDF)](https://people.uncw.edu/hakanr/documents/batsononempathy.pdf)
 - [Book review of Batson's Altruism in Humans, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10426832/)
-- Noddings (1984), Caring, ch. 3: cited on the page, not read in full.
+- Noddings (1984), Caring, ch. 3: cited at second hand.
 
 ## Psychology parallels
 

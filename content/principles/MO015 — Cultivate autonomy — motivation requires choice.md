@@ -21,7 +21,7 @@ Choice is not valued the same way everywhere. Anglo American children were less 
 
 **Plain words** Work you feel you chose and endorse tends to be easier to keep doing than work that feels forced. When you cannot change the task, you can still look for the part you can choose, ask for the reason, and notice how you feel about it.
 
-*For example:* This is an imagined case. A nurse is told to chart in a fixed format. She asks why, hears it feeds handover safety, and chooses when in the shift she completes it. The format stays fixed, and she now has a reason and a say.
+*For example:* A nurse is told to chart in a fixed format. She asks why, hears it feeds handover safety, and chooses when in the shift she completes it. The format stays fixed, and she now has a reason and a say.
 
 ## Sources
 

@@ -19,7 +19,7 @@ The modern evidence on the psychological side is more limited than the old page 
 **Plain words**
 The Nahua elders told the young to wash, sweep and keep order as part of daily life, and linked it to courtesy and worship. Modern research finds that people who describe their homes as cluttered or unfinished tend to report a worse mood, at least among women in one small study. It does not show that cleaning causes the better mood. Treat daily washing and sweeping as a small routine, and judge for yourself whether it helps.
 
-*For example:* In a hard month, someone who cannot fix the job or the news washes the dishes and sweeps the kitchen. This is an imagined case, and the effect on how they feel is theirs to observe.
+*For example:* In a hard month, someone who cannot fix the job or the news washes the dishes and sweeps the kitchen. the effect on how they feel is theirs to observe.
 
 ## Sources
 

@@ -21,7 +21,7 @@ Snyder treats the two as partners that "feed each other", and he describes what 
 **Plain words**
 Hoping comes down to two questions. Can I see at least one way to get there? Do I believe I can follow it, and switch to another if it fails? Wanting something badly answers neither. Someone with plenty of drive and no route stays stuck, and someone with a route and no belief never starts, so check both before calling yourself hopeful.
 
-*For example:* Say you want out of a job you dislike. Write down three routes (apply in a neighbouring field, ask a contact for an introduction, retrain in the evenings) and one step this week, such as sending two messages. This is an imagined case. Snyder notes that when a route is blocked, agency "helps people to channel the requisite motivation to the best alternate pathway" (p. 251).
+*For example:* Say you want out of a job you dislike. Write down three routes (apply in a neighbouring field, ask a contact for an introduction, retrain in the evenings) and one step this week, such as sending two messages. Snyder notes that when a route is blocked, agency "helps people to channel the requisite motivation to the best alternate pathway" (p. 251).
 
 ## Sources
 

@@ -22,7 +22,7 @@ For the psychology parallel, Aquino and Reed (2002) define moral identity as "a 
 
 **Plain words** Tika is rightness, in the sense of doing things correctly, fairly and justly within a set of relationships. It is not simply a personal sense of integrity, and it works alongside truth and care.
 
-*For example:* This is an imagined case. A builder tells a client that the cheaper option will not last, and loses the extra sale. The builder's question was what the right way to do the job is, and not what the margin is.
+*For example:* A builder tells a client that the cheaper option will not last, and loses the extra sale. The builder's question was what the right way to do the job is, and not what the margin is.
 
 ## Sources
 

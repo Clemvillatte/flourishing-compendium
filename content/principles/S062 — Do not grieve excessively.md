@@ -20,7 +20,7 @@ On "excessive": prolonged grief disorder requires grief lasting beyond 6 months 
 
 **Plain words** Seneca allows tears, asks you to avoid wailing, and says the memory of the dead can be sweet. Grief research supports moving between sorrow and daily tasks. It also treats lasting bonds with the dead as normal. Excessive means different things in a letter and in a clinic.
 
-*For example:* This is an imagined case. After a parent's death, you mourn fully and also call the funeral home the next morning.
+*For example:* After a parent's death, you mourn fully and also call the funeral home the next morning.
 
 ## Sources
 
@@ -28,7 +28,7 @@ On "excessive": prolonged grief disorder requires grief lasting beyond 6 months 
 - [Stroebe and Schut 1999, PubMed](https://pubmed.ncbi.nlm.nih.gov/10848151/)
 - [Continuing Bonds, Routledge description](https://www.routledge.com/Continuing-Bonds-New-Understandings-of-Grief/Klass-Silverman-Nickman/p/book/9781560323396)
 - [Prolonged grief disorder in ICD-11 and DSM-5-TR](https://www.psychiatriapolska.pl/pdf-159024-112359?filename=Zespol-zaloby-przedluzone.pdf)
-- Seneca Letter 99, Meditations, Discourses, Laozi, Buddhist texts: cited on the page, not read.
+- Seneca Letter 99, Meditations, Discourses, Laozi, Buddhist texts: cited at second hand.
 
 ## Psychology parallels
 

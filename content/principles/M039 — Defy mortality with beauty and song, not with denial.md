@@ -19,7 +19,7 @@ Dignity therapy is a brief palliative-care psychotherapy. A small phase II trial
 **Plain words**
 The old songs say that jade, gold and feathers wear away, and that people die too. Their answer is flowers and song: poems and work that may last longer than the maker. They do not promise it will work, and one poet says he could not find flowers that stay. A small trial of dignity therapy for people with advanced cancer found more hope but no change in distress. When mortality stings, making something is worth trying, and it is one response among others.
 
-*For example:* A woman who learns her illness is terminal writes her family's recipes into a book with the stories behind them. This is an imagined case, and the book does not change the diagnosis.
+*For example:* A woman who learns her illness is terminal writes her family's recipes into a book with the stories behind them. the book does not change the diagnosis.
 
 ## Sources
 

@@ -26,7 +26,7 @@ Coping is defined as "cognitive and behavioral efforts to master, reduce, or tol
 
 ### Scope
 
-These quotations come from secondary articles that cite the 1984 book, which was not read directly. Appraisal does not remove real danger. The theory says that the person's interpretation and perceived resources shape the stress response.
+These quotations come from secondary articles that cite the 1984 book, which is cited at second hand. Appraisal does not remove real danger. The theory says that the person's interpretation and perceived resources shape the stress response.
 
 ### In the compendium
 

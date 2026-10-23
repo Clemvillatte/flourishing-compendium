@@ -25,7 +25,7 @@ Across three archival studies, Google searches for "diet", gym visits and goal c
 
 **Plain words** Every so often, end something on purpose. Close the old commitment, clear out what has piled up, then start the replacement as a fresh decision. Do not wait for it to fall apart.
 
-*For example:* This is an imagined case. A team lead picks the first week of January. She closes two projects nobody uses, deletes the stale meeting series, and writes one line about what the team will do differently. Then she starts the one new thing, rather than letting last year's habits carry on by default.
+*For example:* A team lead picks the first week of January. She closes two projects nobody uses, deletes the stale meeting series, and writes one line about what the team will do differently. Then she starts the one new thing, rather than letting last year's habits carry on by default.
 
 ## Sources
 

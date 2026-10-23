@@ -17,7 +17,7 @@ The page describes the Spiral as open: "every journey through the process change
 
 ### Scope
 
-The page above does not use the phrase "ecological mindfulness". It presents a group process for facing grief, gratitude and action, so the label is the compendium's and the link to mindfulness research is not made by this source. The page is the organisation's own description, not independent evidence that the practice improves wellbeing or behaviour. Coming Back to Life was not read directly.
+The page above does not use the phrase "ecological mindfulness". It presents a group process for facing grief, gratitude and action, so the label is the compendium's and the link to mindfulness research is not made by this source. The page is the organisation's own description, not independent evidence that the practice improves wellbeing or behaviour. Coming Back to Life is cited at second hand.
 
 ### In the compendium
 

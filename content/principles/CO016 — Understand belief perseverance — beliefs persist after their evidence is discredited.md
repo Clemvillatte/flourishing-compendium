@@ -21,7 +21,7 @@ The title's wider claim about fact-checking needs care. In five experiments with
 **Plain words**
 In the lab, people kept an impression of themselves after being told it was based on made-up feedback. Telling them the feedback was fake was not enough. Walking them through how such impressions persist did help. In politics, large studies find that corrections mostly do improve accuracy, so do not assume that facts never work. If you are correcting a belief, explain how the false impression formed as well as what is true.
 
-*For example:* A colleague was told early on that a new hire was weak, and later learned the report was mistaken, yet still treats that hire as weak. Sit down with them and go through how the first impression formed, as well as what the new facts are. This is an imagined case of the "process debriefing" Ross and colleagues tested.
+*For example:* A colleague was told early on that a new hire was weak, and later learned the report was mistaken, yet still treats that hire as weak. Sit down with them and go through how the first impression formed, as well as what the new facts are. The example follows the "process debriefing" Ross and colleagues tested.
 
 ## Sources
 

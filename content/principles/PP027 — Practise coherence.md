@@ -20,7 +20,7 @@ The health evidence is correlational. [Eriksson and Lindström's 2006 review](ht
 
 ### Scope
 
-I did not read Antonovsky's 1987 book itself or test whether coherence can be deliberately practised.
+Antonovsky's 1987 book is cited at second hand, and whether coherence can be deliberately practised is untested here.
 
 **Plain words**
 Coherence means feeling that life makes sense, that you can cope, and that the effort is worth it. People who score higher report better health, though that does not show that coherence causes it.

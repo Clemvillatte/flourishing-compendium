@@ -19,7 +19,7 @@ That meta-analysis tests if-then planning, so the broader claim that any specifi
 **Plain words**
 "Exercise more" gives you nothing to do at 7 a.m. on a Tuesday. A plan that fixes the when, the where and the first action does. In a review of 94 tests, people who made if-then plans reached their goals more often than people who only held the intention. Turn the goal into a sentence of the form "when X happens, I will do Y".
 
-*For example:* "When I finish breakfast on a weekday, I will put on my shoes and walk for thirty minutes out of the side door." This is an imagined plan in the if-then form the review tested.
+*For example:* "When I finish breakfast on a weekday, I will put on my shoes and walk for thirty minutes out of the side door." The plan is in the if-then form the review tested.
 
 ## Sources
 

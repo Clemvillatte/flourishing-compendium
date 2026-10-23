@@ -23,7 +23,7 @@ So the principle's line between laziness and illness is not something the source
 
 **Plain words** Not wanting to start one dull task is common. Being unable to start almost anything for weeks, along with low mood or lost interest, is a reason to talk to a doctor or therapist. This page is not a diagnosis.
 
-*For example:* This is an imagined case. A man stops answering messages and cooking, and he drops hobbies he loved. After a few weeks he mentions it to his GP, who asks about mood, sleep and energy.
+*For example:* A man stops answering messages and cooking, and he drops hobbies he loved. After a few weeks he mentions it to his GP, who asks about mood, sleep and energy.
 
 ## Sources
 

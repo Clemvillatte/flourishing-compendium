@@ -17,7 +17,7 @@ Weinstein and colleagues tested the principle's central idea in a 21-day diary s
 **Plain words**
 You need time alone and time with others, but there is no magic ratio to hit. In the diary study, days with more hours alone brought less stress and more freedom, and also more loneliness, and choosing the time alone softened the loneliness. So balance is less about counting hours and more about whether your alone time is something you chose and how lonely you feel afterwards.
 
-*For example:* You block Saturday morning for a solo walk because you chose it, then ring a friend in the evening because you noticed you felt flat. This is an imagined week. It uses the study's finding that chosen solitude carried fewer costs, and nothing in it says three hours alone is the right amount.
+*For example:* You block Saturday morning for a solo walk because you chose it, then ring a friend in the evening because you noticed you felt flat. It uses the study's finding that chosen solitude carried fewer costs, and nothing in it says three hours alone is the right amount.
 
 ## Sources
 

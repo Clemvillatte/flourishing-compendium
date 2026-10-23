@@ -18,7 +18,7 @@ Hasenkamp and colleagues modelled the experience as a cycle of four phases: mind
 
 ### Scope
 
-These sources concern breath-focused meditation in trained practitioners. I did not find direct support for objects other than the breath, such as feet on the floor in a meeting, and Bregman 1990 or Holmes 2018 on mantra is cited at second hand. One secondary source says expertise reduces the effort of sustaining focus, citing Lutz et al.; I did not read that claim in the paper itself.
+These sources concern breath-focused meditation in trained practitioners. Direct support for objects other than the breath, such as feet on the floor in a meeting, was not found, and Bregman 1990 or Holmes 2018 on mantra is cited at second hand. One secondary source says expertise reduces the effort of sustaining focus, citing Lutz et al.; that claim was not read in the paper itself.
 
 **Plain words**
 An anchor is something you can return to. The practice is noticing that you drifted and coming back without blaming yourself.

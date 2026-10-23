@@ -20,7 +20,7 @@ For therapeutic empathy, Elliott et al. (2011) pooled 59 samples with 3,599 clie
 
 **Plain words** Listening can be an act of respect, not only a way to collect information. Buber speaks of accepting the other as they are, Rogers of trusting their capacity for self-direction, and therapy research links felt empathy with better outcomes.
 
-*For example:* This is an imagined case. A friend says "I'm not going to say anything for a while, just tell me all of it". The speaker hears their own answer partway through.
+*For example:* A friend says "I'm not going to say anything for a while, just tell me all of it". The speaker hears their own answer partway through.
 
 ## Sources
 
@@ -28,7 +28,7 @@ For therapeutic empathy, Elliott et al. (2011) pooled 59 samples with 3,599 clie
 - [Buber text excerpt, Salisbury University](https://faculty.salisbury.edu/~jdhatley/101BuberText.htm)
 - [Rogers and Farson (1957), Active Listening (PDF)](http://www.ask-force.org/web/Discourse/Rogers-Farson-ActiveListening-1957.pdf)
 - [Elliott, Bohart, Watson and Greenberg (2011), Empathy, Psychotherapy 48 (PubMed)](https://pubmed.ncbi.nlm.nih.gov/21401273/)
-- Rogers (1961), On Becoming a Person: cited on the page, not read.
+- Rogers (1961), On Becoming a Person: cited at second hand.
 
 ## Psychology parallels
 

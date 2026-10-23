@@ -19,7 +19,7 @@ Norms need care. In a field experiment on household energy use, a message about 
 **Plain words**
 The people around you shape what you do, and the clearest evidence is for doing something with others. In the weight-loss trial, joining with friends and building in support went with much better follow-through. Telling people what others do is a weaker tool than it sounds, and it can backfire on people who were already doing well. Pick your company and your partners on purpose, and be wary of "everyone is doing it" as a lever.
 
-*For example:* You plan to run three mornings a week, so you ask two friends to meet you at the same corner at the same time. This is an imagined case. It borrows the idea of doing the behaviour with others from Wing and Jeffery's trial, which tested a full programme and not this exact step.
+*For example:* You plan to run three mornings a week, so you ask two friends to meet you at the same corner at the same time. It borrows the idea of doing the behaviour with others from Wing and Jeffery's trial, which tested a full programme and not this exact step.
 
 ## Sources
 

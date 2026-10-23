@@ -20,7 +20,7 @@ Kasser and Ryan (1993) found that when financial success was relatively central 
 
 **Plain words** The Stoics say only virtue is good, and things like wealth and comfort are acceptable to choose but do not decide how your life goes. Seneca's test is to have what is necessary, then what is enough. The research on materialism is correlational but points in the same direction.
 
-*For example:* This is an imagined case. You look at a full wardrobe and notice you wear a fifth of it.
+*For example:* You look at a full wardrobe and notice you wear a fifth of it.
 
 ## Sources
 
@@ -29,7 +29,7 @@ Kasser and Ryan (1993) found that when financial success was relatively central 
 - [Stoicism, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/stoicism/)
 - [Kasser and Ryan 1993, PubMed](https://pubmed.ncbi.nlm.nih.gov/8366427/)
 - [Brown and Kasser 2005, ERIC](https://eric.ed.gov/?id=EJ749101)
-- Discourses I.1, I.25, Meditations III.6 and VI.13, Seneca Letter 110, Laozi, Epicurus: cited on the page, not read.
+- Discourses I.1, I.25, Meditations III.6 and VI.13, Seneca Letter 110, Laozi, Epicurus: cited at second hand.
 
 ## Psychology parallels
 

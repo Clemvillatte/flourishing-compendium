@@ -19,7 +19,7 @@ What does support changing the context is that habits stay tied to it. Habitual 
 
 **Plain words** A habit is tied to its setting, so changing the setting can break the link. Do not drop the watchfulness, though. In the diary studies, watching for slips was what worked on strong habits.
 
-*For example:* This is an imagined case. A man who snacks at the kitchen table moves his laptop to another room. Early on, he still notices the pull and tells himself to hold off.
+*For example:* A man who snacks at the kitchen table moves his laptop to another room. Early on, he still notices the pull and tells himself to hold off.
 
 ## Sources
 

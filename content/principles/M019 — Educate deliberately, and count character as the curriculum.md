@@ -21,7 +21,7 @@ The Nahua sources cited here do not attach a fixed list of virtues to this schoo
 **Plain words**
 Nahua schools were built around forming a person's character as well as teaching skills: songs, calendars, penance and discipline in the calmecac, and community work and training in the telpochcalli. Their stated aim was a wise face and a strong heart. You can borrow the idea without the institutions. Write down what you are practising, who you are learning from and what you are making, and treat that page as your syllabus.
 
-*For example:* A self-taught programmer notices her training never covered ethics or working with other people. She finds a mentor, picks one standard to practise each month and keeps a log. This is an imagined case.
+*For example:* A self-taught programmer notices her training never covered ethics or working with other people. She finds a mentor, picks one standard to practise each month and keeps a log.
 
 ## Sources
 

@@ -20,7 +20,7 @@ The working definition here (not condoning, excusing or reconciling) is not stat
 
 **Plain words** Structured forgiveness programmes help people let go of resentment, and they tend to ease depression and anxiety somewhat. More time spent on the programme helped more. Self-forgiveness has a promising first trial, and little else was checked here.
 
-*For example:* This is an imagined case. After years of bitterness toward a former friend, you work through a guided forgiveness workbook over several weeks and notice you rehearse the grievance less often.
+*For example:* After years of bitterness toward a former friend, you work through a guided forgiveness workbook over several weeks and notice you rehearse the grievance less often.
 
 ## Sources
 

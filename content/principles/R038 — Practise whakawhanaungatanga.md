@@ -20,14 +20,14 @@ For the psychology parallel, Pettigrew and Tropp (2006) analysed 713 samples fro
 
 **Plain words** Whakawhanaungatanga means the process of establishing relationships. In the main source, it is shown through caring, trust and high expectations between teachers and students. Contact between groups also tends to reduce prejudice, with weaker effects for racial and ethnic prejudice in the randomised studies.
 
-*For example:* This is an imagined case. A nurse learns a greeting in each language spoken on her ward, and uses it each morning.
+*For example:* A nurse learns a greeting in each language spoken on her ward, and uses it each morning.
 
 ## Sources
 
 - [Bishop, Berryman, Cavanagh and Teddy (2007), Te Kōtahitanga Phase 3 Whānaungatanga](https://thehub.sia.govt.nz/assets/documents/40792_Te_Kotahitanga_Phase3_0.pdf)
 - [Pettigrew and Tropp (2006), A meta-analytic test of intergroup contact theory, J Pers Soc Psychol 90(5), 751-783 (abstract)](https://www.ovid.com/journals/jpspy/abstract/00005205-200605000-00004~a-meta-analytic-test-of-intergroup-contact-theory)
 - [Paluck, Green and Green (2019), The contact hypothesis re-evaluated, Behavioural Public Policy 3(2), 129-158 (abstract)](https://ideas.repec.org/a/cup/bpubpo/v3y2019i02p129-158_00.html)
-- Mead (2003), Durie (1994) and Pettigrew (1998): cited on the page, not read.
+- Mead (2003), Durie (1994) and Pettigrew (1998): cited at second hand.
 
 ## Psychology parallels
 

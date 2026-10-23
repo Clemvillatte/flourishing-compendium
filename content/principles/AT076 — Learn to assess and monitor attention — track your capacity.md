@@ -19,7 +19,7 @@ That shows drift can be sampled from moment to moment with one question. It does
 **Plain words**
 Attention comes and goes, and you can get a rough picture of it by asking yourself at random moments whether your mind is on what you are doing. In that phone study, minds had wandered in nearly half of the samples. Try it for two weeks and see what your own answers say before you decide when and how you focus best.
 
-*For example:* Set three random alarms a day. When one goes off, note whether your mind was on the task (yes or no) and what you were doing. This is an imagined routine in the style of the Killingsworth and Gilbert sampling, and what it shows is for you to discover.
+*For example:* Set three random alarms a day. When one goes off, note whether your mind was on the task (yes or no) and what you were doing. It is in the style of the Killingsworth and Gilbert sampling, and what it shows is for you to discover.
 
 ## Sources
 

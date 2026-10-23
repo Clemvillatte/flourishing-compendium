@@ -19,7 +19,7 @@ Psychology has studied the same theme from the other direction. Oishi and Schimm
 **Plain words**
 Maya milpa farming links food, identity and ceremony to one piece of land. Modern research does not test whether knowing a place deeply makes you happier, but it does find that frequent moves, especially in childhood, go with lower well-being for some people, apparently because they cost you close relationships. If you stay somewhere, learning its seasons, plants and people is a low-cost way of building those ties.
 
-*For example:* Someone who has moved eleven times in fifteen years decides to stay put for five years. They learn the names of the neighbours and the trees on their street. This is an imagined case, and what follows from it is open.
+*For example:* Someone who has moved eleven times in fifteen years decides to stay put for five years. They learn the names of the neighbours and the trees on their street. what follows from it is open.
 
 ## Sources
 

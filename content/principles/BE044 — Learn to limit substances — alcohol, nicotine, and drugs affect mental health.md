@@ -25,7 +25,7 @@ None of the sources cited here addresses sleep, so this page makes no claim abou
 **Plain words**
 Alcohol, nicotine and cannabis each have measurable links to mental health, and the strength differs. The firmest signals here are alcohol use disorders going with depression, smoking cessation going with lower anxiety and depression, and heavy cannabis use going with higher psychosis risk. A drink that feels like relief is not evidence that it helps your mood. Watch how you actually feel across the following days.
 
-*For example:* For two weeks you note your mood and how rested you feel each morning, alongside whether you drank the night before. This is an imagined self-experiment. It is a way of testing the claim on yourself and not a diagnostic tool, and if you cannot cut back, speak to a health professional.
+*For example:* For two weeks you note your mood and how rested you feel each morning, alongside whether you drank the night before. It is a way of testing the claim on yourself and not a diagnostic tool, and if you cannot cut back, speak to a health professional.
 
 ## Sources
 

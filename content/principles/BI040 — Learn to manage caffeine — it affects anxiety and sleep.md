@@ -19,7 +19,7 @@ Sleep: caffeine taken 6 hours before bedtime still disrupted sleep in one trial 
 **Plain words**
 Caffeine affects both anxiety and sleep, though the strength of the evidence differs. Large doses, around five cups of coffee, reliably set off panic attacks in people with panic disorder. At 150 mg the one trial found no extra anxiety. Timing is the more reliable lever for sleep: stop several hours before bed. If you are prone to anxiety, a lower dose and an earlier cut-off are low-cost experiments.
 
-*For example:* For one week you keep to two small coffees before noon and note your sleep and any jittery moments each morning. This is an imagined experiment, and a clinician should be consulted if you suspect panic disorder.
+*For example:* For one week you keep to two small coffees before noon and note your sleep and any jittery moments each morning. A clinician should be consulted if you suspect panic disorder.
 
 ## Sources
 

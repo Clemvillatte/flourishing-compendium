@@ -19,7 +19,7 @@ For ordinary exercisers, a cross-sectional study of 1,237,194 US adults found th
 **Plain words**
 Hard training works when it is followed by enough recovery, and trouble comes from piling load on top of load without it. In a very large US survey, moderate amounts of exercise went with the best self-reported mental health, and more was not always better. The U-shaped curve in the title is a reasonable summary and not a measured law, and the evidence on immune suppression did not appear in the sources checked here.
 
-*For example:* After a hard week you swap one session for an easy walk and a long sleep, and you note your mood and energy over the next three days. This is an imagined adjustment that applies the "overload plus recovery" principle, and the consensus statement does not offer a ready formula for how much rest any one person needs.
+*For example:* After a hard week you swap one session for an easy walk and a long sleep, and you note your mood and energy over the next three days. It applies the "overload plus recovery" principle, and the consensus statement does not offer a ready formula for how much rest any one person needs.
 
 ## Sources
 

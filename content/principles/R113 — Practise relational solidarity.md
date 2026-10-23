@@ -20,7 +20,7 @@ The psychology citation does not match its label. Foster-Bey (2008) is a CIRCLE 
 
 **Plain words** Solidarity, as Scholz describes it, is a commitment to oppose an injustice together with others. It does not require shared identity. Rorty adds that it grows when we attend closely to how others suffer. Whether it improves your own well-being is not shown by the study cited here.
 
-*For example:* This is an imagined case. A well-off resident joins the tenants' campaign, attends the meetings, and accepts the same risks as the other tenants.
+*For example:* A well-off resident joins the tenants' campaign, attends the meetings, and accepts the same risks as the other tenants.
 
 ## Sources
 
@@ -29,7 +29,7 @@ The psychology citation does not match its label. Foster-Bey (2008) is a CIRCLE 
 - [Rorty (1989) excerpt](https://sites.pitt.edu/~rbrandom/Courses/Antirepresentationalism%20(2020)/Texts/rorty-contingency-irony-and-solidarity-1989.pdf)
 - [Quoted passage on fiction and ethnography](https://www.goodreads.com/quotes/8625455-in-my-utopia-human-solidarity-would-be-seen-not-as)
 - [Foster-Bey 2008, CIRCLE Working Paper 62](https://files.eric.ed.gov/fulltext/ED505266.pdf)
-- Scholz (2008), Arendt (1958): cited on the page, not read directly.
+- Scholz (2008), Arendt (1958): cited at second hand.
 
 ## Psychology parallels
 

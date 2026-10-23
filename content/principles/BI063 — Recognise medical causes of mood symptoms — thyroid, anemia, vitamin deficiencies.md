@@ -19,7 +19,7 @@ For vitamin B12, a clinical review in American Family Physician states that symp
 **Plain words**
 Low mood, anxiety and tiredness sometimes have a physical contributor, such as a thyroid problem or low B12. Large reviews show that the thyroid link is modest, so it is one possibility among many. B12 testing is recommended when there is a risk factor and a matching symptom, not for everyone. Tell a doctor about persistent symptoms, and let them decide what to check.
 
-*For example:* After months of low mood and fatigue, someone books a GP visit and describes both the mood and the physical symptoms. The doctor orders bloodwork on clinical grounds. This is an imagined case, and nobody can predict from the outside what the tests will show.
+*For example:* After months of low mood and fatigue, someone books a GP visit and describes both the mood and the physical symptoms. The doctor orders bloodwork on clinical grounds. nobody can predict from the outside what the tests will show.
 
 ## Sources
 

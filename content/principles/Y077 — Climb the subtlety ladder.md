@@ -20,7 +20,7 @@ Sutra 1.17 lists four forms that concentration takes when it is conscious of an 
 
 ### Where the principle adds to the text
 
-The text gives a ladder of four forms that grow less gross by subtraction, with the coarse object at the bottom and the subtle at the top. It does not say that the objects themselves differ in subtlety as a rule for choosing what to attend to. Breath and bodily sensation are the principle's examples, and "do not celebrate; refine" is its practical advice. I did not read sutras 1.42-1.44, which discuss the related balanced states, so I make no claim about them here.
+The text gives a ladder of four forms that grow less gross by subtraction, with the coarse object at the bottom and the subtle at the top. It does not say that the objects themselves differ in subtlety as a rule for choosing what to attend to. Breath and bodily sensation are the principle's examples, and "do not celebrate; refine" is its practical advice. Sutras 1.42-1.44, which discuss the related balanced states, are cited at second hand, so no claim is made about them here.
 
 **Plain words** Woods' commentary describes four kinds of conscious concentration, each with less in it than the one before: first reasoning about a coarse object, then a subtler look at it, then joy, then only the sense of being oneself. The advice to move from the easy coarse object to a finer one is the principle's way of using this ladder.
 

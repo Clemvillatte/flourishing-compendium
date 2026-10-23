@@ -20,7 +20,7 @@ The psychology evidence separates two kinds of hope. In Swedish samples (n = 723
 
 **Plain words** Ecological hope can be understood as acting for a future that is possible but not promised. Research with young Swedes separates constructive hope, which goes with action, from hope based on denial, which does not. The evidence is correlational.
 
-*For example:* This is an imagined case. A retired couple restore a neglected creek, knowing they may not see the result.
+*For example:* A retired couple restore a neglected creek, knowing they may not see the result.
 
 ## Sources
 
@@ -29,7 +29,7 @@ The psychology evidence separates two kinds of hope. In Swedish samples (n = 723
 - [Quote Investigator, shade adage](https://quoteinvestigator.com/page/91/?ref=hackernoon.com); [Forest Nation](https://forestnation.com/blog/this-quote-says-all/)
 - [Ojala 2012, ERIC](https://eric.ed.gov/?id=EJ981725); [Ojala 2013](https://ideas.repec.org/a/gam/jsusta/v5y2013i5p2191-2209d25694.html)
 - [Snyder 2002 abstract](https://www.tandfonline.com/doi/abs/10.1207/S15327965PLI1304_01)
-- Macy and Brown (2014), Orr (2011), Frankl (1946), Lebowitz et al. (2022), Marcel, Bloch: cited on the page, not read.
+- Macy and Brown (2014), Orr (2011), Frankl (1946), Lebowitz et al. (2022), Marcel, Bloch: cited at second hand.
 
 ## Psychology parallels
 

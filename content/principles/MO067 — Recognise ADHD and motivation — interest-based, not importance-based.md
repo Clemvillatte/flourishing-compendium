@@ -23,7 +23,7 @@ Stigma. The consensus statement's stated aim is to challenge misconceptions that
 
 **Plain words** For many people with ADHD, rewards that are far away feel weak, and tasks that offer nothing now are hard to start. Adding an immediate payoff or outside structure is a common suggestion, though the sources cited here do not test it. A clinician can assess whether ADHD is the cause.
 
-*For example:* This is an imagined case. An adult with ADHD works through a dull report in a library next to a friend who is also working, with a timer on. The task has an immediate structure that its distant deadline lacks.
+*For example:* An adult with ADHD works through a dull report in a library next to a friend who is also working, with a timer on. The task has an immediate structure that its distant deadline lacks.
 
 ## Sources
 

@@ -19,7 +19,7 @@ Wide, expansive "power poses" are a different and weaker claim. The 2015 replica
 **Plain words**
 In controlled studies, sitting upright rather than slumped led to somewhat better mood and self-esteem during a stressful task, and less focus on oneself. The effects were measured over short sessions, not over weeks. The popular claim that striking a wide "power pose" changes your hormones or your behaviour did not hold up. Sitting up is a cheap thing to try, but it is not a treatment for low mood.
 
-*For example:* Before a video call you notice you are folded over the laptop. You sit back, drop your shoulders, and see whether the next ten minutes feel any different. This is an imagined case, and you are the only judge of the result.
+*For example:* Before a video call you notice you are folded over the laptop. You sit back, drop your shoulders, and see whether the next ten minutes feel any different. you are the only judge of the result.
 
 ## Sources
 

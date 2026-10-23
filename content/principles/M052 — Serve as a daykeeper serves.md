@@ -19,7 +19,7 @@ The psychology of small acts of service is better documented. A meta-analysis of
 **Plain words**
 In the Maya communities described, the daykeeper is the person people consult in illness, loss and decision, and ritual follows the count. The opened sources do not describe daily unglamorous service or lifelong tenure. What research does support is smaller: doing kind acts raises the doer's well-being a little. Choose one small service you can keep up, and see how it feels after a few months.
 
-*For example:* A neighbour waters the street's gardens and takes in parcels for others. This is an imagined case, and nothing about it needs to be remarkable.
+*For example:* A neighbour waters the street's gardens and takes in parcels for others. nothing about it needs to be remarkable.
 
 ## Sources
 

@@ -28,7 +28,7 @@ The adolescent systematic review found mostly weak-to-moderate links, with depre
 
 **Plain words** Mattering is the feeling that particular people notice you, value you and rely on you. It adds something beyond self-esteem and support in several studies, though the evidence is mostly correlational. George and Park use the same word for feeling that your life counts in the wider world.
 
-*For example:* This is an imagined case. A neighbour asks you to the street meeting because they want your view. Their asking, more than the meeting, is what tells you that you count.
+*For example:* A neighbour asks you to the street meeting because they want your view. Their asking, more than the meeting, is what tells you that you count.
 
 ## Sources
 

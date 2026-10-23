@@ -20,7 +20,7 @@ Lynn Underwood, whose framework the psychology bullet cites, defines compassiona
 
 **Plain words** Alofa is the Samoan word for love, compassion and gift, and the sources stress that it is shown by acts and returned in kind. Psychology's compassionate love is similar, but not the same thing.
 
-*For example:* This is an imagined case. An aunt keeps the freezer stocked for whoever turns up and drives someone to the airport at 5 a.m. Nobody asks whether she loves them.
+*For example:* An aunt keeps the freezer stocked for whoever turns up and drives someone to the airport at 5 a.m. Nobody asks whether she loves them.
 
 ## Sources
 
@@ -30,7 +30,7 @@ Lynn Underwood, whose framework the psychology bullet cites, defines compassiona
 - [Mobilising tofā sa'ili for ECE leadership, PESA Agora](https://pesaagora.com/access-vol-41-2/mobilising-tofa-saili-for-ece-leadership/)
 - [Underwood, Compassionate love (book chapter)](https://www.lynnunderwood.com/wp-content/uploads/cleancompassionatelovebookchapterblackwell.pdf)
 - [Sprecher and Fehr (2005), Compassionate love for close others and humanity](https://ggsc.berkeley.edu/images/uploads/Sprecher_Fehr_2005_Compassionate_love_for_close_others_and_humanity.pdf)
-- Tuhiwai Smith (1999), Decolonizing Methodologies: cited on the page, not read.
+- Tuhiwai Smith (1999), Decolonizing Methodologies: cited at second hand.
 
 ## Psychology parallels
 

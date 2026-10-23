@@ -22,7 +22,7 @@ For the psychology parallel, Gouldner (1960) distinguished reciprocity "as a pat
 
 **Plain words** Utu is about keeping relationships in balance. It includes returning a gift as well as answering a wrong, and the scholars cited say the balance is dynamic, not a strict one-for-one score. Revenge is only one of its senses.
 
-*For example:* This is an imagined case. A neighbour returns your borrowed ladder with firewood, a little more than the loan was worth. Nothing is said, and the exchange keeps the relationship warm.
+*For example:* A neighbour returns your borrowed ladder with firewood, a little more than the loan was worth. Nothing is said, and the exchange keeps the relationship warm.
 
 ## Sources
 
@@ -30,7 +30,7 @@ For the psychology parallel, Gouldner (1960) distinguished reciprocity "as a pat
 - [Ahu and Hoare, Utu: finding a balance for the legal Māori, NZ Association for Comparative Law Yearbook 16 (2010)](https://www.wgtn.ac.nz/law/research/publications/about-nzacl/publications/nzacl-yearbooks/yearbook-16,-2010/03-Ahu-Hoare.pdf)
 - [Conceptualizing Utu as a Foreign Policy Doctrine, Global Policy (abstract and excerpt)](https://onlinelibrary.wiley.com/doi/abs/10.1111/1758-5899.70010)
 - [Gouldner (1960), The norm of reciprocity: a preliminary statement, Am Sociol Rev 25, 161-178 (abstract)](https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.2307/2092623)
-- Mead (2003), Tikanga Māori; Durie (1994), Whaiora: cited on the page, not read.
+- Mead (2003), Tikanga Māori; Durie (1994), Whaiora: cited at second hand.
 
 ## Psychology parallels
 

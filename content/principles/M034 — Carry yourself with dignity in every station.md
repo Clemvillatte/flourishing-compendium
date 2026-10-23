@@ -19,7 +19,7 @@ The parts of Book VI cited here address each rank without telling people not to 
 **Plain words**
 The Codex speaks to people in different ranks and defines honor by how a person behaves. Whether it told people not to envy other ranks is not established by the passages cited here. Psychologists define envy as a painful mix of inferiority and resentment, and note that some envy carries no hostility. If you notice envy of another person's position, treat it as information about what you want, then spend your effort on your own duties.
 
-*For example:* An airport cleaner does the lounge floor corner by corner and takes pride in the standard. This is an imagined case, and nothing in it says her situation is easy.
+*For example:* An airport cleaner does the lounge floor corner by corner and takes pride in the standard. nothing in it says her situation is easy.
 
 ## Sources
 

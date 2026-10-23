@@ -20,13 +20,13 @@ The caution comes from Maslach and Leiter (2016). They define burnout as "a psyc
 
 **Plain words** Caring for yourself is part of caring well. Neff's self-compassion describes how to treat yourself when things go wrong. Burnout research warns that overloaded systems cannot be fixed by self-care alone.
 
-*For example:* This is an imagined case. A carer takes the offered respite weekend. She also asks the agency to share the night shifts, because rest alone will not fix the load.
+*For example:* A carer takes the offered respite weekend. She also asks the agency to share the night shifts, because rest alone will not fix the load.
 
 ## Sources
 
 - [Neff (2003) as quoted in Self-Compassion, Stress, and Coping, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2914331/)
 - [Maslach and Leiter (2016), Understanding the burnout experience, World Psychiatry, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4911781/)
-- Noddings (2002), Tronto (2013): cited on the page, not read.
+- Noddings (2002), Tronto (2013): cited at second hand.
 
 ## Psychology parallels
 

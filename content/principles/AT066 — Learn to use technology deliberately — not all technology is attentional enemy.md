@@ -19,7 +19,7 @@ Neither paper tests deliberate use against habitual use, so the "spend or invest
 **Plain words**
 Total screen time and the active-versus-passive split are both weak guides to how people feel. A better check is personal: before you open something, name what you came to do, and afterwards ask whether you did it. If you keep ending up somewhere you did not intend, change that tool or the way you reach it.
 
-*For example:* Before picking up your phone, say aloud "I am checking tomorrow's train time." When you put it down, see whether that is the only thing you did. This is an imagined routine, offered as a way to test the rule on yourself.
+*For example:* Before picking up your phone, say aloud "I am checking tomorrow's train time." When you put it down, see whether that is the only thing you did. It is offered as a way to test the rule on yourself.
 
 ## Related concepts
 

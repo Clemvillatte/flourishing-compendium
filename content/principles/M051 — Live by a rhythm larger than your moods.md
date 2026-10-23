@@ -19,7 +19,7 @@ The modern research on calendars is about landmarks, not sacred counts. Across t
 **Plain words**
 Highland Maya daykeepers keep a 260-day count and read each day's character to choose when to plant, harvest or marry. The research on calendars is different: people start new goals more often after landmarks such as a new week or month. A fixed rhythm can help with starting, but waiting for the next landmark can also make people ease off now. Pick a regular review day and keep to it.
 
-*For example:* A writer who only writes when inspired sets a fixed writing morning each week. This is an imagined case.
+*For example:* A writer who only writes when inspired sets a fixed writing morning each week.
 
 ## Sources
 

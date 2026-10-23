@@ -25,7 +25,7 @@ She rejects the fortified exit directly. "Staying “home” and not venturing o
 **Plain words**
 When you stand between two groups, it is tempting to join one and drop the other, or to dig in against the one you left. Anzaldúa describes a third path: stay connected to both and help people cross, carrying understanding in both directions. It will not feel like home, and she says plainly that there are no safe spaces. You choose it deliberately, because drifting into it leaves you resentful.
 
-*For example:* An engineer moves into management. One way out is to stop talking to the engineers; another is to resent the executives. The bridging path is to explain each side's constraints to the other in plain terms, and to accept that neither side will fully see you as one of them. This is an imagined case of the role Anzaldúa describes.
+*For example:* An engineer moves into management. One way out is to stop talking to the engineers; another is to resent the executives. The bridging path is to explain each side's constraints to the other in plain terms, and to accept that neither side will fully see you as one of them. The example follows the role Anzaldúa describes.
 
 ## Sources
 

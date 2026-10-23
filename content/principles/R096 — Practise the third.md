@@ -20,7 +20,7 @@ The psychology bullets (Kohlberg 1981, Haidt 2012) are cited at second hand. A s
 
 **Plain words** Beyond you and one other person there is always a third, and then others. Levinas says that this limits your responsibility to any one person and raises the question of justice, which means comparing and judging among those who claim you.
 
-*For example:* This is an imagined case. A manager would do anything for one struggling colleague but has eleven others, so she has to turn personal care into fair rules.
+*For example:* A manager would do anything for one struggling colleague but has eleven others, so she has to turn personal care into fair rules.
 
 ## Sources
 
@@ -28,7 +28,7 @@ The psychology bullets (Kohlberg 1981, Haidt 2012) are cited at second hand. A s
 - [Levinas's phenomenological ethics: the third party and justice, BMC Medical Ethics](https://link.springer.com/article/10.1186/s12910-026-01453-z)
 - [Thinking the Pandemic, PhilArchive (quotes Levinas on the third)](https://philarchive.org/archive/HORWTF)
 - [A Singular Justice, Philosophy Today supplement 1998](https://www.pdcnet.org/scholarpdf/show?id=philtoday_1998_0042Supplement_0059_0070&pdfname=philtoday_1998_0042Supplement_0059_0070.pdf&file_type=pdf)
-- Kohlberg (1981), Haidt (2012), Levinas (1961, 1974): cited on the page, not read directly.
+- Kohlberg (1981), Haidt (2012), Levinas (1961, 1974): cited at second hand.
 
 ## Psychology parallels
 

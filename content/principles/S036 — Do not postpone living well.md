@@ -18,7 +18,7 @@ Two psychology items are loose fits. Kasser and Sheldon (2009) report across fou
 
 **Plain words** Seneca says that life is long enough if it is not wasted. Whatever you are waiting for may never arrive, so do something you value today, however small. Studies on time and attention suggest that having time and being present go with wellbeing. They do not test the act of postponing.
 
-*For example:* This is an imagined case. You call the friend you have been meaning to call, rather than waiting until things calm down.
+*For example:* You call the friend you have been meaning to call, rather than waiting until things calm down.
 
 ## Sources
 
@@ -26,7 +26,7 @@ Two psychology items are loose fits. Kasser and Sheldon (2009) report across fou
 - [Quotle, Seneca 1.3 Latin](https://quotle.info/who-said/it-is-not-that-we-have-a-short-time-to-live-but-that-we/)
 - [Kasser and Sheldon 2009, Springer](https://link.springer.com/article/10.1007/s10551-008-9696-1)
 - [Killingsworth and Gilbert 2010, PubMed](https://pubmed.ncbi.nlm.nih.gov/21071660/); [Harvard Gazette](https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/)
-- Seneca chapters 7 and 10, Marcus Aurelius, Epictetus, James, Memento mori: cited on the page, not read.
+- Seneca chapters 7 and 10, Marcus Aurelius, Epictetus, James, Memento mori: cited at second hand.
 
 ## Psychology parallels
 

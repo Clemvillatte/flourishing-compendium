@@ -19,7 +19,7 @@ The stronger claims are contested. A BJPsych Bulletin review of The Body Keeps t
 **Plain words**
 Trauma can show up as a racing heart, a jumpy body or numbness, and some people find that working with sensation and movement helps where talking alone has not. Small trials and early reviews are encouraging, but the studies are weak, and nothing shows that body-based methods beat trauma-focused talking therapies. Treat them as one option to discuss with a qualified clinician, alongside the approaches with the strongest evidence.
 
-*For example:* Someone who understands their history well still jumps at a slammed door. They ask a trauma clinician about adding body-based work to talk therapy, and ask what evidence supports each option. This is an imagined case, not a prediction about any real person.
+*For example:* Someone who understands their history well still jumps at a slammed door. They ask a trauma clinician about adding body-based work to talk therapy, and ask what evidence supports each option.
 
 ## Sources
 

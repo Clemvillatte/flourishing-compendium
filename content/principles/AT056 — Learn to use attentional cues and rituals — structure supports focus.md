@@ -21,7 +21,7 @@ On rituals specifically, the evidence is thinner than it looks. A 2016 study (Br
 **Plain words**
 A cue is anything that regularly comes right before you start, such as the same desk, the same hour or the same first action. Repeat it in the same setting and the start gets easier without needing a decision each time. Give it weeks, not days, and one missed day will not undo it. Treat the ritual part as a comfort that might help rather than a proven lever, since a 2016 study claiming it works was retracted.
 
-*For example:* Every morning you clear the desk, open the same notebook and write one sentence before checking messages. This is an imagined routine. In Wood and Neal's terms, the desk and the notebook are the context cues that, after enough repetitions, trigger the starting response without a fresh decision.
+*For example:* Every morning you clear the desk, open the same notebook and write one sentence before checking messages. In Wood and Neal's terms, the desk and the notebook are the context cues that, after enough repetitions, trigger the starting response without a fresh decision.
 
 ## Sources
 

@@ -19,7 +19,7 @@ The premise that shame always pushes people to hide needs a qualification. De Ho
 **Plain words**
 When shame arrives, the usual pull is to hide, though one pair of studies found that some people lean toward company instead. Opposite action means doing the reverse of whatever shame is urging, such as telling one safe person about the event. A pilot of five people found this could ease shame about one specific event over a short period. That is early evidence, so use it as an experiment and not a cure.
 
-*For example:* You are ashamed of a mistake at work and want to say nothing. You choose one trusted colleague and describe what happened in two sentences. This is an imagined case of opposite action, and the pilot does not show how any individual will feel afterwards.
+*For example:* You are ashamed of a mistake at work and want to say nothing. You choose one trusted colleague and describe what happened in two sentences. It is a case of opposite action, and the pilot does not show how any individual will feel afterwards.
 
 ## Sources
 

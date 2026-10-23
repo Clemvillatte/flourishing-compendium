@@ -19,7 +19,7 @@ This is evidence about structured programs, mainly mindfulness-based. It says li
 **Plain words**
 Regular meditation practice helps with anxiety, low mood and pain by a modest amount, and about as well as other treatments it was compared with. The evidence is thinner for stress, mood and attention, and it is not a substitute for care if you are unwell. Whether silence and retreat bring depth is a personal question that these trials do not answer.
 
-*For example:* You sit for ten minutes each morning with a mindfulness recording and note, once a week, how anxious you felt. This is an imagined routine in the style of the programs Goyal reviewed, which were typically longer structured courses.
+*For example:* You sit for ten minutes each morning with a mindfulness recording and note, once a week, how anxious you felt. It is in the style of the programs Goyal reviewed, which were typically longer structured courses.
 
 ## Sources
 

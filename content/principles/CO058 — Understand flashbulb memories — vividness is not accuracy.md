@@ -19,7 +19,7 @@ A ten-year follow-up of a national sample reached a similar result: "there was r
 **Plain words**
 The vivid memory of where you were when big news broke feels like a photograph. The studies that wrote it down that week and asked again later found it had changed as much as an ordinary memory had, and people stayed just as sure. The feeling of certainty tells you how the memory feels now. It does not tell you what happened.
 
-*For example:* Write down today where you are and what you are doing, then read it back in a year. If you are tempted to trust your memory over the note, you are seeing the effect the studies describe. This is an imagined exercise modelled on the studies' method of recording first and re-testing later.
+*For example:* Write down today where you are and what you are doing, then read it back in a year. If you are tempted to trust your memory over the note, you are seeing the effect the studies describe. The exercise is modelled on the studies' method of recording first and re-testing later.
 
 ## Sources
 

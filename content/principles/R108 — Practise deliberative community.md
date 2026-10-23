@@ -20,7 +20,7 @@ The psychology parallel runs mostly the other way from the original entry's well
 
 **Plain words** Public decisions need ordinary people's reasoning, not just that of officials. Habermas's theory gives informal public talk a role in making law legitimate. Evidence on deliberation shows people learn and change views in structured settings, though one critic doubts that the opinions get better. Whether joining improves your own wellbeing is not shown here.
 
-*For example:* This is an imagined case. A parent who rarely speaks at school meetings raises the bus route, and the committee asks for the timetable.
+*For example:* A parent who rarely speaks at school meetings raises the bus route, and the committee asks for the timetable.
 
 ## Sources
 
@@ -30,7 +30,7 @@ The psychology parallel runs mostly the other way from the original entry's well
 - [Critical Review, Revisiting the Voice of the People](http://www.tandfonline.com/doi/abs/10.1080/08913811.2011.635872)
 - [World Happiness Report 2019, ch. 3](https://files.worldhappiness.report/WHR19_Ch03.pdf)
 - [Ghana study summarising Flavin and Keane](https://ugspace.ug.edu.gh/server/api/core/bitstreams/67bed250-32c6-4a2f-a01c-f6ba3af8be8e/content)
-- Habermas (1996), Sandel (2009), Bohman (1996), Flavin and Keane (2012 full text): cited on the page, not read directly.
+- Habermas (1996), Sandel (2009), Bohman (1996), Flavin and Keane (2012 full text): cited at second hand.
 
 ## Psychology parallels
 

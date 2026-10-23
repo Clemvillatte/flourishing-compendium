@@ -22,7 +22,7 @@ A caution from a recent paper: higher creative self-efficacy predicted a larger 
 
 **Plain words** People who feel able to make things creatively tend to produce more creative work, though the link is medium-sized and mostly correlational. How that confidence grows is not settled, and feedback from others seems to matter.
 
-*For example:* This is an imagined case. Someone starts saying "I write", shows up every Saturday morning, and shares a draft with one reader whose feedback they trust.
+*For example:* Someone starts saying "I write", shows up every Saturday morning, and shares a draft with one reader whose feedback they trust.
 
 ## Sources
 

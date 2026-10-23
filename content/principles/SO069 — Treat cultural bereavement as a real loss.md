@@ -22,7 +22,7 @@ A systematic review of migratory grief credits him with naming the distress that
 
 ### Scope
 
-The original work was with Southeast Asian refugees. Papadopoulos 2007, Bhugra 2004 or Fazel et al is cited at second hand. 2005, and I found no test here of whether naming the loss reduces distress.
+The original work was with Southeast Asian refugees. Papadopoulos 2007, Bhugra 2004 and Fazel et al. 2005 are cited at second hand, and no test here says whether naming the loss reduces distress.
 
 **Plain words**
 Losing a homeland, language and way of life is a real bereavement. It can look like sentiment from outside, but it can also carry guilt, intrusive memories and unfinished duties to the dead.

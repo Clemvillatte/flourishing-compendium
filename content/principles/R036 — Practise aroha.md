@@ -20,7 +20,7 @@ For the psychology parallel, Underwood's working definition of compassionate lov
 
 **Plain words** Aroha is love, sympathy and compassion together, and Māori scholars say English words only cover part of it. In the sources, it is tied to truth and to doing the right thing, and it can override both.
 
-*For example:* This is an imagined case. When a flood reaches the marae, people begin cooking before anyone has asked them to. What moves them is care for the people arriving, and it is acted on straight away.
+*For example:* When a flood reaches the marae, people begin cooking before anyone has asked them to. What moves them is care for the people arriving, and it is acted on straight away.
 
 ## Sources
 
@@ -28,7 +28,7 @@ For the psychology parallel, Underwood's working definition of compassionate lov
 - [Stewart, Smith, Diamond, Paul and Hogg (2021), Ko te Tika, ko te Pono, ko te Aroha: exploring Māori values in the university](https://openrepository.aut.ac.nz/server/api/core/bitstreams/5920bd9b-32c3-4389-a2ad-fc0e90a25190/content)
 - [Aroha as critique, PESA Agora (column, excerpt)](https://pesaagora.com/columns/aroha-as-critique/)
 - [Underwood, Compassionate love: a framework for research (book chapter, excerpt)](https://www.lynnunderwood.com/wp-content/uploads/cleancompassionatelovebookchapterblackwell.pdf)
-- Mead (2003) and Durie (1994): cited on the page, not read.
+- Mead (2003) and Durie (1994): cited at second hand.
 
 ## Psychology parallels
 

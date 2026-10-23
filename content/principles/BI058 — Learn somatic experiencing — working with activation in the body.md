@@ -19,7 +19,7 @@ Outcome evidence is early. In the first randomised trial, 63 people with PTSD we
 **Plain words**
 Somatic Experiencing asks you to pay attention to bodily sensations such as trembling, warmth or breath while a therapist guides you through a stress response. Its founders say this helps the body finish defensive reactions that were interrupted. One small trial and a review of mixed-quality studies are encouraging, but the evidence is too thin to call it proven. If you are curious, ask a qualified clinician how it compares with therapies that have more evidence behind them.
 
-*For example:* A client notices trembling in a session and tells the therapist. They slow down and check how the client feels, instead of treating the shaking as proof that anything has been released. This is an imagined case.
+*For example:* A client notices trembling in a session and tells the therapist. They slow down and check how the client feels, instead of treating the shaking as proof that anything has been released.
 
 ## Sources
 

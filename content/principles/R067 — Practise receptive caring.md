@@ -20,14 +20,14 @@ For the psychology parallel, Ickes defined empathic accuracy as the extent to wh
 
 **Plain words** Noddings says caring starts with attention that receives the other person without judging or projecting, and only then moves to action. This is an attitude to practise, and it differs from measured accuracy in reading minds.
 
-*For example:* This is an imagined case. A friend asks "what is it actually like?", listens without advising, and only then offers help that fits.
+*For example:* A friend asks "what is it actually like?", listens without advising, and only then offers help that fits.
 
 ## Sources
 
 - [Noddings (2010), in Abstracta Special Issue V, 6-12](https://abstracta.journals.hhu.de/article/download/262/279/1056)
 - [Philopractice, Nel Noddings (1929-2022), with extracts from Caring](https://www.philopractice.org/noddings)
 - [Ghent University thesis quoting Ickes (1993, p. 588)](https://backoffice.biblio.ugent.be/download/8659808/8659809)
-- Noddings (1984), Caring, ch. 3; Noddings (2002), Starting at Home; Ickes (1993): cited on the page, not read in full.
+- Noddings (1984), Caring, ch. 3; Noddings (2002), Starting at Home; Ickes (1993): cited at second hand.
 
 ## Psychology parallels
 

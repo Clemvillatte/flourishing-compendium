@@ -21,7 +21,7 @@ Stable context helps new habits form, but slowly. In a study of 96 volunteers wh
 
 **Plain words** Habits attach to places, times and people, so the setting does a lot of the work. Put the cue for the habit you want where you will meet it. When your setting changes, as in a move or a new job, old habits loosen and new ones can start.
 
-*For example:* This is an imagined case. After moving flats, a man leaves his running shoes by the door and his book on the pillow. For the first weeks he follows a plan, and the shoes and the book become the cue.
+*For example:* After moving flats, a man leaves his running shoes by the door and his book on the pillow. For the first weeks he follows a plan, and the shoes and the book become the cue.
 
 ## Sources
 

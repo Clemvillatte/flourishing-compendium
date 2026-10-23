@@ -19,7 +19,7 @@ In psychology, systematic problem-solving training has an evidence base. A meta-
 **Plain words**
 The twins beat stronger opponents by preparing, hiding their plans and using cleverness at each trial. The myth does not say the plan is easy, and they do pay a price. Problem-solving therapy, which teaches people to define a problem, list options and test them, performs about as well as other therapies in a 2009 review, though a later review says the evidence is thin. When you are outmatched, write down the problem and three possible moves before choosing one.
 
-*For example:* A small shop that cannot match a chain's prices finds a service the chain cannot offer and tests it for a month. This is an imagined case, and success is not guaranteed.
+*For example:* A small shop that cannot match a chain's prices finds a service the chain cannot offer and tests it for a month. success is not guaranteed.
 
 ## Sources
 

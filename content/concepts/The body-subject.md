@@ -23,7 +23,7 @@ The entry quotes the simile "One's own body is in the world just as the heart is
 
 ### Scope
 
-The quotations come from one encyclopedia entry. The Phenomenology of Perception itself was not read, and the entry's quoted passages do not show the hyphenated term "body-subject" in the sections consulted. The page therefore describes the idea under the entry's own vocabulary. Whether practices built on it improve wellbeing is a separate empirical question that this source does not address.
+The quotations come from one encyclopedia entry. The Phenomenology of Perception itself is cited at second hand, and the entry's quoted passages do not show the hyphenated term "body-subject" in the sections consulted. The page therefore describes the idea under the entry's own vocabulary. Whether practices built on it improve wellbeing is a separate empirical question that this source does not address.
 
 ### In the compendium
 

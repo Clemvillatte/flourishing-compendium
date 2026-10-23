@@ -23,7 +23,7 @@ Critics argue the benefits are overstated. Ordóñez and colleagues list side ef
 
 **Plain words** A clear target with some stretch usually gets more effort than "do your best". Use it with care, since the target can narrow your attention and crowd out other things you value.
 
-*For example:* This is an imagined case. A writer replaces "write more" with "300 words before breakfast, five days a week". After a month she checks whether the rule is still serving the essay, or only the count.
+*For example:* A writer replaces "write more" with "300 words before breakfast, five days a week". After a month she checks whether the rule is still serving the essay, or only the count.
 
 ## Sources
 

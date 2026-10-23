@@ -20,7 +20,7 @@ The psychology parallel is loose. Clark and Mills (1993) describe communal relat
 
 **Plain words** You need the practical, instrumental way of dealing with the world. It lets you run tests, fix machines and manage a schedule. Trouble starts only when it is the only way you relate. Buber held that both are necessary and neither is enough alone.
 
-*For example:* This is an imagined case. A clinician follows every protocol, which is I-It at work, and then for half a minute asks how the patient is coping and listens to the answer.
+*For example:* A clinician follows every protocol, which is I-It at work, and then for half a minute asks how the patient is coping and listens to the answer.
 
 ## Sources
 
@@ -28,7 +28,7 @@ The psychology parallel is loose. Clark and Mills (1993) describe communal relat
 - [Direction Journal, In the Beginning Is Relation](https://directionjournal.org/49/1/in-beginning-is-relation-reconceiving.html)
 - [Tolerance, Empathy, or Inclusion? Insights from Buber](https://www.academia.edu/89005363/Tolerance_Empathy_or_Inclusion_Insights_from_Martin_Buber)
 - [Clark and Mills 1993 abstract](https://journals.sagepub.com/doi/10.1177/0146167293196003); [WFRN glossary](https://wfrn.org/glossary/communal-relationships/)
-- Buber (1923/1970, 1965), Horkheimer and Adorno: cited on the page, not read directly.
+- Buber (1923/1970, 1965), Horkheimer and Adorno: cited at second hand.
 
 ## Psychology parallels
 

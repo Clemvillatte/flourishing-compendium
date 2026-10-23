@@ -21,7 +21,7 @@ A second line of work concerns self-compassion. Across four samples, trait procr
 
 **Plain words** After putting something off, a kind response to yourself is associated with less stress and with less delay next time. Harshness is not shown to help. Begin again, kindly and small.
 
-*For example:* This is an imagined case. A student loses a morning to scrolling. She tells herself this is common, picks the smallest next step and starts it at two o'clock.
+*For example:* A student loses a morning to scrolling. She tells herself this is common, picks the smallest next step and starts it at two o'clock.
 
 ## Sources
 

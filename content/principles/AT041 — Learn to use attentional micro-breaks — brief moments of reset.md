@@ -19,7 +19,7 @@ The attention claim is weaker than the title suggests. Ariga and Lleras reported
 **Plain words**
 A pause of up to ten minutes tends to leave you slightly more energetic and slightly less tired. Whether it also makes the work itself better is unclear, and the attention-reset result did not hold up in a larger study. Take the break for how you feel, and for a hard, draining task expect to need more than a few seconds.
 
-*For example:* After fifty minutes of drafting, stand up, look out of a window for two minutes and drink some water before you sit back down. This is an imagined routine within the up-to-ten-minute range the meta-analysis covers, and the evidence supports a modest lift in energy rather than a sharper mind.
+*For example:* After fifty minutes of drafting, stand up, look out of a window for two minutes and drink some water before you sit back down. It sits within the up-to-ten-minute range the meta-analysis covers, and the evidence supports a modest lift in energy rather than a sharper mind.
 
 ## Sources
 

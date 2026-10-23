@@ -19,7 +19,7 @@ For the room itself, the review by Okamoto-Mizuno and Mizuno reports that "in re
 **Plain words**
 Your body needs to cool down to fall asleep, and a warm shower or bath 1 to 2 hours before bed helped people fall asleep sooner in the studies reviewed, even for a short 10-minute soak. A hot bedroom works against you and a cooler one with good bedding does not. The research on timing is still thin, so treat these as things to try.
 
-*For example:* Tonight you take a ten-minute warm shower about an hour and a half before bed, and keep the bedroom cooler than the rest of the house. This is an imagined routine within the 1 to 2 hour window the meta-analysis covers, and how well it works for you is for you to notice.
+*For example:* Tonight you take a ten-minute warm shower about an hour and a half before bed, and keep the bedroom cooler than the rest of the house. It sits within the 1 to 2 hour window the meta-analysis covers, and how well it works for you is for you to notice.
 
 ## Sources
 

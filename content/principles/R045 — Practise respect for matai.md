@@ -24,7 +24,7 @@ Hofstede (2001) offers a parallel for the psychology bullet, though a loose one.
 
 **Plain words** In Samoa a matai leads an extended family and answers for its welfare, and gets authority by serving. Respecting such people means recognising the weight they carry. The same system gives them real power over family land.
 
-*For example:* This is an imagined case. The newest member of a committee speaks last and listens first to the people who carry the longest responsibility, and learns how the group actually decides.
+*For example:* The newest member of a committee speaks last and listens first to the people who carry the longest responsibility, and learns how the group actually decides.
 
 ## Sources
 
@@ -34,7 +34,7 @@ Hofstede (2001) offers a parallel for the psychology bullet, though a loose one.
 - [Transnational Sāmoan Chiefs: Views of the Fa'amatai](https://www.researchbank.ac.nz/server/api/core/bitstreams/593cbdf1-4488-41b8-a2a7-e6a33f7cc92f/content)
 - [Samoa Law Reform Commission, Pule a le Matai Sa'o (discussion paper)](https://www.samoalawreform.gov.ws/wp-content/uploads/2023/10/Discussion-Paper-Eng-4.pdf)
 - [Toward the three-level power distance concept (quoting Hofstede 2001, p. 98)](https://ruj.uj.edu.pl/server/api/core/bitstreams/f9a77453-1a75-4437-a145-78749e030a83/content)
-- Tuhiwai Smith (1999), Decolonizing Methodologies: cited on the page, not read.
+- Tuhiwai Smith (1999), Decolonizing Methodologies: cited at second hand.
 
 ## Psychology parallels
 

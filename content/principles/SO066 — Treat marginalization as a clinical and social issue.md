@@ -20,7 +20,7 @@ Paradies and colleagues pooled 293 studies, mostly from the United States. Repor
 
 ### What follows for practice
 
-Meyer's framework treats the stress as coming from the social environment, which is why the response can be both clinical and structural. The sources do not test whether policy changes improve individual outcomes. Berry 1997 on marginalisation as an acculturation strategy for this page, or Crocker et al is cited at second hand.
+Meyer's framework treats the stress as coming from the social environment, which is why the response can be both clinical and structural. The sources do not test whether policy changes improve individual outcomes. Berry 1997 on marginalisation as an acculturation strategy and Crocker et al. are cited at second hand.
 
 **Plain words**
 Exclusion and prejudice are linked with worse health. Treating a person's distress is worthwhile, and so is asking what in their surroundings keeps producing it.

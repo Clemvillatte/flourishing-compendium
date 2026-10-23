@@ -19,7 +19,7 @@ Modern evidence for that application is about planning, and its benefit shows up
 **Plain words**
 Nahua poets faced death plainly: we are mortal, and we will be erased like a painting. The sources say nothing about practical preparation, so that part is a modern addition. A large Australian trial found that when older patients made advance care plans, their wishes were far more likely to be followed and their relatives were less distressed afterwards. Writing down your wishes, and the details your family will need, is a practical step that carries evidence of benefit.
 
-*For example:* A grandfather uses his last good year to record passwords, stories and a map of where things are kept, so that the family's grief is not doubled by confusion. This is an imagined case.
+*For example:* A grandfather uses his last good year to record passwords, stories and a map of where things are kept, so that the family's grief is not doubled by confusion.
 
 ## Sources
 

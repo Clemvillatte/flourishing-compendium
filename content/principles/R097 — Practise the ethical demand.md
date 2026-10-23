@@ -20,7 +20,7 @@ For psychology, Batson (2011) lists four forms of prosocial motivation: self-ben
 
 **Plain words** Løgstrup says that, simply by dealing with another person, you hold part of their life in your hands. The demand to care for that part comes without conditions, and it does not hand you a rule. You must judge what really serves the other. He called it unfulfillable.
 
-*For example:* This is an imagined case. A driver stops for a stranger in a ditch. She cannot assume what help is wanted, so she asks and works out what would serve them.
+*For example:* A driver stops for a stranger in a ditch. She cannot assume what help is wanted, so she asks and works out what would serve them.
 
 ## Sources
 
@@ -29,7 +29,7 @@ For psychology, Batson (2011) lists four forms of prosocial motivation: self-ben
 - [The Ethical Demand, JSTOR book description](https://www.jstor.org/stable/j.ctvpj7dd8)
 - [A Gift or a Given? Løgstrup's ethics, White Rose](https://eprints.whiterose.ac.uk/id/eprint/122851/3/Logstrup%20Manchester%20paper%20v2%20.pdf)
 - [Altruistic consumption behaviors and motivations, PMC (quotes Batson 2011)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9426642/)
-- Levinas (1961), Løgstrup (1997): cited on the page, not read directly.
+- Levinas (1961), Løgstrup (1997): cited at second hand.
 
 ## Psychology parallels
 

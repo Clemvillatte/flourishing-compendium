@@ -20,7 +20,7 @@ The psychology parallel, "fixed anti-belief functions as belief", and its link t
 
 **Plain words** In Sextus's account, "I determine nothing" reports a state of mind and is not a claim about reality. The slogans cancel themselves, like a purgative that leaves with what it clears. So if you become certain that certainty is bad, you have moved from the method into a doctrine.
 
-*For example:* This is an imagined case. A former believer becomes the loudest atheist in the room, then notices the pattern and relaxes.
+*For example:* A former believer becomes the loudest atheist in the room, then notices the pattern and relaxes.
 
 ## Sources
 
@@ -28,7 +28,7 @@ The psychology parallel, "fixed anti-belief functions as belief", and its link t
 - [Stanford Encyclopedia, Sextus Empiricus](https://plato.stanford.edu/entries/sextus-empiricus/)
 - [Encyclopedia.com, Sextus Empiricus](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/sextus-empiricus-third-century-ce)
 - [Oxford Academic, A Life without Beliefs?](https://academic.oup.com/book/26354/chapter/194665319)
-- Wittgenstein, MN 22, cognitive-fusion literature: cited on the page, not read.
+- Wittgenstein, MN 22, cognitive-fusion literature: cited at second hand.
 
 ## Psychology parallels
 
