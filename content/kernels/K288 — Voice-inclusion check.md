@@ -26,6 +26,8 @@ The experimental base is quoted above: 179 participants in the voice study (Lind
 ## Related concepts
 
 - [[Procedural justice]] — voice is the component Tyler's research isolates
+- [[The ethics of care]] — hearing the affected is care given a procedure
+- [[Phronesis]] — the check asks judgment when to open the floor and when to decide
 
 ## Related kernels
 
