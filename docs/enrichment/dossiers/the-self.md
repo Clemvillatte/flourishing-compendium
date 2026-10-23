@@ -1,18 +1,18 @@
 # The Self
 
 The question this dossier serves: what am I, if not the story I keep telling
-about myself? The mission behind it is the practical one that runs through the
+about myself? The editorial aim behind it is the one that runs through the
 whole compendium: to loosen the grip of the self-as-object, the self known,
-judged and defended, because that grip is where much avoidable suffering
-lives.
+judged and defended, and to let the opened sources carry the claims.
 
 Two essay angles the material supports. First, the two great examinations of
-experience, the Buddhist aggregate analysis and Advaita Vedānta's, both take
+experience, SN 22.59's aggregate analysis and Advaita Vedānta's, both take
 up identity and suffering together, and where they part is what the
-examination finds. Second, a small lever with measured effects: the pronoun
-people think in. Across three experiments with 693 participants, people
-reasoned more wisely about another person's problems than about their own,
-and instruction to self-distance eliminated the asymmetry
+examination finds. Second, a question the research makes testable: can
+changing the perspective from which we consider our problems change our
+reasoning? Across three experiments with 693 participants, people reasoned
+more wisely about another person's problems than about their own, and
+instruction to self-distance eliminated the asymmetry
 ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf)).
 
 Evidence notes in this dossier describe the quoted passages only. A checked
@@ -59,15 +59,16 @@ without being any of them:
 > which all elements exist, different from thoughts, sensations, or images."
 > ([Deikman 1982](https://www.deikman.com/observing.html))
 
-> "We cannot observe the observing self; we must experience it directly. It
-> has no defining qualities, no boundaries, no dimensions." (Deikman 1982)
+> "In contrast, we cannot observe the observing self; we must experience it
+> directly. It has no defining qualities, no boundaries, no dimensions."
+> (Deikman 1982)
 
 Primary text; quoted passages checked. Practice principle:
 [SE002 — Recognise the observing self](https://clemvillatte.github.io/flourishing-compendium/#card=SE002%20%E2%80%94%20Recognise%20the%20observing%20self%20%E2%80%94%20you%20are%20not%20only%20the%20contents%20of%20awareness).
 
 ### What changes when I observe a thought?
 
-[Distanced self-talk](https://clemvillatte.github.io/flourishing-compendium/#card=Distanced%20self-talk%20(Kross))
+[Self-distancing](https://clemvillatte.github.io/flourishing-compendium/#card=Self-distancing)
 is the research programme that measured what the observing position does. The
 authors' own image:
 
@@ -146,10 +147,10 @@ fourth, so a disagreement about "the self" is never about one thing.
 ### Is there a permanent self?
 
 The shared question, stated narrowly: what can rightly be regarded as self?
-The Anattalakkhaṇa Sutta answers by examination. Each aggregate, past or
+SN 22.59's aggregate analysis answers by examination. Each aggregate, past or
 future, internal or external, is tested for ownership, and the test fails:
 "This is not mine. This is not my self. This is not what I am" (SN 22.59,
-quoted passage checked). The examination locates no owner in the body or the
+quoted passage checked). That analysis locates no owner in the body or the
 mind. Advaita Vedānta, in Dalal's account, runs an examination of its own and
 takes it to end elsewhere: in consciousness that is not an object. "Advaitins
 understand brahman as transcending individuality and empirical plurality.
@@ -160,13 +161,13 @@ superimposition: "We mutually superimpose consciousness on to our mind-body,
 and the mind-body on to consciousness (i.e., I am the mind-body, and the
 mind-body is I)" (SEP, cited passage checked).
 
-The two accounts even share a diagnosis of suffering, in Dalal's phrasing of
-the Advaita side: Śaṅkara identifies avidyā as "the root cause of all
-existential suffering", producing "a baseline of fear and anxiety due to
-assuming one's self as a limited being subject to sorrow, sickness, and death"
-(SEP, cited passage checked).
+On the Advaita side, Dalal's entry describes what the error costs: Śaṅkara
+identifies avidyā as "the root cause of all existential suffering",
+producing "a baseline of fear and anxiety due to assuming one's self as a
+limited being subject to sorrow, sickness, and death" (SEP, cited passage
+checked).
 
-The precise difference is what the examination is taken to find. The sutta's
+The precise difference is what the examination is taken to find. SN 22.59's
 analysis works through the contents of experience one by one and grants none
 of them the status of owner. Advaita holds that consciousness itself, the
 field in which all contents appear, is the one referent that is not a content.
@@ -184,10 +185,11 @@ own internal repertoire of thoughts, feelings and action, against the self
 organized by what the actor perceives to be the thoughts, feelings and
 actions of others in the relationship (1991, quoted passages checked).
 
-The compendium holds both as emphases a person moves between rather than
-types of person, and the concept page carries the debate the theory set off
-over whether whole cultures fit either pole. The relational pole is carried
-by [Ubuntu](https://clemvillatte.github.io/flourishing-compendium/#card=Ubuntu)
+For comparison here, the two descriptions are treated as lenses, without
+assigning whole people or cultures to either. The concept page carries the
+debate the theory set off over whether whole cultures fit either pole. The
+relational pole is carried by
+[Ubuntu](https://clemvillatte.github.io/flourishing-compendium/#card=Ubuntu)
 and
 [The relational self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20relational%20self);
 the delicate work of holding both is
@@ -222,8 +224,8 @@ not. The research behind the move is quoted in the opening: self-distancing
 eliminated the own-versus-other asymmetry in wise reasoning across three
 experiments, N = 693 (Grossmann and Kross 2014, quoted passages checked), and
 spontaneous self-distancers report less distress and rumination (Kross and
-Ayduk 2011, quoted passage checked). The measured outcome was coded
-reasoning about relationship problems, and the studies concern chosen
+Ayduk 2011, quoted passage checked). The experiments measured reasoning
+on relationship problems, not life decisions, and they concern chosen
 reflection tasks, so the practice is a tool for a chosen question.
 
 3. [K139 — Self-as-context](https://clemvillatte.github.io/flourishing-compendium/#card=K139%20%E2%80%94%20Self-as-context),
@@ -237,9 +239,9 @@ implemented as a stand-alone process to manage emotional well-being"
 quoted passage checked).
 
 4. [K144 — The chariot analysis](https://clemvillatte.github.io/flourishing-compendium/#card=K144%20%E2%80%94%20The%20chariot%20analysis),
-for when a self-image starts speaking as the whole self. The kernel's
-protocol is an adaptation of the Milindapañha dialogue, which asks, part by
-part, whether the "I" is this feeling, this memory, this role, and then
+for when a self-image starts speaking as the whole self. In the kernel's
+everyday adaptation, a self-image is examined through feelings, memories and
+roles. Its source dialogue examines the chariot through its parts, and
 closes with the dialogue's own questions: "Then is it all these parts of it
 that are the chariot?" "No, Sir." "But is there anything outside them that
 is the chariot?" And still he answered no. (Mil 3.1.1, trans. Rhys Davids,
