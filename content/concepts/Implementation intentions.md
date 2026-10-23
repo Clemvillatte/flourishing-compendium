@@ -7,15 +7,38 @@ file: "Implementation intentions"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-I"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
-Implementation intentions are if-then plans — advance decisions that link a critical situation to a goal-directed response: "if situation X arises, I will respond with Y" ([Springer, "Implementation Intentions"](https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710)). The construct belongs to Peter Gollwitzer, whose research programme has studied it for nearly three decades: goal intentions ("I will exercise more") famously fail at high rates, and the if-then form is the best-documented repair — meta-analytic reviews across dozens of studies find medium-to-large effects on goal attainment, because the plan delegates initiation to the *situation* rather than to willpower ([Gollwitzer, if-then planning review](https://www.tandfonline.com/doi/pdf/10.1080/10463283.2020.1808936)).
+Implementation intentions are if-then plans, advance decisions that link a critical situation to a goal-directed response: "if situation X arises, I will respond with Y". The construct belongs to Peter Gollwitzer. His review states the form and the requirement:
 
-The mechanism: specifying the critical cue makes it salient and the response automatic — the plan runs like a habit without yet being one, which is why the compendium treats it as the bridge across [[Akrasia]] ([[A057 — Know that akrasia is not invincible]]) and the front-end of [[Behavioral activation]] and [[WOOP (Wish, Outcome, Obstacle, Plan)|WOOP]]. The Daoist and Stoic parallels are cue-based practice: use ordinary events as bells ([[B188 — Use ordinary cues as bells]]), begin the morning with premeditation and structure ([[S119 — Begin the morning with premeditation]]; [[S134 — Build a daily structure]]; [[D187 — Master the art of beginning well]]).
+> "there are implementation intentions which specify when, where, and how one wants to perform goal-directed responses... they need to be linked to critical situational cues that specify either an opportunity to be seized or an obstacle that needs to be overcome. Research has shown that such 'linking' works best when done in an if-then format – for instance, 'and if I am on the search for a snack, then I will eat an apple first'." ([Gollwitzer 2020, "If-then planning"](https://www.tandfonline.com/doi/pdf/10.1080/10463283.2020.1808936))
 
-The distinction to hold: an implementation intention is not a goal and not a reminder. It names a *specific* cue (time, place, event) and a *specific* first action — "if it's 7 a.m. Monday, I put on running shoes" — vagueness is the mode's failure ([[P162 — Take committed action — behavior is where values become real]]).
+Goal intentions ("I will exercise more") famously fail at high rates, and the if-then form is the best-documented repair. The meta-analytic verdict:
 
-An example at its smallest: every gym visit this week triggered by one pre-decided cue — the coffee cup rinsed — with no decision left for the moment of weakness.
+> "The observed effects are typically of medium-to-large size, suggesting that implementation intentions make a noticeable difference." ([Gollwitzer 2020, "If-then planning"](https://www.tandfonline.com/doi/pdf/10.1080/10463283.2020.1808936))
 
-Its Buddhist ancestor is [[Right effort]] — effort decided in advance of the moment of weakness.
+The same review's table lists the 2006 Gollwitzer and Sheeran meta-analysis of 94 independent tests at d+ = 0.65 on goal attainment ([same review, Table 1](https://www.tandfonline.com/doi/pdf/10.1080/10463283.2020.1808936)), because the plan delegates initiation to the situation rather than to willpower.
+
+### The mechanism
+
+Specifying the critical cue makes it salient and the response automatic: the plan runs like a habit without yet being one, which is why the compendium treats it as the bridge across [[Akrasia]] and the front-end of [[Behavioral activation]] and [[WOOP (Wish, Outcome, Obstacle, Plan)|WOOP]]. The Daoist and Stoic parallels are cue-based practice: use ordinary events as bells, begin the morning with premeditation and structure.
+
+### The distinction to hold
+
+An implementation intention is not a goal and not a reminder. It names a specific cue (time, place, event) and a specific first action ("if it's 7 a.m. Monday, I put on running shoes"); vagueness is the mode's failure.
+
+### In everyday life
+
+Every gym visit this week triggered by one pre-decided cue, the coffee cup rinsed, with no decision left for the moment of weakness. (Illustrative scenario, not a reported participant or study result.)
+
+Its Buddhist ancestor is [[Right effort]], effort decided in advance of the moment of weakness.
+
+### In the compendium
+
+- [[A057 — Know that akrasia is not invincible]] — the akrasia bridge
+- [[B188 — Use ordinary cues as bells]] — the cue-based cousin
+- [[S119 — Begin the morning with premeditation]] and [[S134 — Build a daily structure]] — the Stoic morning form
+- [[D187 — Master the art of beginning well]] — beginning
+- [[P162 — Take committed action — behavior is where values become real]] — committed action
+
 ## Other formulations in this library
 
 - specific if-then plans for early obstacles dramatically increase follow-through (Gollwitzer, 1999)
@@ -29,18 +52,15 @@ Its Buddhist ancestor is [[Right effort]] — effort decided in advance of the m
 
 ## Related concepts
 
-
-
-
 - [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that planning exploits
-- [[Morning intention]] — the concept page lists this topic among its Related entries; this link returns it
+- [[Morning intention]] — the day's first if-then, set the night before
 - [[Right intention]] — listed for comparison
 - [[PP069]] — progress reporting as a companion to planning when to act
+
 ## Sources
 
-- Gollwitzer, 1999
-- Gollwitzer & Sheeran, 2006
-- Lally et al., 2010
+- [Gollwitzer 2020, "If-then planning" (Taylor & Francis)](https://www.tandfonline.com/doi/pdf/10.1080/10463283.2020.1808936) — the definition passage, the medium-to-large effects summary, and Table 1's Gollwitzer and Sheeran (2006) d+ = 0.65, all quoted above
+- Gollwitzer, 1999; Gollwitzer & Sheeran, 2006; Lally et al., 2010 — the primary literature
 
 ## Cited in parallels
 
