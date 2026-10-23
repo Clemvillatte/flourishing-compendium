@@ -465,3 +465,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Sample context (working women) stated on page; process-vs-box distinction stated as the practice's own instrument, not a study finding.
 - Mention check run: K141 already linked from D087/P016/P059 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K151 — Eulogy exercise (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Cozzolino, Staples, Meyers & Samboceti 2004 (PSPB 30(3):278-292), three experiments contrasting death reflection with mortality salience, abstract verified raw via NCBI efetch (PMID 15030620).
+- The blockquote (Study 3 results sentence) matches the raw efetch text verbatim.
+- Honesty on page: guided manipulations, games and choices, no eulogy written; specific-vs-bare contemplation distinction stated as the supported premise.
+- Mention check run: K151 already linked from D001/D090/B055/P080/P164 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
