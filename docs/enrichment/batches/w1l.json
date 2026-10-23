@@ -38,7 +38,6 @@
   "Legacy motivation research",
   "Leisure",
   "Experiential avoidance research",
-  "Experiential avoidance theory",
   "Judging by where one rests",
   "Life affirmation",
   "Limits of introspection",
@@ -70,7 +69,8 @@
   "Creative values",
   "Moral disengagement research",
   "Reciprocity",
-  "Meta-awareness"
+  "Meta-awareness",
+  "Experiential avoidance theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -89,7 +89,7 @@
   "Life affirmation": "Merrick quote re-verification deepened: the paper's indexed full text (philarchive PDF via search index) shows the opening sentence and the 'without' continuation of the Yes-sayer passage; direct PDF fetch remains Cloudflare-blocked; residual risk on the exact tail of the 'without reservation...' fragment",
   "Katastematic pleasure": "Milestone QC: CONFIRMED closed (advisor round 2: mechanical corrections applied - inline citations added, translator-credit wording fixed; SEP catastematic/kinetic grounding verbatim). Item remains in done.",
   "Legacy motivation research": "Milestone QC: CONFIRMED closed (advisor round 2: final paragraph deleted, Cambridge citations added, consulted-not-opened wording). Item remains in done.",
-  "Experiential avoidance theory": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
+  "Experiential avoidance theory": "Reopened for QC: prose 127<150 at canonical degree 28 (normal profile); carrier-grounded top-up: Hayes 1996 definition now quoted verbatim from the opened Frontiers carrier (p. 1154) plus the bad-problems/bad-solutions line (p. 1162) and the activation contrast",
   "Limits of introspection": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
   "Memory reconsolidation": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
   "Moral disengagement research": "Reopened for QC: maintenance routed: prose 63<150 on origin; carrier-grounded top-up with opened Bandura 1999 material",
@@ -109,7 +109,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-23T14:19:14+00:00",
+ "updated": "2026-10-23T14:19:38+00:00",
  "band_done": false,
  "new_concepts": [
   {

@@ -13,7 +13,11 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 
 Affect · Psychological science
 
-The paper discusses experiential avoidance as a proposed process in emotional distress. Its cited Hayes et al. (1996) definition includes unwillingness to remain in contact with private experiences and attempts to alter those experiences or the contexts that occasion them. The paper takes a contextual transdiagnostic approach, examining the process alongside behavioral activation in emotional distress.
+The paper discusses experiential avoidance as a proposed process in emotional distress, quoting the founding definition:
+
+> "phenomenon that occurs when a person is unwilling to remain in contact with particular private experiences (e.g., bodily sensations, emotions, thoughts, memories, behavioral predispositions) and takes steps to alter the form or frequency of these events and the contexts that occasion them" (Hayes et al., 1996, p. 1154, as quoted in [Fernández-Rodríguez et al. 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/))
+
+The paper takes a contextual transdiagnostic approach, examining the process alongside behavioral activation in emotional distress. The founders of the construct put the practical point in one line, quoted by the paper: "many forms of psychopathology are not merely bad problems, they are also bad solutions" (Hayes et al., 1996, p. 1162). The paper's contrast term is activation: maintaining contact with the experiences and conditions of life, and so with their associated sources of reward.
 
 > "Although the avoidance of unwanted inner experiences may alleviate distress in the short-term, it paradoxically exacerbates distress over longer periods of time." (Fernández-Rodríguez et al. 2018, [Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/), summarizing earlier findings)
 
