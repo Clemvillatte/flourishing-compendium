@@ -44,7 +44,6 @@
   "Survivorship bias",
   "System 1 and System 2",
   "Taxonomy of mental motions",
-  "The Axial Age",
   "The Seven Levels of the nafs",
   "TRACE model of speech perception",
   "The aesthetic",
@@ -67,7 +66,8 @@
   "Sorrow's fruit",
   "Stillness under turbulence",
   "Temperament-environment fit",
-  "Temporality (Zeitlichkeit)"
+  "Temporality (Zeitlichkeit)",
+  "The Axial Age"
  ],
  "in_progress": null,
  "flagged": {
@@ -113,10 +113,11 @@
   "Sorrow's fruit": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
   "Stillness under turbulence": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
   "Temperament-environment fit": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
-  "Temporality (Zeitlichkeit)": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar"
+  "Temporality (Zeitlichkeit)": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
+  "The Axial Age": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:23:35+00:00",
+ "updated": "2026-10-23T06:24:06+00:00",
  "band_done": false
 }
