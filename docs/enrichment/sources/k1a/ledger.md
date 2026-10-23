@@ -727,3 +727,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: perspective instruction during reflection, not third-party narrative writing; no claims about actual conflict resolution or compromise outcomes.
 - Mention check run (before this entry): K339 already linked from A023/A037/S021/R005/R055 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K107 — Soft fascination (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Berman, Jonides & Kaplan 2008 (Psychol Sci 19(12):1207-1212), two experiments on nature versus urban walks and pictures, abstract verified raw via NCBI efetch (PMID 19121124); authors read from the efetch header.
+- The blockquote (bottom-up fascination mechanism sentence) matches the raw efetch text verbatim.
+- Honesty on page: the 20-to-30-minute dosage left as the kernel's prescription, not tested in the abstract; mechanism sentence is the authors' own, quoted rather than paraphrased.
+- Mention check run (before this entry): K107 already linked from D040/D049/B170/P115/P141 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). "Session" appears only as ordinary usage for the walk itself.
