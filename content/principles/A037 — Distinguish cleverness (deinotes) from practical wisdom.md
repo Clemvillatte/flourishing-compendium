@@ -38,6 +38,7 @@ Imagine a marketer asked to make a misleading campaign more persuasive. They may
 - [[Phronesis]]: practical wisdom in the account above.
 - [[Virtue ethics]]: the broader ethical approach.
 - [[The unity of the virtues]]: the relation between practical wisdom and character.
+- [[T011 — Socrates]]: the oracle's wise fool, cleverness examined until it knows better (ST152, ST203)
 
 ## Stories
 
