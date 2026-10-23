@@ -15,7 +15,7 @@ The chain of virtue is Aristotle's account of how good character gets built: act
 
 ### What the chain is
 
-The passage gives the compendium its sequence: act, habit, character. There is no step where virtue arrives directly; it comes by doing the acts first, in the relations one is actually thrown into. The compendium's principle BE024 names the modern practice of chaining, linking behaviours into sequences, and Aristotle supplies the oldest version of the idea: each act is a link, and the links add up.
+The passage gives the compendium its sequence: act, habit, character. There is no step where virtue arrives directly; it comes by doing the acts first, in the relations one is actually thrown into. The same passage extends the chain to self-mastery and mildness, through the occasions of lust and anger, and to politics: law-givers make the individual members good men by habituation, and this is the intention of every law-giver, in which Aristotle locates the difference between a good constitution and a bad. The compendium's principle BE024 names the modern practice of chaining, linking behaviours into sequences, and Aristotle supplies the oldest version of the idea: each act is a link, and the links add up.
 
 ## Sources
 
