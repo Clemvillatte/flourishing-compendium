@@ -195,3 +195,15 @@ Independent advisor freshly opened Huainanzi, Legge and Roth and returned scoped
 - Independently searched and opened Plato's full Laws in David Horan's translation: https://www.platonicfoundation.org/translation/laws/. Located 753e–754a, including the actual saying and the Athenian's stronger judgement. Replaced the inherited unsourced-in-this-pass quotation with exact wording from this opened edition and cited it directly; identified it as a saying cited by the Athenian.
 - Read Fresh start effect (Dai et al.) and Implementation intentions in full; both already backlink D187. Ran beginning-well mention search. No new reciprocal needed.
 - All original wiki links and reflections preserved. Psychology parallels otherwise unchanged and not independently certified. Milestone-twenty advisor QC requested on D175, D176, D179, D186 and D187.
+
+## Milestone twenty advisor QC
+
+Independent advisor freshly opened Legge, Roth and Horan and returned scoped PASS on D175, D176, D179, D186 and D187. Source claims, exact fragments/quotations, ethical redirection, interpretation boundaries, genuine Plain words and varied/selected/retained examples checked. No blocker-level repetitive or unnatural wording. D179's inherited chapter-20 locator was not independently re-examined by this advisor; this worker opened chapter 20 during D109 and D179 preparation. Retained parallels and reflections remain outside that advisor's scope except the newly verified Horan quotation.
+
+## Cross-item verification pass
+
+- Compared all 20 revised pages with published pre-repair baseline 370b1c73: front matter, original principle statement, complete fc: reflections block and every pre-existing outgoing wiki target are unchanged.
+- The sole new wiki target is Simplicity as practice on D164; target file exists and the reciprocal proposal is pending supervisor integration.
+- Mechanically compared all 20 main quotations to the actually opened primary text carriers, plus D187's Horan saying. All pass. Roth's printed verse line numbers were treated as editorial metadata, not as words of the quotation; this resolved the initial contiguous-match flag on D145 without changing its already correct quote.
+- Custom prose check found 124–180 words per revised body, excluding blockquotes/headings; repository validation independently reported 20 checked, 0 failed. Missing/sparse Related concepts sections produce non-blocking warnings; no decorative links were invented to silence them.
+- scripts/build.py completed successfully: 5856 entries. Generated output did not modify tracked source files. This is a build result, not a claim that all inherited global links or unrelated concurrent changes are certified.
