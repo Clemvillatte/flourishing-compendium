@@ -17,7 +17,7 @@ Merleau-Ponty trained in the Parisian lycées and the École Normale Supérieure
 
 ## Their why
 
-Merleau-Ponty's complaint was that philosophy had forced a choice between the body as a machine and the mind as a pure spectator. His alternative began from the fact that we perceive before we theorize: sensing is "a living communication with the world that makes it present to us as the familiar place of our life" ([SEP, Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)). His first essay on painting, on Cézanne, already carried the point: art struggling to capture the birth of perception in the visible ([SEP, Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)).
+Merleau-Ponty's complaint was that philosophy had forced a choice between the body as a machine and the mind as a pure spectator. His alternative began from the fact that we perceive before we theorize: sensing is a "living communication with the world that makes it present to us as the familiar place of our life" ([SEP, Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)). His first essay on painting, on Cézanne, already carried the point: art struggling to capture the birth of perception in the visible ([SEP, Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/)).
 
 ## Their position
 

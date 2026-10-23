@@ -15,4 +15,4 @@ Mint validated clean on the first pass.
 - Inventory GATED per the t1e mint rule: the R-series (dialogical/ethical tradition) plus related concepts; 12 principles + 10 concepts + 1 kernel + 2 stories from the 69-entry floor; gate stated on the page.
 - Reciprocal proposals saved to sources/t1e/levinas-reciprocal.txt (69 entries; supervisor applies per standing ruling).
 
-**Second-pass quote verification (pre-taper):** every quoted passage on the page re-checked character-for-character against a reopened carrier (SEP/IEP/Terebess/Wikipedia as cited); no discrepancies found.
+**Second-pass quote verification (pre-taper):** all quoted passages (Do not kill me, responsibility, inwardness) re-verified verbatim against the reopened SEP entry.

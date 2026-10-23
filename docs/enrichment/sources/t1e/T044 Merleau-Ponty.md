@@ -15,4 +15,4 @@ Mint failed once on prose length (485 > 480); one clause cut. Frontmatter file f
 - Inventory GATED per the t1e mint rule: E-series plus embodiment concepts; 12 principles + 12 concepts + 2 stories from the 73-entry floor; gate stated on the page.
 - Reciprocal proposals saved to sources/t1e/merleau-ponty-reciprocal.txt (73 entries; supervisor applies per standing ruling).
 
-**Second-pass quote verification (pre-taper):** every quoted passage on the page re-checked character-for-character against a reopened carrier (SEP/IEP/Terebess/Wikipedia as cited); no discrepancies found.
+**Second-pass quote verification (pre-taper):** all quoted passages re-verified verbatim against the reopened SEP entry; one error found and fixed (an added 'a' inside the living-communication quotation, now outside).
