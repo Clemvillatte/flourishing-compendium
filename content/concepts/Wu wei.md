@@ -23,7 +23,7 @@ The practice is subtractive. Each pass drops something done from habit, ambition
 
 The Zhuangzi shows the lived version. Butcher Ding carves an ox for Lord Wen Hui with such ease that his knife stays sharp for nineteen years. He traces it to training:
 
-> "When I began to carve oxen, I saw nothing but an ox. After three years, I had ceased seeing oxen as whole, ..." (Zhuangzi 3:2, Hansen translation, [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/zhuangzi/))
+> "When I began to carve oxen, I saw nothing but an ox. After three years, I had ceased seeing oxen as whole, ..." (Zhuangzi, Butcher Ding passage, Hansen translation, [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/zhuangzi/))
 
 Chad Hansen, who wrote that entry, observes that such performances "look and feel effortless". The order matters: years of attention first, ease after. Wu wei is what practised skill feels like from inside, not a shortcut around practice.
 
@@ -154,7 +154,7 @@ Wu wei is not passivity. Chapter 48 still has the sage accomplish things, and Di
 
 ## Sources
 - [Laozi, Daodejing, James Legge translation (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — chapters 37 and 48, quoted above
-- [Stanford Encyclopedia of Philosophy, Zhuangzi (Hansen)](https://plato.stanford.edu/entries/zhuangzi/) — Butcher Ding (Zhuangzi 3:2) in Hansen's translation, and the remark that the performances look and feel effortless
+- [Stanford Encyclopedia of Philosophy, Zhuangzi (Hansen)](https://plato.stanford.edu/entries/zhuangzi/) — Butcher Ding passage in Hansen's translation, and the remark that the performances look and feel effortless
 - [Edge.org, The Paradox of Wu-Wei (Slingerland, 2014)](https://www.edge.org/conversation/edward_slingerland-the-paradox-of-wu-wei) — the definition of wu-wei as effortless action or spontaneity, and the paradox of trying not to try
 - [Wikipedia, Wu wei](https://en.wikipedia.org/wiki/Wu_wei) — definition, Daodejing chapter references including the chapter 37 formula in Chan and Lau translations, Confucian uses, and Slingerland's dating of the idea.
 - [Slingerland, Trying Not to Try (2014)](https://www.amazon.ca/Trying-Not-Try-Science-Spontaneity/dp/0770437613) — the book-length argument that the paradox is central to early Chinese thought and resolvable only through cognitive science.
