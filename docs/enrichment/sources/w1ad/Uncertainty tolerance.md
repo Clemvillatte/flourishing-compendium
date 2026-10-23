@@ -11,3 +11,10 @@ finding (change in worry did not mediate change in IU) verified in the Bomyea ab
 added as prose. Repairs: broken lowercase opening fragment rewritten into a real sentence;
 blockquote curly quotes normalized to straight; "opened at PMC" workflow phrasing in two
 Sources lines reworded to "full text at PMC" (customer-facing rule). Validator ok.
+
+MILESTONE ADVISOR QC (round 2, items 5-6): repairs applied to this page — "upstream of
+worry" causal overreading replaced with the direct reverse-path result; study scope added
+(28 individuals with GAD); GAD/CBT defined at first use; opening rewritten to name the
+studied construct (IU) without claiming tolerance/intolerance are interchangeable; model
+attributed to Dugas and colleagues; Dugas 2002 "two papers below" clause replaced with
+named sources; findings prose/quote duplication removed; body subheadings normalized to ###.

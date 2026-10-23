@@ -7,19 +7,19 @@ file: "Uncertainty tolerance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-U"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter U", "parent": ""}
 ---
-Uncertainty tolerance is studied in this literature through its opposite: intolerance of uncertainty (IU), and through what reducing that intolerance does to worry ([Dugas et al., 1998](https://pubmed.ncbi.nlm.nih.gov/9613027/)).
+This research concerns intolerance of uncertainty (IU), a person's tendency to negatively interpret and react to uncertain events, and what reducing that intolerance does to worry ([Dugas et al., 1998](https://pubmed.ncbi.nlm.nih.gov/9613027/)).
 
-## The construct
+### The construct
 
-Intolerance of uncertainty (IU) represents a person's tendency to negatively interpret and react to uncertain events, and is assumed to be a trait-like dispositional characteristic resulting from negative beliefs about uncertainty and its implications ([Vukosavljević Gvozden et al., 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8631188/)).
+The tendency is assumed to be trait-like and dispositional, resulting from negative beliefs about uncertainty and its implications ([Vukosavljević Gvozden et al., 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8631188/)).
 
-## The model
+### The model
 
-A well-known theoretical model of generalized anxiety disorder holds that IU is a core factor in the acquisition and maintenance of worries ([Vukosavljević Gvozden et al., 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8631188/), describing Dugas et al., 1998). The model was designed primarily to account for symptoms of generalized anxiety disorder ([Bomyea et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4480197/)).
+Dugas and colleagues' model of generalized anxiety disorder (GAD) holds that IU is a core factor in the acquisition and maintenance of worries ([Vukosavljević Gvozden et al., 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8631188/), describing Dugas et al., 1998). The model was designed primarily to account for symptoms of GAD ([Bomyea et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4480197/)).
 
-## Findings
+### Findings
 
-In a CBT program for GAD, changes in IU and worry were assessed bi-weekly during treatment, and change in IU mediated change in worry, with reductions in IU accounting for 59% of the reductions in worry observed over the course of treatment ([Bomyea et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4480197/)). The direction mattered: change in worry did not mediate change in IU, the reverse path, which is why the authors read intolerance of uncertainty as upstream of worry.
+In a cognitive behavioral therapy (CBT) program for GAD, 28 individuals were followed with changes in IU and worry assessed bi-weekly during treatment. Change in IU mediated change in worry; the reverse path did not hold, and change in worry did not mediate change in IU ([Bomyea et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4480197/)).
 
 > "Findings indicated that reductions in IU accounted for 59% of the reductions in worry observed over the course of treatment, suggesting that changes in IU are not simply concomitants of changes in worry."
 >
@@ -27,7 +27,7 @@ In a CBT program for GAD, changes in IU and worry were assessed bi-weekly during
 
 ## Sources
 
-- Dugas, M. J., Gagnon, F., Ladouceur, R. and Freeston, M. H. (1998). Generalized anxiety disorder: a preliminary test of a conceptual model. Behaviour Research and Therapy, 36(2), 215-226, [record at PubMed](https://pubmed.ncbi.nlm.nih.gov/9613027/) (cited at second hand; the model is described through the two papers below)
+- Dugas, M. J., Gagnon, F., Ladouceur, R. and Freeston, M. H. (1998). Generalized anxiety disorder: a preliminary test of a conceptual model. Behaviour Research and Therapy, 36(2), 215-226, [record at PubMed](https://pubmed.ncbi.nlm.nih.gov/9613027/) (cited at second hand; the model is described through Vukosavljević Gvozden et al. 2021 and Bomyea et al. 2015)
 - Vukosavljević Gvozden, T., Baucal, A., Krstic, K. and Filipović, S. (2021). Intolerance of Uncertainty and Tendency to Worry as Mediators. Frontiers in Psychology, full text at [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8631188/)
 - Bomyea, J., Ramsawh, H., Ball, T., Taylor, C. T., Paulus, M. P., Lang, A. J. and Stein, M. B. (2015). Intolerance of uncertainty as a mediator of reductions in worry in a cognitive behavioral treatment program for generalized anxiety disorder. Journal of Anxiety Disorders, full text at [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4480197/)
 

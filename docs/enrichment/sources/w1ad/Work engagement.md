@@ -11,3 +11,15 @@ vs distinct-concept view, "inevitably low on burnout" per the chapter); (2) the 
 caution (r = .91 with a single job-satisfaction item; Q12 reads as antecedents in terms of
 perceived job resources). Workflow phrasing removed from Sources ("opened at" -> "full text
 at"; "fetched" clause reworded). Validator ok.
+
+MILESTONE ADVISOR QC (round 2, items 5-6): repairs applied to this page — "positive pole"
+replaced with the source-supported "positive work-related state defined independently of
+burnout"; "contested ground" staging replaced; Gallup claim narrowed and attributed to
+Schaufeli (reports r = .91 between Q12 and a single job-satisfaction item; Q12 assesses
+perceived job resources as antecedents); "brief, valid and reliable" attributed to
+Schaufeli with UWES abbreviation introduced; 237.pdf opened this session and the
+burnout/flow paragraph verified against its text (verbatim support for core dimensions,
+direct positive opposites, absorption-resembles-flow and consequence-of-engagement claims);
+body subheadings normalized to ###. Quote punctuation: the 414.pdf source prints
+typographic quotes; the page renders the nested definition with straight quotes (wiki
+convention), words unchanged — recorded here rather than on the page.
