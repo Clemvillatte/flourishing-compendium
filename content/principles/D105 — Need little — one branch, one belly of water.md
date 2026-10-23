@@ -24,6 +24,10 @@ The compendium reads this refusal as an invitation to judge an acquisition by wh
 
 *For example:* Imagine being offered a larger office that would require moving away from colleagues you work with daily. You keep the smaller room because it has enough space for your work.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: Xu You declining the throne: the name-holder as a nest needing one branch.
+
 ## Sources
 
 - [Zhuangzi 1, Enjoyment in Untroubled Ease, translated by James Legge, Chinese Text Project](https://ctext.org/zhuangzi/enjoyment-in-untroubled-ease): Xu You's reply to Yao.

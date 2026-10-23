@@ -24,6 +24,10 @@ The chapter also contrasts deep desires with shallow Heavenly springs: "Where lu
 
 *For example:* Imagine ending an evening still rehearsing a disagreement. You decide to revisit it in tomorrow's conversation instead of treating bedtime as another round of the argument.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the True men of old portrait the page takes its rest from.
+
 ## Sources
 
 - [Zhuangzi, Legge trans., ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Part 6, the True men of old

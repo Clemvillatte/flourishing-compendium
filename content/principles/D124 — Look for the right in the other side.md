@@ -29,6 +29,10 @@ The view you cannot stand is usually a true observation made from a position you
 
 *For example:* Imagine a manager receiving a complaint phrased badly. She asks what the complaint is right about before responding to its tone.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the chapter 2 argument that every position is a standpoint before it is a claim.
+
 ## Sources
 
 - [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2, that and this

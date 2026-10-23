@@ -97,11 +97,21 @@
   "content/principles/D091 — Befriend change (hua).md",
   "content/principles/D092 — Don't chase happiness directly.md",
   "content/principles/D093 — Make happiness independent of externals.md",
-  "content/principles/D094 — Don't exhaust yourself for what you don't need.md"
+  "content/principles/D094 — Don't exhaust yourself for what you don't need.md",
+  "content/principles/D100 — Rest in unknowing.md",
+  "content/principles/D105 — Need little — one branch, one belly of water.md",
+  "content/principles/D106 — Live at your own scale.md",
+  "content/principles/D107 — Trust your own nature.md",
+  "content/principles/D113 — Rest deeply.md",
+  "content/principles/D123 — Don't argue to win.md",
+  "content/principles/D124 — Look for the right in the other side.md",
+  "content/principles/D140 — Respect others' nature — don't cage what you love.md",
+  "content/principles/D141 — Care for life as the root of all endeavor.md",
+  "content/principles/D144 — Breathe from the heels.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:16:39+00:00",
+ "updated": "2026-10-23T14:16:52+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it."
 }

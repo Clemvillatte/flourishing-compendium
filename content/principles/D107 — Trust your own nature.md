@@ -26,6 +26,10 @@ Before trying to become more like someone else, ask what problem the change woul
 *For example:*
 Suppose someone urges you to speak more often in meetings simply because another colleague does. Ask which contribution is missing before treating your quieter style as something that needs correcting.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the duck and the crane (chapter 8): each right at its own length of leg.
+
 ## Sources
 
 - [Zhuangzi, James Legge translation (1891), ETH Zurich METIS edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — chapter 8, duck and crane passage quoted verbatim

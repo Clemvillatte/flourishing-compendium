@@ -34,6 +34,10 @@ When a task becomes difficult, find where the difficulty lies before pushing har
 
 Imagine an editor whose extra assignment would remove the lunch break every day. Try a smaller assignment for one week. This means accepting less work. Check whether that arrangement leaves room for meals and the agreed work; keep it if workable, or renegotiate.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: chapter 3's opening warning: limited life spent chasing unlimited knowledge.
+
 ## Sources
 
 - [Zhuangzi, Chapter 3, "Nourishing the Lord of Life", Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — §1 program; §2 the cook and ruler Wen Hui

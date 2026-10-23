@@ -23,6 +23,10 @@ The lines that follow apply the contrast to argument: when men are defeated in a
 
 *For example:* Suppose you are about to give a difficult answer in a meeting. Take one slower exhale first. The exercise is a pause, and the pause is the point; the chapter does not promise a particular effect from it.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the True Person's breath reaching the heels, the page's picture of deep breathing.
+
 ## Stories
 
 - [[ST044 — The Tortoise in the Mud|44. The Tortoise in the Mud]]

@@ -24,6 +24,7 @@ When someone else's achievement makes you want to copy their plan, first check w
 *For example:* Imagine considering a friend's plan to start a business. You calculate the time available after your paid work and caring responsibilities before deciding what you could attempt.
 
 ## Related concepts
+- [[T009 — Zhuangzi]]: the Peng and the quail (chapter 1), the page's scaled beings for living at your own size.
 
 - [[D079]] — Both principles work from Zhuangzi's opening scene of small birds laughing at the Peng's flight: D079 takes the small judging the large, and D106 takes the scale difference the narrator points out.
 

@@ -36,6 +36,10 @@ Zhuangzi's butterfly leaves a question open:
 
 *For example:* The doctor who says 'I don't know, let's find out' is safer than the one with the instant answer — curiosity is the treatment.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the chapter 2 argument the page pairs with DDJ 71 for resting in unknowing.
+
 ## Sources
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): chapter 71

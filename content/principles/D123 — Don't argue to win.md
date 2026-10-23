@@ -30,6 +30,10 @@ As a compendium exercise, identify the exact point of disagreement before prepar
 
 *For example:* Imagine two partners disagreeing about a household bill. One suggests checking the disputed charge together before continuing the argument.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the chapter 2 description of the disputing mind in decay, the page's case against arguing to win.
+
 ## Sources
 
 - [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2, disputing minds

@@ -28,6 +28,10 @@ Before planning a favour, ask what the person would welcome. Explain what you ha
 
 *For example:* Imagine grandparents planning dinner for a vegetarian grandchild. They ask what the grandchild eats and choose the meal accordingly.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the sea-bird in the marquis's temple (chapter 18), killed by honours.
+
 ## Sources
 
 - [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 18, the sea-bird of Lu
