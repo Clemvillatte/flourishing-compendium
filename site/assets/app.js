@@ -2295,7 +2295,7 @@ function buildPool() {
     ? pool.length.toLocaleString() + ' in the pool' + (bookFilter === -2 ? ' \u00b7 saved only' : '') + ' \u00b7 no repeats until all are seen'
     : 'No entries in the current pool';
   const mixed = enabledTypes.size > 0;
-  document.querySelector('.draw-label').textContent = mixed ? 'Draw an entry' : 'Draw a principle';
+  document.querySelector('.draw-label').textContent = 'DRAW';
   $r('drawBtn').setAttribute('aria-label', mixed ? 'Draw an entry' : 'Draw a principle');
   $r('drawBtn').disabled = pool.length === 0;
   $r('drawBtnTop').disabled = pool.length === 0;
@@ -4483,7 +4483,7 @@ function renderAcademyHome(){
   actions.appendChild(discoveryBtn);
 
   // Dossiers — theme compilations beside the study pathways
-  const dossiersBtn = el('button','acad-btn','Dossiers');
+  const dossiersBtn = el('button','acad-btn','DOSSIERS');
   dossiersBtn.title = 'Theme dossiers: compilation, divergence, practice';
   dossiersBtn.onclick = () => {
     A.view = 'dossiers';
