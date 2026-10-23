@@ -14,7 +14,7 @@ Before an institutional decision, write down every group the decision will touch
 
 > "any group or individual who can affect or is affected by the achievement of the organization's objectives" (Freeman 1984, p. 46, quoted in [Bryson 2004](https://www.sog.unc.edu/sites/www.sog.unc.edu/files/course_materials/Bryson%20PMR%202004.pdf))
 
-The routine below adapts the stakeholder-analysis techniques that public-management scholar John Bryson developed for public and nonprofit strategy work. It moves two dimensions at once: overt behaviour (a written list, not a vague sense of concern) and cognition (adopting each group's point of view before deciding).
+The routine below adapts stakeholder-analysis techniques reviewed by the public-management scholar John Bryson for public and nonprofit strategy work. It moves two dimensions at once: overt behaviour (a written list, not a vague sense of concern) and cognition (adopting each group's point of view before deciding).
 
 ### Protocol
 
