@@ -23,6 +23,7 @@ Seneca records the Stoic counterpart in De Ira: "the spirit ought to be brought 
 - [[K004 — Take the mind itself as the laboratory]] — sets it beside Socrates' examined life
 
 ## Related concepts
+- [[T011 — Socrates]]: the examined life the page sets beside K004's mind-as-laboratory.
 
 - [[S065]] — the principle the daily practice operationalises
 - [[Self-examination]] — the Stoic practice the same habit feeds

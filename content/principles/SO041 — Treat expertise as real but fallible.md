@@ -26,6 +26,10 @@ Tetlock's *Expert Political Judgment* examined expert political forecasting. It 
 **Plain words** When asking a specialist for advice, ask what supports this particular answer and how uncertain it is. Decide what further evidence you need before acting.
 
 *For example:* Imagine receiving a confident forecast from a specialist. You ask what comparable predictions they have made and how those predictions turned out.
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-expertise reference the page pairs with Peirce's community of inquiry.
+
 ## Psychology parallels
 
 - [[Deliberate practice|Deliberate practice]] (Ericsson et al., 1993)

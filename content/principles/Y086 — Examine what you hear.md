@@ -25,6 +25,10 @@ Hearing a teaching once leaves it as somebody else's sentence in your head. The 
 
 **For example**
 Someone hears in a talk that attention is trainable. They spend a week testing it, three short sessions a day with notes on what changes, before repeating the claim to anyone else.
+## Related concepts
+
+- [[T011 — Socrates]]: the midwife of ideas (Theaetetus), the page's exemplar for examining what you hear.
+
 ## Psychology parallels
 
 - **[[Comprehension-strategy instruction|Comprehension-strategy instruction]]** (Pressley et al., 1992)

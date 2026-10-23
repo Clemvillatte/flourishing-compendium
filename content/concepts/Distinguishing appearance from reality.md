@@ -30,6 +30,7 @@ The compendium pairs the Republic's images with Stoic impressions and with the c
 - [[CO051 — Recognise cognitive distortions — learn the common patterns]] — the distortion patterns themselves
 
 ## Related concepts
+- [[T011 — Socrates]]: the Republic images the page anchors the appearance/reality distinction in.
 
 - [[Cognitive distortions]] — the cognitive-pattern side of the distinction
 

@@ -40,6 +40,10 @@ Aristotle's own treatment adds a distinction modern readers can use: he separate
 - [[MO045 — Recognise procrastination as emotion regulation, not laziness]] — names akrasia as a genuine difficulty for the will, distinct from procrastination seen as prioritizing one's feelings
 - [[ST160 — Medea Knows]] — the story of Medea, who knows what evil she is about to do and does it anyway
 
+## Related concepts
+
+- [[T011 — Socrates]]: the Protagoras denial of akrasia the page opens with.
+
 ## Sources
 
 - [Stroud, Sarah & Svirsky, Larisa, "Weakness of Will", Stanford Encyclopedia of Philosophy, §1-§3](https://plato.stanford.edu/entries/weakness-will/) — Socrates' denial, Hare's defense of it, Davidson's characterization, Holton's revision

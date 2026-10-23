@@ -14,6 +14,7 @@ Plato revisits the argument in the Phaedo: "when people are asked certain kinds 
 The compendium's interest is double. Epistemically, anamnesis reframes teaching as midwifery — the educator's questions, not transfers of content, are what release knowledge. Practically, it dignifies self-examination: the resources for wisdom are already somehow ours, and practices of memory and recollection (echoed across traditions, from Platonic dialectic to meditative remembering) are how they surface.
 
 ## Related concepts
+- [[T011 — Socrates]]: the doctrine of learning as recollection, from the dialogues the page reads.
 
 - [[Socratic inquiry]] — questioning as midwifery of latent knowledge
 - [[Ars memoriae (art of memory)]] — the art of memory across traditions

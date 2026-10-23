@@ -25,6 +25,10 @@ The compendium's instrument, the life-price audit: for one month, convert each s
 **Plain words** A price tag tells you what a thing costs in money. Thoreau's question is what it costs in you: the hours of work behind the money, and the attention the thing will demand once owned. Pricing a purchase that way changes some decisions on the spot.
 
 *For example:* Someone who wants the upgraded car, works out that it is four hundred extra hours of work, and takes a long weekend plus the savings instead.
+## Related concepts
+
+- [[T011 — Socrates]]: the unexamined-life warning behind the page's examined economics.
+
 ## Psychology parallels
 
 - **[[Time affluence|Time-affluence research]]** (Whillans et al., 2017)

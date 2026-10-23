@@ -23,6 +23,10 @@ A pursuit can be useful without being what your whole life is for. Ask what your
 
 *For example:* someone asks whether the promotion they want would support the purpose they give for pursuing it, or whether the purpose has quietly become the promotion itself.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology) the page gives for questioning pursuits.
+
 ## Sources
 
 - [Spinoza, On the Improvement of the Understanding, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/1016) — §§1-11 (opening, the three ordinary objects, the inquiry, the means/ends qualification)

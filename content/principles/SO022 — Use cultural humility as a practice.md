@@ -26,6 +26,7 @@ Consider which assumptions you bring to an interaction. Ask what another person 
 *For example:* Imagine a clinician preparing to meet a new patient and listing the questions they would need answered, such as who the patient considers family and who makes decisions about care.
 
 ## Related concepts
+- [[T011 — Socrates]]: Socratic ignorance (Apology 21d), the page's humility reference.
 
 - [[SO072]] — a structured interview for asking about a person's cultural context
 

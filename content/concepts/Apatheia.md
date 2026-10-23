@@ -22,6 +22,7 @@ Epictetus gives the practice: "Men are disturbed not by things, but by the views
 S071's emotions are judgments and S059's not being carried away by passion are the direct carries; AF001's affect as information rather than verdict is the clinical cousin; AF034's equanimity as a capacity is a modern neighbour to set beside the ideal. The compendium sets other vocabularies beside it as well: B007's fires cooling here and now, D041's purity and stillness (qingjing), R063's rectification of the mind (zhengxin), and B096's even-mindedness.
 
 ## Related concepts
+- [[T011 — Socrates]]: the exemplar behind Epictetus's disturbance-by-views teaching the page quotes.
 
 
 

@@ -28,6 +28,10 @@ The extension from reciting texts to examining one's own mind on a schedule is t
 
 (Yoga Sutra 2.1, 2.32 and 2.44 with Vyasa's Bhasya, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 103, 181, 190; Taittiriya Upanishad I.11.1.)
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology) the page gives self-study.
+
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 103, 181, 190

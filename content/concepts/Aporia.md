@@ -22,6 +22,7 @@ Aristotle turned the same experience into a method. Before inquiring into first 
 > "For those who wish to get clear of difficulties it is advantageous to discuss the difficulties well; for the subsequent free play of thought implies the solution of the previous difficulties, and it is not possible to untie a knot of which one does not know." (Aristotle, Metaphysics III.1, trans. W.D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/metaphysics.3.iii.html))
 
 ## Related concepts
+- [[T011 — Socrates]]: the productive dead end the dialogues end in, the concept's home.
 
 - [[Docta ignorantia]] — the medieval doctrine that made the impasse itself a discipline
 

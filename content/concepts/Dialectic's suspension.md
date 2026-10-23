@@ -26,6 +26,7 @@ The compendium's phrase refers to the dialogues' dead ends in general. This page
 - [[X001 — Practice equipollence deliberately]] lists this concept next to epoché. Its page does not cite Plato, so the link is thematic: both involve pausing judgement.
 
 ## Related concepts
+- [[T011 — Socrates]]: the point in the dialogues where the inquiry stops without an answer, the concept's source.
 
 - [[Aporia]] — the Greek term for the state of being at a loss
 - [[Socratic ignorance]] — Socrates's profession of not knowing

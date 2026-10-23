@@ -394,11 +394,25 @@
   "content/principles/SE076 — Recognise clinical self-symptoms — when self-problems require evaluation.md",
   "content/principles/SE077 — Learn to assess and monitor self-development — track your growth.md",
   "content/principles/SE078 — Build self-maintenance — ongoing practice and adaptation.md",
-  "content/principles/SO015 — Use cultural self-examination as a practice.md"
+  "content/principles/SO015 — Use cultural self-examination as a practice.md",
+  "content/principles/SO022 — Use cultural humility as a practice.md",
+  "content/principles/SO041 — Treat expertise as real but fallible.md",
+  "content/principles/SP039 — Begin by questioning what you are pursuing.md",
+  "content/principles/X023 — Live deliberately, and price things in life.md",
+  "content/principles/Y038 — Make self-study a discipline.md",
+  "content/principles/Y086 — Examine what you hear.md",
+  "content/concepts/Akrasia (weakness of will).md",
+  "content/concepts/Akrasia.md",
+  "content/concepts/Anamnesis.md",
+  "content/concepts/Apatheia.md",
+  "content/concepts/Aporia.md",
+  "content/concepts/Daily self-examination.md",
+  "content/concepts/Dialectic's suspension.md",
+  "content/concepts/Distinguishing appearance from reality.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:25:11+00:00",
+ "updated": "2026-10-23T14:25:34+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }
