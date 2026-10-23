@@ -1,13 +1,20 @@
 {
  "baton": "k1b",
- "agent": "worker-k1b-pplx",
- "clocked_in": "2026-10-22T15:51:28+00:00",
+ "agent": "worker-k1b-pplx-546cea03",
+ "clocked_in": "2026-10-23T05:19:29+00:00",
  "takeovers": [
   {
    "by": "worker-k1b-pplx",
    "at": "2026-10-22T15:01:56+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-k1b-pplx-546cea03",
+   "at": "2026-10-23T05:19:29+00:00",
+   "from": "worker-k1b-pplx",
+   "reason": "stale (808 min)"
   }
- ]
+ ],
+ "released": false
 }
