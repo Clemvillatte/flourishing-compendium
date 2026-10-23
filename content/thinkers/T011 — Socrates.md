@@ -17,17 +17,17 @@ Socrates wrote nothing himself; everything we have is second-hand and disputed, 
 
 ## Their why
 
-What set him questioning, by Plato's account, was an oracle: Chaerephon asked Delphi whether anyone was wiser than Socrates, and the answer was no one, a claim he found absurd and set out to test by questioning everyone reputed to be wise ([[ST152 — Socrates and the Oracle|152. Socrates and the Oracle]]). The finding, in his own words in the Jowett translation: "He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing" ([Apology](https://classics.mit.edu/Plato/apology.html)).
+What set him questioning, by Plato's account, was an oracle: Chaerephon asked Delphi whether anyone was wiser than Socrates, and the answer was no one, a claim he found absurd and set out to test by questioning everyone reputed to be wise ([[ST152 — Socrates and the Oracle|152. Socrates and the Oracle]]). The finding, as the Apology has him put it in the Jowett translation: "He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing" (Apology 20d-e, trans. Jowett, [MIT Classics](https://classics.mit.edu/Plato/apology.html)).
 
 ## Their position
 
-His method was the question, not the lecture: he insisted he was not a teacher, took no fees, and likened his work to midwifery, helping others recognize on their own what is true and good ([SEP](https://plato.stanford.edu/entries/socrates/)). The cross-examination that exposes inconsistencies now carries his name, the elenchus. He described his effect on the city as a stinging:
+His method was the question, not the lecture: he insisted he was not a teacher, took no fees, and likened his work to midwifery, helping others recognize on their own what is true and good ([SEP](https://plato.stanford.edu/entries/socrates/)). The cross-examination that exposes inconsistencies now carries his name, the elenchus. He described his effect on the city as a stinging (Apology 30e, trans. Jowett):
 
 > "I am that gadfly which God has given the state and all day long and in all places am always fastening upon you, arousing and persuading and reproaching you." (Plato, Apology, trans. Jowett, [MIT Classics](https://classics.mit.edu/Plato/apology.html))
 
-The sentence that cost him his life, and the one he refused to retract:
+The sentence the jury heard as defiance:
 
-> "The greatest good of man is daily to converse about virtue, and all that concerning which you hear me examining myself and others, and that the life which is unexamined is not worth living." (Plato, Apology, trans. Jowett, [MIT Classics](https://classics.mit.edu/Plato/apology.html))
+> "if I say again that the greatest good of man is daily to converse about virtue, and all that concerning which you hear me examining myself and others, and that the life which is unexamined is not worth living - that you are still less likely to believe." (Plato, Apology, trans. Jowett, [MIT Classics](https://classics.mit.edu/Plato/apology.html))
 
 In prison, offered escape, he argued that one should follow the argument that survives reflection, and that "neither to do wrong or to return a wrong is ever right, not even to injure in return for an injury received" (Plato, Crito 49d, as quoted in [SEP](https://plato.stanford.edu/entries/socrates/)).
 

@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "cha
 
 ## Personal story / context
 
-The biography that starts everything is the Han historian Sima Qian's, and even Sima Qian treated it cautiously. In his account Laozi was a native of Chu, family name Li, given name Er, also called Dan, and he kept the archival records at the Zhou court ([SEP](https://plato.stanford.edu/entries/laozi/)). Confucius reportedly consulted him about ritual and praised him afterward. Seeing the Zhou house decline, Laozi left; at the northwest border the customs official Yin Xi asked him to write down his teachings, and the resulting book, about five thousand characters in two parts on Dao and virtue, is the Daodejing. Then he departed, and no one knows where he went ([SEP](https://plato.stanford.edu/entries/laozi/)). Modern scholarship divides on whether any such person existed: some treat Laozi as entirely legendary, and the Daodejing as an anthology of sayings from many hands that reached stable form by the mid-third century BCE ([SEP](https://plato.stanford.edu/entries/laozi/)).
+The biography that starts everything is the Han historian Sima Qian's, and even Sima Qian treated it cautiously. In his account Laozi was a native of the southern state of Chu, family name Li, given name Er, also styled Dan, and he kept the archival records at the Zhou court ([SEP](https://plato.stanford.edu/entries/laozi/)). Confucius reportedly consulted him about ritual and praised him afterward. Seeing the Zhou house decline, Laozi left; at the northwest border the customs official Yin Xi asked him to write down his teachings, and the resulting book, about five thousand characters in two parts on Dao and virtue, is the Daodejing. Then he departed, and no one knows where he went ([SEP](https://plato.stanford.edu/entries/laozi/)). Modern scholarship divides on whether any such person existed: some treat Laozi as entirely legendary, and the Daodejing as an anthology of sayings from many hands that reached stable form by the mid-third century BCE ([SEP](https://plato.stanford.edu/entries/laozi/)).
 
 ## Their why
 
@@ -21,7 +21,7 @@ The book is written against a diagnosis: disorder traced to striving, desire and
 
 ## Their position
 
-The Dao cannot be named or trodden:
+The opening chapter distinguishes the dao that can be trodden or named from the enduring Dao:
 
 > "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name." (Daodejing 1, Legge's translation, [Gutenberg](https://www.gutenberg.org/ebooks/216))
 

@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "cha
 
 ## Personal story / context
 
-Seneca was born in Corduba, Spain, and educated in rhetoric and philosophy in Rome ([SEP](https://plato.stanford.edu/entries/seneca/)). In 41 he was accused of adultery with the emperor's sister and exiled to Corsica; he consoled his mother Helvia from there in one of his earliest surviving works. Recalled to become tutor to the young Nero, he stayed on as advisor after Nero's accession in 54, writing his major works amid increasingly difficult circumstances until he asked permission to retire ([SEP](https://plato.stanford.edu/entries/seneca/)). In 65, charged with complicity in the Pisonian conspiracy to murder Nero, he was compelled to commit suicide. The Moral Letters to Lucilius and the Natural Questions belong to his last years, 62–65 ([SEP](https://plato.stanford.edu/entries/seneca/)).
+Seneca was born in Corduba, Spain, and educated in rhetoric and philosophy in Rome ([SEP](https://plato.stanford.edu/entries/seneca/)). In 41 he was accused of adultery with Caligula's sister and exiled to Corsica; he consoled his mother Helvia from there in one of his earliest surviving works. Recalled to become tutor to the young Nero, he stayed on as advisor after Nero's accession in 54, writing his major works amid increasingly difficult circumstances until he asked permission to retire ([SEP](https://plato.stanford.edu/entries/seneca/)). In 65, charged with complicity in the Pisonian conspiracy to murder Nero, he was compelled to commit suicide. The Moral Letters to Lucilius and the Natural Questions belong to his last years, 62–65 ([SEP](https://plato.stanford.edu/entries/seneca/)).
 
 ## Their why
 
