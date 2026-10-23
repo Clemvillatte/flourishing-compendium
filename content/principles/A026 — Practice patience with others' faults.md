@@ -39,7 +39,9 @@ For example: in one person's situation, a neighbour's bin left out for two days 
 
 - **[[The empty boat reflection|The empty boat reflection]]** (Zhuangzi tradition)
 - **[[Gentleness as virtue|Gentleness as virtue]]** (Aristotle, NE IV.5)- **[[Eudaimonia|Eudaimonia]]** (Aristotelianism)
+## Related concepts
 
+- [[T009 — Zhuangzi]]: the empty boat, the parable that gives fault-patience its image
 
 <!-- fc: reflections
 What small irritation have you carried far longer than it deserved? What did carrying it do to you?
