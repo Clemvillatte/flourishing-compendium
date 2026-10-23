@@ -95,3 +95,20 @@ Independent advisor read_only_daoist_principle_qc_mvkkitzm freshly opened Legge 
 - Example varies two feasible cues, compares fit to obligations, retains the workable cue and permits adjustment/stopping; overt behaviour named.
 - Read HRV coherence research and Interoceptive awareness in full; both already backlink D146. Ran regular-practice mention search. Opened and added the actual Lehrer/Gevirtz article for the modern HRV parallel: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00756/full. It is not presented as a measurement or validation of qi.
 - Existing parallel lines and reflections preserved. Milestone-ten advisor QC requested for D109, D112, D143, D145, D146.
+
+## D149
+
+- Reopened with enrich_state.py. Opened archive catalog, raw HTML to find the text carrier, and actual full text: https://archive.org/stream/theessentialhuainanziliuan/The%20Essential%20Huainanzi%20-%20Liu%20An_djvu.txt. Located the body-regulation passage explicitly labeled 14.39 and read surrounding text.
+- Removed editorial slash markers from the exact 14.39 quotation and pointed its citation directly to the opened text, preserving the catalog bibliography and adding the text carrier.
+- Explanation follows the source's group of care instructions; preserved the important scope limit that sex in the title is not in this quotation. No fabricated universal dose or medical outcome claim.
+- Replaced repeated list gloss with a needs/obligations question. Lunch example generates two arrangements, selects on fit and retains a workable routine; overt behaviour named. It protects eating rather than prescribing restriction.
+- Yangsheng already read in full and backlinks D149. The doctrine of the mean read in full and already backlinks D149. The existing Measure in all things link has no matching concept file; searched concept filenames to confirm. Preserved the original link and flagged it for the supervisor rather than claiming to have read a nonexistent target. Moderation mention search completed; no new reciprocal proposed.
+- Existing empirical parallel lines and reflections preserved, not independently certified.
+
+## Milestone ten advisor QC
+
+Independent advisor freshly checked Legge, Giles and Roth and returned scoped PASS on D109, D112, D143, D145 and D146: all source claims and quotations, distinct Plain words, practical variation/selection/retention, and no blocker-level repetitive humanizer wording. Modern parallels and reflections not certified. All ten repairs structurally validated before completion.
+
+## Additional supervisor flag
+
+D149's pre-existing [[Measure in all things]] target is missing from content/concepts. Existing link retained to respect preservation requirements. No stub invented and no other band's file changed.
