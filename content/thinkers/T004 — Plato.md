@@ -29,7 +29,7 @@ The soul has parts, and justice is their harmony. In the Republic the argument r
 - **Socratic questioning** — elenchus, aporia, and knowing that you do not know. See [[Socratic elenchus]], [[Aporia]], [[Socratic ignorance]], [[Socratic testing]], [[Questioning inherited beliefs]].
 - **The tripartite soul** — reason, spirit, appetite; virtue is their harmony. See [[The tripartite soul]], [[Ordering the soul]], [[The unity of the soul]], [[Harmony]], [[Temperance]].
 - **The Forms** — the one thing that truly is Beauty, Goodness, Justice behind the many that appear. See [[Distinguishing appearance from reality]], [[Noesis, direct intellectual seeing]], [[Arete]].
-- **Recollection** — the soul remembers what it knew before birth; learning is anamnesis. See [[Anamnesis]], [[Meno's Paradox]].
+- **Recollection** — the soul remembers what it knew before birth; learning is anamnesis. See [[Anamnesis]], [[ST155 — Meno's Paradox|155. Meno's Paradox]].
 - **Eros and the ladder of love** — desire ascending from beautiful bodies to Beauty itself. See [[Eros]], [[The ladder of love]], [[The wounds of love]], [[Obsessive attachment]].
 - **The philosopher-ruler** — cities rest from evils only when philosophers rule or rulers philosophize. See [[Philosopher-king]], [[Justice]], [[Dikaiosyne]].
 - **The unity of the virtues** — the virtues are one knowledge. See [[The unity of the virtues]], [[A040 — Practise the unity of the virtues|A040]], [[A047 — Let practical wisdom unify the virtues|A047]].
