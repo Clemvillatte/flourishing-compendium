@@ -17,7 +17,7 @@ Born on Rue Lamartine in Paris in 1859, he spent his career at the center of Fre
 
 ## Their why
 
-Bergson wrote against two reductions. The determinist and the mechanist both treat life as already written — either by the causal chain or by the blueprint — and in doing so they flatten the one thing that matters: the living time in which something genuinely new can appear. His entire system is an argument that time is invention, that novelty is real, and that the mind's practical tools (concepts, analysis, clock time) cannot capture what only intuition can.
+Bergson wrote against two reductions. The mechanist treats each living development as already contained in what preceded it, and the strict finalist treats the whole as given in advance; both leave no room for real change or creation ([SEP, Henri Bergson](https://plato.stanford.edu/entries/bergson/)). His entire system is an argument that time is invention, that novelty is real, and that the mind's practical tools (concepts, analysis, clock time) cannot capture what only intuition can.
 
 ## Their position
 
@@ -27,7 +27,7 @@ His doctoral thesis, *Time and Free Will* (1889), introduced duration (*durée*)
 
 - **Duration vs. clock time** — lived time is heterogeneous flow, not a line of juxtaposed instants. See [[P091 — Distinguish lived time from clock time|Distinguish lived time from clock time]], [[P092 — Live in a thick present|Live in a thick present]], [[P093 — You are time — own your becoming|You are time: own your becoming]].
 - **The élan vital** — life as an original creative impulse, freedom inserting itself into necessity. See [[P102 — Trust the creative thrust of life|Trust the creative thrust of life]], [[P192 — Life is freedom inserting itself into necessity|Life is freedom inserting itself into necessity]], [[P006 — Creativity is the ultimate principle|Creativity is the ultimate principle]].
-- **Intuition vs. intellect** — the practical, tool-making mind cannot grasp life; intuition can coincide with it. See [[P094 — Use intuition to enter the flow of things|Use intuition to enter the flow of things]], [[CO002 — Recognise the two systems (or modes) of thinking — fast intuition and slow analysis|Recognise the two systems (or modes) of thinking: fast intuition and slow analysis]].
+- **Intuition vs. intellect** — the practical, tool-making mind cannot grasp life; intuition can coincide with it. See [[P094 — Use intuition to enter the flow of things|Use intuition to enter the flow of things]], [[Intuition as method|Intuition as method]].
 - **Life as creation, novelty as real** — "life must be equated with creation" ([SEP](https://plato.stanford.edu/entries/bergson/)). See [[P191 — Joy is the felt signature of creation; distinct from pleasure|Joy is the felt signature of creation; distinct from pleasure]], [[BE059 — Engage in creative behaviour — making is well-being|Engage in creative behaviour: making is well-being]], [[P086 — Channel the creative impulse|Channel the creative impulse]].
 - **Consciousness is choice** — where there is no choice there is mechanism. See [[P193 — Consciousness is choice; where there is no choice, there is mechanism|Consciousness is choice; where there is no choice, there is mechanism]], [[P071 — Trust the plasticity of human nature|Trust the plasticity of human nature]].
 
