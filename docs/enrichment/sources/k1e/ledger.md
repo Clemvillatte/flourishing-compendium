@@ -371,3 +371,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The Williams/Penman book (commercial) remains unopened; fluidself.org is the opened carrier of the Week One text; the franticworld.com URL that the Deeper Mindfulness sequel points to for releasers is not fetched this session.
 - Original Operationalises line preserved exactly; the "Autopilot" Related-concepts link (no such page) retargeted to Present-moment awareness theory; Related concepts retargeted to existing pages only (Habit formation, Mindfulness, Present-moment awareness theory — existence checked).
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K394 — Sounds and Thoughts meditation (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~110-word seed rebuilt to the K100 model (549 prose words, 4 standalone blockquotes, all sections).
+- Carriers opened: franticworld.com Sounds and Thoughts Meditation page — the fetch tool is robots-blocked for this host, so the page was opened via the cloud browser (browser_eval_js against the DOM); the four quoted passages (the "gradually reveals the similarities" paragraph, the "receiving and noticing" sentence, the "ear is the organ that receives sounds" paragraph, the step-6 labelling instruction) all read verbatim from the opened DOM text; the free-meditations guided-audio link on the page is cited on the Related section.
+- The Williams/Penman book (commercial) remains unopened; franticworld.com is the authors' own site carrying the book's meditation; the "Why meditate on Sounds and Thoughts?" rationale paragraph and the numbered steps all read from the opened page.
+- Original Operationalises line preserved exactly; the "Open monitoring" Related-concepts link (kernel, not concept) retargeted to Acceptance and Commitment Therapy; Related concepts retargeted to existing pages only (Cognitive defusion, MBCT, ACT — existence checked).
+- Customer-facing grep clean; validator ok, 0 failed.
