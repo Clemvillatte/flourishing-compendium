@@ -10,13 +10,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K286** — The good citizen audit
 
-Once a month, review civic participation: whether the vote was cast, whether the community received a contribution, whether the issues affecting others were followed, whether public spaces and services were treated with respect. The ideal behind the audit is Marcus Aurelius's happy citizen, whose study and practice are for the good of the fellow citizens ([Meditations, Long translation](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). Reach for it when citizenship has become something watched rather than practiced.
+Once a month, review civic participation: whether the vote was cast, whether the community received a contribution, whether the issues affecting others were followed, whether public spaces and services were treated with respect. The ideal behind the audit is Marcus Aurelius's happy citizen, whose study and practice are for the good of the fellow citizens ([Meditations, Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). Reach for it when citizenship has become something watched rather than practiced.
 
 ### What it rests on
 
 Marcus's own picture, from the Meditations:
 
-> "These things once so fixed and concluded, as thou wouldst think him a happy citizen, whose constant study and practice were for the good and benefit of his fellow citizens, and the carriage of the city such towards him, that he were well pleased with it; so must it needs be with thee, that thou shalt live a happy life." — [Marcus Aurelius, Meditations X.6 (Project Gutenberg 2680, ebook credits no translator)](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
+> "These things once so fixed and concluded, as thou wouldst think him a happy citizen, whose constant study and practice were for the good and benefit of his fellow citizens, and the carriage of the city such towards him, that he were well pleased with it; so must it needs be with thee, that thou shalt live a happy life." — [Marcus Aurelius, Meditations X.6 (Project Gutenberg 2680)](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 
 The monthly audit questions are the compendium's editorial design; the engaged citizen they measure is Marcus's.
 
@@ -38,7 +38,7 @@ The nearest research concerns volunteer work in the community, from a panel stud
 
 The design is a two-wave observational panel (Americans' Changing Lives, N = 2,681), reporting relationships in both directions ([Thoits & Hewitt, 2001, Abstract](https://pubmed.ncbi.nlm.nih.gov/11467248/)).
 
-What this evidence does not test: the cited research is an observational panel, not a randomized test of volunteering or of a civic audit; it did not evaluate a monthly audit practice, and voting, staying informed and respect for public spaces were not its outcomes.
+What this evidence does not test: the cited research is an observational panel, not a randomized test of volunteering or of a civic audit; it did not evaluate a monthly audit practice, and voting, staying informed and respect for public spaces were not its outcomes ([Thoits & Hewitt, 2001, Abstract](https://pubmed.ncbi.nlm.nih.gov/11467248/)).
 
 ### A guided version
 
@@ -67,5 +67,5 @@ Not applicable: the practice is a monthly self-review, not a recording.
 
 ## Sources
 
-- [Marcus Aurelius, Meditations (Project Gutenberg 2680, ebook credits no translator)](https://www.gutenberg.org/cache/epub/2680/pg2680.txt) — the happy-citizen passage, Book X.6.
+- [Marcus Aurelius, Meditations (Project Gutenberg 2680)](https://www.gutenberg.org/cache/epub/2680/pg2680.txt) — the happy-citizen passage, Book X.6.
 - [Thoits, P. A., & Hewitt, L. N. (2001). Volunteer work and well-being. Journal of Health and Social Behavior, 42(2), 115-131](https://pubmed.ncbi.nlm.nih.gov/11467248/) — the bidirectional volunteer-well-being findings, Abstract.

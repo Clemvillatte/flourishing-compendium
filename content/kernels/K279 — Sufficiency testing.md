@@ -39,7 +39,7 @@ A related body of research is hedonic adaptation, whose best-known model has bee
 
 The same abstract revises the model: "Finally, individuals differ in their adaptation to events, with some individuals changing their set point and others not changing in reaction to some external event." ([Diener, Lucas & Scollon, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/))
 
-What this evidence does not test: the cited research concerns adaptation of happiness to life events; it did not evaluate pre-defined sufficiency numbers or moving goalposts. The written number is an editorial experiment, and the brake framing is editorial too.
+What this evidence does not test: the cited research concerns adaptation of happiness to life events; it did not evaluate pre-defined sufficiency numbers or moving goalposts ([Diener, Lucas & Scollon, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/)). The written number is an editorial experiment, and the brake framing is editorial too.
 
 ### A guided version
 

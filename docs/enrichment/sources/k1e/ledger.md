@@ -171,3 +171,13 @@
 - K293: the Varma conclusion quotation now ends with the carrier's period inside the quotation, with its own inline link; the 46-volunteers sentence now carries its own inline link.
 - K292: the findings paragraph now carries its own inline link.
 - All five pages revalidated (5 checked, 0 failed); customer-facing sweep clean.
+
+## QC round 3, items 12-16 (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Third advisor recheck repairs, applied with asserted-match edits and read back before reporting:
+- K286: the last "Long" attribution removed from the opening citation (now "[Meditations, Project Gutenberg 2680]"); "ebook credits no translator" removed from the citation labels (the verification detail stays in this ledger); the evidence-limits sentence now carries its own inline link.
+- K277: the inoculation-rule locator fixed to p. 5 (the earlier replace was a no-op because the label was bracketed, not parenthesised — caught by the recheck); the session-count quotation now carries its own citation; the evidence-limits sentence now carries its own link.
+- K292: the "Perceived balance tracked satisfaction" sentence and the evidence-limits sentence now carry their own inline links.
+- K293, K279: evidence-limits sentences now carry their own inline links.
+- Pagination-check description corrected (per the recheck): the locators were verified by per-page PDF text extraction with printed-footer inspection, not rendered-image inspection.
+- All five pages revalidated (5 checked, 0 failed); customer-facing sweep clean.
