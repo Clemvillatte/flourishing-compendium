@@ -45,7 +45,6 @@
   "Meta-awareness",
   "Mindful self-compassion programme",
   "Memory reconsolidation",
-  "Moral disengagement research",
   "Moral situations research",
   "Possible selves",
   "Novelty seeking without commitment",
@@ -70,7 +69,8 @@
   "Social-network effects on behavior",
   "Solidarity",
   "Solitude",
-  "Creative values"
+  "Creative values",
+  "Moral disengagement research"
  ],
  "in_progress": null,
  "flagged": {
@@ -92,7 +92,7 @@
   "Experiential avoidance theory": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
   "Limits of introspection": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
   "Memory reconsolidation": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
-  "Moral disengagement research": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
+  "Moral disengagement research": "Reopened for QC: maintenance routed: prose 63<150 on origin; carrier-grounded top-up with opened Bandura 1999 material",
   "Moral situations research": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
   "Novelty seeking without commitment": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the milestone advisor QC repairs VERIFIED APPLIED — spot-checked this session (Right association: the Sigalovada four-friends blockquote carries its KSW translation carrier and the verse rendered as the source's list; no mechanism claim found on the page); the w1l QC rounds are documented in the worker's records. The state flag was stale. [ORIGINAL: Reopened for QC: QC repair round 3: source-bounded prose per advisor]",
   "Optimal arousal": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the milestone advisor QC repairs VERIFIED APPLIED — spot-checked this session (Right association: the Sigalovada four-friends blockquote carries its KSW translation carrier and the verse rendered as the source's list; no mechanism claim found on the page); the w1l QC rounds are documented in the worker's records. The state flag was stale. [ORIGINAL: Reopened for QC: QC repair round 3: source-bounded prose per advisor]",
@@ -108,7 +108,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-22T15:20:57+00:00",
+ "updated": "2026-10-23T14:05:13+00:00",
  "band_done": false,
  "new_concepts": [
   {
