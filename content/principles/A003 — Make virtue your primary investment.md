@@ -51,7 +51,9 @@ In II.5 he argues that [[Virtue|Virtue (arete)]] is not a passion, because "we f
 - **[[De|De as embodied character-power]]** (Laozi, Daodejing 51)
 - **[[De|De — virtue as investment]]** (Daoism, Daodejing 51)
 - **[[Arete|Arete]]** (Aristotelianism)
+## Related concepts
 
+- [[T012 — Laozi]]: de, the character-power virtue earns (Daodejing 51)
 
 <!-- fc: reflections
 Which of your good deeds could you do reliably in any mood, and which depend on circumstances being kind? What is the difference between those two groups, in terms of who you've become?
