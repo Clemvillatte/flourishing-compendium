@@ -25,12 +25,12 @@
   "Kierkegaard": "REOPENED for QC (word budgets): Core ideas 75 (need 150); narrative total 215 (need 250). Flagged defects resolved; remaining: expand Core ideas + narrative from opened sk_wiki.txt. Done-status withdrawn.",
   "Carl Rogers": "QC round 4 (advisor): six-condition numbering and PDF passages supported; format six conditions as readable list; present necessity/sufficiency as Rogers theoretical claim [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
   "Marcus Aurelius": "QC round 4 (advisor): \"Three themes carry most of it\" framing needs verification or replacement [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
-  "Richard Ryan & Edward Deci": "REOPENED for QC (word budgets): Core ideas 109 (need 150); narrative total 230 (need 250). Flagged defects resolved; remaining: expand Core ideas from the opened selfdeterminationtheory.org PDF. Done-status withdrawn.",
+  "Richard Ryan & Edward Deci": "RESOLVED 2026-10-23 by worker-pplx-t1b-2233: Core ideas expanded to 172 and narrative to 275 with verbatim additions from the freshly opened selfdeterminationtheory.org 2000 PDF (nutriment passage, vitality line, internalization line, healthy-children passage); lead-paragraph grammar repaired; all quoted fragments re-verified verbatim against the opened carrier. Earlier REOPEN note superseded.",
   "Steven Hayes": "RESOLVED 2026-10-23 by worker-pplx-t1b-2233: narrative rebuilt to budget (story 147 / why 100 / position 79 / total 326) with newly opened New Harbinger 2006 + Carlat 2026 carriers, verbatim quotes verified against raw unprompted fetches, advisor QC round-1 repairs applied. Earlier REOPEN note superseded.",
   "James Gross": "REOPENED for QC (word budgets): story 27 (need 60); Core ideas 97 (need 150); narrative total 193 (need 250). Flagged defects resolved; remaining: expand story + Core ideas from opened g2002.txt/g2015.txt. Done-status withdrawn."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T11:32:35+00:00",
+ "updated": "2026-10-23T11:36:26+00:00",
  "band_done": false
 }
