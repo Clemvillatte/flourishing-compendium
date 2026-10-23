@@ -16,6 +16,17 @@ Advisor QC: independent editorial/source review requested on the first draft. Bo
 
 Scope: frontmatter, protected sections, inherited links and source entries retained. The old Dhammapada 248 source entry is preserved even though the revised prose does not rely on it. Inherited psychology/philosophy parallels are not certified by this item-level source check.
 
+## B113: gratitude and the conditions for patience
+
+Opened with fetch on 2026-10-23:
+
+- [Judy Lief, Lojong Slogans, Tricycle](https://tricycle.org/article/lojong-slogans/): “Be grateful to everyone” is slogan thirteen. No claim that the slogan is a line from Shantideva.
+- [Shantideva, A Guide to the Bodhisattva's Way of Life, Stephen Batchelor translation, LTWA (1979)](https://shantidevanyc.org/wp-content/uploads/2025/09/Bodhisattvas-Way-of-Life-by-Stephen-Batchelor.pdf): title-page translator/publisher details and chapter 6, verses 103–113, opened. The existing Buddhist Library carrier was also opened. Verse 111 retained verbatim, allowing line-wrap normalization.
+
+Rewrite: explain the patience argument instead of paraphrasing it awkwardly; replace the journaling-only Plain words with an everyday re-derivation; make the illustration involve actual hostility, a boundary and restraint.
+
+Advisor QC: corrected two distinct replies. Verse 109 answers the lack of helpful intention with the Dharma analogy. Verses 110–111 address harmful intention by contrasting a hostile person with a doctor. “Patience” replaces the looser “restraint” when describing the textual analogy. The refusal example and mistreatment boundary are expressly compendium applications, not an attributed protocol or evidence of treatment efficacy. Final draft: 246 prose words; no hard validation errors.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.

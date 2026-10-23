@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 113** — Be grateful to everyone (lojong)
 
-The lojong slogan list reproduced in Tricycle includes, as slogan thirteen of fifty-nine, "Be grateful to everyone". (Lojong slogans.) In a related discussion, Shantideva considers why an enemy can be acknowledged as a condition for practising patience. The argument runs through verses 107-111 of the Guide's patience chapter: like a treasure appearing in your house without effort, an enemy assists the conduct of awakening, and the first fruits of patience belong to the one who was its cause; the enemy need not intend any benefit, which is exactly the point verses 109-111 press. (Shantideva, Guide, chapter 6.)
+“Be grateful to everyone” is slogan thirteen in the lojong list presented by Judy Lief. ([Tricycle](https://tricycle.org/article/lojong-slogans/)) A related argument in Shantideva's patience chapter asks us to recognise what even a hostile person makes possible: practising patience with someone who means us no good. Just as a person in need gives us an occasion for generosity, an adversary gives us an occasion for patience. ([Guide, 6.104–110](https://shantidevanyc.org/wp-content/uploads/2025/09/Bodhisattvas-Way-of-Life-by-Stephen-Batchelor.pdf))
 
 > "Thus since patient acceptance is produced
 > In dependence upon (one with) a very hateful mind,
@@ -20,12 +20,12 @@ The lojong slogan list reproduced in Tricycle includes, as slogan thirteen of fi
 > just like the sacred Dharma,
 > Because he is a cause of patience." (Shantideva, Guide, chapter 6, v. 111, [Batchelor translation](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Shantideva/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life%20-%20%20Stephen%20Bachelor%20tra/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life.pdf))
 
-As a compendium exercise, consider whether a difficult encounter offered a particular opportunity to practise patience.
+Shantideva anticipates two objections. The enemy has no intention to help; neither does the Dharma, he replies, yet it deserves veneration as a cause of practice. The enemy intends harm; that hostility, he adds, gives patience its occasion, unlike the intention of a doctor trying to help. ([Guide, 6.109–111](https://shantidevanyc.org/wp-content/uploads/2025/09/Bodhisattvas-Way-of-Life-by-Stephen-Batchelor.pdf))
 
 **Plain words**
-Think of a recent difficult exchange. Write down what was asked of you and how you answered. Is there an opportunity to practise patience that you can acknowledge?
+It is easy to imagine yourself patient when nobody is provoking you. The difficult person gives that wish something to work on. You may be grateful for the restraint you learnt in an encounter while still judging the demand unfair and refusing it. This is the compendium's everyday application of Shantideva's argument, not a requirement to seek out mistreatment. ([Guide, 6.104–111](https://shantidevanyc.org/wp-content/uploads/2025/09/Bodhisattvas-Way-of-Life-by-Stephen-Batchelor.pdf))
 
-*For example:* Imagine a freelancer declining an unreasonable deadline. Later, they consider how they handled the exchange and what they would do differently.
+For example: A client calls you lazy for declining overnight work. You might draft a retaliatory reply and a firm reply that states your available hours. Compare whether each sets the same boundary without an insult. Send the firm version; after another difficult exchange, review the actual words and retain the approach that let you refuse without retaliation. The gratitude can be private: this encounter gave you a chance to practise.
 
 ## Related concepts
 
@@ -35,6 +35,7 @@ Think of a recent difficult exchange. Write down what was asked of you and how y
 
 - [Train Your Mind: The 59 Lojong Slogans, Tricycle](https://tricycle.org/article/lojong-slogans/) — slogan 13, "Be grateful to everyone"
 - [Shantideva, A Guide to the Bodhisattva's Way of Life, Batchelor translation (PDF)](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Shantideva/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life%20-%20%20Stephen%20Bachelor%20tra/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life.pdf) — chapter 6, the patience chapter, verses 107-111
+- [Shantideva, A Guide to the Bodhisattva's Way of Life, Stephen Batchelor translation, Library of Tibetan Works & Archives (1979)](https://shantidevanyc.org/wp-content/uploads/2025/09/Bodhisattvas-Way-of-Life-by-Stephen-Batchelor.pdf) — title pages; chapter 6, verses 103–113
 
 ## Psychology parallels
 
