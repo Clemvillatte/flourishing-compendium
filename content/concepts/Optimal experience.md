@@ -17,7 +17,7 @@ The same study found that, regardless of the quality of experience, respondents 
 
 ### The finding's shape
 
-The design gives the finding its shape. With self-reports sampled randomly through the day, the same person's experience can be compared across contexts and across states, so the comparison runs between flow and setting rather than between people ([Csikszentmihalyi and LeFevre, 1989, abstract](https://pubmed.ncbi.nlm.nih.gov/2724069/)). The result, that flow matters more to the quality of experience than the work-leisure setting, is a claim about what carries that quality.
+The design gives the finding its shape. With self-reports sampled randomly through the day, the method follows each person across the day's contexts and states ([Csikszentmihalyi and LeFevre, 1989, abstract](https://pubmed.ncbi.nlm.nih.gov/2724069/)). The result, that every measured variable except relaxation and motivation is more affected by flow than by whether the respondent is working or in leisure, is a claim about what carries the quality of experience.
 
 ## Sources
 

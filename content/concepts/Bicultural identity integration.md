@@ -14,7 +14,7 @@ Bicultural identity integration (BII) names the degree to which a bicultural ind
 
 ### The predictors and the instruments
 
-The study also tested what predicts BII: Big Five personality traits, and acculturation measures including acculturation stress, acculturation attitudes and bicultural competence. Differences in BII, acculturation stress and bicultural competence were measured with new instruments developed for the study ([abstract](https://pubmed.ncbi.nlm.nih.gov/15958143/)). The label names a perception rather than a demographic fact: two people with the same pair of cultural backgrounds can sit anywhere on both dimensions. The sample was Chinese American biculturals, so the two-component finding is a claim about this construct as measured in that sample, not a general law of bicultural life.
+The study also tested what predicts BII: Big Five personality traits, and acculturation measures including acculturation stress, acculturation attitudes and bicultural competence. Differences in BII, acculturation stress and bicultural competence were measured with new instruments developed for the study ([abstract](https://pubmed.ncbi.nlm.nih.gov/15958143/)). The label names a perception: BII measures the perceived relation between the two identities, so it concerns how the person perceives that relation rather than the pair of backgrounds itself. The sample was Chinese American biculturals, so the two-component finding is a claim about this construct as measured in that sample, not a general law of bicultural life.
 
 ### What the construct adds
 

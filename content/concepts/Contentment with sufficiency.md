@@ -22,7 +22,7 @@ Chapter 46 states the reasoning directly:
 
 > "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency." (Daodejing 46, [Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapter opens with a political image on the same scale: when the Tao prevails in the world, swift horses go back to drawing dung-carts; when the Tao is disregarded, war-horses breed in the border lands. Private discontent and public war are treated as one disorder, and in both cases the fault lies in the wish to be getting. The verse in chapter 44 asks the question this reasoning answers: knowing what is enough removes the fear and blame that follow from wanting past it.
+Chapter 44 opens with the pricing already done as a set of questions: fame or life, which do you hold more dear; life or wealth, to which would you adhere; keep life and lose those other things, or keep them and lose your life. Chapter 46 then opens with a political image on the same scale: when the Tao prevails in the world, swift horses go back to drawing dung-carts; when the Tao is disregarded, war-horses breed in the border lands. The verse in chapter 44 asks the question this reasoning answers: knowing what is enough removes the fear and blame that follow from wanting past it.
 
 The compendium's exercise reading, which treats contentment as a bound set in advance before wanting escalates, is the compendium's application, not the chapters' wording.
 

@@ -19,7 +19,7 @@ Iser traces mutual recognition through Fichte and Hegel. His account presents He
 
 ### Why misrecognition leads to struggle
 
-The entry summarises the tradition's hinge between harm and politics: as experiences of misrecognition violate the identity of subjects, the affected are particularly motivated to stand up against such violations, to engage in a "struggle for recognition" ([Iser, SEP entry on Recognition](https://plato.stanford.edu/entries/recognition/)). The tradition's politics grows out of that mechanism: violations of standing produce resistance.
+The entry presents the tradition's hinge between harm and politics as a theoretical claim rather than a settled finding: experiences of misrecognition are described as violating the identity of subjects, and the affected are supposed to be particularly motivated to stand up against such violations, to engage in a "struggle for recognition" ([Iser, SEP entry on Recognition](https://plato.stanford.edu/entries/recognition/)).
 
 ### In the compendium
 

@@ -15,7 +15,7 @@ The Mindful Self-Compassion (MSC) program is an 8-week workshop designed to trai
 
 ### The evidence
 
-The pilot (N = 21) and the randomized controlled trial (treatment group N = 25, waitlist control N = 27) measured change in self-compassion, mindfulness and wellbeing; the trial found the treatment group improved more than the waitlist control, and gains were maintained at 6-month and 1-year follow-ups. The authors' conclusion is cautious: the program "appears to be effective at enhancing self-compassion, mindfulness, and wellbeing" (Neff & Germer, 2013, [abstract](https://pubmed.ncbi.nlm.nih.gov/23070875/)). The participants were community adults, mostly women in middle age; the studies do not speak to how the program fares in clinical populations.
+Study 1 was a pilot among community adults (N = 21); Study 2 compared a treatment group (N = 25) with a waitlist control (N = 27). The conclusion the abstract draws is cautious: the program "appears to be effective at enhancing self-compassion, mindfulness, and wellbeing" (Neff & Germer, 2013, [abstract](https://pubmed.ncbi.nlm.nih.gov/23070875/)). The samples were community adults, mostly women around fifty (the pilot: mean age 51.26, 95% female). The abstract reports community samples; it does not report results for clinical populations.
 
 ## Related concepts
 

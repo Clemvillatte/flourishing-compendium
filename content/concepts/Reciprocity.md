@@ -25,7 +25,7 @@ The norm is one support for exchange among others. Gouldner observes that if one
 
 ### Starting things
 
-The norm also operates at the start of relationships. People are continually brought together in new combinations, and Gouldner suggests that the norm of reciprocity is one among the starting mechanisms by which ephemeral contacts settle into social systems ([pp. 176-177](http://kpolanyi.scoolaid.net:8080/xmlui/handle/10694/347)). A first small service creates a reason for a second. Axelrod's later work asks under what conditions cooperation emerges in a world of egoists without central authority, and answers that cooperation based on reciprocity can be self-policing ([[SO039|Axelrod's durability-of-relationship account]]).
+The norm also operates at the start of relationships. People are continually brought together in new combinations, and Gouldner suggests that the norm of reciprocity is one among the starting mechanisms by which ephemeral contacts settle into social systems ([pp. 176-177](http://kpolanyi.scoolaid.net:8080/xmlui/handle/10694/347)). A first small service creates a reason for a second. The compendium's SO039 records Axelrod's later answer to the question of how cooperation holds up over time: cooperation based on reciprocity can be self-policing ([[SO039|Axelrod's durability-of-relationship account]]).
 ## Related concepts
 
 
