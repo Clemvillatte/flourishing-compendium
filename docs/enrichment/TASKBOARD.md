@@ -3243,3 +3243,27 @@ cannot absorb the leftovers; a released-band worker taking them at the fast-trac
 ownership checks is the designed route). Keep the per-item ownership checks and the Daoist/Buddhist
 priority; log each item in the w1a state; no new band minted. Zhi zu validated ok at the fast-track
 bar this pass (commit 0b099ca48).
+
+## OWNER-DIRECTED INTAKE 2026-10-23 — Hypo-egoic phenomena (concept) and Lisa Feldman Barrett (thinker)
+
+Owner direction received in-session: "Make sure that Hypo-egoic Phenomena and Thinker: Lisa
+Feldman Barrett are queued." Both are now queued (owner-directed; recorded here for the
+supervisor because queue files are normally supervisor-minted):
+
+1. CONCEPT — "Hypo-egoic phenomena": created as a seed page per the PROTOCOL.md §4 owner
+   rule (a) relevant to the wiki goal, (b) no existing concept represents it (title/mention
+   scans clean), (c) real opened source: [The Oxford Handbook of Hypo-egoic Phenomena,
+   Brown & Leary (eds.) 2016](https://academic.oup.com/edited-volume/28342), volume
+   abstract fetched and quoted verbatim (DOI 10.1093/oxfordhb/9780199328079.001.0001).
+   Validator ok (--fast-track; seed prose 113 words, under the 150 floor as a seed).
+   Added to queue-concepts.json (degree 0, prose_words 113) so the next concept band can
+   rebuild it on the full framework. Related links seeded to existing family pages:
+   Flow, Mindfulness, Awe, Equanimity, Humility, Self-transcendence, Ego dissolution,
+   Decentering.
+2. THINKER — "Lisa Feldman Barrett" queued as T057 in queue-thinkers.json, mentions 1
+   (the 5-dir scan: content/concepts/Theory of constructed emotion.md, which cites
+   Barrett 2017 SCAN with an open PMC link). NOTE for the supervisor: the extension
+   proposal's triage threshold was file-count based; this addition is owner-directed and
+   below the queue-tail magnitude (Neff 45 files) — flagged here so the mint methodology
+   note stays honest. Her constructed-emotion theory is already substantively used by the
+   corpus (interoception, affect, emotion theory pages will benefit from the thinker page).

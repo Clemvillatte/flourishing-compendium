@@ -98,3 +98,12 @@ currently unminted (t1c/t1d), 11 proposed. Graph integration is unaffected: the 
 graph is UNDIRECTED (a [[wikilink]] from the thinker page already creates the graph
 edge), so new pages integrate on mint; reciprocal backlinks remain a navigation and
 page-prose improvement, not a graph-edge requirement.
+
+## Addendum (2026-10-23, owner-directed): Lisa Feldman Barrett added to the queue
+
+The owner directed Barrett's addition in-session; she is now T057 in
+`docs/enrichment/queue-thinkers.json` (mentions 1: content/concepts/Theory of constructed
+emotion.md). This addition is owner-directed and sits below the queue-tail triage
+magnitude (the queue tail starts around 16-45 files); it is recorded here so the
+representativeness analysis above keeps its methodology note intact. The corpus already
+engages her theory of constructed emotion substantively on the interoception/affect side.
