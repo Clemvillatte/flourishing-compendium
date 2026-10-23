@@ -13,16 +13,16 @@ In their review, Nisbett and Wilson gathered evidence that people may have littl
 
 > "Evidence is reviewed which suggests that there may be little or no direct introspective access to higher order cognitive processes. Subjects are sometimes (a) unaware of the existence of a stimulus that importantly influenced a response, (b) unaware of the existence of the response, and (c) unaware that the stimulus has affected the response." (Nisbett & Wilson, 1977, Psychological Review 84(3), 231–259, [abstract](https://home.csulb.edu/~cwallis/382/readings/482/nisbett%20saying%20more.pdf))
 
-The review concerns reports about processes linking stimuli to responses, and the authors allow that such reports can be accurate when the influential stimuli are salient and are plausible causes of the responses they produce.
+The review concerns reports about processes linking stimuli to responses, and the authors allow that such reports can be accurate when the influential stimuli are salient and are plausible causes of the responses they produce. The compendium's practical reading: first-person reports are data, not verdicts, and they need the same checking any other testimony needs.
 
 ## Related concepts
 
-- [[Introspection illusion]] — listed for comparison
-- [[Self-perception theory]] — listed for comparison
-- [[Cognitive biases]] — listed for comparison
+- [[Introspection illusion]] — the overconfidence in one's own explanations
+- [[Self-perception theory]] — Bem's account of knowing self as one knows others
+- [[Cognitive biases]] — the systematic errors introspection misses
 - [[Phenomenological psychology]] — the reliability worry disciplined description answers
-- [[Meta-awareness]] — listed for comparison
-- [[Narrative identity]] — listed for comparison
+- [[Meta-awareness]] — the trained noticing that does better than raw introspection
+- [[Narrative identity]] — the self-story introspection writes after the fact
 
 ## Sources
 

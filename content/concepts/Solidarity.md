@@ -40,11 +40,11 @@ The Stanford entry lists objections to solidarity itself. One is Shklar's warnin
 
 ## Related concepts
 
-- [[P137]] — listed for comparison
-- [[Redescription]] — listed for comparison
-- [[Moral circle expansion research]] — listed for comparison
-- [[Empathy]] — listed for comparison
-- [[Compassion]] — listed for comparison
+- [[P137]] — the principle this page grounds
+- [[Redescription]] — Rorty's vocabulary shift that solidarity names
+- [[Moral circle expansion research]] — the research on whom solidarity extends to
+- [[Empathy]] — the feeling solidarity organizes
+- [[Compassion]] — the concern that motivates standing with others
 
 ## Sources
 

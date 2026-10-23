@@ -42,12 +42,12 @@ Both sources are abstracts, so the effect sizes and methods are not covered here
 
 
 
-- [[MO057]] — listed for comparison
-- [[Intrinsic versus extrinsic goals]] — listed for comparison
-- [[Right intention]] — listed for comparison
-- [[Self-concordant goal pursuit over time]] — listed for comparison
-- [[Goal setting theory (Locke & Latham)]] — listed for comparison
-- [[Intrinsic motivation]] — listed for comparison
+- [[MO057]] — the principle this theory grounds
+- [[Intrinsic versus extrinsic goals]] — the goal taxonomy the theory sorts with
+- [[Right intention]] — the Eightfold Path's version of aims that are truly one's own
+- [[Self-concordant goal pursuit over time]] — the longitudinal follow-on of the theory
+- [[Goal setting theory (Locke & Latham)]] — the mechanics of goals; this theory is about which goals
+- [[Intrinsic motivation]] — the motivational core self-concordance builds on
 ## Sources
 
 - Sheldon and Elliot, 1999

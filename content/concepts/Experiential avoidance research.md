@@ -19,13 +19,13 @@ In the study's own data, from 240 analyzed participants recruited at Spanish com
 
 ## Related concepts
 
-- [[Acceptance]] — listed for comparison
-- [[Cognitive defusion]] — listed for comparison
-- [[Exposure processes]] — listed for comparison
-- [[Chronic pain research]] — listed for comparison
-- [[Focusing]] — listed for comparison
+- [[Acceptance]] — the opposite stance the research measures against
+- [[Cognitive defusion]] — the related technique of unhooking from thoughts
+- [[Exposure processes]] — the behavioural route through what avoidance blocks
+- [[Chronic pain research]] — the clinical domain where avoidance costs most
+- [[Focusing]] — Gendlin's method of turning toward the felt sense
 - [[Experiential avoidance theory]] — the construct's theoretical account
-- [[Psychological flexibility]] — listed for comparison
+- [[Psychological flexibility]] — the flexibility the avoidance undermines
 
 ## Sources
 

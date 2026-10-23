@@ -35,11 +35,11 @@ Her 2005 review adds a practical point: "simply instructing people to ignore goa
 
 ## Related concepts
 
-- [[Load theory of attention]] — listed for comparison
-- [[Attention]] — listed for comparison
-- [[Inattentional blindness]] — listed for comparison
-- [[Working memory capacity limits]] — listed for comparison
-- [[Attentional bias research]] — listed for comparison
+- [[Load theory of attention]] — the modern successor to the filter
+- [[Attention]] — the parent construct the filter model describes
+- [[Inattentional blindness]] — what filtering costs at the unattended channel
+- [[Working memory capacity limits]] — the bottleneck the filter protects
+- [[Attentional bias research]] — the clinical applications of selective filtering
 
 ## Facets
 
