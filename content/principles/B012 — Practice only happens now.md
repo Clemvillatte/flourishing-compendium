@@ -25,6 +25,10 @@ You can treat an ordinary part of the day as a waiting room for the next part. T
 
 For example: You are eating lunch while rehearsing an afternoon meeting. Try putting the rehearsal into a short note, then return to the next bite. Compare this with continuing the rehearsal throughout lunch: what do you remember of the meal, and did the note preserve the point you needed? Keep the approach that lets the meal be a meal without losing a useful plan. This is a compendium experiment, not the full practice described in either sutta.
 
+## Related concepts
+
+- [[T035 — Thich Nhat Hanh]]: washing the dishes to wash the dishes, the page's opening illustration
+
 ## Sources
 
 - [MN 131, Bhaddekaratta Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.131.than.html) — past, future, present quality
