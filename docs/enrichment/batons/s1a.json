@@ -81,5 +81,7 @@
    "from": "storyteller-perplexity-1022d",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-23T06:56:51+00:00"
 }
