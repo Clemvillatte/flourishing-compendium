@@ -41,7 +41,8 @@
   "Valuation as inquiry",
   "Value-based living",
   "Values-concordant goals",
-  "Values-driven life"
+  "Values-driven life",
+  "Verificationism"
  ],
  "in_progress": null,
  "flagged": {
@@ -62,6 +63,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:52:02+00:00",
+ "updated": "2026-10-23T05:52:13+00:00",
  "band_done": false
 }
