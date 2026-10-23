@@ -34,7 +34,7 @@ Ethics · Psychological science
 ## Related concepts
 
 - [[Care]] — the theory that grew from Noddings's analysis of care
-- [[Justice]] — listed for comparison
+- [[Justice]] — the rival framework care ethics defines itself against
 - [[Different voice]] — Gilligan's name for the care orientation that care ethics builds on
 - [[Empathy]] — the perceptual side of attentiveness
 - [[Ubuntu|Ubuntu]] — a relational ethics from another tradition

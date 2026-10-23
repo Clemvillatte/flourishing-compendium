@@ -23,7 +23,7 @@ On her account the nihilist is close to the spirit of seriousness: unable to be 
 
 
 - [[Eternal recurrence]] — early readers located the doctrine's function in Nietzsche's critique of nihilism (SEP)
-- [[Will to power]] — listed for comparison
+- [[Will to power]] — the Nietzschean counter-answer to nihilism's devaluation
 - [[Life affirmation]] — the counter-position the compendium sets against nihilism
 - [[Passive nihilism]] — the exhausted form of the position, as the compendium's page on it presents it
 

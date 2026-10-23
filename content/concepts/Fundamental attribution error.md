@@ -36,10 +36,10 @@ The original entry's claim about a reversal of self-serving attribution in depre
 
 ## Related concepts
 
-- [[Self-serving attribution bias]] — listed for comparison
-- [[Naive realism]] — listed for comparison
-- [[Situationism]] — listed for comparison
-- [[Attribution research]] — listed for comparison
+- [[Self-serving attribution bias]] — the self-protective cousin of the same attribution habit
+- [[Naive realism]] — the belief that one's read of a person is simply how they are
+- [[Situationism]] — the situation-side account the error overlooks
+- [[Attribution research]] — the research family the error belongs to
 
 ## Other formulations in this library
 

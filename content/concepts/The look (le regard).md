@@ -24,7 +24,7 @@ The Stanford Encyclopedia's Sartre entry describes the experience: absorbed at a
 
 ## Related concepts
 
-- [[The face]] — listed for comparison
+- [[The face]] — the Levinasian counter-concept to the objectifying look
 
 ## Sources
 

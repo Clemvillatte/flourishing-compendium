@@ -19,13 +19,13 @@ The compendium reads the two-form definition as the hinge between feeling and ac
 
 - [[BE036 — Learn to build tolerance for discomfort — approach despite discomfort]] — the behavioral act in the definition
 - [[B183 — Ride strong emotions without acting]] — withstanding the state without acting on it
-- [[CO052 — Cultivate dialectical thinking — hold contradictions without forcing resolution]] — listed for comparison
-- [[Y118 — Bear the opposites]] — listed for comparison
-- [[AF006 — Accept mixed feelings; do not force them to resolve]] — listed for comparison
-- [[Y025 — Treat restlessness as weather, not as enemy]] — listed for comparison
-- [[M002 — Expect the cosmos itself to be motion]] — listed for comparison
-- [[D007 — Hold yin and yang together]] — listed for comparison
-- [[A005 — Choose the mean, not the extreme]] — listed for comparison
+- [[CO052 — Cultivate dialectical thinking — hold contradictions without forcing resolution]] — the dialectic behind the therapy's own name
+- [[Y118 — Bear the opposites]] — the Bhagavad Gita's version of tolerating opposing states
+- [[AF006 — Accept mixed feelings; do not force them to resolve]] — the affect-side form of the same tolerance
+- [[Y025 — Treat restlessness as weather, not as enemy]] — the acceptance stance distress tolerance trains
+- [[M002 — Expect the cosmos itself to be motion]] — the Stoic cosmology behind tolerating turbulence
+- [[D007 — Hold yin and yang together]] — the Daoist holding of opposites
+- [[A005 — Choose the mean, not the extreme]] — the Aristotelian mean between overwhelming and suppressing
 
 ## Facets
 

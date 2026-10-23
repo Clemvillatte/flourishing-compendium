@@ -35,8 +35,8 @@ In his account of art, Dewey describes the relation between outgoing and incomin
 ## Related concepts
 
 - [[Art as experience]] — the book whose aesthetics this pair of terms organises
-- [[Organism-environment transaction]] — listed for comparison
-- [[Transaction]] — listed for comparison
+- [[Organism-environment transaction]] — the ecological formulation of the same two-sided process
+- [[Transaction]] — the general form of the exchange doing and undergoing names
 
 ## Sources
 

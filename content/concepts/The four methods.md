@@ -47,10 +47,10 @@ Peirce states its hypothesis as: "There are Real things, whose characters are en
 
 ## Related concepts
 
-- [[Pragmatism]] — listed for comparison
-- [[Fallibilism]] — listed for comparison
-- [[Confirmation bias]] — listed for comparison
-- [[Epistemic humility]] — listed for comparison
+- [[Pragmatism]] — the tradition Peirce's four methods of fixing belief belong to
+- [[Fallibilism]] — the epistemology that keeps the scientific method's conclusions revisable
+- [[Confirmation bias]] — the failure mode the method of tenacity protects
+- [[Epistemic humility]] — the virtue real doubt is meant to train
 
 ## Sources
 

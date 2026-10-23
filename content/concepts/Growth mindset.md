@@ -55,7 +55,7 @@ The empirical status is contested. Sisk and colleagues' 2018 twin meta-analyses 
 - [[Mastery orientation]] — the persistence pattern malleability beliefs encourage
 - [[Deliberate practice]] — the practice side of developable skill
 - [[Learned optimism]] — a sibling belief construct from the same attribution lineage
-- [[Education as growth]] — listed for comparison
+- [[Education as growth]] — the Deweyan account of learning that growth mindset echoes
 - [[Achievement goal theory (Dweck, Elliot)]] — the goal framework Dweck associates with the malleable-intelligence belief
 - [[Experience plus reflection]] — the Deweyan pairing of experience and reflection (How We Think, 1910)
 - [[Creative evolution]] — Bergson's 1907 account of life as genuinely new

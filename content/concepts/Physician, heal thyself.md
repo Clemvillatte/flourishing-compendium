@@ -19,7 +19,7 @@ As the proverb is used outside the scene, it names a standing test of anyone who
 
 - [[Authenticity]] — the life matching the words the proverb tests
 - [[Integrity (integritas — wholeness)]] — the wholeness of self and teaching the proverb presses toward
-- [[Limits of introspection]] — listed for comparison
+- [[Limits of introspection]] — the boundary page on what self-examination can and cannot reach
 
 ## Sources
 

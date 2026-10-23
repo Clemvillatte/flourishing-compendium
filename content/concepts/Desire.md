@@ -29,7 +29,7 @@ The Stanford Encyclopedia maps the main theoretical options: on the most widely 
 ## Related concepts
 
 
-- [[Natural and necessary]] — listed for comparison
+- [[Natural and necessary]] — the Epicurean classification that disciplines desire
 
 - [[Tanha]] — the Buddhist analysis of craving
 
