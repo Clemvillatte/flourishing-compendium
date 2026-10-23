@@ -9,7 +9,8 @@
   "Aaron Beck",
   "Kierkegaard",
   "Rogers",
-  "Marcus Aurelius"
+  "Marcus Aurelius",
+  "Richard Ryan & Edward Deci"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,12 +23,12 @@
   "Kierkegaard": "QC round 4 (advisor): Storm excerpts have passage-level support; dates 1813-1855 still unsourced; leap/stages/repetition bullets need evidence",
   "Carl Rogers": "QC round 4 (advisor): six-condition numbering and PDF passages supported; format six conditions as readable list; present necessity/sufficiency as Rogers theoretical claim",
   "Marcus Aurelius": "QC round 4 (advisor): \"Three themes carry most of it\" framing needs verification or replacement",
-  "Richard Ryan & Edward Deci": "QC round 4 (advisor): abstract quote still omits \"(SDT)\"; Rochester affiliation needs 2000 scoping",
+  "Richard Ryan & Edward Deci": "SUPERVISOR FLAG: ryan-deci-reciprocal.md proposes A-book (Aristotle) backlinks to T015 — cross-tradition proposals that the owner's thinker-gating rule excludes; filter before apply",
   "Steven Hayes": "QC round 4 (advisor): APA and ACBS retrievals failed — find accessible carrier or remove the unsupported quotes and claims",
   "James Gross": "QC round 4 (advisor): 2002 PDF supports definition and five-point model; Gross 2015 and Sheppes 2015 claims need their own opens or omission"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:27:05+00:00",
+ "updated": "2026-10-23T06:28:23+00:00",
  "band_done": false
 }
