@@ -118,3 +118,35 @@ rather than kept unverified. Every remaining card target (40 unique) was
 verified against actual content/ file names by script; 0 unresolved.
 
 Commit ef2601c.
+
+## Revision 4 (2026-10-23, worker-pplx-dossiers-1025) — final session state
+
+Repairs applied in this pass, all pushed to origin/main:
+
+- NE IV.9 locator for nemesis corrected to NE II.7: the Internet Classics
+  Archive carrier was opened and Book IV section 9 is about shame, not
+  indignation. The indignation mean is catalogued in Book II chapter 7's
+  table of virtues. The concept page's own locator (NE IV.9) is wrong and
+  should be corrected by the concept band.
+- Affect labeling claim scoped to the Lieberman et al. 2007 finding:
+  diminished amygdala response during labeling, not self-reported
+  intensity reduction.
+- Carlsmith "single lab game" limitation removed: the study's methods were
+  not opened to establish that detail; the remaining unresolved note says
+  only "measured in a laboratory setting."
+- Anger Academy-data schema aligned with The Self: practice kernels now
+  render as numbered n blocks (6), not hidden inside a vs body field the
+  renderer ignores.
+- dossierRich extended to convert plain markdown carrier links
+  ([label](https://...)) in quote attributions into anchors; previously
+  they rendered as literal text on both dossiers.
+- The Self em-dash separators normalized (161 markdown lines, 12 Academy
+  blocks) per the HUMANIZER no-em-dash rule; quoted passages keep their
+  original dashes.
+- Two The Self Academy-data blocks (Self-regulation, Ego depletion) still
+  carried the truncated descriptions after the markdown fix; both completed
+  in this pass.
+
+Final state on origin/main: the-self 200 blocks (0 truncated, 0 non-quote
+em dashes, 160 card targets resolve); anger 75 blocks (0 truncated, 0
+non-quote em dashes, 40 card targets resolve).
