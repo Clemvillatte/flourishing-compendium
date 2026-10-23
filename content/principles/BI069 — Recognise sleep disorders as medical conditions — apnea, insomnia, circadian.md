@@ -23,6 +23,10 @@ Snoring with gasping, chronic insomnia and persistent daytime sleepiness are thi
 
 *For example:* someone whose partner reports the gasping pattern takes the report to their doctor instead of shrugging it off as how they have always slept ([NHLBI](https://www.nhlbi.nih.gov/health/sleep-apnea)).
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-sleep parallel the page draws for sleep as medical condition.
+
 ## Sources
 
 - [NHLBI, "What Is Sleep Apnea?"](https://www.nhlbi.nih.gov/health/sleep-apnea) — signs and treatment

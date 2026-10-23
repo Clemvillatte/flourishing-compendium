@@ -21,6 +21,10 @@ Curiosity needs somewhere to go. Give one thing you do not know a regular slot: 
 
 *For example:* A 60-year-old joins a beginner's Spanish class and is the worst student in the room. Fluency was never the aim. Being someone still learning was.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-as-learning parallel the page cites.
+
 ## Psychology parallels
 
 - **Adult cognitive plasticity** (Lövdén et al., 2010)

@@ -26,6 +26,10 @@ A tracker is a mirror with known distortions, and the distortions differ by what
 **For example**
 (Imagined) Someone who believes they "sleep fine" wears a tracker for a month: the tracker agrees about the sleep, disagrees about the wake-ups, and the month of notes shows the pattern the impressions missed. The tracker did not settle the question; it made the pattern visible.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-data parallel behind the page's state tracking.
+
 ## Sources
 
 - [Thayer et al., 2012, Neurosci Biobehav Rev 36(2): 747-56, PubMed](https://pubmed.ncbi.nlm.nih.gov/22178086/) — abstract: meta-analysis of HRV and neuroimaging

@@ -26,6 +26,10 @@ Mood has a pharmacist sometimes. The corticosteroid numbers are the clearest cas
 **For example**
 (Imagined) Six weeks into a prednisone course for a chest complaint, someone's family notices agitation and low mood. The timeline, that it started with the prescription, is the useful information; the review appointment is where it goes. The drug is not stopped at home.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-medication parallel the page draws for side effects.
+
 ## Sources
 
 - [Cipriani et al., 2018, Lancet 391(10128): 1357-66, PubMed](https://pubmed.ncbi.nlm.nih.gov/29477251/) — abstract: network meta-analysis of 21 antidepressants

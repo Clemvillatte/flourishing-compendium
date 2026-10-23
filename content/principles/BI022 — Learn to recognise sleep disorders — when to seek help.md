@@ -23,6 +23,10 @@ The principle draws a line between bad nights and medical symptoms. Snoring with
 
 *For example:* someone who says they are "just a bad sleeper" learns from their partner that they gasp in their sleep. The NHLBI sentence ([What Is Sleep Apnea?](https://www.nhlbi.nih.gov/health/sleep-apnea)) is addressed to exactly this person: the symptom came second-hand, and the next step is a provider conversation, not a better pillow.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-sleep parallel the page draws for knowing when to seek help.
+
 ## Sources
 
 - [NHLBI, "What Is Sleep Apnea?"](https://www.nhlbi.nih.gov/health/sleep-apnea) — signs and treatment

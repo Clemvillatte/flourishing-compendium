@@ -24,6 +24,10 @@ Feedback has a measured record too, with a caution attached. A meta-analysis of 
 
 ***For example** someone who reports "barely drinking" keeps a one-line log for two weeks and finds nine glasses of wine in it. Nothing about the moral question has been settled; what changed is that the number is now on the table, and the next decision can be made with it.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-data parallel behind the page's behaviour tracking.
+
 ## Psychology parallels
 
 - **Self-monitoring of behaviour (Michie et al., 2011)**, a named behaviour-change technique (keep a record of specified behaviour as a method for changing behaviour); meta-regression showed self-monitoring interventions were more effective in achieving behaviour change

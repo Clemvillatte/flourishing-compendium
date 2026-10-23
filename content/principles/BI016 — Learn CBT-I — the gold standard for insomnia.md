@@ -22,6 +22,10 @@ The medication comparison is the reason the treatment is called first-line: "sho
 
 *For example:* the "I've tried everything" shelf, everything except the one structured protocol with the Standard grading. Pills rent sleep; CBT-I owns it. Different business models.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-sleep parallel: the examined life includes examined sleep.
+
 ## Sources
 
 - [Schutte-Rodin, Broch, Buysse, Dorsey & Sateia, "Clinical guideline for the evaluation and management of chronic insomnia in adults", Journal of Clinical Sleep Medicine 4(5): 487-504, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2576317/) — quotes checked against the article text, Summary Recommendations and Treatment of Chronic Insomnia sections

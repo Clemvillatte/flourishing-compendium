@@ -34,6 +34,10 @@ Ask which condition, participants and formulation were studied before applying a
 
 Suppose someone is considering fish oil for depressive symptoms. They bring the label to their clinician and ask whether the formulation and evidence are relevant to their care.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-supplements parallel the page draws for evidence and caution.
+
 ## Sources
 
 - [Grosso et al., "Role of Omega-3 Fatty Acids in the Treatment of Depressive Disorders: A Comprehensive Meta-Analysis of Randomized Clinical Trials", PLoS ONE 9(5), e96905 (2014), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013121/) — meta-analysis of 11 + 8 RCTs; pooled 0.38 SD benefit; EPA-majority formulation effect. Quotes checked against the page text. DOI [10.1371/journal.pone.0096905](https://doi.org/10.1371/journal.pone.0096905)

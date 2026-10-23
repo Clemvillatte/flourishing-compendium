@@ -23,6 +23,10 @@ Naming a value leaves a practical question: what will you do this week? The revi
 
 *For example:* someone whose stated value is family, whose month holds no family dinners, books one recurring weekly dinner as that one action.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the values-as-action grounding the page draws from the Apology.
+
 ## Sources
 
 - [Napier & Mangat, "The well-being and ill-being impacts of values clarification interventions," The Journal of Positive Psychology (2026)](https://www.tandfonline.com/doi/full/10.1080/17439760.2026.2714053) — abstract

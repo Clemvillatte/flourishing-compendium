@@ -24,6 +24,10 @@ The stress response is easy to notice in a crisis and easy to miss when it never
 **For example**
 (Imagined) During a heavy month, someone notes more headaches, a shorter temper and worse sleep without deciding what is causing them, and takes the pattern to a doctor rather than to a self-diagnosis.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-stress parallel: knowing your stress signs is part of the examined life.
+
 ## Sources
 
 - [McEwen, 2007, Physiol Rev 87(3): 873-904, PubMed](https://pubmed.ncbi.nlm.nih.gov/17615391/) — abstract: allostatic load, wear and tear

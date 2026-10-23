@@ -306,11 +306,23 @@
   "content/principles/BE031 — Learn to use behavioural experiments for social anxiety — test social predictions.md",
   "content/principles/BE039 — Learn CBT-I — the gold standard for insomnia.md",
   "content/principles/BE058 — Learn to balance solitude and sociality — both are needed.md",
-  "content/principles/BE061 — Engage in helping behaviour — contribute to others.md"
+  "content/principles/BE061 — Engage in helping behaviour — contribute to others.md",
+  "content/principles/BE062 — Engage in meaning-driven behaviour — act on values.md",
+  "content/principles/BE066 — Engage in learning behaviour — growth through curiosity.md",
+  "content/principles/BE077 — Learn to assess and monitor behaviour — track what you do.md",
+  "content/principles/BE078 — Build behavioural maintenance — ongoing practice and adaptation.md",
+  "content/principles/BI016 — Learn CBT-I — the gold standard for insomnia.md",
+  "content/principles/BI022 — Learn to recognise sleep disorders — when to seek help.md",
+  "content/principles/BI041 — Learn to consider supplements wisely — evidence and caution.md",
+  "content/principles/BI044 — Learn to recognise chronic stress — signs and symptoms.md",
+  "content/principles/BI062 — Learn to track physiological states — HRV, sleep, energy.md",
+  "content/principles/BI064 — Recognise medication effects on mood — side effects matter.md",
+  "content/principles/BI069 — Recognise sleep disorders as medical conditions — apnea, insomnia, circadian.md",
+  "content/principles/BI071 — Learn to assess and monitor biophysiological health — regular check-ups.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:23:10+00:00",
+ "updated": "2026-10-23T14:23:28+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

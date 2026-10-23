@@ -21,6 +21,10 @@ Feeling well does not rule out a problem that screening can detect: the page's e
 
 *For example:* An imagined patient feels well but asks their provider which check-ups are due. They mention recent sleep changes and let the provider decide whether tests are appropriate.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-body parallel: regular check-ups as part of the examined life.
+
 ## Sources
 
 - [MedlinePlus Medical Encyclopedia, "Physical exam frequency"](https://medlineplus.gov/ency/article/002125.htm) — check-up rule, symptom-free early stages
