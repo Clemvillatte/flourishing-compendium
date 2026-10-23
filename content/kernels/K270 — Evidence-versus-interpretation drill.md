@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K270** — Evidence-versus-interpretation drill
 
-Take a thought that is causing distress. Write down the evidence for it. Then write down the evidence against it. Then write an alternative interpretation. The drill is the core of the CBT thought record, which has its historical roots in Stoic practice. The root is Epictetus's: "Men are disturbed, not by things, but by the principles and notions which they form concerning things. Death, for instance, is not terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death that it is terrible" ([Epictetus, Enchiridion 5, Higginson trans.](https://classics.mit.edu/Epictetus/epicench.html)). The drill is the written version of the Stoic question, which of the two is the thing, and which the notion, asked at the desk with the distressing thought laid out for inspection.
+Take a thought that is causing distress. Write down the evidence for it. Then write down the evidence against it. Then write an alternative interpretation. The drill is the core of the CBT thought record, and the Stoic question behind it is Epictetus's: "Men are disturbed, not by things, but by the principles and notions which they form concerning things. Death, for instance, is not terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death that it is terrible" ([Epictetus, Enchiridion 5, Elizabeth Carter trans.](https://classics.mit.edu/Epictetus/epicench.html)). The drill is the written version of the Stoic question, which of the two is the thing, and which the notion, asked at the desk with the distressing thought laid out for inspection.
 
 ### Protocol
 
@@ -21,7 +21,7 @@ Take a thought that is causing distress. Write down the evidence for it. Then wr
 
 ### Evidence
 
-The CBT base is measured at the review level: "we identified 269 meta-analytic studies and reviewed of those a representative sample of 106 meta-analyses" and "in general, the evidence-base of CBT is very strong", with "the strongest support exist[ing] for CBT of anxiety disorders, somatoform disorders, bulimia, anger control problems, and general stress" ([Hofmann et al. 2012](https://www.europsy.net/app/uploads/2017/08/Hofmann-2012-The-efficacy-of-CBT-a-review-of-meta-analyses.pdf), abstract verbatim). The Stoic ground is quoted above. Scope limits: the review covers CBT packages as delivered in therapy, of which the thought record is one component, so the specific drill inherits the evidence rather than being separately trialled; and the meta-analyses reviewed vary in quality, a point the review's authors themselves flag. The drill is written work where cognitive defusion (K126) is spoken work, and self-distanced reflection (K261) is the viewpoint change that makes both easier.
+The CBT base is measured at the review level: "we identified 269 meta-analytic studies and reviewed of those a representative sample of 106 meta-analyses" and "in general, the evidence-base of CBT is very strong", with "the strongest support exist[ing] for CBT of anxiety disorders, somatoform disorders, bulimia, anger control problems, and general stress" ([Hofmann et al. 2012](https://www.europsy.net/app/uploads/2017/08/Hofmann-2012-The-efficacy-of-CBT-a-review-of-meta-analyses.pdf), abstract verbatim). The Stoic ground is quoted above. Scope limits: the review concerns CBT treatment packages as delivered in therapy and does not establish the effectiveness of this standalone drill; the review's authors judged the included meta-analyses methodologically sound. The drill is written work where cognitive defusion (K126) is spoken work, and self-distanced reflection (K261) is the viewpoint change that makes both easier.
 
 ## Related concepts
 
@@ -38,7 +38,7 @@ The CBT base is measured at the review level: "we identified 269 meta-analytic s
 ## Sources
 
 - [Hofmann, S. G., Asnaani, A., Vonk, I. J. J., Sawyer, A. T., & Fang, A. (2012), "The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses", Cognitive Therapy and Research 36, 427-440 (PDF)](https://www.europsy.net/app/uploads/2017/08/Hofmann-2012-The-efficacy-of-CBT-a-review-of-meta-analyses.pdf): abstract quoted verbatim.
-- [Epictetus, Enchiridion, Chapter 5 (Higginson trans., Internet Classics Archive)](https://classics.mit.edu/Epictetus/epicench.html): passage quoted verbatim.
+- [Epictetus, Enchiridion, Chapter 5 (Elizabeth Carter trans., Internet Classics Archive)](https://classics.mit.edu/Epictetus/epicench.html): passage quoted verbatim.
 
 ## Operationalises
 

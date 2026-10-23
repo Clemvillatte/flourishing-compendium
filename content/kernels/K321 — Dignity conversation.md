@@ -17,7 +17,7 @@ Speak, to someone you trust, a brief account of what has mattered most in your l
 Adapted from the dignity therapy framework. The practice moves the Self, Motivation and Overt behaviour dimensions: the self that is witnessed, the generative wish to hand something on, and the speaking itself.
 
 1. Take a few minutes alone to gather the account: what has mattered most, what you have learned, what you would want someone to know. In the clinical form, a trained therapist records and edits the sessions into a legacy document; here the deliverable is the conversation itself.
-2. Share it aloud with one trusted person, chosen because they receive rather than advise. The clinical evidence points to the experience of being witnessed as the operative part of the therapy, more than the production of the document.
+2. Share it aloud with one trusted person, chosen because they receive rather than advise. For this everyday adaptation, a listener who takes the account in matters more than any record of it.
 3. Let the listener respond in their own words. One conversation is a complete round.
 
 ### Evidence

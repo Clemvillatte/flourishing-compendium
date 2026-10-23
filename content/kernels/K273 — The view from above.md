@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K273** — The view from above
 
-Imagine yourself from a great height: your city, then your country, then the planet. See your concerns from that distance. The exercise is a Stoic contemplative practice that research on self-distancing shows reduces the intensity of negative emotions and broadens perspective. The point is not that your concerns do not matter but that they are smaller than they feel. Marcus Aurelius gives the practice its shape: "From some high place as it were to look down, and to behold here flocks, and there sacrifices, without number; and all kind of navigation; some in a rough and stormy sea, and some in a calm" ([Marcus Aurelius, Meditations IX.29, Long trans.](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm)). The empirical companion is the self-distancing literature: analyzing one's feelings from "the perspective of a distanced observer, akin to a fly on the wall" rather than replaying the event "through one's own eyes" ([Kross & Ayduk 2011](https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf)).
+Imagine yourself from a great height: your city, then your country, then the planet. See your concerns from that distance. The exercise is a Stoic contemplative practice; modern research on self-distancing, which trains a similar observer's stance, reports less distress and lower reactivity, though it does not test the ascent itself. The concerns still matter; they are smaller than they feel. Marcus Aurelius gives the practice its shape: "From some high place as it were to look down, and to behold here flocks, and there sacrifices, without number; and all kind of navigation; some in a rough and stormy sea, and some in a calm" ([Marcus Aurelius, Meditations IX.29, Long trans.](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm)). The empirical companion is the self-distancing literature: analyzing one's feelings from "the perspective of a distanced observer, akin to a fly on the wall" rather than replaying the event through their own eyes ([Kross & Ayduk 2011](https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf)).
 
 ### Protocol
 
@@ -21,13 +21,14 @@ Imagine yourself from a great height: your city, then your country, then the pla
 
 ### Evidence
 
-The empirical base is quoted above: those who analyze negative experiences from a self-distanced perspective "report less distress than those who adopt a self-immersed perspective", and "regardless of whether people are cued to analyze their feelings from a self-distanced perspective or engage in this process spontaneously... they display less cardiovascular reactivity when they analyze their feelings" (Kross & Ayduk 2011, [paper PDF](https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf)). The Stoic base is the passage quoted above from Book IX, chapter 29 of the Long translation (numbered 9.30 in some editions), with its closing sum about fame, honour and acceptance. Scope limits: the self-distancing studies use autobiographical recall of negative experiences in laboratory settings, not the cosmic ascent itself, so the page borrows the mechanism, the observer's perspective, rather than claiming the exercise was tested as written. This page is the visual form of what K261 trains in reflection and K364 trains in visits; the three are one capacity at three distances.
+The empirical base is quoted above: those who analyze negative experiences from a self-distanced perspective "report less distress than those who adopt a self-immersed perspective", and "regardless of whether people are cued to analyze their feelings from a self-distanced perspective or engage in this process spontaneously... they display less cardiovascular reactivity when they analyze their feelings" (Kross & Ayduk 2011, [paper PDF](https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf)). The Stoic base is the passage quoted above from Book IX, chapter 29 of the Long translation, with its closing sum about fame, honour and acceptance. Scope limits: the self-distancing studies use autobiographical recall of negative experiences in laboratory settings, not the cosmic ascent itself, so the page borrows the mechanism, the observer's perspective, rather than claiming the exercise was tested as written. This page is the visual form of what K261 trains in reflection and K364 trains in visits; the three are one capacity at three distances.
 
 ## Related concepts
 
 - [[Perspective-taking]]: the observer's stance is the stance, taken toward oneself
 - [[Cognitive flexibility]]: the ascent and the descent are one interpretation changed by scale
-- [[Hedonic adaptation]]: the concern's inflation is the mechanism the view corrects
+- [[Contentment with sufficiency]]: what the descent leaves, the concern at true scale
+- [[Hedonic adaptation]]: the sister process by which what is steady stops registering
 
 ## Related kernels
 
