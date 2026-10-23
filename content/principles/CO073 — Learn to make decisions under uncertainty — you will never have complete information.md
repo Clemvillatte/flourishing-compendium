@@ -22,6 +22,10 @@ Read carefully, this is a claim about information use in specific environments, 
 
 *For example:* The person who cannot choose the city until more information arrives, versus the one who gets the decisive facts (costs, job, schools), decides, and books the exit ramp. Both faced the same uncertainty; only one of them moved.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the wu wei responsive-action parallel the page draws for deciding without full information.
+
 ## Sources
 
 - [Gigerenzer and Gaissmaier, "Heuristic Decision Making" (2011), Annual Review of Psychology 62, 451-482](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-120709-145346) — abstract quoted verbatim; heuristics and uncertainty

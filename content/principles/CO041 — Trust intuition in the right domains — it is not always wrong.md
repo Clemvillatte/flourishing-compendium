@@ -26,6 +26,10 @@ Trust a gut feeling only in a field where you have had years of quick, clear fee
 **For example**
 An experienced nurse senses that a baby is getting sicker before the tests show it. She has seen many such cases and learned quickly how they turned out. A friend with equal certainty about which stock will rise has had no such training, because prices give no clear feedback on his reasoning. The feelings are the same and the environments are not.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the Cook Ding effortless-skill parallel the page cites for trained intuition.
+
 ## Sources
 
 - [Kahneman and Klein, Conditions for intuitive expertise: a failure to disagree, American Psychologist 64(6) (2009), pp. 515-526](http://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-klein-2009.pdf): p. 517 (NICU nurses), p. 524 (summary points on validity, learning conditions, confidence); opened and text-checked

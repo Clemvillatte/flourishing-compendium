@@ -26,6 +26,10 @@ The same report defines the counterpart, verbatim: "While divergent production e
 
 *For example:* Suppose you need an ending for a story. List three options. On a second pass, ask which best fits the character's motives and revise that one.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the usefulness-of-the-useless parallel behind the page's case for divergent modes.
+
 ## Sources
 
 - [Guilford, "Creativity" (1950), American Psychologist 5(9), 444-454](https://creativityinmusiced.weebly.com/uploads/2/3/8/5/23859476/guilford-1950-creativity.pdf) — address quoted verbatim; neglect of creativity research and his assessment of the four-step account

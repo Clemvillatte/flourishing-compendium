@@ -28,6 +28,10 @@ Apply the warning by asking what a label leaves out. When using a word about you
 
 Imagine you call yourself a procrastinator but begin some tasks promptly in the morning. Describe both the delays and the prompt starts before deciding how well the label fits.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the chapter 2 section 10 criticism the page cites: argumentative words failing to reach their point.
+
 ## Sources
 
 - [The Tao Teh King, trans. James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 1, 32

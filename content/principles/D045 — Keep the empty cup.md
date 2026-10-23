@@ -28,6 +28,10 @@ Every 'I know how this goes' is a lid on the thing it closes. The conversation o
 **For example**
 The veteran teacher who still watches students with fresh eyes catches what the 'seen it all' teacher stops noticing.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the fasting of the mind (Zhuangzi 4) the page names for waiting on things free of pre-occupation.
+
 ## Sources
 
 - [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 11, 71

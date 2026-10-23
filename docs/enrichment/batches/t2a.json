@@ -61,11 +61,19 @@
   "content/principles/BI029 — Learn that yoga and tai chi combine movement, breath, and meditation.md",
   "content/principles/BI049 — Learn to use movement to discharge stress — shake, dance, walk.md",
   "content/principles/BI060 — Learn mindful movement — walking meditation, yoga, tai chi.md",
-  "content/principles/CO013 — Recognise that thinking has a direction — it can be expansive or contracted.md"
+  "content/principles/CO013 — Recognise that thinking has a direction — it can be expansive or contracted.md",
+  "content/principles/CO041 — Trust intuition in the right domains — it is not always wrong.md",
+  "content/principles/CO073 — Learn to make decisions under uncertainty — you will never have complete information.md",
+  "content/principles/CO074 — Cultivate creative thinking — divergent and convergent modes.md",
+  "content/principles/CO080 — Recognise neurodivergent cognition — different, not disordered.md",
+  "content/principles/D008 — See the oneness of things.md",
+  "content/principles/D016 — Distrust names and labels.md",
+  "content/principles/D037 — Empty the heart-mind (xuxin).md",
+  "content/principles/D045 — Keep the empty cup.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:15:43+00:00",
+ "updated": "2026-10-23T14:15:55+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it."
 }

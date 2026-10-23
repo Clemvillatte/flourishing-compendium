@@ -26,6 +26,10 @@ Take any two sides of a fight and zoom out: the two departments quarrelling over
 **For example**
 The manager who helps a rival department succeed has made a move that loses from the department's seat and gains from the company's; the principle says the company's seat is the truer vantage.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the chapter 2 passage the page quotes for the oneness of things.
+
 ## Sources
 
 - [Zhuangzi, James Legge translation (1891), METIS English Classics, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2 (PDF page 10)

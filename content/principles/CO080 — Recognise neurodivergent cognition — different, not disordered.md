@@ -24,6 +24,10 @@ The strong form of this entry, "variations, not deficits", is not what Dwyer end
 
 *For example:* A team member struggles with open-plan noise and writes poorly under time pressure but reasons well about spatial problems. Rather than judge them on the first two, the team asks what setting and task format suit them, and routes the spatial work their way.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the tree that is not judged by the forest, the page's image for cognition that differs without disorder.
+
 ## Sources
 
 - [Dwyer, P. (2022). The neurodiversity approach(es): What are they and what do they mean for researchers? Human Development 66(2), 73-92, open-access full text (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9261839/) — definitions, the middle-ground position and the research recommendations
