@@ -24,10 +24,10 @@ Two ideas anchor the teaching: ren and li. Ren is "usually translated as 'benevo
 
 ## Core ideas
 
-- **Ren (humaneness)** — the character joins a human being and the number two, the virtue of a person among people, from 'benevolence' to Boodberg's 'co-humanity' (quoted above). See [[R051 — Practise ren (humanitybenevolence)|R051]], [[Ren]], [[Humanity]], [[Righteousness]].
+- **Ren (humaneness)** — the character joins a human being and the number two, from 'benevolence' to Boodberg's 'co-humanity' (quoted above). See [[R051 — Practise ren (humanitybenevolence)|R051]], [[Ren]], [[Humanity]], [[Righteousness]].
 - **Li (ritual propriety)** — the self-replicating blueprint above. See [[R053 — Practise li (ritual propriety)|R053]], [[Li: ritual propriety]], [[Harmony]].
 - **Xiao (filial piety) with jing (reverence)** — reverent service to parents. See [[R058 — Practise filial piety (xiao)|R058]], [[Filial piety]], [[Veneration of elders]].
-- **Junzi (the profound person)** — Tu Wei-ming's "lord's son" as moral category (4.16). See [[R054 — Practise zhi (wisdom)|R054]], [[The exemplary person]], [[Moral exemplarism]].
+- **Junzi (the profound person)** — literally "lord's son"; Tu Wei-ming originated the translation "profound person" (4.16) ([IEP](https://iep.utm.edu/confucius/)). See [[R054 — Practise zhi (wisdom)|R054]], [[The exemplary person]], [[Moral exemplarism]].
 - **Zhengming (rectification of names)** — "Let the ruler be a ruler, the subject a subject, a father a father, and a son a son" (12.11) ([IEP](https://iep.utm.edu/confucius/)). See [[R056 — Practise zhengming (rectification of names)|R056]], [[Role ethics]], [[Confucian role ethics]].
 - **De (moral force)** — "One who rules by moral force may be compared to the North Star—it occupies its place and all the stars pay homage to it" (2.1) ([IEP](https://iep.utm.edu/confucius/)). See [[R062 — Practise harmony (he)|R062]], [[Confucian duty]].
 - **Zhong and shu (other-regard and self-reflection)** — "The Master's Way is nothing but other-regard and self-reflection" (4.15); shu is the negatively phrased Golden Rule (15.24) ([IEP](https://iep.utm.edu/confucius/)). See [[R064 — Practise reciprocity (shu)|R064]], [[Shu]], [[The golden rule]].
