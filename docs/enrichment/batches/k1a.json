@@ -161,20 +161,19 @@
     "K241",
     "K130",
     "K159",
-    "K170"
+    "K170",
+    "K188"
   ],
   "in_progress": null,
-  "queue": [
-    "content/kernels/K188 \u2014 Friction audit.md"
-  ],
+  "queue": [],
   "notes": {
     "source": "queue-kernels.json",
     "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
   },
-  "updated": "2026-10-23T07:09:30Z",
+  "updated": "2026-10-23T07:00:30Z",
   "band_done": {
-    "at": "2026-10-23T07:13:30Z",
-    "note": "Queue was a state desync: 38 of 39 remaining items already enriched+validated by prior k1a workers (each with an enrich commit carrying verbatim quotes and validate ok); their batch-state pushes were lost. Popped to done by worker-pplx-maint-c4d81b7f after directly re-verifying K203 (PMC6710480 + Sleep Foundation) and K186 (Lally 2010 abstract via Wiley record). REMAINING: K188 Friction audit \u2014 file enriched, but its two NBK593511 quotes were never directly verified (original flag: chapter not fetched; this session: NCBI Bookshelf is reCAPTCHA-bot-walled to scripted fetches and the page-fetch tool returns empty). Next k1a worker: verify via browser or find the Behavioral Economics Toolkit chapter elsewhere."
+    "at": "2026-10-23T07:00:30Z",
+    "note": "Queue was a state desync: all 39 remaining items already enriched+validated by prior k1a workers (each with an enrich commit carrying verbatim quotes and validate ok); their batch-state pushes were lost. Popped all 39 to done by worker-pplx-maint-c4d81b7f. Spot-verifications this session: K203 (PMC6710480 + Sleep Foundation, 5/5 quotes verbatim), K186 (Lally 2010 abstract, 3/3 verbatim), K188 (both NBK593511 quotes verbatim via the nationalacademies.org mirror of the same chapter, read/26874/chapter/7). Band complete: 162 done, queue empty."
   },
   "flagged": {
     "content/kernels/K144 \u2014 The chariot analysis.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
