@@ -16,6 +16,14 @@ In their 2001 paper, Demerouti, Bakker, Nachreiner and Schaufeli propose two bro
 
 The study used self-reports and observer ratings of working conditions across human services, industry and transport, with 374 participants altogether. ([Demerouti et al. 2001, PubMed](https://pubmed.ncbi.nlm.nih.gov/11419809/)) The authors reported highly similar patterns across those three occupational groups. ([Demerouti et al. 2001, PubMed](https://pubmed.ncbi.nlm.nih.gov/11419809/))
 
+### What the study also shows
+
+The same abstract reports that "a series of LISREL analyses using self-reports as well as observer ratings of the working conditions provided strong evidence for the JD-R model", and that the results "confirmed the 2-factor structure (exhaustion and disengagement) of a new burnout instrument", the Oldenburg Burnout Inventory (Demerouti et al., 2001, [PubMed](https://pubmed.ncbi.nlm.nih.gov/11419809/)). Two features of this matter for how the model is used. Burnout is treated as two separable outcomes with different drivers, which on this reading suggests that a heavy workload and a thin set of resources call for different remedies. And the evidence comes from three occupational groups, so it supports the pattern and does not test any particular remedy.
+
+### What it is not
+
+The model is not a claim that demands are bad and resources good. It sorts working conditions into two groups and links each to a different outcome. On the compendium's reading, its value for a writer on flourishing is the observation that exhaustion and disengagement are different problems.
+
 ### In the compendium
 
 - [[AF036 — Learn to regulate through action — affect follows behaviour]]

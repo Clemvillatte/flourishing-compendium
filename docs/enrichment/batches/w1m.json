@@ -3,7 +3,6 @@
  "done": [
   "The great doubt",
   "Sub specie aeternitatis",
-  "The job demands-resources model",
   "Steelmanning the opposing view",
   "The ontological difference",
   "The sublime",
@@ -72,12 +71,13 @@
   "The limits of introspection",
   "Acedia",
   "Abhyasa",
-  "The three poisons"
+  "The three poisons",
+  "The job demands-resources model"
  ],
  "in_progress": null,
  "flagged": {
   "Sub specie aeternitatis": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
-  "The job demands-resources model": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
+  "The job demands-resources model": "Reopened for QC: extension: abstract detail added (prose 78)",
   "Steelmanning the opposing view": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
   "The ontological difference": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 3): scoped prose-and-quotation PASS after the punctuation restoration and citation placement. Validated ok --fast-track vs pre-enrichment baseline abca149^. Item-5 milestone CLOSED as scoped PASS (namespace resolution and whole-band certification excluded).",
   "The limits of introspection": "RESOLVED 2026-10-23 (worker-pplx-w1m-aae235f1): routed prose-short repair complete; Nisbett-Wilson 1977 full text re-opened (MIT PDF); stockings/nightgown position-effect evidence pp. 243-244 with verbatim quotes; maiden-name anecdote p. 256; content-vs-process distinction p. 256; validator ok.",
@@ -106,7 +106,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:27:06+00:00",
+ "updated": "2026-10-23T14:27:32+00:00",
  "band_done": false,
  "new_concepts": [
   {
