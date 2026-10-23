@@ -26,7 +26,7 @@ The three-breath count is the compendium's editorial timing; the withholding it 
 
 ### Protocol
 
-The questions are the Stoic ones; the breath count is editorial.
+These are editorial questions informed by the Stoic account of assent; the breath count is editorial.
 
 1. When a strong impression arrives, count three breaths before responding to it.
 2. In that gap, ask: is this impression accurate?
@@ -39,7 +39,7 @@ The psychology nearest to the practice is response inhibition, as framed in the 
 
 > "Response inhibition is a hallmark of executive control. The concept refers to the suppression of actions that are no longer required or that are inappropriate, which supports flexible and goal-directed behavior in ever-changing environments." — [Verbruggen & Logan, 2008, Trends in Cognitive Sciences 12(11), Abstract](http://www.psy.vanderbilt.edu/faculty/logan/verbruggen_logan_2008_tics.pdf)
 
-What this evidence does not test: the cited research studies laboratory stop-signal tasks, millisecond-scale suppression of button presses, not a three-breath assent delay; and the claim that brief deliberate delays reduce impulsive behaviour in daily life is not carried, because the consulted sources did not establish it.
+What this evidence does not test: the cited research studies laboratory stop-signal tasks, millisecond-scale suppression of button presses, not a three-breath assent delay.
 
 ### A guided version
 

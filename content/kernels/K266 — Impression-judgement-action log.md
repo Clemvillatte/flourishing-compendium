@@ -27,7 +27,7 @@ The column form is editorial; the gap it trains is the Stoic one.
 1. Rule a page into three columns: impression, judgement, action.
 2. For one week, after each situation that stirred you, fill one row: what appeared to happen; the interpretation given to it; what was done.
 3. At the end of the week, read the judgement column alone, looking for the interpretations that recur.
-4. For each recurring interpretation, ask whether it is a view about the thing, or a view about what the thing means; the second kind is the one Epictetus says belongs to us.
+4. For each recurring interpretation, ask what in the impression column supports it; separating the event from its interpretation is the editorial point of the exercise.
 
 ### Evidence
 

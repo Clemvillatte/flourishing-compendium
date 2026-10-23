@@ -16,7 +16,7 @@ List the things being pursued, wealth, reputation, health, comfort, achievement,
 
 The Stoic position, as the encyclopedia states it:
 
-> "In sharp contrast with eudaimonist theories which regard health, wealth, reputation, etc. as 'external goods', the Stoics maintain that such items are neither good nor bad and, thus, 'indifferent' (adiaphora/indifferentia) to human happiness." — [Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/)
+> "In sharp contrast with eudaimonist theories which regard health, wealth, reputation, etc. as “external goods”, the Stoics maintain that such items are neither good nor bad and, thus, “indifferent” (adiaphora/indifferentia) to human happiness." — [Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/)
 
 Indifference is not equality, though; the mainstream view assigns value by nature:
 

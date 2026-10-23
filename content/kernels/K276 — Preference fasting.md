@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K276** — Preference fasting
 
-For one week, abstain from one preferred indifferent: coffee, social media, a comfort food, a streaming service. The fast is not about the substance; it is a test of whether the preference has become a need. The Stoic background is the doctrine of preferred indifferents: externals are worth selecting when circumstances allow, and worth releasing when they do not ([Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/)). Reach for it when a small comfort has started arranging the day around itself.
+For one week, abstain from one preferred indifferent: a streaming service, social media, a snack taken out of habit. The fast is not about the substance; it is a week of watching what the comfort was doing. The Stoic background is the doctrine of preferred indifferents: externals are worth selecting when circumstances allow, and worth releasing when they do not ([Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/)). Reach for it when a small comfort has started arranging the day around itself.
 
 ### What it rests on
 
@@ -22,24 +22,22 @@ A fast is the same stance run in reverse: the indifferent is set aside for a wee
 
 ### Protocol
 
-The abstention and the weekly span are editorial; the test they apply is the Stoic one.
+This is an editorial observation exercise, not a validated test or an ancient Stoic protocol; the weekly span is editorial.
 
-1. Choose one preferred indifferent for the week: coffee, social media, a comfort food, a streaming service.
+1. Choose one optional comfort for the week: a streaming service, social media, a snack taken out of habit.
 2. Abstain from it for one week.
 3. When the want arrives, note it, its occasion and its strength; the note is the data.
-4. At the week's end, ask the Stoic question: did the preference behave as a preference (releasable without damage), or as a need (missed like a limb)? Answer from the notes.
+4. At the week's end, review the notes: when the urge appeared, how strong it felt, and what happened without acting on it.
 
 ### Evidence
 
-The nearest research is an experience-sampling study of desire in everyday life:
+The nearest research is an experience-sampling study that recorded desires in everyday life as they occurred:
 
-> "A sample of 205 adults wore beepers for a week. They furnished 7,827 reports of desire episodes" — [Hofmann, Baumeister, Förster & Vohs, 2012, Journal of Personality and Social Psychology 102(6), Abstract](https://pubmed.ncbi.nlm.nih.gov/22149456/)
+> "A sample of 205 adults wore beepers for a week." — [Hofmann, Baumeister, Förster & Vohs, 2012, Journal of Personality and Social Psychology 102(6), Abstract](https://pubmed.ncbi.nlm.nih.gov/22149456/)
 
 > "Results suggest that desires are frequent, variable in intensity, and largely unproblematic. Those urges that do conflict with other goals tend to elicit resistance, with uneven success." — [same abstract](https://pubmed.ncbi.nlm.nih.gov/22149456/)
 
-Desires arrive as episodes of varying strength, which is what makes a week of noticing them feasible at all.
-
-What this evidence does not test: the cited research sampled desire episodes as they occurred; it did not evaluate a fasting practice, and the claim that examined wants lose their urgency is not carried, because the consulted sources did not establish it.
+This study recorded naturally occurring desires; it did not test abstention or whether observing an urge reduces its intensity.
 
 ### A guided version
 
