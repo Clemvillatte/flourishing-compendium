@@ -175,7 +175,27 @@
      "note": ""
     }
    ]
+  },
+  "s1f-007": {
+   "status": "qc_pending",
+   "angle": "P134 solitude and community: find a narrative object with a primary source that carries both phases of growth — a person or fictional account where solitary practice and community practice are both scheduled",
+   "history": [
+    {
+     "t": "2026-10-23T06:29:35+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:29:54+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:30:09+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    }
+   ]
   }
  },
- "updated": "2026-10-23T06:28:59+00:00"
+ "updated": "2026-10-23T06:30:09+00:00"
 }
