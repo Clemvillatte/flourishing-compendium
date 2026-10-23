@@ -41,3 +41,16 @@ The "go to bed as if one had lived one's last day / each day received as
 borrowed" sentence was NOT in Letter 101 (same fetch confirmed absence) and was
 removed as an unverified paraphrase; replaced with a sentence grounded in the
 verified daily-account rule. Both validator contexts pass.
+
+## Postscript 3 (advisor-QC correction, 11:46 UTC)
+Two accuracy corrections to earlier postscripts: (1) Postscript 1 stated the
+e79303d33 version's Letter 101 quotes were "verified by me earlier in this
+session" — at that time only two of the three passages had been checked; the
+third ("We plan distant voyages...") was verified at 11:39 UTC (postscript 2),
+after postscript 1 was written. (2) The interim replacement sentence introduced
+at 11:39 ("a life balanced every day cannot be called in unexpectedly") was
+itself an unsupported gloss on the daily-account rule; removed at advisor QC
+direction. Remaining known caveat for the supervisor: the "In the compendium's
+reading" mechanism paragraph is the compendium's interpretation, not a claim
+made by Seneca in the opened passages; the framing already on the page makes
+this explicit.

@@ -25,7 +25,7 @@ In the compendium's reading, the mechanism is contrast, not fear: against the ba
 
 ### The distinction to hold
 
-Memento mori is not fatalism or gloom. It is urgency without hurry, the opposite of [[Acedia]], the apathy that mortality-awareness misused can collapse into. Its partner is [[Amor fati]]: remembering the ending is what makes loving the whole possible. The letter's daily-account rule carries the same thing in the register of practice: a life balanced every day cannot be called in unexpectedly.
+Memento mori is not fatalism or gloom. It is urgency without hurry, the opposite of [[Acedia]], the apathy that mortality-awareness misused can collapse into. Its partner is [[Amor fati]]: remembering the ending is what makes loving the whole possible.
 
 ### An example at its smallest
 
