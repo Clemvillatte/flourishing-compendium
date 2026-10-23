@@ -703,3 +703,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: theoretical paper, no trial of the practice; the seed's avoidance-prolongs-grief claim attributed to the later empirical literature explicitly NOT cited as if from this paper; the time-limit framed as the model's own dosage prescription.
 - Mention check run (before this entry): K319 already linked from E011/E012/A010/S007 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K331 — Play practice (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Proyer, Gander, Brauer & Chick 2021 (Appl Psychol Health Well Being 13(1):129-151), randomized placebo-controlled online intervention N=533, abstract verified raw via NCBI efetch (PMID 32844597); authors read from the efetch header.
+- The blockquote (all interventions results sentence) matches the raw efetch text verbatim.
+- Honesty on page: one-week online exercises, not a standing weekly practice; short-term well-being effects stated as short-term; creativity and stress-recovery outcomes explicitly noted as not in the abstract.
+- Mention check run (before this entry): K331 already linked from E010/A035/A036/R065 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
