@@ -249,3 +249,5 @@ edits by this worker; findings routed via TASKBOARD.md.
 - READ-ONLY QC PASS addendum 108 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:59:34Z): D157 Don't gamble what matters for what doesn't (p1t, newest repair): the displayed DDJ 26 quote (the lord-of-a-myriad-chariots passage) VERBATIM against the already-opened Gutenberg 216 Legge text. PASS — no findings.
 
 - READ-ONLY QC PASS addendum 109 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:59:46Z): Sleep hygiene (CBT-I) (w1m): the displayed Schutte-Rodin et al. 2008 quote (the sleep-hygiene-alone-insufficient sentence) VERBATIM against the freshly fetched PMC2576317 full text (the apparent miss was an HTML-extraction space before a comma, a markup artifact). PASS — no findings.
+
+- READ-ONLY QC PASS addendum 110 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:59:56Z): Self-monitoring, Michie et al. (w1m): the displayed Michie et al. 2009 quote (the self-monitoring-plus-control-theory sentence with the 0.42 vs 0.26 effect sizes) VERBATIM vs the PubMed efetch record (PMID 19916637). PASS — no findings.
