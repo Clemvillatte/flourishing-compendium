@@ -719,3 +719,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: monetary discounting outcomes, not values or weekly actions; the direction-of-shift framing scoped to what the study measured; the TMT framing in the seed left as the seed's, with the honesty paragraph noting the study measured choices, not values.
 - Mention check run (before this entry): K316 already linked from E011/E012/A010/S007 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K339 — The third story (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Grossmann & Kross 2014 (Psychol Sci 25(8):1571-1580), three experiments N=693 on self-distancing and wise reasoning, abstract verified raw via NCBI efetch (PMID 24916084); authors read from the efetch header.
+- The blockquote (self-distance eliminated asymmetry sentence) matches the raw efetch text verbatim.
+- Honesty on page: perspective instruction during reflection, not third-party narrative writing; no claims about actual conflict resolution or compromise outcomes.
+- Mention check run (before this entry): K339 already linked from A023/A037/S021/R005/R055 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).

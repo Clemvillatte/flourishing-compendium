@@ -115,7 +115,8 @@
   "content/kernels/K352 — Moral injury audit.md",
   "content/kernels/K319 — Non-avoidant grief work.md",
   "content/kernels/K331 — Play practice.md",
-  "content/kernels/K316 — Mortality-to-action translation.md"
+  "content/kernels/K316 — Mortality-to-action translation.md",
+  "content/kernels/K339 — The third story.md"
  ],
  "in_progress": null,
  "queue": [
@@ -164,7 +165,7 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-23T06:39:07+00:00",
+ "updated": "2026-10-23T06:39:28+00:00",
  "band_done": false,
  "flagged": {
   "content/kernels/K144 — The chariot analysis.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
