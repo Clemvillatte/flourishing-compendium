@@ -31,7 +31,7 @@ The [Seeing Other People As Human Beings Rather Than Labels exercise at Mindfuln
 ## Related concepts
 
 - [[Intersubjectivity]] — the philosophical account of shared inner worlds; the face is where it begins for Levinas.
-- [[Face negotiation theory]] — the research tradition on how face is claimed, threatened and repaired across cultures; this kernel practices the gaze that underlies all of it.
+- [[Face negotiation theory]] — the research tradition on how social face is claimed, threatened and repaired across cultures; a different sense of the word, though both concern what is owed to the person in front of you.
 - [[Dialogue]] — Buber's I-You encounter in speech; the face practice is its silent half.
 
 ## Related kernels

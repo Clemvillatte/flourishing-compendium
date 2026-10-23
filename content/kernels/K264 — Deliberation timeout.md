@@ -33,7 +33,7 @@ What the research does not test: these are findings on affective forecasting and
 
 ### A guided version
 
-Elisha Goldstein's [STOP Practice (5 Minutes) on Insight Timer](https://insighttimer.com/drelishagoldstein/guided-meditations/stop-practice-5-minutes) is a guided audio recording of the pause itself: Stop, Take a breath, Observe body, feelings and thoughts, then Proceed by asking "what's most important for me to pay attention to right now?" — the timeout made guided, for moments too hot to run it unaided.
+Elisha Goldstein's [STOP Practice (5 Minutes) on Insight Timer](https://insighttimer.com/drelishagoldstein/guided-meditations/stop-practice-5-minutes) is a guided audio of the pause: in the author's own description, a practice to "pause, bring more awareness, intention and focus to the moment". It is the minute-scale cousin of this kernel's rule, for moments too hot to run the full timeout; a five-minute stop buys the one-to-three-day rule the space to work.
 
 ## Operationalises
 

@@ -14,9 +14,9 @@ Pick two or three people, living or dead, real or fictional, whose character you
 
 ### Protocol
 
-1. Nominate your exemplars yourself. Chosen models work; assigned ones do not.
+1. Nominate your exemplars yourself; the exemplar-education literature associates self-chosen, autonomy-supported exemplar work with stronger motivation.
 2. For each, write one paragraph on the specific virtue in action: what they did, what it cost, what it took.
-3. Prefer exemplars who are relatable and attainable, not only saints and geniuses. A person who volunteers two hours a week moves you more than a person who gives away everything, because their act is one you could actually do.
+3. Prefer exemplars who are relatable and attainable, not only saints and geniuses; the same literature associates relatable, attainable exemplars with stronger motivation than unreachable paragons.
 4. Keep the list where you make decisions. At a hard choice, ask: what would this person notice here that I am missing?
 5. Answer in your own words, then act. Afterwards, note where your action and their imagined action diverged, and what that says about the gap between you.
 

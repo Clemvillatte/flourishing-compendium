@@ -33,7 +33,7 @@ What the studies do not test: these are correlational, small-to-moderate effects
 
 ### A guided version
 
-Two exist. The [Circle of Control guided meditation by Michael Scott on Insight Timer](https://insighttimer.com/michaelscott/guided-meditations/circle-of-control) walks the sorting in audio: everything controllable inside a golden circle, everything else floating past on a river. On paper, the University of Oxford MPLS [Circles of Concern, Influence and Control exercise](https://www.mpls.ox.ac.uk/files/training/circles-of-influence) has you list your concerns, then sort them into the circles of concern, influence, and innermost control, and ask which ones you could move inward.
+Two exist. The [Circle of Control guided meditation by Michael Scott on Insight Timer](https://insighttimer.com/michaelscott/guided-meditations/circle-of-control) does the sorting in audio; its own description says it will "guide you to focus your energy on the things you can control". On paper, the Oxford MPLS [Circles of Concern, Influence and Control exercise](https://www.mpls.ox.ac.uk/files/training/circles-of-influence) has you list your concerns, sort them into the circles of concern, influence, and innermost control, and ask which could move inward.
 
 ## Operationalises
 

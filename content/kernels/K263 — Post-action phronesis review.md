@@ -31,7 +31,7 @@ What the cited study does not test: the effect is measured on structured trainin
 
 ### A guided version
 
-No official recording exists; the bounded search confirms it. The institutional guided form of this review is the After Action Review: the [US Forest Service AAR template](https://www.fs.usda.gov/sites/default/files/after-action-review-template.pdf) walks the same five questions with time weights attached: What did you intend (20%), What happened (<10%, facts not blame, multiple perspectives), What can we learn (25%, "don't look for blame; look for lessons, including lessons about 'mistakes'"), What should we do next time (40%, half the discussion, so the review changes habits rather than reliving them), and What should we do now (<10%).
+No official recording exists. The institutional guided form of this review is the After Action Review: the [US Forest Service AAR template](https://www.fs.usda.gov/sites/default/files/after-action-review-template.pdf) walks the same five questions with time weights attached: What did you intend (20%), What happened (<10%, facts not blame, multiple perspectives), What can we learn (25%, "don't look for blame; look for lessons, including lessons about 'mistakes'"), What should we do next time (40%, half the discussion, so the review changes habits rather than reliving them), and What should we do now (<10%).
 
 ## Operationalises
 

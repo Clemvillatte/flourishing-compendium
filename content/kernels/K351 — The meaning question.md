@@ -30,7 +30,7 @@ What the study does not test: these are cross-sectional correlations; the cited 
 
 ### A guided version
 
-No official recording of the question itself exists; the bounded search found adjacent guided carriers. The nearest is the [Purpose Discovery practice as described on Insight Timer](https://insighttimer.com/techniques/life-coaching/purpose-discovery), a guided format that borrows Frankl's principle that "meaning is found rather than invented": stillness, then pointed questions (what you would do if fear were not a factor, when you feel most alive), listening for through-lines rather than reasoning to an answer. The [Viktor Frankl Center Vienna's guided reflections](https://www.franklzentrum.org/english/about-logotherapy.html) walk the question directly: "What does life want from me right now?"
+No official recording of the question itself exists. The nearest is the [Purpose Discovery practice as described on Insight Timer](https://insighttimer.com/techniques/life-coaching/purpose-discovery), a guided format that borrows Frankl's principle that "meaning is found rather than invented": stillness, then pointed questions (what you would do if fear were not a factor, when you feel most alive), listening for through-lines rather than reasoning to an answer. The [Viktor Frankl Center Vienna's guided reflections](https://www.franklzentrum.org/english/about-logotherapy.html) walk the question directly: "What does life want from me right now?"
 
 ## Operationalises
 

@@ -31,7 +31,7 @@ The study quantified synchrony as "the coordination of patient's and therapist's
 
 ### A guided version
 
-No official recording of the live practice exists; the bounded search found a guided form of the same other-directed presence: the [Common Humanity Meditation at Greater Good in Action](https://ggia.berkeley.edu/practice/common_humanity_meditation) is a guided audio that has you bring a specific person to mind and hold them "as if they were right in front of you", noticing what shifts in your body as you do, then working through the "just like me" lines. It trains the other-directed presence the kernel then performs in the room.
+No official recording of the live practice exists; a guided form of the same other-directed presence exists: the [Common Humanity Meditation at Greater Good in Action](https://ggia.berkeley.edu/practice/common_humanity_meditation) is a guided audio that has you bring a specific person to mind and hold them "as if they were right in front of you", noticing what shifts in your body as you do, then working through the "just like me" lines. It trains the other-directed presence the kernel then performs in the room.
 
 ## Operationalises
 

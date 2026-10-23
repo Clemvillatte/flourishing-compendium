@@ -31,7 +31,7 @@ What the cited study does not test: these are associations between narrated them
 
 ### A guided version
 
-No official recording exists; the bounded search confirms it. A guided re-authoring exercise exists for exactly this audit: the [narrative identity revision practice](https://www.ixcoach.com/practices/the-life-crafting-intervention/narrative-identity-revision) has you identify one limiting story ("I'm not the kind of person who ___"), rewrite the same events with a redemption frame ("This happened, and what it eventually gave me was ___"), locate one piece of genuine evidence for the revision so it stays honest rather than falsely positive, and practice telling the revised story aloud to a trusted person.
+No official recording of the audit exists. A different, optional exercise sits one step beyond it: the [narrative identity revision practice](https://www.ixcoach.com/practices/the-life-crafting-intervention/narrative-identity-revision) has you identify one limiting story ("I'm not the kind of person who ___") and rewrite the same events with a redemption frame ("This happened, and what it eventually gave me was ___"), locating one piece of genuine evidence so the revision stays honest. It is not this audit: recovering what was good before a bad ending makes no claim that the ending gave you anything.
 
 ## Operationalises
 
