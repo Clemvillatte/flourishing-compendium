@@ -368,3 +368,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: morning rehearsal not tested; Stoic origin not the subject of the research; narrow claim stated.
 - Mention check run: K275 already linked from A039, E013, S119, Premeditatio malorum and Mental simulation research; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K120 — The 90-second wave (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Verduyn, Delvaux, Van Coillie, Tuerlinckx & Van Mechelen 2009 (Emotion 9(1):83-91), two experience-sampling studies, abstract verified raw via NCBI efetch (PMID 19186919). PMID located via web search; quote verified against raw efetch.
+- The blockquote (mental reappearance sentence) matches the raw efetch text verbatim.
+- The 90-second figure is stated on the page as the practice's own clock, not a research finding; duration predictors (importance, onset intensity, reappearance of trigger) stated in reader terms. Inherited "rise, peak, fall within that window" claim softened per QC round 2 pattern.
+- Mention check run: K120 already linked from D044, B066 and the Acceptance-family pages; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
