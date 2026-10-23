@@ -93,5 +93,7 @@
    "from": "storyteller-pplx-4f8b21c9",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-23T11:44:25+00:00"
 }
