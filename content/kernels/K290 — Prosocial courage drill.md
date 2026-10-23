@@ -18,7 +18,7 @@ Once a week, act on a situation where you see unfairness but would normally stay
 2. During the week, note one situation where you saw unfairness or risk and stayed silent. Write it down the same day. This is the generate step: the raw material is what you would otherwise have explained away.
 3. Select one situation and act on it, or on its next occurrence: the name of the talked-over colleague repeated in the meeting, the one-line disagreement with the biased joke, the email reporting the safety concern. Small and specific beats large and vague.
 4. Retain. After acting, note what you did, what it cost, and what it accomplished. Acts that went well become the template for the next week; acts that misfired get adjusted, not abandoned.
-5. If no opportunity arises in a given week, rehearse one aloud: what you would say, to whom, in which words. Rehearsal keeps the habit warm for the week when it is needed.
+5. If no opportunity arises in a given week, rehearse one aloud: what you would say, to whom, in which words. Rehearsal keeps the habit warm for the week it is needed.
 
 ### Evidence
 
