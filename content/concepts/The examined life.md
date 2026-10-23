@@ -35,6 +35,7 @@ A small case: each evening, five minutes with three written questions. What did 
 - [[SE013 — Cultivate accurate self-knowledge — know your traits, values, and patterns]] — examination with data
 
 ## Facets
+- [[T011 — Socrates]]: the name given at the trial (Apology 38a), the concept's source.
 
 - **in detail** — Socrates, Apology
 - **across time** — Socrates, Apology

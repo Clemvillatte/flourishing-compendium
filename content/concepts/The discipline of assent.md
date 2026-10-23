@@ -37,6 +37,7 @@ The work, as the chapter on progress puts it, lies "in assent and suspension of 
 - [[S020 — Remember that nothing can harm you except your own judgement]] — the Enchiridion 5 claim as a principle
 
 ## Related concepts
+- [[T011 — Socrates]]: the exemplar behind the Enchiridion quote the page reads.
 
 - [[Prosochē]] — the Stoic attention that watches for impressions; the discipline of assent is its practical core
 - [[Epoché]] — the Pyrrhonian suspension of judgment, the skeptical cousin of the same pause

@@ -20,6 +20,7 @@ The allegory: "they pour water into a vessel which is full of holes out of a col
 The compendium connects this image with SP025, which reads greed, luxury and drunkenness as species of madness: the leak is in the vessel, not the supply, so no increase of supply can end the labor. A compendium exercise drawn from the image is to ask, before the next pour, what the wanting is for.
 
 ## Sources
+- [[T011 — Socrates]]: the hell the page quotes from the Gorgias dialogue.
 
 - Plato, Gorgias 493a-494a, trans. Benjamin Jowett, Project Gutenberg #1672: https://www.gutenberg.org/files/1672/1672-0.txt
 - Getty Museum, "The Underworld — Altamura Krater" didactic PDF: https://www.getty.edu/art/exhibitions/ancient_underworld/downloads/underworld_krater_didactic.pdf

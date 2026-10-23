@@ -18,6 +18,7 @@ The Axial Age is Karl Jaspers' name for the period roughly 800 to 200 BCE, when 
 The compendium's own subject matter, the wisdom traditions that ask what a good life is, is largely an inheritance of this period. Britannica's inventory of the developments runs from Socrates and Plato on reason and truth, through karma and liberation in India and Confucian and Daoist guidance for human life in China, to Zoroastrianism's cosmic struggle between good and evil and the Hebrew prophets' creator God ([Britannica, The Axial Age](https://www.britannica.com/topic/Axial-Age)). The concept lets a writer see Buddhism, Confucianism, Greek philosophy and the Hebrew prophets as one era's shared turn of the human mind toward questions that transcend local custom, rather than as isolated curiosities. The compendium's principle E096 carries the practical reading.
 
 ## Related concepts
+- [[T011 — Socrates]]: the figure the compendium's wisdom-traditions question keeps returning to.
 
 - [[Self-cultivation]] — the Confucian program of self-work the age produced
 - [[Socratic wisdom]] — the Greek side of the same turn

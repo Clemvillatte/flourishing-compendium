@@ -25,6 +25,7 @@ The passage that made the chapter famous follows, and Aristotle does not soften 
 - [[A111 — Practise leisure (scholē) as the end of work]] — the leisure argument as a principle
 
 ## Related concepts
+- [[T011 — Socrates]]: the oracle story (ST152) the page lists among its exemplars.
 
 - [[Contemplation (theoria)]] — the activity that constitutes the life
 - [[Sophia]] — the virtue the life exercises

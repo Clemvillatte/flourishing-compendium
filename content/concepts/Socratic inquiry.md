@@ -24,6 +24,7 @@ The dialogue then runs the method to its end. Socrates asks what knowledge is, e
 - [[SO041 — Treat expertise as real but fallible]] — the epistemic humility the method trains
 
 ## Related concepts
+- [[T011 — Socrates]]: the question-driven search the Theaetetus dramatizes, the concept's home text.
 
 - [[Socratic elenchus]] — the refutation step of the method
 - [[Socratic ignorance]] — the not-knowing that starts the inquiry

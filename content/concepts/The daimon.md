@@ -20,6 +20,7 @@ The passage is careful about what the sign does. It never advises or instructs; 
 - [[SE032 — Cultivate an inner ally — develop a supportive internal voice]] — cites the daimonion as its philosophy parallel; the inner ally it recommends is a voice that guides rather than only forbids
 
 ## Sources
+- [[T011 — Socrates]]: the inner voice testified to at the trial, the concept's source.
 
 - [Plato, Apology, Jowett translation, MIT Classics](https://classics.mit.edu/Plato/apology.html) — the daimonion passage (31c-d)
 

@@ -18,6 +18,7 @@ Socrates interprets the oracle's answer as showing the limits of human wisdom: i
 - [[CO014 — Understand that thinking is fallible and that wisdom includes knowing this]] — the fallibility principle in the same register
 
 ## Related concepts
+- [[T011 — Socrates]]: the Delphic oracle's aftermath in the Apology: knowing that you do not know.
 
 - [[Wisdom]] — the sibling page in the same family
 

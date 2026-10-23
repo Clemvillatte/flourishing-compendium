@@ -32,6 +32,7 @@ Two features of the image do real work. First, each rung is a real attachment: o
 The concept's nearest neighbour is [[Eros]] as the desire that does the climbing; The principle pages Pursue kalokagathia and Virtue aims at the beautiful track the destination; Understand love and hate as attached affects tracks the affective side.
 
 ## Related concepts
+- [[T011 — Socrates]]: the staged ascent of Diotima's teaching in the Symposium (210a-212a).
 
 - [[Eros]]: the desire that climbs; Diotima's ladder is its curriculum
 

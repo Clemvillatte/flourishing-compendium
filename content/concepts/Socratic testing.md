@@ -22,6 +22,7 @@ The tether is an account of the reason why — *aitias logismos* — and Plato n
 The principles on behavioral experiments read the same structure clinically: a belief that produces good outcomes is not yet tested, and testing is the giving of the account. The Meno's version is why the compendium treats belief-testing as an intellectual practice rather than a procedure — the tether is the reasoned explanation, and the explanation is what survives the challenge that an untethered opinion does not.
 
 ## Related concepts
+- [[T011 — Socrates]]: the Meno distinction between true belief and knowledge, the concept's source.
 
 
 - [[Abduction]] — Peirce's account of where the belief to be tested comes from
