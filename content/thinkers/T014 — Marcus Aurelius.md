@@ -9,7 +9,7 @@ discipline: "Stoicism"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHIL-STOIC"], "alternatePaths": ["NAV-PHILOSOPHY"]}
 ---
 
-Marcus Aurelius (121–180 CE) ruled Rome as emperor from 161 until his death in a military camp on the northern frontier. He wrote the Meditations in Greek, as private notes to himself, and left it unpublished. His philosophical anchor was Epictetus; his daily correspondent was the rhetorician Fronto.
+Marcus Aurelius (121–180 CE) ruled Rome as emperor from 161 until his death in a military camp on the northern frontier. He wrote the Meditations in Greek, as private notes to himself, and left it unpublished. His philosophical anchor was Epictetus; his daily correspondent was the rhetorician Fronto. His biographer Casaubon, in the introduction to the 1634 translation republished by Project Gutenberg, notes that the emperor was neither vulgar nor unctuous: "he extenuates nothing, but nothing sets down in malice."
 
 ## The book and its stance
 
