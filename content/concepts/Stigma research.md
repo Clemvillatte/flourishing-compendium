@@ -15,6 +15,12 @@ Stigma research is the sociological and psychological study of how a marked diff
 
 Goffman's stigmatized person is "reduced in our minds from a whole and usual person to a tainted and discounted one", and stigma is "the situation of the individual who is disqualified from full social acceptance" ([Phelan et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4091623/)). The same review carries a later definition, Bruce Link and Jo Phelan's 2001 conceptualization: stigma exists when labeling, negative stereotypes, separation into "us" and "them", status loss and discrimination converge, and it is "entirely contingent on access to social, economic and political power" ([Phelan et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4091623/)).
 
+### The system around the person
+
+The review's larger argument joins stigma to status research. In both traditions, macro-level inequalities are enacted in micro-level interactions, which in turn reinforce macro-level inequalities; where ordinary status encounters follow agreed-upon hierarchies, interactions between "normals" and stigmatized individuals involve uncertainty and strain, and social rejection is the part stigma adds.
+
+> "These parallels make salient that stigma is not only an interpersonal or intrapersonal process but also a macro-level process and raise the possibility of considering stigma as a dimension of social stratification. As such, stigma's impact on health should be scrutinized with the same intensity as that of other more status-based bases of stratification such as SES, race and gender, whose health impacts have been firmly established." (Phelan et al. 2014, [abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4091623/))
+
 ### In the compendium
 
 - [[D127 — No one is worthless]] cites this research with the note that dehumanization worsens outcomes: the stigmatized person is discounted, and the compendium's principle answers that discounting directly.
