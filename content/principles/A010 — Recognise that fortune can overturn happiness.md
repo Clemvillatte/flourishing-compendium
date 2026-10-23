@@ -20,6 +20,10 @@ Aristotle is blunt about luck: "the most prosperous may fall into great misfortu
 
 *For example:* A well-run family business burns in a fire. The owners who have honest relationships and savings are the ones with something to rebuild from.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the Crito story, happiness held when fortune turns (ST141)
+
 ## Sources
 
 - Aristotle, *Nicomachean Ethics* Book I, trans. W. D. Ross: [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)
