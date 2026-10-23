@@ -7,7 +7,7 @@ file: "Source credibility research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Source credibility research is the experimental study of how the perceived credibility of a communicator changes whether a message is accepted. The study this page's seed names is Carl Hovland and Walter Weiss's 1951 article in Public Opinion Quarterly. Its abstract reports the finding:
+Source credibility research is the experimental study of how the perceived credibility of a communicator changes whether a message is accepted. The study named in the page's source line is Carl Hovland and Walter Weiss's 1951 article in Public Opinion Quarterly. Its abstract reports the finding:
 
 > "In a new test of the process of forgetting, the authors found that subjects, at the time of exposure, discounted material from 'untrustworthy' sources. In time, however, the subjects tended to disassociate the content and the source with the result that the original scepticism faded and the 'untrustworthy' material was accepted. Lies, in fact, seemed to be remembered better than truths." ([Hovland & Weiss, 1951, abstract](https://academic.oup.com/poq/article-abstract/15/4/635/1923117); the source prints the quoted words in double quotes)
 
