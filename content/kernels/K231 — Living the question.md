@@ -14,11 +14,11 @@ Keep the question "What is this life for?" alive as an ongoing inquiry rather th
 
 ### Protocol
 
-1. Name your version of the question in one sentence. "What is this life for?" is Rilke's framing; yours may be "what am I for?", "what is worth loving?", "what does this suffering want to teach?" Write it where you will see it.
+1. Name your version of the question in one sentence. "What is this life for?" is one possible prompt; yours may be "what am I for?", "what is worth loving?", "what does this suffering want to teach?" Write it where you will see it.
 2. Generate experiences that carry the question: conversations, books, works of your hands, days spent in ways that put the question to the test. The point is to live everything, not to think about everything.
 3. When an answer presents itself, hold it as an experiment rather than a verdict. Try living as if it were true for a month, and note what the month showed.
 4. Select: once a season, read your notes and mark which experiences deepened the question and which merely distracted from it. Keep the deepening ones in the rotation.
-5. Retain the question itself. Answers get recorded and dated; the question gets carried forward unchanged. An answer that survives several rounds of living is worth keeping; most get revised.
+5. Retain the question itself. Answers get recorded and dated; the question gets carried forward unchanged. An answer that survives several rounds of living is worth keeping; revise the others when experience gives you reason to.
 
 ### Evidence
 
