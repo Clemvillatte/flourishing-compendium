@@ -22,6 +22,10 @@ Greater inertia in positive and negative emotional behaviors predicted depressio
 
 *For example:* You record irritation at two check-ins. Keep both entries as observations; they are not an inertia estimate or a forecast of depression.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the philosophy parallel the page draws on: stagnation as the opposite of the Dao.
+
 ## Sources
 
 - [Kuppens, P., Sheeber, L. B., Yap, M. B. H., Whittle, S., Simmons, J. G., & Allen, N. B. (2012). Emotional inertia prospectively predicts the onset of depressive disorder in adolescence. Emotion 12(2), 283-289, author-hosted full text](https://ppw.kuleuven.be/okp/_pdf/Kuppens2012EIPPT.pdf) — the definition and prospective finding; journal, volume and pages verified from the PDF's own title-page line (Emotion, 2012, Vol. 12, No. 2, 283-289)
