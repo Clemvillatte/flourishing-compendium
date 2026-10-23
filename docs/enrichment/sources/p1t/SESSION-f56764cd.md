@@ -169,3 +169,12 @@ Independent advisor freshly opened Huainanzi, Legge and Roth and returned scoped
 - Optional-purchase example varies buying, borrowing and waiting, selects on an endorsed purpose and keeps that question for later choices; motivation named. No shopping transaction or price claim.
 - Read Nonattachment, Non-attachment and Preferred indifferents in full; all already backlink D176. Ran difficult-to-get mention search. No new reciprocal proposed.
 - Existing parallels and reflections preserved, not independently certified.
+
+## D179
+
+- Reopened with enrich_state.py. Freshly checked DDJ 4's direct sharp-points/complications instruction and DDJ 15's full likenesses passage: https://www.gutenberg.org/files/216/216-h/216-h.htm.
+- Retained exact existing chapter-15 quotation. Added chapter 4 to the existing source locator rather than pretending that the modern title was a literal line from chapter 15.
+- Replaced long image recital and compendium-process phrasing. Disagreement is an explicit personal reading; Plain words keeps the issue and uncertainty visible rather than requiring agreeable silence.
+- Editorial-feedback example varies factual-question and issue/fix forms, selects on necessary criticism without personal labels, and retains the approach; overt behaviour named.
+- Read Pu (the uncarved block) in full; existing D179 backlink present. Ran sharp-points mention search; no new reciprocal needed.
+- Original empirical parallel and reflections preserved, not independently certified.
