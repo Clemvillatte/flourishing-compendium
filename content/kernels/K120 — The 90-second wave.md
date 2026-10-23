@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K120** — The 90-second wave
 
-When a strong emotion hits, watch it for 90 seconds without acting. The window is the practice's own clock; the research below suggests what feeds a wave and what lets it pass.
+When a strong emotion hits, watch it for 90 seconds without acting. Ninety seconds here is a suggested pause, not an established limit on how long an emotion lasts; the research below suggests one thing that feeds a wave.
 
 ### Protocol
 
@@ -18,7 +18,7 @@ Steps are a practice form; the research behind it is quoted below. Intended focu
 
 1. When a strong emotion hits, set a rough 90-second clock and watch the wave without acting on it: no reply sent, no decision taken, no door slammed.
 2. Notice the body's part in it: heat, jaw, breath. Naming the feeling as it rises helps keep the observer stance (see Affect labeling).
-3. When the clock ends, act or don't. If the wave is still rising, it was fed; find the thought that fed it before deciding anything.
+3. After ninety seconds, notice what has changed. The emotion may still be present; its persistence does not mean you have done the exercise incorrectly.
 
 ### Evidence
 
@@ -26,7 +26,7 @@ From the experience-sampling research on how long emotions last:
 
 > "Moreover, a reappearance, either physically or merely mentally, of the eliciting stimulus during the emotional episode extended the duration of the emotional experience as well." (Abstract, [Verduyn, Delvaux, Van Coillie, Tuerlinckx & Van Mechelen, 2009, Emotion 9(1), 83-91](https://pubmed.ncbi.nlm.nih.gov/19186919/))
 
-What this evidence does not test: the 90 seconds. The diary studies tracked everyday episodes of fear, anger, joy, gratitude and sadness and found episodes lasting from moments to much longer, with duration stretched by the situation's importance, the emotion's intensity at onset, and any reappearance of the trigger, physically or in thought. Nothing in this research fixes a physiological 90-second constant; the number is the practice's own clock. What the research does support is the practice's core bet: mentally re-living the trigger keeps the wave alive, so the watching is aimed at not feeding it.
+What this evidence does not test: the pause. The diary studies asked participants to report the duration of everyday fear, anger, joy, gratitude and sadness episodes, and found duration stretched by the situation's importance, the emotion's intensity at onset, and any reappearance of the trigger, physically or in thought. The abstract reports no test of deliberately watching an emotion, and fixes no ninety-second constant.
 
 ### A guided version
 

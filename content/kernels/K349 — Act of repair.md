@@ -43,7 +43,7 @@ No guided version is supplied here.
 ## Related concepts
 
 - [[Stewardship]]: the virtue this practice is the concrete form of
-- [[Nature connectedness]]: the attitude the acts tend to deepen
+- [[Nature connectedness]]: a related measured attitude
 - [[Eudaimonic well-being]]: the family of outcomes the experiment measured
 
 ## Related kernels

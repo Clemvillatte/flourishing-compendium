@@ -14,11 +14,11 @@ Identify a wish (what you want), the best outcome (how it would feel), the main 
 
 ### Protocol
 
-Steps are the method's own four moves; the meta-analysis behind them is quoted below. Intended focus: Motivation and Overt behaviour.
+The steps below are this compendium's adaptation of the WOOP packaging of the research strategy; the meta-analysis behind the strategy is quoted below. Intended focus: Motivation and Overt behaviour.
 
 1. Wish: name what you want in one sentence, something challenging but doable.
 2. Outcome: picture the best result vividly, the felt sense of it arriving.
-3. Obstacle: name the main thing in you that will stand in the way. Not the world's obstacle; yours.
+3. Obstacle: name the main thing that will stand in the way, in you or in your days.
 4. Plan: form the if-then: if that obstacle appears, then I will do this specific thing.
 
 ### Evidence

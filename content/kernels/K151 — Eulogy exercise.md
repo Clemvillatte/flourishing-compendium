@@ -26,7 +26,7 @@ From the experimental research on death reflection:
 
 > "Results showed that mortality salience led highly extrinsic participants to manifest greed, whereas death reflection again generated intrinsic, unselfish behavior." (Abstract, [Cozzolino, Staples, Meyers & Samboceti, 2004, Personality and Social Psychology Bulletin 30(3), 278-292](https://pubmed.ncbi.nlm.nih.gov/15030620/))
 
-What this evidence does not test: the eulogy. The experiments used guided manipulations built from near-death and posttraumatic-growth accounts, and measured behaviour in games and choices, finding that a specific, immersive form of death contemplation shifted extrinsically oriented participants toward intrinsic behaviour where a bare reminder of mortality shifted them toward greed. Nobody wrote a funeral speech. What the studies support is the exercise's premise: how you contemplate death matters, and the specific, felt kind is the one that moved values.
+What this evidence does not test: the eulogy. The experiments used guided manipulations built from near-death and posttraumatic-growth accounts, and measured behaviour in games and choices, finding that a specific, immersive form of death contemplation shifted extrinsically oriented participants toward intrinsic behaviour where a bare reminder of mortality shifted them toward greed. The abstract reports no eulogy-writing. What the studies support is the exercise's premise: how you contemplate death matters, and the specific, felt kind is the one that moved values.
 
 ### A guided version
 

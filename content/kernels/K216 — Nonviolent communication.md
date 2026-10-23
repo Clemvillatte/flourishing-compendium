@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K216** — Nonviolent communication
 
-Use the four-step structure: observe what happened, name your feeling, identify the need, make a request. The structure defuses attack and creates a shared language for conflict.
+Use the four-step structure: observe what happened, name your feeling, identify the need, make a request. The structure aims to give conflict a shared language instead of a counterattack; the trial below is what moved measurable outcomes.
 
 ### Protocol
 

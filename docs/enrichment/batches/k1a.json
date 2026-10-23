@@ -85,9 +85,9 @@
   "content/kernels/K344 — Reciprocal vulnerability.md",
   "content/kernels/K349 — Act of repair.md",
   "content/kernels/K121 — Dropping the struggle.md",
-  "content/kernels/K141 — Identity flexibility audit.md",
   "content/kernels/K151 — Eulogy exercise.md",
-  "content/kernels/K154 — Mental contrasting (WOOP).md"
+  "content/kernels/K154 — Mental contrasting (WOOP).md",
+  "content/kernels/K141 — Identity flexibility audit.md"
  ],
  "in_progress": null,
  "queue": [
@@ -136,7 +136,7 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-23T06:20:08+00:00",
+ "updated": "2026-10-23T06:23:47+00:00",
  "band_done": false,
  "flagged": {
   "content/kernels/K144 — The chariot analysis.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
@@ -168,6 +168,7 @@
   "content/kernels/K196 — Daily movement.md": "Reopened for QC: QC correction: unsupported first-line claim, outdoors comparison, errand exclusion",
   "content/kernels/K182 — Small-wins tracking.md": "Reopened for QC: QC correction: progress-vs-attainment comparative, noticing claim, self-concordance gloss",
   "content/kernels/K140 — The observer question.md": "Reopened for QC: QC correction: self-report scales claim, watcher entity, tradition equivalences",
-  "content/kernels/K152 — Committed action.md": "Reopened for QC: QC correction: clarified-value comparative, Attitudinal values link"
+  "content/kernels/K152 — Committed action.md": "Reopened for QC: QC correction: clarified-value comparative, Attitudinal values link",
+  "content/kernels/K141 — Identity flexibility audit.md": "Reopened for QC: QC round 3 repair"
  }
 }

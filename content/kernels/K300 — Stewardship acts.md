@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K300** — Stewardship acts
 
-Take responsibility for a small piece of the world: a garden bed, a street tree, a section of a beach. Care for it. The act is the ecological principle made concrete: you belong to the land, and the land belongs to those who care for it. Indigenous SEWB frameworks treat custodianship of Country as a protective factor for wellbeing.
+Take responsibility for a small piece of the world: a garden bed, a street tree, a section of a beach. Care for it. The act is the ecological principle made concrete. The study below links Indigenous participation in caring for country with better health.
 
 ### Protocol
 
@@ -26,7 +26,7 @@ From the Arnhem Land research on caring for country and health:
 
 > "Controlling for sociodemographic characteristics and health behaviours, multivariate regression revealed significant and substantial associations between caring for country and health outcomes." (Abstract, [Burgess, Johnston, Berry, McDonnell, Yibarbuk, Gunabarra, Mileran & Bailie, 2009, Medical Journal of Australia 190(10), 567-572](https://pubmed.ncbi.nlm.nih.gov/19450204/))
 
-What this evidence does not test: your garden bed. The study is cross-sectional, in one Arnhem Land community (298 adults), and measures Indigenous participation in caring-for-country activities like time on country, burning, gathering food, ceremonial protection and expressing clan links, against clinically measured health. It found, among much else, a lower psychological distress score (K5) with higher caring-for-country participation. It cannot say which way the arrow points, and the authors say so; participation may reflect health rather than build it. The kernel's extension of custodianship to an urban tree or a beach section is the practice form; the Indigenous frameworks it draws on are not interchangeable with it.
+What this evidence does not test: your garden bed. The study is cross-sectional, in one Arnhem Land community (298 adults aged 15-54), and measures self-reported involvement in caring for country against clinically measured health. Among its findings, an interquartile-range rise in the caring-for-country score was associated with a lower psychological distress score (K5: b = -0.97; 95% CI, -1.64 to -0.31). Being cross-sectional, it cannot say which way the arrow points; participation may reflect health rather than build it. The extension to an urban tree or a beach section is this practice's own form, and the Indigenous domain it borrows the word custodianship from is not interchangeable with it.
 
 ### A guided version
 
@@ -44,7 +44,7 @@ No guided version is supplied here.
 
 - [[Stewardship]]: the concept this kernel is the practice of
 - [[Nature connectedness]]: the measured attitude this practice deepens
-- [[Place attachment]]: the bond a tended place builds
+- [[Place attachment]]: the feeling side of place
 
 ## Related kernels
 

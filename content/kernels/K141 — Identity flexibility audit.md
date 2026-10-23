@@ -24,9 +24,9 @@ Steps are a practice form; the study behind it is quoted below. Intended focus: 
 
 From the research on multiple identities and well-being:
 
-> "this model predicts that when identities are highly important, having many versus few identities leads to greater psychological well-being if the identities are in harmony with each other-providing resources and expecting similar behaviors-but leads to lower psychological well-being if the identities conflict with each other-depleting resources and expecting incompatible behaviors." (Abstract, [Settles, 2008, Personality and Social Psychology Bulletin 34(12), 1588-1600](https://pubmed.ncbi.nlm.nih.gov/19050334/))
+> "this model predicts that when identities are highly important, having many versus few identities leads to greater psychological well-being if the identities are in harmony with each other-providing resources and expecting similar behaviors-but leads to lower psychological well-being if the identities conflict with each other-depleting resources and expecting incompatible behaviors." (Abstract, [Brook, Garcia & Fleming, 2008, Personality and Social Psychology Bulletin 34(12), 1588-1600](https://pubmed.ncbi.nlm.nih.gov/19050334/))
 
-What this evidence does not test: the audit. The study measured working women's identities and found results supporting the model that importance and harmony between identities, not their number, predicted well-being. It did not test writing down one's roles, still less the distinction between lived process and defended box; that distinction is the practice's own instrument. What the research supports is the audit's premise: identities that pull against each other carry a measurable cost, and taking stock is aimed at that cost.
+What this evidence does not test: the audit. The model proposes that the effects of multiple identities depend on the number of identities, their importance and their relationship; results supported the model. It did not test writing down one's roles, still less the distinction between lived process and defended box; that distinction is the practice's own instrument. What the research supports is the audit's premise: identities that pull against each other carry a measurable cost, and taking stock is aimed at that cost.
 
 ### A guided version
 
@@ -54,4 +54,4 @@ No guided version is supplied here.
 
 ## Sources
 
-- [Settles, I. H. (2008). The effects of multiple identities on psychological well-being. Personality and Social Psychology Bulletin, 34(12), 1588-1600](https://pubmed.ncbi.nlm.nih.gov/19050334/) — the study's abstract: identity importance, harmony and well-being
+- [Brook, A. T., Garcia, J., & Fleming, M. (2008). The effects of multiple identities on psychological well-being. Personality and Social Psychology Bulletin, 34(12), 1588-1600](https://pubmed.ncbi.nlm.nih.gov/19050334/) — the study's abstract: identity importance, harmony and well-being

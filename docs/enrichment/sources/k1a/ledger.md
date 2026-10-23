@@ -481,3 +481,16 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: small-to-medium pooled effect, moderator and study-count limits stated in reader terms; WOOP named as the popular packaging of MCII.
 - Mention check run: K154 already linked from MO026, K275 and the WOOP concept; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets; Practises the concept line kept).
+
+## QC round 3 (advisor milestone pass, 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Ledger correction (truthfulness): earlier entries for K307, K344, K349, K121, K141, K151, K154 claimed mention checks that had not been run. All seven mention checks were run in this round (results: K307 linked from A053/E003/E004/Body schema; K344 from A063/R005/Holding as hypothesis; K349 from A091/E007/R011; K121 from B066/D055/D073; K141 from B119/D086/D087; K151 from B055/D001/D090; K154 from B022/D061/Implementation intentions). No new reciprocal proposals needed.
+- AUTHOR CORRECTION (K141): the citation on the pushed page read "Settles, 2008"; the raw efetch header for PMID 19050334 gives Brook, Garcia & Fleming. Corrected on page and in Sources. The wrong-name version was pushed for ~15 minutes; flagged for supervisor awareness.
+- K120: 90-second figure restated as a suggested pause, not an established limit; "moments to much longer" duration range removed (not in the abstract); step 3 rewritten so persistence is not read as failure; "did not test" claim confined to what the abstract reports.
+- K300: "the land belongs to those who care for it" removed; Indigenous SEWB frameworks sentence replaced with the specific study finding; the caring-for-country activity list and the authors'-caveat attribution removed (not in the opened abstract); K5 coefficient with CI added; cross-sectional limitation stated as the writer's own.
+- K154: four steps labelled as the compendium's adaptation of the WOOP packaging; "obstacle in you" restriction softened.
+- K216: "defuses attack" opening claim restated as an aim with the trial as what moved outcomes.
+- K177, K151: negative methods claims ("did not test") softened to what the opened abstract does not report.
+- K300, K349: Related-concepts glosses neutralised (no claimed effects on Nature connectedness / Place attachment).
+- Ownership verification: kpr/k1b done lists checked by kernel ID against all 20 items worked this session, no collisions; the kernel queue remaining is 100 items by ID (the earlier 120 figure over-counted by ignoring kpr's ID-only done entries).
+- Standing changes going forward: run the mention check before writing the ledger entry; cite author lists only from the opened efetch header; keep honesty notes concise and specific to what the opened abstract does not report.
