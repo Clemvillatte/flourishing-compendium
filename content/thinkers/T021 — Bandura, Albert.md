@@ -8,42 +8,38 @@ tags: ["person", "track/psychology"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-
-> **Thinker T021** — Albert Bandura, American psychologist at Stanford University, developer of social learning theory, social cognitive theory and the self-efficacy construct; the four-sources account of efficacy belief is the compendium's main hook.
-
-## Personal story / context
-
-Bandura's construct for the belief that one can execute the behaviour required to produce an outcome came out of his 1977 Psychological Review paper, "Self-efficacy: Toward a Unifying Theory of Behavioral Change" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). The construct grew out of his earlier social-learning and modeling work, including the Bobo doll experiments.
+Albert Bandura, American psychologist; his 1977 Psychological Review paper, "Self-efficacy: Toward a Unifying Theory of Behavioral Change," states the theory in its abstract: "This theory states that psychological procedures, whatever their form, alter the level and strength of self-efficacy" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
 
 ## Their why
 
-Bandura's answer to the why is written in the 1977 paper. The paper distinguishes expecting an action to produce a result from believing oneself capable of performing it ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). Expecting a result is not the same as believing one can act, and behavior change tracks the second, not the first.
+The 1977 paper's abstract states the core hypothesis:
+
+> "It is hypothesized that expectations of personal efficacy determine whether coping behavior will be initiated, how much effort will be expended, and how long it will be sustained in the face of obstacles and aversive experiences." ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf))
 
 ## Their position
 
-Bandura's summary of what the expectation governs:
+The paper's core distinction is between two kinds of expectation: "An outcome expectancy is defined as a person's estimate that a given behavior will lead to certain outcomes. An efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). Expectations also "vary on several dimensions that have important performance implications": magnitude (which difficulty levels the expectation covers), generality (how far it extends beyond the training situation), and strength (whether disconfirming experiences extinguish it) ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
 
-> "Efficacy expectations determine how much effort people will expend and how long they will persist in the face of obstacles and aversive experiences." (Bandura, 1977, [Psychological Review, open PDF](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf))
-
-The belief is built from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). Later work rendered the definition as "believing in one's own capability to organize and execute the courses of action required to produce given attainments" ([Jonker et al., 2009, citing Bandura (1997)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776941/)).
+The model states where the expectation comes from: "In the proposed model, expectations of personal efficacy are derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states. The more dependable the experiential sources, the greater are the changes in perceived self-efficacy" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). The paper also proposes the cognitive-mediator account: "cognitive processes mediate change but... cognitive events are induced and altered most readily by experience of mastery arising from performance accomplishments" ([Bandura, 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)).
 
 ## Core ideas
 
-- **Self-efficacy** — the construct; four sources. See [[Self-efficacy]], [[Mastery experiences]], [[Modeling]].
-- **Social learning theory / social cognitive theory** — modeling, observational learning. See [[Social learning theory (Bandura)]], [[Observational learning]], [[Modeling]].
-- **Moral disengagement** — the mechanism by which people act against their own standards. See [[Moral disengagement research]].
+- **Self-efficacy** — the belief; four sources of information. See [[Self-efficacy]], [[Mastery experiences]], [[Modeling]].
+- **Social learning / social cognitive theory** — modeling and observational learning. See [[Social learning theory (Bandura)]], [[Observational learning]].
+- **Moral disengagement** — acting against one's own standards. See [[Moral disengagement research]].
 - **Collective efficacy** — the group-level extension. See [[Collective efficacy]].
-- **Mastery experiences** — the strongest of the four sources. See [[Mastery experiences]], [[Deliberate practice]].
 
 ## Connection to the compendium
 
 - [[Self-efficacy]]
+- [[Mastery experiences]]
+- [[Modeling]]
 - [[Social learning theory (Bandura)]]
 - [[Modeling]]
 - [[Moral disengagement research]]
 - [[Collective efficacy]]
+- [[Deliberate practice]]
 
 ## Sources
 
-- [Bandura, A. (1977), "Self-efficacy: Toward a Unifying Theory of Behavioral Change", Psychological Review 84(2) (open PDF)](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf) — the construct, the outcome/efficacy distinction, the persistence quote, the four sources; already opened on the compendium's Self-efficacy page.
-- [Jonker et al. (2009), PMC2776941](https://pmc.ncbi.nlm.nih.gov/articles/PMC2776941/) — the 1997 definition quoted as reported; already opened on the compendium's Self-efficacy page.
+- [Bandura, A. (1977), "Self-efficacy: Toward a Unifying Theory of Behavioral Change", Psychological Review 84(2) (open PDF)](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf) — the abstract, the effort/persistence hypothesis, the four sources, the mastery-cognitive-mediator sentence, the outcome/efficacy distinction and the dimensions list verified verbatim against the extracted text.
