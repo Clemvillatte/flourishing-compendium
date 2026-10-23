@@ -387,3 +387,12 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The Williams/Penman book (commercial) remains unopened; the franticworld.com Deeper Mindfulness audio page lists tracks but not text (opened via cloud browser, DOM text extracted); the Scribd Deeper Mindfulness doc is paywalled and carries only a truncated preview; the goodmedicine.org.uk post is the opened carrier of the book's programme-summary quote and the acceptance passages; the Frontiers table is the opened carrier of the week-to-practice mapping.
 - Original Operationalises line preserved exactly; the "Exposure therapy" Related-concepts link (no such page) retargeted to Exposure processes (an existing concept); dashes in prose reduced to 3 after the validator catch.
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K397 — Approach, don't avoid (the mouse in the maze) (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~120-word seed rebuilt to the K100 model (~600 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: Trinity College Dublin Mindfulness Week 3 page — the full book retelling of the Friedman/Forster 2001 experiment read verbatim (the maze/cartoon-mouse/Swiss-cheese/owl design, the 50%-lower creativity result, the "lingering sense of caution" close); PMC2933078 (Friedman & Forster 2010 integrative review) — the cheese-and-owl-maze influence-on-creativity sentence read verbatim; PubMed 11761303 (the 2001 JPSP record) — the paper's citation opened; Frontiers 2018 (fpsyg.02121) — the operationalisation of "seeking reward"/"avoiding punishment" opened.
+- The primary 2001 JPSP article is paywalled at APA; the opened carriers are the PubMed record, the peer-reviewed 2010 review of the paradigm by the same authors, and the university retelling of the experiment — the design and the creativity outcome are confirmed against all three.
+- Limits section updated to record the re-verification (the original said "not independently re-verified by the WIKI" — now that the carriers are opened, the note names them).
+- Original Operationalises line preserved exactly; Related concepts retargeted to existing pages only (Approach versus avoidance motivation, Regulatory focus theory, Creativity — existence checked).
+- Customer-facing grep clean; validator ok, 0 failed.
