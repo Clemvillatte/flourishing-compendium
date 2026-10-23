@@ -582,3 +582,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: cross-sectional survey, no well-being outcomes in the abstract, no test of the practice itself or of regular visits; the seed's well-being claim left as the seed's framing, with the honesty paragraph noting the abstract reports no well-being outcomes.
 - Mention check run (before this entry): K299 already linked from R011/R012/R015/A091/E007 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K125 — The empty boat reflection (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Gilovich, Medvec & Savitsky 2000 (J Pers Soc Psychol 78(2):211-222), the spotlight effect studies, abstract verified raw via NCBI efetch (PMID 10707330); authors read from the efetch header.
+- The blockquote (spotlight effect definition sentence) matches the raw efetch text verbatim.
+- Honesty on page: the studies measured estimates of being observed, not attributions of others' hostile intent; no intervention on resentment claimed. The Chuang Tzu parable's own text not opened and not cited.
+- Mention check run (before this entry): K125 already linked from D088/B088/P057 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). First draft linked a nonexistent "K151 — Rejection-resentment mapping"; caught by the validator's unresolved-link check and replaced with K170 Forgiveness practice before save.
