@@ -150,3 +150,34 @@ Repairs applied in this pass, all pushed to origin/main:
 Final state on origin/main: the-self 200 blocks (0 truncated, 0 non-quote
 em dashes, 160 card targets resolve); anger 75 blocks (0 truncated, 0
 non-quote em dashes, 40 card targets resolve).
+
+## Revision 5 (2026-10-23, worker-pplx-dossiers-1025) — divergence repair
+
+- NE II.7 locator verified against the Internet Classics Archive carrier:
+  Book II chapter 7 contains the righteous indignation passage
+  ("Righteous indignation is a mean between envy and spite... pained at
+  undeserved good fortune"). The dossier's replacement locator is
+  confirmed. The concept page's own NE IV.9 locator remains wrong and is
+  flagged for the concept band (Book IV.9 is about shame).
+- The "Does revenge deliver what it promises?" subsection was removed from
+  the divergence section. It presented a research finding (Carlsmith 2008)
+  against Seneca's advice, which is not two traditions answering the same
+  question. The Carlsmith finding remains in the map under the Revenge
+  entry, where research findings belong. Only the genuine Aristotle-vs-
+  Seneca disagreement remains in the divergence section.
+- Seneca's position in the divergence section was corrected: he denies the
+  fitting case (anger is by definition a mistake), rather than the earlier
+  unsupported characterization ("resting on a judgment the mind has not
+  examined").
+- The-self Academy data: two contradictory evidence labels corrected
+  (Dalal/SEP -> Scholarly interpretation; Hayes et al. -> Scholarly
+  review), and two headings normalized to colons to match the markdown.
+
+Verification limits stated honestly: the Carlsmith abstract was obtained
+via a web search result rendering, not a directly opened PubMed page
+(PubMed and Europe PMC returned crawler errors). The claim retained in the
+map matches the abstract text as rendered by the search result. The
+Lieberman affect-labeling study was verified against the concept page's
+own quoted abstract, not a freshly opened carrier.
+
+Commit b948db0.
