@@ -15,6 +15,16 @@ Anapanasati is mindfulness of in-and-out breathing. In the Anapanasati Sutta (MN
 
 The sutta then gives sixteen training steps, grouped over body, feelings, mind and mental qualities, with the breath as the anchor throughout. Its claim for the developed practice is stated as a chain: mindfulness of in-and-out breathing, developed and pursued, brings the four frames of reference to their culmination; those bring the seven factors for awakening to their culmination, ending in knowledge and release.
 
+### From posture to release
+
+The sutta begins with the body and ends with letting go. The monk "sits down folding his legs crosswise, holding his body erect, and setting mindfulness to the fore", then "Always mindful, he breathes in; mindful he breathes out." The early steps are plain observation. By the fourth the instruction becomes a quiet regulation of the body: "He trains himself, 'I will breathe in calming bodily fabrication.'" The later steps turn the same breath toward the mind's own contents, with trainings in "focusing on inconstancy", "focusing on dispassion" and "focusing on relinquishment" (MN 118, Thanissaro translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)).
+
+The sutta states its own claim: "Mindfulness of in-&-out breathing, when developed & pursued, is of great fruit, of great benefit." The sutta makes that claim for its own path, and this page does not test it. What a reader can verify is the shape of the instruction: begin with what is simply present, let the body settle, and then look at what arises and passes.
+
+### What it is not
+
+Anapanasati is not presented in the sutta as a relaxation technique. Its first instruction is to discern the breath as it is, long or short, and the later steps move on to feelings, mind and mental qualities. The compendium keeps slow-breathing research on a separate line, in the kernel on slow breathing.
+
 ### In the compendium
 
 - [[B038 — Practice mindfulness of breathing (anapanasati)]] — teaches the practice from the sutta's posture and its long-or-short instruction
