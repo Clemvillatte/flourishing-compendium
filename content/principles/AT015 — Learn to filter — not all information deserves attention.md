@@ -28,6 +28,10 @@ These are laboratory tasks with brief displays, not comparisons of email filters
 
 For example: you unsubscribe from newsletters you never use. Other demands remain in your inbox, but these subscriptions no longer require a decision about opening them.
 
+## Related concepts
+
+- [[T037 — Weil, Simone]]: the discipline of attention, Waiting for God's case for filtering
+
 ## Sources
 
 - Lavie (2005), "Distracted and confused?: Selective attention under load", Trends Cogn Sci 9:75-82: [PubMed 15668100](https://pubmed.ncbi.nlm.nih.gov/15668100/)
