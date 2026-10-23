@@ -14,7 +14,7 @@ For a significant decision, ask: does this choice come from my own interest and 
 
 ### Protocol
 
-1. Generate the two questions in writing, before the decision closes: because I want it, or because I fear the alternative; for myself, or for someone else's image of me. Written, because the introjected pressure answers best to ink.
+1. Generate the two questions in writing, before the decision closes: from my own interest and endorsement, or from external demand and guilt; would I still choose it if no one were watching. Written, because the introjected pressure answers best to ink.
 2. Select the honest answer, not the flattering one. Fear can inform a considered choice; the test is which of the four, interest, endorsement, external demand, guilt, is doing the work.
 3. Retain the audit result with the decision: if the choice remains endorsed after the audit, proceed and own it; if it does not, the audit has done its work before the commitment does damage.
 4. Repeat at each significant decision until the two questions fire on their own. The audit is finished when the introjected sanction, the guilt and anxiety kind, is recognised on arrival rather than obeyed.
