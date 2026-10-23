@@ -1892,3 +1892,13 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 .dossier-step { display:flex; gap:14px; align-items:flex-start; margin:0 0 16px; }
 .dossier-step-n { flex:0 0 auto; font-family:'Fraunces',Georgia,serif; font-size:15px; font-weight:600; color:var(--gold); border:1px solid color-mix(in srgb, var(--gold) 45%, transparent); border-radius:999px; width:28px; height:28px; display:flex; align-items:center; justify-content:center; margin-top:2px; }
 .dossier-step .dossier-p { margin:0; }
+/* Dossiers v2 — side TOC + variation/selection/retention blocks */
+.dossier-layout { display:flex; gap:34px; align-items:flex-start; }
+.dossier-toc { position:sticky; top:20px; flex:0 0 216px; max-height:calc(100vh - 40px); overflow:auto; padding-top:6px; }
+.dossier-toc-title { font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--faint); margin-bottom:8px; }
+.dossier-toc-item { display:block; font-size:12.5px; line-height:1.5; color:var(--muted); text-decoration:none; padding:3px 0; border-left:2px solid transparent; padding-left:10px; }
+.dossier-toc-item.t { font-weight:600; color:var(--text); margin-top:8px; }
+.dossier-toc-item:hover { color:var(--gold); border-left-color:color-mix(in srgb, var(--gold) 45%, transparent); }
+.dossier-vs { border:1px solid color-mix(in srgb, var(--gold) 35%, transparent); border-radius:10px; padding:14px 16px; margin:0 0 16px; background:color-mix(in srgb, var(--gold) 6%, var(--bg)); }
+.dossier-vs-label { display:block; font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:var(--gold); margin-bottom:6px; }
+@media (max-width: 900px){ .dossier-layout { flex-direction:column; } .dossier-toc { position:static; flex:auto; max-height:none; display:flex; flex-wrap:wrap; gap:4px 14px; } }

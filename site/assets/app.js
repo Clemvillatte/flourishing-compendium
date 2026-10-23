@@ -2934,65 +2934,848 @@ function dossierRich(text){
   return out;
 }
 window.fcDossiersData = {
-  schemaVersion: 1,
-  updated: '2026-10-23',
-  dossiers: [
+  "schemaVersion": 2,
+  "updated": "2026-10-23",
+  "dossiers": [
     {
-      id: 'the-self',
-      title: 'The Self',
-      question: 'What am I, if not the story I keep telling about myself?',
-      intro: [
-        'The editorial aim behind this dossier is the one that runs through the whole compendium: to loosen the grip of the self-as-object, the self known, judged and defended, and to let the opened sources carry the claims.',
-        'Two essay angles the material supports. First, the two great examinations of experience, SN 22.59\u2019s aggregate analysis and Advaita Ved\u0101nta\u2019s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person\u2019s problems than about their own, and instruction to self-distance eliminated the asymmetry (Grossmann and Kross 2014).',
-        'Evidence notes describe the quoted passages only. A checked quotation certifies the passage, not the whole linked page.'
+      "id": "the-self",
+      "title": "The Self",
+      "question": "What am I, if not the story I keep telling about myself?",
+      "intro": [
+        "# The Self",
+        "This dossier is a map, not an essay. The aim is that a reader can say “I want to think about the self”, open this page, and see the whole spread of what the compendium holds on it: every entry that bears on the self, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to loosen the grip of the self-as-object, the self known, judged and defended.",
+        "Two essay angles the material supports. First, the two great examinations of experience, SN 22.59’s aggregate analysis and Advaita Vedānta’s, both take up identity and suffering together, and where they part is what the examination finds. Second, a question the research makes testable: can changing the perspective from which we consider our problems change our reasoning? Across three experiments with 693 participants, people reasoned more wisely about another person’s problems than about their own, and instruction to self-distance eliminated the asymmetry ([Grossmann and Kross 2014](https://uwaterloo.ca/wisdom-and-culture-lab/sites/default/files/uploads/files/grossmann_kross_-_exploring_solomons_paradox_-_article_proof.pdf)).",
+        "How to read this page. Each line gives the entry’s own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
       ],
-      blocks: [
-        { t: 'h', x: 'Theme-Based Compilation' },
-        { t: 'h2', x: 'What do I take myself to be?' },
-        { t: 'p', x: '[Anatta](card:Anatta) is the Buddhist teaching that no permanent, unchanging, independent self is to be found. The analysis in the Anattalakkha\u1e47a Sutta runs through the five aggregates, testing each for the control a true owner would have:' },
-        { t: 'q', x: 'Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease. It would be possible (to say) with regard to form, \u2018Let my form be thus. Let my form not be thus.\u2019', c: 'SN 22.59, trans. Thanissaro', u: 'https://www.dhammatalks.org/suttas/SN/SN22_59.html', s: 'Primary text; quoted passages checked' },
-        { t: 'q', x: 'Every form is to be seen with right discernment as it has come to be: \u2018This is not mine. This is not my self. This is not what I am.\u2019', c: 'SN 22.59', s: 'Primary text; quoted passages checked' },
-        { t: 'p', x: 'Practice principle: [B003 \u2014 Hold the self lightly](card:B003 \u2014 Hold the self lightly (anatta)).' },
-        { t: 'p', x: '[Atman](card:Atman) is Advaita Ved\u0101nta\u2019s answer: the self, examined to the bottom, is pure consciousness. Neil Dalal\u2019s Stanford entry states the position:' },
-        { t: 'q', x: 'The fundamental thrust of Advaita Ved\u0101nta is that the \u0101tman is pure non-intentional consciousness. It is one without a second, nondual, infinite existence, and numerically identical with brahman.', c: 'Dalal, SEP', u: 'https://plato.stanford.edu/archives/spr2026/entries/shankara/', s: 'Scholarly interpretation; cited passage checked' },
-        { t: 'p', x: 'This is Advaita\u2019s position, not a statement about Indian philosophy as a whole.' },
-        { t: 'p', x: '[The observing self](card:The observing self) is Arthur Deikman\u2019s name for the witness that notices thoughts and feelings without being any of them:' },
-        { t: 'q', x: 'Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.', c: 'Deikman 1982', u: 'https://www.deikman.com/observing.html', s: 'Primary text; quoted passages checked' },
-        { t: 'q', x: 'In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.', c: 'Deikman 1982', s: 'Primary text; quoted passages checked' },
-        { t: 'p', x: 'Practice principle: [SE002 \u2014 Recognise the observing self](card:SE002 \u2014 Recognise the observing self \u2014 you are not only the contents of awareness).' },
-        { t: 'h2', x: 'What changes when I observe a thought?' },
-        { t: 'p', x: '[Self-distancing](card:Self-distancing) is the research programme that measured what the observing position does. The authors\u2019 own image:' },
-        { t: 'q', x: 'It is also possible for people to take a step back when thinking about past experiences and reason about them from the perspective of a distanced observer, akin to a fly on the wall.', c: 'Kross and Ayduk 2011', u: 'https://rascl.studentorg.berkeley.edu/assets/files/kross_ayduk_2011_cd.pdf', s: 'Study text; quoted passage checked' },
-        { t: 'p', x: 'The wise-reasoning result, quoted in the opening (Grossmann and Kross 2014, quoted passage checked). Practice principle: [CO066 \u2014 Take the third-person perspective](card:CO066 \u2014 Learn to take the third-person perspective \u2014 distanced self-talk improves reasoning).' },
-        { t: 'p', x: '[Self-as-context](card:Self-as-context) is the version from acceptance and commitment therapy, where the observing position is trained as a skill:' },
-        { t: 'q', x: 'ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the \u201cI/here/nowness\u201d of conscious experience. It is usually termed \u201cself as context\u201d although other terms (\u201cnoticing self,\u201d \u201cobserver perspective,\u201d \u201ctranscendent sense of self\u201d) have been used.', c: 'Hayes et al. 2013', u: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/', s: 'Scholarly review; cited passage checked' },
-        { t: 'p', x: 'Training kernel: [K139 \u2014 Self-as-context](card:K139 \u2014 Self-as-context).' },
-        { t: 'h2', x: 'What do relationships contribute to identity?' },
-        { t: 'p', x: '[Independent vs interdependent self-construal](card:Independent vs interdependent self-construal (Markus & Kitayama)) is Hazel Markus and Shinobu Kitayama\u2019s account of the two ways cultures teach people to be a self. Their definitions:' },
-        { t: 'q', x: 'Achieving the cultural goal of independence requires construing oneself as an individual whose behavior is organized and made meaningful primarily by reference to one\u2019s own internal repertoire of thoughts, feelings, and action, rather than by reference to the thoughts, feelings, and actions of others.', c: 'Markus and Kitayama 1991', u: 'https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf', s: 'Primary text; quoted passages checked' },
-        { t: 'q', x: 'Experiencing interdependence entails seeing oneself as part of an encompassing social relationship and recognizing that one\u2019s behavior is determined, contingent on, and, to a large extent organized by what the actor perceives to be the thoughts, feelings, and actions of others in the relationship.', c: 'Markus and Kitayama 1991', s: 'Primary text; quoted passages checked' },
-        { t: 'p', x: 'Related compendium pages: [Ubuntu](card:Ubuntu) and [The relational self](card:The relational self).' },
-        { t: 'h2', x: 'What, if anything, remains through change?' },
-        { t: 'p', x: 'The [chariot image](card:Anatta) from the Milindapa\u00f1ha gives the aggregate analysis its everyday handle:' },
-        { t: 'q', x: 'It is on account of its having all these things\u2014the pole, and the axle, the wheels, and the framework, the ropes, the yoke, the spokes, and the goad\u2014that it comes under the generally understood term, the designation in common use, of \u2018chariot.\u2019', c: 'Mil 3.1.1, trans. Rhys Davids', u: 'https://suttacentral.net/mil3.1.1/en/tw_rhysdavids', s: 'Primary text; quoted passage checked' },
-        { t: 'p', x: 'Practice kernel: [K144 \u2014 The chariot analysis](card:K144 \u2014 The chariot analysis).' },
-        { t: 'p', x: 'Further reading; not assessed for this dossier: [Minimal self](card:Minimal self), [The narrative self](card:The narrative self), [Ecological self](card:Ecological self), [Ego dissolution](card:Ego dissolution).' },
-        { t: 'p', x: 'A caution worth carrying into any essay: four claims that sound alike and are not. That experience has a first-person character, that a person needs a narrative, that identity is social through and through, and that a permanent metaphysical essence exists. A tradition can hold any three and deny the fourth, so a disagreement about \u201cthe self\u201d is never about one thing.' },
-        { t: 'h', x: 'Theme-Based Areas of divergence' },
-        { t: 'h2', x: 'Is there a permanent self?' },
-        { t: 'p', x: 'The shared question, stated narrowly: what can rightly be regarded as self? SN 22.59\u2019s aggregate analysis answers by examination. Each aggregate, past or future, internal or external, is tested for ownership, and the test fails: \u201cThis is not mine. This is not my self. This is not what I am\u201d (SN 22.59, quoted passage checked). That analysis locates no owner in the body or the mind. Advaita Ved\u0101nta, in Dalal\u2019s account, runs an examination of its own and takes it to end elsewhere: in consciousness that is not an object. \u201cAdvaitins understand brahman as transcending individuality and empirical plurality. They seek to establish that the essential core of one\u2019s self (\u0101tman) is brahman\u201d (SEP, cited passage checked). The entry describes the error as mutual superimposition: \u201cWe mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)\u201d (SEP, cited passage checked).' },
-        { t: 'p', x: 'On the Advaita side, Dalal\u2019s entry describes what the error costs: \u015aa\u1e45kara identifies avidy\u0101 as \u201cthe root cause of all existential suffering\u201d, producing \u201ca baseline of fear and anxiety due to assuming one\u2019s self as a limited being subject to sorrow, sickness, and death\u201d (SEP, cited passage checked).' },
-        { t: 'p', x: 'The precise difference is what the examination is taken to find. SN 22.59\u2019s analysis works through the contents of experience one by one and grants none of them the status of owner. Advaita holds that consciousness itself, the field in which all contents appear, is the one referent that is not a content. What remains unresolved, and what an essay can honestly leave open: whether the observing position that the practices below train is a final referent or one more event to be examined. The psychological research measures what the perspective does; it does not settle what the perspective is.' },
-        { t: 'h2', x: 'Is the self separate or relational?' },
-        { t: 'p', x: 'The shared question: is identity primarily a possession of the individual or a property of relationships? Markus and Kitayama\u2019s two construals, quoted above, give the cleanest statement of each pole: the self organized by one\u2019s own internal repertoire of thoughts, feelings and action, against the self organized by what the actor perceives to be the thoughts, feelings and actions of others in the relationship (1991, quoted passages checked).' },
-        { t: 'p', x: 'For comparison here, the two descriptions are treated as lenses, without assigning whole people or cultures to either. The concept page carries the debate the theory set off over whether whole cultures fit either pole. The relational pole is carried by [Ubuntu](card:Ubuntu) and [The relational self](card:The relational self); the delicate work of holding both is [R077 \u2014 Practise relational autonomy](card:R077 \u2014 Practise relational autonomy). Unresolved: whether the construals describe selves, or the situations selves move between.' },
-        { t: 'h', x: 'Theme-Based practice' },
-        { t: 'p', x: 'An editorial sequence of existing practice kernels, ordered from the smallest move to the widest view. No study tested this sequence; each kernel carries its own evidence and its own limits, stated with it.' },
-        { t: 'n', i: 1, x: '[K126 \u2014 Cognitive defusion](card:K126 \u2014 Cognitive defusion), for the moment a single sticky thought bites. The technique is defined as designed \u201cto reduce the functions of thoughts by altering the context in which they occur, rather than the attempting to alter the form, frequency, or situational sensitivity of the thoughts themselves\u201d (Masuda et al. 2004, quoted passage checked). The kernel\u2019s protocol, an adaptation of the tradition, reframes the thought as an event: \u201cI notice I\u2019m having the thought that I will fail.\u201d Evidence limits, in the authors\u2019 own words: their data \u201cdo not show, however, that Titchener\u2019s defusion procedure, or defusion procedures more generally, are actually clinically useful\u201d (Masuda et al. 2004, quoted passage checked).' },
-        { t: 'n', i: 2, x: '[K261 \u2014 Self-distanced reflection](card:K261 \u2014 Self-distanced reflection), for when a whole situation loops. The kernel\u2019s protocol is an editorial arrangement: write about the situation from the fly-on-the-wall perspective, in the third person, then keep what the observer knows that the player did not. The research behind the move is quoted in the opening: self-distancing eliminated the own-versus-other asymmetry in wise reasoning across three experiments, N = 693 (Grossmann and Kross 2014, quoted passages checked), and spontaneous self-distancers report less distress and rumination (Kross and Ayduk 2011, quoted passage checked). The experiments measured reasoning on relationship problems, not life decisions, and they concern chosen reflection tasks, so the practice is a tool for a chosen question.' },
-        { t: 'n', i: 3, x: '[K139 \u2014 Self-as-context](card:K139 \u2014 Self-as-context), for when a self-judgment has hardened into a verdict. The kernel\u2019s protocol, an adaptation of the ACT tradition, names the story as a story and moves attention to the one noticing it. The component evidence is thin, and the review that canvassed it says so in its own words: \u201cthere is only provisional but very limited evidence to suggest that SAC can be effectively taught and implemented as a stand-alone process to manage emotional well-being\u201d (Godbee and Kangas 2020, quoted passage checked).' },
-        { t: 'n', i: 4, x: '[K144 \u2014 The chariot analysis](card:K144 \u2014 The chariot analysis), for when a self-image starts speaking as the whole self. In the kernel\u2019s everyday adaptation, a self-image is examined through feelings, memories and roles. Its source dialogue examines the chariot through its parts, and closes with the dialogue\u2019s own questions: \u201cThen is it all these parts of it that are the chariot?\u201d \u201cNo, Sir.\u201d \u201cBut is there anything outside them that is the chariot?\u201d And still he answered no. (Mil 3.1.1, trans. Rhys Davids, quoted passages checked.) The dialogue is a philosophical text, and the kernel\u2019s page says so plainly.' },
-        { t: 'p', x: 'Further practices held in the corpus, as exploration rather than steps: [K335 \u2014 The witness practice](card:K335 \u2014 The witness practice) and [K146 \u2014 Ego dissolution practice](card:K146 \u2014 Ego dissolution practice). Widening the self relationally is a reading direction here, through [Ubuntu](card:Ubuntu) and the further-reading pages above, and the compendium\u2019s verified practice for that work belongs to a future dossier, not this one.' }
+      "blocks": [
+        {
+          "t": "h",
+          "x": "The map — every entry the wiki holds on the self"
+        },
+        {
+          "t": "h2",
+          "x": "What the self is taken to be"
+        },
+        {
+          "t": "p",
+          "x": "[Identity](card:Identity) — the answer to \"who am I\": whether a fixed essence (ātman), a construction of aggregates (anattā), a narrative (Ricoeur), or a relation (Ubuntu)."
+        },
+        {
+          "t": "p",
+          "x": "[Anatta](card:Anatta) — (Pali; Sanskrit anātman) is the Buddhist teaching that there is no permanent, unchanging, independent self."
+        },
+        {
+          "t": "p",
+          "x": "[Atman](card:Atman) — Within Śaṅkara's Advaita Vedānta, the ātman is identified with Brahman and described as pure, non-intentional consciousness."
+        },
+        {
+          "t": "p",
+          "x": "[The witness](card:The%20witness) — in Śaṅkara's Advaita Vedānta, is consciousness in its role as the presence by which experience is known."
+        },
+        {
+          "t": "p",
+          "x": "[Witness consciousness in the Drig-Drisya-Viveka procedure](card:Witness%20consciousness%20in%20the%20Drig-Drisya-Viveka%20procedure) — Witness consciousness (sākṣī) is, in the Advaita Vedanta of the Drig-Drisya-Viveka, the seer behind every seen."
+        },
+        {
+          "t": "p",
+          "x": "[The empirical self](card:The%20empirical%20self) — William James’s name, in The Principles of Psychology, for the self as it can be studied: me rather than I."
+        },
+        {
+          "t": "p",
+          "x": "[True self](card:True%20self) — The construct, in Schlegel and colleagues’ research, of a self felt as real and stable beneath its roles."
+        },
+        {
+          "t": "p",
+          "x": "[The composite self](card:The%20composite%20self) — In Reasons and Persons, Parfit calls his view Reductionism: on it, a person just consists in \"the existence of a brain and body, and the occurrence of a series of interrelated physical and mental events.\" (Parfit, p."
+        },
+        {
+          "t": "p",
+          "x": "[Self as process](card:Self%20as%20process) — The self as process is the psychological reading of an old philosophical thought: that a self is something a person is always doing, not a thing they have."
+        },
+        {
+          "t": "p",
+          "x": "[Self as construction](card:Self%20as%20construction) — The self as construction is the view that a person's sense of who they are is assembled from experience, memory and social interaction, not discovered as a fixed essence."
+        },
+        {
+          "t": "p",
+          "x": "[Minimal self](card:Minimal%20self) — The minimal self is the thinnest sense of being a subject: the first-person character that every experience has, before any reflection or life story."
+        },
+        {
+          "t": "p",
+          "x": "[Embodied self](card:Embodied%20self) — The self as felt from inside the body: an interoceptive account of embodiment rather than the body as observed."
+        },
+        {
+          "t": "p",
+          "x": "[Critique of the unencumbered self](card:Critique%20of%20the%20unencumbered%20self) — Michael Sandel calls the self conceived as given prior to and independent of its purposes and ends the \"unencumbered self\"; his critique targets versions of liberalism associated with Kant and John Rawls (Sandel…"
+        },
+        {
+          "t": "p",
+          "x": "[The wider self](card:The%20wider%20self) — the compendium's umbrella term for the proposal that the boundary of a person is wider than the skin, so that things outside the body — a place, a river, other living beings — can be part of the self…"
+        },
+        {
+          "t": "p",
+          "x": "The Anattalakkhaṇa Sutta runs the analysis through the five aggregates, testing each for the control a true owner would have:"
+        },
+        {
+          "t": "q",
+          "x": "“Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease. It would be possible (to say) with regard to form, ‘Let my form be thus. Let my form not be thus.’” ([SN 22.59, trans. Thanissaro](https://www.dhammatalks.org/suttas/SN/SN22_59.html)) — Primary text; quoted passages checked.",
+          "s": "Primary text; quoted passages checked"
+        },
+        {
+          "t": "q",
+          "x": "“Every form is to be seen with right discernment as it has come to be: ‘This is not mine. This is not my self. This is not what I am.’” (SN 22.59) — Primary text; quoted passages checked.",
+          "s": "Primary text; quoted passages checked"
+        },
+        {
+          "t": "p",
+          "x": "Advaita Vedānta’s answer, as Neil Dalal’s Stanford entry states it:"
+        },
+        {
+          "t": "q",
+          "x": "“The fundamental thrust of Advaita Vedānta is that the ātman is pure non-intentional consciousness. It is one without a second, nondual, infinite existence, and numerically identical with brahman.” ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/)) — Scholarly interpretation; cited passage checked.",
+          "s": "Primary text; quoted passages checked"
+        },
+        {
+          "t": "p",
+          "x": "The chariot image from the Milindapañha gives the aggregate analysis its everyday handle:"
+        },
+        {
+          "t": "q",
+          "x": "“It is on account of its having all these things—the pole, and the axle, the wheels, and the framework, the ropes, the yoke, the spokes, and the goad—that it comes under the generally understood term, the designation in common use, of ‘chariot.’” ([Mil 3.1.1, trans. Rhys Davids](https://suttacentral.net/mil3.1.1/en/tw_rhysdavids)) — Primary text; quoted passages checked.",
+          "s": "Primary text; quoted passages checked"
+        },
+        {
+          "t": "h2",
+          "x": "The observing self and the step back"
+        },
+        {
+          "t": "p",
+          "x": "[The observing self](card:The%20observing%20self) — Arthur Deikman's name for awareness itself: the \"I\" that witnesses thoughts, feelings and sensations without being identical to any of them."
+        },
+        {
+          "t": "p",
+          "x": "[Self-as-context](card:K139%20%E2%80%94%20Self-as-context) — The ACT move of noticing the one who notices: awareness as context rather than content (Hayes et al., 2011)."
+        },
+        {
+          "t": "p",
+          "x": "[Self-distancing](card:Self-distancing) — in Kross's formulation, is a process that allows people to transcend their egocentric viewpoint when reasoning about an experience, viewing themselves from the perspective of a distanced observer, akin…"
+        },
+        {
+          "t": "p",
+          "x": "[Distanced self-talk (Kross)](card:Distanced%20self-talk%20%28Kross%29) — Ethan Kross’s practice of referring to yourself by name or with non-first-person pronouns while reflecting on something stressful."
+        },
+        {
+          "t": "p",
+          "x": "[Self-awareness theory Duval Wicklund](card:Self-awareness%20theory%20Duval%20Wicklund) — Objective self-awareness theory is a social-psychological account of what happens when attention turns toward the self."
+        },
+        {
+          "t": "p",
+          "x": "Deikman’s own lines on the observing self:"
+        },
+        {
+          "t": "q",
+          "x": "“Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.” ([Deikman 1982](https://www.deikman.com/observing.html)) — Primary text; quoted passages checked.",
+          "s": "Primary text; quoted passages checked"
+        },
+        {
+          "t": "q",
+          "x": "“In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.” (Deikman 1982) — Primary text; quoted passages checked.",
+          "s": "Primary text; quoted passages checked"
+        },
+        {
+          "t": "p",
+          "x": "The ACT version trains the position as a skill:"
+        },
+        {
+          "t": "q",
+          "x": "“ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the ‘I/here/nowness’ of conscious experience.” ([Hayes et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/)) — Scholarly review; cited passage checked.",
+          "s": "Primary text; quoted passages checked"
+        },
+        {
+          "t": "h2",
+          "x": "The narrative self"
+        },
+        {
+          "t": "p",
+          "x": "[Narrative identity](card:Narrative%20identity) — Paul Ricoeur's account of the self as told."
+        },
+        {
+          "t": "p",
+          "x": "[The narrative self](card:The%20narrative%20self) — Alasdair MacIntyre's After Virtue (1981) grounds moral life in narrative."
+        },
+        {
+          "t": "p",
+          "x": "[Narrative self](card:Narrative%20self) — The self understood as the protagonist of one’s own life story."
+        },
+        {
+          "t": "p",
+          "x": "[Narrative identity theory McAdams](card:Narrative%20identity%20theory%20McAdams) — McAdams — identity is a life story; redemption sequences and agency themes in the narrative predict generativity and wellbeing."
+        },
+        {
+          "t": "p",
+          "x": "[The redemptive self](card:The%20redemptive%20self) — Dan McAdams's name for the life-story pattern his research found among highly generative American adults."
+        },
+        {
+          "t": "p",
+          "x": "[Narrative redemption sequences](card:Narrative%20redemption%20sequences) — are the story-shape in which a bad scene turns good."
+        },
+        {
+          "t": "p",
+          "x": "[Narrative as meaning-making](card:Narrative%20as%20meaning-making) — Paul Ricoeur's claim, developed across the three volumes of Time and Narrative (1984-88), that narrative explains how stories help make practical sense of human action and time."
+        },
+        {
+          "t": "p",
+          "x": "[Narrative configuration](card:Narrative%20configuration) — Paul Ricoeur's name for the work a plot does: taking a scattered run of events and giving them the shape of a followable story."
+        },
+        {
+          "t": "p",
+          "x": "[Reconfiguration of narrative](card:Reconfiguration%20of%20narrative) — Ricoeur’s name, in Time and Narrative, for the work a plot does: refiguring a scattered run of events into a followable story."
+        },
+        {
+          "t": "p",
+          "x": "[Narrative empathy](card:Narrative%20empathy) — the sharing of feeling and perspective that comes from engaging with stories."
+        },
+        {
+          "t": "p",
+          "x": "[Narrative therapy](card:Narrative%20therapy) — was initially developed by the Australian Michael White and the New Zealander David Epston."
+        },
+        {
+          "t": "p",
+          "x": "[Narrative repair](card:Narrative%20repair) — Hilde Lindemann Nelson's account, in Damaged Identities, Narrative Repair (2001), of how identities injured by oppressive group relations can be mended."
+        },
+        {
+          "t": "p",
+          "x": "[The narrative fallacy](card:The%20narrative%20fallacy) — Nassim Taleb's name for the mind's inability to leave a sequence of facts alone: given events in order, we weave an explanation into them, and the story then feels like understanding."
+        },
+        {
+          "t": "p",
+          "x": "[Journaling as self-reflection](card:Journaling%20as%20self-reflection) — The research behind journaling as self-reflection is the expressive-writing tradition that Pennebaker began, now called experimental disclosure in the literature."
+        },
+        {
+          "t": "h2",
+          "x": "The social and cultural self"
+        },
+        {
+          "t": "p",
+          "x": "[The looking-glass self](card:The%20looking-glass%20self) — Looking-Glass Self — Cooley — self-concept forms from imagining how we appear to others and their judgment of that appearance."
+        },
+        {
+          "t": "p",
+          "x": "[The social self](card:The%20social%20self) — George Herbert Mead's answer to the question of what a self is made of."
+        },
+        {
+          "t": "p",
+          "x": "[The relational self](card:The%20relational%20self) — the idea that a person's self exists in and through their relationships: a person is partly constituted by bonds with parents, partners and communities rather than assembled first and connected…"
+        },
+        {
+          "t": "p",
+          "x": "[Independent vs interdependent self-construal (Markus & Kitayama)](card:Independent%20vs%20interdependent%20self-construal%20%28Markus%20%26%20Kitayama%29) — Independent and interdependent self-construal are Hazel Markus and Shinobu Kitayama's names for the two ways cultures teach people to be a self."
+        },
+        {
+          "t": "p",
+          "x": "[Interdependent self-construal](card:Interdependent%20self-construal) — describes a view of the self as fundamentally connected to other people."
+        },
+        {
+          "t": "p",
+          "x": "[Relational-interdependent self-construal](card:Relational-interdependent%20self-construal) — The relational-interdependent self-construal is Susan Cross and colleagues' name for a way of thinking about yourself: in terms of your relationships with close others."
+        },
+        {
+          "t": "p",
+          "x": "[Social identity theory](card:Social%20identity%20theory) — formulated by Henri Tajfel and John Turner, explains intergroup behavior through the part of a person's self-image that comes from the groups they belong to."
+        },
+        {
+          "t": "p",
+          "x": "[Self-Categorization Theory](card:Self-Categorization%20Theory) — Self-categorization theory (SCT) \"was developed by John Turner and colleagues, and along with social identity theory it is a constituent part of the social identity approach\" (Self-categorization theory, Wikipedia)."
+        },
+        {
+          "t": "p",
+          "x": "[Embodied social identity](card:Embodied%20social%20identity) — The compendium anchors embodied social identity in two sources: Fanon's account of Blackness lived through the body under the white gaze (Fanon, The Fact of Blackness), and Cross's model of Black identity development…"
+        },
+        {
+          "t": "p",
+          "x": "[The culturally embedded self](card:The%20culturally%20embedded%20self) — Taylor connects identity with commitments and identifications that provide a framework for judging what is good, valuable, or ought to be done."
+        },
+        {
+          "t": "p",
+          "x": "[The hyphenated self](card:The%20hyphenated%20self) — the postcolonial name for an identity held in the join: British-Indian, Korean-American, the self that lives in the hyphen between inherited and adopted affiliations rather than in either alone."
+        },
+        {
+          "t": "p",
+          "x": "[Bicultural identity integration](card:Bicultural%20identity%20integration) — (BII) names the degree to which a bicultural individual perceives his or her two cultural identities as \"compatible\" versus \"oppositional\" (Benet-Martínez and Haritatos 2005, abstract)."
+        },
+        {
+          "t": "p",
+          "x": "[Multicultural identity theory](card:Multicultural%20identity%20theory) — studies how people hold more than one cultural identity at once, and whether those identities live together or fight."
+        },
+        {
+          "t": "p",
+          "x": "[Ecological self](card:Ecological%20self) — The ecological self, in Arne Naess's deep ecology, is the self understood through its constitutive relations with the living world, not only through its relations with other humans."
+        },
+        {
+          "t": "p",
+          "x": "[Ecological identity](card:Ecological%20identity) — the part of a person's self-understanding that is built in relation to the natural world."
+        },
+        {
+          "t": "p",
+          "x": "[Self-silencing theory Jack](card:Self-silencing%20theory%20Jack) — Self-silencing theory is Dana Jack's account of how people, beginning with the depressed women she interviewed, suppress their own thoughts, feelings and needs to keep close relationships safe, and what that suppression…"
+        },
+        {
+          "t": "p",
+          "x": "Markus and Kitayama’s two construals, in their own definitions:"
+        },
+        {
+          "t": "q",
+          "x": "“Achieving the cultural goal of independence requires construing oneself as an individual whose behavior is organized and made meaningful primarily by reference to one’s own internal repertoire of thoughts, feelings, and action, rather than by reference to the thoughts, feelings, and actions of others.” ([Markus and Kitayama 1991](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)) — Primary text; quoted passages checked.",
+          "s": "Primary text; quoted passages checked"
+        },
+        {
+          "t": "q",
+          "x": "“Experiencing interdependence entails seeing oneself as part of an encompassing social relationship and recognizing that one’s behavior is determined, contingent on, and, to a large extent organized by what the actor perceives to be the thoughts, feelings, and actions of others in the relationship.” (Markus and Kitayama 1991) — Primary text; quoted passages checked.",
+          "s": "Primary text; quoted passages checked"
+        },
+        {
+          "t": "h2",
+          "x": "How the self is built and defended"
+        },
+        {
+          "t": "p",
+          "x": "[Self-perception theory](card:Self-perception%20theory) — Daryl Bem's account of how people know their own attitudes and internal states: by observing their own behavior and the circumstances in which it occurs, much as an outside observer would."
+        },
+        {
+          "t": "p",
+          "x": "[The ideal self](card:The%20ideal%20self) — In Higgins’s self-discrepancy theory, the representation of the attributes that someone would like a person, ideally, to possess — hopes and aspirations rather than duties."
+        },
+        {
+          "t": "p",
+          "x": "[Self-discrepancy](card:Self-discrepancy) — E. Tory Higgins’s term for the gaps between a person’s self-state representations: actual, ideal and ought selves, each with its own emotional weather."
+        },
+        {
+          "t": "p",
+          "x": "[Self-verification theory (Swann)](card:Self-verification%20theory%20%28Swann%29) — people seek feedback that confirms their self-concept, even when negative (Swann, 1983; Swann et al., 2002)."
+        },
+        {
+          "t": "p",
+          "x": "[Self-validation theory](card:Self-validation%20theory) — explains how perceived validity affects the influence of thoughts on judgment and action."
+        },
+        {
+          "t": "p",
+          "x": "[Self-Evaluation Maintenance Theory](card:Self-Evaluation%20Maintenance%20Theory) — Tesser — others' performance in self-relevant domains threatens the self; we bask, distance or redefine closeness and relevance."
+        },
+        {
+          "t": "p",
+          "x": "[Self-Completion Theory](card:Self-Completion%20Theory) — Wicklund, Gollwitzer — when identity claims are incomplete, people display symbols and seek recognition to complete them."
+        },
+        {
+          "t": "p",
+          "x": "[Self-Affirmation Theory](card:Self-Affirmation%20Theory) — Steele (1988) proposed the theory in \"The psychology of self-affirmation: Sustaining the integrity of the self\" (Advances in Experimental Social Psychology, vol."
+        },
+        {
+          "t": "p",
+          "x": "[Self-serving attribution bias](card:Self-serving%20attribution%20bias) — the tendency to explain your own successes by what you did and your failures by what the world did."
+        },
+        {
+          "t": "p",
+          "x": "[Self-handicapping theory Jones](card:Self-handicapping%20theory%20Jones) — Self-handicapping theory is the account, introduced by Steven Berglas and Edward Jones in 1978, of the strategy of arranging an obstacle before a performance so that failure, if it comes, can be blamed on the obstacle…"
+        },
+        {
+          "t": "p",
+          "x": "[Temporal self-appraisal theory (Wilson & Ross)](card:Temporal%20self-appraisal%20theory%20%28Wilson%20%26%20Ross%29) — Temporal self-appraisal theory is Anne Wilson and Michael Ross's account of how people use their past selves as material for feeling good now."
+        },
+        {
+          "t": "p",
+          "x": "[Multiple self-aspects model (MSA)](card:Multiple%20self-aspects%20model%20%28MSA%29) — Allen McConnell’s framework: the self-concept is a collection of context-dependent self-aspects — roles, relationships, goals, group identities — held in an associative memory network."
+        },
+        {
+          "t": "p",
+          "x": "[Self-complexity](card:Self-complexity) — Patricia Linville's measure of how many distinct aspects a person's self-concept holds, and how separate those aspects are."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive-Experiential Self-Theory](card:Cognitive-Experiential%20Self-Theory) — Seymour Epstein’s theory that the mind runs two systems side by side: a rational one that thinks slowly and logically, and an experiential one that is fast, automatic and emotionally driven."
+        },
+        {
+          "t": "p",
+          "x": "[Self-deception](card:Self-deception) — This page approaches self-deception through Sartre's discussion of bad faith (mauvaise foi) in Being and Nothingness (1943)."
+        },
+        {
+          "t": "p",
+          "x": "[Identity-protective cognition](card:Identity-protective%20cognition) — Dan Kahan’s name for reasoning in which “is this true?” is answered, unnoticed, by “does this mark me as one of us?”"
+        },
+        {
+          "t": "p",
+          "x": "[Self-doubt theory](card:Self-doubt%20theory) — this compendium's heading for the psychological study of self-doubt."
+        },
+        {
+          "t": "p",
+          "x": "[Self-conscious emotions](card:Self-conscious%20emotions) — \"Self-conscious emotions\" names the family of emotions that critically involve the self: embarrassment, guilt, pride, and shame."
+        },
+        {
+          "t": "p",
+          "x": "[Fixed views of self](card:Fixed%20views%20of%20self) — A fixed view of the self is the belief that who you are is a set quantity: abilities, worth or personality traits that cannot be grown."
+        },
+        {
+          "t": "p",
+          "x": "[The fractured self](card:The%20fractured%20self) — R. D. Laing’s description, in The Divided Self (1960), of the person split from the world, from himself and from his body."
+        },
+        {
+          "t": "p",
+          "x": "[The shattered self](card:The%20shattered%20self) — Judith Herman’s term, in Trauma and Recovery, for the self after prolonged trauma."
+        },
+        {
+          "t": "p",
+          "x": "[The polyphonic self](card:The%20polyphonic%20self) — the compendium's name for a claim Bakhtin makes about novels and the compendium transfers to persons."
+        },
+        {
+          "t": "p",
+          "x": "[The self-referential trap of belief-avoidance](card:The%20self-referential%20trap%20of%20belief-avoidance) — the clinical observation that a fixed stance against believing anything functions as a belief in its own right."
+        },
+        {
+          "t": "p",
+          "x": "[Self-monitoring (Michie et al.)](card:Self-monitoring%20%28Michie%20et%20al.%29) — Self-monitoring, as a behaviour-change technique, means setting up a way to record one's own behaviour or its results, such as a food diary or weight log."
+        },
+        {
+          "t": "h2",
+          "x": "Self-worth and its weather"
+        },
+        {
+          "t": "p",
+          "x": "[Self-esteem research](card:Self-esteem%20research) — in the line of work associated with Michael Kernis, learned to distinguish the form of a person's self-esteem from its level."
+        },
+        {
+          "t": "p",
+          "x": "[Contingent self-esteem](card:Contingent%20self-esteem) — Self-esteem is contingent when a person treats meeting particular criteria as a condition of being worthwhile."
+        },
+        {
+          "t": "p",
+          "x": "[Contingencies of self-worth (Crocker)](card:Contingencies%20of%20self-worth%20%28Crocker%29) — Contingencies of self-worth are the domains on which a person has staked their self-esteem."
+        },
+        {
+          "t": "p",
+          "x": "[Fragile vs secure high self-esteem (Kernis)](card:Fragile%20vs%20secure%20high%20self-esteem%20%28Kernis%29) — Two people can score equally high on a self-esteem scale and still differ in how that self-regard behaves under pressure."
+        },
+        {
+          "t": "p",
+          "x": "[Narcissism versus healthy self-regard](card:Narcissism%20versus%20healthy%20self-regard) — the distinction between self-worth that must be defended and self-worth that is settled."
+        },
+        {
+          "t": "p",
+          "x": "[The quiet ego](card:The%20quiet%20ego) — a psychological construct introduced by Heidi Wayment and Jack Bauer: a growth-oriented, less-defensive identity structure associated with well-being."
+        },
+        {
+          "t": "p",
+          "x": "[Amor sui (right self-love)](card:Amor%20sui%20%28right%20self-love%29) — Amor sui is Latin for love of self."
+        },
+        {
+          "t": "p",
+          "x": "[Proper self-love](card:Proper%20self-love) — the Aristotelian claim that loving oneself is not itself a fault: the question is which part of oneself one loves and what one assigns to oneself."
+        },
+        {
+          "t": "p",
+          "x": "[Harsh self-criticism](card:Harsh%20self-criticism) — The inner attacker in Gilbert’s clinical account; associated in the opened sources with psychopathology."
+        },
+        {
+          "t": "p",
+          "x": "[Self-compassion](card:Self-compassion) — Kristin Neff's construct for relating to one's own suffering the way one would to a friend's, with three components: self-kindness (versus self-judgment), common humanity (versus isolation), and…"
+        },
+        {
+          "t": "p",
+          "x": "[Mindful self-compassion programme](card:Mindful%20self-compassion%20programme) — Neff and Germer’s eight-week programme training self-compassion (2013)."
+        },
+        {
+          "t": "p",
+          "x": "[Self-forgiveness](card:Self-forgiveness) — the forgiveness a person extends to the self after committing an offense."
+        },
+        {
+          "t": "p",
+          "x": "[Self-talk research](card:Self-talk%20research) — studies what people say to themselves — its content, its functions, and its measurable effects on action."
+        },
+        {
+          "t": "h2",
+          "x": "Identity over a life"
+        },
+        {
+          "t": "p",
+          "x": "[Identity development](card:Identity%20development) — The compendium uses \"Identity development\" for the Eriksonian research tradition on how a coherent sense of self forms."
+        },
+        {
+          "t": "p",
+          "x": "[Identity statuses (Marcia)](card:Identity%20statuses%20%28Marcia%29) — James Marcia built on Erikson's account of the adolescent identity crisis and gave it a measurable structure (Marcia, 1966)."
+        },
+        {
+          "t": "p",
+          "x": "[Ego development](card:Ego%20development) — Jane Loevinger's name for the lifelong maturation of the frame through which a person interprets self and world."
+        },
+        {
+          "t": "p",
+          "x": "[Ego strength](card:Ego%20strength) — the compendium's label for a capacity that Roberto Assagioli's psychosynthesis treats as a developed will."
+        },
+        {
+          "t": "p",
+          "x": "[Ego integrity (Erikson)](card:Ego%20integrity%20%28Erikson%29) — Erikson’s eighth and last psychosocial stage: the task of late life, integrity versus despair — acceptance of one’s one and only life cycle."
+        },
+        {
+          "t": "p",
+          "x": "[Ego psychology](card:Ego%20psychology) — the psychoanalytic school that puts the ego's own functions at the centre of the theory."
+        },
+        {
+          "t": "p",
+          "x": "[Self psychology](card:Self%20psychology) — Kohut — development and therapy hinge on selfobject experiences: mirroring, idealisation and twinship."
+        },
+        {
+          "t": "p",
+          "x": "[Psychodynamic accounts of ego defense and rationalization](card:Psychodynamic%20accounts%20of%20ego%20defense%20and%20rationalization) — George Vaillant’s rated hierarchy of defenses, from psychotic through immature and neurotic to mature, built on decades of the Harvard Grant Study."
+        },
+        {
+          "t": "p",
+          "x": "[Identity stability](card:Identity%20stability) — Erikson’s term for the settled outcome of identity formation (Identity: Youth and Crisis, 1968)."
+        },
+        {
+          "t": "p",
+          "x": "[Moral identity](card:Moral%20identity) — the degree to which morality is part of who one takes oneself to be."
+        },
+        {
+          "t": "p",
+          "x": "[Creative identity](card:Creative%20identity) — Beghetto, 2006."
+        },
+        {
+          "t": "p",
+          "x": "[Creative self-efficacy](card:Creative%20self-efficacy) — extends Albert Bandura's self-efficacy construct to creative work."
+        },
+        {
+          "t": "p",
+          "x": "[Future self-continuity](card:Future%20self-continuity) — Hal Hershfield's construct for how connected a person feels to their own future self."
+        },
+        {
+          "t": "h2",
+          "x": "Working on the self"
+        },
+        {
+          "t": "p",
+          "x": "[Self-cultivation](card:Self-cultivation) — In The Great Learning, self-cultivation is the deliberate work of forming one's own character."
+        },
+        {
+          "t": "p",
+          "x": "[Daily self-examination](card:Daily%20self-examination) — the habit Zengzi describes in Analects 1.4: a fixed daily check of one's conduct against three duties, performed by a Confucius disciple and recorded at the head of the Analects."
+        },
+        {
+          "t": "p",
+          "x": "[Self-examination](card:Self-examination) — the practice Socrates names as his life's work at his trial."
+        },
+        {
+          "t": "p",
+          "x": "[Technologies of the self](card:Technologies%20of%20the%20self) — Foucault's term for the practices by which a person works on their own body and soul."
+        },
+        {
+          "t": "p",
+          "x": "[The care of the self](card:The%20care%20of%20the%20self) — Care of the self is a theme in Michel Foucault's later studies of ancient ethics."
+        },
+        {
+          "t": "p",
+          "x": "[Hermeneutics of the self](card:Hermeneutics%20of%20the%20self) — Ricoeur’s account, in Oneself as Another, of the self as interpreted rather than inspected."
+        },
+        {
+          "t": "p",
+          "x": "[Self-transformation over information](card:Self-transformation%20over%20information) — 'Self-transformation over information' names Pierre Hadot's account of philosophy as a way of life, in which the schools taught doctrines but the doctrines served a practice whose object was the practitioner."
+        },
+        {
+          "t": "p",
+          "x": "[Deconditioning of learned self-concepts](card:Deconditioning%20of%20learned%20self-concepts) — \"Deconditioning of learned self-concepts\" is a general label, not the name of a single research programme."
+        },
+        {
+          "t": "p",
+          "x": "[Choice of self](card:Choice%20of%20self) — Sartre’s claim, in Being and Nothingness, that the self is not a given but something chosen."
+        },
+        {
+          "t": "p",
+          "x": "[Self-making](card:Self-making) — Zarathustra's account of the spirit's three metamorphoses supplies this picture of self-making."
+        },
+        {
+          "t": "p",
+          "x": "[Self-constitution through action](card:Self-constitution%20through%20action) — the view argued in the letters of Judge Vilhelm in Kierkegaard's Either/Or (1843): choosing shapes personality, and a life that keeps choice at arm's length loses definition."
+        },
+        {
+          "t": "p",
+          "x": "[Self-legislation](card:Self-legislation) — Kant's name for the structure of moral authority: the principle that binds the will is one the will must be regarded as giving itself."
+        },
+        {
+          "t": "p",
+          "x": "[Self-overcoming](card:Self-overcoming) — Nietzsche’s name, in Thus Spoke Zarathustra, for the self as something to be surpassed."
+        },
+        {
+          "t": "p",
+          "x": "[Self-reliance](card:Self-reliance) — Ralph Waldo Emerson's ideal, set out in the 1841 essay of that name in his Essays: First Series, of trusting one's own perception and judgment against the pull of conformity and other people's opinions."
+        },
+        {
+          "t": "p",
+          "x": "[Self-trust](card:Self-trust) — the conviction Emerson puts at the head of Self-Reliance: that one's own perception is a fit instrument for living, and that deferring it wholesale to others is a kind of self-loss."
+        },
+        {
+          "t": "p",
+          "x": "[Self-sufficiency](card:Self-sufficiency) — Diogenes of Sinope’s ideal of needing little."
+        },
+        {
+          "t": "p",
+          "x": "[The dignity of self-expression](card:The%20dignity%20of%20self-expression) — Kant’s remark, in the Groundwork, on the person as an end with a voice of their own."
+        },
+        {
+          "t": "p",
+          "x": "[The return to the inner self](card:The%20return%20to%20the%20inner%20self) — Augustine's Confessions names a movement the contemplative traditions keep rediscovering: what he searched for was within all along, while the search itself carried him outward."
+        },
+        {
+          "t": "h2",
+          "x": "The self that reaches beyond itself"
+        },
+        {
+          "t": "p",
+          "x": "[Self-actualization (Maslow)](card:Self-actualization%20%28Maslow%29) — Self-actualization, in Abraham Maslow's original statement, is the need to become what one has it in one to become."
+        },
+        {
+          "t": "p",
+          "x": "[Self-determination](card:Self-determination) — the psychological claim that human beings flourish under conditions of autonomy: that motivation is healthiest when it is self-endorsed — chosen and wanted rather than pressured — and that…"
+        },
+        {
+          "t": "p",
+          "x": "[Self-determined personality growth](card:Self-determined%20personality%20growth) — \"Self-determined personality growth\" is the wiki's label, not a term I found in the sources opened."
+        },
+        {
+          "t": "p",
+          "x": "[Self-efficacy](card:Self-efficacy) — Albert Bandura's construct for the belief that one can execute the behaviour required to produce an outcome (Bandura, 1977)."
+        },
+        {
+          "t": "p",
+          "x": "[Self-concordance theory](card:Self-concordance%20theory) — proposes that people do better when their goals fit their developing interests and core values, and that this fit works in two ways: it sustains effort toward the goal, and it makes attaining the…"
+        },
+        {
+          "t": "p",
+          "x": "[Self-concordant goals](card:Self-concordant%20goals) — A goal is self-concordant when it is consistent with the person's developing interests and core values."
+        },
+        {
+          "t": "p",
+          "x": "[Self-concordant goal pursuit over time](card:Self-concordant%20goal%20pursuit%20over%20time) — the sequence described in Sheldon and Elliot's self-concordance model: goals that fit a person's developing interests and core values are pursued with more sustained effort, are…"
+        },
+        {
+          "t": "p",
+          "x": "[Self-expansion](card:Self-expansion) — the motivation to grow the self: to add knowledge, abilities, perspectives and resources to what one is."
+        },
+        {
+          "t": "p",
+          "x": "[The expanding self](card:The%20expanding%20self) — a cross-tradition figure: the self described not as a fixed unit but as something that grows past its own boundaries, whether by including more of the world or by discovering layers within."
+        },
+        {
+          "t": "p",
+          "x": "[Self-as-doer theory](card:Self-as-doer%20theory) — Houser-Marko and Sheldon (2006) introduced the self-as-doer as \"a new motivational construct\" to answer: \"Why do some people persist in goal pursuit, even in the face of boredom or setbacks, whereas others quickly give…"
+        },
+        {
+          "t": "p",
+          "x": "[Self-transcendence](card:Self-transcendence) — names the family of experiences and orientations in which the self recedes from the center."
+        },
+        {
+          "t": "p",
+          "x": "[Self-transcendent emotions](card:Self-transcendent%20emotions) — are the class of positive emotions a 2016 study sorts by their fit to religious and spiritual life: awe, gratitude, love and peace carry the relation between spirituality and well-being, while…"
+        },
+        {
+          "t": "p",
+          "x": "[Self-transcendent experiences](card:Self-transcendent%20experiences) — are temporary states in Yaden and colleagues' framework (2017, abstract)."
+        },
+        {
+          "t": "p",
+          "x": "[Ego dissolution](card:Ego%20dissolution) — in the psychedelic research literature, is the reported diminishing or loss of the sense of being a self distinct from the rest of the world."
+        },
+        {
+          "t": "p",
+          "x": "[The self dissolving in aesthetic contemplation](card:The%20self%20dissolving%20in%20aesthetic%20contemplation) — Schopenhauer's third book describes what remains when a person stops using the world for their purposes."
+        },
+        {
+          "t": "h2",
+          "x": "The self in the engine room"
+        },
+        {
+          "t": "p",
+          "x": "[Self-regulation](card:Self-regulation) — In Carver and Scheier's model, behavioral self-regulation means guiding behavior toward goals using feedback about current progress (On the Self-Regulation of Behavior, ch."
+        },
+        {
+          "t": "p",
+          "x": "[Behavioral self-regulation theory](card:Behavioral%20self-regulation%20theory) — Carver and Scheier's cybernetic account of how actions are steered: goals act as reference values, perception supplies the input, a comparator measures the gap, and behaviour changes…"
+        },
+        {
+          "t": "p",
+          "x": "[Control theory of self-regulation](card:Control%20theory%20of%20self-regulation) — Carver, Scheier — behaviour is governed by feedback loops comparing current state to goals; mismatch drives action."
+        },
+        {
+          "t": "p",
+          "x": "[Situation-sensitivity in self-regulation](card:Situation-sensitivity%20in%20self-regulation) — names the research on matching regulatory strategy to context: whether people do better when the strategy follows the situation than when one fixed strategy runs everywhere."
+        },
+        {
+          "t": "p",
+          "x": "[Self-regulated learning theory](card:Self-regulated%20learning%20theory) — Barry Zimmerman's account of how effective learners manage their own learning: they plan before, monitor during, and reflect after."
+        },
+        {
+          "t": "p",
+          "x": "[Self-control training](card:Self-control%20training) — \"Self-control training\" names the practice of doing small, regular self-control tasks — using the non-dominant hand, avoiding sweets, sitting up straight — in the hope of building a general capacity."
+        },
+        {
+          "t": "p",
+          "x": "[Ego depletion](card:Ego%20depletion) — theory Baumeister — the strength or resource depletion model proposes that self-control is a limited resource depleted after a period of exertion (Hagger et al."
+        },
+        {
+          "t": "h2",
+          "x": "Working on the self, in the classical sayings"
+        },
+        {
+          "t": "p",
+          "x": "[Rectify the self before others](card:Rectify%20the%20self%20before%20others) — None"
+        },
+        {
+          "t": "p",
+          "x": "[Rectify the self, then the family, then the state](card:Rectify%20the%20self%2C%20then%20the%20family%2C%20then%20the%20state) — None"
+        },
+        {
+          "t": "h2",
+          "x": "The wiki’s own shelves on the self"
+        },
+        {
+          "t": "p",
+          "x": "The compendium also organizes self material into structured pathways; the hub is [SE — Self](card:SE%20%E2%80%94%20Self), with layers on the architecture of self, knowing and evaluating the self, self-compassion, identity construction and revision, self in relation, self-expansion, and specific self-challenges:"
+        },
+        {
+          "t": "p",
+          "x": "One title match was left out of the map as off-theme: [The self-evident](card:The%20self-evident) is Aristotle’s account of what demonstration rests on, not an entry about the self."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is there a permanent self?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question, stated narrowly: what can rightly be regarded as self? SN 22.59’s aggregate analysis answers by examination. Each aggregate, past or future, internal or external, is tested for ownership, and the test fails: “This is not mine. This is not my self. This is not what I am” (SN 22.59, quoted passage checked). That analysis locates no owner in the body or the mind. Advaita Vedānta, in Dalal’s account, runs an examination of its own and takes it to end elsewhere: in consciousness that is not an object. The entry describes the error as mutual superimposition: “We mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)” (SEP, cited passage checked)."
+        },
+        {
+          "t": "p",
+          "x": "The precise difference is what the examination is taken to find. SN 22.59’s analysis works through the contents of experience one by one and grants none of them the status of owner. Advaita holds that consciousness itself, the field in which all contents appear, is the one referent that is not a content. What remains unresolved, and what an essay can honestly leave open: whether the observing position that the practices below train is a final referent or one more event to be examined. The psychological research measures what the perspective does; it does not settle what the perspective is."
+        },
+        {
+          "t": "h2",
+          "x": "Is the self separate or relational?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: is identity primarily a possession of the individual or a property of relationships? Markus and Kitayama’s two construals, quoted above, give the cleanest statement of each pole. The relational pole is carried by [Ubuntu](card:Ubuntu) and [The relational self](card:The%20relational%20self); the delicate work of holding both is [R077 — Practise relational autonomy](card:R077%20%E2%80%94%20Practise%20relational%20autonomy). Unresolved: whether the construals describe selves, or the situations selves move between."
+        },
+        {
+          "t": "p",
+          "x": "A caution worth carrying into any essay: four claims that sound alike and are not. That experience has a first-person character, that a person needs a narrative, that identity is social through and through, and that a permanent metaphysical essence exists. A tradition can hold any three and deny the fourth, so a disagreement about “the self” is never about one thing."
+        },
+        {
+          "t": "h",
+          "x": "Practice — variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the grip of the self-as-object: the self known, judged and defended. In the map’s terms, the maladaptive patterns are a fused self-story taken as fact (the narrative cluster), worth staked on contingencies and defended by handicaps and biases (the self-worth cluster), a harsh inner critic, and identity held as a fixed quantity. The adaptive direction is the observing position that notices thoughts without being them, a story known as a story and re-tellable, worth that is quieter and less defended, and a self wide enough to include others and the natural world. No single move carries all of it; the kernels below each vary one part."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Self-as-context](card:K139%20%E2%80%94%20Self-as-context) — the ACT move of noticing the one who notices, for when a self-judgment has hardened into a verdict."
+        },
+        {
+          "t": "p",
+          "x": "The component evidence is thin, and the review that canvassed it says so in its own words: “there is only provisional but very limited evidence to suggest that SAC can be effectively taught and implemented as a stand-alone process to manage emotional well-being” (Godbee and Kangas 2020, quoted passage checked)."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[The observer question](card:K140%20%E2%80%94%20The%20observer%20question) — a sitting practice that asks, of each event, to whom it appears."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Identity flexibility audit](card:K141%20%E2%80%94%20Identity%20flexibility%20audit) — a check of which parts of your identity are load-bearing and which are inherited."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Narrative reconstruction](card:K142%20%E2%80%94%20Narrative%20reconstruction) — rewriting a life chapter that has been telling the same wrong story."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Self-complexity mapping](card:K143%20%E2%80%94%20Self-complexity%20mapping) — charting the distinct self-aspects you hold, so one bad chapter cannot speak for the whole."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Ego dissolution practice](card:K146%20%E2%80%94%20Ego%20dissolution%20practice) — a contemplative exercise loosening the boundary of self."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[Self-compassion practice](card:K162%20%E2%80%94%20Self-compassion%20practice) — Neff’s three moves — mindfulness, common humanity, kindness — trained on your own suffering."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[Narrative redemption](card:K229%20%E2%80%94%20Narrative%20redemption) — finding the turn in a hard story where a bad scene turns good."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[Self-monitoring](card:K246%20%E2%80%94%20Self-monitoring) — recording your own behaviour as it happens, the behaviour-change technique."
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[Motivational interviewing (self-directed)](card:K247%20%E2%80%94%20Motivational%20interviewing%20%28self-directed%29) — rolling with your own resistance instead of arguing with it."
+        },
+        {
+          "t": "n",
+          "i": 11,
+          "x": "[Self-distanced reflection](card:K261%20%E2%80%94%20Self-distanced%20reflection) — writing about a looping situation from the fly-on-the-wall perspective, in the third person."
+        },
+        {
+          "t": "p",
+          "x": "The research behind it is quoted in the opening: self-distancing eliminated the own-versus-other asymmetry in wise reasoning across three experiments, N = 693 (Grossmann and Kross 2014, quoted passages checked)."
+        },
+        {
+          "t": "n",
+          "i": 12,
+          "x": "[Future-self dialogue](card:K322%20%E2%80%94%20Future-self%20dialogue) — a written conversation with the person you are becoming."
+        },
+        {
+          "t": "n",
+          "i": 13,
+          "x": "[Identity script revision](card:K334%20%E2%80%94%20Identity%20script%20revision) — editing the lines you were handed about who you are."
+        },
+        {
+          "t": "n",
+          "i": 14,
+          "x": "[The witness practice](card:K335%20%E2%80%94%20The%20witness%20practice) — resting attention in the witness rather than the witnessed."
+        },
+        {
+          "t": "n",
+          "i": 15,
+          "x": "[Cultivate your Compassionate Self](card:K378%20%E2%80%94%20Cultivate%20your%20Compassionate%20Self) — building the inner voice that sees you the way a good friend would."
+        },
+        {
+          "t": "n",
+          "i": 16,
+          "x": "[Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted)](card:K384%20%E2%80%94%20Two-Chair%20dialogue%3A%20compassionate%20self%20%E2%86%94%20vulnerable%20self%20%28solo-adapted%29) — letting the strong voice and the hurt one talk, in writing."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A kernel that changes one reader’s week will be dropped by another; the map above is wide on purpose, so what stays is a matter of fit between the practice and the life it enters. What people usually report keeping is small and concrete: a name for the observer, a kinder sentence to say to themselves, a story they found out they could re-tell."
+        }
       ]
     }
   ]
@@ -3037,11 +3820,32 @@ function renderDossierDetail(id){
   band.appendChild(el('h2','acad-band-title', d.title));
   band.appendChild(el('p','acad-band-desc', d.question));
   wrap.appendChild(band);
+  const layout = el('div','dossier-layout');
   const body = el('div','dossier-body');
-  (d.intro||[]).forEach(p=>{ const pe = el('p','dossier-p'); pe.innerHTML = dossierRich(p); body.appendChild(pe); });
+  const toc = el('nav','dossier-toc');
+  toc.appendChild(el('div','dossier-toc-title','On this page'));
+  let tn = 0;
   (d.blocks||[]).forEach(b=>{
-    if(b.t==='h'){ body.appendChild(el('h3','dossier-h', b.x)); }
-    else if(b.t==='h2'){ body.appendChild(el('h4','dossier-h2', b.x)); }
+    if(b.t==='h'||b.t==='h2'){
+      tn++;
+      const a = el('a','dossier-toc-item'+(b.t==='h'?' t':''), b.x);
+      a.href = '#dh'+tn;
+      const target = 'dh'+tn;
+      a.onclick = (e)=>{ e.preventDefault(); const h = document.getElementById(target); if(h) h.scrollIntoView({behavior:'smooth', block:'start'}); };
+      toc.appendChild(a);
+    }
+  });
+  (d.intro||[]).forEach(p=>{ const pe = el('p','dossier-p'); pe.innerHTML = dossierRich(p); body.appendChild(pe); });
+  let bn = 0;
+  (d.blocks||[]).forEach(b=>{
+    if(b.t==='h'){ bn++; const h = el('h3','dossier-h', b.x); h.id='dh'+bn; body.appendChild(h); }
+    else if(b.t==='h2'){ bn++; const h = el('h4','dossier-h2', b.x); h.id='dh'+bn; body.appendChild(h); }
+    else if(b.t==='vs'){
+      const vb = el('div','dossier-vs');
+      vb.appendChild(el('span','dossier-vs-label', b.l||''));
+      const pe = el('p','dossier-p'); pe.innerHTML = dossierRich(b.x); pe.style.margin='0';
+      vb.appendChild(pe); body.appendChild(vb);
+    }
     else if(b.t==='p'){ const pe = el('p','dossier-p'); pe.innerHTML = dossierRich(b.x); body.appendChild(pe); }
     else if(b.t==='n'){
       const item = el('div','dossier-step');
@@ -3061,7 +3865,8 @@ function renderDossierDetail(id){
       body.appendChild(holder);
     }
   });
-  wrap.appendChild(body);
+  if(toc.childElementCount > 1){ layout.appendChild(body); layout.appendChild(toc); wrap.appendChild(layout); }
+  else { wrap.appendChild(body); }
   return wrap;
 }
 
