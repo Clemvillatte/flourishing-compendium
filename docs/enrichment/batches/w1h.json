@@ -1,7 +1,6 @@
 {
  "batch": "w1h",
  "done": [
-  "Non-attachment",
   "Behavioral epigenetics",
   "Maya (illusion)",
   "Openness and not knowing in skilled practice",
@@ -70,11 +69,12 @@
   "Selective attention (Broadbent's filter model)",
   "Self psychology",
   "Self-concordance theory",
-  "Curiosity"
+  "Curiosity",
+  "Non-attachment"
  ],
  "in_progress": null,
  "flagged": {
-  "Non-attachment": "SUPERVISOR DISPOSITION 2026-10-21 (worker-p1abc): namespace duplicate — KEEP BOTH per the supervisor-36b57e93 precedent (variant-spelling duplicate; merge deferred to protect enriched markup). Cross-links now present BOTH ways: Non-attachment already linked [[Nonattachment]]; reciprocal [[Non-attachment]] added to the richer Nonattachment page this session. Quote fidelity: Dhp 214 Buddharakkhita and Sahdra 2010 abstract already verified by the w1h worker's rounds and re-verified in the p1h-method spirit (both carriers are the same ones opened in the AT035-family checks). Namespace resolution CLOSED. [ORIGINAL: fast-track; evidence: Dhp 214 Buddharakkhita verbatim, Sahdra et al. 2010 PubMed abstract, abstract-only scope; QC: advisor round-1 repairs applied, round-2 scoped PASS; FLAG: duplicate of existing richer concept page Nonattachment (deg 13) — supervisor disposition pending, namespace resolution NOT closed]",
+  "Non-attachment": "Reopened for QC: prose 71<150 at canonical degree 21; scale-and-evidence section added from the opened Sahdra et al. 2010 abstract; bare uncited Sources seed lines removed",
   "Maya (illusion)": "fast-track; evidence: BG ch.7 Arnold verbatim (gutenberg.org/files/2388/2388-h/2388-h.htm), Menon IEP Advaita Vedanta (iep.utm.edu/adv-veda/); QC: advisor item-5 milestone scoped content PASS (3 rounds)",
   "Openness and not knowing in skilled practice": "SUPERVISOR DISPOSITION 2026-10-21 (worker-p1abc): namespace gate CLOSED with the standing disposition (supervisor-c0de5a17, TASKBOARD): the opened Ericsson source never uses the phrase and the page body is about deliberate practice, so the title names a construct no source defines — Category C under concept-namespace-audit.md; NOT deleted (one inbound principle link D045 plus an eight-bullet hub); owner recommendation on record: fold the Ericsson material into Deliberate practice and relink D045 to Beginner's mind. No further w1h enrichment on this page. The remaining w1h fast-track flags (Collective intelligence, Community, Community psychology theory, Component Process Model) are evidence/scope records with honest not-opened disclosures — no open defects; their QC verdicts stand. [ORIGINAL: fast-track; evidence: Ericsson ch.38 PDF verbatim quotes; QC: advisor item-5 milestone scoped content PASS; NAMESPACE acceptance still blocked: phrase not used by the opened source, possible overlap with [[Deliberate practice]] — supervisor disposition pending (routed on taskboard)]",
   "Behavior change wheel theory Michie": "fast-track; evidence: Michie et al. 2011 Implementation Science 6:42 verbatim quotes (implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42); QC: advisor item-5 milestone scoped content PASS; COM-B overlap noted, distinct roles recorded",
@@ -129,6 +129,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:22:19+00:00",
+ "updated": "2026-10-23T14:22:36+00:00",
  "band_done": false
 }

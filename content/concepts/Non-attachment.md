@@ -15,6 +15,10 @@ Non-attachment names release from mental fixations in Sahdra, Shaver and Brown's
 
 Sahdra, Shaver and Brown distinguish Buddhist nonattachment from secure and insecure interpersonal attachment, while describing the constructs as related. Their account links interpersonal attachment to internal working models of security, and nonattachment to insight into the constructed and impermanent character of mental representations ([2010, abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)).
 
+### The scale and the evidence
+
+The paper's method was to build a measure: the Nonattachment Scale, designed on historical and contemporary Buddhist scholarship and evaluated for its psychometric properties across samples. The authors report evidence consistent with Buddhist theory that nonattachment is psychologically and socially adaptive ([Sahdra, Shaver and Brown, 2010, abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)). The verse's logic runs the same way: grief and fear grow out of what is held, and for one wholly free from holding, the question of grief does not arise, and with it the fear.
+
 ### In the compendium
 
 - [[E102 — Practise Gelassenheit (releasement)]] — releasement as the letting-be of things, releasing the grip of willing, controlling and possessing
@@ -33,12 +37,7 @@ Sahdra, Shaver and Brown distinguish Buddhist nonattachment from secure and inse
 
 - [Dhammapada 214, Buddharakkhita translation (Access to Insight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html) — the blockquote verse
 - [Sahdra, Shaver and Brown, A scale to measure nonattachment (2010), abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/) — the construct distinction from Western attachment
-- Buddha, Pali Canon
-- Buddhism, Dhammapada
-- Buddhism, Second Noble Truth
-- Buddhist psychology
-- Buddhism, Bhagavad Gita
-- Bhagavad Gita
+
 
 ## Cited in psychology parallels
 
