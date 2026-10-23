@@ -590,3 +590,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: the studies measured estimates of being observed, not attributions of others' hostile intent; no intervention on resentment claimed. The Chuang Tzu parable's own text not opened and not cited.
 - Mention check run (before this entry): K125 already linked from D088/B088/P057 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). First draft linked a nonexistent "K151 — Rejection-resentment mapping"; caught by the validator's unresolved-link check and replaced with K170 Forgiveness practice before save.
+
+## K306 — Affordance walk (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Witt, Proffitt & Epstein 2005 (J Exp Psychol Hum Percept Perform 31(5):880-888), tool use and perceived distance, abstract verified raw via NCBI efetch (PMID 16262485); authors read from the efetch header.
+- The blockquote (reachability as a metric sentence) matches the raw efetch text verbatim.
+- Honesty on page: lab judgment studies of distance, nothing about walking or training the noticing; Gibson and Merleau-Ponty named as the seed's framings, neither's primary text opened or cited.
+- Mention check run (before this entry): K306 already linked from E003/E004/E005/A053 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
