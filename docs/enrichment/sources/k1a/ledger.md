@@ -574,3 +574,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: self-report association with endorsement of strategies, not a trial of the Aristotelian unity thesis; nothing claimed about virtue suppression or real dilemma resolution. Aristotle's own text not opened and not cited.
 - Mention check run (before this entry): K256 already linked from A040/A091/S019 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K299 — Place-attachment practice (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Groshong, Stanis, Morgan & Li 2020 (Environ Manage 65(1):98-110), survey of 1,775 Missouri State Park visitors, abstract verified raw via NCBI efetch (PMID 31768619); authors read from the efetch header.
+- The blockquote (place identity / place dependence results sentence) matches the raw efetch text verbatim.
+- Honesty on page: cross-sectional survey, no well-being outcomes in the abstract, no test of the practice itself or of regular visits; the seed's well-being claim left as the seed's framing, with the honesty paragraph noting the abstract reports no well-being outcomes.
+- Mention check run (before this entry): K299 already linked from R011/R012/R015/A091/E007 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
