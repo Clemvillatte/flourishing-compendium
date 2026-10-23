@@ -1,0 +1,7 @@
+{
+ "band": "t2a",
+ "task_type": "thinker-backlink glosses",
+ "source": "pending reciprocal backlinks for t1a thinkers (T009 Zhuangzi, T011 Socrates, T012 Laozi, T013 Seneca) — fresh inventory 2026-10-23: 755 pending (199/196/191/169)",
+ "worklist": "generate with: python3 scripts/thinker_links.py --reciprocal \"<Thinker name>\" --id T0xx  (one JSON entry per page lacking the backlink)",
+ "worker_instruction": "For each pending backlink: read the target page, find where it treats the thinker, and write a READER-FACING why gloss grounded in that page (e.g. \"- [[T013 — Seneca]] — the Stoic therapy of the passions this page practises\"). Then add the line to the Related concepts section (or the apply-schema proposals file for supervisor integration). Generic bookkeeping glosses like \"the page mentions this thinker\" are BANNED (humanizer rules, docs/enrichment/HUMANIZER-SKILL.md). Do not touch quotes, front-matter, or other sections. Record done entries in batches/t2a.json."
+}

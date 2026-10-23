@@ -1,0 +1,7 @@
+{
+ "band": "t2b",
+ "task_type": "thinker-backlink glosses",
+ "source": "pending reciprocal backlinks for t1d thinkers (T032 Linehan, T033 Haidt, T034 Dweck, T035 Thich Nhat Hanh, T036 Hadot, T037 Weil) — fresh inventory 2026-10-23: 214 pending (43/35/33/35/29/39)",
+ "worklist": "generate with: python3 scripts/thinker_links.py --reciprocal \"<Thinker name>\" --id T0xx",
+ "worker_instruction": "Same as t2a: per-page reader-facing why glosses grounded in the target page; add to Related concepts; record in batches/t2b.json. Generic glosses banned."
+}

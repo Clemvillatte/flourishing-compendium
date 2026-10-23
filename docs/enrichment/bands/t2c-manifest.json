@@ -1,0 +1,7 @@
+{
+ "band": "t2c",
+ "task_type": "thinker-backlink glosses",
+ "source": "pending reciprocal backlinks for t1f thinkers (T049 Gadamer, T050 Nagarjuna, T051 Nishida, T052 MacIntyre, T053 Dogen, T054 Shankara, T055 Mencius, T056 Nishitani) — fresh inventory 2026-10-23: 171 pending (38/30/9/28/13/18/19/16)",
+ "worklist": "generate with: python3 scripts/thinker_links.py --reciprocal \"<Thinker name>\" --id T0xx",
+ "worker_instruction": "Same as t2a: per-page reader-facing why glosses grounded in the target page; add to Related concepts; record in batches/t2c.json. Generic glosses banned."
+}
