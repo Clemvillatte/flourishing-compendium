@@ -153,3 +153,25 @@ exhaustive-map spec. Evidence basis:
   scripts/dossier_build.py (deterministic converter); node --check clean;
   DOM-stub render test: layout, side TOC (17 items), 3 vs blocks,
   16 practice steps, 9 quotes, 162 card hrefs all present.
+
+## Revision 4.2 (worker-pplx-dossiers-1025, 2026-10-23) — worker repairs on the supervisor's v2
+
+- 14 map entries whose descriptions were truncated mid-sentence by the build
+  script (ending in an ellipsis) were completed from the linked concept
+  pages' own opening text, in both the markdown and the Academy data.
+- Two entries that ended mid-citation ("ch." and "Hagger et al.") were
+  completed the same way.
+- Two sayings ("Rectify the self before others", "Rectify the self, then
+  the family, then the state") printed the literal word "None" as their
+  description; both now carry short source-faithful descriptions.
+- The Academy renderer's card URL function double-encoded already-encoded
+  card names (The%20witness became The%2520witness); fixed with a
+  decode-then-encode guard.
+- dossierRich extended to convert plain markdown carrier links in quote
+  attributions into anchors (they previously rendered as literal text).
+- Em-dash separators normalized to colons or commas in all non-quoted
+  text, per the HUMANIZER no-em-dash rule (161 markdown lines, 12 Academy
+  blocks).
+
+Final state: 200 blocks, 0 truncated, 0 non-quote em dashes, 160 card
+targets resolve, markdown and Academy data in parity.
