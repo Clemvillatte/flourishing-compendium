@@ -14,6 +14,14 @@ Contempt for fame is the Stoic stance toward reputation: not the refusal of reco
 
 The sentence does the Stoic work in one move: fame is derivative, a shadow cast by something else. Seneca's letter goes on to praise pursuing the ideal "even though few know it, or none" (same letter). On Stoic terms reputation belongs to the indifferents: the [Stanford Encyclopedia's Stoicism entry](https://plato.stanford.edu/entries/stoicism/) states that "the mainstream Stoic view is that some indifferents – such as health, wealth, and reputation – are of a promoted or preferred type". Read that way, the stance this page's title names is a refusal to make reputation an aim rather than a refusal of recognition when it arrives.
 
+### What it is not
+
+Contempt for fame is not contempt for people, and it is not a pose of indifference. In the passage above Seneca says fame "will attend virtue even against her will", so it is not treated as evil when it arrives. The stance concerns what one aims at. It is silent about whether one may be glad of honest recognition.
+
+### A small case
+
+Before posting something you have written, ask which you would still want if no one ever read it: the work itself, or its reception. If the work, publish it and let the reception be what it is. (Illustrative scenario, not a reported case.)
+
 ## Related concepts
 
 - [[Preferred indifferents]] — the Stoic class reputation belongs to
