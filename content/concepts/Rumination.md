@@ -55,7 +55,7 @@ The original theory predicted rumination would extend depressive episodes; the e
 - [[Phenomenological methods in psychology]] — the maladaptive wandering the sampling method measures
 - [[Avoidance versus attentional engagement]] — BA examines whether rumination functions as avoidance
 - [[Mind wandering]] — task-unrelated thought without rumination's depressive grip
-- [[D119]] — D119's psychology parallels list rumination research (worry as verbal-linguistic activity, Borkovec et al., 1983) alongside the chapter's counsel on spending speech; the two pages approach the same worry-in-words pattern from opposite directions
+- [[D119]] — the counsel on excess words; the two pages approach the same worry-in-words pattern from opposite directions (worry as verbal-linguistic activity, Borkovec et al., 1983)
 - [[Nature exposure]] — the concept page lists this topic among its Related entries; this link returns it
 - [[Decentering]] — the Experiences Questionnaire was designed to measure both decentering and rumination
 - [[Metacognitive model of anxiety and depression (Wells)]] — the syndrome’s depressive expression, as this model analyses it

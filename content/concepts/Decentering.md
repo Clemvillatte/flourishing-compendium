@@ -32,7 +32,7 @@ Fresco and colleagues also describe decentering in clinical practice:
 ### In the compendium
 
 - [[B074 — Thoughts are not facts]] — the compendium’s statement of the shift: a thought examined before it is obeyed
-- [[D050 — Keep a mirror-mind]] — the Daoist mirror principle; its psychology parallels list Decentering
+- [[D050 — Keep a mirror-mind]] — the Daoist mirror principle that names the same reflecting-without-grasping stance
 - [[B066 — Watch states arise and pass]] — watching the rise and decay of states as they happen
 - [[B003 — Hold the self lightly (anatta)]] — the Buddhist teaching the compendium reads alongside this shift
 - [[P159 — Defuse — see thoughts as thoughts]] — ACT’s defusion, a construct the review groups with decentering

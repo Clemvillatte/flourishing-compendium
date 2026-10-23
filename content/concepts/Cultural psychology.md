@@ -7,7 +7,7 @@ file: "Cultural psychology"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Cultural psychology is the study of how culture enters into the most basic workings of mind: what counts as a self, which emotions come naturally, what counts as a reason for acting. One statement of this approach is Hazel Markus and Shinobu Kitayama's 1991 review in Psychological Review ([full PDF](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)), which contrasts independent and interdependent construals of the self and examines their implications for cognition, emotion and motivation.
+Cultural psychology is the study of how culture enters into the most basic workings of mind: what counts as a self, which emotions come naturally, what counts as a reason for acting. One statement of this approach is Hazel Markus and Shinobu Kitayama's 1991 review in Psychological Review ([full PDF](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)), which contrasts independent and interdependent construals of the self and examines their implications for cognition, emotion and motivation. The compendium's reading of the field: the default self of any given textbook is itself a cultural artifact, which is the standing corrective the WEIRD-critique principle below carries.
 
 > "Rather, in many construals, the self is viewed as interdependent with the surrounding context, and it is the 'other' or the 'self-in-relation-to-other' that is focal in individual experience." (Markus & Kitayama, [Culture and the self](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf), Psychological Review 98(2), 1991, p. 225)
 
@@ -18,7 +18,7 @@ Markus and Kitayama's contrast pairs that interdependent view with the independe
 ### In the compendium
 
 - [[SE054 — Recognise self and culture — your self is culturally shaped]] — the principle built directly on this literature; it opens with the Markus and Kitayama abstract
-- [[SO044 — Treat the WEIRD critique as a standing corrective]] — the sampling critique of generalizations from narrow samples; its parallels list the cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)
+- [[SO044 — Treat the WEIRD critique as a standing corrective]] — the sampling critique of generalizations from narrow samples, grounded in the same cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)
 - [[SO001 — Flourish socially]] — flourishing framed as achieved inside a sociocultural life-world rather than by a solitary individual
 - [[R103 — Practise communitarian critique]] — the communitarian case against the "unencumbered self"
 - [[R002 — Practise humanity toward others]] — Tutu's ubuntu formulation of a person as a person through other persons
@@ -35,7 +35,7 @@ Markus and Kitayama's contrast pairs that interdependent view with the independe
 
 
 
-- [[SO044]] — the WEIRD critique principle; its psychology parallels list the cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)
+- [[SO044]] — the WEIRD critique principle, the standing corrective this field applies to itself
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the review's central distinction, given its own page
 - [[Interdependent self-construal]] — the interdependent side of the distinction, given its own page
 - [[Moral foundations]] — the Shweder ethics the five foundations were derived from

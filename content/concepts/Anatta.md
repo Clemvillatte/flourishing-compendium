@@ -55,10 +55,10 @@ For flourishing, anatta reframes identity from a fixed possession to a set of ha
 - [[Wu (non-being)]] — the Daoist counterpart in non-essence
 - [[Fixed views of self]] — the Buddhist no-self as the deepest holding of the self lightly
 - [[Buddhist emptiness of inherent nature]] — Madhyamaka extends the analysis of persons' lack of independent self to phenomena generally
-- [[CO011]] — CO011's philosophy parallels list anatta as non-identification with mental events
+- [[CO011]] — the defusion principle that describes the same non-identification with mental events
 - [[Impermanence]] — anicca, the first of the Three Marks of Existence alongside anatta and dukkha
 - [[SE045]] — the Buddhist analysis behind this principle's core test (SN 22.59 is the source of its blockquote)
-- [[K069]] — listed for comparison: the early-Buddhist analysis of no permanent self beside K069's Zen koan on every way of being.
+- [[K069]] — the Zen koan on the formless self; both pages work at the dissolution of the fixed self.
 
 ## Sources
 
