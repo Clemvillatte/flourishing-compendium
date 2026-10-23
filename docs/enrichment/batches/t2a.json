@@ -408,11 +408,25 @@
   "content/concepts/Aporia.md",
   "content/concepts/Daily self-examination.md",
   "content/concepts/Dialectic's suspension.md",
-  "content/concepts/Distinguishing appearance from reality.md"
+  "content/concepts/Distinguishing appearance from reality.md",
+  "content/concepts/Distinguishing feeling from fact.md",
+  "content/concepts/Docta ignorantia.md",
+  "content/concepts/Eros.md",
+  "content/concepts/Four Noble Truths.md",
+  "content/concepts/Harmony.md",
+  "content/concepts/Intellectual humility.md",
+  "content/concepts/Judgment adds the harm.md",
+  "content/concepts/Justice.md",
+  "content/concepts/Moral exemplarism.md",
+  "content/concepts/Passions as judgments.md",
+  "content/concepts/Questioning inherited beliefs.md",
+  "content/concepts/Self-examination.md",
+  "content/concepts/Self-transformation over information.md",
+  "content/concepts/Socratic elenchus.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:25:34+00:00",
+ "updated": "2026-10-23T14:28:39+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

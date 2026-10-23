@@ -26,6 +26,7 @@ The definition covers both questions of fact and matters of opinion: a memory of
 - [[ST152 — Socrates and the Oracle]] — the story of Socrates testing the oracle's claim against politicians, poets and craftsmen, each certain beyond what they know.
 
 ## Related concepts
+- [[T011 — Socrates]]: the oracle story (ST152): testing the claim against the politicians and finding no one wiser.
 
 
 - [[Humility]] — the broader virtue; its page identifies intellectual humility as an epistemic subdomain

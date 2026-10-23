@@ -25,6 +25,7 @@ The compendium reads docta ignorantia through its unknowing principles. D100, "R
 The polygon image is also a precise answer to K065, reason reaching its limit: reason can map its own asymptote mathematically without pretending to cross it.
 
 ## Related concepts
+- [[T011 — Socrates]]: the unknowing the examined life keeps running into: knowing that you do not know.
 
 - [[Socratic ignorance]] — the Greek ancestor Cusanus names as his model
 - [[Aporia]] — the productive impasse that learned ignorance institutionalizes

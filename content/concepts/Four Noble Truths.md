@@ -30,6 +30,7 @@ A bad week run through the four questions: what is the friction, what am I reach
 - [[B008 — Treat the truths as tasks, not beliefs]] — the compendium's reading
 
 ## Related concepts
+- [[T011 — Socrates]]: the unexamined life as the disease the page lists beside the first truth.
 
 - [[Dukkha]] — the first truth as lived experience
 - [[Tanha]] — the second truth: craving as origin

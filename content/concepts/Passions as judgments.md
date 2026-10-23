@@ -22,6 +22,7 @@ Diogenes Laertius reports: "They say that the passions are judgments, according 
 The Stoics did not aim at an unfeeling sage. The Stanford entry describes "good feelings" (eupatheiai) as emotional responses to genuine goods, and pre-emotions (propatheiai) as reactions "without the intervention of assent". The Internet Encyclopedia of Philosophy says "a better reading of Stoicism is that the goal is not absence of emotion, but a well-disposed emotional life" ([Stoic Philosophy of Mind, IEP](https://iep.utm.edu/stoicmind/)).
 
 ## Related concepts
+- [[T011 — Socrates]]: the source of the Enchiridion 5 line the page reads.
 
 
 - [[The discipline of assent]] — the concept page lists this topic among its Related entries; this link returns it

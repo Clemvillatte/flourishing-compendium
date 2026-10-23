@@ -28,6 +28,7 @@ The modern anchor reconstructs justice for institutions. Rawls's two principles,
 - [[R034 — Practise tika]], [[R052 — Practise yi (righteousnessjustice)]] and [[R096 — Practise the third]] — the Buddhist, Confucian and Daoist parallels in the Cited-in list.
 
 ## Related concepts
+- [[T011 — Socrates]]: the Republic I opening against Thrasymachus, the concept's hardest case.
 
 
 

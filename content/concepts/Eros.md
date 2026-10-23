@@ -18,6 +18,7 @@ Eros, in Plato's Symposium, is examined rather than praised. Socrates reports hi
 Hence her formula that "conception and generation are an immortal principle in the mortal creature" ([Symposium](https://www.gutenberg.org/ebooks/1600)). Children are the dialogue's plain case of this immortality; the ladder that carries the desire upward, from one beautiful body to beauty itself, is the compendium's companion page: [[The ladder of love]].
 
 ## Related concepts
+- [[T011 — Socrates]]: the examiner of eros in the Symposium: reporting Diotima's teaching rather than his own.
 
 - [[The ladder of love]] — Diotima's ascent from beauty to beauty itself, set out in the same dialogue
 - [[The inner light]] — a later tradition's interiority counterpart to the outward-turned ascent

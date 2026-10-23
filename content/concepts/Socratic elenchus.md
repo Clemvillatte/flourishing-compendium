@@ -22,6 +22,7 @@ Socrates then tests that half with the case of getting gold unjustly, and propos
 - [[B131 — Exhaust the conceptual mind (the sound of one hand)]] — the principle that lists this concept among its philosophy parallels; its koan runs the conceptual mind until it gives out, as the elenchus runs an interlocutor's answers
 
 ## Related concepts
+- [[T011 — Socrates]]: the Meno exchanges the page opens with, testing answers through further questions.
 
 - [[Socratic inquiry]] — the midwife image from the Theaetetus, the constructive face of the same practice
 - [[Self-examination]] — the Apology's account of the examined life the elenchus serves

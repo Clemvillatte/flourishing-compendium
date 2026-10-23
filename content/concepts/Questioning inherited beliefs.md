@@ -16,6 +16,7 @@ In Plato's Apology, Socrates describes examining the people thought wise — pol
 > "...the greatest good of man is daily to converse about virtue, and all that concerning which you hear me examining myself and others, and that the life which is unexamined is not worth living - that you are still less likely to believe." (Plato, Apology, Jowett translation, [MIT Classics](https://classics.mit.edu/Plato/apology.html))
 
 ## Related concepts
+- [[T011 — Socrates]]: the Apology: the life's work of questioning what the city hands down.
 
 - [[Limits of introspection]] — the modern caution on how far such self-examination can see
 - [[Cognitive biases]] — the built-in errors self-examination must get past

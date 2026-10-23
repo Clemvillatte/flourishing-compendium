@@ -41,6 +41,7 @@ The principles apply the doctrine across cases. A116 examines fear as the judgme
 - [SN 36.6 Sallatha Sutta, Thanissaro translation](https://accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html) — the two arrows, quoted verbatim
 
 ## Related concepts
+- [[T011 — Socrates]]: the exemplar behind the Enchiridion 5 claim the page unpacks.
 
 
 

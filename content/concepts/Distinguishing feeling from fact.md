@@ -30,6 +30,7 @@ The compendium applies the things/judgements distinction to feeling and its inte
 - [[Y013 — Work with the field and the witness]] — the field-and-witness framing
 
 ## Related concepts
+- [[T011 — Socrates]]: the judgement-versus-thing distinction the page's Epictetus quote carries back to him.
 
 - [[Distinguishing appearance from reality]] — the perception-side sibling of the same discipline
 - [[The observing self]] — the vantage point the check is run from

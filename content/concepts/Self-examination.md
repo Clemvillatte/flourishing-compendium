@@ -22,6 +22,7 @@ The examination is not private rumination. Socrates describes it as done in comp
 - [[AF030 — Learn to read feedback from your regulation attempts]] — examination extended to one's own regulation attempts
 
 ## Related concepts
+- [[T011 — Socrates]]: the practice named as his life's work at the trial (Apology 38a).
 
 - [[The examined life]] — the compendium's fuller treatment of the Apology's organizing ideal
 - [[Socratic inquiry]] — the questioning method self-examination travels by

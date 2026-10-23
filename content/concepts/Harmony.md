@@ -36,6 +36,7 @@ All three uses share a core: harmony requires parts that differ. There is no att
 - [[Ordering the soul]] — the Platonic side of the family
 
 ## Related concepts
+- [[T011 — Socrates]]: the Republic's conclusion that justice is an internal arrangement, the page's central case.
 
 - [[Ordering the soul]] — the musical figure the ordering is built on
 
