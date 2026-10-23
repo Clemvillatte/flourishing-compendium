@@ -13,6 +13,8 @@ The paper's move is to take self-control out of the head and put it in the room.
 
 > "Because impulses tend to grow stronger over time, situational self-control strategies—which can nip a tempting impulse in the bud—may be especially effective in preventing undesirable action." (Duckworth, Gendler & Gross, 2016, Perspectives on Psychological Science 11(1), 35–55, [abstract](https://www.psychologicalscience.org/journals/perspectives/1745691615623247/))
 
+The abstract adds a third example in the same key: the dieter who asks the waiter not to bring the dessert cart. The organizing claim is the process model's timeline, with the full range of self-control strategies sorted by when they intervene in a developing impulse. The authors close on an irony worth sitting with: situational self-control may be underappreciated for the same reason it works. By arranging circumstances to advantage, a person often minimizes the felt inner struggle, so the effort stays invisible to the one making it.
+
 ## Facets
 
 - **for self-control** — Duckworth et al., 2016
