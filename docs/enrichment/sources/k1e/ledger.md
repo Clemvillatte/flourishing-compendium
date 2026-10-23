@@ -436,3 +436,12 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - Translation note: the two German-worksheet quotes are rendered on the page in English translation and marked as such in the Evidence introduction ("English translation of the German worksheets published with the book's German edition"); the German original is the opened carrier; the English 2015 New Harbinger book remains unopened (commercial); the archive.org record carries only metadata, not text.
 - Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (same class as the K401/K402 fixes); Related concepts retargeted to existing pages only (Values clarification, Self-as-context, Acceptance and Commitment Therapy — existence checked; the "Values" standalone does not exist).
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K404 — The values whiteboard (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~170-word seed rebuilt to the K100 model (~550 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: junfermann.de Blonna worksheets PDF (Arbeitsblatt 2.1, "Defusionsübung: Das Whiteboard", from *Effektiver Coachen mit ACT*, German edition 2013) — the full whiteboard exercise read verbatim in German (the "Hinderliche Gedanken, die mir mein Verstand hinsichtlich ___ übermittelt" heading, the list-every-thought rule with the no-matter-how-crazy clause, the step-back close with the "Das sind bloß meine Gedanken. Sie sind nicht ich" line and the widen-the-distance instruction).
+- Translation note: the three German-worksheet quotes are rendered on the page in English translation and marked as such; the German original is the opened carrier; the English *Stress Less, Live More* (2010) and *Maximize Your Coaching Effectiveness with ACT* (2015) books remain unopened (commercial).
+- The seed's values-conflict application (honesty against kindness, ambition against family) is preserved as this wiki's own framing, with the worksheet's original single-stuck-thought application shown in the Protocol; the two are honestly distinguished in the Evidence paragraph.
+- Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (same class as K401-K403); the "seed's" workflow language caught by the validator's owner-directive warning removed; dashes reduced to 3.
+- Customer-facing grep clean; validator ok, 0 failed.
