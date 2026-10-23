@@ -18,7 +18,7 @@ In Neiye VIII, jing is the essence of vital energy; guidance of that energy gene
 
 > "For those who preserve and naturally generate vital essence  
 > On the outside a calmness will flourish.  
-> Stored inside, we take it to be the well spring." (Neiye, verse XV, lines 1-3, [Roth](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt))
+> Stored inside, we take it to be the well spring." (Neiye, verse XV, lines 1-3, [Roth](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20%28Nei-yeh%29%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20%28Translations%20from%20the%20Asian%20Classics%29%20by%20Harold%20David%20Roth%20%28z-lib.org%29_djvu.txt))
 
 Use the wellspring image to question a demanding routine, while keeping jing distinct from a modern stress measurement.
 
@@ -32,7 +32,7 @@ Compare your usual evening with one that omits an optional task. Record what you
 
 ## Sources
 
-- [Inward Training (Neiye), trans. Harold D. Roth (archive.org full text)](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt) — verses VIII, XV
+- [Inward Training (Neiye), trans. Harold D. Roth (archive.org full text)](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20%28Nei-yeh%29%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20%28Translations%20from%20the%20Asian%20Classics%29%20by%20Harold%20David%20Roth%20%28z-lib.org%29_djvu.txt) — verses VIII, XV
 - [McEwen, Protective and Damaging Effects of Stress Mediators (1998)](https://www.psychiatry.wisc.edu/courses/Nitschke/seminar/mcewen_njm_1998.pdf).
 
 ## Psychology parallels
