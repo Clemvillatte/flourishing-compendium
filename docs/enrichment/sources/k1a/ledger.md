@@ -323,3 +323,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Advisor QC applied per K156 round-1 pattern: topic-label Related-concepts glosses only; Intended focus line (Self and Attention); step 3 attempt-tracking.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises line reflowed to bullets).
 - Saturation: mention check run; The observer question already linked from P160, SE002, Decentering, K335 etc.; no new reciprocal proposals needed.
+
+## K152 — Committed action (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Seed facet named Harris 2019 (ACT workbook); not in the owner's primary-source library, no lawful open copy used. Carrier opened this session instead: Chalghaf et al. 2026 (Psychol Res Behav Manag 19:596070), narrative review of psychological flexibility, abstract verified raw via NCBI efetch (PMID 42404030).
+- The blockquote (six ACT processes sentence) matches the raw efetch text verbatim. The meta-analytic small-to-medium effects sentence and the authors' cross-sectional/causal caveats are stated on the page in reader terms.
+- Honesty on page: the review does not isolate the single daily action; values-guided behavioural activation named as the technique family. No claim beyond the abstract.
+- Advisor QC pattern applied (topic-label glosses, Intended focus: Motivation and Overt behaviour, attempt-tracking step 3).
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+- Saturation: mention check run; K152 already linked from P162, Psychological flexibility, Acceptance alongside values-based action, K149/K320; no new reciprocal proposals needed.
