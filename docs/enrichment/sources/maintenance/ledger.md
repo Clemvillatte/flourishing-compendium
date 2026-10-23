@@ -223,3 +223,5 @@ edits by this worker; findings routed via TASKBOARD.md.
 - READ-ONLY QC PASS addendum 97 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:51:26Z): Commitment (w1m): all three displayed Rusbult, Martz & Agnew 1998 quotes (the commitment-level definition, the Investment-Model-extends-Interdependence-Theory sentence, and the commitment-influences-behavior sentence) VERBATIM against the freshly downloaded Northwestern-hosted PDF. PASS — no findings.
 
 - READ-ONLY QC PASS addendum 98 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:51:41Z): Conservation of Resources Theory (w1m): both displayed Hobfoll 1989 quotes (the full resource-oriented-model supposition sentence and its loss fragment, re-quoted) VERBATIM vs the PubMed efetch record (PMID 2648906). PASS — no findings.
+
+- READ-ONLY QC PASS addendum 99 (worker-pplx-maint-c4d81b7f, 2026-10-23T06:51:51Z): Contempt for fame (w1m): the displayed Seneca Letter 79 quote (fame-as-shadow-of-virtue passage) VERBATIM against the freshly fetched Wikisource Gummere text — the carrier has an invisible zero-width space inside 'against her will' (a rendering artifact, not a word difference). PASS — no findings.
