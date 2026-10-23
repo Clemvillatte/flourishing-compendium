@@ -401,3 +401,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: arm-movement task, not composure under praise/blame; eight winds not the subject; three-breath pause is the practice form.
 - Mention check run: K167 already linked from B102/B103 and the Heart layer; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K216 — Nonviolent communication (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Jiang, Yuan, Wang, Qiu & Bian 2026 (BMC Med Educ, online ahead of print), single-center RCT with active control, N=198, abstract verified raw via NCBI efetch (PMID 42231339). Author list read from the efetch header before citing.
+- The blockquote (mixed-effects results with effect sizes) matches the raw efetch text verbatim; effect sizes recorded per kernel standard.
+- Honesty on page: educational trial, medical students, role-play measurement, short-term, authors' own multicenter caveat; real-conflict defusing stated as the practice's wager. Rosenberg's NVC origin noted only as the framework's description in the trial background, no unopened biography claims.
+- Seed's K380 related-kernel link preserved; mention check run (B146/B148/P129 already link the kernel); no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
