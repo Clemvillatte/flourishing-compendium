@@ -19,7 +19,7 @@ On the compendium's reading, the mechanism is the schema-adjustment: awe is the 
 
 ### The distinction to hold
 
-Awe is not delight or excitement. Delight fits its object into existing categories; awe breaks and rebuilds them. Delight in the ordinary is the everyday practice; awe is the earthquake. And chasing awe for its own self-expansion inverts it: the chase re-centres the self the experience dissolves.
+Awe is not delight or excitement. Delight fits its object into existing categories; awe breaks and rebuilds them. Delight in the ordinary is the everyday practice; [[Awe]] is the earthquake. And chasing awe for its own self-expansion inverts it: the chase re-centres the self the experience dissolves.
 
 ### In everyday life
 

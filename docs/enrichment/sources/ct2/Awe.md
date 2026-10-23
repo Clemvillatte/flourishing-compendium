@@ -12,3 +12,7 @@ entries; S100, P115, B176, P185, D180, plus K228 and AF016 markup preserved); il
 night-sky example labeled; Related concepts cleaned (empty lines removed, all links
 kept); Sources rebuilt with the verified carrier first and carried-over citations labeled.
 Front-matter untouched. Validator ok.
+
+Post-save fix (this session): the original [[Awe]] self-link occurrence in the earthquake
+sentence was lost in the rebuild; restored ("[[Awe]] is the earthquake") so the markup
+count matches the original. Validator ok after fix.
