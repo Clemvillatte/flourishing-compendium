@@ -7,17 +7,17 @@ file: "Source credibility research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Source credibility research is the experimental study of how the perceived credibility of a communicator changes whether a message is accepted. The field's founding study is Carl Hovland and Walter Weiss's 1951 article in Public Opinion Quarterly, in which the same statements were presented to subjects as coming from trustworthy or untrustworthy sources. Its abstract reports the finding that made the study famous:
+Source credibility research is the experimental study of how the perceived credibility of a communicator changes whether a message is accepted. The study this page's seed names is Carl Hovland and Walter Weiss's 1951 article in Public Opinion Quarterly. Its abstract reports the finding:
 
-> "In a new test of the process of forgetting, the authors found that subjects, at the time of exposure, discounted material from "untrustworthy" sources. In time, however, the subjects tended to disassociate the content and the source with the result that the original scepticism faded and the "untrustworthy" material was accepted. Lies, in fact, seemed to be remembered better than truths." ([Hovland & Weiss, 1951, abstract](https://academic.oup.com/poq/article-abstract/15/4/635/1923117))
+> "In a new test of the process of forgetting, the authors found that subjects, at the time of exposure, discounted material from 'untrustworthy' sources. In time, however, the subjects tended to disassociate the content and the source with the result that the original scepticism faded and the 'untrustworthy' material was accepted. Lies, in fact, seemed to be remembered better than truths." ([Hovland & Weiss, 1951, abstract](https://academic.oup.com/poq/article-abstract/15/4/635/1923117); the source prints the quoted words in double quotes)
 
 ### What the study found
 
-Two results matter for how persuasion works. At the moment of exposure, subjects discounted material from sources they judged untrustworthy. The delayed result was stranger: as the memory of the source faded, the skepticism faded with it, and the discounted material was gradually accepted. A later meta-analytic review names this pattern the sleeper effect and defines it this way:
+At the moment of exposure, subjects discounted material from sources they judged untrustworthy. The delayed result was stranger: the dissociation between content and source grew over time, and with it the acceptance of the discounted material. A later meta-analytic review names this pattern the sleeper effect and defines it this way:
 
 > "According to this effect, when people receive a communication associated with a discounting cue, such as a noncredible source, they are less persuaded immediately after exposure than they are later in time." ([Kumkale & Albarracín, 2004, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC3100161/))
 
-The same review found the effect appears only under specific conditions, such as when the message arguments and the discounting cue both had a strong initial impact.
+The same review found that recipients of discounting cues were more persuaded over time when the message arguments and the cue had a strong initial impact.
 
 ### In the compendium
 
@@ -25,9 +25,9 @@ The same review found the effect appears only under specific conditions, such as
 
 ## Related concepts
 
-- [[Fricker]] — the philosophical treatment of credibility deficits in testimony
-- [[The unreliability of testimony]] — the classical problem of who to believe
-- [[Heuristic-Systematic Model of Persuasion]] — a later account of when source cues carry the weight
+- [[Fricker]] — the analysis of epistemic injustice, where credibility judgments themselves go wrong
+- [[The unreliability of testimony]] — Hume's account of testimony as an inference weighed by the reliability of witnesses
+- [[Heuristic-Systematic Model of Persuasion]] — a later model in which salient cues, not just arguments, drive persuasion
 
 ## Sources
 

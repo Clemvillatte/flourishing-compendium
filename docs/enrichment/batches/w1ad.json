@@ -42,9 +42,9 @@
   "The classification of fears",
   "Somatic psychotherapy",
   "Sorrow's fruit",
-  "Source credibility research",
   "Sparse speech",
-  "Spiritual joy"
+  "Spiritual joy",
+  "Source credibility research"
  ],
  "in_progress": null,
  "flagged": {
@@ -79,10 +79,11 @@
   "The body-subject": "Only SEP opened, not the Phenomenology. Term 'body-subject' not seen verbatim in the SEP section consulted.",
   "The chiasm": "Only SEP opened; Visible and the Invisible and Eye and Mind not opened; stray 'Intertwining' alias lines at foot of file preserved.",
   "The body-for-others": "SEP only; Sartre's text not opened; SEP section consulted has no passage on the body for others, so E069's Barnes quotes are not verified by this page.",
-  "The classification of fears": "Letter classifies desires, not fears; label is the compendium's. Hicks translation via MIT Classics. D097 link not checked against letter."
+  "The classification of fears": "Letter classifies desires, not fears; label is the compendium's. Hicks translation via MIT Classics. D097 link not checked against letter.",
+  "Source credibility research": "Reopened for QC: milestone QC repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:24:27+00:00",
+ "updated": "2026-10-23T05:26:55+00:00",
  "band_done": false
 }

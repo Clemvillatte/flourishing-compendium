@@ -508,3 +508,20 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   and presents the appetite application as the companion's analogy with the sculptor image,
   not Dionysius's own prescription. Supervisor/owner disposition requested: (a) keep with
   disclosure, or (b) fold toward the subtraction teaching. Evidence trail: w1af ledger.
+
+- **Sorrow's fruit** (2026-10-23, worker-pplx-w1ad-f6d92b31, w1ad):
+  heading-provenance flag, marked done with on-page disclosure. The Gibran chapter "On Joy
+  and Sorrow" (The Prophet, 1923) is real and the blockquote is verified verbatim against
+  the Gutenberg carrier, but "sorrow's fruit" as a phrase is the compendium's distillation
+  of the chapter's cup/lute/well images, not a term Gibran uses. The page already says "This
+  is a literary image, and the page offers it as such". Supervisor/owner disposition
+  requested: (a) keep as the companion's literary heading, or (b) fold toward the
+  grief-and-growth teaching. Evidence trail: w1ad ledger.
+
+- **Spiritual joy** (2026-10-23, worker-pplx-w1ad-f6d92b31, w1ad):
+  heading-provenance flag, marked done with on-page disclosure. "Spiritual joy" is not an
+  Aristotle term; the page frames it explicitly as "the compendium's Aristotelian frame"
+  and its claims are now grounded in the opened Chase carrier (final-end, pleasure in
+  virtuous actions, Book X pastimes denial). Supervisor/owner disposition requested:
+  (a) keep as the companion's heading with the frame disclosed, or (b) fold toward
+  eudaimonia. Evidence trail: w1ad ledger.
