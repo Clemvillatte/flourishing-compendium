@@ -20,12 +20,12 @@ In discussing education, Dewey connects interest with careful deliberation and w
 
 > "Begin with the line of his native interests, and offer him objects that have some immediate connection with these." (James, Talks to Teachers, ch. 10, [Gutenberg](https://www.gutenberg.org/files/16287/16287-h/16287-h.htm))
 
-The compendium's exercise: for a task you keep forcing, list what you were interested in just before it, and reframe the task around one of those connections.
+Dewey connects interest with discipline: the capacity to persist in an intelligently chosen course through difficulty. ([Democracy and Education, chapter 10, §1](https://www.gutenberg.org/cache/epub/852/pg852.txt)) James illustrates acquired interest with a railway timetable: it becomes absorbing when you need it to make a journey. ([Talks to Teachers, chapter X](https://www.gutenberg.org/files/16287/16287-h/16287-h.htm))
 
 **Plain words**
-Choose a necessary task. What part connects with something you already care about, and where could you begin?
+Imagine a page of measurements that looks like busywork until you are trying to build a shelf that fits. The figures now have a job you care about. That is an everyday way into James's idea: a subject can gain meaning through a purpose already alive for you. The connection gives you a reason to work through the difficult parts.
 
-*For example:* Imagine you avoid a required statistics course. You notice you enjoy following football, and you start learning probability through betting odds, keeping the course in view as you go.
+For example: You avoid a required statistics course but enjoy following football. Work through a probability exercise once with the textbook's generic data and once with match results, then explain the same concept using a third dataset. Compare where you can do the reasoning yourself. Keep the sporting connection if it helps you enter the subject and carry the idea beyond sport. This is a proposed learning exercise, not a result established by the quotations.
 
 ## Related concepts
 

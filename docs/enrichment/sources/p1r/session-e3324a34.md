@@ -25,3 +25,9 @@ Validation: 252 prose words; zero hard errors. Frontmatter, protected sections a
 Opened [Dewey, Experience and Nature, Internet Archive full OCR text](https://archive.org/stream/in.ernet.dli.2015.188224/2015.188224.Experience-And-Nature-John-Dewey_djvu.txt) with fetch. Read printed pp. 322 and 326 directly. Both existing quotations match after line-wrap normalization; the OCR splits “perpetuating” across lines and has errors in unrelated words, so no unmarked OCR emendation was used for a new quotation.
 
 Retained the substantive body and quotations. Replaced the procedural Plain words question with an explanation of immediate enjoyment and asking about its place, conditions and consequences. Removed the odd suggestion to test whether enjoyment “survives the description”. The swimming comparison is explicitly the compendium's proposal, not empirical evidence.
+
+## P083: acquired interest and persistence
+
+Opened [Dewey, Democracy and Education](https://www.gutenberg.org/cache/epub/852/pg852.txt) and [James, Talks to Teachers](https://www.gutenberg.org/files/16287/16287-h/16287-h.htm) with fetch, full text. Read Dewey chapter 10, §1 around “Deliberation will be perfunctory…” and his explicit interest/discipline connection. Read James chapter X, native/acquired interest, railway timetable illustration and the two existing quoted teacher instructions. All retained quotations match after line-wrap normalization.
+
+Repair: replace a procedural question with a shelf/measurements analogy that explains how a subject gains significance through an existing purpose. The football example now compares learning and transfer with datasets rather than betting odds. It is a proposed exercise, not a claimed efficacy finding.
