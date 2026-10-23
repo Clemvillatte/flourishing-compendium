@@ -25,6 +25,7 @@ He continues that it is only when we get bored and become aware that we are seek
 *For example:* Imagine noticing your hand reach for the phone in a free moment and asking what you want from it. The answer might be a wish for something interesting, or a discomfort with the quiet. Either answer tells you what you are choosing between, and the choice stays yours.
 
 ## Psychology parallels
+- [[T012 — Laozi]]: the delight-in-the-ordinary parallel (Daodejing 80) the page lists.
 
 - **[[Boredom|Boredom research]]**, boredom as a signal of meaning deficit, not merely stimulus deficit (Westgate and Wilson, 2018; Eastwood et al., 2012)
 

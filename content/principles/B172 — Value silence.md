@@ -25,6 +25,7 @@ The monk also resolves to engage in talk that is scrupulous, conducive to releas
 *For example:* Imagine overhearing a rumour about a colleague and feeling the pull to pass it on. You decide not to start that conversation, and when someone later asks you a practical question about the shared project, you answer it directly.
 
 ## Psychology parallels
+- [[T012 — Laozi]]: the sparse-speech parallel (Daodejing 23) the page lists.
 
 - **[[Restorative environments|Restorative environments]]**, quiet and natural settings aid recovery from attentional load (Kaplan, 1995)
 

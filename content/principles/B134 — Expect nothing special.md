@@ -23,6 +23,7 @@ This is a claim about the nature of awakening, not a modest refusal to brag. The
 *For example:* Two practitioners both have a profound meditation experience. One spends the next year trying to reproduce it, treating ordinary days as failures to get back there. The other goes back to chopping wood and carrying water, and the experience is quietly absorbed into how the ordinary day is done. Only one of them is still practising a year later.
 
 ## Psychology parallels
+- [[T012 — Laozi]]: the sage-wears-coarse-cloth-and-carries-jade image (Daodejing 70) the page lists.
 
 - **[[The hedonic trap of seeking peak experiences|The hedonic trap of seeking peak experiences]]** (Mauss et al., 2011)
 - **[[Savoring|Savoring ordinary experience]]** (Bryant and Veroff, 2007)

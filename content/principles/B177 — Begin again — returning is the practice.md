@@ -24,6 +24,7 @@ In this modern application, a lapse is a cue to choose the next sitting. You sto
 *For example:* Suppose a meditation habit abandoned for three weeks. As a modern application, the return is sitting once today, not renegotiating the whole habit.
 
 ## Sources
+- [[T012 — Laozi]]: the fu return (Daodejing 16) the page's returning rests on.
 
 - [MN 20 (Vitakkasanthana Sutta), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)
 

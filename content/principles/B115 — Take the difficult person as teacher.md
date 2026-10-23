@@ -27,6 +27,7 @@ Look at both what happened and how you responded. You might find something to le
 Imagine a colleague repeatedly interrupting you. Ask them to let you finish, seek a clearer meeting structure, and notice whether your own reply becomes needlessly hostile. You can work on that reply while still insisting that the interruptions stop; no hidden wound needs to be assumed.
 
 ## Psychology parallels
+- [[T012 — Laozi]]: the enemy-as-mirror parallel (Daodejing 27) the page cites.
 
 - **Attachment and conflict**: a review describes attachment-related responses under particular romantic-relationship stressors; it does not establish that every workplace irritation reveals a childhood wound ([Simpson and Rholes, 2017, "Internal Stress" and conclusions](https://pmc.ncbi.nlm.nih.gov/articles/PMC4845754/)).
 

@@ -26,6 +26,7 @@ When you sit, cook, or write in order to get something out of it, the getting st
 *For example:* A man starts meditating to reduce stress and rates each session by how calm he feels afterwards. The rating becomes the practice, and the sitting never gets a clean try. Setting the score aside is itself the exercise Suzuki describes, dropping the extra idea.
 
 ## Sources
+- [[T012 — Laozi]]: the desire-to-be-without-desires parallel (Daodejing 64) the page lists.
 
 - [Library of Social Science PDF of Zen Mind, Beginner's Mind passages (Suzuki 1970, Weatherhill)](https://www.libraryofsocialscience.com/assets/pdf/Suzuki-Zen_Mind.pdf) — the "no gaining idea... then you do something" passage
 - [Terebess: Shunryu Suzuki's original Los Altos lectures behind ZMBM, "Mistakes in Practice," April 13, 1967](https://terebess.hu/zen/mesterek/ZMBM-Lectures.html) — the "get rid of something extra" passage

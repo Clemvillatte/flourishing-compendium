@@ -35,6 +35,7 @@ The dishes get done either way. What you choose is whether you are there while i
 Tonight, before the first plate, say to yourself "I am washing this plate." Wash the first five items while noticing the temperature of the water and the weight of each dish. When your mind runs to tomorrow, label it "planning" and return to the next dish. If a week of this is easy, pick a second chore, such as hanging out laundry, and do the same.
 
 ## Sources
+- [[T012 — Laozi]]: the presence-in-the-ordinary parallel (Daodejing 2) the page lists.
 
 - Thích Nhất Hạnh, *The Miracle of Mindfulness* (1975), excerpt: [Plum Village](https://plumvillage.org/articles/a-tribute-to-jim-forest); longer extract: [Kalampedia](https://kalampedia.org/2024/08/01/thich-nhat-hanhs-miracle-of-mindfulness/)
 - Hanley, A. W., Warner, A. R., Dehili, V. M., Canto, A. I., & Garland, E. L. (2015). Washing dishes to wash the dishes. *Mindfulness*, 6, 1095-1103: [abstract at Springer](https://link.springer.com/article/10.1007/s12671-014-0360-9)

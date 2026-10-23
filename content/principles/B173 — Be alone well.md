@@ -32,6 +32,7 @@ Two people live alone. One fills every silence with a podcast or a call. The oth
 
 
 ## Sources
+- [[T012 — Laozi]]: the differing-from-the-crowd parallel (Daodejing 20) the page cites.
 
 - [Dhammapada 61, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.05.budd.html)
 - [Sn 1.3, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.03.than.html)

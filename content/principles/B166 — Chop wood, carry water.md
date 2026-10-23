@@ -27,6 +27,7 @@ You may be waiting for a retreat or a quiet hour before taking practice seriousl
 Suppose you have dishes to wash before sitting down to meditate. Try including the washing in that period of practice, rather than treating practice as something that can begin only when the sink is empty.
 
 ## Sources
+- [[T012 — Laozi]]: the delight-in-the-ordinary parallel (Daodejing 80) the page lists.
 
 - [Layman Pang (Pang Yun), Encounter Dialogues and Verses of Layman Pangyun, compiled by Satyavayu, Touching Earth Sangha (via Terebess Zen archive)](https://terebess.hu/zen/pang.html) — Shitou exchange quoted verbatim; daily-activity verse paraphrased; page also carries van Schaik and Whitfield translations of the verse
 

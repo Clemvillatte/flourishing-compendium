@@ -29,6 +29,7 @@ A rift can get harder to raise the longer it sits. The Dhammapada gives one reas
 Two friends have the same argument. One sends the awkward text that evening and the conversation is over in an hour. The other waits for a better moment and a year goes by. This one is imagined.
 
 ## Sources
+- [[T012 — Laozi]]: the reconciliation parallel (Daodejing 79) the page cites.
 
 - Dhammapada 6, trans. Acharya Buddharakkhita: [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
 

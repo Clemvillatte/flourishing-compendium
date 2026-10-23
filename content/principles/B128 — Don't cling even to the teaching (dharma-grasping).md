@@ -32,6 +32,7 @@ A teaching is equipment, like the raft in the sutta: you build it, cross with it
 *For example:* Imagine someone who brings up their meditation retreat in every conversation and cannot let a remark about Buddhism pass uncorrected. MN 22's water-snake passage names the pattern: the study has become a device for attack and defense.
 
 ## Related concepts
+- [[T012 — Laozi]]: the sage-wears-rough-cloth image (Daodejing 70) the page lists.
 
 - [[The raft]] — MN 22 is the shared source: the concept page collects the raft image and its facets, the principle page states the instruction the simile carries.
 

@@ -24,6 +24,7 @@ Pick one teaching you accept mainly because of who said it. Write down what you 
 *For example:* Imagine explaining a teaching to a friend. You notice your answer keeps returning to the teacher's reputation. You go back to the text to find what you can actually explain.
 
 ## Sources
+- [[T012 — Laozi]]: the sage-teaches-without-words parallel (Daodejing 2) the page lists.
 
 - [Journal of Korean Religions 10/2 (2019), Terebess-hosted PDF: Watson 1993, p. 52 quotation of the Linji-lu (T47.1985.466b-506c) and the article's reading of the passage as aimed at attachment to names](https://terebess.hu/zen/mesterek/kyong.pdf)
 

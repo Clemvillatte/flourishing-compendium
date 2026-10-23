@@ -25,6 +25,7 @@ Put the commitment in words you are prepared to follow. Decide what you will dec
 Imagine being offered wine at a celebration after choosing to follow this precept. You ask for something non-alcoholic and stay for the conversation. This illustrates the commitment; it makes no claim about what another guest should do or how anyone will feel afterward.
 
 ## Psychology parallels
+- [[T012 — Laozi]]: the clear-mind parallel (Daodejing 45) the page lists.
 
 - **[[Mindfulness|Mindfulness-based relapse prevention]]** (Bowen et al., 2011)
 

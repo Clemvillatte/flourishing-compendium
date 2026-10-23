@@ -26,6 +26,7 @@ Take one thing you treat as solid and ask what it is standing on: the body on fo
 *For example:* Imagine a jar: clay, water, the potter's hands, fire, the kitchen it ends up in. Take away any one of those and the jar is not there. This is the compendium's illustration of dependent co-arising, not a claim that the jar is imaginary.
 
 ## Sources
+- [[T012 — Laozi]]: the wu non-being parallel (Daodejing 11) the page pairs with the Heart Sutra.
 
 - [The Heart Sutra, Edward Conze translation, The Gold Scales](http://oaks.nvg.org/heart-sutra.html) — the form-emptiness passage
 - [Nagarjuna, Mulamadhyamakakarika ch. 24, Jay L. Garfield translation](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf) — verses 14 and 18

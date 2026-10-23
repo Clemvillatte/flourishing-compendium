@@ -32,6 +32,7 @@ Take the message you have half-written to a friend who let you down. Ask it four
 *For example:* The perfect comeback that was true but wrong in tone and wrong for the moment: held at the gate, it aged into wisdom instead of a wound.
 
 ## Sources
+- [[T012 — Laozi]]: the plain-words-over-beautiful parallel (Daodejing 81) the page cites.
 
 - [MN 58 Abhaya Sutta (Thanissaro Bhikkhu trans., Access to Insight)](https://accesstoinsight.org/tipitaka/mn/mn.058.than.html) — the six-case passage; the sympathy line
 - [Sutta Nipāta III.3 Subhasita Sutta (Thanissaro Bhikkhu trans., primary source scan)](https://cdn.britannica.com/primary_source/gutenberg/PGCC_classics/canon/khuddaka/suttanipata/snp3-03.html) — the four characteristics of well-spoken speech; wording verified against the [Access to Insight text](https://accesstoinsight.org/tipitaka/kn/snp/snp.3.03.than.html), which reads "what it well-spoken" as published

@@ -30,6 +30,7 @@ You can want an argument to end and still speak as though you are fighting to de
 For example: You arrive home irritated and find the kitchen untidy. Compare “You never help” with “Can we decide who clears up tonight?” Notice the accusation in one and the concrete request in the other. Try the request, then review what you actually said, including whether it turned into an accusation. Keep the opening that lets you raise the problem without attacking the person; do not assume it guarantees agreement.
 
 ## Sources
+- [[T012 — Laozi]]: the stillness-masters-restlessness parallel (Daodejing 26) the page cites.
 
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.budd.html) — verse 96
 - [Thich Nhat Hanh, Peace Is Every Step, excerpts](https://www.dhammatalks.net/Books10/Thich_Nhat_Hanh_Peace_is_Every_Step.htm) — peace present right here and now
