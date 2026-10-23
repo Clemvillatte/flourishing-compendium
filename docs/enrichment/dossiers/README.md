@@ -66,6 +66,9 @@ detaching from the self-as-object, cultivating wisdom, genuine flourishing):
 
 ## Location and status
 
-Dossiers stage in this folder. Publication, and the Academy page placement
-next to MORE VIDEOS and DISCOVERY, is an owner decision; the Academy interface
-is an independent project and no dossier work edits it.
+Dossiers stage in this folder, in the wiki's card-link format so every entry
+is one click from the live site. The owner's stated destination is the
+Academy, as a Dossiers view beside MORE VIDEOS and DISCOVERY. This staging
+delivers the content; wiring the Academy view itself is site work outside
+this folder, and the first dossier is delivered with that integration still
+to do.
