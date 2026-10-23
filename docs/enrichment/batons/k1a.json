@@ -38,7 +38,14 @@
    "at": "2026-10-23T06:55:23+00:00",
    "from": "worker-pplx-k1a-a8dec1a8",
    "reason": "stale (29 min)"
+  },
+  {
+   "by": "supervisor-pplx-18731e82",
+   "at": "2026-10-23T11:46:06+00:00",
+   "from": "worker-pplx-maint-c4d81b7f",
+   "reason": "supervisor force-release"
   }
  ],
- "released": false
+ "released": true,
+ "released_at": "2026-10-23T11:46:06+00:00"
 }

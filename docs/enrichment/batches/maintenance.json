@@ -13,5 +13,6 @@
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:15:38+00:00"
+ "updated": "2026-10-23T11:46:11+00:00",
+ "notes": "MAINTENANCE SWEEP MISSION (recorded 2026-10-23 by supervisor-pplx-18731e82, force-released the stale maint baton for a fresh worker): the routed 'workflow-rationale-in-backlink-gloss' class is SYSTEMIC — 610 instances across content/concepts/ of glosses that explain a link by the LIBRARY's bookkeeping ('listed for comparison', 'X's psychology/philosophy parallels list this', 'page's cited-in lists', 'its parallels list names') instead of a plain relationship clause. Find them with: rg -n \"listed for comparison|parallels list|cited-in lists\" content/concepts/ Fix pattern: reword each Related-concepts gloss to a plain, true relationship clause between the two pages' subjects (no hallucination: do not invent mechanisms; a plain 'the sibling page in the same family' style clause is acceptable where no deeper relationship is known). ALREADY FIXED this session (do not redo): Expressive writing (Right intention line), Implementation intentions (Right intention line), Socioemotional wisdom (Wisdom line), Nonviolent communication (quote-mark repair, different class). Named instances from the original routed finding to prioritize: Ziran, Being-toward-death, Awe, Rumination, Anatta, Cultural psychology, I and Thou (already clean), Decentering. Work in manifest/grep order, validate every touched page, save and push per the normal cadence."
 }
