@@ -39,3 +39,12 @@ Agent: worker-f56764cd. Date: 2026-10-23. The published supervisor is worker-ppl
 - Email example varies full and shorter drafts, compares the decision/action information, and retains or repairs the usable version; overt behaviour named.
 - Read Rumination and Worry theory cognitive avoidance Borkovec; both already link D119. Mention search for excess words also surfaced Apophatic theology but does not warrant a decorative new link. No new reciprocal proposed.
 - Existing research parallels and reflection text preserved, not independently certified.
+
+## D131
+
+- Reopened with enrich_state.py. Checked DDJ 31's weapons, necessity and mourning passage in the opened Legge source: https://www.gutenberg.org/files/216/216-h/216-h.htm.
+- Shortened the chapter recital to the relation between necessity and grief. Replaced the quotation's non-source double-hyphen typography with a shorter exact contiguous excerpt, explicitly labeled excerpt. Initial lowercase he retained because the fragment begins mid-sentence.
+- Bounded the modern analogy: it does not require someone to remain in danger or delay urgent protection. Removed the breakup-card example and absolute nothing-else-left wording from the rewritten body; original reflections preserved as required.
+- Overt-behaviour example varies ways to pause a meeting, compares boundary clarity and conditions for resuming, and retains the clearer safe wording. No empirical conflict-resolution outcome promised.
+- Read Aggression research, Ultimatum research and Just war criteria; all already backlink D131. Ran last-resort mention search. No reciprocal needed.
+- Existing research parallels and reflection text preserved, not independently certified. Milestone advisor QC requested on items 2–5.

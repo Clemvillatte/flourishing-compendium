@@ -12,18 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 131** — Treat weapons as a last resort
 
-Chapter 31 of the Daodejing treats weapons as a category apart. Arms, however beautiful, are instruments of evil omen, hateful to all creatures, and those who have the Tao do not like to employ them. The superior man uses them only on the compulsion of necessity; what he prizes is calm and repose, and victory by force of arms is undesirable to him. Laozi gives the reason in two steps: to consider victory desirable would be to delight in the slaughter of men, and he who delights in the slaughter of men cannot get his will in the kingdom. The chapter closes with mourning: the victor in battle takes his place by the rites of mourning, and he who has killed multitudes of men should weep for them with the bitterest grief.
+Chapter 31 of the Daodejing refuses to celebrate even a necessary victory. Its superior man prizes calm and repose, uses weapons under the compulsion of necessity, and takes the mourner's place after battle. The chapter pairs the possibility of necessity with grief, rather than delight in killing.
 
 (DDJ 31.)
 
-> "Those sharp weapons are instruments of evil omen, and not the instruments of the superior man;--he uses them only on the compulsion of necessity." (DDJ 31, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+> "he uses them only on the compulsion of necessity." (DDJ 31, excerpt from [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium's application carries the passage past armies, to lawsuits, ultimatums and burned bridges. That extension is the compendium's reading, not the chapter's wording, and the chapter's test travels with it: the compulsion of necessity is the only stated justification for reaching for the weapon.
+Applying this to an everyday dispute is an analogy. It is not a rule that someone must exhaust every alternative before leaving danger or seeking urgent protection.
 
-**Plain words**
-In the compendium's analogy, a weapon is something you may use only when nothing else is left, and using it well still assigns you the mourner's place. Everyday weapons: naming the relationship-ending card, filing the suit, sending the ultimatum. Before playing one, ask what would have to be true for this to be necessity. If the honest answer is anger or convenience, the analogy files it under instruments of evil omen.
+### Plain words
 
-*For example:* Imagine an argument in which "maybe we should just break up" is available. For this everyday application, ask whether necessity compelled you to say it, or whether something less final would have done.
+Before sending a threat, decide what you need to protect and what the threat would do. Could you state your boundary without threatening punishment? Reluctance about causing harm does not require surrendering the boundary.
+
+### For example
+
+For an overt-behaviour exercise, write two ways to pause a heated meeting without threatening anyone. Compare whether each states why you are leaving and how discussion could resume. Keep the clearer version available, provided resuming is safe and appropriate.
 
 ## Sources
 
