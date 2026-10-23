@@ -36,6 +36,10 @@ None of these shows that reasoning, debiasing or metacognition "degrade without 
 
 *For example:* Imagine you learned a decision checklist five years ago and never looked at it again. The sources above would not say it has decayed. They would say that, unreviewed, it has had no chance to be tested or updated, which is the gap the principle is pointing at.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding the page gives a cognitive-maintenance system.
+
 ## Psychology parallels
 
 - **Cognitive engagement maintains function**, sustained intellectual activity is associated with better cognitive ageing (Stern, 2002; Lövdén et al., 2010)

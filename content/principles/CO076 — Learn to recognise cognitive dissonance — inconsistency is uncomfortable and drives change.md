@@ -27,6 +27,10 @@ When your reasons become defensive, ask what you are trying to make consistent a
 ### For example
 
 Suppose you value fair discussion but dismiss criticism of a favourite author without reading it. You could examine the criticism before deciding whether to defend the author, revise your view or acknowledge uncertainty.
+## Related concepts
+
+- [[T011 — Socrates]]: the examining-defences parallel the page draws from the Apology.
+
 ## Psychology parallels
 
 - **[[Cognitive dissonance|Cognitive dissonance theory (Festinger)]]**: the early experiment tests proposed opinion change after counterattitudinal behaviour ([Festinger and Carlsmith, 1959, pp. 203–204](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Festinger_Carlsmith_1959_Cognitive_consequences_of_forced_compliance.pdf)).

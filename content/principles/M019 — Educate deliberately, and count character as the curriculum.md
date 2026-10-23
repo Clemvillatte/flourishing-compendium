@@ -23,6 +23,10 @@ Nahua schools were built around forming a person's character as well as teaching
 
 *For example:* A self-taught programmer notices her training never covered ethics or working with other people. She finds a mentor, picks one standard to practise each month and keeps a log.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-as-syllabus parallel the page draws.
+
 ## Sources
 
 - [Maffie, J., Aztec Philosophy, Internet Encyclopedia of Philosophy (section 6, quoting Sahagún VI, p. 113)](https://iep.utm.edu/aztec-philosophy/)

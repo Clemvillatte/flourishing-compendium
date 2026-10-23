@@ -23,6 +23,10 @@ Having a worry and believing that worrying is useful are different things. You m
 *For example:*
 Imagine worrying about an exam because you believe it keeps you prepared. Write that belief separately from your concrete preparation plan, then state what additional benefit you believe worrying provides.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examining-the-examiner parallel the page draws.
+
 ## Sources
 
 - [Normann & Morina (2018), The efficacy of metacognitive therapy: A meta-analysis reviewing the evidence, Frontiers in Psychology 9:2211](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/)

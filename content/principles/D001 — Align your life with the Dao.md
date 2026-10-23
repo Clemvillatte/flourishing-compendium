@@ -23,6 +23,10 @@ Each level takes its law from the level above, and the Dao's law is simply what 
 
 *For example:* Suppose you schedule a writing session and then notice it overlaps a meeting. The aligned move is to decide which commitment to move before relying on the timetable.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the Crito story (ST141) the page lists: the examined life refusing the easy exit.
+
 ## Stories
 
 - [[ST001 — Cook Ding and the Ox|1. Cook Ding and the Ox]]

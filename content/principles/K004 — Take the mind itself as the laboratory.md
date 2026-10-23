@@ -22,6 +22,10 @@ Everything you experience passes through your mind, so it pays to look at it oft
 **For example**
 Before replying to a message that irritated you, you pause and ask what your mind is doing. You notice you are rehearsing a comeback, and you wait ten minutes.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding the page gives the mind as laboratory.
+
 ## Sources
 
 - [Shantideva, The Way of the Bodhisattva (Bodhicharyavatara), trans. Padmakara Translation Group (Shambhala, 1997), ch. 5 "Vigilance"](https://ia800508.us.archive.org/33/items/wayofthebodhisattvatranslationofbodhisattvacharyavatra1997_593_a/Way%20of%20the%20Bodhisattva%20Translation%20of%20Bodhisattvacharyavatra%201997.pdf): opened; verse numbers as in the translation. Checked against the same wording on [Tsadra's Bodhicitta site](https://bodhicitta.tsadra.org/index.php/Explore/Chapter_5_-_Vigilant_Introspection)

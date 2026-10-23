@@ -22,6 +22,10 @@ Modern work gives a partial echo. Leary and colleagues measured intellectual hum
 
 For example: in a meeting, "I don't know, I'll check by Thursday" gives colleagues a clear next step. A confident guess can send people the wrong way until someone checks.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the Apology's test of the man with a reputation for wisdom, the page's opening case.
+
 ## Sources
 
 - Plato, [Apology](https://classics.mit.edu/Plato/apology.html), trans. Benjamin Jowett, 21d (MIT Classics)

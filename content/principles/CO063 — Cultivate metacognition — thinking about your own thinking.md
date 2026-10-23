@@ -34,6 +34,10 @@ Monitoring can backfire. He names "the feckless obsessive, paralyzed by incessan
 
 *For example:* You finish a page and ask whether you could explain it to someone else. If you could not, that feeling is a metacognitive experience, and what you do next, such as re-reading with a question in mind, is the strategy it points to.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding (Apology 38a) for thinking about your own thinking.
+
 ## Psychology parallels
 
 - **[[Metacognition|Metacognition (Flavell)]]**, knowledge and regulation of one's own cognition (Flavell, 1979; Dunlosky & Metcalfe, 2009)

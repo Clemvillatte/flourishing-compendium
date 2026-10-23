@@ -24,6 +24,7 @@ Look at something you keep but seldom use. Would you choose it again today? Try 
 *For example:* Suppose a closet of 200 items you manage and 15 you actually wear. As a modern application, try working from the 15 for a month and see whether the other 185 were doing anything for you.
 
 ## Related concepts
+- [[T011 — Socrates]]: the examined-life-stripped-to-essentials parallel (Apology 38a) the page draws.
 
 - [[D035]] — both principles draw on DDJ 80's small-state image: D034 the simplifying, D035 the bound-keeping
 

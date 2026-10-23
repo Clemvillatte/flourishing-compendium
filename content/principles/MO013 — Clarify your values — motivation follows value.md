@@ -24,6 +24,10 @@ You can push yourself with guilt, pride or other people's expectations, and it w
 **For example**
 You keep telling yourself to "get promoted". Ask what for. If the answer is "so my father stops worrying", that is introjection. If it is "I want to lead the work on this project", you have a value you can act on.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-values parallel: the examined life requires examined values.
+
 ## Sources
 
 - [Ryan and Deci, Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being, American Psychologist 55(1) (2000), 68-78, full text from the SDT site](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf): extrinsic motivation and internalization section; education findings; opened and text-checked

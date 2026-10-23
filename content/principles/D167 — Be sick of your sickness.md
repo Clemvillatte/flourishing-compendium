@@ -28,6 +28,10 @@ Chapter 71 calls not knowing while believing one knows a disease. In Legge's tra
 
 *For example:* Imagine a position you have argued for at work that rests partly on an assumption you have not checked. You could name the assumption in your own notes before the next time the claim comes up.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the unexamined-life warning the page pairs with facing what ails you.
+
 ## Sources
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 71

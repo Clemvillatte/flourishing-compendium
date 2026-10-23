@@ -24,6 +24,10 @@ Before a task, ask what you are trying to do: get better at it, or show that you
 **For example**
 Two students face the same exam. One thinks, "I want to understand this unit well." The other thinks, "I can't be the one who fails." Both study hard, but only the first has a goal that rewards the work for its own sake.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-is-learning parallel the page draws.
+
 ## Sources
 
 - [Elliot and McGregor, A 2 x 2 achievement goal framework, JPSP 80 (2001), 501-519, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11300582/): abstract only
