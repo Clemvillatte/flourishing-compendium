@@ -101,6 +101,15 @@ Opened with fetch on 2026-10-23:
 
 Rewrite: explain the four notions and connect the practical illustration to the aspiration to help without fixing helper/helped as separate identities. The exercise is editorial and modest, not a replacement for the sutra's liberative aim.
 
+## B141: explain emptiness without making it a new substance
+
+Opened with fetch on 2026-10-23:
+
+- [Nagarjuna, MMK, Batchelor's literal translation](https://www.leighb.com/VfromC.htm): chapter 13, verses 7 and 8, read with the Tibetan text and the translator's bracketed alternative glosses. Retained excerpt ends before “[incurable/incorrigible]”; this is a deliberate excerpt, not a new translation.
+- [Jan Westerhoff, Nāgārjuna, SEP Fall 2025 archive](https://plato.stanford.edu/archives/fall2025/entries/nagarjuna/): section 2 read for svabhava, independent primary existents, foundation, and emptiness as a corrective rather than primordial reality. This is an identified scholarly interpretation.
+
+Rewrite: supply the missing meaning of emptiness before asking the reader to use it; replace the procedural/repetitive Plain words with an explicitly everyday table analogy; make the example a comparison of two claims a writer could actually revise. No claim that the analogy exhausts Madhyamaka.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.

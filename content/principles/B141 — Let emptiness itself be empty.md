@@ -12,20 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 141** — Let emptiness itself be empty
 
-MMK 13.7-8 are the source for the principle. Verse 7 argues conditionally: if a bit of the non-empty existed, a bit of the empty would also exist, and if there did not exist a bit of the non-empty, how could the empty exist? Verse 8 applies its warning to emptiness itself: emptiness is not exempted from the relinquishment of views it recommends. The Conquerors taught emptiness as the forsaking of all views, and those who view emptiness are taught to be without realisation, incurable. (Nagarjuna, MMK 13.7-8.)
+For Nagarjuna, emptiness concerns the absence of svabhava, often translated as intrinsic nature or inherent existence. Jan Westerhoff explains the rejected view as things existing independently, at the foundation of everything else. Emptiness corrects that view; it is not another primordial reality underneath appearances. ([Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/archives/fall2025/entries/nagarjuna/))
+
+MMK 13.7 examines the dependence of the terms empty and non-empty. Verse 8 turns the warning toward making emptiness itself a view to hold onto. ([MMK 13.7 and 13.8, Batchelor](https://www.leighb.com/VfromC.htm))
 
 > "The Conquerors taught emptiness as the forsaking of all views. Those who view emptiness are taught to be without realisation" (MMK 13.8, excerpt from [Batchelor's literal translation](https://www.leighb.com/VfromC.htm))
 
-The compendium uses this warning to examine how the term "emptiness" is being used in an argument.
+Westerhoff's account makes the consequence explicit: emptiness is a corrective to a mistaken way of conceiving phenomena, not a self-standing substance discovered after other substances have been rejected. ([Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/archives/fall2025/entries/nagarjuna/))
 
 **Plain words**
-Write the claim you are making with the word "emptiness." Ask what you mean by it and what reason you have for the claim. Apply the same scrutiny to that claim itself.
+Imagine taking apart a table and looking for a “tableness” that exists all by itself. Finding parts and conditions has not revealed an extra ingredient called emptiness. That is an everyday analogy for the danger here: you can question something's independent existence, then accidentally give the word you used to question it an independent existence of its own.
 
-*For example:* Imagine using "everything is empty" to dismiss a disagreement. You ask what the phrase means in this case before relying on it.
+For example: A writer drafts “Emptiness is the ultimate substance of the universe.” Compare that with “Things lack an independent nature; emptiness names that lack.” Ask which sentence turns the correction into a new foundation. Keep the wording that makes its object and meaning clear, and review later uses of the word for the same mistake. This is the compendium's writing exercise, not an additional verse from Nagarjuna.
 
 ## Sources
 
 - [Mulamadhyamakakarika: Verses from the Centre, Batchelor literal translation (mirror at leighb.com; original at stephenbatchelor.org)](https://www.leighb.com/VfromC.htm) — chapter 13, verses 7-8
+- [Jan Westerhoff, Nāgārjuna, Stanford Encyclopedia of Philosophy, Fall 2025 archive](https://plato.stanford.edu/archives/fall2025/entries/nagarjuna/) — section 2, “Emptiness and svabhāva”; independent existence, foundation and emptiness as a corrective
 
 ## Psychology parallels
 
