@@ -42,8 +42,36 @@ The same passage grounds it: "rational nature exists as an end in itself" ([Grou
 - [[Cosmopolitanism]]
 - [[Dignity]]
 
+## Everything connected in the wiki — the Kantian tradition
+
+Kant has no book of principles in the compendium: every principle that names him cites him as a philosophy parallel, and those cross-tradition echoes stay on their own pages. The inventory keeps the pages that carry his ideas; other traditions may echo him, but linking them here would drown the graph. (Owner direction, October 2026.)
+
+### Principles (0)
+
+### Concepts (17)
+- [[Autonomy]]
+- [[Cosmopolitanism]]
+- [[Dignity]]
+- [[Disinterested aesthetic pleasure]]
+- [[Faculties of the mind]]
+- [[Hospitality]]
+- [[Knowledge as construction]]
+- [[Moral obligation]]
+- [[Persons as ends]]
+- [[Phenomenal and noumenal]]
+- [[Respect]]
+- [[Self-legislation]]
+- [[The categorical imperative]]
+- [[The enlightenment]]
+- [[The sensible before the conceptual]]
+- [[The sublime]]
+- [[Truthfulness]]
+
+### Sayings (1)
+- [[The crooked timber of humanity]]
+
 ## Sources
 
 - [SEP, "Immanuel Kant" (Rohlf)](https://plato.stanford.edu/entries/kant/) — the biography, the three-Critiques framing, the Groundwork and Perpetual Peace dates.
-- [Kant, Groundwork of the Metaphysics of Morals, trans. T. K. Abbott (MIT course asset PDF)](https://openlearninglibrary.mit.edu/assets/courseware/v1/d724068ab9d302a3eba40f625520f510/asset-v1:MITx+24.02x+2T2020+type@asset+block@L11_Kant_Groundwork.pdf) — the humanity formulation and the "rational nature" sentence verified verbatim against the extracted text.
-- [Kant, Perpetual Peace (Project Gutenberg #50922)](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm) — the hospitality passages verified verbatim against the raw HTML.
+- [Kant, Groundwork of the Metaphysics of Morals, trans. T. K. Abbott (MIT course asset PDF)](https://openlearninglibrary.mit.edu/assets/courseware/v1/d724068ab9d302a3eba40f625520f510/asset-v1:MITx+24.02x+2T2020+type@asset+block@L11_Kant_Groundwork.pdf) — the humanity formulation and the "rational nature" sentence.
+- [Kant, Perpetual Peace (Project Gutenberg #50922)](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm) — the hospitality passages.

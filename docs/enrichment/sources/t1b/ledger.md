@@ -18,3 +18,12 @@ Flag: "\"theory places meaning where Freud placed pleasure and Adler power\" uns
 3. STRUCTURE fixed: the "## Their position" heading was glued mid-paragraph after the "Their why" section (broken markdown); placed on its own line.
 4. TRADITION GATING applied per the owner rule (James/T002 precedent): gated inventory added — 7 logotherapy principles (E060-E066), 20 Frankl/existential-therapy-anchored concepts, K317, 3 Frankl stories (ST036/ST279/ST311); Stoic/Heidegger/Greek/psychoanalysis echoes dropped. Original "Connection to the compendium" list preserved intact.
 5. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
+
+## 2026-10-23 — worker-pplx-t1b-2d4e7a91 — Immanuel Kant (T020), QC round-4 repair
+
+Flag: "\"the rule becomes right rather than philanthropy\" interpretation still present — replace with separate introduction; \"spent his life in Königsberg\" needs the six-years-outside narrowing". Disposition: both defects already cured by the predecessor's round-4 patch (c0c3306af) — the interpretive gloss is absent at HEAD (the Perpetual Peace quotes are now introduced descriptively), and the six-years narrowing is present ("spent six years as a private tutor to young children outside Königsberg"). What was done:
+
+1. CARRIERS OPENED (all three, this session): SEP Kant article (raw HTML, curl), MIT Groundwork PDF (downloaded, text-extracted), Gutenberg #50922 Perpetual Peace (raw HTML, curl). ALL quotes re-verified verbatim (two apparent misses were case-initial "For the next four decades..." and PDF line-wrap artifacts). Facts confirmed (Königsberg dates, Albertina, retirement 1796).
+2. SOURCES narration removed (the two "verified verbatim against..." workflow clauses).
+3. TRADITION GATING applied (owner rule, James/T002 precedent): all 55 principle mentions classified by reading mention contexts — every one cites Kant as a philosophy parallel, none is a Kant-book principle, so the gated inventory lists 0 principles (disclosed on-page with the reason); 17 Kant-anchored concepts, 1 saying (crooked timber). Cross-tradition echoes and the Dewey thinker-page false positive dropped.
+4. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
