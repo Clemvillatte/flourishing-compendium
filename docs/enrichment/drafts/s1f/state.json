@@ -230,7 +230,27 @@
      "note": ""
     }
    ]
+  },
+  "s1f-009": {
+   "status": "qc_pending",
+   "angle": "B162 second angle: Nickel Mines Amish forgiveness 2006 — a real-world case where the community did not return hatred; need a primary source (Amish own words or a direct documented account)",
+   "history": [
+    {
+     "t": "2026-10-23T06:34:26+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:35:11+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:35:29+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    }
+   ]
   }
  },
- "updated": "2026-10-23T06:34:11+00:00"
+ "updated": "2026-10-23T06:35:29+00:00"
 }
