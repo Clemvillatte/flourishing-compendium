@@ -94,7 +94,20 @@ format) and set a new standard. Verbatim substance, do not lose it:
   the end of style.css. A Dossiers button sits in renderAcademyHome
   beside MORE VIDEOS and DISCOVERY; view branches for 'dossiers' and
   'dossierDetail' in renderAcademy.
-- The v1 rebuild plan was NOT started. No v2 content exists yet.
+- The v2 rebuild IS DONE (2026-10-23, supervisor-pplx-895565b1 + concurrent
+  verification passes by k1c/maintenance/ui workers): the-self.md is now the
+  exhaustive map (140 concepts + 16 kernels + 2 sayings + SE shelves,
+  169 card links all verified), with side TOC and Variation-Selection-
+  Retention practice blocks in the Academy view. Known-good generator:
+  python3 scripts/dossier_build.py (extracts glosses from the entry pages
+  itself, writes the markdown AND splices the fcDossiersData into
+  site/assets/app.js; rerun after editing MAP/OVERRIDES/KERNELS in the
+  script). CAUTION: hand-polished glosses now live in the markdown of
+  record; a rebuild regenerates them from the pages, so sync any manual
+  markdown edits into the script's OVERRIDES or they will be lost.
+  Remaining verification gap: live-browser check of the deployed view
+  (sticky TOC, vs blocks, card links) was done by asset fetch + DOM-stub
+  render test, not a real browser pass.
 
 ## Corpus survey (done 2026-10-23, from titles)
 
@@ -173,11 +186,12 @@ format) and set a new standard. Verbatim substance, do not lose it:
 
 ## Next steps, in order
 
-1. Rebuild The Self as the v2 exhaustive exemplar per the 2026-10-24
-   spec above (sweep, subtheme map, Variation–Selection(+Retention)
-   practice section, side TOC).
-2. Update README.md to the v2 spec and revised topic list; note that
-   the-self.md v1 is superseded once v2 lands.
+1. DONE: The Self rebuilt as the v2 exhaustive exemplar (see Current
+   state above). README.md updated to the v2 spec; the-self.md v1 is
+   superseded.
+2. Live-browser verification pass on the deployed Academy Dossiers view
+   (cache-busted reload; check sticky TOC on desktop, collapse on
+   narrow screens, vs blocks, card links opening cards).
 3. Extend the Academy view: sticky side TOC for dossier headers; the
    restructured practice section (variation / selection / retention
    blocks) in both markdown and the view's data/renderer.
