@@ -30,6 +30,8 @@ And the genuineness rule:
 > "affirming should be genuine; it should prize what actually is true about the person."
 > — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
 
+The simple versus complex distinction itself belongs to the fourth edition: its publisher's description lists "simple versus complex affirmations" among the topics new to that edition ([Guilford, via Google Books](https://books.google.com/books/about/Motivational_Interviewing.html?id=OrTFEAAAQBAJ)). That confirms the distinction is Miller and Rollnick's, but the opened sources do not show the wording of their examples.
+
 What the sources do not test: the passages give the method's account of affirming; they do not evaluate the everyday self-use version on this page.
 
 ## Related concepts
