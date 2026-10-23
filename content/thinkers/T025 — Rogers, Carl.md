@@ -8,7 +8,7 @@ tags: ["person", "track/psychology"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Carl Rogers, in his 1957 Journal of Consulting Psychology paper "The Necessary and Sufficient Conditions of Therapeutic Personality Change," states the theory as six numbered conditions: "For constructive personality change to occur, it is necessary that these conditions exist and continue over a period of time:
+Carl Ransom Rogers (January 8, 1902 – February 4, 1987) was an American psychologist, one of the founders of humanistic psychology, known especially for person-centered psychotherapy, and widely considered one of the founding fathers of psychotherapy research ([Wikipedia, Carl Rogers](https://en.wikipedia.org/wiki/Carl_Rogers)). In his 1957 Journal of Consulting Psychology paper "The Necessary and Sufficient Conditions of Therapeutic Personality Change," states the theory as six numbered conditions: "For constructive personality change to occur, it is necessary that these conditions exist and continue over a period of time:
 
 1. Two persons are in psychological contact.
 2. The first, whom we shall term the client, is in a state of incongruence, being vulnerable or anxious.
@@ -16,6 +16,10 @@ Carl Rogers, in his 1957 Journal of Consulting Psychology paper "The Necessary a
 4. The therapist experiences unconditional positive regard for the client.
 5. The therapist experiences an empathic understanding of the client's internal frame of reference...
 6. The communication to the client of the therapist's empathic understanding and unconditional positive regard is to a minimal degree achieved." ([Rogers, 1957, reprint PDF](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf)).
+
+## Personal story / context
+
+Rogers was born in Oak Park, Illinois, and trained at Wisconsin, Union Theological Seminary and Columbia before his academic path through Ohio State, Chicago, Wisconsin and the Western Behavioral Sciences Institute; the American Psychological Association honored his research with its Award for Distinguished Scientific Contributions in 1956 ([Wikipedia, Carl Rogers](https://en.wikipedia.org/wiki/Carl_Rogers)). The 1957 paper comes out of that research program: the first attempt to state, as testable conditions, what it is about a relationship that produces personality change.
 
 ## Their why
 
@@ -47,6 +51,39 @@ The paper adds a limit on the therapist-side demand: "It is not necessary (nor i
 - [[Empathy]]
 - [[Motivational interviewing]]
 
+## Everything connected in the wiki — the person-centered tradition
+
+Kept to the pages that carry or substantively apply Rogers's work — the six conditions, empathy, regard, the actualizing tendency; the principles that cite him as a cross-tradition parallel stay on their own pages.
+
+### Principles (6)
+- [[AF075 — Learn emotional validation — acknowledging a feeling reduces its intensity|Learn emotional validation: acknowledging a feeling reduces its intensity]]
+- [[BE050 — Learn to practise active listening — attend fully to others|Learn to practise active listening: attend fully to others]]
+- [[BE051 — Learn to use I statements — own your experience|Learn to use I statements: own your experience]]
+- [[MO073 — Learn motivational interviewing — helping others (and yourself) change|Learn motivational interviewing: helping others (and yourself) change]]
+- [[P014 — The good life is a process, not a state|The good life is a process, not a state]]
+- [[P063 — Treat your self-concept as revisable|Treat your self-concept as revisable]]
+
+### Concepts (15)
+- [[Active listening]]
+- [[Conditional regard]]
+- [[Congruence]]
+- [[Deep listening]]
+- [[Dialogue]]
+- [[Empathic understanding]]
+- [[Empathy]]
+- [[External-locus-of-evaluation research]]
+- [[Locus of evaluation]]
+- [[Motivational interviewing]]
+- [[Person-Centered Theory]]
+- [[Self-actualization (Maslow)]]
+- [[Sympathy]]
+- [[The actualizing tendency]]
+- [[Unconditional positive regard]]
+
+### Stories (1)
+- [[ST139 — Rogers and the Fully Functioning Person|139. Rogers and the Fully Functioning Person]]
+
 ## Sources
 
-- [Carl Rogers, "The Necessary and Sufficient Conditions of Therapeutic Personality Change", Journal of Consulting Psychology 21(2): 95-103, 1957 — reprint PDF](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf) — the six-condition list, the sufficiency claim, the congruence passage, the paragon limit and the empathy definition all verified verbatim against the extracted text.
+- [Carl Rogers, "The Necessary and Sufficient Conditions of Therapeutic Personality Change", Journal of Consulting Psychology 21(2): 95-103, 1957 — reprint PDF](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf) — the six-condition list, the sufficiency claim, the congruence passage, the paragon limit and the empathy definition.
+- [Wikipedia, "Carl Rogers"](https://en.wikipedia.org/wiki/Carl_Rogers) — the biography (Oak Park 1902, Wisconsin/Union/Columbia training, the humanistic-psychology and psychotherapy-research founding framings, APA 1956 award, died San Diego 1987).

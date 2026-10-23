@@ -81,3 +81,13 @@ Flag: "Purity of Heart blockquote not verbatim vs the opened Pin-Spears PDF — 
 3. SOURCES narration removed ("verified verbatim against the page's own excerpted passages" — now recorded here instead); the honest commentary-not-edition scope note kept; Wikipedia added as the biography carrier.
 4. TRADITION GATING: gated inventory — 14 E-book existential principles, 20 Kierkegaard-anchored concepts, 3 Kierkegaard stories; Buddhist/Daoist/psychology parallels dropped.
 5. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
+
+## 2026-10-23 — worker-pplx-t1b-2d4e7a91 — Rogers (T025), QC round-4 repair
+
+Flag: "the eight reported cases still carry the broken-quote claim from the search result — verify against the source or remove the eight-cases figure". Disposition: the eight-cases figure is ABSENT from the current page (removed by the predecessor's rebuild) — nothing to remove; verified absent at HEAD this session. What was done:
+
+1. CARRIERS OPENED: the Rogers 1957 reprint PDF (counselling-tutor S3 copy, downloaded, text-extracted) and the Wikipedia "Carl Rogers" wikitext (MediaWiki parse API). ALL quotes re-verified verbatim against the freshly opened PDF: the six-condition list, the "No other conditions are necessary... this is sufficient" claim, the congruence blockquote, the paragon limit, and the empathy "as if" definition (the apparent miss is the PDF's curly-apostrophe split of "client's").
+2. STRUCTURE: Personal story section added from the opened Wikipedia carrier (Oak Park 1902, Wisconsin/Union Theological/Columbia training, humanistic-psychology founder, psychotherapy-research founding father, APA 1956 Distinguished Scientific Contributions, died San Diego 1987).
+3. SOURCES narration removed ("all verified verbatim against the extracted text" — now recorded here); Wikipedia added as the biography carrier.
+4. TRADITION GATING: gated inventory — 6 Rogers-anchored principles (AF075, BE050, BE051, MO073, P014, P063), 15 person-centered concepts, 1 Carl-Rogers story (ST139). NOTE: ST022/ST043/ST079 are FRED Rogers (the television host) — surname false positives of the mention engine, excluded from the inventory; "Living the question" (Rilke) likewise excluded.
+5. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.

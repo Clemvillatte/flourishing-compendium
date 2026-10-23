@@ -7,7 +7,8 @@
   "Bandura",
   "Daniel Kahneman",
   "Aaron Beck",
-  "Kierkegaard"
+  "Kierkegaard",
+  "Rogers"
  ],
  "in_progress": null,
  "flagged": {
@@ -26,6 +27,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:25:27+00:00",
+ "updated": "2026-10-23T06:26:00+00:00",
  "band_done": false
 }
