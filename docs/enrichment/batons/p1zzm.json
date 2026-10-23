@@ -1,15 +1,19 @@
 {
  "baton": "p1zzm",
- "agent": "worker-pplx-ct3-1023a",
- "clocked_in": "2026-10-23T11:38:54+00:00",
+ "agent": "worker-pplx-dossiers-1025",
+ "clocked_in": "2026-10-23T14:13:57+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-ct3-1023a",
    "at": "2026-10-23T11:38:54+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-pplx-dossiers-1025",
+   "at": "2026-10-23T14:13:57+00:00",
+   "from": "worker-pplx-ct3-1023a",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-23T11:39:19+00:00"
+ ]
 }
