@@ -26,6 +26,10 @@ Imagine someone loudly rejecting your proposal. Before replying in the same tone
 **For example**
 Imagine a client calling an invoice dishonest. Ask which charge they dispute. Correct any billing error you find and explain the remaining charges without returning the accusation.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the swimmer at the cataract of Lu (chapter 19) who goes down and up with the whirl.
+
 ## Sources
 
 - [Zhuangzi, James Legge translation (1891), METIS English Classics, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 19, section 10 (the cataract of Lu), PDF page 95

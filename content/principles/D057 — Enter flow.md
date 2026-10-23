@@ -24,6 +24,10 @@ The knife passage carries the story's account of long practice: after nineteen y
 
 *For example:* A potter whose hands move before thought does, no inner commentator, just clay.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the Cook Ding story the principle draws on for flow.
+
 ## Sources
 
 - [Zhuangzi, trans. James Legge, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book III, Cook Ding (opened at D050, re-mined for this item; not recounted)

@@ -24,6 +24,10 @@ The cook contrasts his blade with the ones that wear out: the good cook's knife 
 
 *For example:* Before a difficult conversation, write down what the other person already wants, and open there.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the Cook Ding story (chapter 3) the principle draws on: the blade following the ox's natural openings.
+
 ## Sources
 
 - [Zhuangzi, trans. James Legge, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book III, section 2, Cook Ding (PDF pp. 14-15)

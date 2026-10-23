@@ -24,6 +24,10 @@ Confucius's response names what the forgetting is for: "One (with that Pervader)
 
 *For example:* On a long walk, notice the moments when you forget you are walking: the street, the body and the plan all drop out of attention. That is a reflection on the dialogue, not the state it describes; the story locates the practice in sitting.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the chapter 6 dialogue the principle is named from: Yan Hui's three reports to Confucius.
+
 ## Sources
 
 - [Zhuangzi, trans. James Legge, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book VI, section 9, the Yan Hui dialogue (PDF p. 35)

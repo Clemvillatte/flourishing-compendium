@@ -23,6 +23,10 @@ Before you start, ask how much of your attention is on the task and how much is 
 
 *For example:* Suppose a cook starting dinner irritated. As a modern application, five minutes of sitting quietly before the knife work is a small version of Qing's fast.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the woodcarver Qing (Book XIX) fasting seven days before entering the forest.
+
 ## Sources
 
 - [Zhuangzi, trans. James Legge (ETH Zurich edition)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book XIX, the bell-stand passage

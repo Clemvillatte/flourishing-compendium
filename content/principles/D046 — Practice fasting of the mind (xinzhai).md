@@ -24,6 +24,10 @@ The passage's order runs ears, then mind, then spirit, and each stage is describ
 
 *For example:* In your next hard conversation, notice when your attention is on your rebuttal rather than on the words arriving. That noticing is the fast beginning.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the Yan Hui dialogue in chapter 4 that is the principle's source.
+
 ## Sources
 
 - [Zhuangzi, trans. James Legge, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book IV, section 2, the Yan Hui dialogue (PDF p. 18)

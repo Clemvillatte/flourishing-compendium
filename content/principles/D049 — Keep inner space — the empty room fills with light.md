@@ -28,6 +28,10 @@ Picture a room packed with furniture. Light from the window hits the wardrobe an
 
 Pick one morning a week, say Sunday, with nothing planned and the phone in another room. Afterwards, note what you did with the hour. If you ended up scrolling or tidying up errands, change the setup (the phone goes out of the house, or the hour moves to a walk) and try again next week. Keep whichever version leaves the hour open. The dimension you are training is Attention.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the fasting-of-the-mind passage (chapter 4) that gives the principle its empty-room image.
+
 ## Sources
 
 - Zhuangzi, ch. 4, trans. James Legge, *The Texts of Taoism* (Sacred Books of the East, vol. 39, 1891), online edition: [100jia.net](http://www.100jia.net/texte/zhuangzi/zhuangzilegge1.htm)
