@@ -17,6 +17,14 @@ Mill argues that knowing the reasons for one's own view is insufficient when one
 
 The passage's rule is to hear the opposing reasons "from persons who actually believe them", in their "most plausible and persuasive form", and feel the whole force of the difficulty they raise; only then, Mill says, does one possess the portion of truth that meets and removes it. ([Mill, chapter 2](https://www.gutenberg.org/cache/epub/34901/pg34901.txt))
 
+### What it is not
+
+Steelmanning is not agreement, and it is not a debating trick for winning. Mill's purpose is to know whether one's own view deserves the preference one gives it, since without the opposing reasons a person "has no ground for preferring either opinion". It also asks for more than politeness: the opposing case has to be stated in a form its holders would recognise.
+
+### A small case
+
+Before replying to someone you disagree with, write their argument in three sentences and ask whether they would sign it. If they would not, rewrite it before you answer. (Illustrative scenario, not a reported case.)
+
 ### In the compendium
 
 - [[D124 — Look for the right in the other side]]
