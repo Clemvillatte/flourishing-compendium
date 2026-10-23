@@ -37,10 +37,10 @@ This page describes the idea as the encyclopedia presents it. It does not examin
 ## Related concepts
 
 - [[Hermeneutic circle]] — the same circle worked out from Gadamer's own essay
-- [[Fusion of horizons]] — listed for comparison
-- [[Prejudice (Vorurteil)]] — listed for comparison
-- [[Thrownness]] — listed for comparison
-- [[Curse of knowledge]] — listed for comparison
+- [[Fusion of horizons]] — Gadamer's account of where the circle leads
+- [[Prejudice (Vorurteil)]] — the fore-structures that start the circle
+- [[Thrownness]] — the situatedness one always interprets from
+- [[Curse of knowledge]] — the everyday failure the circle guards against
 
 ## Sources
 

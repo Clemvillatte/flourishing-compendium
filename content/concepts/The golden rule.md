@@ -42,10 +42,10 @@ Neither source says the rule is a complete moral theory. This page does not cove
 
 ## Related concepts
 
-- [[Ren]] — listed for comparison
-- [[Shu]] — listed for comparison
-- [[Reciprocity]] — listed for comparison
-- [[Self-compassion]] — listed for comparison
+- [[Ren]] — Confucius's humane concern the rule serves
+- [[Shu]] — Confucius's reciprocity concept behind the rule
+- [[Reciprocity]] — the social logic the rule encodes
+- [[Self-compassion]] — the rule turned on oneself
 
 ## Sources
 

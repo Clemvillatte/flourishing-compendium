@@ -36,11 +36,11 @@ The participants in the first study were undergraduate students at a midwestern 
 
 ## Related concepts
 
-- [[Compassion]] — listed for comparison
-- [[Empathy]] — listed for comparison
-- [[Agape]] — listed for comparison
-- [[Altruism]] — listed for comparison
-- [[Companionate love in adversity]] — listed for comparison
+- [[Compassion]] — the concern component of the larger whole
+- [[Empathy]] — the feeling component
+- [[Agape]] — the theological tradition of the same love
+- [[Altruism]] — the behavioural expression compassion motivates
+- [[Companionate love in adversity]] — the same love under hardship
 
 ## Facets
 
