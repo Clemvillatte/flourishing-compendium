@@ -7,34 +7,61 @@ file: "Affect labeling"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Affect labeling is the practice of putting feelings into words — naming an emotion as it occurs (“anger”, “dread”, “elation”) — and the finding, from Matthew Lieberman's lab at UCLA, that in neuroimaging the act diminishes the amygdala's response to negative emotional images while increasing right ventrolateral prefrontal activity, the two inversely related ([Lieberman et al., 2007, “Putting Feelings Into Words”](https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2015/05/Lieberman_AL-2007.pdf); [UCLA Health summary](https://www.uclahealth.org/news/release/putting-feelings-into-words-produces-therapeutic-effects-in-the-brain-ucla-neuroimaging-study-supports-ancient-buddhist-teachings)). The finding parallels long-standing contemplative practice — Buddhist noting ([[B056 — Note lightly (noting)]]) and the Stoic examination of first impressions ([[S046 — Do not add to the impression]]) both use naming as a working tool — though the studies did not test those practices directly.
+Affect labeling is the practice of putting a feeling into words as it occurs: naming anger as anger, dread as dread. The term comes from Matthew Lieberman's social cognitive neuroscience lab at UCLA, which took an old folk idea into the scanner. The study's abstract states the question and the findings:
 
-The mechanism is precision: naming a feeling moves it from being an all-encompassing weather to being an object of attention with a name and a boundary ([[AF004 — Cultivate emotional granularity — name feelings precisely]]; [[AF001 — Treat affect as information, not as verdict]]). Labeling is not venting — expression without shape amplifies ([[P113 — Express by shaping, not venting]]; [[AF074 — Recognise co-rumination — sharing distress can amplify it]]) — and it is not rumination, which circles without naming anything new ([[Rumination]] is its failure mode).
+> "Putting feelings into words (affect labeling) has long been thought to help manage negative emotional experiences; however, the mechanisms by which affect labeling produces this benefit remain largely unknown" (Lieberman et al. 2007, p. 421).
 
-The distinction to hold: the label is not the feeling's verdict, only its name. “I notice resentment” keeps both the noticing and the agency; “I AM resentful” fuses identity with state ([[AF006 — Accept mixed feelings; do not force them to resolve]]; [[AT053 — Learn to notice and name attentional states — labelling improves control]]).
+### The finding
 
-An example at its smallest: in a difficult conversation, one silent internal sentence — “that's humiliation rising” — spoken inside, not out — the naming is the move, and the situation is unchanged ([[B078 — Name the poison on contact]]; [[K159 — Affect labeling]]).
+In the fMRI study, participants labeled the emotion shown in negative images while their brains were scanned. Relative to other ways of encoding the same images:
 
-Naming a feeling requires first reading it — the bodily substrate is [[Interoceptive awareness]].
+> "The results indicated that affect labeling, relative to other forms of encoding, diminished the response of the amygdala and other limbic regions to negative emotional images. Additionally, affect labeling produced increased activity in a single brain region, right ventrolateral prefrontal cortex (RVLPFC). Finally, RVLPFC and amygdala activity during affect labeling were inversely correlated, a relationship that was mediated by activity in medial prefrontal cortex (MPFC)." (Lieberman et al. 2007, p. 421)
+
+The authors' own summary of what the study established:
+
+> "this study provides the first unambiguous evidence that affect labeling, compared with other ways of encoding, produces diminished responses to negative emotional images in the amygdala and other limbic regions" (Lieberman et al. 2007, p. 427).
+
+The mechanism is precision. Naming a feeling moves it from being an all-encompassing weather to being an object of attention with a name and a boundary ([[AF004 — Cultivate emotional granularity — name feelings precisely]]; [[AF001 — Treat affect as information, not as verdict]]).
+
+### What it is not
+
+Labeling is not venting: expression without shape amplifies ([[P113 — Express by shaping, not venting]]; [[AF074 — Recognise co-rumination — sharing distress can amplify it]]). It is not rumination, which circles without naming anything new ([[Rumination]] is its failure mode). And the label is a name, not a verdict. "I notice resentment" keeps both the noticing and the agency; "I AM resentful" fuses identity with state ([[AF006 — Accept mixed feelings; do not force them to resolve]]; [[AT053 — Learn to notice and name attentional states — labelling improves control]]).
+
+### In everyday life
+
+A person in a difficult conversation can say one silent internal sentence, "that's humiliation rising," spoken inside, not out. The naming is the move, and the situation is unchanged. (Illustrative scenario, not a reported participant or study result.) Naming a feeling requires first reading it: the bodily substrate is [[Interoceptive awareness]].
+
+### In the compendium
+
+- [[B056 — Note lightly (noting)]] — Buddhist noting uses naming as a working tool
+- [[S046 — Do not add to the impression]] — the Stoic examination of first impressions
+- [[B078 — Name the poison on contact]] — naming at first contact
+- [[P113 — Express by shaping, not venting]] — labeling as shaped expression
+- [[AF004 — Cultivate emotional granularity — name feelings precisely]] — precision of naming
+- [[AF001 — Treat affect as information, not as verdict]] — the label as name, not verdict
+- [[AT053 — Learn to notice and name attentional states — labelling improves control]] — the same move for attention
+- [[SP093 — Practice the daily emendation]] — the daily review uses naming
+- [[D150 — Balance the emotions to protect the body]] — balance through naming
+- [[S122 — Keep a journal]] — writing as labeling
+- [[Y015 — Classify the mind's movements into five types]] — a kindred classification; the study is an indirect parallel for naming, not a validation of the fivefold taxonomy
+- [[K159 — Affect labeling]] — the compendium's practice kernel for this move
+
 ## Other formulations in this library
 
 - naming and shaping emotion regulates it (Lieberman et al., 2007)
 - reduces amygdala reactivity (Lieberman et al., 2007)
-- reduces amygdala response (Lieberman et al., 2007)
 
 ## Related concepts
-
-
-
 
 - [[Emotion regulation]] — an attentional strategy within this taxonomy
 - [[Distrust names and labels]] — the label-as-name-not-verdict distinction is the two pages' shared core; reciprocal of the Related entry
 - [[Appraisal theory]] — listed for comparison
 - [[BE037]] — listed for comparison
+
 ## Sources
 
-- Lieberman et al., 2007
-- an indirect parallel for the practice of naming, not a validation of the fivefold taxonomy
+- [Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli. Psychological Science, 18(5), 421–428](https://www.uclascnlab.com/s/Lieberman_Psychological-Science2007.pdf) — the fMRI findings quoted above; page locators refer to this copy (the former sanlab.psych.ucla.edu URL now serves an HTML page; this is the author's current lab site)
+- [Wolpert, S. (2007). Putting Feelings Into Words Produces Therapeutic Effects in the Brain. UCLA Newsroom](https://newsroom.ucla.edu/releases/Putting-Feelings-Into-Words-Produces-8047) — the university's plain-language release on the study
 
 ## Cited in parallels
 
