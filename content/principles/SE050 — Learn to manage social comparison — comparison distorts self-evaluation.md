@@ -20,6 +20,10 @@ Social comparison is evaluating yourself relative to others. Festinger presents 
 
 *For example:* Someone sees a classmate's promotion announcement and starts calling their own career a failure. They list what they do not know about the other job before deciding whether the comparison provides useful information.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding the page gives for checking comparison against your own measures.
+
 ## Sources
 
 - [Festinger, L. (1954). A Theory of Social Comparison Processes. Human Relations, 7(2), 117-140](https://www.humanscience.org/docs/Festinger%20(1954)%20A%20Theory%20of%20Social%20Comparison%20Processes.pdf) — Hypotheses I-II

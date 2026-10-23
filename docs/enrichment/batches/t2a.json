@@ -380,11 +380,25 @@
   "content/principles/SE011 — Recognise the narrative structure of self — you are a story.md",
   "content/principles/SE013 — Cultivate accurate self-knowledge — know your traits, values, and patterns.md",
   "content/principles/SE014 — Know your values — what actually matters to you.md",
-  "content/principles/SE018 — Learn accurate self-evaluation — neither inflated nor deflated.md"
+  "content/principles/SE018 — Learn accurate self-evaluation — neither inflated nor deflated.md",
+  "content/principles/SE020 — Learn self-verification — seek feedback that confirms your self-view.md",
+  "content/principles/SE032 — Cultivate an inner ally — develop a supportive internal voice.md",
+  "content/principles/SE037 — Recognise identity foreclosure — premature commitment blocks growth.md",
+  "content/principles/SE044 — Recognise the difference between authenticity and self-indulgence.md",
+  "content/principles/SE046 — Recognise identity and meaning — identity provides meaning.md",
+  "content/principles/SE050 — Learn to manage social comparison — comparison distorts self-evaluation.md",
+  "content/principles/SE063 — Learn to set and pursue self-concordant goals — goals aligned with values.md",
+  "content/principles/SE067 — Learn to use self-monitoring and feedback — track your growth.md",
+  "content/principles/SE068 — Recognise the limits of self-development — not everything is fixable.md",
+  "content/principles/SE072 — Recognise self and depression — depression distorts self-view.md",
+  "content/principles/SE076 — Recognise clinical self-symptoms — when self-problems require evaluation.md",
+  "content/principles/SE077 — Learn to assess and monitor self-development — track your growth.md",
+  "content/principles/SE078 — Build self-maintenance — ongoing practice and adaptation.md",
+  "content/principles/SO015 — Use cultural self-examination as a practice.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:24:53+00:00",
+ "updated": "2026-10-23T14:25:11+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

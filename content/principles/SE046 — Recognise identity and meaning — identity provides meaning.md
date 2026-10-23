@@ -24,6 +24,10 @@ So the research tradition ties identity, as a story, to a sense of unity and pur
 
 *For example:* Two people retire with the same pension and the same health. One says "forty years in the same plant." The other says "I built things with my hands and raised two kids." The facts match, and the stories differ.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-as-meaningful parallel the page draws.
+
 ## Sources
 
 - [McAdams, D. P. (2001). The Psychology of Life Stories. Review of General Psychology 5(2), 100-122 (abstract)](https://journals.sagepub.com/doi/10.1037/1089-2680.5.2.100) — abstract; full text paywalled

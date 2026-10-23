@@ -26,6 +26,10 @@ The APA lists feelings of worthlessness or excessive guilt among possible sympto
 
 *For example:* someone brings notes to a clinical appointment listing the thought "I am a burden", recent sleep changes and loss of interest.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-mood parallel: the examined life requires examining mood itself.
+
 ## Sources
 
 - [APA, "What Is Depression?", psychiatry.org — opened page](https://www.psychiatry.org/patients-families/depression/what-is-depression) — the definition sentence and the "feeling worthless or excessively guilty" symptom quoted

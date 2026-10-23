@@ -25,6 +25,10 @@ Before acting on a strong feeling, identify a value you want the action to expre
 
 *For example:* Imagine an argument in which you want to speak honestly without being cruel. You ask for twenty minutes to decide what to say.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-examination parallel the page draws.
+
 ## Sources
 
 - Wood, Linley, Maltby, Baliousis & Joseph, 2008, Journal of Counseling Psychology 55(3):385-399 (Authenticity Scale items) — [scale document](https://cic.edu/wp-content/uploads/2023/08/Authenticity-Scale.pdf)

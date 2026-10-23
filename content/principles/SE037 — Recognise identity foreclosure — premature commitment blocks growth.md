@@ -19,6 +19,10 @@ Marcia's identity-status interviews sorted late adolescents by two dimensions, c
 **Plain words** Ask of any commitment you hold: what alternatives did I consider, and why this one? Following the family's path does not answer that by itself, and neither does feeling certain. What the question tests is whether you can give reasons for the path that do not end at "it was handed to me". Exploration is what turns a given identity into a chosen one.
 
 *For example:* One 19-year-old takes over the family business because it was always assumed; another tries two other trades first, then takes it over. Ask each "why this?" and the difference shows.
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-exploration parallel the page draws.
+
 ## Psychology parallels
 
 - **[[Identity statuses (Marcia)|Identity statuses (Marcia)]]**, foreclosure (commitment without exploration) vs achievement (commitment after exploration) (Marcia, 1966; Kroger, 2007)

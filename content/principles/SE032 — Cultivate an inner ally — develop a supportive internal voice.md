@@ -23,6 +23,10 @@ On this evidence the ally is partly a matter of address. Using one's own name or
 **Plain words** How you talk to yourself when things go wrong is a habit, and habits can be retrained. The simplest lever is the address. Saying "why am I such an idiot" rehearses the critic; saying "okay, that section was weak, fix it" rehearses a coach. Both voices see the same failure; only one of them helps you correct it.
 
 *For example:* The person whose inner monologue is a bored, contemptuous sports commentator — and the deliberate training of the alternative voice: "okay, that section was weak; the structure is strong; fix the section." Same information, different coach. Only one of them gets players to stay.
+## Related concepts
+
+- [[T011 — Socrates]]: the daimon the Apology describes, the page's inner-voice exemplar.
+
 ## Sources
 
 - [Kross, E., Bruehlman-Senecal, E., Park, J., Burson, A., Dougherty, A., Shablack, H., Bremner, R. H., Moser, J. S., & Ayduk, O. (2014). Self-talk as a regulatory mechanism: How you do it matters. Journal of Personality and Social Psychology, 106(2), 304-324](https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2024/07/KrossJ_Pers_Soc_Psychol2014Self-talk_as_a_regulatory_mechanism_How_you_do_it_matters.pdf) — abstract conclusion, p. 304

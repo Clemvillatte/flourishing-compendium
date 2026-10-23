@@ -28,6 +28,10 @@ Choose a specific change you are considering. Write down what you want to change
 *For example:*
 After repeated attempts to become a morning person, a man decides to arrange his work later in the day and review that arrangement after a month.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the wisest-man passage of the Apology the page cites for knowing limits.
+
 ## Sources
 
 - [Roberts & DelVecchio, "The rank-order consistency of personality traits from childhood to old age", Psych Bull 126(1), 2000 (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/10668348/) — abstract, opened via the NCBI record

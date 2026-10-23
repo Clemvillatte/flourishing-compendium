@@ -19,6 +19,10 @@ Hattie and Timperley's synthesis of the feedback evidence opens with a finding a
 **Plain words** You can track your own development the way you'd track anything you care about. A quarterly check-in — identity clarity, self-esteem stability, [[Self-compassion|self-compassion]], values alignment — turns "how am I doing as a self?" from a mood into a measurement. What you notice, you can steer.
 
 *For example:* Once a quarter, the same three questions in a notebook: Who am I becoming? What did I say no to? What do I keep doing that I don't respect? Ten minutes. The notebook becomes the most honest mirror in the house, because it has no incentive to flatter you.
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-assessment parallel the page draws.
+
 ## Psychology parallels
 
 - **Self-monitoring improves self-development**, tracking self-related patterns provides feedback (Zimmerman, 2002; Hattie & Timperley, 2007)

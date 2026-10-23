@@ -24,6 +24,10 @@ Reading cultural self-examination as a sociocultural form of metacognition and [
 
 *For example:* "Obviously the couple pays for the wedding" sounds like a law of nature to the person who says it, though it is a custom. Noticing that is the first step.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the unexamined-life warning the page lists as the cultural-examination reference.
+
 ## Sources
 
 - [Tervalon, M., & Murray-García, J. (1998). Cultural humility versus cultural competence. J Health Care Poor Underserved 9(2), 117-125](https://pubmed.ncbi.nlm.nih.gov/10073197/) — PubMed abstract opened

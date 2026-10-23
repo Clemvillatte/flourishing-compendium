@@ -29,6 +29,10 @@ When a self-problem is persistent and impairing, the compendium's practical advi
 
 *For example:* Someone notices that feelings of worthlessness have lasted months, with changed sleep and low energy. They bring the pattern to a professional assessment instead of treating it as a motivation problem.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life grounding the page gives for knowing when to seek evaluation.
+
 ## Sources
 
 - [World Health Organization, Depression fact sheet](https://www.who.int/news-room/fact-sheets/detail/depression) — depressive episode symptoms

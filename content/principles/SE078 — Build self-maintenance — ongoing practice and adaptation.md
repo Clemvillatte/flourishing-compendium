@@ -25,6 +25,10 @@ Choose a quality you want to practise. Identify an action that expresses it and 
 
 *For example:* Imagine a parent considering a shorter version of a former morning routine.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined life as ongoing practice (Apology 38a), the page's grounding for maintenance.
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics II.1 (1103a-b), W.D. Ross translation — [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)

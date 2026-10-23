@@ -24,6 +24,10 @@ The compendium applies this beyond study: the standard you compare your record a
 
 *For example:* a manager convinced he is "terrible under pressure" keeps a short note after each hard meeting — what happened, how he handled it. Six weeks of notes show he handled most of them fine.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-data parallel behind self-monitoring.
+
 ## Sources
 
 - [Zimmerman, "Becoming a Self-Regulated Learner: An Overview", Theory Into Practice 41(2), 2002 — faculty-hosted PDF](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/zimmerman_2002.pdf) — the self-observation and self-monitoring definitions quoted (p. 68); the self-evaluation standards (p. 68)

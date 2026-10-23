@@ -26,6 +26,10 @@ We tend to trust feedback that matches what we already believe about ourselves, 
 **For example**
 When feedback strikes you as obviously right, ask what evidence would change your mind, and ask someone who knows you differently.
 
+## Related concepts
+
+- [[T011 — Socrates]]: the examined-life-requires-honest-feedback parallel the page draws.
+
 ## Sources
 
 - [Swann, Pelham and Krull 1989, Agreeable fancy or disagreeable truth? (PDF)](https://labs.la.utexas.edu/swann/files/2016/03/sw_pel_krull.pdf)
