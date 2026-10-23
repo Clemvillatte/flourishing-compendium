@@ -28,6 +28,10 @@ The next sutras give the means: the cause of future pain is the link between the
 
 (Yoga Sutra 2.16 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), p. 139, Internet Archive.)
 
+## Related concepts
+
+- [[T013 — Seneca]]: the premeditatio malorum foreseeing-troubles teaching the page lists.
+
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — p. 139

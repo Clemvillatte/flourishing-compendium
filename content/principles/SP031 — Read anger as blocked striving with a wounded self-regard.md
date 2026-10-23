@@ -25,6 +25,10 @@ If you want to hurt someone in return, identify what you believe they did to you
 
 *For example:* After a colleague is promoted, you want to undermine their work. Write down what you wanted from the promotion and what you would like to discuss with your manager.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the anger-as-temporary-madness teaching (De Ira) the page lists.
+
 ## Sources
 
 - [Spinoza, Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/3800) — III, Definitions of the Affects XXXVI and XXXVII; III, P39 with note; III, P40 with note; IV, P7 (via SP026)

@@ -30,6 +30,10 @@ The compendium's principles line up with the research's levers. B116, "Catch irr
 
 B116 advises catching irritation early. Does that practice affect anger partly through arousal reduction?
 
+## Related concepts
+
+- [[T013 — Seneca]]: the ST205 story the page carries.
+
 ## Other formulations in this library
 
 - cognitive reappraisal outperforms suppression (Gross, 2015)

@@ -54,6 +54,10 @@ His verses on what hatred does to the person who holds it run in the same direct
 
 ## Related concepts
 
+- [[T013 — Seneca]]: the account the page opens with: anger as not the first stirring at an apparent injury.
+
+## Related concepts
+
 - [[Anger regulation research]] — the empirical study of what reduces anger.
 - [[Anger examined early]] — the project of examining anger before it settles into action.
 - [[Express by shaping, not venting]] — Dewey's distinction between expression and discharge.

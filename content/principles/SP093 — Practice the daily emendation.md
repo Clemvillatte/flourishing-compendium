@@ -23,6 +23,10 @@ Try this with an upsetting exchange. Write down what happened separately from wh
 
 *For example:* After a difficult review, someone notes their anger and their belief that the reviewer dislikes them. They separate the reviewer's actual comments from their guess about the motive.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the evening review (De Ira Book III) the page lists.
+
 ## Psychology parallels
 
 - **Daily self-monitoring and [[Affect labeling|affect labeling]]** (Lally et al., 2010; Lieberman et al., 2007)

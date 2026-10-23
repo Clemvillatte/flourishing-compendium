@@ -29,6 +29,10 @@ The examination Seneca prescribes is delay. "The greatest remedy for anger is de
 - [[Anger]] — the emotion the examination targets
 - [[Cognitive reappraisal]] — the modern research descendant of re-judging the apparent injury
 - [[SP031]] — Spinoza's definitions of anger and revenge
+## Related concepts
+
+- [[T013 — Seneca]]: the On Anger three-stage advice the page opens with.
+
 ## Sources
 
 - Seneca, On Anger

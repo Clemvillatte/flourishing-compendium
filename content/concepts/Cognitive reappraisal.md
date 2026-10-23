@@ -41,6 +41,10 @@ Its social-cognitive sibling is [[Perspective-taking]], reappraisal of the event
 - [[AF025 — Learn the full regulation toolkit — it is larger than calm down.]] — the toolkit point
 - [[S014 — Want what actually happens]] — the reappraisal that meets reality rather than merely reframing it
 
+## Related concepts
+
+- [[T013 — Seneca]]: the ST205 story the page carries.
+
 ## Other formulations in this library
 
 - changing the interpretation of a situation to change its emotional impact (Gross, 2015)

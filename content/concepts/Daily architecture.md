@@ -46,6 +46,10 @@ The two-minute evening audit: one line each for what went well, what was avoided
 - [[Morning intention]] — the opening act of the daily structure
 - [[S134]] — the principle that gives the morning intention and evening review a fixed daily container
 
+## Related concepts
+
+- [[T013 — Seneca]]: the evening audit - pleading his cause before his own tribunal - the page draws on.
+
 ## Sources
 
 - [MN 107, Gaṇakamoggallāna Sutta (dhammatalks.org)](https://www.dhammatalks.org/suttas/MN/MN107.html) — moderation in eating and the watches of the night, quoted above

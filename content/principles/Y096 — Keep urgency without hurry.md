@@ -32,6 +32,10 @@ People put off what matters by waiting for a calmer month. The verse says the ca
 
 Someone has said for ten years that they will learn to meditate. They book a teacher for next Tuesday, put twenty minutes a day in the diary, and skip the weekend retreat meant to make up the lost decade in one go. Scheduling the practice is this page's suggestion, not something the Katha says.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the memento mori teaching (Letters 101) the page lists.
+
 ## Psychology parallels
 
 - **Deadline structure and implementation intentions**, the benefits of specified timing over vague urgency (Gollwitzer, 1999)

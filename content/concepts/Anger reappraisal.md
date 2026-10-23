@@ -32,6 +32,10 @@ When used to down-regulate negative emotions, the review finds reappraisal leads
 
 ## Related concepts
 
+- [[T013 — Seneca]]: the ST205 story the page carries.
+
+## Related concepts
+
 
 - [[Anger regulation research]] — reappraisal evidence applied to the specific case of anger
 - [[Cognitive reappraisal]] — the parent strategy this page applies to anger

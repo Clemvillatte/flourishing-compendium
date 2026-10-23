@@ -24,6 +24,10 @@ Spinoza identifies blessedness with virtue, rather than treating it as a separat
 **For example**
 A reader writes down what was worth understanding about a conflict even if that understanding brought no praise or advantage.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the virtue-is-its-own-reward teaching (De Vita Beata) the page lists.
+
 ## Sources
 
 - [The Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — V.42 with proof and note

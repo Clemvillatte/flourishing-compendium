@@ -30,6 +30,10 @@ Pain has two dials, how strong and how long. Epicurus says the two dials rarely 
 **For example**
 Before a scheduled procedure, write two lines: how strong you expect the pain to get on a 0 to 10 scale, and for how long. Afterwards, write the real figures beside them. The gap between the forecast and the record is your own data, and it tells you how much of the dread was arithmetic and how much was picture.
 
+## Related concepts
+
+- [[T013 — Seneca]]: the premeditatio malorum run numerically the page lists.
+
 ## Sources
 
 - [Principal Doctrines 4, Hicks translation, Lexundria](https://lexundria.com/epic_kd/4/cf)
