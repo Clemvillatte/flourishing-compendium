@@ -510,3 +510,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: pooled contact studies, Allport conditions not essential per the authors' reading, questioning posture not tested; the three questions kept as the practice's own form.
 - Mention check run (before this entry): K346 already linked from A063/R001/R055 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K178 — Situation selection (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Livingstone & Isaacowitz 2015 (Soc Psychol Pers Sci 6(8):904-910), younger/older adult experiment on situation selection and modification, abstract verified raw via NCBI efetch (PMID 26998196); author list read from the efetch header.
+- The blockquote (situation selection related to affect sentence) matches the raw efetch text verbatim.
+- Seed Facets section dropped per kernel exemplar pattern; the facet's "Gross 2015 extended process model" citation was not opened and is represented only via the opened study's design. Honesty note: offered-material design, not life-context choice.
+- Mention check run (before this entry): K178 already linked from B170/D024/D034 practice lists and K177; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
