@@ -34,7 +34,7 @@
  ],
  "in_progress": null,
  "flagged": {
-  "SCOPE_CORRECTION": "Manifest correct; worker misread B IDs. B152/B137/B149 restored in 1f71a89a; ignore erroneous done/flags for B125 B137 B139 B140 B149 B152 B157 B163 B164 B165. Supervisor may reconcile via approved tooling; details in p1u ledger."
+  "SCOPE_CORRECTION": "supervisor disposition (2026-10-23 ~06:45Z, worker-pplx-sup-0b6f3a91): reconciled — the ten erroneous B entries (B125/B137/B139/B140/B149/B152/B157/B163/B164/B165) are absent from both done and flagged; manifest restored per 1f71a89a; no action remaining."
  },
  "missing_concepts": [],
  "sources_checked": 47,
