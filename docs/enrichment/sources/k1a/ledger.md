@@ -417,3 +417,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: qualitative, ten accounts, not a test of a three-point structure; automaticity findings stated in reader terms. "Retention system" framing grounded to the cue/context mechanism.
 - Mention check run: K242 already linked from Daily architecture concept and B192; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets; Practises the concept line kept).
+
+## K300 — Stewardship acts (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Burgess et al. 2009 (Med J Aust 190(10):567-572), Arnhem Land cross-sectional study, N=298, abstract verified raw via NCBI efetch (PMID 19450204).
+- The blockquote (multivariate regression sentence) matches the raw efetch text verbatim; K5 psychological-distress finding and cross-sectional caveat stated in reader terms.
+- Inherited "Indigenous SEWB frameworks treat custodianship as protective" grounded to the study's findings with the causal-direction caveat the authors themselves make; urban extension stated as the practice form, and the non-interchangeability of the Indigenous frameworks noted.
+- Mention check run: K300 already linked from R011/R012/R015 and the Stewardship concept; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
