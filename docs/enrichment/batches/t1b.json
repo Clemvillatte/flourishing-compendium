@@ -4,7 +4,8 @@
   "Confucius",
   "Viktor Frankl",
   "Immanuel Kant",
-  "Bandura"
+  "Bandura",
+  "Daniel Kahneman"
  ],
  "in_progress": null,
  "flagged": {
@@ -23,6 +24,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:15:48+00:00",
+ "updated": "2026-10-23T06:18:25+00:00",
  "band_done": false
 }

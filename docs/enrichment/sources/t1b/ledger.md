@@ -37,3 +37,14 @@ Flag: "the file still says \"arising from performance accomplishments\" where th
 3. SOURCES narration removed ("verified verbatim against the extracted text"); Wikipedia added as the biography carrier.
 4. TRADITION GATING (owner rule): gated inventory — 6 Bandura-construct principles (BE018, BE060, SE059, SE060, SE061, SO052), 10 Bandura-anchored concepts; the ~37 remaining principle mentions are psychology parallels and stay on their own pages. Original "Connection to the compendium" list preserved intact (including the deliberate-practice link).
 5. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
+
+## 2026-10-23 — worker-pplx-t1b-2d4e7a91 — Daniel Kahneman (T022), QC round-4 repair (BLOCKED flag)
+
+Flag: "BLOCKED — Macmillan and SAGE carriers unverified, disclosure insufficient; find accessible carrier or remove." Disposition: BOTH carriers replaced with accessible, opened ones; the disclosure narration removed. What was done:
+
+1. CARRIERS OPENED: Nobel Prize facts page (raw HTML, curl; all quotes verified), the IIT Kanpur handout PDF of Thinking, Fast and Slow ch. 0/1/3 (downloaded, text-extracted; every System 1/System 2 quote verified verbatim — apparent misses were soft-hyphen artifacts), and the full JSTOR text of Kahneman et al. 1993 hosted at the University of Zurich (downloaded; all three abstract quotes verified verbatim — line-break artifacts only).
+2. MACMILLAN EXCERPT QUOTE: the Macmillan page is Cloudflare/robots-blocked and was never openable; its "I will describe mental life..." sentence is REPLACED with the book text as it reads in the opened handout: "I describe mental life by the metaphor of two agents, called System 1 and System 2, which respectively produce fast and slow thinking." (The handout and the archive.org full text both read "I describe"; only the publisher excerpt carries "I will describe.")
+3. SAGE 1993: the second-hand quotation replaced with direct quotes from the opened JSTOR text (the abstract reads "A significant majority chose to repeat the long trial" — capital A, fixed on the page); all three fragments verbatim.
+4. SOURCES: the two banned disclosure lines ("returned by a web search this session", "quoted from the compendium's Peak-end rule page") removed; the three opened carriers listed with their roles.
+5. TRADITION GATING: gated inventory — 16 Kahneman-construct principles (CO002, CO017-CO020, CO022, CO028, CO031, CO032, CO035, CO041, CO042, CO057, CO058, AF071, SO041), 19 Kahneman-anchored concepts; the A-/B-/D-/E-/P-/PP-/S-/X-book parallels dropped from the inventory.
+6. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.

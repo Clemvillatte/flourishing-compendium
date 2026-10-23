@@ -12,13 +12,13 @@ Daniel Kahneman (5 March 1934, Tel Aviv — 27 March 2024) received the 2002 Sve
 
 ## Their why
 
-The book's own metaphor, quoted in the Macmillan publisher's excerpt of Thinking, Fast and Slow:
+Kahneman's core question is how experience is remembered. The book's own metaphor, from its text as circulated in the IIT Kanpur course handout of chapters 0, 1 and 3:
 
-> "I will describe mental life by the metaphor of two agents, called System 1 and System 2, which respectively produce fast and slow thinking." (Kahneman, Thinking, Fast and Slow, [publisher's excerpt, Macmillan](https://us.macmillan.com/books/9780374533557/thinkingfastandslow/))
+> "I describe mental life by the metaphor of two agents, called System 1 and System 2, which respectively produce fast and slow thinking." (Kahneman, Thinking, Fast and Slow, [ch. 0 handout PDF](https://www.cse.iitk.ac.in/users/se367/14/Readings/kahneman_TFTS-handout-ch-0-1-3_sml.pdf))
 
 ## Their position
 
-Kahneman's own framing is a division of labor rather than two brain parts. In the book's own words: "I adopt terms originally proposed by the psychologists Keith Stanovich and Richard West, and will refer to two systems in the mind, System 1 and System 2" and "System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control" while "System 2 allocates attention to the effortful mental activities that demand it, including complex computations" ([Thinking, Fast and Slow, ch. 1, IIT Kanpur handout PDF](https://www.cse.iitk.ac.in/users/se367/14/Readings/kahneman_TFTS-handout-ch-0-1-3_sml.pdf)). The peak-end experiments added a finding about memory: when one hand was held in 14 °C water for 60 seconds and the other for the same 60 seconds plus 30 more while the water was raised to 15 °C ("still painful but distinctly less so for most subjects"), a "significant majority chose to repeat the long trial, apparently preferring more pain over less"; duration "plays a small role in retrospective evaluations of aversive experiences; such evaluations are often dominated by the discomfort at the worst and at the final moments of episodes" ([Kahneman et al., When More Pain Is Preferred to Less, Psychological Science 4(6), 401-405, SAGE](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.1993.tb00589.x)).
+Kahneman's own framing is a division of labor rather than two brain parts. In the book's own words: "I adopt terms originally proposed by the psychologists Keith Stanovich and Richard West, and will refer to two systems in the mind, System 1 and System 2" and "System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control" while "System 2 allocates attention to the effortful mental activities that demand it, including complex computations" ([Thinking, Fast and Slow, ch. 1, IIT Kanpur handout PDF](https://www.cse.iitk.ac.in/users/se367/14/Readings/kahneman_TFTS-handout-ch-0-1-3_sml.pdf)). The peak-end experiments added a finding about memory: when one hand was held in 14 °C water for 60 seconds and the other for the same 60 seconds plus 30 more while the water was raised to 15 °C ("still painful but distinctly less so for most subjects"), "A significant majority chose to repeat the long trial, apparently preferring more pain over less"; duration "plays a small role in retrospective evaluations of aversive experiences; such evaluations are often dominated by the discomfort at the worst and at the final moments of episodes" ([Kahneman et al., When More Pain Is Preferred to Less, Psychological Science 4(6), 401-405, full JSTOR text at University of Zurich](https://www.ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf)).
 
 ## Core ideas
 
@@ -36,8 +36,51 @@ Kahneman's own framing is a division of labor rather than two brain parts. In th
 - [[Availability heuristic]]
 - [[Planning fallacy]]
 
+## Everything connected in the wiki — the Kahneman tradition
+
+Entries are kept to the pages that carry Kahneman's own constructs — the two systems, the heuristics and biases, prospect theory, the peak-end rule; the many principles that cite him as a cross-tradition parallel stay on their own pages. (Owner direction, October 2026.)
+
+### Principles (16)
+- [[AF071 — Recognise the peak-end rule — memory of experiences is shaped by peaks and endings|Recognise the peak-end rule: memory of experiences is shaped by peaks and endings]]
+- [[CO002 — Recognise the two systems (or modes) of thinking — fast intuition and slow analysis|Recognise the two systems (or modes) of thinking: fast intuition and slow analysis]]
+- [[CO017 — Recognise the availability heuristic — vividness is mistaken for frequency|Recognise the availability heuristic: vividness is mistaken for frequency]]
+- [[CO018 — Understand anchoring — initial values distort subsequent judgments|Understand anchoring: initial values distort subsequent judgments]]
+- [[CO019 — Recognise framing effects — how something is presented changes how you evaluate it|Recognise framing effects: how something is presented changes how you evaluate it]]
+- [[CO020 — Know the base rate neglect — you ignore background frequencies|Know the base rate neglect: you ignore background frequencies]]
+- [[CO022 — Recognise the planning fallacy — you underestimate time, cost, and risk|Recognise the planning fallacy: you underestimate time, cost, and risk]]
+- [[CO028 — Use the outside view — base rates beat inside views|Use the outside view: base rates beat inside views]]
+- [[CO031 — Recognise loss aversion — losses hurt more than gains feel good|Recognise loss aversion: losses hurt more than gains feel good]]
+- [[CO032 — Recognise the endowment effect — you value what you own more|Recognise the endowment effect: you value what you own more]]
+- [[CO035 — Recognise the representativeness heuristic — similarity is mistaken for probability|Recognise the representativeness heuristic: similarity is mistaken for probability]]
+- [[CO041 — Trust intuition in the right domains — it is not always wrong|Trust intuition in the right domains: it is not always wrong]]
+- [[CO042 — Know when to deliberate — high-stakes and novel situations need slow thinking|Know when to deliberate: high-stakes and novel situations need slow thinking]]
+- [[CO057 — Recognise the peak-end rule in memory — you remember peaks and endings|Recognise the peak-end rule in memory: you remember peaks and endings]]
+- [[CO058 — Understand flashbulb memories — vividness is not accuracy|Understand flashbulb memories: vividness is not accuracy]]
+- [[SO041 — Treat expertise as real but fallible|Treat expertise as real but fallible]]
+
+### Concepts (19)
+- [[Anchoring effect]]
+- [[Availability heuristic]]
+- [[Base rate neglect representativeness heuristic]]
+- [[Behavioral economics theory]]
+- [[Cognitive biases]]
+- [[Conjunction fallacy]]
+- [[Dual-process theory]]
+- [[Duration neglect]]
+- [[Endowment effect]]
+- [[Expert intuition (Klein's recognition-primed decision model)]]
+- [[Framing effects]]
+- [[Intuitive expertise]]
+- [[Outside view reference class forecasting]]
+- [[Peak-end rule]]
+- [[Planning fallacy]]
+- [[Prospect theory]]
+- [[Representativeness heuristic]]
+- [[System 1 and System 2]]
+- [[The illusion of certainty]]
+
 ## Sources
 
 - [Nobel Prize, Daniel Kahneman facts page](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/) — the birth and death dates, the 2002 prize motivation and the prospect-theory statement.
-- [Kahneman, Thinking, Fast and Slow, publisher's excerpt, Macmillan](https://us.macmillan.com/books/9780374533557/thinkingfastandslow/) — the System 1/System 2 metaphor and division of labor; the excerpt text was returned by a web search this session and the metaphor sentence matches the Macmillan page excerpt verbatim.
-- [Kahneman, Fredrickson, Schreiber and Redelmeier (1993), When More Pain Is Preferred to Less, Psychological Science 4(6), SAGE](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.1993.tb00589.x) — the cold-water trials and the abstract's wording; the passage is quoted from the compendium's Peak-end rule page, which carries the same carrier.
+- [Kahneman, Thinking, Fast and Slow, ch. 0, 1, 3 handout PDF, IIT Kanpur](https://www.cse.iitk.ac.in/users/se367/14/Readings/kahneman_TFTS-handout-ch-0-1-3_sml.pdf) — the System 1/System 2 metaphor and division of labor, the Stanovich-and-West terms and both systems' operating definitions.
+- [Kahneman, Fredrickson, Schreiber and Redelmeier (1993), When More Pain Is Preferred to Less, Psychological Science 4(6), 401-405, full JSTOR text at University of Zurich](https://www.ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf) — the cold-water trials and the abstract's wording.
