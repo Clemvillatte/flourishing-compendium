@@ -23,6 +23,7 @@ What decides, on Jaspers' account, is "his attitude toward failure: whether it r
 
 - [[Boundary situations]] — Jaspers' Grenzsituationen, the ultimate situations that confront a person with Scheitern
 - [[Breakdown as breakthrough]]
+- [[Being-toward-death]] — the limit-structure class the shipwreck belongs to
 
 ## Sources
 

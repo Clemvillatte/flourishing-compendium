@@ -20,6 +20,8 @@ The chapter's stillness is not suppression. It is the refusal to add action to a
 ## Related concepts
 
 - [[The inner citadel]] — the Stoic discipline of retiring into one's own soul as the source of steadiness
+- [[Wu wei]] — the non-forcing the water image serves
+- [[Serene acceptance of necessity]] — the Stoic counterpart on the response side
 
 ## Sources
 

@@ -19,6 +19,7 @@ The mechanism is a trade: security for freedom. "The serious man gets rid of his
 
 - [[Bad faith]] — the Sartrean cousin of the same evasion
 - [[Authenticity]] — the freedom the serious man trades away for security
+- [[Self-deception]] — the upkeep the serious man’s mask requires
 
 ## Sources
 

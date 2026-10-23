@@ -22,6 +22,8 @@ In the same article's summary of the tradition: "The characteristics of the nafs
 ## Related concepts
 
 - [[Purity of the mirror of the heart]] — the polished-heart ideal the ladder climbs toward
+- [[The dark night]] — another tradition’s map of the same dark passage, marked as comparison
+- [[Ego development]] — the modern developmental map of the self, marked as comparison
 
 ## Sources
 

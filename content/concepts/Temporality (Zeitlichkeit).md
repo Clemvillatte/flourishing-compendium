@@ -22,6 +22,7 @@ Temporality is not clock time. It is the structure of caring about anything at a
 ## Related concepts
 
 - [[Retention and protention]] — Husserl's account of the same structure inside a single experience
+- [[Being-toward-death]] — the structure of the ahead-of-itself at its limit
 
 ## Sources
 
