@@ -28,14 +28,14 @@
   "Therapeutic presence",
   "Things thinging",
   "Thundering silence",
-  "To kalon",
   "Topophilia",
   "Trustworthiness",
   "Ultimatum research",
   "Uncertainty Reduction Theory",
   "Unconscious thought theory (Dijksterhuis)",
   "Unity in diversity",
-  "Unresolved-goal interference"
+  "Unresolved-goal interference",
+  "To kalon"
  ],
  "in_progress": null,
  "flagged": {
@@ -50,10 +50,12 @@
   "The undiminishing past": "compendium heading; body grounded in Consolation II.3-4 verbatim; owner decision: keep heading or fold toward the reckoning-of-blessings teaching (audit entry added)",
   "The upright soul": "compendium heading; Nietzsche's 'upright' is adverbial in the quoted Zarathustra passages; posture link is the companion's literary comparison; owner decision: keep heading or fold toward the body-teaching",
   "The vainglorious man": "compendium heading for Oronte; body grounded in Misanthrope I.2 verbatim (Page trans.); owner decision: keep heading or fold toward the esteem-hunger teaching",
-  "The via negativa of appetite": "compendium heading; the appetite application is an analogy with Dionysius's sculptor image, not his prescription; body grounded in Mystic Theology Caput II/V verbatim; owner decision: keep heading or fold toward the subtraction teaching"
+  "The via negativa of appetite": "compendium heading; the appetite application is an analogy with Dionysius's sculptor image, not his prescription; body grounded in Mystic Theology Caput II/V verbatim; owner decision: keep heading or fold toward the subtraction teaching",
+  "Trustworthiness": "seed locator IV.3 does not match the passage: Chase's truthfulness chapter is Book IV (Bekker 1127a); the IV.3 heading cannot be verified in the opened carrier; owner/supervisor correction requested for the seed line",
+  "To kalon": "Reopened for QC: milestone QC repairs round 4"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:46:35+00:00",
+ "updated": "2026-10-23T05:50:16+00:00",
  "band_done": false
 }

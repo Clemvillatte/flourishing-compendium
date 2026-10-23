@@ -534,3 +534,10 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   sentence. Supervisor/owner disposition requested: (a) keep as the companion's heading,
   or (b) fold toward The taxonomy of passions / Naming the passions. Evidence trail: w1ad
   ledger.
+
+- **To kalon** (2026-10-23, worker-pplx-w1af-f6d92b31, w1af): citation-preservation flag. The
+  inherited source line links Wikipedia "Kalon", which resolves to a disambiguation page for
+  a village in Tajikistan and carries nothing about the Greek term. The line is kept per
+  the keep-original-citation-lines rule; supervisor correction requested (replace with the
+  SEP Aristotle's Ethics entry, which is the page's working carrier, or a scholarly kalon
+  source). Evidence trail: w1af ledger.
