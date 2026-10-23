@@ -22,6 +22,7 @@ The definition comes inside a four-part taxonomy of "technologies," each "a matr
 The compendium's principle on daily practice is a technology of the self in exactly this sense, and Foucault's late lectures give the concept a precise job description. The historical ground is the ancient *epimeleia heautou*, the care of the self, which in ancient philosophy came through a set of "spiritual exercises" (P. Hadot's term) and a *technē tou biou*, an art of life ([Andrews University thesis, "The Truthful Self"](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=3711&context=auss)). The techniques are enabling rather than coercive: they "permit individuals to effect by their own means" the transformation, which is why the compendium's practices are described as things a person does to themselves rather than things done to them.
 
 ## Related concepts
+- [[T036 — Hadot, Pierre]]: the daily-practice principle the page reads as a technology of the self.
 
 - [[Habit formation]] — the contemporary behavioral version of the same self-work
 - [[The three disciplines]] — the compendium's own triad of practices

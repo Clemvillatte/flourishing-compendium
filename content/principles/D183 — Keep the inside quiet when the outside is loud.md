@@ -25,6 +25,7 @@ The compendium applies this image to keeping some steadiness while taking part i
 *For example:* Imagine several relatives asking different questions while you arrange a family meal. You ask them to wait, check the cooking time, and answer one question. If you need to step into the next room to hear a call, you do that.
 
 ## Sources
+- [[T036 — Hadot, Pierre]]: the inner-citadel parallel (The Inner Citadel) the page lists.
 
 - [Daodejing 26, translated by James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): stillness and the prince's baggage waggons.
 

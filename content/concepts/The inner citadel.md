@@ -37,6 +37,7 @@ Hadot's wider work names the method: the repeated maxims and daily exercises of 
 - [[B165 — Peace begins in your own mind]] — the Buddhist parallel
 
 ## Facets
+- [[T036 — Hadot, Pierre]]: the concept's own source: his name for the Stoic stronghold external things cannot touch.
 
 - **and safe haven** — Stoics, Marcus Aurelius, Meditations
 - **enables outer generosity** — Stoics, Marcus Aurelius, Meditations

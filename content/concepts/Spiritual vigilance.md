@@ -20,6 +20,7 @@ For Hadot, this attention is not a mood of anxiety but the working posture of th
 - [[B081 — Meet dullness with energy (hindrance 3)]] pairs this Stoic posture with the Buddhist hindrance work: when attention fades, the compendium asks what is happening to it before acting, which is prosoche in Hadot's sense applied to a drowsy mind.
 
 ## Related concepts
+- [[T036 — Hadot, Pierre]]: the concept's own author: his name for the watchful attention of the ancient Stoics.
 
 - [[Spiritual exercises]] — the wider family of practices Hadot says this vigilance belongs to
 - [[Premeditatio malorum]] — a Stoic exercise this watchfulness keeps ready to hand

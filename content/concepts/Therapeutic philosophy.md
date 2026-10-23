@@ -20,6 +20,7 @@ The Stanford Encyclopedia's reading of Wittgenstein runs the same line: philosop
 - [[X014 — Let philosophy's test be therapeutic]] carries the conception as a principle: judge a piece of philosophy by whether it leaves the practitioner steadier, clearer and freer, not only by whether its propositions are true.
 
 ## Related concepts
+- [[T036 — Hadot, Pierre]]: the conception the page opens with, which his work made canonical for the Hellenistic schools.
 
 - [[Spiritual exercises]] — the ancient practices the therapeutic conception works through
 - [[Spiritual vigilance]] — prosoche, the attention at the center of those exercises

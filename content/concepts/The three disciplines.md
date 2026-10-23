@@ -24,6 +24,7 @@ The same passage in Oldfather's translation: "The first has to do with desires a
 The disciplines are a map of the whole person, and each has its own failure mode. Desire fails by wanting what is not up to us. Action fails by acting carelessly or out of role. Assent fails by agreeing to impressions before testing them. The third discipline is the refinement of the other two: every desire and every action runs through a judgment, so training the judgment is upstream of both. Hadot's reading, that the three correspond to physics, ethics and logic as lived practices, is what makes the map a curriculum rather than a list ([Hadot, quoted in Modern Stoicism](https://modernstoicism.com/hadots-active-stoic-exercises-by-anitra-russell/)).
 
 ## Related concepts
+- [[T036 — Hadot, Pierre]]: the Hadot reading of Epictetus's curriculum the page carries.
 
 - [[S011]] — the principle that carries Epictetus's three disciplines; the original entry page cites no principle
 - [[The dichotomy of control]] — the division of what is up to us that underlies all three disciplines

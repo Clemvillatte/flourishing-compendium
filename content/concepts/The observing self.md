@@ -26,6 +26,7 @@ In their 2011 review, Ethan Kross and Ozlem Ayduk report experiments in which pe
 SE002 "Recognise the observing self — you are not only the contents of awareness" makes the concept a foundation of psychological flexibility and wisdom. P160 "Distinguish the observing self from the story of self" applies it to identity; P058 "Distinguish the I who acts from the Me who is known" carries Mead's version. AF033, AF043 and SE016 teach it as a learnable skill, CO049 and AT034 apply it to thoughts and attention, and S057 states the Stoic parallel. ST333 and ST334 supply ACT's images: chess pieces fighting on a board that holds them, weather moving through a sky that holds all of it.
 
 ## Related concepts
+- [[T036 — Hadot, Pierre]]: the inner citadel, his name for the Stoic stronghold, listed beside the observing self.
 
 - [[Self-as-context]] — ACT's related therapeutic process: the perspective from which experience is noticed
 - [[Self-distancing]] — the research programme that measured the observer perspective's effects

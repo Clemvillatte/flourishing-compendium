@@ -14,6 +14,7 @@ Spiritual exercises is Pierre Hadot's name for the practice side of ancient phil
 The named exercises Hadot keeps returning to include the Stoic premeditation of evils, the examination of conscience guided by a master, meditation on mortality as philosophy's way of learning how to die, and the view from above, which is intended to challenge the importance assigned to fame, luxury and other personal concerns ([IEP, section 5 "Spiritual Practices"](https://iep.utm.edu/hadot/)). Hadot also uses "existential" as the adjective, and the practices call on rhetoric and imagination, not reason alone ([IEP, section 5](https://iep.utm.edu/hadot/)). The compendium's training principles sit on this terrain, among them daily consistency (D054), the day bookended by intention and review (B192), and truths treated as tasks rather than beliefs (B008).
 
 ## Facets
+- [[T036 — Hadot, Pierre]]: the concept's own author: his name for the practice side of ancient philosophy.
 
 - **of review** — Hadot, Philosophy as a Way of Life
 - **as remedies** — Hadot, Philosophy as a Way of Life

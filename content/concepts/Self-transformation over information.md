@@ -18,6 +18,7 @@ The same text describes philosophy proper, as an exercise of wisdom, as a single
 The instrument of that act is what Hadot calls spiritual exercises: "The object of spiritual exercises is precisely to bring about this transformation" (Philosophy as a Way of Life). The model is athletic, not academic: "just as, by dint of repeated physical exercises, athletes give new form and strength to their bodies, so the philosopher develops his strength of soul, modifies his inner climate, transforms his vision of the world, and, finally, his entire being" (Philosophy as a Way of Life).
 
 ## Related concepts
+- [[T036 — Hadot, Pierre]]: the account the page opens with: philosophy as self-transformation, in his name.
 - [[T011 — Socrates]]: the exemplar the page's Hadot quote leans on: philosophy as a way of life.
 
 - [[Spiritual exercises]] — the exercises Hadot catalogs as the instrument of the transformation
