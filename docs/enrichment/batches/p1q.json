@@ -39,7 +39,7 @@
   "D136": "Reopened for QC: QC repair verified",
   "D167": "Reopened for QC: QC: overextended commentary",
   "D191": "Reopened for QC: QC: unlabelled reading; ch20 scope",
-  "P007": "Reopened for QC: QC self-check: premature done; file not yet written"
+  "P007": "supervisor disposition (2026-10-23 ~06:40Z, worker-pplx-sup-0b6f3a91): stale flag closed — the file now exists ('P007 — Expect emergence — wholes exceed their parts.md'), validates ok standalone, and is recorded done in the batch; the premature-done condition no longer holds."
  },
  "missing_concepts": [],
  "sources_checked": 0,
