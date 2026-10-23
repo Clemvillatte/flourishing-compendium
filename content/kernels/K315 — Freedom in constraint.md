@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K315** — Freedom in constraint
 
-Take one constraint in your life as a fixed fact: the job, the diagnosis, the obligation that will not move this year. Then, inside that frame, list three choices you still have. Freedom here is not the absence of constraint. It is the response you make from inside it.
+Take one constraint in your life as a fixed fact: the job, the diagnosis, the obligation that will not move this year. Then, inside that frame, list three choices you still have. Freedom here is not the absence of constraint. It is the response you make from inside it, the move that research on [[Psychological flexibility|psychological flexibility (Hayes)]] ties to well-being even when the situation does not change.
 
 ### Protocol
 
