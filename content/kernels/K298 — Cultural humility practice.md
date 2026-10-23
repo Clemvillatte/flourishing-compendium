@@ -18,7 +18,7 @@ Tutu's passage, from No Future Without Forgiveness:
 
 > "We say, 'A person is a person through other persons.' It is not, 'I think therefore I am.' It says rather: 'I am human because I belong. I participate, I share.'" — [Desmond Tutu, No Future Without Forgiveness (1999), excerpt](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/)
 
-The questions-first and listen-first rules are the compendium's editorial design; the belonging is Tutu's.
+The questions-first and listen-first rules are the compendium's editorial design; the belonging is Tutu's ([No Future Without Forgiveness excerpt](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/)).
 
 ### Protocol
 
@@ -34,9 +34,9 @@ The nearest research is the meta-analytic test of intergroup contact theory:
 
 > "With 713 independent samples from 515 studies, the meta-analysis finds that intergroup contact typically reduces intergroup prejudice." — [Pettigrew & Tropp, 2006, Journal of Personality and Social Psychology 90(5), Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)
 
-The abstract also reports the finding held across a broad range of outgroup targets and contact settings, and that the more rigorous studies yielded larger mean effects ([Pettigrew & Tropp, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)). It also reports: "A global indicator of Allport's optimal contact conditions demonstrates that contact under these conditions typically leads to even greater reduction in prejudice" ([Pettigrew & Tropp, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)).
+The abstract also reports the finding held across a broad range of outgroup targets and contact settings, and that the more rigorous studies yielded larger mean effects ([Pettigrew & Tropp, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)). It also reports: "A global indicator of Allport's optimal contact conditions demonstrates that contact under these conditions typically leads to even greater reduction in prejudice." ([Pettigrew & Tropp, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/))
 
-What this evidence does not test: the cited research pooled studies of intergroup contact; it did not evaluate a questions-first practice, and contact under the classic facilitating conditions of equal status, common goals and cooperation was associated with even greater reduction in prejudice, not with the effectiveness of a questions-first practice ([Pettigrew & Tropp, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)).
+What this evidence does not test: the pooled contact-prejudice findings do not establish the effectiveness of this editorial questions-first, listen-first procedure ([Pettigrew & Tropp, 2006, Abstract](https://pubmed.ncbi.nlm.nih.gov/16737372/)).
 
 ### A guided version
 

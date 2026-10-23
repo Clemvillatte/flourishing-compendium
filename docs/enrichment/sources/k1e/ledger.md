@@ -231,3 +231,11 @@
 - K298: the full Pettigrew & Tropp abstract read — it DOES address the Allport conditions ("contact under these conditions typically leads to even greater reduction in prejudice", quoted verbatim with its own link); the limits sentence rewritten accordingly (conditions associated with greater reduction, not with the effectiveness of a questions-first practice); the targets/settings/rigour sentence now carries its own link.
 - Across all five: "same abstract" phrasing eliminated (each source-derived sentence now carries its own inline link); "The same abstract reports" rephrased to "The abstract also reports".
 - All five pages revalidated (5 checked, 0 failed); customer-facing sweep clean.
+
+## QC round 2, items 17-21 (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Second focused recheck repairs, applied with asserted-match edits and read back:
+- K298: the Allport sentence quotation completed with its sentence-ending period; the limits sentence simplified to the pooled-findings form ("do not establish the effectiveness of this editorial questions-first, listen-first procedure"); the attribution gloss now carries its own link.
+- K294: the limits paragraph replaced with the bounded form ("the review concerns nutritional outcomes in children and adolescents; it does not establish the effectiveness of this editorial weekly, screen-free shared-meal protocol") — the "did not measure connection as a mechanism" absence claim removed.
+- K295, K296, K297: the attribution glosses now carry their own historical-source links (Analects 13:23, NE I.7, Analects 1:4).
+- All five pages revalidated (5 checked, 0 failed); customer-facing sweep clean.

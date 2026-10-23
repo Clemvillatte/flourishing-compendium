@@ -18,7 +18,7 @@ Confucius's line, in Muller's translation:
 
 > "The noble man is in harmony but does not follow the crowd. The inferior man follows the crowd, but is not in harmony." — [Confucius, Analects 13:23, Muller translation](http://www.acmuller.net/con-dao/analects.html)
 
-The weekly menu of practices is the compendium's editorial design; the harmony-without-conformity is Confucius's.
+The weekly menu of practices is the compendium's editorial design; the harmony-without-conformity is Confucius's ([Analects 13:23, Muller translation](http://www.acmuller.net/con-dao/analects.html)).
 
 ### Protocol
 

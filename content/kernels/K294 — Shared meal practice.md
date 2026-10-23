@@ -36,7 +36,7 @@ The nearest research is a meta-analysis of shared family mealtimes:
 
 The meta-analysis covered 17 studies and 182,836 children and adolescents, and its outcomes were nutritional ([Hammons & Fiese, 2011, Abstract](https://pubmed.ncbi.nlm.nih.gov/21536618/)).
 
-What this evidence does not test: the cited research examined nutritional health in children and adolescents; it did not test shared meals between adults, did not measure connection as a mechanism, and a weekly practice of screen-free meals is not the family-meal frequency it pooled ([Hammons & Fiese, 2011, Abstract](https://pubmed.ncbi.nlm.nih.gov/21536618/)).
+What this evidence does not test: the review concerns nutritional outcomes in children and adolescents; it does not establish the effectiveness of this editorial weekly, screen-free shared-meal protocol ([Hammons & Fiese, 2011, Abstract](https://pubmed.ncbi.nlm.nih.gov/21536618/)).
 
 ### A guided version
 

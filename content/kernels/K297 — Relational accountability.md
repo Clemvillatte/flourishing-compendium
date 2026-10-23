@@ -18,7 +18,7 @@ Ceng Zi's daily examination, in Muller's translation:
 
 > "Each day I examine myself in three ways: in doing things for others, have I been disloyal? In my interactions with friends, have I been untrustworthy? Have not practiced what I have preached?" — [Confucius, Analects 1:4, Muller translation](http://www.acmuller.net/con-dao/analects.html)
 
-The one-commitment focus is the compendium's editorial design; the daily self-examination on trustworthiness is Ceng Zi's.
+The one-commitment focus is the compendium's editorial design; the daily self-examination on trustworthiness is Ceng Zi's ([Analects 1:4, Muller translation](http://www.acmuller.net/con-dao/analects.html)).
 
 ### Protocol
 
