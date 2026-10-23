@@ -454,3 +454,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (same class as K401-K404); Related concepts retargeted to existing pages only (Psychological flexibility, Acceptance and Commitment Therapy, Experiential avoidance theory — existence checked; the "Experiential avoidance" standalone does not exist); the seed's em dashes in the header paragraph replaced with commas to stay inside the dash budget.
 - Push note: enrich_save.sh's git push rejected (fast-forward race with the concurrent k1c worker); api_push.py used; the earlier api_push token()-prefix fix (x-access-token: stripped) is what made this recovery possible.
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K407 — Coping cards (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~190-word seed rebuilt to the K100 model (~550 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: behavioraltherapytechniques.com "Coping Cards" technique page — the "crowds out the calmer, more balanced perspective" mechanism paragraph and the honest evidence-scope paragraph ("Direct standalone trial evidence is limited") read verbatim; positivepsychology.com "Coping Cards" — the definition paragraph ("brief, portable prompts ... limited internal recall") and the Beck-2011-citing cognitive-restructuring-cards sentence read verbatim.
+- The Tolin *Doing CBT* and Riggenbach *CBT Toolbox* books (commercial) remain unopened; the seed's attribution is preserved with the two clinical-education carriers carrying the technique's mechanism and evidence scope; the Beck Institute CE packets confirm coping cards are Lesson 3 of the standard Beck curriculum (Identifying Automatic Thoughts, Gathering Evidence and Coping Cards) but were not fetched this session.
+- Original Operationalises wikilinks preserved exactly but reformatted to the K100 model's `- [[link]]` bullet form (same class as K401-K405); Related concepts retargeted to existing pages only (Cognitive restructuring, Cognitive distortions, Behavioral experiments in CBT — existence checked; the "Cognitive behavioral therapy" standalone does not exist).
+- Customer-facing grep clean; validator ok, 0 failed.
