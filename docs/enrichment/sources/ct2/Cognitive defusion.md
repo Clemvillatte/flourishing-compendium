@@ -16,3 +16,9 @@ card example labeled; Related concepts cleaned (empty lines removed, "reciprocal
 Related entry" maintenance wording removed from the Distrust names and labels clause);
 Sources rebuilt with the verified carrier first and carried-over citations labeled.
 Front-matter untouched. Validator ok.
+
+Post-save fix (this session): the initial read of this file was truncated and the original
+"Cited in parallels" list (26 links) and the fuller Sources list were lost from the
+rebuild; restored in full from HEAD~1 (no markup now lost; validator re-run). The
+additional Sources entries (Hayes et al. 2006, Levin et al. 2012, Zettle et al. 2011,
+Gillanders et al. 2014, Zettle's comparative studies) are carried over unchanged.

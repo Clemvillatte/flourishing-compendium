@@ -68,3 +68,32 @@ The cross-tradition cognates are exact: [[Anatta]] and [[Self-as-context]] are t
 - [Bernstein, A., Hadash, Y., Lichtash, Y., Tanay, G., Shepherd, K., & Fresco, D. M. (2015). Decentering and Related Constructs: A Critical Review and Metacognitive Processes Model. Perspectives on Psychological Science, 10(5), 599–617](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/) — the two definitional statements quoted above, quoting Hayes, Strosahl & Wilson 1999 and Forman et al. 2012
 - Hayes et al., 2011 — the ACT phrasings listed in Other formulations, carried over
 - Hayes, A Liberated Mind — carried over
+
+## Cited in parallels
+
+- [[D023 — Unlearn daily]]
+- [[B014 — Use views as tools, not possessions (the raft)]]
+- [[B074 — Thoughts are not facts]]
+- [[B127 — Dismantle the raft when you've crossed]]
+- [[P029 — Watch how words work, not what they name]]
+- [[S017 — Refuse to see externals as good or bad]]
+- [[S045 — Examine every impression]]
+- [[S054 — Distinguish between facts and interpretations]]
+- [[E006 — Practise the epoché in daily life]]
+- [[Y018 — Label fiction as fiction]]
+- [[SP046 — Watch words; they are not ideas]]
+- [[K025 — Regard all experience as dream-like]]
+- [[P159 — Defuse — see thoughts as thoughts]]
+- [[D016 — Distrust names and labels]]
+- [[S047 — See impressions as what they are — appearances, not realities]]
+- [[CO011 — Recognise that thinking can be fused with its content — you can believe your thoughts]]
+- [[CO078 — Understand the role of language in thinking — words shape thought]]
+- [[Y088 — Run not this, not this as a procedure]]
+- [[K061 — Recognize thoughts' nature rather than fighting their content]]
+- [[K065 — Know that reason reaches its limit, and let confession do what argument cannot]]
+- [[S003 — Recognise that you are disturbed not by things but by your judgements about them]]
+- [[S020 — Remember that nothing can harm you except your own judgement]]
+- [[S051 — Recognise that your judgements are the source of your distress]]
+- [[D045 — Keep the empty cup]]
+- [[B129 — Point directly at experience]]
+- [[P012 — An idea's meaning is its practical effects]]
