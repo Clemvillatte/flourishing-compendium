@@ -140,7 +140,27 @@
      "note": ""
     }
    ]
+  },
+  "s1f-006": {
+   "status": "qc_pending",
+   "angle": "B039 satipatthana: Anathapindika's deathbed instruction (MN 143) — Sariputta's non-clinging instruction through the whole range of experience; a deathbed case, not a formula",
+   "history": [
+    {
+     "t": "2026-10-23T06:24:10+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-23T06:24:11+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-23T06:24:25+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC"
+    }
+   ]
   }
  },
- "updated": "2026-10-23T06:23:39+00:00"
+ "updated": "2026-10-23T06:24:25+00:00"
 }
