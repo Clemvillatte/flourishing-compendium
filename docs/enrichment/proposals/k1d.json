@@ -1,0 +1,12 @@
+{
+ "batch": "k1d",
+ "agent": "worker-pplx-k1d-7e3b91c2",
+ "reciprocal": [
+  {"into": "Phronesis", "link": "K358 — Stakeholder impact scan", "why": "The kernel is practical wisdom applied to institutional decisions: listing affected groups and judging impacts from their point of view before acting."},
+  {"into": "Perspective-taking", "link": "K358 — Stakeholder impact scan", "why": "The scan makes perspective-taking concrete in organizational settings by requiring one impact sentence per affected group, written from that group's side."},
+  {"into": "The common good", "link": "K358 — Stakeholder impact scan", "why": "The scan widens institutional decision frames from efficiency or profit alone toward the good of the whole, with Freeman's stakeholder definition applied as routine."},
+  {"into": "The ethics of care", "link": "K358 — Stakeholder impact scan", "why": "The scan treats attention to affected parties, rather than only rules or contracts, as the starting point of an institutional decision."}
+ ],
+ "inline": [],
+ "notes": "k1d kernels slice B. Whys are interpretive, not empirical causal claims; supervisor integration only. No existing backlinks on the four target pages at proposal time."
+}
