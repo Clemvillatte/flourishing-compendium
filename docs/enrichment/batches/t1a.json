@@ -11,9 +11,10 @@
   "Friedrich Nietzsche",
   "Zhuangzi",
   "Laozi",
-  "Socrates"
+  "Socrates",
+  "Seneca"
  ],
- "in_progress": "Seneca",
+ "in_progress": null,
  "flagged": {
   "Aristotle": "Reopened for QC: advisor QC round-1: translator metadata, peripatetic/treatises claims, why-section sourcing, section word limits, humanizer tells",
   "William James": "QC round-5: attention quote subject restored, core-ideas 293 within budget",
@@ -26,6 +27,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:28:03+00:00",
- "band_done": false
+ "updated": "2026-10-23T06:29:14+00:00",
+ "band_done": true
 }
