@@ -31,7 +31,8 @@
   "To kalon",
   "Topophilia",
   "Trustworthiness",
-  "Ultimatum research"
+  "Ultimatum research",
+  "Uncertainty Reduction Theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -50,6 +51,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T05:44:30+00:00",
+ "updated": "2026-10-23T05:44:45+00:00",
  "band_done": false
 }
