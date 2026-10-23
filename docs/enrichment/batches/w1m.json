@@ -1,7 +1,6 @@
 {
  "batch": "w1m",
  "done": [
-  "The great doubt",
   "The ontological difference",
   "The coloured lens",
   "The return of the soul to its source",
@@ -72,7 +71,8 @@
   "The culturally embedded self",
   "Contempt for fame",
   "Steelmanning the opposing view",
-  "Sub specie aeternitatis"
+  "Sub specie aeternitatis",
+  "The great doubt"
  ],
  "in_progress": null,
  "flagged": {
@@ -105,11 +105,12 @@
   "Acedia": "Reopened for QC: extension: add Aquinas ST II-II q35 and Evagrius ending (prose was 80 words)",
   "Vipassana (insight)": "Reopened for QC: extension: add Thanissaro samatha pairing and MN 10 origination/passing away (prose 81)",
   "Viveka": "Reopened for QC: extension: add Yoga Sutra 2.26 and Vyasa on pain removal (prose 92)",
-  "Contempt for fame": "Reopened for QC: extension: add what-it-is-not and small case (prose 138)"
+  "Contempt for fame": "Reopened for QC: extension: add what-it-is-not and small case (prose 138)",
+  "The great doubt": "Reopened for QC: extension: add scope note (prose 124)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:32:45+00:00",
+ "updated": "2026-10-23T14:33:00+00:00",
  "band_done": false,
  "new_concepts": [
   {

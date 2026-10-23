@@ -17,6 +17,10 @@ In Hakuin's account the doubt builds as the practitioner tackles the difficult-t
 
 The compendium's [[B047 — Keep the great doubt alive]] distinguishes this doubt from corrosive scepticism: not a verdict that the practice is worthless, but the settled unease of a question that cannot be answered and stays.
 
+### What it is not
+
+The great doubt is not general scepticism and not a mood to be induced. The passage above is a teacher's claim, passed on by Hakuin, about what happens inside kōan training under a teacher, and no study is cited for it. On the compendium's cautious reading, it describes a question held with steady attention. It is not a licence to dwell on distress, and a reader who is struggling should treat it as an idea to understand and not as an exercise to start alone.
+
 ### In the compendium
 
 - [[K009 — Let the doubt become great]] — describes great doubt as a question about your life that you cannot put down, and works to grow it instead of settling it
