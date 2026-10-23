@@ -404,3 +404,11 @@ Verification pass: the page (already at the bar from a prior worker) quote-check
 - The Williams/Penman book (commercial) remains unopened; the underlying practice is Thich Nhat Hanh's (the "mindfulness bell" is a Plum Village tradition term, and Williams/Penman's ch. 11 application to household activities is an editorial adaptation); the opened carriers are the classical tradition's own text plus a modern teacher's account; the franticworld.com pages are robots-blocked.
 - Original Operationalises line preserved exactly; the "Autopilot" Related-concepts link (no such page) retargeted to Habit formation; dashes reduced to 3 after the validator catch (the "— pre-set reminders" header em dash replaced with a colon).
 - Customer-facing grep clean; validator ok, 0 failed.
+
+## K399 — The kindness pool (unblock the spring) (2026-10-23, worker-pplx-k1e-b7d21e8)
+
+- Real enrichment: thin ~120-word seed rebuilt to the K100 model (~600 prose words, 3 standalone blockquotes, all sections).
+- Carriers opened: Beshara Magazine Mark Williams interview transcript — his own spoken account of the Kindness/Befriending meditation read verbatim (the "May I be safe and protected" three wishes, the bus/subway stranger extension, the somebody-you-don't-like extension); Oxford Research Archive (ORA) Simonsson et al. "Love thy (partisan) neighbor" PDF — the affective-polarization result sentence and the befriending-condition description read verbatim.
+- The "unblock the spring that feeds the pool" phrasing comes from the book's own metaphor (carried in a befreed.ai summary snippet in the search results but not opened); the kernel keeps the pool/spring image in its own prose and cites the book as the source; the opened carriers are Mark Williams' spoken account of the practice itself and the trial of the practice's effect.
+- Original Operationalises line preserved exactly; Related concepts retargeted to existing pages only (Self-compassion, Metta (loving-kindness), Compassion — existence checked; "Loving-kindness" standalone and "Common humanity" do not exist as concepts); dashes reduced to 3 after the validator catch.
+- Customer-facing grep clean; validator ok, 0 failed.
