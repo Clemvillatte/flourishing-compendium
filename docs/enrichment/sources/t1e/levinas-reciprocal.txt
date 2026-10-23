@@ -1,0 +1,487 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A023 \u2014 Practice justice (dikaiosyne).md",
+      "id": "A023",
+      "title": "Practice justice (dikaiosyne)",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A065 \u2014 Wish good for your friend for their own sake.md",
+      "id": "A065",
+      "title": "Wish good for your friend for their own sake",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A068 \u2014 Maintain friendships through presence in misfortune.md",
+      "id": "A068",
+      "title": "Maintain friendships through presence in misfortune",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A076 \u2014 Practise friendship across difference.md",
+      "id": "A076",
+      "title": "Practise friendship across difference",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A097 \u2014 Practise corrective justice.md",
+      "id": "A097",
+      "title": "Practise corrective justice",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A102 \u2014 Distinguish justice from revenge.md",
+      "id": "A102",
+      "title": "Distinguish justice from revenge",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A117 \u2014 Understand pity (eleos).md",
+      "id": "A117",
+      "title": "Understand pity (eleos)",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/AF056 \u2014 Recognise disgust's function \u2014 it protects from contamination.md",
+      "id": "AF056",
+      "title": "Recognise disgust's function: it protects from contamination",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B138 \u2014 Empty the relations too (who bows to whom).md",
+      "id": "B138",
+      "title": "Empty the relations too (who bows to whom?)",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B159 \u2014 See the human behind the position.md",
+      "id": "B159",
+      "title": "See the human behind the position",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D082 \u2014 Don't impose your frame on others.md",
+      "id": "D082",
+      "title": "Don't impose your frame on others",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D140 \u2014 Respect others' nature \u2014 don't cage what you love.md",
+      "id": "D140",
+      "title": "Respect others' nature: don't cage what you love",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E007 \u2014 Practise eidetic seeing.md",
+      "id": "E007",
+      "title": "Practise eidetic seeing",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E009 \u2014 Practise intersubjectivity.md",
+      "id": "E009",
+      "title": "Practise intersubjectivity",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E035 \u2014 Practise the gaze of the Other (le regard).md",
+      "id": "E035",
+      "title": "Practise the gaze of the Other (le regard)",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E067 \u2014 Practise the look (le regard) as ontological.md",
+      "id": "E067",
+      "title": "Practise the look (le regard) as ontological",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/E080 \u2014 Practise the fusion of horizons.md",
+      "id": "E080",
+      "title": "Practise the fusion of horizons",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP029 \u2014 Build responsive relationships.md",
+      "id": "PP029",
+      "title": "Build responsive relationships",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/PP035 \u2014 Practise social perspective-taking.md",
+      "id": "PP035",
+      "title": "Practise social perspective-taking",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R003 \u2014 Practise hospitality.md",
+      "id": "R003",
+      "title": "Practise hospitality",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R042 \u2014 Practise teu le v\u0101.md",
+      "id": "R042",
+      "title": "Practise teu le v\u0101",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R055 \u2014 Practise xin (trustworthinessintegrity).md",
+      "id": "R055",
+      "title": "Practise xin (trustworthiness/integrity)",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R067 \u2014 Practise receptive caring.md",
+      "id": "R067",
+      "title": "Practise receptive caring",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R071 \u2014 Practise responsibility.md",
+      "id": "R071",
+      "title": "Practise responsibility",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R073 \u2014 Practise responsiveness.md",
+      "id": "R073",
+      "title": "Practise responsiveness",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R081 \u2014 Practise I-Thou.md",
+      "id": "R081",
+      "title": "Practise I-Thou",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R082 \u2014 Practise the primacy of relation.md",
+      "id": "R082",
+      "title": "Practise the primacy of relation",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R083 \u2014 Practise the face of the Other.md",
+      "id": "R083",
+      "title": "Practise the face of the Other",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R084 \u2014 Practise infinite responsibility.md",
+      "id": "R084",
+      "title": "Practise infinite responsibility",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R087 \u2014 Practise hope.md",
+      "id": "R087",
+      "title": "Practise hope",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R089 \u2014 Practise incarnation.md",
+      "id": "R089",
+      "title": "Practise incarnation",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R092 \u2014 Practise listening as a moral act.md",
+      "id": "R092",
+      "title": "Practise listening as a moral act",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R093 \u2014 Practise the primacy of ethics over ontology.md",
+      "id": "R093",
+      "title": "Practise the primacy of ethics over ontology",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R094 \u2014 Practise substitution.md",
+      "id": "R094",
+      "title": "Practise substitution",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R095 \u2014 Practise the trace of the Other.md",
+      "id": "R095",
+      "title": "Practise the trace of the Other",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R096 \u2014 Practise the third.md",
+      "id": "R096",
+      "title": "Practise the third",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R097 \u2014 Practise the ethical demand.md",
+      "id": "R097",
+      "title": "Practise the ethical demand",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R099 \u2014 Practise the between as ontological.md",
+      "id": "R099",
+      "title": "Practise the between as ontological",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/R100 \u2014 Practise greeting as ethical act.md",
+      "id": "R100",
+      "title": "Practise greeting as ethical act",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S032 \u2014 Work with others, not against them.md",
+      "id": "S032",
+      "title": "Work with others, not against them",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S074 \u2014 Forgive those who wrong you.md",
+      "id": "S074",
+      "title": "Forgive those who wrong you",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S081 \u2014 Practise empathy for wrongdoers.md",
+      "id": "S081",
+      "title": "Practise empathy for wrongdoers",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO028 \u2014 Use social support as a two-way practice.md",
+      "id": "SO028",
+      "title": "Use social support as a two-way practice",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO038 \u2014 Treat trust as social capital.md",
+      "id": "SO038",
+      "title": "Treat trust as social capital",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO046 \u2014 Guard against in-group bias.md",
+      "id": "SO046",
+      "title": "Guard against in-group bias",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO048 \u2014 Treat discrimination as a health determinant.md",
+      "id": "SO048",
+      "title": "Treat discrimination as a health determinant",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO050 \u2014 Treat minority stress as a mechanism.md",
+      "id": "SO050",
+      "title": "Treat minority stress as a mechanism",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SO066 \u2014 Treat marginalization as a clinical and social issue.md",
+      "id": "SO066",
+      "title": "Treat marginalization as a clinical and social issue",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Alterity.md",
+      "id": "Alterity",
+      "title": "Alterity",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Care.md",
+      "id": "Care",
+      "title": "Care",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Confirming the other.md",
+      "id": "Confirming the other",
+      "title": "Confirming the other",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Empathy.md",
+      "id": "Empathy",
+      "title": "Empathy",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Fidelity.md",
+      "id": "Fidelity",
+      "title": "Fidelity",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Hospitality.md",
+      "id": "Hospitality",
+      "title": "Hospitality",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Infinite responsibility.md",
+      "id": "Infinite responsibility",
+      "title": "Infinite responsibility",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Listening.md",
+      "id": "Listening",
+      "title": "Listening",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Natural rights.md",
+      "id": "Natural rights",
+      "title": "Natural rights",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Noesis, direct intellectual seeing.md",
+      "id": "Noesis, direct intellectual seeing",
+      "title": "Noesis, direct intellectual seeing",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Openness.md",
+      "id": "Openness",
+      "title": "Openness",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Recognition.md",
+      "id": "Recognition",
+      "title": "Recognition",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Relational ontology.md",
+      "id": "Relational ontology",
+      "title": "Relational ontology",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Responsibility.md",
+      "id": "Responsibility",
+      "title": "Responsibility",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Responsiveness.md",
+      "id": "Responsiveness",
+      "title": "Responsiveness",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Substitution.md",
+      "id": "Substitution",
+      "title": "Substitution",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The face.md",
+      "id": "The face",
+      "title": "The face",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The primacy of the ethical.md",
+      "id": "The primacy of the ethical",
+      "title": "The primacy of the ethical",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/kernels/K356 \u2014 The face practice.md",
+      "id": "K356",
+      "title": "The face practice",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST249 \u2014 Levinas and Bobby the Dog.md",
+      "id": "ST249",
+      "title": "249. Levinas and Bobby the Dog",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/stories/ST267 \u2014 The Face of the Other.md",
+      "id": "ST267",
+      "title": "267.  The Face of the Other",
+      "thinker": "T043",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
