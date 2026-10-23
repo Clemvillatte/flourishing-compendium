@@ -14,7 +14,28 @@ Before you tell someone what to do, ask permission: "Would it be OK if I mention
 
 The structure keeps advice from becoming a lecture — the surrounding listening is what makes information easier to digest.
 
-Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 11 (Offering Information and Advice), p. 195.
+Adapted from Miller & Rollnick, Motivational Interviewing (4th ed.), ch. 11 (Offering Information and Advice), p. 195. The third edition of the same book calls this sequence elicit–provide–elicit, in the same chapter role.
+
+### Protocol
+
+1. Before offering information or advice, ask permission: "Would it be OK if I mention a few possibilities?"
+2. If yes, keep the offer brief and clear, and do not prescribe the response: give the information, not the verdict.
+3. Ask again: "What do you make of that? Does any of it fit for you?"
+4. Expect the sequence to bend: the book itself notes it runs circular in practice, with listening between the steps.
+
+### Evidence
+
+The sequence, in the third edition's own words:
+
+> "This is crystallized in the elicit–provide–elicit sequence described in Chapter 11. Whatever the counselor offers, the client is always free to agree or not, heed or not, implement or not, and it is often useful to acknowledge this directly."
+> — [Miller and Rollnick, third edition, PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+
+And its shape in practice:
+
+> "Although EPE suggests a linear progression, in reality it is often a more circular process accompanied by ample reflective listening."
+> — [same PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+
+What the sources do not test: the quoted passages explain the sequence's rationale and shape; they do not establish the effect of this everyday lay version.
 
 ## Operationalises
 
@@ -24,3 +45,19 @@ Adapted from Miller & Rollnick, *Motivational Interviewing* (4th ed.), ch. 11 (O
 ## Psychology parallels
 
 - Ask–Offer–Ask is part of clinical MI protocols; the lay version has not been directly tested (indirect evidence).
+
+## Related concepts
+
+- [[Motivational interviewing]] — the research tradition the sequence comes from.
+- [[Autonomous motivation]] — the kind of motivation the permission step protects.
+- [[Autonomy-supportive leadership]] — autonomy support exercised from a giving role.
+
+## Related kernels
+
+- [[K369 — The autonomy statement]]
+- [[K373 — Notice the fixing reflex]]
+- [[K377 — Offer two or three options, not one]]
+
+## Sources
+
+- [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
