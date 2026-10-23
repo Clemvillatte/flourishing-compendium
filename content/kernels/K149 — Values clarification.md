@@ -14,8 +14,8 @@ Write your current answer to: "What do I want my life to stand for?" in three to
 
 ## Facets
 
-- **In ACT** — the clarification is the entry point to committed action; the valued direction is chosen first, the goals that move along it come after (Hayes et al., 2011).
-- **And [[Self-determination|self-determination]]** — the why of a value matters as much as the what in both traditions (Deci & Ryan, 2000; Hayes et al., 2006).
+- **In ACT** — the clarification is the entry point to committed action; the valued direction is chosen first, the goals that move along it come after.
+- **And [[Self-determination|self-determination]]** — the why of a pursuit is part of what the tradition measures (Deci & Ryan, 2000).
 
 ### Protocol
 
