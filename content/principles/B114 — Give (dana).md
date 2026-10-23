@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 114** — Give (dana)
 
-Dhammapada 224 puts giving on a three-item list with truth and restraint of anger: speak the truth, yield not to anger, and when asked, give even if you only have a little. (Dhammapada 224.) AN 5.35, the Discourse on the Benefits of Giving, lists five benefits: a giver is dear and beloved by many people, good people associate with them, they get a good reputation, they do not neglect a layperson's duties, and when the body breaks up they are reborn in a good place. (AN 5.35.) AN 5.41 adds the householder's uses of wealth, from providing pleasure and satisfaction for one's own people to warding off calamities to the offering given to contemplatives, and ends with the householder feeling no remorse whether the wealth increases or goes to depletion. (AN 5.41.)
+Dhammapada 224 places giving alongside truthful speech and restraint of anger, and explicitly includes someone who has little to give. ([Dhammapada 224](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html))
 
-> "A giver, a donor is dear and beloved by many people. Good people associate with them. They get a good reputation. They don't neglect a layperson's duties. When their body breaks up, after death, they're reborn in a good place, a heavenly realm." (AN 5.35, [Dananisamsa Sutta](https://theemptyrobot.com/texts/tipitaka/sutta-pitaka/anguttara-nikaya/AN5/35-dananisamsasutta/))
+> "Speak the truth; yield not to anger; when asked, give even if you only have a little." ([Dhammapada 224, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html))
 
-The compendium extends the instruction to give into a weekly exercise: choose a request for help that you are willing and able to meet.
+AN 5.41 sets generosity within a householder's responsibilities. Wealth serves parents, family, workers and friends, protection against misfortune, customary offerings, and support for contemplatives. The discourse ends with satisfaction at having put wealth to use, whether it subsequently grows or diminishes. ([AN 5.41](https://www.accesstoinsight.org/tipitaka/an/an05/an05.041.than.html)) AN 5.35 separately describes benefits of giving, including affection, good company, reputation and heavenly rebirth; these are that discourse's claims. ([AN 5.35](https://theemptyrobot.com/texts/tipitaka/sutta-pitaka/anguttara-nikaya/AN5/35-dananisamsasutta/))
 
 **Plain words**
-Decide what you can offer, such as an hour of time or a small amount of money. Make the offer specific.
+Here is one everyday reading: having something does not settle what it is for. A little money can remain untouched in your pocket or become a meal shared with someone. Your own responsibilities still need care. Generosity asks where some of what you have could actually be useful, rather than making abundance a condition for ever giving.
 
-*For example:* Imagine choosing a volunteer shift and asking the coordinator where help is needed.
+For example: You can spare an hour to help at a community meal. Before choosing between cooking and clearing up, ask the coordinator which task is short of help. Try that task and compare the offer you intended with what the team actually needed and you could sustain. Keep the arrangement that supplies useful help without making promises you cannot keep. Treat this as an editorial exercise in giving time, not a practice prescribed by these passages.
 
 ## Sources
 

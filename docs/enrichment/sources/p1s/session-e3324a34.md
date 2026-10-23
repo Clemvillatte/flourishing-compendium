@@ -66,6 +66,16 @@ Opened with fetch on 2026-10-23:
 
 Rewrite: move from a qualified blog excerpt to the directly opened translated text while retaining the old carrier. Distinguish fixation from insensibility and make training explicit. The conversation analogy and musician comparison are marked as editorial applications, not claims about modern treatment, a tested protocol or Zen attainment.
 
+## B114: giving, limited means and household responsibility
+
+Opened with fetch on 2026-10-23:
+
+- [Dhammapada 224, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html): newly quoted first sentence verified, including semicolons. It is an excerpt of the verse, which continues with reaching the presence of the gods.
+- [AN 5.41, Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/an/an05/an05.041.than.html): five uses of wealth and satisfaction whether wealth grows or diminishes.
+- [AN 5.35, The Empty Robot carrier](https://theemptyrobot.com/texts/tipitaka/sutta-pitaka/anguttara-nikaya/AN5/35-dananisamsasutta/): benefits list, explicitly including the religious rebirth claim. No inference that a modern volunteer exercise establishes those benefits.
+
+Rewrite: remove the prose/block-quote duplicate benefits list. Make the primary quotation the passage about giving even with little. Re-derive the everyday meaning of use/sharing without treating wealth as a prerequisite, and keep household care visible. The giving-time illustration is a compendium extension and is labelled as such.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.
