@@ -1,10 +1,10 @@
 {
  "batch": "t1b",
  "done": {},
- "in_progress": null,
+ "in_progress": "T014 Marcus Aurelius",
  "flagged": [],
  "missing_concepts": [],
  "sources_checked": [],
- "updated": "",
+ "updated": "2026-10-23T05:19:05+00:00",
  "band_done": false
 }
