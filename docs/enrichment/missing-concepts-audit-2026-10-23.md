@@ -204,7 +204,10 @@ umbrella (Four immeasurables) — all verified as existing pages.
    relationships 9, meaning 10, self 9, body 10, wisdom 8 by kernel-filename
    match); no domain is empty, so no domain-level gap is claimed. The
    fine-grained gap remains the 48-item stem-match shortlist (item 7).
-6. Buber "inclusion" (36 generic-word mentions): hand-verification pending.
+6. DONE before this push: the 36 "inclusion" mentions were hand-checked for
+   Buber context — none is a Buber-specific use (generic social-psychology
+   usage); Buber's inclusion (Umfassung) is an honest absence at 0 dedicated
+   corpus weight.
 7. The 48-item kernel stem-match shortlist: per-item semantic verification
    pending (the ataraxia withdrawal shows why).
 8. DONE before this push: asana has 0 word-boundary mentions in the corpus —
