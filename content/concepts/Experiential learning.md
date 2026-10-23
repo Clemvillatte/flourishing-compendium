@@ -18,6 +18,10 @@ David Kolb's 1984 book Experiential Learning: Experience as the Source of Learni
 
 The same article describes how the transformation runs: "This transformation of experience occurs in a cyclical fashion as students engage in concrete experiences (CE), reflective observation (RO), abstract conceptualization (AC), and active experimentation (AE)" ([Baker and Robinson, 2016](https://files.eric.ed.gov/fulltext/EJ1123045.pdf)). A learner has an experience, reflects on it, distills the reflection into a concept, and tests the concept in a new situation, which becomes the next experience ([Baker and Robinson, 2016](https://files.eric.ed.gov/fulltext/EJ1123045.pdf)).
 
+### What the test found
+
+The article's own study compared an experiential learning treatment with direct instruction in secondary agriculture classes. Students who received the experiential treatment produced higher creativity scores that were domain specific, and scored higher in their practical use of knowledge than the direct-instruction group ([Baker and Robinson, 2016, abstract](https://files.eric.ed.gov/fulltext/EJ1123045.pdf)). The authors' own discussion cautions against reading the comparison as a contest: "the best approach for student learning might be a both approach."
+
 ### In the compendium
 
 - [[D072 — Learn by doing, not only by reading]], [[P042 — Learn by doing]], [[K020 — Know by doing]] and [[A044 — Learn from experience]]

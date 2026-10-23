@@ -29,7 +29,6 @@
   "Emotional suppression theory Butler Gross",
   "Envy",
   "Executive function theory Miyake",
-  "Experiential learning",
   "Facing the fear",
   "Fading affect bias",
   "Flexibility in coping",
@@ -70,7 +69,8 @@
   "Curiosity",
   "Non-attachment",
   "Expressive suppression versus reappraisal",
-  "Recognition"
+  "Recognition",
+  "Experiential learning"
  ],
  "in_progress": null,
  "flagged": {
@@ -104,7 +104,7 @@
   "Envy": "QC ACCEPTED (advisor, 6 rounds): verbatim quotes verified, sentence-level citations complete, baseline text/link preservation verified vs parent-of-first-edit; scope limitation: quotes carried by opened secondary carriers where noted in ledger",
   "Executive function theory Miyake": "QC ACCEPTED (advisor, 6 rounds): verbatim quotes verified, sentence-level citations complete, baseline text/link preservation verified vs parent-of-first-edit; scope limitation: quotes carried by opened secondary carriers where noted in ledger",
   "Durée": "QC ACCEPTED (advisor, 6 rounds): verbatim quotes verified, sentence-level citations complete, baseline text/link preservation verified vs parent-of-first-edit; scope limitation: quotes carried by opened secondary carriers where noted in ledger",
-  "Experiential learning": "QC ACCEPTED (advisor, items 6-10 milestone, 3 rounds): lead-in citations completed, carried-quote provenance disclosed, annotations reduced to seed/original or bare; scope limitations per ledger (e.g. 24091020 abstract-level, Kolb via secondary carrier)",
+  "Experiential learning": "Reopened for QC: prose 110<150 at canonical degree 18; study-findings section added from the opened Baker-Robinson ERIC full text",
   "Expressive suppression versus reappraisal": "Reopened for QC: prose 67<150 at canonical degree 21; measurement-design section added from the opened Gross and John 2003 abstract",
   "Facing the fear": "QC ACCEPTED (advisor, items 6-10 milestone, 3 rounds): lead-in citations completed, carried-quote provenance disclosed, annotations reduced to seed/original or bare; scope limitations per ledger (e.g. 24091020 abstract-level, Kolb via secondary carrier)",
   "Fading affect bias": "QC ACCEPTED (advisor, items 6-10 milestone, 3 rounds): lead-in citations completed, carried-quote provenance disclosed, annotations reduced to seed/original or bare; scope limitations per ledger (e.g. 24091020 abstract-level, Kolb via secondary carrier)",
@@ -130,6 +130,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:23:07+00:00",
+ "updated": "2026-10-23T14:23:21+00:00",
  "band_done": false
 }
