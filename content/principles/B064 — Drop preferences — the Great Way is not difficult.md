@@ -30,6 +30,10 @@ Take one preference you defend strongly, and check its size. It is a liking: it 
 
 *For example:* Imagine a traveler who stops ranking each meal against the last one. Nothing about the food has changed; what changes is how much of the meal there is left to notice.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the ziran resonance the page cites: preferences dropped, things self-so.
+
 ## Sources
 
 - [Xinxin Ming, Robert B. Clarke translation, AZINE Library](https://azinelibrary.org/trash/xin-xin-ming-reading.pdf) — opening lines and the disease-of-the-mind passage

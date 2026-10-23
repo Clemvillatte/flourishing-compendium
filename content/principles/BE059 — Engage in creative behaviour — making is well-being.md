@@ -28,6 +28,10 @@ In a two-week diary study, people reported more enthusiasm and flourishing follo
 **For example**
 Suppose a beginner spends an evening painting a watercolour and notes their mood the next day.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the usefulness-of-the-useless parallel the page draws for making.
+
 ## Sources
 
 - [Conner, DeYoung & Silvia, "Everyday creative activity as a path to flourishing", The Journal of Positive Psychology 13(2), 181-189 (published online 2016), DOI 10.1080/17439760.2016.1257049](https://doi.org/10.1080/17439760.2016.1257049) — 13-day diary study, n = 658; lagged multilevel models; abstract result and direction-specificity quote. PDF obtained via the DeYoung Personality Lab publications page (Google Drive); quotes read from the downloaded PDF.

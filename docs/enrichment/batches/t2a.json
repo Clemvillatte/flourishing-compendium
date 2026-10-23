@@ -45,11 +45,19 @@
   "content/principles/AT074 — Recognise neurodivergent attention — different patterns, not deficits.md",
   "content/principles/B001 — Face suffering directly.md",
   "content/principles/B015 — Nothing exists alone (interbeing).md",
-  "content/principles/B050 — Rest in ordinary mind — it is the Way.md"
+  "content/principles/B050 — Rest in ordinary mind — it is the Way.md",
+  "content/principles/B064 — Drop preferences — the Great Way is not difficult.md",
+  "content/principles/B108 — Grieve with presence.md",
+  "content/principles/B124 — Meet suchness — things as they are.md",
+  "content/principles/B133 — Let the self-construct fall away (the Great Death).md",
+  "content/principles/B143 — Emptiness is relational fullness.md",
+  "content/principles/B167 — When hungry, eat; when tired, sleep.md",
+  "content/principles/BE041 — Learn to use nature contact — green and blue space are restorative.md",
+  "content/principles/BE059 — Engage in creative behaviour — making is well-being.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:15:16+00:00",
+ "updated": "2026-10-23T14:15:32+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it."
 }

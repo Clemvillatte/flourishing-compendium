@@ -26,6 +26,10 @@ Pause over what is actually available to notice before deciding what it means ab
 
 Imagine a friend describing a difficult day. Listen to the words they use and check what they are asking from you before preparing advice. Your response may still require interpretation and judgment; the exercise asks that those be answerable to what you heard.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the ziran (self-so) naturalness the page rests suchness on.
+
 ## Psychology parallels
 
 - **[[Radical acceptance|Radical acceptance]]**: Linehan's handout asks for acknowledging facts about past and present even when disliked, a clinical comparison rather than evidence for the discourse's liberation claim ([2015, Distress Tolerance Handout 11](https://strengtheningyourconsciousself.com/wp-content/uploads/2023/12/DBT-Distress-Tolerance-Handout-11.pdf)).

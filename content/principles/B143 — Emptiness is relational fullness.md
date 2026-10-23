@@ -26,6 +26,10 @@ Try asking what lets something exist or function as it does. Its reliance on oth
 
 Imagine two partners planning care for an elderly relative. They list the transport, money and other people's time their plan requires. This illustrates examining dependencies; it says nothing about whether the partners feel closer afterward.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the oneness-of-things passage behind the page's emptiness parallel.
+
 ## Sources
 
 - [Nagarjuna, Mulamadhyamakakarika, trans. Stephen Batchelor (Wisdom Library)](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html) — ch. 24; [ch. 15](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79729.html)

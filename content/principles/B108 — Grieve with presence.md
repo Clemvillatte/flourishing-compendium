@@ -25,6 +25,10 @@ You do not have to decide what a loss means for the rest of your life to notice 
 
 *For example:* Imagine missing someone while eating breakfast. You notice their empty chair and remember a meal you shared. You might stay with the memory or tell someone about it; the exercise sets no deadline for feeling better.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the drumming-on-the-tub passage (Zhuangzi 18) behind the page's grief-for-what-passes parallel.
+
 ## Sources
 
 - [Dhammacakkappavattana Sutta (SN 56.11), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — the stress list and the comprehension task

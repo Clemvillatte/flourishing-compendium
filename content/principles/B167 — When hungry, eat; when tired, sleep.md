@@ -24,6 +24,10 @@ The contrast concerns how one takes part in ordinary activities. It does not mak
 
 *For example:* Imagine taking lunch while an unfinished message is open on your phone. You decide to answer after eating and put the phone aside. You may still think about the message; you do not have to keep composing it between bites.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the ziran (self-so) naturalness behind the page's ordinary-mind eating and sleeping.
+
 ## Sources
 
 - [Records of the Transmission of the Lamp 6.92, translated by Randolph S. Whitfield, reproduced at Terebess](https://terebess.hu/zen/huihai-eng1.html): Huihai and Yuan's eating/sleeping dialogue.

@@ -22,6 +22,10 @@ Rumination, in the study's words, is "a maladaptive pattern of self-referential 
 
 *For example:* someone replaying a mistake at work chooses a park route for their planned walk. Afterwards, they notice whether they are still revisiting the mistake.
 
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the nature-as-teacher parallel the page cites for restoration by green and blue space.
+
 ## Sources
 
 - [Bratman, Hamilton, Hahn, Daily & Gross, "Nature experience reduces rumination and subgenual prefrontal cortex activation", PNAS 112(28), 2015 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/) — quotes checked against the article text, Abstract
