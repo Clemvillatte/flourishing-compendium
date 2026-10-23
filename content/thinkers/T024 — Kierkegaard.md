@@ -8,7 +8,7 @@ tags: ["person", "track/philosophy"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKERS"], "alternatePaths": []}
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter K", "parent": ""}
 ---
-Søren Kierkegaard (1813–1855) published The Sickness unto Death (Sygdommen til Døden) in 1849 under the pseudonym Anti-Climacus ([Storm commentary, work listing](https://sorenkierkegaard.org/sickness-unto-death.html)). The Storm commentary page is a commentary with excerpted passages, not a complete scholarly edition; the quotations below are from that page's excerpts.
+Søren Kierkegaard published The Sickness unto Death (Sygdommen til Døden) in 1849 under the pseudonym Anti-Climacus ([Storm commentary, work listing](https://sorenkierkegaard.org/sickness-unto-death.html)). The Storm commentary page is a commentary with excerpted passages, not a complete scholarly edition; the quotations below are from that page's excerpts.
 
 ## Their why
 

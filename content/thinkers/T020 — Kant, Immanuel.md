@@ -12,7 +12,7 @@ Immanuel Kant (April 22, 1724, Königsberg — February 12, 1804) "is the centra
 
 ## Personal story / context
 
-Kant spent his life in Königsberg, the capital of East Prussia, "a major commercial center, an important military port, and a relatively cosmopolitan university town." He taught at the University of Königsberg (the Albertina) from 1755, first as an unsalaried lecturer, later in the chair in logic and metaphysics; "for the next four decades Kant taught philosophy there, until his retirement from teaching in 1796 at the age of seventy-two" ([SEP, Kant](https://plato.stanford.edu/entries/kant/)).
+Kant was born in Königsberg, the capital of East Prussia, "a major commercial center, an important military port, and a relatively cosmopolitan university town." After college he "spent six years as a private tutor to young children outside Königsberg," returning in 1754 and beginning to teach at the University of Königsberg (the Albertina) the following year; "for the next four decades Kant taught philosophy there, until his retirement from teaching in 1796 at the age of seventy-two" ([SEP, Kant](https://plato.stanford.edu/entries/kant/)).
 
 ## Their why
 
@@ -24,7 +24,7 @@ The Groundwork's humanity formulation, quoted in the MIT course PDF of the Abbot
 
 > "So act as to treat humanity, whether in thine own person or in that of any other, in every case as an end withal, never as means only." (Kant, Groundwork of the Metaphysics of Morals, trans. T. K. Abbott, [MIT course asset PDF](https://openlearninglibrary.mit.edu/assets/courseware/v1/d724068ab9d302a3eba40f625520f510/asset-v1:MITx+24.02x+2T2020+type@asset+block@L11_Kant_Groundwork.pdf))
 
-The same passage grounds it: "rational nature exists as an end in itself" ([Groundwork, MIT PDF](https://openlearninglibrary.mit.edu/assets/courseware/v1/d724068ab9d302a3eba40f625520f510/asset-v1:MITx+24.02x+2T2020+type@asset+block@L11_Kant_Groundwork.pdf)). In the political writings, the rule becomes right rather than philanthropy: "The rights of men, as citizens of the world, shall be limited to the conditions of universal hospitality" and "in this sphere hospitality signifies the claim of a stranger entering foreign territory to be treated by its owner without hostility" (Kant, Perpetual Peace, Third Definitive Article, [Gutenberg #50922](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm)).
+The same passage grounds it: "rational nature exists as an end in itself" ([Groundwork, MIT PDF](https://openlearninglibrary.mit.edu/assets/courseware/v1/d724068ab9d302a3eba40f625520f510/asset-v1:MITx+24.02x+2T2020+type@asset+block@L11_Kant_Groundwork.pdf)). In Perpetual Peace, the third definitive article states: "The rights of men, as citizens of the world, shall be limited to the conditions of universal hospitality." The article continues: "We are speaking here, as in the previous articles, not of philanthropy, but of right; and in this sphere hospitality signifies the claim of a stranger entering foreign territory to be treated by its owner without hostility" (Kant, Perpetual Peace, [Gutenberg #50922](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm)).
 
 ## Core ideas
 
