@@ -38,8 +38,8 @@ A week that holds all three trainings lightly: one conversation examined for vie
 - [[Gradual training]] — the path paced for ordinary life
 - [[Phronesis]] — Aristotle: practical wisdom as trained skill
 - [[Right speech]] — the third factor: speech as the practice ground of ethics; the [[Right speech]] concept page returns the link as the training the factor belongs to
-- [[Right intention]] — listed for comparison
-- [[Right view]] — listed for comparison
+- [[Right intention]] — the second factor of the path itself
+- [[Right view]] — the first factor the path begins from
 
 ## Sources
 

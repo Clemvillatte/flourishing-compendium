@@ -38,10 +38,10 @@ Only the opening summary of the chapter was available, so the account of how dis
 
 ## Related concepts
 
-- [[Fusion of horizons]] — listed for comparison
-- [[Hermeneutic circle]] — listed for comparison
-- [[Self-distancing]] — listed for comparison
-- [[Narrative identity]] — listed for comparison
+- [[Fusion of horizons]] — the Gadamerian alternative to keeping the distance
+- [[Hermeneutic circle]] — the interpretive loop distance lets one step out of
+- [[Self-distancing]] — the psychological version of the same stepping-back
+- [[Narrative identity]] — the self-story distance is taken toward
 
 ## Sources
 

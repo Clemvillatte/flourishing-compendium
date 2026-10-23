@@ -21,9 +21,9 @@ The linked principles use "questioning" in several senses, from doubt (K009) to 
 
 ## Related concepts
 
-- [[The question kept alive]] — listed for comparison
-- [[Socratic wisdom]] — listed for comparison
-- [[The question of being (Seinsfrage)]] — listed for comparison
+- [[The question kept alive]] — the practice of not answering too soon
+- [[Socratic wisdom]] — knowing-what-one-does-not-know that questioning trains
+- [[The question of being (Seinsfrage)]] — Heidegger's version of the question that cannot be closed
 
 ## Sources
 

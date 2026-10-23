@@ -33,9 +33,9 @@ TMT treats procrastination as a motivation problem. The compendium's principle [
 
 ## Related concepts
 
-- [[Expectancy-value theory (Eccles, Wigfield)]] — listed for comparison
-- [[Self-efficacy]] — listed for comparison
-- [[Fresh start effect (Dai et al.)]] — listed for comparison
+- [[Expectancy-value theory (Eccles, Wigfield)]] — the expectancy-value core the temporal form extends
+- [[Self-efficacy]] — the expectancy term the theory uses
+- [[Fresh start effect (Dai et al.)]] — the temporal landmarks that reset motivation
 
 ## Sources
 

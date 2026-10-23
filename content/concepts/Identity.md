@@ -39,10 +39,10 @@ These four answers are not rivals on one question. The Ricoeur and Ubuntu readin
 
 ## Related concepts
 
-- [[SE036]] — listed for comparison
-- [[Narrative identity]] — listed for comparison
-- [[Anatta]] — listed for comparison
-- [[Ubuntu]] — listed for comparison
+- [[SE036]] — the principle that identity is revisable
+- [[Narrative identity]] — the story-form an identity takes
+- [[Anatta]] — the Buddhist dissolution of the fixed self
+- [[Ubuntu]] — the relational account where identity is through others
 
 ## Sources
 - [Olson, Personal Identity, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/identity-personal/) — source; quotations verified

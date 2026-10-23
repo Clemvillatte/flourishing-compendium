@@ -40,10 +40,10 @@ The entry does not discuss the Pacific notions of vā that the compendium's prin
 
 ## Related concepts
 
-- [[Dialogue]] — listed for comparison
-- [[Relational ontology]] — listed for comparison
-- [[Intersubjectivity]] — listed for comparison
-- [[Vā]] — listed for comparison
+- [[Dialogue]] — the conversation form the between makes possible
+- [[Relational ontology]] — the metaphysics of relation the between names
+- [[Intersubjectivity]] — the shared-consciousness form of the between
+- [[Vā]] — the Oceanic concept of the relational space itself
 
 ## Sources
 

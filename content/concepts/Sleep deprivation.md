@@ -36,9 +36,9 @@ The principles listed below, among them AT042 (the role of sleep in attention), 
 
 
 
-- [[Sleep architecture (Walker)]] — listed for comparison
-- [[Sleep hygiene (CBT-I)]] — listed for comparison
-- [[Two-process model of sleep]] — listed for comparison
+- [[Sleep architecture (Walker)]] — the structure deprivation dismantles
+- [[Sleep hygiene (CBT-I)]] — the protective routines whose absence shows here
+- [[Two-process model of sleep]] — the homeostatic model deprivation stresses
 - [[BE037]] — the mechanism Goldstein and Walker's review reports: a sleep-deprived brain overreacts to emotionally negative pictures
 - [[BI020]] — brief-nap findings after a night restricted to about five hours
 ## Sources

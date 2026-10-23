@@ -38,9 +38,9 @@ Nothing here shows that the theory describes how work-related communication buil
 
 ## Related concepts
 
-- [[Lazarus and Folkman's Transactional Theory of Stress and Coping]] — listed for comparison
-- [[Authentic communication]] — listed for comparison
-- [[Communication Accommodation Theory]] — listed for comparison
+- [[Lazarus and Folkman's Transactional Theory of Stress and Coping]] — the transactional account the theory generalises from
+- [[Authentic communication]] — the honest-speech ideal the theory serves
+- [[Communication Accommodation Theory]] — the convergence-divergence account of adjusting speech
 
 ## Sources
 
