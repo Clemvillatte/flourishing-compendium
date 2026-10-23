@@ -1,11 +1,7 @@
 {
  "band": "ct4",
- "source_queue": "owner-directed mint 2026-10-23 (supervisor-pplx-18731e82, this session's owner note: 'if there are queued kernels or any items that are not minted, mint them so all agents have work to do'): the 4 owner-pending concept holds left un-minted after the ct2/ct3 completion — queued in queue-concepts.json, not recorded done, not in any band",
- "concepts": [
-  "Situation-sensitivity in self-regulation",
-  "Skepticism about the obvious",
-  "Socioemotional wisdom",
-  "The transformation of consciousness"
- ],
- "holds_note": "These pages carry Category C coined-heading/namespace holds awaiting OWNER disposition (see docs/enrichment/concept-namespace-audit.md and the w1ad/w1af ledgers). Workers: complete enrichment at the current concept bar (Related saturation, quote verification against freshly opened carriers, compendium sections) WITHOUT touching coined headings, page titles, front-matter or the hold disclosures; the holds themselves remain owner items."
+ "status": "RETIRED (2026-10-23) — assignments reverted",
+ "source_queue": "owner-directed mint 2026-10-23 (supervisor-pplx-18731e82), RETIRED same day (supervisor-pplx-1023a): the mint was wrong — these pages carry Category C coined-heading/namespace holds awaiting OWNER disposition and were left un-minted (queued) on purpose.",
+ "concepts": [],
+ "holds_note": "2026-10-23 (supervisor-pplx-8c47a5): the four concept assignments (Situation-sensitivity in self-regulation, Skepticism about the obvious, Socioemotional wisdom, The transformation of consciousness) were removed from this manifest to clear the enrich_apply.py duplicate-assignment preflight blocker; the file is kept (deletion unsupported by the API push channel) with an empty concepts list. The four pages remain queued owner-pending holds (see w1ad/w1af ledgers, docs/enrichment/concept-namespace-audit.md)."
 }

@@ -163,6 +163,16 @@ def main(proposal_names=None, dry_run=False):
                 P = json.load(f)
             if not isinstance(P, dict):
                 raise ValueError(f'{pf}: proposal must be an object')
+            # 2026-10-23 guard (supervisor-pplx-8c47a5): thinker_links.py writes
+            # 'proposed_reciprocal' records (page/thinker/add). This tool cannot
+            # consume that schema — reading it would apply ZERO records and then
+            # archive the file, silently destroying the pending-proposals record.
+            # Refuse with an explicit error instead.
+            if 'proposed_reciprocal' in P:
+                raise ValueError(
+                    f'{pf}: thinker_links-schema proposals (proposed_reciprocal) are '
+                    'not consumable by this tool; convert them to the reciprocal schema '
+                    'with per-page reader-facing why glosses first')
             for kind in ('reciprocal', 'inline'):
                 records = P.get(kind, [])
                 if not isinstance(records, list):
