@@ -122,3 +122,10 @@
 - Seed repairs: the seed's "The discomfort is the training, not the goal" aphorism not carried as a claim; the seed's "Research on stress inoculation shows that controlled exposure to mild stressors builds tolerance for future stress" narrowed to the Meichenbaum material quoted (clinical SIT, honestly scoped as a clinician-delivered intervention that did not evaluate cold showers or self-administered practices). The discomfort menu (cold shower, skipped meal, day without entertainment, walk in the rain) carried from the seed as editorial design, labelled editorial.
 - Guided-version exemption: chosen-discomfort practice, no recording required (self-directed; K203 nap precedent).
 - All 6 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean (the two "session" hits are the SIT material's clinical session counts, legitimate content).
+
+## K279 — Sufficiency testing (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carriers opened: Gutenberg 216 (Legge Daodejing) raw-downloaded — DDJ 33 satisfied-with-his-lot line and DDJ 46 sufficiency-of-contentment passage verbatim; Diener, Lucas & Scollon 2006 American Psychologist abstract via NCBI eutils — the treadmill-model sentence and the individual-differences revision verbatim.
+- Seed repairs: the seed's "Research on the hedonic treadmill shows that people adapt to improvements and raise their expectations, which undermines the well-being gains from achievement" narrowed to the opened 2006 abstract (treadmill model stated, then its revisions quoted — adaptation real but not uniform, set points can change), honestly scoped; "Defining sufficiency in advance creates a brake on the escalation" kept as an explicitly editorial framing, not a research finding.
+- The written-number form labelled editorial. Guided-version exemption: number-written-in-advance practice, no recording required (self-directed; K203 nap precedent).
+- All 6 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
