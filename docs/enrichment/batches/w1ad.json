@@ -39,7 +39,6 @@
   "Spiritual joy",
   "Spiritual vigilance",
   "Stewardship",
-  "Stillness under turbulence",
   "Subitism",
   "Substitution",
   "Survivorship bias",
@@ -67,7 +66,8 @@
   "Self-making",
   "Shamefastness as quasi-virtue",
   "Sisyphus",
-  "Sorrow's fruit"
+  "Sorrow's fruit",
+  "Stillness under turbulence"
  ],
  "in_progress": null,
  "flagged": {
@@ -110,10 +110,11 @@
   "Te Whare Tapa Whā": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
   "Shamefastness as quasi-virtue": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
   "Sisyphus": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
-  "Sorrow's fruit": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar"
+  "Sorrow's fruit": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar",
+  "Stillness under turbulence": "Reopened for QC: prose-short below 150-word bar found in w1ad manifest sweep 2026-10-23; expansion to bar"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:22:33+00:00",
+ "updated": "2026-10-23T06:22:52+00:00",
  "band_done": false
 }
