@@ -1,21 +1,17 @@
 {
  "batch": "t1b",
- "done": [
-  "Marcus Aurelius",
-  "Richard Ryan & Edward Deci",
-  "Steven Hayes",
-  "James Gross",
-  "Confucius",
-  "Viktor Frankl",
-  "Immanuel Kant",
-  "Bandura",
-  "Daniel Kahneman",
-  "Aaron Beck",
-  "Kierkegaard",
-  "Carl Rogers"
- ],
- "in_progress": null,
- "flagged": {},
+ "done": [],
+ "in_progress": "Confucius",
+ "flagged": {
+  "Confucius": "QC round 3 (advisor FAIL): IEP fetch was a prompted extraction not the unprompted article; Yan Yuan and Wei Ling Gong carriers not opened; 7.1 attribution needs explicit IEP-rendering label; Warring States period context check; unused Wei Zheng source line",
+  "Viktor Frankl": "QC round 3 (advisor FAIL): no Frankl carrier opened this session; dates, camps, German title, composition claim all need a real carrier; attitude claim needs Frankl-position framing",
+  "Immanuel Kant": "QC round 3 (advisor FAIL): Groundwork MIT PDF not opened; biography claims unsourced; humanity-to-hospitality interpretation unsupported; aesthetics bullets need evidence",
+  "Bandura": "QC round 3 (advisor FAIL): 1977 PDF and Jonker PMC not opened; Stanford affiliation unsourced; outcome-expectation exclusion overclaim; Bobo-doll/collective-efficacy/moral-disengagement/strongest-source claims unverified",
+  "Daniel Kahneman": "QC round 3 (advisor FAIL): Macmillan excerpt and SAGE record not opened; dates/Nobel/Tversky unsourced; launched-behavioral-economics overclaim; core-idea bullets need evidence",
+  "Aaron Beck": "QC round 3 (advisor FAIL): PubMed record not opened; the predominant-theory quote was converted from concept-page prose, not verified against the review; psychoanalytic history unsourced; one-of-most-studied claim unsupported",
+  "Kierkegaard": "QC round 3 (advisor FAIL): Storm commentary carrier is a commentary not the primary text; translation attribution and locators needed; biography/pseudonym-method/first-existential ranking need sources",
+  "Carl Rogers": "QC round 3 (advisor FAIL): 1957 paper complete condition numbering needs verification (empathy/positive-regard numbers); organismic-valuing and locus-of-evaluation claims need their own support"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
  "updated": "2026-10-23T05:31:31+00:00",
