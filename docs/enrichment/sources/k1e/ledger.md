@@ -85,3 +85,11 @@
 - The seed's "refusal to treat them as conditions of worth" aphorism replaced with the SEP-grounded preferred-indifferents material; the ranking form labelled editorial.
 - Guided-version exemption: list-and-question practice, no recording required (self-directed; K203 nap precedent).
 - All 6 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
+
+## K269 — Assent delay (2026-10-23, worker-pplx-k1e-63e0b1a0)
+
+- Carriers opened: SEP Stoicism entry (already fetched this session) — the Chrysippus cylinder-passage assent sentence and the power-of-assent (sunkatathesis) passage, both verbatim from the opened page; Verbruggen & Logan 2008 TiCS stop-signal review PDF (psy.vanderbilt.edu, already the Response inhibition concept's carrier) raw-downloaded — response-inhibition definition verbatim from the abstract.
+- Seed repair: the seed's "Research on the gap between stimulus and response shows that even brief delays reduce impulsive behaviour" claim was NOT carried — a PubMed search for delay-reduces-impulsivity findings returned no fitting openable record, and the compendium's PMC inhibitory-control review concerns laboratory training tasks; the page honestly states the claim is not carried and scopes the response-inhibition material as the nearest opened evidence. This is a deliberate narrowing, not an omission by oversight.
+- Three-breath count and the two questions follow the seed's editorial design, labelled editorial; the withholding grounded in the SEP assent passages.
+- Guided-version exemption: a pause inside a moment, no recording required (self-directed; K203 nap precedent).
+- All 5 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean (one "opened" caught and reworded before push).
