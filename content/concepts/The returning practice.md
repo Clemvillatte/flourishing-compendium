@@ -7,20 +7,41 @@ file: "The returning practice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The returning practice is this compendium's name for the central move of meditation: noticing that the mind has wandered and returning it — and returning again — until the returning, not the uninterrupted attention, is understood as the practice. The research frame for how much returning there is: in experience sampling across thousands of moments of daily life, people reported mind-wandering 46.9% of the time, and were less happy when wandering than when attending to what they did ([Killingsworth & Gilbert, "A Wandering Mind Is an Unhappy Mind" (2010)](https://pdodds.w3.uvm.edu/files/papers/others/everything/killingsworth2010a.pdf)).
+The returning practice is this compendium's name for the central move of meditation: noticing that the mind has wandered and bringing it back, and doing so again, until the returning rather than unbroken attention is understood as the practice. Wandering is the normal condition. In an experience-sampling study, Killingsworth and Gilbert report that "mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love". They also found that "people were less happy when their minds were wandering than when they were not" (Killingsworth & Gilbert, 2010, [Science, PDF](https://pdodds.w3.uvm.edu/files/papers/others/everything/killingsworth2010a.pdf)).
 
-The mechanism: in the Buddhist account, mindfulness (sati) is precisely the remembering — the return of the mind to its object after absence. The practice runs at two scales: within a sitting, the moment-to-moment return from wandering ([[Sati]]); and across a life, the return to practice after days or weeks away — "begin again" — which the tradition treats as the same gesture, not a failure ([[B177 — Begin again — returning is the practice]]). At both scales the return is done without ceremony — no guilt, no grand restart ([[K243 — The returning practice]]).
+### An old observation
 
-The distinction to hold: the return is not a correction of error. A session with fifty returns is not a bad session; a session with zero returns is not the goal. What is trained is the noticing-and-returning itself, which is why the practice survives bad days by design.
+Buddhist texts noticed the same restlessness long before experience sampling. In the Dhammapada's chapter on the mind, in Acharya Buddharakkhita's translation, it reads:
 
-An example at its smallest: ten minutes, one object, and each drift handled identically — notice, return, no commentary.
+> "As a fish when pulled out of water and cast on land throbs and quivers, even so is this mind agitated." (Dhammapada 34, Buddharakkhita translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html))
 
-Its contemplative home is [[Sati]]; its kin is the equanimity that lets the return be ceremony-free ([[Equanimity]]).
+and, two verses on: "Wonderful, indeed, it is to subdue the mind, so difficult to subdue, ever swift, and seizing whatever it desires. A tamed mind brings happiness." (Dhammapada 35, same translation). The texts treat the mind as a difficult thing to work with, not as a faulty one. The compendium's reading is that the return, repeated without drama, is the training.
+
+### Two scales
+
+Within a sitting, the return is the moment-to-moment coming back from a drift (see [[Sati]]). Across a life, it is the return to practice after days or weeks away. The compendium treats these as the same gesture: [[B177 — Begin again — returning is the practice]]. At both scales the return is plain: no guilt, no grand restart, as in [[K243 — The returning practice]].
+
+### What it is not
+
+It is not correcting an error. A sitting with fifty returns is not a bad sitting, and a sitting with none is not the goal. What gets trained is the noticing and returning, which is why the practice holds on bad days.
+
+### A small case
+
+Ten minutes, one object such as the breath, and each drift handled the same way: notice, return, no commentary. (Illustrative scenario, not a reported case.)
+
+### In the compendium
+
+- [[Sati]] — its contemplative home
+- [[Equanimity]] — the evenness that lets the return be ceremony-free
+- [[AT047 — Learn focused attention meditation — concentration on a single object]] — the formal exercise
+- [[AT039 — Learn to take real breaks — not all breaks are restorative]] and [[K241 — Seasonal redesign]] — returning at the scale of a week or a season
+- [[ST217 — The Morning Preparation]] — a related story entry
 
 ## Sources
 
+- [Killingsworth & Gilbert (2010), A Wandering Mind Is an Unhappy Mind, Science 330](https://pdodds.w3.uvm.edu/files/papers/others/everything/killingsworth2010a.pdf) — the 46.9% figure and the happiness result
+- [Dhammapada, chapter 3 (Cittavagga), Acharya Buddharakkhita translation (Access to Insight)](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html) — verses 34 and 35
 - Buddhist tradition
-
 [[AF051 — Recognise the difference between sadness and depression]]
 [[ST217 — The Morning Preparation]]
 [[K241 — Seasonal redesign]]
@@ -36,6 +57,7 @@ Its contemplative home is [[Sati]]; its kin is the equanimity that lets the retu
 [[V1K-S01.11 — 11. Inquiry, Experimentation, and Process]]
 [[K071 — Return to the marketplace with open hands]]
 [[Y073 — Bind attention to one place]]
+
 ## Cited in philosophy parallels
 
 - [[S133 — Accept that you will fail and return]]
