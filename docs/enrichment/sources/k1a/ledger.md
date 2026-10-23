@@ -566,3 +566,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: the surrounding literature is conceptual and organizational, not experimental on individuals; the productivity claim stated as argued, not measured. No Argyris primary text was opened and none is cited.
 - Mention check run (before this entry): K192 already linked from D073/D080/B065/P049 and K191; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
+
+## K256 — The unity-of-virtue drill (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Huynh, Oakes, Shay & McGregor 2017 (Psychol Sci 28(12):1848-1856), two studies N=623 on pursuit of virtue and wise reasoning, abstract verified raw via NCBI efetch (PMID 28972825); authors read from the efetch header.
+- The blockquote (similar endorsement levels sentence) matches the raw efetch text verbatim.
+- Honesty on page: self-report association with endorsement of strategies, not a trial of the Aristotelian unity thesis; nothing claimed about virtue suppression or real dilemma resolution. Aristotle's own text not opened and not cited.
+- Mention check run (before this entry): K256 already linked from A040/A091/S019 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
