@@ -12,16 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 17** — Practice heedfulness (appamada)
 
-DN 16 records the Buddha's final exhortation to the monks: all compounded things are subject to vanish, so strive with earnestness. (DN 16.) The Dhammapada gives the same word, appamada, its standing: heedfulness is the path to the Deathless, heedlessness the path to death, and the heedless are as if dead already. (Dhammapada 21-22.)
+DN 16 places an appeal to earnest effort at the end of the Buddha's life: compounded things pass away. ([DN 16, part 6, §8](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html)) The Dhammapada gives heedfulness a larger setting than keeping busy. Verses 21–23 connect it with the Deathless and the pursuit of Nibbana; verse 24 joins it to pure conduct, consideration, restraint and righteous living. ([Dhammapada 21–24](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html))
 
 > "Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already." (Dhammapada 21, [Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html))
 
-The compendium uses the exhortation as a prompt to give a chosen commitment deliberate attention.
+> "Behold now, bhikkhus, I exhort you: All compounded things are subject to vanish. Strive with earnestness!" ([DN 16, part 6, §8, Vajira and Story](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html))
+
+The final exhortation is spoken before the Buddha's death. The “Deathless” in the Dhammapada belongs to its account of liberation; the two passages should not be turned into a promise of bodily immortality. ([DN 16, part 6, §§8–9](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html); [Dhammapada 21–23](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html))
 
 **Plain words**
-Choose something you care about sustaining. What would attending to it look like today?
+For an everyday application, think of the difference between caring about a promise and caring for it. The first can remain a feeling; the second involves noticing when the promise needs something from you. Heedfulness asks for that continuing attention. One burst of enthusiasm is not the same thing as tending what you have chosen to protect.
 
-*For example:* You have been postponing a visit to your garden plot. You put a visit on tomorrow's calendar and decide to look at what needs attention.
+For example: You promised to call a relative who lives alone, but each week you leave it to a spare moment. Try agreeing on a time instead. Compare the calls you actually make over the next few weeks with the calls you previously intended to make. Keep the arrangement that helps you honour the promise, and revise it if it repeatedly fails. This modest exercise concerns a commitment; it does not stand in for the Buddhist path to liberation.
 
 ## Sources
 

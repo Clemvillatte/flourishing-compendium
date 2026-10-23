@@ -48,6 +48,15 @@ Opened with fetch on 2026-10-23:
 
 Rewrite: distinguish the sources' scope, explain the anticipation habit through the dishes/tea example, and replace a procedural Plain words block with a fresh explanation. The lunch/note comparison is expressly an editorial experiment, not a full Buddhist practice or an empirically established intervention.
 
+## B017: heedfulness beyond productivity
+
+Opened with fetch on 2026-10-23:
+
+- [Dhammapada 21–24, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html): retained verse 21 quotation; read verses 22–24 for the Nibbana/liberation context and conduct/consideration/restraint.
+- [DN 16, Vajira and Story, part 6, §§7–9](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html): final exhortation quoted verbatim and placed in the account preceding the Buddha's passing.
+
+Rewrite: restore the ethical/liberative scope rather than treating appamada as a generic scheduling prompt. The bodily-immortality boundary is the compendium's interpretive caution supported by reading the two passages together. The promise/call illustration is expressly a modest everyday exercise, not a substitute for the Buddhist path.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.
