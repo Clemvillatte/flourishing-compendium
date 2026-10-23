@@ -105,6 +105,14 @@ format) and set a new standard. Verbatim substance, do not lose it:
   script). CAUTION: hand-polished glosses now live in the markdown of
   record; a rebuild regenerates them from the pages, so sync any manual
   markdown edits into the script's OVERRIDES or they will be lost.
+- CONCURRENT-WORKER CAUTION: the Academy view data lives in the
+  window.fcDossiersData block inside site/assets/app.js. It is GENERATED
+  from the dossier markdown (scripts/dossier_build.py). If your rebase
+  conflicts on app.js, DO NOT resolve it by keeping your side of the
+  fcDossiersData block: take the code side, then regenerate the data from
+  the markdown of record (python3 scripts/dossier_build.py writes
+  markdown AND data together; or re-splice just the data). Two restores
+  were needed on 2026-10-23 because merges kept dropping it.
   Remaining verification gap: live-browser check of the deployed view
   (sticky TOC, vs blocks, card links) was done by asset fetch + DOM-stub
   render test, not a real browser pass.
