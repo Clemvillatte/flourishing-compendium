@@ -7,3 +7,10 @@ four wall-capacity fragments re-verified verbatim against the fetched text; Maso
 attribution confirmed on the same page. New prose (walls-are-one-house paragraph + wairua
 life-force sentence) paraphrases only passages present in the fetched text. Quote/prose
 duplication in the opening removed. Validator ok.
+
+MILESTONE ADVISOR QC (round 3, items 7-13 sample): repairs applied — "the Māori model"
+narrowed to "a Māori health model"; the life-force sentence reworked to the ministry's own
+subject (a person's spiritual essence as their life force); the "carries the argument"/
+"all four walls in view" framing removed (interdependence stated once); paragraph split;
+ministry citation attached to the added factual sentences; Wikipedia URL formatted as a
+descriptive link marked "not verified in this account".

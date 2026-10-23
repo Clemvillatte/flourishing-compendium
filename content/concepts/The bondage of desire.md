@@ -15,15 +15,15 @@ The bondage of desire is the Buddhist picture of tanha as a chain rather than a 
 
 ### What the bondage is
 
-The verse treats craving as something with a root, which is why the compendium pairs the concept with addiction: the loss of control described by the modern principle BE072 is the same hold described here in the image of the flood and the reed. The lotus leaf is the counter-image — a self so shaped that sorrows do not stick.
+The verse treats craving as something with a root, which is why the compendium pairs the concept with addiction: the loss of control BE072 describes can be compared with the hold in the image of the flood and the reed, though the verses picture craving, not a clinical mechanism. The lotus leaf is the counter-image, of sorrows falling away when craving is overcome.
 
 > "Just as a tree, though cut down, sprouts up again if its roots remain uncut and firm, even so, until the craving that lies dormant is rooted out, suffering springs up again and again." (Dhammapada 338, trans. Acharya Buddharakkhita, [AccessToInsight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.24.budd.html))
 
-The bondage is pictured as dormant root stock: the visible behavior can be cut down and the hold survives, which is why the chapter's verb is digging, not trimming.
+The distinction verse 338 draws is that cutting down the tree does not prevent regrowth while its roots remain uncut and firm; the remedy follows from the root, not the branches. Any application to observable behavior is the reader's to draw.
 
 ## Sources
 
-- Dhammapada, chapter 24 (Tanhavagga: Craving), verses 336-337, translated from the Pali by Acharya Buddharakkhita, AccessToInsight: [accesstoinsight.org/tipitaka/kn/dhp/dhp.24.budd.html](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.24.budd.html)
+- Dhammapada, chapter 24 (Tanhavagga: Craving), verses 336-338, translated from the Pali by Acharya Buddharakkhita, AccessToInsight: [accesstoinsight.org/tipitaka/kn/dhp/dhp.24.budd.html](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.24.budd.html)
 
 ## Cited in philosophy parallels
 

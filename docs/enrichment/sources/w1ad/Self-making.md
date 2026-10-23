@@ -8,3 +8,11 @@ dwelleth", "Thou shalt" dragon, the lion limits quote. Repair: "accumulated valu
 thousand years" narrowed to the source's "values of a thousand years" phrasing; "This
 page approaches" self-reference removed; one-spirit-three-stages closing sentence added
 (paraphrase of the chapter's own summary line). Validator ok.
+
+MILESTONE ADVISOR QC (round 3, items 7-13 sample): repairs applied — quotation punctuation
+restored to the source ("dwelleth" fragment closed before my own text; "I will." with the
+source's period; the child passage's final period restored); "one spirit at three stages"
+closer replaced with a distinct sourced detail (the "most formidable assumption for a
+load-bearing and reverent spirit" line); opening reworded to attribute the construct to
+Zarathustra's account; ledger's "Common translation" claim removed (the Gutenberg page
+states no translator credit).

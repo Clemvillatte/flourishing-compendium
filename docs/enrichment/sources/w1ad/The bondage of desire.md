@@ -6,3 +6,10 @@ from AccessToInsight. Pre-existing blockquote re-verified verbatim (verses 336-3
 marked elision covering the intervening salutation sentence). New blockquote (verse 338, the
 tree with uncut roots) verified verbatim against the fetched text; new prose sentence
 (dormant root stock, digging not trimming) follows from verses 337-338. Validator ok.
+
+MILESTONE ADVISOR QC (round 3, items 7-13 sample): repairs applied — the BE072 addiction
+comparison narrowed to a marked comparison (the verses picture craving, not a clinical
+mechanism); "a self so shaped" claim removed (lotus leaf now glossed as sorrows falling
+away when craving is overcome); the "digging, not trimming" aphorism replaced with verse
+338's own distinction, application-to-behavior marked as the reader's; Sources locator
+extended to verses 336-338.
