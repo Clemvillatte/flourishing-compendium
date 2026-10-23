@@ -80,6 +80,15 @@ Opened with fetch on 2026-10-23:
 
 Rewrite: remove the prose/block-quote duplicate benefits list. Make the primary quotation the passage about giving even with little. Re-derive the everyday meaning of use/sharing without treating wealth as a prerequisite, and keep household care visible. The giving-time illustration is a compendium extension and is labelled as such.
 
+## B150: exploitation and a real ability to refuse
+
+Opened with fetch on 2026-10-23:
+
+- [The Five Precepts](https://accesstoinsight.org/ptf/dhamma/sila/pancasila.html): third undertaking.
+- [AN 10.176, Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/an/an10/an10.176.than.html): sexual misconduct list in both unskillful and skillful bodily-action sections; retained quotation matches.
+
+Rewrite: remove the body/quote duplicate list while preserving the historical wording. The contemporary exploitation test is explicitly the compendium's extension, not a claim that the ancient list contains a modern account of consent. Plain words now explains constrained refusal. Replaced the generic moving-house request with a thought experiment about managerial power; it does not instruct readers to experiment on a dependent person.
+
 ## Read-only observations routed to supervisor
 
 These observations concern other bands and are not edits or claims to those bands.
