@@ -359,3 +359,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Ledger correction: the K152 seed file carries no facet row; the Harris 2019 reference came from the handoff's queue description, not the page. Earlier entry's wording corrected here.
 - Mention checks actually run for all five items: K156 (B022, D001, P172, K176, K233, K242, concept page), K140 (B160, D050, D087, K137, K147, P059, NAV-PSYCH-ACT), K152 (B022, B026, Action before feeling, Action commitment, ACT concept), K182 (B026, D018, D060, K176, K185), K196 (B041, D036, D141, P141, V1K-S01 navnode). Existing links cover the neighbours; no new reciprocal proposals needed.
 - Standing change going forward: varied section-intro wording across kernel pages (humanisation note applies to kernels); no unsupported comparatives; no cross-tradition equivalence claims without opened support.
+
+## K275 — Morning premeditation (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Achtziger, Gollwitzer & Sheeran 2008 (PSPB 34(3):381-393), two field experiments (dieting, athletic goals), abstract verified raw via NCBI efetch (PMID 18272806).
+- The blockquote (goal-shielding field experiments sentence pair) matches the raw efetch text verbatim.
+- Opening paragraph's inherited "research shows pre-rehearsing increases..." claim rewritten to the supported association per the K196 repair pattern.
+- Honesty on page: morning rehearsal not tested; Stoic origin not the subject of the research; narrow claim stated.
+- Mention check run: K275 already linked from A039, E013, S119, Premeditatio malorum and Mental simulation research; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
