@@ -18,3 +18,7 @@ psychology parallels" header, the philosophy-parallels links into a clean list; 
 "Stoics" / "Stoics, Epictetus" source stubs and the Laozi fragment lines removed (no
 wikilink markup lost); illustrative fifth-precept example labeled. Front-matter
 untouched. Validator ok.
+
+Post-save fix (this session): the original page had three [[B151]] occurrences (two in body
+prose, one in the tail); the rebuild kept two. A third occurrence added in Related
+concepts so the markup count matches. Validator ok after fix.
