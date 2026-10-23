@@ -28,7 +28,7 @@ What the studies do not test: these are correlations and mediation models on que
 
 ### A guided version
 
-None located; the inventory is a written exercise, and no official guided recording of it exists.
+No official recording exists; the bounded search confirms it. The nearest guided worksheet is the [Responsibility Pie Chart at psychology.com](https://psychology.com/tools/responsibility-pie-chart), a CBT exercise for the exact distortion this inventory counters: it has you list the practical conditions, decisions and missing information behind one stuck outcome, allocate each slice of the pie an estimated contribution, then check whether your own share is really what self-blame first said it was, and finish with one proportionate action within your control.
 
 ## Operationalises
 
