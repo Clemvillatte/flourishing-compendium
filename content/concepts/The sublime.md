@@ -16,6 +16,18 @@ Burke's reason for the "strongest emotion" claim:
 > "I say the strongest emotion, because I am satisfied the ideas of pain are much more powerful than those which enter on the part of pleasure." (Burke, Philosophical Enquiry, Part I, §7, [text](https://www.viscomi.sites.oasis.unc.edu/viscomi/Burke/sublime/I.7.htm))
 
 
+### The condition of distance
+
+The next sentence in the same section sets the limit that makes the idea usable:
+
+> "When danger or pain press too nearly, they are incapable of giving any delight, and are simply terrible; but at certain distances, and with certain modifications, they may be, and they are, delightful, as we every day experience." (Burke, Philosophical Enquiry, Part I, §7, [text](https://www.viscomi.sites.oasis.unc.edu/viscomi/Burke/sublime/I.7.htm))
+
+Burke adds that he will "endeavour to investigate hereafter" the cause. The passage is a claim about experience, not a laboratory result, and Burke offers it as something "we every day experience". For a reader interested in flourishing, the lesson is conditional: vastness, danger and the terrible can lift attention when held at a distance, and they simply overwhelm when they press too close.
+
+### What it is not
+
+Burke's passage is not a recommendation to seek danger. This page quotes one section of the Enquiry and does not survey Kant's later account.
+
 ## Facets
 
 - **and beautiful** — Burke; Kant, Critique of Judgement
