@@ -255,7 +255,17 @@
      "note": ""
     }
    ]
+  },
+  "s1f-010": {
+   "status": "researching",
+   "angle": "next rung-3 candidate: find a principle with one story where a second angle is well-documented",
+   "history": [
+    {
+     "t": "2026-10-23T06:37:30+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-23T06:37:21+00:00"
+ "updated": "2026-10-23T06:37:30+00:00"
 }
