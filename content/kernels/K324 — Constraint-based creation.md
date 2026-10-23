@@ -10,11 +10,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K324** — Constraint-based creation
 
-Choose a creative task and impose a constraint: write in 100 words, draw in one colour, cook with three ingredients, solve a problem in one hour. The constraint is not a limitation. It is a generative structure: in experiments on a common writing task, constrained versions came out more creative, and the effect carried over to later unconstrained work on the same task.
+Choose a creative task and impose a constraint: write in 100 words, draw in one colour, cook with three ingredients, solve a problem in one hour. A constraint can provide a starting structure: in experiments with two-line rhymes, constrained versions were rated more creative, and order effects suggested a carryover to later unconstrained rhymes.
 
 ### The idea
 
-The kernel takes its shape from a children's book. Dr. Seuss wrote Green Eggs and Ham "in response to a challenge from his publisher: Write a compelling children's story using the same 50 words or less" ([Haught-Tromp 2017](https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf)); the article offers the book as its illustration of a constraint doing generative work. The composer Stravinsky made the same point from the other direction: "the more art is controlled, limited, worked over, the more it is free" (Stravinsky 1956, quoted in the same article). A blank page offers infinite possibility, and the first move is usually the familiar one; a constraint closes the familiar path and turns the search elsewhere.
+Haught-Tromp illustrates the idea with Green Eggs and Ham. Dr. Seuss wrote it "in response to a challenge from his publisher: Write a compelling children's story using the same 50 words or less" ([Haught-Tromp 2017](https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf)); the article offers the book as its illustration of a constraint doing generative work. The composer Stravinsky made the same point from the other direction: "the more art is controlled, limited, worked over, the more it is free" (Stravinsky 1956, quoted in the same article). A blank page offers infinite possibility, and the first move is usually the familiar one; a constraint closes the familiar path and turns the search elsewhere.
 
 ### Protocol
 
@@ -28,11 +28,11 @@ The steps are this practice's own exercise. The practice moves Cognition, where 
 
 ### A guided version
 
-The drill is self-directed, a making task done alone; no guided recording of it exists.
+This version is designed for self-directed creative work.
 
 ### Evidence
 
-Two experiments tested the hypothesis directly. Participants wrote two-line rhymes for occasions such as birthdays and thank-yous; in the first study each rhyme had to include a given noun, and in the second study, nouns the participants had generated themselves:
+Two experiments tested the hypothesis directly. Participants wrote two-line rhymes for occasions such as birthdays and thank-yous; in the constrained conditions, the first study's rhymes had to include a given noun and the second study's, nouns the participants had generated themselves:
 
 > "Both studies show a main effect of constraints on creativity and an interaction with order of presentation, which suggests a carryover effect: Mere practice with constraints can stimulate creativity" ([Haught-Tromp 2017](https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf)).
 

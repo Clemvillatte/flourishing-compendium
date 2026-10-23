@@ -35,7 +35,7 @@ The steps are this practice's own exercise, not Linji's instructions. The practi
 
 ### A guided version
 
-The drill is self-directed, an argument written for oneself; no guided recording of it exists.
+This version is designed for self-directed writing.
 
 ### Evidence
 
