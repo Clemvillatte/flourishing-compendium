@@ -1,6 +1,6 @@
 # p1r source and QC ledger: worker-p1r-e3324a34
 
-Role taken after releasing p1s; task P087 only. Session UTC start remains 2026-10-23T12:15:27Z.
+Role taken after releasing p1s; repairs cover P087, P081, P083, P071 and P079. Session UTC start remains 2026-10-23T12:15:27Z.
 
 ## P087: effective freedom and the correct Dewey locator
 
@@ -43,3 +43,15 @@ Repair: specify that the opening discussion of highly flexible impulses concerns
 Read [Dewey, Human Nature and Conduct, part III, section VI, “The Nature of Aims”](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm), printed pp. 225, 228 and 229, from the full fetch already opened. All three retained quotations verified with line wrapping and the inserted page marker removed. Added exact printed locators in a new source entry while retaining the original carrier.
 
 Short taper repair: replace a procedure-only Plain words with an explanation of why the favoured outcome cannot exclude other effects from consideration. The friend/business example now compares drafts, not experimental deception; review concerns actual outcomes, not a promise of better results.
+
+## Combined verification and scope
+
+Seventeen repaired principles across the two successively held bands passed the validator against session baseline `70d22b3007cf39ea6a4734cec92b152058c9450d`: 17 checked, zero failures. The repository build succeeded with 5,888 entries. Protected frontmatter, principle statements, reflections, original wikilink markup and inherited external targets were retained. Remaining validator notices concern absent or short Related concepts sections, not hard errors.
+
+Prose words: B012 252; B017 222; B030 220; B049 243; B078 237; B096 168; B113 246; B114 221; B126 248; B141 238; B150 222; B165 209; P071 221; P079 219; P081 193; P083 210; P087 252. Every repaired body is within the 40–300 range.
+
+The 31 complete quoted body blocks match text in previously opened fetch carriers after explicit normalization of whitespace, Markdown presentation, typographic quotation marks and inserted Gutenberg page labels. The two initially unmatched carriers were rechecked directly: James's emphasis markup around the “Begin with” sentence, and nested blockquote markup plus internal quotation styling in the dishes excerpt. Shantideva's multiline verse was checked as one continuous quotation. This check supplements the locator and interpretive checks above; it does not certify untouched protected parallels or reflections.
+
+Final humanizer cleanup removed unnecessary defensive study disclaimers from the clearly illustrative P081 and P083 exercises. Neither example is presented as an empirical finding.
+
+Independent review limits remain as recorded in the p1s ledger. The ten-item milestone advisor attempt stopped with a credits-exhausted failure and is not counted as a pass. Later main-worker checks, including the complete-quotation comparison and baseline validator, are not being misrepresented as independent QC. Cross-band B022/B160/D148/D174 flags remain for the supervisor; P087's former locator flag has now been repaired under the p1r baton. B096's immutable title still uses “faculty” where the checked SN 46.51 passage concerns an awakening factor.
