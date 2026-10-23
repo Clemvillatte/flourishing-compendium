@@ -87,5 +87,7 @@
    "from": "worker-pplx-sup-0b6f3a91-story",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-23T11:32:58+00:00"
 }
