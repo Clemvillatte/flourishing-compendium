@@ -759,3 +759,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Honesty on page: matched not randomized, authors' own uncontrolled-factors caveat included, incarcerated-meetings null stated, and the "improves outcomes for both parties" claim scoped to what the abstract reports.
 - Mention check run (before this entry): K338 already linked from A023/A063/S011/R005/R065 practice lists; no new reciprocal proposals needed.
 - Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets). "Sessions" appears only inside the study's own title.
+
+## K332 — Life chapter mapping (done 2026-10-23, worker-pplx-k1a-a8dec1a8)
+
+- Carrier opened this session: Rogers, Chicas, Kelly, Kubin, Christian, Kachanoff, Berger, Puryear, McAdams & Gray 2023 (J Pers Soc Psychol 125(4):752-778), eight studies on the Hero's Journey template and meaning in life, abstract verified raw via NCBI efetch (PMID 36972106); authors read from the efetch header.
+- The blockquote (eight studies sentence) matches the raw efetch text verbatim.
+- Honesty on page: Hero's Journey template, not chapter mapping; outcome is meaning in life, not well-being or generativity; the seed's McAdams attribution kept as the theory's name with the measured outcome scoped honestly; McAdams's own primary text not opened and not cited.
+- Mention check run (before this entry): K332 already linked from E008/E012/A001/S130 practice lists; no new reciprocal proposals needed.
+- Validator: 1 checked, 0 failed (front matter and all seed links preserved; Operationalises reflowed to bullets).
