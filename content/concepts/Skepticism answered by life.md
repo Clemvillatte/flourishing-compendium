@@ -38,13 +38,13 @@ He also does not end in dogmatism. Paragraph 129 recommends a "mitigated" scepti
 
 ## Related concepts
 
-- [[Doubt as method]] — listed for comparison
-- [[Genuine doubt]] — listed for comparison
-- [[Skepticism about the obvious]] — listed for comparison
-- [[The great doubt]] — listed for comparison
-- [[Ataraxia]] — listed for comparison
-- [[The self-evident]] — listed for comparison
-- [[Adequate idea]] — listed for comparison
+- [[Doubt as method]] — doubt turned into an instrument
+- [[Genuine doubt]] — Peirce's test of real doubt
+- [[Skepticism about the obvious]] — the page's own concept, applied to what looks self-evident
+- [[The great doubt]] — the Zen intensification of the same questioning
+- [[Ataraxia]] — the tranquility the skepticism was for
+- [[The self-evident]] — what the question is aimed at
+- [[Adequate idea]] — Spinoza's answer to what clears doubt
 
 ## Sources
 

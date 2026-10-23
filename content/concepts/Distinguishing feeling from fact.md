@@ -23,18 +23,18 @@ The compendium applies the things/judgements distinction to feeling and its inte
 - [[AF043 — Learn to observe feelings without identification — you are not your affect]] — watching the feeling instead of being it
 - [[AF002 — Distinguish the feeling from its interpretation]] — the practical core of the distinction
 - [[AF040 — Distinguish accepting a feeling from accepting a circumstance]] — the feeling/circumstance boundary
-- [[AF045 — Learn to let affect pass — feelings are impermanent]] — listed for comparison
+- [[AF045 — Learn to let affect pass — feelings are impermanent]] — the impermanence that makes the distinction safe
 - [[CO034 — Understand the affect heuristic — feelings substitute for reasoning]] — the feeling standing in for the judgment
-- [[CO075 — Recognise moral cognition — intuition comes first, reasoning second]] — listed for comparison
-- [[Y089 — Separate the seer from the seen daily]] — listed for comparison
-- [[Y013 — Work with the field and the witness]] — listed for comparison
+- [[CO075 — Recognise moral cognition — intuition comes first, reasoning second]] — the intuition-first principle the distinction respects
+- [[Y089 — Separate the seer from the seen daily]] — the daily seer-seen practice
+- [[Y013 — Work with the field and the witness]] — the field-and-witness framing
 
 ## Related concepts
 
-- [[Distinguishing appearance from reality]] — listed for comparison
+- [[Distinguishing appearance from reality]] — the perception-side sibling of the same discipline
 - [[The observing self]] — the vantage point the check is run from
 - [[Affect heuristic]] — the substitution the check catches
-- [[Cognitive distortions]] — listed for comparison
+- [[Cognitive distortions]] — the feeling-driven thinking errors the distinction unmasks
 
 ## Sources
 

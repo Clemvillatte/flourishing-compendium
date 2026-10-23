@@ -20,14 +20,14 @@ The compendium pairs the Republic's images with Stoic impressions and with the c
 ### In the compendium
 
 - [[S047 — See impressions as what they are — appearances, not realities]] — the Stoic version of the check
-- [[CO058 — Understand flashbulb memories — vividness is not accuracy]] — listed for comparison
-- [[CO017 — Recognise the availability heuristic — vividness is mistaken for frequency]] — listed for comparison
-- [[CO035 — Recognise the representativeness heuristic — similarity is mistaken for probability]] — listed for comparison
+- [[CO058 — Understand flashbulb memories — vividness is not accuracy]] — the vividness-is-not-truth principle
+- [[CO017 — Recognise the availability heuristic — vividness is mistaken for frequency]] — vividness mistaken for frequency
+- [[CO035 — Recognise the representativeness heuristic — similarity is mistaken for probability]] — similarity mistaken for probability
 - [[AT001 — Understand that attention is selective — you cannot attend to everything]] — what reaches you is already selected
-- [[SE072 — Recognise self and depression — depression distorts self-view]] — listed for comparison
-- [[AT071 — Recognise depression's effect on attention — negative bias and rumination]] — listed for comparison
-- [[CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking]] — listed for comparison
-- [[CO051 — Recognise cognitive distortions — learn the common patterns]] — listed for comparison
+- [[SE072 — Recognise self and depression — depression distorts self-view]] — the mood that distorts the appearance of self
+- [[AT071 — Recognise depression's effect on attention — negative bias and rumination]] — the attention-side distortion
+- [[CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking]] — clinical thinking effects on the same appearance
+- [[CO051 — Recognise cognitive distortions — learn the common patterns]] — the distortion patterns themselves
 
 ## Related concepts
 

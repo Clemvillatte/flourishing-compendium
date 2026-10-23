@@ -17,15 +17,15 @@ The compendium applies the simile as an analogy to the practice/theory distincti
 
 ### In the compendium
 
-- [[BI011 — Know that polyvagal theory is popular but contested — practices may work without the theory]] — listed for comparison
+- [[BI011 — Know that polyvagal theory is popular but contested — practices may work without the theory]] — the principle of practices outliving their theories
 - [[SE068 — Recognise the limits of self-development — not everything is fixable]] — a fact the practice has to face rather than theorize away
-- [[MO018 — Recognise the difference between needs and wants — not all desires are equal]] — listed for comparison
-- [[K271 — The is this up to me check]] — listed for comparison
-- [[SE002 — Recognise the observing self — you are not only the contents of awareness]] — listed for comparison
-- [[AF043 — Learn to observe feelings without identification — you are not your affect]] — listed for comparison
-- [[AF040 — Distinguish accepting a feeling from accepting a circumstance]] — listed for comparison
-- [[A064 — Know the three kinds of friendship]] — listed for comparison
-- [[CO051 — Recognise cognitive distortions — learn the common patterns]] — listed for comparison
+- [[MO018 — Recognise the difference between needs and wants — not all desires are equal]] — the sorting discipline this page's distinction trains
+- [[K271 — The is this up to me check]] — the kernel that applies the sorting
+- [[SE002 — Recognise the observing self — you are not only the contents of awareness]] — the observing-self principle
+- [[AF043 — Learn to observe feelings without identification — you are not your affect]] — the non-identification practice
+- [[AF040 — Distinguish accepting a feeling from accepting a circumstance]] — the acceptance-side distinction
+- [[A064 — Know the three kinds of friendship]] — Aristotle's other taxonomy of worth
+- [[CO051 — Recognise cognitive distortions — learn the common patterns]] — the distorted-thinking patterns the sorting catches
 
 ## Related concepts
 
