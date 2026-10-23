@@ -31,7 +31,7 @@ Two empirical carriers place everyday aesthetic attention in ordinary life. Firs
 
 ### A guided version
 
-None located; the practice is unguided by design.
+The bounded search found one, overturning the earlier verdict: the Des Moines Art Center's [Being With Art](https://desmoinesartcenter.org/art/resources/being-with-art/) is a 20-minute guided audio tour grounded in mindfulness and slow-looking, using gentle prompts to experience a work with new awareness. In the same family, [MoMA's Slow Looking itineraries](https://www.moma.org/visit/itineraries/slow-looking) walk one artwork in guided prompts (trace a brushstroke, notice what arises, find a breath cadence with the work as guide), and the National Gallery Singapore has studied its own guided Slow Art audio episodes (16 to 18 minutes each) for wellbeing.
 
 ## Operationalises
 
