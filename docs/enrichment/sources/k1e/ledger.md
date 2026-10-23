@@ -41,3 +41,7 @@
 - Evidence follows the K208 primary-text pattern: states plainly that no study tests a particulars-first protocol. The two-minute timing labelled editorial. The seed's "A rule applied without attention to the particular is not virtue but mechanism" aphorism not carried verbatim (rephrased as a reader-facing sentence grounded in the VII.3 diagnosis).
 - Guided-version exemption: written-description practice, no recording required (self-directed; K203 nap precedent).
 - All 5 original Operationalises wikilinks preserved (dense line reformatted to K100-model bullets, zero link changes). Validator ok, 0 failed. Customer-facing grep clean.
+
+## K260 QC (2026-10-23, same session)
+
+- Item written and validated but held QC-PENDING: advisor milestone round (items 2-6) returned repairs for K260 (editorial-prompt vs tested-manipulation separation, framework-translation overstatement, step-6 measurement claim, 2017 quote verification incl. the "a person problem" reading, bounded no-study claim) plus batch findings on K253 (quote continuation), K259 (protocol attribution, VI.8 locator), K251 (Seligman passage verification, "validated" overstatement) and K258 (mechanism overstatement). Repairs in flight in manifest order; this entry will be closed when they land.
