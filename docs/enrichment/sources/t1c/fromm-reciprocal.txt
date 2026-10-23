@@ -1,0 +1,298 @@
+{
+  "proposed_reciprocal": [
+    {
+      "page": "content/principles/A016 \u2014 Practice proper ambition (philotimia).md",
+      "id": "A016",
+      "title": "Practice proper ambition (philotimia)",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A024 \u2014 Practice liberality with your resources.md",
+      "id": "A024",
+      "title": "Practice liberality with your resources",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A079 \u2014 Do not demonise pleasure.md",
+      "id": "A079",
+      "title": "Do not demonise pleasure",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A082 \u2014 Distinguish good pleasures from bad pleasures.md",
+      "id": "A082",
+      "title": "Distinguish good pleasures from bad pleasures",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/A093 \u2014 Take proper pleasure in the right things.md",
+      "id": "A093",
+      "title": "Take proper pleasure in the right things",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B025 \u2014 Practice right livelihood.md",
+      "id": "B025",
+      "title": "Practice right livelihood",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B073 \u2014 Hold experience loosely (non-attachment).md",
+      "id": "B073",
+      "title": "Hold experience loosely (non-attachment)",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/B110 \u2014 Distinguish need from craving.md",
+      "id": "B110",
+      "title": "Distinguish need from craving",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D025 \u2014 Feed the belly, not the eye.md",
+      "id": "D025",
+      "title": "Feed the belly, not the eye",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D028 \u2014 Hoarding invites loss.md",
+      "id": "D028",
+      "title": "Hoarding invites loss",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D063 \u2014 Help without meddling.md",
+      "id": "D063",
+      "title": "Help without meddling",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D085 \u2014 Prefer humble freedom to gilded captivity.md",
+      "id": "D085",
+      "title": "Prefer humble freedom to gilded captivity",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D094 \u2014 Don't exhaust yourself for what you don't need.md",
+      "id": "D094",
+      "title": "Don't exhaust yourself for what you don't need",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D104 \u2014 Love without possessing.md",
+      "id": "D104",
+      "title": "Love without possessing",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/D133 \u2014 Don't dominate \u2014 the world can't be controlled.md",
+      "id": "D133",
+      "title": "Don't dominate: the world can't be controlled",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S021 \u2014 Do not desire externals as if they were permanent.md",
+      "id": "S021",
+      "title": "Do not desire externals as if they were permanent",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S078 \u2014 Do not let others' opinions govern you.md",
+      "id": "S078",
+      "title": "Do not let others' opinions govern you",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S083 \u2014 Do not compare yourself to others.md",
+      "id": "S083",
+      "title": "Do not compare yourself to others",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S097 \u2014 Recognise that fame after death is meaningless.md",
+      "id": "S097",
+      "title": "Recognise that fame after death is meaningless",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S109 \u2014 Handle wealth without attachment.md",
+      "id": "S109",
+      "title": "Handle wealth without attachment",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/S112 \u2014 Handle fame without vanity.md",
+      "id": "S112",
+      "title": "Handle fame without vanity",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SP019 \u2014 Diagnose ambition and the hunger for esteem.md",
+      "id": "SP019",
+      "title": "Diagnose ambition and the hunger for esteem",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/principles/SP041 \u2014 Respect fame as the most dangerous of the three.md",
+      "id": "SP041",
+      "title": "Respect fame as the most dangerous of the three",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Bad faith.md",
+      "id": "Bad faith",
+      "title": "Bad faith",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Conformity.md",
+      "id": "Conformity",
+      "title": "Conformity",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Domination critique.md",
+      "id": "Domination critique",
+      "title": "Domination critique",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Escape from freedom.md",
+      "id": "Escape from freedom",
+      "title": "Escape from freedom",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Freedom.md",
+      "id": "Freedom",
+      "title": "Freedom",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Harm principle.md",
+      "id": "Harm principle",
+      "title": "Harm principle",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Loneliness.md",
+      "id": "Loneliness",
+      "title": "Loneliness",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Love.md",
+      "id": "Love",
+      "title": "Love",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Natural and necessary.md",
+      "id": "Natural and necessary",
+      "title": "Natural and necessary",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Natural liberty versus the chains.md",
+      "id": "Natural liberty versus the chains",
+      "title": "Natural liberty versus the chains",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Obedience research.md",
+      "id": "Obedience research",
+      "title": "Obedience research",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Radical freedom.md",
+      "id": "Radical freedom",
+      "title": "Radical freedom",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/Relational psychoanalysis.md",
+      "id": "Relational psychoanalysis",
+      "title": "Relational psychoanalysis",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The approval trap.md",
+      "id": "The approval trap",
+      "title": "The approval trap",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The dizziness of freedom.md",
+      "id": "The dizziness of freedom",
+      "title": "The dizziness of freedom",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The having mode.md",
+      "id": "The having mode",
+      "title": "The having mode",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The interdependence of freedoms.md",
+      "id": "The interdependence of freedoms",
+      "title": "The interdependence of freedoms",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The need to belong.md",
+      "id": "The need to belong",
+      "title": "The need to belong",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    },
+    {
+      "page": "content/concepts/The overman (\u00dcbermensch).md",
+      "id": "The overman (\u00dcbermensch)",
+      "title": "The overman (\u00dcbermensch)",
+      "thinker": "T030",
+      "add": "Add thinker wikilink in Related/See-also"
+    }
+  ]
+}
