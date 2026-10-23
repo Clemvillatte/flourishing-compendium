@@ -13,15 +13,17 @@ legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "cha
 
 ## Personal story / context
 
-Born on August 12, 1948, Hayes received his B.A. in psychology from Loyola Marymount University and his M.A. and Ph.D. in clinical psychology from West Virginia University; he then taught at the University of North Carolina at Greensboro before moving to the University of Nevada, Reno in 1986, where he remains Nevada Foundation Professor in the Department of Psychology ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)).
+Born on August 12, 1948, Hayes took his B.A. at Loyola Marymount University and his M.A. and Ph.D. in clinical psychology at West Virginia University, interned under David Barlow at Brown, taught at the University of North Carolina at Greensboro, and in 1986 moved to the University of Nevada, Reno, where he remains Nevada Foundation Professor ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)). The turn in his life came early in his faculty years. In his own account:
+
+> "I had a panic disorder. At the height of it, my life shrank until I could not travel, get on an elevator, drive, go to a movie, get on a plane, or even talk on the phone without a tremendous struggle. It was clear to me that I had a choice: I could either lose my life as I knew it or I could learn to step forward into my fear." ([New Harbinger interview, 2006](https://contextualscience.org/new_harbingers_interview_steve_hayes_2006))
 
 ## Their why
 
-Hayes's psychotherapy program begins from a philosophical position rather than a clinical one: functional contextualism, the behavior-analytic philosophy of science that underlies Acceptance and Commitment Therapy. Therapy, on this view, is not about correcting the content of thought; it is about changing the workability of behaviour relative to a stated goal.
+The panic began in a faculty meeting and grew into what he calls "a three-year-long struggle" ([Carlat interview, 2026](https://www.thecarlatreport.com/blogs/2-the-carlat-psychiatry-podcast/post/5840-wounded-healers-steve-hayes-from-panic-to-act)). Trying to prevent the next attack, he found himself "doing all the things that make it worse", "turning anxiety into something to be anxious about, so you get a self-amplifying loop" ([Carlat interview, 2026](https://www.thecarlatreport.com/blogs/2-the-carlat-psychiatry-podcast/post/5840-wounded-healers-steve-hayes-from-panic-to-act)). The turn was a decision rather than a technique: "I made a choice to stop running away, instead running towards" ([Carlat interview, 2026](https://www.thecarlatreport.com/blogs/2-the-carlat-psychiatry-podcast/post/5840-wounded-healers-steve-hayes-from-panic-to-act)). ACT rests on functional contextualism: therapy is not about correcting the content of thought but about the workability of behaviour relative to a goal.
 
 ## Their position
 
-ACT, the clinical application, is built around psychological flexibility rather than symptom removal. RFT, the research program under the clinical one, gives an account of human language and higher cognition as learned, arbitrarily applicable relational responding. Hayes is also a co-developer of process-based therapy, an idiographic approach that combines insights from evolution theory and complex network theory to target the processes underlying effective treatments ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)).
+ACT, the clinical application, is built around psychological flexibility rather than symptom removal; he calls it "my personal journey—it’s how I faced anxiety" ([New Harbinger interview, 2006](https://contextualscience.org/new_harbingers_interview_steve_hayes_2006)). RFT, the research program under the clinical one, gives an account of human language and higher cognition as learned, arbitrarily applicable relational responding. Hayes is also a co-developer of process-based therapy, an idiographic approach that combines insights from evolution theory and complex network theory to target the processes underlying effective treatments ([Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)).
 
 ## Core ideas
 
@@ -102,6 +104,8 @@ Kept to the pages that carry or substantively apply Hayes's work — the ACT/CBS
 
 ## Sources
 
-- [Wikipedia, "Steven C. Hayes"](https://en.wikipedia.org/wiki/Steven_C._Hayes) — the biographical spine: birth year, education, appointments, the ACT and RFT research tallies, process-based therapy description, book list.
+- [Wikipedia, "Steven C. Hayes"](https://en.wikipedia.org/wiki/Steven_C._Hayes) — the biographical spine: birth year, education, internship under Barlow, appointments, the ACT and RFT research tallies, process-based therapy description, book list.
+- [New Harbinger interview with Steve Hayes (2006)](https://contextualscience.org/new_harbingers_interview_steve_hayes_2006) — the panic-disorder account quoted in Personal story and the "personal journey" line quoted in Their position.
+- [Carlat Psychiatry Podcast, "Wounded Healers: Steve Hayes, from Panic to ACT" (2026)](https://www.thecarlatreport.com/blogs/2-the-carlat-psychiatry-podcast/post/5840-wounded-healers-steve-hayes-from-panic-to-act) — the three-year struggle, the self-amplifying loop and the running-towards decision quoted in Their why.
 - [Hayes, Pistorello and Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 2012, p. 979 (APA-hosted PDF)](https://www.apa.org/education-career/ce/acceptance-commitment.pdf) — the functional-contextualism definition carried from the compendium's Functional contextualism page; not quoted on this page.
 - [Hayes, Barnes-Holmes & Wilson (2012), "Contextual Behavioral Science: Creating a science more adequate to the challenge of the human condition", Journal of Contextual Behavioral Science 1(1-2):1-17 (author copy, Maynooth University eprints)](https://mural.maynoothuniversity.ie/id/eprint/5020/1/DBH_Contextual%20behaviour.pdf) — the published CBS definition quoted above.

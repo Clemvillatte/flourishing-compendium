@@ -18,7 +18,7 @@ Marcus Aurelius Antoninus was born on April 26, A.D. 121; his real name was M. A
 
 > "Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it." — Meditations II.1 ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt))
 
-The note he wrote to himself at the opening of Book II is a nudge against postponement. He counted the days already lost to delay and treated each morning as a fixed appointment with his own soul — one he had missed too often. The book's introduction notes that he "extenuates nothing, but nothing sets down in malice" ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)).
+The note he wrote to himself at the opening of Book II is a rebuke to postponement: he counts the days already put off and the appointed hours neglected. The book's introduction notes that he "extenuates nothing, but nothing sets down in malice" ([Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)).
 
 ## Their position
 

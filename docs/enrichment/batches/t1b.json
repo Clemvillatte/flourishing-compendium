@@ -11,9 +11,10 @@
   "Marcus Aurelius",
   "Richard Ryan & Edward Deci",
   "James Gross",
-  "Carl Rogers"
+  "Carl Rogers",
+  "Steven Hayes"
  ],
- "in_progress": "Steven Hayes",
+ "in_progress": null,
  "flagged": {
   "Confucius": "QC round 4 (advisor): retained IEP quotes need verification against an unprompted fetch; CText quotes dropped is sound; keep Spring/Autumn distinction [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
   "Viktor Frankl": "QC round 4 (advisor): \"theory places meaning where Freud placed pleasure and Adler power\" unsupported by the opened Wikipedia page — verify or remove; remove repair narration sentence [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
@@ -30,6 +31,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T06:44:07+00:00",
+ "updated": "2026-10-23T11:32:00+00:00",
  "band_done": false
 }
