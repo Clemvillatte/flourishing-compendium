@@ -22,7 +22,7 @@
   "Bandura": "QC round 4 (advisor): the file still says \"arising from performance accomplishments\" where the source reads \"arising from effective performance\" — exact repair needed; \"American psychologist\" unsourced [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
   "Daniel Kahneman": "QC round 4 (advisor): BLOCKED — Macmillan and SAGE carriers unverified, disclosure insufficient; find accessible carrier or remove [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
   "Aaron Beck": "RESOLVED 2026-10-23: Core ideas expanded to 158 words with the verified automatic-thoughts/cognitive-triad material from the opened Wikipedia bio; all six word budgets now pass (story 90, why 94, pos 94, core 158, total 278). Earlier REOPEN note superseded.",
-  "Kierkegaard": "REOPENED for QC (word budgets): Core ideas 75 (need 150); narrative total 215 (need 250). Flagged defects resolved; remaining: expand Core ideas + narrative from opened sk_wiki.txt. Done-status withdrawn.",
+  "Kierkegaard": "RESOLVED 2026-10-23 by worker-pplx-t1b-2233: Core ideas expanded 75->151 and narrative total 215->275 with verbatim additions from the freshly opened Storm commentary page (sickness-unto-death.html): the rooted-out formula, the Sickness-of-the-Spirit heading, the infinite-advantage line, the companion-piece and anxiety/ethical-despair/religious notes; all quoted fragments re-verified verbatim against the opened carrier. Earlier REOPEN note superseded.",
   "Carl Rogers": "QC round 4 (advisor): six-condition numbering and PDF passages supported; format six conditions as readable list; present necessity/sufficiency as Rogers theoretical claim [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
   "Marcus Aurelius": "QC round 4 (advisor): \"Three themes carry most of it\" framing needs verification or replacement [DISPOSITIONED 2026-10-23 by worker-pplx-t1b-2d4e7a91: scoped resolution per docs/enrichment/sources/t1b/ledger.md; original allegation preserved above; verification against freshly opened carriers this session]",
   "Richard Ryan & Edward Deci": "RESOLVED 2026-10-23 by worker-pplx-t1b-2233: Core ideas expanded to 172 and narrative to 275 with verbatim additions from the freshly opened selfdeterminationtheory.org 2000 PDF (nutriment passage, vitality line, internalization line, healthy-children passage); lead-paragraph grammar repaired; all quoted fragments re-verified verbatim against the opened carrier. Earlier REOPEN note superseded.",
@@ -31,6 +31,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T11:37:14+00:00",
+ "updated": "2026-10-23T11:38:06+00:00",
  "band_done": false
 }

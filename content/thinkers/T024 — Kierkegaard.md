@@ -16,7 +16,7 @@ Kierkegaard lived almost his whole life in Copenhagen. He wrote critical texts o
 
 ## Their why
 
-The book defines what a self is before it names how the self can go wrong. From the excerpted opening: "A human being is a synthesis of the infinite and the finite, of the temporal and the eternal, of freedom and necessity, in short, a synthesis. A synthesis is a relation between two. Considered in this way a human being is still not a self...." ([Storm commentary excerpt](https://sorenkierkegaard.org/sickness-unto-death.html)).
+The book defines what a self is before it names how the self can go wrong. From the excerpted opening: "A human being is a synthesis of the infinite and the finite, of the temporal and the eternal, of freedom and necessity, in short, a synthesis. A synthesis is a relation between two. Considered in this way a human being is still not a self...." ([Storm commentary excerpt](https://sorenkierkegaard.org/sickness-unto-death.html)). The same opening makes the capacity itself an advantage: "to be able to despair is an infinite advantage" ([Storm commentary excerpt](https://sorenkierkegaard.org/sickness-unto-death.html)).
 
 ## Their position
 
@@ -24,14 +24,14 @@ The misrelation is stated technically:
 
 > "Despair is the misrelation in the relation of a synthesis that relates itself to itself. But the synthesis is not the misrelation; it is merely the possibility, or in the synthesis lies the possibility of the misrelation." ([Storm commentary excerpt](https://sorenkierkegaard.org/sickness-unto-death.html))
 
-The concept carries a practice: despair is a category of the self rather than a mood report, so it is addressed at the level of what one takes oneself to be, not how one feels.
+The concept carries a practice: despair is a category of the self, not a mood report, so it is addressed at the level of what one takes oneself to be, not how one feels. The cure is a formula: "in relating itself to itself and in willing to be oneself, the self rests transparently in the power that established it" — the state of the self when despair is "completely rooted out" ([Storm commentary excerpt](https://sorenkierkegaard.org/sickness-unto-death.html)).
 
 ## Core ideas
 
-- **Despair as misrelation** — the self's failure to be itself. See [[Despair]].
-- **Anxiety and the dizziness of freedom** — freedom's own vertigo. See [[Angst]], [[The dizziness of freedom]], [[Escape from freedom]].
+- **Despair as misrelation** — the self's failure to be itself; "Despair is a Sickness of the Spirit", and all despair is "ultimately traced to the despair not to will to be oneself"; its cure is the formula of the self resting "transparently in the power that established it". See [[Despair]].
+- **Anxiety and the dizziness of freedom** — freedom's own vertigo; the book is a "companion piece to the Concept of Anxiety". See [[Angst]], [[The dizziness of freedom]], [[Escape from freedom]].
 - **The leap of faith** — the movement beyond evidence. See [[The leap of faith]], [[The commitment of the knight of faith]].
-- **The aesthetic, the ethical, the religious** — the stages. See [[The aesthetic]], [[The ethical]].
+- **The aesthetic, the ethical, the religious** — the stages; in the commentary's phrasing, "as anxiety is related to the ethical, despair is related to the religious". See [[The aesthetic]], [[The ethical]].
 - **Repetition** — life lived forwards, understood backwards. See [[Repetition]], [[Creative repetition]], [[Life lived forwards]].
 
 ## Connection to the compendium
