@@ -7,6 +7,39 @@ extracted (pdftotext) and each displayed quotation was compared as a
 normalized substring of the carrier text, not fetched through an
 extraction prompt.
 
+## V2 addendum (revision 4, supervisor-pplx-895565b1 + worker-pplx-dossiers-1025, 2026-10-23)
+
+The 2026-10-24 owner direction rebuilt The Self as the v2 exhaustive exemplar
+(map of every self-bearing entry, sticky side table of contents, Variation-
+Selection(+Retention) practice section). This addendum records what the v2
+rebuild added and what verification carries over.
+
+- No new quotation was introduced in v2. Every quoted passage now on the page
+  is the same set verified against raw carrier text at revision 3 (SN 22.59,
+  Milindapañha 3.1.1, SEP Dalal, Deikman via Wayback, Hayes et al. 2013,
+  Markus & Kitayama 1991, Grossmann & Kross 2014, Godbee & Kangas 2020). The
+  revision-3 record above stands for each of them; nothing in it is rescinded.
+- The map's per-entry descriptions are compressed from the linked entry's own
+  opening claim (source: the content/ file for each card), not from any
+  outside carrier. They carry no quotation and so need no carrier
+  verification; the source of each is the entry file itself.
+- The practice section's two inline figures — Grossmann & Kross 2014's three
+  experiments with 693 participants, and Godbee & Kangas 2020's
+  provisional-evidence caveat — are the same sentences verified at revision 3
+  (Waterloo PDF, PubMed efetch 33051034).
+- Card links: every #card= target on the page (160 unique) was re-verified
+  against actual content/ file names by script in this pass; 0 unresolved.
+- Markdown↔Academy-data parity: the 160 card targets in the markdown and the
+  160 card targets in window.fcDossiersData were compared programmatically;
+  0 missing in either direction.
+- Repair applied this pass (revision 4.1): two sayings — "Rectify the self
+  before others" and "Rectify the self, then the family, then the state" —
+  printed the literal word "None" as their description (a build-script
+  artifact). Both now carry short source-faithful descriptions drawn from the
+  saying's own text (Confucius, Analects 13.6; the Great Learning's
+  rectification sequence). Fixed in markdown and mirrored in the Academy
+  data. Commit 63d72d2.
+
 ## Quotes verified against raw carrier text (revision 3)
 
 - SN 22.59 (Thanissaro, dhammatalks.org, raw HTML): both passages exact.

@@ -41,8 +41,12 @@ abstract; quoted passage checked", "Further reading; not assessed".
 
 ## Dossiers
 
-1. [The Self](the-self.md) — the exemplar, currently in v1 (narrow)
-   format; queued for rebuild to the v2 exhaustive standard.
+1. [The Self](the-self.md) — the exemplar, rebuilt to the v2 exhaustive
+   standard (owner direction 2026-10-24): a map of every self-bearing entry
+   grouped by question, with a sticky side table of contents and a
+   Variation-Selection(+Retention) practice section. Evidence record:
+   [sources/dossiers/the-self.md](../sources/dossiers/the-self.md),
+   revision 4.1 (v2 addendum).
 
 ## Proposed next dossiers (v2, per owner direction 2026-10-24)
 
