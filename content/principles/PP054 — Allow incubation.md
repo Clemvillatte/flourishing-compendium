@@ -16,13 +16,13 @@ Sio and Ormerod's meta-analysis of 117 studies identified "a positive incubation
 
 The details matter for practice. The abstract says "longer preparation periods gave a greater incubation effect", that "high cognitive demand tasks gave a smaller incubation effect", and that for linguistic insight problems "low cognitive demand tasks yielded a stronger incubation effect than did rest". In other words, a light activity can beat doing nothing, and a demanding task does worse.
 
-The mechanism is also less settled than the original entry says. A study by [Sio and Ormerod at Lancaster](https://escholarship.org/content/qt9q03k7z8/qt9q03k7z8.pdf) found support for an "opportunistic-assimilation" account, in which the problem stays active and chance cues are picked up, and effects appeared only under particular task and cue conditions. I did not find evidence for "walking, showering, and sleeping" specifically, or for Wallas's original model, in what I opened.
+The mechanism is also less settled than the original entry says. A study by [Sio and Ormerod at Lancaster](https://escholarship.org/content/qt9q03k7z8/qt9q03k7z8.pdf) found support for an "opportunistic-assimilation" account, in which the problem stays active and chance cues are picked up, and effects appeared only under particular task and cue conditions. No evidence for "walking, showering, and sleeping" specifically, or for Wallas's original model, was found in the sources opened here.
 
 (Wallas, 1926; Sio and Ormerod, 2009.)
 
 ### Scope
 
-I read abstracts and excerpts, not the full 2009 paper. Whether incubation works for your problem depends on the problem type.
+The page rests on abstracts and excerpts, not the full 2009 paper. Whether incubation works for your problem depends on the problem type.
 
 **Plain words**
 Putting a problem aside can help, mostly on open-ended problems where you have already worked hard. A light task during the break works better than a demanding one.

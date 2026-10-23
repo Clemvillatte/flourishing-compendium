@@ -20,7 +20,7 @@ He then says it is "the new scholar" who "talks as they were two, this Sankhya a
 
 ### Where the wording differs
 
-The earlier version of this principle spoke of children arguing over the distinction. Arnold has "the new scholar", so I cannot quote "children" from the text I opened. The claim that "each is the other done properly" and the curriculum remark are the principle's own, as is the practical rule that insight is incomplete until it has changed an action.
+The earlier version of this principle spoke of children arguing over the distinction. Arnold has "the new scholar", so "children" cannot be quoted from the text the page uses. The claim that "each is the other done properly" and the curriculum remark are the principle's own, as is the practical rule that insight is incomplete until it has changed an action.
 
 **Plain words** Krishna refuses to split the way of knowledge from the way of action. He says that someone who masters one gains the fruit of both. A reasonable rule of thumb from this is to test insights by acting on them and to examine actions afterward. The rule is the principle's, not the Gita's.
 

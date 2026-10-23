@@ -22,7 +22,7 @@ Psychology offers a close match. Stroebe and Schut's dual process model describe
 
 ### Scope
 
-This differs from the original entry: the model has people alternate, not voice grief fully first and then leave it. I did not test whether song or ritual helps with grief.
+This differs from the original entry: the model has people alternate, not voice grief fully first and then leave it. Whether song or ritual helps with grief is not tested here.
 
 **Plain words**
 The songs say the loss and the delight in one voice. Research on grief says healthy coping moves back and forth between facing the loss and resting from it.

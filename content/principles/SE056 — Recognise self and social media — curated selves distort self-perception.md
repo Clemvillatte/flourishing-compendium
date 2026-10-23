@@ -18,7 +18,7 @@ The wider claim is shakier. Fardouly's experiment had 112 women browse Facebook,
 
 ### Reading the evidence
 
-These studies measure comparison and self-evaluation. The principle's phrase "curated selves" is the compendium's framing. The studies I opened do not test whether posts are edited, and the experiments cover mostly young adults and teenagers.
+These studies measure comparison and self-evaluation. The principle's phrase "curated selves" is the compendium's framing. The studies opened for this page do not test whether posts are edited, and the experiments cover mostly young adults and teenagers.
 
 **Plain words**
 A feed shows other people's best moments next to your whole day. For some people, and mainly when they compare upward, that lowers how they see themselves. Notice whether it happens to you.

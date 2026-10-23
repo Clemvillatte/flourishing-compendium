@@ -16,7 +16,7 @@ The evidence for this principle is mostly about learning, and it is consistent. 
 
 Gruber, Gelman and Ranganath found in two memory tests, one immediate and one a day later, that "participants showed improved memory for information that they were curious about and for incidental material learned during states of high curiosity". Midbrain and nucleus accumbens activity rose in high-curiosity states, and the authors suggest "a link between the mechanisms supporting extrinsic reward motivation and intrinsic curiosity" (Gruber et al., 2014, abstract, [Neuron 84](https://pubmed.ncbi.nlm.nih.gov/25284006/)).
 
-These are laboratory studies, and their abstracts report effects on memory. They do not show that curiosity makes you wiser or happier, and I found no source I could open that does.
+These are laboratory studies, and their abstracts report effects on memory. They do not show that curiosity makes you wiser or happier, and no openable source was found that does.
 
 **Plain words**
 Wanting to know something makes you better at learning it, and also at picking up whatever comes along while you are wondering. So it helps to ask a real question before you read or listen.
