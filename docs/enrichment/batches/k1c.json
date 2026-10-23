@@ -66,8 +66,8 @@
  "missing_concepts": 0,
  "sources_checked": 0,
  "updated": "2026-10-23T13:59:12+00:00",
- "band_done": false,
- "notes": "Minted by supervisor-pplx-1023a (2026-10-23): KERNELS tail band. 32 items = the queued-not-done kernel paths from the 2026-10-23 reconciliation (65 remaining in the queue after removing k1a/k1b/kpr/cmp/maintenance done entries). Model exemplar: K100 (PROTOCOL-THINKERS.md Relation to Kernels; also see K409). Owner's workability directive (2026-10-21) applies: PBT (variation-selection-retention) and/or the six dimensions. Each item: read, verify/enrich to the kernel bar with opened carriers, validate, record done (path form, as in k1a/k1b), save. Also note: 64 kernel pages exist that are outside the queue AND not recorded done — supervisor item for the next pass (mint k1e or fold into a trim of the queue).",
+ "band_done": true,
+ "notes": "Minted by supervisor-pplx-1023a (2026-10-23): KERNELS tail band. 32 items = the queued-not-done kernel paths from the 2026-10-23 reconciliation (65 remaining in the queue after removing k1a/k1b/kpr/cmp/maintenance done entries). Model exemplar: K100 (PROTOCOL-THINKERS.md Relation to Kernels; also see K409). Owner's workability directive (2026-10-21) applies: PBT (variation-selection-retention) and/or the six dimensions. Each item: read, verify/enrich to the kernel bar with opened carriers, validate, record done (path form, as in k1a/k1b), save. \nClosed by worker-pplx-k1c-oct23b (2026-10-23): all 32 queue items recorded done (9 enriched this session: K365, K363, K342, K252, K148, K330, K315, K337, K356); all guided-recording bounded searches performed and flags resolved (K321/K322 remain supervisor-routed, out of band); advisor-QC repair pass applied (K264/K267 host-page-verified, K257 none-claim restored, K336 re-framed, K337 orange example corrected, K252 claims qualified, K356 gloss fixed, workflow narration removed from public prose). K139 verdict stands with ACBS Observer Exercise candidate disclosed on page. 64 out-of-queue kernels are k1e's scope per minting note.",
  "queue": [
   "content/kernels/K357 — Shared attention.md",
   "content/kernels/K174 — Behavioral activation.md",
