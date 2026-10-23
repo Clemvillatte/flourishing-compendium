@@ -28,12 +28,12 @@ Frankl "was expelled from Adler's circle when he insisted that meaning was the c
 
 ## Core ideas
 
-- **The will to meaning** — meaning as the central motivational force. See [[The will to meaning]], [[The search for meaning]].
-- **Logotherapy** — the third Viennese school, after Freud and Adler. See [[Logotherapy]], [[Meaning-centred therapy]], [[Noogenic neurosis]].
-- **Attitudinal values** — the attitude route to meaning. See [[Attitudinal values]], [[The meaning of suffering]], [[Tragic optimism]].
-- **Freedom and responsibleness** — freedom lived in terms of responsibility. See [[Self-transcendence]], [[Happiness as by-product]].
-- **Meaning in creation, experience, attitude**. See [[Meaning-making]], [[Creative values]], [[Experiential values]].
-
+- **The will to meaning** — "logotherapy is founded upon the belief that striving to find meaning in life is the primary, most powerful motivating and driving force in humans," set against Adler's will to power and Freud's will to pleasure ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). See [[E066 — Practise the will to meaning|E066]], [[The will to meaning]].
+- **Three ways of realizing meaning** — "(1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering" ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). See [[E062 — Practise meaning through creative work|E062]], [[E063 — Practise meaning through love|E063]], [[E064 — Practise meaning through the attitude toward suffering|E064]].
+- **The last human freedom** — "everything can be taken from a man but one thing: the last of the human freedoms – to choose one's attitude in any given set of circumstances" ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). See [[Attitudinal values]], [[Tragic optimism]], [[ST036 — Frankl Chooses the Attitude|36. Frankl Chooses the Attitude]].
+- **Noogenic neurosis and the existential vacuum** — the logotherapeutic concepts of noogenic neurosis and existential crisis, first described by Frankl in the 1950s, entered the ICD 11 as the demoralisation crisis: hopelessness, meaninglessness and existential distress ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). See [[E065 — Practise noogenic neurosis awareness|E065]], [[Noogenic neurosis]].
+- **Self-transcendence** — the wiki carries his teaching that meaning is found by reaching past oneself toward something or someone, and that happiness ensues rather than being aimed at; the opened carriers here do not elaborate it. See [[E060 — Practise self-transcendence|E060]], [[Self-transcendence]], [[Happiness as by-product]].
+- **Meaning-centred therapy** — logotherapy, "the third Viennese school, after Freud and Adler," treats patients by turning them toward the meaning of their lives ([Wikipedia, Viktor Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)). See [[Logotherapy]], [[Meaning-centred therapy]], [[The search for meaning]].
 ## Connection to the compendium
 
 - [[Logotherapy]]
@@ -45,7 +45,7 @@ Frankl "was expelled from Adler's circle when he insisted that meaning was the c
 
 ## Everything connected in the wiki — the logotherapy tradition
 
-Entries are kept to Frankl's own tradition — his logotherapy principles and the pages that carry his ideas; other traditions may echo him, but linking them here would drown the graph. (Owner direction, October 2026.)
+Kept to Frankl's own tradition — his logotherapy principles and the pages that carry his ideas; parallels from other traditions stay on their own pages.
 
 ### Principles (7)
 - [[E060 — Practise self-transcendence|Practise self-transcendence]]

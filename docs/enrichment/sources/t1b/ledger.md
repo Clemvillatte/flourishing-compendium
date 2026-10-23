@@ -48,3 +48,15 @@ Flag: "BLOCKED — Macmillan and SAGE carriers unverified, disclosure insufficie
 4. SOURCES: the two banned disclosure lines ("returned by a web search this session", "quoted from the compendium's Peak-end rule page") removed; the three opened carriers listed with their roles.
 5. TRADITION GATING: gated inventory — 16 Kahneman-construct principles (CO002, CO017-CO020, CO022, CO028, CO031, CO032, CO035, CO041, CO042, CO057, CO058, AF071, SO041), 19 Kahneman-anchored concepts; the A-/B-/D-/E-/P-/PP-/S-/X-book parallels dropped from the inventory.
 6. VALIDATION: enrich_validate.py --base 5dceafa6: 1 checked, 0 failed. Build ok.
+
+## 2026-10-23 — worker-pplx-t1b-2d4e7a91 — milestone QC round (advisor call #2) applied to all five pages
+
+Advisor QC (milestone) found structural defects beyond the original flags; all repaired this pass, all validate ok vs 5dceafa6, build ok:
+
+1. WORD BUDGETS measured section-wise (the generic validator does not check them): Confucius Core ideas trimmed 377->286 (within 150-300); Kant Core ideas expanded 52->205; Bandura 36->196; Frankl 50->203; Kahneman 39 (budget met: 39+lead), narrative sections within 250-500 everywhere; Kahneman prose capped under the validator's 480 (lead + story + why + position).
+2. CASE FIDELITY: Kant "for the next four decades" restored to the source's capital "For"; Confucius 2.4 fragment "From the age of fifteen" restored to capital (both fragments otherwise verbatim, re-grepped).
+3. INLINE CITATIONS added to every expanded Confucius Core-ideas bullet (IEP per bullet).
+4. WORKFLOW NARRATION removed from all five gated-inventory notes ("(Owner direction, October 2026.)" / "would drown the graph" replaced with a reader-facing scope sentence; the substantive gating stands).
+5. KAHNEMAN: missing Personal story section written from the freshly opened Wikipedia Daniel Kahneman wikitext (Tel Aviv 1934, Lithuanian-Jewish emigre parents, Paris childhood, 1940 occupation, father's round-up and release, Nobel 2002 with Smith, "grandfather of behavioral economics", Tversky collaboration, died 2024); "Their why" re-anchored to the opened Nobel motivation (the prior "core question is how experience is remembered" claim replaced); CO058 (flashbulb memories — Brown & Kulik's construct, single parallel mention) removed from the gated inventory (16->15 principles).
+6. ATTRIBUTION ACCURACY per the advisor: the gated-inventory notes now say "carry or substantively apply his work" (not "own constructs"); Kahneman's Klein RPD-model entry retained as a substantive collaboration; Bandura bullet 5 reworded (the opened Wikipedia article carries moral disengagement but NOT collective efficacy — gloss no longer attributed to it).
+7. FRANKL self-transcendence bullet: the "happiness ensues" gloss is NOT carried by the two opened carriers — rewritten with honest scope framing ("the wiki carries his teaching...; the opened carriers here do not elaborate it"). Core ideas grounded in the freshly opened Wikipedia Logotherapy article (will to meaning founding sentence, three ways, last human freedom, ICD-11 demoralisation crisis).

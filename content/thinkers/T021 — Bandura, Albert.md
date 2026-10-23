@@ -28,11 +28,11 @@ The model states where the expectation comes from: "In the proposed model, expec
 
 ## Core ideas
 
-- **Self-efficacy** — the belief; four sources of information. See [[Self-efficacy]], [[Mastery experiences]], [[Modeling]].
-- **Social learning / social cognitive theory** — modeling and observational learning. See [[Social learning theory (Bandura)]], [[Observational learning]].
-- **Moral disengagement** — acting against one's own standards. See [[Moral disengagement research]].
-- **Collective efficacy** — the group-level extension. See [[Collective efficacy]].
-
+- **Self-efficacy** — the conviction that one can execute the behavior required to produce the outcomes: "An efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes," distinct from the outcome expectancy, "a person's estimate that a given behavior will lead to certain outcomes" ([Bandura 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). See [[SE059 — Cultivate self-efficacy — belief in your capacity to act|SE059]], [[Self-efficacy]].
+- **Mastery experiences as the first source** — efficacy expectations are "derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states," and "the more dependable the experiential sources, the greater are the changes in perceived self-efficacy" ([Bandura 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). See [[SE060 — Learn mastery experiences — build self-efficacy through doing|SE060]], [[Mastery experiences]].
+- **Efficacy is domain-specific and graded** — expectations "vary on several dimensions that have important performance implications," differing in magnitude, generality and strength, so confidence is not one general trait ([Bandura 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf)). See [[SE061 — Recognise self-efficacy is domain-specific — not general confidence|SE061]], [[Creative self-efficacy]].
+- **Learning by observation** — the Bobo doll experiments showed children acquiring behavior by watching an adult, the finding that grounded social learning theory and later social cognitive theory ([Wikipedia, Albert Bandura](https://en.wikipedia.org/wiki/Albert_Bandura)). See [[Modeling]], [[Observational learning]], [[Social learning theory (Bandura)]].
+- **Collective efficacy and moral life** — the same construct extended to what groups believe they can do together, and moral disengagement as the account of how ordinary people act harmfully; the Wikipedia article carries his work on moral disengagement ([Wikipedia, Albert Bandura](https://en.wikipedia.org/wiki/Albert_Bandura)). See [[SO052 — Treat collective efficacy as a community resource|SO052]], [[Collective efficacy]], [[Moral disengagement research]].
 ## Connection to the compendium
 
 - [[Self-efficacy]]
@@ -46,7 +46,7 @@ The model states where the expectation comes from: "In the proposed model, expec
 
 ## Everything connected in the wiki — the Bandura tradition
 
-Entries are kept to the pages that carry Bandura's own constructs — self-efficacy, mastery, modeling, moral disengagement; the many principles that cite him as a psychology parallel stay on their own pages. (Owner direction, October 2026.)
+Kept to the pages that carry or substantively apply Bandura's work — self-efficacy, mastery, modeling, moral disengagement; the many principles that cite him as a psychology parallel stay on their own pages.
 
 ### Principles (6)
 - [[BE018 — Learn to schedule mastery activities — competence-driven behaviour|Learn to schedule mastery activities: competence-driven behaviour]]

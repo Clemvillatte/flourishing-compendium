@@ -12,13 +12,19 @@ Daniel Kahneman (5 March 1934, Tel Aviv — 27 March 2024) received the 2002 Sve
 
 ## Their why
 
-Kahneman's core question is how experience is remembered. The book's own metaphor, from its text as circulated in the IIT Kanpur course handout of chapters 0, 1 and 3:
+## Personal story / context
+
+Kahneman was born on March 5, 1934, in Tel Aviv, to Lithuanian Jewish parents who had emigrated to France in the early 1920s; he spent his childhood in Paris, where the family was living when the city fell to Nazi Germany in 1940. His father was picked up in the first major round-up of French Jews and released after six weeks. He became an Israeli-American psychologist, shared the 2002 Nobel Memorial Prize in Economic Sciences with Vernon L. Smith, and became known as the "grandfather of behavioral economics"; much of the prize-winning work was the long collaboration with Amos Tversky. He died on March 27, 2024 ([Wikipedia, Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman)).
+
+## Their why
+
+The prize motivation names the question that organized his career: "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty" ([Nobel Prize facts page](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/)). Late in that career the question turned to how experience is remembered, the ground of the peak-end finding. The book's metaphor, from its text as circulated in the IIT Kanpur course handout:
 
 > "I describe mental life by the metaphor of two agents, called System 1 and System 2, which respectively produce fast and slow thinking." (Kahneman, Thinking, Fast and Slow, [ch. 0 handout PDF](https://www.cse.iitk.ac.in/users/se367/14/Readings/kahneman_TFTS-handout-ch-0-1-3_sml.pdf))
 
 ## Their position
 
-Kahneman's own framing is a division of labor rather than two brain parts. In the book's own words: "I adopt terms originally proposed by the psychologists Keith Stanovich and Richard West, and will refer to two systems in the mind, System 1 and System 2" and "System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control" while "System 2 allocates attention to the effortful mental activities that demand it, including complex computations" ([Thinking, Fast and Slow, ch. 1, IIT Kanpur handout PDF](https://www.cse.iitk.ac.in/users/se367/14/Readings/kahneman_TFTS-handout-ch-0-1-3_sml.pdf)). The peak-end experiments added a finding about memory: when one hand was held in 14 °C water for 60 seconds and the other for the same 60 seconds plus 30 more while the water was raised to 15 °C ("still painful but distinctly less so for most subjects"), "A significant majority chose to repeat the long trial, apparently preferring more pain over less"; duration "plays a small role in retrospective evaluations of aversive experiences; such evaluations are often dominated by the discomfort at the worst and at the final moments of episodes" ([Kahneman et al., When More Pain Is Preferred to Less, Psychological Science 4(6), 401-405, full JSTOR text at University of Zurich](https://www.ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf)).
+Kahneman's framing is a division of labor rather than two brain parts: "I adopt terms originally proposed by the psychologists Keith Stanovich and Richard West, and will refer to two systems in the mind, System 1 and System 2" — "System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control" while "System 2 allocates attention to the effortful mental activities that demand it, including complex computations" ([Thinking, Fast and Slow, ch. 1, IIT Kanpur handout PDF](https://www.cse.iitk.ac.in/users/se367/14/Readings/kahneman_TFTS-handout-ch-0-1-3_sml.pdf)). The peak-end experiments added a finding about memory: when one hand was held in 14 °C water for 60 seconds and the other for the same 60 plus 30 more while the water was raised to 15 °C ("still painful but distinctly less so for most subjects"), "A significant majority chose to repeat the long trial, apparently preferring more pain over less"; duration "plays a small role in retrospective evaluations of aversive experiences; such evaluations are often dominated by the discomfort at the worst and at the final moments of episodes" ([Kahneman et al., When More Pain Is Preferred to Less, Psychological Science 4(6), 401-405, full JSTOR text at University of Zurich](https://www.ius.uzh.ch/dam/jcr:5ae9adc9-61ec-4174-b37c-4b752f36c23b/Kahnemann%20et%20al.%20-%20When%20More%20Pain%20is%20Preferred%20to%20Less%20(1993).pdf)).
 
 ## Core ideas
 
@@ -38,9 +44,9 @@ Kahneman's own framing is a division of labor rather than two brain parts. In th
 
 ## Everything connected in the wiki — the Kahneman tradition
 
-Entries are kept to the pages that carry Kahneman's own constructs — the two systems, the heuristics and biases, prospect theory, the peak-end rule; the many principles that cite him as a cross-tradition parallel stay on their own pages. (Owner direction, October 2026.)
+Kept to the pages that carry or substantively apply Kahneman's work — the two systems, the heuristics and biases, prospect theory, the peak-end rule; the principles that cite him as a cross-tradition parallel stay on their own pages.
 
-### Principles (16)
+### Principles (15)
 - [[AF071 — Recognise the peak-end rule — memory of experiences is shaped by peaks and endings|Recognise the peak-end rule: memory of experiences is shaped by peaks and endings]]
 - [[CO002 — Recognise the two systems (or modes) of thinking — fast intuition and slow analysis|Recognise the two systems (or modes) of thinking: fast intuition and slow analysis]]
 - [[CO017 — Recognise the availability heuristic — vividness is mistaken for frequency|Recognise the availability heuristic: vividness is mistaken for frequency]]
@@ -55,7 +61,6 @@ Entries are kept to the pages that carry Kahneman's own constructs — the two s
 - [[CO041 — Trust intuition in the right domains — it is not always wrong|Trust intuition in the right domains: it is not always wrong]]
 - [[CO042 — Know when to deliberate — high-stakes and novel situations need slow thinking|Know when to deliberate: high-stakes and novel situations need slow thinking]]
 - [[CO057 — Recognise the peak-end rule in memory — you remember peaks and endings|Recognise the peak-end rule in memory: you remember peaks and endings]]
-- [[CO058 — Understand flashbulb memories — vividness is not accuracy|Understand flashbulb memories: vividness is not accuracy]]
 - [[SO041 — Treat expertise as real but fallible|Treat expertise as real but fallible]]
 
 ### Concepts (19)

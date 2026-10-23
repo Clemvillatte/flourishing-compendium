@@ -12,7 +12,7 @@ Immanuel Kant (April 22, 1724, Königsberg — February 12, 1804) "is the centra
 
 ## Personal story / context
 
-Kant was born in Königsberg, the capital of East Prussia, "a major commercial center, an important military port, and a relatively cosmopolitan university town." After college he "spent six years as a private tutor to young children outside Königsberg," returning in 1754 and beginning to teach at the University of Königsberg (the Albertina) the following year; "for the next four decades Kant taught philosophy there, until his retirement from teaching in 1796 at the age of seventy-two" ([SEP, Kant](https://plato.stanford.edu/entries/kant/)).
+Kant was born in Königsberg, the capital of East Prussia, "a major commercial center, an important military port, and a relatively cosmopolitan university town." After college he "spent six years as a private tutor to young children outside Königsberg," returning in 1754 and beginning to teach at the University of Königsberg (the Albertina) the following year; "For the next four decades Kant taught philosophy there, until his retirement from teaching in 1796 at the age of seventy-two" ([SEP, Kant](https://plato.stanford.edu/entries/kant/)).
 
 ## Their why
 
@@ -28,12 +28,11 @@ The same passage grounds it: "rational nature exists as an end in itself" ([Grou
 
 ## Core ideas
 
-- **The categorical imperative** — the universalizable form of moral law. See [[The categorical imperative]], [[Moral obligation]].
-- **Persons as ends** — the humanity formulation, 4:429. See [[Persons as ends]], [[Dignity]], [[Respect]].
-- **Autonomy as the critical idea** — reason as its own lawgiver. See [[Autonomy]], [[Self-legislation]].
-- **Cosmopolitan right and hospitality** — right between strangers, not charity. See [[Cosmopolitanism]], [[Hospitality]], [[Cosmopolitan care]].
-- **The sublime and aesthetic judgement** — the third Critique. See [[The sublime]], [[Disinterested aesthetic pleasure]].
-
+- **The categorical imperative** — the moral law stated as a universal test: what makes an act right is that its maxim could hold as a universal law, and what gives that law its authority is reason itself. The doctrine at the center of the three Critiques "is human autonomy": "human reason gives itself the moral law" ([SEP, Kant](https://plato.stanford.edu/entries/kant/)). See [[The categorical imperative]], [[Moral obligation]].
+- **Persons as ends** — the humanity formulation: "So act as to treat humanity, whether in thine own person or in that of any other, in every case as an end withal, never as means only," because "rational nature exists as an end in itself" ([Groundwork, Abbott](https://openlearninglibrary.mit.edu/assets/courseware/v1/d724068ab9d302a3eba40f625520f510/asset-v1:MITx+24.02x+2T2020+type@asset+block@L11_Kant_Groundwork.pdf)). See [[Persons as ends]], [[Dignity]], [[Respect]].
+- **Autonomy as the critical idea** — the same self-legislation extended to knowledge: "the human understanding is the source of the general laws of nature that structure all our experience" ([SEP, Kant](https://plato.stanford.edu/entries/kant/)). See [[Autonomy]], [[Self-legislation]].
+- **Cosmopolitan right and hospitality** — a right of strangers, not benevolence: "hospitality signifies the claim of a stranger entering foreign territory to be treated by its owner without hostility" ([Perpetual Peace](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm)). See [[Cosmopolitanism]], [[Hospitality]], [[Cosmopolitan care]].
+- **The sublime and aesthetic judgement** — the Critique of the Power of Judgment (1790) closes the critical system, carrying the account of disinterested pleasure by which the wiki treats beauty and the sublime ([SEP, Kant](https://plato.stanford.edu/entries/kant/)). See [[The sublime]], [[Disinterested aesthetic pleasure]].
 ## Connection to the compendium
 
 - [[The categorical imperative]]
@@ -44,7 +43,7 @@ The same passage grounds it: "rational nature exists as an end in itself" ([Grou
 
 ## Everything connected in the wiki — the Kantian tradition
 
-Kant has no book of principles in the compendium: every principle that names him cites him as a philosophy parallel, and those cross-tradition echoes stay on their own pages. The inventory keeps the pages that carry his ideas; other traditions may echo him, but linking them here would drown the graph. (Owner direction, October 2026.)
+Kept to the pages that carry Kant's ideas; the principles that cite him as a cross-tradition parallel stay on their own pages.
 
 ### Principles (0)
 
