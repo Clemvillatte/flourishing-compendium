@@ -11,7 +11,7 @@ Nonviolent communication (NVC) is a communication process developed by clinical 
 
 Jim and Jori Manske's summary sheet of NVC describes the first step this way:
 
-> "A report of 'what is', free of judgment, criticism or other forms of analysis." ([4 Components of NVC, CNVC trainers Jim & Jori Manske](https://www.nonviolentcommunication.com/pdf_files/4_components_of_NVC.pdf))
+> "A report of \"what is\", free of judgment, criticism or other forms of analysis." ([4 Components of NVC, CNVC trainers Jim & Jori Manske](https://www.nonviolentcommunication.com/pdf_files/4_components_of_NVC.pdf))
 
 ### The four steps
 
