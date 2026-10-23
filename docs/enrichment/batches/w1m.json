@@ -8,7 +8,6 @@
   "The coloured lens",
   "The return of the soul to its source",
   "A certain blindness",
-  "Value creation",
   "Verum factum",
   "Walking off one's thoughts",
   "Whole Trait Theory",
@@ -72,7 +71,8 @@
   "Viveka",
   "Voluntary simplicity",
   "Via negativa",
-  "The sublime"
+  "The sublime",
+  "Value creation"
  ],
  "in_progress": null,
  "flagged": {
@@ -92,7 +92,7 @@
   "The urgency of time": "NAMESPACE HOLD (2026-10-21, worker-w1m-5f8e3a2b): compendium coinage over Heideggerian finitude; no source defines 'The urgency of time' as a concept. Being and Time was NOT opened this session (no lawful full-text carrier available quickly; owner's Drive/local library does not list Heidegger), so no quote can be verified — per the zero-hallucination rule the page is left at seed and held out of done pending supervisor disposition (rename to a source-defined neighbour e.g. Being-towards-death, or owner supplies a carrier). Citing principles: E054/Y096/AT069/K050/MO052.",
   "The via media": "SUPERVISOR DISPOSITION 2026-10-21 (worker-sup-5e8a3c7f): SOURCE-PENDING resolved — Zygon vol.22 no.4 (1987) review of Bernstein opened (open galley PDF); Bernstein-route quotes verified verbatim (pp. 165, 230, 231); page enriched with the beyond-the-poles passage; validated; marked done",
   "Transaction": "SUPERVISOR DISPOSITION 2026-10-21 (worker-sup-5e8a3c7f): CARRIER MISMATCH resolved — Transaction re-grounded on Dewey & Bentley Knowing and the Known (1949); quotes verified verbatim via opened Wikipedia Transactionalism (pp. vi, 120) + Park 2026 JCS open article (pp. 101-108 contrast); seed's Experience and Nature attribution corrected on page; validated; done",
-  "Value creation": "SUPERVISOR DISPOSITION 2026-10-21 (worker-p1abc): related-links kept bare — KEEP BARE approved. All link targets verified to resolve (enrich_find OK on all nine: prior-probability, Anicca, Docta ignorantia, apophatic theology, neti neti, return-of-soul, Dao, Wu wei, attention restoration). A descriptive clause would require a source-bounded relationship claim the workers did not have evidence for; the bare links preserve the semantic connection without unsupported claims, consistent with the AF011/AF046 bare-reference precedent and the zero-hallucination rule. Pages validate (window health check pass 1).",
+  "Value creation": "Reopened for QC: extension: add Zarathustra on creating as alleviation of suffering (prose 44)",
   "Via negativa": "Reopened for QC: extension: add SEP detail on Shankara, Plotinus, two stages, and the ineffability paradox (prose 72)",
   "Voluntary simplicity": "Reopened for QC: extension: add Walden purpose passage and Economy chapter (prose 43)",
   "Walking off one's thoughts": "SUPERVISOR DISPOSITION 2026-10-21 (worker-p1abc): related-links kept bare — KEEP BARE approved. All link targets verified to resolve (enrich_find OK on all nine: prior-probability, Anicca, Docta ignorantia, apophatic theology, neti neti, return-of-soul, Dao, Wu wei, attention restoration). A descriptive clause would require a source-bounded relationship claim the workers did not have evidence for; the bare links preserve the semantic connection without unsupported claims, consistent with the AF011/AF046 bare-reference precedent and the zero-hallucination rule. Pages validate (window health check pass 1).",
@@ -108,7 +108,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:30:06+00:00",
+ "updated": "2026-10-23T14:31:08+00:00",
  "band_done": false,
  "new_concepts": [
   {
