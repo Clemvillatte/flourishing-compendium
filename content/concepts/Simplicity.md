@@ -11,7 +11,14 @@ Simplicity, in the sense this page tracks, is *voluntary* simplicity: the delibe
 
 The mechanism is attentional and hedonic at once: possessions and commitments consume the attention their maintenance requires, and [[Hedonic adaptation]] erodes the pleasure they promise anyway, so the simplifier is not renouncing happiness but re-investing it ([[D092 — Don't chase happiness directly]]; [[Savoring]] is what the freed attention goes to). The Daoist version is the same argument in another key: the uncarved block, the usefulness of emptiness ([[Wu wei]]). The Daodejing names the state directly:
 
-> "If this transformation became to me an object of desire, I would express the desire by the nameless simplicity. Simplicity without a name / Is free from all external aim. / With no desire, at rest and still, / All things go right as of their will." (Daodejing 37, [Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)) The therapeutic version: remove distractions and let the environment do the work ([[MO049 — Learn to remove distractions — environment drives procrastination]]).
+> "If this transformation became to me an object of desire, I would express the desire by the nameless simplicity.
+>
+> Simplicity without a name
+> Is free from all external aim.
+> With no desire, at rest and still,
+> All things go right as of their will." (Daodejing 37, [Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+
 
 The distinction to hold: simplicity is not minimalism-as-aesthetic (owning exactly 100 beautiful things) and not asceticism (denial as virtue). Its test is whether the choice frees attention for what one actually values; [[Values clarification]] is therefore its first step, not decluttering.
 
@@ -24,6 +31,7 @@ Its aesthetic form is [[Wabi-sabi]], its method [[Via negativa]] (subtraction as
 
 
 - [[Natural and necessary]] — the life the necessary desires point to
+- [[MO049 — Learn to remove distractions — environment drives procrastination]] — the therapeutic version: remove distractions and let the environment do the work
 - [[D022]] — D022 states the subtract-first method behind the Simplicity page's via negativa and Daoist strand.
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 - [[Ockham's razor]] — a simplicity criterion for comparing theories
