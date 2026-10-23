@@ -50,6 +50,9 @@ None of this is about reading motives. The compendium's advice to avoid taking o
 
 - **[[The empty boat reflection|The empty boat reflection]]** (Zhuangzi tradition)
 - **[[Empathic understanding|Sympathetic understanding]]** (Addams, Twenty Years at Hull-House)
+## Related concepts
+
+- [[T009 — Zhuangzi]]: the empty boat, anger with no one at the oar
 
 <!-- fc: reflections
 Recall a time you read a friend's action uncharitably and were wrong. What did it cost, and what changed your mind?
