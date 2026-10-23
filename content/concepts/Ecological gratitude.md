@@ -34,10 +34,10 @@ The Chen study is a single online experiment with university students. It does n
 
 ## Related concepts
 
-- [[Nature connectedness]] — listed for comparison
-- [[Gratitude]] — listed for comparison
-- [[Deep ecology]] — listed for comparison
-- [[Biophilia]] — listed for comparison
+- [[Nature connectedness]] — the studied bond with the natural world
+- [[Gratitude]] — the underlying emotion this page takes outdoors
+- [[Deep ecology]] — the philosophy that values nature in itself
+- [[Biophilia]] — the proposed innate pull toward living things
 
 ## Sources
 

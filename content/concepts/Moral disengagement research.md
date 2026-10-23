@@ -24,10 +24,10 @@ The review's conclusion follows from the number of these mechanisms:
 
 ## Related concepts
 
-- [[Cognitive dissonance]] — listed for comparison
-- [[Psychodynamic accounts of ego defense and rationalization]] — listed for comparison
-- [[Obedience research]] — listed for comparison
-- [[Conformity]] — listed for comparison
+- [[Cognitive dissonance]] — the classic account of rationalising what one does
+- [[Psychodynamic accounts of ego defense and rationalization]] — the psychoanalytic version of the same self-protective storytelling
+- [[Obedience research]] — the classic studies of harm-doing under authority
+- [[Conformity]] — another way group pressure shapes conduct
 
 ## Sources
 

@@ -37,10 +37,10 @@ Commentators disagree about whether the theory's central claims are established.
 
 ## Related concepts
 
-- [[Deliberative democracy]] — listed for comparison
-- [[Dialogue]] — listed for comparison
-- [[Psychological safety]] — listed for comparison
-- [[Groupthink theory]] — listed for comparison
+- [[Deliberative democracy]] — the political theory closest to his ideal of reason-giving in public
+- [[Dialogue]] — the conversational ideal his theory works from
+- [[Psychological safety]] — the team-research cousin: feeling safe to speak
+- [[Groupthink theory]] — the failure mode of groups that stop real dialogue
 
 ## Sources
 

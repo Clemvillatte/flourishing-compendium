@@ -34,10 +34,10 @@ The studies concern one-off choices in surveys and experiments. They do not show
 
 ## Related concepts
 
-- [[Prospect theory]] — listed for comparison
-- [[Cognitive biases]] — listed for comparison
-- [[Anchoring effect]] — listed for comparison
-- [[Nudge theory Thaler]] — listed for comparison
+- [[Prospect theory]] — the decision theory most often used to explain framing effects
+- [[Cognitive biases]] — the wider family of systematic judgment errors
+- [[Anchoring effect]] — another reference-point bias in the same family
+- [[Nudge theory Thaler]] — the applied policy side of the same bias research
 
 ## Other formulations in this library
 

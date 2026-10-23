@@ -41,10 +41,10 @@ These are interpretations of Heidegger's philosophy by a commentator. They are n
 
 ## Related concepts
 
-- [[Being-toward-death]] — listed for comparison
-- [[Dasein]] — listed for comparison
-- [[Thrownness]] — listed for comparison
-- [[Memento mori]] — listed for comparison
+- [[Being-toward-death]] — Heidegger's name for how death structures existence
+- [[Dasein]] — Heidegger's term for the being that we are
+- [[Thrownness]] — Heidegger's term for finding oneself already in a life
+- [[Memento mori]] — the older practice of remembering death
 
 - Jaspers, Philosophy
 - Heidegger, Being and Time

@@ -40,10 +40,10 @@ Sartre's own argument for the slogan rests on atheism: there is no God to hold a
 
 ## Related concepts
 
-- [[Radical freedom]] — listed for comparison
-- [[Bad faith]] — listed for comparison
-- [[Authenticity]] — listed for comparison
-- [[Thrownness]] — listed for comparison
+- [[Radical freedom]] — the Sartrean burden of choosing without excuses
+- [[Bad faith]] — the flight from that freedom
+- [[Authenticity]] — owning one's own choice
+- [[Thrownness]] — the Heideggerian background: already in a life one did not choose
 
 ## Sources
 

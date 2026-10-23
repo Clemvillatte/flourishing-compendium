@@ -44,10 +44,10 @@ Emerson does not define integrity, and his essay praises nonconformity and self-
 
 ## Related concepts
 
-- [[Integrity (integritas: wholeness)]] — listed for comparison
-- [[Authenticity]] — listed for comparison
-- [[Self-reliance]] — listed for comparison
-- [[Commitment-consistency dynamics]] — listed for comparison
+- [[Integrity (integritas: wholeness)]] — the wholeness root of the same word
+- [[Authenticity]] — being true to oneself; consistency's inner-life cousin
+- [[Self-reliance]] — standing on one's own judgment
+- [[Commitment-consistency dynamics]] — the persuasion literature's version of consistency pressure
 
 ## Sources
 

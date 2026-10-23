@@ -33,10 +33,10 @@ A 2003 review of longitudinal research on the demand-control-(support) model app
 
 ## Related concepts
 
-- [[The job demands-resources model]] — listed for comparison
-- [[Burnout]] — listed for comparison
-- [[Autonomy]] — listed for comparison
-- [[Psychological safety]] — listed for comparison
+- [[The job demands-resources model]] — a newer job-stress framework in the same family
+- [[Burnout]] — the exhaustion outcome job-stress models try to explain
+- [[Autonomy]] — the control side of Karasek's demand-control pair
+- [[Psychological safety]] — the team-climate cousin: feeling safe to speak up
 
 ## Sources
 

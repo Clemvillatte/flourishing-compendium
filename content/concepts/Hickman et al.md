@@ -33,10 +33,10 @@ The study used non-standardised measures because none existed for its purposes, 
 
 ## Related concepts
 
-- [[Ecological grief]] — listed for comparison
-- [[Solastalgia]] — listed for comparison
-- [[Ecological self]] — listed for comparison
-- [[Ecological ethics]] — listed for comparison
+- [[Ecological grief]] — grief for environmental loss
+- [[Solastalgia]] — distress at environmental change to one's home place
+- [[Ecological self]] — the self conceived as continuous with nature
+- [[Ecological ethics]] — the ethics of human-nature relations
 
 ## Sources
 

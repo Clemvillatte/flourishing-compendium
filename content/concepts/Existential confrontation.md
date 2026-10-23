@@ -44,10 +44,10 @@ The sources give a descriptive theory of what is confronted, and mixed evidence 
 
 ## Related concepts
 
-- [[Existential therapy]] — listed for comparison
-- [[Death anxiety research]] — listed for comparison
-- [[Terror management]] — listed for comparison
-- [[Limit situations (Grenzsituationen)]] — listed for comparison
+- [[Existential therapy]] — the therapy tradition that works with these confrontations
+- [[Death anxiety research]] — the empirical study of death fear
+- [[Terror management]] — the theory of how mortality fear shapes culture
+- [[Limit situations (Grenzsituationen)]] — Jaspers' term for the walls we hit
 
 ## Sources
 

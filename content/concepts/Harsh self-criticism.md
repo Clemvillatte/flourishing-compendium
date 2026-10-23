@@ -37,10 +37,10 @@ Most of this evidence is cross-sectional. A search excerpt from a recent longitu
 ## Related concepts
 
 
-- [[Self-compassion]] — listed for comparison
-- [[Compassion-focused therapy]] — listed for comparison
-- [[Shame]] — listed for comparison
-- [[Maladaptive perfectionism]] — listed for comparison
+- [[Self-compassion]] — the contrasting construct: treating oneself kindly
+- [[Compassion-focused therapy]] — the therapy approach developed for shame and self-criticism
+- [[Shame]] — the emotion most tangled with self-attacking
+- [[Maladaptive perfectionism]] — the perfectionism that demands and punishes
 - [[Perfectionism research]] — the companion mechanism in self-oriented perfectionism
 ## Sources
 

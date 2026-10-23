@@ -36,10 +36,10 @@ Mattson's paper is about cells and organisms and does not test cold exposure, fa
 
 ## Related concepts
 
-- [[Antifragility]] — listed for comparison
-- [[Voluntary discomfort]] — listed for comparison
-- [[Stress inoculation training]] — listed for comparison
-- [[Exposure therapy (Foa, Craske)]] — listed for comparison
+- [[Antifragility]] — the idea of gaining from stressors
+- [[Voluntary discomfort]] — choosing hardship on purpose
+- [[Stress inoculation training]] — a clinical protocol in the same territory: controlled exposure to build resilience
+- [[Exposure therapy (Foa, Craske)]] — the clinical use of controlled exposure
 
 ## Sources
 
