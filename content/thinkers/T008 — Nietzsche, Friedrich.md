@@ -9,15 +9,15 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THINKE
 legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "chapter": "Letter N", "parent": ""}
 ---
 
-> **Thinker T008** — Friedrich Nietzsche (1844–1900), German philosopher; professor of classical philology at Basel at twenty-four, forced by health to resign at thirty-four, he wrote in the decade after in bursts of aphorism; God is dead, and the question is what to love in the ruins.
+> **Thinker T008** — Friedrich Nietzsche (1844–1900), German philosopher; professor of classical philology at Basel at twenty-four, forced by health to resign by 1879; God is dead, and the question is what to love in the ruins.
 
 ## Personal story / context
 
-Born October 15, 1844, in Röcken, near Leipzig ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nietzsche/)). His father, a Lutheran minister, died in 1849, when Nietzsche was four; the family moved to Naumburg, where he grew up with his mother, grandmother, two aunts and younger sister Elisabeth ([SEP](https://plato.stanford.edu/entries/nietzsche/)). As a student in Leipzig he met Richard Wagner, and in May 1869 he was called to a chair in classical philology at Basel, at twenty-four the youngest ever so appointed ([SEP](https://plato.stanford.edu/entries/nietzsche/)). The Wagner friendship soured after 1876; sending them Human, All-too-human in early 1878 effectively ended it ([SEP](https://plato.stanford.edu/entries/nietzsche/)). Fragile health, with intense headaches, nausea and eyesight problems, forced his resignation by 1879 ([SEP](https://plato.stanford.edu/entries/nietzsche/)). In January 1889 he collapsed in the street in Turin; Franz Overbeck found him suffering from dementia, and he passed into his mother's and then his sister's care, lapsing into silence ([SEP](https://plato.stanford.edu/entries/nietzsche/)). He died in 1900 of a stroke complicated by pneumonia ([SEP](https://plato.stanford.edu/entries/nietzsche/)).
+Born October 15, 1844, in Röcken ([SEP](https://plato.stanford.edu/entries/nietzsche/)). His father, a Lutheran minister, died in 1849, when Nietzsche was four; the family moved to Naumburg, where he grew up with his mother, grandmother, two aunts and younger sister Elisabeth ([SEP](https://plato.stanford.edu/entries/nietzsche/)). As a student in Leipzig he met Richard Wagner, and in May 1869 he was called to a chair in classical philology at Basel, at twenty-four the youngest ever so appointed ([SEP](https://plato.stanford.edu/entries/nietzsche/)). The Wagner friendship soured after 1876; sending them Human, All-too-human in early 1878 effectively ended it ([SEP](https://plato.stanford.edu/entries/nietzsche/)). Fragile health, with intense headaches, nausea and eyesight problems, forced his resignation by 1879 ([SEP](https://plato.stanford.edu/entries/nietzsche/)). In January 1889 he collapsed in the street in Turin; Franz Overbeck found him suffering from dementia, and he passed into his mother's and then his sister's care, lapsing into silence ([SEP](https://plato.stanford.edu/entries/nietzsche/)). He died in 1900 of a stroke complicated by pneumonia ([SEP](https://plato.stanford.edu/entries/nietzsche/)).
 
 ## Their why
 
-The death of God is not a gloat but a diagnosis: "the belief in the Christian God has become unbelievable," and European morality, "built upon this faith, propped up by it, grown into it," is destined to collapse ([SEP](https://plato.stanford.edu/entries/nietzsche/)). His question is what values can be loved once that faith fails: "I want to learn more and more to see as beautiful what is necessary in things... Amor fati: let that be my love henceforth" ([Gay Science 276, quoted in SEP](https://plato.stanford.edu/entries/nietzsche/)).
+The death of God is not a gloat but a diagnosis: "the belief in the Christian God has become unbelievable," and European morality, "built upon this faith, propped up by it, grown into it," is destined to collapse ([SEP](https://plato.stanford.edu/entries/nietzsche/)). His question is what values can be loved once that faith fails: "I want to learn more and more to see as beautiful what is necessary in things; then I shall be one of those who make things beautiful. Amor fati: let that be my love henceforth!" ([Gay Science 276, quoted in SEP](https://plato.stanford.edu/entries/nietzsche/)).
 
 ## Their position
 
@@ -26,7 +26,7 @@ Value is measured by vitality. "What is good?--Whatever augments the feeling of 
 ## Core ideas
 
 - **The death of God** — the loss of the shared faith that grounded European morality. See [[Nihilism]], [[Passive nihilism]].
-- **The will to power** — life as the growth and overcoming of resistance, not contentment. See [[Will to power]].
+- **The will to power** — life as the growth and overcoming of resistance, not contentment; the entry notes scholars dispute whether it is metaphysics, psychology, a quasi-scientific conjecture or an expression of his values. See [[Will to power]], [[Strength as virtue]], [[Self-overcoming]].
 - **Master and slave morality** — good/bad against good/evil; ressentiment as the engine of the slave revolt. See [[The critique of ressentiment]], [[Herd morality]].
 - **The overman** — man as bridge, not goal; the higher type as a direction. See [[The overman (Übermensch)]].
 - **Eternal recurrence** — the test of affirmation: could you will your life again, unchanged? See [[Eternal recurrence]].
@@ -36,7 +36,7 @@ Value is measured by vitality. "What is good?--Whatever augments the feeling of 
 
 ## Connected in the wiki — the Nietzschean layer
 
-The corpus has no Nietzschean book of principles; the section keeps the entries whose pages cite Nietzsche in their sources, plus the concepts, stories, kernel and sayings keyed to him (the stories include two straight from Zarathustra and the Gay Science). A citation scan selects candidates without proving dependence, so supervisor audit is requested. (Scoping by analogy to the T002 owner direction; supervisor, please confirm.)
+The corpus has no Nietzsche-prefixed book of principles; the section keeps the entries whose pages cite Nietzsche in their sources, plus the concepts, stories, kernel and sayings keyed to him (the stories include two straight from Zarathustra and the Gay Science). A citation scan selects candidates without proving dependence, so supervisor audit is requested. (Scoping by analogy to the T002 owner direction; supervisor, please confirm.)
 
 ### Principles (110)
 - [[A010 — Recognise that fortune can overturn happiness|Recognise that fortune can overturn happiness]]
@@ -193,14 +193,14 @@ The corpus has no Nietzschean book of principles; the section keeps the entries 
 - [[K330 — Value-creation audit|Value-creation audit]]
 
 ### Stories (3)
-- [[ST293 — The Three Metamorphoses|293.  The Three Metamorphoses]]
-- [[ST294 — The Demon's Question|294.  The Demon's Question]]
-- [[ST296 — Andrew's Final Solo|296.  Andrew's Final Solo]]
+- [[ST293 — The Three Metamorphoses|293.  The Three Metamorphoses]] — from Zarathustra's opening speech
+- [[ST294 — The Demon's Question|294.  The Demon's Question]] — from the Gay Science's greatest-weight passage
+- [[ST296 — Andrew's Final Solo|296.  Andrew's Final Solo]] — a modern film illustration (Whiplash, 2014), kept as reception, not Nietzsche's text
 
 ### Sayings (3)
-- [[Everything serves a purpose|Everything serves a purpose]]
-- [[Long obedience in the same direction|Long obedience in the same direction]]
-- [[Panta rhei|Panta rhei]]
+- [[Everything serves a purpose|Everything serves a purpose]] — its page sources it to the Genealogy of Morals
+- [[Long obedience in the same direction|Long obedience in the same direction]] — its page sources it to Beyond Good and Evil 188
+- [[Panta rhei|Panta rhei]] — Heraclitus, per its own page; kept only to close the scan
 
 ### Thinkers (0)
 No thinker page links to him yet.
