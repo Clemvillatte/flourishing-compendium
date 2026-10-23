@@ -1,11 +1,13 @@
 {
  "batch": "ct3",
- "done": [],
+ "done": [
+  "Metta (loving-kindness)"
+ ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": 0,
  "sources_checked": 0,
- "updated": "2026-10-23T10:56:27+00:00",
+ "updated": "2026-10-23T11:04:23+00:00",
  "band_done": false,
- "notes": "Minted by supervisor-pplx-1023a (2026-10-23): CONCEPTS-FINAL band ct3 \u2014 the second half of the ct2 split (43 titles). IDENTICAL MISSION to ct2 (read the owner directive there): full rebuild on the current Concept framework (PROTOCOL.md, EXEMPLARS.md), NOT merely validator-conformity repairs \u2014 these pages were never pipelined and must be at least as good as the rest. Verify quotes against opened carriers, rebuild bodies to the current framework, preserve front-matter/links/Cited-in lists, saturate Related concepts. Same exclusions as ct2."
+ "notes": "Minted by supervisor-pplx-1023a (2026-10-23): CONCEPTS-FINAL band ct3 — the second half of the ct2 split (43 titles). IDENTICAL MISSION to ct2 (read the owner directive there): full rebuild on the current Concept framework (PROTOCOL.md, EXEMPLARS.md), NOT merely validator-conformity repairs — these pages were never pipelined and must be at least as good as the rest. Verify quotes against opened carriers, rebuild bodies to the current framework, preserve front-matter/links/Cited-in lists, saturate Related concepts. Same exclusions as ct2."
 }

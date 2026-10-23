@@ -7,37 +7,66 @@ file: "Metta (loving-kindness)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Metta (Pali; Sanskrit maitrī, "friendliness") is loving-kindness — the first of the four brahmaviharas (divine abidings). The Karaṇīya Metta Sutta (Sn 1.8) gives its classic image: "Even as a mother protects with her life her child, her only child, so with a boundless heart should one cherish all living beings" — radiating boundless love above, below, and across, unhindered, without ill will, without enmity.
+Metta (Pali; Sanskrit maitrī) is the Buddhist practice of goodwill, usually rendered "loving-kindness." It is the first of the four brahmaviharas, the sublime abidings the tradition treats as the mind's home when ill will is gone. The Karaṇīya Metta Sutta (Sutta Nipāta 1.8) gives the classic image:
 
-The compendium's reading (principles B051, B097, B098): metta is a stance before a feeling — a trainable orientation of goodwill that starts with oneself (B097), extends to the difficult (B098), and becomes unconditional friendliness rather than a mood. It is the antidote to ill will (hindrance 2, B080) and [[Right speech|the affective basis of right speech]] (B148).
+> "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." ([Sutta Nipāta 1.8, trans. Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
-Metta's cross-tradition family is the universal-love traditions: [[Agape|Kierkegaard's agape]], the Confucian ren, and the Christian love of neighbour. What distinguishes metta is its training structure — it is cultivated as a meditation (metta bhavana), sequenced from self to friend to stranger to enemy, until the boundlessness is felt rather than willed.
+The sutta sets the wish inside a way of living: the practitioner is to be "capable, upright, & straightforward" and to do nothing "the wise would later censure" before radiating the wish that all beings be happy. Metta is therefore closer to goodwill than to a warm feeling, and teachers insist on the difference. Thanissaro Bhikkhu puts it plainly:
+
+> "Metta is a wish for happiness — true happiness — and the Buddha says to develop this wish for ourselves and everyone else." ([Thanissaro Bhikkhu, "Metta Means Goodwill"](https://www.accesstoinsight.org/lib/authors/thanissaro/metta_means_goodwill))
+
+### How metta is trained
+
+The tradition trains metta as a meditation (metta bhavana) in a deliberate sequence, from the easiest object to the hardest. Nyanaponika Thera describes the progression:
+
+> "One starts with an aspiration for one's own well-being, using it as a point of reference for gradual extension... Then one extends the thought of loving-kindness to a person for whom one has a loving respect, as, for instance, a teacher; then to dearly beloved people, to indifferent ones, and finally to enemies, if any, or those disliked." ([Nyanaponika Thera, "The Four Sublime States"](https://accesstoinsight.org/lib/authors/nyanaponika/wheel006))
+
+When the wish flows equally to all four types of person, the meditator "break[s] down the barriers", extending loving-kindness without discrimination between them. That boundlessness is felt rather than willed: the training works because each step is small enough to be honest.
+
+### What the evidence shows
+
+A field experiment with 139 working adults, half randomly assigned to begin a practice of loving-kindness meditation, found that the practice built positive emotions, which in turn built personal resources:
+
+> "This meditation practice produced increases over time in daily experiences of positive emotions, which, in turn, produced increases in a wide range of personal resources (e.g., increased mindfulness, purpose in life, social support, decreased illness symptoms). In turn, these increments in personal resources predicted increased life satisfaction and reduced depressive symptoms." ([Fredrickson et al., 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18954193/))
+
+The study tracked daily emotions and self-reported resources over time; it does not test the tradition's stronger claims, such as metta as an antidote to ill will, and the training sequence itself comes from the commentarial tradition rather than from this experiment.
+
+### In the compendium
+
+- [[B051 — Practice loving-kindness (metta)]] — the direct practice principle
+- [[B097 — Wish well, starting with yourself]] — metta training begins with the self as example
+- [[B098 — Extend goodwill to the difficult]] — the sequence ends where it is hardest
+- [[B080 — Meet ill will with warmth (hindrance 2)]] — metta as the counter to aversion
+- [[B148 — Speak lovingly]] — the warm heart as [[Right speech|the affective basis of right speech]]
+- [[B158 — Everyone wants to be happy]] — the shared wish underlying metta for friend and enemy alike
+- [[D104 — Love without possessing]] — goodwill without grasping
+- Cross-tradition parallels (comparisons, not influences): [[Agape|Kierkegaard's agape]], the Confucian ren, and the Christian love of neighbour.
 
 ## Related concepts
 
-
-
-
-- [[Agape]] — Kierkegaard: unconditional love
+- [[Agape]] — Kierkegaard: unconditional love, the Christian counterpart in the universal-love family
 - [[Karuna]] — compassion, its companion brahmavihara
-- [[Four immeasurables]] — the brahmavihara set
-- [[Metta (loving-kindness)]] — the English rendering
-- [[Mudita (sympathetic joy)]] — joy in others' good
-- [[Equanimity]] — the even ground of love
-
-- Buddhist brahmaviharas
-- Buddhist tradition, Metta Sutta
-- [[Care]] — the Buddhist training of wishing well
-- [[Right intention]] — listed for comparison
+- [[Four immeasurables]] — the brahmavihara set metta belongs to
+- [[Metta (loving-kindness)]] — this page: the Pali term metta with its English rendering
+- [[Mudita (sympathetic joy)]] — joy in others' good, the third brahmavihara
+- [[Equanimity]] — the even ground of love, the fourth brahmavihara
+- [[Care]] — wishing well as a trained practice of attention to another
+- [[Right intention]] — metta as the intention of goodwill, listed for comparison
+- [[Broaden-and-build]] — the theory the Fredrickson experiment tested metta against
 - [[SP059]] — Metta is trained as a stance before a feeling; Spinoza's generositas is likewise a desire by reason's dictate rather than a mood, goodwill as structure rather than feeling.
+
 ## Sources
 
+- [Sutta Nipāta 1.8, Karaṇīya Metta Sutta, trans. Thanissaro Bhikkhu (AccessToInsight)](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html) — the mother-and-only-child passage; the conduct prelude; citation Sn 1.8
+- [Nyanaponika Thera, "The Four Sublime States", Buddhist Publication Society Wheel 6 (AccessToInsight)](https://accesstoinsight.org/lib/authors/nyanaponika/wheel006) — the training sequence and the breaking-down of barriers
+- [Thanissaro Bhikkhu, "Metta Means Goodwill" (AccessToInsight)](https://accesstoinsight.org/lib/authors/thanissaro/metta_means_goodwill) — metta as a wish for true happiness rather than sentiment
+- [Fredrickson, Cohn, Coffey, Pek & Finkel (2008), "Open hearts build lives: positive emotions, induced through loving-kindness meditation, build consequential personal resources", Journal of Personality and Social Psychology 95(5) — abstract, PubMed](https://pubmed.ncbi.nlm.nih.gov/18954193/) — the field-experiment findings
 - Buddha, Karaṇīya Metta Sutta (Sn 1.8)
 - Buddhist tradition, Four Brahmaviharas
 - Santideva, Bodhicaryavatara
+- Hofmann et al., 2011
 
-- [[D104 — Love without possessing]]
-- - - - - ## Cited in philosophy parallels
+## Cited in philosophy parallels
 
 - [[B051 — Practice loving-kindness (metta)]]
 - [[B080 — Meet ill will with warmth (hindrance 2)]]
@@ -45,34 +74,31 @@ Metta's cross-tradition family is the universal-love traditions: [[Agape|Kierkeg
 - [[B098 — Extend goodwill to the difficult]]
 - [[B148 — Speak lovingly]]
 - [[B158 — Everyone wants to be happy]]
-
-“Metta: loving-kindness in action” — Buddhism, Metta Sutta.
-- Buddhism, Metta Sutta
-[[SE027 — Practise self-kindness over self-judgment — kindness is more motivating than cruelty]]
-[[K228 — Awe practice]]
-[[PP046 — Cultivate self-compassion]]
-[[K161 — Loving-kindness meditation]]
-[[K163 — Compassion-focused breathing]]
-[[SE012 — Understand that the self is not the enemy — self-relation is a skill]]
-[[ST077 — The Mother's Protection]]
-[[SE025 — Cultivate self-compassion — treat yourself as you would a good friend]]
-## Cited in philosophy parallels
 - [[BE056 — Learn to practise kindness and helping — acts of service]]
-
-“Maitri (loving-kindness)” — Buddhist tradition.
-- Buddhist tradition
-[[A064 — Know the three kinds of friendship]]
+- [[A064 — Know the three kinds of friendship]]
 - [[S077 — Practise hospitality and kindness to strangers]]
 - [[S085 — Practise kindness]]
+- [[D104 — Love without possessing]]
 
-reduces anger and increases positive affect (Fredrickson et al., 2008).
-- Fredrickson et al., 2008
-- Buddha, Metta Sutta
-- Hofmann et al., 2011
 ## Cited in psychology parallels
-- 
-- 
-## Operationalises
-[[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]], [[B051 — Practice loving-kindness (metta)|B051 Practice loving-kindness (metta)]], [[P165 — Become fully functioning — open to experience|P165 Become fully functioning: open to experience]]
+
+- [[SE027 — Practise self-kindness over self-judgment — kindness is more motivating than cruelty]]
+- [[SE012 — Understand that the self is not the enemy — self-relation is a skill]]
+- [[SE025 — Cultivate self-compassion — treat yourself as you would a good friend]]
+- [[PP046 — Cultivate self-compassion]]
+
+## Cited in stories
+
+- [[ST077 — The Mother's Protection]]
+
 ## Related kernels
-- 
+
+- [[K228 — Awe practice]]
+- [[K161 — Loving-kindness meditation]]
+- [[K163 — Compassion-focused breathing]]
+
+## Operationalises
+
+- [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]
+- [[B051 — Practice loving-kindness (metta)|B051 Practice loving-kindness (metta)]]
+- [[P165 — Become fully functioning — open to experience|P165 Become fully functioning: open to experience]]
