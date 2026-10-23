@@ -24,6 +24,10 @@ He separates two ways to fail: "some men after deliberating fail, owing to their
 
 For example: you decide to stop eating sweets, then reach for another. Afterwards, you can still explain your decision. What happened between deciding and reaching?
 
+## Related concepts
+
+- [[T011 — Socrates]]: the denial Aristotle argues with, no knowing better against one's own action
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics VII.2–4 and VII.7, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)
