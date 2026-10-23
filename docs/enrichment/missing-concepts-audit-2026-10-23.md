@@ -4,9 +4,12 @@ Auditor: auditor-pplx-b9c3e4a1 (owner-launched; spec by supervisor-pplx-1023a).
 Status: INCOMPLETE (time-boxed) — verified findings below plus an exact
 unfinished-scope list at the end; deliberately NOT promoted to a completed
 audit (advisor ruling round 3). Evidence artifact:
-`docs/enrichment/audit-evidence-2026-10-23.json` (v2, generated from an
+`docs/enrichment/audit-evidence-2026-10-23.json` (v3, generated from an
 immutable `git archive` of revision 1a908455; every count is asserted equal
-to its saved path-set length). PROPOSAL ONLY: nothing is minted; every
+to its saved path-set length; the 48-item kernel shortlist and the
+preliminary-target-to-existing-page mapping are restored in the artifact; the
+counting method is filtered-body, not prose-only — bibliographic lines and
+URLs are still counted). PROPOSAL ONLY: nothing is minted; every
 candidate waits for owner sign-off (standing rule 1).
 
 Mission lens (owner, in-session, 2026-10-23): every suggestion must serve
@@ -77,7 +80,7 @@ an automatic rejection (an opened-carrier case can outweigh it).
 | Yoga (Wikipedia) | ahimsa, santosha, pranayama, pratyahara, samadhi | dharana (3); dhyana (5); satya (8, principle-only coverage). Metta is NOT an item of the opened eight-limb list (it belongs to the Buddhist cluster; moved there). The asana limb accounting is incomplete in this pass (disclosed). |
 | Buddhist (IEP Buddha) | four noble truths, eightfold path, dukkha, anicca, anatta, tanha, samsara, nirvana, dependent origination, skandha, three poisons, four immeasurables, mudita, karuna, upekkha | **satipatthana / four foundations of mindfulness (46, frozen revision — principle B039 and story ST069 exist, no concept or kernel page)**; avijjā as a named page (0) |
 | Daoist (IEP) | dao, de, wu wei, ziran, pu, yin-yang, qi, ten thousand things, sage | hundun (0); zhenren (0); he-as-harmony (0 direct) |
-| Tibetan (Wikipedia Tibetan Buddhism) | four noble truths, anatta, aggregates, emptiness, bodhicitta, compassion, vipassana (insight), tonglen-adjacent giving-and-receiving ideas inside other pages | **lojong mind training (31 — no page)**; **samatha / calm abiding (17 + 3)**; **mahamudra (14)**; **lamrim (11)**; tonglen (5); bardo (7); pāramitā (7); six perfections (3); dzogchen (1); rigpa (2); ngöndro, guru yoga, tummo, dream yoga, trikaya, five paths, mandala (0 — honest absences) |
+| Tibetan (Wikipedia Tibetan Buddhism) | four noble truths, anatta, aggregates, emptiness, bodhicitta, compassion, vipassana (insight), tonglen-adjacent giving-and-receiving ideas inside other pages | **lojong mind training (11 filtered-body — K-S05 layer + B113/B180 principles + K026-class kernels exist, no concept page)**; **mahamudra (11 — K-S09 layer + K007/K026/K058 kernels, no concept page)**; lamrim (9, below floor); subjective well-being moved to the psychology row (48); tonglen (5); bardo (7); pāramitā (7); six perfections (3); dzogchen (1); rigpa (2); ngöndro, guru yoga, tummo, dream yoga, trikaya, five paths, mandala (0 — honest absences). Samatha WITHDRAWN: "Shamatha (calm abiding)" is an existing concept page (the samatha/shamatha spelling difference defeated the fuzzy check; caught by manual ls). |
 | Kyoto (SEP) | absolute nothingness, pure experience, emptiness/shunyata, zazen (Shikantaza), koan practice, self as process | metanoetics (7, frozen revision); nihility (6, frozen revision); action-intuition (4); basho (1); satori (3); self-power/other-power (1-2) |
 | Aristotelian (IEP) | eudaimonia, ergon, arete, the mean, phronesis, akrasia, habituation, friendship, self-love, contemplation | (no core item absent at corpus weight) |
 | Spinozist (IEP) | substance monism, conatus, affects, adequate ideas, three kinds of knowledge, bondage of desire, amor dei intellectualis, sub specie aeternitatis | common notions (2); active/passive affects as named pages (0); eternity of the mind (0) |
@@ -144,12 +147,17 @@ the Four immeasurables page exists).
 | 4 | The eupatheiai (Stoic good feelings) | 3 mentions (Apatheia, Passions as judgments, S059); IEP inventory item; no page | moderate: joy and goodwill as trainable emotions, the positive half of Stoic affect training | plausible-lacking (weak corpus weight) |
 | 5 | Action-intuition (Nishida) | 4 mentions; no page | moderate: knowing by becoming, an embodied alternative to detached observation | plausible-lacking |
 | 6 | Dharana / dhyana (Yoga Sutras limbs 6-7) | 3 / 5 mentions; limbs 4, 5 and 8 have pages | moderate: concentration as a trainable step toward meditation | plausible-lacking (weak) |
-| 7 | PERMA (Seligman's five-pillar flourishing model) | 16 prose mentions; the well-being pages exist but none presents PERMA (Wikipedia positive-psychology index opened) | very high: the mission's own flagship framework for genuine flourishing | verified-lacking as a dedicated page |
-| 8 | Subjective well-being (Diener's construct) | 45 prose mentions; The two-factor model of well-being mentions it only in passing; no dedicated page | high: the hedonic counterpart the wiki's eudaimonic pages need for balance | verified-lacking as a dedicated page |
-| 9 | Lojong (Tibetan mind training) | 31 prose mentions; no page; tonglen appears only inside other pages (5) | very high: the Tibetan curriculum for training the mind toward suffering's alleviation | verified-lacking as a dedicated page |
-| 10 | Samatha (calm abiding) | 17 + 3 prose mentions; Vipassana (insight) exists as its pair; no page | high: the concentration half of the classic samatha-vipassana pairing | verified-lacking as a dedicated page |
-| 11 | Mahamudra | 14 prose mentions; no page | moderate-high: direct experience of mind's nature | verified-lacking as a dedicated page |
-| 12 | Lamrim (stages of the path) | 11 prose mentions; no page | moderate-high: a graded path from renunciation to wisdom | verified-lacking as a dedicated page |
+| 7 | Subjective well-being (Diener's construct) | 48 filtered-body mentions (frozen-revision pass v3, path set saved); no page, no layer, no title match; The two-factor model of well-being mentions it only in passing | high: the hedonic counterpart the wiki's eudaimonic pages need for balance | verified-lacking as a dedicated page |
+| 8 | Lojong (Tibetan mind training) | 11 filtered-body mentions; K-S05 structure layer, principles B113/B180 and the K026-class kernels carry the practices; no concept page | very high: the Tibetan curriculum for training the mind toward suffering's alleviation | plausible-lacking (layer and kernel coverage exist; owner call whether a concept page adds value) |
+| 9 | Mahamudra | 11 filtered-body mentions; K-S09 layer and K007/K026/K058 kernels carry the operations; no concept page | moderate-high: direct experience of mind's nature | plausible-lacking (same caveat) |
+| 10 | Lamrim (stages of the path) | 9 filtered-body mentions (below floor); K049 graduated-structure kernel is adjacent | moderate-high: a graded path from renunciation to wisdom | plausible-lacking, weak |
+
+WITHDRAWN after the frozen-revision v3 pass (the fuzzy-check failure mode struck
+again and manual ls caught it): PERMA (the "PERMA model" concept page exists)
+and samatha ("Shamatha (calm abiding)" exists). All late candidates were
+re-processed through the frozen-revision filtered-body pass before these
+determinations; full path sets and existence matches are in the evidence
+artifact (late_candidates_frozen_revision_pass).
 
 ### Kernel candidates
 
@@ -199,15 +207,16 @@ umbrella (Four immeasurables) — all verified as existing pages.
    plain-text reference found, on the Autonomous versus controlled motivation
    page, pointing at sections of its own page — not dangling; no dangling
    See-wikilinks found).
-5. DONE at filename granularity before this push (disclosed limitation): all
-   seven domains have kernels (attention 3, emotion regulation 2,
-   relationships 9, meaning 10, self 9, body 10, wisdom 8 by kernel-filename
-   match); no domain is empty, so no domain-level gap is claimed. The
-   fine-grained gap remains the 48-item stem-match shortlist (item 7).
-6. DONE before this push: the 36 "inclusion" mentions were hand-checked for
-   Buber context — none is a Buber-specific use (generic social-psychology
-   usage); Buber's inclusion (Umfassung) is an honest absence at 0 dedicated
-   corpus weight.
+5. NOT DONE (reverted): the filename-granularity pass (attention 3, emotion
+   regulation 2, relationships 9, meaning 10, self 9, body 10, wisdom 8) is
+   insufficient — the spec's comparison is prescribed operations versus kernel
+   implementations, which requires reading, not filename matching. Stays on
+   the unfinished list.
+6. UNRESOLVED, honestly recorded: the 36 "inclusion" mentions were screened
+   only by same-line co-occurrence with Buber terms over concept files (no
+   Buber-specific use found in that screen); the matches across the whole
+   corpus were NOT individually inspected. Buber's inclusion (Umfassung)
+   coverage stays unresolved.
 7. PARTIALLY DONE before this push: the E-forest cluster was verified at the
    lexical level (kernel bodies grepped per practice word: shipwreck,
    conscience, axial age, emplotment, historicity, chiasm, incarnation,

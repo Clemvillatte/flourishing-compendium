@@ -262,5 +262,465 @@
   "Optimism bias": [
    "content/concepts/Probabilistic thinking.md"
   ]
- }
+ },
+ "late_candidates_frozen_revision_pass": {
+  "lojong": {
+   "count": 11,
+   "paths": [
+    "content/concepts/Growth mindset.md",
+    "content/principles/B113 \u2014 Be grateful to everyone (lojong).md",
+    "content/principles/B180 \u2014 Turn mishaps into the path (lojong).md",
+    "content/principles/K026 \u2014 Rest in the nature of awareness itself.md",
+    "content/principles/K028 \u2014 Practice sending and taking on the breath.md",
+    "content/principles/K030 \u2014 Work with your strongest defilement first.md",
+    "content/principles/K036 \u2014 Do not misinterpret the six things.md",
+    "content/structure/B Reference \u2014 Book II Appendix A \u2014 Saturation Checklist.md",
+    "content/structure/K Reference \u2014 Appendix A - Saturation Checklist.md",
+    "content/structure/K Reference \u2014 Appendix D - Primary Sources.md",
+    "content/structure/K-S05 \u2014 LAYER V - LOJONG \u2014 THE SLOGANS OF MIND TRAINING.md"
+   ],
+   "existence": {
+    "exact": [],
+    "fuzzy": [
+     "b113 be grateful to everyone lojong",
+     "b180 turn mishaps into the path lojong",
+     "be grateful to everyone lojong",
+     "k s05 layer v lojong the slogans of mind training",
+     "layer v lojong the slogans of mind training",
+     "turn mishaps into the path lojong"
+    ]
+   }
+  },
+  "mahamudra": {
+   "count": 11,
+   "paths": [
+    "content/concepts/The six departures.md",
+    "content/principles/K007 \u2014 Learn the mind's two registers \u2014 appearance and awareness.md",
+    "content/principles/K026 \u2014 Rest in the nature of awareness itself.md",
+    "content/principles/K058 \u2014 Let the mind be, unaltered.md",
+    "content/principles/K059 \u2014 Let thoughts arise and dissolve, like waves on water.md",
+    "content/principles/K060 \u2014 Do not recall; do not imagine; do not think; do not examine; do not control; rest.md",
+    "content/principles/K061 \u2014 Recognize thoughts' nature rather than fighting their content.md",
+    "content/principles/K062 \u2014 Practice one taste.md",
+    "content/structure/K Reference \u2014 Appendix A - Saturation Checklist.md",
+    "content/structure/K Reference \u2014 Appendix D - Primary Sources.md",
+    "content/structure/K \u2014 Kyoto-School and Tibetan Principles.md"
+   ],
+   "existence": {
+    "exact": [],
+    "fuzzy": [
+     "k s09 layer ix mahamudra the sky and the waves",
+     "layer ix mahamudra the sky and the waves"
+    ]
+   }
+  },
+  "lamrim": {
+   "count": 9,
+   "paths": [
+    "content/principles/K049 \u2014 Use the graduated structure; do not skip stages.md",
+    "content/principles/K051 \u2014 Treat action and consequence as the mind's habit loop.md",
+    "content/principles/K052 \u2014 Practice equanimity toward all beings first, before love.md",
+    "content/principles/K053 \u2014 Practice recognizing the kindness you have received.md",
+    "content/principles/K056 \u2014 Train ethics as the second perfection, at the floor first.md",
+    "content/structure/K Reference \u2014 Appendix A - Saturation Checklist.md",
+    "content/structure/K Reference \u2014 Appendix D - Primary Sources.md",
+    "content/structure/K \u2014 Kyoto-School and Tibetan Principles.md",
+    "content/structure/K-S08 \u2014 LAYER VIII - THE GRADUATED PATH.md"
+   ],
+   "existence": {
+    "exact": [],
+    "fuzzy": []
+   }
+  },
+  "subjective well-being": {
+   "count": 48,
+   "paths": [
+    "content/concepts/Approach-oriented commitment research.md",
+    "content/concepts/Ecological gratitude.md",
+    "content/concepts/Generalized trust.md",
+    "content/concepts/Goal adjustment capacity.md",
+    "content/concepts/Goal disengagement.md",
+    "content/concepts/Grit.md",
+    "content/concepts/Hierarchy of Needs Theory.md",
+    "content/concepts/Nature connectedness.md",
+    "content/concepts/PERMA model.md",
+    "content/concepts/Self-concordance theory.md",
+    "content/concepts/Self-concordant goal pursuit over time.md",
+    "content/concepts/Social determinants of well-being.md",
+    "content/concepts/The art of letting go.md",
+    "content/concepts/The two-factor model of well-being.md",
+    "content/concepts/Time affluence.md",
+    "content/concepts/Values-concordant goals.md",
+    "content/kernels/K182 \u2014 Small-wins tracking.md",
+    "content/kernels/K196 \u2014 Daily movement.md",
+    "content/kernels/K223 \u2014 Meaning audit.md",
+    "content/kernels/K248 \u2014 Positive greetings.md",
+    "content/kernels/K250 \u2014 Virtue rehearsal.md",
+    "content/kernels/K280 \u2014 Gratitude for sufficiency.md",
+    "content/kernels/K323 \u2014 Daily making.md",
+    "content/kernels/K349 \u2014 Act of repair.md",
+    "content/kernels/K409 \u2014 Non-sleep deep rest (NSDR).md",
+    "content/principles/AF018 \u2014 Understand that affect is regulated by reward prediction error, not by outcomes alone.md",
+    "content/principles/AF020 \u2014 Distinguish pleasure from satisfaction; they are different systems.md",
+    "content/principles/BE065 \u2014 Engage in play behaviour \u2014 play is not frivolous.md",
+    "content/principles/CO067 \u2014 Recognise the role of emotion in reasoning \u2014 feeling is information for thinking.md",
+    "content/principles/E110 \u2014 Practise life affirmation.md",
+    "content/principles/MO034 \u2014 Learn to review and adjust goals \u2014 flexibility matters.md",
+    "content/principles/MO055 \u2014 Recognise that goal progress predicts well-being \u2014 pursuing goals is good for you.md",
+    "content/principles/MO058 \u2014 Learn to disengage from unattainable goals \u2014 letting go is adaptive.md",
+    "content/principles/P183 \u2014 Make your life significant by fusing ideal with active virtue.md",
+    "content/principles/P186 \u2014 The fight against evil is local and concrete.md",
+    "content/principles/PP003 \u2014 Practise measurement humility.md",
+    "content/principles/PP013 \u2014 Practise gratitude with specificity.md",
+    "content/principles/PP061 \u2014 Consider the cultural context.md",
+    "content/principles/PP066 \u2014 Practise patience with the timeline.md",
+    "content/principles/R128 \u2014 Practise ecological gratitude.md",
+    "content/principles/S036 \u2014 Do not postpone living well.md",
+    "content/principles/SO009 \u2014 Treat the sociocultural level as measurable.md",
+    "content/principles/SO013 \u2014 Treat cultural meaning as constructed, not given.md",
+    "content/principles/SO065 \u2014 Use well-being measures in policy.md",
+    "content/principles/SO076 \u2014 Treat digital and technological change as a designable environment.md",
+    "content/structure/E Reference \u2014 Book IV Appendix B - Psychological Science References.md",
+    "content/structure/SE Reference \u2014 Appendix B \u2014 Psychological Science References.md",
+    "content/structure/SO Reference \u2014 Appendix B \u2014 Psychological Science References.md"
+   ],
+   "existence": {
+    "exact": [],
+    "fuzzy": []
+   }
+  },
+  "PERMA": {
+   "count": 10,
+   "paths": [
+    "content/concepts/PERMA model.md",
+    "content/principles/AF072 \u2014 Recognise that positive affect alone is not flourishing; it is one component.md",
+    "content/principles/P170 \u2014 Build flourishing strand by strand (PERMA).md",
+    "content/principles/P172 \u2014 Design your days for the strands.md",
+    "content/principles/PP004 \u2014 Treat flourishing as multi-dimensional.md",
+    "content/principles/PP065 \u2014 Build a portfolio, not a single practice.md",
+    "content/stories/ST136 \u2014 Seligman Renames the Target.md",
+    "content/structure/P \u2014 Pragmatist and Process Principles.md",
+    "content/structure/PP Reference \u2014 Sources for Book VI.md",
+    "content/thinkers/T026 \u2014 Seligman, Martin.md"
+   ],
+   "existence": {
+    "exact": [],
+    "fuzzy": [
+     "build flourishing strand by strand perma",
+     "p170 build flourishing strand by strand perma",
+     "perma model"
+    ]
+   }
+  },
+  "samatha": {
+   "count": 17,
+   "paths": [
+    "content/concepts/Attention.md",
+    "content/concepts/Focused-attention meditation.md",
+    "content/concepts/Growth through practice.md",
+    "content/concepts/Open-monitoring meditation.md",
+    "content/concepts/Restlessness as weather.md",
+    "content/concepts/Shamatha (calm abiding).md",
+    "content/concepts/The relaxation response.md",
+    "content/principles/AT005 \u2014 Know that attention and awareness are not the same \u2014 you can be aware without attending.md",
+    "content/principles/AT011 \u2014 Recognise that attention can be open or closed \u2014 both are needed.md",
+    "content/principles/AT030 \u2014 Learn to use attentional anchors \u2014 objects that stabilise focus.md",
+    "content/principles/AT043 \u2014 Understand attentional restoration through meditation \u2014 rest in awareness.md",
+    "content/principles/AT047 \u2014 Learn focused attention meditation \u2014 concentration on a single object.md",
+    "content/principles/B035 \u2014 Balance calming and insight (samatha-vipassana; zhiguan).md",
+    "content/principles/B042 \u2014 Develop calm (samatha).md",
+    "content/principles/B059 \u2014 Retreat periodically \u2014 go deep.md",
+    "content/stories/ST072 \u2014 Hirayama Photographs the Light.md",
+    "content/stories/ST342 \u2014 The Wild Boars Sit Still.md"
+   ],
+   "existence": {
+    "exact": [],
+    "fuzzy": [
+     "b035 balance calming and insight samatha vipassana zhiguan",
+     "b042 develop calm samatha",
+     "balance calming and insight samatha vipassana zhiguan",
+     "develop calm samatha"
+    ]
+   }
+  },
+  "satipatthana": {
+   "count": 46,
+   "paths": [
+    "content/concepts/Contemporary psychodynamic theory.md",
+    "content/concepts/Mindfulness.md",
+    "content/concepts/Perception precedes thought.md",
+    "content/concepts/Psychoanalysis.md",
+    "content/concepts/Right mindfulness.md",
+    "content/concepts/Sati.md",
+    "content/concepts/Vipassana (insight).md",
+    "content/concepts/Walking meditation.md",
+    "content/kernels/K160 \u2014 Feeling-tone pass.md",
+    "content/principles/AF005 \u2014 Learn to read your own body \u2014 interoception.md",
+    "content/principles/AT007 \u2014 Understand that attention shapes experience \u2014 what you attend to grows.md",
+    "content/principles/AT012 \u2014 Understand that attention is the gateway to experience \u2014 it is where well-being is lived.md",
+    "content/principles/AT024 \u2014 Cultivate attentional presence \u2014 fully attend to what you are doing.md",
+    "content/principles/AT034 \u2014 Cultivate metacognitive awareness of attention \u2014 notice when attention drifts.md",
+    "content/principles/AT050 \u2014 Learn body scan \u2014 systematic attention through the body.md",
+    "content/principles/AT053 \u2014 Learn to notice and name attentional states \u2014 labelling improves control.md",
+    "content/principles/B011 \u2014 Make mindfulness the master tool (sati).md",
+    "content/principles/B027 \u2014 Develop right mindfulness (samma sati).md",
+    "content/principles/B034 \u2014 Know the five hindrances.md",
+    "content/principles/B039 \u2014 Practice the four foundations of mindfulness (satipatthana).md",
+    "content/principles/B040 \u2014 Know the body (body contemplation).md",
+    "content/principles/B041 \u2014 Practice walking meditation.md",
+    "content/principles/B066 \u2014 Watch states arise and pass.md",
+    "content/principles/B067 \u2014 Notice feeling tone first (vedana).md",
+    "content/principles/B079 \u2014 Meet sensory desire with awareness (hindrance 1).md",
+    "content/principles/B080 \u2014 Meet ill will with warmth (hindrance 2).md",
+    "content/principles/B083 \u2014 Meet doubt with investigation (hindrance 5).md",
+    "content/principles/B169 \u2014 Eat mindfully.md",
+    "content/principles/B189 \u2014 Ground in the body.md",
+    "content/principles/B194 \u2014 Be your own island (attadipa).md",
+    "content/principles/BI009 \u2014 Understand that interoception is the foundation of emotional awareness.md",
+    "content/principles/BI053 \u2014 Cultivate interoceptive awareness \u2014 notice internal signals.md",
+    "content/principles/BI054 \u2014 Learn body scan meditation \u2014 systematic body awareness.md",
+    "content/principles/CO005 \u2014 Understand that thinking is embodied \u2014 the body shapes the mind.md",
+    "content/principles/CO050 \u2014 Learn to question your thoughts \u2014 not every thought deserves belief.md",
+    "content/principles/CO063 \u2014 Cultivate metacognition \u2014 thinking about your own thinking.md",
+    "content/principles/D159 \u2014 Treat your body as a loan, not a possession.md",
+    "content/principles/SE028 \u2014 Learn mindful self-awareness \u2014 hold your experience without over-identifying.md",
+    "content/principles/Y046 \u2014 Move the body as contemplative practice.md",
+    "content/stories/ST069 \u2014 The Four Foundations.md",
+    "content/structure/AF Reference \u2014 Appendix C \u2014 Philosophy References.md",
+    "content/structure/AT Reference \u2014 Appendix C \u2014 Philosophy References.md",
+    "content/structure/B \u2014 Buddhist Principles.md",
+    "content/structure/BI Reference \u2014 Appendix C \u2014 Philosophy References.md",
+    "content/structure/CO Reference \u2014 Appendix C \u2014 Philosophy References.md",
+    "content/structure/D Reference \u2014 Book I Appendix C \u2014 Philosophy References.md"
+   ],
+   "existence": {
+    "exact": [],
+    "fuzzy": [
+     "b039 practice the four foundations of mindfulness satipatthana",
+     "practice the four foundations of mindfulness satipatthana"
+    ]
+   }
+  }
+ },
+ "stream4_kernel_shortlist": {
+  "practice_principles": 696,
+  "kernel_files": 316,
+  "no_kernel_hit": [
+   {
+    "principle": "Practise perceptiveness (aisthesis)",
+    "path": "content/principles/A050 \u2014 Practise perceptiveness (aisthesis).md"
+   },
+   {
+    "principle": "Practice heedfulness (appamada)",
+    "path": "content/principles/B017 \u2014 Practice heedfulness (appamada).md"
+   },
+   {
+    "principle": "Use antidotes skillfully",
+    "path": "content/principles/B084 \u2014 Use antidotes skillfully.md"
+   },
+   {
+    "principle": "Cultivate tranquility (passaddhi)",
+    "path": "content/principles/B094 \u2014 Cultivate tranquility (passaddhi).md"
+   },
+   {
+    "principle": "Practise the chiasm",
+    "path": "content/principles/E019 \u2014 Practise the chiasm.md"
+   },
+   {
+    "principle": "Practise thrownness (Geworfenheit)",
+    "path": "content/principles/E022 \u2014 Practise thrownness (Geworfenheit).md"
+   },
+   {
+    "principle": "Practise conscience (Gewissen)",
+    "path": "content/principles/E045 \u2014 Practise conscience (Gewissen).md"
+   },
+   {
+    "principle": "Practise resoluteness (Entschlossenheit)",
+    "path": "content/principles/E046 \u2014 Practise resoluteness (Entschlossenheit).md"
+   },
+   {
+    "principle": "Practise historicity (Geschichtlichkeit)",
+    "path": "content/principles/E047 \u2014 Practise historicity (Geschichtlichkeit).md"
+   },
+   {
+    "principle": "Practise solidarity",
+    "path": "content/principles/E059 \u2014 Practise solidarity.md"
+   },
+   {
+    "principle": "Practise emplotment",
+    "path": "content/principles/E084 \u2014 Practise emplotment.md"
+   },
+   {
+    "principle": "Practise shipwreck",
+    "path": "content/principles/E092 \u2014 Practise shipwreck.md"
+   },
+   {
+    "principle": "Practise the encompassing (das Umgreifende)",
+    "path": "content/principles/E094 \u2014 Practise the encompassing (das Umgreifende).md"
+   },
+   {
+    "principle": "Practise the axial age",
+    "path": "content/principles/E096 \u2014 Practise the axial age.md"
+   },
+   {
+    "principle": "Practise Gelassenheit (releasement)",
+    "path": "content/principles/E102 \u2014 Practise Gelassenheit (releasement).md"
+   },
+   {
+    "principle": "Practise the overman (\u00dcbermensch)",
+    "path": "content/principles/E109 \u2014 Practise the overman (\u00dcbermensch).md"
+   },
+   {
+    "principle": "Use instability creatively",
+    "path": "content/principles/P149 \u2014 Use instability creatively.md"
+   },
+   {
+    "principle": "Practise whanaungatanga",
+    "path": "content/principles/R026 \u2014 Practise whanaungatanga.md"
+   },
+   {
+    "principle": "Practise manaakitanga",
+    "path": "content/principles/R027 \u2014 Practise manaakitanga.md"
+   },
+   {
+    "principle": "Practise kaitiakitanga",
+    "path": "content/principles/R028 \u2014 Practise kaitiakitanga.md"
+   },
+   {
+    "principle": "Practise rangatiratanga",
+    "path": "content/principles/R029 \u2014 Practise rangatiratanga.md"
+   },
+   {
+    "principle": "Practise kotahitanga",
+    "path": "content/principles/R030 \u2014 Practise kotahitanga.md"
+   },
+   {
+    "principle": "Practise tapu",
+    "path": "content/principles/R032 \u2014 Practise tapu.md"
+   },
+   {
+    "principle": "Practise utu",
+    "path": "content/principles/R033 \u2014 Practise utu.md"
+   },
+   {
+    "principle": "Practise tika",
+    "path": "content/principles/R034 \u2014 Practise tika.md"
+   },
+   {
+    "principle": "Practise pono",
+    "path": "content/principles/R035 \u2014 Practise pono.md"
+   },
+   {
+    "principle": "Practise aroha",
+    "path": "content/principles/R036 \u2014 Practise aroha.md"
+   },
+   {
+    "principle": "Practise Te Whare Tapa Wh\u0101",
+    "path": "content/principles/R037 \u2014 Practise Te Whare Tapa Wh\u0101.md"
+   },
+   {
+    "principle": "Practise whakawhanaungatanga",
+    "path": "content/principles/R038 \u2014 Practise whakawhanaungatanga.md"
+   },
+   {
+    "principle": "Practise hau",
+    "path": "content/principles/R039 \u2014 Practise hau.md"
+   },
+   {
+    "principle": "Practise wh\u0101nau ora",
+    "path": "content/principles/R040 \u2014 Practise wh\u0101nau ora.md"
+   },
+   {
+    "principle": "Practise teu le v\u0101",
+    "path": "content/principles/R042 \u2014 Practise teu le v\u0101.md"
+   },
+   {
+    "principle": "Practise fa'asamoa",
+    "path": "content/principles/R043 \u2014 Practise fa'asamoa.md"
+   },
+   {
+    "principle": "Practise tautua",
+    "path": "content/principles/R044 \u2014 Practise tautua.md"
+   },
+   {
+    "principle": "Practise talanoa",
+    "path": "content/principles/R046 \u2014 Practise talanoa.md"
+   },
+   {
+    "principle": "Practise va tapuia",
+    "path": "content/principles/R047 \u2014 Practise va tapuia.md"
+   },
+   {
+    "principle": "Practise ofo",
+    "path": "content/principles/R048 \u2014 Practise ofo.md"
+   },
+   {
+    "principle": "Practise alofa",
+    "path": "content/principles/R049 \u2014 Practise alofa.md"
+   },
+   {
+    "principle": "Practise attentiveness",
+    "path": "content/principles/R070 \u2014 Practise attentiveness.md"
+   },
+   {
+    "principle": "Practise availability (disponibilit\u00e9)",
+    "path": "content/principles/R085 \u2014 Practise availability (disponibilit\u00e9).md"
+   },
+   {
+    "principle": "Practise fidelity",
+    "path": "content/principles/R086 \u2014 Practise fidelity.md"
+   },
+   {
+    "principle": "Practise incarnation",
+    "path": "content/principles/R089 \u2014 Practise incarnation.md"
+   },
+   {
+    "principle": "Practise capabilities",
+    "path": "content/principles/R110 \u2014 Practise capabilities.md"
+   },
+   {
+    "principle": "Practise beneficence",
+    "path": "content/principles/S037 \u2014 Practise beneficence.md"
+   },
+   {
+    "principle": "Practise non-retaliation",
+    "path": "content/principles/S042 \u2014 Practise non-retaliation.md"
+   },
+   {
+    "principle": "Cultivate tranquillity (ataraxia)",
+    "path": "content/principles/S067 \u2014 Cultivate tranquillity (ataraxia).md"
+   },
+   {
+    "principle": "Do not gossip",
+    "path": "content/principles/S075 \u2014 Do not gossip.md"
+   },
+   {
+    "principle": "Practice tenacity",
+    "path": "content/principles/SP058 \u2014 Practice tenacity.md"
+   }
+  ]
+ },
+ "preliminary_targets_to_existing_pages": {
+  "The testing effect / retrieval practice": [
+   "content/concepts/The testing effect retrieval practice.md",
+   "content/concepts/The testing effect retrieval practice.md"
+  ],
+  "Participate \u2014 do with, not to": [
+   "content/concepts/Participate \u2014 do with, not to.md",
+   "content/concepts/Participate \u2014 do with, not to.md",
+   "content/principles/P090 \u2014 Participate \u2014 do with, not to.md"
+  ],
+  "Behavioural rehearsal / role-play (DBT, social skills training)": [
+   "content/concepts/Behavioural rehearsal role-play (DBT, social skills training).md",
+   "content/concepts/Behavioural rehearsal role-play (DBT, social skills training).md"
+  ],
+  "Yoga: union of body, breath, and mind": [
+   "content/concepts/Yoga \u2014 union of body, breath, and mind.md",
+   "content/concepts/Yoga \u2014 union of body, breath, and mind.md"
+  ],
+  "The wanting/liking dissociation": [
+   "content/concepts/The wantingliking dissociation.md"
+  ]
+ },
+ "method_note": "v3: late candidates processed through the same frozen-revision filtered-body pass (method: body minus front-matter minus wikilink-only list lines; bibliographic lines and URLs are still counted \u2014 call it filtered-body, not prose-only); every count equals its saved path-set length; kernel shortlist and preliminary-target mapping restored."
 }
