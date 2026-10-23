@@ -20,7 +20,7 @@ visually, no rendering defects); gallery/sort/graph verified in built data.
 'opened 2026-XX-XX' clauses, 'this session' notes, 'cited on the page, not read' (67) — all
 reworded to reader terms or removed; zero banned patterns remain; 191+ files validate clean.
 THIRD OPEN QUESTION FOR OWNER: concept pages link cross-tradition principles in their parallels lists (e.g. Justice -> R034 Practise tika, R052, R096; Moral identity -> R034/R052/R024/R103/SP009). The owner named the tika link as 'too much' — should concepts be gated to their category the way thinkers now are? Left untouched; it touches every concept page's parallels list.
-SECOND OPEN QUESTION FOR OWNER: 264 uses of 'the original entry / the earlier version' (editorial-history narration that also carries citation provenance) — sweep to plain provenance phrasing, or keep? Left untouched.
+SECOND OPEN QUESTION FOR OWNER: 230 uses of 'the original entry / the earlier version' (count as of 05:44Z; was 264) (editorial-history narration that also carries citation provenance) — sweep to plain provenance phrasing, or keep? Left untouched.
 OPEN QUESTION FOR OWNER: 253 files use 'compendium exercise / the compendium's gloss'
 phrasing — deliberate voice or sweep? Left untouched pending owner call (the owner's K060
 example included it, so it may be unwanted).
