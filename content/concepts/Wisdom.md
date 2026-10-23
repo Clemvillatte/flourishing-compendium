@@ -54,6 +54,7 @@ A related line of research asks whether groups have their own intelligence. Wool
 - [[Y095 — Let knowledge purify action]] — knowledge ripening into wise action
 
 ## Related concepts
+- [[T011 — Socrates]]: the Apology reference the page's wisdom list ends on.
 
 
 - [[Wise reasoning]] — Grossmann's construct for the metacognitive capacities this page defines

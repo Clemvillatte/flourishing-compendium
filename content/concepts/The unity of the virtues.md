@@ -38,6 +38,7 @@ It is not the claim that everyone who is good at one thing is good at everything
 - [[S011 — Recognise the three topoi — the three disciplines]] — the Stoic cousin
 
 ## Facets
+- [[T011 — Socrates]]: the Protagoras thesis and its reworking, the concept's source.
 
 - **and knowledge** — Socrates, in Plato's Protagoras
 

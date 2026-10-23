@@ -12,6 +12,7 @@ legacy: {"volume": "Companion — Thinkers", "book": "Thinkers — A to Z", "cha
 > **Thinker T010** — Epictetus (c. 50–135 CE), Greek Stoic philosopher; born enslaved in Hierapolis, taught at Rome, exiled to Nicopolis; he wrote nothing, and his teaching survives in Arrian's Discourses and Encheiridion.
 
 ## Personal story / context
+- [[T011 — Socrates]]: the exemplar the Enchiridion keeps citing, including ST203's Stoic before the Stoics.
 
 Born sometime in the 50s CE in Hierapolis, a Greek city of Asia Minor ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epictetus/)). He spent part of his life enslaved to Epaphroditus, an important administrator in Nero's court ([SEP](https://plato.stanford.edu/entries/epictetus/)). While in Rome he studied under Musonius Rufus, a Roman senator and Stoic philosopher ([SEP](https://plato.stanford.edu/entries/epictetus/)). He eventually received his freedom and began to lecture on his own account ([SEP](https://plato.stanford.edu/entries/epictetus/)). When Domitian's edict of 89 CE banned philosophers from the Italian peninsula he was forced to leave, and he established his own school at Nicopolis, on the Adriatic coast of northwest Greece, teaching there until his death around 135 CE ([SEP](https://plato.stanford.edu/entries/epictetus/)). He wrote nothing: the Discourses, four of eight or more books surviving, were recorded by Arrian of Nicomedia, and the Encheiridion is Arrian's brief abridgment ([SEP](https://plato.stanford.edu/entries/epictetus/)).
 

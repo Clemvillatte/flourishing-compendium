@@ -24,6 +24,7 @@ Take a thought that is causing distress. Write down the evidence for it. Then wr
 The CBT base is measured at the review level: "we identified 269 meta-analytic studies and reviewed of those a representative sample of 106 meta-analyses" and "in general, the evidence-base of CBT is very strong", with "the strongest support exist[ing] for CBT of anxiety disorders, somatoform disorders, bulimia, anger control problems, and general stress" ([Hofmann et al. 2012](https://www.europsy.net/app/uploads/2017/08/Hofmann-2012-The-efficacy-of-CBT-a-review-of-meta-analyses.pdf), abstract verbatim). The Stoic ground is quoted above. Scope limits: the review concerns CBT treatment packages as delivered in therapy and does not establish the effectiveness of this standalone drill; the review's authors judged the included meta-analyses methodologically sound. The drill is written work where cognitive defusion (K126) is spoken work, and self-distanced reflection (K261) is the viewpoint change that makes both easier.
 
 ## Related concepts
+- [[T011 — Socrates]]: the exemplar behind separating what happened from what you make of it.
 
 - [[Cognitive defusion]]: the spoken sibling of the same separation from the thought
 - [[Cognitive flexibility]]: the capacity the drill trains, one interpretation among several

@@ -33,6 +33,7 @@ The conclusion is put as a question the dialogue then answers: "we have alighted
 - [[SE003 — Know that the self is multilayered — actual, ideal, and ought selves]] — the layered self of modern psychology
 
 ## Related concepts
+- [[T011 — Socrates]]: the soul-at-war-with-itself cases the Republic argument runs on.
 
 
 - [[The many selves]] — the plural self in James's account

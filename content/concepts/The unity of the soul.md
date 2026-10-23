@@ -24,6 +24,7 @@ Two things distinguish the claim. First, unity is not simplicity: the just perso
 The concept anchors the identity-integration work, and the research there is more modest than the Platonic claim. In Showers' work on self-structure, an integrative organization, one that mixes strengths and weaknesses within each self-aspect, "may offer greater stability, increased resilience, and a means of coping with extreme stress," while compartmentalized structures are "typically associated with the highest levels of self-esteem" but "may be vulnerable to instability" ([Showers and Zeigler-Hill 2007, Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.2007.00472.x/full)). The Platonic page supplies the normative version of what that research measures.
 
 ## Related concepts
+- [[T011 — Socrates]]: the Republic IV definition of justice as the soul's unity.
 
 - [[Ordering the soul]] — the same book's account of the harmony justice produces
 - [[The tripartite soul]] — the three parts the unity binds

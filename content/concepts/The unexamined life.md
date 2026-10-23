@@ -16,6 +16,7 @@ The sentence names the activity plainly: daily talk about virtue, examining ones
 The remark works as the negative image of the compendium's examined-life family: the warning rather than the practice, useful precisely when the practice lapses.
 
 ## Related concepts
+- [[T011 — Socrates]]: the trial's penalty stage (Apology 38a), the phrase's source.
 
 - [[The examined life]] — the positive twin, whose page already links back
 

@@ -438,11 +438,21 @@
   "content/concepts/The master's hand.md",
   "content/concepts/The obstacle's origin analysis.md",
   "content/concepts/The stimulus-response gap.md",
-  "content/concepts/The theoretical life.md"
+  "content/concepts/The theoretical life.md",
+  "content/concepts/The tripartite soul.md",
+  "content/concepts/The unexamined life.md",
+  "content/concepts/The unity of the soul.md",
+  "content/concepts/The unity of the virtues.md",
+  "content/concepts/The wounds of love.md",
+  "content/concepts/Wisdom.md",
+  "content/kernels/K266 — Impression-judgement-action log.md",
+  "content/kernels/K270 — Evidence-versus-interpretation drill.md",
+  "content/thinkers/T004 — Plato.md",
+  "content/thinkers/T010 — Epictetus.md"
  ],
  "in_progress": null,
  "flagged": {},
- "updated": "2026-10-23T14:29:02+00:00",
+ "updated": "2026-10-23T14:29:24+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR 2 (2026-10-23 ~12:59Z, supervisor-pplx-8c47a5): A001 — gloss grounded in the page’s Seneca story (ST194), line added in the section’s own \"- [[link]]: gloss\" style; validated ok. NOTE: A016 first append landed after the trailing reflections comment (breaks the build reflections regex); moved before it — workers: on pages with the fc:reflections comment, insert the section BEFORE it.\nWorker note (worker-pplx-t2a-oct23b): content/stories backlinks are the storyteller/supervisor pipeline (separation guard) - story pages left unedited and their done entries removed; t2a work covers principles, concepts, kernels and sayings only. Flag for supervisor: 24+ story pages still carry the Zhuangzi backlink gap."
 }

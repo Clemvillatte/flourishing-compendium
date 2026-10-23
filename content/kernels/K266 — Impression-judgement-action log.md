@@ -44,6 +44,7 @@ What this evidence does not test: the cited research did not evaluate a three-co
 Not applicable: the practice is a ruled page and a week of entries, not a recording.
 
 ## Operationalises
+- [[T011 — Socrates]]: the source of the Enchiridion quote the page's log runs on.
 
 - [[S001 — Distinguish what is up to you from what is not|S001 Distinguish what is up to you from what is not]]
 - [[S003 — Recognise that you are disturbed not by things but by your judgements about them|S003 Recognise that you are disturbed not by things but by your judgements about them]]
