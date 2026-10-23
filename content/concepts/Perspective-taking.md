@@ -7,21 +7,47 @@ file: "Perspective-taking"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Perspective-taking is the act of perceiving a situation or understanding a concept from an alternative point of view — most often that of another person ([Wikipedia, "Perspective-taking"](https://en.wikipedia.org/wiki/Perspective-taking)). In the psychology it splits into cognitive perspective-taking (inferring the other's beliefs and constraints) and affective (inferring their feelings), both studied under the wider umbrella of theory of mind — the human capacity to perceive and understand mental states ([Noba Project, "Theory of Mind"](https://nobaproject.com/modules/theory-of-mind)). The compendium treats it as a trainable skill, not a fixed trait ([[SO033 — Treat perspective-taking as a skill]]; [[K046 — Practice the exchange deliberately, as a skill]]).
+Perspective-taking is the effort to see a situation from another person's point of view. It is widely assumed to build understanding,, and the compendium treats it as a trainable skill. The best test of that assumption is Eyal, Steffel and Epley's 2018 paper, whose abstract opens: "Taking another person's perspective is widely presumed to increase interpersonal understanding."
 
-The mechanism is deliberate decentering: the default is egocentric anchoring — one's own perspective arrives first and is mistaken for the situation itself — so perspective-taking is the corrective procedure, which is why it appears in every wisdom tradition under another name: the Confucian shu ("do not impose on others what you do not desire", [[Shu]]; [[R064 — Practise reciprocity (shu)]]), the fusion of horizons ([[E080 — Practise the fusion of horizons]]), and the relativity of perspectives as a metaphysical fact, not just a courtesy ([[D081 — Recognize the relativity of perspectives]]).
+### What the evidence says
 
-The distinction to hold: taking a perspective is not agreeing with it, and it is not surrendering one's own view — it is the addition of a second model of the situation ([[M010 — Let the in-between soften your judgments of both sides]]). Research distinguishes it from empathy's contagion: perspective-taking can even be misused (strategic perspective-taking exists), so the compendium pairs it with wise reasoning ([[CO065 — Cultivate wise reasoning — wisdom is a trainable skill, not a fixed trait]]).
+The same abstract reports 25 experiments on whether instructing people to adopt another's perspective improves their accuracy. The finding is uncomfortable:
 
-An example at its smallest: before replying to an email that stung, one sentence written from the sender's likely constraints — not to excuse, but to model.
+> "Although a large majority of pretest participants believed that perspective taking would systematically increase accuracy on these tasks, we failed to find any consistent evidence that it actually did so. If anything, perspective taking decreased accuracy overall while occasionally increasing confidence in judgment." (Eyal, Steffel & Epley, 2018, [PubMed](https://pubmed.ncbi.nlm.nih.gov/29620401/))
 
-Its affective sibling is [[Empathy]], its cognitive substrate [[Theory of mind]], its Confucian form [[Shu]].
+Two details matter. Perspective-taking did reduce egocentric bias, "but the information used in its place was not systematically more accurate". And a final experiment found that "getting another person's perspective directly, through conversation, increased accuracy but that perspective taking did not". The authors' conclusion: "Understanding the mind of another person is therefore enabled by getting perspective, not simply taking perspective." That is why the compendium keeps [[Perspective-getting]] beside this entry.
+
+A critique in Psychology Today notes the control groups may have been taking perspective anyway, so the experiments show that the instruction added little, not that the skill has no value. The question is still open.
+
+### Reading it for practice
+
+Imagining another person's view is cheap and can loosen a rigid first reading, but it should not be mistaken for knowledge of what they think. Where asking is possible, ask. Where it is not, hold the imagined view as a guess. The Confucian [[Shu]], which the compendium renders as reciprocity, is an older relative of the habit, and a practical cousin of what [[Shu]] asks in daily dealings.
+
+### What it is not
+
+Taking a perspective is not agreeing with it, and it is not surrendering one's own. It adds a second model of the situation. It is also distinct from [[Empathy]]; its cognitive substrate is [[Theory of mind]].
+
+### A small case
+
+Before replying to an email that stung, write one sentence from the sender's likely constraints, then, if possible, ask a question instead of sending a verdict. (Illustrative scenario, not a reported case.)
+
+### In the compendium
+
+- [[SO033 — Treat perspective-taking as a skill]] and [[K046 — Practice the exchange deliberately, as a skill]] — the skill framing
+- [[CO065 — Cultivate wise reasoning — wisdom is a trainable skill, not a fixed trait]] — pairs it with wise reasoning
+- [[R064 — Practise reciprocity (shu)]] — the Confucian practice
+- [[M010 — Let the in-between soften your judgments of both sides]] — holding two views without collapsing them
+- [[E080 — Practise the fusion of horizons]] — the hermeneutic form
+- [[D081 — Recognize the relativity of perspectives]] — the Daoist form, as a fact about the world
+
 ## Related concepts
 
 - [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
 
 ## Sources
 
+- [Eyal, Steffel & Epley (2018), Perspective mistaking, Journal of Personality and Social Psychology 114(4)](https://pubmed.ncbi.nlm.nih.gov/29620401/) — abstract quoted above
+- [Psychology Today, "The Power to Read Minds"](https://www.psychologytoday.com/gb/blog/seeing-what-others-dont/202002/the-power-read-minds-0) — a critique of the control conditions in the 2018 experiments
 - Galinsky et al., 2008
 - Galinsky's perspective-taking research, as framework
 - Galinsky's research, as framework
