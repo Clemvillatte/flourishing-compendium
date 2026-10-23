@@ -17,7 +17,7 @@ Aristotle is careful about the virtue's scope: the truthful man "is not now mean
 
 ### In the compendium
 
-- [[R055 — Practise xin (trustworthiness/integrity)]] pairs this virtue with the Confucian xin: both make word and deed align so that others can build on the person, and both locate the substance in character rather than in the polish of the words.
+- [[R055 — Practise xin (trustworthinessintegrity)]] pairs this virtue with the Confucian xin: both make word and deed align so that others can build on the person, and both locate the substance in character rather than in the polish of the words.
 
 ## Related concepts
 
