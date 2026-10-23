@@ -4,7 +4,6 @@
   "The ontological difference",
   "The coloured lens",
   "The return of the soul to its source",
-  "A certain blindness",
   "Verum factum",
   "Walking off one's thoughts",
   "Whole Trait Theory",
@@ -72,7 +71,8 @@
   "Contempt for fame",
   "Steelmanning the opposing view",
   "Sub specie aeternitatis",
-  "The great doubt"
+  "The great doubt",
+  "A certain blindness"
  ],
  "in_progress": null,
  "flagged": {
@@ -106,11 +106,12 @@
   "Vipassana (insight)": "Reopened for QC: extension: add Thanissaro samatha pairing and MN 10 origination/passing away (prose 81)",
   "Viveka": "Reopened for QC: extension: add Yoga Sutra 2.26 and Vyasa on pain removal (prose 92)",
   "Contempt for fame": "Reopened for QC: extension: add what-it-is-not and small case (prose 138)",
-  "The great doubt": "Reopened for QC: extension: add scope note (prose 124)"
+  "The great doubt": "Reopened for QC: extension: add scope note (prose 124)",
+  "A certain blindness": "Reopened for QC: extension: add James's conclusion ('Hands off') verified (prose 93)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-23T14:33:00+00:00",
+ "updated": "2026-10-23T14:34:35+00:00",
  "band_done": false,
  "new_concepts": [
   {

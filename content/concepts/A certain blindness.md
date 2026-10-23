@@ -13,6 +13,16 @@ The heading names William James's essay "On a Certain Blindness in Human Beings"
 
 James also writes: "The spectator's judgment is sure to miss the root of the matter, and to possess no truth. The subject judged knows a part of the world of reality which the judging spectator fails to see, knows more while the spectator knows less" ([Gutenberg #16287](https://www.gutenberg.org/ebooks/16287)).
 
+### James's own conclusion
+
+The essay ends with a rule of restraint and a rule of effort. The rule of restraint reads: "Hands off: neither the whole of truth nor the whole of good is revealed to any single observer, although each observer gains a partial superiority of insight from the peculiar position in which he stands." The rule of effort is modest: "It is enough to ask of each of us that he should be faithful to his own opportunities and make the most of his own blessings, without presuming to regulate the rest of the vast field" (James, "On a Certain Blindness in Human Beings", [Project Gutenberg #16287](https://www.gutenberg.org/ebooks/16287)).
+
+Notice the balance. James does not say that all views are equal or that one's own duties are unimportant. He says each of us is "bound to feel intensely the importance of his own duties", and the blindness is the failure to grant the same weight to another person's.
+
+### What it is not
+
+The essay is not relativism and not a call for indifference. Its demand is humility about what one can see from where one stands, joined with faithfulness to one's own opportunities.
+
 ### In the compendium
 
 - [[P136 — Recognize your blindness — others live in worlds you cannot see]] — states the essay's point directly
