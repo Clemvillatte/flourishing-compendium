@@ -59,6 +59,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST385 — Han Xin Crawls Beneath the Butcher's Youth]]
     - [[ST409 — Eighty Years of Two Preludes and Fugues]]
     - [[ST424 — Han Xin Crawls Beneath the Butcher's Youth]]
+    - [[ST436 — 30. The Brother Nobody Heard Of]]
   - [[ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning]]
     - [[ST031 — Zhuangzi Drums on a Basin]]
     - [[ST032 — The Skull by the Road]]

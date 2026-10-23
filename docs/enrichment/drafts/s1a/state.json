@@ -867,7 +867,7 @@
    ]
   },
   "s1a-030": {
-   "status": "ready",
+   "status": "integrated",
    "angle": "D061: Bian Que ranks his eldest brother best — illness removed before it takes form, fame never leaving the house (Heguanzi, Shixian chapter)",
    "history": [
     {
@@ -888,8 +888,19 @@
      "t": "2026-10-23T06:56:40+00:00",
      "to": "ready",
      "note": "advisor QC approved (3 rounds); check_rule verified as covered by story_check (no separate script exists in repo); story_check 0 errors"
+    },
+    {
+     "t": "2026-10-23T06:57:51+00:00",
+     "to": "published_backlinks_pending",
+     "note": "ST436"
+    },
+    {
+     "t": "2026-10-23T06:57:51+00:00",
+     "to": "integrated",
+     "note": "backlinks done"
     }
-   ]
+   ],
+   "stid": "ST436"
   },
   "s1a-031": {
    "status": "ready",
@@ -1077,5 +1088,5 @@
    ]
   }
  },
- "updated": "2026-10-23T06:56:40+00:00"
+ "updated": "2026-10-23T06:57:51+00:00"
 }

@@ -37,6 +37,9 @@ The reasoning comes just before it: "That which is at rest is easily kept hold o
 - [[K153 — Implementation intentions|K153 Implementation intentions]]
 - [[K154 — Mental contrasting (WOOP)|K154 Mental contrasting (WOOP)]]
 - [[K237 — See-the-small practice|K237 See-the-small practice]]
+## Stories
+- [[ST436 — 30. The Brother Nobody Heard Of|436. 30. The Brother Nobody Heard Of]]
+
 ## Psychology parallels
 
 - **Preventive coping and stress inoculation** (Meichenbaum)
