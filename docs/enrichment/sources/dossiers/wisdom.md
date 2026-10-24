@@ -46,3 +46,22 @@ descriptions were compared with the opening text of each kernel card by eye.
 ## For the supervisor
 
 Registry status stays planned; publish with dossier_registry_build.py.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Seventeen public verification-status labels removed and relocated
+here (nine blockquote carrier suffixes and eight mid-paragraph inline
+citation suffixes). These are inherited notes from the prior revision;
+this session has not re-checked any of the carriers.
+
+Carriers affected: Aristotle, Nicomachean Ethics VI.7 (x2), VI.12,
+VI.13 (MIT classics) — Primary text; Baltes and Staudinger, American
+Psychologist 2000 abstract (x3) — Secondary source; Grossmann 2017
+abstract (x2) — Secondary source; Grossmann and Kross 2014 abstract —
+Secondary source; Grossmann et al. 2021 abstract — Secondary source;
+Kross and Grossmann 2012 abstract — Secondary source; Sanderse,
+Journal of Moral Education abstract — (label already absent); Laozi,
+Daodejing 71 (Gutenberg) — (label already absent).
+
+No card link, quotation text or gloss was changed; only the seventeen
+verification suffixes moved from the public prose to this ledger.
