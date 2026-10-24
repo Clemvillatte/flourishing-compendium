@@ -4137,7 +4137,8 @@ window.fcDossiersData = {
     },
     {
       "id": "eemm",
-      "label": "Extended Evolutionary Meta Model"
+      "label": "Extended Evolutionary Meta Model",
+      "short": "EEMM"
     },
     {
       "id": "affective-life",

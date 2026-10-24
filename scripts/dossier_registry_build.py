@@ -146,7 +146,7 @@ def main(argv=None):
         sys.exit('fcDossiersData block not found in ' + APP)
 
     groups = sorted(reg['groups'], key=lambda g: g['order'])
-    data['groups'] = [{'id': g['id'], 'label': g['label']} for g in groups]
+    data['groups'] = [{'id': g['id'], 'label': g['label'], **({'short': g['short']} if g.get('short') else {})} for g in groups]
     by_id = {d['id']: d for d in reg['dossiers']}
     existing = {d['id']: d for d in data.get('dossiers', [])}
 
