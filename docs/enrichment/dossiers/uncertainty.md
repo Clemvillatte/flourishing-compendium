@@ -6,9 +6,11 @@ Not knowing what comes next is the human condition, and the suffering comes not 
 
 ### Nearby terms
 
-- Uncertainty tolerance: held under the intolerance cards in the first group below.
-- Impermanence: held in its own group below, as the Buddhist and Daoist form of uncertainty about what lasts.
-- Probability and risk: held under the last group; decision research on risk sits with the Decision-Making dossier, and worry and anxiety with the Anxiety dossier.
+Uncertainty tolerance: held under the intolerance cards in the first group below.
+
+Impermanence: held in its own group below, as the Buddhist and Daoist form of uncertainty about what lasts.
+
+Probability and risk: held under the last group; decision research on risk sits with the Decision-Making dossier, and worry and anxiety with the Anxiety dossier.
 
 ## The map: the entries on uncertainty
 
@@ -98,11 +100,11 @@ Not knowing what comes next is the human condition, and the suffering comes not 
 
 The shared question: when the future or the truth is unsettled, should a person learn to stay in that state? Keats named it, in a letter, as the quality that makes a man of achievement in literature:
 
-> "Negative Capability , that is, when a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason." ([Keats, Letters of John Keats to His Family and Friends, Gutenberg edition](https://www.gutenberg.org/files/35698/35698-h/35698-h.htm)): Primary text; quoted passage checked.
+> "Negative Capability , that is, when a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason." ([Keats, Letters of John Keats to His Family and Friends, Gutenberg edition](https://www.gutenberg.org/files/35698/35698-h/35698-h.htm))
 
 The clinical literature on worry treats the same tolerance as a vulnerability factor when it is missing:
 
-> "The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD." ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/)): Secondary source; quoted passage checked.
+> "The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD." ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/))
 
 The two do not contradict each other as much as they look. Keats describes a capacity of artists and a reason for its worth; the model describes what follows in worriers when the capacity is absent. Both treat the capacity as the thing at stake, and the practices here on sitting with uncertainty draw on the shared reading.
 
@@ -110,7 +112,7 @@ The two do not contradict each other as much as they look. Keats describes a cap
 
 The shared question: since much of what comes is not ours to settle, what should a person attend to? Epictetus answers with a division:
 
-> "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions." ([Epictetus, Enchiridion 1, Carter translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)): Primary text; quoted passage checked.
+> "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions." ([Epictetus, Enchiridion 1, Carter translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html))
 
 His claim is that holding to the division removes the injury: "no one will ever compel you or restrain you." Keats's capacity points the other way, toward staying with what cannot be reduced to a rule. A reader can take them as answering different questions, one about where to put effort and one about how to hold what lies outside it, and I keep both.
 

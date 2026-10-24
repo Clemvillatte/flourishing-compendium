@@ -14,3 +14,11 @@ Verification record for docs/enrichment/dossiers/uncertainty.md, revision 1.
 - Glosses follow the card openings (word-overlap check flagged none). Cards not opened beyond their opening: all except the above.
 - Boundary: decision research under risk sits with the Decision-Making dossier; worry and anxiety with the Anxiety dossier.
 - Story loglines were compressed from the openings of the story cards.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Three public verification-status labels removed and relocated here.
+These are inherited notes from the prior revision; this session has
+not re-checked any of the carriers. Contiguous bullet blocks were
+re-formatted as separate paragraphs; no gloss, link or quotation was
+changed.
