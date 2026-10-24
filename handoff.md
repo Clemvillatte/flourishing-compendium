@@ -2473,3 +2473,15 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   band work between passes; never voluntarily end monitoring.
   Known minor artifact: the fallback-ladder rungs are numbered with a
   duplication (2/3 appear twice) — cosmetic, does not affect the role.
+
+- Canonical reviewer QC (2026-10-24, ~15:55 UTC): superskill CREATIVE-PROMPT-GENERATION.md
+  reviewed — structure sound (paired-constraint definition, seven components, failure
+  modes, ten-step procedure, worked examples, QC checklist); five research quotes
+  spot-checked verbatim against the ledger (Stokes, Amabile, Smith/Ward/Schumacher,
+  Rietzschel, Förster) — all present. The manager-agent launch gate is SATISFIED.
+  Note for the Creative Prompts build: site/assets/randomizer-model.js already ships
+  a random-entry module (FCRandomizer, UMD-style) the new button can follow as a
+  pattern or extend; baseline healthy (test_story_tools.py 47 passed / 0 failed,
+  app.js and randomizer-model.js parse clean). Supervisor's Baumeister fix in
+  overload-overwhelm verified ('These results suggest' restored). s1b-032 (Linji,
+  B161) spot-checked: verbatim quotes from the opened Ru-Yi Record of Linji Part 6.
