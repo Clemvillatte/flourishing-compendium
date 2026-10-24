@@ -825,3 +825,14 @@ all repaired this round:
   opened NE II.2 mean passage.
 - Repeated navigational announcements trimmed.
 GF remains UNAPPROVED; owner validation gate stays closed.
+
+### Process note (supervisor): registry rebuild ordering
+
+dossier_registry_build.py reads COMMITTED state, not the working tree:
+a rebuild run before committing new prose silently produces an app.js one
+revision behind. The QC2 commit d6094750 initially shipped without the
+matching app.js for this reason; corrected in f914afe1 (rebuild re-run
+after the markdown was committed; "Courage shows the difficulty" and the
+other QC2 phrasings verified present in the compiled fcDossiersData).
+Future sessions: commit the markdown FIRST, then rebuild, then commit
+app.js.
