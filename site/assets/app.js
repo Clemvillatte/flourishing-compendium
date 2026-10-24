@@ -10603,6 +10603,1705 @@ window.fcDossiersData = {
       "group": "minds-life",
       "status": "published",
       "art": "assets/dossier-art/goals.jpg"
+    },
+    {
+      "id": "agency",
+      "title": "Agency",
+      "question": "How much say does a person have over their own life, and what grows that say?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "- [Narrative identity](card:Narrative%20identity) — Ricoeur's self as told, an answer to the who question; agency asks what a person can run, this asks who is running it. - [Intrinsic motivation](card:Intrinsic%20motivation) — the doing of an activity for its inherent satisfaction; agency asks whether the doing is one's own, this names the doing that needs no further reason. - [Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals) — the pull toward intrinsic aspirations, affiliation, growth and community contribution; the aims the acting is for, where this page holds the capacity to act. - [Locus of evaluation](card:Locus%20of%20evaluation) — where judgments of worth are taken from; this page holds control over actions and their outcomes, that one the source of the verdicts. - [Wisdom](card:Wisdom) — the judgment about where to spend the say; wisdom uses it, this page asks what it is."
+        },
+        {
+          "t": "p",
+          "x": "These are the nearest entries, not the scope."
+        },
+        {
+          "t": "p",
+          "x": "Each tradition takes the question apart differently. The Stoics ask what is ever up to a person at all and answer: judgment, effort, and little else. Rotter asks where a person believes control sits, inside or outside, and traces what the belief does to learning. Bandura asks whether a person believes they can execute the act, and finds the belief governing effort and persistence. Self-determination theory asks whether the motivation is owned or imposed, and counts autonomy and competence among the needs a life runs on."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on agency"
+        },
+        {
+          "t": "h2",
+          "x": "What is ever one's own to run"
+        },
+        {
+          "t": "p",
+          "x": "[The dichotomy of control](card:The%20dichotomy%20of%20control): Epictetus's division in Enchiridion 1 between what is up to us (opinion, pursuit, desire, aversion, our own actions) and what is not (body, property, reputation, command)."
+        },
+        {
+          "t": "p",
+          "x": "[Freedom](card:Freedom): the capacity to act from one's own understanding, free of external compulsion and internal passion; the word gathers political liberty, autonomy, and liberation from craving or fear."
+        },
+        {
+          "t": "p",
+          "x": "[Positive freedom](card:Positive%20freedom): Berlin's second sense of liberty: the wish to be one's own master; a self in charge of its life, which the mere absence of interference does not supply."
+        },
+        {
+          "t": "p",
+          "x": "[Second-order desires](card:Second-order%20desires): Frankfurt's term for wanting what one wants; the person, on this account, is the one who can endorse or disown a first-order desire."
+        },
+        {
+          "t": "p",
+          "x": "[Akrasia](card:Akrasia): acting against one's own better judgment; Aristotle treats it as a curable failure of habituation, not a fate."
+        },
+        {
+          "t": "p",
+          "x": "[Wu wei](card:Wu%20wei): the Daodejing's way of acting that does not force, so that things take their own course; effectiveness without strain."
+        },
+        {
+          "t": "p",
+          "x": "Epictetus draws the line the whole theme keeps returning to:"
+        },
+        {
+          "t": "q",
+          "x": "\"Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.\" ([Epictetus, Enchiridion 1, Elizabeth Carter translation](https://classics.mit.edu/Epictetus/epicench.html))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "The say as effective power"
+        },
+        {
+          "t": "p",
+          "x": "[Learning by doing](card:Learning%20by%20doing): Dewey's claim that knowledge grows out of activity and its consequences; experience is an active and a passive element taken together, not the reception of information."
+        },
+        {
+          "t": "p",
+          "x": "[Control theory of self-regulation](card:Control%20theory%20of%20self-regulation): Carver and Scheier's feedback model of behaviour: loops compare the perceived state against a reference value, and the mismatch itself drives the action."
+        },
+        {
+          "t": "p",
+          "x": "[Pragmatism](card:Pragmatism): the tradition that, in the SEP's words, understands knowing the world as inseparable from agency within it; Peirce, James and Dewey, with the pragmatic maxim as its core."
+        },
+        {
+          "t": "p",
+          "x": "Dewey's frame turns agency from a possession into a circuit: the seeing is already shaped by prior reaching, and the outcome reshapes the next seeing. On this view the capacity grows by the same route a skill grows, through conduct and its consequences."
+        },
+        {
+          "t": "h2",
+          "x": "Where the say is believed to sit"
+        },
+        {
+          "t": "p",
+          "x": "[Locus of control](card:Locus%20of%20control): Rotter's generalized expectancy about where reinforcement comes from; the 1966 definition:"
+        },
+        {
+          "t": "q",
+          "x": "\"If the person perceives that the event is contingent upon his own behavior or his own relatively permanent characteristics, we have termed this a belief in internal control.\" ([Rotter, \"Generalized expectancies for internal versus external control of reinforcement\", Psychological Monographs 80(1), 1966](https://raw.githubusercontent.com/jjcurtin/arc_measures/main/LCS/Rotter1966.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Secondary control](card:Secondary%20control): Rothbaum, Weisz and Snyder's two-process model: gaining control by changing the world, or by bringing the self into line with forces that will not change."
+        },
+        {
+          "t": "p",
+          "x": "[Learned Helplessness Theory](card:Learned%20Helplessness%20Theory): Seligman and Maier's finding that uncontrollable events teach a lesson that outlasts them: that nothing one does matters, so the escape goes untaken."
+        },
+        {
+          "t": "p",
+          "x": "[Learned optimism](card:Learned%20optimism): Seligman's claim that the way people explain setbacks to themselves can be shifted; the book grew directly out of the helplessness research."
+        },
+        {
+          "t": "p",
+          "x": "[Optimistic explanatory style](card:Optimistic%20explanatory%20style): the habit that matters after a setback: bad events explained as temporary, specific and changeable, with permanence and pervasiveness as the pessimist's marks."
+        },
+        {
+          "t": "p",
+          "x": "[Reappraisal's effectiveness depends on controllability](card:Reappraisal%27s%20effectiveness%20depends%20on%20controllability): Troy, Shallcross and Mauss's finding that reframing helps or harms depending on whether the stressor can actually be changed; acceptance fits the unchangeable case."
+        },
+        {
+          "t": "p",
+          "x": "[Psychological empowerment theory](card:Psychological%20empowerment%20theory): Spreitzer's construct of four cognitions about one's role, meaning, competence, self-determination and impact, as intrinsic task motivation."
+        },
+        {
+          "t": "h2",
+          "x": "The belief that one can act"
+        },
+        {
+          "t": "p",
+          "x": "[Self-efficacy](card:Self-efficacy): Bandura's construct for the belief that one can execute the behaviour the outcome requires. His summary of what the expectation governs:"
+        },
+        {
+          "t": "q",
+          "x": "\"Efficacy expectations determine how much effort people will expend and how long they will persist in the face of obstacles and aversive experiences.\" ([Bandura, \"Self-efficacy: Toward a Unifying Theory of Behavioral Change\", Psychological Review 84(2), 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Mastery experiences](card:Mastery%20experiences): the strongest of the four sources of efficacy belief: direct experience of succeeding at a task, alongside vicarious experience, persuasion and somatic states."
+        },
+        {
+          "t": "p",
+          "x": "[Modeling](card:Modeling): learning by watching another person act and seeing what follows; the observer acquires the behaviour the model performs."
+        },
+        {
+          "t": "p",
+          "x": "[Observational learning](card:Observational%20learning): the Bandura line running through the 1961 experiments comparing children who watched aggressive and nonaggressive adult models."
+        },
+        {
+          "t": "p",
+          "x": "[Growth mindset](card:Growth%20mindset): Dweck's term for the belief that abilities can be developed; the older technical name is an incremental implicit theory of ability."
+        },
+        {
+          "t": "p",
+          "x": "[Creative self-efficacy](card:Creative%20self-efficacy): Tierney and Farmer's extension of the efficacy construct to creative work: the belief one can produce creative outcomes."
+        },
+        {
+          "t": "p",
+          "x": "[Collective efficacy](card:Collective%20efficacy): Bandura's extension of agency to groups: people's shared beliefs in their collective power to produce desired results."
+        },
+        {
+          "t": "p",
+          "x": "[Hope](card:Hope): the forward-facing expectation of a good not yet arrived; in Snyder's theory it runs on agency and pathways together."
+        },
+        {
+          "t": "h2",
+          "x": "Autonomy and competence as needs"
+        },
+        {
+          "t": "p",
+          "x": "[Self-determination](card:Self-determination): the claim that people do best when their motivation is their own; the centre of Deci and Ryan's framework."
+        },
+        {
+          "t": "p",
+          "x": "[Psychological needs theory](card:Psychological%20needs%20theory): the SDT account of the needs whose satisfaction predicts well-being, autonomy, competence and relatedness, read as universal nutriments."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomy](card:Autonomy): self-governance, acting from one's own endorsement; Kant's courage to think for oneself and SDT's basic need in one entry."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomous motivation](card:Autonomous%20motivation): the SDT half that includes intrinsic motivation and regulation the person has accepted as their own."
+        },
+        {
+          "t": "p",
+          "x": "[Controlled motivation](card:Controlled%20motivation): the other half: motivation sourced in pressure, external demands and rewards, or internally felt guilt and pride."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomous versus controlled motivation](card:Autonomous%20versus%20controlled%20motivation): the comparison page: motivation sorted by its reasons rather than its strength."
+        },
+        {
+          "t": "p",
+          "x": "[Identified versus introjected motivation](card:Identified%20versus%20introjected%20motivation): the SDT distinction between two ways of carrying a rule inside: regulation accepted as one's own, and regulation taken in but not accepted, performed to avoid guilt or anxiety."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomy-supportive leadership](card:Autonomy-supportive%20leadership): in self-determination theory, the interpersonal style of a person in authority who nurtures others' autonomous motivation instead of pressing them toward outcomes."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomy-supportive management research](card:Autonomy-supportive%20management%20research): Slemp, Kern, Patrick and Ryan's meta-analysis of perceived leader autonomy support, correlated strongly with autonomous work motivation."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomy-threat research](card:Autonomy-threat%20research): the undermining effect literature: rewards and controls that displace intrinsic motivation, creativity and well-being."
+        },
+        {
+          "t": "p",
+          "x": "[Attachment research on autonomy-granting](card:Attachment%20research%20on%20autonomy-granting): Assor, Roth and Deci on parental conditional regard: compliance bought at the price of internal compulsion and short-lived satisfaction."
+        },
+        {
+          "t": "p",
+          "x": "[Psychological control](card:Psychological%20control): Barber's parenting construct: control that constrains, invalidates and manipulates the child's psychological experience, distinct from behavioural control."
+        },
+        {
+          "t": "p",
+          "x": "[Relational autonomy](card:Relational%20autonomy): the feminist family of accounts revising the self-governing individual: care, recognition and social conditions as the media of autonomy, not its enemies."
+        },
+        {
+          "t": "p",
+          "x": "[Sociotropy-autonomy theory](card:Sociotropy-autonomy%20theory): Beck's two vulnerabilities in depression, sociotropy and autonomy, each sensitized to its own matching stressors."
+        },
+        {
+          "t": "p",
+          "x": "[Competence](card:Competence): the capacity to interact effectively with one's environment, given its modern form by Robert White in 1959."
+        },
+        {
+          "t": "p",
+          "x": "[Competence motivation](card:Competence%20motivation): White's proposal for the motive behind exploration and mastery, with effectance as the concept and a feeling of efficacy as its signature."
+        },
+        {
+          "t": "p",
+          "x": "[Flow](card:Flow): the immersed state of energized focus and full involvement in an activity; among its conditions, the balance of perceived challenge and perceived skill."
+        },
+        {
+          "t": "h2",
+          "x": "Agency in the social world"
+        },
+        {
+          "t": "p",
+          "x": "[Big Two model of agency and communion](card:Big%20Two%20model%20of%20agency%20and%20communion): the two axes of social judgment, getting ahead and getting along; agency as striving to individuate and expand the self."
+        },
+        {
+          "t": "p",
+          "x": "[Participatory decision-making](card:Participatory%20decision-making): shaping choices with the people who must live with them rather than doing things to or for them; its backbone is Bandura's collective agency."
+        },
+        {
+          "t": "p",
+          "x": "[Moral disengagement research](card:Moral%20disengagement%20research): Bandura's account of the psychosocial manoeuvres by which self-sanctions are switched off; agency's moral face."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "What the person's say covers"
+        },
+        {
+          "t": "p",
+          "x": "Epictetus divides the world in the first line of the Enchiridion and states the price of getting the division wrong:"
+        },
+        {
+          "t": "q",
+          "x": "\"The things in our control are by nature free, unrestrained, unhindered; but those not in our control are weak, slavish, restrained, belonging to others. Remember, then, that if you suppose that things which are slavish by nature are also free...\" ([Epictetus, Enchiridion 1, Elizabeth Carter translation](https://classics.mit.edu/Epictetus/epicench.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Rotter's construct runs on the other side of that line: internal control is the perception that events are contingent on one's own behavior or relatively permanent characteristics, an expectancy Rotter hypothesized to be of major significance for learning. The two texts answer the same question, where the weight of a self can defensibly be placed, and in opposite directions: Epictetus puts it on the act and warns against the outcome; the control tradition puts it on the perceived tie between acts and outcomes."
+        },
+        {
+          "t": "p",
+          "x": "Bandura's theory carries the split inside itself. In the 1977 article he separates the two expectations outright:"
+        },
+        {
+          "t": "q",
+          "x": "\"An outcome expectancy is defined as a person's estimate that a given behavior will lead to certain outcomes. An efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes.\" ([Bandura, Psychological Review 84(2), 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The conviction of being able to execute is what his system assigns the causal work in initiation and persistence; the estimate of what follows is a separate variable. That is the Stoic line drawn in psychological dress, though Bandura draws it for predictive reasons and Epictetus for the sake of peace."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the collapse of control: the lesson that nothing one does matters, learned from uncontrollable events and outlasting them; the external locus that leaves reinforcement to luck or the powerful; the efficacy belief that failures, especially early ones, have hollowed out. The adaptive direction runs through the gap between event and verdict, attributing outcomes to what can still change, and through the small mastery that rebuilds the belief."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Controllability sorting](card:K267%20%E2%80%94%20Controllability%20sorting): take a current concern and sort it into two columns, what is within your power and what is not, then spend energy on the first."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[The autonomy statement](card:K369%20%E2%80%94%20The%20autonomy%20statement): said to another or to oneself, \"It's your call. You're the one who gets to decide.\""
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions): a specific if-then plan that bypasses in-the-moment decision fatigue."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Importance and confidence rulers](card:K371%20%E2%80%94%20Importance%20and%20confidence%20rulers): two scaled questions, importance and confidence, that locate where the say actually sits for a contemplated change."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the sorting, or the statement, or the if-then plan has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that carry the theme's aspects, one line each; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "The say reclaimed"
+        },
+        {
+          "t": "p",
+          "x": "[ST347 — The First Act of Free Will](card:ST347%20%E2%80%94%20The%20First%20Act%20of%20Free%20Will): William James, after years of suffering and thoughts of taking his life, finishes the first part of Renouvier's second Essais and records the April 30, 1870 entry: his first act of free will shall be to believe in free will."
+        },
+        {
+          "t": "p",
+          "x": "[ST302 — Billi and the Two Autonomies](card:ST302%20%E2%80%94%20Billi%20and%20the%20Two%20Autonomies): a Chinese-American writer raised in the American framework of individual autonomy and disclosure meets a family that withholds a terminal diagnosis so the patient can live her time in peace; the film leaves whether the secret was right unresolved."
+        },
+        {
+          "t": "h2",
+          "x": "Needs met and thwarted"
+        },
+        {
+          "t": "p",
+          "x": "[ST300 — Three Basic Needs](card:ST300%20%E2%80%94%20Three%20Basic%20Needs): Deci and Ryan's needs, autonomy, competence and relatedness, whose satisfaction predicts flourishing across cultures."
+        },
+        {
+          "t": "h2",
+          "x": "Acting in the world"
+        },
+        {
+          "t": "p",
+          "x": "[ST116 — Dewey Breaks the Reflex Arc](card:ST116%20%E2%80%94%20Dewey%20Breaks%20the%20Reflex%20Arc): the child's seeing is already a looking shaped by prior reaching; a circuit, not an arc, and the stimulus is no spectator's fact."
+        },
+        {
+          "t": "p",
+          "x": "[ST231 — The Uluru Statement](card:ST231%20%E2%80%94%20The%20Uluru%20Statement): First Nations delegates issue a one-page invitation, not a petition, to walk with them toward a Voice to Parliament and a Makarrata Commission; the form of the invitation is itself the argument."
+        },
+        {
+          "t": "p",
+          "x": "[ST232 — Charlie Goes Back to Country](card:ST232%20%E2%80%94%20Charlie%20Goes%20Back%20to%20Country): an elderly Yolngu man caught between two systems leaves for the bush to live on Country as he was taught, becomes ill, is taken into custody, and ends teaching a young man, in a cage, the songs of the land."
+        },
+        {
+          "t": "p",
+          "x": "[ST233 — Molly Craig Walks the Fence](card:ST233%20%E2%80%94%20Molly%20Craig%20Walks%20the%20Fence): Molly, Gracie and Daisy are removed from Jigalong and taken 1,600 kilometres north to the Moore River settlement; the three escape and follow the state's rabbit-proof fence, nine weeks of walking, Gracie recaptured along the way."
+        }
+      ],
+      "group": "minds-life",
+      "status": "published",
+      "art": "assets/dossier-art/agency.jpg"
+    },
+    {
+      "id": "behaviour",
+      "title": "Behaviour",
+      "question": "How do repeated actions become a life, and how does a stuck pattern change?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A habit is what the doing becomes once the deciding drops out of it. The sciences of behaviour have left several distinct answers lying side by side: consequences shaping actions, contexts triggering them, deliberate repetition automatizing them. The classical traditions add a sharper hope: that what is repeated hardens into character as well as routine, and that the hardening can be aimed. The question is where the aim is best placed, and the honest answer runs through environment and design more often than through willpower."
+        },
+        {
+          "t": "h",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Habit: the biggest share of this dossier's material; the umbrella card holds the family, and the map below separates formation, maintenance, discontinuity and the body that carries it."
+        },
+        {
+          "t": "p",
+          "x": "Action and conduct: the same territory seen from the choosing side; the Agency dossier (not yet minted as a card) holds the say a person has over their doing, this page what the doing does to the person. [Autonomy](card:Autonomy) is the need that pairs them."
+        },
+        {
+          "t": "p",
+          "x": "Practice: the deliberate, designed repetition side of the same process, in the map's classical group."
+        },
+        {
+          "t": "p",
+          "x": "Behaviour change: the applied science of moving stuck patterns; its frameworks and techniques hold their own groups below."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on behaviour"
+        },
+        {
+          "t": "h2",
+          "x": "What the science says a habit is"
+        },
+        {
+          "t": "p",
+          "x": "[Habit](card:Habit): the umbrella card; its gloss runs the associations and carries the family's map."
+        },
+        {
+          "t": "p",
+          "x": "[Habit formation](card:Habit%20formation): the acquisition question; Lally's study put the time to 95% of the asymptote of automaticity at 18 to 254 days, and the same family of research holds the Wood-and-Neal context-cuing model."
+        },
+        {
+          "t": "p",
+          "x": "[Habit maintenance](card:Habit%20maintenance): the stage after rooting; a systematic review of 100 behaviour-change theories opens with the line that behaviour-change interventions are effective at achieving temporary change while maintenance is rarely attained."
+        },
+        {
+          "t": "p",
+          "x": "[Habituation](card:Habituation): the classical meaning, learning by repetition; Aristotle's Book II line that we become just by doing just acts, in the Ross translation, and the passage read in full below in the Chase translation."
+        },
+        {
+          "t": "p",
+          "x": "[Second nature](card:Second%20nature): the idea that a settled habit works like a natural disposition; the phrase itself is Durant's paraphrase, not Aristotle's."
+        },
+        {
+          "t": "p",
+          "x": "[Context-dependent behaviour (Wood & Neal)](card:Context-dependent%20behaviour%20%28Wood%20%26%20Neal%29): the model that redefined habit as context-cued responding:"
+        },
+        {
+          "t": "q",
+          "x": "\"Habits emerge from the gradual learning of associations between responses and the features of performance contexts that have historically covaried with them (e.g., physical settings, preceding actions). Once a habit is formed, perception of contexts triggers the associated response without a mediating goal.\" ([Wood & Neal, \"A New Look at Habits and the Habit-Goal Interface\", Psychological Review 114(4), 843-863, 2007, abstract](https://eric.ed.gov/?id=EJ776723))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Goal-directed behavior theory](card:Goal-directed%20behavior%20theory): the boundary marker; Dickinson and Balleine's two tests, action-outcome contingency and current motivational value, for what counts as goal-directed rather than habitual."
+        },
+        {
+          "t": "p",
+          "x": "[Effortless action through long effort](card:Effortless%20action%20through%20long%20effort): the Daoist resolution of the paradox; wu wei as the far end of training, Cook Ding's years of oxen."
+        },
+        {
+          "t": "h2",
+          "x": "The learning side: consequences and models"
+        },
+        {
+          "t": "p",
+          "x": "[Operant conditioning (Skinner)](card:Operant%20conditioning%20%28Skinner%29): the consequences account; the quote carries the operant as a class of responses that operate on the environment to generate consequences."
+        },
+        {
+          "t": "p",
+          "x": "[Reinforcement schedules (Ferster & Skinner)](card:Reinforcement%20schedules%20%28Ferster%20%26%20Skinner%29): when reinforcement arrives matters as much as whether it does."
+        },
+        {
+          "t": "p",
+          "x": "[Shaping (Skinner)](card:Shaping%20%28Skinner%29): reinforcing successive approximations; in Science and Human Behavior Skinner writes that operant conditioning shapes behaviour as a sculptor shapes a lump of clay, and that complicated operants can be built that would otherwise never appear."
+        },
+        {
+          "t": "p",
+          "x": "[Behavioural chaining (applied behaviour analysis)](card:Behavioural%20chaining%20%28applied%20behaviour%20analysis%29): routines as chains of component steps, taught in sequence."
+        },
+        {
+          "t": "p",
+          "x": "[Ego depletion](card:Ego%20depletion): the willpower-as-resource account and its contested history."
+        },
+        {
+          "t": "p",
+          "x": "[Self-control training](card:Self-control%20training): the strongest test was a caution; Miles and colleagues' six-week programme with active controls found no effect of training on any measure of self-control."
+        },
+        {
+          "t": "p",
+          "x": "[Plasticity of human nature](card:Plasticity%20of%20human%20nature): Dewey's claim that habits are the material education works on; the card carries his line that the real existence of habits is different in old and young."
+        },
+        {
+          "t": "h2",
+          "x": "The classical side: repetition becomes character"
+        },
+        {
+          "t": "p",
+          "x": "[A004 — Become virtuous by doing virtuous acts](card:A004%20%E2%80%94%20Become%20virtuous%20by%20doing%20virtuous%20acts): Aristotle's builders-by-building line in the Chase translation, with Book II's conditions for an act counting as virtuous. The Ethics puts it plainly:"
+        },
+        {
+          "t": "q",
+          "x": "\"men come to be builders, for instance, by building; harp-players, by playing on the harp: exactly so, by doing just actions we come to be just; by doing the actions of self-mastery we come to be perfected in self-mastery; and by doing brave actions brave.\" (Nicomachean Ethics II.1, trans. D. P. Chase, [Project Gutenberg](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[A108 — Practise habituation through repeated action](card:A108%20%E2%80%94%20Practise%20habituation%20through%20repeated%20action): the same mechanism as principle; repeated conduct forms dispositions in both directions."
+        },
+        {
+          "t": "p",
+          "x": "[B088 — Every repetition is a vote (habit as karma)](card:B088%20%E2%80%94%20Every%20repetition%20is%20a%20vote%20%28habit%20as%20karma%29): the Buddhist rendering; each repetition strengthens the track."
+        },
+        {
+          "t": "p",
+          "x": "[B184 — Recognize habit energy](card:B184%20%E2%80%94%20Recognize%20habit%20energy): Thich Nhat Hanh on familiar tendencies such as rushing toward a future happiness; the practice is to recognise the tendency and meet it with mindfulness rather than fight it, and he concedes that some habit energies are very difficult to transform."
+        },
+        {
+          "t": "p",
+          "x": "[P038 — Make habit your flywheel](card:P038%20%E2%80%94%20Make%20habit%20your%20flywheel): James's flywheel image from the Principles of Psychology, taken down to one life."
+        },
+        {
+          "t": "p",
+          "x": "[B058 — Sit daily — consistency over intensity](card:B058%20%E2%80%94%20Sit%20daily%20%E2%80%94%20consistency%20over%20intensity): the Dhammapada's line, a wise man removing his own impurities little by little, as a smith removes dross from silver."
+        },
+        {
+          "t": "p",
+          "x": "[S134 — Build a daily structure](card:S134%20%E2%80%94%20Build%20a%20daily%20structure): Marcus's morning preparation, the day's difficult people named in advance."
+        },
+        {
+          "t": "p",
+          "x": "[Obstruction as stimulus](card:Obstruction%20as%20stimulus): Dewey's hitch; a habit that runs smoothly gives no occasion for thought, and the blockage is where inquiry begins."
+        },
+        {
+          "t": "p",
+          "x": "[Deliberation as rehearsal](card:Deliberation%20as%20rehearsal): Dewey again, on deliberation as a trial balancing of habits in imagination."
+        },
+        {
+          "t": "p",
+          "x": "[The habit body](card:The%20habit%20body): Merleau-Ponty's third answer; habit in the body as mediator of a world, a third location distinct from thought and from the objective body; knowledge in the hands."
+        },
+        {
+          "t": "p",
+          "x": "[E014 — Practise the habit body](card:E014%20%E2%80%94%20Practise%20the%20habit%20body): the principle form of the same; the body as our general medium for having a world."
+        },
+        {
+          "t": "p",
+          "x": "[Excellence as habit](card:Excellence%20as%20habit): Durant's paraphrase of Aristotle, labeled on the card as paraphrase."
+        },
+        {
+          "t": "h2",
+          "x": "Changing a stuck pattern"
+        },
+        {
+          "t": "p",
+          "x": "[Habit discontinuity](card:Habit%20discontinuity): the finding that life-course changes loosen old cues; Verplanken and Roy's 800-participant experiment and its three-month window, with the card's honest limits."
+        },
+        {
+          "t": "p",
+          "x": "[Habit reversal theory Azrin](card:Habit%20reversal%20theory%20Azrin): awareness training plus competing response for nervous habits and tics."
+        },
+        {
+          "t": "p",
+          "x": "[Relapse prevention protocols](card:Relapse%20prevention%20protocols): Marlatt's high-risk situations and the coping-skills answer."
+        },
+        {
+          "t": "p",
+          "x": "[Stimulus control theory](card:Stimulus%20control%20theory): Bootzin's arrangement of the environment so the target response occurs on cue and competing responses do not; a later review found benefit for insomnia while judging the studies generally poor and the conditioning mechanism unproven."
+        },
+        {
+          "t": "p",
+          "x": "[Implementation intentions](card:Implementation%20intentions): Gollwitzer's if-then plans, advance decisions linking a critical situation to a goal-directed response; the meta-analytic verdict is that effects are typically of medium-to-large size."
+        },
+        {
+          "t": "p",
+          "x": "[Tiny habits (Fogg)](card:Tiny%20habits%20%28Fogg%29): motivation, ability and prompt; the design answer of shrinking the behaviour and anchoring it to a routine."
+        },
+        {
+          "t": "p",
+          "x": "[Habit stacking](card:Habit%20stacking): anchoring the new to an existing cue; Fogg's recipe cards name the Anchor Moment, the Tiny Behavior and the celebration, and the average time to maximum automaticity in Lally's data was 66 days."
+        },
+        {
+          "t": "p",
+          "x": "[Keystone habits](card:Keystone%20habits): the spillover claim, with its tendency-not-guarantee caveat."
+        },
+        {
+          "t": "p",
+          "x": "[Behavioral activation](card:Behavioral%20activation): the depression loop interrupted from the behaviour side; act according to the schedule, not the feeling."
+        },
+        {
+          "t": "p",
+          "x": "[Behavioral self-regulation theory](card:Behavioral%20self-regulation%20theory): Carver and Scheier's cybernetic account: goals as reference values, perception as input, and action closing the gap between the two."
+        },
+        {
+          "t": "p",
+          "x": "[Transtheoretical model (Prochaska & DiClemente)](card:Transtheoretical%20model%20%28Prochaska%20%26%20DiClemente%29): precontemplation to maintenance; the stages a change runs through."
+        },
+        {
+          "t": "p",
+          "x": "[Behavior change wheel theory Michie](card:Behavior%20change%20wheel%20theory%20Michie): the COM-B system, capability, opportunity and motivation as the three conditions."
+        },
+        {
+          "t": "p",
+          "x": "[Nudge theory Thaler](card:Nudge%20theory%20Thaler): choice architecture; fruit at eye level, not the ban."
+        },
+        {
+          "t": "p",
+          "x": "[Situation selection](card:Situation%20selection): choosing the situations that select the behaviour."
+        },
+        {
+          "t": "p",
+          "x": "[Situational strategies](card:Situational%20strategies): Duckworth, Gendler and Gross's account of situational self-control, which nips a tempting impulse in the bud before it grows stronger over time."
+        },
+        {
+          "t": "p",
+          "x": "[PP072 — Design the environment to support the practice](card:PP072%20%E2%80%94%20Design%20the%20environment%20to%20support%20the%20practice): the Wood-and-Neal route applied; upstream control, phone in another room, guitar left visible."
+        },
+        {
+          "t": "p",
+          "x": "[S133 — Accept that you will fail and return](card:S133%20%E2%80%94%20Accept%20that%20you%20will%20fail%20and%20return): Marcus's line on returning to the harmony quickly."
+        },
+        {
+          "t": "h2",
+          "x": "Tracking and rehearsal"
+        },
+        {
+          "t": "p",
+          "x": "[Self-monitoring (Michie et al.)](card:Self-monitoring%20%28Michie%20et%20al.%29): technique 16 of the CALO-RE taxonomy; keeping a record as a method of change."
+        },
+        {
+          "t": "p",
+          "x": "[BE011 — Recognise that behaviour is measurable — tracking improves outcomes](card:BE011%20%E2%80%94%20Recognise%20that%20behaviour%20is%20measurable%20%E2%80%94%20tracking%20improves%20outcomes): Harkin's 138-study meta-analysis of monitoring prompts, with the card's honest bounds."
+        },
+        {
+          "t": "p",
+          "x": "[MO044 — Learn to track habits — monitoring sustains](card:MO044%20%E2%80%94%20Learn%20to%20track%20habits%20%E2%80%94%20monitoring%20sustains): cue-monitoring and vigilant monitoring for unwanted habits, from the Gardner 2021 review."
+        },
+        {
+          "t": "p",
+          "x": "[Behavioural rehearsal role-play (DBT, social skills training)](card:Behavioural%20rehearsal%20role-play%20%28DBT%2C%20social%20skills%20training%29): practising a target response before performing it in real life; the card carries the Miltenberger and Cowperthwait line."
+        },
+        {
+          "t": "p",
+          "x": "[BE021 — Learn to use behavioural rehearsal — practise before performing](card:BE021%20%E2%80%94%20Learn%20to%20use%20behavioural%20rehearsal%20%E2%80%94%20practise%20before%20performing): role-play, dialogue rehearsal and, for those who decline both, covert rehearsal in imagination."
+        },
+        {
+          "t": "h2",
+          "x": "Related questions and parallels"
+        },
+        {
+          "t": "p",
+          "x": "Is habit the enemy of freedom or its form? The traditions differ in emphasis. James's flywheel makes habit society's conservative agent; Dewey's habits are the material education works on and the stuff that obstruction interrupts; the meditative traditions treat automaticity as something to be seen through. The question runs through all of them."
+        },
+        {
+          "t": "p",
+          "x": "What is a body in all this? Merleau-Ponty's answer, knowledge in the hands, is a different question than the laboratory's: where a habit lives, not what triggers it. The habit body is the phenomenological account of the same fact the context account measures."
+        },
+        {
+          "t": "p",
+          "x": "Why does maintenance fail so often? The systematic review's opening line, that maintenance is rarely attained, is the review's verdict on its 100 theories, not a proof about every change; the techniques above are answers, not guarantees."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "p",
+          "x": "The practice material clusters into design and review. The design side: [Environment design](card:K177%20%E2%80%94%20Environment%20design) makes the desired behaviour the easy choice. [Habit stacking](card:K176%20%E2%80%94%20Habit%20stacking) anchors it to a cue that already fires. [Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions) pre-decides the moment. [Habituation by design](card:K257%20%E2%80%94%20Habituation%20by%20design) runs a thirty-day plan of micro-actions for one virtue. The review side: [Weekly habit review](card:K193%20%E2%80%94%20Weekly%20habit%20review) reads the week as a design review, and [Deimplementation](card:K181%20%E2%80%94%20Deimplementation) asks what to stop. The unlearning side: [The Habit Releaser](card:K393%20%E2%80%94%20The%20Habit%20Releaser) breaks a small pattern to see the autopilot."
+        },
+        {
+          "t": "p",
+          "x": "This is an editorial combination, not a validated recipe. The trial is: pick one behaviour, design the cue and the environment around it, review weekly, and judge the result by whether the behaviour fires in the week. Retain the anchor and the review if the behaviour fires; drop them if it does not. A person who keeps one anchor, one review and one environment change that survives the trial has what the theme offered."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "[Cook Ding and the Ox](card:ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): nineteen years of carving and a blade still sharp; he never cuts through bone, reads the joints, and slows down at the difficult ones."
+        },
+        {
+          "t": "p",
+          "x": "[Woodcarver Qing Makes a Bell-Stand](card:ST026%20%E2%80%94%20Woodcarver%20Qing%20Makes%20a%20Bell-Stand): he fasts to still his mind, forgets reward by the third day, praise by the fifth, his body by the seventh; the carving is the last step."
+        },
+        {
+          "t": "p",
+          "x": "[Deliberate Practice](card:ST308%20%E2%80%94%20Deliberate%20Practice): Ericsson's Berlin violinists; the difference was accumulated hours of practice focused on weaknesses with immediate feedback, at the edge of ability."
+        },
+        {
+          "t": "p",
+          "x": "[The Apprentice Sweeps](card:ST180%20%E2%80%94%20The%20Apprentice%20Sweeps): a medieval apprentice sweeps the shop and holds the tools for years before being trusted with a whole one; the residency and the clerkship keep the logic."
+        },
+        {
+          "t": "p",
+          "x": "[Franklin's Little Book](card:ST184%20%E2%80%94%20Franklin%27s%20Little%20Book): Franklin's thirteen virtues, one focused on each week, faults marked with black spots; he never reached perfection and concluded the practice was the gain."
+        },
+        {
+          "t": "p",
+          "x": "[Phil Connors Practises](card:ST222%20%E2%80%94%20Phil%20Connors%20Practises): a weatherman trapped in a repeating day practises piano, French and ice sculpture with no audience and no reward, until the practice becomes what he is."
+        },
+        {
+          "t": "p",
+          "x": "[The Morning Preparation](card:ST217%20%E2%80%94%20The%20Morning%20Preparation): at dawn Marcus names the day's difficult people and their ignorance of good and evil before he meets them."
+        },
+        {
+          "t": "p",
+          "x": "[The Evening Review](card:ST220%20%E2%80%94%20The%20Evening%20Review): Seneca, with the lights out, reviews the day's cases, what he did badly and what well."
+        },
+        {
+          "t": "p",
+          "x": "[The Monk and the Seasons](card:ST094%20%E2%80%94%20The%20Monk%20and%20the%20Seasons): a child monk on a floating temple torments animals, learns love, commits murder, does penance dragging a millstone up a mountain; spring returns with a new child."
+        },
+        {
+          "t": "p",
+          "x": "[Backsliding into Abundance](card:ST391%20%E2%80%94%20Backsliding%20into%20Abundance): a meditation on the return after the fall, read against the principle that the mistake is part of the practice."
+        }
+      ],
+      "group": "eemm",
+      "status": "published",
+      "art": "assets/dossier-art/behaviour.jpg"
+    },
+    {
+      "id": "others",
+      "title": "Others",
+      "question": "What do other people do to a person's mind and flourishing, and what does one person owe another?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The theme asks a double question: what other people do to a person's mind and flourishing, and what one person owes another. Other people are the environment the human brain is built to expect, the material the self is made from, and the ones a good life is asked to serve. The traditions organize the territory differently. Some start from the bond (friendship, care, the face of the other), others from the command (love your enemy, bear one another's burdens), and the research starts from the mechanism (empathy, co-regulation, social support). The research association is plain in the findings gathered below: the quantity and quality of a person's relationships travel with their health, their mood and their survival."
+        },
+        {
+          "t": "h",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "[Friendship](card:Friendship) and [Compassion](card:Compassion) are treated inside this dossier, and their cards carry the tradition-specific detail. Related themes handled elsewhere: gratitude has its own dossier; forgiveness and the repair of injury are mapped in the Anger dossier; habit formation and behaviour change belong to the Behaviour dossier; the self-concept belongs to the Self dossier."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on others"
+        },
+        {
+          "t": "h2",
+          "x": "What other people do to a person"
+        },
+        {
+          "t": "p",
+          "x": "[Social baseline](card:Social%20baseline): the human brain treats the company of trusted others as its default condition, so managing alone costs metabolic and neural resources."
+        },
+        {
+          "t": "p",
+          "x": "[Co-regulation in relationships](card:Co-regulation%20in%20relationships): Butler's temporal framework: partners in a close relationship regulate each other's affect across repeated interactions, each partner's state managed between them."
+        },
+        {
+          "t": "p",
+          "x": "[Co-regulation of affect in relationships](card:Co-regulation%20of%20affect%20in%20relationships): the precise version of the claim: relationship maintenance is a shared regulatory task."
+        },
+        {
+          "t": "p",
+          "x": "[Micro-moments of connection](card:Micro-moments%20of%20connection): my name for Fredrickson's positivity resonance: the brief shared positive states that constitute love as a day-to-day biological event."
+        },
+        {
+          "t": "p",
+          "x": "[Connectedness in well-being research](card:Connectedness%20in%20well-being%20research): my label for the findings in which people's ties to others travel with how well their lives go (Diener and Seligman, 2002)."
+        },
+        {
+          "t": "p",
+          "x": "[Social support theory Cohen Wills](card:Social%20support%20theory%20Cohen%20Wills): the classic review distinguishing two proposed relationships between support and health."
+        },
+        {
+          "t": "p",
+          "x": "[The stress-buffering model](card:The%20stress-buffering%20model): the competing account: support blunts the stress response itself, so its health benefit shows up mainly under stress."
+        },
+        {
+          "t": "p",
+          "x": "[Social embeddedness](card:Social%20embeddedness): Baumeister and Leary's claim that belonging is a need built in prior to choice."
+        },
+        {
+          "t": "p",
+          "x": "[Loneliness](card:Loneliness): the subjective, distressing gap between desired and actual social relationships, distinct from objective solitude."
+        },
+        {
+          "t": "p",
+          "x": "[The evolutionary account of loneliness](card:The%20evolutionary%20account%20of%20loneliness): loneliness as an aversive biological signal that evolved to protect the social body, the way pain protects the physical one."
+        },
+        {
+          "t": "p",
+          "x": "[Social contagion](card:Social%20contagion): the spread of affect and behaviour from person to person through observation and induction."
+        },
+        {
+          "t": "p",
+          "x": "[Social attention](card:Social%20attention): attention guided by where other people are attending, most clearly through gaze."
+        },
+        {
+          "t": "p",
+          "x": "[Social determinants of well-being](card:Social%20determinants%20of%20well-being): how people rate their lives depends heavily on the surrounding social conditions, not only on traits or income."
+        },
+        {
+          "t": "p",
+          "x": "Beckes and Coan's statement of the social baseline is direct:"
+        },
+        {
+          "t": "q",
+          "x": "\"the dominant ecology to which humans are adapted is other humans... and introduces the first sense in which our theory refers to the social baseline—that close proximity to social resources is the baseline assumption of the human brain.\" ([Beckes and Coan 2011, PDF](https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cd2617f9353680001816713/1557291392068/beckes.coan.2011.pdf))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Cacioppo and Hawkley give the negative side of the same arrangement:"
+        },
+        {
+          "t": "q",
+          "x": "\"Physical pain is an aversive signal that evolved to motivate one to take action to minimize damage to one's body. Loneliness, a social pain, is an aversive signal that evolved to motivate one to take action that minimizes threats or damage to one's social body.\" ([Cacioppo and Hawkley 2009, PMC2752489](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752489/))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "How the self is built from others"
+        },
+        {
+          "t": "p",
+          "x": "[The social self](card:The%20social%20self): Mead's answer to what a self is made of: something with a development, arising in social conduct."
+        },
+        {
+          "t": "p",
+          "x": "[The social selves](card:The%20social%20selves): William James's term for the version of a person that exists in other people's minds."
+        },
+        {
+          "t": "p",
+          "x": "[Taking the role of the other](card:Taking%20the%20role%20of%20the%20other): Mead's mechanism: responding to one's own gesture as another person would."
+        },
+        {
+          "t": "p",
+          "x": "[Independent vs interdependent self-construal (Markus & Kitayama)](card:Independent%20vs%20interdependent%20self-construal%20%28Markus%20%26%20Kitayama%29): the two ways cultures teach people to be a self."
+        },
+        {
+          "t": "p",
+          "x": "[Interdependent self-construal](card:Interdependent%20self-construal): the view of the self as fundamentally connected to other people."
+        },
+        {
+          "t": "p",
+          "x": "[Relational-interdependent self-construal](card:Relational-interdependent%20self-construal): Cross and colleagues' name for thinking about yourself in terms of your close relationships."
+        },
+        {
+          "t": "p",
+          "x": "[Social identity theory](card:Social%20identity%20theory): Tajfel and Turner's account of how the part of self-image that comes from group membership drives intergroup behaviour."
+        },
+        {
+          "t": "p",
+          "x": "[Embodied social identity](card:Embodied%20social%20identity): social identity lived through the body, anchored in Fanon's account of Blackness under the white gaze."
+        },
+        {
+          "t": "p",
+          "x": "[Erikson's psychosocial theory](card:Erikson%27s%20psychosocial%20theory): the lifespan stages whose central conflicts are relational, from trust versus mistrust to intimacy versus isolation and generativity."
+        },
+        {
+          "t": "h2",
+          "x": "Empathy: feeling with, and understanding"
+        },
+        {
+          "t": "p",
+          "x": "[Empathy](card:Empathy): the capacity to feel with and understand another; the umbrella the rest of these entries divide."
+        },
+        {
+          "t": "p",
+          "x": "[Empathic concern](card:Empathic%20concern): Batson's other-oriented warmth: feeling for a person in need, with that person's welfare as the aim."
+        },
+        {
+          "t": "p",
+          "x": "[Empathic distress](card:Empathic%20distress): affective resonance with another's pain that turns self-oriented and leads to withdrawal."
+        },
+        {
+          "t": "p",
+          "x": "[Empathic accuracy](card:Empathic%20accuracy): Ickes's construct for how well one person infers what another is actually thinking and feeling."
+        },
+        {
+          "t": "p",
+          "x": "[Empathic understanding](card:Empathic%20understanding): Rogers's condition: understanding another's experience from inside their frame of reference."
+        },
+        {
+          "t": "p",
+          "x": "[Therapeutic empathy](card:Therapeutic%20empathy): the therapist's perception and communication of that understanding, and the research on whether it helps."
+        },
+        {
+          "t": "p",
+          "x": "[Mirror neuron theory of empathy](card:Mirror%20neuron%20theory%20of%20empathy): the extension of the macaque premotor finding to human feeling-with."
+        },
+        {
+          "t": "p",
+          "x": "[Narrative empathy](card:Narrative%20empathy): the sharing of feeling and perspective that comes through stories, in Mar and Oatley's account."
+        },
+        {
+          "t": "p",
+          "x": "[Egocentric projection in social inference](card:Egocentric%20projection%20in%20social%20inference): the habit of reading another person's mind from one's own."
+        },
+        {
+          "t": "p",
+          "x": "[Confirming the other](card:Confirming%20the%20other): Buber's term for what the other person does in a dialogic relation."
+        },
+        {
+          "t": "p",
+          "x": "The training research separates two states a person can bring to another's pain. In Klimecki and colleagues' study, one group was trained first in empathic resonance and then in compassion; the resonance training raised negative affect and the brain activations associated with empathy for pain, and the compassion training reversed it:"
+        },
+        {
+          "t": "q",
+          "x": "\"We conclude that training compassion may reflect a new coping strategy to overcome empathic distress and strengthen resilience.\" ([Klimecki et al. 2014, PubMed 23576808](https://pubmed.ncbi.nlm.nih.gov/23576808/))",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "Compassion, kindness and care"
+        },
+        {
+          "t": "p",
+          "x": "[Compassion](card:Compassion): the wish to relieve suffering when it is seen, trainable as a capacity."
+        },
+        {
+          "t": "p",
+          "x": "[Karuna](card:Karuna): the second brahmavihara: where metta wishes all beings well, karuna responds to their pain."
+        },
+        {
+          "t": "p",
+          "x": "[Metta (loving-kindness)](card:Metta%20%28loving-kindness%29): the first immeasurable: goodwill for all beings without limit."
+        },
+        {
+          "t": "p",
+          "x": "The Karaṇīya Metta Sutta gives the instruction its measure:"
+        },
+        {
+          "t": "q",
+          "x": "\"As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings.\" ([Karaṇīya Metta Sutta, Sn 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29): the third immeasurable: gladness at another's good fortune as if it were one's own."
+        },
+        {
+          "t": "p",
+          "x": "[Compassionate love](card:Compassionate%20love): Underwood's construct of love centred on the good of another person."
+        },
+        {
+          "t": "p",
+          "x": "[Compassion-focused therapy](card:Compassion-focused%20therapy): Gilbert's integrated approach for people with high shame and self-criticism."
+        },
+        {
+          "t": "p",
+          "x": "[Care](card:Care): the practice of responding to need: attention, feeling and action bent toward the well-being of a particular other, in Noddings's analysis."
+        },
+        {
+          "t": "p",
+          "x": "[Care as practice](card:Care%20as%20practice): Tronto's account of caring as a species activity with phases, from caring about to care receiving."
+        },
+        {
+          "t": "p",
+          "x": "[Care ethics](card:Care%20ethics): the normative theory that moral action centers on relationships and benevolence."
+        },
+        {
+          "t": "p",
+          "x": "[The ethics of care](card:The%20ethics%20of%20care): Held's version: moral significance is located in relationships and dependencies, with universal rules considered in the abstract as the comparison class."
+        },
+        {
+          "t": "p",
+          "x": "[Gilligan's ethics-of-care theory](card:Gilligan%27s%20ethics-of-care%20theory): the claim that moral reasoning has more than one voice."
+        },
+        {
+          "t": "p",
+          "x": "[Ren](card:Ren): Confucius's cardinal virtue: the humane disposition toward others."
+        },
+        {
+          "t": "p",
+          "x": "[Benevolence](card:Benevolence): Hume's sentiment grounding the social virtues."
+        },
+        {
+          "t": "p",
+          "x": "[Acts of kindness (Lyubomirsky)](card:Acts%20of%20kindness%20%28Lyubomirsky%29): the deliberate kind acts used in positive psychology interventions."
+        },
+        {
+          "t": "p",
+          "x": "[Helper's high](card:Helper%27s%20high): Post's label for the pleasurable state many people report after helping someone."
+        },
+        {
+          "t": "h2",
+          "x": "Love and friendship"
+        },
+        {
+          "t": "p",
+          "x": "[Love](card:Love): the terrain Aristotle opens by calling friendship a thing most necessary for life."
+        },
+        {
+          "t": "p",
+          "x": "[Agape](card:Agape): the Pauline love of 1 Corinthians 13, patient and keeping no account of evil."
+        },
+        {
+          "t": "p",
+          "x": "[Triangular Theory of Love](card:Triangular%20Theory%20of%20Love): Sternberg: intimacy, passion and commitment, and the loves their combinations name."
+        },
+        {
+          "t": "p",
+          "x": "[Companionate love in adversity](card:Companionate%20love%20in%20adversity): the steady affection between people whose lives are interdependent."
+        },
+        {
+          "t": "p",
+          "x": "[Friendship](card:Friendship): Aristotle's account of the bond without which no one would choose to live."
+        },
+        {
+          "t": "p",
+          "x": "[Aristotelian friendship](card:Aristotelian%20friendship): the treatment in Nicomachean Ethics VIII and IX."
+        },
+        {
+          "t": "p",
+          "x": "[Three kinds of friendship](card:Three%20kinds%20of%20friendship): the kinds counted by what people find lovable: the useful, the pleasant and the good."
+        },
+        {
+          "t": "p",
+          "x": "[Friendship shapes character](card:Friendship%20shapes%20character): Aristotle's claim that the company we keep shapes the people we become."
+        },
+        {
+          "t": "p",
+          "x": "Aristotle closes the account of friendship with its limit:"
+        },
+        {
+          "t": "q",
+          "x": "\"it would seem actually impossible to be a great friend to many people... but one cannot have with many people the friendship based on virtue and on the character of our friends themselves, and we must be content if we find even a few such.\" ([Aristotle, Nicomachean Ethics IX.10, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[The wounds of love](card:The%20wounds%20of%20love): Alcibiades' complaint in the Symposium about the injuries Socrates inflicts."
+        },
+        {
+          "t": "p",
+          "x": "[Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear): 1 John 4.18."
+        },
+        {
+          "t": "p",
+          "x": "[The ladder of love](card:The%20ladder%20of%20love): Diotima's staged ascent in the Symposium, from one beautiful body to the beautiful itself."
+        },
+        {
+          "t": "p",
+          "x": "[The free person loves all](card:The%20free%20person%20loves%20all): Spinoza's free person, who lives by reason and refuses the rule of fear."
+        },
+        {
+          "t": "p",
+          "x": "[Sympatheia](card:Sympatheia): the Stoic doctrine of cosmic interdependence that Marcus Aurelius instructs himself to keep in mind."
+        },
+        {
+          "t": "p",
+          "x": "[The interconnected good](card:The%20interconnected%20good): the Stoic teaching that a person's good is part of one woven system."
+        },
+        {
+          "t": "h2",
+          "x": "What one person owes another"
+        },
+        {
+          "t": "p",
+          "x": "[Being-for-others](card:Being-for-others): Sartre's ontological principle for the experience of being seen."
+        },
+        {
+          "t": "p",
+          "x": "[The mirror for others](card:The%20mirror%20for%20others): Mencius' advice to examine oneself when one's actions do not bring the desired response from others."
+        },
+        {
+          "t": "p",
+          "x": "[Rectify the self before others](card:Rectify%20the%20self%20before%20others): Confucius, Analects 13.6."
+        },
+        {
+          "t": "p",
+          "x": "[Repay injury with uprightness, kindness with kindness](card:Repay%20injury%20with%20uprightness%2C%20kindness%20with%20kindness): Confucius, Analects 14.34, where Confucius corrects the very proposal to repay injury with kindness."
+        },
+        {
+          "t": "p",
+          "x": "[Bear one another's burdens](card:Bear%20one%20another%27s%20burdens): Galatians 6.2."
+        },
+        {
+          "t": "p",
+          "x": "[Entrust to faithful others](card:Entrust%20to%20faithful%20others): the instruction of 2 Timothy 2.2."
+        },
+        {
+          "t": "p",
+          "x": "[Almsgiving in secret](card:Almsgiving%20in%20secret): Gospel of Matthew 6."
+        },
+        {
+          "t": "p",
+          "x": "[Dāna (generosity) without expectation](card:D%C4%81na%20%28generosity%29%20without%20expectation): the Buddhist tradition."
+        },
+        {
+          "t": "p",
+          "x": "[Generosity](card:Generosity): Aristotle's liberality, the mean concerned with wealth."
+        },
+        {
+          "t": "p",
+          "x": "[Hospitality](card:Hospitality): the welcome owed to the stranger who arrives, from Levinas and Derrida."
+        },
+        {
+          "t": "p",
+          "x": "[Service](card:Service): work done for another's sake, in which the server is not left behind."
+        },
+        {
+          "t": "p",
+          "x": "[Enemy-love](card:Enemy-love): the command of Matthew 5.44."
+        },
+        {
+          "t": "p",
+          "x": "[Enemy as teacher](card:Enemy%20as%20teacher): Śāntideva on forbearance: the adversary provides the occasion for patience."
+        },
+        {
+          "t": "p",
+          "x": "The Analects record the proposal and Confucius' rejection of it:"
+        },
+        {
+          "t": "q",
+          "x": "Some one said, \"What do you say concerning the principle that injury should be recompensed with kindness?\" The Master said, \"With what then will you recompense kindness? Recompense injury with justice, and recompense kindness with kindness.\" ([Confucius, Analects 14.34, Legge translation](https://ctext.org/analects/xian-wen))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Gospel commands the other response:"
+        },
+        {
+          "t": "q",
+          "x": "\"Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;\" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Confucius prescribes justice toward injury and kindness toward kindness, and his question, with what then will you recompense kindness, treats that distinction as the thing to preserve. Matthew commands doing good even toward those who hate and persecute. The two passages leave open whether they give incompatible answers to one question, what is owed, or answers to two different questions, what is owed and what may be given."
+        },
+        {
+          "t": "p",
+          "x": "[Father, forgive them](card:Father%2C%20forgive%20them): Gospel of Luke 23.34."
+        },
+        {
+          "t": "p",
+          "x": "[Cosmopolitan care](card:Cosmopolitan%20care): Miller's account of extending care beyond proximity."
+        },
+        {
+          "t": "p",
+          "x": "[The liberation of others](card:The%20liberation%20of%20others): de Beauvoir's conclusion that willing your own freedom commits you to the freedom of other people."
+        },
+        {
+          "t": "p",
+          "x": "[The interdependence of freedoms](card:The%20interdependence%20of%20freedoms): the same ethics argued across The Ethics of Ambiguity: a person's freedom cannot be fulfilled alone."
+        },
+        {
+          "t": "p",
+          "x": "[The golden rule](card:The%20golden%20rule): the family of sayings that tell people to treat others as they would wish to be treated."
+        },
+        {
+          "t": "p",
+          "x": "[Wish good for your friend for their own sake](card:Wish%20good%20for%20your%20friend%20for%20their%20own%20sake): Aristotle, Nicomachean Ethics VIII.2."
+        },
+        {
+          "t": "h2",
+          "x": "Helping: altruism and its debates"
+        },
+        {
+          "t": "p",
+          "x": "[Altruism](card:Altruism): motivation aimed at another person's good for that person's sake, not as a means to one's own."
+        },
+        {
+          "t": "p",
+          "x": "[Altruism theory Batson empathy](card:Altruism%20theory%20Batson%20empathy): the research program testing whether empathy produces genuinely other-directed motivation."
+        },
+        {
+          "t": "p",
+          "x": "[Empathy-altruism hypothesis](card:Empathy-altruism%20hypothesis): the claim that empathic concern produces motivation with the ultimate goal of relieving the other's need."
+        },
+        {
+          "t": "p",
+          "x": "[Prosocial behaviour](card:Prosocial%20behaviour): the family of voluntary actions taken to help and benefit others."
+        },
+        {
+          "t": "p",
+          "x": "[Prosocial motivation](card:Prosocial%20motivation): Grant and Berg's desire to protect and promote the well-being of others."
+        },
+        {
+          "t": "p",
+          "x": "[Prosocial spending](card:Prosocial%20spending): spending money to benefit others; how people spend may matter as much as how much they earn."
+        },
+        {
+          "t": "p",
+          "x": "[Prosocial honesty research](card:Prosocial%20honesty%20research): the finding that brutal honesty often serves the speaker's discharge, not the listener's benefit."
+        },
+        {
+          "t": "p",
+          "x": "[Reciprocal altruism research](card:Reciprocal%20altruism%20research): Trivers's model of helping between non-relatives as mutualism with a time lag."
+        },
+        {
+          "t": "p",
+          "x": "[Social value orientation](card:Social%20value%20orientation): the measurable difference between people in how much weight they give another person's outcomes."
+        },
+        {
+          "t": "p",
+          "x": "[Social influences on motivation](card:Social%20influences%20on%20motivation): the ways other people, their norms and their support change what a person wants and how strongly."
+        },
+        {
+          "t": "h2",
+          "x": "Relationships and communities as structures"
+        },
+        {
+          "t": "p",
+          "x": "[Relationship categorisation](card:Relationship%20categorisation): how people sort their relationships into kinds and where they draw the boundaries, in Fehr's research."
+        },
+        {
+          "t": "p",
+          "x": "[Relationship dissolution research](card:Relationship%20dissolution%20research): Duck's phase model of how relationships end."
+        },
+        {
+          "t": "p",
+          "x": "[Social exchange theory](card:Social%20exchange%20theory): the family of models for how relationships begin, continue and end."
+        },
+        {
+          "t": "p",
+          "x": "[Interdependence Theory](card:Interdependence%20Theory): Thibaut and Kelley: relationship outcomes judged by comparison level and comparison level for alternatives."
+        },
+        {
+          "t": "p",
+          "x": "[Interdependence research](card:Interdependence%20research): the research line on the interdependent construal of self anchored in Markus and Kitayama."
+        },
+        {
+          "t": "p",
+          "x": "[Social penetration theory](card:Social%20penetration%20theory): Altman and Taylor's account of relationships deepening through self-disclosure."
+        },
+        {
+          "t": "p",
+          "x": "[Attachment theory](card:Attachment%20theory): Bowlby's account of love bonds: the child-caregiver bond is organized by an inborn behavioural system whose business is protection, and the system keeps running in adult relationships."
+        },
+        {
+          "t": "p",
+          "x": "[Attachment security](card:Attachment%20security): the sense, built from experience with available and responsive caregivers and partners, that others will be available and supportive when needed."
+        },
+        {
+          "t": "p",
+          "x": "[Communitarianism](card:Communitarianism): the view that communities largely make the identities of their members."
+        },
+        {
+          "t": "p",
+          "x": "[Community](card:Community): MacIntyre's local form of life in which identity, roles and goods are constituted together with others."
+        },
+        {
+          "t": "p",
+          "x": "[Sense of community](card:Sense%20of%20community): McMillan and Chavis's felt experience of belonging and mattering to a group."
+        },
+        {
+          "t": "p",
+          "x": "[Community psychology theory](card:Community%20psychology%20theory): the study of well-being at the level of settings and systems."
+        },
+        {
+          "t": "p",
+          "x": "[Community intervention research](card:Community%20intervention%20research): implementation research in community settings."
+        },
+        {
+          "t": "p",
+          "x": "[Parasocial interaction theory](card:Parasocial%20interaction%20theory): Horton and Wohl's observation that mass media give the illusion of face-to-face relationship with the performer."
+        },
+        {
+          "t": "p",
+          "x": "[Parasocial contact hypothesis](card:Parasocial%20contact%20hypothesis): the proposal that contact via media can reduce prejudice."
+        },
+        {
+          "t": "h2",
+          "x": "The stories and sayings"
+        },
+        {
+          "t": "p",
+          "x": "The theme comes in narrative form too:"
+        },
+        {
+          "t": "p",
+          "x": "[ST243 — The Five Relationships](card:ST243%20%E2%80%94%20The%20Five%20Relationships): the Confucian wulun: five relationships, each defined by reciprocal duties between the two parties."
+        },
+        {
+          "t": "p",
+          "x": "[ST077 — The Mother's Protection](card:ST077%20%E2%80%94%20The%20Mother%27s%20Protection): the Metta Sutta's mother, willing to risk her life for her only child, made the measure of a boundless heart toward all beings."
+        },
+        {
+          "t": "p",
+          "x": "[ST079 — Won't You Be My Neighbour](card:ST079%20%E2%80%94%20Won%27t%20You%20Be%20My%20Neighbour): Fred Rogers' sign-off, an ordained minister's theology of the neighbourhood built into a children's show."
+        },
+        {
+          "t": "p",
+          "x": "[ST267 — The Face of the Other](card:ST267%20%E2%80%94%20The%20Face%20of%20the%20Other): Levinas' encounter: the face addresses me, and the address is a command."
+        },
+        {
+          "t": "p",
+          "x": "[ST288 — Joel and Clementine Erase Each Other](card:ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): a failed couple each pay to erase the other from memory; inside the procedure, Joel fights to keep her."
+        },
+        {
+          "t": "p",
+          "x": "[ST315 — Loneliness and Mortality](card:ST315%20%E2%80%94%20Loneliness%20and%20Mortality): Holt-Lunstad's meta-analysis: across 148 studies, stronger social relationships predicted higher survival odds (OR 1.50), a 50 per cent increased likelihood of survival in the authors' phrasing."
+        },
+        {
+          "t": "p",
+          "x": "[ST313 — Jane Goodall's Two Careers](card:ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): the naturalist whose discoveries at Gombe redefined the boundary between human and animal, and who left fieldwork permanently after the 1986 conference on the chimpanzees' conditions."
+        },
+        {
+          "t": "p",
+          "x": "[ST262 — Georges Cares for Anne](card:ST262%20%E2%80%94%20Georges%20Cares%20for%20Anne): Haneke's Amour: the feeding, the washing, the refusal of the hospital, and love that stays at the bedside to the end."
+        },
+        {
+          "t": "p",
+          "x": "[ST194 — Seneca Writes to His Mother](card:ST194%20%E2%80%94%20Seneca%20Writes%20to%20His%20Mother): from exile, Seneca refuses to console his mother with the usuals, and keeps writing to her."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is empathy-based helping for the other or for the self?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when empathy moves a person to help, whose welfare is the motivation's ultimate goal? Batson's research program says the other's:"
+        },
+        {
+          "t": "q",
+          "x": "\"The empathy-altruism hypothesis claims that prosocial motivation associated with feeling empathy for a person in need is directed toward the ultimate goal of benefiting that person, not toward some subtle form of self-benefit.\" ([Batson et al. 1988, PubMed 3418490](https://pubmed.ncbi.nlm.nih.gov/3418490/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Cialdini's group answered with the opposite interpretation, tested in the paradigm Batson's associates typically used:"
+        },
+        {
+          "t": "q",
+          "x": "\"We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy.\" ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The disagreement is direct: empathy-related helping has two rival explanations, the other's welfare or relief from the helper's own sadness. My page on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, with the limits kept on record there. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the default of managing alone, the circle drawn at kin and friend, the feeling-with that overwhelms and withdraws, and the kindness that stays an intention. The adaptive direction leans on trusted others as the designed condition, widens the circle on purpose, converts resonance into care before it turns into distress, and puts kindness into acts and spending where it can land."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels I have selected as sources of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[K161 — Loving-kindness meditation](card:K161%20%E2%80%94%20Loving-kindness%20meditation): the phased goodwill practice: phrases of goodwill for yourself, a friend, a neutral person, a difficult person, and all beings."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[K414 — Compassion meditation (CCT-style)](card:K414%20%E2%80%94%20Compassion%20meditation%20%28CCT-style%29): the daily meditations of Compassion Cultivation Training: where loving-kindness wishes beings well, this practice attends to difficulty."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[K211 — Acts of kindness](card:K211%20%E2%80%94%20Acts%20of%20kindness): one visible act of help daily; small counts, and the study behind it counted acts without weighing them."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[K213 — Prosocial spending](card:K213%20%E2%80%94%20Prosocial%20spending): spending a small amount of money on someone else, from the research on how the direction of small spending shapes mood."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[K166 — Sympathetic joy](card:K166%20%E2%80%94%20Sympathetic%20joy): deliberately rejoicing when someone you might compare yourself to does well."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[K219 — Social accountability](card:K219%20%E2%80%94%20Social%20accountability): tell one person about the goal or practice and let them ask about it, as in the Matthews study's weekly progress reports."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[K221 — Community engagement](card:K221%20%E2%80%94%20Community%20engagement): time spent in a community not one's own, with the emphasis on listening."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[K399 — The kindness pool (unblock the spring)](card:K399%20%E2%80%94%20The%20kindness%20pool%20%28unblock%20the%20spring%29): unblocking the spring that feeds the kindness pool instead of rationing the pool, through the befriending meditation."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. Of the kernels above I would keep two: the metta phrases, because they can run in the background of an ordinary day, and the weekly kindness act, because it is small enough to survive a bad week. What stays for any reader is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "What others do"
+        },
+        {
+          "t": "p",
+          "x": "[ST315 — Loneliness and Mortality](card:ST315%20%E2%80%94%20Loneliness%20and%20Mortality): 308,849 participants across 148 studies: stronger social relationships predict survival, an effect comparable to smoking cessation and exceeding the effects of physical inactivity."
+        },
+        {
+          "t": "h2",
+          "x": "The bond"
+        },
+        {
+          "t": "p",
+          "x": "[ST243 — The Five Relationships](card:ST243%20%E2%80%94%20The%20Five%20Relationships): the junzi is cultivated inside the wulun, five relationships each defined by reciprocal duties between the two parties."
+        },
+        {
+          "t": "p",
+          "x": "[ST288 — Joel and Clementine Erase Each Other](card:ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): Joel and Clementine each pay to erase the other from memory; inside his own mind Joel fights the procedure, hiding Clementine in memories she does not belong to."
+        },
+        {
+          "t": "p",
+          "x": "[ST194 — Seneca Writes to His Mother](card:ST194%20%E2%80%94%20Seneca%20Writes%20to%20His%20Mother): from Corsica, Seneca refuses to console Helvia with the usuals and argues that nothing was taken from him that was ever his; what he sends instead is the letter itself."
+        },
+        {
+          "t": "h2",
+          "x": "Care to the end"
+        },
+        {
+          "t": "p",
+          "x": "[ST262 — Georges Cares for Anne](card:ST262%20%E2%80%94%20Georges%20Cares%20for%20Anne): Anne's body fails and Georges stays: the feeding, the washing, the refusal of the hospital, and the daughter's offers of management from outside."
+        },
+        {
+          "t": "h2",
+          "x": "The other's claim"
+        },
+        {
+          "t": "p",
+          "x": "[ST267 — The Face of the Other](card:ST267%20%E2%80%94%20The%20Face%20of%20the%20Other): the face addresses me as more than an object among objects, and the address places me under obligation before any contract."
+        },
+        {
+          "t": "p",
+          "x": "[ST077 — The Mother's Protection](card:ST077%20%E2%80%94%20The%20Mother%27s%20Protection): the sutta takes a mother's willingness to risk her life for her only child and sets it as the measure for goodwill toward all beings."
+        },
+        {
+          "t": "p",
+          "x": "[ST079 — Won't You Be My Neighbour](card:ST079%20%E2%80%94%20Won%27t%20You%20Be%20My%20Neighbour): thirty-three years of feeding the fish and asking the question, a theology of the neighbourhood delivered to children."
+        },
+        {
+          "t": "p",
+          "x": "[ST313 — Jane Goodall's Two Careers](card:ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): at the 1986 conference on the chimpanzees' conditions she sees the scale of the destruction and leaves fieldwork permanently, becoming an activist travelling roughly 300 days a year and founding Roots and Shoots."
+        }
+      ],
+      "group": "eemm",
+      "status": "published",
+      "art": "assets/dossier-art/others.jpg"
+    },
+    {
+      "id": "body",
+      "title": "Body",
+      "question": "What does the body know, and how does it participate in suffering and flourishing?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The body is more than the shell the mind rides in. The scientific literatures give it three jobs: the signals the body sends upward are part of how emotion is made, the rhythms of breath and heart are part of how calm is made, and the wear of chronic stress is written into the organs. The phenomenologists give the claim its strongest form: the body is the medium through which a world is had. The map below holds both literatures side by side, and the divergences are left where they stand."
+        },
+        {
+          "t": "h",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "Embodiment: the philosophical wing of the theme; the map's first group holds the lived body, the body schema and situated embodiment."
+        },
+        {
+          "t": "p",
+          "x": "Interoception: the scientific wing; perception of the body's internal states, in the map's second group."
+        },
+        {
+          "t": "p",
+          "x": "Physiology: the stress systems and their measures, in the third group."
+        },
+        {
+          "t": "p",
+          "x": "Breath: the theme's most practical entry, in the fourth group; the classical training traditions and the modern trials meet there."
+        },
+        {
+          "t": "h",
+          "x": "The map: the entries on body"
+        },
+        {
+          "t": "h2",
+          "x": "The body as lived"
+        },
+        {
+          "t": "p",
+          "x": "[The lived body](card:The%20lived%20body): the body one is, not only the body one has; the SEP entry the card quotes puts Husserl's distinction plainly:"
+        },
+        {
+          "t": "q",
+          "x": "\"It is necessary to distinguish the body as it is subjectively lived through (Leib), and the body as an object among others (Körper)\" ([SEP, Husserl](https://plato.stanford.edu/entries/husserl/))",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Embodiment](card:Embodiment): Merleau-Ponty's version; the body's mode of existence as being-toward-the-world, pre-objective and explicable neither as third-person causation nor as representation."
+        },
+        {
+          "t": "p",
+          "x": "[Situated embodiment](card:Situated%20embodiment): Beauvoir's move; the body as a situation the subject lives."
+        },
+        {
+          "t": "p",
+          "x": "[Body schema](card:Body%20schema): Head and Holmes's unconscious postural standard; an on-line, real-time plastic representation of one's own body in space."
+        },
+        {
+          "t": "p",
+          "x": "[Body representation](card:Body%20representation): Gallagher's term for the internal structures that carry body information."
+        },
+        {
+          "t": "p",
+          "x": "[Body memory](card:Body%20memory): Fuchs's totality of implicit dispositions of perception and behaviour sedimented in earlier experience; it shows in what we have become able to do."
+        },
+        {
+          "t": "p",
+          "x": "[Embodied cognition](card:Embodied%20cognition): Barsalou's grounded cognition; modal simulations, bodily states and situated action underlie cognition."
+        },
+        {
+          "t": "p",
+          "x": "[Somatic marker hypothesis (Damasio)](card:Somatic%20marker%20hypothesis%20%28Damasio%29): decision-making influenced by marker signals arising in bioregulatory processes, some conscious, some not."
+        },
+        {
+          "t": "p",
+          "x": "[T044 — Merleau-Ponty, Maurice](card:T044%20%E2%80%94%20Merleau-Ponty%2C%20Maurice): perception as the living action of an embodied being already caught up in the world."
+        },
+        {
+          "t": "p",
+          "x": "[The habit body](card:The%20habit%20body): habit as knowledge in the hands; the organist and the typist, from the same tradition."
+        },
+        {
+          "t": "h2",
+          "x": "Interoception and the feeling of the body"
+        },
+        {
+          "t": "p",
+          "x": "[Interoception](card:Interoception): the general term for the signals; the card carries the James-Lange lineage in brief."
+        },
+        {
+          "t": "p",
+          "x": "[Interoceptive awareness](card:Interoceptive%20awareness): the perception of internal states and the meta-awareness of them as information rather than noise; the Frontiers definition the card quotes treats interoception as a process that regulates life at basic levels while modulating emotional experience at the most complex."
+        },
+        {
+          "t": "p",
+          "x": "[Interoceptive inference](card:Interoceptive%20inference): Seth's predictive account; feelings not read off raw signals but inferred from generative models of them."
+        },
+        {
+          "t": "p",
+          "x": "[Interoceptive exposure (Barlow)](card:Interoceptive%20exposure%20%28Barlow%29): deliberately bringing on a racing heart or dizziness in a safe setting and staying, to learn the sensation does not lead to the expected disaster."
+        },
+        {
+          "t": "p",
+          "x": "[Somatic psychotherapy](card:Somatic%20psychotherapy): the umbrella for therapies that use body techniques as part of the treatment; the review the card quotes names neurophysiological regulation as the aim."
+        },
+        {
+          "t": "p",
+          "x": "[Somatic experiencing (Levine)](card:Somatic%20experiencing%20%28Levine%29): pendulation, the figure-eight movement between activation and a settled resource state, held to complete interrupted defensive responses."
+        },
+        {
+          "t": "h2",
+          "x": "The stress systems"
+        },
+        {
+          "t": "p",
+          "x": "[Autonomic nervous system (sympathetic vs parasympathetic)](card:Autonomic%20nervous%20system%20%28sympathetic%20vs%20parasympathetic%29): heart rate, blood pressure, respiration, digestion, involuntarily regulated."
+        },
+        {
+          "t": "p",
+          "x": "[HPA axis theory stress](card:HPA%20axis%20theory%20stress): the hypothalamus-pituitary-adrenocortical cascade; the review the card quotes puts its function as stress adaptation and the redirection of energy to meet real or anticipated demand."
+        },
+        {
+          "t": "p",
+          "x": "[Cortisol awakening response theory](card:Cortisol%20awakening%20response%20theory): the sharp rise after waking as an index of the system's health and load."
+        },
+        {
+          "t": "p",
+          "x": "[Allostatic load](card:Allostatic%20load): McEwen's wear and tear from chronic over- or under-activity of systems built for change; the price of accommodation to stress."
+        },
+        {
+          "t": "p",
+          "x": "[Polyvagal theory (Porges)](card:Polyvagal%20theory%20%28Porges%29): distinct dorsal and ventral vagal branches proposed to map to emotional states; the card is thin on carriers and the theory is held as theory, not verdict."
+        },
+        {
+          "t": "p",
+          "x": "[Heart rate variability theory](card:Heart%20rate%20variability%20theory): beat-to-beat variation as an index of self-regulation; Thayer and Lane's neurovisceral integration account."
+        },
+        {
+          "t": "p",
+          "x": "[Heart-rate-variability biofeedback](card:Heart-rate-variability%20biofeedback): training the variability itself."
+        },
+        {
+          "t": "h2",
+          "x": "Breath"
+        },
+        {
+          "t": "p",
+          "x": "[Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29): the MN 118 instruction; sitting upright in a quiet place, attending to inhalation and exhalation, discerning long from short."
+        },
+        {
+          "t": "p",
+          "x": "[ST068 — The Sixteen Steps of the Breath](card:ST068%20%E2%80%94%20The%20Sixteen%20Steps%20of%20the%20Breath): the full manual in four tetrads; the card calls it the most detailed in the early canon and the root text of every breath meditation taught today."
+        },
+        {
+          "t": "p",
+          "x": "[The rhythm of breath](card:The%20rhythm%20of%20breath): the Daoist image of whole-body breathing, from the Zhuangzi's true men who breathe from their heels."
+        },
+        {
+          "t": "p",
+          "x": "[Slow-paced breathing](card:Slow-paced%20breathing): the parasympathetic effect of slowed breathing, and the caveats the card carries on the popularised claims."
+        },
+        {
+          "t": "p",
+          "x": "[Physiological sigh (Balban et al., Stanford)](card:Physiological%20sigh%20%28Balban%20et%20al.%2C%20Stanford%29): the double inhale and long exhale the body uses on its own; the 2023 trial of five minutes a day."
+        },
+        {
+          "t": "p",
+          "x": "[Pranayama](card:Pranayama): the Indian branch of the same family."
+        },
+        {
+          "t": "p",
+          "x": "[Qi](card:Qi): the Chinese word for the breath-like, moving stuff early thinkers took everything to be made of; the card notes Legge rendered it as breath."
+        },
+        {
+          "t": "p",
+          "x": "[Yoga — union of body, breath, and mind](card:Yoga%20%E2%80%94%20union%20of%20body%2C%20breath%2C%20and%20mind): the practical synthesis of posture, breath and attention; the card is precise that the posture-centred presentation is the young part."
+        },
+        {
+          "t": "p",
+          "x": "[Yangsheng (cultivating vitality)](card:Yangsheng%20%28cultivating%20vitality%29): the Chinese art of nurturing life."
+        },
+        {
+          "t": "p",
+          "x": "[B038 — Practice mindfulness of breathing (anapanasati)](card:B038%20%E2%80%94%20Practice%20mindfulness%20of%20breathing%20%28anapanasati%29): the principle form of the MN 118 posture and instruction."
+        },
+        {
+          "t": "p",
+          "x": "[B040 — Know the body (body contemplation)](card:B040%20%E2%80%94%20Know%20the%20body%20%28body%20contemplation%29): the Satipatthana Sutta lists the body first among its frames."
+        },
+        {
+          "t": "p",
+          "x": "[Y048 — Use the breath to steady attention](card:Y048%20%E2%80%94%20Use%20the%20breath%20to%20steady%20attention): Yoga Sutra 1.34, expulsion and retention of breath as one means of steadying the mind."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "p",
+          "x": "The practice side of this theme is unusually concrete. [Breath anchoring](card:K100%20%E2%80%94%20Breath%20anchoring): rest attention on the sensation of breathing, note where attention went, return; the return is the practice. [Body scan](card:K102%20%E2%80%94%20Body%20scan): move attention slowly through the body, noticing sensation where there is some and absence where there is none. [Interoceptive awareness](card:K111%20%E2%80%94%20Interoceptive%20awareness): a brief daily check-in on heartbeat, breathing, hunger, tension, temperature. [Slow breathing (5 to 6 breaths per minute)](card:K194%20%E2%80%94%20Slow%20breathing%20%285%20to%206%20breaths%20per%20minute%29): five to six breaths a minute for five minutes; the kernel states the frequency maximizes heart-rate variability and activates the parasympathetic nervous system, and that claim is the kernel's own. [Interoceptive exposure](card:K118%20%E2%80%94%20Interoceptive%20exposure) for the panic side. [Body-first emotion work](card:K172%20%E2%80%94%20Body-first%20emotion%20work) for the naming side. [Lived-body description](card:K304%20%E2%80%94%20Lived-body%20description) and [Body-schema noticing](card:K307%20%E2%80%94%20Body-schema%20noticing) for the phenomenological wing."
+        },
+        {
+          "t": "p",
+          "x": "This is an editorial combination, not a validated recipe. The trial is: pick one body practice, run it daily for two weeks, and judge by what changes in the body's felt presence in ordinary situations. Retain what steadies; drop what does not."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "[ST045 — The True Man Breathes from His Heels](card:ST045%20%E2%80%94%20The%20True%20Man%20Breathes%20from%20His%20Heels): Zhuangzi's true man of old breathes from his heels; everyone else from the throat."
+        },
+        {
+          "t": "p",
+          "x": "[ST046 — The Yellow Emperor Climbs Kongtong](card:ST046%20%E2%80%94%20The%20Yellow%20Emperor%20Climbs%20Kongtong): the sage refuses the emperor's question, sends him to sit in stillness for three months, then teaches him to guard the inner and quiet the hearing and sight."
+        },
+        {
+          "t": "p",
+          "x": "[ST044 — The Tortoise in the Mud](card:ST044%20%E2%80%94%20The%20Tortoise%20in%20the%20Mud): Zhuangzi declines a ministry; the sacred tortoise would rather be alive dragging its tail in the mud."
+        },
+        {
+          "t": "p",
+          "x": "[ST263 — The Phantom Hand](card:ST263%20%E2%80%94%20The%20Phantom%20Hand): Merleau-Ponty's patient who still feels the lost hand; the body schema does not dissolve when a part is lost."
+        },
+        {
+          "t": "p",
+          "x": "[ST264 — Bauby Blinks](card:ST264%20%E2%80%94%20Bauby%20Blinks): locked-in syndrome; a memoir dictated by blinking, the butterfly of consciousness not shrinking with the diving bell."
+        },
+        {
+          "t": "p",
+          "x": "[ST265 — Christy Brown's A](card:ST265%20%E2%80%94%20Christy%20Brown%27s%20A): cerebral palsy, one controllable foot, a letter A scraped on the kitchen floor; a body-subject constituted around the limb that answered."
+        },
+        {
+          "t": "p",
+          "x": "[ST048 — Yayoi Kusama Paints the Hallucinations](card:ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): Kusama has seen fields of dots since childhood, has lived voluntarily in a Tokyo psychiatric hospital since 1977, and paints the hallucinations at architectural scale in the Infinity Mirror Rooms."
+        },
+        {
+          "t": "p",
+          "x": "[ST047 — McCandless and the Bus](card:ST047%20%E2%80%94%20McCandless%20and%20the%20Bus): the Alaskan wilderness, four months, a journal's last legible line."
+        },
+        {
+          "t": "p",
+          "x": "[ST049 — The Pipes of Heaven](card:ST049%20%E2%80%94%20The%20Pipes%20of%20Heaven): the Zhuangzi's opening image of breath and wind."
+        }
+      ],
+      "group": "eemm",
+      "status": "published",
+      "art": "assets/dossier-art/body.jpg"
     }
   ],
   "groups": [
@@ -10633,26 +12332,6 @@ window.fcDossiersData = {
     }
   ],
   "roadmap": [
-    {
-      "id": "agency",
-      "title": "Agency",
-      "group": "minds-life"
-    },
-    {
-      "id": "behaviour",
-      "title": "Behaviour",
-      "group": "eemm"
-    },
-    {
-      "id": "others",
-      "title": "Others",
-      "group": "eemm"
-    },
-    {
-      "id": "body",
-      "title": "Body",
-      "group": "eemm"
-    },
     {
       "id": "right-view",
       "title": "Right View",
