@@ -129,3 +129,10 @@ conventions rather than tested values.
 docs/enrichment/batches/dos4.json updated to done at push. The registry
 status for the Attention dossier is left "planned" for the supervisor to
 flip and publish, as directed; flagged in the commit message.
+
+## Story section
+
+Added per the updated exemplar (the-self.md, Story section). Every story
+card included was opened and read this session; each logline compresses
+the story card's own telling, and no story is included from its title
+alone.

@@ -191,3 +191,10 @@ happiness, not flourishing, which the dossier says.
   full articles are paywalled in the fetch used.
 - Two additional card carriers (Aristotle NE X, Frankl) were not re-opened; their cards are
   linked and described only, with no quotation reproduced from them.
+
+## Story section
+
+Added per the updated exemplar (the-self.md, Story section). Every story
+card included was opened and read this session; each logline compresses
+the story card's own telling, and no story is included from its title
+alone.

@@ -134,3 +134,10 @@ was verified in this dossier, and the evidence-limits paragraph says so.
 docs/enrichment/batches/dos2.json done at push. The registry status for
 affect stays "planned" for the supervisor to flip and publish, as
 directed; flagged in the commit message.
+
+## Story section
+
+Added per the updated exemplar (the-self.md, Story section). Every story
+card included was opened and read this session; each logline compresses
+the story card's own telling, and no story is included from its title
+alone.
