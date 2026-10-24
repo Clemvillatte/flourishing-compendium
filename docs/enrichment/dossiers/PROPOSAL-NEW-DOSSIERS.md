@@ -88,6 +88,14 @@ The avoidance of suffering, Stuckness as suffering, Judgment adds the harm):
 - [Judgment adds the harm](../../../content/concepts/Judgment%20adds%20the%20harm.md)
   — the Stoic Enchiridion 5 doctrine and the Sallatha Sutta's two arrows side by side,
   both quoted with carriers
+- [Four Noble Truths](../../../content/concepts/Four%20Noble%20Truths.md) (read in
+  full: the four tasks as verbs of practice, with the family of diagnostic
+  traditions on the card)
+- [Attitudinal values](../../../content/concepts/Attitudinal%20values.md) (read in
+  full: Frankl's three ways to meaning, with his avoidability fence and the camp
+  passage quoted verbatim with the carrier)
+- [Compassion](../../../content/concepts/Compassion.md) (read in full: the Gilbert
+  definition, the caregiving ground, and the not-pity-not-sympathy distinctions)
 - [Tanha](../../../content/concepts/Tanha.md) and
   [Karuna](../../../content/concepts/Karuna.md) — the engine and the response, both
   carrier-rich
@@ -183,11 +191,14 @@ Supporting cards (read in full: The dizziness of freedom, Escape from freedom):
 - [The dizziness of freedom](../../../content/concepts/The%20dizziness%20of%20freedom.md)
   — the Kierkegaard passage with its carrier, and the honest limit that the passage
   sits inside a theological argument
-- [Radical freedom](../../../content/concepts/Radical%20freedom.md),
+- [Radical freedom](../../../content/concepts/Radical%20freedom.md) (read in full:
+  the Sartrean for-itself in a factical situation via SEP),
+  [Psychological reactance](../../../content/concepts/Psychological%20reactance.md)
+  (read in full: the Brehm definition and the boomerang effect with the Frontiers
+  carrier),
   [Situated freedom](../../../content/concepts/Situated%20freedom.md),
   [Anguish (angoisse)](../../../content/concepts/Anguish%20%28angoisse%29.md),
   [Second-order desires](../../../content/concepts/Second-order%20desires.md),
-  [Psychological reactance](../../../content/concepts/Psychological%20reactance.md),
   [Natural liberty versus the chains](../../../content/concepts/Natural%20liberty%20versus%20the%20chains.md)
   (opened in part)
 - story [ST273 The Dizziness of Freedom](../../../content/stories/ST273%20%E2%80%94%20The%20Dizziness%20of%20Freedom.md)
@@ -230,10 +241,14 @@ Supporting cards (read in full: Nature exposure, Ecological self):
 - [Ecological self](../../../content/concepts/Ecological%20self.md) — Naess's account
   of the self as constituted by relations with the living world, with the Devall
   essay carrying the passage on the card; practice principles R119, R116, P152, R130
-- [Nature connectedness](../../../content/concepts/Nature%20connectedness.md),
-  [Nature as teacher](../../../content/concepts/Nature%20as%20teacher.md),
-  [Intrinsic value of nature](../../../content/concepts/Intrinsic%20value%20of%20nature.md),
-  [Ecological grief](../../../content/concepts/Ecological%20grief.md),
+- [Nature as teacher](../../../content/concepts/Nature%20as%20teacher.md) (read in
+  full: the Zhuangzi ch. 22 passage with the Watson carrier),
+  [Intrinsic value of nature](../../../content/concepts/Intrinsic%20value%20of%20nature.md)
+  (read in full: Taylor's 1981 principle with the SEP vocabulary and the card's own
+  limits note),
+  [Ecological grief](../../../content/concepts/Ecological%20grief.md) (read in
+  full: the Cunsolo and Ellis definition with the solastalgia boundary),
+  [Nature connectedness](../../../content/concepts/Nature%20connectedness.md),
   [Ecological gratitude](../../../content/concepts/Ecological%20gratitude.md),
   [Deep ecology](../../../content/concepts/Deep%20ecology.md) (opened in part)
 - story [ST345 The Army Enlisted Against Nature](../../../content/stories/ST345%20%E2%80%94%20The%20Army%20Enlisted%20Against%20Nature.md)
