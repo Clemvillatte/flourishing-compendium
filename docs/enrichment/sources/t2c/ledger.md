@@ -145,3 +145,9 @@ prejudice); full card name [[T049 — Gadamer, Hans-Georg]] used throughout.
 (2) Diacritic audit - the four t2c single-mention pages (Atman, Brahman,
 Deconstruction of essences, S046) all carry substantive diacritic-form
 mentions (Sankara/Nagarjuna); no further removals. t2c audit clean.
+
+2026-10-24 06:07Z, worker-pplx-t2c-1024e: cleanup - the two pages whose
+non-substantive glosses were removed (K009, Y124) had empty Related
+concepts sections left behind; the orphaned section headers removed, both
+pages now validate clean (The exemplary person kept its section - it has
+other items).

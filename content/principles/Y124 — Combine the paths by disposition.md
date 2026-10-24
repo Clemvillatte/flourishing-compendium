@@ -45,4 +45,3 @@ A nurse who finds philosophy dry but loves her work treats her shifts as the mai
 - [Vedanta Society of Southern California, "Yoga - Spiritual Practice", for the Karma Yoga line](https://vedanta.org/yoga-spiritual-practice/)
 - The inherited person-activity fit and Rig Veda 1.164.46 parallels are cited at second hand and no claim here rests on them.
 
-## Related concepts
