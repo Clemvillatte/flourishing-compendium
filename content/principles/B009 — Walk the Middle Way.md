@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 9** — Walk the Middle Way
 
-The first sermon gives the rule: two extremes are not to be indulged in by one who has gone forth, devotion to sensual pleasure and devotion to self-affliction; the Buddha calls both ignoble and unprofitable. The sutta identifies the middle way between them with the Noble Eightfold Path. (SN 56.11.) The Dhammapada names the eightfold path the best of paths. (Dhammapada 273.)
+SN 56.11 rejects devotion to sensual pleasure and devotion to self-affliction, then identifies the middle way with the Noble Eightfold Path. It names a course of training, including right view, speech, action and concentration, rather than a halfway point between any two choices. Dhammapada 273 likewise names the Eightfold Path as the best of paths.
 
 > "Avoiding both of these extremes, the middle way realized by the Tathagata — producing vision, producing knowledge — leads to calm, to direct knowledge, to self-awakening, to Unbinding." (SN 56.11, [Thanissaro](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
 
-The compendium's application to practice borrows the Sona Sutta's image. Speaking to a monk whose persistence had been over-aroused, the Buddha draws on the monk's own experience, skilled at playing the vina: a string too taut is not in tune, and neither is a string too loose. "over-aroused persistence leads to restlessness, overly slack persistence leads to laziness" (AN 6.55.)
+For a related account of effort, AN 6.55 turns to Sona's experience playing the vina. Strings stretched too tightly or left too loose are unplayable. The Buddha tells him that "over-aroused persistence leads to restlessness, overly slack persistence leads to laziness" ([Sona Sutta](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)). The image concerns tuning effort for the practice, not making every decision moderate regardless of its purpose.
 
 **Plain words**
-Treat your effort like tuning a string. Too tight, the practice goes restless; too loose, it goes lazy. Check which direction your week has drifted, and turn the peg a little the other way.
+A demanding practice need not be punishing, and gentleness need not mean giving up. Effort is useful when it helps you do the work. Feeling miserable does not by itself show that you are progressing; feeling comfortable does not by itself show that you are avoiding it.
 
-*For example:* Imagine reviewing a diet that keeps swinging between strict restriction and "whatever". You write down what a middle version would ask of a bad week, and whether you would still follow it then.
+For example: As a personal trial, someone struggling with rigid meditation targets tries a shorter daily sitting and a flexible time window. She compares whether she actually practises and can attend, then keeps the more workable arrangement. This applies the tuning image without claiming that a particular duration constitutes the Middle Way.
 
 ## Sources
 

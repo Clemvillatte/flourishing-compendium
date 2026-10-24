@@ -21,7 +21,7 @@ The chapter goes on to compare these habits to unwanted leftovers or a tumour. T
 **Plain words**
 Trying to seem impressive can add a second job to an ordinary conversation. Alongside discussing the task, you are trying to manage your standing. Travelling light means having less to prove, while still saying what another person needs to know.
 
-For example: Before meeting a colleague, a reader drafts two truthful introductions, one centred on awards and one on relevant experience. He chooses the version that explains how he can help, then uses that approach at the next meeting. This suggested experiment makes impression-management motives easier to examine; the chapter does not establish its effectiveness.
+For example: As a personal exercise before meeting a colleague, a reader drafts two truthful introductions, one centred on awards and one on relevant experience. He chooses the version that explains how he can help, then uses that approach at the next meeting. The test is relevance to the task, not whether the colleague is impressed.
 
 ## Related concepts
 
