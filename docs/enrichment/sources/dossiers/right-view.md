@@ -281,3 +281,34 @@ generally understood term, the designation in common use, of 'chariot'")
 and the mirrored Nāgasena conclusion. The ST065 story entry is restored
 to the draft; the K144 kernel's Questions-of-Milinda background (the
 same exchange, parts list matching the opened page) is verified.
+
+## Pass 13: kernel candidate assessment (2026-10-24)
+
+All 64 candidates on the persisted list were read at opening-claim
+level this pass (first paragraph of each card, in one batch). Boundary
+calls:
+
+IN THE SELECTION (9, protocol-level read): K131, K132, K134, K144,
+K147, K218, K238, K270, K273.
+
+CONSIDERED, NOT ADDED, with reasons:
+- Defusion / self-as-context family (K139, K140, K146, K388, K401):
+  these work on the relation to thoughts from the observing position;
+  adjacent to views-held-lightly but their home is the-self dossier's
+  practice territory. K388 was considered twice.
+- Reappraisal family (K127, K272): emotion-regulation practices;
+  K270 already represents the thought-record line in the selection.
+- Perspective family (K138, K145, K260, K258, K261, K339, K389):
+  K131 and K218 already represent perspective-taking/-getting in the
+  selection; the rest are variants or belong to wise-reasoning and
+  relationship themes.
+- Identity/narrative family (K141, K142, K143, K148, K254, K333):
+  K147 already represents the fixed-label line.
+- OFF-THEME (rest): relationship repair, contact, values, virtue,
+  learning loops, mood and meditation practices; they mention "view"
+  or "perspective" incidentally.
+
+Status, precisely: candidate list generated; all 64 openings read at
+one-paragraph level; nine selected and read at protocol level; protocol
+level reading for the remainder not done. The next pass may revisit the
+defusion boundary call if the-self dossier does not claim that family.
