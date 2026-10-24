@@ -69,19 +69,19 @@ incidental mentions, and stay excluded per the Nearby-terms note.
    Verified against the raw HTML fetched with curl: "In the same way,
    Sona, over-aroused persistence leads to restlessness, overly slack
    persistence leads to laziness. Thus you should determine the right
-   pitch for your persistence, attune the pitch of the faculties to
-   that, and there pick up your theme." The raw page prints bracketed
-   notes ("attune [2] the pitch of the [five] faculties"); the dossier
-   drops the bracketed glosses, a typographic adjustment noted here.
-   Used in the divergence (grit vs tuning) and in the map's tuning
-   group.
+   pitch for your persistence, attune [2] the pitch of the [five]
+   faculties [to that], and there pick up your theme." The dossier
+   quotes it with the translator's bracketed glosses and the word five,
+   as printed (restored in the QC pass of revision 2). Used in the
+   map's tuning group; the planned divergence that used it was removed.
 
 3. Daodejing 37 (Legge translation, Project Gutenberg plain text,
    ebook 216): https://www.gutenberg.org/cache/epub/216/pg216.txt
    Verified by curl of the plain-text file, chapter 37: "The Tao in its
    regular course does nothing (for the sake of doing it), and so there
-   is nothing which it does not do." Divergence 2 (generate or drop)
-   uses this against SN 45.8's first effort.
+   is nothing which it does not do." The divergence that used this
+   (generate or drop) was removed on QC review; the quote is now unused
+   in the dossier and is retained here for the record.
 
 ## Map and practice sources
 
