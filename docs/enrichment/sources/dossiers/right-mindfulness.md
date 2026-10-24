@@ -255,6 +255,36 @@ verified carriers for the underlying image:
   and carrier corrected: calf per Papañcasūdanī, or the six animals
   per SN 35.247).
 
+## Goyal et al. 2014 verification and restoration (pass 14, worker-pplx-dos24-1025a, 2026-10-24)
+
+The pass-1 open item (PubMed shell, JAMA DOI 403) is RESOLVED via a
+new carrier: the PMC full text (https://pmc.ncbi.nlm.nih.gov/articles/
+PMC4142584/, opened this pass via curl, 304455 bytes, real article
+content, title "Meditation Programs for Psychological Stress and
+Well-being: A Systematic Review and Meta-analysis", Madhav Goyal, Sonal
+Singh, Erica M. S. Sibinga, et al.). Verified verbatim from the opened
+full text: "After reviewing 17,801 citations, we included 47 trials
+with 3,320 participants."; "Mindfulness meditation programs had
+moderate evidence to improve anxiety [ ES 0.38 (CI 0.12 to 0.64) at 8
+weeks; ES 0.22 (0.02 to 0.43) at 3–6 months], depression [ES 0.30
+(0.00 to 0.59) at 8 weeks; ES 0.23 (0.05 to 0.42) at 3–6 months] and
+pain [ES 0.33 (0.03 to 0.62)], and low evidence to improve
+stress/distress and mental health-related quality of life."; "We
+found either low evidence of no effect or insufficient evidence of any
+effect of meditation programs on positive mood, attention, substance
+use, eating, sleep, and weight."; "We found no evidence that
+meditation programs were better than any active treatment (drugs,
+exercise, other behavioral therapies)."; "Clinicians should be aware
+that meditation programs can result in small to moderate reductions in
+multiple negative dimensions of psychological stress." All FULL MATCH
+against the opened PMC text. The dossier's new evidence paragraph in
+The modern family section paraphrases exactly these findings and
+quotes the conclusion sentence; the paragraph's claims were checked
+term by term against the opened text. The card "Right mindfulness"
+already carries this study with the PubMed link; the dossier cites the
+PMC full text as the opened carrier. Note: the previous attempts'
+failures were network/bot-block issues, not absent evidence.
+
 ## Card-body audit (pass 6 follow-up)
 
 A description audit read the assembled card bodies (frontmatter

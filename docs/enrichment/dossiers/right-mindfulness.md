@@ -88,6 +88,12 @@ The observation is not detached watching; it is effortful and free of grasping. 
 
 [Walking meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Walking%20meditation): deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath.
 
+The trials behind this family's claims have been counted. A 2014 review of 47 randomized trials in clinical populations found moderate evidence that mindfulness programs improve anxiety, depression and pain, low or insufficient evidence of effect on positive mood, attention, sleep, eating and weight, and no evidence that meditation programs were better than any active treatment, whether drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:
+
+> "Clinicians should be aware that meditation programs can result in small to moderate reductions in multiple negative dimensions of psychological stress." ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)).
+
+That is a real result with a modest voice, and it is part of why the path factor and the clinical intervention are kept distinct on this page: the practices carry measurable help with certain forms of distress, about as much as other active treatments carry, and the ancient frame of the training is not the same claim as the trial result.
+
 ### The attention traditions
 
 [The craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention) and [The discipline of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20attention): Weil's account of attention as the trained capacity to suspend one's own thought so that what is in front of one can appear.
