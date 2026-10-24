@@ -435,5 +435,7 @@
    "from": "supervisor-pplx-895565b1",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-24T04:51:07+00:00"
 }
