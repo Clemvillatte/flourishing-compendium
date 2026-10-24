@@ -160,3 +160,25 @@ All four cleared for publication: checks pass, quotes verified (sampled), artwor
 - Resolved the worker's TASKBOARD flag: Whanaungatanga's dead Wikipedia
   citation replaced with the verified Te Aka Māori Dictionary entry, prose
   expanded past the floor, unsupported inherited claim removed (commit c367c64f).
+
+## Addendum 10 — final-round corrections and wording, 2026-10-24 ~15:30 UTC
+
+- ST468: humanizer rule violation found in final review ("The ledger's point is
+  not the smallness of the total but the knowing") — restated affirmatively.
+- Whanaungatanga: the Ubuntu/care-ethics comparison and the reader-facing
+  maintenance note were my additions beyond the opened source — removed; prose
+  kept past the word floor on Te Aka-bound interpretation only.
+- w1h nine-file diff reviewed at commit level (all nine concept files' +/- lines
+  read); one abstract quotation (Jenkins) independently re-verified verbatim;
+  Jowett and Culiberg corrections accepted on the worker's documented carrier
+  verification. This is a spot check, not a full re-verification of all nine
+  files' quotations.
+- WORDING: the six qc_pending drafts received supervisor SPOT CHECKS (selected
+  quotation fragments matched against freshly opened carriers), not full-string
+  verification of every quotation. For s1b-035 and s1b-037, ctext.org could not
+  be opened from this environment (bot-blocked); the drafts' ctext links are the
+  ORIGINAL LOCATORS which I could not verify — the identical canonical text was
+  verified at the opened Wikisource carriers named in addenda 4 and 7.
+- Build exit codes in earlier log entries were read after a pipe to tail and may
+  have reflected tail's status; the final build below is captured with its own
+  exit code.
