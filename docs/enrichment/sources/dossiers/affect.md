@@ -1,24 +1,29 @@
 # Dossier ledger — Affect (worker-pplx-dos2-1024c, 2026-10-24)
 
-Verification record for docs/enrichment/dossiers/affect.md, revision 1.
+Verification record for docs/enrichment/dossiers/affect.md, revision 2.
 
 ## Method
 
-- Map construction: the dos2 manifest's title sweep (41 concepts, 5
-  kernels, 1 saying) mapped in full. This dossier was built in the
-  session's pre-taper window, a recorded limit: no additional body sweep
-  for stragglers was run, and the map covers the manifest sweep only.
-  Boundary cards that appear in other bands' manifests (e.g. Affect
-  heuristic, also in dos3's sweep) are mapped here since they are in this
-  manifest, and the boundary is noted in Nearby terms.
+- Map construction: the dos2 manifest's title sweep (40 concepts, 5
+  kernels, 1 saying), plus a straggler screen after review: 16 additional
+  concept cards found by title search and added on reading (Theory of
+  constructed emotion; Fear; Joy; Self-conscious emotions; Shame; Guilt;
+  Pride; Envy; Self-transcendent emotions; Mudita; The taxonomy of
+  passions; Naming the passions; The counter-affect; Passion theory
+  Vallerand; Empathy; Sympathy; Compassion). The specific anger-family
+  cards were left to the Anger dossier, and socioemotional selectivity was
+  left out as a motivation rather than affect entry; these exclusions are
+  editorial boundary calls recorded here. The screen was a title search
+  over the concept files, not a full-text body sweep - a recorded limit.
+  Affect heuristic appears in both dos2 and dos3 sweeps and is mapped in
+  both dossiers, each from its own side.
 - Every per-entry description is a compressed restatement of the linked
   entry's own opening claim, taken from its content/ file. Inherited map
   summaries, not newly verified findings; the cards carry their own
   carriers. No description carries a quotation.
 - Every quoted fragment was verified word-for-word this session against
   a carrier opened for it.
-- Card links: 57 links, all resolved by scripts/dossier_check.py
-  (exit 0; 13 headers, 3 external carriers).
+- Card links: all resolved by scripts/dossier_check.py (exit 0).
 
 ## Carriers opened and compared (URLs)
 
@@ -53,15 +58,32 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 1.
 - Affect heuristic is in both dos2 and dos3 sweeps; it is mapped here
   and in the Cognition dossier, each from its own side, with a Nearby
   terms note.
-- The divergence chosen is the field's basic-emotion vs
-  construction/circumplex disagreement, with James 1884 quoted as the
-  shared root both sides reinterpret.
+- The divergence was narrowed after review to the discrete-categories vs
+  valence/arousal-dimensions contrast, with each side's evidential base
+  stated; the James 1884 quotation was moved beside the James-Lange map
+  entry rather than doing duty for either side.
+- The anger-family cards were treated as belonging to the Anger
+  dossier's theme where they are specific to anger; Empathy, Sympathy and
+  Compassion were added here as the feeling-between-people entries.
 
 ## Practice section
 
 Selection lists the manifest's five kernels; each description was taken
-from the kernel protocol text directly. The evidence-limits paragraph
-states where each family's support stands.
+from the kernel protocol text directly. The outcome language in those
+glosses is the kernels' own text, compressed; no trial of the exercises
+was verified in this dossier, and the evidence-limits paragraph says so.
+
+## Repairs after review (revision 2)
+
+- The intro's sweeping opening replaced with a scope statement; Nearby
+  terms relabeled to the actual cards.
+- The Emotion as construction, Affect heuristic, Mid-level emotion
+  regulation, Fading affect bias, Embodied emotion theory and saying
+  glosses rewritten to stay within what the linked cards state.
+- The divergence rewritten as above; the Ekman journal attribution
+  corrected to American Psychologist 49(4); the Posner quotation's
+  internal citation restored.
+- The evidence-limits paragraph rewritten to claim nothing not verified.
 
 ## Band state
 

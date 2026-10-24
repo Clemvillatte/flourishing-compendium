@@ -185,11 +185,11 @@ Both positions answer the same question, what to do with a painful thought, and 
 
 6. [Compassionate Thinking: name the part, then look from the other side](https://clemvillatte.github.io/flourishing-compendium/#card=K381%20%E2%80%94%20Compassionate%20Thinking%3A%20name%20the%20part%2C%20then%20look%20from%20the%20other%20side): giving inner states names, "Anxious Me," "the Critic," as separate voices to talk about rather than be.
 
-7. [Cognitive acceptance: watch thoughts float by](https://clemvillatte.github.io/flourishing-compendium/#card=K385%20%E2%80%94%20Cognitive%20acceptance%3A%20watch%20thoughts%20float%20by): letting thoughts arise and pass in meditation without following or answering them.
+7. [Cognitive acceptance: watch thoughts float by](https://clemvillatte.github.io/flourishing-compendium/#card=K385%20%E2%80%94%20Cognitive%20acceptance%3A%20watch%20thoughts%20float%20by): a chosen recurring thought watched for five minutes floating past like clouds, then noticed for twenty-four hours without judging, changing or avoiding it — the aim being to stop adding struggle on top.
 
 8. [Carry the thought on paper](https://clemvillatte.github.io/flourishing-compendium/#card=K387%20%E2%80%94%20Carry%20the%20thought%20on%20paper): a self-led acceptance exercise from Tolin's Doing CBT: the recurring thought written down, folded, kept in the pocket; the slip stands in for the thought, noticed and carried while the day goes on.
 
-9. [Sounds and Thoughts meditation](https://clemvillatte.github.io/flourishing-compendium/#card=K394%20%E2%80%94%20Sounds%20and%20Thoughts%20meditation): treating thoughts as sounds: arising, heard, passing, with no demand that they be answered.
+9. [Sounds and Thoughts meditation](https://clemvillatte.github.io/flourishing-compendium/#card=K394%20%E2%80%94%20Sounds%20and%20Thoughts%20meditation): resting on the breath, then receiving sounds near and far without searching for them, then turning the same receiving stance on thoughts — events arising, lingering, passing.
 
 10. [Sing the thought, or say it in a silly voice](https://clemvillatte.github.io/flourishing-compendium/#card=K401%20%E2%80%94%20Sing%20the%20thought%2C%20or%20say%20it%20in%20a%20silly%20voice): a self-critical thought already examined, said once normally, then sung to a well-known tune or said in an exaggerated voice; the card's own caution is to use it only on the examined thought, not a fresh wound.
 
