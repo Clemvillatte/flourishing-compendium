@@ -6,10 +6,13 @@ Right action is the fourth factor of the Eightfold Path: what the body does when
 
 ## Nearby terms
 
-- Right conduct, ethical action: other renderings of the same Pali factor, sammā kammanta; my card is [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action), and nothing is split between the names.
-- Non-harm: the floor this factor rests on; the harmlessness resolve as an intention belongs to the Right Intention page, this page holds the bodily restraints that resolve issues in.
-- Behaviour: the general science of habit formation stays there; this page holds the path's ethical restraints on bodily conduct.
-- Right speech and right livelihood: the neighbouring conduct factors, each with its own page; the map below points to them only where the boundary matters.
+Right conduct, ethical action: other renderings of the same Pali factor, sammā kammanta; my card is [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action), and nothing is split between the names.
+
+Non-harm: the floor this factor rests on; the harmlessness resolve as an intention belongs to the Right Intention page, this page holds the bodily restraints that resolve issues in.
+
+Behaviour: the general science of habit formation stays there; this page holds the path's ethical restraints on bodily conduct.
+
+Right speech and right livelihood: the neighbouring conduct factors, each with its own page; the map below points to them only where the boundary matters.
 
 ## The map: the entries on right action
 
