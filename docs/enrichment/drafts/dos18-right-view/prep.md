@@ -127,11 +127,10 @@ logline is not duplicated).
 
 ## Pass 10 notes (advisor QC round 4)
 
-- ST065 (Nagasena and the Chariot): restore only after opening a carrier
-  visibly carrying the chariot exchange (Rhys Davids archive.org full
-  text, or sacred-texts/wisdomlib in a browser session; both refuse
-  automated fetch). The K144 kernel's Questions-of-Milinda background
-  is unverified for the same reason.
+- ST065 RESOLVED (pass 12): the wisdomlib Rhys Davids full text was
+  opened in the cloud browser (curl is refused; the browser is not) and
+  the chariot exchange verified on the page; the story entry is
+  restored and the K144 background verified.
 - Open research questions now three: cultivation-vs-non-establishment
   (MN 117 vs Diamond Sutra 31, quotes in place, opposition unproven),
   convictions-vs-discernment, tasks-vs-beliefs. All need opposed

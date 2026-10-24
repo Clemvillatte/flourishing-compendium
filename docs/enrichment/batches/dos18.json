@@ -1,6 +1,6 @@
 {
  "batch": "dos18",
  "done": [],
- "note": "pass 11 (supervisor-pplx-1024g, 2026-10-24 ~T+31): advisor QC round 5 consistency fixes: tasks-vs-propositions wording neutralized, SEP 'context for the comparison', Mahayana lead-in describes instruction directly, map heading/intro softened to working map; kernel candidate list persisted to docs/enrichment/drafts/dos18-right-view/kernel-candidates.txt (programmatic count 64, earlier 63 was a miscount); status: candidate list generated, subset inspected, assessment incomplete. Checker passes: 40 card links, 17 headers, 10 external carrier occurrences (7 source URLs). NOT QC-passed; research draft handed off with blockers listed in handoff.md",
+ "note": "pass 12 (supervisor-pplx-1024g, 2026-10-24 ~T+34): ST065 carrier opened in the cloud browser (wisdomlib Rhys Davids full text, doc1460770; on-page verification of the chariot exchange), ST065 story entry restored to the draft, K144 Questions-of-Milinda background verified. Checker passes: 41 card links, 18 headers, 10 external carrier occurrences (7 source URLs). Remaining blockers: no grounded divergence yet (three open research questions), kernel assessment incomplete (64-file list persisted), promotion to markdown of record, art assignment",
  "status": "in_progress"
 }

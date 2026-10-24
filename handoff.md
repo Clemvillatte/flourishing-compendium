@@ -13,11 +13,9 @@ Open blockers for the next writer:
 2. Kernel assessment incomplete: 64-file candidate list persisted at docs/enrichment/drafts/dos18-right-view/kernel-candidates.txt; K132,
    K144, K270, K273 added to the Practice selection; K388 considered
    and not added; boundary calls to check.
-3. ST065 (Nagasena and the Chariot) removed from the publishable draft
-   pending an openable chariot-exchange carrier (sacred-texts and
-   wisdomlib refuse automated fetch; try Rhys Davids archive.org or a
-   browser session). K144's Questions-of-Milinda background unverified
-   for the same reason.
+3. ST065 RESOLVED (pass 12): the wisdomlib Rhys Davids full text was
+   opened in the cloud browser and the chariot exchange verified on the
+   page; the story entry is restored and the K144 background verified.
 4. Promotion to docs/enrichment/dossiers/right-view.md and art
    assignment are later actions.
 

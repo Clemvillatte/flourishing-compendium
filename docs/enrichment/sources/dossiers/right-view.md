@@ -267,3 +267,17 @@ boundary calls are recorded here for the next pass to check.
   than equating it with "the teaching itself"; the map heading and intro
   now describe a working map with expected gaps instead of promising
   "every entry".
+
+## Pass 12: ST065 carrier opened in the browser (2026-10-24)
+
+The cloud browser opened the wisdomlib full text where curl was refused:
+https://www.wisdomlib.org/buddhism/book/milindapanha-questions-of-king-milinda/d/doc1460770.html
+(Rhys Davids translation). Verified ON THE OPENED PAGE by on-page
+search: "Is it the pole that is the chariot", "Chariot is a mere empty
+sound", the king's answer ("on account of its having all these
+things, the pole, and the axle, the wheels, and the framework, the
+ropes, the yoke, the spokes, and the goad, that it comes under the
+generally understood term, the designation in common use, of 'chariot'")
+and the mirrored Nāgasena conclusion. The ST065 story entry is restored
+to the draft; the K144 kernel's Questions-of-Milinda background (the
+same exchange, parts list matching the opened page) is verified.
