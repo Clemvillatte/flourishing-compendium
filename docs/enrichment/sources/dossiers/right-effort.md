@@ -99,6 +99,12 @@ persistence, Sona Sutta, and the effort/energy/persistence/grit family.
   matched on "burn" words, off-theme), ST340 Fukuoka (used in Right
   Livelihood), habit-formation kernels other than those selected
   (K176, K196, K257 held by Behaviour).
+- ST376/ST421 Meghiya added to the Story section after a full-text sweep
+  pass (vayama, Sona, four efforts): the episode distinguishes wanting
+  to exert oneself from knowing what to cultivate, which is the four-
+  efforts question in narrative form. The saying card Right action
+  rewarded (Buddhism, karma) is a stub off-theme for effort and is
+  excluded.
 - The Right effort card's illustrative scenario (five minutes on a
   low-energy morning) is folded into the B058 practice line rather than
   quoted, per the card's own note that it is illustrative, not

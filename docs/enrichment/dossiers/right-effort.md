@@ -113,6 +113,10 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST064 — The Lute String](https://clemvillatte.github.io/flourishing-compendium/#card=ST064%20%E2%80%94%20The%20Lute%20String): Soṇa strains so hard in meditation that he considers giving up; the Buddha asks the former lute player whether strings sound best too tight or too slack, and says the energy is the same.
 
+### Wanting to exert, and knowing what to cultivate
+
+[ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya finds a mango grove that looks ideal for meditation and asks three times to practise there; alone beneath a tree he is troubled by thoughts of sensuality, ill will and harm, and returns to ask the Buddha about them; the episode distinguishes wanting to exert oneself from knowing what to cultivate.
+
 ### Effortlessness on the far side of training
 
 [ST030 — Federer's Effortlessness](https://clemvillatte.github.io/flourishing-compendium/#card=ST030%20%E2%80%94%20Federer%27s%20Effortlessness): Wallace, watching Federer at Wimbledon, reaches for a metaphysical explanation: one of those rare, preternatural athletes who appear to be exempt, at least in part, from certain physical laws; the approaching ball hangs, for him, a split-second longer than it ought to.
