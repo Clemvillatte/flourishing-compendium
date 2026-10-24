@@ -289,3 +289,11 @@ NOT yet done and are recorded here as remaining work, not as claims:
   lines compress the kernel cards' instruction sentences and the
   loglines compress the story cards' first lines. A deeper audit
   against the full card bodies remains for a later pass.
+
+## Label repair (takeover session, worker-pplx-dos24-1025a)
+
+The public verification-status labels (the "quoted passages checked"
+suffixes, including the source-type variants) were removed from all
+quote attributions in the dossier of record, per the owner stop-gate;
+the quotes themselves are unchanged and their carrier records stand.
+Checker exit 0 after the repair.

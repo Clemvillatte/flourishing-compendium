@@ -31,13 +31,13 @@ Knowing what is happening while it happens sounds like the simplest of skills an
 
 The Satipatthana Sutta opens by naming what the practice is for:
 
-> "This is the direct path for the purification of beings, for the overcoming of sorrow & lamentation, for the disappearance of pain & distress, for the attainment of the right method, & for the realization of Unbinding — in other words, the four frames of reference." ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)): Primary text; quoted passages checked.
+> "This is the direct path for the purification of beings, for the overcoming of sorrow & lamentation, for the disappearance of pain & distress, for the attainment of the right method, & for the realization of Unbinding — in other words, the four frames of reference." ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
 
 ### The refrain that does the work
 
 What makes the practice right is less the objects than the posture toward them; for each of the four frames the instruction returns to the same refrain:
 
-> "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)): Primary text; quoted passages checked.
+> "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
 
 The observation is not detached watching; it is effortful and free of grasping. The map holds the capacities the refrain trains:
 
@@ -107,15 +107,15 @@ The observation is not detached watching; it is effortful and free of grasping. 
 
 The clinical definition that the modern practice family works from, Kabat-Zinn's, reads:
 
-> "the awareness that emerges through paying attention, on purpose, in the present moment, and non-judgmentally to the unfolding of experience moment by moment." ([Wikipedia, "Mindfulness", quoting Jon Kabat-Zinn](https://en.wikipedia.org/wiki/Mindfulness)): Reference article quoting the primary definition; quoted passage checked.
+> "the awareness that emerges through paying attention, on purpose, in the present moment, and non-judgmentally to the unfolding of experience moment by moment." ([Wikipedia, "Mindfulness", quoting Jon Kabat-Zinn](https://en.wikipedia.org/wiki/Mindfulness)).
 
 Thanissaro, reading the Pali sati, holds that the functions the clinical definition names are not automatically part of sati:
 
-> "Directions such as “bring bare attention to the breath,” or “accept the breath,” or whatever else modern teachers tell us that mindfulness is supposed to do, are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)): Scholarly essay by a monastic translator; quoted passages checked.
+> "Directions such as “bring bare attention to the breath,” or “accept the breath,” or whatever else modern teachers tell us that mindfulness is supposed to do, are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)).
 
 From the same essay:
 
-> "meditation isn't just a passive process of being nonjudgmentally present with whatever's there and not changing it at all." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)): Scholarly essay by a monastic translator; quoted passages checked.
+> "meditation isn't just a passive process of being nonjudgmentally present with whatever's there and not changing it at all." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)).
 
 These excerpts emphasize different aspects of mindfulness: purposeful, nonjudgmental awareness in the clinical definition, and keeping the practice and its purpose in mind in Thanissaro's account. They do not, by themselves, establish a contradiction. I hold both, the clinical family's cards on one side and the sati cards and this essay on the other, and record the question as open.
 
@@ -123,7 +123,7 @@ These excerpts emphasize different aspects of mindfulness: purposeful, nonjudgme
 
 Nyanaponika Thera makes bare attention the core of the practice:
 
-> "Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation." ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)): Primary text by a monastic scholar; quoted passages checked.
+> "Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation." ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)).
 
 Thanissaro, as the passage quoted above says, assigns those functions to other mental qualities and allows them alongside sati: functions like bringing bare attention to the breath "are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." Nyanaponika emphasizes bare attention's importance in satipatthana practice; Thanissaro distinguishes its functions from sati itself while allowing them alongside it. These excerpts do not establish mutually exclusive positions. I hold both, the Bare attention card on one side and the sati cards and Thanissaro's essay on the other, and record the question as open.
 
