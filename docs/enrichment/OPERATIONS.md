@@ -1,3 +1,25 @@
+# Supervisor QC entry — 2026-10-24, T+35 (flourishing-compendium)
+
+Reviewed the parallel workers' flagged supervisor items (dos19 released
+with flags; dos20 rev2; dos21 claimed and in flight):
+
+- dos19 (Right Intention, worker-pplx-dos19-1024a): checker exit 0 on
+  the dossier of record. Flagged items stand: genuine-divergence
+  carriers (their research unfinished, honestly recorded), the ST085
+  seed-card carrier fix (AN 3.123 is the Gotamaka-cetiya Sutta, not the
+  Kosambi episode; needs a verified carrier before the card is
+  repaired), and the registry flip. Structural check only, not content
+  approval.
+- dos20 (Right Speech, worker-pplx-dos20-1024h): checker exit 0, 90
+  card links. Structural check only.
+- Registry flips BLOCKED this session for a structural reason:
+  scripts/dossier_registry_build.py reads r['art'] unconditionally for
+  published entries (d['art'] = ART_DIR + r['art']), so a flip
+  without an art assignment crashes the build, and the art assignment
+  for the twelve new dossiers is pending from the owner's collection
+  (ART-GALLERY.md). Flipping dos19/dos20 to published requires art
+  first. Recorded so the next supervisor does not rediscover this.
+
 - QC ENTRY (2026-10-24 ~07:20Z, supervisor-pplx-1024g, advisor round 1 on the mint-3 + grid-dividers milestone, commit 37828dd9): the advisor confirmed the sectioned grid and roadmap but withheld full clearance; all five routed repairs applied and pushed: (1) verification record honesty - the handoff entry now distinguishes inherited card quotations (resting on earlier sessions' carrier verifications) from passages checked this session, and records this QC round only after the repairs; (2) scope claims softened - the four affective mints are PROVISIONAL after card review (writers re-test each family from opened sources; Fear and Sadness & Grief already carry first-task boundary-matrix instructions), the right-speech registry scope no longer flattens MN 58 into 'factual, beneficial, endearing, timely' (the Abhaya formula: factual, true, beneficial words, endearing or not, said at the proper time out of sympathy - matches the Right speech card's own quoted MN 58 passage), and the right-mindfulness scope now draws the boundary between the path factor and the clinical mindfulness-intervention evidence explicitly; (3) the DOM-stub regression test rewritten to derive section membership, ordering and card lists from the compiled fcDossiersData (with a fixture empty group for the filter path and real assertions on card click and Enter-key wiring) so future publications do not break it; (4) the section label drops white-space:nowrap for overflow-wrap:break-word so the long EEMM heading cannot force horizontal overflow on narrow viewports (live narrow-viewport check in the same session); (5) the dos18-dos29 manifests carry no inherited Agency-owned paths (verified by inspection) and are claimable through baton.py clock-in (new bands appear in status once claimed, matching the dos14-dos17 precedent).
 - SUPERVISOR QC LOG addendum (2026-10-23 ~11:57Z, supervisor-pplx-18731e82): ct3 sample — Nonviolent communication: every quoted fragment verified verbatim against the opened CNVC 4-components PDF (Manske); ONE repair applied — the carrier prints A report of "what is" in double quotes where the page had single (same double-to-single normalization class as the w1af findings); pushed. Earlier this pass: k1c K257 Habituation by design (Aristotle NE II.1 Ross via MIT Classics + Wood & Rünger 2016 abstract via PubMed: all quotes verbatim) and t1e T046 Henri Bergson (SEP Lawlor + Wikipedia Nobel citation: all quotes verbatim) — both clean, no repairs.
 - SUPERVISOR QC LOG (2026-10-23 ~11:50Z, supervisor-pplx-18731e82, T0 11:20:33Z): samples verified this pass — k1e K250 Virtue rehearsal (Aristotle NE II.1 Chase via Gutenberg 8438 lines 1791-94, Franklin Autobiography Gutenberg 20203: all quotes verbatim; Lally 2010 abstract figures stand on the worker's carrier record), t1f T051 Nishida Kitaro (SEP Maraldo: all five quoted fragments verbatim, NKZ IX 6 and XI 420 citations confirmed), k1d K310 Bad-faith detection (Sartre 1946 marxists.org carrier: all fragments verbatim; ONE repair applied — the carrier prints 'no determinism – man is free' with an en dash where the page had flattened it to a comma, restored; Maier & Seligman 2016 abstract via the UPenn PDF: 'the default, unlearned response' and 'overcome by learning control' both verbatim). Advisor QC round executed on own first items (Expressive writing, Memento mori): all routed repairs applied and pushed; ct4 mint retired after the advisor showed the ownership audit was faulty (pages already at the bar; holds are owner items).
