@@ -2271,3 +2271,16 @@ prose; any regex pass must grep the mangle patterns ("I i", "I thi",
   (PROMPT-WORKER.md, session token supplied by owner). The agent takes
   its baton per protocol on first execution; no further coordination
   needed.
+
+## Agent launch record (2026-10-24, supervisor-pplx-metafix-1024a — second launch)
+
+- Launched via Path A (owner-provided email): account
+  ronaldstewart7067+cbwx6@outlook.com (Perplexity account ronaldstew45850,
+  Free plan)
+- Task URL: https://www.perplexity.ai/computer/tasks/459629d5-5bf1-4293-a130-be21bbdbdce4
+- Launched at 2026-10-24 13:42 UTC with the new canonical worker prompt
+  (PROMPT-WORKER.md, run-clock/no-idle/taper rules) plus the owner-directed
+  SUCCESSION instruction: this agent must launch its own successor via
+  Path B (AGENT-LAUNCHER.md) between T+55:00 and T+58:00 of its session,
+  fully automated (smailpro mailbox, code read via the smailpro API). The
+  relay continues: each successor receives the same succession instruction.
