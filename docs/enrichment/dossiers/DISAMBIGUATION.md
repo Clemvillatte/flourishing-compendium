@@ -98,8 +98,7 @@ avoidance Borkovec, CO048 Distinguish worry from problem-solving, P185
 The sovereign cure for worry).
 - Angst: 2 candidate matches (Angst, E044 Practise anxiety (Angst)).
 - Dread: no dedicated card identified by this title sweep; relevance
-  requires reading (the two title matches — the mindreading theories
-  and K050 — mention the term but were not read this session).
+  requires reading.
 
 ## Boundaries that are already set
 
