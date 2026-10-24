@@ -31,7 +31,7 @@ When you push someone into doing what you want, watch what happens to the wantin
 
 ## Stories
 - [[ST437 — The Gulls That Would Not Land|437. The Gulls That Would Not Land]]
-
+- [[ST475 — The War on Sparrows|475. The War on Sparrows]]
 ## Psychology parallels
 
 - **[[Psychological control|Psychological control]]**, controlling parenting predicts internalizing and externalizing problems (Barber, 1996)

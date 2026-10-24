@@ -1,0 +1,42 @@
+---
+schema: 0
+id: "ST475"
+type: "story"
+title: "475.  The War on Sparrows"
+file: "ST475 — The War on Sparrows"
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.04 — I.4 Action — Effortlessness, Timing, and Skill", "parent": ""}
+---
+
+Maoist China, 1958-1960 · a state campaign and its measured aftermath · documented in an NBER working paper (2025) and campaign records
+
+In 1958, China declared the sparrow a pest. Sparrows made the list of the Four Pests because they were thought to be eating grain crops, and the state mobilized its citizens to kill them. Roughly two billion birds later, the locusts arrived. The campaign is a case study of what D133 warns about: the push to control one visible thing left the system free to answer in a currency no one had budgeted for. ([University of Chicago insight](https://climate.uchicago.edu/insights/campaigning-for-extinction-eradication-of-sparrows-and-the-great-famine-in-china/))
+
+The mobilization was total. "In an effort to reduce sparrow populations on a large scale, citizens were mobilized to participate in a mass extermination campaign" ([Wikipedia](https://en.wikipedia.org/wiki/Great_sparrow_campaign)): nests were knocked down, birds shot, and in the evenings people beat gongs when the sparrows came home to roost. A former Sichuan schoolchild, years later ([Wikipedia](https://en.wikipedia.org/wiki/Great_sparrow_campaign)):
+
+> "It was fun to 'Wipe out the Four Pests'. The whole school went to kill sparrows. We made ladders to knock down their nests, and beat gongs in the evenings, when they were coming home to roost."
+
+The mobilization succeeded at its task. "In 1960, three years after the initiation of the Four Pests Campaign and following the nationwide killing of approximately 2 billion sparrows, the central government realized their importance and removed them from the list of Four Pests, replacing them with bedbugs" ([University of Chicago insight](https://climate.uchicago.edu/insights/campaigning-for-extinction-eradication-of-sparrows-and-the-great-famine-in-china/)). The reversal had been building for a year: "the unchecked proliferation of insects in the fields resulted in significant crop damage due to the absence of natural predators" ([Wikipedia](https://en.wikipedia.org/wiki/Great_sparrow_campaign)).
+
+The 2025 study by Frank, Wang, Wang, Wang and You put numbers on the answer the system gave ([NBER w34087](https://www.nber.org/papers/w34087)):
+
+> "This paper tests the long-standing hypothesis that China's 1958 Four Pests Campaign, which exterminated sparrows despite scientists' warnings about their pest-control role, exacerbated the Great Famine—the largest in human history."
+
+> "State food procurement exacerbated these losses, resulting in a 9.6% higher mortality in high-suitability counties—implying nearly two million excess deaths."
+
+In yield terms, the study found that "after sparrow eradication, a one-standard-deviation increase in sparrow suitability led to 5.3% larger rice and 8.7% larger wheat declines" ([NBER w34087](https://www.nber.org/papers/w34087)); in the Chicago insight's summary, the sparrow killing "can account for 19.6 percent of the national crop yield reduction during the Great Famine," with "the loss of nearly 2 million lives" ([University of Chicago insight](https://climate.uchicago.edu/insights/campaigning-for-extinction-eradication-of-sparrows-and-the-great-famine-in-china/)).
+
+My reading: Laozi's warning in D133 runs through a kingdom, and the logic covers any system that answers back ([DDJ 29, Legge](https://www.sacred-texts.com/tao/taote.htm)):
+
+> "The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it."
+
+The sparrow campaign is that verse with a ledger attached. The state grabbed the variable it could see, the grain the birds ate; the system's answer came through the variables it could not, the locusts and borers, the procurement quotas, the mortality tables. What makes the story useful for D133 is the arc: success at the stated task, and a reversal large enough that economists could isolate it decades later. The story carries the domination-reverses-into-its-opposite face of the principle in full; it does not carry the principle's interpersonal face, where influence travels through another person's own will.
+
+**Principles:**
+- [[D133 — Don't dominate — the world can't be controlled|133. Don't dominate: the world can't be controlled]] — the campaign shows domination succeeding at its stated task and reversing into its opposite through the system's uncontrolled variables, with the reversal measured decades later
+
+## Sources
+- [Frank, Q. Wang, S. Wang, X. Wang and You, "Campaigning for Extinction: Eradication of Sparrows and the Great Famine in China," NBER Working Paper 34087 (2025)](https://www.nber.org/papers/w34087) — the causal study; abstract sentences quoted on the page
+- [Institute for Climate and Sustainable Growth, University of Chicago, research insight on the sparrow study](https://climate.uchicago.edu/insights/campaigning-for-extinction-eradication-of-sparrows-and-the-great-famine-in-china/) — the campaign history and the study's findings as quoted
+- [Wikipedia, "Eliminate Sparrows campaign"](https://en.wikipedia.org/wiki/Great_sparrow_campaign) — the mobilization mechanics, the schoolchild account, and the 1960 halt
+- [Laozi, Dao De Jing 29 (James Legge, 1891), Internet Sacred Text Archive](https://www.sacred-texts.com/tao/taote.htm) — the D133 root text quoted in the interpretation
