@@ -14,7 +14,7 @@ Try this with a friend: put your palms together and start gently pushing. Usuall
 
 The same thing happens in conversations. When someone tells you what to change, notice whether your first thought is *why they're wrong*. That's the push-back hand. It happens inside you too: "You should exercise" often meets "No, I'm too tired." Once you notice the push-back, you have a choice — keep pushing (and keep getting pushed back), or stop pushing and let the reasons for change come from your side instead.
 
-The palm-pushing demonstration was attributed in the original seed to Burke, Lundahl & Arkowitz (Eds.), Motivational Interviewing in the Treatment of Psychological Problems (3rd ed.), ch. 1, printed p. 1. That volume could not be reopened for this check, so the chapter and page are unconfirmed. The demonstration is a teaching illustration, not an empirical claim.
+The palm-pushing demonstration was attributed in the original seed to Burke, Lundahl & Arkowitz (Eds.), Motivational Interviewing in the Treatment of Psychological Problems (3rd ed., Guilford Press, 2025), ch. 1, printed p. 1. The publisher's page confirms the volume itself — third edition, those editors, 330 pages — but the demo's chapter and page could not be verified against the book's text. The demonstration is a teaching illustration, not an empirical claim.
 
 ### Protocol
 
@@ -72,4 +72,5 @@ What the sources do not test: these passages are the MI account of reactance and
 ## Sources
 
 - [Miller, W. R. & Rollnick, S. (2012). Motivational Interviewing: Helping People Change (3rd ed.). Guilford Press — PDF](https://ia800603.us.archive.org/29/items/applications-of-motivational-interviewing-william-r.-miller-stephen-rollnick-mot/%28Applications%20of%20Motivational%20Interviewing%29%20William%20R.%20Miller,%20Stephen%20Rollnick%20-%20Motivational%20Interviewing,%20Third%20Edition_%20Helping%20People%20Change-The%20Guilford%20Press%20%282012%29.pdf)
+- [Burke, B. L., Lundahl, B. & Arkowitz, H. (Eds.) (2025). Motivational Interviewing in the Treatment of Psychological Problems (3rd ed.). Guilford Press — publisher page](https://www.guilford.com/books/Motivational-Interviewing-in-the-Treatment-of-Psychological-Problems/Burke-Lundahl-Arkowitz/9781462556199)
 - [Collard, M. — "If You Meet Resistance, Stop Pushing", playmeo](https://www.playmeo.com/if-you-meet-resistance-stop-pushing/)
