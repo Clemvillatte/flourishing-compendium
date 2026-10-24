@@ -2,7 +2,7 @@
 
 > What does being mortal do to the meaning of a life?
 
-Every tradition in this map starts from the same observation: a life is finite, and most lives are lived as though it were not. What differs is the direction each takes from there. The classical practices treat the remembrance of death as a clarifier of conduct; the existential analyses treat death as the horizon that gives choices their weight; the research programmes test whether confronting mortality moves people toward defense or toward gratitude and intrinsic values. The boundary with Fear is drawn once and held: Fear holds the affective response to dying, the fear itself and its clinical study; this dossier holds death as the shaper of meaning, gratitude and choice.
+The traditions in this map start from the same observation: a life is finite, and much of living proceeds as though it were not. What differs is the direction each takes from there. The classical practices treat the remembrance of death as a clarifier of conduct; the existential analyses treat death as the horizon that gives choices their weight; the research programmes test whether confronting mortality moves people toward defense or toward gratitude and intrinsic values. The boundary with Fear is drawn once and held: Fear holds the affective response to dying, the fear itself and its clinical study; this dossier holds death as the shaper of meaning, gratitude and choice.
 
 ## Nearby terms
 
@@ -15,7 +15,7 @@ Every tradition in this map starts from the same observation: a life is finite, 
 
 ### Death as the clarifier of choice
 
-1. [Being-toward-death](https://clemvillatte.github.io/flourishing-compendium/#card=Being-toward-death): Heidegger's Sein-zum-Tode, death as the one possibility that is mine alone and cannot be outstripped; anticipation rather than brooding, and flight into the conformist everyday as the alternative. The definition, via the encyclopedia reading:
+1. [Being-toward-death](https://clemvillatte.github.io/flourishing-compendium/#card=Being-toward-death): Heidegger's Sein-zum-Tode, death as the one possibility that is mine alone and cannot be outstripped; anticipation rather than brooding, and flight into the conformist everyday as the alternative. Heidegger's definition, as the encyclopedia entry renders it:
 
 > "Death proper befalls not us *qua* persons, but us *qua* Dasein. In distinguishing death from demise, Heidegger defines death as 'the possibility of the absolute impossibility of Dasein' (SZ 250)." ([Wrathall, Heidegger, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/)): Primary text; the passage was checked against the encyclopedia entry this session.
 
@@ -29,7 +29,7 @@ Every tradition in this map starts from the same observation: a life is finite, 
 
 ### The research programmes
 
-6. [Mortality salience](https://clemvillatte.github.io/flourishing-compendium/#card=Mortality%20salience): the terror-management paradigm; reminders of death were found to increase worldview and self-esteem defense across 164 articles and 277 experiments, moderate effects at r = .35. The card also carries the field's own trouble, the 2022 seventeen-lab replication attempt:
+6. [Mortality salience](https://clemvillatte.github.io/flourishing-compendium/#card=Mortality%20salience): the terror-management paradigm; reminders of death were found to increase worldview and self-esteem defense across 164 articles and 277 experiments, moderate effects at r = .35 ([Burke, Martens and Faucher 2010 meta-analysis record](https://pubmed.ncbi.nlm.nih.gov/20097885/)): the scope and effect size were checked against the published record this session. The card also carries the field's own trouble, the 2022 seventeen-lab replication attempt on the paradigm's central effect:
 
 > "Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not fully understood or no longer exist." ([Klein et al., Many Labs 4, Collabra: Psychology 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience)): Primary text; quoted from the article's abstract, checked this session.
 
@@ -37,7 +37,7 @@ Every tradition in this map starts from the same observation: a life is finite, 
 
 > "In conclusion, this study found that when one confronts their own death in a specific and vivid manner, their feelings of gratitude tend to increase." ([Frias et al. 2011, Death and Gratitude](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)): Primary text; quoted from the study's own conclusion, checked this session.
 
-8. [Death acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20acceptance): Wong's DAP-R dimensions; fear of death and death avoidance on one side, and three acceptance types on the other, neutral acceptance of death as natural process, approach acceptance, and escape acceptance, each acceptable for a different reason.
+8. [Death acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20acceptance): Wong's DAP-R dimensions; fear of death and death avoidance on one side, and three acceptance types on the other, each making death acceptable for a different reason, its status as biology, a belief about what follows it, or relief from suffering.
 
 ### The contemplative practices
 
@@ -57,7 +57,7 @@ Every tradition in this map starts from the same observation: a life is finite, 
 
 15. [D090 — Accept death as transformation](https://clemvillatte.github.io/flourishing-compendium/#card=D090%20%E2%80%94%20Accept%20death%20as%20transformation): the Zhuangzi's True men of old, no love of life or hatred of death, the exit awakening no resistance.
 
-### The dissent
+### The counter-practice
 
 16. [SP068 — Think least of death; wisdom meditates on life](https://clemvillatte.github.io/flourishing-compendium/#card=SP068%20%E2%80%94%20Think%20least%20of%20death%3B%20wisdom%20meditates%20on%20life): Spinoza's counter-practice to the whole remembrance family, and it deserves its place at the edge of the map:
 
@@ -65,15 +65,15 @@ Every tradition in this map starts from the same observation: a life is finite, 
 
 ## Related questions and parallels
 
-Does contemplating death help or harm? The two research programmes answer differently, and the map holds both. The terror-management tradition found defensive effects; the death-reflection studies found gratitude and intrinsic shifts. The distinction the cards themselves draw is between the abstract reminder and the specific, vivid confrontation, and the Frias conclusion above is the second programme's own summary.
+Does contemplating death help or harm? The two research programmes answer differently, and the map holds both. The terror-management tradition reported defensive effects across its meta-analysis; the death-reflection studies found gratitude and intrinsic shifts under their own conditions of study. The distinction the cards themselves draw is between the abstract reminder and the specific, vivid confrontation, and the Frias conclusion above is the second programme's own summary of what it found.
 
-Why keep Spinoza at the edge? Because the map's honest shape includes a tradition that refuses the premise: if wisdom is a meditation on life, the remembrance practices can look like an error of emphasis. The cards do not resolve the disagreement, and the dossier does not pretend they do; the practice section below keeps both directions live.
+Why keep Spinoza at the edge? Because the map's honest shape includes a tradition that runs the emphasis the other way: wisdom as meditation on life rather than death, from which the remembrance practices can look like an error of emphasis. The cards do not resolve the disagreement, and the dossier does not pretend they do; the practice section below keeps both directions live.
 
 Where does the fear end? At the boundary drawn in the opening: the Epicurean argument, the clinical study of death anxiety and Ivan Ilyich's dying belong to Fear; what death does to meaning, gratitude and choice belongs here. The two dossiers share cards and cite each other's territory rather than duplicating it.
 
 ## Practice: variation, selection, retention
 
-::Variation:: What tends to need varying on this theme is the lived-as-immortal default; the practices meet it with deliberate, bounded confrontation rather than brooding, the direction every entry above shares.
+::Variation:: What tends to need varying on this theme is the lived-as-immortal default; the practices meet it with deliberate, bounded confrontation rather than brooding, the direction the remembrance family above shares.
 
 ::Selection:: The practices I have selected as sources of that variation:
 
@@ -83,8 +83,8 @@ Where does the fear end? At the boundary drawn in the opening: the Epicurean arg
 
 3. [K316 — Mortality-to-action translation](https://clemvillatte.github.io/flourishing-compendium/#card=K316%20%E2%80%94%20Mortality-to-action%20translation): five minutes of writing, then one insight translated into one action this week with a day and time attached.
 
-::Retention:: Retention is what people keep because it works for them. The cards state plainly that the evidence supports the direction of these practices, not the exercises themselves: the studies measured attitudes, discounting and gratitude, not writing prompts. A reader who keeps one monthly reflection or one deathbed question has what the theme offered; the Spinozist who keeps none and meditates on life instead is inside the map too.
+::Retention:: Retention is what people keep because it works for them. The cards state plainly that the evidence supports the direction of these practices rather than the exercises as scheduled here: the studies measured attitudes, discounting and gratitude, and the specific exercises, their wording and their schedules are the kernels' editorial adaptations of that evidence. A reader who keeps one monthly reflection or one deathbed question has what the theme offered; the Spinozist who keeps none and meditates on life instead is inside the map too.
 
 ## Story: the stories that carry the theme
 
-[ST272 — Being-toward-Death](https://clemvillatte.github.io/flourishing-compendium/#card=ST272%20%E2%80%94%20Being-toward-Death): the analysis that sources every later existential treatment of mortality, Frankl's and Yalom's included; death as the ownmost possibility that pulls a life's other possibilities into focus.
+[ST272 — Being-toward-Death](https://clemvillatte.github.io/flourishing-compendium/#card=ST272%20%E2%80%94%20Being-toward-Death): the famous and infamous section of Being and Time, death itself not an event at the end of a life but the ownmost possibility that cannot be outstripped, pulling the rest of a life's possibilities into focus.

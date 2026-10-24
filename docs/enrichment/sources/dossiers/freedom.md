@@ -66,13 +66,38 @@ Kernel: K315.
 - Kierkegaard's dizziness passage: left to Anxiety's map, not quoted here.
 
 ## Pass 1 self-review (HUMANIZER-SKILL.md)
-
 - No meta-text openers; loglines describe events; no manufactured
   disagreement (the situated-freedom critique is the card's own correction,
   presented as such); the Kierkegaardian exclusion is stated as a boundary,
   not as a verdict on the material; no verification-status labels in the
   body (all verification language lives here); the practice evidence limits
   are carried from the K315 card's own statements.
+
+## Pass 2 (advisor QC, 2026-10-24) — revisions applied
+
+1. Opener "the one ideal" qualified to "On the accounts gathered here."
+2. Reactance gloss regrounded in the card's own content (boomerang effect,
+   sideways restorations); the unsupported "eliminated options become more
+   attractive" and "felt before understood" wording removed. The
+   felt-first-understood-later line belongs to the Escape from freedom card
+   and was moved there, attributed as the card's reading.
+3. "Chirac's example at the tightrope" REMOVED: no such detail exists in the
+   Anguish card or anywhere in content/ (grep-verified); replaced with the
+   card's own cliff-edge vertigo (fear not of falling but of throwing
+   oneself over). This was an unsupported specific caught in QC.
+4. Waiter entry: the "usually" diagnostic explicitly attributed to the card.
+5. Rousseau ch. 8 quote: opening word bracketed ([T]he) per the Gutenberg
+   full sentence, which begins "for the mere impulse of appetite...".
+6. The freedom-from/freedom-to comparison marked as this dossier's editorial
+   move; Berlin's distinction left to Agency.
+7. Fromm's "four defenses" KEPT: grounded in the Escape from freedom card,
+   which enumerates the four escape mechanisms (authoritarianism,
+   destructiveness, automaton conformity, intellectualization).
+
+NOT ADOPTED from the QC: stripping the "Primary text; ... checked this
+session" attribution notes from quote carriers — that note format is the
+published convention of this corpus (gratitude.md, fear.md, acceptance.md
+carry it); kept as is.
 
 ## Open points for the supervisor
 

@@ -22,12 +22,13 @@ Acceptance per the proposal's ranking table).
   management card; the Mortality salience card (with the 2022 replication
   trouble) was unmapped per the proposal's exact-target audit.
 
-## Card bodies read in full this session (glosses paraphrase them)
+## Card bodies read this session (the sections carrying the mapped claims)
 
 Concepts: Being-toward-death, Death reflection, Death acceptance, Mortality
 salience, Finitude, Death anxiety research (boundary check only, not mapped).
 Principles: B055, B193, E043, E054, M037, P106, S089, S104, D090, SP068.
-Kernels: K222, K226, K316. Story: ST272.
+Kernels: K222, K226, K316. Story: ST272. Death acceptance's DAP-R wording
+was re-read during pass 2 to ground the three-acceptance gloss.
 
 ## External carriers verified word-for-word this session
 
@@ -60,17 +61,52 @@ Kernels: K222, K226, K316. Story: ST272.
   The card cites Maffie's IEP "Aztec Philosophy" article; not re-opened.
 - B055's AN 5.57 carrier and S104's Gutenberg Long translation: glossed, not
   quoted, to keep every quoted line in the dossier verified this session.
-- Burke et al. 2010 meta-analysis figures (r = .35, 164 articles): reported in
-  the Mortality salience gloss as the card's own record, not as a fresh quote.
+5. Burke, Martens and Faucher 2010 meta-analysis —
+   https://pubmed.ncbi.nlm.nih.gov/20097885/ — "Overall, 164 articles with 277
+   experiments were included." and "MS yielded moderate effects (r = .35)"
+   confirmed verbatim from the PubMed record during pass 2; the numbers in
+   the Mortality salience gloss now carry this carrier link.
+
+## Pass 2 (advisor QC, 2026-10-24) — revisions applied
+
+1. "Every tradition" → "The traditions"; "most lives are lived" → "much of
+   living proceeds" (universals removed).
+2. SEP attribution made explicit: the block quotes Wrathall's encyclopedia
+   sentence, whose inner quotation is Heidegger's; the lead-in now says "as
+   the encyclopedia entry renders it."
+3. Many Labs 4 narrowed to "the paradigm's central effect"; research
+   conclusions narrowed to "under their own conditions of study"; the
+   Burke figures verified against PubMed and the carrier link added.
+4. "The dissent" renamed "The counter-practice"; "refuses the premise"
+   removed; Spinoza presented as running the emphasis the other way, not
+   as rejecting the remembrance family; the card's own phrase
+   ("counter-practice to the whole remembrance family") is the grounding.
+5. DAP-R gloss regrounded: the three acceptance types differ in what makes
+   death acceptable (biology, what follows, relief from suffering), per the
+   card's own wording; "each acceptable" removed.
+6. Practice evidence-limits reworded: the specific exercises, wording and
+   schedules are the kernels' editorial adaptations; the studies measured
+   attitudes, discounting and gratitude.
+7. ST272 story logline rewritten without the intellectual-lineage claim
+   ("sources every later existential treatment") — the card's own famous-
+   and-infamous framing is used instead.
+8. "The direction every entry above shares" → "the direction the remembrance
+   family above shares" (SP068 is in the map and does not share it).
+
+NOT ADOPTED from the QC: the advice to strip the "Primary text; ... checked
+this session" attribution notes from quote carriers. That note format is the
+published convention of this corpus (gratitude.md, fear.md, acceptance.md all
+carry it after their quotes, and the automated checker requires external
+carriers on quotes); the notes were kept in the same one-line form.
 
 ## Pass 1 self-review (HUMANIZER-SKILL.md)
 
 - No meta-text openers; no "the card quotes" phrasing; loglines describe
-  events; the Spinoza dissent is presented as a live disagreement the cards
-  record, not manufactured; the practice section is labeled editorial in
-  substance (the cards' own evidence-limits statements are carried into the
-  Retention paragraph); no verification-status labels in the dossier body
-  (all verification language lives in this ledger).
+  events; the Spinoza counter-practice is presented as a live disagreement
+  the cards record, not manufactured; the practice section is labeled
+  editorial in substance (the cards' own evidence-limits statements are
+  carried into the Retention paragraph); no verification-status labels in
+  the dossier body (all verification language lives in this ledger).
 - Practice evidence limits are carried from the kernel cards themselves
   (K222: cross-sectional survey, not the exercise; K226: monetary outcomes,
   deathbed framing editorial; K316: discounting of monetary rewards).
