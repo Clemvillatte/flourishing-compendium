@@ -803,7 +803,27 @@
      "note": "duplicate of ST368 (Zhuangzi 19.4 ferryman/archer); parked as lane candidate for supervisor: backlink D096 to ST368 or register as D096 angle"
     }
    ]
+  },
+  "s1b-037": {
+   "status": "ready",
+   "angle": "D029 overflow: Confucius and the tilting temple vessel (Shuoyuan Jing Shen via ctext), quotes verified verbatim",
+   "history": [
+    {
+     "t": "2026-10-24T14:50:02+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:50:02+00:00",
+     "to": "qc_pending",
+     "note": "first draft; advisor QC round pending"
+    },
+    {
+     "t": "2026-10-24T14:51:50+00:00",
+     "to": "ready",
+     "note": "advisor repairs applied: English labeled editorial with Chinese verified verbatim, narrated-demonstration framing, unverified chapter number removed, Yijing facet dropped"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:47:08+00:00"
+ "updated": "2026-10-24T14:51:50+00:00"
 }
