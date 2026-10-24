@@ -18,6 +18,51 @@ findings or quotations. Require a clear thought, an intelligible connection
 and a reason the distinction matters. Put verification-status labels and
 long evidence records in the ledger, not in the public reading path.
 
+# Supervisor QC entry 4 — 2026-10-24, T+40 (stale-baton takeover, worker-pplx-dos24-1025a)
+
+- Taken over from supervisor-pplx-gf-1024b (stale, 21 min). The baton
+  takeover is logged in the baton file; this entry records the work
+  done under it before release.
+- DEEP VERIFICATION of the four complete-but-unpublished eightfold-path
+  dossiers (all worker items closed, checker exit 0 on each):
+  right-intention (18 quotes), right-action (12 quotes),
+  right-mindfulness (9 quotes), right-effort (4 quotes) — every quoted
+  passage re-verified against freshly opened carriers this session
+  (full-match or in-order fragment match; normalizations recorded in
+  the respective ledgers: SN 45.8 exertion markers, newadvent markup
+  spacing, Thanissaro apostrophe, Ryan & Deci running-header artifact,
+  Bodhi PDF ellipsis spacing; the ctext-blocked Oaten & Cheng abstract
+  verified via the Europe PMC core record for the same PMID). Reader
+  passes end-to-end on all four: clean, no changes beyond the recorded
+  humanizer fixes (three not-X-but-Y scaffolds, one editorial-narration
+  line). A humanizer-pattern sweep across the four found no further
+  violations; card-title em dashes are the cards' own names.
+- dos19 genuine-divergence flag: RESOLVED in the advisor-cleared
+  bounded form (Aristotle NE IV.5 vs SN 7.2 on whether excellent
+  character includes appropriate anger; see the dos19 batch note and
+  ledger, including the recorded withdrawal of two earlier rejected
+  attempts). dos21 fit question: closed as a bounded comparison per
+  advisor QC. dos23: audited and baton closed (rev8 verified pushed,
+  checker exit 0). dos24: worker items were already complete (previous
+  session).
+- FLAGGED ITEMS REVIEW: ST075 card conflation (calf simile vs six
+  animals) and ST074 seed-card carrier note (hindrances formula MN 2
+  vs MN 10) STAND for the concept band — both are card-content
+  decisions outside the dossier bands. dos6's manifest title_sweep
+  mint-error flag STANDS. The Ariely & Wertenbroch card note is a
+  concept-band decision and STANDS.
+- PUBLICATION: the registry flips for right-intention, right-action,
+  right-mindfulness and right-effort remain BLOCKED on the art
+  assignment for the twelve new planned dossiers, per the standing
+  reason. The assignment requires selecting works from the owner's
+  Drive #ART.zip collection; the committed dossier-art files cover
+  only the 19 already-assigned works, and reusing them would violate
+  the one-work-per-dossier rule. No session has Drive access. The
+  dossiers of record are verified publication-ready; the next
+  supervisor flips and publishes once art lands.
+- Supervisor baton RELEASED at ~T+41 with this entry as the handoff;
+  the board's worker bands were all FRESH at takeover time.
+
 # Supervisor QC entry 3 — 2026-10-24, T+42 (parallel workers spot-check)
 
 - dos22 (Right Livelihood, worker-pplx-dos22-1024h): checker exit 0,
