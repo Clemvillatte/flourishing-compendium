@@ -1,6 +1,6 @@
 # Affect: the domain of feeling, and what can be done with it
 
-> When the feelings are already here — what are they made of, how are they mapped, and how much of them can be worked with?
+> What is an emotion made of, and what is it telling the person who feels it?
 
 This page groups the compendium's entries on feelings, moods and emotion: their structure, their change over time, their regulation, and their transmission between people. It runs from the classic questions — does the body run ahead of the feeling (James-Lange), are emotions universal packages (Ekman) or built from dimensions and interpretation (Russell, Barrett) — to the practical programmes that treat feeling as something regulable, differentiable and shared. The Attention and Cognition dossiers cover what awareness selects and what thinking does; this one covers the material both of them work on.
 
