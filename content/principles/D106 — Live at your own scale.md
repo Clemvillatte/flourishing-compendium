@@ -12,19 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 106** — Live at your own scale
 
-Chapter 1 describes the Peng's enormous journey and small birds laughing at it. The quail calls its short flight among the brushwood perfect. After its speech, the narrator contrasts the small and the great. (Zhuangzi 1.)
+[Zhuangzi's opening chapter](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) sets the Peng's enormous journey beside the flights of small birds. Great wings require a great accumulation of wind; the marsh quail, meanwhile, laughs at a journey beyond its experience:
 
 > "I spring up with a bound, and come down again when I have reached but a few fathoms, and then fly about among the brushwood and bushes; and this is the perfection of flying. Where is that creature going to?" (Zhuangzi 1, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The compendium uses the difference in scale as a prompt to examine the conditions an ambition requires.
+The [narrator then compares](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) self-satisfied office-holders and rulers to the quail. Its claim to have perfected flying is a character's boast, not a simple endorsement of staying small. The compendium takes the story as an invitation to examine both the conditions an ambition needs and the limits of one's perspective.
 
 **Plain words**
-When someone else's achievement makes you want to copy their plan, first check what the plan needs. How much time and money would it take? What existing commitments would you need to rearrange? Decide what you can take on now.
+Someone else's undertaking can look effortless when you cannot see what supports it. Your own familiar routine can also make an unfamiliar life look foolish. Living at your scale means taking your circumstances seriously while admitting they do not define the limits of what anyone could do. A smaller attempt may suit this year; it need not become a verdict on your whole life.
 
-*For example:* Imagine considering a friend's plan to start a business. You calculate the time available after your paid work and caring responsibilities before deciding what you could attempt.
+For example: You compare launching a business with taking one commission alongside paid work and caring responsibilities. The smaller trial reveals how much time the work actually takes. Keep that evidence when deciding whether to repeat it, expand or stop; do not turn the first decision into a permanent identity.
 
 ## Related concepts
-- [[T009 — Zhuangzi]]: the Peng and the quail (chapter 1), the page's scaled beings for living at your own size.
+- [[T009 — Zhuangzi]]: the Peng and the quail offer contrasting perspectives on what a flight requires and what counts as its perfection.
 
 - [[D079]] — Both principles work from Zhuangzi's opening scene of small birds laughing at the Peng's flight: D079 takes the small judging the large, and D106 takes the scale difference the narrator points out.
 

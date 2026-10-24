@@ -165,3 +165,14 @@ Advisor `p1s_silence_breathing_aims_milestone_qc_mvlyf10r`: scoped PASS B172/B19
 - Condensed the previously long paraphrase, supplied direct citations, and restored the discourse's full liberation/rebirth context without claiming an ordinary feedback exercise reaches it.
 - Kept the already fresh Plain words. Replaced the incomplete recital illustration with alternative responses to mixed feedback, selecting an actionable question and retaining it in future presentations. No promised emotion regulation or clinical outcome.
 - Inherited Desbordes/Gross and Aristotle/Epictetus parallels and reflections are not certified.
+
+## D106: scale without making the quail the author's ideal
+
+- Opened unprompted: [METIS Legge Zhuangzi PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf), chapter 1 sections 1-4. Wind accumulation, the quail's quote and the following comparison of office-holders/rulers to the quail were read in context. Quote is verbatim, including “Where is that creature going to?”
+- Replaced procedural Plain words with a discussion of invisible supporting conditions and limits of perspective. Explicitly avoids treating the quail's boast as Zhuangzi's endorsement or “know your place” as the story's settled moral.
+- Business alternatives, a limited commission and time feedback supply variation/selection/retention without claiming any business success.
+- Existing links protected. T009 gloss made reader-facing. Inherited modern parallels and reflections not certified.
+
+## Advisor availability
+
+Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because its execution credit allocation was exhausted. No review verdict was received for P176/P168/B096; no independent PASS claimed. Own source checks and validators remain recorded above. Earlier scoped advisor clearances are unaffected.
