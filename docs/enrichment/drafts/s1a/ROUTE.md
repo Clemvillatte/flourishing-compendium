@@ -199,3 +199,7 @@
 
 ## Updated zero-story pool for the supervisor (2026-10-24, s1a lane, post-session)
 After this session's 23 drafts (s1a-040 through s1a-062), the regenerated zero-story list for the priority traditions, next tier by inbound degree: P115 (15, welcome peak experiences), P066 (15, rest in pure experience), D015 (15, treat opposites as co-creating), P163 (14, creative hopelessness), P121 (14, enrich experience), D096 (14, outer vs inner), B179 (14, the path is the goal), B025 (14, right livelihood), P174 (13), P172 (13). The STORIES-TASKBOARD pool noted earlier remains stale for this purpose; this list was computed from the live graph today.
+
+## Note for supervisor (2026-10-24, teller s1a, verification pass)
+- Possible anecdote overlap: the supervisor's registration ST433 (The Squirrel at the Camp, from s1b-030, target P020) and my s1a-051 (The Squirrel, target P012) both use James's camping-party squirrel anecdote from Pragmatism Lecture II. The two drafts target different principles (P020 vs P012) and read the anecdote differently, but the owner may prefer one registration per anecdote. If a single registration is preferred, s1a-051 can be re-aimed at another P012 carrier (James's "The One and the Many" or "The Will to Believe" essays are candidates) at the next session.
+- All s1a drafts s1a-040 through s1a-062 are story_check clean, state ready, and every blockquote was re-verified verbatim against a freshly opened source during the verification pass (raw texts, fresh fetches, or the ETH PDF; extraction artifacts documented in QC notes).
