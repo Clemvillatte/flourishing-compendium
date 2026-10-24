@@ -20,6 +20,14 @@ adding Ahimsa, Metta and the sibling path factors; K215 and K338 added to
 the relation group; the sayings-card Right listening is held under
 content/sayings and linked as such.
 
+Revision 4: the reader-facing "Primary text; quoted passages checked"
+notes removed from all blockquotes (workflow language, kept in this
+ledger); trailing periods restored. The ST225 logline repaired to the
+card's own account (the earlier "most eloquent answer in the room"
+phrasing was not in the card). ST290, ST359, ST066, ST131, ST387 and
+ST313 (right-livelihood) loglines re-verified against their cards in
+a final audit; all matched. Checker exit 0 after each change.
+
 ## Quotes and carriers, all opened this session (raw text)
 
 1. Four abstentions, SN 45.8 (Thanissaro, Access to Insight):
