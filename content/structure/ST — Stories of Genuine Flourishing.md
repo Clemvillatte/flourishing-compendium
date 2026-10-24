@@ -85,6 +85,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST415 — The Blind Men and the Elephant]]
     - [[ST416 — A Banquet the Seabird Could Not Survive]]
     - [[ST437 — The Gulls That Would Not Land]]
+    - [[ST489 — 36. The Slowest Vessel]]
   - [[ST-S01.06 — I.6 Relationships, Speech, and Leadership]]
     - [[ST038 — Three Friends and the Creator]]
     - [[ST039 — The Ruler Whose People Say We Did It]]
