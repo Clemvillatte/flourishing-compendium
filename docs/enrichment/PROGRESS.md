@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-24 11:27 UTC (input revision `9aca67668`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 12:27 UTC.
+As of 2026-10-24 14:43 UTC (input revision `42356d1b4`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 15:43 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -8,23 +8,23 @@ As of 2026-10-24 11:27 UTC (input revision `9aca67668`). Scope: principles and c
 
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
-| Principles | 2182 | 0 | 2182 | 100.0% |
+| Principles | 2181 | 1 | 2182 | 100.0% |
 | Concepts | 2258 | 4 | 2262 | 99.8% |
-| **Combined** | **4440** | **4** | **4444** | **99.9%** |
+| **Combined** | **4439** | **5** | **4444** | **99.9%** |
 
 ## Stories (separate pipeline)
 
-Published story pages (content/stories/ST*.md): 436. The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
+Published story pages (content/stories/ST*.md): 465. The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
 
 | Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
-| s1a | 0 | 16 | 20 | 3 |
-| s1b | 0 | 23 | 0 | 3 |
+| s1a | 0 | 39 | 20 | 3 |
+| s1b | 0 | 30 | 0 | 4 |
 | s1c | 0 | 38 | 1 | 0 |
 | s1d | 3 | 7 | 0 | 0 |
 | s1e | 2 | 0 | 6 | 0 |
 | s1f | 0 | 10 | 0 | 0 |
-| **All lanes** | **5** | **94** | **27** | **6** |
+| **All lanes** | **5** | **124** | **27** | **7** |
 
 ## Kernels and thinkers (enrichment programs)
 
@@ -43,6 +43,7 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 | Forest | Recorded done | Total | Done % |
 |---|---|---|---|
+| E — Existentialism and Phenomenology | 112 | 113 | 99.1% |
 | B — Buddhist Principles | 198 | 198 | 100.0% |
 | P — Pragmatist and Process Principles | 196 | 196 | 100.0% |
 | D — Daoist Principles | 192 | 192 | 100.0% |
@@ -50,7 +51,6 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 | Y — Yoga-Vedanta Principles | 132 | 132 | 100.0% |
 | R — Relational Philosophies | 130 | 130 | 100.0% |
 | A — Aristotelian Virtue Ethics and Practical Wisdom | 122 | 122 | 100.0% |
-| E — Existentialism and Phenomenology | 113 | 113 | 100.0% |
 | SP — Spinozism Principles | 96 | 96 | 100.0% |
 | AF — Affect | 84 | 84 | 100.0% |
 | CO — Cognition | 83 | 83 | 100.0% |

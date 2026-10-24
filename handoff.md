@@ -2493,3 +2493,31 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   SUPERVISOR REVIEW — decide whether right-view flips published with the
   contrasts presented as candidates only, or holds until a divergence is
   grounded. Other 15 unpublished dossiers not re-sampled this pass.
+
+## Supervisor pass — supervisor-pplx-1024j, 2026-10-24 ~14:32-14:44 UTC (session 4d94f331)
+
+- Baton: predecessor supervisor-pplx-gf-1024b dead (per launch record); took supervisor baton
+  lawfully at staleness 14:41:55. Heartbeats to follow.
+- DOSSIER FLIPS (supervisor-only): agency, behaviour, body, others flipped planned→published
+  after full review (registry commit d2cbd759). Review record in
+  docs/enrichment/QC-dossier-flips-1024j.md: checker OK x4, voice audit run correctly and
+  candidates human-reviewed, 8+2 quotes verified verbatim against freshly opened carriers
+  (Epictetus MIT, Bandura 1977, Rotter 1966 — closing the dos15 flag, Wood-Neal ERIC, NE II.1
+  Chase, SEP Husserl, Beckes-Coan, Metta Sutta; s1b drafts: Beal Hiuen-Tsiang, James
+  Pragmatism, Terebess Nanyue, Linji ruyimeditation). Humanizer fixes applied first (1b1fe53d):
+  banned not-X-but-Y scaffolds restated affirmatively in the three dossiers. Registry rebuilt:
+  19 published, 12 roadmap. The 12 art-blocked planned dossiers stay planned (owner's art
+  assignment pending — flips would crash the build).
+- STORY REGISTRATIONS (supervisor-only): ST433 The Squirrel at the Camp (s1b-030, ST-S03.02,
+  P020), ST463 Polishing a Brick Into a Mirror (s1b-031, ST-S02.05, B044), ST464 Linji Slaps
+  Huangbo (s1b-032, ST-S02.06, B161), ST465 Xuanzang Loses His Water (s1b-029, ST-S02.06,
+  B122; draft front-matter qc_pending→ready corrected to match lane state and teller commit —
+  leftover bookkeeping, quotes independently verified). All four: story_check clean, build run,
+  pushed.
+- Delta review: workers active on s1a/s1b (verification passes on quotes), dos15/16/17/27
+  dossier ledger quote-fidelity passes reviewed; CREATIVE-PROMPT-GENERATION doc added by a
+  worker (WIP commit 36e8e1627) — skimmed, no conflict.
+- enrich_apply preflight still blocked on t1a/t1d/t1f thinker_links-schema proposals (known
+  guard, multi-session backlinks work) — not attempted this pass.
+- Next: s1a ROUTE scope-approval registrations (s1a-058..062 and the 35 ready s1a drafts),
+  Agency card mint (dos15 flag), baton heartbeats every ~15 min.
