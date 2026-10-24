@@ -307,6 +307,6 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 ### The moral face of attention
 
-[ST023 — Simone Weil on Attention](https://clemvillatte.github.io/flourishing-compendium/#card=ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil, working through war and illness, writes that attention is the rarest and purest form of generosity; her essay on school studies argues the attention given a lesson is the attention given a person.
+[ST023 — Simone Weil on Attention](https://clemvillatte.github.io/flourishing-compendium/#card=ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil, working through war and illness, writes that attention is the rarest and purest form of generosity; every time we really attend to something, she argues, we are exercising the same faculty that prayer and friendship require.
 
 [ST432 — Jim Forest Washes the Dishes](https://clemvillatte.github.io/flourishing-compendium/#card=ST432%20%E2%80%94%20Jim%20Forest%20Washes%20the%20Dishes): one evening Forest offers to wash the dishes, and Nhat Hanh answers: there are two ways to wash the dishes — the first to have clean dishes, the second to wash the dishes in order to wash the dishes.
