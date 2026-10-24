@@ -46,8 +46,9 @@ the supervisor's publication decision.
    responsive interaction partner (Algoe, Haidt, & Gable, 2008)" was
    read from the page. The raw HTML returned by curl did not contain
    the abstract; the passage is therefore verified by page-read, not
-   raw-HTML comparison; noted for the supervisor. Quoted in the
-   related-questions section.
+   raw-HTML comparison. The Wiley pages were observed to return raw
+   HTML without the abstract; no claim is made about why. Noted for
+   the supervisor. Quoted in the related-questions section.
 
 3. Algoe, Gable and Maisel, "It's the little things: Everyday
    gratitude as a booster shot for relationship and personal
@@ -84,11 +85,12 @@ the supervisor's publication decision.
    be a good man." Supports the anchor card's classical framing; not
    quoted in the dossier body.
 
-6. Sutta Nipata / Samyutta 7.2, Akkosaka Sutta (Thanissaro, Access to
+6. Samyutta Nikaya 7.2, Akkosaka Sutta (Thanissaro, Access to
    Insight): https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html
    Verified against the raw HTML fetched with curl this session:
    "It's all yours, brahman. It's all yours." Quoted in the Story
-   section's Gift Nobody Accepted logline.
+   section's Gift Nobody Accepted logline (corrected from an earlier
+   note that called it supporting-not-quoted).
 
 The dossier body quotes three external carriers (Emmons PDF,
 Algoe 2012, Algoe et al. 2010); the Seneca, Aristotle and SN 7.2
@@ -123,14 +125,51 @@ received, its attention, expression, reciprocity or indebtedness, or
 a clearly labelled neighbouring practice), rather than mere mention.
 Inclusions and exclusions with reasons, recorded for the supervisor:
 
+Full-review record (advisor QC round 2): the 178 files were
+inspected in two batches, each filename with its first
+gratitude-matching fragment read; the decisions below name the
+categories with representative cards.
+
 - The positive-affect family that mentions gratitude in passing
   (Broaden-and-build, Positive activity interventions,
   Fredrickson's positivity portfolios, Person-activity fit, Joy,
-  Prosocial spending, Connectedness in well-being research, and kin):
-  these cards use gratitude as one instance of a wider mechanism
-  (positive affect, intervention fit, spending, connection) whose
-  home card states the mechanism; excluded by the relevance rule
-  rather than absorbed into this map.
+  Delight in the ordinary, Prosocial spending, Connectedness in
+  well-being research, VIA strengths, PP041 transcendence, Moral
+  emotions, Awe/self-diminishing wonder): these cards use gratitude
+  as one instance of a wider mechanism whose home card states the
+  mechanism; excluded by the relevance rule rather than absorbed
+  into this map.
+- Attention and review cards that list gratitude among their
+  parallels (AF062, AF008, AT007, S065, S119, S120, S116, P179,
+  Y036, MO059, PP060, S091, K110-related): same boundary; the map
+  carries AF063, PP013 and AT021 as the attention-theory lines.
+- The death-reflection family (B055, SP068, B193, M037, K222, K226,
+  Death reflection, Frias mortality studies): gratitude appears as an
+  outcome of mortality contemplation; the mechanism is mortality, and
+  the map's finitude line is E054; excluded.
+- The contentment-desire family (K155, K278, K279, S006, S007, A005,
+  A006, B111, Sufficiency testing kin): excluded; the map's
+  contentment group carries the concept cards.
+- Gratitude-mechanism cards added to the map after the review:
+  SP070 (gratitude among free people), A070 (the asymmetry of
+  benefaction), K034 (the lojong slogan), PP063 (the dose finding),
+  and the Thanksgiving-as-sacrifice saying.
+- Gratitude-mechanism cards reviewed and excluded with reasons:
+  S126 (exemplary-lives mechanism; the Marcus list is carried by
+  S084), K210 (kernel of the already-mapped concept card), K251 and
+  K250 (strengths and rehearsal mechanisms), K252 (exemplar
+  modelling), K289 (amends mechanism), K120 (emotion-duration
+  mechanism), K412 (Daoist organ-smile practice), B169 (eating
+  practice), SP071 (favor-politics), M003 (pairing mechanism),
+  SO069 (bereavement), P153, P115, S086, B026, ST122 Augustine
+  (memory mechanism), the raft story (letting-go mechanism; the
+  gratitude line is one sentence), the Work That Reconnects family
+  R123 and kin (ecological-mindfulness mechanism; gratitude is stage
+  one of the spiral), the Mencius child-well card (the gratitude of
+  parents is named as a non-motive), the Boethius and Job cards
+  (consolation and theodicy), Contentment in station (settledness),
+  Psalm-adjacent sayings other than the one mapped, and the
+  structure pages (not cards).
 - Death reflection and Cozzolino's mortality work: the gratitude
   link is via finitude, represented here by E054; the research
   construct belongs to its own card.
