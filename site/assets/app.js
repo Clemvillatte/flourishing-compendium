@@ -6771,7 +6771,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Lines without a quoted passage rest on the linked entry's own text and are not re-assessed here; the quoted passages below certify only themselves, never the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
         },
         {
           "t": "h2",
@@ -6811,6 +6811,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
+          "x": "The comprehension pillar in Steger's own words:"
+        },
+        {
+          "t": "q",
+          "x": "\"Comprehension encompasses people's ability to find patterns, consistency, and significance in the many events and experiences in their lives, and their synthesis and distillation of the most salient, important, and motivating factors.\" ([Steger, Meaning in Life, The Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120?redirectedFrom=fulltext)) — Scholarly interpretation; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Mattering](card:Mattering) and [Existential mattering](card:Existential%20mattering): the sense that one's existence makes a difference, often treated as a domain distinct from purpose and coherence in the meaning-in-life literature; George and Park describe it as an entity's sense of having value to the world."
+        },
+        {
+          "t": "p",
           "x": "[The will to meaning](card:The%20will%20to%20meaning): Frankl's term for the primary motivational force, set against the pleasure principle of Freud and the striving for superiority of Adler."
         },
         {
@@ -6827,11 +6840,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
+          "x": "[Noogenic neurosis](card:Noogenic%20neurosis): Frankl's term for distress that starts in the moral and existential spheres: guilt, grief, despair, demoralisation, and boredom without purpose."
+        },
+        {
+          "t": "p",
+          "x": "[Attitudinal values](card:Attitudinal%20values): Frankl's name for the stance taken toward unavoidable suffering, the third way meaning is found; the other two, creative values and experiential values, run through work and love."
+        },
+        {
+          "t": "p",
           "x": "Frankl's own statement of the motivational claim:"
         },
         {
           "t": "q",
-          "x": "\"According to logotherapy, this striving to find a meaning in one's life is the primary motivational force in man.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
+          "x": "\"According to logotherapy, this striving to find a meaning in one's life is the primary motivational force in man.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6840,7 +6861,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"it did not really matter what we expected from life, but rather what life expected from us.\" ([Frankl, Man's Search for Meaning, full text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl)): Primary text; quoted passages checked.",
+          "x": "\"it did not really matter what we expected from life, but rather what life expected from us.\" ([Frankl, Man's Search for Meaning, full text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6849,12 +6870,8 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"As we said before, any attempt to restore a man's inner strength in the camp had first to succeed in showing him some future goal.\" ([Frankl, Man's Search for Meaning, \"Experiences in a Concentration Camp\"](https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt)): Primary text; quoted passages checked.",
+          "x": "\"As we said before, any attempt to restore a man's inner strength in the camp had first to succeed in showing him some future goal.\" ([Frankl, Man's Search for Meaning, \"Experiences in a Concentration Camp\"](https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt)) — Primary text; quoted passages checked.",
           "s": null
-        },
-        {
-          "t": "p",
-          "x": "[Everything serves a purpose](card:Everything%20serves%20a%20purpose): the wiki's saying for the theme, attributed to Nietzsche's Genealogy of Morals and linked onward to meaning-driven behaviour."
         },
         {
           "t": "p",
@@ -6862,7 +6879,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"…if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)): Primary text; quoted passages checked.",
+          "x": "\"…if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6871,7 +6888,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.\" ([Frankl, Man's Search for Meaning, \"The Essence of Existence\"](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
+          "x": "\"the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.\" ([Frankl, Man's Search for Meaning, \"The Essence of Existence\"](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6884,7 +6901,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
+          "x": "\"According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6893,8 +6910,21 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
+          "x": "\"everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.",
           "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Tragic optimism](card:Tragic%20optimism): Frankl's term for remaining optimistic in spite of the tragic triad of pain, guilt and death."
+        },
+        {
+          "t": "q",
+          "x": "\"it means that one is, and remains, optimistic in spite of the \\\"tragic triad,\\\" as it is called in logotherapy, a triad which consists of those aspects of human existence which may be circumscribed by: (1) pain; (2) guilt; and (3) death.\" ([Frankl, \"Tragic Optimism\", lecture excerpt](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf)) — Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Post-traumatic growth](card:Post-traumatic%20growth): the psychological research successor to Frankl's claim, tied to the perseverance and exploration of novel environments he named as the core of trauma's best possibility."
         },
         {
           "t": "p",
@@ -6918,12 +6948,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): Primary text; quoted passages checked.",
+          "x": "\"even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"The only way of living acceptably to God was not to surpass worldly morality in monastic asceticism, but solely through the fulfillment of the obligations imposed upon the individual by his position in the world. That was his calling.\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): Primary text; quoted passages checked.",
+          "x": "\"The only way of living acceptably to God was not to surpass worldly morality in monastic asceticism, but solely through the fulfillment of the obligations imposed upon the individual by his position in the world. That was his calling.\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6940,8 +6970,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"We define a purpose for learning as a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self\" ([Yeager et al. 2014, JPSP](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf)): Study abstract; quoted passage checked.",
+          "x": "\"We define a purpose for learning as a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self\" ([Yeager et al. 2014, JPSP, p. 560](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf)) — Primary text; quoted passage checked.",
           "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Right livelihood](card:Right%20livelihood): the Eightfold Path's work precept in its economic form, the principle of receiving what is necessary without harm and without taking more than the way."
         },
         {
           "t": "h2",
@@ -6994,6 +7028,28 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
+          "x": "The model in Park's own words:"
+        },
+        {
+          "t": "q",
+          "x": "\"Global meaning refers to individuals' general orienting systems and view of many situations, while situational meaning refers to meaning regarding a specific instance.\" ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041)) — Scholarly interpretation; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Meaning-making involves approach-oriented intrapsychic efforts to reduce discrepancies between appraised and global meaning.\" ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041)) — Scholarly interpretation; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Life story model](card:Life%20story%20model): Dan McAdams's account of identity as a narrative, a person's evolving life story that integrates a reconstructed past, perceived present and imagined future into a coherent and purposeful whole."
+        },
+        {
+          "t": "p",
+          "x": "[The narrative fallacy](card:The%20narrative%20fallacy): the counterpoint the wiki holds against the story cluster: the predictable tendency to read a coherent story into a linked series of acts, which predicts too many things about what the story will be."
+        },
+        {
+          "t": "p",
           "x": "[Narrative as meaning-making](card:Narrative%20as%20meaning-making): Ricoeur's claim, across Time and Narrative, that stories configure actions into a followable whole, and through plot work a life becomes a told story."
         },
         {
@@ -7010,7 +7066,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees.\" ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf)): Primary text; quoted passages checked.",
+          "x": "\"Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees.\" ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -7027,7 +7083,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
+          "x": "\"The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -7067,8 +7123,12 @@ window.fcDossiersData = {
           "x": "[The daimon](card:The%20daimon): Socrates' inner sign, described at his trial: present since childhood, it only forbids and never commands, and its silence is its only approval."
         },
         {
+          "t": "p",
+          "x": "[The call of conscience](card:The%20call%20of%20conscience): Heidegger's existential call, structurally parallel to the daimon: the call comes from the self, summons the self out of its absorption in the world, and the actual content of the call's revelation is deliberately left empty."
+        },
+        {
           "t": "q",
-          "x": "\"This sign I have had ever since I was a child. The sign is a voice which comes to me and always forbids me to do something which I am going to do, but never commands me to do anything, and this is what stands in the way of my being a politician.\" (Plato, [Apology 31c-d, Jowett translation](https://classics.mit.edu/Plato/apology.html)): Primary text; quoted passages checked.",
+          "x": "\"This sign I have had ever since I was a child. The sign is a voice which comes to me and always forbids me to do something which I am going to do, but never commands me to do anything, and this is what stands in the way of my being a politician.\" (Plato, [Apology 31c-d, Jowett translation](https://classics.mit.edu/Plato/apology.html)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -7081,7 +7141,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)): Primary text; quoted passages checked.",
+          "x": "\"But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -7090,7 +7150,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)): Primary text; quoted passages checked.",
+          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -7099,7 +7159,20 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"There is no fate that cannot be surmounted by scorn.\" ([Camus, The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)): Primary text; quoted passages checked.",
+          "x": "\"There is no fate that cannot be surmounted by scorn.\" ([Camus, The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passages checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "[Nihilism](card:Nihilism): the family's extreme position: no intrinsic values, no objective meaning, no known purpose in life; Nietzsche's diagnosis of the cultural condition behind the modern pursuit of purpose."
+        },
+        {
+          "t": "p",
+          "x": "[Boundary situations](card:Boundary%20situations): Jaspers's four experiences, death, chance, guilt and the struggle of existence, which cannot be bypassed or overcome and only become fully present when lived; for him, philosophy exists because such situations ask the questions purpose answers."
+        },
+        {
+          "t": "q",
+          "x": "\"But to ultimate situations we react either by obfuscation or, if we really apprehend them, by despair and rebirth: we become ourselves by a change in our consciousness of being.\" ([Jaspers, Way to Wisdom, quoted in Boundary situations](https://epimelea.com/library/jaspers-boundary-situations/)) — Primary text; quoted passage checked.",
           "s": null
         },
         {
@@ -7120,7 +7193,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
+          "x": "\"it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -7129,12 +7202,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)): Primary text; quoted passages checked.",
+          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passages checked.",
           "s": null
         },
         {
           "t": "p",
-          "x": "Both answer the same question, whether a human life can be about something, and they part on the world's role: for Frankl life itself puts questions that wait to be answered; for Camus the world's silence is the final fact, and revolt, not answer, is the coherent stance. What remains unresolved is whether the felt answer-ability Frankl describes in the camps is a discovery about the world or a stance taken toward it; the wiki holds both without adjudicating, and the absurd cards and the logotherapy cards cite each other's territory without yielding."
+          "x": "Both positions answer the same question, whether a human life can be about something, and they part on where the answer is taken to come from: Frankl treats life as putting questions that wait to be answered; Camus treats the world's silence as the standing fact, and revolt as the coherent stance. What remains unresolved is the status of the felt answer-ability Frankl describes in the camps: whether it is a discovery about the world or a stance taken toward it. The wiki holds both positions without adjudicating; the two practices they recommend, meaning-seeking and revolt, are separated less by what they ask a person to do than by what they claim is being answered."
         },
         {
           "t": "h",
@@ -7191,8 +7264,18 @@ window.fcDossiersData = {
           "x": "[Living the question](card:K231%20%E2%80%94%20Living%20the%20question): Rilke's instruction to be patient toward all that is unsolved in the heart and to love the questions themselves, living them now rather than seeking answers that cannot yet be lived."
         },
         {
+          "t": "n",
+          "i": 9,
+          "x": "[Project alignment](card:K313%20%E2%80%94%20Project%20alignment): listing the projects that currently structure your life and asking of each whether it expresses who you want to be; Heidegger's projection behind the question, Ryff's purposeful engagement behind the dimension it tests."
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[Life chapter mapping](card:K332%20%E2%80%94%20Life%20chapter%20mapping): dividing a life into chapters and writing, for each, one sentence on the turning point and one on what it taught; the map builds the narrative coherence the life-story research links to meaning and well-being."
+        },
+        {
           "t": "p",
-          "x": "The evidence limits are uneven across the list, and the kernels say so where it matters: the meaning audit rests on the self-concordance goal literature, the legacy letter on the life-review literature it formalises, and the revolt practice is an editorial exercise in Camus's spirit rather than a tested protocol."
+          "x": "The evidence limits are uneven across the list, and the kernels say so where it matters: the meaning audit rests on the self-concordance goal literature, the legacy letter on the life-review literature it formalises, the chapter mapping on the life-story and Hero's Journey studies, and the revolt practice is an editorial exercise in Camus's spirit rather than a tested protocol."
         },
         {
           "t": "vs",
@@ -7229,7 +7312,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST279 — Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): Man's Search for Meaning as two texts, the memoir and the theory drawn from it, with the famous line that he who has a why to live can bear almost any how."
+          "x": "[ST279 — Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): in Frankl's account of the camps, the prisoners who kept a reason to live, a person to return to or a work to finish, endured differently, a claim he limits: most of those he described died; the freedom to choose one's attitude is the last of the human freedoms."
         },
         {
           "t": "h2",
@@ -7246,6 +7329,10 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "[ST048 — Yayoi Kusama Paints the Hallucinations](card:ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): hallucinated fields of dots since childhood, and since 1977 a life lived voluntarily in a psychiatric hospital, walking daily to the studio to paint them at architectural scale."
+        },
+        {
+          "t": "p",
+          "x": "[ST005 — Hirayama's Perfect Days](card:ST005%20%E2%80%94%20Hirayama%27s%20Perfect%20Days): a Tokyo toilet cleaner waters his plants, photographs the light through the trees, reads before sleep; asked why he is content he does not explain, because the days are the answer, and the film refuses to reveal a backstory that would explain them for him."
         },
         {
           "t": "h2",
@@ -7270,6 +7357,34 @@ window.fcDossiersData = {
         {
           "t": "p",
           "x": "[ST089 — Layman Pang Sinks the Fortune](card:ST089%20%E2%80%94%20Layman%20Pang%20Sinks%20the%20Fortune): a wealthy merchant empties his house and fortune into the river and lives as a layman weaving bamboo sieves with his wife and children; the tradition's proof case that awakening does not require monasticism."
+        },
+        {
+          "t": "h2",
+          "x": "Meaning made rather than found"
+        },
+        {
+          "t": "p",
+          "x": "[ST312 — McAdams's Redemptive Sequences](card:ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the stories people tell about their lives, not just the events, predict well-being; suffering narrated as leading to growth predicts best of all, and the telling is a shaping, not a report."
+        },
+        {
+          "t": "p",
+          "x": "[ST280 — Pi's Two Stories](card:ST280%20%E2%80%94%20Pi%27s%20Two%20Stories): the same survival told two ways, with a tiger or with a cook; the investigators prefer the tiger, and the story asks what it is to choose the telling a life can be lived inside."
+        },
+        {
+          "t": "h2",
+          "x": "When life gives no answer"
+        },
+        {
+          "t": "p",
+          "x": "[ST277 — Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): the gods meant futile labour as the worst punishment; Camus's conclusion is that the struggle itself toward the heights is enough to fill a man's heart, and one must imagine Sisyphus happy."
+        },
+        {
+          "t": "p",
+          "x": "[ST278 — Dr. Rieux Fights the Plague](card:ST278%20%E2%80%94%20Dr.%20Rieux%20Fights%20the%20Plague): in the quarantined city the physician offers no theory of the plague's meaning; he treats the sick day after day, and his stated reason is plain, that it is the only thing a man can do in the face of suffering."
+        },
+        {
+          "t": "p",
+          "x": "[ST294 — The Demon's Question](card:ST294%20%E2%80%94%20The%20Demon%27s%20Question): Nietzsche's demon offers this life again, innumerable times, every pain and every joy in the same sequence; the question the story leaves the reader is whether to curse the demon or answer that it is divine."
         }
       ],
       "group": "flourishing",

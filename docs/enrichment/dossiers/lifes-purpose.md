@@ -260,7 +260,7 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 [ST036 — Frankl Chooses the Attitude](https://clemvillatte.github.io/flourishing-compendium/#card=ST036%20%E2%80%94%20Frankl%20Chooses%20the%20Attitude): the psychiatrist in Auschwitz, observing that prisoners who retained something to live for endured differently, and reporting a freedom that remained when everything else was taken.
 
-[ST279 — Frankl's Meaning](https://clemvillatte.github.io/flourishing-compendium/#card=ST279%20%E2%80%94%20Frankl%27s%20Meaning): Man's Search for Meaning as two texts, the memoir and the theory drawn from it, with the famous line that he who has a why to live can bear almost any how.
+[ST279 — Frankl's Meaning](https://clemvillatte.github.io/flourishing-compendium/#card=ST279%20%E2%80%94%20Frankl%27s%20Meaning): in Frankl's account of the camps, the prisoners who kept a reason to live, a person to return to or a work to finish, endured differently, a claim he limits: most of those he described died; the freedom to choose one's attitude is the last of the human freedoms.
 
 ### Work as calling
 
