@@ -1,6 +1,7 @@
 {
  "batch": "dos2",
- "done": [],
- "in_progress": null,
+ "done": [
+  "affect"
+ ],
  "note": "minted 2026-10-24; one dossier per band; see bands/dos2-manifest.json"
 }
