@@ -84,3 +84,5 @@ narratives and angles; both pairs satisfy the taskboard's distinct-angle convent
 ## FLAG FOR SUPERVISOR (T+45, raised by s1b teller)
 
 - DUPLICATE STORY PAGE ON ORIGIN/MAIN: content/stories contains TWO ST488 files — "ST488 — 35. The Painter Who Kept the Water Still.md" (old, draft-number-prefixed title) and "ST488 — The Painter Who Kept the Water Still.md" (the fix in 1fcdc6c23 renamed the file but the old copy still exists). The structure book and the D041 backlink still reference the OLD prefixed title; _order.json references only the NEW filename. Needs: delete the old-prefixed file, update the D041 backlink and the structure book entry to the new title. Not touched by s1b (s1a band).
+
+- RESOLVED (T+47): the ST488 duplicate flagged above was cleaned up by the active supervisor (commit 202981928 deletes the old prefixed file). No action remains.
