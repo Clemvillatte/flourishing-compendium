@@ -5,9 +5,9 @@ Every quoted fragment in this dossier was fetched and read from its carrier
 during this session (2026-10-24, ~07:30–08:00 UTC) with the page-open tool.
 Every quoted passage was then re-verified against raw, unprompted carrier
 text (direct fetch of each carrier URL, tags stripped, whitespace
-normalised, substring check). All nine quoted passages across the five
+normalised, substring check). All quoted passages across the six
 carriers are FULL MATCH against the raw carrier text; the dossier contains
-9 external carrier-link occurrences covering 5 distinct carrier URLs.
+10 external carrier-link occurrences covering 6 distinct carrier URLs.
 
 ## Quotes opened this session (fetch of the carrier page)
 
@@ -37,6 +37,11 @@ carriers are FULL MATCH against the raw carrier text; the dossier contains
   quoted: "As a mother would risk her life to protect her child, her only
   child, even so should one cultivate a limitless heart ... without enmity
   or hate." Verified against the fetched page.
+- MN 117 (Mahācattārīsaka Sutta / The Great Forty), Thanissaro translation
+  — carrier https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html —
+  quoted: the mundane and transcendent right resolve definitions (both
+  halves of the ellipsis-joined quote). Opened and raw-verified FULL MATCH
+  this session (unprompted fetch, substring check).
 - Ryan & Deci 2000, "Self-Determination Theory and the Facilitation of
   Intrinsic Motivation, Social Development, and Well-Being" — carrier
   https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf —
@@ -54,7 +59,7 @@ outside carrier is cited for these; they carry no quotation.
 
 ## Card links
 
-Every #card= target on the page (62 link instances, 56 unique) was
+Every #card= target on the page (66 link instances, 60 unique) was
 verified against actual content/ file names by the dossier checker
 (scripts/dossier_check.py exit 0: "62 card links resolve").
 
@@ -71,6 +76,20 @@ Both divergence positions are quoted from carriers opened this session
 (SN 45.8 vs Sn 1.8; MN 19 vs Ryan & Deci 2000). Each pair is framed as
 answering the same question; the unresolved remainder is stated in the
 dossier text.
+
+## Exhaustiveness pass
+
+A full title and full-text sweep of content/ for the theme family
+(intention, resolve, aim, vow, purpose, renunciation, craving, ill will,
+goodwill, harm, compassion, attachment) found five cards missed in pass 1,
+now added with lines compressed from their own openings: Compassion,
+Non-attachment, Distinguishing needs from wants (SDT), Eudaimonic
+motivation, intrinsic goals, plus the MN 117 two-forms quote. Cards
+checked and deliberately left out: Boulesis (rational desire) (card body
+empty), Desire and Desire analyzed (held by the Motivation and Goals
+boundary per the registry scope), Hope/Elpis (expectation, not resolve),
+the remaining right-action and right-effort families (other bands'
+dossiers).
 
 ## Advisor QC (pass 1) applied
 

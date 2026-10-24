@@ -35,6 +35,10 @@ And the Nibbedhika Sutta makes intention the hinge of action:
 
 > "Intention, I tell you, is kamma. Intending, one does kamma by way of body, speech, & intellect." ([AN 6.63, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/an/an06/an06.063.than.html)): Primary text; quoted passages checked.
 
+The Mahācattārīsaka Sutta grades the factor in two forms, a resolve with effluents and a transcendent one that is a factor of the path:
+
+> "And what is the right resolve with effluents, siding with merit, resulting in acquisitions? Resolve for renunciation, resolve for freedom from ill will, resolve for harmlessness. This is the right resolve with effluents... And what is the right resolve that is noble, without effluents, transcendent, a factor of the path? The thinking, directed thinking, resolve, mental fixity, mental transfixion, focused awareness, & verbal fabrications in one developing the noble path whose mind is noble, whose mind is without effluents, who is fully possessed of the noble path." ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html)): Primary text; quoted passages checked.
+
 ### The first resolve: renunciation
 
 The wiki's positive rendering of the first resolve is simplicity.
@@ -53,6 +57,8 @@ The wiki's positive rendering of the first resolve is simplicity.
 
 [Nonattachment](https://clemvillatte.github.io/flourishing-compendium/#card=Nonattachment): the psychological account of release from mental fixations, a flexible relationship with experience.
 
+[Non-attachment](https://clemvillatte.github.io/flourishing-compendium/#card=Non-attachment): the construct Sahdra, Shaver and Brown built to measure the Buddhist concept, distinguished from interpersonal attachment styles.
+
 [Gelassenheit](https://clemvillatte.github.io/flourishing-compendium/#card=Gelassenheit): Eckhart's releasement, something a person actively cultivates.
 
 The Two Sorts of Thinking discourse sets the standard the renunciation-thought is held to:
@@ -66,6 +72,8 @@ The wiki's positive rendering is goodwill.
 [Metta (loving-kindness)](https://clemvillatte.github.io/flourishing-compendium/#card=Metta%20%28loving-kindness%29): the Buddhist practice of goodwill, first of the four brahmaviharas.
 
 [Four immeasurables](https://clemvillatte.github.io/flourishing-compendium/#card=Four%20immeasurables): the set metta belongs to: loving-kindness, compassion, sympathetic joy and equanimity.
+
+[Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion): being moved by suffering and motivated to act; the second of the immeasurables.
 
 [Benevolence](https://clemvillatte.github.io/flourishing-compendium/#card=Benevolence): Hume's treatment of benevolence in the second Enquiry.
 
@@ -138,6 +146,10 @@ And the mechanism the discourse names is practice bending the mind:
 [Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations): the finding that wealth, fame and image goals correlate with lower well-being even when achieved.
 
 [Self-concordance theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordance%20theory): goals that fit developing interests and core values sustain effort and make attaining more rewarding.
+
+[Distinguishing needs from wants (SDT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20needs%20from%20wants%20%28SDT%29): the theory's line between the few innate needs whose satisfaction grows a person and the wants that can crowd them out.
+
+[Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals): the pull toward intrinsic aspirations, affiliation, growth and contribution, named by the wiki for the aim side of this factor.
 
 [Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the label for the right action factor, which comes fourth on the path, after right speech; the map of this factor ends where the path moves from resolve to conduct.
 
