@@ -172,3 +172,10 @@ re-opened this session. Both quoted passages are verbatim: "The
 essence of belief is the establishment of a habit..." and "As it
 appeases the irritation of doubt...". No discrepancy found. Other
 carriers were not re-opened this session.
+
+## Carrier re-verification addendum (2026-10-25)
+
+The Clark and Chalmers, The Extended Mind carrier (consc.net) was
+also re-opened. Both quoted passages are verbatim: the "coupled
+system" sentence and the "active externalism" sentence. No
+discrepancy found.
