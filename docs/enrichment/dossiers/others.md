@@ -12,8 +12,6 @@ The theme asks a double question: what other people do to a person's mind and fl
 
 ### What other people do to a person
 
-These entries run from the brain's default expectations of company to the felt experience of disconnection, and they measure what changes in a person's body and mind when trusted others are present or absent.
-
 [Social baseline](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20baseline): the human brain treats the company of trusted others as its default condition, so managing alone costs metabolic and neural resources.
 
 [Co-regulation in relationships](https://clemvillatte.github.io/flourishing-compendium/#card=Co-regulation%20in%20relationships): Butler's temporal framework: partners in a close relationship regulate each other's affect across repeated interactions, each partner's state managed between them.
@@ -50,8 +48,6 @@ Cacioppo and Hawkley give the negative side of the same arrangement:
 
 ### How the self is built from others
 
-If the self is partly built out of other people, these entries ask what it is made of: the roles taken, the mirrors held, the groups joined, the bonds formed.
-
 [The social self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20self): Mead's answer to what a self is made of: something with a development, arising in social conduct.
 
 [The social selves](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20selves): William James's term for the version of a person that exists in other people's minds.
@@ -71,8 +67,6 @@ If the self is partly built out of other people, these entries ask what it is ma
 [Erikson's psychosocial theory](https://clemvillatte.github.io/flourishing-compendium/#card=Erikson%27s%20psychosocial%20theory): the lifespan stages whose central conflicts are relational, from trust versus mistrust to intimacy versus isolation and generativity.
 
 ### Empathy: feeling with, and understanding
-
-These entries follow one mind reaching another: how the reaching works, how well it can be done, and where it systematically fails.
 
 [Empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Empathy): the capacity to feel with and understand another; the umbrella the rest of these entries divide.
 
@@ -99,8 +93,6 @@ The training research separates two states a person can bring to another's pain.
 > "We conclude that training compassion may reflect a new coping strategy to overcome empathic distress and strengthen resilience." ([Klimecki et al. 2014, PubMed 23576808](https://pubmed.ncbi.nlm.nih.gov/23576808/))
 
 ### Compassion, kindness and care
-
-These entries hold the trained responses to another's pain, and the difference between the responses that help and the ones that exhaust the giver.
 
 [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion): the wish to relieve suffering when it is seen, trainable as a capacity.
 
@@ -138,8 +130,6 @@ The Karaṇīya Metta Sutta gives the instruction its measure:
 
 ### Love and friendship
 
-These entries take up the bonds themselves: what love is made of, which loves last, and what the company we keep does to the people we become.
-
 [Love](https://clemvillatte.github.io/flourishing-compendium/#card=Love): the terrain Aristotle opens by calling friendship a thing most necessary for life.
 
 [Agape](https://clemvillatte.github.io/flourishing-compendium/#card=Agape): the Pauline love of 1 Corinthians 13, patient and keeping no account of evil.
@@ -174,8 +164,6 @@ Aristotle closes the account of friendship with its limit:
 
 ### What one person owes another
 
-These entries carry the normative material: what one person owes another, and how far the claim extends.
-
 [Being-for-others](https://clemvillatte.github.io/flourishing-compendium/#card=Being-for-others): Sartre's ontological principle for the experience of being seen.
 
 [The mirror for others](https://clemvillatte.github.io/flourishing-compendium/#card=The%20mirror%20for%20others): Mencius' advice to examine oneself when one's actions do not bring the desired response from others.
@@ -202,6 +190,16 @@ These entries carry the normative material: what one person owes another, and ho
 
 [Enemy as teacher](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy%20as%20teacher): Śāntideva on forbearance: the adversary provides the occasion for patience.
 
+The Analects record the proposal and Confucius' rejection of it:
+
+> Some one said, "What do you say concerning the principle that injury should be recompensed with kindness?" The Master said, "With what then will you recompense kindness? Recompense injury with justice, and recompense kindness with kindness." ([Confucius, Analects 14.34, Legge translation](https://ctext.org/analects/xian-wen))
+
+The Gospel commands the other response:
+
+> "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
+
+Confucius prescribes justice toward injury and kindness toward kindness, and his question, with what then will you recompense kindness, treats that distinction as the thing to preserve. Matthew commands doing good even toward those who hate and persecute. The two passages leave open whether they give incompatible answers to one question, what is owed, or answers to two different questions, what is owed and what may be given.
+
 [Father, forgive them](https://clemvillatte.github.io/flourishing-compendium/#card=Father%2C%20forgive%20them): Gospel of Luke 23.34.
 
 [Cosmopolitan care](https://clemvillatte.github.io/flourishing-compendium/#card=Cosmopolitan%20care): Miller's account of extending care beyond proximity.
@@ -215,8 +213,6 @@ These entries carry the normative material: what one person owes another, and ho
 [Wish good for your friend for their own sake](https://clemvillatte.github.io/flourishing-compendium/#card=Wish%20good%20for%20your%20friend%20for%20their%20own%20sake): Aristotle, Nicomachean Ethics VIII.2.
 
 ### Helping: altruism and its debates
-
-These entries are the motivational core of the map: when help is given, whose welfare is the helper serving?
 
 [Altruism](https://clemvillatte.github.io/flourishing-compendium/#card=Altruism): motivation aimed at another person's good for that person's sake, not as a means to one's own.
 
@@ -239,8 +235,6 @@ These entries are the motivational core of the map: when help is given, whose we
 [Social influences on motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20influences%20on%20motivation): the ways other people, their norms and their support change what a person wants and how strongly.
 
 ### Relationships and communities as structures
-
-These entries describe the forms: what relationships are made of, how they are kept and ended, and how communities hold their members.
 
 [Relationship categorisation](https://clemvillatte.github.io/flourishing-compendium/#card=Relationship%20categorisation): how people sort their relationships into kinds and where they draw the boundaries, in Fehr's research.
 
@@ -295,18 +289,6 @@ The theme comes in narrative form too:
 [ST194 — Seneca Writes to His Mother](https://clemvillatte.github.io/flourishing-compendium/#card=ST194%20%E2%80%94%20Seneca%20Writes%20to%20His%20Mother): from exile, Seneca refuses to console his mother with the usuals, and keeps writing to her.
 
 ## Where the traditions genuinely disagree
-
-### Should injury be answered with kindness?
-
-The shared question: what does one owe the person who has done harm? The Analects record the proposal and Confucius' rejection of it:
-
-> Some one said, "What do you say concerning the principle that injury should be recompensed with kindness?" The Master said, "With what then will you recompense kindness? Recompense injury with justice, and recompense kindness with kindness." ([Confucius, Analects 14.34, Legge translation](https://ctext.org/analects/xian-wen))
-
-The Gospel commands the other response:
-
-> "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
-
-Confucius prescribes justice toward injury and kindness toward kindness, and his question, with what then will you recompense kindness, treats that distinction as the thing to preserve. Matthew commands doing good even toward those who hate and persecute. What remains unresolved is how enemy-love relates to justice: neither passage settles whether the two are rival answers to one question, or answers to two different questions, what is owed and what may be given.
 
 ### Is empathy-based helping for the other or for the self?
 

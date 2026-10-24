@@ -40,8 +40,8 @@ word-for-word against a carrier opened during this session.
   URL: https://pubmed.ncbi.nlm.nih.gov/3418490/
   Method: efetch abstract; the quoted definition sentence ("The
   empathy-altruism hypothesis claims...") was verified by literal comparison
-  against the full PubMed XML record, fetched fresh at ~14:23Z on
-  2026-10-24; the sentence matches the record's AbstractText exactly.
+  against the full PubMed XML record fetched during the 2026-10-24 session;
+  the sentence matches the record's AbstractText exactly.
   Correction history: revision 2 quoted a sentence beginning "Emotional
   arousal elicited by witnessing..." under the 1988 label; that sentence
   was withdrawn in revision 3 and the 1988 abstract's own definition
@@ -200,3 +200,18 @@ been false.
   including the 800-1200 character ranges; HUMANIZER-SKILL.md read in full
   (all 626 lines, unfiltered).
 - Checker exit 0 (133 card links, 9 external carriers); voice audit exit 0.
+## Revision 6 (advisor round 5)
+
+- The Confucius-Matthew comparison moved out of the divergences section and
+  into the map (What one person owes another), with both quotations and the
+  bounded discussion preserved; the open question it leaves (incompatible
+  answers to one question, or answers to two different questions) is now
+  framed as a comparison, not a disagreement. Batson-Cialdini is the sole
+  entry under the genuine-disagreement header.
+- The eight generic map lead-ins ("These entries...") were removed; the map
+  returns to the exemplar's card-list format.
+- The Batson verification timestamp in this ledger was replaced with the
+  session date and method (the literal verification stands; its previously
+  recorded time did not match the session clock).
+- Checker exit 0 (133 card links, 9 external carriers, 19 headers); voice
+  audit exit 0.
