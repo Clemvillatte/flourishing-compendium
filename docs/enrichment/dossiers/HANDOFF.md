@@ -335,3 +335,17 @@ Flagged for other bands:
   ledger, revision 4-5.
 - scripts/dossier_build.py depends on /tmp/glosses.json, which does not
   survive sessions; it needs the gloss file regenerated or vendored.
+
+## Programme status, 2026-10-24 (supervisor-pplx-1024c, end of run)
+
+Published (15): genuine-flourishing, wisdom, lifes-purpose, affect, anger, anxiety, happiness, cognition, decision-making, attention, the-self, motivation, goals, uncertainty, overload-overwhelm. All pass scripts/dossier_check.py (exit 0) and app.js is in sync with the markdown (a full --rebuild of all 15 produced no diff).
+
+Planned and banded, not started: agency (dos14), behaviour (dos15), others (dos16), body (dos17). Bands dos1 to dos13 are released or finished.
+
+Notes for the next writer:
+- Pre-computed title inventories in some manifests were copied from other bands; run your own title sweep and full-text sweep.
+- The newest checker bans em dashes in Story loglines; use a colon, semicolon or comma.
+- Verify every quotation against text you actually opened; do not rely on memory of an abstract. One quote in this run (Baumeister 1998) was caught and corrected in a verification pass because the real abstract reads "reports experiment results suggesting that...".
+- Do not cite Ariely and Wertenbroch 2002 as evidence. A replication preprint (SSRN 5053636) reports the result does not replicate, and its PubMed record shows a retraction notice. The wiki card "Commitment devices (Ariely & Wertenbroch)" needs a note and a replacement carrier (concept band decision).
+- Decision-making, motivation, uncertainty, overload-overwhelm and goals each hold two to four divergences; their ledgers list candidate additional divergences under "Open points" for any revision pass.
+- Possible future standalone Stress dossier (about 17 stress cards), proposed in the anxiety ledger.
