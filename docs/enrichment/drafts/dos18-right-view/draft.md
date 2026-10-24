@@ -37,7 +37,9 @@ The Sammādiṭṭhi Sutta defines the view by the discernment itself:
 
 > "There is right view with effluents, siding with merit, resulting in acquisitions [of becoming]; there is right view that is noble, without effluents, transcendent, a factor of the path." ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html)): Primary text; quoted passages checked.
 
-The everyday form is spelled out as convictions, there is what is given, offered and sacrificed, fruits and results of good and bad actions, this world and the next, and the transcendent form as the discernment of one developing the noble path.
+The everyday form is spelled out as convictions, there is what is given, offered and sacrificed, fruits and results of good and bad actions, this world and the next, and the transcendent form as the discernment of one developing the noble path. The conviction about fruits of actions has its own concept card:
+
+[Karma](https://clemvillatte.github.io/flourishing-compendium/#card=Karma): action driven by intention and the results that follow; in the Buddha's definition intention itself is the karma, and the results sort into what arises now, later in this life, and following that.
 
 ### The middle way between views
 

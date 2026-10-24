@@ -341,3 +341,12 @@ response. Both carriers REMAIN extraction-checked only; the browser
   order" qualifier is withdrawn; the opened passage does not carry it).
 - The dos20 check is recorded as a structural check (checker exit 0,
   registry correctly planned), not supervisor content approval.
+
+## Pass 17: exhaustiveness extension (2026-10-24)
+
+The Karma concept card (content/concepts/Karma.md, AN 6.63 carrier) was
+identified as a missed map entry for the everyday form of right view
+(MN 117's convictions include fruits and results of good and bad
+actions) and added to the two-forms subsection. The wiki holds no
+rebirth, merit or giving cards (checked); Karma yoga and Nishkama karma
+are Bhagavad Gita material, off this page's boundary.
