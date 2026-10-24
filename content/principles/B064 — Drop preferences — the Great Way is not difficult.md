@@ -39,7 +39,7 @@ For example: Over two meals, a traveller compares constant ranking with describi
 
 ## Related concepts
 
-- [[T009 — Zhuangzi]]: the ziran resonance the page cites: preferences dropped, things self-so.
+- [[T009 — Zhuangzi]]: a comparison with ziran, things being self-so.
 
 ## Sources
 
