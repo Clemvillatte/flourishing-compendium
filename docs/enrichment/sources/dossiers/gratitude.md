@@ -90,8 +90,10 @@ the supervisor's publication decision.
    "It's all yours, brahman. It's all yours." Quoted in the Story
    section's Gift Nobody Accepted logline.
 
-No other external carriers are cited in the dossier body. The
-classical and practice material is compressed from the cards, each of
+The dossier body quotes three external carriers (Emmons PDF,
+Algoe 2012, Algoe et al. 2010); the Seneca, Aristotle and SN 7.2
+passages above support map and story lines without direct quotation.
+The remaining practice material is compressed from the cards, each of
 which carries its own sources.
 
 ## Map, practice and story lines
@@ -114,17 +116,21 @@ Title (filename) and full-text sweeps run this session across
 content/ for: gratitude, thankful, appreciation, indebtedness,
 benefit, gift, blessing, favor, reciprocity, generosity, receiving,
 contentment-family terms, and the principle/kernel/story families
-listed above; the gratitude/thankfulness full-text sweep was run
-untruncated (40 results reviewed). Inclusions with boundary reasons,
-recorded for the supervisor:
+listed above. The gratitude/thankfulness full-text sweep, rerun
+without truncation, returns 178 files; the boundary rule applied to
+them is relevance to the gratitude mechanism itself (benefit
+received, its attention, expression, reciprocity or indebtedness, or
+a clearly labelled neighbouring practice), rather than mere mention.
+Inclusions and exclusions with reasons, recorded for the supervisor:
 
 - The positive-affect family that mentions gratitude in passing
   (Broaden-and-build, Positive activity interventions,
   Fredrickson's positivity portfolios, Person-activity fit, Joy,
   Prosocial spending, Connectedness in well-being research, and kin):
-  each is held on its own card in its own group of the wiki
-  (well-being research, positive psychology interventions); excluded
-  with that boundary rather than absorbed into this map.
+  these cards use gratitude as one instance of a wider mechanism
+  (positive affect, intervention fit, spending, connection) whose
+  home card states the mechanism; excluded by the relevance rule
+  rather than absorbed into this map.
 - Death reflection and Cozzolino's mortality work: the gratitude
   link is via finitude, represented here by E054; the research
   construct belongs to its own card.
