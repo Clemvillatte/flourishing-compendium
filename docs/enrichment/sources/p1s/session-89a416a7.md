@@ -223,3 +223,9 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - MN 131 block is exact with verse line breaks normalised; Ud's quoted fragment is exact and remains situated in release from identification, not a productivity technique. The TNH carrier contains evident transcription errors; the retained sentence deliberately preserves its actual “as they were a nuisance” wording rather than silently repairing it.
 - Restored the source's double quotation marks around “washing the dishes to wash the dishes.” Removed superfluous outer quote wrappers from that block to avoid nested delimiters; words unchanged.
 - Replaced the internal page-position gloss with a substantive description of the same thinker relation. Strong Plain words and lunch/planning experiment unchanged; no implied prohibition on useful planning.
+
+## B049: no-mind source and locator check
+
+- Opened unprompted: [Wilson translation PDF](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf), pp. 4-8 and 13, and [Scarsdale Aikido's reproduced excerpts](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/), complete page. The PDF contents and page headings support the existing PDF locators; this is not a claim about another printed edition's pagination.
+- The sword fragment, “neither discrimination nor thought”, “placed nowhere” and cart-wheels sentence all match. The account explicitly contrasts No-Mind with insensibility; the beginner/practised-body return is supported. No actual martial-arts performance benefit or psychological equivalence with flow inferred.
+- Moved Laozi comparison to existing Related thinkers and removed “the page lists”. The well-bounded analogy and music rehearsal example remain unchanged. No reliance on the blog's biographical/legendary claims.
