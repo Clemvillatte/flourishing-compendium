@@ -1684,7 +1684,22 @@
      "note": "item-20 QC fixes applied: bounded reading, source punctuation restored, verse on separate lines, provenance bounded"
     }
    ]
+  },
+  "s1a-060": {
+   "status": "ready",
+   "angle": "D035: Thoreau's house that cost 8.12 1/2 — the economy of living within bounds",
+   "history": [
+    {
+     "t": "2026-10-24T14:33:19+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:33:34+00:00",
+     "to": "ready",
+     "note": "Walden Economy ledger verbatim from opened raw text; DDJ 80 isolation ideal marked NOT carried"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:33:09+00:00"
+ "updated": "2026-10-24T14:33:34+00:00"
 }
