@@ -213,3 +213,10 @@ are not certified by this body-level review.
 - Evidence: the sprout/tower/journey quotation matches Legge; Wilhelm's commentary explicitly qualifies hundred-day practice by effort and physical constitution. Every retained participant/model count and the 18–254-day modelled range appears in the Lally abstract, as does the exact retained sentence about missing one opportunity.
 - Repair: Plain words now explains repetition in a consistent setting becoming more automatic before suggesting a cue. Retained the concrete reading exercise with a return after a missed morning and reconsideration when the arrangement repeatedly fails.
 - Limits: publisher abstract, not an unseen full study, supports these reported numbers. The study does not validate Golden Flower attainment, a universal habit deadline or automatic development of wisdom.
+
+## D080: Perspective and accommodation
+
+- Opened: [Zhuangzi 2 §6, Legge/NOVA](https://pressbooks.nvcc.edu/eng255/chapter/the-zhuangzi/), monkey-keeper passage with surrounding text; [Hansen, Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/), §§4.5 and 4.8 extraction.
+- Evidence: the retained quotation matches the carrier. Hansen connects the story to circumstance-dependent judgment and accommodation, while expressly allowing criticism of careless, dogmatic or unwarranted judgments.
+- Repair: Plain words directly explains how different concerns can produce different responses. The modern shift case includes a short trial, joint review and further revision.
+- Limits: no universal relativism, guarantee of agreement or claim that an unchanged total proves a timing preference irrational. Scheduling is the page's application, not a historical claim about the monkeys' actual motives.

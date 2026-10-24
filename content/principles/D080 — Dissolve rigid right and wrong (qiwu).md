@@ -21,11 +21,11 @@ Chad Hansen interprets the passage through the dependence of judgments on perspe
 
 ### Plain words
 
-Before treating a disagreement as a contest between sense and nonsense, find out what each person is responding to. The total may be unchanged while the timing matters to them. You can take that difference seriously and still question a claim that lacks support.
+People can respond differently to an arrangement because they approach it with different concerns. Understanding those concerns can reveal a change both can accept. You can take a preference seriously while still questioning claims that lack support.
 
 ### For example
 
-Imagine two colleagues dividing the same hours of work. One wants an earlier shift because of caring responsibilities. Check whether changing the arrangement would meet both people's needs before dismissing the preference as a refusal to do a fair share.
+Imagine two colleagues dividing the same hours of work. One wants an earlier shift because of caring responsibilities. Check whether changing the arrangement would meet both people's needs, then try it for a week and review the effects together. The proposal may still need revision.
 
 ## Related concepts
 
