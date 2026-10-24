@@ -5111,7 +5111,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST060 — Aṅgulimāla Stops](card:ST060%20%E2%80%94%20A%E1%B9%85gulim%C4%81la%20Stops): the serial killer runs at full speed and cannot catch a man walking at normal pace; \"I have stopped. You stop.\""
+          "x": "[ST060 — Aṅgulimāla Stops](card:ST060%20%E2%80%94%20A%E1%B9%85gulim%C4%81la%20Stops): the serial killer runs at full speed and cannot catch a man walking at normal pace; \"I have stopped, Angulimala. You stop.\""
         },
         {
           "t": "p",
