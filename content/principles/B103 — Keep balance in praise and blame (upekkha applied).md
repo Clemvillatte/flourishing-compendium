@@ -46,7 +46,7 @@ Two performers read the same reviews. One treats the one-star as a wound and the
 ## Philosophy parallels
 
 - **Reputation as an indifferent** (Epictetus, Enchiridion)
-- **"we care more about others' opinion of us than our own"** (Marcus Aurelius, Meditations)
+- **[[T014 — Marcus Aurelius|We care more about others' opinion of us than our own]]** (Marcus Aurelius, Meditations)
 
 ## Related concepts
 

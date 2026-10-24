@@ -41,7 +41,7 @@ For example: one person who has spent years keeping promises in small things kee
 
 ## Philosophy parallels
 
-- **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
+- **[[T014 — Marcus Aurelius|The obstacle is the way]]** (Marcus Aurelius, Meditations V.20)
 - **[[Antifragility|Antifragility]]** (Taleb, 2012)
 
 <!-- fc: reflections

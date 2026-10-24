@@ -49,7 +49,7 @@ I bring the two passages together: DDJ 13 treats favour and disgrace as a single
 ## Philosophy parallels
 
 - **[[Reputation as indifferent|Reputation as indifferent]]** (Epictetus, Enchiridion)
-- **"we care more about others' opinion of us than our own"** (Marcus Aurelius, Meditations)
+- **[[T014 — Marcus Aurelius|We care more about others' opinion of us than our own]]** (Marcus Aurelius, Meditations)
 
 <!-- fc: reflections
 Where does praise currently inflate you and blame collapse you? What would equal weight actually require?

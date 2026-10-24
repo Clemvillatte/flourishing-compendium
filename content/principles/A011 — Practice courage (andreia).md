@@ -62,7 +62,7 @@ Courage here is fear doing its job without running the show. It helps to think o
 
 ## Philosophy parallels
 
-- **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
+- **[[T014 — Marcus Aurelius|The obstacle is the way]]** (Marcus Aurelius, Meditations V.20)
 - **The hero's courage** (Aquinas, Summa Theologiae II-II.123)
 
 <!-- fc: reflections

@@ -46,7 +46,7 @@ Imagine receiving praise for one report and criticism of the next. Examine what 
 ## Philosophy parallels
 
 - **The things themselves are indifferent** (Epictetus, Enchiridion)
-- **The external versus the internal** (Marcus Aurelius, Meditations II)
+- **[[T014 — Marcus Aurelius|The external versus the internal]]** (Marcus Aurelius, Meditations II)
 
 <!-- fc: reflections
 Which of the eight worldly winds — gain, loss, fame, disrepute, praise, blame, pleasure, pain — is currently blowing you hardest? What would expecting the winds actually change?

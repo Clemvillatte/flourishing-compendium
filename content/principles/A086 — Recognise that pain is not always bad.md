@@ -33,7 +33,7 @@ Two people keep the same rule; one is annoyed by keeping it, the other comes to 
 
 ## Philosophy parallels
 
-- **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
+- **[[T014 — Marcus Aurelius|The obstacle is the way]]** (Marcus Aurelius, Meditations V.20)
 - **Let obstruction do its work** (Dewey, Experience and Nature)
 
 ## Sources

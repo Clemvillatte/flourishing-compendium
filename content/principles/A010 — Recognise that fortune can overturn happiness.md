@@ -51,7 +51,7 @@ Aristotle is blunt about luck: "the most prosperous may fall into great misfortu
 
 ## Philosophy parallels
 
-- **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
+- **[[T014 — Marcus Aurelius|The obstacle is the way]]** (Marcus Aurelius, Meditations V.20)
 - **[[Amor fati|Amor fati]]** (Nietzsche, Ecce Homo)- **[[Eudaimonia|Eudaimonia]]** (Aristotelianism)
 
 

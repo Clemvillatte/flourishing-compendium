@@ -33,7 +33,7 @@ The abstract describes reappraisal as "often more effective than suppression" (p
 ## Philosophy parallels
 
 - **[[The discipline of assent|Reinterpretation of impressions]]** (Stoics, Epictetus, Enchiridion)
-- (Marcus Aurelius, Meditations)
+- **[[T014 — Marcus Aurelius|Marcus Aurelius]]** (Marcus Aurelius, Meditations)
 
 ## Practice
 
