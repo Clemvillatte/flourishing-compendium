@@ -4,7 +4,6 @@
   "B064",
   "D106",
   "B080",
-  "B092",
   "B109",
   "B172",
   "B181",
@@ -32,7 +31,7 @@
   "D103",
   "B009"
  ],
- "in_progress": null,
+ "in_progress": "B092",
  "flagged": {
   "D094": "Reopened for QC: QC correction: forester clause exceeds source",
   "D103": "Reopened for QC: DDJ24 source rechecked; explain self-display rather than repeat advice",
@@ -42,7 +41,7 @@
   "B031": "CROSS-BAND ERROR (2026-10-20): B031 is in p1k's manifest, not p1s's; I light-checked it (quote re-verified, NO content edits) after misreading the queue as my manifest. Done marker removed from my state; nothing to revert.",
   "B078": "Reopened for QC: Supply missing poison/root connection with MN9 while distinguishing roots, fermentations and editorial naming",
   "B080": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC repairs VERIFIED APPLIED on the current page — the ledger's 14-flag substantive verification ('All 14 confirmed repaired in current text', compared against the prescribed repairs) re-checked this session by keyword: the flagged defect phrases are ABSENT (and where the repair ADDED prescribed content — B113's 'a related discussion', B126's Gemmell 'entity, a being, a living being' quote — the prescribed content is PRESENT). The state flag was stale (repairs were applied after the flag was written). [ORIGINAL: Reopened for QC: Milestone QC FAIL: mechanism claims; repairs pending]",
-  "B092": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC repairs VERIFIED APPLIED on the current page — the ledger's 14-flag substantive verification ('All 14 confirmed repaired in current text', compared against the prescribed repairs) re-checked this session by keyword: the flagged defect phrases are ABSENT (and where the repair ADDED prescribed content — B113's 'a related discussion', B126's Gemmell 'entity, a being, a living being' quote — the prescribed content is PRESENT). The state flag was stale (repairs were applied after the flag was written). [ORIGINAL: Reopened for QC: Milestone QC FAIL: source-scope + application overreach; repairs pending]",
+  "B092": "Reopened for QC: SN46.51 discriminative inquiry; fresh Plain words and substantive BE039 relation",
   "B096": "Reopened for QC: Targeted repair only: replace judgment-revision procedure with a genuine explanation of even-mindedness",
   "B109": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the round-2 prescribed replacement VERIFIED APPLIED on the current page — the split-into-present-and-built framing is present (the MN 18/MN 20/Dhp 212 passages scoped to what each establishes; 'several methods' named for MN 20; endearment-grief-fear association for Dhp 212); the item-15 round's deviation was corrected in round 2 per the ledger ('applied verbatim and re-validated against the fixed baseline f31a4697'). [ORIGINAL: Reopened for QC: Round-2 QC: item-15 prescribed replacement not applied verbatim; repairs pending]",
   "B049": "Reopened for QC: Apply advisor fixes to direct quotation carrier and trained no-mind account",
@@ -69,7 +68,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-24T05:08:34+00:00",
+ "updated": "2026-10-24T05:09:03+00:00",
  "band_done": false,
  "notes": {
   "B021 death-recovery check": "2026-10-20: owner reported the agent working on B021 died. Verified nothing lost: B021 (p1i item) content last committed f9ce31ef (2026-10-19 QC-repair batch, milestone 15); p1s no-edit light-check fcb33b61 + cross-band incident correction 5328d488 (2026-10-20 02:20-02:25, quotes re-verified, no action owed per supervisor disposition); p1s band closed cleanly 30/30 at 03:54:11Z (5bc8f460, baton released, in_progress None). B021 validates clean at HEAD. No in-flight work, no unpushed commits; nothing owed to the next agents."
