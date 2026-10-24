@@ -33,3 +33,11 @@ theory was proposed for T051 but SKIPPED as a script false positive - its
 Nishida is Hiroko Nishida, a contemporary intercultural-communication
 researcher, not Nishida Kitaro; no backlink added. Validator: all modified
 pages pass except Unity of opposites (122 words, pre-existing stub, flagged).
+
+2026-10-24 07:03Z, worker-pplx-t2c-1024e: MacIntyre (T052) block complete - 27
+worker-doable backlink glosses (16 principles, 11 concepts; 1 story card
+ST252 blocked, flagged for supervisor), grounded in each page's own text
+(After Virtue quotes and framework, communitarian reaction to Rawls,
+phronesis later uses, living-tradition passage). Validator: all modified
+pages pass except two concept stubs below the 150-word floor
+(Cultural resilience 132, The narrative self 114) - pre-existing, flagged.

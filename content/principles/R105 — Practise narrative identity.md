@@ -43,3 +43,4 @@ Taylor's Sources of the Self and Ricoeur's Oneself as Another were cited at seco
 ## Related concepts
 
 - [[SE001]] — R105 grounds narrative identity in MacIntyre and Ricoeur — identity as a developing story; SE001 supplies the psychological account of that construction (McAdams’s narrative identity).
+- [[T052 — MacIntyre, Alasdair]]: the After Virtue passage the principle quotes, a story-telling animal whose life has unity.

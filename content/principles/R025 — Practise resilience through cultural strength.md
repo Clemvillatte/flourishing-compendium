@@ -41,3 +41,6 @@ A separate philosophical parallel: MacIntyre describes a living tradition as "an
 ## Philosophy parallels
 
 - **[[Cultural resilience|Cultural resilience]]** (MacIntyre, After Virtue)
+
+## Related concepts
+- [[T052 — MacIntyre, Alasdair]]: the living tradition as an historically extended argument the page quotes.

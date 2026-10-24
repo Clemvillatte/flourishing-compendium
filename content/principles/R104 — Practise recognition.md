@@ -39,3 +39,6 @@ A new colleague is constantly talked over. You ask her to finish her point, then
 
 - **[[Recognition|Recognition]]** (Honneth, The Struggle for Recognition; Hegel, Phenomenology of Spirit)
 - **[[The politics of recognition|The politics of recognition]]** (Taylor, Multiculturalism)
+
+## Related concepts
+- [[T052 — MacIntyre, Alasdair]]: the tradition-shaped self of After Virtue behind the page's story link.

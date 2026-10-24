@@ -43,8 +43,7 @@ Imagine deciding whether to begin an evening course while caring for a relative.
 - [[Psychological well-being]]: a modern research comparison.
 - [[T013 — Seneca]]: the exile consolation behind the page's story (ST194).
 - [[T011 — Socrates]]: the Crito story the page tells, the examined life refusing the easy exit (ST141).
-
-## Stories
+- [[T052 — MacIntyre, Alasdair]]: the Aristotelian revival of eudaimonia as the good of a whole life, After Virtue's central move.## Stories
 
 - [[ST035 — Ivan Ilyich's Question|35. Ivan Ilyich's Question]]
 - [[ST091 — Trần Nhân Tông Leaves the Throne|91. Trần Nhân Tông Leaves the Throne]]

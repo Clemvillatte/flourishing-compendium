@@ -45,3 +45,4 @@ Ricoeur finds two ways of lasting in time: character, and keeping one's word. "T
 ## Related concepts
 
 - [[SE001]] — E083 grounds narrative identity in Ricoeur’s Oneself as Another and MacIntyre’s After Virtue — identity as a story lived and told; SE001 supplies the psychological account of the same constructed self (McAdams’s narrative identity).
+- [[T052 — MacIntyre, Alasdair]]: the narrative-self grounding from After Virtue the principle builds on beside Ricoeur and Taylor.

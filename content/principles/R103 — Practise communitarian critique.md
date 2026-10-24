@@ -36,3 +36,6 @@ Suppose someone describes themselves as completely self-made. The effort may be 
 
 - **[[Communitarianism|Communitarianism]]** (Sandel, Liberalism and the Limits of Justice; MacIntyre, After Virtue)
 - **[[Critique of the unencumbered self|Critique of the unencumbered self]]** (Sandel, Democracy's Discontent)
+
+## Related concepts
+- [[T052 — MacIntyre, Alasdair]]: the communitarian critique of liberal autonomy from After Virtue beside Sandel.

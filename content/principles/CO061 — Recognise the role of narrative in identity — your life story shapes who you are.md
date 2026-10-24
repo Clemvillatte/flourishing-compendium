@@ -29,8 +29,7 @@ The entry's specific "redemption" and "contamination" claims (McAdams et al., 20
 ## Related concepts
 
 - [[T011 — Socrates]]: the examined-life-as-a-story parallel the page draws for narrative identity.
-
-## Sources
+- [[T052 — MacIntyre, Alasdair]]: narrative identity, from After Virtue, the page's cross-tradition echo beside Ricoeur.## Sources
 
 - [Adler (2012), J Pers Soc Psychol 102(2), 367-389](https://pubmed.ncbi.nlm.nih.gov/21910554/) — PubMed abstract opened
 - [Adler, Lodi-Smith, Philippe & Houle (2016), Pers Soc Psychol Rev 20(2), 142-175](https://pubmed.ncbi.nlm.nih.gov/25968138/) — PubMed abstract opened

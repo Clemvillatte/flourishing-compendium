@@ -44,3 +44,6 @@ Ask an older family member what is expected of you at the next family gathering,
 ## Philosophy parallels
 
 - **[[Cultural embeddedness|Cultural embeddedness]]** (MacIntyre, After Virtue; Sandel, Liberalism and the Limits of Justice)
+
+## Related concepts
+- [[T052 — MacIntyre, Alasdair]]: cultural embeddedness, from After Virtue, the page's cross-tradition echo beside Sandel.

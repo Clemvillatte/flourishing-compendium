@@ -49,3 +49,6 @@ Practical wisdom is said to unify the virtues. Can you think of an example where
 %%
 Who in your life shows a unified character, and what is it like to be around them?
 -->
+
+## Related concepts
+- [[T052 — MacIntyre, Alasdair]]: character as an integrated whole, from After Virtue, the page's unity line.

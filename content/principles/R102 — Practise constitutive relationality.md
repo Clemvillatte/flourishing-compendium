@@ -38,3 +38,6 @@ Suppose someone emigrates to start fresh. Some of what they carry may be revisab
 
 - **[[Constitutive relationality|Constitutive relationality]]** (Sandel, Liberalism and the Limits of Justice)
 - **[[Narrative identity|Narrative identity]]** (MacIntyre, After Virtue; Taylor, Sources of the Self)
+
+## Related concepts
+- [[T052 — MacIntyre, Alasdair]]: narrative identity, from After Virtue, the page's cross-tradition echo beside Taylor.

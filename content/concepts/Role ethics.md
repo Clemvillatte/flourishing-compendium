@@ -34,7 +34,7 @@ The principles listed (for example K284, S011 and SO027) use roles as a practica
 - [[Role Theory]] — the social-psychology account of roles
 - [[Narrative self]] — the self constituted by its stories
 - [[Ren]] — Confucius's cardinal virtue: the humane disposition toward others
-## Sources
+- [[T052 — MacIntyre, Alasdair]]: the After Virtue version of role-grounded ethics the concept's section carries.## Sources
 
 - [Stanford Encyclopedia of Philosophy, "Chinese Ethics"](https://plato.stanford.edu/entries/ethics-chinese/) — relational ethic, role-ethic alternative
 - [Stanford Encyclopedia of Philosophy, "Confucius"](https://plato.stanford.edu/entries/confucius/) — Rosemont and Ames on roles

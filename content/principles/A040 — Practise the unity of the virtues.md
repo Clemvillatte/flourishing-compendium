@@ -23,8 +23,7 @@ He takes natural courage and sharpness seriously as raw material, and notes what
 ## Related concepts
 
 - [[T011 — Socrates]]: the unity thesis Aristotle half-keeps, virtues implying practical wisdom (NE VI.13)
-
-## Sources
+- [[T052 — MacIntyre, Alasdair]]: character as an integrated whole, from After Virtue, the page's cross-tradition echo.## Sources
 
 - [Aristotle, Nicomachean Ethics, Book VI, trans. W. D. Ross](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)
 

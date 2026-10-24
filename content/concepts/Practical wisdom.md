@@ -23,7 +23,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - [[Virtue]] — the intellectual virtue that finds the mean in particulars
 - [[Moral situation research]] — the situationist pressure on trait-based accounts of wisdom
 - [[Wisdom]] — the broader category this concept refines
-## Sources
+- [[T052 — MacIntyre, Alasdair]]: the later uses the page lists alongside the Aristotelian Phronesis Model.## Sources
 
 - [Aristotle, Nicomachean Ethics, trans. D. P. Chase, Project Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.txt) — the Book VI Good-in-Counsel and particular-details passages quoted verbatim
 - Aristotle, Nicomachean Ethics VI.5

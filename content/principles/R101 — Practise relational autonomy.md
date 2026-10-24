@@ -42,3 +42,6 @@ Depending on other people does not settle whether you can make decisions for you
 
 - **[[Relational autonomy|Relational autonomy]]** (Nedelsky, "Reconceiving Autonomy"; Mackenzie and Oshana, "Relational Autonomy")
 - **[[Autonomy|Autonomy]]** (Kant, Groundwork of the Metaphysics of Morals)
+
+## Related concepts
+- [[T052 — MacIntyre, Alasdair]]: the tradition-shaped self of After Virtue behind the page's story link.
