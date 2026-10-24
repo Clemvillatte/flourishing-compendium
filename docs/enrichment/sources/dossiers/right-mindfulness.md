@@ -138,6 +138,18 @@ Thanissaro fragments, all FULL MATCH, checker exit 0 (50 card
 links, 11 headers, 6 external carriers). Both mirrors confirmed
 current with their dossiers of record.
 
+## Full verification pass (T+48, session clock)
+
+Both dossiers of record were re-verified against raw carrier text by
+the 08:12:52Z reading: right-action.md, twelve blockquotes, checker
+exit 0 (64 card links, 14 headers, 12 external carriers);
+right-mindfulness.md, six blockquotes, checker exit 0 (49 card
+links, 11 headers, 6 external carriers). The story narratives were
+verified against their carriers: the MN 118 sixteen-step progression
+(the restored ST068), the MN 10 hindrance present/absent formula
+(ST074), the Ud 1.10 Bahiya wording (ST061), and the Thanissaro
+essay's inline fragments. All FULL MATCH.
+
 ## Story-carrier verification (pass 11)
 
 Per the advisor's round-4 review, the newly added story loglines
