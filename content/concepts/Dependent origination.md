@@ -7,15 +7,15 @@ file: "Dependent origination"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-"Dependent origination" (paṭiccasamuppāda) is the early Buddhist teaching that things arise in dependence on conditions. The canonical statement is the twelve-link chain of SN 12.1:
+"Dependent origination" (paṭiccasamuppāda) is the early Buddhist teaching that things arise in dependence on conditions ([SN 12.1, SuttaCentral](https://suttacentral.net/sn12.1/en/sujato)). The canonical statement is the twelve-link chain of SN 12.1 ([SN 12.1, SuttaCentral](https://suttacentral.net/sn12.1/en/sujato)):
 
 > "Ignorance is a requirement for choices. Choices are a requirement for consciousness. Consciousness is a requirement for name and form. Name and form are requirements for the six sense fields. The six sense fields are requirements for contact. Contact is a requirement for feeling. Feeling is a requirement for craving. Craving is a requirement for grasping. Grasping is a requirement for continued existence. Continued existence is a requirement for rebirth. Rebirth is a requirement for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be."
 >
 > (SN 12.1, Paṭiccasamuppādasutta, tr. Bhikkhu Sujato, [SuttaCentral](https://suttacentral.net/sn12.1/en/sujato))
 
-The same sutta also describes the cessation of suffering: "That is how this entire mass of suffering ceases" ([SN 12.1, SuttaCentral](https://suttacentral.net/sn12.1/en/sujato)). SN 12.1 thus sets out conditions for the arising of suffering and conditions for its cessation.
+The same sutta also describes the cessation of suffering: "That is how this entire mass of suffering ceases" ([SN 12.1, SuttaCentral](https://suttacentral.net/sn12.1/en/sujato)). SN 12.1 thus sets out conditions for the arising of suffering and conditions for its cessation ([SN 12.1, SuttaCentral](https://suttacentral.net/sn12.1/en/sujato)).
 
-Read forward, the chain says suffering has a structure: it is produced, link by link, by conditions that can be named. The sutta's second half describes the cessation of the same conditions: "When ignorance fades away and ceases no residue left behind, choices cease," and with them the rest of the sequence down to old age and death ([SN 12.1, SuttaCentral](https://suttacentral.net/sn12.1/en/sujato)).
+Read forward, the chain says suffering has a structure: it is produced, link by link, by conditions that can be named ([SN 12.1, SuttaCentral](https://suttacentral.net/sn12.1/en/sujato)). The sutta's second half describes the cessation of the same conditions: "When ignorance fades away and ceases no residue left behind, choices cease," and with them the rest of the sequence down to old age and death ([SN 12.1, SuttaCentral](https://suttacentral.net/sn12.1/en/sujato)).
 
 ### Nagarjuna's reading
 
@@ -28,7 +28,7 @@ Centuries later Nagarjuna made dependent origination the hinge of his Middle Way
 >
 > (Mulamadhyamakakarika 1.1, [Garfield translation, Archive.org full text](https://archive.org/stream/NagarjunaTheFundamentalWisdomOfTheMiddleWay/Nagarjuna%20-%20The%20Fundamental%20Wisdom%20Of%20The%20Middle%20Way_djvu.txt))
 
-The verse does not say that nothing arises. Garfield's commentary describes the phenomena as conventionally real and empty of inherent existence: emptiness is "the Buddhist technical term for the lack of independent existence, inherent existence, or essence in things" ([Garfield translation, Archive.org full text](https://archive.org/stream/NagarjunaTheFundamentalWisdomOfTheMiddleWay/Nagarjuna%20-%20The%20Fundamental%20Wisdom%20Of%20The%20Middle%20Way_djvu.txt)). Things arise, but only dependently, and that, Nagarjuna argues, is just what emptiness means:
+The verse does not say that nothing arises ([Garfield translation, Archive.org full text](https://archive.org/stream/NagarjunaTheFundamentalWisdomOfTheMiddleWay/Nagarjuna%20-%20The%20Fundamental%20Wisdom%20Of%20The%20Middle%20Way_djvu.txt)). Garfield's commentary describes the phenomena as conventionally real and empty of inherent existence: emptiness is "the Buddhist technical term for the lack of independent existence, inherent existence, or essence in things" ([Garfield translation, Archive.org full text](https://archive.org/stream/NagarjunaTheFundamentalWisdomOfTheMiddleWay/Nagarjuna%20-%20The%20Fundamental%20Wisdom%20Of%20The%20Middle%20Way_djvu.txt)). Things arise, but only dependently, and that, Nagarjuna argues, is just what emptiness means ([Garfield translation, Archive.org full text](https://archive.org/stream/NagarjunaTheFundamentalWisdomOfTheMiddleWay/Nagarjuna%20-%20The%20Fundamental%20Wisdom%20Of%20The%20Middle%20Way_djvu.txt)):
 
 > "Whatever is dependently co-arisen  
 > That is explained to be emptiness.  
