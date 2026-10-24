@@ -130,3 +130,13 @@ The unchanged Practice section of BE039 says CBT-I “has no side effects.” Th
 ## Meals/gratitude/boredom milestone review
 
 Advisor `p1s_meals_gratitude_boredom_milestone_qc_mvly9rvs`: B169 and B113 scoped PASS; independently confirmed B181 quotation on printed p. 103 using actual PDF boundaries. Two required B181 precision edits applied: use the author's stated training purpose, and describe Eastwood's quoted phrase as their account of the universal conceptualisation before their attentional proposal. The quote itself is unchanged. Inherited parallels/reflections remain excluded.
+
+Follow-up: same advisor re-inspected both edited B181 lines and issued scoped clearance/PASS, with no remaining required changes and no claim of a fresh refetch.
+
+## P177: a working aim, not a promise of success
+
+- Opened unprompted: [Dewey, Human Nature and Conduct, III.VI, The Nature of Aims](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-6), complete chapter. Search: Dewey/ends-in-view/mariner/stars.
+- Both retained quotations checked verbatim against the opened chapter, with the already marked ellipsis separating two passages. The mariner sentence is exact. The newly included ethical warning about ignored collateral effects is explicit later in the same chapter.
+- Expanded the very short, procedural Plain words into an explanation using an essay's paragraph, evidence and transitions. Kept the distinction between Dewey's philosophy and the compendium's process-goal application; no guarantee that outcomes automatically follow.
+- Example has competing present tasks, reader feedback as selection and retaining feedback as a habit. No universal page-count or productivity claim asserted.
+- Read Means-end continuity and Ends-in-view; end-in-view mention sweep. Both already backlink P177, so the new Ends-in-view forward link closes an existing relation without a reciprocal proposal. Other thinkers and process-focus empirical parallels remain inherited, not independently certified.

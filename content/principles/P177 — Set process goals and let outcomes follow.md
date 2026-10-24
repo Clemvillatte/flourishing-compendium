@@ -18,11 +18,22 @@ In Human Nature and Conduct, John Dewey describes aims as foreseen consequences 
 
 (Abridged; both passages sit in the same section of Part III.)
 
-Dewey illustrates with a mariner: "A mariner does not sail towards the stars, but by noting the stars he is aided in conducting his present activity of sailing." He warns that ends regarded as literally ends to action, rather than as directive stimuli to present choice, are "frozen and isolated." The compendium applies this account by asking how a desired result should guide present choices and when the plan should be reconsidered.
+Dewey illustrates with a mariner: "A mariner does not sail towards the stars, but by noting the stars he is aided in conducting his present activity of sailing." ([Same section](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-6).) His [warning](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-6) is also ethical: fastening on one desired consequence can hide other consequences of the means used.
 
-**Plain words** What action does your aim suggest now? After acting, reconsider what to do next.
+The compendium's process-goal application does not discard results or guarantee they will follow. An anticipated result helps select present work; what happens supplies reasons to revise it.
 
-*For example:* A runner keeps a target race time in view and plans four training sessions for the week. After a session, she reviews what happened before deciding on the next one.
+**Plain words**
+Wanting to publish an essay can tell you why today's paragraph matters. It cannot tell you in advance whether the essay will be accepted. A useful working goal brings the ambition close enough to act on: clarify a claim, check its evidence, or fix a confusing transition. The result still matters, but it also gives you something to learn from.
+
+For example: An essayist compares drafting more pages with revising one disputed claim. A reader's feedback shows that the claim is the obstacle, so she chooses revision and checks the next draft against the same question. She keeps the feedback habit, rather than treating a page-count target as proof of progress.
+
+## Sources
+
+- [John Dewey, Human Nature and Conduct, Part III, VI: The Nature of Aims](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-6) — ends-in-view, the mariner, and the danger of ignoring collateral consequences
+
+## Related concepts
+
+- [[Ends-in-view]] — anticipated consequences used as guides within present action, rather than fixed guarantees.
 
 ## Psychology parallels
 
