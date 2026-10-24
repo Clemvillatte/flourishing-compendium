@@ -158,3 +158,9 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 [ST122 — Augustine's Threefold Present](https://clemvillatte.github.io/flourishing-compendium/#card=ST122%20%E2%80%94%20Augustine%27s%20Threefold%20Present): Augustine's account of the present as a triple structure, a present of things past, of things present and of things future, with attention the one of the three that is lived in.
 
 [ST071 — The Wind and the Flag](https://clemvillatte.github.io/flourishing-compendium/#card=ST071%20%E2%80%94%20The%20Wind%20and%20the%20Flag): two monks argue whether the flag or the wind is moving; Huineng says it is not the wind or the flag, their minds are moving, the Chan tradition's sharpest statement on where events happen.
+
+[ST069 — The Four Foundations](https://clemvillatte.github.io/flourishing-compendium/#card=ST069%20%E2%80%94%20The%20Four%20Foundations): the sutta opens by calling its practice the direct path for the purification of beings, then lays out the four frames of reference, body, feelings, mind and mental qualities.
+
+[ST068 — The Sixteen Steps of the Breath](https://clemvillatte.github.io/flourishing-compendium/#card=ST068%20%E2%80%94%20The%20Sixteen%20Steps%20of%20the%20Breath): the Buddha teaches mindfulness of breathing in sixteen steps through four tetrads, long and short breaths before the whole body, joy and the mind, impermanence and relinquishment; the sequence is the point, nothing is skipped.
+
+[ST075 — The Monkey Tied to the Post](https://clemvillatte.github.io/flourishing-compendium/#card=ST075%20%E2%80%94%20The%20Monkey%20Tied%20to%20the%20Post): a monkey ranges a whole forest until it is caught and tied to a post, and stays; the mind given a single object worth staying near does the same, and the monkey is not broken, it just needs somewhere to stand.
