@@ -1,107 +1,48 @@
 # Genuine Flourishing
 
 > What does it actually take for a life to go well, and how is the genuine article told apart from its counterfeits?
+Flourishing is a flower word. It enters English from the Old French florir and the Latin flōrēre, to bloom, from flōs, flower:
 
-Flourishing is what the word's root suggests: a life in bloom. The genuine article is harder to pin down than the feeling of it, because a life can look well and feel well and still be running on something that will not hold. The classical accounts, the science that grew out of them, and the practices they both point to all circle one problem: telling a life that is going well from one that only looks or feels that way, and moving a life toward the first.
+> "From Middle English floryschen, from Old French florir (via the arrhizotonic stem floriss-), from Late Latin flōrīre, from Latin flōrēre, from Latin flōrem ("flower", noun). Corresponds to flower + -ish." ([Wiktionary, "flourish"](https://en.wiktionary.org/wiki/flourish)): Primary text; quoted passages checked.
+
+The etymology is not decoration; it is the oldest theory attached to the word. A plant in bloom is not resting, not decorating and not succeeding at anything. It is doing what its nature builds toward when conditions allow, which is why people reach for this word rather than success or pleasure when they mean a life going well at its root. What the word suggests at first glance is close to what it is usually taken to mean: feeling good, doing well, the life that photographs well in summer.
+
+Then the trouble starts, because half of the first-glance meanings are counterfeits, and the traditions disagree about which half. The feeling of a life going well can be bought cheaply. The thing itself, most of the classical accounts insist, cannot, and the science that measured the feeling kept finding the same gap from the other side.
+
+Genuine carries the second thread. In ordinary use it means the real thing as against the counterfeit. Its root is lineage: borrowed from the Latin genuīnus, from genus, a word whose senses run from birth, origin, lineage and descent to kind and type, itself from a root meaning to produce, to beget:
+
+> "Borrowed from Latin genuīnus, from genus + -ūs." ([Wiktionary, "genuine"](https://en.wiktionary.org/wiki/genuine)): Primary text; quoted passages checked.
+
+> "From Proto-Italic *genos, from Proto-Indo-European *ǵénh₁os n ("race"), from the root *ǵenh₁- ("to produce, beget")" ([Wiktionary, "genus" (Latin)](https://en.wiktionary.org/wiki/genus#Latin)): Primary text; quoted passages checked.
+
+To be genuine is, in the word's own history, to be of one's own stock: true to what one is rather than grafted onto an appearance. The two halves of the title together name the problem the theme carries: a life in bloom, and that bloom being the life's own rather than borrowed, forced or displayed. Everything I have gathered on the theme turns out to answer one of the four questions that problem breaks into: what the good life is, what gets mistaken for it, what it is made of and what it costs, and how it is built.
 
 The large question, what a good life consists of, lives here; the affective state and its research, how pleasant feelings behave, why they fade, why they slip away when chased, lives with Happiness. The two overlap, and the overlap is a live scholarly dispute. Hedonic adaptation and the pleasant feeling itself sit mainly with Happiness; what a life is for, what it needs and what it must not be confused with sit here.
 
 ### Nearby terms
 
-- Happiness: the affective state and its research belong to the Happiness dossier on the roadmap (the registry assigns it hedonic adaptation and subjective well-being); the classical account the wiki holds is [Happiness as activity](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20activity), and the boundary is the hedonic-eudaimonic line drawn below.
+- Happiness: the affective state and its research, hedonic adaptation and subjective well-being included, live in the Happiness dossier; the classical account is [Happiness as activity](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20activity), and the boundary between the two is the hedonic-eudaimonic line drawn below.
 - Well-being: the umbrella term the science uses; its eudaimonic side is held here by [Eudaimonic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20well-being), its two-factor structure by [The two-factor model of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=The%20two-factor%20model%20of%20well-being).
 - Eudaimonia: the classical root, held by [Eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia) and the Aristotle cluster in the map.
-- Thriving: a near-synonym the compendium does not mint as its own title; the closest settled entries are [Flourishing as capability](https://clemvillatte.github.io/flourishing-compendium/#card=Flourishing%20as%20capability) and [Complete mental health model](https://clemvillatte.github.io/flourishing-compendium/#card=Complete%20mental%20health%20model).
+- Thriving: a near-synonym I do not mint as its own title; the closest settled entries are [Flourishing as capability](https://clemvillatte.github.io/flourishing-compendium/#card=Flourishing%20as%20capability) and [Complete mental health model](https://clemvillatte.github.io/flourishing-compendium/#card=Complete%20mental%20health%20model).
 
-## The map: every entry the wiki holds on flourishing
+## The map: the entries on flourishing
 
 ### What the good life is: the classical accounts
 
-[Eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia): Aristotle's term for the highest human good: a life of flourishing, of living well and doing well, rather than a passing state of mind.
+The classical account begins with a word and a question. Aristotle called the highest human good [Eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonia), a life of living well and doing well rather than a passing state of mind, and he grounded it in a thing's excellence: [Arete](https://clemvillatte.github.io/flourishing-compendium/#card=Arete) is the Greek concept of excellence, a thing's full realization of its inherent function, which in ethics becomes moral virtue, a stable disposition to feel, choose and act well, acquired through habituation ([Virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Virtue)). His argument runs through work: ask what the ergon of a human being is, as one asks it of a flute-player or a sculptor ([The function argument](https://clemvillatte.github.io/flourishing-compendium/#card=The%20function%20argument)), and the answer is that the good is activity of the soul in accordance with virtue over a complete life ([Happiness as activity](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20activity)). The definition has three load-bearing parts. Happiness is final and self-sufficient, chosen only for itself while every other good is chosen at least partly for its sake ([The sufficient good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20sufficient%20good), [Everyone desires eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Everyone%20desires%20eudaimonia)). It is an activity, something we do and not something we have. And it is not reducible to rules: it sits in the family of views that put character first rather than duties or consequences ([Virtue ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Virtue%20ethics)), virtue itself being a mean between excess and deficiency found by practical judgment and not by arithmetic ([The doctrine of the mean](https://clemvillatte.github.io/flourishing-compendium/#card=The%20doctrine%20of%20the%20mean)), guided by the capacity to see what is best in the particular case and not only in general principles ([Practical wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Practical%20wisdom)). Even the pleasure in it is earned rather than added: the pleasure a good person takes in activity consistent with virtue ([The joy of virtue](https://clemvillatte.github.io/flourishing-compendium/#card=The%20joy%20of%20virtue)).
 
-[Virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Virtue): excellence of character: a stable disposition to feel, choose and act well, acquired through habituation.
+The rivals inside the classical world kept the skeleton and changed the weights. The Epicureans put freedom from mental disturbance at the centre ([Ataraxia](https://clemvillatte.github.io/flourishing-compendium/#card=Ataraxia)) and made pleasure a settled state rather than a process ([Katastematic pleasure](https://clemvillatte.github.io/flourishing-compendium/#card=Katastematic%20pleasure)); both schools prized self-sufficiency, needing nothing external for the good life ([Autarky](https://clemvillatte.github.io/flourishing-compendium/#card=Autarky)). The Daodejing teaches that to be content and to know when to stop is to be free of danger and shame ([Contentment with sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20with%20sufficiency)). Spinoza's blessedness is the active joy that goes with the third kind of knowledge, a state of being and not a prize handed out afterward ([Blessedness](https://clemvillatte.github.io/flourishing-compendium/#card=Blessedness)). And Aristotle himself refused to let the good life be a private possession: the city exists so that people may live, and live well, together ([Common flourishing](https://clemvillatte.github.io/flourishing-compendium/#card=Common%20flourishing), [The polis](https://clemvillatte.github.io/flourishing-compendium/#card=The%20polis)), and its complete form of friendship is the one where friends love each other for their character ([Aristotelian friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Aristotelian%20friendship)).
 
-[Arete](https://clemvillatte.github.io/flourishing-compendium/#card=Arete): the Greek concept of excellence: a thing's full realization of its inherent function; in ethics, moral virtue.
-
-[Everyone desires eudaimonia](https://clemvillatte.github.io/flourishing-compendium/#card=Everyone%20desires%20eudaimonia): Aristotle's claim in Nicomachean Ethics I that every other good is chosen at least partly for the sake of happiness, while happiness is chosen only for itself.
-
-[The function argument](https://clemvillatte.github.io/flourishing-compendium/#card=The%20function%20argument): Aristotle's route from human nature to human good: ask what the work (ergon) of a human being is, as one asks it of a flute-player or a sculptor.
-
-[Happiness as activity](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20activity): for Aristotle, happiness is something we do and not something we have: an activity of the soul in accordance with virtue, over a complete life.
-
-[The sufficient good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20sufficient%20good): Aristotle's account of happiness as final and self-sufficient.
-
-[Virtue ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Virtue%20ethics): the family of views that put character first, in contrast to approaches that put duties or consequences first.
-
-[The doctrine of the mean](https://clemvillatte.github.io/flourishing-compendium/#card=The%20doctrine%20of%20the%20mean): Aristotle's account of virtue as the intermediate state between excess and deficiency, found by practical judgment and not by arithmetic.
-
-[Practical wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Practical%20wisdom): Aristotle's Book VI account of the capacity to see what is best for a human being in action, not only in general principles.
-
-[The joy of virtue](https://clemvillatte.github.io/flourishing-compendium/#card=The%20joy%20of%20virtue): Aristotle's account in Nicomachean Ethics X of the pleasure a good person takes in activity consistent with virtue.
-
-[Ataraxia](https://clemvillatte.github.io/flourishing-compendium/#card=Ataraxia): freedom from mental disturbance, the central condition of the good life in Epicurean philosophy.
-
-[Katastematic pleasure](https://clemvillatte.github.io/flourishing-compendium/#card=Katastematic%20pleasure): Epicurus's pleasure of a settled state, not of a process.
-
-[Autarky](https://clemvillatte.github.io/flourishing-compendium/#card=Autarky): self-sufficiency: the ideal of needing nothing external for the good life.
-
-[Contentment with sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=Contentment%20with%20sufficiency): the Daodejing's teaching that to be content and to know when to stop is to be free of danger and shame.
-
-[Blessedness](https://clemvillatte.github.io/flourishing-compendium/#card=Blessedness): Spinoza's beatitudo: the active joy that goes with the third kind of knowledge, a state of being and not a prize handed out afterward.
-
-[Common flourishing](https://clemvillatte.github.io/flourishing-compendium/#card=Common%20flourishing): the good Aristotle's Politics sets as the purpose of the city: living, and living well, together.
-
-[The polis](https://clemvillatte.github.io/flourishing-compendium/#card=The%20polis): the city-state; man is by nature a political animal, and the polis is prior by nature to the household and the individual.
-
-[Aristotelian friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Aristotelian%20friendship): friendship as mutually recognised goodwill; in the complete form, friends love one another for their character.
-
-One passage fixes the Aristotelian definition. It is the line the rest of the page keeps answering:
+One passage fixes the Aristotelian definition:
 
 > "if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy." ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)): Primary text; quoted passages checked.
 
 ### What the science took from it
 
-[Positive psychology](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20psychology): the turn in the discipline toward the strengths and conditions that let a life go well, alongside its long work on repairing damage.
+The science took the classical question and made it measurable, in waves. Maslow opened with the need to become what one has it in one to become ([Self-actualization (Maslow)](https://clemvillatte.github.io/flourishing-compendium/#card=Self-actualization%20%28Maslow%29)) and the claim that human needs arrange themselves in hierarchies of pre-potency ([Hierarchy of Needs Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hierarchy%20of%20Needs%20Theory)). The discipline itself turned toward the strengths and conditions that let a life go well ([Positive psychology](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20psychology)). Then came the measurement programmes. Ryff's theory-guided six dimensions of positive functioning, self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life, personal growth ([Psychological well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20well-being)), built on her founding complaint that the reigning measures had little theoretical grounding ([Holistic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Holistic%20well-being)). Ryan and Deci drew the line between the eudaimonic approach, focused on meaning, self-realization and full functioning, and the hedonic approach focused on pleasure attainment and pain avoidance ([Eudaimonic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20well-being)). Keyes operationalized mental health as positive feelings plus positive functioning, separate from but correlated with mental illness ([Complete mental health model](https://clemvillatte.github.io/flourishing-compendium/#card=Complete%20mental%20health%20model)), on the finding that the presence of mental health and the absence of mental illness are correlated but separate factors ([The two-factor model of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=The%20two-factor%20model%20of%20well-being)). Huppert and So gave flourishing a ten-feature framework and operational definition ([Flourishing scale](https://clemvillatte.github.io/flourishing-compendium/#card=Flourishing%20scale)). Seligman proposed well-being as five elements, Positive Emotion, Engagement, Relationships, Meaning, Accomplishment, which he calls a hypothesis ([PERMA model](https://clemvillatte.github.io/flourishing-compendium/#card=PERMA%20model)).
 
-[Eudaimonic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20well-being): Ryan and Deci's 2001 line: the eudaimonic approach focuses on meaning, self-realization and full functioning, set against a hedonic approach focused on pleasure attainment and pain avoidance.
-
-[Psychological well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20well-being): Ryff's theory-guided six-dimension model of positive functioning: self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life, personal growth.
-
-[Holistic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Holistic%20well-being): Ryff's 1989 opening move: the reigning measures of psychological well-being had little theoretical grounding.
-
-[Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals): in self-determination theory, goals sort into intrinsic ones (affiliation, growth, community contribution) and extrinsic ones (wealth, fame, image), with different well-being consequences.
-
-[Psychological needs theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20needs%20theory): the Deci and Ryan account of the needs whose satisfaction predicts well-being: autonomy, competence and relatedness.
-
-[Complete mental health model](https://clemvillatte.github.io/flourishing-compendium/#card=Complete%20mental%20health%20model): Keyes's operationalization of mental health as positive feelings plus positive functioning, treated as separate from, but correlated with, mental illness.
-
-[The two-factor model of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=The%20two-factor%20model%20of%20well-being): Keyes's finding that the presence of mental health and the absence of mental illness are correlated but separate factors.
-
-[Flourishing scale](https://clemvillatte.github.io/flourishing-compendium/#card=Flourishing%20scale): Huppert and So's ten-feature framework and operational definition of flourishing; the card separates it from the eight-item Flourishing Scale of Diener and colleagues.
-
-[PERMA model](https://clemvillatte.github.io/flourishing-compendium/#card=PERMA%20model): Seligman's account of well-being as five elements: Positive Emotion, Engagement, Relationships, Meaning, Accomplishment, which he calls a hypothesis.
-
-[Self-actualization (Maslow)](https://clemvillatte.github.io/flourishing-compendium/#card=Self-actualization%20%28Maslow%29): the need to become what one has it in one to become, in Maslow's 1943 statement.
-
-[Hierarchy of Needs Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Hierarchy%20of%20Needs%20Theory): Maslow's claim that human needs arrange themselves in hierarchies of pre-potency.
-
-[Psychological richness](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20richness): Oishi and Westgate's proposed third aspect of a good life: varied, interesting, perspective-changing experiences, distinct from both happiness and meaning.
-
-[Vitality](https://clemvillatte.github.io/flourishing-compendium/#card=Vitality): Ryan and Frederick's felt sense of being alive and having energy available for what one cares about.
-
-[Vital engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Vital%20engagement): Nakamura and Csikszentmihalyi's compound of absorption plus significance.
-
-[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): the state of energized focus, full involvement and enjoyment in the process of an activity.
-
-[Personal projects](https://clemvillatte.github.io/flourishing-compendium/#card=Personal%20projects): Brian Little's proposal that the quality of a life depends on whether its core projects can be pursued sustainably.
-
-[Character strengths (Peterson & Seligman)](https://clemvillatte.github.io/flourishing-compendium/#card=Character%20strengths%20%28Peterson%20%26%20Seligman%29): the 24 strengths grouped under virtue categories in Character Strengths and Virtues (2004).
-
-[Positive emotions research](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20emotions%20research): Fredrickson's broaden-and-build programme: positive emotions broaden momentary thought-action repertoires and so build lasting personal resources.
-
-[Broaden-and-build](https://clemvillatte.github.io/flourishing-compendium/#card=Broaden-and-build): Fredrickson's theory of what positive emotions are for: they broaden thought-action repertoires and build enduring resources.
-
-[Self-determined personality growth](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determined%20personality%20growth): the wiki's label for the Deci and Ryan claim that people can be proactive and engaged or passive and alienated, depending largely on social conditions.
+The science also widened the target. Goals sort into intrinsic ones, affiliation, growth, community contribution, and extrinsic ones, wealth, fame, image, with different well-being consequences ([Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals)); well-being tracks the satisfaction of the needs for autonomy, competence and relatedness ([Psychological needs theory](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20needs%20theory)); and people can be proactive and engaged or passive and alienated depending largely on social conditions ([Self-determined personality growth](https://clemvillatte.github.io/flourishing-compendium/#card=Self-determined%20personality%20growth)). The felt side of a good life got its own research: vitality, the felt sense of being alive and having energy available for what one cares about ([Vitality](https://clemvillatte.github.io/flourishing-compendium/#card=Vitality)); vital engagement, absorption plus significance ([Vital engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Vital%20engagement)); flow, energized focus and full involvement in the process of an activity ([Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow)); the quality of a life depending on whether its core projects can be pursued sustainably ([Personal projects](https://clemvillatte.github.io/flourishing-compendium/#card=Personal%20projects)); the 24 character strengths grouped under virtue categories ([Character strengths (Peterson & Seligman)](https://clemvillatte.github.io/flourishing-compendium/#card=Character%20strengths%20%28Peterson%20%26%20Seligman%29)); positive emotions broadening thought-action repertoires and building lasting personal resources ([Positive emotions research](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20emotions%20research), [Broaden-and-build](https://clemvillatte.github.io/flourishing-compendium/#card=Broaden-and-build)). And the target keeps moving: Oishi and Westgate proposed a third aspect of a good life, psychological richness, varied, interesting, perspective-changing experiences distinct from both happiness and meaning ([Psychological richness](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20richness)).
 
 Ryff's founding complaint, and what she built from it, opens the scientific side:
 
@@ -109,139 +50,27 @@ Ryff's founding complaint, and what she built from it, opens the scientific side
 
 ### What gets mistaken for it
 
-[Materialism](https://clemvillatte.github.io/flourishing-compendium/#card=Materialism): in psychology, an orientation toward money and possessions as a route to personal achievement and well-being.
-
-[Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being; the card notes the effects are small to moderate and that the "even when achieved" part rests on a later study, not the 1996 paper.
-
-[Intrinsic versus extrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20versus%20extrinsic%20goals): the distinction between goals whose pursuit meets basic psychological needs directly and goals whose value depends on other people's reactions.
-
-[Aspiration index](https://clemvillatte.github.io/flourishing-compendium/#card=Aspiration%20index): the instrument that assesses people's life goals, used in the intrinsic and extrinsic goals research.
-
-[Hedonic adaptation](https://clemvillatte.github.io/flourishing-compendium/#card=Hedonic%20adaptation): the hedonic treadmill: people adapt to good and bad changes and drift back toward a stable baseline.
-
-[Valuing happiness paradox](https://clemvillatte.github.io/flourishing-compendium/#card=Valuing%20happiness%20paradox): the finding that making happiness one's goal can reduce it; in two studies the effect ran through disappointment at one's own feelings.
-
-[The hedonic trap of seeking peak experiences](https://clemvillatte.github.io/flourishing-compendium/#card=The%20hedonic%20trap%20of%20seeking%20peak%20experiences): Mauss and colleagues' 2011 finding that valuing happiness more goes with feeling worse, mostly when circumstances are good.
-
-[The paradox of hedonism](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20hedonism): Sidgwick's finding that the impulse toward pleasure, if too predominant, defeats its own aim.
-
-[Happiness as by-product](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20by-product): Frankl's claim, after Mill, that happiness arrives as a side effect of caring about something else and dissolves once it becomes the target.
-
-[Hypercompetitiveness](https://clemvillatte.github.io/flourishing-compendium/#card=Hypercompetitiveness): Horney's construct: an exaggerated need to compete and win, with self-worth riding on the outcome.
-
-[Instrumental reason](https://clemvillatte.github.io/flourishing-compendium/#card=Instrumental%20reason): reason reduced to the choice of means, which has stopped asking whether what it pursues is worth wanting.
+The counterfeits are not random; they share a shape: a good life taken to be a feeling to be held, a number to be reached, or an image to be kept up. In psychology, materialism is an orientation toward money and possessions as a route to personal achievement and well-being ([Materialism](https://clemvillatte.github.io/flourishing-compendium/#card=Materialism)), and its goals, wealth, fame and image, correlate with lower well-being, with the card honest that the effects are small to moderate and the "even when achieved" part rests on a later study ([Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations)). The instrument behind that research assesses people's life goals directly ([Aspiration index](https://clemvillatte.github.io/flourishing-compendium/#card=Aspiration%20index)), and the distinction it measures is between goals whose pursuit meets basic psychological needs directly and goals whose value depends on other people's reactions ([Intrinsic versus extrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20versus%20extrinsic%20goals)). The hedonic treadmill runs underneath: people adapt to good and bad changes and drift back toward a stable baseline ([Hedonic adaptation](https://clemvillatte.github.io/flourishing-compendium/#card=Hedonic%20adaptation)), and making happiness one's goal can reduce it, in two studies through disappointment at one's own feelings ([Valuing happiness paradox](https://clemvillatte.github.io/flourishing-compendium/#card=Valuing%20happiness%20paradox)). Mauss and colleagues found that valuing happiness more went with feeling worse, mostly when circumstances were good ([The hedonic trap of seeking peak experiences](https://clemvillatte.github.io/flourishing-compendium/#card=The%20hedonic%20trap%20of%20seeking%20peak%20experiences)). The trap is older than the experiments: Sidgwick saw that the impulse toward pleasure, if too predominant, defeats its own aim ([The paradox of hedonism](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20hedonism)), and Frankl, after Mill, held that happiness arrives as a side effect of caring about something else and dissolves once it becomes the target ([Happiness as by-product](https://clemvillatte.github.io/flourishing-compendium/#card=Happiness%20as%20by-product)). Two character-level variants complete the picture: Horney's exaggerated need to compete and win, with self-worth riding on the outcome ([Hypercompetitiveness](https://clemvillatte.github.io/flourishing-compendium/#card=Hypercompetitiveness)), and reason reduced to the choice of means, which has stopped asking whether what it pursues is worth wanting ([Instrumental reason](https://clemvillatte.github.io/flourishing-compendium/#card=Instrumental%20reason)).
 
 ### Meaning, purpose and the hard parts
 
-[Meaning](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning): the sense that life is about something: purpose, coherence and mattering; Frankl made it the primary human drive.
-
-[The meaning of life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20meaning%20of%20life): Frankl's reversal in Man's Search for Meaning: the question cannot be answered in general, because life questions us and we answer with our conduct.
-
-[Purpose](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose): an aim or reason for carrying on, with Frankl's camp account of what a psychologist could actually do for prisoners.
-
-[Tragic optimism](https://clemvillatte.github.io/flourishing-compendium/#card=Tragic%20optimism): Frankl's name for saying yes to life in spite of what he called the tragic triad.
-
-[Post-traumatic growth](https://clemvillatte.github.io/flourishing-compendium/#card=Post-traumatic%20growth): Bonanno's finding that resilience is common, set beside Tedeschi and Calhoun's growth findings.
-
-[Resilience](https://clemvillatte.github.io/flourishing-compendium/#card=Resilience): positive adaptation in the context of adversity; Masten's conclusion is how ordinary it is.
-
-[Antifragility](https://clemvillatte.github.io/flourishing-compendium/#card=Antifragility): Taleb's third category beyond fragile and robust: the antifragile gets better under stress.
-
-[Being-toward-death](https://clemvillatte.github.io/flourishing-compendium/#card=Being-toward-death): Heidegger's stance in which a person takes ownership of finitude instead of fleeing it.
-
-[Impermanence](https://clemvillatte.github.io/flourishing-compendium/#card=Impermanence): the fact that everything that arises will pass: the cross-tradition hub, and the counterweight to any picture of flourishing as a settled possession.
-
-[Authenticity](https://clemvillatte.github.io/flourishing-compendium/#card=Authenticity): the congruent relationship between what a person presents outwardly and what they hold inwardly.
-
-[One thing necessary](https://clemvillatte.github.io/flourishing-compendium/#card=One%20thing%20necessary): Luke 10:42: a single priority beneath many demands.
-
-[Wabi-sabi](https://clemvillatte.github.io/flourishing-compendium/#card=Wabi-sabi): the Japanese aesthetic of the imperfect, impermanent and incomplete.
+The good life has hard parts, and the traditions insist they belong inside it rather than beside it. Frankl made meaning the primary human drive, the sense that life is about something: purpose, coherence and mattering ([Meaning](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning)); his reversal in Man's Search for Meaning is that the question cannot be answered in general because life questions us and we answer with our conduct ([The meaning of life](https://clemvillatte.github.io/flourishing-compendium/#card=The%20meaning%20of%20life)); purpose itself is an aim or reason for carrying on ([Purpose](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose)); and his name for saying yes to life in spite of the tragic triad is tragic optimism ([Tragic optimism](https://clemvillatte.github.io/flourishing-compendium/#card=Tragic%20optimism)). The research on adversity complicated the pathology framework: resilience as positive adaptation in the context of adversity, with Masten's conclusion being how ordinary it is ([Resilience](https://clemvillatte.github.io/flourishing-compendium/#card=Resilience)), set beside Tedeschi and Calhoun's growth findings ([Post-traumatic growth](https://clemvillatte.github.io/flourishing-compendium/#card=Post-traumatic%20growth)); and Taleb's third category beyond fragile and robust, the antifragile, gets better under stress ([Antifragility](https://clemvillatte.github.io/flourishing-compendium/#card=Antifragility)). The contemplative traditions add the horizon: Heidegger's stance in which a person takes ownership of finitude instead of fleeing it ([Being-toward-death](https://clemvillatte.github.io/flourishing-compendium/#card=Being-toward-death)); impermanence, the fact that everything that arises will pass, the cross-tradition hub and the counterweight to any picture of flourishing as a settled possession ([Impermanence](https://clemvillatte.github.io/flourishing-compendium/#card=Impermanence)); authenticity, the congruent relationship between what a person presents outwardly and what they hold inwardly ([Authenticity](https://clemvillatte.github.io/flourishing-compendium/#card=Authenticity)); a single priority beneath many demands, Luke 10:42 ([One thing necessary](https://clemvillatte.github.io/flourishing-compendium/#card=One%20thing%20necessary)); and the Japanese aesthetic of the imperfect, impermanent and incomplete ([Wabi-sabi](https://clemvillatte.github.io/flourishing-compendium/#card=Wabi-sabi)).
 
 ### The conditions: other people, society and freedom
 
-[Connectedness in well-being research](https://clemvillatte.github.io/flourishing-compendium/#card=Connectedness%20in%20well-being%20research): Diener and Seligman's 2002 study of very happy people, in whom ties to others travelled with how well life went.
-
-[The need to belong](https://clemvillatte.github.io/flourishing-compendium/#card=The%20need%20to%20belong): Baumeister and Leary's hypothesis that the drive for social attachment is a fundamental human motivation.
-
-[Social determinants of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20determinants%20of%20well-being): the idea that how people rate their lives depends heavily on the social conditions around them, not only on traits or income.
-
-[Flourishing as capability](https://clemvillatte.github.io/flourishing-compendium/#card=Flourishing%20as%20capability): Nussbaum's version of the capability approach: judge a life by the real opportunities a person has to do and be what they have reason to value.
-
-[The capabilities approach](https://clemvillatte.github.io/flourishing-compendium/#card=The%20capabilities%20approach): Sen's and Nussbaum's way of evaluating how well a life is going, and how fair a society is, by what people are able to do and be.
-
-[Positive freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20freedom): freedom as self-mastery: the presence of a self in charge of its own life, not only the absence of interference.
-
-[The common good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20common%20good): what a community owes to all its members, in the Stanford Encyclopedia's working definition.
-
-[Communitarianism](https://clemvillatte.github.io/flourishing-compendium/#card=Communitarianism): the view that human identities are largely shaped by constitutive communities.
-
-[Constitutive relationality](https://clemvillatte.github.io/flourishing-compendium/#card=Constitutive%20relationality): Sandel's thought that the self is made by its ties and not only accompanied by them.
-
-[Ubuntu](https://clemvillatte.github.io/flourishing-compendium/#card=Ubuntu): the Nguni word for humanness: a person is a person through other persons.
-
-[Te Whare Tapa Whā](https://clemvillatte.github.io/flourishing-compendium/#card=Te%20Whare%20Tapa%20Wh%C4%81): Mason Durie's Māori model of wellbeing as a meeting house with four walls, all of which must stand.
-
-[Cross-cultural variations in conceptions of happiness](https://clemvillatte.github.io/flourishing-compendium/#card=Cross-cultural%20variations%20in%20conceptions%20of%20happiness): Joshanloo's review of Western and Eastern conceptions of the good life, identifying six fundamental differences.
-
-[Cultural fit theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cultural%20fit%20theory): the claim that well-being tracks how well a person's values match the values around them; Hanel and colleagues tested it in 29 countries.
-
-[Time affluence](https://clemvillatte.github.io/flourishing-compendium/#card=Time%20affluence): the subjective sense of having enough time, with autonomy over its use, associated with well-being independently of income.
-
-[The social gradient of health](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20gradient%20of%20health): health tracks social position at every rung of the ladder, not only at the bottom.
-
-[Intergenerational responsibility](https://clemvillatte.github.io/flourishing-compendium/#card=Intergenerational%20responsibility): the duties owed to people who do not yet exist, in Jonas's account.
-
-[Digital well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Digital%20well-being): the impact of digital technologies on a life that is good for a human being.
+No account of the good life survives contact with its conditions. The very happy people in Diener and Seligman's study had strong ties to others ([Connectedness in well-being research](https://clemvillatte.github.io/flourishing-compendium/#card=Connectedness%20in%20well-being%20research)); the drive for social attachment is a fundamental human motivation ([The need to belong](https://clemvillatte.github.io/flourishing-compendium/#card=The%20need%20to%20belong)); and how people rate their lives depends heavily on the social conditions around them, not only on traits or income ([Social determinants of well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20determinants%20of%20well-being)). The capability approach carries the classical question into policy: judge a life by the real opportunities a person has to do and be what they have reason to value, in Nussbaum's version ([Flourishing as capability](https://clemvillatte.github.io/flourishing-compendium/#card=Flourishing%20as%20capability)), on the shared Sen and Nussbaum ground of evaluating how well a life is going and how fair a society is by what people are able to do and be ([The capabilities approach](https://clemvillatte.github.io/flourishing-compendium/#card=The%20capabilities%20approach)). Freedom enters as self-mastery, the presence of a self in charge of its own life and not only the absence of interference ([Positive freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20freedom)). The same thread runs through the communal accounts: what a community owes to all its members ([The common good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20common%20good)); the view that human identities are largely shaped by constitutive communities ([Communitarianism](https://clemvillatte.github.io/flourishing-compendium/#card=Communitarianism)); Sandel's thought that the self is made by its ties and not only accompanied by them ([Constitutive relationality](https://clemvillatte.github.io/flourishing-compendium/#card=Constitutive%20relationality)); the Nguni word for humanness, a person is a person through other persons ([Ubuntu](https://clemvillatte.github.io/flourishing-compendium/#card=Ubuntu)); and Mason Durie's Māori model of wellbeing as a meeting house with four walls, all of which must stand ([Te Whare Tapa Whā](https://clemvillatte.github.io/flourishing-compendium/#card=Te%20Whare%20Tapa%20Wh%C4%81)). The cross-cultural evidence cuts both ways: Joshanloo's review of Western and Eastern conceptions of the good life identifies six fundamental differences ([Cross-cultural variations in conceptions of happiness](https://clemvillatte.github.io/flourishing-compendium/#card=Cross-cultural%20variations%20in%20conceptions%20of%20happiness)), while cultural fit theory claims well-being tracks how well a person's values match the values around them, tested across 29 countries ([Cultural fit theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cultural%20fit%20theory)). The material conditions have their own entries: the subjective sense of having enough time, with autonomy over its use ([Time affluence](https://clemvillatte.github.io/flourishing-compendium/#card=Time%20affluence)); health tracking social position at every rung of the ladder and not only at the bottom ([The social gradient of health](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20gradient%20of%20health)); duties owed to people who do not yet exist, in Jonas's account ([Intergenerational responsibility](https://clemvillatte.github.io/flourishing-compendium/#card=Intergenerational%20responsibility)); and the impact of digital technologies on a life that is good for a human being ([Digital well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Digital%20well-being)).
 
 ### How it is built: growth and practice
 
-[Character development](https://clemvillatte.github.io/flourishing-compendium/#card=Character%20development): Aristotle's account of habituation: we become virtuous by doing the acts.
-
-[Virtue development research](https://clemvillatte.github.io/flourishing-compendium/#card=Virtue%20development%20research): the study of how stable virtuous traits are acquired; Sanderse on the neo-Aristotelian mechanism of habituation.
-
-[Potentiality to actuality](https://clemvillatte.github.io/flourishing-compendium/#card=Potentiality%20to%20actuality): Aristotle's distinction between a thing's capacity to become and its being in act.
-
-[Growth through practice](https://clemvillatte.github.io/flourishing-compendium/#card=Growth%20through%20practice): the Buddhist theory of change: qualities are not given but cultivated (bhavana).
-
-[Pursue becoming, not arrival](https://clemvillatte.github.io/flourishing-compendium/#card=Pursue%20becoming%2C%20not%20arrival): Maslow's own correction to his earlier framing: growth as a process active throughout life, not a far goal.
-
-[Sustainability of well-being gains](https://clemvillatte.github.io/flourishing-compendium/#card=Sustainability%20of%20well-being%20gains): whether boosts in happiness from intentional effort outlast the lift, in the Lyubomirsky, Sheldon and Schkade model.
-
-[Person-activity fit](https://clemvillatte.github.io/flourishing-compendium/#card=Person-activity%20fit): the degree to which a well-being practice suits the person doing it.
-
-[Positive activity interventions](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20activity%20interventions): simple intentional practices, such as gratitude and kindness, meant to raise well-being.
-
-[Gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Gratitude): the felt recognition of a benefit received, with Seneca and Aristotle as classical anchors.
-
-[Capitalization](https://clemvillatte.github.io/flourishing-compendium/#card=Capitalization): how you respond to others' good news predicts relationship quality (Gable and colleagues, 2004).
-
-[Self-transcendent emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transcendent%20emotions): awe, gratitude, love and peace carry the link between spirituality and well-being.
-
-[Moral exemplarism](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20exemplarism): Zagzebski's theory that morality is built from the people we find supremely admirable.
+The last classical commitment is that the good life is built, not found. Aristotle's habituation says we become virtuous by doing the acts ([Character development](https://clemvillatte.github.io/flourishing-compendium/#card=Character%20development)); the study of how stable virtuous traits are acquired continues the mechanism, with Sanderse on the neo-Aristotelian habituation account ([Virtue development research](https://clemvillatte.github.io/flourishing-compendium/#card=Virtue%20development%20research)); potentiality becomes actuality in a thing that is in act rather than merely able ([Potentiality to actuality](https://clemvillatte.github.io/flourishing-compendium/#card=Potentiality%20to%20actuality)); the Buddhist theory of change holds that qualities are not given but cultivated, bhavana ([Growth through practice](https://clemvillatte.github.io/flourishing-compendium/#card=Growth%20through%20practice)); and Maslow corrected his own earlier framing, growth as a process active throughout life rather than a far goal ([Pursue becoming, not arrival](https://clemvillatte.github.io/flourishing-compendium/#card=Pursue%20becoming%2C%20not%20arrival)). The science of practice adds findings and cautions: whether boosts in happiness from intentional effort outlast the lift, in the Lyubomirsky, Sheldon and Schkade model ([Sustainability of well-being gains](https://clemvillatte.github.io/flourishing-compendium/#card=Sustainability%20of%20well-being%20gains)); the degree to which a well-being practice suits the person doing it ([Person-activity fit](https://clemvillatte.github.io/flourishing-compendium/#card=Person-activity%20fit)); simple intentional practices such as gratitude and kindness meant to raise well-being ([Positive activity interventions](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20activity%20interventions)); the felt recognition of a benefit received, with Seneca and Aristotle as classical anchors ([Gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Gratitude)); how you respond to others' good news predicting relationship quality ([Capitalization](https://clemvillatte.github.io/flourishing-compendium/#card=Capitalization)); awe, gratitude, love and peace carrying the link between spirituality and well-being ([Self-transcendent emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transcendent%20emotions)); and Zagzebski's theory that morality is built from the people we find supremely admirable ([Moral exemplarism](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20exemplarism)).
 
 ### The thinkers
 
-[Aristotle](https://clemvillatte.github.io/flourishing-compendium/#card=T002%20%E2%80%94%20Aristotle): Greek philosopher, student of Plato and founder of the Lyceum; author of the Nicomachean Ethics, quoted above.
-
-[Ryan and Deci](https://clemvillatte.github.io/flourishing-compendium/#card=T015%20%E2%80%94%20Ryan%2C%20Richard%20M.%20and%20Deci%2C%20Edward%20L.): the self-determination theory authors, whose 2000 American Psychologist article ties motivation, development and well-being together.
-
-[Seligman](https://clemvillatte.github.io/flourishing-compendium/#card=T026%20%E2%80%94%20Seligman%2C%20Martin): director of the Positive Psychology Center at the University of Pennsylvania; in 1998, as president of the American Psychological Association, he turned the field toward what makes life worth living; author of the PERMA account.
-
-[Fredrickson](https://clemvillatte.github.io/flourishing-compendium/#card=T027%20%E2%80%94%20Fredrickson%2C%20Barbara): principal investigator of the Positive Emotions and Psychophysiology Laboratory; builder of the broaden-and-build account.
-
-[Maslow](https://clemvillatte.github.io/flourishing-compendium/#card=T029%20%E2%80%94%20Maslow%2C%20Abraham): founded humanistic psychology and gave the study of flourishing its most famous image, the hierarchy of needs.
+The people behind these accounts have cards of their own: [Aristotle](https://clemvillatte.github.io/flourishing-compendium/#card=T002%20%E2%80%94%20Aristotle), student of Plato and founder of the Lyceum, author of the Nicomachean Ethics quoted above; [Ryan and Deci](https://clemvillatte.github.io/flourishing-compendium/#card=T015%20%E2%80%94%20Ryan%2C%20Richard%20M.%20and%20Deci%2C%20Edward%20L.), whose 2000 American Psychologist article ties motivation, development and well-being together; [Seligman](https://clemvillatte.github.io/flourishing-compendium/#card=T026%20%E2%80%94%20Seligman%2C%20Martin), who as APA president in 1998 turned the field toward what makes life worth living and later proposed the PERMA account; [Fredrickson](https://clemvillatte.github.io/flourishing-compendium/#card=T027%20%E2%80%94%20Fredrickson%2C%20Barbara), builder of the broaden-and-build account; and [Maslow](https://clemvillatte.github.io/flourishing-compendium/#card=T029%20%E2%80%94%20Maslow%2C%20Abraham), who gave the study of flourishing its most famous image, the hierarchy of needs.
 
 ### The stories
 
-[143. Solon and Croesus](https://clemvillatte.github.io/flourishing-compendium/#card=ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus asks Solon who is the happiest of men; Solon names an ordinary citizen of a prosperous city who died fighting for it, and the tale warns against judging a life before it is finished.
-
-[277. Sisyphus Is Happy](https://clemvillatte.github.io/flourishing-compendium/#card=ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): Camus's conclusion about the man condemned to roll a boulder uphill forever.
-
-[279. Frankl's Meaning](https://clemvillatte.github.io/flourishing-compendium/#card=ST279%20%E2%80%94%20Frankl%27s%20Meaning): Man's Search for Meaning as memoir and theory: those who kept a reason to live endured differently.
-
-[195. Diogenes and the Sun](https://clemvillatte.github.io/flourishing-compendium/#card=ST195%20%E2%80%94%20Diogenes%20and%20the%20Sun): exiled, living in a jar, Diogenes answers that wherever he goes the sun shines.
-
-[316. How You Respond to Good News](https://clemvillatte.github.io/flourishing-compendium/#card=ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News): four ways people respond to a partner's good news.
+The stories I have collected carry the theme in narrative form: Solon refusing to call any man happy until his life is finished ([143. Solon and Croesus](https://clemvillatte.github.io/flourishing-compendium/#card=ST143%20%E2%80%94%20Solon%20and%20Croesus)); Camus's conclusion about the man condemned to roll a boulder uphill forever ([277. Sisyphus Is Happy](https://clemvillatte.github.io/flourishing-compendium/#card=ST277%20%E2%80%94%20Sisyphus%20Is%20Happy)); Frankl's account of those who kept a reason to live ([279. Frankl's Meaning](https://clemvillatte.github.io/flourishing-compendium/#card=ST279%20%E2%80%94%20Frankl%27s%20Meaning)); Diogenes answering that wherever he goes the sun shines ([195. Diogenes and the Sun](https://clemvillatte.github.io/flourishing-compendium/#card=ST195%20%E2%80%94%20Diogenes%20and%20the%20Sun)); and the four ways people respond to a partner's good news ([316. How You Respond to Good News](https://clemvillatte.github.io/flourishing-compendium/#card=ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News)).
 
 ## Where the traditions genuinely disagree
 
@@ -303,7 +132,7 @@ Its goal research adds that the content of what a person pursues matters. In a o
 
 ::Variation:: What tends to need varying on this theme is the aim itself. The counterfeits share a shape: a good life taken to be a feeling to be held, a number to be reached, or an image to be kept up. The adaptive direction is toward the aim the classical and scientific accounts keep returning to: activity that uses a person's capacities, goals that meet real needs, ties to other people, and a sense of what the life is for.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The kernels I have selected as sources of that variation:
 
 1. [Values clarification](https://clemvillatte.github.io/flourishing-compendium/#card=K149%20%E2%80%94%20Values%20clarification): write what the life should stand for, as directions and not goals, across work, relationships, body, growth and community.
 
@@ -345,7 +174,7 @@ The evidence limits are uneven across the list. The evening examination is a Sto
 
 ## Story: the stories that carry the theme
 
-The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
+The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### What the good life is: the classical accounts
 

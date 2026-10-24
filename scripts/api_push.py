@@ -6,10 +6,13 @@ flaky. Mirrors `git push origin HEAD:main` for commits whose diff vs
 origin/main touches files (no merges, no deletions of remote-only files).
 
 Usage: python3 scripts/api_push.py [max_tries]
-Reads the token from the origin remote URL. Exits 0 when origin/main == HEAD.
+Reads legacy authentication from the origin URL, or uses host-scoped proxy
+authentication with --credential-proxy. Never copies proxy credentials.
+Exits 0 when origin/main == HEAD.
 """
 import base64
 import json
+import os
 import re
 import subprocess
 import sys
@@ -18,6 +21,12 @@ import urllib.request
 
 REPO = "Clemvillatte/flourishing-compendium"
 API = f"https://api.github.com/repos/{REPO}/git"
+PROXY_AUTH = "--credential-proxy" in sys.argv
+GIT_ENV = dict(os.environ)
+if PROXY_AUTH:
+    # The credential proxy is scoped to api.github.com. Public Git reads
+    # use github.com and must not be sent through that authenticated proxy.
+    GIT_ENV.pop("HTTPS_PROXY", None)
 
 
 def token():
@@ -34,12 +43,34 @@ def token():
 
 
 def api_call(path, method="GET", body=None):
-    tok = token()
+    if PROXY_AUTH:
+        # curl supports the injected proxy authentication and CA bundle.
+        # Secrets remain in the proxy environment, never command arguments.
+        command = ["curl", "--silent", "--show-error", "--max-time", "45",
+                   "--write-out", "\n%{http_code}", "--request", method,
+                   "--header", "Accept: application/vnd.github+json",
+                   "--header", "User-Agent: api_push"]
+        payload = None
+        if body is not None:
+            command += ["--header", "Content-Type: application/json",
+                        "--data-binary", "@-"]
+            payload = json.dumps(body)
+        command.append(API + path)
+        result = subprocess.run(command, input=payload, text=True,
+                                capture_output=True, check=True)
+        response, status = result.stdout.rsplit("\n", 1)
+        return int(status), json.loads(response or "{}")
+    headers = {"Accept": "application/vnd.github+json",
+               "User-Agent": "api_push"}
+    if not PROXY_AUTH:
+        tok = token()
+        if not tok:
+            raise RuntimeError("No authentication: use --credential-proxy "
+                               "inside pplx credentials run")
+        headers["Authorization"] = f"Bearer {tok}"
     req = urllib.request.Request(
         API + path, method=method,
-        headers={"Authorization": f"Bearer {tok}",
-                 "Accept": "application/vnd.github+json",
-                 "User-Agent": "api_push"})
+        headers=headers)
     data = json.dumps(body).encode() if body is not None else None
     if data:
         req.add_header("Content-Type", "application/json")
@@ -51,13 +82,14 @@ def api_call(path, method="GET", body=None):
 
 
 def main():
-    max_tries = int(sys.argv[1]) if len(sys.argv) > 1 else 10
+    positional = [a for a in sys.argv[1:] if a != "--credential-proxy"]
+    max_tries = int(positional[0]) if positional else 10
     for attempt in range(1, max_tries + 1):
         # local state: fetch + rebase our commits onto latest origin/main first
         subprocess.run(["git", "fetch", "-q", "origin"],
-                       check=True, capture_output=True)
+                       check=True, capture_output=True, env=GIT_ENV)
         subprocess.run(["git", "pull", "-q", "--rebase", "origin", "main"],
-                       capture_output=True)
+                       capture_output=True, env=GIT_ENV)
         head = subprocess.check_output(
             ["git", "rev-parse", "HEAD"], text=True).strip()
         origin = subprocess.check_output(
@@ -129,7 +161,8 @@ def main():
         st, upd = api_call("/refs/heads/main", "PATCH",
                            {"sha": commit["sha"], "force": False})
         if st in (200, 201):
-            subprocess.run(["git", "fetch", "-q", "origin"], capture_output=True)
+            subprocess.run(["git", "fetch", "-q", "origin"],
+                           capture_output=True, env=GIT_ENV)
             print(f"pushed via API: {commit['sha'][:8]} {msg.splitlines()[0]}")
             # resync local branch to remote commit
             subprocess.run(["git", "reset", "-q", "--hard", "origin/main"],

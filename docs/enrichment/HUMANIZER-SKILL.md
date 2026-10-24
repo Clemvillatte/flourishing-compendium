@@ -28,6 +28,126 @@ seed, inherited, opened, QC.
 
 Rewrite AI-sounding text so it reads like the writer, not a chatbot. Keep what it says. Do not make anything up.
 
+## The voice of the site (owner directive, 2026-10-24)
+
+The compendium is a private place in which a thinker recorded what he
+learned, read and thought, and the connections he makes about them. It
+speaks as that person, in the first person. Reader-facing prose never
+refers to "the compendium", "the wiki" or "this page" as an institution
+or a thing with views: no "the compendium's view of X", "the wiki
+holds", "the compendium pairs", "this page approaches". Say "I": I
+hold, I pair, I read it as, my label, my page on X, my principles. Where
+an institutional phrase would carry a disclosure (a link is my own, not
+the source's), keep the disclosure and make it personal ("the link is
+mine", "my reading, not the study's protocol"). References to external
+sites (Wikipedia, Wikisource) are unaffected; they name real things.
+This rule is enforced by enrich_validate.py warnings (institutional-voice
+markers) and applies to every band, page and dossier.
+
+### The opening is chosen by the topic, not by a menu (owner directive, 2026-10-24)
+
+Banning meta-text and formulaic openers removes the old failure mode; it
+does not by itself produce good ones. The positive rule for dossier
+introductions and page bodies alike:
+
+- Build every introduction from what THIS topic actually offers: its
+  sharpest tension, its most-attested claim, its lived situation, the
+  misreading a newcomer most likely brings, a concrete study or scene,
+  or a word's history — whichever the topic genuinely has, not
+  whichever move the last dossier used. A word's history is one move
+  among several, not the house style.
+- Vary the move across dossiers. If several dossiers in a row open the
+  same way, the pattern has become a formula again and the later ones
+  must be reworked.
+- Test: an opening built from the topic's own material fails to
+  transfer — it cannot be pasted onto a different theme without
+  becoming false or empty. If an opener would fit any dossier, it fits
+  none.
+- Bodies follow the same rule: within the fixed map sections, the
+  order and emphasis come from the material (studies, stories,
+  practices, objections the tradition itself made first), not from a
+  template of sentence types. Semicolon-chained lists are not prose;
+  woven paragraphs with the links intact are.
+
+The genuine-flourishing rework is the direction reference for this
+rule, not yet the exemplar: its opening movement is exemplar-grade, its
+map sections still read as chained lists in places and are queued for
+revision.
+
+## Plain speech (owner directive, 2026-10-24)
+
+The owner's concern: much of the site's language (outside reference
+quotes) reads obscure and over-complicated, and may be an
+"arcane-sounding" filter rather than the right language carrying the
+knowledge and wisdom. Write in the words the knowledge needs, not in
+words that sound wise. The owner is explicit: do not dumb down,
+over-simplify, warp or denature the writing, knowledge and principles;
+the reader's effort is fine when the difficulty is real.
+
+The writer speaks to the layperson, and that is the standing audience.
+But the layperson's vocabulary is not a ceiling: sometimes the harder
+word conveys more truth than the common one, and then the page should
+use it and teach it in the same breath. Affect is often richer than
+emotion where the word covers states the everyday word flattens; a
+person who says "I want to be happy" is often better served by the
+thought "I want to walk a process between contentment and
+flourishing". The rule is: use the truer word when it is truer, and
+gloss it in ordinary words on first use, so the layperson leaves the
+page knowing a word they did not arrive with. Avoiding the precise word
+to sound plain, and reaching for the impressive word to sound deep,
+are the same error in opposite directions.
+
+- Prefer the everyday word when it carries the same meaning. "Know" over
+  "cognize", "start" over "initiate", "use" over "utilize". A rare word
+  earns its place only by being more precise than the plain one.
+- Keep a technical term when it is the field's own term and the page
+  introduces it in plain words (eudaimonia, sati, bhavana, akrasia); the
+  rule targets ornamental obscurity, not real terminology.
+- One idea per sentence where you can. If a sentence has to be read
+  twice, rewrite it. Long sentences are allowed when the thought is
+  genuinely long; abstraction-stacking is not ("the felt side of
+  functioning got its own constructs" is a pile, not a sentence).
+- Concrete before abstract: show the thing, the study, the person, then
+  name the category. Numbers, names and incidents are clearer than
+  frameworks.
+- Quoted passages from sources are exempt: their register is the
+  source's own and must not be touched.
+
+### How to tell real difficulty from ornamental obscurity
+
+The owner doubts that anyone, human or AI, can reliably tell genuine
+cognitive depth from pseudo-intellectual convolution. Honest position:
+no single test proves it, and a confident paraphrase can silently
+change meaning. What follows is a checking procedure, not a verdict
+machine. When in doubt, retain the original and add a plain gloss:
+nothing is denatured and no reader is left behind.
+
+1. List what must survive the edit: every claim, qualification,
+   attribution, technical distinction and stated limit in the passage.
+2. Check the source in context. Comparing two versions of your own
+   prose is not verification.
+3. Draft the plainer version.
+4. Compare claim by claim against the list from step 1: what
+   disappeared, got stronger, got narrower, or got added? A shorter
+   paraphrase that loses nothing points to ornamental wording in the
+   original; a paraphrase that only works by dropping distinctions
+   points to real difficulty in the thought.
+5. Then choose: rewrite (nothing lost), retain with a plain gloss
+   (something would be lost), or leave unchanged and flag (you cannot
+   tell what the passage says; a passage you cannot paraphrase at all
+   is not yet understood, which is a reason to investigate, never a
+   licence to call it empty).
+
+Extra probe: what difference does this distinction make? Ask for an
+example that fits and one that does not. Inability to supply examples
+is a prompt for investigation, not a dismissal.
+
+This is not a call to shrink the content. Depth stays; difficulty of
+reading does not prove depth, and ease of reading does not betray it.
+The compendium's aim is that a reader actually receives the knowledge;
+language that makes the reader work to feel the writer's wisdom is
+working against the aim.
+
 ## Why AI text sounds the way it does
 
 A language model writes whatever is most likely to come next, so by default it makes the choice that fits the widest range of readers and subjects. A human writer chooses for one reader and one subject, so their choices are uneven and specific. Every pattern below is one form of the default choice:
