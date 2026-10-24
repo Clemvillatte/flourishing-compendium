@@ -255,7 +255,7 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### Silence that answers
 
-[ST225 — Thomas More Keeps Silence](https://clemvillatte.github.io/flourishing-compendium/#card=ST225%20%E2%80%94%20Thomas%20More%20Keeps%20Silence): the Lord Chancellor refuses to take the oath and answers the court only with silence, and the silence is treated as the most eloquent answer in the room.
+[ST225 — Thomas More Keeps Silence](https://clemvillatte.github.io/flourishing-compendium/#card=ST225%20%E2%80%94%20Thomas%20More%20Keeps%20Silence): the Lord Chancellor refuses to sign the oath recognising Henry VIII's supremacy and refuses to say why: his silence, he argues, is the law's, and his conscience his own; he is executed, and his final words on the scaffold are that he dies the king's good servant, but God's first.
 
 [ST359 — Fayan Carries a Stone and Runs Out of Words](https://clemvillatte.github.io/flourishing-compendium/#card=ST359%20%E2%80%94%20Fayan%20Carries%20a%20Stone%20and%20Runs%20Out%20of%20Words): a month of new views and new reasons, each met with the same refusal, until Fayan says he has exhausted his stock of words and reason, and the awakening comes after the words run out.
 
