@@ -9496,7 +9496,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The two positions put the failure in different places. For Socrates it is always a failure of knowing; for Aristotle it is something that happens to a person who does know. The compendium's cards on akrasia, pre-commitment and temptation bundling follow the second line, and the practices below are built on it. A reader should know that one widely cited study of self-imposed deadlines as commitment devices is deliberately not quoted here: a published replication reports that its results [do not replicate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053636), and its PubMed listing shows a retraction notice dated September 2026."
+          "x": "The two positions put the failure in different places. For Socrates it is always a failure of knowing; for Aristotle it is something that happens to a person who does know. The compendium's cards on akrasia, pre-commitment and temptation bundling follow the second line, and the practices below are built on it. A reader should know that one widely cited study of self-imposed deadlines as commitment devices is deliberately not quoted here: a preprint replicating its second study reports that its results [do not replicate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053636), and its PubMed listing shows a retraction notice dated September 2026."
         },
         {
           "t": "h",

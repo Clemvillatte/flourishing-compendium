@@ -14,7 +14,7 @@ Every quotation was matched programmatically against the text of the page or sea
 
 ## Flag for supervisor
 
-- The wiki card "Commitment devices (Ariely & Wertenbroch)" rests on Ariely and Wertenbroch 2002. A replication preprint (SSRN 5053636) reports the main result does not replicate, and the PubMed listing for PMID 12009041 shows "Retraction in: Psychol Sci. 2026 Sep;37(9):665". The card was not edited (concept-band file). The dossier does not quote the study and does not list that card in the map; the card needs a retraction note and a replacement carrier (the card text itself should be re-read before any claim stands).
+- The wiki card "Commitment devices (Ariely & Wertenbroch)" rests on Ariely and Wertenbroch 2002. A replication preprint (SSRN 5053636) reports that the results of Study 2 do not replicate, and the PubMed listing for PMID 12009041 shows "Retraction in: Psychol Sci. 2026 Sep;37(9):665". The card was not edited (concept-band file). The dossier does not quote the study and does not list that card in the map; the card needs a retraction note and a replacement carrier (the card text itself should be re-read before any claim stands).
 - The Cognition dossier also holds some bias cards; this dossier holds decision research and points reasoning styles to Cognition.
 - Not opened this run, so not quoted: Tversky and Kahneman 1974 and 1979, Thaler and Sunstein, Klein 2007. Glosses for those cards follow the card openings only.
 
