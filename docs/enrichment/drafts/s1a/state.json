@@ -1714,7 +1714,22 @@
      "note": "Macy supplementary account verbatim from opened keller.txt; Dewey theory and rehearsal exercise marked NOT carried"
     }
    ]
+  },
+  "s1a-062": {
+   "status": "ready",
+   "angle": "P074: Dewey's own account of the child and the match — impulse as raw material",
+   "history": [
+    {
+     "t": "2026-10-24T14:34:09+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:34:36+00:00",
+     "to": "ready",
+     "note": "Keller/Sullivan arc verbatim from opened keller.txt; Sullivan's obedience frame kept honest; Dewey example marked NOT carried"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:34:01+00:00"
+ "updated": "2026-10-24T14:34:36+00:00"
 }
