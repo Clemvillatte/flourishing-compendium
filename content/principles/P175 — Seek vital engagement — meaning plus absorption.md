@@ -12,17 +12,17 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 175** — Seek vital engagement: meaning plus absorption
 
-In their 2003 chapter "The Construction of Meaning Through Vital Engagement," Jeanne Nakamura and Mihaly Csikszentmihalyi give this definition ([chapter in Flourishing: Positive Psychology and the Life Well-Lived, pp. 83-104](https://timothydavidson.com/Library/Books/Keyes-2003-Flourishing-Positive%20Psychology%20and%20the%20life%20well-lived/Keyes-2003-Flourishing-Positive%20psychology%20and%20the%20life%20well-lived.pdf)):
+Jeanne Nakamura and Mihaly Csikszentmihalyi describe a lasting relationship with something a person finds absorbing and significant. In "The Construction of Meaning Through Vital Engagement" ([Flourishing, 2003, pp. 83-104](https://timothydavidson.com/Library/Books/Keyes-2003-Flourishing-Positive%20Psychology%20and%20the%20life%20well-lived/Keyes-2003-Flourishing-Positive%20psychology%20and%20the%20life%20well-lived.pdf)), they write:
 
 > We will define vital engagement in this chapter as a relationship to the world that is characterized both by experiences of flow (enjoyed absorption) and by meaning (subjective significance).
 
-(Nakamura and Csikszentmihalyi, 2003, p. 87.)
+(Nakamura and Csikszentmihalyi, 2003, p. 87, [archived chapter](https://web.archive.org/web/20240415024146id_/https://timothydavidson.com/Library/Books/Keyes-2003-Flourishing-Positive%20Psychology%20and%20the%20life%20well-lived/04-Nakamura-The%20construction%20of%20meaning%20through%20vital%20engagement.pdf).)
 
-Here, meaning is subjective significance. The compendium applies the definition to choosing commitments by asking about both the experience of doing an activity and its personal importance.
+Their waiting-room crossword example explains why absorption alone is insufficient: someone can enjoy the puzzle yet care little when it ends. They also propose that significance can develop through continued involvement. A pursuit need not arrive with its lifelong meaning already settled (pp. 94-97). Their account draws on retrospective interviews with artists and scientists; they acknowledge the limits of those recollections as evidence (p. 87).
 
-**Plain words** Think about a commitment you are considering. What do you enjoy getting absorbed in? Why would you want to keep doing it? The compendium suggests using these questions when deciding what to take on.
+**Plain words** Something can hold your attention for an hour without becoming something you care about. With a lasting interest, you also care what happens to the work and want to return to it. That attachment may grow as you learn what the activity makes possible.
 
-*For example:* A programmer enjoys becoming absorbed in debugging and personally values her volunteer work for a local clinic. When offered another shift on its booking system, she considers both reasons for returning.
+*For example:* Consider a programmer volunteering on a clinic's booking system. She tries a debugging shift and a user-support shift, compares how absorbing and worthwhile each felt, then repeats the more promising one. This is a practical experiment in attention and motivation, not a tested intervention.
 
 ## Psychology parallels
 
