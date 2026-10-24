@@ -5,7 +5,6 @@
   "B172",
   "B181",
   "B190",
-  "B154",
   "B169",
   "P176",
   "P177",
@@ -32,7 +31,7 @@
   "B080",
   "B109"
  ],
- "in_progress": null,
+ "in_progress": "B154",
  "flagged": {
   "D094": "Reopened for QC: QC correction: forester clause exceeds source",
   "D103": "Reopened for QC: DDJ24 source rechecked; explain self-display rather than repeat advice",
@@ -58,7 +57,7 @@
   "P168": "Reopened for QC: QC correction: retain source period in inline quotation",
   "B017": "Reopened for QC: Apply milestone advisor corrections: verse24 wording, DN16 locator and less defensive Plain words",
   "B030": "Reopened for QC: Source-checked substantive Plain words repair: explain undertaking/training from Bodhi; retain source boundaries",
-  "B154": "Reopened for QC: QC correction: remove world's-edge overreach and example causal lesson",
+  "B154": "Reopened for QC: Ground generosity in the bodhicitta aspiration/action distinction; fresh explanation",
   "B165": "Reopened for QC: Source-checked explanation of inner/outer peace; genuine Plain words and grounded dialogue example",
   "B169": "Reopened for QC: QC correction: remove three-times-a-day universal; separate Plain words from source instruction",
   "P176": "Reopened for QC: QC correction: fix quote boundary; replace diagnostic application per advisor",
@@ -70,7 +69,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-24T05:14:36+00:00",
+ "updated": "2026-10-24T05:14:50+00:00",
  "band_done": false,
  "notes": {
   "B021 death-recovery check": "2026-10-20: owner reported the agent working on B021 died. Verified nothing lost: B021 (p1i item) content last committed f9ce31ef (2026-10-19 QC-repair batch, milestone 15); p1s no-edit light-check fcb33b61 + cross-band incident correction 5328d488 (2026-10-20 02:20-02:25, quotes re-verified, no action owed per supervisor disposition); p1s band closed cleanly 30/30 at 03:54:11Z (5bc8f460, baton released, in_progress None). B021 validates clean at HEAD. No in-flight work, no unpushed commits; nothing owed to the next agents."
