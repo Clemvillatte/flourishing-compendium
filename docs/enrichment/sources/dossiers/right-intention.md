@@ -229,3 +229,13 @@ other open question ("Is the resolve an abstention or a cultivation?")
 remains honestly open. The editorial-process sentence in the section
 intro was removed (banned meta-text). Checker exit 0: 66 card links,
 18 headers, 14 external carriers.
+
+## QC pass (worker-pplx-dos24-1025a)
+
+Verification pass on this session's additions: the Thanissaro
+(Right Mindfulness PDF) and Bodhi (waytoend.html) passages re-checked
+verbatim against the downloaded files; the section intro's now-false
+claim that both questions "can be read as compatible" was corrected
+(the less-wanting question carries the stated disagreement; the
+abstention-or-cultivation question remains open). Checker exit 0
+(66 links, 18 headers, 14 external carriers).

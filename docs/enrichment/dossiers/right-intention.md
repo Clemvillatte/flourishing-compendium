@@ -162,7 +162,7 @@ The passages below are held side by side; whether the traditions disagree about 
 
 > "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action." ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/)).
 
-These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The two questions below gather further passages I hold side by side. Each is framed around one proposition with quotations from opened carriers; in both cases the carriers can be read as compatible, and I record the open question rather than manufacturing a disagreement.
+These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The two questions below gather further passages held side by side. The first remains open, its carriers readable either way; the second carries a stated disagreement.
 
 ### Is the resolve an abstention or a cultivation?
 
