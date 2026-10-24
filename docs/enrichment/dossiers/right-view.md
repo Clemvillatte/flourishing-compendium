@@ -2,7 +2,7 @@
 
 > What is it to see rightly, and what does that seeing do to a life?
 
-Seeing is the first thing the path trains, before speech, action or effort. What makes a view right is not the opinions it contains but what its holder can discern: stress, its origination, its cessation and the way of practice leading to its cessation. The view comes in two forms, an everyday set of convictions that sides with merit, and a transcendent discernment, and it is called the forerunner because the skillful and unskillful qualities that follow track how the seeing was done.
+Right view stands first among the eight factors, and the Mahācattārīsaka Sutta calls it the forerunner: in one of right view, wrong view is abolished, and the skillful and unskillful qualities that follow track how the seeing was done. The discourse grades the view in two forms, an everyday set of convictions, there is what is given, offered and sacrificed, fruits and results of good and bad actions, this world and the next, and a transcendent discernment, noble and without effluents, that counts as a factor of the path.
 
 The stakes are ordinary. What a person takes to be real governs what they choose, which makes wrong seeing not a private error but the root the path works on first.
 
@@ -127,7 +127,7 @@ Whether this is a disagreement at all is what remains unresolved: MN 117 affirms
 
 ### Is the view a set of convictions or a direct discernment?
 
-MN 117 presents the two forms within one discourse, which is a grading rather than a disagreement between traditions; the two-forms material stays in the map above. The open question is whether any tradition actually reads the conviction set as sufficient without the discernment; no such reading is known.
+MN 117 presents the two forms within one discourse, which is a grading rather than a disagreement between traditions; the two-forms material stays in the map above. The open question is whether any tradition actually reads the conviction set as sufficient without the discernment.
 
 ### Are the truths tasks or beliefs?
 
