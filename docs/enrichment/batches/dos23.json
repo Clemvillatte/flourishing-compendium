@@ -1,22 +1,22 @@
 {
-  "batch": "dos23",
-  "done": [
-    {
-      "slug": "right-effort",
-      "worker": "worker-pplx-dos23-1025a",
-      "revision": 8,
-      "state": "publication: pending supervisor",
-      "verification": "divergence closed with verified genuine disagreement (Oaten & Cheng 2006 vs Miles et al. 2016, same-question opposition on self-control training; meta-analysis Friese et al. 2017 recorded as the in-between; all quotes verified against raw downloads; one earlier grit attempt rejected in advisor QC and recorded in the ledger); dossier_check exit 0",
-      "flags": [
-        "Flagged for supervisor: the dossier is complete and checker-clean; the registry flip is blocked on the art assignment for the twelve new planned dossiers, so right-effort stays 'planned' per the standing structural reason"
-      ],
-      "dates": {
-        "revision_8": "2026-10-24"
-      }
-    }
-  ],
-  "note": "rev8 closes the divergence requirement. Dossier and ledger are on record; publication (registry flip, fcDossiersData rebuild, artwork) is supervisor-only. The dossier must not be pushed to production data by this worker; the supervisor runs --rebuild=right-effort after the flip, per the standing pipeline.",
-  "review": [
-    "right-effort"
-  ]
+ "batch": "dos23",
+ "done": [
+  {
+   "slug": "right-effort",
+   "worker": "worker-pplx-dos23-1025a",
+   "revision": 8,
+   "state": "publication: pending supervisor",
+   "verification": "divergence closed with verified genuine disagreement (Oaten & Cheng 2006 vs Miles et al. 2016, same-question opposition on self-control training; meta-analysis Friese et al. 2017 recorded as the in-between; all quotes verified against raw downloads; one earlier grit attempt rejected in advisor QC and recorded in the ledger); dossier_check exit 0",
+   "flags": [
+    "Flagged for supervisor: the dossier is complete and checker-clean; the registry flip is blocked on the art assignment for the twelve new planned dossiers, so right-effort stays 'planned' per the standing structural reason"
+   ],
+   "dates": {
+    "revision_8": "2026-10-24"
+   }
+  }
+ ],
+ "note": "rev8 closes the divergence requirement. Dossier and ledger are on record; publication (registry flip, fcDossiersData rebuild, artwork) is supervisor-only. The dossier must not be pushed to production data by this worker; the supervisor runs --rebuild=right-effort after the flip, per the standing pipeline.\n\nTakeover audit (worker-pplx-dos24-1025a, 2026-10-24 ~T+18): the stale baton\nwas taken over, verified, and released. rev8 commit 818969f8d is pushed; the\nright-effort dossier passes dossier_check (41 links, 15 headers, 5 external\ncarriers); the ledger is on record. No worker-level work remains. Supervisor:\nregistry flip + --rebuild=right-effort when the art assignment unblocks it.",
+ "review": [
+  "right-effort"
+ ]
 }
