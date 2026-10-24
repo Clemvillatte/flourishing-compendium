@@ -14,4 +14,4 @@ Verification record for docs/enrichment/dossiers/goals.md, revision 1.
 - Only two divergences in the available time. Candidates for a revision: Mauss and colleagues on valuing a goal excessively (card only; carrier not opened), and Stoic or Buddhist treatments of aim and non-attachment (Epictetus Enchiridion 1 is already quoted in the Uncertainty dossier).
 - Not opened this run: Carver and Scheier, Oettingen, Amabile and Kramer, Emmons and King, Little. Glosses follow the card openings; the word-overlap check flagged one (progress principle), fixed.
 - Boundary with Motivation and Decision-Making dossiers as stated in Nearby terms. The Commitment devices card (Ariely and Wertenbroch) is not listed here: see the retraction flag in the Decision-Making ledger.
-- Story loglines were compressed from the openings of the story cards; the ST392 line is deliberately short because only the card's opening was read.
+- Story loglines were compressed from the openings of the story cards.

@@ -161,7 +161,7 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST301 — The Aspiration Index](https://clemvillatte.github.io/flourishing-compendium/#card=ST301%20%E2%80%94%20The%20Aspiration%20Index): Kasser and Ryan's research programme measures what people value, and people who prioritise intrinsic goals such as growth, relationships and community report higher well-being than people who prioritise money and image.
 
-[ST392 — Franklin's Speckled Axe](https://clemvillatte.github.io/flourishing-compendium/#card=ST392%20%E2%80%94%20Franklin%27s%20Speckled%20Axe): Franklin's proposed daily timetable paired two questions, beginning with what good he shall do.
+[ST392 — Franklin's Speckled Axe](https://clemvillatte.github.io/flourishing-compendium/#card=ST392%20%E2%80%94%20Franklin%27s%20Speckled%20Axe): Franklin's proposed daily timetable paired two questions, "What good shall I do this day?" and "What good have I done to-day?"
 
 
 ### Letting go and beginning again

@@ -10817,7 +10817,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST392 — Franklin's Speckled Axe](card:ST392%20%E2%80%94%20Franklin%27s%20Speckled%20Axe): Franklin's proposed daily timetable paired two questions, beginning with what good he shall do."
+          "x": "[ST392 — Franklin's Speckled Axe](card:ST392%20%E2%80%94%20Franklin%27s%20Speckled%20Axe): Franklin's proposed daily timetable paired two questions, \"What good shall I do this day?\" and \"What good have I done to-day?\""
         },
         {
           "t": "h2",
