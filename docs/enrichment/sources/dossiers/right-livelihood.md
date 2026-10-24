@@ -22,6 +22,11 @@ kept in this ledger); the Weber entry's Beruf italics removed; the
 ST313 logline re-verified against its card in a final audit (matched).
 Checker exit 0 after each change.
 
+Revision 6: the how-to-read exclusion note reworded to
+match the map (B025 and B152 were named as excluded but listed
+inline). Right speech's equivalent note was checked and is accurate
+as written.
+
 Revision 5: a duplication found in the final read-through and
 removed: ST290 and ST064 appeared in two Story-section groups (The
 livelihood redesigned and The price refused) with identical loglines;

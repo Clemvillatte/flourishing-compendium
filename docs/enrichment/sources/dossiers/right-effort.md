@@ -40,6 +40,11 @@ checked" notes removed from the two blockquotes (workflow language,
 kept in this ledger); the ST064, ST030, ST112 and ST376 loglines
 re-verified against their cards in a final audit (all matched).
 
+Revision 6: the how-to-read exclusion note reworded to
+match the map (B116 was named as excluded but listed inline); the
+note now says the principle pages are listed except where one directly
+carries a group's argument.
+
 ## Quotes and carriers, all opened this session (raw text)
 
 1. First of the four efforts, SN 45.8 (Thanissaro, Access to Insight):
