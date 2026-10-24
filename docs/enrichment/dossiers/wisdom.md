@@ -273,3 +273,43 @@ The definition leans on the person of practical wisdom to say what the mean is, 
 The evidence limits are uneven across the list. The life review (K232) borrows a method tested mostly with older adults and guided by trained facilitators, and its chapter layout is an adaptation. The distancing practices (K261, K260) lean on the experiments quoted above; the prompts in K260 are, by the card's own note, editorial questions informed by the research and not the instrument itself; the professional and role-conflict exercises are proposals and not tested protocols. Each card carries its own evidence note, and those notes are worth reading before relying on any of them.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the evening look back, or the habit of asking before assuming, or the three-day wait, has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
+
+
+## Story: the stories that carry the theme
+
+The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+
+
+### Knowing the limits of what you know
+
+[ST152 — Socrates and the Oracle](https://clemvillatte.github.io/flourishing-compendium/#card=ST152%20%E2%80%94%20Socrates%20and%20the%20Oracle): the oracle at Delphi says no one is wiser than Socrates; he spends years questioning politicians, poets and craftsmen, and finds each believes they know what they do not.
+
+[ST378 — Wang Ni Says How Would I Know That Three Times](https://clemvillatte.github.io/flourishing-compendium/#card=ST378%20%E2%80%94%20Wang%20Ni%20Says%20How%20Would%20I%20Know%20That%20Three%20Times): asked whether he knows what everyone agrees on, Wang Ni answers "How would I know that?"; asked whether he then knows nothing at all, he gives the same reply.
+
+[ST261 — Nan-in Overflows the Cup](https://clemvillatte.github.io/flourishing-compendium/#card=ST261%20%E2%80%94%20Nan-in%20Overflows%20the%20Cup): a professor visits Nan-in to learn about Zen, and the master keeps pouring tea until the cup overflows: like this cup, you are full of your own opinions.
+
+[ST370 — The Blind Men and the Elephant](https://clemvillatte.github.io/flourishing-compendium/#card=ST370%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): people blind from birth are shown different parts of an elephant, each group describes the whole animal from its part, and the conflicting descriptions end in a fistfight.
+
+
+### Judging the particular case
+
+[ST158 — Solomon's Judgement](https://clemvillatte.github.io/flourishing-compendium/#card=ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant; Solomon orders it cut in two, one woman says give it to her and do not kill it, and he awards the child to her.
+
+[ST157 — The Doctor and the Dose](https://clemvillatte.github.io/flourishing-compendium/#card=ST157%20%E2%80%94%20The%20Doctor%20and%20the%20Dose): the doctor does not prescribe one regimen to everyone: what is healthful for the athlete may harm the convalescent, so the mean is what is right for this person, in this condition, at this time.
+
+[ST156 — The Navigator Reads the Sea](https://clemvillatte.github.io/flourishing-compendium/#card=ST156%20%E2%80%94%20The%20Navigator%20Reads%20the%20Sea): the practically wise person is like a navigator who cannot control the wind or the sea but reads the conditions, adjusts the sails and reaches port anyway.
+
+[ST153 — Aristotle's Craftsman](https://clemvillatte.github.io/flourishing-compendium/#card=ST153%20%E2%80%94%20Aristotle%27s%20Craftsman): the doctor does not apply a rule to a body; he brings together knowledge of the patient, the disease, the season and the means, and adjusts.
+
+[ST024 — Wheelwright Pian Chides the Duke](https://clemvillatte.github.io/flourishing-compendium/#card=ST024%20%E2%80%94%20Wheelwright%20Pian%20Chides%20the%20Duke): Wheelwright Pian tells Duke Huan that he is reading the dregs of dead men: the pace of the chisel, neither too slow nor too fast, cannot be put into words or taught to a son.
+
+
+### Wisdom and a whole life
+
+[ST143 — Solon and Croesus](https://clemvillatte.github.io/flourishing-compendium/#card=ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus shows Solon his treasury and asks who is the happiest of men; Solon names an Athenian who died fighting for his city and concludes that no one should be called happy until he is dead.
+
+[ST141 — Socrates Refuses to Escape the Question](https://clemvillatte.github.io/flourishing-compendium/#card=ST141%20%E2%80%94%20Socrates%20Refuses%20to%20Escape%20the%20Question): offered an escape from prison, Socrates refuses it: one should never do injustice, not even in return for injustice.
+
+[ST147 — Hercules at the Crossroads](https://clemvillatte.github.io/flourishing-compendium/#card=ST147%20%E2%80%94%20Hercules%20at%20the%20Crossroads): the young Hercules is visited by two women, one offering the easy road of pleasure now, the other the steep road of toil and lasting deeds, and he chooses the second.
+
+[ST172 — Thales Falls in the Well](https://clemvillatte.github.io/flourishing-compendium/#card=ST172%20%E2%80%94%20Thales%20Falls%20in%20the%20Well): Thales falls into a well while watching the stars and a servant girl laughs at him for being so eager to know the heavens that he cannot see what is at his feet.

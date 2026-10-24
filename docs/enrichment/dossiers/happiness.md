@@ -270,3 +270,44 @@ The two findings answer different questions. One is about what people mean by th
 Evidence is uneven across the list. The cards themselves flag the limits: the prosocial-spending finding has a replication history, the acts-of-kindness study counted rather than weighed, and the card on sufficiency separates the practice from gratitude journaling, which it says has mixed evidence. Read each card's own evidence note before relying on a practice.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the evening line about what is enough, or the weekly hour of play, or the habit of thanking someone by name, has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
+
+
+## Story: the stories that carry the theme
+
+The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+
+
+### What a happy life looks like
+
+[ST143 — Solon and Croesus](https://clemvillatte.github.io/flourishing-compendium/#card=ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus asks who is the happiest of men, and Solon names Tellus of Athens, who lived in a prosperous city, saw his grandchildren and died fighting for it.
+
+[ST005 — Hirayama's Perfect Days](https://clemvillatte.github.io/flourishing-compendium/#card=ST005%20%E2%80%94%20Hirayama%27s%20Perfect%20Days): Hirayama cleans public toilets in Tokyo, waters his plants, photographs the light through the trees and reads before sleep; asked why he is so content, he does not explain.
+
+[ST277 — Sisyphus Is Happy](https://clemvillatte.github.io/flourishing-compendium/#card=ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): Camus's Sisyphus pushes the boulder up the hill forever, and the conclusion is that the struggle toward the heights is enough to fill a man's heart.
+
+
+### Pleasure and its traps
+
+[ST169 — The Philosopher and the Hedonist](https://clemvillatte.github.io/flourishing-compendium/#card=ST169%20%E2%80%94%20The%20Philosopher%20and%20the%20Hedonist): in Nicomachean Ethics X, Aristotle sorts the theories of the good life: the many say pleasure, and he resolves that pleasure accompanies the end and does not constitute it.
+
+[ST170 — The Lotus-Eaters](https://clemvillatte.github.io/flourishing-compendium/#card=ST170%20%E2%80%94%20The%20Lotus-Eaters): Odysseus's scouts eat the lotus and want only to stay eating, and he drags them weeping to the ships and ties them under the benches.
+
+[ST215 — Watanabe Finds the Playground](https://clemvillatte.github.io/flourishing-compendium/#card=ST215%20%E2%80%94%20Watanabe%20Finds%20the%20Playground): Kanji Watanabe, told he has less than a year, tries the pleasures and they do not work; he pushes through a playground petition and dies on a swing in the snow.
+
+
+### Small pleasures and savoring
+
+[ST305 — Amélie's Small Pleasures](https://clemvillatte.github.io/flourishing-compendium/#card=ST305%20%E2%80%94%20Am%C3%A9lie%27s%20Small%20Pleasures): Amélie keeps a catalogue of small pleasures and secretly arranges small kindnesses for others, and finds she cannot give what she will not receive.
+
+[ST304 — Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=ST304%20%E2%80%94%20Savoring): Fred Bryant's research separates savoring, the capacity to attend to and prolong enjoyment, from positive emotion itself.
+
+[ST014 — Marie Kondo and the Spark of Joy](https://clemvillatte.github.io/flourishing-compendium/#card=ST014%20%E2%80%94%20Marie%20Kondo%20and%20the%20Spark%20of%20Joy): Marie Kondo has people hold each object and ask whether it sparks joy; if not, thank it and let it go.
+
+
+### The science of positive emotion
+
+[ST303 — Broaden and Build](https://clemvillatte.github.io/flourishing-compendium/#card=ST303%20%E2%80%94%20Broaden%20and%20Build): Fredrickson's theory holds that positive emotions broaden the repertoire of thought and action and build resources over time, while negative emotions narrow attention to the threat.
+
+[ST298 — The Positivity Ratio Falls](https://clemvillatte.github.io/flourishing-compendium/#card=ST298%20%E2%80%94%20The%20Positivity%20Ratio%20Falls): a claimed tipping-point ratio of positive to negative emotion falls in 2013 when Brown, Sokal and Friedman show the mathematics behind it was unfounded, and the empirical application was retracted.
+
+[ST138 — Flow in the Everyday](https://clemvillatte.github.io/flourishing-compendium/#card=ST138%20%E2%80%94%20Flow%20in%20the%20Everyday): Csikszentmihalyi has thousands of people paged at random moments and finds the most satisfying hours were the most absorbed, not the most pleasant.

@@ -29,7 +29,7 @@ import urllib.parse
 # Published dossiers that do not carry the Story section yet (owner-
 # directed enrichment work). Remove the slug in the same commit that
 # adds the dossier's Story section.
-STORY_MIGRATION = ['wisdom']
+STORY_MIGRATION = []
 
 CONTENT_DIRS = [
     'content/concepts', 'content/kernels', 'content/principles',
