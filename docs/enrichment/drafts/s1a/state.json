@@ -1391,7 +1391,22 @@
      "note": "advisor QC rounds 1-3 complete; all fixes applied; story_check clean"
     }
    ]
+  },
+  "s1a-041": {
+   "status": "ready",
+   "angle": "D133: China's 1958 Great Sparrow Campaign — domination of nature answered by the system it can't see",
+   "history": [
+    {
+     "t": "2026-10-24T14:04:46+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:05:56+00:00",
+     "to": "ready",
+     "note": "story_check clean; sources opened and quoted verbatim"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:04:31+00:00"
+ "updated": "2026-10-24T14:05:56+00:00"
 }
