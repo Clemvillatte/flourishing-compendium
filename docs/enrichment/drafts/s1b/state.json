@@ -638,7 +638,27 @@
      "note": "advisor round 2 applied: transcript-accurate wording, interpretation narrowed to creative fulfillment, quote placement verified against opened transcript"
     }
    ]
+  },
+  "s1b-029": {
+   "status": "ready",
+   "angle": "B122 two truths: Xuanzang Mo-Kia-Yen crossing (Beal Life of Hiuen-Tsiang), quotes verified verbatim against opened archive.org text",
+   "history": [
+    {
+     "t": "2026-10-24T14:29:14+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:29:14+00:00",
+     "to": "qc_pending",
+     "note": "first draft; advisor QC round pending"
+    },
+    {
+     "t": "2026-10-24T14:31:36+00:00",
+     "to": "ready",
+     "note": "advisor round 1 applied: narrowed to demonstrated point, Heart Sutra opened and cited, context verified against unabridged text"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:25:40+00:00"
+ "updated": "2026-10-24T14:31:36+00:00"
 }
