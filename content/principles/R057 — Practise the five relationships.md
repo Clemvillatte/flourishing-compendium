@@ -40,3 +40,6 @@ The historical scheme includes unequal ranks and separate marital functions; a c
 - [The Doctrine of the Mean, chapter 20, translated by James Legge, Sacred Texts Archive](https://sacred-texts.com/cfu/conf3.htm): five duties and cultivation of the agent's character.
 - [Mencius, IIIA.4, Teng Wen Gong I, translated by James Legge, Chinese Text Project](https://ctext.org/mengzi/teng-wen-gong-i): exact excerpt and distinct relational demands.
 - [Ryan and Deci, Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being (2000), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11392867/): the three-needs framework.
+
+## Related concepts
+- [[T055 — Mencius]]: the wulun duties the page carries alongside the Doctrine of the Mean's list.

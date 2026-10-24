@@ -33,8 +33,7 @@ The compendium reads the figure as the answer to the question "who should I beco
 ## Related concepts
 
 - [[Confucian duty]]
-
-## Sources
+- [[T055 — Mencius]]: the Sayings of Mencius in the edition the page's Analects citation carries.## Sources
 
 - [Confucius, The Analects, in Chinese Literature: Comprising the Analects of Confucius, the Sayings of Mencius, the Shi-King, the Travels of Fâ-Hien, and the Sorrows of Han, ed. Epiphanius Wilson, Project Gutenberg #10056](https://www.gutenberg.org/cache/epub/10056/pg10056.txt) — the archery, meal, and neighbors passages, opened and quoted verbatim
 - Confucius, Analects

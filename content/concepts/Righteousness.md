@@ -28,8 +28,7 @@ Mencius is explicit that the capacity is not the sages' private property. Of the
 - [[Rectification of the mind]] — the Great Learning's step of setting the mind right
 - [[Filial piety]] — the family virtue of the same classical corpus
 - [[Responsibility]] — the Aristotelian counterpart question of what is owed
-
-## Sources
+- [[T055 — Mencius]]: the Gaozi I valuing of righteousness above life the concept quotes.## Sources
 
 - Mencius, The Mencius
 - Confucius, The Analects

@@ -36,3 +36,4 @@ They are beginnings rather than finished growth, and the chapter's instruction i
 
 ## Related concepts
 - [[T033 — Haidt, Jonathan]]: the moral-foundations reading of the sprouts the page cites (Haidt, 2012).
+- [[T055 — Mencius]]: the four beginnings the principle is built on, his sprouts argument.

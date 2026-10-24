@@ -103,3 +103,4 @@ Do not say you will call someone back if you have no intention. A Confucian work
 
 ## Related concepts
 - [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).
+- [[T055 — Mencius]]: the genealogy of being trusted the page traces, from serving parents to trust.

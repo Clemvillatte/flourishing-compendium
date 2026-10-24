@@ -36,3 +36,6 @@ You notice a colleague's report credits the wrong person. You could stay quiet a
 
 - **[[Justice|Justice]]** (Aristotle, Nicomachean Ethics V; Plato, Republic)
 - **[[Righteousness|Righteousness]]** (Mencius, The Mencius)
+
+## Related concepts
+- [[T055 — Mencius]]: the 6A10 limit case the page quotes in Legge's rendering, choosing righteousness over life.

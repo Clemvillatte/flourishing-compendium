@@ -35,8 +35,7 @@ Mencius also quotes the Book of Poetry: "Be always studious to be in harmony wit
 ## Related concepts
 
 - [[The exemplary person]]
-
-## Sources
+- [[T055 — Mencius]]: the Mencian ground section, his advice to examine oneself before others.## Sources
 
 - [Mencius, The Book of Mencius, book 4, trans. James Legge](https://www.spiritualpilgrim.net/08_Classics-Library/non-western/China/book-of-Mencius-04.htm) — the Li Lou I ch. IV passages, opened and quoted verbatim
 - Mencius, on the great person's influence

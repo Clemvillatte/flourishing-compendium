@@ -30,3 +30,4 @@ Objections discussed in the entry include application (no codifiable decision pr
 - [[T052 — MacIntyre, Alasdair]]: the After Virtue revival of the Aristotelian tradition the concept carries.## Sources
 
 - Hursthouse, R., & Pettigrove, G. (2003, revised). Virtue Ethics. Stanford Encyclopedia of Philosophy. Opened at https://plato.stanford.edu/entries/ethics-virtue/
+- [[T055 — Mencius]]: the Eastern half of the tradition the concept runs from Aristotle and Plato to.

@@ -47,3 +47,6 @@ The compendium's application follows the passages: helping others do well is par
 - **[[Ren|Ren]]** (Confucius, The Analects)
 - **[[Humanity|Humanity]]** (Aristotle, Nicomachean Ethics)
 - **[[Love|Love of humanity]]** (Kant, Groundwork of the Metaphysics of Morals)
+
+## Related concepts
+- [[T055 — Mencius]]: the child-at-the-well argument from Mencius 2A6, the page's ren ground.

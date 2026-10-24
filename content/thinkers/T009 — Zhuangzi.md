@@ -261,3 +261,6 @@ The inventory lists every corpus entry that names Zhuangzi. Many of the principl
 - [Hansen, C., "Zhuangzi," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/zhuangzi/) — the biographical cautions, the composite authorship of the text, and the verbatim Hansen translations of Zhuangzi 2:14 (butterfly dream) and 3:2 (Cook Ding) quoted above; the indexical-relativism reading and the "broad but weak" characterization of the skepticism are the entry's.
 - [Littlejohn, J., "Zhuangzi," Internet Encyclopedia of Philosophy](https://iep.utm.edu/zhuangzi/) — the Sima Qian evidence for the village of Meng in the state of Song and the traditional dates 369–298 BCE.
 - The two biographical scenes are carried in this wiki by [[ST044 — The Tortoise in the Mud]] (Zhuangzi ch. 17, "Autumn Floods") and [[ST031 — Zhuangzi Drums on a Basin]] (Zhuangzi ch. 18, "Perfect Enjoyment").
+
+## Related concepts
+- [[T055 — Mencius]]: the almost exact contemporary the page's IEP dating names him as.

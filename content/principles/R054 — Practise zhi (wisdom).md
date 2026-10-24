@@ -37,3 +37,6 @@ Before advising a friend on a dispute, you admit you have only heard one side, a
 
 - **[[Phronesis|Phronesis]]** (Aristotle, Nicomachean Ethics VI)
 - **[[Practical wisdom|Practical wisdom]]** (Confucius, The Analects)
+
+## Related concepts
+- [[T055 — Mencius]]: the feeling of approving and disapproving as the root of zhi, from 2A6.

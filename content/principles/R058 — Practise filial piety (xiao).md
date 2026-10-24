@@ -29,8 +29,7 @@ Berscheid (1994) and Mikulincer et al. (2005) are cited as unopened leads. The d
 ## Related concepts
 
 - [[T013 — Seneca]]: the gratitude teaching (On Benefits) the page lists.
-
-## Sources
+- [[T055 — Mencius]]: 4A19, the service of parents as the root of all others, the page's xiao ground.## Sources
 
 - [Analects 1 and 2, Legge translation, Chinese Text Project](https://ctext.org/analects/xue-er/ens) and [Wei Zheng](https://ctext.org/analects/wei-zheng/ens)
 - [Analects 4.18, Legge translation](http://wengu.tartarie.com/wg/wengu.php?l=Lunyu&no=84)
