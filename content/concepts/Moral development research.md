@@ -7,9 +7,11 @@ file: "Moral development research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-I use "Moral development research" for the research tradition running from Kohlberg's stage theory to the moral-intuition approaches that followed. A summary of where the two meet:
+Moral development research names the tradition running from Kohlberg's stage theory to the moral-intuition approaches that followed. A summary of where the two meet:
 
 > "In line with most conventional moral theories (Gilligan, 1982; Kohlberg, 1981), MFT posits that morality includes (but is not limited to) the two domains of harm/care and fairness/reciprocity. The harm/care foundation pertains to caring for others and preventing or alleviating harm. Fairness/reciprocity is concerned about issues of justice, fair treatment of individuals and proportionality." (Culiberg, Cho, Kos Koklic and Zabkar 2022, [Journal of Business Ethics](https://pmc.ncbi.nlm.nih.gov/articles/PMC8741588/))
+
+The interesting history is in what changed. Kohlberg scored the reasoning a person gave for a judgement; the intuitionist approaches that followed, Haidt's moral foundations work chief among them, asked instead which moral concerns people actually respond to. The passage above shows the two traditions meeting: the foundations named harm/care and fairness/reciprocity are the concerns Kohlberg and Gilligan had already put at the centre. The same passage calls these two the "individualising" foundations, a label that implies others exist beyond them. For this library the tradition matters because it gives right action an empirical shape: non-harm and justice are not only commandments but measurable human concerns.
 
 ### Here
 
