@@ -781,3 +781,20 @@ All 20 section card links and every linked claim text preserved; the
 147-card multiset is identical to origin/main (Counter comparison).
 Checker exit 0 (33 headers, 133 external carriers). Remaining sections
 still need the same pass; GF stays UNAPPROVED pending owner validation.
+
+### Candidate pass 17 (continued): sections threaded in passes 2-6
+
+Same bridging standard, no new factual claims added; every linked claim
+text preserved; 147-card multiset re-verified identical after EACH pass
+(Counter comparison vs origin/main). Sections threaded: "What psychology
+chose to measure" (aim->dimensions->illness->choice of what to count),
+"Goals, energy and engagement" (needs->setting->felt side->whole-life
+projects->character->richness), "The conditions" (evidence->identity
+formation->concrete model->cultural content), "Living with what cannot
+last" (finitude->priority->beauty of the passing), "A shared world"
+(provided facilities->time and health->technology and future people),
+plus light bridges in "Meaning when life hurts", "The freedom to choose
+a life", "Judging a whole life", "Practices need to fit a life".
+Academy data rebuilt (app.js) after the passes; checker exit 0,
+node --check, readability, voice-audit, DOM-section and optional-stats
+tests all pass. GF remains UNAPPROVED pending owner validation.
