@@ -38,3 +38,6 @@ Take a response you are unhappy with, one that recurs. The question Epictetus wo
 
 - **[[Pursue becoming, not arrival|Pursue becoming, not arrival]]** (Maslow, Toward a Psychology of Being)
 - **The good life as direction** (Rogers, On Becoming a Person)
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the growth-mindset evidence the page's practice line cites (Dweck, 2006).

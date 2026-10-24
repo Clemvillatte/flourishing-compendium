@@ -54,3 +54,6 @@ The degree done to get a job versus the year of night classes that changed every
 %%
 Learning is living growingly now. What are you currently learning — and is it actually growth or just stocking?
 -->
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the Elliott and Dweck goals chapter the page's working summary quotes.

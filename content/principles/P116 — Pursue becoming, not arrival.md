@@ -49,3 +49,6 @@ The artist who declares "I've found my style" — and the style dies. What's you
 %%
 Self-actualization is a direction, not a summit. Where are you currently treating direction as destination?
 -->
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the growth goals the page's pursuit cites (Dweck, 2006).

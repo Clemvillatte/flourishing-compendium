@@ -41,3 +41,6 @@ How do you keep emulation from sliding into envy or despair? What would prevent 
 %%
 Do societies encourage emulation or only comparison? What changes between the two?
 -->
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the mastery-versus-performance goals behind the page's emulation (Dweck and Leggett, 1988).

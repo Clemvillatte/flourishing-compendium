@@ -46,3 +46,6 @@ Ryan and Deci describe how reasons for doing an activity can become more persona
 ## Practice
 
 - Do not accept "I am just not motivated" as a fixed trait. Motivation is built through: clear goals, self-efficacy, environment design, and connection to values. Start small and build.
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the modest-but-real growth-mindset effects the page's trainability line cites (Dweck).

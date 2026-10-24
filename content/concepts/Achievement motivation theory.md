@@ -49,8 +49,7 @@ Affect · Psychological science
 - [[Hope]] — Snyder's pathways-plus-agency construct
 - [[Flow]] — the challenge-skill balance concept
 - [[Approach versus avoidance motivation]] — the Elliot split of achievement motivation into approach of success and avoidance of failure
-
-## Sources
+- [[T034 — Dweck, Carol]]: the achievement-goal framework the concept's history carries (with Elliot).## Sources
 
 - [Atkinson, J. W., "Motivational determinants of risk-taking behavior" (1957), Psychological Review 64(6), 359-372](https://static1.squarespace.com/static/57309137ab48de6f423b3eec/t/588a1a9846c3c4746d0816d6/1485445785596/Atkinson1957.pdf) — the summary sentence, the fear-of-failure extremes, the intermediate-risk prediction and the entrepreneurship/achievement-motive research cited (all verified against the PDF text)
 

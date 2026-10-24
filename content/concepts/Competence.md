@@ -36,8 +36,7 @@ By way of illustration: a pianist drilled by a controlling teacher may play accu
 - [[Autonomous motivation]] — CET's condition that competence needs autonomy to enhance intrinsic motivation
 - [[Self-efficacy]] — Bandura's belief-based account of felt effectiveness (cited at second hand)
 - [[Relatedness]] — the companion need, connected to how values are internalized
-
-## Sources
+- [[T034 — Dweck, Carol]]: the goal framework whose two goal classes the concept's competence is defined by (with Elliot).## Sources
 
 - Aristotle, Nicomachean Ethics II
 - Robert W. White, "Motivation Reconsidered: The Concept of Competence," Psychological Review 66(5), 1959, p. 297 ([archive.org PDF](https://ia800108.us.archive.org/view_archive.php?archive=/24/items/wikipedia-scholarly-sources-corpus/10.1037%252Fh0034974.zip&file=10.1037%252Fh0040934.pdf)) — the 1959 definition of competence

@@ -46,8 +46,7 @@ Affect · Psychological science
 - [[Mastery orientation]] — the response pattern the incremental theory predicts
 - [[Cognitive flexibility]] — the capacity both theories presuppose
 - [[Self-efficacy]] — the control belief that keeps the theories distinct
-
-## Sources
+- [[T034 — Dweck, Carol]]: the social-cognitive model the concept quotes, implicit theories orienting goals (Dweck and Leggett).## Sources
 
 - [Dweck and Leggett 1988, A Social-Cognitive Approach to Motivation and Personality, full text](https://www.scribd.com/document/260120551/Dweck-Leggett-1988-a-Social-cognitive-Approach) — the model, the entity/incremental definitions, the goal table
 - [Dweck, Implicit Theories, 2011 chapter (PDF)](http://www.rpforschools.net/Faith/Mindset/Dweck%20Implicit%20Theories%202011.pdf) — the control-not-stability clarification, scale items, quoted verbatim

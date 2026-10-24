@@ -57,3 +57,6 @@ Can virtue be taught, or only practised? What would a school that aimed at it lo
 %%
 How do the habits of a household or classroom shape how people later treat the suffering?
 -->
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the learning-versus-performance orientation the page pairs with habituation (Dweck and Leggett, 1988).

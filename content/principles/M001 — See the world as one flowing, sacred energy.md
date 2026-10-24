@@ -37,7 +37,6 @@ One old Nahua way of seeing it: there is no stuff sitting still anywhere — one
 
 - [[Deus sive natura]] — listed for comparison
 - [[Teotl]] — the concept this principle trains
-
-## Sources
+- [[T034 — Dweck, Carol]]: the growth-mindset and impermanence literatures the page cites, with replication debates noted.## Sources
 
 - [Maffie, J. "Aztec Philosophy", Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/) — both quotations, the founding thesis and the processive-metaphysics gloss; Maffie's reconstruction of Nahua thought for the contact period.

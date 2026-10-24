@@ -52,3 +52,6 @@ The job offer: higher pay, zero learning versus lower pay, steep learning. What'
 %%
 Growth is the criterion. What's your current criterion — and is growth actually it?
 -->
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the growth-mindset persistence evidence and its effect-size caveats the page carries (Dweck, 2006).

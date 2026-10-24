@@ -47,3 +47,6 @@ Two retirees: one finished, one still becoming. Which retiree are you currently 
 %%
 The fully functioning person is a direction. What's your current direction — and are you actually moving?
 -->
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the self-concept malleability research the page's process identity cites (Dweck, 2006).

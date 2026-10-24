@@ -46,8 +46,7 @@ Its contemplative cousin is [[Right effort]], the Buddhist training that is expl
 - [[Avoidance versus attentional engagement]] — the withdrawal cycle instantiates the avoidance side of the valence split
 - [[Achievement goal theory (Dweck, Elliot)]] — the achievement-goal framework built on the approach and avoidance distinction
 - [[Achievement motivation theory]] — the approach/avoidance split of achievement motivation develops the Atkinson model's two-motive pairing
-
-## Sources
+- [[T034 — Dweck, Carol]]: the achievement-goal framework the concept's parallel line cites (with Elliot).## Sources
 
 - [Elliot, A. J. (2006). The Hierarchical Model of Approach-Avoidance Motivation. Motivation and Emotion, 30(2), 111–116](https://link.springer.com/article/10.1007/s11031-006-9028-7) — the definition quoted above
 - [Carver, C. S., & Harmon-Jones, E. (2009). Anger is an approach-related affect: evidence and implications. Psychological Bulletin, 135(2), 183–204](https://pubmed.ncbi.nlm.nih.gov/19254075/) — the anger/anxiety motivational split quoted above

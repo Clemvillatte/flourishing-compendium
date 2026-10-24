@@ -29,3 +29,9 @@ research 28, Moral dilemma research 125, Moral dilemmas 110, Moral emotions
 80); checked against HEAD, all four were already below the floor before this
 pass (pre-existing stubs, not caused by the gloss). FLAG for supervisor: these
 four concept pages need concept-enrichment passes, out of t2b scope.
+
+2026-10-24 06:32Z, worker-pplx-t2b-1024e: Dweck (T034) block complete - 33
+backlink glosses (20 principles, 12 concepts, 1 kernel), grounded in each
+page's own Dweck material (growth mindset, implicit theories with Leggett,
+achievement goals with Elliot, person- versus process-praise, Bryan et al.
+identity framing). All modified pages pass the validator.

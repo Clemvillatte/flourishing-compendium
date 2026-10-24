@@ -52,3 +52,6 @@ The boss who praises the exact behavior she wants repeated. What's your version?
 %%
 Praise what you want repeated. What's your current praise actually praising — and is it what you want more of?
 -->
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the person-praise-versus-process-praise distinction the page cites (Dweck, 2006).

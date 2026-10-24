@@ -31,8 +31,7 @@ Imagine your friend's working hours change. Discuss a new time to meet, then che
 ## Related concepts
 
 - [[T012 — Laozi]]: the fu return (Daodejing 16) behind becoming over being.
-
-## Stories
+- [[T034 — Dweck, Carol]]: the fixed-views-of-self fragility the page's becoming cites (Dweck, 2006).## Stories
 
 - [[ST096 — Heraclitus and the River|96. Heraclitus and the River]]
 - [[ST097 — Darwin and the Finches|97. Darwin and the Finches]]

@@ -49,3 +49,6 @@ The speech given to impress versus the one given to get better. What's your vers
 %%
 Growth goals beat validation goals. What's your current goal — and is it actually growth or validation?
 -->
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the social-cognitive model of goals the page's related model comes from (Dweck and Leggett, 1988).

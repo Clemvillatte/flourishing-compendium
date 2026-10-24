@@ -43,8 +43,7 @@ What the research does not cover: the mindset studies measured beliefs about att
 - [[Implicit theories of intelligence]] — the research tradition behind it
 - [[Fixed views of self]] — what the fixed label is
 - [[Narrative identity]] — the story the label sits inside
-
-## Related kernels
+- [[T034 — Dweck, Carol]]: the theory behind the reframe, Dweck and Leggett's model of implicit theories orienting goals.## Related kernels
 
 1. [[K137 — Language flexibility|K137 Language flexibility]] — the general form of this move
 2. [[K140 — The observer question|K140 The observer question]] — stepping off the label

@@ -43,3 +43,6 @@ For example: "I am a reader" gives you a reason to open a book tonight that "I s
 ## Practice
 
 - Frame goals in identity terms: "I am a person who exercises" rather than "I want to exercise." Let the identity drive the behaviour, not just the goal.
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the identity-framing experiments the page cites (Bryan, Walton, Rogers and Dweck, 2011).

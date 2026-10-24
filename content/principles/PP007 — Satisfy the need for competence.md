@@ -45,3 +45,6 @@ What happens to people who are never allowed to develop competence, such as in r
 %%
 How might you give another person, a child, a patient or a colleague, a real experience of competence?
 -->
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the mastery-orientation persistence findings and their caveats the page cites (Dweck, 2006).

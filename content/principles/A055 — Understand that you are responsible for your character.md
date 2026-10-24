@@ -47,3 +47,6 @@ Aristotle says you are responsible for your character even if upbringing shaped 
 %%
 What is the first act that could start changing a trait you dislike? Why have you not done it?
 -->
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the growth-mindset evidence the page's responsibility line cites (Dweck, 2006).

@@ -54,7 +54,7 @@ The compendium treats the fixed view as a diagnosis with an antidote. P001 build
 - [[Anatta]] — the Buddhist no-self, the deepest version of holding the self lightly
 - [[The approval trap]] — others' approval as the external contingency Crocker's scale measures
 - [[Narrative redemption sequences]] — the frozen story, the diagnostic contrast
-## Cited in psychology parallels
+- [[T034 — Dweck, Carol]]: the attribution route the concept explains, helpless patterns after failure read as fixed ability (Dweck).## Cited in psychology parallels
 
 - [[P001 — Build your life on becoming, not being]]
 - [[B126 — Hold the four views lightly]]

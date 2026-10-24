@@ -45,3 +45,6 @@ So the entry's wording "real but smaller than early popular accounts suggested" 
 ## Practice
 
 - Hold a growth orientation: treat abilities and self as developable. When facing difficulty, ask "what can I learn?" rather than "am I capable?" This is more productive than fixed self-judgment.
+
+## Related concepts
+- [[T034 — Dweck, Carol]]: the growth-mindset theory the page weighs against its mixed national-trial evidence (Dweck).

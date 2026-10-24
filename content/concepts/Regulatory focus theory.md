@@ -34,8 +34,7 @@ Eagerness and vigilance are the two strategies the theory assigns to the two foc
 - [[Achievement goal theory (Dweck, Elliot)]] — the goal-orientation research that parallels the two foci
 - [[Cognitive dissonance]] — one of the phenomena Higgins reconsiders under prevention focus
 - [[Framing effects]] — the same gain-loss wording this theory reinterprets
-
-## Sources
+- [[T034 — Dweck, Carol]]: the goal-orientation research the concept's parallels cite (with Elliot).## Sources
 
 - [Higgins, "Beyond pleasure and pain", American Psychologist 52(12), 1280–1300 (1997)](https://pubmed.ncbi.nlm.nih.gov/9414606/) — abstract
 - [Fuglestad, Volz, Joyal-Desmarais, Nydick, DeYoung & Rothman, "A New Measure of Regulatory Focus: Preventing Measurement Error by Promoting Best Validation Practices", Journal of Personality (2024) — PMC11775232](https://pmc.ncbi.nlm.nih.gov/articles/PMC11775232/) — the core sentence and the two behavioural signatures read verbatim
