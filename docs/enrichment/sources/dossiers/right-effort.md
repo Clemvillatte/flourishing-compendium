@@ -236,3 +236,14 @@ culmination" fourth direction, and the closing "This, monks, is called
 right effort") found verbatim in the opened text. The dossier's
 inherited quotes now rest on either the previous session's recorded
 carrier verification or this session's direct re-verification.
+
+## Verification pass (worker-pplx-dos24-1025a, 2026-10-24 ~T+38)
+
+All 4 quoted passages in the dossier of record were re-verified
+against opened carriers: SN 45.8 (four exertions passage verbatim;
+the carrier prints footnote markers (i)-(iv) between the sentences,
+which the dossier quote omits, normalization recorded), AN 6.55 Sona
+(full match), Oaten & Cheng 2006 (verified via Europe PMC's core
+record for PMID 17032494; the live PubMed page cookie-blocks this
+sandbox; abstract text matches verbatim), Miles et al. 2016
+(whiterose eprint, in-order fragment match). No corrections needed.
