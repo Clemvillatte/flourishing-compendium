@@ -11,6 +11,8 @@ The combined label "Delay plus reappraisal" remains unverified in the source rev
 
 > "The task of the implementation stage is to translate this general strategy (e.g., cognitive change) into tactics that are appropriate to the specific situation one is in (e.g., think about this particular rebuff as an accidental oversight rather than a deliberate insult; McRae, Ciesielski, & Gross, 2012)." (Gross, "Emotion regulation: Current status and future prospects", Psychological Inquiry 26(1): 1-26, 2015, p. 15, quoted in Isaacowitz and Wolfe, [Emotion Regulation Tactics](https://pmc.ncbi.nlm.nih.gov/articles/PMC11423774/), Emotion Review, 2024)
 
+Isaacowitz and Wolfe's framework explains why the pairing is a tactic rather than a strategy: in the extended process model, "emotion regulation is a three-stage process: (1) identifying whether or not to regulate, (2) selecting a strategy to use, and (3) implementing that strategy through a particular tactic" ([Isaacowitz and Wolfe, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11423774/)). Delay is not a strategy in that scheme; it is the first move of an implementation, a way of holding the situation open until the reappraisal can be chosen on purpose rather than in the heat. The pairing is this library's construct, not the sources'; the sources supply the parts. Delay without reappraisal is mere suppression, and reappraisal without delay is asked of a mind still flooded. Gross's example shows the shape of the second move: think about this particular rebuff as an accidental oversight rather than a deliberate insult, which is exactly what a tactic is, a move made in a specific situation.
+
 ### Here
 
 - [[D074 — Don't fight angry]]
