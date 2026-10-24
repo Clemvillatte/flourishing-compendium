@@ -243,4 +243,11 @@ Batson et al. 1988 (PubMed 3418490: empathy-altruism definition);
 Cialdini et al. 1987 (PubMed 3572736: both sentences; the abstract's
 mid-sentence "we hypothesized" is quoted with a sentence-initial
 capital, standard quotation practice, wording otherwise exact).
-No corrections needed; body unchanged.
+No corrections needed; body unchanged. (Worker note: this pass
+counted the eight blockquotes that open with a quotation mark; the
+ninth verbatim quote, Analects 14.34, opens with "Some one said" and
+is covered in the worker's pass below.)
+
+### Quote-fidelity pass (2026-10-24, 14:40Z, worker-pplx-dos16-1024a, consolidated)
+
+All nine verbatim quotes in the dossier re-verified word-for-word this session: Beckes and Coan 2011 (parts and em-dash join, against the opened PDF text); Cacioppo and Hawkley 2009 (PMC page re-fetched); Klimecki et al. 2014 (PubMed eutils re-fetch); Karaṇīya Metta Sutta (AccessToInsight re-fetched); Aristotle NE IX.10 (MIT Ross re-fetched, both parts); Matthew 5.43-44 (Biblehub re-fetched; the two verses match exactly, verse numbers elided as is standard); Batson et al. 1988 (full PubMed XML record); Cialdini et al. 1987 (PubMed eutils re-fetch, both parts); Analects 14.34 (ctext blocks crawlers; cross-verified word-for-word against Legge's translation on Gutenberg no. 4094 and sacred-texts.com, and verified earlier this session against the ctext carrier itself through the fetch tool). Two independent passes, same verdict: all quotes exact.
