@@ -474,3 +474,33 @@ Carriers fetched and read for these claims:
 - https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9 :
   Van Cappellen et al. 2016, two cross-sectional samples, statistical
   mediation involving awe/gratitude/love/peace, not a causal mechanism.
+
+### Candidate pass 5: thinkers and stories as arguments, not roll-calls
+
+Ten card links retained, biographies compressed to the distinct questions
+that bear on flourishing. Removed the false suggestion that Maslow gave
+the famous pyramid image: the 1943 article has no pyramid. New fetch:
+https://psychclassics.yorku.ca/Maslow/motivation.htm .
+Seligman's supplement/not-replacement and disabling/enabling distinction
+checked in the opened Tanner lecture:
+https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf .
+Other thinker carriers re-used from actual earlier fetches.
+
+Herodotus narrative attribution, not historical certainty:
+https://praxeology.net/hero.htm (fresh fetch Histories I.29–33).
+Camus no universal promise that sufferers can choose happiness:
+https://plato.stanford.edu/entries/camus/ (fresh fetch).
+Frankl specific future aim fetched earlier, no survival guarantee.
+Gable2004 abstract fetched earlier, no relative-bad-news predictor claim.
+
+IMPORTANT SOURCE REPAIR FLAG: ST195's "wherever he goes the sun shines"
+and Athens/Sinope agora comparison have no carrier on the card beyond
+a Wikipedia person link. Search and fresh fetch of Plutarch On Exile:
+https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/De_exilio*.html .
+7.1 has Diogenes condemning Sinopians to stay home; 6.1 has PLUTARCH
+comparing the same sky in different places; 15.1 has Alexander asked to
+move out of Diogenes' light. These are not the same anecdote.
+Dossier now uses only the supported sunlight encounter, attributed to
+Plutarch. Underlying ST195 card needs a separately tracked repair; do not
+propagate its unsupported "sun everywhere" speech. Story-section logline
+must receive the same correction before final compilation.
