@@ -5,6 +5,8 @@ eighth factor). Registry status stays 'planned'; the supervisor flips and
 publishes. Band state: right-concentration left in review-pending, not
 marked done, pending the supervisor's publication decision.
 
+Revision 3 (second advisor QC pass, same session): the seclusion-versus-engagement comparison moved out of the divergences and into the Flow map line as a related comparison with the DN 2 carrier linked on the quoted phrase; the divergence section now holds the one genuine, documented disagreement only (Visuddhimagga vs Shankman), with the "matter of debate" sentence attributed to the article's Criticism section and the citation-needed teacher claims removed; the sibling-factor line corrected (right view's dossier is still in draft); the D048 and AT031 map lines upgraded from the cards' bodies; the how-to-read paragraph now states the map's verified scope and points to the exclusion list; ST429 verified byte-identical to ST391 by diff before being called a duplicate; AN 6.55 re-verified against raw HTML fetched with curl this session. The dossier now cites three distinct external pages (DN 2, Wikipedia Flow, Wikipedia Samadhi); the checker reports 3 external carriers and 61 resolving card links.
+
 Revision 2 (advisor QC pass, same session): all card links converted to
 the site-URL format used by the published dossiers (right-speech,
 anger), so the checker now validates all 61 links; both divergences
@@ -73,7 +75,8 @@ memory of the rose-apple tree) added to the Story section.
 Fetched this session but not cited in the dossier body: the Sona
 Sutta, AN 6.55 (Thanissaro, Access to Insight,
 https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html),
-raw HTML checked for the lute-string exchange ("when the strings of
+verified against the raw HTML fetched with curl this session for the
+lute-string exchange ("when the strings of
 your vina were neither too taut nor too loose, but tuned to be right
 on pitch, was your vina in tune & playable?" and the application to
 persistence). The dossier compresses these passages into map lines 7
@@ -93,16 +96,22 @@ and mind, Y021, Y073, Y074, Y075, Y076, Y078, B028, B095, B036, B020,
 B035, B042, D048, AT016, AT025, AT026, AT027, AT031, AT042, AT047,
 AT048, AT063, D057, P118, P119, P173, MO060, PP019, T041, K100, K105,
 K190, K391, K392, K417, ST061, ST064, ST138, ST307, ST325, ST352,
-ST391. All 61 card links in the dossier were validated by
-dossier_check.py against the content files. No other cards or
-carriers are cited.
+ST391, Right view, Right intention, Right mindfulness. The D048 and
+AT031 bodies, including their supporting quotations, were read to the
+end this session; ST429 was diffed against ST391 and found identical
+except for its ID fields. All 61 card links in the dossier were
+validated by dossier_check.py against the content files. No other
+cards or carriers are cited.
 
 ## Sweeps and exclusions
 
-Title and full-text sweeps run untruncated across content/ for: right
-concentration, samadhi, jhana, collectedness, absorption, absorbed,
-one-pointedness, focus, flow, single-tasking, focused attention,
-shamatha, anapanasati, tuning, lute. Inclusions with boundary
+Sweeps actually run this session, untruncated: full-text sweeps for
+samadhi/jhana/jhanas, absorption/absorbed, concentration, collectedness
+and Sona Sutta/SN 35.204 across content/; and title (filename) sweeps
+for right concentration, samadhi, jhana, collectedness, absorption,
+focus, flow, single-tasking, one-pointedness, unification,
+focused-attention, shamatha, anapanasati, tuning, lute, and the
+principle/kernel/story families listed in the card audit below. Inclusions with boundary
 reasons, recorded for the supervisor:
 
 - Joy: Spinoza's conatus-based joy, not jhana rapture; excluded.
@@ -139,6 +148,7 @@ reasons, recorded for the supervisor:
   selection (owner's collection); no artwork was assigned in this
   dossier, per the mint note.
 - The primary-source library (docs/PRIMARY-SOURCES.md) holds owner
-  Drive folders; the carriers used here are the citable web
-  editions that library's fallback rule names (accesstoinsight,
-  sacred-texts), noted per its instruction.
+  Drive folders, which were not fetched this session; the carriers
+  used here are the citable web editions that library's fallback
+  rule names (accesstoinsight, sacred-texts). The fallback condition
+  was not tested, only avoided.

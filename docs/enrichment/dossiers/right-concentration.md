@@ -4,7 +4,7 @@
 
 This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about gathering the mind?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to loosen the grip of the scattered, forced, white-knuckle attention that modern life trains, and to replace it with a capacity that is tuned like an instrument, protected like a rare condition, and available inside ordinary activity.
 
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The map lists the principle and kernel pages this theme is built from, the ones a reader asking the concentration question would otherwise miss; the wider family of attention-titled principle pages is reachable through the concept cards that cite them and is not listed exhaustively inline, so the map stays a map. Absorption states as a research construct have their own home in the [Attention dossier](attention.md); this page keeps only what bears directly on collecting the mind.
+How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The map records the entries the sweeps surfaced and the boundary decisions that excluded the rest; the exclusions and their reasons are listed in the evidence ledger. The map lists the principle and kernel pages this theme is built from, the ones a reader asking the concentration question would otherwise miss; the wider family of attention-titled principle pages is reachable through the concept cards that cite them and is not listed exhaustively inline, so the map stays a map. Absorption states as a research construct have their own home in the [Attention dossier](attention.md); this page keeps only what bears directly on collecting the mind.
 
 ### Nearby terms
 
@@ -13,7 +13,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 - Absorption: the English word under which the jhanas and flow meet; the research construct is held at the Attention boundary above.
 - Flow: the psychological cousin, in its own group below.
 - Right effort: the lute-string tuning is the factor this page shares with [right effort](right-effort.md); the two dossiers quote the same sutta for different reasons.
-- The sibling factors: [right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view), [right intention](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20intention) and [right mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20mindfulness) each have their own card and dossier; right mindfulness carries the sati side of the collected mind, and this page keeps the samadhi side.
+- The sibling factors: [right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view), [right intention](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20intention) and [right mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20mindfulness) each have their own card, and each factor has a dossier written or in progress; right view's is still in draft on its band. Right mindfulness carries the sati side of the collected mind, and this page keeps the samadhi side.
 
 These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below.
 
@@ -77,13 +77,13 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 25. [AT048 — Learn open monitoring meditation — awareness without narrow focus](https://clemvillatte.github.io/flourishing-compendium/#card=AT048%20%E2%80%94%20Learn%20open%20monitoring%20meditation%20%E2%80%94%20awareness%20without%20narrow%20focus): the other style in the Lutz typology: non-reactive monitoring of the content of experience, moment to moment.
 
-26. [D048 — Guard the One (shouyi)](https://clemvillatte.github.io/flourishing-compendium/#card=D048%20%E2%80%94%20Guard%20the%20One%20%28shouyi%29): the Daoist guard-the-One meditation, emptiness- and stillness-based, among the oldest named practices in that tradition.
+26. [D048 — Guard the One (shouyi)](https://clemvillatte.github.io/flourishing-compendium/#card=D048%20%E2%80%94%20Guard%20the%20One%20%28shouyi%29): the Neiye's instruction, 'Hold fast to the One; do not lose it, and you will be able to master the myriad things,' with a recipe that aligns the body before it unifies the awareness.
 
 27. [Sustained attention theory](https://clemvillatte.github.io/flourishing-compendium/#card=Sustained%20attention%20theory): why the detection-ready state degrades with time on task, and the two accounts, fatigue and boredom, between which the meta-analysis declines to choose.
 
 28. [AT025 — Build concentration capacity through practice — attention is like a muscle](https://clemvillatte.github.io/flourishing-compendium/#card=AT025%20%E2%80%94%20Build%20concentration%20capacity%20through%20practice%20%E2%80%94%20attention%20is%20like%20a%20muscle): the capacity claim, with the randomized-trial framing.
 
-29. [AT031 — Cultivate attentional endurance — build capacity gradually](https://clemvillatte.github.io/flourishing-compendium/#card=AT031%20%E2%80%94%20Cultivate%20attentional%20endurance%20%E2%80%94%20build%20capacity%20gradually): the gradual build the muscle framing implies.
+29. [AT031 — Cultivate attentional endurance — build capacity gradually](https://clemvillatte.github.io/flourishing-compendium/#card=AT031%20%E2%80%94%20Cultivate%20attentional%20endurance%20%E2%80%94%20build%20capacity%20gradually): the deliberate-practice finding that full-attention practice is limited in daily duration, starts at an hour or less, and separates skill levels by years of accumulation rather than heroic sessions.
 
 30. [AT042 — Recognise the role of sleep in attention — sleep deprivation destroys concentration](https://clemvillatte.github.io/flourishing-compendium/#card=AT042%20%E2%80%94%20Recognise%20the%20role%20of%20sleep%20in%20attention%20%E2%80%94%20sleep%20deprivation%20destroys%20concentration): the bodily base the tuning teaching cannot tune around.
 
@@ -95,7 +95,7 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 ### Absorption in activity: flow and its cousins
 
-33. [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side.
+33. [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): Csikszentmihalyi's absorption in activity, energized focus, full involvement, autotelic, with the three conditions and the founder's own caution about the addictive side. Set beside the jhana's entry, entered "quite withdrawn from sensuality" ([DN 2, Thanissaro](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)), the two accounts part on the door: withdrawal versus challenge-skill engagement. The compendium keeps them as cousins and does not collapse them.
 
 34. [AT026 — Learn to enter flow — the state of full attentional absorption](https://clemvillatte.github.io/flourishing-compendium/#card=AT026%20%E2%80%94%20Learn%20to%20enter%20flow%20%E2%80%94%20the%20state%20of%20full%20attentional%20absorption): attention as the finite medium of consciousness, and what that bound places on experience.
 
@@ -125,18 +125,6 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 ## Where the traditions genuinely disagree
 
-### Must absorption come by seclusion or by engagement?
-
-The shared question: where does a person look for the absorbed state, in withdrawal from sensuality or inside demanding activity? The sutta's formula for the first jhana begins with withdrawal:
-
-> "Quite withdrawn from sensuality, withdrawn from unskillful mental qualities, he enters and remains in the first jhana: rapture and pleasure born from withdrawal, accompanied by directed thought and evaluation." ([Samaññaphala Sutta, DN 2, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html)): Primary text; the passage quoted was checked against the raw HTML of the carrier this session.
-
-Csikszentmihalyi's account of absorption gives a different entry condition, and the balance is its center:
-
-> "Good balance is required between the perceived challenges of the task and one's perceived skills. Confidence in the ability to complete the task is required." ([Flow (psychology), Wikipedia](https://en.wikipedia.org/wiki/Flow_(psychology))): Secondary; the three conditions were checked against the raw HTML of the article this session.
-
-The two positions part on the door: the jhana is entered by withdrawal from sensuality, the flow state by a challenge that matches skill inside the activity. What remains unresolved is whether the two accounts describe one absorbed capacity reached by different doors, or different states that share an English word. The compendium holds them as cousins on separate cards and does not collapse them.
-
 ### Is the collected mind fixed on one point or gathered into a whole field?
 
 The shared question: what does collecting the mind do to the field of awareness? The Theravada commentarial tradition's definition, in Buddhaghosa's Visuddhimagga, fixes the mind on a single object:
@@ -145,7 +133,7 @@ The shared question: what does collecting the mind do to the field of awareness?
 
 Shankman's reading of the same family of terms holds a wider option inside the same word. Samadhi "basically means 'undistractedness'"; it may be viewed as "an exclusive focus on a single object," but also as "a broader state of awareness in which the mind remains steady and unmoving, yet aware of a wide range of phenomena around the meditation object." The same source renders citt'ekaggata both as "one-pointedness," fixated on a single object, and as "unification of mind," in which mind becomes very still but does not merge with the object of attention, and is thus able to observe and gain insight into the changing flow of experience. ([Wikipedia, Samadhi, quoting Richard Shankman](https://en.wikipedia.org/wiki/Samadhi)): Secondary; the passages were checked against the raw HTML of the article this session.
 
-The disagreement is real and live: the article's own next sentence reports that the one-pointed interpretation "has become a matter of debate," with several western teachers distinguishing "sutta-oriented" jhana from "Visuddhimagga-oriented" jhana. What remains unresolved is whether ekaggata is exclusive fixation or unified stillness; the practice instructions differ, a single fixed object on one reading, a steady awareness of the wide field on the other, and the compendium's own pages hold both.
+The disagreement is real and live: the article's Criticism section reports that the one-pointed interpretation "has become a matter of debate." What remains unresolved is whether ekaggata is exclusive fixation or unified stillness; the practice instructions differ, a single fixed object on one reading, a steady awareness of the wide field on the other, and the compendium's own pages hold both.
 
 ## Practice: variation, selection, retention
 
