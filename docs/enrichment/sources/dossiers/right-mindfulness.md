@@ -120,6 +120,16 @@ the carrier reads "sati, but you should bring them along wherever
 they're appropriate."; blockquote-only checks miss inline errors,
 and the full ending is restored.
 
+## Full verification pass (T+43, session clock)
+
+Both dossiers of record were re-verified against raw carrier text by
+the 08:08:30Z reading: right-action.md, twelve blockquotes, all
+FULL MATCH, checker exit 0 (64 card links, 14 headers, 12 external
+carriers); right-mindfulness.md, six blockquotes plus the two inline
+Thanissaro fragments, all FULL MATCH, checker exit 0 (50 card
+links, 11 headers, 6 external carriers). Both mirrors confirmed
+current with their dossiers of record.
+
 ## Story-directory sweep (pass 9)
 
 The story directory was swept for on-theme cards (an earlier
