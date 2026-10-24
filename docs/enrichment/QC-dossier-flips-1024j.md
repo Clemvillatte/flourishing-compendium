@@ -115,3 +115,13 @@ All four cleared for publication: checks pass, quotes verified (sampled), artwor
   story is no longer automatically covered — owner/teller judgment needed on
   whether to register it anyway (the two stories are complementary: doctrine
   vs narrative).
+
+## Addendum 6 — s1a-032 supervisor sample QC, 2026-10-24 ~15:04 UTC
+
+- s1a-032 (Django Relearns the Guitar, P192, qc_pending): all quoted fragments
+  re-verified verbatim against the freshly opened University of Michigan Press
+  chapter PDF (extraction renders fl/fi ligatures specially; after ligature
+  normalization every quote matches, including the 1944 Billy Neill/E. Gates
+  booklet passage Givan quotes). ROUTE: P192 remains zero-story (no published
+  story targets it), so the standing scope ruling covers it — registrable by
+  the s1a teller after its own lane QC. PASS from the supervisor sample.
