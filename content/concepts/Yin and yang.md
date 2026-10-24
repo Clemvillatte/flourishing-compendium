@@ -41,6 +41,10 @@ The practical value of yin-yang thinking is diagnostic: it asks whether a proble
 
 - [[P089]] — the yin-yang rhythm of rest and return (Laozi, Daodejing 42)
 - [[CO052]] — uses co-arising opposites in Daodejing 2 to examine apparent contradictions.
+- [[Qi]] — the flowing energy the pairing organizes
+- [[Dao]] — the way whose movements the pairing maps
+- [[Wu wei]] — acting with the grain the pairing describes
+- [[Ziran (naturalness)]] — what the balanced system looks like from inside
 ## Sources
 
 - [Daodejing, trans. James Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 42 quoted verbatim
