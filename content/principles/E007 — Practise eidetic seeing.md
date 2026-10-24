@@ -15,11 +15,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 In Ideas I, Husserl distinguishes intuiting an individual object from intuiting an essence. Section 3 describes the difference:
 
 > The essence (Eidos) is a new sort of object. Just as the datum of individual or experiencing intuition is an individual object, so the datum of eidetic intuition is a pure essence.
-> (Husserl, Ideas I §3, p. 10, [F. Kersten translation](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf).)
+> (Husserl, Ideas I §3, [F. Kersten translation](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf).)
 
-Section 70 gives the geometer's freedom to reshape imagined figures as an example of clarifying essential possibilities. The aim is not to count features shared by a sample of actual things, but to consider what can change while an object remains of the kind being examined ([Ideas I §70, pp. 130–131](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf)).
+Section 70 gives the geometer's freedom to reshape imagined figures as an example of clarifying essential possibilities. The aim is not to count features shared by a sample of actual things, but to consider what can change while an object remains of the kind being examined ([Ideas I §70](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf)).
 
-Jaakko Belt reads Husserl's method as self-correcting: claimed eidetic insights can be mistaken and refined through renewed variation. The inquiry stays open to further possibilities rather than closing on a finished count of examples ([Belt 2022, Axiomathes 32(Suppl 2), 405-434](https://link.springer.com/article/10.1007/s10516-021-09611-1)).
+Jaakko Belt reads Husserl's method as self-correcting: claimed eidetic insights can be mistaken and refined through renewed variation ([Belt 2022, Axiomathes 32(Suppl 2), 405-434](https://link.springer.com/article/10.1007/s10516-021-09611-1)).
 
 ### Plain words
 
