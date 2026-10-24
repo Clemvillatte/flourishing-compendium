@@ -55,10 +55,12 @@ was read back against the cards before writing.
   the mint implements the proposal document's first-ranked candidate.
   Registry addition is supervisor-only; FLAGGED in the commit
   message.
-- The SN 56.11 quote was taken from the Dukkha card's body (which
-  carries the dhammatalks.org carrier); the carrier was not
-  re-fetched this session. One-off re-open recommended before
-  publication.
+- The SN 56.11 quote was taken from the Dukkha card's body; after
+  the first push, the carrier was re-fetched and the passage compared
+  word-for-word: the enumeration matches exactly, including the
+  ampersand in "distress, & despair" and the closing "In short, the
+  five clinging-aggregates are stressful." Verified against
+  https://www.dhammatalks.org/suttas/SN/SN56_11.html this session.
 - The proposal document's principle list (B001, B006, B069, B099,
   B182, E064, M020, SE026, SP095, Y011) had "titles verified against
   files; bodies not read" per the proposal; this session read the
