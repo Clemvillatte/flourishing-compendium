@@ -6,9 +6,11 @@ Being overwhelmed is what happens when the world's demands outrun a person's cap
 
 ### Nearby terms
 
-- Overwhelm and saturation: held under the information and load groups below.
-- Burnout: held under the demands and resources group; the stress response itself belongs to a possible future Stress dossier and partly to the Anxiety dossier.
-- Cognitive load: held under the load group below; attention capture and multitasking are shared with the Attention dossier.
+Overwhelm and saturation: held under the information and load groups below.
+
+Burnout: held under the demands and resources group; the stress response itself belongs to a possible future Stress dossier and partly to the Anxiety dossier.
+
+Cognitive load: held under the load group below; attention capture and multitasking are shared with the Attention dossier.
 
 ## The map: the entries on overload and overwhelm
 
@@ -92,11 +94,11 @@ Being overwhelmed is what happens when the world's demands outrun a person's cap
 
 The shared question: when effort runs out, is something finite being used up? Baumeister and colleagues argued so from a series of experiments, reporting results:
 
-> "suggesting that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource." ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/)): Secondary source; quoted passage checked.
+> "suggesting that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource." ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/))
 
 A 23-laboratory preregistered replication of the standard protocol found almost nothing:
 
-> "Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]." ([Hagger and colleagues, Perspectives on Psychological Science 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/)): Secondary source; quoted passage checked.
+> "Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15]." ([Hagger and colleagues, Perspectives on Psychological Science 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/))
 
 Later work has not closed the question: a 12-laboratory replication of a different task pair [found a small and significant effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/) (d = 0.10), and a reader should treat the resource model of self-control as unsettled.
 
@@ -104,11 +106,11 @@ Later work has not closed the question: a 12-laboratory replication of a differe
 
 The shared question: what is rest for? Aristotle gives both answers in the same book. In the discussion of amusement he says:
 
-> "Relaxation, then, is not an end; for it is taken for the sake of activity." ([Aristotle, Nicomachean Ethics X.6, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)): Primary text; quoted passage checked.
+> "Relaxation, then, is not an end; for it is taken for the sake of activity." ([Aristotle, Nicomachean Ethics X.6, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 
 A few paragraphs later, on contemplation, he reverses the order:
 
-> "And happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace." ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)): Primary text; quoted passage checked.
+> "And happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace." ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 
 The first treats rest as a tool for further effort; the second treats leisure as the point of effort. The first is the practical answer for someone who is overwhelmed now, since it explains why rest restores work. The second asks what the work was for.
 

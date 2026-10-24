@@ -15,3 +15,11 @@ Verification record for docs/enrichment/dossiers/overload-overwhelm.md, revision
 - Not opened this run, so not quoted: Sweller, Lavie, McEwen, Maslach, Demerouti, Hobfoll, Sonnentag, Ophir. Glosses follow the card openings (word-overlap check flagged none).
 - Boundary: attention capture and multitasking cards are shared with the Attention dossier. A standalone Stress dossier (about 17 cards) was proposed in the Anxiety ledger.
 - Story loglines were compressed from the openings of the story cards.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Four public verification-status labels removed and relocated here.
+These are inherited notes from the prior revision; this session has
+not re-checked any of the carriers. Contiguous bullet blocks were
+re-formatted as separate paragraphs; no gloss, link or quotation was
+changed.
