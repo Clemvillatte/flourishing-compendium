@@ -153,7 +153,7 @@ The cards carry their own evidence notes. Several of these are proposals built o
 
 ## Story: the stories that carry the theme
 
-The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### Needs and the aspiration that serves them
 
