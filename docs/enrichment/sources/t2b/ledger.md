@@ -35,3 +35,9 @@ backlink glosses (20 principles, 12 concepts, 1 kernel), grounded in each
 page's own Dweck material (growth mindset, implicit theories with Leggett,
 achievement goals with Elliot, person- versus process-praise, Bryan et al.
 identity framing). All modified pages pass the validator.
+
+CORRECTION 06:33Z: the Dweck line above says "all validated" - one concept
+page fails the validator's prose floor (Personal projects, 87 words); checked
+at HEAD, it was already below the floor before this pass (pre-existing stub,
+not caused by the gloss). Added to the supervisor flag list with the four
+Haidt-block stubs.
