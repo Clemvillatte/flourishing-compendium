@@ -125,3 +125,14 @@ The inner light 88, The mirror for others 120, The narrative self 114,
 The tetralemma 59, The witness 148, Things thinging 148, Unity of
 opposites 122, The empty boat reflection 9) - pre-existing at HEAD,
 flagged for supervisor.
+
+2026-10-24 06:03Z, worker-pplx-t2c-1024e: incidental-connection audit of this
+session's t2a/t2b blocks found no single-mention pages - no further removals
+needed. FLAG for supervisor/maintenance: 18 content files outside the t2a/t2b/t2c
+bands carry the same glued-header defect (mid-line "## " after body text,
+header not rendered): content/concepts/{Commitment, Contempt for fame,
+Divided attention theory, Equanimity, Habermas, Haslam et al, Henrich et al,
+Inoculation Theory, Inquiry, Janis, Mental models theory, Objectification
+Theory, Psychological reactance, Reversal theory, The aha moment,
+The stress-buffering model, The tyranny of the ideal, VIA classification}.md -
+one-line newline repair, outside my bands so not edited.
