@@ -2,13 +2,14 @@
 
 Verification record for docs/enrichment/dossiers/right-action.md, revision 1.
 Every quoted fragment in this dossier was fetched and read from its carrier
-during this session (2026-10-24, ~07:44–08:05 UTC, per session clock readings: baton claimed 07:44Z, pass 1 pushed 07:48Z, pass 2 ~08:05Z) with the page-open tool,
+during this session (2026-10-24, ~07:41–08:00 UTC, per session clock readings: baton claimed ~07:41Z, pass 1 pushed just before the 07:42:26Z reading, pass 2 just before the 07:45:17Z reading, pass 3 just before the 07:5xZ reading) with the page-open tool. A monotonic reading was taken fresh alongside the 07:47:32Z UTC reading (time.monotonic_ns = 1413709370965, about 1414 seconds since sandbox boot); recorded as a new observation, not a T0 reset; the original run_clock file's date +%s%N value is a realtime reading, not monotonic, and is labelled as such here.
 and every quoted passage was then re-verified against raw, unprompted
 carrier text (direct fetch of each carrier URL, tags stripped, whitespace
-normalised, substring check). All six quoted passages are FULL MATCH
-against the raw carrier text; the dossier contains 6 external
-carrier-link occurrences covering 4 distinct carrier URLs. (Pass 2 added
-the Bodhi non-stealing counterpart quotation, verified the same way.)
+normalised, substring check). All eight quoted passages are FULL MATCH
+against the raw carrier text; the dossier contains 8 external
+carrier-link occurrences covering 5 distinct carrier URLs. (Pass 2
+added the Bodhi non-stealing counterpart quotation; pass 3 added the
+Nicomachean Ethics VII.2 pair, verified the same way.)
 
 ## Quotes opened this session (fetch of the carrier page)
 
@@ -54,7 +55,23 @@ grouped as editorial connections (Harm principle, Judgment adds the harm)
 are labelled as such in the map text, following the same convention as
 the Right Intention dossier.
 
-## Related question (pass 2 reframe)
+## Divergence (pass 3 upgrade)
+
+Pass 3 investigated the discriminator the advisor identified: Aristotle's
+treatment of acting against knowledge in Book VII. The Chase translation
+(Project Gutenberg ebook 8438, the same carrier the K250 kernel cites)
+was downloaded and read; NE VII.2 reports the Socratic denial of
+akrasia and Aristotle's rebuttal of it, both verbatim and both quoted
+in the dossier. Wang Yangming's knowledge-action unity (IEP, already
+opened) states the same position Socrates holds in Aristotle's report,
+so the section is now "Where the traditions genuinely disagree" with
+the Socratic/Wang position on one side and Aristotle's on the other,
+each side quoted from an opened carrier. The reconciliation question
+(what kind of knowing passion suspends) is stated as open. The NE II.1
+habituation quotation was moved into the map's training subtheme,
+where it sits as the habituation carrier.
+
+## Pass 2 reframe history
 
 Advisor QC round 1 (this session) found the Wang/Aristotle pair does
 not establish genuine disagreement: Wang's quotation concerns whether
@@ -108,19 +125,40 @@ within the compendium's general retention framing.
   matches the parable; the logline compresses the card's own summary.
   The ctext page was not opened this pass; flagged with the other two.
 
-## Exhaustiveness sweep (pass 2)
+## Exhaustiveness sweep (pass 3, untruncated)
 
-A full title sweep of content/concepts for action, conduct, virtue,
-harm, kill, steal, honest, fidelity, courage, precept, ethics and moral
-terms was run without truncation. Cards checked and deliberately left
-out: Action Assembly Theory, Action Identification Theory, Perception
-as action, Motor intentionality and the general action-science family
-(not moral conduct); Acceptance alongside values-based action and
-Action over inertia (ACT process material held by other pages); the
-anger and forgiveness families (held by the anger dossier); the right
-speech and right livelihood families (other dossiers' factors). Ethics
-as foundation was found by the sweep and added in pass 2. The intro's
-"every entry" claim should be read with these exclusions.
+An untruncated title sweep of content/concepts (2,262 cards) for
+action, conduct, virtue, harm, kill, steal, honest, fidelity, courage,
+precept, ethic, moral, truth, nonviol, compassion, generos and chast
+terms returned 133 cards. Dispositions: cards added in pass 3 from this
+sweep: Truthfulness, Moral disengagement research, Virtue ethics, Moral
+cultivation (xiushen), The rehearsal of virtue, The unity of the
+virtues, The courage to act against impulse, The moral situation.
+Cards checked and deliberately left out: Action Assembly Theory, Action
+Identification Theory, Perception as action, Enaction, Intra-action and
+the general action-science family (not moral conduct); Acceptance
+alongside values-based action, Action over inertia, Theory of Reasoned
+Action (process material held by Motivation and Goals); the anger,
+forgiveness and self-compassion families (held by the anger dossier);
+the right speech and right livelihood families (other dossiers'
+factors); the wider moral-psychology research family (Moral emotions,
+Moral foundations, Moral identity, Moral licensing, Moral outrage
+research, Moral dilemma research, Moral exemplar research, Moral
+exemplarism, Moral universals research, Moral circle expansion
+research) as research background rather than factor material, left for
+the Behaviour and Motivation pages; the courage-family duplicates
+(Courage, Courage built gradually, Authentic courage without props,
+Moral courage research) since the map already carries Courage - action
+despite fear and The courage to act against impulse; Moral situation
+research (card body empty at read time, flagged); the applied-ethics
+family (Digital ethics, Ecological ethics, The land ethic, The ethics
+of ambiguity, The ethical, The primacy of the ethical) as their own
+topic clusters; Herd morality, Provisional morality, Virtue-signaling
+research, Shamefastness as quasi-virtue, Strength/Gentleness/Flexibility
+as virtue, The joy of virtue, The chain of virtue, The tetrapharmakos,
+Two truths, Four Noble Truths (hub material covered by cards already in
+the map or belonging to Right view). The intro's "every entry" claim
+should be read with these exclusions.
 
 ## Registry
 

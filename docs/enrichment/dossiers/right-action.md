@@ -27,7 +27,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 [Karma](https://clemvillatte.github.io/flourishing-compendium/#card=Karma): bodily action as karma; intentional conduct through body, speech or mind is what sets results going, and this factor holds the bodily side of it.
 
-[Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action): Wang Yangming's doctrine that knowing the good already issues in acting; quoted in the related question below.
+[Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action): Wang Yangming's doctrine that knowing the good already issues in acting; quoted in the divergence below.
 
 The Magga-vibhanga Sutta gives the definition:
 
@@ -67,6 +67,8 @@ The second restraint, taking what is not given, and its counterparts, honesty, c
 
 [Prosocial honesty research](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20honesty%20research): the research on truth-telling that hurts, grouped here by editorial connection; the card's material belongs with the speech factor's honesty question.
 
+[Truthfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Truthfulness): Aristotle's account in Nicomachean Ethics IV.7, the character of a person true in word and in life where nothing is at stake.
+
 The third restraint, sexual misconduct, and its counterpart, fidelity:
 
 [Fidelity](https://clemvillatte.github.io/flourishing-compendium/#card=Fidelity): Gabriel Marcel's treatment of fidelity as more than keeping a promise; the problem of constancy.
@@ -85,7 +87,19 @@ The third restraint, sexual misconduct, and its counterpart, fidelity:
 
 [Social cognitive theory of morality](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20cognitive%20theory%20of%20morality): Bandura's account of moral conduct through the interaction of personal standards, self-regulation and social circumstances.
 
+[Moral disengagement research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20disengagement%20research): Bandura's account of how moral self-sanctions are selectively disengaged from inhumane conduct.
+
 [Opposite action (Linehan)](https://clemvillatte.github.io/flourishing-compendium/#card=Opposite%20action%20%28Linehan%29): Linehan's DBT skill of acting against the action urge that comes with an emotion.
+
+[Virtue ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Virtue%20ethics): the normative approach that puts character first, contrasted with deontology and consequentialism.
+
+[Moral cultivation (xiushen)](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20cultivation%20%28xiushen%29): the Confucian practice of building moral character; the term literally reads as body-fixing.
+
+[The rehearsal of virtue](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rehearsal%20of%20virtue): the Stoic practice of running doctrine through action until the mind takes its shape; Seneca's defense of precepts in Letter 94.
+
+[The unity of the virtues](https://clemvillatte.github.io/flourishing-compendium/#card=The%20unity%20of%20the%20virtues): the thesis, argued by Socrates in the Protagoras and reworked by Aristotle in Nicomachean Ethics VI, that the virtues come together rather than standing as separate talents.
+
+[The courage to act against impulse](https://clemvillatte.github.io/flourishing-compendium/#card=The%20courage%20to%20act%20against%20impulse): Kant's account of acting from duty against inclination, the compendium's own heading for it.
 
 [Self-constitution through action](https://clemvillatte.github.io/flourishing-compendium/#card=Self-constitution%20through%20action): Kierkegaard's Judge Vilhelm, choosing shapes personality; a life that keeps choice at arm's length loses definition.
 
@@ -109,25 +123,35 @@ The third restraint, sexual misconduct, and its counterpart, fidelity:
 
 [Effortless action through long effort](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20action%20through%20long%20effort): effortlessness in action as the far end of long effort, skill matured until the act stops feeling like an act.
 
-[Designing for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20for%20virtue): the design-research idea that products and environments can support virtuous behaviour; the third ingredient of the Positive Design Framework.
-
-[Designing the environment for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20the%20environment%20for%20virtue): arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs.
-
-[Ethics as foundation](https://clemvillatte.github.io/flourishing-compendium/#card=Ethics%20as%20foundation): Johnston's reading of Yoga Sūtra II.29, the commandments, including non-harm, truthfulness and non-stealing, placed before the posture work; conduct as the foundation of practice.
-
-## Related questions and parallels
-
-### Does knowing the good suffice for doing it?
-
-Wang Yangming's doctrine of the unity of knowledge and action holds that genuinely knowing already issues in acting:
-
-> "There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)): Scholarly reference; quoted passages checked.
-
 Aristotle's account of virtue of character holds that character is formed by doing:
 
 > "men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." ([Aristotle, Nicomachean Ethics II.1, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)): Primary text; quoted passages checked.
 
-The two passages state different things: Wang's states that genuine knowing cannot coexist with failure to act; Aristotle's states how virtue of character is acquired. Nothing in either text rejects the other, and the two can be read as one account, a knowing that must itself be formed by practice. Whether the traditions genuinely disagree here, and how each treats acting against knowledge, is unfinished research; the wiki records the pair as a parallel rather than a settled disagreement.
+[Designing for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20for%20virtue): the design-research idea that products and environments can support virtuous behaviour; the third ingredient of the Positive Design Framework.
+
+[Designing the environment for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20the%20environment%20for%20virtue): arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs.
+
+[The moral situation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20moral%20situation): Dewey's term for where morality actually happens, not in the rule and not in the inner self, but in the concrete meeting of a person's dispositions with an environment.
+
+[Ethics as foundation](https://clemvillatte.github.io/flourishing-compendium/#card=Ethics%20as%20foundation): Johnston's reading of Yoga Sūtra II.29, the Commandments, non-injury, truthfulness, abstention from stealing and the rest, placed before the Rules; conduct as the foundation of practice.
+
+## Where the traditions genuinely disagree
+
+### Can knowledge coexist with failure to act?
+
+The Socratic position, as Aristotle reports it in the Ethics, Book VII, denies the possibility: failing to act well is always ignorance.
+
+> "Socrates in fact contended generally against the theory, maintaining there is no such state as that of Imperfect Self-Control, for that no one acts contrary to what is best conceiving it to be best but by reason of ignorance what is best." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): Primary text; quoted passages checked.
+
+Wang Yangming's doctrine of the unity of knowledge and action holds the same shape, that genuinely knowing already issues in acting:
+
+> "There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)): Scholarly reference; quoted passages checked.
+
+Aristotle takes the other side:
+
+> "With all due respect to Socrates, his account of the matter is at variance with plain facts, and we must enquire with respect to the affection, if it be caused by ignorance what is the nature of the ignorance: for that the man so failing does not suppose his acts to be right before he is under the influence of passion is quite plain." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): Primary text; quoted passages checked.
+
+The positions answer the same question and oppose each other directly: for Socrates and Wang, the person who knows the good and does not act does not yet know; for Aristotle, such a person is a plain fact, and the enquiry is into what kind of knowing passion suspends. What the carriers leave open is the account that would reconcile them, whether Aristotle's man who fails while knowing knows in the strict sense or only in the way Wang would call not-yet-knowing; the wiki holds materials on both sides, the spontaneous-right-action card with Socrates and Wang, the virtue-rehearsal kernels with Aristotle, and does not settle it.
 
 ## Practice: variation, selection, retention
 
@@ -159,7 +183,7 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### The stopped harm
 
-[ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): Angulimala, the bandit wearing a garland of fingers, cannot catch the Buddha walking at normal pace, hears the explanation that the Buddha has stopped "once & for all" having cast off violence toward all living beings, and throws his sword over a cliff; the harm stops, and the stones thrown at the renamed "Doer of No Harm" on his alms round are the price the town exacts from a changed man, with the Buddha telling him to bear it as the fruit of karma now experienced in the here-&-now.
+[ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): Angulimala, the bandit wearing a garland of fingers, cannot catch the Buddha walking at normal pace, hears the explanation that the Buddha has stopped "once & for all" having cast off violence toward all living beings, and throws his sword over a cliff; his verses say "'Doer of No Harm' is my name, but I used to be a doer of harm", and the clod, stone and potsherd thrown at him on his alms round are met with the Buddha telling him to bear it as the fruit of karma now experienced in the here-&-now.
 
 ### Harm discovered late
 
