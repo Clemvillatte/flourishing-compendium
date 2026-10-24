@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 92** — Investigate with curiosity (dhammavicaya)
 
-What makes an inquiry useful? In SN 46.51, investigation of qualities is the second factor for awakening, after mindfulness. Its subject is not whatever happens to be interesting:
+What makes an inquiry useful? In [SN 46.51](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html), investigation, translated here as “analysis of qualities,” is the second factor for awakening, after mindfulness. Its subject is not whatever happens to be interesting:
 
 > "There are mental qualities that are skillful & unskillful, blameworthy & blameless, gross & refined, siding with darkness & with light." (SN 46.51, [Thanissaro](https://accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html))
 
-The sutta calls appropriate attention to these qualities the food that supports investigation. It uses the same feeding image for hindrances: attention can nourish ill will or restlessness as well as qualities of awakening. The inquiry therefore involves discernment, not observation without any concern for consequences. The compendium applies that distinction to examining a difficult reaction and the responses available within it.
+The [sutta](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html) calls appropriate attention to these qualities the food that supports investigation; in its account of hindrances, inappropriate attention nourishes ill will or restlessness. The inquiry therefore involves discernment, not observation without any concern for consequences. The compendium applies that distinction to examining a difficult reaction and the responses available within it.
 
 **Plain words**
 Knowing that you are frustrated leaves more to understand. There is the situation, what you are adding to it, and what you might do next. Calling a reaction unhelpful is a starting point for looking closely, rather than a verdict that you are a bad person. Curiosity can serve that work without becoming another way to rehearse the complaint.

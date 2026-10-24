@@ -28,7 +28,7 @@ The poem's demand goes beyond being flexible about dinner. It challenges divisio
 >
 > (Same Clarke translation.)
 
-Dhammapada 83 offers a related account of steadiness amid changing experience:
+[Dhammapada 83](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html) begins with renouncing attachment before describing the wise person's steadiness amid happiness and sorrow:
 
 > "The wise show no elation or depression when touched by happiness or sorrow." (Dhammapada 83, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html))
 
