@@ -199,8 +199,6 @@ The five-factor version the tradition also carries:
 
 [Self-talk research](https://clemvillatte.github.io/flourishing-compendium/#card=Self-talk%20research): the study of what people say to themselves, its content and its effects; Hardy, Hall and Hardy's finding that athletes' self-talk is generally positive, covert and abbreviated.
 
-[ST343 — The Buddha's Last Words](https://clemvillatte.github.io/flourishing-compendium/#card=ST343%20%E2%80%94%20The%20Buddha%27s%20Last%20Words): the Maha-parinibbana Sutta's account of the final journey: he three times invites the assembled monks to raise any doubt or perplexity, three times the monks sit silent, and the sentence the sutta records as his last follows between the sal trees.
-
 ## Where the traditions genuinely disagree
 
 ### Must right words be pleasing?

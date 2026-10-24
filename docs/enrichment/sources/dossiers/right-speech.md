@@ -28,6 +28,11 @@ phrasing was not in the card). ST290, ST359, ST066, ST131, ST387 and
 ST313 (right-livelihood) loglines re-verified against their cards in
 a final audit; all matched. Checker exit 0 after each change.
 
+Revision 5: ST343 removed from the map body (it was the only story
+card listed in the map, inconsistent with this page's convention of
+holding stories in the Story section only, per the exemplar); it is
+kept in the Story section. Checker exit 0.
+
 ## Quotes and carriers, all opened this session (raw text)
 
 1. Four abstentions, SN 45.8 (Thanissaro, Access to Insight):
