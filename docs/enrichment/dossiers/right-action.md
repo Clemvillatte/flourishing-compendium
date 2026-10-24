@@ -132,7 +132,7 @@ Aristotle's account of virtue of character holds that character is formed by doi
 
 [Designing the environment for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20the%20environment%20for%20virtue): arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs.
 
-[The moral situation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20moral%20situation): Dewey's term for where morality actually happens, not in the rule and not in the inner self, but in the concrete meeting of a person's dispositions with an environment.
+[The moral situation](https://clemvillatte.github.io/flourishing-compendium/#card=The%20moral%20situation): Dewey's term for where morality actually happens: the concrete meeting of a person's dispositions with an environment, beyond both the rule and the inner self.
 
 [Moral situation research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20situation%20research): the situationist literature behind the claim that context dominates in real moral choice, Doris's Lack of Character, the hurrying seminarians, Milgram's obedience findings.
 

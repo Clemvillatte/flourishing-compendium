@@ -180,7 +180,7 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 [ST061 — Bāhiya's Single Instruction](https://clemvillatte.github.io/flourishing-compendium/#card=ST061%20%E2%80%94%20B%C4%81hiya%27s%20Single%20Instruction): the Buddha's brief instruction to Bahiya, in reference to the seen, there will be only the seen; in reference to the heard, only the heard; the senses received without addition, and Bahiya awakens on the spot.
 
-[ST074 — The Five Hindrances as Thieves](https://clemvillatte.github.io/flourishing-compendium/#card=ST074%20%E2%80%94%20The%20Five%20Hindrances%20as%20Thieves): the Buddha catalogues five hindrances that obscure the mind, and the instruction is not to fight them but to know them, noticing when one is present, when absent, and how it arose and passed away.
+[ST074 — The Five Hindrances as Thieves](https://clemvillatte.github.io/flourishing-compendium/#card=ST074%20%E2%80%94%20The%20Five%20Hindrances%20as%20Thieves): the Buddha catalogues five hindrances that obscure the mind, and the instruction is to know them rather than fight them, noticing when one is present, when absent, and how it arose and passed away.
 
 ### The attention traditions
 

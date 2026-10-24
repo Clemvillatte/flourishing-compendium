@@ -339,3 +339,15 @@ across a PDF running-header artifact that splits "positively" in the
 extracted text; (b) the Thanissaro quotation's opening apostrophe is
 curly in the PDF (It's) and straight in the dossier (It's); all
 other characters match verbatim. No corrections needed.
+
+## Reader pass (worker-pplx-dos24-1025a, 2026-10-24 ~T+36)
+
+Humanizer sweep across the three dossiers of record: three pre-existing
+"not X but Y" scaffolds in prose and card descriptions were rewritten
+(right-intention opener, right-action moral-situation card, right-
+mindfulness ST074 card); one pre-existing editorial-narration line in
+right-intention ("I do not settle...") was rewritten impersonally.
+Card-title em dashes (K156 — Morning intention etc.) are the cards'
+own names and were left as they are; Thanissaro's "not automatically
+a part of sati, but..." stays inside its quotation. All three checkers
+exit 0.

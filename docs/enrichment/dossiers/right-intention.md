@@ -2,7 +2,7 @@
 
 > What is worth resolving on, and what does a resolved life look like?
 
-Intention is where a life's autopilot gets interrupted: renunciation instead of craving, goodwill instead of ill will, harmlessness instead of cruelty. The resolve is not a mood but a standing direction, and the traditions are honest that it fights the current of wanting, disliking and harming. A life cannot be lived without aims; the question worth resolving on is which ones are worth the resolving.
+Intention is where a life's autopilot gets interrupted: renunciation instead of craving, goodwill instead of ill will, harmlessness instead of cruelty. The resolve is a standing direction rather than a mood, and the traditions are honest that it fights the current of wanting, disliking and harming. A life cannot be lived without aims; the question worth resolving on is which ones are worth the resolving.
 
 ## Nearby terms
 
