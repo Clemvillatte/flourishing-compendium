@@ -1,9 +1,9 @@
 ---
 name: Creative-Prompt-Generation
-description: Rules for engineering writing prompts that reliably spark creative work instead of clichés. Grounded in opened psychology-of-creativity sources; every research claim traces to the ledger at docs/enrichment/sources/superskills/creative-prompt-generation.md.
+description: Rules for engineering writing prompts that reliably spark creative work instead of clichés. Grounded in opened psychology-of-creativity sources; every research claim traces to the ledger at docs/enrichment/sources/superskills/creative-prompt-generation.md and carries an inline source link.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 2.0.0
   updated: 2026-10-24
   evidence: docs/enrichment/sources/superskills/creative-prompt-generation.md
 ---
@@ -12,12 +12,12 @@ metadata:
 
 Rules for building creative prompts for writers. The goal is that any agent, given this skill, produces prompts that reliably start creative work instead of stopping it.
 
-Every research claim below traces to a source in the evidence ledger. Where the evidence is indirect or the claim is editorial, that is stated.
+Every research claim below carries an inline link to its source and traces to the evidence ledger. Claims are labelled as they appear: **research finding** (something an opened study found), **prompt-design inference** (a step from that finding to prompt design), or **craft heuristic** (the compendium's own judgment, tested against the failure modes but not by research). Where evidence is indirect or a claim is editorial, that is stated.
 
 ## Table of contents
 
 - What a functional prompt is
-- The anatomy: seven components
+- The anatomy: eight components
 - Failure modes
 - The generation procedure
 - Worked examples
@@ -26,83 +26,101 @@ Every research claim below traces to a source in the evidence ledger. Where the 
 
 ## What a functional prompt is
 
-A topic is not a prompt. "Write about love" is a topic. It hands the writer their first-retrieved ideas, and the first-retrieved ideas are the conventional ones. The opened research is blunt about this: in idea generation, "the most accessible and easily generated ideas often are the least creative ones" (Rietzschel, Nijstad and Stroebe 2014, restating the path-of-least-resistance account of Finke, Ward and Smith). People retrieve what comes easily, project its features onto the new piece, and stop.
+A topic is not a prompt. "Write about love" is a topic. It hands the writer their first-retrieved ideas, and on the standard account of idea generation the first-retrieved ideas are the conventional ones. **Research finding:** the paper that is our scope evidence states the theory this way: "the most accessible and easily generated ideas often are the least creative ones," and that people "need to be induced to leave this path of least resistance" ([Rietzschel, Nijstad and Stroebe 2014](https://pure.rug.nl/ws/files/16113815/CRJ_problem_scope.pdf), restating the account of Finke, Ward and Smith 1992 and Ward 1994). That paper tested the theory's practical edge in a brainstorming experiment, and its abstract reports: "both narrow (vs. broad) problems and creativity (vs. relevance) instructions led to the generation of ideas that were more creative" ([abstract](https://pure.rug.nl/ws/files/16113815/CRJ_problem_scope.pdf)). The same experiment found a limit worth keeping in view: only the creativity instructions, not the narrow scope, improved the creativity of the ideas participants *selected*.
 
-A functional prompt is a set of instructions that changes how the writer's mind searches. It works the way a paired constraint works in Patricia Stokes's model: one side precludes the reliable default response, the other side promotes a riskier search elsewhere. In Stokes's words, "novel solutions follow from precluding reliable, existing responses and promoting riskier, often opposite ones," and paired constraints "restructure problem spaces in ways that make novelty possible and probable" (Stokes 2009).
+A functional prompt is a set of instructions that changes how the writer's mind searches. The best-tested design pattern comes from Patricia Stokes's work on constraints: **research finding** — in her case study of a Serra ceramics class, novelty followed from a constraint pair in which "one of the pair retains its function as stricture, limiting or precluding search in some parts of a problem space; the other directs or promotes search in different parts," and "novel solutions follow from precluding reliable, existing responses and promoting riskier, often opposite ones" ([Stokes 2009](https://psychology.barnard.edu/sites/default/files/inline-files/Serra2009.pdf)). **Prompt-design inference:** a prompt should do the same two jobs — remove the writer's default move and require a move they would not have made. Stokes's paper is a case study of one ceramics class, not a survey of every creative domain, so treat the pair as the core pattern rather than the only possible one.
 
-The strongest direct evidence comes from writing itself. Cathleen Haught-Tromp's five studies on constrained creative writing found that participants who received both noun constraints (what to write about) and method constraints (how to write it) outperformed no-constraint and single-constraint conditions on fluency, flexibility, and originality. The published abstract states it plainly: participants "given paired constraints (nouns and method) outperformed those who received no constraints and those who received only noun constraints or method constraints on multiple measures of originality and fluency."
+The writing-task evidence is narrower but direct. **Research finding:** in [Haught-Tromp's two experiments](https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf), participants wrote two-line greeting-card rhymes; when the rhyme had to include a given concrete noun, judges rated it more creative (Study 1: M 5.18 vs 4.29, F(1, 57) = 62.87, p < .0001), and participants who had practised with constraints first wrote more creative *unconstrained* rhymes afterwards (M 4.80 vs 3.83), leading the abstract to its carryover conclusion: "mere practice with constraints can stimulate creativity." Her Green Eggs and Ham model explains why Dr. Seuss's bestseller, written with only 50 words, worked: constraint and creativity are not opposites.
 
-So the definition: a functional creative prompt is a paired-constraint instruction set. It removes the writer's default moves, gives them new required moves, and leaves the discovery to them.
+So the working definition, with its parts labelled: a functional creative prompt is an instruction set that precludes the writer's default moves, promotes moves they would not otherwise make, and leaves the discovery to them (the preclude/promote structure is Stokes's framework; the application to writing prompts is our inference).
 
-## The anatomy: seven components
+## The anatomy: eight components
 
-A functional prompt carries some or all of these components. The first three are load-bearing; the rest raise quality. Each component states what it is, what the opened evidence says, and how to write it.
+A functional prompt carries some of these components. The first three are load-bearing; the rest raise quality. Each component states what it is, what the opened evidence supports, how to write it, and when to omit it. No component is mandatory in every prompt; a formula repeated on every task produces formulaic writing.
 
 ### 1. Concretizing anchor
 
 One or two specific, sensory things the writing must contain: an object, a sound, a smell, a fixed detail of the scene.
 
-Why: Haught-Tromp's noun constraints (concrete things to include) were half of every winning condition in her studies, and the no-noun conditions underperformed. Concreteness gives memory something to build around.
+**Research finding:** Haught-Tromp's noun constraints were concrete, one-syllable, basic-level nouns from category norms (a shirt, a dog, a doll, a drum), and requiring writers to include them raised judged creativity of the rhymes ([Study 1 methods and results](https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf)). **Craft heuristic:** anchors work best when a writer can see, hear, or touch them. "A kettle that whistles before it boils" is an anchor; "domesticity" is not.
 
-How: choose nouns a writer can see, hear, or touch. "A kettle that whistles before it boils" is an anchor. "Domesticity" is not. Give one or two anchors, not a full scene; the writer builds the scene.
+How: give one or two anchors, not a full scene; the writer builds the scene.
+
+Omit when: the task already supplies concreteness, for example a prompt that continues existing draft material, or a form (a list poem, an erasure) whose structure is the anchor.
 
 ### 2. Preclusive constraint
 
-A rule that bans the default move. Stokes again: novelty requires precluding "reliable, existing responses." The ban is what forces the writer off the path of least resistance.
+A rule that bans the default move. **Research finding:** Stokes's framework puts preclusion first: novelty requires precluding "reliable, existing responses" ([Stokes 2009](https://psychology.barnard.edu/sites/default/files/inline-files/Serra2009.pdf)). The ban is what pushes the writer off the path of least resistance.
 
-How: state the ban as a rule about form or action, never as a list of examples. "The confession happens without anyone saying the word 'love'" bans the move structurally.
+How: state the ban as a rule about form or action, never as a demonstration. "The confession happens without anyone saying the word 'love'" bans the move structurally.
 
-Critical sub-rule: never include example outputs, and never list the clichés you want to avoid. Smith, Ward and Schumacher showed that people who saw three example ideas produced work that conformed to the examples; the conformity effect survived a 23-minute gap; and explicitly instructing people to create ideas "very different from the examples" did not decrease conformity, while instructing them to conform increased it. A prompt that says "avoid clichés like burning old letters or rain at funerals" plants exactly those images. Ban the move, do not picture it.
+A precaution on examples, stated with its limits: **research finding** — Smith, Ward and Schumacher found that people who saw three example ideas produced work that conformed to the examples; the conformity effect survived a 23-minute gap; and "explicitly instructing subjects to create ideas that were very different from the examples did not decrease conformity to the examples" ([abstract](https://pubmed.ncbi.nlm.nih.gov/8289661/)). Their tasks involved imagining and sketching experimenter-defined categories, not writing; the transfer to writing prompts is our inference. **Prompt-design inference:** be cautious with example outputs and cliché lists inside a prompt; they can anchor the writer to exactly the material you wanted avoided. A structural ban does the same job without planting the image. This is a precaution, not a prohibition — a shared example can legitimately anchor a group exercise, and the fixation finding gives a reason, not a law.
+
+Omit when: the writer's default move is unknown or is already the right one; a preclusive constraint with no promotive partner leaves only prohibition, which is the "too narrow" failure below.
 
 ### 3. Promotive constraint
 
-One or two required moves the writing must make: every sentence contains a concrete noun, the story is told backwards, each stanza touches the edge of the speaker's vision.
+One or more required moves the writing must make: every sentence contains a concrete noun, the story is told backwards, each stanza touches the edge of the speaker's vision.
 
-Why: this is the second half of the pair. In Haught-Tromp's writing studies, adding constraints raised output rather than lowering it: with paired constraints present, "performance was also better and yielded higher fluency" (Study 1); sentences with more added constraints were judged more creative (p < .05); and fluency kept rising as syntactic and phrase constraints were layered in. Stokes's formulation: one side of the pair "retains its function as stricture," the other "directs or promotes search in different parts" of the problem space.
+This is the second half of Stokes's pair: the stricture side "retains its function," the other "directs or promotes search in different parts" of the problem space ([Stokes 2009](https://psychology.barnard.edu/sites/default/files/inline-files/Serra2009.pdf)). Haught-Tromp's noun requirement is a promotive constraint in this sense: it told writers what to include, and inclusion raised creativity ([Haught-Tromp 2017](https://www.cct.umb.edu/630/files/HaughtTromp2017-GreenEggsandHam.pdf)).
 
-How: constrain form and process, not content. "Each paragraph begins with the word 'but'" is a promotive constraint. "The main character is a nurse named Linda who has just been fired" is not; that is content, and it does the writer's discovering for them.
+How: prefer constraints that require an action of the writing (include, repeat, reverse, withhold) over constraints that decide the content for the writer. The test in the next section is the general one: does the constraint leave meaningful decisions?
 
-### 4. Distance
+Omit when: the anchor already does the promoting; two promotive constraints on a short piece can crowd it.
+
+### 4. Stakes
+
+What someone in the piece wants, what obstructs it, and what changes if they act or refuse. **Craft heuristic** (not from research): stakes give the writing a reason to move. For poetry and essays, the equivalents are an unresolved question, a contrast held in tension, or a claim under pressure. Keep stakes light in a prompt: one clause ("a change in who holds the cup alters who can leave") rather than a plot. Stakes are not motivation — the writer's motivation is the intrinsic frame below.
+
+Omit when: the piece is an exercise in texture or observation; imposed stakes force a plot onto a meditation.
+
+### 5. Distance
 
 Place the scene or the point of view far from the writer: another decade, another country, another person, the far side of the event.
 
-Why: Förster, Friedman and Liberman found that participants who "envisioned their lives and imagined themselves engaging in a task 1 year later as opposed to the next day subsequently performed better on a series of insight tasks," and that "a distal perspective was found to improve creative generation of abstract solutions." Psychological distance raises the construal level, and the higher construal carries the writer past the immediate, literal rendering.
+**Research finding:** Förster, Friedman and Liberman report that "participants who envisioned their lives and imagined themselves engaging in a task 1 year later as opposed to the next day subsequently performed better on a series of insight tasks," that "a distal perspective was found to improve creative generation of abstract solutions," and that the same distant perspective "undermined rather than enhanced analytical problem solving" ([abstract](https://pubmed.ncbi.nlm.nih.gov/15301626/)). **Prompt-design inference:** distance helps tasks that need abstraction and hurts tasks that need concrete analysis; apply it to the generative step, not to a revision that must check facts. The particular craft forms of distance (a future narrator, a foreign setting) are ours, not the study's.
 
-How: add one distance marker. "A hundred years from now, someone finds this object and does not know what it is." That single displacement does more work than a paragraph of instruction.
+How: one clause is enough. "A hundred years from now, someone finds this object and does not know what it is."
 
-### 5. Attentional breadth
+Omit when: the writing's job is closeness — intimacy, immediacy, present-tense urgency.
 
-Order the prompt from wide to narrow, or instruct the writer to notice the periphery, before narrowing to the anchor.
+### 6. Attentional breadth
 
-Why: Friedman, Fishbach, Förster and Werth manipulated the breadth of perceptual attention with a digit-search task, then gave creative generation tasks (creative uses for a brick, titles for a photograph). As Friedman and Förster's review of the study puts it, "participants who were led to focus perceptual attention broadly produced more original responses on these tasks than did those who focused attention narrowly," and the same broad-attention condition also yielded "more unusual exemplars of a series of semantic categories."
+Order the prompt from wide to narrow, or instruct the writer to notice the periphery before narrowing to the anchor.
 
-How: open the frame before you focus it. "The whole room is in the piece, including what stands at its edges; then close on the kettle." Wide first, anchor second. The reverse order narrows the writer before they have looked.
+**Research finding:** Friedman, Fishbach, Förster and Werth manipulated the breadth of perceptual attention (a digit-search task with broad-periphery or narrow-center displays), then gave creative generation tasks; as the [2010 review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2933078/) puts it, "participants who were led to focus perceptual attention broadly produced more original responses on these tasks than did those who focused attention narrowly," and the broad condition also yielded "more unusual exemplars of a series of semantic categories." **Craft heuristic (an editorial experiment, not a tested rule):** when a prompt describes a scene, opening wide before focusing ("the whole room, including what stands at its edges; then close on the kettle") is our attempt to carry that finding into prompt phrasing. The reverse order was not tested; treat wide-to-narrow as an option to try, not a law.
 
-### 6. Intrinsic frame
+Omit when: the prompt carries no scene description at all.
 
-Frame the reason to write inside the writing itself: expression, play, curiosity, the pleasure of getting it right. Never evaluation.
+### 7. Intrinsic frame
 
-Why: Amabile's experiment with 72 actively publishing creative writers had each write two poems; between them, writers ranked either intrinsic or extrinsic reasons for writing. The poems written under the extrinsic orientation "were significantly less creative than those written in the other two conditions" (overall effect F(2, 69) = 4.66, p < .013), while intrinsic and control conditions stayed at the baseline level. Amabile's formulation: "An intrinsically motivated state is conducive to creativity, whereas an extrinsically motivated state is detrimental."
+Frame the reason to write inside the writing itself: expression, play, curiosity. Keep evaluation out.
 
-How: one line, at most. "Write this for the drawer" or "write the version only you would think of" frames the stakes intrinsically. Never "write the best story in the workshop" or "impress the reader"; those frames measurably flatten the work.
+**Research finding:** Amabile's experiment had 72 writers, "chosen because they identified themselves as actively involved in creative writing," each write two poems; between them, writers ranked either intrinsic or extrinsic reasons for writing. "Poems written under an extrinsic orientation were significantly less creative than those written in the other two conditions" (overall effect F(2, 69) = 4.66, p < .013; extrinsic M = 15.74 against intrinsic M = 19.88 and control M = 18.78) ([paper](https://pages.pomona.edu/~ajr04747/Fall2008/Math58/Papers/Amabile_1985_psp-48-2-393.pdf)). Note the shape of the result: the extrinsic orientation lowered creativity; the intrinsic orientation did not clearly beat the control condition. Amabile's hypothesis statement: "An intrinsically motivated state is conducive to creativity, whereas an extrinsically motivated state is detrimental." **Prompt-design inference:** keep evaluative framing out of prompts. The specific phrasings ("write for the drawer", "impress the reader") are ours and were not tested; the study supports the direction, not the wording.
 
-### 7. Incubation hook
+Omit when: the assignment is genuinely evaluative (a competition the writer chose); then keep the evaluation out of the prompt text anyway and let the context carry it.
+
+### 8. Incubation hook
 
 When the task is generative rather than redrafting, build in a pause: draft, set aside, return.
 
-Why: Sio and Ormerod's meta-analysis of incubation studies "identified a positive incubation effect, with divergent thinking tasks benefiting more than linguistic and visual insight tasks," found that "longer preparation periods gave a greater incubation effect," and that low cognitive-demand filler tasks during the break beat plain rest. The preparation length matters: incubation pays off most when the writer has genuinely grappled first.
+**Research finding:** Sio and Ormerod's meta-analysis "identified a positive incubation effect, with divergent thinking tasks benefiting more than linguistic and visual insight tasks"; "longer preparation periods gave a greater incubation effect"; and "low cognitive demand tasks yielded a stronger incubation effect than did rest" — with that last result stated specifically for linguistic insight problems ([abstract](https://pubmed.ncbi.nlm.nih.gov/19210055/)). **Prompt-design inference:** the pause helps most after real preparation, so the hook belongs after a drafting step, not before any writing has happened. The concrete recipe (draft twenty minutes, stop mid-sentence, return) is a craft heuristic, untested as a recipe.
 
-How: two sentences. "Draft for twenty minutes, then stop mid-sentence and go do something that needs your hands. Come back and finish it before rereading what you wrote." The mid-sentence stop is the incubation hook; the return instruction is the promotive constraint.
+Omit when: the piece is short and single-sitting by nature; an incubation instruction on a twelve-line poem adds apparatus without benefit.
+
+## The constraint test (replaces any form-versus-content rule)
+
+A constraint is well-formed when it creates useful possibilities and leaves meaningful decisions to the writer. Do not sort constraints into "form" versus "content": Haught-Tromp's noun requirement was a content constraint and it raised creativity; conversely a pile of formal rules can suffocate a piece. Ask two questions of every constraint: does it open at least two substantially different directions the writer could take, and does the writer still decide what happens? If a constraint decides the story ("the main character is a nurse named Linda who has just been fired"), the writer has nothing left to discover. If it opens ground ("the letter is present in every scene but is never opened"), the writer has work to do.
 
 ## Failure modes
 
-Each failure mode below shows a weak prompt, the diagnosis, and the repair.
+Each failure mode shows a weak prompt, the diagnosis, and the repair.
 
 ### Cliché
 
 Weak: "Write about a character who discovers a deep dark secret."
 
-Diagnosis: no preclusive constraint, so the first-retrieved ideas win. This is the path of least resistance doing what it does.
+Diagnosis: no preclusive constraint, so the first-retrieved ideas win. On the path-of-least-resistance account, that is the default outcome ([Rietzschel et al. 2014](https://pure.rug.nl/ws/files/16113815/CRJ_problem_scope.pdf)).
 
 Repair: add the paired constraints. "A character finds a letter they were never meant to see and decides not to read it. The letter's contents never appear in the story. Every scene must contain at least one object the character can hold."
 
@@ -110,7 +128,7 @@ Repair: add the paired constraints. "A character finds a letter they were never 
 
 Weak: "Write something about loss."
 
-Diagnosis: no anchor, no constraints, nothing for memory to build around. Rietzschel, Nijstad and Stroebe manipulated problem scope directly: "Results show that both narrow (vs. broad) problems and creativity (vs. relevance) instructions led to the generation of ideas that were more creative." Narrow scope beats broad scope on originality; it is the narrow prompt that frees the writer, not the broad one.
+Diagnosis: no anchor, no constraints, nothing for memory to build around. The scope experiment found narrow problems generated more creative ideas than broad ones ([Rietzschel et al. 2014](https://pure.rug.nl/ws/files/16113815/CRJ_problem_scope.pdf)); note its limit — narrow scope did not improve the quality of *selected* ideas, only creativity instructions did.
 
 Repair: narrow to a specific object, moment, or action while leaving the writer's moves open. "Write the inventory of a kitchen after a death: list the objects, then the first thing the survivor uses."
 
@@ -118,89 +136,70 @@ Repair: narrow to a specific object, moment, or action while leaving the writer'
 
 Weak: "Write a 100-word story about a red umbrella on a rainy Tuesday where a nurse named Linda loses her job, told in first person, present tense, ending with a phone call."
 
-Diagnosis: the constraints specify content, not process. The writer has nothing left to discover; the prompt has done the writing. In Stokes's terms, it is all stricture and no promotion. Note that this failure is not about constraint density: Haught-Tromp's participants wrote better with more constraints, as long as the constraints governed form and method rather than inventing the content for them.
+Diagnosis: the constraints decide the content. The writer has nothing left to discover; the prompt has done the writing. Run the constraint test above: each clause should open directions, not close them.
 
-Repair: cut the content mandates, keep the formal ones. "Write a 100-word story in which the weather, the job, and the ending are yours to decide. The umbrella must be red, the tense must never be past, and no sentence may contain the word 'rain.'"
+Repair: cut the content mandates, keep the constraints that require moves. "Write a 100-word story in which the weather, the job, and the ending are yours to decide. The umbrella must be red, no sentence may be in past tense, and the word 'rain' may not appear."
 
 ### Useless
 
 Weak: "Write about creativity."
 
-Diagnosis: a topic dressed as a prompt. No action the writer can take, no anchor, no completion criterion, no length.
+Diagnosis: a topic dressed as a prompt. No action the writer can take, no anchor, no completion criterion.
 
-Repair: rewrite so a writer could start within thirty seconds and know when they have finished. "Describe the most ordinary object in your kitchen to someone who has never seen one. Two paragraphs. Include one use the object's maker never intended."
+Repair: rewrite so the writer has enough information to begin and knows when they have finished. "Describe the most ordinary object in your kitchen to someone who has never seen one. Two paragraphs. Include one use the object's maker never intended."
 
 ## The generation procedure
 
-Work the steps in order. Each one is a sentence or two of the final prompt.
+Work the steps in order. Each one produces a sentence or two of the final prompt.
 
 1. Name the target. One word for what the writer is reaching for: grief, envy, wonder, an ending that lands. This word never appears in the prompt itself; it only steers your choices.
-2. Choose the anchor. One or two concrete nouns tied to the target. Grief takes a kettle, an inventory, a borrowed object; wonder takes an unlabeled machine.
-3. Write the preclusive constraint. Ban the default move as a rule. Check that you banned the move without picturing it; no examples, no cliché lists.
-4. Write the promotive constraint. One or two required moves about form or process. Check that each one constrains how the writing works, not what happens in it.
-5. Add one distance marker. Time, place, or point of view; one clause is enough.
-6. Order wide to narrow. If the prompt describes a scene, open with the wide frame and close on the anchor.
-7. Frame intrinsically. One clause, if any. Expression, play, curiosity. Nothing evaluative.
-8. Add the incubation hook if the task is generative. Draft, pause, return.
-9. Specify the output. Length or form, and one condition the writer can check themselves: "you are done when every sentence has a concrete noun."
-10. Run the failure-mode check and the QC checklist below. Fix what fails. The prompt is done when it passes.
+2. Choose the anchor. One or two concrete nouns tied to the target.
+3. Write the preclusive constraint. Ban the default move as a rule, without picturing it.
+4. Write the promotive constraint. One or two required moves.
+5. Add stakes if the piece needs motion: a want, an obstruction, a consequence. For poetry or essay: an unresolved question, a contrast, a claim under pressure.
+6. Add a distance marker if the task rewards abstraction over close analysis.
+7. Order any scene description wide to narrow (craft heuristic; try it, keep it if it reads well).
+8. Frame intrinsically. One clause at most, nothing evaluative.
+9. Add the incubation hook if the task is generative and the piece is long enough to benefit.
+10. Specify the output: length or form, and one condition the writer can check ("you are done when every sentence has a concrete noun").
+11. Run the three-directions sketch (editorial QC technique, not a validated test): privately sketch three substantially different responses a writer could give. If they differ only in names and scenery, the prompt is too narrow; revise the constraints until the directions genuinely diverge. Keep the sketches out of the prompt itself.
+12. Run the QC checklist. Fix what fails.
 
 ## Worked examples
 
-Three prompts built with the procedure, each annotated with the components it carries.
+Three prompts built with the procedure. The annotations label which components each carries.
 
 ### Example 1: fiction, target "grief"
 
-1. Target: grief (never named in the prompt).
-2. Anchor: a borrowed object.
-3. Preclusive: the word "love" may not appear; no funerals, no rain.
-4. Promotive: every scene contains an object the character can hold.
-5. Distance: the character is returning the object to a family they have never met.
-6. Wide to narrow: the story opens on the street, the whole street, then closes on the object.
-7. Intrinsic: "write the version only you would think of."
-8. Incubation: draft today, finish before rereading.
+Prompt: "A character returns a borrowed object to a family they have never met. Every scene must contain something the character can hold. The word 'love' may not appear anywhere, and no one in the story may say the word 'sorry.' Draft for twenty minutes, stop mid-sentence, and finish it tomorrow before you reread anything. Length: your call; you are done when every scene has something held."
 
-Prompt: "A character returns a borrowed object to a family they have never met. Start wide, with the whole street, and close in on the object. Every scene must contain something the character can hold. The word 'love' may not appear anywhere. Draft for twenty minutes, stop mid-sentence, and finish it tomorrow before you reread anything. Write the version only you would think of. Length: your call; you are done when every scene has something held."
+Components: anchor (the borrowed object, unspecified — the writer chooses it, which is a decision left open); preclusive (two word bans); promotive (held object in every scene); incubation hook (the pause and return). Stakes are light and implied (the return itself). No distance marker: the scene's work is closeness, and distance would thin it.
 
 ### Example 2: poetry, target "waiting"
 
-1. Target: waiting.
-2. Anchor: a kettle.
-3. Preclusive: the word "time" may not appear.
-4. Promotive: each stanza mentions something at the edge of the speaker's vision.
-5. Distance: none added; the poem's smallness is its own distance.
-6. Wide to narrow: the room first, then the kettle.
-7. Intrinsic: "write it for the drawer."
-8. Incubation: none; poems are short and the hook would smother it.
+Prompt: "A poem that takes place inside the sixty seconds a kettle needs to boil. Begin with the whole room, including whatever stands at its edges, and end on the kettle. Each stanza must touch one thing at the edge of the speaker's vision. The word 'time' may not appear. Write it for the drawer, not for anyone's reading."
 
-Prompt: "A poem that takes place inside the sixty seconds a kettle needs to boil. Begin with the whole room, including what stands at its edges; end on the kettle. Each stanza must touch one thing at the edge of the speaker's vision. The word 'time' may not appear. Write it for the drawer, not for anyone's reading."
+Components: anchor (the kettle); preclusive (the word ban); promotive (edge-of-vision touch per stanza); attentional breadth (wide-to-narrow ordering inside the scene); intrinsic frame (for the drawer). No incubation hook: twelve lines do not need a pause, and the apparatus would smother the poem.
 
-### Example 3: essay or memoir, target "wonder"
+### Example 3: memoir, target "wonder"
 
-1. Target: wonder.
-2. Anchor: an ordinary kitchen object.
-3. Preclusive: no explaining what the object is; the essay may not say "this is a kettle."
-4. Promotive: include one use the maker never intended.
-5. Distance: the reader is imagined a hundred years in the future.
-6. Wide to narrow: the kitchen first, the object last.
-7. Intrinsic: curiosity, built into the distance marker.
-8. Incubation: put it away for an evening before deciding it is finished.
+Prompt: "Describe the most ordinary object in your kitchen to someone a hundred years from now who has never seen one. You may not name what it is. Include one use its maker never intended. If you are not sure of a detail, mark the uncertainty rather than filling the gap with invention. Two paragraphs. Put it away for an evening before you decide whether it is finished."
 
-Prompt: "Describe the most ordinary object in your kitchen to someone a hundred years from now who has never seen one. You may not name what it is. Include one use its maker never intended. Start with the room, end with the object. Two paragraphs. Put it away for an evening before you decide whether it is finished."
+Components: anchor (the writer's own object); preclusive (the naming ban); promotive (the unintended use); distance (the future reader); incubation hook (the evening pause). The uncertainty instruction is a memoir-specific rule: the constraint set must not push a memoirist to invent facts. Fallback if the anchor does not fit: if the writer's kitchen has no object that interests them, let them take any object they have owned for more than ten years; the constraints survive the substitution.
 
 ## The QC checklist
 
-Run every generated prompt against all eight questions. A prompt fails on any "no".
+Run every generated prompt against these questions. A prompt passes when every answer is yes.
 
-1. Does it carry a preclusive constraint and a promotive constraint, as a pair? No: add the missing half.
-2. Does it contain any example output or any list of clichés to avoid? Yes: delete them and restate as a rule. Examples fixate; fixation is the failure you were asked to prevent.
-3. Does it carry one or two concrete anchors? No: add them.
-4. Do the constraints govern form and process rather than inventing the content? No: cut the content mandates.
-5. Is there one distance marker, or a good reason there is none? No: add one clause.
-6. Is the frame intrinsic, with nothing evaluative in it? No: rewrite the frame.
-7. Could a writer start within thirty seconds, and do they know when they are done? No: specify the output and the completion condition.
-8. If it describes a scene, does it go wide before narrow? No: reorder.
+1. Does it carry a preclusive constraint and a promotive constraint, as a pair? If one half is missing, add it or drop the other.
+2. Are its examples and any cliché lists doing work that a structural rule could do instead? If yes, restate as a rule; remember the fixation finding makes examples a caution, not a ban.
+3. Does it carry one or two concrete anchors, or a good reason not to?
+4. Does every constraint pass the constraint test: does it open at least two directions and leave the writer meaningful decisions?
+5. Is each optional component (stakes, distance, breadth ordering, incubation) earning its place for this task, or is it formula?
+6. Is the frame intrinsic, with nothing evaluative in it?
+7. Does the writer have enough information to begin, and do they know when they are done?
+8. Do three privately sketched responses diverge substantially, not just in names and scenery?
 
 ## Evidence pointers
 
-Each claim above traces to the ledger entry with the same label in docs/enrichment/sources/superskills/creative-prompt-generation.md: Haught-Tromp 2017 (paired constraints in writing), Stokes 2009 (constraint-based novelty), Smith, Ward and Schumacher 1993 (example fixation), Rietzschel, Nijstad and Stroebe 2014 (problem scope and the path of least resistance), Förster, Friedman and Liberman 2004 (temporal distance), Friedman and Förster 2010 reviewing Friedman, Fishbach, Förster and Werth 2003 (attentional breadth), Amabile 1985 (intrinsic motivation in creative writers), Sio and Ormerod 2009 (incubation). The Friedman 2003 experiments were opened through the 2010 review carrier, not through the original article; the ledger states this. Claims not covered by these sources, such as the practical phrasings of the procedure, are editorial and are marked as such in the ledger.
+Every research claim above carries an inline link to the source it came from, and every source has a full entry in [the evidence ledger](./sources/superskills/creative-prompt-generation.md): Haught-Tromp 2017 (noun constraints in a writing task; constraint practice carryover), Stokes 2009 (the paired-constraint framework), Smith, Ward and Schumacher 1993 (conformity to examples), Rietzschel, Nijstad and Stroebe 2014 (problem scope; the path-of-least-resistance account), Förster, Friedman and Liberman 2004 (temporal distance and its analytical tradeoff), Friedman and Förster 2010 reviewing Friedman, Fishbach, Förster and Werth 2003 (attentional breadth; opened through the 2010 review, not the original), Amabile 1985 (extrinsic orientation lowered poets' creativity), Sio and Ormerod 2009 (incubation and its moderators). The Friedman 2003 experiments were opened through the 2010 review carrier, not through the original article; the ledger states this. The three-directions sketch, the constraint test, the worked examples, and all practical phrasings are craft heuristics: editorial, labelled as such, and not presented as research findings.
