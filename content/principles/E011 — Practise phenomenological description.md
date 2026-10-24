@@ -12,26 +12,29 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 403** — Practise phenomenological description
 
-The maxim "To the things themselves" is phenomenology's watchword, and Heidegger gives it a working definition in Being and Time §7.
+In Being and Time §7, Heidegger presents phenomenology as a way of investigating, under the maxim "To the things themselves!" ([Macquarrie and Robinson translation, pp. 49–58](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime01.doc)). He formulates its method as:
 
 > to let that which shows itself be seen from itself in the very way in which it shows itself from itself (Heidegger, Being and Time §7C, Macquarrie & Robinson trans., [full-text reproduction](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime01.doc))
 
-For Heidegger, what is to be seen is often not what shows itself at first: phenomena lie hidden, get covered up, or show themselves in disguise, which is why phenomenology is needed at all. The meaning of phenomenological description as a method lies in interpretation (§7C).
+What needs uncovering is the being of entities, which can remain concealed even when the entities themselves are familiar; Heidegger therefore makes interpretation part of phenomenological description ([§7C, pp. 59–61](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime01.doc)). David Woodruff Smith explains the contextual emphasis: we examine our activities and the meanings things have through our relations with the world ([Phenomenology, §4](https://plato.stanford.edu/entries/phenomenology/)). This gives the inquiry a wider scope than a list of sensations.
 
-(Heidegger, 1927/2008, Being and Time, §7.)
+### Plain words
 
-**Plain words**
-Before settling on a cause for what happened, describe the experience you are trying to explain. Include what drew your attention and how the situation appeared to you. Keep your report distinguishable from guesses about its causes.
+A careful description sets out how a situation is experienced and what matters within it. It includes the practical setting: what you are trying to do, what draws your attention and how other people are involved. Keep this account open to correction as you examine it.
 
-*For example:* Imagine an argument after plans change. "I noticed warmth in my face" reports an experience; "you did that because of your mother" proposes a cause. For the exercise, separate the reported experience from the proposed explanation, without assuming either statement is automatically accurate.
+### For example
+
+While waiting for a delayed train, describe the experience: watching the clock, listening for announcements, anticipating an appointment. Revisit the account after the journey and notice what you omitted. On another occasion, compare how waiting appears when you have no urgent commitment. This is my introductory exercise, not a complete enactment of Heidegger's method.
 
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the basin-drumming story (ST031) the page lists: grief described before it is judged.
+- [[Phenomenological description]]: the concept page distinguishes description, interpretation and causal explanation.
 
 ## Sources
 
 - [Heidegger, Being and Time (1927), Macquarrie & Robinson translation, §7C, full-text reproduction, Dominican House of Studies](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime01.doc) — the definition of phenomenology and the "To the things themselves" maxim
+- [David Woodruff Smith, Phenomenology, Stanford Encyclopedia of Philosophy, §§2 and 4](https://plato.stanford.edu/entries/phenomenology/): classical methods and Heidegger's contextual interpretation.
 
 ## Stories
 
@@ -70,4 +73,3 @@ Before settling on a cause for what happened, describe the experience you are tr
 
 - **[[To the things themselves|To the things themselves]]** (Husserl, Logical Investigations)
 - **[[Phenomenological description|Phenomenological description]]** (Heidegger, Being and Time, §7; Merleau-Ponty, Phenomenology of Perception, Preface)
-

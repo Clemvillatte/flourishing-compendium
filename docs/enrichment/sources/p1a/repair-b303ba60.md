@@ -65,3 +65,11 @@ are not certified by this body-level review.
 - Repair: scoped the principle to the authors' account instead of treating it as an agreed definition of thinking. Moved the empirical finding out of the practice-example role and added an explicitly author-designed, revisable paper-folding illustration. Preserved every existing source URL occurrence.
 - Saturation: existing Embodied cognition and Varela story links retained; no additional theory-equivalence link proposed.
 - Limits: only the publisher's abstract, not the full book chapter, was opened. The walking result does not establish enactivism, a general creativity benefit or any treatment effect. Personal practice is an illustration, not a test of the theory.
+
+## E011: Phenomenological description
+
+- Opened: [Being and Time, Macquarrie and Robinson translation](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime01.doc), §7C, printed pp. 58–61 (the initial 100,000-character fetch did not reach it; re-fetched with 300,000 characters and read the relevant passage); [Smith, Phenomenology, SEP](https://plato.stanford.edu/entries/phenomenology/), §§2 and 4; [Wrathall, Heidegger, SEP](https://plato.stanford.edu/entries/heidegger/), contextual understanding extraction.
+- Evidence: retained definition matches §7C. The primary passage identifies the being of entities, not merely hidden objects or private feelings, as the theme; pp. 60–61 explicitly require interpretation and reject haphazard immediate beholding. Smith discusses interpretation through contextual relations and distinguishes three classical methods.
+- Repair: replaced the unhelpful mother-cause contrast with a first-person, revisable account of waiting. Plain words includes practical meaning and social setting rather than reducing the method to a list of bodily sensations. The exercise is explicitly introductory and author-designed.
+- Saturation: `enrich_find.py mention phenomenological description` and the Phenomenological description/Phenomenological seeing concepts were read. Added the exact concept link; its existing Cited in philosophy parallels already links E011, so the reciprocal exists and no proposal is required.
+- Limits: no claim that a short attention exercise constitutes Heidegger's full ontological method, supplies an infallible description or establishes a psychological treatment.
