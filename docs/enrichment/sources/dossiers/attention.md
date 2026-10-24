@@ -180,3 +180,13 @@ tested doses").
 Bridging: as with affect and cognition, the map sections are
 single-line attributed glosses; the reader cannot say what question
 each section answered.
+
+## Carrier re-verification (2026-10-25)
+
+The James, Principles of Psychology ch. 11 carrier (psychclassics) was
+re-opened this session. Both quoted passages are verbatim: the "Every
+one knows what attention is" definition (an excerpt ending at
+"others"; the carrier's sentence continues, correctly omitted) and
+the "My experience is what I agree to attend to" passage. The
+vol. 2 ch. XXVI carrier (Gutenberg) was not re-opened. No discrepancy
+found in the ch. 11 quotes.
