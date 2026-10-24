@@ -15,3 +15,11 @@ Verification record for docs/enrichment/dossiers/motivation.md, revision 1. Quot
 - Only two divergences were built in the available time. Candidates for a revision: purify versus order versus understand desire (Desire card; needs primary carriers: Buddhist, Aristotle, Stoic texts), and expectancy-value versus need-based accounts.
 - Boundary with the planned Goals dossier: goal-setting and goal-conflict cards are listed only where they bear on why a goal is pursued; the Goals band owner should decide the rest.
 - Story loglines were compressed from the openings of the story cards.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Four public verification-status labels removed and relocated here.
+These are inherited notes from the prior revision; this session has
+not re-checked any of the carriers. Contiguous bullet blocks were
+re-formatted as separate paragraphs; no gloss, link or quotation was
+changed.

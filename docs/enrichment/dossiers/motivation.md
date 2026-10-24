@@ -6,10 +6,13 @@ Motivation is the difference between a value held and a value acted on. The rese
 
 ### Nearby terms
 
-- Drive: held under [Drive-reduction theory](https://clemvillatte.github.io/flourishing-compendium/#card=Drive-reduction%20theory) and the brain-reward group below.
-- Desire: held in the last group below, where the traditions disagree on whether to purify it, order it or understand it.
-- Willpower: I hold self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will.
-- Goals: goal-setting and goal conflict belong to a planned Goals dossier; this page lists only goal cards that bear on why a person pursues the goal.
+Drive: held under [Drive-reduction theory](https://clemvillatte.github.io/flourishing-compendium/#card=Drive-reduction%20theory) and the brain-reward group below.
+
+Desire: held in the last group below, where the traditions disagree on whether to purify it, order it or understand it.
+
+Willpower: I hold self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will.
+
+Goals: goal-setting and goal conflict belong to a planned Goals dossier; this page lists only goal cards that bear on why a person pursues the goal.
 
 ## The map: the entries on motivation
 
@@ -105,19 +108,19 @@ Motivation is the difference between a value held and a value acted on. The rese
 
 The shared question: when a person is paid or praised for something they already enjoy, does the reward weaken the enjoyment? Deci, Koestner and Ryan's meta-analysis of 128 studies answered yes for several kinds of reward:
 
-> "As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards." ([Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/?dopt=Abstract)): Secondary source; quoted passage checked.
+> "As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards." ([Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/?dopt=Abstract))
 
 A competing meta-analysis reached the opposite bottom line:
 
-> "Our results suggest that in general, rewards are not harmful to motivation to perform a task." ([abstract of a later meta-analysis, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/)): Secondary source; quoted passage checked.
+> "Our results suggest that in general, rewards are not harmful to motivation to perform a task." ([abstract of a later meta-analysis, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/))
 
-A third paper compared the reviews and noted that "despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)): Secondary source; quoted passage checked. The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by my own cards, and with that later meta-analysis adding that "Rewards given for low-interest tasks enhance free-choice intrinsic motivation."
+A third paper compared the reviews and noted that "despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)) The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by my own cards, and with that later meta-analysis adding that "Rewards given for low-interest tasks enhance free-choice intrinsic motivation."
 
 ### Is it how much motivation, or what kind?
 
 The shared question: does the quantity of a person's drive predict how they do, or does its source? Deci and Ryan state the self-determination answer:
 
-> "that the type of motivation is generally more important than the amount in predicting life's important outcomes." ([Deci and Ryan, Canadian Psychology 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)): Secondary source; quoted passage checked.
+> "that the type of motivation is generally more important than the amount in predicting life's important outcomes." ([Deci and Ryan, Canadian Psychology 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf))
 
 They define the two types as follows: "Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self." The older needs-based and expectancy accounts that I also hold treat motivation chiefly as a matter of strength or of expected payoff; the practices here lean on the SDT reading and flag where other cards disagree in emphasis.
 
