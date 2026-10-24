@@ -363,3 +363,49 @@ Freshly fetched carriers:
 
 These are scoped checks of the revised claims, not an endorsement of all
 claims in any linked card.
+
+### Candidate pass 3: conditions, community and freedom
+
+All 17 card links retained. Local cards read. The chain is now five
+paragraphs: social attachment; opportunities and freedom; constitutive
+relations; cultural distinctions; time, health, digital settings and the
+future. No new empirical benefit is claimed for any philosophical or
+Indigenous account.
+
+Sources fetched and read for the revised claims:
+
+- https://pubmed.ncbi.nlm.nih.gov/11894851/ : unprompted abstract,
+  222-undergraduate sample, strongest relationships in happiest group;
+  sample and noncausal scope now stated.
+- https://pubmed.ncbi.nlm.nih.gov/7777651/ : unprompted review abstract;
+  belonging retained as evidence-supported hypothesis.
+- https://blogs.ubc.ca/helliwell/files/2020/10/Annals_2019.pdf :
+  social context and explicit correlation/feedback caveat.
+- https://plato.stanford.edu/entries/capability-approach/ :
+  achieved functionings vs real opportunities; Nussbaum thresholds;
+  Sen's objection to a fixed list also read for the later divergence.
+- https://berlin.wolf.ox.ac.uk/published_works/tcl/tcl-e.pdf :
+  self-mastery and coercion in the name of the true self.
+- https://plato.stanford.edu/entries/communitarianism/ :
+  identity and Sandel attachments; not a universal endorsement of communities.
+- https://plato.stanford.edu/entries/common-good/ : facilities and shared
+  relational obligations.
+- https://plato.stanford.edu/entries/federalism/ : the Nguni maxim and
+  translation, not a fresh verification of the etymology of ubuntu;
+  that etymological claim was not carried forward.
+- https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha :
+  Durie, meeting-house model and four interdependent dimensions.
+- https://link.springer.com/article/10.1007/s10902-013-9431-1 :
+  theoretical review abstract; not empirical proof of all cultures' beliefs.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/ : 29-country study;
+  value-specific moderation retained, no universal cultural-fit benefit.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/ : confirmed real
+  accessible article, Sang Yong Yoon, Frontiers in Public Health,
+  2026-07-15, DOI 10.3389/fpubh.2026.1824268; definition of subjective
+  time sufficiency and autonomy checked.
+- https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_dialogue/@actrav/documents/meetingdocument/wcms_161321.pdf :
+  social gradient throughout socioeconomic hierarchy.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7417400/ : digital well-being
+  definition only.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7797197/ : Jonas imperative
+  quoted at second hand, explicitly attributed to Mangone as carrier.
