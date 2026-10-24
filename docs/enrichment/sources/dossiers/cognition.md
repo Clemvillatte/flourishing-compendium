@@ -113,3 +113,24 @@ Added per the updated exemplar (the-self.md, Story section). Every story
 card included was opened and read this session; each logline compresses
 the story card's own telling, and no story is included from its title
 alone.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Eight public verification-status labels removed from the blockquote
+carrier lines and relocated here. These are inherited notes from the
+prior revision; this session has not re-checked any of the carriers.
+
+- Tversky and Kahneman 1974 (Science) — Study abstract; quoted passage
+  checked.
+- Clark and Chalmers, The Extended Mind — Primary text; quoted passage
+  checked (two carriers).
+- Spencer-Rodgers et al. (PSPB) — Study abstract; quoted passage checked.
+- Peirce, How to Make Our Ideas Clear — Primary text; quoted passage
+  checked (two carriers).
+- Festinger, A Theory of Cognitive Dissonance ch. 1 — Primary text;
+  quoted passages checked.
+- Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015 —
+  Scholarly interpretation; cited passage checked.
+
+No card link, quotation text or gloss was changed; only the eight
+verification suffixes moved from the public prose to this ledger.

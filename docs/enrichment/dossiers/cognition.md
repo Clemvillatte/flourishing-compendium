@@ -34,7 +34,7 @@ Thinking is what the mind does with what awareness delivers, and it is a mixed i
 
 The founding paper's own summary of the program:
 
-> "This article described three heuristics that are employed in making judgments under uncertainty: (i) representativeness, which is usually employed when people are asked to judge the probability that an object or event A belongs to class or process B; (ii) availability of instances or scenarios, which is often employed when people are asked to assess the frequency of a class or the plausibility of a particular development; and (iii) adjustment from an anchor, which is usually employed in numerical prediction when a relevant value is available. These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors." ([Tversky and Kahneman 1974, Science](https://www.science.org/doi/10.1126/science.185.4157.1124)) — Study abstract; quoted passage checked.
+> "This article described three heuristics that are employed in making judgments under uncertainty: (i) representativeness, which is usually employed when people are asked to judge the probability that an object or event A belongs to class or process B; (ii) availability of instances or scenarios, which is often employed when people are asked to assess the frequency of a class or the plausibility of a particular development; and (iii) adjustment from an anchor, which is usually employed in numerical prediction when a relevant value is available. These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors." ([Tversky and Kahneman 1974, Science](https://www.science.org/doi/10.1126/science.185.4157.1124))
 
 ### Where thinking happens
 
@@ -56,13 +56,13 @@ The founding paper's own summary of the program:
 
 Clark and Chalmers's position, in their own words:
 
-> "In these cases, the human organism is linked with an external entity in a two-way interaction, creating a coupled system that can be seen as a cognitive system in its own right." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html)) — Primary text; quoted passage checked.
+> "In these cases, the human organism is linked with an external entity in a two-way interaction, creating a coupled system that can be seen as a cognitive system in its own right." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))
 
-> "We advocate a very different sort of externalism: an active externalism, based on the active role of the environment in driving cognitive processes." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html)) — Primary text; quoted passage checked.
+> "We advocate a very different sort of externalism: an active externalism, based on the active role of the environment in driving cognitive processes." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html))
 
 Spencer-Rodgers and colleagues' definition:
 
-> "Naïve dialecticism refers to a set of East Asian lay beliefs characterized by tolerance for contradiction, the expectation of change, and cognitive holism." ([Spencer-Rodgers et al., Personality and Social Psychology Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/)) — Study abstract; quoted passage checked.
+> "Naïve dialecticism refers to a set of East Asian lay beliefs characterized by tolerance for contradiction, the expectation of change, and cognitive holism." ([Spencer-Rodgers et al., Personality and Social Psychology Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/))
 
 ### How beliefs form and hold
 
@@ -83,13 +83,13 @@ Spencer-Rodgers and colleagues' definition:
 
 Peirce's own lines:
 
-> "The essence of belief is the establishment of a habit; and different beliefs are distinguished by the different modes of action to which they give rise." ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html)) — Primary text; quoted passage checked.
+> "The essence of belief is the establishment of a habit; and different beliefs are distinguished by the different modes of action to which they give rise." ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html))
 
-> "As it appeases the irritation of doubt, which is the motive for thinking, thought relaxes, and comes to rest for a moment when belief is reached." ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html)) — Primary text; quoted passage checked.
+> "As it appeases the irritation of doubt, which is the motive for thinking, thought relaxes, and comes to rest for a moment when belief is reached." ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html))
 
 Festinger's definition:
 
-> "These two elements are in a dissonant relation if, considering these two alone, the obverse of one element would follow from the other. If, considering a pair of elements, either one does follow from the other, then the relation between them is consonant." ([Festinger, A Theory of Cognitive Dissonance, ch. 1](https://www.panarchy.org/festinger/dissonance.html)) — Primary text; quoted passages checked.
+> "These two elements are in a dissonant relation if, considering these two alone, the obverse of one element would follow from the other. If, considering a pair of elements, either one does follow from the other, then the relation between them is consonant." ([Festinger, A Theory of Cognitive Dissonance, ch. 1](https://www.panarchy.org/festinger/dissonance.html))
 
 ### The thinking that hurts
 
@@ -177,7 +177,7 @@ The shared question: when a thought is hurting you, is the work to correct its c
 
 The acceptance-and-commitment tradition's answer keeps the thought and moves the observer:
 
-> "to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/)) — Scholarly interpretation; cited passage checked.
+> "to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/))
 
 Both positions answer the same question, what to do with a painful thought, and they part on whether the thought is an object to be corrected or an event to be watched. I hold both without adjudicating which works when; the defusion card itself notes its exact cross-tradition cognates: Anatta and Self-as-context as the Buddhist and ACT accounts of the observing perspective, Right concentration as the practice of watching thoughts arise and pass.
 
