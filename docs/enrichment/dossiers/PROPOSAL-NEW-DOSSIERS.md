@@ -63,15 +63,14 @@ content; [anxiety.md](anxiety.md) and [sadness-and-grief.md](sadness-and-grief.m
 hold suffering's anticipatory and loss-related forms; [lifes-purpose.md](lifes-purpose.md)
 carries The meaning of suffering as a single entry with the Frankl attitude quote;
 [happiness.md](happiness.md) carries Dukkha as a single entry; the right-* drafts
-carry Judgment adds the harm as single entries. No dossier maps the family; the
-placements above are single entries, not a map. History
+carry Judgment adds the harm as single entries. The family was not found among the decoded targets of any staged draft;
+the placements above are single entries, not a map. History
 worth stating: the README records that the v1 abstract title "Suffering and the
 second wound" was retired, with its material meant to resurface inside topical
 dossiers; whether that disposition still serves the mission is the owner's call, and
 this proposal puts the question to them.
 
-Supporting cards (read in full: Dukkha, Limit situations, The meaning of suffering,
-The avoidance of suffering, Stuckness as suffering, Judgment adds the harm):
+Supporting cards consulted:
 - [Dukkha](../../../content/concepts/Dukkha.md) — the first Noble Truth (SN 56.11,
   SN 36.6 quoted with carriers), pain versus the second arrow, the cross-tradition
   family; companion card
@@ -88,13 +87,11 @@ The avoidance of suffering, Stuckness as suffering, Judgment adds the harm):
 - [Judgment adds the harm](../../../content/concepts/Judgment%20adds%20the%20harm.md)
   — the Stoic Enchiridion 5 doctrine and the Sallatha Sutta's two arrows side by side,
   both quoted with carriers
-- [Four Noble Truths](../../../content/concepts/Four%20Noble%20Truths.md) (read in
-  full: the four tasks as verbs of practice, with the family of diagnostic
+- [Four Noble Truths](../../../content/concepts/Four%20Noble%20Truths.md) (the four tasks as verbs of practice, with the family of diagnostic
   traditions on the card)
-- [Attitudinal values](../../../content/concepts/Attitudinal%20values.md) (read in
-  full: Frankl's three ways to meaning, with his avoidability fence and the camp
+- [Attitudinal values](../../../content/concepts/Attitudinal%20values.md) (Frankl's three ways to meaning, with his avoidability fence and the camp
   passage quoted verbatim with the carrier)
-- [Compassion](../../../content/concepts/Compassion.md) (read in full: the Gilbert
+- [Compassion](../../../content/concepts/Compassion.md) (the Gilbert
   definition, the caregiving ground, and the not-pity-not-sympathy distinctions)
 - [Tanha](../../../content/concepts/Tanha.md) and
   [Karuna](../../../content/concepts/Karuna.md) — the engine and the response, both
@@ -102,7 +99,7 @@ The avoidance of suffering, Stuckness as suffering, Judgment adds the harm):
 - principles B001, B006, B069, B099, B182, E064, M020, SP095, Y011, SE026, AF035
   (titles verified against files; bodies not read)
 - stories ST059 The Poisoned Arrow, ST078 The Two Arrows, ST289 Jaspers's Shipwreck,
-  ST311 Frankl's Why (ST059, ST078 and ST311 read in full)
+  ST311 Frankl's Why (ST059, ST078 and ST311 consulted)
 
 Draft opening question: "What is the difference between pain and suffering, and what
 does suffering ask of the person carrying it?"
@@ -127,7 +124,7 @@ acceptance. The Equanimity backlog candidate is the nearest neighbour and the
 boundary must be tested from opened sources before minting: acceptance as
 willingness toward what is already here, equanimity as evenness of mind.
 
-Supporting cards (read in full: Acceptance, Radical acceptance):
+Supporting cards consulted:
 - [Acceptance](../../../content/concepts/Acceptance.md) — the Hayes et al. 2006
   definition ("the active and aware embrace of those private events... without
   unnecessary attempts to change their frequency or form"), verified this session
@@ -136,16 +133,15 @@ Supporting cards (read in full: Acceptance, Radical acceptance):
   action; Stoic and Buddhist parallels marked on the card
 - [Radical acceptance](../../../content/concepts/Radical%20acceptance.md) — the
   feeling-as-wave skill, the ACT-for-anger and tolerance-oriented research with carriers
-- [Amor fati](../../../content/concepts/Amor%20fati.md) (read in full: the Ecce
+- [Amor fati](../../../content/concepts/Amor%20fati.md) (the Ecce
   Homo formula for greatness, and the card's reading of it as a radicalisation of
   Stoic acceptance)
 - [Experiential avoidance theory](../../../content/concepts/Experiential%20avoidance%20theory.md)
-  (read in full: the Hayes et al. 1996 founding definition and the short-term
+  (the Hayes et al. 1996 founding definition and the short-term
   relief, long-term worsening sentence, with the Frontiers carrier on the card)
-- [Action commitment](../../../content/concepts/Action%20commitment.md) (read in
-  full: the values-versus-goals contrast inside the ACT six-process model)
+- [Action commitment](../../../content/concepts/Action%20commitment.md) (the values-versus-goals contrast inside the ACT six-process model)
 - [Chronic pain acceptance](../../../content/concepts/Chronic%20pain%20acceptance.md)
-  (read in full: the McCracken and Vowles definition — engagement in activity with
+  (the McCracken and Vowles definition — engagement in activity with
   pain present, without restrictions or avoidance attempts — and the predictive
   claims, with the PMC carrier on the card)
 - kernels [K123 Radical acceptance](../../../content/kernels/K123%20%E2%80%94%20Radical%20acceptance.md)
@@ -177,7 +173,7 @@ maps the umbrella cards: Freedom, Positive freedom and Second-order desires sit 
 wing: The dizziness of freedom, Anxiety about the future, Angst and ST273 are its map
 entries and its first divergence quotes the dizziness passage, because for Kierkegaard
 the anxiety of possibility IS the dizziness of freedom. The audit confirms Escape
-from freedom is not a target in any staged dossier. What no dossier maps is the
+from freedom is not a target in any staged dossier. Not found among the decoded targets checked is the
 flight-and-will wing: Escape from freedom, Radical freedom and Situated freedom
 (Sartre), Anguish (angoisse), Psychological reactance (Brehm), Natural liberty versus
 the chains (Rousseau), The Cynic's freedom, The interdependence of freedoms. The
@@ -186,30 +182,28 @@ Anxiety asks what the anxious feeling is about; this asks what freedom is, what 
 costs and why people flee it), but two boundaries must be drawn, and the owner may
 reasonably prefer to deepen the two existing dossiers instead.
 
-Supporting cards (read in full: The dizziness of freedom, Escape from freedom):
+Supporting cards consulted:
 - [Escape from freedom](../../../content/concepts/Escape%20from%20freedom.md) — Fromm's
   authoritarianism, destructiveness and automaton conformity with the panarchy
   carrier, plus the IEP-recorded limits of Fromm's diagnosis
 - [The dizziness of freedom](../../../content/concepts/The%20dizziness%20of%20freedom.md)
   — the Kierkegaard passage with its carrier, and the honest limit that the passage
   sits inside a theological argument
-- [Radical freedom](../../../content/concepts/Radical%20freedom.md) (read in full:
+- [Radical freedom](../../../content/concepts/Radical%20freedom.md) (
   the Sartrean for-itself in a factical situation via SEP),
   [Psychological reactance](../../../content/concepts/Psychological%20reactance.md)
-  (read in full: the Brehm definition and the boomerang effect with the Frontiers
+  (the Brehm definition and the boomerang effect with the Frontiers
   carrier),
-  [Situated freedom](../../../content/concepts/Situated%20freedom.md) (read in full:
+  [Situated freedom](../../../content/concepts/Situated%20freedom.md) (
   the Sartre–Merleau-Ponty exchange on freedom-in-situation, with the Helsinki
   thesis carrier),
-  [Anguish (angoisse)](../../../content/concepts/Anguish%20%28angoisse%29.md) (read
-  in full: the anguish-versus-fear distinction from Being and Nothingness),
-  [Second-order desires](../../../content/concepts/Second-order%20desires.md) (read
-  in full: Frankfurt's 1971 volitions and the figure of the wanton),
+  [Anguish (angoisse)](../../../content/concepts/Anguish%20%28angoisse%29.md) (the anguish-versus-fear distinction from Being and Nothingness),
+  [Second-order desires](../../../content/concepts/Second-order%20desires.md) (Frankfurt's 1971 volitions and the figure of the wanton),
   [Natural liberty versus the chains](../../../content/concepts/Natural%20liberty%20versus%20the%20chains.md)
-  (read in full: Rousseau's three liberties from the Social Contract)
+  (Rousseau's three liberties from the Social Contract)
 - story [ST273 The Dizziness of Freedom](../../../content/stories/ST273%20%E2%80%94%20The%20Dizziness%20of%20Freedom.md)
   and kernel [K315 Freedom in constraint](../../../content/kernels/K315%20%E2%80%94%20Freedom%20in%20constraint.md)
-  (both read)
+  (both consulted)
 
 Draft opening question: "What is freedom for, and why do people run from it?"
 
@@ -239,7 +233,7 @@ caught: Second nature is Aristotle's habit concept (NE II.1, VII.10), and S005 L
 according to nature is Stoic cosmic nature (Meditations II.9); neither belongs to
 this cluster.
 
-Supporting cards (read in full: Nature exposure, Ecological self):
+Supporting cards consulted:
 - [Nature exposure](../../../content/concepts/Nature%20exposure.md) — the Bratman et
   al. 2015 experiment, verified this session against
   [the opened PNAS carrier](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/);
@@ -247,24 +241,20 @@ Supporting cards (read in full: Nature exposure, Ecological self):
 - [Ecological self](../../../content/concepts/Ecological%20self.md) — Naess's account
   of the self as constituted by relations with the living world, with the Devall
   essay carrying the passage on the card; practice principles R119, R116, P152, R130
-- [Nature as teacher](../../../content/concepts/Nature%20as%20teacher.md) (read in
-  full: the Zhuangzi ch. 22 passage with the Watson carrier),
+- [Nature as teacher](../../../content/concepts/Nature%20as%20teacher.md) (the Zhuangzi ch. 22 passage with the Watson carrier),
   [Intrinsic value of nature](../../../content/concepts/Intrinsic%20value%20of%20nature.md)
-  (read in full: Taylor's 1981 principle with the SEP vocabulary and the card's own
+  (Taylor's 1981 principle with the SEP vocabulary and the card's own
   limits note),
-  [Ecological grief](../../../content/concepts/Ecological%20grief.md) (read in
-  full: the Cunsolo and Ellis definition with the solastalgia boundary),
-  [Nature connectedness](../../../content/concepts/Nature%20connectedness.md) (read
-  in full: the Mayer and Frantz scale with the Capaldi meta-analysis),
-  [Ecological gratitude](../../../content/concepts/Ecological%20gratitude.md) (read
-  in full: the Mayer and Frantz correction and the Chen et al. 2022 experiment, with
+  [Ecological grief](../../../content/concepts/Ecological%20grief.md) (the Cunsolo and Ellis definition with the solastalgia boundary),
+  [Nature connectedness](../../../content/concepts/Nature%20connectedness.md) (the Mayer and Frantz scale with the Capaldi meta-analysis),
+  [Ecological gratitude](../../../content/concepts/Ecological%20gratitude.md) (the Mayer and Frantz correction and the Chen et al. 2022 experiment, with
   the study's own limits recorded on the card),
-  [Deep ecology](../../../content/concepts/Deep%20ecology.md) (read in full: the
+  [Deep ecology](../../../content/concepts/Deep%20ecology.md) (the
   shallow-versus-deep contrast and the biospheric-egalitarianism modification)
 - story [ST345 The Army Enlisted Against Nature](../../../content/stories/ST345%20%E2%80%94%20The%20Army%20Enlisted%20Against%20Nature.md)
   and kernels [K205 Nature exposure](../../../content/kernels/K205%20%E2%80%94%20Nature%20exposure.md),
   [K303 Sensory nature immersion](../../../content/kernels/K303%20%E2%80%94%20Sensory%20nature%20immersion.md)
-  (all three read)
+  (all three consulted)
 
 Draft opening question: "What does contact with the living world do to a mind?"
 
@@ -293,15 +283,14 @@ placed (fear.md maps Death anxiety research and the Epicurean argument; anxiety.
 also maps Death anxiety research); Impermanence sits in uncertainty.md and
 genuine-flourishing.md; wisdom.md carries Death reflection as a single entry; the
 practice kernels K222 and K316 sit in uncertainty.md's practice section and in the
-GF and Life's Purpose practice lists; Being-toward-death is a single GF entry. What
-no dossier maps: Mortality salience (the terror-management account), Finitude,
+GF and Life's Purpose practice lists; Being-toward-death is a single GF entry. Not found among the decoded targets checked:
+Mortality salience (the terror-management account), Finitude,
 Death acceptance, the deathbed test kernel. So this is a promotion case, stated as
 such: the material exists, is scattered across at least five dossiers, and no
 dossier owns the question. The distinct question survives: Fear holds the affective
 response to dying; this holds death as the shaper of meaning, gratitude and choice.
 
-Supporting cards (read in full: Being-toward-death, Death reflection, Death
-acceptance; the rest opened in part):
+Supporting cards consulted:
 - [Being-toward-death](../../../content/concepts/Being-toward-death.md) — the
   Heideggerian analysis via SEP: anticipation rather than brooding, mortality as
   the clarifier of finite choice
@@ -323,7 +312,7 @@ acceptance; the rest opened in part):
 - principles B055, B193, E043, E054, M039, M040, P106, S024, S104, S128, SP068,
   D090 (titles verified against files; bodies not read)
 - story [ST272 Being-toward-Death](../../../content/stories/ST272%20%E2%80%94%20Being-toward-Death.md)
-  (read)
+  (consulted)
 
 Draft opening question: "What does being mortal do to the meaning of a life?"
 
@@ -367,7 +356,7 @@ is a registry decision.
   and Character development as single entries inside its own argument; Behaviour
   (planned) is scoped to hold the habit-formation science that Habituation bridges
   to. What remains unmapped is a thin remainder: Habituation, Sophrosyne, Friendship
-  shapes character, The chain of virtue (all verified unmapped by the audit). If the
+  shapes character, The chain of virtue (not found among the decoded targets checked). If the
   owner wants a character dossier, the distinct central question would have to be
   established against Wisdom, Genuine Flourishing and Behaviour first; my honest
   reading is that the cards do not yet support it, and the deeper route is expanding
