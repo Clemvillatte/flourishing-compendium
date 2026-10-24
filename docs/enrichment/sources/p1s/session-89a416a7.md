@@ -210,3 +210,9 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - Opened unprompted: [Bodhi, Going for Refuge & Taking the Precepts](https://accesstoinsight.org/lib/authors/bodhi/wheel282.html), Taking the Precepts I; [Five Precepts study guide](https://accesstoinsight.org/ptf/dhamma/sila/pancasila.html), complete page; [AN 8.41 Britannica primary-source mirror](https://cdn.britannica.com/primary_source/gutenberg/PGCC_classics/canon/anguttara/an08-041.html), full text.
 - Bodhi quotation and fourth-precept formula match exactly. The initial resistance/repetition/virtue paraphrase is explicitly Bodhi's explanation, not presented as a new empirical result. AN 8.41's distinct day-and-night, eight-factor observance is accurately kept separate.
 - The strong body, Plain words and truthful-deadline example remain unchanged. Moved the Hadot comparison to Related thinkers and removed “the page lists”; no new book attribution or whole-source endorsement.
+
+## B165: peace and action, source recheck
+
+- Opened unprompted in full: [Dhammapada VII](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.budd.html) and [John Malkin's Thich Nhat Hanh interview](https://www.lionsroar.com/in-engaged-buddhism-peace-begins-with-you/). All three retained quotations match exactly, including “loving-kindness” and “Action should be meditation at the same time.”
+- The interview supports the attributed recollection of the US peace movement and the wounded-child/breathing example. These remain his observations/teaching, not general psychological or historical causal conclusions endorsed as established by this item.
+- Preserved the strong Plain words and kitchen-request example, including its refusal to guarantee agreement. Moved the inherited thinker comparisons out of Sources; removed “the page lists/cites” without changing link markup or claims. No whole-Hadot certification.
