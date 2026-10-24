@@ -109,7 +109,7 @@ The clinical definition that the modern practice family works from, Kabat-Zinn's
 
 Thanissaro, reading the Pali sati against that definition, denies that this is what sati is; the remembering, keeping-in-mind quality is the factor, and bare non-judgmental presence belongs to other mental qualities:
 
-> "Directions such as “bring bare attention to the breath,” or “accept the breath,” or whatever else modern teachers tell us that mindfulness is supposed to do, are actually functions for other qualities in the mind. They're not automatically a part of sati." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)): Scholarly essay by a monastic translator; quoted passages checked.
+> "Directions such as “bring bare attention to the breath,” or “accept the breath,” or whatever else modern teachers tell us that mindfulness is supposed to do, are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)): Scholarly essay by a monastic translator; quoted passages checked.
 
 And he rejects the passivity the clinical definition suggests, from the same essay:
 
