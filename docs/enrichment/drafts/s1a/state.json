@@ -1577,7 +1577,18 @@
      "note": "Orpheus Chamber Orchestra; quotes from founder (LA Times 1994) and artistic director (Violin Channel 2020), both opened; DDJ political frame marked NOT carried"
     }
    ]
+  },
+  "s1a-053": {
+   "status": "ready",
+   "angle": "",
+   "history": [
+    {
+     "t": "2026-10-24T14:22:42+00:00",
+     "to": "ready",
+     "note": "Dorothy journal + Wordsworth Preface + 1807 poem, all raw texts opened; 1807 text quoted, not 1815 revision"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:21:10+00:00"
+ "updated": "2026-10-24T14:22:42+00:00"
 }
