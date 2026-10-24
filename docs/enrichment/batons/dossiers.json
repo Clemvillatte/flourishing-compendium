@@ -39,5 +39,7 @@
    "from": "supervisor-pplx-dossiers-1024b",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-24T05:10:37+00:00"
 }
