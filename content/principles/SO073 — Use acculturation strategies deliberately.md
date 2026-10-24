@@ -32,7 +32,7 @@ A later meta-analysis reads this evidence differently:
 
 The same paper concludes that "the role of acculturation for adaptation may be limited at best" and points to contextual factors such as discrimination, language barriers, and social support (Bierwiaczonek & Kunst, 2021).
 
-**Plain words** Berry distinguishes maintaining a heritage culture from participating in the wider society. Integration combines the two. His account of marginalization includes enforced cultural loss and exclusion. He describes integration as least stressful where the wider society accommodates it. A later meta-analysis found weak associations between acculturation and adaptation. Use these categories to ask what you want to maintain and what opportunities or constraints you face.
+**Plain words** When you move between cultures you get handed two questions you did not choose: how much of where you came from do you want to keep, and how much of where you now live do you want to join? The answers are not one answer — you can hold both, drop both, keep one and refuse the other. Berry's insight is that these are choices people make, not things that just happen to them, and the deliberate part matters because the default under stress is drift, not strategy. The honest caveat from the 2021 meta-analysis is that the strategy matters less than the context: discrimination and language barriers will do more to your adaptation than your acculturation strategy ever will.
 
 *For example:* A migrant family keeps the mother tongue at home and uses the local language at work and school, treating both languages as parts of one arrangement.
 
