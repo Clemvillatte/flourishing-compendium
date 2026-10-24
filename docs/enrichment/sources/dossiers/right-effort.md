@@ -104,7 +104,13 @@ persistence, Sona Sutta, and the effort/energy/persistence/grit family.
   to exert oneself from knowing what to cultivate, which is the four-
   efforts question in narrative form. The saying card Right action
   rewarded (Buddhism, karma) is a stub off-theme for effort and is
-  excluded.
+  excluded. Ud 4.1 (Thanissaro, Access to Insight, opened raw this
+  session) directly verifies the logline: Meghiya asks three times
+  ("A second time... A third time..."), the Buddha defers twice and
+  then allows ("As you are talking about exertion, Meghiya, what can
+  we say?"), and in the grove Meghiya is "assailed by three kinds of
+  unskillful thoughts: thoughts of sensuality, thoughts of ill will,
+  and thoughts of doing harm."
 - The Right effort card's illustrative scenario (five minutes on a
   low-energy morning) is folded into the B058 practice line rather than
   quoted, per the card's own note that it is illustrative, not
