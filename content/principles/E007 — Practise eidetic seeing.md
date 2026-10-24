@@ -19,11 +19,11 @@ In Ideas I, Husserl distinguishes intuiting an individual object from intuiting 
 
 Section 70 gives the geometer's freedom to reshape imagined figures as an example of clarifying essential possibilities. The aim is not to count features shared by a sample of actual things, but to consider what can change while an object remains of the kind being examined ([Ideas I §70, pp. 130–131](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf)).
 
-Jaakko Belt offers a self-correcting interpretation: claimed eidetic insights can be mistaken and refined through renewed variation. His account keeps the inquiry open to further possibilities; it does not prescribe an exhaustive count of examples ([Belt, §2 and discussion of self-correction](https://link.springer.com/article/10.1007/s10516-021-09611-1)).
+Jaakko Belt reads Husserl's method as self-correcting: claimed eidetic insights can be mistaken and refined through renewed variation. The inquiry stays open to further possibilities rather than closing on a finished count of examples ([Belt 2022, Axiomathes 32(Suppl 2), 405-434](https://link.springer.com/article/10.1007/s10516-021-09611-1)).
 
 ### Plain words
 
-Change features deliberately and ask whether you are still considering the same kind of thing. If a feature seems indispensable, examine further possibilities rather than declaring the matter settled. A limit in your imagination may also need questioning.
+Change features deliberately and ask whether you are still considering the same kind of thing. If a feature seems indispensable, examine further possibilities rather than declaring the matter settled. And when you cannot imagine a feature changing, test whether that is a fact about the thing or a limit of your own imagination.
 
 ### For example
 
