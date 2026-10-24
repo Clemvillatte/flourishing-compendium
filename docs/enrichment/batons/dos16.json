@@ -27,5 +27,7 @@
    "from": "worker-pplx-dos27-mint",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-24T14:57:40+00:00"
 }
