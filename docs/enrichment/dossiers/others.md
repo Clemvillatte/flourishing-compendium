@@ -6,11 +6,13 @@ The theme asks a double question: what other people do to a person's mind and fl
 
 ## Nearby terms
 
-[Friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship) and [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion) are dossier-grade concepts treated inside this dossier; their cards carry the tradition-specific detail. Related themes handled in sibling dossiers: attachment and the self-concept are taken up in the Self dossier; gratitude, which is directed toward benefactors, has its own dossier; forgiveness and the repair of injury are mapped in the Anger dossier; habit formation and behaviour change belong to the Behaviour dossier.
+[Friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship) and [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion) are treated inside this dossier, and their cards carry the tradition-specific detail. Related themes handled elsewhere: gratitude has its own dossier; forgiveness and the repair of injury are mapped in the Anger dossier; habit formation and behaviour change belong to the Behaviour dossier; the self-concept belongs to the Self dossier.
 
 ## The map: the entries on others
 
 ### What other people do to a person
+
+The first question is causal: what changes in a person's body and mind when trusted others are present, and what signal fires when they are absent. The entries run from the brain's default expectations to the felt experience of disconnection.
 
 [Social baseline](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20baseline): the human brain treats the company of trusted others as its default condition, so managing alone costs metabolic and neural resources.
 
@@ -48,6 +50,8 @@ Cacioppo and Hawkley give the negative side of the same arrangement:
 
 ### How the self is built from others
 
+The second question is constitutive: if the self is partly built out of other people, what exactly is it made of, the roles taken, the mirrors held, the groups joined, the bonds formed?
+
 [The social self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20self): Mead's answer to what a self is made of: something with a development, arising in social conduct.
 
 [The social selves](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20selves): William James's term for the version of a person that exists in other people's minds.
@@ -67,6 +71,8 @@ Cacioppo and Hawkley give the negative side of the same arrangement:
 [Erikson's psychosocial theory](https://clemvillatte.github.io/flourishing-compendium/#card=Erikson%27s%20psychosocial%20theory): the lifespan stages whose central conflicts are relational, from trust versus mistrust to intimacy versus isolation and generativity.
 
 ### Empathy: feeling with, and understanding
+
+The third question is epistemic: how does one mind reach another, how well can it be done, and where does it systematically fail?
 
 [Empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Empathy): the capacity to feel with and understand another; the umbrella the rest of these entries divide.
 
@@ -94,6 +100,8 @@ The training research separates two states a person can bring to another's pain.
 
 ### Compassion, kindness and care
 
+Feeling-with raises a fourth question: what is the trained response to another's pain, and what distinguishes the responses that help from the ones that exhaust the giver?
+
 [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion): the wish to relieve suffering when it is seen, trainable as a capacity.
 
 [Karuna](https://clemvillatte.github.io/flourishing-compendium/#card=Karuna): the second brahmavihara: where metta wishes all beings well, karuna responds to their pain.
@@ -116,7 +124,7 @@ The Karaṇīya Metta Sutta gives the instruction its measure:
 
 [Care ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Care%20ethics): the normative theory that moral action centers on relationships and benevolence.
 
-[The ethics of care](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ethics%20of%20care): Held's version: moral significance lives in relationships and dependencies, and universal rules considered in the abstract come second.
+[The ethics of care](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ethics%20of%20care): Held's version: moral significance is located in relationships and dependencies, with universal rules considered in the abstract as the comparison class.
 
 [Gilligan's ethics-of-care theory](https://clemvillatte.github.io/flourishing-compendium/#card=Gilligan%27s%20ethics-of-care%20theory): the claim that moral reasoning has more than one voice.
 
@@ -129,6 +137,8 @@ The Karaṇīya Metta Sutta gives the instruction its measure:
 [Helper's high](https://clemvillatte.github.io/flourishing-compendium/#card=Helper%27s%20high): Post's label for the pleasurable state many people report after helping someone.
 
 ### Love and friendship
+
+The bonds themselves are the fifth question: what love is made of, which loves last, and what the company we keep does to the people we become.
 
 [Love](https://clemvillatte.github.io/flourishing-compendium/#card=Love): the terrain Aristotle opens by calling friendship a thing most necessary for life.
 
@@ -163,6 +173,8 @@ Aristotle closes the account of friendship with its limit:
 [The interconnected good](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interconnected%20good): the Stoic teaching that a person's good is part of one woven system.
 
 ### What one person owes another
+
+The sixth question is normative: what one person owes another, and how far the claim extends.
 
 [Being-for-others](https://clemvillatte.github.io/flourishing-compendium/#card=Being-for-others): Sartre's ontological principle for the experience of being seen.
 
@@ -204,6 +216,8 @@ Aristotle closes the account of friendship with its limit:
 
 ### Helping: altruism and its debates
 
+The seventh question is motivational: when help is given, whose welfare is the helper serving?
+
 [Altruism](https://clemvillatte.github.io/flourishing-compendium/#card=Altruism): motivation aimed at another person's good for that person's sake, not as a means to one's own.
 
 [Altruism theory Batson empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Altruism%20theory%20Batson%20empathy): the research program testing whether empathy produces genuinely other-directed motivation.
@@ -225,6 +239,8 @@ Aristotle closes the account of friendship with its limit:
 [Social influences on motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20influences%20on%20motivation): the ways other people, their norms and their support change what a person wants and how strongly.
 
 ### Relationships and communities as structures
+
+The last map question is structural: what forms relationships take, how they are kept and ended, and how communities hold their members.
 
 [Relationship categorisation](https://clemvillatte.github.io/flourishing-compendium/#card=Relationship%20categorisation): how people sort their relationships into kinds and where they draw the boundaries, in Fehr's research.
 
@@ -270,7 +286,7 @@ The theme comes in narrative form too:
 
 [ST288 — Joel and Clementine Erase Each Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): a failed couple each pay to erase the other from memory; inside the procedure, Joel fights to keep her.
 
-[ST315 — Loneliness and Mortality](https://clemvillatte.github.io/flourishing-compendium/#card=ST315%20%E2%80%94%20Loneliness%20and%20Mortality): Holt-Lunstad's meta-analysis: people with stronger social relationships had a 50 per cent increased likelihood of survival.
+[ST315 — Loneliness and Mortality](https://clemvillatte.github.io/flourishing-compendium/#card=ST315%20%E2%80%94%20Loneliness%20and%20Mortality): Holt-Lunstad's meta-analysis: across 148 studies, stronger social relationships predicted higher survival odds (OR 1.50), a 50 per cent increased likelihood of survival in the authors' phrasing.
 
 [ST313 — Jane Goodall's Two Careers](https://clemvillatte.github.io/flourishing-compendium/#card=ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): the naturalist whose discoveries at Gombe redefined the boundary between human and animal, and who left fieldwork permanently after the 1986 conference on the chimpanzees' conditions.
 
@@ -284,13 +300,13 @@ The theme comes in narrative form too:
 
 The shared question: what does one owe the person who has done harm? The Analects record the proposal and Confucius' rejection of it:
 
-> "Some one said, 'What do you say concerning the principle that injury should be recompensed with kindness?' The Master said, 'With what then will you recompense kindness? Recompense injury with justice, and recompense kindness with kindness.'" ([Confucius, Analects 14.34, Legge translation](https://ctext.org/analects/xian-wen))
+> Some one said, "What do you say concerning the principle that injury should be recompensed with kindness?" The Master said, "With what then will you recompense kindness? Recompense injury with justice, and recompense kindness with kindness." ([Confucius, Analects 14.34, Legge translation](https://ctext.org/analects/xian-wen))
 
-The Gospel commands the opposite economy:
+The Gospel commands the other response:
 
 > "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
 
-The two positions differ over whether the response owed to injury should be the same as the response owed to kindness. Confucius keeps the two apart: injury is recompensed with justice, kindness with kindness, and his question, with what then will you recompense kindness, treats that distinction as the thing to preserve. The Gospel removes the separation: the enemy is to be loved, the persecutor prayed for. What remains unresolved is whether the two are rival answers to one question, or answers to two different questions, what is owed and what may be given; nothing in either passage settles that.
+Confucius prescribes justice toward injury and kindness toward kindness, and his question, with what then will you recompense kindness, treats that distinction as the thing to preserve. Matthew commands doing good even toward those who hate and persecute. What remains unresolved is how enemy-love relates to justice: neither passage settles whether the two are rival answers to one question, or answers to two different questions, what is owed and what may be given.
 
 ### Is empathy-based helping for the other or for the self?
 
@@ -302,7 +318,7 @@ Cialdini's group answered with the opposite interpretation, tested in the paradi
 
 > "We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy." ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/))
 
-The disagreement is direct: the same laboratory situation, the same helping behaviour, and two rival accounts of what the helper is seeking, the other's welfare or relief from the helper's own sadness. My page on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, with the limits kept on record there. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
+The disagreement is direct: empathy-related helping has two rival explanations on the table, the other's welfare or relief from the helper's own sadness, and each camp ran its own tests of the other's account. My page on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, with the limits kept on record there. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
 
 ## Practice: variation, selection, retention
 

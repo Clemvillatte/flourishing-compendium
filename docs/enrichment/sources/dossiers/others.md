@@ -42,9 +42,10 @@ word-for-word against a carrier opened during this session.
   empathy-altruism hypothesis claims...") matches verbatim. Correction in
   revision 3: revision 2 had quoted the sentence beginning "Emotional
   arousal elicited by witnessing..." under the 1988 label; that sentence
-  belongs to the 1991 paper (PubMed 1941512, also opened via efetch this
-  session). The 1988 abstract's own definition sentence is now used and the
-  citation is correct.
+  belongs to the 1991 paper (PubMed 1941512, opened via efetch twice this
+  session, most recently as a literal-match check on 2026-10-24 at ~14:22Z,\  where the sentence's opening appears in the record's abstract). The 1988
+  abstract's own definition sentence is now used and the citation is
+correct.
 - Cialdini et al. 1987 (JPSP 52.4, "Empathy-based helping: is it selflessly
   or selfishly motivated?").
   Carrier opened: PubMed 3572736 via NCBI eutils efetch.
@@ -77,9 +78,10 @@ word-for-word against a carrier opened during this session.
 
 Each per-entry description is compressed from the linked entry's own opening
 claim (source: the content/ file for each card). The eight practice kernels
-were read in full, including their protocols. All nine story cards used
-(ST077, ST079, ST194, ST243, ST262, ST267, ST288, ST313, ST315) were read in
-full. No outside carrier is cited for these; they carry no quotation.
+were read in full, including their protocols and evidence notes. All nine
+story cards used (ST077, ST079, ST194, ST243, ST262, ST267, ST288, ST313,
+ST315) were read in full. No outside carrier is cited for these; they carry
+no quotation.
 
 ## Card links
 
@@ -155,3 +157,25 @@ been false.
 - Divergence 2's unresolved clause is now bounded to the two opened
   abstracts and the wiki's own Altruism-theory card; the longer history of
   the Batson-Cialdini debate is not cited.
+## Revision 4 (advisor round 3 + humanizer bridging)
+
+- Divergence 1: "commands the opposite economy" lead-in replaced; the
+  analysis no longer claims the Gospel "removes the separation" and now
+  states each position's own prescription, with the unresolved point being
+  how enemy-love relates to justice.
+- Divergence 2: "the same laboratory situation" replaced with a bounded
+  description; the sentence "and each camp ran its own tests of the other's
+  account" was left in place grounded in the two abstracts, each of which
+  reports its own tests.
+- Analects block quote now preserves the carrier's punctuation exactly
+  (inner double quotes as in the Legge text on ctext; no outer wrapper).
+- ST315 logline now displays the effect as the paper reports it: higher
+  survival odds, OR 1.50, with the 50 per cent phrasing attributed to the
+  authors.
+- Held description rewritten without the invented ranking ("come second").
+- Nearby terms: attachment claim corrected (attachment theory and attachment
+  security are now map entries in this dossier); "dossier-grade" wording
+  removed.
+- Map subthemes now open with a bridging line that poses the subtheme's
+  question, per the 2026-10-24 owner directive in HUMANIZER-SKILL.md.
+- Checker exit 0 (133 card links, 9 external carriers); voice audit exit 0.
