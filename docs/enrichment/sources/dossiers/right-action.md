@@ -55,6 +55,22 @@ the story-section note below.
   men become builders...". Verified against the fetched page. This note
   is recorded here rather than in the dossier, per the humanizer pass.
 
+## Factual audit of map descriptions (pass 6 follow-up)
+
+The descriptions added in passes 3-4 (Spontaneous right action,
+Truthfulness, Moral disengagement research, Virtue ethics, Moral
+cultivation (xiushen), The rehearsal of virtue, The unity of the
+virtues, The courage to act against impulse, The moral situation,
+Ethics as foundation) were each checked against their content/ files;
+all ten are supported, including the Ethics as foundation claim
+(Commandments non-injury, truthfulness, abstention from stealing and
+the rest, placed before the Rules, per Yoga Sutras II.29-II.32 in the
+Johnston translation). A further sample of pass-1 descriptions (Right
+action, Karma, Compassion, Generosity) was checked the same way; all
+four are supported. A sentence-length scan of the dossier's non-quote
+prose found no sentence above 55 words after the Angulimala logline
+was shortened.
+
 ## Map descriptions
 
 Each per-entry description in the dossier is compressed from the linked
