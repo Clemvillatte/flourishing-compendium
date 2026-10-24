@@ -213,6 +213,48 @@ Angulimala (right action), ST064 The Lute String (concentration),
 ST070 Dogen Just Sits (sitting/concentration), ST078 The Two Arrows
 (wisdom).
 
+## ST075 carrier hunt (pass 13, worker-pplx-dos24-1025a, 2026-10-24)
+
+The pass-11 open item was to find the simile's carrier. The hunt is
+resolved, with a negative result for the card as written and two
+verified carriers for the underlying image:
+
+- The commentarial simile is a WILD CALF, not a monkey. The carrier is
+  the Papañcasūdanī commentary as translated in Soma Thera's The Way
+  of Mindfulness (https://www.accesstoinsight.org/lib/authors/soma/
+  wayof.html, opened and read this pass): "A cowherd wishing to tame a
+  wild calf nourished entirely on the milk of a wild cow, ties that
+  calf, after leading it away from the cow, to a stout post firmly
+  sunk in the ground... That calf, having jumped hither and thither,
+  and finding it impossible to run away from here, will crouch down or
+  lie down at that very post." and "Even so, must the bhikkhu who is
+  desirous of taming the wild mind... tie that mind to the post of the
+  object of mindfulness-arousing with the rope of remembrance... it
+  will finally sit or lie down at that every object by way of partial
+  and full absorption." The verse follows: "As one who wants to
+  break a wild young calf / Would tether it to stout stake firmly,
+  here, / In the same way the yogi should tie fast / To meditation's
+  object his own mind." FULL MATCH against the opened page.
+- The canonical single-post simile that includes a MONKEY is the six
+  animals of SN 35.247 (Chappāṇakopama Sutta), where a man ties a
+  snake, a crocodile, a bird, a dog, a jackal and a monkey to a
+  strong post or stake, and the Buddha explains the designation. The
+  direct accesstoinsight sutta URL returned a not-found page this
+  pass; the wording was verified from accesstoinsight's Body-and-Mind
+  study anthology quoting the Thanissaro translation
+  (https://www.accesstoinsight.org/lib/study/bodymind.html, opened via
+  curl this pass, 152003 bytes): "The 'strong post or stake' is a
+  term for mindfulness immersed in the body."
+- CONCLUSION: no carrier was found for a single monkey tied to a
+  post; the ST075 card's telling appears to conflate the commentarial
+  calf simile with the six-animals simile. The underlying point (the
+  mind tethered to a post of mindfulness settles there) is carried by
+  both verified carriers. The card itself is not this band's file to
+  repair; the logline stays out of the dossier and the conflation is
+  FLAGGED for the supervisor / concept band (ST075 needs its animal
+  and carrier corrected: calf per Papañcasūdanī, or the six animals
+  per SN 35.247).
+
 ## Card-body audit (pass 6 follow-up)
 
 A description audit read the assembled card bodies (frontmatter
