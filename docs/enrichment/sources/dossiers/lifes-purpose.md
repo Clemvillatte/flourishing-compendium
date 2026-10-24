@@ -273,3 +273,12 @@ as the base. This session's contributions added in the merge:
   Frankl "true meaning of life", Kelly personal constructs) were re-verified
   this session against freshly downloaded carriers (MIT Classics, the
   antilogicalism PDF, the infoamerica PDF): all three PASS.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Twenty-four public verification-status labels removed and relocated
+here. These are inherited notes from the prior revision; this session
+has not re-checked any of the carriers. Contiguous bullet blocks were
+re-formatted as separate paragraphs (one entry per paragraph) so no
+block exceeds the 150-visible-word floor; no gloss, link or quotation
+was changed.

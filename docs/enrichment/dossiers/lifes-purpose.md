@@ -6,11 +6,15 @@ A purpose is the aim a life organises itself around, and its absence is felt as 
 
 ### Nearby terms
 
-- Meaning: the umbrella this page works under; the research tradition's measures of it are held by [Existential meaning](https://clemvillatte.github.io/flourishing-compendium/#card=Existential%20meaning) and [Meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-making).
-- Purpose: the aim itself; [Purpose](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose) and the direction-setting research behind [PP025 — Clarify purpose as a direction](https://clemvillatte.github.io/flourishing-compendium/#card=PP025%20%E2%80%94%20Clarify%20purpose%20as%20a%20direction).
-- Calling and vocation: the work-centred versions of the theme, held by [Calling orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Calling%20orientation) and [Vocation as calling](https://clemvillatte.github.io/flourishing-compendium/#card=Vocation%20as%20calling).
-- Eudaimonia: the good life this page's aims feed into; its cards live in the Genuine Flourishing dossier.
-- Flow and absorption: the attention side of deep involvement; it lives in the Attention dossier, with [Vital engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Vital%20engagement) the bridge card named here.
+Meaning: the umbrella this page works under; the research tradition's measures of it are held by [Existential meaning](https://clemvillatte.github.io/flourishing-compendium/#card=Existential%20meaning) and [Meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-making).
+
+Purpose: the aim itself; [Purpose](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose) and the direction-setting research behind [PP025 — Clarify purpose as a direction](https://clemvillatte.github.io/flourishing-compendium/#card=PP025%20%E2%80%94%20Clarify%20purpose%20as%20a%20direction).
+
+Calling and vocation: the work-centred versions of the theme, held by [Calling orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Calling%20orientation) and [Vocation as calling](https://clemvillatte.github.io/flourishing-compendium/#card=Vocation%20as%20calling).
+
+Eudaimonia: the good life this page's aims feed into; its cards live in the Genuine Flourishing dossier.
+
+Flow and absorption: the attention side of deep involvement; it lives in the Attention dossier, with [Vital engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Vital%20engagement) the bridge card named here.
 
 ## The map: the entries on purpose and meaning
 
@@ -24,7 +28,7 @@ A purpose is the aim a life organises itself around, and its absence is felt as 
 
 The comprehension pillar in Steger's own words:
 
-> "Comprehension encompasses people's ability to find patterns, consistency, and significance in the many events and experiences in their lives, and their synthesis and distillation of the most salient, important, and motivating factors." ([Steger, Meaning in Life, The Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120?redirectedFrom=fulltext)) — Scholarly interpretation; cited passage checked.
+> "Comprehension encompasses people's ability to find patterns, consistency, and significance in the many events and experiences in their lives, and their synthesis and distillation of the most salient, important, and motivating factors." ([Steger, Meaning in Life, The Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120?redirectedFrom=fulltext))
 
 [Mattering](https://clemvillatte.github.io/flourishing-compendium/#card=Mattering) and [Existential mattering](https://clemvillatte.github.io/flourishing-compendium/#card=Existential%20mattering): the sense that one's existence makes a difference, often treated as a domain distinct from purpose and coherence in the meaning-in-life literature; George and Park describe it as an entity's sense of having value to the world.
 
@@ -42,37 +46,37 @@ The comprehension pillar in Steger's own words:
 
 Frankl's own statement of the motivational claim:
 
-> "According to logotherapy, this striving to find a meaning in one's life is the primary motivational force in man." ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.
+> "According to logotherapy, this striving to find a meaning in one's life is the primary motivational force in man." ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
 
 And of the reversal at the centre of the book:
 
-> "it did not really matter what we expected from life, but rather what life expected from us." ([Frankl, Man's Search for Meaning, full text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl)) — Primary text; quoted passages checked.
+> "it did not really matter what we expected from life, but rather what life expected from us." ([Frankl, Man's Search for Meaning, full text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl))
 
 The camp passage behind the why-to-live motto, in Frankl's own words:
 
-> "As we said before, any attempt to restore a man's inner strength in the camp had first to succeed in showing him some future goal." ([Frankl, Man's Search for Meaning, "Experiences in a Concentration Camp"](https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt)) — Primary text; quoted passages checked.
+> "As we said before, any attempt to restore a man's inner strength in the camp had first to succeed in showing him some future goal." ([Frankl, Man's Search for Meaning, "Experiences in a Concentration Camp"](https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt))
 
 The Nicomachean Ethics grounds the whole tradition in one claim about what the good is:
 
-> "…if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete." ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)) — Primary text; quoted passages checked.
+> "…if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete." ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
 Frankl's reversal of the question is stated in the same terms:
 
-> "the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system." ([Frankl, Man's Search for Meaning, "The Essence of Existence"](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.
+> "the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system." ([Frankl, Man's Search for Meaning, "The Essence of Existence"](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
 
 ### The three routes: work, love, and the stance toward suffering
 
 Frankl's own list of the routes:
 
-> "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.
+> "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
 
 [The meaning of suffering](https://clemvillatte.github.io/flourishing-compendium/#card=The%20meaning%20of%20suffering): what survives even in the camps: the freedom of attitude, through which a meaning holds to the last moment.
 
-> "everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way." ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.
+> "everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way." ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
 
 [Tragic optimism](https://clemvillatte.github.io/flourishing-compendium/#card=Tragic%20optimism): Frankl's term for remaining optimistic in spite of the tragic triad of pain, guilt and death.
 
-> "it means that one is, and remains, optimistic in spite of the \"tragic triad,\" as it is called in logotherapy, a triad which consists of those aspects of human existence which may be circumscribed by: (1) pain; (2) guilt; and (3) death." ([Frankl, "Tragic Optimism", lecture excerpt](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf)) — Primary text; quoted passage checked.
+> "it means that one is, and remains, optimistic in spite of the \"tragic triad,\" as it is called in logotherapy, a triad which consists of those aspects of human existence which may be circumscribed by: (1) pain; (2) guilt; and (3) death." ([Frankl, "Tragic Optimism", lecture excerpt](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf))
 
 [Post-traumatic growth](https://clemvillatte.github.io/flourishing-compendium/#card=Post-traumatic%20growth): the psychological research successor to Frankl's claim, tied to the perseverance and exploration of novel environments he named as the core of trauma's best possibility.
 
@@ -86,9 +90,9 @@ Frankl's own list of the routes:
 
 Weber's own lines:
 
-> "even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)) — Primary text; quoted passages checked.
+> "even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm))
 
-> "The only way of living acceptably to God was not to surpass worldly morality in monastic asceticism, but solely through the fulfillment of the obligations imposed upon the individual by his position in the world. That was his calling." ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)) — Primary text; quoted passages checked.
+> "The only way of living acceptably to God was not to surpass worldly morality in monastic asceticism, but solely through the fulfillment of the obligations imposed upon the individual by his position in the world. That was his calling." ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm))
 
 [Vital engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Vital%20engagement): Nakamura and Csikszentmihalyi's compound of a good life: absorption plus significance; the felt connection between self and activity that carries both flow and meaning.
 
@@ -96,7 +100,7 @@ Weber's own lines:
 
 The research line's own definition:
 
-> "We define a purpose for learning as a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self" ([Yeager et al. 2014, JPSP, p. 560](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf)) — Primary text; quoted passage checked.
+> "We define a purpose for learning as a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self" ([Yeager et al. 2014, JPSP, p. 560](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf))
 
 [Right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20livelihood): the Eightfold Path's work precept in its economic form, the principle of receiving what is necessary without harm and without taking more than the way.
 
@@ -104,7 +108,7 @@ The research line's own definition:
 
 The research tradition defines purpose in the vocabulary of goals:
 
-> "Purpose refers to highly motivating, long-term goals about which people are passionate and highly committed." ([Steger, Meaning in Life, Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120)): Scholarly interpretation; cited passage checked.
+> "Purpose refers to highly motivating, long-term goals about which people are passionate and highly committed." ([Steger, Meaning in Life, Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120))
 
 [Psychological well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20well-being): Ryff's theory-guided measures of positive functioning, with purpose in life as one of the six dimensions alongside self-acceptance, positive relations, autonomy, environmental mastery and personal growth.
 
@@ -126,9 +130,9 @@ The research tradition defines purpose in the vocabulary of goals:
 
 The model in Park's own words:
 
-> "Global meaning refers to individuals' general orienting systems and view of many situations, while situational meaning refers to meaning regarding a specific instance." ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041)) — Scholarly interpretation; cited passage checked.
+> "Global meaning refers to individuals' general orienting systems and view of many situations, while situational meaning refers to meaning regarding a specific instance." ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041))
 
-> "Meaning making involves approach-oriented intrapsychic efforts to reduce discrepancies between appraised and global meaning." ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041)) — Scholarly interpretation; cited passage checked.
+> "Meaning making involves approach-oriented intrapsychic efforts to reduce discrepancies between appraised and global meaning." ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041))
 
 [Life story model](https://clemvillatte.github.io/flourishing-compendium/#card=Life%20story%20model): Dan McAdams's account of identity as a narrative, a person's evolving life story that integrates a reconstructed past, perceived present and imagined future into a coherent and purposeful whole.
 
@@ -142,7 +146,7 @@ The model in Park's own words:
 
 The constructivist line is the plainest about this. Kelly's psychology of personal constructs holds that events carry no meaning of their own to be read off:
 
-> "Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees." ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf)) — Primary text; quoted passages checked.
+> "Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees." ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf))
 
 ### Purposes beyond the self
 
@@ -150,7 +154,7 @@ The constructivist line is the plainest about this. Kelly's psychology of person
 
 Frankl's formulation:
 
-> "The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.
+> "The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
 
 [Self-transcendent experiences](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transcendent%20experiences): Yaden and colleagues' framework for the transient states marked by decreased self-salience and increased connectedness, with mindfulness, flow, love, awe, peak and mystical experiences inside the grouping.
 
@@ -172,27 +176,27 @@ Frankl's formulation:
 
 [The call of conscience](https://clemvillatte.github.io/flourishing-compendium/#card=The%20call%20of%20conscience): Heidegger's existential call, structurally parallel to the daimon: the call comes from the self, summons the self out of its absorption in the world, and the actual content of the call's revelation is deliberately left empty.
 
-> "This sign I have had ever since I was a child. The sign is a voice which comes to me and always forbids me to do something which I am going to do, but never commands me to do anything, and this is what stands in the way of my being a politician." (Plato, [Apology 31c-d, Jowett translation](https://classics.mit.edu/Plato/apology.html)) — Primary text; quoted passages checked.
+> "This sign I have had ever since I was a child. The sign is a voice which comes to me and always forbids me to do something which I am going to do, but never commands me to do anything, and this is what stands in the way of my being a politician." (Plato, [Apology 31c-d, Jowett translation](https://classics.mit.edu/Plato/apology.html))
 
 ### When life gives no answer
 
 [The absurd](https://clemvillatte.github.io/flourishing-compendium/#card=The%20absurd): Camus's name for the confrontation between the human demand for meaning and the world's silence; the absurd is a relation, born of the confrontation, lying in neither side alone.
 
-> "But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity." ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passages checked.
+> "But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity." ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))
 
 [Revolt](https://clemvillatte.github.io/flourishing-compendium/#card=Revolt): Camus's third answer to the absurd, after the two he rejects: a constant confrontation between man and his own obscurity, an insistence upon an impossible transparency.
 
-> "The absurd is born of this confrontation between the human need and the unreasonable silence of the world." ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passages checked.
+> "The absurd is born of this confrontation between the human need and the unreasonable silence of the world." ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))
 
 [Sisyphus](https://clemvillatte.github.io/flourishing-compendium/#card=Sisyphus): the figure Camus takes as the absurd hero, set against the workman of today, whose fate is the same and becomes tragic only when it becomes conscious.
 
-> "There is no fate that cannot be surmounted by scorn." ([Camus, The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passages checked.
+> "There is no fate that cannot be surmounted by scorn." ([Camus, The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))
 
 [Nihilism](https://clemvillatte.github.io/flourishing-compendium/#card=Nihilism): the family's extreme position: no intrinsic values, no objective meaning, no known purpose in life; Nietzsche's diagnosis of the cultural condition behind the modern pursuit of purpose.
 
 [Boundary situations](https://clemvillatte.github.io/flourishing-compendium/#card=Boundary%20situations): Jaspers's four experiences, death, chance, guilt and the struggle of existence, which cannot be bypassed or overcome and only become fully present when lived; for him, philosophy exists because such situations ask the questions purpose answers.
 
-> "But to ultimate situations we react either by obfuscation or, if we really apprehend them, by despair and rebirth: we become ourselves by a change in our consciousness of being." ([Jaspers, Way to Wisdom, quoted in Boundary situations](https://epimelea.com/library/jaspers-boundary-situations/)) — Primary text; quoted passage checked.
+> "But to ultimate situations we react either by obfuscation or, if we really apprehend them, by despair and rebirth: we become ourselves by a change in our consciousness of being." ([Jaspers, Way to Wisdom, quoted in Boundary situations](https://epimelea.com/library/jaspers-boundary-situations/))
 
 Entries with a claim on the title that were read and left out: [Elan vital](https://clemvillatte.github.io/flourishing-compendium/#card=Elan%20vital) is Bergson's metaphysics of life rather than a life's purpose, [Work engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Work%20engagement) and [Personal engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Personal%20engagement) are absorption constructs, and [Eudaimonic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20well-being) belongs to the Genuine Flourishing boundary.
 
@@ -202,11 +206,11 @@ Entries with a claim on the title that were read and left out: [Elan vital](http
 
 The shared question: is there a meaning a life is for, such that the task is to find and answer it, or does the world give no answer, such that the task is to stand in the gap honestly? Frankl's position, from the book that carries it:
 
-> "it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passages checked.
+> "it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))
 
 Camus's position, from the essay that carries his:
 
-> "The absurd is born of this confrontation between the human need and the unreasonable silence of the world." ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passages checked.
+> "The absurd is born of this confrontation between the human need and the unreasonable silence of the world." ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf))
 
 Both positions answer the same question, whether a human life can be about something, and they part on where the answer is taken to come from: Frankl treats life as putting questions that wait to be answered; Camus treats the world's silence as the standing fact, and revolt as the coherent stance. What remains unresolved is the status of the felt answer-ability Frankl describes in the camps: whether it is a discovery about the world or a stance taken toward it. I hold both positions without adjudicating; the two practices they recommend, meaning-seeking and revolt, are separated less by what they ask a person to do than by what they claim is being answered.
 
