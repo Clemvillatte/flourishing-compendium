@@ -194,3 +194,38 @@ a prose wall caused by contiguous bullet blocks. Those blocks were
 re-formatted as separate paragraphs (one entry per paragraph, matching
 the anger exemplar's format) so no block exceeds the
 150-visible-word floor. No card link, gloss or quotation was changed.
+
+## Genuine divergence grounded (takeover session, worker-pplx-dos24-1025a)
+
+The open research flag is RESOLVED for the "Less wanting or better
+wanting?" question. Two carriers were opened and the quotes
+raw-verified against the downloaded files.
+
+AFFIRM side: Thanissaro Bhikkhu, Right Mindfulness (PDF,
+https://accesstoinsight.org/lib/authors/thanissaro/rightmindfulness.pdf,
+downloaded and extracted with pdftotext to /home/user/workspace/
+thanissaro_rm.txt). Verified passage: "It's worth noting here the
+centrality of desire in right effort. As AN 10:58 observes, all
+phenomena are rooted in desire. This observation applies to skillful
+as well as to unskillful phenomena. Without skillful desire, it would
+be impossible to develop the path (SN 51:15)." This affirms the
+proposition that desire has a place on the path.
+
+DENY side: Bhikkhu Bodhi, The Way to the End of Suffering, chapter on
+Right Intention (https://www.accesstoinsight.org/lib/authors/bodhi/
+waytoend.html, downloaded as bodhi_ri2.html). Verified passage: "The
+Buddha's message of renunciation states exactly the opposite: the
+pull of desire is to be resisted and eventually abandoned. Desire is
+to be abandoned not because it is morally evil but because it is a root
+of suffering." This denies the proposition.
+
+The dossier section "Less wanting or better wanting?" now carries the
+pair as a stated disagreement with an explicit unresolved statement
+(whether the desire that trains the mind is itself among the things
+abandoned at the path's end, or the engine of the abandoning). The
+chanda/tanha vocabulary difference is stated in the prose rather than
+papered over. The MN 19 vs Gita neutral comparison is unchanged; the
+other open question ("Is the resolve an abstention or a cultivation?")
+remains honestly open. The editorial-process sentence in the section
+intro was removed (banned meta-text). Checker exit 0: 66 card links,
+18 headers, 14 external carriers.

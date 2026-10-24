@@ -162,7 +162,7 @@ The passages below are held side by side; whether the traditions disagree about 
 
 > "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action." ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/)).
 
-These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The two questions below gather further passages I hold side by side. Each is framed around one proposition with quotations from opened carriers; in both cases the carriers can be read as compatible, and I record the open question rather than manufacturing a disagreement. Research for carriers that argue the positions against each other is unfinished.
+These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The two questions below gather further passages I hold side by side. Each is framed around one proposition with quotations from opened carriers; in both cases the carriers can be read as compatible, and I record the open question rather than manufacturing a disagreement.
 
 ### Is the resolve an abstention or a cultivation?
 
@@ -182,7 +182,17 @@ The motivation science studies what people aim at and what aiming does to them. 
 
 > "They found, first, that placing strong relative importance on intrinsic aspirations was positively associated with well-being indicators such as self-esteem, self-actualization, and the inverse of depression and anxiety, whereas placing strong relative importance on extrinsic aspirations was negatively related to these well-being indicators." ([Ryan & Deci 2000, Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)).
 
-The two findings run alongside each other: the aspiration studies report associations between what people emphasise and their well-being, and the path grades the aims it names. What the carriers do not settle is whether the resolve on renunciation and the re-aiming of wanting are the same work described twice or two different works; my own principle on the factor keeps the parallel deliberately loose, noting that the fit-between-goals-and-values finding is about fit, not about renunciation or harmlessness. I record this as an open question rather than a settled disagreement.
+The two findings run alongside each other: the aspiration studies report associations between what people emphasise and their well-being, and the path grades the aims it names. Whether the resolve calls for less wanting or better wanting has also received a direct answer from inside the Pali tradition, where two of its leading translators state the opposition. The proposition: desire has a place on the path.
+
+Bodhi denies it, writing that renunciation is a counter to desire itself:
+
+> "The Buddha's message of renunciation states exactly the opposite: the pull of desire is to be resisted and eventually abandoned. Desire is to be abandoned not because it is morally evil but because it is a root of suffering." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).
+
+Thanissaro affirms it, writing that desire is what makes practice work at all:
+
+> "It's worth noting here the centrality of desire in right effort. As AN 10:58 observes, all phenomena are rooted in desire. This observation applies to skillful as well as to unskillful phenomena. Without skillful desire, it would be impossible to develop the path (SN 51:15)." ([Thanissaro Bhikkhu, Right Mindfulness](https://accesstoinsight.org/lib/authors/thanissaro/rightmindfulness.pdf)).
+
+Both translate the same canon, and both write from inside the tradition this dossier follows. The word desire is doing different work in the two passages: Bodhi's desire slides toward craving, the pull toward gratification he names a root of suffering; Thanissaro's skillful desire is the wish that moves practice. What remains unresolved is whether the desire that trains the mind is itself among the things to be abandoned at the path's end, or the engine of the abandoning. The two sentences can sit side by side in one canon, which is why the resolve on renunciation has never closed the question.
 
 ## Practice: variation, selection, retention
 
