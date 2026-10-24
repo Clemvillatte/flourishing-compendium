@@ -43,7 +43,18 @@ and 390px mobile, clean render, no underlined links); psychology and
 conditions sections confirmed present in the live DOM, their visual
 layout not separately inspected. HUMANIZER-SKILL.md carries the
 Bridging rule for the future six agents. Six-agent rollout stays
-BLOCKED until owner validation. Recommended owner reading order: the
+BLOCKED until owner validation — UPDATE 2026-10-25 ~13:28Z: the owner
+has decided to proceed and is sending a squad of new agents now; treat
+this checkpoint as their entry point. That session also applied the
+owner's hand-written `.dossier-h2` visual change (italic 18px/800
+#D43745, 40px 0 20px margin; commits cc470c9c, d4ed8e1d, 8eea6ca4)
+and a standards pass over it: heading-hierarchy margin fixed, real
+italic-800 Source Serif 4 faces embedded (the old face was
+normal-only 400-600, so italic 800 would have rendered faux); the
+contrast of #D43745 (3.99:1 dark / 4.2:1 light) is flagged in the
+GF ledger pass 18 — a 19px size or darker red would clear WCAG AA
+unambiguously; the owner has not been asked which they prefer.
+Recommended owner reading order: the
 classical, psychology and social-conditions sections — they expose the
 exact problem the owner raised. Process notes in the ledger:
 enrich_save.sh does not stage site/ (commit app.js separately, grep it

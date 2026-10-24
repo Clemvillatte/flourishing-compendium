@@ -896,3 +896,11 @@ stays blocked.
   practice or story sections; psychology/conditions sections were
   confirmed in the live DOM but their visual layout was not separately
   inspected (the classical section was the one visually inspected).
+
+#### Pass 18 — Dossier page CSS, owner-supplied visual change (2026-10-25)
+- Owner sent two screenshots specifying `.dossier-h2` (### subsection headings): `font-style:italic; font-size:18px; font-weight:800; color:#D43745; margin:40px 0 20px`, with "make sure it matches the rules and norms of aesthetic and web design standards".
+- Applied as supplied (commit cc470c9c), then standards review (commits d4ed8e1d, 8eea6ca4):
+  1. Hierarchy: the new 40px subheading margin exceeded the 34px section-heading margin (inverted rhythm) → `.dossier-h` top margin raised to 48px (d4ed8e1d).
+  2. Typography: the embedded Source Serif 4 face was normal-style, weights 400-600 only → `italic`/`800` would have rendered as faux-bold faux-oblique. Embedded the real italic-800 faces (latin + latin-ext subsets, Google Fonts css2 API, base64 data-URI) as additional `@font-face` rules (8eea6ca4).
+  3. Contrast: #D43745 measures 3.99:1 on the dark bg and ~4.2:1 on light. It passes the WCAG large-text 3:1 threshold, but 18px bold sits 0.66px under the 18.66px "large text" size cutoff, so under a strict normal-text reading it fails 4.5:1. Left at the owner's values and flagged; a 19px size or a slightly darker red (e.g. #B02E3A) would clear AA unambiguously.
+- Owner states a squad of new agents is being sent to work on the improved project; GF exemplar rollout is proceeding per owner decision.
