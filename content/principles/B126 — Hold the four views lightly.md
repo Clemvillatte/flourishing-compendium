@@ -25,7 +25,7 @@ For example: You are helping a friend prepare for an appointment. Compare two pl
 
 ## Sources
 
-- [The Diamond Sutra, Gemmell translation, Project Gutenberg](https://www.gutenberg.org/files/64623/64623-h/64623-h.htm) — chapter 3, the quoted passage (public-domain full text)
+- [The Diamond Sutra, Gemmell translation, Project Gutenberg](https://www.gutenberg.org/files/64623/64623-h/64623-h.htm) — chapter 3, an alternative translation using entity, being, living being and personality
 - [Diamond Sutra, chapter 3, with Sanskrit and translation](https://satyori.com/source-texts/diamond-sutra/3/) — a second rendering of the chapter, consulted for comparison
 - [The Diamond Sutra, translated by Thich Nhat Hanh, reproduced by Jason Espada (PDF)](https://jasonespada.com/wp-content/uploads/2024/03/The-Diamond-Sutra.pdf) — chapter 3, PDF pp. 2 and 3; resolve to liberate and four notions
 - [Thich Nhat Hanh, Four Notions to Remove, Plum Village App](https://www.youtube.com/watch?v=N6PJA33JvhI) — transcript of the 2 October 2011 teaching excerpt; self, person, living being and life span explained
