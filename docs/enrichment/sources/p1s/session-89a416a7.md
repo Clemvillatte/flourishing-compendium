@@ -229,3 +229,10 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - Opened unprompted: [Wilson translation PDF](https://www.yama-dojo.ca/resources/Zen%20-%20Takuan%20Soho%20-%20The%20Unfettered%20Mind.pdf), pp. 4-8 and 13, and [Scarsdale Aikido's reproduced excerpts](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/), complete page. The PDF contents and page headings support the existing PDF locators; this is not a claim about another printed edition's pagination.
 - The sword fragment, “neither discrimination nor thought”, “placed nowhere” and cart-wheels sentence all match. The account explicitly contrasts No-Mind with insensibility; the beginner/practised-body return is supported. No actual martial-arts performance benefit or psychological equivalence with flow inferred.
 - Moved Laozi comparison to existing Related thinkers and removed “the page lists”. The well-bounded analogy and music rehearsal example remain unchanged. No reliance on the blog's biographical/legendary claims.
+
+## B078: verification-only pass, strong body retained
+
+- Opened unprompted: [MN 9](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html), Skillful & unskillful section with introduction; [Dhammapada I](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html), complete chapter; [MN 2](https://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html), complete discourse (opened during this pass's source work).
+- MN 2 block quotation is verbatim. MN 9 does identify greed/aversion/delusion as roots of unskillful action; MN 2's list of fermentations is different and correctly distinguished. Dhammapada 3-4 paraphrase is faithful.
+- The page explicitly calls naming a compendium adaptation, not the sutta's procedure; the shopping experiment promises no effect from labelling. Plain words is fresh, not an instruction-list replicate. No page change needed, no rewrite claimed.
+- Inherited affect-labelling/emotion-awareness/Spinoza parallels and protected reflections are not certified.
