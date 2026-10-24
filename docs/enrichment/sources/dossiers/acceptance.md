@@ -39,8 +39,12 @@ distinction, checked against the card's content.
 - Acceptance is not in the registry (neither dossiers nor backlog;
   the proposal document records the candidate). Registry addition
   is supervisor-only; FLAGGED in the commit message.
-- The Hayes et al. 2006 carrier was not re-fetched this session;
-  one-off re-open recommended before publication.
+- The Hayes et al. 2006 carrier was re-fetched after the first push
+  and the definition compared word-for-word: it matches exactly,
+  spanning the pp. 7-8 page break as the card says. Verified
+  against
+  https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf
+  this session.
 - The Liezi D098 carrier (Scribd, Graham translation) was not
   re-fetched; the gloss paraphrases the principle body.
 - The ST188 Epictetus anecdote's historicity is uncertain per the
