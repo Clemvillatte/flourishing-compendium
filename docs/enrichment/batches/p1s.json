@@ -26,13 +26,12 @@
   "B114",
   "B150",
   "B113",
-  "B181",
   "B190",
   "P177",
   "P175",
   "B064"
  ],
- "in_progress": null,
+ "in_progress": "B181",
  "flagged": {
   "D094": "Reopened for QC: Replace checklist with fresh explanation; verify mantis story scope",
   "D103": "Reopened for QC: DDJ24 source rechecked; explain self-display rather than repeat advice",
@@ -52,7 +51,7 @@
   "B141": "Reopened for QC: Repair fused philosophy bullets and recheck source quotation",
   "B150": "Reopened for QC: Verification-only pass: ancient list versus explicitly proposed modern ethical extension",
   "B172": "Reopened for QC: Clarify discerning speech rather than compulsory silence; replace procedural Plain words",
-  "B181": "Reopened for QC: Advisor optional Plain words line break",
+  "B181": "Reopened for QC: Final own-item verification removes internal thinker-gloss wording",
   "B190": "Reopened for QC: Apply optional humanizer precision and Plain words formatting",
   "P175": "Reopened for QC: Add explicit Sources section for already verified chapter",
   "P168": "Reopened for QC: Plain words too short and procedural; verify Rogers source and refresh example",
@@ -70,7 +69,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-24T05:54:32+00:00",
+ "updated": "2026-10-24T05:54:39+00:00",
  "band_done": false,
  "notes": {
   "B021 death-recovery check": "2026-10-20: owner reported the agent working on B021 died. Verified nothing lost: B021 (p1i item) content last committed f9ce31ef (2026-10-19 QC-repair batch, milestone 15); p1s no-edit light-check fcb33b61 + cross-band incident correction 5328d488 (2026-10-20 02:20-02:25, quotes re-verified, no action owed per supervisor disposition); p1s band closed cleanly 30/30 at 03:54:11Z (5bc8f460, baton released, in_progress None). B021 validates clean at HEAD. No in-flight work, no unpushed commits; nothing owed to the next agents."
