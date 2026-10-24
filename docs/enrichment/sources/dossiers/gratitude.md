@@ -76,7 +76,7 @@ left unclassified. The body-matching fragments were read before the
 inclusion decisions below, but the classification is automated, so
 the dossier should be treated as a draft map requiring coverage
 review rather than an exhaustively reviewed map. The audit record is
-saved in the session workspace. The decisions name the categories
+saved alongside this ledger as gratitude-audit.txt in this directory. The decisions name the categories
 with representative cards.
 
 - The positive-affect family that mentions gratitude in passing

@@ -1,0 +1,504 @@
+FILE: ./concepts/Moral emotions.md [BODY]
+   BODY-MATCH: d to include several positive emotions-elevation, gratitude, and the sometimes morally relevant experience of pride" (Tangney et a
+FILE: ./concepts/Person-activity fit.md [BODY]
+   BODY-MATCH: eing practice suits the person doing it. The same gratitude journal that transforms one reader bores another into quitting. In Lyu
+   BODY-MATCH: flow activities, an introvert more from a private gratitude journal. Fit is not the only criterion, the authors caution, since an 
+FILE: ./concepts/Fundamental stance.md [BACKLINK]
+   BACKLINK-SAMPLE: [[K068 — Practice gratitude as the fundamental stance]]
+FILE: ./concepts/Anamnesis.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[X011 — Bank gratitude for past pleasures, and draw on it in need]]
+FILE: ./concepts/Ecological ethics.md [BODY]
+   BODY-MATCH: - [[R128 — Practise ecological gratitude]]
+FILE: ./concepts/Gratitude.md [BODY+BACKLINK]
+   BODY-MATCH: Gratitude is the felt recognition of a benefit received: attention to what was g
+   BODY-MATCH: l answering affection. The psychological study of gratitude begins from the same observation: it is an emotion about a source.
+   BODY-MATCH: In the compendium's framing (AF063: gratitude recalibrates attention toward what is good), the mechanism is attentio
+   BODY-MATCH: e connection to [[Hedonic adaptation]] is direct: gratitude is a counter-practice to taking for granted, which is why the wiki pai
+FILE: ./concepts/Awe.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[Gratitude]] — self-diminishing wonder, another benefit-focused emotion
+FILE: ./concepts/Positive activity interventions.md [BODY]
+   BODY-MATCH: to raise a person's happiness, such as expressing gratitude or practicing kindness. The main research summary of how they work is 
+FILE: ./concepts/Fredrickson's positivity portfolios.md [BODY+BACKLINK]
+   BODY-MATCH: ation, serenity, amusement, awe, pride, interest, gratitude and hope. The steps it gives are:
+FILE: ./concepts/The undiminishing past.md [BODY+BACKLINK]
+   BODY-MATCH: amous, and it is the honest objection to any easy gratitude: "For truly in adverse fortune the worst sting of misery is to have be
+   BODY-MATCH: fered. Held as a store of finished goods it funds gratitude in need; held as a standard against the present it becomes, in Boethiu
+FILE: ./concepts/Santosha.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[Gratitude]] — a neighboring practice with the same direction of attention
+FILE: ./concepts/State-matched emotion regulation.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[X016 — Pair patience and gratitude as the two meters of every state]]
+FILE: ./concepts/Right speech.md [BODY]
+   BODY-MATCH: - **gratitude** — Buddhism
+FILE: ./concepts/Hedonic adaptation.md [BODY+BACKLINK]
+   BODY-MATCH:  attentional, not acquisitive: [[Savoring]] and [[Gratitude]] slow the migration of attention; deliberate variety and re-appreciat
+   BODY-MATCH: aily; that list is the residue of adaptation, and gratitude practice is what keeps it from reaching zero. (Illustrative scenario, 
+FILE: ./concepts/Mudita (sympathetic joy).md [BACKLINK]
+   BACKLINK-SAMPLE: - [[Gratitude]] — joy in another's good: gratitude's other-directed cousin
+FILE: ./concepts/Death reflection.md [BODY+BACKLINK]
+   BODY-MATCH: reatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)).
+   BODY-MATCH: ls.sagepub.com/doi/10.1177/0146167203260716)). On gratitude, "the death reflection induction showed the greatest increase in state
+   BODY-MATCH: n induction showed the greatest increase in state gratitude, followed by the traditional mortality salience treatment and the cont
+   BODY-MATCH: in a specific and vivid manner, their feelings of gratitude tend to increase" ([Frias et al. 2011](https://greatergood.berkeley.ed
+FILE: ./concepts/Adaptation to life transitions research.md [BACKLINK]
+   BACKLINK-SAMPLE: [[AF063 — Practise gratitude — it recalibrates attention toward what is good]]
+FILE: ./concepts/Connectedness in well-being research.md [BODY+BACKLINK]
+   BODY-MATCH: - [[R128 — Practise ecological gratitude]] — ecological gratitude.
+   BODY-MATCH: 28 — Practise ecological gratitude]] — ecological gratitude.
+FILE: ./concepts/The art of letting go.md [BODY]
+   BODY-MATCH: s back and carry it everywhere. The raft deserves gratitude, not ownership. Letting go, in this picture, is not rejection; it is f
+   BODY-MATCH: quence. What the simile adds is the inner stance: gratitude for what carried you, and no complaint at leaving it on the shore.
+FILE: ./concepts/Enemy as teacher.md [BODY]
+   BODY-MATCH: ul to everyone]] — the mind-training slogan whose gratitude includes the harmful
+FILE: ./concepts/Prosocial spending.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[Gratitude]] — the receiving side of the exchange
+FILE: ./concepts/Self-transcendent experiences.md [BODY]
+   BODY-MATCH: tive emotions (elevation, compassion, admiration, gratitude, love, awe), peak experiences (e.g., comic consciousness, merging with
+FILE: ./concepts/Ecological gratitude.md [BODY+BACKLINK]
+   BODY-MATCH: “Ecological gratitude” — Mayer and Frantz, "The Connectedness to Nature Index".
+   BODY-MATCH: Ecological gratitude, as the compendium uses it, is gratitude directed at the natural world
+   BODY-MATCH: ological gratitude, as the compendium uses it, is gratitude directed at the natural world. The original entry's source needs a cor
+   BODY-MATCH: ndex"), and it measures nature connectedness, not gratitude. It does not test or define ecological gratitude. The evidence below c
+FILE: ./concepts/Reciprocity.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[Gratitude]] — the exchange structure gratitude sits in and can exceed
+FILE: ./concepts/Active constructive responding.md [BODY+BACKLINK]
+   BODY-MATCH: - [[B112 — Practice gratitude — recognize your conditions]] and [[P129 — Practice sympathetic unders
+FILE: ./concepts/Benevolence.md [BODY]
+   BODY-MATCH: ind than beneficence and humanity, friendship and gratitude, natural affection and public spirit, or whatever proceeds from a tend
+FILE: ./concepts/Four immeasurables.md [BODY+BACKLINK]
+   BODY-MATCH: , by reading it as a signal of value; SP022 pairs gratitude with the repayment of love; SP073 guards cheerfulness under loss; SO00
+   BODY-MATCH: - [[SP022 — Practice gratitude as repayment of love]] — gratitude as the social form of appreciative 
+   BODY-MATCH: 022 — Practice gratitude as repayment of love]] — gratitude as the social form of appreciative joy
+FILE: ./concepts/Nature connectedness.md [BACKLINK]
+   BACKLINK-SAMPLE: [[R128 — Practise ecological gratitude]]
+FILE: ./concepts/Ecological mindfulness.md [BODY]
+   BODY-MATCH:  the practice as a four-stage Spiral: Coming from Gratitude, Honoring Our Pain for the World, Seeing with New/Ancient Eyes, and Go
+   BODY-MATCH: d, Seeing with New/Ancient Eyes, and Going Forth. Gratitude "quiets the frantic mind and helps to ground us". Honoring pain is whe
+   BODY-MATCH: s". It presents a group process for facing grief, gratitude and action, so the label is the compendium's and the link to mindfulne
+FILE: ./concepts/Joy.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[Gratitude]] — the neighbouring positive state the compendium treats as trainable
+FILE: ./concepts/Positive attention training attentional deployment toward positive stimuli.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[AF063 — Practise gratitude — it recalibrates attention toward what is good]]
+FILE: ./concepts/Express by shaping, not venting.md [BACKLINK]
+   BACKLINK-SAMPLE: [[BE055 — Learn to express gratitude behaviourally — thank others]]
+FILE: ./concepts/The free spirit.md [BODY]
+   BODY-MATCH: tures the strongest cords are duty, reverence and gratitude toward what they were taught to honour. The liberation "comes suddenly
+FILE: ./concepts/Sufficiency.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[S084 — Practise gratitude]]
+FILE: ./concepts/The power paradox.md [BODY]
+   BODY-MATCH: he calls the three ethics of good power: empathy, gratitude and generosity.
+FILE: ./concepts/Reciprocal altruism research.md [BODY+BACKLINK]
+   BODY-MATCH: ally, friendship, dislike, moralistic aggression, gratitude, sympathy, trust, suspicion, trustworthiness, aspects of guilt, and so
+FILE: ./concepts/Broaden-and-build.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[Gratitude]] — a savouring positive emotion in the same family
+FILE: ./concepts/Process model of emotion regulation Gross.md [BODY]
+   BODY-MATCH: [[X016 — Pair patience and gratitude as the two meters of every state]]
+FILE: ./concepts/Long-term potentiation account of memory.md [BACKLINK]
+   BACKLINK-SAMPLE: [[X011 — Bank gratitude for past pleasures, and draw on it in need]]
+FILE: ./concepts/Symbolic Interaction Theory.md [BODY+BACKLINK]
+   BODY-MATCH: - [[AF063 — Practise gratitude — it recalibrates attention toward what is good]]
+FILE: ./concepts/Self-transcendent emotions.md [BODY+BACKLINK]
+   BODY-MATCH: y their fit to religious and spiritual life: awe, gratitude, love and peace carry the relation between spirituality and well-being
+   BODY-MATCH: ated by self-transcendent positive emotions (awe, gratitude, love, and peace) but not by other positive emotions (amusement and pr
+FILE: ./concepts/Savoring.md [BODY+BACKLINK]
+   BODY-MATCH: coffee, the conversation, the finished task), and gratitude is its memory form.
+   BODY-MATCH: - [[X011 — Bank gratitude for past pleasures, and draw on it in need]]
+   BODY-MATCH: - [[Gratitude]]
+FILE: ./concepts/Contentment in station.md [BODY+BACKLINK]
+   BODY-MATCH: ounsel in practice, and its emotional neighbors [[Gratitude]] and [[Delight in the ordinary]] are what the settled version of it f
+FILE: ./concepts/Extended process model of emotion regulation.md [BACKLINK]
+   BACKLINK-SAMPLE: [[X016 — Pair patience and gratitude as the two meters of every state]]
+FILE: ./concepts/VIA classification.md [BODY]
+   BODY-MATCH: udence and self-regulation; transcendence through gratitude, hope, humor, appreciation of beauty and spirituality. The measure bui
+FILE: ./concepts/Wabi-sabi.md [BODY+BACKLINK]
+   BODY-MATCH: ll to vital activity in the present moment and to gratitude for another moment's being granted to us" ([Stanford Encyclopedia, Jap
+FILE: ./principles/B113 — Be grateful to everyone (lojong).md [BODY+BACKLINK]
+   BODY-MATCH: oach that let you refuse without retaliation. The gratitude can be private: this encounter gave you a chance to practise.
+   BODY-MATCH: Train the reflex of gratitude toward everyone. Who's your current hardest case, and what would the g
+   BODY-MATCH: o's your current hardest case, and what would the gratitude actually be for?
+FILE: ./principles/S037 — Practise beneficence.md [BODY+BACKLINK]
+   BODY-MATCH: hat legally compelled repayment destroys the free gratitude he values ([On Benefits III.7](https://en.wikisource.org/wiki/On_Benef
+   BODY-MATCH: - **[[Gratitude|Gratitude expression research]]**: three experiments found benefits on
+   BODY-MATCH: - **[[Gratitude|Gratitude expression research]]**: three experiments found benefits on several, 
+   BODY-MATCH: ositive affect the most robust result; these were gratitude-listing tasks, not tests of obligations between friends ([Emmons and M
+FILE: ./principles/PP063 — Dose appropriately.md [BODY]
+   BODY-MATCH: > "In summary, students who regularly expressed gratitude showed increases in well-being over the course of the study relative t
+   BODY-MATCH: tive to controls was reported for the once-weekly gratitude group, but not the three-times-weekly group — significance in one grou
+   BODY-MATCH: rovement relative to controls for the once-weekly gratitude group but not the three-times-weekly group. That does not establish th
+   BODY-MATCH: *For example:* If a nightly gratitude list has gone stale, the once-a-week version is one arm of the study t
+FILE: ./principles/M003 — Think in pairs.md [BODY]
+   BODY-MATCH: st each other, such as rest and work or grief and gratitude, belong together. Before choosing one, ask what each does for the othe
+FILE: ./principles/S007 — Accept what happens as the will of providence.md [BODY]
+   BODY-MATCH: - [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]]
+   BODY-MATCH: - [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]]
+FILE: ./principles/S126 — Practise the contemplation of exemplary lives.md [BODY]
+   BODY-MATCH: itations I.9). The list itself becomes an item of gratitude: "To the gods I am indebted for having good grandfathers, good parents
+FILE: ./principles/X016 — Pair patience and gratitude as the two meters of every state.md [BODY]
+   BODY-MATCH: > **Principle 16** — Pair patience and gratitude as the two meters of every state
+   BODY-MATCH: hing good arrives, the job is to notice it and be thankful, instead of treating it as owed.
+FILE: ./principles/A070 — Understand the asymmetry of benefaction.md [BODY]
+   BODY-MATCH: ir action to exist since they will then get their gratitude, while the beneficiaries take no interest in making this return" (NE I
+FILE: ./principles/A005 — Choose the mean, not the extreme.md [BODY]
+   BODY-MATCH: - [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]]
+   BODY-MATCH: - [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]]
+FILE: ./principles/SP068 — Think least of death; wisdom meditates on life.md [BODY]
+   BODY-MATCH: eliberate, brief death contemplation can increase gratitude and purpose while rumination on death does the reverse (Cozzolino, 200
+FILE: ./principles/X011 — Bank gratitude for past pleasures, and draw on it in need.md [BODY]
+   BODY-MATCH: > **Principle 11** — Bank gratitude for past pleasures, and draw on it in need
+FILE: ./principles/D030 — Contentment is the greatest wealth.md [BODY]
+   BODY-MATCH: - [[K164 — Gratitude practice|K164 Gratitude practice]]
+   BODY-MATCH: - [[K164 — Gratitude practice|K164 Gratitude practice]]
+   BODY-MATCH: - [[K212 — Gratitude expression|K212 Gratitude expression]]
+   BODY-MATCH: - [[K212 — Gratitude expression|K212 Gratitude expression]]
+FILE: ./principles/B055 — Contemplate mortality (maranasati).md [BODY]
+   BODY-MATCH: ruct (Cozzolino, 2006); death reflection enhanced gratitude in the Frias et al. (2011) experiment and prosocial intentions in Blac
+FILE: ./principles/B111 — Rest in contentment — the greatest wealth.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude interventions]]** (Emmons and McCullough, 2003)
+   BODY-MATCH: - **[[Gratitude|Gratitude interventions]]** (Emmons and McCullough, 2003)
+FILE: ./principles/K050 — Reflect on this life's rarity as urgency, not as dread.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude and presence effects of scarcity framing]]**, the research o
+   BODY-MATCH: - **[[Gratitude|Gratitude and presence effects of scarcity framing]]**, the research on how perc
+   BODY-MATCH:  alongside those who have not had them? What does gratitude require of you?
+FILE: ./principles/P115 — Welcome peak experiences — don't chase them.md [BODY]
+   BODY-MATCH: The preparations the practice kernels list (rest, gratitude, nature) are ordinary supports, offered as invitations rather than gua
+   BODY-MATCH: ather than how to get it back. The kernels, rest, gratitude, nature exposure, are ordinary practices you can try; they are invitat
+   BODY-MATCH: - [[K164 — Gratitude practice|K164 Gratitude practice]]
+   BODY-MATCH: - [[K164 — Gratitude practice|K164 Gratitude practice]]
+FILE: ./principles/SP022 — Practice gratitude as repayment of love.md [BODY+BACKLINK]
+   BODY-MATCH: > **Principle 22** — Practice gratitude as repayment of love
+   BODY-MATCH: Spinoza defines gratitude as a desire springing from love: wanting to benefit someone who has be
+   BODY-MATCH: > "XXXIV. Thankfulness or Gratitude is the desire or zeal springing from love, whereby we 
+   BODY-MATCH: > "XXXIV. Thankfulness or Gratitude is the desire or zeal springing from love, whereby we endeavour to ben
+FILE: ./principles/S091 — Practise negative visualisation.md [BODY]
+   BODY-MATCH: How does negative visualisation compare with gratitude practices? Which suits you, and why?
+FILE: ./principles/K024 — Begin with the four reminders, briefly and daily.md [BODY]
+   BODY-MATCH: - **[[Gratitude]]** (Cozzolino, 2006, death-reflection studies; Emmons's gratitude res
+   BODY-MATCH: zzolino, 2006, death-reflection studies; Emmons's gratitude research)
+FILE: ./principles/S026 — Practise contentment with what you have.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude research]]**, gratitude for what one has predicts well-being
+   BODY-MATCH: - **[[Gratitude|Gratitude research]]**, gratitude for what one has predicts well-being (Emmons a
+   BODY-MATCH: - **[[Gratitude|Gratitude research]]**, gratitude for what one has predicts well-being (Emmons and McCullough, 2003)
+FILE: ./principles/A027 — Practice modesty in prosperity.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude research]]**, gratitude protects against taking good fortune
+   BODY-MATCH: - **[[Gratitude|Gratitude research]]**, gratitude protects against taking good fortune for grant
+   BODY-MATCH: - **[[Gratitude|Gratitude research]]**, gratitude protects against taking good fortune for granted (Emmons and McCulloug
+FILE: ./principles/BE055 — Learn to express gratitude behaviourally — thank others.md [BODY+BACKLINK]
+   BODY-MATCH: > **Principle 55** — Learn to express gratitude behaviourally: thank others
+   BODY-MATCH: Kumar and Epley had participants write gratitude letters and predict how recipients would feel, then asked the recipien
+   BODY-MATCH:  mood were correlated with willingness to express gratitude (Kumar & Epley 2018, [PubMed](https://pubmed.ncbi.nlm.nih.gov/29949445
+   BODY-MATCH: 445/)). The abstract also states that "expressing gratitude improves well-being for both expressers and recipients", which it take
+FILE: ./principles/PP060 — Match the practice to the person.md [BODY]
+   BODY-MATCH: d your week, and keep what the record supports. A gratitude journal that turns into compulsory cheer is telling you something; so 
+   BODY-MATCH: *For example:* For one person, a gratitude journal opens the day; for another, it feels like compulsory cheer.
+FILE: ./principles/AF008 — Know the negativity bias; correct for it deliberately.md [BODY+BACKLINK]
+   BODY-MATCH: - **[[Gratitude|Cultivating gratitude as a counterweight]]** (Stoics, Seneca, Letters)
+   BODY-MATCH: - **[[Gratitude|Cultivating gratitude as a counterweight]]** (Stoics, Seneca, Letters)
+FILE: ./principles/P179 — Close the loop with savoring and review.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude and review practices]]** (Emmons and McCullough, 2003)
+   BODY-MATCH: - **[[Gratitude|Gratitude and review practices]]** (Emmons and McCullough, 2003)
+FILE: ./principles/SP070 — Live among the free; friendship is the economy of the strong.md [BODY]
+   BODY-MATCH: A friendship can involve help and gratitude without being a bargain. Spinoza contrasts gratitude among free people
+   BODY-MATCH: titude without being a bargain. Spinoza contrasts gratitude among free people with thanks prompted by blind desire, which he descr
+FILE: ./principles/AT007 — Understand that attention shapes experience — what you attend to grows.md [BODY+BACKLINK]
+   BODY-MATCH: - **[[Gratitude]]** (Stoics, Seneca, Letters)
+FILE: ./principles/S084 — Practise gratitude.md [BODY+BACKLINK]
+   BODY-MATCH: > **Principle 206** — Practise gratitude
+   BODY-MATCH: rs (24,804 participants, 28 countries) found that gratitude interventions "led to small overall increases in well-being, Hedges' g
+   BODY-MATCH:  38 studies concluded that the unique benefits of gratitude "may be overemphasized in the literature" ([Dickens 2017](https://www.
+   BODY-MATCH: Gratitude works best when it is specific: a person, and what they did. Expect a 
+FILE: ./principles/Y036 — Train contentment as a skill.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude interventions and contentment practices]]** (Wood et al., 20
+   BODY-MATCH: - **[[Gratitude|Gratitude interventions and contentment practices]]** (Wood et al., 2010 review 
+FILE: ./principles/B026 — Apply right effort — the four efforts.md [BODY]
+   BODY-MATCH: or example:* Suppose junk food in the house and a gratitude practice that keeps lapsing. As a modern application, prevention is no
+FILE: ./principles/B112 — Practice gratitude — recognize your conditions.md [BODY]
+   BODY-MATCH: > **Principle 112** — Practice gratitude: recognize your conditions
+   BODY-MATCH: The Kataññu Suttas frame gratitude as a mark of integrity rather than as a pleasant addition to it. The B
+   BODY-MATCH: > A person of no integrity is ungrateful & unthankful. This ingratitude, this lack of thankfulness, is advocated by rude peop
+   BODY-MATCH: f no integrity is ungrateful & unthankful. This ingratitude, this lack of thankfulness, is advocated by rude people. It is entirel
+FILE: ./principles/R128 — Practise ecological gratitude.md [BODY+BACKLINK]
+   BODY-MATCH: > **Principle 390** — Practise ecological gratitude
+   BODY-MATCH: > So you really pay gratitude, not just in that sort of flip thank you, but a real recognition that 
+   BODY-MATCH: sures nature connectedness rather than ecological gratitude itself.
+   BODY-MATCH:  for the plant and for other beings that need it. Gratitude is expressed in the harvesting decision as well as the words.
+FILE: ./principles/AT021 — Learn to attend to the positive deliberately — attention training for well-being.md [BODY+BACKLINK]
+   BODY-MATCH: - **[[Gratitude]]** (Stoics, Seneca, Letters)
+   BODY-MATCH: - **[[Gratitude|Counting blessings]]** (Cicero, De Natura Deorum)
+   BODY-MATCH: you notice something good, linger on it. Practise gratitude as an attentional exercise: notice what is working, what is beautiful,
+FILE: ./principles/M037 — Number your days; we only borrow our time.md [BODY]
+   BODY-MATCH: - **[[Death reflection|Death reflection's gratitude and priority effects]]**, Cozzolino's dual-existential systems account
+FILE: ./principles/S116 — Handle success without arrogance.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude research]]** (Emmons and McCullough, 2003)
+   BODY-MATCH: - **[[Gratitude|Gratitude research]]** (Emmons and McCullough, 2003)
+FILE: ./principles/R123 — Practise ecological mindfulness.md [BODY]
+   BODY-MATCH: a Spiral journey through four stages: Coming from Gratitude, Honoring Our Pain for the World, Seeing with New/Ancient Eyes, Going 
+   BODY-MATCH: cological awareness as a practice that moves from gratitude to grief for the world to a sense of interdependence and then to actio
+FILE: ./principles/SO069 — Treat cultural bereavement as a real loss.md [BODY]
+   BODY-MATCH: e back there. Listen without steering them toward gratitude for the new country.
+FILE: ./principles/AF063 — Practise gratitude — it recalibrates attention toward what is good.md [BODY+BACKLINK]
+   BODY-MATCH: > **Principle 63** — Practise gratitude: it recalibrates attention toward what is good
+   BODY-MATCH: Gratitude, as studied in the lab, is a practice of directing attention: recognis
+   BODY-MATCH: 4,804 participants across 28 countries found that gratitude interventions led to small overall increases in well-being (Hedges' g 
+   BODY-MATCH: - **Gratitude interventions show small pooled effects**, a preregistered meta-analys
+FILE: ./principles/S120 — End the evening with review.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude and review practices]]** (Emmons and McCullough, 2003)
+   BODY-MATCH: - **[[Gratitude|Gratitude and review practices]]** (Emmons and McCullough, 2003)
+FILE: ./principles/S119 — Begin the morning with premeditation.md [BODY]
+   BODY-MATCH: lt have to do with an idle curious man, with an unthankful man, a railer, a crafty, false, or an envious man; an unsociable unchar
+FILE: ./principles/B169 — Eat mindfully.md [BODY+BACKLINK]
+   BODY-MATCH: ntemplations-before-eating) connect the meal with gratitude, compassion and service; tasting carefully is one entry into this wide
+FILE: ./principles/S006 — Remember that you are a citizen of the cosmos.md [BODY]
+   BODY-MATCH: - [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]]
+   BODY-MATCH: - [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]]
+FILE: ./principles/K034 — Be grateful to everyone.md [BODY]
+   BODY-MATCH: Chögyam Trungpa's commentary grounds the gratitude in necessity:
+   BODY-MATCH: e are enriched". In the compendium's framing, the gratitude this slogan asks for is not approval of the difficult people; Trungpa 
+   BODY-MATCH: - **[[Gratitude|Gratitude interventions]]**, modest reliable effects on well-being (Wo
+   BODY-MATCH: - **[[Gratitude|Gratitude interventions]]**, modest reliable effects on well-being (Wood et al.,
+FILE: ./principles/PP041 — Cultivate transcendence.md [BODY]
+   BODY-MATCH: ndence — appreciation of beauty and excellence, [[Gratitude|gratitude]], [[Hope|hope]], humor and spirituality — as "strengths tha
+   BODY-MATCH: ppreciation of beauty and excellence, [[Gratitude|gratitude]], [[Hope|hope]], humor and spirituality — as "strengths that forge co
+   BODY-MATCH: ated by self-transcendent positive emotions (awe, gratitude, love, and peace) but not by other positive emotions (amusement and pr
+   BODY-MATCH: ntly. What did they actually do, and what are you thankful for? That is a practical starting point for gratitude, one strength gro
+FILE: ./principles/B193 — Live with death lightly in view.md [BODY]
+   BODY-MATCH: [Death reflection|Death reflection]]**, increases gratitude and decreases materialism (Cozzolino, 2006)
+FILE: ./principles/P153 — Participate in the world's becoming.md [BODY]
+   BODY-MATCH:  an unfolding situation. The principle's call for gratitude and seriousness belongs to that practical reading; the descriptions ab
+FILE: ./principles/AF062 — Savour positive experiences — deliberately attend to and amplify them.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude as attention]]** (Stoics, Seneca, Letters)
+   BODY-MATCH: - **[[Gratitude|Gratitude as attention]]** (Stoics, Seneca, Letters)
+FILE: ./principles/A006 — Expect flourishing to require external goods.md [BODY]
+   BODY-MATCH: - [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]]
+   BODY-MATCH: - [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]]
+FILE: ./principles/P187 — Separate the religious quality of experience from religion.md [BODY]
+   BODY-MATCH: rent: what they actually had were moments of awe, gratitude and moral seriousness. Those were the goods. The doctrines were the wr
+   BODY-MATCH: arried was false. Ask what the quality was — awe, gratitude, moral seriousness, a sense of the whole — and seek that quality direc
+FILE: ./principles/MO059 — Learn to balance striving and contentment — ambition without suffering.md [BODY]
+   BODY-MATCH: - **Contentment and well-being**, gratitude and contentment predict well-being (Wood et al., 2010; Emmons & McCull
+   BODY-MATCH: ntentment: pursue goals with energy, and practise gratitude for what is. Do not make contentment conditional on achievement. Do no
+FILE: ./principles/PP013 — Practise gratitude with specificity.md [BODY+BACKLINK]
+   BODY-MATCH: > **Principle 13** — Practise gratitude with specificity
+   BODY-MATCH: Emmons and McCullough tested gratitude-listing exercises against comparison writing tasks (hassles, neutral e
+   BODY-MATCH: > "The gratitude-outlook groups exhibited heightened well-being across several, though 
+   BODY-MATCH: udies asked people to write down things they were thankful for, next to people writing hassles or neutral events; the thankful gro
+FILE: ./principles/S065 — Practise self-examination daily.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude and review practices]]** (Emmons and McCullough, 2003)
+   BODY-MATCH: - **[[Gratitude|Gratitude and review practices]]** (Emmons and McCullough, 2003)
+FILE: ./principles/SP071 — Do not accept the mob's favors.md [BODY]
+   BODY-MATCH: ts worth. If they expect you to share it and your gratitude falls short, they take offence, and the pressure is to follow their de
+FILE: ./principles/K068 — Practice gratitude as the fundamental stance.md [BODY+BACKLINK]
+   BODY-MATCH: > **Principle 68** — Practice gratitude as the fundamental stance
+   BODY-MATCH: hilosophy is 'returned to the world' in an act of gratitude, to serve as a medium for spreading faith in Other-power (Philosophy a
+   BODY-MATCH: (Tanabe, Philosophy as Metanoetics, the gratitude chapters.)
+   BODY-MATCH: hilosophy is 'returned to the world' in an act of gratitude, to serve as a medium for spreading faith in Other-power. In this way,
+FILE: ./principles/K053 — Practice recognizing the kindness you have received.md [BODY]
+   BODY-MATCH: - **[[Gratitude|Gratitude's social-bonding function]]**, the research on gratitude as 
+   BODY-MATCH: - **[[Gratitude|Gratitude's social-bonding function]]**, the research on gratitude as relationsh
+   BODY-MATCH: de's social-bonding function]]**, the research on gratitude as relationship maintenance (Algoe's find-remind-and-bind research, as
+   BODY-MATCH: - **[[Gratitude|Gratitude as repayment of love]]** (Spinoza)
+FILE: ./principles/S086 — Be honest with yourself.md [BODY]
+   BODY-MATCH: in from all anger and passion" (I.1), but that is gratitude, not a confession of his own temper, so this page does not use it as o
+FILE: ./principles/R058 — Practise filial piety (xiao).md [BODY+BACKLINK]
+   BODY-MATCH:  Psychology describes reciprocal filial piety as "gratitude for their efforts in having raised them" ([Child Development](https://
+   BODY-MATCH: - **[[Gratitude|Gratitude]]** (Seneca, On Benefits; Aristotle, Nicomachean Ethics VIII
+   BODY-MATCH: - **[[Gratitude|Gratitude]]** (Seneca, On Benefits; Aristotle, Nicomachean Ethics VIII.14)- **[[
+FILE: ./kernels/K120 — The 90-second wave.md [BODY]
+   BODY-MATCH: report the duration of everyday fear, anger, joy, gratitude and sadness episodes, and found duration stretched by the situation's 
+FILE: ./kernels/K222 — Mortality reflection.md [BODY]
+   BODY-MATCH: *p*=0.011) but not with well-being (*p*=0.116) or gratitude (*p*=0.226) after controlling for covariates. Positive death attitudes
+   BODY-MATCH: ll as higher levels of well-being (*p*<0.001) and gratitude (*p*<0.001)" (Abstract, [Glushich, DeMaranville, Wongpakaran, Wedding 
+FILE: ./kernels/K252 — Moral exemplar modelling.md [BODY+BACKLINK]
+   BODY-MATCH: ce) motivates prosocial and affiliative behavior, gratitude motivates improved relationships with benefactors, and admiration moti
+FILE: ./kernels/K289 — Amends and restitution.md [BODY]
+   BODY-MATCH: ach independently increased empathy, forgiveness, gratitude, and positive emotions, while reducing unforgiveness, negative emotion
+FILE: ./kernels/K396 — The Befriending meditation.md [BODY]
+   BODY-MATCH: - [[B112 — Practice gratitude — recognize your conditions|B112 Practice gratitude: recognize your co
+   BODY-MATCH: atitude — recognize your conditions|B112 Practice gratitude: recognize your conditions]]
+FILE: ./kernels/K212 — Gratitude expression.md [BODY+BACKLINK]
+   BODY-MATCH: > **Kernel K212** — Gratitude expression
+   BODY-MATCH: Express gratitude directly to a person, in person or in writing, specific about what the
+   BODY-MATCH: y did and what it meant. The evidence base is the gratitude visit from Seligman's positive-psychology intervention study: the larg
+   BODY-MATCH: *Steps follow the gratitude-visit exercise as tested; the everyday framing is the compendium's.*
+FILE: ./kernels/K350 — Seasonal mourning.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[Ecological gratitude]] — the companion practice on the gain side
+FILE: ./kernels/K170 — Forgiveness practice.md [BODY]
+   BODY-MATCH: - [[B112 — Practice gratitude — recognize your conditions|B112 Practice gratitude: recognize your co
+   BODY-MATCH: atitude — recognize your conditions|B112 Practice gratitude: recognize your conditions]]
+FILE: ./kernels/K110 — Savoring.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[K164 — Gratitude practice]]
+FILE: ./kernels/K226 — The deathbed test.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[K212 — Gratitude expression]]
+FILE: ./kernels/K210 — Active constructive responding.md [BODY]
+   BODY-MATCH: - [[B112 — Practice gratitude — recognize your conditions|B112 Practice gratitude: recognize your co
+   BODY-MATCH: atitude — recognize your conditions|B112 Practice gratitude: recognize your conditions]]
+FILE: ./kernels/K250 — Virtue rehearsal.md [BODY+BACKLINK]
+   BODY-MATCH: Gratitude listing. In [Emmons & McCullough, 2003](https://pubmed.ncbi.nlm.nih.go
+   BODY-MATCH: eutral events. The tested practice is a record of gratitude, not a rehearsal of virtues.
+   BODY-MATCH: > "The gratitude-outlook groups exhibited heightened well-being across several, though 
+FILE: ./kernels/K251 — Signature strengths in new ways.md [BODY]
+   BODY-MATCH: ssociated with life satisfaction were hope, zest, gratitude, love, and curiosity." — [Park, Peterson & Seligman, 2004, Journal of 
+FILE: ./kernels/K164 — Gratitude practice.md [BODY+BACKLINK]
+   BODY-MATCH: > **Kernel K164** — Gratitude practice
+   BODY-MATCH: own three things you are grateful for, or express gratitude directly to a person. Specificity matters: not "I'm grateful for my fr
+   BODY-MATCH: 4,804 participants across 28 countries found that gratitude interventions led to small increases in well-being (Hedges' g = 0.19, 
+   BODY-MATCH: I 0.15 to 0.22). The effect is honest and modest: gratitude practices help, they are not a cure for circumstances that need changi
+FILE: ./kernels/K155 — Enough lines.md [BACKLINK]
+   BACKLINK-SAMPLE: 1. [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]] — the felt side of en
+FILE: ./kernels/K278 — Wanting-versus-liking separation.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[K280 — Gratitude for sufficiency]]: the liking-side counterpart, attending to what alre
+FILE: ./kernels/K412 — The Inner Smile (Daoist practice).md [BODY]
+   BODY-MATCH: arm, genuine smile inward, through the body, with gratitude for each part. In its classical form the smile is sent to the organs, 
+FILE: ./kernels/K280 — Gratitude for sufficiency.md [BODY+BACKLINK]
+   BODY-MATCH: > **Kernel K280** — Gratitude for sufficiency
+   BODY-MATCH: ormally overlook. The practice is not the same as gratitude journaling (which has mixed evidence). It targets the specific mechani
+   BODY-MATCH: ve not noticed in weeks. The point is not to feel gratitude for a favor but to see a standing condition.
+   BODY-MATCH: igned to 1 of 3 experimental conditions (hassles, gratitude listing, and either neutral life events or social comparison)", and "r
+FILE: ./kernels/K376 — Give complex affirmations.md [BODY]
+   BODY-MATCH: - [[B112 — Practice gratitude — recognize your conditions|B112 Practice gratitude: recognize your co
+   BODY-MATCH: atitude — recognize your conditions|B112 Practice gratitude: recognize your conditions]] — **complement**: gratitude recognizes yo
+   BODY-MATCH: de: recognize your conditions]] — **complement**: gratitude recognizes your conditions; complex affirmation names the quality some
+FILE: ./sayings/Thanksgiving as sacrifice.md [BACKLINK]
+   BACKLINK-SAMPLE: - [[K068 — Practice gratitude as the fundamental stance]]
+FILE: ./sayings/In everything give thanks.md [BACKLINK]
+   BACKLINK-SAMPLE: [[X016 — Pair patience and gratitude as the two meters of every state]]
+FILE: ./stories/ST304 — Savoring.md [BODY]
+   BODY-MATCH: ate prolongation of enjoyment, through attention, gratitude, and sharing, is teachable.
+   BODY-MATCH: 2 Savor positive experience]], [[PP013 — Practise gratitude with specificity|PP013 Practise gratitude with specificity]]
+   BODY-MATCH: ractise gratitude with specificity|PP013 Practise gratitude with specificity]]
+FILE: ./stories/ST256 — The Seventh Generation.md [BODY]
+   BODY-MATCH: se the land ethic]], [[R128 — Practise ecological gratitude|R128 Practise ecological gratitude]], [[R129 — Practise ecological rel
+   BODY-MATCH: ise ecological gratitude|R128 Practise ecological gratitude]], [[R129 — Practise ecological relationality as spiritual practice|R1
+FILE: ./stories/ST057 — Agnes Martin Paints Grids.md [BODY]
+   BODY-MATCH: th. Her titles are the explanation: "Innocence," "Gratitude," "Happiness." She wrote that her paintings were about "what we know a
+FILE: ./stories/ST327 — Person-Activity Fit.md [BODY]
+   BODY-MATCH: arch programme asks why well-being interventions, gratitude diaries, kindness acts, produce modest and inconsistent effects, and t
+FILE: ./stories/ST255 — The Green Fire Dies.md [BODY]
+   BODY-MATCH: se the land ethic]], [[R128 — Practise ecological gratitude|R128 Practise ecological gratitude]], [[R129 — Practise ecological rel
+   BODY-MATCH: ise ecological gratitude|R128 Practise ecological gratitude]], [[R129 — Practise ecological relationality as spiritual practice|R1
+FILE: ./stories/ST258 — Ashitaka Sees with Eyes Unclouded.md [BODY]
+   BODY-MATCH: se the land ethic]], [[R128 — Practise ecological gratitude|R128 Practise ecological gratitude]], [[R129 — Practise ecological rel
+   BODY-MATCH: ise ecological gratitude|R128 Practise ecological gratitude]], [[R129 — Practise ecological relationality as spiritual practice|R1
+FILE: ./stories/ST342 — The Wild Boars Sit Still.md [BODY]
+   BODY-MATCH: a temple as part of a novice ordination, to offer gratitude ([Vox, update of 25 July](https://www.vox.com/2018/7/9/17548512/thai-c
+FILE: ./stories/ST303 — Broaden and Build.md [BODY]
+   BODY-MATCH: 2 Savor positive experience]], [[PP013 — Practise gratitude with specificity|PP013 Practise gratitude with specificity]]
+   BODY-MATCH: ractise gratitude with specificity|PP013 Practise gratitude with specificity]]
+FILE: ./stories/ST328 — The Right Dose.md [BODY]
+   BODY-MATCH: eldon and colleagues' research on the practice of gratitude found a dose and frequency effect: participants who practised gratitud
+   BODY-MATCH:  and frequency effect: participants who practised gratitude once a week showed larger increases in well-being than those who pract
+FILE: ./stories/ST241 — The Child at the Well.md [BODY]
+   BODY-MATCH: ell would feel alarm and distress. Not to win the gratitude of the parents, not to win the praise of neighbours, not from any calc
+FILE: ./stories/ST199 — Marcus at the Front.md [BODY]
+   BODY-MATCH: ath of children. The famous opening, the notes of gratitude to his teachers, relatives, and gods, was written in the field. The re
+FILE: ./stories/ST306 — Tim Lives Each Day Twice.md [BODY]
+   BODY-MATCH: 2 Savor positive experience]], [[PP013 — Practise gratitude with specificity|PP013 Practise gratitude with specificity]]
+   BODY-MATCH: ractise gratitude with specificity|PP013 Practise gratitude with specificity]]
+FILE: ./stories/ST257 — Næss on the Mountain.md [BODY]
+   BODY-MATCH: se the land ethic]], [[R128 — Practise ecological gratitude|R128 Practise ecological gratitude]], [[R129 — Practise ecological rel
+   BODY-MATCH: ise ecological gratitude|R128 Practise ecological gratitude]], [[R129 — Practise ecological relationality as spiritual practice|R1
+FILE: ./stories/ST305 — Amélie's Small Pleasures.md [BODY]
+   BODY-MATCH: 2 Savor positive experience]], [[PP013 — Practise gratitude with specificity|PP013 Practise gratitude with specificity]]
+   BODY-MATCH: ractise gratitude with specificity|PP013 Practise gratitude with specificity]]
+FILE: ./structure/M Reference — Appendix B - Psychological Science References.md [BODY]
+   BODY-MATCH: [Wood, Froh and Geraghty, 2010, Gratitude and well-being: a review and theoretical integration, Clinical Psychol
+   BODY-MATCH: https://research.manchester.ac.uk/en/publications/gratitude-and-well-being-a-review-and-theoretical-integration/)
+FILE: ./structure/R Reference — Book III Appendix B - Psychological Science References.md [BODY]
+   BODY-MATCH: - Gratitude and well-being — Emmons and McCullough, 2003
+FILE: ./structure/AF Reference — Appendix A — Saturation Checklist.md [BODY]
+   BODY-MATCH: | Positive affect: broaden-and-build, savouring, gratitude, awe | Covered |
+FILE: ./structure/K-S10 — LAYER X - METANOETICS AND THE FORMLESS SELF.md [BODY]
+   BODY-MATCH: - [[K068 — Practice gratitude as the fundamental stance]]
+FILE: ./structure/X-S03 — PART III - SUFISM — THE REMEMBRANCE AND THE HEART.md [BODY]
+   BODY-MATCH: - [[X016 — Pair patience and gratitude as the two meters of every state]]
+FILE: ./structure/AF — Affect.md [BODY]
+   BODY-MATCH: | Awe, gratitude, savouring | Keltner & Haidt (2003); Emmons & McCullough (2003); Bryan
+FILE: ./structure/S Reference — Book II Appendix B - Psychological Science References.md [BODY]
+   BODY-MATCH: - Gratitude: [Emmons and McCullough, 2003](https://doi.org/10.1037/0022-3514.84.2.
+   BODY-MATCH: - Gratitude expression: [Wood et al., 2010](https://doi.org/10.1037/0003-066X.59.8
+FILE: ./structure/PP Reference — Sources for Book VI.md [BODY]
+   BODY-MATCH: Gratitude: Wood et al., 2010
+FILE: ./structure/BE Reference — Appendix B — Psychological Science References.md [BODY]
+   BODY-MATCH: - Wood, A. M., et al. (2010). Gratitude and well-being. Clinical Psychology Review.
+FILE: ./structure/B-S05 — LAYER V — THE HEART — EMOTIONS AND IMMEASURABLES.md [BODY]
+   BODY-MATCH: - [[B112 — Practice gratitude — recognize your conditions]]
+FILE: ./structure/S — Classical Stoicism.md [BODY]
+   BODY-MATCH:  Benefits (De Beneficiis) | Giving and receiving, gratitude, the ethics of beneficence |
+FILE: ./structure/V2K-S01 — Part I — Science-Backed Kernels.md [BODY]
+   BODY-MATCH: - [[K280 — Gratitude for sufficiency]]
+FILE: ./structure/S-S06 — Layer VI - Social, Cosmopolitan, and Duty.md [BODY]
+   BODY-MATCH: - [[S084 — Practise gratitude]]
+FILE: ./structure/MO Reference — Appendix B — Psychological Science References.md [BODY]
+   BODY-MATCH: - Wood, A. M., et al. (2010). Gratitude and well-being. Clinical Psychology Review.
+FILE: ./structure/SP Reference — Appendix B - Psychological Science References.md [BODY]
+   BODY-MATCH: [Wood, Froh and Geraghty, 2010, Gratitude and well-being: a review and theoretical integration, Clinical Psychol
+   BODY-MATCH: https://research.manchester.ac.uk/en/publications/gratitude-and-well-being-a-review-and-theoretical-integration/)
+FILE: ./structure/B Reference — Book II Appendix B — Psychology Parallels — Key Sources.md [BODY]
+   BODY-MATCH: - Gratitude: [Emmons and McCullough (2003)](https://pmc.ncbi.nlm.nih.gov/articles/
+FILE: ./structure/BE-S05 — LAYER V — SOCIAL BEHAVIORS — CONNECTION AND COMMUNICATION.md [BODY]
+   BODY-MATCH: - [[BE055 — Learn to express gratitude behaviourally — thank others]]
+FILE: ./structure/PP-S03 — Layer III — Positive Emotion.md [BODY]
+   BODY-MATCH: - [[PP013 — Practise gratitude with specificity]]
+FILE: ./structure/A Reference — Book I Appendix B - Psychological Science References.md [BODY]
+   BODY-MATCH: - Gratitude: [Emmons and McCullough, 2003](https://doi.org/10.1037/0022-3514.84.2.
+   BODY-MATCH: - Gratitude expression: [Emmons and McCullough, 2003](https://doi.org/10.1037/0022
+FILE: ./structure/AF-S06 — LAYER VI — POSITIVE AFFECT & AFFILIATIVE FEELING.md [BODY]
+   BODY-MATCH: - [[AF063 — Practise gratitude — it recalibrates attention toward what is good]]
+FILE: ./structure/SP-S02 — LAYER II - CONATUS — THE STRIVING ENGINE.md [BODY]
+   BODY-MATCH: - [[SP022 — Practice gratitude as repayment of love]]
+FILE: ./structure/BE Reference — Appendix A — Saturation Checklist.md [BODY]
+   BODY-MATCH: | Support, repair, gratitude, kindness, touch, solitude balance | Covered |
+FILE: ./structure/V1K-S01 — PART I — SCIENCE-BACKED KERNELS.md [BODY]
+   BODY-MATCH: - [[K164 — Gratitude practice]]
+   BODY-MATCH: - [[K212 — Gratitude expression]]
+FILE: ./structure/V1K-S01.06 — 6. Emotion and Compassion.md [BODY]
+   BODY-MATCH: - [[K164 — Gratitude practice]]
+FILE: ./structure/R Reference — Book III Appendix A - Saturation Checklist.md [BODY]
+   BODY-MATCH: ical citizenship, ecological humility, ecological gratitude, ecological spirituality, more-than-human self all covered; tradition 
+FILE: ./structure/R-S09 — Section IX - Ecological Relationality (15 Principles).md [BODY]
+   BODY-MATCH: - [[R128 — Practise ecological gratitude]]
+FILE: ./structure/R Reference — Book III Appendix C - Philosophy and Indigenous Knowledge References.md [BODY]
+   BODY-MATCH: - Gratitude — Seneca, On Benefits; Aristotle, Nicomachean Ethics VIII.14
+   BODY-MATCH: - Gratitude — Seneca, On Benefits; Aristotle, Nicomachean Ethics VIII.14
+FILE: ./structure/K Reference — Appendix B - Psychological Science References.md [BODY]
+   BODY-MATCH: [Wood, Froh and Geraghty, 2010, Gratitude and well-being: a review and theoretical integration, Clinical Psychol
+   BODY-MATCH: https://research.manchester.ac.uk/en/publications/gratitude-and-well-being-a-review-and-theoretical-integration/)
+   BODY-MATCH: https://research.manchester.ac.uk/en/publications/gratitude-and-well-being-a-review-and-theoretical-integration/)
+FILE: ./structure/V2K-S01.04 — 4. Desire, Preference, and Voluntary Discomfort.md [BODY]
+   BODY-MATCH: - [[K280 — Gratitude for sufficiency]]
+FILE: ./structure/V1K-S01.09 — 9. Social and Relational.md [BODY]
+   BODY-MATCH: - [[K212 — Gratitude expression]]
+FILE: ./structure/Y Reference — Appendix B - Psychological Science References.md [BODY]
+   BODY-MATCH: [Wood, Froh and Geraghty, 2010, Gratitude and well-being: a review and theoretical integration, Clinical Psychol
+   BODY-MATCH: https://research.manchester.ac.uk/en/publications/gratitude-and-well-being-a-review-and-theoretical-integration/)
+FILE: ./structure/AF Reference — Appendix B — Psychological Science References.md [BODY]
+   BODY-MATCH: - Emmons & McCullough (2003). Gratitude. JPSP.
+   BODY-MATCH: - Wood et al. (2010). Gratitude and well-being. Clinical Psychology Review.
+FILE: ./structure/X-S02 — PART II - EPICUREANISM — THE REMEDY AND THE LIMITS.md [BODY]
+   BODY-MATCH: - [[X011 — Bank gratitude for past pleasures, and draw on it in need]]
+FILE: ./thinkers/T004 — Plato.md [BODY]
+   BODY-MATCH: - [[X011 — Bank gratitude for past pleasures, and draw on it in need|Bank gratitude for past ple
+   BODY-MATCH: e for past pleasures, and draw on it in need|Bank gratitude for past pleasures, and draw on it in need]]
+FILE: ./thinkers/T007 — Spinoza, Baruch.md [BODY]
+   BODY-MATCH: - [[SP022 — Practice gratitude as repayment of love|Practice gratitude as repayment of love]]
+   BODY-MATCH:  Practice gratitude as repayment of love|Practice gratitude as repayment of love]]
+   BODY-MATCH: - [[Gratitude|Gratitude]]
+   BODY-MATCH: - [[Gratitude|Gratitude]]
+FILE: ./thinkers/T010 — Epictetus.md [BODY]
+   BODY-MATCH: - [[S084 — Practise gratitude|Practise gratitude]]
+   BODY-MATCH: - [[S084 — Practise gratitude|Practise gratitude]]
+FILE: ./thinkers/T026 — Seligman, Martin.md [BODY]
+   BODY-MATCH: - [[BE055 — Learn to express gratitude behaviourally — thank others|Learn to express gratitude behaviourally:
+   BODY-MATCH: ude behaviourally — thank others|Learn to express gratitude behaviourally: thank others]]
+   BODY-MATCH: - [[Gratitude|Gratitude]]
+   BODY-MATCH: - [[Gratitude|Gratitude]]
+FILE: ./thinkers/T013 — Seneca.md [BODY]
+   BODY-MATCH: - [[AF063 — Practise gratitude — it recalibrates attention toward what is good|Practise gratitude: it
+   BODY-MATCH: calibrates attention toward what is good|Practise gratitude: it recalibrates attention toward what is good]]
+   BODY-MATCH: - [[BE055 — Learn to express gratitude behaviourally — thank others|Learn to express gratitude behaviourally:
+   BODY-MATCH: ude behaviourally — thank others|Learn to express gratitude behaviourally: thank others]]
+FILE: ./thinkers/T014 — Marcus Aurelius.md [BODY]
+   BODY-MATCH: - [[S084 — Practise gratitude|Practise gratitude]]
+   BODY-MATCH: - [[S084 — Practise gratitude|Practise gratitude]]
+FILE: ./thinkers/T012 — Laozi.md [BODY]
+   BODY-MATCH: - [[S084 — Practise gratitude|Practise gratitude]]
+   BODY-MATCH: - [[S084 — Practise gratitude|Practise gratitude]]
+TOTALS: files=178 body-evidence=154 backlink-only=24 metadata-only-unreviewed=0
