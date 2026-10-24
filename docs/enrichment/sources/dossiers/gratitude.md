@@ -23,81 +23,17 @@ the supervisor's publication decision.
 
 ## Quotes and carriers, all opened this session
 
-1. Emmons and McCullough, "Counting Blessings Versus Burdens," JPSP
-   84(2) 2003:
-   https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf
-   The PDF was fetched with curl this session and its text extracted;
-   the quoted passage was checked against the extracted text: "The
-   gratitude-outlook groups exhibited heightened well-being across
-   several, though not all, of the outcome measures across the 3
-   studies, relative to the comparison groups. The effect on positive
-   affect appeared to be the most robust finding." The study-design
-   sentence ("up to five things in your life that you are grateful or
-   thankful for") was also read from the extracted text. Quoted in
-   the divergence.
+Current-use table (authoritative; the revision paragraphs above are
+historical and superseded by this table):
 
-2. Algoe, "Find, Remind, and Bind: The Functions of Gratitude in
-   Everyday Relationships," 2012:
-   https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00439.x
-   The article page was opened with the page reader this session; the
-   abstract sentence "The find-remind-and-bind theory of gratitude
-   posits that the positive emotion of gratitude serves the
-   evolutionary function of strengthening a relationship with a
-   responsive interaction partner (Algoe, Haidt, & Gable, 2008)" was
-   read from the page. The raw HTML returned by curl did not contain
-   the abstract; the passage is therefore verified by page-read, not
-   raw-HTML comparison. The Wiley pages were observed to return raw
-   HTML without the abstract; no claim is made about why. Noted for
-   the supervisor. Quoted in the related-questions section.
-
-3. Algoe, Gable and Maisel, "It's the little things: Everyday
-   gratitude as a booster shot for relationship and personal
-   well-being," 2010:
-   https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6811.2010.01273.x
-   The article page was opened with the page reader this session; the
-   quoted sentences ("However, for both men and women, gratitude from
-   interactions predicted increases in relationship connection and
-   satisfaction the following day, for both recipient and
-   benefactor." and "gratitude had uniquely predictive power in
-   relationship promotion, perhaps acting as a booster shot for the
-   relationship") were read from the page. Same page-read method as
-   above. Quoted in the related-questions section.
-
-4. Seneca, On Benefits, Book I sections 5-7 (Wikisource edition):
-   https://en.wikisource.org/wiki/On_Benefits/Book_I
-   Fetched and read this session. Verified verbatim: "A benefit is not
-   to be felt and handled, it is a thing which exists only in the
-   mind... neither gold, nor silver, nor any of those things which
-   are most highly esteemed, are benefits, but the benefit lies in the
-   goodwill of him who gives them"; "It is not, therefore, the thing
-   which is done or given, but the spirit in which it is done or
-   given, that must be considered"; and, from section 1, the delay and
-   offense passages. Supports the classical map lines; not quoted in
-   the dossier body.
-
-5. Aristotle, Nicomachean Ethics VIII.14 (Ross translation, Internet
-   Classics Archive): https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html
-   Fetched and read this session. Verified verbatim: "the man who is
-   benefited in respect of wealth or virtue must give honour in
-   return, repaying what he can. For friendship asks a man to do what
-   he can, not what is proportional to the merits of the case" and
-   "the man who serves them to the utmost of his power is thought to
-   be a good man." Supports the anchor card's classical framing; not
-   quoted in the dossier body.
-
-6. Samyutta Nikaya 7.2, Akkosaka Sutta (Thanissaro, Access to
-   Insight): https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html
-   Verified against the raw HTML fetched with curl this session:
-   "It's all yours, brahman. It's all yours." Quoted in the Story
-   section's Gift Nobody Accepted logline (corrected from an earlier
-   note that called it supporting-not-quoted).
-
-The dossier body quotes three external carriers (Emmons PDF,
-Algoe 2012, Algoe et al. 2010); the Seneca and Aristotle passages
-above support map lines without direct quotation, and SN 7.2 is
-quoted in the Gift Nobody Accepted logline.
-The remaining practice material is compressed from the cards, each of
-which carries its own sources.
+| URL | Current passage | Verification | Status |
+|---|---|---|---|
+| https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf | "The gratitude-outlook groups exhibited heightened well-being..." incl. "The effect on positive affect appeared to be the most robust finding. Results suggest that a conscious focus on blessings may have emotional and interpersonal benefits." | PDF fetched with curl, text extracted, passage checked against the extracted text | Quoted (related-questions section) |
+| https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00439.x | "The find-remind-and-bind theory of gratitude posits..." | Article page opened with the page reader; raw HTML returned by curl lacked the abstract (observed only; no claim about why) | Quoted (related-questions section) |
+| https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6811.2010.01273.x | "However, for both men and women, gratitude from interactions predicted increases in relationship connection and satisfaction the following day, for both recipient and benefactor." plus the booster-shot sentence | Same page-read method and same observed access limit | Quoted (related-questions section) |
+| https://en.wikisource.org/wiki/On_Benefits/Book_I | "A benefit is not to be felt and handled, it is a thing which exists only in the mind..."; "It is not, therefore, the thing which is done or given, but the spirit in which it is done or given, that must be considered" | Fetched and read this session | Supporting (map lines; not quoted in body) |
+| https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html | "the man who is benefited in respect of wealth or virtue must give honour in return, repaying what he can. For friendship asks a man to do what he can, not what is proportional to the merits of the case" | Fetched and read this session | Supporting (map lines; not quoted in body) |
+| https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html | "It's all yours, brahman. It's all yours." | Raw HTML fetched with curl, passage checked | Quoted (Story section logline) |
 
 ## Map, practice and story lines
 
@@ -126,16 +62,14 @@ received, its attention, expression, reciprocity or indebtedness, or
 a clearly labelled neighbouring practice), rather than mere mention.
 Inclusions and exclusions with reasons, recorded for the supervisor:
 
-Full-review record (advisor QC round 2): the 178 files were
-inspected in two batches, 102 non-principle/kernel files and 76
-principle/kernel files, each filename with its first
-gratitude-matching fragment read; the extraction records the first
-match, which in some files is a backlink list or a source citation
-rather than the substantive passage, and those files were classified
-as backlink-only or citation-only and excluded without a full read;
-body-evidence fragments were read before the inclusion decisions
-below. The decisions name the categories with representative
-cards.
+Full-review record (final, reconciled): a zone-aware audit script
+classified all 178 candidate files by whether their gratitude
+matches fall in body text or in backlink/source zones; totals:
+154 files with body-evidence matches (body fragments read before
+the inclusion decisions below), 24 backlink-only (excluded without a
+full read; the backlink zone was verified to contain the matches),
+0 unreviewed. The audit record is saved in the session workspace.
+The decisions name the categories with representative cards.
 
 - The positive-affect family that mentions gratitude in passing
   (Broaden-and-build, Positive activity interventions,

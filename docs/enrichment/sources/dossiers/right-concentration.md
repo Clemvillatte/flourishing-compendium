@@ -48,14 +48,15 @@ memory of the rose-apple tree) added to the Story section.
    recorded here as opened-but-unused.
 
 3. Buddhaghosa's definition and Shankman's renderings, Wikipedia,
-   Samadhi: https://en.wikipedia.org/wiki/Samadhi (two citation
-   occurrences, one distinct page; with DN 2 above the current text
-   cites two distinct external pages)
+   Samadhi: https://en.wikipedia.org/wiki/Samadhi (the page is cited
+   twice, once for the Buddhaghosa passage and once for the Shankman
+   passages; with DN 2 above the current text cites two distinct
+   external pages)
    Verified against the raw HTML fetched with curl this session:
    Buddhaghosa's samadhi as "the state in virtue of which
    consciousness and its concomitants remain evenly and rightly on a
    single object, undistracted and unscattered" (attributed to the
-   Visuddhimagga), quoted twice in the current divergence section; Shankman's samadhi "basically means
+   Visuddhimagga), quoted in the current divergence section; Shankman's samadhi "basically means
    'undistractedness'", viewable as "an exclusive focus on a single
    object" or as "a broader state of awareness in which the mind
    remains steady and unmoving, yet aware of a wide range of
