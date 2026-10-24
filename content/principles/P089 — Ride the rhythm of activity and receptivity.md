@@ -38,6 +38,9 @@ After drafting a page, take a short walk. When you return, read the page before 
 
 - [[K112 — Scheduled empty time|K112 Scheduled empty time]]
 - [[K200 — Rest as practice|K200 Rest as practice]]
+## Stories
+- [[ST476 — The Broad Margin|476. The Broad Margin]]
+
 ## Psychology parallels
 
 - **[[Recovery experiences|Recovery experiences]]** — the four recovery experiences (psychological detachment, relaxation, mastery, control), differentiated and related to well-being (Sonnentag and Fritz, 2007)
