@@ -2,7 +2,7 @@
 
 > What is gratitude actually about, and why does it resist being a self-help technique?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about gratitude?" can open it and see what the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: gratitude is one of the few practices the classical and the scientific traditions both name, and the page keeps the two answers from collapsing into each other, which is exactly what a technique flattens.
+This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about gratitude?" can open it and see what the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: the classical and the scientific traditions both have a worked-out account of gratitude, and the page keeps the two answers visible side by side rather than letting either one absorb the other.
 
 How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The map records the entries the sweeps surfaced and the boundary decisions that excluded the rest; the exclusions and their reasons are listed in the evidence ledger. The wider family of positive-affect principle pages is reachable through the concept cards that cite them and is not listed exhaustively inline, so the map stays a map.
 
@@ -22,7 +22,7 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 1. [Gratitude](https://clemvillatte.github.io/flourishing-compendium/#card=Gratitude): the felt recognition of a benefit received, with Seneca's On Benefits and Aristotle's Nicomachean Ethics VIII.14 as the classical anchors, and the psychological study beginning from the same observation that the emotion is about a source.
 
-2. [T013 — Seneca](https://clemvillatte.github.io/flourishing-compendium/#card=T013%20%E2%80%94%20Seneca): the letters and essays behind the On Benefits account the anchor card opens with.
+2. [T013 — Seneca](https://clemvillatte.github.io/flourishing-compendium/#card=T013%20%E2%80%94%20Seneca): the Stoic whose Moral Letters and essays carry the On Benefits account the anchor card opens with; philosophy as salutary practice rather than lecture.
 
 3. [S037 — Practise beneficence](https://clemvillatte.github.io/flourishing-compendium/#card=S037%20%E2%80%94%20Practise%20beneficence): Seneca's location of a benefit in the goodwill behind it rather than the money or object that changes hands, with delay, reproach and humiliation named as spoilers of the gift.
 
@@ -38,7 +38,7 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 9. [Benevolence](https://clemvillatte.github.io/flourishing-compendium/#card=Benevolence): Hume's sentiment that grounds the social virtues, the giving side of the same bond.
 
-10. [K053 — Practice recognizing the kindness you have received](https://clemvillatte.github.io/flourishing-compendium/#card=K053%20%E2%80%94%20Practice%20recognizing%20the%20kindness%20you%20have%20received): the Tibetan instruction the compendium carries for the receiving side of the same act.
+10. [K053 — Practice recognizing the kindness you have received](https://clemvillatte.github.io/flourishing-compendium/#card=K053%20%E2%80%94%20Practice%20recognizing%20the%20kindness%20you%20have%20received): the lamrim's contemplation: recognize all beings as your mothers, begin with your mother's kindness in this lifetime, and extend the remembrance outward gradually.
 
 ### The attention theory: counting what is good
 
@@ -46,9 +46,9 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 12. [PP013 — Practise gratitude with specificity](https://clemvillatte.github.io/flourishing-compendium/#card=PP013%20%E2%80%94%20Practise%20gratitude%20with%20specificity): the Emmons and McCullough experiments as the evidence base, with their limits stated plainly on the card.
 
-13. [AT021 — Learn to attend to the positive deliberately](https://clemvillatte.github.io/flourishing-compendium/#card=AT021%20%E2%80%94%20Learn%20to%20attend%20to%20the%20positive%20deliberately%20%E2%80%94%20attention%20training%20for%20well-being): the attention-training family the practice belongs to.
+13. [AT021 — Learn to attend to the positive deliberately](https://clemvillatte.github.io/flourishing-compendium/#card=AT021%20%E2%80%94%20Learn%20to%20attend%20to%20the%20positive%20deliberately%20%E2%80%94%20attention%20training%20for%20well-being): the two things that go by the name of attention training, gaze trained toward positive information, and the bias-modification family whose meta-analysis was less encouraging.
 
-14. [B112 — Practice gratitude: recognize your conditions](https://clemvillatte.github.io/flourishing-compendium/#card=B112%20%E2%80%94%20Practice%20gratitude%20%E2%80%94%20recognize%20your%20conditions): the Buddhist form, recognizing the conditions one stands on.
+14. [B112 — Practice gratitude: recognize your conditions](https://clemvillatte.github.io/flourishing-compendium/#card=B112%20%E2%80%94%20Practice%20gratitude%20%E2%80%94%20recognize%20your%20conditions): the Kataññu Suttas' framing of gratitude as a mark of integrity, with parents as the clearest case and even extreme service not discharging the debt.
 
 15. [Hedonic adaptation](https://clemvillatte.github.io/flourishing-compendium/#card=Hedonic%20adaptation): the taking-for-granted treadmill the counting practice counters, in Brickman and Campbell's original image.
 
@@ -70,9 +70,9 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 23. [Mudita (sympathetic joy)](https://clemvillatte.github.io/flourishing-compendium/#card=Mudita%20%28sympathetic%20joy%29): the unadulterated goodness felt when something good happens for someone else, the other-directed cousin.
 
-24. [Four immeasurables](https://clemvillatte.github.io/flourishing-compendium/#card=Four%20immeasurables): the appreciative side of the four, in social form.
+24. [Four immeasurables](https://clemvillatte.github.io/flourishing-compendium/#card=Four%20immeasurables): each a stance toward a condition: mudita is metta meeting good fortune, joy in another's happiness even when one contributed nothing to it.
 
-25. [Enemy as teacher](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy%20as%20teacher): the gratitude toward difficulty that the forbearance chapter of the Bodhicharyavatara trains, the far edge of the family.
+25. [Enemy as teacher](https://clemvillatte.github.io/flourishing-compendium/#card=Enemy%20as%20teacher): Śāntideva's closing turn, longing for an enemy like a treasure discovered in the home, because forbearance depends on the hostile intention.
 
 ### Contentment, sufficiency, and finitude
 
@@ -96,19 +96,21 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 34. [R058 — Practise filial piety (xiao)](https://clemvillatte.github.io/flourishing-compendium/#card=R058%20%E2%80%94%20Practise%20filial%20piety%20%28xiao%29): the Confucian form of gratitude to those one stands on, with the Analects' care that support without reverence is what dogs and horses also do.
 
-## Where the traditions genuinely disagree
+## Related questions and parallels
 
-### Is gratitude for the feeler or for the bond?
+### Attention or bond: two accounts that do not exclude each other
 
-The shared question: what does gratitude do, and who benefits from it? The classic experiment's own summary keeps the effect on the lister:
+The counting-blessings experiment and the relationship theory are often presented as rival accounts of what gratitude is for. Read side by side, the two sources answer different questions, and the experiment's own summary keeps both effects in view:
 
-> "The gratitude-outlook groups exhibited heightened well-being across several, though not all, of the outcome measures across the 3 studies, relative to the comparison groups. The effect on positive affect appeared to be the most robust finding." ([Emmons and McCullough, "Counting Blessings Versus Burdens," JPSP 2003](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf)): Primary text; the passage was checked against the PDF's own text this session.
+> "The gratitude-outlook groups exhibited heightened well-being across several, though not all, of the outcome measures across the 3 studies, relative to the comparison groups. The effect on positive affect appeared to be the most robust finding. Results suggest that a conscious focus on blessings may have emotional and interpersonal benefits." ([Emmons and McCullough, "Counting Blessings Versus Burdens," JPSP 2003](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf)): Primary text; the passage was checked against the PDF's own text this session.
 
-Algoe's theory answers the same question by moving the beneficiary to the relationship:
+Algoe's theory relocates the function without denying the felt effect, and the couples study reports both sides of the bond:
 
 > "The find-remind-and-bind theory of gratitude posits that the positive emotion of gratitude serves the evolutionary function of strengthening a relationship with a responsive interaction partner (Algoe, Haidt, & Gable, 2008)." ([Algoe, "Find, Remind, and Bind," 2012](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00439.x)): Primary text; the passage was read from the article page this session.
 
-The two positions part on the primary function: on one reading the emotion regulates the feeler's attention and affect, on the other it maintains the bond between recipient and benefactor. The practice families differ accordingly, and the compendium holds both: attention practices that count what is good, and expression practices that tell the giver, with the couples studies' finding that gratitude, unlike indebtedness, predicted connection and satisfaction for both sides. What remains unresolved is which function is primary, and the wiki's practices split along the same line rather than choosing.
+> "However, for both men and women, gratitude from interactions predicted increases in relationship connection and satisfaction the following day, for both recipient and benefactor." ([Algoe, Gable and Maisel, "It's the little things," 2010](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6811.2010.01273.x)): Primary text; the passage was read from the article page this session. The same abstract adds that "gratitude had uniquely predictive power in relationship promotion, perhaps acting as a booster shot for the relationship," where indebtedness maintained only the external signals of engagement.
+
+The open question the two accounts leave standing is which effect is primary in ordinary life, the feeler's attention or the bond's maintenance; the wiki's practices split along the same line rather than choosing, attention practices on one side, expression practices on the other. No verified disagreement is recorded on this theme, and the map's classical anchors were checked instead: Seneca's location of the benefit in the goodwill rather than the thing given, and Aristotle's proportional return, repay what you can, do what you can rather than what is proportional, both verified against opened editions this session and recorded in the evidence ledger.
 
 ## Practice: variation, selection, retention
 
@@ -124,7 +126,7 @@ The two positions part on the primary function: on one reading the emotion regul
 
 4. [K110 — Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=K110%20%E2%80%94%20Savoring): the present-tense cousin, stopping the good moment from passing unnoticed.
 
-5. [K157 — Evening review](https://clemvillatte.github.io/flourishing-compendium/#card=K157%20%E2%80%94%20Evening%20review): the day named and closed, the slot the gratitude list naturally occupies.
+5. [K157 — Evening review](https://clemvillatte.github.io/flourishing-compendium/#card=K157%20%E2%80%94%20Evening%20review): the last quarter hour of the day, three questions in writing; the written form outperformed more practice in the field experiment.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps one evening list, one expressed thanks, or the sufficiency naming has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 
@@ -134,7 +136,7 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### The gift of the Magi
 
-[ST167 — The Gift of the Magi](https://clemvillatte.github.io/flourishing-compendium/#card=ST167%20%E2%80%94%20The%20Gift%20of%20the%20Magi): the young couple each sell the thing the other's gift is for, and O. Henry names them the two foolish children who were also the wisest of all who give gifts, for in giving they saw the other as the whole point; the story's logic is Aristotle's, the failure on the plane of utility and the complete success on the plane of mutual giving.
+[ST167 — The Gift of the Magi](https://clemvillatte.github.io/flourishing-compendium/#card=ST167%20%E2%80%94%20The%20Gift%20of%20the%20Magi): the young couple each sell the thing the other's gift is for, and O. Henry names them the two foolish children who were also the wisest of all who give gifts, for in giving they saw the other as the whole point; the card's editorial reading of the story sets it beside Aristotle's planes of exchange, failure on utility and success on mutual giving; the comparison is the card's, not the sutra's.
 
 ### The gift nobody accepted
 
