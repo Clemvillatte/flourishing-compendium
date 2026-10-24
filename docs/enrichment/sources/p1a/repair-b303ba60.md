@@ -155,3 +155,11 @@ are not certified by this body-level review.
 - Repair: retained the already strong activity explanation and fortune qualification. Added relational context to prevent self-sufficiency from reading as isolation. Plain words explains quality of activity across a life; the existing course/caregiving case now includes consultation, trial and review.
 - Saturation: existing Eudaimonia, Happiness as activity, Psychological well-being, MacIntyre and Aristotle links remain; no additional edge or modern psychological equivalence.
 - Limits: philosophical account attributed to Aristotle; not an empirical definition of all flourishing, a demand for productivity, a claim of immunity to misfortune or a fixed ranking of learning over care.
+
+## A023: Justice
+
+- Opened: [NE V, Ross](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html), full book, especially V.1–4; [LeBar, Justice as a Virtue](https://plato.stanford.edu/entries/justice-virtue/), §1.1 extraction.
+- Evidence: retained complete-virtue/neighbour quotation matches V.1. V.2–4 explicitly distinguish distribution, contested merit and rectification; LeBar identifies unresolved scope and structure/character questions.
+- Repair: retained the strong substantive account and its modern-theory caution. Plain words now directly explains distribution versus correction instead of opening with a sequence of instructions. Added review of whether a chosen allocation basis was followed.
+- Saturation: `enrich_find.py mention corrective justice` and Dikaiosyne read; existing Justice/Procedural justice links retained, no new edge or proposal.
+- Limits: no attribution of a need-based modern distribution proposal to Aristotle, no claim that mathematical proportionality alone determines a fair standard, and no equation of rectification with every theory of restorative justice.

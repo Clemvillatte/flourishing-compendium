@@ -23,11 +23,11 @@ The scholarly account in the Stanford Encyclopedia also notes unresolved questio
 
 ### Plain words
 
-First ask what kind of problem you face. If you are dividing something, make the proposed basis of the shares explicit and examine its justification. If someone has suffered a wrongful loss, identify what correction is owed. Calling either arrangement fair does not supply the missing reasons.
+Dividing a shared resource and correcting a wrongful loss are different questions. A proposed division needs reasons for its chosen basis; a correction responds to what someone has wrongly gained or lost. Calling either outcome fair leaves those reasons unstated.
 
 ### For example
 
-Imagine a group allocating shared funds. One person proposes equal shares; another proposes shares based on need. That disagreement concerns the basis of distribution, not just arithmetic. Separately, if an accounting error pays one member another's agreed allocation, returning the mistaken payment is a correction. This is an illustration, not Aristotle's endorsement of either modern allocation proposal.
+Imagine a group allocating shared funds. Equal shares and shares based on need propose different grounds for distribution. Make the chosen ground explicit, then review whether the allocation followed it. Separately, if an accounting error gives one member another's agreed share, returning that payment is a correction. This is my illustration, not Aristotle's endorsement of either modern allocation proposal.
 
 ## Sources
 
