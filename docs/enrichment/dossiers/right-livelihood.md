@@ -49,19 +49,19 @@ The canonical list, in the Buddha's own words:
 
 [The dignity of labor](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dignity%20of%20labor): Dewey's claim in Democracy and Education that work belongs to the educative life of a person, not to its payment plan: the sorting of children into laborers and gentlemen is the injury.
 
-[Ora et labora](https://clemvillatte.github.io/flourishing-compendium/#card=Ora%20et%20labora): the Benedictine rule's prayer-and-work pairing, the monastic form of the claim that work belongs inside a life of practice.
+[Ora et labora](https://clemvillatte.github.io/flourishing-compendium/#card=Ora%20et%20labora): the Benedictine motto, drawn from the Rule's balance of the Divine Office and manual labor: prayer and work under one rule.
 
 [Person-organization fit](https://clemvillatte.github.io/flourishing-compendium/#card=Person-organization%20fit): the research on whether a person's values match those of the organization they work in; Kristof-Brown, Zimmerman and Johnson's meta-analysis found fit predicts satisfaction, commitment and staying more than performance.
 
-[Life-span, life-space career theory](https://clemvillatte.github.io/flourishing-compendium/#card=Life-span%2C%20life-space%20career%20theory): Super's account of career as the course a life runs, with vocational self-concept developed and tested across life stages and roles.
+[Life-span, life-space career theory](https://clemvillatte.github.io/flourishing-compendium/#card=Life-span%2C%20life-space%20career%20theory): Super's theory: five stages from growth through exploration, establishment and maintenance to disengagement, each with its career development tasks and roles.
 
-[Social cognitive career theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20cognitive%20career%20theory): Lent, Brown and Hackett's model of career choice as an interplay of self-efficacy, outcome expectations and goals.
+[Social cognitive career theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20cognitive%20career%20theory): Lent, Hackett and Brown's model of how people develop educational and occupational interests, make choices and attain different levels of success, extending Bandura's social cognitive framework to career development.
 
-[Krumboltz Learning Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Krumboltz%20Learning%20Theory): the account of career indecision as a skill problem: career choice is learned behavior, and planning can be taught as planned happenstance.
+[Krumboltz Learning Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Krumboltz%20Learning%20Theory): Mitchell and Krumboltz's learning theory of career decision making: four categories of influence on the career path, genetic endowment and special abilities, environmental conditions and events, learning experiences, and task approach skills.
 
 ### What work does to the worker
 
-[Burnout](https://clemvillatte.github.io/flourishing-compendium/#card=Burnout): the syndrome of exhaustion, cynicism and reduced efficacy that chronic occupational stress produces.
+[Burnout](https://clemvillatte.github.io/flourishing-compendium/#card=Burnout): the WHO's ICD-11 name for a syndrome resulting from chronic workplace stress that has not been successfully managed: energy depletion, mental distance or cynicism about the job, and reduced professional efficacy.
 
 [Maslach burnout model](https://clemvillatte.github.io/flourishing-compendium/#card=Maslach%20burnout%20model): Maslach's definition: a syndrome of emotional exhaustion, depersonalization and reduced personal accomplishment that can occur among individuals who do people work of some kind.
 
@@ -71,7 +71,7 @@ The canonical list, in the Buddha's own words:
 
 [Job characteristics model](https://clemvillatte.github.io/flourishing-compendium/#card=Job%20characteristics%20model): Hackman and Oldham's work design: skill variety, task identity, task significance, autonomy and feedback, the characteristics that make work itself meaningful.
 
-[Impression-management burnout research](https://clemvillatte.github.io/flourishing-compendium/#card=Impression-management%20burnout%20research): the studies of burnout produced by surface acting, the work of keeping a professional face that does not match the felt one.
+[Impression-management burnout research](https://clemvillatte.github.io/flourishing-compendium/#card=Impression-management%20burnout%20research): the emotional-labor line: surface acting, faking the required display, relates to impaired well-being across the meta-analysis, and deep acting, actually changing the feeling, is the studied alternative.
 
 [The having mode](https://clemvillatte.github.io/flourishing-compendium/#card=The%20having%20mode): Fromm's account of one of the two fundamental modes of experience, in which the self relates to the world by possession, wanting to make everybody and everything, including itself, its property; the being mode is the alternative the card holds beside it.
 
@@ -81,7 +81,7 @@ The canonical list, in the Buddha's own words:
 
 ### Rest, effort and the rhythm of work
 
-[Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles): the research line that strain at work demands recovery after it, and that incomplete recovery accumulates.
+[Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles): Sonnentag and Fritz's recovery research: four recovery experiences can be differentiated, psychological detachment from work, relaxation, mastery and control.
 
 [The right amount of effort](https://clemvillatte.github.io/flourishing-compendium/#card=The%20right%20amount%20of%20effort): Aristotle's mean: to feel and to act at the right times, with reference to the right objects, towards the right people, with the right motive and in the right way.
 
@@ -93,13 +93,15 @@ The canonical list, in the Buddha's own words:
 
 [The completeness of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20completeness%20of%20rest): the entry holding rest as something complete in itself rather than the mere absence of work.
 
-[The importance of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20importance%20of%20rest) and [The rhythm of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rhythm%20of%20rest): the research-backed accounts of what rest does and the cadence it keeps.
+[The importance of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20importance%20of%20rest): Aristotle's formula in Nicomachean Ethics X.7: we toil that we may rest, and war that we may be at peace.
+
+[The rhythm of rest](https://clemvillatte.github.io/flourishing-compendium/#card=The%20rhythm%20of%20rest): the Zhuangzi's sixth chapter: life spent in toil, old age seeking ease, rest at death; what makes my life a good makes my death also a good.
 
 [Leisure](https://clemvillatte.github.io/flourishing-compendium/#card=Leisure): Pieper's account of leisure as the basis of culture: stillness, receptive understanding and affirmation rather than the mere break between shifts.
 
 [A111 — Practise leisure (scholē) as the end of work](https://clemvillatte.github.io/flourishing-compendium/#card=A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work): the Aristotelian formation rule: leisure as the end work serves, schole, the condition of contemplation.
 
-[Judging by where one rests](https://clemvillatte.github.io/flourishing-compendium/#card=Judging%20by%20where%20one%20rests): Confucius's rule from Analects 2.10: see what a person rests in, how they do so, and where they settle, to know whether they are constant.
+[Judging by where one rests](https://clemvillatte.github.io/flourishing-compendium/#card=Judging%20by%20where%20one%20rests): Confucius's rule from Analects 2.10: see what a man does, mark his motives, examine in what things he rests; the resting place is the hardest thing to fake.
 
 ### Work inside a life
 
@@ -109,9 +111,7 @@ The canonical list, in the Buddha's own words:
 
 [Restorative justice](https://clemvillatte.github.io/flourishing-compendium/#card=Restorative%20justice): the repair tradition for harms done, including harms done in the course of a trade.
 
-[Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action): the trained state in which the right action arises without deliberation, the far end of a livelihood practised long enough.
-
-[The having mode](https://clemvillatte.github.io/flourishing-compendium/#card=The%20having%20mode) appears above with its own line; the compendium also holds its companion, the being mode, on the same card.
+[Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action): Wang Yangming's doctrine of the unity of knowledge and action: there have never been people who know but do not act; those who are supposed to know but do not act simply do not yet know.
 
 ### The stories and sayings
 
@@ -127,21 +127,21 @@ The compendium holds right livelihood in narrative form too:
 
 ## Where the traditions genuinely disagree
 
-### The floor or the ceiling
+### The floor, and the direction it does not give
 
-The shared question: is right livelihood a floor to abstain from, or a calling to align with? The Vanijja Sutta defines the factor by prohibition, a short list of trades a lay follower should not engage in, and says nothing about how to choose among the livelihoods outside the list. Weber's account of the calling defines it by valuation instead:
+The shared question: what does the fifth factor actually ask of the work a person lives by? The Vanijja Sutta defines it by prohibition, a short list of trades a lay follower should not engage in, and nothing more. The calling tradition Weber traces defines work by valuation instead:
 
-> "Now it is unmistakable that even in the German word *Beruf,* and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested." ([Weber, The Protestant Ethic, ch. III, Marxists.org](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): Primary text; quoted passages checked.
+> "Now it is unmistakable that even in the German word *Beruf,* and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested." ([Weber, The Protestant Ethic, ch. III, Marxists.org](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): Primary text; quoted passages checked. Weber's chapter is a historical account of Luther's conception, not his own prescription.
 
-The Buddhist list asks only that the trade do no harm; the calling tradition asks that the work be the thing God or the person's own depths set them to. The two positions answer the same question, what makes a livelihood right, and part on whether the standard is a minimum or a maximum. What remains unresolved is whether the calling vocabulary is available to the person for whom no calling has shown up, and the compendium's B152 revisiting note records the honest gap on the Buddhist side: the list does not say how to choose.
+The two texts part on the definition of the factor: the sutta defines it by a list of abstentions and stops there; the Reformation conception gives the work itself a significance the list never asks about. The question they leave standing between them is whether the choice among the permitted livelihoods is part of the factor at all: the sutta's list is specific and prohibitive and does not describe how to choose among the many livelihoods outside it, and the compendium's own revisiting note (B152) records that gap. What remains unresolved is the case both texts leave open: a livelihood right by the list and still wrong for the person doing it.
 
 ### Can the trade itself be wrong, or only the doing of it?
 
-The shared question: is there work that is wrong in itself, or is every honest work made right or wrong by how it is done? The five-trades list answers that the trade itself can be wrong: business in weapons or poison is not redeemed by being done well. Dewey's account of occupation answers from the other side:
+The shared question: is there work that is wrong in itself, or is every honest work made right or wrong by how it is done? The five-trades list answers that the trade itself can be wrong: business in weapons or poison is on the list, and the list does not say the trades are redeemed by being done well. Dewey's account of occupation, in the chapter the dignity-of-labor card carries, locates the dignity of work elsewhere:
 
 > "The dominant vocation of all human beings at all times is living — intellectual and moral growth." ([Dewey, Democracy and Education, ch. 23, Standard Ebooks](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23)): Primary text; quoted passages checked. The same chapter defines the positive program: "The only adequate training for occupations is training through occupations."
 
-Dewey's dignity claim covers any occupation that is a continuous activity having a purpose, and rests on the work's relation to the worker's growth rather than on the content of the trade. The two positions answer the same question, what a person owes the work they live by, and part on whether the content of the trade is part of the ethics. What remains unresolved is the middle case the two traditions leave open: trades that are legal, harmless by the list, and still deadening to the person doing them, where the Buddhist factor is silent and Dewey's growth standard is hard to measure.
+Dewey's chapter takes up a different question: the predetermination of children into future occupations, laborers sorted from gentlemen. So the two positions part on whether the content of the trade is itself part of the ethics: the list says yes, some trades are simply not to be engaged in; Dewey's account locates the dignity of work in its relation to growth and does not take up the list's question. The open case between them is the middle one both leave standing: trades that are harmless by the list and still deadening to the person doing them, where the Buddhist factor is silent and Dewey's growth standard has no list to consult.
 
 ## Practice: variation, selection, retention
 
@@ -153,15 +153,13 @@ Dewey's dignity claim covers any occupation that is a continuous activity having
 
 2. [B152 — Align your work with your values (right livelihood, revisited)](https://clemvillatte.github.io/flourishing-compendium/#card=B152%20%E2%80%94%20Align%20your%20work%20with%20your%20values%20%28right%20livelihood%2C%20revisited%29): the revisiting pass: the list does not choose among the permitted livelihoods, so the values alignment is a separate and repeatable act.
 
-3. [Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles): the recovery discipline: strain is repaid after work, and incomplete recovery accumulates.
+3. [K149 — Values clarification](https://clemvillatte.github.io/flourishing-compendium/#card=K149%20%E2%80%94%20Values%20clarification): write the answer to what you want your life to stand for in three to five domains, values as directions rather than goals; the measurement tradition is the Valued Living Questionnaire.
 
-4. [Calling orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Calling%20orientation): the orientation check: whether the work is being held as a job, a career or a calling is partly a choice of attention, and can be revisited.
+4. [K320 — Values coherence check](https://clemvillatte.github.io/flourishing-compendium/#card=K320%20%E2%80%94%20Values%20coherence%20check): monthly, read the calendar against the stated values: where does the way time is spent contradict the priorities said out loud.
 
-5. [Person-organization fit](https://clemvillatte.github.io/flourishing-compendium/#card=Person-organization%20fit): the values match: fit predicts satisfaction and staying more than performance, so the check is on the values, not on the resume.
+5. [K200 — Rest as practice](https://clemvillatte.github.io/flourishing-compendium/#card=K200%20%E2%80%94%20Rest%20as%20practice): schedule one deliberate do-nothing period daily, ten minutes, guilt-free; rest as the root of activity rather than its absence.
 
-6. [The right amount of effort](https://clemvillatte.github.io/flourishing-compendium/#card=The%20right%20amount%20of%20effort): Aristotle's mean applied to work: the right times, objects, people, motive and manner, the calibration that keeps effort from becoming its own goal.
-
-7. [A111 — Practise leisure (scholē) as the end of work](https://clemvillatte.github.io/flourishing-compendium/#card=A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work): the leisure rule: schole as the end work serves, the rest held as part of the practice rather than its reward.
+6. [A111 — Practise leisure (scholē) as the end of work](https://clemvillatte.github.io/flourishing-compendium/#card=A111%20%E2%80%94%20Practise%20leisure%20%28schol%C4%93%29%20as%20the%20end%20of%20work): the Aristotelian formation rule: leisure as the end work serves, schole, the condition of contemplation.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the floor check, or the revisiting habit, or the recovery discipline has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 

@@ -5,6 +5,21 @@ Registry status stays 'planned'; the supervisor flips and publishes. Band
 state: right-livelihood left in review-pending, not marked done, pending the
 supervisor's publication decision.
 
+Revision 2 (QC pass): divergences reframed to the definitional contrast
+the opened texts actually support (no claim that Weber prescribes a
+maximum or that Dewey takes up the five-trades question; Weber noted as
+a historical account of Luther's conception); practice selection
+replaced with kernel entries (K149, K320, K200) plus the Buddhist
+formation rules B025/B152 and the Aristotelian A111, and the causal
+claim removed from the Calling orientation item; glosses audited against
+the cards actually opened this session and repaired (Judging by where
+one rests, The importance of rest, The rhythm of rest, Spontaneous right
+action, Burnout, Impression-management burnout, Effort-recovery cycles,
+Krumboltz, Social cognitive career theory, Life-span career theory, Ora
+et labora); the Dewey quote retains the spaced-dash typographic
+adjustment recorded in the quotes section; a
+duplicate having-mode map line removed.
+
 ## Quotes and carriers, all opened this session
 
 1. Five trades, AN 5.177, the Vanijja Sutta (Thanissaro, Access to
