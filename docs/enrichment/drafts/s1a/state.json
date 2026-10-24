@@ -1393,7 +1393,7 @@
    ]
   },
   "s1a-041": {
-   "status": "ready",
+   "status": "qc_pending",
    "angle": "D133: China's 1958 Great Sparrow Campaign — domination of nature answered by the system it can't see",
    "history": [
     {
@@ -1404,6 +1404,11 @@
      "t": "2026-10-24T14:05:56+00:00",
      "to": "ready",
      "note": "story_check clean; sources opened and quoted verbatim"
+    },
+    {
+     "t": "2026-10-24T14:10:51+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC fixes applied; awaiting supervisor registration"
     }
    ]
   },
@@ -1436,7 +1441,22 @@
      "note": "story_check clean; dialogue quoted verbatim from opened ETH Legge PDF"
     }
    ]
+  },
+  "s1a-044": {
+   "status": "ready",
+   "angle": "P041: Yunus in the 1974 famine — from economic theory to 42 people and 27 dollars, ends revised as means unfold",
+   "history": [
+    {
+     "t": "2026-10-24T14:08:30+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:10:51+00:00",
+     "to": "ready",
+     "note": "advisor QC fixes applied (Dewey opened, figures dated, mapping source-bounded)"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:08:20+00:00"
+ "updated": "2026-10-24T14:10:51+00:00"
 }
