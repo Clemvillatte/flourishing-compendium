@@ -7,9 +7,15 @@ file: "Simplicity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Simplicity, in the sense this page tracks, is *voluntary* simplicity: the deliberate choice of an outwardly simple, inwardly rich life: less consumption and clutter, more attention, time, and community ([Duane Elgin, *Voluntary Simplicity*](https://duaneelgin.com/wp-content/uploads/2010/11/voluntary_simplicity.pdf)). The qualifier is the whole point: simplicity imposed by poverty is deprivation; simplicity chosen is a claim about where the good life actually comes from: not from more inputs but from fewer, better-attended ones ([[X009 — Listen to the flesh's limits, and let them end the pursuit]] is its compendium cousin).
+Simplicity, in the sense that matters here, is voluntary simplicity: the deliberate choice of an outwardly simple, inwardly rich life: less consumption and clutter, more attention, time, and community ([Duane Elgin, *Voluntary Simplicity*](https://duaneelgin.com/wp-content/uploads/2010/11/voluntary_simplicity.pdf)). The qualifier is the whole point: simplicity imposed by poverty is deprivation, while simplicity chosen is a claim about where the good life actually comes from: fewer inputs, better attended ([[X009 — Listen to the flesh's limits, and let them end the pursuit]] is its compendium cousin).
 
-The mechanism is attentional and hedonic at once: possessions and commitments consume the attention their maintenance requires, and [[Hedonic adaptation]] erodes the pleasure they promise anyway, so the simplifier is not renouncing happiness but re-investing it ([[D092 — Don't chase happiness directly]]; [[Savoring]] is what the freed attention goes to). The Daoist version is the same argument in another key: the uncarved block, the usefulness of emptiness ([[Wu wei]]). The Daodejing names the state directly:
+### The attentional argument
+
+The mechanism is attentional and hedonic at once. Possessions and commitments consume the attention their maintenance requires, and [[Hedonic adaptation]] erodes the pleasure they promise anyway. Choosing fewer inputs is an investment decision about attention, and the freed attention is the return: [[Savoring]] is where it goes ([[D092 — Don't chase happiness directly]] is the hedge against spending it on pursuit again).
+
+### The Daoist version
+
+The Daoist version is the same argument in another key: the uncarved block, the usefulness of emptiness, [[Wu wei]]. The Daodejing names the state directly:
 
 > "If this transformation became to me an object of desire, I would express the desire by the nameless simplicity.
 >
@@ -20,9 +26,11 @@ The mechanism is attentional and hedonic at once: possessions and commitments co
 
 
 
-The distinction to hold: simplicity is not minimalism-as-aesthetic (owning exactly 100 beautiful things) and not asceticism (denial as virtue). Its test is whether the choice frees attention for what one actually values; [[Values clarification]] is therefore its first step, not decluttering.
+### Two neighbours to keep distinct
 
-An example at its smallest: the one-in-one-out rule: nothing new enters the house unless its counterpart leaves, and each purchase answered with "what attention will this cost me?"
+Minimalism as an aesthetic is about curation: owning exactly 100 beautiful things. Asceticism treats denial itself as a virtue. Voluntary simplicity is about where attention goes, and the test I use is whether the choice frees attention for what one actually values; [[Values clarification]] is therefore the first step, and decluttering comes later.
+
+An example at its smallest: the one-in-one-out rule: nothing new enters the house unless its counterpart leaves, and each purchase gets asked what it will cost in attention.
 
 Its aesthetic form is [[Wabi-sabi]], its method [[Via negativa]] (subtraction as the way), its Daoist root [[Wu wei]].
 ## Related concepts
@@ -32,7 +40,7 @@ Its aesthetic form is [[Wabi-sabi]], its method [[Via negativa]] (subtraction as
 
 - [[Natural and necessary]] — the life the necessary desires point to
 - [[MO049 — Learn to remove distractions — environment drives procrastination]] — the therapeutic version: remove distractions and let the environment do the work
-- [[D022]] — D022 states the subtract-first method behind the Simplicity page's via negativa and Daoist strand.
+- [[D022]] — the subtract-first method the via negativa strand runs on
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 - [[Ockham's razor]] — a simplicity criterion for comparing theories
 ## Sources
