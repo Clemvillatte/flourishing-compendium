@@ -91,9 +91,11 @@ The Academy grid filters by five sections:
 
 (* = planned, in the roadmap below; minted 2026-10-24 by owner direction — one
 dossier per path factor, and affective states beyond Anger, Anxiety and
-Happiness that pass the disambiguation three-part test. The remaining
-affective candidates — Envy, Compassion, Loneliness, Love, Hope, Awe, Pride,
-Equanimity — sit in the registry backlog with scope-review questions.)
+Happiness. The affective mints are PROVISIONAL after card review: each writer
+re-tests the family from opened sources before the map is written, per
+DISAMBIGUATION.md. The remaining affective candidates — Envy, Compassion,
+Loneliness, Love, Hope, Awe, Pride, Equanimity — sit in the registry backlog
+with scope-review questions.)
 
 ### Section rules (binding for any future worker)
 
