@@ -4,7 +4,7 @@
 
 This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about the work a person lives by?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: work is where most adult hours go, so the ethics of earning and the psychology of working are both part of the same question, whether a life can be arranged so that its daily labour does not quietly work against it.
 
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The compendium also holds principle pages bearing work, livelihood and earning in the title (B025, B152, BE017, BE061 and their kin); they are deliberately not listed inline, following the map convention: every concept card carries onward to the principles that cite it, so the map stays a map.
+How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The compendium also holds principle pages bearing work, livelihood and earning in the title (BE017, BE061 and their kin); except where one directly carries a group's argument below, they are not listed inline: every concept card carries onward to the principles that cite it, and the Practice section names the ones that state this theme's practices.
 
 ### Nearby terms
 
