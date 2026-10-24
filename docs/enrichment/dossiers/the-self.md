@@ -40,17 +40,17 @@ Two essay angles the material supports. First, the two great examinations of exp
 
 The Anattalakkhaṇa Sutta runs the analysis through the five aggregates, testing each for the control a true owner would have:
 
-> “Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease. It would be possible (to say) with regard to form, ‘Let my form be thus. Let my form not be thus.’” ([SN 22.59, trans. Thanissaro](https://www.dhammatalks.org/suttas/SN/SN22_59.html)) — Primary text; quoted passages checked.
+> “Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease. It would be possible (to say) with regard to form, ‘Let my form be thus. Let my form not be thus.’” ([SN 22.59, trans. Thanissaro](https://www.dhammatalks.org/suttas/SN/SN22_59.html))
 
-> “Every form is to be seen with right discernment as it has come to be: ‘This is not mine. This is not my self. This is not what I am.’” (SN 22.59) — Primary text; quoted passages checked.
+> “Every form is to be seen with right discernment as it has come to be: ‘This is not mine. This is not my self. This is not what I am.’” (SN 22.59)
 
 Advaita Vedānta’s answer, as Neil Dalal’s Stanford entry states it:
 
-> “The fundamental thrust of Advaita Vedānta is that the ātman is pure non-intentional consciousness. It is one without a second, nondual, infinite existence, and numerically identical with brahman.” ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/)) — Scholarly interpretation; cited passage checked.
+> “The fundamental thrust of Advaita Vedānta is that the ātman is pure non-intentional consciousness. It is one without a second, nondual, infinite existence, and numerically identical with brahman.” ([Dalal, SEP](https://plato.stanford.edu/archives/spr2026/entries/shankara/))
 
 The chariot image from the Milindapañha gives the aggregate analysis its everyday handle:
 
-> “It is on account of its having all these things—the pole, and the axle, the wheels, and the framework, the ropes, the yoke, the spokes, and the goad—that it comes under the generally understood term, the designation in common use, of ‘chariot.’” ([Mil 3.1.1, trans. Rhys Davids](https://suttacentral.net/mil3.1.1/en/tw_rhysdavids)) — Primary text; quoted passages checked.
+> “It is on account of its having all these things—the pole, and the axle, the wheels, and the framework, the ropes, the yoke, the spokes, and the goad—that it comes under the generally understood term, the designation in common use, of ‘chariot.’” ([Mil 3.1.1, trans. Rhys Davids](https://suttacentral.net/mil3.1.1/en/tw_rhysdavids))
 
 ### The observing self and the step back
 
@@ -66,13 +66,13 @@ The chariot image from the Milindapañha gives the aggregate analysis its everyd
 
 Deikman’s own lines on the observing self:
 
-> “Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.” ([Deikman 1982](https://www.deikman.com/observing.html)) — Primary text; quoted passages checked.
+> “Awareness is the ground of conscious life, the background or field in which all elements exist, different from thoughts, sensations, or images.” ([Deikman 1982](https://www.deikman.com/observing.html))
 
-> “In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.” (Deikman 1982) — Primary text; quoted passages checked.
+> “In contrast, we cannot observe the observing self; we must experience it directly. It has no defining qualities, no boundaries, no dimensions.” (Deikman 1982)
 
 The ACT version trains the position as a skill:
 
-> “ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the ‘I/here/nowness’ of conscious experience.” ([Hayes et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/)) — Scholarly review; cited passage checked.
+> “ACT seeks to undermine an attachment to a conceptualized self (our fused, evaluative stories about who we are) and to promote contact with a sense of self based on the ‘I/here/nowness’ of conscious experience.” ([Hayes et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/))
 
 ### The narrative self
 
@@ -140,9 +140,9 @@ The ACT version trains the position as a skill:
 
 Markus and Kitayama’s two construals, in their own definitions:
 
-> “Achieving the cultural goal of independence requires construing oneself as an individual whose behavior is organized and made meaningful primarily by reference to one’s own internal repertoire of thoughts, feelings, and action, rather than by reference to the thoughts, feelings, and actions of others.” ([Markus and Kitayama 1991](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)) — Primary text; quoted passages checked.
+> “Achieving the cultural goal of independence requires construing oneself as an individual whose behavior is organized and made meaningful primarily by reference to one’s own internal repertoire of thoughts, feelings, and action, rather than by reference to the thoughts, feelings, and actions of others.” ([Markus and Kitayama 1991](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf))
 
-> “Experiencing interdependence entails seeing oneself as part of an encompassing social relationship and recognizing that one’s behavior is determined, contingent on, and, to a large extent organized by what the actor perceives to be the thoughts, feelings, and actions of others in the relationship.” (Markus and Kitayama 1991) — Primary text; quoted passages checked.
+> “Experiencing interdependence entails seeing oneself as part of an encompassing social relationship and recognizing that one’s behavior is determined, contingent on, and, to a large extent organized by what the actor perceives to be the thoughts, feelings, and actions of others in the relationship.” (Markus and Kitayama 1991)
 
 ### How the self is built and defended
 
@@ -346,19 +346,19 @@ Markus and Kitayama’s two construals, in their own definitions:
 
 I also organize self material into structured pathways; the hub is [SE: Self](https://clemvillatte.github.io/flourishing-compendium/#card=SE%20%E2%80%94%20Self), with layers on the architecture of self, knowing and evaluating the self, self-compassion, identity construction and revision, self in relation, self-expansion, and specific self-challenges:
 
-- [SE-S01 — LAYER I — FIRST PRINCIPLES — THE ARCHITECTURE OF SELF](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S01%20%E2%80%94%20LAYER%20I%20%E2%80%94%20FIRST%20PRINCIPLES%20%E2%80%94%20THE%20ARCHITECTURE%20OF%20SELF)
+[SE-S01 — LAYER I — FIRST PRINCIPLES — THE ARCHITECTURE OF SELF](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S01%20%E2%80%94%20LAYER%20I%20%E2%80%94%20FIRST%20PRINCIPLES%20%E2%80%94%20THE%20ARCHITECTURE%20OF%20SELF)
 
-- [SE-S02 — LAYER II — KNOWING AND EVALUATING THE SELF](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S02%20%E2%80%94%20LAYER%20II%20%E2%80%94%20KNOWING%20AND%20EVALUATING%20THE%20SELF)
+[SE-S02 — LAYER II — KNOWING AND EVALUATING THE SELF](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S02%20%E2%80%94%20LAYER%20II%20%E2%80%94%20KNOWING%20AND%20EVALUATING%20THE%20SELF)
 
-- [SE-S03 — LAYER III — SELF-COMPASSION AND SELF-RELATIONSHIP](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S03%20%E2%80%94%20LAYER%20III%20%E2%80%94%20SELF-COMPASSION%20AND%20SELF-RELATIONSHIP)
+[SE-S03 — LAYER III — SELF-COMPASSION AND SELF-RELATIONSHIP](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S03%20%E2%80%94%20LAYER%20III%20%E2%80%94%20SELF-COMPASSION%20AND%20SELF-RELATIONSHIP)
 
-- [SE-S04 — LAYER IV — IDENTITY — CONSTRUCTION AND REVISION](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S04%20%E2%80%94%20LAYER%20IV%20%E2%80%94%20IDENTITY%20%E2%80%94%20CONSTRUCTION%20AND%20REVISION)
+[SE-S04 — LAYER IV — IDENTITY — CONSTRUCTION AND REVISION](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S04%20%E2%80%94%20LAYER%20IV%20%E2%80%94%20IDENTITY%20%E2%80%94%20CONSTRUCTION%20AND%20REVISION)
 
-- [SE-S05 — LAYER V — SELF IN RELATION — OTHERS AND CULTURE](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S05%20%E2%80%94%20LAYER%20V%20%E2%80%94%20SELF%20IN%20RELATION%20%E2%80%94%20OTHERS%20AND%20CULTURE)
+[SE-S05 — LAYER V — SELF IN RELATION — OTHERS AND CULTURE](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S05%20%E2%80%94%20LAYER%20V%20%E2%80%94%20SELF%20IN%20RELATION%20%E2%80%94%20OTHERS%20AND%20CULTURE)
 
-- [SE-S06 — LAYER VI — SELF-EXPANSION AND GROWTH](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S06%20%E2%80%94%20LAYER%20VI%20%E2%80%94%20SELF-EXPANSION%20AND%20GROWTH)
+[SE-S06 — LAYER VI — SELF-EXPANSION AND GROWTH](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S06%20%E2%80%94%20LAYER%20VI%20%E2%80%94%20SELF-EXPANSION%20AND%20GROWTH)
 
-- [SE-S07 — LAYER VII — SPECIFIC SELF-CHALLENGES & BOUNDARY CONDITIONS](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S07%20%E2%80%94%20LAYER%20VII%20%E2%80%94%20SPECIFIC%20SELF-CHALLENGES%20%26%20BOUNDARY%20CONDITIONS)
+[SE-S07 — LAYER VII — SPECIFIC SELF-CHALLENGES & BOUNDARY CONDITIONS](https://clemvillatte.github.io/flourishing-compendium/#card=SE-S07%20%E2%80%94%20LAYER%20VII%20%E2%80%94%20SPECIFIC%20SELF-CHALLENGES%20%26%20BOUNDARY%20CONDITIONS)
 
 One title match was left out of the map as off-theme: [The self-evident](https://clemvillatte.github.io/flourishing-compendium/#card=The%20self-evident) is Aristotle’s account of what demonstration rests on, not an entry about the self.
 

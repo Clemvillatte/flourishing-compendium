@@ -18,11 +18,11 @@ Anger arrives with its defence already written: someone did wrong, and the wrong
 
 Seneca draws the line in the second book of De Ira:
 
-> "Anger is that which goes beyond reason and carries her away with it: wherefore the first confusion of a man's mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve." ([Seneca, De Ira II.III, trans. Aubrey Stewart](https://www.gutenberg.org/files/64576/64576-0.txt)): Primary text; quoted passages checked.
+> "Anger is that which goes beyond reason and carries her away with it: wherefore the first confusion of a man's mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve." ([Seneca, De Ira II.III, trans. Aubrey Stewart](https://www.gutenberg.org/files/64576/64576-0.txt))
 
 The treatise opens with the stakes as Seneca counts them:
 
-> "no plague has cost the human race more dear: you will see slaughterings and poisonings, accusations and counter-accusations, sacking of cities, ruin of whole peoples, the persons of princes sold into slavery by auction, torches applied to roofs, and fires not merely confined within city-walls but making whole tracts of country glow with hostile flame." (Seneca, De Ira I.II): Primary text; quoted passages checked.
+> "no plague has cost the human race more dear: you will see slaughterings and poisonings, accusations and counter-accusations, sacking of cities, ruin of whole peoples, the persons of princes sold into slavery by auction, torches applied to roofs, and fires not merely confined within city-walls but making whole tracts of country glow with hostile flame." (Seneca, De Ira I.II)
 
 ### How anger begins
 
@@ -44,7 +44,7 @@ The treatise opens with the stakes as Seneca counts them:
 
 Shantideva treats hatred in the sixth chapter of the Bodhicharyavatara as what destroys accumulated merit:
 
-> "Whatever wholesome deeds. Such as venerating the Buddhas, and generosity, That have been amassed over a thousand aeons Will all be destroyed in one moment of anger." ([Shantideva, Bodhicharyavatara VI.1, Batchelor translation](https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf)): Primary text; quoted passages checked.
+> "Whatever wholesome deeds. Such as venerating the Buddhas, and generosity, That have been amassed over a thousand aeons Will all be destroyed in one moment of anger." ([Shantideva, Bodhicharyavatara VI.1, Batchelor translation](https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf))
 
 ### What can be done with anger
 
@@ -56,7 +56,7 @@ Shantideva treats hatred in the sixth chapter of the Bodhicharyavatara as what d
 
 The delay remedy Seneca prescribes is narrow:
 
-> "The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end." (Seneca, De Ira II.XXIX): Primary text; quoted passages checked.
+> "The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end." (Seneca, De Ira II.XXIX)
 
 ### Forgiveness and its work
 
@@ -118,7 +118,7 @@ The theme comes in narrative form too:
 
 The shared question: does anger ever fit its object, or is it always a judgment error to be dissolved? Aristotle's account in the Nicomachean Ethics allows the fitting case:
 
-> "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." ([Aristotle, Nicomachean Ethics IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)): Primary text; quoted passages checked.
+> "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." ([Aristotle, Nicomachean Ethics IV.5, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 
 Seneca's treatise denies the fitting case: anger is by definition the mind's rush that treats an appearance as true, and so is a mistake by its nature, not a virtue misapplied. The two positions answer the same question, what a person with a grievance owes their anger, and part on whether the fitting case exists. What remains unresolved is whether the psychological findings on hostile attribution and anger's costs settle the question or only describe the typical case. Aristotle himself says the line is not easy to draw.
 

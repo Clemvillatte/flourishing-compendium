@@ -204,3 +204,13 @@ the Truman ending, the prince and the beggar, the chariot of Milinda,
 the sky and the weather, Ricoeur and McAdams's narrative work,
 Nietzsche's three metamorphoses, the phantom-hand clinical reports,
 Zhuangzi's hunchback), with no verbatim quotation.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Public verification-status labels removed from blockquote and inline
+citations and relocated here. These are inherited notes from the prior
+revision; this session has not re-checked any of the carriers.
+Contiguous bullet blocks were re-formatted as separate paragraphs;
+no card link, gloss or quotation was changed. As an exemplar, this
+dossier's format change should be reviewed by the supervisor before
+being treated as the new reference.

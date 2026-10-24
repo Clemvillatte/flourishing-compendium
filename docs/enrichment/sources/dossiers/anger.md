@@ -224,3 +224,13 @@ in Stanton, RhM 130), and the Aristotle-akrasia link verified as the
 NE VII treatment of the Euripidean verse; the ST160 logline's "passion
 stronger than deliberation" follows the Greek (thumos stronger than
 bouleumata).
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Public verification-status labels removed from blockquote and inline
+citations and relocated here. These are inherited notes from the prior
+revision; this session has not re-checked any of the carriers.
+Contiguous bullet blocks were re-formatted as separate paragraphs;
+no card link, gloss or quotation was changed. As an exemplar, this
+dossier's format change should be reviewed by the supervisor before
+being treated as the new reference.
