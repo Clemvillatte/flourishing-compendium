@@ -37,6 +37,9 @@ A good meal is pleasure. Watching a child ride a bike alone for the first time i
 
 - Not a guarantee that joy is always caused by a new creation. Not a test of whether someone is flourishing. Do not pathologize sadness or romanticize struggle.
 
+## Stories
+- [[ST487 — Wiles Fixes His Proof|487. Wiles Fixes His Proof]]
+
 ## Sources
 
 - Bergson, H., "Life and Consciousness" (Huxley Lecture, University of Birmingham, May 24, 1911; text as reproduced by [Anthologia](https://www.anthologialitt.com/post/henri-bergson-life-and-consciousness); the lecture was later collected in Mind-Energy) — the reproduction consulted; all quotations from this carrier
