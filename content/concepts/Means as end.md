@@ -22,8 +22,7 @@ The compendium's [[B179 — The path is the goal]] pairs this with Dogen's shush
 - [[Learning by experience]] — the Dewey book this page draws on, treated as its own concept
 - [[Means-end continuity]] — Dewey's Human Nature and Conduct version of the same argument
 - [[AT023 — Learn to attend to process, not just outcome]] — the attentional version of the same shift
-
-## Sources
+- [[T053 — Dogen]]: shusho-itto, the practice-realization unity the concept pairs with the path-goal principle.## Sources
 
 - Dewey, Experience and Education (Internet Archive scan): https://archive.org/details/ExperienceAndEducation
 

@@ -41,3 +41,6 @@ A man sits on a cushion and holds himself upright for ten minutes, back aching. 
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 2.46-2.48 with Vyasa and the Tika, pp. 191-192, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
+
+## Related concepts
+- [[T053 — Dogen]]: shikantaza, just sitting, from the Shobogenzo.

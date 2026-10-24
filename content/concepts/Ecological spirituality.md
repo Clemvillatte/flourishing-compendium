@@ -29,8 +29,7 @@ Berry writes from a Christian and cosmological standpoint and Snyder from Buddhi
 
 - [[Deep ecology]] — another ecological philosophy that treats humans as part of nature
 - [[Ecological citizenship]] — a political account of duties arising from environmental impact
-
-## Sources
+- [[T053 — Dogen]]: the thirteenth-century source the page's Oxford entry says Snyder borrows frequently from.## Sources
 
 - [Oxford Bibliographies in Ecology, "Religion and Ecology"](https://academic.oup.com/reference/62344/reference-article/554375653)
 - ["Thomas Berry and an Evolutionary Catholic Cosmic Common Good", Oxford Academic](https://academic.oup.com/book/10369/chapter/158156781)

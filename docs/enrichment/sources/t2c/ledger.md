@@ -41,3 +41,8 @@ ST252 blocked, flagged for supervisor), grounded in each page's own text
 phronesis later uses, living-tradition passage). Validator: all modified
 pages pass except two concept stubs below the 150-word floor
 (Cultural resilience 132, The narrative self 114) - pre-existing, flagged.
+
+2026-10-24 07:06Z, worker-pplx-t2c-1024e: Dogen (T053) block complete - 12
+backlink glosses (7 principles, 5 concepts), all validated clean, grounded
+in each page's own text (Bendowa shusho-itto, Genjokoan passage, Tenzo
+kyokun, Shobogenzo shikantaza, kinhin, Snyder's Oxford entry).

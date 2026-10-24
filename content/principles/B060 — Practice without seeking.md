@@ -50,3 +50,6 @@ Meditating to achieve calm and getting tense about progress. What's your version
 %%
 Seeking makes it farther. What in your life is currently made farther by your seeking of it?
 -->
+
+## Related concepts
+- [[T053 — Dogen]]: the Genjokoan passage the principle quotes, when the Dharma first seeks you.

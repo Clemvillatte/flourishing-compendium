@@ -43,3 +43,6 @@ The dancer absorbed in the step isn't dancing toward a certificate. What's your 
 %%
 The very act of wholehearted sitting is itself the expression. What does that mean for your current practice?
 -->
+
+## Related concepts
+- [[T053 — Dogen]]: shusho-itto, practice and realization are one, from the Bendowa, the teaching the page calls his clearest statement.

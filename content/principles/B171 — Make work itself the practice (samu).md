@@ -51,3 +51,4 @@ Work is not practice's interruption. Where in your current work would the same a
 
 ## Related concepts
 - [[T035 — Thich Nhat Hanh]]: the washing-dishes excerpt from At Home in the World the page cites.
+- [[T053 — Dogen]]: the Instructions for the Cook, Tenzo kyokun, the page's account of work as practice.

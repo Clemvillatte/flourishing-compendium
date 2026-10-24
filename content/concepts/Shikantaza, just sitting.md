@@ -36,6 +36,6 @@ The just is where the practice turns on its own account. It does not mean merely
 [[K026 — Rest in the nature of awareness itself]]
 [[B001 — Face suffering directly]]
 [[B128 — Don't cling even to the teaching (dharma-grasping)]]
-## Cited in philosophy parallels
+- [[T053 — Dogen]]: the Shobogenzo source of the practice the concept carries.## Cited in philosophy parallels
 
 - [[Y045 — Relax effort into support]]

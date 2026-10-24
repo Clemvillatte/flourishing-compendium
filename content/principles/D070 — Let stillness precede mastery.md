@@ -26,8 +26,7 @@ Before you start, ask how much of your attention is on the task and how much is 
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the woodcarver Qing (Book XIX) fasting seven days before entering the forest.
-
-## Sources
+- [[T053 — Dogen]]: practice-enlightenment from the Shobogenzo, zazen as expression not means.## Sources
 
 - [Zhuangzi, trans. James Legge (ETH Zurich edition)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book XIX, the bell-stand passage
 

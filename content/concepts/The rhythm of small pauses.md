@@ -24,8 +24,7 @@ The evidence for micro-breaks is modest and honest about its limits. A meta-anal
 - [[ST015 — Paterson Writes Poems on His Lunch Break]] — story link
 - [[Walking meditation]] — the general practice kinhin is a form of
 - [[Attention restoration]] — Kaplan's research-side account of what breaks restore
-
-## Sources
+- [[T053 — Dogen]]: kinhin, the Soto walking practice between sitting periods the concept describes.## Sources
 
 - [Sotoshu Shumucho kinhin instructions, quoted by Terebess](https://terebess.hu/zen/szoto/etikett.html) — Ju-ching's one-breath-per-half-step instruction and the fifty-ten rhythm, verbatim
 - [Albulescu et al., "Give me a break!", PLOS ONE (2022)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272460) — micro-break meta-analysis, verbatim effect sizes
