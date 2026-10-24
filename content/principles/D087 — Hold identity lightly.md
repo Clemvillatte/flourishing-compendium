@@ -12,20 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 87** — Hold identity lightly
 
-At the end of Zhuangzi 2, Zhou dreams of being a butterfly. On waking, he recognises himself as Zhou and wonders whether Zhou had dreamed of being a butterfly or a butterfly is now dreaming of being Zhou. The passage closes by preserving a difference between them:
+At the end of Zhuangzi 2, Zhou dreams of being a butterfly; on waking, he recognises himself as Zhou but wonders which experience was the dream ([Legge translation, §14](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). The passage closes by preserving a difference between them:
 
 > "But between Zhou and a butterfly there must be a difference. This is a case of what is called the Transformation of Things."
 > (Zhuangzi 2, James Legge's translation, with pinyin spellings in [Silkqin's source note](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm).)
 
-One practical reading is to question how final a description of yourself needs to be. A label you use for yourself need not settle what you can do in every situation. This is an application of the story; the passage does not establish a modern psychological theory.
+I take the story as an invitation to question how final a description of myself needs to be. Its unresolved shift of perspective gives me a way to reconsider a settled label, without concluding that Zhou and the butterfly are simply identical. This is my application of the passage, not a psychological finding.
 
 ### Plain words
 
-Allow your description of yourself to change when it no longer fits. You can keep a commitment while reconsidering an assumption about what you are capable of doing.
+A description of who you are need not prescribe everything you will do next. You can value a commitment while reconsidering an assumption about what fulfilling it requires. Leave room to revise the description when your experience no longer fits it.
 
 ### For example
 
-Imagine that you have always avoided asking for help because independence matters to you. During an illness, if it feels safe and useful, you might ask someone you trust for one specific favour. Afterwards, consider whether receiving that help conflicted with the independence you value.
+Imagine that you have always avoided asking for help because independence matters to you. During an illness, if it feels safe and useful, you might ask someone you trust for one specific favour. Afterwards, consider whether receiving help conflicted with the independence you value and whether you would ask again in similar circumstances.
 
 ## Related concepts
 

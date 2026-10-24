@@ -38,3 +38,11 @@ are not certified by this body-level review.
 - Repair: fixed “I applie” by replacing the sentence; distinguished the ethical claim from a scale of causal influence. Preserved the exam illustration, adding a review of chosen preparation and a subsequent adjustment. Plain words now explains the action/outcome distinction before giving advice.
 - Saturation: `enrich_find.py mention up to us` and Prohairesis were read; the already linked The dichotomy of control remains sufficient. No new graph edge.
 - Limits: not presented as proof of instantaneous emotional control, clinical advice, or a reason to ignore other people's welfare. Existing psychology parallels and reflection questions preserved without re-certification.
+
+## D087: Hold identity lightly
+
+- Opened: [Legge/METIS Zhuangzi](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf), chapter 2 §14, and [Silkqin's reproduction, footnote 4](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm).
+- Evidence: both reproduce the retained quotation, including the insistence on a difference between Zhou and the butterfly. The surrounding recognition/dream uncertainty is supported; the personal application is not represented as a definitive interpretation.
+- Repair: added a direct citation for the narrative, made the writer's interpretive move explicit, and explained identity labels without merely issuing an instruction to loosen them. The hypothetical help-seeking example now asks whether the reader would carry the experience forward.
+- Correction to state note: the reopen description mistakenly referred to the three treasures; that is D031. D087 was instead reviewed and repaired against its actual butterfly-dream source, protected statement and existing body.
+- Limits: the story is not evidence for ACT, anatta or bundle theory. Existing comparison links and duplicate Related concepts headings were preserved; linked page bodies remain outside this worker's scope.
