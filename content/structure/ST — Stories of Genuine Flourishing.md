@@ -63,6 +63,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST424 — Han Xin Crawls Beneath the Butcher's Youth]]
     - [[ST436 — The Brother Nobody Heard Of]]
     - [[ST475 — The War on Sparrows]]
+    - [[ST478 — The Carver's Fast]]
   - [[ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning]]
     - [[ST031 — Zhuangzi Drums on a Basin]]
     - [[ST032 — The Skull by the Road]]

@@ -42,6 +42,9 @@ Before drafting a difficult email, leave the phone in another room. Notice wheth
 - [Khing Käng King (Classic of Purity), trans. James Legge, Sacred Books of the East vol. 40 (sacred-texts.com)](http://www.sacred-texts.com/tao/sbe40/sbe4019.htm)
 - [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 45 §2
 
+## Stories
+- [[ST478 — The Carver's Fast|478. The Carver's Fast]]
+
 ## Psychology parallels
 
 - **[[Deautomatization|Deautomatization]]**, meditation dismantles automatic thought-perception links (Deikman, 1966)
