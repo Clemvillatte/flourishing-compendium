@@ -369,7 +369,7 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 [ST033 — Mandela's Twenty-Seven Years](https://clemvillatte.github.io/flourishing-compendium/#card=ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island breaking rocks — the story of what a long confinement is made of, and what it is for.
 
-[ST193 — Stockdale and the Epistle](https://clemvillatte.github.io/flourishing-compendium/#card=ST193%20%E2%80%94%20Stockdale%20and%20the%20Epistle): a naval aviator spends seven and a half years as a POW, four in solitary, and grounds himself in the Stoics — the faith that he would get out, joined to the discipline of facing the facts of the present.
+[ST193 — Stockdale and the Epistle](https://clemvillatte.github.io/flourishing-compendium/#card=ST193%20%E2%80%94%20Stockdale%20and%20the%20Epistle): a naval aviator spends seven and a half years as a POW, four in solitary, repeatedly tortured, and credits Epictetus — the Enchiridion's teachings on what is and is not in one's power — with his survival: literally a manual for the cell.
 
 ### The conditions: other people, society and freedom
 

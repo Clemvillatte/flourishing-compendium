@@ -289,17 +289,17 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 ### The contemplative trainings
 
-[ST069 — The Four Foundations](https://clemvillatte.github.io/flourishing-compendium/#card=ST069%20%E2%80%94%20The%20Four%20Foundations): the Satipaṭṭhāna Sutta opens by calling its practice the direct path for the purification of beings, then lays out the foundations — body, feelings, mind, qualities — watched in earnestness.
+[ST069 — The Four Foundations](https://clemvillatte.github.io/flourishing-compendium/#card=ST069%20%E2%80%94%20The%20Four%20Foundations): the Satipaṭṭhāna Sutta opens by calling its practice the direct path for the purification of beings — in other words, the four frames of reference.
 
 [ST421 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST421%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya finds a mango grove that looks ideal for meditation and repeatedly asks to practise there; alone beneath the tree he is troubled by thoughts of sensuality, ill will and harm, and returns to the Buddha.
 
 ### Absorption and its varieties
 
-[ST025 — The Cicada Catcher's Stillness](https://clemvillatte.github.io/flourishing-compendium/#card=ST025%20%E2%80%94%20The%20Cicada%20Catcher%27s%20Stillness): Confucius finds an old hunchback catching cicadas with a sticky pole, as easily as picking them off the ground; the skill is a stillness that does not trade the whole world for five cicadas.
+[ST025 — The Cicada Catcher's Stillness](https://clemvillatte.github.io/flourishing-compendium/#card=ST025%20%E2%80%94%20The%20Cicada%20Catcher%27s%20Stillness): Confucius finds an old hunchback catching cicadas with a sticky pole, as easily as picking them off the ground; asked the secret, he describes balancing poles with increasing weights until his body stood like an old stump — no longer noticing the world's ten thousand things, only the wings.
 
 [ST018 — The Swimmer at Lüliang Falls](https://clemvillatte.github.io/flourishing-compendium/#card=ST018%20%E2%80%94%20The%20Swimmer%20at%20L%C3%BCliang%20Falls): Confucius watches a man dive into the torrent where the water drops forty fathoms, and the swimmer answers from the water: he follows the water's way — down with the whirlpools, up with the waves.
 
-[ST028 — Eliud Kipchoge Runs 1 — 59](https://clemvillatte.github.io/flourishing-compendium/#card=ST028%20%E2%80%94%20Eliud%20Kipchoge%20Runs%201%20%E2%80%94%2059): in Vienna, Kipchoge runs a marathon in 1:59:40, the first time a human has covered the distance in under two hours — a performance built on training, pacing and the company of others.
+[ST028 — Eliud Kipchoge Runs 1 — 59](https://clemvillatte.github.io/flourishing-compendium/#card=ST028%20%E2%80%94%20Eliud%20Kipchoge%20Runs%201%20%E2%80%94%2059): in Vienna, Kipchoge runs a marathon in 1:59:40 — not a record, the conditions engineered; he lives in a spartan training camp, shares chores with younger runners, smiles in the late stages of races, and says afterwards: No human is limited.
 
 ### Attention in action: process, craft and the economy of the gaze
 

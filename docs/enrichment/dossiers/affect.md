@@ -181,7 +181,7 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 ### The feeling families
 
-[ST062 — Sadness Gets a Role](https://clemvillatte.github.io/flourishing-compendium/#card=ST062%20%E2%80%94%20Sadness%20Gets%20a%20Role): in Riley's mind, Joy runs operations and has been keeping Sadness contained; the family's move to San Francisco destabilises everything, and Joy and Sadness are ejected from headquarters — the story of what Sadness turns out to be for.
+[ST062 — Sadness Gets a Role](https://clemvillatte.github.io/flourishing-compendium/#card=ST062%20%E2%80%94%20Sadness%20Gets%20a%20Role): in Riley's mind, Joy runs operations and has been keeping Sadness contained; the move to San Francisco ejects them both, and on the journey back Joy discovers that the moment she was proudest of, Riley winning a hockey game, only happened because Sadness had first made her cry out for help.
 
 [ST187 — Joy Reads the Memory](https://clemvillatte.github.io/flourishing-compendium/#card=ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory): Joy, examining a sad core memory, rewinds it and watches the part after the loss, when Riley's parents and teammates came onto the ice and comforted her — the sadness and the comfort bound together in one memory.
 
