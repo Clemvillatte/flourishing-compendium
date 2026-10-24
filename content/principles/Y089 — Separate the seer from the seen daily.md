@@ -43,3 +43,4 @@ A practice of doing one sort per day, at a moment of strong feeling, is the entr
 ## Related concepts
 
 - [[SE016]] — Y089 practices separating observer from observed; SE016 reports the experimental study of third-person self-talk as a language-based way of creating that separation.
+- [[T054 — Shankara]]: the Drg-Drsya Viveka verse the page carries, the seer distinct from the seen.

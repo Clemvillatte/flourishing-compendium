@@ -34,8 +34,7 @@ Imagine a guest says the room is too noisy. Hear the complaint before defending 
 - [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).## Sources
 
 - [Zhuangzi, trans. James Legge (The Texts of Taoism, Sacred Books of the East 39), ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book VII, section 6
-
-## Stories
+- [[T054 — Shankara]]: the witness, saksin, from Advaita Vedanta, the page's mirror-mind line.## Stories
 
 - [[ST019 — The Fast of the Mind|19. The Fast of the Mind]]
 - [[ST020 — Keith Jarrett Plays the Broken Piano|20. Keith Jarrett Plays the Broken Piano]]

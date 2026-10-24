@@ -33,8 +33,7 @@ The manager who helps a rival department succeed has made a move that loses from
 
 - [Zhuangzi, James Legge translation (1891), METIS English Classics, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2 (PDF page 10)
 - [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 10, 39
-
-## Stories
+- [[T054 — Shankara]]: non-dual awareness, Advaita Vedanta, the page's oneness line.## Stories
 
 - [[ST002 — The Butterfly Dream|2. The Butterfly Dream]]
 

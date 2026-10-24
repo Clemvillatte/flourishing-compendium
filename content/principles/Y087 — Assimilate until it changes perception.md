@@ -46,3 +46,6 @@ A man knows, in the abstract, that his dread before meetings is mostly noise. Ea
 - [Shankara's commentary on Brihadaranyaka Upanishad 2.4.5 (trans. Swami Madhavananda), as quoted at Advaita Vision](https://www.advaita-vision.org/nididhyasana-as-shankara-explains-1-2/) (read as quoted there; the commentary text itself is cited at second hand.)
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 1.14, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
 - The previous citation, Shankara's Upadesasahasri, was cited at second hand and is not relied on. The Bjork and Plotinus parallels were cited at second hand either.
+
+## Related concepts
+- [[T054 — Shankara]]: the three-step Vedanta account of learning the page grounds in his Brihadaranyaka commentary.

@@ -44,3 +44,6 @@ A nurse who finds philosophy dry but loves her work treats her shifts as the mai
 - [Swami Vivekananda, Raja Yoga, Preface, swamivivekananda.guru](https://www.swamivivekananda.guru/teachings/raja-yoga/raja-yoga-preface) (read as a search excerpt; also seen in the archive.org Raja Yoga full-text results)
 - [Vedanta Society of Southern California, "Yoga - Spiritual Practice", for the Karma Yoga line](https://vedanta.org/yoga-spiritual-practice/)
 - The inherited person-activity fit and Rig Veda 1.164.46 parallels are cited at second hand and no claim here rests on them.
+
+## Related concepts
+- [[T054 — Shankara]]: the reading life the page's example reaches toward, philosophy and practice combined by disposition.

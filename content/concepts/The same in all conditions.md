@@ -31,3 +31,6 @@ Shankara's commentary on the page reads the verse through one standard applied t
 ## Cited in philosophy parallels
 
 - [[K062 — Practice one taste]]
+
+## Related concepts
+- [[T054 — Shankara]]: the commentary on Bhagavad Gita 6.29-32 the concept carries, the same standard applied to oneself.

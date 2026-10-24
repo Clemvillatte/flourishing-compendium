@@ -28,8 +28,7 @@ The compendium's use is a reading practice: a great statement can be taken as a 
 - [[Brahman]] — the world-cause the sentence predicates of the listener
 - [[Non-dual awareness]] — the experiential reading the relational construal keeps at arm's length
 - [[Neti neti]] — the Upanishads' apophatic formula, a third way around identity
-
-## Sources
+- [[T054 — Shankara]]: the identity reading of the sentence, his side of the schools' division on Chandogya 6.8.7.## Sources
 
 - Sanatana Rahasya, "Tat tvam asi: three readings" (Shankara, Ramanuja, Madhva). [Article](https://www.sanatanarahasya.com/philosophy/darshanas/tat-tvam-asi-three-readings/)
 - Shankara's tradition on Chandogya 6.8.7 (kept from seed; see correction note above)

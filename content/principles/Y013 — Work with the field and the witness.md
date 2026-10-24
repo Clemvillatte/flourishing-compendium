@@ -34,3 +34,6 @@ The compendium uses these passages for an attention exercise without deciding wh
 - **[[Epoché|Epochē of the natural attitude]]** (Husserl, Ideas I)
 - **[[Witness consciousness in the Drig-Drisya-Viveka procedure|Witness consciousness in the Drig-Drisya-Viveka procedure]]** (attributed to Shankara's circle, Drig-Drisya-Viveka)
 - **[[Non-dual awareness|Non-dual awareness]]** (Yoga-Vedanta)
+
+## Related concepts
+- [[T054 — Shankara]]: witness consciousness in the Drig-Drisya-Viveka procedure the page pairs with the field.

@@ -46,3 +46,12 @@ pages pass except two concept stubs below the 150-word floor
 backlink glosses (7 principles, 5 concepts), all validated clean, grounded
 in each page's own text (Bendowa shusho-itto, Genjokoan passage, Tenzo
 kyokun, Shobogenzo shikantaza, kinhin, Snyder's Oxford entry).
+
+2026-10-24 07:09Z, worker-pplx-t2c-1024e: Shankara (T054) block complete - 19
+backlink glosses (10 principles, 9 concepts), grounded in each page's
+own text (BG 2.47 and 6.29-32 commentaries, Katha 1.3.14, Drg-Drsya
+Viveka, Vivekachudamani, Brihadaranyaka 2.4.5, SEP Sankara entry,
+neti neti reading, Advaita atman-Brahman). Validator: all modified pages
+pass except five concept stubs below the 150-word floor (Atman 123,
+Detachment from outcomes 83, Non-dual awareness 111, The same in all
+conditions 128, The witness 148) - pre-existing, flagged.

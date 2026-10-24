@@ -51,3 +51,4 @@ Someone gets used to waiting out the urge to check their phone and to walking in
 
 ## Related concepts
 - [[T032 — Linehan, Marsha]]: the distress-tolerance training the page's bearing evidence comes from (Linehan, 1993).
+- [[T054 — Shankara]]: the Vivekachudamani definition of the capacity to bear opposites.

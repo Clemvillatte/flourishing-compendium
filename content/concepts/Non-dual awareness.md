@@ -35,3 +35,6 @@ This is their proposed account of consciousness-as-such, which they contrast wit
 ## Cited in philosophy parallels
 
 - [[D008 — See the oneness of things]]
+
+## Related concepts
+- [[T054 — Shankara]]: Advaita Vedanta, the nondual tradition the concept names alongside him.

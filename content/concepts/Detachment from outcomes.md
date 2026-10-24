@@ -29,8 +29,7 @@ The closing line guards against the opposite error: detachment is not withdrawal
 - [[Non-attachment]] — the broader Buddhist rendering of release
 - [[Karma yoga]] — the Gita's discipline of action
 - [[Psychological detachment]]
-
-## Sources
+- [[T054 — Shankara]]: the Bhagavad Gita 2.47 commentary tradition the concept cites.## Sources
 
 - Bhagavad Gita
 
