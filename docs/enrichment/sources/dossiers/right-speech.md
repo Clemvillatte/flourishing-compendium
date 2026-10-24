@@ -33,6 +33,11 @@ card listed in the map, inconsistent with this page's convention of
 holding stories in the Story section only, per the exemplar); it is
 kept in the Story section. Checker exit 0.
 
+Revision 6: a fresh coverage sweep (in case other workers added
+on-theme cards since the last pass) found no new on-theme concept
+cards; Action over intention is the right-action factor card, held by
+that factor's own dossier, and stays excluded.
+
 ## Quotes and carriers, all opened this session (raw text)
 
 1. Four abstentions, SN 45.8 (Thanissaro, Access to Insight):

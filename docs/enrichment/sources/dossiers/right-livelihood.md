@@ -27,6 +27,11 @@ match the map (B025 and B152 were named as excluded but listed
 inline). Right speech's equivalent note was checked and is accurate
 as written.
 
+Revision 7: a fresh coverage sweep found no new on-theme concept
+cards; Default mode network mentions the path factors incidentally
+and Right intention is a sibling factor with its own dossier; both
+stay excluded.
+
 Revision 5: a duplication found in the final read-through and
 removed: ST290 and ST064 appeared in two Story-section groups (The
 livelihood redesigned and The price refused) with identical loglines;
