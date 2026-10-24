@@ -304,3 +304,36 @@ a prose wall caused by contiguous bullet blocks. Those blocks were
 re-formatted as separate paragraphs (one entry per paragraph, matching
 the anger exemplar's format) so no block exceeds the
 150-visible-word floor. No card link, gloss or quotation was changed.
+
+## Pass 8: Wang/Aristotle fit research and ST384 ctext verification (worker-pplx-dos24-1025a)
+
+Wang/Aristotle fit research (the pass-7 remaining item): a primary-text
+carrier for Wang's own account of the failure state was opened — the
+Chuan-xi lu (Instructions for Practical Living) passage recorded by
+Xu Ai, in the de Bary and Bloom translation, on Columbia University's
+Asia for Educators site (https://afe.easia.columbia.edu/main_pop/ps/
+ps_china-wang-yangming-knowing-acting.htm, downloaded as wang2.html and
+raw-verified). The quoted passage ("The Teacher said, 'The knowing and
+acting you refer to are already separated by selfish desires...'")
+matches the carrier verbatim, curly quotes preserved. The dossier's
+related-question paragraph was upgraded: the fit is now argued from
+opened carriers on both sides (Wang's original-substance / separated
+knowing mapped against Aristotle's Knowledge proper / sense-conveyed
+knowing from NE VII.3, already verified in pass 4), with the residual
+difference stated as the remedy (habituation vs restoring the original
+substance) left as the open edge. No claim of settled disagreement is
+made; the mapping is presented as what the carriers support.
+
+ST384 ctext link note (the pass-7 remaining item): the ctext carrier
+(https://ctext.org/zhuangzi/tree-on-the-mountain, Legge translation)
+was verified via the Wayback Machine snapshot of that exact URL
+(web.archive.org/web/20260814152109, downloaded as ctree_wb2.html;
+the live ctext page returns an "Access unavailable" block from this
+sandbox and the page-open crawler's route, which is why prior passes
+got shells). The card's direct quotation ("he is transformed with the
+(changing) character of the time, and is not willing to addict himself
+to any one thing") matches the Legge text in the snapshot verbatim, and
+the tree/woodcutter and goose episodes are present as the card
+narrates them. The flag is RESOLVED: the ctext carrier is verified
+against the archived copy of the page; the live page could not be
+opened from this sandbox, noted for the record.

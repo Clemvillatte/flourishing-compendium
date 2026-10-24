@@ -174,7 +174,13 @@ Wang's knowledge, as the reference article presents it, is knowing how to respon
 
 > "For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)).
 
-Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls the plain facts against him, then moves part of the way back with the resolution above. What remains open is the fit between the two sides' terms, whether Wang's knowing-how is Aristotle's Knowledge proper, which passion cannot suspend, or the sense-conveyed knowing that it can; I hold materials on both sides, the spontaneous-right-action card with Socrates and Wang, the virtue-rehearsal kernels with Aristotle, and records the pair as a related question rather than a settled disagreement.
+Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls the plain facts against him, then moves part of the way back with the resolution above. The fit between the two sides' terms can be argued from both texts. Wang's own account of the failure state supplies his side. His disciple Xu Ai reports the exchange in Instructions for Practical Living:
+
+> "The Teacher said, ‘The knowing and acting you refer to are already separated by selfish desires and are no longer knowing and acting in their original substance. There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know. When sages and worthies taught people about knowing and acting, it was precisely because they wanted them to restore this original substance, and not just to have them behave like that and be satisfied.’" ([Wang Yangming, Instructions for Practical Living, trans. de Bary and Bloom, Sources of Chinese Tradition, via Columbia University Asia for Educators](https://afe.easia.columbia.edu/main_pop/ps/ps_china-wang-yangming-knowing-acting.htm)).
+
+The knowing that fails to act is, in Wang's terms, already a separated knowing, separated by selfish desires; the original substance of knowing and acting does not fail. Aristotle's resolution in Book VII draws the same line from the other side: the affection does not take place in the presence of Knowledge proper, only in the presence of the sense-conveyed knowing that passion can drag about. Read together, the two maps line up: Wang's original substance answers to Aristotle's Knowledge proper, and Wang's desire-separated knowing to the sense-conveyed knowledge that passion suspends.
+
+What the two do not share is the remedy. Aristotle repairs the state by habituation, becoming just by doing just acts; Wang restores the original substance, removing the selfish desires that did the separating. Whether building the disposition and clearing the obstruction are one work or two is the edge the carriers leave open.
 
 ## Practice: variation, selection, retention
 
