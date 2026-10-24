@@ -2,7 +2,7 @@
 
 > What is it to see rightly, and what does that seeing do to a life?
 
-This dossier is a map, not an essay. The aim is that a reader can say "I want to think about right view", open this page, and see the whole spread of what the compendium holds on it: every entry that bears on the first factor of the Eightfold Path, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to loosen the grip of views held as possessions, without pretending there is no seeing to be done.
+This dossier is a map, not an essay. The aim is that a reader can say "I want to think about right view", open this page, and see the working spread of what the compendium currently holds on it: the entries that bear on the first factor of the Eightfold Path, grouped by the question they answer, each with a card link; the spread is a working map, and gaps are expected. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to loosen the grip of views held as possessions, without pretending there is no seeing to be done.
 
 How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
 
@@ -13,13 +13,13 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 - View, perspective, standpoint: the general material on perspectivality, where seeing always happens from somewhere, is on-theme and lives in the map below ([The standpoint determines what appears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20standpoint%20determines%20what%20appears), [The coloured lens](https://clemvillatte.github.io/flourishing-compendium/#card=The%20coloured%20lens)); it is not a separate family.
 - Wisdom: the bigger question of what seeing well amounts to across traditions has its own published dossier (Wisdom); the boundary is that this page holds the path's own account of the view, not wisdom in general.
 
-## The map: every entry the wiki holds on right view
+## The map: a working map of what the wiki holds on right view
 
 ### What the view is
 
 [Right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view): the first factor, defined in the Sammādiṭṭhi Sutta by what a person of right view discerns: stress, its origination, its cessation and the way of practice leading to its cessation.
 
-[Four Noble Truths](https://clemvillatte.github.io/flourishing-compendium/#card=Four%20Noble%20Truths): the teaching the view is a view of, delivered as four tasks rather than four propositions; each truth carries its own verb.
+[Four Noble Truths](https://clemvillatte.github.io/flourishing-compendium/#card=Four%20Noble%20Truths): the teaching the view is a view of, each truth is paired with a task: comprehension, abandonment, realization and development.
 
 [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path): the umbrella hub; right view is the first of eight factors, grouped with intention in the wisdom training.
 
@@ -115,11 +115,11 @@ The strongest candidate pairs two passages that may not oppose each other. The e
 
 > "Of those, right view is the forerunner. And how is right view the forerunner? In one of right view, wrong view is abolished. The many evil, unskillful qualities that come into play with wrong view as their condition are also abolished, while the many skillful qualities that have right view as their condition go to the culmination of their development." ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html)): Primary text; quoted passages checked.
 
-The Mahāyāna passage that grounds the candidate extends the same dissolution to the perception of the teaching itself:
+The Mahāyāna passage that grounds the candidate instructs knowing and viewing dharmas without setting up the perception of a dharma:
 
 > "That which has been taught by the Tathagata as 'view of self', as a no-view has that been taught by the Tathagata. Therefore is it called 'view of self'... someone who has set out in the Bodhisattva-vehicle should know all dharmas, view them, be intent on them. And he should know, view and be intent on them in such a way that he does not set up the perception of a dharma... 'Perception of dharma, perception of dharma,' Subhuti, as no-perception has this been taught by the Tathagata. Therefore is it called 'perception of dharma'." ([Diamond Sutra, section 31, Conze rendering, full text](http://www.nyx.net/~dbachman/texts/Diamond.txt)): Primary text; quoted passages checked against the raw text.
 
-The Stanford Encyclopedia frames the Madhyamaka move as a corrective rather than a new position, which is context for the disagreement, not one of its poles: emptiness is "not some kind of primordial reality ante rem but a corrective to a mistaken view of how the world exists" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)): Scholarly interpretation; cited passages checked.
+The Stanford Encyclopedia frames the Madhyamaka move as a corrective rather than a new position, which is context for the comparison, not one of its poles: emptiness is "not some kind of primordial reality ante rem but a corrective to a mistaken view of how the world exists" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)): Scholarly interpretation; cited passages checked.
 
 Whether this is a disagreement at all is what remains unresolved: MN 117 affirms a view whose holding culminates skillful qualities; the Diamond Sutra instructs knowing and viewing dharmas while not setting up the perception of a dharma. The Diamond Sutra's own wording both directs the viewing and dissolves the view's reification, so the two texts may be levels of one training, a view held for cultivation but not clung to, or genuinely opposed stances toward views. Until a carrier is opened in which a tradition reads the early right view under this dissolution, the compendium holds both texts without certifying an opposition.
 

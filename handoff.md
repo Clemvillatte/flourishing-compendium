@@ -10,7 +10,7 @@ Open blockers for the next writer:
 1. No grounded divergence yet: the MN 117 / Diamond Sutra 31 comparison
    is an open research question (quotes in place, opposition unproven);
    convictions-vs-discernment and tasks-vs-beliefs also ungrounded.
-2. Kernel assessment incomplete: 63-candidate list in the ledger; K132,
+2. Kernel assessment incomplete: 64-file candidate list persisted at docs/enrichment/drafts/dos18-right-view/kernel-candidates.txt; K132,
    K144, K270, K273 added to the Practice selection; K388 considered
    and not added; boundary calls to check.
 3. ST065 (Nagasena and the Chariot) removed from the publishable draft

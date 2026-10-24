@@ -1,6 +1,6 @@
 {
  "batch": "dos18",
  "done": [],
- "note": "pass 10 (supervisor-pplx-1024g, 2026-10-24 ~T+31): advisor QC round 4 repairs: divergence claim withdrawn and MN 117/Diamond Sutra comparison demoted to open research question (opposition unproven, draft says so); ST067 logline rewritten to verified plot details (refetched carrier); ST064 verified; K144 entry rewritten at protocol level; ledger corrections (grounded-divergence claim withdrawn, kernel sweep marked candidate-list/subset/incomplete, pass-6 timestamp fixed to epoch 1792826898 = T+21:49); workflow note removed from reader-facing text. Checker passes: 40 card links, 17 headers, 10 external carrier occurrences (7 source URLs). NOT QC-passed; draft handed off with blockers: no grounded divergence yet, kernel assessment incomplete, ST065 carrier, promotion to markdown of record, art assignment",
+ "note": "pass 11 (supervisor-pplx-1024g, 2026-10-24 ~T+31): advisor QC round 5 consistency fixes: tasks-vs-propositions wording neutralized, SEP 'context for the comparison', Mahayana lead-in describes instruction directly, map heading/intro softened to working map; kernel candidate list persisted to docs/enrichment/drafts/dos18-right-view/kernel-candidates.txt (programmatic count 64, earlier 63 was a miscount); status: candidate list generated, subset inspected, assessment incomplete. Checker passes: 40 card links, 17 headers, 10 external carrier occurrences (7 source URLs). NOT QC-passed; research draft handed off with blockers listed in handoff.md",
  "status": "in_progress"
 }

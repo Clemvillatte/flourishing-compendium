@@ -1,0 +1,64 @@
+content/kernels/K127 — Cognitive reappraisal.md
+content/kernels/K131 — Perspective-taking.md
+content/kernels/K138 — Multiple versioning.md
+content/kernels/K139 — Self-as-context.md
+content/kernels/K140 — The observer question.md
+content/kernels/K141 — Identity flexibility audit.md
+content/kernels/K142 — Narrative reconstruction.md
+content/kernels/K143 — Self-complexity mapping.md
+content/kernels/K144 — The chariot analysis.md
+content/kernels/K145 — Role-taking.md
+content/kernels/K146 — Ego dissolution practice.md
+content/kernels/K147 — I am becoming reframes.md
+content/kernels/K148 — Variation against the story.md
+content/kernels/K171 — Emotional writing.md
+content/kernels/K180 — Feedback loops.md
+content/kernels/K191 — Single-loop learning.md
+content/kernels/K209 — Repair attempt.md
+content/kernels/K218 — Perspective-getting.md
+content/kernels/K221 — Community engagement.md
+content/kernels/K226 — The deathbed test.md
+content/kernels/K230 — Memento mori.md
+content/kernels/K236 — Community of inquiry.md
+content/kernels/K246 — Self-monitoring.md
+content/kernels/K248 — Positive greetings.md
+content/kernels/K249 — Half-smile.md
+content/kernels/K254 — Character feedback loop.md
+content/kernels/K255 — Virtue journaling.md
+content/kernels/K256 — The unity-of-virtue drill.md
+content/kernels/K258 — Stakeholder mapping.md
+content/kernels/K260 — Wise-reasoning prompts.md
+content/kernels/K261 — Self-distanced reflection.md
+content/kernels/K263 — Post-action phronesis review.md
+content/kernels/K270 — Evidence-versus-interpretation drill.md
+content/kernels/K271 — The is this up to me check.md
+content/kernels/K272 — Catastrophe testing.md
+content/kernels/K273 — The view from above.md
+content/kernels/K293 — Elder and mentor cycles.md
+content/kernels/K314 — Anxiety-as-signal.md
+content/kernels/K323 — Daily making.md
+content/kernels/K333 — Redemptive sequence writing.md
+content/kernels/K338 — Restorative conversation.md
+content/kernels/K339 — The third story.md
+content/kernels/K340 — Repair-before-resolve.md
+content/kernels/K342 — The caring response.md
+content/kernels/K345 — Positionality statement.md
+content/kernels/K346 — The learning posture.md
+content/kernels/K347 — Story-before-statistic.md
+content/kernels/K358 — Stakeholder impact scan.md
+content/kernels/K364 — Cosmopolitan reflection.md
+content/kernels/K365 — Public reasoning.md
+content/kernels/K366 — Reflective listening: guess the meaning.md
+content/kernels/K371 — Importance and confidence rulers.md
+content/kernels/K379 — Compassion for a struggling version of yourself.md
+content/kernels/K381 — Compassionate Thinking: name the part, then look from the other side.md
+content/kernels/K384 — Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted).md
+content/kernels/K388 — Passengers on the bus (metaphor practice).md
+content/kernels/K389 — Look through the lens of time.md
+content/kernels/K392 — The Three-minute Breathing Space.md
+content/kernels/K393 — The Habit Releaser.md
+content/kernels/K401 — Sing the thought, or say it in a silly voice.md
+content/kernels/K403 — Core and satellite values.md
+content/kernels/K404 — The values whiteboard.md
+content/kernels/K406 — Compassionate letter to yourself.md
+content/kernels/K407 — Coping cards.md

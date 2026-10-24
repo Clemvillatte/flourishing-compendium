@@ -249,3 +249,21 @@ boundary calls are recorded here for the next pass to check.
   pass, not a completed assessment.
 - The workflow note about ST065 being held back was removed from the
   reader-facing draft and lives in prep only.
+
+## Pass 11, advisor QC round 5 repairs (2026-10-24)
+
+- Kernel candidate list PERSISTED to
+  docs/enrichment/drafts/dos18-right-view/kernel-candidates.txt;
+  programmatic count is 64 files (the earlier "63" was miscounted from
+  a truncated display). Status unchanged and accurate: candidate list
+  generated; subset inspected (K132, K144, K270, K273, K388 read from
+  their cards); assessment incomplete.
+- Prose contradictions fixed: the Four Noble Truths map line now says
+  each truth is paired with a task (comprehension, abandonment,
+  realization, development) instead of asserting "tasks rather than
+  propositions"; the SEP sentence says "context for the comparison"; the
+  Mahayana lead-in describes the instruction directly (knowing and
+  viewing dharmas without setting up the perception of a dharma) rather
+  than equating it with "the teaching itself"; the map heading and intro
+  now describe a working map with expected gaps instead of promising
+  "every entry".
