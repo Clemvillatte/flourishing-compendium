@@ -28,10 +28,12 @@ Title sweeps across content/ for about thirty candidate terms; full-text sweeps 
 stragglers; then opening and reading the cards behind the hits. For every retained
 proposal I then tested coverage against the actual dossier drafts staged in this
 folder, including the planned drafts (agency.md, the right-* dossiers, gratitude.md,
-fear.md, sadness-and-grief.md, shame-and-guilt.md), by comparing card-link targets and
-reading the relevant passages, because keyword absence alone does not establish
-coverage absence. Where the coverage test failed, I dropped or demoted the proposal
-rather than padding the list.
+fear.md, sadness-and-grief.md, shame-and-guilt.md), in two passes: a keyword pass,
+then an exact-target audit that decodes every #card= target in those files and
+compares it with each candidate's supporting cards, because keyword absence alone
+does not establish coverage absence and a shared card is not the same as a mapped
+family. Where the coverage test failed, I dropped or demoted the proposal rather
+than padding the list.
 
 Evidence status, stated once for the whole document: the card descriptions below
 summarize what the linked cards themselves say with their own opened carriers (each
@@ -51,15 +53,18 @@ Why it matters: the mission names alleviation of suffering as its center, and no
 published or planned dossier owns the suffering question itself. Genuine Flourishing
 holds what a good life is; this would hold the thing a good life has to deal with.
 
-Coverage test: [genuine-flourishing.md](genuine-flourishing.md) treats suffering inside
-its meaning material (Frankl's attitude, tragic optimism); [right-view.md](right-view.md)
-maps the Four Noble Truths card as the view's content; [anxiety.md](anxiety.md) and
-[sadness-and-grief.md](sadness-and-grief.md) hold suffering's anticipatory and
-loss-related forms. None of them maps the cluster below. History worth stating: the
-README records that the v1 abstract title "Suffering and the second wound" was
-retired, with its material meant to resurface inside topical dossiers; whether that
-disposition still serves the mission is the owner's call, and this proposal puts the
-question to them.
+Coverage test (exact-target audit): [genuine-flourishing.md](genuine-flourishing.md)
+treats suffering inside its meaning material (Frankl's attitude, tragic optimism);
+[right-view.md](right-view.md) maps the Four Noble Truths card as the view's
+content; [anxiety.md](anxiety.md) and [sadness-and-grief.md](sadness-and-grief.md)
+hold suffering's anticipatory and loss-related forms; [lifes-purpose.md](lifes-purpose.md)
+carries The meaning of suffering as a single entry with the Frankl attitude quote;
+[happiness.md](happiness.md) carries Dukkha as a single entry; the right-* drafts
+carry Judgment adds the harm as single entries. No dossier maps the family. History
+worth stating: the README records that the v1 abstract title "Suffering and the
+second wound" was retired, with its material meant to resurface inside topical
+dossiers; whether that disposition still serves the mission is the owner's call, and
+this proposal puts the question to them.
 
 Supporting cards (read in full: Dukkha, Limit situations, The meaning of suffering,
 The avoidance of suffering, Stuckness as suffering, Judgment adds the harm):
@@ -103,12 +108,12 @@ changes in a life when what cannot be changed stops being fought. The wiki holds
 the clinical programme (ACT, chronic pain) and the classical material (amor fati,
 serene acceptance of necessity, death acceptance) in one cluster.
 
-Coverage test: [affect.md](affect.md) and [uncertainty.md](uncertainty.md) contain no
-acceptance material (checked by keyword and by card-link targets). The Body dossier is
+Coverage test (exact-target audit): [affect.md](affect.md) and
+[uncertainty.md](uncertainty.md) contain no acceptance targets. The Body dossier is
 planned but not drafted, and its scope names interoception and stress physiology, not
-acceptance. The Equanimity backlog candidate is the nearest neighbour and the boundary
-must be tested from opened sources before minting: acceptance as willingness toward
-what is already here, equanimity as evenness of mind.
+acceptance. The Equanimity backlog candidate is the nearest neighbour and the
+boundary must be tested from opened sources before minting: acceptance as
+willingness toward what is already here, equanimity as evenness of mind.
 
 Supporting cards (read in full: Acceptance, Radical acceptance):
 - [Acceptance](../../../content/concepts/Acceptance.md) — the Hayes et al. 2006
@@ -147,20 +152,20 @@ is strong but the cluster is more compact than Suffering's.
 Why it matters: whether a person is free, what freedom costs, and why people flee it.
 The wiki holds a substantial cross-tradition cluster here.
 
-Coverage test, two-sided. The [agency.md](agency.md) draft already maps the umbrella
-cards: Freedom, Positive freedom and Second-order desires sit under "what is ever
-one's own to run". And [anxiety.md](anxiety.md) maps the Kierkegaardian wing: The
-dizziness of freedom, Anxiety about the future, Angst and ST273 are its map entries
-and its first divergence quotes the dizziness passage, because for Kierkegaard the
-anxiety of possibility IS the dizziness of freedom. What no dossier maps is the
-flight-and-will wing: Escape from freedom (checked against every staged draft by
-card-link target), Radical freedom and Situated freedom (Sartre), Anguish (angoisse),
-Psychological reactance (Brehm), Natural liberty versus the chains (Rousseau), The
-Cynic's freedom, The interdependence of freedoms. The distinct question survives for
-that wing (Agency asks how much say a person has; Anxiety asks what the anxious
-feeling is about; this asks what freedom is, what it costs and why people flee it),
-but two boundaries must be drawn, and the owner may reasonably prefer to deepen the
-two existing dossiers instead.
+Coverage test, two-sided (exact-target audit). The [agency.md](agency.md) draft already
+maps the umbrella cards: Freedom, Positive freedom and Second-order desires sit under
+"what is ever one's own to run". And [anxiety.md](anxiety.md) maps the Kierkegaardian
+wing: The dizziness of freedom, Anxiety about the future, Angst and ST273 are its map
+entries and its first divergence quotes the dizziness passage, because for Kierkegaard
+the anxiety of possibility IS the dizziness of freedom. The audit confirms Escape
+from freedom is not a target in any staged dossier. What no dossier maps is the
+flight-and-will wing: Escape from freedom, Radical freedom and Situated freedom
+(Sartre), Anguish (angoisse), Psychological reactance (Brehm), Natural liberty versus
+the chains (Rousseau), The Cynic's freedom, The interdependence of freedoms. The
+distinct question survives for that wing (Agency asks how much say a person has;
+Anxiety asks what the anxious feeling is about; this asks what freedom is, what it
+costs and why people flee it), but two boundaries must be drawn, and the owner may
+reasonably prefer to deepen the two existing dossiers instead.
 
 Supporting cards (read in full: The dizziness of freedom, Escape from freedom):
 - [Escape from freedom](../../../content/concepts/Escape%20from%20freedom.md) — Fromm's
@@ -194,11 +199,13 @@ Why it matters: the wiki holds a coherent cluster on contact with the living wor
 the research wing (nature exposure, connectedness, restoration) and the
 ecological-ethics wing (deep ecology, intrinsic value, critique of mastery).
 
-Coverage test: [attention.md](attention.md) holds the attention-restoration material
-scoped there; [gratitude.md](gratitude.md) and [sadness-and-grief.md](sadness-and-grief.md)
-already scope ecological gratitude and ecological grief as their own sections;
-[the-self.md](the-self.md) maps Ecological self and Ecological identity inside its
-relational-self material. What remains unmapped is the research wing and the ethics
+Coverage test (exact-target audit): [attention.md](attention.md) holds the
+attention-restoration material scoped there; [gratitude.md](gratitude.md) and
+[sadness-and-grief.md](sadness-and-grief.md) already scope ecological gratitude and
+ecological grief as their own sections; [the-self.md](the-self.md) maps Ecological
+self and Ecological identity inside its relational-self material. The audit confirms
+Nature exposure, Nature connectedness and Restorative environments are not targets
+in any staged dossier. What remains unmapped is the research wing and the ethics
 wing: Nature exposure, Nature connectedness, Nature as teacher, Intrinsic value of
 nature, Deep ecology, Ecological ethics, Critique of mastery, Restorative
 environments. I also opened and removed two false positives the title sweep had
@@ -211,8 +218,9 @@ Supporting cards (read in full: Nature exposure, Ecological self):
   al. 2015 experiment, verified this session against
   [the opened PNAS carrier](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/),
   including the card's honest P=.07 qualification on the self-report measure
-- [Ecological self](../../../content/concepts/Ecological%20self.md) — Naess's "in, of,
-  and for nature" passage with its carrier; practice principles R119, R116, P152, R130
+- [Ecological self](../../../content/concepts/Ecological%20self.md) — Naess's account
+  of the self as constituted by relations with the living world, with the Devall
+  essay carrying the passage on the card; practice principles R119, R116, P152, R130
 - [Nature connectedness](../../../content/concepts/Nature%20connectedness.md),
   [Nature as teacher](../../../content/concepts/Nature%20as%20teacher.md),
   [Intrinsic value of nature](../../../content/concepts/Intrinsic%20value%20of%20nature.md),
@@ -236,46 +244,59 @@ recommendation is that this candidate sits in the backlog pending a placement de
 (the owner may see companions I did not find), rather than being minted into a section
 that breaks the rules. The evidence base is real but more compact than Suffering's.
 
-### 5. Virtue & Character — the character-psychology wing (slug: virtue-and-character)
+### 5. Meaning & Mortality (slug: meaning-and-mortality)
 
-Why it matters: character-building is the third mission pillar's practical question,
-and the wiki holds a real research cluster on it.
+Why it matters: how finitude shapes what a life means is the question behind both the
+wisdom and the flourishing pillars: the classical memento mori traditions, the
+existential analyses, and a real research programme (terror management, death
+reflection) all hold that facing death changes how a life is lived. The registry
+already holds this family in its backlog; backlog presence makes it neither
+published nor planned, and the card base is strong enough to develop.
 
-Coverage test, which cuts this proposal down to one wing:
-[wisdom.md](wisdom.md) already carries a "Virtue and character" section mapping the
-virtue-ethics core (Virtue, Cardinal virtues, the doctrine of the mean, the catalogue
-of virtues, the unity of the virtues, Natural virtue, Virtue development research,
-The rehearsal of virtue, Designing for virtue). What no dossier maps is the
-character-psychology wing: Character strengths (Peterson & Seligman), Character
-development, Habituation, Friendship shapes character, Arete, Sophrosyne (The Self
-maps Moral identity under identity-over-a-life). So the three-part test fails for the
-cluster as a whole and passes, at most, for the psychology wing. This proposal is
-conditional on the owner's answer to that split.
+Coverage test (exact-target audit): the fear-of-death wing is placed — fear.md maps
+Death anxiety research and the Epicurean argument against the fear of death;
+uncertainty.md maps Impermanence; genuine-flourishing.md carries Being-toward-death
+as a single entry. The audit confirms the meaning wing is unmapped: Death
+reflection, Mortality salience, Finitude, The Great Death, Death acceptance and
+the deathbed test are not targets in any staged dossier. The distinct question
+survives: Fear holds the affective response to dying; this holds death as the
+shaper of meaning, gratitude and choice.
 
-Supporting cards (read in full: Character strengths, The chain of virtue):
-- [Character strengths (Peterson & Seligman)](../../../content/concepts/Character%20strengths%20%28Peterson%20%26%20Seligman%29.md)
-  — the Seligman et al. 2005 signature-strengths exercise, verified this session
-  against [the opened carrier](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf);
-  the moral-situationist debate the card itself flags
-- [The chain of virtue](../../../content/concepts/The%20chain%20of%20virtue.md) — NE
-  Book II via Project Gutenberg: acts to habits to character
-- [Character development](../../../content/concepts/Character%20development.md),
-  [Friendship shapes character](../../../content/concepts/Friendship%20shapes%20character.md),
-  [Habituation](../../../content/concepts/Habituation.md),
-  [Arete](../../../content/concepts/Arete.md),
-  [Sophrosyne](../../../content/concepts/Sophrosyne.md) (opened in part)
-- kernel [K251 Signature strengths in new ways](../../../content/kernels/K251%20%E2%80%94%20Signature%20strengths%20in%20new%20ways.md)
+Supporting cards (read in full: Being-toward-death, Death reflection; the rest opened
+in part):
+- [Being-toward-death](../../../content/concepts/Being-toward-death.md) — the
+  Heideggerian analysis via SEP: anticipation rather than brooding, mortality as
+  the clarifier of finite choice
+- [Death reflection](../../../content/concepts/Death%20reflection.md) — the
+  Cozzolino et al. 2004 and Frias et al. 2011 studies: vivid death reflection
+  shifting behavior toward intrinsic and grateful responses, with the claims scoped
+  to those studies on the card
+- [Finitude](../../../content/concepts/Finitude.md),
+  [Mortality salience](../../../content/concepts/Mortality%20salience.md),
+  [The Great Death](../../../content/concepts/The%20Great%20Death.md),
+  [Death acceptance](../../../content/concepts/Death%20acceptance.md) — the limit
+  condition, the terror-management account, Hakuin's curriculum stage, the
+  acceptance practice
+- kernels [K222 Mortality reflection](../../../content/kernels/K222%20%E2%80%94%20Mortality%20reflection.md),
+  [K226 The deathbed test](../../../content/kernels/K226%20%E2%80%94%20The%20deathbed%20test.md),
+  [K316 Mortality-to-action translation](../../../content/kernels/K316%20%E2%80%94%20Mortality-to-action%20translation.md)
+  (titles verified)
+- principles B055, B193, E043, E054, M039, M040, P106, S024, S104, S128, SP068,
+  D090 (titles verified against files; bodies not read)
+- story [ST272 Being-toward-Death](../../../content/stories/ST272%20%E2%80%94%20Being-toward-Death.md)
   (read)
 
-Draft opening question: "Can character be built, and what builds it?"
+Draft opening question: "What does being mortal do to the meaning of a life?"
 
-Connections: Wisdom (the virtue-ethics home), Genuine Flourishing, the Eightfold
-Path's sila factors, Behaviour (habit), Shame & Guilt (moral emotions).
+Connections: Fear (the fear-of-death wing), Uncertainty (impermanence), Suffering
+(proposal 1), Life's Purpose (the Frankl material), Gratitude (the death-reflection
+outcome), the Acceptance proposal (death acceptance as its family member).
 
-Risks: the honest form of this proposal is a question for the owner, not a mint:
-either deepen Wisdom's existing virtue-and-character section, or split the
-character-psychology wing into its own dossier with the boundary written first. I
-rank it last because it cannot be minted without that decision.
+Risks: the boundary against Fear must be written first (affective response versus
+meaning-shaper), and the terror-management literature the wiki holds carries its
+own replication debates, which the writer must check against opened carriers rather
+than assert either way. The registry backlog already names the family, so the owner
+is choosing to promote it, not discovering it.
 
 ## Considered and not proposed
 
@@ -295,6 +316,20 @@ rank it last because it cannot be minted without that decision.
   (Neugier), story ST344. Combined with the cluster's small size (eight to ten cards),
   the honest disposition is a map group, not a dossier; if the owner disagrees, the
   writer runs the three-part test first.
+- Virtue & Character: a genuinely conditional case, kept out of the ranked list
+  because the coverage test defeats it as a whole. wisdom.md carries a full
+  "Virtue and character" section mapping the virtue-ethics core (Virtue, Cardinal
+  virtues, the doctrine of the mean, the catalogue of virtues, the unity of the
+  virtues, Natural virtue, Virtue development research, The rehearsal of virtue,
+  Designing for virtue); genuine-flourishing.md carries Arete, Character strengths
+  and Character development as single entries inside its own argument; Behaviour
+  (planned) is scoped to hold the habit-formation science that Habituation bridges
+  to. What remains unmapped is a thin remainder: Habituation, Sophrosyne, Friendship
+  shapes character, The chain of virtue (all verified unmapped by the audit). If the
+  owner wants a character dossier, the distinct central question would have to be
+  established against Wisdom, Genuine Flourishing and Behaviour first; my honest
+  reading is that the cards do not yet support it, and the deeper route is expanding
+  Wisdom's existing section.
 - Joy (joy, mudita, spiritual joy, the joy of virtue): reads as a nearby term for the
   Happiness dossier. Not proposed.
 - Trust (Trust, Self-trust, Organismic trust, Trustworthiness, Generalized trust): the
@@ -317,8 +352,13 @@ rank it last because it cannot be minted without that decision.
 | 2 | Acceptance | Life Challenges | moderate-plus: ACT anchor strong, Equanimity boundary open |
 | 3 | Freedom | two boundaries needed: Agency and Anxiety | the flight-and-will wing is unmapped; the Kierkegaardian wing is in Anxiety |
 | 4 | Nature & the Living World | no home under current section rules; backlog pending placement | moderate: research wing plus ethics wing; the self-mapping is in The Self |
-| 5 | Virtue & Character (psychology wing) | conditional on owner's split decision vs Wisdom | the psychology wing only; ethics core already in Wisdom |
+| 5 | Meaning & Mortality | promotion of the backlog family; boundary vs Fear | strong: classical, existential and research wings, carrier-rich |
+
+### Conditional case, not ranked
+
+| Virtue & Character | coverage test defeats it as scoped | the ethics core is in Wisdom; GF holds single entries; a thin unmapped remainder |
 
 My recommendation, if the owner wants the minimum strong set: mint Suffering and
-Acceptance, and decide the Freedom boundary with the Agency and Anxiety writers before
-any mint. Suffering is the one candidate that answers a gap the mission itself names.
+Acceptance, promote Meaning & Mortality from the backlog, and decide the Freedom
+boundary with the Agency and Anxiety writers before any mint. Suffering is the one
+candidate that answers a gap the mission itself names.
