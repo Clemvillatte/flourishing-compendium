@@ -75,5 +75,7 @@
    "from": "supervisor-pplx-1024c-p1a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-24T15:00:57+00:00"
 }
