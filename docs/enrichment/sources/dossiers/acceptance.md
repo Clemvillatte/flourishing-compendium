@@ -45,8 +45,17 @@ distinction, checked against the card's content.
   against
   https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf
   this session.
-- The Liezi D098 carrier (Scribd, Graham translation) was not
-  re-fetched; the gloss paraphrases the principle body.
+- The Liezi D098 carrier (Scribd, Graham translation) was re-fetched
+  2026-10-24 (supervisor-pplx-1024c-dossiers, dossiers baton): chapter
+  6 "Endeavour and Destiny" read from
+  https://www.scribd.com/doc/258599406/Graham-A-C-The-Book-of-Lieh-Tzu-A-Classic-of-the-Tao
+  and BOTH quotes on the principle card verified word-for-word — the
+  "why did you give long life to one and early death to the other"
+  question (the card quotes its opening fragment) and the
+  "When we say that a thing is destined" passage, an exact match
+  including the repeated "What can I know about it?". OPEN POINT
+  CLOSED; the dossier's gloss (the staged debate between Endeavour
+  and Destiny) stands.
 - The ST188 Epictetus anecdote's historicity is uncertain per the
   card, and the dossier's logline carries that caution.
 
