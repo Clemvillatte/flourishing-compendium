@@ -10371,11 +10371,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question: when effort runs out, is something finite being used up? Baumeister and colleagues argued so from four experiments:"
+          "x": "The shared question: when effort runs out, is something finite being used up? Baumeister and colleagues argued so from a series of experiments, reporting results:"
         },
         {
           "t": "q",
-          "x": "\"These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource.\" ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/)): Secondary source; quoted passage checked.",
+          "x": "\"suggesting that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource.\" ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/)): Secondary source; quoted passage checked.",
           "s": null
         },
         {

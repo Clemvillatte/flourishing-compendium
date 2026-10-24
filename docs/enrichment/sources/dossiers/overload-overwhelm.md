@@ -4,7 +4,7 @@ Verification record for docs/enrichment/dossiers/overload-overwhelm.md, revision
 
 ## Carriers opened and quoted
 
-- Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998 (PubMed 9599441): final sentence of the abstract. Matched on the fetched extract.
+- Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998 (PubMed 9599441): abstract sentence beginning "suggesting that the self's capacity" (the abstract reads "reports experiment results suggesting that...", quoted from "suggesting"). Matched on the fetched extract.
 - Hagger and colleagues, Perspectives on Psychological Science 2016 (PubMed 27474142): the meta-analysis sentence (d = 0.04). Matched; the abstract's bracket is unclosed in the source and left as is.
 - Multilab replication with the Stroop and antisaccade tasks (PMC8186735): the 12-laboratory result d = 0.10 was read in the search extract of the paper's abstract (the PMC extract shows the 23-lab comparison; the d = 0.10 line is from the same paper's abstract in another extract). Paraphrased, not quoted.
 - Aristotle, Nicomachean Ethics X.6 and X.7 (Ross, MIT Classics, one page for Book X): "Relaxation, then, is not an end..." and "happiness is thought to depend on leisure..." Matched verbatim on the downloaded page.
