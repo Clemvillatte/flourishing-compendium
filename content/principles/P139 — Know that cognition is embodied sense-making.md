@@ -12,21 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 139** — Know that cognition is embodied sense-making
 
-The principle's source text is The Embodied Mind, where Francisco Varela, Evan Thompson and Eleanor Rosch set out what "embodied" adds to a theory of mind (Varela, Thompson & Rosch, The Embodied Mind, ch. "Enaction: Embodied Cognition").
+Francisco Varela, Evan Thompson and Eleanor Rosch's enactive account asks how sensing and acting together participate in cognition ([The Embodied Mind, chapter 8 abstract](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399)). The publisher's abstract explains their use of embodied:
 
 > The term embodied highlights two points: first, that cognition depends upon the kinds of experience that come from having a body with various sensorimotor capacities, and second, that these individual sensorimotor capacities are themselves embedded in a more encompassing biological, psychological, and cultural context. (Varela, Thompson & Rosch, The Embodied Mind, ch. "Enaction: Embodied Cognition", [publisher's chapter abstract](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399))
 
-In the authors' enactive account, perception guides action, and recurring patterns of sensing and acting give rise to cognitive structures ([publisher's chapter abstract](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399)).
+In this account, perception consists in perceptually guided action, and recurring patterns of sensing and acting give rise to cognitive structures ([publisher's chapter abstract](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399)). Enactivism is one approach within a diverse research programme; a bodily influence on performance does not by itself show that the body constitutes part of a cognitive process ([Shapiro and Spaulding, Embodied Cognition, §§2.4 and 5.1](https://plato.stanford.edu/entries/embodied-cognition/)).
 
-**Plain words**
-Imagine learning an unfamiliar movement. You attempt it, notice what happens and adjust your next attempt. The authors ask us to include that ongoing exchange between sensing and acting when explaining cognition. When the principle says thinking is embodied, it means that exchange is part of what thinking is.
+Oppezzo and Schwartz's Experiment 1 found improved divergent-thinking scores during walking for 81% of participants, compared with improved convergent-thinking scores for 23%; these are results for particular tasks, not proof of enactivism ([2014 abstract](https://pubmed.ncbi.nlm.nih.gov/24749966/)).
 
-*For example:* In Experiment 1 of the Oppezzo and Schwartz walking studies, walking increased creativity scores for 81% of participants on an alternative-uses task, while increasing scores for only 23% on a convergent-thinking task; a later experiment found that walking outside produced the most novel and highest quality analogies (Oppezzo & Schwartz 2014, [abstract](https://pubmed.ncbi.nlm.nih.gov/24749966/)). The result shows bodily activity shaping cognitive performance on those tasks; it does not by itself establish the enactive theory.
+### Plain words
+
+For these authors, making sense of something involves a bodily engagement with it. As you act, what you notice guides your next movement. Their account includes this continuing relationship, along with the biological and cultural setting in which the activity takes place.
+
+### For example
+
+While learning a paper fold, notice how the paper responds to your hands and how that changes what you try next. After a few attempts, examine which adjustments helped and use them when practising again. This is my illustration of sensing and acting together, not an experiment that establishes the theory.
 
 ## Sources
 
 - [Varela, Thompson & Rosch, The Embodied Mind, chapter "Enaction: Embodied Cognition", publisher's chapter abstract, Oxford University Press](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399) — definition of "embodied"; enaction
 - [Oppezzo & Schwartz, "Give your ideas some legs: the positive effect of walking on creative thinking", JEP:LMC 40(4), 2014, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24749966/) — Experiment 1 GAU/CRA results; outdoor analogy experiment
+- [Lawrence Shapiro and Shannon Spaulding, Embodied Cognition, Stanford Encyclopedia of Philosophy, §§2.4 and 5.1](https://plato.stanford.edu/entries/embodied-cognition/): varieties of enactivism and the distinction between causes and constituents of cognition.
 
 ## Stories
 

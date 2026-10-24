@@ -57,3 +57,11 @@ are not certified by this body-level review.
 - Repair: removed the disconnected newcomer-greeting illustration and the vague “conduct one wants” sentence. Added attributed translation context and a personal reading of courage with consideration. The correction conversation is hypothetical, includes attention to consequences and review, and is identified as my illustration.
 - Saturation: `enrich_find.py mention Three Treasures` and Compassion were read; the concept already links D031. No additional reciprocal or graph edit.
 - Limits: no claim that compassion guarantees victory, protects someone from abuse, or is identical to a modern therapy. Culham's tentative classroom observations and his immortality interpretation are not used as empirical or historical facts.
+
+## P139: Cognition as embodied sense-making
+
+- Opened: [publisher's chapter 8 abstract](https://academic.oup.com/mit-press-scholarship-online/book/15075/chapter-abstract/169493399), [Oppezzo and Schwartz's PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24749966/), and [Shapiro and Spaulding, Embodied Cognition, SEP](https://plato.stanford.edu/entries/embodied-cognition/), extraction of §§2–2.4 and 5.1.
+- Evidence: retained quotation reproduces the publisher's abstract. The two enactive claims are stated there explicitly. SEP distinguishes bodily causation from constitution and identifies diverse enactive programmes. PubMed reports the 81% GAU and 23% CRA proportions; these are percentages of participants whose scores improved, not effect sizes or population-wide response rates.
+- Repair: scoped the principle to the authors' account instead of treating it as an agreed definition of thinking. Moved the empirical finding out of the practice-example role and added an explicitly author-designed, revisable paper-folding illustration. Preserved every existing source URL occurrence.
+- Saturation: existing Embodied cognition and Varela story links retained; no additional theory-equivalence link proposed.
+- Limits: only the publisher's abstract, not the full book chapter, was opened. The walking result does not establish enactivism, a general creativity benefit or any treatment effect. Personal practice is an illustration, not a test of the theory.
