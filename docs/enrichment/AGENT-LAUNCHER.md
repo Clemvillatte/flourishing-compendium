@@ -233,3 +233,31 @@ flourishing-compendium team (2026-10-22, supervisor session 4dafede5):
 The workers coordinate through the repo's baton system (`scripts/baton.py`) —
 the supervisor holds the supervisor baton and the workers take worker batons;
 no further coordination is needed after launch.
+
+## What the owner sends to a launcher agent (template)
+
+Everything the launcher needs is in this file and PROMPT-WORKER.md, so the
+owner's message can be short. Fill the bracketed parts.
+
+Path A (owner-provided email):
+
+    Launch a new worker agent for the team, Path A of the Agent Launcher
+    Protocol: clone the flourishing-compendium repo, read
+    docs/enrichment/AGENT-LAUNCHER.md fully (follow its Speed methodology
+    section), then launch.
+
+    - Email for the new account: [address]
+    - Session token (fill it into the worker prompt; it is never stored in
+      the repo): [github_pat_...]
+    - Worker prompt: docs/enrichment/PROMPT-WORKER.md, verbatim, with the
+      token filled in.
+    - I will read the 6-digit verification code from the inbox when you ask.
+    - After launch: record it in handoff.md and push.
+
+Path B (fully automated, smailpro temporary email): same message with
+"Path B" and no email line — the agent generates the mailbox itself and
+reads the code via the smailpro API.
+
+Note: if the launcher session already has the repo cloned with the token in
+the remote URL, the token line is optional — it can be extracted from the
+remote.
