@@ -12214,7 +12214,18 @@ function initGallery(){
 function initAcademy(){
   const btn = document.getElementById('tabAcademy');
   if(!btn) return;
-  btn.addEventListener('click', ()=>switchView('academy'));
+  btn.addEventListener('click', ()=>{
+    // Clicking [ACADEMY] again: a deep Academy page (degree, module,
+    // dossiers, dossier, gallery, explorer) returns to the Academy home;
+    // clicking again on the Academy home returns to the site home.
+    if (document.body.classList.contains('academy-mode')) {
+      const onHome = A.view === 'home' && !A.__gallery && !A.dossier;
+      if (!onHome) { A.__gallery = false; A.dossier = null; A.view = 'home'; renderAcademy(); return; }
+      switchView('rand');
+      return;
+    }
+    switchView('academy');
+  });
   // Expose
   window.fcAcademy = { openExplorer(){ switchView('academy'); A.view='sourceExplorer'; renderAcademy(); } };
 }
