@@ -256,3 +256,14 @@ disagreement section (Oaten & Cheng vs Miles et al., unresolved
 statement present and honest), the Practice and Story sections. No
 issues found; no changes made. The first person in the Practice
 section follows the exemplar format (anger.md, the-self.md).
+
+## Milestone QC round 3 addendum (same session, worker-pplx-dos18-1025a)
+
+Divergence wording bounded per reviewer: the heading drops "in small
+things" (Oaten & Cheng studied an exercise programme, not small
+exercises); "the capacity builds" is attributed to the authors'
+reading of their programme results rather than presented as an
+established mechanism. The section states a research dispute over an
+inference (general transfer from exercise programmes), not
+contradictory results under identical interventions. All quotes
+unchanged; checker exit 0 re-run.

@@ -435,3 +435,23 @@ mistaken view of how the world exists", found verbatim). Together with
 the MN 117 pass-20 probes, every quoted passage in the dossier now
 rests on a carrier opened and checked this session or on the previous
 sessions' recorded verifications.
+
+## Pass 21 addendum (same session, milestone QC round 3)
+
+Ledger closure for SN 12.15: the Kaccayanagotta Sutta quotes (the two
+extremes passage and the "no uncertainty or doubt" right-view test)
+were re-verified against a fresh fetch of the accesstoinsight
+Thanissaro page (SN 12.15); both passages found verbatim. SN 56.11
+tasks passage (dhammatalks.org) likewise re-verified verbatim.
+Candidate-search apparatus moved out of the public dossier into this
+ledger per milestone QC: "Until a text surfaces in which a tradition
+reads the early right view under this dissolution, the opposition
+stays uncertified" and "no beliefs-only advocate has been quoted" are
+status notes, not reading-path content. The divergence requirement
+remains PENDING SUPERVISOR REVIEW: none of the three contrasts (MN 117
+vs Diamond Sutra; convictions vs discernment; truths as tasks vs
+beliefs) is established as a grounded same-question disagreement; the
+next action recorded above stands. Public section renamed "Related
+questions and contrasts"; the opener's chronological-training claim
+("the root the path works on first") dropped and the long two-forms
+sentence split per the owner's readability bar.

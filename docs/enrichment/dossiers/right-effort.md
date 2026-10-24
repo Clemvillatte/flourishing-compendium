@@ -93,9 +93,9 @@ The theme comes in narrative form too:
 
 ## Where the research genuinely disagrees
 
-### Does practising self-control in small things strengthen the general capacity?
+### Does self-control practice strengthen a general capacity?
 
-The shared question: the Self-control training card holds both sides of it. Does the repeated practice of small self-control exercises build a general capacity, or does it only rehearse the exercises themselves? The exercise-programme study found that the capacity builds:
+The shared question: the Self-control training card holds both sides of it. Does the repeated practice of self-control exercises build a general capacity, or does it only rehearse the exercises themselves? The exercise-programme study was read by its authors as the capacity building:
 
 > "Relative to the control phase, participants who exercised showed significant improvement in self-regulatory capacity... The uptake and maintenance of an exercise programme over a 2-month period produced significant improvements in a wide range of regulatory behaviours." ([Oaten & Cheng 2006, British Journal of Health Psychology](https://pubmed.ncbi.nlm.nih.gov/17032494/))
 

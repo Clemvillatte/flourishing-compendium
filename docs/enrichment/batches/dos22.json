@@ -4,8 +4,8 @@
     {
       "slug": "right-livelihood",
       "worker": "worker-pplx-dos22-1025a (takeover of worker-pplx-dos22-1024h's completed dossier)",
-      "state": "publication: pending supervisor",
-      "verification": "takeover verification pass: all three external carriers re-opened as raw downloads and the dossier's quoted passages compared word-for-word (Vanijja Sutta AN 5.177 Thanissaro via accesstoinsight; Weber Protestant Ethic ch. III via marxists.org; Dewey Democracy and Education ch. 23 via standardebooks, both the dominant-vocation and the occupations-training quotes), all match; dossier_check exit 0 (60 card links, 14 headers, 3 external carriers); divergences already spot-checked PASS by supervisor QC entry 3",
+      "state": "carrier verification complete; substantive/divergence review pending",
+      "verification": "takeover verification pass: all three external carriers re-opened as raw downloads and the dossier's quoted passages compared word-for-word (Vanijja Sutta AN 5.177 Thanissaro via accesstoinsight; Weber Protestant Ethic ch. III via marxists.org; Dewey Democracy and Education ch. 23 via standardebooks, both the dominant-vocation and the occupations-training quotes), all match; dossier_check exit 0 (60 card links, 14 headers, 3 external carriers). Bounded claim: this session verified carriers and recorded state; the substantive/divergence review was NOT re-performed this session — it rests on supervisor QC entry 3 (958bd50, spot-check pass, 2026-10-24) and an unclaimed divergence requirement",
       "flags": [
         "Flagged for supervisor: publication pending; registry flip blocked on the art assignment for the twelve new planned dossiers (standing structural reason)",
         "Flagged for concept band: the Right livelihood concept card cites AN III.208 via Wikipedia; the ATI carrier is AN 5.177 (recorded in the dossier ledger, open points)"

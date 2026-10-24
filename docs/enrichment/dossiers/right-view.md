@@ -2,9 +2,9 @@
 
 > What is it to see rightly, and what does that seeing do to a life?
 
-Right view stands first among the eight factors, and the Mahācattārīsaka Sutta calls it the forerunner: in one of right view, wrong view is abolished, and the skillful and unskillful qualities that follow track how the seeing was done. The discourse grades the view in two forms, an everyday set of convictions, there is what is given, offered and sacrificed, fruits and results of good and bad actions, this world and the next, and a transcendent discernment, noble and without effluents, that counts as a factor of the path.
+Right view stands first among the eight factors, and the Mahācattārīsaka Sutta calls it the forerunner: in one of right view, wrong view is abolished, and the skillful and unskillful qualities that follow track how the seeing was done. The discourse grades the view in two forms. The everyday form is a set of convictions: that there is what is given, offered and sacrificed, that there are fruits and results of good and bad actions, that there is this world and the next. The transcendent form is a discernment, noble and without effluents, that counts as a factor of the path.
 
-The stakes are ordinary. What a person takes to be real governs what they choose, which makes wrong seeing not a private error but the root the path works on first.
+The stakes are ordinary. What a person takes to be real governs what they choose, which makes wrong seeing a matter of conduct and its consequences, not a private error.
 
 ## Nearby terms
 
@@ -107,9 +107,9 @@ The same dependence has a saying of its own: [Right action serves right view](ht
 
 [The view from above](https://clemvillatte.github.io/flourishing-compendium/#card=The%20view%20from%20above): the Stoic exercise of picturing human affairs from a great height until their scale changes; Marcus Aurelius's herds and solemnities seen from above.
 
-## Where the traditions genuinely disagree
+## Related questions and contrasts
 
-No same-question disagreement between traditions is yet grounded on this theme; the candidates below are open research questions, each missing either a quoted opposing position or the demonstration that the two positions answer the same question.
+The theme raises contrasts between traditions; none is yet established as a grounded same-question disagreement, and the candidate search status is tracked in the theme ledger.
 
 ### Is the work with views a cultivation or a non-establishment?
 
@@ -123,7 +123,7 @@ The Mahāyāna passage that grounds the candidate instructs knowing and viewing 
 
 The Stanford Encyclopedia frames the Madhyamaka move as a corrective rather than a new position, which is context for the comparison, not one of its poles: emptiness is "not some kind of primordial reality ante rem but a corrective to a mistaken view of how the world exists" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)).
 
-Whether this is a disagreement at all is what remains unresolved: MN 117 affirms a view whose holding culminates skillful qualities; the Diamond Sutra instructs knowing and viewing dharmas while not setting up the perception of a dharma. The Diamond Sutra's own wording both directs the viewing and dissolves the view's reification, so the two texts may be levels of one training, a view held for cultivation but not clung to, or genuinely opposed stances toward views. Until a text surfaces in which a tradition reads the early right view under this dissolution, the opposition stays uncertified.
+Whether this is a disagreement at all is what remains unresolved: MN 117 affirms a view whose holding culminates skillful qualities; the Diamond Sutra instructs knowing and viewing dharmas while not setting up the perception of a dharma. The Diamond Sutra's own wording both directs the viewing and dissolves the view's reification, so the two texts may be levels of one training, a view held for cultivation but not clung to, or genuinely opposed stances toward views.
 
 ### Is the view a set of convictions or a direct discernment?
 
@@ -135,7 +135,7 @@ The sutta's own presentation assigns each truth a task:
 
 > "This noble truth of stress is to be comprehended... This noble truth of the origination of stress is to be abandoned... This noble truth of the cessation of stress is to be realized... This noble truth of the way of practice leading to the cessation of stress is to be developed." ([SN 56.11, Thanissaro translation](https://www.dhammatalks.org/suttas/SN/SN56_11.html)).
 
-The propositional reading exists in summary sources, but no beliefs-only advocate has been quoted; the tasks-not-beliefs principle is an editorial reading of the verbs, not a settled scholarly classification.
+The propositional reading exists in summary sources; the tasks-not-beliefs principle is an editorial reading of the verbs, not a settled scholarly classification.
 
 ## Practice: variation, selection, retention
 
