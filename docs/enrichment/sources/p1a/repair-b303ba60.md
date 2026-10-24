@@ -139,3 +139,11 @@ are not certified by this body-level review.
 - Repair: retained the actual providential premise instead of silently secularizing it. Added the social-action qualification and made the hypothetical promotion response include feedback, fair questioning and review. A modern acknowledgment exercise is explicitly a separate application whose argument differs if providence is set aside.
 - Saturation: existing acceptance, Zhuangzi and Laozi links retained as comparisons rather than identical cosmologies. No graph addition.
 - Limits: no declaration that any particular unfair decision or abuse was morally right, no prohibition on seeking remedies, and no expectation that disappointment immediately vanishes.
+
+## S011: The three disciplines
+
+- Opened: [Discourses III, Internet Classics Archive](https://classics.mit.edu/Epictetus/discourses.3.three.html), especially complete chapter 2 and the beginning of chapter 3; [Graver, Epictetus](https://plato.stanford.edu/entries/epictetus/), previously opened discussion of training.
+- Evidence: retained opening quotation matches III.2. The priority, technical-specialization criticism, family/civic duties and brief statue quotation all occur in the same chapter. The modern exercise is not presented as Epictetus's sequence of instructions.
+- Repair: made ongoing practice and relational duty visible, without adding a therapy-equivalence claim. Plain words explains the three connected aspects; the late-colleague example includes checking assumptions, considerate action and later review.
+- Saturation: The three disciplines concept was read; added its exact link. That page already links S011 both by ID and full title, so the reciprocal is present and no proposal is required.
+- Limits: no claim that reflection guarantees freedom from emotion, that grief is morally blameworthy or that this exercise replaces the larger Stoic curriculum.

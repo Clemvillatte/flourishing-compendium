@@ -17,11 +17,25 @@ Epictetus writes:
 > "There are three things in which a man ought to exercise himself who would be wise and good."
 > (Disc. III.2, [Internet Classics Archive text](https://classics.mit.edu/Epictetus/discourses.3.three.html))
 
-The first area concerns desire and aversion. The second concerns doing what one ought, in an orderly and reasoned way. The third concerns avoiding deception and rash judgement when giving assent. Epictetus gives priority to the affects, which he links to frustrated desire and encountering what one wants to avoid. As a practical exercise, use these areas as questions to bring to the same situation. (Disc. III.2.)
+The first area concerns desire and aversion; the second, appropriate action; the third, avoiding deception and rash judgement when giving assent ([Disc. III.2](https://classics.mit.edu/Epictetus/discourses.3.three.html)). Epictetus gives priority to the affects, which he links to frustrated desire and encountering what one wants to avoid; he criticizes students who pursue technical arguments while neglecting their desires and duties ([III.2](https://classics.mit.edu/Epictetus/discourses.3.three.html)).
 
-**Plain words** Wanting an apology leaves other questions unanswered: how should you speak to the person, and have you understood what happened? The three disciplines ask you to examine what you want, consider an appropriate action, and check what you are accepting as true. You may need all three questions.
+His account of duty includes maintaining family and civic relations: "I ought not to be free from affects like a statue" ([III.2](https://classics.mit.edu/Epictetus/discourses.3.three.html)). I take the three areas as recurring subjects of practice, with care for others included in the work.
 
-*For example:* Suppose a colleague arrives late. Examine what you expected from them, decide how to handle the delay, and check the evidence before concluding that they intended an insult.
+### Plain words
+
+What you want, what you do and what you accept as true are connected but different. Wanting an apology leaves questions about how to speak to the person and whether you have understood what happened. Attention to one part of the situation need not settle the other two.
+
+### For example
+
+Suppose a colleague arrives late. Notice what you expected, check what happened before assuming an insult, and decide how to handle the delay considerately. Afterwards, review the expectation, the judgment and your action. Use that review when another delay occurs. This is my application of the three areas, not a fixed sequence prescribed by Epictetus.
+
+## Related concepts
+
+- [[The three disciplines]]: the concept page develops Epictetus's curriculum and Hadot's interpretation.
+
+## Sources
+
+- [Epictetus, Discourses III.2, Internet Classics Archive](https://classics.mit.edu/Epictetus/discourses.3.three.html): the three areas, their priority, duties and criticism of premature technical specialization.
 
 ## Stories
 
