@@ -80,3 +80,7 @@ narratives and angles; both pairs satisfy the taskboard's distinct-angle convent
 - s1b-038 Kwang-dze Refuses the Grand Burial (D192 die well by having lived aligned, zero stories): ch. 32 deathbed anecdote, Legge translation as quoted in his Texts of Taoism introduction on the opened 100jia.net page; quotes verified verbatim; one advisor round (authorship/lifetime claims removed, quoted location corrected to the introduction). Partial-angle: acceptance at death; lifelong alignment not claimed. READY. Chapter suggestion: ST-S05.03.
 - Bian Que three-brothers story (D060/D061) considered and rejected: already published as ST436 (D061, s1a-030).
 - Quote spot-checks against saved session fetch outputs passed for s1b-034 (Hakuin), s1b-035 (Fan Li), s1b-037 (Shuoyuan Chinese), s1b-038 (Legge deathbed).
+
+## FLAG FOR SUPERVISOR (T+45, raised by s1b teller)
+
+- DUPLICATE STORY PAGE ON ORIGIN/MAIN: content/stories contains TWO ST488 files — "ST488 — 35. The Painter Who Kept the Water Still.md" (old, draft-number-prefixed title) and "ST488 — The Painter Who Kept the Water Still.md" (the fix in 1fcdc6c23 renamed the file but the old copy still exists). The structure book and the D041 backlink still reference the OLD prefixed title; _order.json references only the NEW filename. Needs: delete the old-prefixed file, update the D041 backlink and the structure book entry to the new title. Not touched by s1b (s1a band).
