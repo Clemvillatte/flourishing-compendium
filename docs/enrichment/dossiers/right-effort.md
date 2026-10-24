@@ -91,6 +91,22 @@ The theme comes in narrative form too:
 
 [ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya asks three times to practise in a mango grove that looks ideal, and alone beneath the tree is troubled by thoughts of sensuality, ill will and harm; wanting to exert oneself is not yet knowing what to cultivate.
 
+## Where the research genuinely disagrees
+
+### Does practising self-control in small things strengthen the general capacity?
+
+The shared question: the Self-control training card holds both sides of it. Does the repeated practice of small self-control exercises build a general capacity, or does it only rehearse the exercises themselves? The exercise-programme study found that the capacity builds:
+
+> "Relative to the control phase, participants who exercised showed significant improvement in self-regulatory capacity... The uptake and maintenance of an exercise programme over a 2-month period produced significant improvements in a wide range of regulatory behaviours." ([Oaten & Cheng 2006, British Journal of Health Psychology](https://pubmed.ncbi.nlm.nih.gov/17032494/))
+
+The six-week training study, built with active control conditions and real-world measures to answer the same question, found nothing to strengthen:
+
+> "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control... The implication is that training self-control through repeated practice does not result in generalized improvements in self-control." ([Miles et al. 2016, Journal of Experimental Psychology: General](https://eprints.whiterose.ac.uk/id/eprint/107549/))
+
+The disagreement turns on method: the earlier gains came against passive control phases, and the later study was designed to rule exactly that out. The meta-analysis that followed lands between the two, a small-to-medium effect of g = 0.30 that shrinks under bias correction and grows with inactive controls ([Friese et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28846503/)). What remains unresolved is whether some forms of practice, a maintained exercise programme against small laboratory tasks, build something the others do not; the mechanisms are still poorly understood.
+
+For the four directions of the path factor, nothing here changes the aiming. What the disagreement questions is the hope of a general capacity built by rehearsal.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the undifferentiated push: effort aimed at everything at once and therefore at nothing, the over-aroused persistence that arrives as restlessness, the slack persistence that arrives as its own diagnosis, and the effort held at full pitch through seasons that call for a lower one. The adaptive direction is the aiming and the tuning: the four directions picked one at a time, the pitch checked against restlessness and laziness rather than against the calendar, and the effort sized to the season the body is actually in.

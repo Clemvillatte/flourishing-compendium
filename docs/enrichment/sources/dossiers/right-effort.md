@@ -147,6 +147,49 @@ persistence, Sona Sutta, and the effort/energy/persistence/grit family.
   quoted, per the card's own note that it is illustrative, not
   reported.
 
+## Revision 8 (takeover session, worker-pplx-dos23-1025a)
+
+The divergence requirement is CLOSED with a verified genuine
+disagreement, after one rejected attempt recorded below.
+
+Rejected attempt: a grit divergence (Duckworth 2007 vs Credé 2017,
+both abstracts opened via NCBI eutils raw text) was drafted and
+rejected in advisor QC as two compatible scopes: Credé's rejection of
+the higher-order structure does not deny Duckworth's incremental
+predictive validity claim, and the Credé abstract itself concedes the
+perseverance facet's incremental validity. The section was replaced;
+the two carriers remain opened and recorded here in case a future
+revision needs them (PMIDs 17547490, 27845531).
+
+Accepted divergence: "Where the research genuinely disagrees", shared
+question, does the repeated practice of small self-control exercises
+build a general capacity. Position A, Oaten & Cheng 2006 (Br J Health
+Psychol 11.4:717-33, PMID 17032494), raw abstract via eutils, quoted:
+"Relative to the control phase, participants who exercised showed
+significant improvement in self-regulatory capacity..." and the
+Conclusions sentence "The uptake and maintenance of an exercise
+programme over a 2-month period produced significant improvements
+in a wide range of regulatory behaviours.", both verbatim against the
+raw download, ellipsis marked. Position B, Miles et al. 2016 (J Exp
+Psychol Gen 145.8:1075-1091, doi 10.1037/xge0000185), quoted from
+the accepted manuscript PDF at White Rose Research Online (pdftotext,
+raw download, cover-page notice that it is the accepted version, not
+the copy of record): "Despite high levels of adherence to the
+training tasks, there was no effect of training on any measure of
+self-control..." and "The implication is that training self-control
+through repeated practice does not result in generalized improvements
+in self-control.", both verbatim against the extracted text. The
+closing paragraph's meta-analysis claim is from Friese et al. 2017
+(Perspect Psychol Sci 12.6:1077-1099, PMID 28846503), opened via
+eutils raw: g = 0.30, CI95 [0.17, 0.42], bias-corrected range .13 to
+.24, larger effects with inactive controls, mechanisms poorly
+understood. All three carriers were opened as raw text this session
+and the quotes compared word-for-word against the downloads. This
+passes the same-question bar: each study affirms or denies the same
+proposition about whether repeated practice builds a general
+self-control capacity. Publication now rests with the supervisor; the
+registry flip and the art assignment remain supervisor-only.
+
 ## Open points for a revision pass
 
 - The Sona Sutta page's bracketed glosses: resolved in revision 2; the
