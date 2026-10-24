@@ -5,13 +5,16 @@ Verification record for docs/enrichment/dossiers/cognition.md, revision 1.
 ## Method
 
 - Map construction: the dos3 manifest's title sweep (40 concept files,
-  10 kernels, 40 principles) plus five stragglers added on reading (System 1
+  10 kernels, 40 principles) plus five stragglers added on reading (these from the manifest's own
+  inventory) (System 1
   and System 2, Rumination, Metacognition, Affect heuristic, Wise
   reasoning — all core to the registry scope "thinking styles, reasoning,
   belief formation, the limits of reason", all carrying CO-principle
   citations), followed by a full-text body sweep of the concept cards:
-  every unmapped card with eight or more occurrences of cognition-domain
-  terms was screened (92 candidates), and 20 added on reading (Dual-process
+  a keyword-count threshold (eight or more occurrences of cognition-domain
+  terms) surfaced 92 candidates; the top 20 by term count were reviewed
+  and 20 added on reading; the remaining 72 were not individually
+  reviewed - coverage incomplete, flagged for the supervisor (Dual-process
   theory; Situated cognition theory; Enactivism; Holding as hypothesis;
   Implicit theories of intelligence; Motivated reasoning; Metacognitive
   model of anxiety and depression (Wells); Worry theory cognitive

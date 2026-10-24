@@ -15,7 +15,8 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 2.
   left out as a motivation rather than affect entry; these exclusions are
   editorial boundary calls recorded here. The screen was a title search
   over the concept files, followed by a body sweep of the concept
-  cards' opening claims: 16 candidates screened, 11 added on reading
+  cards' opening claims: 16 candidates surfaced and reviewed, 11 added on
+  reading
   (Appraisal theory; Benign envy; Malicious envy; Guilt motivates
   reparative behaviour; Reinforcement-Affect Theory; State-matched emotion
   regulation; Compassion-focused therapy; Pre-commitment as wisdom; The
@@ -26,8 +27,10 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 2.
   a virtue-theory card. A full-text sweep of every card body remains
   undone - a recorded limit.
 - A second, full-text sweep was then run over the concept cards' bodies:
-  every unmapped card with eight or more occurrences of affect-domain
-  terms was screened (76 candidates), and 11 added on reading
+  a keyword-count threshold (eight or more occurrences of affect-domain
+  terms) surfaced 76 candidates; the top 20 by term count were reviewed
+  and 11 added on reading; the remaining 56 were not individually
+  reviewed - coverage incomplete, flagged for the supervisor
   (Broaden-and-build; Emodiversity theory; Pleasure-Arousal-Dominance
   Model; Somatic marker hypothesis (Damasio); Expressive suppression
   versus reappraisal; Reappraisal's effectiveness depends on separating

@@ -309,4 +309,4 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 [ST023 — Simone Weil on Attention](https://clemvillatte.github.io/flourishing-compendium/#card=ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil, working through war and illness, writes that attention is the rarest and purest form of generosity; her essay on school studies argues the attention given a lesson is the attention given a person.
 
-[ST432 — Jim Forest Washes the Dishes](https://clemvillatte.github.io/flourishing-compendium/#card=ST432%20%E2%80%94%20Jim%20Forest%20Washes%20the%20Dishes): Thich Nhat Hanh's dishwashing: wash the dishes to wash the dishes — the bowl of warm water, the first sip of tea taken in the same way — attention as the whole of the ordinary task.
+[ST432 — Jim Forest Washes the Dishes](https://clemvillatte.github.io/flourishing-compendium/#card=ST432%20%E2%80%94%20Jim%20Forest%20Washes%20the%20Dishes): one evening Forest offers to wash the dishes, and Nhat Hanh answers: there are two ways to wash the dishes — the first to have clean dishes, the second to wash the dishes in order to wash the dishes.

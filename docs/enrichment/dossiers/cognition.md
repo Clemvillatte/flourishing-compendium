@@ -233,7 +233,7 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 ### Thinking that hurts
 
-[ST154 — John Nash and the Delusion's Signature](https://clemvillatte.github.io/flourishing-compendium/#card=ST154%20%E2%80%94%20John%20Nash%20and%20the%20Delusion%27s%20Signature): the film renders Nash's hallucinations as fully realised characters — a roommate, a government agent — and the story belongs to his learning their signature: they never age.
+[ST154 — John Nash and the Delusion's Signature](https://clemvillatte.github.io/flourishing-compendium/#card=ST154%20%E2%80%94%20John%20Nash%20and%20the%20Delusion%27s%20Signature): the film renders Nash's hallucinations as fully realised characters — a roommate, a government agent, a child — and his solution is diagnostic: the little girl never ages, therefore she is not real; he returns to teaching, and to the hallucinations, as permanent companions.
 
 [ST155 — Meno's Paradox](https://clemvillatte.github.io/flourishing-compendium/#card=ST155%20%E2%80%94%20Meno%27s%20Paradox): the inquiry hits a wall: how will you look for virtue if you do not know what it is, and if you know what you are looking for, why look?
 
