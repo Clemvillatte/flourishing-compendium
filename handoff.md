@@ -51,9 +51,11 @@ owner's hand-written `.dossier-h2` visual change (italic 18px/800
 and a standards pass over it: heading-hierarchy margin fixed, real
 italic-800 Source Serif 4 faces embedded (the old face was
 normal-only 400-600, so italic 800 would have rendered faux); the
-contrast of #D43745 (3.99:1 dark / 4.2:1 light) is flagged in the
-GF ledger pass 18 — a 19px size or darker red would clear WCAG AA
-unambiguously; the owner has not been asked which they prefer.
+contrast of #D43745 (3.86:1 dark / 4.31:1 light vs the real theme
+backgrounds) failed AA at the owner's 18px bold, so the size was
+raised to 19px (large-text class, 3:1 threshold, passes both themes);
+the owner's color and weight were kept and the owner has not been
+asked whether they prefer their exact 18px over compliance.
 Recommended owner reading order: the
 classical, psychology and social-conditions sections — they expose the
 exact problem the owner raised. Process notes in the ledger:
