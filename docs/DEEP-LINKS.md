@@ -43,6 +43,10 @@ The same idea now covers the views, not just the cards:
 #practice=<id>  A degree page scrolled to its guided practice sessions
 #module=<id>    An Academy module page, e.g. #module=mod-cmp-1
 #explorer       Source explorer (More videos)
+#view=dossiers  Dossiers index (the DOSSIERS page)
+#dossier=<id>   A dossier page, e.g. #dossier=affect (the id is the
+               registry slug: affect, cognition, attention,
+               genuine-flourishing, the-self, anger, wisdom, ...)
 ```
 
 Opening any of these addresses lands on that page. While you browse, the
@@ -62,3 +66,17 @@ breaks. The Randomiser now carries its own address while it is open.
   default view, nothing breaks.
 - This removes the old limitation recorded in docs/MOBILE-HANDOFF.md and
   docs/DEGREE-CMP-HANDOFF-3.md (the app previously had no URL routing).
+
+## Dossiers (owner feature, 2026-10-24)
+
+Every dossier has its own address, and so does the Dossiers index page:
+
+```
+https://clemvillatte.github.io/flourishing-compendium/#view=dossiers
+https://clemvillatte.github.io/flourishing-compendium/#dossier=affect
+```
+
+The id is the registry slug. Opening the address lands the reader on
+that dossier page directly, and the address bar keeps the address while
+the dossier is open, so it can be copied from the browser like any
+page. An unknown id leaves the site on its default view, nothing breaks.
