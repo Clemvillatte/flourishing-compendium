@@ -7288,7 +7288,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
@@ -7300,7 +7300,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why): the story the wiki keeps of the motto working in a life, paired by the story's own tags with meaning-happiness distinctions and purpose-as-direction."
+          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why): Frankl's camps memoir argues the will to meaning is the primary human motivation, and carries the famous line that he who has a why to live can bear almost any how: meaning does not remove suffering, it changes the relation to it."
         },
         {
           "t": "h2",
