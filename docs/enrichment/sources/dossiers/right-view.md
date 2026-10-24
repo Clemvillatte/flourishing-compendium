@@ -111,3 +111,26 @@ K134 (its evidence: Lord, Lepper & Preston 1984, consider-the-opposite).
    record (extraction-checked). NOT re-verified this session: the K218
    card's "12 of 46 participants asked anything at all" count (a different
    experiment in the same paper; the fetched excerpt does not carry it).
+
+## Divergence carriers (pass 6, 2026-10-24)
+
+7. Diamond Sutra section 31, Conze rendering, full text at
+   http://www.nyx.net/~dbachman/texts/Diamond.txt — RAW-VERIFIED (unprompted
+   curl, substring check): "That which has been taught by the Tathagata as
+   'view of self', as a no-view has that been taught by the Tathagata."
+   The British Library IDP panel translation was fetched and
+   extraction-checked (the same passage in a different rendering); the IDP
+   page does not raw-verify under curl (JS-rendered), so the Conze carrier
+   is the quoted one.
+
+8. SEP, Nāgārjuna entry, https://plato.stanford.edu/entries/nagarjuna/ —
+   RAW-VERIFIED (unprompted curl): "not some kind of primordial reality
+   ante rem but a corrective to a mistaken view of how the world exists"
+   and "the Mādhyamikas themselves are very clear that their position
+   avoids both of the extreme views, the view that believes in the
+   existence of svabhāva as well as its nihilistic opposite".
+
+The dossier now carries one grounded divergence (early-texts affirmation of
+right view vs the Diamond Sutra/Madhyamaka dissolution of views) plus two
+honestly-marked open research questions. Seven source URLs total behind the
+ten external carrier occurrences.

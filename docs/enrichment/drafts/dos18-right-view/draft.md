@@ -85,9 +85,48 @@ The modern cards in this subtheme are editorial connections the compendium draws
 
 [Right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view) (in the compendium section): the attentional-bias principles file their Buddhist parallel under the coloured lens and right view: anxiety and depression distort what you notice, threat captures attention, negative bias and rumination narrow it.
 
+### Views held lightly
+
+[The four views](https://clemvillatte.github.io/flourishing-compendium/#card=The%20four%20views): the Diamond Sutra's four ways a mind reifies itself, views of a self, a person, a being and a life, usable coordinates that become toxic when mistaken for the territory.
+
+[Shunyata](https://clemvillatte.github.io/flourishing-compendium/#card=Shunyata): the Madhyamaka doctrine that all phenomena lack inherent existence; emptiness is always the emptiness of something, and is itself empty.
+
+[Buddhist emptiness of inherent nature](https://clemvillatte.github.io/flourishing-compendium/#card=Buddhist%20emptiness%20of%20inherent%20nature): the claim that no phenomenon possesses svabhāva, a nature it has independently; the rejected svabhāva is a superimposition projected onto objects, a cognitive default.
+
+[The emptiness of emptiness](https://clemvillatte.github.io/flourishing-compendium/#card=The%20emptiness%20of%20emptiness): Nagarjuna's chapter thirteen turning the analysis on its own central term; the empty is defined only against the non-empty, so emptiness cannot stand as an independent metaphysical item.
+
+[Ends-in-view](https://clemvillatte.github.io/flourishing-compendium/#card=Ends-in-view): Dewey's name for the foreseen consequence that guides present action; an end belongs inside activity as a tool for directing it, not outside it as a fixed destination.
+
+[Fixed views of self](https://clemvillatte.github.io/flourishing-compendium/#card=Fixed%20views%20of%20self): the belief that who you are is a set quantity; Dweck's and Crocker's research lines and the fragility prediction, with its failed-premises tests honestly recorded.
+
+[Partial truths in every opinion](https://clemvillatte.github.io/flourishing-compendium/#card=Partial%20truths%20in%20every%20opinion): Mill's argument that a prevailing opinion usually holds part of the truth and the missing part sits in the opinion it opposes.
+
+[Steelmanning the opposing view](https://clemvillatte.github.io/flourishing-compendium/#card=Steelmanning%20the%20opposing%20view): the practice of addressing the strongest form of the other person's argument, with Mill's ground that knowing only one's own side of the case is knowing little of that.
+
+[The view from above](https://clemvillatte.github.io/flourishing-compendium/#card=The%20view%20from%20above): the Stoic exercise of picturing human affairs from a great height until their scale changes; Marcus Aurelius's herds and solemnities seen from above.
+
 ## Where the traditions genuinely disagree
 
-Divergence research is open on this theme. Neither candidate below yet meets the bar the format asks, a same-question disagreement with each position quoted from an opened carrier; they are recorded as open questions the next pass must either ground or drop.
+### Should the training affirm a view or dissolve the views?
+
+Both positions answer the same question: what work does a view do in the training? The early discourses answer by affirming a view to be held and trusted as forerunner:
+
+> "Of those, right view is the forerunner. And how is right view the forerunner? In one of right view, wrong view is abolished. The many evil, unskillful qualities that come into play with wrong view as their condition are also abolished, while the many skillful qualities that have right view as their condition go to the culmination of their development." ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html)): Primary text; quoted passages checked.
+
+The Mahāyāna answer dissolves the views themselves, and applies the dissolution to the Buddha's own words:
+
+> "That which has been taught by the Tathagata as 'view of self', as a no-view has that been taught by the Tathagata. Therefore is it called 'view of self'." ([Diamond Sutra, section 31, Conze rendering, full text](http://www.nyx.net/~dbachman/texts/Diamond.txt)): Primary text; quoted passages checked.
+
+The Madhyamaka framing of the same move, as the Stanford Encyclopedia summarizes it: emptiness is "not some kind of primordial reality ante rem but a corrective to a mistaken view of how the world exists", and "the Mādhyamikas themselves are very clear that their position avoids both of the extreme views, the view that believes in the existence of svabhāva as well as its nihilistic opposite" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)): Scholarly interpretation; cited passages checked.
+
+What remains unresolved is whether the later move dissolves the early tradition's right view too, or whether the two operate at different levels, convictions for conduct and emptiness for reification; the Diamond Sutra applies its dissolution to the Buddha's own teaching, and the compendium holds both without adjudicating.
+
+### Open research questions
+
+Two further candidates do not yet meet the bar, a same-question disagreement with each position quoted from an opened carrier:
+
+- Is the view a set of convictions or a direct discernment? MN 117 presents the two forms within one discourse, a grading rather than a disagreement between traditions; no carrier taking the convictions-alone position has been opened.
+- Are the truths tasks or beliefs? The sutta's verbs are quoted above; no carrier advocating a beliefs-only reading has been opened, and the compendium's tasks-not-beliefs principle is an editorial reading of the verbs.
 
 ### Is the view a set of convictions or a direct discernment?
 
