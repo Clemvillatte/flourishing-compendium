@@ -136,12 +136,14 @@ Supporting cards (read in full: Acceptance, Radical acceptance):
   action; Stoic and Buddhist parallels marked on the card
 - [Radical acceptance](../../../content/concepts/Radical%20acceptance.md) — the
   feeling-as-wave skill, the ACT-for-anger and tolerance-oriented research with carriers
-- [Amor fati](../../../content/concepts/Amor%20fati.md) (opened in part)
+- [Amor fati](../../../content/concepts/Amor%20fati.md) (read in full: the Ecce
+  Homo formula for greatness, and the card's reading of it as a radicalisation of
+  Stoic acceptance)
 - [Experiential avoidance theory](../../../content/concepts/Experiential%20avoidance%20theory.md)
   (read in full: the Hayes et al. 1996 founding definition and the short-term
   relief, long-term worsening sentence, with the Frontiers carrier on the card)
-- [Action commitment](../../../content/concepts/Action%20commitment.md) (opened in
-  part)
+- [Action commitment](../../../content/concepts/Action%20commitment.md) (read in
+  full: the values-versus-goals contrast inside the ACT six-process model)
 - [Chronic pain acceptance](../../../content/concepts/Chronic%20pain%20acceptance.md)
   (read in full: the McCracken and Vowles definition — engagement in activity with
   pain present, without restrictions or avoidance attempts — and the predictive
@@ -196,11 +198,15 @@ Supporting cards (read in full: The dizziness of freedom, Escape from freedom):
   [Psychological reactance](../../../content/concepts/Psychological%20reactance.md)
   (read in full: the Brehm definition and the boomerang effect with the Frontiers
   carrier),
-  [Situated freedom](../../../content/concepts/Situated%20freedom.md),
-  [Anguish (angoisse)](../../../content/concepts/Anguish%20%28angoisse%29.md),
-  [Second-order desires](../../../content/concepts/Second-order%20desires.md),
+  [Situated freedom](../../../content/concepts/Situated%20freedom.md) (read in full:
+  the Sartre–Merleau-Ponty exchange on freedom-in-situation, with the Helsinki
+  thesis carrier),
+  [Anguish (angoisse)](../../../content/concepts/Anguish%20%28angoisse%29.md) (read
+  in full: the anguish-versus-fear distinction from Being and Nothingness),
+  [Second-order desires](../../../content/concepts/Second-order%20desires.md) (read
+  in full: Frankfurt's 1971 volitions and the figure of the wanton),
   [Natural liberty versus the chains](../../../content/concepts/Natural%20liberty%20versus%20the%20chains.md)
-  (opened in part)
+  (read in full: Rousseau's three liberties from the Social Contract)
 - story [ST273 The Dizziness of Freedom](../../../content/stories/ST273%20%E2%80%94%20The%20Dizziness%20of%20Freedom.md)
   and kernel [K315 Freedom in constraint](../../../content/kernels/K315%20%E2%80%94%20Freedom%20in%20constraint.md)
   (both read)
@@ -248,9 +254,13 @@ Supporting cards (read in full: Nature exposure, Ecological self):
   limits note),
   [Ecological grief](../../../content/concepts/Ecological%20grief.md) (read in
   full: the Cunsolo and Ellis definition with the solastalgia boundary),
-  [Nature connectedness](../../../content/concepts/Nature%20connectedness.md),
-  [Ecological gratitude](../../../content/concepts/Ecological%20gratitude.md),
-  [Deep ecology](../../../content/concepts/Deep%20ecology.md) (opened in part)
+  [Nature connectedness](../../../content/concepts/Nature%20connectedness.md) (read
+  in full: the Mayer and Frantz scale with the Capaldi meta-analysis),
+  [Ecological gratitude](../../../content/concepts/Ecological%20gratitude.md) (read
+  in full: the Mayer and Frantz correction and the Chen et al. 2022 experiment, with
+  the study's own limits recorded on the card),
+  [Deep ecology](../../../content/concepts/Deep%20ecology.md) (read in full: the
+  shallow-versus-deep contrast and the biospheric-egalitarianism modification)
 - story [ST345 The Army Enlisted Against Nature](../../../content/stories/ST345%20%E2%80%94%20The%20Army%20Enlisted%20Against%20Nature.md)
   and kernels [K205 Nature exposure](../../../content/kernels/K205%20%E2%80%94%20Nature%20exposure.md),
   [K303 Sensory nature immersion](../../../content/kernels/K303%20%E2%80%94%20Sensory%20nature%20immersion.md)
