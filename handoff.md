@@ -16,8 +16,8 @@ ledger. This correction overrides the older quote-heavy reader format.
 - Supervisor baton claimed and pushed. No separate worker band held.
 - Main was missing the WORK ORDER. Recovered the four-file insurance
   branch `session-handoff-1024` by fast-forward; that state is now on main.
-- Latest pushed content checkpoint before this save: `007cf404`.
-  Candidate passes 1–12 cover the full synthesis and disagreement
+- Latest pushed checkpoint before this save: `133ac2b9`.
+  Candidate passes 1–13 cover the full synthesis and disagreement
   sections plus practice paths. All 147 original card occurrences
   retained. Headings now 33; checker
   passes. Opening wording preserved, public evidence-status labels removed.
@@ -29,10 +29,12 @@ ledger. This correction overrides the older quote-heavy reader format.
   reviewed first item: scoped pass with corrections (applied: core
   projects, positive emotions, Ryan/Deci wording, separate flow/vital
   engagement sources, first-person judgment). Later passes still need QC.
-- EXACT NEXT ACTION: verify story loglines, then final humanizer/QC/render
-  pass. ST195 is a source conflation, already repaired in the synthesis;
-  gallery line still needs repair. Advisor is checking the other story
-  carriers. Practices now grouped into four reader questions; V–S–R kept.
+- EXACT NEXT ACTION: independent final QC, final humanizer and render
+  pass. All22 gallery lines repaired against fetched carriers. ST195
+  is a source conflation repaired in synthesis; it is NOT in gallery.
+  Advisor checking final diff. Underlying-card defects listed in ledger,
+  not edited across worker bands. Practices grouped into four reader
+  questions; V–S–R kept.
   Preserve links,
   do not homogenise disagreements, do not modify the opening.
 - Advisor caveats to preserve: Diener/Seligman = correlational study of

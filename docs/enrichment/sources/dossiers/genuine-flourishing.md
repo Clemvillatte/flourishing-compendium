@@ -639,3 +639,57 @@ K322 cites Ersner-Hershfield et al. with causal direction unspecified,
 and K186 chain practice has anecdotal rather than trial origin. No
 effectiveness or causal promise substituted. Source limitations remain
 on the underlying cards and in this ledger. V–S–R structure retained.
+
+### Candidate pass 13: gallery factual repair
+
+All22 gallery card occurrences retained, IDs removed from public labels,
+subheads distinct from synthesis headings. Independent advisor flagged
+ten defects. Main re-fetched carriers and caught two overclaims in the
+proposed corrections. Applied limits:
+
+- Heracles source ends on Virtue's speech, no choice narrated:
+  https://www.gutenberg.org/files/1177/1177-h/1177-h.htm .
+- Positivity MODEL withdrawn, not whole paper or all positive-emotion
+  findings confirmed; no "outside field" claim:
+  https://www.apa.org/monitor/2013/12/model-emotions .
+- Mandela13 quarry years, glare/dust pain and difficulty seeing, NOT
+  a permanent-injury diagnosis from this chapter:
+  https://archives.obs-us.com/obs/english/books/Mandela/achap64.html .
+- Mandela INVITED3 white warders, explicitly unsure all arrived, NOT
+  "seated three"/all attended:
+  https://www.upi.com/Archives/1994/05/10/Mandela-praises-compassionate-jailers/4493768542400/ .
+- Ivan exact quote, no "really"; card's Gutenberg861 is wrong book:
+  https://ccel.org/ccel/tolstoy/ivan/ivan.xii.html .
+- Soma no "conditioned from birth for any discomfort":
+  https://www.bibliomania.com/0/0/100/1956/26037/12.html .
+- Stockdale primary self-attribution, no invented "literally a manual
+  for the cell" quotation:
+  https://www.hoover.org/sites/default/files/uploads/documents/StockdaleCourage.pdf .
+- Addams/Starr rented part of house, no claim all programmes requested
+  by neighbours or owner transferred title:
+  https://pdcrodas.webs.ull.es/anglo/JaneAddamsTwentyYearsAtHullHouse.pdf .
+- CookDing avoids great bones, no absolute "never cuts bone", slow HAND:
+  https://ctext.org/zhuangzi/nourishing-the-lord-of-life .
+- Aristotle reported anecdote, not authenticated direct speech:
+  https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/5/Aristotle*.html .
+- Middlemarch full Finale actually fetched after Gutenberg extraction
+  stopped at chapter31:
+  https://en.wikisource.org/wiki/Middlemarch_(1874)/Finale .
+- GroundhogDay plot, no causal moral-test theory:
+  https://en.wikipedia.org/wiki/Groundhog_Day_(film) .
+- Franklin actual autobiography, no unsupported first-ever superlative:
+  https://www.gutenberg.org/files/148/148-h/148-h.htm .
+- Hokusai actual museum carrier, no confusing colophon73 and Japanese75:
+  https://www.britishmuseum.org/collection/object/A_1979-0305-0-454-1 .
+- Remaining carriers reused from fetched sources listed earlier.
+
+Separate underlying-card repair backlog, not edited across bands:
+ST035 wrong-book link; ST195 conflated Plutarch anecdotes; ST147 narrated
+choice absent from carrier; ST033 quarry/permanent-eyesight wording;
+ST193 invented manual quote; ST107 programmes-neighbours overclaim;
+ST001 never-cuts-bone; ST184 unsupported first-ever tracking superlative.
+Dossier does not repeat these. Route card repairs before treating the
+linked story library as wholly verified.
+
+Precision pass also makes Hanel's value-specific association explicit,
+and puts Durie, Gable and Seligman claims in single source-bearing sentences.
