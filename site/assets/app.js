@@ -9493,11 +9493,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST158 — Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant; Solomon orders it cut in two, one woman says give it to her and do not kill it, and he awards the child to her."
+          "x": "[ST158 — Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant; Solomon orders the child cut in two, one woman says give it to her and do not kill it, and the other says let it be neither mine nor yours."
         },
         {
           "t": "p",
-          "x": "[ST157 — The Doctor and the Dose](card:ST157%20%E2%80%94%20The%20Doctor%20and%20the%20Dose): the doctor does not prescribe one regimen to everyone: what is healthful for the athlete may harm the convalescent, so the mean is what is right for this person, in this condition, at this time."
+          "x": "[ST157 — The Doctor and the Dose](card:ST157%20%E2%80%94%20The%20Doctor%20and%20the%20Dose): the doctor does not prescribe one regimen to everyone: what is healthful for the athlete may harm the convalescent, so the mean is not a mathematical midpoint but what is right for this person."
         },
         {
           "t": "p",

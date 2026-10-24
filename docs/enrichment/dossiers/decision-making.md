@@ -251,8 +251,8 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### Judging the particular case
 
-[ST158 — Solomon's Judgement](https://clemvillatte.github.io/flourishing-compendium/#card=ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant; Solomon orders it cut in two, one woman says give it to her and do not kill it, and he awards the child to her.
+[ST158 — Solomon's Judgement](https://clemvillatte.github.io/flourishing-compendium/#card=ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant; Solomon orders the child cut in two, one woman says give it to her and do not kill it, and the other says let it be neither mine nor yours.
 
-[ST157 — The Doctor and the Dose](https://clemvillatte.github.io/flourishing-compendium/#card=ST157%20%E2%80%94%20The%20Doctor%20and%20the%20Dose): the doctor does not prescribe one regimen to everyone: what is healthful for the athlete may harm the convalescent, so the mean is what is right for this person, in this condition, at this time.
+[ST157 — The Doctor and the Dose](https://clemvillatte.github.io/flourishing-compendium/#card=ST157%20%E2%80%94%20The%20Doctor%20and%20the%20Dose): the doctor does not prescribe one regimen to everyone: what is healthful for the athlete may harm the convalescent, so the mean is not a mathematical midpoint but what is right for this person.
 
 [ST156 — The Navigator Reads the Sea](https://clemvillatte.github.io/flourishing-compendium/#card=ST156%20%E2%80%94%20The%20Navigator%20Reads%20the%20Sea): the practically wise person is like a navigator who cannot control the wind or the sea but reads the conditions, adjusts the sails and reaches port anyway.
