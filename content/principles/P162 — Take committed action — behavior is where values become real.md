@@ -31,6 +31,12 @@ A value that never touches a Tuesday is a mood about the value. The ACT recipe a
 
 - [[ST138 — Flow in the Everyday|138. Flow in the Everyday]]
 - [[ST140 — Chris Gardner Shows Up|140. Chris Gardner Shows Up]]
+- [[ST441 — The Bicycle Factory That Still Needs a Manager|441. The Bicycle Factory That Still Needs a Manager]]
+- [[ST443 — One Foot on the Rope Bridge|443. One Foot on the Rope Bridge]]
+- [[ST447 — The Fly That Looks Worth Biting|447. The Fly That Looks Worth Biting]]
+- [[ST449 — Lowering Your Hands, Keeping Your Thoughts|449. Lowering Your Hands, Keeping Your Thoughts]]
+- [[ST451 — The Compass After Las Vegas|451. The Compass After Las Vegas]]
+- [[ST453 — A Bus With More Than One Kind of Passenger|453. A Bus With More Than One Kind of Passenger]]
 ## Practice kernels
 
 - [[K152 — Committed action|K152 Committed action]]

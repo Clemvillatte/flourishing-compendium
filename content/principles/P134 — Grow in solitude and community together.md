@@ -37,7 +37,7 @@ Consider the introvert who takes the lunch walk alone and joins the evening dinn
 
 ## Stories
 
-
+- [[ST460 — Thoreau's Three Chairs|460. Thoreau's Three Chairs]]
 ## Psychology parallels
 
 - **[[Beneficial solitude research|Beneficial solitude research]]**

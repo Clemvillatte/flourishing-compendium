@@ -26,6 +26,10 @@ Flexibility is not agreeing with everything or changing with every wind. It is k
 
 Take someone who meditates, hates sitting still, and quits. The flexible move is naming what was wanted, calm and attention, and trying a different vehicle for it while keeping the value. The example is illustrative; the sources do not promise the second attempt works.
 
+## Stories
+- [[ST442 — The Armour and the Question of Safety|442. The Armour and the Question of Safety]]
+- [[ST446 — Two Scales, Without a Promise About the First|446. Two Scales, Without a Promise About the First]]
+- [[ST453 — A Bus With More Than One Kind of Passenger|453. A Bus With More Than One Kind of Passenger]]
 ## Psychology parallels
 
 - **[[Psychological flexibility|Psychological flexibility]]**, reviewed as a fundamental aspect of health (Kashdan and Rottenberg, 2010)

@@ -248,7 +248,6 @@ The inventory lists every corpus entry that names Zhuangzi. Many of the principl
 - [[ST403 — Two Friends Sing Beside the Corpse of Sang Hu|403. Two Friends Sing Beside the Corpse of Sang Hu]]
 - [[ST416 — A Banquet the Seabird Could Not Survive|416. A Banquet the Seabird Could Not Survive]]
 - [[ST423 — The Tree Is Spared; the Goose Is Killed|423. The Tree Is Spared; the Goose Is Killed]]
-- [[ST433 — The Pheasant That Does Not Ask for a Coop|433. The Pheasant That Does Not Ask for a Coop]]
 
 ### Sayings (4)
 - [[Accept what happens as the will of providence|Accept what happens as the will of providence]]

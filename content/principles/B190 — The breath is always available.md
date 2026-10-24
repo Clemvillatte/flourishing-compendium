@@ -39,7 +39,7 @@ For example: Before answering two non-urgent messages, someone tries noticing th
 
 ## Stories
 
-
+- [[ST458 — The Telephone as a Bell of Mindfulness|458. The Telephone as a Bell of Mindfulness]]
 ## Psychology parallels
 
 - **[[Slow-paced breathing|Slow-paced breathing and vagal tone]]** (Balban et al., 2023; Zaccaro et al., 2018)

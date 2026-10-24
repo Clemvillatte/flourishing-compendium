@@ -29,7 +29,7 @@ This is Dewey's naturalistic proposal, not the position of all Buddhism or Daois
 
 ## Stories
 - [[ST431 — Einstein's Cosmic Religious Feeling|431. Einstein's Cosmic Religious Feeling]]
-
+- [[ST455 — Twenty-Five German Words|455. Twenty-Five German Words]]
 ## Psychology parallels
 
 - **Intrinsic vs extrinsic religiosity**, intrinsic orientation predicts well-being independent of doctrine (conceptual parallel; Allport and Ross, 1967)

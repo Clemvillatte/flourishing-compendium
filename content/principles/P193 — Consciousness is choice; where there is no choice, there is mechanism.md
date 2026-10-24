@@ -26,6 +26,9 @@ The mechanism side is stated in the same chapter: consciousness "lies dormant wh
 
 *For example:* The commute driven on autopilot — consciousness dimmed to a pilot light. The same stretch of road in a borrowed car, wrong side of the road, in a new country: consciousness blazing. Choice is the dimmer switch.
 
+## Stories
+- [[ST454 — Akaki and the New Cloak|454. Akaki and the New Cloak]]
+
 ## Sources
 
 - [Creative Evolution, Bergson (Mitchell trans.), Project Gutenberg](https://www.gutenberg.org/files/26163/26163-h/26163-h.htm) — chapter III, consciousness and choice

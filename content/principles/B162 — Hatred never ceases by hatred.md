@@ -37,7 +37,7 @@ Two neighbours argue over a fence. One answers every escalation in kind and the 
 
 ## Stories
 - [[ST367 — The Gift Nobody Accepted|367. The Gift Nobody Accepted]]
-
+- [[ST462 — The Amish at Nickel Mines|462. The Amish at Nickel Mines]]
 ## Psychology parallels
 
 - **[[Revenge|Revenge research]]**, retaliation escalates and worsens affect (Carlsmith et al., 2008)

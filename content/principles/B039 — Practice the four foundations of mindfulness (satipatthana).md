@@ -34,7 +34,7 @@ The 4pm slump run through the frame: body tired, feeling dull, mind foggy, patte
 
 ## Stories
 
-
+- [[ST461 — Kabat-Zinn Starts the Stress Reduction Program|461. Kabat-Zinn Starts the Stress Reduction Program]]
 ## Psychology parallels
 
 - **[[Mindfulness-based cognitive therapy|MBCT's four-domain structure]]**, body scan, feeling tone, and thought labeling organize clinical programs (Kuyken et al., 2016)

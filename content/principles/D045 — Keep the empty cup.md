@@ -43,7 +43,7 @@ The veteran teacher who still watches students with fresh eyes catches what the 
 
 ## Stories
 - [[ST408 — The Material Told Her Where to Go|408. The Material Told Her Where to Go]]
-
+- [[ST439 — The Empty Apartment Filled with Light|439. The Empty Apartment Filled with Light]]
 ## Psychology parallels
 
 - **[[Growth mindset|Growth mindset]]**, beliefs about malleable ability shape persistence and outcomes (Dweck, 2006; effect sizes vary by context)

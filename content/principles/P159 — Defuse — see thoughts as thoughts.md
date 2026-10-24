@@ -30,7 +30,10 @@ The technique is a labeling move: the thought shows up, and you say "having the 
 ## Stories
 
 - [[ST137 — Hayes and the Workability Criterion|137. Hayes and the Workability Criterion]]
-
+- [[ST445 — Leaves on a Stream, Including the Thought About Failing|445. Leaves on a Stream, Including the Thought About Failing]]
+- [[ST447 — The Fly That Looks Worth Biting|447. The Fly That Looks Worth Biting]]
+- [[ST448 — When the Word Milk Becomes a Sound|448. When the Word Milk Becomes a Sound]]
+- [[ST449 — Lowering Your Hands, Keeping Your Thoughts|449. Lowering Your Hands, Keeping Your Thoughts]]
 ## Psychology parallels
 
 - **[[Cognitive defusion|Cognitive defusion research]]**, reducing the literal believability of thoughts (Zettle et al., 2011)

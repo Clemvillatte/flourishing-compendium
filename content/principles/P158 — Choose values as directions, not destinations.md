@@ -34,6 +34,8 @@ A goal is a place; a value is a heading. You can finish a report, and you cannot
 - [[ST138 — Flow in the Everyday|138. Flow in the Everyday]]
 - [[ST139 — Rogers and the Fully Functioning Person|139. Rogers and the Fully Functioning Person]]
 - [[ST140 — Chris Gardner Shows Up|140. Chris Gardner Shows Up]]
+- [[ST444 — The Sailing Boat and the Leaking Bailer|444. The Sailing Boat and the Leaking Bailer]]
+- [[ST451 — The Compass After Las Vegas|451. The Compass After Las Vegas]]
 ## Practice kernels
 
 - [[K149 — Values clarification|K149 Values clarification]]

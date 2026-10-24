@@ -30,6 +30,9 @@ Pick one thing you are holding tightly and run the verse's test on it: what grie
 - [Dhammapada Piyavagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html) — verses 211-214
 - [Shantideva, Bodhicharyavatara, Wallace translation](https://thuvienhoasen.org/images/file/EUaZhZ1G0QgQANVp/shantideva-bodhicaryavatara-wallace.pdf) — chapter 8, verses 18-19
 
+## Stories
+- [[ST459 — Sariputta at Anathapindika's Deathbed|459. Sariputta at Anathapindika's Deathbed]]
+
 ## Psychology parallels
 
 - **[[Nonattachment|Nonattachment]]**, mediates mindfulness-well-being links (Sahdra et al., 2010)

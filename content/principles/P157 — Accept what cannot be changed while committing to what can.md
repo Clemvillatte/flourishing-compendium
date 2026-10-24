@@ -41,7 +41,12 @@ Imagine a phone call you have been avoiding because of anxiety about it. The exe
 ## Stories
 
 - [[ST137 — Hayes and the Workability Criterion|137. Hayes and the Workability Criterion]]
-
+- [[ST440 — Holding the Pen Without the Extra Grip|440. Holding the Pen Without the Extra Grip]]
+- [[ST444 — The Sailing Boat and the Leaking Bailer|444. The Sailing Boat and the Leaking Bailer]]
+- [[ST446 — Two Scales, Without a Promise About the First|446. Two Scales, Without a Promise About the First]]
+- [[ST450 — The Tug-of-War Beside the Ravine|450. The Tug-of-War Beside the Ravine]]
+- [[ST452 — The Calmness Test That Adds a Threat|452. The Calmness Test That Adds a Threat]]
+- [[ST453 — A Bus With More Than One Kind of Passenger|453. A Bus With More Than One Kind of Passenger]]
 ## Practice kernels
 
 - [[K115 — Willingness practice|K115 Willingness practice]]

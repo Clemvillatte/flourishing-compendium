@@ -37,6 +37,7 @@ The shift has a feel: you were the thought, and then you are the one watching it
 ## Stories
 - [[ST389 — The Ladder for Unskillful Thoughts|389. The Ladder for Unskillful Thoughts]]
 - [[ST427 — The Ladder for Unskillful Thoughts|427. The Ladder for Unskillful Thoughts]]
+- [[ST445 — Leaves on a Stream, Including the Thought About Failing|445. Leaves on a Stream, Including the Thought About Failing]]
 ## Psychology parallels
 
 - **[[Decentering|Decentering]]**, viewing thoughts as mental events (Bernstein et al., 2015)

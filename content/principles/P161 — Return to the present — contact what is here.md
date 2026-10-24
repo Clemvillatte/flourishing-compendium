@@ -32,6 +32,9 @@ Imagine lying awake at midnight rehearsing next week's meeting. The value behind
 
 - [Hayes, Pistorello and Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 976-1002 (APA CE PDF)](https://www.apa.org/education-career/ce/acceptance-commitment.pdf)
 
+## Stories
+- [[ST445 — Leaves on a Stream, Including the Thought About Failing|445. Leaves on a Stream, Including the Thought About Failing]]
+- [[ST449 — Lowering Your Hands, Keeping Your Thoughts|449. Lowering Your Hands, Keeping Your Thoughts]]
 ## Psychology parallels
 
 - **[[Mindfulness|Mindfulness-based interventions]]**, present-focus reduces rumination and relapse (Kuyken et al., 2016)

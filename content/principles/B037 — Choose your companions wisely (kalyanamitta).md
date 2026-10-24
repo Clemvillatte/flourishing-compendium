@@ -29,7 +29,7 @@ Imagine joining a study group in which people admit when they do not understand 
 ## Stories
 
 - [[ST065 — Nagasena and the Chariot|65. Nagasena and the Chariot]]
-
+- [[ST456 — Salzberg, Goldstein, and Kornfield Make One Teacher|456. Salzberg, Goldstein, and Kornfield Make One Teacher]]
 ## Psychology parallels
 
 - **[[Social baseline|Social baseline]]**: Coan and Sbarra propose that trusted relationships reduce expected risk and effort; this is a theoretical account, not a guarantee for every friendship ([2015, "Tentative Conclusions"](https://pmc.ncbi.nlm.nih.gov/articles/PMC4375548/)).

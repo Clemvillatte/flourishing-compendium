@@ -1,0 +1,28 @@
+---
+schema: 0
+id: "ST456"
+type: "story"
+title: "456.  Salzberg, Goldstein, and Kornfield Make One Teacher"
+file: "ST456 — Salzberg, Goldstein, and Kornfield Make One Teacher"
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.03 — II.3 Meditation Practices", "parent": ""}
+---
+Roundtable interview · 2004; Salzberg, Goldstein, and Kornfield in Tricycle: The Buddhist Review, with the founding drawn from Insight Meditation Society's own history and the principle's defining sutta
+
+The Tricycle introduction places the meeting: "Returning to America, they met in 1974 at the first session of Naropa Institute, catching the great wave of interest of a generation hungry for spiritual guidance." ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/)) The same page records the founding: "So in 1976, Salzberg, Goldstein, and Kornfield founded the Insight Meditation Society (IMS), in Barre, Massachusetts." ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/)) They decided to establish a meditation retreat center in 1975; IMS opened on February 14, 1976. ([IMS history](https://www.dharma.org/about-us/ims-history/))
+
+The principle's defining text turns on a correction. When Ānanda offers that admirable friendship is half of the holy life, the Buddha answers: "Don't say that, Ananda. Don't say that. Admirable friendship, admirable companionship, admirable camaraderie is actually the whole of the holy life." ([SN 45.2, Thanissaro](https://accesstoinsight.org/tipitaka/sn/sn45/sn45.002.than.html))
+
+The roundtable supplies the working detail. Goldstein voices a concern about their teaching: "I'm concerned that teaching will become more like therapy." ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/)) Kornfield answers him directly: "I disagree with the way Joseph articulates things; maybe I disagree with the way he sees them. [all laugh] I sense a false dichotomy between what Joseph refers to as psychological issues on the one hand and emptiness on the other." ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/)) He adds: "What makes IMS and Spirit Rock unique, though, is that we don't all agree and yet we work together in the same place. We use different language, and our approaches differ. Yet we all agree on the most fundamental principles quite firmly—suffering and freedom from it." ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/))
+
+Goldstein gives the working arrangement a name: "The three of us, and whoever else the team might be, actually make one teacher. We balance each other and bring different perspectives, which has been helpful." ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/)) Kornfield: "One of the great things about team teaching or having a collective community is that we really learn from one another. Another beautiful thing is that in our community, although we are teachers, we are still also students." ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/)) Goldstein on the long view: "There have been differences among us." ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/)) Salzberg on the same years: "Well, there have been good times and bad. But maybe we're more relaxed nowadays because we have more confidence that the dharma will actually survive us. {all laugh}" ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/))
+
+The compendium reads their account as an illustration of B037's practice companionship. They describe learning from colleagues whose approaches differ from their own, while sharing a commitment to suffering and freedom from it. ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/)) The interview illustrates mutual learning; it does not establish the sutta's claims about developing the complete eightfold path or release from suffering. ([SN 45.2](https://accesstoinsight.org/tipitaka/sn/sn45/sn45.002.than.html))
+
+**Principles:**
+- [[B037 — Choose your companions wisely (kalyanamitta)|B037 Choose your companions wisely (kalyanamitta)]]: the roundtable illustrates practice companionship as colleagues who disagree about how to teach and who learn from one another while sharing a commitment to suffering and freedom from it; the sutta's dependence claim and its connection to the eightfold path are stated in the sutta and are not demonstrated by the interview. ([Tricycle 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/))
+
+## Sources
+- [Tricycle, "Roundtable: Through Good Times and Bad" — Salzberg, Kornfield, and Goldstein, Winter 2004](https://tricycle.org/magazine/roundtable-through-good-times-and-bad/): the meeting, the founding, the therapy disagreement, the one-teacher line, the tolerance line, and Salzberg's good-times-and-bad line.
+- [Insight Meditation Society, IMS History](https://www.dharma.org/about-us/ims-history/): the 1975 founding decision and the February 14, 1976 opening. The page does not describe how the three met or the shape of their friendship; the Tricycle roundtable is the source for the relationship passages.
+- [Thanissaro Bhikkhu, Upaddha Sutta (SN 45.2), Access to Insight](https://accesstoinsight.org/tipitaka/sn/sn45/sn45.002.than.html): the Ananda and Buddha exchange.

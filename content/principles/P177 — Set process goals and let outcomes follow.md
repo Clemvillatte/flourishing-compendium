@@ -35,6 +35,9 @@ For example: An essayist compares drafting more pages with revising one disputed
 
 - [[Ends-in-view]] — anticipated consequences used as guides within present action, rather than fixed guarantees.
 
+## Stories
+- [[ST440 — Holding the Pen Without the Extra Grip|440. Holding the Pen Without the Extra Grip]]
+- [[ST443 — One Foot on the Rope Bridge|443. One Foot on the Rope Bridge]]
 ## Psychology parallels
 
 - **[[Process focus research|Process focus research]]**, process goals improve persistence and performance (Vallerand, 2010; Zimmerman, 2000)

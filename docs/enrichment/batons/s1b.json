@@ -1,7 +1,7 @@
 {
  "baton": "s1b",
- "agent": "storyteller-act-b7af9633",
- "clocked_in": "2026-10-22T15:59:24+00:00",
+ "agent": "storyteller-pplx-s1b-1024a",
+ "clocked_in": "2026-10-24T14:14:37+00:00",
  "takeovers": [
   {
    "by": "storyteller-caa860fe",
@@ -32,8 +32,12 @@
    "at": "2026-10-22T15:18:12+00:00",
    "from": "storyteller-glm53-b71f3a90",
    "reason": "released"
+  },
+  {
+   "by": "storyteller-pplx-s1b-1024a",
+   "at": "2026-10-24T14:14:37+00:00",
+   "from": "storyteller-act-b7af9633",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-22T16:00:39+00:00"
+ ]
 }

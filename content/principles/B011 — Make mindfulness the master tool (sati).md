@@ -34,7 +34,7 @@ The practice itself is repetitive by design: the framing formula, "ardent, alert
 
 ## Stories
 
-
+- [[ST457 — Gunaratana's Sequence of Breathing, Distraction, and Return|457. Gunaratana's Sequence of Breathing, Distraction, and Return]]
 ## Psychology parallels
 
 - **[[Mindfulness|Mindfulness-based interventions]]**, MBSR/MBCT outcomes across stress, depression, pain (Kabat-Zinn, 1982; Kuyken et al., 2016)

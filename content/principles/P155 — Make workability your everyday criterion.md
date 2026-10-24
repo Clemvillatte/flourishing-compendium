@@ -37,6 +37,10 @@ Suppose you value being a reliable friend but think you need to feel cheerful be
 - [[ST138 — Flow in the Everyday|138. Flow in the Everyday]]
 - [[ST139 — Rogers and the Fully Functioning Person|139. Rogers and the Fully Functioning Person]]
 - [[ST140 — Chris Gardner Shows Up|140. Chris Gardner Shows Up]]
+- [[ST442 — The Armour and the Question of Safety|442. The Armour and the Question of Safety]]
+- [[ST444 — The Sailing Boat and the Leaking Bailer|444. The Sailing Boat and the Leaking Bailer]]
+- [[ST450 — The Tug-of-War Beside the Ravine|450. The Tug-of-War Beside the Ravine]]
+- [[ST452 — The Calmness Test That Adds a Threat|452. The Calmness Test That Adds a Threat]]
 ## Practice kernels
 
 - [[K115 — Willingness practice|K115 Willingness practice]]

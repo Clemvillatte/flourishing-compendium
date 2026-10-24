@@ -1,7 +1,12 @@
 {
  "baton": "supervisor",
+<<<<<<< HEAD
  "agent": "worker-pplx-dos24-1025a",
  "clocked_in": "2026-10-24T14:15:15+00:00",
+=======
+ "agent": "supervisor-pplx-storyteller-1024a",
+ "clocked_in": "2026-10-24T14:14:36+00:00",
+>>>>>>> 8d46be925 (supervisor registration batch: 26 ready drafts published (ST437-ST462: s1b-006/011-026 Daoist-Buddhist-ACT stories to chapters S01/S02/S03, s1f-001..009 to S02/S07/S08); duplicate ST433 (re-registration of s1b-001, already ST351) removed with backlinks/index/order cleaned; all 26 pass story_check published; build.py exit 0)
  "takeovers": [
   {
    "by": "AgentA",
@@ -484,6 +489,7 @@
    "reason": "released"
   },
   {
+<<<<<<< HEAD
    "by": "worker-pplx-dos24-1025a",
    "at": "2026-10-24T14:15:15+00:00",
    "from": "supervisor-pplx-gf-1024b",
@@ -492,4 +498,13 @@
  ],
  "released": true,
  "released_at": "2026-10-24T14:15:52+00:00"
+=======
+   "by": "supervisor-pplx-storyteller-1024a",
+   "at": "2026-10-24T14:14:36+00:00",
+   "from": "supervisor-pplx-gf-1024b",
+   "reason": "stale (21 min)"
+  }
+ ],
+ "released": false
+>>>>>>> 8d46be925 (supervisor registration batch: 26 ready drafts published (ST437-ST462: s1b-006/011-026 Daoist-Buddhist-ACT stories to chapters S01/S02/S03, s1f-001..009 to S02/S07/S08); duplicate ST433 (re-registration of s1b-001, already ST351) removed with backlinks/index/order cleaned; all 26 pass story_check published; build.py exit 0)
 }
