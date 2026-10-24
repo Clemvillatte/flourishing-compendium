@@ -42,7 +42,7 @@ What makes the practice right is less the objects than the posture toward them; 
 
 > "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)).
 
-The observation is not detached watching; it is effortful and free of grasping. The map holds the capacities the refrain trains:
+The observation is effortful and free of grasping. The map holds the capacities the refrain trains:
 
 [Bare attention in mindfulness practice](https://clemvillatte.github.io/flourishing-compendium/#card=Bare%20attention%20in%20mindfulness%20practice): the attending to what arises before commentary begins.
 
