@@ -65,3 +65,14 @@ Daodejing 71 (Gutenberg) — (label already absent).
 
 No card link, quotation text or gloss was changed; only the seventeen
 verification suffixes moved from the public prose to this ledger.
+
+## Carrier re-verification (2026-10-25)
+
+The Aristotle, Nicomachean Ethics VI carrier (MIT Internet Classics,
+Ross translation) was re-opened this session. All three quoted
+passages are verbatim: the "intuitive reason combined with scientific
+knowledge" definition, the "what is wise is the same but what is
+practically wise is different" contrast, and the "not possible to be
+good in the strict sense without practical wisdom" conclusion. No
+discrepancy found. The Baltes, Grossmann and other carriers were not
+re-opened this session.
