@@ -35,6 +35,52 @@ covering one distinct blockquote-carrier URL, both FULL MATCH.
 The checker (scripts/dossier_check.py) exits 0 on the current file:
 33 card links resolve, 8 headers, 2 external carriers.
 
+## Passes 2-4 records
+
+- Pass 2 (advisor round 1 applied): every linked concept card's
+  opening was read and the descriptions corrected where they did not
+  compress the card. The Attention card was found empty-bodied and
+  removed from the map. Focused-attention meditation was re-described
+  from Lutz et al.'s account and separated from Effortless attention.
+  The effort of attention (James) was separated from Weil's craft and
+  discipline entries. The Goyal et al. 2014 numerical paragraph was
+  removed from the dossier per the advisor's instruction: the PubMed
+  page for the article (pubmed.ncbi.nlm.nih.gov/24395196/) was fetched
+  and returned a 5591-byte shell with no article content (the same
+  bot-block pattern as the ctext carrier in dos21); the JAMA page was
+  not fetched. The candidate is retained only in this ledger.
+- Pass 3 (full-text sweep): the manifest's sweep terms were run over
+  content/; ten straggler cards were read and added with descriptions
+  compressed from their openings (The returning practice, Vipassana
+  (insight), Decentering, Cognitive defusion, Acceptance, Beginner's
+  mind, Body scan in MBSR, Walking meditation, Epochen, Delight in
+  the ordinary). The kernel and story lines were re-read against
+  their cards and three were tightened to match.
+- Pass 4 (genuine disagreement): the question taken up was whether
+  mindfulness is bare non-judgmental presence. The clinical side was
+  quoted from the Wikipedia Mindfulness article (opened this pass),
+  which quotes Kabat-Zinn's definition verbatim: "the awareness that
+  emerges through paying attention, on purpose, in the present
+  moment, and non-judgmentally to the unfolding of experience moment
+  by moment." The other side was quoted from Thanissaro Bhikkhu's
+  essay "Mindfulness Defined" (accesstoinsight.org/lib/authors/
+  thanissaro/mindfulnessdefined.html, opened this pass), which denies
+  that bare attention or non-judgmental presence is sati: "Directions
+  such as “bring bare attention to the breath,” ... are actually
+  functions for other qualities in the mind. They're not
+  automatically a part of sati, but you should bring them along
+  wherever they're appropriate." and "meditation isn't just a passive
+  process of being nonjudgmentally present with whatever's there and
+  not changing it at all." Both carriers opened; the disagreement is
+  stated in the dossier. Correction record: the first pass-4 push
+  claimed all blockquotes FULL MATCH while the bare-attention
+  quotation had been truncated at "sati." and did not match the raw
+  carrier; the follow-up push completed the quotation to the raw
+  sentence end and all five blockquotes then verified FULL MATCH
+  (confirmed by the 08:03:14Z reading). The Thanissaro page uses
+  curly quotation marks; the dossier preserves them and the
+  verification normalises curly to straight.
+
 ## Pass 1 scope, stated plainly
 
 This is a pass-1 draft. The core map is present (the path factor, the
