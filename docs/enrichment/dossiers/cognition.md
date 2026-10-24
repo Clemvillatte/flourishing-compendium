@@ -165,7 +165,7 @@ The acceptance-and-commitment tradition's answer keeps the thought and moves the
 
 > "to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/)) — Scholarly interpretation; cited passage checked.
 
-Both positions answer the same question, what to do with a painful thought, and they part on whether the thought is an object to be corrected or an event to be watched. The wiki holds both without adjudicating which works when; the defusion card itself notes the cross-tradition cognates, which suggests the practices may be training the same observation from two ends.
+Both positions answer the same question, what to do with a painful thought, and they part on whether the thought is an object to be corrected or an event to be watched. The wiki holds both without adjudicating which works when; the defusion card itself notes its exact cross-tradition cognates: Anatta and Self-as-context as the Buddhist and ACT accounts of the observing perspective, Right concentration as the practice of watching thoughts arise and pass.
 
 ## Practice: variation, selection, retention
 
@@ -193,6 +193,6 @@ Both positions answer the same question, what to do with a painful thought, and 
 
 10. [Sing the thought, or say it in a silly voice](https://clemvillatte.github.io/flourishing-compendium/#card=K401%20%E2%80%94%20Sing%20the%20thought%2C%20or%20say%20it%20in%20a%20silly%20voice): a self-critical thought already examined, said once normally, then sung to a well-known tune or said in an exaggerated voice; the card's own caution is to use it only on the examined thought, not a fresh wound.
 
-The evidence limits are uneven across the list, and the kernels say so where it matters: the thought record and reappraisal carry the CBT trial literature; the defusion family carries the ACT literature, thinner and newer; the wise-reasoning prompts carry Grossmann's situation-varying findings rather than a tested protocol.
+The evidence limits are uneven across the list, and the kernels say so where it matters: the thought record and reappraisal carry the CBT trial literature; the defusion family carries the ACT literature; the wise-reasoning prompts carry Grossmann's situation-varying findings rather than a tested protocol.
 
 ::Retention:: Retention is what people keep because it works for them.

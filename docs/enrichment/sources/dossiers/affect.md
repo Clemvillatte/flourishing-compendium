@@ -32,19 +32,28 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 2.
    word-for-word; the dossier omits the source's closing comma after
    "tremble", noted at the quote.
 2. https://www.cl.cam.ac.uk/~pr10/iui/ekman93.pdf — Ekman 1993,
-   Psychological Science. Three passages compared word-for-word: the
-   cross-cultural agreement sentence, the distinctive-universal-expressions
-   sentence, and the discrete-states sentence.
+   "Facial Expression and Emotion", American Psychologist 49(4); journal,
+   title, volume and year taken from the document on a second fetch. Three
+   passages compared word-for-word: the cross-cultural agreement
+   sentence, the distinctive-universal-expressions sentence, and the
+   discrete-states sentence.
 3. https://pmc.ncbi.nlm.nih.gov/articles/PMC2367156/ — Posner, Russell
    and Peterson 2005, Development and Psychopathology. Two passages
-   compared word-for-word: the cognitive-interpretations sentence and the
-   valence-and-arousal-systems sentence.
+   compared word-for-word: the cognitive-interpretations sentence,
+   including its internal citation (Cacioppo et al., 2000; Russell,
+   2003), and the valence-and-arousal-systems sentence.
+4. https://pmc.ncbi.nlm.nih.gov/articles/PMC6367256/ — Kobylińska and
+   Kusev 2019, Frontiers in Psychology, opened while checking the Gross
+   definition; it restates Gross's definition of emotion regulation, but
+   no quotation from it is used in the dossier, so the Emotion
+   regulation entry remains description-only.
 
 ## Carriers not opened, and why no repair is needed
 
-- Gross's own PDFs (2002 process-model paper; the 2015 extended-model
-  sources) were not quoted in this dossier because the Gross 2002
-  carrier fetch failed this session; the Emotion regulation entry is a
+- Gross's own PDFs (the 2002 process-model paper; the 2015
+  extended-model sources) were not quoted in this dossier because the
+  Gross 2002 carrier fetch failed this session (the Kobylińska and
+  Kusev review restating the definition was opened instead, see above); the Emotion regulation entry is a
   description-only inherited summary with the definition attributed to
   the card's carrier. Similarly Spinoza, Hume, Schwarz, Finucane et al.,
   Scherer, Keltner and Gross, Fredrickson, Lane and Schwartz, Tangney,

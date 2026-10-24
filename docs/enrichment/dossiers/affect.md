@@ -8,8 +8,8 @@ How to read this page: each entry is a link into the compendium's own explanatio
 
 ### Nearby terms
 
-- [Affects](https://clemvillatte.github.io/flourishing-compendium/#card=Affects) is the Spinoza card holding the umbrella term's oldest definition, mapped below.
-- [Basic emotion theory](https://clemvillatte.github.io/flourishing-compendium/#card=Basic%20emotion%20theory) and [Theory of constructed emotion](https://clemvillatte.github.io/flourishing-compendium/#card=Theory%20of%20constructed%20emotion) hold the two poles of the structure dispute mapped below.
+- [Affects](https://clemvillatte.github.io/flourishing-compendium/#card=Affects) is the Spinoza card defining the term, mapped below.
+- [Basic emotion theory](https://clemvillatte.github.io/flourishing-compendium/#card=Basic%20emotion%20theory) and [Circumplex model of affect](https://clemvillatte.github.io/flourishing-compendium/#card=Circumplex%20model%20of%20affect) are the two sides of the divergence mapped below; [Theory of constructed emotion](https://clemvillatte.github.io/flourishing-compendium/#card=Theory%20of%20constructed%20emotion) extends the second side.
 - The Cognition dossier's [Affect heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20heuristic) entry maps the same-named card from the judgment side; both are listed here.
 - The contribution of feeling to a life going well is treated in the flourishing dossiers — see [Common flourishing](https://clemvillatte.github.io/flourishing-compendium/#card=Common%20flourishing) and [Eudaimonic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20well-being).
 
@@ -100,14 +100,14 @@ How to read this page: each entry is a link into the compendium's own explanatio
 
 ### Sayings
 
-- [Beware the moods of the many](https://clemvillatte.github.io/flourishing-compendium/#card=Beware%20the%20moods%20of%20the%20many): Laozi's Daodejing 20 — the sage's distance from the crowd's shifting moods; the compendium links it to guarding against affect contagion.
+- [Beware the moods of the many](https://clemvillatte.github.io/flourishing-compendium/#card=Beware%20the%20moods%20of%20the%20many): Laozi, Daodejing 20; the compendium links it to guarding against affect contagion.
 
 ### Kernels
 
-- [Low emotional response](https://clemvillatte.github.io/flourishing-compendium/#card=K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; calm is contagious in both directions.
-- [Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not "stressed" but "tight chest, dread, buzzing"; fine-grained labeling reduces amygdala reactivity.
+- [Low emotional response](https://clemvillatte.github.io/flourishing-compendium/#card=K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; do not match the other person's escalation.
+- [Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not "stressed" but "tight chest, dread, buzzing"; the kernel's outcome claim, stated on its card, is that fine-grained labeling reduces amygdala reactivity.
 - [Feeling-tone pass](https://clemvillatte.github.io/flourishing-compendium/#card=K160%20%E2%80%94%20Feeling-tone%20pass): three times daily, name the tone of the moment as pleasant, unpleasant or neutral, before any story about it.
-- [Emotional writing](https://clemvillatte.github.io/flourishing-compendium/#card=K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four days in a row, unedited — the act of putting experience into language reducing its intensity.
+- [Emotional writing](https://clemvillatte.github.io/flourishing-compendium/#card=K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four days in a row, unedited and uncensored; the kernel's outcome claim, stated on its card, is that putting experience into language reduces its intensity.
 - [Body-first emotion work](https://clemvillatte.github.io/flourishing-compendium/#card=K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body — tension, temperature, texture; the body often knows first.
 
 ## Where the traditions genuinely disagree
@@ -122,13 +122,13 @@ Ekman's research programme takes the categorical side, and states the alternativ
 >
 > Ekman concludes the research supports conceiving "of emotions as separate discrete states, such as fear, anger, and disgust, rather than simply as positive versus negative states or even more simply as differing only in respect to arousal." ([Ekman 1993](https://www.cl.cam.ac.uk/~pr10/iui/ekman93.pdf), American Psychologist 49(4), "Facial Expression and Emotion"; award address; quoted passages checked, pp. 384-387)
 
-The circumplex model takes exactly the dimensional position Ekman names as the rival hypothesis — that what varies is valence and arousal, not category membership:
+The circumplex model takes the dimensional position Ekman names as the rival hypothesis — that what varies is valence and arousal, not category membership:
 
 > "Investigations of the subjective, or experiential, components of emotion, rather than supporting a one to one correspondence between a discrete emotion and an underlying neural system, have instead suggested that emotions arise from cognitive interpretations of core physiological experiences (Cacioppo et al., 2000; Russell, 2003)."
 >
 > Posner, Russell and Peterson propose instead that "all affective states arise from two independent neurophysiological systems," the valence and arousal systems ([Posner, Russell and Peterson 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC2367156/), Development and Psychopathology; scholarly review; cited passages checked).
 
-Each claim rests on a different evidential base: Ekman's on the cross-cultural recognition of facial expressions, the circumplex on the structure of subjective reports of feeling. The disagreement over what an emotion is follows from which evidence each tradition treats as primary — the face's universality read as category membership, or the report's dimensional structure read as the underlying architecture.
+Each claim rests on a different evidential base: Ekman's on the cross-cultural recognition of facial expressions, the circumplex on the structure of subjective reports of feeling. Whether the two are competing explanations of the same phenomenon or descriptions of different phenomena is part of what is disputed.
 
 ## Practice: variation, selection, retention
 
@@ -136,11 +136,11 @@ Each claim rests on a different evidential base: Ekman's on the cross-cultural r
 
 ::Selection::
 
-1. [Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not "stressed" but "tight chest, dread, buzzing"; fine-grained labeling reduces amygdala reactivity and improves regulation.
+1. [Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not "stressed" but "tight chest, dread, buzzing".
 2. [Feeling-tone pass](https://clemvillatte.github.io/flourishing-compendium/#card=K160%20%E2%80%94%20Feeling-tone%20pass): three times daily, name the tone of this moment as pleasant, unpleasant or neutral, before any story about it.
-3. [Emotional writing](https://clemvillatte.github.io/flourishing-compendium/#card=K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four consecutive days, uncensored — putting experience into language reduces its intensity and improves health outcomes.
+3. [Emotional writing](https://clemvillatte.github.io/flourishing-compendium/#card=K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four consecutive days, uncensored; no editing, no censoring.
 4. [Body-first emotion work](https://clemvillatte.github.io/flourishing-compendium/#card=K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body — where is the tension, what is the temperature, what is the texture.
-5. [Low emotional response](https://clemvillatte.github.io/flourishing-compendium/#card=K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; do not match the other person's escalation.
+5. [Low emotional response](https://clemvillatte.github.io/flourishing-compendium/#card=K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; do not match the other person's escalation. The kernel adds, as its own claim, that calm is contagious in both directions.
 
 Evidence limits: the outcome language in the kernel descriptions above is the kernels' own text, compressed; this dossier verified no trial of these exact exercises. The labeling kernel rests on the affect-labeling study cited on its card, the writing kernel on the expressive-writing literature cited on its card, the DBT module on the treatment literature for its clinical population — none of those carriers was opened here, and no claim about their study sizes or designs is made. The feeling-tone and low-response practices carry no outcome claim verified in this dossier. The categorical-versus-dimensional disagreement is a live theoretical dispute; no practice selection follows from either side alone.
 
