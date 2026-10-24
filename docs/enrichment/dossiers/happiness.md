@@ -274,7 +274,7 @@ Evidence is uneven across the list. The cards themselves flag the limits: the pr
 
 ## Story: the stories that carry the theme
 
-The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
 
 
 ### What a happy life looks like

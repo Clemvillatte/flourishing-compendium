@@ -277,7 +277,7 @@ The evidence limits are uneven across the list. The life review (K232) borrows a
 
 ## Story: the stories that carry the theme
 
-The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
 
 
 ### Knowing the limits of what you know

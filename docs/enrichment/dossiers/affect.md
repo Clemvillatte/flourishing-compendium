@@ -173,7 +173,7 @@ Evidence limits: the outcome language in the kernel descriptions above is the ke
 
 ## Story: the stories that carry the theme
 
-The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card.
 
 ### The oldest questions about feeling
 
