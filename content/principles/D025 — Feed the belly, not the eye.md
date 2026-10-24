@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 25** — Feed the belly, not the eye
 
-Chapter 12 describes colours, music and flavours impairing the senses, racing and hunting disturbing the mind, and rare objects leading conduct astray. The sage's preference for the belly follows these warnings about what people pursue. (DDJ 12.)
+Chapter 12 of the Daodejing names colours, music, flavours, hunting and rare objects before contrasting the belly with the eyes. James Legge translates its conclusion:
 
-> "Therefore the sage seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes." (DDJ 12, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+> "Therefore the sage seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes. He puts from him the latter, and prefers to seek the former." (DDJ 12, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium applies this contrast to decisions about spending: begin with what you need a purchase to do before considering how attractive it looks.
+Read alongside the preceding warnings about excess, the belly suggests a need that can be met; the eyes suggest an appetite continually drawn outward. This is an interpretation of the chapter's imagery, not a medical claim that colour or music damages the senses. Its practical concern is whether the pursuit of stimulation begins to govern one's conduct.
 
 **Plain words**
-Before buying something, name the problem you want it to solve. Check what you already own that could do the job. Then decide what the additional features or appearance would give you and whether you want to pay for that.
+Enjoying something and needing the next attraction are different experiences. A meal can leave you satisfied. Chasing a more exciting meal, possession or spectacle can make enough difficult to recognise. The point is to notice when an ordinary pleasure becomes a demand for something else.
 
-*For example:* Imagine admiring a new phone in a shop window. Your current phone handles every task you need. You decide to keep it and put the money toward repairing your broken heater.
+For example: A reader notices that lunch ends only when the videos do. Across three lunches, she tries a video, music and neither. She compares satisfaction afterwards and repeats the arrangement that helps her stop comfortably. This is the compendium's suggested experiment in attention and appetite, not an effect established by the ancient text.
 
 ## Related concepts
 

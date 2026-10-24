@@ -11,3 +11,11 @@ Started 2026-10-24 04:57:22 UTC. Worker scope: p1s manifest only. The live super
 - Linked concepts read: Vital engagement, Calling orientation, Ends-in-view. Mention sweep for “vital engagement”: core concept, calling and thinker already link P175; no new reciprocal needed. Other inherited parallels and protected reflections are preserved, not independently certified.
 - Independent first-item advisor review: `p175_first_item_source_and_prose_qc_mvlxnfpk`, scoped PASS after a corrected first verdict. The advisor initially read extracted running footers as headers and proposed p. 86/p. 93. Direct download, `pdftotext -layout` with formfeeds and visual inspection of PDF page 5 established that the definition and limitations are on printed p. 87; PDF page 12 puts the crossword on printed p. 94. The advisor independently rechecked the layout and withdrew the locator objections. No inherited parallels/reflections certified.
 - Acceptance: validator against the session baseline, 1 checked / 0 failed; original statement, metadata, reflections and wikilink markup preserved.
+
+## D025: nourishment and an appetite without an endpoint
+
+- Opened: [Daodejing, James Legge translation, chapter 12](https://www.gutenberg.org/files/216/216-h/216-h.htm), unprompted fetch, 24 October 2026. Read the complete chapter, including five colours/notes/flavours, hunting and rare objects, and the concluding belly/eyes passage.
+- Exact two-sentence quotation checked against the opened text, including both parenthetical interpolations. The second sentence is newly included.
+- The belly/eyes reading is explicitly interpretation. The ancient sensory imagery is not recast as medical evidence that music or colours harm sensory organs. The attention/appetite trial is labelled the compendium's suggestion.
+- Plain words now explains satisfaction versus continuing attraction instead of replicating the instructions in the example. The example retains variation, comparison and repetition with the relevant psychological process.
+- Mention sweep “sensory excess”: Guarding the senses has the relevant sensory-restraint links; the principle retains its inherited parallels. No gratuitous new reciprocal proposed. Broader factual claims in inherited parallels/reflections are outside this rewrite's certification.
