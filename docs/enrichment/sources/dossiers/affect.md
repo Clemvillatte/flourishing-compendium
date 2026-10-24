@@ -207,3 +207,18 @@ no connective reasoning between entries (each entry is "Author's
 account — summary"); the reader cannot say what question each section
 answered. The intro's "regulable, differentiable and shared" is a
 forced triad. Line 229's "not inferred here" is process narration.
+
+## Carrier re-verification addendum (2026-10-25)
+
+Ekman 1993 (cl.cam.ac.uk PDF) re-opened: the two facial-expression
+quotes are verbatim (pp. 384 and 387). The third quote's words are
+verbatim, but the framing sentence in the dossier ("Ekman concludes
+the research supports conceiving") is a light paraphrase of the
+source's actual sentence: "The research on facial expressions has
+also shown the utility of conceiving of emotions as separate discrete
+states..." — flagged for a future pass, not changed here (substantive
+rework gated on GF approval).
+
+Posner, Russell and Peterson 2005 (PMC carrier) re-opened: all three
+quotes are verbatim; the two systems are the valence and arousal
+systems, as the dossier states. No discrepancy found.
