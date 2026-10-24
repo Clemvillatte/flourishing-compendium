@@ -2421,7 +2421,7 @@ FLAGGED for the supervisor (registry edits are supervisor-only): registry entrie
 Succession: will attempt Path B in the owner-directed window (T+55-T+58, 15:09-15:12 UTC). Note taken of the dos14 1024k Path B failure (Pro-gate upsell modal intercepting submit on a fresh free account, mail.tm address); the two 14:10 UTC launches on outlook.com addresses succeeded, so the attempt will use a smailpro outlook.com address per the protocol.
 ## Worker session record — worker-pplx-dos16-1024a, 2026-10-24 (T0 14:00:00 UTC, 60-min clock)
 
-Band: dos16 (Others, EEMM group). Deliverable: docs/enrichment/dossiers/others.md (v2 format, 133 card links, 9 external carriers, checker exit 0, voice audit exit 0) + evidence ledger docs/enrichment/sources/dossiers/others.md + batch state docs/enrichment/batches/dos16.json. Registry status left "planned" for supervisor flip; art assignment pending.
+Band: dos16 (Others, EEMM group). Deliverable: docs/enrichment/dossiers/others.md (v2 format, 133 card links, 9 external carriers, checker exit 0, voice audit exit 0) + evidence ledger docs/enrichment/sources/dossiers/others.md + batch state docs/enrichment/batches/dos16.json. Registry status left "planned" for supervisor flip. (Correction, 14:29Z: the art assignment already exists — registry art field is "others.jpg", Renoir's promenade au bord de la mer per ART-GALLERY.md; only the twelve newly minted dossiers lack art. My earlier flag was wrong.)
 
 QC history (advisor, 6 rounds, all repairs pushed):
 - R1: divergences rebuilt on opened carriers; Klimecki quote repaired; labels/wording fixed.
