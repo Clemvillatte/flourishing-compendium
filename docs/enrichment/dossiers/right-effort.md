@@ -79,6 +79,8 @@ The Sutta's own statement of the calibration:
 
 [The discipline of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20attention): Simone Weil's account of attention in her essay on the right use of school studies, collected in Waiting for God: studies as the exercise of attention.
 
+[Spiritual exercises](https://clemvillatte.github.io/flourishing-compendium/#card=Spiritual%20exercises): Hadot's name for the practice side of ancient philosophy: the daily, repeated work by which a student worked toward the complete reversal of our usual ways of looking at things, its exercises including practices of attention, self-mastery and the therapy of the passions.
+
 [The effort of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20effort%20of%20attention): William James's claim that the faculty of voluntarily bringing back a wandering attention, over and over, is the very root of judgment, character and will.
 
 [The disciplined body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20disciplined%20body): Foucault's term for what modern power makes of flesh: bodies trained, timed and arranged until the body itself carries the discipline; the caution that training and domination can look alike.
