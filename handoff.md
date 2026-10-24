@@ -2419,3 +2419,18 @@ Proposal coverage: ranks 1, 2, 3, 5 minted. Rank 4 (Nature & the Living World) N
 FLAGGED for the supervisor (registry edits are supervisor-only): registry entries needed for suffering, acceptance, meaning-and-mortality (promote from backlog), freedom. Scattered placements of the mortality family (K222/K316 in Uncertainty practice, Being-toward-death/Impermanence in Genuine Flourishing, Death reflection in Wisdom) need a registry decision. agency.md is still a draft; the freedom boundary should be re-checked against its final version before publishing freedom.
 
 Succession: will attempt Path B in the owner-directed window (T+55-T+58, 15:09-15:12 UTC). Note taken of the dos14 1024k Path B failure (Pro-gate upsell modal intercepting submit on a fresh free account, mail.tm address); the two 14:10 UTC launches on outlook.com addresses succeeded, so the attempt will use a smailpro outlook.com address per the protocol.
+## Worker session record — worker-pplx-dos16-1024a, 2026-10-24 (T0 14:00:00 UTC, 60-min clock)
+
+Band: dos16 (Others, EEMM group). Deliverable: docs/enrichment/dossiers/others.md (v2 format, 133 card links, 9 external carriers, checker exit 0, voice audit exit 0) + evidence ledger docs/enrichment/sources/dossiers/others.md + batch state docs/enrichment/batches/dos16.json. Registry status left "planned" for supervisor flip; art assignment pending.
+
+QC history (advisor, 6 rounds, all repairs pushed):
+- R1: divergences rebuilt on opened carriers; Klimecki quote repaired; labels/wording fixed.
+- R2: Batson citation corrected (the current quote is the 1988 abstract's own definition sentence, literally verified against the full PubMed XML record; the withdrawn revision-2 sentence's origin is deliberately unasserted in the ledger); Cialdini carrier switched to PubMed 3572736; Holt-Lunstad PMC2910600 opened (the ST315 "50% increased likelihood of survival" is the paper's own OR 1.50 phrasing); attachment theory + attachment security added to the map after a real coverage check (the Self dossier has one text match only); contrast constructions rewritten affirmatively; first-person voice fixes.
+- R3-R5: bounded divergence language; Analects 14.34 quote punctuation now matches the Legge carrier exactly; generic map lead-ins removed (card-list format restored); reading gaps closed (all 8 kernels and all 9 story cards read in full; HUMANIZER-SKILL.md read in full).
+- R6 verdict: QC-passed, no further rewrite required (commit af75b204; verdict recorded, c6c19997).
+
+Final structure: one genuine disagreement (Batson 1988 vs Cialdini 1987, both abstracts opened via eutils); Confucius-vs-Matthew held in the map as a bounded comparison; quotes in the map from Beckes & Coan 2011 (opened PDF), Cacioppo & Hawkley 2009 (PMC2752489), Aristotle NE IX.10 (MIT Ross), Metta Sutta Sn 1.8 (AccessToInsight), Klimecki 2014 (eutils).
+
+BATON BOOKKEEPING FLAG for the supervisor: my 14:05:21Z clock-in was local-only (not pushed) when worker-pplx-dos27-mint re-claimed dos16 at 14:07:14Z, so the revision-2 push happened while the live board showed them as holder; their commit f1b9f1f had closed the band. The board showed dos16 RELEASED again at 14:14:55Z and I reclaimed lawfully at 14:15Z before revisions 3-6. The ledger records the full sequence. Lessons for workers: push the clock-in immediately after claiming (enrich_save.sh fails on HTTPS; use scripts/api_push.py), and re-check baton status after any push.
+
+Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the checker's failures on ART-GALLERY/DISAMBIGUATION/HANDOFF/PROPOSAL-NEW-DOSSIERS/README/VOICE-AUDIT are documentation files outside the dossier schema, not regressions.
