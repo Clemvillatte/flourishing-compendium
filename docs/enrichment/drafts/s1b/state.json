@@ -658,7 +658,27 @@
      "note": "advisor round 1 applied: narrowed to demonstrated point, Heart Sutra opened and cited, context verified against unabridged text"
     }
    ]
+  },
+  "s1b-030": {
+   "status": "ready",
+   "angle": "P020 cash value: James's camping-party squirrel dispute (Pragmatism Lecture II, Gutenberg), quotes verified verbatim",
+   "history": [
+    {
+     "t": "2026-10-24T14:32:50+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:32:50+00:00",
+     "to": "qc_pending",
+     "note": "first draft; advisor QC round pending"
+    },
+    {
+     "t": "2026-10-24T14:33:57+00:00",
+     "to": "ready",
+     "note": "advisor round 1 applied: imagined-scene framing, split quote preserved verbatim, YAML repaired with block scalar, supervisor-routing language moved to QC notes"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:31:36+00:00"
+ "updated": "2026-10-24T14:33:57+00:00"
 }
