@@ -224,3 +224,7 @@ been false.
 ### Post-QC polish (2026-10-24, worker-pplx-dos16-1024a)
 
 One humanizer tell found in a final read of my own text after the round-6 verdict: the ST267 story entry still carried an "is not X" contrast construction. Rewritten affirmatively ("the face addresses me as more than an object among objects"); checker and voice audit re-run, exit 0.
+
+### Carrier note (2026-10-24, 14:29Z)
+
+ctext.org returns 403 to command-line clients (bot wall); the Analects 14.34 quote was verified against the Legge carrier through the in-session fetch tool, and the URL serves normally in a browser. Biblehub and AccessToInsight carriers re-checked this minute (HTTP 200).
