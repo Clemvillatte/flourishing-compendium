@@ -593,3 +593,14 @@ Replaced divergence quotation arrays with arguments:
   Both samples women, extreme forms of valuing happiness, cannot
   generalise to all cultures/sexes/flourishing. Public synthesis will keep
   scope explicit without an abstract-like methods display.
+
+### Candidate pass 9: meaning, recovery and finitude
+
+Twelve original cards retained across three navigable subthemes. Reused
+actually opened Frankl/Masten/TedeschiCalhoun/Taleb/Heidegger/Dhammapada/
+Dammann/Luke/SEP aesthetics carriers listed above. No new research claim.
+Restored Luke's single-priority interpretation explicitly as writer's
+reading. Distinguishes ordinary childhood resources, self-reported PTG,
+and system antifragility without prescribing adversity. The ethical
+priority of relieving avoidable suffering is both Frankl's actual
+qualification and the writer's declared stance.
