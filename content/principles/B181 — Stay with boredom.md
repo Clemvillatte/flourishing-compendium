@@ -22,7 +22,8 @@ The [Lazy Day](https://www.parallax.org/wp-content/uploads/2020/06/Happiness_202
 
 A psychological account asks a different question: [Eastwood and colleagues (2012)](https://pubmed.ncbi.nlm.nih.gov/26168505/) argue that boredom is universally conceptualised as “the aversive experience of wanting, but being unable, to engage in satisfying activity.” Their theoretical synthesis concerns attention, not a trial of the Lazy Day.
 
-**Plain words** A free moment can feel surprisingly difficult to inhabit. Reaching for entertainment may be an enjoyable choice, a way to avoid a feeling, or a search for something worth doing. The pause is an opportunity to tell those possibilities apart. It is not a contest to see how much boredom you can tolerate, and choosing an activity remains allowed.
+**Plain words**
+A free moment can feel surprisingly difficult to inhabit. Reaching for entertainment may be an enjoyable choice, a way to avoid a feeling, or a search for something worth doing. The pause is an opportunity to tell those possibilities apart. It is not a contest to see how much boredom you can tolerate, and choosing an activity remains allowed.
 
 For example: In one free moment, someone opens his phone immediately; in another, he first notices what he wants from it. He compares whether the pause clarifies the choice, then keeps that option for similar moments. He may still choose the phone. There is no promised relief from loneliness or depression.
 
