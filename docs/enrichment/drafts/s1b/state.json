@@ -698,7 +698,27 @@
      "note": "advisor round 1 applied: embellishment cut, opening exchange added from opened page, reading narrowed to cautionary companion"
     }
    ]
+  },
+  "s1b-032": {
+   "status": "ready",
+   "angle": "B161 kill the Buddha: Linji's three beatings and awakening (Record of Linji Part 6, Ru-Yi bilingual), quotes verified verbatim",
+   "history": [
+    {
+     "t": "2026-10-24T14:37:04+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:37:04+00:00",
+     "to": "qc_pending",
+     "note": "first draft; advisor QC round pending"
+    },
+    {
+     "t": "2026-10-24T14:38:11+00:00",
+     "to": "ready",
+     "note": "advisor round 1 applied: unsupported reactions cut, developmental claim removed, ending restored, violence boundary added"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:35:51+00:00"
+ "updated": "2026-10-24T14:38:11+00:00"
 }
