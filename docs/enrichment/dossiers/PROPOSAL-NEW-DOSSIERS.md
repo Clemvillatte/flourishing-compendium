@@ -63,7 +63,8 @@ content; [anxiety.md](anxiety.md) and [sadness-and-grief.md](sadness-and-grief.m
 hold suffering's anticipatory and loss-related forms; [lifes-purpose.md](lifes-purpose.md)
 carries The meaning of suffering as a single entry with the Frankl attitude quote;
 [happiness.md](happiness.md) carries Dukkha as a single entry; the right-* drafts
-carry Judgment adds the harm as single entries. No dossier maps the family. History
+carry Judgment adds the harm as single entries. No dossier maps the family; the
+placements above are single entries, not a map. History
 worth stating: the README records that the v1 abstract title "Suffering and the
 second wound" was retired, with its material meant to resurface inside topical
 dossiers; whether that disposition still serves the mission is the owner's call, and
@@ -284,7 +285,7 @@ acceptance; the rest opened in part):
   shifting behavior toward intrinsic and grateful responses, with the claims scoped
   to those studies on the card
 - [Death acceptance](../../../content/concepts/Death%20acceptance.md) — the
-  DAD-R measure's five dimensions and the three acceptance types the card holds
+  DAP-R measure's five dimensions and the three acceptance types the card holds
 - [Finitude](../../../content/concepts/Finitude.md),
   [Mortality salience](../../../content/concepts/Mortality%20salience.md) — the
   limit condition; the terror-management account, whose card itself records the
