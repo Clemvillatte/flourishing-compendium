@@ -780,7 +780,7 @@
    ]
   },
   "s1b-036": {
-   "status": "ready",
+   "status": "returned",
    "angle": "D096 outer displacing inner: Zhuangzi 19 ferryman and betting archer (Legge via ctext), quotes verified verbatim",
    "history": [
     {
@@ -796,9 +796,14 @@
      "t": "2026-10-24T14:46:53+00:00",
      "to": "ready",
      "note": "advisor repairs applied: timorousness acknowledged, invented framing removed, partial-angle limit stated, sensory-excess facets named as not carried, duplicate check clean"
+    },
+    {
+     "t": "2026-10-24T14:47:08+00:00",
+     "to": "returned",
+     "note": "duplicate of ST368 (Zhuangzi 19.4 ferryman/archer); parked as lane candidate for supervisor: backlink D096 to ST368 or register as D096 angle"
     }
    ]
   }
  },
- "updated": "2026-10-24T14:46:53+00:00"
+ "updated": "2026-10-24T14:47:08+00:00"
 }
