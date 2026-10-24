@@ -35,6 +35,11 @@ never have to select a thumbnail.
 
 ## Current assignment and rationale
 
+A rendered preview of the full assignment (all 19 works at true
+cropped proportions, grouped by navigation lens) is at
+[art-gallery-preview.jpg](art-gallery-preview.jpg) for the owner's
+review.
+
 | Dossier | Work (as attributed in the collection) | Why |
 |---|---|---|
 | Genuine Flourishing | Matisse, Le bonheur de vivre | The joy of life itself: figures at ease in nature, the flagship theme in one image. |
