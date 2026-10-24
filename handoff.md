@@ -2370,3 +2370,25 @@ prose; any regex pass must grep the mangle patterns ("I i", "I thi",
   secure credential form. No secret was exported or stored in the repository.
 - The second address in the owner's subsequent request,
   krzalfsonkasss+tbqiw@outlook.com, is designated for PROMPT-STORYTELLER.md.
+
+## Agent launch record (2026-10-25, launcher session 13b2b15d)
+
+- Owner requested Path A with two addresses.
+- Worker - Dossiers: account bro.phillip51231+yx2ng@outlook.com (Perplexity
+  account brophillip82636, Free plan). Task URL:
+  https://www.perplexity.ai/computer/tasks/9f7c9f09-87cf-48f3-abae-5625b857b2c5
+  Launched at 2026-10-25 ~14:10 UTC with PROMPT-WORKER.md verbatim (token
+  filled from the launcher session's remote, never stored in the repo). Paste
+  verified against the prepared file (7773 chars + browser trailing newline)
+  before submission. A DOSSIER worker per the prompt's bands annex.
+- Storyteller: account krzalfsonkasss+tbqiw@outlook.com (Perplexity account
+  krzalfsonk94222, Free plan; added via account menu → Add account). Task URL:
+  https://www.perplexity.ai/computer/tasks/66cc7743-ed5e-4537-9f6d-eeea0ac4130c
+  Launched at 2026-10-25 ~14:11 UTC with PROMPT-STORYTELLER.md verbatim (token
+  filled as above). Paste verified (7603 chars + browser trailing newline).
+  Note per the 2026-10-24 record: this storyteller prompt has the agent take a
+  worker baton rather than a storyteller lane — expect it in the worker baton
+  list; stories drafts go through docs/enrichment/drafts/ and PROTOCOL-STORIES.md.
+- Both sessions confirmed running server-side (titled "Enrich(ing) Philosophy
+  and Psychology Wiki Content", Working status observed). No coordination
+  needed post-launch; the baton system governs.
