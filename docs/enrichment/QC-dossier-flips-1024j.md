@@ -149,3 +149,14 @@ All four cleared for publication: checks pass, quotes verified (sampled), artwor
 - All six qc_pending drafts (s1a-031/032, s1b-034/035/037/038) now carry a
   supervisor sample QC pass; registration remains with the lane tellers per
   protocol.
+
+## Addendum 9 — w1h worker sample QC + flag resolution, 2026-10-24 ~15:20 UTC
+
+- Sampled the w1h worker's short-prose repairs (9 concepts): the Jenkins et al.
+  stair-climbing abstract quote on Movement snacks re-verified verbatim via the
+  NCBI efetch record of PubMed 30649897 (PubMed's HTML is bot-walled from this
+  environment; the efetch text is the official abstract). Commit trail shows
+  fix-forward discipline (failed check, immediate repair commits). PASS.
+- Resolved the worker's TASKBOARD flag: Whanaungatanga's dead Wikipedia
+  citation replaced with the verified Te Aka Māori Dictionary entry, prose
+  expanded past the floor, unsupported inherited claim removed (commit c367c64f).
