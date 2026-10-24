@@ -13,7 +13,7 @@ The skandhas (Sanskrit; Pali khandha) are the five aggregates — form (rūpa), 
 
 ### The clinging that hurts
 
-My reading (principle B120): experience comes as five streams, with no single owner inside them. There is no pilot; there is weather. The Khandhasaṁyutta (SN 22) adds the qualifier that matters: it is the five aggregates subject to clinging (upādānakkhandhā) that are dukkha (SN 22.48 makes the distinction, and SN 56.11 names the five clinging-aggregates as stressful). The aggregates merely present experience; the dukkha enters with the clinging.
+My reading (principle B120): experience comes as five streams, with no single owner inside them. There is no pilot; there is weather. The qualifier that matters is the one the Khandhasaṁyutta adds: SN 22.48 distinguishes the five aggregates from the five aggregates subject to clinging (upādānakkhandhā), and SN 56.11 names the five clinging-aggregates as stressful.
 
 ### The family it keeps
 

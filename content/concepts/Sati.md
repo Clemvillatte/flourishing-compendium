@@ -25,7 +25,7 @@ The refrain does three jobs at once. "Ardent" brings effort, "alert" (sampajañ�
 
 ### The company it keeps
 
-The family I place sati in crosses traditions. Weil made attention an ethical capacity, the rarest and purest form of generosity ([[Attention]]). Husserl's [[Epoché|epoché]] suspends judgment so that what appears can show itself. Csikszentmihalyi's [[Flow]] is absorption without self-consciousness, and Kabat-Zinn's secularized [[Mindfulness]] is sati's direct descendant. What marks sati out within this family is the refrain's insistence on pairing alertness with memory: the two together exist for insight into how experience is put together.
+The family I place sati in crosses traditions. Weil made attention an ethical capacity, the rarest and purest form of generosity ([[Attention]]). Husserl's [[Epoché|epoché]] suspends judgment so that what appears can show itself. Csikszentmihalyi's [[Flow]] is absorption without self-consciousness, and Kabat-Zinn built his secularized [[Mindfulness]] out of Buddhist sati. What marks sati out within this family is the refrain's insistence on pairing alertness with memory: the two together exist for insight into how experience is put together.
 
 ## Related concepts
 
@@ -41,6 +41,8 @@ The family I place sati in crosses traditions. Weil made attention an ethical ca
 ## Sources
 
 - [Satipaṭṭhāna Sutta (MN 10), trans. Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the refrain quoted verbatim
+- [Simone Weil, letter to Joë Bousquet, 13 April 1942 (Wikiquote carrier)](https://en.wikiquote.org/wiki/Simone_Weil) — "Attention is the rarest and purest form of generosity."
+- [Encyclopedia of Buddhism — Mindfulness (Western psychology)](https://encyclopediaofbuddhism.org/wiki/Mindfulness_(Western_psychology)) — "mindfulness" as the English translation of sati; MBSR adapted from Buddhist practices
 - Buddha, Satipaṭṭhāna Sutta (MN 10)
 - Buddha, Mahāsatipaṭṭhāna Sutta (DN 22)
 - Buddha, Ānāpānasati Sutta (MN 118)

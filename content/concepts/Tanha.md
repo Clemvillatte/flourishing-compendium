@@ -7,11 +7,11 @@ file: "Tanha"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Tanha (Pali; Sanskrit tṛṣṇā, "thirst") is the second Noble Truth: the craving that is the origin of dukkha. The Dhammacakkappavattana Sutta (SN 56.11) defines it as the craving that produces renewal of becoming, accompanied by passion and delight, relishing now here and now there — craving for sensual pleasure, for becoming, and for non-becoming. The Dhammapada ties craving to grief and fear: "From craving springs grief, from craving springs fear" (v. 216).
+Tanha (Pali; Sanskrit tṛṣṇā, "thirst") is the craving the second Noble Truth names as the origin of dukkha. The Dhammacakkappavattana Sutta (SN 56.11) defines it as the craving that produces renewal of becoming, accompanied by passion and delight, relishing now here and now there — craving for sensual pleasure, for becoming, and for non-becoming. The Dhammapada ties craving to grief and fear: "From craving springs grief, from craving springs fear" (v. 216).
 
 > "And this, monks, is the noble truth of the origination of stress: the craving that makes for further becoming — accompanied by passion & delight, relishing now here & now there — i.e., craving for sensual pleasure, craving for becoming, craving for non-becoming." (Dhammacakkappavattana Sutta, SN 56.11, [trans. Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
 
-My reading (principles B006, B071, B110): craving is the engine of suffering. I read tanha as desire hardened into compulsion: the practice is to investigate the urge (B071) and to distinguish need from craving (B110). The wanting mind can be watched as weather, and what is watched can be released. The third Noble Truth names tanha's cessation as the cure.
+My reading (principles B006, B071, B110): craving is the engine of suffering. The practice is to investigate the urge (B071) and to distinguish need from craving (B110). The wanting mind can be watched as weather, and what is watched can be released. The third Noble Truth names tanha's cessation as the cure.
 
 ### The family it keeps
 

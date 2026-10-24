@@ -23,7 +23,7 @@ None of these conceptions ranks the two sides: yin and yang carry valuational eq
 
 - [[T012 — Laozi]] — the chapter 42 production chain quoted above
 
-Yin and yang differ from Western moral dualisms such as good-versus-evil or spirit-versus-matter: those rank their two sides, while yin and yang hold that each requires the other, yang generated from yin and yin from yang, mutually alternating ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/yinyang/)). They are processes rather than fixed essences: the most enduring interpretation relates them to qi as a dynamic, natural form of flowing energy, and the medical texts subdivide each organ into yin and yang aspects — the activity or function of an organ is its yang aspect, its substance the yin aspect ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/yinyang/)).
+Yin and yang carry no valuational hierarchy: the IEP summary has it that yin could not be abstracted from yang (or vice versa), regarded as superior, or considered metaphysically separated and distinct, and that yinyang is emblematic of valuational equality rooted in the unified, dynamic, and harmonized structure of the cosmos ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/yinyang/)). Each requires the other: yang is generated from yin and yin from yang, and they mutually alternate ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/yinyang/)). A good-versus-evil scheme keeps a winner and a loser; nothing in the yin-yang pairing ranks its sides. They are processes rather than fixed essences: the most enduring interpretation relates them to qi as a dynamic, natural form of flowing energy, and the medical texts subdivide each organ into yin and yang aspects — the activity or function of an organ is its yang aspect, its substance the yin aspect ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/yinyang/)).
 
 ### Practical implications
 
@@ -44,7 +44,7 @@ The practical value of yin-yang thinking is diagnostic: it asks whether a proble
 - [[Qi]] — the flowing energy the pairing organizes
 - [[Dao]] — the way whose movements the pairing maps
 - [[Wu wei]] — acting with the grain the pairing describes
-- [[Ziran (naturalness)]] — what the balanced system looks like from inside
+- [[Ziran (naturalness)]] — the condition of things being what they are without compulsion, which the pairing's balance keeps intact
 ## Sources
 
 - [Daodejing, trans. James Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 42 quoted verbatim

@@ -25,7 +25,7 @@ Two habits follow. First, notice when an action is being forced by external comm
 
 - [[D002 — Practice ziran — naturalness]] — the compendium's own formulation of the value
 - [[D099 — Let things happen of themselves]] — ziran as a rule of conduct
-- [[B167 — When hungry, eat; when tired, sleep]] — the Chan koan reading of self-so action
+- [[B167 — When hungry, eat; when tired, sleep]] — the Chan dialogue on ordinary action
 - [[B124 — Meet suchness — things as they are]] — ziran's meeting-with-what-is cousin
 
 ## Related concepts
@@ -66,4 +66,4 @@ Two habits follow. First, notice when an action is being forced by external comm
 - [[B064 — Drop preferences — the Great Way is not difficult]]
 - [[SP005 — Treat yourself as part of nature]]
 
-Ziran pairs with [[Wu wei]] as the quality of action that arises from alignment rather than effort. A Daoist variant title for [[Ziran (naturalness)]] carries the same emphasis: the state of being what it is without external compulsion, the "so-of-itself" etymology.
+Ziran pairs with [[Wu wei]] as the quality of action that arises from alignment rather than effort. A Daoist variant title for [[Ziran (naturalness)]]: ziran as the state of being what it is without external compulsion, emphasising the "so-of-itself" etymology. For the full treatment see [[Ziran (naturalness)]].

@@ -39,6 +39,7 @@ Its aesthetic form is [[Wabi-sabi]], its method [[Via negativa]] (subtraction as
 
 
 - [[Natural and necessary]] — the life the necessary desires point to
+- [[Voluntary simplicity]] — the Thoreau-centred tradition of the same choice
 - [[MO049 — Learn to remove distractions — environment drives procrastination]] — the therapeutic version: remove distractions and let the environment do the work
 - [[D022]] — the subtract-first method the via negativa strand runs on
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
