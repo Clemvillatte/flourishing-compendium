@@ -341,12 +341,12 @@ Its goal research adds that the content of what a person pursues matters. In a o
 
 14. [Gratitude for sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=K280%20%E2%80%94%20Gratitude%20for%20sufficiency): each evening, name one thing you already have that is enough; not a new gratitude, but the sufficiency you normally overlook.
 
-15. [Future-self dialogue](https://clemvillatte.github.io/flourishing-compendium/#card=K322%20%E2%80%94%20Future-self%20dialogue): a letter from your self ten years out, about the decision you are facing; the complete-life question asked from the far end.
+15. [Future-self dialogue](https://clemvillatte.github.io/flourishing-compendium/#card=K322%20%E2%80%94%20Future-self%20dialogue): a letter from your self ten years out, about the decision you are facing; the kernel carries the Ersner-Hershfield future-self-continuity research, with the authors' own caution that the causal direction is unspecified.
 
 16. [Don't-break-the-chain](https://clemvillatte.github.io/flourishing-compendium/#card=K186%20%E2%80%94%20Don%27t-break-the-chain): a visible calendar and a marker; the growing chain of days becomes its own reason not to stop.
 
 17. [Mortality-to-action translation](https://clemvillatte.github.io/flourishing-compendium/#card=K316%20%E2%80%94%20Mortality-to-action%20translation): five minutes on "I will die. The timing is unknown. What does this make urgent?", then one insight translated into one action this week; the impermanence counterweight turned into work.
 
-The evidence limits are uneven across the list. The evening examination is a Stoic practice whose value is in the tradition and not in trials; the future-self dialogue carries the Hershfield line of research; the chain technique spread from a developer's account and not from a study. The other kernels carry their own evidence notes on their cards, and those notes are worth reading before relying on any of them.
+The evidence limits are uneven across the list. The evening examination is a Stoic practice whose kernel cites the self-reflection research; the future-self dialogue carries the Ersner-Hershfield future-self-continuity research, with the authors' own caution that the causal direction is unspecified; the chain technique spread from a developer's account and not from a study. The other kernels carry their own evidence notes on their cards, and those notes are worth reading before relying on any of them.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the eulogy, or the enough line, or the monthly audit has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
