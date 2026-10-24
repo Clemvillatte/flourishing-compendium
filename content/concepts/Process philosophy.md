@@ -13,13 +13,13 @@ Whitehead's metaphysics is built on a basic unit of reality he calls an "actual 
 
 Dewey, working in a related pragmatist-process direction, holds that all existents are events whose characters we determine by giving them meaning in our interaction, and that in our interactions with the world we create significances and thus determine what kind of situation occurs ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/process-philosophy/)).
 
-## What it is NOT
+### What process philosophy is not
 
-Process philosophy is not simply "everything changes." While process philosophers insist that all within and about reality is continuously going on and coming about, they do not deny that there are temporally stable and reliably recurrent aspects of reality — they take such aspects of persistence to be the regular behavior of dynamic organizations that arise due to the continuously ongoing interaction of processes ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/process-philosophy/)). Nor is it identical with Bergson's vitalism, Hegel's dialectic, or Buddhist impermanence, though each shares the anti-substantialist impulse. Its three central claims are that substance-based assumptions are dispensable, that process-based theories perform just as well or better on the familiar topics, and that there are other important topics that can only be addressed within a process metaphysics ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/process-philosophy/)).
+The slogan "everything changes" undersells process philosophy. Process philosophers insist that all within and about reality is continuously going on and coming about, and they also hold that there are temporally stable and reliably recurrent aspects of reality: such aspects of persistence are the regular behavior of dynamic organizations that arise due to the continuously ongoing interaction of processes ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/process-philosophy/)). Nor is it identical with Bergson's vitalism, Hegel's dialectic, or Buddhist impermanence, though each shares the anti-substantialist impulse. Its three central claims are that substance-based assumptions are dispensable, that process-based theories perform just as well or better on the familiar topics, and that there are other important topics that can only be addressed within a process metaphysics ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/process-philosophy/)).
 
-## Practical implications
+### Practical implications
 
-For flourishing, process philosophy suggests three interpretive shifts (these are interpretations of what follows from the metaphysics, not established empirical consequences): (1) treat your self as a process, not a fixed essence — you are a pattern of activities, habits, and relations, which means change is not a threat to identity but its medium; (2) treat problems as indeterminate situations to be transformed, following Dewey's account that meanings arise in interaction; (3) treat growth as the point of life rather than as preparation for a later "real" life.
+For flourishing, process philosophy suggests three interpretive shifts (these are interpretations of what follows from the metaphysics, not established empirical consequences): (1) treat your self as a process: a pattern of activities, habits, and relations, which makes change the medium of identity; (2) treat problems as indeterminate situations to be transformed, following Dewey's account that meanings arise in interaction; (3) treat growth as the point of life rather than as preparation for a later "real" life.
 
 ## Related concepts
 
@@ -29,15 +29,15 @@ For flourishing, process philosophy suggests three interpretive shifts (these ar
 
 - [Stanford Encyclopedia of Philosophy — Process Philosophy](https://plato.stanford.edu/entries/process-philosophy/)
 
-[[A045 — Deliberate well]]
-[[E109 — Practise the overman (Übermensch)]]
-[[B003 — Hold the self lightly (anatta)]]
-[[K031 — Abandon any expectation of results]]
-[[S044 — Act as a member of the whole]]
-[[D055 — Don't force]]
-[[P001 — Build your life on becoming, not being]]
-[[P150 — Accept incompleteness as constitutive]]
 ## Cited in philosophy parallels
 
+- [[A045 — Deliberate well]]
+- [[E109 — Practise the overman (Übermensch)]]
+- [[B003 — Hold the self lightly (anatta)]]
+- [[K031 — Abandon any expectation of results]]
+- [[S044 — Act as a member of the whole]]
+- [[D055 — Don't force]]
+- [[P001 — Build your life on becoming, not being]]
+- [[P150 — Accept incompleteness as constitutive]]
 - [[B002 — Assume change (anicca)]]
 - [[SE010 — Understand that the self is a process, not a thing]]
