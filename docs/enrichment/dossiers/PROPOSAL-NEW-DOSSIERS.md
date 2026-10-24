@@ -34,9 +34,14 @@ does not establish "this material is not covered". Where the coverage test faile
 dropped or demoted the proposal rather than padding the list.
 
 One boundary on my own claims: the research and philosophical characterizations below
-summarize what the cards themselves say with their own opened carriers. I did not
-re-open those external carriers this session. Per the binding verification standard,
-the writer of any minted dossier re-verifies every carrier they rely on.
+summarize what the cards themselves say with their own opened carriers. I additionally
+opened and verified four of the key carriers directly this session (Bratman et al. 2015
+PNAS; Litman and Mussel 2013; Hayes et al. 2006; Seligman et al. 2005), and the links
+are given where those claims appear. Per the binding verification standard, the
+writer of any minted dossier re-verifies every carrier they rely on.
+
+Card links below use the live site format:
+[label](https://clemvillatte.github.io/flourishing-compendium/#card=<encoded file>).
 
 ## Proposals, ranked
 
@@ -58,14 +63,19 @@ puts the question to them.
 
 Supporting cards (core cards read in full this session):
 - concepts/Dukkha.md (first Noble Truth, SN 56.11 and SN 36.6 quoted with carriers;
-  pain vs the second arrow; the cross-tradition family)
+  pain vs the second arrow; the cross-tradition family; its companion concept card
+  [The second arrow](https://clemvillatte.github.io/flourishing-compendium/#card=The%20second%20arrow))
 - concepts/Limit situations (Grenzsituationen).md (Jaspers via SEP: death, suffering,
   struggle, guilt as the boundaries; stories ST289-ST292 and ST311 linked from it)
+- concepts/The meaning of suffering.md (read in full: Frankl's attitude in the camps,
+  tragic optimism, the concentration-camp section with its carrier)
+- concepts/The avoidance of suffering.md (read in full: avoidance as negative
+  reinforcement, the suffering-avoidance system in BF024)
 - concepts/Acceptance.md (read in full for the Acceptance proposal; the suffering
   cluster's practical wing)
-- further cards opened in part: The meaning of suffering (Frankl), The avoidance of
-  suffering, Stuckness as suffering, Four Noble Truths, Tanha, Karuna, Judgment adds
-  the harm, Attitudinal values, Compassion
+- cards opened in part: Stuckness as suffering,
+  Four Noble Truths, Tanha, Karuna, Judgment adds the harm, Attitudinal values,
+  Compassion
 - principles B001 Face suffering directly, B006 Craving is the engine of suffering,
   B069 Don't shoot the second arrow, B099 Karuna in action, B182 Separate pain from
   suffering daily, E064 Meaning through attitude, M020 Suffering as teacher, SP095,
@@ -98,11 +108,15 @@ neighbour and the boundary must be tested from opened sources before minting:
 acceptance as willingness toward what is already here, equanimity as evenness of mind.
 
 Supporting cards (core cards read in full this session):
-- concepts/Acceptance.md (Hayes et al. 2006 definition quoted with carrier; acceptance
-  as the alternative to experiential avoidance, instrumental to values-based action;
-  Stoic and Buddhist parallels marked on the card)
-- plus cards opened in part: Radical acceptance, Amor fati (Nietzsche quoted),
-  Experiential avoidance theory, Action commitment, Chronic pain acceptance
+- concepts/Acceptance.md (read in full: the Hayes et al. 2006 definition quoted with
+  its carrier; acceptance as the alternative to experiential avoidance, instrumental
+  to values-based action; Stoic and Buddhist parallels marked on the card. The
+  definition carrier was opened and verified this session:
+  [Hayes et al. 2006](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf))
+- concepts/Radical acceptance.md (read in full: the feeling-as-wave skill, the
+  ACT-for-anger and tolerance-oriented research with carriers)
+- plus cards opened in part: Amor fati (Nietzsche quoted), Experiential avoidance
+  theory, Action commitment, Chronic pain acceptance
 - kernels K123 Radical acceptance and K385 Cognitive acceptance (titles verified)
 - principles AF039 and AF040 (titles verified; the feeling-vs-circumstance distinction
   is the map's spine)
@@ -122,19 +136,29 @@ is strong but the cluster is more compact than Suffering's.
 Why it matters: whether a person is free, what freedom costs, and why people flee it.
 The wiki holds a substantial cross-tradition cluster here.
 
-Coverage test: agency.md (planned draft) already maps Freedom, Positive freedom and
-Second-order desires as entries under "what is ever one's own to run". The existential
-wing of the cluster is not mapped anywhere: The dizziness of freedom, Anguish, Escape
-from freedom, Situated freedom, Radical freedom, Psychological reactance, The Cynic's
-freedom. The distinct question survives the test (Agency asks how much say a person
-has; this asks what freedom is and what it does to a person), but the umbrella cards
-are already placed, so the boundary is real work, and the owner may prefer to keep
-freedom as a map group inside Agency.
+Coverage test, two-sided. The Agency draft already maps the umbrella cards: Freedom,
+Positive freedom and Second-order desires sit under "what is ever one's own to run".
+And the Anxiety dossier maps the Kierkegaardian wing: The dizziness of freedom,
+Anxiety about the future, Angst and ST273 are its map entries and its first divergence
+quotes the dizziness passage, because for Kierkegaard the anxiety of possibility IS
+the dizziness of freedom. What no dossier maps is the flight-and-will wing: Escape
+from freedom (Fromm's three mechanisms, fully sourced on the card), Radical freedom
+and Situated freedom (Sartre), Anguish (angoisse), Psychological reactance (Brehm),
+Natural liberty versus the chains (Rousseau), The Cynic's freedom, The interdependence
+of freedoms. The distinct question survives for that wing (Agency asks how much say a
+person has; Anxiety asks what the anxious feeling is about; this asks what freedom is,
+what it costs and why people flee it), but two boundaries must be drawn, and the owner
+may reasonably prefer to deepen the two existing dossiers instead.
 
-Supporting cards (opened in part this session):
-- The dizziness of freedom (Kierkegaard quoted), Radical freedom (Sartre), Situated
-  freedom, Anguish (angoisse), Second-order desires (Frankfurt 1971), Psychological
-  reactance (Brehm 1966), Natural liberty versus the chains (Rousseau quoted)
+Supporting cards (opened in part this session, the two named cards read in full):
+- Escape from freedom (read in full: Fromm's authoritarianism, destructiveness and
+  automaton conformity with the panarchy carrier, plus the IEP-recorded limits of
+  Fromm's diagnosis)
+- The dizziness of freedom (read in full: the Kierkegaard passage with its carrier,
+  the honest limit that the passage sits inside a theological argument)
+- Radical freedom (Sartre), Situated freedom, Anguish (angoisse), Second-order desires
+  (Frankfurt 1971), Psychological reactance (Brehm 1966), Natural liberty versus the
+  chains (Rousseau quoted)
 - story ST273 The Dizziness of Freedom (opened and read)
 
 Draft opening question: "What is freedom for, and why do people run from it?"
@@ -142,8 +166,8 @@ Draft opening question: "What is freedom for, and why do people run from it?"
 Connections: Agency (planned), Uncertainty (groundlessness), Genuine Flourishing
 (Berlin's two freedoms already cited there), Right Effort's tuning-not-forcing.
 
-Risks: the overlap with Agency's existing entries is the main risk; if the owner does
-not want the split, the existential wing can live as a map group inside Agency.
+Risks: the two-sided overlap is the main risk; if the owner does not want the split,
+the flight-and-will material can live as map groups inside Anxiety and Agency.
 
 ### 4. Nature & the Living World (slug: nature)
 
@@ -159,10 +183,16 @@ I also opened and removed two false positives the title sweep had caught: Second
 nature is Aristotle's habit concept (NE II.1, VII.10), and S005 Live according to
 nature is Stoic cosmic nature (Meditations II.9); neither belongs to this cluster.
 
-Supporting cards (opened in part this session):
-- Nature connectedness (Mayer), Nature exposure (Bratman 2015), Nature as teacher
-  (Zhuangzi quoted), Intrinsic value of nature (Taylor), Ecological self, Ecological
-  grief (quoted), Ecological gratitude, Deep ecology
+Supporting cards (core cards read in full this session):
+- concepts/Nature exposure.md (read in full: the Bratman et al. 2015 experiment with
+  the honest P=.07 qualification on the self-report measure. The carrier was opened
+  and verified this session:
+  [Bratman et al. 2015, PNAS](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/))
+- concepts/Ecological self.md (read in full: Naess's "in, of, and for nature" passage
+  with its carrier, the practice principles R119/R116/R152)
+- cards opened in part: Nature connectedness (Mayer), Nature as teacher (Zhuangzi
+  quoted), Intrinsic value of nature (Taylor), Ecological grief (quoted), Ecological
+  gratitude, Deep ecology
 - story ST345 The Army Enlisted Against Nature (opened and read; William James's
   moral-equivalent-of-war address)
 
@@ -185,10 +215,16 @@ wisdom development's engine room.
 Coverage test: cognition.md contains no curiosity material (checked); wisdom.md
 contains none either. The Awe backlog candidate is wonder's nearest neighbour.
 
-Supporting cards (opened in part this session): Curiosity (Aristotle's Metaphysics
-wonder passage quoted), Epistemic curiosity (Berlyne/Litman), Information-gap theory
-(Loewenstein), Beginner's mind, Faith seeking understanding (Anselm), story ST344
-Suzuki Keeps the Beginner's Mind (opened and read).
+Supporting cards (core cards read in full this session):
+- concepts/Curiosity.md (read in full: Aristotle's Metaphysics wonder passage with
+  its carrier, the Golman-Loewenstein information-gap account with its carrier, the
+  ostrich-effect counterweight)
+- concepts/Epistemic curiosity.md (read in full: the Litman-Mussel I-type/D-type
+  definition. The carrier was opened and verified this session:
+  [Litman and Mussel 2013](https://drjlitman.net/papers/Litman-Mussel-2013.pdf))
+- cards opened in part: Information-gap theory (Loewenstein), Beginner's mind, Faith
+  seeking understanding (Anselm)
+- story ST344 Suzuki Keeps the Beginner's Mind (opened and read)
 
 Draft opening question: "What does it take to keep wanting to know?"
 
@@ -215,10 +251,14 @@ under identity-over-a-life). Genuine Flourishing touches virtue in its classical
 accounts. So the three-part test fails for the cluster as a whole and passes, at
 most, for the psychology wing.
 
-Supporting cards (opened in part this session): Character strengths (Peterson &
-Seligman), The chain of virtue (NE Book II), The rehearsal of virtue, Natural virtue,
-Character development (NE II quoted), Friendship shapes character (NE IX), Arete,
-Habituation, Sophrosyne.
+Supporting cards (opened in part this session):
+- Character strengths (Peterson & Seligman) (read in full: the Seligman et al. 2005
+  signature-strengths exercise with its carrier, verified this session:
+  [Seligman et al. 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf);
+  the moral-situationist debate the card itself flags)
+- The chain of virtue (read in full: NE Book II acts-to-habits-to-character),
+  The rehearsal of virtue, Natural virtue, Character development (NE II quoted),
+  Friendship shapes character (NE IX), Arete, Habituation, Sophrosyne
 
 Draft opening question: "Can character be built, and what builds it?"
 
@@ -261,7 +301,7 @@ rank it last because it cannot be minted without that decision.
 |---|---|---|---|
 | 1 | Suffering | Life Challenges, if the owner accepts revisiting the retired title | strong: core cards deep and carrier-rich |
 | 2 | Acceptance | Life Challenges | moderate-plus: ACT anchor strong, Equanimity boundary open |
-| 3 | Freedom | boundary with Agency is the real question | strong cluster, but umbrella cards already in Agency |
+| 3 | Freedom | two boundaries needed: Agency and Anxiety | the flight-and-will wing is unmapped; the Kierkegaardian wing is in Anxiety |
 | 4 | Nature & the Living World | no home under current section rules; backlog pending placement | moderate: research wing plus ecological wing |
 | 5 | Curiosity | The Mind's Life | thin: 8-10 cards, honest caveat |
 | 6 | Virtue & Character | conditional on owner's split decision vs Wisdom | the psychology wing only; ethics core already in Wisdom |
