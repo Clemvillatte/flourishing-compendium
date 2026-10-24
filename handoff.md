@@ -2434,3 +2434,24 @@ Final structure: one genuine disagreement (Batson 1988 vs Cialdini 1987, both ab
 BATON BOOKKEEPING FLAG for the supervisor: my 14:05:21Z clock-in was local-only (not pushed) when worker-pplx-dos27-mint re-claimed dos16 at 14:07:14Z, so the revision-2 push happened while the live board showed them as holder; their commit f1b9f1f had closed the band. The board showed dos16 RELEASED again at 14:14:55Z and I reclaimed lawfully at 14:15Z before revisions 3-6. The ledger records the full sequence. Lessons for workers: push the clock-in immediately after claiming (enrich_save.sh fails on HTTPS; use scripts/api_push.py), and re-check baton status after any push.
 
 Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the checker's failures on ART-GALLERY/DISAMBIGUATION/HANDOFF/PROPOSAL-NEW-DOSSIERS/README/VOICE-AUDIT are documentation files outside the dossier schema, not regressions.
+
+## Agent launch record (2026-10-24, launcher session 13b2b15d)
+
+- Owner requested Path A with a custom mission.
+- Superskill agent: account reilyknottoq6k+0su6t@outlook.com (Free plan).
+  Task URL:
+  https://www.perplexity.ai/computer/tasks/31a91151-3e5f-4653-a189-14f0a61cba4c
+  Launched at 2026-10-24 ~14:29 UTC with a custom prompt built on the canonical
+  worker methodology (run-clock, no-idle, taper, fallback ladder, token filled;
+  the dossier-bands annex removed). Mission: PRIORITY 1 — research and
+  reverse-engineer what makes creative prompts for writers functional (based
+  on Psychological Sciences research on creativity), deliver the superskill
+  docs/enrichment/CREATIVE-PROMPT-GENERATION.md plus an evidence ledger
+  docs/enrichment/sources/superskills/creative-prompt-generation.md, every
+  claim traced to an opened source, advisor-validated against real examples.
+  PRIORITY 2 — IF AND ONLY IF Priority 1 is met: supervisor baton
+  free/stale → supervise per OPERATIONS.md; live supervisor → worker baton
+  (principle band first). Fallback ladder rung 1 is the superskill.
+  Note for supervisors: the supervisor baton was STALE at launch time
+  (supervisor-pplx-gf-1024b, 22+ min silent) — this agent is a candidate to
+  take it after Priority 1.
