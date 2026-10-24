@@ -1699,7 +1699,22 @@
      "note": "Walden Economy ledger verbatim from opened raw text; DDJ 80 isolation ideal marked NOT carried"
     }
    ]
+  },
+  "s1a-061": {
+   "status": "ready",
+   "angle": "P105: Keller feeling music — rhythm through vibration and the muscular sense",
+   "history": [
+    {
+     "t": "2026-10-24T14:33:46+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:34:01+00:00",
+     "to": "ready",
+     "note": "Macy supplementary account verbatim from opened keller.txt; Dewey theory and rehearsal exercise marked NOT carried"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:33:34+00:00"
+ "updated": "2026-10-24T14:34:01+00:00"
 }
