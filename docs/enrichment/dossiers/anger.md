@@ -145,3 +145,45 @@ Seneca's treatise denies the fitting case: anger is by definition the mind's rus
 6. [Amends and restitution](https://clemvillatte.github.io/flourishing-compendium/#card=K289%20%E2%80%94%20Amends%20and%20restitution): the repair practice for the one who has done the harm.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the delay, or the dissection, or the release has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
+
+## Story: the stories that carry the theme
+
+The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+
+### What anger is taken to be
+
+[ST004 — The Empty Boat](https://clemvillatte.github.io/flourishing-compendium/#card=ST004%20%E2%80%94%20The%20Empty%20Boat): an empty boat drifts into yours and you do not shout; the same collision with a person in it fills the river with curses. The fuel is not the event but the story of a responsible offender.
+
+[ST160 — Medea Knows](https://clemvillatte.github.io/flourishing-compendium/#card=ST160%20%E2%80%94%20Medea%20Knows): Medea knows what evil she is about to do, sees it clearly and does it; passion stronger than deliberation, the portrait of weakness of will that Aristotle could not solve.
+
+[ST185 — The Gentle Person's Anger](https://clemvillatte.github.io/flourishing-compendium/#card=ST185%20%E2%80%94%20The%20Gentle%20Person%27s%20Anger): Aristotle's gentle-tempered person is praised not for never being angry but for being angry at the right things, with the right people, for the right duration; the vice is the emotion's bad aim, not the emotion.
+
+### The rush to verdict
+
+[ST131 — Juror 8 Just Wants to Talk](https://clemvillatte.github.io/flourishing-compendium/#card=ST131%20%E2%80%94%20Juror%208%20Just%20Wants%20to%20Talk): eleven jurors vote guilty at once and one says only that he does not know and wants to talk; each certainty turns out to have been borrowed.
+
+### Revenge and its release
+
+[ST372 — Dighavu Puts the Sword Away Three Times](https://clemvillatte.github.io/flourishing-compendium/#card=ST372%20%E2%80%94%20Dighavu%20Puts%20the%20Sword%20Away%20Three%20Times): Dighavu has the king who killed his parents asleep in his lap and a sword in his hand; three times the urge returns, and three times he puts the sword away.
+
+[ST060 — Aṅgulimāla Stops](https://clemvillatte.github.io/flourishing-compendium/#card=ST060%20%E2%80%94%20A%E1%B9%85gulim%C4%81la%20Stops): the serial killer runs at full speed and cannot catch a man walking at normal pace; "I have stopped. You stop."
+
+[ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): after the change, the villagers of Savatthi throw clods, stones and potsherds at the former killer, and the Buddha tells him to bear it; the intention has ended and the consequences have not.
+
+[ST226 — Mandela Invites the Jailer](https://clemvillatte.github.io/flourishing-compendium/#card=ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on his inauguration day, Mandela invites his Robben Island warders as honoured guests; the new country built on recognition rather than revenge.
+
+### Forgiveness and its limits
+
+[ST268 — Lee Cannot Be Forgiven](https://clemvillatte.github.io/flourishing-compendium/#card=ST268%20%E2%80%94%20Lee%20Cannot%20Be%20Forgiven): Lee Chandler's negligence killed his three children; he arranges his nephew's future and leaves, without forgiving himself and without a scene of redemption.
+
+### Facing the accusation
+
+[ST387 — Ciñcā Accuses the Buddha Before the Assembly](https://clemvillatte.github.io/flourishing-compendium/#card=ST387%20%E2%80%94%20Ci%C3%B1c%C4%81%20Accuses%20the%20Buddha%20Before%20the%20Assembly): a woman fakes pregnancy and accuses the Buddha before the assembly; he gives one sentence, whether her words are true or false is known only to her and to him, and the deception unmasks itself.
+
+### The classical tellings
+
+[ST146 — Achilles' Disproportionate Rage](https://clemvillatte.github.io/flourishing-compendium/#card=ST146%20%E2%80%94%20Achilles%27%20Disproportionate%20Rage): the Iliad's account of a grief that turns to rage and burns past every limit.
+
+[ST205 — Seneca on Anger](https://clemvillatte.github.io/flourishing-compendium/#card=ST205%20%E2%80%94%20Seneca%20on%20Anger): the Stoic's own account of the passion he spent three books dissecting.
+
+[ST401 — Dipa Ma Watches Anger Arise and Pass](https://clemvillatte.github.io/flourishing-compendium/#card=ST401%20%E2%80%94%20Dipa%20Ma%20Watches%20Anger%20Arise%20and%20Pass): the meditation teacher's observation that anger, watched, arises and passes on its own.

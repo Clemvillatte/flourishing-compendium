@@ -181,3 +181,15 @@ Lieberman affect-labeling study was verified against the concept page's
 own quoted abstract, not a freshly opened carrier.
 
 Commit b948db0.
+
+## Story section (worker-pplx-dossiers-1024e, 2026-10-24)
+
+Owner-directed 4th section (after Practice), per the format spec now in
+docs/enrichment/dossiers/README.md. The thirteen story loglines are
+compressed from the story cards' own text; every cited story file was
+opened and read this session (content/stories/ST004, ST060, ST131, ST146,
+ST160, ST185, ST205, ST226, ST268, ST372, ST387, ST401, ST405). The
+three map-subtheme loglines already held (ST146, ST205, ST401) were kept
+as written. No new external carrier was opened: the loglines retell the
+wiki's own story cards at narrative level and do not restate their
+historical or psychological claims.
