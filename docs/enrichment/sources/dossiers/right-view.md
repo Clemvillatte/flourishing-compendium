@@ -165,3 +165,42 @@ read from their cards and added to the Practice selection with their own
 hedged framing; kernel family sweep done (no other view-family kernels
 identified beyond K131/K134/K218/K238/K147; K157/K262/K263 are review
 kernels, off-theme).
+
+## Pass 8, advisor QC round 3 repairs (2026-10-24, ~T+26 on the run clock)
+
+Corrections of overstated records:
+- The Conze carrier check was a substring check plus a read of the raw
+  context around the quote (the passage was read in raw form before
+  quoting); the Diamond Sutra entry above now quotes the fuller section 31
+  passage, including the perception-of-dharma lines, all read from the
+  raw text. The IDP page's failure to raw-verify under curl has an
+  UNDETERMINED cause (no inspection of the page internals was made; the
+  JS-rendered guess is withdrawn).
+- The pass-6 batch note's "~08:10Z" timestamp was wrong; the actual clock
+  time of pass 6 was about T+16 (approximately 07:47Z).
+
+Story carriers, round 2:
+- ST067 (Whiplash, 2014): the Wikipedia page was fetched and
+  extraction-checked; the film facts used by the story entry (Chazelle,
+  Teller as Andrew Neiman, Simmons as Terence Fletcher, abusive
+  instructor at a conservatory) are confirmed on the opened page.
+- ST065 (Nagasena and the Chariot): no carrier visibly carrying the
+  chariot exchange could be opened this session (sacred-texts and
+  wisdomlib both refuse automated fetch; the Wikipedia Milindapanha
+  excerpt does not show the exchange). Per the advisor's direction the
+  ST065 entry is removed from the publishable draft and held in prep;
+  the next pass should open the Rhys Davids archive.org full text or
+  another reachable carrier and restore the entry.
+
+Kernel sweep relabel: the earlier "no other view-family kernels" claim is
+withdrawn; the sweep was PARTIAL (truncated list, two cards read). This
+pass read K132 (The pragmatic maxim) from its card and added it to the
+Practice selection; K238 and K147 were already added. The full kernel
+family sweep remains for the next pass.
+
+Divergence re-grounding: the MN 117 / Diamond Sutra section 31 divergence
+now quotes the fuller section 31 passage (view of self as no-view, plus
+the instruction to know and view all dharmas without setting up the
+perception of a dharma), both positions read from raw carriers; the SEP
+Nagarjuna fragments are labeled as context for the disagreement, not one
+of its poles.

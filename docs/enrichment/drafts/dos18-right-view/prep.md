@@ -111,3 +111,16 @@ The Lute String story serves right effort at least as much as right view
 the next writer decides whether it moves to the Right effort dossier when
 that band builds, per the section rules: card links may serve both, the
 logline is not duplicated).
+
+## Pass 8 notes (advisor QC round 3)
+
+- ST065 (Nagasena and the Chariot) is removed from the publishable draft
+  pending an openable carrier for the chariot exchange; restore from
+  here: the entry retold the compendium's story card. Try the Rhys
+  Davids archive.org full text, or open sacred-texts/wisdomlib in a
+  browser session.
+- Full kernel family sweep still to do (partial this session); K132,
+  K147, K238 now in the Practice selection.
+- Divergence 1 re-grounded with the fuller Diamond Sutra section 31
+  passage; the unresolved question is now levels-of-one-training vs
+  opposed stances, honestly stated.

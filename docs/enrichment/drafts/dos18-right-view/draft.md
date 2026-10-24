@@ -109,24 +109,21 @@ The modern cards in this subtheme are editorial connections the compendium draws
 
 ### Should the training affirm a view or dissolve the views?
 
-Both positions answer the same question: what work does a view do in the training? The early discourses answer by affirming a view to be held and trusted as forerunner:
+Both positions answer the same question: is the training's work with views a cultivation of a right view to be held, or a non-establishment of view? The early discourses answer by cultivating right view as forerunner:
 
 > "Of those, right view is the forerunner. And how is right view the forerunner? In one of right view, wrong view is abolished. The many evil, unskillful qualities that come into play with wrong view as their condition are also abolished, while the many skillful qualities that have right view as their condition go to the culmination of their development." ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html)): Primary text; quoted passages checked.
 
-The Mahāyāna answer dissolves the views themselves, and applies the dissolution to the Buddha's own words:
+The Mahāyāna answer extends the same dissolution to the perception of the teaching itself:
 
-> "That which has been taught by the Tathagata as 'view of self', as a no-view has that been taught by the Tathagata. Therefore is it called 'view of self'." ([Diamond Sutra, section 31, Conze rendering, full text](http://www.nyx.net/~dbachman/texts/Diamond.txt)): Primary text; quoted passages checked.
+> "That which has been taught by the Tathagata as 'view of self', as a no-view has that been taught by the Tathagata. Therefore is it called 'view of self'... someone who has set out in the Bodhisattva-vehicle should know all dharmas, view them, be intent on them. And he should know, view and be intent on them in such a way that he does not set up the perception of a dharma... 'Perception of dharma, perception of dharma,' Subhuti, as no-perception has this been taught by the Tathagata. Therefore is it called 'perception of dharma'." ([Diamond Sutra, section 31, Conze rendering, full text](http://www.nyx.net/~dbachman/texts/Diamond.txt)): Primary text; quoted passages checked against the raw text.
 
-The Madhyamaka framing of the same move, as the Stanford Encyclopedia summarizes it: emptiness is "not some kind of primordial reality ante rem but a corrective to a mistaken view of how the world exists", and "the Mādhyamikas themselves are very clear that their position avoids both of the extreme views, the view that believes in the existence of svabhāva as well as its nihilistic opposite" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)): Scholarly interpretation; cited passages checked.
+The Stanford Encyclopedia frames the Madhyamaka move as a corrective rather than a new position, which is context for the disagreement, not one of its poles: emptiness is "not some kind of primordial reality ante rem but a corrective to a mistaken view of how the world exists" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)): Scholarly interpretation; cited passages checked.
 
-What remains unresolved is whether the later move dissolves the early tradition's right view too, or whether the two operate at different levels, convictions for conduct and emptiness for reification; the Diamond Sutra applies its dissolution to the Buddha's own teaching, and the compendium holds both without adjudicating.
+What remains unresolved is the relation between the two: MN 117 affirms a view whose holding culminates skillful qualities; the Diamond Sutra instructs knowing and viewing dharmas while not setting up the perception of a dharma. The Diamond Sutra's own wording both directs the viewing and dissolves the view's reification, so the two texts may be levels of one training, a view held for cultivation but not clung to, or genuinely opposed stances toward views; the compendium holds both without adjudicating.
 
 ### Open research questions
 
 Two further candidates do not yet meet the bar, a same-question disagreement with each position quoted from an opened carrier:
-
-- Is the view a set of convictions or a direct discernment? MN 117 presents the two forms within one discourse, a grading rather than a disagreement between traditions; no carrier taking the convictions-alone position has been opened.
-- Are the truths tasks or beliefs? The sutta's verbs are quoted above; no carrier advocating a beliefs-only reading has been opened, and the compendium's tasks-not-beliefs principle is an editorial reading of the verbs.
 
 ### Is the view a set of convictions or a direct discernment?
 
@@ -156,15 +153,13 @@ The propositional reading exists in summary sources, but no carrier advocating a
 
 5. ["I am becoming" reframes](https://clemvillatte.github.io/flourishing-compendium/#card=K147%20%E2%80%94%20I%20am%20becoming%20reframes): for a stuck identity, catch the fixed label and ask what it forecloses; the reframe works on the view of self as a set quantity, and the mindset literature behind it carries its own failed-premises caution.
 
+6. [The pragmatic maxim](https://clemvillatte.github.io/flourishing-compendium/#card=K132%20%E2%80%94%20The%20pragmatic%20maxim): take the belief doing the most work in your thinking and ask what conceivable practical difference it makes against its rival; if no difference can be found, the dispute is about a word, not a world.
+
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the question put to a plan before acting, or the opposite case written once, has what the theme offered; what stays is a matter of fit between the check and the life it enters.
 
 ## Story: the stories that carry the theme
 
-The modern cards in this subtheme are editorial connections the compendium draws between the path's wrong view and the bias research; the tradition does not equate them, and neither does this page.
-
-### The view of the self
-
-- [ST065 — Nagasena and the Chariot](https://clemvillatte.github.io/flourishing-compendium/#card=ST065%20%E2%80%94%20Nagasena%20and%20the%20Chariot): King Milinda pounces on the monk's name, and Nagasena dismantles the chariot part by part until the king concedes that "chariot" is a convention for an assembly in working order, and so is Nagasena.
+Two of the compendium's view-family stories carry the theme; the third, ST065 (Nagasena and the Chariot), is held back from this page until a carrier visibly carrying the chariot exchange can be opened, because the summary sources reachable this session do not show it.
 
 ### The view of effort
 
