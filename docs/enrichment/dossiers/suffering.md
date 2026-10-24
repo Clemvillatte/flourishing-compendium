@@ -102,7 +102,7 @@ Misfortune: what happens to a person; suffering, in this map, is what the person
 
 ## Related questions and parallels
 
-Does suffering have a purpose? The traditions differ. Frankl's material holds that meaning is available in unavoidable suffering; the Buddhist material holds that the suffering is unnecessary in a different sense, manufactured by clinging; Job's story holds that the answer is not given. The wiki carries all three; the question of which is true is not settled by the cards.
+Does suffering have a purpose? The traditions ask the question at different angles, and their answers do not exclude each other. Frankl's material holds that meaning is available in unavoidable suffering, a claim about what a person can still do inside it; the Buddhist material holds that much suffering is manufactured by clinging, a claim about how part of it arises; Job's story holds that the reason for it is not given, a claim about explanation. The map carries all three, each bounded to its own question.
 
 Is acceptance the same as resignation? The chronic-pain acceptance definition, engagement without restriction, is a behavior pattern, not a mood; the Stoic material separates assent to a judgment from approval of an event. Both literatures hold the distinction, and the map holds it with them.
 

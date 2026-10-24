@@ -89,16 +89,24 @@ Corrections made in this pass:
   two literatures each hold (both hold the acceptance-vs-resignation
   distinction), with the comparative editorializing removed.
 - The two-arrows framing ("Pain is the first arrow; suffering is
-  the second") verified against SN 36.6 opened this session from
+  the second") checked against SN 36.6 opened this session from
   https://www.dhammatalks.org/suttas/SN/SN36_6.html : the sutta's own
   image is two arrows, the first the painful feeling (physical), the
-  second the sorrow added (mental); the dossier's compression is the
-  sutta's own structure.
-- The purpose question's three-way framing checked: Frankl (meaning
-  available in unavoidable suffering), Buddhist (manufactured by
-  clinging), Job (answer not given) are genuine positions on the same
-  question, stated side by side with the open question named as open;
-  no change needed.
+  second the sorrow added (mental); the dossier's compression is
+  editorial shorthand for that structure, not the sutta's own terms.
+- The purpose question's three-way framing checked and REVISED: the
+  earlier "question of which is true" framing treated Frankl, Buddhist
+  and Job as competing answers to one question; they answer different
+  questions (what a person can still do inside unavoidable suffering,
+  how part of suffering arises, whether it is explained), and the body
+  now states the three claims each bounded to its own question.
+- The two-arrows sentence in the Buddhist section ("Pain is the first
+  arrow; suffering is the second") is editorial shorthand for SN 36.6's
+  own account, which speaks of two pains, physical and mental, under
+  the two-arrows image; the shorthand is not the sutta's own
+  terminology and is not certified as such (verified against
+  https://www.dhammatalks.org/suttas/SN/SN36_6.html opened this
+  session).
 
 ## Voice
 

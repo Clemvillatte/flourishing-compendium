@@ -94,7 +94,7 @@ Cognitive load: held under the load group below; attention capture and multitask
 
 The shared question: when effort runs out, is something finite being used up? Baumeister and colleagues argued so from a series of experiments, reporting results:
 
-> "suggesting that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource." ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/))
+> "These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource." ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/))
 
 A 23-laboratory preregistered replication of the standard protocol found almost nothing:
 

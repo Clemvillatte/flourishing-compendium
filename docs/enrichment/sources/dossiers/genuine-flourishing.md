@@ -959,3 +959,16 @@ verbatim quotations appear in the dossier body (the remainder is
 paraphrase with card links). Content otherwise untouched; the owner's
 approval decision on the bridged rework remains pending and is not
 affected by this check.
+
+## Method qualification (2026-10-24, advisor QC correction, same session)
+
+The pass above located each quotation's distinctive phrases in the
+opened carrier and, where the extraction split lines, joined the
+words before comparison; for some carriers the full surrounding
+sentence was printed and compared, for others only the phrases were
+located. "Word-for-word" in the pass above means the located phrases
+matched exactly, not that every complete quotation block was
+compared character-by-character against a rendered source page.
+Counts refer to quotation blocks, not distinct passages (blocks can
+overlap or join excerpts with ellipses). Any prior verification
+record in this ledger is not displaced by this pass.

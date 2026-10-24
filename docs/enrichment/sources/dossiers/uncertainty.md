@@ -36,3 +36,16 @@ carriers this session: Keats's Negative Capability letter (Gutenberg
 (PMC5088195, verbatim; also verified in the anxiety dossier's ledger);
 Epictetus, Enchiridion 1 (MIT Classics, Carter, verbatim). All match
 word-for-word. No corrections needed; body unchanged.
+
+## Method qualification (2026-10-24, advisor QC correction, same session)
+
+The pass above located each quotation's distinctive phrases in the
+opened carrier and, where the extraction split lines, joined the
+words before comparison; for some carriers the full surrounding
+sentence was printed and compared, for others only the phrases were
+located. "Word-for-word" in the pass above means the located phrases
+matched exactly, not that every complete quotation block was
+compared character-by-character against a rendered source page.
+Counts refer to quotation blocks, not distinct passages (blocks can
+overlap or join excerpts with ellipses). Any prior verification
+record in this ledger is not displaced by this pass.
