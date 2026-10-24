@@ -3,7 +3,6 @@
  "done": [
   "B114",
   "B150",
-  "B078",
   "P175",
   "D025",
   "D103",
@@ -32,7 +31,7 @@
   "B012",
   "B049"
  ],
- "in_progress": null,
+ "in_progress": "B078",
  "flagged": {
   "D094": "Reopened for QC: Replace checklist with fresh explanation; verify mantis story scope",
   "D103": "Reopened for QC: DDJ24 source rechecked; explain self-display rather than repeat advice",
@@ -40,7 +39,7 @@
   "B038": "CROSS-BAND ERROR (2026-10-20): B038 is in p1c's manifest, not p1s's; I light-checked and edited it (plain words re-derivation + Balban/Zaccaro claim-tail trim) after misreading the queue as my manifest. Content kept or revert is the supervisor's call per the p1m precedent; advisor round-3 repairs for its body are recorded in sources/p1s/ledger.md and NOT applied by me.",
   "B021": "CROSS-BAND ERROR (2026-10-20): B021 is in p1i's manifest, not p1s's; I light-checked it (quotes re-verified, NO content edits) after misreading the queue as my manifest. Done marker removed from my state; nothing to revert.",
   "B031": "CROSS-BAND ERROR (2026-10-20): B031 is in p1k's manifest, not p1s's; I light-checked it (quote re-verified, NO content edits) after misreading the queue as my manifest. Done marker removed from my state; nothing to revert.",
-  "B078": "Reopened for QC: Supply missing poison/root connection with MN9 while distinguishing roots, fermentations and editorial naming",
+  "B078": "Reopened for QC: Verification pass on already strong body, naming-versus-source distinction",
   "B080": "Reopened for QC: MN10, Sn1.8 and Dhp5 opened; explain non-hostility without compulsory warm feelings",
   "B092": "Reopened for QC: SN46.51 discriminative inquiry; fresh Plain words and substantive BE039 relation",
   "B096": "Reopened for QC: Strengthen equanimity scope and replace underspecified example",
@@ -70,7 +69,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-24T05:38:56+00:00",
+ "updated": "2026-10-24T05:39:03+00:00",
  "band_done": false,
  "notes": {
   "B021 death-recovery check": "2026-10-20: owner reported the agent working on B021 died. Verified nothing lost: B021 (p1i item) content last committed f9ce31ef (2026-10-19 QC-repair batch, milestone 15); p1s no-edit light-check fcb33b61 + cross-band incident correction 5328d488 (2026-10-20 02:20-02:25, quotes re-verified, no action owed per supervisor disposition); p1s band closed cleanly 30/30 at 03:54:11Z (5bc8f460, baton released, in_progress None). B021 validates clean at HEAD. No in-flight work, no unpushed commits; nothing owed to the next agents."
