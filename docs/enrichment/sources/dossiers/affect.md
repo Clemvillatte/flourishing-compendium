@@ -5,7 +5,7 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 2.
 ## Method
 
 - Map construction: the dos2 manifest's title sweep (40 concepts, 5
-  kernels, 1 saying), plus a straggler screen after review: 16 additional
+  kernels, 1 saying), plus a straggler screen after review: 17 additional
   concept cards found by title search and added on reading (Theory of
   constructed emotion; Fear; Joy; Self-conscious emotions; Shame; Guilt;
   Pride; Envy; Self-transcendent emotions; Mudita; The taxonomy of
