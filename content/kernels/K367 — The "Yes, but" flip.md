@@ -49,7 +49,7 @@ A SAMHSA training handout shows the same joining in practice. The clinician refl
 
 The rewrite keeps both sides of the ambivalence in the sentence. The MI findings quoted here do not establish its effect on behavior.
 
-What the sources do not test: the passages quoted are the MI background; the specific "but to and" move is attributed to Drapkin's workbook, cited at second hand, and its effect is not established. The move's MI-tradition form is carried in published MI training materials (see the All Rise MI Toolkit quote above), but no trial isolates the flip as an intervention.
+What the sources do not test: the passages quoted are the MI background; the specific "but to and" move is attributed to Drapkin's workbook, cited at second hand, and the sources opened here do not evaluate it. The move's MI-tradition form is carried in published MI training materials (see the All Rise MI Toolkit quote above), and no trial cited on this page isolates the flip as an intervention.
 
 ## Operationalises
 
