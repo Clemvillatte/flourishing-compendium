@@ -155,11 +155,14 @@ def main(path):
                 'each with its card link (content/stories/)')
         # HUMANIZER rule: no em dashes in Story-section logline prose
         # (em dashes inside card-link labels, i.e. story titles, are fine;
-        # quoted passages are blockquotes and are skipped).
+        # quoted passages are blockquotes and are skipped; text inside
+        # inline double quotes is quoted matter and is exempt too).
         prose_dashes = 0
         for l in story_body.split('\n'):
             if '—' in l and not l.strip().startswith('>'):
                 rest = re.sub(r'\[[^\]]*\]\([^)]*\)', '', l)
+                rest = re.sub(r'"[^"]*"', '', rest)
+                rest = re.sub(r'“[^”]*”', '', rest)
                 if '—' in rest:
                     prose_dashes += 1
         if prose_dashes:

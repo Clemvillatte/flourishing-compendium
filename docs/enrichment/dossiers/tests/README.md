@@ -1,8 +1,8 @@
 # Dossier checker regression fixtures
 
-Run by hand after changing scripts/dossier_check.py. All five must FAIL
-(exit 1), each for exactly its own reason; a published dossier
-(the-self.md, anger.md) must still pass.
+Run by hand after changing scripts/dossier_check.py. Five must FAIL
+(exit 1), each for exactly its own reason; one must PASS; a published
+dossier (the-self.md, anger.md) must still pass.
 
 Fixture 1 — no external carrier at all:
 
@@ -36,6 +36,13 @@ Fixture 5 — Story section present but holding no story card link:
     python3 scripts/dossier_check.py docs/enrichment/dossiers/tests/fixture-story-empty.md
 
 Expected: "the Story section holds no story card link".
+
+Fixture 6 (must PASS) — an em dash inside inline quoted matter in a
+logline is legitimate quoted material, not a humanizer violation:
+
+    python3 scripts/dossier_check.py docs/enrichment/dossiers/tests/fixture-story-quote-dash.md
+
+Expected: OK, exit 0.
 
 The checker is a STRUCTURAL preflight (card links resolve, shape present,
 at least one externally-carried quotation, the 4th Story section after
