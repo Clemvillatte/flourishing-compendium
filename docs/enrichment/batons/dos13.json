@@ -15,5 +15,7 @@
    "from": "supervisor-pplx-1024c-dos13",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-24T13:40:41+00:00"
 }
