@@ -904,3 +904,35 @@ stays blocked.
   2. Typography: the embedded Source Serif 4 face was normal-style, weights 400-600 only → `italic`/`800` would have rendered as faux-bold faux-oblique. Embedded the real italic-800 faces (latin + latin-ext subsets, Google Fonts css2 API, base64 data-URI) as additional `@font-face` rules (8eea6ca4).
   3. Contrast: recomputed against the actual theme backgrounds, #D43745 measures 3.86:1 on the dark bg (#16150e) and 4.31:1 on light (#f7f4ec). At the owner's 18px bold the heading is 0.66px under the 18.66px bold "large text" cutoff, so as normal text it fails the 4.5:1 AA threshold on both themes. Fix applied rather than flagged: font-size raised 18px -> 19px (commit follows), which puts the heading in the large-text class where the 3:1 threshold applies and both measurements pass. The owner's color and weight were kept; a darker red was NOT recommended because darkening can worsen dark-theme contrast. The owner has not been asked whether they prefer their exact 18px over compliance.
 - Owner states a squad of new agents is being sent to work on the improved project; The owner's decision to send new agents is a decision to continue work, not an approval of GF as exemplar; exemplar approval is still pending.
+### GF exemplar punch-list session, pass 3 (2026-10-24, supervisor-pplx-gf-1024b)
+
+Advisor QC re-check (2026-10-24): the 8-chain-heavy-line punch list is
+substantively CLOSED. Zero remaining lines with 3+ semicolon-separated
+clauses in the dossier body (the section referenced in the punch list,
+"The map: the entries on flourishing", no longer exists; passes 1 and 2
+rebuilt the map and paragraphs and left nothing chainy). dossier_check:
+147 card links resolve, 33 headers, 134 carriers. dossier_registry_build
+rebuilt cleanly. build.py succeeded (5888 entries). One residual defect
+found and repaired this session: the exemplarism/ spirituality passage
+(formerly L133) said "[research on spirituality] finds associations
+involving [self-transcendent emotions]" — vague on what was associated
+with what. I opened Van Cappellen 2016 (UCLouvain Dial) and rewrote the
+passage to name the two cross-sectional studies (European churchgoers;
+US university employees interested in meditation), the reported
+relationship (religiosity/spirituality went with well-being),
+the mediator (awe, gratitude, love, peace — but not amusement or pride),
+and the causal limits (both cross-sectional, no cause established).
+Link count unchanged at 147.
+
+Rendering/registry touched: content file + site/assets/app.js
+(fcDossiersData splice). Two commits pushed via api_push.
+
+Exemplar promotion remains BLOCKED per owner stop-gate (message dated
+2026-10-24: "humanise three sentence-shaped concepts the algorithm cannot
+fix, name the problem, re-anchor to existing cases and say the fix";
+rooting task is separate; the exemplar cannot yet be promoted because a
+brain-faithfulness + LLM-detector verdict has not been produced for the
+current revised dossier). The 8-line punch list is done; "brain faith"
+verification, "the dossier is the exemplar" verdict and the rollout
+remain with the owner. This is a supervisor QC record, not owner
+approval.
