@@ -45,3 +45,21 @@ Eleven story cards were opened and each logline was compressed from the card tex
 ## For the supervisor
 
 Registry status stays planned; publish with dossier_registry_build.py.
+
+## Readability repair (revision 3, 2026-10-25)
+
+Ten public verification-status labels removed and relocated here
+(nine standard-format labels and the Kierkegaard carrier's compound
+"Secondary source quoting the primary text" label). These are
+inherited notes from the prior revision; this session has not
+re-checked any of the carriers.
+
+The Nearby-terms bullet block (Stress / Fear / Worry) was re-formatted
+as separate paragraphs so it no longer reads as a 229-word prose wall;
+no gloss or link was changed.
+
+Prose defects recorded for a future pass (substantive rework gated on
+GF owner approval): the dossier contains "rather than" contrast
+constructions; the disambiguation entries carry workflow-adjacent
+phrasing ("The sources opened for this page do not say..."). The map
+sections remain single-line attributed glosses without bridging.

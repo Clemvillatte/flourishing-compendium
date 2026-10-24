@@ -10,11 +10,15 @@ A caution that belongs at the start. Nothing on this page is clinical advice. Wh
 
 The words around anxiety are used loosely, so I keep them apart unless a source joins them. What each source does say, in the sources' own words:
 
-- Stress: Lazarus and Folkman define it as a relationship, not a feeling: "psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). I hold it under [Stress appraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and this page does not say so either.
-- Fear: Öhman and Mineka propose "an evolved module for fear elicitation and fear learning" ([Öhman and Mineka 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). Kierkegaard sets anxiety apart from fear by its object, a distinction taken up in the first divergence below. Fear and courage are held in their own group.
-- Worry: Borkovec and colleagues describe it as "a predominance of negatively valenced verbal thought activity" ([Borkovec, Ray and Stöber 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf)). It is held under [Worry research](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20research) and [Worry theory cognitive avoidance Borkovec](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20theory%20cognitive%20avoidance%20Borkovec). Whether worry is a part of anxiety is not settled by what is quoted here.
-- Angst: Heidegger's term; the Stanford Encyclopedia quotes him: "Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)). Held by [Angst](https://clemvillatte.github.io/flourishing-compendium/#card=Angst) and [Das Nichts](https://clemvillatte.github.io/flourishing-compendium/#card=Das%20Nichts).
-- Dread and apprehension: I have no card titled for either, so no separate entry is mapped.
+Stress: Lazarus and Folkman define it as a relationship, not a feeling: "psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). I hold it under [Stress appraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and this page does not say so either.
+
+Fear: Öhman and Mineka propose "an evolved module for fear elicitation and fear learning" ([Öhman and Mineka 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). Kierkegaard sets anxiety apart from fear by its object, a distinction taken up in the first divergence below. Fear and courage are held in their own group.
+
+Worry: Borkovec and colleagues describe it as "a predominance of negatively valenced verbal thought activity" ([Borkovec, Ray and Stöber 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf)). It is held under [Worry research](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20research) and [Worry theory cognitive avoidance Borkovec](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20theory%20cognitive%20avoidance%20Borkovec). Whether worry is a part of anxiety is not settled by what is quoted here.
+
+Angst: Heidegger's term; the Stanford Encyclopedia quotes him: "Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)). Held by [Angst](https://clemvillatte.github.io/flourishing-compendium/#card=Angst) and [Das Nichts](https://clemvillatte.github.io/flourishing-compendium/#card=Das%20Nichts).
+
+Dread and apprehension: I have no card titled for either, so no separate entry is mapped.
 
 ## The map: the entries on anxiety
 
@@ -156,23 +160,23 @@ The words around anxiety are used loosely, so I keep them apart unless a source 
 
 The shared question: does anxiety differ from fear in kind, or only in how far off the danger is? Kierkegaard says it differs in kind, and puts the difference in what the feeling is about. The version below comes from a newspaper essay that quotes The Concept of Anxiety:
 
-> "Anxiety may be compared with dizziness. He whose eye happens to look down into the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eyes as in the abyss . . . Hence, anxiety is the dizziness of freedom." ([Kierkegaard, The Concept of Anxiety, as quoted in a New York Times essay](https://web.stanford.edu/~jsabol/existentialism/NYT_Kierkegaard.pdf)): Secondary source quoting the primary text; quoted passage checked.
+> "Anxiety may be compared with dizziness. He whose eye happens to look down into the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eyes as in the abyss . . . Hence, anxiety is the dizziness of freedom." ([Kierkegaard, The Concept of Anxiety, as quoted in a New York Times essay](https://web.stanford.edu/~jsabol/existentialism/NYT_Kierkegaard.pdf))
 
 Heidegger takes the same line further and reads the mood as a disclosure of what a person is:
 
-> "Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)): Secondary source; quoted passage checked.
+> "Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/))
 
-The research tradition treats fear as a system with a defined job and rules of operation. Öhman and Mineka say it is activated by stimuli that are fear relevant in an evolutionary perspective, automatically, and that it is "relatively impenetrable to cognitive control" ([Öhman and Mineka, Psychological Review 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)): Secondary source; quoted passage checked. The two accounts are pitched at different levels. One asks what a mood tells a person about their situation; the other asks how a defence circuit is triggered. Whether the first kind of anxiety and the second kind of fear are one thing under two descriptions is not settled in the passages quoted.
+The research tradition treats fear as a system with a defined job and rules of operation. Öhman and Mineka say it is activated by stimuli that are fear relevant in an evolutionary perspective, automatically, and that it is "relatively impenetrable to cognitive control" ([Öhman and Mineka, Psychological Review 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)) The two accounts are pitched at different levels. One asks what a mood tells a person about their situation; the other asks how a defence circuit is triggered. Whether the first kind of anxiety and the second kind of fear are one thing under two descriptions is not settled in the passages quoted.
 
 ### Is the stress response a danger or an adaptation?
 
 The shared question: should a person try to quiet the body's stress reaction, or work with it? McEwen's review gives the physiological case that it is both, by timing:
 
-> "Yet, hormones associated with stress protect the body in the short-run and promote adaptation ('allostasis')." ([McEwen, Physiological Reviews 2007, abstract](https://www.healthandenvironment.org/uploads-old/stress%20adaptation%20brain%20McEwen%2007.pdf)): Secondary source; quoted passage checked.
+> "Yet, hormones associated with stress protect the body in the short-run and promote adaptation ('allostasis')." ([McEwen, Physiological Reviews 2007, abstract](https://www.healthandenvironment.org/uploads-old/stress%20adaptation%20brain%20McEwen%2007.pdf))
 
 The same abstract describes the other side: events in daily life that produce "a type of chronic stress and lead over time to wear and tear on the body". Crum, Salovey and Achor add that what a person believes about stress is itself a variable:
 
-> "Together, these 3 studies suggest that stress mindset is a distinct and meaningful variable in determining the stress response." ([Crum, Salovey and Achor, Journal of Personality and Social Psychology 2013, abstract](https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/crum_salovey_anchor_2013_-_rethinking_stress.pdf)): Secondary source; quoted passage checked.
+> "Together, these 3 studies suggest that stress mindset is a distinct and meaningful variable in determining the stress response." ([Crum, Salovey and Achor, Journal of Personality and Social Psychology 2013, abstract](https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/crum_salovey_anchor_2013_-_rethinking_stress.pdf))
 
 The first source is about the body over time, the second about belief at the moment of stress. Neither abstract says that believing stress is helpful makes chronic stress harmless, and this dossier does not claim it.
 
@@ -180,11 +184,11 @@ The first source is about the body over time, the second about belief at the mom
 
 The shared question: when someone goes round and round in worry, are they getting ready or hiding? Borkovec and colleagues offer a functional reading in which worry can be a way of not feeling:
 
-> "In this functional way, worry may be a type of cognitive avoidance to perceived dangers." ([Borkovec, Ray and Stöber, Cognitive Therapy and Research 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf)): Secondary source; quoted passage checked.
+> "In this functional way, worry may be a type of cognitive avoidance to perceived dangers." ([Borkovec, Ray and Stöber, Cognitive Therapy and Research 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20%281998%29%20COTR.pdf))
 
 The same paper notes that people do believe their worry protects them: "people do attribute avoidant functions to their worrying, and there may be good reasons for these attributions." The intolerance-of-uncertainty model gives those beliefs a formal role:
 
-> "The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD." ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/)): Secondary source; quoted passage checked.
+> "The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD." ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/))
 
 The two models share a structure: worry feels useful and is kept up for that reason. They differ on what is doing the work, avoidance of images in the first, intolerance of not knowing in the second. The abstracts quoted do not say which is the better account, or whether they describe different people.
 
@@ -192,15 +196,15 @@ The two models share a structure: worry feels useful and is kept up for that rea
 
 The shared question: if a fear is out of proportion, what moves it? Epicurus bets on argument:
 
-> "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not." ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html)): Primary text; quoted passage checked.
+> "Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not." ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html))
 
 Seneca bets on rehearsal, and says why:
 
-> "Therefore, nothing ought to be unexpected by us. Our minds should be sent forward in advance to meet all problems, and we should consider, not what is wont to happen, but what can happen." ([Seneca, Moral Letters to Lucilius, Letter 91, Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_91)): Primary text; quoted passage checked.
+> "Therefore, nothing ought to be unexpected by us. Our minds should be sent forward in advance to meet all problems, and we should consider, not what is wont to happen, but what can happen." ([Seneca, Moral Letters to Lucilius, Letter 91, Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_91))
 
 Clinical practice bets on approach. Craske and colleagues write:
 
-> "Exposure therapy, or repeated approach toward fear provoking stimuli, has been a mainstay of cognitive behavioral therapy for anxiety disorders since its inception." ([Craske and colleagues, Behaviour Research and Therapy 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)): Secondary source; quoted passage checked.
+> "Exposure therapy, or repeated approach toward fear provoking stimuli, has been a mainstay of cognitive behavioral therapy for anxiety disorders since its inception." ([Craske and colleagues, Behaviour Research and Therapy 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/))
 
 The three methods target different parts of a fear. Argument works on a belief, rehearsal on surprise, approach on avoidance. The Öhman and Mineka abstract above says the fear module is relatively impenetrable to cognitive control, which is a reason to doubt that argument alone will do the whole job. The sources held do not compare the methods head to head.
 
