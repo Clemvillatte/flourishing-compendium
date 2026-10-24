@@ -13,30 +13,6 @@ under Vocation as calling and The dignity of labor. Flagged for the
 supervisor: publication should wait for a verified genuine divergence
 or an owner decision on the section.
 
-Revision 3: divergence section removed per the QC review; the two
-verified quotes moved into the map entries they gloss; checker exit 0.
-
-Revision 4: the reader-facing "Primary text; quoted passages checked"
-note removed from the Weber and Dewey blockquotes (workflow language,
-kept in this ledger); the Weber entry's Beruf italics removed; the
-ST313 logline re-verified against its card in a final audit (matched).
-Checker exit 0 after each change.
-
-Revision 6: the how-to-read exclusion note reworded to
-match the map (B025 and B152 were named as excluded but listed
-inline). Right speech's equivalent note was checked and is accurate
-as written.
-
-Revision 7: a fresh coverage sweep found no new on-theme concept
-cards; Default mode network mentions the path factors incidentally
-and Right intention is a sibling factor with its own dossier; both
-stay excluded.
-
-Revision 5: a duplication found in the final read-through and
-removed: ST290 and ST064 appeared in two Story-section groups (The
-livelihood redesigned and The price refused) with identical loglines;
-they are now kept once, under The price refused. Checker exit 0.
-
 Revision 2 (QC pass): divergences reframed to the definitional contrast
 the opened texts actually support (no claim that Weber prescribes a
 maximum or that Dewey takes up the five-trades question; Weber noted as
@@ -51,6 +27,25 @@ Krumboltz, Social cognitive career theory, Life-span career theory, Ora
 et labora); the Dewey quote retains the spaced-dash typographic
 adjustment recorded in the quotes section; a
 duplicate having-mode map line removed.
+Revision 3: divergence section removed per the QC review; the two
+verified quotes moved into the map entries they gloss; checker exit 0.
+Revision 4: the reader-facing "Primary text; quoted passages checked"
+note removed from the Weber and Dewey blockquotes (workflow language,
+kept in this ledger); the Weber entry's Beruf italics removed; the
+ST313 logline re-verified against its card in a final audit (matched).
+Checker exit 0 after each change.
+Revision 5: a duplication found in the final read-through and
+removed: ST290 and ST064 appeared in two Story-section groups (The
+livelihood redesigned and The price refused) with identical loglines;
+they are now kept once, under The price refused. Checker exit 0.
+Revision 6: the how-to-read exclusion note reworded to
+match the map (B025 and B152 were named as excluded but listed
+inline). Right speech's equivalent note was checked and is accurate
+as written.
+Revision 7: a fresh coverage sweep found no new on-theme concept
+cards; Default mode network mentions the path factors incidentally
+and Right intention is a sibling factor with its own dossier; both
+stay excluded.
 
 ## Quotes and carriers, all opened this session
 
