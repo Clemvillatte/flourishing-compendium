@@ -18,11 +18,19 @@ In extracts from Toward a Psychology of Being, Abraham Maslow draws a line betwe
 
 (Abridged; the sentence continues with Maslow's definitions of self-actualization.)
 
-Maslow gives the satisfaction of basic needs a place in this account. The compendium uses his distinction as a prompt to examine the wish to learn and the wish for approval in a goal.
+Needing safety, belonging or esteem is not a defect to overcome: [Maslow's account](https://www.panarchy.org/maslow/being.1955.html) also rejects an all-or-none staircase and says basic needs and self-actualisation need not contradict each other.
 
-**Plain words** Choose a goal. What do you want to learn, and whose approval do you hope to gain? Consider what you would still want from it if nobody else knew.
+A related but distinct model comes from [Dweck and Leggett (1988)](https://mathedseminar.pbworks.com/f/Dweck+&+Leggett+(1988)+A+social-cognitive+approach+to+motivation+and+personality.pdf), who distinguish learning goals that increase competence from performance goals concerned with judgements of competence. They also [recognise adaptive performance concerns](https://mathedseminar.pbworks.com/f/Dweck+&+Leggett+(1988)+A+social-cognitive+approach+to+motivation+and+personality.pdf), including gaining access to resources; the issue is not that every wish for a good evaluation is harmful.
 
-*For example:* A student considering a course wants to learn statistical methods and wants her tutor to admire her work. She considers how each wish is affecting her choice.
+**Plain words**
+An exam result or a colleague's judgement can matter. The trouble begins when looking capable matters so much that there is no room to be a beginner. A learning aim leaves room for the unfinished attempt: it gives a mistake somewhere to go. You can still want recognition while asking what the work is teaching you.
+
+For example: A student compares polishing a familiar argument with trying an unfamiliar one. Her tutor's comments reveal a gap the unfamiliar topic helped her notice. She chooses to revise that argument, then looks for another task that will expose something she does not yet understand.
+
+## Sources
+
+- [Abraham Maslow, Toward a Psychology of Being extracts](https://www.panarchy.org/maslow/being.1955.html) — basic needs, growth, and rejection of an all-or-none progression
+- [Dweck and Leggett, A Social-Cognitive Approach to Motivation and Personality (1988), PDF](https://mathedseminar.pbworks.com/f/Dweck+&+Leggett+(1988)+A+social-cognitive+approach+to+motivation+and+personality.pdf) — learning/performance goals and adaptive performance concerns, pp. 256-260
 
 ## Psychology parallels
 

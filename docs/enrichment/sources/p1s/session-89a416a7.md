@@ -140,3 +140,14 @@ Follow-up: same advisor re-inspected both edited B181 lines and issued scoped cl
 - Expanded the very short, procedural Plain words into an explanation using an essay's paragraph, evidence and transitions. Kept the distinction between Dewey's philosophy and the compendium's process-goal application; no guarantee that outcomes automatically follow.
 - Example has competing present tasks, reader feedback as selection and retaining feedback as a habit. No universal page-count or productivity claim asserted.
 - Read Means-end continuity and Ends-in-view; end-in-view mention sweep. Both already backlink P177, so the new Ends-in-view forward link closes an existing relation without a reciprocal proposal. Other thinkers and process-focus empirical parallels remain inherited, not independently certified.
+
+## P176: learning without shaming the need for esteem
+
+- Opened unprompted: [Maslow, Toward a Psychology of Being extracts, Panarchy](https://www.panarchy.org/maslow/being.1955.html), complete available extract; [Dweck and Leggett 1988 original article PDF](https://mathedseminar.pbworks.com/f/Dweck+&+Leggett+(1988)+A+social-cognitive+approach+to+motivation+and+personality.pdf), opening model, goal definitions and adaptive-performance qualification (printed pp. 256-260). Search: Dweck/Leggett/1988/learning/performance goals. The full PDF is longer than the fetched portion; no whole-article certification.
+- Maslow's retained quotation is verbatim with its explicit original abridgment. His conceptual account is not treated as identical to, or validated by, achievement-goal research. His statement that basic needs and self-actualization need not contradict each other supports the added qualification.
+- New Dweck/Leggett paragraph distinguishes increasing competence and judgments of competence, then includes their important qualification: adaptive performance concerns include resource access and can coexist with learning. No claim that all performance goals are harmful or that a universal growth formula is established.
+- Fresh Plain words explains why protecting an image can crowd out beginner status without shaming normal needs for safety, belonging and esteem. Two writing tasks, tutor feedback and further gap-finding tasks provide variation/selection/retention. No grade improvement guaranteed.
+
+## Silence/breath/aims milestone review
+
+Advisor `p1s_silence_breathing_aims_milestone_qc_mvlyf10r`: scoped PASS B172/B190/P177; all quotations, source-to-application boundaries, fresh Plain words and 40-300 prose checked. No required fixes. Inherited parallels/reflections not certified.
