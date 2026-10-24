@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 62** — Recognise that choice reveals character
 
-Aristotle distinguishes choice from the broader category of voluntary action (NE III.2). Choice concerns what we desire after deliberating about things within our power (III.3). He gives it particular importance in judging character:
+[[T002 — Aristotle|Aristotle]] distinguishes choice from the broader category of voluntary action (NE III.2). Choice concerns what we desire after deliberating about things within our power (III.3). He gives it particular importance in judging character:
 
 > "Both the voluntary and the involuntary having been delimited, we must next discuss choice; for it is thought to be most closely bound up with virtue and to discriminate characters better than actions do."
 

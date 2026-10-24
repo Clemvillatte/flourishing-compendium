@@ -7,7 +7,7 @@ file: "Ending as completion"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-Aristotle's claim, in the first book of the Nicomachean Ethics, that happiness must be judged over a whole life and not by a moment of it. He qualifies his account of happiness with the requirement "in a complete life" ([Nicomachean Ethics I, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)):
+[[T002 — Aristotle|Aristotle]]'s claim, in the first book of the Nicomachean Ethics, that happiness must be judged over a whole life and not by a moment of it. He qualifies his account of happiness with the requirement "in a complete life" ([Nicomachean Ethics I, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)):
 
 > "But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy." (Aristotle, [Nicomachean Ethics I, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 

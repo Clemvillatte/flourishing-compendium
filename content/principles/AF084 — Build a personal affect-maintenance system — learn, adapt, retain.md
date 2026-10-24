@@ -41,7 +41,7 @@ A toolkit built in one's twenties: the Tuesday run, the friend called after bad 
 ## Philosophy parallels
 
 - **[[The examined life|The examined life]]** (Socrates, Apology 38a)
-- **[[Virtue|Virtue as cultivated habit]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as cultivated habit]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Wu wei|Wu wei as ongoing attunement]]** (Daoism, Daodejing 64)
 
 ## Practice

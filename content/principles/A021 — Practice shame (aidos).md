@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 21** — Practice shame (aidos)
 
-Aristotle refuses shame a place among the virtues, verbatim:
+[[T002 — Aristotle|Aristotle]] refuses shame a place among the virtues, verbatim:
 
 > "Shame should not be described as a virtue; for it is more like a feeling than a state of character. It is defined, at any rate, as a kind of fear of dishonour, and produces an effect similar to that produced by fear of danger; for people who feel disgraced blush, and those who fear death turn pale." (NE IV.9, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 

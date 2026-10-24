@@ -44,7 +44,7 @@ Pick a form of movement you will actually do, such as walking, yoga or lifting, 
 ## Philosophy parallels
 
 - **[[Movement as life|Movement as life]]** (Daoism, Zhuangzi)
-- **[[The walking philosopher|The walking philosopher]]** (Aristotle, peripatetic school)
+- **[[The walking philosopher|The walking philosopher]]** ([[T002 — Aristotle|Aristotle]], peripatetic school)
 - **A sound mind in a sound body** (Juvenal)
 
 ## Practice

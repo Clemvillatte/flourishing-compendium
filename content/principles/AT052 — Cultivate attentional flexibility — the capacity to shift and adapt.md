@@ -35,7 +35,7 @@ Imagine a nurse who narrows attention for a procedure, broadens it to take in th
 
 - **[[Wu wei|Wu wei as adaptability]]** (Daoism, Daodejing 8) — "The highest excellence is like (that of) water" (Legge translation, [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 - **[[The water metaphor|The water metaphor]]** (Daoism, Daodejing 8) — water "benefit[s] all things" and occupies "the low place which all men dislike" without striving ([Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
-- **[[Phronesis|Phronesis as adaptive judgment]]** (Aristotle, Nicomachean Ethics VI) — "a true and reasoned state of capacity to act with regard to the things that are good or bad for man" ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
+- **[[Phronesis|Phronesis as adaptive judgment]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI) — "a true and reasoned state of capacity to act with regard to the things that are good or bad for man" ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
 
 Cross-tradition parallels above are my analogies between cognitive flexibility and older accounts of water-like responsiveness and practical wisdom; "adaptability" and "adaptive judgment" are my glosses, not the sources' own terms.
 

@@ -8,7 +8,7 @@ tags: ["psych/affect", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-G"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter G", "parent": ""}
 ---
-Gratitude is the felt recognition of a benefit received: attention to what was given, by whom, and the impulse to acknowledge or return it. The classical anchors carried in the original entry are Seneca's On Benefits, the sustained ancient meditation on giving, receiving and returning, and Aristotle's Nicomachean Ethics VIII.14, where benefits between unequals call for a proportional answering affection. The psychological study of gratitude begins from the same observation: it is an emotion about a source.
+Gratitude is the felt recognition of a benefit received: attention to what was given, by whom, and the impulse to acknowledge or return it. The classical anchors carried in the original entry are Seneca's On Benefits, the sustained ancient meditation on giving, receiving and returning, and [[T002 — Aristotle|Aristotle]]'s Nicomachean Ethics VIII.14, where benefits between unequals call for a proportional answering affection. The psychological study of gratitude begins from the same observation: it is an emotion about a source.
 
 ### The attention theory
 

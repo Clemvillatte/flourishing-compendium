@@ -81,4 +81,4 @@ Consider a promise made aloud, in writing, or through an interpreter. Then imagi
 ## Philosophy parallels
 
 - **[[Eidos|Eidos]]** (Husserl, Ideas I)
-- **[[Essence and accident|Essence and accident]]** (Aristotle, Metaphysics)
+- **[[Essence and accident|Essence and accident]]** ([[T002 — Aristotle|Aristotle]], Metaphysics)

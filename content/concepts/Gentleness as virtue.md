@@ -7,7 +7,7 @@ file: "Gentleness as virtue"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-G"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter G", "parent": ""}
 ---
-I use "Gentleness as virtue" for Aristotle's treatment of the mean concerned with anger. In the Nicomachean Ethics:
+I use "Gentleness as virtue" for [[T002 — Aristotle|Aristotle]]'s treatment of the mean concerned with anger. In the Nicomachean Ethics:
 
 > "Now he who is angry at what and with whom he ought, and further, in right manner and time, and for proper length of time, is praised, so this Man will be Meek since Meekness is praised." (Aristotle, Nicomachean Ethics, Book IV, Chapter VII, Chase translation, [Gutenberg #8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))
 

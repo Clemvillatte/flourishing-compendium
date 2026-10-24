@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 99** — Recognise political justice (politikon dikaion)
 
-Aristotle's term for justice inside a political community is politikon dikaion. He splits it in two:
+[[T002 — Aristotle|Aristotle]]'s term for justice inside a political community is politikon dikaion. He splits it in two:
 
 > "Of political justice part is natural, part legal, natural, that which everywhere has the same force and does not exist by people's thinking this or that; legal, that which is originally indifferent, but when it has been laid down is not indifferent"
 

@@ -34,7 +34,7 @@ For example: you leave your running shoes by the door and your phone charger out
 
 ## Philosophy parallels
 
-- **[[Designing for virtue|Designing for virtue]]** (Aristotle, Politics)
+- **[[Designing for virtue|Designing for virtue]]** ([[T002 — Aristotle|Aristotle]], Politics)
 - **[[Wu wei|Wu wei: non-forcing through design]]** (Daoism, Daodejing 63)
 - **The environment shapes behaviour** (Dewey, Experience and Education)
 

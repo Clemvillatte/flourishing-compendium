@@ -41,7 +41,7 @@ So the research tradition ties identity, as a story, to a sense of unity and pur
 ## Philosophy parallels
 
 - **[[The meaning of life|The meaning of life]]** ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
-- **[[Eudaimonia|Eudaimonia as meaningful living]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as meaningful living]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[The examined life|The examined life]] as meaningful** (Socrates, Apology)
 
 ## Practice

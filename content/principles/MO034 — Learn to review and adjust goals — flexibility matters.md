@@ -41,7 +41,7 @@ The passage is about the examination of virtue, not about goal-review schedules.
 ## Philosophy parallels
 
 - **[[The examined life|The examined life as ongoing review]]** (Socrates, Apology 38a)
-- **[[Phronesis|Phronesis as adaptive judgment]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis as adaptive judgment]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Wu wei|Wu wei as responsiveness]]** (Daoism, Daodejing 8)
 
 ## Practice

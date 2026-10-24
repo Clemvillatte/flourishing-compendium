@@ -35,7 +35,7 @@ He also adds a condition that the slogan "just do it and succeed" leaves out. "P
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as habituated capability]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as habituated capability]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Gradual training|The gradual training]]** (Buddhism, Gradual Training Sutta)
 - **[[Deliberate practice|Deliberate practice]]** (Ericsson)
 

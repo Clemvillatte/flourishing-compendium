@@ -7,7 +7,7 @@ file: "Authentic courage without props"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-The phrase names Aristotle's distinction in Nicomachean Ethics III between courage proper and the various things that merely look like it. His test case is the professional soldier, whose confidence rests on props: experience of what is actually trivial in war, skill with the best arms, and a presumed superiority of numbers and resources. Strip the props away, Aristotle observes, and the confidence goes with them:
+The phrase names [[T002 — Aristotle|Aristotle]]'s distinction in Nicomachean Ethics III between courage proper and the various things that merely look like it. His test case is the professional soldier, whose confidence rests on props: experience of what is actually trivial in war, skill with the best arms, and a presumed superiority of numbers and resources. Strip the props away, Aristotle observes, and the confidence goes with them:
 
 > "In fact, the regular troops come to be cowards whenever the danger is greater than their means of meeting it; supposing, for example, that they are inferior in numbers and resources: then they are the first to fly... 'the regulars' originally went into the danger under a notion of their own superiority, but on discovering their error they took to flight, having greater fear of death than of disgrace; but this is not the feeling of the Brave man." (Aristotle, Nicomachean Ethics, Book III, trans. D. P. Chase, 1847, [Project Gutenberg #8438](https://www.gutenberg.org/files/8438/8438-0.txt))
 

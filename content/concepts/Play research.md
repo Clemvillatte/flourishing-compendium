@@ -21,7 +21,7 @@ My [[D014 — Preserve your childlike vitality]] and [[A020 — Practice wit (eu
 
 
 - [[D014 — Preserve your childlike vitality]]: my principle this research grounds
-- [[A020 — Practice wit (eutrapelia)]]: Aristotle's virtue of well-timed lightness, play's disciplined form
+- [[A020 — Practice wit (eutrapelia)]]: [[T002 — Aristotle|Aristotle]]'s virtue of well-timed lightness, play's disciplined form
 - [[Flow]]: the absorption state that play and deep work share
 - [[Passion theory Vallerand]]: what happens when play hardens into identity
 

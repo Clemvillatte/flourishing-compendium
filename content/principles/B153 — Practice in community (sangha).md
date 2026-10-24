@@ -42,7 +42,7 @@ The emphasis falls on admirable companions — people whose friendship helps som
 
 ## Philosophy parallels
 
-- **[[Friendship|Friendship as the context of the good life]]** (Aristotle, Nicomachean Ethics VIII-IX)
+- **[[Friendship|Friendship as the context of the good life]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII-IX)
 - **[[The polis|The polis]]** (Aristotle, Politics)
 
 <!-- fc: reflections

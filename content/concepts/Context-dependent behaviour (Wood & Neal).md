@@ -24,7 +24,7 @@ The model offers two control routes. Effortful inhibition fires after the cue an
 
 BE003, "Know that behaviour is triggered by context — environment drives action," states the model directly, and MO036, "Learn to use context-dependent repetition — same context, same behaviour," is its formation recipe. PP072, "Design the environment to support the practice," and Y066 on preparing the practice environment take the cue-control route, as does AT045, "Learn to protect attention through environmental design — the environment is stronger than willpower," which carries the model's jab at willpower.
 
-A108, "Practise habituation through repeated action," is Aristotle's version of the repetition mechanism, and A042's hexis is the character-level analogue. SP094, "Keep the free person's calendar," makes a nice comparison: the Stoic routine and the habit model agree that stable contexts automate action and free control for what matters. That reading is a comparison, not a documented influence.
+A108, "Practise habituation through repeated action," is [[T002 — Aristotle|Aristotle]]'s version of the repetition mechanism, and A042's hexis is the character-level analogue. SP094, "Keep the free person's calendar," makes a nice comparison: the Stoic routine and the habit model agree that stable contexts automate action and free control for what matters. That reading is a comparison, not a documented influence.
 
 ## Related concepts
 

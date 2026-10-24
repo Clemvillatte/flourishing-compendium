@@ -25,7 +25,7 @@ Study 1 used guided recall in the Netherlands, a culture with separate words for
 
 ### Here
 
-- [[A119 — Understand envy (phthonos)]] — Aristotle's envy definition, with emulation set against it in the next chapter
+- [[A119 — Understand envy (phthonos)]] — [[T002 — Aristotle|Aristotle]]'s envy definition, with emulation set against it in the next chapter
 - [[AF055 — Work with envy — it signals a value, not a defect]] — the principle built directly on this research, treating envy as a signal to audit rather than feed
 - [[A022 — Practice righteous indignation (nemesis)]] — Aristotle's mean between envy and spite, pained only at undeserved good fortune
 - [[SP021 — Take envy seriously as hatred]] — Spinoza's diagnosis of envy as hatred fed by comparison

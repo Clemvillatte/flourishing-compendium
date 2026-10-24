@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "Pride"
 
-Pride is the emotion the traditions cannot agree about. The wisdom tradition treats it as the fall itself, the saying "pride goes before destruction" carrying the warning; Aristotle's ethics makes it the crown of the virtues, a self-estimate that is both high and earned.
+Pride is the emotion the traditions cannot agree about. The wisdom tradition treats it as the fall itself, the saying "pride goes before destruction" carrying the warning; [[T002 — Aristotle|Aristotle]]'s ethics makes it the crown of the virtues, a self-estimate that is both high and earned.
 
 > "Pride, then, seems to be a sort of crown of the virtues; for it makes them greater, and it is not found without them." (Aristotle, Nicomachean Ethics IV.3, [Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 >

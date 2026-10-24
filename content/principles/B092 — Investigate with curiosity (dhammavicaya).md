@@ -39,7 +39,7 @@ For example: After a poor night, someone writes two responses to the thought tha
 ## Philosophy parallels
 
 - **[[Socratic inquiry|Socratic inquiry]]** (Plato, Theaetetus)
-- **Wonder as the beginning** (Aristotle, Metaphysics I)
+- **Wonder as the beginning** ([[T002 — Aristotle|Aristotle]], Metaphysics I)
 
 <!-- fc: reflections
 What would meeting your current experience with "what is this?" rather than "this is bad" actually change? What would the curiosity reveal?

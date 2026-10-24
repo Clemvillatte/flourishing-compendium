@@ -40,7 +40,7 @@ Wrosch and colleagues examined goal adjustment and physical health across three 
 
 - **[[The examined life|The examined life]] as ongoing practice** (Socrates, Apology 38a)
 - **[[Bhavana (cultivation)|Bhavana (ongoing cultivation)]]** (Buddhism)
-- **[[The unity of the virtues|Virtue as maintained habit]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as maintained habit]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 ## Practice
 

@@ -29,7 +29,7 @@ Its next discussion warns that affection can hide a loved person's faults and ha
 ## Philosophy parallels
 
 - **[[Rectification of the mind|Rectification of the mind]]**: the Great Learning connects attention and partiality with the conduct of family life ([commentary](https://sacred-texts.com/cfu/conf2.htm)).
-- **[[Apatheia|Apatheia]]**: the Stoic ideal excludes passions understood as mistaken, excessive impulses, but allows good feelings; it is not Aristotle's doctrine or simple emotional numbness ([Stoicism, section 4.7](https://plato.stanford.edu/entries/stoicism/)).
+- **[[Apatheia|Apatheia]]**: the Stoic ideal excludes passions understood as mistaken, excessive impulses, but allows good feelings; it is not [[T002 — Aristotle|Aristotle]]'s doctrine or simple emotional numbness ([Stoicism, section 4.7](https://plato.stanford.edu/entries/stoicism/)).
 
 ## Sources
 

@@ -7,7 +7,7 @@ file: "Righteous anger vs wrath"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Righteous anger versus wrath is the contrast between anger that is fitting to its object and anger that is excessive, prolonged or vengeful. My seed cites Aristotle, Nicomachean Ethics IV. The phrase "righteous anger" is not Aristotle's. He treats the question under good temper, as a mean with respect to anger, and he names the faulty states.
+Righteous anger versus wrath is the contrast between anger that is fitting to its object and anger that is excessive, prolonged or vengeful. My seed cites [[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV. The phrase "righteous anger" is not Aristotle's. He treats the question under good temper, as a mean with respect to anger, and he names the faulty states.
 
 ### Aristotle: anger with the right measure
 

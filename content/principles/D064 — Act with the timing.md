@@ -41,7 +41,7 @@ In both lists, timeliness is the last-named excellence, attached to the initiati
 ## Philosophy parallels
 
 
-- **[[Kairos (the opportune moment)|Kairos (the opportune moment)]]** (Aristotle, Nicomachean Ethics I and VI)
+- **[[Kairos (the opportune moment)|Kairos (the opportune moment)]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I and VI)
 - **[[The moment of vision (Augenblick)|The moment of vision (Augenblick)]]** (Heidegger, Being and Time)
 - **[[Dao|The Dao — the way things work]]** (Daoism, Daodejing 25)
 

@@ -42,7 +42,7 @@ Imagine a colleague you compete with gets the promotion you wanted. The exercise
 
 ## Philosophy parallels
 
-- **[[Wishing the friend's good for his own sake|Wishing the friend's good for his own sake]]** (Aristotle, Nicomachean Ethics VIII)
+- **[[Wishing the friend's good for his own sake|Wishing the friend's good for his own sake]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII)
 
 <!-- fc: reflections
 Where is your joy in others' success currently blocked — the rival, the ex, the colleague? What would training up to the rival actually require?

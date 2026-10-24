@@ -28,7 +28,7 @@ They are beginnings rather than finished growth, and the chapter's instruction i
 
 ## Philosophy parallels
 
-- **[[Natural virtue|Natural virtue]]** (Aristotle, Nicomachean Ethics VI.13; Mencius, The Mencius)
+- **[[Natural virtue|Natural virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI.13; Mencius, The Mencius)
 - **[[Moral sentiments|Moral sentiments]]** (Hume, A Treatise of Human Nature)
 
 ## Sources

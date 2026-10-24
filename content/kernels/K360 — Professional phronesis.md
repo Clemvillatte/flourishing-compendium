@@ -23,7 +23,7 @@ For a recurring professional decision, find the rule or protocol that governs it
 
 The kernel sits on two research traditions. On the phronesis side, Schwartz's argument for practical wisdom in professional life:
 
-> "The will to do the right thing, and the skill to determine what the right thing is, together comprise what Aristotle called phronesis, or practical wisdom. Practical wisdom, thought Aristotle, is the master virtue, helping us to use our other virtues (honesty, kindness, courage, humility, perseverance, and the like) at the right time, and in the right way."
+> "The will to do the right thing, and the skill to determine what the right thing is, together comprise what [[T002 — Aristotle|Aristotle]] called phronesis, or practical wisdom. Practical wisdom, thought Aristotle, is the master virtue, helping us to use our other virtues (honesty, kindness, courage, humility, perseverance, and the like) at the right time, and in the right way."
 > — [Barry Schwartz, "Why a Good Teacher Must Be a Wise Teacher", Jubilee Centre Insight Series, PDF](https://www.jubileecentre.ac.uk/wp-content/uploads/2023/07/SchwartzB.pdf)
 
 The same essay names what the exercise works against:

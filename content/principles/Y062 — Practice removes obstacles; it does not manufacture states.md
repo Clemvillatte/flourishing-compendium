@@ -40,4 +40,4 @@ Forcing yourself to sleep rarely works. Removing late caffeine, a hot room and t
 
 ## Philosophy parallels
 
-- **[[Art completes what nature begins|Art completes what nature begins]]** (Aristotle, Generation of Animals I.1)
+- **[[Art completes what nature begins|Art completes what nature begins]]** ([[T002 — Aristotle|Aristotle]], Generation of Animals I.1)

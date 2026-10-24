@@ -41,7 +41,7 @@ The hard part is usually the moment before the act, not the act itself: the conv
 ## Philosophy parallels
 
 - **Duty as the categorical imperative** (Kant, Groundwork)
-- **[[Courage|Courage as virtue]]** (Aristotle, NE III.6-9)- **[[Phronesis|Phronesis]]** (Stoicism)
+- **[[Courage|Courage as virtue]]** ([[T002 — Aristotle|Aristotle]], NE III.6-9)- **[[Phronesis|Phronesis]]** (Stoicism)
 
 
 <!-- fc: reflections

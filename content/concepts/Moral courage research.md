@@ -28,7 +28,7 @@ So courage sat between leadership and behaviour: it carried the effect. The stud
 ### Here
 
 - [[S031 — Do what is fitting, not what is easy]] — the Stoic version of the judgment-action gap this research measures
-- [[A004 — Become virtuous by doing virtuous acts]] — the definition's "malleable character strength" in Aristotle's terms
+- [[A004 — Become virtuous by doing virtuous acts]] — the definition's "malleable character strength" in [[T002 — Aristotle|Aristotle]]'s terms
 - [[A047 — Let practical wisdom unify the virtues]] — courage as one virtue under wisdom's direction
 - [[K251 — Signature strengths in new ways]] — the strengths research this definition draws on
 

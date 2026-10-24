@@ -38,7 +38,7 @@ Purpose is not a goal to be achieved but a direction to be pursued. It answers t
 
 ## Philosophy parallels
 
-- [[Eudaimonia|Eudaimonia as organising end]] (Aristotle, Nicomachean Ethics I.7)
+- [[Eudaimonia|Eudaimonia as organising end]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.7)
 - [[The will to meaning|The will to meaning]] ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 
 <!-- fc: reflections

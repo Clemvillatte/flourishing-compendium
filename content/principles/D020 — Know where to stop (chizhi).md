@@ -52,7 +52,7 @@ The principle's picture is a fill line, the mark on a cup past which more costs 
 ## Philosophy parallels
 
 - **[[Nothing in excess|Nothing in excess]]** (Delphic maxim inscribed at the Temple of Apollo)
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 <!-- fc: reflections
 Where is the overflow point in your life — the extra drink, hour, win, word? Do you stop before it?

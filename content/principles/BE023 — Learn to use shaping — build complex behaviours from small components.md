@@ -36,7 +36,7 @@ Skinner's procedure starts with food for a pigeon turning toward a spot. It then
 
 - **[[Gradual training|The gradual training]]** (Buddhism)
 - **[[The thousand-mile journey|The thousand-mile journey]]** (Laozi, Daodejing 64)
-- **[[Building on foundation|Building on foundation]]** (Aristotle)
+- **[[Building on foundation|Building on foundation]]** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

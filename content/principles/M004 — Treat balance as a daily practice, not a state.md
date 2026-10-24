@@ -33,5 +33,5 @@ Suppose extra work has displaced every visit with a close friend. You could disc
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The golden mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The golden mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Nothing too much|Nothing too much]]** (Delphic maxim)

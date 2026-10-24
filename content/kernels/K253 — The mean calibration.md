@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K253** — The mean calibration
 
-For one virtue at a time, track the two vices around it, the excess and the deficiency, and rate where each situation landed. The rules come from Aristotle's doctrine of the mean in Nicomachean Ethics II ([Chase translation](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): the target is not the mathematical midpoint but the mean relative to the person and the situation. Reach for it when a virtue keeps failing in the same direction, and the failures all lean one way.
+For one virtue at a time, track the two vices around it, the excess and the deficiency, and rate where each situation landed. The rules come from [[T002 — Aristotle|Aristotle]]'s doctrine of the mean in Nicomachean Ethics II ([Chase translation](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): the target is not the mathematical midpoint but the mean relative to the person and the situation. Reach for it when a virtue keeps failing in the same direction, and the failures all lean one way.
 
 ### What it rests on
 

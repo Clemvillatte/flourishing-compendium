@@ -7,7 +7,7 @@ file: "The contemplative life"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The contemplative life, in Aristotle's account in Nicomachean Ethics Book X, is happiness at its highest. Perfect happiness is activity in accordance with the highest virtue, and the activity of the highest element in us is contemplative ([Aristotle, NE X.7, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
+The contemplative life, in [[T002 — Aristotle|Aristotle]]'s account in Nicomachean Ethics Book X, is happiness at its highest. Perfect happiness is activity in accordance with the highest virtue, and the activity of the highest element in us is contemplative ([Aristotle, NE X.7, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
 
 > "But we must not follow those who advise us, being men, to think of human things, and, being mortal, of mortal things, but must, so far as we can, make ourselves immortal, and strain every nerve to live in accordance with the best thing in us; for even if it be small in bulk, much more does it in power and worth surpass everything."
 > — [Aristotle, Nicomachean Ethics X.7, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)

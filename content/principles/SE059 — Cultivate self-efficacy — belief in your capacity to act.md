@@ -34,7 +34,7 @@ The abstract adds how the expectation grows: "Persistence in activities that are
 ## Philosophy parallels
 
 - **[[Will to power|The will to power as capacity]]** (Nietzsche, Beyond Good and Evil)
-- **[[The unity of the virtues|Virtue as built capacity]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as built capacity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right effort|Right effort]]** (Buddhism, Eightfold Path)
 
 ## Practice

@@ -39,4 +39,4 @@ The psychology bullet cites Goetz et al. (2010) as "compassion training", but th
 ## Philosophy parallels
 
 - **[[Care as practice|Care as practice]]** (Tronto, Moral Boundaries)
-- **Practice and habit** (Aristotle, Nicomachean Ethics II.1)- **[[Care ethics|Care ethics]]** (Relational traditions)
+- **Practice and habit** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.1)- **[[Care ethics|Care ethics]]** (Relational traditions)

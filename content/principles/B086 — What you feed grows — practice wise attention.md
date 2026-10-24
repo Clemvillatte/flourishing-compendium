@@ -38,7 +38,7 @@ Pick one mental state you keep rehearsing, and ask what it is living on. The reh
 ## Philosophy parallels
 
 - **[[Attention|Attention as prayer]]** (Weil, Waiting for God)
-- **[[Habituation|Habituation]]** (Aristotle, Nicomachean Ethics II)
+- **[[Habituation|Habituation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 <!-- fc: reflections
 What mental state are you currently watering with attention that you'd rather wither? What would withdrawing the water actually do?

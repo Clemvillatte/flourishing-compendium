@@ -48,7 +48,7 @@ Sennett's definition is portable: the desire to do a job well for its own sake, 
 
 ## Philosophy parallels
 
-- [[Techne|Techne as craft knowledge]] (Aristotle, Nicomachean Ethics VI)
+- [[Techne|Techne as craft knowledge]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - The craftsman (Sennett, The Craftsman)
 
 <!-- fc: reflections

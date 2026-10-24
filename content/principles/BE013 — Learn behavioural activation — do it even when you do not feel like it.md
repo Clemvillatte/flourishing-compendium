@@ -32,7 +32,7 @@ For example: someone who has stopped answering messages picks two evenings a wee
 
 ## Philosophy parallels
 
-- **[[Action precedes feeling|Action precedes feeling]]** (Aristotle, Nicomachean Ethics II)
+- **[[Action precedes feeling|Action precedes feeling]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right effort|Right effort despite difficulty]]** (Buddhism)
 - **[[Virtue|Virtue as action]]** (Aristotle)
 

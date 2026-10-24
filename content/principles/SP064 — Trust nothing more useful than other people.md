@@ -40,5 +40,5 @@ List the three people who most help you think clearly. Plan something concrete w
 
 ## Philosophy parallels
 
-- **Man is a political animal** (Aristotle, Nicomachean Ethics I.7)
+- **Man is a political animal** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.7)
 - **No man is an island** (Donne, Devotions upon Emergent Occasions)

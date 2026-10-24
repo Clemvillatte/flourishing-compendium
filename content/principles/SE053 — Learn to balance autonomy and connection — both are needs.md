@@ -26,7 +26,7 @@ Ryan and Deci's account proposes three basic psychological needs: competence, au
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean between independence and dependence]]** (Aristotle, Nicomachean Ethics)
+- **[[The doctrine of the mean|The mean between independence and dependence]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[I and Thou|I and Thou: both autonomy and relation]]** (Buber, I and Thou)
 - **[[Ubuntu|Ubuntu and individuality together]]** (African Philosophy)
 

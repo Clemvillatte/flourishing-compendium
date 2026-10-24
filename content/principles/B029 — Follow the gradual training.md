@@ -43,7 +43,7 @@ Trying advanced meditation on top of a chaotic life is like calculus before arit
 ## Philosophy parallels
 
 - **[[The bud vanishing into the blossom|The bud vanishing into the blossom]]** (Hegel, Phenomenology of Spirit, Preface)
-- **[[Potentiality to actuality|Potentiality to actuality through stages]]** (Aristotle, Metaphysics IX)- **[[Eightfold Path|Eightfold Path]]** (Buddhism, SN 56.11)
+- **[[Potentiality to actuality|Potentiality to actuality through stages]]** ([[T002 — Aristotle|Aristotle]], Metaphysics IX)- **[[Eightfold Path|Eightfold Path]]** (Buddhism, SN 56.11)
 
 
 <!-- fc: reflections

@@ -35,7 +35,7 @@ These studies found substantial effects on lapses in simple attention after exte
 
 - **[[Yangsheng (cultivating vitality)|Yangsheng (life-nourishment)]]** (Daoism, Neiye)
 - **[[Care|Care of the body as care of the soul]]** (Michel de Montaigne, Essays)
-- **[[The importance of rest|The importance of rest]]** (Aristotle, Nicomachean Ethics X)
+- **[[The importance of rest|The importance of rest]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X)
 
 ## Practice
 

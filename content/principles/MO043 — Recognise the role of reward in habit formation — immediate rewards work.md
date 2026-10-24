@@ -38,7 +38,7 @@ Separately, in an interview about forming habits, Stanford behavior scientist BJ
 ## Philosophy parallels
 
 - **The unity of duty and inclination** (Kant)
-- **[[Joy|Joy in the activity]]** (Aristotle, Nicomachean Ethics X)
+- **[[Joy|Joy in the activity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X)
 - **[[Wu wei|Wu wei: enjoying the process]]** (Daoism, Zhuangzi)
 
 ## Practice

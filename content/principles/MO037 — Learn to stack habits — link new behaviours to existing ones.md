@@ -38,7 +38,7 @@ For example: "after I pour my morning coffee, I write for ten minutes". Keep the
 
 ## Philosophy parallels
 
-- **[[Building on foundation|Building on foundation]]** (Aristotle, Nicomachean Ethics II)
+- **[[Building on foundation|Building on foundation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Gradual training|The gradual training]]** (Buddhism, Gradual Training Sutta)
 - **A journey begins with a single step** (Laozi, Daodejing 64)
 

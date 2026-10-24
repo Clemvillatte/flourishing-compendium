@@ -18,7 +18,7 @@ Book X's case for the contemplative life argues that it is the best activity (re
 
 > But we must not follow those who advise us, being men, to think of human things, and, being mortal, of mortal things, but must, so far as we can, make ourselves immortal, and strain every nerve to live in accordance with the best thing in us.
 >
-> Aristotle, Nicomachean Ethics X.7, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
+> [[T002 — Aristotle|Aristotle]], Nicomachean Ethics X.7, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
 The comparison is about company and equipment. Every virtuous person needs the necessaries of life; the just person also needs other people to be just towards, while the thinker can work alone. The pleasure argument runs alongside it: the pursuit is thought to offer pleasures marvellous for their purity and their enduringness. Making room for it is ordinary work: some hours, a subject, and staying with a hard question.

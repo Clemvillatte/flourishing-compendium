@@ -35,7 +35,7 @@ The study concerns switching between tasks, not notifications specifically. My r
 ## Philosophy parallels
 
 - **[[Right speech|Right speech includes right notification]]** (Buddhism, Eightfold Path, adapted)
-- **[[Environmental design|Environmental design over willpower]]** (Aristotle, Politics)
+- **[[Environmental design|Environmental design over willpower]]** ([[T002 — Aristotle|Aristotle]], Politics)
 - **[[Simplicity|Simplicity]]** (Daoism, Daodejing 19)
 
 ## Practice

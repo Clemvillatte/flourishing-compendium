@@ -7,7 +7,7 @@ file: "The joy of virtue"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-“The joy of virtue” — Aristotle, Nicomachean Ethics X.
+“The joy of virtue” — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics X.
 
 ### What it is
 

@@ -26,7 +26,7 @@ In the Preface to Part IV of the Ethics, Spinoza defines good as what we certain
 ## Philosophy parallels
 
 - **[[Adiaphora, the indifferents|Adiaphora, the indifferents]]** (Epictetus, Enchiridion)
-- **[[The doctrine of the mean|The mean relative to us]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean relative to us]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 ## Sources
 

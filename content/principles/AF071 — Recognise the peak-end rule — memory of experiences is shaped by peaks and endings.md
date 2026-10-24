@@ -39,7 +39,7 @@ When you plan a long meeting or a hard task, decide in advance how it will end, 
 ## Philosophy parallels
 
 - **The whole is in the part** (Whitehead, Process and Reality)
-- **[[Ending as completion|Ending as completion]]** (Aristotle, Nicomachean Ethics I)
+- **[[Ending as completion|Ending as completion]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I)
 
 ## Practice
 

@@ -37,7 +37,7 @@ Read carefully, this is a claim about information use in specific environments, 
 
 ## Philosophy parallels
 
-- **[[Phronesis|Phronesis as practical judgment under uncertainty]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis as practical judgment under uncertainty]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Wu wei|Wu wei as responsive action]]** (Daoism, Zhuangzi)
 - **[[Amor fati|Amor fati]]** (Nietzsche, The Gay Science)
 

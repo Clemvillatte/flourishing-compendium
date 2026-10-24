@@ -46,7 +46,7 @@ The cook contrasts his blade with the ones that wear out: the good cook's knife 
 
 
 - **[[Ready-to-hand|Ready-to-hand (Zuhandenheit)]]** (Heidegger, Being and Time), skilled coping opens into the world's usable structure
-- **[[Phronesis|Phronesis as situational reading]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis as situational reading]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Dao|The Dao — the way things work]]** (Daoism, Daodejing 25)
 - **[[Ziran (naturalness)|Ziran — naturalness]]** (Daoism, Daodejing 25)
 

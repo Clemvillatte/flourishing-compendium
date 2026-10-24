@@ -7,7 +7,7 @@ file: "Catharsis"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Catharsis is Aristotle's word for what tragedy does with pity and fear. His definition of tragedy, in Butcher's translation:
+Catharsis is [[T002 — Aristotle|Aristotle]]'s word for what tragedy does with pity and fear. His definition of tragedy, in Butcher's translation:
 
 > "Tragedy, then, is an imitation of an action that is serious, complete, and of a certain magnitude; in language embellished with each kind of artistic ornament... in the form of action, not of narrative; through pity and fear effecting the proper purgation of these emotions." (Aristotle, Poetics VI, tr. Butcher, [Project Gutenberg](https://www.gutenberg.org/files/1974/1974-h/1974-h.htm))
 

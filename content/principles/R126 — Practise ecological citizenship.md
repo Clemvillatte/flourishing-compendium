@@ -40,4 +40,4 @@ Eckersley's The Green State, where the more-than-human dimension is more likely 
 ## Philosophy parallels
 
 - **[[Ecological citizenship|Ecological citizenship]]** (Dobson, Citizenship and the Environment)
-- **[[The common good|The common good]]** (Aristotle, Politics)
+- **[[The common good|The common good]]** ([[T002 — Aristotle|Aristotle]], Politics)

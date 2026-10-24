@@ -37,7 +37,7 @@ Imagine joining a study group in which people admit when they do not understand 
 
 ## Philosophy parallels
 
-- **[[Friendship shapes character|Friendship shapes character]]** (Aristotle, Nicomachean Ethics IX)
+- **[[Friendship shapes character|Friendship shapes character]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IX)
 - **[[Moral exemplarism|Moral exemplarism]]** (Zagzebski, Exemplarist Moral Theory)
 
 <!-- fc: reflections

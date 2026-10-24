@@ -40,7 +40,7 @@ The studies asked people to write down things they were thankful for, next to pe
 
 ## Philosophy parallels
 
-- [[Gratitude|Gratitude as a virtue]] (Aristotle, Nicomachean Ethics)
+- [[Gratitude|Gratitude as a virtue]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - The gift relationship (Mauss, The Gift)
 
 <!-- fc: reflections

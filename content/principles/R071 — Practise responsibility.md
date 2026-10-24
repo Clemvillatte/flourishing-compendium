@@ -37,4 +37,4 @@ You see that an elderly neighbour's bins have not gone out. You tell her you'll 
 
 ## Philosophy parallels
 
-- **[[Responsibility|Responsibility]]** (Levinas, Totality and Infinity; Aristotle, Nicomachean Ethics III.1)
+- **[[Responsibility|Responsibility]]** (Levinas, Totality and Infinity; [[T002 — Aristotle|Aristotle]], Nicomachean Ethics III.1)

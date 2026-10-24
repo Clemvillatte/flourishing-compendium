@@ -22,7 +22,7 @@ Foa and McLean's 2016 review describes prolonged exposure's two components, in v
 I scale the technique to self-help size. BE027 teaches graded exposure directly, start small and build up; BE025 names avoidance as the maintaining factor the approach undoes; BE026 gives the exposure principles. The cross-tradition parallels are marked as such: A011's courage (andreia) is the Aristotelian virtue version, B029's gradual training the Buddhist one, S063's refusal to fear the uncontrollable the Stoic one, and B066's watching states arise and pass the contemplative mechanism the hierarchy exploits. P163's creative hopelessness supplies the letting-go, and K117 is my kernel form.
 
 - [[BE027 — Learn to use graded exposure — start small, build up]] — the technique as a learnable practice
-- [[A011 — Practice courage (andreia)]] — the virtue version, from Aristotle
+- [[A011 — Practice courage (andreia)]] — the virtue version, from [[T002 — Aristotle|Aristotle]]
 - [[BE025 — Recognise avoidance as the core maintaining factor of anxiety and fear]] — the problem the approach treats
 - [[BE026 — Learn exposure therapy principles — approach what you fear]] — the principles behind the practice
 - [[B066 — Watch states arise and pass]] — the contemplative observation the hierarchy relies on

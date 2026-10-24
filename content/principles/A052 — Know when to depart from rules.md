@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 52** — Know when to depart from rules
 
-Aristotle's term for this is the equitable, and his account is structural: law speaks universally, but cases arrive that the universal statement misses. In those cases, Aristotle says, the equitable acts as a correction of the law where it is defective owing to its universality.
+[[T002 — Aristotle|Aristotle]]'s term for this is the equitable, and his account is structural: law speaks universally, but cases arrive that the universal statement misses. In those cases, Aristotle says, the equitable acts as a correction of the law where it is defective owing to its universality.
 
 > "And this is the nature of the equitable, a correction of law where it is defective owing to its universality." ([NicEth V.10, Ross](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 

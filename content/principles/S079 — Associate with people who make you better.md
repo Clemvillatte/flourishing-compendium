@@ -34,7 +34,7 @@ So be deliberate about your associations: the choice of company is a choice abou
 ## Philosophy parallels
 
 - **[[Community|Community of inquiry]]** (Peirce, Collected Papers)
-- **The friend as mirror** (Aristotle, NE IX.9)
+- **The friend as mirror** ([[T002 — Aristotle|Aristotle]], NE IX.9)
 
 <!-- fc: reflections
 Who in your life makes you better? Who doesn't? What would you do about it?

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 95** — Practise self-sufficiency (autarkeia)
 
-Aristotle says the self-sufficiency of happiness "must belong most to the contemplative activity". The just, temperate and brave person each need other people to act on. The philosopher "even when by himself, can contemplate truth", though he "can perhaps do so better if he has fellow-workers, but still he is the most self-sufficient" ([NE X.7, Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
+[[T002 — Aristotle|Aristotle]] says the self-sufficiency of happiness "must belong most to the contemplative activity". The just, temperate and brave person each need other people to act on. The philosopher "even when by himself, can contemplate truth", though he "can perhaps do so better if he has fellow-workers, but still he is the most self-sufficient" ([NE X.7, Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
 
 He sets two limits on this. First, we are not gods: "our nature is not self-sufficient for the purpose of contemplation, but our body also must be healthy and must have food and other attention." Second, the happy person does not need much: "self-sufficiency and action do not involve excess... even with moderate advantages one can act virtuously" (NE X.8).
 

@@ -41,7 +41,7 @@ The person who optimises morning routines and focus blocks, and has nothing sche
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as the end]]** (Aristotle, Nicomachean Ethics I)
+- **[[Eudaimonia|Eudaimonia as the end]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I)
 - **[[Right concentration|Right concentration serves liberation]]** (Buddhism, Eightfold Path)
 - **[[The examined life|The examined life]]** (Socrates, Apology 38a)
 

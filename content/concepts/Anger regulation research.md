@@ -26,7 +26,7 @@ The cited review concerns general emotion regulation, not anger specifically: it
 
 ### Here
 
-My principles line up with the research's levers. B116, "Catch irritation early — sparks before fires," matches acting early; D150, "Balance the emotions to protect the body," and D095, "Moderate emotion — extremes injure vitality," match the arousal-reduction finding; B084, "Use antidotes skillfully," and SP001, "Understand rather than condemn," parallel cognitive change. P074, "Treat impulses as raw material, not enemies," is the acceptance stance in my voice. A115, "Understand anger (orge)," and A029, "Practice the right kind of anger," carry Aristotle's view that anger has a proper use, a question this literature does not settle.
+My principles line up with the research's levers. B116, "Catch irritation early — sparks before fires," matches acting early; D150, "Balance the emotions to protect the body," and D095, "Moderate emotion — extremes injure vitality," match the arousal-reduction finding; B084, "Use antidotes skillfully," and SP001, "Understand rather than condemn," parallel cognitive change. P074, "Treat impulses as raw material, not enemies," is the acceptance stance in my voice. A115, "Understand anger (orge)," and A029, "Practice the right kind of anger," carry [[T002 — Aristotle|Aristotle]]'s view that anger has a proper use, a question this literature does not settle.
 
 B116 advises catching irritation early. Does that practice affect anger partly through arousal reduction?
 

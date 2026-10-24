@@ -36,7 +36,7 @@ This is a philosophical position about the will, not evidence of unrestricted co
 ## Philosophy parallels
 
 - **[[Accept pain as part of nature|Accept pain as part of nature]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations VII.33)
-- **[[The doctrine of the mean|The mean in pleasure and pain]]** (Aristotle, NE II.6)
+- **[[The doctrine of the mean|The mean in pleasure and pain]]** ([[T002 — Aristotle|Aristotle]], NE II.6)
 
 <!-- fc: reflections
 How have you handled illness, yours or another's? What helped your peace and what undermined it?

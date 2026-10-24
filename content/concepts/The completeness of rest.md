@@ -7,7 +7,7 @@ file: "The completeness of rest"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Aristotle's treatment of rest in Book X of the Nicomachean Ethics belongs to his argument that happiness does not consist in amusement. Rest answers a limit he states plainly: no human being can work continuously. Those who live for amusements treat rest as the end, and he counts that a mistake; relaxation is taken for the sake of activity.
+[[T002 — Aristotle|Aristotle]]'s treatment of rest in Book X of the Nicomachean Ethics belongs to his argument that happiness does not consist in amusement. Rest answers a limit he states plainly: no human being can work continuously. Those who live for amusements treat rest as the end, and he counts that a mistake; relaxation is taken for the sake of activity.
 
 > "But to amuse oneself in order that one may exert oneself, as Anacharsis puts it, seems right; for amusement is a sort of relaxation, and we need relaxation because we cannot work continuously. Relaxation, then, is not an end; for it is taken for the sake of activity." (Aristotle, Nicomachean Ethics, Book X, chapter 6, Ross translation, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 

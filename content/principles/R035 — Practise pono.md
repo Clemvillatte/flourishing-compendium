@@ -36,5 +36,5 @@ For one week, write down each commitment you make, such as "I'll send it Friday"
 
 ## Philosophy parallels
 
-- **[[Truthfulness|Truthfulness]]** (Aristotle, Nicomachean Ethics IV.7)
+- **[[Truthfulness|Truthfulness]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV.7)
 - **[[Authenticity|Authenticity]]** (Heidegger, Being and Time; Sartre, Existentialism Is a Humanism)

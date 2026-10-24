@@ -32,7 +32,7 @@ A sound may have different effects depending on what you are doing. For this com
 
 ## Philosophy parallels
 
-- **[[Designing for virtue|Designing for virtue]]** (Aristotle, Politics)
+- **[[Designing for virtue|Designing for virtue]]** ([[T002 — Aristotle|Aristotle]], Politics)
 - **[[Feng shui (harmonious environment)|Feng shui (harmonious environment)]]** (Chinese tradition)
 - **The environment shapes the person** (Dewey, Experience and Education)
 

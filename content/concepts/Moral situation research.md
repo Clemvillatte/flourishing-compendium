@@ -20,7 +20,7 @@ The inference is contested. Trait psychologists reply that behavior comes from t
 
 ### Here
 
-My response is to move from traits to trained situational attention. A046, "See the particular," and A038's practical judgment (gnome) are phronesis, the trained capacity the ancient view actually needs; P084, "Act in the situation, not from the rulebook," is situationism read as instruction; A051 and A104's equity (epieikeia) corrects the rule exactly where situations outrun it; P039's rehearsal trains the judgment under the time pressure the seminary students lacked. The comparison with the virtue tradition is structural, not a claim that Aristotle knew the studies.
+My response is to move from traits to trained situational attention. A046, "See the particular," and A038's practical judgment (gnome) are phronesis, the trained capacity the ancient view actually needs; P084, "Act in the situation, not from the rulebook," is situationism read as instruction; A051 and A104's equity (epieikeia) corrects the rule exactly where situations outrun it; P039's rehearsal trains the judgment under the time pressure the seminary students lacked. The comparison with the virtue tradition is structural, not a claim that [[T002 — Aristotle|Aristotle]] knew the studies.
 
 ## Related concepts
 

@@ -33,5 +33,5 @@ Before pulling out "weeds" in your garden, you spend a week noticing which insec
 
 ## Philosophy parallels
 
-- **[[Humility|Humility]]** (Aristotle, Nicomachean Ethics; Confucius, The Analects)
+- **[[Humility|Humility]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics; Confucius, The Analects)
 - **[[Critique of mastery|Critique of mastery]]** (Heidegger, "The Question Concerning Technology"; Merchant, The Death of Nature)

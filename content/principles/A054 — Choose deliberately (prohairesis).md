@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 54** — Choose deliberately (prohairesis)
 
-Aristotle separates choice (prohairesis) from the things it is often confused with. In NE III.2, in Ross's translation:
+[[T002 — Aristotle|Aristotle]] separates choice (prohairesis) from the things it is often confused with. In NE III.2, in Ross's translation:
 
 > "Choice, then, seems to be voluntary, but not the same thing as the voluntary; the latter extends more widely. For both children and the lower animals share in voluntary action, but not in choice, and acts done on the spur of the moment we describe as voluntary, but not as chosen."
 > — Aristotle, Nicomachean Ethics III.2 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))

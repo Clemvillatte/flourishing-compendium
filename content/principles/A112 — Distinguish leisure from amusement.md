@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 112** — Distinguish leisure from amusement
 
-Aristotle gives amusement a real but limited job. In [NE X.6 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) he calls it "a sort of relaxation, and we need relaxation because we cannot work continuously. Relaxation, then, is not an end; for it is taken for the sake of activity." He finds it "silly and utterly childish" to work hard for the sake of amusement.
+[[T002 — Aristotle|Aristotle]] gives amusement a real but limited job. In [NE X.6 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) he calls it "a sort of relaxation, and we need relaxation because we cannot work continuously. Relaxation, then, is not an end; for it is taken for the sake of activity." He finds it "silly and utterly childish" to work hard for the sake of amusement.
 
 Leisure is the other term. In [Politics VIII.3 (Jowett, MIT Classics)](https://classics.mit.edu/Aristotle/politics.8.eight.html) he asks what we should do when we are at leisure and answers:
 

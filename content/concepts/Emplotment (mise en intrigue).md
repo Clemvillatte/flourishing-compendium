@@ -27,7 +27,7 @@ The Stanford Encyclopedia notes a second limit: because narratives have endings,
 
 ### Scope
 
-Both quotations come from encyclopedia accounts of Ricoeur, and the volumes of Time and Narrative were not read. The IEP traces the concept to Aristotle's Poetics. Whether retelling a life story helps well-being in practice is an empirical question that these sources do not address.
+Both quotations come from encyclopedia accounts of Ricoeur, and the volumes of Time and Narrative were not read. The IEP traces the concept to [[T002 — Aristotle|Aristotle]]'s Poetics. Whether retelling a life story helps well-being in practice is an empirical question that these sources do not address.
 
 ### Here
 

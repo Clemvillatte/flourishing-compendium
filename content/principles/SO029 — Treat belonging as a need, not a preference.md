@@ -35,7 +35,7 @@ Consider where in your week you spend time with people you know. Identify a grou
 
 ## Philosophy parallels
 
-- Aristotle — the political animal — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. Ubuntu — personhood through community — Thinker: Tutu — Reference: Tutu (1999).
+- [[T002 — Aristotle|Aristotle]] — the political animal — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. Ubuntu — personhood through community — Thinker: Tutu — Reference: Tutu (1999).
 - **Other:**, **EEMM link:** Belonging is the affect-dimension of the EEMM responding to the sociocultural context.
 
 ## Practice

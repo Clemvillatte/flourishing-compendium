@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 
 > legislators make the citizens good by forming habits in them, and this is the wish of every legislator
 
-(Aristotle, Nicomachean Ethics II.1, 1103b, trans. W. D. Ross, [MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html).)
+([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.1, 1103b, trans. W. D. Ross, [MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html).)
 
 Aristotle's point is that the shared life of a city trains character through habit. The same passage gives the general rule: "we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." He is describing a state's laws, so applying it to the clubs and circles a person joins is an extension made by this entry.
 

@@ -50,7 +50,7 @@ The practical reading offered here is to remove unnecessary interference while r
 
 - **[[Skillful coping|Skillful coping]]** (Dreyfus, "Intelligence without Representation")
 - **[[Gelassenheit|Gelassenheit (releasement)]]** (Heidegger, Discourse on Thinking)
-- **[[The unity of the virtues|Virtue as second nature]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as second nature]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Dao|The Dao — the way things work]]** (Daoism, Daodejing 25)
 
 ## Sources

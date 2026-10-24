@@ -35,7 +35,7 @@ An irritable afternoon is not a measurement of blood glucose. Benton's review re
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean: stability]]** (Aristotle)
+- **[[The doctrine of the mean|The mean: stability]]** ([[T002 — Aristotle|Aristotle]])
 - **[[Temperance|Temperance in consumption]]** (Aristotle)
 - **[[Yangsheng (cultivating vitality)|Yangsheng: dietary balance]]** (Daoism)
 

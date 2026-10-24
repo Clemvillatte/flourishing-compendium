@@ -39,7 +39,7 @@ I applie the portrait to success: the man is praised for using fortune's gifts w
 
 ## Philosophy parallels
 
-- **[[Magnanimity|Magnanimity]]** (Aristotle, NE IV.3)
+- **[[Magnanimity|Magnanimity]]** ([[T002 — Aristotle|Aristotle]], NE IV.3)
 - **Expect reversal** (Laozi, Daodejing 40)
 
 <!-- fc: reflections

@@ -38,7 +38,7 @@ Feeling well does not rule out a problem that screening can detect: the page's e
 
 - **[[The examined life|The examined life includes examined body]]** (Socrates)
 - **Know thyself through measurement** (Delphic maxim)
-- **[[Prudence|Prudence and prevention]]** (Aristotle)
+- **[[Prudence|Prudence and prevention]]** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

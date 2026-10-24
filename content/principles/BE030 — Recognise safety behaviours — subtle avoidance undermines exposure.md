@@ -29,7 +29,7 @@ Sloan and Telch's experiment compared what participants did during exposure. Mar
 
 ## Philosophy parallels
 
-- **[[Authentic courage without props|Authentic courage without props]]** (Aristotle, Nicomachean Ethics III)
+- **[[Authentic courage without props|Authentic courage without props]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[The removal of crutches|The removal of crutches]]** (Nietzsche, Zarathustra)
 - **[[Right action|Right action without hedging]]** (Buddhism)
 

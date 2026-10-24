@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 61** — Distinguish the involuntary from the non-voluntary
 
-Nicomachean Ethics III.1 opens with the voluntary and the involuntary, because praise and blame attach to the one, pardon and sometimes pity to the other. Within acts done through ignorance, the line is drawn by what follows the act: pain and repentance make it involuntary, and the man who feels no vexation is given a separate name, the not voluntary agent, because he differs from the one who repents. The quotation below carries Aristotle's own wording.
+Nicomachean Ethics III.1 opens with the voluntary and the involuntary, because praise and blame attach to the one, pardon and sometimes pity to the other. Within acts done through ignorance, the line is drawn by what follows the act: pain and repentance make it involuntary, and the man who feels no vexation is given a separate name, the not voluntary agent, because he differs from the one who repents. The quotation below carries [[T002 — Aristotle|Aristotle]]'s own wording.
 
 (NE III.1.)
 

@@ -7,7 +7,7 @@ file: "Perception precedes thought"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-“Perception precedes thought” — Aristotle, De Anima II.
+“Perception precedes thought” — [[T002 — Aristotle|Aristotle]], De Anima II.
 
 The label is my summary, not an Aristotelian phrase. The text of De Anima could not be opened for this page, because the Internet Classics Archive page returned no text. The account below rests on Christopher Shields's article on Aristotle's psychology in the Stanford Encyclopedia of Philosophy, which cites the relevant passages, so Aristotle's own wording is not quoted.
 

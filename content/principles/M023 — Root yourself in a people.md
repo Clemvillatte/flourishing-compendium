@@ -39,5 +39,5 @@ Write the names of the five people who would notice within a week if you disappe
 
 ## Philosophy parallels
 
-- **[[The polis|The polis as constitutive]]** (Aristotle, Politics I.2)
+- **[[The polis|The polis as constitutive]]** ([[T002 — Aristotle|Aristotle]], Politics I.2)
 - **[[Umuntu ngumuntu ngabantu|Umuntu ngumuntu ngabantu]]** (Nguni proverb)

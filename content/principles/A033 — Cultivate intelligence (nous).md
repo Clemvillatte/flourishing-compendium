@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 33** — Cultivate intelligence (nous)
 
-Aristotle's argument in NE VI.6 runs: scientific knowledge is of the universal and necessary, and its conclusions follow from first principles by demonstration; but "that which can be scientifically known can be demonstrated," so the first principles themselves cannot be an object of scientific knowledge, art, or practical wisdom ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). "The remaining alternative is that it is intuitive reason that grasps the first principles" ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The exercise below separates an argument's starting assumptions from its derived conclusions.
+[[T002 — Aristotle|Aristotle]]'s argument in NE VI.6 runs: scientific knowledge is of the universal and necessary, and its conclusions follow from first principles by demonstration; but "that which can be scientifically known can be demonstrated," so the first principles themselves cannot be an object of scientific knowledge, art, or practical wisdom ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). "The remaining alternative is that it is intuitive reason that grasps the first principles" ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The exercise below separates an argument's starting assumptions from its derived conclusions.
 
 > ...and it cannot be any of the three (i.e. practical wisdom, scientific knowledge, or philosophic wisdom), the remaining alternative is that it is intuitive reason that grasps the first principles.
 >

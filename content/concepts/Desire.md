@@ -7,7 +7,7 @@ file: "Desire"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Desire (orexis / taṇhā / conatus) — the directed movement of being toward what it lacks or seeks. The traditions divide on whether to purify it (Buddhism), order it (Aristotle, Stoicism), or understand it as essence itself (Spinoza). Contemporary philosophy of mind treats it as a basic state to be analyzed rather than judged.
+Desire (orexis / taṇhā / conatus) — the directed movement of being toward what it lacks or seeks. The traditions divide on whether to purify it (Buddhism), order it ([[T002 — Aristotle|Aristotle]], Stoicism), or understand it as essence itself (Spinoza). Contemporary philosophy of mind treats it as a basic state to be analyzed rather than judged.
 
 > "To desire is to be in a particular state of mind." (Tim Schroeder, [Desire, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/desire/))
 

@@ -42,7 +42,7 @@ The passage is a philosophical comparison, not a claim that ambition stops produ
 
 - **[[Wu wei|Wu wei: effortless striving]]** (Daoism, Daodejing 48)
 - **[[The middle path|The middle way]]** (Buddhism, Dhammacakkappavattana Sutta)
-- Contentment and growth together (Aristotle, Nicomachean Ethics)
+- Contentment and growth together ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 
 ## Practice
 

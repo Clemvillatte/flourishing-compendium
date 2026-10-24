@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 83** — Recognise that bodily pleasures are not the highest
 
-The view that pleasure is replenishment "seems to be based on the pains and pleasures connected with nutrition": people are pleased by food because they were first in pain from hunger (NE X.3). Aristotle answers that this cannot cover the field: "the pleasures of learning and, among the sensuous pleasures, those of smell, and also many sounds and sights, and memories and hopes, do not presuppose pain" (X.3).
+The view that pleasure is replenishment "seems to be based on the pains and pleasures connected with nutrition": people are pleased by food because they were first in pain from hunger (NE X.3). [[T002 — Aristotle|Aristotle]] answers that this cannot cover the field: "the pleasures of learning and, among the sensuous pleasures, those of smell, and also many sounds and sights, and memories and hopes, do not presuppose pain" (X.3).
 
 In X.7, Aristotle explicitly compares the pleasures of virtuous activities:
 

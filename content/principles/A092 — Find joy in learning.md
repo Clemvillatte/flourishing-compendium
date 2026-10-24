@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 92** — Find joy in learning
 
-Aristotle opens the Metaphysics with the claim and its evidence:
+[[T002 — Aristotle|Aristotle]] opens the Metaphysics with the claim and its evidence:
 
 > "ALL men by nature desire to know. An indication of this is the delight we take in our senses; for even apart from their usefulness they are loved for themselves; and above all others the sense of sight." ([Metaphysics I.1, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/metaphysics.1.i.html))
 

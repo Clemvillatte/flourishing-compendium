@@ -22,7 +22,7 @@ The Buddhist image for this principle is the raft. The Dhamma is taught "for the
 ## Psychology parallels
 
 - **Self and well-being**, self-processes are in service of well-being, not identical to it (Ryan & Deci, 2001; Seligman, 2011)
-- **Eudaimonia as the end**, self-development serves eudaimonia, not the reverse (Aristotle, Nicomachean Ethics)
+- **Eudaimonia as the end**, self-development serves eudaimonia, not the reverse ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 
 ## Philosophy parallels
 

@@ -37,7 +37,7 @@ Sleep hygiene is the maintenance work of sleep: steady schedule, dark cool room,
 
 - **[[Discipline of rest|Discipline of rest]]** (Monastic tradition)
 - **[[Wu wei|Wu wei: allowing sleep]]** (Daoism, Daodejing 16)
-- **[[Temperance|Temperance]]** (Aristotle)
+- **[[Temperance|Temperance]]** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

@@ -33,7 +33,7 @@ A diagnosis is devastating because nothing is permanent, and treatable for the s
 ## Philosophy parallels
 
 - **[[The middle path|The middle way of view]]** (Nagarjuna, MMK 15)
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Shunyata|Shunyata]]** (Buddhism, MMK 24.18)
 
 <!-- fc: reflections

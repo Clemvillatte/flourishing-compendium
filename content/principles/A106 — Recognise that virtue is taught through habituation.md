@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 106** — Recognise that virtue is taught through habituation
 
-Aristotle's argument in Book II, verbatim:
+[[T002 — Aristotle|Aristotle]]'s argument in Book II, verbatim:
 
 > "Neither by nature, then, nor contrary to nature do the virtues arise in us; rather we are adapted by nature to receive them, and are made perfect by habit." (NE II.1, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 

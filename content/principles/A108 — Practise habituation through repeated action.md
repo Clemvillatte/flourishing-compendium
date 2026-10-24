@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 108** — Practise habituation through repeated action
 
-Aristotle links character to repeated conduct. Just acts help form justice; repeated conduct can also form unjust dispositions. What you practise matters.
+[[T002 — Aristotle|Aristotle]] links character to repeated conduct. Just acts help form justice; repeated conduct can also form unjust dispositions. What you practise matters.
 
 (NE II.1, II.4, II.5.)
 

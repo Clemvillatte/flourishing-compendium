@@ -34,7 +34,7 @@ A response can come to mind automatically; you can also work through a problem d
 
 ## Philosophy parallels
 
-- **[[Phronesis|Phronesis as knowing when to deliberate]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis as knowing when to deliberate]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **Intuition and analysis** (Bergson, Creative Evolution)
 - **The rational and the intuitive** (William James, The Varieties of Religious Experience)
 

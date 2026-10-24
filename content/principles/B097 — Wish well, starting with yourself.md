@@ -47,7 +47,7 @@ The verse's logic is unglamorous: if you matter to the people who depend on you,
 
 ## Philosophy parallels
 
-- **[[Proper self-love]]** (Aristotle, Nicomachean Ethics IX)
+- **[[Proper self-love]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IX)
 - **[[Care|Care of the self as basis of care for others]]** (Foucault, The History of Sexuality vol. 3)
 - **[[Metta (loving-kindness)|Metta]]** (Buddhism, Sn 1.8)
 

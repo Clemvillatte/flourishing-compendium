@@ -36,7 +36,7 @@ The people around you shape what you do, and the clearest evidence is for doing 
 
 - **Ubuntu: I am because we are** (African Philosophy, Desmond Tutu)
 - **[[Right association|Right association]]** (Buddhism, Sigalovada Sutta)
-- **The master and apprentice** (Aristotle, Nicomachean Ethics)
+- **The master and apprentice** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 
 ## Practice
 

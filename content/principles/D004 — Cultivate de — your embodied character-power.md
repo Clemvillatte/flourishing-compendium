@@ -61,7 +61,7 @@ Someone who has genuinely practised honesty for years does not agonize over whet
 ## Philosophy parallels
 
 
-- **[[Arete|Arete and habituated excellence]]** (Aristotle, Nicomachean Ethics II)
+- **[[Arete|Arete and habituated excellence]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Conatus|Conatus as potentia (striving as power)]]** (Spinoza, Ethics III)
 - **[[De|De — embodied character-power]]** (Daoism, Daodejing 51)
 

@@ -35,7 +35,7 @@ For example: A colleague praises your presentation but says the central chart wa
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Apatheia|Apatheia]]** (Epictetus)
 
 <!-- fc: reflections

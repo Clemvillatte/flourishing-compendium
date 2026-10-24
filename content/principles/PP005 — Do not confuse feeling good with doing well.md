@@ -36,7 +36,7 @@ Huppert and So's definition of flourishing agrees: "a combination of feeling goo
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as living well rather than merely feeling good]]** (Aristotle, Nicomachean Ethics VII and X)
+- **[[Eudaimonia|Eudaimonia as living well rather than merely feeling good]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VII and X)
 - **[[The paradox of hedonism]]** (Sidgwick, The Methods of Ethics) — the pursuit of feeling good for its own sake undermines it
 
 <!-- fc: reflections

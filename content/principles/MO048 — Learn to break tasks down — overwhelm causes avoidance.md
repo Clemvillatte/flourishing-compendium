@@ -45,7 +45,7 @@ The authors connect putting off unpleasant tasks with attempts to manage immedia
 
 - **[[The thousand-mile journey|The thousand-mile journey]]** (Laozi, Daodejing 64)
 - **[[Gradual training|The gradual training]]** (Buddhism)
-- **[[The doctrine of the mean|The mean: large vision, small steps]]** (Aristotle)
+- **[[The doctrine of the mean|The mean: large vision, small steps]]** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

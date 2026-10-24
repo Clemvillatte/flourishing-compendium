@@ -27,7 +27,7 @@ The PDF is a machine-read scan with some broken word spacing. The quotations abo
 
 ## Related concepts
 
-- [[Essence and accident]] — Aristotle's earlier distinction between what a thing is and what merely happens to it
+- [[Essence and accident]] — [[T002 — Aristotle|Aristotle]]'s earlier distinction between what a thing is and what merely happens to it
 - [[Epoché]] — another method of Husserl's phenomenology; not discussed in the passages quoted here
 - [[Intentionality]] — a central notion of the same book; not discussed in the passages quoted here
 

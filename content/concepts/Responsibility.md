@@ -7,7 +7,7 @@ file: "Responsibility"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-In Aristotle's account, responsibility begins with the voluntary: what has its moving principle in the agent. The Nicomachean Ethics opens Book III with the stakes:
+In [[T002 — Aristotle|Aristotle]]'s account, responsibility begins with the voluntary: what has its moving principle in the agent. The Nicomachean Ethics opens Book III with the stakes:
 
 > "Since virtue is concerned with passions and actions, and on voluntary passions and actions praise and blame are bestowed, on those that are involuntary pardon, and sometimes also pity, to distinguish the voluntary and the involuntary is presumably necessary for those who are studying the nature of virtue, and useful also for legislators with a view to the assigning both of honours and of punishments." (Aristotle, Nicomachean Ethics III.1, trans. W. D. Ross, [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 

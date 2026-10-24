@@ -40,7 +40,7 @@ Plan two ways to make room for lunch on a busy day: reserve a break or prepare s
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Measure in all things|Measure in all things]]** (Epicurus, Vatican Sayings)
 
 <!-- fc: reflections

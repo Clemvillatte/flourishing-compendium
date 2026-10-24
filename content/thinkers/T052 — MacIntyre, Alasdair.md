@@ -12,7 +12,7 @@ Alasdair Chalmers MacIntyre (January 12, 1929, Glasgow, Scotland – May 21, 202
 
 ## Personal story / context
 
-He began teaching at Manchester in 1951, then Leeds, Essex and Oxford, and moved to the United States around 1969, holding posts at Brandeis, Boston University, Wellesley, Vanderbilt, Notre Dame and Duke ([Wikipedia, Alasdair MacIntyre](https://en.wikipedia.org/wiki/Alasdair_MacIntyre)). His intellectual path ran through Marxism and analytic philosophy to Catholic Thomism and Aristotle — "an intellectual nomad," as the article puts it. He judged his own past errors honestly, late in life reversing his earlier hope for an ethics free of biology:
+He began teaching at Manchester in 1951, then Leeds, Essex and Oxford, and moved to the United States around 1969, holding posts at Brandeis, Boston University, Wellesley, Vanderbilt, Notre Dame and Duke ([Wikipedia, Alasdair MacIntyre](https://en.wikipedia.org/wiki/Alasdair_MacIntyre)). His intellectual path ran through Marxism and analytic philosophy to Catholic Thomism and [[T002 — Aristotle|Aristotle]] — "an intellectual nomad," as the article puts it. He judged his own past errors honestly, late in life reversing his earlier hope for an ethics free of biology:
 
 > "Although there is indeed good reason to repudiate important elements in Aristotle's biology, I now judge that I was in error in supposing an ethics independent of biology to be possible." (preface to *Dependent Rational Animals*, quoted in [Wikipedia, Alasdair MacIntyre](https://en.wikipedia.org/wiki/Alasdair_MacIntyre))
 

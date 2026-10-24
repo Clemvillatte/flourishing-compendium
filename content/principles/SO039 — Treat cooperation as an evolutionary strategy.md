@@ -25,7 +25,7 @@ A nine-page excerpt adapted from Axelrod's The Evolution of Cooperation asks the
 
 ## Philosophy parallels
 
-- Aristotle — the political animal — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. Ubuntu — personhood through community — Thinker: Tutu — Reference: Tutu (1999).
+- [[T002 — Aristotle|Aristotle]] — the political animal — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. Ubuntu — personhood through community — Thinker: Tutu — Reference: Tutu (1999).
 - **Other:**, **EEMM link:** Cooperation is the sociocultural context's evolutionary mechanism.
 
 ## Practice

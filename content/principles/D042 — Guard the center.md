@@ -46,7 +46,7 @@ The same chapter compares the space between heaven and earth to a bellows — em
 
 
 - **[[The doctrine of the mean|The doctrine of the mean]]** (Confucius, Zhongyong, Doctrine of the Mean)
-- **[[The doctrine of the mean|The mean relative to us]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean relative to us]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Dao|The Dao — the way things work]]** (Daoism, Daodejing 25)
 
 

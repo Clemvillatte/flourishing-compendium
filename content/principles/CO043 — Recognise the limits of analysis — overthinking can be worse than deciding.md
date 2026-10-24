@@ -31,7 +31,7 @@ The authors give a mechanism: "Analyzing reasons can focus people's attention on
 
 ## Philosophy parallels
 
-- **[[The sufficient good|The sufficient good]]** (Aristotle, Nicomachean Ethics)
+- **[[The sufficient good|The sufficient good]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Wu wei|Wu wei as non-overthinking]]** (Daoism, Daodejing 48)
 - **Perfect is the enemy of good** (Voltaire, Dictionnaire Philosophique)
 

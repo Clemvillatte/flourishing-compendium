@@ -38,7 +38,7 @@ Reappraisal changes how you interpret a situation. Expressive suppression inhibi
 ## Philosophy parallels
 
 - [[The discipline of assent|The discipline of assent]] (Epictetus, Discourses)
-- [[The doctrine of the mean|The mean between excess and deficiency]] (Aristotle, Nicomachean Ethics II)
+- [[The doctrine of the mean|The mean between excess and deficiency]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 <!-- fc: reflections
 Which emotion do you try hardest to suppress? What does suppression cost?

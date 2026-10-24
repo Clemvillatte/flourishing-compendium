@@ -41,7 +41,7 @@ If food rules cost you friendships, mood or health, write down what you eat, wha
 ## Philosophy parallels
 
 - **Know thy limits** (Delphic maxim)
-- **[[Temperance|Temperance vs disorder]]** (Aristotle)
+- **[[Temperance|Temperance vs disorder]]** ([[T002 — Aristotle|Aristotle]])
 - **Humility and help-seeking** (Aquinas)
 
 ## Practice

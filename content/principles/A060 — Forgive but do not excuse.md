@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 60** — Forgive but do not excuse
 
-Aristotle distinguishes voluntary from involuntary acts by where the moving principle sits. Acts under compulsion or owing to ignorance are involuntary; the voluntary is that of which the moving principle is in the agent, he being aware of the particular circumstances.
+[[T002 — Aristotle|Aristotle]] distinguishes voluntary from involuntary acts by where the moving principle sits. Acts under compulsion or owing to ignorance are involuntary; the voluntary is that of which the moving principle is in the agent, he being aware of the particular circumstances.
 
 > "Since that which is done under compulsion or by reason of ignorance is involuntary, the voluntary would seem to be that of which the moving principle is in the agent himself, he being aware of the particular circumstances of the action." ([NicEth III.1, Ross](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 

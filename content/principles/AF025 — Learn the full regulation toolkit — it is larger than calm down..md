@@ -36,7 +36,7 @@ The process model behind the toolkit: "emotion may be regulated at five points i
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as cultivated capacity, not rule-following]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as cultivated capacity, not rule-following]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **The mean is not one thing** (Aristotle, Nicomachean Ethics II)
 
 ## Practice

@@ -7,7 +7,7 @@ file: "The chain of virtue"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-"The chain of virtue" — Aristotle, Nicomachean Ethics II.
+"The chain of virtue" — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.
 
 The chain of virtue is Aristotle's account of how good character gets built: acts repeated become habits, and habits settled become character. Book II of the Nicomachean Ethics argues it from the crafts — the harpist and the builder — and states the principle in one line: virtue is produced or destroyed by the very same circumstances.
 

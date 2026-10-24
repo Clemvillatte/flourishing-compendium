@@ -44,7 +44,7 @@ The overfilled vessel and the over-sharpened point carry the same warning: keepi
 ## Philosophy parallels
 
 - **The ladder to be thrown away once climbed** (Wittgenstein, Tractatus 6.54)
-- **[[Magnanimity|Magnanimity without display]]** (Aristotle, Nicomachean Ethics IV)
+- **[[Magnanimity|Magnanimity without display]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV)
 
 <!-- fc: reflections
 Where is the work done but you're lingering for applause? What would stepping back require?

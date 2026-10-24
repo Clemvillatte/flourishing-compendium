@@ -7,7 +7,7 @@ file: "Philia"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Aristotle's virtue of friendship, treated across Books VIII and IX of the Nicomachean Ethics. He opens the longest single topic in the work with its stakes:
+[[T002 — Aristotle|Aristotle]]'s virtue of friendship, treated across Books VIII and IX of the Nicomachean Ethics. He opens the longest single topic in the work with its stakes:
 
 > "friendship is a kind of virtue or implies virtue. It is also indispensable to life. For nobody would choose to live without friends, although he were in possession of every other good." (Aristotle, Nicomachean Ethics VIII.1, 1892 English edition, [Internet Archive scan](https://archive.org/details/cu31924012537001))
 

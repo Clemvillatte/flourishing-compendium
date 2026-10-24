@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 81** — Recognise that pleasure completes activity
 
-In Book X, Aristotle distinguishes pleasure from movement: like seeing, it is complete at any moment: "For it is a whole, and at no time can one find a pleasure whose form will be completed if the pleasure lasts longer." Each activity has its proper pleasure, and the pleasure "completes the activity":
+In Book X, [[T002 — Aristotle|Aristotle]] distinguishes pleasure from movement: like seeing, it is complete at any moment: "For it is a whole, and at no time can one find a pleasure whose form will be completed if the pleasure lasts longer." Each activity has its proper pleasure, and the pleasure "completes the activity":
 
 > "Pleasure completes the activity not as the corresponding permanent state does, by its immanence, but as an end which supervenes as the bloom of youth does on those in the flower of their age." ([Nicomachean Ethics X.4, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 

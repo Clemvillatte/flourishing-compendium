@@ -19,7 +19,7 @@ The self-esteem ledger: upward comparisons "can lower self-regard, whereas downw
 
 ### Here
 
-My principles treat comparison as a discipline problem rather than an information source. S083, "Do not compare yourself to others," and D106, "Live at your own scale," set the scale; SE050, "Learn to manage social comparison — comparison distorts self-evaluation," carries the research's own finding; S082 and D117 mark envy's trigger discipline, not baiting it; A119, "Understand envy (phthonos)," is Aristotle on the emotion the theory maps. The Stoic cluster (S016, S027, S075) guards the doors of desire and gossip. The facet on relative deprivation marks the structural version: comparison groups can make whole classes feel owed, Runciman's later territory.
+My principles treat comparison as a discipline problem rather than an information source. S083, "Do not compare yourself to others," and D106, "Live at your own scale," set the scale; SE050, "Learn to manage social comparison — comparison distorts self-evaluation," carries the research's own finding; S082 and D117 mark envy's trigger discipline, not baiting it; A119, "Understand envy (phthonos)," is [[T002 — Aristotle|Aristotle]] on the emotion the theory maps. The Stoic cluster (S016, S027, S075) guards the doors of desire and gossip. The facet on relative deprivation marks the structural version: comparison groups can make whole classes feel owed, Runciman's later territory.
 
 Festinger's third hypothesis is the move the traditions anticipated: the cure for comparison is choosing your comparables, and the traditions' advice to not compare is, in his terms, narrowing the range of comparability to the self. That is a comparison of structures, not an influence claim.
 

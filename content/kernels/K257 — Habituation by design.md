@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K257** — Habituation by design
 
-Choose one virtue and design a thirty-day habituation plan around it, built from daily micro-actions so small that skipping feels absurd. If the virtue is justice, the action might be: notice one unfairness each day and do one small thing about it. Aristotle's insight is that we become just by doing just acts; the design is an editorial attempt to make the doing routine. Reach for it when a virtue you admire exists only in your opinions.
+Choose one virtue and design a thirty-day habituation plan around it, built from daily micro-actions so small that skipping feels absurd. If the virtue is justice, the action might be: notice one unfairness each day and do one small thing about it. [[T002 — Aristotle|Aristotle]]'s insight is that we become just by doing just acts; the design is an editorial attempt to make the doing routine. Reach for it when a virtue you admire exists only in your opinions.
 
 ### Protocol
 

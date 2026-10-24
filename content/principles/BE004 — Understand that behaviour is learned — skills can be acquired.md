@@ -32,7 +32,7 @@ For example: before giving a team update, a new employee watches a colleague pre
 
 ## Philosophy parallels
 
-- **[[The unity of the virtues|Virtue as habituated capacity]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as habituated capacity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **Craft and skill** (Dreyfus & Dreyfus, Mind Over Machine)
 - **[[Bhavana (cultivation)|Bhavana (cultivation)]]** (Buddhism)
 

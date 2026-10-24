@@ -30,7 +30,7 @@ James's argument runs through physiology, not moralism. If we often flinch from 
 ## Philosophy parallels
 
 - **[[Habit|Habit training]]** (James, The Principles of Psychology)
-- **[[Habituation|Habituation]]** (Aristotle, Nicomachean Ethics II)
+- **[[Habituation|Habituation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 <!-- fc: reflections
 What small unnecessary act — a little extra cold, a little less ease — would actually keep your faculty of effort alive? What's the practice?

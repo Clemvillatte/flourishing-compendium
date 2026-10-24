@@ -30,7 +30,7 @@ This review found evidence of benefit for EPA-heavy formulations in participants
 
 - **[[Yangsheng (cultivating vitality)|Yangsheng: nourishing the brain]]** (Daoism)
 - **[[Food as medicine|Food as medicine]]** (Hippocrates)
-- **[[Temperance|Temperance and wisdom in diet]]** (Aristotle)
+- **[[Temperance|Temperance and wisdom in diet]]** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

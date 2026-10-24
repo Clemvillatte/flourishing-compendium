@@ -19,7 +19,7 @@ Two halves matter equally. The first half gives intuition its authority: what is
 
 - [[Anchoring effect]] — the judgment bias the return-to-the-given corrects
 - [[Phenomenological description]] — the method the principle founds
-- [[The self-evident]] — Aristotle's account of the starting-points that proof cannot reach
+- [[The self-evident]] — [[T002 — Aristotle|Aristotle]]'s account of the starting-points that proof cannot reach
 
 ## Sources
 

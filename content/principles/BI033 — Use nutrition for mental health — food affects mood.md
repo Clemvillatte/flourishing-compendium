@@ -39,7 +39,7 @@ SMILES tested a whole dietary pattern, not a single food: its design cannot iden
 
 - **Let food be thy medicine** (Hippocrates, attributed)
 - **[[Yangsheng (cultivating vitality)|Yangsheng: dietary cultivation]]** (Daoism)
-- **[[Temperance|Temperance in consumption]]** (Aristotle)
+- **[[Temperance|Temperance in consumption]]** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

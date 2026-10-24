@@ -31,7 +31,7 @@ The Stanford Encyclopedia of Philosophy explains the difference by object. Passi
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** (Aristotle, NE II.6)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], NE II.6)
 - **[[Right desire flowing from right understanding|Right desire flowing from right understanding]]** (Spinoza, Ethics IV)- **[[Apatheia|Apatheia]]** (Stoicism)
 
 

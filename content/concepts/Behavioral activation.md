@@ -22,7 +22,7 @@ The mechanism it works on is the depression loop: low mood triggers withdrawal a
 
 ### Not "fake it till you make it"
 
-The distinction to hold: BA is not "fake it till you make it" positivity. Nothing is pretended. The bet is smaller and harder-headed: that engagement with life predicts well-being, and that the feeling follows the doing often enough to be worth acting on. On my reading it is the clinical sibling of Aristotle's habituation, becoming just by doing just acts, and of the Stoic rule that the truths are tasks, not beliefs.
+The distinction to hold: BA is not "fake it till you make it" positivity. Nothing is pretended. The bet is smaller and harder-headed: that engagement with life predicts well-being, and that the feeling follows the doing often enough to be worth acting on. On my reading it is the clinical sibling of [[T002 — Aristotle|Aristotle]]'s habituation, becoming just by doing just acts, and of the Stoic rule that the truths are tasks, not beliefs.
 
 ### In everyday life
 

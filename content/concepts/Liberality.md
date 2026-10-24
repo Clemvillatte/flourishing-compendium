@@ -7,7 +7,7 @@ file: "Liberality"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-Liberality is Aristotle's virtue concerned with the giving and taking of wealth, treated in Book IV of the Nicomachean Ethics as a mean between two vices. The book's definition, in Ross's translation:
+Liberality is [[T002 — Aristotle|Aristotle]]'s virtue concerned with the giving and taking of wealth, treated in Book IV of the Nicomachean Ethics as a mean between two vices. The book's definition, in Ross's translation:
 
 > "Liberality, then, being a mean with regard to giving and taking of wealth, the liberal man will both give and spend the right amounts and on the right objects, alike in small things and in great, and that with pleasure; he will also take the right amounts and from the right sources." (Aristotle, [Nicomachean Ethics IV.1, trans. Ross](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 

@@ -33,7 +33,7 @@ The handout recommends balancing goals involving values, pleasure and mastery. I
 
 ## Philosophy parallels
 
-- **[[The unity of the virtues|Virtue as built capacity]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as built capacity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **Craft and mastery** (Dreyfus & Dreyfus)
 - **[[Right effort|Right effort: mastery]]** (Buddhism)
 

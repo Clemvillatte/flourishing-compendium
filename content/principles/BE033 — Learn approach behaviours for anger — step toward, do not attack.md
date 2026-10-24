@@ -35,7 +35,7 @@ The same handout lists all-the-way additions: "Imagine understanding and empathy
 ## Philosophy parallels
 
 - **[[Gentle answer turns away wrath|Gentle answer turns away wrath]]** (Proverbs 15:1)
-- **[[The doctrine of the mean|The mean in anger]]** (Aristotle, Nicomachean Ethics IV)
+- **[[The doctrine of the mean|The mean in anger]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV)
 - **[[Right speech|Right speech: de-escalation]]** (Buddhism, Eightfold Path)
 
 ## Practice

@@ -7,7 +7,7 @@ file: "Excellence as habit"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-“Excellence as habit” — Will Durant's paraphrase of Aristotle, labeled as paraphrase.
+“Excellence as habit” — Will Durant's paraphrase of [[T002 — Aristotle|Aristotle]], labeled as paraphrase.
 
 ## Sources
 

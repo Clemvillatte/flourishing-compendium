@@ -7,7 +7,7 @@ file: "Humanity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-In the passages I anchor to, the Nicomachean Ethics treats humanity not as a general fondness for the human race but as a disposition: the decent person takes the good of particular other people into his own account of what is worth doing, so that their good becomes part of what he acts for. Aristotle puts the point sharply in Book IX:
+In the passages I anchor to, the Nicomachean Ethics treats humanity not as a general fondness for the human race but as a disposition: the decent person takes the good of particular other people into his own account of what is worth doing, so that their good becomes part of what he acts for. [[T002 — Aristotle|Aristotle]] puts the point sharply in Book IX:
 
 > "Of the good man it is true likewise that he does many things for the sake of his friends and his country, even to the extent of dying for them, if need be…" (Aristotle, Nicomachean Ethics, Book IX chapter VIII, [Project Gutenberg ebook #8438](https://www.gutenberg.org/ebooks/8438); the ebook names no translator)
 

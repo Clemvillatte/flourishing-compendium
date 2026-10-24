@@ -41,7 +41,7 @@ You keep telling yourself to "get promoted". Ask what for. If the answer is "so 
 
 - **[[The examined life|The examined life]] requires examined values** (Socrates, Apology)
 - **[[Right intention|Right intention]]** (Buddhism, Eightfold Path)
-- **[[Eudaimonia|Eudaimonia as living in accord with virtue]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as living in accord with virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 
 ## Practice
 

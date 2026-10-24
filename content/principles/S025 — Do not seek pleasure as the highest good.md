@@ -39,7 +39,7 @@ Take two people at the same dinner. One needs the evening to be excellent to cal
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as activity, not pleasure]]** (Aristotle, NE I.7)
+- **[[Eudaimonia|Eudaimonia as activity, not pleasure]]** ([[T002 — Aristotle|Aristotle]], NE I.7)
 - **[[The middle path|The middle way]]** (Buddha, Dhammacakkappavattana Sutta)
 
 <!-- fc: reflections

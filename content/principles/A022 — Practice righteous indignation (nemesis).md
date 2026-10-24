@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 22** — Practice righteous indignation (nemesis)
 
-In NE II.7, Aristotle compares three responses to other people's fortunes:
+In NE II.7, [[T002 — Aristotle|Aristotle]] compares three responses to other people's fortunes:
 
 > "Righteous indignation is a mean between envy and spite, and these states are concerned with the pain and pleasure that are felt at the fortunes of our neighbours; the man who is characterized by righteous indignation is pained at undeserved good fortune, the envious man, going beyond him, is pained at all good fortune, and the spiteful man falls so far short of being pained that he even rejoices." (NE II.7, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 

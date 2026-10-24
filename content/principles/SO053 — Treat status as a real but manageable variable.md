@@ -25,7 +25,7 @@ Marmot and Bobak's summary of the Whitehall programme states the finding in one 
 
 ## Philosophy parallels
 
-- Aristotle — magnanimity (megalopsychia) — Thinker: Aristotle — Reference: Nicomachean Ethics, IV.3. Nietzsche — the will to power as life — Thinker: Nietzsche — Reference: Nietzsche (1883–85).
+- [[T002 — Aristotle|Aristotle]] — magnanimity (megalopsychia) — Thinker: Aristotle — Reference: Nicomachean Ethics, IV.3. Nietzsche — the will to power as life — Thinker: Nietzsche — Reference: Nietzsche (1883–85).
 - **Other:**, **EEMM link:** Status is the motivational dimension of the EEMM at the sociocultural level.
 
 ## Practice

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 56** — Recognise akrasia: weakness of will
 
-Socrates denied that someone could know the better course and act against it. Aristotle raises an objection in [NE VII.2 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html):
+Socrates denied that someone could know the better course and act against it. [[T002 — Aristotle|Aristotle]] raises an objection in [NE VII.2 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html):
 
 > Now this view plainly contradicts the observed facts
 

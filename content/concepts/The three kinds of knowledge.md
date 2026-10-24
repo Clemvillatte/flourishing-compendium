@@ -24,7 +24,7 @@ The second kind, reason, "is the apprehension of the essence of a thing through 
 
 ## Cited in philosophy parallels
 
-- Aristotle, Posterior Analytics
+- [[T002 — Aristotle|Aristotle]], Posterior Analytics
 [[SP047 — Learn the four levels of knowledge]]
 [[K284 — The what does this role require practice]]
 [[K285 — Duty-to-person mapping]]

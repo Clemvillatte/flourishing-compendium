@@ -41,7 +41,7 @@ An experienced nurse senses that a baby is getting sicker before the tests show 
 
 ## Philosophy parallels
 
-- **[[Phronesis|Phronesis as cultivated intuition]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis as cultivated intuition]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Wu wei|Wu wei as effortless skill]]** (Daoism, Zhuangzi, Cook Ding)
 - **[[The master's hand|The master's hand]]** (Dreyfus & Dreyfus, Mind Over Machine)
 

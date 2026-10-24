@@ -34,7 +34,7 @@ A careful application therefore asks two questions: does this work genuinely des
 ## Philosophy parallels
 
 - **Social duty**: Marcus ties effort to the work of a social being, rather than to discomfort for its own sake ([Meditations V.1](https://classics.mit.edu/Antoninus/meditations.5.five.html)).
-- **[[Courage|Courage as virtue]]**: Aristotle distinguishes acting for a noble end from mere fearlessness; his strict account centres on danger and death in battle, so the comparison with everyday duty is an analogy ([Nicomachean Ethics III.6–9, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
+- **[[Courage|Courage as virtue]]**: [[T002 — Aristotle|Aristotle]] distinguishes acting for a noble end from mere fearlessness; his strict account centres on danger and death in battle, so the comparison with everyday duty is an analogy ([Nicomachean Ethics III.6–9, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
 ## Sources
 

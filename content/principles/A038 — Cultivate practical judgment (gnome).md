@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 38** — Cultivate practical judgment (gnome)
 
-Gnome is the capacity to reach correct judgments in particular cases. Aristotle defines it as judging correctly what is equitable, and counts it among the faculties that deal with ultimate and particular things. Practise the art of equitable judgment.
+Gnome is the capacity to reach correct judgments in particular cases. [[T002 — Aristotle|Aristotle]] defines it as judging correctly what is equitable, and counts it among the faculties that deal with ultimate and particular things. Practise the art of equitable judgment.
 
 (NE VI.11.)
 

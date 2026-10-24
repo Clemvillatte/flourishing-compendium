@@ -37,7 +37,7 @@ Imagine a graduate who says, "I'm a genius." They try describing the accomplishm
 
 ## Philosophy parallels
 
-- **[[Proper pride (megalopsychia)|Proper pride (megalopsychia)]]** (Aristotle, Nicomachean Ethics IV)
+- **[[Proper pride (megalopsychia)|Proper pride (megalopsychia)]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV)
 - **[[Humility|Humility and pride]]** (Aquinas, Summa Theologica)
 
 ## Practice

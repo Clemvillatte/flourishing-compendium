@@ -49,5 +49,5 @@ The practice is concrete: on perfect virtue, the Master said, "To subdue one's s
 ## Philosophy parallels
 
 - **[[Self-cultivation|Self-cultivation]]** (Confucius, The Great Learning)
-- **[[Character development|Character development]]** (Aristotle, Nicomachean Ethics II)
+- **[[Character development|Character development]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Care|Care of the self]]** (Foucault, The History of Sexuality)

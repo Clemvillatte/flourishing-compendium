@@ -45,7 +45,7 @@ Imagine practising meditation, then checking whether reading a chapter involves 
 ## Philosophy parallels
 
 - **[[Bhavana (cultivation)|Bhavana (cultivation)]]** (Buddhism)
-- **[[The unity of the virtues|Virtue as habituated capacity]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as habituated capacity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[The examined life|The examined life]] requires training** (Socrates, Apology)
 
 ## Practice

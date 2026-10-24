@@ -47,5 +47,5 @@ Mayer and Frantz's five studies assessed the validity and reliability of the con
 
 ## Philosophy parallels
 
-- **[[Gratitude|Gratitude]]** (Seneca, On Benefits; Aristotle, Nicomachean Ethics VIII.14)
+- **[[Gratitude|Gratitude]]** (Seneca, On Benefits; [[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII.14)
 - **[[Ecological gratitude|Ecological gratitude]]** (Mayer and Frantz, "The Connectedness to Nature Index")

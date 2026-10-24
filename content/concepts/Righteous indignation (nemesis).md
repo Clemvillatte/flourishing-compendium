@@ -7,7 +7,7 @@ file: "Righteous indignation (nemesis)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-“Righteous indignation (nemesis)” — Aristotle, NE IV.9.
+“Righteous indignation (nemesis)” — [[T002 — Aristotle|Aristotle]], NE IV.9.
 
 Righteous indignation is Aristotle's name for the pain felt at good fortune that someone has not deserved. He treats it as the right-hand middle between two worse states, envy and spite, and as a sign of good character. The original entry cites NE IV.9, but that chapter is Aristotle's discussion of shame; the passage on indignation sits in Book II, chapter 7 (the survey of the virtues) and in the Rhetoric, Book II, chapter 9.
 

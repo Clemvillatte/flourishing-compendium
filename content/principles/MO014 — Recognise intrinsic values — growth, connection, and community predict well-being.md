@@ -34,7 +34,7 @@ The research sorts life goals into two piles: growth, close relationships, commu
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia vs external goods]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia vs external goods]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **The insufficiency of wealth** (Ecclesiastes, 5:10)
 - **[[Right livelihood|Right livelihood]]** (Buddhism, Eightfold Path)
 

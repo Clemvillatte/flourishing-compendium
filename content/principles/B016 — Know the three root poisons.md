@@ -33,7 +33,7 @@ This is a diagnostic system. If you can identify which root is operating in a gi
 
 ## Philosophy parallels
 
-- **[[The taxonomy of vices|The taxonomy of vices]]** (Aristotle, Nicomachean Ethics)
+- **[[The taxonomy of vices|The taxonomy of vices]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[The three poisons|The three poisons as psychology]]** (Flanagan, The Bodhisattva's Brain)
 
 <!-- fc: reflections

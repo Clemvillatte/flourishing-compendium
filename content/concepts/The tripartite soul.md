@@ -28,7 +28,7 @@ The conclusion is put as a question the dialogue then answers: "we have alighted
 ### Here
 
 - [[AT002 — Know that attention has three networks — alerting, orienting, and executive control]] — the modern three-part division of attention
-- [[A056 — Recognise akrasia — weakness of will]] — the case of reason overpowered, named in Aristotle
+- [[A056 — Recognise akrasia — weakness of will]] — the case of reason overpowered, named in [[T002 — Aristotle|Aristotle]]
 - [[A059 — Distinguish incontinence from vice]]
 - [[SE003 — Know that the self is multilayered — actual, ideal, and ought selves]] — the layered self of modern psychology
 

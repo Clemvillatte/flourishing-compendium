@@ -49,7 +49,7 @@ Suppose you need a title for an essay. Draft several possibilities without editi
 
 ## Philosophy parallels
 
-- [[Techne|Techne]] (Aristotle, Nicomachean Ethics VI)
+- [[Techne|Techne]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - [[Art as experience|Art as experience]] (Dewey, Art as Experience)
 
 <!-- fc: reflections

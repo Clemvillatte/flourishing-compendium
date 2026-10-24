@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 9** — Pursue kalokagathia: nobility-and-goodness as a unified ideal
 
-Aristotle distinguishes goodness from nobility-and-goodness. The good man is one for whom the natural goods are good; the man who is noble and good possesses those goods which are noble for themselves, and practises the noble for its own sake, the noble being the virtues and the acts that proceed from virtue. He must have the separate virtues, as health requires the important parts of the body to be in the same condition as the whole.
+[[T002 — Aristotle|Aristotle]] distinguishes goodness from nobility-and-goodness. The good man is one for whom the natural goods are good; the man who is noble and good possesses those goods which are noble for themselves, and practises the noble for its own sake, the noble being the virtues and the acts that proceed from virtue. He must have the separate virtues, as health requires the important parts of the body to be in the same condition as the whole.
 
 > "That he who truly deserves this denomination must have the separate virtues is clear; it cannot be otherwise with other things either, for no one is healthy in his entire body and yet healthy in no part of it, but the most numerous and important parts, if not all, must be in the same condition as the whole." ([Eudemian Ethics VIII.3](https://johnhboyer-sys.github.io/aristotle-reader/EE/book/5), Solomon 1915)
 

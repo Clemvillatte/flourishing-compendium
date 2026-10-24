@@ -33,7 +33,7 @@ For example: A craftsperson realises her skill is a gift from her teachers and c
 
 ## Philosophy parallels
 
-- **[[The polis|The polis as constitutive]]** (Aristotle, Politics I.2)
+- **[[The polis|The polis as constitutive]]** ([[T002 — Aristotle|Aristotle]], Politics I.2)
 - **[[Umuntu ngumuntu ngabantu|Umuntu ngumuntu ngabantu]]** (Nguni proverb)
 
 <!-- fc: reflections

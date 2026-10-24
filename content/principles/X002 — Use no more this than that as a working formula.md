@@ -36,6 +36,6 @@ Sextus defines scepticism as opposing appearances to judgments so that equal-wei
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The golden mean's cousin: the equal case]]** (Aristotle, the equal-claims passages)
+- **[[The doctrine of the mean|The golden mean's cousin: the equal case]]** ([[T002 — Aristotle|Aristotle]], the equal-claims passages)
 - **[[Wu wei|Wu wei's cousin: the unforced choice]]** (Zhuangzi, the steering passages)
 - **[[Equipollence|Equipollence]]** (Skeptic & Mesoamerican)

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 27** — Practice modesty in prosperity
 
-The magnanimous person, Aristotle writes, "will also bear himself with moderation towards wealth and power and all good or evil fortune, whatever may befall him, and will be neither over-joyed by good fortune nor over-pained by evil" ([NE IV.3](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). The chapter's proud man is concerned with honours, yet bears himself with moderation towards wealth, power and all fortune ([NE IV.3](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). The exercise below asks what changed when things went well.
+The magnanimous person, [[T002 — Aristotle|Aristotle]] writes, "will also bear himself with moderation towards wealth and power and all good or evil fortune, whatever may befall him, and will be neither over-joyed by good fortune nor over-pained by evil" ([NE IV.3](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). The chapter's proud man is concerned with honours, yet bears himself with moderation towards wealth, power and all fortune ([NE IV.3](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). The exercise below asks what changed when things went well.
 
 > In the first place, then, as has been said, the proud man is concerned with honours; yet he will also bear himself with moderation towards wealth and power and all good or evil fortune, whatever may befall him, and will be neither over-joyed by good fortune nor over-pained by evil.
 >

@@ -7,7 +7,7 @@ file: "Kairos (the opportune moment)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-K"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter K", "parent": ""}
 ---
-Kairos is the Greek word for the opportune moment — time as quality, not quantity, the moment when an action becomes right by being done now. Aristotle's Ethics makes the timely a constitutive part of virtue itself, not a decoration on it:
+Kairos is the Greek word for the opportune moment — time as quality, not quantity, the moment when an action becomes right by being done now. [[T002 — Aristotle|Aristotle]]'s Ethics makes the timely a constitutive part of virtue itself, not a decoration on it:
 
 > "…to do these to the right person, in due proportion, at the right time, with a right object, and in the right manner, this is not as before what any man can do, nor is it easy; and for this cause goodness is rare, and praiseworthy, and noble." (Aristotle, Nicomachean Ethics, Book II ch. IX in this translation, [Project Gutenberg #8438](https://www.gutenberg.org/ebooks/8438); the ebook names no translator)
 

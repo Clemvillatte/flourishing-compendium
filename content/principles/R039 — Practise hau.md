@@ -40,5 +40,5 @@ For the psychology parallel, Ryan and Frederick (1997) studied subjective vitali
 
 ## Philosophy parallels
 
-- **[[Pneuma|Pneuma]]** (Stoic tradition; Aristotle, On the Soul)
+- **[[Pneuma|Pneuma]]** (Stoic tradition; [[T002 — Aristotle|Aristotle]], On the Soul)
 - **[[Qi|Qi]]** (Daoist tradition)

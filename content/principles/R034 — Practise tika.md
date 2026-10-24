@@ -38,4 +38,4 @@ For the psychology parallel, Aquino and Reed (2002) define moral identity as "a 
 ## Philosophy parallels
 
 - **[[Righteousness|Righteousness (yi)]]** (Confucius, The Analects)
-- **[[Justice|Justice]]** (Aristotle, Nicomachean Ethics V)
+- **[[Justice|Justice]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics V)

@@ -34,7 +34,7 @@ The other claims in this entry were not checked. These are that autonomy support
 
 ## Philosophy parallels
 
-- Aristotle — work and leisure — Thinker: Aristotle — Reference: Nicomachean Ethics, X.7. Dewey — occupation as inquiry — Thinker: Dewey — Reference: Dewey (1916).
+- [[T002 — Aristotle|Aristotle]] — work and leisure — Thinker: Aristotle — Reference: Nicomachean Ethics, X.7. Dewey — occupation as inquiry — Thinker: Dewey — Reference: Dewey (1916).
 - **Other:**, **EEMM link:** Workplace design is the sociocultural context's most direct influence on adult daily life.
 
 ## Practice

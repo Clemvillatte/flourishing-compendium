@@ -35,7 +35,7 @@ The chapter also closes with a line about how the sage's activity is described: 
 
 ## Philosophy parallels
 
-- **[[Liberality|Liberality (megaloprepeia)]]** (Aristotle, Nicomachean Ethics IV)
+- **[[Liberality|Liberality (megaloprepeia)]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV)
 - **The gift** (Derrida, Given Time)
 
 <!-- fc: reflections

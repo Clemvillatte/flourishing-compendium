@@ -43,7 +43,7 @@ Pick something you say matters to you. Write down your reasons for pursuing it a
 
 - **Know what you value** (Socrates, Apology)
 - **[[The examined life|The examined life]] requires examined values** (Socrates)
-- **[[Eudaimonia|Eudaimonia as living in accord with virtue]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as living in accord with virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 
 ## Practice
 

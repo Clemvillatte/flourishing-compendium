@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 97** — Practise corrective justice
 
-Corrective justice uses arithmetical equality to address an injury between two parties. Aristotle illustrates the judge's task with a divided line:
+Corrective justice uses arithmetical equality to address an injury between two parties. [[T002 — Aristotle|Aristotle]] illustrates the judge's task with a divided line:
 
 > "Now the judge restores equality; it is as though there were a line divided into unequal parts, and he took away that by which the greater segment exceeds the half, and added it to the smaller segment." (NE V.4, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html))
 

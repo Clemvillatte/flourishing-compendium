@@ -7,7 +7,7 @@ file: "Aristotelian friendship"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-For Aristotle, friendship requires mutually recognised goodwill, not simply a favourable feeling toward someone who does not know it ([Nicomachean Ethics VIII.2](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)). He distinguishes friendships grounded in usefulness, pleasure and goodness; in the complete form, friends love one another for their character rather than for an incidental advantage ([VIII.3](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)).
+For [[T002 — Aristotle|Aristotle]], friendship requires mutually recognised goodwill, not simply a favourable feeling toward someone who does not know it ([Nicomachean Ethics VIII.2](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)). He distinguishes friendships grounded in usefulness, pleasure and goodness; in the complete form, friends love one another for their character rather than for an incidental advantage ([VIII.3](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)).
 
 > "they are thought to become better too by their activities and by improving each other" (NE IX.12, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html); excerpt).
 

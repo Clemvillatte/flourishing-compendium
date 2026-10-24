@@ -28,7 +28,7 @@ Because the association is with context rather than goals, habit formation works
 - [[B088 — Every repetition is a vote (habit as karma)]] — each repetition strengthens the association.
 - [[P038 — Make habit your flywheel]] — James's fly-wheel image given its modern mechanism.
 - [[S134 — Build a daily structure]] and [[PP072 — Design the environment to support the practice]] — the context side: stable cues.
-- [[A004 — Become virtuous by doing virtuous acts]], [[A108 — Practise habituation through repeated action]] and [[A042 — Recognise that virtue is a hexis, not a feeling]] — Aristotle's habituation as the classical form of the same process.
+- [[A004 — Become virtuous by doing virtuous acts]], [[A108 — Practise habituation through repeated action]] and [[A042 — Recognise that virtue is a hexis, not a feeling]] — [[T002 — Aristotle|Aristotle]]'s habituation as the classical form of the same process.
 - [[S133 — Accept that you will fail and return]] — the single missed opportunity finding.
 
 ## Facets

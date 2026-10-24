@@ -36,7 +36,7 @@ For example: You can spare an hour to help at a community meal. Before choosing 
 
 ## Philosophy parallels
 
-- **[[Liberality|Liberality]]** (Aristotle, Nicomachean Ethics IV)
+- **[[Liberality|Liberality]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV)
 - **The gift** (Derrida, Given Time)
 
 <!-- fc: reflections

@@ -29,7 +29,7 @@ Hawkley and Cacioppo's review defines loneliness as "a distressing feeling that 
 
 ## Philosophy parallels
 
-- Aristotle — friendship and the good life — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII. [[T019 — Frankl, Viktor|Frankl]] — meaning in connection — Thinker: Frankl — Reference: Frankl (1946/1959).
+- [[T002 — Aristotle|Aristotle]] — friendship and the good life — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII. [[T019 — Frankl, Viktor|Frankl]] — meaning in connection — Thinker: Frankl — Reference: Frankl (1946/1959).
 - **Other:**, **EEMM link:** Loneliness is the affect-dimension of the EEMM responding to the sociocultural context.
 
 ## Practice

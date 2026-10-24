@@ -7,7 +7,7 @@ file: "Character development"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Character development, in Aristotle's account, is habituation: we become virtuous by doing the acts. Nicomachean Ethics II.1:
+Character development, in [[T002 — Aristotle|Aristotle]]'s account, is habituation: we become virtuous by doing the acts. Nicomachean Ethics II.1:
 
 > "Neither by nature, then, nor contrary to nature do the virtues arise in us; rather we are adapted by nature to receive them, and are made perfect by habit. Again, of all the things that come to us by nature we first acquire the potentiality and later exhibit the activity (this is plain in the case of the senses; for it was not by often seeing or often hearing that we got these senses, but on the contrary we had them before we used them, and did not come to have them by using them); but the virtues we get by first exercising them, as also happens in the case of the arts as well. For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts."
 > — [Aristotle, Nicomachean Ethics II.1, trans. W. D. Ross (Internet Classics Archive)](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)

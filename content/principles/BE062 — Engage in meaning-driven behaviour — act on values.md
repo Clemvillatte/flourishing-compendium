@@ -39,7 +39,7 @@ Naming a value leaves a practical question: what will you do this week? The revi
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as virtuous activity]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as virtuous activity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Right action serves right view|Right action serves right view]]** (Buddhism)
 - **[[Values|Values as action]]** (Socrates, Apology)
 

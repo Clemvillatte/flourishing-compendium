@@ -40,7 +40,7 @@ The things that take longest to build show the least while they are being built.
 
 ## Philosophy parallels
 
-- **[[Potentiality to actuality|Potentiality to actuality]]** (Aristotle, Metaphysics IX)
+- **[[Potentiality to actuality|Potentiality to actuality]]** ([[T002 — Aristotle|Aristotle]], Metaphysics IX)
 - **[[The owl of Minerva flies at dusk|The owl of Minerva flies at dusk]]** (Hegel, Philosophy of Right, Preface)
 
 <!-- fc: reflections

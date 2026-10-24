@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 36** — Learn to build tolerance for discomfort: approach despite discomfort
 
-The core behavioural skill is the capacity to act despite discomfort: to approach despite fear, engage despite fatigue, show up despite shame. Aristotle's treatment of courage makes the same point about fear specifically. In the Nicomachean Ethics he writes, verbatim (Ross translation):
+The core behavioural skill is the capacity to act despite discomfort: to approach despite fear, engage despite fatigue, show up despite shame. [[T002 — Aristotle|Aristotle]]'s treatment of courage makes the same point about fear specifically. In the Nicomachean Ethics he writes, verbatim (Ross translation):
 
 > "Though courage is concerned with feelings of confidence and of fear, it is not concerned with both alike, but more with the things that inspire fear; for he who is undisturbed in face of these and bears himself as he should towards these is more truly brave than the man who does so towards the things that inspire confidence." (Aristotle, Nicomachean Ethics III.9, 1117a, Ross translation, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 

@@ -39,7 +39,7 @@ Imagine a dog barking: the heart races, the dog is gone, the response did its wo
 
 ## Philosophy parallels
 
-- **[[The right amount of effort|The right amount of effort]]** (Aristotle)
+- **[[The right amount of effort|The right amount of effort]]** ([[T002 — Aristotle|Aristotle]])
 - **[[Wu wei|Wu wei: non-chronic stress]]** (Daoism)
 - **[[Equanimity|Equanimity under stress]]** (Stoics)
 

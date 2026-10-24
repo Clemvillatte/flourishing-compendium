@@ -25,7 +25,7 @@ When used to down-regulate negative emotions, the review finds reappraisal leads
 - [[D074 — Don't fight angry]] — Daodejing 68's fighter who makes no resort to rage.
 - [[SP001 — Understand rather than condemn]] — Spinoza's method: treat anger and envy as natural events with causes, understand before judging.
 - [[Y034 — Counter negative states with their opposites]] — Yoga Sūtra II.33-34: when perverse considerations obstruct, cultivate the opposites.
-- [[A017 — Practice gentleness (praotes)]] — Aristotle's mean about anger: angry at the right things, with the right people, as and when one ought.
+- [[A017 — Practice gentleness (praotes)]] — [[T002 — Aristotle|Aristotle]]'s mean about anger: angry at the right things, with the right people, as and when one ought.
 - [[A029 — Practice the right kind of anger]] — the same NE IV.5 mean read as a practice: not calmness about everything.
 - [[ST205 — Seneca on Anger]] — the story entry on the Stoic treatment of anger.
 - [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]] — the layer this evidence page serves.

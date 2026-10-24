@@ -38,7 +38,7 @@ His own case was flossing: "I had the insight that I already know how to floss a
 
 - **[[The journey of a thousand miles|The journey of a thousand miles]]** (Laozi, Daodejing 64)
 - **Small is beautiful** (Schumacher, Small is Beautiful)
-- **[[The doctrine of the mean|The mean: small steps, large vision]]** (Aristotle)
+- **[[The doctrine of the mean|The mean: small steps, large vision]]** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

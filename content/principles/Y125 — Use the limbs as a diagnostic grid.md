@@ -37,4 +37,4 @@ The principle already calls its claim an editorial rule of thumb, not an empiric
 
 ## Philosophy parallels
 
-- **[[The whole prior to the parts|The whole prior to the parts]]** (Aristotle, Parts of Animals I)
+- **[[The whole prior to the parts|The whole prior to the parts]]** ([[T002 — Aristotle|Aristotle]], Parts of Animals I)

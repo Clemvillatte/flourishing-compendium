@@ -27,7 +27,7 @@ The scholarly debate over whether ataraxia or pleasure is the telos is real. A c
 
 ## What it is NOT
 
-Ataraxia is not the same as hedonic pleasure, and it is not a state of numbness or apathy. On the reading defended in the Epicurus Today article, ataraxia is the condition of a mind in full pleasure, not a third state above pleasure and pain: "It is not a separate goal that stands above pleasure." Nor is ataraxia the same as happiness in the Aristotelian sense: Aristotle's [[Eudaimonia|eudaimonia]] is activity in accordance with virtue, whereas ataraxia is a condition, a way of being undisturbed rather than a way of acting.
+Ataraxia is not the same as hedonic pleasure, and it is not a state of numbness or apathy. On the reading defended in the Epicurus Today article, ataraxia is the condition of a mind in full pleasure, not a third state above pleasure and pain: "It is not a separate goal that stands above pleasure." Nor is ataraxia the same as happiness in the Aristotelian sense: [[T002 — Aristotle|Aristotle]]'s [[Eudaimonia|eudaimonia]] is activity in accordance with virtue, whereas ataraxia is a condition, a way of being undisturbed rather than a way of acting.
 
 ## Practical implications
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 75** — Recognise that friendships change over time
 
-Aristotle sorts friendships by what grounds them: usefulness, pleasure, or character. The first two are what he calls accidental, since the friend is loved for the benefit or pleasure supplied, and both dissolve when the ground moves. The durable kind is grounded in character, and even it can end when one party changes enough that the two no longer resemble each other. (NE VIII.3, VIII.13.)
+[[T002 — Aristotle|Aristotle]] sorts friendships by what grounds them: usefulness, pleasure, or character. The first two are what he calls accidental, since the friend is loved for the benefit or pleasure supplied, and both dissolve when the ground moves. The durable kind is grounded in character, and even it can end when one party changes enough that the two no longer resemble each other. (NE VIII.3, VIII.13.)
 
 > "Consequently friendships of this kind are easily broken off, in the event of the parties themselves changing, for if no longer pleasant or useful to each other, they cease to love each other. And utility is not a permanent quality; it differs at different times. Hence when the motive of the friendship has passed away, the friendship itself is dissolved, having existed merely as a means to that end." (NE VIII.3, Rackham)
 

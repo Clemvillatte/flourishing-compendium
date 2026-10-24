@@ -22,7 +22,7 @@ The chapter states the formula and names what it replaces:
 
 > "Thus the 'production of novel togetherness' is the ultimate notion embodied in the term 'concrescence.'" (Part I, Ch. II)
 
-> "This Category of the Ultimate replaces Aristotle's category of 'primary substance'." (Part I, Ch. II)
+> "This Category of the Ultimate replaces [[T002 — Aristotle|Aristotle]]'s category of 'primary substance'." (Part I, Ch. II)
 
 On this scheme, novelty is not an occasional interruption of an otherwise repeating world; the production of it is what Whitehead says reality most fundamentally is.
 

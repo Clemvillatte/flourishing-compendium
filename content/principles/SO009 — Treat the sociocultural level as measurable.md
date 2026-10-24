@@ -34,7 +34,7 @@ I use this gradient as one example of a social pattern described with evidence. 
 
 ## Philosophy parallels
 
-- Aristotle — phronesis as the practical wisdom of policy — Thinker: Aristotle — Reference: Nicomachean Ethics, VI.
+- [[T002 — Aristotle|Aristotle]] — phronesis as the practical wisdom of policy — Thinker: Aristotle — Reference: Nicomachean Ethics, VI.
 - **Other:**, The measurement principle is the sociocultural counterpart of the biophysiological one. **EEMM link:** Measurement enables the EEMM's variation-selection-retention cycle at the sociocultural level.
 
 ## Practice

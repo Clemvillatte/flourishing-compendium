@@ -33,7 +33,7 @@ A shop owner records a sales figure, a forecast and an unanswered question separ
 ## Philosophy parallels
 
 - **Adequate versus inadequate ideas** (Spinoza, Ethics II)
-- **[[Phronesis|Phronesis as discernment in context]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis as discernment in context]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Viveka|Viveka]]** (Yoga-Vedanta)
 
 ## Sources

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 58** — Distinguish continence from virtue
 
-Aristotle distinguishes two states. The same man is thought to be "continent and ready to abide by the result of his calculations, or incontinent and ready to abandon them" ([NE VII.1](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The discussion then poses the relation to temperance conditionally: "a temperate man will have neither excessive nor bad appetites," and if continence involves having strong and bad appetites, then "the temperate man will not be continent nor the continent man temperate" ([NE VII.2](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The exercise below distinguishes the two states.
+[[T002 — Aristotle|Aristotle]] distinguishes two states. The same man is thought to be "continent and ready to abide by the result of his calculations, or incontinent and ready to abandon them" ([NE VII.1](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The discussion then poses the relation to temperance conditionally: "a temperate man will have neither excessive nor bad appetites," and if continence involves having strong and bad appetites, then "the temperate man will not be continent nor the continent man temperate" ([NE VII.2](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The exercise below distinguishes the two states.
 
 > And the same man is thought to be continent and ready to abide by the result of his calculations, or incontinent and ready to abandon them.
 >

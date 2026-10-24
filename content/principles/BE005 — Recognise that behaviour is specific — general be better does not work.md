@@ -36,7 +36,7 @@ That meta-analysis tests if-then planning, so the broader claim that any specifi
 
 ## Philosophy parallels
 
-- **The end must be determinate** (Aristotle, Nicomachean Ethics III)
+- **The end must be determinate** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[Right action|Right action as specific]]** (Buddhism, Eightfold Path)
 - **[[The examined life|The examined life]] requires examined behaviour** (Socrates, Apology)
 

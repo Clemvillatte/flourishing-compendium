@@ -38,7 +38,7 @@ Suppose someone stays silent at a routine meeting because they expect ridicule f
 
 ## Philosophy parallels
 
-- **[[Courage|Courage as action despite fear]]** (Aristotle, Nicomachean Ethics III)
+- **[[Courage|Courage as action despite fear]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[Facing the fear|Facing the fear]]** (Kierkegaard, The Concept of Anxiety)
 - **The path through, not around** (Buddhism, Dhammapada)
 

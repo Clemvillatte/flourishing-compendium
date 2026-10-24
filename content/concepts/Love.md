@@ -7,7 +7,7 @@ file: "Love"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-“Love” — Aristotle, Nicomachean Ethics VIII-IX; Nussbaum, Upheavals of Thought.
+“Love” — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII-IX; Nussbaum, Upheavals of Thought.
 
 In Book VIII of the Nicomachean Ethics, Aristotle presents friendship as necessary to living ([Nicomachean Ethics VIII, trans. W. D. Ross, Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)):
 

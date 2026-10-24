@@ -34,7 +34,7 @@ A man retires and loses his work circle. He joins a weekly choir and goes every 
 
 ## Philosophy parallels
 
-- Aristotle — the political animal — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. [[Ubuntu|Ubuntu — personhood through community]] — Thinker: Tutu — Reference: Tutu (1999).
+- [[T002 — Aristotle|Aristotle]] — the political animal — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. [[Ubuntu|Ubuntu — personhood through community]] — Thinker: Tutu — Reference: Tutu (1999).
 - **Other:**, **EEMM link:** The social cure is the sociocultural context supporting the biophysiological level through social identity.
 
 ## Practice

@@ -13,7 +13,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 100** — Practise reciprocity (antapodosis)
 
-Aristotle takes up the Pythagorean view that justice is simply reciprocal suffering, and rejects it as a general account. But he goes on to identify one place where reciprocity does hold: in the interchange of services, where proportionate return is what maintains association. The exchange is bound together only when the return matches the giving in proportion ([NE V.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)). He extends the point to the state, arguing that its very existence depends on proportionate reciprocity.
+[[T002 — Aristotle|Aristotle]] takes up the Pythagorean view that justice is simply reciprocal suffering, and rejects it as a general account. But he goes on to identify one place where reciprocity does hold: in the interchange of services, where proportionate return is what maintains association. The exchange is bound together only when the return matches the giving in proportion ([NE V.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)). He extends the point to the state, arguing that its very existence depends on proportionate reciprocity.
 
 > But in the interchange of services Justice in the form of Reciprocity is the bond that maintains the association: reciprocity, that is, on the basis of proportion, not on the basis of equality.
 >

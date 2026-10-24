@@ -14,7 +14,7 @@ Growth through practice is the Buddhist theory of change: qualities are not give
 
 The claim is not metaphorical. The qualities named, concentration, benevolence, insight, are treated as trainable faculties, developed by repetition the way a field is cultivated. When the word appears alone it "signifies contemplation and 'spiritual cultivation' generally", and the English rendering "meditation" narrows it: metta-bhavana is better read as the cultivation of benevolence than as one technique.
 
-The same theory of change runs outside Buddhism. Aristotle's habituation, virtue acquired by doing virtuous acts, and Dewey's laboratory school both treat growth as an activity rather than a transmission; my A108, "Practise habituation through repeated action," carries the Aristotelian version. These are parallels in structure, not documented influence.
+The same theory of change runs outside Buddhism. [[T002 — Aristotle|Aristotle]]'s habituation, virtue acquired by doing virtuous acts, and Dewey's laboratory school both treat growth as an activity rather than a transmission; my A108, "Practise habituation through repeated action," carries the Aristotelian version. These are parallels in structure, not documented influence.
 
 ### Here
 

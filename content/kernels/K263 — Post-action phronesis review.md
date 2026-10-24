@@ -17,7 +17,7 @@ After a significant action, review four questions: what did I intend? what actua
 The practice moves the Cognition and Motivation dimensions: the action is re-described, and the next one is amended.
 
 1. Choose one significant action from the past day or week, and answer the four questions in writing. The writing is the review; a vague memory is not.
-2. For the fourth question, Aristotle's definition marks the target: practical wisdom is "a true and reasoned state of capacity to act with regard to the things that are good or bad for man", and it "must also recognize the particulars; for it is practical, and practice is concerned with particulars" ([Aristotle, *Nicomachean Ethics* VI.5, Ross trans., full text](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The review's value lies in the particulars it recovers.
+2. For the fourth question, [[T002 — Aristotle|Aristotle]]'s definition marks the target: practical wisdom is "a true and reasoned state of capacity to act with regard to the things that are good or bad for man", and it "must also recognize the particulars; for it is practical, and practice is concerned with particulars" ([Aristotle, *Nicomachean Ethics* VI.5, Ross trans., full text](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The review's value lies in the particulars it recovers.
 3. Editorial addition, not from the carriers: end with one concrete amendment for the next similar action. A review that changes nothing is a diary entry.
 
 ### Evidence

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 20** — Practice wit (eutrapelia)
 
-Aristotle treats humour as a matter of character, in the part of the Ethics concerned with pleasantness in social intercourse. The mean here is ready wit; the excess and deficiency are the buffoon and the boor:
+[[T002 — Aristotle|Aristotle]] treats humour as a matter of character, in the part of the Ethics concerned with pleasantness in social intercourse. The mean here is ready wit; the excess and deficiency are the buffoon and the boor:
 
 > "Those who carry humour to excess are thought to be vulgar buffoons, striving after humour at all costs, and aiming rather at raising a laugh than at saying what is becoming and at avoiding pain to the object of their fun; while those who can neither make a joke themselves nor put up with those who do are thought to be boorish and unpolished." ([Nicomachean Ethics IV.8, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 

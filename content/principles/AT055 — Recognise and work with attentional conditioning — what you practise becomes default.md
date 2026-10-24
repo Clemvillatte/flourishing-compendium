@@ -35,7 +35,7 @@ The person who says they can no longer focus on books, yet reads two hundred fee
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as habit]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as habit]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Karma|Karma (action conditions future)]]** (Buddhism)
 - **We become what we repeatedly do** (Aristotle, Nicomachean Ethics II; attributed to Will Durant)
 

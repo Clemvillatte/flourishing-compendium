@@ -40,7 +40,7 @@ Before you write, take a ten-minute walk and list every idea that comes to mind.
 
 ## Philosophy parallels
 
-- **[[The walking philosopher|The walking philosopher]]** (Aristotle, peripatetic school)
+- **[[The walking philosopher|The walking philosopher]]** ([[T002 — Aristotle|Aristotle]], peripatetic school)
 - **Walking as meditation** (Thich Nhat Hanh)
 - **Walking in nature** (Thoreau, Walking)
 

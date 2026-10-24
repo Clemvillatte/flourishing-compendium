@@ -40,7 +40,7 @@ Someone opens the cupboard, finds one ingredient short of the planned recipe, an
 ## Philosophy parallels
 
 - **Know what is enough (zhizu)** (Laozi, Daodejing 44)
-- **[[Self-sufficiency|Self-sufficiency (autarkeia)]]** (Aristotle, NE X.7)
+- **[[Self-sufficiency|Self-sufficiency (autarkeia)]]** ([[T002 — Aristotle|Aristotle]], NE X.7)
 
 <!-- fc: reflections
 What do you have now that you once wanted badly and now barely notice? What does that suggest about wanting?

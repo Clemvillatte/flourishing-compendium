@@ -36,7 +36,7 @@ For example: your pulse jumps at an insult. You notice the thought "I ought to g
 ## Philosophy parallels
 
 - **[[The discipline of assent|The pause between impression and assent]]** (Epictetus, Discourses)
-- **[[The doctrine of the mean|The mean in anger]]** (Aristotle, NE IV.5)
+- **[[The doctrine of the mean|The mean in anger]]** ([[T002 — Aristotle|Aristotle]], NE IV.5)
 - **[[Apatheia|Apatheia]]** (Stoicism)
 
 <!-- fc: reflections

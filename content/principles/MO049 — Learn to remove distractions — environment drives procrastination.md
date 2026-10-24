@@ -33,7 +33,7 @@ Where is your procrastination physically sitting? A lot of the time it is within
 ## Philosophy parallels
 
 - **[[Guarding the senses|Guarding the senses]]** (Buddhism, Dhammapada)
-- **[[Environmental design|Environmental design]]** (Aristotle, Politics)
+- **[[Environmental design|Environmental design]]** ([[T002 — Aristotle|Aristotle]], Politics)
 - **[[Simplicity|Simplicity]]** (Daoism, Daodejing 19)
 
 ## Practice

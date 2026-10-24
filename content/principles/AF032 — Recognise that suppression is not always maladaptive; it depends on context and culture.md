@@ -37,7 +37,7 @@ The association differed between these two student groups. This does not establi
 ## Philosophy parallels
 
 - **[[Right speech|Right speech and right timing]]** (Buddhism, Eightfold Path)
-- **The mean is context-dependent** (Aristotle, Nicomachean Ethics II)
+- **The mean is context-dependent** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 ## Practice
 

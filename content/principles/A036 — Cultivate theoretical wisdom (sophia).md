@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 36** — Cultivate theoretical wisdom (sophia)
 
-Aristotle defines sophia as the completed knowledge of the most exalted objects: the conclusions that follow from first principles, plus a true grasp of the principles themselves. In Rackham's translation this is "a combination of Intelligence and Scientific Knowledge," and he argues its rank from the worth of its objects: since man is not the highest thing in the world, the knowledge of the highest things outranks politics and prudence. (NE VI.6-7.)
+[[T002 — Aristotle|Aristotle]] defines sophia as the completed knowledge of the most exalted objects: the conclusions that follow from first principles, plus a true grasp of the principles themselves. In Rackham's translation this is "a combination of Intelligence and Scientific Knowledge," and he argues its rank from the worth of its objects: since man is not the highest thing in the world, the knowledge of the highest things outranks politics and prudence. (NE VI.6-7.)
 
 > "The wise man therefore must not only know the conclusions that follow from his first principles, but also have a true conception of those principles themselves. Hence Wisdom must be a combination of Intelligence and Scientific Knowledge: it must be a consummated knowledge of the most exalted objects. For it is absurd to think that Political Science or Prudence is the loftiest kind of knowledge, inasmuch as man is not the highest thing in the world." (NE VI.7, Perseus, tr. H. Rackham)
 

@@ -35,7 +35,7 @@ A night is not one block of unconsciousness but a repeating pattern, and the pat
 
 ## Philosophy parallels
 
-- **[[The completeness of rest|The completeness of rest]]** (Aristotle, Nicomachean Ethics X)
+- **[[The completeness of rest|The completeness of rest]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X)
 - **[[Nothing in excess|Nothing in excess]]** (Delphic maxim)
 - **[[The rhythm of rest|The rhythm of rest]]** (Daoism)
 

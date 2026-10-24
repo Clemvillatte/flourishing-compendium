@@ -7,7 +7,7 @@ file: "Environmental design"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-“Environmental design” — Aristotle, Politics.
+“Environmental design” — [[T002 — Aristotle|Aristotle]], Politics.
 
 Environmental design changes behaviour by changing the place it happens in. Instead of resisting temptation with willpower, the person rearranges the cues: the fruit bowl moves to the counter, the phone leaves the bedroom, the running shoes wait by the door. The habit literature gives the mechanism:
 

@@ -59,7 +59,7 @@ An illness takes your health; a cowardly choice takes your character, and only y
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as activity of the soul in accord with virtue]]** (Aristotle, Nicomachean Ethics I.7)
+- **[[Eudaimonia|Eudaimonia as activity of the soul in accord with virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.7)
 - **[[De|De as embodied character-power]]** (Laozi, Daodejing 51)- **[[Cardinal virtues|Cardinal virtues]]** (Stoicism)
 
 

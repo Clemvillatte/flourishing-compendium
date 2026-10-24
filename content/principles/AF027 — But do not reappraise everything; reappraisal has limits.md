@@ -38,7 +38,7 @@ A 2016 corrigendum corrected the depression scores of 7 of the 170 participants;
 ## Philosophy parallels
 
 - **[[Wisdom|Wisdom as knowing when to act vs accept]]** (Stoics, Epictetus, Discourses)
-- **[[Practical wisdom|Practical wisdom (phronesis)]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Practical wisdom|Practical wisdom (phronesis)]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 
 ## Practice
 

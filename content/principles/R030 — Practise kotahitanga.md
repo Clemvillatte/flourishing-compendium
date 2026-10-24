@@ -38,4 +38,4 @@ Bandura's psychology gives a parallel. He writes that perceived collective effic
 
 ## Philosophy parallels
 
-- **[[Unity in diversity|Unity in diversity]]** (Aristotle, Politics; Hegel, Philosophy of Right)
+- **[[Unity in diversity|Unity in diversity]]** ([[T002 — Aristotle|Aristotle]], Politics; Hegel, Philosophy of Right)

@@ -13,7 +13,7 @@ Service is work done for another's sake, and the traditions I draw on agree on o
 
 ### What the sources say
 
-Aristotle's contribution, in Nicomachean Ethics IX.7, is the psychology of the giver. "Those who have done a service to others feel friendship and love for those they have served even if these are not of any use to them and never will be," and the reason he gives is that the served person is the benefactor's own activity made visible: "what he is in potentiality, his handiwork manifests in activity." Service, on this account, is how a person's capacities become real, which is why "to the benefactor that is noble which depends on his action."
+[[T002 — Aristotle|Aristotle]]'s contribution, in Nicomachean Ethics IX.7, is the psychology of the giver. "Those who have done a service to others feel friendship and love for those they have served even if these are not of any use to them and never will be," and the reason he gives is that the served person is the benefactor's own activity made visible: "what he is in potentiality, his handiwork manifests in activity." Service, on this account, is how a person's capacities become real, which is why "to the benefactor that is noble which depends on his action."
 
 [[T019 — Frankl, Viktor|Viktor Frankl]], writing out of the concentration camps, names the same structure from the receiving end of suffering. In Man's Search for Meaning he calls it the self-transcendence of human existence: "being human always points, and is directed, to something, or someone, other than oneself — be it a meaning to fulfil or another human being to encounter. The more one forgets himself — by giving himself to a cause to serve or another person to love — the more human he is and the more he actualizes himself."
 

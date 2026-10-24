@@ -38,7 +38,7 @@ Someone who overspends on food delivery deletes the app from the phone's home sc
 
 ## Philosophy parallels
 
-- [[Sophrosyne|Sophrosyne]] (Aristotle, Nicomachean Ethics III.10)
+- [[Sophrosyne|Sophrosyne]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III.10)
 - [[The doctrine of the mean|The doctrine of the mean]] (Aristotle, Nicomachean Ethics II)
 
 <!-- fc: reflections

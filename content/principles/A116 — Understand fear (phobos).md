@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 116** — Understand fear (phobos)
 
-In the Rhetoric Aristotle defines fear as "a pain or disturbance due to a mental picture of some destructive or painful evil in the future" ([Rhetoric II.5, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). The definition has limits built in. It covers "only such as amount to great pains or losses", and only those that are close: "we do not fear things that are a very long way off: for instance, we all know we shall die, but we are not troubled thereby, because death is not close at hand."
+In the Rhetoric [[T002 — Aristotle|Aristotle]] defines fear as "a pain or disturbance due to a mental picture of some destructive or painful evil in the future" ([Rhetoric II.5, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). The definition has limits built in. It covers "only such as amount to great pains or losses", and only those that are close: "we do not fear things that are a very long way off: for instance, we all know we shall die, but we are not troubled thereby, because death is not close at hand."
 
 Fear also does work. He writes that "fear sets us thinking what can be done, which of course nobody does when things are hopeless." In [NE III.6 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html) people "define fear as expectation of evil", and some fear is right: "to fear some things is even right and noble", disgrace among them.
 

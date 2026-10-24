@@ -108,7 +108,7 @@ Suppose you promised to collect a friend but discover that your car is unsafe. E
 
 ## Philosophy parallels
 
-- **[[Trustworthiness|Trustworthiness]]** (Aristotle, Nicomachean Ethics IV.3)
+- **[[Trustworthiness|Trustworthiness]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV.3)
 - **[[Fidelity|Fidelity]]** (Marcel, Being and Having)
 
 ## Related concepts

@@ -38,4 +38,4 @@ Lynn Underwood, whose framework the psychology bullet cites, defines compassiona
 
 ## Philosophy parallels
 
-- **[[Love|Love]]** (Aristotle, Nicomachean Ethics VIII-VIX; Nussbaum, Upheavals of Thought)
+- **[[Love|Love]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII-VIX; Nussbaum, Upheavals of Thought)

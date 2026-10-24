@@ -57,7 +57,7 @@ Seneca stages the same point as a taunt addressed to pain in person:
 ## Philosophy parallels
 
 - **[[Amor fati|Amor fati]]** (Nietzsche, Ecce Homo)
-- **[[The doctrine of the mean|The mean in pleasure and pain]]** (Aristotle, NE II.6)
+- **[[The doctrine of the mean|The mean in pleasure and pain]]** ([[T002 — Aristotle|Aristotle]], NE II.6)
 
 <!-- fc: reflections
 What is your usual response to pain, physical or emotional? What would accepting it as weather look like?

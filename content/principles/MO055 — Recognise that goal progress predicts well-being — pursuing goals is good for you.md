@@ -37,7 +37,7 @@ The concrete shape of the reported effect: "when participants made more progress
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as activity]]** (Aristotle, Nicomachean Ethics I)
+- **[[Eudaimonia|Eudaimonia as activity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I)
 - **The journey, not just the destination** (Laozi, attributed)
 - **[[Right effort|Right effort as its own reward]]** (Buddhism)
 

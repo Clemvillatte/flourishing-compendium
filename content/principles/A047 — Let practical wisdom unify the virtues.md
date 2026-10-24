@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 47** — Let practical wisdom unify the virtues
 
-Aristotle closes Book VI with a two-way lock: "it is not possible to be good in the true sense without Prudence, nor to be prudent without Moral Virtue" ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)). Someone can have natural courage or natural honesty the way a child has them, as dispositions that work until the situation turns. Prudence is what settles them into virtues, and it comes as a set: "For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it" (VI.13).
+[[T002 — Aristotle|Aristotle]] closes Book VI with a two-way lock: "it is not possible to be good in the true sense without Prudence, nor to be prudent without Moral Virtue" ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)). Someone can have natural courage or natural honesty the way a child has them, as dispositions that work until the situation turns. Prudence is what settles them into virtues, and it comes as a set: "For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it" (VI.13).
 
 **Plain words** Judgement is not one virtue among others; it is the part that reads each situation and tells the rest what to do here. That is why, in Aristotle's picture, you cannot be genuinely honest in one corner of your life and genuinely unjust in another. The same reading skill that makes you honest is the one being refused in the unjust corner. Character training that targets one virtue at a time keeps missing this.
 

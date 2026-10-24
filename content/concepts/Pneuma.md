@@ -7,7 +7,7 @@ file: "Pneuma"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-"Pneuma" — Aristotle, On the Soul; Stoic tradition.
+"Pneuma" — [[T002 — Aristotle|Aristotle]], On the Soul; Stoic tradition.
 
 Pneuma is the Greek word for wind, breath, spirit ([Wiktionary](https://en.wiktionary.org/wiki/pneuma)). In Aristotle's account of animal movement, desire moves the animal through what Farquharson's translation calls a connatural spirit, centred for some animals in the heart, in the rest in a part analogous with the heart, a pusher and puller that expands and contracts. In Stoic physics, pneuma passes through all other bodies: in its outward motion it gives them their qualities, in its inward motion it makes them unified objects.
 

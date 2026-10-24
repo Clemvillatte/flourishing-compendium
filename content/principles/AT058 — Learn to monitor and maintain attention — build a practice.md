@@ -42,7 +42,7 @@ For example: you keep a short note each Friday on how many hours of focused work
 ## Philosophy parallels
 
 - **[[The examined life|The examined life]] as ongoing practice** (Socrates, Apology 38a)
-- **[[The unity of the virtues|Virtue as maintained habit]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as maintained habit]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Bhavana (cultivation)|Bhavana (ongoing cultivation)]]** (Buddhism)
 
 ## Practice

@@ -38,7 +38,7 @@ Someone who dreads speaking up in meetings states one view at the next meeting, 
 
 ## Philosophy parallels
 
-- [[Courage|Courage as virtue]] (Aristotle, Nicomachean Ethics III.6)
+- [[Courage|Courage as virtue]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III.6)
 - The hero (Nietzsche, Thus Spoke Zarathustra)
 
 <!-- fc: reflections

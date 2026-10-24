@@ -38,7 +38,7 @@ Wisdom in this research is not one capacity but several running together: knowin
 
 ## Philosophy parallels
 
-- [[Phronesis|Phronesis]] (Aristotle, Nicomachean Ethics VI)
+- [[Phronesis|Phronesis]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - [[Practical wisdom|Practical wisdom]] (Aristotle, Nicomachean Ethics VI.5)
 
 <!-- fc: reflections

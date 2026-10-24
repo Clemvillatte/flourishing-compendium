@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 2** — Live according to your function (ergon)
 
-Aristotle asks what the good life for a human being is, and starts from things that have a job. In W. D. Ross's translation:
+[[T002 — Aristotle|Aristotle]] asks what the good life for a human being is, and starts from things that have a job. In W. D. Ross's translation:
 
 > "For just as for a flute-player, a sculptor, or an artist, and, in general, for all things that have a function or activity, the good and the 'well' is thought to reside in the function, so would it seem to be for man, if he has a function."
 > — Aristotle, Nicomachean Ethics I.7 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))

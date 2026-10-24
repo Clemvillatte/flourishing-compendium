@@ -7,7 +7,7 @@ file: "Sophrosyne"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Sophrosyne is the Greek virtue of measured selfhood, usually rendered as temperance, self-mastery or sound-mindedness. My anchor is Aristotle's Nicomachean Ethics, where it is the virtue concerned with pleasures. D.P. Chase's translation, quoted below, renders the word as "perfected Self-Mastery". Other translators choose other words, and this page quotes Chase throughout.
+Sophrosyne is the Greek virtue of measured selfhood, usually rendered as temperance, self-mastery or sound-mindedness. My anchor is [[T002 — Aristotle|Aristotle]]'s Nicomachean Ethics, where it is the virtue concerned with pleasures. D.P. Chase's translation, quoted below, renders the word as "perfected Self-Mastery". Other translators choose other words, and this page quotes Chase throughout.
 
 ### The virtue as a mean
 

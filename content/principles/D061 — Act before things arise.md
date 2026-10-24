@@ -46,7 +46,7 @@ The reasoning comes just before it: "That which is at rest is easily kept hold o
 
 ## Philosophy parallels
 
-- **[[Prudence|Prudence]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Prudence|Prudence]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 
 <!-- fc: reflections
 What's the disorder currently forming that you could regulate cheaply now and expensively later?

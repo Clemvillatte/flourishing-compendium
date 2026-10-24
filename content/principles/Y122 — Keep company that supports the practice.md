@@ -36,7 +36,7 @@ Someone sees that the group chat has become a two-hour nightly complaint session
 
 ## Philosophy parallels
 
-- **The friend as a second self** (Aristotle, Nicomachean Ethics IX)
+- **The friend as a second self** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IX)
 
 ## Sources
 

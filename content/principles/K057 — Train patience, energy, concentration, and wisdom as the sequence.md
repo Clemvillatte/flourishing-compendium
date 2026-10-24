@@ -32,7 +32,7 @@ For example: A teacher trains patience with a struggling student, then energy to
 ## Philosophy parallels
 
 - **The limbs as diagnostic grid** (YS 2.28-2.29)
-- **Know your weakest virtue** (Aristotle's counsel to study the virtue furthest from one's habit; Nicomachean Ethics II)
+- **Know your weakest virtue** ([[T002 — Aristotle|Aristotle]]'s counsel to study the virtue furthest from one's habit; Nicomachean Ethics II)
 
 <!-- fc: reflections
 Which of the four are you strongest and weakest in? How does that shape your approach to helping others?

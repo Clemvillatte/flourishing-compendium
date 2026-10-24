@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 40** — Practise the unity of the virtues
 
-In Book VI Aristotle argues that the virtues arrive together or not at all. Moral virtue sets the target and practical wisdom finds the means: "for virtue makes us aim at the right mark, and practical wisdom makes us take the right means" ([NE VI.12, Ross](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The dependence runs both ways: "It is clear, then, from what has been said, that it is not possible to be good in the strict sense without practical wisdom, nor practically wise without moral virtue" (VI.13).
+In Book VI [[T002 — Aristotle|Aristotle]] argues that the virtues arrive together or not at all. Moral virtue sets the target and practical wisdom finds the means: "for virtue makes us aim at the right mark, and practical wisdom makes us take the right means" ([NE VI.12, Ross](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The dependence runs both ways: "It is clear, then, from what has been said, that it is not possible to be good in the strict sense without practical wisdom, nor practically wise without moral virtue" (VI.13).
 
 He takes natural courage and sharpness seriously as raw material, and notes what happens without reason: "while one may be led astray by them, as a strong body which moves without sight may stumble badly because of its lack of sight, still, if a man once acquires reason, that makes a difference in action" (VI.13). Socrates, he says, was in one respect on the right track: "in thinking that all the virtues were forms of practical wisdom he was wrong, but in saying they implied practical wisdom he was right" (VI.13).
 

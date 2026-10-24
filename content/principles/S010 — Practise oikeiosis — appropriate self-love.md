@@ -54,7 +54,7 @@ Epictetus keeps the self-interest and turns it outward. Even Zeus does everythin
 
 ## Philosophy parallels
 
-- **[[Proper self-love|Proper self-love]]** (Aristotle, NE IX.8)
+- **[[Proper self-love|Proper self-love]]** ([[T002 — Aristotle|Aristotle]], NE IX.8)
 - **Ubuntu: I am because we are** (African relational philosophy)- **[[Oikeiosis|Oikeiosis]]** (Stoicism)
 
 

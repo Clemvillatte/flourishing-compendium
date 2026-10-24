@@ -7,7 +7,7 @@ file: "Essence and accident"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-In Aristotle, essence is what it is to be a thing of a given kind, and accidents are the features it can have or lack without ceasing to be that kind. Cohen and Reeve's Stanford Encyclopedia entry explains that "'Essence' is the standard English translation of Aristotle's curious phrase to ti ên einai, literally 'the what it was to be' for a thing," and that he sometimes uses the shorter to ti esti, "the what it is" ([SEP, "Aristotle's Metaphysics", §7](https://plato.stanford.edu/entries/aristotle-metaphysics/)).
+In [[T002 — Aristotle|Aristotle]], essence is what it is to be a thing of a given kind, and accidents are the features it can have or lack without ceasing to be that kind. Cohen and Reeve's Stanford Encyclopedia entry explains that "'Essence' is the standard English translation of Aristotle's curious phrase to ti ên einai, literally 'the what it was to be' for a thing," and that he sometimes uses the shorter to ti esti, "the what it is" ([SEP, "Aristotle's Metaphysics", §7](https://plato.stanford.edu/entries/aristotle-metaphysics/)).
 
 ### Definition states the essence
 

@@ -33,5 +33,5 @@ You can know an answer before explaining how you know it. Spinoza calls method t
 
 ## Philosophy parallels
 
-- **Aristotle, Metaphysics IV** (on the first principle)
+- **[[T002 — Aristotle|Aristotle]], Metaphysics IV** (on the first principle)
 - **[[Clear and distinct perception|Clear and distinct perception]]** (Descartes, Meditations, as the position Spinoza transforms)- **[[Adequate idea|Adequate idea]]** (Spinozism)

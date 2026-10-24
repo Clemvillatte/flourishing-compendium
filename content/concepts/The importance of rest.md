@@ -7,7 +7,7 @@ file: "The importance of rest"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Aristotle's argument for rest is not that relaxation is pleasant, though he allows that it is. It is that rest is what work is for. The formula sits in Book X of the Nicomachean Ethics, and it is deliberately blunt:
+[[T002 — Aristotle|Aristotle]]'s argument for rest is not that relaxation is pleasant, though he allows that it is. It is that rest is what work is for. The formula sits in Book X of the Nicomachean Ethics, and it is deliberately blunt:
 
 > "Also, Happiness is thought to stand in perfect rest; for we toil that we may rest, and war that we may be at peace." — [Aristotle, NE X.7, Chase translation](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm)
 

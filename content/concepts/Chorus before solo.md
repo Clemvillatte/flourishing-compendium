@@ -7,7 +7,7 @@ file: "Chorus before solo"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Chorus before solo is the structure Greek tragedy gave its art: the collective voice of the chorus is not a warm-up act for the individual actors but a constitutive part of the drama, and the individual emerges out of it rather than replacing it. Aristotle's judgment of the two styles:
+Chorus before solo is the structure Greek tragedy gave its art: the collective voice of the chorus is not a warm-up act for the individual actors but a constitutive part of the drama, and the individual emerges out of it rather than replacing it. [[T002 — Aristotle|Aristotle]]'s judgment of the two styles:
 
 > "The Chorus too should be regarded as one of the actors; it should be an integral part of the whole, and share in the action, in the manner not of Euripides but of Sophocles." (Aristotle, Poetics XVIII, tr. Butcher, [Project Gutenberg](https://www.gutenberg.org/files/1974/1974-h/1974-h.htm))
 

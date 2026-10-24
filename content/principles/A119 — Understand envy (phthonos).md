@@ -18,7 +18,7 @@ The Rhetoric defines envy by its pain and its target: "Envy is pain at the sight
 
 > Emulation makes us take steps to secure the good things in question, envy makes us take steps to stop our neighbour having them.
 >
-> Aristotle, Rhetoric II.11, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
+> [[T002 — Aristotle|Aristotle]], Rhetoric II.11, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
 
 **Plain words**
 Envy stings at a peer's good luck, and the sting is aimed at the having: the text notes we envy equals, and that the pain is not about getting anything for yourself, it is about their having it. Emulation feels a similar sting and points it at acquiring the thing. The practical difference is what you catch yourself planning: getting better, or arranging that they stop having it.

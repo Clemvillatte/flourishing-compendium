@@ -7,7 +7,7 @@ file: "Correspondence theory of truth"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-The correspondence theory of truth holds that truth consists in a relation between what is said or believed and reality. The formulation often traced back to Aristotle reads:
+The correspondence theory of truth holds that truth consists in a relation between what is said or believed and reality. The formulation often traced back to [[T002 — Aristotle|Aristotle]] reads:
 
 > "To say of what is that it is not, or of what is not that it is, is false, while to say of what is that it is, and of what is not that it is not, is true." — Aristotle, Metaphysics, as quoted in the Stanford Encyclopedia of Philosophy ([SEP](https://plato.stanford.edu/entries/truth-correspondence/))
 

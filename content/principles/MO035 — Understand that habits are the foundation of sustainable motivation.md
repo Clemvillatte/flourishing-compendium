@@ -17,7 +17,7 @@ Motivation science treats a habit as an action triggered automatically by contex
 > Once initiation of the action is 'transferred' to external cues, dependence on conscious attention or motivational processes is reduced.
 > (Gardner, Lally and Wardle 2012, Br J Gen Pract)
 
-Lally and colleagues followed 96 volunteers for 12 weeks as they performed a chosen daily behaviour in the same context. Their fitted models estimated 18 to 254 days to reach 95 per cent of an individual's automaticity asymptote. Aristotle gives the older version of the point: moral virtue comes about as a result of habit. My application: spend motivation on building the habit, a fixed cue in a fixed place, and let the cue carry more of the behaviour when the feeling fades.
+Lally and colleagues followed 96 volunteers for 12 weeks as they performed a chosen daily behaviour in the same context. Their fitted models estimated 18 to 254 days to reach 95 per cent of an individual's automaticity asymptote. [[T002 — Aristotle|Aristotle]] gives the older version of the point: moral virtue comes about as a result of habit. My application: spend motivation on building the habit, a fixed cue in a fixed place, and let the cue carry more of the behaviour when the feeling fades.
 
 **Plain words** Motivation is a poor engine for anything you need to do often; it is strong on some days and absent on others. A habit moves the behaviour onto something steadier, a cue in your day that asks for it the way bedtime asks for toothbrushing. Repeating the action in a consistent context can make its initiation depend less on a fresh decision each time.
 

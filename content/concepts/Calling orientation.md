@@ -22,7 +22,7 @@ The orientations did not reduce to demographics or job type: a homogeneous subse
 - [[B152 — Align your work with your values (right livelihood, revisited)]] — AN 5.177's concrete trade list, revisited for choosing among permitted livelihoods
 - [[S137 — Integrate philosophy into your work]] — Musonius Rufus on work and philosophy supporting each other
 - [[P175 — Seek vital engagement — meaning plus absorption]] — Nakamura and Csikszentmihalyi's relationship-to-the-world definition
-- [[A002 — Live according to your function (ergon)]] — Aristotle's function argument as the classical frame for work-as-purpose
+- [[A002 — Live according to your function (ergon)]] — [[T002 — Aristotle|Aristotle]]'s function argument as the classical frame for work-as-purpose
 - [[PP022 — Pursue craftsmanship]] — Sennett's craftsman impulse: the desire to do a job well for its own sake
 - [[A090 — Recognise that the theoretical life is not for everyone]] — Aristotle's ranking of lives and the second-best practical warning
 

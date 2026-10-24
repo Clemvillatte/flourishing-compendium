@@ -33,7 +33,7 @@ The review traces the shift: later versions of BA "tended to move away from focu
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as meaningful activity]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as meaningful activity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Right livelihood|Right livelihood]]** (Buddhism, Eightfold Path)
 - **[[Values-driven life|Values-driven life]]** ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 

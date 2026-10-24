@@ -26,7 +26,7 @@ In the Definitions of the Emotions, Spinoza defines self-approval as pleasure ar
 ## Philosophy parallels
 
 - **[[Pride|Pride as ignorance, humility as its mirror error]]** (Buddhist mana, the affliction of comparing)
-- **The middle between arrogance and self-contempt** (Aristotle, Nicomachean Ethics IV, on megalopsychia)
+- **The middle between arrogance and self-contempt** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV, on megalopsychia)
 
 ## Sources
 

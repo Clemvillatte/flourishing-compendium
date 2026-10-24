@@ -30,7 +30,7 @@ Cohen and Wills (1985) concluded that evidence fits both a buffering model and a
 - [Seneca, Letter 3, Seneca.ink](https://www.seneca.ink/letters/3-on-true-and-false-friendship)
 - [Cohen and Wills 1985 abstract, Carnegie Mellon](https://kilthub.cmu.edu/articles/journal_contribution/Stress_social_support_and_the_buffering_hypothesis/6618335)
 - [Demir et al. 2015 chapter summary](https://www.semanticscholar.org/paper/Friendship-and-happiness-among-young-adults-Demir-Orthel-Clark/68fd764e1545d16f842526451693b1217c4a8907); [adult friendship systematic review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9902704/)
-- Meditations, Discourses, Musonius, Aristotle, Buber: cited at second hand.
+- Meditations, Discourses, Musonius, [[T002 — Aristotle|Aristotle]], Buber: cited at second hand.
 
 ## Psychology parallels
 

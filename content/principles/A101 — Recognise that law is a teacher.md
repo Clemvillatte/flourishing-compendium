@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 101** — Recognise that law is a teacher
 
-Aristotle connects legislation with habituation:
+[[T002 — Aristotle|Aristotle]] connects legislation with habituation:
 
 > "legislators make the citizens good by forming habits in them"
 > (NE II.1, W. D. Ross translation.)

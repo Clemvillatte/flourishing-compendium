@@ -41,6 +41,6 @@ The classic also insists "The superior man embodies the course of the Mean; the 
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II.6)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.6)
 - **[[The doctrine of the mean|The golden mean]]** (Confucius, The Analects)
 - **[[Zhongyong|Zhongyong]]** (Relational traditions)

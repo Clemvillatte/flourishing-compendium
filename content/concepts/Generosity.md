@@ -7,7 +7,7 @@ file: "Generosity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-G"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter G", "parent": ""}
 ---
-In Aristotle, generosity is the virtue he calls liberality, and it concerns wealth. Book IV of the Nicomachean Ethics (Ross translation) opens: "Let us speak next of liberality. It seems to be the mean with regard to wealth; for the liberal man is praised not in respect of military matters... but with regard to the giving and taking of wealth, and especially in respect of giving." ([Aristotle, Nicomachean Ethics IV.1, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
+In [[T002 — Aristotle|Aristotle]], generosity is the virtue he calls liberality, and it concerns wealth. Book IV of the Nicomachean Ethics (Ross translation) opens: "Let us speak next of liberality. It seems to be the mean with regard to wealth; for the liberal man is praised not in respect of military matters... but with regard to the giving and taking of wealth, and especially in respect of giving." ([Aristotle, Nicomachean Ethics IV.1, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 
 ### Giving rightly, not just giving
 

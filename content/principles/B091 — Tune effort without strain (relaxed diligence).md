@@ -33,7 +33,7 @@ Imagine a player who grips the bow harder as a passage gets difficult, and the t
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 <!-- fc: reflections
 Where is your current effort clenched rather than fully engaged? What would relaxed diligence actually feel like?

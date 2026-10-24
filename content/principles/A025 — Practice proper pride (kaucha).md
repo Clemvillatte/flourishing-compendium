@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 25** — Practice proper pride (kaucha)
 
-Pride for Aristotle is greatness of soul, and his definition runs, verbatim:
+Pride for [[T002 — Aristotle|Aristotle]] is greatness of soul, and his definition runs, verbatim:
 
 > "The man is thought to be proud who thinks himself worthy of great things, being worthy of them; for he who does so beyond his deserts is a fool, but no virtuous man is foolish or silly." (NE IV.3, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 

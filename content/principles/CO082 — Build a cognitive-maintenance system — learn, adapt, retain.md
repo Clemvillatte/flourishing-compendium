@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 
 Three sources bear on keeping thinking in use.
 
-### Aristotle on habit
+### [[T002 — Aristotle|Aristotle]] on habit
 
 In Nicomachean Ethics II.1 (Ross), skill and character come from repeated activity: "it is from playing the lyre that both good and bad lyre-players are produced", and, more generally, "states of character arise out of like activities." He is writing about virtue, not reasoning, but the structure is the same: capacities are made and kept by doing the relevant acts.
 

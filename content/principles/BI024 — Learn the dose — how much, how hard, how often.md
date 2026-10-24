@@ -40,7 +40,7 @@ If you are inactive, start with a brisk walk of about 30 minutes a few times a w
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The golden mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The golden mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Nothing in excess|Nothing in excess]]** (Delphic maxim)
 - **Wu wei: moderate effort** (Daoism)
 

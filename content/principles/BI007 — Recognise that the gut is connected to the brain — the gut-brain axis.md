@@ -36,7 +36,7 @@ The microbiota's role: "Recent advances in research have described the importanc
 
 - **[[Yangsheng (cultivating vitality)|Yangsheng: dietary cultivation]]** (Daoism)
 - **Let food be thy medicine** (Hippocrates, attributed)
-- **[[Temperance|Temperance in consumption]]** (Aristotle, Nicomachean Ethics III)
+- **[[Temperance|Temperance in consumption]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 
 ## Practice
 

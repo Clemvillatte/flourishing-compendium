@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 76** — Recognise that motivation serves life, not the reverse
 
-Motivation is a capacity that serves a life. Aristotle's formulation of the structure, in Ross's translation:
+Motivation is a capacity that serves a life. [[T002 — Aristotle|Aristotle]]'s formulation of the structure, in Ross's translation:
 
 > "Now such a thing happiness, above all else, is held to be; for this we choose always for self and never for the sake of something else, but honour, pleasure, reason, and every virtue we choose indeed for themselves... but we choose them also for the sake of happiness, judging that by means of them we shall be happy." (Aristotle, Nicomachean Ethics I.7, trans. W. D. Ross)
 

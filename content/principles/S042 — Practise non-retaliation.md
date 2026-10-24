@@ -53,7 +53,7 @@ Reporting a fraud to the authorities is justice. Posting the fraudster's home ad
 ## Philosophy parallels
 
 - **[[The empty boat reflection|The empty boat reflection]]** (Zhuangzi tradition)
-- **[[Corrective justice|Corrective justice]]** (Aristotle, NE V.4)
+- **[[Corrective justice|Corrective justice]]** ([[T002 — Aristotle|Aristotle]], NE V.4)
 
 <!-- fc: reflections
 When did you last want revenge? Describe what you would have done and what you did.

@@ -92,7 +92,7 @@ Suppose you offer to help a friend move without checking when they need you or w
 
 
 - **[[Living according to nature|Living according to nature]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
-- **[[Eudaimonia|Eudaimonia as activity of the soul in accord with virtue]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as activity of the soul in accord with virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Dao|The Dao]]** (Daoism, Daodejing 25)
 
 ## Primary source (verbatim)

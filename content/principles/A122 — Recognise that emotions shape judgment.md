@@ -20,7 +20,7 @@ The book's working examples show the shaping at work: "When people are feeling f
 
 My exercise: before a decision, name the feeling present and write what it makes more or less likely; keep both lists in view.
 
-**Plain words** Aristotle defines emotions as feelings that change how you judge, carrying pain or pleasure with them. A friendly mood makes the person before you seem to have done little wrong; a hostile one makes the same facts read the other way.
+**Plain words** [[T002 — Aristotle|Aristotle]] defines emotions as feelings that change how you judge, carrying pain or pleasure with them. A friendly mood makes the person before you seem to have done little wrong; a hostile one makes the same facts read the other way.
 
 *For example:* Someone feels uneasy before signing and writes down what the unease points to, next to the reasons for signing.
 

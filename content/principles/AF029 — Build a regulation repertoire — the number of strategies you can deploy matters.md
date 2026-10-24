@@ -39,7 +39,7 @@ List what you did last month when you felt low or tense, then sort it into kinds
 
 ## Philosophy parallels
 
-- **Cultivated capacity over innate disposition** (Aristotle, Nicomachean Ethics II)
+- **Cultivated capacity over innate disposition** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[The ten thousand things|The ten thousand things]]** (Daoism, Daodejing 64)
 
 ## Practice

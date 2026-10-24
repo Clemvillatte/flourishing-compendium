@@ -7,7 +7,7 @@ file: "Habituation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-“Habituation” — Aristotle, Nicomachean Ethics II.
+“Habituation” — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.
 
 Habituation is learning by repetition, and the word carries two bodies of work. In Aristotle's ethics it is the acquisition route for virtue: character is not fixed by nature but made perfect by habit. Aristotle's account, in the Ross translation:
 

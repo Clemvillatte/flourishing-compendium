@@ -34,7 +34,7 @@ Fogg's recipe cards describe a related habit-design approach: an existing routin
 
 ## Philosophy parallels
 
-- **[[The chain of virtue|The chain of virtue]]** (Aristotle, Nicomachean Ethics II)
+- **[[The chain of virtue|The chain of virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Ritual|Ritual and sequence]]** (Monastic tradition)
 - **[[Right effort|Right effort: sequence]]** (Buddhism)
 

@@ -31,7 +31,7 @@ Efficacy is a separate question from mechanism, and it has its own large evidenc
 
 ## Philosophy parallels
 
-- **[[The complexity of the soul|The complexity of the soul]]** (Aristotle, De Anima)
+- **[[The complexity of the soul|The complexity of the soul]]** ([[T002 — Aristotle|Aristotle]], De Anima)
 - **[[The limits of reductionism|The limits of reductionism]]** (Whitehead, Process and Reality)
 - **[[Humility|Humility about mechanisms]]** (Peirce, fallibilism)
 

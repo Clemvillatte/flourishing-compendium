@@ -45,7 +45,7 @@ The model grounds the start: a five-minute version of a task requires less abili
 
 - **[[The single step|The single step]]** (Laozi, Daodejing 64)
 - **[[Right effort|Right effort: begin]]** (Buddhism)
-- **[[Small steps, large vision|Small steps, large vision]]** (Aristotle)
+- **[[Small steps, large vision|Small steps, large vision]]** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

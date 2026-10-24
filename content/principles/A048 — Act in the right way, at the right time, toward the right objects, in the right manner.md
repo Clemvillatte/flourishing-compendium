@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 48** — Act in the right way, at the right time, toward the right objects, in the right manner
 
-Aristotle's account of moral virtue concerns passions and actions, in which there is excess, defect, and the intermediate. Feeling a passion at the right times, toward the right people, with the right motive, and in the right way, is what is intermediate and best.
+[[T002 — Aristotle|Aristotle]]'s account of moral virtue concerns passions and actions, in which there is excess, defect, and the intermediate. Feeling a passion at the right times, toward the right people, with the right motive, and in the right way, is what is intermediate and best.
 
 > "I mean moral virtue; for it is this that is concerned with passions and actions, and in these there is excess, defect, and the intermediate. For instance, both fear and confidence and appetite and anger and pity and in general pleasure and pain may be felt both too much and too little, and in both cases not well; but to feel them at the right times, with reference to the right objects, towards the right people, with the right motive, and in the right way, is what is both intermediate and best, and this is characteristic of virtue." ([NicEth II.6, Ross](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 

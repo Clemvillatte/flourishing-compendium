@@ -36,7 +36,7 @@ For example: a text message arrives that reads as a slight. The reader notices a
 ## Philosophy parallels
 
 - **[[Anger examined early|Anger examined early]]** (Seneca, On Anger)
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics IV)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV)
 
 <!-- fc: reflections
 Where is anger currently growing from spark to blaze in seconds — and what's the actual spark: the first tightening, the first story?

@@ -51,7 +51,7 @@ Suppose someone is considering fish oil for depressive symptoms. They bring the 
 
 ## Philosophy parallels
 
-- **[[Prudence|Prudence and wisdom in health]]** (Aristotle)
+- **[[Prudence|Prudence and wisdom in health]]** ([[T002 — Aristotle|Aristotle]])
 - **[[The examined life|The examined life includes examined supplements]]** (Socrates)
 - **[[Temperance|Temperance and moderation]]** (Aristotle)
 

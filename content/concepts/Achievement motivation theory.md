@@ -28,7 +28,7 @@ The theory is not a verdict on a person's worth or ability. Atkinson's own summa
 - [[MO070 — Recognise motivation and ageing — motivation changes across lifespan]] — Carstensen's socioemotional selectivity theory: the perception of time shapes the selection and pursuit of social goals.
 - [[MO075 — Build motivational maintenance — ongoing practice and adaptation]] — goal adjustment, not only pursuit, is my maintenance answer to stuck motivation.
 - [[SE051 — Recognise self-expansion — relationships and experiences expand the self]] — a different growth motive: expanding the self rather than meeting a standard of excellence.
-- [[A058 — Distinguish continence from virtue]] — Aristotle's continent man abides by the result of his calculations; the principle carries the cross-tradition parallel.
+- [[A058 — Distinguish continence from virtue]] — [[T002 — Aristotle|Aristotle]]'s continent man abides by the result of his calculations; the principle carries the cross-tradition parallel.
 
 ## Field
 

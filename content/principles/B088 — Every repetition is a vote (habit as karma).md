@@ -47,7 +47,7 @@ The nightly wind-down scroll, read in the verse's terms: a thousand drops into o
 
 ## Philosophy parallels
 
-- **[[Habituation|Habituation]]** (Aristotle, Nicomachean Ethics II)
+- **[[Habituation|Habituation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Habit|Habit]]** (James, The Principles of Psychology, ch. IV)
 
 <!-- fc: reflections

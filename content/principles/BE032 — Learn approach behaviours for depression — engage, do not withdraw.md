@@ -33,7 +33,7 @@ The authors state that BA "is designed to help individuals approach and access s
 
 ## Philosophy parallels
 
-- **[[Action over inertia|Action over inertia]]** (Aristotle, Nicomachean Ethics II)
+- **[[Action over inertia|Action over inertia]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right effort|Right effort despite depression]]** (Buddhism)
 - **[[The dark night|The dark night requires action]]** (St John of the Cross)
 

@@ -51,7 +51,7 @@ Before reading, someone chooses a short section to work through. When attention 
 ## Philosophy parallels
 
 - **[[Bhavana (cultivation)|Bhavana (cultivation)]]** (Buddhism)
-- **[[The unity of the virtues|Virtue as habituated capacity]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as habituated capacity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right effort|Right effort]]** (Buddhism, Eightfold Path)
 
 ## Practice

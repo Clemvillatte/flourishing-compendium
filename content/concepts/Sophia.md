@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
 
-Sophia (Greek: theoretical or philosophic wisdom) is, in Aristotle's catalogue of the virtues of thought, the intellectual virtue that knows the necessary and eternal. The original entry's definition stands, and Book VI of the Nicomachean Ethics gives it a precise shape: it is not one faculty but a union. "Therefore wisdom must be intuitive reason combined with scientific knowledge-scientific knowledge of the highest objects which has received as it were its proper completion." ([Aristotle, Nicomachean Ethics VI.7, tr. Ross](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
+Sophia (Greek: theoretical or philosophic wisdom) is, in [[T002 — Aristotle|Aristotle]]'s catalogue of the virtues of thought, the intellectual virtue that knows the necessary and eternal. The original entry's definition stands, and Book VI of the Nicomachean Ethics gives it a precise shape: it is not one faculty but a union. "Therefore wisdom must be intuitive reason combined with scientific knowledge-scientific knowledge of the highest objects which has received as it were its proper completion." ([Aristotle, Nicomachean Ethics VI.7, tr. Ross](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
 
 ### What sophia knows
 

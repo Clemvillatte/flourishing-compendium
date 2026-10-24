@@ -47,7 +47,7 @@ The verse does not rank the three; it lists them in one breath. Ask of any self-
 
 ## Philosophy parallels
 
-- **[[The unity of the virtues|The unity of the virtues]]** (Aristotle, Nicomachean Ethics VI)
+- **[[The unity of the virtues|The unity of the virtues]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Friendship|Friendship as structurally central to the good life]]** (Aristotle, Nicomachean Ethics VIII)- **[[Eightfold Path|Eightfold Path]]** (Buddhism, SN 56.11)
 
 

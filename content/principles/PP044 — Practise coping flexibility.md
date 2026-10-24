@@ -49,7 +49,7 @@ The research is against one-size answers: a strategy that suits a fixable proble
 ## Philosophy parallels
 
 - [[The discipline of assent|The discipline of assent]] (Epictetus, Discourses)
-- [[Phronesis|Phronesis]] (Aristotle, Nicomachean Ethics VI)
+- [[Phronesis|Phronesis]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 
 <!-- fc: reflections
 What is your default coping style? Where does it serve you and where does it fail?

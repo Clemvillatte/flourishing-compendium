@@ -39,7 +39,7 @@ Read carefully, this is a comparison of goal structures, not of step sizes: near
 
 - **A journey of a thousand miles begins with a single step** (Laozi, Daodejing 64)
 - **[[Gradual training|The gradual training]]** (Buddhism, Gradual Training Sutta)
-- **[[The doctrine of the mean|The mean: small steps, large vision]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean: small steps, large vision]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 ## Practice
 

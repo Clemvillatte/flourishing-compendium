@@ -73,7 +73,7 @@ Suppose you want to read a demanding philosophical text. You might read one para
 
 ## Philosophy parallels
 
-- **[[Habituation|Habituation]]** (Aristotle, Nicomachean Ethics II)
+- **[[Habituation|Habituation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Spiritual exercises|Spiritual exercises]]** (Hadot, Philosophy as a Way of Life)
 - **[[Technologies of the self|Technologies of the self]]** (Foucault)
 

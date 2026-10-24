@@ -7,7 +7,7 @@ file: "Unity in diversity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-U"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter U", "parent": ""}
 ---
-Unity in diversity is the political-philosophical claim that a whole can be strong only by being made of unlike parts: the unity that matters is not uniformity. Aristotle's argument against over-unifying the city, in Jowett's translation:
+Unity in diversity is the political-philosophical claim that a whole can be strong only by being made of unlike parts: the unity that matters is not uniformity. [[T002 — Aristotle|Aristotle]]'s argument against over-unifying the city, in Jowett's translation:
 
 > "Is it not obvious that a state may at length attain such a degree of unity as to be no longer a state? since the nature of a state is to be a plurality, and in tending to greater unity, from being a state, it becomes a family, and from being a family, an individual... So that we ought not to attain this greatest unity even if we could, for it would be the destruction of the state." (Aristotle, Politics II, trans. Benjamin Jowett, [Internet Classics Archive](https://classics.mit.edu/Aristotle/politics.2.two.html))
 

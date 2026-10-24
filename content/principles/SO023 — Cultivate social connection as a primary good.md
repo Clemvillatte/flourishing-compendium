@@ -35,7 +35,7 @@ Choose a relationship you want to maintain and identify a regular opportunity to
 
 ## Philosophy parallels
 
-- Aristotle — friendship as a constituent of [[Eudaimonia|eudaimonia]] — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII–IX. [[Ubuntu|Ubuntu — personhood through relationship]] — Thinker: Tutu — Reference: Tutu (1999).
+- [[T002 — Aristotle|Aristotle]] — friendship as a constituent of [[Eudaimonia|eudaimonia]] — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII–IX. [[Ubuntu|Ubuntu — personhood through relationship]] — Thinker: Tutu — Reference: Tutu (1999).
 - **Other:**, **EEMM link:** Social connection is the sociocultural context's most direct influence on the biophysiological level.
 
 ## Practice

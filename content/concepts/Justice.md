@@ -7,7 +7,7 @@ file: "Justice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-J"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter J", "parent": ""}
 ---
-Justice is the virtue of giving each their due, and the institutional principle that sorts what each is due. My page for it carries three anchors: Aristotle's treatment of justice as a virtue in Nicomachean Ethics V, Plato's staging of the hardest challenge to it in Republic I, and Rawls's reconstruction of it as fairness for institutions.
+Justice is the virtue of giving each their due, and the institutional principle that sorts what each is due. My page for it carries three anchors: [[T002 — Aristotle|Aristotle]]'s treatment of justice as a virtue in Nicomachean Ethics V, Plato's staging of the hardest challenge to it in Republic I, and Rawls's reconstruction of it as fairness for institutions.
 
 > "And for this same reason Justice alone of all the Virtues is thought to be a good to others, because it has immediate relation to some other person, inasmuch as the Just man does what is advantageous to another, either to his ruler or fellow-subject." (Aristotle, Nicomachean Ethics V.1, Chase translation, [Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.html))
 

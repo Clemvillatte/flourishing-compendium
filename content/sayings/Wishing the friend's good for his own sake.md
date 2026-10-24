@@ -7,7 +7,7 @@ file: "Wishing the friend's good for his own sake"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-W"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter W", "parent": ""}
 ---
-“Wishing the friend's good for his own sake” — Aristotle, Nicomachean Ethics VIII.
+“Wishing the friend's good for his own sake” — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII.
 
 ## Sources
 

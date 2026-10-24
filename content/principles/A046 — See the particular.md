@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 46** — See the particular
 
-Aristotle says prudence must take account of particular facts because action concerns particular things. ([Nicomachean Ethics VI.7, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) I turn this into an exercise in noticing concrete features of a situation.
+[[T002 — Aristotle|Aristotle]] says prudence must take account of particular facts because action concerns particular things. ([Nicomachean Ethics VI.7, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) I turn this into an exercise in noticing concrete features of a situation.
 
 (NE VI.7, VI.11.)
 

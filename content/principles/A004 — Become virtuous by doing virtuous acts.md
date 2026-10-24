@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 4** — Become virtuous by doing virtuous acts
 
-Aristotle's statement of the principle, from Book II of the Ethics:
+[[T002 — Aristotle|Aristotle]]'s statement of the principle, from Book II of the Ethics:
 
 > "men come to be builders, for instance, by building; harp-players, by playing on the harp: exactly so, by doing just actions we come to be just; by doing the actions of self-mastery we come to be perfected in self-mastery; and by doing brave actions brave." (Nicomachean Ethics II.1, trans. D. P. Chase, [Project Gutenberg](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm))
 

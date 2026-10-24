@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 111** — Practise leisure (scholē) as the end of work
 
-Aristotle states the ordering in two places. In the Politics, VII.14, in Jowett's translation:
+[[T002 — Aristotle|Aristotle]] states the ordering in two places. In the Politics, VII.14, in Jowett's translation:
 
 > "The whole of life is further divided into two parts, business and leisure, war and peace... there must be war for the sake of peace, business for the sake of leisure, things useful and necessary for the sake of things honorable."
 > — Aristotle, Politics VII ([MIT Classics](https://classics.mit.edu/Aristotle/politics.7.seven.html))

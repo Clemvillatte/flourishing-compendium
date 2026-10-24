@@ -43,7 +43,7 @@ For example: you have had a bad week and answer "fine" when your partner asks. T
 ## Philosophy parallels
 
 - **[[Authenticity|Authenticity in relationship]]** (Buber, I and Thou)
-- **The value of honest expression** (Aristotle, Nicomachean Ethics IV)
+- **The value of honest expression** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV)
 
 ## Practice
 

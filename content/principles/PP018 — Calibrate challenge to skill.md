@@ -45,7 +45,7 @@ In the flow model, boredom and anxiety are the two signals of the same misalignm
 
 ## Philosophy parallels
 
-- [[The function argument|The function argument]] (Aristotle, Nicomachean Ethics I.7)
+- [[The function argument|The function argument]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.7)
 - [[Art as experience|Art as experience]] (Dewey, Art as Experience)
 
 ## Related thinkers

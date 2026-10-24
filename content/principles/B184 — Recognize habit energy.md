@@ -36,7 +36,7 @@ Wood and Neal's psychological model describes habits through learned association
 ## Philosophy parallels
 
 - **[[Habit|Habit]]** (James, The Principles of Psychology, ch. IV)
-- **[[Second nature|Second nature]]** (Aristotle, NE II)
+- **[[Second nature|Second nature]]** ([[T002 — Aristotle|Aristotle]], NE II)
 
 <!-- fc: reflections
 What habit energy is currently running your program — the hand reaching for the phone for no reason? What would noticing it before deciding actually change?

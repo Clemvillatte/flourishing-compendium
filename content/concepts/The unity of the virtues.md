@@ -7,7 +7,7 @@ file: "The unity of the virtues"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The unity of the virtues is the thesis, argued by Socrates in Plato's Protagoras and reworked by Aristotle in Nicomachean Ethics VI, that the virtues come together rather than standing as separate talents. The Stanford Encyclopedia of Philosophy says the Protagoras "introduces the doctrines of the unity of virtue and the impossibility of acrasia", the idea that it is impossible to know what is right and still do wrong ([SEP](https://plato.stanford.edu/entries/plato-ethics-shorter/)). Socrates' version made virtue a kind of knowledge.
+The unity of the virtues is the thesis, argued by Socrates in Plato's Protagoras and reworked by [[T002 — Aristotle|Aristotle]] in Nicomachean Ethics VI, that the virtues come together rather than standing as separate talents. The Stanford Encyclopedia of Philosophy says the Protagoras "introduces the doctrines of the unity of virtue and the impossibility of acrasia", the idea that it is impossible to know what is right and still do wrong ([SEP](https://plato.stanford.edu/entries/plato-ethics-shorter/)). Socrates' version made virtue a kind of knowledge.
 
 ### Aristotle's version
 

@@ -34,7 +34,7 @@ You notice a colleague's report credits the wrong person. You could stay quiet a
 
 ## Philosophy parallels
 
-- **[[Justice|Justice]]** (Aristotle, Nicomachean Ethics V; Plato, Republic)
+- **[[Justice|Justice]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics V; Plato, Republic)
 - **[[Righteousness|Righteousness]]** (Mencius, The Mencius)
 
 ## Related concepts

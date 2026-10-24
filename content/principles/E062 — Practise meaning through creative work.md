@@ -37,7 +37,7 @@ For example: a teacher who rewrites a lesson so a struggling student finally fol
 ## Philosophy parallels
 
 - **[[Creative values|Creative values]]** (Frankl, Man's Search for Meaning)
-- **[[The function argument|Ergon]]** (Aristotle, Nicomachean Ethics I.7)
+- **[[The function argument|Ergon]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.7)
 
 ## Related thinkers
 

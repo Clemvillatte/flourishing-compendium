@@ -16,7 +16,7 @@ Inequity in either direction, under-reward or over-reward, creates a tension the
 
 ### Here
 
-- [[A096 — Practise distributive justice]] — Aristotle's proportion between persons and shares makes the same kind of ratio comparison
+- [[A096 — Practise distributive justice]] — [[T002 — Aristotle|Aristotle]]'s proportion between persons and shares makes the same kind of ratio comparison
 
 - Hatfield et al., 1985
 ## Sources

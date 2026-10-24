@@ -51,7 +51,7 @@ Ryff's measurement work found only weak association between her dimensions and t
 
 ## Philosophy parallels
 
-- [[Eudaimonia|Eudaimonia as activity of the soul in accordance with virtue]] (Aristotle, Nicomachean Ethics I.7)
+- [[Eudaimonia|Eudaimonia as activity of the soul in accordance with virtue]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.7)
 -  (Rogers, On Becoming a Person)
 
 <!-- fc: reflections

@@ -33,7 +33,7 @@ Curiosity needs somewhere to go. Give one thing you do not know a regular slot: 
 ## Philosophy parallels
 
 - **[[The examined life|The examined life as learning]]** (Socrates, Apology)
-- **Wonder and inquiry** (Aristotle, Metaphysics)
+- **Wonder and inquiry** ([[T002 — Aristotle|Aristotle]], Metaphysics)
 - **[[Beginner's mind|Beginner's mind]]** (Zen Buddhism, Suzuki)
 
 ## Practice

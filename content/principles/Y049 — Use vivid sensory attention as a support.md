@@ -37,4 +37,4 @@ The sutra describes supernormal perceptions that arise after sustained practice.
 
 ## Philosophy parallels
 
-- **[[Perception precedes thought|Perception precedes thought]]** (Aristotle, De Anima II)
+- **[[Perception precedes thought|Perception precedes thought]]** ([[T002 — Aristotle|Aristotle]], De Anima II)

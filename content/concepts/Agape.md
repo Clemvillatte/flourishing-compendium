@@ -23,7 +23,7 @@ The list itself runs across feeling and conduct. Two of its items are about hono
 - [[D125 — Be good to the good and the not-good]] and [[D188 — Return good for the world's bad faith]] — the Daoist parallels: goodness not contingent on the other's merit.
 - [[D031 — Treasure 1 — compassion (ci)]] — the Daoist counterpart: Laozi's first treasure.
 - [[B154 — Practice is for others (service)]] and [[B115 — Take the difficult person as teacher]] — the service and teacher framings.
-- [[A064 — Know the three kinds of friendship]] — the Aristotelian contrast: agape is not one of Aristotle's kinds.
+- [[A064 — Know the three kinds of friendship]] — the Aristotelian contrast: agape is not one of [[T002 — Aristotle|Aristotle]]'s kinds.
 - [[AF065 — Cultivate compassion — it is sustainable empathy plus concern]] and [[AT051 — Learn loving-kindness meditation — attention oriented toward warmth]] — the psychology of the same orientation.
 
 ## Related concepts

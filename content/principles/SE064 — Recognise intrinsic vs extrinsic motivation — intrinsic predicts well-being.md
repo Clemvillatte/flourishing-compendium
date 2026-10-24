@@ -33,7 +33,7 @@ Two lawyers work the same hours. One enjoys the puzzles, and the other wants the
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia vs external rewards]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia vs external rewards]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Right intention|Right intention]]** (Buddhism, Eightfold Path)
 - **[[Autonomy|Autonomy as need]]** (Rogers)
 

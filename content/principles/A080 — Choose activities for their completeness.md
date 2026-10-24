@@ -20,7 +20,7 @@ Second, an account of where the pleasure in such activities comes from:
 
 > "Pleasure completes the activity not as the corresponding permanent state does, by its immanence, but as an end which supervenes as the bloom of youth does on those in the flower of their age." (NE X.4, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))
 
-The bloom image is the whole point: pleasure comes with the activity while it goes well, and is no separate prize delivered afterwards. This is why the amusements argument cuts both ways. Pleasant pastimes also seek nothing beyond themselves, yet Aristotle ranks them low, for "we are injured rather than benefited by them, since we are led to neglect our bodies and our property" (NE X.6). Completeness alone is not the whole test; the activity must also be worth completing.
+The bloom image is the whole point: pleasure comes with the activity while it goes well, and is no separate prize delivered afterwards. This is why the amusements argument cuts both ways. Pleasant pastimes also seek nothing beyond themselves, yet [[T002 — Aristotle|Aristotle]] ranks them low, for "we are injured rather than benefited by them, since we are led to neglect our bodies and our property" (NE X.6). Completeness alone is not the whole test; the activity must also be worth completing.
 
 Prefer activities that are worth doing for their own sake; the pleasure in them is the completion of the activity itself.
 

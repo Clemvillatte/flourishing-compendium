@@ -34,7 +34,7 @@ The need is about feeling connected to and cared about by particular others — 
 ## Philosophy parallels
 
 - **Ubuntu: I am because we are** (African Philosophy, Desmond Tutu)
-- **Friendship as mutual support** (Aristotle, Nicomachean Ethics VIII-IX)
+- **Friendship as mutual support** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII-IX)
 - **[[Right association|Right association]]** (Buddhism, Sigalovada Sutta)
 
 ## Practice

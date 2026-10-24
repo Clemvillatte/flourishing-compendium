@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 3** — Make virtue your primary investment
 
-Aristotle starts Book II by saying where virtue comes from. In Ross's translation:
+[[T002 — Aristotle|Aristotle]] starts Book II by saying where virtue comes from. In Ross's translation:
 
 > "Neither by nature, then, nor contrary to nature do the virtues arise in us; rather we are adapted by nature to receive them, and are made perfect by habit."
 > — Aristotle, Nicomachean Ethics II.1 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))

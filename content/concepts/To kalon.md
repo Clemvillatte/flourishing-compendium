@@ -7,7 +7,7 @@ file: "To kalon"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-To kalon (τὸ καλόν) is the ancient Greek term Aristotle uses for what a virtuous act aims at: a word that "can mean 'beautiful', 'noble', or 'fine'", and that he invokes again and again in the Nicomachean Ethics. The Stanford Encyclopedia's account:
+To kalon (τὸ καλόν) is the ancient Greek term [[T002 — Aristotle|Aristotle]] uses for what a virtuous act aims at: a word that "can mean 'beautiful', 'noble', or 'fine'", and that he invokes again and again in the Nicomachean Ethics. The Stanford Encyclopedia's account:
 
 > "He often says, in the course of his discussion, that when the good person chooses to act virtuously, he does so for the sake of the 'kalon'—a word that can mean 'beautiful', 'noble', or 'fine' (see for example 1120a23–4)." ([Kraut, SEP, Aristotle's Ethics](https://plato.stanford.edu/entries/aristotle-ethics/))
 

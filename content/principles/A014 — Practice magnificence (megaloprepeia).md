@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 14** — Practice magnificence (megaloprepeia)
 
-Aristotle names the virtue in the chapter after liberality and gives its test:
+[[T002 — Aristotle|Aristotle]] names the virtue in the chapter after liberality and gives its test:
 
 > "The magnificent man is like an artist; for he can see what is fitting and spend large sums tastefully." (Aristotle, [Nicomachean Ethics IV.2, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 

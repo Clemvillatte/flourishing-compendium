@@ -7,7 +7,7 @@ file: "Participate in the world's becoming"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-"Participate in the world's becoming" is a reading of Whitehead's Process and Reality. On this account the world is an ongoing production rather than a finished collection of things, and every actual thing is one of the acts by which that production continues. Whitehead states the scheme in Part I, where the "Category of the Ultimate" replaces Aristotle's category of primary substance with a formula of advance:
+"Participate in the world's becoming" is a reading of Whitehead's Process and Reality. On this account the world is an ongoing production rather than a finished collection of things, and every actual thing is one of the acts by which that production continues. Whitehead states the scheme in Part I, where the "Category of the Ultimate" replaces [[T002 — Aristotle|Aristotle]]'s category of primary substance with a formula of advance:
 
 > The ultimate metaphysical principle is the advance from disjunction to conjunction, creating a novel entity other than the entities given in disjunction. The novel entity is at once the togetherness of the 'many' which it finds, and also it is one among the disjunctive 'many' which it leaves; it is a novel entity, disjunctively among the many entities which it synthesizes. The many become one, and are increased by one. (Whitehead, Process and Reality, corrected ed., Part I, ch. II "The Categoreal Scheme", p. 21)
 

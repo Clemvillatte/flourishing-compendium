@@ -19,7 +19,7 @@ The authors state the limit and the possibility:
 
 Their proposal for what design can do: "Design can create enabling (as well as hindering) conditions (Peterson & Seligman, 2004) to trigger, train and establish virtuous behaviours. It starts with the everyday objects, services and buildings that already surround us" (Pohlmeyer and Desmet 2017, PDF pp. 13-14, [author-hosted PDF](https://diopd.org/wp-content/uploads/2018/07/Pohlmeyer-Desmet-2017-from-good-to-greater-good.pdf)).
 
-### A comparison with Aristotle
+### A comparison with [[T002 — Aristotle|Aristotle]]
 
 Aristotle discusses the city's location and drinking water in Politics VII, Chapter XI:
 

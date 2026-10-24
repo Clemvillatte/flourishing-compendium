@@ -32,7 +32,7 @@ Schwartz and colleagues then asked what the habit of maximising costs people. Ac
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The golden mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The golden mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Contentment with sufficiency|Contentment with sufficiency]]** (Daoism, Daodejing 44)
 - **[[Zhi zu (knowing sufficiency)|Zhi zu (knowing sufficiency)]]** (Daoism, Daodejing 46)
 

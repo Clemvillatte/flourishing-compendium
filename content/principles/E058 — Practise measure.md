@@ -33,7 +33,7 @@ Camus ties measure to Greek thought. Heraclitus, he says, "set a limit to this p
 - [Camus, The Rebel, trans. Bower, full text, Ted K Archive](https://www.thetedkarchive.com/library/albert-camus-the-rebel) — Part One; Part Five
 ## Psychology parallels
 
-- **[[The middle path|The middle way and well-being]]** (Aristotle, Nicomachean Ethics II.6; Buddhist tradition)
+- **[[The middle path|The middle way and well-being]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.6; Buddhist tradition)
 - **Balance and moderation** (Seligman, 2011)
 
 ## Philosophy parallels

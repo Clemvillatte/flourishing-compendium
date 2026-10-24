@@ -33,7 +33,7 @@ The authors report a consensus to phase out safety signals during exposure thera
 
 ## Philosophy parallels
 
-- **[[Courage|Courage over avoidance]]** (Aristotle)
+- **[[Courage|Courage over avoidance]]** ([[T002 — Aristotle|Aristotle]])
 - **[[Facing the fear|Facing the fear]]** (Kierkegaard)
 - **[[Right action|Right action despite anxiety]]** (Buddhism)
 

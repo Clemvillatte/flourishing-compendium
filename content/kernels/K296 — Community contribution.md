@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K296** — Community contribution
 
-Each week, do one thing for the community that is not required and not compensated: pick up litter, help a neighbour, volunteer, share a skill. Aristotle's grounding is the social nature of the good life: self-sufficiency is not for a solitary individual but for friends and countrymen ([Nicomachean Ethics I.7, Chase translation](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)). Reach for it when attention has turned entirely inward.
+Each week, do one thing for the community that is not required and not compensated: pick up litter, help a neighbour, volunteer, share a skill. [[T002 — Aristotle|Aristotle]]'s grounding is the social nature of the good life: self-sufficiency is not for a solitary individual but for friends and countrymen ([Nicomachean Ethics I.7, Chase translation](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)). Reach for it when attention has turned entirely inward.
 
 ### What it rests on
 

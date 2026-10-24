@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 24** — Practice liberality with your resources
 
-Aristotle names liberality the mean with regard to giving and taking wealth. The liberal man spends according to his substance and on the right objects; the prodigal exceeds that. Aristotle also says the liberal man feels pleasure in so doing, and takes the right amounts from the right sources.
+[[T002 — Aristotle|Aristotle]] names liberality the mean with regard to giving and taking wealth. The liberal man spends according to his substance and on the right objects; the prodigal exceeds that. Aristotle also says the liberal man feels pleasure in so doing, and takes the right amounts from the right sources.
 
 > "For, as has been said, he is liberal who spends according to his substance and on the right objects; and he who exceeds is prodigal. Liberality, then, being a mean with regard to giving and taking of wealth, the liberal man will both give and spend the right amounts and on the right objects, alike in small things and in great, and that with pleasure; he will also take the right amounts and from the right sources." ([NicEth IV.1, English rendering hosted by Boston University](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 

@@ -33,7 +33,7 @@ Note what this is and is not: an association between mood and pleasant activity 
 
 ## Philosophy parallels
 
-- **[[Joy|Joy as virtue]]** (Aristotle, Nicomachean Ethics X)
+- **[[Joy|Joy as virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X)
 - **The value of play** (Huizinga, Homo Ludens)
 - **[[Right effort|Right effort includes joy]]** (Buddhism, mudita)
 

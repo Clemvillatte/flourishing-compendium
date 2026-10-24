@@ -46,5 +46,5 @@ For the psychology parallel, a meta-analysis of 92 longitudinal samples found th
 
 ## Philosophy parallels
 
-- **Flourishing takes a whole life** (Aristotle, NE I.7)
+- **Flourishing takes a whole life** ([[T002 — Aristotle|Aristotle]], NE I.7)
 - **Perpetual perishing and creative advance** (Whitehead, Process and Reality)

@@ -21,7 +21,7 @@ Both abstracts concern what the traits are and how they are measured and how the
 
 ### Here
 
-- [[A037 — Distinguish cleverness (deinotes) from practical wisdom]] uses Aristotle's cleverness, the skill of finding means to any goal, whether the goal is good or bad. The Dark Triad literature does not test that distinction, so the two are linked by theme: cleverness serving a bad aim is, in Aristotle's words, "mere smartness".
+- [[A037 — Distinguish cleverness (deinotes) from practical wisdom]] uses [[T002 — Aristotle|Aristotle]]'s cleverness, the skill of finding means to any goal, whether the goal is good or bad. The Dark Triad literature does not test that distinction, so the two are linked by theme: cleverness serving a bad aim is, in Aristotle's words, "mere smartness".
 
 ## Related concepts
 

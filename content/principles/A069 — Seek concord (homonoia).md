@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 69** — Seek concord (homonoia)
 
-Ross translates homonoia as "unanimity". In NE IX.6 Aristotle says what it is and what it is not:
+Ross translates homonoia as "unanimity". In NE IX.6 [[T002 — Aristotle|Aristotle]] says what it is and what it is not:
 
 > "Unanimity also seems to be a friendly relation. For this reason it is not identity of opinion; for that might occur even with people who do not know each other".
 > — Aristotle, Nicomachean Ethics IX.6 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html))

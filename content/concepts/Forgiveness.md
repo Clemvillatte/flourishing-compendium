@@ -55,7 +55,7 @@ R005 "Practise forgiveness" frames it as releasing the debt, not the memory, wit
 - Worthington, 2001
 - Buddhism
 - Christian tradition
-- Aristotle, Nicomachean Ethics
+- [[T002 — Aristotle|Aristotle]], Nicomachean Ethics
 - Christian tradition, Lord's Prayer
 - Dunbar's gossip-cooperation findings as background
 - Griffin et al., 2015

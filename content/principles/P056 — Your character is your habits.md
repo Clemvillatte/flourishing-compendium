@@ -38,7 +38,7 @@ Take the person who says they value fitness and owns a dusty bike, next to the p
 ## Philosophy parallels
 
 - **[[The empirical self|The empirical self]]** (James, The Principles of Psychology)
-- **[[Habit|Habit as second nature]]** (Aristotle, Nicomachean Ethics II, [text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1103a))
+- **[[Habit|Habit as second nature]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II, [text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1103a))
 - **[[Habit|Habit]]** (Pragmatism)
 
 <!-- fc: reflections

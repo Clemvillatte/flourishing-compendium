@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 91** — Integrate contemplation and action
 
-Aristotle gives contemplation the highest place in Nicomachean Ethics X.7. His recognition of practical virtue in X.8 preserves a ranking rather than making the two lives equal:
+[[T002 — Aristotle|Aristotle]] gives contemplation the highest place in Nicomachean Ethics X.7. His recognition of practical virtue in X.8 preserves a ranking rather than making the two lives equal:
 
 > But in a secondary degree the life in accordance with the other kind of virtue is happy; for the activities in accordance with this befit our human estate.
 > (Nicomachean Ethics X.8, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html).)

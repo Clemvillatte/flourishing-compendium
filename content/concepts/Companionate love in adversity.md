@@ -21,7 +21,7 @@ The 2008 investigation then tested that assumption in 53 newlywed couples and 24
 ### Here
 
 - [[A068 — Maintain friendships through presence in misfortune]] — the principle supplies the adversity half of the heading: showing up in a friend's misfortune is companionate love in action
-- [[A064 — Know the three kinds of friendship]] — listed as a citing principle; Aristotle's friendship kinds are the original entry's other philosophical anchor
+- [[A064 — Know the three kinds of friendship]] — listed as a citing principle; [[T002 — Aristotle|Aristotle]]'s friendship kinds are the original entry's other philosophical anchor
 - [[ST150 — Million Dollar Baby's Shifting Mean]] — listed as a citing story
 - [[K251 — Signature strengths in new ways]] — listed as a citing kernel
 

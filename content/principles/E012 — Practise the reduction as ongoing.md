@@ -61,7 +61,7 @@ As a small exercise inspired by the method, describe how a familiar room appears
 ## Philosophy parallels
 
 - **[[The ongoing reduction|The ongoing reduction]]** (Husserl, The Crisis)
-- **Practice and habit** (Aristotle, Nicomachean Ethics II.1)
+- **Practice and habit** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.1)
 
 - **[[Epoché|Epoché]]** (Existentialism & Phenomenology)
 

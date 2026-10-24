@@ -41,4 +41,4 @@ Pick one protective factor from the framework, such as regular exercise or acces
 
 ## Philosophy parallels
 
-- **[[Care|Care of the body]]** (Aristotle, Nicomachean Ethics; Foucault, The History of Sexuality)
+- **[[Care|Care of the body]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics; Foucault, The History of Sexuality)

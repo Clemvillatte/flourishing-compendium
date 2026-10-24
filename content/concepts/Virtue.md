@@ -7,7 +7,7 @@ file: "Virtue"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-V"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter V", "parent": ""}
 ---
-Virtue (Greek aretē) is excellence of character: a stable disposition to feel, choose and act well. In Aristotle's account the moral virtues are acquired through [[Habituation|habituation]]: they come about "neither by nature nor apart from nature" (Nicomachean Ethics 1103a, 24-25), and habituation from childhood "makes an enormous difference" to how a life turns out (1103b, 23-25). Virtue is a hexis, an active holding of the soul in a "stable equilibrium" from which one chooses knowingly and for the sake of the action itself (as the [IEP account of Aristotle's ethics](https://iep.utm.edu/aris-eth/) puts it).
+Virtue (Greek aretē) is excellence of character: a stable disposition to feel, choose and act well. In [[T002 — Aristotle|Aristotle]]'s account the moral virtues are acquired through [[Habituation|habituation]]: they come about "neither by nature nor apart from nature" (Nicomachean Ethics 1103a, 24-25), and habituation from childhood "makes an enormous difference" to how a life turns out (1103b, 23-25). Virtue is a hexis, an active holding of the soul in a "stable equilibrium" from which one chooses knowingly and for the sake of the action itself (as the [IEP account of Aristotle's ethics](https://iep.utm.edu/aris-eth/) puts it).
 
 ### The mean and practical wisdom
 

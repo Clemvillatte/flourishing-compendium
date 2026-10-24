@@ -15,7 +15,7 @@ The Greeks applied the word to anything: "the excellence of a chimney, the excel
 
 ### From effectiveness to virtue
 
-By the classical period the word had grown inward: "arete as applied to men had developed to include quieter virtues, such as dikaiosyne (justice) and sophrosyne (self-restraint)," and in Aristotle's Nicomachean Ethics the doctrine found "its fullest flowering" ([Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)). The tradition's summary of Aristotle: "Virtue (arete), then, is a habit or trained faculty of choice, the characteristic of which lies in moderation or observance of the mean relatively to the persons concerned, as determined by reason, i.e., by the reason by which the prudent man would determine it" (Nicomachean Ethics II.6, quoted in [Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)). Arete was the aim of paideia: training of body, speech and character toward excellence.
+By the classical period the word had grown inward: "arete as applied to men had developed to include quieter virtues, such as dikaiosyne (justice) and sophrosyne (self-restraint)," and in [[T002 — Aristotle|Aristotle]]'s Nicomachean Ethics the doctrine found "its fullest flowering" ([Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)). The tradition's summary of Aristotle: "Virtue (arete), then, is a habit or trained faculty of choice, the characteristic of which lies in moderation or observance of the mean relatively to the persons concerned, as determined by reason, i.e., by the reason by which the prudent man would determine it" (Nicomachean Ethics II.6, quoted in [Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)). Arete was the aim of paideia: training of body, speech and character toward excellence.
 
 ### The crossroads
 

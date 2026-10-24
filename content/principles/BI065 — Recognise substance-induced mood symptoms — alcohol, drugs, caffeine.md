@@ -37,7 +37,7 @@ Substances move mood in both directions. Caffeine at moderate intake is associat
 
 ## Philosophy parallels
 
-- **[[Temperance|Temperance and clarity]]** (Aristotle; Stoics)
+- **[[Temperance|Temperance and clarity]]** ([[T002 — Aristotle|Aristotle]]; Stoics)
 - **[[The middle path|The middle way: non-intoxication]]** (Buddhism)
 - **[[Simplicity|Simplicity]]** (Daoism)
 

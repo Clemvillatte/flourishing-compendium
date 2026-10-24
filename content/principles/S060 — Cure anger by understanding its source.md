@@ -24,7 +24,7 @@ Seneca's opening diagnosis:
 
 The definition the treatise works with:
 
-> "Aristotle's definition differs little from mine: for he declares anger to be a desire to repay suffering." (Seneca, Of Anger I.2, tr. Aubrey Stewart, [Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_I))
+> "[[T002 — Aristotle|Aristotle]]'s definition differs little from mine: for he declares anger to be a desire to repay suffering." (Seneca, Of Anger I.2, tr. Aubrey Stewart, [Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_I))
 
 And the contrast between the two courts, so to speak:
 

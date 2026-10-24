@@ -26,7 +26,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia vs hedonia]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia vs hedonia]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[The insatiability of desire|The insatiability of desire]]** (Buddhism, Dhammapada)
 - **The distinction between lower and higher pleasures** (Mill, Utilitarianism)
 

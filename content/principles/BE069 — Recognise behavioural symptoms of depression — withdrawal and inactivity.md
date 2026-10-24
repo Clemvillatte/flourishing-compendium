@@ -34,7 +34,7 @@ Jacobson and colleagues describe inactivity, withdrawal and inertia as commonly 
 ## Philosophy parallels
 
 - **[[The dark night|The dark night of the soul]]** (St John of the Cross)
-- **[[Action over inertia|Action over inertia]]** (Aristotle)
+- **[[Action over inertia|Action over inertia]]** ([[T002 — Aristotle|Aristotle]])
 - **[[Right effort|Right effort despite depression]]** (Buddhism)
 
 ## Practice

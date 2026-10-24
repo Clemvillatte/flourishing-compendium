@@ -41,7 +41,7 @@ Suppose a prestigious panel invitation conflicts with a promise to help a friend
 ## Philosophy parallels
 
 - **[[Diversion|Diversion]]** (Pascal, Pensees)
-- **[[Prudence|Prudence]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Prudence|Prudence]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 
 <!-- fc: reflections
 What are you currently gambling — health, closest people, integrity — for something that doesn't matter? What's the actual stake?

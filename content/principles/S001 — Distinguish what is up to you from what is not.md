@@ -84,7 +84,7 @@ Suppose you are preparing for an exam whose questions have already been set. Cho
 
 ## Philosophy parallels
 
-- **[[The function argument|The function argument]]** (Aristotle, Nicomachean Ethics I.7)
+- **[[The function argument|The function argument]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.7)
 - **[[Serene acceptance of necessity|Serene acceptance of necessity]]** (Epictetus, Enchiridion; echoed in Spinoza, Ethics V)
 - **[[The dichotomy of control|The dichotomy of control]]** (Stoicism)
 

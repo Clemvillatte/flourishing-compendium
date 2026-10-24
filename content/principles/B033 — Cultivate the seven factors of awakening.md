@@ -34,7 +34,7 @@ The instruction runs both directions. When the mind is restless, those same thre
 
 ## Philosophy parallels
 
-- **[[The catalogue of virtues|The catalog of excellences]]** (Aristotle, Nicomachean Ethics)
+- **[[The catalogue of virtues|The catalog of excellences]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Spiritual exercises|Spiritual exercises]]** (Hadot, Philosophy as a Way of Life)
 
 <!-- fc: reflections

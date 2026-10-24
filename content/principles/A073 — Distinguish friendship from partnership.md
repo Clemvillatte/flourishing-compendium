@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 73** — Distinguish friendship from partnership
 
-Useful cooperation alone does not tell you what kind of relationship you have. Aristotle distinguishes friendship based on utility from friendship grounded in character. The former rests on the benefit received; the latter rests on appreciation of the friend's character.
+Useful cooperation alone does not tell you what kind of relationship you have. [[T002 — Aristotle|Aristotle]] distinguishes friendship based on utility from friendship grounded in character. The former rests on the benefit received; the latter rests on appreciation of the friend's character.
 
 (NE VIII.3, VIII.6.)
 

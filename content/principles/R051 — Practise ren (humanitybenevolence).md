@@ -45,7 +45,7 @@ My application follows the passages: helping others do well is part of the pract
 ## Philosophy parallels
 
 - **[[Ren|Ren]]** (Confucius, The Analects)
-- **[[Humanity|Humanity]]** (Aristotle, Nicomachean Ethics)
+- **[[Humanity|Humanity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Love|Love of humanity]]** (Kant, Groundwork of the Metaphysics of Morals)
 
 ## Related concepts

@@ -36,7 +36,7 @@ For example: one week contains interest, pride, nostalgia, mild frustration and 
 
 ## Philosophy parallels
 
-- **[[The full range of the soul|The full range of the soul]]** (Aristotle, Nicomachean Ethics)
+- **[[The full range of the soul|The full range of the soul]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[The ten thousand things|The ten thousand things]]** (Daoism, Daodejing 34)
 
 ## Practice

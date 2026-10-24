@@ -44,7 +44,7 @@ For example: someone whose evening practice is Stoic reading, and whose mother c
 ## Philosophy parallels
 
 - **The household as moral community** (Confucian tradition, Analects)
-- **[[Friendship|Friendship as necessary for flourishing]]** (Aristotle, NE VIII.1)
+- **[[Friendship|Friendship as necessary for flourishing]]** ([[T002 — Aristotle|Aristotle]], NE VIII.1)
 
 <!-- fc: reflections
 Which family relationship tests your philosophy most? What does it reveal that solitude doesn't?

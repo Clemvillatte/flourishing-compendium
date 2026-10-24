@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
 
-Scholē (leisure) — for Aristotle not idleness but the condition of the highest activities: contemplation and undisturbed friendship. Work exists for its sake; a life of nothing but work misses the end ([Wikipedia Scholē](https://en.wikipedia.org/wiki/Schol%C4%93)).
+Scholē (leisure) — for [[T002 — Aristotle|Aristotle]] not idleness but the condition of the highest activities: contemplation and undisturbed friendship. Work exists for its sake; a life of nothing but work misses the end ([Wikipedia Scholē](https://en.wikipedia.org/wiki/Schol%C4%93)).
 
 The word that names the concept in modern terms is Josef Pieper's, in Leisure the Basis of Culture (1948; English 1952). Pieper's recovery of the Greek sense has two moves. First, leisure is not time off: "It is a condition of the soul and as such utterly contrary to the ideal of 'worker' in each and every one of the three aspects under which it was analysed: 1) work as activity, 2) as toil, 3) as a social function." (excerpts at [Phoenix College](https://www.pc.maricopa.edu/ss/phi101/I/IA_Leisure_Basis.htm)) Second, the condition itself: "Leisure implies, in the first place, an attitude of non-activity, of inward calm, of silence; it means not being 'busy,' but letting things happen."
 

@@ -37,7 +37,7 @@ The three failure modes (disproportionate, triggered by harmless cues, maintaine
 
 ## Philosophy parallels
 
-- **[[Courage|Courage as action despite fear]]** (Aristotle, Nicomachean Ethics III)
+- **[[Courage|Courage as action despite fear]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[Facing the fear|Facing the fear]]** (Kierkegaard, The Concept of Anxiety)
 
 ## Practice

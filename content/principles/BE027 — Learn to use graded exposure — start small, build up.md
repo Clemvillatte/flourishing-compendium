@@ -43,7 +43,7 @@ Imagine someone with social anxiety building a hierarchy: coffee with one friend
 
 - **[[Gradual training|The gradual training]]** (Buddhism) — MN 107 describes "a step-by-step training, a step-by-step activity, a step-by-step practice" in the Dhamma and Vinaya ([dhammatalks.org](https://www.dhammatalks.org/suttas/MN/MN107.html))
 - **[[The thousand-mile journey|The thousand-mile journey]]** (Laozi, Daodejing 64) — "the journey of a thousand li commenced with a single step" (Legge translation, [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
-- **[[Courage built gradually|Courage built gradually]]** (Aristotle) — "by doing the acts that we do in the presence of danger, and being habituated to feel fear or confidence, we become brave or cowardly" (Nicomachean Ethics II.1, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
+- **[[Courage built gradually|Courage built gradually]]** ([[T002 — Aristotle|Aristotle]]) — "by doing the acts that we do in the presence of danger, and being habituated to feel fear or confidence, we become brave or cowardly" (Nicomachean Ethics II.1, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
 Cross-tradition parallels above are my analogies between graded clinical exposure and older step-by-step accounts of training; they are not claims of equivalent mechanisms.
 

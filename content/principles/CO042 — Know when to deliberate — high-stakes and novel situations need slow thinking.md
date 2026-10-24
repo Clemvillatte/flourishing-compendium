@@ -34,7 +34,7 @@ Imagine choosing an activity for your child after seeing a frightening news repo
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean in decision]]** (Aristotle, Nicomachean Ethics VI)
+- **[[The doctrine of the mean|The mean in decision]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Practical wisdom|Practical wisdom as timing]]** (Aristotle, Nicomachean Ethics VI)
 - **[[Right effort|Right effort]]** (Buddhism, Eightfold Path)
 

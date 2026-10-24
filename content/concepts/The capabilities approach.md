@@ -17,7 +17,7 @@ Sen's own example marks the difference a person's options make:
 
 ### Origin
 
-The approach began in Sen's criticism of the limited informational bases of the traditional economic models and evaluative accounts, namely utilitarianism and resourcism. What was missing from those models, Sen argues, is a notion of what activities we are able to undertake ("doings") and the kinds of persons we are able to be ("beings"). The encyclopedia entry traces earlier versions of the idea to Aristotle, Adam Smith and Marx, and credits Sen as the pioneer, with Nussbaum among the scholars who developed it.
+The approach began in Sen's criticism of the limited informational bases of the traditional economic models and evaluative accounts, namely utilitarianism and resourcism. What was missing from those models, Sen argues, is a notion of what activities we are able to undertake ("doings") and the kinds of persons we are able to be ("beings"). The encyclopedia entry traces earlier versions of the idea to [[T002 — Aristotle|Aristotle]], Adam Smith and Marx, and credits Sen as the pioneer, with Nussbaum among the scholars who developed it.
 
 ### Core claims
 

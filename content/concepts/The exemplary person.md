@@ -25,7 +25,7 @@ The same stretch of the text adds the social corollary: "Virtue dwells not alone
 
 I read the figure as the answer to the question "who should I become?", and pairs it with its counterparts in other traditions.
 
-- [[A043 — Develop phronesis — practical wisdom]] — Aristotle's practical wisdom, the capacity defined by its work in the Nicomachean Ethics
+- [[A043 — Develop phronesis — practical wisdom]] — [[T002 — Aristotle|Aristotle]]'s practical wisdom, the capacity defined by its work in the Nicomachean Ethics
 - [[Y116 — Be the portrait]] — the Gita's portrait of the person dear to Krishna
 - [[A120 — Understand emulation (zelos)]] — the Rhetoric's account of emulation, the pain that good fortune is not one's own
 - [[S126 — Practise the contemplation of exemplary lives]] — Marcus's ledger of debts to his teachers

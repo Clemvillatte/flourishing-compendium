@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 66** — Be a friend to yourself first
 
-Aristotle's argument runs through the attributes of friendship. The good person "is of one mind with himself, and desires the same things with all his soul", and works out the good for the sake of "the rational part of him, which seems to be a man’s self." The reverse holds: "he who is not good has no friendly feelings even for himself, as there is nothing lovable in him."
+[[T002 — Aristotle|Aristotle]]'s argument runs through the attributes of friendship. The good person "is of one mind with himself, and desires the same things with all his soul", and works out the good for the sake of "the rational part of him, which seems to be a man’s self." The reverse holds: "he who is not good has no friendly feelings even for himself, as there is nothing lovable in him."
 
 > "All these characteristics are found in the highest degree in a man’s relations to himself; for he is his own best friend: and so he must love himself better than anyone else." (Aristotle, Nicomachean Ethics IX.8, [Peters trans., Standard Ebooks](https://standardebooks.org/ebooks/aristotle/nicomachean-ethics/f-h-peters/text/book-9))
 

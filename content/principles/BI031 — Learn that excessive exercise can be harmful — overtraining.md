@@ -33,7 +33,7 @@ Hard training works when it is followed by enough recovery, and trouble comes fr
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The golden mean]]** (Aristotle)
+- **[[The doctrine of the mean|The golden mean]]** ([[T002 — Aristotle|Aristotle]])
 - **[[Nothing in excess|Nothing in excess]]** (Delphic maxim)
 - **[[Wu wei|Wu wei: non-overdoing]]** (Daoism, Daodejing 9)
 

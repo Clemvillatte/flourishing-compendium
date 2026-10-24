@@ -18,7 +18,7 @@ Book II of the Ethics argues that moral excellence is concerned with pleasures a
 
 > For moral excellence is concerned with pleasures and pains; it is on account of the pleasure that we do bad things, and on account of the pain that we abstain from noble ones. Hence we ought to have been brought up in a particular way from our very youth, as Plato says, so as both to delight in and to be pained by the things that we ought; for this is the right education.
 >
-> Aristotle, Nicomachean Ethics II.3, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
+> [[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.3, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
 Two claims sit side by side in the Ethics and they look like a contradiction until you keep them apart. Pain is genuinely bad, sometimes outright and sometimes because it blocks you. Yet the right upbringing teaches you to feel pain at the right things, which only makes sense if pain also carries information. So split the question: what is this pain telling me, and separately, is it bad for me?

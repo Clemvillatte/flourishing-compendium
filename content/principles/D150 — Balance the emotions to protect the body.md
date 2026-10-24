@@ -30,7 +30,7 @@ Later Chinese medical and yangsheng traditions extend the same point into a full
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean with respect to passions]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean with respect to passions]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 <!-- fc: reflections
 Which emotion are you currently suppressing that's headed for your body? Where's it going to show up?

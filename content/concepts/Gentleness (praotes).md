@@ -7,7 +7,7 @@ file: "Gentleness (praotes)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-G"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter G", "parent": ""}
 ---
-“Gentleness (praotes)” — Aristotle, NE IV.5.
+“Gentleness (praotes)” — [[T002 — Aristotle|Aristotle]], NE IV.5.
 
 Praotēs is Aristotle's name for the mean concerned with anger, discussed in Book IV of the Nicomachean Ethics ([Aristotle, NE IV, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). Ross's translation gives the calibration:
 

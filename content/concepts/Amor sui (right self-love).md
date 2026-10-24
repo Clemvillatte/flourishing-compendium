@@ -24,7 +24,7 @@ Right self-love turns outward on its own. "The good which every man, who follows
 
 The phrase did not always carry this friendly sense. Augustine's [City of God](https://www.newadvent.org/fathers/120114.htm) draws its line between two loves, "the earthly by the love of self, even to the contempt of God; the heavenly by the love of God, even to the contempt of self" (City of God XIV.28).
 
-Aristotle had split the concept: the good man "should be a lover of self" for gratifying the most authoritative element in himself, the blamed self-lover for gratifying appetite ([Nicomachean Ethics IX.8](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html)). Kierkegaard's [Works of Love](https://academic.oup.com/edited-volume/34339/chapter/327339576) (1847) argues the commandment to love the neighbour as oneself, properly understood, "also says the opposite: You shall love yourself in the right way" (Works of Love, p. 22).
+[[T002 — Aristotle|Aristotle]] had split the concept: the good man "should be a lover of self" for gratifying the most authoritative element in himself, the blamed self-lover for gratifying appetite ([Nicomachean Ethics IX.8](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html)). Kierkegaard's [Works of Love](https://academic.oup.com/edited-volume/34339/chapter/327339576) (1847) argues the commandment to love the neighbour as oneself, properly understood, "also says the opposite: You shall love yourself in the right way" (Works of Love, p. 22).
 
 ### Here
 

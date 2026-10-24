@@ -39,7 +39,7 @@ Two kinds of study sit behind the principle. Trials where people improved their 
 
 - **Let food be thy medicine** (Hippocrates, attributed)
 - **[[Yangsheng (cultivating vitality)|Yangsheng: dietary cultivation]]** (Daoism)
-- **[[Temperance|Temperance in consumption]]** (Aristotle, Nicomachean Ethics III)
+- **[[Temperance|Temperance in consumption]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 
 ## Practice
 

@@ -34,4 +34,4 @@ Generosity here is a desire, and the desire's source is reason rather than pity 
 ## Philosophy parallels
 
 - **[[Metta (loving-kindness)|Metta as stance before feeling]]** (Buddhist brahmaviharas)
-- **[[Friendship|Friendship as the greatest external good]]** (Aristotle, Nicomachean Ethics VIII-IX)
+- **[[Friendship|Friendship as the greatest external good]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII-IX)

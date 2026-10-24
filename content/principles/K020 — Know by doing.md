@@ -35,7 +35,7 @@ For example: You can read about hospice care for a year; sitting with someone wh
 
 ## Philosophy parallels
 
-- **We learn to do by doing** (Aristotle, Nicomachean Ethics II, habituation)
+- **We learn to do by doing** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II, habituation)
 - **[[Verum factum|Verum factum]]** (Vico, Scienza Nuova)
 
 ## Practice kernels

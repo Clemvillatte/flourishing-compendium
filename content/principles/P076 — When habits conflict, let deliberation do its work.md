@@ -35,7 +35,7 @@ For example: Compare an ordinary week in your current job with one in the offere
 ## Philosophy parallels
 
 - **Deliberation as dramatic rehearsal** (Dewey, Human Nature and Conduct)
-- **[[Phronesis|Phronesis]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 
 <!-- fc: reflections
 What conflicting habits are currently creating your hesitation — and are you forcing a snap resolution rather than letting deliberation work? What's the tug-of-war?

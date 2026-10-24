@@ -44,7 +44,7 @@ Chapter 63 adds the timing: the sage "anticipates things that are difficult whil
 
 ## Philosophy parallels
 
-- **[[Potentiality to actuality|Potentiality to actuality]]** (Aristotle, Metaphysics IX), the acorn becomes the oak only through stages
+- **[[Potentiality to actuality|Potentiality to actuality]]** ([[T002 — Aristotle|Aristotle]], Metaphysics IX), the acorn becomes the oak only through stages
 
 <!-- fc: reflections
 What impressive thing in your life was once an unimpressive sprout — and what does that tell you about what you should be planting now?

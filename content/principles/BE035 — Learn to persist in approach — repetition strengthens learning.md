@@ -33,7 +33,7 @@ The model's premise: "Bouton and colleagues propose that after extinction, the C
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as repeated action]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as repeated action]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **Practice makes permanent** (practical wisdom)
 - **[[Right effort|Right effort: repetition]]** (Buddhism)
 

@@ -42,4 +42,4 @@ Neither text says that an unsettled conscience is what stalls meditation, or rec
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as the precondition of contemplation]]** (Aristotle, Nicomachean Ethics X)
+- **[[Virtue|Virtue as the precondition of contemplation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X)

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 12** — Practice temperance (sophrosyne)
 
-Temperance concerns the bodily pleasures, the ones shared with the other animals: food, drink, sex, touch and taste. Aristotle's definition, verbatim:
+Temperance concerns the bodily pleasures, the ones shared with the other animals: food, drink, sex, touch and taste. [[T002 — Aristotle|Aristotle]]'s definition, verbatim:
 
 > "We have said that temperance is a mean with regard to pleasures (for it is less, and not in the same way, concerned with pains)." (NE III.10, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 

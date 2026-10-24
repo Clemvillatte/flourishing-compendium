@@ -44,7 +44,7 @@ For example: if checking sports scores always costs you an hour, put the app on 
 
 - **Know thyself** (Delphic maxim)
 - **[[The examined life|The examined life]] includes examined distraction** (Socrates, Apology)
-- **[[Environmental design|Environmental design over willpower]]** (Aristotle, Politics)
+- **[[Environmental design|Environmental design over willpower]]** ([[T002 — Aristotle|Aristotle]], Politics)
 
 ## Practice
 

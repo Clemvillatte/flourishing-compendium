@@ -32,7 +32,7 @@ This finding concerns how the measures related in that research. It does not est
 
 ## Philosophy parallels
 
-- **Hedonic vs eudaimonic well-being** (Aristotle, Nicomachean Ethics X)
+- **Hedonic vs eudaimonic well-being** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X)
 - **[[Joy|Joy as distinct from absence of sorrow]]** (Kierkegaard, Works of Love)
 
 ## Practice

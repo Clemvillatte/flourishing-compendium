@@ -26,7 +26,7 @@ The same analysis records the main limit: "Our analysis further reveals a modera
 - [[P077 — Understand choice as emergent, not commanded]] — Juarrero's context-sensitive constraints: intentions alter which responses are available
 - [[PP072 — Design the environment to support the practice]] — the Wood and Neal habit mechanism behind environment design
 - [[BE003 — Know that behaviour is triggered by context — environment drives action]] — Wood and Neal's account of context cues and habits
-- [[A054 — Choose deliberately (prohairesis)]] — Aristotle's choice, the deliberative capacity the architecture surrounds
+- [[A054 — Choose deliberately (prohairesis)]] — [[T002 — Aristotle|Aristotle]]'s choice, the deliberative capacity the architecture surrounds
 - [[SO056 — Design institutions for flourishing]] — the Biglan nurturing-environments framework at institutional scale
 - [[MO030 — Learn to reduce friction for desired behaviours — make it easy]] — the Thorndike cafeteria field test of visibility and convenience
 - [[MO049 — Learn to remove distractions — environment drives procrastination]] — reports the smartphone-presence studies

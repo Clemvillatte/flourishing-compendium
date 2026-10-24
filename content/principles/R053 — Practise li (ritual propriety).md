@@ -28,7 +28,7 @@ His account of mourning puts genuine sorrow ahead of minute observance, while hi
 ## Philosophy parallels
 
 - **[[Li: ritual propriety|Ritual propriety]]**: forms of conduct remain answerable to humane feeling, rather than replacing it ([Analects III.3–4](https://classics.mit.edu/Confucius/analects.1.1.html)).
-- **[[Habit|Habit and virtue]]**: Aristotle connects character with repeated action, but also requires knowledge, choice and a settled disposition; outward repetition is not the whole account ([Nicomachean Ethics II.1, II.4, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)).
+- **[[Habit|Habit and virtue]]**: [[T002 — Aristotle|Aristotle]] connects character with repeated action, but also requires knowledge, choice and a settled disposition; outward repetition is not the whole account ([Nicomachean Ethics II.1, II.4, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)).
 
 ## Sources
 

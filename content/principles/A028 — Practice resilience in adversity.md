@@ -13,7 +13,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 28** — Practice resilience in adversity
 
-Aristotle does not treat happiness as immune to fortune in I.10. He acknowledges that great and frequent reverses can crush and mar bliss, both by the pain they cause and by the hindrance they offer to activity. What he holds onto is that the person of virtue will not become miserable, because their life is determined by their activities, and they will bear all kinds of fortune in a seemly way, acting in the noblest manner the circumstances allow ([NE I.10, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=1)). He marks the limit himself: such a person will not be supremely blessed if they encounter the misfortunes of a Priam.
+[[T002 — Aristotle|Aristotle]] does not treat happiness as immune to fortune in I.10. He acknowledges that great and frequent reverses can crush and mar bliss, both by the pain they cause and by the hindrance they offer to activity. What he holds onto is that the person of virtue will not become miserable, because their life is determined by their activities, and they will bear all kinds of fortune in a seemly way, acting in the noblest manner the circumstances allow ([NE I.10, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=1)). He marks the limit himself: such a person will not be supremely blessed if they encounter the misfortunes of a Priam.
 
 > Yet nevertheless even in adversity nobility shines through, when a man endures repeated and severe misfortune with patience, not owing to insensibility but from generosity and greatness of soul.
 >

@@ -37,4 +37,4 @@ Arnold's translation does not use the phrase "discipline destroys sorrow", thoug
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The golden mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The golden mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)

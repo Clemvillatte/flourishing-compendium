@@ -30,7 +30,7 @@ Compare V P38 with the note on V P34. Identify which kind of understanding the p
 
 ## Philosophy parallels
 
-- **[[Noesis noeseos, thought thinking itself|Noesis noeseos, thought thinking itself]]** (Aristotle, Nicomachean Ethics X.7)
+- **[[Noesis noeseos, thought thinking itself|Noesis noeseos, thought thinking itself]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X.7)
 - **[[Treasures that rust cannot corrupt|Treasures that rust cannot corrupt]]** (Gospel of Matthew 6.20)
 
 ## Sources

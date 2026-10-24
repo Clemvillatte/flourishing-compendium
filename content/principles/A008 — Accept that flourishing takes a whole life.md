@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 8** — Accept that flourishing takes a whole life
 
-Aristotle includes "a complete life" in his account of happiness: one day or a short period is insufficient to establish that someone is blessed and happy ([NE I.7](http://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). The reflection below considers a recent experience alongside a longer history.
+[[T002 — Aristotle|Aristotle]] includes "a complete life" in his account of happiness: one day or a short period is insufficient to establish that someone is blessed and happy ([NE I.7](http://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). The reflection below considers a recent experience alongside a longer history.
 
 > But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.
 >

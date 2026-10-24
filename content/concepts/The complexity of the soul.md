@@ -7,7 +7,7 @@ file: "The complexity of the soul"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The complexity of the soul is Aristotle's own framing of the problem in De Anima: the soul is one thing with distinct capacities, and the difficulty is saying how. His opening caution: "Grasping anything trustworthy concerning the soul is completely and in every way among the most difficult of affairs" (*De Anima* i 1, 402a10-11; [SEP, Aristotle's Psychology](https://plato.stanford.edu/entries/aristotle-psychology/)). And the parts question is left open: "It's clear that the soul is not separable from the body — or that certain parts of it, if it naturally has parts, are not separable from the body" (*De Anima* ii 1, 413a3-5; [same](https://plato.stanford.edu/entries/aristotle-psychology/)).
+The complexity of the soul is [[T002 — Aristotle|Aristotle]]'s own framing of the problem in De Anima: the soul is one thing with distinct capacities, and the difficulty is saying how. His opening caution: "Grasping anything trustworthy concerning the soul is completely and in every way among the most difficult of affairs" (*De Anima* i 1, 402a10-11; [SEP, Aristotle's Psychology](https://plato.stanford.edu/entries/aristotle-psychology/)). And the parts question is left open: "It's clear that the soul is not separable from the body — or that certain parts of it, if it naturally has parts, are not separable from the body" (*De Anima* ii 1, 413a3-5; [same](https://plato.stanford.edu/entries/aristotle-psychology/)).
 
 ### The faculties
 

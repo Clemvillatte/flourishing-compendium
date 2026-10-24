@@ -52,5 +52,5 @@ Optional application (Motivation; Overt behaviour): invite a friend to an unhurr
 
 ## Philosophy parallels
 
-- **Aristotle's philia**: Nicomachean Ethics IX.9 argues that a happy person needs virtuous friends and shared activity. Compare its reasons with Epicurus's emphasis on confidence and security, rather than treating the arguments as identical ([Aristotle IX.9](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html)).
+- **[[T002 — Aristotle|Aristotle]]'s philia**: Nicomachean Ethics IX.9 argues that a happy person needs virtuous friends and shared activity. Compare its reasons with Epicurus's emphasis on confidence and security, rather than treating the arguments as identical ([Aristotle IX.9](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html)).
 - **[[Friendship|Friendship as the Garden's wall]]**: a compendium metaphor for confidence in friends, not a quotation or historical Garden-wall saying from Epicurus.

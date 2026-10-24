@@ -36,7 +36,7 @@ A language learner stuck on a textbook that is far too advanced loses heart. Swi
 
 ## Philosophy parallels
 
-- **[[The unity of the virtues|Virtue as built capacity]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as built capacity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **Mastery and craft** (Dreyfus & Dreyfus, Mind Over Machine)
 - **[[Right effort|Right effort]]** (Buddhism, Eightfold Path)
 

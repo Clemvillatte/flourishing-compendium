@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 15** — Practice magnanimity (megalopsychia)
 
-Ross translates megalopsychia as "pride", and the proud person as the one Aristotle describes in NE IV.3:
+Ross translates megalopsychia as "pride", and the proud person as the one [[T002 — Aristotle|Aristotle]] describes in NE IV.3:
 
 > "Now the man is thought to be proud who thinks himself worthy of great things, being worthy of them; for he who does so beyond his deserts is a fool, but no virtuous man is foolish or silly."
 > — Aristotle, Nicomachean Ethics IV.3 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))

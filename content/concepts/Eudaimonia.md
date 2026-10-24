@@ -8,7 +8,7 @@ tags: ["eudaimonia"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-Eudaimonia (εὐδαιμονία, "good spirit") is Aristotle's term for the highest human good: a life of flourishing, of living well and doing well, rather than a passing state of mind.
+Eudaimonia (εὐδαιμονία, "good spirit") is [[T002 — Aristotle|Aristotle]]'s term for the highest human good: a life of flourishing, of living well and doing well, rather than a passing state of mind.
 
 > "Eudaimonia, in Aristotelian ethics, is the condition of human flourishing or living well. For Aristotle, eudaimonia is the highest human good, the only human good that is desirable for its own sake (as an end in itself) rather than for the sake of something else (as a means toward some other end)." ([Britannica, "Eudaimonia"](https://www.britannica.com/topic/eudaimonia))
 

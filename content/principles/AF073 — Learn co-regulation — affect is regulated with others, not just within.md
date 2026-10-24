@@ -31,7 +31,7 @@ For example: a panicked caller and a friend who says, slowly, that they should w
 ## Philosophy parallels
 
 - **[[Ubuntu|Ubuntu: I am because we are]]** (African Philosophy, Desmond Tutu)
-- **[[Aristotelian friendship|Aristotelian friendship as mutual flourishing]]** (Aristotle, Nicomachean Ethics IX)
+- **[[Aristotelian friendship|Aristotelian friendship as mutual flourishing]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IX)
 
 ## Practice
 

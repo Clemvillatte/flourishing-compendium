@@ -7,7 +7,7 @@ file: "Courage"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Courage (andreia) is one of the four cardinal virtues: acting well in the face of fear. Aristotle defines it precisely: "courage is a mean with respect to things that inspire confidence or fear, in the circumstances that have been stated; and it chooses or endures things because it is noble to do so, or because it is base not to do so" ([Nicomachean Ethics III.6-9, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The brave person, in his summary, "feels and acts according to the merits of the case and in whatever way the rule directs" ([Nicomachean Ethics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
+Courage (andreia) is one of the four cardinal virtues: acting well in the face of fear. [[T002 — Aristotle|Aristotle]] defines it precisely: "courage is a mean with respect to things that inspire confidence or fear, in the circumstances that have been stated; and it chooses or endures things because it is noble to do so, or because it is base not to do so" ([Nicomachean Ethics III.6-9, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The brave person, in his summary, "feels and acts according to the merits of the case and in whatever way the rule directs" ([Nicomachean Ethics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
 ### What courage is not
 

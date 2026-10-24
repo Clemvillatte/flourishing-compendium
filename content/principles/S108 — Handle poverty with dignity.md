@@ -49,7 +49,7 @@ Follow Letter 18 for three days: plain food and plain clothes, and each day ask 
 ## Philosophy parallels
 
 - **Know what is enough (zhizu)** (Laozi, Daodejing 44)
-- **[[Self-sufficiency|Self-sufficiency (autarkeia)]]** (Aristotle, NE X.7)
+- **[[Self-sufficiency|Self-sufficiency (autarkeia)]]** ([[T002 — Aristotle|Aristotle]], NE X.7)
 
 <!-- fc: reflections
 What do you think poverty takes from a person, and what can it not take?

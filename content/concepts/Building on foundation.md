@@ -7,7 +7,7 @@ file: "Building on foundation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-B"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-“Building on foundation” — Aristotle; Aristotle, Nicomachean Ethics II.
+“Building on foundation” — [[T002 — Aristotle|Aristotle]]; Aristotle, Nicomachean Ethics II.
 
 Building on foundation is the page label for Aristotle's account of how virtue is built: by repeated acts that lay down the capacity the acts express. The Nicomachean Ethics II.1 passage gives the building image literally.
 

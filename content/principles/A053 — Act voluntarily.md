@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 53** — Act voluntarily
 
-Aristotle distinguishes voluntary from involuntary action when considering praise, blame and pardon; his account asks where an action originates and what the person knew ([NE III.1](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)):
+[[T002 — Aristotle|Aristotle]] distinguishes voluntary from involuntary action when considering praise, blame and pardon; his account asks where an action originates and what the person knew ([NE III.1](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)):
 
 > Since that which is done under compulsion or by reason of ignorance is involuntary, the voluntary would seem to be that of which the moving principle is in the agent himself, he being aware of the particular circumstances of the action.
 > (NE III.1, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))

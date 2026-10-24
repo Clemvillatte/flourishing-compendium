@@ -7,7 +7,7 @@ file: "Proper self-love"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Proper self-love is the Aristotelian claim that loving oneself is not itself a fault: the question is which part of oneself one loves and what one assigns to oneself. In Nicomachean Ethics IX.8 Aristotle starts from the ordinary reproach and then narrows it.
+Proper self-love is the Aristotelian claim that loving oneself is not itself a fault: the question is which part of oneself one loves and what one assigns to oneself. In Nicomachean Ethics IX.8 [[T002 — Aristotle|Aristotle]] starts from the ordinary reproach and then narrows it.
 
 > "Those who use the term as one of reproach ascribe self-love to people who assign to themselves the greater share of wealth, honours, and bodily pleasures." (Aristotle, Nicomachean Ethics IX.8, W. D. Ross translation, [Internet Classics Archive](@N@))
 

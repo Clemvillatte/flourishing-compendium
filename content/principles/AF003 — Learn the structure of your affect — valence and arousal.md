@@ -37,7 +37,7 @@ For example: Before a presentation, you might write "very activated; somewhat un
 ## Philosophy parallels
 
 - **[[Yin and yang|Yin-yang polarity]]** (Daoism, Daodejing 42)
-- **Passions differ in intensity and direction** (Aristotle, Nicomachean Ethics II)
+- **Passions differ in intensity and direction** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 ## Practice
 

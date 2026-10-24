@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 117** — Understand pity (eleos)
 
-Aristotle's definition includes a judgement about what someone deserves. Pity is "a feeling of pain caused by the sight of some evil, destructive or painful, which befalls one who does not deserve it, and which we might expect to befall ourselves or some friend of ours, and moreover to befall us soon" ([Rhetoric II.8, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). In this account, people who think themselves "completely ruined" or "immensely fortunate" cannot feel it. He adds: "if you think nobody good, you will believe that everybody deserves evil fortune."
+[[T002 — Aristotle|Aristotle]]'s definition includes a judgement about what someone deserves. Pity is "a feeling of pain caused by the sight of some evil, destructive or painful, which befalls one who does not deserve it, and which we might expect to befall ourselves or some friend of ours, and moreover to befall us soon" ([Rhetoric II.8, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). In this account, people who think themselves "completely ruined" or "immensely fortunate" cannot feel it. He adds: "if you think nobody good, you will believe that everybody deserves evil fortune."
 
 Closeness steers it. "it is when the sufferings of others are close to us that they excite our pity", so speakers use gestures and drama to "put the disasters before our eyes". Closeness of the wrong kind works against it, so that harm to someone very near is felt differently: "the terrible is different from the pitiful; it tends to cast out pity."
 

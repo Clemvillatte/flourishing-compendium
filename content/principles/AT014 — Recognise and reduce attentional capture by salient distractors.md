@@ -37,7 +37,7 @@ The phone buzzing on the desk wins the first glance even during a sentence you m
 
 ## Philosophy parallels
 
-- **[[Designing the environment for virtue|Designing the environment for virtue]]** (Aristotle, Politics)
+- **[[Designing the environment for virtue|Designing the environment for virtue]]** ([[T002 — Aristotle|Aristotle]], Politics)
 - **[[Simplicity as practice|Simplicity as practice]]** (Daoism, Daodejing 19)
 - **[[Guarding the senses|Guarding the senses]]** (Buddhism, Dhammapada)
 

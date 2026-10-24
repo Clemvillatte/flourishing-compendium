@@ -21,7 +21,7 @@ The continuum is not a ladder people must climb stage by stage; internalization 
 
 ### Here
 
-MO011 carries the distinction directly as autonomous versus controlled motivation, and MO003 pairs it with the intrinsic-extrinsic distinction. PP009's self-concordant goals are the goal-setting version. A058's continence versus virtue is a paired Aristotle contrast: acting under internal pressure versus acting from a settled valuing. Y040's never performing ethics for an audience and SP076's obeying from understanding rather than fear are the ethical faces of it.
+MO011 carries the distinction directly as autonomous versus controlled motivation, and MO003 pairs it with the intrinsic-extrinsic distinction. PP009's self-concordant goals are the goal-setting version. A058's continence versus virtue is a paired [[T002 — Aristotle|Aristotle]] contrast: acting under internal pressure versus acting from a settled valuing. Y040's never performing ethics for an audience and SP076's obeying from understanding rather than fear are the ethical faces of it.
 
 ## Related concepts
 

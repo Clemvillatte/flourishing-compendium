@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
 
-For Aristotle, happiness is something we do and not something we have. He builds this into his definition in Nicomachean Ethics I. After arguing that the function of a human being is an activity of the soul that follows reason, he concludes:
+For [[T002 — Aristotle|Aristotle]], happiness is something we do and not something we have. He builds this into his definition in Nicomachean Ethics I. After arguing that the function of a human being is an activity of the soul that follows reason, he concludes:
 
 > human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.
 

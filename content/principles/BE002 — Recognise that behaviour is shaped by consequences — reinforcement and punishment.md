@@ -43,7 +43,7 @@ For example: loud complaints become more frequent after receiving a manager's at
 ## Philosophy parallels
 
 - **Pleasure and pain as guides** (Bentham, Introduction to the Principles of Morals and Legislation)
-- **[[Habituation|Habituation through reward]]** (Aristotle, Nicomachean Ethics II)
+- **[[Habituation|Habituation through reward]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right action rewarded|Right action rewarded]]** (Buddhism, karma)
 
 ## Practice

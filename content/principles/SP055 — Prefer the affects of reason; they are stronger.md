@@ -34,5 +34,5 @@ Someone notes that their gym motivation is attached to a single image of a futur
 
 ## Philosophy parallels
 
-- **[[The joy of virtue|The joy of virtue]]** (Aristotle, Nicomachean Ethics X)
+- **[[The joy of virtue|The joy of virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X)
 - **Roots versus leaves** (Gospel of Matthew 13, the parable of the sower)

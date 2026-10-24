@@ -29,7 +29,7 @@ This principle then splits the far side of the line by proximity: some things yo
 
 ## Philosophy parallels
 
-- **[[The function argument|The function argument]]** (Aristotle, NE I.7)
+- **[[The function argument|The function argument]]** ([[T002 — Aristotle|Aristotle]], NE I.7)
 - **[[Freedom|Freedom as effective power]]** (Dewey, Human Nature and Conduct)
 - **[[The dichotomy of control|The dichotomy of control]]** (Stoicism)
 

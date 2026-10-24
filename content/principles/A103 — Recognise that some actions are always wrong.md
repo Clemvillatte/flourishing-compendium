@@ -13,7 +13,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 103** — Recognise that some actions are always wrong
 
-Aristotle's doctrine of the mean is not a doctrine that everything has a defensible middle. He names acts that are bad in themselves, and says that with these there is no question of a right amount, right person, right time or right manner. The acts he names as examples are adultery, theft and murder ([NE II.6, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2)).
+[[T002 — Aristotle|Aristotle]]'s doctrine of the mean is not a doctrine that everything has a defensible middle. He names acts that are bad in themselves, and says that with these there is no question of a right amount, right person, right time or right manner. The acts he names as examples are adultery, theft and murder ([NE II.6, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=2)).
 
 > It is impossible therefore ever to go right in regard to them—one must always be wrong; nor does right or wrong in their case depend on the circumstances, for instance, whether one commits adultery with the right woman, at the right time, and in the right manner; the mere commission of any of them is wrong.
 >

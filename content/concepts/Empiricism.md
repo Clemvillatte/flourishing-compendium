@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Empiricism is the view that knowledge starts from experience. Markie and Folescu state its core thesis: "We have no source of knowledge in S or for the concepts we use in S other than experience," where S is some subject area. They add that the thesis "does not entail that we have empirical knowledge. It entails that knowledge can only be gained, if at all, by experience" ([SEP, "Rationalism vs. Empiricism"](https://plato.stanford.edu/entries/rationalism-empiricism/)).
 
-### Aristotle on how experience becomes knowledge
+### [[T002 — Aristotle|Aristotle]] on how experience becomes knowledge
 
 At the end of the Posterior Analytics, Aristotle asks how first principles are known. In the translation by Mure he answers: "out of sense-perception comes to be what we call memory, and out of frequently repeated memories of the same thing develops experience; for a number of memories constitute a single experience." From experience come "the skill of the craftsman and the knowledge of the man of science". He concludes: "these states of knowledge are neither innate in a determinate form, nor developed from other higher states of knowledge, but from sense-perception" ([Posterior Analytics II.19](http://classics.mit.edu/Aristotle/posterior.2.ii.html)).
 

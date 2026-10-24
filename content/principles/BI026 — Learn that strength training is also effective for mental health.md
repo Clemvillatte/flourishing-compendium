@@ -39,7 +39,7 @@ The entry's further claims that strength training raises self-esteem and cogniti
 ## Philosophy parallels
 
 - **[[Strength as virtue|Strength as virtue]]** (Nietzsche, The Gay Science)
-- **[[The unity of the virtues|Virtue as built capacity]]** (Aristotle)
+- **[[The unity of the virtues|Virtue as built capacity]]** ([[T002 — Aristotle|Aristotle]])
 - **[[The disciplined body|The disciplined body]]** (Foucault)
 
 ## Practice

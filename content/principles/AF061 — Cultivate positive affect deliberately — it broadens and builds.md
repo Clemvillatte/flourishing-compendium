@@ -31,7 +31,7 @@ For example: during a cheerful team meeting, colleagues sketch three possible ap
 ## Philosophy parallels
 
 - **[[Joy|Joy as expansive]]** (Spinoza, Ethics III)
-- **[[Eudaimonia|Eudaimonia as activity]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as activity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 
 ## Practice
 

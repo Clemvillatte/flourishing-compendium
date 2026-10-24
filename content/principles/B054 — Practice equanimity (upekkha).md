@@ -33,7 +33,7 @@ The sutta's difference between the well-instructed and the uninstructed person i
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean of affect]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean of affect]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Ataraxia|Ataraxia]]** (Epicurus, Key Doctrines)
 
 <!-- fc: reflections

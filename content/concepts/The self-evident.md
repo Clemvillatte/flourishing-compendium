@@ -7,7 +7,7 @@ file: "The self-evident"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The self-evident, in Aristotle's account, is what all demonstration rests on and what demonstration cannot reach: the first principles, known directly rather than proven. The Posterior Analytics opens with the fact that all argument starts from what is already known, and its third chapter argues that the chain of proof must end in truths that are not themselves proven:
+The self-evident, in [[T002 — Aristotle|Aristotle]]'s account, is what all demonstration rests on and what demonstration cannot reach: the first principles, known directly rather than proven. The Posterior Analytics opens with the fact that all argument starts from what is already known, and its third chapter argues that the chain of proof must end in truths that are not themselves proven:
 
 > "Our own doctrine is that not all knowledge is demonstrative: on the contrary, knowledge of the immediate premisses is independent of demonstration. (The necessity of this is obvious; for since we must know the prior premisses from which the demonstration is drawn, and since the regress must end in immediate truths, those truths must be indemonstrable.)" (Aristotle, Posterior Analytics I.3, trans. G. R. G. Mure, [Internet Classics Archive](https://classics.mit.edu/Aristotle/posterior.1.i.html))
 

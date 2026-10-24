@@ -31,5 +31,5 @@ My application: wherever you hold a say, in a family, a workplace or a community
 
 ## Philosophy parallels
 
-- **Politics as the good life's arena** (Aristotle, Politics I.2: the state comes into existence "originating in the bare needs of life, and continuing in existence for the sake of a good life", [Jowett translation, MIT Classics](https://classics.mit.edu/Aristotle/politics.1.one.html))
+- **Politics as the good life's arena** ([[T002 — Aristotle|Aristotle]], Politics I.2: the state comes into existence "originating in the bare needs of life, and continuing in existence for the sake of a good life", [Jowett translation, MIT Classics](https://classics.mit.edu/Aristotle/politics.1.one.html))
 - **[[Government of the people|Government of the people]]** (Lincoln, Gettysburg Address, as cultural parallel)

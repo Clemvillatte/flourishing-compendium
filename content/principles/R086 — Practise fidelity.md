@@ -38,4 +38,4 @@ For a relationship you've promised to keep, write down one thing you now do diff
 ## Philosophy parallels
 
 - **[[Fidelity|Fidelity]]** (Marcel, Being and Having)
-- **[[Commitment|Commitment]]** (Aristotle, Nicomachean Ethics VIII; Buber, I and Thou)
+- **[[Commitment|Commitment]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII; Buber, I and Thou)

@@ -56,7 +56,7 @@ There is a counterweight in chapter 63.3: "he who is continually thinking things
 
 ## Philosophy parallels
 
-- **[[Phronesis|Phronesis]]** (Aristotle, Nicomachean Ethics VI), practical wisdom includes acting at the right point
+- **[[Phronesis|Phronesis]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI), practical wisdom includes acting at the right point
 
 <!-- fc: reflections
 What's currently easy that will be hard if you wait? What's the awkward conversation, weird symptom, or small debt you're letting compound?

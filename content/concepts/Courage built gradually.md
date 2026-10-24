@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-“Courage built gradually” — Aristotle.
+“Courage built gradually” — [[T002 — Aristotle|Aristotle]].
 
 Aristotle describes courage as formed through habituation: actions in situations of danger can make people brave or cowardly. The Nicomachean Ethics states the rule for the arts and the virtues alike:
 

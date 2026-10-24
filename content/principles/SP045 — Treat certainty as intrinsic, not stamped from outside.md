@@ -33,6 +33,6 @@ A student unsure of a proof writes down each step and asks what justifies it. Th
 
 ## Philosophy parallels
 
-- **[[The self-evident|The self-evident]]** (Aristotle, Posterior Analytics I.3)
+- **[[The self-evident|The self-evident]]** ([[T002 — Aristotle|Aristotle]], Posterior Analytics I.3)
 - **[[Skepticism answered by life|Skepticism answered by life]]** (Hume, Enquiry, Section XII, the backgammon passage)
 - **[[Adequate idea|Adequate idea]]** (Spinozism)

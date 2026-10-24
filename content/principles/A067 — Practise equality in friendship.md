@@ -16,7 +16,7 @@ True friendship requires a kind of equality: in goodwill, in mutual regard, in t
 
 (NE VIII.7, VIII.13.)
 
-### What Aristotle allows
+### What [[T002 — Aristotle|Aristotle]] allows
 
 He names the unequal kinds directly:
 

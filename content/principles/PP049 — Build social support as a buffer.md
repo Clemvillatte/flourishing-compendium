@@ -40,7 +40,7 @@ My exercise: identify whom you could approach for different kinds of help, and d
 ## Philosophy parallels
 
 - [[The need to belong|The need to belong]] (Baumeister and Leary, 1995)
-- [[Friendship|Friendship]] (Aristotle, Nicomachean Ethics VIII)
+- [[Friendship|Friendship]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII)
 
 <!-- fc: reflections
 Who would you call in a crisis? Do they know? When did you last call them without one?

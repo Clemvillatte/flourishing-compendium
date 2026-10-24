@@ -39,7 +39,7 @@ When you review candidates, score each criterion across all candidates before yo
 
 ## Philosophy parallels
 
-- **Judging by the whole vs the parts** (Aristotle, Nicomachean Ethics)
+- **Judging by the whole vs the parts** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **The face is not the character** (Aesop, fables)
 - **Do not judge by appearances** (Buddhism, Dhammapada)
 

@@ -13,7 +13,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 
 > **Principle 7** — Know that thinking is trainable: cognitive capacities can be built
 
-Aristotle makes a claim in the Nicomachean Ethics about acquiring arts and moral virtues: they are acquired by exercising them, not by first possessing them.
+[[T002 — Aristotle|Aristotle]] makes a claim in the Nicomachean Ethics about acquiring arts and moral virtues: they are acquired by exercising them, not by first possessing them.
 
 > For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. (Aristotle, Nicomachean Ethics II.1, [MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 

@@ -19,7 +19,7 @@ The path is traditionally grouped into three trainings: wisdom (view and intenti
 
 ### The family of curricula
 
-The Eightfold Path is the Buddhist member of a family of structured disciplines of transformation: Aristotle's habituation toward virtue, the Stoic curriculum of logic, physics, and ethics, and the classical progymnasmata of rhetorical training. Its cross-tradition equivalent in spirit is any curriculum that treats wisdom as a trainable skill rather than an insight that arrives whole.
+The Eightfold Path is the Buddhist member of a family of structured disciplines of transformation: [[T002 — Aristotle|Aristotle]]'s habituation toward virtue, the Stoic curriculum of logic, physics, and ethics, and the classical progymnasmata of rhetorical training. Its cross-tradition equivalent in spirit is any curriculum that treats wisdom as a trainable skill rather than an insight that arrives whole.
 
 ### In everyday life
 

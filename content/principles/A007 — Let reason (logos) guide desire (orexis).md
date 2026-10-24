@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > the appetitive and in general the desiring element in a sense shares in [a rational principle], in so far as it listens to and obeys it
 
-(Aristotle, Nicomachean Ethics I.13, 1102b, trans. W. D. Ross, [MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). Bracketed words are added to complete the sense.)
+([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.13, 1102b, trans. W. D. Ross, [MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). Bracketed words are added to complete the sense.)
 
 Aristotle compares this to how one "takes account" of a father or friends, and says that in the temperate and brave person the desiring element "speaks, on all matters, with the same voice as the rational principle." In the continent person it obeys, and there is also a part "naturally opposed to the rational principle, which fights against and resists that principle."
 

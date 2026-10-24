@@ -13,7 +13,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 104** — Practise equity over strict legality
 
-Aristotle's argument about equity runs against treating it as a separate virtue from justice. Equity is itself just, and superior to one sort of justice, but only because law by nature speaks in general terms and some cases fall outside the generality. The rectification is done as the lawgiver would have done it had the particular case been known ([NE V.10, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)).
+[[T002 — Aristotle|Aristotle]]'s argument about equity runs against treating it as a separate virtue from justice. Equity is itself just, and superior to one sort of justice, but only because law by nature speaks in general terms and some cases fall outside the generality. The rectification is done as the lawgiver would have done it had the particular case been known ([NE V.10, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)).
 
 > This is the essential nature of the equitable: it is a rectification of law where law is defective because of its generality.
 >

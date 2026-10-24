@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 74** — Be generous in interpreting friends' actions
 
-Aristotle does not state this principle in so many words. What the cited passages give is a stance toward a friend who has gone wrong, and it is more guarded than "assume the best." In NE IX.3 (Ross's translation) he asks whether a friendship should end "when the other party does not remain the same."
+[[T002 — Aristotle|Aristotle]] does not state this principle in so many words. What the cited passages give is a stance toward a friend who has gone wrong, and it is more guarded than "assume the best." In NE IX.3 (Ross's translation) he asks whether a friendship should end "when the other party does not remain the same."
 
 ### Help before you break off
 

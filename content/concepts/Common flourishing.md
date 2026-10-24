@@ -7,7 +7,7 @@ file: "Common flourishing"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Common flourishing names the good that Aristotle's Politics places as the purpose of the city. The chain of associations runs from household to village to city, and the city completes it: it holds, in his words, "the end and perfection of government", founded for the sake of living and continued for the sake of living happily.
+Common flourishing names the good that [[T002 — Aristotle|Aristotle]]'s Politics places as the purpose of the city. The chain of associations runs from household to village to city, and the city completes it: it holds, in his words, "the end and perfection of government", founded for the sake of living and continued for the sake of living happily.
 
 > "And when many villages so entirely join themselves together as in every respect to form but one society, that society is a city, and contains in itself, if I may so speak, the end and perfection of government: first founded that we might live, but continued that we may live happily." (Aristotle, Politics, Book I Chapter II, William Ellis translation, [A Treatise on Government, Project Gutenberg](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm))
 

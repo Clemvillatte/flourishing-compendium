@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 49** — Seek the counsel of the practically wise
 
-Aristotle's rule for whose word to take:
+[[T002 — Aristotle|Aristotle]]'s rule for whose word to take:
 
 > "Hence we ought to attend to the undemonstrated sayings and opinions of experienced and older people or of people of practical wisdom not less than to demonstrations; for because experience has given them an eye they see aright." (Aristotle, [Nicomachean Ethics VI.11, Ross translation](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf))
 

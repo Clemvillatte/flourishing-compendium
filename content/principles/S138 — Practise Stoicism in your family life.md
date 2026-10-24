@@ -35,4 +35,4 @@ I use this recollection as a prompt to consider what conduct you model at home.
 ## Philosophy parallels
 
 - **The household as moral community** (Confucian tradition, Analects)
-- **[[Friendship|Friendship as necessary for flourishing]]** (Aristotle, NE VIII.1)
+- **[[Friendship|Friendship as necessary for flourishing]]** ([[T002 — Aristotle|Aristotle]], NE VIII.1)

@@ -52,7 +52,7 @@ Pick one trait you have rated yourself on and ask two close friends to rate it i
 
 - **Know thyself** (Delphic maxim)
 - **[[The examined life|The examined life]]** (Socrates, Apology 38a)
-- **Self-knowledge as the beginning of wisdom** (Aristotle, Metaphysics)
+- **Self-knowledge as the beginning of wisdom** ([[T002 — Aristotle|Aristotle]], Metaphysics)
 
 ## Practice
 

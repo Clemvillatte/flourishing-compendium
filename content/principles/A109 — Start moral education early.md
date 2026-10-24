@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 109** — Start moral education early
 
-Aristotle's argument runs through habit: "states of character arise out of like activities", and he emphasizes the importance of habits formed in youth:
+[[T002 — Aristotle|Aristotle]]'s argument runs through habit: "states of character arise out of like activities", and he emphasizes the importance of habits formed in youth:
 
 > "It makes no small difference, then, whether we form habits of one kind or of another from our very youth; it makes a very great difference, or rather all the difference." (NE II.1)
 

@@ -20,7 +20,7 @@ The construct is measurable: the Investment Model Scale asks people to rate item
 
 > "Commitment is the psychological construct that directly influences everyday behavior in relationships" (Rusbult, Martz & Agnew, 1998, [The Investment Model Scale, PDF](https://faculty.wcas.northwestern.edu/eli-finkel/documents/60_RusbultMartzAgnew1998_PersonalRelationships.pdf))
 
-The paper continues that commitment mediates the effects on persistence of the three bases of dependence. The original entry also names a philosophical strand (Aristotle on friendship, Buber's I and Thou, Sartre and de Beauvoir on choosing one's bonds); those sources are carried as the original entry's references and are cited at second hand.
+The paper continues that commitment mediates the effects on persistence of the three bases of dependence. The original entry also names a philosophical strand ([[T002 — Aristotle|Aristotle]] on friendship, Buber's I and Thou, Sartre and de Beauvoir on choosing one's bonds); those sources are carried as the original entry's references and are cited at second hand.
 
 ### Here
 

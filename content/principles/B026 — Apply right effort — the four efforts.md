@@ -50,7 +50,7 @@ Choose the target of your effort first. Ask whether a mental quality is harmful 
 ## Philosophy parallels
 
 - **[[Spiritual exercises|Spiritual exercises]]** (Hadot, Philosophy as a Way of Life)
-- **[[Habituation|Habituation]]** (Aristotle, Nicomachean Ethics II)- **[[Eightfold Path|Eightfold Path]]** (Buddhism, SN 56.11)
+- **[[Habituation|Habituation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)- **[[Eightfold Path|Eightfold Path]]** (Buddhism, SN 56.11)
 
 
 <!-- fc: reflections

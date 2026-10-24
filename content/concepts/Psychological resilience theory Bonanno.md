@@ -21,7 +21,7 @@ The theory's core distinction is between resilience and recovery, as the 2011 re
 - [[PP044 — Practise coping flexibility]] — Bonanno and Burton's regulatory flexibility theory, the process account of how the resilient trajectory is maintained.
 - [[ST321 — Bonanno's Resilience]] — the story entry on the theory.
 - [[D089 — Grief without destruction]] — Zhuangzi's story of drumming on a basin after his wife's death.
-- [[A028 — Practice resilience in adversity]] — Aristotle's NE I.10: the virtuous bear fortune in a seemly way, acting nobly in the circumstances.
+- [[A028 — Practice resilience in adversity]] — [[T002 — Aristotle|Aristotle]]'s NE I.10: the virtuous bear fortune in a seemly way, acting nobly in the circumstances.
 - [[A010 — Recognise that fortune can overturn happiness]] — the same Aristotle chapter's admission that great reverses can mar bliss.
 - [[D012 — Model yourself on water]] — the Daodejing 8 model of benefiting all things from the low place.
 - [[S117 — Handle failure without despair]] — the Stoic counterpart on fortune's reversals.

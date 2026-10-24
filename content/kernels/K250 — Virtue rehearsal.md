@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K250** — Virtue rehearsal
 
-Pick one virtue and practise it in small daily acts that get written down. The exercise draws on two accounts: Aristotle's teaching that virtue of character is acquired by repeated acts, set out in [Nicomachean Ethics II.1 (Chase translation)](https://www.gutenberg.org/cache/epub/8438/pg8438.txt), and Benjamin Franklin's self-examination chart in his [Autobiography (Project Gutenberg 20203)](https://www.gutenberg.org/cache/epub/20203/pg20203.txt), thirteen virtues tracked a week at a time in a little ruled book. Reach for it when a virtue stays an admired idea while the days keep running on their old tracks.
+Pick one virtue and practise it in small daily acts that get written down. The exercise draws on two accounts: [[T002 — Aristotle|Aristotle]]'s teaching that virtue of character is acquired by repeated acts, set out in [Nicomachean Ethics II.1 (Chase translation)](https://www.gutenberg.org/cache/epub/8438/pg8438.txt), and Benjamin Franklin's self-examination chart in his [Autobiography (Project Gutenberg 20203)](https://www.gutenberg.org/cache/epub/20203/pg20203.txt), thirteen virtues tracked a week at a time in a little ruled book. Reach for it when a virtue stays an admired idea while the days keep running on their old tracks.
 
 ### What it rests on
 

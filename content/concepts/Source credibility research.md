@@ -21,7 +21,7 @@ The same review found that recipients of discounting cues were more persuaded ov
 
 ### Here
 
-- [[A121 — Practise persuasion through ethos]] lists this research as its psychology parallel to Aristotle's ethos: the speaker's perceived trustworthiness is part of how persuasion works.
+- [[A121 — Practise persuasion through ethos]] lists this research as its psychology parallel to [[T002 — Aristotle|Aristotle]]'s ethos: the speaker's perceived trustworthiness is part of how persuasion works.
 
 ## Related concepts
 

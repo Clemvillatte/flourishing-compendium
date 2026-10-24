@@ -25,7 +25,7 @@ The scholium to III.11, in the wording of the Stanford Encyclopedia’s quotatio
 
 ### Joy as finish, not goal
 
-Aristotle treats the companion term, pleasure, as something that arrives at the end of an activity rather than a target:
+[[T002 — Aristotle|Aristotle]] treats the companion term, pleasure, as something that arrives at the end of an activity rather than a target:
 
 > “And Pleasure perfects the Working. But Pleasure does not perfect it in the same way as the Faculty and Object of Perception do... Furthermore, Pleasure perfects the act of Working not in the way of an inherent state but as a supervening finish, such as is bloom in people at their prime.” (Aristotle, Nicomachean Ethics X.4, [Chase translation](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm))
 

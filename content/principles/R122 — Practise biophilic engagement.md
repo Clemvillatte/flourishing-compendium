@@ -41,4 +41,4 @@ Walk a different route for two weeks, past a park or tree line. Each evening rat
 ## Philosophy parallels
 
 - **[[Biophilia|Biophilia]]** (Wilson, Biophilia)
-- **Nature and flourishing** (Aristotle, Nicomachean Ethics; Whitehead, Process and Reality)
+- **Nature and flourishing** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics; Whitehead, Process and Reality)

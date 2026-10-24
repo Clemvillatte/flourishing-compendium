@@ -18,7 +18,7 @@ The two texts give two accounts, and the page sets them side by side as a compen
 
 > Anger may be defined as an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight directed without justification towards what concerns oneself or towards what concerns one's friends.
 >
-> Aristotle, Rhetoric II.2, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
+> [[T002 — Aristotle|Aristotle]], Rhetoric II.2, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
 
 **Plain words**
 Two questions that sound the same in a hot moment: "what was done?" and "who do they think they are?" The V.4 passage answers the first: it measures the injury and treats both sides as equal. The Rhetoric passage describes the second: anger fixes on the slight to you or yours, and is sweetened by the expectation of payback. Both responses can end in punishment; the difference the two passages mark is what the response answers to.

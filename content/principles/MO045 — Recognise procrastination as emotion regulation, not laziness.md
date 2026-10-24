@@ -38,7 +38,7 @@ The account is not offered as the sole explanation. The same review notes that s
 
 ## Philosophy parallels
 
-- **[[Akrasia (weakness of will)|Akrasia (weakness of will)]]** (Aristotle, Nicomachean Ethics VII)
+- **[[Akrasia (weakness of will)|Akrasia (weakness of will)]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VII)
 - **[[The avoidance of suffering|The avoidance of suffering]]** (Buddhism, Second Noble Truth)
 - **[[Wu wei|Wu wei: non-forcing]]** (Daoism, Daodejing 48)
 

@@ -24,7 +24,7 @@ I applie the simile as an analogy to the practice/theory distinction: a teaching
 - [[SE002 — Recognise the observing self — you are not only the contents of awareness]] — the observing-self principle
 - [[AF043 — Learn to observe feelings without identification — you are not your affect]] — the non-identification practice
 - [[AF040 — Distinguish accepting a feeling from accepting a circumstance]] — the acceptance-side distinction
-- [[A064 — Know the three kinds of friendship]] — Aristotle's other taxonomy of worth
+- [[A064 — Know the three kinds of friendship]] — [[T002 — Aristotle|Aristotle]]'s other taxonomy of worth
 - [[CO051 — Recognise cognitive distortions — learn the common patterns]] — the distorted-thinking patterns the sorting catches
 
 ## Related concepts

@@ -7,7 +7,7 @@ file: "Art completes what nature begins"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-My formula paraphrases Aristotle's account of the relation between technē and physis. In the Physics the point comes inside an argument that natural things have ends: if a house were a thing made by nature, it would have been made in the same way as it is now made by art, and if things made by nature were made also by art, they would come to be in the same way as by nature. Then comes the sentence the formula compresses:
+My formula paraphrases [[T002 — Aristotle|Aristotle]]'s account of the relation between technē and physis. In the Physics the point comes inside an argument that natural things have ends: if a house were a thing made by nature, it would have been made in the same way as it is now made by art, and if things made by nature were made also by art, they would come to be in the same way as by nature. Then comes the sentence the formula compresses:
 
 > "generally art in some cases completes (epiteleitai) what nature cannot bring to a finish, and in others imitates her (mimeitai). If, therefore, artificial products are for the sake of an end, so clearly also are natural products." (Aristotle, Physics 199a8-20, Barnes translation, as quoted in [an opened academic paper on art and nature in Aristotle](https://pdfs.semanticscholar.org/76d1/7b1a27ea0165a26ec023fd6fd40ee2794acf.pdf))
 

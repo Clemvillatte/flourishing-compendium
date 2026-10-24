@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 16** — Practice proper ambition (philotimia)
 
-In NE IV.4 Aristotle places a virtue about honour next to pride, "related to pride as liberality is to magnificence." Pride concerns great honours. This one covers ordinary ones. In Ross's translation:
+In NE IV.4 [[T002 — Aristotle|Aristotle]] places a virtue about honour next to pride, "related to pride as liberality is to magnificence." Pride concerns great honours. This one covers ordinary ones. In Ross's translation:
 
 > "as in getting and giving of wealth there is a mean and an excess and defect, so too honour may be desired more than is right, or less, or from the right sources and in the right way."
 > — Aristotle, Nicomachean Ethics IV.4 ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))

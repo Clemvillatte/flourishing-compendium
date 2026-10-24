@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 71** — Recognise that self-love is the foundation
 
-Aristotle distinguishes two forms of self-love: the lower (seeking money, honours and pleasures for oneself) and the higher (seeking moral nobility for oneself). Even self-sacrifice can belong to the higher kind: what the giver takes is nobility.
+[[T002 — Aristotle|Aristotle]] distinguishes two forms of self-love: the lower (seeking money, honours and pleasures for oneself) and the higher (seeking moral nobility for oneself). Even self-sacrifice can belong to the higher kind: what the giver takes is nobility.
 
 (NE IX.8.)
 

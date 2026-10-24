@@ -35,7 +35,7 @@ A later review adds a caution about measurement: perceived and received support 
 ## Philosophy parallels
 
 - **[[Ubuntu|Ubuntu: mutual support]]** (African Philosophy)
-- **[[Friendship|Friendship as mutual aid]]** (Aristotle, Nicomachean Ethics VIII)
+- **[[Friendship|Friendship as mutual aid]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII)
 - **The gift and the receiving** (Mauss, The Gift)
 
 ## Practice

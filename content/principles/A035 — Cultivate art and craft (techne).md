@@ -18,7 +18,7 @@ Techne is the capacity to make things well, guided by reason: the knowledge of h
 
 ### What a techne is
 
-> "Art, therefore, as has been said, is a rational quality, concerned with making, that reasons truly." — Aristotle, Nicomachean Ethics VI.4, 1140a (H. Rackham trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1140a))
+> "Art, therefore, as has been said, is a rational quality, concerned with making, that reasons truly." — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI.4, 1140a (H. Rackham trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1140a))
 
 ### What the reasoning buys you
 

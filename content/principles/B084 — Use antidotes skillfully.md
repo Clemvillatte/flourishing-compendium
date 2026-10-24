@@ -40,7 +40,7 @@ The 4pm doom-scroll reads as restlessness, and restlessness has a counter: the w
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean as corrective]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean as corrective]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Spiritual exercises|Spiritual exercises as remedies]]** (Hadot, Philosophy as a Way of Life)
 
 <!-- fc: reflections

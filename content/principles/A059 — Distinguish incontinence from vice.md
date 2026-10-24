@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 59** — Distinguish incontinence from vice
 
-Aristotle separates the two by what happens to choice and to regret. The self-indulgent person pursues excess "by choice, for their own sake", and so is "unlikely to repent, and therefore incurable, since a man who cannot repent cannot be cured" (NE VII.7, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The incontinent person is different (VII.8):
+[[T002 — Aristotle|Aristotle]] separates the two by what happens to choice and to regret. The self-indulgent person pursues excess "by choice, for their own sake", and so is "unlikely to repent, and therefore incurable, since a man who cannot repent cannot be cured" (NE VII.7, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The incontinent person is different (VII.8):
 
 > The self-indulgent man, as was said, is not apt to repent; for he stands by his choice; but incontinent man is likely to repent. [...] wickedness is like a disease such as dropsy or consumption, while incontinence is like epilepsy; the former is a permanent, the latter an intermittent badness. And generally incontinence and vice are different in kind; vice is unconscious of itself, incontinence is not
 

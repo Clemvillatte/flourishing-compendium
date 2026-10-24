@@ -36,7 +36,7 @@ For example: As a personal trial, someone struggling with rigid meditation targe
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[The middle path|The middle way of view]]** (Nagarjuna, MMK 15)
 
 <!-- fc: reflections

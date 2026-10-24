@@ -37,7 +37,7 @@ The study is about emotional states: in the abstract, positive emotions broadene
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean between narrow and broad]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean between narrow and broad]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Yin and yang|Yin-yang of attention]]** (Daoism, Daodejing 2)
 - **Macro and micro vision** (Nietzsche, The Gay Science)
 

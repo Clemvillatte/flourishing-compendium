@@ -43,7 +43,7 @@ Pick one shared space on your street or block that people avoid. Ask three neigh
 
 ## Philosophy parallels
 
-- Aristotle — the polis — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. Jacobs — the death and life of great American cities — Thinker: Jacobs — Reference: Jacobs (1961).
+- [[T002 — Aristotle|Aristotle]] — the polis — Thinker: Aristotle — Reference: Nicomachean Ethics, I.7. Jacobs — the death and life of great American cities — Thinker: Jacobs — Reference: Jacobs (1961).
 - **Other:**, **EEMM link:** Neighborhood design is the sociocultural context's physical infrastructure.
 
 ## Practice

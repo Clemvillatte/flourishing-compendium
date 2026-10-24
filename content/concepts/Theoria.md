@@ -7,7 +7,7 @@ file: "Theoria"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Theoria is contemplation — for Aristotle the highest human activity, the exercise of intellect on what is noble and divine, and in that exercise the closest a human life comes to the life of God. The Greek word covers seeing, spectating and knowing; Aristotle's use of it for the best activity makes knowing the highest form of seeing.
+Theoria is contemplation — for [[T002 — Aristotle|Aristotle]] the highest human activity, the exercise of intellect on what is noble and divine, and in that exercise the closest a human life comes to the life of God. The Greek word covers seeing, spectating and knowing; Aristotle's use of it for the best activity makes knowing the highest form of seeing.
 
 His clinching argument in the Nicomachean Ethics strips the concept down:
 

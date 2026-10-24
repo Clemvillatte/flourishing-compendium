@@ -36,7 +36,7 @@ A woman hears from a friend that her landlord is selling the building. She asks 
 
 ## Philosophy parallels
 
-- **[[The three kinds of knowledge|The three modes of knowledge]]** (Aristotle, Posterior Analytics)
+- **[[The three kinds of knowledge|The three modes of knowledge]]** ([[T002 — Aristotle|Aristotle]], Posterior Analytics)
 - **Testimony and its epistemology** (Hume, Enquiry, Section X)
 
 ## Sources

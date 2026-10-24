@@ -7,7 +7,7 @@ file: "Prudence"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Prudence here refers to Aristotle's practical wisdom, phronêsis, a capacity for good deliberation connected with ethical virtue ([Richard Kraut, Aristotle's Ethics, sections 4 and 5.3](https://plato.stanford.edu/entries/aristotle-ethics/)). Its concern is living well as a whole, rather than success in one specialised activity ([Nicomachean Ethics VI.5](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
+Prudence here refers to [[T002 — Aristotle|Aristotle]]'s practical wisdom, phronêsis, a capacity for good deliberation connected with ethical virtue ([Richard Kraut, Aristotle's Ethics, sections 4 and 5.3](https://plato.stanford.edu/entries/aristotle-ethics/)). Its concern is living well as a whole, rather than success in one specialised activity ([Nicomachean Ethics VI.5](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
 
 > "Practical wisdom, then, must be a reasoned and true state of capacity to act with regard to human goods." (NE VI.5, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
 

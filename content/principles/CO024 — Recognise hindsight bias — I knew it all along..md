@@ -34,7 +34,7 @@ Knowing the result can make it seem easier to have predicted ([Fischhoff 1975](h
 
 - **[[Retrospective rationalisation|Retrospective rationalisation]]** (Nietzsche, Genealogy of Morals)
 - **[[The narrative fallacy|The narrative fallacy]]** (Taleb, The Black Swan)
-- **[[Wisdom]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Wisdom]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 
 ## Practice
 

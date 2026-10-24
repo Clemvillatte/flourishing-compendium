@@ -40,7 +40,7 @@ Once a week, offer practical help to one person, and tell one person what help y
 
 ## Philosophy parallels
 
-- Aristotle — friendship as mutual benefit and virtue — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII. Levinas — the ethical priority of the other — Thinker: Levinas — Reference: Levinas (1961).
+- [[T002 — Aristotle|Aristotle]] — friendship as mutual benefit and virtue — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII. Levinas — the ethical priority of the other — Thinker: Levinas — Reference: Levinas (1961).
 - **Other:**, **EEMM link:** Social support is the sociocultural context's most direct influence on the stress physiology of the biophysiological level.
 
 ## Practice

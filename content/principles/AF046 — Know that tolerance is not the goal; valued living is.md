@@ -32,6 +32,6 @@ In ACT, acceptance processes serve a values-consistent life rather than function
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as activity in accord with virtue]]** (Aristotle, NE)
+- **[[Eudaimonia|Eudaimonia as activity in accord with virtue]]** ([[T002 — Aristotle|Aristotle]], NE)
 - **[[The meaning of suffering|The meaning of suffering]]** ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 - **[[Values|Values as chosen life direction]]** (ACT tradition)

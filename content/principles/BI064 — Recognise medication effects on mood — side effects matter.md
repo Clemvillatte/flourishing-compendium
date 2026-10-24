@@ -43,7 +43,7 @@ Mood has a pharmacist sometimes. The corticosteroid numbers are the clearest cas
 
 ## Philosophy parallels
 
-- **[[Prudence|Prudence in medication]]** (Aristotle)
+- **[[Prudence|Prudence in medication]]** ([[T002 — Aristotle|Aristotle]])
 - **[[The examined life|The examined life]] includes examined medication** (Socrates)
 - **Know thy limits** (Delphic maxim)
 

@@ -35,7 +35,7 @@ Pick the smallest version of the exercise you will actually do on a bad day, and
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as habit]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as habit]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Gradual training|The gradual training]]** (Buddhism)
 - **[[Wu wei|Wu wei: natural, sustainable movement]]** (Daoism)
 

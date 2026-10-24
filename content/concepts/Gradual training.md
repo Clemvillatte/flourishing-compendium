@@ -25,7 +25,7 @@ The distinction to hold: gradual is not slow for slowness' sake. The tradition a
 
 One precept kept for one week before the second is added. (Illustrative scenario, not a reported participant or study result.)
 
-Its cross-tradition cognates are Aristotle's habituation (virtue built by repeated acts, [[The doctrine of the mean]]), Laozi's stepwise way, and its modern research cousin, [[Deliberate practice]].
+Its cross-tradition cognates are [[T002 — Aristotle|Aristotle]]'s habituation (virtue built by repeated acts, [[The doctrine of the mean]]), Laozi's stepwise way, and its modern research cousin, [[Deliberate practice]].
 
 ### Here
 

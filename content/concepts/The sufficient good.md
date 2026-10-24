@@ -7,7 +7,7 @@ file: "The sufficient good"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-My heading "the sufficient good" points here to Aristotle's account of happiness as final and self-sufficient. The original entry names the Nicomachean Ethics.
+My heading "the sufficient good" points here to [[T002 — Aristotle|Aristotle]]'s account of happiness as final and self-sufficient. The original entry names the Nicomachean Ethics.
 
 ### Aristotle's ground
 

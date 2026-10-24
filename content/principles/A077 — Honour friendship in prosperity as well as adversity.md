@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 77** — Honour friendship in prosperity as well as adversity
 
-Aristotle poses the question directly:
+[[T002 — Aristotle|Aristotle]] poses the question directly:
 
 > "Friendship, then, is more necessary in bad fortune, and so it is useful friends that one wants in this case; but it is more noble in good fortune, and so we also seek for good men as our friends, since it is more desirable to confer benefits on these and to live with these." (Aristotle, [Nicomachean Ethics IX.11, Ross translation](https://ia600704.us.archive.org/26/items/aristotle-entire-collected-writings/Aristotle/Nicomachean%20Ethics%20%5Btrans.%20Ross%20%26%20Brown%5D/Aristotle%20-%20Nicomachean%20Ethics%20(Oxford%2C%202009).pdf))
 

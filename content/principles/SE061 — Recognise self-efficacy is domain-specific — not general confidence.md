@@ -39,7 +39,7 @@ Write three areas of your life and rate from 0 to 100 how sure you are you could
 
 ## Philosophy parallels
 
-- **[[Phronesis|Phronesis as domain-specific judgment]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis as domain-specific judgment]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **Know thyself in each domain** (Delphic maxim)
 - **[[The craft-specificity of skill|The craft-specificity of skill]]** (Dreyfus & Dreyfus, Mind Over Machine)
 

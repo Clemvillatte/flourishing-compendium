@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 98** — Recognise natural justice (physikon dikaion)
 
-In Book V of the Ethics Aristotle divides political justice in two:
+In Book V of the Ethics [[T002 — Aristotle|Aristotle]] divides political justice in two:
 
 > "Of political justice part is natural, part legal, natural, that which everywhere has the same force and does not exist by people's thinking this or that; legal, that which is originally indifferent, but when it has been laid down is not indifferent, e.g. that a prisoner's ransom shall be a mina, or that a goat and not two sheep shall be sacrificed, and again all the laws that are passed for particular cases, e.g. that sacrifice shall be made in honour of Brasidas, and the provisions of decrees." ([Nicomachean Ethics V.7, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html))
 

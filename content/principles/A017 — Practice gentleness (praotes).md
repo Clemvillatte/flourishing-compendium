@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 17** — Practice gentleness (praotes)
 
-Aristotle's formula for the mean about anger runs:
+[[T002 — Aristotle|Aristotle]]'s formula for the mean about anger runs:
 
 > "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." (Aristotle, [Nicomachean Ethics IV.5, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 

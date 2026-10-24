@@ -40,7 +40,7 @@ The tuning is a skill and the right pitch changes with the day. On a low-energy 
 - **of view** — Nagarjuna, MMK 15
 - **in caregiving** — Buddhism
 - **non-intoxication** — Buddhism; Buddhism, Five Precepts
-- **and well-being** — Aristotle, Nicomachean Ethics II.6; Buddhist tradition
+- **and well-being** — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.6; Buddhist tradition
 - **effort and rest** — Buddhism; Buddhism, Dhammacakkappavattana Sutta
 - **activation and rest** — Buddhism
 - **consistency without rigidity** — Buddhism

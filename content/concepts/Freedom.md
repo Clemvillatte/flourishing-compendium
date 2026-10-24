@@ -17,7 +17,7 @@ Berlin's warning hangs over the positive side of the ledger: the demand for self
 
 ### Here
 
-Freedom is the hub the family pages break into faces, and the principle tracks carry into practice: Aristotle's voluntary action (A053), the Stoic choice of response (S056), Sartrean ownership (E031), situated freedom (R106), self-efficacy (SE059), autonomous versus controlled motivation (MO011) and freedom-available-now (B198) each turn one face into a habit. The kernel and stories carry the rest:
+Freedom is the hub the family pages break into faces, and the principle tracks carry into practice: [[T002 — Aristotle|Aristotle]]'s voluntary action (A053), the Stoic choice of response (S056), Sartrean ownership (E031), situated freedom (R106), self-efficacy (SE059), autonomous versus controlled motivation (MO011) and freedom-available-now (B198) each turn one face into a habit. The kernel and stories carry the rest:
 
 - [[SE059 — Cultivate self-efficacy — belief in your capacity to act]] — the belief that one's action can work
 - [[E031 — Practise radical freedom]] — Sartre's ownership face as a practice

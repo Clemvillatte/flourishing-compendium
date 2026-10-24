@@ -47,4 +47,4 @@ Berscheid (1994) and Mikulincer et al. (2005) are cited as unopened leads. The d
 ## Philosophy parallels
 
 - **[[Filial piety|Filial piety]]** (Confucius, The Analects)
-- **[[Gratitude|Gratitude]]** (Seneca, On Benefits; Aristotle, Nicomachean Ethics VIII.14)- **[[Filial piety|Xiao]]** (Relational traditions)
+- **[[Gratitude|Gratitude]]** (Seneca, On Benefits; [[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII.14)- **[[Filial piety|Xiao]]** (Relational traditions)

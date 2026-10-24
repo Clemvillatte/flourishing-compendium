@@ -30,7 +30,7 @@ Hypothetical illustration: you help a friend with a difficult task and welcome t
 
 ## Philosophy parallels
 
-- **[[Friendship|Friendship of the good]]** (Aristotle, Nicomachean Ethics VIII)
+- **[[Friendship|Friendship of the good]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII)
 - **[[Iron sharpens iron|Iron sharpens iron]]** (Proverbs 27.17)
 
 ## Sources

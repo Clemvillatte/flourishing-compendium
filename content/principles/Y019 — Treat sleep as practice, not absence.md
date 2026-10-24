@@ -36,7 +36,7 @@ A person who sees sleep as lost time and meditation as the fix tries a week of p
 
 ## Philosophy parallels
 
-- **Dreams as the mind's continued work** (Aristotle, De Insomniis)
+- **Dreams as the mind's continued work** ([[T002 — Aristotle|Aristotle]], De Insomniis)
 
 ## Sources
 

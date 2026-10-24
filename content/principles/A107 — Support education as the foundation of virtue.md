@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 107** — Support education as the foundation of virtue
 
-Aristotle treats education as a public concern because character depends on training. In [NE X.9 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) arguments can encourage "the generous-minded among our youth" but "are not able to encourage the many to nobility and goodness", and "it is difficult to get from youth up a right training for virtue if one has not been brought up under right laws."
+[[T002 — Aristotle|Aristotle]] treats education as a public concern because character depends on training. In [NE X.9 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html) arguments can encourage "the generous-minded among our youth" but "are not able to encourage the many to nobility and goodness", and "it is difficult to get from youth up a right training for virtue if one has not been brought up under right laws."
 
 The city, he says in [Politics I.2 (Jowett, MIT Classics)](https://classics.mit.edu/Aristotle/politics.1.one.html), continues in existence "for the sake of a good life". In [Politics VIII.1](https://classics.mit.edu/Aristotle/politics.8.eight.html), he connects virtue with preparation:
 

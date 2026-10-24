@@ -46,7 +46,7 @@ The passage advises setting aside these emotions and desires so the mind can ret
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Apatheia|Apatheia as freedom from destructive passion]]** (Stoics, Epictetus)
 - **Emotions made intelligible** (Spinoza, Ethics III-V)
 

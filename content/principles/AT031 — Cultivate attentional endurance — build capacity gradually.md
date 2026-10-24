@@ -44,7 +44,7 @@ A writer starts with 45 focused minutes each morning and keeps a note of the ses
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as gradual habituation]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as gradual habituation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right effort|Right effort: gradual training]]** (Buddhism, MN 107, the step-by-step training)
 - **[[The patience of cultivation|The patience of cultivation]]** (Lao Tzu, Daodejing 64, Legge translation)
 

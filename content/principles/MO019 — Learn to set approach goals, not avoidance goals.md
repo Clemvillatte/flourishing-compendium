@@ -43,7 +43,7 @@ I use this distinction to examine an achievement goal. Write down the competence
 
 ## Philosophy parallels
 
-- **The good as the goal** (Aristotle, Nicomachean Ethics I)
+- **The good as the goal** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I)
 - **[[Right intention|Right intention: toward, not away]]** (Buddhism, Eightfold Path)
 - **[[Hope|Hope vs fear]]** (Spinoza, Ethics III)
 

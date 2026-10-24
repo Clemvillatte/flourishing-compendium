@@ -36,7 +36,7 @@ The five foundations were partly built to explain moral disagreement across the 
 - [[B144 — Harm none — the baseline of practice (ahimsa)]] — the Care/harm foundation, seen from practice
 - [[R059 — Practise the Mencian sprouts]] — a sprout theory of moral development that anticipates foundations talk
 - [[A103 — Recognise that some actions are always wrong]] — what fairness intuitions protect
-- [[A023 — Practice justice (dikaiosyne)]] — fairness/cheating in Aristotle's idiom
+- [[A023 — Practice justice (dikaiosyne)]] — fairness/cheating in [[T002 — Aristotle|Aristotle]]'s idiom
 
 ## Sources
 

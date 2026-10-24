@@ -42,7 +42,7 @@ The fear of pain usually does more work than the pain itself: dread arrives firs
 ## Philosophy parallels
 
 - **[[Amor fati|Amor fati]]** (Nietzsche, Ecce Homo)
-- **[[The doctrine of the mean|The mean in pleasure and pain]]** (Aristotle, NE II.6)
+- **[[The doctrine of the mean|The mean in pleasure and pain]]** ([[T002 — Aristotle|Aristotle]], NE II.6)
 
 <!-- fc: reflections
 What pain have you faced that changed you? What did it teach, and what did it only damage?

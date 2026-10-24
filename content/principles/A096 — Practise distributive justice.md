@@ -13,7 +13,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 96** — Practise distributive justice
 
-Aristotle's account of distributive justice is a proportion between persons and shares. The just in distribution assigns shares so that the ratio between persons equals the ratio between shares; quarrels arise when equals receive unequal shares, or persons not equal receive equal shares. He reports that all agree distributions must be based on desert of some sort, while differing on what counts as desert ([NE V.3, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)). He does not settle which criterion is the right one here.
+[[T002 — Aristotle|Aristotle]]'s account of distributive justice is a proportion between persons and shares. The just in distribution assigns shares so that the ratio between persons equals the ratio between shares; quarrels arise when equals receive unequal shares, or persons not equal receive equal shares. He reports that all agree distributions must be based on desert of some sort, while differing on what counts as desert ([NE V.3, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=5)). He does not settle which criterion is the right one here.
 
 > All are agreed that justice in distributions must be based on desert of some sort, although they do not all mean the same sort of desert; democrats make the criterion free birth; those of oligarchical sympathies wealth, or in other cases birth; upholders of aristocracy make it virtue.
 >

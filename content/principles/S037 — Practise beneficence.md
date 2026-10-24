@@ -39,7 +39,7 @@ That asymmetry matters: grateful acceptance already returns goodwill, while a ma
 
 ## Philosophy parallels
 
-- **[[Generosity|Generosity (eleutheriotes)]]**: Aristotle's account likewise asks about the right recipient, amount, time and purpose, rather than judging generosity by the size of a gift ([Nicomachean Ethics IV.1, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
+- **[[Generosity|Generosity (eleutheriotes)]]**: [[T002 — Aristotle|Aristotle]]'s account likewise asks about the right recipient, amount, time and purpose, rather than judging generosity by the size of a gift ([Nicomachean Ethics IV.1, W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 - **[[Gratitude]]**: receiving willingly and returning goodwill belong to the recipient's side of the relationship ([On Benefits II.35](https://en.wikisource.org/wiki/On_Benefits/Book_II)).
 
 ## Sources

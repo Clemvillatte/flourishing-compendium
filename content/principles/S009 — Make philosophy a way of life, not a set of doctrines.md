@@ -48,7 +48,7 @@ For my exercise, choose one idea you have studied and identify a situation in wh
 
 ## Philosophy parallels
 
-- **Treat these as practices, not beliefs** (Aristotle, NE II.1)
+- **Treat these as practices, not beliefs** ([[T002 — Aristotle|Aristotle]], NE II.1)
 - **[[Belief as habit|Belief as habit of action]]** (Peirce, "How to Make Our Ideas Clear")
 
 <!-- fc: reflections

@@ -18,7 +18,7 @@ Friendship is shared life rather than affection alone. Friends live together, sh
 
 ### What friendship's activity is
 
-> "...to live together is the chief mark of friendship, but it is quite clear that it is not possible to live with and to share oneself among a large number of people." — Aristotle, NE IX.10, 1171a (H. Rackham trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1171a))
+> "...to live together is the chief mark of friendship, but it is quite clear that it is not possible to live with and to share oneself among a large number of people." — [[T002 — Aristotle|Aristotle]], NE IX.10, 1171a (H. Rackham trans., [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1171a))
 
 And Aristotle notes what time together runs on: "it is impossible for men to spend their time together unless they give each other pleasure, or have common tastes" ([NE VIII.5, 1157b](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1157b)).
 

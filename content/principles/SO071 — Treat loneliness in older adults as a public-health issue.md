@@ -26,7 +26,7 @@ A meta-analysis of 148 studies covering 308,849 participants found higher odds o
 
 ## Philosophy parallels
 
-- Aristotle — friendship in the later life — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII–IX. Cicero — On Old Age — Thinker: Cicero — Reference: Cicero (44 BC).
+- [[T002 — Aristotle|Aristotle]] — friendship in the later life — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII–IX. Cicero — On Old Age — Thinker: Cicero — Reference: Cicero (44 BC).
 - **Other:**, **EEMM link:** Loneliness in older adults is the sociocultural context generating suffering through the biophysiological level.
 
 ## Practice

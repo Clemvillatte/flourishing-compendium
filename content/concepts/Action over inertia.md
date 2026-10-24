@@ -7,7 +7,7 @@ file: "Action over inertia"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Action over inertia is the principle that character is built by doing, not by waiting to feel ready. Aristotle's ground for it, in the Nicomachean Ethics:
+Action over inertia is the principle that character is built by doing, not by waiting to feel ready. [[T002 — Aristotle|Aristotle]]'s ground for it, in the Nicomachean Ethics:
 
 > "For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts."
 > — [Aristotle, Nicomachean Ethics II.1, trans. W. D. Ross, The Complete Aristotle](https://austria-forum.org/web-books/en/completearistotle00enisds/001766)

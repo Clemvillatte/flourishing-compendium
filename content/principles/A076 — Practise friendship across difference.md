@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 76** — Practise friendship across difference
 
-Aristotle notes that friendships can form between people of different ranks and capacities, but they require adaptation. The friendship of a parent and child, a teacher and student, an elder and younger person has its own form. Do not demand sameness; adapt to the difference.
+[[T002 — Aristotle|Aristotle]] notes that friendships can form between people of different ranks and capacities, but they require adaptation. The friendship of a parent and child, a teacher and student, an elder and younger person has its own form. Do not demand sameness; adapt to the difference.
 
 (NE VIII.7, VIII.8, VIII.11.)
 

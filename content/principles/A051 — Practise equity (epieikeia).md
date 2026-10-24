@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 51** — Practise equity (epieikeia)
 
-Aristotle asks how the equitable relates to the just and answers that it is a correction, not a rival:
+[[T002 — Aristotle|Aristotle]] asks how the equitable relates to the just and answers that it is a correction, not a rival:
 
 > "And this is the nature of the equitable, a correction of law where it is defective owing to its universality." (NE V.10)
 

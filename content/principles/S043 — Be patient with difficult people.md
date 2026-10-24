@@ -39,7 +39,7 @@ For example: a manager delivers criticism abrasively. The team member asks for a
 
 ## Philosophy parallels
 
-- **[[Gentleness (praotes)|Gentleness (praotes)]]** (Aristotle, NE IV.5)
+- **[[Gentleness (praotes)|Gentleness (praotes)]]** ([[T002 — Aristotle|Aristotle]], NE IV.5)
 - **[[Non-contention|Non-contention]]** (Laozi, Daodejing 8)
 
 <!-- fc: reflections

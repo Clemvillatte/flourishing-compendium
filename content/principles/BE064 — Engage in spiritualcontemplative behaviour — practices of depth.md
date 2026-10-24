@@ -32,7 +32,7 @@ Regular meditation practice helps with anxiety, low mood and pain by a modest am
 
 ## Philosophy parallels
 
-- **[[The contemplative life|The contemplative life]]** (Aristotle, Nicomachean Ethics X)
+- **[[The contemplative life|The contemplative life]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X)
 - **Meditation and prayer** (Buddhist, Christian, Sufi traditions)
 - **[[Wu wei|Wu wei: stillness practice]]** (Daoism, Daodejing 16)
 

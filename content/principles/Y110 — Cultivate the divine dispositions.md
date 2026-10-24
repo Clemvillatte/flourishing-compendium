@@ -46,5 +46,5 @@ My exercise: read the list, pick one disposition, and practise it on purpose for
 
 ## Philosophy parallels
 
-- **[[The catalogue of virtues|The catalogue of virtues]]** (Aristotle, Nicomachean Ethics II)
+- **[[The catalogue of virtues|The catalogue of virtues]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[The fruits of the spirit|The fruits of the spirit]]** (Paul, Galatians 5.22-23)

@@ -33,7 +33,7 @@ Vallerand's hierarchical model distinguishes a general motivational orientation,
 
 ## Philosophy parallels
 
-- **[[Boulesis (rational desire)|Boulesis (rational desire)]]** (Aristotle, De Anima)
+- **[[Boulesis (rational desire)|Boulesis (rational desire)]]** ([[T002 — Aristotle|Aristotle]], De Anima)
 - **[[Conatus|Conatus (striving)]]** (Spinoza, Ethics III)
 - **[[Will as multi-faceted|Will as multi-faceted]]** (William James, Principles of Psychology)
 

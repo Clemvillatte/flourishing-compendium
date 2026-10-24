@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K259** — Particulars before rules
 
-Before deciding, describe the particular situation first: who is involved, what is at stake, what the context is. Only then ask which principle applies. The grounding is Aristotle's account of practical wisdom, which he ties to knowledge of particulars rather than general principles alone ([Nicomachean Ethics VI.8, Chase translation](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)). Reach for it whenever a familiar rule is already sitting in the mind, waiting to be applied.
+Before deciding, describe the particular situation first: who is involved, what is at stake, what the context is. Only then ask which principle applies. The grounding is [[T002 — Aristotle|Aristotle]]'s account of practical wisdom, which he ties to knowledge of particulars rather than general principles alone ([Nicomachean Ethics VI.8, Chase translation](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)). Reach for it whenever a familiar rule is already sitting in the mind, waiting to be applied.
 
 ### What it rests on
 

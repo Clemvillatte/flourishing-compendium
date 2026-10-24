@@ -36,5 +36,5 @@ For example: two people start with the same talent. One keeps working at it, the
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as habituation]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as habituation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Excellence as habit|Excellence as habit]]** (Will Durant's paraphrase of Aristotle, labeled as paraphrase)

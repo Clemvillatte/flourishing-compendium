@@ -13,7 +13,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 > **Principle 26** — Practice patience with others' faults
 
-Aristotle treats gentleness as the virtue between irascibility and lack of spirit. The gentle person does feel anger, but on the right grounds, against the right people, in the right manner, at the right moment and for the right length of time. The passage blames both extremes: those who get angry quickly and with the wrong people, and those who do not get angry at things at which it is right to be angry ([NE IV.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)).
+[[T002 — Aristotle|Aristotle]] treats gentleness as the virtue between irascibility and lack of spirit. The gentle person does feel anger, but on the right grounds, against the right people, in the right manner, at the right moment and for the right length of time. The passage blames both extremes: those who get angry quickly and with the wrong people, and those who do not get angry at things at which it is right to be angry ([NE IV.5, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)).
 
 > Now we praise a man who feels anger on the right grounds and against the right persons, and also in the right manner and at the right moment and for the right length of time.
 >

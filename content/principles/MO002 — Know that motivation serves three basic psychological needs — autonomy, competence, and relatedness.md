@@ -38,7 +38,7 @@ Ryan and Deci propose that satisfaction of autonomy, competence and relatedness 
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as needs satisfaction]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as needs satisfaction]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **The three needs as human flourishing** (Maslow, Toward a Psychology of Being)
 - **[[Autonomy|Autonomy and connection]]** (Buber, I and Thou)
 

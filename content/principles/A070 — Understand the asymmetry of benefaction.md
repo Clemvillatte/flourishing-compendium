@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 70** — Understand the asymmetry of benefaction
 
-Aristotle opens the question with the observation itself, verbatim:
+[[T002 — Aristotle|Aristotle]] opens the question with the observation itself, verbatim:
 
 > "Benefactors are thought to love those they have benefited, more than those who have been well treated love those that have treated them well, and this is discussed as though it were paradoxical." (NE IX.7, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html))
 

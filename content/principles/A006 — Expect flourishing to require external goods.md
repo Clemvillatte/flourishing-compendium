@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 6** — Expect flourishing to require external goods
 
-Aristotle is direct about this: eudaimonia is not fully available to the destitute, the friendless, or the isolated. External goods such as resources, friends, political influence, good birth, even appearance function in part as instruments of noble action, and their absence mars happiness. Virtue alone does not suffice. Working for justice and material conditions is part of the work of making flourishing possible.
+[[T002 — Aristotle|Aristotle]] is direct about this: eudaimonia is not fully available to the destitute, the friendless, or the isolated. External goods such as resources, friends, political influence, good birth, even appearance function in part as instruments of noble action, and their absence mars happiness. Virtue alone does not suffice. Working for justice and material conditions is part of the work of making flourishing possible.
 
 (NE I.8, I.9.)
 

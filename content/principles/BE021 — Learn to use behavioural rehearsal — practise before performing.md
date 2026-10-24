@@ -38,7 +38,7 @@ Two details from the same notes shape the practice. Participants take turns play
 
 ## Philosophy parallels
 
-- **Practice before performance** (Aristotle, Nicomachean Ethics II)
+- **Practice before performance** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[The rehearsal of virtue|The rehearsal of virtue]]** (Stoics, Seneca)
 - **[[Skillful means (upaya)|Skillful means: preparation]]** (Buddhism, upaya)
 

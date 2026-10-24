@@ -36,5 +36,5 @@ In Letter 2, Seneca advises Lucilius to remain with a limited number of authors 
 
 ## Philosophy parallels
 
-- **Learn from experience** (Aristotle, NE VI.8)
+- **Learn from experience** ([[T002 — Aristotle|Aristotle]], NE VI.8)
 - **[[Beginner's mind|Beginner's mind]]** (Suzuki, Zen Mind, Beginner's Mind)

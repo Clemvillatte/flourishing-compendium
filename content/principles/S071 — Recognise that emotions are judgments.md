@@ -53,7 +53,7 @@ The pairing of anger with "wronged and revenge is appropriate" follows Seneca cl
 ## Philosophy parallels
 
 - **[[Emotions as judgments|Emotions as judgments]]** (Nussbaum, Upheavals of Thought)
-- **Where phronesis and emotions connect** (Aristotle, NE VI)- **[[Apatheia|Apatheia]]** (Stoicism)
+- **Where phronesis and emotions connect** ([[T002 — Aristotle|Aristotle]], NE VI)- **[[Apatheia|Apatheia]]** (Stoicism)
 - **[[Pathē|Pathē]]** (Stoicism)
 
 

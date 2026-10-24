@@ -22,7 +22,7 @@ The book's pseudonymous author is Vigilius Haufniensis ([Lippitt & Evans, "Søre
 
 ### Here
 
-- [[A116 — Understand fear (phobos)]] — Aristotle's fear, with expectation of some destructive or painful evil in the future (Rhetoric II.5)
+- [[A116 — Understand fear (phobos)]] — [[T002 — Aristotle|Aristotle]]'s fear, with expectation of some destructive or painful evil in the future (Rhetoric II.5)
 - [[S115 — Handle anxiety by returning to the present]] — the Meditations' passages on managing anxiety (IV.21, VI.9)
 - [[SP017 — Treat hope and fear as one system]] — Spinoza's analysis of the hope-fear pair as the mind's response to what is future and uncertain
 - [[MO005 — Recognise that motivation is temporal — delay reduces motivation]] — carries a Kierkegaard parallel bullet on the instant and the eternal

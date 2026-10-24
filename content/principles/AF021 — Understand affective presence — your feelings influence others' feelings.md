@@ -33,7 +33,7 @@ The difference from emotional contagion is in what is measured. Contagion is the
 
 - **[[Ubuntu|Ubuntu: I am because we are]]** (African Philosophy, Desmond Tutu)
 - **[[Ren|Ren (benevolence)]]** (Confucius, Analects)
-- **[[Aristotelian friendship|Aristotelian friendship]]** (Aristotle, Nicomachean Ethics IX)
+- **[[Aristotelian friendship|Aristotelian friendship]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IX)
 
 ## Practice
 

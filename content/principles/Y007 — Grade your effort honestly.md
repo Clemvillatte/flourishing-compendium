@@ -36,7 +36,7 @@ A man says he meditates daily. He counts his calendar and finds eight sittings i
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean relative to us]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean relative to us]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 ## Sources
 

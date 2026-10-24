@@ -24,7 +24,7 @@ The theory rests on two proposed principles of category formation: category syst
 - [[E107 — Practise the creation of values]] — Nietzsche: values are given and bestowed, not found in things by nature.
 - [[SP090 — Center your life on the highest good]] — Spinoza's search for a real good able to communicate itself.
 - [[E022 — Practise thrownness (Geworfenheit)]] — Heidegger's structure of finding oneself already placed in a world.
-- [[A006 — Expect flourishing to require external goods]] — Aristotle's external goods as instruments of noble action.
+- [[A006 — Expect flourishing to require external goods]] — [[T002 — Aristotle|Aristotle]]'s external goods as instruments of noble action.
 
 ## Field
 

@@ -31,7 +31,7 @@ The distinction underneath it is his problem/mystery pair: "A problem is somethi
 ## Philosophy parallels
 
 - **[[Participation|Participation]]** (Marcel, The Mystery of Being)
-- **[[Engagement|Engagement]]** (Aristotle, Nicomachean Ethics X.7-8)
+- **[[Engagement|Engagement]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X.7-8)
 
 ## Sources
 

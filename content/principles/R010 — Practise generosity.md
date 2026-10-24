@@ -58,5 +58,5 @@ My application is the wealth reading in the principle: a person's plenty is meas
 
 ## Philosophy parallels
 
-- **[[Generosity|Generosity]]** (Aristotle, Nicomachean Ethics IV.1)
+- **[[Generosity|Generosity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV.1)
 

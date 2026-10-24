@@ -15,7 +15,7 @@ The rehearsal of virtue names how Stoic practice turns understanding into charac
 
 The letter's fuller sentence about the wise man completes the mechanism: "one who has learned and understood what he should do and avoid, is not a wise man until his mind is metamorphosed into the shape of that which he has learned." Rehearsal is the metamorphosis step. The same letter defends the everyday tools of that rehearsal: proverbs, remembered sayings, the Wisdom of Cato's line about not buying what you do not need. Seneca's own example is a man who held that he became the best of brothers and friends by living by "Harmony makes small things grow; lack of harmony makes great things decay."
 
-My kernel [[K250 — Virtue rehearsal]] operationalizes the idea for daily practice: choose one virtue, find one small situation each day that calls for it, act, and record the act in one sentence. The Aristotle parallel ([[A004 — Become virtuous by doing virtuous acts]]) and the premeditation parallel ([[S019 — Prepare for adversity before it arrives]]) mark the two directions rehearsal runs: toward the virtue you want, and away from the misfortune you must expect.
+My kernel [[K250 — Virtue rehearsal]] operationalizes the idea for daily practice: choose one virtue, find one small situation each day that calls for it, act, and record the act in one sentence. The [[T002 — Aristotle|Aristotle]] parallel ([[A004 — Become virtuous by doing virtuous acts]]) and the premeditation parallel ([[S019 — Prepare for adversity before it arrives]]) mark the two directions rehearsal runs: toward the virtue you want, and away from the misfortune you must expect.
 
 [[A015 — Practice magnanimity (megalopsychia)]]
 [[K250 — Virtue rehearsal]]

@@ -35,7 +35,7 @@ A woman who raised children in her thirties and forties starts nursing training 
 ## Philosophy parallels
 
 - **Become who you are** (Nietzsche, The Gay Science)
-- **[[Eudaimonia|Eudaimonia as full functioning]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as full functioning]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Self-overcoming|Self-overcoming]]** (Nietzsche, Thus Spoke Zarathustra)
 
 ## Practice

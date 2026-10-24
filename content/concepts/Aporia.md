@@ -15,7 +15,7 @@ Aporia is the productive dead end: the state of being unable to move forward in 
 
 From the numbing, Meno draws a skeptical conclusion: inquiry is impossible. "And how will you enquire, Socrates, into that which you do not know? What will you put forth as the subject of enquiry? And if you find what you want, how will you ever know that this is the thing which you did not know?" (Meno, trans. Jowett, same page). Socrates answers with the theory of recollection, and the dialogue treats the impasse as the opening of the search rather than its refutation.
 
-### Aristotle's repair
+### [[T002 — Aristotle|Aristotle]]'s repair
 
 Aristotle turned the same experience into a method. Before inquiring into first philosophy, he says, one must lay out the puzzles, because a knot cannot be untied by someone who does not know it is there.
 

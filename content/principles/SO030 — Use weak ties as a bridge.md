@@ -45,7 +45,7 @@ List five acquaintances in different fields. Send one a short note this week ask
 
 ## Philosophy parallels
 
-- Aristotle — utility friendship — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII.3–5. Simmel — the metropolis and mental life — Thinker: Simmel — Reference: Simmel (1903).
+- [[T002 — Aristotle|Aristotle]] — utility friendship — Thinker: Aristotle — Reference: Nicomachean Ethics, VIII.3–5. Simmel — the metropolis and mental life — Thinker: Simmel — Reference: Simmel (1903).
 - **Other:**, **EEMM link:** Weak ties are the sociocultural context's information network.
 
 ## Practice

@@ -37,7 +37,7 @@ The formula the sutta gives for each hindrance is a set of questions: is it pres
 ## Philosophy parallels
 
 - **[[The taxonomy of passions|The taxonomy of passions]]** (Spinoza, Ethics III)
-- **[[The taxonomy of vices|The catalog of vices]]** (Aristotle, Nicomachean Ethics II)
+- **[[The taxonomy of vices|The catalog of vices]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 <!-- fc: reflections
 Which of the five hindrances is currently your dominant one — sensory desire, ill will, sloth, restlessness, or doubt? What's it producing?

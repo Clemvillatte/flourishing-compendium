@@ -49,7 +49,7 @@ His verses on what hatred does to the person who holds it run in the same direct
 - [[SP031 — Read anger as blocked striving with a wounded self-regard]] — Spinoza's definitions of the affects place anger and revenge side by side as desires tied to hatred.
 - [[Anger regulation research]] — the psychological study of what changes anger, examined alongside the Stoic and Buddhist accounts.
 - [[Delay plus reappraisal]] — a psychological technique that involves postponing the response and revising the appraisal, close to the practical shape of Seneca's delay.
-- [[A029 — Practice the right kind of anger]] — Aristotle's account of anger as a passion that admits of a mean, against which Seneca's categorical treatment stands.
+- [[A029 — Practice the right kind of anger]] — [[T002 — Aristotle|Aristotle]]'s account of anger as a passion that admits of a mean, against which Seneca's categorical treatment stands.
 - [[A115 — Understand anger (orge)]] — the Rhetoric's definition of anger as an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight.
 
 ## Related concepts

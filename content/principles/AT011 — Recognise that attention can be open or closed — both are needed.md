@@ -50,7 +50,7 @@ An analogy from a different tradition: the Daodejing's pairs produce each other,
 
 - **Focused vs open meditation** (Buddhism, shamatha vs vipassana)
 - **[[Yin and yang|Yin-yang complementarity]]** (Daoism, Daodejing 2)
-- **[[The doctrine of the mean|The mean between contraction and expansion]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean between contraction and expansion]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 ## Practice
 

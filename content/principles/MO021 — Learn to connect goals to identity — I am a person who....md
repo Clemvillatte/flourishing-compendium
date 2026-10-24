@@ -36,7 +36,7 @@ For example: "I am a reader" gives you a reason to open a book tonight that "I s
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as identity]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as identity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **Existence precedes essence: you choose who you are** (Sartre, Existentialism is a Humanism)
 - **[[Right livelihood|Right livelihood as identity]]** (Buddhism, Eightfold Path)
 

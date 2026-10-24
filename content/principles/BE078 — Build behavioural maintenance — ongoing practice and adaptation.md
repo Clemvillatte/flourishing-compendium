@@ -46,7 +46,7 @@ Suppose a changed work schedule prevents someone attending their usual exercise 
 ## Philosophy parallels
 
 - **[[The examined life|The examined life]] as ongoing practice** (Socrates, Apology 38a)
-- **[[The unity of the virtues|Virtue as maintained habit]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as maintained habit]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Bhavana (cultivation)|Bhavana: ongoing cultivation]]** (Buddhism)
 
 ## Practice

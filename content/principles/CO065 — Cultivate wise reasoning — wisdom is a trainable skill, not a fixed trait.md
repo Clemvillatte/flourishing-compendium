@@ -42,7 +42,7 @@ They frame the paradox itself as "a common habit of mind: People reason more wis
 
 ## Philosophy parallels
 
-- **[[Phronesis|Phronesis (practical wisdom)]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis (practical wisdom)]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Wisdom|Wisdom as the highest virtue]]** (Stoics, Seneca)
 - **[[The middle path|The middle way]]** (Buddhism)
 

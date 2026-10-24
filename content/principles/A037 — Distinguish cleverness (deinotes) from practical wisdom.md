@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 37** — Distinguish cleverness (deinotes) from practical wisdom
 
-For Aristotle, cleverness is the capacity to find effective means to a goal already set. Whether it deserves praise depends on the goal:
+For [[T002 — Aristotle|Aristotle]], cleverness is the capacity to find effective means to a goal already set. Whether it deserves praise depends on the goal:
 
 > Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness; hence we call even men of practical wisdom clever or smart. Practical wisdom is not the faculty, but it does not exist without this faculty.
 > (Nicomachean Ethics VI.12, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html).)

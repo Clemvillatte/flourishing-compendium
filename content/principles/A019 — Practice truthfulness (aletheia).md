@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 19** — Practice truthfulness (aletheia)
 
-Aristotle's truthfulness covers one narrow thing: how accurately you describe yourself, your abilities and your standing. He sets it apart from keeping faith in agreements, which belongs to justice. The boastful person claims credit he has not got, or more than he has. The mock-modest person disclaims what he has or belittles it. Between them is the one who ([NE IV.7, Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)):
+[[T002 — Aristotle|Aristotle]]'s truthfulness covers one narrow thing: how accurately you describe yourself, your abilities and your standing. He sets it apart from keeping faith in agreements, which belongs to justice. The boastful person claims credit he has not got, or more than he has. The mock-modest person disclaims what he has or belittles it. Between them is the one who ([NE IV.7, Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)):
 
 > calls a thing by its own name, being truthful both in life and in word, owning to what he has, and neither more nor less.
 >

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 18** — Practice practical wisdom: judgment over rules
 
-Aristotle's account of practical wisdom (phronesis) gives its definition: "Practical wisdom, then, must be a reasoned and true state of capacity to act with regard to human goods." Its mark is deliberation: "Now it is thought to be the mark of a man of practical wisdom to be able to deliberate well about what is good and expedient for himself, not in some particular respect, e.g. about what sorts of thing conduce to health or to strength, but about what sorts of thing conduce to the good life in general."
+[[T002 — Aristotle|Aristotle]]'s account of practical wisdom (phronesis) gives its definition: "Practical wisdom, then, must be a reasoned and true state of capacity to act with regard to human goods." Its mark is deliberation: "Now it is thought to be the mark of a man of practical wisdom to be able to deliberate well about what is good and expedient for himself, not in some particular respect, e.g. about what sorts of thing conduce to health or to strength, but about what sorts of thing conduce to the good life in general."
 
 > Practical wisdom, then, must be a reasoned and true state of capacity to act with regard to human goods.
 >

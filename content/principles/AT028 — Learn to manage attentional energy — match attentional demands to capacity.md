@@ -34,7 +34,7 @@ In an illustration, an analyst schedules the heavy model for 9 a.m. and the expe
 
 ## Philosophy parallels
 
-- **Timing and the mean** (Aristotle, Nicomachean Ethics II)
+- **Timing and the mean** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Wu wei|Wu wei as working with nature]]** (Daoism, Daodejing 25)
 - **[[The seasons of energy|The seasons of energy]]** (Ecclesiastes, 3:1-8)
 

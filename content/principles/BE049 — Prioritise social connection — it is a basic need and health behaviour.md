@@ -36,7 +36,7 @@ The evidence treats connection like a health behaviour: people with stronger rel
 
 - **Ubuntu: I am because we are** (African Philosophy, Desmond Tutu)
 - **No man is an island** (John Donne, Meditation XVII)
-- **[[Friendship|Friendship as necessary for flourishing]]** (Aristotle, Nicomachean Ethics VIII-IX)
+- **[[Friendship|Friendship as necessary for flourishing]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII-IX)
 
 ## Practice
 

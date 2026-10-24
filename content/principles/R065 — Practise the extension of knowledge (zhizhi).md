@@ -61,4 +61,4 @@ Imagine two colleagues dividing credit for a project. Applying the principle, th
 ## Philosophy parallels
 
 - **[[Investigation of things|Investigation of things]]** (Confucius, The Great Learning)
-- **[[Empiricism|Empiricism]]** (Locke, An Essay Concerning Human Understanding; Aristotle, Posterior Analytics)
+- **[[Empiricism|Empiricism]]** (Locke, An Essay Concerning Human Understanding; [[T002 — Aristotle|Aristotle]], Posterior Analytics)

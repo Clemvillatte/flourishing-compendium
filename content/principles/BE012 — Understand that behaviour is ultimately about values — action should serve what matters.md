@@ -35,7 +35,7 @@ Hayes and colleagues describe committed action in Acceptance and Commitment Ther
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as virtuous activity]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as virtuous activity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Right action serves right view|Right action serves right view]]** (Buddhism, Eightfold Path)
 - **[[The examined life|The examined life]]** (Socrates, Apology)
 

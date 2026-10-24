@@ -48,7 +48,7 @@ Seneca's advice is about timing: reject straightway the first incentives to ange
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** (Aristotle, NE II.6)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], NE II.6)
 - **Let reason guide desire** (Aristotle, NE I.13)
 - **[[Apatheia|Apatheia]]** (Stoicism)
 

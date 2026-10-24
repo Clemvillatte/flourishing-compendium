@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-“Courage: action despite fear” — Aristotle, Nicomachean Ethics III.
+“Courage: action despite fear” — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics III.
 
 Courage as action despite fear is Aristotle's definition in the Nicomachean Ethics. The brave person does not lack fear; they fear the right things:
 

@@ -23,7 +23,7 @@ Basic psychological needs theory (BPNT) formalized three propositions: there are
 - [[PP010 — Distinguish intrinsic from extrinsic aspirations]] — the goal-contents line: extrinsic aspirations for financial success, appealing appearance and social recognition associated with lower vitality and self-actualization.
 - [[MO018 — Recognise the difference between needs and wants — not all desires are equal]] — the needs-wants distinction with the Epicurean parallel.
 - [[ST300 — Three Basic Needs]] — the story entry on Deci and Ryan's three needs.
-- [[A001 — Make eudaimonia the organising end of your life]] — the Aristotle connection Ryan and colleagues develop explicitly.
+- [[A001 — Make eudaimonia the organising end of your life]] — the [[T002 — Aristotle|Aristotle]] connection Ryan and colleagues develop explicitly.
 - [[A095 — Practise self-sufficiency (autarkeia)]] — the Stoic practice of self-sufficiency.
 
 ## Field

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 82** — Distinguish good pleasures from bad pleasures
 
-In Aristotle's account, pleasures differ with the activities to which they belong. His moral assessment of a pleasure follows the activity's worth:
+In [[T002 — Aristotle|Aristotle]]'s account, pleasures differ with the activities to which they belong. His moral assessment of a pleasure follows the activity's worth:
 
 > "The pleasure proper to a worthy activity is good and that proper to an unworthy activity bad; just as the appetites for noble objects are laudable, those for base objects culpable."
 

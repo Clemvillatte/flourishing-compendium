@@ -18,7 +18,7 @@ Book X argues the point from the nature of activities: things different in kind 
 
 > The pleasure proper to a worthy activity is good and that proper to an unworthy activity bad; just as the appetites for noble objects are laudable, those for base objects culpable.
 >
-> Aristotle, Nicomachean Ethics X.5, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
+> [[T002 — Aristotle|Aristotle]], Nicomachean Ethics X.5, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
 The pleasure is glued to the activity it finishes. Eating has its pleasure, thinking has another, and the Ethics ranks them with the activities: sight is superior to touch in purity, and the pleasures, therefore, are similarly superior. A pleasure tells you what activity it belongs to, and the activity grades the pleasure.

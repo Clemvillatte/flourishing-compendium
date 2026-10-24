@@ -7,7 +7,7 @@ file: "Action before feeling"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Aristotle's account of habituation explains how repeated activities form character. Nicomachean Ethics II.1 describes acquiring the virtues through corresponding actions, and II.4 distinguishes performing a just action from acting with the knowledge, choice and stable disposition characteristic of a just person. The page title names my application of that ordering; the Ethics itself teaches habituation, not a general action-before-emotion sequence.
+[[T002 — Aristotle|Aristotle]]'s account of habituation explains how repeated activities form character. Nicomachean Ethics II.1 describes acquiring the virtues through corresponding actions, and II.4 distinguishes performing a just action from acting with the knowledge, choice and stable disposition characteristic of a just person. The page title names my application of that ordering; the Ethics itself teaches habituation, not a general action-before-emotion sequence.
 
 > "So too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." (Aristotle, Nicomachean Ethics II.1, [Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 

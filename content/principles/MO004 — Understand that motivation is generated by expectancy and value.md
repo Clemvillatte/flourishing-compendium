@@ -36,7 +36,7 @@ For example: you stall on a job search. If the stall is "nothing I send gets a r
 ## Philosophy parallels
 
 - **Belief and desire as the components of action** (Hume, Treatise; not verified here)
-- **Practical reason: means and end** (Aristotle, Nicomachean Ethics III)
+- **Practical reason: means and end** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[Hope|Hope as expectation plus value]]** (Gabriel Marcel, Homo Viator)
 
 ## Practice

@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
 
-Techne (Greek: craft, art) is, in Aristotle's account, the reasoned capacity to make. The definition from the Nicomachean Ethics, Book VI: "art is identical with a state of capacity to make, involving a true course of reasoning. All art is concerned with coming into being, i.e. with contriving and considering how something may come into being which is capable of either being or not being, and whose origin is in the maker and not in the thing made; for art is concerned neither with things that are, or come into being, by necessity, nor with things that do so in accordance with nature." ([Aristotle, Nicomachean Ethics VI.4, tr. Ross](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
+Techne (Greek: craft, art) is, in [[T002 — Aristotle|Aristotle]]'s account, the reasoned capacity to make. The definition from the Nicomachean Ethics, Book VI: "art is identical with a state of capacity to make, involving a true course of reasoning. All art is concerned with coming into being, i.e. with contriving and considering how something may come into being which is capable of either being or not being, and whose origin is in the maker and not in the thing made; for art is concerned neither with things that are, or come into being, by necessity, nor with things that do so in accordance with nature." ([Aristotle, Nicomachean Ethics VI.4, tr. Ross](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
 
 ### Making, doing, knowing
 

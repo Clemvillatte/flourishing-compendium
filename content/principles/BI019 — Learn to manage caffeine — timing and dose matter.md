@@ -32,7 +32,7 @@ Caffeine can cut sleep even when you drink it many hours before bed. In the tria
 
 ## Philosophy parallels
 
-- **[[Temperance|Temperance in consumption]]** (Aristotle, Nicomachean Ethics III)
+- **[[Temperance|Temperance in consumption]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[Simplicity|Simplicity and frugality]]** (Daoism, Daodejing 19)
 - **[[Clarity of mind|Clarity of mind]]** (Stoics)
 

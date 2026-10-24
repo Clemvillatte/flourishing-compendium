@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "Habit" — James, The Principles of Psychology, ch. IV.
 
-- Aristotle, Nicomachean Ethics II
+- [[T002 — Aristotle|Aristotle]], Nicomachean Ethics II
 - Dewey, Human Nature and Conduct
 - Aristotle, Nicomachean Ethics II.1
 - Wood and Neal, 2007

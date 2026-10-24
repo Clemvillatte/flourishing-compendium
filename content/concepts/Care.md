@@ -50,7 +50,7 @@ Care runs through the R-track's relational practices (R027 manaakitanga, R084 Le
 - [Care-ethics scholarship quoting Noddings 2005, p. 15](https://pmc.ncbi.nlm.nih.gov/articles/PMC10425473/) — "open, nonselective receptivity to the cared-for"
 - [Sorge, in Philopedia](https://philopedia.org/terms/sorge/) — "care is the being-mode of Dasein," Being and Time §41
 - [Peter N. Miller, "Heidegger on Care"](https://exhibitions.bgc.bard.edu/cam/files/2022/03/Peter-N.-Miller_Heidegger-on-Care.pdf) — §41 analysis and the Besorgen/Fürsorge structure
-- Carried from the original entry: Noddings, Caring; Heidegger, Being and Time; Tronto, Caring Democracy; Puig de la Bellacasa, Matters of Care; Buber, I and Thou; Levinas, Totality and Infinity; Aristotle, Nicomachean Ethics; [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations; Montaigne, Essays; Foucault, The History of Sexuality; Seneca, On the Shortness of Life
+- Carried from the original entry: Noddings, Caring; Heidegger, Being and Time; Tronto, Caring Democracy; Puig de la Bellacasa, Matters of Care; Buber, I and Thou; Levinas, Totality and Infinity; [[T002 — Aristotle|Aristotle]], Nicomachean Ethics; [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations; Montaigne, Essays; Foucault, The History of Sexuality; Seneca, On the Shortness of Life
 
 ## Cited in philosophy parallels
 

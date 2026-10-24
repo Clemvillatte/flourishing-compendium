@@ -39,4 +39,4 @@ For the psychology parallel, Gouldner (1960) distinguished reciprocity "as a pat
 ## Philosophy parallels
 
 - **[[Reciprocity|Reciprocity]]** (Gouldner, "The Norm of Reciprocity")
-- **[[Justice|Justice as balance]]** (Aristotle, Nicomachean Ethics V)
+- **[[Justice|Justice as balance]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics V)

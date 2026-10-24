@@ -39,7 +39,7 @@ The medication comparison is the reason the treatment is called first-line: "sho
 
 - **[[Right effort|Right effort: skillful approach to sleep]]** (Buddhism)
 - **[[The examined life|The examined life]] includes examined sleep** (Socrates)
-- **Discipline and rest together** (Aristotle)
+- **Discipline and rest together** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

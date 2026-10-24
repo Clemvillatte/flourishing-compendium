@@ -44,7 +44,7 @@ The recipe in the study is concrete: find your top five strengths from the inven
 
 ## Philosophy parallels
 
-- [[Virtue|Virtue as hexis]] (Aristotle, Nicomachean Ethics II.1)
+- [[Virtue|Virtue as hexis]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.1)
 - [[Cardinal virtues|Cardinal virtues]] (Plato, Republic; Aquinas, Summa Theologiae)
 
 <!-- fc: reflections

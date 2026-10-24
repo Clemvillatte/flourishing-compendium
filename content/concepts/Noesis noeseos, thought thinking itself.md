@@ -7,7 +7,7 @@ file: "Noesis noeseos, thought thinking itself"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Noēsis noēseōs, "thinking of thinking," is Aristotle's description of what the primary god does. In the Stanford Encyclopedia of Philosophy entry on Aristotle's Metaphysics, Cohen and Reeve give the argument from Metaphysics Λ.9 and its conclusion, quoted here in their translation:
+Noēsis noēseōs, "thinking of thinking," is [[T002 — Aristotle|Aristotle]]'s description of what the primary god does. In the Stanford Encyclopedia of Philosophy entry on Aristotle's Metaphysics, Cohen and Reeve give the argument from Metaphysics Λ.9 and its conclusion, quoted here in their translation:
 
 > "It is itself, therefore, that it understands, if indeed it is the most excellent thing, and the active understanding is active understanding of active understanding (hê noêsis noêseôs noêsis)." (Aristotle, Metaphysics Λ.9, 1074b22-35, as translated in Cohen and Reeve, "Aristotle's Metaphysics," [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/aristotle-metaphysics/))
 

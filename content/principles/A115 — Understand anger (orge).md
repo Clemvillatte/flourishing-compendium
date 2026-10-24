@@ -20,7 +20,7 @@ The slight itself is an opinion: "slighting is the actively entertained opinion 
 
 My exercise: when anger arrives, write down the slight as the angry account gives it, and check the two opinions inside it: that the slight was intentional, and that revenge is what it demands.
 
-**Plain words** Aristotle defines anger as a painful impulse to get visible revenge for a visible slight. The slight is an opinion: that the other treated you as worth nothing, and on purpose. Check the opinion before acting on it.
+**Plain words** [[T002 — Aristotle|Aristotle]] defines anger as a painful impulse to get visible revenge for a visible slight. The slight is an opinion: that the other treated you as worth nothing, and on purpose. Check the opinion before acting on it.
 
 *For example:* Someone not thanked at a meeting writes down the moment, and checks whether their account of it reads forgetfulness or insult.
 

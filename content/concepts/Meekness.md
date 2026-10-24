@@ -25,7 +25,7 @@ The Beatitudes set meekness among the dispositions the world does not expect to 
 
 - [Matthew 5, King James Version — Sacred Texts](https://www.sacred-texts.com/bib/kjv/mat005.htm)
 - La Rochefoucauld, Reflections
-- Aristotle, Nicomachean Ethics IV
+- [[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV
 
 ## Cited in philosophy parallels
 

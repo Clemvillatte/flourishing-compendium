@@ -36,7 +36,7 @@ Take something you are working at and ask two questions. First, is your confiden
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 <!-- fc: reflections
 Which of the five faculties — faith, energy, mindfulness, concentration, wisdom — is currently out of balance for you? What's the imbalance producing?

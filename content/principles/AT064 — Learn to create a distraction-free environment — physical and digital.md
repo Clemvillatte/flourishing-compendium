@@ -36,7 +36,7 @@ The physical half is the same design move at desk scale: one visible task, every
 
 ## Philosophy parallels
 
-- **[[Designing for virtue|Designing for virtue]]** (Aristotle, Politics)
+- **[[Designing for virtue|Designing for virtue]]** ([[T002 — Aristotle|Aristotle]], Politics)
 - **[[Simplicity|Simplicity of environment]]** (Daoism, Daodejing 19)
 - **[[The discipline of attention|The discipline of attention]]** (Simone Weil, Waiting for God)
 

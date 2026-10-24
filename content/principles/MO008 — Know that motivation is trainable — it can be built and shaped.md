@@ -39,7 +39,7 @@ Ryan and Deci describe how reasons for doing an activity can become more persona
 
 ## Philosophy parallels
 
-- **[[The unity of the virtues|Virtue as habituated capacity]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as habituated capacity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Bhavana (cultivation)|Bhavana (cultivation)]]** (Buddhism)
 - **[[Right effort|Right effort]]** (Buddhism, Eightfold Path)
 

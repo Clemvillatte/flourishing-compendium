@@ -40,7 +40,7 @@ A cue is anything that regularly comes right before you start, such as the same 
 
 - **[[Ritual|Ritual as structure]]** (Confucius, Analects)
 - **Sacred space and time** (Eliade, The Sacred and the Profane)
-- **[[Habit|Habit as virtue]]** (Aristotle, Nicomachean Ethics II)
+- **[[Habit|Habit as virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 ## Practice
 

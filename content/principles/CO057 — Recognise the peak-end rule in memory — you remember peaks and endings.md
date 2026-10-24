@@ -32,7 +32,7 @@ The authors suggest that "patients' memories of painful medical procedures large
 ## Philosophy parallels
 
 - **[[The whole in the part|The whole in the part]]** (Whitehead, Process and Reality)
-- **[[Ending as completion|Ending as completion]]** (Aristotle, Nicomachean Ethics I)
+- **[[Ending as completion|Ending as completion]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I)
 
 ## Practice
 

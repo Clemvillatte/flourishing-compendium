@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 89** — Practise contemplation (theoria)
 
-The famous argument of Book X works by elimination: strip away contracts, deposits, courage under fire, generosity, and what remains for a living being that acts? Contemplation. Aristotle concludes that the divine activity is contemplative, and that the human activity most akin to it will be the greatest source of happiness. (NE X.7-8.)
+The famous argument of Book X works by elimination: strip away contracts, deposits, courage under fire, generosity, and what remains for a living being that acts? Contemplation. [[T002 — Aristotle|Aristotle]] concludes that the divine activity is contemplative, and that the human activity most akin to it will be the greatest source of happiness. (NE X.7-8.)
 
 > "It follows that the activity of God, which is transcendent in blessedness, is the activity of contemplation; and therefore among human activities that which is most akin to the divine activity of contemplation will be the greatest source of happiness." (NE X.7, Rackham)
 

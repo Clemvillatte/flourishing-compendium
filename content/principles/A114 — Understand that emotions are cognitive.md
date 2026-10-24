@@ -18,7 +18,7 @@ The Rhetoric opens its account of the emotions by connecting them with altered j
 
 > The Emotions are all those feelings that so change men as to affect their judgements, and that are also attended by pain or pleasure.
 >
-> Aristotle, Rhetoric II.1, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
+> [[T002 — Aristotle|Aristotle]], Rhetoric II.1, translated by W. Rhys Roberts, [full text](https://classics.mit.edu/Aristotle/rhetoric.mb.txt).
 
 **Plain words**
 An emotion comes with a view of the situation: fear pictures a future evil, anger registers a slight, pity sees undeserved harm. Because the view is inside the feeling, it can be examined, the way the Rhetoric itself examines it: what state of mind, towards whom, on what grounds.

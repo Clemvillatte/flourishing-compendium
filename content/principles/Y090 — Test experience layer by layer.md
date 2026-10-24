@@ -25,5 +25,5 @@ In the method, each sheath is examined and seen as an object of awareness rather
 
 ## Philosophy parallels
 
-- **[[The layered soul|The layered soul]]** (Aristotle, De Anima II)
+- **[[The layered soul|The layered soul]]** ([[T002 — Aristotle|Aristotle]], De Anima II)
 - **[[Viveka|Viveka]]** (Yoga-Vedanta)

@@ -33,7 +33,7 @@ With a therapist, someone afraid of lifts agrees on a manageable practice step a
 
 ## Philosophy parallels
 
-- **[[Courage|Courage as the master of fear]]** (Aristotle, Nicomachean Ethics III)
+- **[[Courage|Courage as the master of fear]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[Facing the monster|Facing the monster]]** (Kierkegaard)
 - **[[Amor fati|Amor fati: embrace what you fear]]** (Nietzsche, The Gay Science)
 

@@ -7,7 +7,7 @@ file: "Second nature"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Second nature is the idea that a settled habit comes to work like a natural disposition, so that a person acts well without having to force it. My seed points to Aristotle, Nicomachean Ethics II. The phrase "second nature" itself does not appear in the Ross translation of the passages opened here. Two passages carry the idea.
+Second nature is the idea that a settled habit comes to work like a natural disposition, so that a person acts well without having to force it. My seed points to [[T002 — Aristotle|Aristotle]], Nicomachean Ethics II. The phrase "second nature" itself does not appear in the Ross translation of the passages opened here. Two passages carry the idea.
 
 ### Book II: virtue by habit
 

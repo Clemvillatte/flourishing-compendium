@@ -52,7 +52,7 @@ Suppose a shared project changes after a setback. Reconsider what your responsib
 
 ## Philosophy parallels
 
-- **[[Living according to nature|Living according to nature]]** (Aristotle, Nicomachean Ethics; Laozi, Daodejing 25)
+- **[[Living according to nature|Living according to nature]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics; Laozi, Daodejing 25)
 - **[[Deus sive natura|Deus sive natura]]** (Spinoza, Ethics I)
 
 <!-- fc: reflections

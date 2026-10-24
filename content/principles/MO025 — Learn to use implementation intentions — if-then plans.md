@@ -40,7 +40,7 @@ An if-then plan names a situation you will recognize and an action you can start
 ## Philosophy parallels
 
 - **[[Right intention|Right intention as specific]]** (Buddhism, Eightfold Path)
-- **[[Prohairesis (deliberate choice)|Prohairesis (deliberate choice)]]** (Aristotle, Nicomachean Ethics III)
+- **[[Prohairesis (deliberate choice)|Prohairesis (deliberate choice)]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[The examined life|The examined life]] requires examined plans** (Socrates, Apology)
 
 ## Practice

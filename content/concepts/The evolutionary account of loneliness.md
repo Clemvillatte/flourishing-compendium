@@ -30,7 +30,7 @@ On this account the discomfort of loneliness is doing a job: like hunger, it is 
 - [[SO024 — Treat loneliness as a signal, not a stigma]] — the principle's review calls loneliness "the social equivalent of physical pain, hunger, and thirst"
 - [[SO039 — Treat cooperation as an evolutionary strategy]] — Axelrod's account of how cooperation emerges without central authority
 - [[SP036 — Practice veneration; refuse contempt]] — veneration and the refusal of contempt between people
-- [[SO001 — Flourish socially]] — Aristotle's political animal, on which my social principles build
+- [[SO001 — Flourish socially]] — [[T002 — Aristotle|Aristotle]]'s political animal, on which my social principles build
 
 ## Related concepts
 

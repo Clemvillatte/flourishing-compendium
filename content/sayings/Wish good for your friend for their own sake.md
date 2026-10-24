@@ -7,7 +7,7 @@ file: "Wish good for your friend for their own sake"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-W"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter W", "parent": ""}
 ---
-“Wish good for your friend for their own sake” — Aristotle, NE VIII.2.
+“Wish good for your friend for their own sake” — [[T002 — Aristotle|Aristotle]], NE VIII.2.
 
 ## Sources
 

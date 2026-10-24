@@ -36,7 +36,7 @@ Falling asleep quickly is only part of sleeping well. The review found more disr
 
 ## Philosophy parallels
 
-- **[[Temperance|Temperance as virtue]]** (Aristotle, Nicomachean Ethics III)
+- **[[Temperance|Temperance as virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[The middle path|The middle way: non-intoxication]]** (Buddhism, Five Precepts)
 - **[[Clarity of mind|Clarity of mind]]** (Stoics)
 

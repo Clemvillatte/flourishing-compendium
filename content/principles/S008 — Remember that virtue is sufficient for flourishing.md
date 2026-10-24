@@ -41,7 +41,7 @@ Health, wealth and the rest are classed as indifferent, "things which neither be
 ## Philosophy parallels
 
 - **The good life as process** (Rogers, On Becoming a Person)
-- **[[Self-sufficiency|Self-sufficiency of virtue]]** (Aristotle, NE I.8, with qualification)- **[[Cardinal virtues|Cardinal virtues]]** (Stoicism)
+- **[[Self-sufficiency|Self-sufficiency of virtue]]** ([[T002 — Aristotle|Aristotle]], NE I.8, with qualification)- **[[Cardinal virtues|Cardinal virtues]]** (Stoicism)
 
 
 <!-- fc: reflections

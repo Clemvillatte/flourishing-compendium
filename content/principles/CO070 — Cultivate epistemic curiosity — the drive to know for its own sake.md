@@ -36,7 +36,7 @@ Before opening a long article, write one question you want it to answer. You are
 
 ## Philosophy parallels
 
-- **Wonder as the beginning of philosophy** (Aristotle, Metaphysics; Plato, Theaetetus)
+- **Wonder as the beginning of philosophy** ([[T002 — Aristotle|Aristotle]], Metaphysics; Plato, Theaetetus)
 - **[[Beginner's mind|Beginner's mind (shoshin)]]** (Zen Buddhism, Suzuki)
 - **[[Philosophy as questioning|Philosophy as questioning]]** (Jaspers, Way to Wisdom)
 

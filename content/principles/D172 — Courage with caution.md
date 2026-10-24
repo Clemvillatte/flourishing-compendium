@@ -37,7 +37,7 @@ If a colleague asks you to sign a report you know is false, draft a direct refus
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|Courage as the mean between rashness and cowardice]]** (Aristotle, Nicomachean Ethics III)
+- **[[The doctrine of the mean|Courage as the mean between rashness and cowardice]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 
 <!-- fc: reflections
 Where is your current boldness actually recklessness? What would brave not-daring look like?

@@ -18,7 +18,7 @@ The rule is Book X's, quoted below: since activities differ in respect of goodne
 
 > Now since activities differ in respect of goodness and badness, and some are worthy to be chosen, others to be avoided, and others neutral, so, too, are the pleasures; for to each activity there is a proper pleasure.
 >
-> Aristotle, Nicomachean Ethics X.5, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
+> [[T002 — Aristotle|Aristotle]], Nicomachean Ethics X.5, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
 The feeling itself carries no verdict; the verdict rides on what the feeling completes. Pleasure attached to something worth doing is part of doing it well, pleasure attached to something base is part of that. Different things please different kinds of people.

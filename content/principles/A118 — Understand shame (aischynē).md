@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 118** — Understand shame (aischynē)
 
-Aristotle defines shame in the Rhetoric as "pain or disturbance in regard to bad things, whether present, past, or future, which seem likely to involve us in discredit" ([Rhetoric II.6, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). It is tied to an audience: "the people before whom we feel shame are those whose opinion of us matters to us." It is also tied to blame, since the disgrace is greater "if it is seen to be our own fault".
+[[T002 — Aristotle|Aristotle]] defines shame in the Rhetoric as "pain or disturbance in regard to bad things, whether present, past, or future, which seem likely to involve us in discredit" ([Rhetoric II.6, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). It is tied to an audience: "the people before whom we feel shame are those whose opinion of us matters to us." It is also tied to blame, since the disgrace is greater "if it is seen to be our own fault".
 
 The Rhetoric includes shame at lacking honourable things shared by all or nearly all of those one regards as peers, and at humiliations suffered through force. It blames unresisting submission on cowardice, a judgement this principle does not endorse.
 

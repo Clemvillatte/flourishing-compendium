@@ -33,7 +33,7 @@ The tradition counts a pull toward repeating a harmful act among that act's own 
 
 ## Philosophy parallels
 
-- **We are what we repeatedly do** (Aristotle, Nicomachean Ethics II, via Will Durant's paraphrase, labeled as paraphrase)
+- **We are what we repeatedly do** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II, via Will Durant's paraphrase, labeled as paraphrase)
 - **[[Samskara|Samskara as the deep layer]]** (YS 1.18)
 
 <!-- fc: reflections

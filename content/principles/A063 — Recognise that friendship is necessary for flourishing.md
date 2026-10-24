@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 63** — Recognise that friendship is necessary for flourishing
 
-Aristotle argues that wealth and power do not remove the need for friends. His question includes the opportunity to care for someone, rather than only the help one might receive:
+[[T002 — Aristotle|Aristotle]] argues that wealth and power do not remove the need for friends. His question includes the opportunity to care for someone, rather than only the help one might receive:
 
 > For without friends no one would choose to live, though he had all other goods; even rich men and those in possession of office and of dominating power are thought to need friends most of all; for what is the use of such prosperity without the opportunity of beneficence, which is exercised chiefly and in its most laudable form towards friends?
 > (NE VIII.1, [W. D. Ross's translation](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))

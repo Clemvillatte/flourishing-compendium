@@ -35,7 +35,7 @@ What does support changing the context is that habits stay tied to it. Habitual 
 ## Philosophy parallels
 
 - **[[Guarding the senses|Guarding the senses]]** (Buddhism, Dhammapada)
-- **[[Environmental design|Environmental design]]** (Aristotle, Politics)
+- **[[Environmental design|Environmental design]]** ([[T002 — Aristotle|Aristotle]], Politics)
 - **[[Simplicity|Simplicity]]** (Daoism, Daodejing 19)
 
 ## Practice

@@ -38,7 +38,7 @@ Imagine you have paperwork to finish at 2 p.m. You plan a brief nap beforehand a
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean in rest]]** (Aristotle)
+- **[[The doctrine of the mean|The mean in rest]]** ([[T002 — Aristotle|Aristotle]])
 - **[[Wu wei|Wu wei: balance of rest and activity]]** (Daoism)
 - **[[Nothing in excess|Nothing in excess]]** (Delphic maxim)
 

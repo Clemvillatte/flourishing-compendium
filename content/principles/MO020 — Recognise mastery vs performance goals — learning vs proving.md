@@ -41,7 +41,7 @@ Two students face the same exam. One thinks, "I want to understand this unit wel
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as its own reward]]** (Aristotle, Nicomachean Ethics)
+- **[[Virtue|Virtue as its own reward]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **Becoming over proving** (Nietzsche, Thus Spoke Zarathustra)
 - **[[The examined life|The examined life]] is learning** (Socrates, Apology)
 

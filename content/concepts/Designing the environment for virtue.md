@@ -7,7 +7,7 @@ file: "Designing the environment for virtue"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Designing the environment for virtue is the practice of arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs and therefore becomes disposed to perform. Its classical root is Aristotle's habituation argument: virtue of character is not taught but practiced into existence, and the arrangements that govern daily practice are therefore where character is made.
+Designing the environment for virtue is the practice of arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs and therefore becomes disposed to perform. Its classical root is [[T002 — Aristotle|Aristotle]]'s habituation argument: virtue of character is not taught but practiced into existence, and the arrangements that govern daily practice are therefore where character is made.
 
 > "This is confirmed by what happens in states; for legislators make the citizens good by forming habits in them, and this is the wish of every legislator, and those who do not effect it miss their mark, and it is in this that a good constitution differs from a bad one." (Aristotle, [Nicomachean Ethics II.1, 1103a33-b6, Ross translation](https://www.millerpolitics.com/AriEthPol.htm))
 

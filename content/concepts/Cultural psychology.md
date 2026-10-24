@@ -24,7 +24,7 @@ Markus and Kitayama's contrast pairs that interdependent view with the independe
 - [[R002 — Practise humanity toward others]] — Tutu's ubuntu formulation of a person as a person through other persons
 - [[A076 — Practise friendship across difference]] — friendship adapting across ranks and capacities rather than presuming sameness
 - [[R055 — Practise xin (trustworthinessintegrity)]] — trustworthiness as the alignment of word and deed, from the Analects
-- [[A068 — Maintain friendships through presence in misfortune]] — Aristotle on friends as the refuge in misfortune
+- [[A068 — Maintain friendships through presence in misfortune]] — [[T002 — Aristotle|Aristotle]] on friends as the refuge in misfortune
 - [[Y040 — Never perform ethics for an audience]] — the Gita's warning against practice performed for honor
 - [[X022 — Keep nature as the restorative commons]] — the Transcendentalist practice of regular time in the woods
 

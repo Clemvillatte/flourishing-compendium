@@ -41,7 +41,7 @@ As a modern application, suppose another episode would mean breaking a promise t
 
 ## Philosophy parallels
 
-- **[[Temperance|Temperance (sophrosyne)]]** (Aristotle, NE III.10-12)
+- **[[Temperance|Temperance (sophrosyne)]]** ([[T002 — Aristotle|Aristotle]], NE III.10-12)
 - **[[The middle path|The middle way]]** (Buddha, Dhammacakkappavattana Sutta)
 
 <!-- fc: reflections

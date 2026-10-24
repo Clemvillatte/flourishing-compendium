@@ -40,4 +40,4 @@ At the next family or community event, ask the person in charge what job needs d
 
 ## Philosophy parallels
 
-- **[[Service|Service]]** (Confucius, The Analects; Aristotle, Nicomachean Ethics)
+- **[[Service|Service]]** (Confucius, The Analects; [[T002 — Aristotle|Aristotle]], Nicomachean Ethics)

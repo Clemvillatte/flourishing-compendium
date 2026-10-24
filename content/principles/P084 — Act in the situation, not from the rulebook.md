@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 84** — Act in the situation, not from the rulebook
 
-Aristotle's account of equity is the classic statement of the rule's built-in blind spot. All law is universal, but some cases are not covered by the universal statement; when the legislator "fails us and has erred by over-simplicity", it is right "to correct the omission—to say what the legislator himself would have said had he been present, and would have put into his law if he had known" ([Nicomachean Ethics V.10, Ross](https://en.wikisource.org/wiki/Nicomachean_Ethics_(Ross)/Book_Five)).
+[[T002 — Aristotle|Aristotle]]'s account of equity is the classic statement of the rule's built-in blind spot. All law is universal, but some cases are not covered by the universal statement; when the legislator "fails us and has erred by over-simplicity", it is right "to correct the omission—to say what the legislator himself would have said had he been present, and would have put into his law if he had known" ([Nicomachean Ethics V.10, Ross](https://en.wikisource.org/wiki/Nicomachean_Ethics_(Ross)/Book_Five)).
 
 > The reason is that all law is universal but about some things it is not possible to make a universal statement which shall be correct.
 >

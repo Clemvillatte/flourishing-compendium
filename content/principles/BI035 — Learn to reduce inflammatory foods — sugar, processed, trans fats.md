@@ -36,7 +36,7 @@ These studies describe differences between groups with different dietary pattern
 
 ## Philosophy parallels
 
-- **[[Temperance|Temperance in consumption]]** (Aristotle)
+- **[[Temperance|Temperance in consumption]]** ([[T002 — Aristotle|Aristotle]])
 - **[[Simplicity|Simplicity and frugality]]** (Daoism, Daodejing 19)
 - **[[Care|Care of the body]]** (Montaigne)
 

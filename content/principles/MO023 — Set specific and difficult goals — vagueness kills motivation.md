@@ -41,7 +41,7 @@ Critics argue the benefits are overstated. Ordóñez and colleagues list side ef
 
 ## Philosophy parallels
 
-- **The end must be determinate** (Aristotle, Nicomachean Ethics III)
+- **The end must be determinate** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[Right effort|Right effort requires clear aim]]** (Buddhism, Eightfold Path)
 - **[[The examined life|The examined life]] requires examined goals** (Socrates, Apology)
 

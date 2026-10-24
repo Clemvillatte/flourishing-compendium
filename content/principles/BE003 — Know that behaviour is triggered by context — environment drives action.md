@@ -36,7 +36,7 @@ For example: someone who always scrolls their phone on the sofa after dinner may
 
 ## Philosophy parallels
 
-- **[[Designing for virtue|Designing for virtue]]** (Aristotle, Politics)
+- **[[Designing for virtue|Designing for virtue]]** ([[T002 — Aristotle|Aristotle]], Politics)
 - **[[Wu wei|Wu wei: non-forcing through environment]]** (Daoism, Daodejing 63)
 - **The environment shapes behaviour** (Dewey, Experience and Education)
 

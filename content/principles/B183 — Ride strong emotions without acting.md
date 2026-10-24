@@ -46,7 +46,7 @@ Two people get the same infuriating email. One replies at once, while shaking. T
 ## Philosophy parallels
 
 - **[[Patience|Patience]]** (Kierkegaard, Works of Love)
-- **[[The doctrine of the mean|The mean]]** (Aristotle, NE IV)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], NE IV)
 
 <!-- fc: reflections
 What big emotion are you currently venting or suppressing rather than feeling in the body? What would riding it without acting actually look like?

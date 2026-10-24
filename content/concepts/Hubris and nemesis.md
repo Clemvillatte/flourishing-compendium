@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 In Greek myth, Nemesis personifies retribution for hubris, or arrogance before the gods. In Wikipedia's summary of the mythology, she "was the goddess who personified retribution for the sin of hubris: arrogance before the gods", and, in the Greek tragedies, she "appears chiefly as the avenger of crime and the punisher of hubris" ([Wikipedia, Nemesis](https://en.wikipedia.org/wiki/Nemesis_(mythology))).
 
-Aristotle discusses hubris, in the Rhetoric, under the heading of insolence, in W. Rhys Roberts's translation:
+[[T002 — Aristotle|Aristotle]] discusses hubris, in the Rhetoric, under the heading of insolence, in W. Rhys Roberts's translation:
 
 > "Insolence is also a form of slighting, since it consists in doing and saying things that cause shame to the victim, not in order that anything may happen to yourself, or because anything has happened to yourself, but simply for the pleasure involved. (Retaliation is not "insolence," but vengeance.)" (Aristotle, [Rhetoric 2.2, 1378b](https://kairos.technorhetoric.net/stasis/2017/honeycutt/aristotle/rhet2-2.html), trans. W. Rhys Roberts)
 

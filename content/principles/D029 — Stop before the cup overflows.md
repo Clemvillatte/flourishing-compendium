@@ -41,7 +41,7 @@ A vessel filled to the brim cannot be carried without spilling, and neither can 
 ## Philosophy parallels
 
 - **[[Nothing in excess|Nothing in excess]]** (Delphic maxim)
-- **[[The doctrine of the mean|The mean]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 <!-- fc: reflections
 Where are you negotiating the last 5% that will kill the deal? What does stopping require of you?

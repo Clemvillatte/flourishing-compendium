@@ -7,7 +7,7 @@ file: "Competence"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-“Competence” — Aristotle, Nicomachean Ethics II.
+“Competence” — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.
 
 - Bandura, 1977
 - Deci & Ryan, 2000

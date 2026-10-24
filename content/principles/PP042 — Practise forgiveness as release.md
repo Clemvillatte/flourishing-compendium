@@ -35,7 +35,7 @@ The working definition here (not condoning, excusing or reconciling) is not stat
 
 ## Philosophy parallels
 
-- [[Forgiveness|Forgiveness as release]] (Aristotle, Nicomachean Ethics)
+- [[Forgiveness|Forgiveness as release]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - The gift relationship (Mauss, The Gift)
 
 <!-- fc: reflections

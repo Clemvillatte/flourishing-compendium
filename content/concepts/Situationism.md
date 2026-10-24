@@ -15,7 +15,7 @@ Situationism is the challenge to trait psychology from experimental social psych
 
 The article's own verdict on the tradition's evidence: "Perhaps most damning for the robust view of character are the results of the experiments conducted by Stanley Milgram in the 1960s." The studies behind the label include the Milgram obedience series, Darley and Batson's Good Samaritan study (seminarians in a hurry), and the classic person-situation findings summarized by Ross and Nisbett, The Person and the Situation (1991).
 
-I work this as a caution rather than a refutation: [[P005 — You are an organism in transaction with an environment]] runs on the situationist ground, and my original entry reads it against Aristotle's virtue account ([[Virtue]]). The honest framing is that situationism showed trait talk needs situational qualifiers, not that character does not exist.
+I work this as a caution rather than a refutation: [[P005 — You are an organism in transaction with an environment]] runs on the situationist ground, and my original entry reads it against [[T002 — Aristotle|Aristotle]]'s virtue account ([[Virtue]]). The honest framing is that situationism showed trait talk needs situational qualifiers, not that character does not exist.
 
 - Doris, Lack of Character
 ## Related concepts

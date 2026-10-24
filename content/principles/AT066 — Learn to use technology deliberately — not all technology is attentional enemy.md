@@ -37,7 +37,7 @@ Total screen time and the active-versus-passive split are both weak guides to ho
 
 ## Philosophy parallels
 
-- **The tool is neutral; the use is moral** (Aristotle, Nicomachean Ethics)
+- **The tool is neutral; the use is moral** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Right livelihood|Right livelihood includes right technology]]** (Buddhism, Eightfold Path)
 - **Pragmatism: use what works** (James, Pragmatism)
 

@@ -36,7 +36,7 @@ Two engines look identical from outside: same midnight, same book. One is readin
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia vs hedonic pursuit]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia vs hedonic pursuit]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Right intention|Right intention]]** (Buddhism, Eightfold Path)
 - **[[Autonomy|Autonomy as the heart of action]]** (Rogers, On Becoming a Person)
 

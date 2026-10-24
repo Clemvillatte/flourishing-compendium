@@ -37,4 +37,4 @@ The commentary speaks of restriction and emergence inside meditation. It does no
 
 ## Philosophy parallels
 
-- **[[The unity of the virtues|Virtue as second nature through repetition]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as second nature through repetition]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)

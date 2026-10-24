@@ -7,7 +7,7 @@ file: "Natural virtue"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Natural virtue (physikē aretē) is Aristotle's name for the dispositions to courage, justice, self-control and the like that people seem to have from birth. He sets it against virtue in the strict sense (kyriōs aretē) in Nicomachean Ethics VI.13 (1144b), where the difference is practical wisdom. The wording below is an English translation as reproduced on [aristotle-ethics.com](https://www.aristotle-ethics.com/book/book-6/chapter/chapter-13/paragraph/paragraph-1-virtue-and-practical-wisdom).
+Natural virtue (physikē aretē) is [[T002 — Aristotle|Aristotle]]'s name for the dispositions to courage, justice, self-control and the like that people seem to have from birth. He sets it against virtue in the strict sense (kyriōs aretē) in Nicomachean Ethics VI.13 (1144b), where the difference is practical wisdom. The wording below is an English translation as reproduced on [aristotle-ethics.com](https://www.aristotle-ethics.com/book/book-6/chapter/chapter-13/paragraph/paragraph-1-virtue-and-practical-wisdom).
 
 > "Therefore, as in the part of us which forms opinions there are two types, cleverness and practical wisdom, so too in the moral part there are two types, natural virtue and virtue in the strict sense, and of these the latter involves practical wisdom." (Aristotle, Nicomachean Ethics VI.13, 1144b14-16)
 

@@ -7,7 +7,7 @@ file: "The catalogue of virtues"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The catalogue of virtues is Aristotle's table in Nicomachean Ethics II.7 of the character virtues as means between vices of excess and deficiency. The general definition:
+The catalogue of virtues is [[T002 — Aristotle|Aristotle]]'s table in Nicomachean Ethics II.7 of the character virtues as means between vices of excess and deficiency. The general definition:
 
 > "Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it. Now it is a mean between two vices, that which depends on excess and that which depends on defect."
 

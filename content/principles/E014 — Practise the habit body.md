@@ -45,5 +45,5 @@ Your body has learned your life. It drives the route, plays the scales, reaches 
 ## Philosophy parallels
 
 - **[[The habit body|The habit body]]** (Merleau-Ponty, Phenomenology of Perception)
-- **[[Habit|Habit and virtue]]** (Aristotle, Nicomachean Ethics II.1)
+- **[[Habit|Habit and virtue]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II.1)
 

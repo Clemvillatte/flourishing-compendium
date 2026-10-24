@@ -38,7 +38,7 @@ The model's finding is that goals consistent with your developing interests and 
 
 ## Philosophy parallels
 
-- [[Eudaimonia|Eudaimonia as organising end]] (Aristotle, Nicomachean Ethics I.7)
+- [[Eudaimonia|Eudaimonia as organising end]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.7)
 - [[The examined life|The examined life]] (Socrates, in Plato, Apology 38a)
 
 <!-- fc: reflections

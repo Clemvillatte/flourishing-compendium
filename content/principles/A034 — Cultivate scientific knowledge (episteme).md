@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 34** — Cultivate scientific knowledge (episteme)
 
-Aristotle defines scientific knowledge as a state of capacity to demonstrate, concerning things that cannot be otherwise. He places its objects as necessary and eternal, and says the starting-points from which demonstration proceeds are themselves not reached by demonstration. He also notes that every science is thought to be capable of being taught.
+[[T002 — Aristotle|Aristotle]] defines scientific knowledge as a state of capacity to demonstrate, concerning things that cannot be otherwise. He places its objects as necessary and eternal, and says the starting-points from which demonstration proceeds are themselves not reached by demonstration. He also notes that every science is thought to be capable of being taught.
 
 > "Now what scientific knowledge is, if we are to speak exactly and not follow mere similarities, is plain from what follows. We all suppose that what we know is not even capable of being otherwise; of things capable of being otherwise we do not know, when they have passed outside our observation, whether they exist or not. Therefore the object of scientific knowledge is of necessity." ([NicEth VI.3, Ross](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 

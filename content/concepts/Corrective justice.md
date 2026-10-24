@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-“Corrective justice” — Aristotle, NE V.4.
+“Corrective justice” — [[T002 — Aristotle|Aristotle]], NE V.4.
 
 Corrective justice is the justice of repair. Aristotle's account in Book V of the Nicomachean Ethics sets it apart from the distributive kind, which divides common goods by proportion; corrective justice deals with transactions between two parties, and its rule is a simple equality. Aristotle says that whether the parties are morally good or bad does not alter this equality:
 

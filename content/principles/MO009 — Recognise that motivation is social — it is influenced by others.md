@@ -38,7 +38,7 @@ Support helps, with limits. In a randomised weight-loss trial, 95% of people rec
 ## Philosophy parallels
 
 - **Ubuntu: I am because we are** (African Philosophy, Desmond Tutu)
-- **The master and apprentice** (Aristotle, Nicomachean Ethics)
+- **The master and apprentice** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Right association|Right association]]** (Buddhism, Sigalovada Sutta)
 
 ## Practice

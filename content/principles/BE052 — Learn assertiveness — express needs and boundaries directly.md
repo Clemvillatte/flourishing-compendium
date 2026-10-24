@@ -33,7 +33,7 @@ Pick one sentence you have been avoiding saying, and write it in the form: what 
 
 ## Philosophy parallels
 
-- **[[The doctrine of the mean|The mean between aggression and passivity]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean between aggression and passivity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right speech|Right speech: honest and direct]]** (Buddhism)
 - **[[The dignity of self-expression|The dignity of self-expression]]** (Kant, Groundwork)
 

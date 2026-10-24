@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 68** — Maintain friendships through presence in misfortune
 
-In the Nicomachean Ethics, Aristotle does not make adversity the test of friendship. The Eudemian Ethics, VII.2, comes closer: "misfortune shows those who are not really friends" ([Wikisource](https://en.wikisource.org/wiki/Eudemian_Ethics/Book_7)). Two Nicomachean passages matter. The first is in Book VIII, at the start of his treatment of friendship:
+In the Nicomachean Ethics, [[T002 — Aristotle|Aristotle]] does not make adversity the test of friendship. The Eudemian Ethics, VII.2, comes closer: "misfortune shows those who are not really friends" ([Wikisource](https://en.wikisource.org/wiki/Eudemian_Ethics/Book_7)). Two Nicomachean passages matter. The first is in Book VIII, at the start of his treatment of friendship:
 
 > "And in poverty and in other misfortunes men think friends are the only refuge."
 > — Aristotle, Nicomachean Ethics VIII.1, trans. W. D. Ross

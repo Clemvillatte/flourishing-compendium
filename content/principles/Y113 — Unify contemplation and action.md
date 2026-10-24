@@ -37,5 +37,5 @@ The earlier version of this principle spoke of children arguing over the distinc
 
 ## Philosophy parallels
 
-- **[[Theoria|Theoria and praxis as one round]]** (Aristotle, Nicomachean Ethics X)
+- **[[Theoria|Theoria and praxis as one round]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics X)
 - **[[Pragmatism|Pragmatist method]]** (Dewey, The Quest for Certainty)- **[[Non-dual awareness|Non-dual awareness]]** (Yoga-Vedanta)

@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
 
-Aristotle's claim in Nicomachean Ethics IX is that the company we keep shapes the people we become. It comes at the end of his long treatment of friendship, in a passage that sets the friendship of bad men beside the friendship of good ones:
+[[T002 — Aristotle|Aristotle]]'s claim in Nicomachean Ethics IX is that the company we keep shapes the people we become. It comes at the end of his long treatment of friendship, in a passage that sets the friendship of bad men beside the friendship of good ones:
 
 > Thus the friendship of bad men turns out an evil thing (for because of their instability they unite in bad pursuits, and besides they become evil by becoming like each other), while the friendship of good men is good, being augmented by their companionship; and they are thought to become better too by their activities and by improving each other; for from each other they take the mould of the characteristics they approve-whence the saying 'noble deeds from noble men'.
 

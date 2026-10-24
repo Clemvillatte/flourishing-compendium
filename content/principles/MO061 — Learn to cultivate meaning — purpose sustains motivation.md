@@ -35,7 +35,7 @@ A practical reading of Frankl is to ask what makes a particular task worth doing
 ## Philosophy parallels
 
 - **[[The will to meaning|The will to meaning]]** (Frankl, Man's Search for Meaning)
-- **[[Eudaimonia|Eudaimonia as meaningful living]]** (Aristotle, Nicomachean Ethics)
+- **[[Eudaimonia|Eudaimonia as meaningful living]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **[[Right livelihood|Right livelihood]]** (Buddhism, Eightfold Path)
 
 ## Practice

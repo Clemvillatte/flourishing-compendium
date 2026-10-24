@@ -50,7 +50,7 @@ The person who has tried melatonin, lavender and phone apps but never kept a sle
 
 - **[[Right effort|Right effort: skillful approach to sleep]]** (Buddhism)
 - **[[The examined life|The examined life]] includes examined sleep** (Socrates)
-- **Discipline and rest together** (Aristotle)
+- **Discipline and rest together** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

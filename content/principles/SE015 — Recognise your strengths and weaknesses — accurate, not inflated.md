@@ -40,7 +40,7 @@ Before a quiz or a work task, jot down "I will get about eight out of ten." Afte
 ## Philosophy parallels
 
 - **Know thyself including thy limits** (Delphic maxim)
-- **[[The doctrine of the mean|The golden mean: strengths in balance]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The golden mean: strengths in balance]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Humility|Humility about weaknesses]]** (Aquinas, Summa Theologica)
 
 ## Practice

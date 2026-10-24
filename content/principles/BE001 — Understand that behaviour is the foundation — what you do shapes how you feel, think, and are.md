@@ -36,7 +36,7 @@ The same report states the second finding plainly: "both BA and AT treatments we
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as habituated action]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as habituated action]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **Existence precedes essence: you are what you do** (Sartre, Existentialism is a Humanism)
 - **[[Action over intention|Action over intention]]** (Buddhism, Eightfold Path: Right Action)
 

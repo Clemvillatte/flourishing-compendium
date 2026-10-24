@@ -7,7 +7,7 @@ file: "The layered soul"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The layered soul is Aristotle's account of what a soul is, set out in De Anima II.1-3: the soul is the form of a living body, not a separate thing inside it. The picture is layered because living functions come in levels — plants have nutrition, animals add perception and movement, humans add intellect — and the higher levels presuppose the lower ones. Aristotle is answering the question the tradition had left in confusion, "What is soul?", with a definition built from his hylomorphism: matter is potentiality, form is actuality, and the soul is the actuality of a living body.
+The layered soul is [[T002 — Aristotle|Aristotle]]'s account of what a soul is, set out in De Anima II.1-3: the soul is the form of a living body, not a separate thing inside it. The picture is layered because living functions come in levels — plants have nutrition, animals add perception and movement, humans add intellect — and the higher levels presuppose the lower ones. Aristotle is answering the question the tradition had left in confusion, "What is soul?", with a definition built from his hylomorphism: matter is potentiality, form is actuality, and the soul is the actuality of a living body.
 
 ### The definition
 

@@ -35,7 +35,7 @@ Before advising a friend on a dispute, you admit you have only heard one side, a
 
 ## Philosophy parallels
 
-- **[[Phronesis|Phronesis]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Practical wisdom|Practical wisdom]]** (Confucius, The Analects)
 
 ## Related concepts

@@ -39,7 +39,7 @@ Marcus compares luxury with the enjoyment of acting according to human nature. I
 
 ## Philosophy parallels
 
-- **[[Temperance|Temperance (sophrosyne)]]** (Aristotle, NE III.10-12)
+- **[[Temperance|Temperance (sophrosyne)]]** ([[T002 — Aristotle|Aristotle]], NE III.10-12)
 - **Subtract, don't add** (Laozi, Daodejing 48)
 
 <!-- fc: reflections

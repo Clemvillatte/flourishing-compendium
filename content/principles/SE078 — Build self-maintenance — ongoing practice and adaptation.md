@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 78** — Build self-maintenance: ongoing practice and adaptation
 
-Aristotle grounds the ongoing work in how character is built at all:
+[[T002 — Aristotle|Aristotle]] grounds the ongoing work in how character is built at all:
 
 > For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
 

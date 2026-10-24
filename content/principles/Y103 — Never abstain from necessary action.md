@@ -36,7 +36,7 @@ A man sits in a team meeting where a colleague is being talked over, and stays q
 
 ## Philosophy parallels
 
-- **[[The function argument|The ergon argument]]** (Aristotle, Nicomachean Ethics I.7)- **[[Svadharma, one's own duty|Svadharma, one's own duty]]** (Yoga-Vedanta)
+- **[[The function argument|The ergon argument]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.7)- **[[Svadharma, one's own duty|Svadharma, one's own duty]]** (Yoga-Vedanta)
 
 ## Sources
 

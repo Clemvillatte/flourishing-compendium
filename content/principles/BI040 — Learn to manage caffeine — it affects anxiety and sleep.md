@@ -35,7 +35,7 @@ Caffeine affects both anxiety and sleep, though the strength of the evidence dif
 
 ## Philosophy parallels
 
-- **[[Temperance|Temperance]]** (Aristotle)
+- **[[Temperance|Temperance]]** ([[T002 — Aristotle|Aristotle]])
 - **[[Simplicity|Simplicity and frugality]]** (Daoism)
 - **[[Clarity of mind|Clarity of mind]]** (Stoics)
 

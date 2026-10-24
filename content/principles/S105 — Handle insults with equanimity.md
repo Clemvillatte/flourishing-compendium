@@ -45,7 +45,7 @@ On his account the provocation is an appearance, and the wound is supplied by th
 ## Philosophy parallels
 
 - **[[The empty boat reflection|The empty boat reflection]]** (Zhuangzi tradition)
-- **[[Gentleness (praotes)|Gentleness (praotes)]]** (Aristotle, NE IV.5)
+- **[[Gentleness (praotes)|Gentleness (praotes)]]** ([[T002 — Aristotle|Aristotle]], NE IV.5)
 
 <!-- fc: reflections
 What insult has stayed with you the longest? What is it still doing?

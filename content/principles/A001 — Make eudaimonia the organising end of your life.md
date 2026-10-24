@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 1** — Make eudaimonia the organising end of your life
 
-Aristotle's function argument links the human good with rational activity performed well, [[Virtue|in accordance with virtue]] ([NE I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). He then adds a qualification about the scale on which a life is judged:
+[[T002 — Aristotle|Aristotle]]'s function argument links the human good with rational activity performed well, [[Virtue|in accordance with virtue]] ([NE I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). He then adds a qualification about the scale on which a life is judged:
 
 > But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.
 > (NE I.7, [W. D. Ross's translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))

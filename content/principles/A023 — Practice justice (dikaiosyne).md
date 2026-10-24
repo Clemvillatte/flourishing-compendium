@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 23** — Practice justice (dikaiosyne)
 
-Aristotle's general account of justice concerns how virtue is exercised toward other people. He distinguishes it from particular questions of distribution and correction:
+[[T002 — Aristotle|Aristotle]]'s general account of justice concerns how virtue is exercised toward other people. He distinguishes it from particular questions of distribution and correction:
 
 > This form of justice, then, is complete virtue, but not absolutely, but in relation to our neighbour.
 > (Nicomachean Ethics V.1, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html).)

@@ -32,7 +32,7 @@ Hypothetical illustration: the person who spends two years perfecting coping str
 ## Philosophy parallels
 
 - **Wisdom as knowing what is up to you** (Stoics, Epictetus, Enchiridion)
-- **[[Phronesis|Phronesis as practical judgement]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis as practical judgement]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Right action|Right action over acceptance of harm]]** (Buddhism, Right Action)
 
 ## Practice

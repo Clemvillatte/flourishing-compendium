@@ -36,7 +36,7 @@ The review found a category difference, not a universal law: on average, rewards
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as its own reward]]** (Aristotle, Nicomachean Ethics)
+- **[[Virtue|Virtue as its own reward]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics)
 - **The gift, not the transaction** (Mauss, The Gift)
 - **[[Right intention|Right intention: intrinsic, not extrinsic]]** (Buddhism)
 

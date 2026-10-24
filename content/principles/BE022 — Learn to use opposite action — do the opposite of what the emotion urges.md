@@ -36,7 +36,7 @@ The demand is completeness, verbatim: "When you do opposite action, do it all th
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as the mean between extremes]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as the mean between extremes]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right action|Right action over instinct]]** (Buddhism, Eightfold Path)
 - **[[The courage to act against impulse|The courage to act against impulse]]** (Kant, Groundwork)
 

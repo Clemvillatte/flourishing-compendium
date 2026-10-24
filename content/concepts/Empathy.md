@@ -23,7 +23,7 @@ Martin Hoffman's developmental account treats empathic responses as a continuum 
 
 ### Here
 
-- [[A117 — Understand pity (eleos)]] — Aristotle's pity, pain at unmerited misfortune one might share, sits at empathy's edge
+- [[A117 — Understand pity (eleos)]] — [[T002 — Aristotle|Aristotle]]'s pity, pain at unmerited misfortune one might share, sits at empathy's edge
 - [[CO075 — Recognise moral cognition — intuition comes first, reasoning second]] — lists empathy among the affective influences on moral intuition
 - [[P129 — Practice sympathetic understanding]] — Addams's sympathetic knowledge, learning about others through shared activities
 

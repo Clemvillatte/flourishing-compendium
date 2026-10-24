@@ -7,7 +7,7 @@ file: "Prohairesis"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Prohairesis (Greek: προαίρεσις) is Aristotle's term for deliberate choice: the decision reached after deliberation, which reveals character. The word was first introduced into philosophy by Aristotle in the Nicomachean Ethics ([Wikipedia, Prohairesis](https://en.wikipedia.org/wiki/Prohairesis)). His formula for it, in Ross's translation:
+Prohairesis (Greek: προαίρεσις) is [[T002 — Aristotle|Aristotle]]'s term for deliberate choice: the decision reached after deliberation, which reveals character. The word was first introduced into philosophy by Aristotle in the Nicomachean Ethics ([Wikipedia, Prohairesis](https://en.wikipedia.org/wiki/Prohairesis)). His formula for it, in Ross's translation:
 
 > "The object of choice being one of the things in our own power which is desired after deliberation, choice will be deliberate desire of things in our own power; for when we have decided as a result of deliberation, we desire in accordance with our deliberation." (Aristotle, [Nicomachean Ethics III.3, trans. Ross](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 110** — Use music and the arts for moral education
 
-Aristotle argues for musical education in terms of judgment and enjoyment:
+[[T002 — Aristotle|Aristotle]] argues for musical education in terms of judgment and enjoyment:
 
 > "we ought not to learn or accustom ourselves to anything so much as to judge right and rejoice in honourable manners and noble actions"
 > (Politics VIII.5, William Ellis translation.)

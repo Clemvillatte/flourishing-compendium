@@ -19,7 +19,7 @@ Paulhus and Williams placed narcissism alongside Machiavellianism and subclinica
 
 ### Here
 
-The principles draw the line on both sides. The healthy side is Aristotle's and the Stoics' proper pride: A015's megalopsychia, A025's kaucha, S112's fame without vanity, A071's self-love as foundation, and AF068's authentic rather than hubristic pride, the two-pride distinction that parallels Kernis's line. The narcissistic side is fragility: AF047's fear function and AF014's emotional inertia describe the ego-threat machinery, SE033's humour about imperfections is the anti-defensiveness practice, P165's fully functioning person is Rogers's version of the settled self, and BI034's gut-health care keeps the body's side of self-regard in view.
+The principles draw the line on both sides. The healthy side is [[T002 — Aristotle|Aristotle]]'s and the Stoics' proper pride: A015's megalopsychia, A025's kaucha, S112's fame without vanity, A071's self-love as foundation, and AF068's authentic rather than hubristic pride, the two-pride distinction that parallels Kernis's line. The narcissistic side is fragility: AF047's fear function and AF014's emotional inertia describe the ego-threat machinery, SE033's humour about imperfections is the anti-defensiveness practice, P165's fully functioning person is Rogers's version of the settled self, and BI034's gut-health care keeps the body's side of self-regard in view.
 
 - [[A015 — Practice magnanimity (megalopsychia)]] — Aristotle's proper high regard
 - [[A071 — Recognise that self-love is the foundation]] — self-love without the fragility

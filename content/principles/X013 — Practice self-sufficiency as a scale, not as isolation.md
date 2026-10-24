@@ -31,7 +31,7 @@ Someone between jobs plans an inexpensive week, records its actual costs, and ke
 ## Philosophy parallels
 
 - **[[Autarky|The sage's self-sufficiency]]** (the Cynic tradition's harder version, as the neighbor)
-- **[[Autarky|Autarky]]** (Aristotle, the contemplative's self-sufficiency's autarky echo)
+- **[[Autarky|Autarky]]** ([[T002 — Aristotle|Aristotle]], the contemplative's self-sufficiency's autarky echo)
 
 ## Sources
 

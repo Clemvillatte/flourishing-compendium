@@ -25,7 +25,7 @@ I work the guilt side and the shame side as a pair. AF054 recognises guilt's ada
 - [[E504 — Spare a person shame]] — the interpersonal caution
 - [[AF042 — Practise opposite action — do the opposite of what the feeling urges]] — the technique when the urge is wrong
 - [[A021 — Practice shame (aidos)]] — the classical self-facing emotion
-- [[A118 — Understand shame (aischynē)]] — Aristotle on the emotion
+- [[A118 — Understand shame (aischynē)]] — [[T002 — Aristotle|Aristotle]] on the emotion
 - [[MO011 — Recognise that motivation can be autonomous or controlled — the source matters]] — repair from autonomy, not compulsion
 - [[BE022 — Learn to use opposite action — do the opposite of what the emotion urges]] — the behaviour-side technique
 - [[CO076 — Learn to recognise cognitive dissonance — inconsistency is uncomfortable and drives change]] — the discomfort that also repairs

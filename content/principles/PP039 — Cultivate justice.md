@@ -39,7 +39,7 @@ The procedural-justice research gives the practical payoff. In Tyler's Chicago s
 
 ## Philosophy parallels
 
-- [[Justice|Justice as virtue]] (Aristotle, Nicomachean Ethics V)
+- [[Justice|Justice as virtue]] ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics V)
 - [[Dikaiosyne|Dikaiosyne]] (Plato, Republic)
 
 <!-- fc: reflections

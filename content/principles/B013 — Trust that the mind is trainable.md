@@ -47,7 +47,7 @@ Modern evidence needs a different description. Hölzel and colleagues compared 1
 
 ## Philosophy parallels
 
-- **[[Habituation|Habituation]]** (Aristotle, Nicomachean Ethics II)
+- **[[Habituation|Habituation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **The will as trainable attention** (James, The Principles of Psychology)
 
 <!-- fc: reflections

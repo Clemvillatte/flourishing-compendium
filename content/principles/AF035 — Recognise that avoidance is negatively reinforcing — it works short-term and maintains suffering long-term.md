@@ -42,7 +42,7 @@ Exposure therapy is "repeated approach toward fear provoking stimuli" ([Craske e
 ## Philosophy parallels
 
 - **The path of least resistance is the path of suffering** (Buddhism, Dhammapada)
-- **[[Courage|Courage as the mastery of fear]]** (Aristotle, Nicomachean Ethics III)
+- **[[Courage|Courage as the mastery of fear]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[Amor fati|Amor fati]]** (Nietzsche, The Gay Science)
 
 ## Practice

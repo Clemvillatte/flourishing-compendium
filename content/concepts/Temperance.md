@@ -7,7 +7,7 @@ file: "Temperance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-"Temperance" is one of the four cardinal virtues: the right ordering of pleasure and appetite. Plato's Republic defines it as "a kind of beautiful order and a continence of certain pleasures and appetites," and says it bears "more likeness to a kind of concord and harmony than the other virtues did" ([Republic IV.430e, Shorey translation](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D4%3Asection%3D430e)). Aristotle locates it on the map: "temperance is a mean with regard to pleasures" ([Nicomachean Ethics III.10-12, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
+"Temperance" is one of the four cardinal virtues: the right ordering of pleasure and appetite. Plato's Republic defines it as "a kind of beautiful order and a continence of certain pleasures and appetites," and says it bears "more likeness to a kind of concord and harmony than the other virtues did" ([Republic IV.430e, Shorey translation](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D4%3Asection%3D430e)). [[T002 — Aristotle|Aristotle]] locates it on the map: "temperance is a mean with regard to pleasures" ([Nicomachean Ethics III.10-12, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
 ### The strange phrase
 

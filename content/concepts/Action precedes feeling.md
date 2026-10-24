@@ -7,7 +7,7 @@ file: "Action precedes feeling"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-“Action precedes feeling” — Aristotle, Nicomachean Ethics II; William James, Principles of Psychology.
+“Action precedes feeling” — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics II; William James, Principles of Psychology.
 
 The phrase names a double tradition. On the virtue side, Aristotle's account of how character forms: the virtues are acquired by doing the acts. On the emotion side, William James's account of how feeling arises: the emotion is the perception of the body's own changes.
 

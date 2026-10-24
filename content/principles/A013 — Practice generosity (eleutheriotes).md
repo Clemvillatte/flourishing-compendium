@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 13** — Practice generosity (eleutheriotes)
 
-Aristotle discusses liberality as a mean concerning wealth, with particular emphasis on giving. ([Nicomachean Ethics IV.1, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)) I present it as the virtue of giving well rather than the practice of giving much.
+[[T002 — Aristotle|Aristotle]] discusses liberality as a mean concerning wealth, with particular emphasis on giving. ([Nicomachean Ethics IV.1, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)) I present it as the virtue of giving well rather than the practice of giving much.
 
 (Nicomachean Ethics IV.1.)
 

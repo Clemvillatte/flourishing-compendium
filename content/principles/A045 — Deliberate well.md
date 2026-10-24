@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 45** — Deliberate well
 
-Aristotle draws the bounds of deliberation sharply, verbatim:
+[[T002 — Aristotle|Aristotle]] draws the bounds of deliberation sharply, verbatim:
 
 > "We deliberate not about ends but about means. For a doctor does not deliberate whether he shall heal, nor an orator whether he shall persuade, nor a statesman whether he shall produce law and order, nor does any one else deliberate about his end. They assume the end and consider how and by what means it is to be attained." (NE III.3, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 

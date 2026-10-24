@@ -41,7 +41,7 @@ The questionnaire study links playfulness with life satisfaction; the interventi
 
 - **[[Homo ludens|Homo ludens: man the player]]** (Huizinga, Homo Ludens)
 - **The child as sage** (Zhuangzi; Jesus, Mark 10:15)
-- **[[Joy|Joy and play as virtue]]** (Aristotle)
+- **[[Joy|Joy and play as virtue]]** ([[T002 — Aristotle|Aristotle]])
 
 ## Practice
 

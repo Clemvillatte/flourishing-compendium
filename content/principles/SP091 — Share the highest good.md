@@ -32,4 +32,4 @@ My application: attach your practice to at least one other person's progress, a 
 ## Philosophy parallels
 
 - **[[The commonwealth of the good|The commonwealth of the good]]** (Augustine, City of God)
-- **[[Common flourishing|Common flourishing]]** (Aristotle, Politics, the end of the polis)
+- **[[Common flourishing|Common flourishing]]** ([[T002 — Aristotle|Aristotle]], Politics, the end of the polis)

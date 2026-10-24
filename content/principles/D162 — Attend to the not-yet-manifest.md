@@ -49,7 +49,7 @@ The awkward money talk with a friend while it is still awkward, instead of after
 
 ## Philosophy parallels
 
-- **[[Phronesis|Phronesis]]** (Aristotle, Nicomachean Ethics VI), acting on the situation before it hardens
+- **[[Phronesis|Phronesis]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI), acting on the situation before it hardens
 
 <!-- fc: reflections
 What disorder is currently forming that you could order while it's still nothing? What's the actual early action?

@@ -43,5 +43,5 @@ What holds it together is the unit of analysis. In the Taskforce's words, as rep
 
 ## Philosophy parallels
 
-- **Family as primary community** (Aristotle, Politics I.2)
+- **Family as primary community** ([[T002 — Aristotle|Aristotle]], Politics I.2)
 - **[[The relational self|Relational self]]** (Nedelsky, Law's Relations)

@@ -33,7 +33,7 @@ Notice which questions you actually want answered. That pull is not a distractio
 
 ## Philosophy parallels
 
-- **Wonder as the beginning of philosophy** (Aristotle, Metaphysics)
+- **Wonder as the beginning of philosophy** ([[T002 — Aristotle|Aristotle]], Metaphysics)
 - **[[Beginner's mind|Beginner's mind (shoshin)]]** (Zen Buddhism, Suzuki)
 - **[[Curiosity|Curiosity as virtue]]** (Dewey, Democracy and Education)
 

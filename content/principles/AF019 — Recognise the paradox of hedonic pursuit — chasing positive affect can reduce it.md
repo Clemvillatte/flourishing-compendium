@@ -36,6 +36,6 @@ Watching yourself for happiness can crowd out the happiness. In the studies behi
 
 ## Philosophy parallels
 
-- **[[Eudaimonia|Eudaimonia as activity, not feeling]]** (Aristotle, NE)
+- **[[Eudaimonia|Eudaimonia as activity, not feeling]]** ([[T002 — Aristotle|Aristotle]], NE)
 - **[[Hedonic adaptation|The hedonic treadmill]]** (Brickman and Campbell, 1971)
 - **[[Wu wei|Wu wei: non-forcing]]** (Daoism)

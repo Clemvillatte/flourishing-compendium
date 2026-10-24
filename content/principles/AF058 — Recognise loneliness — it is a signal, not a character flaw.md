@@ -37,7 +37,7 @@ Imagine someone who has recently moved cities. After a lonely weekend, they invi
 ## Philosophy parallels
 
 - **[[Ubuntu|Ubuntu: I am because we are]]** (African Philosophy, Desmond Tutu)
-- **[[Aristotelian friendship|Aristotelian friendship]]** (Aristotle, Nicomachean Ethics VIII-IX)
+- **[[Aristotelian friendship|Aristotelian friendship]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VIII-IX)
 
 ## Practice
 

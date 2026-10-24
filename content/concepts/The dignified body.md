@@ -7,7 +7,7 @@ file: "The dignified body"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The dignified body is the bodily half of Aristotle's portrait of the great-souled person (*megalopsychia*) in Nicomachean Ethics IV.3. The passage on bearing, in Bartlett's translation:
+The dignified body is the bodily half of [[T002 — Aristotle|Aristotle]]'s portrait of the great-souled person (*megalopsychia*) in Nicomachean Ethics IV.3. The passage on bearing, in Bartlett's translation:
 
 > "Also, slowness of movement seems to be the mark of a great-souled man, as well as a deep voice and steady speech; for he who is serious about few things is not given to hastiness, nor is anyone ever vehement who supposes that nothing is great, whereas a shrill voice and quickness result from these things."
 

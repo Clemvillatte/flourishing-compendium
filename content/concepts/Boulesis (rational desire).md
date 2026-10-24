@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
 
-Boulesis (βούλησις) is Aristotle's term for wish: the species of desire that aims at what is seen as good, as opposed to appetite (epithumia), which aims at pleasure, and spirit (thumos), the retaliatory desire ([Lockwood, review of Pearson](https://bmcr.brynmawr.edu/2013/2013.09.24)). De Anima II.3 gives the division: "appetite is the genus of which desire, passion, and wish are the species," in Smith's translation, where "appetite" renders orexis, the generic desiring faculty, and "desire" renders epithumia ([De Anima II.3](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima2.htm)).
+Boulesis (βούλησις) is [[T002 — Aristotle|Aristotle]]'s term for wish: the species of desire that aims at what is seen as good, as opposed to appetite (epithumia), which aims at pleasure, and spirit (thumos), the retaliatory desire ([Lockwood, review of Pearson](https://bmcr.brynmawr.edu/2013/2013.09.24)). De Anima II.3 gives the division: "appetite is the genus of which desire, passion, and wish are the species," in Smith's translation, where "appetite" renders orexis, the generic desiring faculty, and "desire" renders epithumia ([De Anima II.3](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima2.htm)).
 
 ### Wish and choice
 

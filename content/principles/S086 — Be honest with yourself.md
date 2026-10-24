@@ -45,7 +45,7 @@ The passages are self-address. Book I thanks others for lessons, including a gra
 
 ## Philosophy parallels
 
-- **[[Truthfulness|Truthfulness (aletheia)]]** (Aristotle, NE IV.7)
+- **[[Truthfulness|Truthfulness (aletheia)]]** ([[T002 — Aristotle|Aristotle]], NE IV.7)
 - **Know thyself** (Delphic maxim; Socrates)
 
 <!-- fc: reflections

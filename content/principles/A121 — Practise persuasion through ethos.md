@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 121** — Practise persuasion through ethos
 
-In the Rhetoric Aristotle lists three modes of persuasion by speech: "the personal character of the speaker; the second on putting the audience into a certain frame of mind; the third on the proof, or apparent proof, provided by the words of the speech itself" ([Rhetoric I.2, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.1.i.html)). On character he writes:
+In the Rhetoric [[T002 — Aristotle|Aristotle]] lists three modes of persuasion by speech: "the personal character of the speaker; the second on putting the audience into a certain frame of mind; the third on the proof, or apparent proof, provided by the words of the speech itself" ([Rhetoric I.2, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.1.i.html)). On character he writes:
 
 > We believe good men more fully and more readily than others: this is true generally whatever the question is, and absolutely true where exact certainty is impossible and opinions are divided.
 

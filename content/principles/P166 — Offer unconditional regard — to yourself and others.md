@@ -38,7 +38,7 @@ a teenager brings home a disappointing grade. The parent listens to the teenager
 ## Philosophy parallels
 
 - **[[Unconditional positive regard|Unconditional regard]]** (Rogers, 1957)
-- **[[Proper self-love|Proper self-love]]** (Aristotle, Nicomachean Ethics IX)
+- **[[Proper self-love|Proper self-love]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IX)
 
 <!-- fc: reflections
 Where does your current atmosphere — toward yourself or others — actually judge rather than prize? What would unconditional regard look like?

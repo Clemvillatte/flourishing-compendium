@@ -41,7 +41,7 @@ Find your national statistics office's well-being report and see which questions
 
 ## Philosophy parallels
 
-- Aristotle — phronesis in politics — Thinker: Aristotle — Reference: Nicomachean Ethics, VI. Bentham and Mill — utility and policy — Thinker: Bentham, Mill — Reference: Bentham (1789); Mill (1863).
+- [[T002 — Aristotle|Aristotle]] — phronesis in politics — Thinker: Aristotle — Reference: Nicomachean Ethics, VI. Bentham and Mill — utility and policy — Thinker: Bentham, Mill — Reference: Bentham (1789); Mill (1863).
 - **Other:**, **EEMM link:** Well-being measurement is the EEMM's measurement principle (principle 9) applied at the policy level.
 
 ## Practice

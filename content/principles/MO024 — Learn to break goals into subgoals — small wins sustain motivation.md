@@ -47,7 +47,7 @@ Amabile and Kramer describe small steps in meaningful work as potentially import
 
 - **A journey of a thousand miles begins with a single step** (Laozi, Daodejing 64)
 - **[[Gradual training|The gradual training]]** (Buddhism, Gradual Training Sutta)
-- **[[The doctrine of the mean|The mean: large vision, small steps]]** (Aristotle, Nicomachean Ethics II)
+- **[[The doctrine of the mean|The mean: large vision, small steps]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 ## Practice
 

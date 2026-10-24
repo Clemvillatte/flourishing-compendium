@@ -7,7 +7,7 @@ file: "Shamefastness as quasi-virtue"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Nicomachean Ethics IV.9 examines the sense of shame. Aristotle describes it as a kind of fear of disrepute and refuses it full virtue status: it is a feeling rather than a settled disposition, and the feeling suits the young, who still need its restraint.
+Nicomachean Ethics IV.9 examines the sense of shame. [[T002 — Aristotle|Aristotle]] describes it as a kind of fear of disrepute and refuses it full virtue status: it is a feeling rather than a settled disposition, and the feeling suits the young, who still need its restraint.
 
 > "Modesty cannot properly be described as a virtue, for it seems to be a feeling rather than a disposition; at least it is defined as a kind of fear of disrepute, and indeed in its effects it is akin to the fear of danger; for people who are ashamed blush, while those in fear of their lives turn pale; both therefore appear to be in a sense bodily affections, and this indicates a feeling rather than a disposition." (Aristotle, [Nicomachean Ethics IV.9, 1128b, Rackham translation](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker%20page%3D1128b))
 

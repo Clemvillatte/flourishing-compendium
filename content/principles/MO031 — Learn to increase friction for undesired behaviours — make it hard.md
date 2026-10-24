@@ -37,7 +37,7 @@ A common practice tip, keeping the phone in another room, rests partly on the "b
 ## Philosophy parallels
 
 - **[[Guarding the senses|Guarding the senses]]** (Buddhism, Dhammapada)
-- **[[Environmental design|Environmental design over willpower]]** (Aristotle, Politics)
+- **[[Environmental design|Environmental design over willpower]]** ([[T002 — Aristotle|Aristotle]], Politics)
 - **[[Simplicity|Simplicity and discipline]]** (Daoism, Daodejing 19)
 
 ## Practice

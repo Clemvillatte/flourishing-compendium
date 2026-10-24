@@ -43,7 +43,7 @@ On Epictetus's account, reason is not one tool among many: it is the faculty tha
 
 ## Philosophy parallels
 
-- **[[The function argument|The function argument]]** (Aristotle, NE I.7)
+- **[[The function argument|The function argument]]** ([[T002 — Aristotle|Aristotle]], NE I.7)
 - **Let reason guide desire** (Aristotle, NE I.13)
 
 <!-- fc: reflections

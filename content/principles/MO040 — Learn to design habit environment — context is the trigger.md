@@ -35,7 +35,7 @@ Stable context helps new habits form, but slowly. In a study of 96 volunteers wh
 
 ## Philosophy parallels
 
-- **[[Designing for virtue|Designing for virtue]]** (Aristotle, Politics)
+- **[[Designing for virtue|Designing for virtue]]** ([[T002 — Aristotle|Aristotle]], Politics)
 - **[[Wu wei|Wu wei through environment]]** (Daoism, Daodejing 19)
 - **The environment shapes behaviour** (Dewey)
 

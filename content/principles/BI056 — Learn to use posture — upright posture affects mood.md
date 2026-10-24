@@ -35,7 +35,7 @@ In controlled studies, sitting upright rather than slumped led to somewhat bette
 
 ## Philosophy parallels
 
-- **[[The dignified body|The dignified body]]** (Aristotle)
+- **[[The dignified body|The dignified body]]** ([[T002 — Aristotle|Aristotle]])
 - **[[Yangsheng (cultivating vitality)|Yangsheng]]: posture as cultivation** (Daoism)
 - **[[The upright soul|The upright soul]]** (Nietzsche, Zarathustra)
 

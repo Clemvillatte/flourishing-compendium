@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 78** — Recognise that the best friendship is between the good
 
-Aristotle distinguishes friendships grounded in usefulness, pleasure and good character. He ranks the last kind highest:
+[[T002 — Aristotle|Aristotle]] distinguishes friendships grounded in usefulness, pleasure and good character. He ranks the last kind highest:
 
 > Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves.
 > (Nicomachean Ethics VIII.3, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html).)

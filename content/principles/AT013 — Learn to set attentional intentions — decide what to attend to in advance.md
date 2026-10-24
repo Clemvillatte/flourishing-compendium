@@ -38,7 +38,7 @@ Choose a situation in which you want to listen closely. Decide what you will do 
 ## Philosophy parallels
 
 - **[[Right intention|Right intention]]** (Buddhism, Eightfold Path)
-- **[[Prohairesis (deliberate choice)|Prohairesis (deliberate choice)]]** (Aristotle, Nicomachean Ethics III)
+- **[[Prohairesis (deliberate choice)|Prohairesis (deliberate choice)]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics III)
 - **[[The examined life|The examined life requires intention]]** (Socrates, Apology)
 
 ## Practice

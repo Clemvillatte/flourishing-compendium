@@ -30,7 +30,7 @@ The evidence is correlational throughout, and the measure captures perceived res
 ### Here
 
 - [[K210 — Active constructive responding]] — the kernel: ask questions, express enthusiasm, celebrate with them
-- [[A077 — Honour friendship in prosperity as well as adversity]] — the Aristotle-derived principle in the concept's psychology parallels
+- [[A077 — Honour friendship in prosperity as well as adversity]] — the [[T002 — Aristotle|Aristotle]]-derived principle in the concept's psychology parallels
 - [[D031 — Treasure 1 — compassion (ci)]] — the Daoist compassion principle; the kernel lists it among its operationalisations
 - [[B112 — Practice gratitude — recognize your conditions]] and [[P129 — Practice sympathetic understanding]] — the kernel's other operationalising principles
 

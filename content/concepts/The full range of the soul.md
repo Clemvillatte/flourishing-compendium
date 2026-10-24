@@ -7,7 +7,7 @@ file: "The full range of the soul"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The full range of the soul is my name for what Aristotle's definition of the human good demands: nothing less than the whole of a person's capacities, well exercised. The Nicomachean Ethics reaches the definition through the function argument, and its careful second clause is where the range enters:
+The full range of the soul is my name for what [[T002 — Aristotle|Aristotle]]'s definition of the human good demands: nothing less than the whole of a person's capacities, well exercised. The Nicomachean Ethics reaches the definition through the function argument, and its careful second clause is where the range enters:
 
 > "if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete." (Aristotle, [Nicomachean Ethics I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), translated by W. D. Ross, 1098a16-18)
 

@@ -43,7 +43,7 @@ If a sitting feels dull, spend a minute on something that gives you a lift befor
 ## Philosophy parallels
 
 - **[[Joy|Joy]]** (Spinoza, Ethics III)
-- **[[Spiritual joy|Spiritual joy]]** (Aristotle, Nicomachean Ethics I)
+- **[[Spiritual joy|Spiritual joy]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I)
 
 <!-- fc: reflections
 Where has your practice become grim — where is the joy actually missing? What would letting yourself be glad actually require?

@@ -48,7 +48,7 @@ The verse also describes someone whose commands are fulfilled while he works hum
 ## Philosophy parallels
 
 - **On Anger** (Seneca)
-- **[[Meekness|Meekness as the mean between irascibility and inirascibility]]** (Aristotle, Nicomachean Ethics IV)
+- **[[Meekness|Meekness as the mean between irascibility and inirascibility]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics IV)
 
 <!-- fc: reflections
 What did your last moment of rage undo? How long did the apology take compared to the fury?

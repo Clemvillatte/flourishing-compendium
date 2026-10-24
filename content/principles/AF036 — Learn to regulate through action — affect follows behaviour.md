@@ -36,7 +36,7 @@ For everyday use, treat the next action as an experiment. Choose a manageable st
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as habituated action]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as habituated action]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Wu wei|Wu wei as natural action]]** (Daoism, Daodejing 63)
 - **[[Action precedes feeling|Action precedes feeling]]** (William James, Principles of Psychology)
 

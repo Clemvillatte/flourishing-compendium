@@ -64,7 +64,7 @@ The knife passage carries the story's account of long practice: after nineteen y
 
 
 - **[[Skillful coping|Skillful coping]]** (Dreyfus, "Intelligence without Representation")
-- **Virtuosity as second nature** (Aristotle, Nicomachean Ethics II)
+- **Virtuosity as second nature** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Dao|The Dao — the way things work]]** (Daoism, Daodejing 25)
 
 

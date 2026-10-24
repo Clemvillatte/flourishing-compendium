@@ -7,7 +7,7 @@ file: "Spiritual joy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-"Spiritual joy" — Aristotle, Nicomachean Ethics I.
+"Spiritual joy" — [[T002 — Aristotle|Aristotle]], Nicomachean Ethics I.
 
 Spiritual joy, in my Aristotelian frame, is the gladness that belongs to a life going well: the felt side of eudaimonia, activity in accordance with virtue, rather than a mood injected from outside. Aristotle defines happiness as exactly that kind of working, and the Nicomachean Ethics argues it cannot be amusement, since happiness is what we "choose always for its own sake, and never with a view to anything" further. The felt side is in the text too: the good man "takes pleasure in the actions which accord with Virtue and is annoyed at those which spring from Vice", and Book X insists that "Happiness stands not in such pastimes but in the Workings in the way of Excellence".
 

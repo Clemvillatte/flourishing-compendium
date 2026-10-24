@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 50** — Understand anger's function: it signals a violated boundary or blocked goal
 
-Aristotle praises anger directed appropriately and criticises both excess and deficiency. His account asks whether its object, target, manner, timing and duration are fitting:
+[[T002 — Aristotle|Aristotle]] praises anger directed appropriately and criticises both excess and deficiency. His account asks whether its object, target, manner, timing and duration are fitting:
 
 > "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." (Aristotle, Nicomachean Ethics IV.5, [Ross, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 

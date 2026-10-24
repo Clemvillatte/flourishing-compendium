@@ -40,7 +40,7 @@ For example: the same grief might call for stepping out at one moment and stayin
 
 ## Philosophy parallels
 
-- **[[Phronesis|Phronesis as contextual judgement]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Phronesis|Phronesis as contextual judgement]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 - **[[Wu wei|Wu wei as responsiveness]]** (Daoism, Zhuangzi)
 - **[[The doctrine of the mean|The mean as relative to us]]** (Aristotle, Nicomachean Ethics II)
 

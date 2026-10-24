@@ -22,7 +22,7 @@ Spacing has its own evidence. Cepeda and colleagues' meta-analysis found 839 ass
 
 A scheduling study with 533 students concluded that students should "practice recalling concepts to an initial criterion of 3 correct recalls and then to relearn them 3 times at widely spaced intervals" (Rawson and Dunlosky, Journal of Experimental Psychology: General 140(3), 2011, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/21707204/)).
 
-The entry's claim about encoding strategies cites Craik and Lockhart (1972), which is cited at second hand. The art-of-memory and Aristotle parallels in the philosophy section were also cited at second hand.
+The entry's claim about encoding strategies cites Craik and Lockhart (1972), which is cited at second hand. The art-of-memory and [[T002 — Aristotle|Aristotle]] parallels in the philosophy section were also cited at second hand.
 
 **Plain words** Trying to recall something works better for lasting memory than reading it again, though rereading feels better. Spreading practice out over days beats cramming. The sensible method is to close the book, write what you remember, check, and come back after a gap.
 

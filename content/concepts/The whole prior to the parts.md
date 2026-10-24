@@ -7,7 +7,7 @@ file: "The whole prior to the parts"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-“The whole prior to the parts” — Aristotle's explanatory priority of the living whole over its parts, in Parts of Animals, Book I ([Ogle, Penelope](https://penelope.uchicago.edu/aristotle/parts1.html)).
+“The whole prior to the parts” — [[T002 — Aristotle|Aristotle]]'s explanatory priority of the living whole over its parts, in Parts of Animals, Book I ([Ogle, Penelope](https://penelope.uchicago.edu/aristotle/parts1.html)).
 
 ## The rule of study
 

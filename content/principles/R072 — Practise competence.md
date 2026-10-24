@@ -40,4 +40,4 @@ Before you help with something, such as a relative's medication, ask what you do
 
 ## Philosophy parallels
 
-- **[[Competence|Competence]]** (Aristotle, Nicomachean Ethics II)
+- **[[Competence|Competence]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)

@@ -44,7 +44,7 @@ A customer is shouting about a wrong order. The barista hears the frustration un
 
 ## Philosophy parallels
 
-- **[[Everyone desires eudaimonia|Everyone desires eudaimonia]]** (Aristotle, Nicomachean Ethics I)- **[[Metta (loving-kindness)|Metta]]** (Buddhism, Sn 1.8)
+- **[[Everyone desires eudaimonia|Everyone desires eudaimonia]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics I)- **[[Metta (loving-kindness)|Metta]]** (Buddhism, Sn 1.8)
 
 
 <!-- fc: reflections

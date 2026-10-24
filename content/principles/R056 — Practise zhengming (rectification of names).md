@@ -36,7 +36,7 @@ One modern application is personal: "What the superior man requires, is just tha
 
 ## Philosophy parallels
 
-- **[[Correspondence theory of truth|Correspondence theory of truth]]** (Aristotle, Metaphysics IV.7)
+- **[[Correspondence theory of truth|Correspondence theory of truth]]** ([[T002 — Aristotle|Aristotle]], Metaphysics IV.7)
 - **Language and reality** (Wittgenstein, Tractatus Logico-Philosophicus)
 
 ## Sources

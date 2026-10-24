@@ -16,7 +16,7 @@ Treat a difficult reading session as a task to organise, not a verdict on your i
 
 ### Three sources, different claims
 
-Aristotle distinguishes intellectual virtue, which grows mainly through teaching, from moral virtue, which comes through habit:
+[[T002 — Aristotle|Aristotle]] distinguishes intellectual virtue, which grows mainly through teaching, from moral virtue, which comes through habit:
 
 > "intellectual virtue in the main owes both its birth and its growth to teaching (for which reason it requires experience and time)" ([Nicomachean Ethics II.1, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)).
 

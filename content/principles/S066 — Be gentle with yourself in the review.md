@@ -39,7 +39,7 @@ For example: after snapping at a colleague, you write down the incident, choose 
 
 ## Philosophy parallels
 
-- **[[Proper self-love|Proper self-love]]** (Aristotle, NE IX.8)
+- **[[Proper self-love|Proper self-love]]** ([[T002 — Aristotle|Aristotle]], NE IX.8)
 - **[[Unconditional positive regard|Unconditional regard]]** (Rogers, On Becoming a Person)
 
 <!-- fc: reflections

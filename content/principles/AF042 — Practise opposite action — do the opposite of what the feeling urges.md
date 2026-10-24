@@ -39,7 +39,7 @@ For example: you feel ashamed after a clumsy presentation and want to skip the n
 
 ## Philosophy parallels
 
-- **[[Virtue|Virtue as the mean between extremes]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as the mean between extremes]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right action|Right action over instinct]]** (Buddhism, Eightfold Path)
 
 ## Practice

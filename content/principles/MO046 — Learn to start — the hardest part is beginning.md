@@ -40,7 +40,7 @@ Masicampo and Baumeister's abstract records that "Unfulfilled goals persist in t
 ## Philosophy parallels
 
 - **[[The journey begins with a single step|The journey begins with a single step]]** (Laozi, Daodejing 64)
-- **[[Virtue|Virtue as action]]** (Aristotle, Nicomachean Ethics II)
+- **[[Virtue|Virtue as action]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right effort|Right effort: begin]]** (Buddhism, Eightfold Path)
 
 ## Practice

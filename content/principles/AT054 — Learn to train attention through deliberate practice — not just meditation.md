@@ -40,7 +40,7 @@ For example: a teacher identifies a difficult piano passage and gives feedback a
 
 ## Philosophy parallels
 
-- **[[The unity of the virtues|Virtue as habituated capacity]]** (Aristotle, Nicomachean Ethics II)
+- **[[The unity of the virtues|Virtue as habituated capacity]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Right effort|Right effort]]** (Buddhism, Eightfold Path)
 - **[[The craft of attention|The craft of attention]]** (Simone Weil, Waiting for God)
 

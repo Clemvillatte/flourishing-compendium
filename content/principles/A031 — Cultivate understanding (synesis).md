@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 31** — Cultivate understanding (synesis)
 
-Aristotle defines understanding as judging rather than commanding ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). It is "neither about things that are always and are unchangeable, nor about any and every one of the things that come into being, but about things which may become subjects of questioning and deliberation" ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). "For practical wisdom issues commands... but understanding only judges" — and what it judges is "what some one else says about matters with which practical wisdom is concerned," judging it soundly ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The exercise below practices that judging.
+[[T002 — Aristotle|Aristotle]] defines understanding as judging rather than commanding ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). It is "neither about things that are always and are unchangeable, nor about any and every one of the things that come into being, but about things which may become subjects of questioning and deliberation" ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). "For practical wisdom issues commands... but understanding only judges" — and what it judges is "what some one else says about matters with which practical wisdom is concerned," judging it soundly ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The exercise below practices that judging.
 
 > For practical wisdom issues commands, since its end is what ought to be done or not to be done; but understanding only judges.
 >

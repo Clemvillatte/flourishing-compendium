@@ -20,7 +20,7 @@ Two features do the work: the goods must be "possible for ourselves to acquire" 
 
 My exercise: when a comparison bites, write down the good thing wanted, whether it can be acquired, and the next step toward it.
 
-**Plain words** Aristotle calls emulation the good twin of envy. Both hurt at not having what another has. Emulation takes a step to get the thing; envy takes a step to stop the other having it. And it only works for things you could actually get.
+**Plain words** [[T002 — Aristotle|Aristotle]] calls emulation the good twin of envy. Both hurt at not having what another has. Emulation takes a step to get the thing; envy takes a step to stop the other having it. And it only works for things you could actually get.
 
 *For example:* A junior designer sees a colleague's polished portfolio and writes down one technique from it to study that week.
 

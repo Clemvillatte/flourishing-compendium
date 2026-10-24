@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 18** — Practice friendliness (philia)
 
-Aristotle describes friendliness as the middle disposition between obsequiousness and quarrelsomeness, and notes it has no special name of its own; it most closely resembles friendship without affection. The friendly person takes everything in the right way not from liking or disliking the other, but from what Aristotle calls natural amiability ([NE IV.6, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)).
+[[T002 — Aristotle|Aristotle]] describes friendliness as the middle disposition between obsequiousness and quarrelsomeness, and notes it has no special name of its own; it most closely resembles friendship without affection. The friendly person takes everything in the right way not from liking or disliking the other, but from what Aristotle calls natural amiability ([NE IV.6, Rackham, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=4)).
 
 > Those on the contrary who object to everything and do not care in the least what pain they cause, are called Surly or Quarrelsome. Now it is clear that the dispositions described are blameworthy, and that the middle disposition between them is praiseworthy—that is, the tendency to acquiesce in the right things, and likewise to disapprove of the right things, in the right manner.
 >

@@ -7,7 +7,7 @@ file: "Prohairesis (deliberate choice)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Prohairesis is Aristotle's reasoned choice or decision, which Kahn explains as joining desire for a goal with deliberation about action ([Discovering Will, pp. 239–240](https://pub-ucpec2-prd.cdlib.org/ucpressebooks/view?docId=ft029002rv&doc.view=content&chunk.id=d0e12594&toc.depth=1&anchor.id=0&brand=eschol)). Aristotle distinguishes it from appetite, opinion and the broader category of voluntary action ([Nicomachean Ethics III.2](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
+Prohairesis is [[T002 — Aristotle|Aristotle]]'s reasoned choice or decision, which Kahn explains as joining desire for a goal with deliberation about action ([Discovering Will, pp. 239–240](https://pub-ucpec2-prd.cdlib.org/ucpressebooks/view?docId=ft029002rv&doc.view=content&chunk.id=d0e12594&toc.depth=1&anchor.id=0&brand=eschol)). Aristotle distinguishes it from appetite, opinion and the broader category of voluntary action ([Nicomachean Ethics III.2](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
 > "choice will be deliberate desire of things in our own power" (NE III.3, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html); excerpt).
 

@@ -34,7 +34,7 @@ The skilled one's method is almost anticlimactic: he travels where the rhino has
 ## Philosophy parallels
 
 - **[[Lathe biosas (live hidden)|Lathe biosas (live unnoticed)]]** (Epicurus, fragments)
-- **[[Prudence|Prudence]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Prudence|Prudence]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics VI)
 
 <!-- fc: reflections
 What battle are you looking for that you don't need? What would not showing up cost you?

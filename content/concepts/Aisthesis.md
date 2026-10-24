@@ -7,7 +7,7 @@ file: "Aisthesis"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Aisthesis (αἴσθησις) is the ancient Greek word for sense perception: the registering of the world through eyes, ears and skin. Aristotle draws the line of life with it:
+Aisthesis (αἴσθησις) is the ancient Greek word for sense perception: the registering of the world through eyes, ears and skin. [[T002 — Aristotle|Aristotle]] draws the line of life with it:
 
 > "Perception is the capacity of the soul which distinguishes animals from plants; indeed, having a perceptive faculty is definitive of being an animal" (Shields, [Stanford Encyclopedia, Aristotle's Psychology](https://plato.stanford.edu/entries/aristotle-psychology/))
 

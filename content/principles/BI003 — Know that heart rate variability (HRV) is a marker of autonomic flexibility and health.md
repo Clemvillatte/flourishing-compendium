@@ -36,7 +36,7 @@ The technical definition: "Heart rate variability (HRV) consists of changes in t
 
 - **[[The rhythm of life|The rhythm of life]]** (breath as rhythm) (Daoism, Neiye)
 - **Breath as anchor** (Buddhism, Anapanasati Sutta)
-- **Balance and flexibility** (Aristotle, Nicomachean Ethics II)
+- **Balance and flexibility** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 
 ## Practice
 

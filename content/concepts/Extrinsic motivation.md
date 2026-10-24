@@ -34,7 +34,7 @@ The original entry cites Kasser and Ryan (1993), and that study is about somethi
 - MO003 sets out the intrinsic and extrinsic contrast, drawing on Ryan and Deci's own definitions.
 - MO062 applies it to rewards, via the Deci, Koestner and Ryan meta-analysis.
 - PP021 argues for process over outcome orientation.
-- S027, S097 and S112 (Stoic pieces on fame) and A016 (Aristotle on honour) are philosophical neighbours: they concern a kind of external reward, honour or reputation, and are listed here as parallels, not as claims that the Stoics held self-determination theory.
+- S027, S097 and S112 (Stoic pieces on fame) and A016 ([[T002 — Aristotle|Aristotle]] on honour) are philosophical neighbours: they concern a kind of external reward, honour or reputation, and are listed here as parallels, not as claims that the Stoics held self-determination theory.
 
 ## Related concepts
 

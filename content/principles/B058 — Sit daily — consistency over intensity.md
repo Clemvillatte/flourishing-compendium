@@ -65,7 +65,7 @@ Pick a cue you already have, such as finishing your morning coffee. Sit for five
 
 ## Philosophy parallels
 
-- **[[Habituation|Habituation]]** (Aristotle, Nicomachean Ethics II)
+- **[[Habituation|Habituation]]** ([[T002 — Aristotle|Aristotle]], Nicomachean Ethics II)
 - **[[Spiritual exercises|Spiritual exercises]]** (Hadot, Philosophy as a Way of Life)
 
 <!-- fc: reflections

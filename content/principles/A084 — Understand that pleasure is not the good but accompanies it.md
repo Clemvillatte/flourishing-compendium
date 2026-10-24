@@ -18,7 +18,7 @@ The Nicomachean Ethics discusses pleasure in two places, Book VII and Book X. Bo
 
 > Pleasure completes the activity not as the corresponding permanent state does, by its immanence, but as an end which supervenes as the bloom of youth does on those in the flower of their age.
 >
-> Aristotle, Nicomachean Ethics X.4, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
+> [[T002 — Aristotle|Aristotle]], Nicomachean Ethics X.4, translated by W. D. Ross, [full text](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm).
 
 **Plain words**
 Aristotle is not against pleasure. Two claims do the work here: the argument that the happy life is pleasant, so pleasure belongs with the good; and the description of pleasure as the bloom that arrives on an activity going well. The practical upshot: treat pleasure as data about the activity. Notice it while the work is under your hands, not only at the finish.
