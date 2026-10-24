@@ -39,13 +39,18 @@ word-for-word against a carrier opened during this session.
   Carrier opened: PubMed 3418490 via NCBI eutils efetch.
   URL: https://pubmed.ncbi.nlm.nih.gov/3418490/
   Method: efetch abstract; the quoted definition sentence ("The
-  empathy-altruism hypothesis claims...") matches verbatim. Correction in
-  revision 3: revision 2 had quoted the sentence beginning "Emotional
+  empathy-altruism hypothesis claims...") was verified by literal comparison
+  against the full PubMed XML record, fetched fresh at ~14:23Z on
+  2026-10-24; the sentence matches the record's AbstractText exactly.
+  Correction history: revision 2 quoted a sentence beginning "Emotional
   arousal elicited by witnessing..." under the 1988 label; that sentence
-  belongs to the 1991 paper (PubMed 1941512, opened via efetch twice this
-  session, most recently as a literal-match check on 2026-10-24 at ~14:22Z,\  where the sentence's opening appears in the record's abstract). The 1988
-  abstract's own definition sentence is now used and the citation is
-correct.
+  was withdrawn in revision 3 and the 1988 abstract's own definition
+  sentence is now used. The withdrawn sentence's record of origin is
+  deliberately not asserted here: a later literal-match check against PMID
+  1941512 returned a different abstract opening ("Three experiments tested
+  whether empathy evokes egoistic motivation to share vicariously in the
+  victim's joy..."), so the provenance claim previously recorded here was
+  removed as unverified.
 - Cialdini et al. 1987 (JPSP 52.4, "Empathy-based helping: is it selflessly
   or selfishly motivated?").
   Carrier opened: PubMed 3572736 via NCBI eutils efetch.
