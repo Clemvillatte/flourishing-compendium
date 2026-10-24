@@ -757,3 +757,27 @@ beside this ledger; it is NOT a full-project editorial review.
 Live b8893be7 browser inspection confirms the replacement opening and
 sampled links with no text decoration or bottom border. No claim that
 the GF exemplar or all dossiers have passed the owner's prose standard.
+
+### Candidate pass 17: bridging pass (owner directive: rapid-fire isolated propositions)
+
+Owner: the dossier "rapid-fires and cognitively overloads because there
+isn't much bridging"; the reader must be able to follow a thread. Rule
+written into HUMANIZER-SKILL.md (Bridging section) before this pass.
+Section "What the good life is: the classical accounts" rewritten:
+paragraphs reorganised so each develops one thought and the connections
+supply reasoning rather than connectives. Advisor QC applied: unsupported
+inferences and invented groupings from the first draft removed (no
+"third family of answers", no inferred finality, no invented
+Aristotle/Epicurus opposition, no "companion reward" metaphor).
+Carriers freshly opened for the connective reasoning in this pass:
+- https://classics.mit.edu/Aristotle/nicomachaen.1.i.html (NE I.7):
+  flute-player/sculptor function passage, happiness "final and
+  self-sufficient", virtuous activity of soul, complete-life swallow line.
+- https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html (NE II.2):
+  courage mean (rash = exceeds in confidence, coward = exceeds in fear,
+  falls short in confidence), "we become just by doing just acts",
+  pleasure/pain after acts taken as a sign of state of character.
+All 20 section card links and every linked claim text preserved; the
+147-card multiset is identical to origin/main (Counter comparison).
+Checker exit 0 (33 headers, 133 external carriers). Remaining sections
+still need the same pass; GF stays UNAPPROVED pending owner validation.

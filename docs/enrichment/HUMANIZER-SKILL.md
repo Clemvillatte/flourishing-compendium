@@ -75,6 +75,34 @@ or make a divergence into a batch of source extracts.
   stop and rewrite it. Merely splitting the same list into paragraphs
   or adding a rhetorical question to every paragraph does not fix it.
 
+### Bridging: the mind must be able to follow a thread (owner directive, 2026-10-24, latest)
+
+The owner rejected GF prose that "rapid-fires and cognitively overloads
+because there isn't much bridging": the reader is bombarded with isolated
+propositions and cannot follow a thread. Fixing this is not a matter of
+adding transition words. The rules:
+
+- Each paragraph develops ONE coherent thought. Its sentences may explain,
+  illustrate, qualify or challenge that thought. A reader should be able
+  to say what question each paragraph answered and what it left open —
+  not merely list the authorities cited. A sentence introducing a new
+  study, author or tradition must BELONG to the paragraph's thought;
+  if it does not, move it to a section where a live question needs it.
+- A bridge supplies missing REASONING — why this follows from that, what
+  problem the next account is answering — not a decorative connective
+  ("moreover", "furthermore" between unrelated claims fixes nothing).
+  Do NOT invent agreement, opposition or causation to connect claims the
+  sources do not support. Sometimes an honest distinction between two
+  accounts is the right bridge, and a false thread is worse than none.
+- Fewer claims per paragraph, each developed, with the relationship between
+  the retained claims explained. Moving digressions to their proper sections
+  is part of the fix.
+- Reader test: after each paragraph the reader should be able to say what
+  question it answered and what it left open. Second test: read the paragraph
+  with the citations deleted; if the remaining sentences no longer form a
+  connected thought, it is a rapid-fire list, not prose.
+- This applies to every dossier and page, and to the GF exemplar first.
+
 GF remains pending explicit owner validation. Do not replicate its
 unfinished form or initiate the planned six-agent rollout before approval.
 
@@ -136,9 +164,9 @@ introductions and page bodies alike:
   woven paragraphs with the links intact are.
 
 The genuine-flourishing rework is the direction reference for this
-rule, not yet the exemplar: its opening movement is exemplar-grade, its
-map sections still read as chained lists in places and are queued for
-revision.
+rule, not yet the exemplar: its opening movement was rewritten after the
+owner rejected it, and its map sections have been through a bridging
+pass that remains under owner validation.
 
 ## Plain speech (owner directive, 2026-10-24)
 
