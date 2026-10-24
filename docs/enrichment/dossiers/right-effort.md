@@ -85,6 +85,8 @@ The Sutta's own statement of the calibration:
 
 ### The stories
 
+The compendium holds right effort in narrative form too:
+
 [ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived.
 
 [ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya asks three times to practise in a mango grove that looks ideal, and alone beneath the tree is troubled by thoughts of sensuality, ill will and harm; wanting to exert oneself is not yet knowing what to cultivate.
