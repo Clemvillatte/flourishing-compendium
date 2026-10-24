@@ -26,6 +26,9 @@ The account runs on a conditional: "If a person could be fully open to his exper
 
 - [Rogers, "The Good Life and the Fully Functioning Person" (1953), section "An Increasing Openness to Experience", in On Becoming a Person (1961), reproduced excerpt (Panarchy)](https://www.panarchy.org/rogers/person.html) — openness to experience passages; quotations verbatim; book page numbers not inspected
 
+## Stories
+- [[ST471 — Mill's Irrepressible No|471. Mill's Irrepressible No]]
+
 ## Psychology parallels
 
 - **[[Openness|Openness to experience as predictor of growth and adaptation]]** (McCrae and Costa, 1997)

@@ -258,6 +258,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST450 — The Tug-of-War Beside the Ravine]]
     - [[ST452 — The Calmness Test That Adds a Threat]]
     - [[ST453 — A Bus With More Than One Kind of Passenger]]
+    - [[ST471 — Mill's Irrepressible No]]
   - [[ST-S03.05 — III.5 Habit, Conduct, and Intelligent Action]]
     - [[ST116 — Dewey Breaks the Reflex Arc]]
     - [[ST117 — James and the Plastic State]]
