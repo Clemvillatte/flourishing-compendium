@@ -93,8 +93,9 @@ the supervisor's publication decision.
    note that called it supporting-not-quoted).
 
 The dossier body quotes three external carriers (Emmons PDF,
-Algoe 2012, Algoe et al. 2010); the Seneca, Aristotle and SN 7.2
-passages above support map and story lines without direct quotation.
+Algoe 2012, Algoe et al. 2010); the Seneca and Aristotle passages
+above support map lines without direct quotation, and SN 7.2 is
+quoted in the Gift Nobody Accepted logline.
 The remaining practice material is compressed from the cards, each of
 which carries its own sources.
 
@@ -126,9 +127,15 @@ a clearly labelled neighbouring practice), rather than mere mention.
 Inclusions and exclusions with reasons, recorded for the supervisor:
 
 Full-review record (advisor QC round 2): the 178 files were
-inspected in two batches, each filename with its first
-gratitude-matching fragment read; the decisions below name the
-categories with representative cards.
+inspected in two batches, 102 non-principle/kernel files and 76
+principle/kernel files, each filename with its first
+gratitude-matching fragment read; the extraction records the first
+match, which in some files is a backlink list or a source citation
+rather than the substantive passage, and those files were classified
+as backlink-only or citation-only and excluded without a full read;
+body-evidence fragments were read before the inclusion decisions
+below. The decisions name the categories with representative
+cards.
 
 - The positive-affect family that mentions gratitude in passing
   (Broaden-and-build, Positive activity interventions,
