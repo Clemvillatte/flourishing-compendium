@@ -1,8 +1,9 @@
 # Agency
 
-- [Narrative identity](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20identity) — who the one doing the running is; agency asks what a person can run, identity asks what is running it.
-- [Intrinsic motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20motivation) — the doing for its own sake; agency asks whether the doing is one's own, this asks what makes it worth doing.
-- [Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals) — the aims the acting is for; this page holds the capacity to act itself.
+- [Narrative identity](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20identity) — Ricoeur's self as told, an answer to the who question; agency asks what a person can run, this asks who is running it.
+- [Intrinsic motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20motivation) — the doing of an activity for its inherent satisfaction; agency asks whether the doing is one's own, this names the doing that needs no further reason.
+- [Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals) — the pull toward intrinsic aspirations, affiliation, growth and community contribution; the aims the acting is for, where this page holds the capacity to act.
+- [Locus of evaluation](https://clemvillatte.github.io/flourishing-compendium/#card=Locus%20of%20evaluation) — where judgments of worth are taken from; this page holds control over actions and their outcomes, that one the source of the verdicts.
 - [Wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Wisdom) — the judgment about where to spend the say; wisdom uses it, this page asks what it is.
 
 These are the nearest entries, not the scope.
@@ -39,7 +40,7 @@ Epictetus draws the line the whole theme keeps returning to:
 
 [Pragmatism](https://clemvillatte.github.io/flourishing-compendium/#card=Pragmatism): the tradition that, in the SEP's words, understands knowing the world as inseparable from agency within it; Peirce, James and Dewey, with the pragmatic maxim as its core.
 
-Dewey's frame turns agency from a possession into a circuit: the seeing is already shaped by prior reaching, and the outcome reshapes the next seeing. On this view the capacity grows by the same route a skill grows, through conduct and its consequences, which is why the research below keeps returning to practice and mastery rather than to insight alone.
+Dewey's frame turns agency from a possession into a circuit: the seeing is already shaped by prior reaching, and the outcome reshapes the next seeing. On this view the capacity grows by the same route a skill grows, through conduct and its consequences.
 
 ### Where the say is believed to sit
 
@@ -125,11 +126,19 @@ Dewey's frame turns agency from a possession into a circuit: the seeing is alrea
 
 ## Where the traditions genuinely disagree
 
-### Is control over outcomes, or only over effort?
+### What the person's say covers
 
-The Stoic division gives a person judgment, pursuit and effort, and explicitly withholds the rest: body, property, reputation and command are not our own actions, and treating them as if they were is where misery enters. Rotter's internal control is a belief about reinforcement, about outcomes contingent on one's behaviour; Bandura's efficacy expectation is a belief that one can execute the act the outcome requires, which he marks off from expecting the outcome itself.
+Epictetus divides the world in the first line of the Enchiridion and states the price of getting the division wrong:
 
-Whether these two vocabularies contradict each other is harder to establish than it looks, and I record it as unresolved rather than settled. The textual contrast is real: Epictetus withholds the outcomes, and the two expectancy constructs are built around perceived contingency between acts and outcomes. But the passages opened for this page do not show the psychological tradition asserting that outcomes are up to a person; they show it predicting effort and persistence from the belief. Rothbaum's group is the closest meeting point, reading alignment with forces as control rather than surrender, which is near the Stoic move while keeping the motive an experienced sense of control. Whether the say is lodged in the doing or in the outcome is left standing, and flagged in the ledger as a divergence not verified from the sources.
+> "The things in our control are by nature free, unrestrained, unhindered; but those not in our control are weak, slavish, restrained, belonging to others. Remember, then, that if you suppose that things which are slavish by nature are also free..." ([Epictetus, Enchiridion 1, Elizabeth Carter translation](https://classics.mit.edu/Epictetus/epicench.html))
+
+Rotter's construct runs on the other side of that line: internal control is the perception that events are contingent on one's own behavior or relatively permanent characteristics, an expectancy Rotter hypothesized to be of major significance for learning. The two texts answer the same question, where the weight of a self can defensibly be placed, and in opposite directions: Epictetus puts it on the act and warns against the outcome; the control tradition puts it on the perceived tie between acts and outcomes.
+
+Bandura's theory carries the split inside itself. In the 1977 article he separates the two expectations outright:
+
+> "An outcome expectancy is defined as a person's estimate that a given behavior will lead to certain outcomes. An efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes." ([Bandura, Psychological Review 84(2), 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf))
+
+The conviction of being able to execute, not the estimate of what follows, is what his system assigns the causal work in initiation and persistence. That is the Stoic line drawn in psychological dress, though Bandura draws it for predictive reasons and Epictetus for the sake of peace.
 
 ## Practice: variation, selection, retention
 
@@ -153,7 +162,7 @@ The stories that carry the theme's aspects, one line each; the full telling live
 
 ### The say reclaimed
 
-[ST347 — The First Act of Free Will](https://clemvillatte.github.io/flourishing-compendium/#card=ST347%20%E2%80%94%20The%20First%20Act%20of%20Free%20Will): William James, after years of suffering and thoughts of taking his life, closes Renouvier's Essais and records the April 30, 1870 entry: his first act of free will shall be to believe in free will.
+[ST347 — The First Act of Free Will](https://clemvillatte.github.io/flourishing-compendium/#card=ST347%20%E2%80%94%20The%20First%20Act%20of%20Free%20Will): William James, after years of suffering and thoughts of taking his life, finishes the first part of Renouvier's second Essais and records the April 30, 1870 entry: his first act of free will shall be to believe in free will.
 
 [ST302 — Billi and the Two Autonomies](https://clemvillatte.github.io/flourishing-compendium/#card=ST302%20%E2%80%94%20Billi%20and%20the%20Two%20Autonomies): a Chinese-American writer raised in the American framework of individual autonomy and disclosure meets a family that withholds a terminal diagnosis so the patient can live her time in peace; the film leaves whether the secret was right unresolved.
 
@@ -169,4 +178,4 @@ The stories that carry the theme's aspects, one line each; the full telling live
 
 [ST232 — Charlie Goes Back to Country](https://clemvillatte.github.io/flourishing-compendium/#card=ST232%20%E2%80%94%20Charlie%20Goes%20Back%20to%20Country): an elderly Yolngu man caught between two systems leaves for the bush to live on Country as he was taught, becomes ill, is taken into custody, and ends teaching a young man, in a cage, the songs of the land.
 
-[ST233 — Molly Craig Walks the Fence](https://clemvillatte.github.io/flourishing-compendium/#card=ST233%20%E2%80%94%20Molly%20Craig%20Walks%20the%20Fence): three girls removed under the mixed-descent policy escape the Moore River settlement and follow the state's rabbit-proof fence 1,600 kilometres home, nine weeks of walking, one recaptured on the way.
+[ST233 — Molly Craig Walks the Fence](https://clemvillatte.github.io/flourishing-compendium/#card=ST233%20%E2%80%94%20Molly%20Craig%20Walks%20the%20Fence): Molly, Gracie and Daisy are removed from Jigalong and taken 1,600 kilometres north to the Moore River settlement; the three escape and follow the state's rabbit-proof fence, nine weeks of walking, Gracie recaptured along the way.
