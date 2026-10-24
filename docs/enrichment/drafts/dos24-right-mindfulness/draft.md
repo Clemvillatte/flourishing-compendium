@@ -121,6 +121,14 @@ From the same essay:
 
 These excerpts emphasize different aspects of mindfulness: purposeful, nonjudgmental awareness in the clinical definition, and keeping the practice and its purpose in mind in Thanissaro's account. They do not, by themselves, establish a contradiction. The wiki holds both, the clinical family's cards on one side and the sati cards and this essay on the other, and records the question as open.
 
+### Is bare attention part of sati?
+
+Nyanaponika Thera makes bare attention the core of the practice:
+
+> "Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation." ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)): Primary text by a monastic scholar; quoted passages checked.
+
+Thanissaro assigns it elsewhere, as the passage quoted above says: functions like bringing bare attention to the breath "are actually functions for other qualities in the mind. They're not automatically a part of sati." The two monastic writers give incompatible answers to the same question, whether bare attention belongs to sati: one makes it the key to satipatthana, the other assigns it to other mental qualities. The wiki holds both, the Bare attention card on one side and the sati cards and Thanissaro's essay on the other, and does not reconcile them.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the default setting of the unattended life: experience passing unexamined, the body noticed only when it complains, attention captured by whatever arrives loudest. The adaptive direction is the factor's own shape, awareness established on some frame of the present, breath, body, feeling or thought, and returned to without drama when it wanders.
