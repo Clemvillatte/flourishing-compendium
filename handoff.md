@@ -1937,3 +1937,123 @@ communication (5638ba0c). Stale batons maintenance and k1a force-released. Flags
 (1) the concurrent ct2 worker built a 19-iteration saga including re-minting a retired
 band — a protocol violation for the owner; (2) squash commit 0bb52bd1 (markers reached
 origin briefly); (3) api_push.py is the only working push channel.
+
+## Supervisor session — 2026-10-24 (supervisor-pplx-metafix-1024a)
+
+Owner directives executed, in order received:
+
+1. META-TEXT BAN (dossiers + site): the formulaic dossier openers ("This
+   dossier is a map, not an essay", "A reader who thinks...", "The lines
+   are short on purpose", "How to read this page", editorial narration)
+   are banned everywhere, not just the quoted excerpts but "any type of
+   meta-text that sounds AI-generated". Enforced by dossier_check.py
+   banned-phrase floor (README dossiers structure item 5 carries the full
+   rule; passing the checker is not licence for meta-text it cannot see).
+   All 23 dossiers swept; openers rewritten substantively per theme;
+   Academy view data rebuilt for all 15 published dossiers.
+2. FIRST-PERSON VOICE (site-wide): the compendium speaks as a thinker
+   recording what he learned, read, thought and the connections he makes;
+   institutional third person ("the compendium's view/page/label", "the
+   wiki holds", "this page approaches") converted to I/my across ~2900
+   content pages, all dossiers, registry scopes and the Academy UI
+   subtitle. Rule written into HUMANIZER-SKILL.md ("The voice of the
+   site"); enrich_validate.py now warns on institutional-voice markers.
+   NOTE: the bulk regex conversion mangled 18 sentences (irregular verbs
+   after "the compendium": is->"I i", this->"I thi", does->"I doe",
+   goes->"I goe", its->"I it", as->"I a"); all found and repaired in the
+   follow-up commit. Any future bulk sweep must grep for these patterns.
+3. PLAIN SPEECH (HUMANIZER-SKILL.md new section, advisor-reviewed): the
+   owner suspects an "arcane-sounding filter"; the audience is the
+   layperson; the truer word is kept when it carries more truth (affect
+   over emotion where true) and glossed in ordinary words on first use.
+   The advisor corrected the first draft: paraphrase tests are clarity
+   checks, NOT proof of fake depth; procedure = list what must survive,
+   check the source in context, compare claim by claim, then choose
+   rewrite / retain-with-gloss / leave-and-flag. When in doubt, retain
+   the original and add a plain gloss. Owner's worked example (BG 3.6 /
+   17.18 in Y040) rewritten plainly as demonstration.
+4. GENUINE FLOURISHING reworked into an interwoven thread (owner sketch:
+   flourish/flower root, first-glance meaning, conflict, genuine from
+   genuinus/genus "of one's own stock"): etymologies verified against
+   opened carriers (Wiktionary flourish, genuine, genus#Latin), all 147
+   card links and existing verified quotes kept, all map sections
+   converted from bare lists to woven prose, checker passes (25
+   external carriers). ADVISOR FLAG, not yet fixed: the woven sections
+   still read as semicolon-chained lists in places; a revision pass to
+   make each paragraph genuinely develop a question is queued before this
+   becomes the new exemplar. DO NOT adopt as exemplar yet.
+5. Flags for next sessions: (a) GF revision pass (semicolon chains); (b)
+   plain-speech pass across the corpus is a programme, not a sweep:
+   agents apply the HUMANIZER procedure per page; (c) the three etymology
+   carriers need recording in the GF evidence ledger
+   (docs/enrichment/sources/dossiers/genuine-flourishing.md).
+
+## WORK ORDER — GF exemplar revision (next session, ready to run)
+
+Task: finish the genuine-flourishing rework so it can be promoted to
+the new exemplar, then rework the remaining dossiers per the new rules.
+
+### Owner requests, verbatim (2026-10-24 session)
+
+1. "Priority 1: Make sure that dossiers don't contain these types of
+   meta-texts: 'This dossier is a map, not an essay...' ... It should
+   sound human and real... starting with a definition, a proposition, a
+   complement, a contradiction, a solution, anything, but don't make it
+   formulaic... agents [must] think, reason and think what is most
+   suitable to the dossier at hand."
+2. GF rework: "less like a plain list of concepts and principles and
+   more like an interwoven, coherent and engaging thread... a
+   conversation being created to explore the topic".
+3. "when I say meta-text, it is not necessarily only the excerpt I
+   provided, it is any type of meta-text like that sounding
+   AI-generated."
+4. "It should all say 'I', the Compendium is supposed to sound like a
+   private place in which a thinker recorded what he learned, read and
+   thought and the connections he makes about them."
+5. "a lot of the language (not considering reference quotes) on the
+   website seems very obscure and over-complicated... a bit of an
+   'arcane-sounding' filter rather than the right language containing
+   the knowledge and wisdom."
+6. "I don't want to dumb down, over-simplify, warp or denature the
+   writing, knowledge and principles."
+7. "the compendium is a medium for a writer who speaks to the
+   layperson... sometimes, it IS hard to use a word when you know
+   another one conveys more truth... people use 'Emotion' for all
+   states, when 'Affect' would actually be more rich... People say 'I
+   want to be happy', when often, they'd better think 'I want to walk
+   a process between contentment and flourishing'."
+8. "I'm just scared that because I gave this example, they are all
+   going to use the latin roots and stuff like that." (etymology is
+   one move among several, NOT the house style; vary the move across
+   dossiers — now a written rule.)
+
+### Rules (all in docs/enrichment/HUMANIZER-SKILL.md)
+
+Meta-text ban; voice of the site (first person); plain speech
+(layperson audience, truer-word principle, gloss on first use,
+checking procedure); topic-dependence rule for openings and bodies
+(transfer test; semicolon chains banned). dossier_check.py enforces
+the bans; enrich_validate.py warns on institutional voice.
+
+### GF revision scope (punch list in
+docs/enrichment/sources/dossiers/genuine-flourishing.md, "Exemplar
+revision punch list")
+
+8 chain-heavy lines remain: 6 in "The map: the entries on
+flourishing", 2 in "Where the traditions genuinely disagree". Keep
+every card link (147) and every claim; rewrite each chain as 2-3
+woven sentences; verify claim-by-claim against the cards; run
+python3 scripts/dossier_check.py on the dossier (must exit 0),
+python3 scripts/dossier_registry_build.py --rebuild=genuine-flourishing,
+and the render test. Advisor QC required before exemplar promotion.
+GF's opening movement is already exemplar-grade — do not touch it.
+
+### State at handoff
+
+Voice sweep + rules + GF rework + quick-fixes pushed via api_push.py
+(this session); punch-list commit and this work order follow in a
+small push. api_push.py is the ONLY working push channel (git push
+fails from the sandbox); it now uploads concurrently with a resume
+cache. Claim the baton per protocol before working. Do not bulk-regex
+prose; any regex pass must grep the mangle patterns ("I i", "I thi",
+"I doe", "I goe", "I it", "I a").

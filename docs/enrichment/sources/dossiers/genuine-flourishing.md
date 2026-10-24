@@ -226,3 +226,46 @@ by diff: everything before "## Story:" in the dossier is byte-identical to the
 pre-enrichment parent (4aa8768fb^), confirming the concurrent-session insert
 collision left no residue in the map. dossier_check.py exits 0 (147 card
 links, 23 headers, 22 external carriers).
+
+### Essay-thread rework: etymology carriers (2026-10-24, supervisor-pplx-metafix-1024a)
+
+The opening movement of the dossier was reworked into an interwoven thread
+per the owner's sketch (flourish/flower root; first-glance meaning; the
+conflict; genuine from genuinus/genus, "of one's own stock"). Two new
+quoted passages were added; both carriers were opened and the quotes
+compared word-for-word against the fetched page text this session:
+
+1. https://en.wiktionary.org/wiki/flourish — "From Middle English
+   floryschen, from Old French florir (via the arrhizotonic stem
+   floriss-), from Late Latin flōrīre, from Latin flōrēre, from Latin
+   flōrem ("flower", noun). Corresponds to flower + -ish."
+2. https://en.wiktionary.org/wiki/genuine — "Borrowed from Latin
+   genuīnus, from genus + -ūs."
+3. https://en.wiktionary.org/wiki/genus#Latin — "From Proto-Italic
+   *genos, from Proto-Indo-European *ǵénh₁os n ("race"), from the root
+   *ǵenh₁- ("to produce, beget")"; first-listed senses "birth, origin,
+   lineage, descent" and "kind, type, class".
+
+etymonline.com was tried first and refused the fetch (client error);
+Wiktionary pages were fetched directly (curl + rendered text) and the
+quotes above match the page text as printed. The etymology prose claims
+in the new opening ("a word whose senses run from birth, origin,
+lineage and descent to kind and type") restate the carrier's own
+sense list. All 147 card links and all previously verified quotes kept
+unchanged; dossier_check.py exits 0 (25 external carriers). Remaining
+flag from advisor QC: the woven map sections still read as
+semicolon-chained lists in places; revision pass queued before this
+dossier becomes the new exemplar.
+
+### Exemplar revision punch list (2026-10-24, supervisor-pplx-metafix-1024a)
+
+Concrete scope for the queued revision pass (next session, before GF
+becomes the exemplar). Semicolon-chain scan of the current file: 6
+chain-heavy lines (3+ semicolon-separated clauses) in "The map: the
+entries on flourishing" and 2 in "Where the traditions genuinely
+disagree"; the other map sections are clean. Method per line: keep
+every card link and every claim, rewrite the chain as 2-3 woven
+sentences in the plain-speech register, verify claim-by-claim against
+the cards, re-run dossier_check.py (147 links, 25 carriers) and the
+render test, then advisor QC before promoting to exemplar. Estimated
+one focused session-hour.
