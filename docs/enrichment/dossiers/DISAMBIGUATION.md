@@ -57,10 +57,13 @@ matrix row as evidence.
 | Term family | Umbrella dossier | Nearby terms | Status |
 |---|---|---|---|
 | Anger | Anger (published) | irritation, resentment, contempt, rage, indignation | published — an editorial treatment, not a settled scholarly classification |
-| Anxiety | Anxiety (planned) | stress, worry, angst, fear, dread, apprehension | matrix to be built by the Anxiety writer |
-| Happiness | Happiness (planned) | joy, contentment, pleasure, subjective well-being | boundary vs Genuine Flourishing set in the registry |
+| Anxiety | Anxiety (published) | stress, worry, angst, fear, dread, apprehension | matrix built: stress stays a nearby term (about 17 stress cards, candidate for a standalone Stress dossier, supervisor decision); fear, worry and angst kept inside Anxiety as map groups; dread and apprehension have no cards. See sources/dossiers/anxiety.md |
+| Happiness | Happiness (published) | joy, contentment, pleasure, subjective well-being | boundary vs Genuine Flourishing set in the registry |
 | Self | The Self (published) | identity, ego, self-concept | published |
-| Motivation | Motivation (planned) | desire, craving, drive, willpower | Goals and Agency are separate dossiers by owner direction, not nearby terms |
+| Motivation | Motivation (published) | desire, craving, drive, willpower | Goals and Agency are separate dossiers by owner direction, not nearby terms; Goals (published) holds pursuit and disengagement, willpower and weakness of will sit in Decision-Making |
+| Decision-making | Decision-Making (published) | choice, judgement, heuristics, akrasia | decision research here, reasoning styles in Cognition |
+| Uncertainty | Uncertainty (published) | ambiguity, impermanence, risk, not knowing | risk research sits with Decision-Making, worry with Anxiety |
+| Overload and overwhelm | Overload and Overwhelm (published) | burnout, cognitive load, saturation, stress | attention capture shared with Attention; stress physiology with a possible Stress dossier |
 
 ## First task of the Anxiety writer
 
