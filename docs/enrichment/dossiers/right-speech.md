@@ -9,7 +9,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 ### Nearby terms
 
 - Truthful speech: held in the truth-telling group below.
-- Right communication and speech ethics: the modern relatives, in their own group below.
+- Right communication and speech ethics: the modern relatives, spread through the groups below.
 - Idle talk and gossip: the abstentions group below.
 - Listening: its own group below; listening is the other half of speech and the wiki treats it as a practice in its own right.
 
