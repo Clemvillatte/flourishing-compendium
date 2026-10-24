@@ -15,3 +15,11 @@ Verification record for docs/enrichment/dossiers/goals.md, revision 1.
 - Not opened this run: Carver and Scheier, Oettingen, Amabile and Kramer, Emmons and King, Little. Glosses follow the card openings; the word-overlap check flagged one (progress principle), fixed.
 - Boundary with Motivation and Decision-Making dossiers as stated in Nearby terms. The Commitment devices card (Ariely and Wertenbroch) is not listed here: see the retraction flag in the Decision-Making ledger.
 - Story loglines were compressed from the openings of the story cards.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Five public verification-status labels removed and relocated here.
+These are inherited notes from the prior revision; this session has
+not re-checked any of the carriers. Contiguous bullet blocks were
+re-formatted as separate paragraphs; no gloss, link or quotation was
+changed.

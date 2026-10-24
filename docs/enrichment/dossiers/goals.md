@@ -6,9 +6,11 @@ A goal is a promise a person makes to a future self, and the promise can serve t
 
 ### Nearby terms
 
-- Motivation: why a person acts is held in the Motivation dossier; this page holds what they aim at and how they steer toward it.
-- Purpose: held under its own group below, as the aim that outlasts any single goal.
-- Commitment: held under the commitment cards below; weakness of will and commitment devices belong with Decision-Making.
+Motivation: why a person acts is held in the Motivation dossier; this page holds what they aim at and how they steer toward it.
+
+Purpose: held under its own group below, as the aim that outlasts any single goal.
+
+Commitment: held under the commitment cards below; weakness of will and commitment devices belong with Decision-Making.
 
 ## The map: the entries on goals
 
@@ -104,11 +106,11 @@ A goal is a promise a person makes to a future self, and the promise can serve t
 
 The shared question: when a goal is hard, is the right move to keep raising effort or to stop? Locke and Latham's summary of the goal-setting evidence supports pushing:
 
-> "specific, high (hard) goals lead to a higher level of task performance than do easy goals or vague, abstract goals such as the exhortation to ‘‘do one's best.’’" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf)): Secondary source; quoted passage checked.
+> "specific, high (hard) goals lead to a higher level of task performance than do easy goals or vague, abstract goals such as the exhortation to ‘‘do one's best.’’" ([Locke and Latham, Current Directions in Psychological Science 2006](https://www.nj.gov/highereducation/documents/pdf/NewAdvancesinGoalSettingTheory-Locke_Latham2006.pdf))
 
 They add a condition that matters here: the pattern holds "so long as a person is committed to the goal, has the requisite ability to attain it, and does not have conflicting goals". The research on goal disengagement answers from the other side:
 
-> "when people are faced with situations in which they cannot realize a key life goal, the most adaptive response for mental and physical health may be to disengage from that goal." ([Wrosch and colleagues, Psychological Science 2007](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSC_2007.pdf)): Secondary source; quoted passage checked.
+> "when people are faced with situations in which they cannot realize a key life goal, the most adaptive response for mental and physical health may be to disengage from that goal." ([Wrosch and colleagues, Psychological Science 2007](https://www.concordia.ca/content/dam/artsci/wrosch-lab/documents/PSC_2007.pdf))
 
 The two answers describe different situations. The first applies while a goal is within reach of ability; the second applies when it has become unattainable. The hard part, for a person living through it, is that the sorting of the two cannot be done from outside.
 
@@ -116,9 +118,9 @@ The two answers describe different situations. The first applies while a goal is
 
 The shared question: if a goal expresses who you are, does that help you through failure? A study of autonomous and controlled motives found both effects:
 
-> "Autonomous motives positively predicted the cognitive ease of reengagement with an alternative goal when the current goal was perceived as unattainable, especially when participants realized goal unattainability relatively early during goal striving." ([Self-regulatory responses to unattainable goals, PMC abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)): Secondary source; quoted passage checked.
+> "Autonomous motives positively predicted the cognitive ease of reengagement with an alternative goal when the current goal was perceived as unattainable, especially when participants realized goal unattainability relatively early during goal striving." ([Self-regulatory responses to unattainable goals, PMC abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/))
 
-> "Autonomous motives, however, were negative predictors of cognitive ease of disengagement from an unattainable goal." ([same abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/)): Secondary source; quoted passage checked.
+> "Autonomous motives, however, were negative predictors of cognitive ease of disengagement from an unattainable goal." ([same abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104823/))
 
 The abstract's own summary is that "when faced with failure, autonomously motivated individuals are better off realizing early the goal unattainability." So the preference for self-concordant goals comes with a cost that a reader should know about: a goal that is truly yours is harder to put down.
 
@@ -128,7 +130,7 @@ The abstract's own summary is that "when faced with failure, autonomously motiva
 
 ::Selection:: The kernels I have selected as sources of that variation:
 
-1. [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): formulate a specific if-then plan. A meta-analysis of 94 independent tests found that such plans had "a positive effect of medium-to-large magnitude (d= .65) on goal attainment" ([Gollwitzer and Sheeran 2006, University of Konstanz record](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f)): Secondary source; quoted passage checked.
+1. [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): formulate a specific if-then plan. A meta-analysis of 94 independent tests found that such plans had "a positive effect of medium-to-large magnitude (d= .65) on goal attainment" ([Gollwitzer and Sheeran 2006, University of Konstanz record](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f))
 
 2. [Mental contrasting (WOOP)](https://clemvillatte.github.io/flourishing-compendium/#card=K154%20%E2%80%94%20Mental%20contrasting%20%28WOOP%29): identify a wish, the best outcome, the main obstacle and a plan.
 
