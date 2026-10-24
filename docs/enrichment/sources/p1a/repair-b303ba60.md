@@ -192,3 +192,10 @@ are not certified by this body-level review.
 - Evidence: retained quotation matches X.8 verbatim. X.7–8 ranks the lives; Kraut's specific interpretation distinguishes attained understanding from the learning process and retains practical virtue without making its exercise the philosopher's ultimate end. Politics VII.3 expressly includes self-contained thought within activity.
 - Disposition: the existing body already preserves this tension and labels combining understanding with practical responsibilities as its own proposal. Retained unchanged; the mathematical-proof example illustrates an understanding already possessed rather than equating all reflection with theoria.
 - Limits: no claim that a modern balanced schedule resolves the interpretive dispute, or that Aristotle ranks the two activities equally.
+
+## D019: Knowing enough
+
+- Opened: [Daodejing, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm), complete text, chapters 44 and 46; [Chan, Laozi](https://plato.stanford.edu/entries/laozi/), §7 extraction, revisited for natural needs and self-gratifying desire.
+- Evidence: the retained four-line verse matches chapter 44; “enduring and unchanging” is chapter 46. Chan distinguishes basic human needs from desire for self-gratification that knows no end.
+- Repair: Plain words now explains sufficiency before inviting its use. Retained the freelancer case's concrete obligations, revisable limit and refusal to prescribe either accepting or declining as invariably wise.
+- Limits: contentment is not a reason to impose deprivation, deny unmet needs or set someone else's sufficient income. The modern time/attention trade-off is the page's application, not a quotation from Laozi.

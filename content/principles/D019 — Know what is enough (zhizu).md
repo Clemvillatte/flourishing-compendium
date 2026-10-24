@@ -26,7 +26,7 @@ As an application, decide what would meet a need before allowing every further o
 
 ### Plain words
 
-Ask what you want the next gain to provide and whether you already have enough for that purpose. Include genuine obligations in that judgment. You can then weigh another gain against what obtaining it would require, rather than assuming that more is always necessary.
+Enough is a judgment about what meets a need. Once that need is met, another gain may cost time or attention you want to give elsewhere. Genuine obligations still matter when you make that judgment; an unmet need does not become sufficient merely because someone calls it so.
 
 ### For example
 
