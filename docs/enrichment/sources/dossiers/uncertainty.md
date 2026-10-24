@@ -22,3 +22,8 @@ These are inherited notes from the prior revision; this session has
 not re-checked any of the carriers. Contiguous bullet blocks were
 re-formatted as separate paragraphs; no gloss, link or quotation was
 changed.
+### Removed carriers detail (recovered from git, inherited notes)
+
+- Keats, Letters (Gutenberg) — Primary text
+- Intolerance of Uncertainty Model, PMC abstract — Secondary source
+- Epictetus, Enchiridion 1 (Carter, MIT Classics) — Primary text

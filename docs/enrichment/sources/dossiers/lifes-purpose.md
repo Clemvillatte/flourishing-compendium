@@ -282,3 +282,19 @@ has not re-checked any of the carriers. Contiguous bullet blocks were
 re-formatted as separate paragraphs (one entry per paragraph) so no
 block exceeds the 150-visible-word floor; no gloss, link or quotation
 was changed.
+### Removed carriers detail (recovered from git, inherited notes)
+
+- Steger, Meaning in Life, Oxford Handbook of Positive Psychology
+  (x2) — Scholarly interpretation
+- Frankl, Man's Search for Meaning (x8, various sections) — Primary
+  text
+- Frankl, "Tragic Optimism", lecture excerpt — Primary text
+- Aristotle, Nicomachean Ethics I.7 (Ross) — Primary text
+- Weber, The Protestant Ethic and the Spirit of Capitalism ch. III
+  (x2) — Primary text
+- Yeager et al. 2014, JPSP p. 560 — Primary text
+- Park, The Meaning Making Model, EHP (x2) — Scholarly interpretation
+- Kelly, The Psychology of Personal Constructs — Primary text
+- Plato, Apology 31c-d (Jowett) — Primary text
+- Camus, The Myth of Sisyphus (O'Brien, x4) — Primary text
+- Jaspers, Way to Wisdom — Primary text

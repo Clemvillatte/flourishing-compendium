@@ -23,3 +23,10 @@ These are inherited notes from the prior revision; this session has
 not re-checked any of the carriers. Contiguous bullet blocks were
 re-formatted as separate paragraphs; no gloss, link or quotation was
 changed.
+### Removed carriers detail (recovered from git, inherited notes)
+
+- Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract —
+  Secondary source
+- Later meta-analysis abstract, PubMed Central — Secondary source
+- Comment on the three meta-analyses, PubMed — Secondary source
+- Deci and Ryan, Canadian Psychology 2008 — Secondary source

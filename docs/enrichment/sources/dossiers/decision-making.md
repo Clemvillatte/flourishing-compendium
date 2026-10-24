@@ -30,3 +30,15 @@ These are inherited notes from the prior revision; this session has
 not re-checked any of the carriers. Contiguous bullet blocks were
 re-formatted as separate paragraphs (one entry per paragraph) so no
 block exceeds the 150-visible-word floor; no gloss or link changed.
+### Removed carriers detail (recovered from git, inherited notes)
+
+- Gigerenzer and Gaissmaier, Annual Review of Psychology 2011,
+  abstract (x2) — Secondary source
+- Kahneman and Klein, American Psychologist 2009, abstract — Secondary
+  source
+- Iyengar and Lepper, JPSP 2000, abstract — Secondary source
+- Scheibehenne, Greifeneder and Todd, Journal of Consumer Research
+  2010, abstract — Secondary source
+- Aristotle, Nicomachean Ethics VII.2 (Ross) — Primary text
+- Wilson and Gilbert, Current Directions in Psychological Science
+  2005, abstract — Secondary source

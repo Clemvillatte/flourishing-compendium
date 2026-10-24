@@ -214,3 +214,11 @@ Contiguous bullet blocks were re-formatted as separate paragraphs;
 no card link, gloss or quotation was changed. As an exemplar, this
 dossier's format change should be reviewed by the supervisor before
 being treated as the new reference.
+### Removed carriers detail (recovered from git, inherited notes)
+
+- SN 22.59 (Thanissaro) — Primary text
+- Dalal, SEP — Scholarly interpretation
+- Mil 3.1.1 (Rhys Davids) — Primary text
+- Deikman 1982 — Primary text
+- Hayes et al. 2013 — Scholarly review
+- Markus and Kitayama 1991 — Primary text

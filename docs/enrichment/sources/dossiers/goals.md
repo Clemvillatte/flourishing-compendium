@@ -23,3 +23,12 @@ These are inherited notes from the prior revision; this session has
 not re-checked any of the carriers. Contiguous bullet blocks were
 re-formatted as separate paragraphs; no gloss, link or quotation was
 changed.
+### Removed carriers detail (recovered from git, inherited notes)
+
+- Locke and Latham, Current Directions in Psychological Science 2006 —
+  Secondary source
+- Wrosch et al., Psychological Science 2007 — Secondary source
+- Self-regulatory responses to unattainable goals, PMC abstract (x2) —
+  Secondary source
+- Gollwitzer and Sheeran 2006, University of Konstanz record —
+  Secondary source

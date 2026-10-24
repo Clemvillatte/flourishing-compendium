@@ -234,3 +234,9 @@ Contiguous bullet blocks were re-formatted as separate paragraphs;
 no card link, gloss or quotation was changed. As an exemplar, this
 dossier's format change should be reviewed by the supervisor before
 being treated as the new reference.
+### Removed carriers detail (recovered from git, inherited notes)
+
+- Seneca, De Ira II.III (Stewart) — Primary text
+- Shantideva, Bodhicharyavatara VI.1 (Batchelor) — Primary text
+- Anger regulation research — Primary text
+- Aristotle, Nicomachean Ethics IV.5 (Ross) — Primary text

@@ -222,3 +222,12 @@ rework gated on GF approval).
 Posner, Russell and Peterson 2005 (PMC carrier) re-opened: all three
 quotes are verbatim; the two systems are the valence and arousal
 systems, as the dossier states. No discrepancy found.
+
+## Verification-narration removal (2026-10-25)
+
+The evidence-limits paragraph's verification-process phrases ("I
+verified no trial of these exact exercises", "no outcome claim I
+verified") were removed from the public prose per the customer-facing
+rule; the underlying scope facts (each kernel cited at second hand,
+no claim about study sizes or designs) remain stated in plain reader
+terms. The verification history itself belongs in this ledger.
