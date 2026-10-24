@@ -1471,7 +1471,22 @@
      "note": "story_check clean; MN 107 opened and quoted verbatim"
     }
    ]
+  },
+  "s1a-046": {
+   "status": "ready",
+   "angle": "P080: Ovid's Midas — the granted wish that turns the conditions of flourishing into gold",
+   "history": [
+    {
+     "t": "2026-10-24T14:12:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:13:29+00:00",
+     "to": "ready",
+     "note": "story_check clean; Ovid Book 11 opened and quoted verbatim"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:12:29+00:00"
+ "updated": "2026-10-24T14:13:29+00:00"
 }
