@@ -17,7 +17,7 @@ Each tradition takes the question apart differently. The Stoics ask what is ever
 
 [The dichotomy of control](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dichotomy%20of%20control): Epictetus's division in Enchiridion 1 between what is up to us (opinion, pursuit, desire, aversion, our own actions) and what is not (body, property, reputation, command).
 
-[Freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Freedom): the capacity to act from one's own understanding rather than from compulsion or passion; the entry gathers the political, moral and inner senses of the word.
+[Freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Freedom): the capacity to act from one's own understanding rather than from external compulsion or internal passion; the word gathers political liberty, autonomy, and liberation from craving or fear.
 
 [Positive freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20freedom): Berlin's second sense of liberty: the wish to be one's own master, the presence of a self in charge rather than the mere absence of interference.
 
@@ -91,7 +91,7 @@ Dewey's frame turns agency from a possession into a circuit: the seeing is alrea
 
 [Autonomous versus controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20versus%20controlled%20motivation): the comparison page: motivation sorted by its reasons rather than its strength.
 
-[Autonomy-supportive leadership](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20leadership): the supervisory behaviours SDT identifies as feeding the employee's needs rather than pressing on them.
+[Autonomy-supportive leadership](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20leadership): in self-determination theory, the interpersonal style of a person in authority who nurtures others' autonomous motivation rather than pressing them toward outcomes.
 
 [Autonomy-supportive management research](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20management%20research): Slemp, Kern, Patrick and Ryan's meta-analysis of perceived leader autonomy support, correlated strongly with autonomous work motivation.
 
@@ -109,7 +109,7 @@ Dewey's frame turns agency from a possession into a circuit: the seeing is alrea
 
 [Competence motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Competence%20motivation): White's proposal for the motive behind exploration and mastery, with effectance as the concept and a feeling of efficacy as its signature.
 
-[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): the immersed, energized state of full involvement in an activity; competence meeting a challenge that fits it.
+[Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): the immersed state of energized focus and full involvement in an activity; among its conditions, the balance of perceived challenge and perceived skill.
 
 ### Agency in the social world
 
