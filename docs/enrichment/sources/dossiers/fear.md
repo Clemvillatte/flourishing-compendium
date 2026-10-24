@@ -163,3 +163,7 @@ deleted the same way).
   cut; ST275 attribution cut; ST196 ambivalence restored; K117 evidence
   note corrected; Retention paragraph rewritten; S022-S024 line corrected
   (ledger records the earlier error).
+
+## Flag re-check (post-rev2, 2026-10-24 ~T+26)
+
+The four card-repair flags above were re-checked against the current card states: "Courage" (no Marcus/Meditations quote remains; Aristotle NE + IEP only), "The fearless mind" (MN 58 quotes with MN 58 sources; no Marcus 6.30 attribution remains), "The examination of fear" (Epicurus Menoeceus quotes with epicurus.net carrier; no Seneca De Beneficiis citation remains), and "Epicurean argument against the fear of death" (no Lucretius "fort without walls" quote remains). The flagged material was removed during the rev2 courage-cluster rewrite; the cards as pushed no longer carry the unverifiable quotes. The flags are RESOLVED for the cards' current states; the supervisor may still want to confirm the epicurus.net Cook translation carrier independently.
