@@ -192,6 +192,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST372 — Dighavu Puts the Sword Away Three Times]]
     - [[ST406 — The Old Cart at Beluva]]
     - [[ST462 — The Amish at Nickel Mines]]
+    - [[ST486 — Devadatta Wants the Sangha]]
   - [[ST-S02.08 — II.8 Daily Life — The Integration]]
     - [[ST088 — Paṭācārā Washes Her Feet]]
     - [[ST089 — Layman Pang Sinks the Fortune]]

@@ -26,6 +26,9 @@ This is a diagnostic system. If you can identify which root is operating in a gi
 
 - [[K173 — Creative hopelessness|K173 Creative hopelessness]]
 
+## Stories
+- [[ST486 — Devadatta Wants the Sangha|486. Devadatta Wants the Sangha]]
+
 ## Psychology parallels
 
 - **[[The wanting/liking dissociation|The wanting/liking dissociation]]**, craving and enjoyment run on separable systems (Berridge)
