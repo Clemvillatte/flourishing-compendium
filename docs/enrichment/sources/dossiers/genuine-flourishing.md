@@ -603,4 +603,17 @@ Restored Luke's single-priority interpretation explicitly as writer's
 reading. Distinguishes ordinary childhood resources, self-reported PTG,
 and system antifragility without prescribing adversity. The ethical
 priority of relieving avoidable suffering is both Frankl's actual
-qualification and the writer's declared stance.
+  qualification and the writer's declared stance.
+
+### Candidate pass 10: goals/energy without citation badges
+
+Eleven original card occurrences retained. Advisor factual alerts
+incorporated: compendium-owned growth label explicit; no inference that
+vital engagement predicts person-level well-being (hence no unnecessary
+study-methods digression); all actual limitations remain in ledger.
+Removed duplicate, misplaced Ryff quote, which repeated the measurement
+section. Primary Aristotle quote still meets validator.
+
+Source selection unchanged from pass1, all previously actually fetched.
+The advisor's proposed paragraphs still ran long; split and synthesised
+the useful factual corrections rather than importing the whole draft.
