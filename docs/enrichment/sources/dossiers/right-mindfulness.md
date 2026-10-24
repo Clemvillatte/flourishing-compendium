@@ -130,6 +130,45 @@ Thanissaro fragments, all FULL MATCH, checker exit 0 (50 card
 links, 11 headers, 6 external carriers). Both mirrors confirmed
 current with their dossiers of record.
 
+## Story-carrier verification (pass 11)
+
+Per the advisor's round-4 review, the newly added story loglines
+were checked against external carriers:
+- ST069 The Four Foundations: the MN 10 carrier was already open and
+  the direct-path quotation verified; the logline's narrative is
+  supported. KEPT.
+- ST074 The Five Hindrances as Thieves: the narrative (noticing when
+  a hindrance is present, when absent, how it arose and passed away)
+  is in MN 10's mental-qualities section, verified from the fetched
+  MN 10 page: "there being sensual desire present within, a monk
+  discerns that 'There is sensual desire present within me.' Or,
+  there being no sensual desire present within, he discerns that
+  'There is no sensual desire present within me.'" KEPT, with a
+  flag: the seed card cites MN 2 (Sabbasava Sutta) as carrier, and
+  the fetched MN 2 page does not contain the hindrance
+  present/absent formula (it teaches the fermentations); the card's
+  carrier link appears mismatched, the same pattern as ST085 in
+  dos19. FLAGGED for the supervisor.
+- ST061 Bahiya's Single Instruction: the Ud 1.10 carrier was opened
+  and read; the wording is "In reference to the seen, there will be
+  only the seen..." The logline was re-worded to the carrier's
+  wording and the "briefest teaching in the canon" superlative was
+  removed. KEPT.
+- ST068 The Sixteen Steps of the Breath: the MN 118 carrier was
+  fetched (29500 bytes, real content) but the expected instruction
+  wordings ("sixteen", "tetrads", "long breath", "breathes in
+  long") were not found in the cleaned text. The narrative could not
+  be verified within this session's window. The logline was REMOVED
+  from the dossier; the card remains a CANDIDATE, retained here, for
+  a later pass with more time to locate the wording in the
+  Thanissaro translation.
+- ST075 The Monkey Tied to the Post: the card attributes the simile
+  to the commentary tradition but cites DN 22 as carrier; the fetched
+  DN 22 page contains no monkey simile ("monkey", "tied to a post"
+  both absent). The logline was REMOVED from the dossier; the card
+  remains a CANDIDATE, retained here, for a later pass to find the
+  simile's actual carrier.
+
 ## Story-directory sweep (pass 9)
 
 The story directory was swept for on-theme cards (an earlier

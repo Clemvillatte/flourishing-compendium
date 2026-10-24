@@ -161,10 +161,6 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST069 — The Four Foundations](https://clemvillatte.github.io/flourishing-compendium/#card=ST069%20%E2%80%94%20The%20Four%20Foundations): the sutta opens by calling its practice the direct path for the purification of beings, then lays out the four frames of reference, body, feelings, mind and mental qualities.
 
-[ST068 — The Sixteen Steps of the Breath](https://clemvillatte.github.io/flourishing-compendium/#card=ST068%20%E2%80%94%20The%20Sixteen%20Steps%20of%20the%20Breath): the Buddha teaches mindfulness of breathing in sixteen steps through four tetrads, long and short breaths before the whole body, joy and the mind, impermanence and relinquishment; the sequence is the point, nothing is skipped.
-
-[ST075 — The Monkey Tied to the Post](https://clemvillatte.github.io/flourishing-compendium/#card=ST075%20%E2%80%94%20The%20Monkey%20Tied%20to%20the%20Post): a monkey ranges a whole forest until it is caught and tied to a post, and stays; the mind given a single object worth staying near does the same, and the monkey is not broken, it just needs somewhere to stand.
-
 [ST074 — The Five Hindrances as Thieves](https://clemvillatte.github.io/flourishing-compendium/#card=ST074%20%E2%80%94%20The%20Five%20Hindrances%20as%20Thieves): the Buddha catalogues five hindrances that obscure the mind, and the instruction is not to fight them but to know them, noticing when one is present, when absent, and how it arose and passed away.
 
-[ST061 — Bāhiya's Single Instruction](https://clemvillatte.github.io/flourishing-compendium/#card=ST061%20%E2%80%94%20B%C4%81hiya%27s%20Single%20Instruction): in the seen, only the seen; in the heard, only the heard; in the sensed, only the sensed; in the cognised, only the cognised; the briefest teaching in the canon, and bare perception entire.
+[ST061 — Bāhiya's Single Instruction](https://clemvillatte.github.io/flourishing-compendium/#card=ST061%20%E2%80%94%20B%C4%81hiya%27s%20Single%20Instruction): the Buddha's brief instruction to Bahiya, in reference to the seen, there will be only the seen; in reference to the heard, only the heard; the senses received without addition, and Bahiya awakens on the spot.
