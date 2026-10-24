@@ -881,3 +881,18 @@ test_enrich_validate.py defines no tests and no entry point (exits 0
 without testing anything — do not cite it as a passing suite).
 GF remains UNAPPROVED pending owner validation. Six-agent rollout
 stays blocked.
+
+### Final QC round 4 (advisor, time-capped): corrections applied
+
+- Epicurus "describe the goal of life by negation" jargon replaced
+  with plain "For him," per advisor instruction (links and claims
+  unchanged).
+- Storage-diagnosis retracted: the redeployed page showed previous
+  text until browser storage was cleared; the caching mechanism was
+  NOT traced in code, so no causal claim is recorded. Do not advise
+  clearing storage (the app stores user content edits there).
+- Completion claims narrowed in handoff.md: specific revised sections
+  listed; the link-hidden cold read did NOT include the classical,
+  practice or story sections; psychology/conditions sections were
+  confirmed in the live DOM but their visual layout was not separately
+  inspected (the classical section was the one visually inspected).

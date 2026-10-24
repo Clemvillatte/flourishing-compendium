@@ -3015,7 +3015,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Epicurus gives pleasure a different place. He tends to describe the goal of life by negation: [freedom from disturbance](card:Ataraxia) and [settled pleasure](card:Katastematic%20pleasure) make [freedom from bodily pain and mental distress](https://plato.stanford.edu/entries/epicurus/) central to a happy life. His [self-sufficiency](card:Autarky) encourages [contentment with little, alongside a high regard for friendship](https://plato.stanford.edu/entries/epicurus/)."
+          "x": "Epicurus gives pleasure a different place. For him, [freedom from disturbance](card:Ataraxia) and [settled pleasure](card:Katastematic%20pleasure) make [freedom from bodily pain and mental distress](https://plato.stanford.edu/entries/epicurus/) central to a happy life. His [self-sufficiency](card:Autarky) encourages [contentment with little, alongside a high regard for friendship](https://plato.stanford.edu/entries/epicurus/)."
         },
         {
           "t": "p",

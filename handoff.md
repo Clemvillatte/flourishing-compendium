@@ -23,26 +23,35 @@ lesson, an invented Aristotle/Epicurus opposition, unsupported
 classifications). Advisor QC was run on the first section and at the
 milestone; repairs applied.
 
-## SESSION CHECKPOINT (2026-10-24 13:09Z, supervisor-pplx-bridging-1024a)
+## SESSION CHECKPOINT (2026-10-24 13:12Z, supervisor-pplx-bridging-1024a)
 
-Bridging pass COMPLETE and deployed; GF is a revision candidate for the
-owner's full review — still UNAPPROVED. Done this session: all GF map
-sections threaded (6 passes), two advisor QC rounds with every flagged
-unsupported bridge repaired (see evidence ledger pass-17 entries),
-Academy data rebuilt and live-verified (desktop + 390px mobile, no
-underlined links), HUMANIZER-SKILL.md carries the Bridging rule for the
-future six agents, run-clock respected. Final commit 21740a5e.
-NOT done / honest limits: the disagreement sections were already
-question-led and only lightly touched; a continuous cold read-through of
-the final text by a fresh reader has not happened; the owner has not
-read the new prose. Six-agent rollout stays BLOCKED until owner
-validation of this revision. Recommended reading order for the owner:
-the classical, psychology and social-conditions sections — they expose
-the exact problem the owner raised. Process notes in the ledger:
+GF revised for bridging and deployed; it is a revision candidate for the
+owner's full review — still UNAPPROVED. Sections revised and reviewed
+this session: the classical accounts, psychology measures,
+goals/energy/engagement, the social conditions, finitude/authenticity/
+wabi-sabi, shared world, plus light bridges in meaning-when-life-hurts,
+freedom-to-choose, judging-a-whole-life and practices-fit sections. The
+disagreement sections were already question-led and only lightly
+touched. A link-hidden cold read covered the intro, nearby terms,
+goals/mistakes/meaning, recovery through shared-world, learning through
+judging, and the disagreement sections; the classical section was read
+in QC rounds but not in the final link-hidden pass; the practice and
+story lists were not re-read. Three advisor QC rounds; every flagged
+unsupported bridge repaired. Academy data rebuilt and deployed; browser
+verification: classical section inspected visually (desktop two-column
+and 390px mobile, clean render, no underlined links); psychology and
+conditions sections confirmed present in the live DOM, their visual
+layout not separately inspected. HUMANIZER-SKILL.md carries the
+Bridging rule for the future six agents. Six-agent rollout stays
+BLOCKED until owner validation. Recommended owner reading order: the
+classical, psychology and social-conditions sections — they expose the
+exact problem the owner raised. Process notes in the ledger:
 enrich_save.sh does not stage site/ (commit app.js separately, grep it
-after rebuild); the site caches compiled dossier data in browser storage
-(readers may see stale text until refresh); test_enrich_validate.py is
-not a real test suite (no tests, no entry point).
+after rebuild); after a redeploy the page showed the previous text
+until browser storage was cleared — cause not traced, and do NOT
+advise clearing storage (the app stores user content edits there);
+test_enrich_validate.py is not a real test suite (no tests, no entry
+point).
 
 ## Latest scope and exact continuation
 
