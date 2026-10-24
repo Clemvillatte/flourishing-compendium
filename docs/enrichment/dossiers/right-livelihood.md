@@ -9,7 +9,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 ### Nearby terms
 
 - Ethical work and earning: the path's own account, below.
-- Vocation and calling: the calling group below; the difference between a livelihood and a calling is treated in the divergences.
+- Vocation and calling: the calling group below.
 - Work aims and goals: held by the Goals dossier; this page keeps to the work itself and the person doing it.
 - Life's purpose: held by that dossier; a livelihood is one of the places a purpose gets spent, not the place it is found.
 
