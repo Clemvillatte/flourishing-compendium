@@ -16,14 +16,17 @@ In Husserl's account, ordinary experience takes the surrounding world as factual
 
 > We put out of action the general positing which belongs to the essence of the natural attitude; we parenthesize everything which that positing encompasses with respect to being: thus the whole natural world which is continually "there for us", "on hand," and which will always remain there according to consciousness as an "actuality" even if we choose to parenthesize it. (Husserl, Ideas I §32, Kersten trans., [full text PDF](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf))
 
-The epoché is the move the principle asks to be practised: it suspends using the world's accepted existence without denying or doubting it (§32). Practise moving between the natural attitude (living in the world) and the phenomenological attitude (reflecting on how the world appears).
+The epoché suspends using the world's accepted existence without denying or doubting it (§32). Husserl says our conviction remains while its positing is put out of action (§31). This restriction opens the inquiry into how the world is given in experience.
 
 (Husserl, Ideas I, §§27-33.)
 
-**Plain words**
+### Plain words
+
 Usually, you take the world's existence for granted while dealing with things. For this inquiry, you keep that belief without using it to settle the investigation. Attention turns to how the world is given in experience.
 
-*For example:* Imagine describing your experience of seeing a kettle. For the exercise, set aside judgments that the kettle exists or does not exist, and describe how it appears. The kettle need not seem strange for you to attempt this change of attitude.
+### For example
+
+Imagine describing your experience of seeing a kettle. For the exercise, set aside judgments that the kettle exists or does not exist, and describe how it appears. The kettle need not seem strange for you to attempt this change of attitude.
 
 ## Sources
 
@@ -64,4 +67,3 @@ Usually, you take the world's existence for granted while dealing with things. F
 
 - **[[The natural attitude|The natural attitude]]** (Husserl, Ideas I)
 - **[[Naive realism|Naive realism and its suspension]]** (Husserl, Cartesian Meditations)
-

@@ -228,3 +228,11 @@ are not certified by this body-level review.
 - Repair: Plain words now explains that life-care can shape the conduct of work. Preserved the modern editor case's actual reduction in accepted work, one-week trial and renegotiation.
 - Saturation: Yangsheng read and mention searches for yangsheng/qiwu performed; the principle already links Yangsheng, whose Here section already links D141. No indiscriminate new edge.
 - Limits: the dialogue is a philosophical analogy, not evidence of a longevity effect or a medical regimen. Meals and asking for help belong to the modern application.
+
+## E003: Natural attitude and epoché
+
+- Opened: [Husserl, Ideas I, Kersten PDF](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf), §§30–32 extraction followed by the unprompted OCR text of §§31–32.
+- Evidence: the retained §32 quotation matches after joining OCR line wraps and normalising typographical quotation marks. §30 distinguishes local illusion from the general acceptance of the world's existence; §31 explicitly says conviction remains while positing is put out of action; §32 excludes negation and skeptical doubt.
+- Repair: replaced the description of what “the principle asks” with the relation between retained conviction, bracketed positing and the inquiry this opens. Normalised Plain words and example headings; the already clear kettle case remains.
+- Saturation: The natural attitude and Epoché read; their existing links already lead back to E003. No claim that the two traditions discussed in Epoché are identical.
+- Limits: a methodological change of attitude, not an instruction to induce strange sensations, distrust ordinary perception or deny reality. Inherited linked-page quotations were not independently certified.
