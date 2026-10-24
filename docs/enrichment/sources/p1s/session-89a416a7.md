@@ -197,3 +197,9 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - Completed the existing verse 13.8 excerpt with the translator's printed bracketed gloss and terminal period: “[incurable/incorrigible].” The whole two-sentence block is now verbatim. No claim to have checked Tibetan/Sanskrit.
 - Replaced a repetitive second summary of anti-foundationalism with the SEP's important distinction between intellectual understanding and realisation, including the limit on inferring changed experience from assent to an argument.
 - Split the fused Korzybski/Shunyata bullets without changing either link. Read The emptiness of emptiness and Shunyata for relation context. Plain words and writing example remain the already strong version; no whole-concept or modern parallel certification.
+
+## B017: source recheck and reader-facing bibliography
+
+- Opened unprompted: [Dhammapada II](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html), complete chapter; [DN 16](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html), part VI section 8 and its surrounding final instructions. The exact final exhortation and Dhammapada 21 quotation match, including the exclamation mark. The verse 23 fragment is exact.
+- Verse 24 supports the conduct/discernment/self-control/righteousness wording. Corrected source-list range 21-23 to 21-24 to match the actual body references.
+- Removed “the page lists” and separated the inherited Hadot thinker comparison from primary sources. No new Hadot attribution or whole-book certification. Kept the strong Plain words and promise/call example unchanged. Read Habit maintenance for link context, not empirical certification.
