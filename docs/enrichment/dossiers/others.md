@@ -2,7 +2,7 @@
 
 > What do other people do to a person's mind and flourishing, and what does one person owe another?
 
-This dossier holds a double question: what other people do to a person's mind and flourishing, and what one person owes another. Other people are the environment the human brain is built to expect, the material the self is made from, and the ones a good life is asked to serve. The traditions organize the territory differently. Some start from the bond (friendship, care, the face of the other), others from the command (love your enemy, bear one another's burdens), and the research starts from the mechanism (empathy, co-regulation, social support). The research association is plain in the findings gathered below: the quantity and quality of a person's relationships travel with their health, their mood and their survival.
+The theme asks a double question: what other people do to a person's mind and flourishing, and what one person owes another. Other people are the environment the human brain is built to expect, the material the self is made from, and the ones a good life is asked to serve. The traditions organize the territory differently. Some start from the bond (friendship, care, the face of the other), others from the command (love your enemy, bear one another's burdens), and the research starts from the mechanism (empathy, co-regulation, social support). The research association is plain in the findings gathered below: the quantity and quality of a person's relationships travel with their health, their mood and their survival.
 
 ## Nearby terms
 
@@ -14,17 +14,17 @@ This dossier holds a double question: what other people do to a person's mind an
 
 [Social baseline](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20baseline): the human brain treats the company of trusted others as its default condition, so managing alone costs metabolic and neural resources.
 
-[Co-regulation in relationships](https://clemvillatte.github.io/flourishing-compendium/#card=Co-regulation%20in%20relationships): Butler's temporal framework: partners in a close relationship regulate each other's affect across repeated interactions rather than only their own.
+[Co-regulation in relationships](https://clemvillatte.github.io/flourishing-compendium/#card=Co-regulation%20in%20relationships): Butler's temporal framework: partners in a close relationship regulate each other's affect across repeated interactions, each partner's state managed between them.
 
 [Co-regulation of affect in relationships](https://clemvillatte.github.io/flourishing-compendium/#card=Co-regulation%20of%20affect%20in%20relationships): the precise version of the claim: relationship maintenance is a shared regulatory task.
 
-[Micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection): this page's title for Fredrickson's positivity resonance: the brief shared positive states that constitute love as a day-to-day biological event.
+[Micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection): my name for Fredrickson's positivity resonance: the brief shared positive states that constitute love as a day-to-day biological event.
 
-[Connectedness in well-being research](https://clemvillatte.github.io/flourishing-compendium/#card=Connectedness%20in%20well-being%20research): this wiki's label for the findings in which people's ties to others travel with how well their lives go (Diener and Seligman, 2002).
+[Connectedness in well-being research](https://clemvillatte.github.io/flourishing-compendium/#card=Connectedness%20in%20well-being%20research): my label for the findings in which people's ties to others travel with how well their lives go (Diener and Seligman, 2002).
 
 [Social support theory Cohen Wills](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20support%20theory%20Cohen%20Wills): the classic review distinguishing two proposed relationships between support and health.
 
-[The stress-buffering model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20stress-buffering%20model): the competing account: support works by blunting the stress response rather than by adding a direct benefit.
+[The stress-buffering model](https://clemvillatte.github.io/flourishing-compendium/#card=The%20stress-buffering%20model): the competing account: support blunts the stress response itself, so its health benefit shows up mainly under stress.
 
 [Social embeddedness](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20embeddedness): Baumeister and Leary's claim that belonging is a need built in prior to choice.
 
@@ -32,7 +32,7 @@ This dossier holds a double question: what other people do to a person's mind an
 
 [The evolutionary account of loneliness](https://clemvillatte.github.io/flourishing-compendium/#card=The%20evolutionary%20account%20of%20loneliness): loneliness as an aversive biological signal that evolved to protect the social body, the way pain protects the physical one.
 
-[Social contagion](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20contagion): the spread of affect and behaviour from person to person through observation and induction rather than instruction.
+[Social contagion](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20contagion): the spread of affect and behaviour from person to person through observation and induction.
 
 [Social attention](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20attention): attention guided by where other people are attending, most clearly through gaze.
 
@@ -48,7 +48,7 @@ Cacioppo and Hawkley give the negative side of the same arrangement:
 
 ### How the self is built from others
 
-[The social self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20self): Mead's answer to what a self is made of: something with a development, arising in social conduct rather than at birth.
+[The social self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20self): Mead's answer to what a self is made of: something with a development, arising in social conduct.
 
 [The social selves](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20selves): William James's term for the version of a person that exists in other people's minds.
 
@@ -70,7 +70,7 @@ Cacioppo and Hawkley give the negative side of the same arrangement:
 
 [Empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Empathy): the capacity to feel with and understand another; the umbrella the rest of these entries divide.
 
-[Empathic concern](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20concern): Batson's other-oriented warmth, aimed at the other's welfare rather than one's own relief.
+[Empathic concern](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20concern): Batson's other-oriented warmth: feeling for a person in need, with that person's welfare as the aim.
 
 [Empathic distress](https://clemvillatte.github.io/flourishing-compendium/#card=Empathic%20distress): affective resonance with another's pain that turns self-oriented and leads to withdrawal.
 
@@ -116,7 +116,7 @@ The Karaṇīya Metta Sutta gives the instruction its measure:
 
 [Care ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Care%20ethics): the normative theory that moral action centers on relationships and benevolence.
 
-[The ethics of care](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ethics%20of%20care): Held's version: moral significance located in relationships and dependencies rather than universal rules considered in the abstract.
+[The ethics of care](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ethics%20of%20care): Held's version: moral significance lives in relationships and dependencies, and universal rules considered in the abstract come second.
 
 [Gilligan's ethics-of-care theory](https://clemvillatte.github.io/flourishing-compendium/#card=Gilligan%27s%20ethics-of-care%20theory): the claim that moral reasoning has more than one voice.
 
@@ -146,7 +146,7 @@ The Karaṇīya Metta Sutta gives the instruction its measure:
 
 [Friendship shapes character](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship%20shapes%20character): Aristotle's claim that the company we keep shapes the people we become.
 
-Aristotle caps the account with the scarcity of the real thing:
+Aristotle closes the account of friendship with its limit:
 
 > "it would seem actually impossible to be a great friend to many people... but one cannot have with many people the friendship based on virtue and on the character of our friends themselves, and we must be content if we find even a few such." ([Aristotle, Nicomachean Ethics IX.10, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html))
 
@@ -156,7 +156,7 @@ Aristotle caps the account with the scarcity of the real thing:
 
 [The ladder of love](https://clemvillatte.github.io/flourishing-compendium/#card=The%20ladder%20of%20love): Diotima's staged ascent in the Symposium, from one beautiful body to the beautiful itself.
 
-[The free person loves all](https://clemvillatte.github.io/flourishing-compendium/#card=The%20free%20person%20loves%20all): Spinoza's free person, who lives by reason rather than fear.
+[The free person loves all](https://clemvillatte.github.io/flourishing-compendium/#card=The%20free%20person%20loves%20all): Spinoza's free person, who lives by reason and refuses the rule of fear.
 
 [Sympatheia](https://clemvillatte.github.io/flourishing-compendium/#card=Sympatheia): the Stoic doctrine of cosmic interdependence that Marcus Aurelius instructs himself to keep in mind.
 
@@ -238,7 +238,11 @@ Aristotle caps the account with the scarcity of the real thing:
 
 [Social penetration theory](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20penetration%20theory): Altman and Taylor's account of relationships deepening through self-disclosure.
 
-[Communitarianism](https://clemvillatte.github.io/flourishing-compendium/#card=Communitarianism): the view that human identities are largely made, not merely accompanied, by communities.
+[Attachment theory](https://clemvillatte.github.io/flourishing-compendium/#card=Attachment%20theory): Bowlby's account of love bonds: the child-caregiver bond is organized by an inborn behavioural system whose business is protection, and the system keeps running in adult relationships.
+
+[Attachment security](https://clemvillatte.github.io/flourishing-compendium/#card=Attachment%20security): the sense, built from experience with available and responsive caregivers and partners, that others will be available and supportive when needed.
+
+[Communitarianism](https://clemvillatte.github.io/flourishing-compendium/#card=Communitarianism): the view that communities largely make the identities of their members.
 
 [Community](https://clemvillatte.github.io/flourishing-compendium/#card=Community): MacIntyre's local form of life in which identity, roles and goods are constituted together with others.
 
@@ -256,15 +260,15 @@ Aristotle caps the account with the scarcity of the real thing:
 
 The theme comes in narrative form too:
 
-[ST243 — The Five Relationships](https://clemvillatte.github.io/flourishing-compendium/#card=ST243%20%E2%80%94%20The%20Five%20Relationships): the Confucian wulun: five relationships defined by reciprocal duties rather than unilateral authority.
+[ST243 — The Five Relationships](https://clemvillatte.github.io/flourishing-compendium/#card=ST243%20%E2%80%94%20The%20Five%20Relationships): the Confucian wulun: five relationships, each defined by reciprocal duties between the two parties.
 
 [ST077 — The Mother's Protection](https://clemvillatte.github.io/flourishing-compendium/#card=ST077%20%E2%80%94%20The%20Mother%27s%20Protection): the Metta Sutta's mother, willing to risk her life for her only child, made the measure of a boundless heart toward all beings.
 
 [ST079 — Won't You Be My Neighbour](https://clemvillatte.github.io/flourishing-compendium/#card=ST079%20%E2%80%94%20Won%27t%20You%20Be%20My%20Neighbour): Fred Rogers' sign-off, an ordained minister's theology of the neighbourhood built into a children's show.
 
-[ST267 — The Face of the Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST267%20%E2%80%94%20The%20Face%20of%20the%20Other): Levinas' encounter: the face is not an object but an address, and the address is a command.
+[ST267 — The Face of the Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST267%20%E2%80%94%20The%20Face%20of%20the%20Other): Levinas' encounter: the face addresses me, and the address is a command.
 
-[ST288 — Joel and Clementine Erase Each Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): a failed couple erase each other from memory, and the erasure preserves what it destroys.
+[ST288 — Joel and Clementine Erase Each Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): a failed couple each pay to erase the other from memory; inside the procedure, Joel fights to keep her.
 
 [ST315 — Loneliness and Mortality](https://clemvillatte.github.io/flourishing-compendium/#card=ST315%20%E2%80%94%20Loneliness%20and%20Mortality): Holt-Lunstad's meta-analysis: people with stronger social relationships had a 50 per cent increased likelihood of survival.
 
@@ -286,19 +290,19 @@ The Gospel commands the opposite economy:
 
 > "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
 
-The two positions answer the same question and part on the currency of kindness. Confucius treats goodness as a finite economy: spent on the injurer, nothing remains with which to repay the benefactor. The Gospel treats goodness as a currency that grows by being spent on those who cannot repay. What remains unresolved is whether Confucius' rhetorical question, with what then will you recompense kindness, names a real depletion that the command ignores, or whether the command's refusal of measure is the point; the traditions cannot settle it from inside their own premises.
+The two positions differ over whether the response owed to injury should be the same as the response owed to kindness. Confucius keeps the two apart: injury is recompensed with justice, kindness with kindness, and his question, with what then will you recompense kindness, treats that distinction as the thing to preserve. The Gospel removes the separation: the enemy is to be loved, the persecutor prayed for. What remains unresolved is whether the two are rival answers to one question, or answers to two different questions, what is owed and what may be given; nothing in either passage settles that.
 
 ### Is empathy-based helping for the other or for the self?
 
 The shared question: when empathy moves a person to help, whose welfare is the motivation's ultimate goal? Batson's research program says the other's:
 
-> "Emotional arousal elicited by witnessing another person in need increases helping if the observer experiences empathic emotion; it decreases helping if the observer experiences personal distress." ([Batson et al. 1988, PubMed 3418490](https://pubmed.ncbi.nlm.nih.gov/3418490/))
+> "The empathy-altruism hypothesis claims that prosocial motivation associated with feeling empathy for a person in need is directed toward the ultimate goal of benefiting that person, not toward some subtle form of self-benefit." ([Batson et al. 1988, PubMed 3418490](https://pubmed.ncbi.nlm.nih.gov/3418490/))
 
 Cialdini's group answered with the opposite interpretation, tested in the paradigm Batson's associates typically used:
 
-> "We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy." ([Cialdini et al. 1987, JPSP 52.4, abstract via SciSpace](https://scispace.com/papers/empathy-based-helping-is-it-selflessly-or-selfishly-4li7tvq2d9))
+> "We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy." ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/))
 
-The disagreement is direct: the same laboratory situation, the same helping behaviour, and two rival accounts of what the helper is seeking. Each camp published experiments it read as disconfirming the other's account; the wiki's own entry on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, alongside the limits it keeps honestly. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
+The disagreement is direct: the same laboratory situation, the same helping behaviour, and two rival accounts of what the helper is seeking, the other's welfare or relief from the helper's own sadness. My page on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, with the limits kept on record there. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
 
 ## Practice: variation, selection, retention
 
@@ -310,7 +314,7 @@ The disagreement is direct: the same laboratory situation, the same helping beha
 
 2. [K414 — Compassion meditation (CCT-style)](https://clemvillatte.github.io/flourishing-compendium/#card=K414%20%E2%80%94%20Compassion%20meditation%20%28CCT-style%29): the daily meditations of Compassion Cultivation Training: where loving-kindness wishes beings well, this practice attends to difficulty.
 
-3. [K211 — Acts of kindness](https://clemvillatte.github.io/flourishing-compendium/#card=K211%20%E2%80%94%20Acts%20of%20kindness): one visible act of help daily; small counts, and the study behind it counted acts rather than weighing them.
+3. [K211 — Acts of kindness](https://clemvillatte.github.io/flourishing-compendium/#card=K211%20%E2%80%94%20Acts%20of%20kindness): one visible act of help daily; small counts, and the study behind it counted acts without weighing them.
 
 4. [K213 — Prosocial spending](https://clemvillatte.github.io/flourishing-compendium/#card=K213%20%E2%80%94%20Prosocial%20spending): spending a small amount of money on someone else, from the research on how the direction of small spending shapes mood.
 
@@ -318,11 +322,11 @@ The disagreement is direct: the same laboratory situation, the same helping beha
 
 6. [K219 — Social accountability](https://clemvillatte.github.io/flourishing-compendium/#card=K219%20%E2%80%94%20Social%20accountability): tell one person about the goal or practice and let them ask about it, as in the Matthews study's weekly progress reports.
 
-7. [K221 — Community engagement](https://clemvillatte.github.io/flourishing-compendium/#card=K221%20%E2%80%94%20Community%20engagement): time spent in a community not one's own, listening rather than advising.
+7. [K221 — Community engagement](https://clemvillatte.github.io/flourishing-compendium/#card=K221%20%E2%80%94%20Community%20engagement): time spent in a community not one's own, with the emphasis on listening.
 
-8. [K399 — The kindness pool (unblock the spring)](https://clemvillatte.github.io/flourishing-compendium/#card=K399%20%E2%80%94%20The%20kindness%20pool%20%28unblock%20the%20spring%29): unblocking the spring that feeds the kindness pool rather than rationing the pool, through the befriending meditation.
+8. [K399 — The kindness pool (unblock the spring)](https://clemvillatte.github.io/flourishing-compendium/#card=K399%20%E2%80%94%20The%20kindness%20pool%20%28unblock%20the%20spring%29): unblocking the spring that feeds the kindness pool instead of rationing the pool, through the befriending meditation.
 
-::Retention:: Retention is what people keep because it works for them. A reader who keeps the metta phrases, the weekly kindness act, or the willingness to ask for company before the crisis has what this theme offered. What tends to persist first is the discovery that a load shared with a trusted other is managed differently from one carried alone; the rest is a matter of fit between the practice and the life it enters.
+::Retention:: Retention is what people keep because it works for them. Of the kernels above I would keep two: the metta phrases, because they can run in the background of an ordinary day, and the weekly kindness act, because it is small enough to survive a bad week. What stays for any reader is a matter of fit between the practice and the life it enters.
 
 ## Story: the stories that carry the theme
 
@@ -334,11 +338,11 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 ### The bond
 
-[ST243 — The Five Relationships](https://clemvillatte.github.io/flourishing-compendium/#card=ST243%20%E2%80%94%20The%20Five%20Relationships): the junzi is cultivated inside the wulun, five relationships defined by reciprocal duties, not unilateral authority.
+[ST243 — The Five Relationships](https://clemvillatte.github.io/flourishing-compendium/#card=ST243%20%E2%80%94%20The%20Five%20Relationships): the junzi is cultivated inside the wulun, five relationships each defined by reciprocal duties between the two parties.
 
 [ST288 — Joel and Clementine Erase Each Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): Joel and Clementine each pay to erase the other from memory; inside his own mind Joel fights the procedure, hiding Clementine in memories she does not belong to.
 
-[ST194 — Seneca Writes to His Mother](https://clemvillatte.github.io/flourishing-compendium/#card=ST194%20%E2%80%94%20Seneca%20Writes%20to%20His%20Mother): from Corsica, Seneca refuses to console Helvia with the usuals, and argues that nothing was taken from him that was ever his; the letter is the bond.
+[ST194 — Seneca Writes to His Mother](https://clemvillatte.github.io/flourishing-compendium/#card=ST194%20%E2%80%94%20Seneca%20Writes%20to%20His%20Mother): from Corsica, Seneca refuses to console Helvia with the usuals and argues that nothing was taken from him that was ever his; what he sends instead is the letter itself.
 
 ### Care to the end
 
@@ -348,7 +352,7 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 [ST267 — The Face of the Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST267%20%E2%80%94%20The%20Face%20of%20the%20Other): the face is not an object among objects; it addresses me, and the address places me under obligation before any contract.
 
-[ST077 — The Mother's Protection](https://clemvillatte.github.io/flourishing-compendium/#card=ST077%20%E2%80%94%20The%20Mother%27s%20Protection): the sutta takes the strongest bond known, a mother's protection of her only child, and makes it the measure of the heart's proper width.
+[ST077 — The Mother's Protection](https://clemvillatte.github.io/flourishing-compendium/#card=ST077%20%E2%80%94%20The%20Mother%27s%20Protection): the sutta takes a mother's willingness to risk her life for her only child and sets it as the measure for goodwill toward all beings.
 
 [ST079 — Won't You Be My Neighbour](https://clemvillatte.github.io/flourishing-compendium/#card=ST079%20%E2%80%94%20Won%27t%20You%20Be%20My%20Neighbour): thirty-three years of feeding the fish and asking the question, a theology of the neighbourhood delivered to children.
 
