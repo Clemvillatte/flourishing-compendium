@@ -15,6 +15,8 @@ Ericsson describes deliberate practice as work on tasks just outside current rel
 
 Deliberate practice, in his definition, "presents performers with tasks that are initially outside their current realm of reliable performance, yet can be mastered within hours of practice by concentrating on critical aspects and by gradually refining performance through repetitions after feedback" ([same source](https://www.ida.liu.se/~nilda08/Anders_Ericsson/Ericsson_delib_pract.pdf)). Habitual, automatic performance is the plateau condition: the account links arrested development to automaticity, and continued improvement to training that keeps reaching past it.
 
+The plateau mechanism is stated plainly in the same chapter: "When the behaviors are automatized, mere additional experience will not lead to increased levels of performance." What distinguishes experts is not more experience but the reaching past it: "By actively seeking out demanding tasks – often provided by their teachers and coaches – that force the performers to engage in problem solving and to stretch their performance, the expert performers overcome the detrimental effects of automaticity and actively acquire and refine cognitive mechanisms to support continued learning and improvement." That is the openness this concept names: the expert treats not-knowing as the training condition rather than as an embarrassment to hide.
+
 ### Here
 
 - [[D045 — Keep the empty cup]] — the Daoist counterpart: the vessel's use depends on its empty space
