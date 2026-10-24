@@ -778,7 +778,27 @@
      "note": "advisor repairs applied: symmetry removed, distribution arithmetic verified against Shiji 129 Chinese at ctext (three fortunes, twice distributed), narration separated from translation, boat sentence attributed to ch. 129"
     }
    ]
+  },
+  "s1b-036": {
+   "status": "ready",
+   "angle": "D096 outer displacing inner: Zhuangzi 19 ferryman and betting archer (Legge via ctext), quotes verified verbatim",
+   "history": [
+    {
+     "t": "2026-10-24T14:45:50+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:45:50+00:00",
+     "to": "qc_pending",
+     "note": "first draft; advisor QC round pending"
+    },
+    {
+     "t": "2026-10-24T14:46:53+00:00",
+     "to": "ready",
+     "note": "advisor repairs applied: timorousness acknowledged, invented framing removed, partial-angle limit stated, sensory-excess facets named as not carried, duplicate check clean"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:44:43+00:00"
+ "updated": "2026-10-24T14:46:53+00:00"
 }
