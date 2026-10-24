@@ -4,7 +4,7 @@
 
 This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about how to speak?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to loosen the grip of words spoken on autopilot, from the lie that buys ease to the advice that burdens its hearer, without pretending a person can or should stop talking.
 
-How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page.
+How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The compendium also holds several dozen principle pages bearing speech, truth, word and listening in the title (B023, B147, S075, S076, S130, P128, P168, R091, R092 and their kin); they are deliberately not listed inline, following the map convention: every concept card carries onward to the principles that cite it, so the map stays a map.
 
 ### Nearby terms
 
@@ -21,9 +21,9 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Right speech](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20speech): the third factor of the Buddha's Noble Eightfold Path: abstaining from lying, divisive speech, abusive speech, and idle chatter, plus the positive demand that speech be true, timely, and beneficial.
 
-[Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path): the path of eight mutually reinforcing factors whose factors function as a causal network, one factor strengthening and correcting the others.
+[Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path): the fourth Noble Truth: right view, right resolve, right speech and the rest, where right (sammā) means complete or whole, each factor a skill to be developed, not a rule to be obeyed.
 
-[The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the network of eight factors through the sīla-samādhi-paññā fold, the ethical trainings that include the speech abstentions.
+[The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the Buddhist path in its most compressed form: virtue, concentration and wisdom, with every other practice placed under one of the three, the speech abstentions under virtue.
 
 [Four Noble Truths](https://clemvillatte.github.io/flourishing-compendium/#card=Four%20Noble%20Truths): the diagnosis the whole path answers, including the truth of the way out of suffering that the speech factors serve.
 
@@ -35,57 +35,61 @@ The path definition, in the Buddha's own words:
 
 [Right speech](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20speech): the four abstentions, listed above, plus the claim that each guards something different: truth against the lie, relation against the wedge, dignity against the insult, and attention against the noise.
 
-[Deception research](https://clemvillatte.github.io/flourishing-compendium/#card=Deception%20research): DePaulo's finding that everyday lies are common, most of them social lubricants, and that the everyday liar holds a self-enhancing picture of how honest they are.
+[Deception research](https://clemvillatte.github.io/flourishing-compendium/#card=Deception%20research): the study of how often people lie, why, and how well others detect it; the everyday finding that lying is common and mostly minor.
 
 [Interpersonal Deception Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Interpersonal%20Deception%20Theory): Buller and Burgoon's move away from the four-factor lie detector: deception is interactive, unfolding between people who send and read suspicious behaviors.
 
-[Self-deception](https://clemvillatte.github.io/flourishing-compendium/#card=Self-deception): the bent arrow of the avoidant thoughts the speaker still knows, in some sense, to be avoidant; von Hippel and Trivers's evolutionary account of when the primary self got fooled and why the lie runs at double cost.
+[Self-deception](https://clemvillatte.github.io/flourishing-compendium/#card=Self-deception): Sartre's bad faith: consciousness's permanent possibility of being what it is not and not being what it is, the lie told to oneself and half-known to be one.
 
 [Fluency-driven illusory truth](https://clemvillatte.github.io/flourishing-compendium/#card=Fluency-driven%20illusory%20truth): repetition's subtle force, strong enough that people tend to believe what is easy to hear.
 
-[Harsh self-criticism](https://clemvillatte.github.io/flourishing-compendium/#card=Harsh%20self-criticism): the abusive voice turned inward, where the way you speak to yourself in daily inner monologue is the same factor right speech addresses toward others.
+[Harsh self-criticism](https://clemvillatte.github.io/flourishing-compendium/#card=Harsh%20self-criticism): the clinical finding that harsh self-criticism goes with psychopathology, read as association rather than prediction.
 
 [Idle talk (Gerede)](https://clemvillatte.github.io/flourishing-compendium/#card=Idle%20talk%20%28Gerede%29): Heidegger's account of everyday conversation as the chatter of people talking without engagement, the gossip's interpretation of the world, not its own engagement with the thing itself.
 
-[Sparse speech](https://clemvillatte.github.io/flourishing-compendium/#card=Sparse%20speech): the Daoist counsel of the mind, not a mute speech: say the thing, then the stillness.
+[Sparse speech](https://clemvillatte.github.io/flourishing-compendium/#card=Sparse%20speech): the Daoist discipline of saying little: Daodejing 23's meteorological image, that nature's loudest events are brief, and talk that blusters belongs with the short-lived spasms.
 
-[The strong claim of the loud voice](https://clemvillatte.github.io/flourishing-compendium/#card=The%20strong%20claim%20of%20the%20loud%20voice): the fallacy that the loudest voice is the rightest one, and the demand it makes on its hearers.
+[The strong claim of the loud voice](https://clemvillatte.github.io/flourishing-compendium/#card=The%20strong%20claim%20of%20the%20loud%20voice): the Gita's ship in a storm, its helm of wisdom rent away, the mind carried away by what it gives itself to.
 
 ### Truth-telling, and its risks
 
-[Truthfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Truthfulness): Kant's claim that truthfulness is the necessary condition of personhood itself; Rawls and the applications in practical judgment and in disclosure.
+[Truthfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Truthfulness): Aristotle's account in Nicomachean Ethics IV.7: the truthful person calls a thing by its own name, the mean between the boaster and the mock-modest, inclined to understate.
 
-[Parrhesia (frank speech)](https://clemvillatte.github.io/flourishing-compendium/#card=Parrhesia%20%28frank%20speech%29): the ancient name for truth-telling that knows it may cost the speaker; Foucault traced the word through Euripides to the late Roman world.
+[Parrhesia (frank speech)](https://clemvillatte.github.io/flourishing-compendium/#card=Parrhesia%20%28frank%20speech%29): the ancient Greek name for frank truth-telling that knows it may cost the speaker; Foucault traced the word from Euripides through the Greco-Roman world.
 
-[Prosocial honesty research](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20honesty%20research): the study of when honesty serves its hearers better than reassurance, and when it does not; the kind thing to say is not always the true thing.
+[The truth sets you free](https://clemvillatte.github.io/flourishing-compendium/#card=The%20truth%20sets%20you%20free): the John 8:32 entry, the Christian tradition's own claim for what truth-telling does to the one who tells it.
 
-[Partial truths in every opinion](https://clemvillatte.github.io/flourishing-compendium/#card=Partial%20truths%20in%20every%20opinion): every assertive opinion carries an element of truth; the craft of stating the part it carries.
+[Prosocial honesty research](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20honesty%20research): Levine and Schweitzer's finding that receivers weight benevolence: a lie told to benefit the listener can raise trust more than a truth told at the listener's expense.
+
+[Partial truths in every opinion](https://clemvillatte.github.io/flourishing-compendium/#card=Partial%20truths%20in%20every%20opinion): Mill's argument in On Liberty that a prevailing opinion usually holds part of the truth, and the missing part tends to sit in the opinion it opposes.
 
 [Correspondence theory of truth](https://clemvillatte.github.io/flourishing-compendium/#card=Correspondence%20theory%20of%20truth): the old question of what makes a statement true, which a speech ethics has to borrow an answer from.
 
-[A019 — Practice truthfulness (aletheia)](https://clemvillatte.github.io/flourishing-compendium/#card=A019%20%E2%80%94%20Practice%20truthfulness%20%28aletheia%29): Aristotle's virtue of saying the true thing without distortion, distortion in the interests of what is convenient.
+[A019 — Practice truthfulness (aletheia)](https://clemvillatte.github.io/flourishing-compendium/#card=A019%20%E2%80%94%20Practice%20truthfulness%20%28aletheia%29): Aristotle's virtue of describing yourself and your standing accurately: the mean between the boaster who claims more than he has and the mock-modest who disclaims what he has.
 
 [A030 — Practice integrity — consistency between thought, word, and deed](https://clemvillatte.github.io/flourishing-compendium/#card=A030%20%E2%80%94%20Practice%20integrity%20%E2%80%94%20consistency%20between%20thought%2C%20word%2C%20and%20deed): the word that matches the thought and the deed, without the seams showing.
 
-[B145 — Be truthful](https://clemvillatte.github.io/flourishing-compendium/#card=B145%20%E2%80%94%20Be%20truthful): the Christian formation rule: let your yes be yes and your no, no.
+[B145 — Be truthful](https://clemvillatte.github.io/flourishing-compendium/#card=B145%20%E2%80%94%20Be%20truthful): the Cunda Kammaraputta Sutta's witness scene: if you don't know, say I don't know; no conscious lie for your own sake, for another's sake, or for the sake of any reward.
 
-[M028 — Guard your speech; it is your face's edge](https://clemvillatte.github.io/flourishing-compendium/#card=M028%20%E2%80%94%20Guard%20your%20speech%3B%20it%20is%20your%20face%27s%20edge): the Islamic counsel that the tongue is the face's edge and the speech is its sharpening.
+[M028 — Guard your speech; it is your face's edge](https://clemvillatte.github.io/flourishing-compendium/#card=M028%20%E2%80%94%20Guard%20your%20speech%3B%20it%20is%20your%20face%27s%20edge): the Florentine Codex's father-to-son advice: carry your words moderately, improve and soften your voice, for hurried or loud speech changes how others describe you.
 
 ### The benefit and timing tests
 
-[Beneficial speech](https://clemvillatte.github.io/flourishing-compendium/#card=Beneficial%20speech): the Bhagavad Gita's definition of the austerity of speech: speaking words that are truthful, agreeable, and beneficial, and the Vedic caution that these criteria are not the same thing.
+[Beneficial speech](https://clemvillatte.github.io/flourishing-compendium/#card=Beneficial%20speech): speech that is true and useful to the hearer rather than merely pleasing; the Gita names such words the austerity of speech, and the Abhaya Sutta's rule states only what is factual, true and beneficial, with a sense of the proper time.
 
-[The three gates of speech](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20gates%20of%20speech): the shared shape in several traditions: is it true, is it kind, is it useful, the Sufi form being the best known.
+[The three gates of speech](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20gates%20of%20speech): the popular three-question test, is it true, is it necessary, is it kind, with the attribution problem the card records: credited to Rumi never to a specific work, and possibly a misquote.
+
+[Speech gate](https://clemvillatte.github.io/flourishing-compendium/#card=Speech%20gate): the compendium's own name for the Buddhist check run before speaking, in its canonical Abhaya Sutta form, including the baby-on-the-lap image of why the gate exists.
 
 [Wise speech criteria](https://clemvillatte.github.io/flourishing-compendium/#card=Wise%20speech%20criteria): the six-case test the Buddha gave Prince Abhaya, which holds truth and benefit apart from agreeableness and adds the time-sense.
 
 [K208 — Speech gate](https://clemvillatte.github.io/flourishing-compendium/#card=K208%20%E2%80%94%20Speech%20gate): the practice kernel that runs the words through the gate before they leave: true, timely, beneficial, kind.
 
-[B146 — Test speech before it leaves](https://clemvillatte.github.io/flourishing-compendium/#card=B146%20%E2%80%94%20Test%20speech%20before%20it%20leaves): the Christian formation version of the same gate.
+[B146 — Test speech before it leaves](https://clemvillatte.github.io/flourishing-compendium/#card=B146%20%E2%80%94%20Test%20speech%20before%20it%20leaves): the four questions before the words leave, from the Sutta Nipata and the Abhaya Sutta: is it true, is it timely, is it beneficial, is it gentle; if any fails, refine or hold.
 
 [K044 — Speak slowly, and let speech be timely](https://clemvillatte.github.io/flourishing-compendium/#card=K044%20%E2%80%94%20Speak%20slowly%2C%20and%20let%20speech%20be%20timely): the practice that slows the utterance down enough for the gate to open and close.
 
-[B148 — Speak lovingly](https://clemvillatte.github.io/flourishing-compendium/#card=B148%20%E2%80%94%20Speak%20lovingly): the love-ethic version: speech as the outward act of an inward disposition of care.
+[B148 — Speak lovingly](https://clemvillatte.github.io/flourishing-compendium/#card=B148%20%E2%80%94%20Speak%20lovingly): the Dhammapada's counsel that hard truths can be spoken so the listener can receive them: speak not harshly to anyone, for those thus spoken to might retort.
 
 The Abhaya Sutta's own case list, with the timing rule in the middle of it:
 
@@ -103,11 +107,13 @@ The five-factor version the tradition also carries:
 
 [Listening](https://clemvillatte.github.io/flourishing-compendium/#card=Listening): the practice and research of receiving speech, including where it fails.
 
-[Active listening](https://clemvillatte.github.io/flourishing-compendium/#card=Active%20listening): Rogers's therapeutic technique: reflect, paraphrase, and withhold judgment, the listener doing a share of the speaker's work of being understood.
+[Right listening](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20listening): the Buddhist counterpart to right speech: the receiving half of the same discipline.
 
-[Deep listening](https://clemvillatte.github.io/flourishing-compendium/#card=Deep%20listening): the contemplative variant: Thich Nhat Hanh's practice of listening to what is said and not said in order to relieve suffering, and the criterion of effectiveness, which is not whether the listener wins the exchange but whether suffering diminishes.
+[Active listening](https://clemvillatte.github.io/flourishing-compendium/#card=Active%20listening): the 1957 Rogers and Farson practice: restate the speaker's meaning in your own words, getting inside the speaker's point of view and conveying that you see it.
 
-[Hermeneutic listening](https://clemvillatte.github.io/flourishing-compendium/#card=Hermeneutic%20listening): Heidegger's claim that listening is already an interpretation, so the listener is always a co-speaker.
+[Deep listening](https://clemvillatte.github.io/flourishing-compendium/#card=Deep%20listening): listening with the sole intention of understanding: attention as generosity, in the ear's register.
+
+[Hermeneutic listening](https://clemvillatte.github.io/flourishing-compendium/#card=Hermeneutic%20listening): Gadamer's hermeneutics makes listening central to understanding: understanding has its own rigour, that of uninterrupted listening.
 
 [K207 — Deep listening](https://clemvillatte.github.io/flourishing-compendium/#card=K207%20%E2%80%94%20Deep%20listening): the twenty-minute practice of listening with the sole intention of understanding.
 
@@ -117,7 +123,7 @@ The five-factor version the tradition also carries:
 
 [K402 — Listen to the storyteller for thirty seconds](https://clemvillatte.github.io/flourishing-compendium/#card=K402%20%E2%80%94%20Listen%20to%20the%20storyteller%20for%20thirty%20seconds): the inner-speech variant: listening to your own mind's narration the way you would listen to a radio in another room, long enough to tell fact from commentary.
 
-[Communication Accommodation Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Communication%20Accommodation%20Theory): Giles's account of how speakers converge toward or diverge from each other's speech, the timing of speech being also a social signal.
+[Communication Accommodation Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Communication%20Accommodation%20Theory): Howard Giles's account of how speakers adjust toward or away from each other, converging in accent, pace and posture to close social distance, or diverging to mark it.
 
 [Spiral of Silence Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Spiral%20of%20Silence%20Theory): Noelle-Neumann's claim that the perception of being in a minority silences people, which is what the loud voice is counting on.
 
@@ -139,17 +145,33 @@ The five-factor version the tradition also carries:
 
 [K380 — The Two Teachers: change the tone, keep the lesson](https://clemvillatte.github.io/flourishing-compendium/#card=K380%20%E2%80%94%20The%20Two%20Teachers%3A%20change%20the%20tone%2C%20keep%20the%20lesson): the correction practice: same information, different tone, and the body can tell the difference; the contempt is the removable part.
 
-[Speech Act Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Speech%20Act%20Theory): Austin's discovery that words do things: promising, naming, ordering, and apologising are acts, not descriptions.
+[Speech Act Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Speech%20Act%20Theory): Austin's How to Do Things with Words: words do things, promising, warning and apologising are acts, not descriptions, and some utterances fail to be statements at all.
 
-[Integrative Theory of Communication Work](https://clemvillatte.github.io/flourishing-compendium/#card=Integrative%20Theory%20of%20Communication%20Work): the demand analysis of what a spoken exchange costs the participants in effort and cognitive work.
+[Dialogue](https://clemvillatte.github.io/flourishing-compendium/#card=Dialogue): the exchange in which each person turns to the other as a Thou rather than treating them as an It; Buber, Gadamer and Marcel are the classic statements.
 
-[Authentic communication](https://clemvillatte.github.io/flourishing-compendium/#card=Authentic%20communication): the relational variant: speech that matches what is actually so for the speaker, the correspondence theory applied to persons.
+[Conversation as method](https://clemvillatte.github.io/flourishing-compendium/#card=Conversation%20as%20method): Jane Addams's precaution: take a neighbor with you when addressing an audience about their world, so any hasty generalization is curbed by an auditor who knows the conditions more intimately.
 
-[Existential communication](https://clemvillatte.github.io/flourishing-compendium/#card=Existential%20communication): Kierkegaard's indirect communication: the claim that the decisive words often have to be spoken sideways, by story and by image, because the direct version cannot be heard.
+[Conversational research](https://clemvillatte.github.io/flourishing-compendium/#card=Conversational%20research): Matthias Mehl's program recording everyday talk as it happens: the finding that the quality of conversation, not the quantity, predicts well-being.
+
+[Assertiveness research](https://clemvillatte.github.io/flourishing-compendium/#card=Assertiveness%20research): Ames and Flynn's curvilinear finding: leaders markedly low or markedly high in assertiveness both rated less effective than those in the middle.
+
+[Assertiveness training](https://clemvillatte.github.io/flourishing-compendium/#card=Assertiveness%20training): the structured teaching of direct, respectful self-expression, expressing needs, rights and opinions without infringing on the rights of others.
+
+[Integrative Theory of Communication Work](https://clemvillatte.github.io/flourishing-compendium/#card=Integrative%20Theory%20of%20Communication%20Work): Donovan and Hazlett's account of communication as effortful labour, developed for the exchanges a health stressor demands.
+
+[Authentic communication](https://clemvillatte.github.io/flourishing-compendium/#card=Authentic%20communication): Buber's I-Thou: the direct address in which the other is met as a Thou rather than observed and described as an It; no aim, no lust, and no anticipation intervene between I and Thou.
+
+[Existential communication](https://clemvillatte.github.io/flourishing-compendium/#card=Existential%20communication): Jaspers's term for the exchange in which two people address each other as selves rather than as cases; his claim that the authentic self does not exist prior to the exchange: I am only in communication with another.
 
 ### Plain words, slow words, and silence
 
 [Plain words over beautiful](https://clemvillatte.github.io/flourishing-compendium/#card=Plain%20words%20over%20beautiful): Laozi's counsel, in several translations, that true words are not beautiful and beautiful words are not true.
+
+[The sage teaches without words](https://clemvillatte.github.io/flourishing-compendium/#card=The%20sage%20teaches%20without%20words): the Daodejing 2 entry on the sage who teaches without words, the companion piece to the plain-words counsel.
+
+[Thundering silence](https://clemvillatte.github.io/flourishing-compendium/#card=Thundering%20silence): the Vimalakirti Sutra's most famous moment: asked for his account of nonduality, Vimalakirti answers with nothing, and the silence is the answer.
+
+[The word hidden in the heart](https://clemvillatte.github.io/flourishing-compendium/#card=The%20word%20hidden%20in%20the%20heart): the Psalm 119.11 entry on the word kept inward as formation, speech internalised rather than merely spoken.
 
 [D122 — Prefer plain words to beautiful ones](https://clemvillatte.github.io/flourishing-compendium/#card=D122%20%E2%80%94%20Prefer%20plain%20words%20to%20beautiful%20ones): the Daoist formation rule drawn from the same chapter.
 
@@ -159,17 +181,17 @@ The five-factor version the tradition also carries:
 
 [D135 — Teach without words](https://clemvillatte.github.io/flourishing-compendium/#card=D135%20%E2%80%94%20Teach%20without%20words): the paradoxical chapter 43 and 73 counsel that the way is most often taught without words.
 
-[B172 — Value silence](https://clemvillatte.github.io/flourishing-compendium/#card=B172%20%E2%80%94%20Value%20silence): the Christian formation of silence as its own speech, not the absence of it.
+[B172 — Value silence](https://clemvillatte.github.io/flourishing-compendium/#card=B172%20%E2%80%94%20Value%20silence): the MN 122 measure for talk: not engaging in talk that is base, vulgar, common, ignoble, unbeneficial; silence as the standard that sorts the kinds of talk.
 
-[Silence as evidence](https://clemvillatte.github.io/flourishing-compendium/#card=Silence%20as%20evidence): the inference problem: what a person's silence does and does not mean, and how hearers read it.
+[Silence as evidence](https://clemvillatte.github.io/flourishing-compendium/#card=Silence%20as%20evidence): Peirce's warning in The Fixation of Belief: agreement produced by force is not agreement at all; let all men who reject the established belief be terrified into silence.
 
-[Silence in negotiation research](https://clemvillatte.github.io/flourishing-compendium/#card=Silence%20in%20negotiation%20research): the studies of how silence functions at the table, both as pressure and as space.
+[Silence in negotiation research](https://clemvillatte.github.io/flourishing-compendium/#card=Silence%20in%20negotiation%20research): Curhan and colleagues' experiments on extended silence: pauses of at least three seconds, dyad-level, correlate with value creation in bargaining.
 
 [Distanced self-talk (Kross)](https://clemvillatte.github.io/flourishing-compendium/#card=Distanced%20self-talk%20%28Kross%29): the finding that coaching yourself by name, in the second or third person, works better than the first-person rumination, which is inner speech ethics.
 
-[Self-talk research](https://clemvillatte.github.io/flourishing-compendium/#card=Self-talk%20research): the wider findings on what the inner voice does, instructional and motivational, and what its harsh register costs.
+[Self-talk research](https://clemvillatte.github.io/flourishing-compendium/#card=Self-talk%20research): the study of what people say to themselves, its content and its effects; Hardy, Hall and Hardy's finding that athletes' self-talk is generally positive, covert and abbreviated.
 
-[ST343 — The Buddha's Last Words](https://clemvillatte.github.io/flourishing-compendium/#card=ST343%20%E2%80%94%20The%20Buddha%27s%20Last%20Words): the final teaching told as a speech event: the last words given as seed, the whole teaching compressed into a sentence the disciples could carry.
+[ST343 — The Buddha's Last Words](https://clemvillatte.github.io/flourishing-compendium/#card=ST343%20%E2%80%94%20The%20Buddha%27s%20Last%20Words): the Maha-parinibbana Sutta's account of the final journey: he three times invites the assembled monks to raise any doubt or perplexity, three times the monks sit silent, and the sentence the sutta records as his last follows between the sal trees.
 
 ## Where the traditions genuinely disagree
 
@@ -177,23 +199,15 @@ The five-factor version the tradition also carries:
 
 The shared question: when speech is true and useful, must it also be agreeable to its hearer? The Bhagavad Gita's definition of the austerity of speech says yes, and makes the listener's ease part of the discipline:
 
-> "Words causing no man woe, words ever true, / Gentle and pleasing words, and those ye say / In murmured reading of a Sacred Writ,-- / These make the true religiousness of Speech." ([Edwin Arnold, The Song Celestial XVII.15](https://www.gutenberg.org/files/2388/2388-0.txt)): Primary text; quoted passages checked.
+> "Words causing no man woe, words ever true, / Gentle and pleasing words, and those ye say / In murmured reading of a Sacred Writ,-- / These make the true religiousness of Speech." ([Edwin Arnold, The Song Celestial XVII.15](https://www.gutenberg.org/cache/epub/2388/pg2388.txt)): Primary text; quoted passages checked.
 
-The Abhaya Sutta's case list answers no, in its third case: words that are factual, true, beneficial, and unendearing are to be said, at the proper time, and the reason given is sympathy, not its absence. The two traditions answer the same question and part on whether pleasantness is a duty of the speaker or a hazard to be timed around. What remains unresolved is whether the Gita's demand protects the hearer or merely protects the speaker from the harder conversation, and the wiki's own three-gates material, which fuses both answers, does not settle it.
-
-### Does truth demand utterance, whatever it costs?
-
-The shared question: is there a speech act the truth itself demands, whatever the danger or the reception? The Greek parrhesia tradition says yes, and defines itself by the risk:
-
-> "Parrhesia, then, is linked to courage in the face of danger: it demands the courage to speak the truth in spite of some danger." ([Michel Foucault, Discourse and Truth, lecture 1](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/)): Primary text; quoted passages checked.
-
-The Abhaya formula answers with the time-sense instead: even factual, beneficial words wait for the proper time, and truth alone does not license the utterance. The two positions answer the same question, what a person who knows something owes the people around them, and part on whether the debt is owed now or on schedule. What remains unresolved is the hard case both traditions circle: silence in the presence of wrongdoing, prudence on one reading and complicity on the other. The compendium's own story of Thomas More, who answered his judges with silence and was executed for it, is the case both readings claim.
+The Abhaya Sutta's case list answers no, in its third case: words that are factual, true, beneficial, and unendearing are to be said, at the proper time, and the reason given is sympathy, not its absence. The two traditions answer the same question and part on whether pleasantness is a duty of the speaker or a factor to be timed around. What remains unresolved is where the line falls in the hard case: a truth that is beneficial, unendearing, and whose hearer is not ready for it.
 
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the rush from impression to utterance: the volume mistaken for truth, the venting mistaken for honesty, the advice that relieves the speaker and burdens the hearer, and the fluency of a repeated claim mistaken for its being so. The adaptive direction is the gap between the stir and the saying: the words run through the gate of true, timely, beneficial, and kind, the listening done before the verdict, and the plain word preferred to the beautiful one.
 
-::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+::Selection:: The compendium's selected practices on this theme, each a selected source of that variation:
 
 1. [K208 — Speech gate](https://clemvillatte.github.io/flourishing-compendium/#card=K208%20%E2%80%94%20Speech%20gate): run the waiting words through the gate: factual, beneficial, timely, kind, in that order of refusal.
 
@@ -219,13 +233,13 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST066 — The Kālāmas Test It](https://clemvillatte.github.io/flourishing-compendium/#card=ST066%20%E2%80%94%20The%20K%C4%81l%C4%81mas%20Test%20It): teachers pass through the town contradicting each other, each claiming sole truth, and the Buddha tells the Kālāmas to test teachings in their own conduct and know for themselves which things lead to welfare.
 
-[ST131 — Juror 8 Just Wants to Talk](https://clemvillatte.github.io/flourishing-compendium/#card=ST131%20%E2%80%94%20Juror%208%20Just%20Wants%20to%20Talk): eleven jurors vote guilty at once and one says only that he does not know and wants to talk; each certainty turns out to have been borrowed.
+[ST131 — Juror 8 Just Wants to Talk](https://clemvillatte.github.io/flourishing-compendium/#card=ST131%20%E2%80%94%20Juror%208%20Just%20Wants%20to%20Talk): eleven jurors vote guilty at once and one says only that he does not know and wants to talk.
 
 ### The one sentence that holds
 
 [ST387 — Ciñcā Accuses the Buddha Before the Assembly](https://clemvillatte.github.io/flourishing-compendium/#card=ST387%20%E2%80%94%20Ci%C3%B1c%C4%81%20Accuses%20the%20Buddha%20Before%20the%20Assembly): a woman fakes pregnancy and accuses the Buddha before the crowd, and his one sentence, whether her words are true or false is known only to her and to him, is the whole defense; the deception unmasks itself.
 
-[ST343 — The Buddha's Last Words](https://clemvillatte.github.io/flourishing-compendium/#card=ST343%20%E2%80%94%20The%20Buddha%27s%20Last%20Words): the last words given as seed for the disciples to plant, the whole teaching compressed into the laconic sentence the tradition could carry forward.
+[ST343 — The Buddha's Last Words](https://clemvillatte.github.io/flourishing-compendium/#card=ST343%20%E2%80%94%20The%20Buddha%27s%20Last%20Words): on the final journey he three times invites the assembled monks to raise any doubt or perplexity about the Buddha, the Dhamma, the Sangha, the path or the practice, three times the monks sit silent, and the sentence the sutta records as his last follows between the sal trees.
 
 ### The friends who talk too much
 
@@ -239,12 +253,12 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### What speech does when it cannot
 
-[ST276 — Alice Loses the Words](https://clemvillatte.github.io/flourishing-compendium/#card=ST276%20%E2%80%94%20Alice%20Loses%20the%20Words): a linguistics professor loses her words to Alzheimer's, and the film's ending argues that what remains, when the narrative self dissolves, is not the story but the relation with the person still reading to her.
+[ST276 — Alice Loses the Words](https://clemvillatte.github.io/flourishing-compendium/#card=ST276%20%E2%80%94%20Alice%20Loses%20the%20Words): a linguistics professor loses her words to early-onset Alzheimer's, and the film ends with her daughter reading to her, Alice unable to follow the plot but following the sentence.
 
 ### Speech as public architecture
 
-[ST227 — Tutu and the Truth Commission](https://clemvillatte.github.io/flourishing-compendium/#card=ST227%20%E2%80%94%20Tutu%20and%20the%20Truth%20Commission): the Truth and Reconciliation Commission trades amnesty for full public disclosure, and the two streams of testimony, perpetrators and victims, are recorded in the same archive; truth spoken aloud as the repair a country could survive.
+[ST227 — Tutu and the Truth Commission](https://clemvillatte.github.io/flourishing-compendium/#card=ST227%20%E2%80%94%20Tutu%20and%20the%20Truth%20Commission): the commission offers amnesty in exchange for full public disclosure of political crimes; perpetrators testify in public, victims testify, and the two streams are recorded in the same archive.
 
 ### Whose voice counts as reasoning
 
-[ST246 — Gilligan's Different Voice](https://clemvillatte.github.io/flourishing-compendium/#card=ST246%20%E2%80%94%20Gilligan%27s%20Different%20Voice): the moral-development tests scored women lower, and Gilligan asked whether the fault was in the women or the instrument; the care-based voice is a complete moral logic that a psychology that cannot hear it mistakes for immaturity.
+[ST246 — Gilligan's Different Voice](https://clemvillatte.github.io/flourishing-compendium/#card=ST246%20%E2%80%94%20Gilligan%27s%20Different%20Voice): working in Kohlberg's moral-development research programme, Gilligan notices that the tests systematically scored women lower, and asks whether the fault is in the women or the instrument.

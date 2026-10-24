@@ -3,81 +3,135 @@
 Writer: worker-pplx-dos20-1024h, band dos20 (mint 3, the Noble Eightfold Path).
 Registry status stays 'planned'; the supervisor flips and publishes.
 
-## Quotes and carriers, all opened this session
+Revision 2 (QC pass): all quotes below re-verified against raw carrier
+text fetched with curl (not LLM extraction); glosses audited against
+their cards and repaired where they had drifted from the card's own
+account (B145, B146, B148, B172, M028, Truthfulness, Existential
+communication, Self-deception, Hermeneutic listening, Authentic
+communication, Silence as evidence, Integrative Theory of
+Communication Work, The three gates of speech, and others); the second
+divergence (parrhesia vs timing) removed as not a genuine disagreement
+after review; the Gita carrier URL corrected to the plain-text file
+actually opened; Story loglines reduced to the incident, without
+interpretive endings; untruncated title sweep run and the missing
+on-theme concept cards added (Right listening, Speech gate, Dialogue,
+Conversation as method, Conversational research, Assertiveness research,
+Assertiveness training, The sage teaches without words, Thundering
+silence, The word hidden in the heart, The truth sets you free).
+
+## Quotes and carriers, all opened this session (raw text)
 
 1. Four abstentions, SN 45.8 (Thanissaro, Access to Insight):
    https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html
-   Verified word-for-word via fetch of the page: "And what is right speech?
-   Abstaining from lying, abstaining from divisive speech, abstaining from
-   abusive speech, abstaining from idle chatter: This, monks, is called
-   right speech."
-   Note: the Right speech concept card prints this formula with "divisive
-   tale-bearing" (Thanissaro's alternative rendering); the page text opened
-   this session reads "divisive speech". The dossier quotes the opened page.
+   Verified word-for-word against the raw HTML fetched with curl:
+   "Abstaining from lying, abstaining from divisive speech, abstaining
+   from abusive speech, abstaining from idle chatter: This, monks, is
+   called right speech." (The Magga-vibhanga Sutta page.)
+   Note: the Right speech concept card prints this formula with
+   "divisive tale-bearing"; the page text opened this session reads
+   "divisive speech". The dossier quotes the opened page. Flagged for
+   the concept band.
 
 2. Six-case formula, MN 58 (Thanissaro, Access to Insight):
    https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html
-   Cases [3] and [6] plus the sympathy line verified word-for-word, including
-   the parenthetical "(or: not connected with the goal)" in case [1] and the
-   "(6)" case ending "Why is that? Because the Tathagata has sympathy for
-   living beings." The dossier quotes cases [3] and [6] with the ellipsis
-   marked; no words altered.
+   Cases [3] and [6] plus the sympathy line verified against the raw
+   HTML fetched with curl, including "he has a sense of the proper time
+   for saying them. Why is that? Because the Tathagata has sympathy for
+   living beings." The dossier quotes cases [3] and [6] with the
+   ellipsis marked; no words altered.
 
-3. Infant/stick/gravel passage, MN 58 (same carrier as 2): the Abhaya
-   conversation with Prince Abhaya. Verified word-for-word: "If I couldn't
-   get it out right away, then holding its head in my left hand and crooking
-   a finger of my right, I would take it out, even if it meant drawing
-   blood. Why is that? Because I have sympathy for the young boy."
-   The dossier quote begins mid-passage at "If I couldn't get it out
-   right away"; the preceding sentence of the exchange is on the card
-   K208 and in the Right speech concept page, and the ellipsis-free
-   compression was checked against the opened page.
+3. Infant/stick/gravel passage, MN 58 (same carrier): verified against
+   the raw HTML: "If I couldn't get it out right away, then holding its
+   head in my left hand and crooking a finger of my right, I would take
+   it out, even if it meant drawing blood. Why is that? Because I have
+   sympathy for the young boy." The dossier quote begins mid-passage at
+   "If I couldn't get it out right away"; the full exchange is on the
+   Speech gate concept card and K208.
 
 4. Five factors, AN 5.198 (Thanissaro, Access to Insight):
    https://www.accesstoinsight.org/tipitaka/an/an05/an05.198.than.html
-   Verified word-for-word: "It is spoken at the right time. It is spoken in
-   truth. It is spoken affectionately. It is spoken beneficially. It is
-   spoken with a mind of good-will." The dossier quotes the five lines
-   without the surrounding "Which five?" frame.
+   Verified against the raw HTML fetched with curl: "It is spoken at the
+   right time. It is spoken in truth. It is spoken affectionately. It is
+   spoken beneficially. It is spoken with a mind of good-will."
 
 5. Bhagavad Gita 17.15 (Edwin Arnold, The Song Celestial, Project
-   Gutenberg, file 2388): https://www.gutenberg.org/files/2388/2388-0.txt
+   Gutenberg plain text, ebook 2388):
+   https://www.gutenberg.org/cache/epub/2388/pg2388.txt
    Verified word-for-word by curl of the plain-text file, chapter XVII:
-   "Words causing no man woe, words ever true, / Gentle and pleasing words,
-   and those ye say / In murmured reading of a Sacred Writ,-- / These make
-   the true religiousness of Speech."
+   "Words causing no man woe, words ever true, / Gentle and pleasing
+   words, and those ye say / In murmured reading of a Sacred Writ,-- /
+   These make the true religiousness of Speech."
    Divergence 1 (must right words be pleasing) uses this against MN 58
    case [3]. Note: the Beneficial speech concept card quotes a different
-   translation ("Speaking words that cause no agitation...") from a carrier
-   (Wisdom Library) that was NOT openable this session (client error on two
-   fetch attempts); the dossier therefore carries the Arnold rendering from
-   the opened Gutenberg carrier instead, and attributes it to Arnold.
+   translation from Wisdom Library, which was not openable this session
+   (client error on two attempts); the dossier carries the Arnold
+   rendering from the opened Gutenberg carrier and attributes it.
 
-6. Foucault, parrhesia and courage:
+6. Foucault, parrhesia and courage (removed from the dossier in
+   revision 2; kept here for the record):
    https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/
-   Verified word-for-word via fetch: "Parrhesia, then, is linked to courage
-   in the face of danger: it demands the courage to speak the truth in
-   spite of some danger." Divergence 2 (does truth demand utterance)
-   uses this against the Abhaya time-sense.
+   Verified against the raw HTML fetched with curl: "Parrhesia, then, is
+   linked to courage in the face of danger: it demands the courage to
+   speak the truth in spite of some danger." The planned second
+   divergence (parrhesia vs the Abhaya time-sense) was removed on
+   review: courage despite danger and choosing the proper time are
+   compatible, and Foucault's passage does not claim truth demands
+   immediate utterance regardless of benefit. Parrhesia stays in the map.
 
 ## Map and practice sources
 
-- Every card link resolves (checker: 79 card links, 0 unresolved).
-- Map glosses are compressed from the linked cards' own opening text;
-  cards opened this session for gloss compression: Right speech, Wise speech
-  criteria, The three gates of speech, Speech gate (K208), Beneficial
-  speech, Idle talk (Gerede), Parrhesia (frank speech), Truthfulness,
-  Prosocial honesty research, Sparse speech, Silence as evidence, Plain
-  words over beautiful, The strong claim of the loud voice, Different voice,
-  K207/K366/K402/K288/K380 kernels, and the story cards ST066, ST131,
-  ST225, ST227, ST246, ST276, ST290, ST343, ST359, ST387.
-- Registry scope honoured: the six-case formula re-checked against the
-  opened MN 58 (see 2 above); relational material kept inside the map
-  under its own group (the Others dossier holds the relation-first
-  treatment); modern relatives covered in their own group (NVC,
-  active listening, speech-act theory).
-- No sayings folder cards were used; the compendium holds no speech
-  sayings beyond the stories listed.
+- Every card link resolves (checker: card links, 0 unresolved).
+- Map glosses are compressed from the linked cards' own opening text.
+  Cards opened this session for gloss compression and audit: Right
+  speech, Wise speech criteria, The three gates of speech, Speech gate,
+  Beneficial speech, Idle talk (Gerede), Parrhesia (frank speech),
+  Truthfulness, Prosocial honesty research, Sparse speech, Silence as
+  evidence, Silence in negotiation research, Plain words over beautiful,
+  The strong claim of the loud voice, Different voice, Deception
+  research, Interpersonal Deception Theory, Self-deception,
+  Fluency-driven illusory truth, Harsh self-criticism, Active listening,
+  Deep listening, Hermeneutic listening, Communication Accommodation
+  Theory, Spiral of Silence Theory, Nonviolent communication, Speech Act
+  Theory, Integrative Theory of Communication Work, Authentic
+  communication, Existential communication, Dialogue, Conversation as
+  method, Conversational research, Assertiveness research, Assertiveness
+  training, Right listening, The sage teaches without words,
+  Thundering silence, The word hidden in the heart, The truth sets you
+  free, D118/D119/D122/D135, B145/B146/B148/B172, M028, A019/A030,
+  the kernels K207/K208/K216/K288/K366/K380/K402, and the story cards
+  ST066, ST131, ST225, ST227, ST246, ST276, ST290, ST343, ST359, ST387.
+- Principle pages bearing speech, truth, word and listening in the title
+  (B023, B147, S075, S076, S130, P128, P168, R091, R092 and kin) are
+  deliberately not listed inline, following the map convention recorded
+  in the-self.md: every concept card carries onward to the principles
+  that cite it.
+
+## Scope and exclusions (untruncated sweep)
+
+Title sweep over all content directories for speech, talk, truth, lie,
+listening, word, voice, communication, gossip, slander, silence, frank,
+honest, deception, assertive, dialogue, conversation. Excluded as
+off-theme, with reasons:
+
+- Cohort model of speech perception; TRACE model of speech perception:
+  psycholinguistics of perception, not speech ethics (DISAMBIGUATION
+  notes these).
+- K400 Word repetition; K401 Sing the thought: thought-work kernels,
+  not speech ethics.
+- K134 Two-truths drill; Two truths; B122: philosophy of truth, not
+  speech conduct.
+- Belief-evaluation cards (Belief as habit, Belief perseverance,
+  Questioning inherited beliefs, The will to believe, etc.): reached
+  from Truthfulness rather than held inline.
+- Resilience and cultural-resilience cards: matched on "bounce-back"
+  wording, not speech.
+- SE017/SE032 (inner critic, inner ally), CO066 (distanced self-talk
+  principle), P029, SP046: held on the self-talk and thought cards the
+  map links (Distanced self-talk, Self-talk research); not duplicated
+  inline.
+- Stories matched but off-theme for speech ethics: ST036, ST184, ST279,
+  ST305, ST311, ST321, ST372/ST417, ST392/ST430, ST232, ST066 is
+  included (testing words), others are reached from their own dossiers.
 
 ## Open points for a revision pass
 
@@ -85,9 +139,10 @@ Registry status stays 'planned'; the supervisor flips and publishes.
   tale-bearing") differs from the page as it prints today ("divisive
   speech"); flagged for the concept band, not changed here.
 - The Sufi three-gates provenance is carried on the concept card without
-  an openable carrier this session; the dossier describes it as "the Sufi
-  form being the best known" per the card's own text and does not quote it.
-- Candidate additional divergence for a revision pass: Heidegger's Gerede
-  (idle talk as fallenness) vs the Daoist guayan (rare speech as
-  formation), both in the map; not developed into a divergence here because
-  no Gerede quote was verified against an opened carrier this session.
+  an openable carrier this session; the dossier describes the card's own
+  attribution problem (Rumi, never to a specific work, possibly a
+  misquote) and does not quote the saying.
+- Candidate additional divergence for a revision pass: Heidegger's
+  Gerede (idle talk as fallenness) vs the Daoist guayan (rare speech as
+  formation); not developed here because no Gerede quote was verified
+  against an opened carrier this session.
