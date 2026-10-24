@@ -175,3 +175,16 @@ exhaustive-map spec. Evidence basis:
 
 Final state: 200 blocks, 0 truncated, 0 non-quote em dashes, 160 card
 targets resolve, markdown and Academy data in parity.
+
+## Story section (worker-pplx-dossiers-1024e, 2026-10-24)
+
+Owner-directed 4th section (after Practice), per the format spec now in
+docs/enrichment/dossiers/README.md. The thirteen story loglines are
+compressed from the story cards' own text; every cited story file was
+opened and read this session (content/stories/ST002, ST017, ST034, ST065,
+ST263, ST264, ST283, ST285, ST293, ST312, ST334, ST335, ST377). No
+external carrier was opened for them: the loglines retell the wiki's own
+story cards at narrative level and do not restate their historical or
+psychological claims. The selection mirrors the map's subthemes (what the
+self is taken to be, the observing self, the self under another's eyes,
+the narrative self, identity over a life, the self in the body).

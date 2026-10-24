@@ -423,3 +423,45 @@ The research behind it is quoted in the opening: self-distancing eliminated the 
 16. [Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted)](https://clemvillatte.github.io/flourishing-compendium/#card=K384%20%E2%80%94%20Two-Chair%20dialogue%3A%20compassionate%20self%20%E2%86%94%20vulnerable%20self%20%28solo-adapted%29): a spoken dialogue between the vulnerable chair and the compassionate chair, facing each other.
 
 ::Retention:: Retention is what people keep because it works for them. Keep a practice that helped, and give it a place in ordinary life; a name for the observer, a kinder sentence to say to yourself, a story you found out you could re-tell.
+
+## Story: the stories that carry the theme
+
+The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+
+### What the self is taken to be
+
+[ST065 — Nagasena and the Chariot](https://clemvillatte.github.io/flourishing-compendium/#card=ST065%20%E2%80%94%20Nagasena%20and%20the%20Chariot): King Milinda asks who "Nagasena" is if there is no self; the monk answers with the king's own chariot: no part is it, and the name belongs to the working assembly.
+
+[ST002 — The Butterfly Dream](https://clemvillatte.github.io/flourishing-compendium/#card=ST002%20%E2%80%94%20The%20Butterfly%20Dream): Zhuangzhou wakes unsure whether he is a man who dreamed he was a butterfly or a butterfly now dreaming it is a man; the fragment is held as a discipline of gripping one's own perspective lightly.
+
+### The observing self and the step back
+
+[ST017 — The Mind as Mirror](https://clemvillatte.github.io/flourishing-compendium/#card=ST017%20%E2%80%94%20The%20Mind%20as%20Mirror): the sage's mind, says the Zhuangzi, is a still mirror: it does not go out to meet things, it responds to what comes and lets it pass, and it stores no grudges.
+
+[ST334 — The Sky and the Weather](https://clemvillatte.github.io/flourishing-compendium/#card=ST334%20%E2%80%94%20The%20Sky%20and%20the%20Weather): thoughts and feelings arrive like weather, without permission; the part that notices them is the sky, exactly as large as it was before the storm.
+
+### The self under another's eyes
+
+[ST283 — Sartre's Keyhole](https://clemvillatte.github.io/flourishing-compendium/#card=ST283%20%E2%80%94%20Sartre%27s%20Keyhole): footsteps in the hall turn a man absorbed in listening into a shameful object; being seen is a dimension of himself that his own consciousness cannot produce.
+
+[ST335 — The Prince and the Beggar](https://clemvillatte.github.io/flourishing-compendium/#card=ST335%20%E2%80%94%20The%20Prince%20and%20the%20Beggar): a prince and a beggar trade places for a day; the clothes change, the treatment changes, and the habits travel with the wearer.
+
+[ST034 — Truman Takes the Door](https://clemvillatte.github.io/flourishing-compendium/#card=ST034%20%E2%80%94%20Truman%20Takes%20the%20Door): offered safety and comfort to stay inside the world built around him, Truman bows, says his catchphrase and steps through the door into the dark.
+
+### The narrative self
+
+[ST285 — Ricoeur's Threefold Mimesis](https://clemvillatte.github.io/flourishing-compendium/#card=ST285%20%E2%80%94%20Ricoeur%27s%20Threefold%20Mimesis): the circuit from lived action to emplotment and back into a changed life; the self as the story one tells and lives, with the telling shaping the living.
+
+[ST312 — McAdams's Redemptive Sequences](https://clemvillatte.github.io/flourishing-compendium/#card=ST312%20%E2%80%94%20McAdams%27s%20Redemptive%20Sequences): the same life can be narrated as suffering that leads to growth or as the reverse; the telling is not a report on the events but a shaping of them.
+
+### Identity over a life
+
+[ST293 — The Three Metamorphoses](https://clemvillatte.github.io/flourishing-compendium/#card=ST293%20%E2%80%94%20The%20Three%20Metamorphoses): the spirit as camel that kneels to be loaded, lion that clears the ground and child that begins; the lion cannot create, and only the child can.
+
+### The self in the body
+
+[ST263 — The Phantom Hand](https://clemvillatte.github.io/flourishing-compendium/#card=ST263%20%E2%80%94%20The%20Phantom%20Hand): the patient who has lost an arm still reaches with the hand; the body schema does not dissolve when a part is lost.
+
+[ST264 — Bauby Blinks](https://clemvillatte.github.io/flourishing-compendium/#card=ST264%20%E2%80%94%20Bauby%20Blinks): a stroke leaves the mind intact inside a paralysed body, and a memoir is dictated one blink at a time; the world shrank, and the consciousness did not.
+
+[ST377 — Ziyu Looks at His Reflection in the Well](https://clemvillatte.github.io/flourishing-compendium/#card=ST377%20%E2%80%94%20Ziyu%20Looks%20at%20His%20Reflection%20in%20the%20Well): illness bends his body into a hook, and when Zisi asks whether he resents it, he looks at his reflection in the well and asks what there is to resent.
