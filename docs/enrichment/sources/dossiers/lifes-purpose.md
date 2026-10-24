@@ -158,3 +158,56 @@ verified quotes was dropped.
 python3 scripts/dossier_check.py docs/enrichment/dossiers/lifes-purpose.md
 after the merge: 58 card links resolve, 14 headers, 19 external carriers,
 exit 0.
+
+## Revision 3 (worker-pplx-dos6-1024e, 2026-10-24)
+
+Advisor QC pass applied, plus the owner-directed "## Story:" section update.
+
+### Structural changes
+
+- The second divergence ("Is the answer given, discovered, or built?") was
+  dissolved per advisor QC: the three quotes do not establish incompatible
+  answers (Frankl's meanings and Aristotle's function can be held together).
+  The Aristotle function-argument quote and the Frankl "discovered in the
+  world" quote now sit in the "What a purpose is taken to be" map subtheme;
+  the Kelly quote sits at the end of "Meaning made rather than found".
+  Locator note for the Aristotle quote: the printed span is the closing
+  clause of the NE I.7 function-argument sentence; the full conditional
+  run-up is at the carrier.
+- Evidence-status separators changed from em dash to colon form throughout,
+  matching the anger exemplar and the humanizer rule.
+- Superordinate goals (Robbers Cave) removed from the map: its center is
+  intergroup hostility, not a life's purpose; recorded here as read and
+  excluded. Intrinsic versus extrinsic goals added to "Purpose and goals"
+  (the Kasser/Ryan distinction is squarely on-theme). Goal adjustment
+  capacity read and folded into the Goal disengagement entry rather than
+  listed separately.
+- K316 Mortality-to-action translation added to Selection with its
+  mortality-salience evidence limit; K225 and K151 lines now carry the
+  kernel cards' own evidence limits.
+- Stories moved out of the map into the owner-directed "## Story:" section
+  (10 stories grouped under five of the map's subthemes), per the updated
+  the-self.md exemplar; the saying "Everything serves a purpose" stays in
+  the map (sayings are not stories).
+
+### Raw-text verification (revision 3)
+
+All quotes used on the page that this session placed were verified by
+downloaded-carrier substring match (curl + pdftotext/HTML strip), not
+prompted extraction:
+
+- Frankl PDF (antilogicalism.com): will-to-meaning sentence, attitude-
+  freedom sentence, questioned-by-life passage, discovered-in-the-world
+  sentence: MATCH.
+- Aristotle NE I.7 (classics.mit.edu): function-argument closing clause:
+  MATCH.
+- Kelly excerpt (infoamerica.org): "Whatever the world may be..." MATCH.
+- Weber ch. III (marxists.org): Beruf sentence: MATCH.
+- Steger OUP chapter abstract: raw curl does not contain the abstract
+  (JS-rendered page); verified against the fetch tool's rendering, the
+  allowed method per dossiers/HANDOFF.md.
+
+### Validation
+
+dossier_check.py after revision 3: 67 card links resolve, 19 headers,
+19 external carriers, exit 0 (Story section present).
