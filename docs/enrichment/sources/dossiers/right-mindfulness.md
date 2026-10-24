@@ -3,9 +3,10 @@
 Verification record for docs/enrichment/dossiers/right-mindfulness.md, revision 1 (pass 1).
 
 Every quoted fragment in this dossier was fetched and read from its
-carrier during this session (2026-10-24, ~08:00–08:02 UTC, per session
-clock readings: baton dos24 claimed at 07:59:40Z, draft written and
-pushed by the 08:02:21Z reading). The session clock runs from T0 =
+carrier during this session (2026-10-24, per session clock readings:
+baton dos24 claimed at 07:59:40Z, the pass-1 save confirmed by the
+08:00:31Z reading; the card-read audit below was completed by the
+08:04:41Z reading). The session clock runs from T0 =
 2026-10-24 07:25:01 UTC; fresh UTC and monotonic pairs are recorded in
 the workspace run_clock file, with the monotonic readings labelled as
 such and the original run_clock file's date +%s%N value noted as a
@@ -48,13 +49,15 @@ NOT yet done and are recorded here as remaining work, not as claims:
   related) and the science cards have not been individually read into
   the map. The map's section headers say what is held, not that every
   wiki card on the theme is present.
-- The Goyal et al. 2014 summary is the Right mindfulness card's own
-  summary and is stated in the dossier as the card's; the JAMA
-  Internal Medicine carrier has not been opened this pass (PubMed
-  access failed earlier in the session for a different article, and
-  the JAMA page is paywalled). It is flagged for carrier verification
-  in a later pass, and the dossier sentence says it is the card's
-  summary.
+- The Goyal et al. 2014 (JAMA Internal Medicine) evidence summary
+  was a candidate drawn from the Right mindfulness card. The PubMed
+  page for the article (pubmed.ncbi.nlm.nih.gov/24395196/) was
+  fetched this pass and returned a 5591-byte shell with no article
+  content, the same bot-block pattern as the ctext carrier in dos21;
+  the JAMA page was not fetched. Per the advisor's instruction the
+  numerical research paragraph was removed from the dossier and the
+  candidate is retained only here, in the ledger. It is flagged for
+  carrier verification in a later pass.
 - MN 118 (anapanasati) and the Fourth Noble Truth factor listing were
   fetched; the expected wordings were not found verbatim in those
   pages, so no quotation from either is in the dossier. No quote from
@@ -64,10 +67,23 @@ NOT yet done and are recorded here as remaining work, not as claims:
 
 ## Card read notes
 
-- The Right mindfulness and Sati cards were read in full before the
-  draft was written; the map's factor descriptions compress them.
-- The kernel and story lines were checked against their content/
-  files at the title level only; the practice descriptions are the
-  compendium's own kernel texts compressed, and the story loglines
-  compress the story cards' openings. A full card-by-card description
-  audit remains for a later pass.
+- Card-by-card description audit (advisor round 1, this pass): the
+  opening paragraphs of every concept card linked in the map were
+  read, and the descriptions were corrected where they did not
+  compress the card's own opening. The Attention card was found to
+  have an empty body and its entry was removed from the map;
+  Focused-attention meditation was found to be Lutz et al.'s account
+  of directing and sustaining attention on a chosen object with
+  noticing and return, not absorption without strain, and was
+  re-described and separated from Effortless attention; The effort of
+  attention was found to be James's phrase and separated from Weil's
+  craft and discipline entries; Mindful presence and Mindfulness's
+  clarity mechanism were re-described to match their thin one-line
+  cards; Eightfold Path, The three trainings, Metacognitive awareness
+  and Present-moment awareness theory were re-compressed from their
+  cards' openings.
+- The kernel practice lines and the two story loglines have been
+  read against their content/ files' openings this pass; the kernel
+  lines compress the kernel cards' instruction sentences and the
+  loglines compress the story cards' first lines. A deeper audit
+  against the full card bodies remains for a later pass.
