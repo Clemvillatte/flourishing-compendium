@@ -196,49 +196,55 @@ The [capability approach](https://plato.stanford.edu/entries/capability-approach
 
 I would keep two questions open together: what must no person be denied, and what should each person be free to decide? A shared minimum need not prescribe an identical life.
 
-## Practice: variation, selection, retention
+## Practice: finding what to change
 
-::Variation:: What tends to need varying on this theme is the aim itself. The counterfeits share a shape: a good life taken to be a feeling to be held, a number to be reached, or an image to be kept up. The adaptive direction is toward the aim the classical and scientific accounts keep returning to: activity that uses a person's capacities, goals that meet real needs, ties to other people, and a sense of what the life is for.
+::Variation:: If life has become a project of maintaining an image, reaching the next number or checking whether you feel happy enough, begin with the aim. Ask what you would still care about doing if it brought no admiration, and what your present way of living is leaving too little room for.
 
-::Selection:: The kernels I have selected as sources of that variation:
+::Selection:: Choose the question that is most alive for you and begin with one exercise. There is no need to turn every possibility into another demand.
 
-1. [Values clarification](https://clemvillatte.github.io/flourishing-compendium/#card=K149%20%E2%80%94%20Values%20clarification): write what the life should stand for, as directions and not goals, across work, relationships, body, growth and community.
+### Clarify what matters
 
-2. [Eulogy exercise](https://clemvillatte.github.io/flourishing-compendium/#card=K151%20%E2%80%94%20Eulogy%20exercise): write the eulogy you would want, to test the values against mortality.
+1. [Values clarification](https://clemvillatte.github.io/flourishing-compendium/#card=K149%20%E2%80%94%20Values%20clarification): write what you want your life to stand for in work, relationships, health, growth or community. Use directions you can live by, not only targets you can complete.
 
-3. [Desire inventory](https://clemvillatte.github.io/flourishing-compendium/#card=K281%20%E2%80%94%20Desire%20inventory): list current desires and ask of each whether it fits what you value, whether it serves your flourishing, and what happens if you let it go.
+2. [Eulogy exercise](https://clemvillatte.github.io/flourishing-compendium/#card=K151%20%E2%80%94%20Eulogy%20exercise): write what you would hope to be remembered for. Look for a value you want to make more visible in an ordinary week.
 
-4. [Sufficiency testing](https://clemvillatte.github.io/flourishing-compendium/#card=K279%20%E2%80%94%20Sufficiency%20testing): decide in advance what would be enough in one domain and see whether the goalpost moves.
+3. [Desire inventory](https://clemvillatte.github.io/flourishing-compendium/#card=K281%20%E2%80%94%20Desire%20inventory): list current desires, then ask which fit your values and which mainly answer pressure or comparison. Consider what you would lose, and what you might recover, by letting one go.
 
-5. [Enough lines](https://clemvillatte.github.io/flourishing-compendium/#card=K155%20%E2%80%94%20Enough%20lines): define sufficiency for each life domain while the judgment is still cold.
+4. [Meaning audit](https://clemvillatte.github.io/flourishing-compendium/#card=K223%20%E2%80%94%20Meaning%20audit): review the month's activities and your reasons for doing them. Notice the difference between a chosen commitment and something maintained mainly by guilt, pressure or reward.
 
-6. [Signature strengths in new ways](https://clemvillatte.github.io/flourishing-compendium/#card=K251%20%E2%80%94%20Signature%20strengths%20in%20new%20ways): find the top five strengths on the VIA inventory and use one in a new way each day.
+5. [The meaning question](https://clemvillatte.github.io/flourishing-compendium/#card=K351%20%E2%80%94%20The%20meaning%20question): return to what this life is for without requiring one final answer. Let a particular responsibility or possibility make the question concrete.
 
-7. [Meaning audit](https://clemvillatte.github.io/flourishing-compendium/#card=K223%20%E2%80%94%20Meaning%20audit): a monthly pass through the month's activities with the four reason questions that tell a chosen goal from an imposed one.
+6. [Life review](https://clemvillatte.github.io/flourishing-compendium/#card=K232%20%E2%80%94%20Life%20review): divide your life into chapters and note turning points. Ask what each chapter taught you, including what you no longer want to repeat.
 
-8. [The meaning question](https://clemvillatte.github.io/flourishing-compendium/#card=K351%20%E2%80%94%20The%20meaning%20question): keep the question of what this life is for open as an ongoing inquiry.
+### Decide what would be enough
 
-9. [Life review](https://clemvillatte.github.io/flourishing-compendium/#card=K232%20%E2%80%94%20Life%20review): review the life in chapters, noting turning points and what each chapter taught.
+7. [Sufficiency testing](https://clemvillatte.github.io/flourishing-compendium/#card=K279%20%E2%80%94%20Sufficiency%20testing): decide in advance what enough would look like in one domain. When you reach it, notice whether the goalpost moves.
 
-10. [Gratitude practice](https://clemvillatte.github.io/flourishing-compendium/#card=K164%20%E2%80%94%20Gratitude%20practice): write down three specific things you are grateful for, or say it to the person directly.
+8. [Enough lines](https://clemvillatte.github.io/flourishing-compendium/#card=K155%20%E2%80%94%20Enough%20lines): write a sufficiency line for each important domain before the next temptation or comparison arrives. Keep the line available when you make a decision.
 
-11. [Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=K110%20%E2%80%94%20Savoring): when something pleasant arrives, stop and extend it on purpose.
+9. [Gratitude for sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=K280%20%E2%80%94%20Gratitude%20for%20sufficiency): each evening, name something already present that is enough. Stay with its sufficiency rather than immediately imagining an upgrade.
 
-12. [Evening examination](https://clemvillatte.github.io/flourishing-compendium/#card=K274%20%E2%80%94%20Evening%20examination): each evening, three questions: what did I do well, where did I drift, what will I do differently tomorrow; the Stoic evening review as a working practice.
+### Give the direction a place in the day
 
-13. [Habituation by design](https://clemvillatte.github.io/flourishing-compendium/#card=K257%20%E2%80%94%20Habituation%20by%20design): one virtue, thirty days of micro-actions so small that skipping feels absurd; character built the way Aristotle said it is, by doing.
+10. [Signature strengths in new ways](https://clemvillatte.github.io/flourishing-compendium/#card=K251%20%E2%80%94%20Signature%20strengths%20in%20new%20ways): identify your leading VIA strengths and try expressing one in a new way. Notice what you did, not only how the exercise made you feel.
 
-14. [Gratitude for sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=K280%20%E2%80%94%20Gratitude%20for%20sufficiency): each evening, name one thing you already have that is enough; not a new gratitude, but the sufficiency you normally overlook.
+11. [Gratitude practice](https://clemvillatte.github.io/flourishing-compendium/#card=K164%20%E2%80%94%20Gratitude%20practice): write down three specific things you are grateful for, or tell the person directly. Let the thanks stay specific.
 
-15. [Future-self dialogue](https://clemvillatte.github.io/flourishing-compendium/#card=K322%20%E2%80%94%20Future-self%20dialogue): a letter from your self ten years out, about the decision you are facing; the kernel carries the Ersner-Hershfield future-self-continuity research, with the authors' own caution that the causal direction is unspecified.
+12. [Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=K110%20%E2%80%94%20Savoring): when something pleasant happens, pause and give it attention. Do not make extending the moment a test of whether you are enjoying it enough.
 
-16. [Don't-break-the-chain](https://clemvillatte.github.io/flourishing-compendium/#card=K186%20%E2%80%94%20Don%27t-break-the-chain): a visible calendar and a marker; the growing chain of days becomes its own reason not to stop.
+13. [Evening examination](https://clemvillatte.github.io/flourishing-compendium/#card=K274%20%E2%80%94%20Evening%20examination): ask what went well, where you drifted and what you will do differently tomorrow. Choose one adjustment rather than a verdict on your character.
 
-17. [Mortality-to-action translation](https://clemvillatte.github.io/flourishing-compendium/#card=K316%20%E2%80%94%20Mortality-to-action%20translation): five minutes on "I will die. The timing is unknown. What does this make urgent?", then one insight translated into one action this week; the impermanence counterweight turned into work.
+14. [Habituation by design](https://clemvillatte.github.io/flourishing-compendium/#card=K257%20%E2%80%94%20Habituation%20by%20design): choose one virtue and a small act that would express it. Make room to repeat the act over the next month.
 
-The evidence limits are uneven across the list. The evening examination is a Stoic practice whose kernel cites the self-reflection research; the future-self dialogue carries the Ersner-Hershfield future-self-continuity research, with the authors' own caution that the causal direction is unspecified; the chain technique spread from a developer's account and not from a study. The other kernels carry their own evidence notes on their cards, and those notes are worth reading before relying on any of them.
+15. [Don't-break-the-chain](https://clemvillatte.github.io/flourishing-compendium/#card=K186%20%E2%80%94%20Don%27t-break-the-chain): mark each completed day on a visible calendar. Use the record to support the activity, not to make the record more important than the activity.
 
-::Retention:: Retention is what people keep because it works for them. A reader who keeps the eulogy, or the enough line, or the monthly audit has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
+### Bring a longer view to a decision
+
+16. [Future-self dialogue](https://clemvillatte.github.io/flourishing-compendium/#card=K322%20%E2%80%94%20Future-self%20dialogue): write a letter from yourself ten years ahead about the decision you face. Treat it as a way to examine priorities, not as a prediction.
+
+17. [Mortality-to-action translation](https://clemvillatte.github.io/flourishing-compendium/#card=K316%20%E2%80%94%20Mortality-to-action%20translation): spend a few minutes considering the finitude of your life. Translate one thing it makes important into an action you can take this week.
+
+::Retention:: Keep what helps you live a value you care about, and make a place for it in ordinary life. The point is not to become accomplished at exercises, but to notice what you want to keep doing.
 
 ## Story: the stories that carry the theme
 

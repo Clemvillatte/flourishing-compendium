@@ -627,3 +627,15 @@ All carriers previously actually opened and listed in pass3. Hanel
 comparison remains observational and value-specific, not a universal
 prescription for collectivism or conformity. Durie missing/damaged-wall
 claim is explicit on the Ministry carrier.
+
+### Candidate pass 12: practices as usable paths
+
+All 17 original kernel links retained, regrouped into four reader
+questions. Read local kernel bodies/protocols for this pass. These are
+brief, explicitly offered practice prompts, with editorial adaptations,
+not claims that each entire prompt is a clinically validated protocol.
+Removed the abstract-like future-self research aside from public list:
+K322 cites Ersner-Hershfield et al. with causal direction unspecified,
+and K186 chain practice has anecdotal rather than trial origin. No
+effectiveness or causal promise substituted. Source limitations remain
+on the underlying cards and in this ledger. V–S–R structure retained.
