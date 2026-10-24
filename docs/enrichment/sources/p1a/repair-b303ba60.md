@@ -185,3 +185,10 @@ are not certified by this body-level review.
 - Evidence: VIII.3 supplies the retained quotation exactly, the compatibility of pleasure/usefulness with character friendship and the time/familiarity requirement; VIII.8 supports refusing base services. Helm actually develops the tension between appraisal of qualities and concern for a particular person, rather than simply repeating Aristotle's classification.
 - Disposition: retained the nuanced body unchanged. It avoids reducing friendship to self-improvement, admits its pleasant/useful dimensions and gives a clearly hypothetical application without certifying the participants' virtue.
 - Limits: Helm surveys competing accounts; the retained wording attributes the scholarly question, not a settled resolution, to his article. The review does not certify inherited parallels or linked pages.
+
+## A091: Contemplation and action, verified unchanged
+
+- Opened: [NE X, Ross](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html), complete book; [Politics VII, Jowett](https://classics.mit.edu/Aristotle/politics.7.seven.html), chapter 3 extraction; [Kraut, Aristotle's Ethics](https://plato.stanford.edu/entries/aristotle-ethics/), §10 extraction.
+- Evidence: retained quotation matches X.8 verbatim. X.7–8 ranks the lives; Kraut's specific interpretation distinguishes attained understanding from the learning process and retains practical virtue without making its exercise the philosopher's ultimate end. Politics VII.3 expressly includes self-contained thought within activity.
+- Disposition: the existing body already preserves this tension and labels combining understanding with practical responsibilities as its own proposal. Retained unchanged; the mathematical-proof example illustrates an understanding already possessed rather than equating all reflection with theoria.
+- Limits: no claim that a modern balanced schedule resolves the interpretive dispute, or that Aristotle ranks the two activities equally.
