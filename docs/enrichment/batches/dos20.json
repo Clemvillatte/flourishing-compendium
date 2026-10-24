@@ -1,7 +1,20 @@
 {
   "batch": "dos20",
-  "done": [],
-  "note": "minted 2026-10-24 (supervisor-pplx-1024g, owner-directed); one dossier per band; see bands/dos20-manifest.json",
+  "done": [
+    {
+      "slug": "right-speech",
+      "worker": "worker-pplx-dos20-1025a (takeover; dossier of record complete from worker-pplx-dos20-1024h)",
+      "state": "publication: pending supervisor",
+      "verification": "takeover pass: dossier_check exit 0 (95 card links, 20 headers, 6 external carriers); ledger open points reviewed (all are concept-band or future-revision items, none block publication); supervisor QC entry 3 already recorded a structural pass",
+      "flags": [
+        "Flagged for supervisor: publication pending; registry flip blocked on the art assignment (standing structural reason)"
+      ],
+      "dates": {
+        "takeover_verification": "2026-10-24"
+      }
+    }
+  ],
+  "note": "Takeover of a released band whose dossier was complete but unrecorded. Publication (registry flip, fcDossiersData rebuild, artwork) is supervisor-only.",
   "review": [
     "right-speech"
   ]
