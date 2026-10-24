@@ -616,4 +616,14 @@ section. Primary Aristotle quote still meets validator.
 
 Source selection unchanged from pass1, all previously actually fetched.
 The advisor's proposed paragraphs still ran long; split and synthesised
-the useful factual corrections rather than importing the whole draft.
+  the useful factual corrections rather than importing the whole draft.
+
+### Candidate pass 11: social conditions as connected questions
+
+Seventeen original card occurrences retained. Three navigable units:
+relationships/culture, freedom, shared conditions/future. Advisor's house
+image restored, moderation retained, no evidence labels or citation badges.
+All carriers previously actually opened and listed in pass3. Hanel
+comparison remains observational and value-specific, not a universal
+prescription for collectivism or conformity. Durie missing/damaged-wall
+claim is explicit on the Ministry carrier.
