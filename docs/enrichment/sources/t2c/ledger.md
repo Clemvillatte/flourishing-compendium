@@ -74,3 +74,21 @@ This completes the t2c manifest: 186 backlink glosses written this baton
 (Gadamer 38, Nagarjuna 29, Nishida 30, MacIntyre 27, Dogen 12, Shankara
 19, Mencius 15, Nishitani 16); 1 false positive skipped (Cultural schema
 theory, Hiroko Nishida); 4 story cards blocked and flagged for supervisor.
+
+2026-10-24 07:19Z, worker-pplx-t2c-1024e: story-card draft glosses for the
+supervisor (workers cannot touch content/stories/; the t2a pattern):
+- ST434 Fazang's Hall of Mirrors (T050): "- [[T050 — Nagarjuna]]: the
+  compendium's own pairing note - the hall of mirrors is read against B143's
+  emptiness as relational fullness, and the story itself cautions that the
+  demonstration does not supply Nagarjuna's argument for emptiness."
+- ST252 MacIntyre's Burned Library (T052): "- [[T052 — MacIntyre,
+  Alasdair]]: the story is his - After Virtue's burned-library thought
+  experiment, moral discourse rebuilt from fragments, and the restoration
+  through practice, tradition, narrative, and community the story carries."
+- ST241 The Child at the Well (T055): "- [[T055 — Mencius]]: the parable
+  is his - the child at the well from 2A6, alarm and distress before any
+  calculation, the sprouts the story extends outward."
+- ST243 The Five Relationships (T055): "- [[T055 — Mencius]]: the
+  tradition's own correction the story names - rulers who fail their duties
+  forfeit the mandate."
+All drafts grounded in the story cards' own text, read this session.
