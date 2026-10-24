@@ -134,7 +134,7 @@ The model in Park's own words:
 
 > "Global meaning refers to individuals' general orienting systems and view of many situations, while situational meaning refers to meaning regarding a specific instance." ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041)) — Scholarly interpretation; cited passage checked.
 
-> "Meaning-making involves approach-oriented intrapsychic efforts to reduce discrepancies between appraised and global meaning." ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041)) — Scholarly interpretation; cited passage checked.
+> "Meaning making involves approach-oriented intrapsychic efforts to reduce discrepancies between appraised and global meaning." ([Park, The Meaning Making Model, EHP](https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v15.i2.p40/1041)) — Scholarly interpretation; cited passage checked.
 
 [Life story model](https://clemvillatte.github.io/flourishing-compendium/#card=Life%20story%20model): Dan McAdams's account of identity as a narrative, a person's evolving life story that integrates a reconstructed past, perceived present and imagined future into a coherent and purposeful whole.
 
