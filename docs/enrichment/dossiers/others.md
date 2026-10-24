@@ -12,7 +12,7 @@ The theme asks a double question: what other people do to a person's mind and fl
 
 ### What other people do to a person
 
-The first question is causal: what changes in a person's body and mind when trusted others are present, and what signal fires when they are absent. The entries run from the brain's default expectations to the felt experience of disconnection.
+These entries run from the brain's default expectations of company to the felt experience of disconnection, and they measure what changes in a person's body and mind when trusted others are present or absent.
 
 [Social baseline](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20baseline): the human brain treats the company of trusted others as its default condition, so managing alone costs metabolic and neural resources.
 
@@ -50,7 +50,7 @@ Cacioppo and Hawkley give the negative side of the same arrangement:
 
 ### How the self is built from others
 
-The second question is constitutive: if the self is partly built out of other people, what exactly is it made of, the roles taken, the mirrors held, the groups joined, the bonds formed?
+If the self is partly built out of other people, these entries ask what it is made of: the roles taken, the mirrors held, the groups joined, the bonds formed.
 
 [The social self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20social%20self): Mead's answer to what a self is made of: something with a development, arising in social conduct.
 
@@ -72,7 +72,7 @@ The second question is constitutive: if the self is partly built out of other pe
 
 ### Empathy: feeling with, and understanding
 
-The third question is epistemic: how does one mind reach another, how well can it be done, and where does it systematically fail?
+These entries follow one mind reaching another: how the reaching works, how well it can be done, and where it systematically fails.
 
 [Empathy](https://clemvillatte.github.io/flourishing-compendium/#card=Empathy): the capacity to feel with and understand another; the umbrella the rest of these entries divide.
 
@@ -100,7 +100,7 @@ The training research separates two states a person can bring to another's pain.
 
 ### Compassion, kindness and care
 
-Feeling-with raises a fourth question: what is the trained response to another's pain, and what distinguishes the responses that help from the ones that exhaust the giver?
+These entries hold the trained responses to another's pain, and the difference between the responses that help and the ones that exhaust the giver.
 
 [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion): the wish to relieve suffering when it is seen, trainable as a capacity.
 
@@ -138,7 +138,7 @@ The Karaṇīya Metta Sutta gives the instruction its measure:
 
 ### Love and friendship
 
-The bonds themselves are the fifth question: what love is made of, which loves last, and what the company we keep does to the people we become.
+These entries take up the bonds themselves: what love is made of, which loves last, and what the company we keep does to the people we become.
 
 [Love](https://clemvillatte.github.io/flourishing-compendium/#card=Love): the terrain Aristotle opens by calling friendship a thing most necessary for life.
 
@@ -174,7 +174,7 @@ Aristotle closes the account of friendship with its limit:
 
 ### What one person owes another
 
-The sixth question is normative: what one person owes another, and how far the claim extends.
+These entries carry the normative material: what one person owes another, and how far the claim extends.
 
 [Being-for-others](https://clemvillatte.github.io/flourishing-compendium/#card=Being-for-others): Sartre's ontological principle for the experience of being seen.
 
@@ -216,7 +216,7 @@ The sixth question is normative: what one person owes another, and how far the c
 
 ### Helping: altruism and its debates
 
-The seventh question is motivational: when help is given, whose welfare is the helper serving?
+These entries are the motivational core of the map: when help is given, whose welfare is the helper serving?
 
 [Altruism](https://clemvillatte.github.io/flourishing-compendium/#card=Altruism): motivation aimed at another person's good for that person's sake, not as a means to one's own.
 
@@ -240,7 +240,7 @@ The seventh question is motivational: when help is given, whose welfare is the h
 
 ### Relationships and communities as structures
 
-The last map question is structural: what forms relationships take, how they are kept and ended, and how communities hold their members.
+These entries describe the forms: what relationships are made of, how they are kept and ended, and how communities hold their members.
 
 [Relationship categorisation](https://clemvillatte.github.io/flourishing-compendium/#card=Relationship%20categorisation): how people sort their relationships into kinds and where they draw the boundaries, in Fehr's research.
 
@@ -318,7 +318,7 @@ Cialdini's group answered with the opposite interpretation, tested in the paradi
 
 > "We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy." ([Cialdini et al. 1987, PubMed 3572736](https://pubmed.ncbi.nlm.nih.gov/3572736/))
 
-The disagreement is direct: empathy-related helping has two rival explanations on the table, the other's welfare or relief from the helper's own sadness, and each camp ran its own tests of the other's account. My page on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, with the limits kept on record there. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
+The disagreement is direct: empathy-related helping has two rival explanations, the other's welfare or relief from the helper's own sadness. My page on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, with the limits kept on record there. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
 
 ## Practice: variation, selection, retention
 

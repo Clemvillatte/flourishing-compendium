@@ -179,3 +179,19 @@ been false.
 - Map subthemes now open with a bridging line that poses the subtheme's
   question, per the 2026-10-24 owner directive in HUMANIZER-SKILL.md.
 - Checker exit 0 (133 card links, 9 external carriers); voice audit exit 0.
+## Revision 5 (advisor round 4)
+
+- Divergence 2: the clause "and each camp ran its own tests of the other's
+  account" was removed; the sentence now ends at "relief from the helper's
+  own sadness," grounded in the two abstracts alone.
+- The Batson 1988 quotation was verified by literal comparison against the
+  full PubMed XML record; the withdrawn revision-2 sentence's provenance
+  claim was removed from this ledger as unverified (see the Batson entry
+  above).
+- The map lead-ins were rewritten without the numbered-question scaffold
+  (first/second/third, causal/constitutive/epistemic): each subsection now
+  opens with a topic-specific line that connects its entries.
+- Reading records completed: ST262, ST288, ST313 and ST315 read in full
+  including the 800-1200 character ranges; HUMANIZER-SKILL.md read in full
+  (all 626 lines, unfiltered).
+- Checker exit 0 (133 card links, 9 external carriers); voice audit exit 0.
