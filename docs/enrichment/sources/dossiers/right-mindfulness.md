@@ -245,15 +245,26 @@ verified carriers for the underlying image:
   (https://www.accesstoinsight.org/lib/study/bodymind.html, opened via
   curl this pass, 152003 bytes): "The 'strong post or stake' is a
   term for mindfulness immersed in the body."
-- CONCLUSION: no carrier was found for a single monkey tied to a
-  post; the ST075 card's telling appears to conflate the commentarial
-  calf simile with the six-animals simile. The underlying point (the
-  mind tethered to a post of mindfulness settles there) is carried by
-  both verified carriers. The card itself is not this band's file to
-  repair; the logline stays out of the dossier and the conflation is
-  FLAGGED for the supervisor / concept band (ST075 needs its animal
-  and carrier corrected: calf per Papañcasūdanī, or the six animals
-  per SN 35.247).
+- CONCLUSION: no supporting carrier was found for the card's
+  single-monkey telling during this search; the card's account may
+  combine two related similes, the commentarial calf and the canonical
+  six animals, but that provenance is a hypothesis, not an established
+  fact. Note the two similes do not assign the same role to the post:
+  in the calf passage the post is the meditation object and the rope is
+  the mindfulness or remembrance that ties the mind to it; in the
+  six-animals passage the post itself is designated as mindfulness
+  immersed in the body. The underlying family of images (a restless
+  animal tethered to a post of training) is carried by both verified
+  carriers. The card itself is not this band's file to repair; the
+  logline stays out of the dossier and the possible conflation is
+  FLAGGED for the supervisor / concept band (ST075's animal and
+  carrier need review: calf per Papañcasūdanī, or the six animals per
+  SN 35.247). Raw-text note: the verse appears in the raw page as one
+  run-together line ("...wild young calf Would tether it to stout
+  stake firmly, here, In the same way..."), rendered above with verse
+  line breaks; all prose fragments were re-verified as substrings
+  against the raw HTML this pass, including the "that every object"
+  wording.
 
 ## Goyal et al. 2014 verification and restoration (pass 14, worker-pplx-dos24-1025a, 2026-10-24)
 
@@ -305,12 +316,19 @@ nature non-conceptual bare attention that comes before thought."
   of non-conceptual observation, but there is little evidence in the
   Pali Canon and its commentaries that mindfulness by its very nature
   is devoid of conceptualization."
-Both passages FULL MATCH against the opened PDF text (Gunaratana's
-words are quoted verbatim inside Bodhi's essay, which attributes them
-to Mindfulness in Plain English; attempts to open a direct carrier for
-the book chapter failed this pass: vipassana.com chapter URLs returned
-236-byte responses and Wayback returned redirect pages, so the Bodhi
-paper is the opened carrier for both quotes). Bodhi's two-respect
+Both passages verified against the opened PDF text this pass: the
+Bodhi sentence is a contiguous substring match after whitespace
+normalisation; the Gunaratana passage is ellipsized, so each retained
+fragment was checked in order against the extracted text (all six
+fragments found in order), and it is NOT claimed as a contiguous
+match. Normalisation notes: the PDF text uses curly quotation marks
+(the dossier preserves them) and a combining-macron a in "Pali"
+(normalised for the check). Gunaratana's words are quoted verbatim
+inside Bodhi's essay, which attributes them to Mindfulness in Plain
+English; attempts to open a direct carrier for the book chapter failed
+this pass (vipassana.com chapter URLs returned 236-byte responses,
+Wayback returned redirect pages), so the Bodhi paper is the opened
+carrier for both quotes and the attribution says "quoted in". Bodhi's two-respect
 critique of bare attention (conflates sati with manasikara; no act of
 cognition is ever entirely devoid of orientation and meaning) is
 paraphrased in the closing paragraph from the same opened source. The
@@ -319,6 +337,33 @@ comparisons; Bodhi's paper also records that "Contrary to some
 contemporary vipassana teachers, Nyanaponika did not regard 'bare
 attention' as non-conceptual and non-verbal", which is why those
 subsections were not forced into contradiction.
+
+## Advisor corrections applied (pass 16, worker-pplx-dos24-1025a, 2026-10-24)
+
+The advisor review of passes 13-15 required corrections, all applied:
+- Pass 13 record reworded: "no supporting carrier was found during
+  this search" replaces the nonexistence claim; the possible
+  conflation is a hypothesis; the two similes' different roles for the
+  post (meditation object vs mindfulness immersed in the body) are now
+  stated distinctly; the calf fragments and the run-together verse
+  were re-verified as substrings against the raw Soma Thera HTML.
+- Goyal paragraph: the equivalence inference ("about as much as other
+  active treatments carry") was REMOVED as unsupported (absence of
+  superiority is not equivalence); the paragraph now states only the
+  opened findings; the page-self-description phrase ("kept distinct on
+  this page") and the writing-commentary phrases were removed.
+- Disagreement subsection: the wiki-card alignment sentence was
+  REMOVED (the Bare attention card's carrier is Nyanaponika, whom
+  Bodhi's paper says did NOT regard bare attention as necessarily
+  non-conceptual); "genuine and live" and "same lineage" claims were
+  removed as unverified; the scope is stated precisely (sati's nature
+  vs sati's practice) and the closing paragraph notes Bodhi does not
+  reject nonconceptual observation as a practice.
+- The two preceding subsections' closing editorial-process lines were
+  condensed to plain factual statements.
+- Batch note corrected to the current checker totals (49 card links,
+  12 headers, 10 external carriers) and the deeper card-body audit is
+  kept in remaining work.
 
 ## Card-body audit (pass 6 follow-up)
 

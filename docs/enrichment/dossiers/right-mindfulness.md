@@ -88,11 +88,9 @@ The observation is not detached watching; it is effortful and free of grasping. 
 
 [Walking meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Walking%20meditation): deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath.
 
-The trials behind this family's claims have been counted. A 2014 review of 47 randomized trials in clinical populations found moderate evidence that mindfulness programs improve anxiety, depression and pain, low or insufficient evidence of effect on positive mood, attention, sleep, eating and weight, and no evidence that meditation programs were better than any active treatment, whether drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:
+A 2014 review of 47 randomized trials with 3,320 participants found moderate evidence of improvement in anxiety, depression and pain with mindfulness meditation programs. It found no evidence that meditation programs outperformed active treatments such as drugs, exercise or other behavioral therapies ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)). The reviewers' own conclusion was measured:
 
 > "Clinicians should be aware that meditation programs can result in small to moderate reductions in multiple negative dimensions of psychological stress." ([Goyal et al. 2014, JAMA Internal Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC4142584/)).
-
-That is a real result with a modest voice, and it is part of why the path factor and the clinical intervention are kept distinct on this page: the practices carry measurable help with certain forms of distress, about as much as other active treatments carry, and the ancient frame of the training is not the same claim as the trial result.
 
 ### The attention traditions
 
@@ -126,7 +124,7 @@ From the same essay:
 
 > "meditation isn't just a passive process of being nonjudgmentally present with whatever's there and not changing it at all." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)).
 
-These excerpts emphasize different aspects of mindfulness: purposeful, nonjudgmental awareness in the clinical definition, and keeping the practice and its purpose in mind in Thanissaro's account. They do not, by themselves, establish a contradiction. I hold both, the clinical family's cards on one side and the sati cards and this essay on the other, and record the question as open.
+These excerpts emphasize different things: purposeful, nonjudgmental awareness in the clinical definition, and keeping the practice and its purpose in mind in Thanissaro's account. Whether the two definitions name one capacity or two is a question the sources themselves leave open.
 
 ### How does bare attention support practice?
 
@@ -134,19 +132,19 @@ Nyanaponika Thera makes bare attention the core of the practice:
 
 > "Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation." ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)).
 
-Thanissaro, as the passage quoted above says, assigns those functions to other mental qualities and allows them alongside sati: functions like bringing bare attention to the breath "are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." Nyanaponika emphasizes bare attention's importance in satipatthana practice; Thanissaro distinguishes its functions from sati itself while allowing them alongside it. These excerpts do not establish mutually exclusive positions. I hold both, the Bare attention card on one side and the sati cards and Thanissaro's essay on the other, and record the question as open.
+Thanissaro, as the passage quoted above says, assigns those functions to other mental qualities and allows them alongside sati: functions like bringing bare attention to the breath "are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." Nyanaponika makes bare attention central to satipatthana practice; Thanissaro distinguishes its functions from sati itself while allowing them alongside it. The two readings hold together; neither excludes the other.
 
 ### Is mindfulness bare, non-conceptual awareness?
 
-Here two teachers of the same tradition state opposite answers to one question, in their own words. Gunaratana, in Mindfulness in Plain English, identifies sati with the fleeting moment of awareness before thought arrives:
+The question, stated precisely: is sati essentially nonconceptual awareness, or can its practice deliberately involve concepts? Gunaratana, in Mindfulness in Plain English, identifies sati with the fleeting moment of awareness before thought arrives:
 
-> "Mindfulness is nonconceptual awareness. Another English term for sati is 'bare attention.' It is not thinking. It does not get involved with thought or concepts. . . . It is, rather, the direct and immediate experiencing of whatever is happening, without the medium of thought. It comes before thought in the perceptual process." ([Bhante Henepola Gunaratana, Mindfulness in Plain English, quoted in Bhikkhu Bodhi, "What Does Mindfulness Really Mean?"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).
+> "Mindfulness is nonconceptual awareness. Another English term for sati is ‘bare attention.’ It is not thinking. It does not get involved with thought or concepts. . . . It is, rather, the direct and immediate experiencing of whatever is happening, without the medium of thought. It comes before thought in the perceptual process." ([Bhante Henepola Gunaratana, Mindfulness in Plain English, quoted in Bhikkhu Bodhi, "What Does Mindfulness Really Mean?"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).
 
 Bodhi, reading the canon and its commentaries against that claim, denies it:
 
 > "In certain types of mindfulness practice, conceptualization and discursive thought may be suspended in favour of non-conceptual observation, but there is little evidence in the Pāli Canon and its commentaries that mindfulness by its very nature is devoid of conceptualization." ([Bhikkhu Bodhi, "What Does Mindfulness Really Mean? A Canonical Perspective"](https://ibc-elibrary.thanhsiang.org/files/public/01_mindfulness_canonical_bhikku_bodhi.pdf)).
 
-One affirms that mindfulness is by nature the bare registering that comes before thought; the other finds little canonical support for that nature, and his objection cuts twice: the phrase bare attention, he argues, conflates sati with manasikāra, the mind's automatic turning to an object, and no act of cognition is ever entirely devoid of factors imparting orientation and meaning. The disagreement is genuine and live between teachers of the same lineage, and it divides the wiki's own holdings: the Bare attention card carries the first position's practice, while the Sati and Right mindfulness cards carry the wider path framing the second position defends.
+Bodhi does not reject nonconceptual observation as a practice; his objection is to making it sati's nature. The phrase bare attention, he argues, conflates sati with manasikāra, the mind's automatic turning to an object, and no act of cognition is ever entirely devoid of factors imparting orientation and meaning.
 
 ## Practice: variation, selection, retention
 
