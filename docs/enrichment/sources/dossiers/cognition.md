@@ -164,3 +164,11 @@ glosses; the reader cannot say what question each section answered.
 Three "Scholarly review; cited passage checked" labels (Grossmann
 2017 x2, Ezawa and Hollon 2023) were found in a later sweep and
 removed; inherited notes, not re-checked this session.
+
+## Carrier re-verification (2026-10-25)
+
+The Peirce, "How to Make Our Ideas Clear" carrier (peirce.org) was
+re-opened this session. Both quoted passages are verbatim: "The
+essence of belief is the establishment of a habit..." and "As it
+appeases the irritation of doubt...". No discrepancy found. Other
+carriers were not re-opened this session.
