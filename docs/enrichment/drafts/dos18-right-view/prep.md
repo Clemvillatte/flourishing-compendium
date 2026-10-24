@@ -103,3 +103,11 @@ candidate for the views family.
 Open question for the next writer: the ST064 story serves Right effort at
 least as well as Right view — decide placement per the section rules (one
 story may serve both dossiers via card links; do not duplicate loglines).
+
+## Pass 4 note (ST064 placement)
+
+The Lute String story serves right effort at least as much as right view
+(the draft keeps it under a 'view of effort' subtheme without the flag;
+the next writer decides whether it moves to the Right effort dossier when
+that band builds, per the section rules: card links may serve both, the
+logline is not duplicated).

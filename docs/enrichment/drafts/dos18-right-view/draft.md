@@ -9,7 +9,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 ## Nearby terms
 
 - Right understanding: another rendering of the same factor (Pali sammā diṭṭhi); the wiki's card is [Right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view), and nothing is split between the two names.
-- Discernment: MN 117's word for the transcendent form of the factor, the faculty of discernment in one developing the noble path; the wiki holds it inside the Right view card rather than on a card of its own.
+- Discernment: MN 117's word for the transcendent form of the factor, the faculty of discernment in one developing the noble path; the wiki's dedicated card on discernment is Ignatian rather than Buddhist ([Discernment of spirits](https://clemvillatte.github.io/flourishing-compendium/#card=Discernment%20of%20spirits)), a cousin practice in another tradition.
 - View, perspective, standpoint: the general material on perspectivality, where seeing always happens from somewhere, is on-theme and lives in the map below ([The standpoint determines what appears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20standpoint%20determines%20what%20appears), [The coloured lens](https://clemvillatte.github.io/flourishing-compendium/#card=The%20coloured%20lens)); it is not a separate family.
 - Wisdom: the bigger question of what seeing well amounts to across traditions has its own published dossier (Wisdom); the boundary is that this page holds the path's own account of the view, not wisdom in general.
 
@@ -63,7 +63,7 @@ And the same sutta gives the view its concrete test, watching stress arise and p
 
 [Appraisal theory](https://clemvillatte.github.io/flourishing-compendium/#card=Appraisal%20theory): the family of theories in which emotions arise from evaluations of what an event means, Lazarus's stakes and coping; the same event yields different affect under different appraisals.
 
-MN 9 gives wrong view its roots:
+MN 9 names the roots of what is unskillful (the passage covers unskillful qualities generally, not wrong view alone):
 
 > "And what are the roots of what is unskillful? Greed is a root of what is unskillful, aversion is a root of what is unskillful, delusion is a root of what is unskillful." ([MN 9, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html)): Primary text; quoted passages checked.
 
@@ -77,6 +77,8 @@ MN 9 gives wrong view its roots:
 
 The compendium's saying for the same dependence: Right action serves right view.
 
+The modern cards in this subtheme are editorial connections the compendium draws between the path's wrong view and the bias research; the tradition does not equate them, and neither does this page.
+
 ### The view of the self
 
 [The standpoint determines what appears](https://clemvillatte.github.io/flourishing-compendium/#card=The%20standpoint%20determines%20what%20appears): Husserl's account of embodied seeing; things appear from one side, at a distance, from an angle, and there is no view from nowhere.
@@ -85,35 +87,37 @@ The compendium's saying for the same dependence: Right action serves right view.
 
 ## Where the traditions genuinely disagree
 
+Divergence research is open on this theme. Neither candidate below yet meets the bar the format asks, a same-question disagreement with each position quoted from an opened carrier; they are recorded as open questions the next pass must either ground or drop.
+
 ### Is the view a set of convictions or a direct discernment?
 
-Both positions answer the same question: what does holding right view amount to? The everyday answer is a conviction set, there is what is given, actions have fruits, this world and the next exist. The transcendent answer is a faculty, the discernment of one developing the noble path, knowledge independent of others. MN 117 presents both without collapsing them:
-
-> "There is right view with effluents, siding with merit, resulting in acquisitions [of becoming]; there is right view that is noble, without effluents, transcendent, a factor of the path." ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html)): Primary text; quoted passages checked.
-
-What remains unresolved is whether the conviction set is a stage on the way to the discernment or a different thing entirely, held for its acquisitions; the sutta grades the two forms by effluents and acquisitions, and the compendium's principle for the factor does not settle the crossing.
+MN 117 presents the two forms within one discourse, which is a grading rather than a disagreement between traditions; the two-forms material stays in the map above. The open question is whether any tradition actually reads the conviction set as sufficient without the discernment, and no carrier taking that position has been opened yet.
 
 ### Are the truths tasks or beliefs?
 
-Both positions answer the same question: what does one do with the four truths? The propositional reading takes them as claims to believe; the sutta's own presentation assigns each truth a task:
+The sutta's own presentation assigns each truth a task:
 
 > "This noble truth of stress is to be comprehended... This noble truth of the origination of stress is to be abandoned... This noble truth of the cessation of stress is to be realized... This noble truth of the way of practice leading to the cessation of stress is to be developed." ([SN 56.11, Thanissaro translation](https://www.dhammatalks.org/suttas/SN/SN56_11.html)): Primary text; quoted passages checked.
 
-What remains unresolved is whether the task reading exhausts the truths; the sutta also claims knowledge of each truth's three levels, comprehension, abandonment, realization, development, and the compendium's tasks-not-beliefs principle is an editorial reading of the verbs, not a settled scholarly classification.
+The propositional reading exists in summary sources, but no carrier advocating a beliefs-only reading has been opened; the compendium's tasks-not-beliefs principle is an editorial reading of the verbs, not a settled scholarly classification. Next pass: open the summary carriers and the tasks-reading scholarship, quote both positions, or drop the divergence.
 
 ## Practice: variation, selection, retention
 
-**Variation.** What needs to vary in a life is the way views are held: a fixed view of where happiness comes from, a view held as mine, a first impression taken for the whole person. The direction of the variation is toward how the sutta describes the view itself: watching stress arise and pass without a self fastened to it, and checking, before effort, what the plan assumes.
+::Variation:: What tends to need varying on this theme is the way views are held: a fixed view of where happiness comes from, a view held as mine, a first impression taken for the whole person. The adaptive direction is the one the suttas give the view itself: watching stress arise and pass without a self fastened to it, and checking, before effort, what the plan assumes.
 
-**Selection.** The kernels the compendium holds for this variation:
+::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
 
-- [K134 — Two-truths drill](https://clemvillatte.github.io/flourishing-compendium/#card=K134%20%E2%80%94%20Two-truths%20drill): argue the strongest case for your position, then the strongest case against it; the consider-the-opposite evidence (Lord, Lepper and Preston 1984) shows the structural act of constructing the opposing case reduces bias where being told to be objective does not.
-- [K131 — Perspective-taking](https://clemvillatte.github.io/flourishing-compendium/#card=K131%20%E2%80%94%20Perspective-taking): when locked in a view, step into another position: the other person's, a neutral observer's, a future self's; each position reveals what the others conceal.
-- [K218 — Perspective-getting](https://clemvillatte.github.io/flourishing-compendium/#card=K218%20%E2%80%94%20Perspective-getting): when you assume you know what someone thinks, ask instead; asking beats simulating, and most people ask less than they could.
+1. [Two-truths drill](https://clemvillatte.github.io/flourishing-compendium/#card=K134%20%E2%80%94%20Two-truths%20drill): argue the strongest case for your position, then the strongest case against it; the consider-the-opposite studies behind the kernel found the structural act of constructing the opposing case had greater corrective effect than instructions to be fair, and did not test effects on belief strength or well-being over time.
 
-**Retention.** What people keep is whichever check they actually ran before it mattered: the question put to a plan before acting, the opposite case written once. The keeping is the reader's; the dossier's part ends at the selection.
+2. [Perspective-taking](https://clemvillatte.github.io/flourishing-compendium/#card=K131%20%E2%80%94%20Perspective-taking): when locked in a view, step into another position: the other person's, a neutral observer's, a future self's; each position reveals what the others conceal.
+
+3. [Perspective-getting](https://clemvillatte.github.io/flourishing-compendium/#card=K218%20%E2%80%94%20Perspective-getting): when you assume you know what someone thinks, ask instead; the research favours asking over guessing, with the caution that the advantage is real but not automatic, and most people ask less than they could.
+
+::Retention:: Retention is what people keep because it works for them. A reader who keeps the question put to a plan before acting, or the opposite case written once, has what the theme offered; what stays is a matter of fit between the check and the life it enters.
 
 ## Story: the stories that carry the theme
+
+The modern cards in this subtheme are editorial connections the compendium draws between the path's wrong view and the bias research; the tradition does not equate them, and neither does this page.
 
 ### The view of the self
 
@@ -121,8 +125,8 @@ What remains unresolved is whether the task reading exhausts the truths; the sut
 
 ### The view of effort
 
-- [ST064 — The Lute String](https://clemvillatte.github.io/flourishing-compendium/#card=ST064%20%E2%80%94%20The%20Lute%20String): a monk's feet bleed from straining in meditation, and the Buddha asks the former lute player whether the strings sounded best too tight or too slack; neither, and so with the energy. (This story serves right effort at least as much as right view; the placement question is flagged for the next writer.)
+- [ST064 — The Lute String](https://clemvillatte.github.io/flourishing-compendium/#card=ST064%20%E2%80%94%20The%20Lute%20String): a monk's feet bleed from straining in meditation, and the Buddha asks the former lute player whether the strings sounded best too tight or too slack; neither, and so with the energy.
 
 ### The view of mastery
 
-- [ST067 — Fletcher's Classroom](https://clemvillatte.github.io/flourishing-compendium/#card=ST067%20%E2%80%94%20Fletcher%27s%20Classroom): a conductor pushes a jazz drummer past every limit, and the film refuses to decide whether the final scene, the drummer seizing control of the performance, is triumph or the complete destruction of a person.
+- [ST067 — Fletcher's Classroom](https://clemvillatte.github.io/flourishing-compendium/#card=ST067%20%E2%80%94%20Fletcher%27s%20Classroom): a conductor answers a car crash with a demand to play, and the drummer plays on bleeding hands; in the final scene the drummer seizes control of the performance itself.

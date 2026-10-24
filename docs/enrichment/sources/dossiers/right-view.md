@@ -6,7 +6,7 @@ quote below was checked against the opened page this session. Reader-facing
 evidence phrases only once the dossier exists: "Primary text; quoted
 passage checked".
 
-## Carriers opened and verified (pass 1)
+## Carriers opened and verified (pass 1; re-verified raw in pass 4, see below)
 
 1. MN 9, Sammādiṭṭhi Sutta — Thanissaro Bhikkhu translation,
    https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html
@@ -39,11 +39,22 @@ passage checked".
 
 ## Not yet opened (next pass must open before quoting)
 
-MN 117 Mahācattārīsaka (two forms; forerunner passage), SN 56.11
-Dhammacakkappavattana (four-truths verbs, already verified for the Four
-Noble Truths card by earlier sessions), Encyclopaedia Britannica
-"Eightfold Path", Wikipedia "Noble Eightfold Path", kernel K134, story
-cards ST064/ST065/ST067.
+Encyclopaedia Britannica "Eightfold Path", Wikipedia "Noble Eightfold
+Path", kernel evidence carriers (Lord, Lepper and Preston 1984; Damen,
+Pollmann and Grassow 2021), the ST064/ST065/ST067 carrier pages
+themselves. MN 117 and SN 56.11 were opened and verified in pass 2
+(see pass 2 below); the earlier list here is consolidated 2026-10-24
+pass 4.
+
+## Raw verification (pass 4, 2026-10-24)
+
+All four carriers were fetched raw (unprompted curl of the live pages,
+tag-stripped, substring-checked): MN 9 (view formula + roots passage),
+MN 117 (two forms + forerunner), SN 12.15 (extremes + arising-and-passing
+test), SN 56.11 (task verbs + path list) all RAW-VERIFIED word-for-word.
+Four source URLs; the dossier's external carrier links point at these
+four. Pass-1 checks were extraction-based (prompted fetch); pass 4
+completes the raw comparison the protocol requires.
 
 ## Scope limits
 
