@@ -36,7 +36,9 @@ family. One limit of that audit, stated here: a card's absence among the decoded
 links is evidence it is not placed, not proof that no passage discusses the
 construct; where the distinction mattered I read the relevant passages as well.
 Where the coverage test failed, I dropped or demoted the proposal rather than
-padding the list.
+padding the list. After the Others dossier draft was staged by its band late in
+this session, I re-ran the same target check against it (122 decoded targets):
+no overlap with any proposed family.
 
 Evidence status, stated once for the whole document: the card descriptions below
 summarize what the linked cards themselves say with their own opened carriers (each
