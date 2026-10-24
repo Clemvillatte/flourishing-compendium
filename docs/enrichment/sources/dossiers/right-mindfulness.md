@@ -47,8 +47,11 @@ The checker (scripts/dossier_check.py) exits 0 on the current file:
   removed from the dossier per the advisor's instruction: the PubMed
   page for the article (pubmed.ncbi.nlm.nih.gov/24395196/) was fetched
   and returned a 5591-byte shell with no article content (the same
-  bot-block pattern as the ctext carrier in dos21); the JAMA page was
-  not fetched. The candidate is retained only in this ledger.
+  bot-block pattern as the ctext carrier in dos21). The JAMA
+  article's DOI link (doi.org/10.1001/jamainternmed.2013.13018) was
+  then attempted and returned HTTP 403. Two access routes failed with
+  precise errors recorded; the article is verifiable from a network
+  with subscription or different bot-blocking. The candidate is retained only in this ledger.
 - Pass 3 (full-text sweep): the manifest's sweep terms were run over
   content/; ten straggler cards were read and added with descriptions
   compressed from their openings (The returning practice, Vipassana
