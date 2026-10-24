@@ -2,8 +2,8 @@
 schema: 0
 id: "ST490"
 type: "story"
-title: "490.  37. Jade in the Bosom"
-file: "ST490 — 37. Jade in the Bosom"
+title: "490.  Jade in the Bosom"
+file: "ST490 — Jade in the Bosom"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---

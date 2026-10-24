@@ -34,7 +34,7 @@ The things that take longest to build show the least while they are being built.
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 41
 
 ## Stories
-- [[ST489 — 36. The Slowest Vessel|489. 36. The Slowest Vessel]]
+- [[ST489 — The Slowest Vessel|489. The Slowest Vessel]]
 
 ## Psychology parallels
 

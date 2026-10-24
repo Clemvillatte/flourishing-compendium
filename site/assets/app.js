@@ -11129,7 +11129,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[The habit body](card:The%20habit%20body): Merleau-Ponty's third answer; habit in the body as mediator of a world, a third location distinct from thought and from the objective body; knowledge in the hands."
+          "x": "[The habit body](card:The%20habit%20body): Merleau-Ponty's third answer; habit in the body as mediator of a world, distinct from both thought and the objective body; knowledge in the hands."
         },
         {
           "t": "p",

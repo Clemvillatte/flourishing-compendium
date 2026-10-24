@@ -2,8 +2,8 @@
 schema: 0
 id: "ST489"
 type: "story"
-title: "489.  36. The Slowest Vessel"
-file: "ST489 — 36. The Slowest Vessel"
+title: "489.  The Slowest Vessel"
+file: "ST489 — The Slowest Vessel"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
 ---

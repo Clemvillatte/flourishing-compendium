@@ -32,7 +32,7 @@ For example: Before a presentation, someone compares two preparations: rehearsin
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html) — verse 212
 
 ## Stories
-- [[ST491 — 39. The Letter Written for After|491. 39. The Letter Written for After]]
+- [[ST491 — The Letter Written for After|491. The Letter Written for After]]
 
 ## Psychology parallels
 

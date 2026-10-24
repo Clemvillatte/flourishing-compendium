@@ -2,8 +2,8 @@
 schema: 0
 id: "ST488"
 type: "story"
-title: "488.  35. The Painter Who Kept the Water Still"
-file: "ST488 — 35. The Painter Who Kept the Water Still"
+title: "488.  The Painter Who Kept the Water Still"
+file: "ST488 — The Painter Who Kept the Water Still"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.03 — I.3 The Heart-Mind — Stillness, Emptiness, Clarity", "parent": ""}
 ---

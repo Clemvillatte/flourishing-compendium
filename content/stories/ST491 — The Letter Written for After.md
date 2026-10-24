@@ -2,8 +2,8 @@
 schema: 0
 id: "ST491"
 type: "story"
-title: "491.  39. The Letter Written for After"
-file: "ST491 — 39. The Letter Written for After"
+title: "491.  The Letter Written for After"
+file: "ST491 — The Letter Written for After"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.07 — II.7 Ethics and Relations", "parent": ""}
 ---
