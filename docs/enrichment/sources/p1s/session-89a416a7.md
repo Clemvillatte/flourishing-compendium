@@ -236,3 +236,9 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - MN 2 block quotation is verbatim. MN 9 does identify greed/aversion/delusion as roots of unskillful action; MN 2's list of fermentations is different and correctly distinguished. Dhammapada 3-4 paraphrase is faithful.
 - The page explicitly calls naming a compendium adaptation, not the sutta's procedure; the shopping experiment promises no effect from labelling. Plain words is fresh, not an instruction-list replicate. No page change needed, no rewrite claimed.
 - Inherited affect-labelling/emotion-awareness/Spinoza parallels and protected reflections are not certified.
+
+## B114: verification-only pass, generosity without neglecting duties
+
+- Opened unprompted in full: [Dhammapada XVII](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html), [AN 5.41](https://www.accesstoinsight.org/tipitaka/an/an05/an05.041.than.html), and [AN 5.35, Empty Robot carrier](https://theemptyrobot.com/texts/tipitaka/sutta-pitaka/anguttara-nikaya/AN5/35-dananisamsasutta/).
+- The Dhammapada 224 first-sentence excerpt is exact. AN 5.41 supports household/dependent/friend responsibilities, protection, offerings and no remorse whether wealth grows or diminishes. AN 5.35 supports the listed benefits; the page rightly calls these the discourse's claims, not verified social-scientific effects.
+- Strong Plain words and coordinator-guided volunteer example retained; giving time is explicitly an editorial adaptation. No page change needed and no rewrite claimed. Inherited prosocial-spending/helper's-high/Aristotle/Derrida parallels and reflections remain uncertified.
