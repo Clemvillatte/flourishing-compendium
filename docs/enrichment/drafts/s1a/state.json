@@ -1642,6 +1642,11 @@
      "t": "2026-10-24T14:28:46+00:00",
      "to": "ready",
      "note": "Faust Part I Taylor English opened; Part II German raw text opened with translations marked as my own; Simondon theory marked NOT carried"
+    },
+    {
+     "t": "2026-10-24T14:33:09+00:00",
+     "to": "ready",
+     "note": "item-20 QC fixes applied: translator credit corrected to Brooks, love-from-above continuation quoted, redemption claim bounded"
     }
    ]
   },
@@ -1657,9 +1662,29 @@
      "t": "2026-10-24T14:29:46+00:00",
      "to": "ready",
      "note": "Soma Thera translation opened in full; narrative frame and four solaces add what the principle page does not quote"
+    },
+    {
+     "t": "2026-10-24T14:33:09+00:00",
+     "to": "ready",
+     "note": "item-20 QC fixes applied: authority phrase bounded, unsupported framing removed, ellipsis removed from solaces quote"
+    }
+   ]
+  },
+  "s1a-059": {
+   "status": "ready",
+   "angle": "B124: Joshu's oak tree — the monk asks for meaning, Joshu points at the garden",
+   "history": [
+    {
+     "t": "2026-10-24T14:29:55+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:33:09+00:00",
+     "to": "ready",
+     "note": "item-20 QC fixes applied: bounded reading, source punctuation restored, verse on separate lines, provenance bounded"
     }
    ]
   }
  },
- "updated": "2026-10-24T14:29:46+00:00"
+ "updated": "2026-10-24T14:33:09+00:00"
 }
