@@ -16,7 +16,7 @@ On the accounts gathered here, freedom arrives with a cost built in: to be free 
 
 ### The flight: why freedom is given away
 
-1. [Escape from freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Escape%20from%20freedom): Fromm's diagnosis of the modern problem, negative freedom arrived before the capacities to bear it, with its four defenses, especially automaton conformity, the adoption of the offered personality, and the reactance the card reads as a trace of the same sensitivity, threats to freedom felt first and understood later:
+1. [Escape from freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Escape%20from%20freedom): Fromm's diagnosis of the modern problem, negative freedom arrived before the capacities to bear it, with the escape mechanisms the work enumerates, especially automaton conformity, the adoption of the offered personality:
 
 > "To put it briefly, the individual ceases to be himself; he adopts entirely the kind of personality offered to him by cultural patterns; and he therefore becomes exactly as all others are and as they expect him to be. ... But the price he pays, however, is high; it is the loss of his self." ([Fromm, Escape from Freedom, panarchy excerpt](https://www.panarchy.org/fromm/escapefreedom.html)): Primary text; both sentences checked against the excerpt this session.
 
@@ -28,7 +28,7 @@ On the accounts gathered here, freedom arrives with a cost built in: to be free 
 
 4. [Radical freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Radical%20freedom): Sartre's account, the claim that nothing but our own choices conditions our freedom, argued through the impossibility of giving up freedom, since giving it up is itself a choice; the formula the card carries is being condemned to be free.
 
-5. [Anguish (angoisse)](https://clemvillatte.github.io/flourishing-compendium/#card=Anguish%20%28angoisse%29): the affective signature of the same account, the vertigo at the cliff edge, fear not of falling but of throwing oneself over, and the burden that not only am I responsible for what I do, I am responsible for what the world around my choice comes to mean.
+5. [Anguish (angoisse)](https://clemvillatte.github.io/flourishing-compendium/#card=Anguish%20%28angoisse%29): the affective signature of the same account, the vertigo at the cliff edge, fear not of falling but of throwing oneself over, and the disclosure it carries: no past resolution and no external constraint stands between the person and the act, and that gap is what the tradition calls freedom.
 
 6. [Situated freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Situated%20freedom): the critique that keeps the account honest, freedom exercised within limits not chosen by the chooser, with the constraint-provision insight that the bodies, habits and situations we chafe against are the very things that give weight and traction to a free act; nothing is done all by itself, and neither is anything done all alone.
 

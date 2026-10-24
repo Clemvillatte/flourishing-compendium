@@ -15,9 +15,9 @@ The traditions in this map start from the same observation: a life is finite, an
 
 ### Death as the clarifier of choice
 
-1. [Being-toward-death](https://clemvillatte.github.io/flourishing-compendium/#card=Being-toward-death): Heidegger's Sein-zum-Tode, death as the one possibility that is mine alone and cannot be outstripped; anticipation rather than brooding, and flight into the conformist everyday as the alternative. Heidegger's definition, as the encyclopedia entry renders it:
+1. [Being-toward-death](https://clemvillatte.github.io/flourishing-compendium/#card=Being-toward-death): Heidegger's Sein-zum-Tode, death as the one possibility that is mine alone and cannot be outstripped; anticipation rather than brooding, and flight into the conformist everyday as the alternative. The definition, SZ 250, as the encyclopedia entry quotes it:
 
-> "Death proper befalls not us *qua* persons, but us *qua* Dasein. In distinguishing death from demise, Heidegger defines death as 'the possibility of the absolute impossibility of Dasein' (SZ 250)." ([Wrathall, Heidegger, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/)): Primary text; the passage was checked against the encyclopedia entry this session.
+> "the possibility of the absolute impossibility of Dasein" ([Heidegger, SZ 250, as quoted in Wrathall's SEP entry](https://plato.stanford.edu/entries/heidegger/)): the inner quotation is Heidegger's; the surrounding SEP sentence was checked against the entry this session.
 
 2. [Finitude](https://clemvillatte.github.io/flourishing-compendium/#card=Finitude): the condition of being limited in time, possibility and knowledge; each choice comes at the cost of the possibilities forgone, anxiety as the mood in which that cost is felt, and thrownness as the limit no one chose.
 
@@ -29,7 +29,7 @@ The traditions in this map start from the same observation: a life is finite, an
 
 ### The research programmes
 
-6. [Mortality salience](https://clemvillatte.github.io/flourishing-compendium/#card=Mortality%20salience): the terror-management paradigm; reminders of death were found to increase worldview and self-esteem defense across 164 articles and 277 experiments, moderate effects at r = .35 ([Burke, Martens and Faucher 2010 meta-analysis record](https://pubmed.ncbi.nlm.nih.gov/20097885/)): the scope and effect size were checked against the published record this session. The card also carries the field's own trouble, the 2022 seventeen-lab replication attempt on the paradigm's central effect:
+6. [Mortality salience](https://clemvillatte.github.io/flourishing-compendium/#card=Mortality%20salience): the terror-management paradigm; reminders of death were found to increase worldview and self-esteem defense across 164 articles and 277 experiments, moderate effects at r = .35 ([Burke, Martens and Faucher 2010 meta-analysis record](https://pubmed.ncbi.nlm.nih.gov/20097885/)): the scope and effect size were checked against the published record this session. The card also carries the field's own trouble, the 2022 seventeen-lab replication attempt on the specific effect it targeted:
 
 > "Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not fully understood or no longer exist." ([Klein et al., Many Labs 4, Collabra: Psychology 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience)): Primary text; quoted from the article's abstract, checked this session.
 
@@ -65,9 +65,9 @@ The traditions in this map start from the same observation: a life is finite, an
 
 ## Related questions and parallels
 
-Does contemplating death help or harm? The two research programmes answer differently, and the map holds both. The terror-management tradition reported defensive effects across its meta-analysis; the death-reflection studies found gratitude and intrinsic shifts under their own conditions of study. The distinction the cards themselves draw is between the abstract reminder and the specific, vivid confrontation, and the Frias conclusion above is the second programme's own summary of what it found.
+Does contemplating death help or harm? The two research programmes studied different outcomes under different conditions, and the map holds both records side by side rather than staging a contest between them. The terror-management tradition reported defensive effects across its meta-analysis; the death-reflection studies found gratitude and intrinsic shifts under their own conditions of study. The distinction the cards themselves draw is between the abstract reminder and the specific, vivid confrontation, and the Frias conclusion above is the second programme's own summary of what it found.
 
-Why keep Spinoza at the edge? Because the map's honest shape includes a tradition that runs the emphasis the other way: wisdom as meditation on life rather than death, from which the remembrance practices can look like an error of emphasis. The cards do not resolve the disagreement, and the dossier does not pretend they do; the practice section below keeps both directions live.
+Why keep Spinoza at the edge? Because the map's honest shape includes a tradition that runs the emphasis the other way: wisdom as meditation on life rather than death. The cards do not record how the two emphases combine, and the dossier does not pretend they do; the practice section below keeps both directions live.
 
 Where does the fear end? At the boundary drawn in the opening: the Epicurean argument, the clinical study of death anxiety and Ivan Ilyich's dying belong to Fear; what death does to meaning, gratitude and choice belongs here. The two dossiers share cards and cite each other's territory rather than duplicating it.
 
@@ -83,7 +83,7 @@ Where does the fear end? At the boundary drawn in the opening: the Epicurean arg
 
 3. [K316 — Mortality-to-action translation](https://clemvillatte.github.io/flourishing-compendium/#card=K316%20%E2%80%94%20Mortality-to-action%20translation): five minutes of writing, then one insight translated into one action this week with a day and time attached.
 
-::Retention:: Retention is what people keep because it works for them. The cards state plainly that the evidence supports the direction of these practices rather than the exercises as scheduled here: the studies measured attitudes, discounting and gratitude, and the specific exercises, their wording and their schedules are the kernels' editorial adaptations of that evidence. A reader who keeps one monthly reflection or one deathbed question has what the theme offered; the Spinozist who keeps none and meditates on life instead is inside the map too.
+::Retention:: Retention is what people keep because it works for them. The cards state plainly that the evidence supports the direction of these practices rather than the exercises as scheduled here: the studies measured attitudes, discounting and gratitude, and the specific exercises, their wording and their schedules are the kernels' editorial adaptations of that evidence. A reader who keeps one monthly reflection or one deathbed question has what the theme offered.
 
 ## Story: the stories that carry the theme
 

@@ -25,7 +25,7 @@ placement decision the registry rules do not let a worker make).
   flight-and-will wing is unmapped; the Kierkegaardian wing is in Anxiety"
   is implemented as stated.
 
-## Card bodies read in full this session
+## Card bodies read this session (the sections carrying the mapped claims)
 
 Concepts: Escape from freedom, The dizziness of freedom (boundary check
 only, not mapped), Radical freedom, Psychological reactance, Situated
@@ -69,8 +69,9 @@ Kernel: K315.
 - No meta-text openers; loglines describe events; no manufactured
   disagreement (the situated-freedom critique is the card's own correction,
   presented as such); the Kierkegaardian exclusion is stated as a boundary,
-  not as a verdict on the material; no verification-status labels in the
-  body (all verification language lives here); the practice evidence limits
+  not as a verdict on the material; the body carries only one-line carrier
+  notes on quotes, per the corpus convention, and all extended verification
+  language lives here; the practice evidence limits
   are carried from the K315 card's own statements.
 
 ## Pass 2 (advisor QC, 2026-10-24) — revisions applied
@@ -90,9 +91,16 @@ Kernel: K315.
    full sentence, which begins "for the mere impulse of appetite...".
 6. The freedom-from/freedom-to comparison marked as this dossier's editorial
    move; Berlin's distinction left to Agency.
-7. Fromm's "four defenses" KEPT: grounded in the Escape from freedom card,
-   which enumerates the four escape mechanisms (authoritarianism,
-   destructiveness, automaton conformity, intellectualization).
+7. Fromm's "four defenses" KEPT in pass 2, REMOVED in pass 2b per the
+   second QC round: the gloss now says "the escape mechanisms the work
+   enumerates" without the count, which the opened carrier excerpt does not
+   itself establish. The "felt first, understood later" line was also
+   removed entirely (it is the Escape card's own editorial sentence, and no
+   external carrier for it was opened).
+8. Pass 2b (second advisor round): anguish gloss's "responsible for what
+   the world around my choice comes to mean" replaced with the card's own
+   "My use" formulation (no past resolution and no external constraint
+   stands between the person and the act).
 
 NOT ADOPTED from the QC: stripping the "Primary text; ... checked this
 session" attribution notes from quote carriers — that note format is the

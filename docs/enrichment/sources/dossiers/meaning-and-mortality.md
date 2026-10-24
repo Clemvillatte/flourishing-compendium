@@ -54,18 +54,22 @@ was re-read during pass 2 to ground the three-acceptance gloss.
    enough, if you know how to use it." and "Why do we complain of Nature? she
    has dealt kindly with us." confirmed verbatim. (The ebook landing page
    64576 does not show the text; the plain-text cache URL is the carrier.)
+6. Burke, Martens and Faucher 2010 meta-analysis —
+   https://pubmed.ncbi.nlm.nih.gov/20097885/ — "Overall, 164 articles with 277
+   experiments were included." and "MS yielded moderate effects (r = .35)"
+   confirmed verbatim from the PubMed record during pass 2; the numbers in
+   the Mortality salience gloss carry this carrier link.
 
-## Quotes NOT used because their carriers were not opened this session
+## Claims reported from card bodies but not quoted
 
 - The M037 Cantares Mexicanos poem (jade/gold/quetzal): glossed, not quoted.
   The card cites Maffie's IEP "Aztec Philosophy" article; not re-opened.
 - B055's AN 5.57 carrier and S104's Gutenberg Long translation: glossed, not
   quoted, to keep every quoted line in the dossier verified this session.
-5. Burke, Martens and Faucher 2010 meta-analysis —
-   https://pubmed.ncbi.nlm.nih.gov/20097885/ — "Overall, 164 articles with 277
-   experiments were included." and "MS yielded moderate effects (r = .35)"
-   confirmed verbatim from the PubMed record during pass 2; the numbers in
-   the Mortality salience gloss now carry this carrier link.
+- Fromm's escape-mechanism enumeration, the DAP-R five dimensions and the
+  Burke figures' meta-analytic scope: reported in glosses as the cards' own
+  records; the Burke figures were additionally verified against PubMed
+  (carrier 6 above), the others remain card-sourced.
 
 ## Pass 2 (advisor QC, 2026-10-24) — revisions applied
 
@@ -90,8 +94,14 @@ was re-read during pass 2 to ground the three-acceptance gloss.
 7. ST272 story logline rewritten without the intellectual-lineage claim
    ("sources every later existential treatment") — the card's own famous-
    and-infamous framing is used instead.
-8. "The direction every entry above shares" → "the direction the remembrance
-   family above shares" (SP068 is in the map and does not share it).
+8. Pass 2b (second advisor round): SEP block reduced to Heidegger's verified
+   inner quotation with citation-only attribution (the wrapping sentence was
+   Wrathall's, not Heidegger's); Many Labs 4 narrowed again to "the specific
+   effect it targeted"; the two research programmes presented as different
+   outcomes under different conditions, not a help-versus-harm contest; the
+   Spinozist Retention clause dropped and the Related-questions sentence
+   softened (contrasting emphasis, not rejection); "an error of emphasis"
+   removed.
 
 NOT ADOPTED from the QC: the advice to strip the "Primary text; ... checked
 this session" attribution notes from quote carriers. That note format is the
@@ -105,8 +115,9 @@ carriers on quotes); the notes were kept in the same one-line form.
   events; the Spinoza counter-practice is presented as a live disagreement
   the cards record, not manufactured; the practice section is labeled
   editorial in substance (the cards' own evidence-limits statements are
-  carried into the Retention paragraph); no verification-status labels in
-  the dossier body (all verification language lives in this ledger).
+  carried into the Retention paragraph); the body carries only one-line
+  carrier notes on quotes, per the corpus convention, and all extended
+  verification language lives in this ledger.
 - Practice evidence limits are carried from the kernel cards themselves
   (K222: cross-sectional survey, not the exercise; K226: monetary outcomes,
   deathbed framing editorial; K316: discounting of monetary rewards).
