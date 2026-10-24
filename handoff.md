@@ -16,10 +16,10 @@ ledger. This correction overrides the older quote-heavy reader format.
 - Supervisor baton claimed and pushed. No separate worker band held.
 - Main was missing the WORK ORDER. Recovered the four-file insurance
   branch `session-handoff-1024` by fast-forward; that state is now on main.
-- Latest pushed checkpoint before this save: `2a653ae7`. Candidate passes
-  1–8 now cover classical account, psychological measurement, growth,
-  thinkers/stories, counterfeits and the four disagreement sections.
-  All 147 original card occurrences retained. Headings now 25; checker
+- Latest pushed content checkpoint before this save: `007cf404`.
+  Candidate passes 1–12 cover the full synthesis and disagreement
+  sections plus practice paths. All 147 original card occurrences
+  retained. Headings now 33; checker
   passes. Opening wording preserved, public evidence-status labels removed.
 - Evidence record: `docs/enrichment/sources/dossiers/genuine-flourishing.md`,
   candidate passes 1, 2 and 3 plus newest owner readability correction.
@@ -29,11 +29,11 @@ ledger. This correction overrides the older quote-heavy reader format.
   reviewed first item: scoped pass with corrections (applied: core
   projects, positive emotions, Ryan/Deci wording, separate flow/vital
   engagement sources, first-person judgment). Later passes still need QC.
-- EXACT NEXT ACTION: apply readability correction to first three
-  rewrites: goals/energy and conditions awaiting advisor proposals;
-  main agent handles hard-parts passage. Then organise practice list into
-  usable paths, verify story loglines (ST195 is a source conflation),
-  and final prose/QC/render pass. Preserve links,
+- EXACT NEXT ACTION: verify story loglines, then final humanizer/QC/render
+  pass. ST195 is a source conflation, already repaired in the synthesis;
+  gallery line still needs repair. Advisor is checking the other story
+  carriers. Practices now grouped into four reader questions; V–S–R kept.
+  Preserve links,
   do not homogenise disagreements, do not modify the opening.
 - Advisor caveats to preserve: Diener/Seligman = correlational study of
   undergraduates; belonging = hypothesis; Berlin positive freedom has
@@ -57,6 +57,13 @@ ledger. This correction overrides the older quote-heavy reader format.
   adding resumable parallel blob uploads. Reapplied proxy mode on top of
   that newer implementation, preserving its cache/concurrency. Do not
   revert newer shared infrastructure wholesale from an old checkout.
+
+- Readability safeguard added: `dossier_check.py` now rejects public
+  verification labels and prose paragraphs over 150 visible words.
+  Regression tests: `scripts/tests/test_dossier_readability.py` (5 pass).
+  This floor is not semantic approval. Legacy dossiers may now fail;
+  DO NOT bulk-split or strip apparatus and call them rewritten. Owner
+  validates GF first, then future agents repair with source and prose QC.
 
 # Supervisor session addendum — 2026-10-24, T+39
 

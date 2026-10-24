@@ -32,6 +32,14 @@ Passing the checker does not make a dossier readable. The GF candidate
 requires the owner's explicit validation before it becomes the model for
 the planned six-agent rollout. Do not copy its unfinished form.
 
+The supervisor has added a mechanical floor to `dossier_check.py`:
+public verification-status labels and prose paragraphs over 150 visible
+words fail validation. This is not an owner-prescribed target length or
+a certificate of good writing. Legacy dossiers may now fail; repair them
+thoughtfully after the exemplar is approved, not by splitting the same
+source list at arbitrary intervals. New publication still requires prose
+review as well as a successful checker.
+
 ### Four sections
 
 1. **Theme-Based Compilation** — an exhaustive map, not a curated sampler:

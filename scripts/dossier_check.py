@@ -16,6 +16,11 @@ Checks (per docs/enrichment/dossiers/HANDOFF.md):
    slug. In-progress and future dossiers are NOT grandfathered: the
    section is part of the v2 format.
 
+Readability floor (newest owner correction, 2026-10-24): no public
+verification-status badges and no prose paragraph over 150 visible words.
+This catches obvious prose walls, not quality itself. Human review must
+still reject source lists disguised as synthesis.
+
 Usage (from the repo root):
   python3 scripts/dossier_check.py docs/enrichment/dossiers/anger.md
 
@@ -63,6 +68,34 @@ def quote_lines(md):
     return out
 
 
+def readability_problems(md):
+    """Mechanical floor, never a certificate of intelligible synthesis."""
+    problems = []
+    status = re.compile(
+        r'\b(?:Primary text|Secondary source|Scholarly interpretation'
+        r'|Study abstract|Study); (?:quoted|cited) passages? checked\b',
+        re.I)
+    for match in status.finditer(md):
+        line = md.count('\n', 0, match.start()) + 1
+        problems.append(
+            'line %d: public verification-status label; move checking '
+            'apparatus to the evidence ledger' % line)
+    for match in re.finditer(r'\S[\s\S]*?(?=\n\s*\n|\Z)', md):
+        paragraph = match.group().strip()
+        if not paragraph or paragraph.startswith(('#', '>')):
+            continue
+        visible = re.sub(r'\[([^\]]+)\]\([^\s)]+\)', r'\1', paragraph)
+        visible = re.sub(r'::\w+::', '', visible)
+        words = re.findall(r"\b\w+(?:[’'-]\w+)*\b", visible)
+        if len(words) > 150:
+            line = md.count('\n', 0, match.start()) + 1
+            problems.append(
+                'line %d: prose wall (%d visible words, maximum 150); '
+                'rethink the argument into readable units, not a source '
+                'list split mechanically' % (line, len(words)))
+    return problems
+
+
 def resolves(target):
     for d in CONTENT_DIRS:
         if os.path.exists(os.path.join(d, target + '.md')):
@@ -85,7 +118,7 @@ def main(path):
         print('FAIL file not found:', path)
         return 1
     md = open(path, encoding='utf-8').read()
-    problems = []
+    problems = readability_problems(md)
 
     if not re.search(r'^# ', md, re.M):
         problems.append('no "# Title" heading')

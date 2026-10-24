@@ -1,5 +1,25 @@
 # Dossiers band handoff — read this first
 
+## Newest owner correction: readable synthesis and approval gate
+
+The owner rejected the GF passage beginning "Its goal research adds..."
+as cognitively overloading and impossible to read, navigate or comprehend.
+Do not produce an accumulation of quotes and source summaries. Write a
+connected, enjoyable synthesis in short, meaningful units, with useful
+subheadings and unobtrusive links. Keep detailed checking apparatus in
+the ledger. Source fidelity and real disagreements remain mandatory.
+
+This supersedes older instructions below that put verification labels or
+a quotation for every position in the public reading path. Read the
+current README and HUMANIZER-SKILL. `dossier_check.py` now rejects public
+checking labels and prose paragraphs over 150 visible words. That is a
+mechanical floor, not a target or a substitute for a human reading.
+
+GF is a candidate awaiting the owner's explicit validation. Do not launch
+the planned six-agent rollout or copy its unfinished form as an exemplar.
+The next supervisor must preserve this gate and review actual prose,
+not just resolved links and successful builds.
+
 Written 2026-10-23/24 by worker-pplx-dossiers-1023b and 1024, for any
 blank-slate agent taking the dossiers baton. Everything below is what a
 new agent needs to continue without this conversation.
