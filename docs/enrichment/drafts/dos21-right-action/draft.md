@@ -139,6 +139,18 @@ Aristotle's account of virtue of character holds that character is formed by doi
 
 ## Related questions and parallels
 
+### May taking life ever be right action?
+
+The path's definition states the restraint without exception:
+
+> "Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)): Primary text; quoted passages checked.
+
+The Christian tradition codifies the other answer, that taking up the sword of war can be lawful conduct. Aquinas asks whether it is always sinful to wage war, and the reply opens by giving what makes a war just:
+
+> "In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged." ([Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm)): Primary text; quoted passages checked.
+
+The permission is bounded, not an endorsement of harm for its own sake; the same article condemns the passion for inflicting harm and the cruel thirst for vengeance in war. The two answers to the same question are incompatible: the definition of right action names abstaining from taking life, and the just-war tradition names the conditions under which a sovereign may rightly command it. The wiki holds both sides, the non-harm floor on one side and the just-war card on the other, and does not reconcile them.
+
 ### Can knowledge coexist with failure to act?
 
 In Aristotle's report, Socrates denies that someone can knowingly act against what they judge best.

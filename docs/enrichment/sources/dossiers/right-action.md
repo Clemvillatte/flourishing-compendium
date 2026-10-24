@@ -8,8 +8,8 @@ reading, and the follow-up ledger splice fix by the 07:52:55Z reading.
 
 Every blockquote was then re-verified against raw, unprompted
 carrier text (direct fetch of each blockquote's carrier URL, tags
-stripped, whitespace normalised, substring check): ten blockquote
-instances covering 5 distinct blockquote-carrier URLs, and all ten
+stripped, whitespace normalised, substring check): twelve blockquote
+instances covering 6 distinct blockquote-carrier URLs, and all twelve
 blockquote checks are FULL MATCH against the raw carrier text. (Pass 2
 added the Bodhi non-stealing counterpart quotation; pass 3 added the
 Nicomachean Ethics VII.2 pair; pass 4 added the NE VII.3 resolution
@@ -144,6 +144,26 @@ that was an awk artifact (the tool exits on the first blank line). The
 card was read properly in pass 4 and added to the map (the situationist
 literature: Doris's Lack of Character, the hurrying seminarians,
 Milgram's obedience findings).
+
+## Genuine disagreement added in pass 7
+
+Per the advisor's round-6 instruction, pass 7 investigated the
+genuine-disagreement requirement with the primary-source library
+rather than forcing the Wang/Aristotle pair. The question taken up:
+may taking life ever be right action? The Buddhist answer was already
+open in the session (SN 45.8, "Abstaining from taking life...
+This, monks, is called right action"). The other side was taken from
+the Conduct even in just war card's carrier, Aquinas, Summa
+Theologiae II-II q.40 a.1 (https://www.newadvent.org/summa/3040.htm),
+opened and read this pass: the article asks whether it is always
+sinful to wage war, and the reply opens "In order for a war to be
+just, three things are necessary. First, the authority of the
+sovereign by whose command the war is to be waged." The two carriers
+give incompatible answers to the same question; the subsection states
+the disagreement plainly and notes that the article's permission is
+bounded (the same article condemns the passion for inflicting harm
+and the cruel thirst for vengeance in war). The Wang/Socrates/
+Aristotle fit question remains open and labelled as such.
 
 ## Divergence (pass 3 history)
 
