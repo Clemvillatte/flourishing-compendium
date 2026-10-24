@@ -298,3 +298,44 @@ was changed.
 - Plato, Apology 31c-d (Jowett) — Primary text
 - Camus, The Myth of Sisyphus (O'Brien, x4) — Primary text
 - Jaspers, Way to Wisdom — Primary text
+
+## Quote-fidelity pass (2026-10-24, supervisor-pplx-1024c-dossiers, dossiers baton)
+
+The dossier carries 24 verbatim quotations; the ledger had no prior
+carrier-verification record. All carriers were opened this session and
+every quote checked word-for-word:
+
+- Frankl, Man's Search for Meaning (antilogicalism.com full-text PDF):
+  all seven quotes verified, including "primary motivational force",
+  "what life expected from us" (both instances, the second with its
+  continuation "daily and hourly"), "some future goal" (the camp
+  passage), "the true meaning of life is to be discovered in the
+  world", "three different ways", "the last of the human freedoms"
+  (split across PDF line breaks), and "the more human he is".
+- Frankl, "Tragic Optimism" (fabian.ca excerpt PDF): "optimistic in
+  spite of the 'tragic triad'" verified.
+- Camus, The Myth of Sisyphus (Colorado PDF): all three unique quotes
+  verified ("divested of illusions and lights", "unreasonable silence
+  of the world" — quoted twice in the dossier, both instances match —
+  and "surmounted by scorn").
+- Weber, Protestant Ethic ch. III (marxists.org): both quotes verified
+  (the Beruf passage and "The only way of living acceptably to God").
+- Plato, Apology 31c-d (MIT Classics, Jowett): the sign passage
+  verified verbatim.
+- Aristotle, NE I.7 (MIT Classics, Ross): "human good turns out to be
+  activity of soul in accordance with virtue" verified (same fetched
+  page as the genuine-flourishing check).
+- Yeager et al. 2014 (Stanford PDF): the purpose-for-learning
+  definition verified.
+- Park, The Meaning Making Model (EHP PDF): both quotes verified (the
+  second modulo a hyphenation artifact in PDF extraction:
+  "approachoriented").
+- Kelly, Psychology of Personal Constructs (infoamerica PDF):
+  "placing his own interpretations" verified.
+- Jaspers, Way to Wisdom (epimelea.com): the ultimate-situations
+  passage verified verbatim on the page.
+- Steger, Meaning in Life (Oxford Handbook chapter page): both quotes
+  verified verbatim from the chapter abstract page.
+
+All 24 quotations match word-for-word. No corrections needed to the
+dossier body. Checker and voice audit not re-run (body unchanged).
