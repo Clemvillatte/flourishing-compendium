@@ -44,7 +44,7 @@ Before drafting a difficult email, leave the phone in another room. Notice wheth
 
 ## Stories
 - [[ST478 — The Carver's Fast|478. The Carver's Fast]]
-
+- [[ST488 — 35. The Painter Who Kept the Water Still|488. 35. The Painter Who Kept the Water Still]]
 ## Psychology parallels
 
 - **[[Deautomatization|Deautomatization]]**, meditation dismantles automatic thought-perception links (Deikman, 1966)
