@@ -120,6 +120,21 @@ the carrier reads "sati, but you should bring them along wherever
 they're appropriate."; blockquote-only checks miss inline errors,
 and the full ending is restored.
 
+## Story-directory sweep (pass 9)
+
+The story directory was swept for on-theme cards (an earlier
+basename check had missed story files whose titles carry the ST
+prefix). Five were found, read and added with loglines compressed
+from their cards: ST069 The Four Foundations, ST068 The Sixteen
+Steps of the Breath, ST075 The Monkey Tied to the Post, ST074 The
+Five Hindrances as Thieves, ST061 Bahiya's Single Instruction. The
+ST069 card carries the same MN 10 direct-path quotation already
+verified in the map; no new carriers were required. Other stories
+reviewed and left out as belonging to other themes: ST060
+Angulimala (right action), ST064 The Lute String (concentration),
+ST070 Dogen Just Sits (sitting/concentration), ST078 The Two Arrows
+(wisdom).
+
 ## Card-body audit (pass 6 follow-up)
 
 The full card bodies (not only openings) of all thirteen entries
