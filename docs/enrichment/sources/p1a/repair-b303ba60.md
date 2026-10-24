@@ -30,3 +30,11 @@ are not certified by this body-level review.
 - Repair: replaced “welded,” “machinery” and the confused three/four-part jogger example. Restored the ethical consequence of Dewey's interaction account instead of reducing it to a personal productivity tactic. The meeting exercise is my hypothetical application and includes variation, consequences, review and joint revision.
 - Saturation: `enrich_find.py mention organism and environment` found Transaction; Habit and Functional contextualism concepts were read. No new graph edge or equivalence claim is needed. Existing Seneca link is preserved without certifying that association.
 - Limits: historical philosophical account, not a modern experimentally established claim about willpower; no deterministic claim that circumstances eliminate agency or guarantee successful habit change.
+
+## S001: Distinguish what is up to you
+
+- Opened: [Enchiridion, Carter translation](https://classics.mit.edu/Epictetus/epicench.html), especially chapters 1–5; [Margaret Graver, Epictetus, SEP](https://plato.stanford.edu/entries/epictetus/), §§4.3–4.7.
+- Evidence: retained opening quotation matches Carter. Chapter 1 supports examination of troubling appearances; Graver locates moral good in volition rather than external success and explains care in pursuing externals, involuntary trembling and the need for training.
+- Repair: fixed “I applie” by replacing the sentence; distinguished the ethical claim from a scale of causal influence. Preserved the exam illustration, adding a review of chosen preparation and a subsequent adjustment. Plain words now explains the action/outcome distinction before giving advice.
+- Saturation: `enrich_find.py mention up to us` and Prohairesis were read; the already linked The dichotomy of control remains sufficient. No new graph edge.
+- Limits: not presented as proof of instantaneous emotional control, clinical advice, or a reason to ignore other people's welfare. Existing psychology parallels and reflection questions preserved without re-certification.

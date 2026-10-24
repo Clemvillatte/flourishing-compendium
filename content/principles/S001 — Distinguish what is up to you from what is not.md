@@ -17,15 +17,26 @@ Epictetus opens the Enchiridion with this distinction:
 > "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions."
 > (Ench. 1, [Elizabeth Carter's translation](https://classics.mit.edu/Epictetus/epicench.html))
 
-He warns that treating what belongs to others as your own will leave you hindered and disturbed. His instruction is to examine a troubling appearance by asking which category it concerns (Ench. 1). Chapter 5 attributes disturbance to the judgements people form about events (Ench. 5). I applie this account by separating the action a person chooses from the outcome they hope to obtain. (Ench. 1; Disc. I.1, I.22.)
+He asks students to examine a troubling appearance by distinguishing what is their own from what belongs to others ([Ench. 1](https://classics.mit.edu/Epictetus/epicench.html)). This is an ethical distinction, not a measure of how much influence someone has over an outcome: Margaret Graver explains that Epictetus locates a person's good in the use of their capacity for choice, while allowing vigorous, careful action concerning external things ([Stanford Encyclopedia of Philosophy, §§4.3–4.4](https://plato.stanford.edu/entries/epictetus/)).
 
-**Plain words** Suppose you are waiting for someone else's decision. You might ask for clarification or decide what to do while waiting. Their answer remains their decision. The exercise is to identify your next choice without treating the result you want as something you can command.
+His account also requires training and repeated correction of judgments; even the wise person may tremble at sudden danger ([Graver, §§4.5 and 4.7](https://plato.stanford.edu/entries/epictetus/)). I would not turn this demanding philosophical ideal into an accusation that someone ought to be able to stop feeling distressed immediately.
 
-*For example:* Suppose tomorrow's exam paper has already been set. Choose what to review tonight without assuming that studying a topic guarantees it will appear.
+### Plain words
+
+Your decision and its eventual result are different things. You can deliberate about how to act without owning another person's answer or guaranteeing success. Take care over what you do; leave room to respond when events turn out differently from what you hoped.
+
+### For example
+
+Suppose you are preparing for an exam whose questions have already been set. Choose what to review and how to use the time available, without treating preparation as a guarantee of a particular result. Afterwards, examine the choices you made and adjust your next study plan. This is my application of the distinction.
 
 ## Related concepts
 
 - [[T011 — Socrates]]: the Crito story (ST141) the page lists: refusing the easy exit when the question is open.
+
+## Sources
+
+- [Epictetus, Enchiridion 1, Elizabeth Carter translation, Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html): quotation and examination of appearances.
+- [Margaret Graver, Epictetus, Stanford Encyclopedia of Philosophy, §§4.3–4.7](https://plato.stanford.edu/entries/epictetus/): choice, external things, emotions and ethical training.
 
 ## Stories
 
