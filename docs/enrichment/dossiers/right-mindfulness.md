@@ -2,7 +2,7 @@
 
 > What does it take to know what is happening, while it is happening?
 
-This dossier is a map, not an essay. The aim is that a reader can say "I want to think about right mindfulness", open this page, and see the spread of what the compendium holds on the seventh factor of the Eightfold Path: the entries that bear on trained awareness, grouped by the question they answer, each with a card link. The lines are short on purpose; the dense arguments live on the cards. This is a pass-1 draft: the core map is here, and an exhaustiveness sweep over the attention-family cards remains for the next pass.
+This dossier is a map, not an essay. The aim is that a reader can say "I want to think about right mindfulness", open this page, and see the spread of what the compendium holds on the seventh factor of the Eightfold Path: the entries that bear on trained awareness, grouped by the question they answer, each with a card link. The lines are short on purpose; the dense arguments live on the cards. A full-text sweep has been run over the theme's terms and its stragglers read in; a deeper audit of the remaining attention-family and emotion-regulation candidates is still open, and the sections below say what is held rather than claim exhaustion.
 
 How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page.
 
