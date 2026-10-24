@@ -53,6 +53,6 @@ K011 "See the ego's groundlessness as its nature, not its failure" treats the co
 [[V1K-S02.05 — Step 5 — Retain what works]]
 [[Y104 — Give up the doer's claim]]
 [[ST091 — Trần Nhân Tông Leaves the Throne]]
-## Cited in philosophy parallels
+- [[T056 — Nishitani, Keiji]]: the K011 treatment of the constructed self the concept cites beside its principle.## Cited in philosophy parallels
 
 - [[AF009 — Understand that affect is constructed, not discovered]]

@@ -33,8 +33,7 @@ The sky image and the practical advice below belong to the compendium, not to th
 - [[T051 — Nishida Kitaro]]: the emptiness-as-place thinking the SEP entry says Nishitani follows him in.## Psychology parallels
 
 - **Cognitive space and working memory's limits**, the mechanical sense in which occupied structures crowd out perception of the new (the attentional blink and load research, as framework)
-
-## Philosophy parallels
+- [[T056 — Nishitani, Keiji]]: the emptiness-as-place thinking the SEP entry says follows Nishida in.## Philosophy parallels
 
 - **[[The empty hub of the wheel|The empty hub of the wheel]]** (Laozi, Daodejing 11)
 - **Wu as usefulness of the empty** (Zhuangzi, Inner Chapters)

@@ -44,7 +44,6 @@ Sociocultural · Psychological science
 
 - [[Elaboration Likelihood Model]] — comparison: a persuasion model of when argument quality dominates thinking
 - [[Heuristic-Systematic Model of Persuasion]] — comparison: another persuasion framework with a role for metacognition
-
-## Sources
+- [[T056 — Nishitani, Keiji]]: the Nishitani line behind the K008 kernel the concept links on honesty and action.## Sources
 
 - [Briñol & Petty, "Self-Validation Theory: An Integrative Framework for Understanding When Thoughts Become Consequential", Psychological Review (2022), author-hosted uncorrected proof PDF](https://richardepetty.com/wp-content/uploads/2021/11/2022-Psyc-Rev-SVT-uncorrected-proof-r.pdf) — the core notion, the self-validation hypothesis history, cognitive and affective validation

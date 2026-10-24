@@ -48,3 +48,6 @@ What are the limits of interdependence as an ethical idea? Could it excuse an ab
 %%
 How would your sense of suffering change if you took seriously that no one suffers alone, and no one flourishes alone? Write about one concrete implication.
 -->
+
+## Related concepts
+- [[T056 — Nishitani, Keiji]]: the term from Religion and Nothingness the principle quotes, each thing absolutely unique.

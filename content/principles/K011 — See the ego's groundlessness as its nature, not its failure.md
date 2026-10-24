@@ -44,3 +44,6 @@ If the ego is groundless, why does it feel so solid? What would a psychologist, 
 %%
 People with fragile self-esteem are often told their self is "just a construct." What would make that message wise rather than wounding?
 -->
+
+## Related concepts
+- [[T056 — Nishitani, Keiji]]: the fabricated ego the SEP sections the principle cites attach to.

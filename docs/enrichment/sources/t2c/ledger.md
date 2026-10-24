@@ -63,3 +63,14 @@ Gaozi I, wulun, four beginnings, IEP dating); 2 story cards (ST241, ST243)
 blocked, flagged for supervisor. Validator: all modified pages pass except
 two concept stubs below the 150-word floor (Natural virtue 145, The mirror
 for others 120) - pre-existing, flagged.
+
+2026-10-24 07:15Z, worker-pplx-t2c-1024e: Nishitani (T056) block complete - 16
+backlink glosses (12 principles, 4 concepts), grounded in each page's own
+text (Religion and Nothingness passages, SEP Kyoto School sections 3.2-
+3.7, Bret Davis on Great Doubt, interpenetration quote p. 148). Validator:
+all modified pages pass except two concept stubs below the 150-word floor
+(Self-validation theory 123, Things thinging 148) - pre-existing, flagged.
+This completes the t2c manifest: 186 backlink glosses written this baton
+(Gadamer 38, Nagarjuna 29, Nishida 30, MacIntyre 27, Dogen 12, Shankara
+19, Mencius 15, Nishitani 16); 1 false positive skipped (Cultural schema
+theory, Hiroko Nishida); 4 story cards blocked and flagged for supervisor.

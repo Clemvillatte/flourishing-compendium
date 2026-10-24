@@ -51,3 +51,4 @@ What does it mean, for someone in prolonged suffering, to live with an unanswera
 
 ## Related concepts
 - [[T051 — Nishida Kitaro]]: the Kyoto School context the principle's SEP citation places the question in.
+- [[T056 — Nishitani, Keiji]]: the Kyoto School context the principle's SEP citation places its questions in.

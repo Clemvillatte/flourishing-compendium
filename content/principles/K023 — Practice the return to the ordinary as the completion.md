@@ -42,3 +42,6 @@ Why might ordinariness be a harder goal than extraordinary states? What do we do
 %%
 What would a flourishing ordinary day look like, one with no peak experiences? Describe it in detail.
 -->
+
+## Related concepts
+- [[T056 — Nishitani, Keiji]]: the return to the ordinary the principle names beside the Zen tradition's ordinary mind.

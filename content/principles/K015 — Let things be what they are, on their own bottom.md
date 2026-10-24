@@ -43,3 +43,6 @@ Is it possible to love someone entirely for who they are, with no use at all? Or
 %%
 What happens to our care for the natural world if we apply the same principle to trees, rivers and animals? Write a passage about one place you value beyond its use.
 -->
+
+## Related concepts
+- [[T056 — Nishitani, Keiji]]: the field of Sunyata passage the principle quotes, things on their own selfhood.

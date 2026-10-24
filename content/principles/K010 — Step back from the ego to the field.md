@@ -42,3 +42,6 @@ What does it mean to step back to a "field" on which the ego arose? Try to expla
 %%
 Is there a risk that stepping back becomes a refined form of detachment from responsibility? How does the tradition guard against it?
 -->
+
+## Related concepts
+- [[T056 — Nishitani, Keiji]]: the three-field topology the SEP Kyoto School entry gives for Religion and Nothingness.

@@ -44,3 +44,6 @@ Why might a single negation lead to nihilism? Explain, using an example, how the
 %%
 How does this structure help or fail people who have lost faith or purpose and don't want to rebuild what they had?
 -->
+
+## Related concepts
+- [[T056 — Nishitani, Keiji]]: the two steps the SEP entry describes, freed from egoistic obsession then from attachment itself.

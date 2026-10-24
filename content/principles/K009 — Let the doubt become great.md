@@ -43,3 +43,6 @@ Doubt can destroy and it can free. What separates the great doubt of Zen from co
 %%
 In an age of quick answers, what does it cost us to treat doubt as a problem to be solved rather than as something to be inhabited? Write about a time you rushed to resolve a question that deserved more time.
 -->
+
+## Related concepts
+- [[T056 — Nishitani, Keiji]]: the Great Doubt as not a skill but a passage, from Bret Davis's account the principle cites.

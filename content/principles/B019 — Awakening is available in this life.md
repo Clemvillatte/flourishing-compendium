@@ -49,3 +49,6 @@ The moment of ordinary presence while washing dishes — no bells, no light. Wha
 %%
 A shift of seeing, immediate, embodied, ordinary, is possible now. What shift are you currently waiting for that's actually available?
 -->
+
+## Related concepts
+- [[T056 — Nishitani, Keiji]]: satori as sudden seeing, from Religion and Nothingness, the page's awakening line.
