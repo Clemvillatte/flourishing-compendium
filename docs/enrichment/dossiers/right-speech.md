@@ -109,7 +109,7 @@ The five-factor version the tradition also carries:
 
 ### The listening side
 
-[Listening](https://clemvillatte.github.io/flourishing-compendium/#card=Listening): the practice and research of receiving speech, including where it fails.
+[Listening](https://clemvillatte.github.io/flourishing-compendium/#card=Listening): in the dialogical tradition, the act by which another person becomes more than noise: Buber's genuine conversation as acceptance of otherness, with Levinas beside it.
 
 [Right listening](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20listening): the Buddhist counterpart to right speech: the receiving half of the same discipline.
 
@@ -205,7 +205,7 @@ The five-factor version the tradition also carries:
 
 The shared question: when speech is true and useful, must it also be agreeable to its hearer? The Bhagavad Gita's definition of the austerity of speech folds the hearer's ease into the definition:
 
-> "Speaking words that cause no agitation and that are truthful, pleasing and beneficial, as well as reciting the Vedas, are all said to be austerities of speech." ([Bhagavad Gita 17.15, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html)) Edwin Arnold's rendering of the same verse, verified against the Gutenberg plain text, reads "Words causing no man woe, words ever true, / Gentle and pleasing words".
+> "Speaking words that cause no agitation and that are truthful, pleasing and beneficial, as well as reciting the Vedas, are all said to be austerities of speech." ([Bhagavad Gita 17.15, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html)) Edwin Arnold's rendering of the same verse, in [The Song Celestial on Project Gutenberg](https://www.gutenberg.org/cache/epub/2388/pg2388.txt), reads "Words causing no man woe, words ever true, / Gentle and pleasing words".
 
 The Abhaya Sutta's case list, by contrast, in its third case, admits words that are factual, true, beneficial, and unendearing, to be said at the proper time, and the reason given is sympathy, not its absence. The two traditions answer the same question and part on whether pleasantness belongs to the definition of right speech or is a factor to be timed around. What remains unresolved is where the line falls in the hard case: a truth that is beneficial, unendearing, and whose hearer is not ready for it.
 

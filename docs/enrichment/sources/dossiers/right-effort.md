@@ -42,8 +42,8 @@ re-verified against their cards in a final audit (all matched).
 
 Revision 6: the how-to-read exclusion note reworded to
 match the map (B116 was named as excluded but listed inline); the
-note now says the principle pages are listed except where one directly
-carries a group's argument.
+note now says the principle pages are not listed except where one
+directly carries a group's argument.
 
 Revision 7: a fresh coverage sweep (in case other workers
 added on-theme cards since the last pass) found Spiritual exercises
