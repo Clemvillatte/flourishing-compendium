@@ -31,8 +31,7 @@ Imagine a guest says the room is too noisy. Hear the complaint before defending 
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the mirror image from the seventh book the page quotes.
-
-## Sources
+- [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).## Sources
 
 - [Zhuangzi, trans. James Legge (The Texts of Taoism, Sacred Books of the East 39), ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book VII, section 6
 

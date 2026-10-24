@@ -57,8 +57,7 @@ The weekly protected hour: one activity, one clear goal, feedback visible in the
 - [[Creative evolution]] — Bergson's 1907 account of life as genuinely new
 - [[Identified versus introjected motivation]] — self-determination theory's distinction between two ways of carrying a rule inside
 - [[Dual-process theory]] — Evans and Stanovich's Type 1/Type 2 distinction (2013)
-
-## Sources
+- [[T037 — Weil, Simone]]: the editorial contrast the concept draws between absorption and her receptive attention.## Sources
 
 - [Wikipedia — Flow (psychology)](https://en.wikipedia.org/wiki/Flow_(psychology)) — the definition, the three conditions, the six factors, both Norsworthy quotes, and the Csikszentmihalyi caution, all verified and quoted above
 - Csikszentmihalyi, 1990; Nakamura & Csikszentmihalyi, 2014 — the primary literature behind the Wikipedia summary

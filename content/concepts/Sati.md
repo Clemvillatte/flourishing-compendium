@@ -25,7 +25,7 @@ Sati's cross-tradition family is the attention-traditions: Weil's attention as t
 - [[Attention]] — Weil
 - [[Anapanasati (mindfulness of breathing)]] — the flagship practice
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
-## Sources
+- [[T037 — Weil, Simone]]: the cross-tradition attention family the concept places her in, generosity and prayer.## Sources
 
 - [Satipaṭṭhāna Sutta (MN 10), trans. Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the refrain quoted verbatim
 - Buddha, Satipaṭṭhāna Sutta (MN 10)

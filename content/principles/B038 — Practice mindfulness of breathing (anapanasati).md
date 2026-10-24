@@ -63,3 +63,6 @@ Three conscious breaths in the car before walking into the interview. What's you
 %%
 Know the breath as it enters and leaves. What's your current relationship to your own breathing, and what would riding it actually change?
 -->
+
+## Related concepts
+- [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).

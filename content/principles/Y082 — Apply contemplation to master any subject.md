@@ -42,3 +42,6 @@ The sutras present these as supernormal powers (vibhuti) that follow from master
 ## Philosophy parallels
 
 - **[[Knowledge by acquaintance|Knowledge by acquaintance through attention]]** (Simone Weil, "Reflections on the Right Use of School Studies," modern)
+
+## Related concepts
+- [[T037 — Weil, Simone]]: knowledge by acquaintance through attention, from the school-studies reflection the page cites.

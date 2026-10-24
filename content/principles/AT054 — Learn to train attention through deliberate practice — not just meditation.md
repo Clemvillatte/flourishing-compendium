@@ -47,3 +47,6 @@ For example: a teacher identifies a difficult piano passage and gives feedback a
 ## Practice
 
 - Train attention through meaningful activities: read challenging books, learn an instrument, practise a craft, solve problems. Choose activities that require sustained focus and provide feedback.
+
+## Related concepts
+- [[T037 — Weil, Simone]]: the craft of attention from Waiting for God the page's training line cites.

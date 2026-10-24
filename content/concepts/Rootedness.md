@@ -30,8 +30,7 @@ Mindy Thompson Fullilove offers a separate account of the harm associated with d
 - [[Attachment theory]]
 - [[Restorative environments]]
 - [[Ecological identity]]
-
-## Sources
+- [[T037 — Weil, Simone]]: the need-of-the-soul claim the concept is built on, from The Need for Roots.## Sources
 
 - Simone Weil, The Need for Roots: Prelude to a Declaration of Duties towards Mankind (1949). Excerpts at [The Examined Life](https://theexaminedlife.org/library/the-need-for-roots)
 - Fullilove, M. T. (2004). Root Shock: How Tearing Up City Neighborhoods Hurts America, and What We Can Do About It. New York: Ballantine Books. Definition quoted via [Sember, Kearns, Kaufman & Fullilove, "Root Shock Twenty Years On" (UCSF)](https://healthandaging.ucsf.edu/news/root-shock-twenty-years-displacement-%E2%80%93-its-harms-and-remedies)

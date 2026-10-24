@@ -60,3 +60,4 @@ Fragmented attention is a fragmented life. What's your current fragmentation act
 
 ## Related concepts
 - [[T035 — Thich Nhat Hanh]]: the dishwashing example the page quotes, washing the dishes while washing the dishes.
+- [[T037 — Weil, Simone]]: attention as generosity, from Waiting for God.

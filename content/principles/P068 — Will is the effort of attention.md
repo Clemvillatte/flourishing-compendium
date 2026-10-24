@@ -40,3 +40,6 @@ The whole of willpower is holding attention on the chosen object. What's your cu
 %%
 Strengthen attention, and will follows. Where in your current life is the attention actually the weak link?
 -->
+
+## Related concepts
+- [[T037 — Weil, Simone]]: attention as prayer, from Waiting for God.

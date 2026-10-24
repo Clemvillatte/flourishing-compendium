@@ -33,8 +33,7 @@ Two people with the same jobs and friends may live where one walks to all of the
 ## Related concepts
 
 - [[D034]] — sister principles from the same chapter (DDJ 80); simplifying the system and living within its bounds are two readings of one image
-
-## Sources
+- [[T037 — Weil, Simone]]: rootedness, the soul's need for place from The Need for Roots.## Sources
 
 - [Tao Te Ching, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 80 (boats and carriages; coarse food; neighbouring state within sight)
 

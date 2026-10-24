@@ -30,8 +30,7 @@ Suppose you are revising an essay paragraph. Leave an unrelated notification uno
 - [[T009 — Zhuangzi]]: the hunchback cicada-catcher's training the page retells for undivided attention.
 
 - [[D048]] — companion principles on undivided attention; D048 names the guard, D071 the act
-
-## Sources
+- [[T037 — Weil, Simone]]: attention as the rarest and purest form of generosity, from Waiting for God.## Sources
 
 - [Zhuangzi, James Legge translation (1891), ETH Zurich METIS edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — hunchback cicada-catcher dialogue, chapter 19, quoted verbatim
 

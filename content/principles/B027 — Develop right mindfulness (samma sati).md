@@ -49,3 +49,6 @@ Catching the irritation at your partner AND remembering you skipped lunch. What'
 %%
 Remember the whole frame so reactivity is caught before it becomes action. What's the reactivity you're currently catching too late?
 -->
+
+## Related concepts
+- [[T037 — Weil, Simone]]: attention as prayer, from Waiting for God.

@@ -41,3 +41,6 @@ The concept anchors the compendium's principles on truth as something stood in r
 
 - [[SP084 — Seek the third kind of knowledge directly]]
 - [[Y082 — Apply contemplation to master any subject]]
+
+## Related concepts
+- [[T037 — Weil, Simone]]: the school-studies facet of direct knowing the concept carries.

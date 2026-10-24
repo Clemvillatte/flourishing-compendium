@@ -61,3 +61,6 @@ The phone audit: three hours on the feed, zero on the guitar. What's your versio
 %%
 Attention is the currency of life. What are you currently spending on — and what's the actual return?
 -->
+
+## Related concepts
+- [[T037 — Weil, Simone]]: attention as prayer, from Waiting for God.

@@ -46,3 +46,6 @@ Guard your focus like your eyesight. What's your current eyesight situation, and
 %%
 The phone-free morning versus the phone-first morning. Which morning are you currently living?
 -->
+
+## Related concepts
+- [[T037 — Weil, Simone]]: attention as the rarest form of generosity, from Waiting for God.

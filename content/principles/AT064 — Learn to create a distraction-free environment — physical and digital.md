@@ -43,3 +43,6 @@ The physical half is the same design move at desk scale: one visible task, every
 ## Practice
 
 - Create a dedicated, distraction-free workspace: clear desk, quiet environment, phone in another room or out of sight, notifications off, only necessary tabs/apps open. Protect this space.
+
+## Related concepts
+- [[T037 — Weil, Simone]]: the discipline of attention from Waiting for God the page's environment line cites.

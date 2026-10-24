@@ -26,7 +26,7 @@ Kastner and Ungerleider's complementary account frames attention as a competitio
 
 - [[Attentional control training and the role of repeated redirection]]
 - [[The discipline of attention]] — Weil’s receptive attention offers a philosophical comparison with accounts of how attention is directed.
-## Sources
+- [[T037 — Weil, Simone]]: the receptive-attention comparison the concept cites against accuracy-first control.## Sources
 
 - Corbetta, M. and Shulman, G. L. (2002). Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews Neuroscience, 3(3), 201-215, abstract opened at [Semantic Scholar](https://www.semanticscholar.org/paper/Control-of-goal-directed-and-stimulus-driven-in-the-Corbetta-Shulman/53e66b6934516a9859573f4866f81f04bce977ae)
 - Kastner, S. and Ungerleider, L. G. (2000). Mechanisms of visual attention in the human cortex. Annual Review of Neuroscience, 23, 315-341, abstract opened at [Annual Reviews](https://www.annualreviews.org/content/journals/10.1146/annurev.neuro.23.1.315)

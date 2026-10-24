@@ -39,3 +39,6 @@ Tronto's use of Weil makes the link explicit: "It is necessary, in a sense, to s
 ## Philosophy parallels
 
 - **[[Attentiveness|Attentiveness]]** (Weil, Waiting for God; Noddings, Caring)
+
+## Related concepts
+- [[T037 — Weil, Simone]]: Tronto's model for noticing the page cites, Weil's definition of attention quoted directly.

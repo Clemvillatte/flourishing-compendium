@@ -54,3 +54,6 @@ Noticing you're clenching your jaw during the meeting. What's your version of th
 %%
 Knowing what is happening while it happens. What's your current ratio of noticing to being on autopilot? What would improving it by 10% change?
 -->
+
+## Related concepts
+- [[T037 — Weil, Simone]]: attention as the rarest form of generosity, from Waiting for God.

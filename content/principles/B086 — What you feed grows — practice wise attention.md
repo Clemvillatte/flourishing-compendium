@@ -47,3 +47,6 @@ The anxiety that blooms every time you check the news. What's your version of th
 %%
 Attention is fertilizer. What are you currently fertilizing — and what would you actually rather grow?
 -->
+
+## Related concepts
+- [[T037 — Weil, Simone]]: attention as prayer, from Waiting for God.

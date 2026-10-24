@@ -42,3 +42,6 @@ In an illustration, a novelist writes from 6 to 8 a.m. with the router unplugged
 ## Practice
 
 - Before demanding work, decide which other tasks can wait, choose a workable time window and set avoidable distractions aside.
+
+## Related concepts
+- [[T037 — Weil, Simone]]: the discipline of attention from Waiting for God the page's conditions cite.

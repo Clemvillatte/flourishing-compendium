@@ -29,3 +29,6 @@ Weil's essay makes attention trainable: she assigns school exercises, "each one"
 ## Cited in philosophy parallels
 
 - [[R070 — Practise attentiveness]]
+
+## Related concepts
+- [[T037 — Weil, Simone]]: the suspending-thought definition of attention the concept quotes.

@@ -43,3 +43,6 @@ The abstract concerns transitions between tasks; it does not study the interrupt
 ## Practice
 
 - Protect yourself from interruptions. Use "do not disturb" signals, close doors, silence notifications. Batch similar tasks. Expect the switch itself to cost attention: the new task starts with less of it.
+
+## Related concepts
+- [[T037 — Weil, Simone]]: the unity of time and attention the page's cost line cites.

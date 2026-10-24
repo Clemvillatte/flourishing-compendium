@@ -41,7 +41,7 @@ The Yoga Sutra offers a comparison in abhyasa: "the restraint of these mental ac
 - [[Abhyasa]] — Patanjali's effort toward steadiness, paired with dispassion (Yoga Sutra 1.12-13)
 - [[The discipline of attention]] — Weil treats study as practice for developing attention.
 - [[AT019]] — The principle naming the notice-and-return cycle that focused-attention training practises
-## Sources
+- [[T037 — Weil, Simone]]: study as attention practice, the discipline the concept cites.## Sources
 
 - [Posner & Petersen, "The attention system of the human brain," Annual Review of Neuroscience 13 (1990), pp. 25-42](https://doi.org/10.1146/annurev.ne.13.030190.000325) — original original citation; not directly consulted, described here through the 2012 retrospective
 - [Petersen & Posner, "The Attention System of the Human Brain: 20 Years After" (2012)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3413263/) — restatement of the 1990 networks; anterior cingulate and conflict; roles in regulating cognition and emotion; training and meditation evidence

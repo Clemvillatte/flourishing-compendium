@@ -101,3 +101,5 @@ Do not say you will call someone back if you have no intention. A Confucian work
 - **[[Trustworthiness|Trustworthiness]]** (Aristotle, Nicomachean Ethics IV.3)
 - **[[Fidelity|Fidelity]]** (Marcel, Being and Having)
 
+## Related concepts
+- [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).
