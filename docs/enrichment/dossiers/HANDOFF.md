@@ -408,3 +408,26 @@ Notes for the next writer:
 - Do not cite Ariely and Wertenbroch 2002 as evidence. A replication preprint (SSRN 5053636) reports the result does not replicate, and its PubMed record shows a retraction notice. The wiki card "Commitment devices (Ariely & Wertenbroch)" needs a note and a replacement carrier (concept band decision).
 - Decision-making, motivation, uncertainty, overload-overwhelm and goals each hold two to four divergences; their ledgers list candidate additional divergences under "Open points" for any revision pass.
 - Possible future standalone Stress dossier (about 17 stress cards), proposed in the anxiety ledger.
+
+## Session note (2026-10-24, supervisor-pplx-1024c-dossiers)
+
+The dossiers baton ran a corpus-wide quote-fidelity sweep this
+session. Every published dossier now has a carrier-verification
+record for its verbatim quotations: the mints by their workers
+(suffering, acceptance, freedom, meaning-and-mortality, fear,
+gratitude, anxiety, anger, affect, decision-making, goals, happiness,
+motivation, the-self, body), and nine more by this session (wisdom,
+genuine-flourishing, lifes-purpose, attention, cognition,
+uncertainty, behaviour, others, overload-overwhelm). Two body
+corrections came out of the sweep, both advisor-QC driven: the
+Baumeister quotation in overload-overwhelm (fragment "suggesting"
+vs the carrier's "These results suggest") and the suffering
+purpose-question framing (three bounded different-questions). All 35
+dossiers pass dossier_check; the two touched bodies also pass the
+voice audit. The verification method is recorded honestly in each
+ledger (phrase-location vs full-passage comparison); the others.md
+ledger carries both this session's pass and the dos16 worker's
+stronger consolidated pass. The nature candidate stays in the
+backlog pending an owner placement decision. Ledger certifications
+from this session were reviewed in three advisor QC rounds and
+corrected where they overstated.
