@@ -21,11 +21,11 @@ The argument concerns a life shared in activity and goodwill. It does not requir
 
 ### Plain words
 
-When you make plans, include the people whose lives you want to share. Ask what care and time you can realistically offer, as well as what you hope to receive. The question is what a relationship means in your life, not whether you can achieve a particular number of friends.
+A friendship involves mutual, recognised care and activities the people share. Treating it as part of a good life gives its practical needs a place when you plan your time. The question is what a relationship means in your life, not whether you can achieve a particular number of friends.
 
 ### For example
 
-Imagine a promotion that would mean moving away from close friends. Consider what contact could continue and what would be lost, alongside pay, caring responsibilities and the work itself. This makes the friendships part of the decision and leaves the choice open.
+Imagine a promotion that would mean moving away from close friends. Discuss what contact could continue and what would be lost, alongside pay, caring responsibilities and the work itself. Try a feasible arrangement, then review it together rather than assuming that contact will sustain itself. This is my illustration of including friendships in the decision, while leaving the choice open.
 
 ## Sources
 

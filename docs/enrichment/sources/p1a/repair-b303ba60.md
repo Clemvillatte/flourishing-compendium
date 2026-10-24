@@ -170,3 +170,11 @@ are not certified by this body-level review.
 - Evidence: full retained quotation matches VI.12. VI.13 explicitly supplies the reciprocal dependence of strict goodness and practical wisdom. Kraut confirms the distinction between effective reasoning and the training of passions towards worthy ends.
 - Disposition: body already explains the distinction plainly, recognizes the need for effective means and gives a coherent hypothetical campaign example. No rewrite was justified; validated unchanged rather than introducing churn.
 - Limits: no claim that a worthy intention alone suffices, that technical skill is bad in itself or that a single alternative campaign certifies practical wisdom.
+
+## A063: Friendship and flourishing
+
+- Opened: [NE VIII, Ross](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html), complete book, particularly VIII.1–5; [Holt-Lunstad et al., Social Relationships and Mortality Risk](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316), abstract, results, design and limitations extraction; [2017 Harvard Gazette report](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/), complete article.
+- Evidence: retained VIII.1 quotation matches Ross. VIII.2 supports mutually recognised goodwill; VIII.3–5 shared time/activity. The existing empirical annotations correctly use survival odds, 148 prospective studies and OR 1.50 (95% CI 1.42–1.59), distinguish broad relationships from Aristotelian friendship and identify the Harvard item as a 2017 institutional report.
+- Repair: Plain words now explains reciprocal care directly; the relocation case includes discussion, trying a feasible arrangement and reviewing it together. Strong doctrinal discussion and correctly qualified empirical annotations retained.
+- Saturation: Philia read; it already links A063 and A078, so no generic edge was added.
+- Limits: evidence does not imply a 50% increase in lifespan, prove causation or predict an individual's benefit from adding a friend. No blame for loneliness, obligation to remain in harmful ties or universal judgment against a life involving solitude.
