@@ -125,3 +125,14 @@ All four cleared for publication: checks pass, quotes verified (sampled), artwor
   booklet passage Givan quotes). ROUTE: P192 remains zero-story (no published
   story targets it), so the standing scope ruling covers it — registrable by
   the s1a teller after its own lane QC. PASS from the supervisor sample.
+
+## Addendum 7 — s1b-037 supervisor sample QC, 2026-10-24 ~15:04 UTC
+
+- s1b-037 (The Vessel in the Zhou Temple, D029, qc_pending): read in full; all
+  four Chinese quotations re-verified verbatim against zh.wikisource.org's
+  Shuoyuan ch. 10 (ctext.org is currently bot-blocked from this environment —
+  same note as addendum 4; the draft's ctext links remain valid locators).
+  English renderings are labeled editorial in the draft — honest labeling,
+  cross-checked by the teller against the page's printed translation. D029
+  zero-story confirmed by the teller's duplicate check; coverage matrix honest.
+  PASS from the supervisor sample.
