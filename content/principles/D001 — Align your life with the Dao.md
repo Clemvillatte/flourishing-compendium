@@ -91,7 +91,7 @@ Suppose you offer to help a friend move without checking when they need you or w
 ## Philosophy parallels
 
 
-- **[[Living according to nature|Living according to nature]]** (Marcus Aurelius, Meditations)
+- **[[Living according to nature|Living according to nature]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **[[Eudaimonia|Eudaimonia as activity of the soul in accord with virtue]]** (Aristotle, Nicomachean Ethics)
 - **[[Dao|The Dao]]** (Daoism, Daodejing 25)
 

@@ -16,7 +16,7 @@ Marcus counts what is actually needed:
 
 > Thou seest how few the things are, the which if a man lays hold of, he is able to live a life which flows in quiet, and is like the existence of the gods; for the gods on their part will require nothing more from him who observes these things.
 
-(Marcus Aurelius, Meditations II.5, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations II.5, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 Marcus emphasizes the small number of demands he is setting for himself. In II.5 he attends to the action at hand; VIII.22 likewise concerns the immediate situation, including what one thinks, says or does. Pausing for a breath and choosing a helpful act is a suggested application of this attention to the present.
 

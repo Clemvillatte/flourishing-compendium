@@ -48,7 +48,7 @@ The practice is first diagnostic: find out where your worth is actually staked b
 
 ## Philosophy parallels
 
-- **[[The inner citadel|The inner citadel]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[The inner citadel|The inner citadel]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **[[Dignity|Dignity vs reputation]]** (Stoics, Seneca, Letters)
 - **[[Non-attachment|Non-attachment to outcomes]]** (Buddhism, Bhagavad Gita)
 

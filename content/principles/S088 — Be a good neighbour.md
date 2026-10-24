@@ -26,7 +26,7 @@ I applie this instruction to neighbourliness: consider the next person nearby an
 
 ## Sources
 
-- [Marcus Aurelius, Meditations VI.7, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — the single locator the body uses
+- Marcus Aurelius, Meditations VI.7, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — the single locator the body uses
 
 ## Psychology parallels
 

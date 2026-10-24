@@ -7,7 +7,7 @@ file: "Accept what happens as the will of providence"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-“Accept what happens as the will of providence” — Marcus Aurelius, Meditations IV.10.
+“Accept what happens as the will of providence” — [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations IV.10.
 
 ## Related thinkers
 

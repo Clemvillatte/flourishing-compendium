@@ -8,7 +8,7 @@ tags: ["topic/action"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S05.03 — V.3 The Discipline of Action", "parent": ""}
 ---
-*Historical/biographical narrative · Rome, 2nd century CE · [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)*
+*Historical/biographical narrative · Rome, 2nd century CE · Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)*
 
 The Meditations' books were written in military camps on the Danube and in the east, in the years of the Marcomannic Wars, away from Rome for long stretches, surrounded by plague, intrigue, and the death of children. The famous opening, the notes of gratitude to his teachers, relatives, and gods, was written in the field. The reminders to himself are addressed to a man who is: tired, at war, and responsible for everything.
 

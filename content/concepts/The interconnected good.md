@@ -7,7 +7,7 @@ file: "The interconnected good"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The interconnected good is the Stoic teaching, worked out in Marcus Aurelius's Meditations under the name sympatheia, that the world is one woven system and that a person's good is therefore never a private possession. The emperor's own formulation:
+The interconnected good is the Stoic teaching, worked out in [[T014 — Marcus Aurelius|Marcus Aurelius]]'s Meditations under the name sympatheia, that the world is one woven system and that a person's good is therefore never a private possession. The emperor's own formulation:
 
 > "All things are implicated with one another, and the bond is holy; and there is hardly anything unconnected with any other thing. For things have been co-ordinated, and they combine to form the same universe [order]." (Marcus Aurelius, Meditations 7.9, trans. George Long, [Lexundria](https://lexundria.com/m_aur_med/7.9/lg))
 

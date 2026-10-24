@@ -42,7 +42,7 @@ Imagine a client rejecting a draft because each of you understood the brief diff
 ## Philosophy parallels
 
 - **[[Obstruction as stimulus|Obstruction as stimulus]]** (Dewey, Experience and Nature)
-- **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
+- **The obstacle is the way** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations V.20)
 
 <!-- fc: reflections
 What obstruction are you currently meeting with "how do I remove this" rather than "what is this building"? What's the friction actually producing?

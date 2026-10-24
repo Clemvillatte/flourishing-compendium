@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 > my nature is rational and social; and my city and country, so far as I am Antoninus, is Rome, but so far as I am a man, it is the world.
 
-(Marcus Aurelius, Meditations VI.44, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.6.six.html), page opened; the section number is from the standard numbering and is not printed in this edition.)
+([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations VI.44, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.6.six.html), page opened; the section number is from the standard numbering and is not printed in this edition.)
 
 In Book Four Marcus argues that if reason is common, "we are fellow-citizens; if this is so, we are members of some political community; if this is so, the world is in a manner a state" ([Meditations IV](https://classics.mit.edu/Antoninus/meditations.4.four.html), opened). Citizenship here is first of all membership of the human community, and the entry's "political" reading is one way of drawing it out.
 

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus describes making use of a hindrance:
 
-> "the mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road." (Marcus Aurelius, Meditations, Book V, section 20, George Long translation)
+> "the mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book V, section 20, George Long translation)
 
 On his account the hindrance itself is unchanged; what changes is the use the mind makes of it. The practice is to ask, of an event that blocks one plan, what it makes possible that the old plan did not.
 

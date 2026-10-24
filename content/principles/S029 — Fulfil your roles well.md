@@ -32,7 +32,7 @@ The method is naming before acting. Say what you are in this room: a father, a m
 ## Sources
 
 - [Epictetus, Discourses II.10, "How we may discover the duties of life from names" (George Long translation), Delphi Complete Works of Epictetus, owner's Drive library](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view?usp=drive_link) — the senator/youth/old man passage and the forgotten-name diagnosis
-- [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VI.31, the foot and hand doing what belongs to them
+- Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VI.31, the foot and hand doing what belongs to them
 
 ## Stories
 

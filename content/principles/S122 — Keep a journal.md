@@ -32,7 +32,7 @@ At day's end, answer Sextius's questions in writing. Add a sentence about someth
 ## Sources
 
 - [Seneca, On Anger III.36 (Aubrey Stewart translation, Wikisource)](https://en.wikisource.org/wiki/Of_Anger/Book_III)
-- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — translator's introduction
+- Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — translator's introduction
 ## Psychology parallels
 
 - **[[Expressive writing|Expressive writing research]]** (Pennebaker and Beall, 1986)

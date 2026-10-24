@@ -8,7 +8,7 @@ tags: ["topic/ethics"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S05.01 — V.1 First Principles — The Dichotomy of Control and Virtue", "parent": ""}
 ---
-*Historical/biographical narrative · Rome, 2nd century CE · [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)*
+*Historical/biographical narrative · Rome, 2nd century CE · Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)*
 
 During the Antonine Plague, which may have killed millions across the empire, Marcus Aurelius remains in Rome managing the crisis, the succession, and a war on the Danube front, while writing to himself in Greek. The Meditations of this period contain the notes of a man reminding himself, amid catastrophe, of the discipline of perception: what is in my power, what is not, and what my role requires.
 

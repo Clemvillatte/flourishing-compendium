@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 148** — Practise contentment with what you have
 
-Marcus Aurelius puts the Stoic's self-sufficiency somewhere unexpected: in one's own mind ([Meditations IV.3, Long translation; opened text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
+[[T014 — Marcus Aurelius|Marcus Aurelius]] puts the Stoic's self-sufficiency somewhere unexpected: in one's own mind ([Meditations IV.3, Long translation; opened text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
 > Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself. For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul, particularly when he has within him such thoughts that by looking into them he is immediately in perfect tranquillity; and I affirm that tranquillity is nothing else than the good ordering of the mind.
 

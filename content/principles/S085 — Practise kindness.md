@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 The command comes with a fate attached: "love those men whom thy fate it is to live with; but love them truly" (Med. VI.35, Casaubon). Marcus rehearses his response to a wrongdoer, and his ninth argument is that kindness wins: "meekness is a thing unconquerable, if it be true and natural, and not affected or hypocritical" (Med. XI.16).
 
-> "For how shall even the most fierce and malicious that thou shalt conceive, be able to hold on against thee, if thou shalt still continue meek and loving unto him." (Marcus Aurelius, Meditations XI.16, Casaubon)
+> "For how shall even the most fierce and malicious that thou shalt conceive, be able to hold on against thee, if thou shalt still continue meek and loving unto him." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations XI.16, Casaubon)
 
 The correction he scripts for the wrongdoer runs: "My son, we were not born for this, to hurt and annoy one another; it will be thy hurt not mine, my son" — delivered "tenderly without any harshness of words", and "that nobody be privy to it, but himself alone". Marcus counts kindness to enemies as a strength.
 

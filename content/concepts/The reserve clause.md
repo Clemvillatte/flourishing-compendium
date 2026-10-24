@@ -7,7 +7,7 @@ file: "The reserve clause"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The reserve clause is a Stoic device for acting wholeheartedly while refusing to stake your happiness on the outcome. The Greek term is hupexhairesis, and Marcus Aurelius employs it as a technical term, pursuing his aims "with a 'reserve clause'; it converts into material for itself any obstacle that it meets with, just as fire when it gets the mastery of what is thrown upon it" (Marcus Aurelius, Meditations 4.1, trans. Hays, quoted in [Donald Robertson](https://donaldrobertson.name/2013/02/02/action-with-a-reserve-clause-in-marcus-aurelius/)). The clause is a small verbal habit with a large payoff: add "fate permitting" to every intention, and a blocked outcome becomes material rather than injury.
+The reserve clause is a Stoic device for acting wholeheartedly while refusing to stake your happiness on the outcome. The Greek term is hupexhairesis, and [[T014 — Marcus Aurelius|Marcus Aurelius]] employs it as a technical term, pursuing his aims "with a 'reserve clause'; it converts into material for itself any obstacle that it meets with, just as fire when it gets the mastery of what is thrown upon it" (Marcus Aurelius, Meditations 4.1, trans. Hays, quoted in [Donald Robertson](https://donaldrobertson.name/2013/02/02/action-with-a-reserve-clause-in-marcus-aurelius/)). The clause is a small verbal habit with a large payoff: add "fate permitting" to every intention, and a blocked outcome becomes material rather than injury.
 
 ### How it works
 

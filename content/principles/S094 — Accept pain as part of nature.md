@@ -20,7 +20,7 @@ Pain is not inherently bad. It is part of the natural order. The Stoic does not 
 
 Marcus sets out the test in the Meditations:
 
-> "And as concerning pain, that that which is intolerable is soon ended by death; and that which holds long must needs be tolerable; and that the mind in the meantime (which is all in all) may by way of interclusion, or interception, by stopping all manner of commerce and sympathy with the body, still retain its own tranquillity." (Marcus Aurelius, Meditations, tr. Meric Casaubon, Book VII section 22 in this edition, [Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm))
+> "And as concerning pain, that that which is intolerable is soon ended by death; and that which holds long must needs be tolerable; and that the mind in the meantime (which is all in all) may by way of interclusion, or interception, by stopping all manner of commerce and sympathy with the body, still retain its own tranquillity." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, tr. Meric Casaubon, Book VII section 22 in this edition, [Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm))
 
 He then borrows a line from Epicurus:
 

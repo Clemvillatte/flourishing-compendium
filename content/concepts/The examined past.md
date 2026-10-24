@@ -35,7 +35,7 @@ He reports following the custom himself: when the lamp is taken out of his sight
 
 ## Sources
 
-- Stoics, Marcus Aurelius, Meditations
+- Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations
 - [Seneca, De Ira 3.36, Aubrey Stewart translation (1900), Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_III) — the passages quoted above
 
 [[SE050 — Learn to manage social comparison — comparison distorts self-evaluation]]

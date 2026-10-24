@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus recalls Alexander's way of correcting language without reproach (I.10):
 
-> "From Alexander the grammarian, to refrain from fault-finding, and not in a reproachful way to chide those who uttered any barbarous or solecistic or strange-sounding expression; but dexterously to introduce the very expression which ought to have been used" (Marcus Aurelius, Meditations, Book I, section 10, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+> "From Alexander the grammarian, to refrain from fault-finding, and not in a reproachful way to chide those who uttered any barbarous or solecistic or strange-sounding expression; but dexterously to introduce the very expression which ought to have been used" ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book I, section 10, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 Book VI carries the same discipline into the remembrance of Antoninus Pius: "how he did nothing in a hurry; and how he listened not to calumnies, and how exact an examiner of manners and actions he was; and not given to reproach people, nor timid, nor suspicious" (Book VI, section 30).
 

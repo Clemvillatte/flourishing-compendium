@@ -34,7 +34,7 @@ Ask of your good feeling about yourself: what would have to happen for it to dis
 
 ## Philosophy parallels
 
-- **[[Dignity|Dignity vs reputation]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Dignity|Dignity vs reputation]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **[[The inner citadel|The inner citadel]]** (Stoics, Marcus Aurelius, Meditations)
 - **[[Amor sui (right self-love)|Amor sui (right self-love)]]** (Spinoza, Ethics IV)
 

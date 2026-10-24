@@ -36,5 +36,5 @@ The two texts, in Elwes's translation:
 
 ## Philosophy parallels
 
-- **The obstacle as material** (Marcus Aurelius, Meditations V.20)
+- **The obstacle as material** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations V.20)
 - **[[Diagnosis before prescription|Diagnosis before prescription]]** (Galen, On the Therapeutic Method)

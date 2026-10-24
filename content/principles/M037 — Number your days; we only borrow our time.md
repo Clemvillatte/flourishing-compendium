@@ -42,4 +42,4 @@ The old songs do arithmetic with your life: jade breaks, gold wears out, feather
 
 ## Related concepts
 
-- [[S089]] — M037 carries the memento mori reminder in the song tradition; S089 presents Marcus Aurelius's version of the same reminder.
+- [[S089]] — M037 carries the memento mori reminder in the song tradition; S089 presents [[T014 — Marcus Aurelius|Marcus Aurelius]]'s version of the same reminder.

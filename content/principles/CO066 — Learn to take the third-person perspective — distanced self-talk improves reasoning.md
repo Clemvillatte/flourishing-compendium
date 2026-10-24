@@ -33,7 +33,7 @@ Seven studies examined these questions (total N = 585). Studies 1a and 1b found 
 
 - **[[The observing self|The observing self]]** (Deikman, The Observing Self)
 - **[[The witness|The witness (sakshi)]]** (Vedanta, Upanishads)
-- **[[Memento mori|Memento mori: the cosmic perspective]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Memento mori|Memento mori: the cosmic perspective]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 ## Practice
 

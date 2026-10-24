@@ -43,7 +43,7 @@ Socioemotional selectivity theory concerns priorities among social goals. It lin
 
 - **[[The seasons of life|The seasons of life]]** (Ecclesiastes, 3:1-8)
 - **[[Socioemotional wisdom|Socioemotional wisdom]]** (Erikson, The Life Cycle Completed)
-- **[[Memento mori|Memento mori]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Memento mori|Memento mori]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 ## Practice
 

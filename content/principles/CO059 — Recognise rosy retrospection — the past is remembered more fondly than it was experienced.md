@@ -32,7 +32,7 @@ The authors tie the gap to what happens during the event: more negative thoughts
 ## Philosophy parallels
 
 - **Nostalgia as distortion** (Nietzsche, Untimely Meditations)
-- **[[The examined past|The examined past]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[The examined past|The examined past]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 ## Practice
 

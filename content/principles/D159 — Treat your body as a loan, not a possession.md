@@ -40,7 +40,7 @@ Cheng extends this account of entrustment to life, one's nature and one's descen
 ## Philosophy parallels
 
 - **[[Impermanence|Impermanence of the body]]** (Satipatthana Sutta)
-- **Body and soul:** "Thou art a little soul bearing about a corpse, as Epictetus used to say." (Marcus Aurelius, Meditations 4.41, [George Long](https://classics.mit.edu/Antoninus/meditations.4.four.html).)
+- **Body and soul:** "Thou art a little soul bearing about a corpse, as Epictetus used to say." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations 4.41, [George Long](https://classics.mit.edu/Antoninus/meditations.4.four.html).)
 
 <!-- fc: reflections
 If your body is a loan rather than a possession, how are you currently treating the lodging?

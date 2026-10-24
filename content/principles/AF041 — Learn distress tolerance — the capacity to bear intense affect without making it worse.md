@@ -28,7 +28,7 @@ Distress tolerance names the capacity to withstand aversive internal states rath
 
 ## Philosophy parallels
 
-- **[[Endurance (hypomenein)|Endurance (hypomenein)]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Endurance (hypomenein)|Endurance (hypomenein)]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **[[Patience|Patience (kshanti)]]** (Buddhism, Six Paramitas)
 
 ## Practice

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus's instruction to himself on failure is the principle in one sentence:
 
-> "Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again, and be content if the greater part of what thou doest is consistent with man's nature, and love this to which thou returnest; and do not return to philosophy as if she were a master, but act like those who have sore eyes and apply a bit of sponge and egg, or as another applies a plaster, or drenching with water." (Marcus Aurelius, Meditations, Book V, section 9, George Long translation)
+> "Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again, and be content if the greater part of what thou doest is consistent with man's nature, and love this to which thou returnest; and do not return to philosophy as if she were a master, but act like those who have sore eyes and apply a bit of sponge and egg, or as another applies a plaster, or drenching with water." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book V, section 9, George Long translation)
 
 Seneca's own nightly audit, described in On Anger, passes the whole day in review when the lamp is out and his wife has gone quiet, repeating all that he has said and done and hiding nothing from himself. The sentence he passes is this:
 

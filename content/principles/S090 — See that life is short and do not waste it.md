@@ -46,7 +46,7 @@ The hours you have and the way you use them are different questions. Review an o
 
 ## Related concepts
 
-- [[S089]] — S090 draws the shortness-of-life lesson from Seneca's On the Shortness of Life; S089 presents Marcus Aurelius's version of the same reminder.
+- [[S089]] — S090 draws the shortness-of-life lesson from Seneca's On the Shortness of Life; S089 presents [[T014 — Marcus Aurelius|Marcus Aurelius]]'s version of the same reminder.
 
 
 <!-- fc: reflections

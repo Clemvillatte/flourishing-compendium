@@ -41,4 +41,4 @@ His own example is farming, an occupation he calls suited to a philosopher becau
 ## Philosophy parallels
 
 - **[[Fulfil your roles well|Fulfil your roles well]]** (Epictetus, Discourses)
-- **Do your duty even when it is unpleasant** (Marcus Aurelius, Meditations II.1)
+- **Do your duty even when it is unpleasant** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations II.1)

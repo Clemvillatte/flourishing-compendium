@@ -7,7 +7,7 @@ file: "Accept pain as part of nature"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-“Accept pain as part of nature” — Marcus Aurelius, Meditations VII.33.
+“Accept pain as part of nature” — [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations VII.33.
 
 ## Sources
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 138** — Do not desire what belongs to others
 
-Marcus Aurelius traces envy upstream to what you value. If you count applause and possessions as goods, envy follows of necessity ([Meditations VI.16, Long translation](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
+[[T014 — Marcus Aurelius|Marcus Aurelius]] traces envy upstream to what you value. If you count applause and possessions as goods, envy follows of necessity ([Meditations VI.16, Long translation](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
 > For of necessity thou must be envious, jealous, and suspicious of those who can take away those things, and plot against those who have that which is valued by thee. Of necessity a man must be altogether in a state of perturbation who wants any of these things; and besides, he must often find fault with the gods. But to reverence and honor thy own mind will make thee content with thyself, and in harmony with society, and in agreement with the gods, that is, praising all that they give and have ordered.
 

@@ -37,5 +37,5 @@ For the modern parallel, Grossmann and Kross (2014) found in three experiments (
 
 ## Philosophy parallels
 
-- **[[The view from above|The view from above]]** (Marcus Aurelius, Meditations 9.30; the Stoics)
+- **[[The view from above|The view from above]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations 9.30; the Stoics)
 - **[[The eternal now|The eternal now]]** (Boethius, Consolation of Philosophy V)- **[[Sub specie aeternitatis|Sub specie aeternitatis]]** (Spinozism)

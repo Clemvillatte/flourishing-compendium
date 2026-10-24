@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus presents human kinship and ignorance of good and bad as reasons for pity (II.13):
 
-> "the things from men should be dear to us by reason of kinship; and sometimes even, in a manner, they move our pity by reason of men's ignorance of good and bad; this defect being not less than that which deprives us of the power of distinguishing things that are white and black" (Marcus Aurelius, Meditations, Book II, section 13, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+> "the things from men should be dear to us by reason of kinship; and sometimes even, in a manner, they move our pity by reason of men's ignorance of good and bad; this defect being not less than that which deprives us of the power of distinguishing things that are white and black" ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book II, section 13, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 The XI.18 checklist applies the diagnosis when you are the one offended against: consider "under what compulsions in respect of opinions they are", and remember that "if they do not right, it is plain that they do so involuntarily and in ignorance" (Meditations XI.18). In IX.4 he says that acting unjustly makes the wrongdoer bad.
 

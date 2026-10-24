@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 The Stoic does not treat family as a distraction from philosophy. Marcus opens the Meditations with a list of debts to the people who shaped him, and one of the debts is love of family itself:
 
-> "From my brother Severus, to love my kin, and to love truth, and to love justice" (Marcus Aurelius, Meditations, Book I, section 14, George Long translation)
+> "From my brother Severus, to love my kin, and to love truth, and to love justice" ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book I, section 14, George Long translation)
 
 Marcus also names what he learned from his mother:
 

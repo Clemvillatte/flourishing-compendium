@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus frames the thought as the first thing to establish: "Whether the universe is [a concourse of] atoms, or nature [is a system], let this first be established, that I am a part of the whole which is governed by nature" (Meditations X.6). The consequence, in the same section:
 
-> "For remembering this, inasmuch as I am a part, I shall be discontented with none of the things which are assigned to me out of the whole; for nothing is injurious to the part if it is for the advantage of the whole." (Marcus Aurelius, Meditations, Book X, section 6, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+> "For remembering this, inasmuch as I am a part, I shall be discontented with none of the things which are assigned to me out of the whole; for nothing is injurious to the part if it is for the advantage of the whole." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book X, section 6, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 Marcus describes mutual dependence: "All things are implicated with one another, and the bond is holy" (Meditations VII.9), and "We are all working together to one end, some with knowledge and design, and others without knowing what they do" (Meditations VI.42). The severed-hand image gives the negative case: "such does a man make himself, as far as he can, who is not content with what happens, and separates himself from others" (Meditations VIII.34). The same section adds that it is in your power to unite yourself again. The standing reminder is II.9's: what is the nature of the whole, and what is my nature, and what kind of a part it is of what kind of a whole.
 

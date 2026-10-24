@@ -30,7 +30,7 @@ Two psychology items are loose fits. Kasser and Sheldon (2009) report across fou
 - [Quotle, Seneca 1.3 Latin](https://quotle.info/who-said/it-is-not-that-we-have-a-short-time-to-live-but-that-we/)
 - [Kasser and Sheldon 2009, Springer](https://link.springer.com/article/10.1007/s10551-008-9696-1)
 - [Killingsworth and Gilbert 2010, PubMed](https://pubmed.ncbi.nlm.nih.gov/21071660/); [Harvard Gazette](https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/)
-- Seneca chapters 7 and 10, Marcus Aurelius, Epictetus, James, Memento mori: cited at second hand.
+- Seneca chapters 7 and 10, [[T014 — Marcus Aurelius|Marcus Aurelius]], Epictetus, James, Memento mori: cited at second hand.
 
 ## Psychology parallels
 

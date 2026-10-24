@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 142** — Remember that nothing can harm you except your own judgement
 
-Marcus Aurelius states the doctrine twice, once as a diagnosis and once as an instruction. The diagnosis: if you are pained by any external thing, it is not the thing that disturbs you but your own judgement about it, and it is in your power to wipe out that judgement now. The instruction that follows the same logic: take away the opinion, and the complaint "I have been harmed" is taken away; take away the complaint, and the harm is taken away.
+[[T014 — Marcus Aurelius|Marcus Aurelius]] states the doctrine twice, once as a diagnosis and once as an instruction. The diagnosis: if you are pained by any external thing, it is not the thing that disturbs you but your own judgement about it, and it is in your power to wipe out that judgement now. The instruction that follows the same logic: take away the opinion, and the complaint "I have been harmed" is taken away; take away the complaint, and the harm is taken away.
 
 > If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now.
 > (Marcus Aurelius, Meditations VIII.47, trans. Long)

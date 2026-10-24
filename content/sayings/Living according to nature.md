@@ -7,7 +7,7 @@ file: "Living according to nature"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-“Living according to nature” — Aristotle, Nicomachean Ethics; Laozi, Daodejing 25; Marcus Aurelius, Meditations.
+“Living according to nature” — Aristotle, Nicomachean Ethics; Laozi, Daodejing 25; [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations.
 
 ## Sources
 - [[T012 — Laozi]]: the Daoist citation the saying carries beside Aristotle.

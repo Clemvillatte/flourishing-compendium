@@ -28,7 +28,7 @@ After attending a funeral, review your current priorities: name one standing arg
 
 ## Related concepts
 
-- [[S089]] — B055 presents Buddhist maranasati; S089 presents mortality reminders from Marcus Aurelius.
+- [[S089]] — B055 presents Buddhist maranasati; S089 presents mortality reminders from [[T014 — Marcus Aurelius|Marcus Aurelius]].
 - [[T013 — Seneca]] — On the Shortness of Life, the page's Roman counterpart to maranasati
 
 ## Sources

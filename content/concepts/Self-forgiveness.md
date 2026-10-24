@@ -15,7 +15,7 @@ The definition adapts Michael McCullough's three motivations for interpersonal f
 
 ### Here
 
-- [[S066 — Be gentle with yourself in the review]] — quotes Marcus Aurelius's instruction to return after failure without disgust or discouragement
+- [[S066 — Be gentle with yourself in the review]] — quotes [[T014 — Marcus Aurelius|Marcus Aurelius]]'s instruction to return after failure without disgust or discouragement
 
 ## Facets
 

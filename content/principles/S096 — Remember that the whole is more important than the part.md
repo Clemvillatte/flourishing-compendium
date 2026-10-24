@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 > let this first be established, that I am a part of the whole which is governed by nature... For remembering this, inasmuch as I am a part, I shall be discontented with none of the things which are assigned to me out of the whole; for nothing is injurious to the part, if it is for the advantage of the whole.
 
-(Marcus Aurelius, Meditations X.6, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.10.ten.html), page opened; the ellipsis omits one clause.)
+([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations X.6, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.10.ten.html), page opened; the ellipsis omits one clause.)
 
 Marcus also gives the image of the severed limb: "If thou didst ever see a hand cut off, or a foot, or a head, lying anywhere apart from the rest of the body, such does a man make himself... who is not content with what happens, and separates himself from others" (Meditations VIII.34, [Long trans.](https://classics.mit.edu/Antoninus/meditations.8.eight.html), opened). The same passage adds that "it is in thy power again to unite thyself." So the argument is that a part is harmed only by cutting itself off, and the entry's wording "accepts their role" is a fair summary. These passages state Marcus's cosmology. The risk that "the good of the whole" can be used to exploit individuals, which the entry's reflection questions raise, is not addressed in them.
 

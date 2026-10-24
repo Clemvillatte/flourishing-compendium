@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus compares cooperation among people to the work of a body's members: "for we are all born to be fellow-workers, as the feet, the hands, and the eyelids; as the rows of the upper and under teeth" (Med. I.15, Casaubon). His examples are ordinary body parts doing ordinary work together.
 
-> "As several members in one body united, so are reasonable creatures in a body divided and dispersed, all made and prepared for one common operation." (Marcus Aurelius, Meditations VII.10, Casaubon)
+> "As several members in one body united, so are reasonable creatures in a body divided and dispersed, all made and prepared for one common operation." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations VII.10, Casaubon)
 
 The continuation concerns how we regard other people: thinking of oneself as a member should involve loving them "from thy heart". My practical application is to choose a helpful task suited to the situation and one's capacities.
 

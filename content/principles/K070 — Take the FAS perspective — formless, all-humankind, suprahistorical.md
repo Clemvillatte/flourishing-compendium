@@ -37,7 +37,7 @@ For example: facing a workplace dispute, you ask what you are clinging to, how t
 
 ## Philosophy parallels
 
-- **[[The view from above|The view from above]]** (Marcus Aurelius, Meditations 9.30; not verified here)
+- **[[The view from above|The view from above]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations 9.30; not verified here)
 - **The whole as the true** (Hegel; not verified here)
 
 <!-- fc: reflections

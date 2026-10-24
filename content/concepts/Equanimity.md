@@ -21,7 +21,7 @@ The review grounds the term in its Theravada sources, quoting them directly (the
 
 ### The Stoic face
 
-Marcus Aurelius' image for the stance:
+[[T014 — Marcus Aurelius|Marcus Aurelius]]' image for the stance:
 
 > “Thou must be like a promontory of the sea, against which though the waves beat continually, yet it both itself stands, and about it are those swelling waves stilled and quieted.” (Marcus Aurelius, Meditations IV.40, [Casaubon translation, Project Gutenberg ebook #2680](https://www.gutenberg.org/files/2680/2680-0.txt))
 

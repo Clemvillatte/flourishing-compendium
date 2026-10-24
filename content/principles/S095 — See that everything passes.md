@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus describes change three ways in one sentence:
 
-> "Everything material soon disappears in the substance of the whole; and everything formal [causal] is very soon taken back into the universal reason; and the memory of everything is very soon overwhelmed in time." (Marcus Aurelius, Meditations, Book VII, section 10, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+> "Everything material soon disappears in the substance of the whole; and everything formal [causal] is very soon taken back into the universal reason; and the memory of everything is very soon overwhelmed in time." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book VII, section 10, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 In IV.35 he adds: "Everything is only for a day, both that which remembers and that which is remembered" (Meditations IV.35). The image in Book VII is of heaps of sand: "as the heaps of sand piled on one another hide the former sands; so in life the events which go before are soon covered by those which come after" (Meditations VII.34). In X.7 he describes the perishing of nature's parts as their undergoing change, and in X.11 turns it into a practice: "Acquire the contemplative way of seeing how all things change into one another" (Meditations X.11).
 

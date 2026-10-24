@@ -7,7 +7,7 @@ file: "Assent to fate"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-“Assent to fate” — Marcus Aurelius, Meditations.
+“Assent to fate” — [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations.
 
 ## Sources
 

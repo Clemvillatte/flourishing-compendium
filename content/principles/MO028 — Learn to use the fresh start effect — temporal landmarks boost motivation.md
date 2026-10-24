@@ -37,7 +37,7 @@ Say you have been meaning to start running again. Instead of "sometime soon", yo
 ## Philosophy parallels
 
 - **[[Metanoia (transformation)|Metanoia: the turning]]** (Christian tradition)
-- **The new day** (Stoics, Marcus Aurelius, Meditations)
+- **The new day** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **Begin again** (Zen Buddhism, Suzuki)
 
 ## Practice

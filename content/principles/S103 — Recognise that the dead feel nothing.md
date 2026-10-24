@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 The disjunction is stated plainly: "as concerning death, that either dispersion, or the atoms, or annihilation, or extinction, or translation will ensue" (Med. VII.22, Casaubon) — end of consciousness or transition. Either way the dead are beyond harm: no senses, no impressions, nothing felt.
 
-> "Death is a cessation from the impression of the senses, the tyranny of the passions, the errors of the mind, and the servitude of the body." (Marcus Aurelius, Meditations VI.26, Casaubon)
+> "Death is a cessation from the impression of the senses, the tyranny of the passions, the errors of the mind, and the servitude of the body." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations VI.26, Casaubon)
 
 The fear is of dying, not of death. Marcus points at every ending you have already passed through: "from opinion also there is an absolute cessation, which is as it were the death of it. In all this there is no hurt... What matter of grief or sorrow dost thou find in any of these?" (Med. IX.19). Dying is a process; death is the rest that follows it.
 

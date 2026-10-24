@@ -7,7 +7,7 @@ file: "Non-retaliation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Non-retaliation is Marcus Aurelius's rule for answering injury: refuse to answer it in kind. The Meditations states it in one line:
+Non-retaliation is [[T014 — Marcus Aurelius|Marcus Aurelius]]'s rule for answering injury: refuse to answer it in kind. The Meditations states it in one line:
 
 > "The best kind of revenge is, not to become like unto them." (Meditations, Book VI, [Long translation, Gutenberg #2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt))
 

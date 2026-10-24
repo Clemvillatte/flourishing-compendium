@@ -36,7 +36,7 @@ For example: saving for retirement feels abstract. A target of "first $10,000 sa
 ## Philosophy parallels
 
 - **[[Akrasia (weakness of will)|Akrasia (weakness of will)]]** (Aristotle, Nicomachean Ethics VII)
-- **The present as the only reality** (Stoics, Marcus Aurelius, Meditations)
+- **The present as the only reality** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **Instant vs eternal** (Kierkegaard, The Concept of Anxiety)
 
 ## Practice

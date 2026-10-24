@@ -32,7 +32,7 @@ The study concerns self-esteem changes during graduate applications. Separating 
 
 ## Philosophy parallels
 
-- **[[The inner citadel|The inner citadel]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[The inner citadel|The inner citadel]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **Dignity is not achievement** (Kant, Groundwork of the Metaphysics of Morals)
 - **[[Non-attachment|Non-attachment to fruits of action]]** (Bhagavad Gita)
 

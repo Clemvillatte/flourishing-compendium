@@ -40,7 +40,7 @@ For example: dreading a difficult conversation, you prepare the truthful points 
 ## Philosophy parallels
 
 - **[[Courage|Courage as the mean in fear]]** (Aristotle, NE III.6-9)
-- **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
+- **The obstacle is the way** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations V.20)
 
 <!-- fc: reflections
 What are you afraid of? Separate the bad thing from your prediction that you can't handle it.

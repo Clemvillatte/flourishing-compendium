@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 211** — Remember that you will die
 
-Memento mori is the practice of holding death in mind. Marcus Aurelius wrote the reminder to himself as a working instruction:
+Memento mori is the practice of holding death in mind. [[T014 — Marcus Aurelius|Marcus Aurelius]] wrote the reminder to himself as a working instruction:
 
 > Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.
 >

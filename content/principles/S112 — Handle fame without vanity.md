@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 > He who has a vehement desire for posthumous fame does not consider that every one of those who remember him will himself also die very soon... What is praise except indeed so far as it has a certain utility?
 
-(Marcus Aurelius, Meditations IV.19, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.4.four.html), page opened; the section number is from the standard numbering and is not printed in this edition; the ellipsis omits several sentences.)
+([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations IV.19, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.4.four.html), page opened; the section number is from the standard numbering and is not printed in this edition; the ellipsis omits several sentences.)
 
 Seneca takes a milder line in Letter 79: "Fame is the shadow of virtue; it will attend virtue even against her will" ([Gummere trans., Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_79), opened). Fame is a by-product that may come or not, and he does not tell Lucilius to refuse it. The entry's label "preferred indifferent" fits this reading. The Stanford Encyclopedia lists "health, wealth, and reputation" among the indifferents that are "preferred" ([Stoicism](https://plato.stanford.edu/entries/stoicism/), opened). The entry's line "Marcus was emperor and still wrote that fame is worthless" overstates IV.19, where Marcus asks what praise is worth, "except indeed so far as it has a certain utility."
 

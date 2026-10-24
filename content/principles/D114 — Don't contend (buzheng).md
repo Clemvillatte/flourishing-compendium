@@ -50,7 +50,7 @@ That leaves room for disagreement, fair credit and firm boundaries. Withholding 
 
 ## Philosophy parallels
 
-- **[[Non-retaliation|Non-retaliation]]** (Marcus Aurelius, Meditations VII)
+- **[[Non-retaliation|Non-retaliation]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations VII)
 - **[[The meek|The meek]]** (Gospel of Matthew)
 
 ## Sources

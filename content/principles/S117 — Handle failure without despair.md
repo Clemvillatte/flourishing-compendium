@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus describes hindrances becoming material for action:
 
-> "for the mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road." (Marcus Aurelius, Meditations, Book V, section 20, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+> "for the mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book V, section 20, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 He returns to this image in VIII.35: "so also the rational animal is able to make every hindrance its own material, and to use it for such purposes as it may have designed" (Meditations VIII.35). In VII.20, his stated concern is whether his own actions accord with human nature: "One thing only troubles me, lest I should do something which the constitution of man does not allow, or in the way which it does not allow, or what it does not allow now" (Meditations VII.20).
 

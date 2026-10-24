@@ -24,7 +24,7 @@ The named exercises Hadot keeps returning to include the Stoic premeditation of 
 
 ## Related concepts
 
-- [[The inner citadel]] — Hadot's own study of Marcus Aurelius, where the exercises are worked out on Stoic material
+- [[The inner citadel]] — Hadot's own study of [[T014 — Marcus Aurelius|Marcus Aurelius]], where the exercises are worked out on Stoic material
 
 ## Sources
 

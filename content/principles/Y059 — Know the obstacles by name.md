@@ -36,7 +36,7 @@ A woman's practice stalls. She reads the list and sees it was doubt: she keeps t
 
 ## Philosophy parallels
 
-- **The obstacle as material** (Marcus Aurelius, Meditations 5.20)
+- **The obstacle as material** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations 5.20)
 
 ## Sources
 

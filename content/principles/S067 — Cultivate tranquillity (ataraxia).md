@@ -16,7 +16,7 @@ Seneca defines the state he is after. It is a mind that keeps a steady course, l
 
 > "What we are seeking, then, is how the mind may always pursue a steady, unruffled course, may be pleased with itself, and look with pleasure upon its surroundings, and experience no interruption of this joy, but abide in a peaceful condition without being ever either elated or depressed: this will be 'peace of mind.'" (Seneca, De Tranquillitate Animi 2, Stewart translation, [Project Gutenberg](https://www.gutenberg.org/files/64576/64576-0.txt).)
 
-Marcus Aurelius pins the word down further: "By tranquillity I understand a decent orderly disposition and carriage, free from all confusion and tumultuousness." (Meditations IV.3, Casaubon translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).) He means order, which is different from numbness.
+[[T014 — Marcus Aurelius|Marcus Aurelius]] pins the word down further: "By tranquillity I understand a decent orderly disposition and carriage, free from all confusion and tumultuousness." (Meditations IV.3, Casaubon translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).) He means order, which is different from numbness.
 
 ### How it arrives
 

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 > In the morning when thou risest unwillingly, let this thought be present: I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?
 
-(Marcus Aurelius, Meditations V.1, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.5.five.html), page opened; the source reads "In he morning" and a dash after "present", rendered here as "In the morning" and a colon.)
+([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations V.1, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.5.five.html), page opened; the source reads "In he morning" and a dash after "present", rendered here as "In the morning" and a colon.)
 
 The texts do allow a retreat, but of one kind. In Meditations IV.3 Marcus says "Men seek retreats for themselves, houses in the country, sea-shores, and mountains," calls this "a mark of the most common sort of men," and sends the reader to "retire into thyself" and then return "free from all discontent with the things to which thou returnest" ([Meditations IV](https://classics.mit.edu/Antoninus/meditations.4.four.html), opened). The withdrawal is brief, and it is meant to serve the work that follows it.
 

@@ -32,7 +32,7 @@ Choose a particular displacement. List what it would remove and what it would le
 ## Sources
 
 - [Musonius Rufus, Lecture IX (Cora Lutz translation, StoicSource)](https://www.stoicsource.com/rufus/lectures/IX/)
-- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book IV, section 3
+- Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book IV, section 3
 
 ## Stories
 

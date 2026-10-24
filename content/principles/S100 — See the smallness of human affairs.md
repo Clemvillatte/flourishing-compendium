@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus pictures the sea and continents on a cosmic scale:
 
-> "Asia, Europe, are corners of the universe; all the sea a drop in the universe; Athos a little clod of the universe: all the present time is a point in eternity. All things are little, changeable, perishable." (Marcus Aurelius, Meditations, Book VI, section 36, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+> "Asia, Europe, are corners of the universe; all the sea a drop in the universe; Athos a little clod of the universe: all the present time is a point in eternity. All things are little, changeable, perishable." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book VI, section 36, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 The same scale is personal: "Think of the universal substance, of which thou hast a very small portion; and of universal time, of which a short and indivisible interval has been assigned to thee" (Meditations V.24). Book XII turns the measurement into an instruction: "on what a small clod of the whole earth thou creepest! Reflecting on all this, consider nothing to be great, except to act as thy nature leads thee, and to endure that which the common nature brings" (Meditations XII.32). The historical version of the exercise runs through the reigns of Vespasian and Trajan in Book IV, whole epochs of marrying, scheming and dying, and "that life of these people no longer exists at all" (Meditations IV.32).
 

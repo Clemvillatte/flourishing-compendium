@@ -16,7 +16,7 @@ Marcus addresses the person who keeps falling out of the practice:
 
 > When thou hast been compelled by circumstances to be disturbed in a manner, quickly return to thyself, and do not continue out of tune longer than the compulsion lasts; for thou wilt have more mastery over the harmony by continually recurring to it.
 
-(Marcus Aurelius, Meditations VI.11, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations VI.11, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 The instruction is about duration. Once the circumstance that compelled the disturbance is over, the disturbance should end with it, and the capacity to restore the harmony grows with each return. In another place he pictures the same move as waking from sleep and seeing the night's agitation as dreams you have now seen through (Med. VI.31, Long). What is being trained is the return itself, not an unbroken run.
 

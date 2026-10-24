@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 > Men exist for the sake of one another. Teach them then or bear with them.
 
-(Marcus Aurelius, Meditations VIII.59, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.8.eight.html), page opened; the section number is from the standard numbering and is not printed in this edition.)
+([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations VIII.59, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.8.eight.html), page opened; the section number is from the standard numbering and is not printed in this edition.)
 
 The line pairs forbearance with an effort to change the other person, which is close to the entry's pairing of tolerance and action. Marcus also gives the reason for tolerating wrongdoers. In VII.22 he writes "It is peculiar to man to love even those who do wrong," because "they do wrong through ignorance and unintentionally," and "the wrong-doer has done thee no harm, for he has not made thy ruling faculty worse than it was before" ([Meditations VII](https://classics.mit.edu/Antoninus/meditations.7.seven.html), opened). Tolerance of persons is thus grounded in how Marcus views the harm done to himself. His texts opened here do not speak to injustice done to third parties or to campaigns for reform, so the entry's "work to change what is within it" is my extension.
 

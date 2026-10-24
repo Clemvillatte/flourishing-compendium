@@ -41,7 +41,7 @@ The chapter's constant is the return-cycle itself: things grow, flourish, return
 
 
 - **[[Sub specie aeternitatis|Sub specie aeternitatis]]** (Spinoza, Ethics V)
-- **The logos that orders change** (Marcus Aurelius, Meditations II)
+- **The logos that orders change** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations II)
 - **[[Dao|The Dao — the way things work]]** (Daoism, Daodejing 25)
 
 

@@ -20,7 +20,7 @@ Beck describes examining whether the initial impression of a situation was disto
 
 - [[CO051 — Recognise cognitive distortions — learn the common patterns]] — the principle built on the Beck 1964 errors and the checking method
 - [[CO050 — Learn to question your thoughts — not every thought deserves belief]] — the thought-testing worksheet procedure
-- [[S046 — Do not add to the impression]] — Marcus Aurelius on not going beyond what the first appearances report
+- [[S046 — Do not add to the impression]] — [[T014 — Marcus Aurelius|Marcus Aurelius]] on not going beyond what the first appearances report
 - [[M035 — Hold the earth's slipperiness as fact]] — the Nahua terrain proverb for the human condition behind error
 - [[D167 — Be sick of your sickness]] — the DDJ 71 line: knowing you are sick lets you not be sick
 - [[CO071 — Recognise the value of I don't know — not knowing is a cognitive state]] — not-knowing as a state to value rather than a distortion to fix

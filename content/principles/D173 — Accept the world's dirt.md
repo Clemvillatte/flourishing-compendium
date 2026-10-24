@@ -38,7 +38,7 @@ For this principle, receiving criticism means being willing to examine your resp
 
 ## Philosophy parallels
 
-- **Refusing to imitate wrongdoing:** "The best way of avenging thyself is not to become like the wrong doer." (Marcus Aurelius, Meditations 6.6, [George Long](https://classics.mit.edu/Antoninus/meditations.6.six.html).)
+- **Refusing to imitate wrongdoing:** "The best way of avenging thyself is not to become like the wrong doer." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations 6.6, [George Long](https://classics.mit.edu/Antoninus/meditations.6.six.html).)
 - **[[Humility|Humility under reproach]]** (Augustine, The City of God)
 
 <!-- fc: reflections

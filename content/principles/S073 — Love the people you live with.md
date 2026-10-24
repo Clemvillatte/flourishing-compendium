@@ -15,7 +15,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 Marcus rehearses the morning reminder in full: he will meet the busybody, the ungrateful, arrogant, deceitful, envious, unsocial, all of it by reason of their ignorance of what is good and evil. His reason for patience is kinship, not convenience: the wrongdoer participates in the same intelligence and portion of the divinity, so he can neither be injured by them nor be angry with his kinsman nor hate him.
 
 > For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another, then, is contrary to nature; and it is acting against one another to be vexed and to turn away.
-> (Marcus Aurelius, Meditations II.1, trans. Long)
+> ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations II.1, trans. Long)
 
 My application: the morning rehearsal is a real practice, not a mood. Before the day starts, name the difficult person you are likely to meet and the kinship claim they have on you, then let the first encounter be the conversation rather than the sigh.
 

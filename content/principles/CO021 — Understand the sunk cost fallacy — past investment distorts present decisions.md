@@ -35,7 +35,7 @@ Suppose you bought a non-refundable course but find little value in it. You coul
 ## Philosophy parallels
 
 - **[[Non-attachment|Non-attachment to outcomes and investments]]** (Buddhism, Second Noble Truth)
-- **The past is gone** (Stoics, Marcus Aurelius, Meditations)
+- **The past is gone** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **[[Creative destruction|Creative destruction]]** (Schumpeter, Capitalism, Socialism and Democracy)
 
 ## Practice

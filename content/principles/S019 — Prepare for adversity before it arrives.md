@@ -48,7 +48,7 @@ For my planning exercise, choose one specific disruption and write down what you
 
 ## Philosophy parallels
 
-- **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
+- **The obstacle is the way** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations V.20)
 - **[[Antifragility|Antifragility]]** (Taleb, 2012)- **[[Premeditatio malorum|Premeditatio malorum]]** (Stoicism)
 
 

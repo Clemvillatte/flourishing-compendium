@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 164** — Practise non-retaliation
 
-Marcus Aurelius answers the urge to retaliate in a single line, in George Long's translation:
+[[T014 — Marcus Aurelius|Marcus Aurelius]] answers the urge to retaliate in a single line, in George Long's translation:
 
 > The best way of avenging thyself is not to become like the wrong doer. ([Meditations 6.6, trans. Long, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.6.six.html))
 

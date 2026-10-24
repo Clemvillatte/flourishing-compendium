@@ -32,7 +32,7 @@ The studies' answers to the authors' three questions were yes, yes and no: stude
 
 ## Philosophy parallels
 
-- **[[Memento mori|Memento mori]]: time is finite** (Stoics, Marcus Aurelius, Meditations)
+- **[[Memento mori|Memento mori]]: time is finite** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **[[The urgency of time|The urgency of time]]** (Heidegger, Being and Time)
 - **[[Carpe diem|Carpe diem]]** (Horace, Odes)
 

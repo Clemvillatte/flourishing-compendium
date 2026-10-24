@@ -7,7 +7,7 @@ file: "The view from above"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The view from above is a Stoic exercise: picture human affairs from a great height until their scale changes. Marcus Aurelius gives it most plainly in his Meditations, in George Long's translation:
+The view from above is a Stoic exercise: picture human affairs from a great height until their scale changes. [[T014 — Marcus Aurelius|Marcus Aurelius]] gives it most plainly in his Meditations, in George Long's translation:
 
 > "Look down from above on the countless herds of men and their countless solemnities, and the infinitely varied voyagings in storms and calms, and the differences among those who are born, who live together, and die." (Marcus Aurelius, Meditations, Book 9, Long translation, [MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.9.nine.html))
 

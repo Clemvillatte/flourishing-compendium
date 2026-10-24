@@ -24,7 +24,7 @@ Kant grounds the idea in autonomy: the legislation that assigns worth to everyth
 - [[R031 — Practise mana]] — the Te Aka account of mana as prestige, authority and spiritual power that a tribe gives to their chief
 
 - Chochinov, 2005
-- Stoics, Marcus Aurelius, Meditations
+- Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations
 - Stoics, Seneca, Letters
 ## Related concepts
 - [[T013 — Seneca]]: the Letters citation the page carries.

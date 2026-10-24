@@ -36,7 +36,7 @@ As a modern application, suppose a colleague takes credit for your work. The pas
 
 ## Sources
 
-- Marcus Aurelius, Meditations, Books II, VII, IX (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt): sections II.1, VII.22, VII.63, IX.11.
+- [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Books II, VII, IX (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt): sections II.1, VII.22, VII.63, IX.11.
 - Epictetus, Discourses I.18 (George Long translation), [Standard Ebooks](https://standardebooks.org/ebooks/epictetus/discourses/george-long/text/book-1).
 
 ## Psychology parallels

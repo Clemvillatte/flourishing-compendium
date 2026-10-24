@@ -36,7 +36,7 @@ Nor need restraint in judgment mean inaction: Marcus's next section advises turn
 
 ## Sources
 
-- [Marcus Aurelius, Meditations VIII.49–50, translated by George Long, MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.8.eight.html): exact quotation and the two practical examples.
+- Marcus Aurelius, Meditations VIII.49–50, translated by George Long, MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.8.eight.html): exact quotation and the two practical examples.
 - [Epictetus, Enchiridion 45, translated by Elizabeth Carter, MIT Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html): observing speed without immediately judging quality.
 - [Margaret Graver, Epictetus, Stanford Encyclopedia of Philosophy, sections 4.1 and 5](https://plato.stanford.edu/entries/epictetus/): examining impressions and practising assent.
 - [Beck Institute, Understanding CBT](https://beckinstitute.org/about/understanding-cbt/): institutional explanation of cognitive evaluation and problem-solving.

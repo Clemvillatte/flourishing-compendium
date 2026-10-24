@@ -7,7 +7,7 @@ file: "ST217 — The Morning Preparation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S05.08 — V.8 Handling Specific Situations", "parent": ""}
 ---
-*Historical/biographical narrative · Rome, 2nd century CE · [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)*
+*Historical/biographical narrative · Rome, 2nd century CE · Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)*
 
 Book II of the Meditations opens with the exercise: say to yourself at dawn, I shall meet the meddlesome, the ungrateful, the arrogant, the deceitful, the envious, the unsocial. All of these things happen to them through ignorance of good and evil. And I, who have seen that the nature of the wrongdoer is my own nature, cannot be harmed by them, nor can I be angry with a kinsman.
 

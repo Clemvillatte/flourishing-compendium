@@ -41,7 +41,7 @@ When a plan fails, deal with what needs attention. Then consider who else is fac
 ## Philosophy parallels
 
 - **[[Amor fati|Amor fati]]** (Nietzsche, Ecce Homo)
-- **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
+- **The obstacle is the way** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations V.20)
 
 <!-- fc: reflections
 What mishap — flat tire, insult, failure — is currently the practice arriving rather than the interruption it looks like? What would turning it into the path actually require?

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 166** — Act as a member of the whole
 
-Marcus Aurelius gives the frame as a standing exercise of perception:
+[[T014 — Marcus Aurelius|Marcus Aurelius]] gives the frame as a standing exercise of perception:
 
 > "Constantly regard the universe as one living being, having one substance and one soul; and observe how all things have reference to one perception, the perception of this one living being; and how all things act with one movement; and how all things are the cooperating causes of all things which exist." (Marcus Aurelius, [Meditations IV.40, Long translation](https://classics.mit.edu/Antoninus/meditations.4.four.html))
 

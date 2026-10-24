@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Epictetus opens the Enchiridion by placing reputation among the things not in our power (Ench. 1). Marcus states the working rule:
 
-> "How much trouble he avoids who does not look to see what his neighbor says or does or thinks, but only to what he does himself, that it may be just and pure" (Marcus Aurelius, Meditations, Book IV, section 18, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+> "How much trouble he avoids who does not look to see what his neighbor says or does or thinks, but only to what he does himself, that it may be just and pure" ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book IV, section 18, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 Book VI adds the sober estimate of applause: "the praise which comes from the many is a clapping of tongues" (Meditations VI.16). In IX.30 Marcus asks the reader to consider "how they who perhaps now are praising thee will very soon blame thee, and that neither a posthumous name is of any value, nor reputation, nor anything else".
 

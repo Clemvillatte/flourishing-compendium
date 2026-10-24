@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus reminds himself that death did not skip the powerful, the skilled or the sure of themselves:
 
-> "Hippocrates having cured many sicknesses, fell sick himself and died. The Chaldeans and Astrologians having foretold the deaths of divers, were afterwards themselves surprised by the fates. Alexander and Pompeius, and Caius Cæsar, having destroyed so many towns, and cut off in the field so many thousands both of horse and foot, yet they themselves at last were fain to part with their own lives." (Marcus Aurelius, Meditations III.3, Casaubon translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
+> "Hippocrates having cured many sicknesses, fell sick himself and died. The Chaldeans and Astrologians having foretold the deaths of divers, were afterwards themselves surprised by the fates. Alexander and Pompeius, and Caius Cæsar, having destroyed so many towns, and cut off in the field so many thousands both of horse and foot, yet they themselves at last were fain to part with their own lives." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations III.3, Casaubon translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 
 ### The people close to you
 

@@ -36,7 +36,7 @@ My application, and its own: take stock of which of your abilities sit on the ea
 
 - **[[The seasons of life|The seasons of life]]** (Ecclesiastes, 3:1-8)
 - **[[Wisdom|Wisdom as the gift of age]]** (Talleyrand, attributed)
-- **[[Memento mori|Memento mori]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Memento mori|Memento mori]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 ## Practice
 

@@ -19,7 +19,7 @@ The Wikipedia article carries the limit that matters for anyone tempted to treat
 
 > "Reflection is an important human activity in which people recapture their experience, think about it, mull it over and evaluate it. It is this working with experience that is important in learning." (Boud and colleagues, quoted in [Wikipedia, Reflective practice](https://en.wikipedia.org/wiki/Reflective_practice))
 
-The same page notes that some scholars have claimed precursors of reflective practice in ancient texts such as Buddhist teachings and the Meditations of Marcus Aurelius ([Wikipedia](https://en.wikipedia.org/wiki/Reflective_practice)).
+The same page notes that some scholars have claimed precursors of reflective practice in ancient texts such as Buddhist teachings and the Meditations of [[T014 — Marcus Aurelius|Marcus Aurelius]] ([Wikipedia](https://en.wikipedia.org/wiki/Reflective_practice)).
 
 ### Here
 

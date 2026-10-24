@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 146** — Do not fear death
 
-Marcus Aurelius' move is to put death in the column of things that happen to everyone, and to use that as an instruction rather than a consolation ([Meditations II.11, Long translation; full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
+[[T014 — Marcus Aurelius|Marcus Aurelius]]' move is to put death in the column of things that happen to everyone, and to use that as an instruction rather than a consolation ([Meditations II.11, Long translation; full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
 > Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.
 

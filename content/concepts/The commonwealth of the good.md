@@ -27,7 +27,7 @@ The Spinozism principles that link here carry the idea in the Treatise on the Im
 ## Related concepts
 
 - [[The common good]] — grounded in Aristotle's argument that partnership in moral perception makes a household and a city
-- [[The interconnected good]] — the Stoic counterpart, seeded from Marcus Aurelius and sympatheia
+- [[The interconnected good]] — the Stoic counterpart, seeded from [[T014 — Marcus Aurelius|Marcus Aurelius]] and sympatheia
 
 ## Sources
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 127** — Live according to nature
 
-Marcus Aurelius compresses the rule into a standing instruction:
+[[T014 — Marcus Aurelius|Marcus Aurelius]] compresses the rule into a standing instruction:
 
 > "This thou must always bear in mind, what is the nature of the whole, and what is my nature, and how this is related to that, and what kind of a part it is of what kind of a whole; and that there is no one who hinders thee from always doing and saying the things which are according to the nature of which thou art a part." (Marcus Aurelius, [Meditations II.9, Long translation, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html))
 

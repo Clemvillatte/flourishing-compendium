@@ -34,7 +34,7 @@ I use this passage only as a philosophical comparison. Its separate boundary-set
 
 ## Philosophy parallels
 
-- **[[The inner citadel|The inner citadel]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[The inner citadel|The inner citadel]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **[[Right speech|Right speech includes right no]]** (Buddhism, Eightfold Path)
 - **[[Wu wei|Wu wei: non-overextension]]** (Daoism, Daodejing 9)
 

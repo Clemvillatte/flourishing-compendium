@@ -40,7 +40,7 @@ Suppose your writing group plans a public reading. Someone imagines that the ven
 
 - **[[Premeditatio malorum|Premeditatio malorum]]** (Stoics, Seneca, Letters)
 - **[[Negative visualisation|Negative visualisation]]** (Stoics, Epictetus, Discourses)
-- **[[Memento mori|Memento mori]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Memento mori|Memento mori]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 ## Practice
 

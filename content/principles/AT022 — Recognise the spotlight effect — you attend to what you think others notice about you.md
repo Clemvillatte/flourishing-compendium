@@ -35,7 +35,7 @@ In an illustration, after worrying about a joke told at dinner, you ask a friend
 ## Philosophy parallels
 
 - **The fear of judgment as suffering** (Buddhism, Dhammapada)
-- **[[Care|Care about the right audience]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Care|Care about the right audience]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **The crowd as projection** (Kierkegaard, The Crowd is Untruth)
 
 ## Practice

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus keeps the warning addressed to himself:
 
-> "Take care that thou art not made into a Caesar, that thou art not dyed with this dye; for such things happen. Keep thyself then simple, good, pure, serious, free from affectation, a friend of justice, a worshipper of the gods, kind, affectionate, strenuous in all proper acts." (Marcus Aurelius, Meditations, Book VI, section 30, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+> "Take care that thou art not made into a Caesar, that thou art not dyed with this dye; for such things happen. Keep thyself then simple, good, pure, serious, free from affectation, a friend of justice, a worshipper of the gods, kind, affectionate, strenuous in all proper acts." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book VI, section 30, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 The model was his adoptive father, of whom he records "no vain-glory in those things which men call honors" and that "he considered himself no more than any other citizen" (Meditations I.16). The work itself is directed outward: "For what-soever either by myself or with another I can do, ought to be directed to this only, to that which is useful and well suited to society" (Meditations VII.5).
 

@@ -46,7 +46,7 @@ Friendships usually have a floor: the project, the neighborhood, the life stage,
 ## Philosophy parallels
 
 - **[[Impermanence|Impermanence (anicca)]]** (Buddhist tradition)
-- **[[Everything passes|Everything passes]]** (Marcus Aurelius, Meditations)
+- **[[Everything passes|Everything passes]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 <!-- fc: reflections
 Which friendship are you mourning that may have run its season? What did it give you, and what would honouring its end look like?

@@ -36,7 +36,7 @@ A man keeps a short note for a month: day, time, what he was doing before sittin
 
 ## Philosophy parallels
 
-- **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
+- **The obstacle is the way** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations V.20)
 
 ## Sources
 

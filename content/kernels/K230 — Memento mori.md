@@ -15,7 +15,7 @@ Keep a physical reminder of mortality: a skull on the desk, a coin in the pocket
 ## Facets
 
 - **live fully** — Stoics
-- **and acceptance** — Stoics, Marcus Aurelius, Meditations
+- **and acceptance** — Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations
 - **the cosmic perspective** — Stoics, Marcus Aurelius, Meditations
 
 ### Protocol

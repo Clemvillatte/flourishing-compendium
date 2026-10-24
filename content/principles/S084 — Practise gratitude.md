@@ -34,7 +34,7 @@ Once a week, write down one person and one concrete thing they did for you, as M
 - [[T013 — Seneca]]: Letters 9 and 31, cited at second hand in the page's sources.
 ## Sources
 
-- [Marcus Aurelius, Meditations Book 1 (Long), MIT Classics Archive](https://classics.mit.edu/Antoninus/meditations.1.one.html)
+- Marcus Aurelius, Meditations Book 1 (Long), MIT Classics Archive](https://classics.mit.edu/Antoninus/meditations.1.one.html)
 - [Meta-analysis of gratitude interventions across cultures, PNAS](https://www.pnas.org/doi/10.1073/pnas.2425193122)
 - [Dickens 2017, meta-analyses of gratitude interventions](https://www.tandfonline.com/doi/abs/10.1080/01973533.2017.1323638)
 

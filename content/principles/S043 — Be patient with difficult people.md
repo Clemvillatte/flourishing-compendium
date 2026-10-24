@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus tells himself what kinds of conduct to expect:
 
-> "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil." (Marcus Aurelius, Meditations, Book II, section 1, George Long translation)
+> "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book II, section 1, George Long translation)
 
 The ground he gives for patience is kinship:
 

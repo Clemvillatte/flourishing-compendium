@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K286** — The good citizen audit
 
-Once a month, review civic participation: whether the vote was cast, whether the community received a contribution, whether the issues affecting others were followed, whether public spaces and services were treated with respect. The ideal behind the audit is Marcus Aurelius's happy citizen, whose study and practice are for the good of the fellow citizens ([Meditations, Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). Reach for it when citizenship has become something watched rather than practiced.
+Once a month, review civic participation: whether the vote was cast, whether the community received a contribution, whether the issues affecting others were followed, whether public spaces and services were treated with respect. The ideal behind the audit is [[T014 — Marcus Aurelius|Marcus Aurelius]]'s happy citizen, whose study and practice are for the good of the fellow citizens ([Meditations, Project Gutenberg 2680](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)). Reach for it when citizenship has become something watched rather than practiced.
 
 ### What it rests on
 

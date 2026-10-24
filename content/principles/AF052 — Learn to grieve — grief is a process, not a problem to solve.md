@@ -28,7 +28,7 @@ Stroebe and Schut's dual process model distinguishes attending to the loss itsel
 
 - **The work of mourning** (Freud, Mourning and Melancholia)
 - **[[Impermanence|Impermanence and attachment]]** (Buddhism, Five Remembrances)
-- **[[Memento mori|Memento mori]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Memento mori|Memento mori]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 ## Practice
 

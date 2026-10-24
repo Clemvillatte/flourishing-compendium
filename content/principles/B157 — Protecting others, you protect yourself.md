@@ -44,7 +44,7 @@ A manager takes the blame in public when the team fails, and gives credit in pub
 ## Philosophy parallels
 
 - **[[Sympathy|Sympathy]]** (Adam Smith, The Theory of Moral Sentiments)
-- **[[The interconnected good|The interconnected good]]** (Marcus Aurelius, Meditations; Stoic sympatheia)- **[[Karuna|Karuna]]** (Buddhism, Brahmaviharas)
+- **[[The interconnected good|The interconnected good]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations; Stoic sympatheia)- **[[Karuna|Karuna]]** (Buddhism, Brahmaviharas)
 
 
 <!-- fc: reflections

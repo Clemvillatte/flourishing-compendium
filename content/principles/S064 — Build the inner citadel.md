@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus's image is the citadel itself:
 
-> "Therefore the mind which is free from passions is a citadel, for man has nothing more secure to which he can fly for refuge and for the future be inexpugnable. He then who has not seen this is an ignorant man; but he who has seen it and does not fly to this refuge is unhappy." (Marcus Aurelius, Meditations, Book VIII, section 48, George Long translation)
+> "Therefore the mind which is free from passions is a citadel, for man has nothing more secure to which he can fly for refuge and for the future be inexpugnable. He then who has not seen this is an ignorant man; but he who has seen it and does not fly to this refuge is unhappy." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book VIII, section 48, George Long translation)
 
 The citadel is not a place. Marcus says the same about retreats:
 

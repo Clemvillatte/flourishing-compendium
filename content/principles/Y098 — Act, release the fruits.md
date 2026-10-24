@@ -28,5 +28,5 @@ The instruction is not to abandon outcomes; the same breath says Labour. It is t
 ## Philosophy parallels
 
 - **[[Nishkama karma|Nishkama karma]]** (the Gita's own term; Vivekananda's Karma Yoga, modern)
-- **[[The reserve clause|The reserve clause]]** (Marcus Aurelius, Meditations 4.1)
+- **[[The reserve clause|The reserve clause]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations 4.1)
 - **[[Karma yoga|Karma yoga]]** (Yoga-Vedanta)

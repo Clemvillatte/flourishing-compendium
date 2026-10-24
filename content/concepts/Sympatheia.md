@@ -7,7 +7,7 @@ file: "Sympatheia"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Sympatheia is the Stoic doctrine of cosmic interdependence, the one Marcus Aurelius gives his most direct instruction to keep in mind. In Meditations 6.38, George Long's translation:
+Sympatheia is the Stoic doctrine of cosmic interdependence, the one [[T014 — Marcus Aurelius|Marcus Aurelius]] gives his most direct instruction to keep in mind. In Meditations 6.38, George Long's translation:
 
 > "Frequently consider the connexion of all things in the universe and their relation to one another. For in a manner all things are implicated with one another, and all in this way are friendly to one another; for one thing comes in order after another, and this is by virtue of the active movement and mutual conspiration and the unity of the substance."
 

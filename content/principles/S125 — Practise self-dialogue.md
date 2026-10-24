@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 247** — Practise self-dialogue
 
-The Stanford Encyclopedia of Philosophy describes the Meditations as "written to and for himself." Scholars now generally agree, it says, that Marcus "wrote for his own moral improvement, to remind himself of and render concrete the Stoic doctrines he wanted to live by." ([SEP, Marcus Aurelius, section 1.1](https://plato.stanford.edu/entries/marcus-aurelius/).)
+The Stanford Encyclopedia of Philosophy describes the Meditations as "written to and for himself." Scholars now generally agree, it says, that Marcus "wrote for his own moral improvement, to remind himself of and render concrete the Stoic doctrines he wanted to live by." ([SEP, [[T014 — Marcus Aurelius|Marcus Aurelius]], section 1.1](https://plato.stanford.edu/entries/marcus-aurelius/).)
 
 ### Talking to yourself in the second person
 

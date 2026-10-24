@@ -39,7 +39,7 @@ If a colleague is late, draft your immediate account and a second that includes 
 
 ## Philosophy parallels
 
-- **[[Sympatheia|Sympatheia]]** (Marcus Aurelius, Meditations)
+- **[[Sympatheia|Sympatheia]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 - **[[The free person loves all|The free person loves all]]** (Spinoza, Ethics IV)
 
 <!-- fc: reflections

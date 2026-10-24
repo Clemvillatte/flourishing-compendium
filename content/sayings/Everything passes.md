@@ -7,7 +7,7 @@ file: "Everything passes"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-“Everything passes” — Marcus Aurelius, Meditations.
+“Everything passes” — [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations.
 
 ## Sources
 

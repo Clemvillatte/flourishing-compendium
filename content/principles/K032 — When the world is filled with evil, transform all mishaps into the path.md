@@ -36,7 +36,7 @@ For example: A delayed flight fills the gate with tension; you take the delay as
 
 ## Philosophy parallels
 
-- **The obstacle is the way** (Marcus Aurelius, Meditations V.20)
+- **The obstacle is the way** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations V.20)
 - **[[Count it all joy|Count it all joy]]** (Epistle of James 1.2)
 
 <!-- fc: reflections

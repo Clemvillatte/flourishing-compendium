@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 143** — Do not desire externals as if they were permanent
 
-The Stoic distinction is between moral choice and external conditions such as wealth, status and health. Epictetus states the rule: "Man's good and man's evil lies in moral choice, and all other things are nothing to us" (Disc. I.25). Marcus Aurelius applies it to the extremes, life and death themselves, calling them "things which make us neither better nor worse. Therefore they are neither good nor evil" (Med. II.11). Good here means morally good: on this view nothing fortune controls can make a person better or worse.
+The Stoic distinction is between moral choice and external conditions such as wealth, status and health. Epictetus states the rule: "Man's good and man's evil lies in moral choice, and all other things are nothing to us" (Disc. I.25). [[T014 — Marcus Aurelius|Marcus Aurelius]] applies it to the extremes, life and death themselves, calling them "things which make us neither better nor worse. Therefore they are neither good nor evil" (Med. II.11). Good here means morally good: on this view nothing fortune controls can make a person better or worse.
 
 > "Your faithfulness is your own, your self-respect is your own; who, then, can take these things from you?" (Epictetus, Disc. I.25)
 

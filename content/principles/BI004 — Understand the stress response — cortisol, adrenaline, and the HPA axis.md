@@ -35,7 +35,7 @@ The system that mobilises you for a threat is doing its job when the threat is r
 
 - **[[Wu wei|Wu wei: non-forcing]]** (Daoism, Daodejing 48)
 - **[[The middle path|The middle way: activation and rest]]** (Buddhism)
-- **[[Equanimity|Equanimity under stress]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Equanimity|Equanimity under stress]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 ## Practice
 

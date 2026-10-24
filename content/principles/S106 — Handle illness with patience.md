@@ -35,7 +35,7 @@ This is a philosophical position about the will, not evidence of unrestricted co
 
 ## Philosophy parallels
 
-- **[[Accept pain as part of nature|Accept pain as part of nature]]** (Marcus Aurelius, Meditations VII.33)
+- **[[Accept pain as part of nature|Accept pain as part of nature]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations VII.33)
 - **[[The doctrine of the mean|The mean in pleasure and pain]]** (Aristotle, NE II.6)
 
 <!-- fc: reflections

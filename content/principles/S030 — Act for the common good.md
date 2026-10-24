@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 > For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another then is contrary to nature.
 
-(Marcus Aurelius, Meditations II.1, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html), page opened.)
+([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations II.1, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html), page opened.)
 
 Marcus ties the claim to a view of nature. In Book Nine he says "the universal nature has made rational animals for the sake of one another to help one another according to their deserts" ([Meditations IX](https://classics.mit.edu/Antoninus/meditations.9.nine.html), opened). In Book Six comes the line "That which is not good for the swarm, neither is it good for the bee" ([Meditations VI](https://classics.mit.edu/Antoninus/meditations.6.six.html), opened). The rule in the entry, to ask of each action whether it serves the common good, is my formulation of these passages. The Epictetus and Seneca references are cited at second hand.
 

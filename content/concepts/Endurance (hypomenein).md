@@ -7,7 +7,7 @@ file: "Endurance (hypomenein)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-"Endurance (hypomenein)" — Stoics, Marcus Aurelius, Meditations.
+"Endurance (hypomenein)" — Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations.
 
 Endurance (hypomenein) is the capacity to stay present under what is hard rather than flee it or escalate it. The Stoic template is Marcus Aurelius, whose Meditations keep returning to the question of what a person has already passed through and can still bear. His self-audit in Book 5 turns endurance into a source of courage: the count of things already survived.
 

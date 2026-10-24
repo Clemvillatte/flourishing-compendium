@@ -31,7 +31,7 @@ On the psychology side, Gross and John found in five studies that habitual reapp
 ## Sources
 
 - [Epictetus, Enchiridion 8 (trans. E. Carter)](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, opened
-- [Marcus Aurelius, Meditations IV.49 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.4.four.html) — MIT Internet Classics Archive, Book Four opened
+- Marcus Aurelius, Meditations IV.49 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.4.four.html) — MIT Internet Classics Archive, Book Four opened
 - [Gross & John (2003), J Pers Soc Psychol 85(2), 348-362](https://pubmed.ncbi.nlm.nih.gov/12916575/) — PubMed abstract opened
 
 ## Psychology parallels

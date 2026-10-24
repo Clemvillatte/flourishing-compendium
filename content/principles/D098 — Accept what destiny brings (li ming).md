@@ -34,7 +34,7 @@ The key move is the last line. Destiny does not claim credit either — "when we
 
 - **[[Amor fati|Amor fati]]** (Nietzsche, Ecce Homo)
 - **Necessity and freedom** (Spinoza, Ethics)
-- **[[Assent to fate|Assent to fate]]** (Marcus Aurelius, Meditations)
+- **[[Assent to fate|Assent to fate]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 <!-- fc: reflections
 Where have you done everything right and still gotten a bad hand? What did you make of that?

@@ -29,7 +29,7 @@ In Carstensen and colleagues' study of over 10 years of experience sampling, "ag
 
 - **[[The seasons of life|The seasons of life]]** (Ecclesiastes, 3:1-8)
 - **[[Ego integrity (Erikson)|Ego integrity vs despair]]** (Erikson, The Life Cycle Completed)
-- **[[Memento mori|Memento mori and acceptance]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Memento mori|Memento mori and acceptance]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 ## Practice
 

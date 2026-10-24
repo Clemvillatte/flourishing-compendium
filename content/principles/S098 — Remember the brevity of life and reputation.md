@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus makes the point with names. He lists famous Romans, including emperors, and shows how quickly the world lets go of them:
 
-> "Those words which once were common and ordinary, are now become obscure and obsolete; and so the names of men once commonly known and famous, are now become in a manner obscure and obsolete names. Camillus, Cæso, Volesius, Leonnatus; not long after, Scipio, Cato, then Augustus, then Adrianus, then Antoninus Pius: all these in a short time will be out of date, and, as things of another world as it were, become fabulous." (Marcus Aurelius, Meditations IV.28, Casaubon translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
+> "Those words which once were common and ordinary, are now become obscure and obsolete; and so the names of men once commonly known and famous, are now become in a manner obscure and obsolete names. Camillus, Cæso, Volesius, Leonnatus; not long after, Scipio, Cato, then Augustus, then Adrianus, then Antoninus Pius: all these in a short time will be out of date, and, as things of another world as it were, become fabulous." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations IV.28, Casaubon translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 
 ### What he says to do with it
 

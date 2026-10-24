@@ -55,7 +55,7 @@ Its Stoic sibling is [[Premeditatio malorum]] (adversity rehearsed instead of de
 ## Sources
 
 - [Seneca, Moral Letters to Lucilius, Letter 101 (Gummere translation, Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101) — the three passages quoted above
-- Seneca, On the Shortness of Life; Marcus Aurelius, Meditations — the wider Stoic tradition behind the practice (no passages quoted on this page)
+- Seneca, On the Shortness of Life; [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations — the wider Stoic tradition behind the practice (no passages quoted on this page)
 
 ## Cited in parallels
 

@@ -42,7 +42,7 @@ a person learning a new note-taking system at 25 versus 55, comparing after a we
 
 - **[[The seasons of life|The seasons of life]]** (Ecclesiastes, 3:1-8)
 - **[[Wisdom|Wisdom as the gift of age]]** (Talleyrand, attributed)
-- **[[Memento mori|Memento mori]]** (Stoics, Marcus Aurelius, Meditations)
+- **[[Memento mori|Memento mori]]** (Stoics, [[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations)
 
 ## Practice
 

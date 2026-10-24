@@ -26,7 +26,7 @@ Spinoza argues that everything is determined by the necessity of the divine natu
 ## Philosophy parallels
 
 - **[[Amor fati|Amor fati]]** (Nietzsche, The Gay Science 276)
-- **[[The reserve clause|The reserve clause]]** (Marcus Aurelius, Meditations IV.1)- **[[Necessitarianism|Necessitarianism]]** (Spinozism)
+- **[[The reserve clause|The reserve clause]]** ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations IV.1)- **[[Necessitarianism|Necessitarianism]]** (Spinozism)
 
 ## Sources
 

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus connects remembering death with present conduct:
 
-> "Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good." (Marcus Aurelius, Meditations, Book IV, section 17, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+> "Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good." ([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations, Book IV, section 17, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 The same register runs through the Meditations: "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly" (Meditations II.11). Epictetus makes it a daily exercise: "Let death and exile and every other thing which appears dreadful be daily before your eyes; but most of all death: and you will never think of any thing mean nor will you desire any thing extravagantly" (Enchiridion 21). Letter 26 connects learning to die with freedom from external power: "He who has learned to die has unlearned slavery; he is above any external power, or, at any rate, he is beyond it" (Letters 26).
 

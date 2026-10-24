@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 > Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too.
 
-(Marcus Aurelius, Meditations IV.43, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.4.four.html), page opened; the section number is from the standard numbering and is not printed in this edition.)
+([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations IV.43, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.4.four.html), page opened; the section number is from the standard numbering and is not printed in this edition.)
 
 In Book Nine Marcus applies the thought to attachment: "Soon will the earth cover us all: then the earth, too, will change... For if a man reflects on the changes and transformations which follow one another like wave after wave and their rapidity, he will despise everything which is perishable" ([Meditations IX.28, Long trans.](https://classics.mit.edu/Antoninus/meditations.9.nine.html), opened; the ellipsis omits a clause). He is blunter than the entry's "freeing": the effect he names is contempt for what perishes, and the entry's conclusion that "nothing is worth clinging to except virtue" is my wording. Most of the long list of Meditations references is cited at second hand.
 

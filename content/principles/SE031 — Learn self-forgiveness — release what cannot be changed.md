@@ -16,7 +16,7 @@ Marcus grounds the release in the structure of time:
 
 > All those things at which thou wishest to arrive by a circuitous road thou canst have now, if thou dost not refuse them to thyself. And this means, if thou wilt take no notice of all the past, and trust the future to providence, and direct the present only conformably to piety and justice.
 
-(Marcus Aurelius, Meditations XII.1, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+([[T014 — Marcus Aurelius|Marcus Aurelius]], Meditations XII.1, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 Marcus directs attention toward present conduct. In VIII.36, he asks the reader to focus on the difficulty currently at hand. One suggested application is to distinguish actions still available, such as an apology or repair, from repeatedly reproaching yourself about the past.
 
