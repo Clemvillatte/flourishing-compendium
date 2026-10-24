@@ -12,23 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 31** — Treasure 1: compassion (ci)
 
-The principle takes its place from Daodejing 67, where Laozi names his three treasures; Legge calls the first "gentleness".
+The first of Daodejing 67's three treasures is ci, which Legge renders as gentleness; Tom Culham discusses it as compassion in his study of Daoist cultivation ([Legge, ch. 67](https://www.gutenberg.org/files/216/216-h/216-h.htm); [Culham, 2014, pp. 33–34](https://www.erudit.org/en/journals/paideusis/2014-v21-n2-paideusis05508/1071564ar.pdf)).
 
 > But I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others. With that gentleness I can be bold; with that economy I can be liberal; shrinking from taking precedence of others, I can become a vessel of the highest honour. (Daodejing 67, Legge trans., [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The chapter connects gentleness with boldness, then warns against giving up gentleness while pursuing boldness (§3). Its warning concerns separating the conduct one wants from the treasure that supports it.
+The chapter warns against abandoning gentleness while trying to remain bold ([§3](https://www.gutenberg.org/files/216/216-h/216-h.htm)). I read this as a challenge to a familiar excuse for harshness: that care must be set aside whenever courage is needed. Here, gentleness belongs within the account of courageous action.
 
-(DDJ 67.)
+### Plain words
 
-**Plain words**
-You may need to take a firm position with someone. Consider what you need to say and how to say it while continuing to treat them considerately. The practice is to carry that consideration into the disagreement.
+You can object to what someone has done while remaining concerned for them. Care can shape what you say, when you say it and how you listen to the answer. Firmness need not require humiliation.
 
-*For example:* Imagine greeting a frightened newcomer to your meeting before checking your notes.
+### For example
+
+Suppose a colleague makes a mistake that needs correcting. Explain the problem without mocking them, and ask what happened before deciding together how to put it right. Afterwards, consider whether you addressed the mistake clearly and treated them considerately; use that review when a similar conversation arises. This is my illustration, not a procedure given in the chapter.
 
 ## Sources
 - [[T012 — Laozi]]: the three treasures of Daodejing 67, the first of which this principle is.
 
 - [Laozi, Daodejing 67, Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — the three treasures, full chapter text
+- [Tom Culham, Cultivating Compassion 慈: A Daoist Perspective (2014), Paideusis 21(2), pp. 32–41](https://www.erudit.org/en/journals/paideusis/2014-v21-n2-paideusis05508/1071564ar.pdf): discussion of ci and the three treasures, pp. 33–34.
 
 ## Stories
 

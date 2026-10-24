@@ -46,3 +46,12 @@ are not certified by this body-level review.
 - Repair: added a direct citation for the narrative, made the writer's interpretive move explicit, and explained identity labels without merely issuing an instruction to loosen them. The hypothetical help-seeking example now asks whether the reader would carry the experience forward.
 - Correction to state note: the reopen description mistakenly referred to the three treasures; that is D031. D087 was instead reviewed and repaired against its actual butterfly-dream source, protected statement and existing body.
 - Limits: the story is not evidence for ACT, anatta or bundle theory. Existing comparison links and duplicate Related concepts headings were preserved; linked page bodies remain outside this worker's scope.
+
+## D031: Treasure 1, compassion
+
+- Opened: [Daodejing 67, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm) and [Tom Culham, Cultivating Compassion 慈: A Daoist Perspective](https://www.erudit.org/en/journals/paideusis/2014-v21-n2-paideusis05508/1071564ar.pdf), full article, particularly pp. 33–34.
+- Also opened: [Guo-Ming Chen, Laozi: Ethics of Actionless Action](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1091&context=com_facpubs); not needed for the body because its three-treasures discussion overlaps the primary passage and Culham.
+- Evidence: retained quotation matches Legge, including all three treasures and the gentleness/boldness relation. §3 supplies the warning against discarding gentleness. Culham explicitly discusses ci as compassion, with the chapter 67 passage on p. 34.
+- Repair: removed the disconnected newcomer-greeting illustration and the vague “conduct one wants” sentence. Added attributed translation context and a personal reading of courage with consideration. The correction conversation is hypothetical, includes attention to consequences and review, and is identified as my illustration.
+- Saturation: `enrich_find.py mention Three Treasures` and Compassion were read; the concept already links D031. No additional reciprocal or graph edit.
+- Limits: no claim that compassion guarantees victory, protects someone from abuse, or is identical to a modern therapy. Culham's tentative classroom observations and his immortality interpretation are not used as empirical or historical facts.
