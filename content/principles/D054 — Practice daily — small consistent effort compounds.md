@@ -28,7 +28,7 @@ These observations concern eating, drinking and activity habits. They do not est
 
 ### Plain words
 
-Choose a practice and a time or cue that gives you a realistic opportunity to return to it. If you miss one occasion, you need not assume that habit formation must start again from zero. Whether the practice itself is useful still needs review.
+Repeated action in a consistent setting can become more automatic. That change develops over time, and one missed occasion need not erase it. Choose a cue you can realistically return to, while continuing to review whether the practice itself is useful.
 
 ### For example
 

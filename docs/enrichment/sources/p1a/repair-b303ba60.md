@@ -206,3 +206,10 @@ are not certified by this body-level review.
 - Evidence: both retained quotations match their chapters, including Legge's parenthetical “with an ulterior purpose of his own.” Chan explicitly rejects equating wuwei with total inactivity and distinguishes it from self-serving desire, rather than prescribing a list of actions to avoid.
 - Repair: Plain words explains what forcing means in the page's application before giving advice. The colleague case now includes hearing concerns and revising a proposal, so the practice does not merely postpone pressure.
 - Limits: modern collegial deliberation is an application, not an ancient management technique or a complete definition of wuwei. No general prohibition on necessary intervention.
+
+## D054: Practice, continuity and habit
+
+- Opened: [Daodejing, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm), chapter 64; [Wilhelm/Baynes Golden Flower text](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt), sections 3 and 8 with commentary extraction; [Lally et al. publisher abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674), complete abstract and bibliographic information.
+- Evidence: the sprout/tower/journey quotation matches Legge; Wilhelm's commentary explicitly qualifies hundred-day practice by effort and physical constitution. Every retained participant/model count and the 18–254-day modelled range appears in the Lally abstract, as does the exact retained sentence about missing one opportunity.
+- Repair: Plain words now explains repetition in a consistent setting becoming more automatic before suggesting a cue. Retained the concrete reading exercise with a return after a missed morning and reconsideration when the arrangement repeatedly fails.
+- Limits: publisher abstract, not an unseen full study, supports these reported numbers. The study does not validate Golden Flower attainment, a universal habit deadline or automatic development of wisdom.
