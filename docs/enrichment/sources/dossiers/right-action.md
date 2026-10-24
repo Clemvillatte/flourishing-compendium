@@ -2,8 +2,10 @@
 
 Verification record for docs/enrichment/dossiers/right-action.md, revision 1.
 Every quoted fragment in this dossier was fetched and read from its carrier
-during this session (2026-10-24, ~07:41–07:50 UTC, per session clock readings: baton claimed ~07:41Z, pass 1 pushed just before the 07:42:26Z reading, pass 2 just before the 07:45:17Z reading, pass 3 just before the 07:48:11Z reading, pass 4 just after the 07:50:38Z reading, at 07:50:54Z) with the page-open tool. A monotonic reading was taken fresh alongside the 07:47:32Z UTC reading (time.monotonic_ns = 1413709370965, about 1414 seconds since sandbox boot); recorded as a new observation, not a T0 reset; the original run_clock file's date +%s%N value is a realtime reading, not monotonic, and is labelled as such here. A second fresh pair was appended to the workspace run_clock file alongside the 07:50:38Z UTC reading (time.monotonic_ns = 1600365944516, about 1600 seconds since sandbox boot).
-and every quoted passage was then re-verified against raw, unprompted
+during this session (2026-10-24, ~07:41–07:53 UTC, per session clock readings: baton claimed ~07:41Z, pass 1 pushed just before the 07:42:26Z reading, pass 2 just before the 07:45:17Z reading, pass 3 just before the 07:48:11Z reading, pass 4 just after the 07:50:38Z reading, at 07:50:54Z) with the page-open tool. A monotonic reading was taken fresh alongside the 07:47:32Z UTC reading (time.monotonic_ns = 1413709370965, about 1414 seconds since sandbox boot); recorded as a new observation, not a T0 reset; the original run_clock file's date +%s%N value is a realtime reading, not monotonic, and is labelled as such here. A second fresh pair was appended to the workspace run_clock file alongside the 07:50:38Z UTC reading (time.monotonic_ns = 1600365944516, about 1600 seconds since sandbox boot). Pass 5 (the Giles/Wikisource Zhuangzi verification and the
+related-questions reframing) was pushed just after the 07:52:47Z
+reading.
+And every quoted passage was then re-verified against raw, unprompted
 carrier text (direct fetch of each carrier URL, tags stripped, whitespace
 normalised, substring check). All ten quoted passages are FULL MATCH
 against the raw carrier text; the dossier contains 10 external
