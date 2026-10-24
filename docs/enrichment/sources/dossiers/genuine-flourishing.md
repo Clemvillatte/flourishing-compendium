@@ -746,3 +746,14 @@ GF cannot be labelled approved/ready based on source and structural checks.
 Shared Humanizer and dossier policy now make that distinction explicit.
 Sitewide dossier underlining removed at the CSS level, with link colour
 and focus outline retained. No other band's dossier prose edited.
+
+### Final checkpoint limits
+
+Owner clarified the contrast construction itself is the issue, then
+clarified it is one example among all AI-sounding output types throughout
+the project. Additional GF contrasts rewritten affirmatively, with source
+qualifications retained. A structural inventory of23 manuscripts is saved
+beside this ledger; it is NOT a full-project editorial review.
+Live b8893be7 browser inspection confirms the replacement opening and
+sampled links with no text decoration or bottom border. No claim that
+the GF exemplar or all dossiers have passed the owner's prose standard.

@@ -14,6 +14,12 @@ metadata:
 
 ## Owner correction: whole-text standard, not spot repairs
 
+FINAL SCOPE CLARIFICATION: apply this editorial standard throughout the
+WHOLE PROJECT, covering every type of AI-sounding prose. The contrast
+construction is an example the owner recognises, not an exhaustive
+blacklist. Full-project review is unfinished. Do not claim zero AI tells
+from passing checks or from repairing the passages the owner identified.
+
 STRUCTURAL CLARIFICATION FROM OWNER: the issue is specifically the
 recognisable "This is not X, it is Y" / "not X, but Y" rhetorical
 construction, including variants across adjacent sentences. Finding

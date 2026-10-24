@@ -3079,7 +3079,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "I become suspicious when a good life is reduced to a feeling to maintain, a number to reach or an image to protect. [Materialism](card:Materialism) tends to go with [lower well-being, although the average association is modest](https://pubmed.ncbi.nlm.nih.gov/25347131/). A [later study of graduates](https://pubmed.ncbi.nlm.nih.gov/20161160/) found that even attaining [extrinsic aspirations](card:Extrinsic%20aspirations) went with greater ill-being. This is not an argument against paying the bills; it is a reason to question what we expect money or recognition to settle."
+          "x": "I become suspicious when a good life is reduced to a feeling to maintain, a number to reach or an image to protect. [Materialism](card:Materialism) tends to go with [lower well-being, although the average association is modest](https://pubmed.ncbi.nlm.nih.gov/25347131/). A [later study of graduates](https://pubmed.ncbi.nlm.nih.gov/20161160/) found that even attaining [extrinsic aspirations](card:Extrinsic%20aspirations) went with greater ill-being. Paying the bills remains a real need. Beyond that, what do we hope money or recognition will provide?"
         },
         {
           "t": "p",
@@ -3255,7 +3255,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Aristotle](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html) needs the world to help: good action requires external goods, and terrible misfortune can damage a life. The Stoic position attributed to [Zeno, Chrysippus and Hecato](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html) makes virtue sufficient for well-being. The disagreement is not whether character matters, but whether it can be enough."
+          "x": "For [Aristotle](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), good action requires external goods, and terrible misfortune can damage a life. The Stoic position attributed to [Zeno, Chrysippus and Hecato](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html) makes virtue sufficient for well-being. The disagreement turns on whether good character is sufficient for a flourishing life."
         },
         {
           "t": "p",
@@ -3271,11 +3271,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "In psychology, [Ryan and Deci](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf) distinguish feeling good from functioning well while recognising overlap. [Kashdan, Biswas-Diener and King](https://www.tandfonline.com/doi/full/10.1080/17439760802303044) object that unclear definitions and inconsistent measures make a sharp division scientifically costly. [Waterman](https://www.tandfonline.com/doi/full/10.1080/17439760802303002) replies that the two can be related yet reliably distinguishable. The argument concerns what researchers can actually tell apart, not just which label sounds more elevated."
+          "x": "In psychology, [Ryan and Deci](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf) distinguish feeling good from functioning well while recognising overlap. [Kashdan, Biswas-Diener and King](https://www.tandfonline.com/doi/full/10.1080/17439760802303044) object that unclear definitions and inconsistent measures make a sharp division scientifically costly. [Waterman](https://www.tandfonline.com/doi/full/10.1080/17439760802303002) replies that the two can be related yet reliably distinguishable. Their argument concerns what researchers can reliably measure and tell apart."
         },
         {
           "t": "p",
-          "x": "The difference can matter in a population. [Keyes and Annas's reanalysis of US data](https://www.tandfonline.com/doi/full/10.1080/17439760902844228) found that almost half felt good, but fewer than one in five also functioned well enough to meet their flourishing criteria; those who felt good but functioned moderately well had nearly twice the mental-illness rate. This does not make pleasure suspect. It makes feeling good an incomplete answer to the question of how a life is going."
+          "x": "The difference can matter in a population. [Keyes and Annas's reanalysis of US data](https://www.tandfonline.com/doi/full/10.1080/17439760902844228) found that almost half felt good, but fewer than one in five also functioned well enough to meet their flourishing criteria; those who felt good but functioned moderately well had nearly twice the mental-illness rate. Assessing a life therefore requires attention to how a person is functioning as well as how they feel."
         },
         {
           "t": "p",
@@ -3295,7 +3295,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Mauss and colleagues](https://pubmed.ncbi.nlm.nih.gov/21517168/) tested a narrower problem: valuing happiness could worsen responses to a happy situation through disappointment at one's own feelings. That finding does not show that pursuing flourishing defeats itself. It suggests a more useful distinction: choosing how to live need not mean demanding a particular emotional result from every moment."
+          "x": "[Mauss and colleagues](https://pubmed.ncbi.nlm.nih.gov/21517168/) tested how valuing happiness could worsen responses to a happy situation through disappointment at one's own feelings. Their finding concerns emotional expectations in that setting. I would keep the broader question of how to live open, with room for worthwhile activities that bring mixed feelings."
         },
         {
           "t": "h2",
@@ -3439,7 +3439,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Retention",
-          "x": "Keep what helps you live a value you care about, and make a place for it in ordinary life. The point is not to become accomplished at exercises, but to notice what you want to keep doing."
+          "x": "Keep what helps you live a value you care about, and make a place for it in ordinary life. Review what the exercise changes in your daily actions and relationships before deciding whether to continue."
         },
         {
           "t": "h",

@@ -1,5 +1,32 @@
 # LIVE GF EXEMPLAR HANDOFF — supervisor-11878a6c, 2026-10-24
 
+## Latest scope and exact continuation
+
+Owner clarified the mission is removal of ALL AI-sounding output types
+across the WHOLE PROJECT. The "not X, but Y" scaffold is one example,
+not the entire definition of the problem. Do not substitute semantic
+correction for structural rewriting, or a phrase scan for editorial review.
+
+Latest published checkpoint before final save: `b8893be75142567a68cbe6360b344727b5b2d762`.
+GF remains UNAPPROVED and unfinished as an exemplar. Read owner corrections
+above all older instructions. Do not launch six agents copying this draft.
+
+Exact next action: full GF structural/rhythm review, using
+`docs/enrichment/dossiers/VOICE-AUDIT.md` and the persisted inventory
+`docs/enrichment/sources/dossiers/voice-audit-2026-10-24.jsonl`.
+Then coordinate the remaining22 dossiers and the larger project, respecting
+live worker batons. Inventory covers23 manuscripts, NOT the whole project.
+It flags166 candidate lines, including legitimate evidence qualifications.
+GF has13 candidates after the latest repairs. Review, do not mass-delete.
+
+Live browser checked b8893be7: new plain opening visible; sampled dossier
+links have `text-decoration: none` and `border-bottom: 0px`; links remain
+present. Underlining removal is deployed. Existing narrow-screen TOC is
+below the article and needs a considered navigation fix, not an untested
+last-minute redesign. Preview deployment blocked by existing storage APIs;
+GitHub Pages works. Public source-backed gallery corrections are pushed;
+underlying story-card repair backlog remains in GF evidence ledger.
+
 ## Latest owner override: GF opening rejected; no dossier underlining
 
 Owner explicitly rejected "Flourishing is a flower word" as unclear and

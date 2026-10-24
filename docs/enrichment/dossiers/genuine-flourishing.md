@@ -62,7 +62,7 @@ The question extends beyond an absorbing afternoon. [Brian Little](https://onlin
 
 ### What gets mistaken for it
 
-I become suspicious when a good life is reduced to a feeling to maintain, a number to reach or an image to protect. [Materialism](https://clemvillatte.github.io/flourishing-compendium/#card=Materialism) tends to go with [lower well-being, although the average association is modest](https://pubmed.ncbi.nlm.nih.gov/25347131/). A [later study of graduates](https://pubmed.ncbi.nlm.nih.gov/20161160/) found that even attaining [extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations) went with greater ill-being. This is not an argument against paying the bills; it is a reason to question what we expect money or recognition to settle.
+I become suspicious when a good life is reduced to a feeling to maintain, a number to reach or an image to protect. [Materialism](https://clemvillatte.github.io/flourishing-compendium/#card=Materialism) tends to go with [lower well-being, although the average association is modest](https://pubmed.ncbi.nlm.nih.gov/25347131/). A [later study of graduates](https://pubmed.ncbi.nlm.nih.gov/20161160/) found that even attaining [extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations) went with greater ill-being. Paying the bills remains a real need. Beyond that, what do we hope money or recognition will provide?
 
 The [Aspiration Index](https://clemvillatte.github.io/flourishing-compendium/#card=Aspiration%20index) [asks what people want, how likely they think success is and how much they have attained](https://selfdeterminationtheory.org/aspirations-index/). The distinction between [intrinsic and extrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20versus%20extrinsic%20goals) concerns [growth, connection and contribution versus wealth, fame and image](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf). It invites a more searching question than whether we are making progress: progress toward what?
 
@@ -150,7 +150,7 @@ These are famous scenes, but the question also belongs in an ordinary day. [Resp
 
 Imagine someone acting with courage and justice while losing their health, livelihood and friends. Has their life ceased to flourish, or is their character the good that cannot be taken away?
 
-[Aristotle](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html) needs the world to help: good action requires external goods, and terrible misfortune can damage a life. The Stoic position attributed to [Zeno, Chrysippus and Hecato](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html) makes virtue sufficient for well-being. The disagreement is not whether character matters, but whether it can be enough.
+For [Aristotle](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), good action requires external goods, and terrible misfortune can damage a life. The Stoic position attributed to [Zeno, Chrysippus and Hecato](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html) makes virtue sufficient for well-being. The disagreement turns on whether good character is sufficient for a flourishing life.
 
 Even the Stoics did not speak with one voice. [Diogenes Laertius](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html) reports that Panaetius and Posidonius also required health, strength and some means of living. The [capability approach](https://plato.stanford.edu/entries/capability-approach/) brings real opportunities into the assessment of a life. I find the Stoic defence of moral worth powerful, but would not use it to make deprivation seem harmless.
 
@@ -158,9 +158,9 @@ Even the Stoics did not speak with one voice. [Diogenes Laertius](https://penelo
 
 Pleasure need not mean indulgence. For [Epicurus](https://classics.mit.edu/Epicurus/menoec.html), it means freedom from bodily pain and mental trouble; for [Aristotle](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the pleasure of good activity does not replace the activity as the good. Those positions disagree without making either thinker an enemy of pleasure.
 
-In psychology, [Ryan and Deci](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf) distinguish feeling good from functioning well while recognising overlap. [Kashdan, Biswas-Diener and King](https://www.tandfonline.com/doi/full/10.1080/17439760802303044) object that unclear definitions and inconsistent measures make a sharp division scientifically costly. [Waterman](https://www.tandfonline.com/doi/full/10.1080/17439760802303002) replies that the two can be related yet reliably distinguishable. The argument concerns what researchers can actually tell apart, not just which label sounds more elevated.
+In psychology, [Ryan and Deci](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf) distinguish feeling good from functioning well while recognising overlap. [Kashdan, Biswas-Diener and King](https://www.tandfonline.com/doi/full/10.1080/17439760802303044) object that unclear definitions and inconsistent measures make a sharp division scientifically costly. [Waterman](https://www.tandfonline.com/doi/full/10.1080/17439760802303002) replies that the two can be related yet reliably distinguishable. Their argument concerns what researchers can reliably measure and tell apart.
 
-The difference can matter in a population. [Keyes and Annas's reanalysis of US data](https://www.tandfonline.com/doi/full/10.1080/17439760902844228) found that almost half felt good, but fewer than one in five also functioned well enough to meet their flourishing criteria; those who felt good but functioned moderately well had nearly twice the mental-illness rate. This does not make pleasure suspect. It makes feeling good an incomplete answer to the question of how a life is going.
+The difference can matter in a population. [Keyes and Annas's reanalysis of US data](https://www.tandfonline.com/doi/full/10.1080/17439760902844228) found that almost half felt good, but fewer than one in five also functioned well enough to meet their flourishing criteria; those who felt good but functioned moderately well had nearly twice the mental-illness rate. Assessing a life therefore requires attention to how a person is functioning as well as how they feel.
 
 [Keyes's earlier study](https://pubmed.ncbi.nlm.nih.gov/12096700/) found 17.2% flourishing and 12.1% languishing among 3,032 US adults aged 25–74, with major depression much more common in the latter group. These were cross-sectional findings, not proof that flourishing prevents illness. [Oishi and Westgate](https://www.erinwestgate.com/uploads/7/6/4/1/7641726/oishi.westgate.psychrev.2021.pdf) add another possibility: an interesting, perspective-changing life that is not reducible to either happiness or meaning. I would not want a definition of living well to make such a life invisible.
 
@@ -170,7 +170,7 @@ Wanting a good life seems reasonable. The difficulty begins when wanting turns i
 
 [Sidgwick](https://www.gutenberg.org/files/46743/46743-h/46743-h.htm) argues that a predominant desire for pleasure can defeat its own aim. In his [Autobiography](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm), Mill describes finding happiness through commitments pursued for their own sake, rather than as devices for making himself happy. Caring about a good life need not mean treating everything in it as an instrument for producing a feeling.
 
-[Mauss and colleagues](https://pubmed.ncbi.nlm.nih.gov/21517168/) tested a narrower problem: valuing happiness could worsen responses to a happy situation through disappointment at one's own feelings. That finding does not show that pursuing flourishing defeats itself. It suggests a more useful distinction: choosing how to live need not mean demanding a particular emotional result from every moment.
+[Mauss and colleagues](https://pubmed.ncbi.nlm.nih.gov/21517168/) tested how valuing happiness could worsen responses to a happy situation through disappointment at one's own feelings. Their finding concerns emotional expectations in that setting. I would keep the broader question of how to live open, with room for worthwhile activities that bring mixed feelings.
 
 ### Which goods count, and who decides?
 
@@ -232,7 +232,7 @@ I would keep two questions open together: what must no person be denied, and wha
 
 17. [Mortality-to-action translation](https://clemvillatte.github.io/flourishing-compendium/#card=K316%20%E2%80%94%20Mortality-to-action%20translation): spend a few minutes considering the finitude of your life. Translate one thing it makes important into an action you can take this week.
 
-::Retention:: Keep what helps you live a value you care about, and make a place for it in ordinary life. The point is not to become accomplished at exercises, but to notice what you want to keep doing.
+::Retention:: Keep what helps you live a value you care about, and make a place for it in ordinary life. Review what the exercise changes in your daily actions and relationships before deciding whether to continue.
 
 ## Story: lives that make the question concrete
 
