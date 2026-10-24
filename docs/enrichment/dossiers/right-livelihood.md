@@ -129,6 +129,10 @@ The compendium holds right livelihood in narrative form too:
 
 [ST340 — Fukuoka Learns to Do Nothing](https://clemvillatte.github.io/flourishing-compendium/#card=ST340%20%E2%80%94%20Fukuoka%20Learns%20to%20Do%20Nothing): the customs-office microbiologist's hospital stay with pneumonia in 1937 changes his view of his own profession; he resigns his research post and returns to the family farm with a question: what happens if you stop?
 
+[ST290 — Job and the Whirlwind](https://clemvillatte.github.io/flourishing-compendium/#card=ST290%20%E2%80%94%20Job%20and%20the%20Whirlwind): Job, righteous and prosperous, suffers catastrophe after catastrophe; his three friends explain at length that his suffering is a punishment for his sin; God answers from the whirlwind with a speech that is questions, and the friends are rebuked for not speaking of God what is right.
+
+[ST064 — The Lute String](https://clemvillatte.github.io/flourishing-compendium/#card=ST064%20%E2%80%94%20The%20Lute%20String): Soṇa strains so hard in meditation that he considers giving up; the Buddha asks the former lute player whether strings sound best too tight or too slack, and says the energy is the same.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the drift into work that is only endured: the trade chosen for its wage and never revisited, the burnout read as a personal failing rather than a failed exchange, the rest postponed until it collapses into illness, and the having-mode relation to work in which the job is a possession to be guarded rather than a use of the person's faculties. The adaptive direction is the periodic revisiting of the livelihood against the floor and the growth standard: does the trade do harm, and does the work still grow the person doing it, with rest kept inside the rhythm rather than deferred.
@@ -162,6 +166,10 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 ### The livelihood redesigned
 
 [ST340 — Fukuoka Learns to Do Nothing](https://clemvillatte.github.io/flourishing-compendium/#card=ST340%20%E2%80%94%20Fukuoka%20Learns%20to%20Do%20Nothing): the customs-office microbiologist's hospital stay with pneumonia in 1937 changes his view of his own profession; he resigns his research post and returns to the family farm with a question: what happens if you stop?
+
+[ST290 — Job and the Whirlwind](https://clemvillatte.github.io/flourishing-compendium/#card=ST290%20%E2%80%94%20Job%20and%20the%20Whirlwind): Job, righteous and prosperous, suffers catastrophe after catastrophe; his three friends explain at length that his suffering is a punishment for his sin; God answers from the whirlwind with a speech that is questions, and the friends are rebuked for not speaking of God what is right.
+
+[ST064 — The Lute String](https://clemvillatte.github.io/flourishing-compendium/#card=ST064%20%E2%80%94%20The%20Lute%20String): Soṇa strains so hard in meditation that he considers giving up; the Buddha asks the former lute player whether strings sound best too tight or too slack, and says the energy is the same.
 
 [ST313 — Jane Goodall's Two Careers](https://clemvillatte.github.io/flourishing-compendium/#card=ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): arriving at Gombe in 1960 with no formal training, her discoveries redefine the boundary between human and animal; in 1986, seeing the scale of the destruction, she leaves fieldwork permanently and becomes an activist who travels roughly 300 days a year.
 
