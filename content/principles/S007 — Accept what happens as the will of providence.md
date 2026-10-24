@@ -26,7 +26,8 @@ His reason for acceptance is the belief that events belong to an ordered whole a
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the basin-drumming story (ST031) the page lists for acceptance after death.
-- [[T012 — Laozi]]: the Dao moves by reversal, Daodejing 40, beside the page's providence acceptance.## Stories
+- [[T012 — Laozi]]: the Dao moves by reversal, Daodejing 40, beside the page's providence acceptance.
+## Stories
 
 - [[ST031 — Zhuangzi Drums on a Basin|31. Zhuangzi Drums on a Basin]]
 - [[ST032 — The Skull by the Road|32. The Skull by the Road]]
@@ -47,7 +48,8 @@ His reason for acceptance is the belief that events belong to an ordered whole a
 - [[ST311 — Frankl's Why|311. Frankl's Why]]
 - [[ST321 — Bonanno's Resilience|321. Bonanno's Resilience]]
 - [[ST322 — Post-Traumatic Growth|322. Post-Traumatic Growth]]
-- [[T032 — Linehan, Marsha]]: radical acceptance, the DBT skill the page's acceptance list carries (Linehan, 1993).## Practice kernels
+- [[T032 — Linehan, Marsha]]: radical acceptance, the DBT skill the page's acceptance list carries (Linehan, 1993).
+## Practice kernels
 
 - [[K268 — Preferred-indifferent hierarchy|K268 Preferred-indifferent hierarchy]]
 - [[K273 — The view from above|K273 The view from above]]

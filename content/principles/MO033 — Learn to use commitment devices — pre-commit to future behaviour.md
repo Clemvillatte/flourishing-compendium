@@ -25,7 +25,8 @@ The same review distinguishes hard commitments, which "call for real economic pe
 ## Related concepts
 
 - [[T011 — Socrates]]: the examined-future parallel the page draws for pre-commitment.
-- [[T013 — Seneca]]: the Stoic pre-commitment line the page cites for commitment devices.## Sources
+- [[T013 — Seneca]]: the Stoic pre-commitment line the page cites for commitment devices.
+## Sources
 
 - [Bryan, G., Karlan, D., & Nelson, S. (2010). Commitment Devices. Annual Review of Economics, 2, 671–698 — full text reviewed from a publicly hosted copy of the article, quotes at hosted-copy PDF p. 2](http://houdekpetr.cz/!data/public_html/papers/economics_psychology/Bryan%20et%20al%202010.pdf) — the definition and the hard/soft distinction (soft-commitment wording paraphrased, not quoted)
 ## Psychology parallels

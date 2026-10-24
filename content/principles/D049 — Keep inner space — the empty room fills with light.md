@@ -31,7 +31,8 @@ Pick one morning a week, say Sunday, with nothing planned and the phone in anoth
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the fasting-of-the-mind passage (chapter 4) that gives the principle its empty-room image.
-- [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).## Sources
+- [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).
+## Sources
 
 - Zhuangzi, ch. 4, trans. James Legge, *The Texts of Taoism* (Sacred Books of the East, vol. 39, 1891), online edition: [100jia.net](http://www.100jia.net/texte/zhuangzi/zhuangzilegge1.htm)
 

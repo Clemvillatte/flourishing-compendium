@@ -26,7 +26,8 @@ On this evidence the ally is partly a matter of address. Using one's own name or
 ## Related concepts
 
 - [[T011 — Socrates]]: the daimon the Apology describes, the page's inner-voice exemplar.
-- [[T013 — Seneca]]: the inner-friend letters behind the page's Stoic line.## Sources
+- [[T013 — Seneca]]: the inner-friend letters behind the page's Stoic line.
+## Sources
 
 - [Kross, E., Bruehlman-Senecal, E., Park, J., Burson, A., Dougherty, A., Shablack, H., Bremner, R. H., Moser, J. S., & Ayduk, O. (2014). Self-talk as a regulatory mechanism: How you do it matters. Journal of Personality and Social Psychology, 106(2), 304-324](https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2024/07/KrossJ_Pers_Soc_Psychol2014Self-talk_as_a_regulatory_mechanism_How_you_do_it_matters.pdf) — abstract conclusion, p. 304
 

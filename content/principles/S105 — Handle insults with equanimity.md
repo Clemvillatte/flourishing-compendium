@@ -27,7 +27,8 @@ On his account the provocation is an appearance, and the wound is supplied by th
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the empty-boat reflection the page cites for equanimity under insult.
-- [[T013 — Seneca]]: De Ira III, the insult passages in the page's citations.## Sources
+- [[T013 — Seneca]]: De Ira III, the insult passages in the page's citations.
+## Sources
 
 - [Epictetus, The Enchiridion, translated by Elizabeth Carter, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html) — chapter 20
 

@@ -29,7 +29,8 @@ Seneca's advice is about timing: reject straightway the first incentives to ange
 ## Related concepts
 
 - [[T013 — Seneca]]: the anger-as-short-madness characterisation the page opens with.
-- [[T032 — Linehan, Marsha]]: the DBT emotion-modulation module the page cites for passion regulation (Linehan, 1993).## Sources
+- [[T032 — Linehan, Marsha]]: the DBT emotion-modulation module the page cites for passion regulation (Linehan, 1993).
+## Sources
 
 - [Seneca, Of Anger, Book I (Aubrey Stewart translation, Wikisource)](https://en.wikisource.org/wiki/Of_Anger/Book_I) — I.1, I.8
 - [Stoicism, Internet Encyclopedia of Philosophy, section 4](https://iep.utm.edu/stoicism/)

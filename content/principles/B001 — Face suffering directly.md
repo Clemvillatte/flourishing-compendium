@@ -28,7 +28,8 @@ Pick a difficulty you are experiencing. Put into words what happened and what is
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the basin-drumming story (ST031) the page uses for grief met directly rather than denied.
-- [[T011 — Socrates]]: the Crito refusal the page's story carries (ST141), the examined life at Apology 38a.## Stories
+- [[T011 — Socrates]]: the Crito refusal the page's story carries (ST141), the examined life at Apology 38a.
+## Stories
 
 - [[ST012 — The Fish on Dry Land|12. The Fish on Dry Land]]
 - [[ST018 — The Swimmer at Lüliang Falls|18. The Swimmer at Lüliang Falls]]

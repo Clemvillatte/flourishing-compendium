@@ -27,7 +27,8 @@ As an everyday illustration: "I have all Saturday to write" — and Saturday pro
 ## Related concepts
 
 - [[T011 — Socrates]]: the examined-life-requires-protected-time parallel the page draws.
-- [[T037 — Weil, Simone]]: the discipline of attention from Waiting for God the page's protection line cites.## Sources
+- [[T037 — Weil, Simone]]: the discipline of attention from Waiting for God the page's protection line cites.
+## Sources
 
 - [Killingsworth & Gilbert 2010, A wandering mind is an unhappy mind, Science 330:932, full text PDF](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf) — experience-sampling study of 2,250 adults; mind wandering in 46.9% of samples; mind-wandering a stronger predictor of happiness than activity; time-lag analyses suggested mind wandering was generally the cause, not merely the consequence, of unhappiness.
 

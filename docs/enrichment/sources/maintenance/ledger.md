@@ -297,3 +297,13 @@ flu-vaccination refusal), indirect restoration routes, choice-enhancing
 language, two-option finding, restoration-postscript mixed evidence
 (stated honestly in the page). Plain-words paragraph added before the
 blockquotes. Validator: page passes.
+
+2026-10-24 06:06Z, worker-pplx-t2c-1024e: routed prose-floor check - all five
+routed items (Physician heal thyself, Psychological reactance, Daily
+self-examination, Judging by where one rests, Experiential avoidance
+theory) now pass the validator (reactance topped up this pass; the other
+four were already resolved). FULL-WIKI glued-header sweep: 58 more pages
+carried the mid-line "## " defect (53 content/principles/ - mostly the
+Stoic S-series - and 5 content/kernels/); one-line newline insertion
+each, no text changes; all 58 validate clean. Wiki-wide scan now reports
+zero glued headers across content/.

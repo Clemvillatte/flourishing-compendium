@@ -28,7 +28,8 @@ Suppose you enter a conversation sure you know what the other person will say. F
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the fasting-of-the-mind dialogue (Yan Hui and Zhongni) the page is built around.
-- [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).## Sources
+- [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).
+## Sources
 
 - [Zhuangzi, Chapter 4, the fasting of the mind dialogue (Yan Hui and Zhongni), Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — spirit free from pre-occupation; the empty apartment image
 

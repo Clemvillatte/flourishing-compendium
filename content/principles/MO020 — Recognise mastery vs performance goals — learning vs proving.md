@@ -27,7 +27,8 @@ Two students face the same exam. One thinks, "I want to understand this unit wel
 ## Related concepts
 
 - [[T011 — Socrates]]: the examined-life-is-learning parallel the page draws.
-- [[T034 — Dweck, Carol]]: the achievement-goal framework the page's mastery line is built on (with Elliot).## Sources
+- [[T034 — Dweck, Carol]]: the achievement-goal framework the page's mastery line is built on (with Elliot).
+## Sources
 
 - [Elliot and McGregor, A 2 x 2 achievement goal framework, JPSP 80 (2001), 501-519, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11300582/): abstract only
 - [Adie, Duda and Ntoumanis, Achievement goals, competition appraisals, and the well- and ill-being of elite youth soccer players over two competitive seasons, Journal of Sport and Exercise Psychology 32 (2010), 555-579, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/20733213/): abstract only

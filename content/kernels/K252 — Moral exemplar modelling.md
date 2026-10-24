@@ -34,7 +34,8 @@ The [Moral Exemplars module at LibreTexts](https://biz.libretexts.org/Bookshelve
 - [[Role model research]] — the empirical study of who models whom, and with what effect.
 - [[Social learning theory (Bandura)]] — the parent theory: behaviour spreads through observed models.
 - [[Exemplarism]] — Zagzebski's theory that the good person, not the rule, is the starting point of ethics; this kernel is its practice.
-- [[T033 — Haidt, Jonathan]]: the other-praising emotions study the page's engine cites (Algoe and Haidt, 2009).## Related kernels
+- [[T033 — Haidt, Jonathan]]: the other-praising emotions study the page's engine cites (Algoe and Haidt, 2009).
+## Related kernels
 
 - [[K250 — Virtue rehearsal]]
 - [[K254 — Character feedback loop]]

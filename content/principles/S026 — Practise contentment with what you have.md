@@ -31,7 +31,8 @@ Someone opens the cupboard, finds one ingredient short of the planned recipe, an
 ## Related concepts
 
 - [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
-- [[T013 — Seneca]]: the Letter 9 guard the page quotes, able to do without friends without wanting to.## Psychology parallels
+- [[T013 — Seneca]]: the Letter 9 guard the page quotes, able to do without friends without wanting to.
+## Psychology parallels
 
 - **[[Gratitude|Gratitude research]]**, gratitude for what one has predicts well-being (Emmons and McCullough, 2003)
 - **[[Sufficiency|Sufficiency and simple living]]** (Brown and Kasser, 2005)

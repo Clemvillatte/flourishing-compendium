@@ -39,7 +39,8 @@ Zhuangzi's butterfly leaves a question open:
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the chapter 2 argument the page pairs with DDJ 71 for resting in unknowing.
-- [[T012 — Laozi]]: Daodejing 71, the knowing-what-you-do-not-know chapter the page cites.## Sources
+- [[T012 — Laozi]]: Daodejing 71, the knowing-what-you-do-not-know chapter the page cites.
+## Sources
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): chapter 71
 - [Zhuangzi ch. 2 (tr. James Legge, 1891), METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf): the butterfly dream

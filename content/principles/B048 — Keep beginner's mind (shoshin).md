@@ -27,7 +27,8 @@ The excerpt ties shoshin to not-attaining: "In the beginner's mind there is no t
 ## Related concepts
 
 - [[D013]] — cross-tradition pair: the valley-mind and shoshin are both receptive postures that trade status for information
-- [[T034 — Dweck, Carol]]: the growth-mindset persistence evidence the page cites (Dweck, 2006).## Sources
+- [[T034 — Dweck, Carol]]: the growth-mindset persistence evidence the page cites (Dweck, 2006).
+## Sources
 
 - [Shunryu Suzuki, Zen Mind, Beginner's Mind, book excerpt, Spirituality & Practice](https://www.spiritualityandpractice.com/book-reviews/excerpts/view/13806)
 

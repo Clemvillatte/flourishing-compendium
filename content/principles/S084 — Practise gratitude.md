@@ -31,7 +31,8 @@ Once a week, write down one person and one concrete thing they did for you, as M
 ## Related concepts
 
 - [[T012 — Laozi]]: the know-what-is-enough teaching (Daodejing 44) the page lists.
-- [[T013 — Seneca]]: Letters 9 and 31, cited at second hand in the page's sources.## Sources
+- [[T013 — Seneca]]: Letters 9 and 31, cited at second hand in the page's sources.
+## Sources
 
 - [Marcus Aurelius, Meditations Book 1 (Long), MIT Classics Archive](https://classics.mit.edu/Antoninus/meditations.1.one.html)
 - [Meta-analysis of gratitude interventions across cultures, PNAS](https://www.pnas.org/doi/10.1073/pnas.2425193122)

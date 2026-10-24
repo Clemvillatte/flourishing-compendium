@@ -31,7 +31,8 @@ Sutra 1.35 offers one way to steady the mind: "Or [he gains stability when] a se
 ## Related concepts
 
 - [[T012 — Laozi]]: the stillness-under-turbulence teaching (Daodejing 15) the page lists.
-- [[T032 — Linehan, Marsha]]: urge surfing in the page's riding-out list (Marlatt; Linehan, DBT skills).## Sources
+- [[T032 — Linehan, Marsha]]: urge surfing in the page's riding-out list (Marlatt; Linehan, DBT skills).
+## Sources
 
 - [Arnold, The Song Celestial, Project Gutenberg](https://www.gutenberg.org/ebooks/2388) — chapter 6
 - [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 34-35, 72

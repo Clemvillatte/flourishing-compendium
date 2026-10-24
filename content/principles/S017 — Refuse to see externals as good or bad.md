@@ -29,7 +29,8 @@ For the psychology, Sahdra, Shaver and Brown describe nonattachment as "based on
 ## Related concepts
 
 - [[T011 — Socrates]]: the exemplar Epictetus's formulation leans on, the page's source.
-- [[T012 — Laozi]]: the distrust of names, Daodejing 1, beside the page's indifferents.## Sources
+- [[T012 — Laozi]]: the distrust of names, Daodejing 1, beside the page's indifferents.
+## Sources
 
 - [Epictetus, Enchiridion (trans. E. Carter), sections 1, 5, 32](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, page opened
 - [Stanford Encyclopedia of Philosophy, "Stoicism"](https://plato.stanford.edu/entries/stoicism/) — sections on value and indifferents opened

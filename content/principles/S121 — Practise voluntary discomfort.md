@@ -29,7 +29,8 @@ The passage opened here covers poor food and coarse dress, which is the practice
 ## Related concepts
 
 - [[T012 — Laozi]]: the subtract-don't-add teaching (Daodejing 48) the page lists.
-- [[T013 — Seneca]]: the periodic poverty rehearsal the page's discomfort practice comes from (Letter 18).## Psychology parallels
+- [[T013 — Seneca]]: the periodic poverty rehearsal the page's discomfort practice comes from (Letter 18).
+## Psychology parallels
 
 - **[[Hormetic exposure research|Hormetic exposure research]]**, mild stressors trigger adaptive responses (Mattson, 2008)
 - **[[Exposure therapy (Foa, Craske)|Exposure therapy principles]]** (Foa and McLean, 2016)

@@ -57,7 +57,8 @@ Meditation-bell apps can sound a bell at set intervals; the practice itself need
 - [[Dispositional mindfulness]] — the trait the repeated bells train toward.
 - [[Mindfulness]] — the broader capacity the practice returns you to.
 - [[Habit formation]] — the automaticity the bell is set inside.
-- [[T035 — Thich Nhat Hanh]]: the classical bell verses from his tradition the kernel's practice draws on.## Limits
+- [[T035 — Thich Nhat Hanh]]: the classical bell verses from his tradition the kernel's practice draws on.
+## Limits
 
 - Pick a few, not all. Turning every activity into a bell becomes a new standard to fail.
 

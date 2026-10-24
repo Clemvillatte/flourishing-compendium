@@ -25,7 +25,8 @@ Kasser and Ryan (1993) found that when financial success was relatively central 
 ## Related concepts
 
 - [[T012 — Laozi]]: the needing-versus-wanting teaching cited alongside Seneca and Epicurus.
-- [[T013 — Seneca]]: the Letter 2 limit the page quotes, necessary first, enough second.## Sources
+- [[T013 — Seneca]]: the Letter 2 limit the page quotes, necessary first, enough second.
+## Sources
 
 - [Epictetus, Enchiridion (Carter), Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html)
 - [Seneca, Letter 2 (Gummere), Standard Ebooks](https://standardebooks.org/ebooks/seneca/moral-letters-to-lucilius/richard-m-gummere/text/letter-2)

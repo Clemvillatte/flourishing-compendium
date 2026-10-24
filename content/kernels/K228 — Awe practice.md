@@ -48,7 +48,8 @@ No guided version is supplied here.
 - [[Self-transcendence]]
 - [[Collective effervescence theory Durkheim]]
 - [[Psychological richness]]
-- [[T033 — Haidt, Jonathan]]: the vastness-and-accommodation appraisals the awe walk builds on (with Keltner).## Related kernels
+- [[T033 — Haidt, Jonathan]]: the vastness-and-accommodation appraisals the awe walk builds on (with Keltner).
+## Related kernels
 
 - [[K107 — Soft fascination]]
 - [[K205 — Nature exposure]]

@@ -35,7 +35,8 @@ Before a difficult conversation, set an intention to let the other person finish
 - [[T011 — Socrates]]: the examined-life grounding (Apology 38a) for the page's morning intention and evening review.
 
 - [[S120]] — B192 pairs morning intention with evening review; S120 adapts Seneca's daily-review practice for the evening.
-- [[T013 — Seneca]]: the daily-review practice the page's evening half runs on (S120).## Sources
+- [[T013 — Seneca]]: the daily-review practice the page's evening half runs on (S120).
+## Sources
 
 - [MN 61, Ambalatthika-rahulovada Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html) — training formula quoted verbatim; before/during/after reflection paraphrased
 - [Dhammapada 239, Acharya Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html) — smith-and-dross verse paraphrased

@@ -31,7 +31,8 @@ The veteran teacher who still watches students with fresh eyes catches what the 
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the fasting of the mind (Zhuangzi 4) the page names for waiting on things free of pre-occupation.
-- [[T034 — Dweck, Carol]]: the malleable-ability beliefs the page's openness cites (Dweck, 2006).## Sources
+- [[T034 — Dweck, Carol]]: the malleable-ability beliefs the page's openness cites (Dweck, 2006).
+## Sources
 
 - [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 11, 71
 - [Zhuangzi, James Legge translation (1891), METIS English Classics, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 4, the fasting of the mind (PDF page 18)

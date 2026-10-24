@@ -31,7 +31,8 @@ Each year on the anniversary, spend ten minutes telling someone a story about th
 ## Related concepts
 
 - [[T012 — Laozi]]: the return-to-the-root teaching (Daodejing 16) the page lists.
-- [[T013 — Seneca]]: the Letter 63 lines on weeping without wailing that set the page's limit.## Sources
+- [[T013 — Seneca]]: the Letter 63 lines on weeping without wailing that set the page's limit.
+## Sources
 
 - [Seneca, Letter 63 (Gummere), Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_63)
 - [Seneca, Letter 99 (Gummere), Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_99)

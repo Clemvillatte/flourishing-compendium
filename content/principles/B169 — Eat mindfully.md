@@ -36,7 +36,8 @@ For example: Someone eats the same breakfast on two mornings, once over a keyboa
 ## Related concepts
 
 - [[Interbeing]] — attending to the conditions, living beings and labour that make a meal possible.
-- [[T035 — Thich Nhat Hanh]]: the mindful-meal lines the page quotes, eating in touch with abundance.## Psychology parallels
+- [[T035 — Thich Nhat Hanh]]: the mindful-meal lines the page quotes, eating in touch with abundance.
+## Psychology parallels
 
 - **Mindful eating interventions** (Warren et al., 2017)
 

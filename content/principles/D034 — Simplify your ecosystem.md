@@ -27,7 +27,8 @@ Look at something you keep but seldom use. Would you choose it again today? Try 
 - [[T011 — Socrates]]: the examined-life-stripped-to-essentials parallel (Apology 38a) the page draws.
 
 - [[D035]] — both principles draw on DDJ 80's small-state image: D034 the simplifying, D035 the bound-keeping
-- [[T013 — Seneca]]: the crowd counsel the page's story carries (ST218).## Sources
+- [[T013 — Seneca]]: the crowd counsel the page's story carries (ST218).
+## Sources
 
 - [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 80
 

@@ -49,7 +49,8 @@ Practises the concept: [[Radical acceptance|Radical acceptance]]
 - [[Radical acceptance]] — the concept page for this skill
 - [[Acceptance and Commitment Therapy]] — the cousin tradition with its own acceptance work
 - [[Dialectical behaviour therapy, emotion modulation]] — the treatment the skill comes from
-- [[T032 — Linehan, Marsha]]: the skill's source, adapted from her DBT skills handouts.## Related kernels
+- [[T032 — Linehan, Marsha]]: the skill's source, adapted from her DBT skills handouts.
+## Related kernels
 
 1. [[K115 — Willingness practice|K115 Willingness practice]] — the adjacent DBT skill
 2. [[K319 — Non-avoidant grief work|K319 Non-avoidant grief work]] — staying with the loss this skill faces
