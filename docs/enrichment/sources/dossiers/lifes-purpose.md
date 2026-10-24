@@ -236,3 +236,40 @@ not opened. All of them were downloaded and substring-checked:
 dossier_check.py: 67 card links resolve, 19 headers, 19 external carriers,
 exit 0. Every quoted passage on the page is now verified against a
 downloaded or rendered carrier by this session.
+
+## Revision 3 (merge of the two concurrent dos6 sessions, worker-pplx-dos6-1024d)
+
+The band ran two concurrent sessions; origin's revision 2 (goals subtheme,
+Intergenerational responsibility, The eternal contribution, second divergence,
+kernels K151/K225/K231/K316, exclusions line, its own Stories section) and
+this session's QC round were merged into one dossier, origin's version taken
+as the base. This session's contributions added in the merge:
+- Map: Mattering, Existential mattering, Noogenic neurosis, Attitudinal
+  values, Tragic optimism (+ quote, fabian.ca excerpt verified this session),
+  Post-traumatic growth, Right livelihood, Life story model, The narrative
+  fallacy, The call of conscience, Nihilism, Boundary situations (+ Jaspers
+  quote, epimelea carrier verified this session), Park's two model quotes
+  (EHP, fetched via the fetch tool), Steger's comprehension pillar quote (OUP,
+  fetched via the fetch tool).
+- Practice: K313 and K332 added to Selection; evidence-limits sentence
+  extended. K313 gloss rewritten against its card after an earlier draft
+  wrongly credited Wrzesniewski and Cameron (caught before push).
+- Stories: six loglines added (ST005, ST312, ST280, ST277, ST278, ST294),
+  all cards opened and read this session; the concurrent session's loglines
+  kept as pushed.
+- Yeager entry: "adolescents and young adults" restored, p. 560 locator,
+  label corrected to Primary text (body text).
+- The Nietzsche saying line ("Everything serves a purpose") REMOVED: the
+  saying card attributes it to Nietzsche's Genealogy of Morals, and the full
+  Gutenberg text of the Genealogy (ebook 52319, Horne translation,
+  downloaded and searched this session) contains neither the sentence nor a
+  near variant. FLAG for the supervisor: the saying card's attribution needs
+  a carrier or a correction.
+- Divergence 1 closing paragraph reframed (no longer asserts the cards
+  "cite each other's territory without yielding").
+- Quote labels normalised to the exemplar form (" — Primary text; quoted
+  passages checked.").
+- The three quotes the concurrent session added (Aristotle NE I.7 Ross,
+  Frankl "true meaning of life", Kelly personal constructs) were re-verified
+  this session against freshly downloaded carriers (MIT Classics, the
+  antilogicalism PDF, the infoamerica PDF): all three PASS.
