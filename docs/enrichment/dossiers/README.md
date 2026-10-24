@@ -107,7 +107,11 @@ Academy, as a Dossiers view beside MORE VIDEOS and DISCOVERY. That view is
 wired (site/assets/app.js, window.fcDossiersData + renderers) and verified
 live in a browser on the Pages deploy: tab, grid, detail, quotes with
 attributions, card links opening wiki cards, back navigation. The markdown of
-record for each dossier stays in this folder; the view's data is generated
-from the markdown by scripts/dossier_build.py (deterministic conversion,
-re-run whenever the markdown changes), and the detail view carries a sticky
-side table of contents built from the headers.
+record for each dossier stays in this folder; the view's data is compiled
+from the registry and the published markdown by
+scripts/dossier_registry_build.py (deterministic, read-only with respect to
+the markdown; use `--rebuild=<slug>` for a revision to an already-published
+dossier). Do NOT run scripts/dossier_build.py just to refresh view data —
+it regenerates the markdown and can overwrite hand-polished glosses — and
+the detail view carries a sticky side table of contents built from the
+headers.

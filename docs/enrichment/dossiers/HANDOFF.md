@@ -113,9 +113,14 @@ format) and set a new standard. Verbatim substance, do not lose it:
   the markdown of record (python3 scripts/dossier_build.py writes
   markdown AND data together; or re-splice just the data). Two restores
   were needed on 2026-10-23 because merges kept dropping it.
-  Remaining verification gap: live-browser check of the deployed view
-  (sticky TOC, vs blocks, card links) was done by asset fetch + DOM-stub
-  render test, not a real browser pass.
+  2026-10-24 UPDATE: the current compile path for view data is
+  scripts/dossier_registry_build.py (registry + published markdown ->
+  fcDossiersData; read-only with respect to markdown; `--rebuild=<slug>`
+  for revisions). app.js itself is SUPERVISOR-ONLY for dossier workers —
+  if it conflicts, hand it to the supervisor rather than regenerating.
+  (Verification gap CLOSED 2026-10-24: real cloud-browser passes on the
+  Pages deploy — grid, filters, detail, roadmap, narrow viewport — see
+  the session records in handoff.md.)
 
 ## Corpus survey (done 2026-10-23, from titles)
 
