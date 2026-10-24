@@ -43,3 +43,6 @@ Self · Psychological science
 [[BE004 — Understand that behaviour is learned — skills can be acquired]]
 [[SE001 — Understand that the self is constructed, not discovered]]
 [[CO006 — Recognise that thinking is socially distributed — you think with others]]
+
+## Related concepts
+- [[T032 — Linehan, Marsha]]: the theory's author, whose treatment the concept explains.

@@ -37,8 +37,7 @@ Seneca stages the same point as a taunt addressed to pain in person:
 ## Related concepts
 
 - [[T013 — Seneca]]: the Letters 24, 67 and 78 citations the page carries.
-
-## Sources
+- [[T032 — Linehan, Marsha]]: radical acceptance in the page's acceptance list (Linehan, 1993).## Sources
 
 - [Marcus Aurelius, Meditations (tr. Meric Casaubon), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm): the measure of pain (Book VII.22 in this edition) and the Epicurus line (Book VII.35 in this edition)
 - [Seneca, Letters 24 (On Despising Death), SenecaLetters.com](https://senecaletters.com/en/letters/24): the taunt to pain personified (24.14)

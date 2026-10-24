@@ -31,7 +31,7 @@ BE021 "Learn to use behavioural rehearsal: practise before performing" carries t
 - [[Behavioral experiments in CBT]] — testing predictions through action, a different practice format
 - [[Graded exposure systematic desensitisation (Wolpe)]] — approaching feared situations in graded steps, a different practice format
 - [[Behavior analysis]] — the parent tradition supplying the reinforcement logic
-
+- [[T032 — Linehan, Marsha]]: the DBT skills-training format the concept belongs to.
 ## Sources
 
 - [Cowperthwait, Wyatt, Fang & Neacsiu, "Skills Training in DBT: Principles and Practicalities," The Oxford Handbook of Dialectical Behaviour Therapy (2018), pp. 167-200](https://academic.oup.com/edited-volume/38169/chapter/333009837) — behavioral rehearsal in DBT and the skills-group evidence

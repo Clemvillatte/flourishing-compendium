@@ -43,7 +43,7 @@ Several principles treat shame, and they come from different traditions. SE030 (
 - [[SE031]] — A principle on releasing past wrongs after acknowledgement and amends
 - [[SE026]] — A principle on suffering as shared human material rather than a private defect
 - [[Self-conscious emotions]] — the family's global-attribution member: feeling bad about the self rather than a deed
-## Sources
+- [[T032 — Linehan, Marsha]]: the Rizvi and Linehan pilot the page's opposite-action line cites.## Sources
 
 - [Tangney, Stuewig & Mashek (2007), "Moral emotions and moral behavior", Annual Review of Psychology 58, 345-372 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/) — definitions, action tendencies, qualifications
 

@@ -42,3 +42,6 @@ Suppose someone's sense of self feels persistently fragmented to them, beyond or
 ## Practice
 
 - If your sense of self is persistently fragmented, unstable, or incoherent (not just exploring, but unable to maintain a coherent self), seek professional evaluation. This is a clinical pattern.
+
+## Related concepts
+- [[T032 — Linehan, Marsha]]: the professional-treatment boundary the page marks (Linehan, 1993).

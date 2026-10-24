@@ -44,3 +44,6 @@ Cold water on the face is a specific technique with specific instructions: a bow
 ## Practice
 
 - For acute distress, the handout's version: holding your breath, face in a bowl of cold water or a cold pack on the eyes and cheeks, thirty seconds, water above 50°F, stopping at discomfort. Check the caution list first (heart or medical condition, lowered heart rate from medications, beta-blockers, cold allergy, eating disorder) ([Linehan, 2015](https://www.wesleyan.edu/caps/CAPS%20at%20Home/Crisis%20Survival%20Skills%20Handout.pdf)).
+
+## Related concepts
+- [[T032 — Linehan, Marsha]]: the DBT cold-water skill the page's cold-exposure practice descends from (Linehan, 1993).

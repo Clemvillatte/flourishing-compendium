@@ -40,3 +40,6 @@ Pick one sentence you have been avoiding saying, and write it in the form: what 
 ## Practice
 
 - Practise assertiveness: express needs directly ("I need..."), set boundaries ("I cannot..."), say no without over-explaining. Be respectful of both self and other. Do not be passive or aggressive.
+
+## Related concepts
+- [[T032 — Linehan, Marsha]]: the assertiveness-training evidence the page cites (Speed, Linehan).

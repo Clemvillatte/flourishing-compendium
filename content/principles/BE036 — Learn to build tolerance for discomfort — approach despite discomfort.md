@@ -40,3 +40,6 @@ Note the structure of the claim: the brave person is not the one without fear. T
 ## Practice
 
 - Practise acting despite discomfort on a chosen, worthwhile action whose discomfort is manageable: fear, fatigue, or shame present, the action proceeds alongside it. Do not wait for comfort; do not treat the passage as a licence to override every feeling.
+
+## Related concepts
+- [[T032 — Linehan, Marsha]]: the distress-tolerance module the page's approach-despite-discomfort skill trains (Linehan, 1993).

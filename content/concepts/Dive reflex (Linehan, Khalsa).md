@@ -29,8 +29,7 @@ The original entry's citation is Linehan (1993), and the technique appears in DB
 - [[Autonomic nervous system (sympathetic vs parasympathetic)]] — the system the reflex rides on
 - [[Parasympathetic activation]] — the vagal side of the switch
 - [[Polyvagal theory (Porges)]] — a neighboring account of the vagus
-
-## Sources
+- [[T032 — Linehan, Marsha]]: the co-author of the review the concept draws on.## Sources
 
 - Lundstrom, A., Karlsson, M., Rydberg, A., and Wiklund, U., "Assessment of arrhythmias and heart rate response in healthy adolescents performing face immersion and body submersion in ice-cold water", Physiological Reports 13, e70430, 2025 — [PMC12234767](https://pmc.ncbi.nlm.nih.gov/articles/PMC12234767/)
 - Konishi, M., et al., "Diurnal variation in the diving bradycardia response in young men", Clinical Autonomic Research 26(2), 2016, pp. 135-140 — [PubMed 26795189](https://pubmed.ncbi.nlm.nih.gov/26795189/)

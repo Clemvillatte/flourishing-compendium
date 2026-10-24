@@ -38,3 +38,6 @@ For example: during a late-evening panic spiral, someone holds a cold, damp clot
 ## Practice
 
 - As a compendium exercise: for an acute distress spike, splash cold water on your face or hold a cold pack to your eyes and cheeks for up to half a minute. Use it for crises, not everyday regulation.
+
+## Related concepts
+- [[T032 — Linehan, Marsha]]: the cold-water distress-tolerance skill the page teaches (Linehan, 1993).

@@ -39,8 +39,7 @@ Marcus gives the cosmology behind it:
 ## Related concepts
 
 - [[T013 — Seneca]]: the On Providence citation the page carries.
-
-## Sources
+- [[T032 — Linehan, Marsha]]: radical acceptance, the DBT form of the page's wanting (Linehan, 1993).## Sources
 
 - [Epictetus, Enchiridion 8 (tr. Higginson), Project Gutenberg](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm): the demand and the wish
 - [Epictetus, Discourses I.12 (tr. Higginson), Wikisource](https://en.wikisource.org/wiki/The_Works_of_Epictetus,_His_Discourses,_in_Four_Books,_the_Enchiridion,_and_Fragments/Book_1/Chapter_12): learning to desire that things happen as they do

@@ -27,8 +27,7 @@ Clinical Psychodynamic · Psychological science
 
 - [[Attachment theory]] — the developmental account of the safe-attachment need the first domain tracks
 - [[Mattering]] — the felt sense of counting that unmet belonging needs erode
-
-## Sources
+- [[T032 — Linehan, Marsha]]: the DBT comparison the page's modes discussion stands beside.## Sources
 
 - Wikipedia, "Schema therapy" (quoting Young, Klosko & Weishaar 2003): https://en.wikipedia.org/wiki/Schema_therapy
 - Young, Klosko & Weishaar, Schema Therapy: A Practitioner's Guide, Guilford, 2003

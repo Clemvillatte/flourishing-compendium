@@ -71,3 +71,6 @@ A delayed flight: say the fact once ("I will not make the connection"), feel the
 - [[B001 — Face suffering directly]]
 - [[B003 — Hold the self lightly (anatta)]]
 - [[P155 — Make workability your everyday criterion]]
+
+## Related concepts
+- [[T032 — Linehan, Marsha]]: the term's coiner, from dialectical behaviour therapy.

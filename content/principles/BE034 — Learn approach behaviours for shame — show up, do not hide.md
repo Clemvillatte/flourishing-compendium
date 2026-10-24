@@ -40,3 +40,6 @@ When shame arrives, the usual pull is to hide, though one pair of studies found 
 ## Practice
 
 - When ashamed, do not obey the urge to hide. Show up: be seen, disclose appropriately to safe others, do not conceal. Shame thrives in secrecy; it diminishes in the light.
+
+## Related concepts
+- [[T032 — Linehan, Marsha]]: the Rizvi and Linehan shame pilot the page's opposite-action skill comes from.

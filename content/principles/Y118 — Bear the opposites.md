@@ -48,3 +48,6 @@ Someone gets used to waiting out the urge to check their phone and to walking in
 
 - [Bhagavad Gita 2.14, Swami Mukundananda, holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/2/verse/14/)
 - [Vivekachudamani verse 24, trans. Swami Madhavananda, Wisdom Library](https://www.wisdomlib.org/hinduism/book/vivekachudamani/d/doc144472.html)
+
+## Related concepts
+- [[T032 — Linehan, Marsha]]: the distress-tolerance training the page's bearing evidence comes from (Linehan, 1993).

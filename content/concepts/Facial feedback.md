@@ -29,8 +29,7 @@ The later Many Smiles Collaboration study, a "preregistered, multicentre study" 
 - [[Embodiment]] — the research programme the hypothesis belongs to
 - [[Embodied emotion theory]] — the broader claim that body states constitute feeling
 - [[Dive reflex (Linehan, Khalsa)]] — another body-based regulation technique in the compendium
-
-## Sources
+- [[T032 — Linehan, Marsha]]: the DBT dive-reflex skill the page lists beside facial feedback.## Sources
 
 - Strack, F., Martin, L. L., and Stepper, S., "Inhibiting and facilitating conditions of the human smile: a nonobtrusive test of the facial feedback hypothesis", Journal of Personality and Social Psychology 54(5), 1988, pp. 768-777 — [PubMed 3379579](https://pubmed.ncbi.nlm.nih.gov/3379579/) (abstract verified via PubMed)
 - Wagenmakers, E.-J., et al., "Registered Replication Report: Strack, Martin, & Stepper (1988)", Perspectives on Psychological Science 11(6), 2016, pp. 917-928 — [PubMed 27784749](https://pubmed.ncbi.nlm.nih.gov/27784749/) (abstract verified via PubMed)

@@ -39,8 +39,7 @@ Not applicable: the practice is a facial posture held in life, not a recording.
 - [[Distress tolerance (DBT)]]
 - [[Acceptance]]
 - [[DBT Biosocial Theory]]
-
-## Related kernels
+- [[T032 — Linehan, Marsha]]: the DBT distress-tolerance technique the kernel teaches (Linehan's skills training manual).## Related kernels
 
 - [[K116 — Urge surfing]]
 - [[K113 — Transition pause]]

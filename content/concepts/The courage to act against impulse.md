@@ -39,8 +39,7 @@ The compendium applies the heading to the emotional impulses of ordinary life, n
 - [[Anger]]
 - [[Forgiveness]]
 - [[Svadharma, one's own duty]] — the Gita's own duty, kept even when performed imperfectly
-
-## Sources
+- [[T032 — Linehan, Marsha]]: the opposite-action definition the page's courage builds on.## Sources
 
 - [Kant, Fundamental Principles of the Metaphysic of Morals, trans. Thomas Kingsmill Abbott, Project Gutenberg #5682](https://www.gutenberg.org/files/5682/5682-h/5682-h.htm) — the good-will, maxim, and unfortunate-man passages, opened and quoted verbatim
 - Kant, Groundwork

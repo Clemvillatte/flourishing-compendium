@@ -32,8 +32,7 @@ When a self-problem is persistent and impairing, the compendium's practical advi
 ## Related concepts
 
 - [[T011 — Socrates]]: the examined-life grounding the page gives for knowing when to seek evaluation.
-
-## Sources
+- [[T032 — Linehan, Marsha]]: among the evidence-based treatments the page lists for self-related disorders (Linehan, 1993).## Sources
 
 - [World Health Organization, Depression fact sheet](https://www.who.int/news-room/fact-sheets/detail/depression) — depressive episode symptoms
 

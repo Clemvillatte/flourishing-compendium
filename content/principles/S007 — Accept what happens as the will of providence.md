@@ -47,7 +47,7 @@ His reason for acceptance is the belief that events belong to an ordered whole a
 - [[ST311 — Frankl's Why|311. Frankl's Why]]
 - [[ST321 — Bonanno's Resilience|321. Bonanno's Resilience]]
 - [[ST322 — Post-Traumatic Growth|322. Post-Traumatic Growth]]
-## Practice kernels
+- [[T032 — Linehan, Marsha]]: radical acceptance, the DBT skill the page's acceptance list carries (Linehan, 1993).## Practice kernels
 
 - [[K268 — Preferred-indifferent hierarchy|K268 Preferred-indifferent hierarchy]]
 - [[K273 — The view from above|K273 The view from above]]
