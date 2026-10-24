@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Meaning — the sense that life is about something: purpose, coherence, and mattering. Frankl made it the primary human drive; the traditions converge on meaning as made through work, love, and the stance taken toward suffering.
 
-Viktor Frankl survived the camps and built a psychology around the claim that meaning is a primary human need, not a luxury that arrives after comfort. He set his term against the two psychologies he knew best:
+[[T019 — Frankl, Viktor|Viktor Frankl]] survived the camps and built a psychology around the claim that meaning is a primary human need, not a luxury that arrives after comfort. He set his term against the two psychologies he knew best:
 
 > That is why I speak of a will to meaning in contrast to the pleasure principle (or, as we could also term it, the will to pleasure) on which Freudian psychoanalysis is cantered, as well as in contrast to the will to power on which Adlerian psychology, using the term "striving for superiority," is focused.
 

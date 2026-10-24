@@ -22,7 +22,7 @@ The method began as the investigation of neurotic patients' minds and grew into 
 - [[SE009 — Know that self-knowledge is limited — introspection is fallible]] — psychoanalysis is the clinical tradition that made the limits of introspection its starting point.
 - [[CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind]] — the experimental-psychology version of the same claim.
 - [[E044 — Practise anxiety (Angst)]] — Heidegger's anxiety as a fundamental mood, contrasted with the psychoanalytic treatment of anxiety as symptom.
-- [[E065 — Practise noogenic neurosis awareness]] — Frankl's boundary: neuroses that emerge from existential problems, not conflicts between drives.
+- [[E065 — Practise noogenic neurosis awareness]] — [[T019 — Frankl, Viktor|Frankl]]'s boundary: neuroses that emerge from existential problems, not conflicts between drives.
 - [[E105 — Practise amor fati]] — Nietzsche's formula of amor fati, willing one's fate.
 - [[X015 — Study the commanding self as your specific opponent]] — the Qur'an's account of the soul that enjoins evil; my comparison from the Islamic tradition.
 - [[B039 — Practice the four foundations of mindfulness (satipatthana)]] — mindfulness of body, feelings, mind and phenomena as an attentional practice the analytic frame contrasts.

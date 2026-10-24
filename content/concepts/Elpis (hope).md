@@ -24,7 +24,7 @@ Plato's Gorgias is sometimes brought into the discussion. In Jowett's translatio
 ## Related concepts
 
 - [[Hope]] — my page on hope as a modern concept
-- [[Tragic optimism]] — Frankl's stance of saying yes to life in spite of the tragic triad
+- [[Tragic optimism]] — [[T019 — Frankl, Viktor|Frankl]]'s stance of saying yes to life in spite of the tragic triad
 - [[Despair]] — the state hope is usually set against
 
 ## Sources

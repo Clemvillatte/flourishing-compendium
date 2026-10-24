@@ -33,7 +33,7 @@ Finding that volunteers fare better does not tell someone what will happen if th
 
 - **Volunteering and well-being**, volunteering is associated with better health and well-being (Post, 2005; Jenkinson et al., 2013)
 - **Helper's high**, helping produces positive affect (Post, 2005; Luks, 1991)
-- **Contribution and meaning**, contributing to others is a source of meaning (Steger, 2012; Frankl, 1959)
+- **Contribution and meaning**, contributing to others is a source of meaning (Steger, 2012; [[T019 — Frankl, Viktor|Frankl]], 1959)
 
 ## Philosophy parallels
 

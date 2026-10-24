@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 457** — Practise noogenic neurosis awareness
 
-Frankl coined the term to mark where a suffering comes from. Ordinary, psychogenic neuroses arise from the psychological dimension; noogenic ones arise from what he calls the noological, the specifically human dimension, where a life's meaning is at stake. His definition, verbatim:
+[[T019 — Frankl, Viktor|Frankl]] coined the term to mark where a suffering comes from. Ordinary, psychogenic neuroses arise from the psychological dimension; noogenic ones arise from what he calls the noological, the specifically human dimension, where a life's meaning is at stake. His definition, verbatim:
 
 > "Noogenic neuroses do not emerge from conflicts between drives and instincts but rather from existential problems. Among such problems, the frustration of the will to meaning plays a large role." (Frankl, 1959/1984, Man's Search for Meaning, Part Two: "Noogenic Neuroses".)
 

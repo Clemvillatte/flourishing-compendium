@@ -7,7 +7,7 @@ file: "Self-transcendence"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Self-transcendence names the family of experiences and orientations in which the self recedes from the center. Viktor Frankl gave the term its existential use: being human always points beyond itself, toward a meaning to fulfill or a person to love. A recent psychological synthesis (Yaden, Haidt, Hood, Vago and Newberg 2017) gives it an experiential one: self-transcendent experiences are "transient mental states marked by decreased self-salience and increased feelings of connectedness."
+Self-transcendence names the family of experiences and orientations in which the self recedes from the center. [[T019 — Frankl, Viktor|Viktor Frankl]] gave the term its existential use: being human always points beyond itself, toward a meaning to fulfill or a person to love. A recent psychological synthesis (Yaden, Haidt, Hood, Vago and Newberg 2017) gives it an experiential one: self-transcendent experiences are "transient mental states marked by decreased self-salience and increased feelings of connectedness."
 
 > "The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself. What is called self-actualization is not an attainable aim at all, for the simple reason that the more one would strive for it, the more he would miss it. In other words, self-actualization is possible only as a side-effect of self-transcendence." (Frankl, Man's Search for Meaning, p. 133)
 

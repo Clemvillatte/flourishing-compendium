@@ -32,7 +32,7 @@ This does not say suffering is secretly pleasant. The sentence is an instruction
 ## Psychology parallels
 
 - **[[Engagement|Engagement and flow]]** (Csikszentmihalyi, 1990)
-- **[[Meaning|Meaning through struggle]]** (Frankl, 1946)
+- **[[Meaning|Meaning through struggle]]** ([[T019 — Frankl, Viktor|Frankl]], 1946)
 
 ## Philosophy parallels
 

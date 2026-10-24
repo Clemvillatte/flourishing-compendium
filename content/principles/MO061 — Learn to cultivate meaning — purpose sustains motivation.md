@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 61** — Learn to cultivate meaning: purpose sustains motivation
 
-Frankl makes the search for meaning central to his account of motivation:
+[[T019 — Frankl, Viktor|Frankl]] makes the search for meaning central to his account of motivation:
 
 > Man's search for meaning is the primary motivation in his life and not a "secondary rationalization" of instinctual drives.
 

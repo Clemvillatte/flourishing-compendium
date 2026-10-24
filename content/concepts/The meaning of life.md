@@ -7,7 +7,7 @@ file: "The meaning of life"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Viktor Frankl's Man's Search for Meaning argues that the question of life's meaning cannot be answered in general. His answer is a reversal of the question: life questions us, and we answer with our conduct.
+[[T019 — Frankl, Viktor|Viktor Frankl]]'s Man's Search for Meaning argues that the question of life's meaning cannot be answered in general. His answer is a reversal of the question: life questions us, and we answer with our conduct.
 
 > "We had to learn ourselves and, furthermore, we had to teach the despairing men, that it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly." (Frankl, Man's Search for Meaning, [Internet Archive text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl))
 

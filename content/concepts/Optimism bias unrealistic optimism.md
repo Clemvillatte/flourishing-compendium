@@ -23,7 +23,7 @@ My [[CO039 — Recognise optimism bias — you underestimate your personal risk]
 - [[Rosy retrospection]]: the matching bias when the event is in the past
 - [[Planning fallacy]]: the forecasting cousin that hits timelines rather than risks
 - [[Dispositional optimism]]: the trait version, which can be realistic or not
-- [[Tragic optimism]]: Frankl's term for optimism that has already survived the worst
+- [[Tragic optimism]]: [[T019 — Frankl, Viktor|Frankl]]'s term for optimism that has already survived the worst
 
 ## Sources
 - Weinstein, N. D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39(5), 806–820. (Abstract: https://scispace.com/topics/optimism-1uqbd6e9/1980)

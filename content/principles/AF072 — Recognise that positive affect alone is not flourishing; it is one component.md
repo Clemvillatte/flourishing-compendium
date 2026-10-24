@@ -33,4 +33,4 @@ The review distinguishes pleasure-focused approaches from approaches concerned w
 ## Philosophy parallels
 
 - **[[Eudaimonia|Eudaimonia as activity of the soul in accord with virtue]]** (Aristotle, NE I.7)
-- **[[Meaning|Meaning as the central human need]]** (Frankl)
+- **[[Meaning|Meaning as the central human need]]** ([[T019 — Frankl, Viktor|Frankl]])

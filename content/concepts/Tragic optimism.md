@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Tragic optimism” — Frankl, 1946; Frankl, Man's Search for Meaning; Lebowitz et al., 2022.
 
-Tragic optimism is Viktor Frankl's name for the stance of saying yes to life in spite of what he called the tragic triad. The concept's anchor text is the 1984 postscript to Man's Search for Meaning, a lecture Frankl gave at the Third World Congress of Logotherapy in 1983:
+Tragic optimism is [[T019 — Frankl, Viktor|Viktor Frankl]]'s name for the stance of saying yes to life in spite of what he called the tragic triad. The concept's anchor text is the 1984 postscript to Man's Search for Meaning, a lecture Frankl gave at the Third World Congress of Logotherapy in 1983:
 
 > "In brief it means that one is, and remains, optimistic in spite of the 'tragic triad,' as it is called in logotherapy, a triad which consists of those aspects of human existence which may be circumscribed by: (1) pain; (2) guilt; and (3) death. This chapter, in fact, raises the question, How is it possible to say yes to life in spite of all that?" (Frankl, [The Case for a Tragic Optimism, postscript to Man's Search for Meaning](http://fabian.ca/sites/default/files/Frankl%20-%20Search%20for%20Meaning%20%28excerpt%29.pdf), p. 161)
 

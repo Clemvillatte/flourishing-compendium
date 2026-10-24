@@ -7,7 +7,7 @@ file: "Happiness as by-product"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-“Happiness as by-product” — Frankl, Man's Search for Meaning.
+“Happiness as by-product” — [[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning.
 
 The claim, in Frankl and before him in Mill, is that happiness is not something one can successfully aim at. It arrives as a side effect of caring about something else — a person, a work, an improvement — and the moment it becomes the target of attention it dissolves.
 

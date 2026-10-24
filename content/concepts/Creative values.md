@@ -7,7 +7,7 @@ file: "Creative values"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Creative values are Viktor Frankl's name for the first of the three routes to meaning: what a person gives to the world through a work or a deed. Man's Search for Meaning lists the three routes in one sentence.
+Creative values are [[T019 — Frankl, Viktor|Viktor Frankl]]'s name for the first of the three routes to meaning: what a person gives to the world through a work or a deed. Man's Search for Meaning lists the three routes in one sentence.
 
 > "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." (Frankl, [Man's Search for Meaning](https://dn790009.ca.archive.org/0/items/BetweenPastAndFutureHannahArendt/Man's%20Search%20For%20Meaning%20-%20Viktor%20Frankl.pdf), Beacon Press edition; the logotherapy discussion immediately after the passage on self-transcendence, PDF page 67 of the Internet Archive copy)
 

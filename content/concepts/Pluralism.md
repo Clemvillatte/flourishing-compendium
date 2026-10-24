@@ -25,7 +25,7 @@ My [[P030 — Accept many versions of the world]] and [[P123 — Accept that the
 - [[P030 — Accept many versions of the world]]: my principle this theory grounds
 - [[P123 — Accept that the universe is plural]]: the metaphysical version of the same acceptance
 - [[Multicultural identity theory]]: the social-science cousin that makes the same move for cultures
-- [[Tragic optimism]]: Frankl's version of the same acceptance, on the far side of the worst
+- [[Tragic optimism]]: [[T019 — Frankl, Viktor|Frankl]]'s version of the same acceptance, on the far side of the worst
 
 ## Sources
 - Berlin, I. (1953). The Hedgehog and the Fox. London: Weidenfeld & Nicolson.

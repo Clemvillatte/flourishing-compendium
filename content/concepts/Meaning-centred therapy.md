@@ -7,7 +7,7 @@ file: "Meaning-centred therapy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Meaning-centred therapy (also called meaning-centered psychotherapy, MCP) is a short-term treatment for people with advanced cancer. William Breitbart and colleagues at Memorial Sloan-Kettering Cancer Center created it, rooted in the writings of Viktor Frankl, the psychiatrist and Holocaust survivor who wrote Man's Search for Meaning (Montross Thomas, Meier and Irwin). The developers' stated objective, from the first randomized controlled trial:
+Meaning-centred therapy (also called meaning-centered psychotherapy, MCP) is a short-term treatment for people with advanced cancer. William Breitbart and colleagues at Memorial Sloan-Kettering Cancer Center created it, rooted in the writings of [[T019 — Frankl, Viktor|Viktor Frankl]], the psychiatrist and Holocaust survivor who wrote Man's Search for Meaning (Montross Thomas, Meier and Irwin). The developers' stated objective, from the first randomized controlled trial:
 
 > "In response to the need for short-term interventions to address spiritual well-being, we developed Meaning Centered Group Psychotherapy (MCGP) to help patients with advanced cancer sustain or enhance a sense of meaning, peace and purpose in their lives, even as they approach the end of life."
 >

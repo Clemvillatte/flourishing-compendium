@@ -35,7 +35,7 @@ The sources describe brain systems and lab findings about vision. They do not ad
 
 - **[[The monkey mind|The monkey mind]]** (Buddhism, Dhammapada)
 - **Distinguishing what is up to us** (Stoics, Epictetus, Enchiridion)
-- **[[Freedom|Freedom from stimulus-response]]** (Frankl, Man's Search for Meaning)
+- **[[Freedom|Freedom from stimulus-response]]** ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 
 ## Practice
 

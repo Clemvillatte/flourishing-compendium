@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 453** — Practise tragic optimism
 
-Frankl calls pain, guilt and death the tragic triad, and asks how life can retain potential meaning in their presence ([Man's Search for Meaning, Postscript 1984, “The Case for a Tragic Optimism”](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)). His examples include learning from guilt and taking responsible action because life is temporary ([same section](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)).
+[[T019 — Frankl, Viktor|Frankl]] calls pain, guilt and death the tragic triad, and asks how life can retain potential meaning in their presence ([Man's Search for Meaning, Postscript 1984, “The Case for a Tragic Optimism”](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)). His examples include learning from guilt and taking responsible action because life is temporary ([same section](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)).
 
 > optimism is not anything to be commanded or ordered.
 

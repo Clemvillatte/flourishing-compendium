@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 455** — Practise meaning through love
 
-Frankl lays out three routes to meaning in Man's Search for Meaning, as reproduced on [Ed Batista's page](https://edbatista.com/2010/04/life.html) (pp. 111-115, edition not stated there):
+[[T019 — Frankl, Viktor|Frankl]] lays out three routes to meaning in Man's Search for Meaning, as reproduced on [Ed Batista's page](https://edbatista.com/2010/04/life.html) (pp. 111-115, edition not stated there):
 
 > We can discover this meaning of life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering. The first, by way of achievement or accomplishment, is quite obvious.
 

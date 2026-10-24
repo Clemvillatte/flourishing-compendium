@@ -20,7 +20,7 @@ A review of nonreligiosity and life satisfaction is more cautious. It notes that
 
 ### What this does and does not show
 
-These studies show that people find meaning in family, work, nature and community without religion, and that no penalty appeared in one large survey. They do not settle every comparison, and "legitimate" is partly a philosophical claim these studies do not test. Frankl, Ryff and Singer or Keyes is cited at second hand.
+These studies show that people find meaning in family, work, nature and community without religion, and that no penalty appeared in one large survey. They do not settle every comparison, and "legitimate" is partly a philosophical claim these studies do not test. [[T019 — Frankl, Viktor|Frankl]], Ryff and Singer or Keyes is cited at second hand.
 
 **Plain words**
 Meaning can come from people, projects and the natural world, with or without religion. You do not need to defend your source of meaning to anyone.

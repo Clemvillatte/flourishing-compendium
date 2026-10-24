@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "Experiential values" — Frankl, Man's Search for Meaning.
 
-Experiential values are one of the three routes to meaning in Viktor Frankl's logotherapy. The categories are his, and the book sets them out in a single sentence:
+Experiential values are one of the three routes to meaning in [[T019 — Frankl, Viktor|Viktor Frankl]]'s logotherapy. The categories are his, and the book sets them out in a single sentence:
 
 > "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." (Frankl, [Man's Search for Meaning](https://archive.org/details/viktor-emil-frankl-mans-search-for-meaning))
 

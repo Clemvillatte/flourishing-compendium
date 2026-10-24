@@ -54,7 +54,7 @@ A successful baker who pays for a community oven in the local park is doing it. 
 ## Philosophy parallels
 
 - **[[Leaving the world better than you found it|Leaving the world better than you found it]]** (utilitarian intuition; Mill, Utilitarianism)
-- **[[Service|Service as self-transcendence]]** (Frankl, Man's Search for Meaning)
+- **[[Service|Service as self-transcendence]]** ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 
 <!-- fc: reflections
 If you suddenly had far more resources, what lasting good would you build, and what does your answer reveal about what you think is worth leaving behind?

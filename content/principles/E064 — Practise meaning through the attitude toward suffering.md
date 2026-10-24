@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 456** — Practise meaning through the attitude toward suffering
 
-Frankl states the third path in Man's Search for Meaning as part of a list of three ways meaning can be found: "(1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering" (text of the [archive.org copy](https://dn800306.us.archive.org/0/items/mans-search-for-meaning_/Man's%20Search%20For%20Meaning.pdf)).
+[[T019 — Frankl, Viktor|Frankl]] states the third path in Man's Search for Meaning as part of a list of three ways meaning can be found: "(1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering" (text of the [archive.org copy](https://dn800306.us.archive.org/0/items/mans-search-for-meaning_/Man's%20Search%20For%20Meaning.pdf)).
 
 ### The freedom
 

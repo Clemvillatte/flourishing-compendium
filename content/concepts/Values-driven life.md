@@ -7,7 +7,7 @@ file: "Values-driven life"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-V"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter V", "parent": ""}
 ---
-Values-driven life is Viktor Frankl's term for what a life runs on when it runs at all: not pleasure, not power, but the discovery and pursuit of what is personally meaningful. His formulation of the primary drive:
+Values-driven life is [[T019 — Frankl, Viktor|Viktor Frankl]]'s term for what a life runs on when it runs at all: not pleasure, not power, but the discovery and pursuit of what is personally meaningful. His formulation of the primary drive:
 
 > "Man's search for meaning is the primary motivation in his life and not a 'secondary rationalization' of instinctual drives." (Frankl, Man's Search for Meaning, Logotherapy in a Nutshell, [full text](https://dn720006.ca.archive.org/0/items/english-collections-k-z/Man's%20Search%20for%20Meaning%20-%20Frankl,%20Viktor.pdf))
 

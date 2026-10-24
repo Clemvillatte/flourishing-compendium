@@ -7,7 +7,7 @@ file: "Noogenic neurosis"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Noogenic neurosis is Viktor Frankl's term for a neurosis that begins in the dimension of meaning rather than in the psyche. In The Will to Meaning he introduces the coinage and its contrast:
+Noogenic neurosis is [[T019 — Frankl, Viktor|Viktor Frankl]]'s term for a neurosis that begins in the dimension of meaning rather than in the psyche. In The Will to Meaning he introduces the coinage and its contrast:
 
 > "For this type of neuroses, logotherapy has coined the term 'noögenic neuroses' in contrast to neuroses in the usual sense of the word, i.e., psychogenic neuroses. Noögenic neuroses have their origin not in the psychological but rather in the 'noölogical' (from the Greek 'noos' meaning mind) dimension of the human existence." (Frankl, The Will to Meaning, [excerpt](https://www.panarchy.org/frankl/meaning.html))
 

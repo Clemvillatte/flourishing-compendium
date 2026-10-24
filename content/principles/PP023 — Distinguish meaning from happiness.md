@@ -52,7 +52,7 @@ This is a correlational survey, so it shows which things travel with meaning and
 
 ## Philosophy parallels
 
-- [[The will to meaning|The will to meaning]] (Frankl, Man's Search for Meaning)
+- [[The will to meaning|The will to meaning]] ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 
 <!-- fc: reflections
 What have you done that was meaningful but not enjoyable? Would you do it again?

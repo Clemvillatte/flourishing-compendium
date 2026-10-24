@@ -37,7 +37,7 @@ Start with a manageable need: a shared chore, a question someone is struggling w
 
 ## Philosophy parallels
 
-- **[[Service|Service as self-transcendence]]** (Frankl, Man's Search for Meaning)
+- **[[Service|Service as self-transcendence]]** ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 - **[[Participate in the world's becoming|Participate in the world's becoming]]** (Whitehead, Process and Reality)
 
 <!-- fc: reflections

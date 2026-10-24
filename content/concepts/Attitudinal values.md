@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Attitudinal values are Frankl's name for the third route to meaning: the stance a person takes toward suffering that cannot be removed. Logotherapy lists three ways meaning is found, and the third is the one left standing when work and enjoyment are gone.
 
-> "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." (Viktor Frankl, Man's Search for Meaning, [Internet Archive full text](https://archive.org/stream/viktor-emil-frankl-mans-search-for-meaning/Viktor-Emil-Frankl-Mans-Search-for-Meaning_djvu.txt))
+> "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." ([[T019 — Frankl, Viktor|Viktor Frankl]], Man's Search for Meaning, [Internet Archive full text](https://archive.org/stream/viktor-emil-frankl-mans-search-for-meaning/Viktor-Emil-Frankl-Mans-Search-for-Meaning_djvu.txt))
 
 ### The fence around it
 

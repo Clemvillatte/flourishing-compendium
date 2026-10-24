@@ -17,7 +17,7 @@ The list is deliberately unglamorous: I must die, I must suffer, I must struggle
 
 ## Related concepts
 
-- [[Attitudinal values]] — Frankl's account of the stance taken toward unavoidable suffering
+- [[Attitudinal values]] — [[T019 — Frankl, Viktor|Frankl]]'s account of the stance taken toward unavoidable suffering
 - [[The obstacle's origin analysis]] — the Stoic method for separating event from judgement at the boundary
 - [[Equanimity]] — the steady bearing the facing trains
 

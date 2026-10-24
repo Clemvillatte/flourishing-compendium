@@ -7,7 +7,7 @@ file: "The meaning of suffering"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-Frankl's account of the camps gives suffering a place in the economy of meaning. What survives even there is the freedom of attitude, and through it a meaning that holds to the end.
+[[T019 — Frankl, Viktor|Frankl]]'s account of the camps gives suffering a place in the economy of meaning. What survives even there is the freedom of attitude, and through it a meaning that holds to the end.
 
 > "everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way." (Frankl, Man's Search for Meaning, [Internet Archive text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl))
 

@@ -36,7 +36,7 @@ For my purposes the model offers a vocabulary for examining competing motivation
 - [[Benevolence]] — one of the ten values, on the self-transcendence side of the circle
 - [[Character strengths (Peterson & Seligman)]] — a different catalog of the desirable, traits rather than goals
 - [[B-values]] — Maslow's list of values worth living by, a cousin from humanistic psychology
-- [[Attitudinal values]] — Frankl's values of stance toward suffering, a different axis of the same question
+- [[Attitudinal values]] — [[T019 — Frankl, Viktor|Frankl]]'s values of stance toward suffering, a different axis of the same question
 
 ## Sources
 

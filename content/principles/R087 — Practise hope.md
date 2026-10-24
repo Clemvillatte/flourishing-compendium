@@ -35,7 +35,7 @@ The future hope faces is not guaranteed but possible, and its most elaborate exp
 ## Philosophy parallels
 
 - **[[Hope|Hope]]** (Marcel, The Mystery of Being)
-- **[[Tragic optimism|Tragic optimism]]** (Frankl, Man's Search for Meaning)
+- **[[Tragic optimism|Tragic optimism]]** ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 
 ## Sources
 

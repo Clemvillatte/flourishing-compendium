@@ -44,7 +44,7 @@ People in this passage wear themselves out getting the things they expect to enj
 ## Philosophy parallels
 
 - **[[The paradox of hedonism|The paradox of hedonism]]** (Sidgwick, The Methods of Ethics)
-- **[[Happiness as by-product|Happiness as by-product]]** (Frankl, Man's Search for Meaning)
+- **[[Happiness as by-product|Happiness as by-product]]** ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 
 ## Practice kernels
 

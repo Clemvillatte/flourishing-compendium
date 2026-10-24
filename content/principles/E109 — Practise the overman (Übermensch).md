@@ -41,4 +41,4 @@ Anyone who has quietly left a default setting they cannot defend in their own wo
 ## Philosophy parallels
 
 - **[[The overman (Übermensch)|The overman (Übermensch)]]** (Nietzsche, Thus Spoke Zarathustra)
-- **[[Self-transcendence|Self-transcendence]]** (Frankl, The Will to Meaning; Whitehead, Process and Reality)- **[[The overman (Übermensch)|The overman]]** (Existentialism & Phenomenology)
+- **[[Self-transcendence|Self-transcendence]]** ([[T019 — Frankl, Viktor|Frankl]], The Will to Meaning; Whitehead, Process and Reality)- **[[The overman (Übermensch)|The overman]]** (Existentialism & Phenomenology)

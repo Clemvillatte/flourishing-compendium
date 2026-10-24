@@ -45,7 +45,7 @@ Some people report positive changes after trauma. You do not have to find a bene
 
 ## Philosophy parallels
 
-- [[Tragic optimism|Tragic optimism]] (Frankl, Man's Search for Meaning)
+- [[Tragic optimism|Tragic optimism]] ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 - [[Amor fati|Amor fati]] (Nietzsche, The Gay Science)
 
 <!-- fc: reflections

@@ -39,7 +39,7 @@ Purpose is not a goal to be achieved but a direction to be pursued. It answers t
 ## Philosophy parallels
 
 - [[Eudaimonia|Eudaimonia as organising end]] (Aristotle, Nicomachean Ethics I.7)
-- [[The will to meaning|The will to meaning]] (Frankl, Man's Search for Meaning)
+- [[The will to meaning|The will to meaning]] ([[T019 — Frankl, Viktor|Frankl]], Man's Search for Meaning)
 
 <!-- fc: reflections
 What is your current direction, in one sentence? Does it organise your days?

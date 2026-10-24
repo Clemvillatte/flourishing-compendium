@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 458** — Practise the will to meaning
 
-Frankl built logotherapy on a claim about what people want most:
+[[T019 — Frankl, Viktor|Frankl]] built logotherapy on a claim about what people want most:
 
 > "According to logotherapy, the striving to find a meaning in one's life is the primary motivational force in man."
 

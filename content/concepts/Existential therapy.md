@@ -19,7 +19,7 @@ The article presents Yalom's four existential themes: "Yalom divides the common 
 
 - [[E065 — Practise noogenic neurosis awareness]]: noogenic neurosis awareness
 - [[E093 — Practise existential communication]]: existential communication
-- [[ST311 — Frankl's Why]]: Frankl's story
+- [[ST311 — Frankl's Why]]: [[T019 — Frankl, Viktor|Frankl]]'s story
 - [[V2K-S01.18 — 18. Existential Therapy and Moral Injury]]: existential therapy and moral injury
 
 ## Sources

@@ -7,7 +7,7 @@ file: "The search for meaning"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The search for meaning is Viktor Frankl's name for the primary human drive. Against Freud's will to pleasure and Adler's will to power, logotherapy holds that "striving to find meaning in life is the primary, most powerful motivating and driving force in humans" ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). The article notes that Frankl developed the theory before his internment in the Nazi camps and described, in the book, how it helped him survive them ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)).
+The search for meaning is [[T019 — Frankl, Viktor|Viktor Frankl]]'s name for the primary human drive. Against Freud's will to pleasure and Adler's will to power, logotherapy holds that "striving to find meaning in life is the primary, most powerful motivating and driving force in humans" ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)). The article notes that Frankl developed the theory before his internment in the Nazi camps and described, in the book, how it helped him survive them ([Wikipedia, Logotherapy](https://en.wikipedia.org/wiki/Logotherapy)).
 
 ### Three ways to find it
 

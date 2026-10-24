@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 452** — Practise self-transcendence
 
-Frankl uses self-transcendence for a person's orientation toward a meaning to fulfil or another person to encounter, rather than toward the self as a closed system ([Man's Search for Meaning, Part II, “The Essence of Existence”](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)). His account includes work, love and experience, as well as one's response to unavoidable suffering ([same section](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)).
+[[T019 — Frankl, Viktor|Frankl]] uses self-transcendence for a person's orientation toward a meaning to fulfil or another person to encounter, rather than toward the self as a closed system ([Man's Search for Meaning, Part II, “The Essence of Existence”](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)). His account includes work, love and experience, as well as one's response to unavoidable suffering ([same section](https://www.stgregoriosudaipur.ac.in/pdf/fiction/632ecf70b27a5-man-s-search-for-meaning.pdf)).
 
 > self-actualization is possible only as a side-effect of self-transcendence.
 
