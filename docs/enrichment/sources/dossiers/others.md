@@ -215,3 +215,8 @@ been false.
   recorded time did not match the session clock).
 - Checker exit 0 (133 card links, 9 external carriers, 19 headers); voice
   audit exit 0.
+## Advisor QC verdict
+
+- Round 6 (revision 6, commit af75b204): QC-passed. No further content
+  rewrite required. Outstanding supervisor actions: registry flip from
+  "planned" and art assignment per ART-GALLERY.md.

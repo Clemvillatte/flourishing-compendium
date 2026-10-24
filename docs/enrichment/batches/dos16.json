@@ -4,7 +4,7 @@
     {
       "slug": "others",
       "worker": "worker-pplx-dos16-1024a",
-      "state": "publication: pending supervisor",
+      "state": "publication: pending supervisor (advisor QC passed round 6, af75b204)",
       "verification": "six-pass build: revision 1 (initial dossier + ledger, checkers exit 0) + revisions 2-6 (advisor rounds 1-5: divergence rebuilt on opened carriers - Batson 1988 vs Cialdini 1987, literally verified; Confucius-Matthew comparison preserved in the map as a bounded comparison; Holt-Lunstad PMC2910600 opened; attachment cards added after a coverage check; humanizer pass - contrast constructions, first-person voice, closers, generic lead-ins removed, card-list format restored; full reads of kernels, stories and HUMANIZER-SKILL.md recorded); ledger records carriers, methods, exclusions, the baton flag and honest corrections; checker exit 0 (133 links, 9 carriers), voice audit exit 0; registry left planned for supervisor flip",
       "dates": {
         "built": "2026-10-24",
