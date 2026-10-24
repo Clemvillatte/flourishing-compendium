@@ -22,3 +22,10 @@ backlink glosses (24 principles, 10 concepts, 2 kernels), grounded in each
 page's own Haidt material (moral foundations, social intuitionist model, awe
 appraisals with Keltner, other-praising emotions with Algoe, Yaden et al.
 self-transcendence review). All modified pages pass the validator.
+
+CORRECTION 06:29Z: the Haidt ledger line above says "all validated" - four
+concept pages fail the validator's 150-word prose floor (Moral development
+research 28, Moral dilemma research 125, Moral dilemmas 110, Moral emotions
+80); checked against HEAD, all four were already below the floor before this
+pass (pre-existing stubs, not caused by the gloss). FLAG for supervisor: these
+four concept pages need concept-enrichment passes, out of t2b scope.
