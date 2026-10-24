@@ -136,3 +136,16 @@ All four cleared for publication: checks pass, quotes verified (sampled), artwor
   cross-checked by the teller against the page's printed translation. D029
   zero-story confirmed by the teller's duplicate check; coverage matrix honest.
   PASS from the supervisor sample.
+
+## Addendum 8 — s1b-038 supervisor sample QC, 2026-10-24 ~15:04 UTC
+
+- s1b-038 (Kwang-dze Refuses the Grand Burial, D192, qc_pending): read in full;
+  both quoted fragments re-verified verbatim against the freshly opened
+  100jia.net Legge page (the deathbed anecdote as quoted in Legge's
+  introduction). Coverage matrix honest (lifelong alignment and the historical
+  death explicitly not claimed; the D192 connection marked editorial). D192
+  zero-story per the teller's duplicate check (s1f-006 is a different
+  deathbed story). PASS from the supervisor sample.
+- All six qc_pending drafts (s1a-031/032, s1b-034/035/037/038) now carry a
+  supervisor sample QC pass; registration remains with the lane tellers per
+  protocol.
