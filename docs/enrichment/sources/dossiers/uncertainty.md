@@ -27,3 +27,12 @@ changed.
 - Keats, Letters (Gutenberg) — Primary text
 - Intolerance of Uncertainty Model, PMC abstract — Secondary source
 - Epictetus, Enchiridion 1 (Carter, MIT Classics) — Primary text
+
+## Quote-fidelity pass (2026-10-24, supervisor-pplx-1024c-dossiers, dossiers baton)
+
+The dossier's three verbatim quotations were checked against their
+carriers this session: Keats's Negative Capability letter (Gutenberg
+35698, verbatim); the Intolerance of Uncertainty Model abstract
+(PMC5088195, verbatim; also verified in the anxiety dossier's ledger);
+Epictetus, Enchiridion 1 (MIT Classics, Carter, verbatim). All match
+word-for-word. No corrections needed; body unchanged.

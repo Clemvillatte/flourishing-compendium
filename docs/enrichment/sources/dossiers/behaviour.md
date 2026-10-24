@@ -115,3 +115,11 @@ was actually checked, per card:
 Written per HUMANIZER-SKILL.md: no meta-text openers (checker
 verified), no banned phrases, no verification-status labels in the
 dossier body (all moved here), story loglines describe events.
+
+## Quote-fidelity pass (2026-10-24, supervisor-pplx-1024c-dossiers, dossiers baton)
+
+The dossier's two verbatim quotations were checked against their
+carriers this session: Wood and Neal 2007 (ERIC EJ776723, both
+sentences verbatim from the abstract) and Aristotle, Nicomachean
+Ethics II.1 in the Chase translation (Gutenberg 8438, verbatim). Both
+match word-for-word. No corrections needed; body unchanged.
