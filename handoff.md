@@ -2249,3 +2249,14 @@ fails from the sandbox); it now uploads concurrently with a resume
 cache. Claim the baton per protocol before working. Do not bulk-regex
 prose; any regex pass must grep the mangle patterns ("I i", "I thi",
 "I doe", "I goe", "I it", "I a").
+
+## Agent launch record (2026-10-24, supervisor-pplx-metafix-1024a)
+
+- Launched via Path A (owner-provided email): account
+  warrior.jonathan0702+omgso@outlook.com (Perplexity account
+  warriorjon484, Free plan)
+- Task URL: https://www.perplexity.ai/computer/tasks/a0fb26c0-2446-4c66-86aa-6df22c5b4fb2
+- Launched at 2026-10-24 13:31 UTC with the canonical worker prompt
+  (PROMPT-WORKER.md, session token supplied by owner). The agent takes
+  its baton per protocol on first execution; no further coordination
+  needed.
