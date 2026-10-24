@@ -44,3 +44,6 @@ The couple saving real life for retirement versus the one living now. Which coup
 %%
 Each step is the destination. What's your current step, and where are you actually trying to arrive?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the two ways to wash dishes from The Miracle of Mindfulness, the page's most concrete version.

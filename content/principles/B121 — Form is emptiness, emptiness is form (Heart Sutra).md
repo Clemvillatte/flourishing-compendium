@@ -48,3 +48,6 @@ Nothing has independent existence, and that very emptiness allows everything to 
 %%
 Emptiness is not elsewhere — it's how things work. Where in your current life is the emptiness actually the working part?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the interbeing reading of the sutra the page cites (Hanh, Interbeing).

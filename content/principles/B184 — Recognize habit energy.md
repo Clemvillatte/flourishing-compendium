@@ -45,3 +45,6 @@ What habit energy is currently running your program — the hand reaching for th
 %%
 Much of what you do is program. Which program is currently running you — and what would interrupting it require?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the habit-energy account the page uses, rushing toward a future that never arrives.

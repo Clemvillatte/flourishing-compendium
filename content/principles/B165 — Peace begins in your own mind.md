@@ -57,3 +57,6 @@ One stressed person entering the household changes the temperature. What's your 
 %%
 Establish peace in yourself and it radiates outward. Where in your current life is the radiation actually happening — or not?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the peace-work application the page carries, peace and understanding within before action.

@@ -47,3 +47,6 @@ The team meeting that opens with what went right. What's your version of the ope
 %%
 Deliberately water what you want to grow. What's your current watering pattern, and what's actually growing?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the two-layers mind and seeds model from The Heart of the Buddha's Teaching.

@@ -30,7 +30,7 @@ Chapter 16 applies the word to practice. There he writes that it is "not possibl
 - [[Ubuntu]] — interdependence extended from persons to all things
 - [[Buddhist emptiness of inherent nature]] — an editorial cross-reading: compare with dependent origination without assuming equivalence
 - [[Dependent origination]] — the classical doctrine Nhat Hanh names in his account of emptiness
-## Sources
+- [[T035 — Thich Nhat Hanh]]: the word's coiner; the concept quotes his inter-being passage from The Art of Living.## Sources
 
 - Hanh, Interbeing
 

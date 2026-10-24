@@ -50,3 +50,6 @@ The practitioners who sit and organize — calm in the meeting, effective in the
 %%
 Suffering has structural causes. Where in your current life is the structure actually the thing your practice is ignoring?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the coiner of the term engaged Buddhism, in the middle of the Vietnam War.

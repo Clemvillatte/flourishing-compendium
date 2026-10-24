@@ -50,3 +50,6 @@ The Sunday afternoon doing nothing, on purpose, without guilt. What's your versi
 %%
 Resting is a practice. What's your current rest — and is it actually rest, or just distraction?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the resting instruction from Happiness the page cites.

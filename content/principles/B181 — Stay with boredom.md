@@ -48,3 +48,6 @@ The queue without the phone: two minutes of restlessness, then something interes
 %%
 Boredom is the surface of a mind that has forgotten how to be. What's your current boredom actually pointing to?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the Lazy Day practice the page cites from Happiness.

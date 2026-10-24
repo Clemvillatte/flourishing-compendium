@@ -60,3 +60,6 @@ What hard truth are you currently delivering in a way that builds a wall rather 
 %%
 Even hard truths can be spoken so the listener can receive. What's your current hard truth, and what's the receivable version?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: loving speech as practice, from The Art of Communicating.

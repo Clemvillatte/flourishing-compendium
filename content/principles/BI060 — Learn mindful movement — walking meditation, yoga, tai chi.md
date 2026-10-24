@@ -25,8 +25,7 @@ The authors' own conclusion is cautious, verbatim: "Tai chi may be a useful trea
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the wu wei effortless-movement parallel the page draws for mindful movement.
-
-## Sources
+- [[T035 — Thich Nhat Hanh]]: the walking-meditation practice the page teaches.## Sources
 
 - [Wang et al., "A Randomized Trial of Tai Chi for Fibromyalgia" (2010), New England Journal of Medicine 363(8), 743-754](https://www.nejm.org/doi/full/10.1056/NEJMoa0912611) — abstract results and conclusions quoted verbatim; tai chi versus wellness education and stretching in people with fibromyalgia. The inherited broad mental-health parallel (yoga, tai chi and walking meditation reduce stress and improve well-being) is not established by this trial.
 

@@ -47,8 +47,7 @@ Its contemplative cognates are Buber's I–Thou meeting ([[I and Thou]]) and the
 
 - [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
 - [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means
-
-## Sources
+- [[T035 — Thich Nhat Hanh]]: the contemplative statement the concept opens with, listening that relieves another's suffering.## Sources
 
 - [Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change (full-text reprint PDF)](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf) — the empathy passage, quoted above
 - [Thich Nhat Hanh, in conversation with Oprah Winfrey (Plum Village)](https://plumvillage.org/about/thich-nhat-hanh/interviews-with-thich-nhat-hanh/oprah-talks-to-thich-nhat-hanh) — the deep-listening passage and the one-hour line, quoted above

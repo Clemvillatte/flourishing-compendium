@@ -46,3 +46,6 @@ Waiting for the retreat to start the real work. What's your version of the real-
 %%
 No special states or places required. What's your current most available practice field — and are you actually using it?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the dishwashing practice the page's Buddhist sources put in the day.

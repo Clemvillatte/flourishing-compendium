@@ -26,8 +26,7 @@ When someone describes a hurt, try listening without preparing a rebuttal. Give 
 ## Related concepts
 
 - [[D118]] — Speaking rarely and listening deeply are two framings of the same speech economy
-
-## Sources
+- [[T035 — Thich Nhat Hanh]]: the beginning-anew listening instruction the page quotes, listen without replying or correcting.## Sources
 
 - [Thich Nhat Hanh, The Art of Communicating (book excerpt)](https://www.spiritualityandpractice.com/book-reviews/excerpts/view/25387)
 

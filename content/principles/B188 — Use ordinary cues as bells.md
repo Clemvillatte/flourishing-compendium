@@ -48,3 +48,6 @@ Every red light on the commute: one conscious breath. What's your version of the
 %%
 Let each cue be a bell. Which cue in your current life is most available — and what would using it actually build?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the bell as appointment reminder for the present, from Peace Is Every Step.

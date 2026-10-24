@@ -41,3 +41,6 @@ The method is a discipline against hasty generalization: the speaker's claim is 
 [[B057 — Choose anchored or open awareness by need]]
 [[Y005 — Practice steadiness and let go of grip together]]
 [[R046 — Practise talanoa]]
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the listening instruction the page carries from B147, all attention without judging or reacting.

@@ -47,3 +47,6 @@ Before you write, take a ten-minute walk and list every idea that comes to mind.
 ## Practice
 
 - Walk more: daily walks (especially in nature), walking meetings, walking meditation. Walking is simple, accessible, and effective. Do not underestimate it.
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: walking as meditation, the page's contemplative line for walking.

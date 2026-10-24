@@ -57,3 +57,6 @@ The person who saves time by combining three tasks, then redoes two. What's your
 %%
 Fragmented attention is a fragmented life. What's your current fragmentation actually fragmenting?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the dishwashing example the page quotes, washing the dishes while washing the dishes.

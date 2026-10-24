@@ -41,3 +41,13 @@ page fails the validator's prose floor (Personal projects, 87 words); checked
 at HEAD, it was already below the floor before this pass (pre-existing stub,
 not caused by the gloss). Added to the supervisor flag list with the four
 Haidt-block stubs.
+
+2026-10-24 06:38Z, worker-pplx-t2b-1024e: Thich Nhat Hanh (T035) block
+complete - 34 worker-doable backlink glosses (23 principles, 10 concepts,
+1 kernel; 1 story card blocked by the separation guard, flagged for
+supervisor), grounded in each page's own material (dishwashing passages,
+beginning-anew listening, interbeing, engaged Buddhism coinage, seeds model,
+walking meditation, bell verses). Validator: all modified pages pass except
+three concept stubs already below the 150-word floor at HEAD (Conversation as
+method 132, Dependent origination 59, Engaged Buddhism 89) - pre-existing,
+added to the supervisor flag list.

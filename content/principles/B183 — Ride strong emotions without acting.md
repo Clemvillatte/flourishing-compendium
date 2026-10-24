@@ -55,3 +55,6 @@ The furious drive home rehearsing the resignation, parked outside the house, not
 %%
 Feel it fully, let it peak, act only when it's moved through. What emotion is currently being acted on before it's moved through?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the feelings teaching from The Heart of the Buddha's Teaching the page calls the clearest modern statement.

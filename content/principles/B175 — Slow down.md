@@ -44,3 +44,6 @@ The same walk, ten minutes instead of seven — the day unfolds differently. Wha
 %%
 Rushing is the body's argument that now is not enough. What's your current rushing actually arguing?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: The Miracle of Being Awake, the ordinary-tasks-slowly account the page draws on.

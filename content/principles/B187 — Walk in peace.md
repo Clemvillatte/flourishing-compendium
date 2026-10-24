@@ -44,3 +44,6 @@ The eighty meters from the car to the office door, done with attention. What's y
 %%
 Every walk can be a peace walk. What's your current walking actually being — and what would peace-walking require?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the Plum Village walking meditation and his walking-meditation poem the page carries.

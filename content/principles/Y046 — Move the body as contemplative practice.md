@@ -44,3 +44,6 @@ A woman walks to work on two mornings. On the first she plans her day. On the se
 
 - [Bhagavad Gita 6.13, 6.14, 6.17 (Swami Mukundananda translation), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/6/verse/13)
 - [Satipatthana Sutta (MN 10), trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the walking meditation the page's contemplative-movement line cites.

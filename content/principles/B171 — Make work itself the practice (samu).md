@@ -48,3 +48,6 @@ The monk assigned to the kitchen, furious about the assignment. What's your vers
 %%
 Work is not practice's interruption. Where in your current work would the same attention you bring to sitting actually change things?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the washing-dishes excerpt from At Home in the World the page cites.

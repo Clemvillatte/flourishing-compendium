@@ -57,7 +57,7 @@ Ubuntu anchors the relational R-principles: R001 "I am because we are" states th
 - [[AF058]] — a principle about responding to loneliness
 - [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means
 - [[SE026]] — A principle on suffering as shared human material rather than a private defect
-## Sources
+- [[T035 — Thich Nhat Hanh]]: interbeing as the comparison the page makes, interdependence extended to all things.## Sources
 
 - [Wikipedia, Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy) — original original citation
 - [John S. Mbiti, African Religions and Philosophy (Heinemann, 1969), pp. 108-109](https://scholar.sun.ac.za/server/api/core/bitstreams/2890e98d-77ab-4395-ac16-d4e294d1a8ac/content) — the group/individual passage, quoted with context

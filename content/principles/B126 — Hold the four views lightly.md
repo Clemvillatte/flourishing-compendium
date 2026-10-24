@@ -46,3 +46,6 @@ The identity crisis that resolves not by finding a firmer self but by loosening 
 %%
 Hold all four views functionally. Which one is currently non-functional — and what would functional look like?
 -->
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the Diamond Sutra translation the page quotes for the four views.

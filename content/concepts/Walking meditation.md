@@ -23,8 +23,7 @@ In MN 10, awareness of walking appears among the bodily postures a monk knows wh
 
 - [[Mindful attention]]: awareness of the activity while it is happening ([Plum Village, Walking Meditation](https://plumvillage.org/mindfulness/mindfulness-practice)).
 - [[Anapanasati (mindfulness of breathing)]]: the breath awareness that accompanies the steps in Plum Village's instructions ([Mindful Breathing and Walking Meditation](https://plumvillage.org/mindfulness/mindfulness-practice)).
-
-## Sources
+- [[T035 — Thich Nhat Hanh]]: the Plum Village tradition the concept's walking practice comes from.## Sources
 
 - [Plum Village, The Art of Mindful Living](https://plumvillage.org/mindfulness/mindfulness-practice), Walking Meditation and Mindful Breathing: definition, steps, breath and whole-body awareness.
 - [Satipatthana Sutta: Frames of Reference, MN 10, translated by Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html), A.2: knowing the walking posture.

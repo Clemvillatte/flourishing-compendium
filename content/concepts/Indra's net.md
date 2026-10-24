@@ -26,8 +26,7 @@ Fazang (643-712), the third patriarch and the school's great systematizer, illus
 - [[Dependent origination]] — the Buddhist doctrine the image illustrates
 - [[Interbeing]] — Thich Nhat Hanh's word for the same dependence of each on all
 - [[Oneness of things]] — the Zhuangzi-side echo of one-is-all
-
-## Related thinkers
+- [[T035 — Thich Nhat Hanh]]: interbeing, his word for the same dependence of each on all.## Related thinkers
 
 - [[T009 — Zhuangzi]]: the oneness-of-things echo of one-is-all on the Zhuangzi side.
 

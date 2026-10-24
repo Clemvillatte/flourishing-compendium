@@ -76,8 +76,7 @@ Overt Behavior · Psychological science
 - [[Classical conditioning theory]]
 - [[Habit formation]] — habit formation is part of Watson's proposed vocabulary
 - [[The limits of introspection]] — later experimental work on what introspection can and cannot report
-
-## Sources
+- [[T035 — Thich Nhat Hanh]]: the seeds model the page cites as the reinforcement parallel, seeds growing stronger each time they are watered.## Sources
 
 - [Watson, J. B. (1913), "Psychology as the Behaviorist Views It", Psychological Review 20, 158-177 — full text at Classics in the History of Psychology](http://psychclassics.yorku.ca/Watson/views.htm) — the manifesto's definition, its proposed vocabulary, and the man-brute passage
 - [Graham, G., "Behaviorism", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/behaviorism/) — the doctrine's three-claim summary, the popularity history, the Skinner 1953 quotation, the Chomsky criticism and the school's survival in behavior therapy

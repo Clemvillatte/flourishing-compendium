@@ -30,3 +30,6 @@ In the same passage, he warns that relief work can exhaust people when they lose
 ## Cited in philosophy parallels
 
 - [[B156 — Engage the world's suffering (engaged Buddhism)]]
+
+## Related concepts
+- [[T035 — Thich Nhat Hanh]]: the tradition's founder; the concept carries his term and the Plum Village quote.
