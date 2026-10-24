@@ -289,3 +289,40 @@ unresolved statement names the open edge (whether the sutta's enmity
 and Aristotle's anger name the same passion). The section intro was
 updated to three questions with the third carrying the stated
 disagreement. Checker exit 0.
+
+## Attempt 3: bounded disagreement on anger (advisor-directed formulation)
+
+Attempt 2's "genuine divergence grounded" claim is WITHDRAWN per advisor
+QC: the Akkosa "flare up" verse evaluates a specific response (flaring
+up at an angry person) rather than denying that measured anger can be
+fitting, so matching the situation did not establish opposite
+verdicts on the same response. The section was rewritten in the
+advisor's bounded form. The verse actually used is the sutta's
+characterization of the liberated exemplar, raw-verified against the
+downloaded carrier (sutta_3d2c5880.html): "Whence is there anger for
+one free from anger, tamed, living in tune — one released through
+right knowing, calmed & Such." (the em dash is in the carrier text),
+with its preceding context verified (the brahman's accusation "and
+yet still Master Gotama gets angry"). The stated disagreement is now:
+whether excellent character includes appropriate anger; Aristotle's
+good-temper ideal includes warranted anger and criticizes its
+absence; SN 7.2 depicts the liberated person as free from anger even
+under insult. Unresolved statement: whether a firm, anger-free
+response can perform the protective role Aristotle associates with
+anger. The Aristotle ellipsized quotation is recorded as verified
+in-order fragments with an omission, not a contiguous full match. The
+"proposition/affirms/denies" apparatus was replaced with substantive
+prose per the advisor's instruction.
+
+## Ledger correction (attempt numbering)
+
+The previous entry conflated two rejected formulations. Attempt 2,
+pushed in 12c83a30, paired Aristotle NE IV.5 with the Karaṇīya Metta
+Sutta and was withdrawn because the Metta quote does not explicitly
+deny that fitting anger is possible. The Akkosa "flare up" verse
+argument was a later unpushed draft, rejected before any push; its
+problem was that the verse evaluates one specific response (flaring up
+at an angry person) rather than denying that measured anger can be
+fitting. The final pushed form is the advisor-cleared bounded
+disagreement on whether excellent character includes appropriate
+anger.

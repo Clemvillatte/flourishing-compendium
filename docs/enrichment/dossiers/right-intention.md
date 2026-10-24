@@ -194,17 +194,21 @@ The word desire is doing different work in the two passages. Bodhi's target is t
 
 ### Is anger ever fitting?
 
-The proposition: the good person feels anger at wrongs. Aristotle affirms it in the chapter on good temper, and sharpens the point against those who never anger:
+Aristotle includes appropriate anger in good temper and criticizes its absence when warranted. The chapter on good temper praises the man angry at the right things, and counts those who never anger at what should anger them as fools, the endurance of insult as slavish:
 
 > "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." ([Aristotle, Nicomachean Ethics IV.5, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
 > "For those who are not angry at the things they should be angry at are thought to be fools... and to endure being insulted and put up with insult to one's friends is slavish." ([Aristotle, Nicomachean Ethics IV.5, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
-The Karaṇīya Metta Sutta denies it, instructing goodwill toward every being without exception:
+The Akkosa Sutta depicts the liberated person as free from anger even under insult ([SN 7.2](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html)). A brahman insults the Buddha to his face; the Buddha replies that the insult belongs to its giver:
 
-> "With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." ([Sutta Nipāta 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)).
+> "In the same way, brahman, that with which you have insulted me, who is not insulting; that with which you have taunted me, who is not taunting; that with which you have berated me, who is not berating: that I don't accept from you. It's all yours, brahman. It's all yours." ([SN 7.2, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html)).
 
-Both texts answer the same question, what the good person feels toward those who do wrong. Aristotle answers with anger rightly placed, and calls its absence slavish; the sutta answers with a heart that holds no enmity toward anyone, wrongdoers included. The two answers cannot both name the same ideal: a person either has room for anger in their character or does not. What remains unresolved is whether the sutta's enmity and Aristotle's anger name the same passion; the resolve on freedom from ill will is the sutta's term for the goal, and Aristotle's chapter would call that resolve a deficiency.
+The Buddha then asks:
+
+> "Whence is there anger for one free from anger, tamed, living in tune — one released through right knowing, calmed & Such." ([SN 7.2, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html)).
+
+Their ideals differ over whether excellent character includes appropriate anger ([Aristotle, Nicomachean Ethics IV.5](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html); [SN 7.2](https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html)). The passages leave unresolved whether a firm, anger-free response can perform the protective role Aristotle associates with anger.
 
 ## Practice: variation, selection, retention
 
