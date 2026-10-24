@@ -2284,3 +2284,24 @@ prose; any regex pass must grep the mangle patterns ("I i", "I thi",
   Path B (AGENT-LAUNCHER.md) between T+55:00 and T+58:00 of its session,
   fully automated (smailpro mailbox, code read via the smailpro API). The
   relay continues: each successor receives the same succession instruction.
+
+## Agent launch record (2026-10-24, supervisor-pplx-metafix-1024a — third launch)
+
+- Launched via Path A (owner-provided email): account
+  davidw6655+oi3nl@outlook.com (Perplexity account davidw665561201,
+  Free plan). Sign-in used the emailed 6-digit code (777139, owner-read).
+- Task URL: https://www.perplexity.ai/computer/tasks/93b43c7e-9eca-40af-85e8-e06686bfcb0c
+- Launched at 2026-10-24 13:49 UTC with the canonical worker prompt
+  (PROMPT-WORKER.md, run-clock/no-idle/taper rules) plus the owner-directed
+  SUCCESSION instruction (Path B successor between T+55:00 and T+58:00) and
+  an owner-directed MINTING directive: start minting NEW dossiers from the
+  planned roadmap in docs/enrichment/dossiers/registry.json (section rules
+  in the dossiers README binding; v2 format; dossier_check.py before push;
+  registry stays "planned", supervisor flips).
+- Note for launchers: the first attempt (Dossierworker00001@yopmail.com,
+  account dossierwor89327) signed in and pasted fine but Perplexity
+  silently refused task creation — every submit opened the "Get more
+  done with Computer / Upgrade to Pro" education modal instead of
+  creating the task, with zero network requests. Disposably-domained
+  (yopmail) accounts appear blocked from Computer task creation; use
+  owner-provided outlook.com addresses (Path A) instead.
