@@ -2260,3 +2260,14 @@ prose; any regex pass must grep the mangle patterns ("I i", "I thi",
   (PROMPT-WORKER.md, session token supplied by owner). The agent takes
   its baton per protocol on first execution; no further coordination
   needed.
+
+## Agent launch record (2026-10-24, supervisor-pplx-bridging-1024a)
+
+- Launched via Path A (owner-provided email): account
+  jaclynlongley591+z5bvg@outlook.com (Perplexity account
+  jaclynlong42338, Free plan)
+- Task URL: https://www.perplexity.ai/computer/tasks/e1b87739-c6a4-49d2-b2f3-718698de935b
+- Launched at 2026-10-24 13:37 UTC with the canonical worker prompt
+  (PROMPT-WORKER.md, session token supplied by owner). The agent takes
+  its baton per protocol on first execution; no further coordination
+  needed.
