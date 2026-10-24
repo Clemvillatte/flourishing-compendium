@@ -17,13 +17,13 @@ Each tradition takes the question apart differently. The Stoics ask what is ever
 
 [The dichotomy of control](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dichotomy%20of%20control): Epictetus's division in Enchiridion 1 between what is up to us (opinion, pursuit, desire, aversion, our own actions) and what is not (body, property, reputation, command).
 
-[Freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Freedom): the capacity to act from one's own understanding rather than from external compulsion or internal passion; the word gathers political liberty, autonomy, and liberation from craving or fear.
+[Freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Freedom): the capacity to act from one's own understanding, free of external compulsion and internal passion; the word gathers political liberty, autonomy, and liberation from craving or fear.
 
-[Positive freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20freedom): Berlin's second sense of liberty: the wish to be one's own master, the presence of a self in charge rather than the mere absence of interference.
+[Positive freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20freedom): Berlin's second sense of liberty: the wish to be one's own master; a self in charge of its life, which the mere absence of interference does not supply.
 
 [Second-order desires](https://clemvillatte.github.io/flourishing-compendium/#card=Second-order%20desires): Frankfurt's term for wanting what one wants; the person, on this account, is the one who can endorse or disown a first-order desire.
 
-[Akrasia](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia): acting against one's own better judgment; Aristotle treats it as a curable failure of habituation rather than a fate.
+[Akrasia](https://clemvillatte.github.io/flourishing-compendium/#card=Akrasia): acting against one's own better judgment; Aristotle treats it as a curable failure of habituation, not a fate.
 
 [Wu wei](https://clemvillatte.github.io/flourishing-compendium/#card=Wu%20wei): the Daodejing's way of acting that does not force, so that things take their own course; effectiveness without strain.
 
@@ -53,7 +53,7 @@ Dewey's frame turns agency from a possession into a circuit: the seeing is alrea
 
 [Learned optimism](https://clemvillatte.github.io/flourishing-compendium/#card=Learned%20optimism): Seligman's claim that the way people explain setbacks to themselves can be shifted; the book grew directly out of the helplessness research.
 
-[Optimistic explanatory style](https://clemvillatte.github.io/flourishing-compendium/#card=Optimistic%20explanatory%20style): the habit that matters after a setback: bad events explained as temporary, specific and changeable rather than permanent and pervasive.
+[Optimistic explanatory style](https://clemvillatte.github.io/flourishing-compendium/#card=Optimistic%20explanatory%20style): the habit that matters after a setback: bad events explained as temporary, specific and changeable, with permanence and pervasiveness as the pessimist's marks.
 
 [Reappraisal's effectiveness depends on controllability](https://clemvillatte.github.io/flourishing-compendium/#card=Reappraisal%27s%20effectiveness%20depends%20on%20controllability): Troy, Shallcross and Mauss's finding that reframing helps or harms depending on whether the stressor can actually be changed; acceptance fits the unchangeable case.
 
@@ -95,7 +95,7 @@ Dewey's frame turns agency from a possession into a circuit: the seeing is alrea
 
 [Identified versus introjected motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Identified%20versus%20introjected%20motivation): the SDT distinction between two ways of carrying a rule inside: regulation accepted as one's own, and regulation taken in but not accepted, performed to avoid guilt or anxiety.
 
-[Autonomy-supportive leadership](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20leadership): in self-determination theory, the interpersonal style of a person in authority who nurtures others' autonomous motivation rather than pressing them toward outcomes.
+[Autonomy-supportive leadership](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20leadership): in self-determination theory, the interpersonal style of a person in authority who nurtures others' autonomous motivation instead of pressing them toward outcomes.
 
 [Autonomy-supportive management research](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20management%20research): Slemp, Kern, Patrick and Ryan's meta-analysis of perceived leader autonomy support, correlated strongly with autonomous work motivation.
 
