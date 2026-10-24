@@ -65,8 +65,9 @@ stay excluded.
    Verified via fetch of the page: "Now it is unmistakable that even in
    the German word *Beruf,* and perhaps still more clearly in the
    English calling, a religious conception, that of a task set by God, is
-   at least suggested." Divergence 1 (floor or ceiling) uses this
-   against the AN 5.177 list.
+   at least suggested." The divergence that used this (floor or
+   ceiling) was removed on QC review; the quote now sits in the map's
+   Work as calling group, under Vocation as calling.
 
 3. Dewey, Democracy and Education ch. 23 (Standard Ebooks):
    https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23
@@ -81,7 +82,8 @@ stay excluded.
    strict preparation is to injure the possibilities of present
    development..." and "The only adequate training for occupations is
    training through occupations." The last sentence is quoted in the
-   dossier's divergence 2 with attribution inside the paragraph.
+   dossier's map entry The dignity of labor, with attribution inside
+   the paragraph.
 
 ## Map and practice sources
 
