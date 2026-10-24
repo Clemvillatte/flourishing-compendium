@@ -16,23 +16,27 @@ In Analects 2.22, Confucius compares someone without xin to a carriage missing t
 
 > "I do not know how a man without truthfulness is to get on." (Analects 2.22, [Legge translation](https://ctext.org/analects/wei-zheng))
 
-The passage makes trustworthiness a condition of getting along with others, rather than an ornament of good character; Karyn Lai develops this relational reading by treating xin as reliability demonstrated across changing circumstances ([Learning to Be Reliable, pp. 194–197](https://philarchive.org/archive/LAILTB)). Zengzi's daily examination includes whether he has been sincere with friends, giving this concern a recurring place in self-cultivation (Analects 1.4, [Legge translation](https://ctext.org/analects/xue-er)).
+Karyn Lai reads xin as reliability demonstrated in relationships across changing circumstances ([Learning to Be Reliable, pp. 194–197](https://philarchive.org/archive/LAILTB)). Zengzi's daily examination includes whether he has been sincere with friends (Analects 1.4, [Legge translation](https://ctext.org/analects/xue-er)). Analects 1.8 places faithfulness and sincerity among the learner's first concerns ([Legge translation](https://ctext.org/analects/xue-er)).
 
 There is room for judgment about what to promise: Analects 1.13 links making good on agreements with their being right, and Lai cautions against treating fidelity as blind persistence regardless of the situation ([Legge translation](https://ctext.org/analects/xue-er); [Lai, pp. 195–196](https://philarchive.org/archive/LAILTB)).
 
+Mencius 4A12 connects trust among friends with serving parents, examining one's sincerity and understanding what is good ([Legge translation](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07)). This is Mencius's ethical account, not a test for judging someone's trustworthiness from their family relationships.
+
 ### Plain words
 
-Before agreeing to something, consider what you can responsibly undertake. Ask what the other person will be counting on you to do. If circumstances change, tell them plainly and discuss what you can now offer.
+Being reliable means giving others good grounds to count on you. Their plans matter when you decide what to undertake. If circumstances change, explain what has happened and discuss what you can responsibly offer now.
 
 ### For example
 
-Suppose you promised to collect a friend but discover that your car is unsafe. Explain the problem promptly and help arrange another way home. Later, review whether you made the commitment too casually and what you should check before offering again. This is my illustration of reliability exercised with judgment.
+Suppose you promised to collect a friend but discover that your car is unsafe. Explain promptly and help arrange another way home. Later, review what you should check before offering again. This is my illustration of reliability exercised with judgment.
 
 ## Sources
 
 - [Legge's Analects, Book 1 (Xue Er), Chinese Text Project](https://ctext.org/analects/xue-er): 1.4 and 1.13.
 - [Legge's Analects, Book 2 (Wei Zheng), Chinese Text Project](https://ctext.org/analects/wei-zheng): 2.22; quotation and carriage comparison.
 - [Karyn Lai, Learning to Be Reliable: Confucius' Analects, pp. 193–207, author preprint](https://philarchive.org/archive/LAILTB): reliability, relationships and situational judgment.
+- [Legge's Mencius, Li Lou I (chapter 7 of the Works), Wikisource](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07): 4A12, sincerity and trust.
+- [Legge quotations, Wikiquote](https://en.wikiquote.org/wiki/James_Legge): comparison index retaining the earlier enrichment's reference to Analects 1.8; the body uses the opened primary translation.
 
 ## Stories
 
@@ -109,4 +113,4 @@ Suppose you promised to collect a friend but discover that your car is unsafe. E
 
 ## Related concepts
 - [[T037 — Weil, Simone]]: the attention story the page links (ST023, Simone Weil on Attention).
-- [[T055 — Mencius]]: the genealogy of being trusted the page traces, from serving parents to trust.
+- [[T055 — Mencius]]: 4A12 connects trust among friends, serving parents and examining one's sincerity.

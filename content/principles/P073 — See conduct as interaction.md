@@ -20,7 +20,7 @@ His concern is moral as well as practical. Blame, praise and punishment themselv
 
 ### Plain words
 
-When trying to change a recurring action, include the circumstances in your inquiry. Consider what you have learned to do, what the setting allows, and how other people respond. You can take responsibility for an action while also working to change the conditions that sustain it.
+Habits involve both what you have learned to do and the surroundings that support the action. Changing a recurring action therefore calls for attention to both. You can take responsibility for what you do while also working to change the conditions that sustain it.
 
 ### For example
 

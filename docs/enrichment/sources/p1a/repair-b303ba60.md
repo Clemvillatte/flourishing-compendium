@@ -21,7 +21,8 @@ are not certified by this body-level review.
 - Evidence: 2.22's opening sentence quoted exactly; the carriage simile is paraphrased rather than mechanically translated into a psychological claim. 1.4 supports the recurring examination of sincerity with friends; 1.13 links agreements and rightness. Lai's pp. 194–197 directly support relationality, reliability over time and judgment about keeping commitments.
 - Repair: removed the unsupported claim that a single lapse permanently discounts every future commitment, the uncited K243 attribution and decorative carpenter/beam metaphors. The car example is hypothetical and explicitly author-designed; it includes noticing changed circumstances, varying the action, reviewing the commitment and carrying that lesson forward.
 - Saturation: `enrich_find.py mention trustworthiness` and the existing Trustworthiness concept were read. No additional graph edge is necessary; the concept and numerous kernels already refer to R055. No reciprocal edit or proposal.
-- Limits: xin is not equated with Aristotelian truthfulness; Lai's reliability reading is attributed, not presented as the only translation. Removed Mencius/Wikiquote citations that no longer support a claim in the rewritten body.
+- Limits: xin is not equated with Aristotelian truthfulness; Lai's reliability reading is attributed, not presented as the only translation.
+- Milestone QC repair: advisor correctly identified that external links as well as wikilinks are protected. Opened the [original Mencius page](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07) and [Wikiquote page](https://en.wikiquote.org/wiki/James_Legge), restored every original URL occurrence and a concise, carefully scoped Mencius account. Repaired T055's description, removed the ornamental contrast and made Plain words explain reliability before advice. The Mencius account is not an empirical criterion for judging people by family circumstances.
 
 ## P073: See conduct as interaction
 
@@ -30,6 +31,7 @@ are not certified by this body-level review.
 - Repair: replaced “welded,” “machinery” and the confused three/four-part jogger example. Restored the ethical consequence of Dewey's interaction account instead of reducing it to a personal productivity tactic. The meeting exercise is my hypothetical application and includes variation, consequences, review and joint revision.
 - Saturation: `enrich_find.py mention organism and environment` found Transaction; Habit and Functional contextualism concepts were read. No new graph edge or equivalence claim is needed. Existing Seneca link is preserved without certifying that association.
 - Limits: historical philosophical account, not a modern experimentally established claim about willpower; no deterministic claim that circumstances eliminate agency or guarantee successful habit change.
+- Milestone QC repair: advisor requested a direct explanation in Plain words. Replaced its opening inquiry instructions with the relation between learned capacity and supporting surroundings; retained personal responsibility alongside environmental change.
 
 ## S001: Distinguish what is up to you
 
