@@ -35,6 +35,11 @@ described by its own condition, without opposition framing. The Ud 4.1
 note above was added after the raw page was opened and the logline
 checked against it directly.
 
+Revision 5: the reader-facing "Primary text; quoted passages
+checked" notes removed from the two blockquotes (workflow language,
+kept in this ledger); the ST064, ST030, ST112 and ST376 loglines
+re-verified against their cards in a final audit (all matched).
+
 ## Quotes and carriers, all opened this session (raw text)
 
 1. First of the four efforts, SN 45.8 (Thanissaro, Access to Insight):

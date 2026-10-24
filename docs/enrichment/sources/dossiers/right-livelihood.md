@@ -16,6 +16,12 @@ or an owner decision on the section.
 Revision 3: divergence section removed per the QC review; the two
 verified quotes moved into the map entries they gloss; checker exit 0.
 
+Revision 4: the reader-facing "Primary text; quoted passages checked"
+note removed from the Weber and Dewey blockquotes (workflow language,
+kept in this ledger); the Weber entry's Beruf italics removed; the
+ST313 logline re-verified against its card in a final audit (matched).
+Checker exit 0 after each change.
+
 Revision 2 (QC pass): divergences reframed to the definitional contrast
 the opened texts actually support (no claim that Weber prescribes a
 maximum or that Dewey takes up the five-trades question; Weber noted as
