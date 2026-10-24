@@ -34,6 +34,9 @@ If you expect a choice to improve your life, check what follows from making it. 
 - [[K151 — Eulogy exercise|K151 Eulogy exercise]]
 - [[K155 — Enough lines|K155 "Enough" lines]]
 - [[K227 — Time-affluence audit|K227 Time-affluence audit]]
+## Stories
+- [[ST474 — Midas's Wish|474. Midas's Wish]]
+
 ## Psychology parallels
 
 - **[[Values|Values in ACT]]**, chosen qualities of action that organize behavior (Hayes et al., 2011)

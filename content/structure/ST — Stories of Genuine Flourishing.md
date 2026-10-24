@@ -227,6 +227,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST348 — Tolstoy Hides the Rope]]
     - [[ST364 — Twelve Sailors on the Salisbury]]
     - [[ST433 — The Squirrel at the Camp]]
+    - [[ST474 — Midas's Wish]]
   - [[ST-S03.03 — III.3 Inquiry and Experimental Living]]
     - [[ST106 — Peirce's Four Methods]]
     - [[ST107 — Jane Addams Moves In]]
