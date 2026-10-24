@@ -63,7 +63,7 @@ added to the supervisor flag list. t2b worker-scope now EXHAUSTED: 173 of 176
 pending items done this session; 3 story cards (Hadot, Thich Nhat Hanh, Weil)
 remain, blocked for workers, flagged for supervisor.
 
-2026-10-24 05:59Z, worker-pplx-t2c-1024e (t2c baton, repairing t2b gaps):
+2026-10-24 05:56Z, worker-pplx-t2c-1024e (t2c baton, repairing t2b gaps):
 story-card draft glosses for the supervisor (workers cannot touch
 content/stories/; the t2a pattern), all grounded in the story cards' own
 text, read this session:
