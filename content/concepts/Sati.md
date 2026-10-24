@@ -11,9 +11,21 @@ Sati (Pali; Sanskrit smṛti, "memory" or "mindfulness") is the Buddhist faculty
 
 > "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." (Satipaṭṭhāna Sutta MN 10, [Thanissaro translation, AccessToInsight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-My reading (principle B011): mindfulness is the master tool. Relaxation is a common side effect, but the training treats it as the precondition for every other tool: you cannot investigate a craving, steady a mind, or let go of what you do not first see. The practices that embody it in this corpus are anapanasati (mindfulness of breathing, B038), the four foundations (B039), noting lightly (B056), and the ordinary-cue reminders (B188) that turn a doorframe or a red light into a bell of recall.
+### What the refrain asks
 
-Sati belongs to a cross-tradition family of attention practices: Weil's attention as the rarest form of generosity, Husserl's [[Epoché|epoché]], Csikszentmihalyi's flow (absorption without self-consciousness), and the secularized mindfulness of Kabat-Zinn. What distinguishes sati is its explicit pairing with clear comprehension: mindful awareness aimed at insight, with calm as a by-product.
+The refrain does three jobs at once. "Ardent" brings effort, "alert" (sampajañño, clear comprehension) keeps the mind knowing what it is doing as it does it, and "mindful" is sati itself, the memory that holds the observation in place. The sutta keeps mindfulness running "to the extent of knowledge & remembrance", which is why the tradition glosses sati as memory: it remembers what the attention is for. The framing around the refrain is large: the sutta presents the four foundations as the direct path for the purification of beings, the overcoming of sorrow and lamentation, and the realization of Unbinding. Watching body, feeling, mind and mental qualities is meant to add up to that.
+
+### In the compendium
+
+- [[B011 — Make mindfulness the master tool (sati)]] — my master-tool reading: sati powers every other principle, so it gets developed first and kept developing
+- [[B038 — Practice mindfulness of breathing (anapanasati)]] — the flagship exercise, the breath as home base
+- [[B039 — Practice the four foundations of mindfulness (satipatthana)]] — the full curriculum the sutta itself lays out
+- [[B056 — Note lightly (noting)]] — a light modern way of keeping the observation running
+- [[B188 — Use ordinary cues as bells]] — a doorframe or a red light turned into a bell of recall
+
+### The company it keeps
+
+The family I place sati in crosses traditions. Weil made attention an ethical capacity, the rarest and purest form of generosity ([[Attention]]). Husserl's [[Epoché|epoché]] suspends judgment so that what appears can show itself. Csikszentmihalyi's [[Flow]] is absorption without self-consciousness, and Kabat-Zinn's secularized [[Mindfulness]] is sati's direct descendant. What marks sati out within this family is the refrain's insistence on pairing alertness with memory: the two together exist for insight into how experience is put together.
 
 ## Related concepts
 
@@ -25,7 +37,7 @@ Sati belongs to a cross-tradition family of attention practices: Weil's attentio
 - [[Attention]] — Weil
 - [[Anapanasati (mindfulness of breathing)]] — the flagship practice
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
-- [[T037 — Weil, Simone]]: the cross-tradition attention family the concept places her in, generosity and prayer.
+- [[T037 — Weil, Simone]] — the cross-tradition attention family the concept places her in, generosity and prayer
 ## Sources
 
 - [Satipaṭṭhāna Sutta (MN 10), trans. Thanissaro Bhikkhu, AccessToInsight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the refrain quoted verbatim
