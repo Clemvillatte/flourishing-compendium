@@ -16,7 +16,7 @@ In Human Nature and Conduct, John Dewey describes aims as foreseen consequences 
 
 > Ends are foreseen consequences which arise in the course of activity and which are employed to give activity added meaning and to direct its further course. They are in no sense ends of action. In being ends of deliberation they are redirecting pivots in action. ... In a strict sense an end-in-view is a means in present action; present action is not a means to a remote end.
 
-(Abridged; both passages sit in the same section of Part III.)
+(Abridged; emphasis omitted. Both passages sit in the same section of Part III.)
 
 Dewey illustrates with a mariner: "A mariner does not sail towards the stars, but by noting the stars he is aided in conducting his present activity of sailing." ([Same section](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-6).) His [warning](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-6) is also ethical: fastening on one desired consequence can hide other consequences of the means used.
 

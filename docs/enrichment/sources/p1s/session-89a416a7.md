@@ -248,3 +248,9 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - Opened unprompted in full: [AN 10.176](https://www.accesstoinsight.org/tipitaka/an/an10/an10.176.than.html) and [Five Precepts study guide](https://accesstoinsight.org/ptf/dhamma/sila/pancasila.html). The retained sexual-involvement list matches the unskillful bodily action passage exactly; the first-person third-precept undertaking matches the study guide.
 - The page does not silently substitute modern consent language for the source's historically particular list. The refusal-cost/exploitation inquiry is explicitly a proposed modern ethical extension, and the manager/employee example prevents testing a subordinate's willingness.
 - Strong Plain words and example retained, with no page change and no rewrite claimed. No universal legal claim or empirical coercion prevalence estimate added. Inherited psychology/Kant/Buber parallels and protected reflections are not certified.
+
+## Final p1s advisor-polish pass
+
+- Applied optional, not required, scoped-advisor suggestions: B113 removed “the page cites”; B181 and B190 put Plain words on its own line; B190 states the noticing task directly, without the staged recognition/control contrast; P177 explicitly says emphasis omitted from the Dewey quotation.
+- No quotation words, source claims or protected links/reflections changed in this polish pass. The B012 quote punctuation repair and B141 completed translator gloss are separately documented above.
+- All 30 manifest items received a source/prose review in this pass. B078/B114/B150 needed no page changes and are not counted as rewrites. Independent advisor clearance exists for the first 15 reviewed items only; later own checks are not labelled independent QC.
