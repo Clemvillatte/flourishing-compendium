@@ -116,9 +116,13 @@ sense-conveyed knowing.
 The Angulimala logline's nested verse quotation was checked against
 MN 86 raw text; the raw reads with double quote marks around "Doer of
 No Harm", which cannot nest cleanly inside the logline's own quoting,
-so the verse is now paraphrased at word level without quotation marks
-(his verses give the name as Doer of No Harm...). The "once & for all"
-inline quotation remains, verified verbatim against MN 86.
+so the verse was paraphrased at word level without quotation marks.
+(Pass 6 later shortened the logline further, at the advisor's request,
+and the verse material now lives only in this ledger note; the verse
+details: his verses give the name as Doer of No Harm, say he used to
+be a doer of harm, and that today he is true to his name and harms no
+one at all.) The "once & for all" inline quotation remains in the
+logline, verified verbatim against MN 86.
 
 ## Pass 5 (final qualification pass)
 
@@ -150,7 +154,8 @@ was downloaded and read; NE VII.2 reports the Socratic denial of
 akrasia and Aristotle's rebuttal of it, both verbatim and both quoted
 in the dossier. Wang Yangming's knowledge-action unity (IEP, already
 opened) states the same position Socrates holds in Aristotle's report,
-so the section is now "Where the traditions genuinely disagree" with
+so the section was titled at that point "Where the traditions genuinely
+disagree" (renamed in pass 5; see below) with
 the Socratic/Wang position on one side and Aristotle's on the other,
 each side quoted from an opened carrier. The reconciliation question
 (what kind of knowing passion suspends) is stated as open. The NE II.1
