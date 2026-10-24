@@ -171,3 +171,7 @@ The four card-repair flags above were re-checked against the current card states
 ## Courage card spot-check (~T+28)
 
 The Courage card's remaining Aristotle NE quotes ("courage is a mean with respect to things that inspire confidence or fear..." and the "merits of the case... as the rule directs" sentence) verified verbatim against the MIT Ross translation of NE Book III. The card's Aristotle material is clean; the IEP habituation summary remains card-carried (not re-verified this session).
+
+## S089 Marcus quote verified (~T+30)
+
+"Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly" verified verbatim in the MIT Classics Archive Long translation (Meditations II.11). Note for future verifiers: the Gutenberg 2680 Long text splits the same material under Book II.8 and does not print the sentence contiguously, so that carrier will look like a mismatch; the MIT Classics carrier matches. No repair needed.
