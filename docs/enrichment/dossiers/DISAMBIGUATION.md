@@ -38,8 +38,12 @@ Each dossier opens its map with a short **Nearby terms** block that:
   grouping, and uses plain reader-facing phrasing (no workflow
   language).
 
-The published Anger dossier's handling of irritation, resentment and
-contempt is the pattern to follow.
+The published dossiers predate this policy: they handle their
+neighbours inline, inside map lines (see Anger's glosses for
+irritation, resentment and contempt) — not in a named block. New
+dossiers open with the block as specified above; a later revision to
+the published pair (via the registry build's --rebuild path) may add
+it.
 
 ## The scope matrix (working document)
 
