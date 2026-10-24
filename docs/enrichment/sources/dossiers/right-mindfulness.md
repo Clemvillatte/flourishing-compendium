@@ -179,9 +179,12 @@ were checked against external carriers:
 - ST075 The Monkey Tied to the Post: the card attributes the simile
   to the commentary tradition but cites DN 22 as carrier; the fetched
   DN 22 page contains no monkey simile ("monkey", "tied to a post"
-  both absent). The logline was REMOVED from the dossier; the card
-  remains a CANDIDATE, retained here, for a later pass to find the
-  simile's actual carrier.
+  both absent), and SN 47.6 was fetched and probed as a second
+  candidate carrier with the same result. The simile is commentarial
+  as the card itself notes, and the commentaries are not fetchable
+  from this sandbox within the session window. The logline was
+  REMOVED from the dossier; the card remains a CANDIDATE, retained
+  here, for a later pass to find the simile's carrier.
 
 ## Story-directory sweep (pass 9)
 
