@@ -2998,11 +2998,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). His account of [happiness as activity](card:Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), or [excellence](card:Arete). [Virtue](card:Virtue) develops through [repeated actions that shape character](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)."
-        },
-        {
-          "t": "p",
-          "x": "His [function argument](card:The%20function%20argument) [identifies the human good with using reason well in a life of virtuous activity](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). Eudaimonia is the [sufficient good](card:The%20sufficient%20good), [desired for its own sake](card:Everyone%20desires%20eudaimonia): [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
+          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). The claim has three parts, and each does work. It is an activity: his account of [happiness as activity](card:Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the exercise of [excellence](card:Arete). It is final: [desired for its own sake](card:Everyone%20desires%20eudaimonia), the [sufficient good](card:The%20sufficient%20good), so that [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). And it belongs to a whole life rather than a lucky stretch:"
         },
         {
           "t": "q",
@@ -3011,19 +3007,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "This [virtue-ethical account](card:Virtue%20ethics) asks us to judge how to act in a particular situation. Aristotle explains [the mean](card:The%20doctrine%20of%20the%20mean) through [courage: cowardice involves excessive fear and too little confidence, while rashness involves excessive confidence](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html). [Practical wisdom](card:Practical%20wisdom) involves [recognising what the situation calls for and choosing an action toward a good end](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html). He also describes [the pleasure of virtuous action](card:The%20joy%20of%20virtue) as [enjoyment of the activity itself](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
+          "x": "What makes the activity good? His [function argument](card:The%20function%20argument) [identifies the human good with using reason well in a life of virtuous activity](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). As he argues it, for a flute-player, a sculptor or any craftsman, the good is thought to reside in the function; so too for a human being, if human beings have one. [Virtue](card:Virtue) then develops through [repeated actions that shape character](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html): we become just by doing just acts, brave by doing brave acts."
         },
         {
           "t": "p",
-          "x": "Epicurus gives pleasure a different place. [Freedom from disturbance](card:Ataraxia) and [settled pleasure](card:Katastematic%20pleasure) make [freedom from bodily pain and mental distress](https://plato.stanford.edu/entries/epicurus/) central to a happy life. His [self-sufficiency](card:Autarky) encourages [contentment with little, alongside a high regard for friendship](https://plato.stanford.edu/entries/epicurus/)."
+          "x": "Knowing that still leaves the practical question: what does acting well require here, in this situation? Aristotle explains [the doctrine of the mean](card:The%20doctrine%20of%20the%20mean) through [courage: cowardice involves excessive fear and too little confidence, while rashness involves excessive confidence](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html). The courage a situation calls for is neither of those, and finding it is the work of [practical wisdom](card:Practical%20wisdom), which involves [recognising what the situation calls for and choosing an action toward a good end](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html). His [virtue-ethical account](card:Virtue%20ethics) asks us to judge how to act in a particular situation. He also takes [the pleasure of virtuous action](card:The%20joy%20of%20virtue) as a sign of the character doing it: [enjoyment of the activity itself](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
         },
         {
           "t": "p",
-          "x": "The Daoist teaching of [sufficiency](card:Contentment%20with%20sufficiency) asks [whether we know when to stop wanting more](https://www.gutenberg.org/files/216/216-h/216-h.htm). [Spinoza's blessedness](card:Blessedness) instead concerns [the joy of understanding](https://plato.stanford.edu/entries/spinoza/). Contentment with what is enough and joy in understanding offer different answers to the question of what is worth seeking."
+          "x": "Epicurus gives pleasure a different place. His good life is a settled condition rather than an achievement: [freedom from disturbance](card:Ataraxia) and [settled pleasure](card:Katastematic%20pleasure) make [freedom from bodily pain and mental distress](https://plato.stanford.edu/entries/epicurus/) central to a happy life. His [self-sufficiency](card:Autarky) encourages [contentment with little, alongside a high regard for friendship](https://plato.stanford.edu/entries/epicurus/)."
         },
         {
           "t": "p",
-          "x": "Aristotle also places the good life within a community: in his [Politics](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm), [the city](card:The%20polis) exists for [living well together](card:Common%20flourishing). His [complete friendship](card:Aristotelian%20friendship) involves [people valuing one another's character and wishing one another well](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html). Relationships and shared institutions are part of his account of how a good life becomes possible."
+          "x": "The Daoist teaching of [sufficiency](card:Contentment%20with%20sufficiency) asks [whether we know when to stop wanting more](https://www.gutenberg.org/files/216/216-h/216-h.htm). [Spinoza's blessedness](card:Blessedness) instead concerns [the joy of understanding](https://plato.stanford.edu/entries/spinoza/). They answer the question of what is worth seeking differently: one in wanting no more than enough, the other in the act of understanding itself."
+        },
+        {
+          "t": "p",
+          "x": "Aristotle also places the good life within a community. In his [Politics](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm), [the city](card:The%20polis) exists for [living well together](card:Common%20flourishing). His [complete friendship](card:Aristotelian%20friendship) involves [people valuing one another's character and wishing one another well](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html). On his account, relationships and shared institutions are part of how a good life becomes possible."
         },
         {
           "t": "h2",
@@ -3031,19 +3031,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Maslow](card:T029%20%E2%80%94%20Maslow%2C%20Abraham) connects the [hierarchy of needs](card:Hierarchy%20of%20Needs%20Theory) with [self-actualization](card:Self-actualization%20%28Maslow%29): [becoming what one is capable of becoming](https://psychclassics.yorku.ca/Maslow/motivation.htm). [Positive psychology](card:Positive%20psychology) later made [building a life worth living](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) an explicit research aim. But what would count as evidence that a life was going well?"
+          "x": "Psychology entered this question by trying to name the person who lives well. [Maslow](card:T029%20%E2%80%94%20Maslow%2C%20Abraham) connects the [hierarchy of needs](card:Hierarchy%20of%20Needs%20Theory) with [self-actualization](card:Self-actualization%20%28Maslow%29): [becoming what one is capable of becoming](https://psychclassics.yorku.ca/Maslow/motivation.htm). [Positive psychology](card:Positive%20psychology) later made [building a life worth living](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) an explicit research aim. But an aim is not yet a measure: what would count as evidence that a life was going well?"
         },
         {
           "t": "p",
-          "x": "For [Ryff](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), [psychological well-being](card:Psychological%20well-being) includes accepting oneself, good relationships, autonomy, managing one's circumstances, purpose and growth. This [broader view](card:Holistic%20well-being) gives several dimensions to consider when asking how a person is doing. The [eudaimonic approach](card:Eudaimonic%20well-being) concerns [meaning and functioning](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf)."
+          "x": "One answer defines the dimensions along which a person can function well. For [Ryff](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), [psychological well-being](card:Psychological%20well-being) includes accepting oneself, good relationships, autonomy, managing one's circumstances, purpose and growth. This [broader view](card:Holistic%20well-being) gives several dimensions to consider when asking how a person is doing, and it marks out the territory the [eudaimonic approach](card:Eudaimonic%20well-being) studies when it concerns [meaning and functioning](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf)."
         },
         {
           "t": "p",
-          "x": "[Keyes's model](https://pubmed.ncbi.nlm.nih.gov/12096700/) likewise makes [complete mental health](card:Complete%20mental%20health%20model) more than the absence of illness. His [two-factor account](card:The%20two-factor%20model%20of%20well-being) treats [mental health and mental illness as related but distinct](https://thefpr.org/wp-content/uploads/Keyes_flourishing.pdf). Removing a disabling condition and having the resources to live well are not the same achievement."
+          "x": "Another part of the answer concerns illness, because its absence is not the same as health. [Keyes's model](https://pubmed.ncbi.nlm.nih.gov/12096700/) likewise makes [complete mental health](card:Complete%20mental%20health%20model) more than the absence of illness: his [two-factor account](card:The%20two-factor%20model%20of%20well-being) treats [mental health and mental illness as related but distinct](https://thefpr.org/wp-content/uploads/Keyes_flourishing.pdf). Removing a disabling condition and having the resources to live well are not the same achievement."
         },
         {
           "t": "p",
-          "x": "The choice of measure matters. [Huppert and So](https://pmc.ncbi.nlm.nih.gov/articles/PMC3545194/) define [flourishing through ten features](card:Flourishing%20scale) of positive feeling and functioning; [Seligman](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) proposes [PERMA](card:PERMA%20model): positive emotion, engagement, relationships, meaning and accomplishment. These schemes choose different ways to describe and assess a life. I would ask what each measure lets us notice before treating its score as a verdict."
+          "x": "That leaves the choice of what to count, and here the measures genuinely differ. [Huppert and So](https://pmc.ncbi.nlm.nih.gov/articles/PMC3545194/) define [flourishing through ten features](card:Flourishing%20scale) of positive feeling and functioning; [Seligman](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) proposes [PERMA](card:PERMA%20model): positive emotion, engagement, relationships, meaning and accomplishment. The schemes overlap without agreeing, which is itself telling: a measure of a life embodies a view of what a good life is. I would ask what each measure lets us notice before treating its score as a verdict."
         },
         {
           "t": "h2",
@@ -3055,23 +3055,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "That explanation also makes room for the setting. [Ryan and Deci](card:T015%20%E2%80%94%20Ryan%2C%20Richard%20M.%20and%20Deci%2C%20Edward%20L.) describe people as [potentially engaged or alienated, depending largely on the social conditions in which they develop and function](https://pubmed.ncbi.nlm.nih.gov/11392867/). I use [self-determined personality growth](card:Self-determined%20personality%20growth) as my label for this connection between development and the conditions that support it."
+          "x": "Those needs are not met in a vacuum, which moves the question outward to a person's setting. [Ryan and Deci](card:T015%20%E2%80%94%20Ryan%2C%20Richard%20M.%20and%20Deci%2C%20Edward%20L.) describe people as [potentially engaged or alienated, depending largely on the social conditions in which they develop and function](https://pubmed.ncbi.nlm.nih.gov/11392867/). I use [self-determined personality growth](card:Self-determined%20personality%20growth) as my label for this connection between development and the conditions that support it."
         },
         {
           "t": "p",
-          "x": "[Vitality](card:Vitality) is [the felt sense of energy and aliveness](https://acuresearchbank.acu.edu.au/server/api/core/bitstreams/b155eafb-778a-47b5-92cb-1c1a7ef715cb/content), while [flow](card:Flow) is [energized focus and full involvement](https://en.wikipedia.org/wiki/Flow_%28psychology%29). [Vital engagement](card:Vital%20engagement) adds [a sense that the absorbing activity is significant](https://link.springer.com/article/10.1007/s11031-026-10191-z). I am reluctant to call a pursuit fulfilling just because it holds my attention."
+          "x": "The pursuits themselves also have a felt side. [Vitality](card:Vitality) is [the felt sense of energy and aliveness](https://acuresearchbank.acu.edu.au/server/api/core/bitstreams/b155eafb-778a-47b5-92cb-1c1a7ef715cb/content), while [flow](card:Flow) is [energized focus and full involvement](https://en.wikipedia.org/wiki/Flow_%28psychology%29). [Vital engagement](card:Vital%20engagement) adds [a sense that the absorbing activity is significant](https://link.springer.com/article/10.1007/s11031-026-10191-z). I am reluctant to call a pursuit fulfilling just because it holds my attention."
         },
         {
           "t": "p",
-          "x": "The question extends beyond an absorbing afternoon. [Brian Little](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x) proposes that a life's quality depends on sustaining its core [personal projects](card:Personal%20projects), the pursuits a person deeply cares about. An occasional peak is different from being able to continue what matters through the rest of life."
+          "x": "Absorption in an activity is still not a whole life. [Brian Little](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x) proposes that a life's quality depends on sustaining its core [personal projects](card:Personal%20projects), the pursuits a person deeply cares about. An occasional peak is different from being able to continue what matters through the rest of life."
         },
         {
           "t": "p",
-          "x": "[Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues. For [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara), [positive-emotion research](card:Positive%20emotions%20research) asks what these emotions make possible: her [broaden-and-build](card:Broaden-and-build) theory proposes [that they widen thought and action and help build lasting resources, with early evidence presented as preliminary](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)."
+          "x": "Carrying those projects also draws on qualities of character. [Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues. For [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara), [positive-emotion research](card:Positive%20emotions%20research) asks what these emotions make possible: her [broaden-and-build](card:Broaden-and-build) theory proposes [that they widen thought and action and help build lasting resources, with early evidence presented as preliminary](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)."
         },
         {
           "t": "p",
-          "x": "[Oishi and Westgate](https://www.erinwestgate.com/uploads/7/6/4/1/7641726/oishi.westgate.psychrev.2021.pdf) propose [psychological richness](card:Psychological%20richness): varied, interesting experiences that change one's perspective, related to but distinguishable from happiness and meaning. This leaves room to ask whether an unsettling experience can enrich a life without making it pleasant."
+          "x": "And not everything that enriches a life feels good in the process. [Oishi and Westgate](https://www.erinwestgate.com/uploads/7/6/4/1/7641726/oishi.westgate.psychrev.2021.pdf) propose [psychological richness](card:Psychological%20richness): varied, interesting experiences that change one's perspective, related to but distinguishable from happiness and meaning. This leaves room to ask whether an unsettling experience can enrich a life without making it pleasant."
         },
         {
           "t": "h2",
@@ -3103,7 +3103,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Frankl](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf) does not give everyone the same answer to [the meaning of life](card:The%20meaning%20of%20life): the demand changes with the person and the situation. [Meaning](card:Meaning) can be found through [work, love or the attitude taken toward unavoidable suffering](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf). [Purpose](card:Purpose) gives that person [something still to live toward](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf), rather than a general explanation of why everything happens."
+          "x": "Suffering changes the question. [Frankl](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf) does not give everyone the same answer to [the meaning of life](card:The%20meaning%20of%20life): the demand changes with the person and the situation. [Meaning](card:Meaning) can be found through [work, love or the attitude taken toward unavoidable suffering](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf). [Purpose](card:Purpose) gives that person [something still to live toward](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf), rather than a general explanation of why everything happens."
         },
         {
           "t": "p",
@@ -3131,11 +3131,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "One sense of [authenticity](card:Authenticity) asks for [consistency between values and outward conduct](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.629654/full). The story of [the one thing necessary](card:One%20thing%20necessary) sets [Mary's attention to Jesus beside Martha's distraction by many tasks](https://www.biblegateway.com/passage/?search=Luke+10%3A38-42&version=NRSVUE). I take from the scene a question about a single priority beneath many demands, not a rule that everyone should choose the same priority."
+          "x": "A finite life cannot pursue everything at once, and that puts pressure on what it is to be oneself. One sense of [authenticity](card:Authenticity) asks for [consistency between values and outward conduct](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.629654/full). But consistency about what, when a day holds many demands? The story of [the one thing necessary](card:One%20thing%20necessary) sets [Mary's attention to Jesus beside Martha's distraction by many tasks](https://www.biblegateway.com/passage/?search=Luke+10%3A38-42&version=NRSVUE). I take from the scene a question about a single priority beneath many demands, not a rule that everyone should choose the same priority."
         },
         {
           "t": "p",
-          "x": "[Wabi-sabi](card:Wabi-sabi) brings attention to [austere beauty, age and the imperfect or passing](https://plato.stanford.edu/entries/japanese-aesthetics/). Must a life look complete to be worth cherishing?"
+          "x": "The same attention to what passes appears in what a culture finds beautiful. [Wabi-sabi](card:Wabi-sabi) brings attention to [austere beauty, age and the imperfect or passing](https://plato.stanford.edu/entries/japanese-aesthetics/). Must a life look complete to be worth cherishing?"
         },
         {
           "t": "h2",
@@ -3143,19 +3143,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "In [Diener and Seligman's study of 222 students](https://pubmed.ncbi.nlm.nih.gov/11894851/), the happiest tenth had stronger [relationships](card:Connectedness%20in%20well-being%20research), an association rather than proof of cause. [Baumeister and Leary](https://pubmed.ncbi.nlm.nih.gov/7777651/) argue that [belonging](card:The%20need%20to%20belong) is a basic motivation, met through frequent, nonaversive contact within lasting bonds."
+          "x": "The simplest observation first: people who flourish usually have other people. In [Diener and Seligman's study of 222 students](https://pubmed.ncbi.nlm.nih.gov/11894851/), the happiest tenth had stronger [relationships](card:Connectedness%20in%20well-being%20research), an association rather than proof of cause. [Baumeister and Leary](https://pubmed.ncbi.nlm.nih.gov/7777651/) argue that [belonging](card:The%20need%20to%20belong) is a basic motivation, met through frequent, nonaversive contact within lasting bonds."
         },
         {
           "t": "p",
-          "x": "Relationships may help form the person as well as support them. [Communitarianism](card:Communitarianism), including Sandel's account of [constitutive attachments](card:Constitutive%20relationality), [gives communities a role in shaping identity](https://plato.stanford.edu/entries/communitarianism/). The Nguni maxim associated with [Ubuntu](card:Ubuntu) says [a person is a person through other persons](https://plato.stanford.edu/entries/federalism/). These accounts challenge me to ask what an exclusively individual account of fulfilment leaves out."
+          "x": "Why would relationships matter that much? One line of thought answers that they do not merely support a person — they help form one. [Communitarianism](card:Communitarianism), including Sandel's account of [constitutive attachments](card:Constitutive%20relationality), [gives communities a role in shaping identity](https://plato.stanford.edu/entries/communitarianism/). The Nguni maxim associated with [Ubuntu](card:Ubuntu) says [a person is a person through other persons](https://plato.stanford.edu/entries/federalism/). These accounts challenge me to ask what an exclusively individual account of fulfilment leaves out."
         },
         {
           "t": "p",
-          "x": "[Te Whare Tapa Whā](card:Te%20Whare%20Tapa%20Wh%C4%81), Mason Durie's Māori model, makes the relationship concrete: [physical, mental, spiritual and family health are four walls of a meeting house, and damage to one can leave a person or collective unbalanced](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha). One strong part cannot simply stand in for the whole."
+          "x": "[Te Whare Tapa Whā](card:Te%20Whare%20Tapa%20Wh%C4%81), Mason Durie's Māori model, makes that thought concrete: [physical, mental, spiritual and family health are four walls of a meeting house, and damage to one can leave a person or collective unbalanced](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha). One strong part cannot simply stand in for the whole."
         },
         {
           "t": "p",
-          "x": "Culture also changes what a good life is taken to mean. [Joshanloo's theoretical review](https://link.springer.com/article/10.1007/s10902-013-9431-1) identifies [substantial differences among traditions](card:Cross-cultural%20variations%20in%20conceptions%20of%20happiness). Nor is [fitting in](card:Cultural%20fit%20theory) reliably beneficial: across 29 countries, [Hanel and colleagues found that its association with well-being was positive for achievement, power and security, but negative for self-direction, stimulation and hedonism](https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/). What is shared matters, not agreement alone."
+          "x": "A model like that is also a reminder that the content of a good life is not the same everywhere. [Joshanloo's theoretical review](https://link.springer.com/article/10.1007/s10902-013-9431-1) identifies [substantial differences among traditions](card:Cross-cultural%20variations%20in%20conceptions%20of%20happiness). Nor is [fitting in](card:Cultural%20fit%20theory) reliably beneficial: across 29 countries, [Hanel and colleagues found that its association with well-being was positive for achievement, power and security, but negative for self-direction, stimulation and hedonism](https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/). The lesson I take is not that agreement with one's culture is good or bad, but that what a culture shares determines whether agreement helps."
         },
         {
           "t": "h2",
@@ -3167,7 +3167,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Berlin's positive freedom](card:Positive%20freedom) concerns [being one's own master, but carries a warning about coercion in the name of a person's true interests](https://berlin.wolf.ox.ac.uk/published_works/tcl/tcl-e.pdf). Wanting people to live well does not give me the right to decide their lives for them."
+          "x": "The capabilities question is what is open to a person. Berlin's question is who does the choosing. [Berlin's positive freedom](card:Positive%20freedom) concerns [being one's own master, but carries a warning about coercion in the name of a person's true interests](https://berlin.wolf.ox.ac.uk/published_works/tcl/tcl-e.pdf). Wanting people to live well does not give me the right to decide their lives for them."
         },
         {
           "t": "h2",
@@ -3175,15 +3175,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Helliwell's account](https://blogs.ubc.ca/helliwell/files/2020/10/Annals_2019.pdf) gives [social circumstances](card:Social%20determinants%20of%20well-being) a central place while treating his correlational estimates cautiously. [The common good](card:The%20common%20good) asks about [the material, cultural and institutional facilities a community provides for its members](https://plato.stanford.edu/entries/common-good/). From this angle, a good life is not solely an individual's accomplishment."
+          "x": "Circumstances are also something communities provide or withhold. [Helliwell's account](https://blogs.ubc.ca/helliwell/files/2020/10/Annals_2019.pdf) gives [social circumstances](card:Social%20determinants%20of%20well-being) a central place while treating his correlational estimates cautiously. [The common good](card:The%20common%20good) asks about [the material, cultural and institutional facilities a community provides for its members](https://plato.stanford.edu/entries/common-good/). From this angle, a good life is not solely an individual's accomplishment."
         },
         {
           "t": "p",
-          "x": "[Time affluence](card:Time%20affluence) means [feeling that time is sufficient and having a say in its use](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/), not simply counting free hours. [The social gradient of health](card:The%20social%20gradient%20of%20health) links [lower social position with worse health across the hierarchy](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_dialogue/@actrav/documents/meetingdocument/wcms_161321.pdf), not only among the poorest. Advice about how to live needs to notice what a person's circumstances actually permit."
+          "x": "Two of those facilities are easy to overlook because they feel personal: time and health. [Time affluence](card:Time%20affluence) means [feeling that time is sufficient and having a say in its use](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/), not simply counting free hours. [The social gradient of health](card:The%20social%20gradient%20of%20health) links [lower social position with worse health across the hierarchy](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_dialogue/@actrav/documents/meetingdocument/wcms_161321.pdf), not only among the poorest. Advice about how to live needs to notice what a person's circumstances actually permit."
         },
         {
           "t": "p",
-          "x": "[Digital well-being](card:Digital%20well-being) concerns [how technologies affect a life good for a human being](https://pmc.ncbi.nlm.nih.gov/articles/PMC7417400/). Jonas's [responsibility across generations](card:Intergenerational%20responsibility) asks that [present action preserve the future possibility of human life](https://pmc.ncbi.nlm.nih.gov/articles/PMC7797197/). I would not call our flourishing genuine if it depended on making a livable world less possible for those who come after us."
+          "x": "The circle of concern widens once more, to technology and to people not yet born. [Digital well-being](card:Digital%20well-being) concerns [how technologies affect a life good for a human being](https://pmc.ncbi.nlm.nih.gov/articles/PMC7417400/). Jonas's [responsibility across generations](card:Intergenerational%20responsibility) asks that [present action preserve the future possibility of human life](https://pmc.ncbi.nlm.nih.gov/articles/PMC7797197/). I would not call our flourishing genuine if it depended on making a livable world less possible for those who come after us."
         },
         {
           "t": "h2",
@@ -3215,7 +3215,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Admiration offers another way to look beyond ourselves. [Zagzebski's moral theory](https://www.rivistateoria.eu/index.php/teoria/article/download/44/43) begins with [exemplars](card:Moral%20exemplarism): people whose lives make goodness desirable. And [research on spirituality](https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9) finds associations involving [self-transcendent emotions](card:Self-transcendent%20emotions) such as awe, gratitude and love. Those cross-sectional findings do not establish a cause; I take them as a reason to ask what a practice helps us notice and care about, not just how it makes us feel."
+          "x": "Admiration offers another way to look beyond ourselves. [Zagzebski's moral theory](https://www.rivistateoria.eu/index.php/teoria/article/download/44/43) begins with [exemplars](card:Moral%20exemplarism): people whose lives make goodness desirable. Looking at such people belongs to a broader family: [research on spirituality](https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9) finds associations involving [self-transcendent emotions](card:Self-transcendent%20emotions) such as awe, gratitude and love. Those cross-sectional findings do not establish a cause; I take them as a reason to ask what a practice helps us notice and care about, not just how it makes us feel."
         },
         {
           "t": "h2",
@@ -3235,7 +3235,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Frankl's account](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning) of [meaning in the camps does not promise survival](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf). It does not license asking people to suffer nobly when their suffering could be relieved. And in [Plutarch's portrait](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/De_exilio*.html), [Diogenes](card:ST195%20%E2%80%94%20Diogenes%20and%20the%20Sun) answers Alexander's question whether he needs anything by asking him to stop blocking the sunlight."
+          "x": "[Frankl's account](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning) of [meaning in the camps does not promise survival](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf). It does not license asking people to suffer nobly when their suffering could be relieved. Nor is extremity the only test. In [Plutarch's portrait](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/De_exilio*.html), [Diogenes](card:ST195%20%E2%80%94%20Diogenes%20and%20the%20Sun) answers Alexander's question whether he needs anything by asking him to stop blocking the sunlight."
         },
         {
           "t": "p",
