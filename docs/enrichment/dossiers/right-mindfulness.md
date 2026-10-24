@@ -105,21 +105,21 @@ The observation is not detached watching; it is effortful and free of grasping. 
 
 ## Related questions and parallels
 
-### Is mindfulness bare, non-judgmental presence?
+### How do these definitions differ?
 
 The clinical definition that the modern practice family works from, Kabat-Zinn's, reads:
 
 > "the awareness that emerges through paying attention, on purpose, in the present moment, and non-judgmentally to the unfolding of experience moment by moment." ([Wikipedia, "Mindfulness", quoting Jon Kabat-Zinn](https://en.wikipedia.org/wiki/Mindfulness)): Reference article quoting the primary definition; quoted passage checked.
 
-Thanissaro, reading the Pali sati against that definition, denies that this is what sati is; the remembering, keeping-in-mind quality is the factor, and bare non-judgmental presence belongs to other mental qualities:
+Thanissaro, reading the Pali sati, holds that the functions the clinical definition names are not automatically part of sati:
 
 > "Directions such as “bring bare attention to the breath,” or “accept the breath,” or whatever else modern teachers tell us that mindfulness is supposed to do, are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)): Scholarly essay by a monastic translator; quoted passages checked.
 
-And he rejects the passivity the clinical definition suggests, from the same essay:
+From the same essay:
 
 > "meditation isn't just a passive process of being nonjudgmentally present with whatever's there and not changing it at all." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)): Scholarly essay by a monastic translator; quoted passages checked.
 
-The two sides answer the same question, what the trained capacity is, in incompatible ways: on one side attention that receives the present without judgment, on the other a keeping in mind that remembers a path and works at it. The wiki holds both, the clinical family's cards on one side, the sati cards and this essay on the other, and does not reconcile them.
+These excerpts emphasize different aspects of mindfulness: purposeful, nonjudgmental awareness in the clinical definition, and keeping the practice and its purpose in mind in Thanissaro's account. They do not, by themselves, establish a contradiction. The wiki holds both, the clinical family's cards on one side and the sati cards and this essay on the other, and records the question as open.
 
 ## Practice: variation, selection, retention
 

@@ -5,8 +5,8 @@ Verification record for docs/enrichment/dossiers/right-mindfulness.md, revision 
 Every quoted fragment in this dossier was fetched and read from its
 carrier during this session (2026-10-24, per session clock readings:
 baton dos24 claimed at 07:59:40Z, the pass-1 save confirmed by the
-08:00:31Z reading; the card-read audit below was completed by the
-08:04:41Z reading). The session clock runs from T0 =
+08:00:31Z reading; the card-read audit below was completed within
+the same window). The session clock runs from T0 =
 2026-10-24 07:25:01 UTC; fresh UTC and monotonic pairs are recorded in
 the workspace run_clock file, with the monotonic readings labelled as
 such and the original run_clock file's date +%s%N value noted as a
@@ -56,8 +56,14 @@ The checker (scripts/dossier_check.py) exits 0 on the current file:
   mind, Body scan in MBSR, Walking meditation, Epochen, Delight in
   the ordinary). The kernel and story lines were re-read against
   their cards and three were tightened to match.
-- Pass 4 (genuine disagreement): the question taken up was whether
-  mindfulness is bare non-judgmental presence. The clinical side was
+- Pass 4 (disagreement investigation): the question taken up was
+  whether mindfulness is bare non-judgmental presence. The
+  investigation found a useful comparison, not the required
+  disagreement; the excerpts emphasize different aspects and do not,
+  by themselves, establish a contradiction. The dossier section is
+  titled "How do these definitions differ?" and states that plainly.
+  THE GENUINE-DISAGREEMENT REQUIREMENT REMAINS UNFINISHED for this
+  dossier. The clinical side was
   quoted from the Wikipedia Mindfulness article (opened this pass),
   which quotes Kabat-Zinn's definition verbatim: "the awareness that
   emerges through paying attention, on purpose, in the present
