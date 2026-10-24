@@ -12,22 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 73** — See conduct as interaction
 
-Dewey's Human Nature and Conduct treats conduct as made of habit, impulse and environment, and its first section states why the environment is a working part of behavior.
+Dewey treats a habit as an activity that involves both a person and their surroundings: walking requires ground as well as legs, and speech requires companionship and an audience as well as vocal organs ([Human Nature and Conduct, Part I §1, pp. 14–15](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html)). This changes where he looks for ways to alter conduct:
 
 > We cannot change habit directly: that notion is magic. But we can change it indirectly by modifying conditions, by an intelligent selecting and weighting of the objects which engage attention and which influence the fulfilment of desires. (Dewey, Human Nature and Conduct, Part I §1, [full text](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html))
 
-The same section says the same thing from the other side: virtues and vices are "not private possessions of a person" but "working adaptations of personal capacities with environing forces," modifiable "by change of either personal or social elements" (Part I §1). The principle's directive, change impulse, habit or environment, is a summary of that position.
+His concern is moral as well as practical. Blame, praise and punishment themselves help shape the conditions for future action, so judging someone's character does not discharge responsibility for how we treat them ([Part I §1, pp. 18–20](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html)). Dewey rejects both exclusive personal blame and treating social causes as excuses; he asks what our response will make possible next ([pp. 18–19](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html)).
 
-(Dewey, Human Nature and Conduct, 1922.)
+### Plain words
 
-**Plain words**
-Your behavior is welded to your surroundings. Willpower works against everything already in place; the room, the schedule and the route home are the machinery the behavior runs on. Rearranging them is the method Dewey is pointing at.
+When trying to change a recurring action, include the circumstances in your inquiry. Consider what you have learned to do, what the setting allows, and how other people respond. You can take responsibility for an action while also working to change the conditions that sustain it.
 
-*For example:* The jogger who wants to run but owns no shoes and sleeps badly has three places to work: the wanting, the couch habit, the shoes and the sleep. Dewey's point is that the third is a legitimate place to start, not a confession of weak will.
+### For example
+
+Suppose you repeatedly interrupt a colleague in meetings. Alongside practising listening, propose a speaking order that lets each person finish. After the next meeting, ask whether you followed it and whether it helped your colleague be heard; revise the arrangement together. This is my application of Dewey's account, not a promise that rearranging a meeting will resolve the problem.
 
 ## Related concepts
 
 - [[T013 — Seneca]]: the Seneca on Crowds story (ST218) the page carries.
+
+## Sources
+
+- [John Dewey, Human Nature and Conduct (1922), Part I §1, Habits as Social Functions, pp. 14–23, Brock University Mead Project](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html): habit, surroundings, social responses and responsibility for future consequences.
 
 ## Stories
 

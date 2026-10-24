@@ -22,3 +22,11 @@ are not certified by this body-level review.
 - Repair: removed the unsupported claim that a single lapse permanently discounts every future commitment, the uncited K243 attribution and decorative carpenter/beam metaphors. The car example is hypothetical and explicitly author-designed; it includes noticing changed circumstances, varying the action, reviewing the commitment and carrying that lesson forward.
 - Saturation: `enrich_find.py mention trustworthiness` and the existing Trustworthiness concept were read. No additional graph edge is necessary; the concept and numerous kernels already refer to R055. No reciprocal edit or proposal.
 - Limits: xin is not equated with Aristotelian truthfulness; Lai's reliability reading is attributed, not presented as the only translation. Removed Mencius/Wikiquote citations that no longer support a claim in the rewritten body.
+
+## P073: See conduct as interaction
+
+- Opened: [Dewey, Human Nature and Conduct, Part I §1](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey1922_02.html), pp. 14–23, full section.
+- Evidence: opening walking/speech illustrations, pp. 14–15; retained quotation on changing habit through conditions, p. 20; explicit treatment of praise, punishment and social partnership, pp. 18–20. Dewey rejects both exclusively blaming a person and condoning an act because of its social causes.
+- Repair: replaced “welded,” “machinery” and the confused three/four-part jogger example. Restored the ethical consequence of Dewey's interaction account instead of reducing it to a personal productivity tactic. The meeting exercise is my hypothetical application and includes variation, consequences, review and joint revision.
+- Saturation: `enrich_find.py mention organism and environment` found Transaction; Habit and Functional contextualism concepts were read. No new graph edge or equivalence claim is needed. Existing Seneca link is preserved without certifying that association.
+- Limits: historical philosophical account, not a modern experimentally established claim about willpower; no deterministic claim that circumstances eliminate agency or guarantee successful habit change.
