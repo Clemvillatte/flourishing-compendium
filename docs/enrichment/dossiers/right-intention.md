@@ -6,10 +6,13 @@ Intention is where a life's autopilot gets interrupted: renunciation instead of 
 
 ## Nearby terms
 
-- Right resolve, right thought: other renderings of the same Pali factor, sammā saṅkappa; my card is [Right intention](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20intention), and nothing is split between the names.
-- Intention: the general material on intending, and on the gap between intending and doing, lives in the map below ([The intention-behavior gap](https://clemvillatte.github.io/flourishing-compendium/#card=The%20intention-behavior%20gap), [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Implementation%20intentions)); the factor is the path's own discipline of aim, not intending in general.
-- Aspiration: the measured family of life goals ([Aspiration index](https://clemvillatte.github.io/flourishing-compendium/#card=Aspiration%20index), [Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations)) answers what people aim at; it sits in the map's aim side.
-- Renunciation: the first resolve's material; the boundary against the Motivation and Goals dossiers is that those hold the general science of wanting and pursuing, while this page holds the path's discipline of aim.
+Right resolve, right thought: other renderings of the same Pali factor, sammā saṅkappa; my card is [Right intention](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20intention), and nothing is split between the names.
+
+Intention: the general material on intending, and on the gap between intending and doing, lives in the map below ([The intention-behavior gap](https://clemvillatte.github.io/flourishing-compendium/#card=The%20intention-behavior%20gap), [Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=Implementation%20intentions)); the factor is the path's own discipline of aim, not intending in general.
+
+Aspiration: the measured family of life goals ([Aspiration index](https://clemvillatte.github.io/flourishing-compendium/#card=Aspiration%20index), [Extrinsic aspirations](https://clemvillatte.github.io/flourishing-compendium/#card=Extrinsic%20aspirations)) answers what people aim at; it sits in the map's aim side.
+
+Renunciation: the first resolve's material; the boundary against the Motivation and Goals dossiers is that those hold the general science of wanting and pursuing, while this page holds the path's discipline of aim.
 
 ## The map: the entries on right intention
 

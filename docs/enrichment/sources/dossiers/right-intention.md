@@ -186,3 +186,11 @@ checked." and the raw-page variant) were removed from all quote
 attributions in the dossier of record, per the owner stop-gate (checking
 apparatus lives in this ledger; the quotes themselves are unchanged and
 their carrier records below stand). Checker exit 0 after the repair.
+
+## Readability repair (revision 3, 2026-10-25)
+
+No verification labels were present; the dossier's checker failure was
+a prose wall caused by contiguous bullet blocks. Those blocks were
+re-formatted as separate paragraphs (one entry per paragraph, matching
+the anger exemplar's format) so no block exceeds the
+150-visible-word floor. No card link, gloss or quotation was changed.
