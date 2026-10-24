@@ -350,3 +350,49 @@ identified as a missed map entry for the everyday form of right view
 actions) and added to the two-forms subsection. The wiki holds no
 rebirth, merit or giving cards (checked); Karma yoga and Nishkama karma
 are Bhagavad Gita material, off this page's boundary.
+
+## Pass 18 (takeover session, worker-pplx-dos18-1025a): banned-pattern
+## repair and carrier verification
+
+- Meta-text repair: the draft opener's formulaic paragraph and the
+  "How to read this page" paragraph were removed and replaced with an
+  opener that starts from the theme's substance (the factor's
+  definition by discernment, the two forms, the forerunner claim, the
+  stakes). Ten public verification-status labels (": Primary text;
+  quoted passages checked." and the Scholarly interpretation variant)
+  were removed from the quote attributions; the checking apparatus
+  lives in this ledger. All checker-banned institutional-voice
+  phrases were reworded ("the compendium's saying" -> "The same
+  dependence has a saying of its own", etc.), and the residual
+  process-narration sentences ("no carrier has been opened", "Next
+  pass: open the summary carriers") were reworded or moved out of the
+  public path. The "Next pass" research instruction now lives here:
+  open the summary carriers and the tasks-reading scholarship for the
+  truths-tasks-or-beliefs candidate, quote both positions, or drop
+  the divergence.
+- Carrier 5 (Lord, Lepper and Preston 1984) RAW-VERIFIED this
+  session: abstract fetched via NCBI eutils efetch (the PubMed HTML
+  page had returned an HTTP 203 challenge to curl; eutils is the raw
+  path). Both quoted fragments match the raw download word-for-word,
+  including "In both experiments the induction of a
+  consider-the-opposite strategy had greater corrective effect than
+  more demand-laden alternative instructions to be as fair and
+  unbiased as possible."
+- Carrier 6 (Damen, Pollmann and Grassow 2021) VERIFIED this session
+  via the fetch tool's rendering of the Frontiers page (raw curl could
+  not extract the body; the rendered fetch is the house fallback).
+  Verified verbatim: "We found that the more items someone asked
+  about, the more accurate that person was (there was a lower
+  discrepancy between the predicted and the actual price estimates),
+  ρ = −0.277, p = 0.024." and "Of the 66 people in that condition,
+  only 15 (23%) asked the confederate something about all items." The
+  previously unverified Study 1 count is now confirmed: "Only 12 out
+  of the 46 participants (26%) engaged in some form of perspective
+  getting." The K218 card's "12 of 46 asked anything at all" phrasing
+  matches this in substance; the card's wording is the card band's
+  territory.
+- Checker: dossier_check exit 0 on the repaired draft (43 card links,
+  18 headers, 10 external carriers). The draft remains UNPUBLISHED
+  pending supervisor integration; the divergences section honestly
+  holds unresolved candidates, which is the standing blocker for the
+  registry flip alongside the art assignment.
