@@ -114,3 +114,11 @@ are not certified by this body-level review.
 - Repair: retained the already sound doctrinal discussion; added a citation to the opening summary. Plain words now states the distinction directly. Removed the QA-like “supports ... condition; does not fail that condition” phrasing from the example, replacing it with acknowledgment, trying a different response and reviewing it.
 - Saturation: existing Responsibility, Prohairesis and Freedom links retained; no new graph edge needed.
 - Limits: no inference that every observed action was freely chosen, that regret alone erases agency, or that people under extreme threats deserve blame by comparison with an ordinary rude reply.
+
+## R005: Practise forgiveness
+
+- Opened: [Tutu excerpt, p. 31](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/), complete page; [Radzik and Murphy, Reconciliation](https://plato.stanford.edu/entries/reconciliation/), §§3.4, 3.8 and 4; [Russell and Warmke, Forgiveness](https://plato.stanford.edu/entries/forgiveness/), §§2 and 6; [AZAPO judgment](https://www.justice.gov.za/trc/legal/azapo.htm), §§4–6 and 32–33 extraction.
+- Evidence: retained Tutu quotation occurs verbatim in the excerpt labelled p. 31. Official judgment specifies full disclosure, political objective and committee assessment; it is not an automatic exchange of any testimony for amnesty. SEP identifies differences among forgiveness, legal amnesty, excusing and reconciliation, and competing views of obligation.
+- Repair: made the statutory qualification explicit and restored the personal moral question distinct from political institutions. Plain words and the sibling illustration preserve accountability, optional contact and the choice whether to forgive; no promise to switch off resentment.
+- Saturation: `enrich_find.py mention forgiveness` and Forgiveness, Reconciliation and Ubuntu concepts were read. Existing concept pages contain substantial related material; no generic reciprocal addition.
+- Limits: Tutu's claims are presented as his ethical view, not evidence of therapeutic efficacy; no pressure on victims to reconcile, withdraw legal claims, abandon safeguards or forgive on someone else's behalf.

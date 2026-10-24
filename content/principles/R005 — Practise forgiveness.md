@@ -17,11 +17,24 @@ Tutu connects forgiveness to ubuntu's concern for social harmony and describes r
 > "To forgive is not just to be altruistic. It is the best form of self-interest."
 > (Tutu, No Future Without Forgiveness, p. 31, as reproduced in the [Center for Excellence in Preaching excerpt](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/))
 
-The South African Truth and Reconciliation Commission offered amnesty from prosecution for politically motivated human rights abuses in return for full and truthful testimony ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/reconciliation/)). The same account quotes Tutu describing restorative justice in terms of correcting imbalances and restoring broken relationships (TRC Final Report, Vol. 1, Ch. 1, para. 36, quoted in the [Stanford Encyclopedia](https://plato.stanford.edu/entries/reconciliation/)). (Tutu, No Future Without Forgiveness; Ubuntu philosophy.)
+South Africa's TRC amnesty process required full disclosure and an act associated with a political objective; the Amnesty Committee had to assess the statutory criteria, rather than accept a perpetrator's assertion ([Constitutional Court, AZAPO, §§5 and 32](https://www.justice.gov.za/trc/legal/azapo.htm); [Reconciliation, §3.4](https://plato.stanford.edu/entries/reconciliation/)). Tutu described restorative justice through correcting imbalances and restoring relationships ([TRC Final Report, quoted in Reconciliation, §4](https://plato.stanford.edu/entries/reconciliation/)).
 
-**Plain words** Imagine someone has hurt you and you are planning how to get even. The practical exercise here is to reconsider that aim. You could give up a planned act of retaliation while keeping a record of what happened and taking time to decide whether you want further contact.
+Personal forgiveness is a separate question from legal amnesty. Many philosophers also distinguish it from excusing a wrong and from reconciling with the wrongdoer; whether and when forgiveness is owed remains disputed ([Russell and Warmke, Forgiveness, §§2 and 6](https://plato.stanford.edu/entries/forgiveness/)). I would not use this principle to require a harmed person to resume an unsafe relationship.
 
-*For example:* Suppose you decide to forgive a sibling after a quarrel. You abandon a message intended to humiliate them and leave the question of future visits undecided.
+### Plain words
+
+Forgiving someone need not settle whether you want further contact. You can continue to take the wrong seriously, seek accountability and consider what boundaries you need. The application here is to explore a response that does not make retaliation your aim.
+
+### For example
+
+Suppose you decide to forgive a sibling after a quarrel. You might abandon a message intended to humiliate them while leaving future visits undecided. Later, review what you want to communicate about the hurt and what would make any contact acceptable to you. This is my illustration, not a demand to forgive or a promise that resentment will disappear.
+
+## Sources
+
+- [Desmond Tutu, No Future Without Forgiveness, p. 31, excerpt at Calvin Theological Seminary's Center for Excellence in Preaching](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/): ubuntu, social harmony and the quotation.
+- [Linda Radzik and Colleen Murphy, Reconciliation, Stanford Encyclopedia of Philosophy, §§3.4, 3.8 and 4](https://plato.stanford.edu/entries/reconciliation/): amnesty, forgiveness and debates about justice.
+- [Luke Russell and Brandon Warmke, Forgiveness, Stanford Encyclopedia of Philosophy, §§2 and 6](https://plato.stanford.edu/entries/forgiveness/): distinctions and contested obligations.
+- [Constitutional Court of South Africa, AZAPO v President of the Republic of South Africa, §§5 and 32](https://www.justice.gov.za/trc/legal/azapo.htm): conditional amnesty and assessment of a political objective.
 ## Stories
 
 - [[ST041 — Shackleton Keeps the Whole Crew Alive|41. Shackleton Keeps the Whole Crew Alive]]
@@ -84,4 +97,3 @@ The South African Truth and Reconciliation Commission offered amnesty from prose
 ## Philosophy parallels
 
 - **[[Forgiveness|Forgiveness]]** (Arendt, The Human Condition; Derrida, On Cosmopolitanism and Forgiveness)
-
