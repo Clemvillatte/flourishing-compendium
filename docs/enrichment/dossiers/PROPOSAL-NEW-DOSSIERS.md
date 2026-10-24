@@ -253,17 +253,21 @@ reflection) all hold that facing death changes how a life is lived. The registry
 already holds this family in its backlog; backlog presence makes it neither
 published nor planned, and the card base is strong enough to develop.
 
-Coverage test (exact-target audit): the fear-of-death wing is placed — fear.md maps
-Death anxiety research and the Epicurean argument against the fear of death;
-uncertainty.md maps Impermanence; genuine-flourishing.md carries Being-toward-death
-as a single entry. The audit confirms the meaning wing is unmapped: Death
-reflection, Mortality salience, Finitude, The Great Death, Death acceptance and
-the deathbed test are not targets in any staged dossier. The distinct question
-survives: Fear holds the affective response to dying; this holds death as the
-shaper of meaning, gratitude and choice.
+Coverage test (full-registry audit: targets decoded from all 30 staged registry drafts):
+the family's pieces are already scattered without an owner. The fear-of-death wing is
+placed (fear.md maps Death anxiety research and the Epicurean argument; anxiety.md
+also maps Death anxiety research); Impermanence sits in uncertainty.md and
+genuine-flourishing.md; wisdom.md carries Death reflection as a single entry; the
+practice kernels K222 and K316 sit in uncertainty.md's practice section and in the
+GF and Life's Purpose practice lists; Being-toward-death is a single GF entry. What
+no dossier maps: Mortality salience (the terror-management account), Finitude,
+Death acceptance, the deathbed test kernel. So this is a promotion case, stated as
+such: the material exists, is scattered across at least five dossiers, and no
+dossier owns the question. The distinct question survives: Fear holds the affective
+response to dying; this holds death as the shaper of meaning, gratitude and choice.
 
-Supporting cards (read in full: Being-toward-death, Death reflection; the rest opened
-in part):
+Supporting cards (read in full: Being-toward-death, Death reflection, Death
+acceptance; the rest opened in part):
 - [Being-toward-death](../../../content/concepts/Being-toward-death.md) — the
   Heideggerian analysis via SEP: anticipation rather than brooding, mortality as
   the clarifier of finite choice
@@ -271,16 +275,17 @@ in part):
   Cozzolino et al. 2004 and Frias et al. 2011 studies: vivid death reflection
   shifting behavior toward intrinsic and grateful responses, with the claims scoped
   to those studies on the card
+- [Death acceptance](../../../content/concepts/Death%20acceptance.md) — the
+  DAD-R measure's five dimensions and the three acceptance types the card holds
 - [Finitude](../../../content/concepts/Finitude.md),
-  [Mortality salience](../../../content/concepts/Mortality%20salience.md),
-  [The Great Death](../../../content/concepts/The%20Great%20Death.md),
-  [Death acceptance](../../../content/concepts/Death%20acceptance.md) — the limit
-  condition, the terror-management account, Hakuin's curriculum stage, the
-  acceptance practice
+  [Mortality salience](../../../content/concepts/Mortality%20salience.md) — the
+  limit condition; the terror-management account, whose card itself records the
+  2022 seventeen-lab replication test unable to replicate the classic finding
 - kernels [K222 Mortality reflection](../../../content/kernels/K222%20%E2%80%94%20Mortality%20reflection.md),
   [K226 The deathbed test](../../../content/kernels/K226%20%E2%80%94%20The%20deathbed%20test.md),
   [K316 Mortality-to-action translation](../../../content/kernels/K316%20%E2%80%94%20Mortality-to-action%20translation.md)
-  (titles verified)
+  (titles verified; K222 and K316 already placed in other dossiers' practice
+  sections, per the audit)
 - principles B055, B193, E043, E054, M039, M040, P106, S024, S104, S128, SP068,
   D090 (titles verified against files; bodies not read)
 - story [ST272 Being-toward-Death](../../../content/stories/ST272%20%E2%80%94%20Being-toward-Death.md)
@@ -293,10 +298,13 @@ Connections: Fear (the fear-of-death wing), Uncertainty (impermanence), Sufferin
 outcome), the Acceptance proposal (death acceptance as its family member).
 
 Risks: the boundary against Fear must be written first (affective response versus
-meaning-shaper), and the terror-management literature the wiki holds carries its
-own replication debates, which the writer must check against opened carriers rather
-than assert either way. The registry backlog already names the family, so the owner
-is choosing to promote it, not discovering it.
+meaning-shaper), and the terror-management material carries its own recorded
+trouble: the Mortality salience card holds the 2022 seventeen-lab replication test
+that could not replicate the classic finding, so the writer presents that
+literature with its state in view. The promotion also has to decide what happens to
+the scattered placements (the practice kernels in Uncertainty's practice section,
+the single entries in Wisdom and GF): absorbed, cross-referenced, or left in place
+is a registry decision.
 
 ## Considered and not proposed
 
@@ -338,9 +346,9 @@ is choosing to promote it, not discovering it.
 - Justice & Repair (restorative justice, procedural justice, structural injustice,
   sense of community): overlaps the Forgiveness & Repair backlog candidate and
   Others' scope; the owner already holds the question in the backlog.
-- Death and mortality (being-toward-death, death anxiety, death reflection,
-  maranasati): this is the Meaning & Mortality backlog candidate; the backlog should
-  keep it.
+- Death and mortality: developed as proposal 5 above (promotion of the Meaning &
+  Mortality backlog family, with the scattered placements stated as the promotion
+  case).
 - Solitude, Silence, Play: genuine but small clusters (three to six cards); nearby
   terms, not dossiers.
 
@@ -352,11 +360,7 @@ is choosing to promote it, not discovering it.
 | 2 | Acceptance | Life Challenges | moderate-plus: ACT anchor strong, Equanimity boundary open |
 | 3 | Freedom | two boundaries needed: Agency and Anxiety | the flight-and-will wing is unmapped; the Kierkegaardian wing is in Anxiety |
 | 4 | Nature & the Living World | no home under current section rules; backlog pending placement | moderate: research wing plus ethics wing; the self-mapping is in The Self |
-| 5 | Meaning & Mortality | promotion of the backlog family; boundary vs Fear | strong: classical, existential and research wings, carrier-rich |
-
-### Conditional case, not ranked
-
-| Virtue & Character | coverage test defeats it as scoped | the ethics core is in Wisdom; GF holds single entries; a thin unmapped remainder |
+| 5 | Meaning & Mortality | promotion of the backlog family; boundary vs Fear; scattered placements to resolve | strong: classical, existential and research wings, carrier-rich |
 
 My recommendation, if the owner wants the minimum strong set: mint Suffering and
 Acceptance, promote Meaning & Mortality from the backlog, and decide the Freedom
