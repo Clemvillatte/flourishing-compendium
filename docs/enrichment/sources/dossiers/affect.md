@@ -231,3 +231,10 @@ verified") were removed from the public prose per the customer-facing
 rule; the underlying scope facts (each kernel cited at second hand,
 no claim about study sizes or designs) remain stated in plain reader
 terms. The verification history itself belongs in this ledger.
+
+## Spot-check addendum (2026-10-24, supervisor-pplx-1024c-dossiers)
+
+The James 1884 bear-passage quotation was re-checked against the
+carrier opened this session (psychclassics.yorku.ca/James/emotion.htm,
+lowercase): both the "Common sense says" opening and the "afraid
+because we tremble" close match the carrier word-for-word.
