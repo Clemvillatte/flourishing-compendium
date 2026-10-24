@@ -1,1 +1,362 @@
-{"schemaVersion": 1, "updated": "2026-10-24", "note": "Canonical dossier registry. The supervisor/integrator owns this file; dossier writers own only their dossier markdown, evidence ledger and band state. Navigation groups are lenses for the reader (owner-directed), not a scientific taxonomy. Status: published | planned. Art files live in site/assets/dossier-art/ (see manifest.json there); attribution is recorded in the manifest as it appears in the owner's collection filenames and is not independently verified.", "groups": [{"id": "flourishing", "label": "Flourishing & Wisdom", "order": 1}, {"id": "affect", "label": "Affect", "order": 2}, {"id": "cognition", "label": "Cognition", "order": 3}, {"id": "attention", "label": "Attention", "order": 4}, {"id": "self", "label": "Self", "order": 5}, {"id": "motivation", "label": "Motivation", "order": 6}, {"id": "behaviour", "label": "Behaviour", "order": 7}, {"id": "others", "label": "Others", "order": 8}, {"id": "body", "label": "Body", "order": 9}, {"id": "challenges", "label": "Life Challenges", "order": 10}], "dossiers": [{"id": "genuine-flourishing", "title": "Genuine Flourishing", "group": "flourishing", "status": "planned", "featured": true, "art": "genuine-flourishing.jpg", "scope": "The flagship dossier: what flourishing genuinely is (versus its counterfeit versions), across philosophy and psychological science. Must set out its boundary against Happiness (hedonic vs eudaimonic material) explicitly.", "nearby_terms": ["happiness", "well-being", "eudaimonia", "thriving"]}, {"id": "wisdom", "title": "Wisdom", "group": "flourishing", "status": "planned", "art": "wisdom.jpg", "scope": "Phronesis, wise-reasoning research, the mean, practical judgement in the moment. Earlier working title 'Wisdom and Judgement'.", "nearby_terms": ["practical wisdom", "phronesis", "judgement", "insight"]}, {"id": "lifes-purpose", "title": "Life's Purpose", "group": "flourishing", "status": "planned", "art": "lifes-purpose.jpg", "secondary_groups": ["motivation"], "scope": "Purpose and meaning in life: purpose research, Frankl, purpose as an orientation toward something beyond the self. Boundary against Meaning & Mortality (backlog) to be decided when both exist.", "nearby_terms": ["meaning", "purpose", "calling", "vocation"]}, {"id": "affect", "title": "Affect", "group": "affect", "status": "planned", "art": "affect.jpg", "scope": "The overarching dossier for affective states: affect as information, constructed emotion, affect regulation, valence and arousal. Umbrella that disambiguates the family (anger, anxiety, happiness...) without absorbing them.", "nearby_terms": ["emotion", "feeling", "mood", "affective states"]}, {"id": "anger", "title": "Anger", "group": "affect", "status": "published", "art": "anger.jpg", "scope": "Published v2 dossier (2026-10-23). Its 'nearby terms' treatment of irritation/resentment/contempt is the pattern for the family.", "nearby_terms": ["irritation", "resentment", "contempt", "rage", "indignation"]}, {"id": "anxiety", "title": "Anxiety", "group": "affect", "status": "planned", "art": "anxiety.jpg", "scope": "First dossier of the disambiguation programme: an explicit 'Nearby terms' section must examine Stress, Worry and Angst from opened sources and state what the wiki holds on each, before any split into separate dossiers is decided. See docs/enrichment/dossiers/DISAMBIGUATION.md.", "nearby_terms": ["stress", "worry", "angst", "fear", "dread", "apprehension"]}, {"id": "happiness", "title": "Happiness", "group": "affect", "status": "planned", "art": "happiness.jpg", "scope": "Happiness as the affective state and its research (hedonic adaptation, subjective well-being), with an explicit boundary against Genuine Flourishing (eudaimonic material lives there).", "nearby_terms": ["joy", "subjective well-being", "contentment", "pleasure"]}, {"id": "cognition", "title": "Cognition", "group": "cognition", "status": "planned", "art": "cognition.jpg", "scope": "Thinking styles, reasoning, belief formation, the limits of reason. Contains the 'thoughts' territory the owner named.", "nearby_terms": ["thinking", "thoughts", "reasoning", "reason"]}, {"id": "decision-making", "title": "Decision-Making", "group": "cognition", "status": "planned", "art": "decision-making.jpg", "scope": "Heuristics, biases, choice overload and architecture, fast-and-frugal models, akrasia. Overlaps with Cognition are resolved by pointing decision research here and reasoning styles at Cognition.", "nearby_terms": ["choice", "judgement", "heuristics", "akrasia"]}, {"id": "attention", "title": "Attention", "group": "attention", "status": "planned", "art": "attention.jpg", "scope": "Focused-attention meditation, attention restoration, mind-wandering, flow, the economy of the gaze. Contains the 'concentration' territory the owner named.", "nearby_terms": ["concentration", "focus", "mind-wandering", "absorption"]}, {"id": "the-self", "title": "The Self", "group": "self", "status": "published", "art": "the-self.jpg", "scope": "Published v2 exemplar (2026-10-23). 140 concept cards + 16 kernels + 2 sayings across ten subthemes.", "nearby_terms": ["identity", "ego", "self-concept", "selfhood"]}, {"id": "motivation", "title": "Motivation", "group": "motivation", "status": "planned", "art": "motivation.jpg", "scope": "Intrinsic and identified motivation, self-concordance, willpower, desire and craving. Umbrella distinct from Goals.", "nearby_terms": ["drive", "desire", "craving", "willpower"]}, {"id": "goals", "title": "Goals", "group": "motivation", "status": "planned", "art": "goals.jpg", "scope": "Goal setting, goal pursuit, goal conflict, attainment and disengagement. Kept separate from Motivation per advisor direction (owner asked for both).", "nearby_terms": ["goal setting", "aspirations", "aim", "striving"]}, {"id": "agency", "title": "Agency", "group": "motivation", "status": "planned", "art": "agency.jpg", "scope": "Containing Autonomy and Competence: agency as effective power (Dewey), locus of control, self-efficacy, autonomy and competence as basic needs (SDT).", "nearby_terms": ["autonomy", "competence", "self-efficacy", "locus of control"]}, {"id": "behaviour", "title": "Behaviour", "group": "behaviour", "status": "planned", "art": "behaviour.jpg", "scope": "Overt behaviour and habit territory: habit formation, the habit body, discontinuity, returning after lapse. Habit may become a focused dossier later; Behaviour is the EEMM-named umbrella.", "nearby_terms": ["habit", "action", "conduct", "practice"]}, {"id": "others", "title": "Others", "group": "others", "status": "planned", "art": "others.jpg", "scope": "The sociocultural lens: relationships, compassion for others, social baseline, interdependence. Replaces the EEMM 'Sociocultural' label per owner.", "nearby_terms": ["relationships", "compassion", "social connection", "interdependence"]}, {"id": "body", "title": "Body", "group": "body", "status": "planned", "art": "body.jpg", "scope": "The biophysiological lens: interoception, stress physiology, embodiment, breath. Replaces the EEMM 'Biophysiological' label per owner.", "nearby_terms": ["interoception", "embodiment", "physiology", "breath"]}, {"id": "uncertainty", "title": "Uncertainty", "group": "challenges", "status": "planned", "art": "uncertainty.jpg", "scope": "Living with uncertainty: tolerance of uncertainty, probabilistic thinking, impermanence, security vs groundlessness. Cross-cutting theme, deliberately not forced into one EEMM band.", "nearby_terms": ["uncertainty tolerance", "impermanence", "probability", "risk"]}, {"id": "overload-overwhelm", "title": "Overload & Overwhelm", "group": "challenges", "status": "planned", "art": "overload-overwhelm.jpg", "scope": "The overwhelming world: information overload, cognitive load, burnout, demands and resources, saturation. Cross-cutting theme.", "nearby_terms": ["overwhelm", "burnout", "cognitive load", "saturation", "stress"]}], "backlog": ["Memory", "Belief", "Habit (focused, if Behaviour grows too large)", "Sadness & Grief", "Fear", "Perception", "Desire & Craving (if Motivation grows too large)", "Meaning & Mortality", "Forgiveness & Repair", "Compassion without self-abandonment"]}
+{
+ "schemaVersion": 1,
+ "updated": "2026-10-24",
+ "note": "Canonical dossier registry. The supervisor/integrator owns this file; dossier writers own only their dossier markdown, evidence ledger and band state. Navigation groups are lenses for the reader (owner-directed), not a scientific taxonomy. Status: published | planned. Art files live in site/assets/dossier-art/ (see manifest.json there); attribution is recorded in the manifest as it appears in the owner's collection filenames and is not independently verified. question_draft fields are supervisor drafts: the dossier writer refines the question from the material before publishing.",
+ "groups": [
+  {
+   "id": "flourishing",
+   "label": "Flourishing & Wisdom",
+   "order": 1
+  },
+  {
+   "id": "affect",
+   "label": "Affect",
+   "order": 2
+  },
+  {
+   "id": "cognition",
+   "label": "Cognition",
+   "order": 3
+  },
+  {
+   "id": "attention",
+   "label": "Attention",
+   "order": 4
+  },
+  {
+   "id": "self",
+   "label": "Self",
+   "order": 5
+  },
+  {
+   "id": "motivation",
+   "label": "Motivation",
+   "order": 6
+  },
+  {
+   "id": "behaviour",
+   "label": "Behaviour",
+   "order": 7
+  },
+  {
+   "id": "others",
+   "label": "Others",
+   "order": 8
+  },
+  {
+   "id": "body",
+   "label": "Body",
+   "order": 9
+  },
+  {
+   "id": "challenges",
+   "label": "Life Challenges",
+   "order": 10
+  }
+ ],
+ "dossiers": [
+  {
+   "id": "genuine-flourishing",
+   "title": "Genuine Flourishing",
+   "group": "flourishing",
+   "status": "planned",
+   "featured": true,
+   "art": "genuine-flourishing.jpg",
+   "scope": "The flagship dossier: what flourishing genuinely is (versus its counterfeit versions), across philosophy and psychological science. Must set out its boundary against Happiness (hedonic vs eudaimonic material) explicitly.",
+   "nearby_terms": [
+    "happiness",
+    "well-being",
+    "eudaimonia",
+    "thriving"
+   ],
+   "question_draft": "What does it actually take for a life to go well, and how is the genuine article told apart from its counterfeits?"
+  },
+  {
+   "id": "wisdom",
+   "title": "Wisdom",
+   "group": "flourishing",
+   "status": "planned",
+   "art": "wisdom.jpg",
+   "scope": "Phronesis, wise-reasoning research, the mean, practical judgement in the moment. Earlier working title 'Wisdom and Judgement'.",
+   "nearby_terms": [
+    "practical wisdom",
+    "phronesis",
+    "judgement",
+    "insight"
+   ],
+   "question_draft": "What is wisdom doing when it judges, and can it be cultivated or only matured?"
+  },
+  {
+   "id": "lifes-purpose",
+   "title": "Life's Purpose",
+   "group": "flourishing",
+   "status": "planned",
+   "art": "lifes-purpose.jpg",
+   "secondary_groups": [
+    "motivation"
+   ],
+   "scope": "Purpose and meaning in life: purpose research, Frankl, purpose as an orientation toward something beyond the self. Boundary against Meaning & Mortality (backlog) to be decided when both exist.",
+   "nearby_terms": [
+    "meaning",
+    "purpose",
+    "calling",
+    "vocation"
+   ],
+   "question_draft": "What is a life for, and where does a sense of purpose come from?"
+  },
+  {
+   "id": "affect",
+   "title": "Affect",
+   "group": "affect",
+   "status": "planned",
+   "art": "affect.jpg",
+   "scope": "The overarching dossier for affective states: affect as information, constructed emotion, affect regulation, valence and arousal. Umbrella that disambiguates the family (anger, anxiety, happiness...) without absorbing them.",
+   "nearby_terms": [
+    "emotion",
+    "feeling",
+    "mood",
+    "affective states"
+   ],
+   "question_draft": "What is an emotion made of, and what is it telling the person who feels it?"
+  },
+  {
+   "id": "anger",
+   "title": "Anger",
+   "group": "affect",
+   "status": "published",
+   "art": "anger.jpg",
+   "scope": "Published v2 dossier (2026-10-23). Its 'nearby terms' treatment of irritation/resentment/contempt is the pattern for the family.",
+   "nearby_terms": [
+    "irritation",
+    "resentment",
+    "contempt",
+    "rage",
+    "indignation"
+   ]
+  },
+  {
+   "id": "anxiety",
+   "title": "Anxiety",
+   "group": "affect",
+   "status": "planned",
+   "art": "anxiety.jpg",
+   "scope": "First dossier of the disambiguation programme: an explicit 'Nearby terms' section must examine Stress, Worry and Angst from opened sources and state what the wiki holds on each, before any split into separate dossiers is decided. See docs/enrichment/dossiers/DISAMBIGUATION.md.",
+   "nearby_terms": [
+    "stress",
+    "worry",
+    "angst",
+    "fear",
+    "dread",
+    "apprehension"
+   ],
+   "question_draft": "What is anxiety protecting or preparing us for, and when does it stop serving the person who carries it?"
+  },
+  {
+   "id": "happiness",
+   "title": "Happiness",
+   "group": "affect",
+   "status": "planned",
+   "art": "happiness.jpg",
+   "scope": "Happiness as the affective state and its research (hedonic adaptation, subjective well-being), with an explicit boundary against Genuine Flourishing (eudaimonic material lives there).",
+   "nearby_terms": [
+    "joy",
+    "subjective well-being",
+    "contentment",
+    "pleasure"
+   ],
+   "question_draft": "What is happiness made of, and why does it slip away when it is chased?"
+  },
+  {
+   "id": "cognition",
+   "title": "Cognition",
+   "group": "cognition",
+   "status": "planned",
+   "art": "cognition.jpg",
+   "scope": "Thinking styles, reasoning, belief formation, the limits of reason. Contains the 'thoughts' territory the owner named.",
+   "nearby_terms": [
+    "thinking",
+    "thoughts",
+    "reasoning",
+    "reason"
+   ],
+   "question_draft": "How does thinking work, and where does it reliably fail?"
+  },
+  {
+   "id": "decision-making",
+   "title": "Decision-Making",
+   "group": "cognition",
+   "status": "planned",
+   "art": "decision-making.jpg",
+   "scope": "Heuristics, biases, choice overload and architecture, fast-and-frugal models, akrasia. Overlaps with Cognition are resolved by pointing decision research here and reasoning styles at Cognition.",
+   "nearby_terms": [
+    "choice",
+    "judgement",
+    "heuristics",
+    "akrasia"
+   ],
+   "question_draft": "How does a person choose well under uncertainty, and what gets in the way?"
+  },
+  {
+   "id": "attention",
+   "title": "Attention",
+   "group": "attention",
+   "status": "planned",
+   "art": "attention.jpg",
+   "scope": "Focused-attention meditation, attention restoration, mind-wandering, flow, the economy of the gaze. Contains the 'concentration' territory the owner named.",
+   "nearby_terms": [
+    "concentration",
+    "focus",
+    "mind-wandering",
+    "absorption"
+   ],
+   "question_draft": "What is attention, what does it cost, and what does it build?"
+  },
+  {
+   "id": "the-self",
+   "title": "The Self",
+   "group": "self",
+   "status": "published",
+   "art": "the-self.jpg",
+   "scope": "Published v2 exemplar (2026-10-23). 140 concept cards + 16 kernels + 2 sayings across ten subthemes.",
+   "nearby_terms": [
+    "identity",
+    "ego",
+    "self-concept",
+    "selfhood"
+   ]
+  },
+  {
+   "id": "motivation",
+   "title": "Motivation",
+   "group": "motivation",
+   "status": "planned",
+   "art": "motivation.jpg",
+   "scope": "Intrinsic and identified motivation, self-concordance, willpower, desire and craving. Umbrella distinct from Goals.",
+   "nearby_terms": [
+    "drive",
+    "desire",
+    "craving",
+    "willpower"
+   ],
+   "question_draft": "What moves a person, and which movements of the heart are worth trusting?"
+  },
+  {
+   "id": "goals",
+   "title": "Goals",
+   "group": "motivation",
+   "status": "planned",
+   "art": "goals.jpg",
+   "scope": "Goal setting, goal pursuit, goal conflict, attainment and disengagement. Kept separate from Motivation per advisor direction (owner asked for both).",
+   "nearby_terms": [
+    "goal setting",
+    "aspirations",
+    "aim",
+    "striving"
+   ],
+   "question_draft": "How do aims shape a life, and when is the right move to drop one?"
+  },
+  {
+   "id": "agency",
+   "title": "Agency",
+   "group": "motivation",
+   "status": "planned",
+   "art": "agency.jpg",
+   "scope": "Containing Autonomy and Competence: agency as effective power (Dewey), locus of control, self-efficacy, autonomy and competence as basic needs (SDT).",
+   "nearby_terms": [
+    "autonomy",
+    "competence",
+    "self-efficacy",
+    "locus of control"
+   ],
+   "question_draft": "How much say does a person have over their own life, and what grows that say?"
+  },
+  {
+   "id": "behaviour",
+   "title": "Behaviour",
+   "group": "behaviour",
+   "status": "planned",
+   "art": "behaviour.jpg",
+   "scope": "Overt behaviour and habit territory: habit formation, the habit body, discontinuity, returning after lapse. Habit may become a focused dossier later; Behaviour is the EEMM-named umbrella.",
+   "nearby_terms": [
+    "habit",
+    "action",
+    "conduct",
+    "practice"
+   ],
+   "question_draft": "How do repeated actions become a life, and how does a stuck pattern change?"
+  },
+  {
+   "id": "others",
+   "title": "Others",
+   "group": "others",
+   "status": "planned",
+   "art": "others.jpg",
+   "scope": "The sociocultural lens: relationships, compassion for others, social baseline, interdependence. Replaces the EEMM 'Sociocultural' label per owner.",
+   "nearby_terms": [
+    "relationships",
+    "compassion",
+    "social connection",
+    "interdependence"
+   ],
+   "question_draft": "What do other people do to a person's mind and flourishing, and what does one person owe another?"
+  },
+  {
+   "id": "body",
+   "title": "Body",
+   "group": "body",
+   "status": "planned",
+   "art": "body.jpg",
+   "scope": "The biophysiological lens: interoception, stress physiology, embodiment, breath. Replaces the EEMM 'Biophysiological' label per owner.",
+   "nearby_terms": [
+    "interoception",
+    "embodiment",
+    "physiology",
+    "breath"
+   ],
+   "question_draft": "What does the body know, and how does it participate in suffering and flourishing?"
+  },
+  {
+   "id": "uncertainty",
+   "title": "Uncertainty",
+   "group": "challenges",
+   "status": "planned",
+   "art": "uncertainty.jpg",
+   "scope": "Living with uncertainty: tolerance of uncertainty, probabilistic thinking, impermanence, security vs groundlessness. Cross-cutting theme, deliberately not forced into one EEMM band.",
+   "nearby_terms": [
+    "uncertainty tolerance",
+    "impermanence",
+    "probability",
+    "risk"
+   ],
+   "question_draft": "Can a person live well without knowing what comes next?"
+  },
+  {
+   "id": "overload-overwhelm",
+   "title": "Overload & Overwhelm",
+   "group": "challenges",
+   "status": "planned",
+   "art": "overload-overwhelm.jpg",
+   "scope": "The overwhelming world: information overload, cognitive load, burnout, demands and resources, saturation. Cross-cutting theme.",
+   "nearby_terms": [
+    "overwhelm",
+    "burnout",
+    "cognitive load",
+    "saturation",
+    "stress"
+   ],
+   "question_draft": "When the world gives more than a person can take in, what still works?"
+  }
+ ],
+ "backlog": [
+  "Memory",
+  "Belief",
+  "Habit (focused, if Behaviour grows too large)",
+  "Sadness & Grief",
+  "Fear",
+  "Perception",
+  "Desire & Craving (if Motivation grows too large)",
+  "Meaning & Mortality",
+  "Forgiveness & Repair",
+  "Compassion without self-abandonment"
+ ]
+}
