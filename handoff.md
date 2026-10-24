@@ -1,9 +1,10 @@
 # Worker band dos18 (Right View) — status at 2026-10-24 T+28
 
-Draft at docs/enrichment/drafts/dos18-right-view/draft.md (10 passes, all
-pushed; checker passes: 40 card links, 17 headers, 10 external carrier
-occurrences = 7 source URLs). NOT QC-passed and NOT promoted; registry
-status stays planned. Advised verdict: a clearly labeled research draft
+Draft at docs/enrichment/drafts/dos18-right-view/draft.md (16 passes,
+all pushed; checker passes: 42 card links, 18 headers, 10 external
+carrier occurrences = 7 source URLs). NOT QC-passed and NOT promoted;
+registry status stays planned. Next: complete evidence/coverage review
+and format QC before considering promotion. Advised verdict: a clearly labeled research draft
 with unresolved work; do not mark ready for promotion.
 
 Open blockers for the next writer:

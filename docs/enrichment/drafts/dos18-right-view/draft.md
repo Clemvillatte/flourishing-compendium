@@ -167,7 +167,7 @@ Three of the compendium's view-family stories carry the theme: the view of the s
 
 ### The view of the self
 
-- [ST065 — Nagasena and the Chariot](https://clemvillatte.github.io/flourishing-compendium/#card=ST065%20%E2%80%94%20Nagasena%20and%20the%20Chariot): King Milinda pounces on the monk's name, and Nagasena dismantles the chariot part by part until the king concedes that "chariot" is a convention for an assembly in working order, and so is Nagasena.
+- [ST065 — Nagasena and the Chariot](https://clemvillatte.github.io/flourishing-compendium/#card=ST065%20%E2%80%94%20Nagasena%20and%20the%20Chariot): King Milinda pounces on the monk's name, and Nagasena dismantles the chariot part by part until the king concedes that "chariot" is a designation in common use for the assembled parts, and so is Nagasena.
 
 ### The view of effort
 

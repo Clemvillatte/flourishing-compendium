@@ -322,3 +322,22 @@ curl but the tag-stripped raw text does not contain the expected title
 string, so the article body is not confirmed present in the raw
 response. Both carriers REMAIN extraction-checked only; the browser
 (or the fetch tool) is the viable verification path for a future pass.
+
+## Pass 16, advisor QC round 6 record fixes (2026-10-24)
+
+- Kernel review claim corrected precisely: 64 BOUNDED OPENING EXCERPTS
+  inspected (400-character caps; K403, K404, K406 and K407 included in
+  this pass, all values/compassion/coping kernels, boundary call
+  off-theme; K407 noted as adjacent-but-coping). Protocol-level reading
+  is claimed only for the nine selected kernels.
+- Frontiers/PubMed raw-verification wording corrected: the Frontiers
+  probe searched for the expected title string, not the article's cited
+  passage, so the result shows only that raw verification was NOT
+  ACHIEVED against the cited passage, not that the body is absent; the
+  PubMed 203 response was not inspected, so its nature is undetermined.
+  Both carriers remain extraction-checked.
+- ST065 logline trimmed to the opened page's wording: "chariot" is a
+  designation in common use for the assembled parts (the "working
+  order" qualifier is withdrawn; the opened passage does not carry it).
+- The dos20 check is recorded as a structural check (checker exit 0,
+  registry correctly planned), not supervisor content approval.
