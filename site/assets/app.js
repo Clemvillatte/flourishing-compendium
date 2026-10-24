@@ -6704,7 +6704,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
@@ -6712,7 +6712,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST069 — The Four Foundations](card:ST069%20%E2%80%94%20The%20Four%20Foundations): the Satipaṭṭhāna Sutta opens by calling its practice the direct path for the purification of beings — in other words, the four frames of reference."
+          "x": "[ST069 — The Four Foundations](card:ST069%20%E2%80%94%20The%20Four%20Foundations): the Satipaṭṭhāna Sutta opens by calling its practice the direct path for the purification of beings: the four frames of reference."
         },
         {
           "t": "p",
@@ -6724,15 +6724,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST025 — The Cicada Catcher's Stillness](card:ST025%20%E2%80%94%20The%20Cicada%20Catcher%27s%20Stillness): Confucius finds an old hunchback catching cicadas with a sticky pole, as easily as picking them off the ground; asked the secret, he describes balancing poles with increasing weights until his body stood like an old stump — no longer noticing the world's ten thousand things, only the wings."
+          "x": "[ST025 — The Cicada Catcher's Stillness](card:ST025%20%E2%80%94%20The%20Cicada%20Catcher%27s%20Stillness): Confucius finds an old hunchback catching cicadas with a sticky pole, as easily as picking them off the ground; asked the secret, he describes balancing poles with increasing weights until his body stood like an old stump, no longer noticing the world's ten thousand things, only the wings."
         },
         {
           "t": "p",
-          "x": "[ST018 — The Swimmer at Lüliang Falls](card:ST018%20%E2%80%94%20The%20Swimmer%20at%20L%C3%BCliang%20Falls): Confucius watches a man dive into the torrent where the water drops forty fathoms, and the swimmer answers from the water: he follows the water's way — down with the whirlpools, up with the waves."
+          "x": "[ST018 — The Swimmer at Lüliang Falls](card:ST018%20%E2%80%94%20The%20Swimmer%20at%20L%C3%BCliang%20Falls): Confucius watches a man dive into the torrent where the water drops forty fathoms, and the swimmer answers from the water: he follows the water's way: down with the whirlpools, up with the waves."
         },
         {
           "t": "p",
-          "x": "[ST028 — Eliud Kipchoge Runs 1 — 59](card:ST028%20%E2%80%94%20Eliud%20Kipchoge%20Runs%201%20%E2%80%94%2059): in Vienna, Kipchoge runs a marathon in 1:59:40 — not a record, the conditions engineered; he lives in a spartan training camp, shares chores with younger runners, smiles in the late stages of races, and says afterwards: No human is limited."
+          "x": "[ST028 — Eliud Kipchoge Runs 1 — 59](card:ST028%20%E2%80%94%20Eliud%20Kipchoge%20Runs%201%20%E2%80%94%2059): in Vienna, Kipchoge runs a marathon in 1:59:40, not a record: the conditions were engineered; he lives in a spartan training camp, shares chores with younger runners, smiles in the late stages of races, and says afterwards: No human is limited."
         },
         {
           "t": "h2",
@@ -6740,7 +6740,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST057 — Agnes Martin Paints Grids](card:ST057%20%E2%80%94%20Agnes%20Martin%20Paints%20Grids): Martin painted nothing but grids for decades: hand-drawn pencil lines and pale bands of colour on square canvases — a working life spent inside one form of sustained looking."
+          "x": "[ST057 — Agnes Martin Paints Grids](card:ST057%20%E2%80%94%20Agnes%20Martin%20Paints%20Grids): Martin painted nothing but grids for decades: hand-drawn pencil lines and pale bands of colour on square canvases: a working life spent inside one form of sustained looking."
         },
         {
           "t": "h2",
@@ -6752,7 +6752,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST432 — Jim Forest Washes the Dishes](card:ST432%20%E2%80%94%20Jim%20Forest%20Washes%20the%20Dishes): one evening Forest offers to wash the dishes, and Nhat Hanh answers: there are two ways to wash the dishes — the first to have clean dishes, the second to wash the dishes in order to wash the dishes."
+          "x": "[ST432 — Jim Forest Washes the Dishes](card:ST432%20%E2%80%94%20Jim%20Forest%20Washes%20the%20Dishes): one evening Forest offers to wash the dishes, and Nhat Hanh answers: there are two ways to wash the dishes: the first to have clean dishes, the second to wash the dishes in order to wash the dishes."
         }
       ],
       "group": "eemm",

@@ -1,7 +1,7 @@
 {
  "baton": "dos4",
- "agent": "worker-pplx-dos4-1024c",
- "clocked_in": "2026-10-24T05:34:27+00:00",
+ "agent": "worker-pplx-dos4-1024e",
+ "clocked_in": "2026-10-24T05:43:08+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-dos4-1024c",
@@ -20,8 +20,12 @@
    "at": "2026-10-24T05:34:27+00:00",
    "from": "worker-pplx-dos4-1024c",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-dos4-1024e",
+   "at": "2026-10-24T05:43:08+00:00",
+   "from": "worker-pplx-dos4-1024c",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-24T05:34:35+00:00"
+ ]
 }

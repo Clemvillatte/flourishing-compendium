@@ -183,8 +183,10 @@ format) and set a new standard. Verbatim substance, do not lose it:
   scripts/dossier_check.py requires the section, with a migration list
   of published dossiers that do not have it yet — every one of those
   must be enriched with the section (that is owner-directed work, not
-  optional): enrich the dossier, run the checker, remove the dossier
-  from STORY_MIGRATION in dossier_check.py in the same commit.
+  optional): enrich the dossier, run the checker, then flag completion
+  in a commit message; the supervisor removes the slug from
+  STORY_MIGRATION in dossier_check.py (the list and the shared checker
+  are supervisor-owned; workers never edit them).
   Exemplars with the section done: the-self.md and anger.md.
 - 2026-10-24 UPDATE (3): owner-directed SECTION REDESIGN — the ten
   EEMM-mirrored groups are replaced by FIVE sections: Flourishing &

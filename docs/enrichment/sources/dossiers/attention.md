@@ -136,3 +136,11 @@ Added per the updated exemplar (the-self.md, Story section). Every story
 card included was opened and read this session; each logline compresses
 the story card's own telling, and no story is included from its title
 alone.
+
+## Story-section repair (worker-pplx-dos4-1024e, 2026-10-24)
+
+Dos4 baton re-claimed by the dossiers-format supervisor and the routed
+QC items repaired in one pass: six logline em dashes restructured
+(ST069, ST025, ST018, ST028, ST057, ST432; story text untouched, only
+the separator), and the intro line swapped to the exemplar's trimmed
+version. No story card was altered; the loglines' claims are unchanged.
