@@ -216,3 +216,39 @@ Both positions answer the same question, what to do with a painful thought, and 
 The evidence limits are uneven across the list, and the kernels say so where it matters: the thought record and reappraisal carry the CBT trial literature; the defusion family carries the ACT literature; the wise-reasoning prompts carry Grossmann's situation-varying findings rather than a tested protocol.
 
 ::Retention:: Retention is what people keep because it works for them.
+
+## Story: the stories that carry the theme
+
+The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+
+### Beliefs
+
+[ST102 — Peirce's Maxim](https://clemvillatte.github.io/flourishing-compendium/#card=ST102%20%E2%80%94%20Peirce%27s%20Maxim): Peirce asks what the meaning of a concept is and answers with a maxim: consider what practical effects we conceive the object of our concept to have — the meaning is those effects.
+
+[ST103 — James and the Cash Value of Ideas](https://clemvillatte.github.io/flourishing-compendium/#card=ST103%20%E2%80%94%20James%20and%20the%20Cash%20Value%20of%20Ideas): James popularises the maxim with a metaphor that stuck and annoyed: true ideas are those we can assimilate, corroborate and verify — the cash value of an idea.
+
+[ST106 — Peirce's Four Methods](https://clemvillatte.github.io/flourishing-compendium/#card=ST106%20%E2%80%94%20Peirce%27s%20Four%20Methods): “The Fixation of Belief” catalogues the ways people settle their beliefs — tenacity holds the belief and ignores doubt; authority lets the institution do it; and the list runs on to the method that fixes belief by appeal to the real.
+
+[ST186 — The Fox and the Grapes](https://clemvillatte.github.io/flourishing-compendium/#card=ST186%20%E2%80%94%20The%20Fox%20and%20the%20Grapes): a fox, unable to reach the grapes, walks away saying they were probably sour anyway; Aesop's tag: it is easy to despise what you cannot get.
+
+### Thinking that hurts
+
+[ST154 — John Nash and the Delusion's Signature](https://clemvillatte.github.io/flourishing-compendium/#card=ST154%20%E2%80%94%20John%20Nash%20and%20the%20Delusion%27s%20Signature): the film renders Nash's hallucinations as fully realised characters — a roommate, a government agent — and the story belongs to his learning their signature: they never age.
+
+[ST155 — Meno's Paradox](https://clemvillatte.github.io/flourishing-compendium/#card=ST155%20%E2%80%94%20Meno%27s%20Paradox): the inquiry hits a wall: how will you look for virtue if you do not know what it is, and if you know what you are looking for, why look?
+
+[ST172 — Thales Falls in the Well](https://clemvillatte.github.io/flourishing-compendium/#card=ST172%20%E2%80%94%20Thales%20Falls%20in%20the%20Well): Thales, walking at night studying the stars, falls into a well; the Thracian servant girl laughs — so eager to know what is in the heavens that he cannot see what is at his feet.
+
+### Changing thinking
+
+[ST427 — The Ladder for Unskillful Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST427%20%E2%80%94%20The%20Ladder%20for%20Unskillful%20Thoughts): the Vitakkasanthana Sutta addresses a monk in whom thoughts imbued with desire, aversion or delusion arise, and offers a ladder of responses for relaxing such thoughts.
+
+[ST419 — Poincare Leaves the Problem and Returns to Check It](https://clemvillatte.github.io/flourishing-compendium/#card=ST419%20%E2%80%94%20Poincare%20Leaves%20the%20Problem%20and%20Returns%20to%20Check%20It): Poincare's mathematical investigation is repeatedly interrupted; the ideas arrive while he is travelling or walking, and he returns to deliberate work to check and finish them.
+
+[ST415 — The Blind Men and the Elephant](https://clemvillatte.github.io/flourishing-compendium/#card=ST415%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): after monks report sectarians quarrelling, the Buddha tells of a king who has people blind from birth shown different parts of an elephant — each group describes the whole animal from the part in its hands.
+
+[ST083 — Neo Takes the Red Pill](https://clemvillatte.github.io/flourishing-compendium/#card=ST083%20%E2%80%94%20Neo%20Takes%20the%20Red%20Pill): offered the blue pill that returns him to comfortable ignorance or the red pill that shows him his world is a simulation, he takes the red pill.
+
+### Two speeds
+
+[ST130 — Berlin's Fox and Hedgehog](https://clemvillatte.github.io/flourishing-compendium/#card=ST130%20%E2%80%94%20Berlin%27s%20Fox%20and%20Hedgehog): Berlin takes a line from Archilochus — the fox knows many things, but the hedgehog knows one big thing — and turns it into the most quoted typology in twentieth-century thought.
