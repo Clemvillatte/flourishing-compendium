@@ -144,3 +144,28 @@ Added per the updated exemplar (the-self.md, Story section). Every story
 card included was opened and read this session; each logline compresses
 the story card's own telling, and no story is included from its title
 alone.
+
+## Readability repair (revision 3, 2026-10-25)
+
+The map's contiguous bullet blocks were re-formatted as separate
+paragraphs (one entry per paragraph, matching the anger exemplar's
+format) so no block exceeds the 150-visible-word floor. No card link,
+gloss or story entry was changed; only the paragraph structure moved.
+
+Verification-status phrases removed from the public prose and relocated
+here unchanged. These are inherited notes from the prior revision; this
+session has not independently re-checked any of the three carriers.
+
+- James 1884 (Mind, psychclassics carrier): prior note — blockquote
+  checked word-for-word against the opened carrier; the source's closing
+  comma is omitted from the quoted passage.
+- Ekman 1993 (American Psychologist 48(4), award address): prior note —
+  quoted passages checked against the opened PDF, pp. 384-387.
+- Posner, Russell and Peterson 2005 (Development and Psychopathology,
+  scholarly review): prior note — cited passages checked against the
+  opened PMC carrier.
+
+Meta-text removed from the public prose in the same pass: "mapped below"
+(twice), "the label I use" (reworded to "my label"), "Work the map's
+breadth" (reworded), and the Story section's one-line page
+self-description.
