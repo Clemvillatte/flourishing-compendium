@@ -39,5 +39,7 @@
    "from": "worker-pplx-ct3-1023a",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-24T15:04:46+00:00"
 }
