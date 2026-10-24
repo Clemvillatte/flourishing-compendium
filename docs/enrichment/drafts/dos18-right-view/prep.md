@@ -84,3 +84,22 @@ against the cards and opened sources)
 batches/dos18.json records in_progress with this pass. Art assignment
 pending supervisor selection. Registry status stays planned; flip is
 supervisor-only.
+
+## Pass 2 additions (2026-10-24 ~07:40Z)
+
+Carriers opened and verified (see ledger): MN 117 (two forms of right view;
+forerunner passage — both match the Right view card's quotes verbatim) and
+SN 56.11 (four-truths verbs; the path list — matches the Four Noble Truths
+and Eightfold Path cards). Story cards read for the future Story section:
+ST064 (lute string: effort tuned, not forced; pairs with Right effort more
+than Right view — candidate for the sibling dossier, flagged), ST065
+(Nagasena's chariot: the person as working assembly — right view of the
+self, strong fit), ST067 (Fletcher's Classroom: the counter-example of a
+wound-past-breaking view of mastery — cross-check which factor it best
+serves before placing it). Kernel K134 (two-truths drill) read: the
+consider-the-opposite evidence makes it a strong Practice-selection
+candidate for the views family.
+
+Open question for the next writer: the ST064 story serves Right effort at
+least as well as Right view — decide placement per the section rules (one
+story may serve both dossiers via card links; do not duplicate loglines).

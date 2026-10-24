@@ -51,3 +51,30 @@ The sweep inventory and suggested subthemes live in
 docs/enrichment/drafts/dos18-right-view/prep.md; nothing there is
 reader-facing. The MN 9 and SN 12.15 pages were fetched and checked via the
 session's rendering of the live pages (extraction-verified, not raw curl).
+
+## Carriers opened and verified (pass 2)
+
+3. MN 117, Mahācattārīsaka Sutta — Thanissaro Bhikkhu translation,
+   https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html
+   - Verified present: the two-forms passage ("Right view, I tell you, is of
+     two sorts: There is right view with effluents, siding with merit,
+     resulting in acquisitions [of becoming]; there is right view that is
+     noble, without effluents, transcendent, a factor of the path.") and the
+     everyday form's conviction list ("There is what is given, what is
+     offered, what is sacrificed. There are fruits & results of good & bad
+     actions. There is this world & the next world...").
+   - Verified present: "Of those, right view is the forerunner. And how is
+     right view the forerunner? In one of right view, wrong view is
+     abolished..."
+
+4. SN 56.11, Dhammacakkappavattana Sutta — Thanissaro Bhikkhu translation,
+   https://www.dhammatalks.org/suttas/SN/SN56_11.html
+   - Verified present: the four tasks ("This noble truth of stress is to be
+     comprehended... origination... abandoned... cessation... realized...
+     way of practice... developed.") and the path list ("precisely this
+     noble eightfold path: right view, right resolve, right speech, right
+     action, right livelihood, right effort, right mindfulness, right
+     concentration.").
+
+Story cards read (not quoted yet): ST064, ST065, ST067. Kernel read:
+K134 (its evidence: Lord, Lepper & Preston 1984, consider-the-opposite).
