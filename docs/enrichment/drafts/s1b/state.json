@@ -718,7 +718,47 @@
      "note": "advisor round 1 applied: unsupported reactions cut, developmental claim removed, ending restored, violence boundary added"
     }
    ]
+  },
+  "s1b-033": {
+   "status": "returned",
+   "angle": "P162 committed action: Rodia 33 years of weekly purchases and evening labor (LAT 1985 + PBS SoCal, quotes verified this session)",
+   "history": [
+    {
+     "t": "2026-10-24T14:38:46+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:38:46+00:00",
+     "to": "qc_pending",
+     "note": "first draft; advisor QC round pending"
+    },
+    {
+     "t": "2026-10-24T14:39:45+00:00",
+     "to": "returned",
+     "note": "advisor QC: rung 3 does not apply (P162 has 8 stories); quotes kept as verified research material, draft parked; also repair list noted: no absolutes beyond sources, keep split quotes separate"
+    }
+   ]
+  },
+  "s1b-034": {
+   "status": "ready",
+   "angle": "B047 great doubt: Hakuin Yen-t'ou/ice-sheet/bell passage (Yampolsky Selected Writings, Terebess), quotes verified verbatim",
+   "history": [
+    {
+     "t": "2026-10-24T14:40:49+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:40:49+00:00",
+     "to": "qc_pending",
+     "note": "first draft; advisor QC round pending"
+    },
+    {
+     "t": "2026-10-24T14:41:34+00:00",
+     "to": "ready",
+     "note": "advisor repairs applied: continuity claim removed, sequel claims removed, reading re-anchored to the sequence the extract carries"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:38:11+00:00"
+ "updated": "2026-10-24T14:41:34+00:00"
 }
