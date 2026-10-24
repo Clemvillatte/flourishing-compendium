@@ -30,8 +30,7 @@ The sky image and the practical advice below belong to the compendium, not to th
 - [[T012 — Laozi]]: the empty hub of the wheel, Daodejing 11, the page's nothingness image.## Sources
 
 - [Stanford Encyclopedia of Philosophy, "Kyoto School", sections 3.2 and 3.5](https://plato.stanford.edu/entries/kyoto-school/) — field of emptiness and Nishitani's passage
-
-## Psychology parallels
+- [[T051 — Nishida Kitaro]]: the emptiness-as-place thinking the SEP entry says Nishitani follows him in.## Psychology parallels
 
 - **Cognitive space and working memory's limits**, the mechanical sense in which occupied structures crowd out perception of the new (the attentional blink and load research, as framework)
 

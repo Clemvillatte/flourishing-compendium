@@ -40,3 +40,6 @@ Why has detachment been the dominant Western reading of Eastern traditions? What
 %%
 Can grief be felt fully without the extra layer of self-reference? Describe what you imagine that would be.
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: the Kyoto School nothingness the principle's SEP citation grounds as non-exit.

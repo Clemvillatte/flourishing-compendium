@@ -42,3 +42,6 @@ Once a month, write "I no longer believe..." and "I now believe...", each with o
 
 - **Contradiction tolerated as growth** (Nishida's contradictory identity, as the cross-tradition echo)
 - **[[I contain multitudes|I contain multitudes]]** (Whitman, Song of Myself)- **[[Self-reliance|Self-reliance]]** (Skeptic & Mesoamerican)
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: contradictory identity, the tolerated contradiction the page's cross-tradition echo cites.

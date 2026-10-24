@@ -34,3 +34,6 @@ A manager insists on constant positivity. After a team member says an honest wor
 
 - **[[Unity of opposites|The unity of opposites]]** (Heraclitus, Fragments; Nishida's contradictory identity)
 - **[[Yin and yang|Yin and yang]]** (Chinese tradition, the Zhouyi's preface)
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: contradictory identity beside Heraclitus's unity of opposites, the page's cross-tradition echo.

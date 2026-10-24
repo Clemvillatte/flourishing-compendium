@@ -42,8 +42,7 @@ Both passages concern naming the Tao. The extension to the labels put on people,
 - [[T012 — Laozi]]: the Daodejing 1 opening the page is built on.## Related thinkers
 
 - [[T009 — Zhuangzi]]: the critique of argumentative words that never reach their point, paired with D016.
-
-## Sources
+- [[T051 — Nishida Kitaro]]: pure experience, the labels arriving late, via the K001 kernel.## Sources
 
 - [Laozi, Daodejing 1](https://www.gutenberg.org/files/216/216-0.txt)
 

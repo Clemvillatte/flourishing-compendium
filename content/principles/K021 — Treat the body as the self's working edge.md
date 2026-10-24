@@ -43,3 +43,6 @@ How does this challenge the idea that mind and body are separate? Where does it 
 %%
 How might we design homes, hospitals and workplaces differently if they were treated as extensions of the self, not as external containers?
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: the late recognition of embodiment the SEP entry records and the principle cites.

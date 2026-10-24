@@ -57,3 +57,4 @@ The miracle is not elsewhere. Where in your current ordinary day is the miracle 
 
 ## Related concepts
 - [[T033 — Haidt, Jonathan]]: the awe research behind the page's wonder (Keltner and Haidt, 2003).
+- [[T051 — Nishida Kitaro]]: pure experience, from An Inquiry into the Good, the page's present-moment line.

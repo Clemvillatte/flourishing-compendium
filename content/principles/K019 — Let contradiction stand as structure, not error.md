@@ -45,3 +45,6 @@ How do you distinguish a productive contradiction from an error? Offer a test an
 %%
 Where might the demand for consistency, in ourselves or others, cause unnecessary suffering?
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: the contradictory-identity totality the SEP entry says he was fond of calling this.

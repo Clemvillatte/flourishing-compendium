@@ -42,3 +42,6 @@ If the subject-object split is made, who or what makes it, and why? Consider whe
 %%
 A constructed self can be examined and perhaps loosened. Does that insight comfort someone whose sense of self has been damaged by trauma, or does it risk being a cruelty? Write toward the difference.
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: the early account of pure experience preceding the subject-object split the principle quotes.

@@ -54,3 +54,6 @@ Totally absorbed in the swim. What's your version — and how often does it actu
 %%
 Before subject and object, there's just experience. Where in your current life is that pre-split experience actually available?
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: pure experience from An Inquiry into the Good, the page's resting ground.

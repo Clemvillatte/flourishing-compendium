@@ -42,3 +42,6 @@ If self-cherishing is a root error, how do you account for the importance of sel
 %%
 How might the habit of putting yourself first affect your experience of suffering, both your own and others'?
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: the unexamined I, the self-inspection limit the page cites.

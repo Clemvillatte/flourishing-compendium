@@ -27,3 +27,6 @@ In his final years Nishida suggested that absolute nothingness is the best way t
 ## Cited in philosophy parallels
 
 - [[D009 — Trust emptiness — space is what works]]
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: the term's coiner, zettai mu, founder of the Kyoto School.

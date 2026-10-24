@@ -62,4 +62,7 @@ Kept to the pages that carry or substantively apply Nishitani's work: nihility, 
 
 ## Sources
 
-- [Wikipedia, "Keiji Nishitani"](https://en.wikipedia.org/wiki/Keiji_Nishitani) — the biography (1900-1990, Kyoto School, Nishida's disciple, the 1924 Schelling-and-Bergson doctorate, Heidegger study, D. T. Suzuki's Zen, *Religion and Nothingness*, *The Self-Overcoming of Nihilism*) and the verbatim quotes: the nihility passage, the fundamental-problem statement (via Heisig), and the interdependence sentence from *Religion and Nothingness*. 
+- [Wikipedia, "Keiji Nishitani"](https://en.wikipedia.org/wiki/Keiji_Nishitani) — the biography (1900-1990, Kyoto School, Nishida's disciple, the 1924 Schelling-and-Bergson doctorate, Heidegger study, D. T. Suzuki's Zen, *Religion and Nothingness*, *The Self-Overcoming of Nihilism*) and the verbatim quotes: the nihility passage, the fundamental-problem statement (via Heisig), and the interdependence sentence from *Religion and Nothingness*.
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: the founder of the Kyoto School this entry's philosopher belongs to.

@@ -48,3 +48,6 @@ Pain usually arrives already labelled as "my pain." What might it mean to meet s
 
 - Nishida Kitaro, *An Inquiry into the Good*, trans. Abe and Ives (Yale, 1990), pp. 3-4, opening definition of pure experience, as quoted in [Journal of Psychology and Society article](https://www.jstage.jst.go.jp/article/psysoc/advpub/0/advpub_2023-B042/_pdf/-char/en) and [Journal of Chinese and Intercultural Studies article](https://scispace.com/pdf/from-epistemology-to-the-standpoint-of-love-nishida-kitaros-xj5httzaw0.pdf)
 - The Shields (2020) and Mitsuhara (2021) passages on this page were carried over from an earlier pass and were not re-opened in the latest check
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: the opening concept of An Inquiry into the Good the principle builds on, pure experience.

@@ -51,3 +51,6 @@ The way kids naturally pay attention — nothing was installed. What's your vers
 %%
 The mind is already luminous. Where in your current life is the luminosity currently being covered — and by what?
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: pure experience, from An Inquiry into the Good, the page's purity line.

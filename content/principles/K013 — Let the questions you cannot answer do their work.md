@@ -48,3 +48,6 @@ How do open questions differ from unanswered ones? Consider the role of each in 
 %%
 What does it mean, for someone in prolonged suffering, to live with an unanswerable "why"? What can a community offer in place of an answer?
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: the Kyoto School context the principle's SEP citation places the question in.

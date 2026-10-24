@@ -43,3 +43,6 @@ After the worst mood of the year passes — the mind that notices its passing is
 %%
 The mind's basic nature is luminous. Where in your current life are the visitors currently being mistaken for the tenant?
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: pure experience, from An Inquiry into the Good, the page's luminosity line.

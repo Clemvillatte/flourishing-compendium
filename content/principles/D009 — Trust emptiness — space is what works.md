@@ -61,3 +61,4 @@ The empty part is what works. What in your life is full to the point of being us
 
 ## Related concepts
 - [[T050 — Nagarjuna]]: the emptiness of inherent nature the page's space argument draws on.
+- [[T051 — Nishida Kitaro]]: absolute nothingness, from An Inquiry into the Good, the page's space line.

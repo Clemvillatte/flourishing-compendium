@@ -41,3 +41,6 @@ Does the idea of being the world's organ ennoble or burden you? Write about the 
 %%
 How do wounds become a way of seeing, and when do they just remain wounds? What separates the two?
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: the late work making the world, not the mind, the agent of history.

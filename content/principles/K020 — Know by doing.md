@@ -49,3 +49,6 @@ Where are you preparing when you should be starting? What would you learn in a m
 %%
 How should we treat the knowledge of those who have lived through illness, poverty or loss, relative to experts who have studied them?
 -->
+
+## Related concepts
+- [[T051 — Nishida Kitaro]]: action-intuition, kōiteki chokkan, his late term the principle carries from Last Writings.
