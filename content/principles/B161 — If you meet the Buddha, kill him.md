@@ -32,6 +32,9 @@ Pick one teaching you accept mainly because of who said it. Write down what you 
 
 - [[K238 — Kill-the-Buddha drill|K238 Kill-the-Buddha drill]]
 
+## Stories
+- [[ST464 — Linji Slaps Huangbo|464. Linji Slaps Huangbo]]
+
 ## Psychology parallels
 
 - **[[Locus of control|Locus of control and self-efficacy]]** (Bandura, 1977; Rotter, 1966)
