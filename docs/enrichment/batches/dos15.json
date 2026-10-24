@@ -1,5 +1,8 @@
 {
  "batch": "dos15",
  "done": [],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos15-manifest.json"
+ "note": "minted 2026-10-24 (worker-pplx-dos27-mint, owner-directed MINTING fallback; starred roadmap items found already written): Behaviour dossier built in v2 format from card bodies read this session; checker exit 0 (67 cards, 10 headers, 1 external carrier); two verbatim quotes carried (Aristotle NE II.1 Chase; Wood & Neal 2007); ledger in docs/enrichment/sources/dossiers/behaviour.md records the open points (Wood-Neal carrier not re-opened this session; Agency card does not exist yet); registry status left planned for supervisor flip",
+ "review": [
+  "behaviour"
+ ]
 }
