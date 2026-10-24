@@ -9507,6 +9507,356 @@ window.fcDossiersData = {
       "group": "minds-life",
       "status": "published",
       "art": "assets/dossier-art/decision-making.jpg"
+    },
+    {
+      "id": "motivation",
+      "title": "Motivation",
+      "question": "What moves a person to act, and what keeps that movement their own?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This dossier is a map, not an essay. A reader who asks \"what do the research and the traditions say about what moves us?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person act from motives that are their own, so that effort supports flourishing and does not drain it."
+        },
+        {
+          "t": "p",
+          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "- Drive: held under [Drive-reduction theory](card:Drive-reduction%20theory) and the brain-reward group below. - Desire: held in the last group below, where the traditions disagree on whether to purify it, order it or understand it. - Willpower: the compendium holds self-control and weakness of will with the Decision-Making dossier, under akrasia; this page holds the sources of motives, not the strength of will. - Goals: goal-setting and goal conflict belong to a planned Goals dossier; this page lists only goal cards that bear on why a person pursues the goal."
+        },
+        {
+          "t": "p",
+          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below."
+        },
+        {
+          "t": "h",
+          "x": "The map: every entry the wiki holds on motivation"
+        },
+        {
+          "t": "h2",
+          "x": "Intrinsic, extrinsic and the self-determination family"
+        },
+        {
+          "t": "p",
+          "x": "[Intrinsic motivation](card:Intrinsic%20motivation): doing an activity for its inherent satisfaction rather than for a separable consequence."
+        },
+        {
+          "t": "p",
+          "x": "[Extrinsic motivation](card:Extrinsic%20motivation): doing something for what it gets you, not for the activity itself."
+        },
+        {
+          "t": "p",
+          "x": "[Self-determination](card:Self-determination): the claim that people do best when their motivation is their own, at the centre of self-determination theory."
+        },
+        {
+          "t": "p",
+          "x": "[Psychological needs theory](card:Psychological%20needs%20theory): the Deci and Ryan account of the needs whose satisfaction predicts well-being: autonomy, competence and relatedness."
+        },
+        {
+          "t": "p",
+          "x": "[Distinguishing needs from wants (SDT)](card:Distinguishing%20needs%20from%20wants%20%28SDT%29): the line self-determination theory draws between needs and wants, on which the compendium's principles rely."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomous motivation](card:Autonomous%20motivation): includes intrinsic motivation and forms of extrinsic regulation that a person accepts as their own."
+        },
+        {
+          "t": "p",
+          "x": "[Controlled motivation](card:Controlled%20motivation): motivation sourced in pressure: external demands and rewards, or internally felt guilt, anxiety and pride."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomous versus controlled motivation](card:Autonomous%20versus%20controlled%20motivation): the comparison between the two halves of the self-determination theory distinction."
+        },
+        {
+          "t": "p",
+          "x": "[Identified versus introjected motivation](card:Identified%20versus%20introjected%20motivation): two ways of carrying a rule inside."
+        },
+        {
+          "t": "p",
+          "x": "[Motivation crowding theory](card:Motivation%20crowding%20theory): external intervention via monetary incentives or punishments may undermine, and under identifiable conditions strengthen, intrinsic motivation."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomy](card:Autonomy): self-governance: acting from one's own endorsement rather than from external pressure."
+        },
+        {
+          "t": "p",
+          "x": "[Competence motivation](card:Competence%20motivation): Robert White's proposal for the motive behind exploration and mastery."
+        },
+        {
+          "t": "h2",
+          "x": "Beliefs, expectations and goals"
+        },
+        {
+          "t": "p",
+          "x": "[Self-efficacy](card:Self-efficacy): Bandura's construct for the belief that one can execute the behaviour required to produce an outcome."
+        },
+        {
+          "t": "p",
+          "x": "[Expectancy theory](card:Expectancy%20theory): Vroom: motivation equals the product of expectancy that effort works and the valence of the outcome."
+        },
+        {
+          "t": "p",
+          "x": "[Expectancy-value theory (Eccles, Wigfield)](card:Expectancy-value%20theory%20%28Eccles%2C%20Wigfield%29): explains why people choose and persist at tasks by two beliefs: how well they expect to do, and how much the task is worth to them."
+        },
+        {
+          "t": "p",
+          "x": "[Goal setting theory (Locke & Latham)](card:Goal%20setting%20theory%20%28Locke%20%26%20Latham%29): specific, difficult goals produce better performance than vague or easy goals."
+        },
+        {
+          "t": "p",
+          "x": "[Achievement motivation theory](card:Achievement%20motivation%20theory): the McClelland and Atkinson account of achievement behaviour in situations with a standard of excellence."
+        },
+        {
+          "t": "p",
+          "x": "[Acquired Needs Theory (McClelland)](card:Acquired%20Needs%20Theory%20%28McClelland%29): three motives that are learned rather than inborn: the needs for achievement, affiliation and power."
+        },
+        {
+          "t": "p",
+          "x": "[Approach versus avoidance motivation](card:Approach%20versus%20avoidance%20motivation): the valence split in the science of motivation, given its modern statement in Elliot's hierarchical model."
+        },
+        {
+          "t": "p",
+          "x": "[Self-concordant goals](card:Self-concordant%20goals): a goal is self-concordant when it is consistent with the person's developing interests and core values."
+        },
+        {
+          "t": "p",
+          "x": "[Grit](card:Grit): a trait introduced by Duckworth and colleagues in 2007, defined by effort and interest kept up over years."
+        },
+        {
+          "t": "h2",
+          "x": "Needs, drives and the brain of wanting"
+        },
+        {
+          "t": "p",
+          "x": "[Hierarchy of Needs Theory](card:Hierarchy%20of%20Needs%20Theory): Maslow's 1943 claim that human needs arrange themselves in hierarchies of pre-potency."
+        },
+        {
+          "t": "p",
+          "x": "[Drive-reduction theory](card:Drive-reduction%20theory): in Hull's account, drive reduction provides reinforcement, while drive activates learned behavioural potentials into performance."
+        },
+        {
+          "t": "p",
+          "x": "[Incentive salience theory](card:Incentive%20salience%20theory): Berridge and Robinson separate two parts of reward."
+        },
+        {
+          "t": "p",
+          "x": "[Reward prediction error (Schultz)](card:Reward%20prediction%20error%20%28Schultz%29): the difference between the reward received and the reward predicted."
+        },
+        {
+          "t": "h2",
+          "x": "Interest and curiosity"
+        },
+        {
+          "t": "p",
+          "x": "[Curiosity](card:Curiosity): in the information-gap account, curiosity arises when a person becomes aware of a gap in their knowledge that information could fill."
+        },
+        {
+          "t": "p",
+          "x": "[Interest as motive](card:Interest%20as%20motive): Dewey: interest is not a garnish on learning but its engine."
+        },
+        {
+          "t": "p",
+          "x": "[Flow](card:Flow): the mental state of being fully immersed in an activity, with energized focus and full involvement."
+        },
+        {
+          "t": "p",
+          "x": "[Boredom](card:Boredom): the aversive experience of wanting, but being unable, to engage in satisfying activity."
+        },
+        {
+          "t": "h2",
+          "x": "What people pursue, and for whom"
+        },
+        {
+          "t": "p",
+          "x": "[Intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals): intrinsic goals predict well-being, as reported by Kasser and Ryan and by Deci and Ryan."
+        },
+        {
+          "t": "p",
+          "x": "[Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals): in self-determination theory, goals sort into two kinds with different well-being consequences."
+        },
+        {
+          "t": "p",
+          "x": "[Extrinsic aspirations](card:Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being even when achieved; the correlational part holds."
+        },
+        {
+          "t": "p",
+          "x": "[Prosocial motivation](card:Prosocial%20motivation): the desire to benefit other people, as Grant and Berg define it."
+        },
+        {
+          "t": "p",
+          "x": "[Motivated reasoning](card:Motivated%20reasoning): Kunda's proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes."
+        },
+        {
+          "t": "p",
+          "x": "[Motivational interviewing](card:Motivational%20interviewing): works with, not against, a person's own motivation."
+        },
+        {
+          "t": "h2",
+          "x": "Desire"
+        },
+        {
+          "t": "p",
+          "x": "[Desire](card:Desire): the directed movement of being toward what it lacks or seeks; the traditions divide on whether to purify it, order it or understand it."
+        },
+        {
+          "t": "p",
+          "x": "[Second-order desires](card:Second-order%20desires): Frankfurt's term for wanting what you want."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Do rewards undermine intrinsic motivation?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when a person is paid or praised for something they already enjoy, does the reward weaken the enjoyment? Deci, Koestner and Ryan's meta-analysis of 128 studies answered yes for several kinds of reward:"
+        },
+        {
+          "t": "q",
+          "x": "\"As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards.\" ([Deci, Koestner and Ryan, Psychological Bulletin 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10589297/?dopt=Abstract)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "A competing meta-analysis reached the opposite bottom line:"
+        },
+        {
+          "t": "q",
+          "x": "\"Our results suggest that in general, rewards are not harmful to motivation to perform a task.\" ([abstract of a later meta-analysis, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2731358/)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "A third paper compared the reviews and noted that \"despite their common focus, these reviews have offered dramatically opposed bottom-line conclusions\" ([comment on the three meta-analyses, PubMed](https://pubmed.ncbi.nlm.nih.gov/10589298/)): Secondary source; quoted passage checked. The comment's authors judged that Deci's review and Tang and Hall's captured the literature more accurately than Cameron and Pierce's. A reader should hold the issue as contested in the literature, with the SDT side supported by the compendium's own cards, and with that later meta-analysis adding that \"Rewards given for low-interest tasks enhance free-choice intrinsic motivation.\""
+        },
+        {
+          "t": "h2",
+          "x": "Is it how much motivation, or what kind?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: does the quantity of a person's drive predict how they do, or does its source? Deci and Ryan state the self-determination answer:"
+        },
+        {
+          "t": "q",
+          "x": "\"that the type of motivation is generally more important than the amount in predicting life's important outcomes.\" ([Deci and Ryan, Canadian Psychology 2008](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "They define the two types as follows: \"Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self.\" The older needs-based and expectancy accounts that the compendium also holds treat motivation chiefly as a matter of strength or of expected payoff; the compendium's practices lean on the SDT reading and flag where other cards disagree in emphasis."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying is the source a person acts from. The look-alikes are effort, streaks and rewards that supply motion without ownership. The adaptive moves are to check whose reasons a goal rests on, to make the decision explicitly one's own, and to separate wanting from enjoying."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Meaning audit](card:K223%20%E2%80%94%20Meaning%20audit): a monthly sitting asking each activity the four reason questions that tell a chosen goal from an imposed one."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Motivational interviewing (self-directed)](card:K247%20%E2%80%94%20Motivational%20interviewing%20%28self-directed%29): when ambivalent about a change, borrow the interviewer's chair and sit in it yourself, starting with the importance ruler."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[The autonomy statement](card:K369%20%E2%80%94%20The%20autonomy%20statement): say aloud, \"It's your call. You're the one who gets to decide.\""
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Wanting-versus-liking separation](card:K278%20%E2%80%94%20Wanting-versus-liking%20separation): when you want something, ask whether you will enjoy it or only want it."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Small-wins tracking](card:K182%20%E2%80%94%20Small-wins%20tracking): note one small win each day."
+        },
+        {
+          "t": "p",
+          "x": "The cards carry their own evidence notes. Several of these are proposals built on the research and have not been tested as protocols."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the monthly reasons check, or the habit of asking whether a want is also a like, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "Needs and the aspiration that serves them"
+        },
+        {
+          "t": "p",
+          "x": "[ST300 — Three Basic Needs](card:ST300%20%E2%80%94%20Three%20Basic%20Needs): Deci and Ryan identify three basic psychological needs, autonomy, competence and relatedness, the satisfaction of which predicts flourishing across cultures."
+        },
+        {
+          "t": "p",
+          "x": "[ST301 — The Aspiration Index](card:ST301%20%E2%80%94%20The%20Aspiration%20Index): Kasser and Ryan's research programme measures what people value and finds that people who prioritise intrinsic goals such as growth, relationships and community report higher well-being than people who prioritise money and image."
+        },
+        {
+          "t": "p",
+          "x": "[ST314 — The Need to Belong](card:ST314%20%E2%80%94%20The%20Need%20to%20Belong): Baumeister and Leary synthesise decades of evidence that the need to form and maintain relationships is a fundamental human motivation, not a derived preference."
+        },
+        {
+          "t": "h2",
+          "x": "Doing it for the doing"
+        },
+        {
+          "t": "p",
+          "x": "[ST118 — The Rock Climbers' Absorption](card:ST118%20%E2%80%94%20The%20Rock%20Climbers%27%20Absorption): Csikszentmihalyi opens with an anomaly: people who risk their lives climbing rocks, or devote themselves to art or chess, apparently give up material rewards for the experience of performing enjoyable acts."
+        },
+        {
+          "t": "p",
+          "x": "[ST026 — Woodcarver Qing Makes a Bell-Stand](card:ST026%20%E2%80%94%20Woodcarver%20Qing%20Makes%20a%20Bell-Stand): Woodcarver Qing prepares by fasting to still his mind, and by the third day he has forgotten reward, by the fifth, praise."
+        },
+        {
+          "t": "h2",
+          "x": "Meaning and its frustration"
+        },
+        {
+          "t": "p",
+          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why): Frankl argues that the will to meaning is the primary human motivation, and that its frustration is a clinical condition."
+        },
+        {
+          "t": "p",
+          "x": "[ST186 — The Fox and the Grapes](card:ST186%20%E2%80%94%20The%20Fox%20and%20the%20Grapes): a fox, unable to reach the grapes, walks away saying they were probably sour anyway."
+        }
+      ],
+      "group": "eemm",
+      "status": "published",
+      "art": "assets/dossier-art/motivation.jpg"
     }
   ],
   "groups": [
@@ -9533,11 +9883,6 @@ window.fcDossiersData = {
     }
   ],
   "roadmap": [
-    {
-      "id": "motivation",
-      "title": "Motivation",
-      "group": "eemm"
-    },
     {
       "id": "goals",
       "title": "Goals",
