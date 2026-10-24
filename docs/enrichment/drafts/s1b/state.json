@@ -598,7 +598,47 @@
      "note": "Final independent advisor review complete; exact-case and precise-page corrections applied where requested"
     }
    ]
+  },
+  "s1b-027": {
+   "status": "ready",
+   "angle": "B016 three root poisons: Devadatta bid/rock/elephant (Cv VII.3) + Lotus 12 reversal",
+   "history": [
+    {
+     "t": "2026-10-24T14:23:28+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:23:28+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC round 1: remove voice-over-the-source claims; Lotus framed as separate narrative; delusion root flagged not carried"
+    },
+    {
+     "t": "2026-10-24T14:25:40+00:00",
+     "to": "ready",
+     "note": "advisor round 2 applied: superlative removed, cousin claim dropped, translation attribution per carrier, delusion flagged not carried"
+    }
+   ]
+  },
+  "s1b-028": {
+   "status": "ready",
+   "angle": "P191 joy of creation: Wiles revelation morning (NOVA The Proof transcript); replaced Rodia draft after advisor QC",
+   "history": [
+    {
+     "t": "2026-10-24T14:23:28+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:23:28+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC round 1 applied by full rewrite: Rodia had no testimony of felt joy; Wiles quotes verified verbatim against opened transcript"
+    },
+    {
+     "t": "2026-10-24T14:25:40+00:00",
+     "to": "ready",
+     "note": "advisor round 2 applied: transcript-accurate wording, interpretation narrowed to creative fulfillment, quote placement verified against opened transcript"
+    }
+   ]
   }
  },
- "updated": "2026-10-22T15:53:42+00:00"
+ "updated": "2026-10-24T14:25:40+00:00"
 }

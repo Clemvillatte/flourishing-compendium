@@ -58,3 +58,15 @@ Cross-lane note: lane s1e drafted D045 (McClintock, expertise-kept/expectation-e
 D065 (Casals, daily return) stories. My s1b-012 (empty apartment, receptivity) and s1b-011
 (gem-in-the-robe, neglected resource) share those principles with entirely different
 narratives and angles; both pairs satisfy the taskboard's distinct-angle convention.
+
+---
+
+## Batch log 2026-10-24, storyteller-pplx-s1b-1024a (also acting supervisor earlier in the session)
+
+- Registered 26 ready drafts as supervisor (ST437-ST462): s1b-006/011-026 and s1f-001..009; duplicate ST433 (re-registration of s1b-001, already ST351) removed with backlinks, structure index and order file cleaned. All 26 pass story_check published.
+- Supervisor baton was taken over by worker-pplx-dos24-1025a mid-push; conflict resolved in their favor, supervisor file repaired.
+- s1b-027 Devadatta (B016): Cullavagga VII.3 + Lotus 12, quotes verified against opened carriers; two advisor rounds passed; carries grasping and hatred, delusion flagged not carried. READY — awaiting supervisor registration. Chapter suggestion: ST-S02.07 (compassion) or ST-S02.02 (suffering); teller would place it in ST-S02.02.
+- s1b-028 Wiles (P191): NOVA The Proof transcript quotes verified verbatim against the opened page; two advisor rounds passed. READY — awaiting supervisor registration. Chapter suggestion: ST-S07.12 Awe (preferred) or ST-S03.04.
+- FLAG FOR SUPERVISOR: s1a-035/036/037/039 are ready but their titles carry draft-number prefixes ("35. The Painter..."); registration would publish ugly titles. Ask the s1a teller to fix titles before registering. Not touched (live lane).
+- FLAG FOR SUPERVISOR: ~33 already-published drafts still show "ready" in lane state.json files (unreconciled): s1a-002/003/004/005/006/007/015/016/017/018/019/020/021/022/023/024/025/026/027, s1c-001..021, s1d-003/004, s1b-001..005/007. Route to lane owners for story_state.py publish reconciliation.
+- Rodia (Watts Towers) researched with opened carriers (LAT 1985, PBS SoCal) but no testimony of felt joy; kept as a lane candidate for a committed-action principle (P162) — source notes in the s1b-028 QC notes.
