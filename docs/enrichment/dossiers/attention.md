@@ -209,7 +209,7 @@ Weil's own lines, from the essay collected in Waiting for God:
 
 ### Where does selection happen: early or late?
 
-The shared question, in Lavie's statement of it: when attention selects, at what stage does what is not selected stop being processed? The longstanding debate she reviews:
+The shared question, in Lavie's statement of it: when attention selects, at what stage does what is not selected stop being processed? The debate the review opens with:
 
 > "Mixed results as to whether focusing attention on task-relevant stimuli can exclude distractors from early perceptual processing (an 'early' selection effect) or can only prevent distractors from controlling behaviour and memory (a 'late' selection effect) has fuelled a longstanding debate between early- and late-selection views of attention." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.
 
