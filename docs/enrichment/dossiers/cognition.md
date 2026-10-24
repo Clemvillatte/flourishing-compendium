@@ -127,7 +127,7 @@ Festinger's definition:
 - [Detached mindfulness theory Wells](https://clemvillatte.github.io/flourishing-compendium/#card=Detached%20mindfulness%20theory%20Wells): a way of responding to a thought within metacognitive therapy: notice it, and do nothing further with it.
 - [Metacognitive therapy (Wells)](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20therapy%20%28Wells%29): shifts the target of treatment from the content of thought to the metacognitive beliefs that keep it going.
 
-[Cognitive reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20reappraisal): the emotion-regulation strategy of changing an emotional event's meaning so that the feeling that follows changes; a well-supported antecedent-focused strategy in Gross's model.
+[Cognitive reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20reappraisal): the emotion-regulation strategy of changing an emotional event's meaning so that the feeling that follows changes; antecedent-focused in Gross's process model.
 
 [Cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion): the ACT practice of seeing thoughts as thoughts, mental events passing through awareness, rather than as commands, facts or the self.
 
