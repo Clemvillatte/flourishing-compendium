@@ -359,11 +359,25 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 [ST143 — Solon and Croesus](https://clemvillatte.github.io/flourishing-compendium/#card=ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus, king of Lydia, shows Solon his treasury and asks who is the happiest of men, expecting to hear his own name; Solon names Tellus of Athens, and holds that no one is counted happy until the end.
 
+[ST173 — Aristotle's Answer](https://clemvillatte.github.io/flourishing-compendium/#card=ST173%20%E2%80%94%20Aristotle%27s%20Answer): asked what he had gained from philosophy, Aristotle answers that he does without being ordered what others do from fear of the laws.
+
+[ST147 — Hercules at the Crossroads](https://clemvillatte.github.io/flourishing-compendium/#card=ST147%20%E2%80%94%20Hercules%20at%20the%20Crossroads): two women offer Hercules the easy road of pleasure without labour or the steep road of toil and lasting deeds; he chooses the steep one.
+
+### What the science took from it
+
+[ST297 — Ryff's Six Dimensions](https://clemvillatte.github.io/flourishing-compendium/#card=ST297%20%E2%80%94%20Ryff%27s%20Six%20Dimensions): Ryff attacks the equation of well-being with happiness and proposes six dimensions drawn from Aristotle, Mill and humanistic psychology; her scales remain the standard instruments.
+
+[ST136 — Seligman Renames the Target](https://clemvillatte.github.io/flourishing-compendium/#card=ST136%20%E2%80%94%20Seligman%20Renames%20the%20Target): Seligman announces that happiness was the wrong target, too thin and too dependent on mood, and replaces it with PERMA, each part measurable on its own.
+
+[ST303 — Broaden and Build](https://clemvillatte.github.io/flourishing-compendium/#card=ST303%20%E2%80%94%20Broaden%20and%20Build): on Fredrickson's account negative emotions narrow attention to the threat while positive emotions broaden the repertoire and build durable resources; joy prompts play, interest prompts exploration.
+
 ### What gets mistaken for it
 
 [ST035 — Ivan Ilyich's Question](https://clemvillatte.github.io/flourishing-compendium/#card=ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): a judge has lived the life that everyone around him considers correct — career, propriety, a well-furnished house — and on his deathbed the question arrives: what if the whole of it was wrong?
 
 [ST171 — Soma](https://clemvillatte.github.io/flourishing-compendium/#card=ST171%20%E2%80%94%20Soma): in the World State the citizens receive soma, a euphoric with no hangover, conditioned from birth to take it at any discomfort — pleasant affect as the whole answer to the question of a life.
+
+[ST298 — The Positivity Ratio Falls](https://clemvillatte.github.io/flourishing-compendium/#card=ST298%20%E2%80%94%20The%20Positivity%20Ratio%20Falls): the 3:1 positivity ratio was popular because it was actionable and wrong because the maths did not support it; the correction came from outside the field.
 
 ### Meaning, purpose and the hard parts
 
@@ -371,10 +385,29 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 [ST193 — Stockdale and the Epistle](https://clemvillatte.github.io/flourishing-compendium/#card=ST193%20%E2%80%94%20Stockdale%20and%20the%20Epistle): a naval aviator spends seven and a half years as a POW, four in solitary, repeatedly tortured, and credits Epictetus — the Enchiridion's teachings on what is and is not in one's power — with his survival: literally a manual for the cell.
 
+[ST279 — Frankl's Meaning](https://clemvillatte.github.io/flourishing-compendium/#card=ST279%20%E2%80%94%20Frankl%27s%20Meaning): in the camps, the prisoners who kept a reason to live, a person to return to or a work to finish, endured differently; the freedom to choose one's attitude is the last of the human freedoms.
+
+[ST277 — Sisyphus Is Happy](https://clemvillatte.github.io/flourishing-compendium/#card=ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): the gods meant the endless boulder as the worst punishment; Camus concludes that the struggle itself toward the heights is enough to fill a man's heart.
+
+[ST322 — Post-Traumatic Growth](https://clemvillatte.github.io/flourishing-compendium/#card=ST322%20%E2%80%94%20Post-Traumatic%20Growth): a significant minority of people who live through major crises report positive change in five domains, from appreciation of life to spiritual change.
+
 ### The conditions: other people, society and freedom
 
 [ST144 — Dorothea Brooke and the Unhistoric Acts](https://clemvillatte.github.io/flourishing-compendium/#card=ST144%20%E2%80%94%20Dorothea%20Brooke%20and%20the%20Unhistoric%20Acts): an idealistic young woman marries a desiccated scholar, and Eliot's finale gives the verdict: the growing good of the world rests on unhistoric acts, and on persons half buried in the privacy of ordinary lives.
 
+[ST316 — How You Respond to Good News](https://clemvillatte.github.io/flourishing-compendium/#card=ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News): the response to a partner's good news predicts relationship quality as strongly as the response to bad news; the first response is the relationship's business.
+
+[ST107 — Jane Addams Moves In](https://clemvillatte.github.io/flourishing-compendium/#card=ST107%20%E2%80%94%20Jane%20Addams%20Moves%20In): Addams rents a mansion on Halsted Street; she does not arrive with a programme, she arrives with a residence, and the programmes come from what the neighbours ask for.
+
+[ST226 — Mandela Invites the Jailer](https://clemvillatte.github.io/flourishing-compendium/#card=ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on inauguration day Mandela seats his former Robben Island warders as honoured guests; the new country is to be built on recognition rather than revenge.
+
 ### How it is built: growth and practice
 
 [ST001 — Cook Ding and the Ox](https://clemvillatte.github.io/flourishing-compendium/#card=ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): Cook Ding has carved oxen for nineteen years and his blade is still as sharp as if it had just left the whetstone; the carving follows the ox's own lines — the skill, not the strength, does the work.
+
+[ST222 — Phil Connors Practises](https://clemvillatte.github.io/flourishing-compendium/#card=ST222%20%E2%80%94%20Phil%20Connors%20Practises): trapped in a repeating day, Phil Connors runs through indulgence, despair and manipulation before the long middle of daily practice, piano, French, small kindnesses, done with no audience.
+
+[ST184 — Franklin's Little Book](https://clemvillatte.github.io/flourishing-compendium/#card=ST184%20%E2%80%94%20Franklin%27s%20Little%20Book): Franklin's little book gives each of thirteen virtues a page and a week, marking faults with black spots; he never became perfect, and the practice, not the perfection, was the gain.
+
+[ST397 — Hokusai Asks for Five More Years](https://clemvillatte.github.io/flourishing-compendium/#card=ST397%20%E2%80%94%20Hokusai%20Asks%20for%20Five%20More%20Years): at seventy-five Hokusai prints a plan for the decades ahead, at ninety to see further into the underlying principles of things, at a hundred and ten every dot and every stroke as though alive.
+

@@ -198,3 +198,17 @@ Added per the updated exemplar (the-self.md, Story section). Every story
 card included was opened and read this session; each logline compresses
 the story card's own telling, and no story is included from its title
 alone.
+
+### Story section enrichment (2026-10-24, worker-pplx-dos1-1024e)
+
+A first Story section for this dossier landed concurrently (b0781c2af, agent
+genuineflourishing15): 7 loglines over 5 subthemes, no science subtheme. This
+pass enriched it to full map coverage: 22 loglines across all 6 map-mirroring
+subthemes. Added lines were compressed from story cards opened and read in this
+session: ST173, ST147 (classical); ST297, ST136, ST303 (new science subtheme);
+ST298 (mistaken); ST279, ST277, ST322 (meaning); ST316, ST107, ST226
+(conditions); ST222, ST184, ST397 (practice). The 7 pre-existing loglines
+(ST143, ST035, ST171, ST033, ST193, ST144, ST001) were kept as landed; their
+cards (ST171, ST033, ST193, ST144, ST001) were opened and read this session to
+confirm the lines stay within the cards' own narratives. dossier_check.py exits
+0 (147 card links resolve). No other section touched.
