@@ -46,8 +46,11 @@ Active constructive responding, Mudita (sympathetic joy), Four
 immeasurables, Fundamental stance, Enemy as teacher, Hedonic
 adaptation, Savoring, AF063, B112, K068, S084, SP022, X011, X016,
 PP013, BE055, E054, R128, R058, S026, D030, K053, S037, P179, S120,
-AT021, K164, K212, K280, K110, K157, ST167, ST367, T013. All 41 card
-links in the dossier were validated by dossier_check.py against the
+AT021, K164, K212, K280, K110, K157, ST167, ST367, T013, and the
+later additions named in the sweep record below (SP070, A070, K034,
+PP063, Thanksgiving-as-sacrifice, the Gouldner and Trivers research
+lines, SP068 reviewed for the finitude boundary). All 47 card links
+in the dossier were validated by dossier_check.py against the
 content files. No other cards are cited.
 
 ## Sweeps and exclusions
