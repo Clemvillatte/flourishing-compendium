@@ -23,6 +23,27 @@ lesson, an invented Aristotle/Epicurus opposition, unsupported
 classifications). Advisor QC was run on the first section and at the
 milestone; repairs applied.
 
+## SESSION CHECKPOINT (2026-10-24 13:09Z, supervisor-pplx-bridging-1024a)
+
+Bridging pass COMPLETE and deployed; GF is a revision candidate for the
+owner's full review — still UNAPPROVED. Done this session: all GF map
+sections threaded (6 passes), two advisor QC rounds with every flagged
+unsupported bridge repaired (see evidence ledger pass-17 entries),
+Academy data rebuilt and live-verified (desktop + 390px mobile, no
+underlined links), HUMANIZER-SKILL.md carries the Bridging rule for the
+future six agents, run-clock respected. Final commit 21740a5e.
+NOT done / honest limits: the disagreement sections were already
+question-led and only lightly touched; a continuous cold read-through of
+the final text by a fresh reader has not happened; the owner has not
+read the new prose. Six-agent rollout stays BLOCKED until owner
+validation of this revision. Recommended reading order for the owner:
+the classical, psychology and social-conditions sections — they expose
+the exact problem the owner raised. Process notes in the ledger:
+enrich_save.sh does not stage site/ (commit app.js separately, grep it
+after rebuild); the site caches compiled dossier data in browser storage
+(readers may see stale text until refresh); test_enrich_validate.py is
+not a real test suite (no tests, no entry point).
+
 ## Latest scope and exact continuation
 
 Owner clarified the mission is removal of ALL AI-sounding output types
