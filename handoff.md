@@ -16,10 +16,11 @@ ledger. This correction overrides the older quote-heavy reader format.
 - Supervisor baton claimed and pushed. No separate worker band held.
 - Main was missing the WORK ORDER. Recovered the four-file insurance
   branch `session-handoff-1024` by fast-forward; that state is now on main.
-- Latest pushed content checkpoint before readability repair: `86f278e9`.
-  Science, hard-parts and conditions chains rewritten; "Which goods
-  count?" now revised after owner rejection. 147 card links and 23 headers
-  retained; checker passes. Opening unchanged.
+- Latest pushed checkpoint before this save: `2a653ae7`. Candidate passes
+  1–8 now cover classical account, psychological measurement, growth,
+  thinkers/stories, counterfeits and the four disagreement sections.
+  All 147 original card occurrences retained. Headings now 25; checker
+  passes. Opening wording preserved, public evidence-status labels removed.
 - Evidence record: `docs/enrichment/sources/dossiers/genuine-flourishing.md`,
   candidate passes 1, 2 and 3 plus newest owner readability correction.
   All new external claims tied to fetched
@@ -28,10 +29,11 @@ ledger. This correction overrides the older quote-heavy reader format.
   reviewed first item: scoped pass with corrections (applied: core
   projects, positive emotions, Ryan/Deci wording, separate flow/vital
   engagement sources, first-person judgment). Later passes still need QC.
-- EXACT NEXT ACTION: apply readability correction throughout (including
-  the first three rewrites: no doubled bracket apparatus); rewrite
-  growth/practice, thinker and story paragraphs, and dense original
-  map paragraphs. Then review hedonia/eudaimonia divergence. Preserve links,
+- EXACT NEXT ACTION: apply readability correction to first three
+  rewrites: goals/energy and conditions awaiting advisor proposals;
+  main agent handles hard-parts passage. Then organise practice list into
+  usable paths, verify story loglines (ST195 is a source conflation),
+  and final prose/QC/render pass. Preserve links,
   do not homogenise disagreements, do not modify the opening.
 - Advisor caveats to preserve: Diener/Seligman = correlational study of
   undergraduates; belonging = hypothesis; Berlin positive freedom has

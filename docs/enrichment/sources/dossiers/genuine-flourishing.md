@@ -546,3 +546,50 @@ Freshly opened carriers for the rewrite:
 
 Follow-up full-carrier checks before compilation: Politics I.2/III.9
 and Keyes two-factor full PDF, whose URLs appeared in the original cards.
+
+Both follow-up checks completed successfully by fetch. Politics is the
+author's civic account, not empirical proof of a universal polity.
+Keyes2002 cites earlier confirmatory factor analyses; the current prose
+says his account treats the dimensions separately, not that the 2002
+cross-sectional paper newly performed every analysis.
+
+### Candidate passes 7–8: counterfeits and actual disagreements
+
+Eleven counterfeits cards retained. Removed bibliography-like chain.
+Fresh carriers:
+https://pubmed.ncbi.nlm.nih.gov/25347131/ (Dittmar2014 abstract, modest
+average materialism association, no deterministic unhappiness claim);
+https://selfdeterminationtheory.org/aspirations-index/ (actual measure);
+https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1920&context=soss_research
+(adaptation incomplete and variable; old stable-baseline blanket removed);
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5972296/ (hypercompetitive self-worth);
+https://plato.stanford.edu/entries/critical-theory/ (instrumental rationality
+critique). Niemiec2009/DeciRyan2000/Frankl already fetched.
+
+Replaced divergence quotation arrays with arguments:
+- https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html :
+  actual opened VII.127, including named Stoic dissent.
+- https://classics.mit.edu/Epicurus/menoec.html :
+  actual complete Letter to Menoeceus opened, sober pleasure not indulgence.
+- https://www.tandfonline.com/doi/full/10.1080/17439760802303044 :
+  Kashdan et al. abstract (accessed text, not presumed full paper).
+- https://www.tandfonline.com/doi/full/10.1080/17439760802303002 :
+  Waterman reply abstract, related yet distinct.
+- https://www.tandfonline.com/doi/full/10.1080/17439760902844228 :
+  Keyes/Annas MIDUS REANALYSIS, 48.5% high hedonic,18% flourishing,
+  30.5% high hedonic/moderate eudaimonic with near-double illness rate.
+  Prose rounds clearly for readability, no implied causal protection.
+- https://pubmed.ncbi.nlm.nih.gov/12096700/ :
+  1995 MIDUS US adults25–74,n3032,cross-sectional,17.2% flourishing,
+  12.1% languishing. Separate paper and classification from reanalysis.
+- https://www.gutenberg.org/files/46743/46743-h/46743-h.htm :
+  Methods of Ethics,I.IV.2,p48, paradox of hedonism, exact phrase checked.
+- https://www.gutenberg.org/files/10378/10378-h/10378-h.htm :
+  Mill personal retrospective after mental crisis, not experimental proof.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/ :
+  full Mauss2011 fetched. Study1=59 US women correlational;
+  study2=70 women,69 analysed,randomized manipulation/happy or sad film.
+  Disappointment mediation does not conclusively establish mechanism.
+  Both samples women, extreme forms of valuing happiness, cannot
+  generalise to all cultures/sexes/flourishing. Public synthesis will keep
+  scope explicit without an abstract-like methods display.
