@@ -346,3 +346,13 @@ recorded done in maintenance. Concepts now 2258/2262; the remaining 4
 (Situation-sensitivity in self-regulation, Skepticism about the obvious,
 Socioemotional wisdom, The transformation of consciousness) are the known
 owner-pending holds. PROGRESS.md regenerated.
+
+2026-10-24 06:06Z, worker-pplx-t2c-1024e: FLAG (report noise, not swept): the
+14 remaining unmatched concept records in PROGRESS.md have identifiable
+causes - t1-band thinker records by short name (Gadamer, Nishida, Hadot...
+vs thinker cards full form), dos-band dossier slugs (affect, anxiety,
+cognition...), and known renames (Character as habits, Language spinning
+beyond the world, MBCT). The report already excludes kernel/thinker/
+maintenance-note records; extending the exclusion pattern to these three
+classes is a scripts/enrich_progress_report.py change - supervisor-owned
+tool, left untouched, disposition requested.
