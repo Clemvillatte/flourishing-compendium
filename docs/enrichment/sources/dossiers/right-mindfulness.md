@@ -87,6 +87,19 @@ The checker (scripts/dossier_check.py) exits 0 on the current file:
   curly quotation marks; the dossier preserves them and the
   verification normalises curly to straight.
 
+## Card-body audit (pass 6 follow-up)
+
+The full card bodies (not only openings) of all thirteen entries
+added in passes 3 and 5 were read and their map descriptions checked
+against them: The returning practice, Vipassana (insight),
+Decentering, Cognitive defusion, Acceptance, Beginner's mind, Body
+scan in MBSR, Walking meditation, Epochen, Delight in the ordinary,
+Clarity of mind, The lived body, The effort of attention. All
+thirteen descriptions are supported by their card bodies; no
+corrections were required. The kernel and story entries were
+verified against their card instruction sentences and openings in
+pass 2.
+
 ## Pass 1 scope, stated plainly
 
 This is a pass-1 draft. The core map is present (the path factor, the
