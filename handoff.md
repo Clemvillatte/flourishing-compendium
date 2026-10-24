@@ -2305,3 +2305,20 @@ prose; any regex pass must grep the mangle patterns ("I i", "I thi",
   creating the task, with zero network requests. Disposably-domained
   (yopmail) accounts appear blocked from Computer task creation; use
   owner-provided outlook.com addresses (Path A) instead.
+
+## Agent launch record (2026-10-24, supervisor-pplx-bridging-1024a)
+
+- Launched via Path A (owner-provided email): account
+  bossrobert110176+aipaj@outlook.com (Perplexity account
+  bossrobert41, Free plan)
+- Task URL: https://www.perplexity.ai/computer/tasks/763a95a5-39be-4fb4-b46e-708fe7eefca6
+- Launched at 2026-10-24 13:53 UTC with an adapted worker prompt:
+  same canonical setup, run-clock, no-idle, taper and report rules as
+  PROMPT-WORKER.md, but the mission is a PROPOSAL job, not a band job —
+  survey the published and planned dossiers plus the card corpus and
+  deliver docs/enrichment/dossiers/PROPOSAL-NEW-DOSSIERS.md (5-10 ranked
+  candidates, each evidenced from cards/sources actually opened) for the
+  owner's review. Instructed NOT to take any band baton, NOT to edit
+  registry.json/manifests/existing dossiers, and NOT to write the
+  dossiers themselves. Workers/supervisor: leave that proposal file to
+  this agent; the owner decides what becomes a dossier.
