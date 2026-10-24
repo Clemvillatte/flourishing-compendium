@@ -3722,11 +3722,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST035 — Ivan Ilyich's Question](card:ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): a judge has lived the life that everyone around him considers correct — career, propriety, a well-furnished house — and on his deathbed the question arrives: what if the whole of it was wrong?"
+          "x": "[ST035 — Ivan Ilyich's Question](card:ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): a judge has lived the life that everyone around him considers correct, career, propriety, a well-furnished house, and on his deathbed the question arrives: what if the whole of it was wrong?"
         },
         {
           "t": "p",
-          "x": "[ST171 — Soma](card:ST171%20%E2%80%94%20Soma): in the World State the citizens receive soma, a euphoric with no hangover, conditioned from birth to take it at any discomfort — pleasant affect as the whole answer to the question of a life."
+          "x": "[ST171 — Soma](card:ST171%20%E2%80%94%20Soma): in the World State the citizens receive soma, a euphoric with no hangover, conditioned from birth to take it at any discomfort, pleasant affect as the whole answer to the question of a life."
         },
         {
           "t": "p",
@@ -3738,11 +3738,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island breaking rocks — the story of what a long confinement is made of, and what it is for."
+          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island breaking rocks, the story of what a long confinement is made of, and what it is for."
         },
         {
           "t": "p",
-          "x": "[ST193 — Stockdale and the Epistle](card:ST193%20%E2%80%94%20Stockdale%20and%20the%20Epistle): a naval aviator spends seven and a half years as a POW, four in solitary, repeatedly tortured, and credits Epictetus — the Enchiridion's teachings on what is and is not in one's power — with his survival: literally a manual for the cell."
+          "x": "[ST193 — Stockdale and the Epistle](card:ST193%20%E2%80%94%20Stockdale%20and%20the%20Epistle): a naval aviator spends seven and a half years as a POW, four in solitary, repeatedly tortured, and credits Epictetus, the Enchiridion's teachings on what is and is not in one's power, with his survival: literally a manual for the cell."
         },
         {
           "t": "p",
@@ -3762,7 +3762,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST144 — Dorothea Brooke and the Unhistoric Acts](card:ST144%20%E2%80%94%20Dorothea%20Brooke%20and%20the%20Unhistoric%20Acts): an idealistic young woman marries a desiccated scholar, and the marriage is a study in misjudgement; Eliot's final judgement is the novel's gift — the growing good of the world is partly dependent on unhistoric acts, on the number who lived faithfully a hidden life and rest in unvisited tombs."
+          "x": "[ST144 — Dorothea Brooke and the Unhistoric Acts](card:ST144%20%E2%80%94%20Dorothea%20Brooke%20and%20the%20Unhistoric%20Acts): an idealistic young woman marries a desiccated scholar, and the marriage is a study in misjudgement; Eliot's final judgement is the novel's gift, the growing good of the world is partly dependent on unhistoric acts, on the number who lived faithfully a hidden life and rest in unvisited tombs."
         },
         {
           "t": "p",
@@ -3782,7 +3782,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST001 — Cook Ding and the Ox](card:ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): Cook Ding has carved oxen for nineteen years and his blade is still as sharp as if it had just left the whetstone; he never cuts through bone or forces his way through flesh — he reads the natural openings between the joints, and at a difficult knot slows down and moves with as little force as the job allows."
+          "x": "[ST001 — Cook Ding and the Ox](card:ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): Cook Ding has carved oxen for nineteen years and his blade is still as sharp as if it had just left the whetstone; he never cuts through bone or forces his way through flesh; he reads the natural openings between the joints, and at a difficult knot slows down and moves with as little force as the job allows."
         },
         {
           "t": "p",
