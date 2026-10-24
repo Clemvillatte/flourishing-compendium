@@ -30,7 +30,7 @@ historical and superseded):
 |---|---|---|---|
 | https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html | first jhana; fourth jhana (flow contrast) | raw HTML fetched with curl, passages checked against the extracted text | Quoted once (Flow map line; the carrier is linked on the quoted phrase) |
 | https://en.wikipedia.org/wiki/Samadhi | Buddhaghosa on even placing of the mind; Shankman renderings; criticism section calling the definition a matter of debate | raw HTML fetched with curl, passages checked against the extracted text | Cited twice (Buddhaghosa and Shankman passages; quoted in the divergence section) |
-| https://en.wikipedia.org/wiki/Flow_(psychology) | three flow conditions (action-awareness merge, clear goals, clear feedback) | raw HTML fetched with curl | Opened, not quoted (contrasts carried by card claims) |
+| https://en.wikipedia.org/wiki/Flow_(psychology) | the three conditions the page states (clear goals and progress; clear and immediate feedback; good balance between perceived challenge and perceived skills); merging of action and awareness is one of the six factors of the experience, not a condition | raw HTML fetched with curl, conditions re-checked against the page this session | Opened, not quoted (contrasts carried by card claims) |
 | https://sacred-texts.com/hin/ysp/ysp06.htm | Johnston on dharana as a preliminary | fetched | Opened, not quoted (alignment carried by card claims) |
 | https://www.accesstoinsight.org/tipitaka/an/an06.055.than.html | Sona's lute: tightening and loosening | raw HTML fetched with curl, checked | Supporting (tuning material; not quoted in the current text) |
 

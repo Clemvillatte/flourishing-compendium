@@ -149,7 +149,7 @@ The disagreement is real and live: the article's Criticism section reports that 
 
 4. [K392 — The Three-minute Breathing Space](https://clemvillatte.github.io/flourishing-compendium/#card=K392%20%E2%80%94%20The%20Three-minute%20Breathing%20Space): the three-step mini-practice that narrows to the breath and widens back to the whole body: the double sense of collectedness in one exercise.
 
-5. [K417 — Shouyi (guarding the One)](https://clemvillatte.github.io/flourishing-compendium/#card=K417%20%E2%80%94%20Shouyi%20%28guarding%20the%20One%29): the Daoist guarding of the One, the oldest named stillness-based counterpart to the binding of attention.
+5. [K417 — Shouyi (guarding the One)](https://clemvillatte.github.io/flourishing-compendium/#card=K417%20%E2%80%94%20Shouyi%20%28guarding%20the%20One%29): the Daoist guarding of the One, a stillness-based counterpart to the binding of attention, one of the oldest named Daoist meditations on the card's account.
 
 6. [K391 — Bring raisin mind to one routine activity](https://clemvillatte.github.io/flourishing-compendium/#card=K391%20%E2%80%94%20Bring%20raisin%20mind%20to%20one%20routine%20activity): one daily activity done for a week with full attention: the single-tasking taught in the small.
 

@@ -131,13 +131,13 @@ Which effect is primary in ordinary life, the feeler's attention or the bond's m
 
 1. [K164 — Gratitude practice](https://clemvillatte.github.io/flourishing-compendium/#card=K164%20%E2%80%94%20Gratitude%20practice): three things, written or expressed directly, with specificity named as what matters: not a friend in general but what the friend did.
 
-2. [K212 — Gratitude expression](https://clemvillatte.github.io/flourishing-compendium/#card=K212%20%E2%80%94%20Gratitude%20expression): the gratitude visit from Seligman's intervention study, the largest immediate effect of the five exercises tested, lasting about a month.
+2. [K212 — Gratitude expression](https://clemvillatte.github.io/flourishing-compendium/#card=K212%20%E2%80%94%20Gratitude%20expression): the gratitude visit from Seligman's intervention study, reported on the card with its own raw-text check of the paper as the largest immediate effect of the five exercises tested, lasting about a month before it fades.
 
 3. [K280 — Gratitude for sufficiency](https://clemvillatte.github.io/flourishing-compendium/#card=K280%20%E2%80%94%20Gratitude%20for%20sufficiency): each evening, one thing you already have that is enough, targeting the mechanism of desire rather than the mood.
 
 4. [K110 — Savoring](https://clemvillatte.github.io/flourishing-compendium/#card=K110%20%E2%80%94%20Savoring): the present-tense cousin, stopping the good moment from passing unnoticed.
 
-5. [K157 — Evening review](https://clemvillatte.github.io/flourishing-compendium/#card=K157%20%E2%80%94%20Evening%20review): the last quarter hour of the day, three questions in writing; the written form outperformed more practice in the field experiment.
+5. [K157 — Evening review](https://clemvillatte.github.io/flourishing-compendium/#card=K157%20%E2%80%94%20Evening%20review): the last quarter hour of the day, three questions in writing; the card's report that the written form outperformed more practice in the field experiment.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps one evening list, one expressed thanks, or the sufficiency naming has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 

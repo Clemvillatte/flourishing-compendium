@@ -34,6 +34,7 @@ historical and superseded by this table):
 | https://en.wikisource.org/wiki/On_Benefits/Book_I | "A benefit is not to be felt and handled, it is a thing which exists only in the mind..."; "It is not, therefore, the thing which is done or given, but the spirit in which it is done or given, that must be considered" | Fetched and read this session | Supporting (map lines; not quoted in body) |
 | https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html | "the man who is benefited in respect of wealth or virtue must give honour in return, repaying what he can. For friendship asks a man to do what he can, not what is proportional to the merits of the case" | Fetched and read this session | Supporting (map lines; not quoted in body) |
 | https://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.002.than.html | "It's all yours, brahman. It's all yours." | Raw HTML fetched with curl, passage checked | Quoted (Story section logline) |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC12280877/ | "The overall effect size for the difference in well-being between gratitude and control conditions was Hedges' g = 0.19, SE = 0.02, 95% CI [0.15, 0.22], P < 0.001"; "145 papers, 163 samples, 727 effect sizes, and 24,804 participants from 28 countries" | Opened with the page reader this session | Supporting (verifies AF063's pooled-effect figure; not quoted in body) |
 
 ## Map, practice and story lines
 
