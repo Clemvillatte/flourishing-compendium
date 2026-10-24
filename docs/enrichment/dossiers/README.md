@@ -64,22 +64,41 @@ abstract; quoted passage checked", "Further reading; not assessed".
 ## Roadmap and navigation (2026-10-24, owner-directed)
 
 The canonical registry is [registry.json](registry.json): every dossier
-with its navigation group, status, scope, nearby terms and artwork.
-The Academy grid now filters by these ten navigation groups (lenses for
-the reader, not a scientific taxonomy):
+with its section, status, scope, nearby terms and artwork.
+The Academy grid filters by five sections:
 
-| Group | Dossiers |
+| Section | Dossiers |
 |---|---|
-| Flourishing & Wisdom | Genuine Flourishing, Wisdom, Life's Purpose |
-| Affect | Affect, Anger, Anxiety, Happiness |
-| Cognition | Cognition, Decision-Making |
-| Attention | Attention |
-| Self | The Self |
-| Motivation | Motivation, Goals, Agency |
-| Behaviour | Behaviour |
-| Others | Others |
-| Body | Body |
+| Flourishing & Wisdom (flagship, first) | Genuine Flourishing, Wisdom, Life's Purpose |
+| Extended Evolutionary Meta Model | Affect, Cognition, Attention, Self, Motivation, Behaviour, Others, Body |
+| The Affective Life | Anger, Anxiety, Happiness |
+| The Mind's Life | Decision-Making, Goals, Agency |
 | Life Challenges | Uncertainty, Overload & Overwhelm |
+
+### Section rules (binding for any future worker)
+
+1. **Flourishing & Wisdom** is the flagship section and always first: the
+   eudaimonic trio (what a good life is, how to tell it from its
+   counterfeits, what a life is for).
+2. **The Extended Evolutionary Meta Model section holds EXACTLY the
+   model's own dossiers** — the six ACASMO dimensions (Affect,
+   Cognition, Attention, Self, Motivation, Behaviour) plus its two
+   levels of selection (Body = biophysiological, Others =
+   sociocultural). Nothing else ever goes in it; the section mirrors
+   the model one-to-one and is never extended beyond it.
+3. **Themed sections are reader-facing life themes holding the SPECIFIC
+   dossiers, not the EEMM umbrellas.** The Affective Life holds specific
+   affective states (Anger, Anxiety, Happiness); The Mind's Life holds
+   the practical mind (Decision-Making, Goals, Agency); Life Challenges
+   holds cross-cutting challenges (Uncertainty, Overload & Overwhelm).
+4. **A family umbrella stays in the EEMM section; its specific family
+   members live in the themed section** (Affect is EEMM, Anger is The
+   Affective Life; Motivation is EEMM, Goals and Agency are The Mind's
+   Life).
+5. **A themed section must hold at least three dossiers a reader would
+   expect together.** A new theme is minted only when three or more
+   planned dossiers cluster; until then the candidate sits in the
+   registry backlog.
 
 Near-synonym terms (Stress, Worry, Angst...) are handled by the
 disambiguation policy in [DISAMBIGUATION.md](DISAMBIGUATION.md), not by

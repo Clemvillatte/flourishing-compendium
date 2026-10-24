@@ -169,6 +169,16 @@ format) and set a new standard. Verbatim substance, do not lose it:
 
 ## Operations (how to work this band)
 
+- 2026-10-24 UPDATE (3): owner-directed SECTION REDESIGN — the ten
+  EEMM-mirrored groups are replaced by FIVE sections: Flourishing &
+  Wisdom (flagship, first), Extended Evolutionary Meta Model (exactly
+  the model's own dossiers: the six ACASMO dimensions plus Body and
+  Others as its two levels of selection), The Affective Life (Anger,
+  Anxiety, Happiness), The Mind's Life (Decision-Making, Goals,
+  Agency), Life Challenges (Uncertainty, Overload & Overwhelm). The
+  section rules are BINDING and written in README.md — read them
+  before minting or moving any dossier. The grid chips now filter by
+  these five sections; the EEMM eyebrow uses the short form 'EEMM'.
 - 2026-10-24 UPDATE: the dossier programme is now banded. Worker bands
   dos1-dos4 are minted (see `../bands/dos*-manifest.json` and
   `../batches/dos*.json`); one dossier per band, supervisor-owned

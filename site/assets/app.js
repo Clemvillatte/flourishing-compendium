@@ -3816,7 +3816,7 @@ window.fcDossiersData = {
           "x": "Retention is what people keep because it works for them. Keep a practice that helped, and give it a place in ordinary life; a name for the observer, a kinder sentence to say to yourself, a story you found out you could re-tell."
         }
       ],
-      "group": "self",
+      "group": "eemm",
       "status": "published",
       "art": "assets/dossier-art/the-self.jpg"
     },
@@ -4125,7 +4125,7 @@ window.fcDossiersData = {
           "x": "Retention is what people keep because it works for them. A reader who keeps the delay, or the dissection, or the release has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
         }
       ],
-      "group": "affect",
+      "group": "affective-life",
       "status": "published",
       "art": "assets/dossier-art/anger.jpg"
     }
@@ -4136,36 +4136,16 @@ window.fcDossiersData = {
       "label": "Flourishing & Wisdom"
     },
     {
-      "id": "affect",
-      "label": "Affect"
+      "id": "eemm",
+      "label": "Extended Evolutionary Meta Model"
     },
     {
-      "id": "cognition",
-      "label": "Cognition"
+      "id": "affective-life",
+      "label": "The Affective Life"
     },
     {
-      "id": "attention",
-      "label": "Attention"
-    },
-    {
-      "id": "self",
-      "label": "Self"
-    },
-    {
-      "id": "motivation",
-      "label": "Motivation"
-    },
-    {
-      "id": "behaviour",
-      "label": "Behaviour"
-    },
-    {
-      "id": "others",
-      "label": "Others"
-    },
-    {
-      "id": "body",
-      "label": "Body"
+      "id": "minds-life",
+      "label": "The Mind's Life"
     },
     {
       "id": "challenges",
@@ -4191,62 +4171,62 @@ window.fcDossiersData = {
     {
       "id": "affect",
       "title": "Affect",
-      "group": "affect"
+      "group": "eemm"
     },
     {
       "id": "anxiety",
       "title": "Anxiety",
-      "group": "affect"
+      "group": "affective-life"
     },
     {
       "id": "happiness",
       "title": "Happiness",
-      "group": "affect"
+      "group": "affective-life"
     },
     {
       "id": "cognition",
       "title": "Cognition",
-      "group": "cognition"
+      "group": "eemm"
     },
     {
       "id": "decision-making",
       "title": "Decision-Making",
-      "group": "cognition"
+      "group": "minds-life"
     },
     {
       "id": "attention",
       "title": "Attention",
-      "group": "attention"
+      "group": "eemm"
     },
     {
       "id": "motivation",
       "title": "Motivation",
-      "group": "motivation"
+      "group": "eemm"
     },
     {
       "id": "goals",
       "title": "Goals",
-      "group": "motivation"
+      "group": "minds-life"
     },
     {
       "id": "agency",
       "title": "Agency",
-      "group": "motivation"
+      "group": "minds-life"
     },
     {
       "id": "behaviour",
       "title": "Behaviour",
-      "group": "behaviour"
+      "group": "eemm"
     },
     {
       "id": "others",
       "title": "Others",
-      "group": "others"
+      "group": "eemm"
     },
     {
       "id": "body",
       "title": "Body",
-      "group": "body"
+      "group": "eemm"
     },
     {
       "id": "uncertainty",
@@ -4269,7 +4249,7 @@ function renderDossiers(){
   wrap.appendChild(top);
   const data = window.fcDossiersData;
   const groups = data.groups||[];
-  const groupLabel = id => { const g = groups.find(x=>x.id===id); return g ? g.label : id; };
+  const groupLabel = id => { const g = groups.find(x=>x.id===id); return g ? (g.short||g.label) : id; };
   const chips = el('div','dossier-chips');
   const filterState = { group: 'all' };
   const chipAll = el('button','dossier-chip on','All');

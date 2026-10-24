@@ -14,7 +14,7 @@
   "source_queue": "dossier roadmap mint 2026-10-24 (supervisor-pplx-dossiers-1024b): owner-directed dossier programme, registry docs/enrichment/dossiers/registry.json",
   "dossier": "Attention",
   "slug": "attention",
-  "group": "attention",
+  "group": "eemm",
   "note": "Focused-attention meditation, attention restoration, mind-wandering, flow, the economy of the gaze. Contains the 'concentration' territory.",
   "art": "already committed: site/assets/dossier-art/attention.jpg",
   "pre_push_check": "python3 scripts/dossier_check.py docs/enrichment/dossiers/<slug>.md (exit 0 required before pushing)",

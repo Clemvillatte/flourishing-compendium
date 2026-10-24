@@ -14,7 +14,7 @@
   "source_queue": "dossier roadmap mint 2026-10-24 (supervisor-pplx-dossiers-1024b): owner-directed dossier programme, registry docs/enrichment/dossiers/registry.json",
   "dossier": "Cognition",
   "slug": "cognition",
-  "group": "cognition",
+  "group": "eemm",
   "note": "Thinking styles, reasoning, belief formation, limits of reason. Contains the 'thoughts' territory. Decision-Making is a separate later dossier: point decision research at it as a nearby term.",
   "art": "already committed: site/assets/dossier-art/cognition.jpg",
   "pre_push_check": "python3 scripts/dossier_check.py docs/enrichment/dossiers/<slug>.md (exit 0 required before pushing)",

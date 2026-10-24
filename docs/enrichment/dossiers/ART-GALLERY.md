@@ -36,7 +36,7 @@ never have to select a thumbnail.
 ## Current assignment and rationale
 
 A rendered preview of the full assignment (all 19 works at true
-cropped proportions, grouped by navigation lens) is at
+cropped proportions, grouped by section) is at
 [art-gallery-preview.jpg](art-gallery-preview.jpg) for the owner's
 review.
 
