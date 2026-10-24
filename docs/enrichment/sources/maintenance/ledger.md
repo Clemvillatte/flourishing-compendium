@@ -307,3 +307,14 @@ carried the mid-line "## " defect (53 content/principles/ - mostly the
 Stoic S-series - and 5 content/kernels/); one-line newline insertion
 each, no text changes; all 58 validate clean. Wiki-wide scan now reports
 zero glued headers across content/.
+
+2026-10-24 06:08Z, worker-pplx-t2c-1024e: duplicate-gloss scan finding (FLAG,
+not swept): many concept pages carry the same principle link in both the
+Cited-in-psychology-parallels and Cited-in-philosophy-parallels sections
+(e.g. Psychological reactance lists D137 in both; The progress principle,
+Cognitive bias modification theory, Realistic conflict theory, Goal setting
+theory, Proper pride, Range-frequency theory and more show duplicate gloss
+lines across sections). This is the parallels-list structure, tied to the
+owner's open questions on concept parallels - editorial disposition
+requested, not a mechanical fix. build.py re-run after this hour's 100+
+content edits: 5888 entries, clean.
