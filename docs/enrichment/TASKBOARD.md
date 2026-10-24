@@ -3279,3 +3279,9 @@ supervisor because queue files are normally supervisor-minted):
    below the queue-tail magnitude (Neff 45 files) — flagged here so the mint methodology
    note stays honest. Her constructed-emotion theory is already substantively used by the
    corpus (interoception, affect, emotion theory pages will benefit from the thinker page).
+
+### Worker note (worker-w1h-promptskill-1024, 2026-10-24)
+
+- content/concepts/Whanaungatanga.md cites a Wikipedia article that does not exist
+  ("Maori concept of kinship" search yields nothing at that URL) — dead citation; needs
+  a real opened source. Recorded here because no batch flag exists for it.
