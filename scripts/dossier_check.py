@@ -8,12 +8,13 @@ Checks (per docs/enrichment/dossiers/HANDOFF.md):
    subtheme header, and at least one quote whose carrier link opens
    (URL check is manual; here we only require the carrier link exists).
 3. Story section (owner-directed 2026-10-24, README structure item 4):
-   every dossier carries a `## Story:` section after Practice, holding
-   at least one story card link. Published dossiers not yet enriched
-   sit on STORY_MIGRATION below and fail with instructions; a dossier
-   leaves the list in the same commit that adds its Story section.
-   In-progress and future dossiers are NOT grandfathered: the section
-   is part of the v2 format.
+   every dossier carries a `## Story:` section AFTER Practice (the
+   final `##` section), holding at least one story card link. A
+   published dossier not yet enriched may sit on STORY_MIGRATION below
+   and fails with instructions; the list is SUPERVISOR-OWNED — writers
+   flag completion in a commit message and the supervisor removes the
+   slug. In-progress and future dossiers are NOT grandfathered: the
+   section is part of the v2 format.
 
 Usage (from the repo root):
   python3 scripts/dossier_check.py docs/enrichment/dossiers/anger.md
@@ -27,8 +28,9 @@ import os
 import urllib.parse
 
 # Published dossiers that do not carry the Story section yet (owner-
-# directed enrichment work). Remove the slug in the same commit that
-# adds the dossier's Story section.
+# directed enrichment work). SUPERVISOR-OWNED: a writer enriches the
+# dossier and flags it in a commit message; the supervisor removes
+# the slug here when the enriched dossier has landed.
 STORY_MIGRATION = []
 
 CONTENT_DIRS = [
@@ -111,6 +113,12 @@ def main(path):
     # Story section (4th section, after Practice; README structure item 4)
     m = re.search(r'^## Story:', md, re.M)
     slug = os.path.splitext(os.path.basename(path))[0]
+    practice = re.search(r'^## Practice:', md, re.M)
+    if m and practice and m.start() < practice.start():
+        problems.append(
+            'the "## Story:" section must come after Practice (it is the '
+            '4th section; the kernels stay in Practice) — see '
+            'docs/enrichment/dossiers/README.md item 4')
     if not m:
         if slug in STORY_MIGRATION:
             problems.append(
@@ -118,9 +126,11 @@ def main(path):
                 'STORY_MIGRATION list: enrich it with the 4th section per '
                 'docs/enrichment/dossiers/README.md item 4 (stories that '
                 'best represent the theme, one-line loglines compressed from '
-                'the story cards, which you must open and read), then '
-                'remove the slug from STORY_MIGRATION in this script in '
-                'the same commit. Exemplars: the-self.md, anger.md')
+                'the story cards, which you must open and read), then flag '
+                'completion in your commit message; the supervisor removes '
+                'the slug from STORY_MIGRATION (the list is supervisor-'
+                'owned; do not edit the shared checker yourself). '
+                'Exemplars: the-self.md, anger.md')
         else:
             problems.append(
                 'no "## Story:" section (4th section after Practice, '
@@ -136,17 +146,18 @@ def main(path):
         story_hits = [t for t in story_links
                      if os.path.exists(os.path.join('content/stories', t + '.md'))
                      or (re.match(r'^ST\d+$', t) and any(
-                         fn.startswith(t + ' ') or fn.startswith(t + chr(0x2014))
+                         fn.startswith(t + ' ')
                          for fn in os.listdir('content/stories')))]
         if not story_hits:
             problems.append(
                 'the Story section holds no story card link — it must offer '
                 'loglines for the stories that best represent the theme, '
                 'each with its card link (content/stories/)')
-        elif slug in STORY_MIGRATION:
+        if slug in STORY_MIGRATION:
             problems.append(
-                'this dossier has its Story section — remove %r from '
-                'STORY_MIGRATION in this script (same commit)' % slug)
+                'this dossier now has its Story section — flag it in a '
+                'commit message so the supervisor removes %r from '
+                'STORY_MIGRATION (the list is supervisor-owned)' % slug)
 
     if problems:
         print('FAIL %s' % path)

@@ -4682,7 +4682,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",
@@ -5075,7 +5075,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",

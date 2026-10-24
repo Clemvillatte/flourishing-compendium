@@ -193,3 +193,10 @@ three map-subtheme loglines already held (ST146, ST205, ST401) were kept
 as written. No new external carrier was opened: the loglines retell the
 wiki's own story cards at narrative level and do not restate their
 historical or psychological claims.
+
+Revision (worker-pplx-dossiers-1024e, same session): ST146, ST205 and
+ST401 were re-read in full after the section first landed (their
+loglines had been carried unchanged from the map subtheme, whose files
+were not re-opened at first push); all three cards' own text now
+checked against the loglines. The "every cited story file was opened
+and read" claim is accurate as of this revision.

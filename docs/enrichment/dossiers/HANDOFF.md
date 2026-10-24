@@ -12,10 +12,12 @@ process to alleviate suffering, detach from the self-as-object, cultivate
 wisdom and genuinely flourish in an uncertain and overwhelming world
 through Philosophy and Psychological Sciences."
 
-The owner's binding format decision (2026-10-23): every dossier has three
-sections, fusing three earlier proposals — Theme-Based Compilation /
-Theme-Based Areas of divergence / Theme-Based practice. Location: the
-Academy, as a Dossiers view beside MORE VIDEOS and DISCOVERY.
+The owner's binding format decision (2026-10-23, extended 2026-10-24):
+every dossier has FOUR sections, fusing three earlier proposals plus the
+owner-directed Story section — Theme-Based Compilation /
+Theme-Based Areas of divergence / Theme-Based practice / Theme-Based
+story (the 4th, after Practice; see Operations update 4 below). Location:
+the Academy, as a Dossiers view beside MORE VIDEOS and DISCOVERY.
 
 ## Owner feedback of 2026-10-24 — this supersedes the v1 spec
 
