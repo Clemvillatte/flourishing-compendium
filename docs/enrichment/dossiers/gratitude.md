@@ -16,7 +16,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergence below.
 
-## The map: every entry the wiki holds on gratitude
+## The map (draft): the gratitude entries the sweeps surfaced
 
 ### The classical account: benefit, goodwill, and return
 

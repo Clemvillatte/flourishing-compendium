@@ -17,7 +17,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below.
 
-## The map: every entry the wiki holds on right concentration
+## The map (draft): the right concentration entries the sweeps surfaced
 
 ### The path's own account
 
