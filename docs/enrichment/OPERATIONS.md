@@ -1,3 +1,23 @@
+# OWNER STOP-GATE: dossier readability, 2026-10-24
+
+Before producing dossier prose, read the newest owner correction in
+`dossiers/README.md` and `HUMANIZER-SKILL.md`. The owner rejected dense
+quote/source accumulations as unreadable. Verified research is necessary;
+a display of verified research is not a readable synthesis.
+
+The GF rework is a CANDIDATE, not an approved model. Do not launch the
+six-agent rollout, copy its current paragraphs, or treat earlier
+quote-heavy exemplars as a prose template. The owner will explicitly
+validate the revised GF exemplar first. Existing workers must apply the
+readability rule now; no new dossier production should be justified by an
+unapproved GF model. Preserve distinct arguments and evidence limits.
+
+QC must read paragraphs for meaning, not just count resolved links.
+Reject a paragraph if its substance is merely a sequence of attributed
+findings or quotations. Require a clear thought, an intelligible connection
+and a reason the distinction matters. Put verification-status labels and
+long evidence records in the ledger, not in the public reading path.
+
 # Supervisor QC entry 3 — 2026-10-24, T+42 (parallel workers spot-check)
 
 - dos22 (Right Livelihood, worker-pplx-dos22-1024h): checker exit 0,

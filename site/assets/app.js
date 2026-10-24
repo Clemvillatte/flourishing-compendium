@@ -2957,7 +2957,38 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Flourishing is what the word's root suggests: a life in bloom. The genuine article is harder to pin down than the feeling of it, because a life can look well and feel well and still be running on something that will not hold. The classical accounts, the science that grew out of them, and the practices they both point to all circle one problem: telling a life that is going well from one that only looks or feels that way, and moving a life toward the first."
+          "x": "Flourishing is a flower word. It enters English from the Old French florir and the Latin flōrēre, to bloom, from flōs, flower:"
+        },
+        {
+          "t": "q",
+          "x": "\"From Middle English floryschen, from Old French florir (via the arrhizotonic stem floriss-), from Late Latin flōrīre, from Latin flōrēre, from Latin flōrem (\"flower\", noun). Corresponds to flower + -ish.\" ([Wiktionary, \"flourish\"](https://en.wiktionary.org/wiki/flourish)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The etymology is not decoration; it is the oldest theory attached to the word. A plant in bloom is not resting, not decorating and not succeeding at anything. It is doing what its nature builds toward when conditions allow, which is why people reach for this word rather than success or pleasure when they mean a life going well at its root. What the word suggests at first glance is close to what it is usually taken to mean: feeling good, doing well, the life that photographs well in summer."
+        },
+        {
+          "t": "p",
+          "x": "Then the trouble starts, because half of the first-glance meanings are counterfeits, and the traditions disagree about which half. The feeling of a life going well can be bought cheaply. The thing itself, most of the classical accounts insist, cannot, and the science that measured the feeling kept finding the same gap from the other side."
+        },
+        {
+          "t": "p",
+          "x": "Genuine carries the second thread. In ordinary use it means the real thing as against the counterfeit. Its root is lineage: borrowed from the Latin genuīnus, from genus, a word whose senses run from birth, origin, lineage and descent to kind and type, itself from a root meaning to produce, to beget:"
+        },
+        {
+          "t": "q",
+          "x": "\"Borrowed from Latin genuīnus, from genus + -ūs.\" ([Wiktionary, \"genuine\"](https://en.wiktionary.org/wiki/genuine)).",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"From Proto-Italic *genos, from Proto-Indo-European *ǵénh₁os n (\"race\"), from the root *ǵenh₁- (\"to produce, beget\")\" ([Wiktionary, \"genus\" (Latin)](https://en.wiktionary.org/wiki/genus#Latin)).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "To be genuine is, in the word's own history, to be of one's own stock: true to what one is rather than grafted onto an appearance. The two halves of the title together name the problem the theme carries: a life in bloom, and that bloom being the life's own rather than borrowed, forced or displayed. Everything I have gathered on the theme turns out to answer one of the four questions that problem breaks into: what the good life is, what gets mistaken for it, what it is made of and what it costs, and how it is built."
         },
         {
           "t": "p",
@@ -2969,11 +3000,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Happiness: the affective state and its research belong to the Happiness dossier on the roadmap (the registry assigns it hedonic adaptation and subjective well-being); the classical account the wiki holds is [Happiness as activity](card:Happiness%20as%20activity), and the boundary is the hedonic-eudaimonic line drawn below. - Well-being: the umbrella term the science uses; its eudaimonic side is held here by [Eudaimonic well-being](card:Eudaimonic%20well-being), its two-factor structure by [The two-factor model of well-being](card:The%20two-factor%20model%20of%20well-being). - Eudaimonia: the classical root, held by [Eudaimonia](card:Eudaimonia) and the Aristotle cluster in the map. - Thriving: a near-synonym the compendium does not mint as its own title; the closest settled entries are [Flourishing as capability](card:Flourishing%20as%20capability) and [Complete mental health model](card:Complete%20mental%20health%20model)."
+          "x": "- Happiness: the affective state and its research, hedonic adaptation and subjective well-being included, live in the Happiness dossier; the classical account is [Happiness as activity](card:Happiness%20as%20activity), and the boundary between the two is the hedonic-eudaimonic line drawn below. - Well-being: the umbrella term the science uses; its eudaimonic side is held here by [Eudaimonic well-being](card:Eudaimonic%20well-being), its two-factor structure by [The two-factor model of well-being](card:The%20two-factor%20model%20of%20well-being). - Eudaimonia: the classical root, held by [Eudaimonia](card:Eudaimonia) and the Aristotle cluster in the map. - Thriving: a near-synonym I do not mint as its own title; the closest settled entries are [Flourishing as capability](card:Flourishing%20as%20capability) and [Complete mental health model](card:Complete%20mental%20health%20model)."
         },
         {
           "t": "h",
-          "x": "The map: every entry the wiki holds on flourishing"
+          "x": "The map: the entries on flourishing"
         },
         {
           "t": "h2",
@@ -2981,87 +3012,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Eudaimonia](card:Eudaimonia): Aristotle's term for the highest human good: a life of flourishing, of living well and doing well, rather than a passing state of mind."
+          "x": "The classical account begins with a word and a question. Aristotle called the highest human good [Eudaimonia](card:Eudaimonia), a life of living well and doing well rather than a passing state of mind, and he grounded it in a thing's excellence: [Arete](card:Arete) is the Greek concept of excellence, a thing's full realization of its inherent function, which in ethics becomes moral virtue, a stable disposition to feel, choose and act well, acquired through habituation ([Virtue](card:Virtue)). His argument runs through work: ask what the ergon of a human being is, as one asks it of a flute-player or a sculptor ([The function argument](card:The%20function%20argument)), and the answer is that the good is activity of the soul in accordance with virtue over a complete life ([Happiness as activity](card:Happiness%20as%20activity)). The definition has three load-bearing parts. Happiness is final and self-sufficient, chosen only for itself while every other good is chosen at least partly for its sake ([The sufficient good](card:The%20sufficient%20good), [Everyone desires eudaimonia](card:Everyone%20desires%20eudaimonia)). It is an activity, something we do and not something we have. And it is not reducible to rules: it sits in the family of views that put character first rather than duties or consequences ([Virtue ethics](card:Virtue%20ethics)), virtue itself being a mean between excess and deficiency found by practical judgment and not by arithmetic ([The doctrine of the mean](card:The%20doctrine%20of%20the%20mean)), guided by the capacity to see what is best in the particular case and not only in general principles ([Practical wisdom](card:Practical%20wisdom)). Even the pleasure in it is earned rather than added: the pleasure a good person takes in activity consistent with virtue ([The joy of virtue](card:The%20joy%20of%20virtue))."
         },
         {
           "t": "p",
-          "x": "[Virtue](card:Virtue): excellence of character: a stable disposition to feel, choose and act well, acquired through habituation."
+          "x": "The rivals inside the classical world kept the skeleton and changed the weights. The Epicureans put freedom from mental disturbance at the centre ([Ataraxia](card:Ataraxia)) and made pleasure a settled state rather than a process ([Katastematic pleasure](card:Katastematic%20pleasure)); both schools prized self-sufficiency, needing nothing external for the good life ([Autarky](card:Autarky)). The Daodejing teaches that to be content and to know when to stop is to be free of danger and shame ([Contentment with sufficiency](card:Contentment%20with%20sufficiency)). Spinoza's blessedness is the active joy that goes with the third kind of knowledge, a state of being and not a prize handed out afterward ([Blessedness](card:Blessedness)). And Aristotle himself refused to let the good life be a private possession: the city exists so that people may live, and live well, together ([Common flourishing](card:Common%20flourishing), [The polis](card:The%20polis)), and its complete form of friendship is the one where friends love each other for their character ([Aristotelian friendship](card:Aristotelian%20friendship))."
         },
         {
           "t": "p",
-          "x": "[Arete](card:Arete): the Greek concept of excellence: a thing's full realization of its inherent function; in ethics, moral virtue."
-        },
-        {
-          "t": "p",
-          "x": "[Everyone desires eudaimonia](card:Everyone%20desires%20eudaimonia): Aristotle's claim in Nicomachean Ethics I that every other good is chosen at least partly for the sake of happiness, while happiness is chosen only for itself."
-        },
-        {
-          "t": "p",
-          "x": "[The function argument](card:The%20function%20argument): Aristotle's route from human nature to human good: ask what the work (ergon) of a human being is, as one asks it of a flute-player or a sculptor."
-        },
-        {
-          "t": "p",
-          "x": "[Happiness as activity](card:Happiness%20as%20activity): for Aristotle, happiness is something we do and not something we have: an activity of the soul in accordance with virtue, over a complete life."
-        },
-        {
-          "t": "p",
-          "x": "[The sufficient good](card:The%20sufficient%20good): Aristotle's account of happiness as final and self-sufficient."
-        },
-        {
-          "t": "p",
-          "x": "[Virtue ethics](card:Virtue%20ethics): the family of views that put character first, in contrast to approaches that put duties or consequences first."
-        },
-        {
-          "t": "p",
-          "x": "[The doctrine of the mean](card:The%20doctrine%20of%20the%20mean): Aristotle's account of virtue as the intermediate state between excess and deficiency, found by practical judgment and not by arithmetic."
-        },
-        {
-          "t": "p",
-          "x": "[Practical wisdom](card:Practical%20wisdom): Aristotle's Book VI account of the capacity to see what is best for a human being in action, not only in general principles."
-        },
-        {
-          "t": "p",
-          "x": "[The joy of virtue](card:The%20joy%20of%20virtue): Aristotle's account in Nicomachean Ethics X of the pleasure a good person takes in activity consistent with virtue."
-        },
-        {
-          "t": "p",
-          "x": "[Ataraxia](card:Ataraxia): freedom from mental disturbance, the central condition of the good life in Epicurean philosophy."
-        },
-        {
-          "t": "p",
-          "x": "[Katastematic pleasure](card:Katastematic%20pleasure): Epicurus's pleasure of a settled state, not of a process."
-        },
-        {
-          "t": "p",
-          "x": "[Autarky](card:Autarky): self-sufficiency: the ideal of needing nothing external for the good life."
-        },
-        {
-          "t": "p",
-          "x": "[Contentment with sufficiency](card:Contentment%20with%20sufficiency): the Daodejing's teaching that to be content and to know when to stop is to be free of danger and shame."
-        },
-        {
-          "t": "p",
-          "x": "[Blessedness](card:Blessedness): Spinoza's beatitudo: the active joy that goes with the third kind of knowledge, a state of being and not a prize handed out afterward."
-        },
-        {
-          "t": "p",
-          "x": "[Common flourishing](card:Common%20flourishing): the good Aristotle's Politics sets as the purpose of the city: living, and living well, together."
-        },
-        {
-          "t": "p",
-          "x": "[The polis](card:The%20polis): the city-state; man is by nature a political animal, and the polis is prior by nature to the household and the individual."
-        },
-        {
-          "t": "p",
-          "x": "[Aristotelian friendship](card:Aristotelian%20friendship): friendship as mutually recognised goodwill; in the complete form, friends love one another for their character."
-        },
-        {
-          "t": "p",
-          "x": "One passage fixes the Aristotelian definition. It is the line the rest of the page keeps answering:"
+          "x": "One passage fixes the Aristotelian definition:"
         },
         {
           "t": "q",
-          "x": "\"if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)): Primary text; quoted passages checked.",
+          "x": "\"if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)).",
           "s": null
         },
         {
@@ -3070,87 +3033,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Positive psychology](card:Positive%20psychology): the turn in the discipline toward the strengths and conditions that let a life go well, alongside its long work on repairing damage."
+          "x": "The science took the classical question and made it measurable, in waves. Maslow opened with the need to become what one has it in one to become ([Self-actualization (Maslow)](card:Self-actualization%20%28Maslow%29)) and the claim that human needs arrange themselves in hierarchies of pre-potency ([Hierarchy of Needs Theory](card:Hierarchy%20of%20Needs%20Theory)). The discipline itself turned toward the strengths and conditions that let a life go well ([Positive psychology](card:Positive%20psychology)). Then came the measurement programmes. Ryff's theory-guided six dimensions of positive functioning, self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life, personal growth ([Psychological well-being](card:Psychological%20well-being)), built on her founding complaint that the reigning measures had little theoretical grounding ([Holistic well-being](card:Holistic%20well-being)). Ryan and Deci drew the line between the eudaimonic approach, focused on meaning, self-realization and full functioning, and the hedonic approach focused on pleasure attainment and pain avoidance ([Eudaimonic well-being](card:Eudaimonic%20well-being)). Keyes operationalized mental health as positive feelings plus positive functioning, separate from but correlated with mental illness ([Complete mental health model](card:Complete%20mental%20health%20model)), on the finding that the presence of mental health and the absence of mental illness are correlated but separate factors ([The two-factor model of well-being](card:The%20two-factor%20model%20of%20well-being)). Huppert and So gave flourishing a ten-feature framework and operational definition ([Flourishing scale](card:Flourishing%20scale)). Seligman proposed well-being as five elements, Positive Emotion, Engagement, Relationships, Meaning, Accomplishment, which he calls a hypothesis ([PERMA model](card:PERMA%20model))."
         },
         {
           "t": "p",
-          "x": "[Eudaimonic well-being](card:Eudaimonic%20well-being): Ryan and Deci's 2001 line: the eudaimonic approach focuses on meaning, self-realization and full functioning, set against a hedonic approach focused on pleasure attainment and pain avoidance."
+          "x": "What we pursue matters alongside how we feel. Self-determination theory distinguishes intrinsic goals, such as affiliation, growth and community contribution, from extrinsic goals of wealth, fame and image, and reports different associations with well-being ([Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals), [Deci and Ryan 2000](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)). Its explanation centres on whether the goals satisfy needs for autonomy, competence and relatedness ([Psychological needs theory](card:Psychological%20needs%20theory), [Deci and Ryan 2000](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)). That makes social conditions part of the explanation: Ryan and Deci describe people as potentially proactive and engaged or passive and alienated, depending largely on the social conditions in which they develop and function ([Self-determined personality growth](card:Self-determined%20personality%20growth), [Ryan and Deci 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392867/))."
         },
         {
           "t": "p",
-          "x": "[Psychological well-being](card:Psychological%20well-being): Ryff's theory-guided six-dimension model of positive functioning: self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life, personal growth."
+          "x": "There is also a difference between having energy and being absorbed in something worth doing. [Vitality](card:Vitality) names the felt energy and aliveness available to a person ([Frederick and Ryan](https://acuresearchbank.acu.edu.au/server/api/core/bitstreams/b155eafb-778a-47b5-92cb-1c1a7ef715cb/content)). [Flow](card:Flow) describes energized focus and full involvement ([Flow overview](https://en.wikipedia.org/wiki/Flow_%28psychology%29)). [Vital engagement](card:Vital%20engagement) joins enjoyed absorption to a sense that the activity matters ([Tse and colleagues 2026](https://link.springer.com/article/10.1007/s11031-026-10191-z)). I am reluctant to call a pursuit fulfilling just because it holds my attention. The question extends beyond one experience: Little proposes that a life's quality depends on being able to sustain its core [Personal projects](card:Personal%20projects), the pursuits a person deeply cares about ([Little 2008, abstract](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x))."
         },
         {
           "t": "p",
-          "x": "[Holistic well-being](card:Holistic%20well-being): Ryff's 1989 opening move: the reigning measures of psychological well-being had little theoretical grounding."
-        },
-        {
-          "t": "p",
-          "x": "[Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals): in self-determination theory, goals sort into intrinsic ones (affiliation, growth, community contribution) and extrinsic ones (wealth, fame, image), with different well-being consequences."
-        },
-        {
-          "t": "p",
-          "x": "[Psychological needs theory](card:Psychological%20needs%20theory): the Deci and Ryan account of the needs whose satisfaction predicts well-being: autonomy, competence and relatedness."
-        },
-        {
-          "t": "p",
-          "x": "[Complete mental health model](card:Complete%20mental%20health%20model): Keyes's operationalization of mental health as positive feelings plus positive functioning, treated as separate from, but correlated with, mental illness."
-        },
-        {
-          "t": "p",
-          "x": "[The two-factor model of well-being](card:The%20two-factor%20model%20of%20well-being): Keyes's finding that the presence of mental health and the absence of mental illness are correlated but separate factors."
-        },
-        {
-          "t": "p",
-          "x": "[Flourishing scale](card:Flourishing%20scale): Huppert and So's ten-feature framework and operational definition of flourishing; the card separates it from the eight-item Flourishing Scale of Diener and colleagues."
-        },
-        {
-          "t": "p",
-          "x": "[PERMA model](card:PERMA%20model): Seligman's account of well-being as five elements: Positive Emotion, Engagement, Relationships, Meaning, Accomplishment, which he calls a hypothesis."
-        },
-        {
-          "t": "p",
-          "x": "[Self-actualization (Maslow)](card:Self-actualization%20%28Maslow%29): the need to become what one has it in one to become, in Maslow's 1943 statement."
-        },
-        {
-          "t": "p",
-          "x": "[Hierarchy of Needs Theory](card:Hierarchy%20of%20Needs%20Theory): Maslow's claim that human needs arrange themselves in hierarchies of pre-potency."
-        },
-        {
-          "t": "p",
-          "x": "[Psychological richness](card:Psychological%20richness): Oishi and Westgate's proposed third aspect of a good life: varied, interesting, perspective-changing experiences, distinct from both happiness and meaning."
-        },
-        {
-          "t": "p",
-          "x": "[Vitality](card:Vitality): Ryan and Frederick's felt sense of being alive and having energy available for what one cares about."
-        },
-        {
-          "t": "p",
-          "x": "[Vital engagement](card:Vital%20engagement): Nakamura and Csikszentmihalyi's compound of absorption plus significance."
-        },
-        {
-          "t": "p",
-          "x": "[Flow](card:Flow): the state of energized focus, full involvement and enjoyment in the process of an activity."
-        },
-        {
-          "t": "p",
-          "x": "[Personal projects](card:Personal%20projects): Brian Little's proposal that the quality of a life depends on whether its core projects can be pursued sustainably."
-        },
-        {
-          "t": "p",
-          "x": "[Character strengths (Peterson & Seligman)](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29): the 24 strengths grouped under virtue categories in Character Strengths and Virtues (2004)."
-        },
-        {
-          "t": "p",
-          "x": "[Positive emotions research](card:Positive%20emotions%20research): Fredrickson's broaden-and-build programme: positive emotions broaden momentary thought-action repertoires and so build lasting personal resources."
-        },
-        {
-          "t": "p",
-          "x": "[Broaden-and-build](card:Broaden-and-build): Fredrickson's theory of what positive emotions are for: they broaden thought-action repertoires and build enduring resources."
-        },
-        {
-          "t": "p",
-          "x": "[Self-determined personality growth](card:Self-determined%20personality%20growth): the wiki's label for the Deci and Ryan claim that people can be proactive and engaged or passive and alienated, depending largely on social conditions."
+          "x": "What a person brings to an activity matters too. Peterson and Seligman's classification gathers 24 [Character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under virtue categories ([Seligman and colleagues 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)). Fredrickson's [Positive emotions research](card:Positive%20emotions%20research) asks what positive emotions make possible: her [Broaden-and-build](card:Broaden-and-build) theory proposes that they widen the thoughts and actions available to us and help build lasting resources, while describing the early evidence as preliminary ([Fredrickson 2001](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)). Oishi and Westgate widen the question further with [Psychological richness](card:Psychological%20richness), a life of varied, interesting experiences that change one's perspective, related to happiness and meaning but distinguishable from both ([Oishi and Westgate](https://www.erinwestgate.com/uploads/7/6/4/1/7641726/oishi.westgate.psychrev.2021.pdf))."
         },
         {
           "t": "p",
@@ -3158,7 +3053,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Reigning measures of psychological well-being have little theoretical grounding, despite an extensive literature on the contours of positive functioning. Aspects of well-being derived from this literature (i.e., self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life, and personal growth) were operationalized.\" ([Ryff 1989, Journal of Personality and Social Psychology](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf)): Study; quoted passage checked.",
+          "x": "\"Reigning measures of psychological well-being have little theoretical grounding, despite an extensive literature on the contours of positive functioning. Aspects of well-being derived from this literature (i.e., self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life, and personal growth) were operationalized.\" ([Ryff 1989, Journal of Personality and Social Psychology](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf)).",
           "s": null
         },
         {
@@ -3167,47 +3062,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Materialism](card:Materialism): in psychology, an orientation toward money and possessions as a route to personal achievement and well-being."
-        },
-        {
-          "t": "p",
-          "x": "[Extrinsic aspirations](card:Extrinsic%20aspirations): wealth, fame and image goals correlate with lower well-being; the card notes the effects are small to moderate and that the \"even when achieved\" part rests on a later study, not the 1996 paper."
-        },
-        {
-          "t": "p",
-          "x": "[Intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals): the distinction between goals whose pursuit meets basic psychological needs directly and goals whose value depends on other people's reactions."
-        },
-        {
-          "t": "p",
-          "x": "[Aspiration index](card:Aspiration%20index): the instrument that assesses people's life goals, used in the intrinsic and extrinsic goals research."
-        },
-        {
-          "t": "p",
-          "x": "[Hedonic adaptation](card:Hedonic%20adaptation): the hedonic treadmill: people adapt to good and bad changes and drift back toward a stable baseline."
-        },
-        {
-          "t": "p",
-          "x": "[Valuing happiness paradox](card:Valuing%20happiness%20paradox): the finding that making happiness one's goal can reduce it; in two studies the effect ran through disappointment at one's own feelings."
-        },
-        {
-          "t": "p",
-          "x": "[The hedonic trap of seeking peak experiences](card:The%20hedonic%20trap%20of%20seeking%20peak%20experiences): Mauss and colleagues' 2011 finding that valuing happiness more goes with feeling worse, mostly when circumstances are good."
-        },
-        {
-          "t": "p",
-          "x": "[The paradox of hedonism](card:The%20paradox%20of%20hedonism): Sidgwick's finding that the impulse toward pleasure, if too predominant, defeats its own aim."
-        },
-        {
-          "t": "p",
-          "x": "[Happiness as by-product](card:Happiness%20as%20by-product): Frankl's claim, after Mill, that happiness arrives as a side effect of caring about something else and dissolves once it becomes the target."
-        },
-        {
-          "t": "p",
-          "x": "[Hypercompetitiveness](card:Hypercompetitiveness): Horney's construct: an exaggerated need to compete and win, with self-worth riding on the outcome."
-        },
-        {
-          "t": "p",
-          "x": "[Instrumental reason](card:Instrumental%20reason): reason reduced to the choice of means, which has stopped asking whether what it pursues is worth wanting."
+          "x": "The counterfeits are not random; they share a shape: a good life taken to be a feeling to be held, a number to be reached, or an image to be kept up. In psychology, materialism is an orientation toward money and possessions as a route to personal achievement and well-being ([Materialism](card:Materialism)), and its goals, wealth, fame and image, correlate with lower well-being, with the card honest that the effects are small to moderate and the \"even when achieved\" part rests on a later study ([Extrinsic aspirations](card:Extrinsic%20aspirations)). The instrument behind that research assesses people's life goals directly ([Aspiration index](card:Aspiration%20index)), and the distinction it measures is between goals whose pursuit meets basic psychological needs directly and goals whose value depends on other people's reactions ([Intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals)). The hedonic treadmill runs underneath: people adapt to good and bad changes and drift back toward a stable baseline ([Hedonic adaptation](card:Hedonic%20adaptation)), and making happiness one's goal can reduce it, in two studies through disappointment at one's own feelings ([Valuing happiness paradox](card:Valuing%20happiness%20paradox)). Mauss and colleagues found that valuing happiness more went with feeling worse, mostly when circumstances were good ([The hedonic trap of seeking peak experiences](card:The%20hedonic%20trap%20of%20seeking%20peak%20experiences)). The trap is older than the experiments: Sidgwick saw that the impulse toward pleasure, if too predominant, defeats its own aim ([The paradox of hedonism](card:The%20paradox%20of%20hedonism)), and Frankl, after Mill, held that happiness arrives as a side effect of caring about something else and dissolves once it becomes the target ([Happiness as by-product](card:Happiness%20as%20by-product)). Two character-level variants complete the picture: Horney's exaggerated need to compete and win, with self-worth riding on the outcome ([Hypercompetitiveness](card:Hypercompetitiveness)), and reason reduced to the choice of means, which has stopped asking whether what it pursues is worth wanting ([Instrumental reason](card:Instrumental%20reason))."
         },
         {
           "t": "h2",
@@ -3215,51 +3070,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Meaning](card:Meaning): the sense that life is about something: purpose, coherence and mattering; Frankl made it the primary human drive."
+          "x": "What happens to meaning when a life becomes painful? Frankl's answer begins with the particular person: [The meaning of life](card:The%20meaning%20of%20life) changes from one person and moment to another, and we answer its demands through our conduct ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). His account of [Meaning](card:Meaning) makes room for work, love and the attitude taken toward unavoidable suffering, while [Purpose](card:Purpose) gives a person an aim to carry forward ([Frankl](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). [Tragic optimism](card:Tragic%20optimism) names the possibility of affirming life in the face of pain, guilt and death, with a limit Frankl makes explicit: optimism cannot be commanded, and avoidable suffering calls for its cause to be removed ([Frankl](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))."
         },
         {
           "t": "p",
-          "x": "[The meaning of life](card:The%20meaning%20of%20life): Frankl's reversal in Man's Search for Meaning: the question cannot be answered in general, because life questions us and we answer with our conduct."
+          "x": "Adapting to hardship and being changed by it are different possibilities. Masten's developmental research on [Resilience](card:Resilience) finds good adaptation supported by ordinary resources in children, their relationships and their communities ([Masten 2001](https://ocfcpacourts.us/wp-content/uploads/2020/06/Ordinary_Magic_Resilience_Process_000935.pdf)). Tedeschi and Calhoun describe people's reports of [Post-traumatic growth](card:Post-traumatic%20growth) through the struggle with a crisis, while warning that growth is not inevitable and can coexist with distress ([Tedeschi and Calhoun 2004](https://ptgi.uncc.edu/wp-content/uploads/sites/9/2013/01/PTG-Conceptual-Foundtns.pdf)). Taleb's [Antifragility](card:Antifragility) goes further by naming systems that improve under certain stresses, a claim about how a system responds within a range, not a reason to expect every injured person to become stronger ([Antifragility overview](https://en.wikipedia.org/wiki/Antifragility))."
         },
         {
           "t": "p",
-          "x": "[Purpose](card:Purpose): an aim or reason for carrying on, with Frankl's camp account of what a psychologist could actually do for prisoners."
+          "x": "Loss also raises the question of what we are trying to preserve. Heidegger's [Being-toward-death](card:Being-toward-death) asks a person to take up finite possibilities as their own, without the evasion of living only as one is expected to live ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/)). Buddhist teaching on [Impermanence](card:Impermanence) directs attention to the inconstancy of conditioned things ([Dhammapada 277, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.than.html)). Neither account offers an unchanging condition that a successful life could possess forever."
         },
         {
           "t": "p",
-          "x": "[Tragic optimism](card:Tragic%20optimism): Frankl's name for saying yes to life in spite of what he called the tragic triad."
-        },
-        {
-          "t": "p",
-          "x": "[Post-traumatic growth](card:Post-traumatic%20growth): Bonanno's finding that resilience is common, set beside Tedeschi and Calhoun's growth findings."
-        },
-        {
-          "t": "p",
-          "x": "[Resilience](card:Resilience): positive adaptation in the context of adversity; Masten's conclusion is how ordinary it is."
-        },
-        {
-          "t": "p",
-          "x": "[Antifragility](card:Antifragility): Taleb's third category beyond fragile and robust: the antifragile gets better under stress."
-        },
-        {
-          "t": "p",
-          "x": "[Being-toward-death](card:Being-toward-death): Heidegger's stance in which a person takes ownership of finitude instead of fleeing it."
-        },
-        {
-          "t": "p",
-          "x": "[Impermanence](card:Impermanence): the fact that everything that arises will pass: the cross-tradition hub, and the counterweight to any picture of flourishing as a settled possession."
-        },
-        {
-          "t": "p",
-          "x": "[Authenticity](card:Authenticity): the congruent relationship between what a person presents outwardly and what they hold inwardly."
-        },
-        {
-          "t": "p",
-          "x": "[One thing necessary](card:One%20thing%20necessary): Luke 10:42: a single priority beneath many demands."
-        },
-        {
-          "t": "p",
-          "x": "[Wabi-sabi](card:Wabi-sabi): the Japanese aesthetic of the imperfect, impermanent and incomplete."
+          "x": "What, then, deserves our attention? [Authenticity](card:Authenticity), understood as consistency between values and outward conduct, asks whether the life we present is one we can endorse ([Dammann and colleagues](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.629654/full)). Luke's [One thing necessary](card:One%20thing%20necessary) begins from Martha's distraction by many tasks and Mary's attention to Jesus, a particular encounter whose priority need not be turned into a universal formula for choosing ([Luke 10:38–42, NRSVUE](https://www.biblegateway.com/passage/?search=Luke+10%3A38-42&version=NRSVUE)). [Wabi-sabi](card:Wabi-sabi) brings a different sensibility: austere beauty, the patina of age, and an appreciation of things that are imperfect or passing ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/japanese-aesthetics/))."
         },
         {
           "t": "h2",
@@ -3267,71 +3090,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Connectedness in well-being research](card:Connectedness%20in%20well-being%20research): Diener and Seligman's 2002 study of very happy people, in whom ties to others travelled with how well life went."
+          "x": "Who is there to share a good life with? In Diener and Seligman's study of 222 undergraduates, the happiest group had stronger relationships than the less happy groups, a finding about [Connectedness in well-being research](card:Connectedness%20in%20well-being%20research) that does not by itself establish cause ([Diener and Seligman 2002, abstract](https://pubmed.ncbi.nlm.nih.gov/11894851/)). Baumeister and Leary's [Need to belong](card:The%20need%20to%20belong) hypothesis gives those ties a more basic role: frequent, nonaversive interactions within lasting bonds meet a fundamental motivation ([Baumeister and Leary 1995, abstract](https://pubmed.ncbi.nlm.nih.gov/7777651/)). At the level of whole societies, Helliwell's account of the [Social determinants of well-being](card:Social%20determinants%20of%20well-being) also gives social context a central place, while cautioning that his estimates rely on correlations and complex feedbacks ([Helliwell 2019](https://blogs.ubc.ca/helliwell/files/2020/10/Annals_2019.pdf))."
         },
         {
           "t": "p",
-          "x": "[The need to belong](card:The%20need%20to%20belong): Baumeister and Leary's hypothesis that the drive for social attachment is a fundamental human motivation."
+          "x": "Having someone to count on is one condition; having a choice about how to live is another. [The capabilities approach](card:The%20capabilities%20approach) asks what a person is really able to do and be, distinguishing achieved ways of living from the opportunities available to choose them ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/capability-approach/)). Nussbaum's account of [Flourishing as capability](card:Flourishing%20as%20capability) makes minimum levels of central capabilities a matter of justice ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/capability-approach/)). I would be wary of praising someone's contentment without asking what alternatives were open to them. Berlin's [Positive freedom](card:Positive%20freedom) introduces the wish to direct one's own life, together with a warning for anyone prescribing a better one: the language of a person's true interests can be used to justify coercing them ([Berlin, Two Concepts of Liberty](https://berlin.wolf.ox.ac.uk/published_works/tcl/tcl-e.pdf))."
         },
         {
           "t": "p",
-          "x": "[Social determinants of well-being](card:Social%20determinants%20of%20well-being): the idea that how people rate their lives depends heavily on the social conditions around them, not only on traits or income."
+          "x": "The relations that sustain us may also help make us who we are. [Communitarianism](card:Communitarianism) gives communities a constitutive role in identity, and Sandel's [Constitutive relationality](card:Constitutive%20relationality) asks whether some attachments are too close to us to be treated as freely exchangeable choices ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/communitarianism/)). [The common good](card:The%20common%20good) adds the shared facilities, material as well as cultural and institutional, that members of a community owe one another ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/common-good/)). A relational understanding also informs the maxim associated with [Ubuntu](card:Ubuntu): a person is a person through other persons ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/federalism/)). In Tā Mason Durie's Māori model, [Te Whare Tapa Whā](card:Te%20Whare%20Tapa%20Wh%C4%81), the meeting house expresses the interdependence of physical, mental, spiritual and family health ([New Zealand Ministry of Health](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha))."
         },
         {
           "t": "p",
-          "x": "[Flourishing as capability](card:Flourishing%20as%20capability): Nussbaum's version of the capability approach: judge a life by the real opportunities a person has to do and be what they have reason to value."
+          "x": "These are distinct accounts of what a person needs. Joshanloo's theoretical review of [Cross-cultural variations in conceptions of happiness](card:Cross-cultural%20variations%20in%20conceptions%20of%20happiness) identifies six differences between the Western and Eastern accounts it considers ([Joshanloo 2014, abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1)). Even fitting one's surroundings is not an uncomplicated advantage: research testing [Cultural fit theory](card:Cultural%20fit%20theory) across 29 countries finds that the association between value agreement and well-being changes with the values involved ([Hanel and colleagues 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/))."
         },
         {
           "t": "p",
-          "x": "[The capabilities approach](card:The%20capabilities%20approach): Sen's and Nussbaum's way of evaluating how well a life is going, and how fair a society is, by what people are able to do and be."
-        },
-        {
-          "t": "p",
-          "x": "[Positive freedom](card:Positive%20freedom): freedom as self-mastery: the presence of a self in charge of its own life, not only the absence of interference."
-        },
-        {
-          "t": "p",
-          "x": "[The common good](card:The%20common%20good): what a community owes to all its members, in the Stanford Encyclopedia's working definition."
-        },
-        {
-          "t": "p",
-          "x": "[Communitarianism](card:Communitarianism): the view that human identities are largely shaped by constitutive communities."
-        },
-        {
-          "t": "p",
-          "x": "[Constitutive relationality](card:Constitutive%20relationality): Sandel's thought that the self is made by its ties and not only accompanied by them."
-        },
-        {
-          "t": "p",
-          "x": "[Ubuntu](card:Ubuntu): the Nguni word for humanness: a person is a person through other persons."
-        },
-        {
-          "t": "p",
-          "x": "[Te Whare Tapa Whā](card:Te%20Whare%20Tapa%20Wh%C4%81): Mason Durie's Māori model of wellbeing as a meeting house with four walls, all of which must stand."
-        },
-        {
-          "t": "p",
-          "x": "[Cross-cultural variations in conceptions of happiness](card:Cross-cultural%20variations%20in%20conceptions%20of%20happiness): Joshanloo's review of Western and Eastern conceptions of the good life, identifying six fundamental differences."
-        },
-        {
-          "t": "p",
-          "x": "[Cultural fit theory](card:Cultural%20fit%20theory): the claim that well-being tracks how well a person's values match the values around them; Hanel and colleagues tested it in 29 countries."
-        },
-        {
-          "t": "p",
-          "x": "[Time affluence](card:Time%20affluence): the subjective sense of having enough time, with autonomy over its use, associated with well-being independently of income."
-        },
-        {
-          "t": "p",
-          "x": "[The social gradient of health](card:The%20social%20gradient%20of%20health): health tracks social position at every rung of the ladder, not only at the bottom."
-        },
-        {
-          "t": "p",
-          "x": "[Intergenerational responsibility](card:Intergenerational%20responsibility): the duties owed to people who do not yet exist, in Jonas's account."
-        },
-        {
-          "t": "p",
-          "x": "[Digital well-being](card:Digital%20well-being): the impact of digital technologies on a life that is good for a human being."
+          "x": "There are practical limits on the life someone can lead. [Time affluence](card:Time%20affluence) includes the felt sufficiency of time and control over its use ([Yoon 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/)). [The social gradient of health](card:The%20social%20gradient%20of%20health) shows worse health accompanying lower socioeconomic position across the hierarchy, not only among the poorest ([Marmot and colleagues 2008](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_dialogue/@actrav/documents/meetingdocument/wcms_161321.pdf)). The settings in which we spend time matter too: [Digital well-being](card:Digital%20well-being) asks how digital technologies affect a life good for a human being ([Burr, Taddeo and Floridi 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7417400/)). And the consequences reach beyond those alive now: Jonas's [Intergenerational responsibility](card:Intergenerational%20responsibility) asks that present action preserve the future possibility of human life ([Jonas, quoted by Mangone 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7797197/))."
         },
         {
           "t": "h2",
@@ -3339,51 +3114,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Character development](card:Character%20development): Aristotle's account of habituation: we become virtuous by doing the acts."
-        },
-        {
-          "t": "p",
-          "x": "[Virtue development research](card:Virtue%20development%20research): the study of how stable virtuous traits are acquired; Sanderse on the neo-Aristotelian mechanism of habituation."
-        },
-        {
-          "t": "p",
-          "x": "[Potentiality to actuality](card:Potentiality%20to%20actuality): Aristotle's distinction between a thing's capacity to become and its being in act."
-        },
-        {
-          "t": "p",
-          "x": "[Growth through practice](card:Growth%20through%20practice): the Buddhist theory of change: qualities are not given but cultivated (bhavana)."
-        },
-        {
-          "t": "p",
-          "x": "[Pursue becoming, not arrival](card:Pursue%20becoming%2C%20not%20arrival): Maslow's own correction to his earlier framing: growth as a process active throughout life, not a far goal."
-        },
-        {
-          "t": "p",
-          "x": "[Sustainability of well-being gains](card:Sustainability%20of%20well-being%20gains): whether boosts in happiness from intentional effort outlast the lift, in the Lyubomirsky, Sheldon and Schkade model."
-        },
-        {
-          "t": "p",
-          "x": "[Person-activity fit](card:Person-activity%20fit): the degree to which a well-being practice suits the person doing it."
-        },
-        {
-          "t": "p",
-          "x": "[Positive activity interventions](card:Positive%20activity%20interventions): simple intentional practices, such as gratitude and kindness, meant to raise well-being."
-        },
-        {
-          "t": "p",
-          "x": "[Gratitude](card:Gratitude): the felt recognition of a benefit received, with Seneca and Aristotle as classical anchors."
-        },
-        {
-          "t": "p",
-          "x": "[Capitalization](card:Capitalization): how you respond to others' good news predicts relationship quality (Gable and colleagues, 2004)."
-        },
-        {
-          "t": "p",
-          "x": "[Self-transcendent emotions](card:Self-transcendent%20emotions): awe, gratitude, love and peace carry the link between spirituality and well-being."
-        },
-        {
-          "t": "p",
-          "x": "[Moral exemplarism](card:Moral%20exemplarism): Zagzebski's theory that morality is built from the people we find supremely admirable."
+          "x": "The last classical commitment is that the good life is built, not found. Aristotle's habituation says we become virtuous by doing the acts ([Character development](card:Character%20development)); the study of how stable virtuous traits are acquired continues the mechanism, with Sanderse on the neo-Aristotelian habituation account ([Virtue development research](card:Virtue%20development%20research)); potentiality becomes actuality in a thing that is in act rather than merely able ([Potentiality to actuality](card:Potentiality%20to%20actuality)); the Buddhist theory of change holds that qualities are not given but cultivated, bhavana ([Growth through practice](card:Growth%20through%20practice)); and Maslow corrected his own earlier framing, growth as a process active throughout life rather than a far goal ([Pursue becoming, not arrival](card:Pursue%20becoming%2C%20not%20arrival)). The science of practice adds findings and cautions: whether boosts in happiness from intentional effort outlast the lift, in the Lyubomirsky, Sheldon and Schkade model ([Sustainability of well-being gains](card:Sustainability%20of%20well-being%20gains)); the degree to which a well-being practice suits the person doing it ([Person-activity fit](card:Person-activity%20fit)); simple intentional practices such as gratitude and kindness meant to raise well-being ([Positive activity interventions](card:Positive%20activity%20interventions)); the felt recognition of a benefit received, with Seneca and Aristotle as classical anchors ([Gratitude](card:Gratitude)); how you respond to others' good news predicting relationship quality ([Capitalization](card:Capitalization)); awe, gratitude, love and peace carrying the link between spirituality and well-being ([Self-transcendent emotions](card:Self-transcendent%20emotions)); and Zagzebski's theory that morality is built from the people we find supremely admirable ([Moral exemplarism](card:Moral%20exemplarism))."
         },
         {
           "t": "h2",
@@ -3391,23 +3122,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Aristotle](card:T002%20%E2%80%94%20Aristotle): Greek philosopher, student of Plato and founder of the Lyceum; author of the Nicomachean Ethics, quoted above."
-        },
-        {
-          "t": "p",
-          "x": "[Ryan and Deci](card:T015%20%E2%80%94%20Ryan%2C%20Richard%20M.%20and%20Deci%2C%20Edward%20L.): the self-determination theory authors, whose 2000 American Psychologist article ties motivation, development and well-being together."
-        },
-        {
-          "t": "p",
-          "x": "[Seligman](card:T026%20%E2%80%94%20Seligman%2C%20Martin): director of the Positive Psychology Center at the University of Pennsylvania; in 1998, as president of the American Psychological Association, he turned the field toward what makes life worth living; author of the PERMA account."
-        },
-        {
-          "t": "p",
-          "x": "[Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara): principal investigator of the Positive Emotions and Psychophysiology Laboratory; builder of the broaden-and-build account."
-        },
-        {
-          "t": "p",
-          "x": "[Maslow](card:T029%20%E2%80%94%20Maslow%2C%20Abraham): founded humanistic psychology and gave the study of flourishing its most famous image, the hierarchy of needs."
+          "x": "The people behind these accounts have cards of their own: [Aristotle](card:T002%20%E2%80%94%20Aristotle), student of Plato and founder of the Lyceum, author of the Nicomachean Ethics quoted above; [Ryan and Deci](card:T015%20%E2%80%94%20Ryan%2C%20Richard%20M.%20and%20Deci%2C%20Edward%20L.), whose 2000 American Psychologist article ties motivation, development and well-being together; [Seligman](card:T026%20%E2%80%94%20Seligman%2C%20Martin), who as APA president in 1998 turned the field toward what makes life worth living and later proposed the PERMA account; [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara), builder of the broaden-and-build account; and [Maslow](card:T029%20%E2%80%94%20Maslow%2C%20Abraham), who gave the study of flourishing its most famous image, the hierarchy of needs."
         },
         {
           "t": "h2",
@@ -3415,23 +3130,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[143. Solon and Croesus](card:ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus asks Solon who is the happiest of men; Solon names an ordinary citizen of a prosperous city who died fighting for it, and the tale warns against judging a life before it is finished."
-        },
-        {
-          "t": "p",
-          "x": "[277. Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): Camus's conclusion about the man condemned to roll a boulder uphill forever."
-        },
-        {
-          "t": "p",
-          "x": "[279. Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): Man's Search for Meaning as memoir and theory: those who kept a reason to live endured differently."
-        },
-        {
-          "t": "p",
-          "x": "[195. Diogenes and the Sun](card:ST195%20%E2%80%94%20Diogenes%20and%20the%20Sun): exiled, living in a jar, Diogenes answers that wherever he goes the sun shines."
-        },
-        {
-          "t": "p",
-          "x": "[316. How You Respond to Good News](card:ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News): four ways people respond to a partner's good news."
+          "x": "The stories I have collected carry the theme in narrative form: Solon refusing to call any man happy until his life is finished ([143. Solon and Croesus](card:ST143%20%E2%80%94%20Solon%20and%20Croesus)); Camus's conclusion about the man condemned to roll a boulder uphill forever ([277. Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy)); Frankl's account of those who kept a reason to live ([279. Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning)); Diogenes answering that wherever he goes the sun shines ([195. Diogenes and the Sun](card:ST195%20%E2%80%94%20Diogenes%20and%20the%20Sun)); and the four ways people respond to a partner's good news ([316. How You Respond to Good News](card:ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News))."
         },
         {
           "t": "h",
@@ -3447,7 +3146,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Yet evidently, as we said, it needs the external goods as well; for it is impossible, or not easy, to do noble acts without the proper equipment. In many actions we use friends and riches and political power as instruments\" ([Aristotle, Nicomachean Ethics I.8, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)): Primary text; quoted passages checked.",
+          "x": "\"Yet evidently, as we said, it needs the external goods as well; for it is impossible, or not easy, to do noble acts without the proper equipment. In many actions we use friends and riches and political power as instruments\" ([Aristotle, Nicomachean Ethics I.8, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)).",
           "s": null
         },
         {
@@ -3456,17 +3155,17 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Moreover, they hold that it is in itself sufficient to ensure well-being: thus Zeno, and Chrysippus in the first book of his treatise On Virtues , and Hecato in the second book of his treatise On Goods\" ([Diogenes Laertius, Lives VII.127-128](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html)): Primary text; quoted passages checked.",
+          "x": "\"Moreover, they hold that it is in itself sufficient to ensure well-being: thus Zeno, and Chrysippus in the first book of his treatise On Virtues , and Hecato in the second book of his treatise On Goods\" ([Diogenes Laertius, Lives VII.127-128](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html)).",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"For if magnanimity by itself alone can raise us far above everything, and if magnanimity is but a part of virtue, then too virtue as a whole will be sufficient in itself for well-being — despising all things that seem troublesome.\" ([Diogenes Laertius, Lives VII.128](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html)): Primary text; quoted passage checked.",
+          "x": "\"For if magnanimity by itself alone can raise us far above everything, and if magnanimity is but a part of virtue, then too virtue as a whole will be sufficient in itself for well-being — despising all things that seem troublesome.\" ([Diogenes Laertius, Lives VII.128](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html)).",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"Panaetius, however, and Posidonius deny that virtue is self-sufficing: on the contrary, health is necessary, and some means of living and strength.\" ([Diogenes Laertius, Lives VII.128](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html)): Primary text; quoted passages checked.",
+          "x": "\"Panaetius, however, and Posidonius deny that virtue is self-sufficing: on the contrary, health is necessary, and some means of living and strength.\" ([Diogenes Laertius, Lives VII.128](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html)).",
           "s": null
         },
         {
@@ -3483,7 +3182,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"By pleasure we mean the absence of pain in the body and of trouble in the soul.\" ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html)): Primary text; quoted passages checked.",
+          "x": "\"By pleasure we mean the absence of pain in the body and of trouble in the soul.\" ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html)).",
           "s": null
         },
         {
@@ -3492,12 +3191,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Thus, from the eudaimonic perspective, subjective happiness cannot be equated with well-being.\" ([Ryan and Deci, On Happiness and Human Potentials, Annual Review of Psychology 2001](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf)): Secondary source; quoted passage checked.",
+          "x": "\"Thus, from the eudaimonic perspective, subjective happiness cannot be equated with well-being.\" ([Ryan and Deci, On Happiness and Human Potentials, Annual Review of Psychology 2001](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf)).",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"These two views have given rise to different research foci and a body of knowledge that is in some areas divergent and in others complementary.\" ([Ryan and Deci 2001, abstract](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf)): Secondary source; quoted passage checked.",
+          "x": "\"These two views have given rise to different research foci and a body of knowledge that is in some areas divergent and in others complementary.\" ([Ryan and Deci 2001, abstract](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf)).",
           "s": null
         },
         {
@@ -3506,12 +3205,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Unfortunately, this distinction (rooted in philosophy) does not necessarily translate well to science.\" ([Kashdan, Biswas-Diener and King 2008, abstract](https://www.tandfonline.com/doi/full/10.1080/17439760802303044)): Secondary source; quoted passage checked.",
+          "x": "\"Unfortunately, this distinction (rooted in philosophy) does not necessarily translate well to science.\" ([Kashdan, Biswas-Diener and King 2008, abstract](https://www.tandfonline.com/doi/full/10.1080/17439760802303044)).",
           "s": null
         },
         {
           "t": "p",
-          "x": "Waterman replies that the two are \"inter-related but reliably distinguishable and qualitatively distinct conceptions of happiness\" ([Waterman 2008, abstract](https://www.tandfonline.com/doi/full/10.1080/17439760802303002)): Secondary source; quoted passage checked. Keyes and Annas add data: in a national sample, 48.5% had high hedonic well-being, only 18% were flourishing, and the 30.5% who felt good but functioned only moderately well had nearly twice the rate of mental illness as the flourishing group ([Keyes and Annas 2009, abstract](https://www.tandfonline.com/doi/full/10.1080/17439760902844228)): Secondary source; quoted passage checked. Keyes's earlier work found flourishing in 17.2 percent of a sample and languishing in 12.1 percent, with the risk of a major depressive episode nearly six times greater among the languishing than among the flourishing ([Keyes 2002, abstract](https://pubmed.ncbi.nlm.nih.gov/12096700/)): Secondary source; quoted passage checked. The disagreement is partly about words and partly about evidence, and it is not settled. Oishi and Westgate then argue that both camps leave something out, proposing \"psychological richness\", lives \"characterized by a variety of interesting and perspective-changing experiences\" ([Oishi and Westgate 2022, abstract](https://pubmed.ncbi.nlm.nih.gov/34383524/)): Secondary source; quoted passage checked."
+          "x": "Waterman replies that the two are \"inter-related but reliably distinguishable and qualitatively distinct conceptions of happiness\" ([Waterman 2008, abstract](https://www.tandfonline.com/doi/full/10.1080/17439760802303002)). Keyes and Annas add data: in a national sample, 48.5% had high hedonic well-being, only 18% were flourishing, and the 30.5% who felt good but functioned only moderately well had nearly twice the rate of mental illness as the flourishing group ([Keyes and Annas 2009, abstract](https://www.tandfonline.com/doi/full/10.1080/17439760902844228)). Keyes's earlier work found flourishing in 17.2 percent of a sample and languishing in 12.1 percent, with the risk of a major depressive episode nearly six times greater among the languishing than among the flourishing ([Keyes 2002, abstract](https://pubmed.ncbi.nlm.nih.gov/12096700/)). The disagreement is partly about words and partly about evidence, and it is not settled. Oishi and Westgate then argue that both camps leave something out, proposing \"psychological richness\", lives \"characterized by a variety of interesting and perspective-changing experiences\" ([Oishi and Westgate 2022, abstract](https://pubmed.ncbi.nlm.nih.gov/34383524/))."
         },
         {
           "t": "h2",
@@ -3523,7 +3222,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Here comes into view what we may call the fundamental paradox of Hedonism, that the impulse towards pleasure, if too predominant, defeats its own aim.\" ([Sidgwick, The Methods of Ethics, Book I, Ch. IV, section 2](https://www.laits.utexas.edu/poltheory/sidgwick/me/me.b01.c04.s02.html)): Primary text; quoted passage checked.",
+          "x": "\"Here comes into view what we may call the fundamental paradox of Hedonism, that the impulse towards pleasure, if too predominant, defeats its own aim.\" ([Sidgwick, The Methods of Ethics, Book I, Ch. IV, section 2](https://www.laits.utexas.edu/poltheory/sidgwick/me/me.b01.c04.s02.html)).",
           "s": null
         },
         {
@@ -3532,12 +3231,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"Those only are happy (I thought) who have their minds fixed on some object other than their own happiness; on the happiness of others, on the improvement of mankind, even on some art or pursuit, followed not as a means, but as itself an ideal end.\" ([Mill, Autobiography](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm)): Primary text; quoted passage checked.",
+          "x": "\"Those only are happy (I thought) who have their minds fixed on some object other than their own happiness; on the happiness of others, on the improvement of mankind, even on some art or pursuit, followed not as a means, but as itself an ideal end.\" ([Mill, Autobiography](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm)).",
           "s": null
         },
         {
           "t": "p",
-          "x": "Experimental psychology found a version of the trap. In Mauss and colleagues' two studies, valuing happiness more went with lower happiness under low life stress, and participants induced to value happiness reacted less positively to a happy emotion induction, an effect mediated by disappointment: \"valuing happiness may lead people to be less happy just when happiness is within reach\" ([Mauss and colleagues 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21517168/)): Secondary source; quoted passage checked. The studies used female participants and measured happiness, not flourishing as a whole, so the result does not show that aiming at a good life defeats it. It does say that aiming at a feeling can. The eudaimonic answer is to aim at the activities and goals that a good life is made of, which leads to the next question."
+          "x": "Experimental psychology found a version of the trap. In Mauss and colleagues' two studies, valuing happiness more went with lower happiness under low life stress, and participants induced to value happiness reacted less positively to a happy emotion induction, an effect mediated by disappointment: \"valuing happiness may lead people to be less happy just when happiness is within reach\" ([Mauss and colleagues 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21517168/)). The studies used female participants and measured happiness, not flourishing as a whole, so the result does not show that aiming at a good life defeats it. It does say that aiming at a feeling can. The eudaimonic answer is to aim at the activities and goals that a good life is made of, which leads to the next question."
         },
         {
           "t": "h2",
@@ -3545,16 +3244,23 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The shared question: is there a content to flourishing that holds for everyone, or does it depend on person and place? Self-determination theory takes the universal side:"
-        },
-        {
-          "t": "q",
-          "x": "\"SDT also postulates that there are basic psychological needs that universally must be satisfied for people to experience ongoing growth, integrity, and wellness, namely needs for competence, autonomy, and relatedness.\" ([Ryan and Deci, SDT entry, Encyclopedia of Quality of Life and Well-Being Research](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf)): Secondary source; quoted passage checked.",
-          "s": null
+          "x": "Could two very different lives both flourish? [Self-determination theory](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf) proposes that everyone needs autonomy, competence and relatedness, while allowing different goals and preferences. On that view, what is shared is a need, not a script."
         },
         {
           "t": "p",
-          "x": "Its goal research adds that the content of what a person pursues matters. In a one-year study of post-college adults, attaining intrinsic aspirations related positively to psychological health, while \"attainment of extrinsic aspirations related positively to indicators of ill-being\" ([Niemiec, Ryan and Deci 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/20161160/)): Secondary source; quoted passage checked. The cross-cultural side complicates the picture. Joshanloo compared Western accounts with Hinduism, Buddhism, Taoism, Confucianism and Sufism and identified \"six fundamental differences in western and eastern conceptualizations of the good life\" ([Joshanloo review, abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1)): Secondary source; quoted passage checked. Across 29 countries, Hanel and colleagues found that value type moderated the effect of fit: people who valued self-direction, stimulation and hedonism more and lived where others did too reported lower well-being, while those who valued achievement, power and security more and lived where others did too reported higher well-being ([Hanel and colleagues 2020, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/)): Secondary source; quoted passage checked. The capability approach offers a third route, defining well-being by freedoms and not by a list of states: \"Capabilities are the doings and beings that people can achieve if they so choose\" ([Stanford Encyclopedia, The Capability Approach](https://plato.stanford.edu/entries/capability-approach/)): Secondary source; quoted passage checked. Even Nussbaum's list names ten central capabilities, from life and bodily health to play and control over one's environment, so the approach is neither empty nor culture-free. What remains unresolved is how much of flourishing is universal and how much is local; the evidence above supports some of each."
+          "x": "Success alone may be a poor guide. In [a one-year study of life after college](https://pubmed.ncbi.nlm.nih.gov/20161160/), attaining goals of growth, relationships and community went with better psychological health; attaining wealth, fame and image did not. The question becomes what a goal serves, even when someone achieves it."
+        },
+        {
+          "t": "p",
+          "x": "Culture complicates any easy answer. [Joshanloo's comparison of philosophical traditions](https://link.springer.com/article/10.1007/s10902-013-9431-1) finds substantial differences over what a good life means. Nor does agreement with those around us reliably settle the matter: [Hanel and colleagues](https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/) found that the relationship between cultural fit and well-being depended on which values were shared."
+        },
+        {
+          "t": "p",
+          "x": "The [capability approach](https://plato.stanford.edu/entries/capability-approach/) changes the question from how everyone should live to what everyone should be free to do and be. There is disagreement here too: Nussbaum proposes central capabilities that everyone should be guaranteed, while Sen resists a fixed list detached from public reasoning."
+        },
+        {
+          "t": "p",
+          "x": "I would keep two questions open together: what must no person be denied, and what should each person be free to decide? A shared minimum need not prescribe an identical life."
         },
         {
           "t": "h",
@@ -3568,7 +3274,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+          "x": "The kernels I have selected as sources of that variation:"
         },
         {
           "t": "n",
@@ -3670,7 +3376,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
         },
         {
           "t": "h2",

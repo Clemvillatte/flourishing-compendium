@@ -4,26 +4,34 @@ Owner is awaiting the revised Genuine Flourishing dossier for personal
 validation BEFORE launching six agents. Do not mark the candidate approved
 or transfer this style to all dossiers without that decision.
 
+NEWEST OWNER CORRECTION (same session): the old "Its goal research adds..."
+paragraph was rejected as cognitively overloading and impossible to
+read/navigate/comprehend. Wants synthesis people enjoy, not a bunch of
+quotes/sources. It is now five short idea-led paragraphs with integrated
+links. Apply that standard throughout; move verification apparatus to the
+ledger. This correction overrides the older quote-heavy reader format.
+
 - Run-clock: `/home/user/workspace/run-clock.txt`, T0 UTC 1792841114;
   final cap T0+3600. Follow-up messages do not reset it.
 - Supervisor baton claimed and pushed. No separate worker band held.
 - Main was missing the WORK ORDER. Recovered the four-file insurance
   branch `session-handoff-1024` by fast-forward; that state is now on main.
-- Latest content checkpoint `aa82fb25`: original science chain developed
-  into three paragraphs; original hard-parts chain into four. 147 card
-  links and 23 headers retained. Checker passes; external-carrier
-  occurrences now 46. Opening unchanged.
+- Latest pushed content checkpoint before readability repair: `86f278e9`.
+  Science, hard-parts and conditions chains rewritten; "Which goods
+  count?" now revised after owner rejection. 147 card links and 23 headers
+  retained; checker passes. Opening unchanged.
 - Evidence record: `docs/enrichment/sources/dossiers/genuine-flourishing.md`,
-  candidate passes 1 and 2. All new external claims tied to fetched
+  candidate passes 1, 2 and 3 plus newest owner readability correction.
+  All new external claims tied to fetched
   carriers; several overbroad inherited glosses corrected.
 - Independent advisor `gf_independent_evidence_and_prose_advisor_mvmbg2z9`
   reviewed first item: scoped pass with corrections (applied: core
   projects, positive emotions, Ryan/Deci wording, separate flow/vital
   engagement sources, first-person judgment). Later passes still need QC.
-- EXACT NEXT ACTION: rewrite the remaining conditions/society paragraph,
-  then growth/practice, thinker and story paragraphs. Original lines
-  61/65/69/73 have moved: locate by headers and opening phrases.
-  Then review divergence paragraphs originally 109/129. Preserve links,
+- EXACT NEXT ACTION: apply readability correction throughout (including
+  the first three rewrites: no doubled bracket apparatus); rewrite
+  growth/practice, thinker and story paragraphs, and dense original
+  map paragraphs. Then review hedonia/eudaimonia divergence. Preserve links,
   do not homogenise disagreements, do not modify the opening.
 - Advisor caveats to preserve: Diener/Seligman = correlational study of
   undergraduates; belonging = hypothesis; Berlin positive freedom has

@@ -12,6 +12,38 @@ metadata:
 
 # Humanizer: remove AI writing patterns
 
+## Readable synthesis, not a citation display (latest owner directive, 2026-10-24)
+
+The owner rejected a GF paragraph beginning "Its goal research adds..."
+as impossible to read, navigate or comprehend: a cognitively overloading
+bunch of quotes and sources. The point of a dossier is that people want
+to read and understand it. This rule supersedes older instructions that
+would put a checked quotation and evidence-status label on every entry
+or make a divergence into a batch of source extracts.
+
+- Think first, then write the connection. Do not arrange author summaries
+  in a row and call the result synthesis. Explain the particular problem,
+  how the accounts change our understanding of it, and what remains hard.
+- Give a paragraph one intelligible movement. Break where the thought
+  changes, not after an arbitrary number of citations. Add useful
+  subheadings where they help someone find their question. Shortness is
+  a means of comprehension, not a formula or a word-count competition.
+- Keep a quotation only when its wording earns its place. Otherwise
+  explain the idea faithfully in the writer's own words. Do not make the
+  reader assemble the argument from quotations.
+- Keep source links unobtrusive and attached to meaningful phrases.
+  Do not append repeated author/year brackets or verification labels.
+  Full verification records belong in the evidence ledger. A scholarly
+  limit belongs in the prose when it changes what the reader may conclude.
+- Preserve complexity where it matters. Do not erase disagreement,
+  uncertainty or cultural distinctions to make a smooth story.
+- Read the result aloud. If it sounds like an annotated bibliography,
+  stop and rewrite it. Merely splitting the same list into paragraphs
+  or adding a rhetorical question to every paragraph does not fix it.
+
+GF remains pending explicit owner validation. Do not replicate its
+unfinished form or initiate the planned six-agent rollout before approval.
+
 ## Customer-facing pages (owner directive, 2026-10-22)
 
 The website is customer-facing. NO comment, note or anything that has nothing to

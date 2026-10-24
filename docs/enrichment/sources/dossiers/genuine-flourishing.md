@@ -409,3 +409,30 @@ Sources fetched and read for the revised claims:
   definition only.
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC7797197/ : Jonas imperative
   quoted at second hand, explicitly attributed to Mangone as carrier.
+
+### OWNER CORRECTION: synthesis before apparatus (2026-10-24)
+
+Owner explicitly rejected the unedited "Its goal research adds..." paragraph
+as impossible to read/navigate/comprehend: a cognitively overloading bunch
+of quotations. Wants synthesis, enjoyment and navigability; quotes/sources
+are secondary on the dossier. This overrides any reading of the older
+quote-heavy format that would reproduce dense evidence displays.
+
+Immediate repair: "Which goods count, and who decides?" is five short
+paragraphs, one question each, without quote/status machinery. Citations
+are integrated in the prose rather than displayed as credentials. Detail
+removed from reader prose remains evidenced here:
+Niemiec et al., https://pubmed.ncbi.nlm.nih.gov/20161160/ (fresh unprompted
+abstract fetch): one-year post-college observational associations, intrinsic
+goals/health positive; extrinsic attainment/ill-being positive. This is
+not random assignment to goals. SDT encyclopedia fresh fetch:
+https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf :
+universal needs are theoretical postulates, not a claim of identical lives.
+Joshanloo theoretical comparison, Hanel value-specific moderation and
+Sen/Nussbaum distinctions freshly checked in pass 3 above. No false
+opposition between universal needs and cultural differences asserted:
+these can coexist; final question is explicitly the writer's judgment.
+
+Apply this readability correction to the whole candidate before asking
+the owner to validate it. Do not propagate the unapproved candidate to
+other dossiers.

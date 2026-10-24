@@ -12,17 +12,39 @@ opened for it.
 
 ## Structure (binding for every dossier, v2)
 
+### Readability correction: newest owner direction, 2026-10-24
+
+The owner explicitly rejected dense prose composed of successive quotes,
+source summaries and verification labels. A dossier must be an enjoyable,
+navigable synthesis that someone can understand, not an annotated
+bibliography. This direction supersedes the quote-per-position and
+evidence-status-per-entry wording in the older specification below.
+
+State each position faithfully in plain prose, explain the connection or
+real disagreement, and use short passages and meaningful subheadings.
+Quote selectively, only where the actual wording helps. Integrate source
+links naturally; keep detailed checking notes and evidence-status labels
+in the ledger. Research standards do not relax: open and verify every
+carrier relied on, preserve necessary caveats, and never fabricate.
+
+Readability is a QC gate, alongside source fidelity and coverage.
+Passing the checker does not make a dossier readable. The GF candidate
+requires the owner's explicit validation before it becomes the model for
+the planned six-agent rollout. Do not copy its unfinished form.
+
+### Four sections
+
 1. **Theme-Based Compilation** — an exhaustive map, not a curated sampler:
    every aspect, concept and point of view the wiki holds on the theme,
    grouped into subthemes by the questions they help answer. Concise lines,
    not dense prose: a reader should open the dossier on any theme (say,
    anger) and see the whole overview of takes the wiki offers. Each entry
-   names what it contributes and carries its own evidence status. A
+   names what it contributes; its evidence status is kept in the ledger. A
    checked quotation certifies only the quoted passage, never the whole
    linked page.
 2. **Theme-Based Areas of divergence** — the theme's real disagreements,
    developed properly and framed as research questions. Each must first
-   show that the traditions are answering the same question, then quote
+   show that the traditions are answering the same question, explain
    each position from an opened carrier, then state what remains
    unresolved. Contrasts presented as disagreements by mere juxtaposition
    are not admitted.
@@ -72,9 +94,9 @@ opened for it.
    fear, honoured here: exemplars lead to industrial formulaic output
    unless each writer reasons afresh.
 
-Reader-facing evidence phrases (never workflow terms): "Primary text; quoted
-passage checked", "Scholarly interpretation; cited passage checked", "Study
-abstract; quoted passage checked", "Further reading; not assessed".
+Evidence-status phrases belong in the ledger, not repeated in public
+prose. Explain a source limit to the reader only when it affects the
+substantive claim, for example that an association is not a causal finding.
 
 ## Dossiers
 
