@@ -86,3 +86,16 @@ All four cleared for publication: checks pass, quotes verified (sampled), artwor
   the "sequence reading" is marked editorial in the matrix and hedged in the
   body. PASS from the supervisor sample — the s1b teller can register it after
   its own lane QC; chapter suggestion ST-S02.04 noted in the draft.
+
+## Addendum 4 — s1b-035 supervisor sample QC, 2026-10-24 ~15:03 UTC
+
+- s1b-035 (Fan Li Takes the Boat, D066, qc_pending): read in full; all four
+  suntzu-artofwar.org quotes (Shiji 41 letter + Wen Zhong narration) re-verified
+  verbatim against the freshly opened page. Shiji 129 Chinese passages
+  (乃乘扁舟浮於江湖... / 十九年之中三致千金...) verified verbatim against
+  zh.wikisource.org's Shiji ch. 129 — NOTE: ctext.org is currently bot-blocked
+  (returns a stub page), so I verified the identical canonical text at Wikisource;
+  the draft's ctext links remain valid locators. Coverage matrix honest (context
+  vs evidence separated; no inner motives claimed). PASS from the supervisor
+  sample — for the s1b teller after its own lane QC. The D067 secondary flag is
+  left to owner/teller judgment (not claimed in the draft).
