@@ -12,23 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 1** — Face suffering directly
 
-The first sermon lists suffering plainly (birth, aging, illness, death, separation from the pleasing, union with the displeasing, not getting what one wants; SN 56.11), and then gives suffering its task.
+SN 56.11 names birth, aging, illness, death, unwelcome encounters, separation and disappointed wishes within its account of suffering; it then summarizes the account in the five aggregates subject to clinging ([Bhikkhu Bodhi translation, §4](https://suttacentral.net/sn56.11/en/bodhi)). Later, it gives suffering a specific task:
 
 > "This noble truth of suffering is to be fully understood": thus, bhikkhus, in regard to things unheard before, there arose in me vision, knowledge, wisdom, true knowledge, and light. (SN 56.11, Bhikkhu Bodhi trans., [SuttaCentral](https://suttacentral.net/sn56.11/en/bodhi))
 
-SN 56.11 assigns different tasks to the four truths: suffering is to be fully understood, its origin abandoned, cessation realized, and the path developed. This principle takes up the first task. The principle's directive, stop fleeing and study where it arises, what feeds it, what eases it, is my application of that task: suffering (dukkha) is the first thing to understand.
+The four truths have distinct tasks: suffering is to be fully understood, its origin abandoned, cessation realized and the path developed ([§§9–18](https://suttacentral.net/sn56.11/en/bodhi)). The discourse also rejects self-mortification as painful and unbeneficial ([§2](https://suttacentral.net/sn56.11/en/bodhi)). I therefore take facing suffering to mean approaching it with a wish to understand, without making pain something to seek or endure for its own sake.
 
-(SN 56.11.)
+### Plain words
 
-**Plain words**
-Pick a difficulty you are experiencing. Put into words what happened and what is painful about it. The aim of this exercise is to understand this particular experience more clearly.
+Understanding a painful experience gives it a place in your inquiry. You need not dismiss it as trivial or turn it into a verdict on your worth. In this application, the question is what the difficulty consists in, so that your response can take the experience seriously.
 
-*For example:* Imagine missing someone on a quiet Sunday. As an exercise, describe what you miss and what you are feeling at that moment.
+### For example
+
+If you choose to reflect on missing someone, describe what you miss and what is painful about this particular moment. Consider whether writing it down helps you understand or whether you would prefer to speak with someone you trust. You can stop rather than force the exercise. This is my optional illustration, not a complete Buddhist practice or a substitute for needed care.
 
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the basin-drumming story (ST031) the page uses for grief met directly rather than denied.
 - [[T011 — Socrates]]: the Crito refusal the page's story carries (ST141), the examined life at Apology 38a.
+
+## Sources
+
+- [SN 56.11, Setting in Motion the Wheel of the Dhamma, Bhikkhu Bodhi translation, SuttaCentral](https://suttacentral.net/sn56.11/en/bodhi): suffering, the four tasks and rejection of self-mortification.
 ## Stories
 
 - [[ST012 — The Fish on Dry Land|12. The Fish on Dry Land]]

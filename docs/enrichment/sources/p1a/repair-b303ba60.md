@@ -98,3 +98,11 @@ are not certified by this body-level review.
 - Repair: clarified the difference between maintained stillness/composure in the passage and a contemporary rest schedule. Plain words explains rest as a planned part of commitments; the musician illustration includes discussion, observation and revision.
 - Saturation: `enrich_find.py mention rest and activity` and matching rest/stillness concept inventory checked. Existing kernels already cover scheduled empty time, sleep and rest; no additional generic graph edge.
 - Limits: no source-derived sleep quota, recovery prescription or health guarantee. The British Museum candidate URL failed to fetch and supplies no evidence or citation.
+
+## B001: Face suffering directly
+
+- Opened: [SN 56.11, Bodhi translation](https://suttacentral.net/sn56.11/en/bodhi), full discourse; also [SN 36.6, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html), full text, as a cross-check against equating Buddhist cultivation with never feeling physical pain. Only SN 56.11 is needed for the body.
+- Evidence: retained quotation matches §9, with plain quotation punctuation around the inner sentence. §4 supplies the named forms and five aggregates; §§9–18 the distinct tasks; §2 explicitly rejects self-mortification.
+- Repair: removed the repetitive “principle's directive” explanation and its unsupported equation of a short introspection exercise with the whole task. Plain words explains a humane author application; the grief example is optional, revisable and allows stopping or seeking support.
+- Saturation: `enrich_find.py mention four noble truths` and Dukkha/Four Noble Truths inventory reviewed. Existing links already supply the proper doctrinal concepts; no additional graph edge or cross-tradition equivalence.
+- Limits: no claim of a grief treatment, trauma intervention or equivalence to clinical exposure; no obligation to relive overwhelming experiences and no inference that people cause all of their own suffering.
