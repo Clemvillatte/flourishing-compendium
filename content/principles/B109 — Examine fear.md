@@ -31,6 +31,9 @@ For example: Before a presentation, someone compares two preparations: rehearsin
 - [MN 20, Vitakkasanthana Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html) — scrutinizing the drawbacks of thoughts
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html) — verse 212
 
+## Stories
+- [[ST491 — 39. The Letter Written for After|491. 39. The Letter Written for After]]
+
 ## Psychology parallels
 
 - **Fear learning and reconsolidation** (Schiller et al., 2010)

@@ -196,6 +196,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST406 — The Old Cart at Beluva]]
     - [[ST462 — The Amish at Nickel Mines]]
     - [[ST486 — Devadatta Wants the Sangha]]
+    - [[ST491 — 39. The Letter Written for After]]
   - [[ST-S02.08 — II.8 Daily Life — The Integration]]
     - [[ST088 — Paṭācārā Washes Her Feet]]
     - [[ST089 — Layman Pang Sinks the Fortune]]
