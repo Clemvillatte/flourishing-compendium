@@ -1393,7 +1393,7 @@
    ]
   },
   "s1a-041": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D133: China's 1958 Great Sparrow Campaign — domination of nature answered by the system it can't see",
    "history": [
     {
@@ -1409,6 +1409,11 @@
      "t": "2026-10-24T14:10:51+00:00",
      "to": "qc_pending",
      "note": "advisor QC fixes applied; awaiting supervisor registration"
+    },
+    {
+     "t": "2026-10-24T14:18:07+00:00",
+     "to": "ready",
+     "note": "QC fixes (Dewey opened, figures dated) applied and validated earlier; state restored to ready"
     }
    ]
   },
@@ -1516,7 +1521,22 @@
      "note": "story_check clean; Mumonkan 19 opened and quoted verbatim"
     }
    ]
+  },
+  "s1a-049": {
+   "status": "ready",
+   "angle": "P089: Thoreau at Walden — the bean field as doing, the broad margin as undergoing, the day as the rhythm between them",
+   "history": [
+    {
+     "t": "2026-10-24T14:15:05+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:18:06+00:00",
+     "to": "ready",
+     "note": "advisor QC (item-10 milestone) fixes applied: fragment quote removed, schedule framing removed, reception-informing-next-action marked NOT carried, chapter headings verified in raw text"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:14:53+00:00"
+ "updated": "2026-10-24T14:18:07+00:00"
 }
