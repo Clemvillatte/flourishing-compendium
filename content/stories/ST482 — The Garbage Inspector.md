@@ -1,0 +1,39 @@
+---
+schema: 0
+id: "ST482"
+type: "story"
+title: "482.  The Garbage Inspector"
+file: "ST482 — The Garbage Inspector"
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S03.08 — III.8 Pluralism, Values, and Democracy", "parent": ""}
+---
+
+Chicago, 1890s · Jane Addams, Twenty Years at Hull-House (1910), Chapter XIII, "Public Activities and Investigations" · a memoir, Project Gutenberg raw text
+
+The clearest test of P090's rule, that participation means doing with and not to, is who supplies the purposes and who carries out the instructions. Jane Addams's account of the sanitation campaign in Chicago's Nineteenth Ward shows the difference inside one episode of reform ([Twenty Years at Hull-House](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)).
+
+The inquiry began at the settlement, and the ward's women took their share of it, joining the residents' investigation ([Twenty Years at Hull-House](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)):
+
+> "The new members came together, however, in quite a new way that summer when we discussed with them the high death rate so persistent in our ward."
+
+> "twelve of their number undertook in connection with the residents, to carefully investigate the conditions of the alleys"
+
+> "For the club woman who had finished a long day's work of washing or ironing followed by the cooking of a hot supper, it would have been much easier to sit on her doorstep during a summer evening than to go up and down ill-kept alleys and get into trouble with her neighbors over the condition of their garbage boxes."
+
+Their persistence was followed by changes in the machinery above them ([Twenty Years at Hull-House](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)):
+
+> "the following spring when the city contracts were awarded for the removal of garbage, with the backing of two well-known business men, I put in a bid for the garbage removal of the nineteenth ward. My paper was thrown out on a technicality but the incident induced the mayor to appoint me the garbage inspector of the ward."
+
+> The salary was a thousand dollars a year, and the loss of that political "plum" made a great stir among the politicians.
+
+And Addams had to argue the arrangement's logic to the ward itself ([Twenty Years at Hull-House](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)):
+
+> it took a great deal of explanation to convey the idea even remotely that if it were a womanly task to go about in tenement houses in order to nurse the sick, it might be quite as womanly to go through the same district in order to prevent the breeding of so-called "filth diseases."
+
+My reading: the city had been doing sanitation to the ward, through an indifferent contractor and inspectors who let him off with seven wagons. The campaign put the ward's women inside the work as producers of evidence. The club women joined the residents' investigation, and the reports went to the health department from Hull-House as joint work, with three city inspectors transferred in succession after that persistence. Addams then took the inspector's post, which put the campaign's evidence in charge of the wagons. What the account does not establish is who set the campaign's purposes or shared final authority over its plan; the chapter shows the women producing the evidence with the residents, and it leaves the purposes less clear than the alley reports. The story does not carry Dewey's theory of democracy as conjoint communicated experience, which the principle page draws on; it carries a working case of the plain test, whether the people affected can influence the work or only carry out instructions.
+
+**Principles:**
+- [[P090 — Participate — do with, not to|90. Participate: do with, not to]] — the Nineteenth Ward's club women joined Hull-House residents in producing the sanitation evidence, and the transfers of three inspectors followed that joint persistence, participation in the work rather than receipt of its results
+
+## Sources
+- [Jane Addams, Twenty Years at Hull-House (1910), Project Gutenberg #1325](https://www.gutenberg.org/cache/epub/1325/pg1325.txt) — Chapter XIII, the sanitation campaign; every quotation copied from the downloaded text

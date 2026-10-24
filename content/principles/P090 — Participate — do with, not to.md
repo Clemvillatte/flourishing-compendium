@@ -26,6 +26,9 @@ Before offering help, ask what the other person wants to accomplish and what par
 
 Consider a parent preparing dinner with a child: offer a manageable choice of dishes, agree who will do each step, and discuss what to change next time. The point is to let the child help decide what happens, rather than only carry out the parent's plan.
 
+## Stories
+- [[ST482 — The Garbage Inspector|482. The Garbage Inspector]]
+
 ## Psychology parallels
 
 - **[[Self-determination|Self-determination]]**: autonomy and relatedness are compatible needs, although unsupportive conditions can put them in conflict ([Deci and Ryan, 2000, pp. 242, 253](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)).

@@ -302,6 +302,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST400 — Gowers Posts a Problem and 1,000 Comments Answer]]
     - [[ST418 — Jane Addams Cannot Produce the Devil Baby]]
     - [[ST431 — Einstein's Cosmic Religious Feeling]]
+    - [[ST482 — The Garbage Inspector]]
   - [[ST-S03.09 — III.9 Embodiment, Nature, and World-Participation]]
     - [[ST132 — The Blind Man's Cane]]
     - [[ST133 — Bateson's Circuit]]
