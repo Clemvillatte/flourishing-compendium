@@ -37,9 +37,13 @@ How to read this page: each entry is a link into the compendium's own explanatio
 - [Component Process Model of Emotion](https://clemvillatte.github.io/flourishing-compendium/#card=Component%20Process%20Model%20of%20Emotion): Scherer's account of emotion as an episode of synchronized change produced by a sequence of appraisal checks.
 - [Functional accounts of emotion](https://clemvillatte.github.io/flourishing-compendium/#card=Functional%20accounts%20of%20emotion): the family of theories — Keltner and Gross the framing — that explain emotions by what they do.
 - [Positive emotions research](https://clemvillatte.github.io/flourishing-compendium/#card=Positive%20emotions%20research): Fredrickson's broaden-and-build programme — positive emotion widens the momentary thought-action repertoire and builds lasting resources.
+- [Broaden-and-build](https://clemvillatte.github.io/flourishing-compendium/#card=Broaden-and-build): Fredrickson's theory of what positive emotions are for — the 2001 American Psychologist proposal.
+- [Fredrickson's positivity portfolios](https://clemvillatte.github.io/flourishing-compendium/#card=Fredrickson%27s%20positivity%20portfolios): a personal collection of photos, letters, quotes, songs or objects, built to bring back one particular positive emotion.
 - [Mixed emotions theory Miyamoto](https://clemvillatte.github.io/flourishing-compendium/#card=Mixed%20emotions%20theory%20Miyamoto): Japan and the United States compared on how readily opposites are felt together.
-- [Emotional granularity](https://clemvillatte.github.io/flourishing-compendium/#card=Emotional%20granularity) and [Emotion differentiation](https://clemvillatte.github.io/flourishing-compendium/#card=Emotion%20differentiation): how finely a person distinguishes among their own feelings — the fineness that predicts better regulation.
+- [Emotional granularity](https://clemvillatte.github.io/flourishing-compendium/#card=Emotional%20granularity) and [Emotion differentiation](https://clemvillatte.github.io/flourishing-compendium/#card=Emotion%20differentiation): how finely a person distinguishes among their own feelings, and the ability to discern subtle differences between similar emotions.
 - [Emotion awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Emotion%20awareness): Lane and Schwartz's five structural levels of the ability to process emotion — a cognitive-developmental ladder.
+- [Emodiversity theory](https://clemvillatte.github.io/flourishing-compendium/#card=Emodiversity%20theory): the diversity of emotional experience: how many distinct emotions one experiences, and how evenly.
+- [Pleasure-Arousal-Dominance Model](https://clemvillatte.github.io/flourishing-compendium/#card=Pleasure-Arousal-Dominance%20Model): Mehrabian and Russell's three dimensions — emotional states and environments located along pleasure, arousal and dominance.
 - [Appraisal theory](https://clemvillatte.github.io/flourishing-compendium/#card=Appraisal%20theory): the family of emotion theories holding that emotions arise from evaluations, called appraisals.
 
 ### The feeling families
@@ -53,6 +57,7 @@ How to read this page: each entry is a link into the compendium's own explanatio
 - [Envy](https://clemvillatte.github.io/flourishing-compendium/#card=Envy): pain at another's good fortune — van de Ven, Zeelenberg and Pieters' definition.
 - [Self-transcendent emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transcendent%20emotions): the class that sorts by fit to religious and spiritual life — awe, gratitude, love and peace against amusement.
 - [Mudita (sympathetic joy)](https://clemvillatte.github.io/flourishing-compendium/#card=Mudita%20%28sympathetic%20joy%29): the third brahmavihara — gladness at another's good fortune as if it were one's own.
+
 - [Benign envy](https://clemvillatte.github.io/flourishing-compendium/#card=Benign%20envy): one of the two forms of envy distinguished by van de Ven, Zeelenberg and Pieters (2009).
 - [Malicious envy](https://clemvillatte.github.io/flourishing-compendium/#card=Malicious%20envy): the second of the two forms of envy distinguished by the same authors.
 - [Guilt motivates reparative behaviour](https://clemvillatte.github.io/flourishing-compendium/#card=Guilt%20motivates%20reparative%20behaviour): guilt as the pain of a specific act, whose adaptive job is to move the person who did the harm toward undoing it.
@@ -78,9 +83,10 @@ How to read this page: each entry is a link into the compendium's own explanatio
 
 - [Affect as information](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20as%20information): Schwarz's feelings-as-information account — people consult their current feelings when judging, as in the sunny-day life-satisfaction result.
 - [Affect heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20heuristic): Finucane, Alhakami, Slovic and Johnson's term for the finding that positive or negative feelings about an object drive judgments of its risk and benefit — a puzzle for the mind's bookkeeping, since the world's risks and benefits are positively correlated.
-- [Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20labeling): putting a feeling into words as it occurs — the 2007 neuroimaging result that labeling reduces amygdala reactivity.
+- [Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20labeling): putting a feeling into words as it occurs: naming anger as anger, dread as dread; the card reports a 2007 neuroimaging study of the practice.
 - [Moral emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20emotions): Tangney and colleagues' review — the emotions that link moral standards to moral behavior.
 - [Affective disposition theory](https://clemvillatte.github.io/flourishing-compendium/#card=Affective%20disposition%20theory): Zillmann and Cantor's account of media enjoyment — we like seeing liked characters succeed and disliked ones suffer.
+- [Somatic marker hypothesis (Damasio)](https://clemvillatte.github.io/flourishing-compendium/#card=Somatic%20marker%20hypothesis%20%28Damasio%29): Damasio's account of how emotion enters reasoning: decision-making steered by marker signals arising in the body's bioregulatory processes.
 - [Reinforcement-Affect Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Reinforcement-Affect%20Theory): Byrne and Clore's account — we come to like stimuli and people associated with positive affect.
 
 ### Regulating and shaping feeling
@@ -89,6 +95,12 @@ How to read this page: each entry is a link into the compendium's own explanatio
 - [Process model of emotion regulation Gross](https://clemvillatte.github.io/flourishing-compendium/#card=Process%20model%20of%20emotion%20regulation%20Gross): the five points of regulation — situation selection, situation modification, attentional deployment, cognitive change, response modulation.
 - [Extended process model of emotion regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Extended%20process%20model%20of%20emotion%20regulation): the later Gross — regulation as something you decide to do: noticing, choosing, carrying out.
 - [Mid-level emotion regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Mid-level%20emotion%20regulation): the strategies deployed in the moment — the reappraisal-versus-suppression record the card sets against suppression and venting — inside Gross's valuation-system account of regulation.
+- [Cognitive reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20reappraisal): the emotion-regulation strategy of changing an emotional event's meaning: reinterpreting the situation so that the feeling that follows it changes; antecedent-focused in Gross's process model.
+- [Expressive suppression versus reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Expressive%20suppression%20versus%20reappraisal): Gross and John's 2003 comparison — suppression as the conscious inhibition of emotional expression, set against reappraisal.
+- [Reappraisal's effectiveness depends on separating the feeling from the appraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Reappraisal%27s%20effectiveness%20depends%20on%20separating%20the%20feeling%20from%20the%20appraisal): reappraisal works by changing the appraisal, not by tampering with the feeling, so the person has to be able to tell the two apart.
+- [Opposite action (Linehan)](https://clemvillatte.github.io/flourishing-compendium/#card=Opposite%20action%20%28Linehan%29): the DBT skill of acting against the action urge that comes with an emotion.
+- [Expressive writing](https://clemvillatte.github.io/flourishing-compendium/#card=Expressive%20writing): Pennebaker and Beall's 1986 research paradigm — writing about emotional experience.
+- [DBT Biosocial Theory](https://clemvillatte.github.io/flourishing-compendium/#card=DBT%20Biosocial%20Theory): Linehan's account of how emotion dysregulation develops: a biologically based emotional vulnerability transacting with an invalidating environment.
 - [Emotional suppression theory Butler Gross](https://clemvillatte.github.io/flourishing-compendium/#card=Emotional%20suppression%20theory%20Butler%20Gross): instructed suppression raising blood pressure in regulators and partners — suppression as a cost paid socially.
 - [Dialectical behaviour therapy, emotion modulation](https://clemvillatte.github.io/flourishing-compendium/#card=Dialectical%20behaviour%20therapy%2C%20emotion%20modulation): Linehan's skills module for emotions that fire easily, hit hard and take long to subside.
 - [Action precedes feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20precedes%20feeling) and [Action before feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20before%20feeling): the double tradition — Aristotle's virtues acquired by doing the acts, and James's body moving before the feeling forms.
@@ -141,7 +153,7 @@ The circumplex model takes the dimensional position Ekman names as the rival hyp
 >
 > Posner, Russell and Peterson propose instead that "all affective states arise from two independent neurophysiological systems," the valence and arousal systems ([Posner, Russell and Peterson 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC2367156/), Development and Psychopathology; scholarly review; cited passages checked).
 
-The incompatibility is stated by the circumplex authors, not inferred here: a discrete and independent neural system for every emotion, against affective states arising from common, overlapping systems. Each claim rests on a different evidential base: Ekman's on the cross-cultural recognition of facial expressions, the circumplex on the structure of subjective reports of feeling.
+The incompatibility is stated by the circumplex authors, not inferred here: a discrete and independent neural system for every emotion, against affective states arising from common, overlapping systems.
 
 ## Practice: variation, selection, retention
 

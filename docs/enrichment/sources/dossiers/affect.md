@@ -15,7 +15,7 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 2.
   left out as a motivation rather than affect entry; these exclusions are
   editorial boundary calls recorded here. The screen was a title search
   over the concept files, followed by a body sweep of the concept
-  cards' opening claims: 16 candidates screened, 10 added on reading
+  cards' opening claims: 16 candidates screened, 11 added on reading
   (Appraisal theory; Benign envy; Malicious envy; Guilt motivates
   reparative behaviour; Reinforcement-Affect Theory; State-matched emotion
   regulation; Compassion-focused therapy; Pre-commitment as wisdom; The
@@ -27,6 +27,13 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 2.
   undone - a recorded limit.
   Affect heuristic appears in both dos2 and dos3 sweeps and is mapped in
   both dossiers, each from its own side.
+- Set comparison run after review: every concept, kernel and saying title
+  in the manifest's sweep inventory is mapped; the inventory's AF/A
+  principle entries (the manifest's principle inventory) are not mapped as
+  a separate section, following the exemplar format (anger.md and
+  the-self.md carry no principle index; the concept cards link onward to
+  the principles that cite them) - a deliberate format decision, recorded
+  here, not an omission by oversight.
 - Every per-entry description is a compressed restatement of the linked
   entry's own opening claim, taken from its content/ file. Inherited map
   summaries, not newly verified findings; the cards carry their own
@@ -107,7 +114,7 @@ was verified in this dossier, and the evidence-limits paragraph says so.
   regulation, Fading affect bias, Embodied emotion theory and saying
   glosses rewritten to stay within what the linked cards state.
 - The divergence rewritten as above; the Ekman journal attribution
-  corrected to American Psychologist 49(4); the Posner quotation's
+  corrected to American Psychologist 48(4); the Posner quotation's
   internal citation restored.
 - The evidence-limits paragraph rewritten to claim nothing not verified.
 
