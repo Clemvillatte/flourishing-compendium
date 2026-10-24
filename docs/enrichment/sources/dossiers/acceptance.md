@@ -70,3 +70,14 @@ Per HUMANIZER-SKILL.md: no meta-text openers, no banned phrases, no
 verification labels in the body, story loglines describe events,
 practice labeled editorial, the manufactured-disagreement trap
 avoided (the three "related questions" are stated as open).
+
+## Precision note (2026-10-24, supervisor-pplx-1024c-dossiers)
+
+This ledger's earlier line "the ST188 Epictetus anecdote's
+historicity is uncertain per the card, and the dossier's logline
+carries that caution" overstates the logline: the story-section
+logline describes the events (the leg, the remarks before and after)
+and does not itself state the historicity caution; the caution lives
+on the story card. The logline follows the story format (describe
+events); the caution is available to the reader through the card
+link, not through the logline's own words.
