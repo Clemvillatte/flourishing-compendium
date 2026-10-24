@@ -12,22 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 1** — Make eudaimonia the organising end of your life
 
-Aristotle's function argument links the human good with rational activity performed well, [[Virtue|in accordance with virtue]]. He then adds a qualification about the scale on which a life is judged:
+Aristotle's function argument links the human good with rational activity performed well, [[Virtue|in accordance with virtue]] ([NE I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). He then adds a qualification about the scale on which a life is judged:
 
 > But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.
 > (NE I.7, [W. D. Ross's translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
 This is an account of living and acting well, not simply having a pleasant experience. It is also not a promise that effort controls every outcome: Aristotle acknowledges external goods needed for many noble actions and great misfortunes that can hinder flourishing ([NE I.8–10](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)).
 
-As an application, ask how a choice contributes to worthwhile activities over time. Choosing which activities are worthwhile requires ethical judgment; calling a goal flourishing does not settle that question or make support and resources unnecessary.
+His account of self-sufficiency includes family, friends and fellow citizens, since he takes human beings to be political by nature ([I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)). I read the principle as asking what pattern of activity a choice serves, including the relationships and material conditions in which it is lived. Calling a goal flourishing does not settle which activities are worthwhile.
 
 ### Plain words
 
-Look at what a decision would let you do and whom it would affect. Include the demands and resources of your actual situation. A long-term view can help you examine a choice without treating present suffering as something that must be postponed or ignored.
+In this account, living well concerns the quality of your activities across a life. A success or a pleasant day is one part of that larger picture. Bringing the whole life into view includes what your pursuits ask of other people and what conditions make them possible.
 
 ### For example
 
-Imagine deciding whether to begin an evening course while caring for a relative. Consider the learning you value, the care required and the help actually available. The exercise is to examine a workable arrangement; neither enrolment nor self-denial is automatically the virtuous choice.
+Imagine deciding whether to begin an evening course while caring for a relative. Discuss the learning you value, the care required and the help actually available. After trying an arrangement, review how it serves everyone involved and revise it if needed. This is my illustration of deliberating about a life; neither enrolment nor self-denial is automatically the virtuous choice.
 
 ## Sources
 

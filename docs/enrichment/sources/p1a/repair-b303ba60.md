@@ -147,3 +147,11 @@ are not certified by this body-level review.
 - Repair: made ongoing practice and relational duty visible, without adding a therapy-equivalence claim. Plain words explains the three connected aspects; the late-colleague example includes checking assumptions, considerate action and later review.
 - Saturation: The three disciplines concept was read; added its exact link. That page already links S011 both by ID and full title, so the reciprocal is present and no proposal is required.
 - Limits: no claim that reflection guarantees freedom from emotion, that grief is morally blameworthy or that this exercise replaces the larger Stoic curriculum.
+
+## A001: Eudaimonia as organising end
+
+- Opened: [NE I, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), complete book, especially I.2, I.7–10.
+- Evidence: retained complete-life/swallow quotation matches I.7. The same section includes family, friends and fellow citizens in self-sufficiency; I.8–10 discuss external goods, fortune and the complete life.
+- Repair: retained the already strong activity explanation and fortune qualification. Added relational context to prevent self-sufficiency from reading as isolation. Plain words explains quality of activity across a life; the existing course/caregiving case now includes consultation, trial and review.
+- Saturation: existing Eudaimonia, Happiness as activity, Psychological well-being, MacIntyre and Aristotle links remain; no additional edge or modern psychological equivalence.
+- Limits: philosophical account attributed to Aristotle; not an empirical definition of all flourishing, a demand for productivity, a claim of immunity to misfortune or a fixed ranking of learning over care.
