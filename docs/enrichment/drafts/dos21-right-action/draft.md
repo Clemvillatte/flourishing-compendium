@@ -27,7 +27,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 [Karma](https://clemvillatte.github.io/flourishing-compendium/#card=Karma): bodily action as karma; intentional conduct through body, speech or mind is what sets results going, and this factor holds the bodily side of it.
 
-[Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action): Wang Yangming's doctrine that knowing the good already issues in acting; quoted in the divergence below.
+[Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action): Wang Yangming's doctrine that knowing the good already issues in acting; quoted in the related question below.
 
 The Magga-vibhanga Sutta gives the definition:
 
