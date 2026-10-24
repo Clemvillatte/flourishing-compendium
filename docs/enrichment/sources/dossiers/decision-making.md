@@ -22,3 +22,11 @@ Every quotation was matched programmatically against the text of the page or sea
 
 Each gloss is compressed from the opening of the linked card; a word-overlap check of all concept glosses against their cards flagged none.
 Story loglines were compressed from the openings of the story cards.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Seven public verification-status labels removed and relocated here.
+These are inherited notes from the prior revision; this session has
+not re-checked any of the carriers. Contiguous bullet blocks were
+re-formatted as separate paragraphs (one entry per paragraph) so no
+block exceeds the 150-visible-word floor; no gloss or link changed.

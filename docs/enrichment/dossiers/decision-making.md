@@ -6,10 +6,13 @@ A choice under uncertainty is the moment a person's values meet the world's refu
 
 ### Nearby terms
 
-- Choice: held under [Choice overload](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20overload), [Paradox of choice](https://clemvillatte.github.io/flourishing-compendium/#card=Paradox%20of%20choice) and [Choice architecture](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20architecture); Sartre's cards on choosing a self sit in the last group of the map.
-- Judgement: practical judgment is held in the Wisdom dossier; this page holds judgment under uncertainty, the heuristics and biases tradition, and deliberate choosing.
-- Heuristics: held under the heuristics group below; the Cognition dossier holds reasoning styles and points decision research here.
-- Akrasia: acting against one's own better judgment, held under its own group below.
+Choice: held under [Choice overload](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20overload), [Paradox of choice](https://clemvillatte.github.io/flourishing-compendium/#card=Paradox%20of%20choice) and [Choice architecture](https://clemvillatte.github.io/flourishing-compendium/#card=Choice%20architecture); Sartre's cards on choosing a self sit in the last group of the map.
+
+Judgement: practical judgment is held in the Wisdom dossier; this page holds judgment under uncertainty, the heuristics and biases tradition, and deliberate choosing.
+
+Heuristics: held under the heuristics group below; the Cognition dossier holds reasoning styles and points decision research here.
+
+Akrasia: acting against one's own better judgment, held under its own group below.
 
 ## The map: the entries on decision-making
 
@@ -153,11 +156,11 @@ A choice under uncertainty is the moment a person's values meet the world's refu
 
 The shared question: when a person decides quickly with part of the information, are they making a mistake? Gigerenzer and Gaissmaier set out the older view and then dispute it:
 
-> "Because using heuristics saves effort, the classical view has been that heuristic decisions imply greater errors than do “rational” decisions as defined by logic or statistical models." ([Gigerenzer and Gaissmaier, Annual Review of Psychology 2011, abstract](https://spds.uni-konstanz.de/en/node/1119)): Secondary source; quoted passage checked.
+> "Because using heuristics saves effort, the classical view has been that heuristic decisions imply greater errors than do “rational” decisions as defined by logic or statistical models." ([Gigerenzer and Gaissmaier, Annual Review of Psychology 2011, abstract](https://spds.uni-konstanz.de/en/node/1119))
 
 Their review reports the other result:
 
-> "ignoring part of the information can lead to more accurate judgments than weighting and adding all information, for instance for low predictability and small samples." ([Gigerenzer and Gaissmaier 2011, abstract](https://spds.uni-konstanz.de/en/node/1119)): Secondary source; quoted passage checked.
+> "ignoring part of the information can lead to more accurate judgments than weighting and adding all information, for instance for low predictability and small samples." ([Gigerenzer and Gaissmaier 2011, abstract](https://spds.uni-konstanz.de/en/node/1119))
 
 The two readings are tied to different settings. The error view is built on tasks where a clear logical or statistical answer exists; the adaptive view is built on tasks where the world is uncertain and the rational model's assumptions are not met. The abstract itself says it is "an empirical rather than an a priori issue how well cognitive heuristics function in an uncertain world".
 
@@ -165,7 +168,7 @@ The two readings are tied to different settings. The error view is built on task
 
 The shared question: when a decision feels right, is that evidence? Kahneman, who made his name on the errors of intuition, and Klein, who studied how experts decide under pressure, spent years on the question and wrote up where they agree:
 
-> "evaluating the likely quality of an intuitive judgment requires an assessment of the predictability of the environment in which the judgment is made and of the individual's opportunity to learn the regularities of that environment." ([Kahneman and Klein, American Psychologist 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/)): Secondary source; quoted passage checked.
+> "evaluating the likely quality of an intuitive judgment requires an assessment of the predictability of the environment in which the judgment is made and of the individual's opportunity to learn the regularities of that environment." ([Kahneman and Klein, American Psychologist 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/))
 
 On the feeling of being right they are blunt: "Subjective experience is not a reliable indicator of judgment accuracy." The authors describe their starting point as the plain fact that "professional intuition is sometimes marvelous and sometimes flawed". The practical reading is that trust in a hunch depends on the field the hunch comes from, and that the sense of certainty cannot tell a skilled hunch from an overconfident one.
 
@@ -173,11 +176,11 @@ On the feeling of being right they are blunt: "Subjective experience is not a re
 
 The shared question: does having more options help a chooser? Iyengar and Lepper reported that it can backfire:
 
-> "people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices." ([Iyengar and Lepper, Journal of Personality and Social Psychology 2000, abstract](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf)): Secondary source; quoted passage checked.
+> "people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices." ([Iyengar and Lepper, Journal of Personality and Social Psychology 2000, abstract](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf))
 
 A meta-analysis of the later literature found the general effect much weaker than the first studies suggested:
 
-> "we found a mean effect size of virtually zero but considerable variance between studies." ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647)): Secondary source; quoted passage checked.
+> "we found a mean effect size of virtually zero but considerable variance between studies." ([Scheibehenne, Greifeneder and Todd, Journal of Consumer Research 2010, abstract](https://academic.oup.com/jcr/article/37/3/409/1827647))
 
 The same abstract says that "some idiosyncratic moderators proposed in single studies may still explain when and why choice overload reliably occurs". So the fair summary is that large option sets sometimes hurt and sometimes help, and that the field has not found a reliable condition that predicts which.
 
@@ -185,7 +188,7 @@ The same abstract says that "some idiosyncratic moderators proposed in single st
 
 The shared question: if someone judges one course best, what could lead them to do another? Aristotle reports Socrates's answer and then rejects it:
 
-> "For Socrates was entirely opposed to the view in question, holding that there is no such thing as incontinence; no one, he said, when he judges acts against what he judges best-people act so only by reason of ignorance. Now this view plainly contradicts the observed facts" ([Aristotle, Nicomachean Ethics VII.2, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)): Primary text; quoted passage checked.
+> "For Socrates was entirely opposed to the view in question, holding that there is no such thing as incontinence; no one, he said, when he judges acts against what he judges best-people act so only by reason of ignorance. Now this view plainly contradicts the observed facts" ([Aristotle, Nicomachean Ethics VII.2, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html))
 
 The two positions put the failure in different places. For Socrates it is always a failure of knowing; for Aristotle it is something that happens to a person who does know. The cards I hold on akrasia, pre-commitment and temptation bundling follow the second line, and the practices below are built on it. A reader should know that one widely cited study of self-imposed deadlines as commitment devices is deliberately not quoted here: a preprint replicating its second study reports that its results [do not replicate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5053636), and its PubMed listing shows a retraction notice dated September 2026.
 
@@ -213,7 +216,7 @@ The two positions put the failure in different places. For Socrates it is always
 
 9. [Public commitment](https://clemvillatte.github.io/flourishing-compendium/#card=K244%20%E2%80%94%20Public%20commitment): declare an intention publicly, or to someone whose opinion matters to you.
 
-The cards carry their own evidence notes. Several of these are proposals built on the traditions and have not been tested as protocols. A decision review needs care for one reason the research on forecasting names: people making choices about their own future feelings tend to go wrong in one direction, "overestimating the intensity and duration of their emotional reactions to such events" ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)): Secondary source; quoted passage checked.
+The cards carry their own evidence notes. Several of these are proposals built on the traditions and have not been tested as protocols. A decision review needs care for one reason the research on forecasting names: people making choices about their own future feelings tend to go wrong in one direction, "overestimating the intensity and duration of their emotional reactions to such events" ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x))
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the two-day wait on large choices, or the habit of writing down what they are assuming, has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
 
