@@ -144,3 +144,19 @@ QC items repaired in one pass: six logline em dashes restructured
 (ST069, ST025, ST018, ST028, ST057, ST432; story text untouched, only
 the separator), and the intro line swapped to the exemplar's trimmed
 version. No story card was altered; the loglines' claims are unchanged.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Eighteen public verification-status labels removed from the blockquote
+carrier lines and relocated here (nine "Primary text/Study" labels and
+nine "Scholarly review" labels). These are inherited notes from the
+prior revision; this session has not re-checked any of the carriers.
+
+Carriers affected: James, Principles of Psychology ch. 11 (x2) and vol. 2
+ch. XXVI (x2) — Primary text; Lavie 2005 (x4) — Scholarly review;
+Langner and Eickhoff 2012 — Scholarly review; Lutz et al. 2008 (x2) —
+Scholarly review; Hasenkamp et al. 2012 — Study; Weil, Reflections (x2)
+— Primary text; Mooneyham and Schooler 2013 — Scholarly review.
+
+No card link, quotation text or gloss was changed; only the eighteen
+verification suffixes moved from the public prose to this ledger.

@@ -53,13 +53,13 @@ Attention is the place a life is lived; everything a person does with their hour
 
 William James gave the field its definition and its stakes, both in the Principles of Psychology:
 
-> "Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration, of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm)) — Primary text; quoted passages checked.
+> "Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration, of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))
 
-> "My experience is what I agree to attend to. Only those items which I notice shape my mind — without selective interest, experience is an utter chaos." ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm)) — Primary text; quoted passages checked.
+> "My experience is what I agree to attend to. Only those items which I notice shape my mind — without selective interest, experience is an utter chaos." ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm))
 
 Lavie's load theory, in the review that states its central prediction:
 
-> "This led to the predictions that high perceptual load that engages full capacity in relevant processing would leave no spare capacity for perception of task-irrelevant stimuli. In situations of low perceptual load, however, any capacity not taken up in perception of task-relevant stimuli would involuntarily 'spill over' to the perception of task-irrelevant distractors." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.
+> "This led to the predictions that high perceptual load that engages full capacity in relevant processing would leave no spare capacity for perception of task-irrelevant stimuli. In situations of low perceptual load, however, any capacity not taken up in perception of task-relevant stimuli would involuntarily 'spill over' to the perception of task-irrelevant distractors." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))
 
 ### What attention costs and how it recovers
 
@@ -83,13 +83,13 @@ Lavie's load theory, in the review that states its central prediction:
 
 James gave the effort its place in the will:
 
-> "Effort of attention is thus the essential phenomenon of will." ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt)) — Primary text; quoted passages checked.
+> "Effort of attention is thus the essential phenomenon of will." ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
 
-> "The essential achievement of the will, in short, when it is most 'voluntary,' is to attend to a difficult object and hold it fast before the mind." ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt)) — Primary text; quoted passages checked.
+> "The essential achievement of the will, in short, when it is most 'voluntary,' is to attend to a difficult object and hold it fast before the mind." ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt))
 
 The degradation of attention over time on task, in the meta-analytic review's own terms:
 
-> "Maintaining attention for more than a few seconds is essential for mastering everyday life. Yet, our ability to stay focused on a particular task is limited, resulting in well-known performance decrements with increasing time on task." ([Langner and Eickhoff 2012, Psychological Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC3627747/)) — Scholarly review; cited passage checked.
+> "Maintaining attention for more than a few seconds is essential for mastering everyday life. Yet, our ability to stay focused on a particular task is limited, resulting in well-known performance decrements with increasing time on task." ([Langner and Eickhoff 2012, Psychological Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC3627747/))
 
 ### Attention and the emotional life
 
@@ -141,13 +141,13 @@ The degradation of attention over time on task, in the meta-analytic review's ow
 
 The FA/OM distinction, in the review that introduced it to the meditation-science literature:
 
-> "A widespread style of Buddhist practice consists in sustaining selective attention moment by moment on a chosen object, such as a subset of localized sensations caused by respiration. To sustain this focus, the meditator must also constantly monitor the quality of attention. At first, the attention wanders away from the chosen object, and the typical instruction is to recognize the wandering and then restore attention to the chosen object." ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)) — Scholarly review; cited passage checked.
+> "A widespread style of Buddhist practice consists in sustaining selective attention moment by moment on a chosen object, such as a subset of localized sensations caused by respiration. To sustain this focus, the meditator must also constantly monitor the quality of attention. At first, the attention wanders away from the chosen object, and the typical instruction is to recognize the wandering and then restore attention to the chosen object." ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))
 
-> "One aims to remain only in the monitoring state, attentive moment by moment to anything that occurs in experience without focusing on any explicit object... the 'effortful' selection or 'grasping' of an object as primary focus is gradually replaced by the 'effortless' sustaining of an awareness without explicit selection." ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)) — Scholarly review; cited passage checked.
+> "One aims to remain only in the monitoring state, attentive moment by moment to anything that occurs in experience without focusing on any explicit object... the 'effortful' selection or 'grasping' of an object as primary focus is gradually replaced by the 'effortless' sustaining of an awareness without explicit selection." ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/))
 
 The laboratory study that gave the meditation cycle its four intervals:
 
-> "This model proposes four intervals in a cognitive cycle: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention." ([Hasenkamp et al. 2012, NeuroImage](https://wendyhasenkamp.net/wp-content/uploads/2016/02/hasenkamp-neuroimage-2012.pdf)) — Study; quoted passage checked.
+> "This model proposes four intervals in a cognitive cycle: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention." ([Hasenkamp et al. 2012, NeuroImage](https://wendyhasenkamp.net/wp-content/uploads/2016/02/hasenkamp-neuroimage-2012.pdf))
 
 ### Absorption and its varieties
 
@@ -195,9 +195,9 @@ The theme comes in narrative form too:
 
 Weil's own lines, from the essay collected in Waiting for God:
 
-> "Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated by the object; it means holding in our minds, within reach of this thought, but on a lower level and not in contact with it, the diverse knowledge we have acquired which we are forced to make use of." ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf)) — Primary text; quoted passages checked.
+> "Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated by the object; it means holding in our minds, within reach of this thought, but on a lower level and not in contact with it, the diverse knowledge we have acquired which we are forced to make use of." ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))
 
-> "The key to a Christian conception of studies is the realization that prayer consists of attention. It is the orientation of all the attention of which the soul is capable toward God." ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf)) — Primary text; quoted passages checked.
+> "The key to a Christian conception of studies is the realization that prayer consists of attention. It is the orientation of all the attention of which the soul is capable toward God." ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf))
 
 ## Where the traditions genuinely disagree
 
@@ -205,15 +205,15 @@ Weil's own lines, from the essay collected in Waiting for God:
 
 The shared question, in Lavie's statement of it: when attention selects, at what stage does what is not selected stop being processed? The debate the review opens with:
 
-> "Mixed results as to whether focusing attention on task-relevant stimuli can exclude distractors from early perceptual processing (an 'early' selection effect) or can only prevent distractors from controlling behaviour and memory (a 'late' selection effect) has fuelled a longstanding debate between early- and late-selection views of attention." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.
+> "Mixed results as to whether focusing attention on task-relevant stimuli can exclude distractors from early perceptual processing (an 'early' selection effect) or can only prevent distractors from controlling behaviour and memory (a 'late' selection effect) has fuelled a longstanding debate between early- and late-selection views of attention." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))
 
 Her resolution ties the filter's place to how loaded perception is, in the passage quoted in the map above: under high perceptual load there is no spare capacity for distractors, and under low load capacity spills over to them. The review's own summary of where the research landed:
 
-> "This research indicates that distractor perception can be prevented (early selection) when processing of task-relevant stimuli involves high perceptual load, and that although distractors are perceived in tasks of low perceptual load (late selection), their impact on behaviour depends on other types of load, such as that on working memory." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.
+> "This research indicates that distractor perception can be prevented (early selection) when processing of task-relevant stimuli involves high perceptual load, and that although distractors are perceived in tasks of low perceptual load (late selection), their impact on behaviour depends on other types of load, such as that on working memory." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))
 
 What the resolution does not do is hand one side the victory. The second kind of load cuts the other way:
 
-> "Whereas high perceptual load can eliminate distractor processing, high load on 'frontal' cognitive control processes increases distractor processing." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.
+> "Whereas high perceptual load can eliminate distractor processing, high load on 'frontal' cognitive control processes increases distractor processing." ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))
 
 What remains unresolved is therefore not the filter's location but its behaviour under load: the question has been reframed from where selection happens to which kind of load is operating, and the two kinds move distractor processing in opposite directions. A reader managing distraction inherits that as a practical caution: filling perception with the task helps only while the load is perceptual; a mind loaded on control processes lets more in, not less.
 
@@ -221,15 +221,15 @@ What remains unresolved is therefore not the filter's location but its behaviour
 
 The shared question is not whether wandering has effects but under which conditions the costs outweigh the functions. Killingsworth and Gilbert's smartphone study, sampling 2250 adults at random moments, measured the mood difference:
 
-> "Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love." ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)) — Study; quoted passage checked.
+> "Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love." ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf))
 
-> "In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)) — Study; quoted passage checked.
+> "In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf))
 
 Mooneyham and Schooler's review accepts the cost findings and proposes functions under particular conditions rather than disputing the measurements:
 
-> "Substantial evidence suggests that mind-wandering typically occurs at a significant cost to performance. Mind-wandering-related deficits in performance have been observed in many contexts, most notably reading, tests of sustained attention, and tests of aptitude." ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)) — Scholarly review; cited passage checked.
+> "Substantial evidence suggests that mind-wandering typically occurs at a significant cost to performance. Mind-wandering-related deficits in performance have been observed in many contexts, most notably reading, tests of sustained attention, and tests of aptitude." ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf))
 
-> "Contemplating this question leads us to propose the following potential functions of mind-wandering: attentional cycling, dishabituation, and relief from boredom... mind-wandering appeared to partially insulate people against the mood costs of engaging in a particularly tedious task." ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)) — Scholarly review; cited passage checked.
+> "Contemplating this question leads us to propose the following potential functions of mind-wandering: attentional cycling, dishabituation, and relief from boredom... mind-wandering appeared to partially insulate people against the mood costs of engaging in a particularly tedious task." ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf))
 
 The two papers do not contradict each other: one measures the average mood while wandering, the other proposes boundary conditions under which wandering serves a function. What remains unresolved is where the boundary sits — which tasks, moods and people get the insulation rather than the cost — and whether the contemplative trainings, which treat the noticing of wandering as the trainable moment, are suppressing the default or harvesting it.
 
