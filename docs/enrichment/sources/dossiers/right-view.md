@@ -410,3 +410,15 @@ dropped); the question stands open on the page. The draft remains
 UNPUBLISHED pending supervisor integration; next action for the
 supervisor: resolve or drop the three divergence candidates (see Open
 points above), then the registry flip with the art assignment.
+
+## Pass 20 addendum (same session)
+
+MN 117 carrier opened directly this session (accesstoinsight Thanissaro
+page, raw download) and the repaired opener's claims grounded in it:
+"There is right view with effluents, siding with merit" and "right
+view that is noble, without effluents, transcendent, a factor of the
+path" (two-forms grading), "Of those, right view is the forerunner" and
+"the many skillful qualities that have right view as their condition go
+to the culmination of their development" (forerunner as dependence, not
+training sequence), all four probes found in the opened text. The
+dossier of record and the draft are identical; checker exit 0 on both.
