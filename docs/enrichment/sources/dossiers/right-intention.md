@@ -239,3 +239,30 @@ claim that both questions "can be read as compatible" was corrected
 (the less-wanting question carries the stated disagreement; the
 abstention-or-cultivation question remains open). Checker exit 0
 (66 links, 18 headers, 14 external carriers).
+
+## WITHDRAWAL of the "genuine divergence grounded" claim (advisor QC, worker-pplx-dos24-1025a)
+
+The previous entry's claim that the genuine-divergence flag was
+RESOLVED is WITHDRAWN after advisor QC. The Bodhi passage does not
+deny that skillful desire belongs in training: it targets the desire
+that runs toward gratification. The discriminating check was run in
+the same opened book (waytoend.html, right-effort chapter): Bodhi
+writes that the factor behind right effort "can appear in either
+wholesome or unwholesome forms. The same factor fuels desire,
+aggression, violence, and ambition on the one hand, and generosity,
+self-discipline, kindness, concentration, and understanding on the
+other" (verbatim, raw-verified). Bodhi therefore distinguishes craving
+from skillful motivation just as Thanissaro does, and the two
+passages mark the same divide rather than opposing answers to one
+proposition. The dossier section was rewritten as a compatible
+comparison: the pair distinguishes craving to be abandoned from
+skillful wanting to be trained, with the open question stated as
+whether the skillful wanting is itself relinquished when the work is
+done. The intro sentence "the second carries a stated disagreement"
+was corrected back to the both-open framing. The "can sit side by side
+in one canon" and "never closed the question" lines were removed
+(the carriers are modern explanatory works, and the historical
+generalization was unsupported). The genuine-divergence flag for dos19
+is RESTORED to OPEN. Normalization note: the Thanissaro quotation uses
+a straight apostrophe in "It's", matching the pdftotext extraction of
+the PDF.

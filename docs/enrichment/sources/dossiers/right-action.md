@@ -337,3 +337,25 @@ the tree/woodcutter and goose episodes are present as the card
 narrates them. The flag is RESOLVED: the ctext carrier is verified
 against the archived copy of the page; the live page could not be
 opened from this sandbox, noted for the record.
+
+## WITHDRAWAL of category-equivalence claims (advisor QC, worker-pplx-dos24-1025a)
+
+The previous entry's term-mapping language ("the two maps line up",
+"answers to") is WITHDRAWN after advisor QC: the quoted carriers
+support a limited structural comparison (both qualify what counts as
+knowing when action fails to follow it), not a cross-traditional
+identification of Wang's original substance with Aristotle's Knowledge
+proper or of separated knowing with sense-conveyed knowledge. The
+dossier paragraph was rewritten as a bounded comparison with the
+precise relation left open. The remedy paragraph's "What the two do
+not share is the remedy" was also withdrawn: NE II.1's habituation
+line does not establish Aristotle's remedy for the VII.3 failure
+state, and Wang's restoration language does not exclude habituation;
+the paragraph now contrasts expressed emphases only. Attribution
+corrected: the opened Columbia page identifies de Bary and Bloom as
+COMPILERS of Sources of Chinese Tradition, not translators of the
+excerpt; the citation now reads "in Wm. Theodore de Bary and Irene
+Bloom (comps.)". The quotation's nesting was restored to the source
+(the Teacher's words are inside double quotes, as on the carrier).
+The Chuan-xi lu passage itself remains raw-verified against the
+opened carrier; the ST384 ctext verification is unaffected.
