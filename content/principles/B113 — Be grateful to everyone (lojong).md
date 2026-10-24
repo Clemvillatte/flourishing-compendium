@@ -30,7 +30,8 @@ For example: A client calls you lazy for declining overnight work. You might dra
 ## Related concepts
 - [[T012 — Laozi]]: the other-as-teacher parallel (Daodejing 27) the page cites.
 
-- [[K034]] — listed for comparison: the same thirteenth lojong slogan, treated through Shantideva's patience argument on B113 and through Trungpa's obstacles-as-material commentary on K034.
+- [[K034]] — the same thirteenth lojong slogan, approached through Trungpa's commentary on obstacles as practice material rather than Shantideva's patience argument here.
+- [[Patience]] — the capacity exercised in the encounter; gratitude for an opportunity to practise does not approve the harmful conduct.
 
 ## Sources
 
