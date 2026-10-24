@@ -12,21 +12,32 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 1** — Align your life with the Dao
 
-Chapter 25 of the Daodejing runs the chain upward:
+Chapter 25 of the Daodejing places human conduct within a wider sequence of models ([Legge translation](https://www.gutenberg.org/files/216/216-h/216-h.htm)):
 
 > "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is."
 > (DDJ 25, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-Each level takes its law from the level above, and the Dao's law is simply what it is. My practical application of that chain: your plans run inside circumstances you did not set, so study how things actually unfold before acting on them. (DDJ 1, 25.)
+Legge's repeated word law should be read alongside the passage's final turn to the Dao's being what it is. Chad Hansen interprets dao through the metaphor of a path: circumstances offer possibilities for conduct, without issuing commands about which one we must choose ([Daoism, §§2 and 9](https://plato.stanford.edu/entries/daoism/)). This is one scholarly reading, not a settled translation of everything dao can mean.
 
-**Plain words** Look at what a situation is doing before you decide what to do with it. What does your plan assume about the time and energy actually available? Which conditions can you change, and which must the plan accommodate? Recognising a condition is not approving it; it means you build with it instead of over it. The Daoist version of the habit names the source: the way things run was not set by you.
+I apply the passage by examining what my plans assume about the world they must operate in. An intention to help still needs attention to what help is possible here, for these people, under these conditions.
 
-*For example:* Suppose you schedule a writing session and then notice it overlaps a meeting. The aligned move is to decide which commitment to move before relying on the timetable.
+### Plain words
+
+A worthwhile aim does not make every way of pursuing it workable. Understanding the circumstances gives you something to respond to when choosing how to act. Recognising a condition does not require approving it: changing an unjust arrangement also begins with understanding it.
+
+### For example
+
+Suppose you offer to help a friend move without checking when they need you or what you can carry. Ask before fixing a plan, agree on a useful contribution and review how it worked afterwards. Carry that knowledge into your next offer. This is my practical illustration, not a claim that arranging a move exhausts what alignment with the Dao means.
 
 ## Related concepts
 
 - [[T011 — Socrates]]: the Crito story (ST141) the page lists: the examined life refusing the easy exit.
 - [[T052 — MacIntyre, Alasdair]]: the tradition-as-lived-practice account of the good that the page's story link carries.
+
+## Sources
+
+- [Laozi, Daodejing 25, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): the chain of models and the closing statement about the Dao.
+- [Chad Hansen, Daoism, Stanford Encyclopedia of Philosophy, §§2 and 9](https://plato.stanford.edu/entries/daoism/): the path metaphor, possibilities and the distinction between natural guidance and commands.
 
 ## Stories
 

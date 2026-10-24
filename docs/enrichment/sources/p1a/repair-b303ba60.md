@@ -73,3 +73,11 @@ are not certified by this body-level review.
 - Repair: replaced the unhelpful mother-cause contrast with a first-person, revisable account of waiting. Plain words includes practical meaning and social setting rather than reducing the method to a list of bodily sensations. The exercise is explicitly introductory and author-designed.
 - Saturation: `enrich_find.py mention phenomenological description` and the Phenomenological description/Phenomenological seeing concepts were read. Added the exact concept link; its existing Cited in philosophy parallels already links E011, so the reciprocal exists and no proposal is required.
 - Limits: no claim that a short attention exercise constitutes Heidegger's full ontological method, supplies an infallible description or establishes a psychological treatment.
+
+## D001: Align life with the Dao
+
+- Opened: [Daodejing 25, Legge translation](https://www.gutenberg.org/files/216/216-h/216-h.htm), full chapter, and [Hansen, Daoism, SEP](https://plato.stanford.edu/entries/daoism/), extracted discussion of the path metaphor, naturalness and non-commanding guidance, especially §§2 and 9.
+- Evidence: retained quotation matches §4. The primary chapter names the sequence human–earth–heaven–Dao, then the Dao's being what it is. Hansen's interpretation explicitly distinguishes natural possibilities from commands; his view is attributed and not treated as the universal scholarly position.
+- Repair: removed the bare “chain upward” gloss and made the interpretive choice explicit. Plain words now develops workable action under circumstances, including the possibility of changing unjust conditions. The move-planning example replaces a timetable-overlap tautology with consultation, action, review and learning.
+- Saturation: Dao concept and `enrich_find.py mention ziran` reviewed. Existing Dao comparison and reciprocal are already present; no new link or equivalence.
+- Limits: no derivation of human moral obligations from what occurs in nature, no passivity in the face of injustice, and no assertion that the modern illustration captures the full historical meaning of the Dao.
