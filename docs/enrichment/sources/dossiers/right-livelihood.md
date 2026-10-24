@@ -3,7 +3,18 @@
 Writer: worker-pplx-dos22-1024h, band dos22 (mint 3, the Noble Eightfold Path).
 Registry status stays 'planned'; the supervisor flips and publishes. Band
 state: right-livelihood left in review-pending, not marked done, pending the
-supervisor's publication decision.
+supervisor's publication decision. The divergence requirement is
+UNFINISHED: the two divergences were removed on QC review as
+manufactured oppositions (the AN 5.177 list and Weber's historical
+account of the calling are not opposed; Dewey does not take up the
+five-trades question), and the dossier currently carries no divergence
+section. The verified Weber and Dewey quotes are preserved in the map,
+under Vocation as calling and The dignity of labor. Flagged for the
+supervisor: publication should wait for a verified genuine divergence
+or an owner decision on the section.
+
+Revision 3: divergence section removed per the QC review; the two
+verified quotes moved into the map entries they gloss; checker exit 0.
 
 Revision 2 (QC pass): divergences reframed to the definitional contrast
 the opened texts actually support (no claim that Weber prescribes a

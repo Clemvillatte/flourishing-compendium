@@ -45,9 +45,13 @@ The canonical list, in the Buddha's own words:
 
 [Vocation as calling](https://clemvillatte.github.io/flourishing-compendium/#card=Vocation%20as%20calling): Weber's account of work as a Beruf, a task set by God, and the Reformation's shift that gave everyday worldly activity a religious significance.
 
+> "Now it is unmistakable that even in the German word *Beruf,* and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested." ([Weber, The Protestant Ethic, ch. III, Marxists.org](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): Primary text; quoted passages checked. Weber's chapter is a historical account of Luther's conception, not his own prescription.
+
 [Calling orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Calling%20orientation): Wrzesniewski, McCauley, Rozin and Schwartz's three orientations to work: a Job focused on financial rewards, a Career focused on advancement, a Calling focused on fulfilling, socially useful work; the same work can be one or the other to different people doing it.
 
 [The dignity of labor](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dignity%20of%20labor): Dewey's claim in Democracy and Education that work belongs to the educative life of a person, not to its payment plan: the sorting of children into laborers and gentlemen is the injury.
+
+> "The dominant vocation of all human beings at all times is living — intellectual and moral growth." ([Dewey, Democracy and Education, ch. 23, Standard Ebooks](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23)): Primary text; quoted passages checked. The same chapter: "The only adequate training for occupations is training through occupations."
 
 [Ora et labora](https://clemvillatte.github.io/flourishing-compendium/#card=Ora%20et%20labora): the Benedictine motto, drawn from the Rule's balance of the Divine Office and manual labor: prayer and work under one rule.
 
@@ -124,24 +128,6 @@ The compendium holds right livelihood in narrative form too:
 [ST008 — Siddhartha Learns from the River](https://clemvillatte.github.io/flourishing-compendium/#card=ST008%20%E2%80%94%20Siddhartha%20Learns%20from%20the%20River): having tried asceticism, pleasure and worldly success, Siddhartha lives beside the river with the ferryman Vasudeva, and the lesson is not a doctrine but a way of hearing the river's many voices.
 
 [ST340 — Fukuoka Learns to Do Nothing](https://clemvillatte.github.io/flourishing-compendium/#card=ST340%20%E2%80%94%20Fukuoka%20Learns%20to%20Do%20Nothing): the customs-office microbiologist's hospital stay with pneumonia in 1937 changes his view of his own profession; he resigns his research post and returns to the family farm with a question: what happens if you stop?
-
-## Where the traditions genuinely disagree
-
-### The floor, and the direction it does not give
-
-The shared question: what does the fifth factor actually ask of the work a person lives by? The Vanijja Sutta defines it by prohibition, a short list of trades a lay follower should not engage in, and nothing more. The calling tradition Weber traces defines work by valuation instead:
-
-> "Now it is unmistakable that even in the German word *Beruf,* and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested." ([Weber, The Protestant Ethic, ch. III, Marxists.org](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): Primary text; quoted passages checked. Weber's chapter is a historical account of Luther's conception, not his own prescription.
-
-The two texts part on the definition of the factor: the sutta defines it by a list of abstentions and stops there; the Reformation conception gives the work itself a significance the list never asks about. The question they leave standing between them is whether the choice among the permitted livelihoods is part of the factor at all: the sutta's list is specific and prohibitive and does not describe how to choose among the many livelihoods outside it, and the compendium's own revisiting note (B152) records that gap. What remains unresolved is the case both texts leave open: a livelihood right by the list and still wrong for the person doing it.
-
-### Can the trade itself be wrong, or only the doing of it?
-
-The shared question: is there work that is wrong in itself, or is every honest work made right or wrong by how it is done? The five-trades list answers that the trade itself can be wrong: business in weapons or poison is on the list, and the list does not say the trades are redeemed by being done well. Dewey's account of occupation, in the chapter the dignity-of-labor card carries, locates the dignity of work elsewhere:
-
-> "The dominant vocation of all human beings at all times is living — intellectual and moral growth." ([Dewey, Democracy and Education, ch. 23, Standard Ebooks](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23)): Primary text; quoted passages checked. The same chapter defines the positive program: "The only adequate training for occupations is training through occupations."
-
-Dewey's chapter takes up a different question: the predetermination of children into future occupations, laborers sorted from gentlemen. So the two positions part on whether the content of the trade is itself part of the ethics: the list says yes, some trades are simply not to be engaged in; Dewey's account locates the dignity of work in its relation to growth and does not take up the list's question. The open case between them is the middle one both leave standing: trades that are harmless by the list and still deadening to the person doing them, where the Buddhist factor is silent and Dewey's growth standard has no list to consult.
 
 ## Practice: variation, selection, retention
 
