@@ -181,6 +181,6 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### The price refused
 
-[ST290 — Job and the Whirlwind](https://clemvillatte.github.io/flourishing-compendium/#card=ST290%20%E2%80%94%20Job%20and%20the%20Whirlwind): Job, righteous and prosperous, loses children, property and health; his three friends explain at length that the suffering must be punishment for sin; God answers from the whirlwind with a speech that is questions, and the friends are rebuked for not speaking of God what is right.
+[ST290 — Job and the Whirlwind](https://clemvillatte.github.io/flourishing-compendium/#card=ST290%20%E2%80%94%20Job%20and%20the%20Whirlwind): Job, righteous and prosperous, suffers catastrophe after catastrophe; his three friends explain at length that his suffering is a punishment for his sin; God answers from the whirlwind with a speech that is questions, and the friends are rebuked for not speaking of God what is right.
 
-[ST064 — The Lute String](https://clemvillatte.github.io/flourishing-compendium/#card=ST064%20%E2%80%94%20The%20Lute%20String): Soṇa strains so hard in meditation that his feet bleed and considers giving up; the Buddha asks the former lute player whether strings sound best too tight or too slack, and says the energy is the same.
+[ST064 — The Lute String](https://clemvillatte.github.io/flourishing-compendium/#card=ST064%20%E2%80%94%20The%20Lute%20String): Soṇa strains so hard in meditation that he considers giving up; the Buddha asks the former lute player whether strings sound best too tight or too slack, and says the energy is the same.
