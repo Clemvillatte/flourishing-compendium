@@ -1,0 +1,198 @@
+# Cognition
+
+> How does thinking work, and where does it reliably fail?
+
+This dossier maps the compendium's whole spread on thinking: the styles of thought, the formation and holding of beliefs, the thinking that hurts, the ways it is changed, and reason's reach and limits, each entry with a card link. The lines are short on purpose; the dense arguments live on the cards. The boundary against the Attention dossier: the selection and sustaining of awareness lives there; what lives here is what thinking does with what awareness delivers.
+
+How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index.
+
+### Nearby terms
+
+The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:
+
+- Thinking: the general capacity is this page's subject; its two speeds are held by [System 1 and System 2](https://clemvillatte.github.io/flourishing-compendium/#card=System%201%20and%20System%202).
+- Thoughts: the "thoughts are not facts" territory is held here by [Cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion) and the meditation cluster it links to.
+- Reasoning: studied as measured performance by [Critical thinking research](https://clemvillatte.github.io/flourishing-compendium/#card=Critical%20thinking%20research) and as wise performance by [Wise reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Wise%20reasoning).
+- Reason: the faculty's classical and critical accounts, logos, instrumental reason and its critics, are held by [Instrumental reason](https://clemvillatte.github.io/flourishing-compendium/#card=Instrumental%20reason) and the philosophy cards it links to.
+
+These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below.
+
+## The map: every entry the wiki holds on cognition
+
+### The two speeds of thought
+
+[System 1 and System 2](https://clemvillatte.github.io/flourishing-compendium/#card=System%201%20and%20System%202): Kahneman's names for the two modes: fast, automatic, intuitive thought, and slow, effortful, deliberate thought; the terms borrowed from Stanovich and West.
+
+[Cognitive-Experiential Self-Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive-Experiential%20Self-Theory): Epstein's dual-process theory of personality: a rational system that thinks slowly and logically, and an experiential one that is fast, automatic and emotionally driven.
+
+[Cognitive biases](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20biases): the systematic, predictable errors produced by the mind's shortcuts, from the founding 1974 paper.
+
+[Affect heuristic](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20heuristic): the finding that positive or negative feelings about an object drive judgments of its risk and benefit.
+
+[Cognitive load theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20load%20theory): Sweller's theory of working-memory demands in learning; its starting point is the small capacity of working memory.
+
+[Actively open-minded thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Actively%20open-minded%20thinking): Baron's reasoning style: considering alternatives and evidence against one's own conclusion, not only for it.
+
+[Critical thinking research](https://clemvillatte.github.io/flourishing-compendium/#card=Critical%20thinking%20research): the empirical study of how well people reason and decide; the Cognitive Reflection Test line.
+
+[Expert intuition (Klein's recognition-primed decision model)](https://clemvillatte.github.io/flourishing-compendium/#card=Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29): Gary Klein's account of how experienced decision-makers act fast under pressure: a possible course of action is generated and compared against the situation's constraints.
+
+The founding paper's own summary of the program:
+
+> "This article described three heuristics that are employed in making judgments under uncertainty: (i) representativeness, which is usually employed when people are asked to judge the probability that an object or event A belongs to class or process B; (ii) availability of instances or scenarios, which is often employed when people are asked to assess the frequency of a class or the plausibility of a particular development; and (iii) adjustment from an anchor, which is usually employed in numerical prediction when a relevant value is available. These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors." ([Tversky and Kahneman 1974, Science](https://www.science.org/doi/10.1126/science.185.4157.1124)) — Study abstract; quoted passage checked.
+
+### Where thinking happens
+
+[Embodied cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20cognition): the research programme that moves thinking out of the amodal symbol system and into the body; Barsalou's grounded-cognition manifesto.
+
+[Embedded cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Embedded%20cognition): the thesis that thinking happens against, and is lightened by, the environment the thinker is embedded in.
+
+[Distributed cognition extended mind](https://clemvillatte.github.io/flourishing-compendium/#card=Distributed%20cognition%20extended%20mind): the two research programmes that deny the skull as the boundary of thinking; Clark and Chalmers's active externalism.
+
+[Dialogic reason](https://clemvillatte.github.io/flourishing-compendium/#card=Dialogic%20reason): understanding and good judgement as arising between people in exchange, not inside a single isolated mind; Buber and Habermas.
+
+[Analytic vs holistic cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Analytic%20vs%20holistic%20cognition): two habits of attention and explanation documented across cultures, in Nisbett's group's account.
+
+[Dialectical thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Dialectical%20thinking): the account of naïve dialecticism: lay beliefs about how the world works, found more strongly in East Asian cultures.
+
+[Autistic cognition — detail-focused processing](https://clemvillatte.github.io/flourishing-compendium/#card=Autistic%20cognition%20%E2%80%94%20detail-focused%20processing): the weak coherence account: strength in detail and pattern where the typical style pulls for gist and global form.
+
+Clark and Chalmers's position, in their own words:
+
+> "In these cases, the human organism is linked with an external entity in a two-way interaction, creating a coupled system that can be seen as a cognitive system in its own right." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html)) — Primary text; quoted passage checked.
+
+> "We advocate a very different sort of externalism: an active externalism, based on the active role of the environment in driving cognitive processes." ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html)) — Primary text; quoted passage checked.
+
+Spencer-Rodgers and colleagues' definition:
+
+> "Naïve dialecticism refers to a set of East Asian lay beliefs characterized by tolerance for contradiction, the expectation of change, and cognitive holism." ([Spencer-Rodgers et al., Personality and Social Psychology Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/)) — Study abstract; quoted passage checked.
+
+### How beliefs form and hold
+
+[Belief as habit](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20as%20habit): Peirce's account in "How to Make Our Ideas Clear": belief as the establishment of a rule of action.
+
+[Belief perseverance effect](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20perseverance%20effect): beliefs persist after their evidential basis has been removed, in Ross, Lepper and Hubbard's demonstration.
+
+[Cognitive dissonance](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20dissonance): Festinger's theory of the mismatch between cognitions and the pressure to reduce it.
+
+[Belief evaluation in CBT](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20evaluation%20in%20CBT): examining what a thought does, not only whether it is true; cognitive therapy evaluates the content, acceptance-based therapies the context.
+
+[Identity-protective cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Identity-protective%20cognition): Dan Kahan's research program on reasoning in which "is this true?" is answered, unnoticed, by "does this mark me as one of us?".
+
+[Cognitive bias modification theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20bias%20modification%20theory): the approach to modifying the biases that confer vulnerability to anxiety, targeting attention bias and interpretation bias.
+
+Peirce's own lines:
+
+> "The essence of belief is the establishment of a habit; and different beliefs are distinguished by the different modes of action to which they give rise." ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html)) — Primary text; quoted passage checked.
+
+> "As it appeases the irritation of doubt, which is the motive for thinking, thought relaxes, and comes to rest for a moment when belief is reached." ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html)) — Primary text; quoted passage checked.
+
+Festinger's definition:
+
+> "These two elements are in a dissonant relation if, considering these two alone, the obverse of one element would follow from the other. If, considering a pair of elements, either one does follow from the other, then the relation between them is consonant." ([Festinger, A Theory of Cognitive Dissonance, ch. 1](https://www.panarchy.org/festinger/dissonance.html)) — Primary text; quoted passages checked.
+
+### The thinking that hurts
+
+[Beck's cognitive model](https://clemvillatte.github.io/flourishing-compendium/#card=Beck%27s%20cognitive%20model): automatic thoughts, assumptions and core schemas about self and world maintain depression and anxiety.
+
+[Cognitive-behavioural model](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive-behavioural%20model): how a person interprets a situation, more than the situation itself, shapes what they feel and do; the model behind CBT.
+
+[Cognitive mediation of distress](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20mediation%20of%20distress): the cognitive-therapy assumption that interpretations influence emotional responses.
+
+[Cognitive distortions](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20distortions): the systematic errors Beck found in the thinking of depressed patients, the idiosyncratic conceptualizations that led him to characterize depression's phenomena in terms of a thought disorder.
+
+[Cognitive distortions research](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20distortions%20research): the patterns to be identified and modified: catastrophising, overgeneralisation, personalisation.
+
+[Cognitive attentional syndrome Wells](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20attentional%20syndrome%20Wells): Wells's name, within his self-regulatory executive function model, for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders.
+
+[Rumination](https://clemvillatte.github.io/flourishing-compendium/#card=Rumination): Nolen-Hoeksema's term for repetitively and passively focusing on one's symptoms and their possible causes and consequences, rather than acting; response styles theory's account of why it travels with depression.
+
+[Dichotomous (black-and-white) thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Dichotomous%20%28black-and-white%29%20thinking): the habit of sorting events into two opposite boxes: all or nothing, right or wrong, safe or dangerous.
+
+### Changing thinking
+
+[Cognitive restructuring](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20restructuring): the technique family at the heart of cognitive therapy: helping clients identify, evaluate and correct inaccurate beliefs.
+
+[Cognitive reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20reappraisal): the emotion-regulation strategy of changing an emotional event's meaning so that the feeling that follows changes; a well-supported antecedent-focused strategy in Gross's model.
+
+[Cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion): the ACT practice of seeing thoughts as thoughts, mental events passing through awareness, rather than as commands, facts or the self.
+
+[Cognitive transformation theory of desistance](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20transformation%20theory%20of%20desistance): Giordano and colleagues' account of how people stop offending: cognitive shifts that recognise new possibilities and reinterpret one's past.
+
+### Thinking over a life
+
+[Cognitive ageing](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20ageing): the abilities do not rise and fall together; some peak at high-school graduation, some plateau in early adulthood.
+
+[Information-processing theory of cognitive development](https://clemvillatte.github.io/flourishing-compendium/#card=Information-processing%20theory%20of%20cognitive%20development): how children represent, transform and use information.
+
+[Cognitive-developmental theory of moral reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive-developmental%20theory%20of%20moral%20reasoning): Kohlberg's fixed sequence of stages, built on Dewey's and Piaget's levels.
+
+[Justice reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Justice%20reasoning): the core of Kohlberg's program: justice-as-fairness as the central moral concept.
+
+[Cultural recognition](https://clemvillatte.github.io/flourishing-compendium/#card=Cultural%20recognition): Taylor's classic statement of the demand at the centre of multicultural politics: that identities be acknowledged rather than demeaned.
+
+### Thinking's reach and limits
+
+[Metacognition](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognition): thinking about thinking; Flavell's 1979 article and its four classes of phenomena.
+
+[Cognitive flexibility](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20flexibility): one of the three core executive functions: the capacity to switch perspectives and adapt to changed circumstances.
+
+[Divergent and convergent thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Divergent%20and%20convergent%20thinking): generating many varied ideas from the same starting point, and narrowing to the one already known answer.
+
+[Divergent thinking tests](https://clemvillatte.github.io/flourishing-compendium/#card=Divergent%20thinking%20tests): the standard tasks creativity researchers use to measure the generation of many varied responses.
+
+[Episodic future thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Episodic%20future%20thinking): the mind's rehearsal of specific futures: vividly imagining and mentally simulating personally relevant events that have not yet happened.
+
+[Wise reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Wise%20reasoning): Grossmann's research program's answer to what wisdom is, studied empirically: not a saintly personality type but strategies deployed, or not, situation by situation.
+
+[Instrumental reason](https://clemvillatte.github.io/flourishing-compendium/#card=Instrumental%20reason): reason reduced to the choice of means; it asks how to get what it has been given, and has stopped asking whether what it has been given is worth wanting.
+
+Grossmann's own list of the strategies:
+
+> "They include (a) intellectual humility or recognition of limits of own knowledge, (b) appreciation of perspectives broader than the issue at hand, (c) sensitivity to the possibility of change in social relations, and (d) compromise or integration of different opinions." ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf)) — Scholarly review; cited passage checked.
+
+> "People vary dramatically in their likelihood of utilizing wise thought from one situation to the next." ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf)) — Scholarly review; cited passage checked.
+
+## Where the traditions genuinely disagree
+
+### Should you argue with the thought, or step back from it?
+
+The shared question: when a thought is hurting you, is the work to correct its content or to change your relationship to it? Cognitive therapy's answer, from the meta-analytic review of its core technique:
+
+> "One method that is hypothesized to play a role in the process of change across many psychotherapies is cognitive restructuring (CR), which refers to a set of techniques used to help clients identify, evaluate and correct inaccurate beliefs... Rather than being defined as a single method, CR refers to the collection of therapeutic techniques aimed at helping clients identify, challenge, and correct biased and maladaptive automatic interpretations of events." ([Ezawa and Hollon 2023, Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/)) — Scholarly review; cited passages checked.
+
+The acceptance-and-commitment tradition's answer keeps the thought and moves the observer:
+
+> "to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/)) — Scholarly interpretation; cited passage checked.
+
+Both positions answer the same question, what to do with a painful thought, and they part on whether the thought is an object to be corrected or an event to be watched. What remains unresolved is which works when: the outcome literature has both families of techniques supporting their cases, and the wiki holds both without adjudicating; the defusion card itself notes the cross-tradition cognates, which suggests the practices may be training the same observation from two ends.
+
+## Practice: variation, selection, retention
+
+::Variation:: What tends to need varying on this theme is the relation to one's own thinking: thoughts taken as facts, the first interpretation kept, beliefs held past their evidence, and reasoning pressed into service of identity. The adaptive direction is the thought seen as a thought, alternatives actually considered, beliefs revisable, and reasoning used to find out rather than to defend.
+
+::Selection:: The kernels the compendium holds on this theme, each a selected source of that variation:
+
+1. [Cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=K126%20%E2%80%94%20Cognitive%20defusion): noting a painful thought in the form "I'm having the thought that..."; the thought's authority, not its content, is what changes.
+
+2. [Cognitive reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=K127%20%E2%80%94%20Cognitive%20reappraisal): when a situation triggers distress, generating an alternative interpretation: what else could this mean, what would a wise friend say, what is the larger context.
+
+3. [Thought record](https://clemvillatte.github.io/flourishing-compendium/#card=K128%20%E2%80%94%20Thought%20record): the CBT workhorse: situation, thought, feeling, evidence for, evidence against, and a more balanced statement.
+
+4. [Wise-reasoning prompts](https://clemvillatte.github.io/flourishing-compendium/#card=K260%20%E2%80%94%20Wise-reasoning%20prompts): for a troubling situation, four questions: how it could unfold, the perspectives on it, how one's own interests bias the view, and what a wise friend would do.
+
+5. [Public reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=K365%20%E2%80%94%20Public%20reasoning): when taking a public position on a question of rights or justice, building the strongest honest case for the opposing view before stating your own.
+
+6. [Compassionate Thinking: name the part, then look from the other side](https://clemvillatte.github.io/flourishing-compendium/#card=K381%20%E2%80%94%20Compassionate%20Thinking%3A%20name%20the%20part%2C%20then%20look%20from%20the%20other%20side): giving inner states names, "Anxious Me," "the Critic," as separate voices to talk about rather than be.
+
+7. [Cognitive acceptance: watch thoughts float by](https://clemvillatte.github.io/flourishing-compendium/#card=K385%20%E2%80%94%20Cognitive%20acceptance%3A%20watch%20thoughts%20float%20by): letting thoughts arise and pass in meditation without following or answering them.
+
+8. [Carry the thought on paper](https://clemvillatte.github.io/flourishing-compendium/#card=K387%20%E2%80%94%20Carry%20the%20thought%20on%20paper): a self-led acceptance exercise from Tolin's Doing CBT: the recurring thought written down, folded, kept in the pocket; the slip stands in for the thought, noticed and carried while the day goes on.
+
+9. [Sounds and Thoughts meditation](https://clemvillatte.github.io/flourishing-compendium/#card=K394%20%E2%80%94%20Sounds%20and%20Thoughts%20meditation): treating thoughts as sounds: arising, heard, passing, with no demand that they be answered.
+
+10. [Sing the thought, or say it in a silly voice](https://clemvillatte.github.io/flourishing-compendium/#card=K401%20%E2%80%94%20Sing%20the%20thought%2C%20or%20say%20it%20in%20a%20silly%20voice): a self-critical thought already examined, said once normally, then sung to a well-known tune or said in an exaggerated voice; the card's own caution is to use it only on the examined thought, not a fresh wound.
+
+The evidence limits are uneven across the list, and the kernels say so where it matters: the thought record and reappraisal carry the CBT trial literature; the defusion family carries the ACT literature, thinner and newer; the wise-reasoning prompts carry Grossmann's situation-varying findings rather than a tested protocol.
+
+::Retention:: Retention is what people keep because it works for them.
