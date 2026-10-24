@@ -42,3 +42,19 @@ block exceeds the 150-visible-word floor; no gloss or link changed.
 - Aristotle, Nicomachean Ethics VII.2 (Ross) — Primary text
 - Wilson and Gilbert, Current Directions in Psychological Science
   2005, abstract — Secondary source
+
+## Spot-check addendum (2026-10-24, supervisor-pplx-1024c-dossiers)
+
+Representative verbatim quotations re-checked against their carriers
+opened this session: decision-making (Gigerenzer and Gaissmaier
+abstract, both sentences; the "ignoring part" quote is the (b) clause
+of a longer sentence, words exact), goals (Locke and Latham 2006
+specific-hard-goals sentence, exact), happiness (Epicurus Hicks,
+Spinoza Elwes — the sacred-texts page is Cloudflare-walled to raw
+HTTP but reachable and exact via the fetch tool — and Mill
+Autobiography, all exact; the Aristotle I.7 swallow passage was
+verified earlier this session for the genuine-flourishing dossier,
+same carrier), motivation (Iyengar and Lepper limited-array
+sentence, Deci and Ryan 2008 type-vs-amount sentence, and the Deci,
+Koestner and Ryan 1999 meta-analysis sentence, all exact). No
+corrections needed.
