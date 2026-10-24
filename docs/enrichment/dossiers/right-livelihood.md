@@ -45,13 +45,13 @@ The canonical list, in the Buddha's own words:
 
 [Vocation as calling](https://clemvillatte.github.io/flourishing-compendium/#card=Vocation%20as%20calling): Weber's account of work as a Beruf, a task set by God, and the Reformation's shift that gave everyday worldly activity a religious significance.
 
-> "Now it is unmistakable that even in the German word *Beruf,* and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested." ([Weber, The Protestant Ethic, ch. III, Marxists.org](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): Primary text; quoted passages checked. Weber's chapter is a historical account of Luther's conception, not his own prescription.
+> "Now it is unmistakable that even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested." ([Weber, The Protestant Ethic, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): the chapter's account of Luther's conception of the calling.
 
 [Calling orientation](https://clemvillatte.github.io/flourishing-compendium/#card=Calling%20orientation): Wrzesniewski, McCauley, Rozin and Schwartz's three orientations to work: a Job focused on financial rewards, a Career focused on advancement, a Calling focused on fulfilling, socially useful work; the same work can be one or the other to different people doing it.
 
 [The dignity of labor](https://clemvillatte.github.io/flourishing-compendium/#card=The%20dignity%20of%20labor): Dewey's claim in Democracy and Education that work belongs to the educative life of a person, not to its payment plan: the sorting of children into laborers and gentlemen is the injury.
 
-> "The dominant vocation of all human beings at all times is living — intellectual and moral growth." ([Dewey, Democracy and Education, ch. 23, Standard Ebooks](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23)): Primary text; quoted passages checked. The same chapter: "The only adequate training for occupations is training through occupations."
+> "The dominant vocation of all human beings at all times is living — intellectual and moral growth." ([Dewey, Democracy and Education, ch. 23](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23)): the same chapter: "The only adequate training for occupations is training through occupations."
 
 [Ora et labora](https://clemvillatte.github.io/flourishing-compendium/#card=Ora%20et%20labora): the Benedictine motto, drawn from the Rule's balance of the Divine Office and manual labor: prayer and work under one rule.
 
