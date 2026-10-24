@@ -284,6 +284,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST383 — Half an Hour with Cotton Seeds]]
     - [[ST397 — Hokusai Asks for Five More Years]]
     - [[ST469 — Swaying in Answer]]
+    - [[ST473 — The Daffodils, Two Years Later]]
   - [[ST-S03.08 — III.8 Pluralism, Values, and Democracy]]
     - [[ST128 — James's Pluralistic Universe]]
     - [[ST129 — Addams's Democracy as a Way of Life]]

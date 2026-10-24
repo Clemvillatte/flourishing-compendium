@@ -26,6 +26,9 @@ Give the feeling something specific to work through: a paragraph, a tune, a draw
 
 Imagine writing about someone you miss. Begin with a particular memory, then revise one sentence until it conveys what mattered in that moment. The question is whether the words express your experience more accurately, not whether completing the page ends your grief.
 
+## Stories
+- [[ST473 — The Daffodils, Two Years Later|473. The Daffodils, Two Years Later]]
+
 ## Psychology parallels
 
 - **[[Affect labeling|Affect labeling]]**: choosing emotion words for faces reduced amygdala responses relative to comparison tasks in a 30-person fMRI study; this did not test artistic shaping or clinical recovery ([Lieberman et al., 2007](https://teams.semel.ucla.edu/sites/default/files/publications/May%202007%20-%20Putting%20Feelings%20Into%20Words.pdf)).
