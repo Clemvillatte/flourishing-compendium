@@ -758,7 +758,27 @@
      "note": "advisor repairs applied: continuity claim removed, sequel claims removed, reading re-anchored to the sequence the extract carries"
     }
    ]
+  },
+  "s1b-035": {
+   "status": "ready",
+   "angle": "D066 withdrawal: Fan Li letter and Tao Zhu Gong (Shiji 41/129 via suntzu-artofwar.org), quotes verified verbatim",
+   "history": [
+    {
+     "t": "2026-10-24T14:42:41+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:42:41+00:00",
+     "to": "qc_pending",
+     "note": "first draft; advisor QC round pending"
+    },
+    {
+     "t": "2026-10-24T14:44:43+00:00",
+     "to": "ready",
+     "note": "advisor repairs applied: symmetry removed, distribution arithmetic verified against Shiji 129 Chinese at ctext (three fortunes, twice distributed), narration separated from translation, boat sentence attributed to ch. 129"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:41:34+00:00"
+ "updated": "2026-10-24T14:44:43+00:00"
 }
