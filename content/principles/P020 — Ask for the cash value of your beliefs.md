@@ -42,6 +42,9 @@ And gives the working definition:
 
 - [James, Pragmatism, Project Gutenberg](https://www.gutenberg.org/cache/epub/5116/pg5116.txt) — Lectures II, VI
 
+## Stories
+- [[ST433 — The Squirrel at the Camp|433. The Squirrel at the Camp]]
+
 ## Psychology parallels
 
 - **[[Belief evaluation in CBT|Belief evaluation in CBT]]** (Beck; Hayes et al., 2011)
