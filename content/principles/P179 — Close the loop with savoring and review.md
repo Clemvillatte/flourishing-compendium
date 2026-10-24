@@ -44,6 +44,9 @@ A vacation reviewed on the flight home might mean asking what the best day reste
 - [[K157 — Evening review|K157 Evening review]]
 - [[K240 — The weekly review|K240 The weekly review]]
 - [[K242 — Daily architecture|K242 Daily architecture]]
+## Stories
+- [[ST483 — What Good Have I Done To-Day?|483. What Good Have I Done To-Day?]]
+
 ## Psychology parallels
 
 - **[[Savoring|Savoring interventions]]** (Bryant and Veroff, 2007)

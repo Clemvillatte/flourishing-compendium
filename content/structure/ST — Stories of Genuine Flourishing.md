@@ -274,6 +274,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST386 — Duchenne's Two Kinds of Smile]]
     - [[ST425 — Duchenne's Two Kinds of Smile]]
     - [[ST470 — The Little Savage Learns]]
+    - [[ST483 — What Good Have I Done To-Day?]]
   - [[ST-S03.06 — III.6 Time, Duration, and Novelty]]
     - [[ST120 — Bergson and the Melody]]
     - [[ST121 — The Creative Advance]]
