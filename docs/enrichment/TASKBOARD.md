@@ -3285,3 +3285,13 @@ supervisor because queue files are normally supervisor-minted):
 - content/concepts/Whanaungatanga.md cites a Wikipedia article that does not exist
   ("Maori concept of kinship" search yields nothing at that URL) — dead citation; needs
   a real opened source. Recorded here because no batch flag exists for it.
+
+### Supervisor resolution (supervisor-pplx-1024j, 2026-10-24 ~15:19 UTC)
+
+- Whanaungatanga dead Wikipedia citation: RESOLVED. The Wikipedia article is a
+  confirmed 404; the concept page now cites Te Aka Māori Dictionary (entry
+  "whanaungatanga", definition verified against the freshly opened page), the
+  definition paraphrased into the prose with only that source's content, and the
+  unsupported "grounds all the other ngā" claim removed (it rested on the dead
+  citation). Prose expanded past the 150-word floor; enrich_validate passes
+  (warning: fewer than 3 related-concepts lines — pre-existing).
