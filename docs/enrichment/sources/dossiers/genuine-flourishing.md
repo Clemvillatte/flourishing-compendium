@@ -504,3 +504,45 @@ Dossier now uses only the supported sunlight encounter, attributed to
 Plutarch. Underlying ST195 card needs a separately tracked repair; do not
 propagate its unsupported "sun everywhere" speech. Story-section logline
 must receive the same correction before final compilation.
+
+### Candidate pass 6: classical account and measurement, readable units
+
+All 29 card occurrences retained across the classical and measurement
+passages. Replaced the 262-word roll-call and 212-word measurement list
+with short connected paragraphs. One short Aristotle quotation retained;
+no quote array. Editorial judgments explicitly belong to the writer.
+
+Freshly opened carriers for the rewrite:
+- https://classics.mit.edu/Aristotle/nicomachaen.1.i.html :
+  I.7–10, rational activity, final good, whole life, friends/citizens,
+  pleasure within excellent action, external goods. "One swallow" quote
+  is exact in Ross's translation.
+- https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html :
+  habituation and relative mean, not arithmetic.
+- https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html :
+  practical wisdom, particulars, good aim versus mere technical cleverness.
+- https://plato.stanford.edu/entries/epicurus/ :
+  static/state pleasure, freedom from distress/pain, contentment with
+  little and valued friendship. Static/kinetic scholarly distinction
+  is debated; no stronger distinction asserted than needed.
+- https://www.gutenberg.org/files/216/216-h/216-h.htm :
+  Daodejing44/46, teaching of contentment/knowing when to stop,
+  not an empirical promise of immunity from harm.
+- https://plato.stanford.edu/entries/spinoza/ :
+  blessedness, intellectual love, active joy of third-kind knowledge.
+- https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html :
+  VIII.2–3, complete friendship for character versus incidental benefit.
+- https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf :
+  six dimensions and theoretical-grounding concern.
+- https://psychclassics.yorku.ca/Maslow/motivation.htm :
+  hierarchy and self-actualization, not rigid pyramid claim.
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC3545194/ :
+  Huppert/So ten-feature definition, not Diener's similarly named scale.
+- https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf :
+  hedonic/eudaimonic distinction, overlapping not disjoint.
+- https://pubmed.ncbi.nlm.nih.gov/12096700/ :
+  Keyes2002 cross-sectional sample, feelings and functioning.
+- Seligman Tanner lecture already fetched for pass5.
+
+Follow-up full-carrier checks before compilation: Politics I.2/III.9
+and Keyes two-factor full PDF, whose URLs appeared in the original cards.

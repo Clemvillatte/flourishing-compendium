@@ -51,6 +51,11 @@ ledger. This correction overrides the older quote-heavy reader format.
   The helper now supports proxy auth through curl; no token in URLs/files.
   Verify origin/main after each checkpoint. Do not echo credentials.
 
+- Concurrent main push `2427f4875` overwrote the proxy-auth helper while
+  adding resumable parallel blob uploads. Reapplied proxy mode on top of
+  that newer implementation, preserving its cache/concurrency. Do not
+  revert newer shared infrastructure wholesale from an old checkout.
+
 # Supervisor session addendum — 2026-10-24, T+39
 
 - dos18 (Right View): 17 passes, unpublished research draft, blockers
