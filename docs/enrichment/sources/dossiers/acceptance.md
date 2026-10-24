@@ -49,13 +49,18 @@ distinction, checked against the card's content.
   2026-10-24 (supervisor-pplx-1024c-dossiers, dossiers baton): chapter
   6 "Endeavour and Destiny" read from
   https://www.scribd.com/doc/258599406/Graham-A-C-The-Book-of-Lieh-Tzu-A-Classic-of-the-Tao
-  and BOTH quotes on the principle card verified word-for-word — the
-  "why did you give long life to one and early death to the other"
-  question (the card quotes its opening fragment) and the
-  "When we say that a thing is destined" passage, an exact match
-  including the repeated "What can I know about it?". OPEN POINT
-  CLOSED; the dossier's gloss (the staged debate between Endeavour
-  and Destiny) stands.
+  and compared with the principle card's quotes. PRECISION: the
+  "When we say that a thing is destined" passage is an exact,
+  complete match including the repeated "What can I know about
+  it?". The "long life to one and early death to the other"
+  line on the card is a FRAGMENT of a longer carrier sentence
+  that continues after "the other" (comma, then "why did you
+  permit the sage to fail and villains to succeed..."); the
+  fragment's words match the carrier exactly, and its closing
+  question mark is the card's editorial truncation, not the
+  carrier's punctuation. OPEN POINT CLOSED with that
+  qualification; the dossier's gloss (the staged debate
+  between Endeavour and Destiny) stands.
 - The ST188 Epictetus anecdote's historicity is uncertain per the
   card, and the dossier's logline carries that caution.
 

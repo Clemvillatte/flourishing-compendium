@@ -70,14 +70,35 @@ was read back against the cards before writing.
 
 ## Pass-3 reader pass (2026-10-24, supervisor-pplx-1024c-dossiers)
 
-Cold read against the bridging rule and the humanizer voice rules,
-link-hidden. The opening paragraph develops one thought and the map
-structure answers it; the Buddhist, existential, Stoic and clinical
-sections each carry their own question; the related-questions section
-states the three questions as open rather than manufacturing
-disagreement; the practice section is labeled editorial with a trial
-criterion; the story loglines describe events. Checker exit 0 (45
-card links, 10 headers), voice audit exit 0. No changes needed.
+Cold read against the bridging rule and the humanizer voice rules
+(links visible in the raw markdown; the pass corrected the earlier
+ledger draft's claim of link-hidden reading). The opening paragraph
+develops one thought and the map structure answers it; the Buddhist,
+existential, Stoic and clinical sections each carry their own
+question; the related-questions section states the three questions as
+open rather than manufacturing disagreement; the practice section is
+labeled editorial with a trial criterion; the story loglines describe
+events. Checker exit 0 (45 card links, 10 headers), voice audit exit
+0.
+
+Corrections made in this pass:
+
+- The related-questions sentence "The two literatures agree more than
+  the pop-psychology usage does" made a claim about pop-psychology
+  usage that no opened source supports; rewritten to state what the
+  two literatures each hold (both hold the acceptance-vs-resignation
+  distinction), with the comparative editorializing removed.
+- The two-arrows framing ("Pain is the first arrow; suffering is
+  the second") verified against SN 36.6 opened this session from
+  https://www.dhammatalks.org/suttas/SN/SN36_6.html : the sutta's own
+  image is two arrows, the first the painful feeling (physical), the
+  second the sorrow added (mental); the dossier's compression is the
+  sutta's own structure.
+- The purpose question's three-way framing checked: Frankl (meaning
+  available in unavoidable suffering), Buddhist (manufactured by
+  clinging), Job (answer not given) are genuine positions on the same
+  question, stated side by side with the open question named as open;
+  no change needed.
 
 ## Voice
 
