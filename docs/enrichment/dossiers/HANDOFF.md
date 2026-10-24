@@ -340,7 +340,7 @@ Flagged for other bands:
 
 Published (15): genuine-flourishing, wisdom, lifes-purpose, affect, anger, anxiety, happiness, cognition, decision-making, attention, the-self, motivation, goals, uncertainty, overload-overwhelm. All pass scripts/dossier_check.py (exit 0) and app.js is in sync with the markdown (a full --rebuild of all 15 produced no diff).
 
-Planned and banded, not started: agency (dos14), behaviour (dos15), others (dos16), body (dos17). Bands dos1 to dos13 are released or finished.
+Planned and banded, not started: agency (dos14), behaviour (dos15), others (dos16), body (dos17). Bands dos1, dos5 to dos13 are released; dos2, dos3, dos4 and dos6 were still held by live workers at the time of writing.
 
 Notes for the next writer:
 - Pre-computed title inventories in some manifests were copied from other bands; run your own title sweep and full-text sweep.
