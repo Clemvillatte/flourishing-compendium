@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-24 14:57 UTC (input revision `b54f55813`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 15:57 UTC.
+As of 2026-10-24 15:04 UTC (input revision `e973f96be`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 16:04 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -8,9 +8,9 @@ As of 2026-10-24 14:57 UTC (input revision `b54f55813`). Scope: principles and c
 
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
-| Principles | 2181 | 1 | 2182 | 100.0% |
+| Principles | 2182 | 0 | 2182 | 100.0% |
 | Concepts | 2258 | 4 | 2262 | 99.8% |
-| **Combined** | **4439** | **5** | **4444** | **99.9%** |
+| **Combined** | **4440** | **4** | **4444** | **99.9%** |
 
 ## Stories (separate pipeline)
 
@@ -43,7 +43,6 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 | Forest | Recorded done | Total | Done % |
 |---|---|---|---|
-| E — Existentialism and Phenomenology | 112 | 113 | 99.1% |
 | B — Buddhist Principles | 198 | 198 | 100.0% |
 | P — Pragmatist and Process Principles | 196 | 196 | 100.0% |
 | D — Daoist Principles | 192 | 192 | 100.0% |
@@ -51,6 +50,7 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 | Y — Yoga-Vedanta Principles | 132 | 132 | 100.0% |
 | R — Relational Philosophies | 130 | 130 | 100.0% |
 | A — Aristotelian Virtue Ethics and Practical Wisdom | 122 | 122 | 100.0% |
+| E — Existentialism and Phenomenology | 113 | 113 | 100.0% |
 | SP — Spinozism Principles | 96 | 96 | 100.0% |
 | AF — Affect | 84 | 84 | 100.0% |
 | CO — Cognition | 83 | 83 | 100.0% |
