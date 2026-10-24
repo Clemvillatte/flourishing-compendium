@@ -24,6 +24,7 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 [System 1 and System 2](https://clemvillatte.github.io/flourishing-compendium/#card=System%201%20and%20System%202): Kahneman's names for the two modes: fast, automatic, intuitive thought, and slow, effortful, deliberate thought; the terms borrowed from Stanovich and West.
 
 [Cognitive-Experiential Self-Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive-Experiential%20Self-Theory): Epstein's dual-process theory of personality: a rational system that thinks slowly and logically, and an experiential one that is fast, automatic and emotionally driven.
+- [Dual-process theory](https://clemvillatte.github.io/flourishing-compendium/#card=Dual-process%20theory): the general form — autonomous Type 1 processing distinguished from Type 2 processing that depends on working memory and supports hypothetical reasoning.
 
 [Cognitive biases](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20biases): the systematic, predictable errors produced by the mind's shortcuts, from the founding 1974 paper.
 
@@ -46,6 +47,8 @@ The founding paper's own summary of the program:
 [Embodied cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20cognition): the research programme that moves thinking out of the amodal symbol system and into the body; Barsalou's grounded-cognition manifesto.
 
 [Embedded cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Embedded%20cognition): the thesis that thinking happens against, and is lightened by, the environment the thinker is embedded in.
+- [Situated cognition theory](https://clemvillatte.github.io/flourishing-compendium/#card=Situated%20cognition%20theory): thinking is scaffolded by the situation; tools, places and other people carry part of the cognitive load.
+- [Enactivism](https://clemvillatte.github.io/flourishing-compendium/#card=Enactivism): the family of views treating cognition as something a living body does in its environment, rather than something a brain does with internal representations.
 
 [Distributed cognition extended mind](https://clemvillatte.github.io/flourishing-compendium/#card=Distributed%20cognition%20extended%20mind): the two research programmes that deny the skull as the boundary of thinking; Clark and Chalmers's active externalism.
 
@@ -72,6 +75,9 @@ Spencer-Rodgers and colleagues' definition:
 [Belief as habit](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20as%20habit): Peirce's account in "How to Make Our Ideas Clear": belief as the establishment of a rule of action.
 
 [Belief perseverance effect](https://clemvillatte.github.io/flourishing-compendium/#card=Belief%20perseverance%20effect): beliefs persist after their evidential basis has been removed, in Ross, Lepper and Hubbard's demonstration.
+- [Holding as hypothesis](https://clemvillatte.github.io/flourishing-compendium/#card=Holding%20as%20hypothesis): Peirce's practice — treating a strongly held belief as a proposition to be tested rather than a possession to be defended.
+- [Implicit theories of intelligence](https://clemvillatte.github.io/flourishing-compendium/#card=Implicit%20theories%20of%20intelligence): people's lay beliefs about what intelligence is: a fixed quantity one is born with, or a quality that can be grown — Dweck's model.
+- [Motivated reasoning](https://clemvillatte.github.io/flourishing-compendium/#card=Motivated%20reasoning): Ziva Kunda's 1990 proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes.
 
 [Cognitive dissonance](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20dissonance): Festinger's theory of the mismatch between cognitions and the pressure to reduce it.
 
@@ -106,12 +112,20 @@ Festinger's definition:
 [Cognitive attentional syndrome Wells](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20attentional%20syndrome%20Wells): Wells's name, within his self-regulatory executive function model, for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders.
 
 [Rumination](https://clemvillatte.github.io/flourishing-compendium/#card=Rumination): Nolen-Hoeksema's term for repetitively and passively focusing on one's symptoms and their possible causes and consequences, rather than acting; response styles theory's account of why it travels with depression.
+- [Metacognitive model of anxiety and depression (Wells)](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29): positive and negative metacognitive beliefs maintain worry and rumination — anxiety and depression assigned to a thinking style rather than to thought content.
+- [Worry theory cognitive avoidance Borkovec](https://clemvillatte.github.io/flourishing-compendium/#card=Worry%20theory%20cognitive%20avoidance%20Borkovec): the avoidance theory of worry — predominantly verbal thought functioning as cognitive avoidance in response to threatening images.
+- [Ironic process](https://clemvillatte.github.io/flourishing-compendium/#card=Ironic%20process): Wegner's account of how attempts at thought suppression can backfire.
 
 [Dichotomous (black-and-white) thinking](https://clemvillatte.github.io/flourishing-compendium/#card=Dichotomous%20%28black-and-white%29%20thinking): the habit of sorting events into two opposite boxes: all or nothing, right or wrong, safe or dangerous.
 
 ### Changing thinking
 
 [Cognitive restructuring](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20restructuring): the technique family at the heart of cognitive therapy: helping clients identify, evaluate and correct inaccurate beliefs.
+- [Rational Emotive Behavior Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Rational%20Emotive%20Behavior%20Theory): Albert Ellis's theory of how suffering is made, and how it can be unmade — presented in 1955.
+- [Mindfulness-based cognitive therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness-based%20cognitive%20therapy): a group program for people who have recovered from depression and want to stay well — systematic mindfulness training combined with elements from cognitive therapy.
+- [Decentering](https://clemvillatte.github.io/flourishing-compendium/#card=Decentering): the capacity to observe thoughts and feelings as mental events rather than as the world.
+- [Detached mindfulness theory Wells](https://clemvillatte.github.io/flourishing-compendium/#card=Detached%20mindfulness%20theory%20Wells): a way of responding to a thought within metacognitive therapy: notice it, and do nothing further with it.
+- [Metacognitive therapy (Wells)](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20therapy%20%28Wells%29): shifts the target of treatment from the content of thought to the metacognitive beliefs that keep it going.
 
 [Cognitive reappraisal](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20reappraisal): the emotion-regulation strategy of changing an emotional event's meaning so that the feeling that follows changes; a well-supported antecedent-focused strategy in Gross's model.
 
@@ -134,6 +148,12 @@ Festinger's definition:
 ### Thinking's reach and limits
 
 [Metacognition](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognition): thinking about thinking; Flavell's 1979 article and its four classes of phenomena.
+- [Metacognitive monitoring](https://clemvillatte.github.io/flourishing-compendium/#card=Metacognitive%20monitoring): assessing one's own cognitive activity, including memory and comprehension — Flavell's territory.
+- [Need for cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Need%20for%20cognition): a stable individual difference in how much people engage in and enjoy effortful thinking — Cacioppo and Petty's 1982 construct.
+- [Unconscious thought theory (Dijksterhuis)](https://clemvillatte.github.io/flourishing-compendium/#card=Unconscious%20thought%20theory%20%28Dijksterhuis%29): Dijksterhuis and Nordgren's 2006 account of what the mind does with a problem when attention is elsewhere: unconscious thought as a mode with its own strengths.
+- [The observing self](https://clemvillatte.github.io/flourishing-compendium/#card=The%20observing%20self): Deikman's name for awareness itself — the "I" that witnesses thoughts, feelings and sensations without being identical to any of them.
+- [Moral intuition research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20intuition%20research): asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains — Haidt's 2001 case.
+- [Wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Wisdom): the knowledge and judgment that experience is supposed to leave behind — approached by psychological science along the Berlin expertise line and others.
 
 [Cognitive flexibility](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20flexibility): one of the three core executive functions: the capacity to switch perspectives and adapt to changed circumstances.
 

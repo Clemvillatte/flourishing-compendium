@@ -9,10 +9,20 @@ Verification record for docs/enrichment/dossiers/cognition.md, revision 1.
   and System 2, Rumination, Metacognition, Affect heuristic, Wise
   reasoning — all core to the registry scope "thinking styles, reasoning,
   belief formation, the limits of reason", all carrying CO-principle
-  citations). No further body sweep was run within this session's clock;
-  this is a recorded limit: the map covers the manifest sweep plus the
-  five named stragglers, not a full-text sweep of every card mentioning
-  cognition.
+  citations), followed by a full-text body sweep of the concept cards:
+  every unmapped card with eight or more occurrences of cognition-domain
+  terms was screened (92 candidates), and 20 added on reading (Dual-process
+  theory; Situated cognition theory; Enactivism; Holding as hypothesis;
+  Implicit theories of intelligence; Motivated reasoning; Metacognitive
+  model of anxiety and depression (Wells); Worry theory cognitive
+  avoidance Borkovec; Ironic process; Rational Emotive Behavior Theory;
+  Mindfulness-based cognitive therapy; Decentering; Detached mindfulness
+  theory Wells; Metacognitive therapy (Wells); Metacognitive monitoring;
+  Need for cognition; Unconscious thought theory (Dijksterhuis); The
+  observing self; Moral intuition research; Wisdom). Cards whose hits
+  were incidental to their own subject were screened out. A
+  sentence-level sweep of every card body remains undone — a recorded
+  limit.
 - Every per-entry description is a compressed restatement of the linked
   entry's own opening claim, taken from its content/ file. These are
   inherited map summaries, not newly verified findings; the cards carry
