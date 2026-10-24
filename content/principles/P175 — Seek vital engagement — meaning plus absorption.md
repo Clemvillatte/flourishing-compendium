@@ -20,9 +20,14 @@ Jeanne Nakamura and Mihaly Csikszentmihalyi describe a lasting relationship with
 
 Their waiting-room crossword example explains why absorption alone is insufficient: someone can enjoy the puzzle yet care little when it ends. They also propose that significance can develop through continued involvement. A pursuit need not arrive with its lifelong meaning already settled (pp. 94-97). Their account draws on retrospective interviews with artists and scientists; they acknowledge the limits of those recollections as evidence (p. 87).
 
-**Plain words** Something can hold your attention for an hour without becoming something you care about. With a lasting interest, you also care what happens to the work and want to return to it. That attachment may grow as you learn what the activity makes possible.
+**Plain words**
+Something can hold your attention for an hour without becoming something you care about. With a lasting interest, you also care what happens to the work and want to return to it. That attachment may grow as you learn what the activity makes possible.
 
 *For example:* Consider a programmer volunteering on a clinic's booking system. She tries a debugging shift and a user-support shift, compares how absorbing and worthwhile each felt, then repeats the more promising one. This is a practical experiment in attention and motivation, not a tested intervention.
+
+## Sources
+
+- [Nakamura and Csikszentmihalyi, The Construction of Meaning Through Vital Engagement, archived chapter](https://web.archive.org/web/20240415024146id_/https://timothydavidson.com/Library/Books/Keyes-2003-Flourishing-Positive%20Psychology%20and%20the%20life%20well-lived/04-Nakamura-The%20construction%20of%20meaning%20through%20vital%20engagement.pdf) — definition and retrospective-data limits, p. 87; crossword and developing meaning, pp. 94-97
 
 ## Psychology parallels
 

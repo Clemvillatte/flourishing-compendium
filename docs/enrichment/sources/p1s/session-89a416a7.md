@@ -254,3 +254,5 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - Applied optional, not required, scoped-advisor suggestions: B113 removed “the page cites”; B181 and B190 put Plain words on its own line; B190 states the noticing task directly, without the staged recognition/control contrast; P177 explicitly says emphasis omitted from the Dewey quotation.
 - No quotation words, source claims or protected links/reflections changed in this polish pass. The B012 quote punctuation repair and B141 completed translator gloss are separately documented above.
 - All 30 manifest items received a source/prose review in this pass. B078/B114/B150 needed no page changes and are not counted as rewrites. Independent advisor clearance exists for the first 15 reviewed items only; later own checks are not labelled independent QC.
+
+- Explicit Sources section added to P175 using the already opened, visually pagination-checked archived chapter; Plain words marker normalised. No new fact or locator introduced. Full 30-item validator against 02e14954f passed with zero hard failures before this final source-section addition; per-item validation follows it.
