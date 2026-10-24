@@ -1,5 +1,7 @@
 {
  "batch": "dos7",
- "done": [],
+ "done": [
+  "happiness"
+ ],
  "note": "minted 2026-10-24; one dossier per band; see bands/dos7-manifest.json"
 }
