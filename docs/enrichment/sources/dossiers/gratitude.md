@@ -65,7 +65,8 @@ Inclusions and exclusions with reasons, recorded for the supervisor:
 
 Coverage record: a zone-aware audit script classified all 178
 candidate files by whether their gratitude matches fall in body
-text or in backlink/source zones; automated classification totals:
+text or in backlink/source zones; provisional automated
+classification totals (not reviewed-file totals):
 154 files with body-evidence matches, 24 backlink-only, 0 files
 left unclassified. The body-matching fragments were read before the
 inclusion decisions below, but the classification is automated, so
