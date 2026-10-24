@@ -158,3 +158,10 @@ Advisor `p1s_silence_breathing_aims_milestone_qc_mvlyf10r`: scoped PASS B172/B19
 - Retained main quote and checking-sensings quote are verbatim. PDF's own page markers place the earlier “as if” distinction on p. 2 and the current account on p. 3. No quotation punctuation changed.
 - Fresh Plain words distinguishes the speaker's experience from the listener's familiar imagined reaction. The illustrative friend's unexpected relief permits genuine correction: two possible readings, speaker feedback, and retaining receptiveness supply variation/selection/retention.
 - Added a direct source section. No modern treatment-efficacy claim inferred from the 1975 review; inherited parallels and reflections remain outside this certification.
+
+## B096: hearing feedback without making it the whole verdict
+
+- Opened unprompted in full: [AN 8.6](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html) and [SN 46.51](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html). The main welcoming/rebelling quote and the inconstant/stressful/subject-to-change fragment are verbatim.
+- Condensed the previously long paraphrase, supplied direct citations, and restored the discourse's full liberation/rebirth context without claiming an ordinary feedback exercise reaches it.
+- Kept the already fresh Plain words. Replaced the incomplete recital illustration with alternative responses to mixed feedback, selecting an actionable question and retaining it in future presentations. No promised emotion regulation or clinical outcome.
+- Inherited Desbordes/Gross and Aristotle/Epictetus parallels and reflections are not certified.

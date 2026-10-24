@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 96** — Practice even-mindedness toward all experience (equanimity as faculty)
 
-AN 8.6 sets the problem as the eight worldly conditions that spin after the world: gain, loss, status, disgrace, censure, praise, pleasure and pain. Both the uninstructed person and the well-instructed disciple meet all eight. The difference is what the mind does with them: the uninstructed person welcomes the arisen gain and rebels against the arisen loss, while the instructed disciple, reflecting that each is "inconstant, stressful, & subject to change", does not welcome or rebel, and his mind does not remain consumed with it. (AN 8.6.) SN 46 lists equanimity among the seven factors for awakening. (SN 46.51.)
+[AN 8.6](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html) names eight worldly conditions: gain, loss, status, disgrace, censure, praise, pleasure and pain. Both the uninstructed person and the well-instructed disciple meet them. The distinction concerns how each responds:
 
 > "He welcomes the arisen gain and rebels against the arisen loss. He welcomes the arisen status and rebels against the arisen disgrace. He welcomes the arisen praise and rebels against the arisen censure. He welcomes the arisen pleasure and rebels against the arisen pain." (AN 8.6, [Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html))
 
-The compendium adapts the disciple's reflection into an exercise for responding to praise and criticism.
+The [disciple reflects](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html) that each condition is "inconstant, stressful, & subject to change"; his mind does not remain consumed with it. The discourse places this within release from suffering and rebirth. [SN 46.51](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html) separately names equanimity as a factor for awakening. The following exercise adapts this teaching to receiving feedback; it makes no claim to that attainment.
 
 **Plain words**
 Praise can invite you to build your day around being admired; criticism can make the whole day seem spoiled. An everyday application of even-mindedness is to hear either without handing it the whole of your attention. What happened still deserves a response. The question is whether welcome and resentment have taken over the responding.
 
-*For example:* Imagine your child missing a note at a recital. You notice your disappointment and keep listening to the next part of the piece.
+For example: A colleague praises your presentation but says the central chart was unclear. You could dismiss the criticism or let it erase the praise. Instead, ask which part was hard to follow and revise it. At the next presentation, keep that habit of finding a usable detail in feedback without making the whole evaluation a verdict on you.
 
 ## Sources
 
