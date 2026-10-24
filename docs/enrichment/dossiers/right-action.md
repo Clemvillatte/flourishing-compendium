@@ -137,7 +137,7 @@ Aristotle's account of virtue of character holds that character is formed by doi
 
 [Ethics as foundation](https://clemvillatte.github.io/flourishing-compendium/#card=Ethics%20as%20foundation): Johnston's reading of Yoga Sūtra II.29, the Commandments, non-injury, truthfulness, abstention from stealing and the rest, placed before the Rules; conduct as the foundation of practice.
 
-## Where the traditions genuinely disagree
+## Related questions and parallels
 
 ### Can knowledge coexist with failure to act?
 
@@ -149,11 +149,11 @@ Wang Yangming's doctrine of the unity of knowledge and action holds the same sha
 
 > "There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)): Scholarly reference; quoted passages checked.
 
-Aristotle takes the other side:
+Aristotle, in the same discussion, calls the plain facts against him:
 
 > "With all due respect to Socrates, his account of the matter is at variance with plain facts, and we must enquire with respect to the affection, if it be caused by ignorance what is the nature of the ignorance: for that the man so failing does not suppose his acts to be right before he is under the influence of passion is quite plain." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): Primary text; quoted passages checked.
 
-Aristotle's resolution, two chapters on, moves part of the way back toward Socrates:
+Aristotle's resolution, later in Book VII, moves part of the way back toward Socrates:
 
 > "the result which Socrates was seeking comes out, that is to say, the affection does not take place in the presence of that which is thought to be specially and properly Knowledge, nor is this dragged about by reason of the affection, but in the presence of that Knowledge which is conveyed by Sense." ([Aristotle, Nicomachean Ethics VII.3, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): Primary text; quoted passages checked.
 
@@ -161,7 +161,7 @@ Wang's knowledge, as the reference article presents it, is knowing how to respon
 
 > "For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)): Scholarly reference; quoted passages checked.
 
-The confrontation is real: Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls the plain facts against him. What remains open is the fit between the two sides' terms, whether Wang's knowing-how is Aristotle's Knowledge proper, which passion cannot suspend, or the sense-conveyed knowing that it can; the wiki holds materials on both sides, the spontaneous-right-action card with Socrates and Wang, the virtue-rehearsal kernels with Aristotle, and does not settle it.
+Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls the plain facts against him, then moves part of the way back with the resolution above. What remains open is the fit between the two sides' terms, whether Wang's knowing-how is Aristotle's Knowledge proper, which passion cannot suspend, or the sense-conveyed knowing that it can; the wiki holds materials on both sides, the spontaneous-right-action card with Socrates and Wang, the virtue-rehearsal kernels with Aristotle, and records the pair as a related question rather than a settled disagreement.
 
 ## Practice: variation, selection, retention
 
@@ -205,4 +205,4 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### Rules and situations
 
-[ST384 — The Tree Is Spared; the Goose Is Killed](https://clemvillatte.github.io/flourishing-compendium/#card=ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): in the card's telling, a tree is spared because its wood is useless and a goose is killed because it cannot cackle; Zhuangzi's answer to his disciples challenges both a fixed strategy and a supposedly safe midpoint, a rule that protects in one setting may fail in the next.
+[ST384 — The Tree Is Spared; the Goose Is Killed](https://clemvillatte.github.io/flourishing-compendium/#card=ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is good for nothing and a goose is killed because it cannot cackle; asked which condition he would prefer, Zhuangzi laughs that he would rest halfway between the two, and that even that position cannot avoid trouble, a rule that protects in one setting may fail in the next.

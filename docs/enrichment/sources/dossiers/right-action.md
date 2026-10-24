@@ -2,7 +2,7 @@
 
 Verification record for docs/enrichment/dossiers/right-action.md, revision 1.
 Every quoted fragment in this dossier was fetched and read from its carrier
-during this session (2026-10-24, ~07:41–07:50 UTC, per session clock readings: baton claimed ~07:41Z, pass 1 pushed just before the 07:42:26Z reading, pass 2 just before the 07:45:17Z reading, pass 3 just before the 07:48:11Z reading, pass 4 just before the 07:50:38Z reading) with the page-open tool. A monotonic reading was taken fresh alongside the 07:47:32Z UTC reading (time.monotonic_ns = 1413709370965, about 1414 seconds since sandbox boot); recorded as a new observation, not a T0 reset; the original run_clock file's date +%s%N value is a realtime reading, not monotonic, and is labelled as such here. A second fresh pair was appended to the workspace run_clock file alongside the 07:50:38Z UTC reading (time.monotonic_ns = 1600365944516, about 1600 seconds since sandbox boot).
+during this session (2026-10-24, ~07:41–07:50 UTC, per session clock readings: baton claimed ~07:41Z, pass 1 pushed just before the 07:42:26Z reading, pass 2 just before the 07:45:17Z reading, pass 3 just before the 07:48:11Z reading, pass 4 just after the 07:50:38Z reading, at 07:50:54Z) with the page-open tool. A monotonic reading was taken fresh alongside the 07:47:32Z UTC reading (time.monotonic_ns = 1413709370965, about 1414 seconds since sandbox boot); recorded as a new observation, not a T0 reset; the original run_clock file's date +%s%N value is a realtime reading, not monotonic, and is labelled as such here. A second fresh pair was appended to the workspace run_clock file alongside the 07:50:38Z UTC reading (time.monotonic_ns = 1600365944516, about 1600 seconds since sandbox boot).
 and every quoted passage was then re-verified against raw, unprompted
 carrier text (direct fetch of each carrier URL, tags stripped, whitespace
 normalised, substring check). All ten quoted passages are FULL MATCH
@@ -79,6 +79,19 @@ so the verse is now paraphrased at word level without quotation marks
 (his verses give the name as Doer of No Harm...). The "once & for all"
 inline quotation remains, verified verbatim against MN 86.
 
+## Pass 5 (final qualification pass)
+
+Per the advisor's round-4 review: the section heading was renamed
+"Related questions and parallels" (the Wang/Socrates/Aristotle
+material is presented as a related question with the disagreement
+research marked unfinished, not as an established contradiction);
+"Aristotle takes the other side" and "The confrontation is real" were
+removed; "two chapters on" became "later in Book VII"; the ST384
+logline's narrative was verified against the Giles translation
+(Wikisource, opened this pass) and the hedge removed. The ledger's
+stale 54-link audit paragraph and the pass-4 timing were corrected
+after reading back the file.
+
 ## Card read correction
 
 Moral situation research was excluded in pass 3 as "card body empty";
@@ -121,9 +134,9 @@ pointing at the speech factor.
 
 ## Card links
 
-Every #card= target on the page (54 link instances) was verified against
-actual content/ file names by the dossier checker (scripts/
-dossier_check.py exit 0: "54 card links resolve").
+Every #card= target on the page was verified against actual content/
+file names by the dossier checker at each pass (pass 1: 54 links; the
+current pass 5 file: 64 links; scripts/dossier_check.py exit 0 at each).
 
 ## Practice section
 
@@ -157,10 +170,18 @@ within the compendium's general retention framing.
   tool and two direct fetches; returns a 1934-byte shell with no
   content). Fallback carriers attempted and failed: sacred-texts.com
   Zhuangzi pages (HTTP 403 from this sandbox) and terebess.hu (index
-  loads but the chapter link is not exposed). Precise limitation
-  recorded; the logline now opens "in the card's telling" and asserts
-  no carrier-verified narrative. FLAGGED for the supervisor, who may
-  verify against ctext from a different network.
+  loads but the chapter link is not exposed). Pass 5 then searched for
+  a published translation and opened one: Chuang Tzu, Giles
+  translation, Chapter 20, on Wikisource (en.wikisource.org/wiki/
+  Chuang_Tz%C5%AD_(Giles)/Chapter_20), read in full. The narrative
+  details are verified against it: the huge tree "by virtue of being
+  good for nothing succeeds in completing its allotted span"; the
+  servant told "to kill the one which did not cackle"; Chuang Tzu "I
+  rest... halfway between the two. In that position... it is impossible
+  to avoid the troubles of mortality". The logline now states the
+  narrative without the "in the card's telling" hedge. The ctext link
+  on the seed card remains unverified from this sandbox and is
+  FLAGGED for the supervisor as a minor carrier-link note only.
 
 ## Exhaustiveness sweep (pass 3, untruncated)
 
