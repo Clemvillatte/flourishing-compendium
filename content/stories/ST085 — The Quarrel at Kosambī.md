@@ -8,9 +8,9 @@ tags: ["topic/ethics"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.07 — II.7 Ethics and Relations", "parent": ""}
 ---
-*Buddhist biographical narrative · India, 5th century BCE · [Kosambī Sutta, AN 3.123](https://www.accesstoinsight.org/tipitaka/an/an03/an03.123.than.html)*
+*Buddhist biographical narrative · India, 5th century BCE · [Vinaya Mahāvagga 10, the Chapter on the Kosambī Monks (Thanissaro excerpt)](https://www.dhammatalks.org/books/NobleWarrior/Section0018.html)*
 
-Monks at Kosambī quarrel over a point of monastic rule, hardening into two factions. The Buddha tries twice to reconcile them and is told to mind his own business. He leaves. The quarrel continues, the community's lay supporters withdraw alms, and the factions, starved and chastened, eventually come to him. The tradition adds that the reconciliation was followed by a formal ceremony in which each side acknowledged fault.
+Monks at Kosambī quarrel over a point of monastic rule, hardening into two factions. The Buddha tries three times to reconcile them and is told the monks will settle it themselves. He leaves. The quarrel continues, the community's lay supporters refuse them alms, and the factions, starved and chastened, eventually set out to settle the issue in his presence.
 
 The episode is preserved because it shows the founder's limits, which is itself the teaching. Reconciliation could not be imposed on the parties; the conditions for it had to fail first, and the Buddha's withdrawal was the intervention.
 
