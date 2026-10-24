@@ -3655,7 +3655,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 15,
-          "x": "[Future-self dialogue](card:K322%20%E2%80%94%20Future-self%20dialogue): a letter from your self ten years out, about the decision you are facing; the complete-life question asked from the far end."
+          "x": "[Future-self dialogue](card:K322%20%E2%80%94%20Future-self%20dialogue): a letter from your self ten years out, about the decision you are facing; the kernel carries the Ersner-Hershfield future-self-continuity research, with the authors' own caution that the causal direction is unspecified."
         },
         {
           "t": "n",
@@ -3669,12 +3669,132 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The evidence limits are uneven across the list. The evening examination is a Stoic practice whose value is in the tradition and not in trials; the future-self dialogue carries the Hershfield line of research; the chain technique spread from a developer's account and not from a study. The other kernels carry their own evidence notes on their cards, and those notes are worth reading before relying on any of them."
+          "x": "The evidence limits are uneven across the list. The evening examination is a Stoic practice whose kernel cites the self-reflection research; the future-self dialogue carries the Ersner-Hershfield future-self-continuity research, with the authors' own caution that the causal direction is unspecified; the chain technique spread from a developer's account and not from a study. The other kernels carry their own evidence notes on their cards, and those notes are worth reading before relying on any of them."
         },
         {
           "t": "vs",
           "l": "Retention",
           "x": "Retention is what people keep because it works for them. A reader who keeps the eulogy, or the enough line, or the monthly audit has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "What the good life is: the classical accounts"
+        },
+        {
+          "t": "p",
+          "x": "[ST143 — Solon and Croesus](card:ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus, king of Lydia, shows Solon his treasury and asks who is the happiest of men, expecting to hear his own name; Solon names Tellus of Athens, and holds that no one is counted happy until the end."
+        },
+        {
+          "t": "p",
+          "x": "[ST173 — Aristotle's Answer](card:ST173%20%E2%80%94%20Aristotle%27s%20Answer): asked what he had gained from philosophy, Aristotle answers that he does without being ordered what others do from fear of the laws."
+        },
+        {
+          "t": "p",
+          "x": "[ST147 — Hercules at the Crossroads](card:ST147%20%E2%80%94%20Hercules%20at%20the%20Crossroads): two women offer Hercules the easy road of pleasure without labour or the steep road of toil and lasting deeds; he chooses the steep one."
+        },
+        {
+          "t": "h2",
+          "x": "What the science took from it"
+        },
+        {
+          "t": "p",
+          "x": "[ST297 — Ryff's Six Dimensions](card:ST297%20%E2%80%94%20Ryff%27s%20Six%20Dimensions): Ryff's paper asks whether happiness is everything, answers no, and proposes six dimensions of well-being drawn from Aristotle, Mill and humanistic psychology."
+        },
+        {
+          "t": "p",
+          "x": "[ST136 — Seligman Renames the Target](card:ST136%20%E2%80%94%20Seligman%20Renames%20the%20Target): Seligman, who had launched positive psychology around the measurement of happiness, announces in Flourish that it was the wrong target and replaces it with PERMA, each part measurable on its own."
+        },
+        {
+          "t": "p",
+          "x": "[ST303 — Broaden and Build](card:ST303%20%E2%80%94%20Broaden%20and%20Build): Fredrickson's broaden-and-build theory gives positive emotions a job beyond feeling good: negative emotions narrow attention to the threat, positive emotions broaden the repertoire and build durable resources; joy prompts play, interest prompts exploration."
+        },
+        {
+          "t": "h2",
+          "x": "What gets mistaken for it"
+        },
+        {
+          "t": "p",
+          "x": "[ST035 — Ivan Ilyich's Question](card:ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): a judge has lived the life that everyone around him considers correct — career, propriety, a well-furnished house — and on his deathbed the question arrives: what if the whole of it was wrong?"
+        },
+        {
+          "t": "p",
+          "x": "[ST171 — Soma](card:ST171%20%E2%80%94%20Soma): in the World State the citizens receive soma, a euphoric with no hangover, conditioned from birth to take it at any discomfort — pleasant affect as the whole answer to the question of a life."
+        },
+        {
+          "t": "p",
+          "x": "[ST298 — The Positivity Ratio Falls](card:ST298%20%E2%80%94%20The%20Positivity%20Ratio%20Falls): the 3:1 positivity ratio was popular because it was actionable and wrong because the maths did not support it; the correction came from outside the field."
+        },
+        {
+          "t": "h2",
+          "x": "Meaning, purpose and the hard parts"
+        },
+        {
+          "t": "p",
+          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island breaking rocks — the story of what a long confinement is made of, and what it is for."
+        },
+        {
+          "t": "p",
+          "x": "[ST193 — Stockdale and the Epistle](card:ST193%20%E2%80%94%20Stockdale%20and%20the%20Epistle): a naval aviator spends seven and a half years as a POW, four in solitary, repeatedly tortured, and credits Epictetus — the Enchiridion's teachings on what is and is not in one's power — with his survival: literally a manual for the cell."
+        },
+        {
+          "t": "p",
+          "x": "[ST279 — Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): in Frankl's account of the camps, the prisoners who kept a reason to live, a person to return to or a work to finish, endured differently, a claim he limits: most of those he described died; the freedom to choose one's attitude is the last of the human freedoms."
+        },
+        {
+          "t": "p",
+          "x": "[ST277 — Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): the gods meant the endless boulder as the worst punishment; Camus concludes that the struggle itself toward the heights is enough to fill a man's heart."
+        },
+        {
+          "t": "p",
+          "x": "[ST322 — Post-Traumatic Growth](card:ST322%20%E2%80%94%20Post-Traumatic%20Growth): Tedeschi and Calhoun study people who have lived through major crises and find what the pathology framework did not predict: reported positive change in five domains, from appreciation of life to spiritual change."
+        },
+        {
+          "t": "h2",
+          "x": "The conditions: other people, society and freedom"
+        },
+        {
+          "t": "p",
+          "x": "[ST144 — Dorothea Brooke and the Unhistoric Acts](card:ST144%20%E2%80%94%20Dorothea%20Brooke%20and%20the%20Unhistoric%20Acts): an idealistic young woman marries a desiccated scholar, and the marriage is a study in misjudgement; Eliot's final judgement is the novel's gift — the growing good of the world is partly dependent on unhistoric acts, on the number who lived faithfully a hidden life and rest in unvisited tombs."
+        },
+        {
+          "t": "p",
+          "x": "[ST316 — How You Respond to Good News](card:ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News): Gable, Reis, Impett and Asher ask what people do when things go right, and identify four responses to a partner's good news; the first response, they find, is the relationship's business."
+        },
+        {
+          "t": "p",
+          "x": "[ST107 — Jane Addams Moves In](card:ST107%20%E2%80%94%20Jane%20Addams%20Moves%20In): Addams rents a mansion on Halsted Street; she does not arrive with a programme, she arrives with a residence, and the programmes come from what the neighbours ask for."
+        },
+        {
+          "t": "p",
+          "x": "[ST226 — Mandela Invites the Jailer](card:ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on inauguration day Mandela invites his former Robben Island warders to attend as honoured guests; the new country is to be built on recognition rather than revenge."
+        },
+        {
+          "t": "h2",
+          "x": "How it is built: growth and practice"
+        },
+        {
+          "t": "p",
+          "x": "[ST001 — Cook Ding and the Ox](card:ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): Cook Ding has carved oxen for nineteen years and his blade is still as sharp as if it had just left the whetstone; he never cuts through bone or forces his way through flesh — he reads the natural openings between the joints, and at a difficult knot slows down and moves with as little force as the job allows."
+        },
+        {
+          "t": "p",
+          "x": "[ST222 — Phil Connors Practises](card:ST222%20%E2%80%94%20Phil%20Connors%20Practises): trapped in a repeating day, Phil Connors runs through indulgence, despair and manipulation before the long middle of daily practice, piano, French, small kindnesses, done with no audience."
+        },
+        {
+          "t": "p",
+          "x": "[ST184 — Franklin's Little Book](card:ST184%20%E2%80%94%20Franklin%27s%20Little%20Book): Franklin's little book gives each of thirteen virtues a page and a week, marking faults with black spots; he never became perfect, and the practice, not the perfection, was the gain."
+        },
+        {
+          "t": "p",
+          "x": "[ST397 — Hokusai Asks for Five More Years](card:ST397%20%E2%80%94%20Hokusai%20Asks%20for%20Five%20More%20Years): at seventy-five by Japanese counting, Hokusai prints a plan for the decades ahead, at ninety to see further into the underlying principles of things, at a hundred and ten every dot and every stroke as though alive."
         }
       ],
       "group": "flourishing",
@@ -5594,6 +5714,78 @@ window.fcDossiersData = {
           "t": "vs",
           "l": "Retention",
           "x": "Retention is what people keep because it works for them. A reader who keeps the evening look back, or the habit of asking before assuming, or the three-day wait, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "Knowing the limits of what you know"
+        },
+        {
+          "t": "p",
+          "x": "[ST152 — Socrates and the Oracle](card:ST152%20%E2%80%94%20Socrates%20and%20the%20Oracle): the oracle at Delphi says no one is wiser than Socrates; he spends years questioning politicians, poets and craftsmen, and finds each believes they know what they do not."
+        },
+        {
+          "t": "p",
+          "x": "[ST378 — Wang Ni Says How Would I Know That Three Times](card:ST378%20%E2%80%94%20Wang%20Ni%20Says%20How%20Would%20I%20Know%20That%20Three%20Times): asked whether he knows what everyone agrees on, Wang Ni answers \"How would I know that?\"; asked whether he then knows nothing at all, he gives the same reply."
+        },
+        {
+          "t": "p",
+          "x": "[ST261 — Nan-in Overflows the Cup](card:ST261%20%E2%80%94%20Nan-in%20Overflows%20the%20Cup): a professor visits Nan-in to learn about Zen, and the master keeps pouring tea until the cup overflows: like this cup, you are full of your own opinions."
+        },
+        {
+          "t": "p",
+          "x": "[ST370 — The Blind Men and the Elephant](card:ST370%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): people blind from birth are shown different parts of an elephant, each group describes the whole animal from its part, and the conflicting descriptions end in a fistfight."
+        },
+        {
+          "t": "h2",
+          "x": "Judging the particular case"
+        },
+        {
+          "t": "p",
+          "x": "[ST158 — Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant; Solomon orders it cut in two, one woman says give it to her and do not kill it, and he awards the child to her."
+        },
+        {
+          "t": "p",
+          "x": "[ST157 — The Doctor and the Dose](card:ST157%20%E2%80%94%20The%20Doctor%20and%20the%20Dose): the doctor does not prescribe one regimen to everyone: what is healthful for the athlete may harm the convalescent, so the mean is what is right for this person, in this condition, at this time."
+        },
+        {
+          "t": "p",
+          "x": "[ST156 — The Navigator Reads the Sea](card:ST156%20%E2%80%94%20The%20Navigator%20Reads%20the%20Sea): the practically wise person is like a navigator who cannot control the wind or the sea but reads the conditions, adjusts the sails and reaches port anyway."
+        },
+        {
+          "t": "p",
+          "x": "[ST153 — Aristotle's Craftsman](card:ST153%20%E2%80%94%20Aristotle%27s%20Craftsman): the doctor does not apply a rule to a body; he brings together knowledge of the patient, the disease, the season and the means, and adjusts."
+        },
+        {
+          "t": "p",
+          "x": "[ST024 — Wheelwright Pian Chides the Duke](card:ST024%20%E2%80%94%20Wheelwright%20Pian%20Chides%20the%20Duke): Wheelwright Pian tells Duke Huan that he is reading the dregs of dead men: the pace of the chisel, neither too slow nor too fast, cannot be put into words or taught to a son."
+        },
+        {
+          "t": "h2",
+          "x": "Wisdom and a whole life"
+        },
+        {
+          "t": "p",
+          "x": "[ST143 — Solon and Croesus](card:ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus shows Solon his treasury and asks who is the happiest of men; Solon names an Athenian who died fighting for his city and concludes that no one should be called happy until he is dead."
+        },
+        {
+          "t": "p",
+          "x": "[ST141 — Socrates Refuses to Escape the Question](card:ST141%20%E2%80%94%20Socrates%20Refuses%20to%20Escape%20the%20Question): offered an escape from prison, Socrates refuses it: one should never do injustice, not even in return for injustice."
+        },
+        {
+          "t": "p",
+          "x": "[ST147 — Hercules at the Crossroads](card:ST147%20%E2%80%94%20Hercules%20at%20the%20Crossroads): the young Hercules is visited by two women, one offering the easy road of pleasure now, the other the steep road of toil and lasting deeds, and he chooses the second."
+        },
+        {
+          "t": "p",
+          "x": "[ST172 — Thales Falls in the Well](card:ST172%20%E2%80%94%20Thales%20Falls%20in%20the%20Well): Thales falls into a well while watching the stars and a servant girl laughs at him for being so eager to know the heavens that he cannot see what is at his feet."
         }
       ],
       "group": "flourishing",
@@ -5603,12 +5795,12 @@ window.fcDossiersData = {
     {
       "id": "affect",
       "title": "Affect: the domain of feeling, and what can be done with it",
-      "question": "When the feelings are already here — what are they made of, how are they mapped, and how much of them can be worked with?",
+      "question": "What is an emotion made of, and what is it telling the person who feels it?",
       "intro": [],
       "blocks": [
         {
           "t": "p",
-          "x": "Affect is the half of psychology that arrives before thinking: moods, emotions, visceral pulls, the weather of the inner life. This dossier is the map of everything the compendium holds on that domain, from the classic questions — does the body run ahead of the feeling (James-Lange), are emotions universal packages (Ekman) or constructed interpretations (Russell, Barrett) — to the practical programmes that treat feeling as something regulable, differentiable, and shared between people. The Attention and Cognition dossiers cover what awareness selects and what thinking does; this one covers the material both of them work on."
+          "x": "This page groups the compendium's entries on feelings, moods and emotion: their structure, their change over time, their regulation, and their transmission between people. It runs from the classic questions — does the body run ahead of the feeling (James-Lange), are emotions universal packages (Ekman) or built from dimensions and interpretation (Russell, Barrett) — to the practical programmes that treat feeling as something regulable, differentiable and shared. The Attention and Cognition dossiers cover what awareness selects and what thinking does; this one covers the material both of them work on."
         },
         {
           "t": "p",
@@ -5620,7 +5812,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- [Affect](card:Affects) is the umbrella term; [Emotion](card:Basic%20emotion%20theory) is one family of affect theory. - The Cognition dossier's [Affect heuristic](card:Affect%20heuristic) entry maps the same-named card from the judgment side; both are listed here. - Feelings that arrive without an object shade into [Attention](card:Attention), whose dossier covers the selection of what is felt. - The contribution of feeling to a life going well is treated in the flourishing dossiers — see [Common flourishing](card:Common%20flourishing) and [Eudaimonic well-being](card:Eudaimonic%20well-being)."
+          "x": "- [Affects](card:Affects) is the Spinoza card defining the term, mapped below. - [Basic emotion theory](card:Basic%20emotion%20theory) and [Circumplex model of affect](card:Circumplex%20model%20of%20affect) are the two sides of the divergence mapped below; [Theory of constructed emotion](card:Theory%20of%20constructed%20emotion) extends the second side. - The Cognition dossier's [Affect heuristic](card:Affect%20heuristic) entry maps the same-named card from the judgment side; both are listed here. - The contribution of feeling to a life going well is treated in the flourishing dossiers — see [Common flourishing](card:Common%20flourishing) and [Eudaimonic well-being](card:Eudaimonic%20well-being)."
         },
         {
           "t": "h",
@@ -5632,111 +5824,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- [Affects](card:Affects): Spinoza's Ethics defines an affect as a state of the body's power of acting, increased or lessened, together with the idea of that state — the feeling as a fact about capacity. - [James-Lange theory of emotion](card:James-Lange%20theory%20of%20emotion): William James's 1884 proposal that the perception comes first, the bodily change second, and the emotion is the feeling of that change — the body runs ahead of the feeling. - [Emotion as construction](card:Emotion%20as%20construction): the compendium's Nietzsche label — The Gay Science 290, giving one's character the look of an affect — emotional life as something a person works on rather than merely undergoes. - [Emotions as judgments](card:Emotions%20as%20judgments): the Stoic-cognitivist line — anger at someone is the judgment that one has been wronged by them. - [Fellow feeling](card:Fellow%20feeling): the eighteenth-century sentimentalist name for the tendency to catch others' emotions; Hume's sympathy as the mechanism of Book III of the Treatise. - [Distinguishing feeling from fact](card:Distinguishing%20feeling%20from%20fact): the Stoic distinction between things and judgements about them, applied to feelings and their interpretations."
-        },
-        {
-          "t": "h2",
-          "x": "How the feelings are structured"
-        },
-        {
-          "t": "p",
-          "x": "- [Basic emotion theory](card:Basic%20emotion%20theory): a small number of emotions — anger, fear, disgust, sadness, enjoyment — as universal, biologically grounded, distinct in expression and function; Ekman's families of related states. - [Circumplex model of affect](card:Circumplex%20model%20of%20affect): Russell's 1980 alternative to the list — two axes, valence and activation, every emotional state a point in the plane. - [Embodied emotion theory](card:Embodied%20emotion%20theory): emotional processing draws on re-enactments of affective, sensory and motor states — the feeling rebuilt from the body's records. - [Component Process Model of Emotion](card:Component%20Process%20Model%20of%20Emotion): Scherer's account of emotion as an episode of synchronized change produced by a sequence of appraisal checks. - [Functional accounts of emotion](card:Functional%20accounts%20of%20emotion): the family of theories — Keltner and Gross the framing — that explain emotions by what they do. - [Positive emotions research](card:Positive%20emotions%20research): Fredrickson's broaden-and-build programme — positive emotion widens the momentary thought-action repertoire and builds lasting resources. - [Mixed emotions theory Miyamoto](card:Mixed%20emotions%20theory%20Miyamoto): Japan and the United States compared on how readily opposites are felt together. - [Emotional granularity](card:Emotional%20granularity) and [Emotion differentiation](card:Emotion%20differentiation): how finely a person distinguishes among their own feelings — the fineness that predicts better regulation. - [Emotion awareness](card:Emotion%20awareness): Lane and Schwartz's five structural levels of the ability to process emotion — a cognitive-developmental ladder."
-        },
-        {
-          "t": "h2",
-          "x": "Feeling as a moving target"
-        },
-        {
-          "t": "p",
-          "x": "- [Affective chronometry](card:Affective%20chronometry): Davidson's study of the temporal profile of emotional response — how fast an emotion rises, how long it lasts. - [Affective dynamics framework](card:Affective%20dynamics%20framework): emotion as a time series rather than a score — the average matters, and so does the fluctuation. - [Emotional inertia theory](card:Emotional%20inertia%20theory): how strongly earlier emotional states predict later ones — the resistance to emotional change. - [Fading affect bias](card:Fading%20affect%20bias): memory's quiet mercy — the intensity of unpleasant events fades faster than that of pleasant ones. - [Affective forecasting](card:Affective%20forecasting): Wilson and Gilbert's account of predictions about one's own future feelings, and the errors they reliably contain. - [Anticipatory affect](card:Anticipatory%20affect): Loewenstein's visceral factors — the feeling state that arrives before the outcome and bends decisions. - [Mood-congruent memory](card:Mood-congruent%20memory): Bower's 1981 family of hypotheses — affect biases recall toward affectively congruent material."
-        },
-        {
-          "t": "h2",
-          "x": "What feeling does to thinking"
-        },
-        {
-          "t": "p",
-          "x": "- [Affect as information](card:Affect%20as%20information): Schwarz's feelings-as-information account — people consult their current feelings when judging, as in the sunny-day life-satisfaction result. - [Affect heuristic](card:Affect%20heuristic): Finucane, Alhakami, Slovic and Johnson's term for the finding that feelings about an object drive judgments of its risk and benefit — the inverse relation the world does not have. - [Affect labeling](card:Affect%20labeling): putting a feeling into words as it occurs — the 2007 neuroimaging result that labeling reduces amygdala reactivity. - [Moral emotions](card:Moral%20emotions): Tangney and colleagues' review — the emotions that link moral standards to moral behavior. - [Affective disposition theory](card:Affective%20disposition%20theory): Zillmann and Cantor's account of media enjoyment — we like seeing liked characters succeed and disliked ones suffer."
-        },
-        {
-          "t": "h2",
-          "x": "Regulating and shaping feeling"
-        },
-        {
-          "t": "p",
-          "x": "- [Emotion regulation](card:Emotion%20regulation): Gross's definition — the processes by which we influence which emotions we have, when we have them, and how we experience and express them. - [Process model of emotion regulation Gross](card:Process%20model%20of%20emotion%20regulation%20Gross): the five points of regulation — situation selection, situation modification, attentional deployment, cognitive change, response modulation. - [Extended process model of emotion regulation](card:Extended%20process%20model%20of%20emotion%20regulation): the later Gross — regulation as something you decide to do: noticing, choosing, carrying out. - [Mid-level emotion regulation](card:Mid-level%20emotion%20regulation): the strategies deployed in the moment, which the evidence favors over suppression and venting. - [Emotional suppression theory Butler Gross](card:Emotional%20suppression%20theory%20Butler%20Gross): instructed suppression raising blood pressure in regulators and partners — suppression as a cost paid socially. - [Dialectical behaviour therapy, emotion modulation](card:Dialectical%20behaviour%20therapy%2C%20emotion%20modulation): Linehan's skills module for emotions that fire easily, hit hard and take long to subside. - [Action precedes feeling](card:Action%20precedes%20feeling) and [Action before feeling](card:Action%20before%20feeling): the double tradition — Aristotle's virtues acquired by doing the acts, and James's body moving before the feeling forms. - [Ideal affect theory Tsai](card:Ideal%20affect%20theory%20Tsai): affect valuation theory — cultures differ in the emotions they value and want to feel; people act to move toward their ideal affect."
-        },
-        {
-          "t": "h2",
-          "x": "Feeling between people"
-        },
-        {
-          "t": "p",
-          "x": "- [Emotional contagion](card:Emotional%20contagion): Hatfield's moment-to-moment transmission between people in contact, and Christakis and Fowler's network patterns of mood and behavior. - [Group affective synchronisation](card:Group%20affective%20synchronisation): Barsade's group emotional contagion — the transfer of moods among people in a group and its influence on group dynamics. - [Co-regulation of affect in relationships](card:Co-regulation%20of%20affect%20in%20relationships): Butler and Randall's dyadic emotional system — partners regulating each other's affect rather than only their own."
-        },
-        {
-          "t": "h2",
-          "x": "Sayings"
-        },
-        {
-          "t": "p",
-          "x": "- [Beware the moods of the many](card:Beware%20the%20moods%20of%20the%20many): the group-affect warning — moods move through crowds, and the crowd's mood is not a verdict."
-        },
-        {
-          "t": "h2",
-          "x": "Kernels"
-        },
-        {
-          "t": "p",
-          "x": "- [Low emotional response](card:K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; calm is contagious in both directions. - [Affect labeling](card:K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not \"stressed\" but \"tight chest, dread, buzzing\"; fine-grained labeling reduces amygdala reactivity. - [Feeling-tone pass](card:K160%20%E2%80%94%20Feeling-tone%20pass): three times daily, name the tone of the moment as pleasant, unpleasant or neutral, before any story about it. - [Emotional writing](card:K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four days in a row, unedited — the act of putting experience into language reducing its intensity. - [Body-first emotion work](card:K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body — tension, temperature, texture; the body often knows first."
-        },
-        {
-          "t": "h",
-          "x": "Where the traditions genuinely disagree"
-        },
-        {
-          "t": "h2",
-          "x": "Is an emotion a universal package, or a construction?"
-        },
-        {
-          "t": "p",
-          "x": "The field's oldest live disagreement. The basic-emotion line, in Paul Ekman's 1993 statement of the research programme:"
-        },
-        {
-          "t": "q",
-          "x": "\"We each found high agreement across members of diverse Western and Eastern literate cultures in selecting emotion terms that fit facial expressions.\" \"Distinctive universal expressions have been identified for anger, fear, disgust, sadness, and enjoyment.\"",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": ">"
-        },
-        {
-          "t": "q",
-          "x": "Ekman concludes the research supports conceiving \"of emotions as separate discrete states, such as fear, anger, and disgust, rather than simply as positive versus negative states or even more simply as differing only in respect to arousal.\" ([Ekman 1993](https://www.cl.cam.ac.uk/~pr10/iui/ekman93.pdf), Psychological Science; award address; quoted passages checked, pp. 384-387)",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The circumplex and constructionist line answers from the other side — that the discrete packages dissolve under measurement into dimensions and interpretation:"
-        },
-        {
-          "t": "q",
-          "x": "\"Investigations of the subjective, or experiential, components of emotion, rather than supporting a one to one correspondence between a discrete emotion and an underlying neural system, have instead suggested that emotions arise from cognitive interpretations of core physiological experiences.\"",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": ">"
-        },
-        {
-          "t": "q",
-          "x": "Posner, Russell and Peterson propose instead that \"all affective states arise from two independent neurophysiological systems,\" the valence and arousal systems ([Posner, Russell and Peterson 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC2367156/), Development and Psychopathology; scholarly review; cited passages checked).",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The disagreement is not about data — both sides read the same universality findings — but about what the data are evidence of: evolved packages with distinctive signals, or a dimensional core that cultures and contexts carve into named states. James's old hypothesis sits underneath both, turned to opposite uses: the body-first account read literally (the bodily change is the emotion) or read constructively (the feeling is an interpretation of bodily signal):"
+          "x": "- [Affects](card:Affects): Spinoza's Ethics defines an affect as a state of the body's power of acting, increased or lessened, together with the idea of that state — the feeling as a fact about capacity. - [James-Lange theory of emotion](card:James-Lange%20theory%20of%20emotion): William James's 1884 proposal that the perception comes first, the bodily change second, and the emotion is the feeling of that change — the body runs ahead of the feeling. In James's own statement:"
         },
         {
           "t": "q",
@@ -5751,6 +5839,152 @@ window.fcDossiersData = {
           "t": "q",
           "x": "([James 1884](https://psychclassics.yorku.ca/James/emotion.htm), Mind; primary text; quoted passage checked, the source's closing comma omitted)",
           "s": null
+        },
+        {
+          "t": "p",
+          "x": "- [Emotion as construction](card:Emotion%20as%20construction): the compendium's label for a reading of The Gay Science §290 — the give-style-to-character art turned on feeling: emotional life as material re-fitted by long practice and daily work rather than merely undergone. - [Emotions as judgments](card:Emotions%20as%20judgments): the Stoic-cognitivist line — anger at someone is the judgment that one has been wronged by them. - [Fellow feeling](card:Fellow%20feeling): the eighteenth-century sentimentalist name for the tendency to catch others' emotions; Hume's sympathy as the mechanism of Book III of the Treatise. - [Distinguishing feeling from fact](card:Distinguishing%20feeling%20from%20fact): the Stoic distinction between things and judgements about them, applied to feelings and their interpretations."
+        },
+        {
+          "t": "h2",
+          "x": "How the feelings are structured"
+        },
+        {
+          "t": "p",
+          "x": "- [Basic emotion theory](card:Basic%20emotion%20theory): a small number of emotions — anger, fear, disgust, sadness, enjoyment — as universal, biologically grounded, distinct in expression and function; Ekman's families of related states. - [Circumplex model of affect](card:Circumplex%20model%20of%20affect): Russell's 1980 alternative to the list — two axes, valence and activation, every emotional state a point in the plane. - [Theory of constructed emotion](card:Theory%20of%20constructed%20emotion): Barrett's programme — emotions built from affect, concepts and social reality; the brain holds no pre-wired circuits for each \"basic\" emotion. - [Embodied emotion theory](card:Embodied%20emotion%20theory): emotional processing draws on re-enactments of affective, sensory and motor states — the feeling rebuilt from the body's stored responses. - [Component Process Model of Emotion](card:Component%20Process%20Model%20of%20Emotion): Scherer's account of emotion as an episode of synchronized change produced by a sequence of appraisal checks. - [Functional accounts of emotion](card:Functional%20accounts%20of%20emotion): the family of theories — Keltner and Gross the framing — that explain emotions by what they do. - [Positive emotions research](card:Positive%20emotions%20research): Fredrickson's broaden-and-build programme — positive emotion widens the momentary thought-action repertoire and builds lasting resources. - [Broaden-and-build](card:Broaden-and-build): Fredrickson's theory of what positive emotions are for — the 2001 American Psychologist proposal. - [Fredrickson's positivity portfolios](card:Fredrickson%27s%20positivity%20portfolios): a personal collection of photos, letters, quotes, songs or objects, built to bring back one particular positive emotion. - [Mixed emotions theory Miyamoto](card:Mixed%20emotions%20theory%20Miyamoto): Japan and the United States compared on how readily opposites are felt together. - [Emotional granularity](card:Emotional%20granularity) and [Emotion differentiation](card:Emotion%20differentiation): how finely a person distinguishes among their own feelings, and the ability to discern subtle differences between similar emotions. - [Emotion awareness](card:Emotion%20awareness): Lane and Schwartz's five structural levels of the ability to process emotion — a cognitive-developmental ladder. - [Emodiversity theory](card:Emodiversity%20theory): the diversity of emotional experience: how many distinct emotions one experiences, and how evenly. - [Pleasure-Arousal-Dominance Model](card:Pleasure-Arousal-Dominance%20Model): Mehrabian and Russell's three dimensions — emotional states and environments located along pleasure, arousal and dominance. - [Appraisal theory](card:Appraisal%20theory): the family of emotion theories holding that emotions arise from evaluations, called appraisals."
+        },
+        {
+          "t": "h2",
+          "x": "The feeling families"
+        },
+        {
+          "t": "p",
+          "x": "- [Fear](card:Fear): the emotion that mobilizes defense against threat — Öhman and Mineka's evolved module for fear elicitation and fear learning. - [Joy](card:Joy): Spinoza's laetitia — joy defined by a change rather than a state: the transition from a lesser to a greater perfection. - [Self-conscious emotions](card:Self-conscious%20emotions): the family that critically involves the self — embarrassment, guilt, pride, shame — grouped by their entry requirement rather than their feel. - [Shame](card:Shame): the whole self judged negatively — distinct from guilt, which attaches to a specific act. - [Guilt](card:Guilt): the self-conscious emotion about a specific wrong — Tangney's triad of shame, guilt and embarrassment reviewed for their relative advantages. - [Pride](card:Pride): the emotion the traditions cannot agree about — the wisdom tradition's fall, Aristotle's crown of the virtuous. - [Envy](card:Envy): pain at another's good fortune — van de Ven, Zeelenberg and Pieters' definition. - [Self-transcendent emotions](card:Self-transcendent%20emotions): the class that sorts by fit to religious and spiritual life — awe, gratitude, love and peace against amusement. - [Mudita (sympathetic joy)](card:Mudita%20%28sympathetic%20joy%29): the third brahmavihara — gladness at another's good fortune as if it were one's own."
+        },
+        {
+          "t": "p",
+          "x": "- [Benign envy](card:Benign%20envy): one of the two forms of envy distinguished by van de Ven, Zeelenberg and Pieters (2009). - [Malicious envy](card:Malicious%20envy): the second of the two forms of envy distinguished by the same authors. - [Guilt motivates reparative behaviour](card:Guilt%20motivates%20reparative%20behaviour): guilt as the pain of a specific act, whose adaptive job is to move the person who did the harm toward undoing it."
+        },
+        {
+          "t": "h2",
+          "x": "The passions, named and ordered"
+        },
+        {
+          "t": "p",
+          "x": "- [The taxonomy of passions](card:The%20taxonomy%20of%20passions): Spinoza's Ethics Part III project — the crowd of human emotions reduced to three primary affects, the rest derived by combination with objects. - [Naming the passions](card:Naming%20the%20passions): the compendium's editorial heading for Spinoza's definitions of the emotions — Part III opens with the complaint that no one has determined them. - [The counter-affect](card:The%20counter-affect): pratipakṣā-bhāvanā, cultivating the opposite — the early discourses' method when an unskillful state of mind takes hold. - [Passion theory Vallerand](card:Passion%20theory%20Vallerand): the Dualistic Model of Passion — passion for an activity harmonious or obsessive, according to how the activity has been internalized into identity."
+        },
+        {
+          "t": "h2",
+          "x": "Feeling as a moving target"
+        },
+        {
+          "t": "p",
+          "x": "- [Affective chronometry](card:Affective%20chronometry): Davidson's study of the temporal profile of emotional response — how fast an emotion rises, how long it lasts. - [Affective dynamics framework](card:Affective%20dynamics%20framework): emotion as a time series rather than a score — the average matters, and so does the fluctuation. - [Emotional inertia theory](card:Emotional%20inertia%20theory): how strongly earlier emotional states predict later ones — the resistance to emotional change. - [Fading affect bias](card:Fading%20affect%20bias): the intensity of emotions tied to memories of pleasant events fades more slowly than that of unpleasant ones — the finding stated in one line by later research. - [Affective forecasting](card:Affective%20forecasting): Wilson and Gilbert's account of predictions about one's own future feelings, and the errors they reliably contain. - [Anticipatory affect](card:Anticipatory%20affect): Loewenstein's visceral factors — the feeling state that arrives before the outcome and bends decisions. - [Mood-congruent memory](card:Mood-congruent%20memory): Bower's 1981 family of hypotheses — affect biases recall toward affectively congruent material."
+        },
+        {
+          "t": "h2",
+          "x": "What feeling does to thinking"
+        },
+        {
+          "t": "p",
+          "x": "- [Affect as information](card:Affect%20as%20information): Schwarz's feelings-as-information account — people consult their current feelings when judging, as in the sunny-day life-satisfaction result. - [Affect heuristic](card:Affect%20heuristic): Finucane, Alhakami, Slovic and Johnson's term for the finding that positive or negative feelings about an object drive judgments of its risk and benefit — a puzzle for the mind's bookkeeping, since the world's risks and benefits are positively correlated. - [Affect labeling](card:Affect%20labeling): putting a feeling into words as it occurs: naming anger as anger, dread as dread; the card reports a 2007 neuroimaging study of the practice. - [Moral emotions](card:Moral%20emotions): Tangney and colleagues' review — the emotions that link moral standards to moral behavior. - [Affective disposition theory](card:Affective%20disposition%20theory): Zillmann and Cantor's account of media enjoyment — we like seeing liked characters succeed and disliked ones suffer. - [Somatic marker hypothesis (Damasio)](card:Somatic%20marker%20hypothesis%20%28Damasio%29): Damasio's account of how emotion enters reasoning: decision-making steered by marker signals arising in the body's bioregulatory processes. - [Reinforcement-Affect Theory](card:Reinforcement-Affect%20Theory): Byrne and Clore's account — we come to like stimuli and people associated with positive affect."
+        },
+        {
+          "t": "h2",
+          "x": "Regulating and shaping feeling"
+        },
+        {
+          "t": "p",
+          "x": "- [Emotion regulation](card:Emotion%20regulation): Gross's definition — the processes by which we influence which emotions we have, when we have them, and how we experience and express them. - [Process model of emotion regulation Gross](card:Process%20model%20of%20emotion%20regulation%20Gross): the five points of regulation — situation selection, situation modification, attentional deployment, cognitive change, response modulation. - [Extended process model of emotion regulation](card:Extended%20process%20model%20of%20emotion%20regulation): the later Gross — regulation as something you decide to do: noticing, choosing, carrying out. - [Mid-level emotion regulation](card:Mid-level%20emotion%20regulation): the strategies deployed in the moment — the reappraisal-versus-suppression record the card sets against suppression and venting — inside Gross's valuation-system account of regulation. - [Cognitive reappraisal](card:Cognitive%20reappraisal): the emotion-regulation strategy of changing an emotional event's meaning: reinterpreting the situation so that the feeling that follows it changes; antecedent-focused in Gross's process model. - [Expressive suppression versus reappraisal](card:Expressive%20suppression%20versus%20reappraisal): Gross and John's 2003 comparison — suppression as the conscious inhibition of emotional expression, set against reappraisal. - [Reappraisal's effectiveness depends on separating the feeling from the appraisal](card:Reappraisal%27s%20effectiveness%20depends%20on%20separating%20the%20feeling%20from%20the%20appraisal): reappraisal works by changing the appraisal, not by tampering with the feeling, so the person has to be able to tell the two apart. - [Opposite action (Linehan)](card:Opposite%20action%20%28Linehan%29): the DBT skill of acting against the action urge that comes with an emotion. - [Expressive writing](card:Expressive%20writing): Pennebaker and Beall's 1986 research paradigm — writing about emotional experience. - [DBT Biosocial Theory](card:DBT%20Biosocial%20Theory): Linehan's account of how emotion dysregulation develops: a biologically based emotional vulnerability transacting with an invalidating environment. - [Emotional suppression theory Butler Gross](card:Emotional%20suppression%20theory%20Butler%20Gross): instructed suppression raising blood pressure in regulators and partners — suppression as a cost paid socially. - [Dialectical behaviour therapy, emotion modulation](card:Dialectical%20behaviour%20therapy%2C%20emotion%20modulation): Linehan's skills module for emotions that fire easily, hit hard and take long to subside. - [Action precedes feeling](card:Action%20precedes%20feeling) and [Action before feeling](card:Action%20before%20feeling): the double tradition — Aristotle's virtues acquired by doing the acts, and James's body moving before the feeling forms. - [Ideal affect theory Tsai](card:Ideal%20affect%20theory%20Tsai): affect valuation theory — cultures differ in the emotions they value and want to feel; people act to move toward their ideal affect. - [State-matched emotion regulation](card:State-matched%20emotion%20regulation): the matching of a regulation strategy to the circumstance, rather than relying on one strategy in all cases. - [Compassion-focused therapy](card:Compassion-focused%20therapy): Gilbert's integrated approach for people with high shame and self-criticism. - [Pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom): Seneca's counsel for dealing with emotion by timing — arranging in advance what the emotion would otherwise undo. - [The paradox of valuing a goal excessively](card:The%20paradox%20of%20valuing%20a%20goal%20excessively): Mauss and colleagues' finding on wanting something too much."
+        },
+        {
+          "t": "h2",
+          "x": "Feeling between people"
+        },
+        {
+          "t": "p",
+          "x": "- [Emotional contagion](card:Emotional%20contagion): Hatfield's moment-to-moment transmission between people in contact, and Christakis and Fowler's network patterns of mood and behavior. - [Empathy](card:Empathy): the felt understanding of another's experience — a family of capacities: Buddhist compassion, Confucian shu, Hume's sympathy, Levinas's responsibility. - [Sympathy](card:Sympathy): Adam Smith's account in the Theory of Moral Sentiments — the resonance by which others' joy and misery become, in some measure, ours. - [Compassion](card:Compassion): being moved by suffering and motivated to act — Gilbert's definition, a basic kindness with deep awareness. - [Group affective synchronisation](card:Group%20affective%20synchronisation): Barsade's group emotional contagion — the transfer of moods among people in a group and its influence on group dynamics. - [Co-regulation of affect in relationships](card:Co-regulation%20of%20affect%20in%20relationships): Butler and Randall's dyadic emotional system — partners regulating each other's affect rather than only their own. - [Co-regulation in relationships](card:Co-regulation%20in%20relationships): Butler's 2011 TIES framework — the temporal, interconnected emotion systems of a relationship. - [Conflict spirals](card:Conflict%20spirals): Gottman's pattern in which one partner's negative affect is met with the other's."
+        },
+        {
+          "t": "h2",
+          "x": "Sayings"
+        },
+        {
+          "t": "p",
+          "x": "- [Beware the moods of the many](card:Beware%20the%20moods%20of%20the%20many): Laozi, Daodejing 20; the compendium links it to guarding against affect contagion."
+        },
+        {
+          "t": "h2",
+          "x": "Kernels"
+        },
+        {
+          "t": "p",
+          "x": "- [Low emotional response](card:K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; do not match the other person's escalation. - [Affect labeling](card:K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not \"stressed\" but \"tight chest, dread, buzzing\". - [Feeling-tone pass](card:K160%20%E2%80%94%20Feeling-tone%20pass): three times daily, name the tone of the moment as pleasant, unpleasant or neutral, before any story about it. - [Emotional writing](card:K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four days in a row, unedited and uncensored. - [Body-first emotion work](card:K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body — tension, temperature, texture; the body often knows first."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Are the emotions discrete categories, or positions on two dimensions?"
+        },
+        {
+          "t": "p",
+          "x": "Ekman's research programme takes the categorical side, and states the alternative it rejects in the process:"
+        },
+        {
+          "t": "q",
+          "x": "\"We each found high agreement across members of diverse Western and Eastern literate cultures in selecting emotion terms that fit facial expressions.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "\"Distinctive universal expressions have been identified for anger, fear, disgust, sadness, and enjoyment.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "Ekman concludes the research supports conceiving \"of emotions as separate discrete states, such as fear, anger, and disgust, rather than simply as positive versus negative states or even more simply as differing only in respect to arousal.\" ([Ekman 1993](https://www.cl.cam.ac.uk/~pr10/iui/ekman93.pdf), American Psychologist 48(4), April 1993, \"Facial Expression and Emotion\"; award address; quoted passages checked, pp. 384-387)",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The circumplex model takes the dimensional position Ekman names as the rival hypothesis — that what varies is valence and arousal, not category membership. Its authors state the contrast themselves:"
+        },
+        {
+          "t": "q",
+          "x": "\"This model stands in contrast to theories of basic emotions, which posit that a discrete and independent neural system subserves every emotion.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "\"We propose that clinicians and researchers move away from a strictly basic emotion model of affective states, where each emotion is thought to emerge from independent neural systems, to more dimensional models of emotions, in which all affective states are understood to arise from common, overlapping neurophysiological systems.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "Posner, Russell and Peterson propose instead that \"all affective states arise from two independent neurophysiological systems,\" the valence and arousal systems ([Posner, Russell and Peterson 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC2367156/), Development and Psychopathology; scholarly review; cited passages checked).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The incompatibility is stated by the circumplex authors, not inferred here: a discrete and independent neural system for every emotion, against affective states arising from common, overlapping systems."
         },
         {
           "t": "h",
@@ -5768,7 +6002,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 1,
-          "x": "[Affect labeling](card:K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not \"stressed\" but \"tight chest, dread, buzzing\"; fine-grained labeling reduces amygdala reactivity and improves regulation."
+          "x": "[Affect labeling](card:K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not \"stressed\" but \"tight chest, dread, buzzing\"."
         },
         {
           "t": "n",
@@ -5778,7 +6012,7 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 3,
-          "x": "[Emotional writing](card:K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four consecutive days, uncensored — putting experience into language reduces its intensity and improves health outcomes."
+          "x": "[Emotional writing](card:K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four consecutive days, uncensored; no editing, no censoring."
         },
         {
           "t": "n",
@@ -5792,12 +6026,72 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Evidence limits: the labeling and writing practices carry neuroimaging and expressive-writing results respectively, at the scale of small laboratory studies; the DBT module sits inside a treatment-trial literature for its clinical population; the feeling-tone practice is a modern mindfulness-derived exercise, not an outcome-tested protocol; the co-regulation and contagion literatures are largely correlational outside the laboratory; and the circumplex-versus-basic-emotion disagreement remains unresolved at the level of theory, so no practice selection can be said to follow from one side alone."
+          "x": "Evidence limits: the outcome language in the kernel descriptions above is the kernels' own text, compressed; this dossier verified no trial of these exact exercises. The labeling kernel rests on the affect-labeling study cited on its card, the writing kernel on the expressive-writing literature cited on its card, the DBT module on the treatment literature for its clinical population — none of those carriers was opened here, and no claim about their study sizes or designs is made. The feeling-tone and low-response practices carry no outcome claim verified in this dossier. The categorical-versus-dimensional disagreement is a live theoretical dispute; no practice selection follows from either side alone."
         },
         {
           "t": "vs",
           "l": "Retention",
           "x": "Any of these that changes how quickly an emotion is named, or how long it outlasts its trigger, earns a place; the chronometry and dynamics entries are the natural measurement tools for checking what a practice has changed."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "The oldest questions about feeling"
+        },
+        {
+          "t": "p",
+          "x": "[ST160 — Medea Knows](card:ST160%20%E2%80%94%20Medea%20Knows): Medea, abandoned by Jason for a royal marriage, plans the murder of her children as revenge; Euripides gives her the monologue that remains the definitive portrait of akrasia — knowing what evil she is about to do, and doing it."
+        },
+        {
+          "t": "h2",
+          "x": "The feeling families"
+        },
+        {
+          "t": "p",
+          "x": "[ST062 — Sadness Gets a Role](card:ST062%20%E2%80%94%20Sadness%20Gets%20a%20Role): in Riley's mind, Joy runs operations and has been keeping Sadness contained; the move to San Francisco ejects them both, and on the journey back Joy discovers that the moment she was proudest of, Riley winning a hockey game, only happened because Sadness had first made her cry out for help."
+        },
+        {
+          "t": "p",
+          "x": "[ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory): Joy, examining a sad core memory, rewinds it and watches the part after the loss, when Riley's parents and teammates came onto the ice and comforted her — the sadness and the comfort bound together in one memory."
+        },
+        {
+          "t": "p",
+          "x": "[ST425 — Duchenne's Two Kinds of Smile](card:ST425%20%E2%80%94%20Duchenne%27s%20Two%20Kinds%20of%20Smile): a doctor holds electrodes to the face of his old patient and photographs the muscles of expression raised one at a time; the distinction he draws turns on the will — the muscle that pulls the mouth into a smile obeys it, and the muscle around the eyes, which he names the muscle of benevolence, does not."
+        },
+        {
+          "t": "p",
+          "x": "[ST146 — Achilles' Disproportionate Rage](card:ST146%20%E2%80%94%20Achilles%27%20Disproportionate%20Rage): Agamemnon takes Briseis, and the anger is not wrong in its origin — the violation of honour calls for response; it is wrong in its measure: withdrawal from the war, every embassy and every offer of recompense refused."
+        },
+        {
+          "t": "h2",
+          "x": "What feeling does to thinking"
+        },
+        {
+          "t": "p",
+          "x": "[ST170 — The Lotus-Eaters](card:ST170%20%E2%80%94%20The%20Lotus-Eaters): Odysseus' scouts reach a land where those who taste the lotus forget home and want only to stay, eating more; Odysseus drags them weeping to the ships and ties them under the benches."
+        },
+        {
+          "t": "h2",
+          "x": "Regulating and shaping feeling"
+        },
+        {
+          "t": "p",
+          "x": "[ST185 — The Gentle Person's Anger](card:ST185%20%E2%80%94%20The%20Gentle%20Person%27s%20Anger): the gentle-tempered person is praised not for never being angry but for being angry in the right way: at the right things, with the right people, for the right duration, in the right manner."
+        },
+        {
+          "t": "p",
+          "x": "[ST401 — Dipa Ma Watches Anger Arise and Pass](card:ST401%20%E2%80%94%20Dipa%20Ma%20Watches%20Anger%20Arise%20and%20Pass): a Bengali woman in Rangoon loses a daughter at three months and a son at childbirth, and her heart trouble reaches the stage where her doctors expected her to die at any time — the practice she turns to is in the title: watching anger arise and pass."
+        },
+        {
+          "t": "p",
+          "x": "[ST429 — Backsliding into Abundance](card:ST429%20%E2%80%94%20Backsliding%20into%20Abundance): the Buddha's retrospective on his pre-awakening efforts: clenching his teeth and pressing his tongue against the roof of his mouth, he beat down, constrained and crushed his mind with his awareness — and the force failed."
         }
       ],
       "group": "eemm",
@@ -6403,6 +6697,62 @@ window.fcDossiersData = {
           "t": "vs",
           "l": "Retention",
           "x": "Retention is what people keep because it works for them."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "The contemplative trainings"
+        },
+        {
+          "t": "p",
+          "x": "[ST069 — The Four Foundations](card:ST069%20%E2%80%94%20The%20Four%20Foundations): the Satipaṭṭhāna Sutta opens by calling its practice the direct path for the purification of beings — in other words, the four frames of reference."
+        },
+        {
+          "t": "p",
+          "x": "[ST421 — Meghiya Finds the Right Grove and the Wrong Thoughts](card:ST421%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya finds a mango grove that looks ideal for meditation and repeatedly asks to practise there; alone beneath the tree he is troubled by thoughts of sensuality, ill will and harm, and returns to the Buddha."
+        },
+        {
+          "t": "h2",
+          "x": "Absorption and its varieties"
+        },
+        {
+          "t": "p",
+          "x": "[ST025 — The Cicada Catcher's Stillness](card:ST025%20%E2%80%94%20The%20Cicada%20Catcher%27s%20Stillness): Confucius finds an old hunchback catching cicadas with a sticky pole, as easily as picking them off the ground; asked the secret, he describes balancing poles with increasing weights until his body stood like an old stump — no longer noticing the world's ten thousand things, only the wings."
+        },
+        {
+          "t": "p",
+          "x": "[ST018 — The Swimmer at Lüliang Falls](card:ST018%20%E2%80%94%20The%20Swimmer%20at%20L%C3%BCliang%20Falls): Confucius watches a man dive into the torrent where the water drops forty fathoms, and the swimmer answers from the water: he follows the water's way — down with the whirlpools, up with the waves."
+        },
+        {
+          "t": "p",
+          "x": "[ST028 — Eliud Kipchoge Runs 1 — 59](card:ST028%20%E2%80%94%20Eliud%20Kipchoge%20Runs%201%20%E2%80%94%2059): in Vienna, Kipchoge runs a marathon in 1:59:40 — not a record, the conditions engineered; he lives in a spartan training camp, shares chores with younger runners, smiles in the late stages of races, and says afterwards: No human is limited."
+        },
+        {
+          "t": "h2",
+          "x": "Attention in action: process, craft and the economy of the gaze"
+        },
+        {
+          "t": "p",
+          "x": "[ST057 — Agnes Martin Paints Grids](card:ST057%20%E2%80%94%20Agnes%20Martin%20Paints%20Grids): Martin painted nothing but grids for decades: hand-drawn pencil lines and pale bands of colour on square canvases — a working life spent inside one form of sustained looking."
+        },
+        {
+          "t": "h2",
+          "x": "The moral face of attention"
+        },
+        {
+          "t": "p",
+          "x": "[ST023 — Simone Weil on Attention](card:ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil, working through war and illness, writes that attention is the rarest and purest form of generosity; every time we really attend to something, she argues, we are exercising the same faculty that prayer and friendship require."
+        },
+        {
+          "t": "p",
+          "x": "[ST432 — Jim Forest Washes the Dishes](card:ST432%20%E2%80%94%20Jim%20Forest%20Washes%20the%20Dishes): one evening Forest offers to wash the dishes, and Nhat Hanh answers: there are two ways to wash the dishes — the first to have clean dishes, the second to wash the dishes in order to wash the dishes."
         }
       ],
       "group": "eemm",
@@ -6481,7 +6831,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"According to logotherapy, this striving to find a meaning in one's life is the primary motivational force in man.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passage checked.",
+          "x": "\"According to logotherapy, this striving to find a meaning in one's life is the primary motivational force in man.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6490,7 +6840,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"it did not really matter what we expected from life, but rather what life expected from us.\" ([Frankl, Man's Search for Meaning, full text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl)) — Primary text; quoted passage checked.",
+          "x": "\"it did not really matter what we expected from life, but rather what life expected from us.\" ([Frankl, Man's Search for Meaning, full text](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl)): Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6499,16 +6849,30 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"As we said before, any attempt to restore a man's inner strength in the camp had first to succeed in showing him some future goal.\" ([Frankl, Man's Search for Meaning, \"Experiences in a Concentration Camp\"](https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt)) — Primary text; quoted passage checked.",
+          "x": "\"As we said before, any attempt to restore a man's inner strength in the camp had first to succeed in showing him some future goal.\" ([Frankl, Man's Search for Meaning, \"Experiences in a Concentration Camp\"](https://archive.org/stream/frankl-viktor-mans-search-for-meaning-1963/FRANKL_Viktor_Man's_Search_For_Meaning-1963_djvu.txt)): Primary text; quoted passages checked.",
           "s": null
         },
         {
           "t": "p",
-          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why): the story the wiki keeps of the motto working in a life, paired by the story's own tags with meaning-happiness distinctions and purpose-as-direction."
+          "x": "[Everything serves a purpose](card:Everything%20serves%20a%20purpose): the wiki's saying for the theme, attributed to Nietzsche's Genealogy of Morals and linked onward to meaning-driven behaviour."
         },
         {
           "t": "p",
-          "x": "[Everything serves a purpose](card:Everything%20serves%20a%20purpose): the wiki's saying for the theme, attributed to Nietzsche's Genealogy of Morals and linked onward to meaning-driven behaviour."
+          "x": "The Nicomachean Ethics grounds the whole tradition in one claim about what the good is:"
+        },
+        {
+          "t": "q",
+          "x": "\"…if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)): Primary text; quoted passages checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Frankl's reversal of the question is stated in the same terms:"
+        },
+        {
+          "t": "q",
+          "x": "\"the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.\" ([Frankl, Man's Search for Meaning, \"The Essence of Existence\"](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
+          "s": null
         },
         {
           "t": "h2",
@@ -6520,7 +6884,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passage checked.",
+          "x": "\"According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.\" ([Frankl, Man's Search for Meaning, full text](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6529,16 +6893,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way.\" ([Frankl, Man's Search for Meaning](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl)) — Primary text; quoted passage checked.",
+          "x": "\"everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
           "s": null
         },
         {
           "t": "p",
           "x": "[Meaning-centred therapy](card:Meaning-centred%20therapy): Breitbart and colleagues' short-term group treatment for people with advanced cancer, rooted in Frankl's writings, built to sustain or enhance a sense of meaning, peace and purpose near the end of life."
-        },
-        {
-          "t": "p",
-          "x": "[ST036 — Frankl Chooses the Attitude](card:ST036%20%E2%80%94%20Frankl%20Chooses%20the%20Attitude) and [ST279 — Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): the wiki's story treatments of the attitude route, the first paired with Stoic and Daoist acceptances, the second with the recognition of the absurd."
         },
         {
           "t": "h2",
@@ -6558,12 +6918,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)) — Primary text; quoted passage checked.",
+          "x": "\"even in the German word Beruf, and perhaps still more clearly in the English calling, a religious conception, that of a task set by God, is at least suggested\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): Primary text; quoted passages checked.",
           "s": null
         },
         {
           "t": "q",
-          "x": "\"The only way of living acceptably to God was not to surpass worldly morality in monastic asceticism, but solely through the fulfillment of the obligations imposed upon the individual by his position in the world. That was his calling.\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)) — Primary text; quoted passage checked.",
+          "x": "\"The only way of living acceptably to God was not to surpass worldly morality in monastic asceticism, but solely through the fulfillment of the obligations imposed upon the individual by his position in the world. That was his calling.\" ([Weber, The Protestant Ethic and the Spirit of Capitalism, ch. III](https://www.marxists.org/reference/archive/weber/protestant-ethic/ch03.htm)): Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6572,7 +6932,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Purpose-linked practice](card:Purpose-linked%20practice): the self-transcendent purpose line of Yeager and colleagues, a motive rather than a goal's content, tied in four studies with over 2,000 adolescents to persistence on tedious tasks that matter."
+          "x": "[Purpose-linked practice](card:Purpose-linked%20practice): the self-transcendent purpose line of Yeager and colleagues, a motive rather than a goal's content, tied in four studies with over 2,000 adolescents and young adults to persistence on boring tasks that matter."
         },
         {
           "t": "p",
@@ -6580,7 +6940,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"We define a purpose for learning as a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self\" ([Yeager et al. 2014, JPSP](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf)) — Study abstract; quoted passage checked.",
+          "x": "\"We define a purpose for learning as a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self\" ([Yeager et al. 2014, JPSP](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf)): Study abstract; quoted passage checked.",
           "s": null
         },
         {
@@ -6589,11 +6949,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The research tradition's working definition puts purpose in the vocabulary of goals:"
+          "x": "The research tradition defines purpose in the vocabulary of goals:"
         },
         {
           "t": "q",
-          "x": "\"Purpose refers to highly motivating, long-term goals about which people are passionate and highly committed.\" ([Steger, Meaning in Life, Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120)) — Scholarly interpretation; cited passage checked.",
+          "x": "\"Purpose refers to highly motivating, long-term goals about which people are passionate and highly committed.\" ([Steger, Meaning in Life, Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120)): Scholarly interpretation; cited passage checked.",
           "s": null
         },
         {
@@ -6602,7 +6962,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Self-concordant goals](card:Self-concordant%20goals): goals consistent with a person's developing interests and core values; the self-concordance research finds they are pursued with more sustained effort, more often attained, and reaped for greater well-being."
+          "x": "[Self-concordant goals](card:Self-concordant%20goals): goals consistent with a person's developing interests and core values; the self-concordance research finds they are pursued with more sustained effort, more often attained, and linked to greater well-being once attained."
         },
         {
           "t": "p",
@@ -6610,15 +6970,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals): Kasser and Ryan's intrinsic aspirations, affiliation, personal growth and community contribution, set against the extrinsic aspirations of wealth, fame and image."
+          "x": "[Intrinsic versus extrinsic goals](card:Intrinsic%20versus%20extrinsic%20goals): the distinction between goals whose pursuit satisfies basic psychological needs directly and goals whose value depends on other people's reactions, anchored in Kasser and Ryan's classification."
+        },
+        {
+          "t": "p",
+          "x": "[Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals): the intrinsic aspirations of affiliation, personal growth and community contribution, set against the extrinsic aspirations of wealth, fame and image."
         },
         {
           "t": "p",
           "x": "[Goal disengagement](card:Goal%20disengagement): Wrosch's goal adjustment capacity, withdrawing effort and commitment from a goal that cannot be reached; the research links the capacity to well-being and health."
-        },
-        {
-          "t": "p",
-          "x": "[Superordinate goals](card:Superordinate%20goals): the Robbers Cave remedy for intergroup hostility, goals of high appeal to both groups that cannot be met by one side alone."
         },
         {
           "t": "p",
@@ -6645,6 +7005,15 @@ window.fcDossiersData = {
           "x": "[Constructivist approach to meaning](card:Constructivist%20approach%20to%20meaning): Kelly's idea, elaborated by later constructivist psychotherapists, that meaning is not found lying in events but built out of them, and that the building can be done differently."
         },
         {
+          "t": "p",
+          "x": "The constructivist line is the plainest about this. Kelly's psychology of personal constructs holds that events carry no meaning of their own to be read off:"
+        },
+        {
+          "t": "q",
+          "x": "\"Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees.\" ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf)): Primary text; quoted passages checked.",
+          "s": null
+        },
+        {
           "t": "h2",
           "x": "Purposes beyond the self"
         },
@@ -6658,7 +7027,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passage checked.",
+          "x": "\"The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6699,7 +7068,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"This sign I have had ever since I was a child. The sign is a voice which comes to me and always forbids me to do something which I am going to do, but never commands me to do anything, and this is what stands in the way of my being a politician.\" (Plato, [Apology 31c-d, Jowett translation](https://classics.mit.edu/Plato/apology.html)) — Primary text; quoted passage checked.",
+          "x": "\"This sign I have had ever since I was a child. The sign is a voice which comes to me and always forbids me to do something which I am going to do, but never commands me to do anything, and this is what stands in the way of my being a politician.\" (Plato, [Apology 31c-d, Jowett translation](https://classics.mit.edu/Plato/apology.html)): Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6712,7 +7081,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passage checked.",
+          "x": "\"But, on the other hand, in a universe suddenly divested of illusions and lights, man feels an alien, a stranger. His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land. This divorce between man and his life, the actor and his setting, is properly the feeling of absurdity.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)): Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6721,7 +7090,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passage checked.",
+          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)): Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6730,7 +7099,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"There is no fate that cannot be surmounted by scorn.\" ([Camus, The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passage checked.",
+          "x": "\"There is no fate that cannot be surmounted by scorn.\" ([Camus, The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)): Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6751,7 +7120,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly.\" ([Frankl, Man's Search for Meaning](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl)) — Primary text; quoted passage checked.",
+          "x": "\"it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly.\" ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.",
           "s": null
         },
         {
@@ -6760,47 +7129,12 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passage checked.",
+          "x": "\"The absurd is born of this confrontation between the human need and the unreasonable silence of the world.\" ([Camus, The Myth of Sisyphus, trans. Justin O'Brien](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)): Primary text; quoted passages checked.",
           "s": null
         },
         {
           "t": "p",
           "x": "Both answer the same question, whether a human life can be about something, and they part on the world's role: for Frankl life itself puts questions that wait to be answered; for Camus the world's silence is the final fact, and revolt, not answer, is the coherent stance. What remains unresolved is whether the felt answer-ability Frankl describes in the camps is a discovery about the world or a stance taken toward it; the wiki holds both without adjudicating, and the absurd cards and the logotherapy cards cite each other's territory without yielding."
-        },
-        {
-          "t": "h2",
-          "x": "Is the answer given, discovered, or built?"
-        },
-        {
-          "t": "p",
-          "x": "A second, older disagreement runs underneath the first: when a person asks what their life is for, does the answer already exist somewhere, and if so where, in human nature, in the world, or nowhere until they make it? Aristotle's function argument locates it in human nature:"
-        },
-        {
-          "t": "q",
-          "x": "\"…if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete.\" ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)) — Primary text; quoted passage checked. The ellipsis marks the argument's long conditional run-up, reproduced in full at the carrier.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "Frankl locates it in the world, and refuses the general form of the question:"
-        },
-        {
-          "t": "q",
-          "x": "\"the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system.\" ([Frankl, Man's Search for Meaning, \"The Essence of Existence\"](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "The constructivist tradition locates it in the person. Kelly's psychology of personal constructs holds that events carry no meaning of their own to be read off:"
-        },
-        {
-          "t": "q",
-          "x": "\"Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees.\" ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf)) — Primary text; quoted passage checked.",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "All three answer the same question and part on the source of the answer: nature, world, or person. What remains unresolved is whether the disagreement is real or verbal. Aristotle's function and Frankl's discovered meanings can be held together, as capacities given by nature answering tasks set by the world, and so can Kelly's constructions. The research tradition measures people's sense of meaning and its correlates, and is silent on the ground of it; the wiki holds all three without ranking them."
         },
         {
           "t": "h",
@@ -6809,7 +7143,7 @@ window.fcDossiersData = {
         {
           "t": "vs",
           "l": "Variation",
-          "x": "What tends to need varying on this theme is the shape of one's aims: a life that reads like a list of obligations with no author, purposes that are only self-oriented, work held as a job in the narrow sense, and meaning expected to arrive finished rather than made. The adaptive direction is an aim one is actually the author of, a direction that reaches beyond the self, work that can be entered as a calling, and meaning treated as something built through work, love and stance."
+          "x": "What tends to need varying on this theme is the shape of one's aims: a life that reads like a list of obligations with no author, purposes that are only self-oriented, work held as a job in the narrow sense, and meaning expected to arrive finished rather than made. The direction of improvement is toward aims a person is actually the author of, aims that reach beyond the self, work that can be entered as a calling, and meaning treated as something built through work, love and stance."
         },
         {
           "t": "vs",
@@ -6844,11 +7178,16 @@ window.fcDossiersData = {
         {
           "t": "n",
           "i": 6,
-          "x": "[Service and creation](card:K225%20%E2%80%94%20Service%20and%20creation): each week, one act of service or creation that outlasts the week, planted in the generativity research tradition."
+          "x": "[Mortality-to-action translation](card:K316%20%E2%80%94%20Mortality-to-action%20translation): five minutes of writing in response to \"I will die. The timing is unknown. What does this make urgent?\", then one insight translated into one action this week; the kernel notes the mortality-salience finding that confronting death, when not defended against, can shift priorities toward intrinsic values."
         },
         {
           "t": "n",
           "i": 7,
+          "x": "[Service and creation](card:K225%20%E2%80%94%20Service%20and%20creation): each week, one act of service or creation that outlasts the week; the weekly cadence and the outlasts-the-week test are the practice's own, as the kernel card states, and the research tradition behind it is generativity."
+        },
+        {
+          "t": "n",
+          "i": 8,
           "x": "[Living the question](card:K231%20%E2%80%94%20Living%20the%20question): Rilke's instruction to be patient toward all that is unsolved in the heart and to love the questions themselves, living them now rather than seeking answers that cannot yet be lived."
         },
         {
@@ -6859,6 +7198,78 @@ window.fcDossiersData = {
           "t": "vs",
           "l": "Retention",
           "x": "Retention is what people keep because it works for them."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "What a purpose is taken to be"
+        },
+        {
+          "t": "p",
+          "x": "[ST035 — Ivan Ilyich's Question](card:ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): a judge who has lived the life everyone around him considers correct falls ill and, in his long dying, finds the whole respectable edifice was \"not the real thing\"; he had lived it as others lived theirs, without once asking whether it was his."
+        },
+        {
+          "t": "p",
+          "x": "[ST311 — Frankl's Why](card:ST311%20%E2%80%94%20Frankl%27s%20Why): the story the wiki keeps of the motto working in a life, paired by the story's own tags with meaning-happiness distinctions and purpose-as-direction."
+        },
+        {
+          "t": "h2",
+          "x": "The stance toward suffering"
+        },
+        {
+          "t": "p",
+          "x": "[ST036 — Frankl Chooses the Attitude](card:ST036%20%E2%80%94%20Frankl%20Chooses%20the%20Attitude): the psychiatrist in Auschwitz, observing that prisoners who retained something to live for endured differently, and reporting a freedom that remained when everything else was taken."
+        },
+        {
+          "t": "p",
+          "x": "[ST279 — Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): Man's Search for Meaning as two texts, the memoir and the theory drawn from it, with the famous line that he who has a why to live can bear almost any how."
+        },
+        {
+          "t": "h2",
+          "x": "Work as calling"
+        },
+        {
+          "t": "p",
+          "x": "[ST057 — Agnes Martin Paints Grids](card:ST057%20%E2%80%94%20Agnes%20Martin%20Paints%20Grids): decades of hand-drawn grids in solitude in the New Mexico desert, titled \"Innocence,\" \"Gratitude,\" \"Happiness\"; the grid was the trap, and the meaning was what it was a trap for."
+        },
+        {
+          "t": "p",
+          "x": "[ST052 — Beethoven Writes the Late Quartets](card:ST052%20%E2%80%94%20Beethoven%20Writes%20the%20Late%20Quartets): completely deaf, he writes quartets unlike anything written before, at a level of interior detail that could not be reached by anyone listening for the market."
+        },
+        {
+          "t": "p",
+          "x": "[ST048 — Yayoi Kusama Paints the Hallucinations](card:ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): hallucinated fields of dots since childhood, and since 1977 a life lived voluntarily in a psychiatric hospital, walking daily to the studio to paint them at architectural scale."
+        },
+        {
+          "t": "h2",
+          "x": "Purposes beyond the self"
+        },
+        {
+          "t": "p",
+          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them breaking rocks in the lime quarry, studying his jailers' language and history; released, he negotiates with the government that jailed him rather than overthrowing it."
+        },
+        {
+          "t": "p",
+          "x": "[ST086 — The Bodhisattva and the Tigress](card:ST086%20%E2%80%94%20The%20Bodhisattva%20and%20the%20Tigress): a bodhisattva finds a tigress too weak from hunger to feed her cubs, and lies down where she can reach him, ending his life so that hers and the cubs' continue."
+        },
+        {
+          "t": "h2",
+          "x": "The long journey to a purpose"
+        },
+        {
+          "t": "p",
+          "x": "[ST092 — Alvin Straight Rides the Mower](card:ST092%20%E2%80%94%20Alvin%20Straight%20Rides%20the%20Mower): 73, his eyes too bad to drive and his hips too bad to walk, he hitches a trailer to his riding lawnmower and travels 240 miles at five miles an hour to reconcile with his brother; the slowness is the argument."
+        },
+        {
+          "t": "p",
+          "x": "[ST089 — Layman Pang Sinks the Fortune](card:ST089%20%E2%80%94%20Layman%20Pang%20Sinks%20the%20Fortune): a wealthy merchant empties his house and fortune into the river and lives as a layman weaving bamboo sieves with his wife and children; the tradition's proof case that awakening does not require monasticism."
         }
       ],
       "group": "flourishing",
@@ -7420,11 +7831,1169 @@ window.fcDossiersData = {
           "t": "vs",
           "l": "Retention",
           "x": "Retention is what people keep because it works for them. A reader who keeps the evening line about what is enough, or the weekly hour of play, or the habit of thanking someone by name, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "What a happy life looks like"
+        },
+        {
+          "t": "p",
+          "x": "[ST143 — Solon and Croesus](card:ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus asks who is the happiest of men, and Solon names Tellus of Athens, who lived in a prosperous city, saw his grandchildren and died fighting for it."
+        },
+        {
+          "t": "p",
+          "x": "[ST005 — Hirayama's Perfect Days](card:ST005%20%E2%80%94%20Hirayama%27s%20Perfect%20Days): Hirayama cleans public toilets in Tokyo, waters his plants, photographs the light through the trees and reads before sleep; asked why he is so content, he does not explain."
+        },
+        {
+          "t": "p",
+          "x": "[ST277 — Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): Camus's Sisyphus pushes the boulder up the hill forever, and the conclusion is that the struggle toward the heights is enough to fill a man's heart."
+        },
+        {
+          "t": "h2",
+          "x": "Pleasure and its traps"
+        },
+        {
+          "t": "p",
+          "x": "[ST169 — The Philosopher and the Hedonist](card:ST169%20%E2%80%94%20The%20Philosopher%20and%20the%20Hedonist): in Nicomachean Ethics X, Aristotle sorts the theories of the good life: the many say pleasure, and he resolves that pleasure accompanies the end and does not constitute it."
+        },
+        {
+          "t": "p",
+          "x": "[ST170 — The Lotus-Eaters](card:ST170%20%E2%80%94%20The%20Lotus-Eaters): Odysseus's scouts eat the lotus and want only to stay eating, and he drags them weeping to the ships and ties them under the benches."
+        },
+        {
+          "t": "p",
+          "x": "[ST215 — Watanabe Finds the Playground](card:ST215%20%E2%80%94%20Watanabe%20Finds%20the%20Playground): Kanji Watanabe, told he has less than a year, tries the pleasures and they do not work; he pushes through a playground petition and dies on a swing in the snow."
+        },
+        {
+          "t": "h2",
+          "x": "Small pleasures and savoring"
+        },
+        {
+          "t": "p",
+          "x": "[ST305 — Amélie's Small Pleasures](card:ST305%20%E2%80%94%20Am%C3%A9lie%27s%20Small%20Pleasures): Amélie keeps a catalogue of small pleasures and secretly arranges small kindnesses for others, and finds she cannot give what she will not receive."
+        },
+        {
+          "t": "p",
+          "x": "[ST304 — Savoring](card:ST304%20%E2%80%94%20Savoring): Fred Bryant's research separates savoring, the capacity to attend to and prolong enjoyment, from positive emotion itself."
+        },
+        {
+          "t": "p",
+          "x": "[ST014 — Marie Kondo and the Spark of Joy](card:ST014%20%E2%80%94%20Marie%20Kondo%20and%20the%20Spark%20of%20Joy): Marie Kondo has people hold each object and ask whether it sparks joy; if not, thank it and let it go."
+        },
+        {
+          "t": "h2",
+          "x": "The science of positive emotion"
+        },
+        {
+          "t": "p",
+          "x": "[ST303 — Broaden and Build](card:ST303%20%E2%80%94%20Broaden%20and%20Build): Fredrickson's theory holds that positive emotions broaden the repertoire of thought and action and build resources over time, while negative emotions narrow attention to the threat."
+        },
+        {
+          "t": "p",
+          "x": "[ST298 — The Positivity Ratio Falls](card:ST298%20%E2%80%94%20The%20Positivity%20Ratio%20Falls): a claimed tipping-point ratio of positive to negative emotion falls in 2013 when Brown, Sokal and Friedman show the mathematics behind it was unfounded, and the empirical application was retracted."
+        },
+        {
+          "t": "p",
+          "x": "[ST138 — Flow in the Everyday](card:ST138%20%E2%80%94%20Flow%20in%20the%20Everyday): Csikszentmihalyi has thousands of people paged at random moments and finds the most satisfying hours were the most absorbed, not the most pleasant."
         }
       ],
       "group": "affective-life",
       "status": "published",
       "art": "assets/dossier-art/happiness.jpg"
+    },
+    {
+      "id": "anxiety",
+      "title": "Anxiety",
+      "question": "Is anxiety a fault to be removed, a signal to be read, or a cost of being a creature that can foresee, and what actually loosens it?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This dossier is a map, not an essay. A reader who asks \"what do the traditions and the research say anxiety is, how does it differ from fear, stress and worry, and what helps?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to ease unnecessary suffering without pretending that all unease is a malfunction."
+        },
+        {
+          "t": "p",
+          "x": "A caution that belongs at the start. Nothing on this page is clinical advice. Where a card touches diagnosis, it says so itself, and a person in distress is better served by a clinician than by a wiki."
+        },
+        {
+          "t": "p",
+          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "The words around anxiety are used loosely, so the compendium keeps them apart unless a source joins them. What each source does say, in the sources' own words:"
+        },
+        {
+          "t": "p",
+          "x": "- Stress: Lazarus and Folkman define it as a relationship, not a feeling: \"psychological stress is a particular relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources\" ([Lazarus and Folkman, quoted in a PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). The compendium holds it under [Stress appraisal](card:Stress%20appraisal) and the stress cards in the group below. The sources opened for this page do not say that stress is a form of anxiety, and this page does not say so either. - Fear: Öhman and Mineka propose \"an evolved module for fear elicitation and fear learning\" ([Öhman and Mineka 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)). Kierkegaard sets anxiety apart from fear by its object, a distinction taken up in the first divergence below. Fear and courage are held in their own group. - Worry: Borkovec and colleagues describe it as \"a predominance of negatively valenced verbal thought activity\" ([Borkovec, Ray and Stöber 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20(1998)%20COTR.pdf)). It is held under [Worry research](card:Worry%20research) and [Worry theory cognitive avoidance Borkovec](card:Worry%20theory%20cognitive%20avoidance%20Borkovec). Whether worry is a part of anxiety is not settled by what is quoted here. - Angst: Heidegger's term; the Stanford Encyclopedia quotes him: \"Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities\" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)). Held by [Angst](card:Angst) and [Das Nichts](card:Das%20Nichts). - Dread and apprehension: a search of the wiki found no card titled for either, so no separate entry is mapped."
+        },
+        {
+          "t": "p",
+          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted above and in the divergences below."
+        },
+        {
+          "t": "h",
+          "x": "The map: every entry the wiki holds on anxiety"
+        },
+        {
+          "t": "h2",
+          "x": "What anxiety is, in philosophy"
+        },
+        {
+          "t": "p",
+          "x": "[Anxiety about the future](card:Anxiety%20about%20the%20future): Kierkegaard's Concept of Anxiety (1844) locates anxiety in possibility: the felt pull of possibilities, in which we are both drawn toward and repelled by one."
+        },
+        {
+          "t": "p",
+          "x": "[The dizziness of freedom](card:The%20dizziness%20of%20freedom): Kierkegaard's image for anxiety: fear has a definite object, while anxiety responds to possibility itself."
+        },
+        {
+          "t": "p",
+          "x": "[Facing the fear](card:Facing%20the%20fear): the thread Kierkegaard pulled through The Concept of Anxiety, written under the pseudonym Vigilius Haufniensis."
+        },
+        {
+          "t": "p",
+          "x": "[Facing the monster](card:Facing%20the%20monster): the monster is what one is drawn toward and repelled by at once, a description Kierkegaard takes from children's play."
+        },
+        {
+          "t": "p",
+          "x": "[Angst](card:Angst): the fundamental mood in which the ground of things slips away; for Heidegger, the disclosure of finitude as such."
+        },
+        {
+          "t": "p",
+          "x": "[Das Nichts](card:Das%20Nichts): Heidegger's 1929 lecture claims that the nothing is met in a particular mood, anxiety."
+        },
+        {
+          "t": "p",
+          "x": "[Existential confrontation](card:Existential%20confrontation): facing the basic conditions of human life, death, freedom, isolation and meaninglessness, instead of avoiding them."
+        },
+        {
+          "t": "p",
+          "x": "[The uncanny](card:The%20uncanny): a specific kind of fright that comes from the familiar and not from the alien."
+        },
+        {
+          "t": "h2",
+          "x": "Fear and courage"
+        },
+        {
+          "t": "p",
+          "x": "[Fear](card:Fear): the emotion that mobilizes defense against threat; for Öhman and Mineka, the central motive state of an evolved module."
+        },
+        {
+          "t": "p",
+          "x": "[The classification of fears](card:The%20classification%20of%20fears): Epicurus's Letter to Menoeceus addresses the two fears he treats as the main sources of disturbance: fear of the gods and fear of death."
+        },
+        {
+          "t": "p",
+          "x": "[The examination of fear](card:The%20examination%20of%20fear): Epicurus's method: take a fear, hold it up to reasoning, and watch it dissolve or shrink to its real size."
+        },
+        {
+          "t": "p",
+          "x": "[Epicurean argument against the fear of death](card:Epicurean%20argument%20against%20the%20fear%20of%20death): death is the privation of all sentience, so it cannot harm the person who no longer exists, and fearing it is a groundless pain."
+        },
+        {
+          "t": "p",
+          "x": "[Courage](card:Courage): one of the four cardinal virtues: acting well in the face of fear."
+        },
+        {
+          "t": "p",
+          "x": "[Courage — action despite fear](card:Courage%20%E2%80%94%20action%20despite%20fear): Aristotle's definition: the brave person does not lack fear but fears the right things."
+        },
+        {
+          "t": "p",
+          "x": "[Authentic courage without props](card:Authentic%20courage%20without%20props): Aristotle's distinction between courage proper and the things that merely look like it."
+        },
+        {
+          "t": "p",
+          "x": "[Courage built gradually](card:Courage%20built%20gradually): Aristotle describes courage as formed through habituation."
+        },
+        {
+          "t": "p",
+          "x": "[Moral courage research](card:Moral%20courage%20research): Hannah, Avolio and Walumbwa's working definition of the research field."
+        },
+        {
+          "t": "p",
+          "x": "[The fearless mind](card:The%20fearless%20mind): the composure the Buddha shows in the Abhayaraja-kumara Sutta (MN 58)."
+        },
+        {
+          "t": "h2",
+          "x": "Worry, rumination and uncertainty"
+        },
+        {
+          "t": "p",
+          "x": "[Worry research](card:Worry%20research): Borkovec and colleagues' programme: worry is abstract verbal thought that feels like preparation while functioning as avoidance."
+        },
+        {
+          "t": "p",
+          "x": "[Worry theory cognitive avoidance Borkovec](card:Worry%20theory%20cognitive%20avoidance%20Borkovec): the avoidance theory of worry: verbal thought that can function as cognitive avoidance of threatening images."
+        },
+        {
+          "t": "p",
+          "x": "[Rumination](card:Rumination): Nolen-Hoeksema's term for repetitively and passively focusing on one's symptoms and their possible causes and consequences."
+        },
+        {
+          "t": "p",
+          "x": "[Metacognitive model of anxiety and depression (Wells)](card:Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29): positive and negative metacognitive beliefs maintain worry and rumination."
+        },
+        {
+          "t": "p",
+          "x": "[Metacognitive therapy (Wells)](card:Metacognitive%20therapy%20%28Wells%29): treating beliefs about thinking, such as \"worrying is useful\", instead of the content of thoughts."
+        },
+        {
+          "t": "p",
+          "x": "[Intolerance of uncertainty](card:Intolerance%20of%20uncertainty): a dispositional incapacity to endure the aversive response triggered by uncertain situations."
+        },
+        {
+          "t": "p",
+          "x": "[Uncertainty tolerance](card:Uncertainty%20tolerance): research on intolerance of uncertainty and what reducing it does to worry."
+        },
+        {
+          "t": "p",
+          "x": "[Tolerance of uncertainty](card:Tolerance%20of%20uncertainty): comfort with incomplete information, as discussed in medical practice and in anxiety research."
+        },
+        {
+          "t": "p",
+          "x": "[Anticipatory affect](card:Anticipatory%20affect): the feeling state that arrives before the outcome, in Loewenstein's 1996 account."
+        },
+        {
+          "t": "p",
+          "x": "[Risk perception](card:Risk%20perception): the study of the judgments people make when asked to characterize and evaluate hazardous activities and technologies."
+        },
+        {
+          "t": "h2",
+          "x": "What anxiety does to attention"
+        },
+        {
+          "t": "p",
+          "x": "[Attentional control theory (Eysenck)](card:Attentional%20control%20theory%20%28Eysenck%29): Eysenck and colleagues' 2007 account of what anxiety does to thinking."
+        },
+        {
+          "t": "p",
+          "x": "[Attentional bias theory MacLeod](card:Attentional%20bias%20theory%20MacLeod): anxiety is maintained partly by where attention goes: toward threat cues."
+        },
+        {
+          "t": "p",
+          "x": "[Attentional bias research](card:Attentional%20bias%20research): asks whether what attention selects contributes to emotional vulnerability or merely accompanies it."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive bias modification theory](card:Cognitive%20bias%20modification%20theory): an approach to modifying the cognitive biases that confer vulnerability to anxiety."
+        },
+        {
+          "t": "h2",
+          "x": "Stress: demand, body and buffer"
+        },
+        {
+          "t": "p",
+          "x": "[Stress appraisal](card:Stress%20appraisal): the central idea of Lazarus and Folkman's transactional theory: stress depends on how a person-environment relationship is appraised."
+        },
+        {
+          "t": "p",
+          "x": "[Lazarus and Folkman's Transactional Theory of Stress and Coping](card:Lazarus%20and%20Folkman%27s%20Transactional%20Theory%20of%20Stress%20and%20Coping): stress is a person-environment transaction; harm depends on appraisal, and coping can change it."
+        },
+        {
+          "t": "p",
+          "x": "[Stress response (Lupien, McEwen)](card:Stress%20response%20%28Lupien%2C%20McEwen%29): the body's coordinated reaction to perceived threat; in McEwen's review the system protects in the short run and wears the body down when it stays active."
+        },
+        {
+          "t": "p",
+          "x": "[HPA axis theory stress](card:HPA%20axis%20theory%20stress): the hormonal stress response as a cascade from hypothalamus to pituitary to adrenal cortex, tuned for adaptation."
+        },
+        {
+          "t": "p",
+          "x": "[Autonomic nervous system (sympathetic vs parasympathetic)](card:Autonomic%20nervous%20system%20%28sympathetic%20vs%20parasympathetic%29): the part of the peripheral nervous system that regulates involuntary processes such as heart rate."
+        },
+        {
+          "t": "p",
+          "x": "[Stress mindset](card:Stress%20mindset): a person's standing belief that stress either enhances or debilitates performance, health and growth."
+        },
+        {
+          "t": "p",
+          "x": "[Stress cycle completion (Nagorski, Sapolsky)](card:Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29): the Nagoskis' account of completing the stress cycle as a shift from stress toward relief."
+        },
+        {
+          "t": "p",
+          "x": "[Stress inoculation training](card:Stress%20inoculation%20training): Meichenbaum's method for building coping capacity before stress arrives, on the vaccine metaphor."
+        },
+        {
+          "t": "p",
+          "x": "[Diathesis-stress model](card:Diathesis-stress%20model): disorder as a meeting of a latent vulnerability and environmental stress."
+        },
+        {
+          "t": "p",
+          "x": "[Triple Vulnerability Model](card:Triple%20Vulnerability%20Model): Barlow's model of the origins of anxiety and mood disorders through three separate but interacting vulnerabilities."
+        },
+        {
+          "t": "p",
+          "x": "[The stress-buffering model](card:The%20stress-buffering%20model): Cohen and Wills's account of how social support protects people from the effects of stress."
+        },
+        {
+          "t": "p",
+          "x": "[Distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29): Leyro and colleagues distinguish the perceived capacity to withstand aversive states from the behavioural act of withstanding them."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive mediation of distress](card:Cognitive%20mediation%20of%20distress): the cognitive-therapy assumption that interpretations influence emotional responses."
+        },
+        {
+          "t": "p",
+          "x": "[Mindfulness-based stress reduction](card:Mindfulness-based%20stress%20reduction): the eight-week course in secular mindfulness training that Jon Kabat-Zinn founded in 1979."
+        },
+        {
+          "t": "p",
+          "x": "[Minority stress theory](card:Minority%20stress%20theory): Ilan Meyer's 2003 framework: stigma, prejudice and discrimination create a hostile and stressful social environment that explains higher rates of mental disorder."
+        },
+        {
+          "t": "p",
+          "x": "[Stress-related growth](card:Stress-related%20growth): Tedeschi and Calhoun, 2004; the card is a short entry that points to post-traumatic growth."
+        },
+        {
+          "t": "h2",
+          "x": "Death anxiety"
+        },
+        {
+          "t": "p",
+          "x": "[Death anxiety research](card:Death%20anxiety%20research): the clinical-psychology study of fear of death and its role in mental disorder, proposed as a transdiagnostic construct."
+        },
+        {
+          "t": "p",
+          "x": "[Terror management](card:Terror%20management): the social-psychological account of how humans live with the knowledge that they will die."
+        },
+        {
+          "t": "p",
+          "x": "[Anxiety buffer disruption theory](card:Anxiety%20buffer%20disruption%20theory): Pyszczynski and Kesebir: reminders of mortality normally defend via culture; when that buffer is broken, anxiety and defensiveness intensify."
+        },
+        {
+          "t": "p",
+          "x": "[Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder](card:Clinical%20thresholds%20for%20depression%2C%20anxiety%2C%20PTSD%2C%20and%20bipolar%20disorder): gathers public help-seeking guidance and diagnostic passages; it does not establish one clinical threshold for all four conditions."
+        },
+        {
+          "t": "h2",
+          "x": "Calming and steadying"
+        },
+        {
+          "t": "p",
+          "x": "[Shamatha (calm abiding)](card:Shamatha%20%28calm%20abiding%29): the settling of the mind: attention rests on a chosen object until the mind grows quiet and comfortable."
+        },
+        {
+          "t": "p",
+          "x": "[Premeditatio malorum](card:Premeditatio%20malorum): the Stoic exercise of rehearsing future misfortunes in advance so as to strip misfortune of the strangeness that makes it heavy."
+        },
+        {
+          "t": "p",
+          "x": "[Spiritual vigilance](card:Spiritual%20vigilance): Hadot's name for the watchful attention the Stoic philosopher kept over his own mind, prosoche."
+        },
+        {
+          "t": "h2",
+          "x": "The sayings and the story"
+        },
+        {
+          "t": "p",
+          "x": "[275. Ivan Ilyich's Fear](card:ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is described with great precision, above all the fear of the thing he cannot name, the wrongness of a life that"
+        },
+        {
+          "t": "p",
+          "x": "[Perfect love casts out fear](card:Perfect%20love%20casts%20out%20fear): 1 John 4.18, cited in the compendium's practice principles on obeying from understanding and not from fear."
+        },
+        {
+          "t": "p",
+          "x": "[I fear the Greeks even bearing gifts](card:I%20fear%20the%20Greeks%20even%20bearing%20gifts): Virgil, Aeneid II, Laocoon's warning."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is anxiety the same as fear?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: does anxiety differ from fear in kind, or only in how far off the danger is? Kierkegaard says it differs in kind, and puts the difference in what the feeling is about. The version below comes from a newspaper essay that quotes The Concept of Anxiety:"
+        },
+        {
+          "t": "q",
+          "x": "\"Anxiety may be compared with dizziness. He whose eye happens to look down into the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eyes as in the abyss . . . Hence, anxiety is the dizziness of freedom.\" ([Kierkegaard, The Concept of Anxiety, as quoted in a New York Times essay](https://web.stanford.edu/~jsabol/existentialism/NYT_Kierkegaard.pdf)): Secondary source quoting the primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Heidegger takes the same line further and reads the mood as a disclosure of what a person is:"
+        },
+        {
+          "t": "q",
+          "x": "\"Anxiety is the mood in which I experience immediately the finitude of my future horizon of possibilities\" ([Stanford Encyclopedia of Philosophy, Heidegger](https://plato.stanford.edu/entries/heidegger/)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The research tradition treats fear as a system with a defined job and rules of operation. Öhman and Mineka say it is activated by stimuli that are fear relevant in an evolutionary perspective, automatically, and that it is \"relatively impenetrable to cognitive control\" ([Öhman and Mineka, Psychological Review 2001, abstract](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)): Secondary source; quoted passage checked. The two accounts are pitched at different levels. One asks what a mood tells a person about their situation; the other asks how a defence circuit is triggered. Whether the first kind of anxiety and the second kind of fear are one thing under two descriptions is not settled in the passages quoted."
+        },
+        {
+          "t": "h2",
+          "x": "Is the stress response a danger or an adaptation?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: should a person try to quiet the body's stress reaction, or work with it? McEwen's review gives the physiological case that it is both, by timing:"
+        },
+        {
+          "t": "q",
+          "x": "\"Yet, hormones associated with stress protect the body in the short-run and promote adaptation ('allostasis').\" ([McEwen, Physiological Reviews 2007, abstract](https://www.healthandenvironment.org/uploads-old/stress%20adaptation%20brain%20McEwen%2007.pdf)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The same abstract describes the other side: events in daily life that produce \"a type of chronic stress and lead over time to wear and tear on the body\". Crum, Salovey and Achor add that what a person believes about stress is itself a variable:"
+        },
+        {
+          "t": "q",
+          "x": "\"Together, these 3 studies suggest that stress mindset is a distinct and meaningful variable in determining the stress response.\" ([Crum, Salovey and Achor, Journal of Personality and Social Psychology 2013, abstract](https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/crum_salovey_anchor_2013_-_rethinking_stress.pdf)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The first source is about the body over time, the second about belief at the moment of stress. Neither abstract says that believing stress is helpful makes chronic stress harmless, and this dossier does not claim it."
+        },
+        {
+          "t": "h2",
+          "x": "Is worry preparation or avoidance?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when someone goes round and round in worry, are they getting ready or hiding? Borkovec and colleagues offer a functional reading in which worry can be a way of not feeling:"
+        },
+        {
+          "t": "q",
+          "x": "\"In this functional way, worry may be a type of cognitive avoidance to perceived dangers.\" ([Borkovec, Ray and Stöber, Cognitive Therapy and Research 1998](https://kar.kent.ac.uk/19832/1/Borkovec%20Ray%20St%C3%B6ber%20(1998)%20COTR.pdf)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The same paper notes that people do believe their worry protects them: \"people do attribute avoidant functions to their worrying, and there may be good reasons for these attributions.\" The intolerance-of-uncertainty model gives those beliefs a formal role:"
+        },
+        {
+          "t": "q",
+          "x": "\"The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD.\" ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two models share a structure: worry feels useful and is kept up for that reason. They differ on what is doing the work, avoidance of images in the first, intolerance of not knowing in the second. The abstracts quoted do not say which is the better account, or whether they describe different people."
+        },
+        {
+          "t": "h2",
+          "x": "Does reasoning, rehearsal or approach loosen fear?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: if a fear is out of proportion, what moves it? Epicurus bets on argument:"
+        },
+        {
+          "t": "q",
+          "x": "\"Death, therefore, the most awful of evils, is nothing to us, seeing that, when we are, death is not come, and, when death is come, we are not.\" ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Seneca bets on rehearsal, and says why:"
+        },
+        {
+          "t": "q",
+          "x": "\"Therefore, nothing ought to be unexpected by us. Our minds should be sent forward in advance to meet all problems, and we should consider, not what is wont to happen, but what can happen.\" ([Seneca, Moral Letters to Lucilius, Letter 91, Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_91)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Clinical practice bets on approach. Craske and colleagues write:"
+        },
+        {
+          "t": "q",
+          "x": "\"Exposure therapy, or repeated approach toward fear provoking stimuli, has been a mainstay of cognitive behavioral therapy for anxiety disorders since its inception.\" ([Craske and colleagues, Behaviour Research and Therapy 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The three methods target different parts of a fear. Argument works on a belief, rehearsal on surprise, approach on avoidance. The Öhman and Mineka abstract above says the fear module is relatively impenetrable to cognitive control, which is a reason to doubt that argument alone will do the whole job. The sources held do not compare the methods head to head."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying is the relationship to the feeling, not the feeling itself. The look-alikes of calm are avoidance, distraction and reassurance-seeking, which relieve anxiety in the moment and tend to keep it going. The adaptive moves are to ask what the anxiety is about, to test the feared prediction, to approach what was avoided, and to settle the body."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Anxiety-as-signal](card:K314%20%E2%80%94%20Anxiety-as-signal): before trying to reduce anxiety, ask what it is about and whether it points to something that needs attention."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Decatastrophizing](card:K130%20%E2%80%94%20Decatastrophizing): ask what the worst outcome is, how you would cope, what is most likely, and what is best."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Catastrophe testing](card:K272%20%E2%80%94%20Catastrophe%20testing): ask the Stoic questions: is this really terrible, has anyone endured worse, will it matter in a year."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[The downward arrow](card:K408%20%E2%80%94%20The%20downward%20arrow): follow a painful thought down by asking what would be bad about it, and then about the answer."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Behavioral experiment](card:K183%20%E2%80%94%20Behavioral%20experiment): test a belief through action."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Graded exposure](card:K117%20%E2%80%94%20Graded%20exposure): list avoided situations from least to most difficult, enter the easiest, stay, and move up."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[Interoceptive exposure](card:K118%20%E2%80%94%20Interoceptive%20exposure): induce feared bodily sensations in a safe context and stay with them."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[Sitting with uncertainty](card:K122%20%E2%80%94%20Sitting%20with%20uncertainty): let not-knowing be present instead of resolving it early."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[Implementation intentions](card:K153%20%E2%80%94%20Implementation%20intentions): an if-then plan, such as three slow breaths if anxious before a meeting."
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[Slow breathing (5 to 6 breaths per minute)](card:K194%20%E2%80%94%20Slow%20breathing%20%285%20to%206%20breaths%20per%20minute%29): breathe at about five to six breaths a minute for five minutes."
+        },
+        {
+          "t": "n",
+          "i": 11,
+          "x": "[Box breathing](card:K413%20%E2%80%94%20Box%20breathing): pace the breath in four equal phases of four seconds."
+        },
+        {
+          "t": "n",
+          "i": 12,
+          "x": "[The Three-minute Breathing Space](card:K392%20%E2%80%94%20The%20Three-minute%20Breathing%20Space): a three-step mini-meditation of becoming aware, gathering on the breath, and expanding."
+        },
+        {
+          "t": "n",
+          "i": 13,
+          "x": "[Breath anchoring](card:K100%20%E2%80%94%20Breath%20anchoring): rest attention on the breath, note where it went, return."
+        },
+        {
+          "t": "n",
+          "i": 14,
+          "x": "[Five-senses grounding](card:K106%20%E2%80%94%20Five-senses%20grounding): name five things you see, four you hear, three you touch, two you smell, one you taste."
+        },
+        {
+          "t": "n",
+          "i": 15,
+          "x": "[Comfort recalibration](card:K277%20%E2%80%94%20Comfort%20recalibration): introduce small deliberate discomforts into a routine."
+        },
+        {
+          "t": "n",
+          "i": 16,
+          "x": "[Compassion for a struggling version of yourself](card:K379%20%E2%80%94%20Compassion%20for%20a%20struggling%20version%20of%20yourself): settle into a compassionate stance and bring to mind a situation where you struggled."
+        },
+        {
+          "t": "p",
+          "x": "The cards carry their own evidence notes, and those notes matter here. Exposure and the cognitive exercises descend from treatments studied in clinical settings, where they are usually delivered with a clinician. The breathing and grounding practices are held as simple self-regulation tools, and a person with panic, trauma or persistent symptoms should not treat any of these as a substitute for care."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the habit of asking what the anxiety is about, or the slow breath before a hard meeting, or the small step toward what they have been avoiding, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "Anxiety as the vertigo of possibility"
+        },
+        {
+          "t": "p",
+          "x": "[ST273 — The Dizziness of Freedom](card:ST273%20%E2%80%94%20The%20Dizziness%20of%20Freedom): standing at the edge of one's own possibility, nothing determines the choice; Adam's anxiety in the garden, Kierkegaard notes, was not about the apple but about the possibility of possibility."
+        },
+        {
+          "t": "p",
+          "x": "[ST272 — Being-toward-Death](card:ST272%20%E2%80%94%20Being-toward-Death): Heidegger's analysis: death is not an event at the end of a life but the possibility each person is, which cannot be outstripped and which no one can take over."
+        },
+        {
+          "t": "h2",
+          "x": "The fear that has no name"
+        },
+        {
+          "t": "p",
+          "x": "[ST275 — Ivan Ilyich's Fear](card:ST275%20%E2%80%94%20Ivan%20Ilyich%27s%20Fear): Ivan Ilyich's dying is marked above all by fear, not of death in the abstract but of the wrongness of a life everyone around him insists was correct; his scream lasts three days and stops when he stops resisting."
+        },
+        {
+          "t": "p",
+          "x": "[ST221 — The Premeditation of Evils](card:ST221%20%E2%80%94%20The%20Premeditation%20of%20Evils): each morning the Stoic rehearses the day's possible losses, so that the loss, when it arrives, meets someone who has already sorted it, and the surprise, which is half the suffering, is removed."
+        },
+        {
+          "t": "h2",
+          "x": "The second arrow and the tied monkey"
+        },
+        {
+          "t": "p",
+          "x": "[ST078 — The Two Arrows](card:ST078%20%E2%80%94%20The%20Two%20Arrows): a well-taught person struck by an arrow feels one arrow; an untaught person feels two, the second being the story of why me and what will become of me."
+        },
+        {
+          "t": "p",
+          "x": "[ST075 — The Monkey Tied to the Post](card:ST075%20%E2%80%94%20The%20Monkey%20Tied%20to%20the%20Post): a monkey ranges across a whole forest until it is tied to a post, and then stays by the post; the training is not to cage the mind but to give it a post worth staying near."
+        },
+        {
+          "t": "p",
+          "x": "[ST331 — The Hungry Tiger](card:ST331%20%E2%80%94%20The%20Hungry%20Tiger): you take in a hungry baby tiger and feed him; every feeding calms him and makes him bigger, until feeding him sooner seems the only safe move, as relief-seeking can grow around a painful feeling."
+        },
+        {
+          "t": "h2",
+          "x": "The same storm, a different story"
+        },
+        {
+          "t": "p",
+          "x": "[ST207 — The Sailors and the Storm](card:ST207%20%E2%80%94%20The%20Sailors%20and%20the%20Storm): in a storm at sea the passengers panic and the sailors work; the storm is identical for both, and the difference is the story each has about it."
+        },
+        {
+          "t": "p",
+          "x": "[ST375 — John Muir Rides the Storm in a Treetop](card:ST375%20%E2%80%94%20John%20Muir%20Rides%20the%20Storm%20in%20a%20Treetop): John Muir rides out a Sierra windstorm near the top of a tree, moving with it as it bends and circling, having chosen the tree carefully and trusted its elasticity."
+        },
+        {
+          "t": "h2",
+          "x": "Staying calm when it is real"
+        },
+        {
+          "t": "p",
+          "x": "[ST342 — The Wild Boars Sit Still](card:ST342%20%E2%80%94%20The%20Wild%20Boars%20Sit%20Still): twelve boys and their assistant coach, who had trained ten years as a monk, wait out the flooded Tham Luang cave in 2018; he taught them to meditate, and the video of their finding shows them sitting calmly."
+        }
+      ],
+      "group": "affective-life",
+      "status": "published",
+      "art": "assets/dossier-art/anxiety.jpg"
+    },
+    {
+      "id": "cognition",
+      "title": "Cognition",
+      "question": "How does thinking work, and where does it reliably fail?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This dossier maps the compendium's whole spread on thinking: the styles of thought, the formation and holding of beliefs, the thinking that hurts, the ways it is changed, and reason's reach and limits, each entry with a card link. The lines are short on purpose; the dense arguments live on the cards. The boundary against the Attention dossier: the selection and sustaining of awareness lives there; what lives here is what thinking does with what awareness delivers."
+        },
+        {
+          "t": "p",
+          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:"
+        },
+        {
+          "t": "p",
+          "x": "- Thinking: the general capacity is this page's subject; its two speeds are held by [System 1 and System 2](card:System%201%20and%20System%202). - Thoughts: the \"thoughts are not facts\" territory is held here by [Cognitive defusion](card:Cognitive%20defusion) and the meditation cluster it links to. - Reasoning: studied as measured performance by [Critical thinking research](card:Critical%20thinking%20research) and as wise performance by [Wise reasoning](card:Wise%20reasoning). - Reason: the faculty's classical and critical accounts, logos, instrumental reason and its critics, are held by [Instrumental reason](card:Instrumental%20reason) and the philosophy cards it links to."
+        },
+        {
+          "t": "p",
+          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below."
+        },
+        {
+          "t": "h",
+          "x": "The map: every entry the wiki holds on cognition"
+        },
+        {
+          "t": "h2",
+          "x": "The two speeds of thought"
+        },
+        {
+          "t": "p",
+          "x": "[System 1 and System 2](card:System%201%20and%20System%202): Kahneman's names for the two modes: fast, automatic, intuitive thought, and slow, effortful, deliberate thought; the terms borrowed from Stanovich and West."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive-Experiential Self-Theory](card:Cognitive-Experiential%20Self-Theory): Epstein's dual-process theory of personality: a rational system that thinks slowly and logically, and an experiential one that is fast, automatic and emotionally driven. - [Dual-process theory](card:Dual-process%20theory): the general form — autonomous Type 1 processing distinguished from Type 2 processing that depends on working memory and supports hypothetical reasoning."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive biases](card:Cognitive%20biases): the systematic, predictable errors produced by the mind's shortcuts, from the founding 1974 paper."
+        },
+        {
+          "t": "p",
+          "x": "[Affect heuristic](card:Affect%20heuristic): the finding that positive or negative feelings about an object drive judgments of its risk and benefit."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive load theory](card:Cognitive%20load%20theory): Sweller's theory of working-memory demands in learning; its starting point is the small capacity of working memory."
+        },
+        {
+          "t": "p",
+          "x": "[Actively open-minded thinking](card:Actively%20open-minded%20thinking): Baron's reasoning style: considering alternatives and evidence against one's own conclusion, not only for it."
+        },
+        {
+          "t": "p",
+          "x": "[Critical thinking research](card:Critical%20thinking%20research): the empirical study of how well people reason and decide; the Cognitive Reflection Test line."
+        },
+        {
+          "t": "p",
+          "x": "[Expert intuition (Klein's recognition-primed decision model)](card:Expert%20intuition%20%28Klein%27s%20recognition-primed%20decision%20model%29): Gary Klein's account of how experienced decision-makers act fast under pressure: a possible course of action is generated and compared against the situation's constraints."
+        },
+        {
+          "t": "p",
+          "x": "The founding paper's own summary of the program:"
+        },
+        {
+          "t": "q",
+          "x": "\"This article described three heuristics that are employed in making judgments under uncertainty: (i) representativeness, which is usually employed when people are asked to judge the probability that an object or event A belongs to class or process B; (ii) availability of instances or scenarios, which is often employed when people are asked to assess the frequency of a class or the plausibility of a particular development; and (iii) adjustment from an anchor, which is usually employed in numerical prediction when a relevant value is available. These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors.\" ([Tversky and Kahneman 1974, Science](https://www.science.org/doi/10.1126/science.185.4157.1124)) — Study abstract; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "Where thinking happens"
+        },
+        {
+          "t": "p",
+          "x": "[Embodied cognition](card:Embodied%20cognition): the research programme that moves thinking out of the amodal symbol system and into the body; Barsalou's grounded-cognition manifesto."
+        },
+        {
+          "t": "p",
+          "x": "[Embedded cognition](card:Embedded%20cognition): the thesis that thinking happens against, and is lightened by, the environment the thinker is embedded in. - [Situated cognition theory](card:Situated%20cognition%20theory): thinking is scaffolded by the situation; tools, places and other people carry part of the cognitive load. - [Enactivism](card:Enactivism): the family of views treating cognition as something a living body does in its environment, rather than something a brain does with internal representations."
+        },
+        {
+          "t": "p",
+          "x": "[Distributed cognition extended mind](card:Distributed%20cognition%20extended%20mind): the two research programmes that deny the skull as the boundary of thinking; Clark and Chalmers's active externalism."
+        },
+        {
+          "t": "p",
+          "x": "[Dialogic reason](card:Dialogic%20reason): understanding and good judgement as arising between people in exchange, not inside a single isolated mind; Buber and Habermas."
+        },
+        {
+          "t": "p",
+          "x": "[Analytic vs holistic cognition](card:Analytic%20vs%20holistic%20cognition): two habits of attention and explanation documented across cultures, in Nisbett's group's account."
+        },
+        {
+          "t": "p",
+          "x": "[Dialectical thinking](card:Dialectical%20thinking): the account of naïve dialecticism: lay beliefs about how the world works, found more strongly in East Asian cultures."
+        },
+        {
+          "t": "p",
+          "x": "[Autistic cognition — detail-focused processing](card:Autistic%20cognition%20%E2%80%94%20detail-focused%20processing): the weak coherence account: strength in detail and pattern where the typical style pulls for gist and global form."
+        },
+        {
+          "t": "p",
+          "x": "Clark and Chalmers's position, in their own words:"
+        },
+        {
+          "t": "q",
+          "x": "\"In these cases, the human organism is linked with an external entity in a two-way interaction, creating a coupled system that can be seen as a cognitive system in its own right.\" ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html)) — Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"We advocate a very different sort of externalism: an active externalism, based on the active role of the environment in driving cognitive processes.\" ([Clark and Chalmers, The Extended Mind](https://consc.net/papers/extended.html)) — Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Spencer-Rodgers and colleagues' definition:"
+        },
+        {
+          "t": "q",
+          "x": "\"Naïve dialecticism refers to a set of East Asian lay beliefs characterized by tolerance for contradiction, the expectation of change, and cognitive holism.\" ([Spencer-Rodgers et al., Personality and Social Psychology Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/)) — Study abstract; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "How beliefs form and hold"
+        },
+        {
+          "t": "p",
+          "x": "[Belief as habit](card:Belief%20as%20habit): Peirce's account in \"How to Make Our Ideas Clear\": belief as the establishment of a rule of action."
+        },
+        {
+          "t": "p",
+          "x": "[Belief perseverance effect](card:Belief%20perseverance%20effect): beliefs persist after their evidential basis has been removed, in Ross, Lepper and Hubbard's demonstration. - [Holding as hypothesis](card:Holding%20as%20hypothesis): Peirce's practice — treating a strongly held belief as a proposition to be tested rather than a possession to be defended. - [Implicit theories of intelligence](card:Implicit%20theories%20of%20intelligence): people's lay beliefs about what intelligence is: a fixed quantity one is born with, or a quality that can be grown — Dweck's model. - [Motivated reasoning](card:Motivated%20reasoning): Ziva Kunda's 1990 proposal that motivation may affect reasoning through reliance on a biased set of cognitive processes."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive dissonance](card:Cognitive%20dissonance): Festinger's theory of the mismatch between cognitions and the pressure to reduce it."
+        },
+        {
+          "t": "p",
+          "x": "[Belief evaluation in CBT](card:Belief%20evaluation%20in%20CBT): examining what a thought does, not only whether it is true; cognitive therapy evaluates the content, acceptance-based therapies the context."
+        },
+        {
+          "t": "p",
+          "x": "[Identity-protective cognition](card:Identity-protective%20cognition): Dan Kahan's research program on reasoning in which \"is this true?\" is answered, unnoticed, by \"does this mark me as one of us?\"."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive bias modification theory](card:Cognitive%20bias%20modification%20theory): the approach to modifying the biases that confer vulnerability to anxiety, targeting attention bias and interpretation bias."
+        },
+        {
+          "t": "p",
+          "x": "Peirce's own lines:"
+        },
+        {
+          "t": "q",
+          "x": "\"The essence of belief is the establishment of a habit; and different beliefs are distinguished by the different modes of action to which they give rise.\" ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html)) — Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"As it appeases the irritation of doubt, which is the motive for thinking, thought relaxes, and comes to rest for a moment when belief is reached.\" ([Peirce, How to Make Our Ideas Clear](https://peirce.org/writings/p119.html)) — Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Festinger's definition:"
+        },
+        {
+          "t": "q",
+          "x": "\"These two elements are in a dissonant relation if, considering these two alone, the obverse of one element would follow from the other. If, considering a pair of elements, either one does follow from the other, then the relation between them is consonant.\" ([Festinger, A Theory of Cognitive Dissonance, ch. 1](https://www.panarchy.org/festinger/dissonance.html)) — Primary text; quoted passages checked.",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "The thinking that hurts"
+        },
+        {
+          "t": "p",
+          "x": "[Beck's cognitive model](card:Beck%27s%20cognitive%20model): automatic thoughts, assumptions and core schemas about self and world maintain depression and anxiety."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive-behavioural model](card:Cognitive-behavioural%20model): how a person interprets a situation, more than the situation itself, shapes what they feel and do; the model behind CBT."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive mediation of distress](card:Cognitive%20mediation%20of%20distress): the cognitive-therapy assumption that interpretations influence emotional responses."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive distortions](card:Cognitive%20distortions): the systematic errors Beck found in the thinking of depressed patients, the idiosyncratic conceptualizations that led him to characterize depression's phenomena in terms of a thought disorder."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive distortions research](card:Cognitive%20distortions%20research): the patterns to be identified and modified: catastrophising, overgeneralisation, personalisation."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive attentional syndrome Wells](card:Cognitive%20attentional%20syndrome%20Wells): Wells's name, within his self-regulatory executive function model, for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders."
+        },
+        {
+          "t": "p",
+          "x": "[Rumination](card:Rumination): Nolen-Hoeksema's term for repetitively and passively focusing on one's symptoms and their possible causes and consequences, rather than acting; response styles theory's account of why it travels with depression. - [Metacognitive model of anxiety and depression (Wells)](card:Metacognitive%20model%20of%20anxiety%20and%20depression%20%28Wells%29): positive and negative metacognitive beliefs maintain worry and rumination — anxiety and depression assigned to a thinking style rather than to thought content. - [Worry theory cognitive avoidance Borkovec](card:Worry%20theory%20cognitive%20avoidance%20Borkovec): the avoidance theory of worry — predominantly verbal thought functioning as cognitive avoidance in response to threatening images. - [Ironic process](card:Ironic%20process): Wegner's account of how attempts at thought suppression can backfire."
+        },
+        {
+          "t": "p",
+          "x": "[Dichotomous (black-and-white) thinking](card:Dichotomous%20%28black-and-white%29%20thinking): the habit of sorting events into two opposite boxes: all or nothing, right or wrong, safe or dangerous."
+        },
+        {
+          "t": "h2",
+          "x": "Changing thinking"
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive restructuring](card:Cognitive%20restructuring): the technique family at the heart of cognitive therapy: helping clients identify, evaluate and correct inaccurate beliefs. - [Rational Emotive Behavior Theory](card:Rational%20Emotive%20Behavior%20Theory): Albert Ellis's theory of how suffering is made, and how it can be unmade — presented in 1955. - [Mindfulness-based cognitive therapy](card:Mindfulness-based%20cognitive%20therapy): a group program for people who have recovered from depression and want to stay well — systematic mindfulness training combined with elements from cognitive therapy. - [Decentering](card:Decentering): the capacity to observe thoughts and feelings as mental events rather than as the world. - [Detached mindfulness theory Wells](card:Detached%20mindfulness%20theory%20Wells): a way of responding to a thought within metacognitive therapy: notice it, and do nothing further with it. - [Metacognitive therapy (Wells)](card:Metacognitive%20therapy%20%28Wells%29): shifts the target of treatment from the content of thought to the metacognitive beliefs that keep it going."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive reappraisal](card:Cognitive%20reappraisal): the emotion-regulation strategy of changing an emotional event's meaning so that the feeling that follows changes; antecedent-focused in Gross's process model."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive defusion](card:Cognitive%20defusion): the ACT practice of seeing thoughts as thoughts, mental events passing through awareness, rather than as commands, facts or the self."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive transformation theory of desistance](card:Cognitive%20transformation%20theory%20of%20desistance): Giordano and colleagues' account of how people stop offending: cognitive shifts that recognise new possibilities and reinterpret one's past."
+        },
+        {
+          "t": "h2",
+          "x": "Thinking over a life"
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive ageing](card:Cognitive%20ageing): the abilities do not rise and fall together; some peak at high-school graduation, some plateau in early adulthood."
+        },
+        {
+          "t": "p",
+          "x": "[Information-processing theory of cognitive development](card:Information-processing%20theory%20of%20cognitive%20development): how children represent, transform and use information."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive-developmental theory of moral reasoning](card:Cognitive-developmental%20theory%20of%20moral%20reasoning): Kohlberg's fixed sequence of stages, built on Dewey's and Piaget's levels."
+        },
+        {
+          "t": "p",
+          "x": "[Justice reasoning](card:Justice%20reasoning): the core of Kohlberg's program: justice-as-fairness as the central moral concept."
+        },
+        {
+          "t": "p",
+          "x": "[Cultural recognition](card:Cultural%20recognition): Taylor's classic statement of the demand at the centre of multicultural politics: that identities be acknowledged rather than demeaned."
+        },
+        {
+          "t": "h2",
+          "x": "Thinking's reach and limits"
+        },
+        {
+          "t": "p",
+          "x": "[Metacognition](card:Metacognition): thinking about thinking; Flavell's 1979 article and its four classes of phenomena. - [Metacognitive monitoring](card:Metacognitive%20monitoring): assessing one's own cognitive activity, including memory and comprehension — Flavell's territory. - [Need for cognition](card:Need%20for%20cognition): a stable individual difference in how much people engage in and enjoy effortful thinking — Cacioppo and Petty's 1982 construct. - [Unconscious thought theory (Dijksterhuis)](card:Unconscious%20thought%20theory%20%28Dijksterhuis%29): Dijksterhuis and Nordgren's 2006 account of what the mind does with a problem when attention is elsewhere: unconscious thought as a mode with its own strengths. - [The observing self](card:The%20observing%20self): Deikman's name for awareness itself — the \"I\" that witnesses thoughts, feelings and sensations without being identical to any of them. - [Moral intuition research](card:Moral%20intuition%20research): asks whether moral judgments come from reasoning or from fast evaluations that reasoning later explains — Haidt's 2001 case. - [Wisdom](card:Wisdom): the knowledge and judgment that experience is supposed to leave behind — approached by psychological science along the Berlin expertise line and others."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive flexibility](card:Cognitive%20flexibility): one of the three core executive functions: the capacity to switch perspectives and adapt to changed circumstances."
+        },
+        {
+          "t": "p",
+          "x": "[Divergent and convergent thinking](card:Divergent%20and%20convergent%20thinking): generating many varied ideas from the same starting point, and narrowing to the one already known answer."
+        },
+        {
+          "t": "p",
+          "x": "[Divergent thinking tests](card:Divergent%20thinking%20tests): the standard tasks creativity researchers use to measure the generation of many varied responses."
+        },
+        {
+          "t": "p",
+          "x": "[Episodic future thinking](card:Episodic%20future%20thinking): the mind's rehearsal of specific futures: vividly imagining and mentally simulating personally relevant events that have not yet happened."
+        },
+        {
+          "t": "p",
+          "x": "[Wise reasoning](card:Wise%20reasoning): Grossmann's research program's answer to what wisdom is, studied empirically: not a saintly personality type but strategies deployed, or not, situation by situation."
+        },
+        {
+          "t": "p",
+          "x": "[Instrumental reason](card:Instrumental%20reason): reason reduced to the choice of means; it asks how to get what it has been given, and has stopped asking whether what it has been given is worth wanting."
+        },
+        {
+          "t": "p",
+          "x": "Grossmann's own list of the strategies:"
+        },
+        {
+          "t": "q",
+          "x": "\"They include (a) intellectual humility or recognition of limits of own knowledge, (b) appreciation of perspectives broader than the issue at hand, (c) sensitivity to the possibility of change in social relations, and (d) compromise or integration of different opinions.\" ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"People vary dramatically in their likelihood of utilizing wise thought from one situation to the next.\" ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Should you argue with the thought, or step back from it?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when a thought is hurting you, is the work to correct its content or to change your relationship to it? Cognitive therapy's answer, from the meta-analytic review of its core technique:"
+        },
+        {
+          "t": "q",
+          "x": "\"One method that is hypothesized to play a role in the process of change across many psychotherapies is cognitive restructuring (CR), which refers to a set of techniques used to help clients identify, evaluate and correct inaccurate beliefs... Rather than being defined as a single method, CR refers to the collection of therapeutic techniques aimed at helping clients identify, challenge, and correct biased and maladaptive automatic interpretations of events.\" ([Ezawa and Hollon 2023, Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/)) — Scholarly review; cited passages checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The acceptance-and-commitment tradition's answer keeps the thought and moves the observer:"
+        },
+        {
+          "t": "q",
+          "x": "\"to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)\" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/)) — Scholarly interpretation; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Both positions answer the same question, what to do with a painful thought, and they part on whether the thought is an object to be corrected or an event to be watched. The wiki holds both without adjudicating which works when; the defusion card itself notes its exact cross-tradition cognates: Anatta and Self-as-context as the Buddhist and ACT accounts of the observing perspective, Right concentration as the practice of watching thoughts arise and pass."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is the relation to one's own thinking: thoughts taken as facts, the first interpretation kept, beliefs held past their evidence, and reasoning pressed into service of identity. The adaptive direction is the thought seen as a thought, alternatives actually considered, beliefs revisable, and reasoning used to find out rather than to defend."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Cognitive defusion](card:K126%20%E2%80%94%20Cognitive%20defusion): noting a painful thought in the form \"I'm having the thought that...\"; the thought's authority, not its content, is what changes."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Cognitive reappraisal](card:K127%20%E2%80%94%20Cognitive%20reappraisal): when a situation triggers distress, generating an alternative interpretation: what else could this mean, what would a wise friend say, what is the larger context."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Thought record](card:K128%20%E2%80%94%20Thought%20record): the CBT workhorse: situation, thought, feeling, evidence for, evidence against, and a more balanced statement."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Wise-reasoning prompts](card:K260%20%E2%80%94%20Wise-reasoning%20prompts): for a troubling situation, four questions: how it could unfold, the perspectives on it, how one's own interests bias the view, and what a wise friend would do."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Public reasoning](card:K365%20%E2%80%94%20Public%20reasoning): when taking a public position on a question of rights or justice, building the strongest honest case for the opposing view before stating your own."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Compassionate Thinking: name the part, then look from the other side](card:K381%20%E2%80%94%20Compassionate%20Thinking%3A%20name%20the%20part%2C%20then%20look%20from%20the%20other%20side): giving inner states names, \"Anxious Me,\" \"the Critic,\" as separate voices to talk about rather than be."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[Cognitive acceptance: watch thoughts float by](card:K385%20%E2%80%94%20Cognitive%20acceptance%3A%20watch%20thoughts%20float%20by): a chosen recurring thought watched for five minutes floating past like clouds, then noticed for twenty-four hours without judging, changing or avoiding it — the aim being to stop adding struggle on top."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[Carry the thought on paper](card:K387%20%E2%80%94%20Carry%20the%20thought%20on%20paper): a self-led acceptance exercise from Tolin's Doing CBT: the recurring thought written down, folded, kept in the pocket; the slip stands in for the thought, noticed and carried while the day goes on."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[Sounds and Thoughts meditation](card:K394%20%E2%80%94%20Sounds%20and%20Thoughts%20meditation): resting on the breath, then receiving sounds near and far without searching for them, then turning the same receiving stance on thoughts — events arising, lingering, passing."
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[Sing the thought, or say it in a silly voice](card:K401%20%E2%80%94%20Sing%20the%20thought%2C%20or%20say%20it%20in%20a%20silly%20voice): a self-critical thought already examined, said once normally, then sung to a well-known tune or said in an exaggerated voice; the card's own caution is to use it only on the examined thought, not a fresh wound."
+        },
+        {
+          "t": "p",
+          "x": "The evidence limits are uneven across the list, and the kernels say so where it matters: the thought record and reappraisal carry the CBT trial literature; the defusion family carries the ACT literature; the wise-reasoning prompts carry Grossmann's situation-varying findings rather than a tested protocol."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "Beliefs"
+        },
+        {
+          "t": "p",
+          "x": "[ST102 — Peirce's Maxim](card:ST102%20%E2%80%94%20Peirce%27s%20Maxim): Peirce asks what the meaning of a concept is and answers with a maxim: consider what practical effects we conceive the object of our concept to have — the meaning is those effects."
+        },
+        {
+          "t": "p",
+          "x": "[ST103 — James and the Cash Value of Ideas](card:ST103%20%E2%80%94%20James%20and%20the%20Cash%20Value%20of%20Ideas): James popularises the maxim with a metaphor that stuck and annoyed: true ideas are those we can assimilate, corroborate and verify — the cash value of an idea."
+        },
+        {
+          "t": "p",
+          "x": "[ST106 — Peirce's Four Methods](card:ST106%20%E2%80%94%20Peirce%27s%20Four%20Methods): “The Fixation of Belief” catalogues the ways people settle their beliefs — tenacity holds the belief and ignores doubt; authority lets the institution do it; and the list runs on to the method that fixes belief by appeal to the real."
+        },
+        {
+          "t": "p",
+          "x": "[ST186 — The Fox and the Grapes](card:ST186%20%E2%80%94%20The%20Fox%20and%20the%20Grapes): a fox, unable to reach the grapes, walks away saying they were probably sour anyway; Aesop's tag: it is easy to despise what you cannot get."
+        },
+        {
+          "t": "h2",
+          "x": "Thinking that hurts"
+        },
+        {
+          "t": "p",
+          "x": "[ST154 — John Nash and the Delusion's Signature](card:ST154%20%E2%80%94%20John%20Nash%20and%20the%20Delusion%27s%20Signature): the film renders Nash's hallucinations as fully realised characters — a roommate, a government agent, a child — and his solution is diagnostic: the little girl never ages, therefore she is not real; he returns to teaching, and to the hallucinations, as permanent companions."
+        },
+        {
+          "t": "p",
+          "x": "[ST155 — Meno's Paradox](card:ST155%20%E2%80%94%20Meno%27s%20Paradox): the inquiry hits a wall: how will you look for virtue if you do not know what it is, and if you know what you are looking for, why look?"
+        },
+        {
+          "t": "p",
+          "x": "[ST172 — Thales Falls in the Well](card:ST172%20%E2%80%94%20Thales%20Falls%20in%20the%20Well): Thales, walking at night studying the stars, falls into a well; the Thracian servant girl laughs — so eager to know what is in the heavens that he cannot see what is at his feet."
+        },
+        {
+          "t": "h2",
+          "x": "Changing thinking"
+        },
+        {
+          "t": "p",
+          "x": "[ST427 — The Ladder for Unskillful Thoughts](card:ST427%20%E2%80%94%20The%20Ladder%20for%20Unskillful%20Thoughts): the Vitakkasanthana Sutta addresses a monk in whom thoughts imbued with desire, aversion or delusion arise, and offers a ladder of responses for relaxing such thoughts."
+        },
+        {
+          "t": "p",
+          "x": "[ST419 — Poincare Leaves the Problem and Returns to Check It](card:ST419%20%E2%80%94%20Poincare%20Leaves%20the%20Problem%20and%20Returns%20to%20Check%20It): Poincare's mathematical investigation is repeatedly interrupted; the ideas arrive while he is travelling or walking, and he returns to deliberate work to check and finish them."
+        },
+        {
+          "t": "p",
+          "x": "[ST415 — The Blind Men and the Elephant](card:ST415%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): after monks report sectarians quarrelling, the Buddha tells of a king who has people blind from birth shown different parts of an elephant — each group describes the whole animal from the part in its hands."
+        },
+        {
+          "t": "p",
+          "x": "[ST083 — Neo Takes the Red Pill](card:ST083%20%E2%80%94%20Neo%20Takes%20the%20Red%20Pill): offered the blue pill that returns him to comfortable ignorance or the red pill that shows him his world is a simulation, he takes the red pill."
+        },
+        {
+          "t": "h2",
+          "x": "Two speeds"
+        },
+        {
+          "t": "p",
+          "x": "[ST130 — Berlin's Fox and Hedgehog](card:ST130%20%E2%80%94%20Berlin%27s%20Fox%20and%20Hedgehog): Berlin takes a line from Archilochus — the fox knows many things, but the hedgehog knows one big thing — and turns it into the most quoted typology in twentieth-century thought."
+        }
+      ],
+      "group": "eemm",
+      "status": "published",
+      "art": "assets/dossier-art/cognition.jpg"
     }
   ],
   "groups": [
@@ -7451,16 +9020,6 @@ window.fcDossiersData = {
     }
   ],
   "roadmap": [
-    {
-      "id": "anxiety",
-      "title": "Anxiety",
-      "group": "affective-life"
-    },
-    {
-      "id": "cognition",
-      "title": "Cognition",
-      "group": "eemm"
-    },
     {
       "id": "decision-making",
       "title": "Decision-Making",

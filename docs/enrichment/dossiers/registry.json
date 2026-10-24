@@ -114,7 +114,7 @@
       "id": "anxiety",
       "title": "Anxiety",
       "group": "affective-life",
-      "status": "planned",
+      "status": "published",
       "art": "anxiety.jpg",
       "scope": "First dossier of the disambiguation programme: an explicit 'Nearby terms' section must examine Stress, Worry and Angst from opened sources and state what the wiki holds on each, before any split into separate dossiers is decided. See docs/enrichment/dossiers/DISAMBIGUATION.md.",
       "nearby_terms": [
@@ -146,7 +146,7 @@
       "id": "cognition",
       "title": "Cognition",
       "group": "eemm",
-      "status": "planned",
+      "status": "published",
       "art": "cognition.jpg",
       "scope": "Thinking styles, reasoning, belief formation, the limits of reason. Contains the 'thoughts' territory the owner named.",
       "nearby_terms": [
