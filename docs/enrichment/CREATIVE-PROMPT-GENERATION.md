@@ -3,7 +3,7 @@ name: Creative-Prompt-Generation
 description: Rules for engineering writing prompts that reliably spark creative work instead of clichés. Grounded in opened psychology-of-creativity sources; every research claim traces to the ledger at docs/enrichment/sources/superskills/creative-prompt-generation.md and carries an inline source link.
 license: MIT
 metadata:
-  version: 2.1.0
+  version: 2.2.0
   updated: 2026-10-24
   evidence: docs/enrichment/sources/superskills/creative-prompt-generation.md
 ---
@@ -134,9 +134,9 @@ Repair: narrow to a specific object, moment, or action while leaving the writer'
 
 ### Too narrow
 
-Weak: "Write a 100-word story about a red umbrella on a rainy Tuesday where a nurse named Linda loses her job, told in first person, present tense, ending with a phone call."
+Weak: "Write a 100-word story about a red umbrella on a rainy Tuesday where a nurse named Linda loses her job, is comforted by a stranger's phone call, and realises that small kindnesses matter most, told in first person, present tense, ending with the call."
 
-Diagnosis: the constraints decide nearly everything specific to this story — the who, the what, the weather, the tense, the ending device. What remains is execution. Specific content is not itself proof of overconstraint: a named object can be a fine anchor, and Haught-Tromp's required nouns were content constraints that worked. The problem here is crowding: each clause takes away a discovery the writer could have made, and the pile of them leaves no room for the writer's own story. Run the constraint test: does each clause open at least two directions, or only one?
+Diagnosis: the prompt has decided not only the events but the meaning the writer is supposed to draw from them. The interpretation ("small kindnesses matter most") and the resolution are supplied; the writer's remaining job is transcription. Note that the details themselves are not the problem — a named object can anchor a piece, and Haught-Tromp's required nouns were content constraints that worked. The failure is that this prompt answers its own question. Run the constraint test: does each clause open at least two directions, or only one?
 
 Repair: cut the content mandates, keep the constraints that require moves. "Write a 100-word story in which the weather, the job, and the ending are yours to decide. The umbrella must be red, no sentence may be in past tense, and the word 'rain' may not appear."
 
@@ -150,7 +150,7 @@ Repair: rewrite so the writer has enough information to begin and knows when the
 
 ## The generation procedure
 
-Work the steps in order. Each one produces a sentence or two of the final prompt.
+Identify the brief, select the components that serve it, assemble them, then test. The steps below are the default assembly sequence in a convenient order; the kit behind them is selective, and a component that does not serve this brief is left out.
 
 1. Name the target. One word for what the writer is reaching for: grief, envy, wonder, an ending that lands. This word usually does not appear in the prompt itself; it steers your choices. Sometimes naming the theme explicitly helps the writer understand the assignment — your call, not a rule.
 2. Choose the anchor. One or two concrete nouns tied to the target.
@@ -166,18 +166,17 @@ Work the steps in order. Each one produces a sentence or two of the final prompt
 12. Run the QC checklist. Fix what fails.
 
 The order above is a default assembly sequence, not a mandate: select the components this task and this writer need, then assemble them. A word ban, a distance marker, a panoramic opening and a private-writing frame are options in the kit, not a default bundle; a prompt that always carries all four is a formula, and formula is the failure mode this skill exists to prevent.
-
 ## Worked examples
 
 Three prompts built with the procedure. The annotations label which components each carries.
 
 ### Example 1: fiction, target "grief"
 
-Prompt: "A character returns a borrowed object to a family they have never met. Every scene must contain something the character can hold. The word 'love' may not appear anywhere, and no one in the story may say the word 'sorry.' Draft for twenty minutes, stop mid-sentence, and finish it tomorrow before you reread anything. Length: your call; you are done when every scene has something held."
+Prompt: "A character returns a borrowed object to the family of someone who has died, people they have never met. Every scene must contain something the character can hold. The word 'love' may not appear anywhere, and no one in the story may say the word 'sorry.' Draft for twenty minutes, stop mid-sentence, and finish it tomorrow before you reread anything. Length: your call; you are done when every scene has something held."
 
 Components: anchor (the borrowed object, unspecified — the writer chooses it, which is a decision left open); preclusive (two word bans); promotive (held object in every scene); incubation hook (the pause and return). Stakes are light and implied (the return itself). No distance marker: the scene's work is closeness.
 
-Three-directions sketch (desk test, recorded as the QC step requires): the object could be a borrowed drill returned to a widow who tells the character more than they wanted to know; a book whose marginalia reveals the lender's opinion of the borrower; a set of keys to a flat the character must now decide whether to enter. Three genuinely different stories — a comedy of over-disclosure, a study in wounded pride, a trespass decision. The prompt passes: the directions diverge in situation and stakes, not just scenery. These are desk tests of the prompt's structure, not measured outcomes for writers.
+Three-directions sketch (desk test, recorded as the QC step requires): the object could be a borrowed drill returned to a widow who tells the character more than they wanted to know; a book whose marginalia reveals the lender's opinion of the borrower; a set of keys to a flat the character must now decide whether to enter. Three genuinely different stories — a comedy of over-disclosure, a study in wounded pride, a trespass decision. The prompt passes: the directions diverge in situation and stakes, not just scenery. Checklist pass: the prohibition is paired with a constructive route (the held-object requirement), no examples are embedded, one anchor, each constraint opens directions, the frame is intrinsic, start and finish conditions are stated, and the sketch diverges. These are desk tests of the prompt's structure, not measured outcomes for writers.
 
 ### Example 2: poetry, target "waiting"
 
@@ -185,11 +184,15 @@ Prompt: "Write a twelve-line poem that takes place inside the sixty seconds a ke
 
 Components: anchor (the kettle); preclusive (the word ban); promotive (edge-of-vision touch per stanza); attentional breadth (wide-to-narrow ordering inside the scene); intrinsic frame (for the drawer); output specification (twelve lines). Incubation hook omitted for this exercise as an editorial choice about pacing; the meta-analysis does not establish a length boundary.
 
+Three-directions sketch (desk test): three genuinely different treatments a writer could give — a poem of pure sensory attention that never mentions the person being waited for; a poem where the speaker's mind circles a coming conversation in fragments; a comic poem where the kettle's slowness becomes the antagonist. The treatments differ in stance (attention, dread, comedy), not just imagery. Checklist pass: the ban is paired with a periphery requirement, one anchor, no examples, each constraint opens directions, the frame is intrinsic, start and finish conditions stated, sketch diverges. Desk test of structure, not a measured outcome.
+
 ### Example 3: memoir, target "wonder"
 
 Prompt: "Describe the most ordinary object in your kitchen to someone a hundred years from now who has never seen one. You may not name what it is. Include one unusual use you have actually made of it. If you are not sure of a detail, mark the uncertainty rather than filling the gap with invention. Two paragraphs. Put it away for an evening before you decide whether it is finished."
 
-Components: anchor (the writer's own object); preclusive (the naming ban); promotive (the unusual use the writer actually made); distance (the future reader); incubation hook (the evening pause). The uncertainty instruction is a memoir-specific rule: the constraint set must not push a memoirist to invent facts, and it must not require knowledge of another person's intentions. Fallback if the anchor does not fit: if the writer's kitchen has no object that interests them, let them take any object they have owned for more than ten years; the constraints survive the substitution.
+Components: anchor (the writer's own object); preclusive (the naming ban); promotive (the unusual use the writer actually made); distance (the future reader); incubation hook (the evening pause). The uncertainty instruction is a memoir-specific rule: the constraint set must not push a memoirist to invent facts, and it must not require knowledge of another person's intentions. Fallback if the anchor does not fit: if the writer's kitchen has no object that interests them, let them take any object they have owned for more than ten years; the constraints survive the substitution. If no unusual use comes to mind, an ordinary remembered use will do; the requirement is to have done it, not to have done it strangely.
+
+Three-directions sketch (desk test; these are hypothetical response directions, not memories): an elegy for an object that outlived its purpose in the writer's life; a comic meditation on how badly the future reader would misread it; a plain inventory that turns, halfway through, into an inventory of the writer's hands at different ages. The directions differ in mode, not just content. Checklist pass: ban paired with a required move, one anchor, no examples, constraints open directions, intrinsic frame, start and finish stated, sketch diverges. Desk test of structure, not a measured outcome.
 
 ## The QC checklist
 
@@ -203,6 +206,7 @@ Run every generated prompt against these questions. A prompt passes when every a
 6. Is the frame intrinsic, with nothing evaluative in it?
 7. Does the writer have enough information to begin, and do they know when they are done?
 8. Do three privately sketched responses diverge substantially, not just in names and scenery?
+9. Does the prompt fit the brief it was written for — its target theme and its genre — as the desk tests above illustrate, or did the kit take over and miss the point?
 
 ## Evidence pointers
 
