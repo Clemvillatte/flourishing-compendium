@@ -34,8 +34,9 @@ The dossier's three verbatim quotations were checked against their
 carriers this session: Keats's Negative Capability letter (Gutenberg
 35698, verbatim); the Intolerance of Uncertainty Model abstract
 (PMC5088195, verbatim; also verified in the anxiety dossier's ledger);
-Epictetus, Enchiridion 1 (MIT Classics, Carter, verbatim). All match
-word-for-word. No corrections needed; body unchanged.
+Epictetus, Enchiridion 1 (MIT Classics, Carter, verbatim). All three
+blocks' phrases were located and matched in the opened carriers. No
+corrections needed; body unchanged.
 
 ## Method qualification (2026-10-24, advisor QC correction, same session)
 

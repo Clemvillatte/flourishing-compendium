@@ -221,8 +221,11 @@ quote checked word-for-word:
 - Mooneyham and Schooler 2013 (UCSB metalab PDF): all three quotes
   verified (costs summary, proposed functions, mood insulation).
 
-All 18 quotations match word-for-word. No corrections needed to the
-dossier body. Checker and voice audit not re-run (body unchanged).
+Each quotation block's distinctive phrases were located in the
+opened carriers and compared (eighteen blocks; the Mooneyham and
+Schooler material is two blocks joining excerpts with ellipses, not
+three separate quotations). No corrections needed to the dossier
+body. Checker and voice audit not re-run (body unchanged).
 
 ## Method qualification (2026-10-24, advisor QC correction, same session)
 
@@ -236,3 +239,11 @@ compared character-by-character against a rendered source page.
 Counts refer to quotation blocks, not distinct passages (blocks can
 overlap or join excerpts with ellipses). Any prior verification
 record in this ledger is not displaced by this pass.
+
+## Quotation-structure note (2026-10-24, advisor QC)
+
+The Mooneyham and Schooler material in the dossier body is two
+quotation blocks that each join excerpts with ellipses; the phrases
+of every excerpt were located in the opened PDF, and the join points
+are marked as ellipses in the body, but the joined whole was not
+compared as one continuous passage (it is not one).

@@ -122,7 +122,8 @@ The dossier's two verbatim quotations were checked against their
 carriers this session: Wood and Neal 2007 (ERIC EJ776723, both
 sentences verbatim from the abstract) and Aristotle, Nicomachean
 Ethics II.1 in the Chase translation (Gutenberg 8438, verbatim). Both
-match word-for-word. No corrections needed; body unchanged.
+blocks' phrases were located and matched in the opened carriers. No
+corrections needed; body unchanged.
 
 ## Method qualification (2026-10-24, advisor QC correction, same session)
 

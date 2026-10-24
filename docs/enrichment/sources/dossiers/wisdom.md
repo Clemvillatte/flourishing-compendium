@@ -104,8 +104,12 @@ checked against their carriers this session:
 9. NE II.6 "Virtue, then, is a state of character concerned with
    choice..." — verbatim (MIT Classics, nicomachaen.2.ii.html).
 
-All nine match word-for-word. No corrections needed to the dossier
-body. Checker and voice audit not re-run (body unchanged).
+Each quotation's phrases were located in the opened carriers and
+compared (four NE book VI quotation blocks, not three; the blocks
+are the NE VI.7 definition, the wise-vs-practically-wise contrast,
+the VI.12 mark passage, and the VI.13 conclusion). No corrections
+needed to the dossier body. Checker and voice audit not re-run
+(body unchanged).
 
 ## Method qualification (2026-10-24, advisor QC correction, same session)
 

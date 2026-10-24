@@ -204,8 +204,9 @@ checked word-for-word:
 - Hayes, Strosahl and Wilson 1999 as quoted in Bernstein et al.
   (PMC5103165): the defusion wording verified.
 
-All 11 quotations match word-for-word. No corrections needed to the
-dossier body. Checker and voice audit not re-run (body unchanged).
+All 11 blocks' phrases were located and matched in the opened
+carriers. No corrections needed to the dossier body. Checker and
+voice audit not re-run (body unchanged).
 
 ## Method qualification (2026-10-24, advisor QC correction, same session)
 

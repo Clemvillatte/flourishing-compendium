@@ -954,8 +954,9 @@ not make a summer, nor does one day; and so too one day, or a short
 time, does not make a man blessed and happy.", was checked against
 the carrier (MIT Classics, Ross translation,
 https://classics.mit.edu/Aristotle/nicomachaen.1.i.html) opened this
-session: word-for-word match, including "blessed and happy". No other
-verbatim quotations appear in the dossier body (the remainder is
+session: the sentence's phrases were located and matched in the
+opened carrier, including "blessed and happy". No other verbatim
+quotation blocks appear in the dossier body (the remainder is
 paraphrase with card links). Content otherwise untouched; the owner's
 approval decision on the bridged rework remains pending and is not
 affected by this check.

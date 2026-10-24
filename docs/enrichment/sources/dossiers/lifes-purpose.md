@@ -301,9 +301,10 @@ was changed.
 
 ## Quote-fidelity pass (2026-10-24, supervisor-pplx-1024c-dossiers, dossiers baton)
 
-The dossier carries 24 verbatim quotations; the ledger had no prior
-carrier-verification record. All carriers were opened this session and
-every quote checked word-for-word:
+The dossier carries 24 verbatim quotation blocks. All carriers were
+opened this session and every block's phrases located and compared
+(eight Frankl blocks, including the archive.org-cited block whose
+text was checked against the antilogicalism full-text PDF):
 
 - Frankl, Man's Search for Meaning (antilogicalism.com full-text PDF):
   all seven quotes verified, including "primary motivational force",
@@ -337,8 +338,9 @@ every quote checked word-for-word:
 - Steger, Meaning in Life (Oxford Handbook chapter page): both quotes
   verified verbatim from the chapter abstract page.
 
-All 24 quotations match word-for-word. No corrections needed to the
-dossier body. Checker and voice audit not re-run (body unchanged).
+All 24 blocks' phrases were located and matched in the opened
+carriers. No corrections needed to the dossier body. Checker and
+voice audit not re-run (body unchanged).
 
 ## Method qualification (2026-10-24, advisor QC correction, same session)
 
