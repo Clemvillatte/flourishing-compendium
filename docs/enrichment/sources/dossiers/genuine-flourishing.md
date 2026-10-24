@@ -269,3 +269,47 @@ sentences in the plain-speech register, verify claim-by-claim against
 the cards, re-run dossier_check.py (147 links, 25 carriers) and the
 render test, then advisor QC before promoting to exemplar. Estimated
 one focused session-hour.
+
+### Exemplar candidate revision, pass 1 (2026-10-24, supervisor-11878a6c)
+
+Owner approval is required before this becomes the new exemplar or directs
+the six proposed agents. The opening remains unchanged by explicit work order.
+The insurance branch was fast-forwarded locally because main lacked the work
+order; its four-file handoff state was recovered and pushed with the initial
+supervisor checkpoint.
+
+First item: the science paragraph beginning "The science also widened the
+target" now develops three connected questions: what goals serve, what
+engagement feels like, and what character and emotions contribute. All 12
+card-link occurrences retained. All linked cards opened and read.
+External carriers actually fetched for this revision:
+
+- Deci and Ryan (2000), goal content and need satisfaction:
+  https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf .
+  Intrinsic/extrinsic aspirations and associations with well-being;
+  the rewrite avoids turning associations into guaranteed consequences.
+- Ryan and Deci (2000), social conditions:
+  https://pubmed.ncbi.nlm.nih.gov/11392867/ . Abstract read directly.
+- Frederick and Ryan, subjective vitality:
+  https://acuresearchbank.acu.edu.au/server/api/core/bitstreams/b155eafb-778a-47b5-92cb-1c1a7ef715cb/content .
+  Definition extraction checked; no new quotation added.
+- Flow overview: https://en.wikipedia.org/wiki/Flow_(psychology) .
+  Definition only; not a primary-source verification of the whole theory.
+- Tse and colleagues (2026), vital engagement:
+  https://link.springer.com/article/10.1007/s11031-026-10191-z .
+  Definition and association limits read; primary definition reported
+  second-hand with locator 2003, p. 87.
+- Little (2008):
+  https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x .
+  Abstract read; sustainable-projects claim explicitly a proposal.
+- Seligman and colleagues (2005):
+  https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf .
+  Classification of 24 strengths verified; no added intervention-efficacy claim.
+- Fredrickson (2001): https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/ .
+  Theory statement and preliminary-evidence caveat read. Corrects the
+  earlier unqualified presentation of resource-building as established fact.
+- Oishi and Westgate:
+  https://www.erinwestgate.com/uploads/7/6/4/1/7641726/oishi.westgate.psychrev.2021.pdf .
+  Definition, related-but-distinct claim and evidence caveats read.
+
+Independent advisor review requested; pending, not a clearance.
