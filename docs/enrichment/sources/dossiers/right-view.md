@@ -312,3 +312,13 @@ Status, precisely: candidate list generated; all 64 openings read at
 one-paragraph level; nine selected and read at protocol level; protocol
 level reading for the remainder not done. The next pass may revisit the
 defusion boundary call if the-self dossier does not claim that family.
+
+## Pass 15: raw-verification attempt on the two extraction-checked carriers
+
+Attempted and NOT achieved: PubMed (6527215) returns an HTTP 203
+challenge page to unprompted curl (5.5KB, no article content); the
+Frontiers page (Damen et al. 2021) returns a large HTML document to
+curl but the tag-stripped raw text does not contain the expected title
+string, so the article body is not confirmed present in the raw
+response. Both carriers REMAIN extraction-checked only; the browser
+(or the fetch tool) is the viable verification path for a future pass.
