@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 53** — Act voluntarily
 
-Aristotle distinguishes voluntary from involuntary action when considering praise, blame and pardon. His account asks where an action originates and what the person knew:
+Aristotle distinguishes voluntary from involuntary action when considering praise, blame and pardon; his account asks where an action originates and what the person knew ([NE III.1](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)):
 
 > Since that which is done under compulsion or by reason of ignorance is involuntary, the voluntary would seem to be that of which the moving principle is in the agent himself, he being aware of the particular circumstances of the action.
 > (NE III.1, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
@@ -23,11 +23,11 @@ His captain throwing cargo overboard in a storm illustrates a mixed action: unwa
 
 ### Plain words
 
-Ask what you did knowingly and what was genuinely forced or unknown to you. Do not treat the mere fact that someone acted as proof that they had acceptable alternatives. Equally, discomfort or regret alone does not establish that an action was outside your agency.
+Acting voluntarily means that the action comes from you and you know the relevant circumstances. That leaves further questions about whether it was fair, wise or carefully chosen. Serious pressure complicates the judgment, so examine the person's circumstances before assigning blame.
 
 ### For example
 
-Imagine that you knowingly send an unkind reply, without threats or compulsion. Its originating in you supports Aristotle's voluntary-action condition; it does not fail that condition. Reviewing what you could have done differently is a different task from assuming the same freedom in someone facing a serious threat.
+Imagine knowingly sending an unkind reply without threats or compulsion. Afterwards, you might acknowledge the harm, apologise and consider how you want to respond in a similar exchange. At the next opportunity, try that response and review it. This is my application to an ordinary unforced action; it does not settle how to judge someone acting under a serious threat.
 
 ## Sources
 

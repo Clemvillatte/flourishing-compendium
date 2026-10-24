@@ -106,3 +106,11 @@ are not certified by this body-level review.
 - Repair: removed the repetitive “principle's directive” explanation and its unsupported equation of a short introspection exercise with the whole task. Plain words explains a humane author application; the grief example is optional, revisable and allows stopping or seeking support.
 - Saturation: `enrich_find.py mention four noble truths` and Dukkha/Four Noble Truths inventory reviewed. Existing links already supply the proper doctrinal concepts; no additional graph edge or cross-tradition equivalence.
 - Limits: no claim of a grief treatment, trauma intervention or equivalence to clinical exposure; no obligation to relive overwhelming experiences and no inference that people cause all of their own suffering.
+
+## A053: Act voluntarily
+
+- Opened: [NE III, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html), especially III.1–2; [O'Keefe, Ancient Theories of Freedom and Determinism, SEP](https://plato.stanford.edu/entries/freedom-ancient/), §2.1 extraction.
+- Evidence: retained quotation matches Ross's conclusion in III.1. III.2 distinguishes voluntary action from deliberate choice; the captain and extreme-pressure qualifications occur in III.1 and are discussed explicitly by O'Keefe.
+- Repair: retained the already sound doctrinal discussion; added a citation to the opening summary. Plain words now states the distinction directly. Removed the QA-like “supports ... condition; does not fail that condition” phrasing from the example, replacing it with acknowledgment, trying a different response and reviewing it.
+- Saturation: existing Responsibility, Prohairesis and Freedom links retained; no new graph edge needed.
+- Limits: no inference that every observed action was freely chosen, that regret alone erases agency, or that people under extreme threats deserve blame by comparison with an ordinary rude reply.
