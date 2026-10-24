@@ -7,11 +7,11 @@ file: "VIA classification"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-V"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter V", "parent": ""}
 ---
-The VIA classification is Peterson and Seligman's 2004 systematic catalogue of the traits that make up a good life. Built by Christopher Peterson and Martin Seligman with a team of 55 scientists reviewing psychological, philosophical and theological literature, it identifies 24 character strengths organized under six virtues — wisdom and knowledge, courage, humanity, justice, temperance and transcendence. The strengths serve as the route to the virtues:
+The VIA classification is Peterson and Seligman's 2004 systematic catalogue of the traits that make up a good life. Built by Christopher Peterson and Martin Seligman with a team of 55 scientists reviewing psychological, philosophical and theological literature, it identifies 24 character strengths ([editorial](https://pmc.ncbi.nlm.nih.gov/articles/PMC8060440/)) organized under six virtues — wisdom and knowledge, courage, humanity, justice, temperance and transcendence. The classification distinguishes broad virtues from the strengths that define them:
 
-> "the psychological ingredients—processes or mechanisms—that define the virtues" (Peterson & Seligman 2004, p. 13, quoted in the Frontiers in Psychology editorial on the classification, 2021)
+> "the psychological ingredients—processes or mechanisms—that define the virtues" (Peterson & Seligman 2004, p. 13, quoted in the [Frontiers in Psychology editorial on the classification, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8060440/))
 
-The classification groups love, kindness and social intelligence under humanity; forgiveness, humility, prudence and self-regulation under temperance; gratitude, hope, humor, appreciation of beauty and spirituality under transcendence. The measure built on it, the VIA Inventory of Strengths, is in the 2021 editorial's words "the most popular" of the character-strengths assessments and "has been administered to 13,000,000 people worldwide." For a writer, its value is diagnostic in the old sense: a vocabulary for which of the 24 a life already expresses and which it starves.
+The classification groups love, kindness and social intelligence under humanity; forgiveness, humility, prudence and self-regulation under temperance; gratitude, hope, humor, appreciation of beauty and spirituality under transcendence. The measure built on it, the VIA Inventory of Strengths, is in the [2021 editorial's](https://pmc.ncbi.nlm.nih.gov/articles/PMC8060440/) words "the most popular" of the character-strengths assessments and "has been administered to 13,000,000 people worldwide." For a writer, its value is diagnostic in the old sense: a vocabulary for which of the 24 a life already expresses and which it starves.
 
 ### Where it came from
 
@@ -19,7 +19,7 @@ The name has a history worth knowing. VIA originally stood for "Values in Action
 
 ### What the research says, and where it stops
 
-Studies have linked character-strength profiles to health and well-being, and strengths interventions to "general and domain-specific well-being, personal resources, personal growth, performance, and optimal functioning." During the COVID-19 outbreak, a month-long longitudinal study by Martínez-Martí and colleagues examined character strengths alongside well-being and mental health; the editorial reports that its design "demonstrated a causal relationship in which CS positively affect a variety of outcomes in times of adversity." The editorial's own verdict on the field is measured: it calls for further robust experimental and longitudinal research to support causal explanations and provide professionals with intervention protocols.
+Studies have linked character-strength profiles to health and well-being, and strengths interventions to "general and domain-specific well-being, personal resources, personal growth, performance, and optimal functioning" ([editorial](https://pmc.ncbi.nlm.nih.gov/articles/PMC8060440/)). The editorial's own verdict on the field is measured: it calls for further robust experimental and longitudinal research to support causal explanations and provide professionals with intervention protocols.
 
 ### In the compendium
 
@@ -30,7 +30,7 @@ Studies have linked character-strength profiles to health and well-being, and st
 
 ## Related concepts
 
-- [[Character strengths (Peterson & Seligman)]] — the companion page carrying the full 24-strength catalogue
+- [[Character strengths (Peterson & Seligman)]] — the strengths themselves and the signature-strengths exercise built on them
 - [[Positive psychology]] — the research program the classification was built to ground
 - [[Gratitude]] — a transcendence strength in the classification
 - [[Hope]] — a transcendence strength in the classification

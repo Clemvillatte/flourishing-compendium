@@ -21,13 +21,13 @@ Peirce adds an uncomfortable observation: as soon as a firm belief is reached we
 
 In [The Fixation of Belief](https://en.wikisource.org/wiki/The_Fixation_of_Belief), Peirce surveys four methods of settling opinion.
 
-Tenacity clings to what one already believes, and "will be unable to hold its ground in practice. The social impulse is against it": meeting people who think differently shakes the confidence it relies on.
+Tenacity clings to what one already believes, and "will be unable to hold its ground in practice. The social impulse is against it": meeting people who think differently shakes the confidence it relies on. (Peirce, [The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
 Authority fixes belief by institutional enforcement. Peirce concedes that "For the mass of mankind, then, there is perhaps no better method than this," while noting its cruelties and its ceiling, since no institution can regulate every subject and wider experience breeds doubts in independent minds.
 
-The a priori method lets beliefs settle by what seems agreeable to reason, which makes of inquiry "something similar to the development of taste" — and metaphysicians, he observes, "have never come to any fixed agreement."
+The a priori method lets beliefs settle by what seems agreeable to reason, which makes of inquiry "something similar to the development of taste" — and metaphysicians, he observes, "have never come to any fixed agreement." (Peirce, [The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
-The method of science alone proposes that beliefs "may be determined by nothing human, but by some external permanency," resting on the hypothesis that "There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws."
+The method of science alone proposes that beliefs "may be determined by nothing human, but by some external permanency," resting on the hypothesis that "There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws." (Peirce, [The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
 ### Dewey: thinking begins in perplexity
 
@@ -35,15 +35,15 @@ In [How We Think](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm), Jo
 
 > "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends, constitutes reflective thought." (Dewey, [How We Think, Project Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm))
 
-Thinking begins in what may fairly enough be called a forked-road situation, "a situation which is ambiguous, which presents a dilemma, which proposes alternatives." Dewey distinguishes five logically distinct steps within such reflection: a felt difficulty; its location and definition; suggestion of possible solution; development by reasoning of the bearings of the suggestion; and further observation and experiment leading to its acceptance or rejection. He adds that no cast-iron rules can be laid down for how far each step needs to be carried; each case is dealt with as it arises. The demand for the solution of a perplexity is the steadying and guiding factor throughout: "The problem fixes the end of thought and the end controls the process of thinking."
+Thinking begins in what may fairly enough be called a forked-road situation, "a situation which is ambiguous, which presents a dilemma, which proposes alternatives." Dewey distinguishes five logically distinct steps within such reflection: a felt difficulty; its location and definition; suggestion of possible solution; development by reasoning of the bearings of the suggestion; and further observation and experiment leading to its acceptance or rejection. He adds that no cast-iron rules can be laid down for how far each step needs to be carried; each case is dealt with as it arises ([Dewey, How We Think, Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)). The demand for the solution of a perplexity is the steadying and guiding factor throughout: "The problem fixes the end of thought and the end controls the process of thinking."
 
 ### In the compendium
 
-- [[P024 — Let doubt be genuine]] — treats the irritation of doubt as the engine of thinking rather than a nuisance to suppress
+- [[P024 — Let doubt be genuine]] — keeps the irritation of doubt as the engine of thinking
 - [[P025 — Fix belief by experiment, not tenacity, authority, or taste]] — operationalizes Peirce's ranking of the four methods
 - [[P048 — Think reflectively — turn experience over]] — applies Dewey's reflective phase to ordinary experience
 - [[P051 — Take error as information]] — reads surprise and failure as new material for the next round of inquiry
-- [[P132]] — Dewey's account of reform as inquiry: treat a social change as an experiment.
+- [[P132]] — Addams' account of reform as experiment: the settlement's careful investigations guiding its immediate doings
 
 - - - 
 ## Cited in philosophy parallels

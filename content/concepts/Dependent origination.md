@@ -21,18 +21,18 @@ Read forward, the chain says suffering has a structure: it is produced, link by 
 
 Centuries later Nagarjuna made dependent origination the hinge of his Middle Way, opening his treatise by closing off the escape routes:
 
-> "Neither from itself nor from another,
-> Nor from both,
-> Nor without a cause,
+> "Neither from itself nor from another,  
+> Nor from both,  
+> Nor without a cause,  
 > Does anything whatever, anywhere arise."
 >
 > (Mulamadhyamakakarika 1.1, [Garfield translation, Archive.org full text](https://archive.org/stream/NagarjunaTheFundamentalWisdomOfTheMiddleWay/Nagarjuna%20-%20The%20Fundamental%20Wisdom%20Of%20The%20Middle%20Way_djvu.txt))
 
-The verse does not say that nothing arises. Garfield's commentary glosses the point: emptiness is "the Buddhist technical term for the lack of independent existence, inherent existence, or essence in things," and phenomena that lack inherent existence are not nonexistent but conventionally real. Things arise, but only dependently, and that, Nagarjuna argues, is just what emptiness means:
+The verse does not say that nothing arises. Garfield's commentary describes the phenomena as conventionally real and empty of inherent existence: emptiness is "the Buddhist technical term for the lack of independent existence, inherent existence, or essence in things." Things arise, but only dependently, and that, Nagarjuna argues, is just what emptiness means:
 
-> "Whatever is dependently co-arisen
-> That is explained to be emptiness.
-> That, being a dependent designation,
+> "Whatever is dependently co-arisen  
+> That is explained to be emptiness.  
+> That, being a dependent designation,  
 > Is itself the middle way."
 >
 > (Mulamadhyamakakarika 24.18, [Garfield translation, Archive.org full text](https://archive.org/stream/NagarjunaTheFundamentalWisdomOfTheMiddleWay/Nagarjuna%20-%20The%20Fundamental%20Wisdom%20Of%20The%20Middle%20Way_djvu.txt))
@@ -42,9 +42,9 @@ The verse does not say that nothing arises. Garfield's commentary glosses the po
 - [[K041 — Trace every harm to conditions, including your own]] — turns the chain into an analytical habit
 - [[B068 — Find the gap between stimulus and response]] — locates the workable gap inside the chain
 - [[BE006 — Know that behaviour has a functional analysis — every behaviour serves a function]] — functional analysis as the clinical cousin of condition-tracing
-- [[SE024 — Recognise the self-serving bias — you take credit for success and blame failure on circumstances]] — treats the stories you tell about success and failure as conditioned, worth checking before you act on them
+- [[SE024 — Recognise the self-serving bias — you take credit for success and blame failure on circumstances]] — examines self-serving explanations of success and failure
 - [[D028 — Hoarding invites loss]] — the Daoist warning about possessions as a cousin of the grasping link
-- [[T050 — Nagarjuna]] — the thinker whose examination of conditions grounds this page's Madhyamaka section
+- [[T050 — Nagarjuna]] — connects dependent origination with emptiness in the Mulamadhyamakakarika
 
 ## Related concepts
 
