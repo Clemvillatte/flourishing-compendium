@@ -282,3 +282,31 @@ The two papers do not contradict each other: one measures the average mood while
 The evidence limits are uneven across the list, and the kernels say so where it matters: the soft-fascination kernel quotes the experiment behind its mechanism, the aesthetic-attention kernel carries Dewey's account of an experience that runs its course, and several durations (ten minutes for a sit, five to six breaths per minute for the soothing rhythm) are practice-guide conventions rather than tested doses. The general finding behind the family — that attention is trainable — is the AT006 principle, and the cards above carry its evidence.
 
 ::Retention:: Retention is what people keep because it works for them.
+
+## Story: the stories that carry the theme
+
+The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+
+### The contemplative trainings
+
+[ST069 — The Four Foundations](https://clemvillatte.github.io/flourishing-compendium/#card=ST069%20%E2%80%94%20The%20Four%20Foundations): the Satipaṭṭhāna Sutta opens by calling its practice the direct path for the purification of beings, then lays out the foundations — body, feelings, mind, qualities — watched in earnestness.
+
+[ST421 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST421%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya finds a mango grove that looks ideal for meditation and repeatedly asks to practise there; alone beneath the tree he is troubled by thoughts of sensuality, ill will and harm, and returns to the Buddha.
+
+### Absorption and its varieties
+
+[ST025 — The Cicada Catcher's Stillness](https://clemvillatte.github.io/flourishing-compendium/#card=ST025%20%E2%80%94%20The%20Cicada%20Catcher%27s%20Stillness): Confucius finds an old hunchback catching cicadas with a sticky pole, as easily as picking them off the ground; the skill is a stillness that does not trade the whole world for five cicadas.
+
+[ST018 — The Swimmer at Lüliang Falls](https://clemvillatte.github.io/flourishing-compendium/#card=ST018%20%E2%80%94%20The%20Swimmer%20at%20L%C3%BCliang%20Falls): Confucius watches a man dive into the torrent where the water drops forty fathoms, and the swimmer answers from the water: he follows the water's way — down with the whirlpools, up with the waves.
+
+[ST028 — Eliud Kipchoge Runs 1 — 59](https://clemvillatte.github.io/flourishing-compendium/#card=ST028%20%E2%80%94%20Eliud%20Kipchoge%20Runs%201%20%E2%80%94%2059): in Vienna, Kipchoge runs a marathon in 1:59:40, the first time a human has covered the distance in under two hours — a performance built on training, pacing and the company of others.
+
+### Attention in action: process, craft and the economy of the gaze
+
+[ST057 — Agnes Martin Paints Grids](https://clemvillatte.github.io/flourishing-compendium/#card=ST057%20%E2%80%94%20Agnes%20Martin%20Paints%20Grids): Martin painted nothing but grids for decades: hand-drawn pencil lines and pale bands of colour on square canvases — a working life spent inside one form of sustained looking.
+
+### The moral face of attention
+
+[ST023 — Simone Weil on Attention](https://clemvillatte.github.io/flourishing-compendium/#card=ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil, working through war and illness, writes that attention is the rarest and purest form of generosity; her essay on school studies argues the attention given a lesson is the attention given a person.
+
+[ST432 — Jim Forest Washes the Dishes](https://clemvillatte.github.io/flourishing-compendium/#card=ST432%20%E2%80%94%20Jim%20Forest%20Washes%20the%20Dishes): Thich Nhat Hanh's dishwashing: wash the dishes to wash the dishes — the bowl of warm water, the first sip of tea taken in the same way — attention as the whole of the ordinary task.

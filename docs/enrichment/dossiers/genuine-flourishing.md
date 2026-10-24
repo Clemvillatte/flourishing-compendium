@@ -350,3 +350,31 @@ Its goal research adds that the content of what a person pursues matters. In a o
 The evidence limits are uneven across the list. The evening examination is a Stoic practice whose kernel cites the self-reflection research; the future-self dialogue carries the Ersner-Hershfield future-self-continuity research, with the authors' own caution that the causal direction is unspecified; the chain technique spread from a developer's account and not from a study. The other kernels carry their own evidence notes on their cards, and those notes are worth reading before relying on any of them.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the eulogy, or the enough line, or the monthly audit has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
+
+## Story: the stories that carry the theme
+
+The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+
+### What the good life is: the classical accounts
+
+[ST143 — Solon and Croesus](https://clemvillatte.github.io/flourishing-compendium/#card=ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus, king of Lydia, shows Solon his treasury and asks who is the happiest of men, expecting to hear his own name; Solon names Tellus of Athens, and holds that no one is counted happy until the end.
+
+### What gets mistaken for it
+
+[ST035 — Ivan Ilyich's Question](https://clemvillatte.github.io/flourishing-compendium/#card=ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): a judge has lived the life that everyone around him considers correct — career, propriety, a well-furnished house — and on his deathbed the question arrives: what if the whole of it was wrong?
+
+[ST171 — Soma](https://clemvillatte.github.io/flourishing-compendium/#card=ST171%20%E2%80%94%20Soma): in the World State the citizens receive soma, a euphoric with no hangover, conditioned from birth to take it at any discomfort — pleasant affect as the whole answer to the question of a life.
+
+### Meaning, purpose and the hard parts
+
+[ST033 — Mandela's Twenty-Seven Years](https://clemvillatte.github.io/flourishing-compendium/#card=ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island breaking rocks — the story of what a long confinement is made of, and what it is for.
+
+[ST193 — Stockdale and the Epistle](https://clemvillatte.github.io/flourishing-compendium/#card=ST193%20%E2%80%94%20Stockdale%20and%20the%20Epistle): a naval aviator spends seven and a half years as a POW, four in solitary, and grounds himself in the Stoics — the faith that he would get out, joined to the discipline of facing the facts of the present.
+
+### The conditions: other people, society and freedom
+
+[ST144 — Dorothea Brooke and the Unhistoric Acts](https://clemvillatte.github.io/flourishing-compendium/#card=ST144%20%E2%80%94%20Dorothea%20Brooke%20and%20the%20Unhistoric%20Acts): an idealistic young woman marries a desiccated scholar, and Eliot's finale gives the verdict: the growing good of the world rests on unhistoric acts, and on persons half buried in the privacy of ordinary lives.
+
+### How it is built: growth and practice
+
+[ST001 — Cook Ding and the Ox](https://clemvillatte.github.io/flourishing-compendium/#card=ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): Cook Ding has carved oxen for nineteen years and his blade is still as sharp as if it had just left the whetstone; the carving follows the ox's own lines — the skill, not the strength, does the work.
