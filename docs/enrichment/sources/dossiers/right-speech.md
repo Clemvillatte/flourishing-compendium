@@ -87,11 +87,13 @@ that factor's own dossier, and stays excluded.
    "Words causing no man woe, words ever true, / Gentle and pleasing
    words, and those ye say / In murmured reading of a Sacred Writ,-- /
    These make the true religiousness of Speech."
-   Divergence 1 (must right words be pleasing) uses this against MN 58
-   case [3]. Note: the Beneficial speech concept card quotes a different
-   translation from Wisdom Library, which was not openable this session
-   (client error on two attempts); the dossier carries the Arnold
-   rendering from the opened Gutenberg carrier and attributes it.
+   Divergence 1 (must right words be pleasing) uses the Gita against
+   MN 58 case [3]. The dossier's primary quote is the Wisdom Library
+   translation the Beneficial speech concept card carries (opened and
+   verified in the second QC pass; the earlier fetch failure was a URL
+   problem, not a block). The Arnold rendering above is carried in the
+   dossier as a secondary note, verified against the opened Gutenberg
+   plain text.
 
 6. Foucault, parrhesia and courage (removed from the dossier in
    revision 2; kept here for the record):
