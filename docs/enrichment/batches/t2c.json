@@ -187,9 +187,10 @@
   "content/concepts/Cultural schema theory.md": "2026-10-24 QC pass: skipped/removed backlink - no substantive connection (Hiroko Nishida false positive / incidental anthology-title or example mention; K009 page itself disclaims Nishitani attribution); supervisor disposition requested",
   "content/concepts/The exemplary person.md": "2026-10-24 QC pass: skipped/removed backlink - no substantive connection (Hiroko Nishida false positive / incidental anthology-title or example mention; K009 page itself disclaims Nishitani attribution); supervisor disposition requested",
   "content/principles/K009 — Let the doubt become great.md": "2026-10-24 QC pass: skipped/removed backlink - no substantive connection (Hiroko Nishida false positive / incidental anthology-title or example mention; K009 page itself disclaims Nishitani attribution); supervisor disposition requested",
-  "content/principles/Y124 — Combine the paths by disposition.md": "2026-10-24 QC pass: skipped/removed backlink - no substantive connection (Hiroko Nishida false positive / incidental anthology-title or example mention; K009 page itself disclaims Nishitani attribution); supervisor disposition requested"
+  "content/principles/Y124 — Combine the paths by disposition.md": "2026-10-24 QC pass: skipped/removed backlink - no substantive connection (Hiroko Nishida false positive / incidental anthology-title or example mention; K009 page itself disclaims Nishitani attribution); supervisor disposition requested",
+  "21 concept pages below 150-word floor at HEAD (full list in t2c ledger QC entry 05:53Z)": "pre-existing stubs - need concept-enrichment passes, out of t2c scope; supervisor disposition requested"
  },
- "updated": "2026-10-24T05:53:13+00:00",
+ "updated": "2026-10-24T05:57:07+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR (2026-10-23 ~12:58Z, supervisor-pplx-8c47a5): M048 was the t2c pattern-setter — read the page, found the Mencius treatment (the mirror for others), wrote a grounded reader-facing gloss, inserted the Related concepts section before Sources (page had none), validated ok. Workers: follow this pattern; the gloss must name what the page actually does with the thinker."
 }
