@@ -77,7 +77,12 @@ inclusion decisions below, but the classification is automated, so
 the dossier should be treated as a draft map requiring coverage
 review rather than an exhaustively reviewed map. The audit record is
 saved alongside this ledger as gratitude-audit.txt in this directory. The decisions name the categories
-with representative cards.
+with representative cards. Term-set note, recorded after a
+reproducibility re-run: the candidate set was defined by the
+gratitude/thankfulness terms (177 files matching gratitude plus one
+thank-only file); a wider term set (grateful, thanksgiving,
+ingratitude) would enlarge the candidate set to 202 files, which is
+a further coverage limit for the supervisor to weigh.
 
 - The positive-affect family that mentions gratitude in passing
   (Broaden-and-build, Positive activity interventions,
