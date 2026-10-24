@@ -115,6 +115,11 @@ that factor's own dossier, and stays excluded.
   Beneficial speech, Idle talk (Gerede), Parrhesia (frank speech),
   Truthfulness, Prosocial honesty research, Sparse speech, Silence as
   evidence, Silence in negotiation research, Plain words over beautiful,
+  Metta (loving-kindness), Interpersonal Deception Theory, Communication
+  Accommodation Theory, Partial truths in every opinion, Listening, The
+  three gates of speech, Effort-recovery cycles (read again for the
+  Right Effort dossier), and in the final audit the story cards ST066,
+  ST131, ST387, ST290, ST225, ST359, ST276, ST227, ST246 and ST343,
   The strong claim of the loud voice, Different voice, Deception
   research, Interpersonal Deception Theory, Self-deception,
   Fluency-driven illusory truth, Harsh self-criticism, Active listening,

@@ -97,7 +97,9 @@ incidental mentions, and stay excluded per the Nearby-terms note.
   read for the Right Livelihood dossier earlier this session), and the
   kernels K199, K242, K193 and the principles B036, B058, B065, B116,
   MO046, plus the story cards ST030, ST064 (read earlier this session),
-  ST112.
+  ST112, plus in the later passes ST376 (Meghiya, with the Ud 4.1
+  carrier opened raw), Goal adjustment capacity, Spiritual exercises
+  (Hadot) and the full text of the SN 45.8 four-efforts passage.
 - The Right effort concept card's own SN 45.8 rendering was used as the
   cross-check for quote 1; the raw page was fetched and grepped
   directly, so the quote does not rely on the card's transcription.

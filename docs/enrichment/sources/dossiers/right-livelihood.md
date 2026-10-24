@@ -98,7 +98,8 @@ stay excluded.
   characteristics model, The job demands-resources model, The attention
   economy, The right amount of effort, Judging by where one rests,
   Leisure, B025, B152, and the story cards ST008, ST064, ST290, ST313,
-  ST340, ST432.
+  ST340, ST432; in the final audit also Restorative justice, the kernel
+  K320, and the practice-section kernels K149, K200 and A111.
 - Story loglines are compressed from the story cards' own text, read
   this session. Two loglines in an early draft were written before the
   cards were opened and were wrong (ST432 attributed the teaching to
