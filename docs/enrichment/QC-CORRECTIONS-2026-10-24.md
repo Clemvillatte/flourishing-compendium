@@ -29,6 +29,8 @@ Exact counts from origin/main (dossier Story sections): anger 13, affect 9, anxi
 
 The spot-check covered motivation, goals and uncertainty (6 entries). The two overload-overwhelm titles sampled were not found in that dossier and were not substituted; overload-overwhelm map entries were therefore not part of the sample. The addendum's "across the four new dossiers" wording was wrong.
 
-## 6. Park quote hyphen (new finding)
+## 6. Park quote hyphen (new finding, resolved)
 
 Rendered-PDF check of Park (2010), The Meaning Making Model, EHP 15(2), p. 40: the printed sentence begins "Meaning making involves approach-oriented..." (no hyphen in "Meaning making"; the hyphen in "approach-oriented" is printed). The lifes-purpose dossier's quote reads "Meaning-making involves..." — a one-hyphen deviation from the printed text. The dossier's first Park quote ("Global meaning refers to individuals' general orienting systems...") is verbatim.
+
+FIXED: the hyphen was removed in the published dossier (commit e82cbf15, baton dos6 reclaimed and released for the purpose, checker exit 0).
