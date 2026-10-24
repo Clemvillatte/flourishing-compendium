@@ -2,7 +2,7 @@
 
 > How do repeated actions become a life, and how does a stuck pattern change?
 
-A habit is what the doing becomes once the deciding drops out of it. The sciences of behaviour have left several distinct answers lying side by side: consequences shaping actions, contexts triggering them, deliberate repetition automatizing them. The classical traditions add a sharper hope: that what is repeated hardens not only into routine but into character, and that the hardening can be aimed. The question is where the aim is best placed, and the honest answer runs through environment and design more often than through willpower.
+A habit is what the doing becomes once the deciding drops out of it. The sciences of behaviour have left several distinct answers lying side by side: consequences shaping actions, contexts triggering them, deliberate repetition automatizing them. The classical traditions add a sharper hope: that what is repeated hardens into character as well as routine, and that the hardening can be aimed. The question is where the aim is best placed, and the honest answer runs through environment and design more often than through willpower.
 
 ## Nearby terms
 
@@ -74,7 +74,7 @@ Behaviour change: the applied science of moving stuck patterns; its frameworks a
 
 [Deliberation as rehearsal](https://clemvillatte.github.io/flourishing-compendium/#card=Deliberation%20as%20rehearsal): Dewey again, on deliberation as a trial balancing of habits in imagination.
 
-[The habit body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20habit%20body): Merleau-Ponty's third answer; habit neither in thought nor in the objective body but in the body as mediator of a world; knowledge in the hands.
+[The habit body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20habit%20body): Merleau-Ponty's third answer; habit in the body as mediator of a world, a third location distinct from thought and from the objective body; knowledge in the hands.
 
 [E014 — Practise the habit body](https://clemvillatte.github.io/flourishing-compendium/#card=E014%20%E2%80%94%20Practise%20the%20habit%20body): the principle form of the same; the body as our general medium for having a world.
 

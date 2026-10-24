@@ -138,7 +138,7 @@ Bandura's theory carries the split inside itself. In the 1977 article he separat
 
 > "An outcome expectancy is defined as a person's estimate that a given behavior will lead to certain outcomes. An efficacy expectation is the conviction that one can successfully execute the behavior required to produce the outcomes." ([Bandura, Psychological Review 84(2), 1977](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf))
 
-The conviction of being able to execute, not the estimate of what follows, is what his system assigns the causal work in initiation and persistence. That is the Stoic line drawn in psychological dress, though Bandura draws it for predictive reasons and Epictetus for the sake of peace.
+The conviction of being able to execute is what his system assigns the causal work in initiation and persistence; the estimate of what follows is a separate variable. That is the Stoic line drawn in psychological dress, though Bandura draws it for predictive reasons and Epictetus for the sake of peace.
 
 ## Practice: variation, selection, retention
 

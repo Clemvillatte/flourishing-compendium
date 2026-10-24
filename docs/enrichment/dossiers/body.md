@@ -2,7 +2,7 @@
 
 > What does the body know, and how does it participate in suffering and flourishing?
 
-The body is not only the shell the mind rides in. The scientific literatures give it three jobs: the signals the body sends upward are part of how emotion is made, the rhythms of breath and heart are part of how calm is made, and the wear of chronic stress is written into the organs. The phenomenologists give the claim its strongest form: the body is not a thing a subject has, but the medium through which a world is had. The map below holds both literatures side by side, and the divergences are left where they stand.
+The body is more than the shell the mind rides in. The scientific literatures give it three jobs: the signals the body sends upward are part of how emotion is made, the rhythms of breath and heart are part of how calm is made, and the wear of chronic stress is written into the organs. The phenomenologists give the claim its strongest form: the body is the medium through which a world is had. The map below holds both literatures side by side, and the divergences are left where they stand.
 
 ## Nearby terms
 
@@ -24,13 +24,13 @@ Breath: the theme's most practical entry, in the fourth group; the classical tra
 
 [Embodiment](https://clemvillatte.github.io/flourishing-compendium/#card=Embodiment): Merleau-Ponty's version; the body's mode of existence as being-toward-the-world, pre-objective and explicable neither as third-person causation nor as representation.
 
-[Situated embodiment](https://clemvillatte.github.io/flourishing-compendium/#card=Situated%20embodiment): Beauvoir's move; the body is not a thing a subject has but a situation the subject lives.
+[Situated embodiment](https://clemvillatte.github.io/flourishing-compendium/#card=Situated%20embodiment): Beauvoir's move; the body as a situation the subject lives.
 
 [Body schema](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20schema): Head and Holmes's unconscious postural standard; an on-line, real-time plastic representation of one's own body in space.
 
 [Body representation](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20representation): Gallagher's term for the internal structures that carry body information.
 
-[Body memory](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20memory): Fuchs's totality of implicit dispositions of perception and behaviour sedimented in earlier experience; not what we recollect but what we have become able to do.
+[Body memory](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20memory): Fuchs's totality of implicit dispositions of perception and behaviour sedimented in earlier experience; it shows in what we have become able to do.
 
 [Embodied cognition](https://clemvillatte.github.io/flourishing-compendium/#card=Embodied%20cognition): Barsalou's grounded cognition; modal simulations, bodily states and situated action underlie cognition.
 
