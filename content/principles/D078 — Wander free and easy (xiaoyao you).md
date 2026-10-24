@@ -20,11 +20,11 @@ The tree escapes the axe because its wood is unwanted. Its awkward shape leaves 
 
 ### Plain words
 
-Consider an activity you enjoy, then notice what you expect it to deliver. Would you still choose it without a useful result to show afterwards? Let that question inform how you spend some of your free time.
+Enjoying an activity can be enough reason to choose it. If every pastime must deliver a useful result, you may overlook what you enjoy about doing it. Consider which of your activities you would still choose without an achievement to show afterwards.
 
 ### For example
 
-On a short walk, try leaving the distance untracked and attending to what you encounter. Afterwards, consider whether you enjoyed walking that way and whether you want to do it again. This is my application of the story.
+On a short walk, try leaving the distance untracked and attending to what you encounter. Afterwards, consider whether you enjoyed walking that way; if you did, make room for another such walk. This is my application of the story.
 
 ## Related concepts
 

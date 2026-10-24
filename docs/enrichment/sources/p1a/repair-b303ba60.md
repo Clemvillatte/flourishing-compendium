@@ -12,7 +12,7 @@ are not certified by this body-level review.
 - Repair: removed the misspelled, generic identity instruction; explained why the tree's unsuitability matters within the dialogue. Plain words asks about expectations of usefulness; the walking exercise is explicitly my application, with attention, variation, review and possible repetition.
 - Saturation: `enrich_find.py mention useless` checked. D084 and T009 already cover the tree; no speculative psychological equivalence or additional reciprocal proposed.
 - Limits: no claim that this exchange proves a universal rule about work, identity or mental health. Inherited Kashdan/SDT parallels and story-card contents remain outside this review.
-- QC: first-item independent review requested; disposition to be recorded after review.
+- QC: independent advisor verified the quotation, source summary and protected-field preservation. Advisor required Plain words to explain the idea rather than only ask questions; accepted by stating that enjoyment can justify an activity without a useful output. Also made repetition explicit in the walk exercise. No whole-page certification of inherited parallels or linked pages.
 
 ## R055: Practise xin
 

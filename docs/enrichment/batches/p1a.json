@@ -29,8 +29,8 @@
   "S007",
   "S011",
   "SO044",
-  "D078",
-  "R055"
+  "R055",
+  "D078"
  ],
  "in_progress": null,
  "flagged": {
@@ -48,12 +48,12 @@
   "A063": "SCOPED BODY REPAIR COMPLETE; continuation first-item independent advisor pass. NE VIII.1, PLOS mortality meta-analysis and Harvard report distinguished. Inherited protected material not certified.",
   "A001": "SCOPED BODY REPAIR COMPLETE; milestone independent advisor verified changed claims. Ryff truncation repaired; SDT/motive measures not equated with Aristotelian moral excellence. Inherited references and reflections not certified.",
   "D141": "SCOPED BODY REPAIR COMPLETE; milestone advisor corrections applied. Protected reflection guarantees illness from missed walks: owner review needed. Bare Nietzsche/Firth and other inherited parallels not certified.",
-  "D078": "Reopened for QC: Repair typo, tighten explanation to chapter 1 tree exchange, make illustrative practice workable",
+  "D078": "Reopened for QC: Advisor: Plain words must explain enjoyment directly, not consist only of questions",
   "R055": "Reopened for QC: Replace mechanical metaphors and unsupported irreversible-trust claim with opened Analects passages"
  },
  "missing_concepts": [],
  "sources_checked": 48,
- "updated": "2026-10-24T13:28:40+00:00",
+ "updated": "2026-10-24T13:29:10+00:00",
  "band_done": false,
  "notes": {
   "leftover_repairs_2026_10_22": "worker-pplx-p1a-77f2b91c: queue-principles.json audit found 3 leftover items (K008, SE066 no-source-URL; D075 checked and COMPLIANT with the 40-300 principle word band, no action). ROUTING CORRECTION (advisor QC round 2): K008 belongs to p1w (done there), SE066 to p1b (done+flagged there); the repairs were executed by this worker under p1a in error — content edits are verified and kept, but the items are REMOVED from p1a done (this file) and flagged to the supervisor for reconciliation into p1w/p1b state files. Repairs delivered: K008 Sources URL added (archive.org catalog record, 1982 UC Press edition; translator removed from the link label per advisor — the catalog record does not list it); SE066 Sources URLs added, both Vygotsky quotes raw-verified against the Mind in Society full text, Nietzsche German verified against the Gutenberg German text (prior hold resolved) plus the English rendering verified against the Gutenberg English text, Park et al. 2023 fetched and quoted verbatim, Nietzsche/PTG blocks restructured into the body with headings per advisor, workflow language swept. Per-item ledgers: sources/p1a/K008.md and sources/p1a/SE066.md (to be merged into p1w/p1b ledgers by the supervisor)."
