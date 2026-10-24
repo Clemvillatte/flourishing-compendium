@@ -1,6 +1,6 @@
 # t2a ledger (thinker-backlink glosses)
 
-2026-10-24 06:02Z, worker-pplx-t2a-1024e (takeover of stale baton): state-file
+2026-10-24 05:37Z, worker-pplx-t2a-1024e (takeover of stale baton): state-file
 repair pass. The done list carried 92 corrupted entries from an earlier
 unquoted-shell append: story/concept paths had been word-split into fragments
 ("wei.md", "—", "Cook", "Ding"...) and some entries carried trailing
@@ -13,7 +13,7 @@ Pending inventory regenerated with thinker_links.py --reciprocal: 103 pages
 + 7 stories). Work continues manifest-order: Seneca principles first (largest
 block), glosses reader-facing and grounded in each page's own text.
 
-2026-10-24 06:10Z, worker-pplx-t2a-1024e: Seneca (T013) block complete - 33
+2026-10-24 05:38Z, worker-pplx-t2a-1024e: Seneca (T013) block complete - 33
 backlink glosses added (23 principles, 3 concepts, 7 stories), each grounded
 in that page's own Seneca material (quoted letters, De Ira, De Tranquillitate,
 Shortness of Life citations and the ST194/205/213/214/218/220/221 cards).
@@ -37,7 +37,7 @@ letter; ST220 the nightly self-examination from De Ira; ST221 the letters
 prescribing the morning rehearsal). Principle/concept glosses (26 pages)
 pushed; story entries removed from done.
 
-2026-10-24 06:16Z, worker-pplx-t2a-1024e: Socrates (4 principles) and Laozi
+2026-10-24 05:39Z, worker-pplx-t2a-1024e: Socrates (4 principles) and Laozi
 (10 principles, 6 concepts, 1 saying) backlink glosses added, each grounded in
 the page's own Laozi/Socrates material (Daodejing chapters cited on the page;
 Apology/Protagoras/Crito references). T006 Buddha page INTENTIONALLY SKIPPED:

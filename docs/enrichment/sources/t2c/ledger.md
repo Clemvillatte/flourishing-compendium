@@ -93,7 +93,7 @@ supervisor (workers cannot touch content/stories/; the t2a pattern):
   forfeit the mandate."
 All drafts grounded in the story cards' own text, read this session.
 
-2026-10-24 06:00Z, worker-pplx-t2c-1024e: advisor QC pass on the t2c block.
+2026-10-24 05:53Z, worker-pplx-t2c-1024e: advisor QC pass on the t2c block.
 Repairs applied: (1) FORMATTING - the batch insertion script glued the
 following "## " header onto the last gloss line whenever Related concepts
 was not the final section (e.g. "...the concept carries.## Sources");
@@ -126,7 +126,7 @@ The tetralemma 59, The witness 148, Things thinging 148, Unity of
 opposites 122, The empty boat reflection 9) - pre-existing at HEAD,
 flagged for supervisor.
 
-2026-10-24 06:03Z, worker-pplx-t2c-1024e: incidental-connection audit of this
+2026-10-24 05:54Z, worker-pplx-t2c-1024e: incidental-connection audit of this
 session's t2a/t2b blocks found no single-mention pages - no further removals
 needed. FLAG for supervisor/maintenance: 18 content files outside the t2a/t2b/t2c
 bands carry the same glued-header defect (mid-line "## " after body text,
@@ -137,7 +137,7 @@ Theory, Psychological reactance, Reversal theory, The aha moment,
 The stress-buffering model, The tyranny of the ideal, VIA classification}.md -
 one-line newline repair, outside my bands so not edited.
 
-2026-10-24 06:09Z, worker-pplx-t2c-1024e: pre-taper verification pass on
+2026-10-24 05:55Z, worker-pplx-t2c-1024e: pre-taper verification pass on
 own items. (1) Gadamer block spot-check - 10 glosses sampled, all grounded
 in each page's own Truth and Method material (hermeneutic circle, fusion
 of horizons, wirkungsgeschichtliches Bewusstsein, rehabilitation of
