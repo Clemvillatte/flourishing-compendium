@@ -178,3 +178,10 @@ are not certified by this body-level review.
 - Repair: Plain words now explains reciprocal care directly; the relocation case includes discussion, trying a feasible arrangement and reviewing it together. Strong doctrinal discussion and correctly qualified empirical annotations retained.
 - Saturation: Philia read; it already links A063 and A078, so no generic edge was added.
 - Limits: evidence does not imply a 50% increase in lifespan, prove causation or predict an individual's benefit from adding a friend. No blame for loneliness, obligation to remain in harmful ties or universal judgment against a life involving solitude.
+
+## A078: Character friendship, verified unchanged
+
+- Opened: [NE VIII, Ross](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html), complete book, especially VIII.2–4 and 8; [Helm, Friendship](https://plato.stanford.edu/entries/friendship/), §§1.1–1.2 extraction.
+- Evidence: VIII.3 supplies the retained quotation exactly, the compatibility of pleasure/usefulness with character friendship and the time/familiarity requirement; VIII.8 supports refusing base services. Helm actually develops the tension between appraisal of qualities and concern for a particular person, rather than simply repeating Aristotle's classification.
+- Disposition: retained the nuanced body unchanged. It avoids reducing friendship to self-improvement, admits its pleasant/useful dimensions and gives a clearly hypothetical application without certifying the participants' virtue.
+- Limits: Helm surveys competing accounts; the retained wording attributes the scholarly question, not a settled resolution, to his article. The review does not certify inherited parallels or linked pages.
