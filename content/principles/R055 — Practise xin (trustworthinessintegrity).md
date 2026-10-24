@@ -36,7 +36,7 @@ Suppose you promised to collect a friend but discover that your car is unsafe. E
 - [Legge's Analects, Book 2 (Wei Zheng), Chinese Text Project](https://ctext.org/analects/wei-zheng): 2.22; quotation and carriage comparison.
 - [Karyn Lai, Learning to Be Reliable: Confucius' Analects, pp. 193–207, author preprint](https://philarchive.org/archive/LAILTB): reliability, relationships and situational judgment.
 - [Legge's Mencius, Li Lou I (chapter 7 of the Works), Wikisource](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07): 4A12, sincerity and trust.
-- [Legge quotations, Wikiquote](https://en.wikiquote.org/wiki/James_Legge): comparison index retaining the earlier enrichment's reference to Analects 1.8; the body uses the opened primary translation.
+- [Legge quotations, Wikiquote](https://en.wikiquote.org/wiki/James_Legge): reproduces Legge's Analects 1.8 wording on faithfulness and sincerity.
 
 ## Stories
 

@@ -23,6 +23,7 @@ are not certified by this body-level review.
 - Saturation: `enrich_find.py mention trustworthiness` and the existing Trustworthiness concept were read. No additional graph edge is necessary; the concept and numerous kernels already refer to R055. No reciprocal edit or proposal.
 - Limits: xin is not equated with Aristotelian truthfulness; Lai's reliability reading is attributed, not presented as the only translation.
 - Milestone QC repair: advisor correctly identified that external links as well as wikilinks are protected. Opened the [original Mencius page](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07) and [Wikiquote page](https://en.wikiquote.org/wiki/James_Legge), restored every original URL occurrence and a concise, carefully scoped Mencius account. Repaired T055's description, removed the ornamental contrast and made Plain words explain reliability before advice. The Mencius account is not an empirical criterion for judging people by family circumstances.
+- Second milestone: advisor accepted evidence, restored link counts and the substantive explanation; removed the remaining customer-facing process language from the Wikiquote annotation, leaving a description of its actual content.
 
 ## P073: See conduct as interaction
 
@@ -81,3 +82,11 @@ are not certified by this body-level review.
 - Repair: removed the bare “chain upward” gloss and made the interpretive choice explicit. Plain words now develops workable action under circumstances, including the possibility of changing unjust conditions. The move-planning example replaces a timetable-overlap tautology with consultation, action, review and learning.
 - Saturation: Dao concept and `enrich_find.py mention ziran` reviewed. Existing Dao comparison and reciprocal are already present; no new link or equivalence.
 - Limits: no derivation of human moral obligations from what occurs in nature, no passivity in the face of injustice, and no assertion that the modern illustration captures the full historical meaning of the Dao.
+
+## D037: Empty the heart-mind
+
+- Opened: [Legge/METIS Zhuangzi 4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf), §§1–2, PDF pp. 15–18; [Fraser, Heart-Fasting, Forgetting, and Using the Heart Like a Mirror](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf), complete author manuscript, especially pp. 9–11 and 20–21; [Hansen's SEP discussion](https://plato.stanford.edu/entries/zhuangzi/) for interpretive diversity.
+- Evidence: retained quotation matches Legge after joining PDF hyphenation. The ruler's danger, Yan Hui's reform intention, ritual-fast distinction and aperture/apartment image occur in the primary dialogue. Fraser explicitly interprets heart-fasting as abstaining from fully formed preconceptions and treats emptiness/mirroring metaphorically, with effective responsiveness as a criterion.
+- Repair: restored political and interpersonal stakes instead of presenting a free-floating mindfulness slogan. Identified Zhongni as the dialogue's Confucius rather than presenting the scene as a historical report. Plain words directly explains revisability in listening; the existing deadline example now includes checking understanding, changing the response and subsequent review.
+- Saturation: mind/heart/emptiness concepts and the existing T009/T037 connections were checked. No general Buddhist emptiness or meditation-equivalence edge proposed.
+- Limits: modern listening exercise does not exhaust the cultivation ideal; no guarantee of safety with tyrants, dangerous people or abusive relationships, and no claim of a treatment effect.

@@ -12,18 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 37** — Empty the heart-mind (xuxin)
 
-In the Zhuangzi dialogue, Yan Hui asks whether abstaining from drink and certain foods counts as fasting. Zhongni distinguishes this from the fasting of the mind.
+In Zhuangzi 4, Yan Hui wants to reform the ruler of Wei. Zhongni, the dialogue's Confucius, warns that his plans could endanger him; later, he distinguishes fasting the mind from abstaining from drink and certain foods ([Legge, §§1–2](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
 > But the spirit is free from all pre-occupation and so waits for (the appearance of) things. Where the (proper) course is, there is freedom from all pre-occupation; such freedom is the fasting of the mind. (Zhuangzi 4 §2, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-Later, Zhongni points to an opening through which light fills an empty apartment (§2). One practical reading is to leave room for an encounter before deciding what it must mean.
+Later, Zhongni points to an opening through which light fills an empty apartment ([§2](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Chris Fraser reads heart-fasting as setting aside fixed, fully formed preconceptions so that a person can respond appropriately to unfolding circumstances; he treats emptiness as metaphorical and gives practical responsiveness a role in assessing it ([Applied Emptiness in the Zhuangzi, manuscript pp. 9–11 and 20–21](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf)).
 
-(Zhuangzi 4.)
+I draw from this reading an invitation to hold my expectations provisionally when listening. That modest exercise leaves much of the text's cultivation ideal unexplored.
 
-**Plain words**
-Suppose you enter a conversation sure you know what the other person will say. For this exercise, leave that prediction unsettled while listening. Attend to their words, including anything you did not expect.
+### Plain words
 
-*For example:* Imagine discussing a missed deadline with a colleague. Ask what happened and let them finish before preparing your reply.
+Your first account of another person's situation may leave something important out. Making room for their answer means allowing it to change what you think and do. You can retain your judgment while postponing a conclusion long enough to understand what they are saying.
+
+### For example
+
+Before discussing a missed deadline, notice what you assume caused it. Ask your colleague what happened and let them finish. Check your understanding with them, then agree on a response. Afterwards, consider which assumptions changed and what you want to listen for next time. This is my application, not advice to approach a dangerous person as Yan Hui proposes.
 
 ## Related concepts
 
@@ -32,6 +35,7 @@ Suppose you enter a conversation sure you know what the other person will say. F
 ## Sources
 
 - [Zhuangzi, Chapter 4, the fasting of the mind dialogue (Yan Hui and Zhongni), Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — spirit free from pre-occupation; the empty apartment image
+- [Chris Fraser, Heart-Fasting, Forgetting, and Using the Heart Like a Mirror: Applied Emptiness in the Zhuangzi, author manuscript](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf): preconceptions, responsiveness and metaphorical emptiness.
 
 ## Stories
 
