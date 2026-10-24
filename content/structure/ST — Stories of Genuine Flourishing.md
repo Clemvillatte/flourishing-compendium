@@ -305,6 +305,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST135 — Cheryl Strayed Walks It Off]]
     - [[ST440 — Holding the Pen Without the Extra Grip]]
     - [[ST476 — The Broad Margin]]
+    - [[ST477 — The Medium of Touch]]
   - [[ST-S03.10 — III.10 Applied Flourishing — The Operational Core]]
     - [[ST136 — Seligman Renames the Target]]
     - [[ST137 — Hayes and the Workability Criterion]]

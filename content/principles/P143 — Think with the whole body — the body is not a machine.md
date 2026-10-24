@@ -38,6 +38,9 @@ Compare walking while planning with attending to the walking. What, if anything,
 
 - [Henri Bergson, Matter and Memory (1911 English translation; PDF)](https://attachments.are.na/9493755/6d939210934bd84047a3b1f0efcf15ce.pdf?1605280154) — ch. I and ch. III (both blockquotes)
 
+## Stories
+- [[ST477 — The Medium of Touch|477. The Medium of Touch]]
+
 ## Psychology parallels
 
 - **[[Interoceptive awareness|Interoceptive awareness]]** (Mehling et al., 2009)
