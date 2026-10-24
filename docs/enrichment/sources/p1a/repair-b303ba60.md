@@ -163,3 +163,10 @@ are not certified by this body-level review.
 - Repair: retained the strong substantive account and its modern-theory caution. Plain words now directly explains distribution versus correction instead of opening with a sequence of instructions. Added review of whether a chosen allocation basis was followed.
 - Saturation: `enrich_find.py mention corrective justice` and Dikaiosyne read; existing Justice/Procedural justice links retained, no new edge or proposal.
 - Limits: no attribution of a need-based modern distribution proposal to Aristotle, no claim that mathematical proportionality alone determines a fair standard, and no equation of rectification with every theory of restorative justice.
+
+## A037: Cleverness and practical wisdom, verified unchanged
+
+- Opened: [NE VI, Ross](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html), complete book, especially VI.12–13; [Kraut, Aristotle's Ethics](https://plato.stanford.edu/entries/aristotle-ethics/), §§4, 5.3 and 10 extraction.
+- Evidence: full retained quotation matches VI.12. VI.13 explicitly supplies the reciprocal dependence of strict goodness and practical wisdom. Kraut confirms the distinction between effective reasoning and the training of passions towards worthy ends.
+- Disposition: body already explains the distinction plainly, recognizes the need for effective means and gives a coherent hypothetical campaign example. No rewrite was justified; validated unchanged rather than introducing churn.
+- Limits: no claim that a worthy intention alone suffices, that technical skill is bad in itself or that a single alternative campaign certifies practical wisdom.
