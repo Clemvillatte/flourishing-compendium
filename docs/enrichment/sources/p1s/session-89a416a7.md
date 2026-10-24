@@ -19,3 +19,11 @@ Started 2026-10-24 04:57:22 UTC. Worker scope: p1s manifest only. The live super
 - The belly/eyes reading is explicitly interpretation. The ancient sensory imagery is not recast as medical evidence that music or colours harm sensory organs. The attention/appetite trial is labelled the compendium's suggestion.
 - Plain words now explains satisfaction versus continuing attraction instead of replicating the instructions in the example. The example retains variation, comparison and repetition with the relevant psychological process.
 - Mention sweep “sensory excess”: Guarding the senses has the relevant sensory-restraint links; the principle retains its inherited parallels. No gratuitous new reciprocal proposed. Broader factual claims in inherited parallels/reflections are outside this rewrite's certification.
+
+## D103: the effort of maintaining superiority
+
+- Opened: [Daodejing, James Legge translation, chapter 24](https://www.gutenberg.org/files/216/216-h/216-h.htm), same unprompted source retrieval; read all of chapter 24, not merely the retained quotation.
+- Retained quote checked verbatim, including “(easily)” and “(So)”. Surrounding references to food remnants and tumour appear in the chapter's following sentence.
+- Distinguish the compendium's modern luggage metaphor from the original tiptoe/stride analogy. The distinction between useful disclosure and establishing superiority is presented as application, not attributed as a literal ancient formulation.
+- Plain words explains the extra task of managing one's image instead of telling the reader how to run the example. Two truthful introductions provide variation; task relevance supplies selection; reuse supplies retention. Impression management is an interpretive psychological lens, with no asserted efficacy.
+- Mention sweep “self-display” found D067, D068, D102, D114 and Expressed humility; these already have their relevant Daoist connections. Preserved D101, Materialism and Cynic austerity links. No reciprocal addition justified solely to meet a count.

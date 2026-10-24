@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 103** — Travel light: drop the excess baggage
 
-Chapter 24 places self-display, self-assertion, boasting and self-conceit alongside unstable postures: standing on tiptoe and stretching the legs. Legge's translation compares these habits to remnants of food or a tumour on the body. (DDJ 24.)
+Standing on tiptoe can make someone taller for a moment without giving them a steadier footing. Chapter 24 of the Daodejing uses that bodily image, followed by an overstretched stride, to introduce a warning about self-display:
 
 > "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily). (So), he who displays himself does not shine; he who asserts his own views is not distinguished; he who vaunts himself does not find his merit acknowledged; he who is self-conceited has no superiority allowed to him." (DDJ 24, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium's luggage image applies this warning to the effort spent maintaining an impressive image.
+The chapter goes on to compare these habits to unwanted leftovers or a tumour. The compendium's luggage image is an application of this passage, not its original metaphor. The burden here is the work of establishing one's superiority. Sharing useful information about an achievement need not carry that burden; the question is what the telling is for.
 
 **Plain words**
-Think of a conversation in which you feel pressure to mention an achievement. What are you hoping the other person will learn? Consider whether that detail helps the conversation and whether you could leave it out.
+Trying to seem impressive can add a second job to an ordinary conversation. Alongside discussing the task, you are trying to manage your standing. Travelling light means having less to prove, while still saying what another person needs to know.
 
-*For example:* Imagine meeting a new colleague and wanting to mention an award unrelated to your shared task. You introduce yourself and ask about the project.
+For example: Before meeting a colleague, a reader drafts two truthful introductions, one centred on awards and one on relevant experience. He chooses the version that explains how he can help, then uses that approach at the next meeting. This suggested experiment makes impression-management motives easier to examine; the chapter does not establish its effectiveness.
 
 ## Related concepts
 
