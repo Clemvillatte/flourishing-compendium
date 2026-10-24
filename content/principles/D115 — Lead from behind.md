@@ -36,6 +36,9 @@ A manager agrees a spending limit for routine purchases with her team: colleague
 
 - [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 17 §1-2, ch. 66 §1-3
 
+## Stories
+- [[ST481 — The Empty Podium|481. The Empty Podium]]
+
 ## Psychology parallels
 
 - **[[Leader humility|Leader humility]]**, expressed humility improves team performance and psychological safety (Owens and Hekman, 2016)
