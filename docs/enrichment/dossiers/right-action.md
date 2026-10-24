@@ -29,13 +29,13 @@ Right action is the fourth factor of the Eightfold Path: what the body does when
 
 The Magga-vibhanga Sutta gives the definition:
 
-> "And what, monks, is right action? Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)): Primary text; quoted passages checked.
+> "And what, monks, is right action? Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).
 
 Bhikkhu Bodhi's study of the path supplies the positive counterparts to the three abstentions:
 
-> "The positive counterpart to abstaining from taking life, as the Buddha indicates, is the development of kindness and compassion for other beings. The disciple not only avoids destroying life; he dwells with a heart full of sympathy, desiring the welfare of all beings." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)): Scholarly study; quoted passages checked.
+> "The positive counterpart to abstaining from taking life, as the Buddha indicates, is the development of kindness and compassion for other beings. The disciple not only avoids destroying life; he dwells with a heart full of sympathy, desiring the welfare of all beings." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).
 
-> "The positive virtue corresponding to the abstinence is, for laypeople, marital fidelity. Husband and wife should each be faithful and devoted to the other, content with the relationship, and should not risk a breakup to the union by seeking outside partners." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)): Scholarly study; quoted passages checked.
+> "The positive virtue corresponding to the abstinence is, for laypeople, marital fidelity. Husband and wife should each be faithful and devoted to the other, content with the relationship, and should not risk a breakup to the union by seeking outside partners." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).
 
 ### The three restraints and their counterparts
 
@@ -59,7 +59,7 @@ The first restraint, taking life, and its counterpart, compassion:
 
 The second restraint, taking what is not given, and its counterparts, honesty, contentment and generosity:
 
-> "The positive counterpart to abstaining from stealing is honesty, which implies respect for the belongings of others and for their right to use their belongings as they wish. Another related virtue is contentment, being satisfied with what one has without being inclined to increase one's wealth by unscrupulous means. The most eminent opposite virtue is generosity, giving away one's own wealth and possessions in order to benefit others." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)): Scholarly study; quoted passages checked.
+> "The positive counterpart to abstaining from stealing is honesty, which implies respect for the belongings of others and for their right to use their belongings as they wish. Another related virtue is contentment, being satisfied with what one has without being inclined to increase one's wealth by unscrupulous means. The most eminent opposite virtue is generosity, giving away one's own wealth and possessions in order to benefit others." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).
 
 [Generosity](https://clemvillatte.github.io/flourishing-compendium/#card=Generosity): Aristotle's liberality, the mean with regard to wealth, concerned especially with giving.
 
@@ -123,7 +123,7 @@ The third restraint, sexual misconduct, and its counterpart, fidelity:
 
 Aristotle's account of virtue of character holds that character is formed by doing:
 
-> "men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." ([Aristotle, Nicomachean Ethics II.1, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)): Primary text; quoted passages checked.
+> "men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." ([Aristotle, Nicomachean Ethics II.1, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)).
 
 [Designing for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20for%20virtue): the design-research idea that products and environments can support virtuous behaviour; the third ingredient of the Positive Design Framework.
 
@@ -141,11 +141,11 @@ Aristotle's account of virtue of character holds that character is formed by doi
 
 The path's definition states the restraint without exception:
 
-> "Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)): Primary text; quoted passages checked.
+> "Abstaining from taking life, abstaining from stealing, abstaining from unchastity: This, monks, is called right action." ([SN 45.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).
 
 The Christian tradition codifies the other answer, that taking up the sword of war can be lawful conduct. Aquinas asks whether it is always sinful to wage war, and the reply opens by giving what makes a war just:
 
-> "In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged." ([Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm)): Primary text; quoted passages checked.
+> "In order for a war to be just, three things are necessary. First, the authority of the sovereign by whose command the war is to be waged." ([Aquinas, Summa Theologiae II-II, q.40, a.1](https://www.newadvent.org/summa/3040.htm)).
 
 The permission is bounded, not an endorsement of harm for its own sake; the same article condemns the passion for inflicting harm and the cruel thirst for vengeance in war. The two answers to the same question are incompatible: the definition of right action names abstaining from taking life, and the just-war tradition names the conditions under which a sovereign may rightly command it. I hold both sides, the non-harm floor on one side and the just-war card on the other, and do not reconcile them.
 
@@ -153,23 +153,23 @@ The permission is bounded, not an endorsement of harm for its own sake; the same
 
 In Aristotle's report, Socrates denies that someone can knowingly act against what they judge best.
 
-> "Socrates in fact contended generally against the theory, maintaining there is no such state as that of Imperfect Self-Control, for that no one acts contrary to what is best conceiving it to be best but by reason of ignorance what is best." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): Primary text; quoted passages checked.
+> "Socrates in fact contended generally against the theory, maintaining there is no such state as that of Imperfect Self-Control, for that no one acts contrary to what is best conceiving it to be best but by reason of ignorance what is best." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).
 
 Wang Yangming's doctrine of the unity of knowledge and action holds the same shape, that genuinely knowing already issues in acting:
 
-> "There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)): Scholarly reference; quoted passages checked.
+> "There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)).
 
 Aristotle, in the same discussion, calls the plain facts against him:
 
-> "With all due respect to Socrates, his account of the matter is at variance with plain facts, and we must enquire with respect to the affection, if it be caused by ignorance what is the nature of the ignorance: for that the man so failing does not suppose his acts to be right before he is under the influence of passion is quite plain." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): Primary text; quoted passages checked.
+> "With all due respect to Socrates, his account of the matter is at variance with plain facts, and we must enquire with respect to the affection, if it be caused by ignorance what is the nature of the ignorance: for that the man so failing does not suppose his acts to be right before he is under the influence of passion is quite plain." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).
 
 Aristotle's resolution, later in Book VII, moves part of the way back toward Socrates:
 
-> "the result which Socrates was seeking comes out, that is to say, the affection does not take place in the presence of that which is thought to be specially and properly Knowledge, nor is this dragged about by reason of the affection, but in the presence of that Knowledge which is conveyed by Sense." ([Aristotle, Nicomachean Ethics VII.3, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): Primary text; quoted passages checked.
+> "the result which Socrates was seeking comes out, that is to say, the affection does not take place in the presence of that which is thought to be specially and properly Knowledge, nor is this dragged about by reason of the affection, but in the presence of that Knowledge which is conveyed by Sense." ([Aristotle, Nicomachean Ethics VII.3, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)).
 
 Wang's knowledge, as the reference article presents it, is knowing how to respond rather than grasping information:
 
-> "For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)): Scholarly reference; quoted passages checked.
+> "For Wang, knowledge means knowing how to respond to a given situation and action is responding to a given situation." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)).
 
 Socrates, as Aristotle reports him, denies the state exists, and Aristotle calls the plain facts against him, then moves part of the way back with the resolution above. What remains open is the fit between the two sides' terms, whether Wang's knowing-how is Aristotle's Knowledge proper, which passion cannot suspend, or the sense-conveyed knowing that it can; I hold materials on both sides, the spontaneous-right-action card with Socrates and Wang, the virtue-rehearsal kernels with Aristotle, and records the pair as a related question rather than a settled disagreement.
 

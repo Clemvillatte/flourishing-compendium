@@ -288,3 +288,11 @@ should be read with these exclusions.
 
 Registry status for right-action is left "planned" per the dossier
 pipeline; the supervisor flips and publishes. Flagged in commit message.
+
+## Label repair (takeover session, worker-pplx-dos21-1025a)
+
+The public verification-status labels (Primary text / Scholarly study /
+Scholarly reference variants of "quoted passages checked") were removed
+from all quote attributions in the dossier of record, per the owner
+stop-gate; the quotes themselves are unchanged and their carrier
+records below stand. Checker exit 0 after the repair.
