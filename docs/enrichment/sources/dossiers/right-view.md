@@ -134,3 +134,34 @@ The dossier now carries one grounded divergence (early-texts affirmation of
 right view vs the Diamond Sutra/Madhyamaka dissolution of views) plus two
 honestly-marked open research questions. Seven source URLs total behind the
 ten external carrier occurrences.
+
+## Story carriers (pass 7, 2026-10-24)
+
+9. AN 6.55, Soṇa Sutta — Thanissaro translation,
+   https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html —
+   fetched and extraction-checked: the vina exchange ("when the strings of
+   your vina were too taut... too loose... neither too taut nor too
+   loose... In the same way, Sona, over-aroused persistence leads to
+   restlessness, overly slack persistence leads to laziness") is on the
+   opened page, matching the ST064 card.
+
+10. Milindapañha, Wikipedia,
+    https://en.wikipedia.org/wiki/Milindapa%C3%B1ha — fetched; the chariot
+    analogy passage is NOT carried on the fetched excerpt. The ST065
+    card's telling is the compendium's own text (the logline retells the
+    card, per the Story spec); the next pass should point the card's
+    citation at a carrier that visibly carries the chariot exchange
+    (e.g. the Rhys Davids archive.org full text used by other pages).
+
+11. ST067 (Whiplash, 2014): the story card was read; its Wikipedia carrier
+    was not opened this session and no claim in the dossier rests on it
+    beyond the card's own text. Story loglines in the dossier quote
+    nothing from carriers.
+
+## Pass 7 additions
+
+Kernels K238 (Kill-the-Buddha drill) and K147 ("I am becoming" reframes)
+read from their cards and added to the Practice selection with their own
+hedged framing; kernel family sweep done (no other view-family kernels
+identified beyond K131/K134/K218/K238/K147; K157/K262/K263 are review
+kernels, off-theme).

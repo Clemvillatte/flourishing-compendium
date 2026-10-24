@@ -152,6 +152,10 @@ The propositional reading exists in summary sources, but no carrier advocating a
 
 3. [Perspective-getting](https://clemvillatte.github.io/flourishing-compendium/#card=K218%20%E2%80%94%20Perspective-getting): when you assume you know what someone thinks, ask instead; the research favours asking over guessing, with the caution that the advantage is real but not automatic, and most people ask less than they could.
 
+4. [Kill-the-Buddha drill](https://clemvillatte.github.io/flourishing-compendium/#card=K238%20%E2%80%94%20Kill-the-Buddha%20drill): for one belief you hold, argue from your own experience against your favorite authority; the drill tests whether the belief survives contact with lived evidence or is held on authority alone.
+
+5. ["I am becoming" reframes](https://clemvillatte.github.io/flourishing-compendium/#card=K147%20%E2%80%94%20I%20am%20becoming%20reframes): for a stuck identity, catch the fixed label and ask what it forecloses; the reframe works on the view of self as a set quantity, and the mindset literature behind it carries its own failed-premises caution.
+
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the question put to a plan before acting, or the opposite case written once, has what the theme offered; what stays is a matter of fit between the check and the life it enters.
 
 ## Story: the stories that carry the theme
