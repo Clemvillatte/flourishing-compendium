@@ -1603,7 +1603,22 @@
      "note": "advisor QC item-15 fixes applied: joint attribution, purpose-setting marked not demonstrated, punctuation restored, date range removed"
     }
    ]
+  },
+  "s1a-055": {
+   "status": "ready",
+   "angle": "P179: Franklin's little book — the daily schedule's morning and evening questions closing the loop on each day",
+   "history": [
+    {
+     "t": "2026-10-24T14:26:42+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:27:10+00:00",
+     "to": "ready",
+     "note": "Franklin Autobiography raw text verified; schedule questions reconstructed from the printed table, noted in QC notes"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:25:56+00:00"
+ "updated": "2026-10-24T14:27:10+00:00"
 }
