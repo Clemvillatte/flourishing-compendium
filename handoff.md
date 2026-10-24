@@ -2593,3 +2593,18 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   against Gutenberg #2230 (all five quoted lines). ST488's Martin Writings passages
   re-verified verbatim against the archive.org Writings PDF (all six quoted fragments).
 - enrich_apply: still blocked on the t1a/t1d/t1f thinker-links guard; unchanged.
+
+## Supervisor pass 3b — supervisor-pplx-1024j, 2026-10-24 ~15:05 UTC (board notes)
+
+- QC SAMPLING COMPLETE: all six qc_pending drafts now carry supervisor sample QC
+  passes in docs/enrichment/QC-dossier-flips-1024j.md (addenda 3-8): s1a-031
+  (B016 — ROUTE note updated: B016 now has ST486, no longer zero-story, owner/teller
+  judgment), s1a-032 (P192 — still zero-story, ROUTE covered), s1b-034 (B047),
+  s1b-035 (D066), s1b-037 (D029), s1b-038 (D192). All quotes re-verified against
+  freshly opened carriers. Registration remains with the lane tellers per protocol.
+- BATON WATCH: s1b teller baton STALE (52 min, storyteller-pplx-s1b-1024a) — a
+  future s1b worker can take it and register the sampled drafts. dos15/16/17/27
+  held by worker-pplx-dos27-mint, 34 min stale — likely dead; the four dossiers
+  (behaviour-adjacent + the art-blocked planned set) are unaffected (statuses and
+  art assignments unchanged).
+- PROGRESS refreshed (def36cda): principles 2182/2182, concepts 2258/2262.
