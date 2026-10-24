@@ -31,7 +31,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 The canonical list, in the Buddha's own words:
 
-> "Monks, a lay follower should not engage in five types of business. Which five? Business in weapons, business in human beings, business in meat, business in intoxicants, and business in poison. These are the five types of business that a lay follower should not engage in." ([Thanissaro, AN 5.177, the Vanijja Sutta](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html)): Primary text; quoted passages checked.
+> "Monks, a lay follower should not engage in five types of business. Which five? Business in weapons, business in human beings, business in meat, business in intoxicants, and business in poison. These are the five types of business that a lay follower should not engage in." ([Thanissaro, AN 5.177, the Vanijja Sutta](https://www.accesstoinsight.org/tipitaka/an/an05/an05.177.than.html)).
 
 ### The floor and its reasons
 

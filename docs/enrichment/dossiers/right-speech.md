@@ -35,7 +35,7 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 The path definition, in the Buddha's own words:
 
-> "And what is right speech? Abstaining from lying, abstaining from divisive speech, abstaining from abusive speech, abstaining from idle chatter: This, monks, is called right speech." ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)): Primary text; quoted passages checked.
+> "And what is right speech? Abstaining from lying, abstaining from divisive speech, abstaining from abusive speech, abstaining from idle chatter: This, monks, is called right speech." ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)).
 
 ### The abstentions, and what each one guards
 
@@ -97,15 +97,15 @@ The path definition, in the Buddha's own words:
 
 The Abhaya Sutta's own case list, with the timing rule in the middle of it:
 
-> "[3] In the case of words that the Tathagata knows to be factual, true, beneficial, but unendearing & disagreeable to others, he has a sense of the proper time for saying them... [6] In the case of words that the Tathagata knows to be factual, true, beneficial, and endearing & agreeable to others, he has a sense of the proper time for saying them. Why is that? Because the Tathagata has sympathy for living beings." ([Thanissaro, MN 58](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)): Primary text; quoted passages checked.
+> "[3] In the case of words that the Tathagata knows to be factual, true, beneficial, but unendearing & disagreeable to others, he has a sense of the proper time for saying them... [6] In the case of words that the Tathagata knows to be factual, true, beneficial, and endearing & agreeable to others, he has a sense of the proper time for saying them. Why is that? Because the Tathagata has sympathy for living beings." ([Thanissaro, MN 58](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)).
 
 And the prince's answer, when the Buddha asks what he would do if the child took a stick or a pebble into its mouth, gives the image for why the gate exists at all:
 
-> "If I couldn't get it out right away, then holding its head in my left hand and crooking a finger of my right, I would take it out, even if it meant drawing blood. Why is that? Because I have sympathy for the young boy." ([Thanissaro, MN 58](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)): Primary text; quoted passages checked.
+> "If I couldn't get it out right away, then holding its head in my left hand and crooking a finger of my right, I would take it out, even if it meant drawing blood. Why is that? Because I have sympathy for the young boy." ([Thanissaro, MN 58](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)).
 
 The five-factor version the tradition also carries:
 
-> "It is spoken at the right time. It is spoken in truth. It is spoken affectionately. It is spoken beneficially. It is spoken with a mind of good-will." ([Thanissaro, AN 5.198](https://www.accesstoinsight.org/tipitaka/an/an05/an05.198.than.html)): Primary text; quoted passages checked.
+> "It is spoken at the right time. It is spoken in truth. It is spoken affectionately. It is spoken beneficially. It is spoken with a mind of good-will." ([Thanissaro, AN 5.198](https://www.accesstoinsight.org/tipitaka/an/an05/an05.198.than.html)).
 
 ### The listening side
 
@@ -207,7 +207,7 @@ The five-factor version the tradition also carries:
 
 The shared question: when speech is true and useful, must it also be agreeable to its hearer? The Bhagavad Gita's definition of the austerity of speech folds the hearer's ease into the definition:
 
-> "Speaking words that cause no agitation and that are truthful, pleasing and beneficial, as well as reciting the Vedas, are all said to be austerities of speech." ([Bhagavad Gita 17.15, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html)): Primary text; quoted passages checked. Edwin Arnold's rendering of the same verse, verified against the Gutenberg plain text, reads "Words causing no man woe, words ever true, / Gentle and pleasing words".
+> "Speaking words that cause no agitation and that are truthful, pleasing and beneficial, as well as reciting the Vedas, are all said to be austerities of speech." ([Bhagavad Gita 17.15, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html)) Edwin Arnold's rendering of the same verse, verified against the Gutenberg plain text, reads "Words causing no man woe, words ever true, / Gentle and pleasing words".
 
 The Abhaya Sutta's case list, by contrast, in its third case, admits words that are factual, true, beneficial, and unendearing, to be said at the proper time, and the reason given is sympathy, not its absence. The two traditions answer the same question and part on whether pleasantness belongs to the definition of right speech or is a factor to be timed around. What remains unresolved is where the line falls in the hard case: a truth that is beneficial, unendearing, and whose hearer is not ready for it.
 

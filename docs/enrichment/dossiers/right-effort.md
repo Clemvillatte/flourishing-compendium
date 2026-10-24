@@ -29,7 +29,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 The four efforts, in the sutta's own words:
 
-> "There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the abandonment of evil, unskillful qualities that have arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the arising of skillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This, monks, is called right effort." ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)): Primary text; quoted passages checked. The four directions: preventing, abandoning, arousing, maintaining.
+> "There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the abandonment of evil, unskillful qualities that have arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the arising of skillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This, monks, is called right effort." ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)) The four directions: preventing, abandoning, arousing, maintaining.
 
 ### The four directions for one energy
 
@@ -53,7 +53,7 @@ The four efforts, in the sutta's own words:
 
 The Sutta's own statement of the calibration:
 
-> "In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence, attune [2] the pitch of the [five] faculties [to that], and there pick up your theme." ([Thanissaro, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)): Primary text; quoted passages checked. The bracketed glosses are the translator's.
+> "In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence, attune [2] the pitch of the [five] faculties [to that], and there pick up your theme." ([Thanissaro, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)) The bracketed glosses are the translator's.
 
 [Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles): Sonnentag and Fritz's recovery research: four recovery experiences, psychological detachment from work, relaxation, mastery and control; effort's other half.
 
