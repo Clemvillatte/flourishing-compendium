@@ -134,3 +134,27 @@ prior revision; this session has not re-checked any of the carriers.
 
 No card link, quotation text or gloss was changed; only the eight
 verification suffixes moved from the public prose to this ledger.
+
+## Prose review defects (read-only, 2026-10-25)
+
+Substantive rework is gated on owner approval of the GF exemplar, so
+these are recorded for a future pass, not fixed here.
+
+Banned contrast constructions ("rather than" / "not X but Y") found
+throughout: Enactivism ("rather than something a brain does");
+Dialogic reason ("not inside a single isolated mind"); Holding as
+hypothesis ("to be tested rather than a possession to be defended");
+Belief evaluation in CBT ("not only whether it is true"); Rumination
+("rather than acting"); Metacognitive model ("rather than to thought
+content"); Decentering ("rather than as the world"); Cognitive
+defusion ("rather than as commands, facts or the self"); Cultural
+recognition ("acknowledged rather than demeaned"); ::Variation::
+("used to find out rather than to defend"); K381 ("to talk about
+rather than be"). Line 180's blockquote also contains "rather than"
+but is a verbatim source quote and must be kept as-is.
+
+Institutional voice: line 9 "this page's subject" refers to the page
+as a thing; per the voice rule it should be first-person or removed.
+
+Bridging: as with affect, the map sections are single-line attributed
+glosses; the reader cannot say what question each section answered.
