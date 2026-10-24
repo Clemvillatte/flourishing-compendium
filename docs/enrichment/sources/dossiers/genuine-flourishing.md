@@ -693,3 +693,25 @@ linked story library as wholly verified.
 
 Precision pass also makes Hanel's value-specific association explicit,
 and puts Durie, Gable and Seligman claims in single source-bearing sentences.
+
+### Candidate pass 14: final advisor prose corrections
+
+Advisor's scoped verdict on cfa84eb6: gallery factual pass, main caveats
+intact; remaining prose concerns addressed through varied endings,
+short Nearby terms, removal of repeated thinker roll-call (links moved
+to the accounts they introduce), and comparison rather than repeated
+plot summaries. All147 original card occurrences retained exactly.
+Epigraph blank line fixed for GitHub Markdown.
+
+Opening is protected by the owner's WORK ORDER. Apart from removing
+verification tags and blank-line formatting, wording remains unchanged.
+Advisor recommends separately reconsidering its sweeping classical/
+scientific claims, three etymological extracts, and scope meta-text.
+This is an explicit OWNER REVIEW FLAG, not silent approval of every
+inherited sentence. No agent may treat a technical pass as owner consent.
+
+Live browser QA found a pre-existing cold-boot abort: `stats` was absent
+from HTML but app.js wrote `.textContent` without a null guard, stopping
+Wiki, then Randomiser and Academy. Minimal optional-node guard applied.
+Regression tests cover node present/absent. Live eb28c763 has no caught
+or uncaught errors, GF route and147 internal card links render.

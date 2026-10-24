@@ -3001,7 +3001,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Happiness: the affective state and its research, hedonic adaptation and subjective well-being included, live in the Happiness dossier; the classical account is [Happiness as activity](card:Happiness%20as%20activity), and the boundary between the two is the hedonic-eudaimonic line drawn below. - Well-being: the umbrella term the science uses; its eudaimonic side is held here by [Eudaimonic well-being](card:Eudaimonic%20well-being), its two-factor structure by [The two-factor model of well-being](card:The%20two-factor%20model%20of%20well-being). - Eudaimonia: the classical root, held by [Eudaimonia](card:Eudaimonia) and the Aristotle cluster in the map. - Thriving: a near-synonym I do not mint as its own title; the closest settled entries are [Flourishing as capability](card:Flourishing%20as%20capability) and [Complete mental health model](card:Complete%20mental%20health%20model)."
+          "x": "- Happiness: I distinguish feeling happy from judging how a life is going. Aristotle complicates that distinction by treating [happiness as activity](card:Happiness%20as%20activity), [not simply a feeling](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). - Well-being: a broad term that includes [meaning and functioning](card:Eudaimonic%20well-being), while [the two-factor model](card:The%20two-factor%20model%20of%20well-being) [distinguishes mental well-being from mental illness](https://pubmed.ncbi.nlm.nih.gov/12096700/). - Eudaimonia: [Aristotle's term](card:Eudaimonia) for [living and acting well across a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). - Thriving: when I use this near-synonym, I want to ask about both [real possibilities for living](card:Flourishing%20as%20capability) and [positive mental health](card:Complete%20mental%20health%20model), rather than visible success alone."
         },
         {
           "t": "h",
@@ -3013,7 +3013,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For Aristotle, [eudaimonia](card:Eudaimonia) is not a mood that arrives when life is comfortable. It is [happiness as activity](card:Happiness%20as%20activity): [a life of acting well](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), expressing [excellence](card:Arete). [Virtue](card:Virtue) is [a disposition learned through action](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html), not simply a favourable opinion about goodness."
+          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) is not a mood that arrives when life is comfortable. It is [happiness as activity](card:Happiness%20as%20activity): [a life of acting well](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), expressing [excellence](card:Arete). [Virtue](card:Virtue) is [a disposition learned through action](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html), not simply a favourable opinion about goodness."
         },
         {
           "t": "p",
@@ -3030,7 +3030,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Epicurus gives pleasure a different place. [Freedom from disturbance](card:Ataraxia) and [settled pleasure](card:Katastematic%20pleasure) make [freedom from bodily pain and mental distress](https://plato.stanford.edu/entries/epicurus/) central to a happy life. His [self-sufficiency](card:Autarky) means [being content with little, not dispensing with friendship](https://plato.stanford.edu/entries/epicurus/). I find that distinction essential: needing less is not the same as needing nobody."
+          "x": "Epicurus gives pleasure a different place. [Freedom from disturbance](card:Ataraxia) and [settled pleasure](card:Katastematic%20pleasure) make [freedom from bodily pain and mental distress](https://plato.stanford.edu/entries/epicurus/) central to a happy life. His [self-sufficiency](card:Autarky) means [being content with little, not dispensing with friendship](https://plato.stanford.edu/entries/epicurus/). Needing less is not the same as needing nobody."
         },
         {
           "t": "p",
@@ -3046,7 +3046,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Maslow's account](https://psychclassics.yorku.ca/Maslow/motivation.htm) connects the [hierarchy of needs](card:Hierarchy%20of%20Needs%20Theory) with [self-actualization](card:Self-actualization%20%28Maslow%29): becoming what one is capable of becoming. [Positive psychology](card:Positive%20psychology) later made [building a life worth living](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) an explicit research aim. But what would count as evidence that a life was going well?"
+          "x": "[Maslow](card:T029%20%E2%80%94%20Maslow%2C%20Abraham) connects the [hierarchy of needs](card:Hierarchy%20of%20Needs%20Theory) with [self-actualization](card:Self-actualization%20%28Maslow%29): [becoming what one is capable of becoming](https://psychclassics.yorku.ca/Maslow/motivation.htm). [Positive psychology](card:Positive%20psychology) later made [building a life worth living](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) an explicit research aim. But what would count as evidence that a life was going well?"
         },
         {
           "t": "p",
@@ -3070,7 +3070,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "That explanation also makes room for the setting. [Ryan and Deci](https://pubmed.ncbi.nlm.nih.gov/11392867/) describe people as potentially engaged or alienated, depending largely on the social conditions in which they develop and function. I use [self-determined personality growth](card:Self-determined%20personality%20growth) as a label for this connection, not as a reason to make each person solely responsible for how they fare."
+          "x": "That explanation also makes room for the setting. [Ryan and Deci](card:T015%20%E2%80%94%20Ryan%2C%20Richard%20M.%20and%20Deci%2C%20Edward%20L.) describe people as [potentially engaged or alienated, depending largely on the social conditions in which they develop and function](https://pubmed.ncbi.nlm.nih.gov/11392867/). I use [self-determined personality growth](card:Self-determined%20personality%20growth) as a label for this connection, not as a reason to make each person solely responsible for how they fare."
         },
         {
           "t": "p",
@@ -3078,11 +3078,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "The question extends beyond an absorbing afternoon. [Brian Little](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x) proposes that a life's quality depends on sustaining its core [personal projects](card:Personal%20projects), the pursuits a person deeply cares about. I find the shift in timescale useful: a life has to support the continuation of what matters, not merely provide an occasional peak."
+          "x": "The question extends beyond an absorbing afternoon. [Brian Little](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x) proposes that a life's quality depends on sustaining its core [personal projects](card:Personal%20projects), the pursuits a person deeply cares about. An occasional peak is different from being able to continue what matters through the rest of life."
         },
         {
           "t": "p",
-          "x": "[Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues. [Fredrickson's research](card:Positive%20emotions%20research) asks what positive emotions make possible: [broaden-and-build](card:Broaden-and-build) proposes [that they widen thought and action and help build lasting resources](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/). I read her early account as she presented it: a theory supported by preliminary evidence, not a command to feel positive."
+          "x": "[Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues. For [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara), [positive-emotion research](card:Positive%20emotions%20research) asks what these emotions make possible: her [broaden-and-build](card:Broaden-and-build) theory proposes [that they widen thought and action and help build lasting resources, with early evidence presented as preliminary](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/). A theory about positive emotions is not a command to feel positive."
         },
         {
           "t": "p",
@@ -3150,7 +3150,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Wabi-sabi](card:Wabi-sabi) brings attention to [austere beauty, age and the imperfect or passing](https://plato.stanford.edu/entries/japanese-aesthetics/). I find in it permission to ask whether a life must look complete to be worth cherishing."
+          "x": "[Wabi-sabi](card:Wabi-sabi) brings attention to [austere beauty, age and the imperfect or passing](https://plato.stanford.edu/entries/japanese-aesthetics/). Must a life look complete to be worth cherishing?"
         },
         {
           "t": "h2",
@@ -3158,7 +3158,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "In [Diener and Seligman's study of 222 students](https://pubmed.ncbi.nlm.nih.gov/11894851/), the happiest tenth had stronger [relationships](card:Connectedness%20in%20well-being%20research), an association rather than proof of cause. [Baumeister and Leary](https://pubmed.ncbi.nlm.nih.gov/7777651/) argue that [belonging](card:The%20need%20to%20belong) is a basic motivation, met through frequent, nonaversive contact within lasting bonds. I would start with who a person can count on, not only with what they have achieved."
+          "x": "In [Diener and Seligman's study of 222 students](https://pubmed.ncbi.nlm.nih.gov/11894851/), the happiest tenth had stronger [relationships](card:Connectedness%20in%20well-being%20research), an association rather than proof of cause. [Baumeister and Leary](https://pubmed.ncbi.nlm.nih.gov/7777651/) argue that [belonging](card:The%20need%20to%20belong) is a basic motivation, met through frequent, nonaversive contact within lasting bonds."
         },
         {
           "t": "p",
@@ -3166,7 +3166,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Te Whare Tapa Whā](card:Te%20Whare%20Tapa%20Wh%C4%81), Mason Durie's Māori model, makes the relationship concrete: [physical, mental, spiritual and family health are four walls of a meeting house, and damage to one can leave a person or collective unbalanced](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha). I read the house as a reminder that one strong part cannot simply stand in for the whole."
+          "x": "[Te Whare Tapa Whā](card:Te%20Whare%20Tapa%20Wh%C4%81), Mason Durie's Māori model, makes the relationship concrete: [physical, mental, spiritual and family health are four walls of a meeting house, and damage to one can leave a person or collective unbalanced](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha). One strong part cannot simply stand in for the whole."
         },
         {
           "t": "p",
@@ -3210,7 +3210,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "I find Aristotle's distinction between [potentiality and actuality](card:Potentiality%20to%20actuality) helpful here: being able to do something is different from actually doing it. This is my application of his [metaphysics](https://classics.mit.edu/Aristotle/metaphysics.9.ix.html), not a psychological finding. Buddhist [bhāvanā](https://en.wikipedia.org/wiki/Bhavana), or cultivation, likewise gives [practice](card:Growth%20through%20practice) a continuing role in developing the mind. I take the emphasis on cultivation as a reason to keep practising, rather than imagining that I have arrived."
+          "x": "I find Aristotle's distinction between [potentiality and actuality](card:Potentiality%20to%20actuality) helpful here: being able to do something is different from actually doing it. This is my application of his [metaphysics](https://classics.mit.edu/Aristotle/metaphysics.9.ix.html), not a psychological finding. Buddhist [bhāvanā](https://en.wikipedia.org/wiki/Bhavana), or cultivation, likewise gives [practice](card:Growth%20through%20practice) a continuing role in developing the mind."
         },
         {
           "t": "p",
@@ -3234,35 +3234,27 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "From judging a life to studying it"
-        },
-        {
-          "t": "p",
-          "x": "[Aristotle](card:T002%20%E2%80%94%20Aristotle) asks [what makes a human life good](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html); [Maslow](card:T029%20%E2%80%94%20Maslow%2C%20Abraham) asks [what people need and what they can become](https://psychclassics.yorku.ca/Maslow/motivation.htm). I want both questions available, without assuming that an account of healthy development settles every moral question."
+          "x": "What research cannot decide for us"
         },
         {
           "t": "p",
           "x": "For [Seligman](card:T026%20%E2%80%94%20Seligman%2C%20Martin), [relieving distress and building well-being are different tasks, with positive psychology supplementing rather than replacing the work of reducing suffering](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf). I would distrust a conception of flourishing that used the second task to lose sight of the first."
         },
         {
-          "t": "p",
-          "x": "[Ryan and Deci](card:T015%20%E2%80%94%20Ryan%2C%20Richard%20M.%20and%20Deci%2C%20Edward%20L.) bring [motivation, development and social conditions together](https://pubmed.ncbi.nlm.nih.gov/11392867/), while [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara) asks [what positive emotions enable a person to do](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/). These are ways of investigating parts of a good life, not substitutes for deciding what deserves our care."
-        },
-        {
           "t": "h2",
-          "x": "Lives that test the idea"
+          "x": "Judging from inside a life"
         },
         {
           "t": "p",
-          "x": "In [Herodotus's account](https://praxeology.net/hero.htm), [Croesus](card:ST143%20%E2%80%94%20Solon%20and%20Croesus) displays his wealth and expects Solon to call him happy. Solon refuses to judge before seeing how the life ends. The scene makes prosperity look less conclusive than it does from inside a treasury."
+          "x": "In [Herodotus's account of Croesus](https://praxeology.net/hero.htm), [Solon judges a life by its end](card:ST143%20%E2%80%94%20Solon%20and%20Croesus). [Camus's Sisyphus](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy) places [conscious defiance inside an apparently futile task](https://plato.stanford.edu/entries/camus/). I cannot combine those pictures into a single test: the shape of a whole life and a person's way of inhabiting the present are different things to judge."
         },
         {
           "t": "p",
-          "x": "Two much harsher situations ask what remains when circumstances cannot be made good. [Camus's Sisyphus](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy) returns to the rock in [conscious defiance of his fate](https://plato.stanford.edu/entries/camus/). [Frankl](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning) describes [prisoners holding to a loved person or unfinished work](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf). A reason to live was not a guarantee of survival. I cannot read either account as permission to demand that someone else make suffering meaningful."
+          "x": "[Frankl's account](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning) of [meaning in the camps does not promise survival](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf). It does not license asking people to suffer nobly when their suffering could be relieved. And in [Plutarch's portrait](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/De_exilio*.html), [Diogenes](card:ST195%20%E2%80%94%20Diogenes%20and%20the%20Sun) answers Alexander's question whether he needs anything by asking him to stop blocking the sunlight."
         },
         {
           "t": "p",
-          "x": "[Plutarch's portrait](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/De_exilio*.html) of [Diogenes](card:ST195%20%E2%80%94%20Diogenes%20and%20the%20Sun) reverses a king's offer of help: Alexander need only stop blocking the sunlight. At a less dramatic scale, [the study behind responding to good news](https://pubmed.ncbi.nlm.nih.gov/15301629/) follows [an everyday opportunity for connection](card:ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News). I am drawn to the change of scale: the good life has to mean something when someone beside us simply wants to tell us what went well."
+          "x": "These are extreme encounters, but the question also belongs in an ordinary day. [Responding to someone's good news](card:ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News) brings it down to a small choice: will I make room for another person's joy, or hurry past it?"
         },
         {
           "t": "h",
@@ -3314,7 +3306,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Sidgwick](https://www.gutenberg.org/files/46743/46743-h/46743-h.htm) argues that a predominant desire for pleasure can defeat its own aim. In his [Autobiography](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm), Mill describes finding happiness through commitments pursued for their own sake, rather than as devices for making himself happy. I read this as a distinction between caring about a good life and treating its contents merely as instruments for producing a feeling."
+          "x": "[Sidgwick](https://www.gutenberg.org/files/46743/46743-h/46743-h.htm) argues that a predominant desire for pleasure can defeat its own aim. In his [Autobiography](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm), Mill describes finding happiness through commitments pursued for their own sake, rather than as devices for making himself happy. Caring about a good life need not mean treating everything in it as an instrument for producing a feeling."
         },
         {
           "t": "p",
