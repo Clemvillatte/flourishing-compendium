@@ -715,3 +715,28 @@ cycle and save (B172 e3d6958d, B181 75f658ea, B190 below).
 ## Worker p1s-e3324a34 (2026-10-23)
 
 Item evidence, advisor QC, verification limits and cross-band observations are recorded in [session-e3324a34.md](session-e3324a34.md). This worker edits only p1s content/state/evidence and its own baton; no progress, queue or protected reflection changes.
+
+### P175 — Seek vital engagement (2026-10-24, worker-p1s-promptskill-1024)
+- Routed repair (supervisor note 2026-10-23 06:45Z): resolve the definition-quote
+  locator (85 vs 87 vs 86 across records) and verify the wording. Carrier state:
+  the timothydavidson.com URLs are dead to raw download (the full-book URL
+  returns a 904-byte HTML error page; the chapter URL was reachable only
+  through the Internet Archive).
+- Opened: the archived chapter PDF (web.archive.org snapshot 20240415024146,
+  http://web.archive.org/web/20240415024146id_/...04-Nakamura-The construction
+  of meaning through vital engagement.pdf), downloaded raw and extracted
+  locally with pypdf (22 PDF pages, chapter printed pp. 83-104, APA copyright
+  footer on every page). Archived in the session workspace as
+  nakamura-chapter.pdf.
+- Verification: the definition quote is on PDF page 5, whose footer reads
+  "ENGAGEMENT 87" — printed page 87. The quote is verbatim ("We will define
+  vital engagement in this chapter as a relationship to the world that is
+  characterized both by experiences of flow (enjoyed absorption) and by meaning
+  (subjective significance)"). The retrospective-recollections limitation
+  passage is on the same PDF page 5 (printed 87). The waiting-room crossword
+  example is on PDF page 12, printed page 94, matching the page's pp. 94-97
+  range. The current page's locators (p. 87 for the definition and the
+  limitations; pp. 94-97 for the crossword) are therefore CORRECT; the page
+  already carries an explicit Sources section. The flag's repair is applied and
+  verified; the earlier p. 86 citation the supervisor saw was corrected by a
+  later worker before this session. No page changes were needed.

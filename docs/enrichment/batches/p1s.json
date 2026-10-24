@@ -54,7 +54,7 @@
   "B172": "Reopened for QC: Clarify discerning speech rather than compulsory silence; replace procedural Plain words",
   "B181": "Reopened for QC: Final own-item verification removes internal thinker-gloss wording",
   "B190": "Reopened for QC: Apply optional humanizer precision and Plain words formatting",
-  "P175": "Reopened for QC: Add explicit Sources section for already verified chapter",
+  "P175": "Resolved 2026-10-24: raw verification of the archived chapter PDF confirms the definition quote verbatim on printed p. 87 (page footer reads ENGAGEMENT 87) and the limitations passage on the same page; Sources section present; no change needed",
   "P168": "Reopened for QC: Plain words too short and procedural; verify Rogers source and refresh example",
   "B017": "Reopened for QC: Remove internal bookkeeping from thinker gloss and recheck cited verses",
   "B030": "Reopened for QC: Audit contentment sources and separate thinker comparison from primary references",
@@ -70,7 +70,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-24T05:55:19+00:00",
+ "updated": "2026-10-24T15:02:21+00:00",
  "band_done": false,
  "notes": {
   "B021 death-recovery check": "2026-10-20: owner reported the agent working on B021 died. Verified nothing lost: B021 (p1i item) content last committed f9ce31ef (2026-10-19 QC-repair batch, milestone 15); p1s no-edit light-check fcb33b61 + cross-band incident correction 5328d488 (2026-10-20 02:20-02:25, quotes re-verified, no action owed per supervisor disposition); p1s band closed cleanly 30/30 at 03:54:11Z (5bc8f460, baton released, in_progress None). B021 validates clean at HEAD. No in-flight work, no unpushed commits; nothing owed to the next agents."
