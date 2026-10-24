@@ -18,7 +18,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 
 The evidence since is mixed. A national experiment in U.S. secondary schools found that a short online growth mindset intervention "improved grades among lower-achieving students and increased overall enrolment to advanced mathematics courses," and that effects depended on whether peer norms matched the message (Yeager et al., Nature 573, 2019, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/31391586/)). A later meta-analysis of 63 studies concluded that "apparent effects of growth mindset interventions on academic achievement are likely attributable to inadequate study design, reporting flaws, and bias," with a small overall effect of d = 0.05 that was nonsignificant after correcting for publication bias (Macnamara and Burgoyne, Psychological Bulletin 149, 2023, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/36326645/)).
 
-So the entry's wording "real but smaller than early popular accounts suggested" is a fair summary of one side only. Whether the effects are real is disputed. These studies concern school achievement. The wider claim about adult self-development rests on the entry's reasoning and not on these abstracts.
+The claim that these effects are real but smaller than early popular accounts suggested is a fair summary of one side only: whether the effects are real is disputed. These studies concern school achievement. The wider claim about adult self-development rests on reasoning like the example below, not on these abstracts.
 
 **Plain words** Believing that a skill can be improved is a reasonable stance to take toward your own practice, but treat it as a working habit and not a proven lever. The strongest evidence is for students who are struggling, in supportive settings, and some researchers doubt the effect even there.
 
@@ -32,9 +32,8 @@ So the entry's wording "real but smaller than early popular accounts suggested" 
 
 ## Psychology parallels
 
-- **[[Growth mindset|Growth mindset (Dweck)]]**, believing abilities are developable is associated with better learning and persistence (Dweck, 2006; Yeager & Dweck, 2012)
-- **Note: growth mindset effects are real but modest and context-dependent**, meta-analyses show small effects, particularly for academic achievement (Sisk et al., 2018; Macnamara & Burgoyne, 2023)
-- **Growth mindset interventions work best for at-risk students**, effects are larger for disadvantaged students (Yeager et al., 2019)
+- **[[Growth mindset|Growth mindset (Dweck)]]**, believing abilities are developable is associated with better learning and persistence (Dweck, 2006; Yeager & Dweck, 2012); meta-analyses show small, context-dependent effects (Sisk et al., 2018; Macnamara & Burgoyne, 2023)
+- **[[Growth mindset|Growth mindset interventions and at-risk students]]**, effects are larger for disadvantaged and academically at-risk students (Yeager et al., 2019)
 
 ## Philosophy parallels
 
