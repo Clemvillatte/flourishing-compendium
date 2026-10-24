@@ -212,3 +212,17 @@ ST298 (mistaken); ST279, ST277, ST322 (meaning); ST316, ST107, ST226
 cards (ST171, ST033, ST193, ST144, ST001) were opened and read this session to
 confirm the lines stay within the cards' own narratives. dossier_check.py exits
 0 (147 card links resolve). No other section touched.
+
+### Story section QC pass (2026-10-24, worker-pplx-dos1-1024e)
+
+Advisor QC on the enrichment: eight loglines repaired. ST297, ST136, ST303,
+ST322, ST316 rewritten as research episodes (question asked, move made) instead
+of restated empirical claims; ST279 now attributes the observation to Frankl's
+account and keeps the card's own limit (most of those he described died);
+ST226 restored the card's "invites" over "seats"; ST397 restored the card's
+"seventy-five by Japanese counting" qualifier. Full card texts (narrative and
+closing paragraphs) were read for all 22 cited stories this session. Verified
+by diff: everything before "## Story:" in the dossier is byte-identical to the
+pre-enrichment parent (4aa8768fb^), confirming the concurrent-session insert
+collision left no residue in the map. dossier_check.py exits 0 (147 card
+links, 23 headers, 22 external carriers).

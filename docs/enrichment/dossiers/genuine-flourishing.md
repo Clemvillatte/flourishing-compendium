@@ -365,11 +365,11 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 ### What the science took from it
 
-[ST297 — Ryff's Six Dimensions](https://clemvillatte.github.io/flourishing-compendium/#card=ST297%20%E2%80%94%20Ryff%27s%20Six%20Dimensions): Ryff attacks the equation of well-being with happiness and proposes six dimensions drawn from Aristotle, Mill and humanistic psychology; her scales remain the standard instruments.
+[ST297 — Ryff's Six Dimensions](https://clemvillatte.github.io/flourishing-compendium/#card=ST297%20%E2%80%94%20Ryff%27s%20Six%20Dimensions): Ryff's paper asks whether happiness is everything, answers no, and proposes six dimensions of well-being drawn from Aristotle, Mill and humanistic psychology.
 
-[ST136 — Seligman Renames the Target](https://clemvillatte.github.io/flourishing-compendium/#card=ST136%20%E2%80%94%20Seligman%20Renames%20the%20Target): Seligman announces that happiness was the wrong target, too thin and too dependent on mood, and replaces it with PERMA, each part measurable on its own.
+[ST136 — Seligman Renames the Target](https://clemvillatte.github.io/flourishing-compendium/#card=ST136%20%E2%80%94%20Seligman%20Renames%20the%20Target): Seligman, who had launched positive psychology around the measurement of happiness, announces in Flourish that it was the wrong target and replaces it with PERMA, each part measurable on its own.
 
-[ST303 — Broaden and Build](https://clemvillatte.github.io/flourishing-compendium/#card=ST303%20%E2%80%94%20Broaden%20and%20Build): on Fredrickson's account negative emotions narrow attention to the threat while positive emotions broaden the repertoire and build durable resources; joy prompts play, interest prompts exploration.
+[ST303 — Broaden and Build](https://clemvillatte.github.io/flourishing-compendium/#card=ST303%20%E2%80%94%20Broaden%20and%20Build): Fredrickson's broaden-and-build theory gives positive emotions a job beyond feeling good: negative emotions narrow attention to the threat, positive emotions broaden the repertoire and build durable resources; joy prompts play, interest prompts exploration.
 
 ### What gets mistaken for it
 
@@ -385,21 +385,21 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 [ST193 — Stockdale and the Epistle](https://clemvillatte.github.io/flourishing-compendium/#card=ST193%20%E2%80%94%20Stockdale%20and%20the%20Epistle): a naval aviator spends seven and a half years as a POW, four in solitary, repeatedly tortured, and credits Epictetus — the Enchiridion's teachings on what is and is not in one's power — with his survival: literally a manual for the cell.
 
-[ST279 — Frankl's Meaning](https://clemvillatte.github.io/flourishing-compendium/#card=ST279%20%E2%80%94%20Frankl%27s%20Meaning): in the camps, the prisoners who kept a reason to live, a person to return to or a work to finish, endured differently; the freedom to choose one's attitude is the last of the human freedoms.
+[ST279 — Frankl's Meaning](https://clemvillatte.github.io/flourishing-compendium/#card=ST279%20%E2%80%94%20Frankl%27s%20Meaning): in Frankl's account of the camps, the prisoners who kept a reason to live, a person to return to or a work to finish, endured differently, a claim he limits: most of those he described died; the freedom to choose one's attitude is the last of the human freedoms.
 
 [ST277 — Sisyphus Is Happy](https://clemvillatte.github.io/flourishing-compendium/#card=ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): the gods meant the endless boulder as the worst punishment; Camus concludes that the struggle itself toward the heights is enough to fill a man's heart.
 
-[ST322 — Post-Traumatic Growth](https://clemvillatte.github.io/flourishing-compendium/#card=ST322%20%E2%80%94%20Post-Traumatic%20Growth): a significant minority of people who live through major crises report positive change in five domains, from appreciation of life to spiritual change.
+[ST322 — Post-Traumatic Growth](https://clemvillatte.github.io/flourishing-compendium/#card=ST322%20%E2%80%94%20Post-Traumatic%20Growth): Tedeschi and Calhoun study people who have lived through major crises and find what the pathology framework did not predict: reported positive change in five domains, from appreciation of life to spiritual change.
 
 ### The conditions: other people, society and freedom
 
 [ST144 — Dorothea Brooke and the Unhistoric Acts](https://clemvillatte.github.io/flourishing-compendium/#card=ST144%20%E2%80%94%20Dorothea%20Brooke%20and%20the%20Unhistoric%20Acts): an idealistic young woman marries a desiccated scholar, and the marriage is a study in misjudgement; Eliot's final judgement is the novel's gift — the growing good of the world is partly dependent on unhistoric acts, on the number who lived faithfully a hidden life and rest in unvisited tombs.
 
-[ST316 — How You Respond to Good News](https://clemvillatte.github.io/flourishing-compendium/#card=ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News): the response to a partner's good news predicts relationship quality as strongly as the response to bad news; the first response is the relationship's business.
+[ST316 — How You Respond to Good News](https://clemvillatte.github.io/flourishing-compendium/#card=ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News): Gable, Reis, Impett and Asher ask what people do when things go right, and identify four responses to a partner's good news; the first response, they find, is the relationship's business.
 
 [ST107 — Jane Addams Moves In](https://clemvillatte.github.io/flourishing-compendium/#card=ST107%20%E2%80%94%20Jane%20Addams%20Moves%20In): Addams rents a mansion on Halsted Street; she does not arrive with a programme, she arrives with a residence, and the programmes come from what the neighbours ask for.
 
-[ST226 — Mandela Invites the Jailer](https://clemvillatte.github.io/flourishing-compendium/#card=ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on inauguration day Mandela seats his former Robben Island warders as honoured guests; the new country is to be built on recognition rather than revenge.
+[ST226 — Mandela Invites the Jailer](https://clemvillatte.github.io/flourishing-compendium/#card=ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on inauguration day Mandela invites his former Robben Island warders to attend as honoured guests; the new country is to be built on recognition rather than revenge.
 
 ### How it is built: growth and practice
 
@@ -409,5 +409,5 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 [ST184 — Franklin's Little Book](https://clemvillatte.github.io/flourishing-compendium/#card=ST184%20%E2%80%94%20Franklin%27s%20Little%20Book): Franklin's little book gives each of thirteen virtues a page and a week, marking faults with black spots; he never became perfect, and the practice, not the perfection, was the gain.
 
-[ST397 — Hokusai Asks for Five More Years](https://clemvillatte.github.io/flourishing-compendium/#card=ST397%20%E2%80%94%20Hokusai%20Asks%20for%20Five%20More%20Years): at seventy-five Hokusai prints a plan for the decades ahead, at ninety to see further into the underlying principles of things, at a hundred and ten every dot and every stroke as though alive.
+[ST397 — Hokusai Asks for Five More Years](https://clemvillatte.github.io/flourishing-compendium/#card=ST397%20%E2%80%94%20Hokusai%20Asks%20for%20Five%20More%20Years): at seventy-five by Japanese counting, Hokusai prints a plan for the decades ahead, at ninety to see further into the underlying principles of things, at a hundred and ten every dot and every stroke as though alive.
 
