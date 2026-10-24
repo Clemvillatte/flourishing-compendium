@@ -36,3 +36,25 @@ Each gloss is compressed from the opening of the linked card. A word-overlap che
 ## For the supervisor
 
 Registry status stays planned; publish with dossier_registry_build.py.
+
+## Verification-label relocation (revision 3, 2026-10-25)
+
+Fourteen public verification-status labels removed from blockquote and
+inline citations and relocated here (five "Primary text" and nine
+"Secondary source"). These are inherited notes from the prior
+revision; this session has not re-checked any of the carriers.
+
+Carriers affected: Aristotle, Nicomachean Ethics I.7 (Ross) — Primary
+text; Epicurus, Letter to Menoeceus (Hicks) — Primary text; Mill,
+Autobiography ch. 5 — Primary text; Sidgwick, Methods of Ethics Bk I
+ch. IV §2 — Primary text; Spinoza, Ethics III (Elwes) — Primary text;
+Diener, Lucas and Scollon 2006 abstract — Secondary source; Dunn,
+Aknin and Norton 2008 abstract — Secondary source; Joshanloo 2014
+abstract — Secondary source; Lucas 2007 abstract — Secondary source;
+Lyubomirsky, Sheldon and Schkade 2005 — Secondary source; Mauss et
+al. 2011 abstract — Secondary source; Registered replication report
+abstract — Secondary source; Wilson and Gilbert 2005 abstract —
+Secondary source; Aknin et al. JPSP abstract — Secondary source.
+
+No card link, quotation text or gloss was changed; only the fourteen
+verification suffixes moved from the public prose to this ledger.

@@ -152,15 +152,15 @@ Happiness here means the felt side of a life: pleasure, joy, contentment, the re
 
 The shared question: what kind of thing is happiness, so that one could tell whether one has it? Aristotle answers that it is activity, and that it takes a whole life to show:
 
-> "human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy." ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)): Primary text; quoted passage checked.
+> "human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy." ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
 Epicurus makes it a condition of the body and mind, not an activity, and takes pains to say what he does not mean:
 
-> "By pleasure we mean the absence of pain in the body and of trouble in the soul." ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html)): Primary text; quoted passage checked.
+> "By pleasure we mean the absence of pain in the body and of trouble in the soul." ([Epicurus, Letter to Menoeceus, Hicks translation](https://classics.mit.edu/Epicurus/menoec.html))
 
 Spinoza defines the glad affect by a change, so that joy is a crossing and not a place:
 
-> "Pleasure is the transition of a man from a less to a greater perfection." ([Spinoza, Ethics III, Definitions of the Emotions II, Elwes translation](https://www.sacred-texts.com/phi/spinoza/ethics/eth03.htm)): Primary text; quoted passage checked.
+> "Pleasure is the transition of a man from a less to a greater perfection." ([Spinoza, Ethics III, Definitions of the Emotions II, Elwes translation](https://www.sacred-texts.com/phi/spinoza/ethics/eth03.htm))
 
 The three do not use one word for one thing. Aristotle's word is eudaimonia, Epicurus's is pleasure, Spinoza's is laetitia, and the English happiness stretches over all three. Which of them a reader means by happiness decides what counts as getting more of it.
 
@@ -168,19 +168,19 @@ The three do not use one word for one thing. Aristotle's word is eudaimonia, Epi
 
 The shared question: if happiness is the goal, is it also the target? Mill said no, from his own experience:
 
-> "Those only are happy (I thought) who have their minds fixed on some object other than their own happiness; on the happiness of others, on the improvement of mankind, even on some art or pursuit, followed not as a means, but as itself an ideal end. Aiming thus at something else, they find happiness by the way." ([Mill, Autobiography, ch. 5](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm)): Primary text; quoted passage checked.
+> "Those only are happy (I thought) who have their minds fixed on some object other than their own happiness; on the happiness of others, on the improvement of mankind, even on some art or pursuit, followed not as a means, but as itself an ideal end. Aiming thus at something else, they find happiness by the way." ([Mill, Autobiography, ch. 5](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm))
 
 Sidgwick named the same effect as a paradox of hedonism:
 
-> "Here comes into view what we may call the fundamental paradox of Hedonism, that the impulse towards pleasure, if too predominant, defeats its own aim." ([Sidgwick, The Methods of Ethics, Book I, ch. IV, §2](https://www.laits.utexas.edu/poltheory/sidgwick/me/me.b01.c04.s02.html)): Primary text; quoted passage checked.
+> "Here comes into view what we may call the fundamental paradox of Hedonism, that the impulse towards pleasure, if too predominant, defeats its own aim." ([Sidgwick, The Methods of Ethics, Book I, ch. IV, §2](https://www.laits.utexas.edu/poltheory/sidgwick/me/me.b01.c04.s02.html))
 
 Mauss and colleagues tested a version of it. Across two studies they found that valuing happiness was linked to disappointment, and they concluded:
 
-> "Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach." ([Mauss, Tamir, Anderson and Savino, Emotion 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21517168/)): Secondary source; quoted passage checked.
+> "Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach." ([Mauss, Tamir, Anderson and Savino, Emotion 2011, abstract](https://pubmed.ncbi.nlm.nih.gov/21517168/))
 
 The research on intentional activity points the other way, or at least sideways. Lyubomirsky, Sheldon and Schkade propose that happiness has three influences, and that the third can be changed on purpose:
 
-> "changing one's intentional activities may provide a happiness-boosting potential that is at least as large as, and probably much larger than, changing one's circumstances." ([Lyubomirsky, Sheldon and Schkade, Review of General Psychology 2005](https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf)): Secondary source; quoted passage checked.
+> "changing one's intentional activities may provide a happiness-boosting potential that is at least as large as, and probably much larger than, changing one's circumstances." ([Lyubomirsky, Sheldon and Schkade, Review of General Psychology 2005](https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf))
 
 The two claims are less opposed than they look. Mauss and colleagues studied the valuing of happiness as a goal and its link to disappointment in two studies of female participants; Lyubomirsky and colleagues describe practices such as kindness and gratitude, which direct attention outward. A reader can hold both: attention fixed on one's own mood tends to spoil it, and attention to what one does may lift it. The sources here do not test the two against each other.
 
@@ -188,11 +188,11 @@ The two claims are less opposed than they look. Mauss and colleagues studied the
 
 The shared question: if people adapt to almost everything, is effort to raise happiness wasted? The treadmill model says so, in the words of the review that set out to revise it:
 
-> "According to the hedonic treadmill model, good and bad events temporarily affect happiness, but people quickly adapt back to hedonic neutrality." ([Diener, Lucas and Scollon, American Psychologist 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/)): Secondary source; quoted passage checked.
+> "According to the hedonic treadmill model, good and bad events temporarily affect happiness, but people quickly adapt back to hedonic neutrality." ([Diener, Lucas and Scollon, American Psychologist 2006, abstract](https://pubmed.ncbi.nlm.nih.gov/16719675/))
 
 The same abstract lists revisions, among them that "well-being set points can change under some conditions" and that individuals differ in how they adapt. Lucas's review of panel studies puts the finding from life events in plain terms:
 
-> "Although inborn factors certainly matter and some adaptation does occur, events such as divorce, death of a spouse, unemployment, and disability are associated with lasting changes in SWB." ([Lucas, Current Directions in Psychological Science 2007, abstract](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2007.00479.x/)): Secondary source; quoted passage checked.
+> "Although inborn factors certainly matter and some adaptation does occur, events such as divorce, death of a spouse, unemployment, and disability are associated with lasting changes in SWB." ([Lucas, Current Directions in Psychological Science 2007, abstract](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2007.00479.x/))
 
 So the treadmill describes part of what happens. Adaptation is real and often useful; it is not complete or uniform, and it varies by event and by person. The abstracts do not say how much a deliberate practice can move a person's own level, which is the question the previous section left open.
 
@@ -200,15 +200,15 @@ So the treadmill describes part of what happens. Adaptation is real and often us
 
 The shared question: if happiness is the aim, can we judge in advance what serves it? Wilson and Gilbert's review says that forecasts tend to go wrong in a particular direction:
 
-> "They often display an impact bias, overestimating the intensity and duration of their emotional reactions to such events." ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)): Secondary source; quoted passage checked.
+> "They often display an impact bias, overestimating the intensity and duration of their emotional reactions to such events." ([Wilson and Gilbert, Current Directions in Psychological Science 2005, abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x))
 
 Against a purely inward guess, Dunn, Aknin and Norton proposed that a plain, countable choice, whom the money is spent on, mattered:
 
-> "how people spend their money may be at least as important as how much money they earn." ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/)): Secondary source; quoted passage checked.
+> "how people spend their money may be at least as important as how much money they earn." ([Dunn, Aknin and Norton, Science 2008, abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/))
 
 The finding has a replication history, and the registered replication report states it with care:
 
-> "Taken together, these studies support the hypothesis that spending money on others does promote happiness, but demonstrate that the magnitude of the effect depends on several methodological features." ([Registered replication report, abstract](https://pubmed.ncbi.nlm.nih.gov/32250135/)): Secondary source; quoted passage checked.
+> "Taken together, these studies support the hypothesis that spending money on others does promote happiness, but demonstrate that the magnitude of the effect depends on several methodological features." ([Registered replication report, abstract](https://pubmed.ncbi.nlm.nih.gov/32250135/))
 
 A fair reading is that the direction held up and the size is smaller and less certain than the first paper suggested. The abstracts do not tell a reader how big the effect is in a given life.
 
@@ -216,11 +216,11 @@ A fair reading is that the direction held up and the size is smaller and less ce
 
 The shared question: does the word name one experience everywhere? Joshanloo's review compares accounts from Western philosophy and psychology with those from Hinduism, Buddhism, Taoism, Confucianism and Sufism:
 
-> "Six fundamental differences in western and eastern conceptualizations of the good life are identified and discussed in the context of broader psychological theory." ([Joshanloo, Journal of Happiness Studies 2014, abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1)): Secondary source; quoted passage checked.
+> "Six fundamental differences in western and eastern conceptualizations of the good life are identified and discussed in the context of broader psychological theory." ([Joshanloo, Journal of Happiness Studies 2014, abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1))
 
 The abstract does not list the six differences, and this dossier does not guess at them; the card summarises the review. On the other side, one cross-country study of giving reports:
 
-> "This research provides the first support for a possible psychological universal: Human beings around the world derive emotional benefits from using their financial resources to help others (prosocial spending)." ([Aknin and colleagues, Journal of Personality and Social Psychology 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/23421360/)): Secondary source; quoted passage checked.
+> "This research provides the first support for a possible psychological universal: Human beings around the world derive emotional benefits from using their financial resources to help others (prosocial spending)." ([Aknin and colleagues, Journal of Personality and Social Psychology 2013, abstract](https://pubmed.ncbi.nlm.nih.gov/23421360/))
 
 The two findings answer different questions. One is about what people mean by the good life; the other is about what lifts mood across the countries studied. Both can be true, and the sources held here do not weigh one against the other.
 
