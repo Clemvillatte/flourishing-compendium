@@ -51,4 +51,4 @@ Boredom is the surface of a mind that has forgotten how to be. What's your curre
 -->
 
 ## Related concepts
-- [[T035 — Thich Nhat Hanh]]: the Lazy Day practice the page cites from Happiness.
+- [[T035 — Thich Nhat Hanh]]: the Lazy Day practice in Happiness.

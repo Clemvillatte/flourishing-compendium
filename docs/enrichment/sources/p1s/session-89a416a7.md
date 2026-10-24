@@ -256,3 +256,11 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - All 30 manifest items received a source/prose review in this pass. B078/B114/B150 needed no page changes and are not counted as rewrites. Independent advisor clearance exists for the first 15 reviewed items only; later own checks are not labelled independent QC.
 
 - Explicit Sources section added to P175 using the already opened, visually pagination-checked archived chapter; Plain words marker normalised. No new fact or locator introduced. Full 30-item validator against 02e14954f passed with zero hard failures before this final source-section addition; per-item validation follows it.
+
+## Final verification checkpoint
+
+- Combined final validation covers p1s's 30 IDs plus p1t P033/P076: 32 checked, zero hard failures. Prose 148-252 words; frontmatter unchanged. Protected statements, reflections and wikilink markup passed baseline checks. Remaining soft warnings concern absent/short Related concepts sections, not broken required structure.
+- Own scoped delta is 29 modified principles, with B078/B114/B150 verified unchanged. Source-ledger work and small bibliography/gloss repairs are not inflated into full body rewrites.
+- First 15 items have scoped independent advisor PASS; the later advisor stopped without a verdict. Later source/prose checking is my own. No certification of inherited parallels or reflections.
+- Final workflow scan removed the remaining internal wording in B064/B181 thinker glosses after explicitly reclaiming released p1s. No other band's page was edited while holding p1s.
+- Three existing-target reciprocal proposals remain for supervisor integration, along with the source-confirmed BE039 “no side effects” overstatement. No queue/progress edits or enrich_apply invocation by this worker.
