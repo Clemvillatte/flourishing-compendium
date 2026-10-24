@@ -42,7 +42,8 @@ The arousal is also manageable from the message side. "The use of more implicit,
 ## Field
 Sociocultural · Psychological science
 ## Cited in parallels
-- - - - - ## Cited in philosophy parallels
+- - - - - 
+## Cited in philosophy parallels
 [[MO011 — Recognise that motivation can be autonomous or controlled — the source matters]]
 [[MO010 — Understand that motivation has a physiological substrate — energy and health matter]]
 [[D137 — Don't press people to the point of rebellion]]

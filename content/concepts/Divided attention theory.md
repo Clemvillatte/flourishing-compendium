@@ -42,4 +42,5 @@ The seed wording, that capacity "splits across concurrent tasks" and that perfor
 ## Cited in parallels
 
 - - [[D071 — Practice undivided attention]]
-- - - ## Cited in philosophy parallels
+- - - 
+## Cited in philosophy parallels

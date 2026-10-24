@@ -42,4 +42,5 @@ Early support, Aldag and Fuller say, rested almost entirely on retrospective cas
 
 ## Cited in psychology parallels
 
-- ## Cited in philosophy parallels
+- 
+## Cited in philosophy parallels

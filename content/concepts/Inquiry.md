@@ -19,7 +19,8 @@ The essay continues: "The irritation of doubt is the only immediate motive for t
 [[P025 — Fix belief by experiment, not tenacity, authority, or taste]]
 [[P048 — Think reflectively — turn experience over]]
 [[P051 — Take error as information]]
-- - - ## Cited in philosophy parallels
+- - - 
+## Cited in philosophy parallels
 
 
 ## Related concepts

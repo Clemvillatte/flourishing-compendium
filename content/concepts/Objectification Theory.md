@@ -33,7 +33,8 @@ Sociocultural · Psychological science
 
 ## Cited in parallels
 
-- - ## Cited in philosophy parallels
+- - 
+## Cited in philosophy parallels
 [[AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how]]
 [[V1K Reference — Sources for Book IV]]
 [[D156 — Stay flexible — rigidity is death's companion]]

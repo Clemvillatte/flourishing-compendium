@@ -21,4 +21,5 @@ So the virtue of humanity is reached through kindness, love and social intellige
 
 ## Cited in psychology parallels
 
-- ## Cited in philosophy parallels
+- 
+## Cited in philosophy parallels

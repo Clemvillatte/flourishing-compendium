@@ -36,7 +36,8 @@ The PMC review of the field notes the two caveats the compendium holds: "a succe
 
 ## Cited in psychology parallels
 
-- ## Cited in philosophy parallels
+- 
+## Cited in philosophy parallels
 
 "Insight moments" — Kounios and Beeman, 2014.
 - [[B019 — Awakening is available in this life]]

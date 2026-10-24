@@ -43,4 +43,5 @@ The paper does not claim that WEIRD findings are wrong. It says they cannot be a
 
 ## Cited in psychology parallels
 
-- ## Cited in philosophy parallels
+- 
+## Cited in philosophy parallels

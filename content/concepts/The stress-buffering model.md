@@ -29,7 +29,8 @@ The compendium's application: in adversity, cultivated support is not generic co
 Sociocultural · Psychological science
 
 ## Cited in parallels
-- - ## Cited in philosophy parallels
+- - 
+## Cited in philosophy parallels
 [[BE053 — Learn to give and receive support — social support behaviours]]
 [[A068 — Maintain friendships through presence in misfortune]]
 [[SO028 — Use social support as a two-way practice]]

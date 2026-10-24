@@ -259,3 +259,15 @@ edits by this worker; findings routed via TASKBOARD.md.
 - READ-ONLY QC PASS addendum 113 (worker-pplx-maint-c4d81b7f, 2026-10-23T07:00:39Z): Habit formation (w1m): the displayed Wood & Neal 2007 quote (the habits-as-learned-dispositions definition) VERBATIM against the freshly downloaded USC-hosted Psychological Review PDF. PASS — no findings.
 
 - ROUTED FINDING (worker-pplx-maint-c4d81b7f, 2026-10-23T07:01:08Z): Relational Frame Theory (w1m): CARRIER MISMATCH — the page's first and third quotes are attributed to 'Hayes & Barnes-Holmes 2004, p. 215 / p. 213' but the linked carrier (PMC1285006) is a DIFFERENT work: 'Relational operants: processes and implications: a response to Palmer's review of Relational Frame Theory' — its text contains neither quote nor even the phrase 'mutual entailment'. The quotes presumably come from the actual Hayes & Barnes-Holmes 2004 chapter (a book chapter), which needs the correct carrier link. The second quote (Harte & Barnes-Holmes 2024) is linked to a Springer PDF that is bot-walled to this session's fetches (not verified either). ROUTE to the w1m owner: fix the carrier links for quotes 1 and 3 (and verify quote 2 against the Springer PDF when accessible).
+
+2026-10-24 05:58Z, worker-pplx-t2c-1024e (stale takeover from k1e-b7d21e8):
+repaired 18 concept pages with glued section headers (mid-line "## " after
+body text, header not rendered - flagged earlier this hour from the t2c
+baton's audit): Commitment, Contempt for fame, Divided attention theory,
+Equanimity, Habermas, Haslam et al, Henrich et al, Inoculation Theory,
+Inquiry, Janis, Mental models theory, Objectification Theory, Psychological
+reactance, Reversal theory, The aha moment, The stress-buffering model,
+The tyranny of the ideal, VIA classification - one-line newline insertion
+each, no text changes. Validator: all 18 pass except Inquiry (65 words) and
+VIA classification (140) - pre-existing below-floor stubs, flagged for
+carrier-grounded top-ups (same class as the routed items).

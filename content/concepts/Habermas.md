@@ -49,4 +49,5 @@ Commentators disagree about whether the theory's central claims are established.
 
 ## Cited in psychology parallels
 
-- ## Cited in philosophy parallels
+- 
+## Cited in philosophy parallels

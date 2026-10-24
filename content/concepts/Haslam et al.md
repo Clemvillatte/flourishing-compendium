@@ -46,4 +46,5 @@ Cruwys and colleagues' 2013 population study of depression and group membership 
 
 ## Cited in psychology parallels
 
-- ## Cited in philosophy parallels
+- 
+## Cited in philosophy parallels

@@ -42,7 +42,8 @@ The theory competes with formal-rule theories. An eScholarship paper says illusi
 
 ## Cited in parallels
 
-- ## Cited in philosophy parallels
+- 
+## Cited in philosophy parallels
 [[D055 — Don't force]]
 [[D005 — Expect reversal — extremes turn into their opposites]]
 [[CO072 — Cultivate cognitive endurance — thinking is effortful and can be trained]]

@@ -23,5 +23,6 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Cited in philosophy parallels
 
-- [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation]]## principle (1)
+- [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation]]
+## principle (1)
   SE017 (deg 13)

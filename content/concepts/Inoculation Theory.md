@@ -44,7 +44,8 @@ Sociocultural · Psychological science
 
 ## Cited in parallels
 
-- - - - - - - - ## Cited in philosophy parallels
+- - - - - - - - 
+## Cited in philosophy parallels
 [[PP011 — Use the broaden-and-build mechanism]]
 [[A004 — Become virtuous by doing virtuous acts]]
 [[P011 — Refuse essences — things have no fixed inner nature]]

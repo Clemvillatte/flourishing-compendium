@@ -33,7 +33,8 @@ Before posting something you have written, ask which you would still want if no 
 - [[A016 — Practice proper ambition (philotimia)]]
 - [[S027 — Do not crave fame]]
 - [[S097 — Recognise that fame after death is meaningless]]
-- [[S112 — Handle fame without vanity]]## Related concepts
+- [[S112 — Handle fame without vanity]]
+## Related concepts
 
 - [[T013 — Seneca]]: the Stoic stance toward reputation the page opens with, which his letters articulate.
 
