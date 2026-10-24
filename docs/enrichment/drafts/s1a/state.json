@@ -1644,7 +1644,22 @@
      "note": "Faust Part I Taylor English opened; Part II German raw text opened with translations marked as my own; Simondon theory marked NOT carried"
     }
    ]
+  },
+  "s1a-058": {
+   "status": "ready",
+   "angle": "B160: the Kalama Sutta — the Buddha tells the Kalamas not to settle teachers' claims by authority, but by what they can see for themselves",
+   "history": [
+    {
+     "t": "2026-10-24T14:28:59+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:29:46+00:00",
+     "to": "ready",
+     "note": "Soma Thera translation opened in full; narrative frame and four solaces add what the principle page does not quote"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:28:46+00:00"
+ "updated": "2026-10-24T14:29:46+00:00"
 }
