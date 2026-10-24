@@ -34,3 +34,29 @@ All four cleared for publication: checks pass, quotes verified (sampled), artwor
 
 - Agency card still not minted; agency.md nearby-terms links Autonomy (dos15 ledger flag, unchanged).
 - One-off Rotter 1966 carrier re-open recommendation now satisfied by this session's verification.
+
+## Addendum — advisor round 2 (14:44-14:48 UTC), corrections applied (commit f43745ff)
+
+- ST463 chapter assignment corrected: registered under ST-S02.05 (The Heart — Emotions and
+  Immeasurables) on the teller's mistaken chapter label; the taxonomy review shows the
+  brick-polishing story belongs in ST-S02.03 Meditation Practices; story file and structure
+  page moved, story_check clean.
+- Merleau-Ponty habit-body gloss: the "third location" wording from my first fix added a
+  spatial metaphor the source does not carry; reworded to "distinct from both thought and the
+  objective body" (faithful double rejection, no scaffold cadence).
+- ST465 Heart Sutra (Red Pine, Gold Scales) carrier now independently verified verbatim
+  ("form is emptiness, emptiness is form"; "emptiness is not separate from form, form is not
+  separate from emptiness"). Beal "when he recited this Sutra" quote verified against the
+  archive.org text (djvu OCR inserts a stray footnote digit after "Sutra,"; the print reading
+  is exact).
+- Reader passes completed over all nine newly registered story bodies (ST433, ST463-ST470):
+  honest boundary statements present, no AI cadence, quotes match the opened carriers.
+- ST433→ST463 ID allocation gap checked: intermediate IDs taken by other lanes' earlier
+  registrations; not an error.
+- enrich_validate.py run: its failures on structure/dossier/story files are format mismatches
+  — the tool is scoped to principle/concept pages; per-type checkers (dossier_check,
+  story_check, build) all green. enrich_apply.py preflight remains blocked on the t1a
+  thinker-links guard — integration NOT completed this pass; reported accurately.
+- The dossiers worker's corpus-wide quote-fidelity sweep (commits through 5dd27bd7e)
+  independently re-verified my s1a registrations' quotes and corrected a Baumeister quote in
+  overload-overwhelm; their ledger records reviewed and accepted.
