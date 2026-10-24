@@ -67,6 +67,8 @@ MN 9 names the roots of what is unskillful (the passage covers unskillful qualit
 
 > "And what are the roots of what is unskillful? Greed is a root of what is unskillful, aversion is a root of what is unskillful, delusion is a root of what is unskillful." ([MN 9, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html)): Primary text; quoted passages checked.
 
+The modern cards in this subtheme are editorial connections the compendium draws between the path's wrong view and the bias research; the tradition does not equate them, and neither does this page.
+
 ### The view as forerunner
 
 [Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the right action factor, defined by abstentions rather than states of mind; the path names conduct its own factor beside the resolve that precedes it.
@@ -75,9 +77,7 @@ MN 9 names the roots of what is unskillful (the passage covers unskillful qualit
 
 > "Of those, right view is the forerunner. And how is right view the forerunner? In one of right view, wrong view is abolished. The many evil, unskillful qualities that come into play with wrong view as their condition are also abolished, while the many skillful qualities that have right view as their condition go to the culmination of their development." ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html)): Primary text; quoted passages checked.
 
-The compendium's saying for the same dependence: Right action serves right view.
-
-The modern cards in this subtheme are editorial connections the compendium draws between the path's wrong view and the bias research; the tradition does not equate them, and neither does this page.
+The compendium's saying for the same dependence: [Right action serves right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action%20serves%20right%20view).
 
 ### The view of the self
 
