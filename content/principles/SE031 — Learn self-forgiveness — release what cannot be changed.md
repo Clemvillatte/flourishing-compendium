@@ -27,7 +27,7 @@ Name the action you regret. Identify any repair still possible and one step you 
 
 ## Sources
 
-- Marcus Aurelius, Meditations XII.1, VIII.36 (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+- [Marcus Aurelius, Meditations XII.1, VIII.36 (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
 
 ## Psychology parallels
 

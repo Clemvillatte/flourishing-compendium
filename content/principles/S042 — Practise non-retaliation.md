@@ -65,7 +65,7 @@ Does a society need some element of retribution to feel just? Argue against the 
 
 ## Sources
 
-- Marcus Aurelius, *Meditations* 2.1 and 6.6, trans. George Long: [Internet Classics Archive, Book 2](https://classics.mit.edu/Antoninus/meditations.2.two.html); [Book 6](https://classics.mit.edu/Antoninus/meditations.6.six.html)
+- [Marcus Aurelius, *Meditations* 2.1 and 6.6, trans. George Long: [Internet Classics Archive, Book 2](https://classics.mit.edu/Antoninus/meditations.2.two.html); [Book 6](https://classics.mit.edu/Antoninus/meditations.6.six.html)
 - Epictetus, *Discourses* 1.18, trans. George Long (selection with the Encheiridion): [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt)
 - Marcus Aurelius, *Meditations*, trans. Meric Casaubon (1634), Project Gutenberg ebook 2680: the same two passages appear there in different wording (the revenge line is printed as Book VI, section 5): https://www.gutenberg.org/cache/epub/2680/pg2680.txt
 

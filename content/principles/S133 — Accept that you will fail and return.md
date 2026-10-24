@@ -27,7 +27,7 @@ After something unsettles you, ask whether it is still happening. If it has ende
 
 ## Sources
 
-- Marcus Aurelius, Meditations VI.11, VI.31 (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+- [Marcus Aurelius, Meditations VI.11, VI.31 (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
 
 ## Psychology parallels
 

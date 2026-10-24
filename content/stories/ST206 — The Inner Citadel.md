@@ -8,7 +8,7 @@ tags: ["topic/emotion"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S05.05 — V.5 Emotions, Passions, and the Inner Citadel", "parent": ""}
 ---
-*Stoic metaphor · Rome, 2nd century CE · Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)*
+*Stoic metaphor · Rome, 2nd century CE · [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)*
 
 Marcus writes that the mind has a citadel that no external thing can enter, and that to live in it is to be unaffected by the storms outside. Pierre Hadot, the great modern reader of the Meditations, made this image the centre of his interpretation: the citadel is the faculty of judgement, and it is impregnable precisely because nothing outside it can operate it.
 

@@ -38,7 +38,7 @@ A careful application therefore asks two questions: does this work genuinely des
 
 ## Sources
 
-- Marcus Aurelius, Meditations V.1, translated by George Long, MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.5.five.html): exact quotation, social work and the explicit allowance for rest.
+- [Marcus Aurelius, Meditations V.1, translated by George Long, MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.5.five.html)
 - [Aristotle, Nicomachean Ethics III.6–9, translated by W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html): courage's motive, object and relation to pain.
 - [Uphoff and colleagues, Behavioural Activation Therapy for Depression in Adults (2020), Cochrane review abstract, PubMed](https://pubmed.ncbi.nlm.nih.gov/32628293/): therapeutic scope and evidence limits.
 - [Gollwitzer, Implementation Intentions: Strong Effects of Simple Plans (1999), abstract reproduced by the University of Pennsylvania's Prospective Psychology project](https://www.prospectivepsych.org/publications/implementation-intentions-strong-effects-simple-plans): cue-linked action plans.

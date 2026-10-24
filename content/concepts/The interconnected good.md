@@ -22,7 +22,7 @@ The passage continues: "For there is one universe made up of all things, and one
 
 ## Sources
 
-- Marcus Aurelius. Meditations 7.9 and 6.38, trans. George Long (1862). Online text: [Lexundria](https://lexundria.com/m_aur_med/7.9/lg) — passages quoted verbatim; raw-text check done 2026-10-22.
+- [Marcus Aurelius. Meditations 7.9 and 6.38, trans. George Long (1862). Online text: [Lexundria](https://lexundria.com/m_aur_med/7.9/lg)
 
 ## Cited in philosophy parallels
 

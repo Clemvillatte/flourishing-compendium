@@ -19,7 +19,7 @@ The passage does not glorify suffering; it reminds the reader of accumulated evi
 
 ## Sources
 
-- Marcus Aurelius, Meditations, Book 5, section XXV, George Long translation, Project Gutenberg full text: [gutenberg.org/cache/epub/2680/pg2680.txt](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
+- [Marcus Aurelius, Meditations, Book 5, section XXV, George Long translation, Project Gutenberg full text: [gutenberg.org/cache/epub/2680/pg2680.txt](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 
 ## Cited in philosophy parallels
 

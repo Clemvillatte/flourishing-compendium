@@ -56,5 +56,5 @@ How do the habits you practise alone show up, or fail to, at home?
 
 ## Sources
 
-- Marcus Aurelius, Meditations, Book I, sections 3 and 14 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+- [Marcus Aurelius, Meditations, Book I, sections 3 and 14 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
 - Musonius Rufus, Lecture XIV, "Is marriage a handicap for the pursuit of philosophy?" (Cora Lutz translation), [StoicSource](https://www.stoicsource.com/rufus/lectures/XIV/)

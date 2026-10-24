@@ -45,4 +45,4 @@ Write one paragraph describing your current worry as an astronomer or historian 
 
 ## Sources
 
-- Marcus Aurelius, Meditations, Book IX, section 30 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+- [Marcus Aurelius, Meditations, Book IX, section 30 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)

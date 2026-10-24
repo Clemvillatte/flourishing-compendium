@@ -32,7 +32,7 @@ Two questions at day's end beat an hour of vague guilt: what did I actually do t
 ## Sources
 
 - [Seneca, Moral Letters to Lucilius, Letter 83 (Gummere, Loeb Vol. II), Internet Archive full text](https://archive.org/details/ad-lucilium-epistulae-morales) — the daily self-review and its rationale
-- Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — I.1, the opening review of debts
+- [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt)
 
 ## Psychology parallels
 

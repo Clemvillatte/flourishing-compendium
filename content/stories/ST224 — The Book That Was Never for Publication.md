@@ -7,7 +7,7 @@ file: "ST224 — The Book That Was Never for Publication"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S05.10 — V.10 Daily Practice and the Whole Life", "parent": ""}
 ---
-*Historical/biographical narrative · Rome, 2nd century CE · Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)*
+*Historical/biographical narrative · Rome, 2nd century CE · [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)*
 
 The Meditations was written in Greek, on campaign, by a man with every possible distraction of power, and addressed to himself. There is no audience, no addressee, no argument for the public. The repetitions, the same reminders returning every few pages, are the record of a practice: the book was not written to persuade anyone; it was written by a man reminding himself, again, of what he knew and kept forgetting.
 

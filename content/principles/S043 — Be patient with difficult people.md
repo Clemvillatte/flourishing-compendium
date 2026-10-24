@@ -52,4 +52,4 @@ When does patience with a difficult person turn into tolerating harm?
 
 ## Sources
 
-- Marcus Aurelius, Meditations, Book II, section 1 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+- [Marcus Aurelius, Meditations, Book II, section 1 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)

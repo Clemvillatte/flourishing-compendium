@@ -36,7 +36,7 @@ Marcus lists the possibilities and I turn them into a fork: if death ends consci
 - [[ST219 — Coach Taylor's Mantra|219. Coach Taylor's Mantra]]
 ## Sources
 
-- Marcus Aurelius, *Meditations* 6.26, 7.22 and 9.19, trans. Meric Casaubon (1634), Project Gutenberg edition: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
+- [Marcus Aurelius, *Meditations* 6.26, 7.22 and 9.19, trans. Meric Casaubon (1634), Project Gutenberg edition: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 - [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VI.26 (death as cessation), VII.22 (dispersion or translation), IX.19 (endings passed without hurt)
 
 ## Psychology parallels

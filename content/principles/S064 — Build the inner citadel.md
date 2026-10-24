@@ -49,4 +49,4 @@ What attacks on your inner peace have you survived, and what protected you?
 
 ## Sources
 
-- Marcus Aurelius, Meditations, Book VIII, section 48 and Book IV, section 3 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+- [Marcus Aurelius, Meditations, Book VIII, section 48 and Book IV, section 3 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)

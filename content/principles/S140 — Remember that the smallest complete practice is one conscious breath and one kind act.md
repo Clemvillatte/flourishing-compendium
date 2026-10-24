@@ -27,7 +27,7 @@ When a longer routine feels impractical, pause for one breath. Then choose a sma
 
 ## Sources
 
-- Marcus Aurelius, Meditations II.5, VIII.22 (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+- [Marcus Aurelius, Meditations II.5, VIII.22 (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
 
 ## Psychology parallels
 

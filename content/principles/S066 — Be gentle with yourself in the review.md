@@ -56,5 +56,5 @@ What would returning without guilt require you to believe?
 
 ## Sources
 
-- Marcus Aurelius, Meditations, Book V, section 9 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+- [Marcus Aurelius, Meditations, Book V, section 9 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
 - Seneca, On Anger (De Ira), Book III, section 36 (Aubrey Stewart translation, 1900), [Project Gutenberg #64576](https://www.gutenberg.org/files/64576/64576-0.txt)

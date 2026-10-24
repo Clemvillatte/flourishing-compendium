@@ -11,7 +11,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 
 Epictetus is born a slave in Hierapolis, owned by a member of Nero's staff, lamed, and later freed. He studies with Musonius Rufus, teaches in Rome until Domitian banishes the philosophers, and opens a school in Nicopolis where his students include the future historian Arrian and, by reputation, men of the highest rank. He writes nothing; the Discourses and Enchiridion are Arrian's lecture notes.
 
-The biography is the tradition's own favourite fact about itself: the most influential Stoic teacher was a slave, and the philosophy of freedom was perfected by a man who had none of the political kind. [[T014 — Marcus Aurelius|Marcus Aurelius]], the emperor, read him a century later and wrote in the Meditations that he had learned from Epictetus's writings, and the pairing, the slave and the emperor, is the tradition's proof that the citadel is not a metaphor.
+The biography is the tradition's own favourite fact about itself: the most influential Stoic teacher was a slave, and the philosophy of freedom was perfected by a man who had none of the political kind. Marcus Aurelius, the emperor, read him a century later and wrote in the Meditations that he had learned from Epictetus's writings, and the pairing, the slave and the emperor, is the tradition's proof that the citadel is not a metaphor.
 
 
 

@@ -44,4 +44,4 @@ Is there a situation where reframing feels wrong or even disrespectful? Why?
 
 ## Sources
 
-- Marcus Aurelius, Meditations, Book V, section 20 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+- [Marcus Aurelius, Meditations, Book V, section 20 (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
