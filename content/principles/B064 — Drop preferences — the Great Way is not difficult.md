@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 64** — Drop preferences: the Great Way is not difficult
 
-Sengcan's Xinxin Ming opens with the claim in its plainest form: the Great Way is not difficult for those who have no preferences. What blocks it is picking and choosing; the poem calls the setting of what you like against what you dislike the disease of the mind, and says it is the choosing to accept or reject that keeps the true nature of things from view. (Sengcan, Xinxin Ming.)
+The Xinxin Ming opens by locating the difficulty of the Way in preference:
 
 > The Great Way is not difficult
 > for those who have no preferences.
@@ -21,14 +21,21 @@ Sengcan's Xinxin Ming opens with the claim in its plainest form: the Great Way i
 >
 > (Xinxin Ming, [Clarke translation](https://azinelibrary.org/trash/xin-xin-ming-reading.pdf))
 
-The Dhammapada makes a parallel point about the wise: they show no elation or depression when touched by happiness or sorrow. In the compendium's reading, preferences are to be seen as preferences, not verdicts; the liking and disliking can continue while the mind stops being governed by them. (Dhammapada 83.)
+The poem's demand goes beyond being flexible about dinner. It challenges divisions maintained by grasping and rejection, even attachment to an idea of oneness. Trying to force oneself into stillness is no escape:
+
+> When you try to stop activity by passivity
+> your very effort fills you with activity.
+>
+> (Same Clarke translation.)
+
+Dhammapada 83 offers a related account of steadiness amid changing experience:
 
 > "The wise show no elation or depression when touched by happiness or sorrow." (Dhammapada 83, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html))
 
 **Plain words**
-Take one preference you defend strongly, and check its size. It is a liking: it came from somewhere, it could have come out differently, and it does not have the authority it claims. The exercise is to keep the liking and drop the verdict, then notice whether the next hour changes. The exercise is to check who is in charge of the wanting.
+A disliked meal can remain a disliked meal without making the evening a failure. The compendium's everyday exercise is to loosen that added verdict. This is a modest application of the poem, not its whole account of non-duality, and not a reason to disregard safety or ethical judgement.
 
-*For example:* Imagine a traveler who stops ranking each meal against the last one. Nothing about the food has changed; what changes is how much of the meal there is left to notice.
+For example: Over two meals, a traveller compares constant ranking with describing the food before deciding whether to order it again. She notices which approach leaves more attention for the meal and her companion, and repeats that approach. No change in taste is required or promised.
 
 ## Related concepts
 
@@ -36,7 +43,7 @@ Take one preference you defend strongly, and check its size. It is a liking: it 
 
 ## Sources
 
-- [Xinxin Ming, Robert B. Clarke translation, AZINE Library](https://azinelibrary.org/trash/xin-xin-ming-reading.pdf) — opening lines and the disease-of-the-mind passage
+- [Xinxin Ming, Clarke translation, AZINE Library](https://azinelibrary.org/trash/xin-xin-ming-reading.pdf) — opening lines, the warning about enforced passivity, and attachment even to oneness; this carrier labels the translator “Robert B. Clarke.”
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html) — verse 83
 
 ## Psychology parallels

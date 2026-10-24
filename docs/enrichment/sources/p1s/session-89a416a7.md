@@ -48,3 +48,12 @@ Started 2026-10-24 04:57:22 UTC. Worker scope: p1s manifest only. The live super
 ## Supervisor flag: BE039 clinical-safety overstatement, outside band
 
 The unchanged Practice section of BE039 says CBT-I “has no side effects.” This conflicts with its own [AASM 2021 guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/), opened unprompted during B092's link review. Under “Cognitive behavioral therapy for insomnia (CBT-I),” the guideline identifies early daytime fatigue/sleepiness, mood impairment and cognitive difficulties, and cautions about sleep restriction in selected high-risk populations. The “no side effects” sentence should be removed or qualified by the owning band/supervisor. No other band's file changed. The guideline does not make B092's informal exercise an insomnia treatment.
+
+## B064: loosening verdicts without shrinking the poem to self-help
+
+- Scope correction: an initial state note mistakenly named an anger topic. Before any page edit, the actual manifest/file identified B064 as Drop preferences. No anger material was written into B064. The MN 10/Metta/Dhammapada I reading belongs to the upcoming B080 review.
+- Opened unprompted: [Xinxin Ming, Clarke translation, AZINE PDF](https://azinelibrary.org/trash/xin-xin-ming-reading.pdf), complete poem; [Dhammapada 83, Buddharakkhita translation](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html), complete chapter VI. Web search: Xinxin Ming/Clarke/preferences.
+- Opening four-line quotation and Dhammapada excerpt verified exactly. The added passivity sentence is two adjacent verse lines, preserving the line break in a blockquote. The warning against attachment even to the One is explicit in the opened poem.
+- Public source label now distinguishes “Clarke translation” from the carrier's printed “Robert B. Clarke”; no unverified translator biography asserted. Other carriers use Richard B. Clarke, but that discrepancy is not silently “resolved” from search snippets.
+- The old body reduced the poem to preferences continuing unchanged. The new body acknowledges its stronger non-dual demand; the everyday meal exercise is explicitly a limited adaptation. Ethics/safety caveat is the compendium's application boundary, not an ancient quotation.
+- Plain words explains a liking versus an added global verdict, without repeating a procedural checklist. Meal approaches supply variation, attention supplies selection and repeating supplies retention. No promised change in taste.
