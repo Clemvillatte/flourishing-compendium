@@ -326,3 +326,12 @@ add filter: content docs scripts sources handoff.md) cannot commit
 site/ files - the item was routed to the maintenance band but is not
 worker-executable on the standard path; needs the supervisor (manual
 site/ commit + api_push) or an owner directive to widen the filter.
+
+2026-10-24 06:12Z, worker-pplx-t2c-1024e: defect-class scan (FLAG, not
+swept): 21 concept pages carry a "- - - - -" placeholder line after
+"## Cited in parallels" (Balance theory, Inoculation Theory, Vigilance
+theory, Yin and yang, Flow, Being-toward, Self-compassion,
+Interdependence Theory and others); 78 pages carry the Cited-in-parallels
+section at all. Legacy structure - whether the site renderer reads these
+sections is unknown, so no mechanical fix; editorial disposition
+requested.
