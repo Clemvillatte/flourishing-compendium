@@ -2,7 +2,7 @@
 
 > Where should effort go, and how much is the right amount?
 
-This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about how hard to try?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: effort misaimed is the commonest waste of a life, too much of it in the wrong register is restlessness, and too little is the sleep the Daoists and the Buddha both diagnose; the page holds both questions together, where effort goes and how much of it.
+This dossier is a map, not an essay. A reader who asks "what do the traditions and the research say about how hard to try?" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The page holds the two questions the theme actually carries together: where effort goes, and how much of it.
 
 How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. The compendium also holds principle pages bearing effort, persistence and energy in the title (B036, B058, B091, B116, MO046, AT025 and their kin); they are deliberately not listed inline, following the map convention: every concept card carries onward to the principles that cite it, so the map stays a map.
 
@@ -21,7 +21,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path): the fourth Noble Truth: the Buddha's summary of the training, right view through right concentration, with right effort sixth among the eight factors.
 
-[The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the Buddhist path in its most compressed form: virtue, concentration and wisdom, with right effort inside the training itself rather than in the virtue division.
+[The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the Buddhist path in its most compressed form: virtue, concentration and wisdom, with right effort inside the concentration division alongside mindfulness and concentration.
 
 [Right speech](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20speech), [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) and [Right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20livelihood): the sibling factors, each with its own dossier in this programme.
 
@@ -29,7 +29,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 The four efforts, in the sutta's own words:
 
-> "There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen." ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)): Primary text; quoted passages checked. The sutta repeats the same verbs for four aims: preventing, abandoning, arousing and maintaining.
+> "There is the case where a monk generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the non-arising of evil, unskillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the abandonment of evil, unskillful qualities that have arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the arising of skillful qualities that have not yet arisen. He generates desire, endeavors, activates persistence, upholds & exerts his intent for the sake of the maintenance, non-confusion, increase, plenitude, development, & culmination of skillful qualities that have arisen: This, monks, is called right effort." ([Thanissaro, SN 45.8](https://www.accesstoinsight.org/tipitaka/sn/sn45/sn45.008.than.html)): Primary text; quoted passages checked. The four directions: preventing, abandoning, arousing, maintaining.
 
 ### The four directions for one energy
 
@@ -41,7 +41,7 @@ The four efforts, in the sutta's own words:
 
 [Self-control training](https://clemvillatte.github.io/flourishing-compendium/#card=Self-control%20training): the caution on the general-capacity hope: Miles and colleagues' six-week program of small self-control tasks found no effect on any measure of self-control, and the authors' conclusion is stated without hedging.
 
-[Grit](https://clemvillatte.github.io/flourishing-compendium/#card=Grit): Duckworth's trait, defined by what it sustains: perseverance and passion for long-term goals, effort and interest kept up over years, through failure, adversity and plateaus.
+[Grit](https://clemvillatte.github.io/flourishing-compendium/#card=Grit): Duckworth's trait, defined by what it sustains: perseverance and passion for long-term goals, effort and interest kept up over years, through failure, adversity and plateaus; the published abstract puts grit at an average of 4% of the variance in success outcomes, a small share.
 
 ### The tuning, not the forcing
 
@@ -51,7 +51,7 @@ The four efforts, in the sutta's own words:
 
 The Sutta's own statement of the calibration:
 
-> "In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence, attune the pitch of the faculties to that, and there pick up your theme." ([Thanissaro, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)): Primary text; quoted passages checked.
+> "In the same way, Sona, over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence, attune [2] the pitch of the [five] faculties [to that], and there pick up your theme." ([Thanissaro, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)): Primary text; quoted passages checked. The bracketed glosses are the translator's.
 
 [Effort-recovery cycles](https://clemvillatte.github.io/flourishing-compendium/#card=Effort-recovery%20cycles): Sonnentag and Fritz's recovery research: four recovery experiences, psychological detachment from work, relaxation, mastery and control; effort's other half.
 
@@ -65,7 +65,7 @@ The Sutta's own statement of the calibration:
 
 [Flow](https://clemvillatte.github.io/flourishing-compendium/#card=Flow): Csikszentmihalyi's absorbed engagement, the modern comparison the Right effort card itself offers: challenge matched to skill, effort felt as effortless.
 
-[ST030 — Federer's Effortlessness](https://clemvillatte.github.io/flourishing-compendium/#card=ST030%20%E2%80%94%20Federer%27s%20Effortlessness): two decades of opponents describing the same game with the same word, effortless; the movement unhurried and the ball arriving earlier and heavier than it should.
+[ST030 — Federer's Effortlessness](https://clemvillatte.github.io/flourishing-compendium/#card=ST030%20%E2%80%94%20Federer%27s%20Effortlessness): Wallace, watching Federer at Wimbledon, reaches for a metaphysical explanation: one of those rare, preternatural athletes who appear to be exempt, at least in part, from certain physical laws; the approaching ball hangs, for him, a split-second longer than it ought to.
 
 ### The disciplines that aim effort
 
@@ -83,25 +83,7 @@ The Sutta's own statement of the calibration:
 
 ### The stories
 
-[ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the lamp-filament search, thousands of materials from platinum to carbonised cotton to bamboo from a Japanese fan, the notebooks recording the failures as data; the paraphrased line about 10,000 ways that will not work is faithful to a lab run as systematic elimination.
-
-## Where the traditions genuinely disagree
-
-### Is more effort the answer, or is the amount part of the ethics?
-
-The shared question: when a person is not getting the result, is the remedy more effort, or a different amount of it? Duckworth's grit holds up sustained effort itself as the trait that predicts: perseverance and passion for long-term goals, effort kept up through plateaus. The Sona Sutta answers with the calibration instead:
-
-> "over-aroused persistence leads to restlessness, overly slack persistence leads to laziness. Thus you should determine the right pitch for your persistence" ([Thanissaro, AN 6.55](https://www.accesstoinsight.org/tipitaka/an/an06/an06.055.than.html)): Primary text; quoted passages checked.
-
-The two positions answer the same question, what a stalled practice needs, and part on whether the remedy is quantity or pitch. What remains unresolved is the case where they give opposite advice to the same person at the same moment: the plateau that grit says to push through and the sutta says to retune.
-
-### Should effort be generated, or dropped?
-
-The shared question: is right effort a matter of generating desire and striving, or of dropping the striving altogether? The four efforts begin with the verb generates desire: the monk endeavors, activates persistence, upholds and exerts intent. The Daoist entry the compendium holds answers from the other side:
-
-> "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do." ([Daodejing 37, Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)): Primary text; quoted passages checked.
-
-The Buddhist factor trains the aiming of effort; the Daodejing chapter places the highest efficacy in not doing for the sake of doing. The two positions answer the same question, where a person's agency belongs, and part on whether the striving itself is the instrument or the obstacle. What remains unresolved is the trained case both traditions claim: Cook Ding's effortless carving is reached through years of effort, which reads as the Buddhist training arriving at the Daoist result, and neither tradition says whether the last step is more effort or less.
+[ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived.
 
 ## Practice: variation, selection, retention
 
@@ -133,8 +115,8 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### Effortlessness on the far side of training
 
-[ST030 — Federer's Effortlessness](https://clemvillatte.github.io/flourishing-compendium/#card=ST030%20%E2%80%94%20Federer%27s%20Effortlessness): two decades of opponents and commentators describe the same game with the same word, effortless; the strokes look simple, the movement looks unhurried, and the ball arrives earlier and heavier than it should.
+[ST030 — Federer's Effortlessness](https://clemvillatte.github.io/flourishing-compendium/#card=ST030%20%E2%80%94%20Federer%27s%20Effortlessness): Wallace, watching Federer at Wimbledon, reaches for a metaphysical explanation: one of those rare, preternatural athletes who appear to be exempt, at least in part, from certain physical laws; the approaching ball hangs, for him, a split-second longer than it ought to.
 
 ### The failures kept as data
 
-[ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data, the lab run as a systematic elimination of hypotheses.
+[ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived.

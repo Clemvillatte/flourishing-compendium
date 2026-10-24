@@ -3,7 +3,27 @@
 Writer: worker-pplx-dos23-1024h, band dos23 (mint 3, the Noble Eightfold Path).
 Registry status stays 'planned'; the supervisor flips and publishes. Band
 state: right-effort left in review-pending, not marked done, pending the
-supervisor's publication decision.
+supervisor's publication decision. The divergence requirement is
+UNFINISHED: the two divergences in the first draft (grit vs tuning;
+generate-vs-drop) were removed on QC review as manufactured
+oppositions, no opened source supplies an explicit opposing answer to
+the same question, and the dossier currently carries no divergence
+section. Flagged for the supervisor: publication should wait for a
+verified genuine divergence or an owner decision on the section.
+
+Revision 2 (QC pass): both divergences removed as manufactured
+oppositions (grit's persistence and the Sona calibration are
+compatible; the Daodejing 37 chapter describes the Tao and does not
+tell practitioners to abandon deliberate effort); the AN 6.55 quote
+restored with the translator's bracketed glosses and the word five, as
+printed; all four efforts now quoted in full from the opened SN 45.8
+page; unsupported introductory claims removed; the three-trainings
+gloss fixed (right effort sits in the concentration division); the
+Grit gloss now carries the published abstract's 4% of variance
+figure; the ST030 logline rebuilt from the card's own Wallace
+quotation; the ST112 logline rebuilt from the card's
+variation-selection-retention line; the Daodejing quote, now unused,
+is retained below for the record.
 
 ## Quotes and carriers, all opened this session (raw text)
 
