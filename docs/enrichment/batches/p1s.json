@@ -3,7 +3,6 @@
  "done": [
   "D106",
   "P176",
-  "P177",
   "P168",
   "D094",
   "B030",
@@ -32,7 +31,7 @@
   "B172",
   "B190"
  ],
- "in_progress": null,
+ "in_progress": "P177",
  "flagged": {
   "D094": "Reopened for QC: QC correction: forester clause exceeds source",
   "D103": "Reopened for QC: DDJ24 source rechecked; explain self-display rather than repeat advice",
@@ -62,7 +61,7 @@
   "B165": "Reopened for QC: Source-checked explanation of inner/outer peace; genuine Plain words and grounded dialogue example",
   "B169": "Reopened for QC: Verify mindful consumption as a causal ethical practice; replace Plain words checklist",
   "P176": "Reopened for QC: QC correction: fix quote boundary; replace diagnostic application per advisor",
-  "P177": "Reopened for QC: QC correction: end-in-view can be a desired result; fix citation destination",
+  "P177": "Reopened for QC: Replace minimal procedural Plain words with explanation of aims as revisable guides; no guarantee outcomes follow",
   "B012": "Reopened for QC: Replace procedural Plain words with present-attention reasoning from MN131 and TNH",
   "D025": "Reopened for QC: DDJ12 checked; expand contrast and replace practice-only Plain words",
   "B009": "Reopened for QC: Distinguish the eightfold Middle Way from compromise; recheck SN56.11 and AN6.55",
@@ -70,7 +69,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-24T05:23:10+00:00",
+ "updated": "2026-10-24T05:23:35+00:00",
  "band_done": false,
  "notes": {
   "B021 death-recovery check": "2026-10-20: owner reported the agent working on B021 died. Verified nothing lost: B021 (p1i item) content last committed f9ce31ef (2026-10-19 QC-repair batch, milestone 15); p1s no-edit light-check fcb33b61 + cross-band incident correction 5328d488 (2026-10-20 02:20-02:25, quotes re-verified, no action owed per supervisor disposition); p1s band closed cleanly 30/30 at 03:54:11Z (5bc8f460, baton released, in_progress None). B021 validates clean at HEAD. No in-flight work, no unpushed commits; nothing owed to the next agents."
