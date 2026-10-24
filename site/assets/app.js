@@ -9857,6 +9857,331 @@ window.fcDossiersData = {
       "group": "eemm",
       "status": "published",
       "art": "assets/dossier-art/motivation.jpg"
+    },
+    {
+      "id": "uncertainty",
+      "title": "Uncertainty",
+      "question": "Can a person live well without knowing what comes next?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This dossier is a map, not an essay. A reader who asks \"what do the traditions and the research say about living without certainty?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person meet what cannot be known with steadiness, so that not knowing stops being the source of suffering."
+        },
+        {
+          "t": "p",
+          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "- Uncertainty tolerance: held under the intolerance cards in the first group below. - Impermanence: held in its own group below, as the Buddhist and Daoist form of uncertainty about what lasts. - Probability and risk: held under the last group; decision research on risk sits with the Decision-Making dossier, and worry and anxiety with the Anxiety dossier."
+        },
+        {
+          "t": "p",
+          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below."
+        },
+        {
+          "t": "h",
+          "x": "The map: every entry the wiki holds on uncertainty"
+        },
+        {
+          "t": "h2",
+          "x": "Enduring not knowing"
+        },
+        {
+          "t": "p",
+          "x": "[Intolerance of uncertainty](card:Intolerance%20of%20uncertainty): a dispositional incapacity to endure the aversive response triggered by uncertain situations."
+        },
+        {
+          "t": "p",
+          "x": "[Intolerance of ambiguity](card:Intolerance%20of%20ambiguity): the tendency to perceive ambiguous situations as sources of threat, in Budner's classic definition."
+        },
+        {
+          "t": "p",
+          "x": "[Mindful uncertainty](card:Mindful%20uncertainty): the ACT posture toward the unknowable parts of experience: stay open to the present moment without needing it to be settled first."
+        },
+        {
+          "t": "p",
+          "x": "[Negative capability](card:Negative%20capability): Keats's term for the power to remain in uncertainties, mysteries and doubts without any irritable reaching after fact and reason."
+        },
+        {
+          "t": "p",
+          "x": "[Distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29): the perceived capacity to withstand aversive states, distinguished by Leyro and colleagues from the behavioral act of withstanding them."
+        },
+        {
+          "t": "p",
+          "x": "[Equanimity](card:Equanimity): the even-minded stance toward experience: neither grasping at the pleasant nor pushing away the unpleasant."
+        },
+        {
+          "t": "p",
+          "x": "[Beginner's mind](card:Beginner%27s%20mind): the Zen practice of meeting experience as if for the first time."
+        },
+        {
+          "t": "p",
+          "x": "[Openness and not knowing in skilled practice](card:Openness%20and%20not%20knowing%20in%20skilled%20practice): Ericsson's deliberate practice as work on tasks just outside current reliable performance."
+        },
+        {
+          "t": "h2",
+          "x": "Doubt, ignorance and inquiry"
+        },
+        {
+          "t": "p",
+          "x": "[Socratic ignorance](card:Socratic%20ignorance): the profession Socrates makes at his trial: he does not know the things that matter most, and unlike others he does not think he does."
+        },
+        {
+          "t": "p",
+          "x": "[Aporia](card:Aporia): the productive dead end: the state of being unable to move forward in an inquiry."
+        },
+        {
+          "t": "p",
+          "x": "[Doubt as method](card:Doubt%20as%20method): Descartes' procedure in the Meditations: doubt to find what survives doubt."
+        },
+        {
+          "t": "p",
+          "x": "[Genuine doubt](card:Genuine%20doubt): Peirce's name for the real and living doubt that inquiry actually requires."
+        },
+        {
+          "t": "p",
+          "x": "[The irritation of doubt](card:The%20irritation%20of%20doubt): Peirce's phrase from The Fixation of Belief, naming the engine of inquiry."
+        },
+        {
+          "t": "p",
+          "x": "[The great doubt](card:The%20great%20doubt): the Zen name for the concentrated questioning at the centre of koan practice."
+        },
+        {
+          "t": "p",
+          "x": "[Skepticism about the obvious](card:Skepticism%20about%20the%20obvious): the Pyrrhonist practice in Sextus Empiricus: what seems plainly there is still an appearance, and appearances conflict."
+        },
+        {
+          "t": "p",
+          "x": "[Skepticism answered by life](card:Skepticism%20answered%20by%20life): Hume's idea that radical doubt does not survive ordinary living."
+        },
+        {
+          "t": "p",
+          "x": "[Actively open-minded thinking](card:Actively%20open-minded%20thinking): a reasoning style that Jonathan Baron developed in the judgment-and-decision-making literature."
+        },
+        {
+          "t": "h2",
+          "x": "What lasts, and what is up to us"
+        },
+        {
+          "t": "p",
+          "x": "[Impermanence](card:Impermanence): the fact that everything that arises will pass: moods, plans, bodies, relationships, reputations."
+        },
+        {
+          "t": "p",
+          "x": "[Anicca](card:Anicca): impermanence, the first of the Three Marks of Existence."
+        },
+        {
+          "t": "p",
+          "x": "[The dichotomy of control](card:The%20dichotomy%20of%20control): Epictetus's distinction in Enchiridion 1 between what is up to us and what is not."
+        },
+        {
+          "t": "p",
+          "x": "[Locus of control](card:Locus%20of%20control): Rotter's generalized expectancy about where reinforcement comes from."
+        },
+        {
+          "t": "p",
+          "x": "[Secondary control](card:Secondary%20control): Rothbaum, Weisz and Snyder's way of gaining a sense of control by bringing yourself into line with the world."
+        },
+        {
+          "t": "p",
+          "x": "[Antifragility](card:Antifragility): Taleb's coinage for the third category that fragile and robust leave out."
+        },
+        {
+          "t": "h2",
+          "x": "Hope, trust and the open"
+        },
+        {
+          "t": "p",
+          "x": "[Hope](card:Hope): the forward-facing emotion: expectation of a good that has not arrived and is not guaranteed."
+        },
+        {
+          "t": "p",
+          "x": "[Elpis (hope)](card:Elpis%20%28hope%29): the Greek word for hope, best known from Hesiod's story of Pandora."
+        },
+        {
+          "t": "p",
+          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is a thing to weigh, because it travels with fear."
+        },
+        {
+          "t": "p",
+          "x": "[Self-trust](card:Self-trust): Emerson's conviction that one's own perception is a fit instrument for living."
+        },
+        {
+          "t": "p",
+          "x": "[Generalized trust](card:Generalized%20trust): trust in strangers, or in most people in society, rather than in people you already know."
+        },
+        {
+          "t": "p",
+          "x": "[The open (das Offene)](card:The%20open%20%28das%20Offene%29): Rilke's word, in the eighth Duino Elegy, for what the animal sees and we do not."
+        },
+        {
+          "t": "p",
+          "x": "[The absurd](card:The%20absurd): Camus's name for the confrontation between the human demand for meaning and the world's silence."
+        },
+        {
+          "t": "p",
+          "x": "[Ambiguity](card:Ambiguity): Beauvoir's name for the human condition's two-foldness."
+        },
+        {
+          "t": "p",
+          "x": "[The ethics of ambiguity](card:The%20ethics%20of%20ambiguity): Beauvoir's existentialist ethics: freedom is ambiguous because it must will both itself and the freedom of others."
+        },
+        {
+          "t": "h2",
+          "x": "Probability and risk"
+        },
+        {
+          "t": "p",
+          "x": "[Probabilistic thinking](card:Probabilistic%20thinking): the move from yes-or-no to how-likely, whose arrival in European thought was sudden."
+        },
+        {
+          "t": "p",
+          "x": "[Risk literacy](card:Risk%20literacy): Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions."
+        },
+        {
+          "t": "p",
+          "x": "[Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)](card:Decision-making%20under%20uncertainty%20%28Gigerenzer%27s%20fast-and-frugal%20heuristics%29): simple decision rules that ignore part of the available information and can still judge well under uncertainty."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is not knowing something to dwell in, or a weakness to treat?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when the future or the truth is unsettled, should a person learn to stay in that state? Keats named it, in a letter, as the quality that makes a man of achievement in literature:"
+        },
+        {
+          "t": "q",
+          "x": "\"Negative Capability , that is, when a man is capable of being in uncertainties, mysteries, doubts, without any irritable reaching after fact and reason.\" ([Keats, Letters of John Keats to His Family and Friends, Gutenberg edition](https://www.gutenberg.org/files/35698/35698-h/35698-h.htm)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The clinical literature on worry treats the same tolerance as a vulnerability factor when it is missing:"
+        },
+        {
+          "t": "q",
+          "x": "\"The Intolerance of Uncertainty Model (IUM) of Generalized Anxiety Disorder (GAD) attributes a key role to Intolerance of Uncertainty (IU), and additional roles to Positive Beliefs about Worry (PBW), Negative Problem Orientation (NPO), and Cognitive Avoidance (CA), in the development and maintenance of worry, the core feature of GAD.\" ([Intolerance of Uncertainty Model, PMC article, abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5088195/)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two do not contradict each other as much as they look. Keats describes a capacity of artists and a reason for its worth; the model describes what follows in worriers when the capacity is absent. Both treat the capacity as the thing at stake, and the compendium's practices on sitting with uncertainty draw on the shared reading."
+        },
+        {
+          "t": "h2",
+          "x": "What is the right response to what cannot be foreseen?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: since much of what comes is not ours to settle, what should a person attend to? Epictetus answers with a division:"
+        },
+        {
+          "t": "q",
+          "x": "\"Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.\" ([Epictetus, Enchiridion 1, Carter translation, MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "His claim is that holding to the division removes the injury: \"no one will ever compel you or restrain you.\" Keats's capacity points the other way, toward staying with what cannot be reduced to a rule. A reader can take them as answering different questions, one about where to put effort and one about how to hold what lies outside it, and the compendium keeps both."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying is the reflex to resolve. The look-alikes of tolerance are resignation and distraction. The adaptive moves are to let the not-knowing stay present, to turn an unknown into a small test, and to let the one fact that is certain, mortality with an unknown date, say what is urgent."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Sitting with uncertainty](card:K122%20%E2%80%94%20Sitting%20with%20uncertainty): when you do not know what will happen, let the not-knowing be present and resist resolving it prematurely."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Weekly inquiry loop](card:K233%20%E2%80%94%20Weekly%20inquiry%20loop): one question a week, one small test, one honest look at the data."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Mortality reflection](card:K222%20%E2%80%94%20Mortality%20reflection): once a month, write ten minutes on \"I am mortal. The timing is unknown. What does this make urgent?\""
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Mortality-to-action translation](card:K316%20%E2%80%94%20Mortality-to-action%20translation): write five minutes on the same question, then turn one insight into one action this week."
+        },
+        {
+          "t": "p",
+          "x": "The cards carry their own evidence notes. Several of these are proposals built on the traditions and have not been tested as protocols."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the weekly test, or the habit of letting a not-knowing sit for a day before resolving it, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "Not knowing whom or what to trust"
+        },
+        {
+          "t": "p",
+          "x": "[ST066 — The Kālāmas Test It](card:ST066%20%E2%80%94%20The%20K%C4%81l%C4%81mas%20Test%20It): the Kalamas, with teachers passing through town contradicting each other and each claiming sole truth, do not know whom to trust."
+        },
+        {
+          "t": "p",
+          "x": "[ST155 — Meno's Paradox](card:ST155%20%E2%80%94%20Meno%27s%20Paradox): Meno asks how one can look for virtue if one does not know what it is: if you know, you need not look; if you do not, how will you recognise it."
+        },
+        {
+          "t": "p",
+          "x": "[ST378 — Wang Ni Says How Would I Know That Three Times](card:ST378%20%E2%80%94%20Wang%20Ni%20Says%20How%20Would%20I%20Know%20That%20Three%20Times): Nie Que asks Wang Ni whether he knows something everyone agrees on, and Wang Ni answers, how would I know that."
+        },
+        {
+          "t": "h2",
+          "x": "Meeting what comes"
+        },
+        {
+          "t": "p",
+          "x": "[ST188 — Epictetus and the Leg](card:ST188%20%E2%80%94%20Epictetus%20and%20the%20Leg): Epictetus, born a slave, is reported by later sources to have been lamed by his master, with the story that he told his master the leg would break."
+        },
+        {
+          "t": "p",
+          "x": "[ST217 — The Morning Preparation](card:ST217%20%E2%80%94%20The%20Morning%20Preparation): Book II of the Meditations opens with a dawn exercise: say to yourself that today you will meet the meddlesome, the ungrateful and the arrogant."
+        },
+        {
+          "t": "p",
+          "x": "[ST253 — Rawls and the Veil](card:ST253%20%E2%80%94%20Rawls%20and%20the%20Veil): Rawls asks what principles of justice people would choose if they did not know their own place in society."
+        }
+      ],
+      "group": "challenges",
+      "status": "published",
+      "art": "assets/dossier-art/uncertainty.jpg"
     }
   ],
   "groups": [
@@ -9907,11 +10232,6 @@ window.fcDossiersData = {
       "id": "body",
       "title": "Body",
       "group": "eemm"
-    },
-    {
-      "id": "uncertainty",
-      "title": "Uncertainty",
-      "group": "challenges"
     },
     {
       "id": "overload-overwhelm",

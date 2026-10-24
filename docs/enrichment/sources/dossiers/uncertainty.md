@@ -10,7 +10,7 @@ Verification record for docs/enrichment/dossiers/uncertainty.md, revision 1.
 
 ## Open points
 
-- Only two divergences were built in the available time. Candidates for a revision: impermanence in the Buddhist texts (Dhammapada 277 to 279, opened) against Daoist treatments, and Peirce's irritation of doubt against Socratic ignorance as a settled state.
+- Only two divergences were built in the available time. Candidates for a revision: impermanence in the Buddhist texts (Dhammapada 277 to 279, not opened this run) against Daoist treatments, and Peirce's irritation of doubt against Socratic ignorance as a settled state.
 - Glosses follow the card openings (word-overlap check flagged none). Cards not opened beyond their opening: all except the above.
 - Boundary: decision research under risk sits with the Decision-Making dossier; worry and anxiety with the Anxiety dossier.
 - Story loglines were compressed from the openings of the story cards.
