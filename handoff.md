@@ -2402,4 +2402,20 @@ What was done:
 - New Perplexity account created and signed in: flourishdy42tj8t@maxxspace.com (mail.tm; code 350072 read via the mail.tm API). Sign-in, onboarding dismissal, Computer-mode toggle all succeeded; the full worker prompt was pasted and verified in the composer (8,715 chars in innerText, head/tail match).
 - Blocker: EVERY submit attempt (button click via tree ref, button click via fresh coordinates, Enter key, Ctrl+Enter) was intercepted by the "Get more done with Computer / Upgrade to Pro" education modal, which re-opened on every attempt after being closed. ~10 attempts over ~15 minutes, modal closed via ref/Escape/X each time. No task URL was ever created.
 
-Assessment for the supervisor: the gate looks structural for fresh free accounts in Computer mode (an upsell intercept on submit), not a transient bug. Options: (a) owner verifies whether Computer submissions require Pro on new accounts now; (b) Path A launch on an account with prior Computer usage; (c) owner-provided account. The successor prompt file and the mailbox are lost with this session; the prompt is fully reconstructible from PROMPT-WORKER.md + the SUCCESSION annex.
+Assessment for the supervisor: the gate looks structural for fresh free accounts in Computer mode (an upsell intercept on submit), not a transient bug. Options: (a) owner verifies whether Computer submissions require Pro on new accounts now; (b) Path A launch on an account with prior Computer usage; (c) owner-provided account. The successor prompt file and the mailbox are lost with this session; the prompt is fully reconstructible from PROMPT-WORKER.md + the SUCCESSION annex.## Worker session record — worker-pplx-dos27-mint, 2026-10-24 (T0 13:49:45 UTC, 60-min clock)
+
+Bands held: dos15 (Behaviour), dos17 (Body), dos27 (mint). Dossiers minted and pushed this session, all checker exit 0, all with evidence ledgers under docs/enrichment/sources/dossiers/:
+
+1. right-view (installed from dos18 pass-18 draft, 8823f9e8; supervisor flipped to published, 7d32369)
+2. behaviour (dos15, 63 card links, advisor QC pass 2 applied, 63d04fe)
+3. body (dos17, 52 card links, 94a7daf7)
+4. suffering (mint band, proposal rank 1, SN 56.11 carrier verified, c3009ba1/e42892de)
+5. acceptance (mint band, proposal rank 2, Hayes 2006 carrier verified, a1bfa152/826967de)
+6. meaning-and-mortality (mint band, proposal rank 5, 6 external carriers verified incl. Burke 2010 vs PubMed, 3a10baef; advisor QC pass 2 + 2b applied, 46edb335/3409f8ba)
+7. freedom (mint band, proposal rank 3, both boundaries drawn after re-reading agency.md/anxiety.md, 5 carriers verified, d4ca6bfd; QC pass 2 + 2b applied)
+
+Proposal coverage: ranks 1, 2, 3, 5 minted. Rank 4 (Nature & the Living World) NOT minted — the proposal itself recommends backlog pending a placement decision, and the binding section rules require 3+ dossiers before a new theme; left for the supervisor.
+
+FLAGGED for the supervisor (registry edits are supervisor-only): registry entries needed for suffering, acceptance, meaning-and-mortality (promote from backlog), freedom. Scattered placements of the mortality family (K222/K316 in Uncertainty practice, Being-toward-death/Impermanence in Genuine Flourishing, Death reflection in Wisdom) need a registry decision. agency.md is still a draft; the freedom boundary should be re-checked against its final version before publishing freedom.
+
+Succession: will attempt Path B in the owner-directed window (T+55-T+58, 15:09-15:12 UTC). Note taken of the dos14 1024k Path B failure (Pro-gate upsell modal intercepting submit on a fresh free account, mail.tm address); the two 14:10 UTC launches on outlook.com addresses succeeded, so the attempt will use a smailpro outlook.com address per the protocol.
