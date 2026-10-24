@@ -179,3 +179,30 @@ The Clark and Chalmers, The Extended Mind carrier (consc.net) was
 also re-opened. Both quoted passages are verbatim: the "coupled
 system" sentence and the "active externalism" sentence. No
 discrepancy found.
+
+## Quote-fidelity pass (2026-10-24, supervisor-pplx-1024c-dossiers, dossiers baton)
+
+The ledger had no carrier-verification record for the 11 verbatim
+quotations. All carriers were opened this session and every quote
+checked word-for-word:
+
+- Tversky and Kahneman 1974 (Science, abstract page): the
+  three-heuristics definition and the "systematic and predictable
+  errors" sentence verified verbatim.
+- Clark and Chalmers, The Extended Mind (consc.net): both quotes
+  verified (coupled-system sentence and active externalism).
+- Spencer-Rodgers et al. (PMC2811254): the naive-dialecticism
+  definition verified.
+- Peirce, How to Make Our Ideas Clear (peirce.org): both quotes
+  verified (belief-habit essence and doubt-appeasement).
+- Festinger, A Theory of Cognitive Dissonance ch. 1 (panarchy.org):
+  the consonant/dissonant relation definition verified.
+- Grossmann 2017 (uwaterloo PDF): both quotes verified (the
+  wisdom-components list and the situation-to-situation variation).
+- Ezawa and Hollon 2023 (PMC10440210): the cognitive-restructuring
+  definition verified.
+- Hayes, Strosahl and Wilson 1999 as quoted in Bernstein et al.
+  (PMC5103165): the defusion wording verified.
+
+All 11 quotations match word-for-word. No corrections needed to the
+dossier body. Checker and voice audit not re-run (body unchanged).
