@@ -5,7 +5,7 @@ type: "story"
 title: "463.  Polishing a Brick Into a Mirror"
 file: "ST463 — Polishing a Brick Into a Mirror"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
-legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.05 — II.5 The Heart — Emotions and Immeasurables", "parent": ""}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.03 — II.3 Meditation Practices", "parent": ""}
 ---
 
 Recorded dialogue, translated · the tile-polishing episode between Nanyue Huairang and his student Mazu, from the Recorded Sayings of the Ancient Worthies (Guzunsu yulu), in Lu K'uan Yü's translation.

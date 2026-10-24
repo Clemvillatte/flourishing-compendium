@@ -74,7 +74,7 @@ Behaviour change: the applied science of moving stuck patterns; its frameworks a
 
 [Deliberation as rehearsal](https://clemvillatte.github.io/flourishing-compendium/#card=Deliberation%20as%20rehearsal): Dewey again, on deliberation as a trial balancing of habits in imagination.
 
-[The habit body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20habit%20body): Merleau-Ponty's third answer; habit in the body as mediator of a world, a third location distinct from thought and from the objective body; knowledge in the hands.
+[The habit body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20habit%20body): Merleau-Ponty's third answer; habit in the body as mediator of a world, distinct from both thought and the objective body; knowledge in the hands.
 
 [E014 — Practise the habit body](https://clemvillatte.github.io/flourishing-compendium/#card=E014%20%E2%80%94%20Practise%20the%20habit%20body): the principle form of the same; the body as our general medium for having a world.
 
