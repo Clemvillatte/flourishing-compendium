@@ -126,7 +126,12 @@ Decentering, Cognitive defusion, Acceptance, Beginner's mind, Body
 scan in MBSR, Walking meditation, Epochen, Delight in the ordinary,
 Clarity of mind, The lived body, The effort of attention. All
 thirteen descriptions are supported by their card bodies; no
-corrections were required. The kernel and story entries were
+corrections were required. A follow-up check read the full bodies of
+the pass-1 core entries (Right mindfulness, Eightfold Path, The
+three trainings, Sati, Anapanasati, Bare attention in mindfulness
+practice, Mindful attention) against their map descriptions; all
+seven are supported. Every entry in the current map has now been
+checked against its full card body. The kernel and story entries were
 verified against their card instruction sentences and openings in
 pass 2.
 
