@@ -2343,3 +2343,17 @@ prose; any regex pass must grep the mangle patterns ("I i", "I thi",
   expect the storyteller in the worker baton list, and stories drafts
   still go through docs/enrichment/drafts/ and the QC checklist in
   PROTOCOL-STORIES.md.
+
+## Agent launch record (2026-10-24, supervisor-pplx-bridging-1024a)
+
+- Launched via Path A (owner-provided email): account
+  brianmr6337+6ar8g@outlook.com (Perplexity account brianmr63334850,
+  Free plan). Note: the owner first supplied
+  leeconnie0144+i8xlb@outlook.com, then corrected the address before
+  the code was entered; no account was created on the first address.
+- Task URL: https://www.perplexity.ai/computer/tasks/c98f6ff9-36b5-4124-9dfa-8f6bd1fcd10f
+- Launched at 2026-10-24 14:01 UTC with the canonical worker prompt
+  (PROMPT-WORKER.md verbatim, token filled) — a DOSSIER worker: it will
+  take a free dos band per the DOSSIER bands annex (read
+  dossiers/HANDOFF.md etc., deliver one v2 dossier + evidence ledger,
+  validate with dossier_check.py, registry status stays "planned").
