@@ -441,7 +441,7 @@ let warmStart = false;   // seedPositions() restored a settled layout — short 
 function seedPositions() {
   // warm start: a settled layout for THIS graph is saved — restore it and let
   // restart() run a short settle instead of the full organise
-  if (tryRestoreLayout()) { warmStart = true; return; }
+  if (tryRestoreLayout()) { warmStart = true; thinkerHome = null; return; }
   // park hidden nodes far away so they never take part in the layout
   for (const n of G.nodes) if (!n.visible) { n.x = 1e7; n.y = 1e7; n.vx = n.vy = 0; }
   if (scopeValue !== 'all') {
@@ -455,6 +455,7 @@ function seedPositions() {
       n.x = Math.cos(a) * r; n.y = Math.sin(a) * r;
       n.vx = n.vy = 0;
     }
+    thinkerHome = null;   // scoped graphs have no thinker ring
     return;
   }
   // 'everything': principles/kernels cluster by book on a big ring; concepts start near center
@@ -495,6 +496,8 @@ function seedPositions() {
     n.x = Math.cos(a) * r; n.y = Math.sin(a) * r;
     n.vx = n.vy = 0;
   });
+  // remember the ring slots so step() can hold them (see the thinkers note there)
+  thinkerHome = new Map(th.map(n => [n.id, { x: n.x, y: n.y }]));
 }
 
 function step() {
@@ -540,11 +543,37 @@ function step() {
     if (!a.visible || !b.visible) continue;
     const dx = b.x - a.x, dy = b.y - a.y;
     const d = Math.sqrt(dx * dx + dy * dy) || 0.01;
-    const L = (46 + Math.min(a.deg, b.deg) * 1.6) * phys.linkLen;
-    const f = (d - L) * 0.005 * (0.35 + alpha * 0.65) * phys.spring;
+    // rest length must respect the pair's contact distance: a spring whose
+    // rest length is shorter than r+r fights the collision pass forever — the
+    // spring pulls the pair back into overlap, the collision pushes it out,
+    // and the churn leaves the layout chronically jammed (what the graph
+    // looked like after the thinkers were added: hub links wanted ~46-90px
+    // while 48px-radius hubs need 99px+ of clearance). The radius floor scales
+    // with the link-length slider like the degree term does.
+    const L = Math.max(46 + Math.min(a.deg, b.deg) * 1.6, (a.r + b.r) * 1.12 + 8) * phys.linkLen;
+    // hub weight: a 250-link hub accumulates 250 spring pulls toward the
+    // centroid of its neighbours — enough to drag it off its seeded position
+    // (the thinkers' outer ring collapsed into the core this way) and to crush
+    // any collision-pass separation. Scale each link's force by the geometric
+    // mean of the endpoints' degrees so hubs keep their links but are not
+    // dominated by them (standard force-layout hub normalization).
+    const w = 1 / Math.sqrt(Math.max(1, Math.min(a.deg, b.deg)) * 0.5 + Math.max(a.deg, b.deg) * 0.5);
+    const f = (d - L) * 0.005 * (0.35 + alpha * 0.65) * phys.spring * w;
     const ux = dx / d, uy = dy / d;
     a.vx += ux * f; a.vy += uy * f;
     b.vx -= ux * f; b.vy -= uy * f;
+  }
+  // thinkers: hold the outer ring. Even with hub-normalised springs a
+  // 250-link thinker accumulates a large net inward pull — over a long warmup
+  // that sags the seeded ring back into the core (the 2026-10-23 ring seed
+  // could not survive the physics on its own). A soft positional spring toward
+  // the seeded ring slot, alpha-scaled like the other organising forces,
+  // keeps each hub near its slot while the collision pass still makes room.
+  if (thinkerHome) for (const n of nodes) {
+    if (n.kind !== 'thinker' || n === dragged) continue;
+    const h = thinkerHome.get(n.id); if (!h) continue;
+    const k = 0.4 * (0.3 + alpha * 0.7);
+    n.vx += (h.x - n.x) * k; n.vy += (h.y - n.y) * k;
   }
   // gentle gravity + integrate
   for (const n of nodes) {
@@ -617,10 +646,14 @@ function step() {
     if (!corrected) break;   // fully separated — skip the remaining passes
   }
   }
-  alpha *= 0.997;
+  alpha *= 0.9962;
 }
 
 let warmTicks = 0, fitAfterWarmup = false;
+/* thinkers' seeded ring slots (scope 'all' only) — see the holders' spring in
+   step(). Null when the current layout has no ring to hold (warm start,
+   scoped graphs). */
+let thinkerHome = null;
 let pendingFocus = null;   // node to select+center once the warmup reveal lands
 /* Live physics: while the user drags a node or slides a force slider, the
    simulation keeps running (small alpha) so neighbours trail the dragged node
@@ -669,6 +702,8 @@ function setSpread(n) {
   spreadNbSet = null;
   spreadBrSet = null;
   spreadNb2Set = null;
+  sepAwake = 0;      // a new spread state (select OR deselect) re-arms the
+  sepConceded = false;   // separation watchdog — fresh fight, fresh budget
   // separation adjustments are per-SPREAD: a new selection (or deselect)
   // rebuilds every target, so the accumulated nudges must not leak into the
   // fresh geometry — clear them on the whole graph (cheap, runs on select)
@@ -682,10 +717,25 @@ function setSpread(n) {
     spreadNb2Set = new Set();
     for (const m of (adj.get(n.id) || [])) {
       for (const p of (adj.get(m.id) || [])) {
-        if (p !== n && p.visible && !spreadNbSet.has(p)) spreadNb2Set.add(p);
+        // big nodes (thinkers, top hubs) read better as CONTEXT than as
+        // belt rows: a wide child behind a small anchor forces the belt
+        // (and with it the whole context clearance radius) thousands of
+        // pixels out — the select-a-mega-hub explosion. r>18 = the top
+        // few % of node sizes.
+        if (p !== n && p.visible && !spreadNbSet.has(p) && (p.r || 4) <= 18) spreadNb2Set.add(p);
       }
     }
     if (!spreadNb2Set.size) spreadNb2Set = null;
+    // mega-hub bound: the 2-hop set of a hub with hundreds of links is
+    // most of the graph — packing it all on the belt would cost a full
+    // belt rebuild per easing pass. Keep the nearest 360 by base distance;
+    // the rest are ordinary context nodes (cleared beyond ctxR).
+    if (spreadNb2Set && spreadNb2Set.size > 360) {
+      const near = [...spreadNb2Set].sort((a, b) =>
+        Math.hypot(a.x - n.x, a.y - n.y) - Math.hypot(b.x - n.x, b.y - n.y));
+      near.length = 360;
+      spreadNb2Set = new Set(near);
+    }
     spreadActive = true;
   }
   // NEIGHBOUR BELTS (phys.belts): instead of proportional pulls toward
@@ -753,6 +803,13 @@ function setSpread(n) {
         // deterministic order: by degree then id, so the least-loaded choice
         // is stable across rebuilds (kind toggles, sliders, Reset)
         const ordered = [...zArr].sort((a, b) => (a.deg - b.deg) || (a.id < b.id ? -1 : 1));
+        // belt bound: a gateway anchor can hold HUNDREDS of 2-hop nodes (one
+        // concept funnelling a whole cluster toward the hub), and stacking
+        // them all radially stretches the belt thousands of px — the
+        // select-a-mega-hub explosion. Overflow kids stay context (cleared
+        // beyond ctxR like any other non-belt node); the belt keeps its reading.
+        const MAXCHAIN = 12;
+        const overflow = new Set();
         for (const m of ordered) {
           let best = null;
           for (const y of (adj.get(m.id) || [])) {
@@ -761,12 +818,14 @@ function setSpread(n) {
             if (!best || l < load.get(best) || (l === load.get(best) && yIdx.get(y.id) < yIdx.get(best.id))) best = y;
           }
           if (!best) best = yArr[0];                    // unreachable: every Z has a Y neighbour
-          load.set(best, load.get(best) + 1);
           const arr = kids.get(best) || [];
+          if (arr.length >= MAXCHAIN) { overflow.add(m); continue; }
+          load.set(best, load.get(best) + 1);
           spreadSlots.set(m, { pop: 'z', anchor: best, idx: arr.length });
           arr.push(m); kids.set(best, arr);
         }
         spreadRings.zKids = kids;   // keyed by anchor NODE — beltGeometry uses its radius
+        if (overflow.size && spreadRings.z) spreadRings.z = spreadRings.z.filter(m => !overflow.has(m));
       }
     }
   }
@@ -808,7 +867,13 @@ function beltGeometry(c) {
       for (const k of kidsArr) {
         const kr = k.r || 4;
         // min radius at which THIS child's angular width fits the anchor's slot
-        const need = g.yR * (2 * kr + 8) / (2 * aR + 8);
+        let need = g.yR * (2 * kr + 8) / (2 * aR + 8);
+        // belt-wide bound: a mid-size child behind a very small anchor
+        // could still push the belt out several radii. Cap the start — a
+        // capped child may graze the adjacent chain, which the display
+        // separation pass cleans up; an unbounded one blows up the whole
+        // clearance radius (and with it the camera fit).
+        need = Math.min(need, g.zIn + 400);
         if (off < need) off = need;
         g.zRad.set(k.id, off + kr);
         off += 2 * kr + 10;
@@ -892,6 +957,8 @@ let spreadJumped = false;   // phone snap: applySpread actually moved offsets TH
 let snapState = null;       // phone snap: {c,x,y,slots} of the last applied snap (invalidation key)
 let sepCalls = 0;           // QA: how many separation passes have run (exposed via __graphDebug)
 let sepMoved = false;       // did the LAST separation pass move anything? (loop-stopping condition)
+let sepAwake = 0;           // consecutive frames sepMoved has been true (watchdog below)
+let sepConceded = false;     // watchdog has given up — cleared by setSpread (a new spread state)
 let sepMaxPush = 0;         // QA: largest single push in the last pass
 let spreadMaxErr = 0;        // QA: largest remaining offset error in the last applySpread pass
 let profSpreadMs = 0, profSepMs = 0, profRenderMs = 0, profFrames = 0;   // QA: per-frame cost of applySpread / separation / render
@@ -908,6 +975,7 @@ let nb2Hidden = null;   // set by render when N+2 is toggled OFF — shared with
    ring geometry is preserved everywhere else. */
 function separateDisplayed() {
   if (!G) return;
+  if (sepConceded) return;   // watchdog: the fight is over — let the easing finish and the loop idle
   sepCalls++;
   const vis = G.nodes.filter(n => n.visible);
   if (vis.length < 2) return;
@@ -947,6 +1015,14 @@ function separateDisplayed() {
           let d = Math.hypot(dx, dy);
           const min = n.r + m.r + PAD;
           if (d >= min) continue;
+          // DESELECT, near home: both nodes are within a few px of their base
+          // positions, and the base layout is clean (declutter at every freeze),
+          // so this overlap is a glide-through transit artifact. Pushing here
+          // only fights the gather-back easing — a slow standoff that keeps
+          // the frame loop awake long after every deselect. Let them finish;
+          // the last few px are sub-visible at graph zoom anyway.
+          if (!spreadCenter && Math.hypot(n.ox || 0, n.oy || 0) < 4 &&
+              Math.hypot(m.ox || 0, m.oy || 0) < 4) continue;
           // eligibility FIRST: on phones, context–context overlaps in the frozen
           // base layout are deliberately NOT fixed. Checking this before the
           // movement flags / push metrics is load-bearing — an ignored overlap
@@ -978,8 +1054,14 @@ function separateDisplayed() {
             n.ox -= ux * push * wn; n.oy -= uy * push * wn;
             m.ox += ux * push * wm; m.oy += uy * push * wm;
             // desktop: the nudge is a TARGET adjustment too (see applySpread) —
-            // phones don't ease, their fixes are already permanent via the snap
-            if (!phone) {
+            // but ONLY while a selection is active, and only for visible-scale
+            // pushes. On DESELECT the belt nodes glide back to a base layout
+            // that is already clean (declutter at every freeze) — folding the
+            // glide's transient overlap fixes into the permanent target left
+            // residual drift after every select/deselect cycle and the frame
+            // loop never idled again. Sub-tolerance pushes (<0.5px) are always
+            // transient. Phones don't ease — their fixes are permanent via the snap.
+            if (!phone && spreadCenter && push > 0.5) {
               n.sepAx = (n.sepAx || 0) - ux * push * wn; n.sepAy = (n.sepAy || 0) - uy * push * wn;
               m.sepAx = (m.sepAx || 0) + ux * push * wm; m.sepAy = (m.sepAy || 0) + uy * push * wm;
             }
@@ -989,12 +1071,34 @@ function separateDisplayed() {
     }
     if (!moved) break;
   }
+  // safety cap on the PERMANENT separation adjustments (desktop): they
+  // accumulate for as long as displayed nodes overlap, and on a layout that
+  // is still denser than the belts expect, an unbounded accumulation reads as
+  // the graph slowly expanding forever after each select/deselect. Capped at
+  // a generous few radii per node — plenty to clear any real overlap fix,
+  // never enough to drift. (Owner report 2026-10-24: select/deselect used to
+  // settle back to steady; it must keep doing so.)
+  if (!phone) for (const n of vis) {
+    if (n.sepAx === undefined) continue;
+    const cap = n.r * 2 + 110;
+    if (n.sepAx > cap) n.sepAx = cap; else if (n.sepAx < -cap) n.sepAx = -cap;
+    if (n.sepAy > cap) n.sepAy = cap; else if (n.sepAy < -cap) n.sepAy = -cap;
+  }
   if (movedAny) spreadDirty = true;   // a render is needed
   // loop-stopping condition with a tolerance: pair distances converge toward
   // their minimum asymptotically (each pass closes half the overlap) but never
   // reach it exactly, so "any movement" would keep the frame loop alive
   // forever. Sub-half-pixel pushes are invisible — treat them as settled.
-  sepMoved = sepMaxPush > 0.5;
+  // WATCHDOG: a persistent push balanced against the gather-back easing is a
+  // stable standoff (push ≈ easing rate × offset) — a node pinned mid-glide,
+  // burning a frame loop forever over a sub-2px overlap nobody can see. Real
+  // browsers usually dissolve these through timing jitter; don't rely on it.
+  // After 300 frames (5s) of continuous micro-pushing the pass concedes: the
+  // loop goes idle, and the next interaction (wake → setSpread) resets it.
+  if (sepMoved && sepMaxPush < 3) sepAwake++;   // micro-fight frames only (real animation resets the count)
+  else if (!sepMoved) sepAwake = 0;
+  if (sepAwake > 300) sepConceded = true;   // latch: never re-arm until the spread state changes
+  sepMoved = sepMoved && !sepConceded;
 }
 function applySpread(dt) {
   if (!G) return;
@@ -1170,17 +1274,29 @@ function declutter() {
   let maxR = 2;
   for (const n of vis) if (n.r > maxR) maxR = n.r;
   const CELL = Math.max(48, maxR * 2 + 8);
-  const ITER = 60, STRENGTH = 0.6, PAD = 3;
+  const STRENGTH = 0.6, PAD = 3;
   const gkey = (gx, gy) => (gx + 4096) * 8192 + (gy + 4096);   // integer grid keys (see separateDisplayed)
   vis.forEach((n, i) => { n._i = i; });
-  for (let it = 0; it < ITER; it++) {
+  /* A purely local pass JAMS in dense regions: long chains of nodes push
+     each other with nowhere to go, so the pair count stalls well above
+     zero and the layout would freeze with chronic overlaps — overlaps the
+     display-separation pass then re-fights every frame, keeping the frame
+     loop (and its CPU/battery cost) awake forever after every deselect.
+     When a pass stops making progress, give every node a tiny outward
+     nudge so the jammed chain has an escape direction; the nudge stops the
+     moment the pair count falls again, so the growth is bounded (~a
+     hundred px) and only happens when the layout is genuinely too tight.
+     Bounded hard: 420 passes max, exits early the moment a pass finds no
+     overlap at all. */
+  let prevPairs = Infinity, stall = 0, radialNudges = 0;
+  for (let it = 0; it < 420; it++) {
     const grid = new Map();
     for (const n of vis) {
       const k = gkey(Math.floor(n.x / CELL), Math.floor(n.y / CELL));
       let a = grid.get(k); if (!a) { a = []; grid.set(k, a); }
       a.push(n);
     }
-    let moved = false;
+    let pairs = 0;
     for (const n of vis) {
       const gx = Math.floor(n.x / CELL), gy = Math.floor(n.y / CELL);
       for (let ox = -1; ox <= 1; ox++) for (let oy = -1; oy <= 1; oy++) {
@@ -1192,7 +1308,7 @@ function declutter() {
           let d = Math.hypot(dx, dy);
           const min = n.r + m.r + PAD;
           if (d >= min) continue;
-          moved = true;
+          pairs++;
           let ux, uy;
           if (d > 0.01) { ux = dx / d; uy = dy / d; }
           else { const ang = hash01(n.id) * 6.2832; ux = Math.cos(ang); uy = Math.sin(ang); d = 0.01; }
@@ -1203,7 +1319,16 @@ function declutter() {
         }
       }
     }
-    if (!moved) break;   // fully separated early — done
+    if (pairs === 0) break;   // fully separated — done
+    if (pairs >= prevPairs) stall++; else stall = 0;
+    prevPairs = pairs;
+    if (stall >= 6 && radialNudges < 300) {
+      radialNudges++;
+      for (const n of vis) {
+        const d = Math.hypot(n.x, n.y);
+        if (d > 1) { n.x += (n.x / d) * 1.2; n.y += (n.y / d) * 1.2; }
+      }
+    }
   }
 }
 /* a node being dragged has its offset folded into its base position so the
@@ -1259,7 +1384,7 @@ function restart(fit) {
   // settle re-runs the collision pass and fits; several-fold faster load.
   if (fit) {
     const mobile = window.matchMedia && window.matchMedia('(max-width:920px)').matches;
-    warmup(warmStart ? (mobile ? 240 : 420) : (mobile ? 900 : 1600));
+    warmup(warmStart ? (mobile ? 200 : 320) : (mobile ? 700 : 1250));
     warmStart = false;
     fitAfterWarmup = true;
   }
@@ -1639,7 +1764,7 @@ function frame() {
     // generous 30ms budget is used — roughly 2.5x faster wall-clock arrange
     // than the old 12ms cap with the identical final layout.
     const t0 = performance.now();
-    while (warmTicks > 0 && performance.now() - t0 < 30) { step(); warmTicks--; }
+    while (warmTicks > 0 && performance.now() - t0 < 40) { step(); warmTicks--; }
     needsRender = true;
     if (warmTicks === 0) {
       freezeSim();

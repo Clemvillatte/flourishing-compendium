@@ -1,7 +1,7 @@
 {
  "baton": "dos6",
- "agent": "worker-pplx-dos6-1024d",
- "clocked_in": "2026-10-24T06:00:08+00:00",
+ "agent": "worker-pplx-dos6-1024e",
+ "clocked_in": "2026-10-24T06:11:40+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-dos6-1024d",
@@ -26,6 +26,15 @@
    "at": "2026-10-24T06:00:08+00:00",
    "from": "worker-pplx-dos6-1024f",
    "reason": "free"
+<<<<<<< HEAD
+=======
+  },
+  {
+   "by": "worker-pplx-dos6-1024e",
+   "at": "2026-10-24T06:11:40+00:00",
+   "from": "worker-pplx-dos6-1024d",
+   "reason": "released"
+>>>>>>> 2745e17cb (graph: fix thinker-era overlaps and select/deselect instability (owner reports 2026-10-24))
   }
  ],
  "released": true,
