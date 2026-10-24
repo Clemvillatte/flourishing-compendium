@@ -45,15 +45,15 @@ never have to select a thumbnail.
 | Anxiety | Franz von Stuck, Dissonanz | A dissonant, unsettled classical scene: unease without a named threat. |
 | Happiness | Van Gogh, corner of garden with butterflies | Light, warmth and small movement: everyday happiness rather than triumph. |
 | Cognition | Magritte, Le Savoir | A door standing open in a sky: knowledge as a threshold, thinking about thinking. |
-| Decision-Making | Caroline Walker, Chess | A figure on a terrace seen through window slats: the weighing pause before a step, choice framed by what is visible and what is not. |
+| Decision-Making | Escher, Day and Night | The tessellated field where day and night, black birds and white, flow into each other: two directions taken from one ground, the shape of weighing alternatives. |
 | Attention | Hasui, Soshu Maekawa no ame | One figure moving through falling rain: attention as weathering the moment, concentration in the print's fine lines. |
-| The Self | Jawlensky, Mystischer Kopf | A face reduced to its essential lines: the self as both face and question. |
-| Motivation | Wu Guanzhong, sunrise over Guilin | Rising light over peaks: what pulls a person forward. |
+| The Self | Magritte, Les Bijoux indiscrets | A face gazing out from the back of a hand holding nothing: the self as both the looker and the thing looked at. |
+| Motivation | Monet, La route rouge près de Menton | The red road winding up through the hills toward the lit summit: the pull that moves a person forward, painted as a direction. |
 | Goals | Liu Dan, All Ready | Poppies from closed bud to full flower: aims at their stages, the goal as a bloom still opening. |
 | Agency | Chirico, Ettore e Andromaca | Two figures as jointed puppets who nonetheless act: agency inside determinism. |
 | Behaviour | Utrillo, La rue animee | An animated street: repeated small actions making a life. |
 | Others | Renoir, promenade au bord de la mer | Two figures walking together: companionship as the sociocultural lens. |
-| Body | O'Keeffe, Red Canna | Close bodily organic form: the body felt from inside rather than seen. |
+| Body | O'Keeffe, Blue Morning Glory | A close organic form opening from darkness: the body felt from inside rather than seen. |
 | Uncertainty | Magritte, L'empire des lumieres | A night house under a daylight sky: the paradox of not knowing which world one stands in. |
 | Overload & Overwhelm | Hokusai, Kanagawa oki nami ura | The wave: more coming at the boat than it can take in. |
 
@@ -62,5 +62,9 @@ woodblock traditions with European modern painting, but holds to
 one register — muted, contemplative palettes (olive, sage, ochre,
 indigo, soft reds; no neon or pop saturation), figure-and-landscape
 subjects, and one crop ratio — so the grid reads as a single gallery
-rather than a search-results page. The palette band was checked
-against the rendered crops, not assumed from filenames.
+rather than a search-results page. The palette band and every
+assignment were checked against the rendered crops (full 19-work
+review at true proportions, 2026-10-24), not assumed from filenames.
+The one deliberate exception is the flagship: Matisse's Joy of Life
+runs brighter than the rest on purpose — it is the featured card at
+the forefront of the programme, and its vividness marks it as such.
