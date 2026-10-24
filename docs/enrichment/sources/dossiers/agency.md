@@ -100,6 +100,14 @@ dossier_check.py exit 0 on docs/enrichment/dossiers/agency.md before
 every push this session (57 card links, 14 headers, 3 external
 carriers after the QC revision; 53 before it).
 
+Revision 3 (verification pass): fresh coverage sweep found and
+added two on-theme cards (Pragmatism; Identified versus introjected
+motivation; 59 links); gloss audit against full card bodies repaired
+the Freedom, Flow and Autonomy-supportive leadership lines; voice
+audit run (dossier_voice_audit.py), five rather-than scaffolds
+recast, four legitimate qualifications left standing; checker exit 0
+after each change.
+
 Revision 2 (QC pass): Nearby terms block added; the manufactured
 divergence rewritten as an unresolved contrast with the contradiction
 explicitly unverified; story loglines repaired against full card
