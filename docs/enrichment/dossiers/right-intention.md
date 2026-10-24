@@ -23,9 +23,9 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 [The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the grouping that places view and intention together under wisdom, alongside ethics and concentration.
 
-[Karma](https://clemvillatte.github.io/flourishing-compendium/#card=Karma): the Buddha's definition of karma as intention makes right intention the path's karma-work; what is done deliberately through body, speech or mind sets results going.
+[Karma](https://clemvillatte.github.io/flourishing-compendium/#card=Karma): the Buddha's definition of karma as intention makes this factor the place where practice touches what karma is; what is done deliberately through body, speech or mind sets results going.
 
-[Right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view): the factor that precedes intention; the resolve follows the seeing, and the first sermon's listing puts resolve straight after view and before any speech or action.
+[Right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view): the factor listed just before intention; SN 45.8 names right view, then right resolve, then right speech and right action, so the resolve sits between the seeing and any conduct.
 
 The Magga-vibhanga Sutta gives the definition:
 
@@ -37,7 +37,7 @@ And the Nibbedhika Sutta makes intention the hinge of action:
 
 ### The first resolve: renunciation
 
-The path's word for the first resolve is nekkhamma, going out; the wiki's positive rendering is simplicity.
+The wiki's positive rendering of the first resolve is simplicity.
 
 [The insatiability of craving](https://clemvillatte.github.io/flourishing-compendium/#card=The%20insatiability%20of%20craving): Schopenhauer's structural claim about desire: wanting does not end with getting, because wanting keeps regenerating itself.
 
@@ -57,7 +57,7 @@ The path's word for the first resolve is nekkhamma, going out; the wiki's positi
 
 The Two Sorts of Thinking discourse sets the standard the renunciation-thought is held to:
 
-> "And as I remained thus heedful, ardent, & resolute, thinking imbued with renunciation arose in me. I discerned that 'Thinking imbued with renunciation has arisen in me; and that leads neither to my own affliction, nor to the affliction of others, nor to the affliction of both. It fosters discernment, promotes lack of vexation, & leads to Unbinding.'" ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)): Primary text; quoted passages checked.
+> "And as I remained thus heedful, ardent, & resolute, thinking imbued with renunciation arose in me. I discerned that 'Thinking imbued with renunciation has arisen in me; and that leads neither to my own affliction, nor to the affliction of others, nor to the affliction of both. It fosters discernment, promotes lack of vexation, & leads to Unbinding." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)): Primary text; quoted passages checked.
 
 ### The second resolve: freedom from ill will
 
@@ -83,13 +83,13 @@ The wiki's positive rendering is goodwill.
 
 [Realistic conflict theory](https://clemvillatte.github.io/flourishing-compendium/#card=Realistic%20conflict%20theory) and [Intergroup contact](https://clemvillatte.github.io/flourishing-compendium/#card=Intergroup%20contact): the study of where ill will between groups comes from, and the finding that structured contact reduces it.
 
-The training the discourse prescribes for the ill-will-thought is abandonment without negotiation:
+The training the discourse prescribes for the ill-will-thought is stated plainly, it is abandoned:
 
 > "Whenever thinking imbued with ill will had arisen, I simply abandoned it, dispelled it, wiped it out of existence." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)): Primary text; quoted passages checked.
 
 ### The third resolve: harmlessness
 
-The wiki's positive rendering is refusing to add suffering.
+The wiki's positive rendering is refusing to add suffering. The Stoic and modern entries below are grouped here by editorial connection: the path factor names a resolve, the neighbors answer kindred questions about harm, and the compendium links them without claiming equivalence.
 
 [Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa): the Indic principle of non-harm; the compendium reads it as a starting floor: whatever else a practice does, it begins by doing no injury.
 
@@ -97,7 +97,7 @@ The wiki's positive rendering is refusing to add suffering.
 
 [Nonviolent communication](https://clemvillatte.github.io/flourishing-compendium/#card=Nonviolent%20communication): Rosenberg's process for reducing conflict in everyday interactions.
 
-[Judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm): the Stoic claim that events do not disturb people, the opinions about the events do (Enchiridion 5).
+[Judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm): the Stoic claim that events do not disturb people, the opinions about the events do (Enchiridion 5); a claim about disturbance, which the compendium connects editorially to the harmlessness resolve.
 
 [The inner friend](https://clemvillatte.github.io/flourishing-compendium/#card=The%20inner%20friend): Hecato's line via Seneca on making peace with oneself.
 
@@ -139,29 +139,31 @@ And the mechanism the discourse names is practice bending the mind:
 
 [Self-concordance theory](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordance%20theory): goals that fit developing interests and core values sustain effort and make attaining more rewarding.
 
-[Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the label for the next factor, right action; the map of this factor ends where the path moves from resolve to act.
+[Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the label for the right action factor, which comes fourth on the path, after right speech; the map of this factor ends where the path moves from resolve to conduct.
 
 ## Where the traditions genuinely disagree
 
+The two questions below are recorded as the dossier's open questions. Each is framed around one proposition with each side quoted from a carrier opened this session; where the carriers do not settle the matter, the wiki says so rather than manufacturing a disagreement.
+
 ### Is the resolve an abstention or a cultivation?
 
-The shared question: what does freedom from ill will ask of a mind? The Magga-vibhanga Sutta states the second resolve as an absence, being resolved on freedom from ill will, a turning away. The Karaṇīya Metta Sutta asks for more than absence:
+The proposition: freedom from ill will is the whole of the second resolve. The Magga-vibhanga Sutta states the resolve as an absence, being resolved on freedom from ill will. The Karaṇīya Metta Sutta describes goodwill as something cultivated without limit:
 
 > "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." ([Sutta Nipāta 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)): Primary text; quoted passages checked.
 
-The two positions answer the same question and part on whether the absence suffices or a boundless warmth must be actively grown. What remains unresolved is whether the abstention reading understates the factor or the cultivation reading adds a later ideal to a narrower instruction; the Two Sorts of Thinking discourse sits between them, treating non-ill will as a thought that is cultivated and, when harmfulness has been abandoned, kept.
+Whether the two suttas disagree is the open question. Each can be read as answering the other's need: the resolve names the absence, the metta instruction names the cultivation, and nothing in either text rejects the other. The Two Sorts of Thinking discourse sits between them, treating non-ill will as a thought that is cultivated and kept; the wiki does not settle which reading the factor itself commits to.
 
 ### Less wanting or better wanting?
 
-The shared question: what should a person's wanting be like? The path's instruction turns thinking away from the objects of wanting:
+The proposition: wanting is best cured by aiming it better. The path's instruction contrasts the sensuality-thought with the renunciation-thought, and warns that pursuing the former bends the mind:
 
 > "If a monk keeps pursuing thinking imbued with sensuality, abandoning thinking imbued with renunciation, his mind is bent by that thinking imbued with sensuality." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)): Primary text; quoted passages checked.
 
-The motivation science keeps the wanting and re-aims it. Ryan and Deci, summarising Kasser and Ryan's aspiration studies:
+The motivation science studies what people aim at and what aiming does to them. Ryan and Deci, summarising Kasser and Ryan's aspiration studies:
 
 > "They found, first, that placing strong relative importance on intrinsic aspirations was positively associated with well-being indicators such as self-esteem, self-actualization, and the inverse of depression and anxiety, whereas placing strong relative importance on extrinsic aspirations was negatively related to these well-being indicators." ([Ryan & Deci 2000, Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)): Scholarly review; cited passage checked.
 
-Both sides agree that some aims impoverish a life. They part on the remedy: a resolve away from wanting's objects, or a re-aiming of wanting at what satisfies needs. What remains unresolved is whether renunciation and re-aiming are two descriptions of one work or two different works; the compendium's own principle on the factor keeps the parallel deliberately loose, noting that the fit-between-goals-and-values finding is about fit, not about renunciation or harmlessness.
+The two findings run alongside each other: some aims impoverish a life, and the fit between aims and needs predicts well-being. What the carriers do not settle is whether the resolve on renunciation and the re-aiming of wanting are the same work described twice or two different works; the compendium's own principle on the factor keeps the parallel deliberately loose, noting that the fit-between-goals-and-values finding is about fit, not about renunciation or harmlessness. The wiki records this as an open question rather than a settled disagreement.
 
 ## Practice: variation, selection, retention
 
@@ -175,7 +177,7 @@ Both sides agree that some aims impoverish a life. They part on the remedy: a re
 
 3. [K150 — Values card-sort](https://clemvillatte.github.io/flourishing-compendium/#card=K150%20%E2%80%94%20Values%20card-sort): a deck of values sorted by importance until the top ten stand out.
 
-4. [K153 — Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): the if-then plan that carries an aim into situations and past decision fatigue.
+4. [K153 — Implementation intentions](https://clemvillatte.github.io/flourishing-compendium/#card=K153%20%E2%80%94%20Implementation%20intentions): the if-then plan that specifies situation and response in advance, reducing reliance on in-the-moment decision-making.
 
 5. [K154 — Mental contrasting (WOOP)](https://clemvillatte.github.io/flourishing-compendium/#card=K154%20%E2%80%94%20Mental%20contrasting%20%28WOOP%29): wish, best outcome, main obstacle, plan; the contrast that links aspiration to resistance.
 
@@ -185,7 +187,7 @@ Both sides agree that some aims impoverish a life. They part on the remedy: a re
 
 8. [K247 — Motivational interviewing (self-directed)](https://clemvillatte.github.io/flourishing-compendium/#card=K247%20%E2%80%94%20Motivational%20interviewing%20%28self-directed%29): the ruler question asked of a change you are ambivalent about.
 
-9. [K227 — Time-affluence audit](https://clemvillatte.github.io/flourishing-compendium/#card=K227%20%E2%80%94%20Time-affluence%20audit): a periodic review of whether you are trading time for money in ways that diminish well-being.
+9. [K227 — Time-affluence audit](https://clemvillatte.github.io/flourishing-compendium/#card=K227%20%E2%80%94%20Time-affluence%20audit): a periodic review of whether the trades of time for money can be reversed.
 
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the morning sentence, or the enough line, or the goodwill phrase has what the theme offered; what stays is a matter of fit between the resolve and the life it enters.
 
@@ -213,4 +215,4 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### Harmlessness at the far end
 
-[ST086 — The Bodhisattva and the Tigress](https://clemvillatte.github.io/flourishing-compendium/#card=ST086%20%E2%80%94%20The%20Bodhisattva%20and%20the%20Tigress): the bodhisattva finds a tigress too weak from hunger to feed her cubs and lies down where she can reach him; the tradition marks the far end of the spectrum on purpose, to orient the ordinary cases.
+[ST086 — The Bodhisattva and the Tigress](https://clemvillatte.github.io/flourishing-compendium/#card=ST086%20%E2%80%94%20The%20Bodhisattva%20and%20the%20Tigress): the bodhisattva finds a tigress too weak from hunger to feed her cubs and lies down where she can reach him; compassion as a willingness to be spent, the tradition's extreme case placed at the edge of the map on purpose, to orient the ordinary ones.
