@@ -17,3 +17,10 @@ Continues the same timed session after p1s release; no new timer. Released p1t b
 - Added Dewey's own counterweight: reflection can itself avoid action. Removed the unsupported “usually” promise that one ending starts to feel right, and the arbitrary week-long imaginative exercise. The source's unifying versus overriding concerns is accurately distinguished.
 - Fresh Plain words describes the felt conflict without the machine/movies metaphor or a guaranteed resolution. Imagined job alternatives, checking assumed hours/travel and retaining the checking habit supply variation/selection/retention.
 - No empirical decision-improvement effect claimed. Inherited parallels/reflections and whole-concept claims are not certified; no independent-advisor verdict claimed.
+
+## Taper verification
+
+- Combined scoped validator: all 30 p1s items plus P033/P076, 32 checked and zero failures against baseline 02e14954f. Prose counts range 148-252; no frontmatter change. Protected principle statements, link markup and reflections passed the validator's baseline checks.
+- Own cumulative page delta: 29 principles modified; B078/B114/B150 verified unchanged. This does not count concurrent workers' unrelated changes.
+- Three p1s reciprocal records resolve to existing concept and principle targets and contain nonempty reader-facing reasons. Supervisor integration remains outside this worker's scope.
+- Public workflow scan caught two remaining “the page cites” glosses in released p1s. Returning to that free baton for the final own-item correction pass; no further p1t page work planned.
