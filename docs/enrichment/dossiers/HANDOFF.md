@@ -74,6 +74,45 @@ format) and set a new standard. Verbatim substance, do not lose it:
    (the owner's own example), Wisdom and Judgement. Anger is clearly
    wanted — it was the owner's illustration of the format.
 
+## Owner feedback of 2026-10-24 (second round) — meta-text openers banned
+
+The owner reviewed the published dossiers and rejected the formulaic
+opener every one of them had absorbed from the first exemplars:
+"This dossier is a map, not an essay. A reader who thinks ... The lines
+are short on purpose ... The compendium's wider aim runs through the
+page". In the owner's words it sounds "extremely AI and lame" on top of
+being unnecessary. The correction is two-sided: fix every dossier that
+carries it, and change the exemplars and modalities (README structure
+item 5, the checker's banned-phrase rule) so no agent replicates it.
+
+What the owner wants instead: an opening that starts from the theme's
+own substance — a definition, a proposition, a complement, a
+contradiction, a solution, anything — decided by thinking about what is
+most suitable to the dossier at hand in its reality and context, not by
+following a formula. OWNER CLARIFICATION, same day: the ban is not
+limited to the quoted excerpts; it is any type of meta-text that sounds
+AI-generated — "How to read this page", "This dossier takes/maps...",
+narration of what the lines are doing, editorial-process notes, page-
+self-description of any kind. Where a boundary with a neighbouring
+dossier needs stating, state it as a fact about the theme, not about the
+page. The owner's stated fear: exemplars lead to some sort of
+industrial formulaic output. So: "map, not essay" in item 1 above was
+an internal design instruction about coverage and line length; it was
+never meant to be quoted back to readers. The v2 structural rules
+(exhaustive coverage, concise lines, divergences, practice, story) all
+stand unchanged.
+
+Direction for the flagship: the owner wants a version of Genuine
+Flourishing that feels less like a plain list of concepts and
+principles and more like an interwoven, coherent and engaging thread, a
+conversation being created to explore the topic. If it is good it
+becomes the new exemplar and the other dossiers are reworked to match.
+The owner's own sketch of a possible direction for it: define
+flourishing, link it to its common root with "flower", see what it
+seems to mean for people at first glance, introduce some conflict, then
+define "genuine", both in its meaning of true and in its Latin root
+(genus), and let those threads run through the material.
+
 ## Current state of the deliverables
 
 - docs/enrichment/dossiers/the-self.md — The Self v1 (narrow exemplar,

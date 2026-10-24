@@ -48,6 +48,30 @@ opened for it.
    checker carries a migration list (see dossier_check.py) and a
    dossier leaves the list only when its Story section lands.
 
+5. **The opening paragraph and all self-narration (owner-directed
+   2026-10-24, binding)** — no reader-facing text may describe the page
+   itself. That means the opening paragraph AND every later passage:
+   no "How to read this page", no "This dossier takes/maps/groups...",
+   no "the aim is that a reader can...", no narrating what the lines
+   are doing ("each line gives the entry's opening claim", "the
+   sections below say what is held"), no explaining the editorial
+   process ("these groupings are editorial", "the boundary is drawn
+   below"). The owner's clarification: the ban is not limited to one
+   excerpt; it is any type of meta-text that sounds AI-generated.
+   Write instead about the theme itself: a definition, a tension, a
+   claim, a contrast with a neighbouring theme, whatever this theme in
+   its own reality calls for. Where a boundary between two dossiers
+   needs stating, state it as a fact about the theme ("feeling good
+   and life being about something are different things, and the wiki
+   holds the difference on its own cards"), not as a fact about the
+   page. The checker enforces a floor of banned phrases (README and
+   HANDOFF carry the full rule); passing the checker is not licence
+   for meta-text it cannot see. Exhaustiveness and concision are shown
+   by the page, never announced. Exemplars set the standard of
+   evidence and structure, not sentence formulas. The owner's stated
+   fear, honoured here: exemplars lead to industrial formulaic output
+   unless each writer reasons afresh.
+
 Reader-facing evidence phrases (never workflow terms): "Primary text; quoted
 passage checked", "Scholarly interpretation; cited passage checked", "Study
 abstract; quoted passage checked", "Further reading; not assessed".

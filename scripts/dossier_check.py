@@ -92,6 +92,44 @@ def main(path):
     if not re.search(r'^> ', md, re.M):
         problems.append('no "> question" blockquote under the title')
 
+    # OWNER-DIRECTED 2026-10-24: no meta-text openers. The first prose
+    # paragraph after the question must be substantive (a definition, a
+    # tension, a claim about the theme), never a narration of the page's
+    # own format. These phrases are banned everywhere in the dossier
+    # body (README structure item 5; the pattern was rejected by the
+    # owner as AI-sounding and formulaic). OWNER CLARIFICATION: the list
+    # below is only a mechanical FLOOR — the rule is broader: any AI-
+    # sounding self-narration of the page is banned; passing this list is
+    # not licence for meta-text it cannot see.
+    BANNED_META = [
+        'this dossier is a map',
+        'map, not an essay',
+        'a reader who thinks',
+        'a reader who asks',
+        'a reader who says',
+        'the lines are short on purpose',
+        "the compendium's wider aim runs through",
+        'the compendium\u2019s wider aim runs through',
+        'open this page and see everything',
+        'every entry that bears on',
+        'grouped by the question it answers',
+        'how to read this page',
+        'this dossier takes the',
+        'this dossier maps',
+        'this page groups',
+        'the aim is that a reader',
+        'each line gives the entry',
+        'each with a card link',
+    ]
+    body_after_question = re.sub(r'^> .*$', '', md, flags=re.M)
+    for phrase in BANNED_META:
+        if phrase in body_after_question.lower():
+            problems.append(
+                'banned meta-text opener phrase: %r — the opening must '
+                'start from the theme\u2019s own substance (a definition, a '
+                'tension, a claim), never describe the page to the '
+                'reader; see docs/enrichment/dossiers/README.md item 5' % phrase)
+
     headers = re.findall(r'^##+ (.+)$', md, re.M)
     if not headers:
         problems.append('no ## subtheme headers')
