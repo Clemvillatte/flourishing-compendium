@@ -188,3 +188,19 @@ story cards at narrative level and do not restate their historical or
 psychological claims. The selection mirrors the map's subthemes (what the
 self is taken to be, the observing self, the self under another's eyes,
 the narrative self, identity over a life, the self in the body).
+
+Revision (worker-pplx-dossiers-1024e, 2026-10-24): external
+verification of the Story section's retained claims. Carriers opened
+this session: Bauby's blink-dictated memoir verified (Wikipedia, the
+NYT review of 15 June 1997, and publisher pages: locked-in syndrome,
+the memoir dictated by blinking his left eyelid); Sartre's keyhole
+passage verified against the Stanford Encyclopedia's Sartre entry and
+Zahavi's paper on the look (Being and Nothingness, Part III: the
+footsteps in the hall, the involuntary apprehension of oneself as an
+object in the eyes of another, shame as the recognition of being that
+object). The remaining the-self loglines carry narrative content the
+story cards state directly (the Butterfly Dream, the Mind as Mirror,
+the Truman ending, the prince and the beggar, the chariot of Milinda,
+the sky and the weather, Ricoeur and McAdams's narrative work,
+Nietzsche's three metamorphoses, the phantom-hand clinical reports,
+Zhuangzi's hunchback), with no verbatim quotation.
