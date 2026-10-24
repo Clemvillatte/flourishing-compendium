@@ -15,7 +15,9 @@ Lawrence Kohlberg built the theory on people's reasoned responses to moral dilem
 
 ### The sequence and its critics
 
-The theory claims a fixed order: the sequence does not vary, though the rate of progression and the end stage reached vary by individual, and the justification's logic, not its content, assigns the stage ([Haidet et al., 2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12668541/)). I carrie the theory's best-known critique in a linked story and concept: Carol Gilligan's different voice, on which moral maturity is also voiced as care and relationship, not only as justice ([ST246 — Gilligan's Different Voice]; see [[Gilligan's ethics-of-care theory]]).
+The theory claims a fixed order, and later longitudinal work gives the claim a context: over a three-year period, "the stage of moral development did not change substantially (i.e., by more than half a stage) for 39 (72%) of the students", and "the overall mean change in stage was not significant" ([Patenaude, Niyonsenga and Fafard, 2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12668541/)). The levels are not merely theoretical, either: in the pandemic study above, 53% of the pediatric residents reasoned postconventionally at baseline against 7% of a general-population group, while 64% of the general population remained preconventional against 23% of the residents.
+
+The theory's best-known critique lives in a linked story and concept: Carol Gilligan's different voice, on which moral maturity is also voiced as care and relationship, not only as justice ([[ST246 — Gilligan's Different Voice]]); see [[Gilligan's ethics-of-care theory]].
 
 ### Here
 
@@ -50,4 +52,4 @@ Developmental · Psychological science
 ## Sources
 
 - [Jean-Tron, Ávila-Montiel, Hill-de, Márquez-González, Chapa-Koloffon, Ávila-Hernández, Núñez-Benítez, Muñoz-Hernández and Garduño-Espinosa, "How the COVID-19 pandemic affects the moral reasoning of pediatric residents and the general population", BMC Medical Education 23 (2023), 380, PubMed record 37226125](https://pubmed.ncbi.nlm.nih.gov/37226125/) — the three levels stated verbatim
-- [Haidet et al., "Changes in students' moral development during medical school: a cohort study", Canadian Medical Association Journal 168 (2003), pp. 840-4, PubMed record 12668541](https://pubmed.ncbi.nlm.nih.gov/12668541/) — the fixed-sequence claim and the stage-scoring rule
+- [Patenaude, Niyonsenga and Fafard, "Changes in students' moral development during medical school: a cohort study", Canadian Medical Association Journal 168 (2003), pp. 840-4, PubMed record 12668541](https://pubmed.ncbi.nlm.nih.gov/12668541/) — the longitudinal stability data (the abstract does not state the fixed-sequence or stage-scoring claims; the earlier citation of it for those claims was removed)
