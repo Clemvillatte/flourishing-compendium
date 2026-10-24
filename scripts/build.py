@@ -41,12 +41,19 @@ def parse_md(text):
             fm['schema'] = int(v)
         else:
             fm[k] = json.loads(v)
-    # reflections block (exact reversal of the writer)
+    # reflections block (exact reversal of the writer). The block is uniquely
+    # marked, so it may sit anywhere in the file: backlink pipelines append
+    # sections after it (t2a/t2b thinker glosses, 2026-10-24), and an EOF
+    # anchor silently dropped 81 pages from fcAuthored (supervisor-1024f fix).
     refl = None
-    m = re.search(r'\n\n<!-- fc: reflections\n(.*)\n-->$', rest, re.S)
+    m = re.search(r'\n\n<!-- fc: reflections\n(.*?)\n-->', rest, re.S)
     if m:
         refl = m.group(1).split('\n%%\n')
-        rest = rest[:m.start()]
+        tail = rest[m.end():]
+        if tail.strip():
+            rest = rest[:m.start()] + '\n' + tail.lstrip('\n')
+        else:
+            rest = rest[:m.start()]
     if rest.startswith('\n'):
         rest = rest[1:]
     return fm, rest, refl

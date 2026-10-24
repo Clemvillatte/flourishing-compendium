@@ -231,9 +231,9 @@ def main(proposal_names=None, dry_run=False):
             else:
                 ms = re.search(r'^##\s*Sources\s*$', e['body'], re.M)
                 if not ms:
-                    # insert BEFORE a trailing reflections comment: the build's reflections
-                    # regex needs the comment at EOF (supervisor-c0de5a17 fix, 2026-10-20)
-                    mr = re.search(r'\n*<!-- fc: reflections\n.*\n-->\s*$', e['body'], re.S)
+                    # insert BEFORE a trailing reflections comment (anywhere in
+                    # the body — not EOF-anchored; supervisor-1024f fix, 2026-10-24)
+                    mr = re.search(r'\n*<!-- fc: reflections\n.*?\n-->', e['body'], re.S)
                     sec = f"\n\n## Related concepts\n\n- [[{link}]] — {why}\n"
                     if mr:
                         e['body'] = e['body'][:mr.start()].rstrip('\n') + sec + '\n' + e['body'][mr.start():].lstrip('\n')
