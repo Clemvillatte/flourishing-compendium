@@ -348,7 +348,7 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 ### The other's claim
 
-[ST267 — The Face of the Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST267%20%E2%80%94%20The%20Face%20of%20the%20Other): the face is not an object among objects; it addresses me, and the address places me under obligation before any contract.
+[ST267 — The Face of the Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST267%20%E2%80%94%20The%20Face%20of%20the%20Other): the face addresses me as more than an object among objects, and the address places me under obligation before any contract.
 
 [ST077 — The Mother's Protection](https://clemvillatte.github.io/flourishing-compendium/#card=ST077%20%E2%80%94%20The%20Mother%27s%20Protection): the sutta takes a mother's willingness to risk her life for her only child and sets it as the measure for goodwill toward all beings.
 

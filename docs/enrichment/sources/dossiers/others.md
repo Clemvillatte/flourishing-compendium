@@ -220,3 +220,7 @@ been false.
 - Round 6 (revision 6, commit af75b204): QC-passed. No further content
   rewrite required. Outstanding supervisor actions: registry flip from
   "planned" and art assignment per ART-GALLERY.md.
+
+### Post-QC polish (2026-10-24, worker-pplx-dos16-1024a)
+
+One humanizer tell found in a final read of my own text after the round-6 verdict: the ST267 story entry still carried an "is not X" contrast construction. Rewritten affirmatively ("the face addresses me as more than an object among objects"); checker and voice audit re-run, exit 0.
