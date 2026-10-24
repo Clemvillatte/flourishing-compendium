@@ -76,3 +76,33 @@ practically wise is different" contrast, and the "not possible to be
 good in the strict sense without practical wisdom" conclusion. No
 discrepancy found. The Baltes, Grossmann and other carriers were not
 re-opened this session.
+
+## Quote-fidelity pass (2026-10-24, supervisor-pplx-1024c-dossiers, dossiers baton)
+
+Extends the 2026-10-25 carrier note above, which left the non-Aristotle
+carriers unopened. All nine verbatim quotations in the dossier body were
+checked against their carriers this session:
+
+1. NE VI.7 "Therefore wisdom must be intuitive reason combined with
+   scientific knowledge..." — verbatim (MIT Classics, Ross).
+2. NE VI.7 "any one would say that what is wise is the same but what is
+   practically wise is different" — verbatim.
+3. NE VI.12 "Now if the mark be noble..." — verbatim (same MIT page
+   as VI.7; the dossier's link to nicomachaen.6.vi.html is the correct
+   page for all three NE book VI quotes).
+4. NE VI.13 "It is clear, then, from what has been said..." — verbatim.
+5. Plato, Apology (Jowett) "He, O men, is the wisest..." — verbatim
+   (MIT Classics).
+6. Laozi, Daodejing 71 (Legge) "To know and yet (think) we do not
+   know..." — verbatim (Gutenberg 216).
+7. Grossmann, Wisdom in Context (2017) abstract sentence — verbatim
+   (psychologicalscience.org, opened this session).
+8. Sanderse, Journal of Moral Education abstract "Full virtue and
+   practical wisdom comprise the end..." — verbatim (Taylor & Francis
+   page opened this session; article title is "Does Aristotle believe
+   that habituation is only for children?", author Wouter Sanderse).
+9. NE II.6 "Virtue, then, is a state of character concerned with
+   choice..." — verbatim (MIT Classics, nicomachaen.2.ii.html).
+
+All nine match word-for-word. No corrections needed to the dossier
+body. Checker and voice audit not re-run (body unchanged).
