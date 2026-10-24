@@ -2455,3 +2455,21 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   Note for supervisors: the supervisor baton was STALE at launch time
   (supervisor-pplx-gf-1024b, 22+ min silent) — this agent is a candidate to
   take it after Priority 1.
+
+## Agent launch record (2026-10-24, launcher session 13b2b15d)
+
+- Owner requested a supervisor launch, Path A.
+- Supervisor: account bussaotunerdbeo+r9kut@outlook.com (Perplexity account
+  bussaotune30146, Free plan). Task URL:
+  https://www.perplexity.ai/computer/tasks/19eb8e1b-bf0c-4992-8a32-b1bcefb440d7
+  Launched at 2026-10-24 ~14:33 UTC with a supervisor prompt built on the
+  canonical worker methodology (run-clock, no-idle, taper; token filled,
+  never stored in the repo). Role per OPERATIONS.md: take the supervisor
+  baton (stale at launch — supervisor-pplx-gf-1024b), pull-and-review deltas,
+  advisor QC sampling, resolve flags, publish dossiers (registry flip
+  planned→published is supervisor-only; 16 planned dossiers had complete
+  files awaiting review), run enrich_apply.py integration, mint bands, keep
+  handoff.md/QC log/PROGRESS.md current; supervising tasks take priority,
+  band work between passes; never voluntarily end monitoring.
+  Known minor artifact: the fallback-ladder rungs are numbered with a
+  duplication (2/3 appear twice) — cosmetic, does not affect the role.
