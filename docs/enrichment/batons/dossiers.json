@@ -1,7 +1,7 @@
 {
  "baton": "dossiers",
  "agent": "worker-pplx-dossiers-1024e",
- "clocked_in": "2026-10-24T05:25:33+00:00",
+ "clocked_in": "2026-10-24T05:56:37+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-dossiers-1023b",
@@ -44,6 +44,13 @@
    "at": "2026-10-24T05:25:33+00:00",
    "from": "supervisor-pplx-dossiers-1024b",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-dossiers-1024e",
+   "at": "2026-10-24T05:56:37+00:00",
+   "from": "worker-pplx-dossiers-1024e",
+   "reason": "stale (31 min)"
   }
- ]
+ ],
+ "released": false
 }
