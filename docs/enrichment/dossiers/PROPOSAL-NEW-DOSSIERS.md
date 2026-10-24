@@ -26,9 +26,10 @@ self-abandonment, Envy, Compassion, Loneliness, Love, Hope, Awe, Pride, Equanimi
 The survey below looked for clusters that are significant to the mission (genuine
 flourishing, alleviation of suffering, wisdom development) and are NOT covered by a
 published or planned dossier, and not already sitting in the backlog. Method: title
-sweeps across content/ (concepts, kernels, principles, sayings, stories), then actually
-opening the cards behind the hits. Counts below are only what I verified by opening
-files; where the evidence is thin I say so.
+sweeps across content/ (concepts, kernels, principles, sayings, stories), then full-text
+sweeps for stragglers the titles miss, then actually opening the cards behind the hits.
+Every card listed below as verified was opened and read this session; where the evidence
+is thin I say so.
 
 ## Proposals, ranked
 
@@ -44,6 +45,14 @@ Verified supporting cards (opened):
 - concepts/The meaning of suffering.md (Frankl, attitude as the last freedom)
 - concepts/The avoidance of suffering.md (avoidance as negatively reinforcing flight; Second Noble Truth)
 - concepts/Stuckness as suffering.md (dukkha read through the Second Noble Truth)
+- concepts/Dukkha.md (Dhammacakkappavattana: birth, aging, death, sorrow, lamentation are stressful)
+- concepts/Four Noble Truths.md (the four tasks: comprehend, abandon, realize, develop)
+- concepts/Tanha.md (craving as the origination of stress)
+- concepts/Karuna.md (compassion for suffering)
+- concepts/Limit situations (Grenzsituationen).md (Jaspers: death, suffering, guilt as the walls we hit)
+- concepts/Judgment adds the harm.md (the mechanism by which judgment turns pain into suffering)
+- concepts/Attitudinal values.md (Frankl's three routes to meaning, attitude among them)
+- concepts/Compassion.md (basic kindness coupled with the wish to relieve suffering)
 - principles B001 Face suffering directly, B006 Craving is the engine of suffering,
   B069 Don't shoot the second arrow (pain vs suffering), B099 Respond to suffering with
   the wish to relieve it, B182 Separate pain from suffering, E064 Meaning through the
@@ -51,6 +60,8 @@ Verified supporting cards (opened):
   SP095 Convert suffering into understanding, Y011 Prevent suffering before it arrives,
   SE026 Common humanity, AF035 Avoidance works short-term and maintains suffering
 - stories ST059 The Poisoned Arrow and ST078 The Two Arrows
+- further full-text sweep hits not yet opened: The body-mind unity in pain,
+  Chronic pain acceptance (also cited under Acceptance below)
 
 Draft opening question: "What is the difference between pain and suffering, and what
 does suffering ask of the person carrying it?"
@@ -79,10 +90,19 @@ Verified supporting cards (opened):
 - concepts/The catalogue of virtues.md (NE II.6 definition of virtue as mean)
 - concepts/Virtue development research.md (Sanderse, habituation and practical wisdom)
 - concepts/Character strengths (Peterson & Seligman).md (signature strengths exercise)
-- plus the unopened-but-listed family: The chain of virtue, The rehearsal of virtue,
-  The joy of virtue, Natural virtue, Shamefastness as quasi-virtue, Flexibility as
-  virtue, Gentleness as virtue, Strength as virtue, Character development, Friendship
-  shapes character, Designing for virtue, Designing the environment for virtue
+- concepts/The chain of virtue.md (acts to habits to character, NE Book II)
+- concepts/The rehearsal of virtue.md (training plus practice)
+- concepts/Natural virtue.md (Aristotle: natural virtue vs full virtue)
+- concepts/Character development.md (NE II: neither by nature nor contrary to it)
+- concepts/Friendship shapes character.md (NE IX: the company we keep shapes us)
+- concepts/Arete.md (a thing's own excellence)
+- concepts/Habituation.md (Aristotle's acquisition route for virtue)
+- concepts/Sophrosyne.md (the virtue as a mean)
+- plus the listed family (title/full-text sweep, not yet opened): The joy of virtue,
+  Shamefastness as quasi-virtue, Flexibility as virtue, Gentleness as virtue,
+  Strength as virtue, Proper pride (megalopsychia), Moral identity, Reverence,
+  Role ethics, Designing for virtue, Designing the environment for virtue,
+  Phronesis (already anchored in Wisdom)
 
 Draft opening question: "Can character actually be built, and which virtues are worth
 building it from?"
@@ -107,11 +127,16 @@ Verified supporting cards (opened):
 - concepts/Narrative identity theory McAdams.md (identity in adulthood is a story)
 - concepts/The narrative fallacy.md (Taleb: the danger of the stories we weave)
 - concepts/Narrative therapy.md (externalising: problems as social constructions)
+- concepts/Emplotment (mise en intrigue).md (Ricoeur: how a life becomes a plot)
+- concepts/Life story model.md (the story's anatomy)
+- concepts/Meaning-making.md (the research tradition on revising beliefs after violations)
 - kernels K142 Narrative reconstruction, K229 Narrative redemption, K339 The third story,
   K148 Variation against the story
 - plus the listed family: Narrative identity, The narrative self, Narrative redemption
   sequences, Narrative repair, Reconfiguration of narrative, Narrative as meaning-making,
-  Narrative empathy, and the principle families CO010, CO061, E083, E087, PP024, SE011, SE042
+  Narrative empathy, Narrative configuration, Hermeneutics of the self,
+  Intergenerational transmission, and the principle families CO010, CO061, E083, E087,
+  PP024, SE011, SE042
 
 Draft opening question: "Is a person their life story, and who gets to tell it?"
 
@@ -135,9 +160,14 @@ Verified supporting cards (opened):
 - concepts/The dizziness of freedom.md (Kierkegaard: anxiety as the dizziness of freedom)
 - concepts/Radical freedom.md (Sartre: the for-itself in a factical situation)
 - concepts/Situated freedom.md (the Sartrean paradox)
+- concepts/Anguish (angoisse).md (Sartre: afraid not of falling but of throwing myself)
+- concepts/Second-order desires.md (Frankfurt 1971: freedom of the will and the person)
+- concepts/Psychological reactance.md (Brehm 1966: threats to freedom motivate restoration)
+- concepts/Natural liberty versus the chains.md (Rousseau: born free, everywhere in chains)
 - plus the listed family: Freedom, Positive freedom, Escape from freedom (Fromm),
-  The Cynic's freedom, The interdependence of freedoms, story ST273 The Dizziness of
-  Freedom, and the principle families B198, E031, E076, P087, P192, R106, Y128, K315
+  The Cynic's freedom, The interdependence of freedoms, Necessitarianism,
+  Domination critique, story ST273 The Dizziness of Freedom, and the principle
+  families B198, E031, E076, P087, P192, R106, Y128, K315
 
 Draft opening question: "What is freedom actually for, and why do people run from it?"
 
@@ -159,12 +189,15 @@ necessity, death acceptance) in one cluster.
 Verified supporting cards (opened):
 - concepts/Acceptance.md (the ACT definition)
 - concepts/Radical acceptance.md (what the skill asks)
+- concepts/Amor fati.md (Nietzsche: perceiving the necessary characters as the beautiful)
+- concepts/Experiential avoidance theory.md (the ACT account of what acceptance undoes)
+- concepts/Action commitment.md (committed action linked to chosen values)
 - kernels K123 Radical acceptance and K385 Cognitive acceptance
 - principles AF039 (willingness to have a feeling without fighting it) and
   AF040 (accepting a feeling vs accepting a circumstance)
 - plus the listed family: Acceptance alongside values-based action, Acceptance and
   Commitment Therapy, Chronic pain acceptance, Death acceptance, Serene acceptance of
-  necessity, D098 Accept what destiny brings (li ming)
+  necessity, Functional contextualism, D098 Accept what destiny brings (li ming)
 
 Draft opening question: "What becomes possible when the war against what is stops?"
 
@@ -190,7 +223,13 @@ Verified supporting cards (opened):
 - concepts/Nature exposure.md (Bratman 2015: 90-minute walk effects)
 - concepts/Nature as teacher.md (Zhuangzi: heaven and earth do not speak of their beauties)
 - concepts/Intrinsic value of nature.md (Taylor: living things matter for their own sake)
+- concepts/Ecological self.md (the self as in, of, and for nature)
+- concepts/Ecological grief.md (grief for ecological losses, species, landscapes)
+- concepts/Ecological gratitude.md (gratitude directed at the natural world)
+- concepts/Deep ecology.md (shallow versus deep)
 - plus the listed family: The book of nature, Restorative environments, Second nature,
+  Ecological identity, Ecological relationality, Ecological mindfulness,
+  Ecological citizenship, Ecological ethics, Critique of mastery, Dwelling,
   principles S005 Live according to nature, SP005 Treat yourself as part of nature,
   R120 Ecological justice, story ST345 The Army Enlisted Against Nature
 
@@ -203,8 +242,11 @@ Body (physiology), Gratitude and Sadness & Grief (their ecological sections).
 Risks: section placement is an open question. The five current sections have no
 natural home for it; a new theme needs three or more dossiers per the binding section
 rules, so it would sit as a single-card section or wait for companions (the owner may
-have candidates). Honest note: the cluster is real but more compact than Suffering or
-Virtue; roughly a dozen cards of substance.
+have candidates). The full-text sweep upgraded this cluster considerably: the
+ecological family (ecological self, identity, relationality, mindfulness, gratitude,
+grief, citizenship, ethics, deep ecology, critique of mastery, dwelling) is a genuine
+second wing beyond the nature-exposure research, so the evidence base is stronger than
+the title sweep alone suggested, though still more compact than Suffering or Virtue.
 
 ### 7. Curiosity & the Love of Knowing (slug: curiosity)
 
@@ -217,7 +259,8 @@ Verified supporting cards (opened):
 - concepts/Curiosity.md (Aristotle, Metaphysics: men philosophize owing to their wonder)
 - concepts/Epistemic curiosity.md (Berlyne/Litman definition, I-type and D-type)
 - concepts/Information-gap theory of curiosity.md (Loewenstein)
-- plus the listed family: Curiosity (Neugier), Beginner's mind, principles B092
+- plus the listed family: Curiosity (Neugier), Beginner's mind, Faith seeking
+  understanding (Anselm's fides quaerens intellectum), Dwelling, principles B092
   Investigate with curiosity (dhammavicaya), CO070, PP058, E029, story ST344 Suzuki
   Keeps the Beginner's Mind
 
@@ -259,7 +302,7 @@ dossiers, and the owner may prefer to fold curiosity into Wisdom as a map group.
 | 3 | The Life Story | The Mind's Life | strong: 10+ concepts, 4 kernels, wide principle family |
 | 4 | Freedom | Flourishing & Wisdom or The Mind's Life | strong: 8 concepts, wide principle family, 1 story |
 | 5 | Acceptance | Life Challenges | moderate: 7 concepts, 2 kernels, needs Equanimity boundary test |
-| 6 | Nature & the Living World | open question (see risks) | moderate: ~12 cards, placement unresolved |
+| 6 | Nature & the Living World | open question (see risks) | moderate-plus after full-text sweep: research wing plus the ecological family |
 | 7 | Curiosity | The Mind's Life | thin: 8-10 cards, honest caveat above |
 
 My recommendation, if the owner wants the minimum strong set: mint Suffering, Virtue &
