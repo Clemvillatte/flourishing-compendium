@@ -44,10 +44,14 @@ verbatim quote was introduced for them in this dossier.
 ## Deliberate scope decisions
 
 - Polyvagal theory glossed with the caveat: the card itself is thin
-  (one sentence, no carrier link); the gloss states the theory's
-  content and marks clinical uptake ahead of evidence without citing
-  a specific critique (no critique was opened).
+  (one sentence, no carrier link); the first draft's claim that
+  clinical uptake has outrun its evidence was a generalization not
+  on the card and was replaced in pass 2 with a statement of what
+  the card holds.
 - The practice section is labeled editorial; trial criterion stated.
+- The K194 slow-breathing kernel's claim that the frequency maximizes
+  HRV and activates the parasympathetic system is the kernel's own,
+  carried as such (the claim was not independently verified).
 - ST047 (McCandless) and ST048 (Kusama) are topic/body-tagged cards
   read and included; their loglines describe events, per pass-2
   lesson from Behaviour.

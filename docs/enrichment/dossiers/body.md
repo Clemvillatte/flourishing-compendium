@@ -2,7 +2,7 @@
 
 > What does the body know, and how does it participate in suffering and flourishing?
 
-The body is not the shell the mind rides in. Every tradition that has thought carefully about flourishing arrives at some version of that sentence, and the modern sciences have begun to catch up: the signals the body sends upward are part of how emotion is made, the rhythms of breath and heart are part of how calm is made, and the wear of chronic stress is written into the organs. The phenomenologists give the strongest form of the claim: the body is not a thing a subject has, but the medium through which a world is had. The map below holds both literatures, and the honest divergences between them.
+The body is not only the shell the mind rides in. The scientific literatures give it three jobs: the signals the body sends upward are part of how emotion is made, the rhythms of breath and heart are part of how calm is made, and the wear of chronic stress is written into the organs. The phenomenologists give the claim its strongest form: the body is not a thing a subject has, but the medium through which a world is had. The map below holds both literatures side by side, and the divergences are left where they stand.
 
 ## Nearby terms
 
@@ -44,7 +44,7 @@ Breath: the theme's most practical entry, in the fourth group; the classical tra
 
 [Interoception](https://clemvillatte.github.io/flourishing-compendium/#card=Interoception): the general term for the signals; the card carries the James-Lange lineage in brief.
 
-[Interoceptive awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Interoceptive%20awareness): the perception of internal states and the meta-awareness of them as information; the Frontiers definition the card quotes calls interoception a vital process regulating life at the most basic levels while modulating emotional experience at the most complex.
+[Interoceptive awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Interoceptive%20awareness): the perception of internal states and the meta-awareness of them as information rather than noise; the Frontiers definition the card quotes treats interoception as a process that regulates life at basic levels while modulating emotional experience at the most complex.
 
 [Interoceptive inference](https://clemvillatte.github.io/flourishing-compendium/#card=Interoceptive%20inference): Seth's predictive account; feelings not read off raw signals but inferred from generative models of them.
 
@@ -64,7 +64,7 @@ Breath: the theme's most practical entry, in the fourth group; the classical tra
 
 [Allostatic load](https://clemvillatte.github.io/flourishing-compendium/#card=Allostatic%20load): McEwen's wear and tear from chronic over- or under-activity of systems built for change; the price of accommodation to stress.
 
-[Polyvagal theory (Porges)](https://clemvillatte.github.io/flourishing-compendium/#card=Polyvagal%20theory%20%28Porges%29): distinct dorsal and ventral vagal branches proposed to map to emotional states; a theory whose clinical uptake has outrun its evidence.
+[Polyvagal theory (Porges)](https://clemvillatte.github.io/flourishing-compendium/#card=Polyvagal%20theory%20%28Porges%29): distinct dorsal and ventral vagal branches proposed to map to emotional states; the card is thin on carriers and the theory is held as theory, not verdict.
 
 [Heart rate variability theory](https://clemvillatte.github.io/flourishing-compendium/#card=Heart%20rate%20variability%20theory): beat-to-beat variation as an index of self-regulation; Thayer and Lane's neurovisceral integration account.
 
@@ -98,7 +98,7 @@ Breath: the theme's most practical entry, in the fourth group; the classical tra
 
 ## Practice: variation, selection, retention
 
-The practice side of this theme is unusually concrete. [Breath anchoring](https://clemvillatte.github.io/flourishing-compendium/#card=K100%20%E2%80%94%20Breath%20anchoring): rest attention on the sensation of breathing, note where attention went, return; the return is the practice. [Body scan](https://clemvillatte.github.io/flourishing-compendium/#card=K102%20%E2%80%94%20Body%20scan): move attention slowly through the body, noticing sensation where there is some and absence where there is none. [Interoceptive awareness](https://clemvillatte.github.io/flourishing-compendium/#card=K111%20%E2%80%94%20Interoceptive%20awareness): a brief daily check-in on heartbeat, breathing, hunger, tension, temperature. [Slow breathing (5 to 6 breaths per minute)](https://clemvillatte.github.io/flourishing-compendium/#card=K194%20%E2%80%94%20Slow%20breathing%20%285%20to%206%20breaths%20per%20minute%29): five to six breaths a minute for five minutes, before stressful events and as a daily reset. [Interoceptive exposure](https://clemvillatte.github.io/flourishing-compendium/#card=K118%20%E2%80%94%20Interoceptive%20exposure) for the panic side. [Body-first emotion work](https://clemvillatte.github.io/flourishing-compendium/#card=K172%20%E2%80%94%20Body-first%20emotion%20work) for the naming side. [Lived-body description](https://clemvillatte.github.io/flourishing-compendium/#card=K304%20%E2%80%94%20Lived-body%20description) and [Body-schema noticing](https://clemvillatte.github.io/flourishing-compendium/#card=K307%20%E2%80%94%20Body-schema%20noticing) for the phenomenological wing.
+The practice side of this theme is unusually concrete. [Breath anchoring](https://clemvillatte.github.io/flourishing-compendium/#card=K100%20%E2%80%94%20Breath%20anchoring): rest attention on the sensation of breathing, note where attention went, return; the return is the practice. [Body scan](https://clemvillatte.github.io/flourishing-compendium/#card=K102%20%E2%80%94%20Body%20scan): move attention slowly through the body, noticing sensation where there is some and absence where there is none. [Interoceptive awareness](https://clemvillatte.github.io/flourishing-compendium/#card=K111%20%E2%80%94%20Interoceptive%20awareness): a brief daily check-in on heartbeat, breathing, hunger, tension, temperature. [Slow breathing (5 to 6 breaths per minute)](https://clemvillatte.github.io/flourishing-compendium/#card=K194%20%E2%80%94%20Slow%20breathing%20%285%20to%206%20breaths%20per%20minute%29): five to six breaths a minute for five minutes; the kernel states the frequency maximizes heart-rate variability and activates the parasympathetic nervous system, and that claim is the kernel's own. [Interoceptive exposure](https://clemvillatte.github.io/flourishing-compendium/#card=K118%20%E2%80%94%20Interoceptive%20exposure) for the panic side. [Body-first emotion work](https://clemvillatte.github.io/flourishing-compendium/#card=K172%20%E2%80%94%20Body-first%20emotion%20work) for the naming side. [Lived-body description](https://clemvillatte.github.io/flourishing-compendium/#card=K304%20%E2%80%94%20Lived-body%20description) and [Body-schema noticing](https://clemvillatte.github.io/flourishing-compendium/#card=K307%20%E2%80%94%20Body-schema%20noticing) for the phenomenological wing.
 
 This is an editorial combination, not a validated recipe. The trial is: pick one body practice, run it daily for two weeks, and judge by what changes in the body's felt presence in ordinary situations. Retain what steadies; drop what does not.
 
@@ -116,7 +116,7 @@ This is an editorial combination, not a validated recipe. The trial is: pick one
 
 [ST265 — Christy Brown's A](https://clemvillatte.github.io/flourishing-compendium/#card=ST265%20%E2%80%94%20Christy%20Brown%27s%20A): cerebral palsy, one controllable foot, a letter A scraped on the kitchen floor; a body-subject constituted around the limb that answered.
 
-[ST048 — Yayoi Kusama Paints the Hallucinations](https://clemvillatte.github.io/flourishing-compendium/#card=ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): hallucinated dots since childhood, lived with, painted at architectural scale.
+[ST048 — Yayoi Kusama Paints the Hallucinations](https://clemvillatte.github.io/flourishing-compendium/#card=ST048%20%E2%80%94%20Yayoi%20Kusama%20Paints%20the%20Hallucinations): Kusama has seen fields of dots since childhood, has lived voluntarily in a Tokyo psychiatric hospital since 1977, and paints the hallucinations at architectural scale in the Infinity Mirror Rooms.
 
 [ST047 — McCandless and the Bus](https://clemvillatte.github.io/flourishing-compendium/#card=ST047%20%E2%80%94%20McCandless%20and%20the%20Bus): the Alaskan wilderness, four months, a journal's last legible line.
 
