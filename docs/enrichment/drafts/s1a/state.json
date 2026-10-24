@@ -1361,7 +1361,27 @@
      "note": "advisor QC passed; ready for supervisor review"
     }
    ]
+  },
+  "s1a-040": {
+   "status": "returned",
+   "angle": "P165: Mill's 1826 crisis — analysis as the defensive gate, Wordsworth as the reopening",
+   "history": [
+    {
+     "t": "2026-10-24T13:55:55+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T13:57:25+00:00",
+     "to": "qc_pending",
+     "note": "first draft complete, story_check clean"
+    },
+    {
+     "t": "2026-10-24T13:58:52+00:00",
+     "to": "returned",
+     "note": "advisor QC: raw-source verification + chronology + narrowed P165 mapping required; WIP pushed"
+    }
+   ]
   }
  },
- "updated": "2026-10-23T11:48:59+00:00"
+ "updated": "2026-10-24T13:58:52+00:00"
 }
