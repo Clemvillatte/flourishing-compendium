@@ -34,4 +34,73 @@ historical and superseded):
 | https://sacred-texts.com/hin/ysp/ysp06.htm | Johnston on dharana as a preliminary | fetched | Opened, not quoted (alignment carried by card claims) |
 | https://www.accesstoinsight.org/tipitaka/an/an06.055.than.html | Sona's lute: tightening and loosening | raw HTML fetched with curl, checked | Supporting (tuning material; not quoted in the current text) |
 
+## Map, practice and story lines
 
+Every map line compresses the linked card's own opening claim. Cards
+opened and read this session for the map, practice and story lines:
+Right concentration, Eightfold Path, Samadhi, One-pointedness, Flow,
+Focused-attention meditation, Anchors in focused attention
+meditation, Sustained attention theory, Attention, Attention residue,
+Equanimity, Restlessness as weather, Anapanasati, Shamatha, Wu wei,
+Effortless action through long effort, Yoga — union of body, breath,
+and mind, Y021, Y073, Y074, Y075, Y076, Y078, B028, B095, B036, B020,
+B035, B042, D048, AT016, AT025, AT026, AT027, AT031, AT042, AT047,
+AT048, AT063, D057, P118, P119, P173, MO060, PP019, T041, K100, K105,
+K190, K391, K392, K417, ST061, ST064, ST138, ST307, ST325, ST352,
+ST391, Right view, Right intention, Right mindfulness. The D048 and
+AT031 bodies, including their supporting quotations, were read to the
+end this session; ST429 was diffed against ST391 and found identical
+except for its ID fields. All 61 card links in the dossier were
+validated by dossier_check.py against the content files. No other
+cards or carriers are cited.
+
+## Sweeps and exclusions
+
+Sweeps actually run this session, untruncated: full-text sweeps for
+samadhi/jhana/jhanas, absorption/absorbed, concentration, collectedness
+and Sona Sutta/SN 35.204 across content/; and title (filename) sweeps
+for right concentration, samadhi, jhana, collectedness, absorption,
+focus, flow, single-tasking, one-pointedness, unification,
+focused-attention, shamatha, anapanasati, tuning, lute, and the
+principle/kernel/story families listed in the card audit below. Inclusions with boundary
+reasons, recorded for the supervisor:
+
+- Joy: Spinoza's conatus-based joy, not jhana rapture; excluded.
+- S011 (the three topoi): Stoic discipline grouping; the attention
+  content it touches belongs to the Attention dossier boundary;
+  excluded.
+- ST429 (Backsliding into Abundance): duplicate title variant of
+  ST391, which is the story used; excluded as a duplicate.
+- Right view, Right intention, Right livelihood, Right speech: they
+  mention samadhi in passing and each has its own card and dossier;
+  linked via Nearby terms and the Eightfold Path card rather than
+  the map body, following the right-speech convention for sibling
+  factors.
+- Structure pages (B-S02, B-S04, Y Reference appendix): wiki
+  structure documents, not cards; excluded.
+- The wider absorption-mentioning family (the absorption and
+  concentration full-text sweeps return roughly 175 and 190 files
+  respectively): absorption as a research and aesthetic construct is
+  held at the Attention dossier boundary, stated in the intro and
+  Nearby terms; the concentration-family files were reviewed and the
+  decisions are recorded above, but the full absorption and
+  concentration candidate sets were boundary-held rather than
+  exhaustively reviewed file by file. This is recorded as a known
+  limit for the supervisor rather than claimed as complete
+  coverage.
+
+## Known limits, for the supervisor
+
+- The registry scope names "SN 35.204" for the Sona Sutta; the
+  carrier the card prints (and the one opened this session) is AN
+  6.55. The dossier follows the opened carrier and prints no sutta
+  number in the body; flagged in case the registry scope needs
+  correcting on the supervisor's side.
+- Artwork assignment for right-concentration is pending supervisor
+  selection (owner's collection); no artwork was assigned in this
+  dossier, per the mint note.
+- The primary-source library (docs/PRIMARY-SOURCES.md) holds owner
+  Drive folders, which were not fetched this session; the carriers
+  used here are the citable web editions that library's fallback
+  rule names (accesstoinsight, sacred-texts). The fallback condition
+  was not tested, only avoided.
