@@ -86,6 +86,26 @@ The research line's own definition:
 
 > "We define a purpose for learning as a goal that is motivated both by an opportunity to benefit the self and by the potential to have some effect on or connection to the world beyond the self" ([Yeager et al. 2014, JPSP](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf)) — Study abstract; quoted passage checked.
 
+### Purpose and goals
+
+The research tradition's working definition puts purpose in the vocabulary of goals:
+
+> "Purpose refers to highly motivating, long-term goals about which people are passionate and highly committed." ([Steger, Meaning in Life, Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter-abstract/212977120)) — Scholarly interpretation; cited passage checked.
+
+[Psychological well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Psychological%20well-being): Ryff's theory-guided measures of positive functioning, with purpose in life as one of the six dimensions alongside self-acceptance, positive relations, autonomy, environmental mastery and personal growth.
+
+[Self-concordant goals](https://clemvillatte.github.io/flourishing-compendium/#card=Self-concordant%20goals): goals consistent with a person's developing interests and core values; the self-concordance research finds they are pursued with more sustained effort, more often attained, and reaped for greater well-being.
+
+[Values-concordant goals](https://clemvillatte.github.io/flourishing-compendium/#card=Values-concordant%20goals): the same research line applied to goals aligned with the values a person actually holds.
+
+[Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals): Kasser and Ryan's intrinsic aspirations, affiliation, personal growth and community contribution, set against the extrinsic aspirations of wealth, fame and image.
+
+[Goal disengagement](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20disengagement): Wrosch's goal adjustment capacity, withdrawing effort and commitment from a goal that cannot be reached; the research links the capacity to well-being and health.
+
+[Superordinate goals](https://clemvillatte.github.io/flourishing-compendium/#card=Superordinate%20goals): the Robbers Cave remedy for intergroup hostility, goals of high appeal to both groups that cannot be met by one side alone.
+
+[Small steps, large vision](https://clemvillatte.github.io/flourishing-compendium/#card=Small%20steps%2C%20large%20vision): Weick's small wins, a series of wins at small but significant tasks revealing a pattern that attracts allies and lowers resistance to what comes next.
+
 ### Meaning made rather than found
 
 [Meaning-making](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-making): Crystal Park's research tradition: when events violate what people believe and want, they revise the event's meaning or the global meaning it violated until the gap closes; the model works at two levels, global and situational.
@@ -114,6 +134,10 @@ Frankl's formulation:
 
 [Legacy motivation research](https://clemvillatte.github.io/flourishing-compendium/#card=Legacy%20motivation%20research): Fox, Tost and Wade-Benzoni's review of the motive to build a lasting legacy, developed from intergenerational decision making, generativity and terror management theory.
 
+[Intergenerational responsibility](https://clemvillatte.github.io/flourishing-compendium/#card=Intergenerational%20responsibility): Hans Jonas's duties owed to people who do not yet exist and cannot return them, built for an age in which action reaches across generations.
+
+[The eternal contribution](https://clemvillatte.github.io/flourishing-compendium/#card=The%20eternal%20contribution): the compendium's reading of Nietzsche's eternal recurrence, the demon's proposal to live this life once more and innumerable times over, turned toward what a life leaves behind.
+
 ### The inner check
 
 [The daimon](https://clemvillatte.github.io/flourishing-compendium/#card=The%20daimon): Socrates' inner sign, described at his trial: present since childhood, it only forbids and never commands, and its silence is its only approval.
@@ -134,6 +158,8 @@ Frankl's formulation:
 
 > "There is no fate that cannot be surmounted by scorn." ([Camus, The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://rintintin.colorado.edu/~vancecd/phil150/Camus.pdf)) — Primary text; quoted passage checked.
 
+Entries with a claim on the title that were read and left out: [Elan vital](https://clemvillatte.github.io/flourishing-compendium/#card=Elan%20vital) is Bergson's metaphysics of life rather than a life's purpose, [Work engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Work%20engagement) and [Personal engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Personal%20engagement) are absorption constructs, and [Eudaimonic well-being](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20well-being) belongs to the Genuine Flourishing boundary.
+
 ## Where the traditions genuinely disagree
 
 ### Does life supply the meaning, or do we?
@@ -148,6 +174,22 @@ Camus's position, from the essay that carries his:
 
 Both answer the same question, whether a human life can be about something, and they part on the world's role: for Frankl life itself puts questions that wait to be answered; for Camus the world's silence is the final fact, and revolt, not answer, is the coherent stance. What remains unresolved is whether the felt answer-ability Frankl describes in the camps is a discovery about the world or a stance taken toward it; the wiki holds both without adjudicating, and the absurd cards and the logotherapy cards cite each other's territory without yielding.
 
+### Is the answer given, discovered, or built?
+
+A second, older disagreement runs underneath the first: when a person asks what their life is for, does the answer already exist somewhere, and if so where, in human nature, in the world, or nowhere until they make it? Aristotle's function argument locates it in human nature:
+
+> "…if this is the case, human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete." ([Aristotle, Nicomachean Ethics I.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)) — Primary text; quoted passage checked. The ellipsis marks the argument's long conditional run-up, reproduced in full at the carrier.
+
+Frankl locates it in the world, and refuses the general form of the question:
+
+> "the true meaning of life is to be discovered in the world rather than within man or his own psyche, as though it were a closed system." ([Frankl, Man's Search for Meaning, "The Essence of Existence"](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)) — Primary text; quoted passage checked.
+
+The constructivist tradition locates it in the person. Kelly's psychology of personal constructs holds that events carry no meaning of their own to be read off:
+
+> "Whatever the world may be, man can come to grips with it only by placing his own interpretations upon what he sees." ([Kelly, The Psychology of Personal Constructs](https://www.infoamerica.org/documentos_pdf/kelly02.pdf)) — Primary text; quoted passage checked.
+
+All three answer the same question and part on the source of the answer: nature, world, or person. What remains unresolved is whether the disagreement is real or verbal. Aristotle's function and Frankl's discovered meanings can be held together, as capacities given by nature answering tasks set by the world, and so can Kelly's constructions. The research tradition measures people's sense of meaning and its correlates, and is silent on the ground of it; the wiki holds all three without ranking them.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the shape of one's aims: a life that reads like a list of obligations with no author, purposes that are only self-oriented, work held as a job in the narrow sense, and meaning expected to arrive finished rather than made. The adaptive direction is an aim one is actually the author of, a direction that reaches beyond the self, work that can be entered as a calling, and meaning treated as something built through work, love and stance.
@@ -161,6 +203,12 @@ Both answer the same question, whether a human life can be about something, and 
 3. [Legacy letter](https://clemvillatte.github.io/flourishing-compendium/#card=K224%20%E2%80%94%20Legacy%20letter): a letter to be read after your death, written to one named person, covering what you learned, what you love and what you left unfinished.
 
 4. [Absurd-revolt practice](https://clemvillatte.github.io/flourishing-compendium/#card=K318%20%E2%80%94%20Absurd-revolt%20practice): for a situation that is genuinely absurd or unjust and cannot be changed, naming it without consolation and then choosing the next action inside it; stance work, in the spirit of Camus, not silver-lining work.
+
+5. [Eulogy exercise](https://clemvillatte.github.io/flourishing-compendium/#card=K151%20%E2%80%94%20Eulogy%20exercise): write the eulogy you would want delivered at your funeral, clarifying what you stood for by confronting mortality.
+
+6. [Service and creation](https://clemvillatte.github.io/flourishing-compendium/#card=K225%20%E2%80%94%20Service%20and%20creation): each week, one act of service or creation that outlasts the week, planted in the generativity research tradition.
+
+7. [Living the question](https://clemvillatte.github.io/flourishing-compendium/#card=K231%20%E2%80%94%20Living%20the%20question): Rilke's instruction to be patient toward all that is unsolved in the heart and to love the questions themselves, living them now rather than seeking answers that cannot yet be lived.
 
 The evidence limits are uneven across the list, and the kernels say so where it matters: the meaning audit rests on the self-concordance goal literature, the legacy letter on the life-review literature it formalises, and the revolt practice is an editorial exercise in Camus's spirit rather than a tested protocol.
 

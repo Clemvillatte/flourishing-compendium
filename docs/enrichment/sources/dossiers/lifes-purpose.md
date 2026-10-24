@@ -104,3 +104,57 @@ download this session.
 
 python3 scripts/dossier_check.py docs/enrichment/dossiers/lifes-purpose.md
 OK: 42 card links resolve, 12 headers, 15 external carriers (exit 0).
+
+## Revision 2 (worker-pplx-dos6-1024d, 2026-10-24)
+
+Concurrent-session merge. A second worker session under the same baton name
+pushed a complete dossier (commit 1ba24c243) while this session's revision 1
+was being drafted. The published version was kept as the base and this
+session's unique material was merged into it; nothing from either version's
+verified quotes was dropped.
+
+### Added in this revision
+
+- Subtheme "Purpose and goals" (7 entries): Psychological well-being (Ryff),
+  Self-concordant goals, Values-concordant goals, Eudaimonic motivation
+  intrinsic goals, Goal disengagement, Superordinate goals, Small steps large
+  vision, plus the Steger purpose definition quote (verified this session
+  against the OUP chapter abstract).
+- "Purposes beyond the self": Intergenerational responsibility, The eternal
+  contribution.
+- Exclusions line at the end of the map: Elan vital, Work engagement,
+  Personal engagement, Eudaimonic well-being, each with its reason.
+- Divergence subsection "Is the answer given, discovered, or built?"
+  (Aristotle function argument, Frankl discovered-in-the-world, Kelly
+  constructivist), all three quotes verified this session against opened
+  carriers (see below).
+- Selection kernels 5-7: K151 Eulogy exercise, K225 Service and creation,
+  K231 Living the question, each mirroring the kernel's own protocol.
+
+### Carriers opened this session and verified word-for-word
+
+- Aristotle, Nicomachean Ethics I.7, Ross translation (classics.mit.edu):
+  "…if this is the case, human good turns out to be activity of soul in
+  accordance with virtue, and if there are more than one virtue, in
+  accordance with the best and most complete." The leading ellipsis marks the
+  sentence's conditional run-up, reproduced in full at the carrier.
+- Frankl, Man's Search for Meaning PDF (antilogicalism.com): "the true
+  meaning of life is to be discovered in the world rather than within man or
+  his own psyche, as though it were a closed system." (The Essence of
+  Existence); also verified this session and used in revision 1: the
+  will-to-meaning sentence, the attitude-freedom sentence, the
+  questioned-by-life passage.
+- Kelly, The Psychology of Personal Constructs excerpt (infoamerica.org
+  kelly02.pdf): "Whatever the world may be, man can come to grips with it
+  only by placing his own interpretations upon what he sees."
+- Steger, Meaning in Life, Oxford Handbook of Positive Psychology chapter
+  abstract (academic.oup.com): "Purpose refers to highly motivating,
+  long-term goals about which people are passionate and highly committed."
+- Weber, Protestant Ethic ch. III (marxists.org): verified the Beruf
+  sentence this session; the published revision already carried it.
+
+### Validation
+
+python3 scripts/dossier_check.py docs/enrichment/dossiers/lifes-purpose.md
+after the merge: 58 card links resolve, 14 headers, 19 external carriers,
+exit 0.
