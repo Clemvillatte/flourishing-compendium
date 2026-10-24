@@ -41,12 +41,15 @@ padding the list.
 Evidence status, stated once for the whole document: the card descriptions below
 summarize what the linked cards themselves say with their own opened carriers (each
 card carries its source links; the writer of any minted dossier re-verifies every
-carrier they rely on). Separately, I opened and verified four external carriers
-directly this session, and those four claims carry their links inline:
+carrier they rely on). Separately, I opened and verified six external carriers
+directly this session, and those claims carry their links inline:
 [Bratman et al. 2015, PNAS](https://pmc.ncbi.nlm.nih.gov/articles/PMC4507237/),
 [Litman and Mussel 2013](https://drjlitman.net/papers/Litman-Mussel-2013.pdf),
-[Hayes et al. 2006](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf),
-[Seligman et al. 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf).
+[Hares et al. 2006](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf),
+[Seligman et al. 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf),
+the Zhuangzi ch. 22 passage at
+[26reads](https://www.26reads.com/library/92138-zhuangzi/22), and the Sartre entry
+at [the Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/sartre/).
 
 ## Proposals, ranked
 
