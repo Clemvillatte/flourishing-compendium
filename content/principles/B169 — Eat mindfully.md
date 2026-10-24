@@ -12,21 +12,30 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 169** — Eat mindfully
 
-MN 10 includes eating among the activities where full awareness is trained: eating, drinking, chewing and savoring appear in the sutta's list of daily activities the monk makes himself fully alert in. (MN 10.) Thich Nhat Hanh draws out the same daily practice from the eating side. (Peace Is Every Step, excerpt.)
+[MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) includes eating, drinking, chewing and savouring among the ordinary activities in which a monk trains full alertness. Thich Nhat Hanh likewise presents eating as an occasion to encounter the present:
 
 > "We can smile, breathe, walk, and eat our meals in a way that allows us to be in touch with the abundance of happiness that is available." (Thich Nhat Hanh, [Peace Is Every Step, excerpts](https://www.dhammatalks.net/Books10/Thich_Nhat_Hanh_Peace_is_Every_Step.htm))
 
-The compendium suggests choosing a regular meal as an occasion for practice.
+In Plum Village's [contemplations before eating](https://plumvillage.org/articles/news/new-contemplations-before-eating), attention also extends to the conditions that brought the meal:
+
+> This food is a gift of the earth, the sky, numerous living beings, and much hard and loving work.
+
+The [contemplations](https://plumvillage.org/articles/news/new-contemplations-before-eating) connect the meal with gratitude, compassion and service; tasting carefully is one entry into this wider practice. The compendium suggests starting with a regular meal rather than making another task of producing a special experience.
 
 **Plain words**
-As a compendium exercise, choose one meal and put the screen aside. Attend to the taste of one bite.
+Breakfast can be more than a gap between waking and work. There is food to taste, a body being fed, and effort by people you may never meet. Paying attention gives those ordinary facts a place in the meal. Nothing requires every mouthful to feel wonderful, or a distracted meal to become a personal failure.
 
-*For example:* Imagine eating the same breakfast on two mornings: once over a keyboard, once with only the bowl in front of you. Note what you actually tasted each time.
+For example: Someone eats the same breakfast on two mornings, once over a keyboard and once with only the bowl in front of him. He compares what he remembers tasting and whether he noticed being satisfied, then keeps the arrangement he finds worth repeating. This is an informal observation, not a weight-loss prescription.
 
 ## Sources
 
 - [MN 10, Satipatthana Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — full awareness in daily activities, eating among them
 - [Thich Nhat Hanh, Peace Is Every Step, excerpts](https://www.dhammatalks.net/Books10/Thich_Nhat_Hanh_Peace_is_Every_Step.htm) — eating our meals in touch with what is available
+- [Plum Village, New Contemplations Before Eating](https://plumvillage.org/articles/news/new-contemplations-before-eating) — the meal as a gift of living beings and work, with gratitude and service
+
+## Related concepts
+
+- [[Interbeing]] — attending to the conditions, living beings and labour that make a meal possible.
 
 ## Psychology parallels
 
