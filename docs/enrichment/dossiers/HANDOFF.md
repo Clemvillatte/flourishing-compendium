@@ -169,6 +169,21 @@ format) and set a new standard. Verbatim substance, do not lose it:
 
 ## Operations (how to work this band)
 
+- 2026-10-24 UPDATE (4), owner-directed 4TH SECTION — every dossier now
+  carries a Story section after Practice: `## Story: the stories that
+  carry the theme`, holding the compendium's stories that best
+  represent the theme's aspects, each with a story card link and a
+  one-line logline (a concrete incident, compressed from the story
+  card's own text, which the writer must actually open and read; no
+  abstract morals, no restating the cards' historical or psychological
+  claims). Subthemes mirror the map's aspects; the kernels stay in
+  Practice. Spec: README.md structure item 4. Enforcement:
+  scripts/dossier_check.py requires the section, with a migration list
+  of published dossiers that do not have it yet — every one of those
+  must be enriched with the section (that is owner-directed work, not
+  optional): enrich the dossier, run the checker, remove the dossier
+  from STORY_MIGRATION in dossier_check.py in the same commit.
+  Exemplars with the section done: the-self.md and anger.md.
 - 2026-10-24 UPDATE (3): owner-directed SECTION REDESIGN — the ten
   EEMM-mirrored groups are replaced by FIVE sections: Flourishing &
   Wisdom (flagship, first), Extended Evolutionary Meta Model (exactly

@@ -1,6 +1,6 @@
 {
   "mission": "Build ONE dossier in the published v2 format. Read docs/enrichment/dossiers/HANDOFF.md, README.md and DISAMBIGUATION.md first, then docs/enrichment/EXEMPLARS.md and docs/enrichment/HUMANIZER-SKILL.md.",
-  "standard": "The Self (docs/enrichment/dossiers/the-self.md) and Anger (anger.md) are the exemplars: exhaustive map (every wiki card on the theme, grouped by subtheme), real divergences with verbatim-checked quotes from opened carriers, Variation-Selection(+Retention) practice section, Nearby terms section per DISAMBIGUATION.md.",
+  "standard": "The Self (docs/enrichment/dossiers/the-self.md) and Anger (anger.md) are the exemplars: exhaustive map (every wiki card on the theme, grouped by subtheme), real divergences with verbatim-checked quotes from opened carriers, Variation-Selection(+Retention) practice section, Nearby terms section per DISAMBIGUATION.md; Story section (4th section, after Practice): the compendium's stories that best represent the theme's aspects, one-line loglines compressed from the story cards you actually open and read, with card links (spec: docs/enrichment/dossiers/README.md item 4; exemplars the-self.md and anger.md). If your dossier already exists without it, enrich the existing file with the section.",
   "deliverables": [
     "docs/enrichment/dossiers/<slug>.md (markdown of record)",
     "docs/enrichment/sources/dossiers/<slug>.md (evidence ledger, every quote verified word-for-word against an opened carrier)",
@@ -122,5 +122,6 @@
     }
   },
   "question_draft": "see registry.json question_draft for this slug (docs/enrichment/dossiers/registry.json) — starting point only; refine the question from your opened sources before publishing",
-  "full_text_sweep": "rg -il '<term>' content/ | sort  — run per family term after the title sweep to catch stragglers (cards whose body treats the term without it being in the title); verify substance by reading the card"
+  "full_text_sweep": "rg -il '<term>' content/ | sort  — run per family term after the title sweep to catch stragglers (cards whose body treats the term without it being in the title); verify substance by reading the card",
+  "story_section": "Owner-directed 2026-10-24, mandatory: every dossier carries a 4th section \"## Story: the stories that carry the theme\" after Practice. Loglines are concrete incidents compressed from the story cards' own text (open and read each story file you cite; never restate the cards' historical or psychological claims); subthemes mirror the map's aspects; kernels stay in Practice. dossier_check.py fails any dossier without it. Published dossiers lacking it sit on STORY_MIGRATION in scripts/dossier_check.py: enrich the file, then remove its slug from the list in the same commit."
 }

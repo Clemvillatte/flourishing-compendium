@@ -7,6 +7,13 @@ Checks (per docs/enrichment/dossiers/HANDOFF.md):
 2. Basic shape: title heading, question blockquote, at least one
    subtheme header, and at least one quote whose carrier link opens
    (URL check is manual; here we only require the carrier link exists).
+3. Story section (owner-directed 2026-10-24, README structure item 4):
+   every dossier carries a `## Story:` section after Practice, holding
+   at least one story card link. Published dossiers not yet enriched
+   sit on STORY_MIGRATION below and fail with instructions; a dossier
+   leaves the list in the same commit that adds its Story section.
+   In-progress and future dossiers are NOT grandfathered: the section
+   is part of the v2 format.
 
 Usage (from the repo root):
   python3 scripts/dossier_check.py docs/enrichment/dossiers/anger.md
@@ -18,6 +25,11 @@ import re
 import sys
 import os
 import urllib.parse
+
+# Published dossiers that do not carry the Story section yet (owner-
+# directed enrichment work). Remove the slug in the same commit that
+# adds the dossier's Story section.
+STORY_MIGRATION = ['affect', 'attention', 'genuine-flourishing', 'wisdom']
 
 CONTENT_DIRS = [
     'content/concepts', 'content/kernels', 'content/principles',
@@ -95,6 +107,46 @@ def main(path):
     elif not any(c in q for q in quotes for c in ext_carriers):
         problems.append('no quoted passage carries an external carrier link '
                         '(the opening question is not a quotation)')
+
+    # Story section (4th section, after Practice; README structure item 4)
+    m = re.search(r'^## Story:', md, re.M)
+    slug = os.path.splitext(os.path.basename(path))[0]
+    if not m:
+        if slug in STORY_MIGRATION:
+            problems.append(
+                'no "## Story:" section — this published dossier is on the '
+                'STORY_MIGRATION list: enrich it with the 4th section per '
+                'docs/enrichment/dossiers/README.md item 4 (stories that '
+                'best represent the theme, one-line loglines compressed from '
+                'the story cards, which you must open and read), then '
+                'remove the slug from STORY_MIGRATION in this script in '
+                'the same commit. Exemplars: the-self.md, anger.md')
+        else:
+            problems.append(
+                'no "## Story:" section (4th section after Practice, '
+                'owner-directed 2026-10-24) — see '
+                'docs/enrichment/dossiers/README.md item 4; exemplars: '
+                'the-self.md, anger.md')
+    else:
+        story_body = md[m.end():]
+        nxt = re.search(r'^## ', story_body, re.M)
+        if nxt:
+            story_body = story_body[:nxt.start()]
+        story_links = [urllib.parse.unquote(t) for t in CARD.findall(story_body)]
+        story_hits = [t for t in story_links
+                     if os.path.exists(os.path.join('content/stories', t + '.md'))
+                     or (re.match(r'^ST\d+$', t) and any(
+                         fn.startswith(t + ' ') or fn.startswith(t + chr(0x2014))
+                         for fn in os.listdir('content/stories')))]
+        if not story_hits:
+            problems.append(
+                'the Story section holds no story card link — it must offer '
+                'loglines for the stories that best represent the theme, '
+                'each with its card link (content/stories/)')
+        elif slug in STORY_MIGRATION:
+            problems.append(
+                'this dossier has its Story section — remove %r from '
+                'STORY_MIGRATION in this script (same commit)' % slug)
 
     if problems:
         print('FAIL %s' % path)

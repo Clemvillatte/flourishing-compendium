@@ -34,6 +34,19 @@ opened for it.
    action and its evidence limits. Retention: a light closing note —
    what people keep because it works for them. The practice page carries
    a sticky side table of contents for quick navigation of its headers.
+4. **Theme-Based story** (owner-directed 2026-10-24, after Practice, with
+   the kernels staying in Practice) — the compendium's stories that best
+   represent the theme's aspects, gathered in one place: each story gets
+   a card link and a one-line logline, a concrete incident or turning
+   point compressed from the story card's own text, never an abstract
+   moral. Grouped under subthemes that mirror the map's aspects. The
+   loglines retell the wiki's own story cards at narrative level and do
+   not restate the cards' historical or psychological claims. Follows
+   the same principle as the map: concise lines, not dense prose, and
+   every fact comes from a story file the writer actually opened.
+   Existing dossiers without the section must be enriched with it: the
+   checker carries a migration list (see dossier_check.py) and a
+   dossier leaves the list only when its Story section lands.
 
 Reader-facing evidence phrases (never workflow terms): "Primary text; quoted
 passage checked", "Scholarly interpretation; cited passage checked", "Study
