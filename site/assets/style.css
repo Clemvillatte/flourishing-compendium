@@ -1884,6 +1884,11 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 .dossier-chip:hover { color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 45%, transparent); }
 .dossier-chip.on { color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 60%, transparent); background:color-mix(in srgb, var(--gold) 8%, var(--bg)); }
 .dossier-eyebrow { font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:var(--gold-ink); margin-bottom:6px; }
+.dossier-section { margin-top:30px; }
+.dossier-section:first-child { margin-top:0; }
+.dossier-section-head { display:flex; align-items:center; gap:16px; margin-bottom:16px; }
+.dossier-section-label { font-family:'Fraunces',Georgia,serif; font-size:15px; font-weight:600; letter-spacing:.04em; color:var(--text); white-space:nowrap; }
+.dossier-section-rule { flex:1; height:1px; background:linear-gradient(to right, color-mix(in srgb, var(--gold) 50%, transparent), transparent); }
 .dossier-empty { margin:0 0 18px; }
 .dossier-roadmap { margin-top:30px; border-top:1px solid var(--line); padding-top:18px; }
 .dossier-roadmap-title { font-family:'Fraunces',Georgia,serif; font-size:14px; color:var(--muted); margin-bottom:10px; }

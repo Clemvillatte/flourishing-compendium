@@ -340,7 +340,7 @@ Flagged for other bands:
 
 Published (15): genuine-flourishing, wisdom, lifes-purpose, affect, anger, anxiety, happiness, cognition, decision-making, attention, the-self, motivation, goals, uncertainty, overload-overwhelm. All pass scripts/dossier_check.py (exit 0) and app.js is in sync with the markdown (a full --rebuild of all 15 produced no diff).
 
-Planned and banded, not started: agency (dos14), behaviour (dos15), others (dos16), body (dos17). Bands dos1, dos5 to dos13 are released; dos2, dos3, dos4 and dos6 were still held by live workers at the time of writing.
+Planned and banded, not started: agency (dos14), behaviour (dos15), others (dos16), body (dos17), and the 2026-10-24 second mint (supervisor-pplx-1024g): the Noble Eightfold Path section — right-view (dos18), right-intention (dos19), right-speech (dos20), right-action (dos21), right-livelihood (dos22), right-effort (dos23), right-mindfulness (dos24), right-concentration (dos25) — plus four affective states: gratitude (dos26), fear (dos27), sadness-and-grief (dos28), shame-and-guilt (dos29). Artwork for the twelve new planned dossiers is pending supervisor assignment from the owner's collection. The Dossiers grid now groups cards under labelled section dividers (owner-directed 2026-10-24); renderDossiers builds one section wrapper per group and the filter counts cards, not dividers (regression test: scripts/tests/test_dossier_sections.py).
 
 Notes for the next writer:
 - Pre-computed title inventories in some manifests were copied from other bands; run your own title sweep and full-text sweep.

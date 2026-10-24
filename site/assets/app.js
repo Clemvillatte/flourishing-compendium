@@ -10973,6 +10973,10 @@ window.fcDossiersData = {
     {
       "id": "challenges",
       "label": "Life Challenges"
+    },
+    {
+      "id": "eightfold-path",
+      "label": "The Noble Eightfold Path"
     }
   ],
   "roadmap": [
@@ -10995,6 +10999,66 @@ window.fcDossiersData = {
       "id": "body",
       "title": "Body",
       "group": "eemm"
+    },
+    {
+      "id": "right-view",
+      "title": "Right View",
+      "group": "eightfold-path"
+    },
+    {
+      "id": "right-intention",
+      "title": "Right Intention",
+      "group": "eightfold-path"
+    },
+    {
+      "id": "right-speech",
+      "title": "Right Speech",
+      "group": "eightfold-path"
+    },
+    {
+      "id": "right-action",
+      "title": "Right Action",
+      "group": "eightfold-path"
+    },
+    {
+      "id": "right-livelihood",
+      "title": "Right Livelihood",
+      "group": "eightfold-path"
+    },
+    {
+      "id": "right-effort",
+      "title": "Right Effort",
+      "group": "eightfold-path"
+    },
+    {
+      "id": "right-mindfulness",
+      "title": "Right Mindfulness",
+      "group": "eightfold-path"
+    },
+    {
+      "id": "right-concentration",
+      "title": "Right Concentration",
+      "group": "eightfold-path"
+    },
+    {
+      "id": "gratitude",
+      "title": "Gratitude",
+      "group": "affective-life"
+    },
+    {
+      "id": "fear",
+      "title": "Fear",
+      "group": "affective-life"
+    },
+    {
+      "id": "sadness-and-grief",
+      "title": "Sadness & Grief",
+      "group": "affective-life"
+    },
+    {
+      "id": "shame-and-guilt",
+      "title": "Shame & Guilt",
+      "group": "affective-life"
     }
   ]
 };
@@ -11023,21 +11087,24 @@ function renderDossiers(){
     chips.appendChild(c);
   });
   wrap.appendChild(chips);
-  const grid = el('div','acad-hall-grid');
+  /* Sections: cards grouped under labelled dividers, one grid per section.
+     The filter counts cards inside visible section wrappers (never the dividers). */
+  const gridHost = el('div');
   const empty = el('div','acad-empty dossier-empty');
   empty.textContent = 'No dossier published in this group yet. The roadmap below shows what is in preparation.';
   empty.style.display='none';
+  const sections = [];
   const syncChips = () => {
     Object.keys(chipEls).forEach(k=>{ chipEls[k].classList.toggle('on', filterState.group===k); chipEls[k].setAttribute('aria-pressed', filterState.group===k ? 'true' : 'false'); });
     let shown = 0;
-    grid.childNodes.forEach(card=>{
-      const show = filterState.group==='all' || card.dataset.group===filterState.group;
-      card.style.display = show ? '' : 'none';
-      if(show) shown++;
+    sections.forEach(sec=>{
+      const show = filterState.group==='all' || sec.group===filterState.group;
+      sec.el.style.display = show ? '' : 'none';
+      if(show) shown += sec.cards;
     });
     empty.style.display = shown ? 'none' : '';
   };
-  (data.dossiers||[]).forEach(d=>{
+  const buildCard = d => {
     const card = el('div','acad-hall dossier-card' + (d.featured ? ' featured' : ''));
     card.dataset.group = d.group || '';
     card.tabIndex = 0; card.setAttribute('role','button'); card.setAttribute('aria-label','Open dossier: ' + d.title);
@@ -11059,9 +11126,24 @@ function renderDossiers(){
     card.appendChild(body);
     card.onclick = () => { A.view='dossierDetail'; A.dossier=d.id; renderAcademy(); if(window.__fcRoute) window.__fcRoute.set('#dossier='+d.id); };
     card.onkeydown = (e)=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); card.onclick(); } };
-    grid.appendChild(card);
+    return card;
+  };
+  groups.forEach(g=>{
+    const cards = (data.dossiers||[]).filter(d=>(d.group||'')===g.id);
+    if(!cards.length) return;
+    const sec = el('div','dossier-section');
+    sec.dataset.group = g.id;
+    const head = el('div','dossier-section-head');
+    head.appendChild(el('span','dossier-section-label', g.label));
+    head.appendChild(el('span','dossier-section-rule'));
+    sec.appendChild(head);
+    const grid = el('div','acad-hall-grid');
+    cards.forEach(d=>{ grid.appendChild(buildCard(d)); });
+    sec.appendChild(grid);
+    gridHost.appendChild(sec);
+    sections.push({ el: sec, group: g.id, cards: cards.length });
   });
-  wrap.appendChild(grid);
+  wrap.appendChild(gridHost);
   wrap.appendChild(empty);
   syncChips();
   const roadmap = data.roadmap||[];

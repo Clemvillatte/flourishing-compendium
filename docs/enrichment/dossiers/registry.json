@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updated": "2026-10-24",
-  "note": "Section rules (owner-directed 2026-10-24): (1) Flourishing & Wisdom is the flagship first section - the eudaimonic trio. (2) The Extended Evolutionary Meta Model section holds EXACTLY the model's own dossiers: the six ACASMO dimensions (Affect, Cognition, Attention, Self, Motivation, Behaviour) plus its two levels of selection (Body = biophysiological, Others = sociocultural) - nothing else ever goes in it. (3) Themed sections are reader-facing life themes holding the SPECIFIC dossiers, not the EEMM umbrellas: The Affective Life (specific affective states), The Mind's Life (deciding, aiming, willing), Life Challenges (cross-cutting challenges). (4) A themed section must hold at least three dossiers a reader would expect together; a new theme is minted only when three or more planned dossiers cluster, otherwise the candidate sits in the backlog. (5) A family umbrella stays in the EEMM section; its specific family members live in the themed section (e.g. Affect is EEMM, Anger is The Affective Life).",
+  "note": "Section rules (owner-directed 2026-10-24): (1) Flourishing & Wisdom is the flagship first section - the eudaimonic trio. (2) The Extended Evolutionary Meta Model section holds EXACTLY the model's own dossiers: the six ACASMO dimensions (Affect, Cognition, Attention, Self, Motivation, Behaviour) plus its two levels of selection (Body = biophysiological, Others = sociocultural) - nothing else ever goes in it. (3) Themed sections are reader-facing life themes holding the SPECIFIC dossiers, not the EEMM umbrellas: The Affective Life (specific affective states), The Mind's Life (deciding, aiming, willing), Life Challenges (cross-cutting challenges). (4) A themed section must hold at least three dossiers a reader would expect together; a new theme is minted only when three or more planned dossiers cluster, otherwise the candidate sits in the backlog. (5) A family umbrella stays in the EEMM section; its specific family members live in the themed section (e.g. Affect is EEMM, Anger is The Affective Life). Owner-directed mint 2 (2026-10-24): new themed section The Noble Eightfold Path holds one planned dossier per path factor (right-view, right-intention, right-speech, right-action, right-livelihood, right-effort, right-mindfulness, right-concentration); four affective states minted as planned after card review (Gratitude, Fear, Sadness & Grief, Shame & Guilt); the remaining affective candidates sit in the backlog with scope-review questions. Artwork for the twelve new planned dossiers is pending supervisor assignment from the owner's collection.",
   "groups": [
     {
       "id": "flourishing",
@@ -28,6 +28,11 @@
       "id": "challenges",
       "label": "Life Challenges",
       "order": 5
+    },
+    {
+      "id": "eightfold-path",
+      "label": "The Noble Eightfold Path",
+      "order": 6
     }
   ],
   "dossiers": [
@@ -321,18 +326,185 @@
         "stress"
       ],
       "question_draft": "When the world gives more than a person can take in, what still works?"
+    },
+    {
+      "id": "right-view",
+      "title": "Right View",
+      "group": "eightfold-path",
+      "status": "planned",
+      "scope": "The first path factor: accurate understanding of the Four Noble Truths, the worldly and transcendent forms of right view (MN 9 Sammaditthi, Kaccanagotta, Mahacatarisaka), and right view as the forerunner of skillful qualities. Boundary against Cognition and Wisdom: those hold thinking and judgement in general; this holds the path's own account of seeing rightly.",
+      "nearby_terms": [
+        "right understanding",
+        "view",
+        "discernment",
+        "perspective"
+      ],
+      "question_draft": "What does the path mean by seeing things as they are, and what does that seeing do to a life?"
+    },
+    {
+      "id": "right-intention",
+      "title": "Right Intention",
+      "group": "eightfold-path",
+      "status": "planned",
+      "scope": "The second path factor: resolve on renunciation, freedom from ill will and harmlessness (SN 45.8), the translation variants (right resolve, right thought), and the compendium's positive renderings (simplicity, goodwill, refusing to add suffering). Boundary against Motivation and Goals: those hold the general science of wanting and pursuing; this holds the path's discipline of aim.",
+      "nearby_terms": [
+        "right resolve",
+        "intention",
+        "aspiration",
+        "renunciation"
+      ],
+      "question_draft": "What is worth resolving on, and what does a resolved life look like?"
+    },
+    {
+      "id": "right-speech",
+      "title": "Right Speech",
+      "group": "eightfold-path",
+      "status": "planned",
+      "scope": "The speech factor: the four abstentions (no lying, divisive, abusive or idle speech), the Abhaya Sutta timing test (factual, beneficial, endearing, timely), and the modern relatives (nonviolent communication, speech gates). Boundary against Others: relational material stays there; this holds the ethics of speaking.",
+      "nearby_terms": [
+        "truthful speech",
+        "right communication",
+        "speech ethics"
+      ],
+      "question_draft": "What makes speech right, and when is silence the better part of it?"
+    },
+    {
+      "id": "right-action",
+      "title": "Right Action",
+      "group": "eightfold-path",
+      "status": "planned",
+      "scope": "The bodily-conduct factor: abstaining from killing, taking what is not given and sexual misconduct, with Bodhi's positive counterparts (compassion, honesty, fidelity). Boundary against Behaviour: habit science stays there; this holds the path's ethical restraints on bodily conduct.",
+      "nearby_terms": [
+        "right conduct",
+        "non-harm",
+        "ethical action"
+      ],
+      "question_draft": "What restraints on the body make a life livable with itself?"
+    },
+    {
+      "id": "right-livelihood",
+      "title": "Right Livelihood",
+      "group": "eightfold-path",
+      "status": "planned",
+      "scope": "The fifth path factor: earning without harm, the Vanijja Sutta's five prohibited trades (AN 5.177), the sila grouping with speech and action, and the compendium's values-alignment revisiting (B152). Boundary against Life's Purpose (calling) and Goals (work aims).",
+      "nearby_terms": [
+        "ethical work",
+        "vocation",
+        "earning"
+      ],
+      "question_draft": "Can a living be made without harm, and what does work do to the person who does it?"
+    },
+    {
+      "id": "right-effort",
+      "title": "Right Effort",
+      "group": "eightfold-path",
+      "status": "planned",
+      "scope": "The sixth path factor: the four efforts (SN 45.8) - preventing, abandoning, arousing and maintaining qualities of mind - desire as the first verb, and the tuning-not-forcing calibration (Sona Sutta, AN 6.55). Boundary against Motivation and Behaviour.",
+      "nearby_terms": [
+        "diligence",
+        "persistence",
+        "energy"
+      ],
+      "question_draft": "Where should effort go, and how much is the right amount?"
+    },
+    {
+      "id": "right-mindfulness",
+      "title": "Right Mindfulness",
+      "group": "eightfold-path",
+      "status": "planned",
+      "scope": "The seventh path factor: the four establishments of mindfulness (MN 10 satipatthana), the refrain (ardent, alert and mindful, putting aside greed and distress), the clinical evidence base (Goyal et al. 2014) and the attention principles. Boundary against Attention: the general science of attention lives there; this holds the path's own mindfulness training.",
+      "nearby_terms": [
+        "sati",
+        "mindful awareness",
+        "present-moment attention"
+      ],
+      "question_draft": "What is being established when mindfulness is established, and what does it clear away?"
+    },
+    {
+      "id": "right-concentration",
+      "title": "Right Concentration",
+      "group": "eightfold-path",
+      "status": "planned",
+      "scope": "The eighth path factor: the four jhanas (DN 2), the Sona Sutta tuning (neither too taut nor too loose), samadhi as calibration rather than force, and the pairs with focused-attention meditation, flow and single-tasking. Boundary against Attention (absorption states).",
+      "nearby_terms": [
+        "samadhi",
+        "absorption",
+        "collectedness"
+      ],
+      "question_draft": "What is collectedness, and how is it tuned rather than forced?"
+    },
+    {
+      "id": "gratitude",
+      "title": "Gratitude",
+      "group": "affective-life",
+      "status": "planned",
+      "scope": "The felt recognition of benefit received: Seneca's On Benefits and Aristotle NE VIII.14 as classical anchors, the attention theory (Emmons and McCullough's counting-blessings work), the find-remind-and-bind relational theory (Algoe), the practice family (AF063, K164, K212, K280) and ecological gratitude. Nearby terms: thankfulness, appreciation, indebtedness (the benefit's shadow).",
+      "nearby_terms": [
+        "thankfulness",
+        "appreciation",
+        "indebtedness"
+      ],
+      "question_draft": "What is gratitude actually about, and why does it resist being a self-help technique?"
+    },
+    {
+      "id": "fear",
+      "title": "Fear",
+      "group": "affective-life",
+      "status": "planned",
+      "scope": "Defense against threat: the evolved fear module (Ohman and Mineka), the classification and examination of fears, courage as action despite fear, the Epicurean argument against the fear of death. FIRST TASK per DISAMBIGUATION.md: build the fear-versus-anxiety boundary matrix from opened sources before the map is written; the Anxiety dossier keeps fear as a map group until the split is settled.",
+      "nearby_terms": [
+        "dread",
+        "phobia",
+        "panic",
+        "courage"
+      ],
+      "question_draft": "What is fear protecting, and how much of it belongs to the person rather than the threat?"
+    },
+    {
+      "id": "sadness-and-grief",
+      "title": "Sadness & Grief",
+      "group": "affective-life",
+      "status": "planned",
+      "scope": "Loss and mourning: grief's oscillation model (dual process), grief for what passes (Zhuangzi), complicated grief research, ecological grief, sorrow's fruit, and the sadness-versus-depression distinction (AF051). NOTE: 'Sadness & Grief' is an editorial grouping, not a settled equivalence; the writer tests the sadness-as-state versus grief-as-process boundary from opened sources and flags any split proposal with the matrix as evidence.",
+      "nearby_terms": [
+        "mourning",
+        "loss",
+        "sorrow",
+        "bereavement"
+      ],
+      "question_draft": "What is grief for, and how does a person mourn without being consumed?"
+    },
+    {
+      "id": "shame-and-guilt",
+      "title": "Shame & Guilt",
+      "group": "affective-life",
+      "status": "planned",
+      "scope": "The moral self-conscious emotions: shame as global-self judgment versus guilt as act judgment (Tangney and colleagues), shamefastness (aidos) and the classical treatments, the adaptive-function principles (AF053, AF054) and the shame-versus-guilt signal distinction (SP034). Nearby terms: embarrassment, remorse, humiliation.",
+      "nearby_terms": [
+        "embarrassment",
+        "remorse",
+        "humiliation",
+        "self-consciousness"
+      ],
+      "question_draft": "Which of the two moral emotions repairs a life, and which corrodes it?"
     }
   ],
   "backlog": [
     "Memory",
     "Belief",
     "Habit (focused, if Behaviour grows too large)",
-    "Sadness & Grief",
-    "Fear",
     "Perception",
     "Desire & Craving (if Motivation grows too large)",
     "Meaning & Mortality",
     "Forgiveness & Repair",
-    "Compassion without self-abandonment"
+    "Compassion without self-abandonment",
+    "Envy (scope review: benign versus malicious envy cards exist; does the family answer a question the Anger and Compassion dossiers do not?)",
+    "Compassion (scope review: overlaps the Others dossier's compassion material; needs a boundary matrix first)",
+    "Loneliness (scope review: the signal account AF058/PP031/SO024; boundary against Others to be tested)",
+    "Love (scope review: compassionate love, enemy-love and proper self-love cards; boundary against Compassion and Others)",
+    "Hope (scope review: elpis and hope theory AF067; boundary against Uncertainty)",
+    "Awe (scope review: vastness and self-diminishment cards; boundary against Attention and The Self)",
+    "Pride (scope review: authentic versus hubristic pride; boundary against Shame & Guilt and Flourishing)",
+    "Equanimity (scope review: the eight worldly winds and upekkha cards; boundary against affect-regulation material)"
   ]
 }

@@ -84,9 +84,16 @@ The Academy grid filters by five sections:
 |---|---|
 | Flourishing & Wisdom (flagship, first) | Genuine Flourishing, Wisdom, Life's Purpose |
 | Extended Evolutionary Meta Model | Affect, Cognition, Attention, Self, Motivation, Behaviour, Others, Body |
-| The Affective Life | Anger, Anxiety, Happiness |
+| The Affective Life | Anger, Anxiety, Happiness, Gratitude*, Fear*, Sadness & Grief*, Shame & Guilt* |
 | The Mind's Life | Decision-Making, Goals, Agency |
 | Life Challenges | Uncertainty, Overload & Overwhelm |
+| The Noble Eightfold Path | Right View*, Right Intention*, Right Speech*, Right Action*, Right Livelihood*, Right Effort*, Right Mindfulness*, Right Concentration* |
+
+(* = planned, in the roadmap below; minted 2026-10-24 by owner direction — one
+dossier per path factor, and affective states beyond Anger, Anxiety and
+Happiness that pass the disambiguation three-part test. The remaining
+affective candidates — Envy, Compassion, Loneliness, Love, Hope, Awe, Pride,
+Equanimity — sit in the registry backlog with scope-review questions.)
 
 ### Section rules (binding for any future worker)
 

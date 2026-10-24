@@ -73,3 +73,14 @@ review at true proportions, 2026-10-24), not assumed from filenames.
 The one deliberate exception is the flagship: Matisse's Joy of Life
 runs brighter than the rest on purpose — it is the featured card at
 the forefront of the programme, and its vividness marks it as such.
+
+Pending assignment (2026-10-24, supervisor-pplx-1024g): the twelve new planned
+dossiers minted by owner direction — the eight Noble Eightfold Path factors
+(right-view through right-concentration, dos18-dos25) and the four affective
+states (gratitude, fear, sadness-and-grief, shame-and-guilt, dos26-dos29) —
+have no artwork yet. Assignment stays supervisor-owned: select from the
+owner's Drive collection in the same register (muted contemplative palettes,
+figure-and-landscape subjects, the 4:3 crop), name the files after the
+registry slugs, drop them in site/assets/dossier-art/ and set the registry
+art fields before publication. Planned dossiers need no art until they are
+flipped to published (the roadmap renders without it).

@@ -64,6 +64,11 @@ matrix row as evidence.
 | Decision-making | Decision-Making (published) | choice, judgement, heuristics, akrasia | decision research here, reasoning styles in Cognition |
 | Uncertainty | Uncertainty (published) | ambiguity, impermanence, risk, not knowing | risk research sits with Decision-Making, worry with Anxiety |
 | Overload and overwhelm | Overload and Overwhelm (published) | burnout, cognitive load, saturation, stress | attention capture shared with Attention; stress physiology with a possible Stress dossier |
+| Gratitude | Gratitude (planned, dos26) | thankfulness, appreciation, indebtedness | minted 2026-10-24 after card review: distinct question (recognition of benefit given and received), own material (Seneca On Benefits and Aristotle NE VIII.14 anchors, Emmons and McCullough, Algoe find-remind-and-bind, K164/K212/K280, ecological gratitude) |
+| Fear | Fear (planned, dos27) | dread, phobia, panic, courage | FIRST TASK: build the fear-versus-anxiety boundary matrix from opened sources before the map is written; the Anxiety dossier keeps fear as a map group until the split is settled |
+| Sadness and grief | Sadness & Grief (planned, dos28) | mourning, sorrow, loss, bereavement | EDITORIAL GROUPING, not a settled equivalence: the writer tests the sadness-as-state versus grief-as-process boundary from opened sources and flags any split proposal with the matrix as evidence |
+| Shame and guilt | Shame & Guilt (planned, dos29) | embarrassment, remorse, humiliation | minted 2026-10-24 after card review: the global-self versus specific-act distinction (Tangney and colleagues) carries its own question and its own principle family (AF053, AF054, SP034) |
+| Eightfold Path factors | Right View through Right Concentration (planned, dos18-dos25) | see each factor's registry scope | owner-directed 2026-10-24: a themed section holds one dossier per path factor; the Eightfold Path umbrella card stays the shared hub, and each factor dossier links the siblings rather than absorbing them |
 
 ## First task of the Anxiety writer
 
