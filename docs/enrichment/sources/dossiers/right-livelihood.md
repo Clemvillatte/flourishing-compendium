@@ -22,6 +22,11 @@ kept in this ledger); the Weber entry's Beruf italics removed; the
 ST313 logline re-verified against its card in a final audit (matched).
 Checker exit 0 after each change.
 
+Revision 5: a duplication found in the final read-through and
+removed: ST290 and ST064 appeared in two Story-section groups (The
+livelihood redesigned and The price refused) with identical loglines;
+they are now kept once, under The price refused. Checker exit 0.
+
 Revision 2 (QC pass): divergences reframed to the definitional contrast
 the opened texts actually support (no claim that Weber prescribes a
 maximum or that Dewey takes up the five-trades question; Weber noted as
