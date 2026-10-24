@@ -7,13 +7,21 @@ overloads because there isn't much bridging, we need the mind to be able to
 follow a threat [thread] rather than to be bombarded with isolated
 proposition." The GF dossier's sections still juxtapose one authority or
 study per sentence. Fix: a bridging pass over the whole dossier — each
-paragraph advances one question, each sentence answers a question the
-previous one left open, bridges supply reasoning not connectives.
+paragraph develops one coherent thought; sentences may explain,
+illustrate, qualify or challenge it; a bridge supplies reasoning (why this
+follows from that, what problem the next account answers), never an
+invented agreement/opposition/causation; an honest distinction between
+accounts is often the right bridge. Reader test: after each paragraph,
+the reader should be able to say what question it answered and what it
+left open.
 Rule written into HUMANIZER-SKILL.md ("Bridging: the mind must be able to
 follow a thread") so the six future agents inherit it. Keep every card
-link and every verified claim; do not add new factual claims without
-opening the carrier. Advisor QC on the first rewritten section before
-extending the pass.
+link and every verified claim; connective sentences must not introduce
+new factual claims without opening the carrier (advisor QC caught and
+repaired several: overgeneralised study glosses, a causal cultural-fit
+lesson, an invented Aristotle/Epicurus opposition, unsupported
+classifications). Advisor QC was run on the first section and at the
+milestone; repairs applied.
 
 ## Latest scope and exact continuation
 

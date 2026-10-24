@@ -798,3 +798,30 @@ a life", "Judging a whole life", "Practices need to fit a life".
 Academy data rebuilt (app.js) after the passes; checker exit 0,
 node --check, readability, voice-audit, DOM-section and optional-stats
 tests all pass. GF remains UNAPPROVED pending owner validation.
+
+### Candidate pass 17 (QC round 2, advisor milestone review): corrections applied
+
+The earlier pass-17 note said "no new factual claims were added" — that
+was overbroad: the connective sentences themselves were new prose and
+several over-reached their carriers. Advisor milestone QC caught them;
+all repaired this round:
+- "People who flourish usually have other people" removed (overgeneralised
+  the student study; construct switched from happiness to flourishing).
+- Communitarian bridge now states it is a different KIND of argument
+  (philosophical account of the person), not an explanation of the study.
+- Cultural-fit "lesson" made strictly associative (no "determines").
+- "Settled condition rather than an achievement" opposition removed;
+  Epicurus now described as he describes himself: goal by negation
+  (freshly opened carrier: https://plato.stanford.edu/entries/epicurus/ —
+  "he tends to describe the goal by negation, as freedom from bodily pain
+  and mental disturbance (LM 128)"; katastematic pleasure "a state rather
+  than a process"; self-sufficiency and friendship passages verified).
+- "Carrying projects draws on character", "two of those facilities",
+  "looking at such people belongs to a broader family" replaced with
+  neutral or source-supported wordings.
+- "Psychology entered this question..." discipline-history opener removed.
+- Courage example developed for a newcomer (fear wrong in either
+  direction; no rule fixes the amount in advance) — grounded in the
+  opened NE II.2 mean passage.
+- Repeated navigational announcements trimmed.
+GF remains UNAPPROVED; owner validation gate stays closed.
