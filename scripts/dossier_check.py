@@ -153,6 +153,21 @@ def main(path):
                 'the Story section holds no story card link — it must offer '
                 'loglines for the stories that best represent the theme, '
                 'each with its card link (content/stories/)')
+        # HUMANIZER rule: no em dashes in Story-section logline prose
+        # (em dashes inside card-link labels, i.e. story titles, are fine;
+        # quoted passages are blockquotes and are skipped).
+        prose_dashes = 0
+        for l in story_body.split('\n'):
+            if '—' in l and not l.strip().startswith('>'):
+                rest = re.sub(r'\[[^\]]*\]\([^)]*\)', '', l)
+                if '—' in rest:
+                    prose_dashes += 1
+        if prose_dashes:
+            problems.append(
+                '%d Story-section logline(s) use an em dash in prose — the '
+                'HUMANIZER rule bans em dashes outside quoted matter: use a '
+                'colon, comma, or restructure (story titles inside card links '
+                'are fine)' % prose_dashes)
         if slug in STORY_MIGRATION:
             problems.append(
                 'this dossier now has its Story section — flag it in a '
