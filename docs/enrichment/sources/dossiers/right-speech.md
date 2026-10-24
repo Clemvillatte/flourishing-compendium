@@ -194,3 +194,10 @@ off-theme, with reasons:
   Gerede (idle talk as fallenness) vs the Daoist guayan (rare speech as
   formation); not developed here because no Gerede quote was verified
   against an opened carrier this session.
+
+## Apparatus repair (2026-10-24, worker-pplx-dossiers-1025)
+
+Restored three missing sentence periods after source citations (the
+pre-existing ")) Capital" gaps flagged in commit 25e13407): right-effort
+SN 45.8 and AN 6.55 blockquotes, right-speech Bhagavad Gita 17.15
+blockquote. No quoted text, links, or content changed. Checker passes.

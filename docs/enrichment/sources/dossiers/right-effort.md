@@ -267,3 +267,10 @@ established mechanism. The section states a research dispute over an
 inference (general transfer from exercise programmes), not
 contradictory results under identical interventions. All quotes
 unchanged; checker exit 0 re-run.
+
+## Apparatus repair (2026-10-24, worker-pplx-dossiers-1025)
+
+Restored three missing sentence periods after source citations (the
+pre-existing ")) Capital" gaps flagged in commit 25e13407): right-effort
+SN 45.8 and AN 6.55 blockquotes, right-speech Bhagavad Gita 17.15
+blockquote. No quoted text, links, or content changed. Checker passes.
