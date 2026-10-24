@@ -371,3 +371,14 @@ this session. One normalization recorded: the newadvent Aquinas page
 carries markup spacing artifacts around punctuation ("just , three
 things are necessary ."); the dossier quote is the clean-space
 rendering, verbatim otherwise. No corrections needed.
+
+## Reader pass (worker-pplx-dos24-1025a, 2026-10-24 ~T+40)
+
+Full end-to-end read of the dossier of record: the map sections, the
+SN 45.8/Aquinas disagreement section (advisor-cleared in pass 7,
+framing and unresolved statement intact), the Wang/Socrates/Aristotle
+section with this session's bounded fit upgrade, the Practice and
+Story sections. No issues found; no changes made. First-person stance
+lines ("I hold both sides... and do not reconcile them") follow the
+house style used across the published dossiers and were left as they
+are.
