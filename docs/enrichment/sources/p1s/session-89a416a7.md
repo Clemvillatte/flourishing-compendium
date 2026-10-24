@@ -216,3 +216,10 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - Opened unprompted in full: [Dhammapada VII](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.07.budd.html) and [John Malkin's Thich Nhat Hanh interview](https://www.lionsroar.com/in-engaged-buddhism-peace-begins-with-you/). All three retained quotations match exactly, including “loving-kindness” and “Action should be meditation at the same time.”
 - The interview supports the attributed recollection of the US peace movement and the wounded-child/breathing example. These remain his observations/teaching, not general psychological or historical causal conclusions endorsed as established by this item.
 - Preserved the strong Plain words and kitchen-request example, including its refusal to guarantee agreement. Moved the inherited thinker comparisons out of Sources; removed “the page lists/cites” without changing link markup or claims. No whole-Hadot certification.
+
+## B012: punctuation fidelity and an ordinary activity
+
+- Opened unprompted in full: [MN 131](https://www.accesstoinsight.org/tipitaka/mn/mn.131.than.html), [Ud 1.10](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html), and [Miracle of Mindfulness available excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm).
+- MN 131 block is exact with verse line breaks normalised; Ud's quoted fragment is exact and remains situated in release from identification, not a productivity technique. The TNH carrier contains evident transcription errors; the retained sentence deliberately preserves its actual “as they were a nuisance” wording rather than silently repairing it.
+- Restored the source's double quotation marks around “washing the dishes to wash the dishes.” Removed superfluous outer quote wrappers from that block to avoid nested delimiters; words unchanged.
+- Replaced the internal page-position gloss with a substantive description of the same thinker relation. Strong Plain words and lunch/planning experiment unchanged; no implied prohibition on useful planning.

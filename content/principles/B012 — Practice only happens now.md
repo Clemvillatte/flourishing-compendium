@@ -18,7 +18,7 @@ MN 131 asks the practitioner to see the present clearly instead of chasing what 
 
 Thich Nhat Hanh gives an everyday illustration: washing dishes while thinking only about the tea to come. He warns that this way of rushing past an activity can continue when we reach the tea. ([The Miracle of Mindfulness, excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
 
-> "If while washing dishes, we think only of the cup of tea that awaits us, thus hurrying to get the dishes out of the way as they were a nuisance, then we are not 'washing the dishes to wash the dishes.' What's more, we are not alive during the time we are washing the dishes." (Thich Nhat Hanh, [The Miracle of Mindfulness, excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
+> If while washing dishes, we think only of the cup of tea that awaits us, thus hurrying to get the dishes out of the way as they were a nuisance, then we are not "washing the dishes to wash the dishes." What's more, we are not alive during the time we are washing the dishes. (Thich Nhat Hanh, [The Miracle of Mindfulness, excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
 
 **Plain words**
 You can treat an ordinary part of the day as a waiting room for the next part. The dishes become an obstacle to tea; then the tea becomes an obstacle to whatever comes after. Thich Nhat Hanh's example asks where you will actually live if every activity is only something to get through. ([The Miracle of Mindfulness, excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
@@ -27,7 +27,7 @@ For example: You are eating lunch while rehearsing an afternoon meeting. Try put
 
 ## Related concepts
 
-- [[T035 — Thich Nhat Hanh]]: washing the dishes to wash the dishes, the page's opening illustration
+- [[T035 — Thich Nhat Hanh]]: washing the dishes as an illustration of attending to an ordinary activity while it happens.
 
 ## Sources
 
