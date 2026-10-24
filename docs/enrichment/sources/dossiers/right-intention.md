@@ -162,3 +162,19 @@ renunciation (going forth from the household life) versus the Gita's
 rejection of abstention with the fruit renounced instead. The two open
 questions below remain open. The worker's supervisor flag
 (genuine-divergence carriers) is RESOLVED for this theme.
+
+## WITHDRAWAL (2026-10-24, ~T+39)
+
+The previous entry's "divergence grounded" and "supervisor flag
+resolved" claims are WITHDRAWN. The advisor's QC found the asserted
+opposition was supplied by gloss: the MN 19 passage affirms
+renunciation-thinking without prescribing abandonment of household
+duties, and the Gita passages deny that renunciation is SUFFICIENT,
+not that it is beneficial, so the excerpts do not establish
+incompatible answers to the same proposition. The dossier section was
+reverted to the honest "Related questions and parallels" framing with
+the Gita passages as a neutral comparison and the research question
+restated as open. The two Gita carriers remain open, raw-verified
+research evidence for the next attempt (the bar: one opened passage
+must affirm a proposition and another must deny that same proposition).
+The ST085 carrier fix is unaffected and remains resolved.

@@ -153,25 +153,15 @@ And the mechanism the discourse names is practice bending the mind:
 
 [Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the label for the right action factor, which comes fourth on the path, after right speech; the map of this factor ends where the path moves from resolve to conduct.
 
-## Where the traditions genuinely disagree
+## Related questions and parallels
 
-### Does the trained resolve abandon the householder's life, or keep it and release the fruit?
-
-Both texts answer the same question: what does the trained mind do with the desires and duties of the household life? The early discourses resolve on going forth, and grade the thoughts accordingly; the standard the renunciation-thought is held to:
-
-> "Thinking imbued with renunciation has arisen in me; and that leads neither to my own affliction, nor to the affliction of others, nor to the affliction of both. It fosters discernment, promotes lack of vexation, & leads to Unbinding." ([MN 19, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html)): Primary text; quoted passages checked.
-
-The Bhagavad Gita answers the same question by rejecting the abstention, and putting the renunciation elsewhere:
+The passages below are held side by side; whether the traditions disagree about them is an open research question. MN 19 commends renunciation-thinking; the Bhagavad Gita says abstention and renunciation alone do not attain perfection, and directs action without entitlement to its fruits:
 
 > "Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection." ([Bhagavad Gita 3.4](https://www.bhagavad-gita.us/bhagavad-gita-3-4/)): Primary text; quoted passages checked against the raw page.
 
 > "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action." ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/)): Primary text; quoted passages checked against the raw page.
 
-The disagreement is at the same question: the resolve on renunciation treats the abandonment of the sensuality-thought as the trained direction, and the going forth it names is the leaving of the household life; the Gita treats abstention from work as an error, keeps the duty, and renounces only the lien on the fruit. The compendium holds both, the renunciation resolve in the first subsection of the map and [Detachment from outcomes](https://clemvillatte.github.io/flourishing-compendium/#card=Detachment%20from%20outcomes) in the second, without adjudicating; its principle Y111 keeps the Gita's own distinction, renounce the inner claim, not the outer duty.
-
-## Related questions and parallels
-
-The two questions below gather passages the wiki holds side by side. Each is framed around one proposition with quotations from carriers opened this session; in both cases the carriers can be read as compatible, and the wiki records the open question rather than manufacturing a disagreement. (The renunciation divergence above was grounded by the supervisor session of 2026-10-24; these two remain open.)
+These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The two questions below gather further passages the wiki holds side by side. Each is framed around one proposition with quotations from carriers opened this session; in both cases the carriers can be read as compatible, and the wiki records the open question rather than manufacturing a disagreement. Research for carriers that argue the positions against each other is unfinished, and is flagged for the supervisor.
 
 ### Is the resolve an abstention or a cultivation?
 
