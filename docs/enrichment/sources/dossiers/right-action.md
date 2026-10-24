@@ -2,17 +2,23 @@
 
 Verification record for docs/enrichment/dossiers/right-action.md, revision 1.
 Every quoted fragment in this dossier was fetched and read from its carrier
-during this session (2026-10-24, ~07:41–07:53 UTC, per session clock readings: baton claimed ~07:41Z, pass 1 pushed just before the 07:42:26Z reading, pass 2 just before the 07:45:17Z reading, pass 3 just before the 07:48:11Z reading, pass 4 just after the 07:50:38Z reading, at 07:50:54Z) with the page-open tool. A monotonic reading was taken fresh alongside the 07:47:32Z UTC reading (time.monotonic_ns = 1413709370965, about 1414 seconds since sandbox boot); recorded as a new observation, not a T0 reset; the original run_clock file's date +%s%N value is a realtime reading, not monotonic, and is labelled as such here. A second fresh pair was appended to the workspace run_clock file alongside the 07:50:38Z UTC reading (time.monotonic_ns = 1600365944516, about 1600 seconds since sandbox boot). Pass 5 (the Giles/Wikisource Zhuangzi verification and the
-related-questions reframing) was pushed just after the 07:52:47Z
-reading.
-And every quoted passage was then re-verified against raw, unprompted
-carrier text (direct fetch of each carrier URL, tags stripped, whitespace
-normalised, substring check). All ten quoted passages are FULL MATCH
-against the raw carrier text; the dossier contains 10 external
-carrier-link occurrences covering 5 distinct carrier URLs. (Pass 2
+during this session (2026-10-24, ~07:41–07:53 UTC, per session clock readings: baton claimed ~07:41Z, pass 1 pushed just before the 07:42:26Z reading, pass 2 just before the 07:45:17Z reading, pass 3 just before the 07:48:11Z reading, pass 4 just after the 07:50:38Z reading, at 07:50:54Z) with the page-open tool. A monotonic reading was taken fresh alongside the 07:47:32Z UTC reading (time.monotonic_ns = 1413709370965, about 1414 seconds since sandbox boot); recorded as a new observation, not a T0 reset; the original run_clock file's date +%s%N value is a realtime reading, not monotonic, and is labelled as such here. A second fresh pair was appended to the workspace run_clock file alongside the 07:50:38Z UTC reading (time.monotonic_ns = 1600365944516, about 1600 seconds since sandbox boot). (the Giles/Wikisource Zhuangzi verification and the
+related-questions reframing) had its save confirmed by the 07:52:47Z
+reading, and the follow-up ledger splice fix by the 07:52:55Z reading.
+
+Every blockquote was then re-verified against raw, unprompted
+carrier text (direct fetch of each blockquote's carrier URL, tags
+stripped, whitespace normalised, substring check): ten blockquote
+instances covering 5 distinct blockquote-carrier URLs, and all ten
+blockquote checks are FULL MATCH against the raw carrier text. (Pass 2
 added the Bodhi non-stealing counterpart quotation; pass 3 added the
 Nicomachean Ethics VII.2 pair; pass 4 added the NE VII.3 resolution
-and the IEP Wang knowledge passage, all verified the same way.)
+and the IEP Wang knowledge passage, all verified the same way.) The
+MN 86 inline quotation inside the ST405 story logline ("once & for
+all") was verified separately against the fetched MN 86 page; the
+logline's verse material is a word-level paraphrase of the MN 86
+"Doer of No Harm" verses, checked against the page and recorded in
+the story-section note below.
 
 ## Quotes opened this session (fetch of the carrier page)
 
@@ -174,8 +180,8 @@ within the compendium's general retention framing.
   Zhuangzi pages (HTTP 403 from this sandbox) and terebess.hu (index
   loads but the chapter link is not exposed). Pass 5 then searched for
   a published translation and opened one: Chuang Tzu, Giles
-  translation, Chapter 20, on Wikisource (en.wikisource.org/wiki/
-  Chuang_Tz%C5%AD_(Giles)/Chapter_20), read in full. The narrative
+  translation, Chapter 20, on Wikisource, read in full (carrier URL:
+  https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_20 ). The narrative
   details are verified against it: the huge tree "by virtue of being
   good for nothing succeeds in completing its allotted span"; the
   servant told "to kill the one which did not cackle"; Chuang Tzu "I

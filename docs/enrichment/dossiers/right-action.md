@@ -141,7 +141,7 @@ Aristotle's account of virtue of character holds that character is formed by doi
 
 ### Can knowledge coexist with failure to act?
 
-The Socratic position, as Aristotle reports it in the Ethics, Book VII, denies the possibility: failing to act well is always ignorance.
+In Aristotle's report, Socrates denies that someone can knowingly act against what they judge best.
 
 > "Socrates in fact contended generally against the theory, maintaining there is no such state as that of Imperfect Self-Control, for that no one acts contrary to what is best conceiving it to be best but by reason of ignorance what is best." ([Aristotle, Nicomachean Ethics VII.2, Chase translation, Project Gutenberg ebook 8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt)): Primary text; quoted passages checked.
 
@@ -193,7 +193,7 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### The stopped harm
 
-[ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): Angulimala, the bandit wearing a garland of fingers, cannot catch the Buddha walking at normal pace, hears the explanation that the Buddha has stopped "once & for all" having cast off violence toward all living beings, and throws his sword over a cliff; his verses give the name as Doer of No Harm, say he used to be a doer of harm, and that today he is true to his name and harms no one at all, and the clod, stone and potsherd thrown at him on his alms round are met with the Buddha telling him to bear it as the fruit of karma now experienced in the here-&-now.
+[ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): Angulimala, the bandit wearing a garland of fingers, cannot catch the Buddha walking at normal pace, hears the explanation that the Buddha has stopped "once & for all" having cast off violence toward all living beings, and throws his sword over a cliff; the clod, stone and potsherd thrown at him on his alms round are met with the Buddha telling him to bear it as the fruit of karma now experienced in the here-&-now.
 
 ### Harm discovered late
 
@@ -205,4 +205,4 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### Rules and situations
 
-[ST384 — The Tree Is Spared; the Goose Is Killed](https://clemvillatte.github.io/flourishing-compendium/#card=ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is good for nothing and a goose is killed because it cannot cackle; asked which condition he would prefer, Zhuangzi laughs that he would rest halfway between the two, and that even that position cannot avoid trouble, a rule that protects in one setting may fail in the next.
+[ST384 — The Tree Is Spared; the Goose Is Killed](https://clemvillatte.github.io/flourishing-compendium/#card=ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is good for nothing and a goose is killed because it cannot cackle; asked which condition he would prefer, Zhuangzi smiles that he would rest halfway between the two, and that even that position cannot avoid trouble, a rule that protects in one setting may fail in the next.
