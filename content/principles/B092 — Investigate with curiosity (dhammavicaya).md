@@ -12,20 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 92** — Investigate with curiosity (dhammavicaya)
 
-SN 46 lists investigation of qualities (dhammavicaya) as the second factor for awakening, and the Food Sutta says what feeds it: mental qualities that are skillful and unskillful, blameworthy and blameless, gross and refined, siding with darkness and with light. Appropriate attention to those qualities is the food for the factor's arising. (SN 46.51.)
+What makes an inquiry useful? In SN 46.51, investigation of qualities is the second factor for awakening, after mindfulness. Its subject is not whatever happens to be interesting:
 
 > "There are mental qualities that are skillful & unskillful, blameworthy & blameless, gross & refined, siding with darkness & with light." (SN 46.51, [Thanissaro](https://accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html))
 
-The compendium adapts this evaluative inquiry by asking what is happening in a difficult experience and which responses are helpful or harmful.
+The sutta calls appropriate attention to these qualities the food that supports investigation. It uses the same feeding image for hindrances: attention can nourish ill will or restlessness as well as qualities of awakening. The inquiry therefore involves discernment, not observation without any concern for consequences. The compendium applies that distinction to examining a difficult reaction and the responses available within it.
 
 **Plain words**
-Take a recent reaction and ask what you did, who was affected, and what you would change. Giving the reaction a negative description need not end the inquiry: ask why you judged it that way and what you might have overlooked.
+Knowing that you are frustrated leaves more to understand. There is the situation, what you are adding to it, and what you might do next. Calling a reaction unhelpful is a starting point for looking closely, rather than a verdict that you are a bad person. Curiosity can serve that work without becoming another way to rehearse the complaint.
 
-*For example:* Imagine waking during the night. You notice frustration and examine whether rehearsing your complaints is a response you want to continue.
+For example: After a poor night, someone writes two responses to the thought that the day is ruined: a catalogue of predictions and a description of what is actually difficult now. She compares which helps her choose the next necessary task and reuses that question. This is an illustrative attention exercise, not insomnia treatment.
 
 ## Related concepts
 
-- [[BE039]] — listed for comparison
+- [[BE039]] — the insomnia-treatment page; examining frustration after a bad night is a different task from treating persistent sleep difficulties.
 
 ## Sources
 

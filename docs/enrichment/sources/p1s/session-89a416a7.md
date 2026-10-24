@@ -35,3 +35,16 @@ Started 2026-10-24 04:57:22 UTC. Worker scope: p1s manifest only. The live super
 - Exact retained SN 56.11 blockquote verified, including the paired dashes and Unbinding. Exact AN 6.55 persistence clause verified; added a direct carrier citation beside it. The canonical path-factor list supports the selected examples of view, speech, action and concentration.
 - The two texts are distinguished: SN 56.11 identifies the Middle Way; AN 6.55 supplies a related effort analogy. No claim that any moderate action is automatically the Noble Eightfold Path.
 - Fresh Plain words explains the relationship of effort and punishment. Suggested meditation arrangements supply variation, observed practice/attention supplies selection, keeping the workable arrangement supplies retention. No ideal duration or clinical effect asserted.
+- Saturation: Middle Way and Sona mention sweeps; read The middle path and Right effort. The main concept and Optimal arousal already point to B009; no new reciprocal needed.
+
+## B092: inquiry has an evaluative direction
+
+- Opened: [SN 46.51, Ahara Sutta, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html), unprompted full text. Read the complete feeding and starving sections, not only the quoted list. Web search: SN 46.51 analysis/appropriate attention.
+- Retained mental-qualities quotation is verbatim. The sequence mindfulness, analysis of qualities, persistence supports “second”; appropriate attention as nourishment is explicit. Ill will and restlessness are among the hindrances whose food is inappropriate attention.
+- Fresh Plain words explains discriminating inquiry without turning an unskillful reaction into personal condemnation. The after-a-poor-night example has alternative written responses, selection by task relevance, retention of the useful question, and explicit separation from insomnia treatment.
+- Read Curiosity and Epistemic curiosity in mention sweep, plus Investigation of things (a Confucian concept, not an interchangeable Buddhist term). Existing links from Curiosity, Epistemic curiosity and Socratic inquiry already carry B092; no reciprocal added.
+- Replaced “listed for comparison” on the existing BE039 link with a reader-facing distinction. BE039 itself was read but not edited because outside this manifest.
+
+## Supervisor flag: BE039 clinical-safety overstatement, outside band
+
+The unchanged Practice section of BE039 says CBT-I “has no side effects.” This conflicts with its own [AASM 2021 guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC7853203/), opened unprompted during B092's link review. Under “Cognitive behavioral therapy for insomnia (CBT-I),” the guideline identifies early daytime fatigue/sleepiness, mood impairment and cognitive difficulties, and cautions about sleep restriction in selected high-risk populations. The “no side effects” sentence should be removed or qualified by the owning band/supervisor. No other band's file changed. The guideline does not make B092's informal exercise an insomnia treatment.
