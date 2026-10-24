@@ -169,3 +169,41 @@ Meta-text removed from the public prose in the same pass: "mapped below"
 (twice), "the label I use" (reworded to "my label"), "Work the map's
 breadth" (reworded), and the Story section's one-line page
 self-description.
+
+## Carrier re-verification (2026-10-25)
+
+The James 1884 carrier (psychclassics.yorku.ca/James/emotion.htm) was
+re-opened this session and the blockquote checked word-for-word. The
+quoted passage matches the carrier exactly through "afraid because we
+tremble"; the carrier continues with a comma at that point (", and not
+that we cry, strike, or tremble...") before the sentence closes with a
+period, so the dossier's omission of the source's closing comma is
+accurate and the quote is verified. The Ekman 1993 and Posner et al.
+2005 carriers were not re-opened this session.
+
+## Prose review defects (read-only, 2026-10-25)
+
+Substantive rework is gated on owner approval of the GF exemplar, so
+these are recorded for a future pass, not fixed here.
+
+Banned contrast constructions ("not X but Y" / "rather than") found in
+the map glosses: "re-fitted by long practice and daily work rather than
+merely undergone" (Emotion as construction); "emotion as a time series
+rather than a score" (Affective dynamics framework); "not by tampering
+with the feeling" (Reappraisal's effectiveness); "rather than relying
+on one strategy in all cases" (State-matched emotion regulation); "is
+not contained by the person feeling it" (::Variation::); and the story
+logline "praised not for never being angry but for being angry in the
+right way" (ST185).
+
+Meta-references to "the card" remaining in public prose: Affect labeling
+("the card reports a 2007 neuroimaging study"); Mid-level emotion
+regulation ("the reappraisal-versus-suppression record the card sets
+against suppression and venting"); Fading affect bias ("the finding
+stated in one line by later research" — vague, uncited).
+
+Bridging: the map sections remain single-line attributed glosses with
+no connective reasoning between entries (each entry is "Author's
+account — summary"); the reader cannot say what question each section
+answered. The intro's "regulable, differentiable and shared" is a
+forced triad. Line 229's "not inferred here" is process narration.
