@@ -1,8 +1,15 @@
 # Agency
 
+- [Narrative identity](https://clemvillatte.github.io/flourishing-compendium/#card=Narrative%20identity) — who the one doing the running is; agency asks what a person can run, identity asks what is running it.
+- [Intrinsic motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Intrinsic%20motivation) — the doing for its own sake; agency asks whether the doing is one's own, this asks what makes it worth doing.
+- [Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals) — the aims the acting is for; this page holds the capacity to act itself.
+- [Wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Wisdom) — the judgment about where to spend the say; wisdom uses it, this page asks what it is.
+
+These are the nearest entries, not the scope.
+
 > How much say does a person have over their own life, and what grows that say?
 
-The question sounds simple until each tradition takes it apart differently. The Stoics ask what is ever up to a person at all and answer: judgment, effort, and little else. Rotter asks where a person believes the say sits, inside or outside, and traces what the belief does to learning. Bandura asks whether a person believes they can execute the act, and finds the belief governing effort and persistence. Self-determination theory asks whether the motivation is owned or imposed, and counts autonomy and competence among the needs a life runs on. What joins them is the observation that a say over one's life is not a fixed possession: it shrinks under uncontrollability and grows with mastery, endorsement and support.
+Each tradition takes the question apart differently. The Stoics ask what is ever up to a person at all and answer: judgment, effort, and little else. Rotter asks where a person believes control sits, inside or outside, and traces what the belief does to learning. Bandura asks whether a person believes they can execute the act, and finds the belief governing effort and persistence. Self-determination theory asks whether the motivation is owned or imposed, and counts autonomy and competence among the needs a life runs on.
 
 ## The map: the entries on agency
 
@@ -30,7 +37,7 @@ Epictetus draws the line the whole theme keeps returning to:
 
 [Control theory of self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Control%20theory%20of%20self-regulation): Carver and Scheier's feedback model of behaviour: loops compare the perceived state against a reference value, and the mismatch itself drives the action.
 
-Dewey's frame turns agency from a possession into a circuit: the seeing is already shaped by prior reaching, and the outcome reshapes the next seeing. The say over a life, on this view, grows by the same route a skill grows, through conduct and its consequences, which is what the efficacy and needs research below keeps confirming in its own vocabulary.
+Dewey's frame turns agency from a possession into a circuit: the seeing is already shaped by prior reaching, and the outcome reshapes the next seeing. On this view the capacity grows by the same route a skill grows, through conduct and its consequences, which is why the research below keeps returning to practice and mastery rather than to insight alone.
 
 ### Where the say is believed to sit
 
@@ -114,15 +121,15 @@ Dewey's frame turns agency from a possession into a circuit: the seeing is alrea
 
 ## Where the traditions genuinely disagree
 
-### Is the say over outcomes, or only over effort?
+### Is control over outcomes, or only over effort?
 
-The Stoic division gives a person judgment, pursuit and effort, and explicitly withholds the rest: body, property, reputation and command are not our own actions, and treating them as if they were is where misery enters. The psychological tradition runs the opposite direction in practice. Rotter's internal control is a belief about reinforcement, about outcomes contingent on one's behaviour; Bandura's efficacy expectation is explicitly a belief that one can produce results; and both traditions treat strengthening that belief as an unmixed good, since it raises effort and persistence.
+The Stoic division gives a person judgment, pursuit and effort, and explicitly withholds the rest: body, property, reputation and command are not our own actions, and treating them as if they were is where misery enters. Rotter's internal control is a belief about reinforcement, about outcomes contingent on one's behaviour; Bandura's efficacy expectation is a belief that one can execute the act the outcome requires, which he marks off from expecting the outcome itself.
 
-The disagreement is genuine and not merely vocabularies crossing. Epictetus's warning is that staking the self on outcomes buys a slavery to what cannot be governed; the research reply is that people who believe their acts matter act more, learn faster and escape shocks that the helplessness experiments showed dogs abandoning. Secondary control is the meeting point: Rothbaum's group read alignment with forces as control, not surrender, which is close to the Stoic move, but the motive is still an experienced sense of say, which Epictetus would ground in judgment alone. Where the say is actually lodged, in the doing or in the outcome, is left standing.
+Whether these two vocabularies contradict each other is harder to establish than it looks, and I record it as unresolved rather than settled. The textual contrast is real: Epictetus withholds the outcomes, and the two expectancy constructs are built around perceived contingency between acts and outcomes. But the passages opened for this page do not show the psychological tradition asserting that outcomes are up to a person; they show it predicting effort and persistence from the belief. Rothbaum's group is the closest meeting point, reading alignment with forces as control rather than surrender, which is near the Stoic move while keeping the motive an experienced sense of control. Whether the say is lodged in the doing or in the outcome is left standing, and flagged in the ledger as a divergence not verified from the sources.
 
 ## Practice: variation, selection, retention
 
-::Variation:: What tends to need varying on this theme is the collapse of the say: the lesson that nothing one does matters, learned from uncontrollable events and outlasting them; the external locus that leaves reinforcement to luck or the powerful; the efficacy belief that failures, especially early ones, have hollowed out. The adaptive direction runs through the gap between event and verdict, attributing outcomes to what can still change, and through the small mastery that rebuilds the belief.
+::Variation:: What tends to need varying on this theme is the collapse of control: the lesson that nothing one does matters, learned from uncontrollable events and outlasting them; the external locus that leaves reinforcement to luck or the powerful; the efficacy belief that failures, especially early ones, have hollowed out. The adaptive direction runs through the gap between event and verdict, attributing outcomes to what can still change, and through the small mastery that rebuilds the belief.
 
 ::Selection:: The kernels I have selected as sources of that variation:
 
@@ -142,9 +149,9 @@ The stories that carry the theme's aspects, one line each; the full telling live
 
 ### The say reclaimed
 
-[ST347 — The First Act of Free Will](https://clemvillatte.github.io/flourishing-compendium/#card=ST347%20%E2%80%94%20The%20First%20Act%20of%20Free%20Will): William James, after years of suffering and thoughts of taking his life, records in his diary his belief that his first act of free will shall be to believe in free will.
+[ST347 — The First Act of Free Will](https://clemvillatte.github.io/flourishing-compendium/#card=ST347%20%E2%80%94%20The%20First%20Act%20of%20Free%20Will): William James, after years of suffering and thoughts of taking his life, closes Renouvier's Essais and records the April 30, 1870 entry: his first act of free will shall be to believe in free will.
 
-[ST302 — Billi and the Two Autonomies](https://clemvillatte.github.io/flourishing-compendium/#card=ST302%20%E2%80%94%20Billi%20and%20the%20Two%20Autonomies): a Chinese-American writer raised in the American framework of individual autonomy meets a family that withholds a terminal diagnosis out of care, and both autonomies turn out to be love.
+[ST302 — Billi and the Two Autonomies](https://clemvillatte.github.io/flourishing-compendium/#card=ST302%20%E2%80%94%20Billi%20and%20the%20Two%20Autonomies): a Chinese-American writer raised in the American framework of individual autonomy and disclosure meets a family that withholds a terminal diagnosis so the patient can live her time in peace; the film leaves whether the secret was right unresolved.
 
 ### Needs met and thwarted
 
@@ -154,8 +161,8 @@ The stories that carry the theme's aspects, one line each; the full telling live
 
 [ST116 — Dewey Breaks the Reflex Arc](https://clemvillatte.github.io/flourishing-compendium/#card=ST116%20%E2%80%94%20Dewey%20Breaks%20the%20Reflex%20Arc): the child's seeing is already a looking shaped by prior reaching; a circuit, not an arc, and the stimulus is no spectator's fact.
 
-[ST231 — The Uluru Statement](https://clemvillatte.github.io/flourishing-compendium/#card=ST231%20%E2%80%94%20The%20Uluru%20Statement): the statement from the heart seeks a voice in matters that touch its people, collective agency put in constitutional words.
+[ST231 — The Uluru Statement](https://clemvillatte.github.io/flourishing-compendium/#card=ST231%20%E2%80%94%20The%20Uluru%20Statement): First Nations delegates issue a one-page invitation, not a petition, to walk with them toward a Voice to Parliament and a Makarrata Commission; the form of the invitation is itself the argument.
 
-[ST232 — Charlie Goes Back to Country](https://clemvillatte.github.io/flourishing-compendium/#card=ST232%20%E2%80%94%20Charlie%20Goes%20Back%20to%20Country): the return to country as self-determination made concrete, a life arranged by the one who lives it.
+[ST232 — Charlie Goes Back to Country](https://clemvillatte.github.io/flourishing-compendium/#card=ST232%20%E2%80%94%20Charlie%20Goes%20Back%20to%20Country): an elderly Yolngu man caught between two systems leaves for the bush to live on Country as he was taught, becomes ill, is taken into custody, and ends teaching a young man, in a cage, the songs of the land.
 
-[ST233 — Molly Craig Walks the Fence](https://clemvillatte.github.io/flourishing-compendium/#card=ST233%20%E2%80%94%20Molly%20Craig%20Walks%20the%20Fence): the stolen child who walks the rabbit-proof fence home, 1,500 miles of refusal to accept that others hold the say.
+[ST233 — Molly Craig Walks the Fence](https://clemvillatte.github.io/flourishing-compendium/#card=ST233%20%E2%80%94%20Molly%20Craig%20Walks%20the%20Fence): three girls removed under the mixed-descent policy escape the Moore River settlement and follow the state's rabbit-proof fence 1,600 kilometres home, nine weeks of walking, one recaptured on the way.

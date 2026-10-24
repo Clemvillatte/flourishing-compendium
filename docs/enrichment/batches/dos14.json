@@ -5,7 +5,7 @@
       "slug": "agency",
       "worker": "worker-pplx-dos14-1024k",
       "state": "publication: pending supervisor",
-      "verification": "first build: title sweep + full-text sweep (agency/autonomy/competence/efficacy/locus of control/helpless/empowerment/free will/volition/self-determination/Bandura/Rotter/Dewey), 53 card links all opened and read, checker exit 0; three external quotes verified word-for-word against opened carriers (Epictetus Enchiridion 1 Carter/MIT, Bandura 1977 PDF, Rotter 1966 PDF); evidence ledger in docs/enrichment/sources/dossiers/agency.md; locus-of-evaluation boundary call and White 1959 carrier failures flagged there",
+      "verification": "two-pass build: first draft + advisor QC revision (Nearby terms block added; manufactured divergence rewritten as unresolved contrast; story loglines repaired against full card re-reads; voice pass). 57 card links, checker exit 0; three external quotes verified word-for-word against opened carriers (Epictetus Enchiridion 1 Carter/MIT, Bandura 1977 PDF, Rotter 1966 PDF); ledger in docs/enrichment/sources/dossiers/agency.md records the open points (divergence contradiction unverified, locus-of-evaluation boundary call, White 1959 carrier failures); registry left planned for supervisor flip",
       "dates": {
         "built": "2026-10-24"
       }

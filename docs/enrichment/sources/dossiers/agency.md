@@ -15,17 +15,23 @@ that say?
 Containing Autonomy and Competence: agency as effective power (Dewey),
 locus of control, self-efficacy, autonomy and competence as basic needs
 (SDT). Nearby terms consulted: the-self (dossier, planned), motivation,
-goals, wisdom.
+Narrative identity, Intrinsic motivation, Eudaimonic motivation and intrinsic goals, Wisdom.
 
 ## Claims and quotes
 
-The dossier's prose claims are glosses of cards that were opened and
-read this session (title sweep plus full-text sweep for agency /
+The dossier's prose claims are glosses of cards that were opened this
+session (title sweep plus full-text sweep for agency /
 autonomy / competence / efficacy / locus of control / helpless /
 empowerment / free will / volition / efficacy / willpower /
 self-determination / Bandura / Rotter / Dewey, then a curation pass).
-Every card linked in the dossier was opened; each map line paraphrases
-the card's own body, not an inference beyond it.
+Concept and kernel cards were read in excerpt during curation; the
+seven story cards used in the Story section (ST116, ST231, ST232,
+ST233, ST300, ST302, ST347) were re-read in full after the first QC
+pass, and their loglines rewritten to the cards' own accounts (the
+Molly Craig distance corrected from 1,500 miles to the card's 1,600
+kilometres and nine weeks; the Billi ending's unsupported conclusion
+removed; the James entry dated April 30, 1870 per the card). Each map
+line paraphrases the card's own body, not an inference beyond it.
 
 External quotes, verified word-for-word against carriers opened this
 session (curl fetch; PDFs extracted with pdftotext; whitespace
@@ -53,11 +59,20 @@ normalised for line breaks only):
 
 ## Boundaries and open points
 
+- The first divergence draft (Stoic outcomes vs Rotter/Bandura
+  expectancy constructs) was flagged as manufactured by the QC pass;
+  the section now records the textual contrast and states plainly that
+  the contradiction is not verified from the opened passages. This
+  remains the open point for the supervisor: whether a genuine
+  divergence exists here or the section should be removed.
 - Locus of evaluation and External-locus-of-evaluation research
   (Rogers) were read and deliberately held out of the map: their subject
   is the source of value judgments, not control over outcomes; the
   boundary call is that they belong with the-self territory. Flagged
-  for the supervisor in the commit message.
+  for the supervisor in the commit message. They are not linked under
+  Nearby terms because the nearest resolving cards on judgment-source
+  are the narrative-identity and self entries; the call stands for
+  supervisor review.
 - White 1959 ("Motivation Reconsidered: The Concept of Competence"):
   both carriers attempted this session failed (greatquestion.com.au
   served an error page over TLS; the archive.org zip-view PDF fetched
@@ -82,4 +97,12 @@ normalised for line breaks only):
 ## Verification
 
 dossier_check.py exit 0 on docs/enrichment/dossiers/agency.md before
-every push this session.
+every push this session (57 card links, 14 headers, 3 external
+carriers after the QC revision; 53 before it).
+
+Revision 2 (QC pass): Nearby terms block added; the manufactured
+divergence rewritten as an unresolved contrast with the contradiction
+explicitly unverified; story loglines repaired against full card
+re-reads; the Dewey "research keeps confirming" synthesis and the
+staged opener removed; the repeated "the say" mannerism reduced in
+prose.
