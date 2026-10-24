@@ -2322,3 +2322,24 @@ prose; any regex pass must grep the mangle patterns ("I i", "I thi",
   registry.json/manifests/existing dossiers, and NOT to write the
   dossiers themselves. Workers/supervisor: leave that proposal file to
   this agent; the owner decides what becomes a dossier.
+
+## Agent launch record (2026-10-24, supervisor-pplx-bridging-1024a)
+
+- Launched via Path A (owner-provided email): account
+  toddmartinez710224+31c3b@outlook.com (Perplexity account
+  toddmartin50889, Free plan)
+- Task URL: https://www.perplexity.ai/computer/tasks/12424079-8c18-4175-b809-60904197725a
+- Launched at 2026-10-24 13:54 UTC with the owner's NEW storyteller
+  prompt (supplied in-chat 2026-10-24, not the PROMPT-STORYTELLER.md
+  template): standard worker setup + run-clock/no-idle/taper rules, with
+  a storyteller PRIORITY section — find new Narrative Objects (Stories)
+  for principles, starting with Daoism, Buddhism and Pragmatism
+  principles that have 0 stories or single-angle stories, dig for
+  verifiable material that is not already everywhere, never invent,
+  cite opened sources. Storyteller-specific fallback ladder (0-story
+  principles first, second angles, source upgrades, re-verification).
+  Note for the stories pipeline: this prompt has the agent take a worker
+  baton rather than a storyteller lane (s1a...) — supervisors should
+  expect the storyteller in the worker baton list, and stories drafts
+  still go through docs/enrichment/drafts/ and the QC checklist in
+  PROTOCOL-STORIES.md.
