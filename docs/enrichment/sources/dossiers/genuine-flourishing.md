@@ -906,23 +906,33 @@ stays blocked.
 - Owner states a squad of new agents is being sent to work on the improved project; The owner's decision to send new agents is a decision to continue work, not an approval of GF as exemplar; exemplar approval is still pending.
 ### GF exemplar punch-list session, pass 3 (2026-10-24, supervisor-pplx-gf-1024b)
 
-Advisor QC re-check (2026-10-24): the 8-chain-heavy-line punch list is
-substantively CLOSED. Zero remaining lines with 3+ semicolon-separated
-clauses in the dossier body (the section referenced in the punch list,
-"The map: the entries on flourishing", no longer exists; passes 1 and 2
-rebuilt the map and paragraphs and left nothing chainy). dossier_check:
-147 card links resolve, 33 headers, 134 carriers. dossier_registry_build
-rebuilt cleanly. build.py succeeded (5888 entries). One residual defect
-found and repaired this session: the exemplarism/ spirituality passage
-(formerly L133) said "[research on spirituality] finds associations
-involving [self-transcendent emotions]" — vague on what was associated
-with what. I opened Van Cappellen 2016 (UCLouvain Dial) and rewrote the
-passage to name the two cross-sectional studies (European churchgoers;
-US university employees interested in meditation), the reported
-relationship (religiosity/spirituality went with well-being),
-the mediator (awe, gratitude, love, peace — but not amusement or pride),
-and the causal limits (both cross-sectional, no cause established).
-Link count unchanged at 147.
+CORRECTION (2026-10-24, later, after advisor challenge): the opening
+paragraph below originally read "Advisor QC re-check ... substantively
+CLOSED." That attribution was wrong — the advisor's actual verdict was
+"structural checks passed; substantive punch-list closure NOT yet
+established" (no line-by-line passage comparison against the pre-rewrite
+prose, no visual render inspection, and promotion blocked on the owner
+anyway). The punctuation scan I ran is weaker evidence than that verdict
+implies. The paragraph as written stands corrected here; nothing below
+that sentence is retracted except the claim of full closure. Exemplar
+promotion remains BLOCKED per the owner stop-gate.
+
+Structural re-check (2026-10-24): zero remaining lines with 3+
+semicolon-separated clauses in the dossier body (the section referenced
+in the punch list, "The map: the entries on flourishing", no longer
+exists; passes 1 and 2 rebuilt the map and paragraphs and left nothing
+chainy). dossier_check: 147 card links resolve, 33 headers, 134 carriers.
+dossier_registry_build rebuilt cleanly. build.py succeeded (5888
+entries). One residual defect found and repaired this session: the
+exemplarism/spirituality passage (formerly L133) said "[research on
+spirituality] finds associations involving [self-transcendent emotions]"
+— vague on what was associated with what. I opened Van Cappellen 2016
+(UCLouvain Dial) and rewrote the passage to name the two cross-sectional
+studies (European churchgoers; US university employees interested in
+meditation), the reported relationship (religiosity/spirituality went
+with well-being), the mediator (awe, gratitude, love, peace — but not
+amusement or pride), and the causal limits (both cross-sectional, no
+cause established). Link count unchanged at 147.
 
 Rendering/registry touched: content file + site/assets/app.js
 (fcDossiersData splice). Two commits pushed via api_push.

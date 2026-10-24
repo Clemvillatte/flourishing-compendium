@@ -20,7 +20,7 @@ The skill is conditional, not universal. The teaching notes state the condition 
 
 The demand is completeness, verbatim: "When you do opposite action, do it all the way. This means opposite posture, facial expression, thinking, what you say, and how you say it. 'Halfway' opposite action does not work."
 
-**Plain words** An emotion hands you an action the way a reflex hands you a flinch — quickly, confidently, and sometimes wrongly. Linehan's move is to catch that handoff and ask one question first: does the way I feel match what is actually happening? When the feeling fits, do the thing. When it does not fit, do the other thing — and do it with your whole body, not as a grudging half-measure. A half-hearted approach keeps the feeling's old fuel running; the full-body opposite is what actually cuts it off.
+**Plain words** An emotion arrives with an action attached — that is how emotions work, not a defect in you. Linehan's move is to pause before executing and check one thing first: does the way I feel match the facts in front of me? When it does — say, real danger — the feeling is doing its job, and the manual's own example is that the fear is meant to be felt, not suppressed. When it does not fit, the manual's instruction is to act opposite to the urge, all the way, repeatedly — posture, face, voice, words — because, in its own words, "'Halfway' opposite action does not work."
 
 *For example:* Suppose the urge after a conflict is to withdraw and wait to be pursued. Whether opposite action fits depends on the facts: if the fear of abandonment does not fit them, the opposite action might be a message that says you are still in this. The skill is conditional, not automatic, and it does not imply renewed contact is appropriate after every conflict.
 

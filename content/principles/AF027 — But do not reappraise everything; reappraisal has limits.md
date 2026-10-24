@@ -22,7 +22,7 @@ In their sample of 170 participants, the result split by context:
 
 A 2016 corrigendum corrected the depression scores of 7 of the 170 participants; the authors report that the substantive results, their interpretation, and the conclusion remain completely unchanged ([corrigendum](https://journals.sagepub.com/doi/10.1177/0956797615627417)). The study measured reappraisal ability, stressor controllability and depression; it did not test whether reframing a specific job or relationship is denial. My check follows from the finding: before reframing, ask what you could change in the situation.
 
-**Plain words** Reframing is the right tool when the situation is fixed and only your reaction is on the table. Reframing the same situation when you can actually change it becomes a polite form of giving up. The Troy study's catch — the thing most people miss — is that the same skill is helpful in one case and harmful in the other. So the test comes first, not after: could you realistically change this? If the honest answer is yes, the reappraisal you were about to do is probably avoidance dressed as acceptance.
+**Plain words** Finding a less upsetting way to see a problem can help you live with it, but it does not change the problem itself. Before reframing, ask what action is actually available. That is a question suggested by this study, not proof that reframing a changeable situation is always harmful.
 
 *For example:* You tell yourself that a misassigned weekly task is fine. Separately, consider whether you could ask for reassignment. Reinterpreting the task and trying to change it are different options.
 

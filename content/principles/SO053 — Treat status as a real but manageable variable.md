@@ -16,9 +16,9 @@ Marmot and Bobak's summary of the Whitehall programme states the finding in one 
 
 > "A gradient in mortality among civil servants who are not poor argues for the importance of psychosocial factors linked to position in the hierarchy." (Marmot & Bobak, 2000, BMJ 321:1124-1128)
 
-**Plain words** Your body does not wait to know your bank balance before it takes a position on your life — it reads your place in the pecking order first. The Whitehall studies are the famous case: office workers who were not poor still had hearts that gave out in a pattern set by rank. The finding is uncomfortable because it implies that status loss is a health event, not just a mood. The manageability is not about chasing rank: the gradient moves through control and respect, and control and respect are things a workplace or a relationship can be designed to have more of.
+**Plain words** The Whitehall finding is the one to sit with: even among civil servants who were not poor, health still tracked rank within the organisation. The reported mechanism is the degree of control people have over their work and their lives — control, not money alone, is what the authors point to as the gradient's carrier. What this does not license is a personal prescription: the studies report associations at the group level, and they do not say what any one individual's status change will do to their health. The practical use is in where the leverage sits — control and respect are things a job or an institution can be arranged to have more of, and that is a design question, not a rank-chasing one.
 
-*For example:* Whitehall's civil servants were, by any reasonable standard, not poor; the heart disease still tracked the org chart. The body reads rank. Respect and control are nutrients.
+*For example:* Whitehall's civil servants were, by any reasonable standard, not poor; the reported cardiovascular gradient still tracked the organisational hierarchy. The studies' proposed carrier is control and respect, not income alone.
 ## Psychology parallels
 
 - Marmot (2004) on status syndrome; the Whitehall studies (Marmot et al., 1978, 1991); status and health (Sapolsky, 2005); the psychosocial-gradient literature (Wilkinson and Pickett, 2009).
