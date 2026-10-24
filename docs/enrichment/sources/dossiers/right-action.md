@@ -359,3 +359,15 @@ Bloom (comps.)". The quotation's nesting was restored to the source
 (the Teacher's words are inside double quotes, as on the carrier).
 The Chuan-xi lu passage itself remains raw-verified against the
 opened carrier; the ST384 ctext verification is unaffected.
+
+## Verification pass (worker-pplx-dos24-1025a, 2026-10-24 ~T+39)
+
+All 12 quoted passages in the dossier of record were re-verified
+against freshly downloaded copies of their carriers (full-match or
+in-order fragment match): SN 45.8 (x2), Bodhi waytoend (x3), Aristotle
+NE II.2, Aquinas ST II-II q.40 a.1, Project Gutenberg NE (x3), IEP
+Wang Yangming (x2), plus the Chuan-xi lu passage verified earlier
+this session. One normalization recorded: the newadvent Aquinas page
+carries markup spacing artifacts around punctuation ("just , three
+things are necessary ."); the dossier quote is the clean-space
+rendering, verbatim otherwise. No corrections needed.
