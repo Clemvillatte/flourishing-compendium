@@ -422,3 +422,16 @@ path" (two-forms grading), "Of those, right view is the forerunner" and
 to the culmination of their development" (forerunner as dependence, not
 training sequence), all four probes found in the opened text. The
 dossier of record and the draft are identical; checker exit 0 on both.
+
+## Pass 20 addendum 2 (same session, pre-report verification)
+
+All remaining external carriers of the published dossier re-verified
+this session against fresh raw downloads: MN 9 (accesstoinsight; the
+Sammaditthi quote and the unskillful-roots quote, both probes found),
+Diamond Sutra section 31 (nyx.net Conze text; all probes found after
+whitespace normalization, the raw text wraps lines), SEP Nagarjuna
+("not some kind of primordial reality ante rem but a corrective to a
+mistaken view of how the world exists", found verbatim). Together with
+the MN 117 pass-20 probes, every quoted passage in the dossier now
+rests on a carrier opened and checked this session or on the previous
+sessions' recorded verifications.
