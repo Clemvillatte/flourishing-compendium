@@ -189,13 +189,14 @@ Supporting cards consulted:
 - [The dizziness of freedom](../../../content/concepts/The%20dizziness%20of%20freedom.md)
   — the Kierkegaard passage with its carrier, and the honest limit that the passage
   sits inside a theological argument
-- [Radical freedom](../../../content/concepts/Radical%20freedom.md) (
-  the Sartrean for-itself in a factical situation via SEP),
+- [Radical freedom](../../../content/concepts/Radical%20freedom.md) (the Sartrean
+  for-itself in a factical situation via SEP; the sentence verified this session
+  against [the opened SEP carrier](https://plato.stanford.edu/entries/sartre/)),
   [Psychological reactance](../../../content/concepts/Psychological%20reactance.md)
   (the Brehm definition and the boomerang effect with the Frontiers
   carrier),
-  [Situated freedom](../../../content/concepts/Situated%20freedom.md) (
-  the Sartre–Merleau-Ponty exchange on freedom-in-situation, with the Helsinki
+  [Situated freedom](../../../content/concepts/Situated%20freedom.md) (the
+  Sartre–Merleau-Ponty exchange on freedom-in-situation, with the Helsinki
   thesis carrier),
   [Anguish (angoisse)](../../../content/concepts/Anguish%20%28angoisse%29.md) (the anguish-versus-fear distinction from Being and Nothingness),
   [Second-order desires](../../../content/concepts/Second-order%20desires.md) (Frankfurt's 1971 volitions and the figure of the wanton),
@@ -241,7 +242,11 @@ Supporting cards consulted:
 - [Ecological self](../../../content/concepts/Ecological%20self.md) — Naess's account
   of the self as constituted by relations with the living world, with the Devall
   essay carrying the passage on the card; practice principles R119, R116, P152, R130
-- [Nature as teacher](../../../content/concepts/Nature%20as%20teacher.md) (the Zhuangzi ch. 22 passage with the Watson carrier),
+- [Nature as teacher](../../../content/concepts/Nature%20as%20teacher.md) (the
+  Zhuangzi ch. 22 passage, verified this session against
+  [the opened carrier](https://www.26reads.com/library/92138-zhuangzi/22); the page
+  does not itself state the translator, so the Watson attribution rests on the
+  card),
   [Intrinsic value of nature](../../../content/concepts/Intrinsic%20value%20of%20nature.md)
   (Taylor's 1981 principle with the SEP vocabulary and the card's own
   limits note),
