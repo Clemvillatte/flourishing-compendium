@@ -203,3 +203,10 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - Opened unprompted: [Dhammapada II](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html), complete chapter; [DN 16](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html), part VI section 8 and its surrounding final instructions. The exact final exhortation and Dhammapada 21 quotation match, including the exclamation mark. The verse 23 fragment is exact.
 - Verse 24 supports the conduct/discernment/self-control/righteousness wording. Corrected source-list range 21-23 to 21-24 to match the actual body references.
 - Removed “the page lists” and separated the inherited Hadot thinker comparison from primary sources. No new Hadot attribution or whole-book certification. Kept the strong Plain words and promise/call example unchanged. Read Habit maintenance for link context, not empirical certification.
+
+## B030: precepts, not a contentment item
+
+- The reopen note mistakenly named contentment. The actual title/file was checked before any page edit: B030 is Keep the precepts as training rules, not commandments. No contentment prose was written to it; the incidental AN 4.28/MN 2 reading is not evidence for this item.
+- Opened unprompted: [Bodhi, Going for Refuge & Taking the Precepts](https://accesstoinsight.org/lib/authors/bodhi/wheel282.html), Taking the Precepts I; [Five Precepts study guide](https://accesstoinsight.org/ptf/dhamma/sila/pancasila.html), complete page; [AN 8.41 Britannica primary-source mirror](https://cdn.britannica.com/primary_source/gutenberg/PGCC_classics/canon/anguttara/an08-041.html), full text.
+- Bodhi quotation and fourth-precept formula match exactly. The initial resistance/repetition/virtue paraphrase is explicitly Bodhi's explanation, not presented as a new empirical result. AN 8.41's distinct day-and-night, eight-factor observance is accurately kept separate.
+- The strong body, Plain words and truthful-deadline example remain unchanged. Moved the Hadot comparison to Related thinkers and removed “the page lists”; no new book attribution or whole-source endorsement.
