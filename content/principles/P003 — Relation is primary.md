@@ -58,3 +58,6 @@ The bad student who thrives under one teacher. What's your version — where doe
 %%
 Nothing exists independently. What in your current life is actually a web of transactions rather than a thing?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the root equation the page quotes, dependent co-arising explained as emptiness.

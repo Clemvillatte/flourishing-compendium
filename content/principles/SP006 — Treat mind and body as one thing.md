@@ -31,3 +31,6 @@ Spinoza states the identity in the scholium to Part III, Proposition 2: mind and
 ## Sources
 
 - [Spinoza, B. (1677). Ethics, II Prop. VII and III Prop. II scholium. Trans. R. H. M. Elwes, Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — both passages verified verbatim against the downloaded text
+
+## Related concepts
+- [[T050 — Nagarjuna]]: dependent origination from the Mulamadhyamakakarika, the page's unity line.

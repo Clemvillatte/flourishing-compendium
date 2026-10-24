@@ -53,3 +53,6 @@ The fight at 9pm after skipping dinner and four hours of sleep. What's your vers
 %%
 Every state of mind arises from conditions. What's your current state, and what are its actual conditions? What would changing one condition do?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: dependent origination as causality, the Mulamadhyamakakarika account the page cites.

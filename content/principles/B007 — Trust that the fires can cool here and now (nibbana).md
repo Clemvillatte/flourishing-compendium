@@ -54,3 +54,6 @@ The moment in an argument when you genuinely stop needing to win. When was your 
 %%
 The end of suffering isn't elsewhere or later. Where are you currently postponing it to, and what would here-and-now actually require?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the unconditioned as cessation, MMK 25, the page's cessation line.

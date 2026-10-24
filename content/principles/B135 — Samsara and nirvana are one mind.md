@@ -52,3 +52,6 @@ The commute that enrages you daily and the one you barely remember. What's the a
 %%
 Seen through reactivity it's suffering; seen clearly it's freedom. What's your current Tuesday?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the Mulamadhyamakakarika challenge to the samsara-nirvana separation the page explains.

@@ -46,7 +46,7 @@ For flourishing, shunyata functions as a [[Cognitive defusion|cognitive defusion
 [[B123 — Refuse both extremes — nothing is permanent, nothing is nothing]]
 [[B141 — Let emptiness itself be empty]]
 [[B143 — Emptiness is relational fullness]]
-## Cited in philosophy parallels
+- [[T050 — Nagarjuna]]: the doctrine's great systematizer; the concept's argument proceeds from dependent origination.## Cited in philosophy parallels
 
 - [[B121 — Form is emptiness, emptiness is form (Heart Sutra)]]
 - 

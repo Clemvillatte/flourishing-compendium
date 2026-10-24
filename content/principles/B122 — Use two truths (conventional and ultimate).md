@@ -56,3 +56,6 @@ Money is real at the checkout and empty under analysis. What's your version of t
 %%
 Use both truths. Where in your current life does one truth need to give way to the other?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the two truths the page quotes, MMK 24.8 in Garfield's translation.

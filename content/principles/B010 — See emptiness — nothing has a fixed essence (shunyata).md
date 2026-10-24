@@ -46,3 +46,6 @@ The impossible boss retires and the whole job transforms. What's your current im
 %%
 Nothing has a fixed essence. Where in your current life would seeing that actually change something rather than just being a nice idea?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: MMK XXIV.18 in Garfield's translation, the page's root text: whatever is dependently co-arisen, that is explained to be emptiness.

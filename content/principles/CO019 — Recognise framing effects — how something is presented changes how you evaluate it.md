@@ -35,3 +35,6 @@ Later research had to sort out what "framing" even names: Levin, Schneider, and 
 ## Practice
 
 - When making a decision, deliberately reframe it. Describe it in terms of both gains and losses, both survival and mortality. If your preference flips, the framing is driving the choice, not the substance.
+
+## Related concepts
+- [[T050 — Nagarjuna]]: dependent origination, the Mulamadhyamakakarika line the page pairs with framing.

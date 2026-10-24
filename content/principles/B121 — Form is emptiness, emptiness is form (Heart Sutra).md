@@ -51,3 +51,4 @@ Emptiness is not elsewhere — it's how things work. Where in your current life 
 
 ## Related concepts
 - [[T035 — Thich Nhat Hanh]]: the interbeing reading of the sutra the page cites (Hanh, Interbeing).
+- [[T050 — Nagarjuna]]: chapter 24's answer to the objection that emptiness undermines practice, MMK 24.18.

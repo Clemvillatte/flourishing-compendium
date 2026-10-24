@@ -39,3 +39,6 @@ The moment you stop trying to observe your own dancing and just dance. What's yo
 %%
 Stop looking for a watcher. Where in your current life is the looking-for-the-watcher actually the problem?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the Madhyamaka move the page quotes, dependent co-arising explained as emptiness.

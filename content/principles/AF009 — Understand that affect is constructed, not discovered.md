@@ -34,3 +34,6 @@ Barrett's theory of constructed emotion can be put in one of her sentences: "An 
 ## Practice
 
 - When you notice a feeling, attend to the bodily sensations and the context around them before describing the experience.
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the emptiness-of-inherent-nature parallel the page cites from the Mulamadhyamakakarika.

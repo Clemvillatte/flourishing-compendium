@@ -48,3 +48,6 @@ The person who lectures about non-attachment for an hour. What's your version of
 %%
 Emptiness is also empty. Where in your current practice is the emptiness itself being held?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: MMK 13.7, the dependence of the terms empty and not-empty, the page's root passage.

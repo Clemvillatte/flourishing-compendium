@@ -76,3 +76,6 @@ The tuning is a skill and the right pitch changes with the day. On a low-energy 
 - [[B009 — Walk the Middle Way]]
 - [[B052 — Practice compassion (karuna)]]
 - [[P032 — Walk the middle path between objectivism and relativism]]
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the middle way of view, MMK 15, the concept's Madhyamaka section.

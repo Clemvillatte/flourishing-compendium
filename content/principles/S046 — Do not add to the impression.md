@@ -51,3 +51,6 @@ Which additions do you habitually make: catastrophe, personalisation, blame? Wha
 %%
 When is the addition justified, and when is it true that something really is terrible?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the questions about emptiness the page cites via Westerhoff's SEP entry.

@@ -43,3 +43,6 @@ The diagnosis is devastating because nothing is permanent — and treatable for 
 %%
 Things change, and therefore things matter. Where in your current life does the change actually make it matter more rather than less?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the middle way of view, MMK 15, the page's refusal of extremes.

@@ -49,3 +49,6 @@ The performer who thinks about the audience's judgment flops. Where is your self
 %%
 Put yourself last and be found first. Where in your current situation would that paradox actually apply?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the no-self line the page cites from the Buddhist tradition.

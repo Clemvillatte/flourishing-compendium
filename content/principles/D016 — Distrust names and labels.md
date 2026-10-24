@@ -31,8 +31,7 @@ Imagine you call yourself a procrastinator but begin some tasks promptly in the 
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the chapter 2 section 10 criticism the page cites: argumentative words failing to reach their point.
-
-## Sources
+- [[T050 — Nagarjuna]]: the two truths, conventional and ultimate, from the Mulamadhyamakakarika.## Sources
 
 - [The Tao Teh King, trans. James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 1, 32
 - [Zhuangzi, trans. James Legge (The Texts of Taoism, Sacred Books of the East 39), ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Book II, section 10

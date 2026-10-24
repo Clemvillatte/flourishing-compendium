@@ -58,3 +58,6 @@ Where are you adding when you should be leaving room? What are you hoping the ad
 %%
 The empty part is what works. What in your life is full to the point of being useless?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the emptiness of inherent nature the page's space argument draws on.

@@ -39,8 +39,7 @@ Chapter 16 applies the word to practice. There he writes that it is "not possibl
 - [Thich Nhat Hanh, The Heart of the Buddha's Teaching (originally published by Parallax Press, 1998), chs. 8, 16 and 19 — blockquote and interbeing passages](https://drive.google.com/uc?export=download&id=1WSB8yRfJtDfY1JmfXzHLHdVr4LiDzAcV)
 
 - [Thich Nhat Hanh, "Interbeing" (excerpt from The Art of Living), Awakin.org](https://www.awakin.org/v2/read/view.php?tid=2619) — supports the coinage account
-
-## Cited in philosophy parallels
+- [[T050 — Nagarjuna]]: the emptiness chapter the concept's practice section draws on, absence of a separate self.## Cited in philosophy parallels
 
 - [[B015 — Nothing exists alone (interbeing)]]
 - [[B121 — Form is emptiness, emptiness is form (Heart Sutra)]]

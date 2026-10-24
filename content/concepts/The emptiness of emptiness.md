@@ -32,3 +32,6 @@ The compendium's B141 principle uses the same warning as a check on argument: wr
 ## Cited in philosophy parallels
 
 - [[B141 — Let emptiness itself be empty]]
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the emptiness of the term empty, MMK 13.7, the concept's root.

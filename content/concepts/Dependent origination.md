@@ -41,7 +41,7 @@ The same sutta also describes the cessation of suffering: "That is how this enti
 [[K041 — Trace every harm to conditions, including your own]]
 [[BE006 — Know that behaviour has a functional analysis — every behaviour serves a function]]
 [[B068 — Find the gap between stimulus and response]]
-## Cited in philosophy parallels
+- [[T050 — Nagarjuna]]: dependent origination as causality, the Mulamadhyamakakarika section the concept carries.## Cited in philosophy parallels
 
 - [[P003 — Relation is primary]]
 - [[Y056 — Interrupt the chain from stimulus to ruin]]

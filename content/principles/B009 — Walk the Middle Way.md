@@ -46,3 +46,6 @@ The diet that swings between strict restriction and whatever. What's your versio
 %%
 Neither numbing yourself nor warring with yourself. Which one is your current default, and what would the other half look like?
 -->
+
+## Related concepts
+- [[T050 — Nagarjuna]]: the middle way of view, MMK 15, the page's Madhyamaka line.
