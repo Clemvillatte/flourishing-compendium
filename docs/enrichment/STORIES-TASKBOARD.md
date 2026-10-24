@@ -57,3 +57,15 @@ factual sentences and quotations, not only in Sources.
 - Two stories for the same principle are allowed only when their recorded angles differ.
 - Published stories whose principle targets sit in live bands stay `published_backlinks_pending`
   until the supervisor (or the live band owner, via ROUTE) appends the backlink.
+
+## Maintenance coupling note (2026-10-24, dossiers supervisor)
+
+The published dossiers now each carry a 4th "Story" section whose
+loglines are compressed from the story cards' own text (spec:
+docs/enrichment/dossiers/README.md item 4). When a story card's text
+changes materially, the dossier loglines that compress it may need a
+matching review pass — the dossier bands own that pass (routed via
+docs/enrichment/dossiers/QC-STORY-2026-10-24.md). No action needed
+from storytellers beyond the existing card-edit discipline; this note
+exists so card edits are not treated as invisible to the rest of the
+wiki.
