@@ -45,6 +45,13 @@ on-theme cards since the last pass) found no new on-theme concept
 cards; Action over intention is the right-action factor card, held by
 that factor's own dossier, and stays excluded.
 
+Revision 7 (closing fixes): the Listening gloss compressed to the
+card's own claim (the dialogical tradition's account of listening);
+the Arnold rendering now carries its own link to the opened Gutenberg
+plain text instead of workflow wording; the ST276, ST227, ST246 and
+ST343 cards opened and their loglines verified in the final audit
+(all matched).
+
 ## Quotes and carriers, all opened this session (raw text)
 
 1. Four abstentions, SN 45.8 (Thanissaro, Access to Insight):
