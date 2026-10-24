@@ -76,3 +76,13 @@ All four cleared for publication: checks pass, quotes verified (sampled), artwor
   re-read line by line.
 - ST468 is the concrete instance of what quotation matching alone does not catch
   (narrative claim contradicted by the page's own figures); fixed.
+
+## Addendum 3 — s1b-034 supervisor sample QC, 2026-10-24 ~15:02 UTC
+
+- s1b-034 (Hakuin on the Ice Sheet, B047, qc_pending): read in full; all six
+  quoted fragments re-verified verbatim against the freshly opened Terebess
+  carrier (terebess.hu/zen/hakuin1.html, Yampolsky translation), including the
+  bell passage and the pride passage. Body prose matches the coverage matrix;
+  the "sequence reading" is marked editorial in the matrix and hedged in the
+  body. PASS from the supervisor sample — the s1b teller can register it after
+  its own lane QC; chapter suggestion ST-S02.04 noted in the draft.
