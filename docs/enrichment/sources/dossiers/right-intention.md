@@ -266,3 +266,26 @@ generalization was unsupported). The genuine-divergence flag for dos19
 is RESTORED to OPEN. Normalization note: the Thanissaro quotation uses
 a straight apostrophe in "It's", matching the pdftotext extraction of
 the PDF.
+
+## Genuine divergence grounded, attempt 2 (worker-pplx-dos24-1025a)
+
+A new affirm/deny pair was opened and verified for the question "Is
+anger ever fitting?". Proposition: the good person feels anger at
+wrongs. AFFIRM: Aristotle, Nicomachean Ethics IV.5 (Ross translation,
+Internet Classics Archive, https://classics.mit.edu/Aristotle/
+nicomachaen.4.iv.html, downloaded as ne45.html): "The man who is angry
+at the right things and with the right people, and, further, as he
+ought, when he ought, and as long as he ought, is praised." and "For
+those who are not angry at the things they should be angry at are
+thought to be fools... and to endure being insulted and put up with
+insult to one's friends is slavish." (both verbatim; the ellipsis
+spans verified in-order fragments of the source passage). DENY: the
+Karaṇīya Metta Sutta (already-opened carrier, quote already verified
+in this dossier): "With good will for the entire cosmos, cultivate a
+limitless heart: Above, below, & all around, unobstructed, without
+enmity or hate." The two carriers give incompatible answers to the
+same question (what the good person feels toward wrongdoers); the
+unresolved statement names the open edge (whether the sutta's enmity
+and Aristotle's anger name the same passion). The section intro was
+updated to three questions with the third carrying the stated
+disagreement. Checker exit 0.

@@ -162,7 +162,7 @@ The passages below are held side by side; whether the traditions disagree about 
 
 > "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action." ([Bhagavad Gita 2.47](https://www.bhagavad-gita.us/bhagavad-gita-2-47/)).
 
-These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The two questions below gather further passages held side by side. Each is framed around one proposition with quotations from opened carriers; in both cases the carriers can be read as compatible, and the open question is recorded rather than a manufactured disagreement.
+These excerpts do not establish whether the traditions disagree about leaving household life: the MN 19 passage affirms renunciation-thinking without prescribing the abandonment of duties, and the Gita passages deny that renunciation is sufficient, not that it is beneficial. The three questions below gather further passages held side by side. The first two remain open, their carriers readable either way; the third carries a stated disagreement.
 
 ### Is the resolve an abstention or a cultivation?
 
@@ -191,6 +191,20 @@ Thanissaro, writing on the effort the path requires, marks desire as its working
 > "It's worth noting here the centrality of desire in right effort. As AN 10:58 observes, all phenomena are rooted in desire. This observation applies to skillful as well as to unskillful phenomena. Without skillful desire, it would be impossible to develop the path (SN 51:15)." ([Thanissaro Bhikkhu, Right Mindfulness](https://accesstoinsight.org/lib/authors/thanissaro/rightmindfulness.pdf)).
 
 The word desire is doing different work in the two passages. Bodhi's target is the desire that runs toward gratification, which he names a root of suffering; his own chapter on right effort distinguishes the energy behind practice from that pull, writing that the same factor "fuels desire, aggression, violence, and ambition on the one hand, and generosity, self-discipline, kindness, concentration, and understanding on the other" ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)). Thanissaro's skillful desire is the wish that moves practice. Read together, the two passages mark the same divide from two sides, craving to be abandoned and skillful wanting to be trained. What neither passage settles is whether the skillful wanting is itself relinquished when the work is done; that question stays open.
+
+### Is anger ever fitting?
+
+The proposition: the good person feels anger at wrongs. Aristotle affirms it in the chapter on good temper, and sharpens the point against those who never anger:
+
+> "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised." ([Aristotle, Nicomachean Ethics IV.5, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
+
+> "For those who are not angry at the things they should be angry at are thought to be fools... and to endure being insulted and put up with insult to one's friends is slavish." ([Aristotle, Nicomachean Ethics IV.5, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
+
+The Karaṇīya Metta Sutta denies it, instructing goodwill toward every being without exception:
+
+> "With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." ([Sutta Nipāta 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)).
+
+Both texts answer the same question, what the good person feels toward those who do wrong. Aristotle answers with anger rightly placed, and calls its absence slavish; the sutta answers with a heart that holds no enmity toward anyone, wrongdoers included. The two answers cannot both name the same ideal: a person either has room for anger in their character or does not. What remains unresolved is whether the sutta's enmity and Aristotle's anger name the same passion; the resolve on freedom from ill will is the sutta's term for the goal, and Aristotle's chapter would call that resolve a deficiency.
 
 ## Practice: variation, selection, retention
 
