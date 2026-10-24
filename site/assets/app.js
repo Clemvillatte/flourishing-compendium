@@ -10182,6 +10182,315 @@ window.fcDossiersData = {
       "group": "challenges",
       "status": "published",
       "art": "assets/dossier-art/uncertainty.jpg"
+    },
+    {
+      "id": "overload-overwhelm",
+      "title": "Overload and Overwhelm",
+      "question": "When the world gives more than a person can take in, what still works?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This dossier is a map, not an essay. A reader who asks \"what do the research and the traditions say about being overwhelmed?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person meet more than they can hold with rest, structure and steadiness, so that being overwhelmed becomes information and not a verdict."
+        },
+        {
+          "t": "p",
+          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "- Overwhelm and saturation: held under the information and load groups below. - Burnout: held under the demands and resources group; the stress response itself belongs to a possible future Stress dossier and partly to the Anxiety dossier. - Cognitive load: held under the load group below; attention capture and multitasking are shared with the Attention dossier."
+        },
+        {
+          "t": "p",
+          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the divergences below."
+        },
+        {
+          "t": "h",
+          "x": "The map: every entry the wiki holds on overload and overwhelm"
+        },
+        {
+          "t": "h2",
+          "x": "Too much input"
+        },
+        {
+          "t": "p",
+          "x": "[Information overload research](card:Information%20overload%20research): studies on how excessive information input degrades decision quality, increases stress, and paradoxically reduces knowledge."
+        },
+        {
+          "t": "p",
+          "x": "[Choice overload](card:Choice%20overload): more options degrade satisfaction and decision quality."
+        },
+        {
+          "t": "p",
+          "x": "[Heavy media multitasking](card:Heavy%20media%20multitasking): the media-use pattern studied by Ophir, Nass and Wagner."
+        },
+        {
+          "t": "p",
+          "x": "[Media multitasking](card:Media%20multitasking): the simultaneous use of multiple information streams, and the question of whether heavy users differ in cognitive control."
+        },
+        {
+          "t": "p",
+          "x": "[Notification and feed research on attention capture](card:Notification%20and%20feed%20research%20on%20attention%20capture): research on whether smartphone notifications and infinite feeds pull attention away from what a person is doing."
+        },
+        {
+          "t": "p",
+          "x": "[Digital well-being](card:Digital%20well-being): the impact digital technologies have on a life that is good for a human being."
+        },
+        {
+          "t": "h2",
+          "x": "Load and its limits"
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive load theory](card:Cognitive%20load%20theory): Sweller's theory of working-memory demands in learning and instruction."
+        },
+        {
+          "t": "p",
+          "x": "[Load theory of attention](card:Load%20theory%20of%20attention): Lavie's account of selective attention, offered as a resolution to the debate between early and late selection."
+        },
+        {
+          "t": "p",
+          "x": "[Directed attention fatigue](card:Directed%20attention%20fatigue): Kaplan's name for mental fatigue affecting effortful, voluntarily controlled attention."
+        },
+        {
+          "t": "p",
+          "x": "[Ego depletion](card:Ego%20depletion): the proposal that self-control is a limited resource depleted after a period of exertion."
+        },
+        {
+          "t": "p",
+          "x": "[Progressive overload in attentional training](card:Progressive%20overload%20in%20attentional%20training): raise the demand on a system in steps so that it keeps adapting."
+        },
+        {
+          "t": "h2",
+          "x": "Demands, resources and burnout"
+        },
+        {
+          "t": "p",
+          "x": "[Burnout](card:Burnout): the WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed."
+        },
+        {
+          "t": "p",
+          "x": "[Maslach burnout model](card:Maslach%20burnout%20model): burnout described through emotional exhaustion, depersonalization, and reduced personal accomplishment."
+        },
+        {
+          "t": "p",
+          "x": "[The job demands-resources model](card:The%20job%20demands-resources%20model): working conditions fall into two broad categories: job demands and job resources."
+        },
+        {
+          "t": "p",
+          "x": "[Conservation of Resources Theory](card:Conservation%20of%20Resources%20Theory): Hobfoll's 1989 model of stress, presented as an alternative to the phenomenological stress models."
+        },
+        {
+          "t": "p",
+          "x": "[Impression-management burnout research](card:Impression-management%20burnout%20research): emotional-labor research distinguishing surface acting from deep acting."
+        },
+        {
+          "t": "p",
+          "x": "[Empathic distress](card:Empathic%20distress): Klimecki and colleagues caution that excessive sharing of others' negative emotions may be maladaptive."
+        },
+        {
+          "t": "p",
+          "x": "[Allostatic load](card:Allostatic%20load): McEwen's term for the cumulative wear the body takes when stress-mediating systems stay chronically over- or under-active."
+        },
+        {
+          "t": "p",
+          "x": "[Stress response (Lupien, McEwen)](card:Stress%20response%20%28Lupien%2C%20McEwen%29): the body's coordinated reaction to a perceived threat."
+        },
+        {
+          "t": "p",
+          "x": "[The stress-buffering model](card:The%20stress-buffering%20model): Cohen and Wills's account of how social support touches health."
+        },
+        {
+          "t": "h2",
+          "x": "Recovery and rest"
+        },
+        {
+          "t": "p",
+          "x": "[Effort-recovery cycles](card:Effort-recovery%20cycles): work draws on a person, and time away from work lets that drain ease."
+        },
+        {
+          "t": "p",
+          "x": "[Recovery experiences](card:Recovery%20experiences): four ways people recuperate from work during leisure time."
+        },
+        {
+          "t": "p",
+          "x": "[Recovery research](card:Recovery%20research): Sonnentag's research programme on how people unwind from work stress."
+        },
+        {
+          "t": "p",
+          "x": "[Recovery science](card:Recovery%20science): the occupational-health psychology line on how people recuperate from demands."
+        },
+        {
+          "t": "p",
+          "x": "[Stress cycle completion (Nagorski, Sapolsky)](card:Stress%20cycle%20completion%20%28Nagorski%2C%20Sapolsky%29): completing the stress cycle as a shift from stress toward relief."
+        },
+        {
+          "t": "p",
+          "x": "[Slow-paced breathing](card:Slow-paced%20breathing): the deliberate slowing of breath below the everyday rate."
+        },
+        {
+          "t": "p",
+          "x": "[Distress tolerance (DBT)](card:Distress%20tolerance%20%28DBT%29): the perceived capacity to withstand aversive states, distinguished from the act of withstanding them."
+        },
+        {
+          "t": "p",
+          "x": "[Stress inoculation training](card:Stress%20inoculation%20training): Meichenbaum's method for building coping capacity before stress arrives."
+        },
+        {
+          "t": "h2",
+          "x": "Rest in the traditions"
+        },
+        {
+          "t": "p",
+          "x": "[The importance of rest](card:The%20importance%20of%20rest): Aristotle's argument that rest is what work is for."
+        },
+        {
+          "t": "p",
+          "x": "[The completeness of rest](card:The%20completeness%20of%20rest): Aristotle's treatment of rest in Book X, answering the limit that no human being can work continuously."
+        },
+        {
+          "t": "p",
+          "x": "[Discipline of rest](card:Discipline%20of%20rest): the monastic practice of regulating rest by rule."
+        },
+        {
+          "t": "p",
+          "x": "[The rhythm of rest](card:The%20rhythm%20of%20rest): in the Zhuangzi, nature supports the body through the stages of a life: toil, then ease, then rest at death."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is the capacity to keep going a limited resource?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when effort runs out, is something finite being used up? Baumeister and colleagues argued so from four experiments:"
+        },
+        {
+          "t": "q",
+          "x": "\"These results suggest that the self's capacity for active volition is limited and that a range of seemingly different, unrelated acts share a common resource.\" ([Baumeister, Bratslavsky, Muraven and Tice, JPSP 1998, abstract](https://pubmed.ncbi.nlm.nih.gov/9599441/)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "A 23-laboratory preregistered replication of the standard protocol found almost nothing:"
+        },
+        {
+          "t": "q",
+          "x": "\"Meta-analysis of the studies revealed that the size of the ego-depletion effect was small with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 0.15].\" ([Hagger and colleagues, Perspectives on Psychological Science 2016, abstract](https://pubmed.ncbi.nlm.nih.gov/27474142/)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Later work has not closed the question: a 12-laboratory replication of a different task pair [found a small and significant effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/) (d = 0.10), and a reader should treat the resource model of self-control as unsettled."
+        },
+        {
+          "t": "h2",
+          "x": "Is rest for the sake of work, or work for the sake of rest?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: what is rest for? Aristotle gives both answers in the same book. In the discussion of amusement he says:"
+        },
+        {
+          "t": "q",
+          "x": "\"Relaxation, then, is not an end; for it is taken for the sake of activity.\" ([Aristotle, Nicomachean Ethics X.6, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "A few paragraphs later, on contemplation, he reverses the order:"
+        },
+        {
+          "t": "q",
+          "x": "\"And happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace.\" ([Aristotle, Nicomachean Ethics X.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The first treats rest as a tool for further effort; the second treats leisure as the point of effort. The first is the practical answer for someone who is overwhelmed now, since it explains why rest restores work. The second asks what the work was for."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying is the pace and the input. The look-alikes of rest are scrolling, more tasks and the next screen. The adaptive moves are to schedule rest as rest, to let attention be held by something that asks nothing of it, and to bring the body down before the mind is asked to think."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Rest as practice](card:K200%20%E2%80%94%20Rest%20as%20practice): schedule one deliberate do-nothing period daily, ten minutes, guilt-free."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Soft fascination](card:K107%20%E2%80%94%20Soft%20fascination): spend 20 to 30 minutes in an environment that gently engages attention without demanding it."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Non-sleep deep rest (NSDR)](card:K409%20%E2%80%94%20Non-sleep%20deep%20rest%20%28NSDR%29): guided practices that take the brain and body into a state of deep relaxation."
+        },
+        {
+          "t": "p",
+          "x": "The cards carry their own evidence notes. Several of these are proposals built on the traditions and have not been tested as protocols."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the daily ten minutes, or the walk without a phone, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        },
+        {
+          "t": "h",
+          "x": "Story: the stories that carry the theme"
+        },
+        {
+          "t": "p",
+          "x": "The compendium's stories that best carry this theme's aspects, each retold in a line; the full telling lives on the card."
+        },
+        {
+          "t": "h2",
+          "x": "Rest as orientation"
+        },
+        {
+          "t": "p",
+          "x": "[ST393 — The Shrine the Nazis Could Not Burn](card:ST393%20%E2%80%94%20The%20Shrine%20the%20Nazis%20Could%20Not%20Burn): in The Sabbath (1951), Heschel calls the seventh day the inspirer and the weekdays the inspired: rest gives activity its orientation."
+        },
+        {
+          "t": "h2",
+          "x": "Stopping and presence"
+        },
+        {
+          "t": "p",
+          "x": "[ST029 — Phil Connors Stops Fighting the Day](card:ST029%20%E2%80%94%20Phil%20Connors%20Stops%20Fighting%20the%20Day): Phil Connors, trapped in a repeating day, runs the full repertoire of indulgence, manipulation and despair, and nothing works; the day resets."
+        },
+        {
+          "t": "p",
+          "x": "[ST060 — Aṅgulimāla Stops](card:ST060%20%E2%80%94%20A%E1%B9%85gulim%C4%81la%20Stops): Angulimala, running at full speed after the Buddha, cannot catch a man walking at normal pace, and shouts: stop."
+        },
+        {
+          "t": "p",
+          "x": "[ST088 — Paṭācārā Washes Her Feet](card:ST088%20%E2%80%94%20Pa%E1%B9%AD%C4%81c%C4%81r%C4%81%20Washes%20Her%20Feet): Patacara loses her husband, both children and her parents in quick succession and goes mad with grief; the Buddha tells her to recover her presence of mind."
+        }
+      ],
+      "group": "challenges",
+      "status": "published",
+      "art": "assets/dossier-art/overload-overwhelm.jpg"
     }
   ],
   "groups": [
@@ -10232,11 +10541,6 @@ window.fcDossiersData = {
       "id": "body",
       "title": "Body",
       "group": "eemm"
-    },
-    {
-      "id": "overload-overwhelm",
-      "title": "Overload & Overwhelm",
-      "group": "challenges"
     }
   ]
 };
