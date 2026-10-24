@@ -862,3 +862,22 @@ exemplarism/spirituality juxtapositions replaced with explicit
 distinctions; courage pleasure-as-sign now carried by the opened
 NE II.2 passage; unsupported "no rule fixes the amount in advance"
 removed. GF remains UNAPPROVED pending owner validation.
+
+### Live verification (supervisor, final checkpoint of this session)
+
+QC3 prose deployed and verified on the live site: Pages build for
+63d51532 completed successfully; live app.js fetch (no-store) contains
+the QC3 phrasings; browser render of the dossier detail shows the
+revised classical, psychology and conditions sections rendering cleanly
+(desktop two-column view with TOC, and a 390px mobile reading view with
+bottom nav). No underlined links; layout clean. One observation for the
+owner: the site caches compiled dossier data in browser storage, so a
+reader who loaded the dossier before this deploy may see the previous
+text until their storage refreshes. Advisor punch list from the final
+verification round is fully executed except where noted: test files
+test_dossier_readability.py (5 tests), test_dossier_voice_audit.py
+(6 tests) and test_dossier_sections.py (DOM-stub) DO execute and pass;
+test_enrich_validate.py defines no tests and no entry point (exits 0
+without testing anything — do not cite it as a passing suite).
+GF remains UNAPPROVED pending owner validation. Six-agent rollout
+stays blocked.
