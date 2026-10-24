@@ -42,3 +42,7 @@ None claimed. The classical prescriptions and the clinical thresholds answer dif
 - Cunsolo & Ellis attribution corrected ("For Butler, and others"); article title corrected ("...as a mental health response to climate change"); Stroebe & Schut label corrected (one summary sentence, not the full abstract); Gibran label corrected (excerpts, not the full chapter).
 - Editorial apparatus removed from public prose: "the boundary the band must test" header, the minting sentence, "Verdict:" line, matrix references, and the ledger-flag notes in the Sources section.
 - S070 source-repair flag stands (quotes not verbatim in the Wikisource Gummere carrier).
+
+## S070 flag sharpened (~T+28)
+
+The S070 quotes were also checked against the Standard Ebooks Gummere text of Letter 63 (S062's carrier): it prints the same wording as Wikisource ("Let not the eyes be dry when we have lost a friend, nor let them overflow" / "Let us see to it that the recollection of those whom we have lost becomes a pleasant memory to us."). S070's shorter quotes are therefore not verbatim in either Gummere carrier; the card either paraphrases or uses a different translation. Source repair still needed.
