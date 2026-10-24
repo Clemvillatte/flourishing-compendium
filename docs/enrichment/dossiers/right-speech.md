@@ -21,11 +21,17 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 
 [Right speech](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20speech): the third factor of the Buddha's Noble Eightfold Path: abstaining from lying, divisive speech, abusive speech, and idle chatter, plus the positive demand that speech be true, timely, and beneficial.
 
-[Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path): the fourth Noble Truth: right view, right resolve, right speech and the rest, where right (sammā) means complete or whole, each factor a skill to be developed, not a rule to be obeyed.
+[Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path): the fourth Noble Truth: the Buddha's summary of the training, right view through right concentration, with right speech third among the eight factors.
 
 [The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the Buddhist path in its most compressed form: virtue, concentration and wisdom, with every other practice placed under one of the three, the speech abstentions under virtue.
 
 [Four Noble Truths](https://clemvillatte.github.io/flourishing-compendium/#card=Four%20Noble%20Truths): the diagnosis the whole path answers, including the truth of the way out of suffering that the speech factors serve.
+
+[Right intention](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20intention), [Right action](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20action) and [Right livelihood](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20livelihood): the sibling factors of the path, each held on its own card and covered by its own dossier in this programme.
+
+[Ahimsa](https://clemvillatte.github.io/flourishing-compendium/#card=Ahimsa): the principle of non-harm that runs through the Indic traditions, the floor under the speech abstentions: whatever else speech does, it begins by doing no injury.
+
+[Metta (loving-kindness)](https://clemvillatte.github.io/flourishing-compendium/#card=Metta%20%28loving-kindness%29): the Buddhist practice of goodwill, the first of the four brahmaviharas, the disposition the Abhaya Sutta names as the reason for the timing rule.
 
 The path definition, in the Buddha's own words:
 
@@ -37,7 +43,7 @@ The path definition, in the Buddha's own words:
 
 [Deception research](https://clemvillatte.github.io/flourishing-compendium/#card=Deception%20research): the study of how often people lie, why, and how well others detect it; the everyday finding that lying is common and mostly minor.
 
-[Interpersonal Deception Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Interpersonal%20Deception%20Theory): Buller and Burgoon's move away from the four-factor lie detector: deception is interactive, unfolding between people who send and read suspicious behaviors.
+[Interpersonal Deception Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Interpersonal%20Deception%20Theory): Buller and Burgoon's 1996 theory treating deception as an interaction rather than a one-way act: it unfolds between people who send and read suspicious behaviors.
 
 [Self-deception](https://clemvillatte.github.io/flourishing-compendium/#card=Self-deception): Sartre's bad faith: consciousness's permanent possibility of being what it is not and not being what it is, the lie told to oneself and half-known to be one.
 
@@ -45,11 +51,9 @@ The path definition, in the Buddha's own words:
 
 [Harsh self-criticism](https://clemvillatte.github.io/flourishing-compendium/#card=Harsh%20self-criticism): the clinical finding that harsh self-criticism goes with psychopathology, read as association rather than prediction.
 
-[Idle talk (Gerede)](https://clemvillatte.github.io/flourishing-compendium/#card=Idle%20talk%20%28Gerede%29): Heidegger's account of everyday conversation as the chatter of people talking without engagement, the gossip's interpretation of the world, not its own engagement with the thing itself.
+[Idle talk (Gerede)](https://clemvillatte.github.io/flourishing-compendium/#card=Idle%20talk%20%28Gerede%29): Heidegger's account of everyday conversation as chatter: the ambiguous way people talk without engagement, the gossip's interpretation of the world.
 
 [Sparse speech](https://clemvillatte.github.io/flourishing-compendium/#card=Sparse%20speech): the Daoist discipline of saying little: Daodejing 23's meteorological image, that nature's loudest events are brief, and talk that blusters belongs with the short-lived spasms.
-
-[The strong claim of the loud voice](https://clemvillatte.github.io/flourishing-compendium/#card=The%20strong%20claim%20of%20the%20loud%20voice): the Gita's ship in a storm, its helm of wisdom rent away, the mind carried away by what it gives itself to.
 
 ### Truth-telling, and its risks
 
@@ -57,7 +61,7 @@ The path definition, in the Buddha's own words:
 
 [Parrhesia (frank speech)](https://clemvillatte.github.io/flourishing-compendium/#card=Parrhesia%20%28frank%20speech%29): the ancient Greek name for frank truth-telling that knows it may cost the speaker; Foucault traced the word from Euripides through the Greco-Roman world.
 
-[The truth sets you free](https://clemvillatte.github.io/flourishing-compendium/#card=The%20truth%20sets%20you%20free): the John 8:32 entry, the Christian tradition's own claim for what truth-telling does to the one who tells it.
+[The truth sets you free](https://clemvillatte.github.io/flourishing-compendium/#card=The%20truth%20sets%20you%20free): the John 8:32 saying, the Christian tradition's card for the freedom claim of truth.
 
 [Prosocial honesty research](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20honesty%20research): Levine and Schweitzer's finding that receivers weight benevolence: a lie told to benefit the listener can raise trust more than a truth told at the listener's expense.
 
@@ -95,7 +99,7 @@ The Abhaya Sutta's own case list, with the timing rule in the middle of it:
 
 > "[3] In the case of words that the Tathagata knows to be factual, true, beneficial, but unendearing & disagreeable to others, he has a sense of the proper time for saying them... [6] In the case of words that the Tathagata knows to be factual, true, beneficial, and endearing & agreeable to others, he has a sense of the proper time for saying them. Why is that? Because the Tathagata has sympathy for living beings." ([Thanissaro, MN 58](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)): Primary text; quoted passages checked.
 
-And the same sutta's image for why the gate exists at all:
+And the prince's answer, when the Buddha asks what he would do if the child took a stick or a pebble into its mouth, gives the image for why the gate exists at all:
 
 > "If I couldn't get it out right away, then holding its head in my left hand and crooking a finger of my right, I would take it out, even if it meant drawing blood. Why is that? Because I have sympathy for the young boy." ([Thanissaro, MN 58](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)): Primary text; quoted passages checked.
 
@@ -151,11 +155,15 @@ The five-factor version the tradition also carries:
 
 [Conversation as method](https://clemvillatte.github.io/flourishing-compendium/#card=Conversation%20as%20method): Jane Addams's precaution: take a neighbor with you when addressing an audience about their world, so any hasty generalization is curbed by an auditor who knows the conditions more intimately.
 
-[Conversational research](https://clemvillatte.github.io/flourishing-compendium/#card=Conversational%20research): Matthias Mehl's program recording everyday talk as it happens: the finding that the quality of conversation, not the quantity, predicts well-being.
+[Conversational research](https://clemvillatte.github.io/flourishing-compendium/#card=Conversational%20research): Matthias Mehl's program recording everyday talk as it happens: in the original study higher well-being went with more substantive conversations and less small talk; the 2018 replication held the substantive-conversation link but not the small-talk half.
 
 [Assertiveness research](https://clemvillatte.github.io/flourishing-compendium/#card=Assertiveness%20research): Ames and Flynn's curvilinear finding: leaders markedly low or markedly high in assertiveness both rated less effective than those in the middle.
 
 [Assertiveness training](https://clemvillatte.github.io/flourishing-compendium/#card=Assertiveness%20training): the structured teaching of direct, respectful self-expression, expressing needs, rights and opinions without infringing on the rights of others.
+
+[K215 — Assertiveness and boundaries](https://clemvillatte.github.io/flourishing-compendium/#card=K215%20%E2%80%94%20Assertiveness%20and%20boundaries): the Bowers' DESC script for saying a need or holding a limit out loud: Describe, Express, Specify, Consequences.
+
+[K338 — Restorative conversation](https://clemvillatte.github.io/flourishing-compendium/#card=K338%20%E2%80%94%20Restorative%20conversation): the four-station repair conversation for harm done: acknowledge what you did, describe the impact as you understand it, express regret, ask what repair would look like.
 
 [Integrative Theory of Communication Work](https://clemvillatte.github.io/flourishing-compendium/#card=Integrative%20Theory%20of%20Communication%20Work): Donovan and Hazlett's account of communication as effortful labour, developed for the exchanges a health stressor demands.
 
@@ -187,7 +195,7 @@ The five-factor version the tradition also carries:
 
 [Silence in negotiation research](https://clemvillatte.github.io/flourishing-compendium/#card=Silence%20in%20negotiation%20research): Curhan and colleagues' experiments on extended silence: pauses of at least three seconds, dyad-level, correlate with value creation in bargaining.
 
-[Distanced self-talk (Kross)](https://clemvillatte.github.io/flourishing-compendium/#card=Distanced%20self-talk%20%28Kross%29): the finding that coaching yourself by name, in the second or third person, works better than the first-person rumination, which is inner speech ethics.
+[Distanced self-talk (Kross)](https://clemvillatte.github.io/flourishing-compendium/#card=Distanced%20self-talk%20%28Kross%29): referring to yourself by name or non-first-person pronouns while reflecting on something stressful; Kross's studies found it enhances self-distancing, and Moser's brain-marker evidence suggests it may be a relatively effortless form of self-control, a claim the card holds as possibility.
 
 [Self-talk research](https://clemvillatte.github.io/flourishing-compendium/#card=Self-talk%20research): the study of what people say to themselves, its content and its effects; Hardy, Hall and Hardy's finding that athletes' self-talk is generally positive, covert and abbreviated.
 
@@ -197,11 +205,11 @@ The five-factor version the tradition also carries:
 
 ### Must right words be pleasing?
 
-The shared question: when speech is true and useful, must it also be agreeable to its hearer? The Bhagavad Gita's definition of the austerity of speech says yes, and makes the listener's ease part of the discipline:
+The shared question: when speech is true and useful, must it also be agreeable to its hearer? The Bhagavad Gita's definition of the austerity of speech folds the hearer's ease into the definition:
 
-> "Words causing no man woe, words ever true, / Gentle and pleasing words, and those ye say / In murmured reading of a Sacred Writ,-- / These make the true religiousness of Speech." ([Edwin Arnold, The Song Celestial XVII.15](https://www.gutenberg.org/cache/epub/2388/pg2388.txt)): Primary text; quoted passages checked.
+> "Speaking words that cause no agitation and that are truthful, pleasing and beneficial, as well as reciting the Vedas, are all said to be austerities of speech." ([Bhagavad Gita 17.15, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html)): Primary text; quoted passages checked. Edwin Arnold's rendering of the same verse, verified against the Gutenberg plain text, reads "Words causing no man woe, words ever true, / Gentle and pleasing words".
 
-The Abhaya Sutta's case list answers no, in its third case: words that are factual, true, beneficial, and unendearing are to be said, at the proper time, and the reason given is sympathy, not its absence. The two traditions answer the same question and part on whether pleasantness is a duty of the speaker or a factor to be timed around. What remains unresolved is where the line falls in the hard case: a truth that is beneficial, unendearing, and whose hearer is not ready for it.
+The Abhaya Sutta's case list, by contrast, in its third case, admits words that are factual, true, beneficial, and unendearing, to be said at the proper time, and the reason given is sympathy, not its absence. The two traditions answer the same question and part on whether pleasantness belongs to the definition of right speech or is a factor to be timed around. What remains unresolved is where the line falls in the hard case: a truth that is beneficial, unendearing, and whose hearer is not ready for it.
 
 ## Practice: variation, selection, retention
 

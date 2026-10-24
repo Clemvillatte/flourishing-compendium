@@ -1,23 +1,24 @@
 # Evidence record — Right Speech dossier
 
 Writer: worker-pplx-dos20-1024h, band dos20 (mint 3, the Noble Eightfold Path).
-Registry status stays 'planned'; the supervisor flips and publishes.
+Registry status stays 'planned'; the supervisor flips and publishes. Band
+state: right-speech left in review-pending, not marked done, pending the
+supervisor's publication decision.
 
-Revision 2 (QC pass): all quotes below re-verified against raw carrier
-text fetched with curl (not LLM extraction); glosses audited against
-their cards and repaired where they had drifted from the card's own
-account (B145, B146, B148, B172, M028, Truthfulness, Existential
-communication, Self-deception, Hermeneutic listening, Authentic
-communication, Silence as evidence, Integrative Theory of
-Communication Work, The three gates of speech, and others); the second
-divergence (parrhesia vs timing) removed as not a genuine disagreement
-after review; the Gita carrier URL corrected to the plain-text file
-actually opened; Story loglines reduced to the incident, without
-interpretive endings; untruncated title sweep run and the missing
-on-theme concept cards added (Right listening, Speech gate, Dialogue,
-Conversation as method, Conversational research, Assertiveness research,
-Assertiveness training, The sage teaches without words, Thundering
-silence, The word hidden in the heart, The truth sets you free).
+Revision 3 (second QC pass): the Gita divergence quote replaced with the
+Wisdom Library translation the Beneficial speech card actually carries
+(carrier opened and verified this pass; the earlier Wisdom Library fetch
+failure was a URL problem, not a block); the infant-passage speaker
+identified (Prince Abhaya answers the Buddha's question); the divergence
+wording narrowed to the textual contrast; glosses repaired again where
+they still drifted from the card (The truth sets you free, Distanced
+self-talk, Conversational research, Interpersonal Deception Theory,
+Eightfold Path); The strong claim of the loud voice removed from the map
+(its body is about the mind and the senses, not speech); full-text sweep
+for right speech/Abhaya/truthful speech/wise speech run untruncated,
+adding Ahimsa, Metta and the sibling path factors; K215 and K338 added to
+the relation group; the sayings-card Right listening is held under
+content/sayings and linked as such.
 
 ## Quotes and carriers, all opened this session (raw text)
 
@@ -132,6 +133,14 @@ off-theme, with reasons:
 - Stories matched but off-theme for speech ethics: ST036, ST184, ST279,
   ST305, ST311, ST321, ST372/ST417, ST392/ST430, ST232, ST066 is
   included (testing words), others are reached from their own dossiers.
+  ST064 The Lute String (moderation) reached but held by the Right
+  Effort and practice dossiers rather than duplicated here.
+- Full-text sweep stragglers held off-theme or reached from other cards:
+  Action over intention, The fearless mind, The divine dispositions, Four
+  immeasurables (reached from Metta), AF032, AF049, AT015, AT061, MO032,
+  MO073, SE057, Y043, B022, B114, BE033, BE055 (principle pages, covered
+  by the map convention note), the structure pages and the Buddha
+  thinker page.
 
 ## Open points for a revision pass
 
