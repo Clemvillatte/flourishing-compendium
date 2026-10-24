@@ -1,6 +1,6 @@
 {
  "batch": "dos18",
  "done": [],
- "note": "pass 1 (supervisor-pplx-1024g, 2026-10-24 ~07:30Z): title sweep inventory + MN 9 and SN 12.15 carriers opened and quote-verified (see docs/enrichment/sources/dossiers/right-view.md); suggested map subthemes + divergence candidates in docs/enrichment/drafts/dos18-right-view/prep.md; dossier markdown NOT started; exact next action: open MN 117 + SN 56.11 + kernel/story cards, then write the Nearby terms block and map subtheme 1 from opened carriers",
+ "note": "pass 3 (supervisor-pplx-1024g, 2026-10-24 ~07:50Z): FULL FIRST DRAFT written at docs/enrichment/drafts/dos18-right-view/draft.md - four sections present (Nearby terms, map in six subthemes, two divergences, VSR practice with K134/K131/K218, Story section with ST064/ST065/ST067); all quotes verified against carriers opened this session (MN 9, MN 117, SN 12.15, SN 56.11); scripts/dossier_check.py PASSES on the draft (25 card links, 16 headers, 8 external carriers). NOT yet the markdown of record: exhaustiveness pass remains - full-text-sweep stragglers (The examined life, Gradual training, The lifeworld, The natural attitude candidates), ST064 placement decision (serves right effort too), and the attentional-bias line may deserve its own subtheme. Next worker: sweep, extend, then move to docs/enrichment/dossiers/right-view.md and flag for publication",
  "status": "in_progress"
 }
