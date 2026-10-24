@@ -12,17 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 168** — Listen with empathic understanding
 
-In a 1975 article, Carl Rogers describes what he calls an unappreciated way of being with another person. The empathic way of being has several facets, and the first is a move into the other person's world ([Rogers, "Empathic: An Unappreciated Way of Being," 1975](https://clinica.ispa.pt/sites/default/files/83._carl_rogers_empathic.pdf)):
+Carl Rogers describes empathy as an ongoing process of entering another person's world while remaining aware that the experience is theirs ([Empathic: An Unappreciated Way of Being, 1975](https://clinica.ispa.pt/sites/default/files/83._carl_rogers_empathic.pdf)):
 
 > It means entering the private perceptual world of the other and becoming thoroughly at home in it. It involves being sensitive, moment to moment, to the changing felt meanings which flow in this other person, to the fear or rage or tenderness or confusion or whatever, that he/she is experiencing. It means temporarily living in his/her life, moving about in it delicately without making judgments...
 
 (Abridged; the passage continues. Rogers, "Empathic: An Unappreciated Way of Being," 1975; PDF p. 3 of 10.)
 
-Rogers also describes checking one's understanding and temporarily setting aside one's own views. He writes that empathy "means frequently checking with him/her as to the accuracy of your sensings, and being guided by the responses you receive." He adds that it "means that for the time being you lay aside the views and values you hold for yourself in order to enter another's world without prejudice." Rogers calls the whole way of being "a complex demanding, strong yet subtle and gentle way of being."
+He describes [checking one's understanding](https://clinica.ispa.pt/sites/default/files/83._carl_rogers_empathic.pdf): empathy "means frequently checking with him/her as to the accuracy of your sensings, and being guided by the responses you receive." His earlier definition also preserves the distinction between understanding another's experience and identifying it as one's own.
 
-**Plain words** Listening with empathic understanding is something you do together with the other person: describe their situation as they experience it, then ask whether you have it right and let their answer correct you.
+**Plain words**
+You may know exactly how a cancelled holiday would make you feel. Your friend could be upset for a different reason. Understanding has room for that surprise. What you offer is a guess they can change, and their correction becomes part of the conversation. Feeling sure you have understood is less useful than letting them tell you where you have missed.
 
-*For example:* A friend says the family holiday got cancelled again. You say: "So the one weekend everyone counts on fell through." Then you ask whether that is how it feels.
+For example: A friend mentions a cancelled holiday. You wonder whether the loss is time together or another broken promise. They explain that they are relieved, but guilty about it. You follow that correction and keep this willingness to be corrected in your next conversation.
+
+## Sources
+
+- [Carl Rogers, Empathic: An Unappreciated Way of Being, PDF](https://clinica.ispa.pt/sites/default/files/83._carl_rogers_empathic.pdf) — earlier definition on PDF p. 2; current process account and checking understanding on p. 3
 
 ## Psychology parallels
 

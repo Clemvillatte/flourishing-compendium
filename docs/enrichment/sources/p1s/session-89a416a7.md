@@ -151,3 +151,10 @@ Follow-up: same advisor re-inspected both edited B181 lines and issued scoped cl
 ## Silence/breath/aims milestone review
 
 Advisor `p1s_silence_breathing_aims_milestone_qc_mvlyf10r`: scoped PASS B172/B190/P177; all quotations, source-to-application boundaries, fresh Plain words and 40-300 prose checked. No required fixes. Inherited parallels/reflections not certified.
+
+## P168: a guess the other person can correct
+
+- Opened unprompted: [Rogers, Empathic: An Unappreciated Way of Being, complete ten-page PDF](https://clinica.ispa.pt/sites/default/files/83._carl_rogers_empathic.pdf). Search/topic: Rogers/empathy/current definition/checking understanding.
+- Retained main quote and checking-sensings quote are verbatim. PDF's own page markers place the earlier “as if” distinction on p. 2 and the current account on p. 3. No quotation punctuation changed.
+- Fresh Plain words distinguishes the speaker's experience from the listener's familiar imagined reaction. The illustrative friend's unexpected relief permits genuine correction: two possible readings, speaker feedback, and retaining receptiveness supply variation/selection/retention.
+- Added a direct source section. No modern treatment-efficacy claim inferred from the 1975 review; inherited parallels and reflections remain outside this certification.
