@@ -9,3 +9,11 @@ Continues the same timed session after p1s release; no new timer. Released p1t b
 - Added the crucial p. 55 distinction: truth is not what is presently rationally accepted, illustrated by Putnam's flat-earth example. This prevents the title or protected reflections from making the body a theory that facts change with fashion.
 - Read Internal realism for link context; its own chapter locator also says 3. Fresh Plain words and imagined two-map exercise distinguish different purposes from inaccurate observation; alternatives, checking plants and retaining/correcting maps supply variation/selection/retention.
 - Inherited Sharot/Quine parallels and protected reflections not certified. Independent advisor unavailable after the recorded execution-credit failure; own source check only.
+
+## P076: deliberation without a guarantee or an arbitrary week's delay
+
+- Opened unprompted: [Standard Ebooks Part III, III, The Nature of Deliberation](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-3-3), complete section. Navigation checks also opened Part II III (Changing Human Nature), Part III I and II; the existing Part II III locator was wrong, and is now corrected to Part III III.
+- Replaced a repeated quote-dense summary with a short attributed account and a continuous exact quotation. No ellipsis or typography normalization in the new quotation.
+- Added Dewey's own counterweight: reflection can itself avoid action. Removed the unsupported “usually” promise that one ending starts to feel right, and the arbitrary week-long imaginative exercise. The source's unifying versus overriding concerns is accurately distinguished.
+- Fresh Plain words describes the felt conflict without the machine/movies metaphor or a guaranteed resolution. Imagined job alternatives, checking assumed hours/travel and retaining the checking habit supply variation/selection/retention.
+- No empirical decision-improvement effect claimed. Inherited parallels/reflections and whole-concept claims are not certified; no independent-advisor verdict claimed.
