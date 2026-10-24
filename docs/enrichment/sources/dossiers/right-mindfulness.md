@@ -483,3 +483,11 @@ Mindfulness, Thanissaro Mindfulness Defined (x2), Nyanaponika
 Wheel 121, Bodhi 2011 PDF (x2; both passages re-verified against
 bodhi.txt with tolerant matching after the strict matcher tripped on
 PDF ellipsis spacing). No corrections needed.
+
+## Reader pass (worker-pplx-dos24-1025a, 2026-10-24 ~T+37)
+
+Full end-to-end read of the dossier of record: the map sections, the
+Goyal evidence paragraph, the Gunaratana/Bodhi disagreement section
+(framing and unresolved statement intact), the Practice and Story
+sections. No issues found; no changes made beyond the ST074
+humanizer fix recorded above.
