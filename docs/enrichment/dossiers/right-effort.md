@@ -87,6 +87,8 @@ The Sutta's own statement of the calibration:
 
 [ST112 — Edison Burns the Filaments](https://clemvillatte.github.io/flourishing-compendium/#card=ST112%20%E2%80%94%20Edison%20Burns%20the%20Filaments): the filament search tests thousands of materials, platinum, carbonised cotton thread, bamboo from a Japanese fan, and the notebooks record the failures as data; the insight was not in any single test, it was the refusal to stop generating variants until one survived.
 
+[ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts](https://clemvillatte.github.io/flourishing-compendium/#card=ST376%20%E2%80%94%20Meghiya%20Finds%20the%20Right%20Grove%20and%20the%20Wrong%20Thoughts): Meghiya asks three times to practise in a mango grove that looks ideal, and alone beneath the tree is troubled by thoughts of sensuality, ill will and harm; wanting to exert oneself is not yet knowing what to cultivate.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the undifferentiated push: effort aimed at everything at once and therefore at nothing, the over-aroused persistence that arrives as restlessness, the slack persistence that arrives as its own diagnosis, and the effort held at full pitch through seasons that call for a lower one. The adaptive direction is the aiming and the tuning: the four directions picked one at a time, the pitch checked against restlessness and laziness rather than against the calendar, and the effort sized to the season the body is actually in.
