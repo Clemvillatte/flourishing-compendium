@@ -421,7 +421,8 @@ const $ = id => document.getElementById(id);
 const treeEl = $('tree'), listEl = $('list'), readEl = $('readInner'),
       searchEl = $('search'), listMeta = $('listMeta'), tagChip = $('tagChip');
 
-$('stats').textContent = DATA.length.toLocaleString() + ' entries · ' +
+const statsEl = $('stats');
+if (statsEl) statsEl.textContent = DATA.length.toLocaleString() + ' entries · ' +
   DATA.filter(e=>e.type==='principle').length.toLocaleString() + ' principles · ' +
   volumes.length + ' volumes';
 
@@ -3065,24 +3066,27 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "What we pursue matters alongside how we feel. Self-determination theory distinguishes intrinsic goals, such as affiliation, growth and community contribution, from extrinsic goals of wealth, fame and image, and reports different associations with well-being ([Eudaimonic motivation, intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals), [Deci and Ryan 2000](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)). Its explanation centres on whether the goals satisfy needs for autonomy, competence and relatedness ([Psychological needs theory](card:Psychological%20needs%20theory), [Deci and Ryan 2000](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)). That makes social conditions part of the explanation: Ryan and Deci describe people as potentially proactive and engaged or passive and alienated, depending largely on the social conditions in which they develop and function ([Self-determined personality growth](card:Self-determined%20personality%20growth), [Ryan and Deci 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392867/))."
+          "x": "What we pursue matters alongside how we feel. [Deci and Ryan](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf) distinguish [intrinsic goals](card:Eudaimonic%20motivation%2C%20intrinsic%20goals), such as close relationships, growth and contribution, from wealth, fame and image. Their explanation concerns [basic needs](card:Psychological%20needs%20theory): [whether a pursuit supports autonomy, competence and relatedness](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf). A goal can look impressive without answering those needs."
         },
         {
           "t": "p",
-          "x": "There is also a difference between having energy and being absorbed in something worth doing. [Vitality](card:Vitality) names the felt energy and aliveness available to a person ([Frederick and Ryan](https://acuresearchbank.acu.edu.au/server/api/core/bitstreams/b155eafb-778a-47b5-92cb-1c1a7ef715cb/content)). [Flow](card:Flow) describes energized focus and full involvement ([Flow overview](https://en.wikipedia.org/wiki/Flow_%28psychology%29)). [Vital engagement](card:Vital%20engagement) joins enjoyed absorption to a sense that the activity matters ([Tse and colleagues 2026](https://link.springer.com/article/10.1007/s11031-026-10191-z)). I am reluctant to call a pursuit fulfilling just because it holds my attention. The question extends beyond one experience: Little proposes that a life's quality depends on being able to sustain its core [Personal projects](card:Personal%20projects), the pursuits a person deeply cares about ([Little 2008, abstract](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x))."
+          "x": "That explanation also makes room for the setting. [Ryan and Deci](https://pubmed.ncbi.nlm.nih.gov/11392867/) describe people as potentially engaged or alienated, depending largely on the social conditions in which they develop and function. I use [self-determined personality growth](card:Self-determined%20personality%20growth) as a label for this connection, not as a reason to make each person solely responsible for how they fare."
         },
         {
           "t": "p",
-          "x": "What a person brings to an activity matters too. Peterson and Seligman's classification gathers 24 [Character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under virtue categories ([Seligman and colleagues 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)). Fredrickson's [Positive emotions research](card:Positive%20emotions%20research) asks what positive emotions make possible: her [Broaden-and-build](card:Broaden-and-build) theory proposes that they widen the thoughts and actions available to us and help build lasting resources, while describing the early evidence as preliminary ([Fredrickson 2001](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)). Oishi and Westgate widen the question further with [Psychological richness](card:Psychological%20richness), a life of varied, interesting experiences that change one's perspective, related to happiness and meaning but distinguishable from both ([Oishi and Westgate](https://www.erinwestgate.com/uploads/7/6/4/1/7641726/oishi.westgate.psychrev.2021.pdf))."
+          "x": "[Vitality](card:Vitality) is [the felt sense of energy and aliveness](https://acuresearchbank.acu.edu.au/server/api/core/bitstreams/b155eafb-778a-47b5-92cb-1c1a7ef715cb/content), while [flow](card:Flow) is [energized focus and full involvement](https://en.wikipedia.org/wiki/Flow_%28psychology%29). [Vital engagement](card:Vital%20engagement) adds [a sense that the absorbing activity is significant](https://link.springer.com/article/10.1007/s11031-026-10191-z). I am reluctant to call a pursuit fulfilling just because it holds my attention."
         },
         {
           "t": "p",
-          "x": "Ryff's founding complaint, and what she built from it, opens the scientific side:"
+          "x": "The question extends beyond an absorbing afternoon. [Brian Little](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x) proposes that a life's quality depends on sustaining its core [personal projects](card:Personal%20projects), the pursuits a person deeply cares about. I find the shift in timescale useful: a life has to support the continuation of what matters, not merely provide an occasional peak."
         },
         {
-          "t": "q",
-          "x": "\"Reigning measures of psychological well-being have little theoretical grounding, despite an extensive literature on the contours of positive functioning. Aspects of well-being derived from this literature (i.e., self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life, and personal growth) were operationalized.\" ([Ryff 1989, Journal of Personality and Social Psychology](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf)).",
-          "s": null
+          "t": "p",
+          "x": "[Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues. [Fredrickson's research](card:Positive%20emotions%20research) asks what positive emotions make possible: [broaden-and-build](card:Broaden-and-build) proposes [that they widen thought and action and help build lasting resources](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/). I read her early account as she presented it: a theory supported by preliminary evidence, not a command to feel positive."
+        },
+        {
+          "t": "p",
+          "x": "[Oishi and Westgate](https://www.erinwestgate.com/uploads/7/6/4/1/7641726/oishi.westgate.psychrev.2021.pdf) propose [psychological richness](card:Psychological%20richness): varied, interesting experiences that change one's perspective, related to but distinguishable from happiness and meaning. This leaves room to ask whether an unsettling experience can enrich a life without making it pleasant."
         },
         {
           "t": "h2",
@@ -3110,23 +3114,43 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Meaning, purpose and the hard parts"
+          "x": "Meaning when life hurts"
         },
         {
           "t": "p",
-          "x": "What happens to meaning when a life becomes painful? Frankl's answer begins with the particular person: [The meaning of life](card:The%20meaning%20of%20life) changes from one person and moment to another, and we answer its demands through our conduct ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). His account of [Meaning](card:Meaning) makes room for work, love and the attitude taken toward unavoidable suffering, while [Purpose](card:Purpose) gives a person an aim to carry forward ([Frankl](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)). [Tragic optimism](card:Tragic%20optimism) names the possibility of affirming life in the face of pain, guilt and death, with a limit Frankl makes explicit: optimism cannot be commanded, and avoidable suffering calls for its cause to be removed ([Frankl](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf))."
+          "x": "[Frankl](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf) does not give everyone the same answer to [the meaning of life](card:The%20meaning%20of%20life): the demand changes with the person and the situation. [Meaning](card:Meaning) can be found through [work, love or the attitude taken toward unavoidable suffering](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf). [Purpose](card:Purpose) gives that person [something still to live toward](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf), rather than a general explanation of why everything happens."
         },
         {
           "t": "p",
-          "x": "Adapting to hardship and being changed by it are different possibilities. Masten's developmental research on [Resilience](card:Resilience) finds good adaptation supported by ordinary resources in children, their relationships and their communities ([Masten 2001](https://ocfcpacourts.us/wp-content/uploads/2020/06/Ordinary_Magic_Resilience_Process_000935.pdf)). Tedeschi and Calhoun describe people's reports of [Post-traumatic growth](card:Post-traumatic%20growth) through the struggle with a crisis, while warning that growth is not inevitable and can coexist with distress ([Tedeschi and Calhoun 2004](https://ptgi.uncc.edu/wp-content/uploads/sites/9/2013/01/PTG-Conceptual-Foundtns.pdf)). Taleb's [Antifragility](card:Antifragility) goes further by naming systems that improve under certain stresses, a claim about how a system responds within a range, not a reason to expect every injured person to become stronger ([Antifragility overview](https://en.wikipedia.org/wiki/Antifragility))."
+          "x": "His [tragic optimism](card:Tragic%20optimism) allows [affirming life despite pain, guilt and death, but does not command optimism](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf). Most importantly, [when suffering can be avoided, he says its cause should be removed](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf). I would put that before any invitation to find meaning: alleviating suffering must not become secondary to admiring how someone bears it."
+        },
+        {
+          "t": "h2",
+          "x": "Recovery is not an obligation to grow"
         },
         {
           "t": "p",
-          "x": "Loss also raises the question of what we are trying to preserve. Heidegger's [Being-toward-death](card:Being-toward-death) asks a person to take up finite possibilities as their own, without the evasion of living only as one is expected to live ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/)). Buddhist teaching on [Impermanence](card:Impermanence) directs attention to the inconstancy of conditioned things ([Dhammapada 277, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.than.html)). Neither account offers an unchanging condition that a successful life could possess forever."
+          "x": "[Resilience](card:Resilience) need not mean extraordinary toughness: [Masten's studies of children](https://ocfcpacourts.us/wp-content/uploads/2020/06/Ordinary_Magic_Resilience_Process_000935.pdf) emphasise ordinary resources in people, relationships and communities. [Post-traumatic growth](card:Post-traumatic%20growth) names [positive changes some people report after struggling with crisis](https://ptgi.uncc.edu/wp-content/uploads/sites/9/2013/01/PTG-Conceptual-Foundtns.pdf), changes that may coexist with distress. I want to leave room for both recovery and reported growth without turning either into a test that an injured person has to pass."
         },
         {
           "t": "p",
-          "x": "What, then, deserves our attention? [Authenticity](card:Authenticity), understood as consistency between values and outward conduct, asks whether the life we present is one we can endorse ([Dammann and colleagues](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.629654/full)). Luke's [One thing necessary](card:One%20thing%20necessary) begins from Martha's distraction by many tasks and Mary's attention to Jesus, a particular encounter whose priority need not be turned into a universal formula for choosing ([Luke 10:38–42, NRSVUE](https://www.biblegateway.com/passage/?search=Luke+10%3A38-42&version=NRSVUE)). [Wabi-sabi](card:Wabi-sabi) brings a different sensibility: austere beauty, the patina of age, and an appreciation of things that are imperfect or passing ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/japanese-aesthetics/))."
+          "x": "[Taleb's concept](https://en.wikipedia.org/wiki/Antifragility) of [antifragility](card:Antifragility) describes systems that improve under certain stresses within a range. That is a different claim from enduring harm or recovering from it. It is not a licence to prescribe adversity to people who are already suffering."
+        },
+        {
+          "t": "h2",
+          "x": "Living with what cannot last"
+        },
+        {
+          "t": "p",
+          "x": "Heidegger's [being-toward-death](card:Being-toward-death) concerns [taking up one's finite possibilities as one's own](https://plato.stanford.edu/entries/heidegger/), rather than merely living as expected. Buddhist [impermanence](card:Impermanence) directs attention to [the inconstancy of conditioned things](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.than.html). I take these as challenges to the idea that flourishing could become a settled possession, safely beyond loss."
+        },
+        {
+          "t": "p",
+          "x": "One sense of [authenticity](card:Authenticity) asks for [consistency between values and outward conduct](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.629654/full). The story of [the one thing necessary](card:One%20thing%20necessary) sets [Mary's attention to Jesus beside Martha's distraction by many tasks](https://www.biblegateway.com/passage/?search=Luke+10%3A38-42&version=NRSVUE). I take from the scene a question about a single priority beneath many demands, not a rule that everyone should choose the same priority."
+        },
+        {
+          "t": "p",
+          "x": "[Wabi-sabi](card:Wabi-sabi) brings attention to [austere beauty, age and the imperfect or passing](https://plato.stanford.edu/entries/japanese-aesthetics/). I find in it permission to ask whether a life must look complete to be worth cherishing."
         },
         {
           "t": "h2",
@@ -3134,23 +3158,47 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Who is there to share a good life with? In Diener and Seligman's study of 222 undergraduates, the happiest group had stronger relationships than the less happy groups, a finding about [Connectedness in well-being research](card:Connectedness%20in%20well-being%20research) that does not by itself establish cause ([Diener and Seligman 2002, abstract](https://pubmed.ncbi.nlm.nih.gov/11894851/)). Baumeister and Leary's [Need to belong](card:The%20need%20to%20belong) hypothesis gives those ties a more basic role: frequent, nonaversive interactions within lasting bonds meet a fundamental motivation ([Baumeister and Leary 1995, abstract](https://pubmed.ncbi.nlm.nih.gov/7777651/)). At the level of whole societies, Helliwell's account of the [Social determinants of well-being](card:Social%20determinants%20of%20well-being) also gives social context a central place, while cautioning that his estimates rely on correlations and complex feedbacks ([Helliwell 2019](https://blogs.ubc.ca/helliwell/files/2020/10/Annals_2019.pdf))."
+          "x": "In [Diener and Seligman's study of 222 students](https://pubmed.ncbi.nlm.nih.gov/11894851/), the happiest tenth had stronger [relationships](card:Connectedness%20in%20well-being%20research), an association rather than proof of cause. [Baumeister and Leary](https://pubmed.ncbi.nlm.nih.gov/7777651/) argue that [belonging](card:The%20need%20to%20belong) is a basic motivation, met through frequent, nonaversive contact within lasting bonds. I would start with who a person can count on, not only with what they have achieved."
         },
         {
           "t": "p",
-          "x": "Having someone to count on is one condition; having a choice about how to live is another. [The capabilities approach](card:The%20capabilities%20approach) asks what a person is really able to do and be, distinguishing achieved ways of living from the opportunities available to choose them ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/capability-approach/)). Nussbaum's account of [Flourishing as capability](card:Flourishing%20as%20capability) makes minimum levels of central capabilities a matter of justice ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/capability-approach/)). I would be wary of praising someone's contentment without asking what alternatives were open to them. Berlin's [Positive freedom](card:Positive%20freedom) introduces the wish to direct one's own life, together with a warning for anyone prescribing a better one: the language of a person's true interests can be used to justify coercing them ([Berlin, Two Concepts of Liberty](https://berlin.wolf.ox.ac.uk/published_works/tcl/tcl-e.pdf))."
+          "x": "Relationships may help form the person as well as support them. [Communitarianism](card:Communitarianism), including Sandel's account of [constitutive attachments](card:Constitutive%20relationality), [gives communities a role in shaping identity](https://plato.stanford.edu/entries/communitarianism/). The Nguni maxim associated with [Ubuntu](card:Ubuntu) says [a person is a person through other persons](https://plato.stanford.edu/entries/federalism/). These accounts challenge me to ask what an exclusively individual account of fulfilment leaves out."
         },
         {
           "t": "p",
-          "x": "The relations that sustain us may also help make us who we are. [Communitarianism](card:Communitarianism) gives communities a constitutive role in identity, and Sandel's [Constitutive relationality](card:Constitutive%20relationality) asks whether some attachments are too close to us to be treated as freely exchangeable choices ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/communitarianism/)). [The common good](card:The%20common%20good) adds the shared facilities, material as well as cultural and institutional, that members of a community owe one another ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/common-good/)). A relational understanding also informs the maxim associated with [Ubuntu](card:Ubuntu): a person is a person through other persons ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/federalism/)). In Tā Mason Durie's Māori model, [Te Whare Tapa Whā](card:Te%20Whare%20Tapa%20Wh%C4%81), the meeting house expresses the interdependence of physical, mental, spiritual and family health ([New Zealand Ministry of Health](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha))."
+          "x": "[Te Whare Tapa Whā](card:Te%20Whare%20Tapa%20Wh%C4%81), Mason Durie's Māori model, makes the relationship concrete: [physical, mental, spiritual and family health are four walls of a meeting house, and damage to one can leave a person or collective unbalanced](https://www.health.govt.nz/maori-health/maori-health-models/te-whare-tapa-wha). I read the house as a reminder that one strong part cannot simply stand in for the whole."
         },
         {
           "t": "p",
-          "x": "These are distinct accounts of what a person needs. Joshanloo's theoretical review of [Cross-cultural variations in conceptions of happiness](card:Cross-cultural%20variations%20in%20conceptions%20of%20happiness) identifies six differences between the Western and Eastern accounts it considers ([Joshanloo 2014, abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1)). Even fitting one's surroundings is not an uncomplicated advantage: research testing [Cultural fit theory](card:Cultural%20fit%20theory) across 29 countries finds that the association between value agreement and well-being changes with the values involved ([Hanel and colleagues 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/))."
+          "x": "Culture also changes what a good life is taken to mean. [Joshanloo's theoretical review](https://link.springer.com/article/10.1007/s10902-013-9431-1) identifies [substantial differences among traditions](card:Cross-cultural%20variations%20in%20conceptions%20of%20happiness). Nor is [fitting in](card:Cultural%20fit%20theory) reliably beneficial: across 29 countries, [Hanel and colleagues found that its association with well-being was positive for achievement, power and security, but negative for self-direction, stimulation and hedonism](https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/). What is shared matters, not agreement alone."
+        },
+        {
+          "t": "h2",
+          "x": "The freedom to choose a life"
         },
         {
           "t": "p",
-          "x": "There are practical limits on the life someone can lead. [Time affluence](card:Time%20affluence) includes the felt sufficiency of time and control over its use ([Yoon 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/)). [The social gradient of health](card:The%20social%20gradient%20of%20health) shows worse health accompanying lower socioeconomic position across the hierarchy, not only among the poorest ([Marmot and colleagues 2008](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_dialogue/@actrav/documents/meetingdocument/wcms_161321.pdf)). The settings in which we spend time matter too: [Digital well-being](card:Digital%20well-being) asks how digital technologies affect a life good for a human being ([Burr, Taddeo and Floridi 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7417400/)). And the consequences reach beyond those alive now: Jonas's [Intergenerational responsibility](card:Intergenerational%20responsibility) asks that present action preserve the future possibility of human life ([Jonas, quoted by Mangone 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7797197/))."
+          "x": "[The capabilities approach](card:The%20capabilities%20approach) distinguishes [real opportunities from the ways of living someone actually achieves](https://plato.stanford.edu/entries/capability-approach/). Nussbaum's [account of flourishing](card:Flourishing%20as%20capability) makes [minimum levels of central capabilities a matter of justice](https://plato.stanford.edu/entries/capability-approach/). I would be wary of praising someone's contentment without asking what alternatives were open to them."
+        },
+        {
+          "t": "p",
+          "x": "[Berlin's positive freedom](card:Positive%20freedom) concerns [being one's own master, but carries a warning about coercion in the name of a person's true interests](https://berlin.wolf.ox.ac.uk/published_works/tcl/tcl-e.pdf). Wanting people to live well does not give me the right to decide their lives for them."
+        },
+        {
+          "t": "h2",
+          "x": "A shared world, including the future"
+        },
+        {
+          "t": "p",
+          "x": "[Helliwell's account](https://blogs.ubc.ca/helliwell/files/2020/10/Annals_2019.pdf) gives [social circumstances](card:Social%20determinants%20of%20well-being) a central place while treating his correlational estimates cautiously. [The common good](card:The%20common%20good) asks about [the material, cultural and institutional facilities a community provides for its members](https://plato.stanford.edu/entries/common-good/). From this angle, a good life is not solely an individual's accomplishment."
+        },
+        {
+          "t": "p",
+          "x": "[Time affluence](card:Time%20affluence) means [feeling that time is sufficient and having a say in its use](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/), not simply counting free hours. [The social gradient of health](card:The%20social%20gradient%20of%20health) links [lower social position with worse health across the hierarchy](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_dialogue/@actrav/documents/meetingdocument/wcms_161321.pdf), not only among the poorest. Advice about how to live needs to notice what a person's circumstances actually permit."
+        },
+        {
+          "t": "p",
+          "x": "[Digital well-being](card:Digital%20well-being) concerns [how technologies affect a life good for a human being](https://pmc.ncbi.nlm.nih.gov/articles/PMC7417400/). Jonas's [responsibility across generations](card:Intergenerational%20responsibility) asks that [present action preserve the future possibility of human life](https://pmc.ncbi.nlm.nih.gov/articles/PMC7797197/). I would not call our flourishing genuine if it depended on making a livable world less possible for those who come after us."
         },
         {
           "t": "h2",
@@ -3162,7 +3210,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "I find Aristotle's distinction between [potentiality and actuality](card:Potentiality%20to%20actuality) helpful here: being able to do something is different from actually doing it. This is my application of his [metaphysics](https://classics.mit.edu/Aristotle/metaphysics.9.ix.html), not a psychological finding. Buddhist [bhāvanā](https://en.wikipedia.org/wiki/Bhavana), or cultivation, likewise gives [practice](card:Growth%20through%20practice) a continuing role in developing the mind. Neither thought requires a final, perfected version of ourselves."
+          "x": "I find Aristotle's distinction between [potentiality and actuality](card:Potentiality%20to%20actuality) helpful here: being able to do something is different from actually doing it. This is my application of his [metaphysics](https://classics.mit.edu/Aristotle/metaphysics.9.ix.html), not a psychological finding. Buddhist [bhāvanā](https://en.wikipedia.org/wiki/Bhavana), or cultivation, likewise gives [practice](card:Growth%20through%20practice) a continuing role in developing the mind. I take the emphasis on cultivation as a reason to keep practising, rather than imagining that I have arrived."
         },
         {
           "t": "p",
@@ -3178,7 +3226,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Some of the simplest practices turn attention toward another person. [Seneca](https://www.gutenberg.org/files/3794/3794-h/3794-h.htm) treats receiving a benefit with [gratitude](card:Gratitude) as already a kind of repayment. [Gable and colleagues](https://pubmed.ncbi.nlm.nih.gov/15301629/) studied a more ordinary encounter: someone shares good news. An enthusiastic response, called [capitalization](card:Capitalization), was associated with better relationship well-being. What matters in that moment is how we receive another person's joy."
+          "x": "Some of the simplest practices turn attention toward another person. [Seneca](https://www.gutenberg.org/files/3794/3794-h/3794-h.htm) treats receiving a benefit with [gratitude](card:Gratitude) as already a kind of repayment. In research on [capitalization](card:Capitalization), [Gable and colleagues found that enthusiastic responses to good news were associated with better relationship well-being](https://pubmed.ncbi.nlm.nih.gov/15301629/). What matters in that moment is how we receive another person's joy."
         },
         {
           "t": "p",
@@ -3194,7 +3242,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For [Seligman](card:T026%20%E2%80%94%20Seligman%2C%20Martin), [relieving distress and building well-being are different tasks](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf). Positive psychology supplements the work of reducing suffering; it does not replace it. I would distrust a conception of flourishing that used the second task to lose sight of the first."
+          "x": "For [Seligman](card:T026%20%E2%80%94%20Seligman%2C%20Martin), [relieving distress and building well-being are different tasks, with positive psychology supplementing rather than replacing the work of reducing suffering](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf). I would distrust a conception of flourishing that used the second task to lose sight of the first."
         },
         {
           "t": "p",
@@ -3298,231 +3346,243 @@ window.fcDossiersData = {
         },
         {
           "t": "h",
-          "x": "Practice: variation, selection, retention"
+          "x": "Practice: finding what to change"
         },
         {
           "t": "vs",
           "l": "Variation",
-          "x": "What tends to need varying on this theme is the aim itself. The counterfeits share a shape: a good life taken to be a feeling to be held, a number to be reached, or an image to be kept up. The adaptive direction is toward the aim the classical and scientific accounts keep returning to: activity that uses a person's capacities, goals that meet real needs, ties to other people, and a sense of what the life is for."
+          "x": "If life has become a project of maintaining an image, reaching the next number or checking whether you feel happy enough, begin with the aim. Ask what you would still care about doing if it brought no admiration, and what your present way of living is leaving too little room for."
         },
         {
           "t": "vs",
           "l": "Selection",
-          "x": "The kernels I have selected as sources of that variation:"
+          "x": "Choose the question that is most alive for you and begin with one exercise. There is no need to turn every possibility into another demand."
+        },
+        {
+          "t": "h2",
+          "x": "Clarify what matters"
         },
         {
           "t": "n",
           "i": 1,
-          "x": "[Values clarification](card:K149%20%E2%80%94%20Values%20clarification): write what the life should stand for, as directions and not goals, across work, relationships, body, growth and community."
+          "x": "[Values clarification](card:K149%20%E2%80%94%20Values%20clarification): write what you want your life to stand for in work, relationships, health, growth or community. Use directions you can live by, not only targets you can complete."
         },
         {
           "t": "n",
           "i": 2,
-          "x": "[Eulogy exercise](card:K151%20%E2%80%94%20Eulogy%20exercise): write the eulogy you would want, to test the values against mortality."
+          "x": "[Eulogy exercise](card:K151%20%E2%80%94%20Eulogy%20exercise): write what you would hope to be remembered for. Look for a value you want to make more visible in an ordinary week."
         },
         {
           "t": "n",
           "i": 3,
-          "x": "[Desire inventory](card:K281%20%E2%80%94%20Desire%20inventory): list current desires and ask of each whether it fits what you value, whether it serves your flourishing, and what happens if you let it go."
+          "x": "[Desire inventory](card:K281%20%E2%80%94%20Desire%20inventory): list current desires, then ask which fit your values and which mainly answer pressure or comparison. Consider what you would lose, and what you might recover, by letting one go."
         },
         {
           "t": "n",
           "i": 4,
-          "x": "[Sufficiency testing](card:K279%20%E2%80%94%20Sufficiency%20testing): decide in advance what would be enough in one domain and see whether the goalpost moves."
+          "x": "[Meaning audit](card:K223%20%E2%80%94%20Meaning%20audit): review the month's activities and your reasons for doing them. Notice the difference between a chosen commitment and something maintained mainly by guilt, pressure or reward."
         },
         {
           "t": "n",
           "i": 5,
-          "x": "[Enough lines](card:K155%20%E2%80%94%20Enough%20lines): define sufficiency for each life domain while the judgment is still cold."
+          "x": "[The meaning question](card:K351%20%E2%80%94%20The%20meaning%20question): return to what this life is for without requiring one final answer. Let a particular responsibility or possibility make the question concrete."
         },
         {
           "t": "n",
           "i": 6,
-          "x": "[Signature strengths in new ways](card:K251%20%E2%80%94%20Signature%20strengths%20in%20new%20ways): find the top five strengths on the VIA inventory and use one in a new way each day."
+          "x": "[Life review](card:K232%20%E2%80%94%20Life%20review): divide your life into chapters and note turning points. Ask what each chapter taught you, including what you no longer want to repeat."
+        },
+        {
+          "t": "h2",
+          "x": "Decide what would be enough"
         },
         {
           "t": "n",
           "i": 7,
-          "x": "[Meaning audit](card:K223%20%E2%80%94%20Meaning%20audit): a monthly pass through the month's activities with the four reason questions that tell a chosen goal from an imposed one."
+          "x": "[Sufficiency testing](card:K279%20%E2%80%94%20Sufficiency%20testing): decide in advance what enough would look like in one domain. When you reach it, notice whether the goalpost moves."
         },
         {
           "t": "n",
           "i": 8,
-          "x": "[The meaning question](card:K351%20%E2%80%94%20The%20meaning%20question): keep the question of what this life is for open as an ongoing inquiry."
+          "x": "[Enough lines](card:K155%20%E2%80%94%20Enough%20lines): write a sufficiency line for each important domain before the next temptation or comparison arrives. Keep the line available when you make a decision."
         },
         {
           "t": "n",
           "i": 9,
-          "x": "[Life review](card:K232%20%E2%80%94%20Life%20review): review the life in chapters, noting turning points and what each chapter taught."
+          "x": "[Gratitude for sufficiency](card:K280%20%E2%80%94%20Gratitude%20for%20sufficiency): each evening, name something already present that is enough. Stay with its sufficiency rather than immediately imagining an upgrade."
+        },
+        {
+          "t": "h2",
+          "x": "Give the direction a place in the day"
         },
         {
           "t": "n",
           "i": 10,
-          "x": "[Gratitude practice](card:K164%20%E2%80%94%20Gratitude%20practice): write down three specific things you are grateful for, or say it to the person directly."
+          "x": "[Signature strengths in new ways](card:K251%20%E2%80%94%20Signature%20strengths%20in%20new%20ways): identify your leading VIA strengths and try expressing one in a new way. Notice what you did, not only how the exercise made you feel."
         },
         {
           "t": "n",
           "i": 11,
-          "x": "[Savoring](card:K110%20%E2%80%94%20Savoring): when something pleasant arrives, stop and extend it on purpose."
+          "x": "[Gratitude practice](card:K164%20%E2%80%94%20Gratitude%20practice): write down three specific things you are grateful for, or tell the person directly. Let the thanks stay specific."
         },
         {
           "t": "n",
           "i": 12,
-          "x": "[Evening examination](card:K274%20%E2%80%94%20Evening%20examination): each evening, three questions: what did I do well, where did I drift, what will I do differently tomorrow; the Stoic evening review as a working practice."
+          "x": "[Savoring](card:K110%20%E2%80%94%20Savoring): when something pleasant happens, pause and give it attention. Do not make extending the moment a test of whether you are enjoying it enough."
         },
         {
           "t": "n",
           "i": 13,
-          "x": "[Habituation by design](card:K257%20%E2%80%94%20Habituation%20by%20design): one virtue, thirty days of micro-actions so small that skipping feels absurd; character built the way Aristotle said it is, by doing."
+          "x": "[Evening examination](card:K274%20%E2%80%94%20Evening%20examination): ask what went well, where you drifted and what you will do differently tomorrow. Choose one adjustment rather than a verdict on your character."
         },
         {
           "t": "n",
           "i": 14,
-          "x": "[Gratitude for sufficiency](card:K280%20%E2%80%94%20Gratitude%20for%20sufficiency): each evening, name one thing you already have that is enough; not a new gratitude, but the sufficiency you normally overlook."
+          "x": "[Habituation by design](card:K257%20%E2%80%94%20Habituation%20by%20design): choose one virtue and a small act that would express it. Make room to repeat the act over the next month."
         },
         {
           "t": "n",
           "i": 15,
-          "x": "[Future-self dialogue](card:K322%20%E2%80%94%20Future-self%20dialogue): a letter from your self ten years out, about the decision you are facing; the kernel carries the Ersner-Hershfield future-self-continuity research, with the authors' own caution that the causal direction is unspecified."
+          "x": "[Don't-break-the-chain](card:K186%20%E2%80%94%20Don%27t-break-the-chain): mark each completed day on a visible calendar. Use the record to support the activity, not to make the record more important than the activity."
+        },
+        {
+          "t": "h2",
+          "x": "Bring a longer view to a decision"
         },
         {
           "t": "n",
           "i": 16,
-          "x": "[Don't-break-the-chain](card:K186%20%E2%80%94%20Don%27t-break-the-chain): a visible calendar and a marker; the growing chain of days becomes its own reason not to stop."
+          "x": "[Future-self dialogue](card:K322%20%E2%80%94%20Future-self%20dialogue): write a letter from yourself ten years ahead about the decision you face. Treat it as a way to examine priorities, not as a prediction."
         },
         {
           "t": "n",
           "i": 17,
-          "x": "[Mortality-to-action translation](card:K316%20%E2%80%94%20Mortality-to-action%20translation): five minutes on \"I will die. The timing is unknown. What does this make urgent?\", then one insight translated into one action this week; the impermanence counterweight turned into work."
-        },
-        {
-          "t": "p",
-          "x": "The evidence limits are uneven across the list. The evening examination is a Stoic practice whose kernel cites the self-reflection research; the future-self dialogue carries the Ersner-Hershfield future-self-continuity research, with the authors' own caution that the causal direction is unspecified; the chain technique spread from a developer's account and not from a study. The other kernels carry their own evidence notes on their cards, and those notes are worth reading before relying on any of them."
+          "x": "[Mortality-to-action translation](card:K316%20%E2%80%94%20Mortality-to-action%20translation): spend a few minutes considering the finitude of your life. Translate one thing it makes important into an action you can take this week."
         },
         {
           "t": "vs",
           "l": "Retention",
-          "x": "Retention is what people keep because it works for them. A reader who keeps the eulogy, or the enough line, or the monthly audit has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+          "x": "Keep what helps you live a value you care about, and make a place for it in ordinary life. The point is not to become accomplished at exercises, but to notice what you want to keep doing."
         },
         {
           "t": "h",
-          "x": "Story: the stories that carry the theme"
+          "x": "Story: lives that make the question concrete"
         },
         {
           "t": "p",
-          "x": "The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card."
+          "x": "Wealth, achievement and endurance look different when a whole life comes into view. These encounters leave room for doubt, failure and goodness that receives little recognition."
         },
         {
           "t": "h2",
-          "x": "What the good life is: the classical accounts"
+          "x": "Wealth, character and choice"
         },
         {
           "t": "p",
-          "x": "[ST143 — Solon and Croesus](card:ST143%20%E2%80%94%20Solon%20and%20Croesus): Croesus, king of Lydia, shows Solon his treasury and asks who is the happiest of men, expecting to hear his own name; Solon names Tellus of Athens, and holds that no one is counted happy until the end."
+          "x": "[Solon and Croesus](card:ST143%20%E2%80%94%20Solon%20and%20Croesus): in [Herodotus's telling](https://praxeology.net/hero.htm), a king shows his treasures, but the sage will not call a life happy before knowing its end."
         },
         {
           "t": "p",
-          "x": "[ST173 — Aristotle's Answer](card:ST173%20%E2%80%94%20Aristotle%27s%20Answer): asked what he had gained from philosophy, Aristotle answers that he does without being ordered what others do from fear of the laws."
+          "x": "[Aristotle's Answer](card:ST173%20%E2%80%94%20Aristotle%27s%20Answer): [Diogenes Laertius reports](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/5/Aristotle*.html) that philosophy taught him to do willingly what some do from fear of the law."
         },
         {
           "t": "p",
-          "x": "[ST147 — Hercules at the Crossroads](card:ST147%20%E2%80%94%20Hercules%20at%20the%20Crossroads): two women offer Hercules the easy road of pleasure without labour or the steep road of toil and lasting deeds; he chooses the steep one."
+          "x": "[Hercules at the Crossroads](card:ST147%20%E2%80%94%20Hercules%20at%20the%20Crossroads): Vice offers an easy life and Virtue answers that good things require effort, but [Xenophon's retelling of Prodicus](https://www.gutenberg.org/files/1177/1177-h/1177-h.htm) ends with her speech, leaving the choice unnarrated."
         },
         {
           "t": "h2",
-          "x": "What the science took from it"
+          "x": "What well-being counts"
         },
         {
           "t": "p",
-          "x": "[ST297 — Ryff's Six Dimensions](card:ST297%20%E2%80%94%20Ryff%27s%20Six%20Dimensions): Ryff's paper asks whether happiness is everything, answers no, and proposes six dimensions of well-being drawn from Aristotle, Mill and humanistic psychology."
+          "x": "[Ryff's Six Dimensions](card:ST297%20%E2%80%94%20Ryff%27s%20Six%20Dimensions): [Ryff challenges measures with little theoretical grounding](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), then develops six dimensions of positive functioning rather than equating well-being with happiness."
         },
         {
           "t": "p",
-          "x": "[ST136 — Seligman Renames the Target](card:ST136%20%E2%80%94%20Seligman%20Renames%20the%20Target): Seligman, who had launched positive psychology around the measurement of happiness, announces in Flourish that it was the wrong target and replaces it with PERMA, each part measurable on its own."
+          "x": "[Seligman Renames the Target](card:ST136%20%E2%80%94%20Seligman%20Renames%20the%20Target): [Seligman broadens the aim of positive psychology](https://tannerlectures.org/wp-content/uploads/2024/07/Seligman_10.pdf) from happiness to well-being, making room for relationships, meaning and accomplishment as things valued for themselves."
         },
         {
           "t": "p",
-          "x": "[ST303 — Broaden and Build](card:ST303%20%E2%80%94%20Broaden%20and%20Build): Fredrickson's broaden-and-build theory gives positive emotions a job beyond feeling good: negative emotions narrow attention to the threat, positive emotions broaden the repertoire and build durable resources; joy prompts play, interest prompts exploration."
+          "x": "[Broaden and Build](card:ST303%20%E2%80%94%20Broaden%20and%20Build): [Fredrickson asks what positive emotions make possible](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/), proposing that they widen the thoughts and actions available to us."
         },
         {
           "t": "h2",
-          "x": "What gets mistaken for it"
+          "x": "The promise of easy happiness"
         },
         {
           "t": "p",
-          "x": "[ST035 — Ivan Ilyich's Question](card:ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): a judge has lived the life that everyone around him considers correct, career, propriety, a well-furnished house, and on his deathbed the question arrives: what if the whole of it was wrong?"
+          "x": "[Ivan Ilyich's Question](card:ST035%20%E2%80%94%20Ivan%20Ilyich%27s%20Question): facing death, Tolstoy's judge questions the life that once seemed proper: [“What if my whole life has been wrong?”](https://ccel.org/ccel/tolstoy/ivan/ivan.xii.html)"
         },
         {
           "t": "p",
-          "x": "[ST171 — Soma](card:ST171%20%E2%80%94%20Soma): in the World State the citizens receive soma, a euphoric with no hangover, conditioned from birth to take it at any discomfort, pleasant affect as the whole answer to the question of a life."
+          "x": "[Soma](card:ST171%20%E2%80%94%20Soma): Huxley's World State offers [drug holidays from reality without even a headache](https://www.bibliomania.com/0/0/100/1956/26037/12.html), leaving little space in its busy pleasures to stop and think."
         },
         {
           "t": "p",
-          "x": "[ST298 — The Positivity Ratio Falls](card:ST298%20%E2%80%94%20The%20Positivity%20Ratio%20Falls): the 3:1 positivity ratio was popular because it was actionable and wrong because the maths did not support it; the correction came from outside the field."
+          "x": "[The Positivity Ratio Falls](card:ST298%20%E2%80%94%20The%20Positivity%20Ratio%20Falls): after a critique showed that fluid-dynamics equations did not justify a precise emotional tipping point, [the journal withdrew the mathematical model, not the whole paper](https://www.apa.org/monitor/2013/12/model-emotions)."
         },
         {
           "t": "h2",
-          "x": "Meaning, purpose and the hard parts"
+          "x": "Meaning under pressure"
         },
         {
           "t": "p",
-          "x": "[ST033 — Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): twenty-seven years in prison, eighteen of them on Robben Island breaking rocks, the story of what a long confinement is made of, and what it is for."
+          "x": "[Mandela's Twenty-Seven Years](card:ST033%20%E2%80%94%20Mandela%27s%20Twenty-Seven%20Years): his account describes [thirteen years of lime-quarry work](https://archives.obs-us.com/obs/english/books/Mandela/achap64.html), with glare hurting the prisoners' eyes and dust making it difficult to see."
         },
         {
           "t": "p",
-          "x": "[ST193 — Stockdale and the Epistle](card:ST193%20%E2%80%94%20Stockdale%20and%20the%20Epistle): a naval aviator spends seven and a half years as a POW, four in solitary, repeatedly tortured, and credits Epictetus, the Enchiridion's teachings on what is and is not in one's power, with his survival: literally a manual for the cell."
+          "x": "[Stockdale and the Epistle](card:ST193%20%E2%80%94%20Stockdale%20and%20the%20Epistle): in [his own account of captivity](https://www.hoover.org/sites/default/files/uploads/documents/StockdaleCourage.pdf), Stockdale describes drawing on Epictetus's distinction between what was and was not within his power."
         },
         {
           "t": "p",
-          "x": "[ST279 — Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): in Frankl's account of the camps, the prisoners who kept a reason to live, a person to return to or a work to finish, endured differently, a claim he limits: most of those he described died; the freedom to choose one's attitude is the last of the human freedoms."
+          "x": "[Frankl's Meaning](card:ST279%20%E2%80%94%20Frankl%27s%20Meaning): [remembering a loved person or an unfinished task](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf) gives prisoners something to live toward, without guaranteeing that they will survive."
         },
         {
           "t": "p",
-          "x": "[ST277 — Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): the gods meant the endless boulder as the worst punishment; Camus concludes that the struggle itself toward the heights is enough to fill a man's heart."
+          "x": "[Sisyphus Is Happy](card:ST277%20%E2%80%94%20Sisyphus%20Is%20Happy): [Camus imagines conscious defiance](https://plato.stanford.edu/entries/camus/) in the condemned man's return to his rock, not a promise that recognising the absurd will make everyone happy."
         },
         {
           "t": "p",
-          "x": "[ST322 — Post-Traumatic Growth](card:ST322%20%E2%80%94%20Post-Traumatic%20Growth): Tedeschi and Calhoun study people who have lived through major crises and find what the pathology framework did not predict: reported positive change in five domains, from appreciation of life to spiritual change."
+          "x": "[Post-Traumatic Growth](card:ST322%20%E2%80%94%20Post-Traumatic%20Growth): [Tedeschi and Calhoun describe reported growth](https://ptgi.uncc.edu/wp-content/uploads/sites/9/2013/01/PTG-Conceptual-Foundtns.pdf), while insisting that it is not inevitable and can coexist with distress."
         },
         {
           "t": "h2",
-          "x": "The conditions: other people, society and freedom"
+          "x": "Lives bound together"
         },
         {
           "t": "p",
-          "x": "[ST144 — Dorothea Brooke and the Unhistoric Acts](card:ST144%20%E2%80%94%20Dorothea%20Brooke%20and%20the%20Unhistoric%20Acts): an idealistic young woman marries a desiccated scholar, and the marriage is a study in misjudgement; Eliot's final judgement is the novel's gift, the growing good of the world is partly dependent on unhistoric acts, on the number who lived faithfully a hidden life and rest in unvisited tombs."
+          "x": "[Dorothea Brooke and the Unhistoric Acts](card:ST144%20%E2%80%94%20Dorothea%20Brooke%20and%20the%20Unhistoric%20Acts): Eliot's [Finale](https://en.wikisource.org/wiki/Middlemarch_%281874%29/Finale) finds goodness spreading through a life without great public achievement, through what she calls “unhistoric acts”."
         },
         {
           "t": "p",
-          "x": "[ST316 — How You Respond to Good News](card:ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News): Gable, Reis, Impett and Asher ask what people do when things go right, and identify four responses to a partner's good news; the first response, they find, is the relationship's business."
+          "x": "[How You Respond to Good News](card:ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News): [Gable and colleagues find enthusiastic responses associated with better relationship well-being](https://pubmed.ncbi.nlm.nih.gov/15301629/), making an ordinary exchange worth noticing."
         },
         {
           "t": "p",
-          "x": "[ST107 — Jane Addams Moves In](card:ST107%20%E2%80%94%20Jane%20Addams%20Moves%20In): Addams rents a mansion on Halsted Street; she does not arrive with a programme, she arrives with a residence, and the programmes come from what the neighbours ask for."
+          "x": "[Jane Addams Moves In](card:ST107%20%E2%80%94%20Jane%20Addams%20Moves%20In): in 1889, [Addams and Starr move into part of an old house on Halsted Street](https://pdcrodas.webs.ull.es/anglo/JaneAddamsTwentyYearsAtHullHouse.pdf), beginning Hull-House by living in the neighbourhood."
         },
         {
           "t": "p",
-          "x": "[ST226 — Mandela Invites the Jailer](card:ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): on inauguration day Mandela invites his former Robben Island warders to attend as honoured guests; the new country is to be built on recognition rather than revenge."
+          "x": "[Mandela Invites the Jailer](card:ST226%20%E2%80%94%20Mandela%20Invites%20the%20Jailer): at his inauguration, [Mandela says he invited three former white warders](https://www.upi.com/Archives/1994/05/10/Mandela-praises-compassionate-jailers/4493768542400/) to share its joy, though he is unsure all three made it through the crowds."
         },
         {
           "t": "h2",
-          "x": "How it is built: growth and practice"
+          "x": "Years of practice"
         },
         {
           "t": "p",
-          "x": "[ST001 — Cook Ding and the Ox](card:ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): Cook Ding has carved oxen for nineteen years and his blade is still as sharp as if it had just left the whetstone; he never cuts through bone or forces his way through flesh; he reads the natural openings between the joints, and at a difficult knot slows down and moves with as little force as the job allows."
+          "x": "[Cook Ding and the Ox](card:ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): the butcher's skill [follows the spaces between joints and avoids the great bones](https://ctext.org/zhuangzi/nourishing-the-lord-of-life), but a difficult joint still calls for caution and a slow hand."
         },
         {
           "t": "p",
-          "x": "[ST222 — Phil Connors Practises](card:ST222%20%E2%80%94%20Phil%20Connors%20Practises): trapped in a repeating day, Phil Connors runs through indulgence, despair and manipulation before the long middle of daily practice, piano, French, small kindnesses, done with no audience."
+          "x": "[Phil Connors Practises](card:ST222%20%E2%80%94%20Phil%20Connors%20Practises): trapped in a repeating day, the weatherman [learns piano and ice sculpture and helps people around him](https://en.wikipedia.org/wiki/Groundhog_Day_%28film%29)."
         },
         {
           "t": "p",
-          "x": "[ST184 — Franklin's Little Book](card:ST184%20%E2%80%94%20Franklin%27s%20Little%20Book): Franklin's little book gives each of thirteen virtues a page and a week, marking faults with black spots; he never became perfect, and the practice, not the perfection, was the gain."
+          "x": "[Franklin's Little Book](card:ST184%20%E2%80%94%20Franklin%27s%20Little%20Book): [Franklin records faults against thirteen virtues](https://www.gutenberg.org/files/148/148-h/148-h.htm), concentrating on one each week and admitting that he never reaches the perfection he sought."
         },
         {
           "t": "p",
-          "x": "[ST397 — Hokusai Asks for Five More Years](card:ST397%20%E2%80%94%20Hokusai%20Asks%20for%20Five%20More%20Years): at seventy-five by Japanese counting, Hokusai prints a plan for the decades ahead, at ninety to see further into the underlying principles of things, at a hundred and ten every dot and every stroke as though alive."
+          "x": "[Hokusai Asks for Five More Years](card:ST397%20%E2%80%94%20Hokusai%20Asks%20for%20Five%20More%20Years): in [his colophon to One Hundred Views of Mount Fuji](https://www.britishmuseum.org/collection/object/A_1979-0305-0-454-1), he imagines improvement still ahead, until every dot and stroke is alive at a hundred and ten."
         }
       ],
       "group": "flourishing",
