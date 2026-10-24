@@ -313,3 +313,43 @@ External carriers actually fetched for this revision:
   Definition, related-but-distinct claim and evidence caveats read.
 
 Independent advisor review requested; pending, not a clearance.
+
+### Candidate pass 2: meaning and adversity (supervisor-11878a6c)
+
+Rewrote the "hard parts" chain as four connected paragraphs. All 12 card
+links retained. All corresponding local cards read; the Post-traumatic
+growth card has no "research" suffix on disk. Corrections/limits:
+Masten kept within developmental/children scope; growth is not inevitable
+and may coexist with distress; antifragility is a system response within a
+range, not a demand on survivors; Luke's narrative is not made into a
+settled universal priority doctrine; authenticity is explicitly the
+consistency conception. The old attribution of the modern triad
+purpose/coherence/mattering to Frankl is no longer implied.
+
+Freshly fetched carriers:
+
+- Frankl, https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf :
+  all three meaning routes, specific rather than universal meaning, future
+  aim, tragic optimism, cannot-command-optimism and remove-avoidable-
+  suffering passages read. Page numbers were not supplied by extraction;
+  no invented page locator added.
+- Masten, https://ocfcpacourts.us/wp-content/uploads/2020/06/Ordinary_Magic_Resilience_Process_000935.pdf :
+  definition and ordinary developmental resources.
+- Tedeschi and Calhoun,
+  https://ptgi.uncc.edu/wp-content/uploads/sites/9/2013/01/PTG-Conceptual-Foundtns.pdf :
+  definition, growth/distress coexistence, and non-inevitability warning.
+- https://en.wikipedia.org/wiki/Antifragility : secondary overview only;
+  response within some range of variation.
+- https://plato.stanford.edu/entries/heidegger/ : anticipation of death,
+  finite projects, ownership, inauthentic conformity (SZ 261–267).
+- https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.than.html :
+  full unprompted text read, verse 277 inconstancy of fabrications.
+- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.629654/full :
+  consistency conception and alternate conceptions read.
+- https://www.biblegateway.com/passage/?search=Luke+10%3A38-42&version=NRSVUE :
+  full narrative and verse-42 textual variant read.
+- https://plato.stanford.edu/entries/japanese-aesthetics/ :
+  wabi/sabi distinctions and appreciation of repaired/imperfect utensils.
+
+These are scoped checks of the revised claims, not an endorsement of all
+claims in any linked card.
