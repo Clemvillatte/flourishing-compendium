@@ -7,21 +7,26 @@ file: "Ziran (naturalness)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-Z"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter Z", "parent": ""}
 ---
-Ziran (自然) literally means "self-so" or "so-of-itself" — it is the Daoist term for spontaneity and naturalness: the condition of a thing being what it is without external compulsion ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). The compound combines zi (自, "self") and ran (然, "so" or "thus"), so the word names what is the case of itself, without being done by anyone or for a purpose. The concept receives its most famous formulation in chapter 25 of the Daodejing, in a chain that ends the text's account of what takes its model from what: the human takes earth as its model, earth takes heaven, heaven takes the Dao, and the Dao takes ziran as its model ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). The ultimate itself does not impose but lets things be as they are ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). Legge's rendering of the chain's last link:
+Ziran (自然) literally means "self-so" or "so-of-itself" — it is the Daoist term for spontaneity and naturalness: the condition of a thing being what it is without external compulsion ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). The compound combines zi (自, "self") and ran (然, "so" or "thus"), so the word names what is the case of itself, without being done by anyone or for a purpose. The concept receives its most famous formulation in chapter 25 of the Daodejing, in a chain that ends the text's account of what takes its model from what: the human takes earth as its model, earth takes heaven, heaven takes the Dao, and the Dao takes ziran as its model ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). At the top of the chain, the Dao imposes nothing: it lets things be as they are ([Divinity Atlas](https://www.divinityatlas.com/doctrines/ziran)). Legge's rendering of the chain's last link:
 
 > "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is." (Daodejing 25, [Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-## What it is NOT
+### What ziran is not
 
+Ziran is not "nature" in the modern Western sense of the external environment of plants, animals, and geological processes ([GoEast](https://www.goeast.ai/glossary/ziran)). In its original philosophical sense, ziran describes the way things exist and operate when they follow their own internal logic without external direction: that is simply how they are, with no commander and no compelling law behind it ([GoEast](https://www.goeast.ai/glossary/ziran)). Ziran and wu wei work as a pair rather than as synonyms: ziran describes naturalness or self-so-ness, while wu wei describes a mode of action that does not force ([Oriens](https://oriens.top/entity/ziran/)). And in Guo Xiang's influential reading, ziran sits comfortably inside the social world: he holds that even social hierarchy is the natural result of how things come to be as themselves, and that what he means by ziran is very different from what Western philosophers refer to as "the state of nature" ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/guoxiang/)).
 
-Ziran is not "nature" in the modern Western sense of the external environment of plants, animals, and geological processes ([GoEast](https://www.goeast.ai/glossary/ziran)). In its original philosophical sense, ziran describes the way things exist and operate when they follow their own internal logic without external direction, not because someone commanded them, not because some law compels them, but because that is simply how they are ([GoEast](https://www.goeast.ai/glossary/ziran)). Nor is ziran a synonym for wu wei: the terms are closely related but not synonyms: ziran describes naturalness or self-so-ness, while wu wei describes a mode of action that does not force ([Oriens](https://oriens.top/entity/ziran/)). And in Guo Xiang's influential reading, ziran is not opposed to the social world; he holds that even social hierarchy is the natural result of how things come to be as themselves, and that what he means by ziran is very different from what Western philosophers refer to as "the state of nature" ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/guoxiang/)).
+### Practical implications
 
-## Practical implications
+Ziran as self-so stands in contrast to other-so, denoting the idea that things are allowed to take their own fluid, graceful, peaceful paths without too much external interference ([University of Ljubljana](https://journals.uni-lj.si/as/article/download/11752/11983)). Modern scholarship, following Liu Xiaogan, reads ziran as a state of "naturalness" characterized by harmony and spontaneity rather than as "biological nature" or the "natural world" ([University of Ljubljana](https://journals.uni-lj.si/as/article/download/11752/11983)).
 
+Two habits follow. First, notice when an action is being forced by external command or social expectation rather than arising from one's own conditions. Guo Xiang's reading adds a caution here: for him the roles required by Confucian propriety are the natural result of the system's spontaneous self-transformation, so his ziran sits comfortably inside social order ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/guoxiang/)). Second, prefer simplicity and unpretence over contrivance; the Zhuangzi esteems the seemingly useless, gnarled trees and awkward gourds, precisely because their imperfections mean they will never be forced to act in an unnatural manner ([New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Ziran)).
 
-Ziran as self-so is in contrast to other-so, denoting the idea that things are allowed to take their own fluid, graceful, peaceful paths without too much external interference ([University of Ljubljana](https://journals.uni-lj.si/as/article/download/11752/11983)). Modern scholarship, following Liu Xiaogan, argues that ziran should not be understood simply as "biological nature" or the "natural world" but instead refers to a state of "naturalness" characterized by harmony and spontaneity ([University of Ljubljana](https://journals.uni-lj.si/as/article/download/11752/11983)).
+### In the compendium
 
-Two habits follow. First, notice when an action is being forced by external command or social expectation rather than arising from one's own conditions, but be careful with Guo Xiang here, because his view is not anti-conformity: he holds that the roles required by Confucian propriety are not imposed upon a natural system that would otherwise be in chaos, but are instead the natural result of the system of spontaneous self-transformation ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/guoxiang/)). Second, prefer simplicity and unpretence over contrivance; the Zhuangzi esteems the seemingly useless, gnarled trees and awkward gourds, precisely because their imperfections mean they will never be forced to act in an unnatural manner ([New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Ziran)).
+- [[D002 — Practice ziran — naturalness]] — the compendium's own formulation of the value
+- [[D099 — Let things happen of themselves]] — ziran as a rule of conduct
+- [[B167 — When hungry, eat; when tired, sleep]] — the Chan koan reading of self-so action
+- [[B124 — Meet suchness — things as they are]] — ziran's meeting-with-what-is cousin
 
 ## Related concepts
 
@@ -32,10 +37,10 @@ Two habits follow. First, notice when an action is being forced by external comm
 - [[D151]] — the follow-the-seasons principle that follows the same natural pattern ziran names
 - [[Delight in the ordinary]] — finding sufficiency and freshness in plain, repeated things
 - [[D055]] — naturalness and nonaction in the SEP Laozi discussion
-- [[T012 — Laozi]]: the naturalness discussion in the SEP entry the page cites.
+- [[T012 — Laozi]] — the naturalness discussion in the SEP Laozi entry
 ## Related thinkers
 
-- [[T009 — Zhuangzi]]: the self-so naturalness the concept names: action arising from one's own condition, not command.
+- [[T009 — Zhuangzi]] — the self-so naturalness the concept names: action arising from one's own condition, not command
 
 ## Sources
 
@@ -60,9 +65,5 @@ Two habits follow. First, notice when an action is being forced by external comm
 - [[B045 — Let practice and enlightenment be one]]
 - [[B064 — Drop preferences — the Great Way is not difficult]]
 - [[SP005 — Treat yourself as part of nature]]
-- - - -
 
-A Daoist variant title for [[Ziran (naturalness)]]: ziran as the state of being what it is without external compulsion, emphasising the "so-of-itself" etymology. For the full treatment see [[Ziran (naturalness)]].
-
-Ziran (自然) — "so-of-itself": the Daoist value of naturalness, spontaneity, and non-forcing. It pairs with [[Wu wei]] as the quality of action that arises from alignment rather than effort.
-- Wikipedia Ziran: https://en.wikipedia.org/wiki/Ziran
+Ziran pairs with [[Wu wei]] as the quality of action that arises from alignment rather than effort. A Daoist variant title for [[Ziran (naturalness)]] carries the same emphasis: the state of being what it is without external compulsion, the "so-of-itself" etymology.
