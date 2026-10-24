@@ -30,10 +30,18 @@ realtime, not monotonic, reading.
 
 Every blockquote was re-verified against raw, unprompted carrier text
 (direct fetch of each blockquote's carrier URL, tags stripped,
-whitespace normalised, substring check): two blockquote instances
-covering one distinct blockquote-carrier URL, both FULL MATCH.
-The checker (scripts/dossier_check.py) exits 0 on the current file:
-33 card links resolve, 8 headers, 2 external carriers.
+whitespace normalised, substring check): the current file holds six
+blockquotes covering four distinct carrier URLs (MN 10, the Wikipedia
+Mindfulness article, Thanissaro's Mindfulness Defined, Nyanaponika's
+The Power of Mindfulness), all six FULL MATCH. The two inline
+Thanissaro fragments in the related-questions section were verified
+separately against the fetched essay. The checker (scripts/
+dossier_check.py) exits 0 on the current file: 48 card links resolve,
+11 headers, 6 external carriers. Earlier totals in the pass records
+below are history: pass 1 held two blockquotes on one carrier and 33
+links; a previous attempt to update this section silently failed to
+match (the replacement pattern's line breaks differed from the
+file's) and was caught in this pass by reading the section back.
 
 ## Passes 2-4 records
 
@@ -186,19 +194,25 @@ ST070 Dogen Just Sits (sitting/concentration), ST078 The Two Arrows
 
 ## Card-body audit (pass 6 follow-up)
 
-The full card bodies (not only openings) of all thirteen entries
-added in passes 3 and 5 were read and their map descriptions checked
-against them: The returning practice, Vipassana (insight),
+A description audit read the assembled card bodies (frontmatter
+through final paragraph) of the thirteen entries added in passes 3
+and 5; for each, the body's opening stretch (roughly the first 350-
+450 characters) was printed and checked against the map line: The returning practice, Vipassana (insight),
 Decentering, Cognitive defusion, Acceptance, Beginner's mind, Body
 scan in MBSR, Walking meditation, Epochen, Delight in the ordinary,
 Clarity of mind, The lived body, The effort of attention. All
 thirteen descriptions are supported by their card bodies; no
-corrections were required. A follow-up check read the full bodies of
-the pass-1 core entries (Right mindfulness, Eightfold Path, The
-three trainings, Sati, Anapanasati, Bare attention in mindfulness
-practice, Mindful attention) against their map descriptions; all
-seven are supported. Every entry in the current map has now been
-checked against its full card body. The kernel and story entries were
+corrections were required. A follow-up check read the pass-1 core entries (Right mindfulness,
+Eightfold Path, The three trainings, Sati, Anapanasati, Bare
+attention in mindfulness practice, Mindful attention) the same way,
+printing their bodies' opening stretches; all seven are supported.
+COVERAGE, STATED PRECISELY: every entry in the current map has had
+its card's opening stretch checked against its map line; deeper
+mid-body material (carrier quotations inside cards, later sections)
+has not been exhaustively read, and the audit scripts printed
+excerpts rather than whole files; the story loglines are verified
+against external carriers as recorded in the pass-11 section, and
+the kernel lines against their cards' instruction sentences. The kernel and story entries were
 verified against their card instruction sentences and openings in
 pass 2.
 
