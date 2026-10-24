@@ -89,3 +89,25 @@ session's rendering of the live pages (extraction-verified, not raw curl).
 
 Story cards read (not quoted yet): ST064, ST065, ST067. Kernel read:
 K134 (its evidence: Lord, Lepper & Preston 1984, consider-the-opposite).
+
+## Kernel evidence carriers (pass 5, 2026-10-24)
+
+5. Lord, Lepper and Preston 1984, "Considering the opposite: a corrective
+   strategy for social judgment", PubMed 6527215,
+   https://pubmed.ncbi.nlm.nih.gov/6527215/ — abstract fetched and checked:
+   "Individuals who are induced to consider the opposite, therefore,
+   should display less bias in social judgment" and "the induction of a
+   consider-the-opposite strategy had greater corrective effect than more
+   demand-laden alternative instructions to be as fair and unbiased as
+   possible" are both on the opened record (extraction-checked; the
+   abstract text matches the K134 card's evidence section).
+
+6. Damen, Pollmann and Grassow 2021, "The Benefits and Obstacles to
+   Perspective Getting", Frontiers in Communication,
+   https://www.frontiersin.org/articles/10.3389/fcomm.2021.611187/full —
+   study 2 fetched and checked: "the more items someone asked about, the
+   more accurate that person was ... ρ = −0.277, p = 0.024" and "only 15
+   (23%) asked the confederate something about all items" are on the opened
+   record (extraction-checked). NOT re-verified this session: the K218
+   card's "12 of 46 participants asked anything at all" count (a different
+   experiment in the same paper; the fetched excerpt does not carry it).
