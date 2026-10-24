@@ -229,3 +229,12 @@ Four inline parenthetical verification notes ("quoted passage
 checked" / "cited passage checked" inside citation parens: SN 22.59,
 SEP, Godbee and Kangas 2020, and one more) were found in a later
 sweep and removed; inherited notes, not re-checked this session.
+
+## Carrier re-verification (2026-10-25)
+
+The SN 22.59 carrier (Thanissaro, Access to Insight) was re-opened
+this session. The quoted passage "This is not mine. This is not my
+self. This is not what I am" is verbatim, and the aggregate-by-
+aggregate examination structure matches the dossier's description.
+No discrepancy found. Other carriers were not re-opened this
+session.
