@@ -8,7 +8,7 @@ The registry contains 15 published dossiers. My earlier logs covered 14; the-sel
 
 ## 2. Story-logline totals
 
-Exact counts from origin/main (dossier Story sections): anger 13, affect 9, anxiety 10, attention 8, cognition 12, genuine-flourishing 22, the-self 13, wisdom 13, lifes-purpose 17, motivation 7, goals 4, uncertainty 6, overload-overwhelm 4. Total: 138. life-boosting-microinterventions and personal-growth have no Story section (the Stories requirement postdates them). My earlier "~156" figure was wrong; 138 is the verified total, all checked against cards, with the two lifes-purpose defects (ST311, ST279) the only unfaithful ones and the ST377 sequencing note in QC-the-self.
+Exact counts from origin/main (dossier Story sections): anger 13, affect 9, anxiety 10, attention 8, cognition 12, genuine-flourishing 22, the-self 13, wisdom 13, lifes-purpose 17, motivation 7, goals 4, uncertainty 6, overload-overwhelm 4, happiness 12, decision-making 8. Total: 158. (Note: an earlier version of this record listed two non-existent slugs, "life-boosting-microinterventions" and "personal-growth", as having no Story section; those dossiers do not exist in the registry. Happiness and decision-making were audited earlier under QC-dos7 and QC-dos9 — the band-number labels in earlier summaries were mislabeled, not the coverage.) My earlier "~156" figure was wrong; 158 is the verified total, all checked against cards, with the two lifes-purpose defects (ST311, ST279) the only unfaithful ones — both since rewritten upstream (commit 31acf6a4e) — plus the ST377 sequencing note in QC-the-self.
 
 ## 3. Verification-channel wording
 
