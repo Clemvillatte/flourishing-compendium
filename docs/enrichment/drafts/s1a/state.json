@@ -1588,7 +1588,22 @@
      "note": "Dorothy journal + Wordsworth Preface + 1807 poem, all raw texts opened; 1807 text quoted, not 1815 revision"
     }
    ]
+  },
+  "s1a-054": {
+   "status": "ready",
+   "angle": "P090: Jane Addams takes the garbage inspectorship — sanitation done with the Nineteenth Ward's women's clubs, not to them",
+   "history": [
+    {
+     "t": "2026-10-24T14:23:03+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:25:56+00:00",
+     "to": "ready",
+     "note": "advisor QC item-15 fixes applied: joint attribution, purpose-setting marked not demonstrated, punctuation restored, date range removed"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:22:42+00:00"
+ "updated": "2026-10-24T14:25:56+00:00"
 }
