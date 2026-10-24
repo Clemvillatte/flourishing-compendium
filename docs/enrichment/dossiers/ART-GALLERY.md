@@ -39,17 +39,17 @@ never have to select a thumbnail.
 |---|---|---|
 | Genuine Flourishing | Matisse, Le bonheur de vivre | The joy of life itself: figures at ease in nature, the flagship theme in one image. |
 | Wisdom | Fan Tchunpi, Zen life (Dr Suzuki) | A seated contemplative scholar among books and incense: study turned into a life. |
-| Life's Purpose | Rockwell Kent, Asgaard October | Kent's own farm named for the home of the gods under an autumn sky: a chosen place and direction. |
+| Life's Purpose | Rockwell Kent, Asgaard October | Cultivated fields in autumn light under one long cloud: a direction tended over seasons rather than seized in a moment. |
 | Affect | Survage, Rythme colore | Colour rhythm without a story: mood as movement, the umbrella theme before any single emotion. |
 | Anger | Tiger and bamboo (kokuho, Shimei) | Fierce energy held inside containment: the dossier's own argument about anger examined, not denied. |
 | Anxiety | Franz von Stuck, Dissonanz | A dissonant, unsettled classical scene: unease without a named threat. |
 | Happiness | Van Gogh, corner of garden with butterflies | Light, warmth and small movement: everyday happiness rather than triumph. |
 | Cognition | Magritte, Le Savoir | A door standing open in a sky: knowledge as a threshold, thinking about thinking. |
-| Decision-Making | Caroline Walker, Chess | The deliberating figure at the board: choice under constraints. |
+| Decision-Making | Caroline Walker, Chess | A figure on a terrace seen through window slats: the weighing pause before a step, choice framed by what is visible and what is not. |
 | Attention | Hasui, Soshu Maekawa no ame | One figure moving through falling rain: attention as weathering the moment, concentration in the print's fine lines. |
 | The Self | Jawlensky, Mystischer Kopf | A face reduced to its essential lines: the self as both face and question. |
 | Motivation | Wu Guanzhong, sunrise over Guilin | Rising light over peaks: what pulls a person forward. |
-| Goals | Liu Dan, All Ready | Readiness itself: prepared sails and settled aim. |
+| Goals | Liu Dan, All Ready | Poppies from closed bud to full flower: aims at their stages, the goal as a bloom still opening. |
 | Agency | Chirico, Ettore e Andromaca | Two figures as jointed puppets who nonetheless act: agency inside determinism. |
 | Behaviour | Utrillo, La rue animee | An animated street: repeated small actions making a life. |
 | Others | Renoir, promenade au bord de la mer | Two figures walking together: companionship as the sociocultural lens. |
@@ -59,6 +59,8 @@ never have to select a thumbnail.
 
 Consistency note: the set deliberately mixes East Asian ink and
 woodblock traditions with European modern painting, but holds to
-muted contemplative palettes, figure-and-landscape registers, and one
-crop ratio, so the grid reads as a single gallery rather than a
-search-results page.
+one register — muted, contemplative palettes (olive, sage, ochre,
+indigo, soft reds; no neon or pop saturation), figure-and-landscape
+subjects, and one crop ratio — so the grid reads as a single gallery
+rather than a search-results page. The palette band was checked
+against the rendered crops, not assumed from filenames.

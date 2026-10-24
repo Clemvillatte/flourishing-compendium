@@ -206,14 +206,24 @@ format) and set a new standard. Verbatim substance, do not lose it:
 1. DONE: The Self rebuilt as the v2 exhaustive exemplar (see Current
    state above). README.md updated to the v2 spec; the-self.md v1 is
    superseded.
-2. Live-browser verification pass on the deployed Academy Dossiers view
-   (cache-busted reload; check sticky TOC on desktop, collapse on
-   narrow screens, vs blocks, card links opening cards).
-3. Extend the Academy view: sticky side TOC for dossier headers; the
-   restructured practice section (variation / selection / retention
-   blocks) in both markdown and the view's data/renderer.
-4. Verify in browser (band layout, TOC navigation, card links), push,
-   update the ledger, release the baton, report to the owner.
+2. DONE (2026-10-24): live-browser verification pass on the deployed
+     Academy Dossiers view, plus the category/art upgrade — see the
+   2026-10-24 session record in handoff.md (filter chips, per-card
+   artwork, number plate removed, In-preparation roadmap).
+3. PUBLICATION PIPELINE (supervisor-only, 2026-10-24): when a writer
+   finishes a dossier markdown, flip its status to 'published' in
+   registry.json, run `python3 scripts/dossier_registry_build.py`
+   (compiles newly published dossiers from their markdown into the
+   fcDossiersData block; existing dossier bodies are never
+   regenerated; deterministic), then `node --check site/assets/app.js`,
+   a DOM-stub render test, then commit site/assets/app.js manually
+   (outside the save helper's path filter) and api_push; verify the
+   Pages deploy with a cache-busted reload. Do NOT run
+   scripts/dossier_build.py just to refresh view data: it regenerates
+   the markdown of record from its own MAP/OVERRIDES and can
+   overwrite hand-polished glosses.
+4. Workers (dos1-dos4) build dossier content per their band
+   manifests; the supervisor integrates per step 3.
 
 ## Session history (commits on main)
 

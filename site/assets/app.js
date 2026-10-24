@@ -4271,16 +4271,15 @@ function renderDossiers(){
   const groups = data.groups||[];
   const groupLabel = id => { const g = groups.find(x=>x.id===id); return g ? g.label : id; };
   const chips = el('div','dossier-chips');
-  chips.setAttribute('role','tablist');
   const filterState = { group: 'all' };
   const chipAll = el('button','dossier-chip on','All');
-  chipAll.setAttribute('role','tab');
+  chipAll.setAttribute('aria-pressed','true');
   chipAll.onclick = () => { filterState.group='all'; syncChips(); };
   chips.appendChild(chipAll);
   const chipEls = { 'all': chipAll };
   groups.forEach(g=>{
     const c = el('button','dossier-chip', g.label);
-    c.setAttribute('role','tab');
+    c.setAttribute('aria-pressed','false');
     c.onclick = () => { filterState.group=g.id; syncChips(); };
     chipEls[g.id] = c;
     chips.appendChild(c);
@@ -4288,9 +4287,10 @@ function renderDossiers(){
   wrap.appendChild(chips);
   const grid = el('div','acad-hall-grid');
   const empty = el('div','acad-empty dossier-empty');
+  empty.textContent = 'No dossier published in this group yet. The roadmap below shows what is in preparation.';
   empty.style.display='none';
   const syncChips = () => {
-    Object.keys(chipEls).forEach(k=>{ chipEls[k].classList.toggle('on', filterState.group===k); });
+    Object.keys(chipEls).forEach(k=>{ chipEls[k].classList.toggle('on', filterState.group===k); chipEls[k].setAttribute('aria-pressed', filterState.group===k ? 'true' : 'false'); });
     let shown = 0;
     grid.childNodes.forEach(card=>{
       const show = filterState.group==='all' || card.dataset.group===filterState.group;
@@ -4300,7 +4300,7 @@ function renderDossiers(){
     empty.style.display = shown ? 'none' : '';
   };
   (data.dossiers||[]).forEach(d=>{
-    const card = el('div','acad-hall dossier-card');
+    const card = el('div','acad-hall dossier-card' + (d.featured ? ' featured' : ''));
     card.dataset.group = d.group || '';
     card.tabIndex = 0; card.setAttribute('role','button'); card.setAttribute('aria-label','Open dossier: ' + d.title);
     const plate = el('div','acad-hall-plate dossier-plate');
@@ -4312,7 +4312,7 @@ function renderDossiers(){
     }
     card.appendChild(plate);
     const body = el('div','acad-hall-body');
-    if(d.group) body.appendChild(el('div','dossier-eyebrow', groupLabel(d.group)));
+    if(d.group) body.appendChild(el('div','dossier-eyebrow', (d.featured ? 'Featured \u00b7 ' : '') + groupLabel(d.group)));
     body.appendChild(el('div','acad-hall-title', d.title));
     body.appendChild(el('div','acad-hall-desc', d.question));
     const foot = el('div','acad-hall-foot');

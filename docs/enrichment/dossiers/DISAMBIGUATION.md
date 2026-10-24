@@ -52,10 +52,10 @@ matrix row as evidence.
 
 | Term family | Umbrella dossier | Nearby terms | Status |
 |---|---|---|---|
-| Anger | Anger (published) | irritation, resentment, contempt, rage, indignation | settled (pattern) |
+| Anger | Anger (published) | irritation, resentment, contempt, rage, indignation | published pattern to follow — an editorial treatment, not a settled scholarly classification |
 | Anxiety | Anxiety (planned) | stress, worry, angst, fear, dread, apprehension | matrix to be built by the Anxiety writer |
 | Happiness | Happiness (planned) | joy, contentment, pleasure, subjective well-being | boundary vs Genuine Flourishing set in the registry |
-| Self | The Self (published) | identity, ego, self-concept | settled |
+| Self | The Self (published) | identity, ego, self-concept | published pattern to follow |
 | Motivation | Motivation (planned) | desire, craving, drive, willpower | Goals and Agency are separate dossiers by owner direction, not nearby terms |
 
 ## First task of the Anxiety writer
@@ -72,10 +72,16 @@ proposed with the matrix row as evidence, not assumed now.
 
 ## Boundaries that are already set
 
-- Happiness vs Genuine Flourishing: hedonic material and subjective
-  well-being live in Happiness; eudaimonic material and the
-  flourishing-versus-counterfeit question live in Genuine
-  Flourishing. Each dossier states the boundary in its intro.
+These are EDITORIAL STARTING SCOPES, not settled scholarly
+classifications: each writer tests them against their opened sources
+and flags any correction for the supervisor.
+
+- Happiness vs Genuine Flourishing: as a starting scope, hedonic
+  material and subjective well-being sit in Happiness; eudaimonic
+  material and the flourishing-versus-counterfeit question sit in
+  Genuine Flourishing. Each dossier states the boundary in its
+  intro, and each writer may refine it from what the sources
+  actually support.
 - Goals vs Motivation vs Agency: three dossiers by owner direction.
   Motivation holds the umbrella (why anything moves a person), Goals
   holds pursuit and disengagement, Agency holds autonomy and
