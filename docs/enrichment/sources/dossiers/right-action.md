@@ -67,7 +67,24 @@ all ten are supported, including the Ethics as foundation claim
 the rest, placed before the Rules, per Yoga Sutras II.29-II.32 in the
 Johnston translation). A further sample of pass-1 descriptions (Right
 action, Karma, Compassion, Generosity) was checked the same way; all
-four are supported. A sentence-length scan of the dossier's non-quote
+four are supported. The remaining map, kernel and story entries were
+then swept with a term-overlap check against their content/ files;
+every entry flagged by the overlap heuristic (Nonviolent
+communication, The bodhisattva vow, Confucian role ethics, Skillful
+means (upaya), Courage - action despite fear, Harm principle,
+Judgment adds the harm, Prosocial honesty research, K152, K216) was
+read against its card and found supported: the Confucian role ethics
+description matches the Role ethics card's own opening ("the family
+of views on which a person's roles and relationships... are central
+to what is morally required and to who the person is") and its note
+that the role-ethics card keeps the Analects and After Virtue apart
+while the Confucian card holds the Analects material; the kernel
+practice lines match their cards; the story loglines were verified
+against their carriers in earlier passes (MN 86, the Schindler's
+List and Prometheus Wikipedia articles, the Giles Zhuangzi
+translation). The Harm principle, Judgment adds the harm and
+Prosocial honesty research entries are labelled editorial
+connections in the map text, as in the Right Intention dossier. A sentence-length scan of the dossier's non-quote
 prose found no sentence above 55 words after the Angulimala logline
 was shortened.
 
