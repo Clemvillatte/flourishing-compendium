@@ -436,3 +436,41 @@ these can coexist; final question is explicitly the writer's judgment.
 Apply this readability correction to the whole candidate before asking
 the owner to validate it. Do not propagate the unapproved candidate to
 other dossiers.
+
+### Candidate pass 4: learning through action; practices that fit a life
+
+All 12 original card links retained. Semicolon chain replaced by two
+reader subthemes and six short connected paragraphs. External links are
+integrated into meaningful prose phrases, not appended as evidence badges.
+
+Carriers fetched and read for these claims:
+- Aristotle NE II.1–4, Ross:
+  https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html .
+  Habituation and choice for its own sake; appearance/action versus
+  knowledge/choice/firm character distinction.
+- Sanderse conceptual examination:
+  https://www.tandfonline.com/doi/full/10.1080/03057240.2018.1497952 .
+  Not an empirical intervention trial.
+- Aristotle Metaphysics IX:
+  https://classics.mit.edu/Aristotle/metaphysics.9.ix.html .
+  Application to moral practice is explicitly the writer's.
+- https://en.wikipedia.org/wiki/Bhavana : secondary lexical overview of
+  cultivation/development. No uniform Buddhist doctrine asserted.
+- Maslow Toward a Psychology of Being, chapter 3:
+  https://epdf.pub/toward-a-psychology-of-beingfddacaa1d3466cbd5f4a39782d346cc289247.html .
+  Criticism of static conception; no attributed "becoming not arrival" quote.
+- https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Layous-2013.pdf :
+  fit, motivation, effort as model conditions, not guaranteed efficacy.
+- https://greatergood.berkeley.edu/images/uploads/Pursuing_Happiness-_The_Architecture_of_Sustainable_Change.pdf :
+  sustainability model, no 50/10/40 estimate or guaranteed control claim.
+- https://www.gutenberg.org/files/3794/3794-h/3794-h.htm :
+  On Benefits I.6 and II.22 fetched, spirit of giving and grateful receipt.
+  Aristotle VIII.14 also fetched; no proportional-affection claim imported.
+- https://pubmed.ncbi.nlm.nih.gov/15301629/ : Gable 2004 four studies,
+  enthusiastic response and relationship well-being association.
+  No "more important than response to bad news" claim.
+- https://www.rivistateoria.eu/index.php/teoria/article/download/44/43 :
+  Zagzebski's exemplar theory and admiration. Philosophical proposal.
+- https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9 :
+  Van Cappellen et al. 2016, two cross-sectional samples, statistical
+  mediation involving awe/gratitude/love/peace, not a causal mechanism.
