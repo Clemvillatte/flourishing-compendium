@@ -12,18 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 78** — Wander free and easy (xiaoyao you)
 
-The principle takes its name from the first chapter of the Zhuangzi, whose title, xiaoyao you, Legge rendered "Enjoyment in Untroubled Ease" (Zhuangzi 1). The chapter closes with Huizi complaining that Zhuangzi's words are like a large useless ailantus tree that no builder looks at, and Zhuangzi answering with the wandering image that carries the principle.
+Huizi complains that Zhuangzi's words resemble a tree too misshapen for a builder to use. Zhuangzi suggests planting it somewhere spacious and resting beneath it. The exchange closes the first chapter, which Legge calls Enjoyment in Untroubled Ease.
 
 > There you might saunter idly by its side, or in the enjoyment of untroubled ease sleep beneath it. Neither bill nor axe would shorten its existence; there would be nothing to injure it. What is there in its uselessness to cause you distress? (Zhuangzi 1, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-Huizi judges both the tree and Zhuangzi's words by their usefulness. Zhuangzi answers by describing an enjoyment that the carpenter's judgment leaves out. In this exchange, the tree's failure to serve the builder protects the possibility of resting beneath it. (Zhuangzi 1, §7.)
+The tree escapes the axe because its wood is unwanted. Its awkward shape leaves a place for the enjoyment Huizi has overlooked. I read the exchange as an invitation to question the demand that everything earn its place by producing something. (Zhuangzi 1, §7.)
 
-I applie the exchange as a directive: build a life you can move through lightly, unburdened by convention, comparison and hoarded identity.
+### Plain words
 
-**Plain words**
-When something seems useless, ask what job you expected it to do. A tree can fail the carpenter's test and still be a pleasant place to rest. You need not remake it to enjoy being there.
+Consider an activity you enjoy, then notice what you expect it to deliver. Would you still choose it without a useful result to show afterwards? Let that question inform how you spend some of your free time.
 
-*For example:* Take a walk with no fitness target and no errand attached. Nothing about the walk needs justifying for it to be worth taking.
+### For example
+
+On a short walk, try leaving the distance untracked and attending to what you encounter. Afterwards, consider whether you enjoyed walking that way and whether you want to do it again. This is my application of the story.
 
 ## Related concepts
 
