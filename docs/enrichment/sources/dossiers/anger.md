@@ -240,3 +240,14 @@ being treated as the new reference.
 - Shantideva, Bodhicharyavatara VI.1 (Batchelor) — Primary text
 - Anger regulation research — Primary text
 - Aristotle, Nicomachean Ethics IV.5 (Ross) — Primary text
+
+## Spot-check addendum (2026-10-24, supervisor-pplx-1024c-dossiers)
+
+The Seneca De Ira quotes were re-checked against the Gutenberg 64576
+plain text opened this session: II.III ("beyond reason and carries
+her away"), I.II ("no plague has cost the human race more dear") and
+II.XXIX ("greatest remedy for anger is delay") all present and
+matching. Note: the Gutenberg text carries an inline footnote marker
+({50}) inside the I.II sentence; the dossier's quotation elides the
+marker, standard practice for footnote numbers, wording otherwise
+exact.
