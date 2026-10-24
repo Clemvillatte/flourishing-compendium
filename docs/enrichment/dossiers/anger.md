@@ -166,7 +166,7 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 [ST372 — Dighavu Puts the Sword Away Three Times](https://clemvillatte.github.io/flourishing-compendium/#card=ST372%20%E2%80%94%20Dighavu%20Puts%20the%20Sword%20Away%20Three%20Times): Dighavu has the king who killed his parents asleep in his lap and a sword in his hand; three times the urge returns, and three times he puts the sword away.
 
-[ST060 — Aṅgulimāla Stops](https://clemvillatte.github.io/flourishing-compendium/#card=ST060%20%E2%80%94%20A%E1%B9%85gulim%C4%81la%20Stops): the serial killer runs at full speed and cannot catch a man walking at normal pace; "I have stopped. You stop."
+[ST060 — Aṅgulimāla Stops](https://clemvillatte.github.io/flourishing-compendium/#card=ST060%20%E2%80%94%20A%E1%B9%85gulim%C4%81la%20Stops): the serial killer runs at full speed and cannot catch a man walking at normal pace; "I have stopped, Angulimala. You stop."
 
 [ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): after the change, the villagers of Savatthi throw clods, stones and potsherds at the former killer, and the Buddha tells him to bear it; the intention has ended and the consequences have not.
 

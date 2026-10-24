@@ -200,3 +200,27 @@ loglines had been carried unchanged from the map subtheme, whose files
 were not re-opened at first push); all three cards' own text now
 checked against the loglines. The "every cited story file was opened
 and read" claim is accurate as of this revision.
+
+Revision 2 (worker-pplx-dossiers-1024e, 2026-10-24): external
+verification of the Story section's retained claims. Carriers opened
+this session: (1) Angulimala Sutta, MN 86, Thanissaro translation,
+accesstoinsight.org/tipitaka/mn/mn.086.than.html — the Buddha's reply
+verified verbatim ("I have stopped, Angulimala. You stop."); the
+ST060 logline now quotes that wording exactly; the ST405 logline's
+clod, stone and potsherd, and the instruction to bear it, verified in
+the same carrier (the sutta does not name the throwers as victims'
+relatives; the logline says only "the villagers of Savatthi", which
+the sutta's setting supports). (2) Mandela's inauguration invitation
+of his former warders verified against the Nelson Mandela Foundation
+archive of his own 10 May 1994 luncheon speech ("I invited three of
+the warders looked after me to attend this celebration... because,
+in a way, they also contributed to it"), corroborated by
+contemporaneous UPI and Christian Science Monitor reports; the
+Wikipedia carrier alone does not carry the claim. (3) Medea's
+monologue verified as Medea 1078-1080 (Greek text and Warner's
+translation consulted: "I know indeed what evil I intend to do, but
+stronger than all my afterthoughts is my fury"; scholarly discussion
+in Stanton, RhM 130), and the Aristotle-akrasia link verified as the
+NE VII treatment of the Euripidean verse; the ST160 logline's "passion
+stronger than deliberation" follows the Greek (thumos stronger than
+bouleumata).
