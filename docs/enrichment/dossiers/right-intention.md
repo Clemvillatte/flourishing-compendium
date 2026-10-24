@@ -170,7 +170,7 @@ The proposition: freedom from ill will is the whole of the second resolve. The M
 
 > "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate." ([Sutta Nipāta 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)).
 
-Whether the two suttas disagree is the open question. Each can be read as answering the other's need: the resolve names the absence, the metta instruction names the cultivation, and nothing in either text rejects the other. The Two Sorts of Thinking discourse sits between them, treating non-ill will as a thought that is cultivated and kept; I do not settle which reading the factor itself commits to.
+Whether the two suttas disagree is the open question. Each can be read as answering the other's need: the resolve names the absence, the metta instruction names the cultivation, and nothing in either text rejects the other. The Two Sorts of Thinking discourse sits between them, treating non-ill will as a thought that is cultivated and kept; which reading the factor itself commits to is left open.
 
 ### Less wanting or better wanting?
 
