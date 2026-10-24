@@ -24,6 +24,9 @@ For flourishing, process philosophy suggests three interpretive shifts (these ar
 ## Related concepts
 
 - [[The many become one]] — the tradition the formula anchors
+- [[T042 — Whitehead, Alfred North]] — the system-builder whose Process and Reality is the tradition's most systematic statement
+- [[Panta rhei]] — Heraclitus' everything-flows, the Greek root the tradition claims
+- [[Anicca]] — impermanence as a Buddhist relative of the anti-substantialist impulse
 
 ## Sources
 
