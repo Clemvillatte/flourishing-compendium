@@ -2485,3 +2485,11 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   app.js and randomizer-model.js parse clean). Supervisor's Baumeister fix in
   overload-overwhelm verified ('These results suggest' restored). s1b-032 (Linji,
   B161) spot-checked: verbatim quotes from the opened Ru-Yi Record of Linji Part 6.
+
+- QC sample, right-view (canonical reviewer, 34d11bc3+): checker OK (43 card
+  links, 18 headers, 10 carriers); public text is transparent that none of the
+  three contrasts is established as a grounded same-question disagreement.
+  FLAG for supervisor: the ledger's divergence requirement is still PENDING
+  SUPERVISOR REVIEW — decide whether right-view flips published with the
+  contrasts presented as candidates only, or holds until a divergence is
+  grounded. Other 15 unpublished dossiers not re-sampled this pass.
