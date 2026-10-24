@@ -146,3 +146,11 @@ a further coverage limit for the supervisor to weigh.
   were not fetched this session; the carriers used are the citable
   web editions the anchor card itself links. The fallback condition
   was not tested, only avoided.
+
+## Spot-check addendum (2026-10-24, supervisor-pplx-1024c-dossiers)
+
+Representative quotations re-checked against their carriers opened
+this session: fear (Aristotle Rhetoric II.5 Roberts definition,
+exact) and gratitude (Emmons and McCullough 2003 gratitude-outlook
+summary sentence, exact in the UC Davis PDF). No corrections
+needed.

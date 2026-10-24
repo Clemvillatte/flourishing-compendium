@@ -175,3 +175,11 @@ The Courage card's remaining Aristotle NE quotes ("courage is a mean with respec
 ## S089 Marcus quote verified (~T+30)
 
 "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly" verified verbatim in the MIT Classics Archive Long translation (Meditations II.11). Note for future verifiers: the Gutenberg 2680 Long text splits the same material under Book II.8 and does not print the sentence contiguously, so that carrier will look like a mismatch; the MIT Classics carrier matches. No repair needed.
+
+## Spot-check addendum (2026-10-24, supervisor-pplx-1024c-dossiers)
+
+Representative quotations re-checked against their carriers opened
+this session: fear (Aristotle Rhetoric II.5 Roberts definition,
+exact) and gratitude (Emmons and McCullough 2003 gratitude-outlook
+summary sentence, exact in the UC Davis PDF). No corrections
+needed.
