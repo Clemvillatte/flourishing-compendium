@@ -163,13 +163,19 @@ were checked against external carriers:
   wording and the "briefest teaching in the canon" superlative was
   removed. KEPT.
 - ST068 The Sixteen Steps of the Breath: the MN 118 carrier was
-  fetched (29500 bytes, real content) but the expected instruction
-  wordings ("sixteen", "tetrads", "long breath", "breathes in
-  long") were not found in the cleaned text. The narrative could not
-  be verified within this session's window. The logline was REMOVED
-  from the dossier; the card remains a CANDIDATE, retained here, for
-  a later pass with more time to locate the wording in the
-  Thanissaro translation.
+  fetched (29500 bytes, real content). First probes ("sixteen",
+  "tetrads", "long breath", "breathes in long") missed because the
+  page renders the instructions inside escaped quotation marks; a
+  second pass with the actual phrasing verified the progression
+  verbatim: "breathing in short, he discerns, 'I am breathing in
+  short'... He trains himself, 'I will breathe in sensitive to the
+  entire body'... 'I will breathe in calming bodily fabrication'...
+  'sensitive to rapture'... 'sensitive to pleasure'... on through
+  the mental fabrications." The narrative is supported; the logline
+  was RESTORED with the carrier's wording, and its closing clause is
+  labelled as the card's reading. The word "sixteen" itself does not
+  appear in the Thanissaro translation; the step count is the
+  tradition's and the card's.
 - ST075 The Monkey Tied to the Post: the card attributes the simile
   to the commentary tradition but cites DN 22 as carrier; the fetched
   DN 22 page contains no monkey simile ("monkey", "tied to a post"
