@@ -21,13 +21,13 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 [Eightfold Path](https://clemvillatte.github.io/flourishing-compendium/#card=Eightfold%20Path): the umbrella hub; action is grouped with speech and livelihood in the ethics training.
 
-[The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the grouping that places conduct under ethics, after wisdom and alongside concentration.
+[The three trainings](https://clemvillatte.github.io/flourishing-compendium/#card=The%20three%20trainings): the grouping that places conduct under ethics, with wisdom and concentration as the other two trainings.
 
 [Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the compendium's label for this factor, marking where the path moves from resolve to conduct.
 
-[Karma](https://clemvillatte.github.io/flourishing-compendium/#card=Karma): bodily action as karma; what is done through the body counts as deliberate action and sets results going.
+[Karma](https://clemvillatte.github.io/flourishing-compendium/#card=Karma): bodily action as karma; intentional conduct through body, speech or mind is what sets results going, and this factor holds the bodily side of it.
 
-[Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action): Wang Yangming's doctrine that knowing the good already issues in acting; held by the wiki as the far end of this factor's question (see the divergence below).
+[Spontaneous right action](https://clemvillatte.github.io/flourishing-compendium/#card=Spontaneous%20right%20action): Wang Yangming's doctrine that knowing the good already issues in acting; quoted in the related question below.
 
 The Magga-vibhanga Sutta gives the definition:
 
@@ -59,11 +59,13 @@ The first restraint, taking life, and its counterpart, compassion:
 
 [Judgment adds the harm](https://clemvillatte.github.io/flourishing-compendium/#card=Judgment%20adds%20the%20harm): the Stoic claim that events do not disturb people, the opinions about the events do; grouped here by editorial connection as a claim about disturbance rather than harm done.
 
-The second restraint, taking what is not given, and its counterparts, honesty and generosity:
+The second restraint, taking what is not given, and its counterparts, honesty, contentment and generosity:
+
+> "The positive counterpart to abstaining from stealing is honesty, which implies respect for the belongings of others and for their right to use their belongings as they wish. Another related virtue is contentment, being satisfied with what one has without being inclined to increase one's wealth by unscrupulous means. The most eminent opposite virtue is generosity, giving away one's own wealth and possessions in order to benefit others." ([Bhikkhu Bodhi, The Way to the End of Suffering](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)): Scholarly study; quoted passages checked.
 
 [Generosity](https://clemvillatte.github.io/flourishing-compendium/#card=Generosity): Aristotle's liberality, the mean with regard to wealth, concerned especially with giving.
 
-[Prosocial honesty research](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20honesty%20research): the research finding that brutal honesty often serves the speaker's discharge, not the listener's benefit.
+[Prosocial honesty research](https://clemvillatte.github.io/flourishing-compendium/#card=Prosocial%20honesty%20research): the research on truth-telling that hurts, grouped here by editorial connection; the card's material belongs with the speech factor's honesty question.
 
 The third restraint, sexual misconduct, and its counterpart, fidelity:
 
@@ -81,7 +83,7 @@ The third restraint, sexual misconduct, and its counterpart, fidelity:
 
 [Kohlberg's theory of moral development](https://clemvillatte.github.io/flourishing-compendium/#card=Kohlberg%27s%20theory%20of%20moral%20development) and [Moral development research](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20development%20research): the research tradition on how moral reasoning develops, from stage theory to the intuition approaches that followed.
 
-[Social cognitive theory of morality](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20cognitive%20theory%20of%20morality): Bandura's account of moral conduct as learned through observation and self-regulation.
+[Social cognitive theory of morality](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20cognitive%20theory%20of%20morality): Bandura's account of moral conduct through the interaction of personal standards, self-regulation and social circumstances.
 
 [Opposite action (Linehan)](https://clemvillatte.github.io/flourishing-compendium/#card=Opposite%20action%20%28Linehan%29): Linehan's DBT skill of acting against the action urge that comes with an emotion.
 
@@ -91,35 +93,41 @@ The third restraint, sexual misconduct, and its counterpart, fidelity:
 
 [The bodhisattva vow](https://clemvillatte.github.io/flourishing-compendium/#card=The%20bodhisattva%20vow): the Mahayana commitment to work for the liberation of all beings; conduct undertaken for everyone's sake.
 
-[Care ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Care%20ethics) and [Gilligan's ethics-of-care theory](https://clemvillatte.github.io/flourishing-compendium/#card=Gilligan%27s%20ethics-of-care%20theory): the ethics that starts from the caring relation rather than the universal rule.
+[Care ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Care%20ethics) and [Gilligan's ethics-of-care theory](https://clemvillatte.github.io/flourishing-compendium/#card=Gilligan%27s%20ethics-of-care%20theory): moral reasoning with more than one voice; the relationship-oriented ethic of care contrasted with the ethic of justice.
 
-[Role ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Role%20ethics) and [Confucian role ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Confucian%20role%20ethics): the Confucian account of conduct learned inside roles and relations rather than from principles.
+[Role ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Role%20ethics) and [Confucian role ethics](https://clemvillatte.github.io/flourishing-compendium/#card=Confucian%20role%20ethics): the family of views on which a person's roles and relationships are central to what is morally required and to who the person is; the role-ethics card keeps Confucius's Analects and MacIntyre's After Virtue apart, the Confucian card holds the Analects material.
 
 [The call of conscience](https://clemvillatte.github.io/flourishing-compendium/#card=The%20call%20of%20conscience) and [Conscience (Gewissen)](https://clemvillatte.github.io/flourishing-compendium/#card=Conscience%20%28Gewissen%29): Heidegger's account of Dasein summoned out of its lostness in the "they"; conscience as the call.
 
 [Skillful means (upaya)](https://clemvillatte.github.io/flourishing-compendium/#card=Skillful%20means%20%28upaya%29): the Lotus Sutra's skillful means, the flexible application of the teaching to the situation.
 
-[Action precedes feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20precedes%20feeling) and [Action before feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20before%20feeling): the teaching that action precedes feeling, from Aristotle to James; the act comes first and the feeling follows.
+[Action precedes feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20precedes%20feeling): the act comes first and the feeling follows, from Epictetus's counsels to William James's habit essay.
+
+[Action before feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20before%20feeling): the compendium's application of Aristotle's habituation ordering; the Ethics itself teaches habituation, and II.4 distinguishes performing a just action from acting as a just person.
 
 [Action commitment](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20commitment): ACT's committed action, one act consistent with a chosen value, however small.
 
 [Effortless action through long effort](https://clemvillatte.github.io/flourishing-compendium/#card=Effortless%20action%20through%20long%20effort): effortlessness in action as the far end of long effort, skill matured until the act stops feeling like an act.
 
-[Designing for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20for%20virtue) and [Designing the environment for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20the%20environment%20for%20virtue): the modern work on designing situations for virtue rather than relying on willpower.
+[Designing for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20for%20virtue): the design-research idea that products and environments can support virtuous behaviour; the third ingredient of the Positive Design Framework.
 
-## Where the traditions genuinely disagree
+[Designing the environment for virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Designing%20the%20environment%20for%20virtue): arranging the settings of action, from laws and institutions down to the room one works in, so that virtuous acts become the ones a person repeatedly performs.
+
+[Ethics as foundation](https://clemvillatte.github.io/flourishing-compendium/#card=Ethics%20as%20foundation): Johnston's reading of Yoga Sūtra II.29, the commandments, including non-harm, truthfulness and non-stealing, placed before the posture work; conduct as the foundation of practice.
+
+## Related questions and parallels
 
 ### Does knowing the good suffice for doing it?
 
-The shared question: where does right conduct come from? Wang Yangming's doctrine of the unity of knowledge and action holds that genuinely knowing already issues in acting:
+Wang Yangming's doctrine of the unity of knowledge and action holds that genuinely knowing already issues in acting:
 
 > "There have never been people who know but do not act. Those who are supposed to know but do not act simply do not yet know." ([Internet Encyclopedia of Philosophy, "Wang Yangming (1472—1529)"](https://iep.utm.edu/wangyang/)): Scholarly reference; quoted passages checked.
 
-Aristotle's account of virtue of character holds that conduct is formed by doing, and that the one who knows and does not act needs practice rather than more knowledge:
+Aristotle's account of virtue of character holds that character is formed by doing:
 
-> "men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." ([Aristotle, Nicomachean Ethics II.1, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)): Primary text; quoted passages checked. The quotation begins mid-sentence at "men", as the raw text reads "e.g. men become builders".
+> "men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." ([Aristotle, Nicomachean Ethics II.1, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)): Primary text; quoted passages checked.
 
-The two positions answer the same question and part cleanly: for Wang, the person who fails to act fails to know, and the remedy is removing the delusion that separates them; for Aristotle, we are adapted by nature to receive the virtues and made perfect by habit, and the remedy is repeated doing. What remains unresolved is whether these are two descriptions of one training or two different accounts of the person; the compendium holds materials on both sides, the spontaneous-right-action card on Wang's and the virtue-rehearsal kernels below on Aristotle's, and does not settle the matter.
+The two passages state different things: Wang's states that genuine knowing cannot coexist with failure to act; Aristotle's states how virtue of character is acquired. Nothing in either text rejects the other, and the two can be read as one account, a knowing that must itself be formed by practice. Whether the traditions genuinely disagree here, and how each treats acting against knowledge, is unfinished research; the wiki records the pair as a parallel rather than a settled disagreement.
 
 ## Practice: variation, selection, retention
 
@@ -151,15 +159,15 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### The stopped harm
 
-[ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): Angulimala, the bandit wearing a garland of fingers, cannot catch the Buddha walking at normal pace, hears the explanation that the Buddha has stopped "once & for all" having cast off violence toward all living beings, and throws his sword over a cliff; the harm stops, and the stones he later takes on his alms round are the price the town exacts from a changed man.
+[ST405 — Angulimala Is Told to Bear the Stones](https://clemvillatte.github.io/flourishing-compendium/#card=ST405%20%E2%80%94%20Angulimala%20Is%20Told%20to%20Bear%20the%20Stones): Angulimala, the bandit wearing a garland of fingers, cannot catch the Buddha walking at normal pace, hears the explanation that the Buddha has stopped "once & for all" having cast off violence toward all living beings, and throws his sword over a cliff; the harm stops, and the stones thrown at the renamed "Doer of No Harm" on his alms round are the price the town exacts from a changed man, with the Buddha telling him to bear it as the fruit of karma now experienced in the here-&-now.
 
 ### Harm discovered late
 
-[ST087 — Schindler's List](https://clemvillatte.github.io/flourishing-compendium/#card=ST087%20%E2%80%94%20Schindler%27s%20List): Schindler arrives in Kraków as a profiteer and ends with his entire fortune spent buying lives; the film does not depict him as having become good, it depicts him discovering too late what the money had been for all along.
+[ST087 — Schindler's List](https://clemvillatte.github.io/flourishing-compendium/#card=ST087%20%E2%80%94%20Schindler%27s%20List): Schindler arrives in Kraków as a profiteer and ends with his entire fortune spent buying lives; the card's own reading is that the film does not depict him as having become good, it depicts him discovering too late what the money had been for all along.
 
 ### Taking for others
 
-[ST295 — Prometheus Steals](https://clemvillatte.github.io/flourishing-compendium/#card=ST295%20%E2%80%94%20Prometheus%20Steals): Prometheus steals fire from the gods and gives it to humanity, and is chained to a rock with his liver eaten daily; the myth holds the theft as the creative act and the punishment as the permanent cost of it, a deliberate tension with this factor's second restraint.
+[ST295 — Prometheus Steals](https://clemvillatte.github.io/flourishing-compendium/#card=ST295%20%E2%80%94%20Prometheus%20Steals): Prometheus steals fire from the gods and gives it to humanity, and is chained to a rock with his liver eaten daily; the card reads the theft as the creative act and the punishment as its permanent cost, an editorial juxtaposition with this factor's second restraint rather than the myth's own framing.
 
 ### Rules and situations
 
