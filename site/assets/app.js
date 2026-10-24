@@ -11057,7 +11057,7 @@ function renderDossiers(){
     foot.appendChild(el('span','acad-hall-meta','compilation \u00b7 divergence \u00b7 practice'));
     body.appendChild(foot);
     card.appendChild(body);
-    card.onclick = () => { A.view='dossierDetail'; A.dossier=d.id; renderAcademy(); };
+    card.onclick = () => { A.view='dossierDetail'; A.dossier=d.id; renderAcademy(); if(window.__fcRoute) window.__fcRoute.set('#dossier='+d.id); };
     card.onkeydown = (e)=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); card.onclick(); } };
     grid.appendChild(card);
   });
@@ -11089,7 +11089,7 @@ function renderDossierDetail(id){
   const wrap = el('div','acad-detail');
   const band = el('div','dossier-band');
   const back = el('button','acad-btn ghost','\u2190 Dossiers');
-  back.onclick = () => { A.view='dossiers'; renderAcademy(); };
+  back.onclick = () => { A.view='dossiers'; renderAcademy(); if(window.__fcRoute) window.__fcRoute.set('#view=dossiers'); };
   band.appendChild(back);
   const data = window.fcDossiersData;
   const g = (data.groups||[]).find(x=>x.id===d.group);
@@ -12277,6 +12277,8 @@ if(document.readyState!=='loading') initGallery();
     },
     explorer: function(){ A.view='sourceExplorer'; switchView('academy'); },
     gallery: function(){ switchView('gallery'); },
+    dossiers: function(){ A.view='dossiers'; A.dossier=null; switchView('academy'); },
+    dossier: function(id){ if(!(((window.fcDossiersData||{}).dossiers)||[]).some(x=>x.id===id)) return false; A.view='dossierDetail'; A.dossier=id; switchView('academy'); return true; },
     resync: function(){ syncRoute(); }
   };
 })();
@@ -12447,6 +12449,7 @@ if (window.fcSwitchView) window.fcSwitchView('rand');
     if (m) {
       var v = m[1];
       if (v === 'academy') { if (window.__fcAcademyRoute) { window.__fcAcademyRoute.home(); return true; } return false; }
+      if (v === 'dossiers') { if (window.__fcAcademyRoute) { window.__fcAcademyRoute.dossiers(); return true; } return false; }
       if (v === 'gallery') { if (window.__fcAcademyRoute) { window.__fcAcademyRoute.gallery(); return true; } return false; }
       if (v === 'edit') {
         window.fcSwitchView('wiki');
@@ -12474,6 +12477,8 @@ if (window.fcSwitchView) window.fcSwitchView('rand');
     if (m) return !!(window.__fcAcademyRoute && window.__fcAcademyRoute.degree(safeDecode(m[1]), true));
     m = /^#module=(.+)$/.exec(h);
     if (m) return !!(window.__fcAcademyRoute && window.__fcAcademyRoute.module(safeDecode(m[1])));
+    m = /^#dossier=(.+)$/.exec(h);
+    if (m) return !!(window.__fcAcademyRoute && window.__fcAcademyRoute.dossier(safeDecode(m[1])));
     return false;
   }
 
