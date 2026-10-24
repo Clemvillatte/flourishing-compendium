@@ -1,13 +1,20 @@
 {
  "baton": "dos25",
  "agent": "worker-pplx-dos25-1024i",
- "clocked_in": "2026-10-24T08:28:09+00:00",
+ "clocked_in": "2026-10-24T08:48:43+00:00",
  "takeovers": [
   {
    "by": "worker-pplx-dos25-1024i",
    "at": "2026-10-24T08:00:38+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-pplx-dos25-1024i",
+   "at": "2026-10-24T08:48:43+00:00",
+   "from": "worker-pplx-dos25-1024i",
+   "reason": "stale (21 min)"
   }
- ]
+ ],
+ "released": false
 }
