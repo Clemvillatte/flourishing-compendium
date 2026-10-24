@@ -33,6 +33,7 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 6. [Reciprocity](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocity): the two demands of the norm, help those who have helped you and do not injure them, as the structure the emotion sits in.
 
 7. [Reciprocity norm theory Gouldner](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocity%20norm%20theory%20Gouldner): the 1960 statement of the norm in its universal form, the sociological base under the exchange.
+
 8. [Reciprocal altruism research](https://clemvillatte.github.io/flourishing-compendium/#card=Reciprocal%20altruism%20research): Trivers's evolutionary account that lists gratitude among the regulators of the exchange, the base the relationship theory later builds on.
 
 9. [SP022 — Practice gratitude as repayment of love](https://clemvillatte.github.io/flourishing-compendium/#card=SP022%20%E2%80%94%20Practice%20gratitude%20as%20repayment%20of%20love): Spinoza's definition, a desire springing from love, wanting to benefit someone who has benefited us out of love.
@@ -44,6 +45,7 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 12. [A070 — Understand the asymmetry of benefaction](https://clemvillatte.github.io/flourishing-compendium/#card=A070%20%E2%80%94%20Understand%20the%20asymmetry%20of%20benefaction): Aristotle's observation that benefactors love those they have benefited more than the reverse, with his own account of why: the beneficiary is the benefactor's handiwork and carries the maker's activity in it, so the imbalance is normal and not a ledger to correct.
 
 13. [K053 — Practice recognizing the kindness you have received](https://clemvillatte.github.io/flourishing-compendium/#card=K053%20%E2%80%94%20Practice%20recognizing%20the%20kindness%20you%20have%20received): the lamrim's contemplation: recognize all beings as your mothers, begin with your mother's kindness in this lifetime, and extend the remembrance outward gradually.
+
 14. [K034 — Be grateful to everyone](https://clemvillatte.github.io/flourishing-compendium/#card=K034%20%E2%80%94%20Be%20grateful%20to%20everyone): the thirteenth lojong slogan, whose gratitude includes the harmful, with Trungpa's commentary that the difficult are presenting the chance to practise.
 
 15. [Thanksgiving as sacrifice](https://clemvillatte.github.io/flourishing-compendium/#card=Thanksgiving%20as%20sacrifice): the Psalm's line, the offering-side of thankfulness, cited by the fundamental-stance page as its religious parallel.
@@ -54,6 +56,7 @@ These groupings are editorial; the settled distinctions, where the sources draw 
 16. [AF063 — Practise gratitude: it recalibrates attention toward what is good](https://clemvillatte.github.io/flourishing-compendium/#card=AF063%20%E2%80%94%20Practise%20gratitude%20%E2%80%94%20it%20recalibrates%20attention%20toward%20what%20is%20good): the mechanism as the lab frames it, a practice of directing attention to what is good rather than what is lacking, with the field's pooled verdict on its own scale: small overall increases in well-being, Hedges' g = 0.19 across 145 papers and 28 countries.
 
 17. [PP013 — Practise gratitude with specificity](https://clemvillatte.github.io/flourishing-compendium/#card=PP013%20%E2%80%94%20Practise%20gratitude%20with%20specificity): the Emmons and McCullough experiments as the evidence base, with their limits stated plainly on the card.
+
 18. [PP063 — Dose appropriately](https://clemvillatte.github.io/flourishing-compendium/#card=PP063%20%E2%80%94%20Dose%20appropriately): the 2005 interventions where the once-weekly gratitude group improved relative to controls and the three-times-weekly group did not, with the card's own caution that significance in one group and not the other does not itself establish a difference between them.
 
 
