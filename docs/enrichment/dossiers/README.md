@@ -61,38 +61,43 @@ abstract; quoted passage checked", "Further reading; not assessed".
    record: [sources/dossiers/anger.md](../sources/dossiers/anger.md),
    revision 1.
 
-## Proposed next dossiers (v2, per owner direction 2026-10-24)
+## Roadmap and navigation (2026-10-24, owner-directed)
 
-Clear, single-topic commonplace books:
+The canonical registry is [registry.json](registry.json): every dossier
+with its navigation group, status, scope, nearby terms and artwork.
+The Academy grid now filters by these ten navigation groups (lenses for
+the reader, not a scientific taxonomy):
 
-1. **Cognition** — thinking styles, reasoning, belief formation, the limits
-   of reason.
-2. **Attention** — focused-attention meditation, attention restoration,
-   mind-wandering, flow, the economy of the gaze.
-3. **Decision-Making** — heuristics, biases, choice overload and
-   architecture, fast-and-frugal models, akrasia.
-4. **Memory** — memory reconstruction, habituation of the past,
-   narrative memory, forgetting.
-5. **Emotion** — emotions as judgments, affect regulation, emotion
-   awareness, constructed emotion.
-6. **Perception** — perceptual learning, categorical perception,
-   perspective-taking, illusion.
-7. **Habit** — habit formation, the habit body, discontinuity, returning
-   after lapse.
-8. **Motivation and Goals** — intrinsic and identified motivation, goal
-   setting, self-concordance, willpower.
-9. **Belief** — belief formation, perseverance, inherited beliefs,
-   belief as habit.
-10. **Anger** — the anger dissection, hostile attribution, boundaries and
-    repair, forgiveness research. (The owner's own example of the format.)
-11. **Wisdom and Judgement** — phronesis, wise reasoning research, the
-    mean, practical judgement in the moment.
+| Group | Dossiers |
+|---|---|
+| Flourishing & Wisdom | Genuine Flourishing, Wisdom, Life's Purpose |
+| Affect | Affect, Anger, Anxiety, Happiness |
+| Cognition | Cognition, Decision-Making |
+| Attention | Attention |
+| Self | The Self |
+| Motivation | Motivation, Goals, Agency |
+| Behaviour | Behaviour |
+| Others | Others |
+| Body | Body |
+| Life Challenges | Uncertainty, Overload & Overwhelm |
 
-The v1 abstract titles (Suffering and the second wound; Desire, craving
-and enough; Agency, effort and non-forcing; Living with uncertainty;
-Compassion without self-abandonment; Love and nonattachment;
-Impermanence, grief and loss; Meaning, mortality and contribution) are
-retired; their material will resurface inside the topical dossiers above.
+Near-synonym terms (Stress, Worry, Angst...) are handled by the
+disambiguation policy in [DISAMBIGUATION.md](DISAMBIGUATION.md), not by
+minting every title. The v1 abstract titles (Suffering and the second
+wound; Desire, craving and enough; Agency, effort and non-forcing;
+Living with uncertainty; Compassion without self-abandonment; Love and
+nonattachment; Impermanence, grief and loss; Meaning, mortality and
+contribution) are retired; their material resurfaces inside the topical
+dossiers. Backlog candidates live at the end of the registry.
+
+Each dossier card carries artwork from the owner's collection; the
+assignment and rationale are in [ART-GALLERY.md](ART-GALLERY.md),
+and writers never select thumbnails (supervisor-owned).
+
+Worker bands for the dossier programme: dos1 (Genuine Flourishing),
+dos2 (Affect), dos3 (Cognition), dos4 (Attention) — manifests in
+`../bands/dos*-manifest.json`. Four writers plus one supervisor is the
+recommended launch.
 
 ## Location and status
 

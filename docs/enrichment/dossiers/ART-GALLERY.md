@@ -1,0 +1,64 @@
+# Dossier art gallery (owner's collection)
+
+Written 2026-10-24 under the dossiers baton. The owner directed that
+dossier thumbnails come from the owner's art collection, matched by
+theme, meaning and symbolism, with some consistency in colour and
+style, and that the gallery be prepared centrally so dossier writers
+never have to select a thumbnail.
+
+## How this works for agents
+
+- The assignment is fixed in `registry.json` (`art` field per dossier)
+  and the optimized files are committed at `site/assets/dossier-art/`.
+- Dossier writers do NOT select, edit or re-crop artwork. If a work
+  seems a poor match once a dossier is written, flag it in a commit
+  message for the supervisor; the supervisor swaps it.
+- The manifest (`site/assets/dossier-art/manifest.json`) records each
+  file's origin in the owner's archive (the Google Drive `#ART.zip`)
+  and the attribution as it appears in the collection filenames. Those
+  attributions are not independently verified; the site does not
+  display them.
+
+## Selection rules (for any future supervisor adding art)
+
+1. Thematic match first: the work should illustrate the dossier's
+   central question, not merely decorate it.
+2. Symbolism over literalism: a mirror for the self, a wave for
+   overwhelm, a paradox sky for uncertainty beat an illustrated
+   textbook scene.
+3. Consistency: muted, contemplative palettes that sit on the dark
+   gold-accented site; no neon or pop saturation; one work per
+   dossier, cropped to the same plate ratio (4:3 from the top third).
+4. The collection leans landscape and figure works from East Asian
+   and European modern traditions; stay inside that register so the
+   grid reads as one curated gallery.
+
+## Current assignment and rationale
+
+| Dossier | Work (as attributed in the collection) | Why |
+|---|---|---|
+| Genuine Flourishing | Matisse, Le bonheur de vivre | The joy of life itself: figures at ease in nature, the flagship theme in one image. |
+| Wisdom | Fan Tchunpi, Zen life (Dr Suzuki) | A seated contemplative scholar among books and incense: study turned into a life. |
+| Life's Purpose | Rockwell Kent, Asgaard October | Kent's own farm named for the home of the gods under an autumn sky: a chosen place and direction. |
+| Affect | Survage, Rythme colore | Colour rhythm without a story: mood as movement, the umbrella theme before any single emotion. |
+| Anger | Tiger and bamboo (kokuho, Shimei) | Fierce energy held inside containment: the dossier's own argument about anger examined, not denied. |
+| Anxiety | Franz von Stuck, Dissonanz | A dissonant, unsettled classical scene: unease without a named threat. |
+| Happiness | Van Gogh, corner of garden with butterflies | Light, warmth and small movement: everyday happiness rather than triumph. |
+| Cognition | Magritte, Le Savoir | A door standing open in a sky: knowledge as a threshold, thinking about thinking. |
+| Decision-Making | Caroline Walker, Chess | The deliberating figure at the board: choice under constraints. |
+| Attention | Hasui, Soshu Maekawa no ame | One figure moving through falling rain: attention as weathering the moment, concentration in the print's fine lines. |
+| The Self | Jawlensky, Mystischer Kopf | A face reduced to its essential lines: the self as both face and question. |
+| Motivation | Wu Guanzhong, sunrise over Guilin | Rising light over peaks: what pulls a person forward. |
+| Goals | Liu Dan, All Ready | Readiness itself: prepared sails and settled aim. |
+| Agency | Chirico, Ettore e Andromaca | Two figures as jointed puppets who nonetheless act: agency inside determinism. |
+| Behaviour | Utrillo, La rue animee | An animated street: repeated small actions making a life. |
+| Others | Renoir, promenade au bord de la mer | Two figures walking together: companionship as the sociocultural lens. |
+| Body | O'Keeffe, Red Canna | Close bodily organic form: the body felt from inside rather than seen. |
+| Uncertainty | Magritte, L'empire des lumieres | A night house under a daylight sky: the paradox of not knowing which world one stands in. |
+| Overload & Overwhelm | Hokusai, Kanagawa oki nami ura | The wave: more coming at the boat than it can take in. |
+
+Consistency note: the set deliberately mixes East Asian ink and
+woodblock traditions with European modern painting, but holds to
+muted contemplative palettes, figure-and-landscape registers, and one
+crop ratio, so the grid reads as a single gallery rather than a
+search-results page.

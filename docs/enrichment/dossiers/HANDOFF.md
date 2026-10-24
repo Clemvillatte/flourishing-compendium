@@ -164,6 +164,15 @@ format) and set a new standard. Verbatim substance, do not lose it:
 
 ## Operations (how to work this band)
 
+- 2026-10-24 UPDATE: the dossier programme is now banded. Worker bands
+  dos1-dos4 are minted (see `../bands/dos*-manifest.json` and
+  `../batches/dos*.json`); one dossier per band, supervisor-owned
+  integration. The single `dossiers` baton is the supervisor/integrator
+  baton. Workers: read HANDOFF.md, README.md, DISAMBIGUATION.md and
+  ART-GALLERY.md here, then your band manifest. Writers own only their
+  dossier markdown + evidence ledger + band state; the registry
+  (registry.json), the Academy data (app.js) and the art are
+  SUPERVISOR-ONLY.
 - Repo: Clemvillatte/flourishing-compendium. Clone via token in the
   remote URL (owner provides a fine-grained PAT per session; if the
   remote 401s, the owner must issue a new token).
