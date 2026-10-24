@@ -170,3 +170,33 @@ The incompatibility is stated by the circumplex authors, not inferred here: a di
 Evidence limits: the outcome language in the kernel descriptions above is the kernels' own text, compressed; this dossier verified no trial of these exact exercises. The labeling kernel rests on the affect-labeling study cited on its card, the writing kernel on the expressive-writing literature cited on its card, the DBT module on the treatment literature for its clinical population — none of those carriers was opened here, and no claim about their study sizes or designs is made. The feeling-tone and low-response practices carry no outcome claim verified in this dossier. The categorical-versus-dimensional disagreement is a live theoretical dispute; no practice selection follows from either side alone.
 
 ::Retention:: Any of these that changes how quickly an emotion is named, or how long it outlasts its trigger, earns a place; the chronometry and dynamics entries are the natural measurement tools for checking what a practice has changed.
+
+## Story: the stories that carry the theme
+
+The compendium's stories, retold in a line: the ones that best carry this theme's aspects. Each line gives the story's own turn, compressed from the story card; the full telling lives on the card.
+
+### The oldest questions about feeling
+
+[ST160 — Medea Knows](https://clemvillatte.github.io/flourishing-compendium/#card=ST160%20%E2%80%94%20Medea%20Knows): Medea, abandoned by Jason for a royal marriage, plans the murder of her children as revenge; Euripides gives her the monologue that remains the definitive portrait of akrasia — knowing what evil she is about to do, and doing it.
+
+### The feeling families
+
+[ST062 — Sadness Gets a Role](https://clemvillatte.github.io/flourishing-compendium/#card=ST062%20%E2%80%94%20Sadness%20Gets%20a%20Role): in Riley's mind, Joy runs operations and has been keeping Sadness contained; the family's move to San Francisco destabilises everything, and Joy and Sadness are ejected from headquarters — the story of what Sadness turns out to be for.
+
+[ST187 — Joy Reads the Memory](https://clemvillatte.github.io/flourishing-compendium/#card=ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory): Joy, examining a sad core memory, rewinds it and watches the part after the loss, when Riley's parents and teammates came onto the ice and comforted her — the sadness and the comfort bound together in one memory.
+
+[ST425 — Duchenne's Two Kinds of Smile](https://clemvillatte.github.io/flourishing-compendium/#card=ST425%20%E2%80%94%20Duchenne%27s%20Two%20Kinds%20of%20Smile): a doctor holds electrodes to the face of his old patient and photographs the muscles of expression raised one at a time; the distinction he draws turns on the will — the muscle that pulls the mouth into a smile obeys it, and the muscle around the eyes, which he names the muscle of benevolence, does not.
+
+[ST146 — Achilles' Disproportionate Rage](https://clemvillatte.github.io/flourishing-compendium/#card=ST146%20%E2%80%94%20Achilles%27%20Disproportionate%20Rage): Agamemnon takes Briseis, and the anger is not wrong in its origin — the violation of honour calls for response; it is wrong in its measure: withdrawal from the war, every embassy and every offer of recompense refused.
+
+### What feeling does to thinking
+
+[ST170 — The Lotus-Eaters](https://clemvillatte.github.io/flourishing-compendium/#card=ST170%20%E2%80%94%20The%20Lotus-Eaters): Odysseus' scouts reach a land where those who taste the lotus forget home and want only to stay, eating more; Odysseus drags them weeping to the ships and ties them under the benches.
+
+### Regulating and shaping feeling
+
+[ST185 — The Gentle Person's Anger](https://clemvillatte.github.io/flourishing-compendium/#card=ST185%20%E2%80%94%20The%20Gentle%20Person%27s%20Anger): the gentle-tempered person is praised not for never being angry but for being angry in the right way: at the right things, with the right people, for the right duration, in the right manner.
+
+[ST401 — Dipa Ma Watches Anger Arise and Pass](https://clemvillatte.github.io/flourishing-compendium/#card=ST401%20%E2%80%94%20Dipa%20Ma%20Watches%20Anger%20Arise%20and%20Pass): a Bengali woman in Rangoon loses a daughter at three months and a son at childbirth, and her heart trouble reaches the stage where her doctors expected her to die at any time — the practice she turns to is in the title: watching anger arise and pass.
+
+[ST429 — Backsliding into Abundance](https://clemvillatte.github.io/flourishing-compendium/#card=ST429%20%E2%80%94%20Backsliding%20into%20Abundance): the Buddha's retrospective on his pre-awakening efforts: clenching his teeth and pressing his tongue against the roof of his mouth, he beat down, constrained and crushed his mind with his awareness — and the force failed.
