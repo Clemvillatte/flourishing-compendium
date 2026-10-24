@@ -190,3 +190,10 @@ Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because 
 - Corrected the Gemmell source-list gloss that wrongly called it “the quoted passage”. The page's block quotation is exactly Thich Nhat Hanh's wording; Gemmell is an alternate rendering. Body attribution was already correct.
 - Rechecked the four paraphrased explanatory readings against the attributed talk: self 00:46 onward, humanity 03:10 onward, ordinary beings/Buddhas 05:31 onward, lifespan 17:38 onward. All match their stated scope. No claim to have listened to audio; this check uses the source transcript.
 - Kept the already strong body/Plain words/example and protected links/reflections. This is a bibliography repair, not a new body rewrite.
+
+## B141: complete the verse and distinguish understanding from realisation
+
+- Opened unprompted: [Batchelor literal translation](https://www.leighb.com/VfromC.htm), chapter 13 verses 7-8 with translator's notes; [Westerhoff SEP Fall 2025 archive](https://plato.stanford.edu/archives/fall2025/entries/nagarjuna/), full section 2 and beginning of section 3.
+- Completed the existing verse 13.8 excerpt with the translator's printed bracketed gloss and terminal period: “[incurable/incorrigible].” The whole two-sentence block is now verbatim. No claim to have checked Tibetan/Sanskrit.
+- Replaced a repetitive second summary of anti-foundationalism with the SEP's important distinction between intellectual understanding and realisation, including the limit on inferring changed experience from assent to an argument.
+- Split the fused Korzybski/Shunyata bullets without changing either link. Read The emptiness of emptiness and Shunyata for relation context. Plain words and writing example remain the already strong version; no whole-concept or modern parallel certification.

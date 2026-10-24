@@ -16,9 +16,9 @@ For Nagarjuna, emptiness concerns the absence of svabhava, often translated as i
 
 MMK 13.7 examines the dependence of the terms empty and non-empty. Verse 8 turns the warning toward making emptiness itself a view to hold onto. ([MMK 13.7 and 13.8, Batchelor](https://www.leighb.com/VfromC.htm))
 
-> "The Conquerors taught emptiness as the forsaking of all views. Those who view emptiness are taught to be without realisation" (MMK 13.8, excerpt from [Batchelor's literal translation](https://www.leighb.com/VfromC.htm))
+> "The Conquerors taught emptiness as the forsaking of all views. Those who view emptiness are taught to be without realisation [incurable/incorrigible]." (MMK 13.8, [Batchelor's literal translation](https://www.leighb.com/VfromC.htm))
 
-Westerhoff's account makes the consequence explicit: emptiness is a corrective to a mistaken way of conceiving phenomena, not a self-standing substance discovered after other substances have been rejected. ([Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/archives/fall2025/entries/nagarjuna/))
+Westerhoff also [distinguishes intellectual understanding from realisation](https://plato.stanford.edu/archives/fall2025/entries/nagarjuna/): accepting the argument need not change how things appear. The tradition's aim includes a change in experience; being able to explain the claim does not establish that one has realised it.
 
 **Plain words**
 Imagine taking apart a table and looking for a “tableness” that exists all by itself. Finding parts and conditions has not revealed an extra ingredient called emptiness. That is an everyday analogy for the danger here: you can question something's independent existence, then accidentally give the word you used to question it an independent existence of its own.
@@ -37,7 +37,8 @@ For example: A writer drafts “Emptiness is the ultimate substance of the unive
 ## Philosophy parallels
 
 - **[[The emptiness of emptiness|The emptiness of emptiness]]** (Nagarjuna, MMK 13)
-- **The map is not the territory** (Korzybski, Science and Sanity)- **[[Shunyata|Shunyata]]** (Buddhism, MMK 24.18)
+- **The map is not the territory** (Korzybski, Science and Sanity)
+- **[[Shunyata|Shunyata]]** (Buddhism, MMK 24.18)
 
 
 <!-- fc: reflections
