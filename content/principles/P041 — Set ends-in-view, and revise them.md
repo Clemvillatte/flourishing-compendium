@@ -27,6 +27,9 @@ A goal on Dewey's account is more like a target than a destination: something se
 
 - [John Dewey, Human Nature and Conduct (Project Gutenberg)](https://www.gutenberg.org/ebooks/41386) — Part III, "The Nature of Aims"
 
+## Stories
+- [[ST472 — The Twenty-Seven Dollars|472. The Twenty-Seven Dollars]]
+
 ## Psychology parallels
 
 - **[[Goal adjustment capacity|Goal adjustment capacity]]**, disengaging and reengaging flexibly predicts well-being (Wrosch et al., 2003)

@@ -310,6 +310,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST441 — The Bicycle Factory That Still Needs a Manager]]
     - [[ST443 — One Foot on the Rope Bridge]]
     - [[ST451 — The Compass After Las Vegas]]
+    - [[ST472 — The Twenty-Seven Dollars]]
 - [[ST-S04 — Part IV — Aristotelian Stories]]
     - [[ST345 — The Army Enlisted Against Nature]]
   - [[ST-S04.01 — IV.1 First Principles — Eudaimonia and the Function Argument]]
