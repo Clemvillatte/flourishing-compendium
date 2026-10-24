@@ -37,6 +37,8 @@ Epictetus draws the line the whole theme keeps returning to:
 
 [Control theory of self-regulation](https://clemvillatte.github.io/flourishing-compendium/#card=Control%20theory%20of%20self-regulation): Carver and Scheier's feedback model of behaviour: loops compare the perceived state against a reference value, and the mismatch itself drives the action.
 
+[Pragmatism](https://clemvillatte.github.io/flourishing-compendium/#card=Pragmatism): the tradition that, in the SEP's words, understands knowing the world as inseparable from agency within it; Peirce, James and Dewey, with the pragmatic maxim as its core.
+
 Dewey's frame turns agency from a possession into a circuit: the seeing is already shaped by prior reaching, and the outcome reshapes the next seeing. On this view the capacity grows by the same route a skill grows, through conduct and its consequences, which is why the research below keeps returning to practice and mastery rather than to insight alone.
 
 ### Where the say is believed to sit
@@ -90,6 +92,8 @@ Dewey's frame turns agency from a possession into a circuit: the seeing is alrea
 [Controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Controlled%20motivation): the other half: motivation sourced in pressure, external demands and rewards, or internally felt guilt and pride.
 
 [Autonomous versus controlled motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomous%20versus%20controlled%20motivation): the comparison page: motivation sorted by its reasons rather than its strength.
+
+[Identified versus introjected motivation](https://clemvillatte.github.io/flourishing-compendium/#card=Identified%20versus%20introjected%20motivation): the SDT distinction between two ways of carrying a rule inside: regulation accepted as one's own, and regulation taken in but not accepted, performed to avoid guilt or anxiety.
 
 [Autonomy-supportive leadership](https://clemvillatte.github.io/flourishing-compendium/#card=Autonomy-supportive%20leadership): in self-determination theory, the interpersonal style of a person in authority who nurtures others' autonomous motivation rather than pressing them toward outcomes.
 
