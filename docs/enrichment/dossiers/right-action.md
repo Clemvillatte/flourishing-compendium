@@ -205,4 +205,4 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### Rules and situations
 
-[ST384 — The Tree Is Spared; the Goose Is Killed](https://clemvillatte.github.io/flourishing-compendium/#card=ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is good for nothing and a goose is killed because it cannot cackle; asked which condition he would prefer, Zhuangzi smiles that he would rest halfway between the two, and that even that position cannot avoid trouble, a rule that protects in one setting may fail in the next.
+[ST384 — The Tree Is Spared; the Goose Is Killed](https://clemvillatte.github.io/flourishing-compendium/#card=ST384%20%E2%80%94%20The%20Tree%20Is%20Spared%3B%20the%20Goose%20Is%20Killed): a tree is spared because its wood is good for nothing and a goose is killed because it cannot cackle; asked which condition he would prefer, Zhuangzi smiles that he would rest halfway between the two, and that even that position cannot avoid trouble. The card reads this as a warning that a rule which protects in one setting may fail in another.
