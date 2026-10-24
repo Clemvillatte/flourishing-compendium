@@ -1,3 +1,14 @@
+# Supervisor QC entry 2 — 2026-10-24, T+41 (ST085 follow-through)
+
+The ST085 card fix (pass a2c7c5d7e) changed the story's carrier, but
+two deployed surfaces still carried the old AN 3.123 link: the compiled
+site data regenerates automatically (GitHub Actions runs build.py on
+every push, so the deploy catches up on its own), and fcGalleryData in
+site/assets/app.js is hand-maintained. The gallery entry (id 566) was
+corrected to the Vinaya Mv 10 Thanissaro excerpt (commit c9a63ea85).
+Note for future passes: content fixes that change carriers must also
+check fcGalleryData in app.js.
+
 # Supervisor QC entry — 2026-10-24, T+35 (flourishing-compendium)
 
 Reviewed the parallel workers' flagged supervisor items (dos19 released
