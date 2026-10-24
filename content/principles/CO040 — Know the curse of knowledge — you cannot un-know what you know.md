@@ -41,3 +41,6 @@ Imagine introducing a software system to a newcomer. You refer to its pipeline b
 ## Practice
 
 - When explaining something, ask: "what does this person actually know?" Do not assume. Test understanding rather than assuming it.
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the hermeneutic circle from Truth and Method the page's curse line cites.

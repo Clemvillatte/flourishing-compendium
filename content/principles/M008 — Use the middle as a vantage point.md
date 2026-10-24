@@ -36,3 +36,6 @@ When two groups expect different things from you, compare their assumptions befo
 
 - **[[The traveler's eye|The traveler's eye]]** (Montesquieu's Persian Letters, as literary parallel)
 - **[[The hermeneutic horizon|The hermeneutic horizon]]** (Gadamer, Truth and Method)- **[[Nepantla|Nepantla]]** (Skeptic & Mesoamerican)
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the hermeneutic horizon from Truth and Method the page's vantage cites.

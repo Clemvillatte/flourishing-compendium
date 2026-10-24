@@ -41,3 +41,6 @@ For psychology, McAdams (2008) argues that life stories are told in social relat
 ## Philosophy parallels
 
 - **[[Dialogue|Dialogue]]** (Buber, I and Thou; Gadamer, Truth and Method)
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: dialogue from Truth and Method, beside Buber's I and Thou.

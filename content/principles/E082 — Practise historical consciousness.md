@@ -44,3 +44,6 @@ The principle also cites Heidegger. In Being and Time §74: "If everything 'good
 
 - **[[Historical consciousness|Historical consciousness]]** (Gadamer, Truth and Method)
 - **[[Historicity|Historicity]]** (Heidegger, Being and Time)
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: consciousness of being affected by history, the wirkungsgeschichtliches Bewusstsein the page explains.

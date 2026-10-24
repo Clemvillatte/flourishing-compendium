@@ -40,3 +40,6 @@ Gadamer describes understanding as overcoming both our own particularity and tha
 
 - **[[Fusion of horizons|Fusion of horizons]]** (Gadamer, Truth and Method)
 - **[[Openness|Openness to the other]]** (Levinas, Totality and Infinity)
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the transposing account the page quotes from Truth and Method.

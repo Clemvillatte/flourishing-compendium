@@ -29,8 +29,7 @@ The meta-analysis of cooperative decision making summarized the bias in one line
 - [[Organizational justice theory]]: the research field on how fairness of decisions is judged inside institutions
 - [[Prejudice reduction]]: the wider class of practices this scan belongs to
 - [[Prejudice (Vorurteil)]]: what the scan looks for, in Gadamer's sense of judgments formed ahead of the case
-
-## Related kernels
+- [[T049 — Gadamer, Hans-Georg]]: the prejudice concept the scan looks for, judgments formed ahead of the evidence.## Related kernels
 
 - [[K287 — Fairness audit]]: the retrospective sibling, reviewing a decision already made
 - [[K290 — Prosocial courage drill]]: acting on unfairness found in others' decisions

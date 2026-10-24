@@ -41,8 +41,7 @@ This page describes the idea as the encyclopedia presents it. It does not examin
 - [[Prejudice (Vorurteil)]] — the fore-structures that start the circle
 - [[Thrownness]] — the situatedness one always interprets from
 - [[Curse of knowledge]] — the everyday failure the circle guards against
-
-## Sources
+- [[T049 — Gadamer, Hans-Georg]]: the tradition-and-horizon section the concept quotes.## Sources
 
 - Gadamer, Truth and Method
 - [George, Hermeneutics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/hermeneutics/) — source for the account; Truth and Method and Being and Time are cited at second hand

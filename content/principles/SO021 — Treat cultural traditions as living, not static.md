@@ -40,3 +40,6 @@ Gadamer describes understanding as participation in the continuing formation of 
 ## Practice
 
 - In cultural participation, contribute to the living tradition rather than merely replicating it (see principle 17). In intergenerational transmission, treat tradition as a conversation between generations.
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the tradition-as-made account the page quotes from Truth and Method.

@@ -45,3 +45,6 @@ The compendium uses this passage as an exercise in checking a first reading. Wri
 - **[[The hermeneutic circle|The hermeneutic circle]]** (Gadamer, Truth and Method; Heidegger, Being and Time)
 - **[[Interpretive understanding|Interpretive understanding]]** (Ricoeur, Interpretation Theory)
 - **[[Hermeneutic circle|Hermeneutic circle]]** (Existentialism & Phenomenology)
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the hermeneutic circle from Truth and Method, paired with Heidegger's Being and Time.

@@ -44,3 +44,6 @@ The entry says nothing about psychological costs of norms or exclusion, or about
 ## Practice
 
 - In cultural self-examination, identify which norms serve your flourishing and which constrain it (see principle 15). In intercultural work, treat cultural mismatch as a signal, not a personal failure.
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the tradition entry the page reads, which does not mean endorsing all traditions.

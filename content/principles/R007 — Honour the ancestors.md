@@ -58,3 +58,6 @@ From the book itself:
 ## Philosophy parallels
 
 - **[[Historicity|Historicity]]** (Heidegger, Being and Time; Gadamer, Truth and Method)
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: historicity from Truth and Method, beside Heidegger's Being and Time.

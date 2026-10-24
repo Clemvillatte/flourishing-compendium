@@ -39,3 +39,6 @@ At forty, someone who absorbed at fifteen that success means a bigger house asks
 ## Practice
 
 - In reflection, examine which of your "life goals" are cultural constructions. In intercultural contact, treat the other's construction of the good life as valid within its own terms.
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the fusion of horizons, the page's Gadamer reference for constructed meaning.

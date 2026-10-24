@@ -25,8 +25,7 @@ The stakes are easy to miss because the everyday word is cheap. Anyone can talk;
 - [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
 - [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
 - [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means
-
-## Sources
+- [[T049 — Gadamer, Hans-Georg]]: the hermeneutic account of dialogue as the fusion of horizons.## Sources
 
 - Buber, I and Thou
 

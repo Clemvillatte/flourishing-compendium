@@ -39,3 +39,6 @@ Ask an Elder or a language centre in your own community what they would like rec
 ## Philosophy parallels
 
 - **[[Historicity|Historicity and tradition]]** (Gadamer, Truth and Method)
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: historicity and tradition from Truth and Method.

@@ -29,8 +29,7 @@ When someone describes a hurt, try listening without preparing a rebuttal. Give 
 - [[T035 — Thich Nhat Hanh]]: the beginning-anew listening instruction the page quotes, listen without replying or correcting.## Sources
 
 - [Thich Nhat Hanh, The Art of Communicating (book excerpt)](https://www.spiritualityandpractice.com/book-reviews/excerpts/view/25387)
-
-## Stories
+- [[T049 — Gadamer, Hans-Georg]]: hermeneutic listening, from Truth and Method.## Stories
 
 - [[ST084 — Sigālaka's Six Directions|84. Sigālaka's Six Directions]]
 - [[ST085 — The Quarrel at Kosambī|85. The Quarrel at Kosambī]]

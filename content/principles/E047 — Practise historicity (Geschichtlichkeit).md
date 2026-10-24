@@ -40,3 +40,6 @@ Authentic historicality takes the inheritance on knowingly. "The resoluteness in
 
 - **[[Historicity|Historicity (Geschichtlichkeit)]]** (Heidegger, Being and Time)
 - **Tradition and its critique** (Gadamer, Truth and Method)
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the tradition-and-critique discussion from Truth and Method the page cites.

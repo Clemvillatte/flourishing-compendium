@@ -39,3 +39,6 @@ The psychology parallel is shared reality theory. Echterhoff, Higgins and Levine
 
 - **[[The Between|The Between]]** (Buber, I and Thou)
 - **[[Dialogue|Dialogue]]** (Gadamer, Truth and Method)
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: dialogue from Truth and Method.

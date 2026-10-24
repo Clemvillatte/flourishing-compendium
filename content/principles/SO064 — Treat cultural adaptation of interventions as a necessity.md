@@ -45,3 +45,6 @@ Before running a wellbeing workshop for a new community, ask five members to rea
 ## Practice
 
 - In clinical work, use the cultural-formulation interview (see principle 72). In program design, adapt rather than transplant. In global mental health, task-share and adapt (Patel et al., 2010).
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the fusion of horizons, the page's Gadamer reference for adaptation.

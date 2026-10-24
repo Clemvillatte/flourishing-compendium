@@ -126,3 +126,6 @@ Gated per the t1e mint rule (own tradition plus what the page teaches); the scri
 
 ## Sources
 - [Stanford Encyclopedia of Philosophy, "Martin Heidegger"](https://plato.stanford.edu/entries/heidegger/) — the biography and all verbatim quotations above (GA24: 36 Dasein; SZ 65 world; SZ 250 death; SZ 263 anticipation; SZ 270 choosing to choose; GA7: 149 dwelling; the Husserl dedication; the Nazi record and its documentation).
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the student who carried Heidegger's situated understanding into Truth and Method.

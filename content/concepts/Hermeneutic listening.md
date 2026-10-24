@@ -20,8 +20,7 @@ The compendium's principle on deep listening is B147.
 - [[Hermeneutic circle]]: the structure of understanding that this listening works within
 - [[Active listening]]: a related skill page
 - [[Dialogue]]: the conversation in which hermeneutic listening does its work
-
-## Sources
+- [[T049 — Gadamer, Hans-Georg]]: the listening his philosophical hermeneutics makes central, with its own rigour.## Sources
 
 - Gadamer, Truth and Method
 - [The Hermeneutic Priority of the Question: Cultivating the Hermeneutic Ear (SPI, 2015)](https://apcz.umk.pl/SPI/article/download/SPI.2015.003/8246/23946): carrier of the Truth and Method p. 461 quotation, opened and verified

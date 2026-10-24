@@ -26,7 +26,7 @@ P114 (Create as growth) is the principle linked below. Whether creating is evide
 - [[Intellectual humility]] — a sibling construct: knowing what one does not know
 - [[Openness and not knowing in skilled practice]] — a compendium page with a similar name; it is not drawn from Kaufman et al.
 - [[Beginner's mind]] — the Zen practice of meeting experience as if for the first time
-## Sources
+- [[T049 — Gadamer, Hans-Georg]]: E080's account of understanding across horizons that the concept points to.## Sources
 
 - [Kaufman, Quilty, Grazioplene, Hirsh, Gray, Peterson & DeYoung (2016), "Openness to Experience and Intellect Differentially Predict Creative Achievement in the Arts and Sciences", Journal of Personality (Wiley)](https://onlinelibrary.wiley.com/doi/10.1111/jopy.12156) — the two aspects, the sample, and the findings quoted above
 - Rogers, On Becoming a Person

@@ -60,3 +60,4 @@ Suggested documentation exercise (Attention; Overt behaviour): after using the o
 - [[SO022 — Use cultural humility as a practice]]: a companion principle about examining the assumptions brought to an encounter; this page gives a structured clinical interview.
 - [[Cultural psychology]]: the broader study of mind in cultural context, whereas the CFI asks about one person's circumstances.
 - [[Fusion of horizons]]: a philosophical comparison for understanding another person's account, not evidence for the interview's clinical effectiveness.
+- [[T049 — Gadamer, Hans-Georg]]: the fusion of horizons as shared context formed through dialogue, the page's SEP-backed line.

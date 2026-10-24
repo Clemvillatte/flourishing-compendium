@@ -39,3 +39,6 @@ The prejudices "that occupy the interpreter's consciousness are not at his free 
 
 - **[[Prejudice (Vorurteil)|Prejudice (Vorurteil)]]** (Gadamer, Truth and Method)
 - **[[Pre-understanding|Pre-understanding]]** (Heidegger, Being and Time, §32)
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the rehabilitation of prejudgment the page is built on, from Truth and Method.

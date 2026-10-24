@@ -35,3 +35,6 @@ In discussing the ICSEY immigrant-youth project, Berry reports that "bicultural 
 ## Practice
 
 - See principle 73 for the full acculturation-strategy guidance. In policy, support integration rather than assimilation or separation (see principle 75).
+
+## Related concepts
+- [[T049 — Gadamer, Hans-Georg]]: the fusion of horizons, the page's Gadamer reference for acculturation.
