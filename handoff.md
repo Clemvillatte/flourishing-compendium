@@ -1,7 +1,32 @@
+# Supervisor session addendum — 2026-10-24, T+39
+
+- dos18 (Right View): 17 passes, unpublished research draft, blockers
+  listed below. ST065 restored after the chariot exchange was verified
+  on the opened wisdomlib page (cloud browser; curl is refused there).
+- Supervisor fixes elsewhere: ST085 story card carrier corrected (AN
+  3.123 is the Gotamaka-cetiya Sutta; the card now cites the verified
+  Vinaya Mv 10 Thanissaro excerpt, three-admonition count fixed,
+  unsupported ceremony sentence trimmed). QC-STORY-2026-10-24.md
+  relocated out of dossiers/ (it broke the all-dossiers checker sweep).
+- dos19 (Right Intention): a divergence attempt (MN 19 vs Gita 3.4 and
+  2.47, carriers raw-verified) was WITHDRAWN per advisor QC, the
+  opposition was supplied by gloss; the dossier keeps the Gita passages
+  as a neutral comparison and the research flag stays open with the
+  test stated: one opened passage must affirm a proposition and another
+  must deny that same proposition.
+- Registry flips for dos19/dos20 are BLOCKED pending art assignment
+  (scripts/dossier_registry_build.py reads the art field
+  unconditionally; see OPERATIONS).
+- All published dossiers and both new dossiers of record pass
+  scripts/dossier_check.py; the DOM-stub section test passes; the
+  registry build output is unchanged (15 published, 16 roadmap, 6
+  groups); the live Dossiers view verified with dividers, roadmap and
+  the Eightfold empty state.
+
 # Worker band dos18 (Right View) — status at 2026-10-24 T+28
 
-Draft at docs/enrichment/drafts/dos18-right-view/draft.md (16 passes,
-all pushed; checker passes: 42 card links, 18 headers, 10 external
+Draft at docs/enrichment/drafts/dos18-right-view/draft.md (17 passes,
+all pushed; checker passes: 43 card links, 18 headers, 10 external
 carrier occurrences = 7 source URLs). NOT QC-passed and NOT promoted;
 registry status stays planned. Next: complete evidence/coverage review
 and format QC before considering promotion. Advised verdict: a clearly labeled research draft
