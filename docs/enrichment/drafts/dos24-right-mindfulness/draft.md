@@ -27,6 +27,10 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 [Anapanasati (mindfulness of breathing)](https://clemvillatte.github.io/flourishing-compendium/#card=Anapanasati%20%28mindfulness%20of%20breathing%29): the flagship practice, mindfulness established on the breath.
 
+[The returning practice](https://clemvillatte.github.io/flourishing-compendium/#card=The%20returning%20practice): the compendium's name for the central move of meditation, noticing that the mind has wandered and bringing it back, until the returning rather than unbroken attention is understood as the practice.
+
+[Vipassana (insight)](https://clemvillatte.github.io/flourishing-compendium/#card=Vipassana%20%28insight%29): clear-seeing, treated by Thanissaro as a quality of mind rather than a technique, the ability to see events clearly.
+
 The Satipatthana Sutta opens by naming what the practice is for:
 
 > "This is the direct path for the purification of beings, for the overcoming of sorrow & lamentation, for the disappearance of pain & distress, for the attainment of the right method, & for the realization of Unbinding — in other words, the four frames of reference." ([MN 10, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)): Primary text; quoted passages checked.
@@ -53,6 +57,14 @@ The observation is not detached watching; it is effortful and free of grasping. 
 
 [Detached mindfulness theory Wells](https://clemvillatte.github.io/flourishing-compendium/#card=Detached%20mindfulness%20theory%20Wells): the clinical cousin, watching thoughts without engaging them.
 
+[Decentering](https://clemvillatte.github.io/flourishing-compendium/#card=Decentering): the capacity to observe thoughts and feelings as mental events rather than as the world or the self.
+
+[Cognitive defusion](https://clemvillatte.github.io/flourishing-compendium/#card=Cognitive%20defusion): the ACT practice of seeing thoughts as thoughts, constructions passing through awareness, rather than as commands or facts.
+
+[Acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Acceptance): the willing embrace of unwanted inner experience, without trying to change its frequency or form.
+
+[Beginner's mind](https://clemvillatte.github.io/flourishing-compendium/#card=Beginner%27s%20mind): the Zen practice of meeting experience as if for the first time, many possibilities where the expert's mind holds few.
+
 ### The modern family
 
 [Mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness): the compendium's entry for the modern practice family.
@@ -67,6 +79,10 @@ The observation is not detached watching; it is effortful and free of grasping. 
 
 [Mindful self-compassion programme](https://clemvillatte.github.io/flourishing-compendium/#card=Mindful%20self-compassion%20programme): the practice family's kindness branch.
 
+[Body scan in MBSR (Kabat-Zinn)](https://clemvillatte.github.io/flourishing-compendium/#card=Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29): the first formal practice taught in MBSR, attention moved systematically through the body.
+
+[Walking meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Walking%20meditation): deliberate awareness brought to walking itself, the contact of feet with ground, the movement of the body, the flow of breath.
+
 ### The attention traditions
 
 [The craft of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20craft%20of%20attention) and [The discipline of attention](https://clemvillatte.github.io/flourishing-compendium/#card=The%20discipline%20of%20attention): Weil's account of attention as the trained capacity to suspend one's own thought so that what is in front of one can appear.
@@ -78,6 +94,10 @@ The observation is not detached watching; it is effortful and free of grasping. 
 [Focused-attention meditation](https://clemvillatte.github.io/flourishing-compendium/#card=Focused-attention%20meditation): directing and sustaining attention on a chosen object, noticing when it wanders, returning it; Lutz et al.'s account.
 
 [Attention management](https://clemvillatte.github.io/flourishing-compendium/#card=Attention%20management): the practice of governing where attention goes, choosing what receives it and protecting it from capture.
+
+[Epoché](https://clemvillatte.github.io/flourishing-compendium/#card=Epoch%C3%A9): suspension, the deliberate withholding of an automatic mental act, in Husserl's tradition the trained posture of attention.
+
+[Delight in the ordinary](https://clemvillatte.github.io/flourishing-compendium/#card=Delight%20in%20the%20ordinary): the capacity to find sufficiency and freshness in plain, repeated things, the food, clothes, work and people already at hand.
 
 ## Practice: variation, selection, retention
 
