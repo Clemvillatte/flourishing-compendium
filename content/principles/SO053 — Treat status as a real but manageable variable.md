@@ -16,7 +16,7 @@ Marmot and Bobak's summary of the Whitehall programme states the finding in one 
 
 > "A gradient in mortality among civil servants who are not poor argues for the importance of psychosocial factors linked to position in the hierarchy." (Marmot & Bobak, 2000, BMJ 321:1124-1128)
 
-**Plain words** Status is a real health variable — health tracks rank, even among people who aren't poor. The gradient runs through autonomy, respect, and control over life. The lesson isn't to chase status; it's to build environments with less rank-related stress.
+**Plain words** Your body does not wait to know your bank balance before it takes a position on your life — it reads your place in the pecking order first. The Whitehall studies are the famous case: office workers who were not poor still had hearts that gave out in a pattern set by rank. The finding is uncomfortable because it implies that status loss is a health event, not just a mood. The manageability is not about chasing rank: the gradient moves through control and respect, and control and respect are things a workplace or a relationship can be designed to have more of.
 
 *For example:* Whitehall's civil servants were, by any reasonable standard, not poor; the heart disease still tracked the org chart. The body reads rank. Respect and control are nutrients.
 ## Psychology parallels
