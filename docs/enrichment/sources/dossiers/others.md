@@ -158,7 +158,7 @@ been false.
 ## Open points for the supervisor
 
 - Registry status left "planned" for supervisor flip (per band rules; art
-  assignment pending from the owner's collection per ART-GALLERY.md).
+  assignment verified present: registry art field "others.jpg", Renoir's promenade au bord de la mer per ART-GALLERY.md; my earlier pending flag was wrong).
 - Divergence 2's unresolved clause is now bounded to the two opened
   abstracts and the wiki's own Altruism-theory card; the longer history of
   the Batson-Cialdini debate is not cited.
