@@ -318,3 +318,11 @@ lines across sections). This is the parallels-list structure, tied to the
 owner's open questions on concept parallels - editorial disposition
 requested, not a mechanical fix. build.py re-run after this hour's 100+
 content edits: 5888 entries, clean.
+
+2026-10-24 06:10Z, worker-pplx-t2c-1024e: GAP NOTE on the routed
+narrow-viewport overflow (off-canvas Randomiser aside): the fix lives in
+site/assets/style.css, but the standard worker save path (enrich_save.sh
+add filter: content docs scripts sources handoff.md) cannot commit
+site/ files - the item was routed to the maintenance band but is not
+worker-executable on the standard path; needs the supervisor (manual
+site/ commit + api_push) or an owner directive to widen the filter.
