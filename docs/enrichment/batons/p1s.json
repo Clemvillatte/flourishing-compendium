@@ -45,5 +45,7 @@
    "from": "worker-p1s-89a416a7",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-24T15:08:10+00:00"
 }
