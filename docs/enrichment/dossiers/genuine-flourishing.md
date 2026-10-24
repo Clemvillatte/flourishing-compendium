@@ -393,7 +393,7 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 ### The conditions: other people, society and freedom
 
-[ST144 — Dorothea Brooke and the Unhistoric Acts](https://clemvillatte.github.io/flourishing-compendium/#card=ST144%20%E2%80%94%20Dorothea%20Brooke%20and%20the%20Unhistoric%20Acts): an idealistic young woman marries a desiccated scholar, and Eliot's finale gives the verdict: the growing good of the world rests on unhistoric acts, and on persons half buried in the privacy of ordinary lives.
+[ST144 — Dorothea Brooke and the Unhistoric Acts](https://clemvillatte.github.io/flourishing-compendium/#card=ST144%20%E2%80%94%20Dorothea%20Brooke%20and%20the%20Unhistoric%20Acts): an idealistic young woman marries a desiccated scholar, and the marriage is a study in misjudgement; Eliot's final judgement is the novel's gift — the growing good of the world is partly dependent on unhistoric acts, on the number who lived faithfully a hidden life and rest in unvisited tombs.
 
 [ST316 — How You Respond to Good News](https://clemvillatte.github.io/flourishing-compendium/#card=ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News): the response to a partner's good news predicts relationship quality as strongly as the response to bad news; the first response is the relationship's business.
 
@@ -403,7 +403,7 @@ The compendium's stories, retold in a line: the ones that best carry this theme'
 
 ### How it is built: growth and practice
 
-[ST001 — Cook Ding and the Ox](https://clemvillatte.github.io/flourishing-compendium/#card=ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): Cook Ding has carved oxen for nineteen years and his blade is still as sharp as if it had just left the whetstone; the carving follows the ox's own lines — the skill, not the strength, does the work.
+[ST001 — Cook Ding and the Ox](https://clemvillatte.github.io/flourishing-compendium/#card=ST001%20%E2%80%94%20Cook%20Ding%20and%20the%20Ox): Cook Ding has carved oxen for nineteen years and his blade is still as sharp as if it had just left the whetstone; he never cuts through bone or forces his way through flesh — he reads the natural openings between the joints, and at a difficult knot slows down and moves with as little force as the job allows.
 
 [ST222 — Phil Connors Practises](https://clemvillatte.github.io/flourishing-compendium/#card=ST222%20%E2%80%94%20Phil%20Connors%20Practises): trapped in a repeating day, Phil Connors runs through indulgence, despair and manipulation before the long middle of daily practice, piano, French, small kindnesses, done with no audience.
 
