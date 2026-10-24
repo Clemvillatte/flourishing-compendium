@@ -199,3 +199,10 @@ are not certified by this body-level review.
 - Evidence: the retained four-line verse matches chapter 44; “enduring and unchanging” is chapter 46. Chan distinguishes basic human needs from desire for self-gratification that knows no end.
 - Repair: Plain words now explains sufficiency before inviting its use. Retained the freelancer case's concrete obligations, revisable limit and refusal to prescribe either accepting or declining as invariably wise.
 - Limits: contentment is not a reason to impose deprivation, deny unmet needs or set someone else's sufficient income. The modern time/attention trade-off is the page's application, not a quotation from Laozi.
+
+## D055: Non-forcing
+
+- Opened: [Daodejing, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm), complete text, chapters 29 and 64, relevant passages re-read; [Chan, Laozi](https://plato.stanford.edu/entries/laozi/), §7 extraction.
+- Evidence: both retained quotations match their chapters, including Legge's parenthetical “with an ulterior purpose of his own.” Chan explicitly rejects equating wuwei with total inactivity and distinguishes it from self-serving desire, rather than prescribing a list of actions to avoid.
+- Repair: Plain words explains what forcing means in the page's application before giving advice. The colleague case now includes hearing concerns and revising a proposal, so the practice does not merely postpone pressure.
+- Limits: modern collegial deliberation is an application, not an ancient management technique or a complete definition of wuwei. No general prohibition on necessary intervention.

@@ -23,11 +23,11 @@ In his scholarly account of wuwei, Alan Chan distinguishes nonaction from total 
 
 ### Plain words
 
-Before pressing harder, ask what your intervention is for. Consider whether you are helping someone work something out or requiring them to reach your preferred answer. You may still need to act, but you can reconsider the pressure you bring.
+Forcing, in this application, means imposing a preferred outcome without attending to how things are developing. Reconsidering that pressure can leave room to offer useful help. It does not require withdrawing when action is needed.
 
 ### For example
 
-Imagine that a colleague asks for time to consider your proposal. You could agree when to return to it and offer the information they need, while leaving them free to disagree. Securing a meeting is different from securing their assent.
+Imagine that a colleague asks for time to consider your proposal. You could agree when to return to it and offer the information they need, while leaving them free to disagree. At the next meeting, hear their concerns and consider whether to revise the proposal. Securing a meeting is different from securing their assent.
 
 ## Sources
 - [[T012 — Laozi]]: the chapter 29 warning the page draws: trying to master the kingdom, one fails.
