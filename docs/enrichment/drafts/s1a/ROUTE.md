@@ -173,3 +173,6 @@
   factually correct (they match the ST ids recorded in each item's history and the live
   content/stories/ pages); the supervisor may keep them or direct their removal.
   Statuses themselves are fully restored to pre-reconciliation values.
+
+## ROUTE for supervisor (2026-10-24, teller s1a)
+- s1a-040 (Mill's Irrepressible No, target P165) is drafted and story_check clean. P165 is outside the s1a scope list on STORIES-TASKBOARD; it is the highest inbound-degree zero-story Pragmatism principle (24), found by regenerating the zero-story list for Daoism/Buddhism/Pragmatism. Please approve the scope extension or reassign the story at registration.
