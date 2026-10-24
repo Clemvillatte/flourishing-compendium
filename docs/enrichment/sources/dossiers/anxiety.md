@@ -65,3 +65,11 @@ sections remain single-line attributed glosses without bridging. (An
 earlier note here claimed "rather than" contrast constructions; a
 targeted search found none in this dossier, so that claim is
 withdrawn.)
+
+## Carrier re-verification (2026-10-25)
+
+The Kierkegaard carrier (NYT essay PDF at Stanford, quoting The
+Concept of Anxiety) was re-opened this session. The "dizziness of
+freedom" passage is verbatim, including the ellipsis. The dossier
+correctly labels it as a secondary source quoting the primary text.
+No discrepancy found. Other carriers were not re-opened this session.
