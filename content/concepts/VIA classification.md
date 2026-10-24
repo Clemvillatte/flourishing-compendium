@@ -11,7 +11,7 @@ The VIA classification is Peterson and Seligman's 2004 systematic catalogue of t
 
 > "the psychological ingredients—processes or mechanisms—that define the virtues" (Peterson & Seligman 2004, p. 13, quoted in the Frontiers in Psychology editorial on the classification, 2021)
 
-So the virtue of humanity is reached through kindness, love and social intelligence; temperance through forgiveness, humility, prudence and self-regulation; transcendence through gratitude, hope, humor, appreciation of beauty and spirituality. The measure built on it, the VIA Inventory of Strengths, is in the editorial's words "the most popular" of the character-strengths assessments and "has been administered to 13,000,000 people worldwide." For a writer, its value is diagnostic in the old sense: a vocabulary for which of the 24 a life already expresses and which it starves.
+The classification groups love, kindness and social intelligence under humanity; forgiveness, humility, prudence and self-regulation under temperance; gratitude, hope, humor, appreciation of beauty and spirituality under transcendence. The measure built on it, the VIA Inventory of Strengths, is in the 2021 editorial's words "the most popular" of the character-strengths assessments and "has been administered to 13,000,000 people worldwide." For a writer, its value is diagnostic in the old sense: a vocabulary for which of the 24 a life already expresses and which it starves.
 
 ### Where it came from
 
@@ -19,7 +19,7 @@ The name has a history worth knowing. VIA originally stood for "Values in Action
 
 ### What the research says, and where it stops
 
-Studies have linked character-strength profiles to health and well-being, and strengths interventions to "general and domain-specific well-being, personal resources, personal growth, performance, and optimal functioning." During the COVID-19 outbreak, a month-long longitudinal study by Martínez-Martí and colleagues found character strengths predicting better outcomes in adversity, which the editorial reads as evidence of a causal contribution. The editorial's own verdict on the field is measured: it calls for more robust experimental and longitudinal research before causal explanations and intervention protocols can be trusted. Treat the classification as a strong vocabulary and a promising research program, not a settled map of the soul.
+Studies have linked character-strength profiles to health and well-being, and strengths interventions to "general and domain-specific well-being, personal resources, personal growth, performance, and optimal functioning." During the COVID-19 outbreak, a month-long longitudinal study by Martínez-Martí and colleagues examined character strengths alongside well-being and mental health; the editorial reports that its design "demonstrated a causal relationship in which CS positively affect a variety of outcomes in times of adversity." The editorial's own verdict on the field is measured: it calls for further robust experimental and longitudinal research to support causal explanations and provide professionals with intervention protocols.
 
 ### In the compendium
 
@@ -38,7 +38,7 @@ Studies have linked character-strength profiles to health and well-being, and st
 
 ## Sources
 
-- [Littman-Ovadia, H., Dubreuil, P., Meyers, M. C., & Freidlin, P., "Editorial: VIA Character Strengths: Theory, Research and Practice," Frontiers in Psychology (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8060440/) — the Peterson & Seligman p. 13 definition and the classification structure; the quoted sentence, the 55-scientist history, the VIA name footnote, the 13,000,000 administration figure, the well-being findings and the call for further research all verified against the article.
+- [Littman-Ovadia, H., Dubreuil, P., Meyers, M. C., & Freidlin, P., "Editorial: VIA Character Strengths: Theory, Research and Practice," Frontiers in Psychology (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8060440/) — the Peterson & Seligman p. 13 definition; the classification structure; the 55-scientist history; the VIA name footnote; the VIA-IS figures; the well-being findings; the call for further research.
 
 ## Cited in psychology parallels
 
