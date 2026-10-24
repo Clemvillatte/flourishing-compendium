@@ -44,7 +44,7 @@ The standard is demanding without requiring an unbroken performance of perfectio
 ## Sources
 
 - [Seneca, Moral Letters to Lucilius 20.1–3, translated by Richard Mott Gummere, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_20): exact quotation, domestic tests and the pace/path qualification.
-- [Marcus Aurelius, Meditations V.9, translated by George Long, MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.5.five.html)
+- [Marcus Aurelius, Meditations V.9, translated by George Long, MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.5.five.html): returning to practice after failure.
 - [Kernis and Goldman, A Multicomponent Conceptualization of Authenticity: Theory and Research (2006), abstract reproduced by OpenAIRE](https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1016/s0065-2601(06)38006-9): related research and acknowledged costs.
 - [Rogers, The Necessary and Sufficient Conditions of Therapeutic Personality Change (1957), abstract of the 2007 reprint](https://pubmed.ncbi.nlm.nih.gov/22122245/): therapist congruence.
 - [Foucault, The Meaning and Evolution of the Word Parrhesia, Berkeley lecture, 1983](https://foucault.info/parrhesia/foucault.DT1.wordParrhesia.en/): frankness, danger, criticism and freely chosen duty.

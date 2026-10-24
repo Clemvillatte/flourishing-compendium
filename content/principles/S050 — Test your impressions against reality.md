@@ -31,7 +31,7 @@ For the psychology parallel, [[T022 — Kahneman, Daniel|Kahneman]] and Klein co
 ## Sources
 
 - [Epictetus, Enchiridion 1 (trans. E. Carter)](https://classics.mit.edu/Epictetus/epicench.html) — MIT Internet Classics Archive, page opened
-- [Marcus Aurelius, Meditations IV.7 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.4.four.html)
+- [Marcus Aurelius, Meditations IV.7 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.4.four.html) — MIT Internet Classics Archive, Book Four opened
 - [Kahneman & Klein (2009), Am Psychol 64(6), 515-526](https://pubmed.ncbi.nlm.nih.gov/19739881/) — PubMed abstract opened
 
 ## Psychology parallels

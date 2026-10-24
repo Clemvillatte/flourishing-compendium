@@ -25,7 +25,7 @@ As a practical exercise, replace a claim about your own honesty with a clear acc
 
 ## Sources
 
-- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book III, section 5 and Book XI, section 15
 - [Epictetus, Enchiridion 46 (George Long translation, Delphi Complete Works of Epictetus)](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)
 
 ## Psychology parallels

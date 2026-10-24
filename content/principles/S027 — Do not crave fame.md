@@ -36,7 +36,7 @@ This need not become a refusal to publish, accept thanks or learn from criticism
 
 ## Sources
 
-- [Marcus Aurelius, Meditations IV.19–20, translated by George Long, MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.4.four.html)
+- [Marcus Aurelius, Meditations IV.19–20, translated by George Long, MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.4.four.html): exact quotation, remembered admirers and the usefulness of praise.
 - [Kasser and Ryan, Further Examining the American Dream (1996), publisher abstract](https://journals.sagepub.com/doi/10.1177/0146167296223006): correlational goal-content evidence.
 - [Crocker and Wolfe, Contingencies of Self-Worth (2001), publisher abstract](https://www.ovid.com/journals/plrev/abstract/00006832-200107000-00005~contingencies-of-self-worth): the self-worth model, rather than a direct study of fame.
 - [Durand, Shogry and Baltzly, Stoicism, Stanford Encyclopedia of Philosophy, section 4.3](https://plato.stanford.edu/entries/stoicism/): reputation as a preferred indifferent.

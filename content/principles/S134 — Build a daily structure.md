@@ -43,5 +43,5 @@ I combine these passages into a suggested routine: prepare for a difficult encou
 
 ## Sources
 
-- [Marcus Aurelius, Meditations II.1 (George Long), Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html)
+- [Marcus Aurelius, Meditations II.1 (George Long), Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.2.two.html) — the morning rehearsal
 - [Seneca, On Anger III.36 (Aubrey Stewart), Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_III) — the nightly examination custom

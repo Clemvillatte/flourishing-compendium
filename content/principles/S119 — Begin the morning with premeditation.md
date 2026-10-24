@@ -27,7 +27,7 @@ Marcus records the exercise as a morning rehearsal: telling himself what kind of
 
 ## Sources
 
-- [Marcus Aurelius, Meditations, Casaubon translation, Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm)
+- [Marcus Aurelius, Meditations, Casaubon translation, Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm) — the morning passage (I.15 in this edition; II.1 in most modern numberings)
 
 ## Stories
 
