@@ -190,3 +190,36 @@ one knows what attention is" definition (an excerpt ending at
 the "My experience is what I agree to attend to" passage. The
 vol. 2 ch. XXVI carrier (Gutenberg) was not re-opened. No discrepancy
 found in the ch. 11 quotes.
+
+## Quote-fidelity pass (2026-10-24, supervisor-pplx-1024c-dossiers, dossiers baton)
+
+The ledger's prior QC pass did not record carrier checks for the 18
+verbatim quotations. All carriers were opened this session and every
+quote checked word-for-word:
+
+- James, Principles ch. 11 (psychclassics.yorku.ca): both quotes
+  verified ("Every one knows what attention is..." and "My experience
+  is what I agree to attend to...").
+- James, Principles vol. 2 ch. XXVI (Gutenberg 57634): both quotes
+  verified ("Effort of attention is thus the essential phenomenon of
+  will" and "The essential achievement of the will... to attend to a
+  difficult object and hold it fast before the mind").
+- Lavie 2005 (WSU lab PDF; required a browser user-agent, plain curl
+  gets 403): all four quotes verified ("spill over" prediction,
+  early/late-selection debate, the research-indication summary, and the
+  frontal-control-load contrast).
+- Langner and Eickhoff 2012 (PMC3627747): the vigilance-decrement
+  opening verified.
+- Lutz et al. 2008 (PMC2693206): both quotes verified (focused
+  attention description and open monitoring).
+- Hasenkamp et al. 2012 (author-site PDF): the four-intervals
+  cognitive-cycle quote verified (line-break artifact in extraction).
+- Weil, Reflections on the Right Use of School Studies (Matheson
+  Trust PDF): both quotes verified.
+- Killingsworth and Gilbert 2010 (Greater Good PDF): both quotes
+  verified (46.9% and the unhappy-mind conclusion).
+- Mooneyham and Schooler 2013 (UCSB metalab PDF): all three quotes
+  verified (costs summary, proposed functions, mood insulation).
+
+All 18 quotations match word-for-word. No corrections needed to the
+dossier body. Checker and voice audit not re-run (body unchanged).
