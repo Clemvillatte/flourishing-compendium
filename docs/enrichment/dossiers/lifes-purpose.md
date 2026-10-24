@@ -84,7 +84,7 @@ Weber's own lines:
 
 [Vital engagement](https://clemvillatte.github.io/flourishing-compendium/#card=Vital%20engagement): Nakamura and Csikszentmihalyi's compound of a good life: absorption plus significance; the felt connection between self and activity that carries both flow and meaning.
 
-[Purpose-linked practice](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose-linked%20practice): the self-transcendent purpose line of Yeager and colleagues, a motive rather than a goal's content, tied in four studies with over 2,000 adolescents to persistence on tedious tasks that matter.
+[Purpose-linked practice](https://clemvillatte.github.io/flourishing-compendium/#card=Purpose-linked%20practice): the self-transcendent purpose line of Yeager and colleagues, a motive rather than a goal's content, tied in four studies with over 2,000 adolescents and young adults to persistence on boring tasks that matter.
 
 The research line's own definition:
 
