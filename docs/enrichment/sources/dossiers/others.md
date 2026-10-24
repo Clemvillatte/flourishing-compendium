@@ -228,3 +228,19 @@ One humanizer tell found in a final read of my own text after the round-6 verdic
 ### Carrier note (2026-10-24, 14:29Z)
 
 ctext.org returns 403 to command-line clients (bot wall); the Analects 14.34 quote was verified against the Legge carrier through the in-session fetch tool, and the URL serves normally in a browser. Biblehub and AccessToInsight carriers re-checked this minute (HTTP 200).
+
+## Quote-fidelity pass (2026-10-24, supervisor-pplx-1024c-dossiers, dossiers baton)
+
+The dossier's eight verbatim quotations were checked against their
+carriers this session, all word-for-word: Beckes and Coan 2011
+(squarespace PDF: "dominant ecology" sentence and social-baseline
+phrase); Cacioppo and Hawkley 2009 (PMC2752489: social-pain
+definition); Klimecki et al. 2014 (PubMed 23576808: compassion
+training conclusion); Karaṇīya Metta Sutta (accesstoinsight,
+Thanissaro: mother-and-child passage); Aristotle NE IX.10 (MIT
+Classics, Ross: great-friend passage); Matthew 5.43-44 KJV (Biblehub);
+Batson et al. 1988 (PubMed 3418490: empathy-altruism definition);
+Cialdini et al. 1987 (PubMed 3572736: both sentences; the abstract's
+mid-sentence "we hypothesized" is quoted with a sentence-initial
+capital, standard quotation practice, wording otherwise exact).
+No corrections needed; body unchanged.

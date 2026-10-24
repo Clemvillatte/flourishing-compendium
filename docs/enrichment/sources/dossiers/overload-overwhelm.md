@@ -30,3 +30,12 @@ changed.
 - Hagger et al., Perspectives on Psychological Science 2016,
   abstract — Secondary source
 - Aristotle, Nicomachean Ethics X.6 and X.7 (Ross) — Primary text (x2)
+
+## Quote-fidelity pass (2026-10-24, supervisor-pplx-1024c-dossiers, dossiers baton)
+
+The dossier's four verbatim quotations were checked against their
+carriers this session, all word-for-word: Baumeister et al. 1998
+(PubMed 9599441: volition-limited conclusion), Hagger et al. 2016
+(PubMed 27474142: meta-analysis sentence including the CI figures),
+and Aristotle NE X.6 and X.7 (MIT Classics, Ross: the relaxation and
+leisure passages). No corrections needed; body unchanged.
