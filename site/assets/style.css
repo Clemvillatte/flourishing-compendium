@@ -1887,7 +1887,7 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 .dossier-section { margin-top:30px; }
 .dossier-section:first-child { margin-top:0; }
 .dossier-section-head { display:flex; align-items:center; gap:16px; margin-bottom:16px; }
-.dossier-section-label { font-family:'Fraunces',Georgia,serif; font-size:15px; font-weight:600; letter-spacing:.04em; color:var(--text); white-space:nowrap; }
+.dossier-section-label { font-family:'Fraunces',Georgia,serif; font-size:15px; font-weight:600; letter-spacing:.04em; color:var(--text); min-width:0; overflow-wrap:break-word; }
 .dossier-section-rule { flex:1; height:1px; background:linear-gradient(to right, color-mix(in srgb, var(--gold) 50%, transparent), transparent); }
 .dossier-empty { margin:0 0 18px; }
 .dossier-roadmap { margin-top:30px; border-top:1px solid var(--line); padding-top:18px; }
