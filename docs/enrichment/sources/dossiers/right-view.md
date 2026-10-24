@@ -204,3 +204,17 @@ the instruction to know and view all dharmas without setting up the
 perception of a dharma), both positions read from raw carriers; the SEP
 Nagarjuna fragments are labeled as context for the disagreement, not one
 of its poles.
+
+## Full kernel sweep (pass 9, 2026-10-24)
+
+Full rg sweep over content/kernels for view-family terms (view of self,
+right/wrong/fixed view, view from above, perspective, steelmanning,
+opposing view, open view): 63 candidate files listed. Read from their
+cards this pass: K144 (The chariot analysis), K270 (Evidence-versus-
+interpretation drill), K273 (The view from above), K388 (Passengers on
+the bus, considered, not added: defusion practice, off the views core).
+K144, K270 and K273 added to the Practice selection (nine items).
+The remaining candidates on the list are self-distancing, reappraisal,
+narrative and relationship kernels that belong to other dossiers
+(self-as-context, narrative reconstruction, repair, values); the
+boundary calls are recorded here for the next pass to check.

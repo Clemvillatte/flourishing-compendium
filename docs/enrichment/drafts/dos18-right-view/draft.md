@@ -155,6 +155,12 @@ The propositional reading exists in summary sources, but no carrier advocating a
 
 6. [The pragmatic maxim](https://clemvillatte.github.io/flourishing-compendium/#card=K132%20%E2%80%94%20The%20pragmatic%20maxim): take the belief doing the most work in your thinking and ask what conceivable practical difference it makes against its rival; if no difference can be found, the dispute is about a word, not a world.
 
+7. [The chariot analysis](https://clemvillatte.github.io/flourishing-compendium/#card=K144%20%E2%80%94%20The%20chariot%20analysis): when a self-image starts speaking as the whole self, give it the chariot treatment; ask which part is the pole, the axle, the wheels, and watch the designation fail to land on any of them.
+
+8. [Evidence-versus-interpretation drill](https://clemvillatte.github.io/flourishing-compendium/#card=K270%20%E2%80%94%20Evidence-versus-interpretation%20drill): lay a distressing thought out and write the evidence for it, the evidence against it, and an alternative reading; the written version of Epictetus's question, which is the thing and which the notion.
+
+9. [The view from above](https://clemvillatte.github.io/flourishing-compendium/#card=K273%20%E2%80%94%20The%20view%20from%20above): picture your concerns from a great height, the city, then the country, then the planet; the self-distancing research trains a similar observer's stance and reports less distress, though it does not test the ascent itself.
+
 ::Retention:: Retention is what people keep because it works for them. A reader who keeps the question put to a plan before acting, or the opposite case written once, has what the theme offered; what stays is a matter of fit between the check and the life it enters.
 
 ## Story: the stories that carry the theme
