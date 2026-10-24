@@ -6047,7 +6047,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST160 — Medea Knows](card:ST160%20%E2%80%94%20Medea%20Knows): Medea, abandoned by Jason for a royal marriage, plans the murder of her children as revenge; Euripides gives her the monologue that remains the definitive portrait of akrasia — knowing what evil she is about to do, and doing it."
+          "x": "[ST160 — Medea Knows](card:ST160%20%E2%80%94%20Medea%20Knows): Medea, abandoned by Jason for a royal marriage, plans the murder of her children as revenge; Euripides gives her the monologue that remains the definitive portrait of akrasia, knowing what evil she is about to do, and doing it."
         },
         {
           "t": "h2",
@@ -6059,15 +6059,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory): Joy, examining a sad core memory, rewinds it and watches the part after the loss, when Riley's parents and teammates came onto the ice and comforted her — the sadness and the comfort bound together in one memory."
+          "x": "[ST187 — Joy Reads the Memory](card:ST187%20%E2%80%94%20Joy%20Reads%20the%20Memory): Joy, examining a sad core memory, rewinds it and watches the part after the loss, when Riley's parents and teammates came onto the ice and comforted her, the sadness and the comfort bound together in one memory."
         },
         {
           "t": "p",
-          "x": "[ST425 — Duchenne's Two Kinds of Smile](card:ST425%20%E2%80%94%20Duchenne%27s%20Two%20Kinds%20of%20Smile): a doctor holds electrodes to the face of his old patient and photographs the muscles of expression raised one at a time; the distinction he draws turns on the will — the muscle that pulls the mouth into a smile obeys it, and the muscle around the eyes, which he names the muscle of benevolence, does not."
+          "x": "[ST425 — Duchenne's Two Kinds of Smile](card:ST425%20%E2%80%94%20Duchenne%27s%20Two%20Kinds%20of%20Smile): a doctor holds electrodes to the face of his old patient and photographs the muscles of expression raised one at a time; the distinction he draws turns on the will, the muscle that pulls the mouth into a smile obeys it, and the muscle around the eyes, which he names the muscle of benevolence, does not."
         },
         {
           "t": "p",
-          "x": "[ST146 — Achilles' Disproportionate Rage](card:ST146%20%E2%80%94%20Achilles%27%20Disproportionate%20Rage): Agamemnon takes Briseis, and the anger is not wrong in its origin — the violation of honour calls for response; it is wrong in its measure: withdrawal from the war, every embassy and every offer of recompense refused."
+          "x": "[ST146 — Achilles' Disproportionate Rage](card:ST146%20%E2%80%94%20Achilles%27%20Disproportionate%20Rage): Agamemnon takes Briseis, and the anger is not wrong in its origin; the violation of honour calls for response; it is wrong in its measure: withdrawal from the war, every embassy and every offer of recompense refused."
         },
         {
           "t": "h2",
@@ -6087,11 +6087,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST401 — Dipa Ma Watches Anger Arise and Pass](card:ST401%20%E2%80%94%20Dipa%20Ma%20Watches%20Anger%20Arise%20and%20Pass): a Bengali woman in Rangoon loses a daughter at three months and a son at childbirth, and her heart trouble reaches the stage where her doctors expected her to die at any time — the practice she turns to is in the title: watching anger arise and pass."
+          "x": "[ST401 — Dipa Ma Watches Anger Arise and Pass](card:ST401%20%E2%80%94%20Dipa%20Ma%20Watches%20Anger%20Arise%20and%20Pass): a Bengali woman in Rangoon loses a daughter at three months and a son at childbirth, and her heart trouble reaches the stage where her doctors expected her to die at any time; the practice she turns to is in the title: watching anger arise and pass."
         },
         {
           "t": "p",
-          "x": "[ST429 — Backsliding into Abundance](card:ST429%20%E2%80%94%20Backsliding%20into%20Abundance): the Buddha's retrospective on his pre-awakening efforts: clenching his teeth and pressing his tongue against the roof of his mouth, he beat down, constrained and crushed his mind with his awareness — and the force failed."
+          "x": "[ST429 — Backsliding into Abundance](card:ST429%20%E2%80%94%20Backsliding%20into%20Abundance): the Buddha's retrospective on his pre-awakening efforts: clenching his teeth and pressing his tongue against the roof of his mouth, he beat down, constrained and crushed his mind with his awareness, and the force failed."
         }
       ],
       "group": "eemm",
@@ -8932,15 +8932,15 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST102 — Peirce's Maxim](card:ST102%20%E2%80%94%20Peirce%27s%20Maxim): Peirce asks what the meaning of a concept is and answers with a maxim: consider what practical effects we conceive the object of our concept to have — the meaning is those effects."
+          "x": "[ST102 — Peirce's Maxim](card:ST102%20%E2%80%94%20Peirce%27s%20Maxim): Peirce asks what the meaning of a concept is and answers with a maxim: consider what practical effects we conceive the object of our concept to have; the meaning is those effects."
         },
         {
           "t": "p",
-          "x": "[ST103 — James and the Cash Value of Ideas](card:ST103%20%E2%80%94%20James%20and%20the%20Cash%20Value%20of%20Ideas): James popularises the maxim with a metaphor that stuck and annoyed: true ideas are those we can assimilate, corroborate and verify — the cash value of an idea."
+          "x": "[ST103 — James and the Cash Value of Ideas](card:ST103%20%E2%80%94%20James%20and%20the%20Cash%20Value%20of%20Ideas): James popularises the maxim with a metaphor that stuck and annoyed: true ideas are those we can assimilate, corroborate and verify, the cash value of an idea."
         },
         {
           "t": "p",
-          "x": "[ST106 — Peirce's Four Methods](card:ST106%20%E2%80%94%20Peirce%27s%20Four%20Methods): “The Fixation of Belief” catalogues the ways people settle their beliefs — tenacity holds the belief and ignores doubt; authority lets the institution do it; and the list runs on to the method that fixes belief by appeal to the real."
+          "x": "[ST106 — Peirce's Four Methods](card:ST106%20%E2%80%94%20Peirce%27s%20Four%20Methods): “The Fixation of Belief” catalogues the ways people settle their beliefs: tenacity holds the belief and ignores doubt; authority lets the institution do it; and the list runs on to the method that fixes belief by appeal to the real."
         },
         {
           "t": "p",
@@ -8952,7 +8952,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST154 — John Nash and the Delusion's Signature](card:ST154%20%E2%80%94%20John%20Nash%20and%20the%20Delusion%27s%20Signature): the film renders Nash's hallucinations as fully realised characters — a roommate, a government agent, a child — and his solution is diagnostic: the little girl never ages, therefore she is not real; he returns to teaching, and to the hallucinations, as permanent companions."
+          "x": "[ST154 — John Nash and the Delusion's Signature](card:ST154%20%E2%80%94%20John%20Nash%20and%20the%20Delusion%27s%20Signature): the film renders Nash's hallucinations as fully realised characters, a roommate, a government agent, a child, and his solution is diagnostic: the little girl never ages, therefore she is not real; he returns to teaching, and to the hallucinations, as permanent companions."
         },
         {
           "t": "p",
@@ -8960,7 +8960,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST172 — Thales Falls in the Well](card:ST172%20%E2%80%94%20Thales%20Falls%20in%20the%20Well): Thales, walking at night studying the stars, falls into a well; the Thracian servant girl laughs — so eager to know what is in the heavens that he cannot see what is at his feet."
+          "x": "[ST172 — Thales Falls in the Well](card:ST172%20%E2%80%94%20Thales%20Falls%20in%20the%20Well): Thales, walking at night studying the stars, falls into a well; the Thracian servant girl laughs, so eager to know what is in the heavens that he cannot see what is at his feet."
         },
         {
           "t": "h2",
@@ -8976,7 +8976,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST415 — The Blind Men and the Elephant](card:ST415%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): after monks report sectarians quarrelling, the Buddha tells of a king who has people blind from birth shown different parts of an elephant — each group describes the whole animal from the part in its hands."
+          "x": "[ST415 — The Blind Men and the Elephant](card:ST415%20%E2%80%94%20The%20Blind%20Men%20and%20the%20Elephant): after monks report sectarians quarrelling, the Buddha tells of a king who has people blind from birth shown different parts of an elephant; each group describes the whole animal from the part in its hands."
         },
         {
           "t": "p",
@@ -8988,7 +8988,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[ST130 — Berlin's Fox and Hedgehog](card:ST130%20%E2%80%94%20Berlin%27s%20Fox%20and%20Hedgehog): Berlin takes a line from Archilochus — the fox knows many things, but the hedgehog knows one big thing — and turns it into the most quoted typology in twentieth-century thought."
+          "x": "[ST130 — Berlin's Fox and Hedgehog](card:ST130%20%E2%80%94%20Berlin%27s%20Fox%20and%20Hedgehog): Berlin takes a line from Archilochus: the fox knows many things, but the hedgehog knows one big thing, and turns it into the most quoted typology in twentieth-century thought."
         }
       ],
       "group": "eemm",
