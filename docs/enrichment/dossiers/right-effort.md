@@ -43,6 +43,8 @@ The four efforts, in the sutta's own words:
 
 [Grit](https://clemvillatte.github.io/flourishing-compendium/#card=Grit): Duckworth's trait, defined by what it sustains: perseverance and passion for long-term goals, effort and interest kept up over years, through failure, adversity and plateaus; the published abstract puts grit at an average of 4% of the variance in success outcomes, a small share.
 
+[Goal adjustment capacity](https://clemvillatte.github.io/flourishing-compendium/#card=Goal%20adjustment%20capacity): Wrosch, Scheier, Miller, Schulz and Carver's construct for the other side of a stalled pursuit: the withdrawal of behavioral efforts and psychological commitment from a goal that has become unattainable, and the taking up of another; the findings credit disengagement with ameliorating distress and protecting health.
+
 ### The tuning, not the forcing
 
 [The right amount of effort](https://clemvillatte.github.io/flourishing-compendium/#card=The%20right%20amount%20of%20effort): Aristotle's mean: to feel and to act at the right times, with reference to the right objects, towards the right people, with the right motive and in the right way.

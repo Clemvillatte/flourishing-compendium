@@ -25,6 +25,16 @@ quotation; the ST112 logline rebuilt from the card's
 variation-selection-retention line; the Daodejing quote, now unused,
 is retained below for the record.
 
+Revision 4: a rebuilt divergence (grit vs goal adjustment capacity,
+the rivalry the Grit card itself names) was drafted and rejected on QC
+review as not a genuine opposition (the scopes differ: perseverance
+through setbacks and disengagement from an unattainable goal can both
+be endorsed). The section was removed; the divergence requirement
+remains UNFINISHED. Goal adjustment capacity was added to the map,
+described by its own condition, without opposition framing. The Ud 4.1
+note above was added after the raw page was opened and the logline
+checked against it directly.
+
 ## Quotes and carriers, all opened this session (raw text)
 
 1. First of the four efforts, SN 45.8 (Thanissaro, Access to Insight):
