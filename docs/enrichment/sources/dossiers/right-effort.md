@@ -224,3 +224,15 @@ study's explicit methodological challenge, not merely in opposite
 results from different interventions. The band state's verification
 wording is likewise narrowed: the divergence is grounded and quoted
 from opened carriers; content approval remains with the supervisor.
+
+## Verification addendum (same session, pre-report)
+
+The dossier's central inherited quote (SN 45.8 four efforts, Thanissaro
+via accesstoinsight) was re-verified this session against a fresh raw
+download of the carrier: all three probes ("generates desire,
+endeavors, activates persistence..." list formula, the
+"maintenance, non-confusion, increase, plenitude, development, &
+culmination" fourth direction, and the closing "This, monks, is called
+right effort") found verbatim in the opened text. The dossier's
+inherited quotes now rest on either the previous session's recorded
+carrier verification or this session's direct re-verification.
