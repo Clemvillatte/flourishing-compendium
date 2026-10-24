@@ -124,3 +124,8 @@ wants it developed under a tighter question.
   Shafran upgraded to directly opened carriers with quotes; "The call of
   conscience", "The truth sets you free" and S066 added to the map;
   Retention paragraph rewritten theme-specific.
+- Revision 3 (this push): advisor QC follow-up — the Sartre/Tangney
+  divergence softened: "incompatible" replaced with "opposing answers",
+  and the inference-drawing sentence removed (absence of inferential
+  theorising does not establish absence of evaluation; the unresolved
+  both-can-be-true reading carries the section).

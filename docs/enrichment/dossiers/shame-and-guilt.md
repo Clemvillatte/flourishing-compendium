@@ -143,9 +143,9 @@ The hiding claim needs one qualification. De Hooge and colleagues note the liter
 
 ### Is the flash of shame a judgment?
 
-Sartre's account and the appraisal account in Tangney's tradition describe the same flash and give incompatible answers to what it is. For Sartre, shame is pre-moral and pre-reflective: the shudder of finding oneself an object in another's eyes, arriving "without room for any sort of inferential theorising or cognising" ([SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/)). For the appraisal tradition, shame is a cognizing — an evaluation of the global self as defective ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). One account says the feeling carries no judgment; the other says the feeling is a judgment.
+Sartre's account and the appraisal account in Tangney's tradition describe the same flash and give opposing answers to what it is. For Sartre, shame is pre-moral and pre-reflective: the shudder of finding oneself an object in another's eyes, arriving "without room for any sort of inferential theorising or cognising" ([SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/)). For the appraisal tradition, shame is a cognizing — an evaluation of the global self as defective ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). One account reads the feeling as arriving before any judgment; the other defines it as a judgment.
 
-What remains unresolved is whether both can be true of one experience: a judgment that borrows its sting from the structure of being seen. The two accounts also disagree about what the feeling is for — Sartre reads it as disclosing a dimension of selfhood, the appraisal tradition as a signal with repair and hiding as its outlets — and that difference in what the feeling reports follows directly from the disagreement about what it is.
+What remains unresolved is whether both can be true of one experience: a judgment that borrows its sting from the structure of being seen. The accounts also part ways on what the feeling is for — Sartre reads it as disclosing a dimension of selfhood, the appraisal tradition as a signal with repair and hiding as its outlets.
 
 ## Practice: variation, selection, retention
 
