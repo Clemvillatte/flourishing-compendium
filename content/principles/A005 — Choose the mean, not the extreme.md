@@ -51,7 +51,7 @@ Aristotle defines moral virtue in one sentence: "Virtue, then, is a state of cha
 
 ## Related concepts
 
-- [[S031]] — listed for comparison
+- [[S031]] — the Stoic counterpart: the fitting over the easy, as the mean is the fitting over the extreme
 
 <!-- fc: reflections
 Take one virtue you value. Name the vice on each side of it, and describe a recent moment where you slid toward one. What pulled you?

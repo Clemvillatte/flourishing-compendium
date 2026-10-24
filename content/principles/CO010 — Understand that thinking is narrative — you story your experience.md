@@ -27,7 +27,7 @@ A failed course told as "my plans always collapse" leads to not signing up again
 ## Related concepts
 - [[T011 — Socrates]]: the examined-life-as-a-story parallel the page draws.
 
-- [[SE035]] — listed for comparison
+- [[SE035]] — authoring yourself is the narrative habit applied to identity
 
 ## Sources
 

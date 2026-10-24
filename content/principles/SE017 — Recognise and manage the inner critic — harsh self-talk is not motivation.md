@@ -51,7 +51,7 @@ The study on point for the studying case is Experiment 3: participants who first
 
 ## Related concepts
 
-- [[SE027]] — listed for comparison
+- [[SE027]] — the kind alternative to the critic's harshness
 
 ## Sources
 

@@ -38,7 +38,7 @@ The break is taught by its developer in [Self Compassion Break with Kristin Neff
 ## Related concepts
 
 - [[Self-compassion]]
-- [[SE012]] — listed for comparison
+- [[SE012]] — self-compassion is one form of the skilled self-relation this kernel names
 - [[Mindful self-compassion programme]]
 - [[Compassion]]
 - [[Compassion-focused therapy]]

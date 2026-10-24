@@ -24,7 +24,7 @@ The physical-effort analogy is an analogy, but it is exact enough to plan by: pr
 
 ## Related concepts
 
-- [[AT038]] — listed for comparison
+- [[AT038]] — nature's soft fascination is one way attention recovers
 
 ## Sources
 

@@ -41,7 +41,7 @@ Being angry does not settle whether someone wronged you. Check what happened and
 ## Related concepts
 
 - [[Righteous anger vs wrath]] — the classical debate over anger's legitimacy
-- [[Approach versus avoidance motivation]] — listed for comparison
+- [[Approach versus avoidance motivation]] — the motivational framing for anger's approach side
 
 ## Sources
 

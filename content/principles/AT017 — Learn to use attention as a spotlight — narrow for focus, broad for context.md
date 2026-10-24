@@ -32,7 +32,7 @@ The study is about emotional states: in the abstract, positive emotions broadene
 
 ## Psychology parallels
 
-- **[[Spotlight vs floodlight attention|Spotlight vs floodlight attention]]**, listed for comparison
+- **[[Spotlight vs floodlight attention|Spotlight vs floodlight attention]]** — the two beam widths this principle alternates
 - Positive affect and attentional scope, the source quoted above (Fredrickson & Branigan, 2005)
 
 ## Philosophy parallels

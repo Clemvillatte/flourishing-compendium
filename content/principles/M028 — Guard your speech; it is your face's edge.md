@@ -36,8 +36,8 @@ When you have something to say, try saying it at a pace and volume you can contr
 
 ## Related concepts
 
-- [[Beneficial speech]] — listed for comparison
-- [[Right speech]] — listed for comparison
+- [[Beneficial speech]] — the speech discipline this guard belongs to
+- [[Right speech]] — the Buddhist member of the same family
 
 ## Sources
 

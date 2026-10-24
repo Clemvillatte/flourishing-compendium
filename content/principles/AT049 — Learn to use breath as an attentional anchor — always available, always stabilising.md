@@ -25,7 +25,7 @@ Choose a sensation of ordinary breathing, such as air moving at the nostrils. If
 
 ## Related concepts
 
-- [[BI029]] — listed for comparison
+- [[BI029]] — movement practices that use the breath as their anchor
 
 ## Sources
 

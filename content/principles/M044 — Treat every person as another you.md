@@ -34,9 +34,9 @@ Use "this person is another me" as a prompt to consider the other person's stand
 
 ## Related concepts
 
-- [[Tat tvam asi]] — listed for comparison
-- [[Ubuntu]] — listed for comparison
-- [[Interbeing]] — listed for comparison
+- [[Tat tvam asi]] — the Vedantic statement of the identity
+- [[Ubuntu]] — the African statement of the same identity
+- [[Interbeing]] — the Buddhist form: nothing exists by itself
 
 ## Sources
 

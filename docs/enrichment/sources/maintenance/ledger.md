@@ -271,3 +271,20 @@ The tyranny of the ideal, VIA classification - one-line newline insertion
 each, no text changes. Validator: all 18 pass except Inquiry (65 words) and
 VIA classification (140) - pre-existing below-floor stubs, flagged for
 carrier-grounded top-ups (same class as the routed items).
+
+2026-10-24 06:05Z, worker-pplx-t2c-1024e: workflow-rationale gloss sweep
+EXTENDED beyond content/concepts/ (which the prior workers completed) to
+the same class in content/principles/ and content/kernels/ - 49 "listed
+for comparison" glosses across 49 pages reworded to plain relationship
+clauses between the two pages' subjects (no invented mechanisms; sibling
+clauses where no deeper relation is known), e.g. M044's Tat tvam asi /
+Ubuntu / Interbeing trio, BE066's Curiosity as motive power, AF045's
+rumination as the opposite of letting affect pass. Three lines that
+already carried plain clauses (BE027/K049, CO037/K033, SE006/K021) kept
+their clauses with the bookkeeping prefix removed. One more pre-existing
+glued header found and repaired (M001 ## Sources). All 49 touched pages
+validate clean; rg confirms zero "listed for comparison" remain in
+content/. Mission's routed prose-floor top-ups (Physician heal thyself 91,
+Psychological reactance 89, Daily self-examination 83, Judging by where
+one rests 44, Experiential avoidance theory 127) still open - each needs
+a carrier-grounded top-up, too heavy for this pass's remaining clock.

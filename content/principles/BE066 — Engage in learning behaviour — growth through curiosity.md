@@ -42,9 +42,9 @@ Curiosity needs somewhere to go. Give one thing you do not know a regular slot: 
 
 ## Related concepts
 
-- [[The examined life]] — listed for comparison
-- [[Beginner's mind]] — listed for comparison
-- [[Curiosity]] — listed for comparison
+- [[The examined life]] — the life of learning this behaviour sustains
+- [[Beginner's mind]] — the receptive posture that keeps learning alive
+- [[Curiosity]] — the motive power of learning behaviour
 
 ## Sources
 

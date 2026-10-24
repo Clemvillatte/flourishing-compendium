@@ -50,4 +50,4 @@ Before acting on a strong feeling, identify a value you want the action to expre
 
 ## Related concepts
 
-- [[SE043]] — listed for comparison
+- [[SE043]] — the authentic identity this distinction protects

@@ -54,4 +54,4 @@ They do not show that introspection is useless; Nisbett and Wilson explicitly al
 
 ## Related concepts
 
-- [[SE009]] — listed for comparison
+- [[SE009]] — the self-knowledge twin of this limit

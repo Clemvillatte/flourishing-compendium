@@ -32,7 +32,7 @@ The association differed between these two student groups. This does not establi
 
 ## Psychology parallels
 
-- **[[Cultural differences in suppression's costs|Cultural differences in suppression's costs]]**, listed for comparison (Butler & Gross, 2009 and Soto et al., 2011; the abstract does not establish the mechanism)
+- **[[Cultural differences in suppression's costs|Cultural differences in suppression's costs]]** — the cultural variation this principle turns on (Butler & Gross, 2009; Soto et al., 2011)
 
 ## Philosophy parallels
 

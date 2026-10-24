@@ -25,7 +25,7 @@ The person who annoyed you is still included in "all beings." As a modern exerci
 
 ## Related concepts
 
-- [[S085]] — listed for comparison
+- [[S085]] — kindness as a daily practice, the Stoic counterpart of metta
 
 ## Sources
 

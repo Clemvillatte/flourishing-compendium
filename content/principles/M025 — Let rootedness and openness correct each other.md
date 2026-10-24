@@ -36,7 +36,7 @@ Root deeply and cross often, with each correcting the other, is the compendium's
 
 ## Related concepts
 
-- [[SE048]] — listed for comparison
+- [[SE048]] — the attachment-theory form of the same secure-base balance
 
 ## Practice
 

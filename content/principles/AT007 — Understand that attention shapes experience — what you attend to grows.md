@@ -41,6 +41,6 @@ What you look at becomes what you remember, and what you remember becomes what y
 
 ## Related concepts
 
-- [[AT012]] — listed for comparison
+- [[AT012]] — the gateway claim this principle depends on
 - [[T013 — Seneca]] — the Letters' gratitude, attention turned toward what grows
 - [[T011 — Socrates]]: the examined life the page's attention test extends to what you attend to (Apology).

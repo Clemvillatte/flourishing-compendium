@@ -33,7 +33,7 @@ Courage here is fear doing its job without running the show. It helps to think o
 
 ## Related concepts
 
-- [[BE025]] — listed for comparison
+- [[BE025]] — courage practice is the behavioural counter to the avoidance that maintains fear
 
 ## Sources
 

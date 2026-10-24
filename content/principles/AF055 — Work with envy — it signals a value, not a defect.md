@@ -32,7 +32,7 @@ The studies used guided recall in the Netherlands, where the two have separate w
 
 ## Psychology parallels
 
-- **[[Benign versus malicious envy|Benign vs malicious envy]]**, listed for comparison (van de Ven et al., 2009, the source quoted above)
+- **[[Benign versus malicious envy|Benign vs malicious envy]]** — the two forms of the signal this principle works with (van de Ven et al., 2009, the source quoted above)
 
 ## Philosophy parallels
 

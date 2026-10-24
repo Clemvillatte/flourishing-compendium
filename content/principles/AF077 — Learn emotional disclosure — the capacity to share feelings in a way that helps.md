@@ -39,7 +39,7 @@ Before sharing, consider what you want from the conversation: someone to listen,
 ## Related concepts
 
 - [[Expressive writing]] — the laboratory paradigm behind this principle's evidence
-- [[Narrative as meaning-making]] — listed for comparison
+- [[Narrative as meaning-making]] — disclosure works by turning feeling into story
 
 ## Sources
 

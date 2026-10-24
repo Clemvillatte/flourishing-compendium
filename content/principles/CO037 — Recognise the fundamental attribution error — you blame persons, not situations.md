@@ -28,7 +28,7 @@ On culture, Miyamoto and Kitayama found that when behaviour was still diagnostic
 
 ## Related concepts
 
-- [[K033]] — listed for comparison: the psychology of blaming persons over situations beside the lojong instruction to look for one's own part first.
+- [[K033]] — the psychology of blaming persons over situations beside the lojong instruction to look for one's own part first.
 
 ## Sources
 

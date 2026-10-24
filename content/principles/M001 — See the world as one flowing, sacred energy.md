@@ -35,8 +35,9 @@ One old Nahua way of seeing it: there is no stuff sitting still anywhere — one
 
 ## Related concepts
 
-- [[Deus sive natura]] — listed for comparison
+- [[Deus sive natura]] — Spinoza's name for the same one-substance reading
 - [[Teotl]] — the concept this principle trains
-- [[T034 — Dweck, Carol]]: the growth-mindset and impermanence literatures the page cites, with replication debates noted.## Sources
+- [[T034 — Dweck, Carol]]: the growth-mindset and impermanence literatures the page cites, with replication debates noted.
+## Sources
 
 - [Maffie, J. "Aztec Philosophy", Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/) — both quotations, the founding thesis and the processive-metaphysics gloss; Maffie's reconstruction of Nahua thought for the contact period.

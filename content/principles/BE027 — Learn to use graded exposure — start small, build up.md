@@ -27,7 +27,7 @@ Imagine someone with social anxiety building a hierarchy: coffee with one friend
 ## Related concepts
 - [[T012 — Laozi]]: the thousand-mile journey (Daodejing 64) behind graded exposure.
 
-- [[K049]] — listed for comparison: two examples of stepwise training in different contexts, the clinical graded-exposure staircase (BE027) and the lamrim's graduated path (K049).
+- [[K049]] — two examples of stepwise training in different contexts, the clinical graded-exposure staircase (BE027) and the lamrim's graduated path (K049).
 
 ## Sources
 

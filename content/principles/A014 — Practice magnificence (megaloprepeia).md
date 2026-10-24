@@ -30,7 +30,7 @@ A successful baker who pays for a community oven in the local park is doing it. 
 
 ## Related concepts
 
-- [[BE068]] — listed for comparison
+- [[BE068]] — the modern behavioural descendant: contribution beyond the self
 
 ## Sources
 

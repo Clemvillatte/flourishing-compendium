@@ -38,9 +38,9 @@ This review found evidence of benefit for EPA-heavy formulations in participants
 
 ## Related concepts
 
-- [[BI041]] — listed for comparison
-- [[Food as medicine]] — listed for comparison
-- [[Temperance]] — listed for comparison
+- [[BI041]] — the evidence-and-caution frame this nutrient choice needs
+- [[Food as medicine]] — the larger frame this dietary practice belongs to
+- [[Temperance]] — the classical virtue of right measure in intake
 
 ## Sources
 

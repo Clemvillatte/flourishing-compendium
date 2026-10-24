@@ -32,8 +32,8 @@ The same page describes depression as among the most treatable of mental disorde
 
 ## Psychology parallels
 
-- **[[Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder|Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder]]**, listed for comparison (the APA page covers depression; the anxiety/PTSD/bipolar pages were cited at second hand for this item)
-- **[[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence|Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]]**, listed for comparison
+- **[[Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder|Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder]]** — the thresholds this principle's boundary-drawing rests on (the APA page covers depression; the anxiety/PTSD/bipolar pages were cited at second hand for this item)
+- **[[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence|Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]]** — the treatments the boundary points to
 
 ## Philosophy parallels
 

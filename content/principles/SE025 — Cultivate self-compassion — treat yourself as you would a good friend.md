@@ -26,7 +26,7 @@ The friend standard has a foothold in the same article: "common experience sugge
 
 ## Related concepts
 
-- [[SE028]] — listed for comparison
+- [[SE028]] — the awareness component of self-compassion
 
 ## Sources
 

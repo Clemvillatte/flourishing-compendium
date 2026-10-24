@@ -34,7 +34,7 @@ The practice is first diagnostic: find out where your worth is actually staked b
 
 ## Related concepts
 
-- [[SE004]] — listed for comparison
+- [[SE004]] — the worth that does not depend on the contingencies
 
 ## Sources
 

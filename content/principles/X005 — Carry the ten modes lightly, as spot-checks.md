@@ -35,5 +35,5 @@ Someone reading a colleague's email notes their own tiredness, asks another read
 ## Philosophy parallels
 
 - **The man is the measure** (Protagoras, via Plato's Theaetetus)
-- **[[The tower looks bent in water|The tower looks bent in water]]** (listed for comparison)
-- **[[The ten modes|The ten modes]]** (listed for comparison)
+- **[[The tower looks bent in water|The tower looks bent in water]]** — the classic refraction example among the modes
+- **[[The ten modes|The ten modes]]** — the full list these spot-checks come from

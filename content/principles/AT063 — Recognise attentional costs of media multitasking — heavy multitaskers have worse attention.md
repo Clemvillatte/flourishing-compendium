@@ -27,7 +27,7 @@ In that study, the group reporting more simultaneous media use had more trouble 
 
 ## Related concepts
 
-- [[AT055]] — listed for comparison
+- [[AT055]] — the conditioning cost of practising divided attention
 
 ## Sources
 

@@ -50,4 +50,4 @@ For example: a practitioner familiar with focused attention notices a sound and 
 
 
 - [[AT034]] — AT048 presents open monitoring as training meta-awareness; AT034 supplies the theoretical account of what meta-awareness is and does (Schooler et al. 2011).
-- [[AT005]] — listed for comparison
+- [[AT005]] — open monitoring trains the awareness side of that distinction

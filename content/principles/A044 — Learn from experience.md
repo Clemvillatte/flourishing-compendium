@@ -41,7 +41,7 @@ For example: a manager who has watched three projects fail at the planning stage
 
 ## Related concepts
 
-- [[BE060]] — listed for comparison
+- [[BE060]] — the behavioural account of the same competence-building
 
 <!-- fc: reflections
 What did a failure teach you that no book could? Describe how long it took for the lesson to arrive.

@@ -41,4 +41,4 @@ For example: a child is melting down over the wrong colour cup. One parent says 
 
 ## Related concepts
 
-- [[BE050]] — listed for comparison
+- [[BE050]] — validation is what full listening gives a feeling

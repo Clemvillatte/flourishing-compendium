@@ -27,7 +27,7 @@ The shift has a feel: you were the thought, and then you are the one watching it
 
 ## Related concepts
 
-- [[S057]] — listed for comparison
+- [[S057]] — the same insight from the Stoic side: thoughts are not the self
 
 ## Sources
 

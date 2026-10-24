@@ -28,7 +28,7 @@ In adulthood the system works mentally as much as physically: felt security can 
 
 ## Related concepts
 
-- [[SE047]] — listed for comparison
+- [[SE047]] — the patterns this principle builds security from
 
 ## Sources
 

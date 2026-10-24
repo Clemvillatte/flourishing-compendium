@@ -27,7 +27,7 @@ A toolkit built in one's twenties: the Tuesday run, the friend called after bad 
 ## Related concepts
 - [[T011 — Socrates]]: the examined-life grounding (Apology 38a) the page gives for a system that learns.
 
-- [[BE078]] — listed for comparison
+- [[BE078]] — the maintenance discipline behind any personal system of affect regulation
 
 ## Sources
 

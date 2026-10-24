@@ -32,7 +32,7 @@ The paper is a conceptual review with a measurement proposal; it does not show t
 
 ## Psychology parallels
 
-- **[[Equanimity|Equanimity as a distinct outcome of meditation]]**, listed for comparison (Desbordes et al., 2015)
+- **[[Equanimity|Equanimity as a distinct outcome of meditation]]** — the outcome this principle cultivates, distinct in the meditation literature (Desbordes et al., 2015)
 
 ## Philosophy parallels
 

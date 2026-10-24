@@ -38,7 +38,7 @@ Try this with an upsetting exchange. Write down what happened separately from wh
 
 ## Related concepts
 
-- [[S120]] — listed for comparison
+- [[S120]] — the evening review this daily emendation ends in
 
 ## Sources
 

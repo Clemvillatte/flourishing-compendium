@@ -32,7 +32,7 @@ The study concerns differences between emotions in recollected episodes; it does
 
 ## Psychology parallels
 
-- **[[Rumination|Rumination prolongs affect]]**, listed for comparison (Verduyn & Lavrijsen, 2015; the text associates rumination with longer durations)
+- **[[Rumination|Rumination prolongs affect]]** — the opposite of letting affect pass: rumination prolongs it (Verduyn & Lavrijsen, 2015)
 
 ## Philosophy parallels
 

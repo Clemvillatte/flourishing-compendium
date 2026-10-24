@@ -47,4 +47,4 @@ The three named features are self-kindness, common humanity and mindfulness. On 
 
 ## Related concepts
 
-- [[SE012]] — listed for comparison
+- [[SE012]] — self-compassion is one form of the skilled self-relation this principle names

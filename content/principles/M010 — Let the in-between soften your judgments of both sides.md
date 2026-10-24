@@ -39,8 +39,8 @@ Hear each account and check it against what happened. Notice what you cannot yet
 
 ## Related concepts
 
-- [[The via media]] — listed for comparison
-- [[The middle path]] — listed for comparison
+- [[The via media]] — the Anglican form of judging from between the sides
+- [[The middle path]] — the Buddhist form of holding the middle
 - [[Nepantla]] — the concept behind this principle
 
 ## Sources

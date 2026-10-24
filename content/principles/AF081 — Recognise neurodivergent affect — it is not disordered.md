@@ -46,5 +46,5 @@ The way someone shows feeling can be a flat voice, a burst of excitement or a de
 
 ## Related concepts
 
-- [[AT069]] — listed for comparison
+- [[AT069]] — one neurodivergent profile of the affect-attention link this principle describes
 - [[T009 — Zhuangzi]]: the tree the page borrows: not judged by the forest, not disordered by the standard it fails.

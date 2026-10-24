@@ -36,7 +36,7 @@ A language learner plans a repeatable study period and records after each sessio
 
 ## Philosophy parallels
 
-- **[[Abhyasa|Abhyasa and vairagya as the two wings]]** (listed for comparison)
+- **[[Abhyasa|Abhyasa and vairagya as the two wings]]** — the paired disciplines this principle steadies
 - **[[Effortless action through long effort|Effortless action through long effort]]** (Zhuangzi, as cross-tradition echo)
 - **[[Karma yoga|Karma yoga]]** (Yoga-Vedanta)
 - **[[Abhyasa|Abhyasa]]** (Yoga-Vedanta)

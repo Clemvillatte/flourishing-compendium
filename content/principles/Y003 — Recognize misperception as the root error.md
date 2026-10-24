@@ -33,7 +33,7 @@ Someone certain that a job title is permanent writes that belief beside the sutr
 ## Philosophy parallels
 
 - **The cave and the misperception of shadows** (Plato, Republic VII)
-- **[[Avidya|Avidya as the root knot]]** (listed for comparison)
+- **[[Avidya|Avidya as the root knot]]** — the Sanskrit name for the same root error
 - **[[Avidya|Avidya]]** (Yoga-Vedanta)
 - **[[Maya (illusion)|Maya (illusion)]]** (Yoga-Vedanta)
 

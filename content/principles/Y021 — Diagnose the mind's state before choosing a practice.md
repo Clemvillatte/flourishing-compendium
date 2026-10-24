@@ -28,7 +28,7 @@ Someone writes "restless" before sitting, then notes when attention moved and wh
 
 ## Philosophy parallels
 
-- **[[Diagnosis before prescription|Diagnosis before prescription]]** (listed for comparison)
+- **[[Diagnosis before prescription|Diagnosis before prescription]]** — the clinical form of the same rule
 
 ## Sources
 
