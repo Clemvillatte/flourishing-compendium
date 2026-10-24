@@ -68,6 +68,17 @@ was read back against the cards before writing.
 - ST290 (Job) was read in full after the first draft; its logline
   was rewritten to describe events.
 
+## Pass-3 reader pass (2026-10-24, supervisor-pplx-1024c-dossiers)
+
+Cold read against the bridging rule and the humanizer voice rules,
+link-hidden. The opening paragraph develops one thought and the map
+structure answers it; the Buddhist, existential, Stoic and clinical
+sections each carry their own question; the related-questions section
+states the three questions as open rather than manufacturing
+disagreement; the practice section is labeled editorial with a trial
+criterion; the story loglines describe events. Checker exit 0 (45
+card links, 10 headers), voice audit exit 0. No changes needed.
+
 ## Voice
 
 Per HUMANIZER-SKILL.md: no meta-text openers, no banned phrases, no
