@@ -28,5 +28,6 @@
    "reason": "free"
   }
  ],
- "released": false
+ "released": true,
+ "released_at": "2026-10-24T06:00:15+00:00"
 }
