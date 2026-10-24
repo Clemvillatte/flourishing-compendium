@@ -13,21 +13,21 @@ Inquiry names the process Charles Sanders Peirce defined in his classic essay:
 
 ### What inquiry is for
 
-The essay continues: "The irritation of doubt is the only immediate motive for the struggle to attain belief"... "With the doubt, therefore, the struggle begins, and with the cessation of doubt it ends. Hence, the sole object of inquiry is the settlement of opinion." (Peirce, [The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
+The essay continues: "The irritation of doubt is the only immediate motive for the struggle to attain belief"... "With the doubt, therefore, the struggle begins, and with the cessation of doubt it ends. Hence, the sole object of inquiry is the settlement of opinion." (Peirce, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
-Peirce adds an uncomfortable observation: as soon as a firm belief is reached we are entirely satisfied, whether the belief is true or false. What we seek is a belief we shall think to be true, and every belief we hold we already think true. The quality of an inquiry therefore shows in how the belief gets settled, and that is where his four methods enter.
+Peirce adds an uncomfortable observation: as soon as a firm belief is reached we are entirely satisfied, whether the belief is true or false. What we seek is a belief we shall think to be true, and every belief we hold we already think true. The quality of an inquiry therefore shows in how the belief gets settled, and that is where his four methods enter. ([Peirce, The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
 ### Four ways of fixing belief
 
 In [The Fixation of Belief](https://en.wikisource.org/wiki/The_Fixation_of_Belief), Peirce surveys four methods of settling opinion.
 
-Tenacity clings to what one already believes, and "will be unable to hold its ground in practice. The social impulse is against it": meeting people who think differently shakes the confidence it relies on. (Peirce, [The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
+Tenacity clings to what one already believes, and "will be unable to hold its ground in practice. The social impulse is against it": meeting people who think differently shakes the confidence it relies on. (Peirce, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
-Authority fixes belief by institutional enforcement. Peirce concedes that "For the mass of mankind, then, there is perhaps no better method than this," while noting its cruelties and its ceiling, since no institution can regulate every subject and wider experience breeds doubts in independent minds.
+Authority fixes belief by institutional enforcement. Peirce concedes that "For the mass of mankind, then, there is perhaps no better method than this," while noting its cruelties and its ceiling, since no institution can regulate every subject and wider experience breeds doubts in independent minds. (Peirce, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
-The a priori method lets beliefs settle by what seems agreeable to reason, which makes of inquiry "something similar to the development of taste" — and metaphysicians, he observes, "have never come to any fixed agreement." (Peirce, [The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
+The a priori method lets beliefs settle by what seems agreeable to reason, which makes of inquiry "something similar to the development of taste" — and metaphysicians, he observes, "have never come to any fixed agreement." (Peirce, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
-The method of science alone proposes that beliefs "may be determined by nothing human, but by some external permanency," resting on the hypothesis that "There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws." (Peirce, [The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
+The method of science alone proposes that beliefs "may be determined by nothing human, but by some external permanency," resting on the hypothesis that "There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws." (Peirce, [Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
 ### Dewey: thinking begins in perplexity
 
@@ -35,7 +35,7 @@ In [How We Think](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm), Jo
 
 > "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends, constitutes reflective thought." (Dewey, [How We Think, Project Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm))
 
-Thinking begins in what may fairly enough be called a forked-road situation, "a situation which is ambiguous, which presents a dilemma, which proposes alternatives." Dewey distinguishes five logically distinct steps within such reflection: a felt difficulty; its location and definition; suggestion of possible solution; development by reasoning of the bearings of the suggestion; and further observation and experiment leading to its acceptance or rejection. He adds that no cast-iron rules can be laid down for how far each step needs to be carried; each case is dealt with as it arises ([Dewey, How We Think, Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)). The demand for the solution of a perplexity is the steadying and guiding factor throughout: "The problem fixes the end of thought and the end controls the process of thinking."
+Thinking begins in what may fairly enough be called a forked-road situation, "a situation which is ambiguous, which presents a dilemma, which proposes alternatives" ([Dewey, How We Think, Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)). Dewey distinguishes five logically distinct steps within such reflection: a felt difficulty; its location and definition; suggestion of possible solution; development by reasoning of the bearings of the suggestion; and further observation and experiment leading to its acceptance or rejection ([Dewey, How We Think, Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)). He adds that no cast-iron rules can be laid down for how far each step needs to be carried; each case is dealt with as it arises ([Dewey, How We Think, Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)). The demand for the solution of a perplexity is the steadying and guiding factor throughout: "The problem fixes the end of thought and the end controls the process of thinking" ([Dewey, How We Think, Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm)).
 
 ### In the compendium
 
