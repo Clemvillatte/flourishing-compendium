@@ -1,5 +1,8 @@
 {
  "batch": "dos28",
  "done": [],
- "note": "minted 2026-10-24 (supervisor-pplx-1024g, owner-directed); one dossier per band; see bands/dos28-manifest.json"
+ "review": [
+  "sadness-and-grief"
+ ],
+ "note": "dossier written from opened carriers 2026-10-24; boundary test: no split proposed (see sources/dossiers/sadness-and-grief.md); registry status left planned for supervisor"
 }
