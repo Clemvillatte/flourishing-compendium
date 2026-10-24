@@ -144,3 +144,21 @@ matter as open. This is flagged for the supervisor.
 
 Registry status for right-intention is left "planned" per the dossier
 pipeline; the supervisor flips and publishes. Flagged in commit message.
+
+## Supervisor pass (2026-10-24, ~T+41): renunciation divergence grounded
+
+Carriers opened and RAW-VERIFIED (unprompted curl, substring checks):
+- Bhagavad Gita 3.4, https://www.bhagavad-gita.us/bhagavad-gita-3-4/ :
+  "Not by merely abstaining from work can one achieve freedom from
+  reaction, nor by renunciation alone can one attain perfection."
+- Bhagavad Gita 2.47, https://www.bhagavad-gita.us/bhagavad-gita-2-47/ :
+  "You have a right to perform your prescribed duty, but you are not
+  entitled to the fruits of action."
+
+Position A is the MN 19 renunciation-thought passage already quoted in
+the dossier (verified by the band worker). The new section "Where the
+traditions genuinely disagree" grounds the divergence: the resolve on
+renunciation (going forth from the household life) versus the Gita's
+rejection of abstention with the fruit renounced instead. The two open
+questions below remain open. The worker's supervisor flag
+(genuine-divergence carriers) is RESOLVED for this theme.
