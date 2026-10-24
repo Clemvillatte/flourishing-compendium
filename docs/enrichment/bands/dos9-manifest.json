@@ -1,0 +1,24 @@
+{
+ "mission": "Build ONE dossier in the published v2 format. Read docs/enrichment/dossiers/HANDOFF.md, README.md and DISAMBIGUATION.md first, then docs/enrichment/EXEMPLARS.md and docs/enrichment/HUMANIZER-SKILL.md.",
+ "standard": "The Self (docs/enrichment/dossiers/the-self.md) and Anger (anger.md) are the exemplars: exhaustive map (every wiki card on the theme, grouped by subtheme), real divergences with verbatim-checked quotes from opened carriers, Variation-Selection(+Retention) practice section, Nearby terms section per DISAMBIGUATION.md.",
+ "deliverables": [
+  "docs/enrichment/dossiers/<slug>.md (markdown of record)",
+  "docs/enrichment/sources/dossiers/<slug>.md (evidence ledger, every quote verified word-for-word against an opened carrier)",
+  "registry status flip to published is SUPERVISOR-ONLY: leave status 'planned' and flag in a commit message",
+  "the Academy data splice is SUPERVISOR-ONLY: do NOT edit site/assets/app.js or style.css; never edit registry.json, progress.json or the queues"
+ ],
+ "verification": "Every card link verified against actual content/ filenames by script before pushing. No hallucination: every fact and quote from a source actually opened (owner library: docs/PRIMARY-SOURCES.md). Humanised per HUMANIZER-SKILL.md.",
+ "push": "scripts/enrich_save.sh \"<message>\" (verifies 'saved and verified on origin/main'); fallback scripts/api_push.py. Save after every item and every ~10 minutes.",
+ "baton": "python3 scripts/baton.py clock-in <band> <agent-name>; clock in at every milestone; release when the band's list is exhausted.",
+ "band": "dos9",
+ "source_queue": "dossier roadmap mint 2026-10-24 (supervisor-pplx-1024c): owner-directed dossier programme, registry docs/enrichment/dossiers/registry.json",
+ "dossier": "Decision-Making",
+ "slug": "decision-making",
+ "group": "minds-life",
+ "note": "Planned dossier minted 2026-10-24 (supervisor-pplx-1024c). Follow DISAMBIGUATION.md for nearby terms. | nearby terms: ['choice', 'judgement', 'heuristics', 'akrasia']",
+ "art": "decision-making.jpg",
+ "pre_push_check": "python3 scripts/dossier_check.py docs/enrichment/dossiers/<slug>.md (exit 0 required before pushing)",
+ "question_draft": "see registry.json question_draft for this slug (docs/enrichment/dossiers/registry.json)",
+ "full_text_sweep": "rg -il '<term>' content/ | sort  — run per family term after the title sweep to catch stragglers (cards whose body treats the term without it being in the title); verify substance by reading the card",
+ "title_sweep_starting_inventory": "Not pre-computed: run your own title sweep (ls content/concepts content/kernels content/stories | rg -i '<family terms>') then the full-text sweep below."
+}
