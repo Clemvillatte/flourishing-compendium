@@ -122,3 +122,11 @@ are not certified by this body-level review.
 - Repair: made the statutory qualification explicit and restored the personal moral question distinct from political institutions. Plain words and the sibling illustration preserve accountability, optional contact and the choice whether to forgive; no promise to switch off resentment.
 - Saturation: `enrich_find.py mention forgiveness` and Forgiveness, Reconciliation and Ubuntu concepts were read. Existing concept pages contain substantial related material; no generic reciprocal addition.
 - Limits: Tutu's claims are presented as his ethical view, not evidence of therapeutic efficacy; no pressure on victims to reconcile, withdraw legal claims, abandon safeguards or forgive on someone else's behalf.
+
+## SO044: WEIRD critique
+
+- Opened: [Henrich, Heine and Norenzayan, 28 Aug 2009 author manuscript of the 2010 review](https://www2.psych.ubc.ca/~ara/Manuscripts/Weird_People_BBS_Henrichetal.pdf), 150,000 characters including long abstract, §2.2 and §2.6; [Medin and Bennis commentary, complete manuscript](https://groups.psych.northwestern.edu/medin/documents/BBS_commentary_MedinBennis.pdf).
+- Evidence: retained quotation matches the long abstract after normalizing PDF word hyphenation. §2.2/Figure 3A explicitly names the highest U.S. mean, adult non-student sample and near-double comparison with Hadza/Tsimane; §2.6 supplies the generalization caution. Medin and Bennis explicitly endorse the weaker sampling argument while challenging the stronger outlier claim through researcher/tool origin.
+- Repair: moved the actual comparison into the explanation and supplied a real essay-use example that records sample/task/context, seeks further evidence, narrows the claim and revisits it. Added a genuine scholarly challenge rather than treating the original review as an uncontested final classification of humanity.
+- Saturation: sample/generalization concept inventory checked; existing Henrich link retained, no speculative new graph edge.
+- Limits: game offers are task-specific measurements, not rankings of moral worth or national generosity. The critique neither invalidates all Western research nor establishes that every psychological pattern differs across cultures. No newly collected empirical result is claimed.
