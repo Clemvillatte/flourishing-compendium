@@ -29,7 +29,8 @@ The via negativa is not nihilism and not a refusal to speak. As the SEP notes of
 - [[Apophatic theology]]
 - [[Neti neti]]
 - [[The return of the soul to its source]]
-- [[T054 — Shankara]]: the apophatic Advaita Vedanta the concept's SEP source names as a negative way.## Cited in philosophy parallels
+- [[T054 — Shankara]]: the apophatic Advaita Vedanta the concept's SEP source names as a negative way.
+## Cited in philosophy parallels
 
 - [[D022 — Subtract, don't add]]
 - [[D047 — Practice sitting and forgetting (zuowang)]]

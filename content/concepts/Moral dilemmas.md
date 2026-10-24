@@ -30,7 +30,8 @@ The social intuitionist model he presents states that "moral judgment is general
 - [[Kohlberg's theory of moral development]]
 - [[Moral development research]]
 - [[Moral emotions]]
-- [[T033 — Haidt, Jonathan]]: the social intuitionist model the concept quotes (Haidt, 2001).## Sources
+- [[T033 — Haidt, Jonathan]]: the social intuitionist model the concept quotes (Haidt, 2001).
+## Sources
 
 - [McConnell, T., "Moral Dilemmas", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/moral-dilemmas/) — the definition quoted verbatim; the conflict/dilemma distinction paraphrased
 - [Haidt, "The emotional dog and its rational tail: a social intuitionist approach to moral judgment", Psychological Review 108(4), 2001, PubMed record](https://pubmed.ncbi.nlm.nih.gov/11699120/) — the social intuitionist model description quoted verbatim from the abstract

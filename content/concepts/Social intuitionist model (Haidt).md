@@ -24,7 +24,8 @@ The model has been criticized on the reasoning side — later work argues that "
 - [[Affect heuristic]] — the judgment pattern the intuitions run on
 - [[Anger's attributional analysis]] — a related appraisal account of a specific moral affect
 - [[Values affirmation research]] — a related intervention that works below the reasoning level
-- [[T033 — Haidt, Jonathan]]: the model's author; the concept is his alternative to rationalist models of moral judgment.## Sources
+- [[T033 — Haidt, Jonathan]]: the model's author; the concept is his alternative to rationalist models of moral judgment.
+## Sources
 
 - [Haidt 2001, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11699120/) — verbatim abstract
 - [Revista de Historia de la Vida, Haidt reception analysis](https://revistas.uv.cl/index.php/RHV/article/download/2947/version/2642/3141/12783) — verbatim p. 818 and p. 814 quotes

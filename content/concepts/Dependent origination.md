@@ -28,7 +28,8 @@ The same sutta also describes the cessation of suffering: "That is how this enti
 - [[Shunyata]]
 - [[Interbeing]] — Nhat Hanh's coined word renders dependent co-arising in everyday verbs
 - [[Karma]] — karma is the intentional-action strand inside dependent origination
-- [[T035 — Thich Nhat Hanh]]: interbeing, his coined word rendering dependent co-arising in everyday verbs.## Sources
+- [[T035 — Thich Nhat Hanh]]: interbeing, his coined word rendering dependent co-arising in everyday verbs.
+## Sources
 
 - [SN 12.1, Paṭiccasamuppādasutta, tr. Bhikkhu Sujato (SuttaCentral)](https://suttacentral.net/sn12.1/en/sujato) — the twelve-link chain and the cessation formula
 - Buddhism, Nagarjuna, Mulamadhyamakakarika
@@ -41,7 +42,8 @@ The same sutta also describes the cessation of suffering: "That is how this enti
 [[K041 — Trace every harm to conditions, including your own]]
 [[BE006 — Know that behaviour has a functional analysis — every behaviour serves a function]]
 [[B068 — Find the gap between stimulus and response]]
-- [[T050 — Nagarjuna]]: dependent origination as causality, the Mulamadhyamakakarika section the concept carries.## Cited in philosophy parallels
+- [[T050 — Nagarjuna]]: dependent origination as causality, the Mulamadhyamakakarika section the concept carries.
+## Cited in philosophy parallels
 
 - [[P003 — Relation is primary]]
 - [[Y056 — Interrupt the chain from stimulus to ruin]]

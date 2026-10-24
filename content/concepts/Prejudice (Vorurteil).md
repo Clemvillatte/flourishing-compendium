@@ -21,7 +21,8 @@ Gadamer's rehabilitation of prejudice begins with the word itself: a Vor-urteil 
 
 - [[Fusion of horizons]] — Gadamer's rehabilitation of prejudice as the condition the fusion presupposes
 - [[Prejudice reduction]] — the social-psychology research program on changing prejudice between groups
-- [[T049 — Gadamer, Hans-Georg]]: the concept is his rehabilitation of the word, a pre-judgment from Truth and Method.## Sources
+- [[T049 — Gadamer, Hans-Georg]]: the concept is his rehabilitation of the word, a pre-judgment from Truth and Method.
+## Sources
 
 - Gadamer, Truth and Method
 - [Hans-Georg Gadamer, Wikiquote](https://en.wikiquote.org/wiki/Hans-Georg_Gadamer) — the carrier of the quotation above, with the Truth and Method page reference.

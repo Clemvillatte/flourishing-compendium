@@ -30,7 +30,8 @@ The same review records Bernstein's own conclusion, that to realise the true nat
 ## Related concepts
 
 - [[Both-and]]
-- [[T049 — Gadamer, Hans-Georg]]: the Bernstein review's rationality discussion the concept cites alongside Gadamer.## Sources
+- [[T049 — Gadamer, Hans-Georg]]: the Bernstein review's rationality discussion the concept cites alongside Gadamer.
+## Sources
 
 - Bernstein, Beyond Objectivism and Relativism
 - [Wiktionary, "via media"](https://en.wiktionary.org/wiki/via_media) — the definition and the Jones usage quotation

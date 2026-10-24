@@ -34,7 +34,8 @@ The compendium's earlier note credits Garfield's Engaging Buddhism. That book wa
 - [[Dependent origination]] — the notion of dependence on conditions, which Nāgārjuna discusses alongside emptiness
 - [[Two truths]] — a related Madhyamaka topic
 - [[Shunyata]] — the emptiness that results from the analysis
-- [[T050 — Nagarjuna]]: the Madhyamaka examination of svabhava the concept is built on.## Sources
+- [[T050 — Nagarjuna]]: the Madhyamaka examination of svabhava the concept is built on.
+## Sources
 
 - [Westerhoff, "Nāgārjuna", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nagarjuna/)
 

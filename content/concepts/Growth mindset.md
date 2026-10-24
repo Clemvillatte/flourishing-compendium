@@ -62,7 +62,8 @@ The empirical status is contested. Sisk and colleagues' 2018 twin meta-analyses 
 - [[Identified versus introjected motivation]] — self-determination theory's distinction between two ways of carrying a rule inside
 - [[Locus of control]] — Rotter's generalized expectancy about where reinforcement comes from
 - [[SO058]] — A compendium principle on designing school environments, including the national growth-mindset experiment
-- [[T034 — Dweck, Carol]]: the theory's author; the concept is built on her work.## Sources
+- [[T034 — Dweck, Carol]]: the theory's author; the concept is built on her work.
+## Sources
 
 - [Ku and Stager 2022, systematic review, Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9284032/) — definition; continuum; heterogeneous effects.
 - [Sisk, Burgoyne, Sun, Butler and Macnamara 2018, Psychological Science](https://journals.sagepub.com/doi/10.1177/0956797617739704) — two meta-analyses; weak overall effects; at-risk moderation.

@@ -24,7 +24,8 @@ The definition turns on a distinction ACT insists on: "In ACT, values are distin
 - [[Psychological flexibility]] — the ACT process that value-based living is one arm of
 - [[Values-concordant goals]] — the research on goals that actually match the person's values
 - [[Values clarification]] — the therapeutic work of surfacing what matters before living by it
-- [[T032 — Linehan, Marsha]]: among the behavioral interventions the page's Wilson et al. quote lists beside ACT.## Sources
+- [[T032 — Linehan, Marsha]]: among the behavioral interventions the page's Wilson et al. quote lists beside ACT.
+## Sources
 
 - [Wilson, K. G., Sandoz, E. K., Kitchens, J. & Roberts, M. E. (2010), "The Valued Living Questionnaire: Defining and Measuring Valued Action within a Behavioral Framework", The Psychological Record 60, 249-272 — full text PDF, contextualscience.org](https://contextualscience.org/sites/default/files/VLQ%20manuscript%20Wilson%20Sandoz%20et%20al.pdf)
 - Wilson et al., 2010

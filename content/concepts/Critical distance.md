@@ -42,7 +42,8 @@ Only the opening summary of the chapter was available, so the account of how dis
 - [[Hermeneutic circle]] — the interpretive loop distance lets one step out of
 - [[Self-distancing]] — the psychological version of the same stepping-back
 - [[Narrative identity]] — the self-story distance is taken toward
-- [[T049 — Gadamer, Hans-Georg]]: the Truth and Method alternative Ricoeur's antinomy frames the concept against.## Sources
+- [[T049 — Gadamer, Hans-Georg]]: the Truth and Method alternative Ricoeur's antinomy frames the concept against.
+## Sources
 
 - Ricoeur, "The Task of Hermeneutics"
 - [Ricoeur, The hermeneutical function of distanciation, in Hermeneutics and the Human Sciences, ed. and trans. J. B. Thompson (Cambridge University Press), chapter 4, pp. 93-106](https://www.cambridge.org/core/books/abs/hermeneutics-and-the-human-sciences/hermeneutical-function-of-distanciation/247F0246D6E6452B48F74C5CF30FF4E9) — source (chapter summary); quotations verified

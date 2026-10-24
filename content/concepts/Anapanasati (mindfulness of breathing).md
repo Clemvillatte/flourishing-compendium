@@ -38,7 +38,8 @@ Anapanasati is not presented in the sutta as a relaxation technique. Its first i
 - [[Body scan in MBSR (Kabat-Zinn)]] — the breath-anchored counterpart practice within mindfulness training
 - [[B190]] — MN 118 teaches awareness of long and short breaths; B190 offers a brief everyday application.
 - [[Mindfulness-based stress reduction]] — the program that trains this practice at scale
-- [[T037 — Weil, Simone]]: the attention story the concept links (ST023, Simone Weil on Attention).## Sources
+- [[T037 — Weil, Simone]]: the attention story the concept links (ST023, Simone Weil on Attention).
+## Sources
 
 - Buddhism, Anapanasati Sutta
 - [Anapanasati Sutta (MN 118), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) — source for the posture, the first-tetrad blockquote, the sixteen steps and the culmination chain

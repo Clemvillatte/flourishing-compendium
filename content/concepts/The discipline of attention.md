@@ -55,7 +55,8 @@ The lines below are editorial comparisons between Weil's account and the compend
 - [[Attentional control theory (Eysenck)]] — a theory proposing that anxiety impairs efficient goal-directed attentional control and increases stimulus-driven influence (Eysenck et al. 2007)
 - [[Attentional control training and the role of repeated redirection]] — the noticing of distraction and the return of attention, modelled as a cycle of mind wandering, awareness, shifting, and sustained attention (Hasenkamp et al. 2012); Weil's essay makes the development of the faculty of attention the object of studies
 - [[Two modes of attentional control]] — one system for goal-directed, top-down selection of stimuli and responses, one for detecting behaviourally relevant, salient stimuli (Corbetta and Shulman 2002); an editorial pairing with Weil's account
-- [[T037 — Weil, Simone]]: the concept is her account from Waiting for God, the reflection on school studies.## Sources
+- [[T037 — Weil, Simone]]: the concept is her account from Waiting for God, the reflection on school studies.
+## Sources
 
 - [Simone Weil, "Reflections on the Right Use of School Studies with a View to the Love of God" (1942), in Waiting for God, full text PDF (The Matheson Trust; printed pp. 105-116)](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf) — all Weil quotations on this page
 - [Rozelle-Stone and Davis, "Simone Weil", Stanford Encyclopedia of Philosophy (2018, rev. 2025)](https://plato.stanford.edu/entries/simone-weil/) — the essay's date (1942), the Craufurd translation of the book, the French terms, and the characterization of attention as an ethical orientation

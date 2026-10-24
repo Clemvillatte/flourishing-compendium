@@ -48,7 +48,8 @@ Martin Hoffman's developmental account treats empathic responses as a continuum 
 - [[Empathic understanding]] — Rogers's disciplined accuracy about another's frame of reference
 - [[Prosocial spending]] — spending money to benefit others (Dunn, Aknin & Norton 2008)
 - [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
-- [[T037 — Weil, Simone]]: the attention-to-a-sufferer connection the concept cites from The discipline of attention.## Sources
+- [[T037 — Weil, Simone]]: the attention-to-a-sufferer connection the concept cites from The discipline of attention.
+## Sources
 - [Karsten R. Stueber, "Empathy", Stanford Encyclopedia of Philosophy (2024)](https://plato.stanford.edu/entries/empathy/) — definition, history of the term, contagion/sympathy distinctions, Hoffman and Batson, in-group bias and moral-insufficiency assessment
 
 ## Cited in philosophy parallels

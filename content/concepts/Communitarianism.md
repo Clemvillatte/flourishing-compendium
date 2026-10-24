@@ -22,7 +22,8 @@ For the flourishing project, communitarianism is the structural counterweight to
 - [[Eudaimonia]] — the Aristotelian root
 - [[The whole tradition's turn — re-examine everything]] — MacIntyre's rationality-of-traditions account
 - [[The common good]] — the contemporary philosophy of the communal conception
-- [[T052 — MacIntyre, Alasdair]]: the communitarian reaction to Rawls the concept carries alongside Sandel.## Sources
+- [[T052 — MacIntyre, Alasdair]]: the communitarian reaction to Rawls the concept carries alongside Sandel.
+## Sources
 
 - SEP, "Communitarianism" (Daniel Bell): https://plato.stanford.edu/entries/communitarianism/
 

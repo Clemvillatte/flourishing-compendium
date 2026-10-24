@@ -37,7 +37,8 @@ The craftsperson whose skill has sunk into the hands: the line that comes out st
 - [[Wu wei]] — non-forcing action is how de expresses
 - [[Ziran (naturalness)]] — de is the power of a thing being itself
 - [[Arete]] — the Greek cousin: excellence as habituated capacity
-- [[T012 — Laozi]]: the Daodejing chapters 10 and 51 the page quotes in Legge's translation.## Sources
+- [[T012 — Laozi]]: the Daodejing chapters 10 and 51 the page quotes in Legge's translation.
+## Sources
 
 - [Laozi, Daodejing, James Legge translation (sacred-texts.com)](https://www.sacred-texts.com/tao/taote.htm) — chapters 10 and 51, quoted above
 - [Zhuangzi, Inner Chapter 5, Legge translation (Chinese Text Project)](https://ctext.org/zhuangzi/seal-of-virtue-complete/ens) — the virtue-extraordinary formula, quoted above

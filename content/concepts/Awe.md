@@ -46,7 +46,8 @@ Its contemplative cognates are [[Shunyata]] (vastness beyond categories) and the
 - [[PP041]] — discusses awe among the self-transcendent emotions examined in relation to well-being
 - [[Broaden-and-build]] — Fredrickson's theory of what positive emotions are for
 - [[S124]] — A Stoic exercise in viewing human affairs from above
-- [[T033 — Haidt, Jonathan]]: the vastness-and-accommodation account the concept is built on (with Keltner).## Sources
+- [[T033 — Haidt, Jonathan]]: the vastness-and-accommodation account the concept is built on (with Keltner).
+## Sources
 
 - [Keltner, D., & Haidt, J. (2003). Approaching awe, a moral, spiritual, and aesthetic emotion. Cognition and Emotion, 17(2), 297–314](https://docslib.org/doc/10448325/keltner-haidt-awe-2003-pdf) — the two-appraisal analysis quoted above
 - Piff et al., 2015 — the small-self and generosity findings, carried over

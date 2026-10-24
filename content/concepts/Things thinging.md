@@ -23,7 +23,8 @@ The essay's argument runs through the jug's void: "The vessel's thingness does n
 
 - [[Dwelling]] — the way of living Heidegger says things gather us into
 - [[Gelassenheit]] — the releasement that lets things presence as things
-- [[T056 — Nishitani, Keiji]]: the K015 principle the concept cites beside him, things on the field of shunyata.## Sources
+- [[T056 — Nishitani, Keiji]]: the K015 principle the concept cites beside him, things on the field of shunyata.
+## Sources
 
 - [Heidegger, M. (1971), "The Thing", in Poetry, Language, Thought, trans. A. Hofstadter, Harper & Row — full text PDF](https://fairhavenprogram.org/wp-content/uploads/2025/10/Heidegger-The-Thing.pdf)
 - Heidegger, "Das Ding," the later essays

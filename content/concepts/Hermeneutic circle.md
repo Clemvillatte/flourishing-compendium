@@ -25,7 +25,8 @@ Entering the circle rightly means holding your anticipations of the whole lightl
 
 - [[Fusion of horizons]]: the circular structure of understanding the fusion works within
 - [[The hermeneutic circle]] — the same circle under its letter-T title, following the SEP entry rather than Gadamer's essay
-- [[T049 — Gadamer, Hans-Georg]]: the rule at its most compact, inherited from ancient rhetoric, in Truth and Method.## Sources
+- [[T049 — Gadamer, Hans-Georg]]: the rule at its most compact, inherited from ancient rhetoric, in Truth and Method.
+## Sources
 
 - [Wikipedia Hermeneutic circle](https://en.wikipedia.org/wiki/Hermeneutic_circle)
 - [Gadamer, On the Circle of Understanding](https://faculty.washington.edu/ewebb/R528/Gadamer.pdf): supports both verbatim quotations

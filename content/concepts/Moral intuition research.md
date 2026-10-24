@@ -27,7 +27,8 @@ The original entry says moral judgments "often precede reasoning". The abstract 
 
 - [[Motivated reasoning]] — reasoning that serves a conclusion already reached
 - [[Dual-process theory]] — the intuition and reasoning frame the model sits in
-- [[T033 — Haidt, Jonathan]]: the field's central challenger, the social intuitionist account (Haidt, 2001).## Sources
+- [[T033 — Haidt, Jonathan]]: the field's central challenger, the social intuitionist account (Haidt, 2001).
+## Sources
 
 - [Haidt, "The emotional dog and its rational tail: a social intuitionist approach to moral judgment", Psychological Review, 2001 (PubMed)](https://pubmed.ncbi.nlm.nih.gov/11699120/)
 - [The Emotional Dog Was a Glauconian Canine (Revistas UV PDF)](https://revistas.uv.cl/index.php/RHV/article/download/2947/version/2974/3161/12830)

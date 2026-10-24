@@ -26,12 +26,14 @@ For example: After service, a cook reviews how tasting, remembering recipes and 
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the Inner Chapters skill stories the page cites for unsplit action.
-- [[T011 — Socrates]]: the unity of virtue and knowledge the page's unity argument leans on (Protagoras).## Sources
+- [[T011 — Socrates]]: the unity of virtue and knowledge the page's unity argument leans on (Protagoras).
+## Sources
 
 - [Gelūnas 2001, Acta Orientalia Vilnensia (opened carrier)](https://www.journals.vu.lt/acta-orientalia-vilnensia/article/download/18347/17527/31254) — reproduces the pure experience opening (pp. 3-4) and the will-base passage (p. 28)
 - [Tyler 2013, University of Mississippi thesis (opened carrier)](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1751&context=etd) — reproduces the truth-singular passage (p. 37), the identical-unifying-activities passage (p. 91) and the deepest-power passage (p. 125)
 - [Nishida Kitarō, An Inquiry into the Good, trans. Masao Abe and Christopher Ives (Yale University Press, 1990)](https://archive.org/details/inquiryintogood0000nish) — the book itself, lending-only at the Internet Archive
-- [[T051 — Nishida Kitaro]]: the immediate-experience passage from An Inquiry into the Good the principle quotes.## Psychology parallels
+- [[T051 — Nishida Kitaro]]: the immediate-experience passage from An Inquiry into the Good the principle quotes.
+## Psychology parallels
 
 - **[[Flow|Flow's autotelic structure]]**, the absorption state in which action and awareness merge (Csikszentmihalyi, 1990)
 

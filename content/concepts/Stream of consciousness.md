@@ -30,7 +30,8 @@ The compendium's linked principles work the same stream from two sides: know it 
 - [[Pure experience]] — the sibling page in the same family
 - [[Mind wandering]] — the default-mode account of the same flowing thought James described from the inside
 - [[Dispositional mindfulness]] — the trained capacity to notice the stream without being swept along
-- [[T051 — Nishida Kitaro]]: the direct response to James's Principles of Psychology the concept notes.## Sources
+- [[T051 — Nishida Kitaro]]: the direct response to James's Principles of Psychology the concept notes.
+## Sources
 
 - William James, The Principles of Psychology, vol. 1 (1890), chapter IX ("The Stream of Thought"), [Project Gutenberg #57628](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)
 - William James, Principles of Psychology

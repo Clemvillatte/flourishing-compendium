@@ -47,7 +47,8 @@ In the college-classroom study, the authors reported favorable results for maste
 - [[Achievement motivation theory]] — the classic tradition the hierarchical model integrated with the goal framework
 - [[Approach versus avoidance motivation]] — the distinction Elliot and Church used to split the performance category
 - [[Competence]] — what both goal classes are about, in Dweck's definition of the goal classes
-- [[T034 — Dweck, Carol]]: the theory's co-author; the concept carries her learning-versus-performance goals.## Sources
+- [[T034 — Dweck, Carol]]: the theory's co-author; the concept carries her learning-versus-performance goals.
+## Sources
 
 - [Dweck, Motivational Processes Affecting Learning (1986), American Psychologist 41(10):1040-1048](https://gwern.net/doc/psychology/personality/1986-dweck.pdf) — the two goal classes, mastery-oriented versus helpless patterns, the intelligence-beliefs link
 - [Elliot and Church, A Hierarchical Model of Approach and Avoidance Achievement Motivation (1997), Journal of Personality and Social Psychology 72(1):218-232](https://www.semanticscholar.org/paper/a4482ae1eeaaaed5df0d72b14e93f484104ddda4) — the trichotomous framework

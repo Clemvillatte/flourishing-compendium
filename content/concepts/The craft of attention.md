@@ -23,7 +23,8 @@ The training happens in ordinary schoolwork, done with the wrong motive removed:
 
 - [[Effortless attention]]
 - [[Care ethics]] — the sufferer passage makes attention the substance of neighborly love
-- [[T037 — Weil, Simone]]: the entry's label is her account of attention, the trained capacity to receive.## Sources
+- [[T037 — Weil, Simone]]: the entry's label is her account of attention, the trained capacity to receive.
+## Sources
 
 - [Weil, Reflections on the right use of school studies with a view to the love of God (in Waiting for God, trans. Craufurd, 1951), essay text PDF](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf) — the blockquote, the prayer thesis, the sufferer passage, the studies instructions and the geometry-problem payoff
 - Simone Weil, Waiting for God

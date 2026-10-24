@@ -45,4 +45,3 @@ In an age of quick answers, what does it cost us to treat doubt as a problem to 
 -->
 
 ## Related concepts
-- [[T056 — Nishitani, Keiji]]: the Great Doubt as not a skill but a passage, from Bret Davis's account the principle cites.

@@ -26,7 +26,8 @@ The idea cuts two ways for practice: the culture that made you is a resource, an
 - [[The social selves]] — the plural, socially given self
 - [[Cultural fit theory]] — the psychological study of matching person to culture
 - [[The politics of recognition]] — the downstream political question
-- [[T052 — MacIntyre, Alasdair]]: the After Virtue argument the concept is built on, beside Sandel.## Sources
+- [[T052 — MacIntyre, Alasdair]]: the After Virtue argument the concept is built on, beside Sandel.
+## Sources
 
 - MacIntyre, After Virtue
 

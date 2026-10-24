@@ -22,7 +22,8 @@ The review's map of the field: "We first focus on a triad of negatively valenced
 ## Related concepts
 
 - [[Moral identity]] — the affective side of moral functioning
-- [[T033 — Haidt, Jonathan]]: the moral-emotions research the concept cites (Haidt, 2003).## Sources
+- [[T033 — Haidt, Jonathan]]: the moral-emotions research the concept cites (Haidt, 2003).
+## Sources
 
 - Tangney et al., 2007
 - Haidt, 2003

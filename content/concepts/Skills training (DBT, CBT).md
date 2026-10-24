@@ -35,7 +35,8 @@ Valentine and colleagues report that DBT skills training is being given as a sta
 - [[Dialectical behaviour therapy, emotion modulation]] — the DBT skill module
 - [[Radical acceptance]] — a DBT acceptance skill
 - [[Compassion-focused therapy]] — a sibling therapy approach
-- [[T032 — Linehan, Marsha]]: the DBT skills-training manual the concept is drawn from.## Sources
+- [[T032 — Linehan, Marsha]]: the DBT skills-training manual the concept is drawn from.
+## Sources
 
 - assertiveness, emotion regulation, social skills
 

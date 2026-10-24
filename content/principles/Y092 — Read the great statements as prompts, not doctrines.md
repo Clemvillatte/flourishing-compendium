@@ -47,4 +47,4 @@ A man writes "thou art that" on a card and feels pleased for a day. In the secon
 - [Mandukya Upanishad verse 2, Swami Krishnananda's edition](https://www.swami-krishnananda.org/mand/mand_invoc.html) (read as a search excerpt)
 
 ## Related concepts
-- [[T054 — Shankara]]: That thou art, read relationally, the construal of Chandogya 6.8.7 his tradition carries.
+- [[T054 — Shankara]]: Chandogya 6.8.7, the great statement the page treats as a prompt.

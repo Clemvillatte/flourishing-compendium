@@ -24,7 +24,8 @@ The abstract carries a cost note: acting out of character "may also compromise w
 - [[Eudaimonic motivation, intrinsic goals]] — the self-determination account of intrinsic versus extrinsic aspirations
 - [[Goal adjustment capacity]] — the capacity to let go of goals that cannot be reached and take up new ones
 - [[Achievement goal theory (Dweck, Elliot)]] — the social-cognitive framework of learning versus performance goals
-- [[T034 — Dweck, Carol]]: the learning-versus-performance framework the concept's projects cite (with Elliot).## Sources
+- [[T034 — Dweck, Carol]]: the learning-versus-performance framework the concept's projects cite (with Elliot).
+## Sources
 
 - Little, 2008
 - [Brian R. Little, "Personal Projects and Free Traits: Personality and Motivation Reconsidered," Social and Personality Psychology Compass 2 (2008), abstract, Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1751-9004.2008.00106.x) — the carrier of the quotation above.

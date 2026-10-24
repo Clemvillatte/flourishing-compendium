@@ -49,7 +49,8 @@ The five foundations were partly built to explain moral disagreement across the 
 - [[Cultural evolution theory]] — the wider home of plural moral systems
 - [[Corrective justice]] — what a fairness intuition demands when violated
 - [[Moral courage research]] — the courage-to-act companion construct
-- [[T033 — Haidt, Jonathan]]: the theory's author; harm, fairness and authority as primary intuitions (Haidt, 2012).## Cited in psychology parallels
+- [[T033 — Haidt, Jonathan]]: the theory's author; harm, fairness and authority as primary intuitions (Haidt, 2012).
+## Cited in psychology parallels
 
 - [[B144 — Harm none — the baseline of practice (ahimsa)]]
 - [[R093 — Practise the primacy of ethics over ontology]]

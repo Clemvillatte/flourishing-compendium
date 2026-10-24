@@ -151,7 +151,8 @@ Wu wei is not passivity. Chapter 48 still has the sage accomplish things, and Di
 - [[Locus of control]] — Rotter's generalized expectancy about where reinforcement comes from
 - [[Apatheia]] — the Stoic ideal of freedom from passion, not numbness
 - [[Non-contention]] — the Daodejing's refusal to wrangle for position is one of the concrete shapes wu wei takes
-- [[T012 — Laozi]]: the Daodejing 37 and 48 chapters the page quotes for non-forcing.## Sources
+- [[T012 — Laozi]]: the Daodejing 37 and 48 chapters the page quotes for non-forcing.
+## Sources
 - [Laozi, Daodejing, James Legge translation (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — chapters 37 and 48, quoted above
 - [Stanford Encyclopedia of Philosophy, Zhuangzi (Hansen)](https://plato.stanford.edu/entries/zhuangzi/) — Butcher Ding passage in Hansen's translation, and the remark that the performances look and feel effortless
 - [Edge.org, The Paradox of Wu-Wei (Slingerland, 2014)](https://www.edge.org/conversation/edward_slingerland-the-paradox-of-wu-wei) — the definition of wu-wei as effortless action or spontaneity, and the paradox of trying not to try

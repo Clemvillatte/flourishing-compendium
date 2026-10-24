@@ -31,7 +31,8 @@ The companion idea is readiness-to-hand (Zuhandenheit), the mode of being equipm
 - [[Present-at-hand]] — the contrasting mode in which equipment appears as an object with properties.
 - [[Equipment revealed only in breakdown]] — the equipmental web becomes visible when a tool fails.
 - [[Affordances]]
-- [[T051 — Nishida Kitaro]]: the historical body, the reading the K021 principle grounds in.## Sources
+- [[T051 — Nishida Kitaro]]: the historical body, the reading the K021 principle grounds in.
+## Sources
 
 - [Heidegger, Being and Time, Macquarrie & Robinson translation, p. 97](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.097.html) — the "no such thing as an equipment", totality and "something in-order-to" sentences.
 - [Heidegger, Being and Time, Macquarrie & Robinson translation, p. 98](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.098.html) — the "Being-in-itself" and manipulability sentences.

@@ -19,7 +19,8 @@ The move the concept makes is from resilience as an individual trait to resilien
 
 - [[Resilience]] — the broader capacity the concept specializes to cultures
 - [[Psychological resilience theory Bonanno]] — the individual-level research tradition
-- [[T052 — MacIntyre, Alasdair]]: the After Virtue original entry source the page's note records.## Sources
+- [[T052 — MacIntyre, Alasdair]]: the After Virtue original entry source the page's note records.
+## Sources
 
 - Fleming, J., & Ledogar, R. J. (2008). Resilience, an evolving concept: a review of literature relevant to Aboriginal research. Pimatisiwin 6(2), 47–62 ([PMC2956753](https://pmc.ncbi.nlm.nih.gov/articles/PMC2956753/)) — the two uses of the term and the Healy (2006) definition
 - MacIntyre, After Virtue — the original entry source for the page's original note

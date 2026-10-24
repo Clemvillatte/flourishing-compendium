@@ -39,7 +39,8 @@ The principles below apply the skill to anger (approach rather than attack) and 
 - [[Shame]] — one of the emotions Rizvi and Linehan's pilot study addressed
 - [[Experiential avoidance theory]] — a theory about the avoidance that acting opposite to an urge works against
 - [[Behavioral activation]] — another approach that changes feelings through action
-- [[T032 — Linehan, Marsha]]: the skill's developer; the concept is built on her emotion theory.## Sources
+- [[T032 — Linehan, Marsha]]: the skill's developer; the concept is built on her emotion theory.
+## Sources
 
 - [Sauer-Zavala et al. (2020), "Countering Emotional Behaviors in the Treatment of Borderline Personality Disorder", Personality Disorders (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7483202/) — placement of opposite action in DBT, the action-tendency rationale, the evidence limit, and the citation to Rizvi and Linehan (2005)
 - Linehan, 1993

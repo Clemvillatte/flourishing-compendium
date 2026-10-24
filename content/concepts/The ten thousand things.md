@@ -30,7 +30,8 @@ The number is uncountable in practice, and the tradition's practical counsel fol
 - [[Wu wei]] — the Tao's non-managing manner toward them
 - [[The smallest complete practice]] — chapter 64's arithmetic from the same passage
 - [[The many become one]] — Whitehead's version of a world of many particulars
-- [[T012 — Laozi]]: the Daodejing's name for the abundance, chapters 34 and 64 quoted in the page.## Related thinkers
+- [[T012 — Laozi]]: the Daodejing's name for the abundance, chapters 34 and 64 quoted in the page.
+## Related thinkers
 
 - [[T009 — Zhuangzi]]: the argument against ranking (D080) offered as the concept's comparison.
 

@@ -36,7 +36,8 @@ Y092 "Read the great statements as prompts, not doctrines" is the compendium's b
 - [[Dao]] — a cross-tradition pairing offered for reflection, not a claimed influence
 - [[Deus sive natura]] — a cross-tradition pairing offered for reflection, not a claimed influence
 - [[The logos common to all]] — a cross-tradition pairing offered for reflection, not a claimed influence
-- [[T054 — Shankara]]: the Advaita Vedanta reading of the Upanishads as revealing Brahman, one without a second.## Sources
+- [[T054 — Shankara]]: the Advaita Vedanta reading of the Upanishads as revealing Brahman, one without a second.
+## Sources
 
 - [Dalal, "Śaṅkara," Stanford Encyclopedia of Philosophy (2021; Spring 2026 archive)](https://plato.stanford.edu/archives/spr2026/entries/shankara/) — original citation line, enriched with author; Brahman in Śaṅkara's Advaita; consciousness; two orders of reality; mokṣa; the Upaniṣadic anchors
 - [Menon, "Advaita Vedanta," Internet Encyclopedia of Philosophy](https://iep.utm.edu/advaita-vedanta/) — original citation line, enriched with author; māyā as creative power; sublation; the three planes of existence

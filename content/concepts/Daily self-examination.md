@@ -29,7 +29,8 @@ Seneca records the Stoic counterpart in De Ira: "the spirit ought to be brought 
 - [[Self-examination]] — the Stoic practice the same habit feeds
 - [[The evening review]] — Seneca's nightly version of the audit
 - [[The examined life]] — the Socratic demand the habit serves
-- [[T013 — Seneca]]: the De Ira evening review the page opens with, Sextius's questions and his own.## Sources
+- [[T013 — Seneca]]: the De Ira evening review the page opens with, Sextius's questions and his own.
+## Sources
 
 - Zengzi, Analects 1.4
 

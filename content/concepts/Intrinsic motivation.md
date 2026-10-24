@@ -40,7 +40,8 @@ The paper's rewards discussion is a 2000 summary of a research program that bega
 - [[Mastery orientation]]
 - [[Achievement goal theory (Dweck, Elliot)]] — the goal framework whose mastery orientation went with intrinsic motivation in the 1997 study
 - [[Identified versus introjected motivation]] — self-determination theory's distinction between two ways of carrying a rule inside
-- [[T034 — Dweck, Carol]]: the achievement-goal framework whose mastery orientation went with intrinsic motivation (with Elliot).## Sources
+- [[T034 — Dweck, Carol]]: the achievement-goal framework whose mastery orientation went with intrinsic motivation (with Elliot).
+## Sources
 
 - [Ryan and Deci 2000, "Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions," Contemporary Educational Psychology 25 (PDF)](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf) — the definitions, the healthy-state passage, the undermining verdict, verbatim.
 - [Ryan and Deci 2000, "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being," American Psychologist 55 (PDF)](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf) — the inherent-tendency formulation.

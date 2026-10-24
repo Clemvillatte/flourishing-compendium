@@ -19,6 +19,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - [[K045]] — offers Shantideva's diagnosis of self-grasping as a comparison for the unexamined self
 - [[The transformation of consciousness]]
 - [[The traveler's eye]]
-- [[T051 — Nishida Kitaro]]: the self-inspection limit the concept quotes via the SEP entry.## Cited in philosophy parallels
+- [[T051 — Nishida Kitaro]]: the self-inspection limit the concept quotes via the SEP entry.
+## Cited in philosophy parallels
 
 - [[K045 — Understand self-cherishing as the root error]]

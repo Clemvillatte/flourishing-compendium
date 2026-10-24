@@ -35,7 +35,8 @@ Research that only contrasts mastery with performance goals "does not capture th
 - [[Implicit theories of intelligence]] — the response pattern the incremental theory predicts
 - [[Growth mindset]] — the incremental-theory belief behind it
 - [[Education as growth]] — the growth view of learning
-- [[T034 — Dweck, Carol]]: the mindset link the concept tests, growth mindset and mastery in early childhood.## Sources
+- [[T034 — Dweck, Carol]]: the mindset link the concept tests, growth mindset and mastery in early childhood.
+## Sources
 
 - [Annual Review of Psychology chapter on classroom goal structures and student motivation, 2006 (PDF)](http://sohs.pbs.uam.es/webjesus/motiv_ev_autorr/lects%20extranjeras/anual%20review%202006.pdf)
 - [Do Students Distinguish Between Different Types of Performance Goals? (Journal of Experimental Education)](https://www.tandfonline.com/doi/full/10.1080/00220973.2012.745464)

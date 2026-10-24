@@ -29,10 +29,12 @@ Imagine two partners planning care for an elderly relative. They list the transp
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the oneness-of-things passage behind the page's emptiness parallel.
-- [[T035 — Thich Nhat Hanh]]: the interbeing gloss the page's fullness cites (Hanh, Interbeing).## Sources
+- [[T035 — Thich Nhat Hanh]]: the interbeing gloss the page's fullness cites (Hanh, Interbeing).
+## Sources
 
 - [Nagarjuna, Mulamadhyamakakarika, trans. Stephen Batchelor (Wisdom Library)](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79738.html) — ch. 24; [ch. 15](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79729.html)
-- [[T050 — Nagarjuna]]: MMK 24.1-7 and 18-20, the self-made-and-independent refutation the page quotes.## Stories
+- [[T050 — Nagarjuna]]: MMK 24.1-7 and 18-20, the self-made-and-independent refutation the page quotes.
+## Stories
 - [[ST434 — Fazang's Hall of Mirrors|434. Fazang's Hall of Mirrors]]
 
 ## Psychology parallels

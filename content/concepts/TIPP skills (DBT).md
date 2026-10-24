@@ -32,7 +32,8 @@ The sources are clinical teaching materials, not trials of the skills. The expla
 - [[BI048]] — the compendium's principle on cold exposure and the dive reflex, which cites Linehan's TIP handout
 - [[Emotion regulation]] — the compendium's page on the wider field
 - [[Distress tolerance (DBT)]] — the capacity to withstand aversive states
-- [[T032 — Linehan, Marsha]]: the distress-tolerance skills the concept carries from her manual.## Sources
+- [[T032 — Linehan, Marsha]]: the distress-tolerance skills the concept carries from her manual.
+## Sources
 
 - [VA MIRECC, "Dialectical Behavior Therapy: A Visual Review", Part 2 transcript](https://www.mirecc.va.gov/visn16/docs/DBT_Visual_Review_Part_2_Transcript.pdf)
 - [VA MIRECC, "Dialectical Behavior Therapy: A Visual Review Skills Flash Cards"](https://www.mirecc.va.gov/visn16/docs/DBT_Visual_Review_Flash_Cards.pdf)

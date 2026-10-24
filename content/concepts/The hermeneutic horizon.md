@@ -21,7 +21,8 @@ The horizon is not a prison but a starting position that can widen. Gadamer's mo
 - [[Hermeneutic circle]] — the part-and-whole structure horizon thinking belongs to
 - [[Charity in interpretation]] — the stance toward the other horizon in the encounter
 - [[Dialogue]] — the form the fusing of horizons takes in practice
-- [[T049 — Gadamer, Hans-Georg]]: the concept is his figure for the situatedness of understanding.## Sources
+- [[T049 — Gadamer, Hans-Georg]]: the concept is his figure for the situatedness of understanding.
+## Sources
 
 - Gadamer, H.-G. Truth and Method (1960; 2nd rev. English ed., trans. J. Weinsheimer & D. G. Marshall; London: Continuum, 2003), pp. 302, 306, 307 — passages quoted verbatim as reproduced in the scholarly carrier: [Journal of Dialogue Studies 7 (2019)](https://www.dialoguestudies.org/wp-content/uploads/2019/12/Hans-Georg-Gadamers-Truth-and-Method-Revisited-On-the-Very-Idea-of-a-Fusion-of-Horizons-in-Intense-Asymmetric-and-Intractable-Conflicts.pdf); raw-text check done 2026-10-22.
 

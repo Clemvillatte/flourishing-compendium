@@ -34,7 +34,8 @@ The theory's most useful distinction concerns what anxiety costs. "Adverse effec
 - [[Executive function theory Miyake]] — inhibition and shifting as executive functions ([Eysenck et al., 2007](https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_psychologie/i1/allgpsy/lehre/pruefungsliteratur_KN_2013/Eysenck-2007.pdf), abstract, p. 336)
 - [[Attentional bias research]]
 - [[The discipline of attention]] — Weil’s account of receptive attention in study and prayer, contrasted here with a psychological theory of anxiety.
-- [[T037 — Weil, Simone]]: the receptive-attention account the concept contrasts with Eysenck's control theory.## Sources
+- [[T037 — Weil, Simone]]: the receptive-attention account the concept contrasts with Eysenck's control theory.
+## Sources
 
 - Eysenck et al., 2007
 

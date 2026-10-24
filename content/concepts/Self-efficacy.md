@@ -46,7 +46,8 @@ The compendium cites the construct from its principles on voluntary action and e
 - [[Learning by doing]] — the belief about agency that the doing builds (description carried from the original entry)
 - [[Locus of control]] — its page already links here, describing self-efficacy as "the belief about capability, locus's Bandura sibling"
 - [[SE059]] — A comparison with SE059's account of Bandura's construct and its four sources
-- [[T034 — Dweck, Carol]]: the implicit theories the concept's control belief is really about, in her account.## Sources
+- [[T034 — Dweck, Carol]]: the implicit theories the concept's control belief is really about, in her account.
+## Sources
 
 - [Bandura, "Self-efficacy: Toward a unifying theory of behavioral change" (1977), Psychological Review 84, 191-215, open PDF](https://www.susana.org/_resources/documents/default/3-4524-7-1640787326.pdf) — the blockquote, the efficacy-versus-outcome-expectation distinction, and the four sources are from this paper.
 - Bandura, 1997, Self-efficacy: The exercise of control — the compressed definition, quoted verbatim via the review below.

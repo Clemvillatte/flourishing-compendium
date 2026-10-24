@@ -36,7 +36,8 @@ Read as a unit, the three fores describe one movement: what a reader already hol
 - [[Prejudice (Vorurteil)]] — Gadamer's development of the same fore-structure into a rehabilitation of prejudice
 - [[Present-at-hand]] — the companion Heideggerian concept, also from Being and Time
 - [[Hermeneutic circle]] — the circle Heidegger's fore-structure grounds
-- [[T049 — Gadamer, Hans-Georg]]: the fores the concept describes, in his hermeneutics of reading.## Sources
+- [[T049 — Gadamer, Hans-Georg]]: the fores the concept describes, in his hermeneutics of reading.
+## Sources
 
 - Heidegger, Being and Time, §32
 - [Martin Heidegger, Being and Time, trans. Macquarrie and Robinson, pp. 191–192, at beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.191.html) — the carrier of the quotations above.

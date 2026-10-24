@@ -24,7 +24,8 @@ The just is where the practice turns on its own account. It does not mean merely
 
 - [[Gelassenheit]] — Heidegger's releasement; the German cousin of just sitting
 - [[Pure experience]] — experience before the subject-object split; Nishida's ground
-- [[T051 — Nishida Kitaro]]: pure experience, experience before the subject-object split, the concept's ground.## Sources
+- [[T051 — Nishida Kitaro]]: pure experience, experience before the subject-object split, the concept's ground.
+## Sources
 
 - Dogen, Shobogenzo
 - [Shigenori Nagatomo, “Japanese Zen Buddhist Philosophy,” §2](https://plato.stanford.edu/entries/japanese-zen/): definition, Sōtō context, and practice-realization.
@@ -36,6 +37,7 @@ The just is where the practice turns on its own account. It does not mean merely
 [[K026 — Rest in the nature of awareness itself]]
 [[B001 — Face suffering directly]]
 [[B128 — Don't cling even to the teaching (dharma-grasping)]]
-- [[T053 — Dogen]]: the Shobogenzo source of the practice the concept carries.## Cited in philosophy parallels
+- [[T053 — Dogen]]: the Shobogenzo source of the practice the concept carries.
+## Cited in philosophy parallels
 
 - [[Y045 — Relax effort into support]]

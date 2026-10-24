@@ -25,7 +25,8 @@ The tractate's instruction is preparation: "one must come to the sight with a se
 - [[Attention]] — the act the likeness prepares
 - [[Grace]] — the tradition's other name for what is given in the seeing
 - [[Eros]] — the desire Plotinus reads in the ascent
-- [[T037 — Weil, Simone]]: the attention story the concept links (ST023, Simone Weil on Attention).## Sources
+- [[T037 — Weil, Simone]]: the attention story the concept links (ST023, Simone Weil on Attention).
+## Sources
 
 - Plotinus, Enneads
 - cross-volume echo (inherited original note)

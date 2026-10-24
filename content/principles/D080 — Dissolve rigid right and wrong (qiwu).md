@@ -30,7 +30,8 @@ Imagine two colleagues dividing the same hours of work. One wants an earlier shi
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the monkey-keeper's three-and-four (chapter 2) the page retells for qiwu.
-- [[T050 — Nagarjuna]]: the tetralemma, the Mulamadhyamakakarika examination the page cites beside qiwu.## Sources
+- [[T050 — Nagarjuna]]: the tetralemma, the Mulamadhyamakakarika examination the page cites beside qiwu.
+## Sources
 
 - [Zhuangzi, Chapter 2, §6, James Legge translation, NOVA Open Publishing](https://pressbooks.nvcc.edu/eng255/chapter/the-zhuangzi/): the monkey-keeper passage quoted above.
 - [Chad Hansen, "Zhuangzi", Stanford Encyclopedia of Philosophy, §§4.5 and 4.8](https://plato.stanford.edu/entries/zhuangzi/): perspective, accommodation and the limits of relativism.

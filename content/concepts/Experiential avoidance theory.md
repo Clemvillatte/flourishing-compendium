@@ -34,7 +34,8 @@ The theory belongs to the same tradition as Acceptance and Commitment Therapy (A
 - [[Experiential avoidance research]] — the empirical strand of the construct
 - [[Process-based therapy]] — the most-studied maladaptive process in PBT's ACT lineage
 - [[Acceptance and Commitment Therapy]] — the clinical model built to target avoidance
-- [[T032 — Linehan, Marsha]]: the opposite-action skill the concept pairs with avoidance reversal.## Sources
+- [[T032 — Linehan, Marsha]]: the opposite-action skill the concept pairs with avoidance reversal.
+## Sources
 
 - [Fernández-Rodríguez, Paz-Caballero, González-Fernández & Pérez-Álvarez, "Activation vs. Experiential Avoidance as a Transdiagnostic Condition of Emotional Distress", Frontiers in Psychology (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/) — carrier of the Hayes et al. 1996 definition and the short-term relief / long-term worsening sentence; ACT described as teaching direct contact with experience; AAQ-II named among measures for evaluating experiential avoidance
 

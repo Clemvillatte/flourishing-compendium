@@ -41,7 +41,8 @@ Contemporary virtue ethics has two instigating documents: Anscombe's "Modern Mor
 - [[Courage]] — one of the four cardinal virtues: acting well in the face of fear
 - [[S139]] — A Stoic principle on evaluating progress through daily conduct
 - [[Virtue ethics]] — the normative tradition that puts this trait first
-- [[T052 — MacIntyre, Alasdair]]: the After Virtue revival of the virtues beside Anscombe's Modern Moral Philosophy, the concept's two instigating documents.## Sources
+- [[T052 — MacIntyre, Alasdair]]: the After Virtue revival of the virtues beside Anscombe's Modern Moral Philosophy, the concept's two instigating documents.
+## Sources
 
 - [IEP, Aristotle's Ethics](https://iep.utm.edu/aris-eth/) — hexis, mean (1107a), habituation (1103a-b), phronēsis (1144a), eudaimonia; original original citation
 - [IEP, Virtue Ethics](https://iep.utm.edu/virtue/) — Anscombe 1958 and the revival

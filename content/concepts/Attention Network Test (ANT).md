@@ -30,7 +30,8 @@ In the 40-subject study, the three scores did not correlate with each other. As 
 - [[Posner's three-network model]] — the theory the test was built to measure
 - [[Executive function theory Miyake]] — the executive component's own research tradition
 - [[Attentional control theory (Eysenck)]] — a theory of attentional control under anxiety
-- [[T037 — Weil, Simone]]: the attention story the concept links (ST023, Simone Weil on Attention).## Sources
+- [[T037 — Weil, Simone]]: the attention story the concept links (ST023, Simone Weil on Attention).
+## Sources
 
 - Fan et al., 2002
 

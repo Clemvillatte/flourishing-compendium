@@ -35,7 +35,8 @@ The two uses do different work. Frankl's is an orientation: a life directed at s
 - [[Collective effervescence theory Durkheim]] — the group-level version of connected self-loss
 - [[Pure experience]] — the undivided field such experiences briefly restore
 - [[Will to power]] — the Nietzschean self-exceeding; the rival reading of growth
-- [[T033 — Haidt, Jonathan]]: co-author of the varieties of self-transcendent experience the page cites (Yaden et al., 2017).## Sources
+- [[T033 — Haidt, Jonathan]]: co-author of the varieties of self-transcendent experience the page cites (Yaden et al., 2017).
+## Sources
 
 - [Yaden, Haidt, Hood, Vago and Newberg 2017, "The Varieties of Self-Transcendent Experience," Review of General Psychology 21(2)](https://journals.sagepub.com/doi/10.1037/gpr0000102) — the definition; the taxonomy; annihilational and relational components.
 - Frankl, Man's Search for Meaning, p. 133 — the quotation (passage verified via published scholarly quotation, hrcak.srce.hr/file/443452).

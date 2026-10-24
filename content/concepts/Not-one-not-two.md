@@ -28,7 +28,8 @@ Verse 15 then names what the example is for: "Through fire and wood is explained
 - [[Buddhist emptiness of inherent nature]] — the compendium's page on emptiness
 - [[Dependent origination]] — the compendium's page on dependent origination
 - [[Two truths]] — the compendium's page on the two truths
-- [[T050 — Nagarjuna]]: the refusal of both halves of a dichotomy the concept is built on.## Sources
+- [[T050 — Nagarjuna]]: the refusal of both halves of a dichotomy the concept is built on.
+## Sources
 
 - [Nagarjuna, Mulamadhyamakakarika, chapter 10 (translation on Wisdom Library)](https://www.wisdomlib.org/buddhism/book/mulamadhyamaka-karika-english/d/doc79724.html) — verses 10.1, 10.14 and 10.15, quoted verbatim
 

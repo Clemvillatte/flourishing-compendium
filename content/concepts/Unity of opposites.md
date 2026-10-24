@@ -31,7 +31,8 @@ The fragments offer examples, not a definition. Another has Heraclitus say of da
 - [[Yin and yang]] — the Chinese pair-doctrine that holds opposites together
 - [[Panta rhei]] — Heraclitus' flux doctrine, read as a special case of the unity
 - [[The many become one]] — Whitehead's formula for the one and the many
-- [[T051 — Nishida Kitaro]]: contradictory identity, his version of holding differences together without sublating them.## Sources
+- [[T051 — Nishida Kitaro]]: contradictory identity, his version of holding differences together without sublating them.
+## Sources
 
 - Heraclitus, fragments
 - Nishida's contradictory identity

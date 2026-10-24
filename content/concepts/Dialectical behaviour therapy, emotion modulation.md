@@ -36,7 +36,8 @@ DBT treats the problem as trainable rather than as weakness of will: "Emotion dy
 - [[Distress tolerance (DBT)]] — the acceptance-side module taught alongside emotion regulation
 
 - [[Extended process model of emotion regulation]] — the modern process framework the skills feed into
-- [[T032 — Linehan, Marsha]]: the developer of the emotion-regulation skills the concept describes.## Sources
+- [[T032 — Linehan, Marsha]]: the developer of the emotion-regulation skills the concept describes.
+## Sources
 
 - Linehan, 1993
 

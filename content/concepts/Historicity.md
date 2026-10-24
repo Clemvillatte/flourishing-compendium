@@ -30,7 +30,8 @@ Readers of Heidegger should keep two points in view. A philosophy journal essay 
 - [[Historical consciousness]] — awareness of one's own historical situatedness, in Gadamer's sense
 - [[Fusion of horizons]] — Gadamer's term for what understanding achieves
 - [[Hermeneutic circle]] — the circular structure of interpretation
-- [[T049 — Gadamer, Hans-Georg]]: the situatedness-and-horizon section the concept carries.## Sources
+- [[T049 — Gadamer, Hans-Georg]]: the situatedness-and-horizon section the concept carries.
+## Sources
 
 - [Wrathall, "Martin Heidegger", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/)
 - [Malpas, "Gadamer, Hans-Georg", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/gadamer/)

@@ -45,7 +45,8 @@ For habit and flourishing, phronesis names the skill the entire self-improvement
 - [[Wisdom theory Berlin paradigm]] — an Aristotelian account of practical judgment, beside the Berlin paradigm's expertise-based scoring of responses to life problems
 - [[A091]] — practical wisdom distinguished from contemplation in the scholarly account
 - [[A037]] — the VI.12–13 contrast makes practical wisdom more than efficient means
-- [[T052 — MacIntyre, Alasdair]]: the later uses of phronesis the page lists alongside the Aristotelian Phronesis Model.## Sources
+- [[T052 — MacIntyre, Alasdair]]: the later uses of phronesis the page lists alongside the Aristotelian Phronesis Model.
+## Sources
 
 - [Aristotle, Nicomachean Ethics, trans. D. P. Chase, Project Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.txt) — the Book VI young-man passage quoted verbatim
 - [Wikipedia, Phronesis](https://en.wikipedia.org/wiki/Phronesis) — the NE Book VI framework, the contrast with epistēmē and sophia, the young-geometers passage, and later uses including the Rhetoric, MacIntyre and the Aristotelian Phronesis Model.
@@ -54,7 +55,8 @@ For habit and flourishing, phronesis names the skill the entire self-improvement
 - Aristotle, Nicomachean Ethics VI
 
 [[S031 — Do what is fitting, not what is easy]]
-- - ## Cited in philosophy parallels
+- - 
+## Cited in philosophy parallels
 
 - [[D059 — Do the difficult while it is easy]]
 - [[D162 — Attend to the not-yet-manifest]]

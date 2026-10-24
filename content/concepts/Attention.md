@@ -48,7 +48,8 @@ The concept anchors the attention track: AT054 trains attention through delibera
 - [[AT001]] — the attention principle this research page grounds
 - [[The discipline of attention]] — Weil’s account of attention in study, prayer, and attention to a sufferer.
 - [[X017]] — devotional attention to intention and conduct
-- [[T037 — Weil, Simone]]: attention as the rarest and purest form of generosity, the ethical definition the concept quotes.## Sources
+- [[T037 — Weil, Simone]]: attention as the rarest and purest form of generosity, the ethical definition the concept quotes.
+## Sources
 
 - [Wikipedia, Attention](https://en.wikipedia.org/wiki/Attention) — original original citation; James's definition
 - [William James, The Principles of Psychology (1890), chapter 11: Attention](https://psychclassics.yorku.ca/James/Principles/prin11.htm) — the definition and "my experience is what I agree to attend to"

@@ -32,7 +32,8 @@ R051 "Practise ren (humanity/benevolence)" makes ren the supreme Confucian virtu
 - [[The golden rule]] — shu's later form
 - [[Arete]] — the Greek excellence parallel
 - [[Role ethics]] — the contemporary Confucian reading of ren through roles
-- [[T055 — Mencius]]: the sprouts argument behind R051, ren as the root the concept develops.## Sources
+- [[T055 — Mencius]]: the sprouts argument behind R051, ren as the root the concept develops.
+## Sources
 
 - [Internet Encyclopedia of Philosophy, "Confucius"](https://iep.utm.edu/confucius/) — translation, co-humanity, etymology, junzi, Lau's ren/yi distinction, Mencius
 - [The Analects, Book 6, Legge translation (Chinese Text Project)](https://ctext.org/analects/yong-ye) — 6.30, 6.7

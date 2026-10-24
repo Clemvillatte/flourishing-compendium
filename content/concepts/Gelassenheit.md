@@ -46,7 +46,8 @@ In the "Memorial Address" of 1955 Heidegger brings the same disposition to techn
 - [[Beginner's mind]] — meeting experience free of the habits of the expert; the compendium pairs it with Heidegger's waiting.
 - [[Acceptance]] — in ACT, the active and aware embrace of private experiences without unnecessary attempts to change their frequency or form; a cousin, not the same thing.
 - [[Shikantaza, just sitting]] — Dogen's objectless just-sitting practice; the compendium pairs it with Heidegger's waiting.
-- [[T053 — Dogen]]: shikantaza, the objectless just-sitting practice the concept pairs with letting-be.## Sources
+- [[T053 — Dogen]]: shikantaza, the objectless just-sitting practice the concept pairs with letting-be.
+## Sources
 
 - [Wikipedia: Wu wei](https://en.wikipedia.org/wiki/Wu_wei) — the effortless, unforced-activity side of the Wu wei comparison.
 - [Wikipedia: Upādāna](https://en.wikipedia.org/wiki/Up%C4%81d%C4%81na) — Buddhist clinging and grasping as the result of craving; the Buddhist side of the Non-attachment comparison.
