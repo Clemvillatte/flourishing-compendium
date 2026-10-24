@@ -163,9 +163,9 @@ Festinger's definition:
 
 Grossmann's own list of the strategies:
 
-> "They include (a) intellectual humility or recognition of limits of own knowledge, (b) appreciation of perspectives broader than the issue at hand, (c) sensitivity to the possibility of change in social relations, and (d) compromise or integration of different opinions." ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf)) — Scholarly review; cited passage checked.
+> "They include (a) intellectual humility or recognition of limits of own knowledge, (b) appreciation of perspectives broader than the issue at hand, (c) sensitivity to the possibility of change in social relations, and (d) compromise or integration of different opinions." ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf))
 
-> "People vary dramatically in their likelihood of utilizing wise thought from one situation to the next." ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf)) — Scholarly review; cited passage checked.
+> "People vary dramatically in their likelihood of utilizing wise thought from one situation to the next." ([Grossmann 2017, Perspectives on Psychological Science](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf))
 
 ## Where the traditions genuinely disagree
 
@@ -173,7 +173,7 @@ Grossmann's own list of the strategies:
 
 The shared question: when a thought is hurting you, is the work to correct its content or to change your relationship to it? Cognitive therapy's answer, from the meta-analytic review of its core technique:
 
-> "One method that is hypothesized to play a role in the process of change across many psychotherapies is cognitive restructuring (CR), which refers to a set of techniques used to help clients identify, evaluate and correct inaccurate beliefs... Rather than being defined as a single method, CR refers to the collection of therapeutic techniques aimed at helping clients identify, challenge, and correct biased and maladaptive automatic interpretations of events." ([Ezawa and Hollon 2023, Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/)) — Scholarly review; cited passages checked.
+> "One method that is hypothesized to play a role in the process of change across many psychotherapies is cognitive restructuring (CR), which refers to a set of techniques used to help clients identify, evaluate and correct inaccurate beliefs... Rather than being defined as a single method, CR refers to the collection of therapeutic techniques aimed at helping clients identify, challenge, and correct biased and maladaptive automatic interpretations of events." ([Ezawa and Hollon 2023, Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/))
 
 The acceptance-and-commitment tradition's answer keeps the thought and moves the observer:
 

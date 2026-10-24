@@ -158,3 +158,9 @@ as a thing; per the voice rule it should be first-person or removed.
 
 Bridging: as with affect, the map sections are single-line attributed
 glosses; the reader cannot say what question each section answered.
+
+### Addendum (2026-10-25): three additional labels
+
+Three "Scholarly review; cited passage checked" labels (Grossmann
+2017 x2, Ezawa and Hollon 2023) were found in a later sweep and
+removed; inherited notes, not re-checked this session.

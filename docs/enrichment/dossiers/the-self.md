@@ -366,7 +366,7 @@ One title match was left out of the map as off-theme: [The self-evident](https:/
 
 ### Is there a permanent self?
 
-The shared question, stated narrowly: what can rightly be regarded as self? SN 22.59’s aggregate analysis answers by examination. Each aggregate, past or future, internal or external, is tested for ownership, and the test fails: “This is not mine. This is not my self. This is not what I am” (SN 22.59, quoted passage checked). That analysis locates no owner in the body or the mind. Advaita Vedānta, in Dalal’s account, runs an examination of its own and takes it to end elsewhere: in consciousness that is not an object. The entry describes the error as mutual superimposition: “We mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)” (SEP, cited passage checked).
+The shared question, stated narrowly: what can rightly be regarded as self? SN 22.59’s aggregate analysis answers by examination. Each aggregate, past or future, internal or external, is tested for ownership, and the test fails: “This is not mine. This is not my self. This is not what I am” (SN 22.59). That analysis locates no owner in the body or the mind. Advaita Vedānta, in Dalal’s account, runs an examination of its own and takes it to end elsewhere: in consciousness that is not an object. The entry describes the error as mutual superimposition: “We mutually superimpose consciousness on to our mind-body, and the mind-body on to consciousness (i.e., I am the mind-body, and the mind-body is I)” (SEP).
 
 The precise difference is what the examination is taken to find. SN 22.59’s analysis works through the contents of experience one by one and grants none of them the status of owner. Advaita holds that consciousness itself, the field in which all contents appear, is the one referent that is not a content. What remains unresolved, and what an essay can honestly leave open: whether the observing position that the practices below train is a final referent or one more event to be examined. The psychological research measures what the perspective does; it does not settle what the perspective is.
 
@@ -384,7 +384,7 @@ A caution worth carrying into any essay: four claims that sound alike and are no
 
 1. [Self-as-context](https://clemvillatte.github.io/flourishing-compendium/#card=K139%20%E2%80%94%20Self-as-context): when caught in a self-story, shifting attention from the story to the one who notices the story.
 
-The component evidence is thin, and the review that canvassed it says so in its own words: “there is only provisional but very limited evidence to suggest that SAC can be effectively taught and implemented as a stand-alone process to manage emotional well-being” (Godbee and Kangas 2020, quoted passage checked).
+The component evidence is thin, and the review that canvassed it says so in its own words: “there is only provisional but very limited evidence to suggest that SAC can be effectively taught and implemented as a stand-alone process to manage emotional well-being” (Godbee and Kangas 2020).
 
 2. [The observer question](https://clemvillatte.github.io/flourishing-compendium/#card=K140%20%E2%80%94%20The%20observer%20question): the periodic question “who is noticing?”, aimed at interrupting identification with thought.
 
@@ -406,7 +406,7 @@ The component evidence is thin, and the review that canvassed it says so in its 
 
 11. [Self-distanced reflection](https://clemvillatte.github.io/flourishing-compendium/#card=K261%20%E2%80%94%20Self-distanced%20reflection): writing about a difficult situation in the third person, the linguistic shift that creates psychological distance.
 
-The research behind it is quoted in the opening: self-distancing eliminated the own-versus-other asymmetry in wise reasoning across three experiments, N = 693 (Grossmann and Kross 2014, quoted passages checked).
+The research behind it is quoted in the opening: self-distancing eliminated the own-versus-other asymmetry in wise reasoning across three experiments, N = 693 (Grossmann and Kross 2014).
 
 12. [Future-self dialogue](https://clemvillatte.github.io/flourishing-compendium/#card=K322%20%E2%80%94%20Future-self%20dialogue): a letter from your future self, ten years out, about the decision you are facing.
 

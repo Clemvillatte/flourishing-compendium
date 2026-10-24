@@ -222,3 +222,10 @@ being treated as the new reference.
 - Deikman 1982 — Primary text
 - Hayes et al. 2013 — Scholarly review
 - Markus and Kitayama 1991 — Primary text
+
+### Addendum (2026-10-25): four additional inline labels
+
+Four inline parenthetical verification notes ("quoted passage
+checked" / "cited passage checked" inside citation parens: SN 22.59,
+SEP, Godbee and Kangas 2020, and one more) were found in a later
+sweep and removed; inherited notes, not re-checked this session.
