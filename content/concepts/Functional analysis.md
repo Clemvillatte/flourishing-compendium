@@ -7,7 +7,7 @@ file: "Functional analysis"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-the ABC (antecedent-behavior-consequence) of behavior (Hayes et al., 2020).
+Functional analysis asks what a behavior accomplishes for the person: which antecedent occasions set it off, and which consequences keep it coming back. Read behavior by its function rather than its form, and the next question becomes empirical — what, exactly, is this behavior doing?
 
 The methodology's review article states its focus plainly:
 
@@ -18,8 +18,6 @@ The methodology's review article states its focus plainly:
 The review's inclusion criteria show the method's discipline:
 
 > "Studies included in the present review were those in which (a) a pretreatment assessment based on (b) direct observation and measurement of (c) problem behavior was conducted under (d) at least two conditions involving manipulation of an environmental variable in an attempt (e) to demonstrate a relation between the environmental event and behavior." (Hanley, Iwata and McCord, [2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12858983/))
-
-Their review required direct observation of problem behavior under at least two conditions in which an environmental variable was manipulated ([Hanley et al., 2003 abstract](https://pubmed.ncbi.nlm.nih.gov/12858983/)).
 
 ## Facets
 
