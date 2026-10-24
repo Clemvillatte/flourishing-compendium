@@ -1,0 +1,13 @@
+{
+ "baton": "dos5",
+ "agent": "supervisor-pplx-1024c-dos5",
+ "clocked_in": "2026-10-24T05:16:15+00:00",
+ "takeovers": [
+  {
+   "by": "supervisor-pplx-1024c-dos5",
+   "at": "2026-10-24T05:16:15+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
