@@ -1501,7 +1501,22 @@
      "note": "story_check clean; Zhuangzi XIX + Classic of Purity opened and quoted verbatim"
     }
    ]
+  },
+  "s1a-048": {
+   "status": "ready",
+   "angle": "B060: Zhaozhou asks Nanquan for the Way — 'If you try to direct yourself toward it, you go away from it' (Mumonkan case 19)",
+   "history": [
+    {
+     "t": "2026-10-24T14:14:25+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:14:53+00:00",
+     "to": "ready",
+     "note": "story_check clean; Mumonkan 19 opened and quoted verbatim"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:14:17+00:00"
+ "updated": "2026-10-24T14:14:53+00:00"
 }
