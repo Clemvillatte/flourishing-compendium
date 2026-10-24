@@ -149,14 +149,15 @@ persistence, Sona Sutta, and the effort/energy/persistence/grit family.
 
 ## Open points for a revision pass
 
-- The Sona Sutta page's bracketed glosses were dropped from the quote;
-  a future pass could check whether the compendium's citation style
-  prefers keeping them.
+- The Sona Sutta page's bracketed glosses: resolved in revision 2; the
+  quote now keeps the translator's brackets and the word five, as
+  printed.
 - The Right effort concept card links [[The middle path]]; the map
   includes The middle path from the concepts folder. If the card's link
   target is a different file name, the checker's link resolution pass
   has it; no unresolved links at push time.
 - Duckworth's grit definition could be added as a verified quote in a
   revision pass by opening the Hou et al. 2021 meta-analysis PDF or
-  the primary JPSP PDF; not attempted this session for time, and the
-  divergence stands on the two opened primary texts.
+  the primary JPSP PDF; not attempted this session for time. The grit
+  gloss carries the card's own quoted abstract line and the 4% figure.
+  The divergence requirement remains UNFINISHED; see the header note.
