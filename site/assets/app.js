@@ -4861,6 +4861,1377 @@ window.fcDossiersData = {
       "group": "affective-life",
       "status": "published",
       "art": "assets/dossier-art/anger.jpg"
+    },
+    {
+      "id": "wisdom",
+      "title": "Wisdom",
+      "question": "What is wisdom doing when it judges, and can it be cultivated or only matured?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This dossier is a map, not an essay. A reader who asks \"what do the traditions and the research say wisdom is, and how does a person get any?\" can open it and see everything the compendium holds on the theme, grouped by the question each entry answers, with a link to each card. The lines are short on purpose; the dense arguments live on the cards. The compendium's wider aim runs through the page: to help a person tell wisdom from its look-alikes, such as cleverness, accumulated years or confident opinion, and to find practices that move a life toward the real thing."
+        },
+        {
+          "t": "p",
+          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "- Judgement and insight: held here under the map's judgement and insight groups; the closest anchors are [Reflective thinking](card:Reflective%20thinking) and [Insight research](card:Insight%20research). - Practical wisdom and phronesis: the same Aristotelian capacity under its English and Greek names, held by [Practical wisdom](card:Practical%20wisdom) and [Phronesis](card:Phronesis). - Flourishing: the life wisdom serves; the Genuine Flourishing dossier holds that question, and this one holds the capacity that steers toward it."
+        },
+        {
+          "t": "p",
+          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below."
+        },
+        {
+          "t": "h",
+          "x": "The map: every entry the wiki holds on wisdom"
+        },
+        {
+          "t": "h2",
+          "x": "What wisdom is"
+        },
+        {
+          "t": "p",
+          "x": "[Wisdom](card:Wisdom): the knowledge and judgment that experience is supposed to leave behind; the Berlin paradigm treats it as expertise in the fundamental pragmatics of life, and the wise-reasoning programme as metacognitive capacities people apply to social conflict."
+        },
+        {
+          "t": "p",
+          "x": "[Phronesis](card:Phronesis): Aristotle's virtue of practical wisdom: the capacity to deliberate well about what is good for oneself and for living well in general."
+        },
+        {
+          "t": "p",
+          "x": "[Practical wisdom](card:Practical%20wisdom): Aristotle's Book VI account, set beside Confucius: practical wisdom is not knowledge of general principles only, because action is concerned with particular details."
+        },
+        {
+          "t": "p",
+          "x": "[Sophia](card:Sophia): Aristotle's theoretical wisdom, a union of intuitive reason and scientific knowledge of the highest objects."
+        },
+        {
+          "t": "p",
+          "x": "[Prudence](card:Prudence): here Aristotle's practical wisdom, phronesis: a capacity for good deliberation connected with ethical virtue."
+        },
+        {
+          "t": "p",
+          "x": "[Prohairesis (deliberate choice)](card:Prohairesis%20%28deliberate%20choice%29): Aristotle's reasoned choice, joining desire for a goal with deliberation about action."
+        },
+        {
+          "t": "p",
+          "x": "[Wisdom theory Berlin paradigm](card:Wisdom%20theory%20Berlin%20paradigm): Baltes's account of wisdom as expert knowledge about the fundamental pragmatics of life: life planning, management and review."
+        },
+        {
+          "t": "p",
+          "x": "[Wise reasoning](card:Wise%20reasoning): Grossmann's programme: wisdom as a set of reasoning strategies people use, or fail to use, situation by situation, and not as a personality type."
+        },
+        {
+          "t": "p",
+          "x": "[Socioemotional wisdom](card:Socioemotional%20wisdom): the strength Erikson places at the end of the life cycle, won from the crisis of integrity versus despair."
+        },
+        {
+          "t": "p",
+          "x": "[Knowing-how versus knowing-that](card:Knowing-how%20versus%20knowing-that): Ryle's contrast between knowledge that shows in ability and knowledge that something is the case."
+        },
+        {
+          "t": "p",
+          "x": "[Knowing-how](card:Knowing-how): the kind of knowledge that shows in ability, in Ryle's The Concept of Mind (1949)."
+        },
+        {
+          "t": "p",
+          "x": "[Knowing-that](card:Knowing-that): the propositional side of Ryle's contrast, knowledge that can be true or false, stated and imparted."
+        },
+        {
+          "t": "p",
+          "x": "[Knowing by acquaintance](card:Knowing%20by%20acquaintance): direct knowledge by standing in the experience of a thing, not by holding a description of it."
+        },
+        {
+          "t": "h2",
+          "x": "Knowing the limits of what you know"
+        },
+        {
+          "t": "p",
+          "x": "[Socratic wisdom](card:Socratic%20wisdom): the wisdom Plato's Apology gives Socrates after the Delphic oracle: knowing that you do not know."
+        },
+        {
+          "t": "p",
+          "x": "[Socratic ignorance](card:Socratic%20ignorance): Socrates's profession at his trial that he does not know the things that matter most and, unlike others, does not think he does."
+        },
+        {
+          "t": "p",
+          "x": "[Intellectual humility](card:Intellectual%20humility): the recognition that one's beliefs might be wrong, in Leary and colleagues' 2017 paper."
+        },
+        {
+          "t": "p",
+          "x": "[Epistemic humility](card:Epistemic%20humility): the disposition psychology usually calls intellectual humility: treating one's own beliefs as possibly wrong."
+        },
+        {
+          "t": "p",
+          "x": "[Humility](card:Humility): in Tangney's review, not self-deprecation but an accurate assessment of one's characteristics."
+        },
+        {
+          "t": "p",
+          "x": "[Expressed humility](card:Expressed%20humility): humility as other people can see it and rate it, in organizations (Owens, Johnson and Mitchell)."
+        },
+        {
+          "t": "p",
+          "x": "[Relational humility](card:Relational%20humility): Davis and colleagues' model of humility as a judgment other people make about someone."
+        },
+        {
+          "t": "p",
+          "x": "[Leader humility](card:Leader%20humility): expressed humility improves team performance and psychological safety (Owens and Hekman, 2016)."
+        },
+        {
+          "t": "p",
+          "x": "[Openness and not knowing in skilled practice](card:Openness%20and%20not%20knowing%20in%20skilled%20practice): Ericsson: the key challenge for aspiring experts is to avoid the arrested development associated with automaticity."
+        },
+        {
+          "t": "p",
+          "x": "[The veil of ignorance](card:The%20veil%20of%20ignorance): Rawls's device in A Theory of Justice for a fair choice of first principles: the parties sit in an original position, stripped of knowledge of their own situation."
+        },
+        {
+          "t": "h2",
+          "x": "Wisdom in other traditions"
+        },
+        {
+          "t": "p",
+          "x": "[The portrait of the sage](card:The%20portrait%20of%20the%20sage): the Bhagavad Gita's chapter-twelve description of the person dear to Krishna, as a working checklist of dispositions."
+        },
+        {
+          "t": "p",
+          "x": "[Sameness of the sage](card:Sameness%20of%20the%20sage): Zhuangzi's Inner Chapters: the sage who sees past the quarrels of schools, each denying what the others affirm."
+        },
+        {
+          "t": "p",
+          "x": "[Timing as wisdom](card:Timing%20as%20wisdom): Daodejing 64 on when to act: at rest things are easy to maintain, and situations not yet emerged are easy to plan for."
+        },
+        {
+          "t": "p",
+          "x": "[Zhi zu (knowing sufficiency)](card:Zhi%20zu%20%28knowing%20sufficiency%29): the Daoist practice of knowing what is enough, from Daodejing 46."
+        },
+        {
+          "t": "p",
+          "x": "[Klesha transmuted into wisdom](card:Klesha%20transmuted%20into%20wisdom): the Tibetan Buddhist teaching that the afflictive emotions, the five poisons, can be turned into forms of wisdom."
+        },
+        {
+          "t": "p",
+          "x": "[Vipassana (insight)](card:Vipassana%20%28insight%29): clear-seeing; for Thanissaro Bhikkhu a quality of mind, not a technique."
+        },
+        {
+          "t": "p",
+          "x": "[Wise speech criteria](card:Wise%20speech%20criteria): the Buddha's test in MN 58 for what is worth saying: whether it is true, beneficial and pleasing."
+        },
+        {
+          "t": "p",
+          "x": "[Judging by where one rests](card:Judging%20by%20where%20one%20rests): Confucius, Analects 2.10: see what a man does, mark his motives, examine in what things he rests."
+        },
+        {
+          "t": "p",
+          "x": "[The wise man's indifference to reputation](card:The%20wise%20man%27s%20indifference%20to%20reputation): the Stoic claim that what others say is not among the things worth governing a life by."
+        },
+        {
+          "t": "p",
+          "x": "[Flexibility as virtue](card:Flexibility%20as%20virtue): the compendium's label for two aphorisms in Nietzsche's The Gay Science."
+        },
+        {
+          "t": "p",
+          "x": "[Discernment of spirits](card:Discernment%20of%20spirits): Ignatius's practice of reading one's inner movements to tell which lead toward the good."
+        },
+        {
+          "t": "h2",
+          "x": "Judgement, deliberation and insight"
+        },
+        {
+          "t": "p",
+          "x": "[Reflective thinking](card:Reflective%20thinking): Dewey's How We Think: belief whose grounds are deliberately sought and examined."
+        },
+        {
+          "t": "p",
+          "x": "[Experience plus reflection](card:Experience%20plus%20reflection): the compendium's label for Dewey's pairing: each is incomplete without the other."
+        },
+        {
+          "t": "p",
+          "x": "[Deliberation as rehearsal](card:Deliberation%20as%20rehearsal): Dewey in Human Nature and Conduct: when action is blocked, competing habits and impulses are tried out in imagination before overt action."
+        },
+        {
+          "t": "p",
+          "x": "[Immediate and reflective value](card:Immediate%20and%20reflective%20value): Dewey's distinction between value that simply occurs and value that survives inquiry."
+        },
+        {
+          "t": "p",
+          "x": "[Judgment adds the harm](card:Judgment%20adds%20the%20harm): the Stoic claim, from Enchiridion 5, that people are disturbed by their opinions about events, not by the events."
+        },
+        {
+          "t": "p",
+          "x": "[Emotions as judgments](card:Emotions%20as%20judgments): the cognitivist theory, following the Stoics, that an emotion is a judgment: anger at someone is the judgment that one has been wronged by them."
+        },
+        {
+          "t": "p",
+          "x": "[Pre-commitment as wisdom](card:Pre-commitment%20as%20wisdom): Seneca's counsel on timing: an emotion is weak at the threshold and strong once it has entered, so the wise act happens early."
+        },
+        {
+          "t": "p",
+          "x": "[Hope tempered by prudence](card:Hope%20tempered%20by%20prudence): the wiki's label for a pattern in Seneca and Epictetus: hope is something to weigh, because it travels with fear."
+        },
+        {
+          "t": "p",
+          "x": "[Perspective-taking](card:Perspective-taking): the effort to see a situation from another person's point of view; the card treats it as a trainable skill and weighs it against Eyal, Steffel and Epley's study."
+        },
+        {
+          "t": "p",
+          "x": "[Perspective-getting](card:Perspective-getting): obtaining another person's perspective directly by asking and listening."
+        },
+        {
+          "t": "p",
+          "x": "[Insight research](card:Insight%20research): Kounios and Beeman's review: insight is a sudden reinterpretation that produces a nonobvious, nondominant interpretation."
+        },
+        {
+          "t": "p",
+          "x": "[Insight problem-solving](card:Insight%20problem-solving): solving by sudden reinterpretation instead of step-by-step search."
+        },
+        {
+          "t": "p",
+          "x": "[The wisdom of crowds](card:The%20wisdom%20of%20crowds): the finding that a group's aggregated judgment can beat most of its individual members."
+        },
+        {
+          "t": "h2",
+          "x": "Virtue and character"
+        },
+        {
+          "t": "p",
+          "x": "[Virtue](card:Virtue): excellence of character, a stable disposition to feel, choose and act well, acquired through habituation."
+        },
+        {
+          "t": "p",
+          "x": "[Cardinal virtues](card:Cardinal%20virtues): the four hinge virtues of the classical and scholastic tradition: prudence, justice, fortitude and temperance."
+        },
+        {
+          "t": "p",
+          "x": "[The doctrine of the mean](card:The%20doctrine%20of%20the%20mean): the claim, shared by Aristotle and the Confucian tradition, that virtue aims at the intermediate between excess and deficiency."
+        },
+        {
+          "t": "p",
+          "x": "[The catalogue of virtues](card:The%20catalogue%20of%20virtues): Aristotle's table in Nicomachean Ethics II.7 of the character virtues as means between two vices."
+        },
+        {
+          "t": "p",
+          "x": "[The unity of the virtues](card:The%20unity%20of%20the%20virtues): the thesis, from Plato's Protagoras and reworked by Aristotle, that the virtues come together and are not separate talents."
+        },
+        {
+          "t": "p",
+          "x": "[Natural virtue](card:Natural%20virtue): Aristotle's name for dispositions people seem to have from birth, set against virtue in the strict sense."
+        },
+        {
+          "t": "h2",
+          "x": "How wisdom is built"
+        },
+        {
+          "t": "p",
+          "x": "[Virtue development research](card:Virtue%20development%20research): how stable virtuous traits are acquired; Sanderse on the neo-Aristotelian mechanism of habituation."
+        },
+        {
+          "t": "p",
+          "x": "[The rehearsal of virtue](card:The%20rehearsal%20of%20virtue): how Stoic practice turns understanding into character by running it through action, from Seneca's Letter 94."
+        },
+        {
+          "t": "p",
+          "x": "[Deliberate practice](card:Deliberate%20practice): Ericsson's term for activities designed to improve current performance, with specific goals and immediate feedback."
+        },
+        {
+          "t": "p",
+          "x": "[Reflective practice](card:Reflective%20practice): the ability to reflect on one's thoughts, actions, decisions and assumptions in order to improve one's own practice and judgment."
+        },
+        {
+          "t": "p",
+          "x": "[Journaling as self-reflection](card:Journaling%20as%20self-reflection): the expressive-writing tradition Pennebaker began, with a meta-analysis of 146 randomized studies."
+        },
+        {
+          "t": "p",
+          "x": "[Death reflection](card:Death%20reflection): the construct distinguishing a vivid contemplation of one's own death from abstract mortality salience."
+        },
+        {
+          "t": "p",
+          "x": "[Future time perspective](card:Future%20time%20perspective): the habit of orienting attention toward the future, from Zimbardo and Boyd's 1999 paper."
+        },
+        {
+          "t": "p",
+          "x": "[Designing for virtue](card:Designing%20for%20virtue): the design-research idea that products and environments can support virtuous behaviour."
+        },
+        {
+          "t": "h2",
+          "x": "The thinkers"
+        },
+        {
+          "t": "p",
+          "x": "[Aristotle](card:T002%20%E2%80%94%20Aristotle): Greek philosopher and author of the Nicomachean Ethics, whose Book VI holds the standard account of phronesis and sophia."
+        },
+        {
+          "t": "p",
+          "x": "[Socrates](card:T011%20%E2%80%94%20Socrates): the philosopher whose profession of ignorance at his trial gave the West its best-known picture of wisdom as awareness of limits."
+        },
+        {
+          "t": "p",
+          "x": "[Dewey](card:T005%20%E2%80%94%20Dewey%2C%20John): the pragmatist whose accounts of reflective thinking and deliberation recur in the judgement group."
+        },
+        {
+          "t": "h2",
+          "x": "The stories"
+        },
+        {
+          "t": "p",
+          "x": "[152. Socrates and the Oracle](card:ST152%20%E2%80%94%20Socrates%20and%20the%20Oracle): the oracle's verdict that no one is wiser than Socrates, and what he made of it."
+        },
+        {
+          "t": "p",
+          "x": "[158. Solomon's Judgement](card:ST158%20%E2%80%94%20Solomon%27s%20Judgement): two women claim one infant, and Solomon's order to divide the child reveals which of them is the mother; the canonical case of judgement."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is there one wisdom, or two?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: is the wisdom of the contemplative the same excellence as the wisdom of the person who acts well in a hard situation? Aristotle splits them. Sophia knows the highest and unchanging things:"
+        },
+        {
+          "t": "q",
+          "x": "\"Therefore wisdom must be intuitive reason combined with scientific knowledge-scientific knowledge of the highest objects which has received as it were its proper completion.\" ([Aristotle, Nicomachean Ethics VI.7, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Practical wisdom works on a different object, and Aristotle uses a plain contrast to say so:"
+        },
+        {
+          "t": "q",
+          "x": "\"any one would say that what is wise is the same but what is practically wise is different\" ([Aristotle, Nicomachean Ethics VI.7](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Modern psychology sides with the practical branch. The Berlin paradigm defines wisdom as \"an expert knowledge system concerning the fundamental pragmatics of life\", covering \"knowledge and judgment about the meaning and conduct of life\" ([Baltes and Staudinger, American Psychologist 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. The classical contemplative ideal of wisdom, knowledge of the highest things, drops out of the research definition. What stays open is whether a life needs both kinds, and whether the contemplative kind steadies the practical one or competes with it for a person's time. The sources above do not settle it."
+        },
+        {
+          "t": "h2",
+          "x": "Can a clever person be wise without being good?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: is wisdom a skill for reaching goals, or does it include choosing good goals? Aristotle separates wisdom from mere skill at getting what one aims at:"
+        },
+        {
+          "t": "q",
+          "x": "\"Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness; hence we call even men of practical wisdom clever or smart.\" ([Aristotle, Nicomachean Ethics VI.12](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "He then ties the two together in both directions:"
+        },
+        {
+          "t": "q",
+          "x": "\"It is clear, then, from what has been said, that it is not possible to be good in the strict sense without practical wisdom, nor practically wise without moral virtue.\" ([Aristotle, Nicomachean Ethics VI.13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Baltes and Staudinger keep the link in their own phrase: wisdom as a metaheuristic \"that organizes and orchestrates knowledge toward human excellence in mind and virtue, both individually and collectively\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. Grossmann's account of wise thinking, in contrast, names aspects of thinking: \"intellectual humility, recognition of uncertainty and change\" ([Grossmann 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/)): Secondary source; quoted passage checked. Whether a person who reasons that way but chooses badly would count as wise is a question these abstracts leave open."
+        },
+        {
+          "t": "h2",
+          "x": "Is wisdom something you have, or knowing that you lack it?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: does a wise person hold a large store of knowledge, or hold a particular stance toward what they know? Socrates puts the stance first. In Jowett's rendering of the oracle's meaning:"
+        },
+        {
+          "t": "q",
+          "x": "\"He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing.\" ([Plato, Apology, Jowett translation](https://classics.mit.edu/Plato/apology.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Daodejing says something close, and names the opposite error a disease:"
+        },
+        {
+          "t": "q",
+          "x": "\"To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease.\" ([Laozi, Daodejing 71, Legge translation](https://www.gutenberg.org/files/216/216-h/216-h.htm)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The Berlin paradigm builds uncertainty into the definition as one of five criteria: \"recognition and management of uncertainty\" ([Baltes and Staudinger 2000, abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/)): Secondary source; quoted passage checked. The traditions and the research agree that knowing one's limits belongs to wisdom. They differ on weight. For Socrates it is close to the whole of human wisdom; for the expertise model it is one criterion beside rich factual and procedural knowledge."
+        },
+        {
+          "t": "h2",
+          "x": "Is wisdom a trait, or something a situation draws out?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: when we call a person wise, are we describing them or their circumstances? The Berlin tradition measured it as a feature of the person, scored from think-aloud answers to life problems. Grossmann's review argues the evidence points elsewhere:"
+        },
+        {
+          "t": "q",
+          "x": "\"Empirical evidence indicates that people's ability to think wisely varies dramatically across experiential contexts that they encounter over the life span. Moreover, wise thinking varies from one situation to another, with self-focused contexts inhibiting wise thinking.\" ([Grossmann, Wisdom in Context, Perspectives on Psychological Science 2017, abstract](https://www.psychologicalscience.org/journals/perspectives/1745691616672066/)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "A specific finding: across three experiments (N = 693), participants reasoned more wisely about another person's problems than their own, and self-distancing removed the gap. The authors add that \"contrary to the adage 'with age comes wisdom,' our findings suggest that there are no age differences in wise reasoning about personal conflicts\" ([Grossmann and Kross, Psychological Science 2014, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797614535400)): Secondary source; quoted passage checked. That result concerns reasoning about personal conflicts, in the measures used, and does not show that life experience adds nothing to wisdom in general. What it does show is that the same person reasons differently in different positions, which is a reason to treat wisdom as partly a matter of where one stands when one thinks."
+        },
+        {
+          "t": "h2",
+          "x": "Can wisdom be taught, or only grown into?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: if wisdom matters, what builds it? The neo-Aristotelian answer starts with character:"
+        },
+        {
+          "t": "q",
+          "x": "\"Full virtue and practical wisdom comprise the end of neo-Aristotelian moral development, but wisdom cannot be cultivated straight away through arguments and teaching.\" ([Sanderse, Journal of Moral Education, abstract](https://www.tandfonline.com/doi/full/10.1080/03057240.2018.1497952)): Secondary source; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The abstract goes on to say wisdom \"is integrated with, and builds upon, habituation\". The experimental answer is that a brief, structured practice can raise wise reasoning. In two preregistered experiments (total N = 555), people who reflected in the third person in a month-long diary showed \"a significant increase in wise reasoning about interpersonal challenges\" compared with before the intervention ([Grossmann and colleagues, Psychological Science 2021, abstract](https://journals.sagepub.com/doi/abs/10.1177/0956797620969170)): Secondary source; quoted passage checked. In the earlier two-experiment study, cueing people to reason about personal issues from a distanced perspective enhanced wise reasoning, attitudes and behavior ([Kross and Grossmann, Journal of Experimental Psychology: General 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/21728454/)): Secondary source; quoted passage checked. The two claims are about different things. One concerns the formation of a person's character over years; the other concerns scores on a reasoning measure after a short practice. Neither abstract says the other is wrong."
+        },
+        {
+          "t": "h2",
+          "x": "Does wisdom follow rules, or does it set them?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question: could wisdom be written down as a procedure? Aristotle defines virtue by a standard that involves the wise person:"
+        },
+        {
+          "t": "q",
+          "x": "\"Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it.\" ([Aristotle, Nicomachean Ethics II.6](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)): Primary text; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The definition leans on the person of practical wisdom to say what the mean is, so it cannot serve as a rule applied from outside. In Book VI he adds that wisdom is not a craft: \"Plainly, then, practical wisdom is a virtue and not an art\" ([Aristotle, Nicomachean Ethics VI.5](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)): Primary text; quoted passage checked. Readers sometimes treat the circle in the definition as a flaw. It can also be read as the point: judgment of this kind has no procedure behind it that could stand in for it. How far that is true, and how much of practical judgment can be supported by checklists and prompts, is open in the sources held here."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying is the position from which a problem is seen. The look-alikes of wisdom share a shape: cleverness aimed at a bad mark, confident opinion with no sense of its limits, and reasoning that gets worse exactly when the stakes are personal. The adaptive moves are to change viewpoint, slow down, ask, and look back at what happened."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Wise-reasoning prompts](card:K260%20%E2%80%94%20Wise-reasoning%20prompts): four questions for a troubling situation: how it could unfold, what the perspectives are, how your own interests might bias the view, what a wise friend would advise."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Self-distanced reflection](card:K261%20%E2%80%94%20Self-distanced%20reflection): write about a difficult situation in the third person."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Perspective-taking](card:K131%20%E2%80%94%20Perspective-taking): step into another position and see what the others conceal."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Perspective-getting](card:K218%20%E2%80%94%20Perspective-getting): when you assume you know what someone thinks, ask."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Deliberation timeout](card:K264%20%E2%80%94%20Deliberation%20timeout): a mandatory wait of one to three days on decisions above a set threshold."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Impression-judgement-action log](card:K266%20%E2%80%94%20Impression-judgement-action%20log): a one-week three-column log separating what appeared, what you judged, and what you did."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[Post-action phronesis review](card:K263%20%E2%80%94%20Post-action%20phronesis%20review): after a significant action, ask what you intended, what happened, where the gap came from, and what you would do differently."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[The mean calibration](card:K253%20%E2%80%94%20The%20mean%20calibration): for one virtue, track the excess and the deficiency and rate where each situation landed."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[The unity-of-virtue drill](card:K256%20%E2%80%94%20The%20unity-of-virtue%20drill): take a decision from this week and ask whether expressing one virtue required suppressing another."
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[Role-conflict deliberation](card:K283%20%E2%80%94%20Role-conflict%20deliberation): when two roles conflict, write down what each demands and ask what a person of practical wisdom would do."
+        },
+        {
+          "t": "n",
+          "i": 11,
+          "x": "[Professional phronesis](card:K360%20%E2%80%94%20Professional%20phronesis): for a recurring decision, ask when following the rule would produce a worse outcome than using judgement."
+        },
+        {
+          "t": "n",
+          "i": 12,
+          "x": "[The deliberative practice](card:K363%20%E2%80%94%20The%20deliberative%20practice): in a group decision, hear every voice before the verdict."
+        },
+        {
+          "t": "n",
+          "i": 13,
+          "x": "[Virtue journaling](card:K255%20%E2%80%94%20Virtue%20journaling): one sentence each evening on the virtue you practised and how."
+        },
+        {
+          "t": "n",
+          "i": 14,
+          "x": "[Deliberate practice](card:K179%20%E2%80%94%20Deliberate%20practice): structured practice with a clear goal and immediate feedback."
+        },
+        {
+          "t": "n",
+          "i": 15,
+          "x": "[Life review](card:K232%20%E2%80%94%20Life%20review): review the life in chapters, noting turning points and what each taught."
+        },
+        {
+          "t": "p",
+          "x": "The evidence limits are uneven across the list. The life review (K232) borrows a method tested mostly with older adults and guided by trained facilitators, and its chapter layout is an adaptation. The distancing practices (K261, K260) lean on the experiments quoted above; the prompts in K260 are, by the card's own note, editorial questions informed by the research and not the instrument itself; the professional and role-conflict exercises are proposals and not tested protocols. Each card carries its own evidence note, and those notes are worth reading before relying on any of them."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them. A reader who keeps the evening look back, or the habit of asking before assuming, or the three-day wait, has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
+        }
+      ],
+      "group": "flourishing",
+      "status": "published",
+      "art": "assets/dossier-art/wisdom.jpg"
+    },
+    {
+      "id": "affect",
+      "title": "Affect: the domain of feeling, and what can be done with it",
+      "question": "When the feelings are already here — what are they made of, how are they mapped, and how much of them can be worked with?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Affect is the half of psychology that arrives before thinking: moods, emotions, visceral pulls, the weather of the inner life. This dossier is the map of everything the compendium holds on that domain, from the classic questions — does the body run ahead of the feeling (James-Lange), are emotions universal packages (Ekman) or constructed interpretations (Russell, Barrett) — to the practical programmes that treat feeling as something regulable, differentiable, and shared between people. The Attention and Cognition dossiers cover what awareness selects and what thinking does; this one covers the material both of them work on."
+        },
+        {
+          "t": "p",
+          "x": "How to read this page: each entry is a link into the compendium's own explanation of that item, in the voice its author wrote. The one-line summaries here are orientation, not claims of their own; the fuller statements live on the linked pages, each carrying its own sources. Where the page quotes directly, the passage has been checked word-for-word against the linked carrier."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "- [Affect](card:Affects) is the umbrella term; [Emotion](card:Basic%20emotion%20theory) is one family of affect theory. - The Cognition dossier's [Affect heuristic](card:Affect%20heuristic) entry maps the same-named card from the judgment side; both are listed here. - Feelings that arrive without an object shade into [Attention](card:Attention), whose dossier covers the selection of what is felt. - The contribution of feeling to a life going well is treated in the flourishing dossiers — see [Common flourishing](card:Common%20flourishing) and [Eudaimonic well-being](card:Eudaimonic%20well-being)."
+        },
+        {
+          "t": "h",
+          "x": "The map: every entry the wiki holds on affect"
+        },
+        {
+          "t": "h2",
+          "x": "The oldest questions about feeling"
+        },
+        {
+          "t": "p",
+          "x": "- [Affects](card:Affects): Spinoza's Ethics defines an affect as a state of the body's power of acting, increased or lessened, together with the idea of that state — the feeling as a fact about capacity. - [James-Lange theory of emotion](card:James-Lange%20theory%20of%20emotion): William James's 1884 proposal that the perception comes first, the bodily change second, and the emotion is the feeling of that change — the body runs ahead of the feeling. - [Emotion as construction](card:Emotion%20as%20construction): the compendium's Nietzsche label — The Gay Science 290, giving one's character the look of an affect — emotional life as something a person works on rather than merely undergoes. - [Emotions as judgments](card:Emotions%20as%20judgments): the Stoic-cognitivist line — anger at someone is the judgment that one has been wronged by them. - [Fellow feeling](card:Fellow%20feeling): the eighteenth-century sentimentalist name for the tendency to catch others' emotions; Hume's sympathy as the mechanism of Book III of the Treatise. - [Distinguishing feeling from fact](card:Distinguishing%20feeling%20from%20fact): the Stoic distinction between things and judgements about them, applied to feelings and their interpretations."
+        },
+        {
+          "t": "h2",
+          "x": "How the feelings are structured"
+        },
+        {
+          "t": "p",
+          "x": "- [Basic emotion theory](card:Basic%20emotion%20theory): a small number of emotions — anger, fear, disgust, sadness, enjoyment — as universal, biologically grounded, distinct in expression and function; Ekman's families of related states. - [Circumplex model of affect](card:Circumplex%20model%20of%20affect): Russell's 1980 alternative to the list — two axes, valence and activation, every emotional state a point in the plane. - [Embodied emotion theory](card:Embodied%20emotion%20theory): emotional processing draws on re-enactments of affective, sensory and motor states — the feeling rebuilt from the body's records. - [Component Process Model of Emotion](card:Component%20Process%20Model%20of%20Emotion): Scherer's account of emotion as an episode of synchronized change produced by a sequence of appraisal checks. - [Functional accounts of emotion](card:Functional%20accounts%20of%20emotion): the family of theories — Keltner and Gross the framing — that explain emotions by what they do. - [Positive emotions research](card:Positive%20emotions%20research): Fredrickson's broaden-and-build programme — positive emotion widens the momentary thought-action repertoire and builds lasting resources. - [Mixed emotions theory Miyamoto](card:Mixed%20emotions%20theory%20Miyamoto): Japan and the United States compared on how readily opposites are felt together. - [Emotional granularity](card:Emotional%20granularity) and [Emotion differentiation](card:Emotion%20differentiation): how finely a person distinguishes among their own feelings — the fineness that predicts better regulation. - [Emotion awareness](card:Emotion%20awareness): Lane and Schwartz's five structural levels of the ability to process emotion — a cognitive-developmental ladder."
+        },
+        {
+          "t": "h2",
+          "x": "Feeling as a moving target"
+        },
+        {
+          "t": "p",
+          "x": "- [Affective chronometry](card:Affective%20chronometry): Davidson's study of the temporal profile of emotional response — how fast an emotion rises, how long it lasts. - [Affective dynamics framework](card:Affective%20dynamics%20framework): emotion as a time series rather than a score — the average matters, and so does the fluctuation. - [Emotional inertia theory](card:Emotional%20inertia%20theory): how strongly earlier emotional states predict later ones — the resistance to emotional change. - [Fading affect bias](card:Fading%20affect%20bias): memory's quiet mercy — the intensity of unpleasant events fades faster than that of pleasant ones. - [Affective forecasting](card:Affective%20forecasting): Wilson and Gilbert's account of predictions about one's own future feelings, and the errors they reliably contain. - [Anticipatory affect](card:Anticipatory%20affect): Loewenstein's visceral factors — the feeling state that arrives before the outcome and bends decisions. - [Mood-congruent memory](card:Mood-congruent%20memory): Bower's 1981 family of hypotheses — affect biases recall toward affectively congruent material."
+        },
+        {
+          "t": "h2",
+          "x": "What feeling does to thinking"
+        },
+        {
+          "t": "p",
+          "x": "- [Affect as information](card:Affect%20as%20information): Schwarz's feelings-as-information account — people consult their current feelings when judging, as in the sunny-day life-satisfaction result. - [Affect heuristic](card:Affect%20heuristic): Finucane, Alhakami, Slovic and Johnson's term for the finding that feelings about an object drive judgments of its risk and benefit — the inverse relation the world does not have. - [Affect labeling](card:Affect%20labeling): putting a feeling into words as it occurs — the 2007 neuroimaging result that labeling reduces amygdala reactivity. - [Moral emotions](card:Moral%20emotions): Tangney and colleagues' review — the emotions that link moral standards to moral behavior. - [Affective disposition theory](card:Affective%20disposition%20theory): Zillmann and Cantor's account of media enjoyment — we like seeing liked characters succeed and disliked ones suffer."
+        },
+        {
+          "t": "h2",
+          "x": "Regulating and shaping feeling"
+        },
+        {
+          "t": "p",
+          "x": "- [Emotion regulation](card:Emotion%20regulation): Gross's definition — the processes by which we influence which emotions we have, when we have them, and how we experience and express them. - [Process model of emotion regulation Gross](card:Process%20model%20of%20emotion%20regulation%20Gross): the five points of regulation — situation selection, situation modification, attentional deployment, cognitive change, response modulation. - [Extended process model of emotion regulation](card:Extended%20process%20model%20of%20emotion%20regulation): the later Gross — regulation as something you decide to do: noticing, choosing, carrying out. - [Mid-level emotion regulation](card:Mid-level%20emotion%20regulation): the strategies deployed in the moment, which the evidence favors over suppression and venting. - [Emotional suppression theory Butler Gross](card:Emotional%20suppression%20theory%20Butler%20Gross): instructed suppression raising blood pressure in regulators and partners — suppression as a cost paid socially. - [Dialectical behaviour therapy, emotion modulation](card:Dialectical%20behaviour%20therapy%2C%20emotion%20modulation): Linehan's skills module for emotions that fire easily, hit hard and take long to subside. - [Action precedes feeling](card:Action%20precedes%20feeling) and [Action before feeling](card:Action%20before%20feeling): the double tradition — Aristotle's virtues acquired by doing the acts, and James's body moving before the feeling forms. - [Ideal affect theory Tsai](card:Ideal%20affect%20theory%20Tsai): affect valuation theory — cultures differ in the emotions they value and want to feel; people act to move toward their ideal affect."
+        },
+        {
+          "t": "h2",
+          "x": "Feeling between people"
+        },
+        {
+          "t": "p",
+          "x": "- [Emotional contagion](card:Emotional%20contagion): Hatfield's moment-to-moment transmission between people in contact, and Christakis and Fowler's network patterns of mood and behavior. - [Group affective synchronisation](card:Group%20affective%20synchronisation): Barsade's group emotional contagion — the transfer of moods among people in a group and its influence on group dynamics. - [Co-regulation of affect in relationships](card:Co-regulation%20of%20affect%20in%20relationships): Butler and Randall's dyadic emotional system — partners regulating each other's affect rather than only their own."
+        },
+        {
+          "t": "h2",
+          "x": "Sayings"
+        },
+        {
+          "t": "p",
+          "x": "- [Beware the moods of the many](card:Beware%20the%20moods%20of%20the%20many): the group-affect warning — moods move through crowds, and the crowd's mood is not a verdict."
+        },
+        {
+          "t": "h2",
+          "x": "Kernels"
+        },
+        {
+          "t": "p",
+          "x": "- [Low emotional response](card:K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; calm is contagious in both directions. - [Affect labeling](card:K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not \"stressed\" but \"tight chest, dread, buzzing\"; fine-grained labeling reduces amygdala reactivity. - [Feeling-tone pass](card:K160%20%E2%80%94%20Feeling-tone%20pass): three times daily, name the tone of the moment as pleasant, unpleasant or neutral, before any story about it. - [Emotional writing](card:K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four days in a row, unedited — the act of putting experience into language reducing its intensity. - [Body-first emotion work](card:K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body — tension, temperature, texture; the body often knows first."
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Is an emotion a universal package, or a construction?"
+        },
+        {
+          "t": "p",
+          "x": "The field's oldest live disagreement. The basic-emotion line, in Paul Ekman's 1993 statement of the research programme:"
+        },
+        {
+          "t": "q",
+          "x": "\"We each found high agreement across members of diverse Western and Eastern literate cultures in selecting emotion terms that fit facial expressions.\" \"Distinctive universal expressions have been identified for anger, fear, disgust, sadness, and enjoyment.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "Ekman concludes the research supports conceiving \"of emotions as separate discrete states, such as fear, anger, and disgust, rather than simply as positive versus negative states or even more simply as differing only in respect to arousal.\" ([Ekman 1993](https://www.cl.cam.ac.uk/~pr10/iui/ekman93.pdf), Psychological Science; award address; quoted passages checked, pp. 384-387)",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The circumplex and constructionist line answers from the other side — that the discrete packages dissolve under measurement into dimensions and interpretation:"
+        },
+        {
+          "t": "q",
+          "x": "\"Investigations of the subjective, or experiential, components of emotion, rather than supporting a one to one correspondence between a discrete emotion and an underlying neural system, have instead suggested that emotions arise from cognitive interpretations of core physiological experiences.\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "Posner, Russell and Peterson propose instead that \"all affective states arise from two independent neurophysiological systems,\" the valence and arousal systems ([Posner, Russell and Peterson 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC2367156/), Development and Psychopathology; scholarly review; cited passages checked).",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The disagreement is not about data — both sides read the same universality findings — but about what the data are evidence of: evolved packages with distinctive signals, or a dimensional core that cultures and contexts carve into named states. James's old hypothesis sits underneath both, turned to opposite uses: the body-first account read literally (the bodily change is the emotion) or read constructively (the feeling is an interpretation of bodily signal):"
+        },
+        {
+          "t": "q",
+          "x": "\"Common sense says, we lose our fortune, are sorry and weep; we meet a bear, are frightened and run; we are insulted by a rival, are angry and strike. The hypothesis here to be defended says that this order of sequence is incorrect, that the one mental state is not immediately induced by the other, that the bodily manifestations must first be interposed between, and that the more rational statement is that we feel sorry because we cry, angry because we strike, afraid because we tremble\"",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": ">"
+        },
+        {
+          "t": "q",
+          "x": "([James 1884](https://psychclassics.yorku.ca/James/emotion.htm), Mind; primary text; quoted passage checked, the source's closing comma omitted)",
+          "s": null
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "Work the map's breadth before committing to a single technique — the sayings warn that moods move through groups; the chronometry and dynamics entries warn that the same emotion behaves differently at different time-scales; the contagion and co-regulation entries show the feeling is not contained by the person feeling it."
+        },
+        {
+          "t": "p",
+          "x": "::Selection::"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Affect labeling](card:K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not \"stressed\" but \"tight chest, dread, buzzing\"; fine-grained labeling reduces amygdala reactivity and improves regulation."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Feeling-tone pass](card:K160%20%E2%80%94%20Feeling-tone%20pass): three times daily, name the tone of this moment as pleasant, unpleasant or neutral, before any story about it."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Emotional writing](card:K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four consecutive days, uncensored — putting experience into language reduces its intensity and improves health outcomes."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Body-first emotion work](card:K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body — where is the tension, what is the temperature, what is the texture."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Low emotional response](card:K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; do not match the other person's escalation."
+        },
+        {
+          "t": "p",
+          "x": "Evidence limits: the labeling and writing practices carry neuroimaging and expressive-writing results respectively, at the scale of small laboratory studies; the DBT module sits inside a treatment-trial literature for its clinical population; the feeling-tone practice is a modern mindfulness-derived exercise, not an outcome-tested protocol; the co-regulation and contagion literatures are largely correlational outside the laboratory; and the circumplex-versus-basic-emotion disagreement remains unresolved at the level of theory, so no practice selection can be said to follow from one side alone."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Any of these that changes how quickly an emotion is named, or how long it outlasts its trigger, earns a place; the chronometry and dynamics entries are the natural measurement tools for checking what a practice has changed."
+        }
+      ],
+      "group": "eemm",
+      "status": "published",
+      "art": "assets/dossier-art/affect.jpg"
+    },
+    {
+      "id": "attention",
+      "title": "Attention",
+      "question": "What is attention, what does it cost, and what does it build?",
+      "intro": [],
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Open this page wanting to think about attention, and the whole spread of what the compendium holds on it is here: every entry that bears on the theme, grouped by the question it answers, each with a card link. The lines are short on purpose; the dense arguments live on the cards. The editorial aim running through the compendium also runs through this page: to treat attention as the place a life is lived, and to loosen the grip of whatever pulls it away."
+        },
+        {
+          "t": "p",
+          "x": "How to read this page. Each line gives the entry's own opening claim, compressed from the entry itself. Evidence notes in this dossier describe the quoted passages only; a checked quotation certifies the passage, not the whole linked page. Every concept card carries onward to the practice principles that cite it, so the map needs no separate principle index."
+        },
+        {
+          "t": "h2",
+          "x": "Nearby terms"
+        },
+        {
+          "t": "p",
+          "x": "The words around this theme that the wiki holds elsewhere, so the reader can go where their question actually lives:"
+        },
+        {
+          "t": "p",
+          "x": "- Concentration: the contemplative account of collectedness is held by [Right concentration](card:Right%20concentration), and the training territory sits inside this dossier's map, not in a separate one. - Focus: the visual-metaphor side is [Focus theory of attention](card:Focus%20theory%20of%20attention) and the spotlight entries; Gendlin's practice of a different name is [Focusing](card:Focusing). - Mind-wandering: held as its own object of study by [Mind wandering](card:Mind%20wandering), and treated here as part of attention's life rather than its opposite. - Absorption: the states are [Flow](card:Flow), [Effortless attention](card:Effortless%20attention) and [Hyperfocus theory](card:Hyperfocus%20theory)."
+        },
+        {
+          "t": "p",
+          "x": "These groupings are editorial; the settled distinctions, where the sources draw them, are quoted in the entries below."
+        },
+        {
+          "t": "h",
+          "x": "The map: every entry the wiki holds on attention"
+        },
+        {
+          "t": "h2",
+          "x": "What attention is taken to be"
+        },
+        {
+          "t": "p",
+          "x": "[Attention](card:Attention): the selection and sustaining of awareness; William James's classic definition and the experiential weight he gave it."
+        },
+        {
+          "t": "p",
+          "x": "[Spotlight model of attention](card:Spotlight%20model%20of%20attention): Posner's 1980 account of covert orienting, attention as a beam that can be moved across the visual field."
+        },
+        {
+          "t": "p",
+          "x": "[Spotlight vs floodlight attention](card:Spotlight%20vs%20floodlight%20attention): the aperture metaphor: attention narrowed to a detail or broadened to the whole, with different consequences for what is seen."
+        },
+        {
+          "t": "p",
+          "x": "[Attentional breadth global vs local processing](card:Attentional%20breadth%20global%20vs%20local%20processing): the spatial extent over which attention is applied, from Goodhew's working definition."
+        },
+        {
+          "t": "p",
+          "x": "[Posner's three-network model](card:Posner%27s%20three-network%20model): Posner and Petersen's 1990 division of the brain's attention system into three anatomically distinct networks, alerting, orienting and executive, restated in their 2012 update."
+        },
+        {
+          "t": "p",
+          "x": "[Attentional flexibility (set-shifting)](card:Attentional%20flexibility%20%28set-shifting%29): the executive capacity to disengage from one mental set and take up another as demands change; Diamond's third core function, alongside inhibition and working memory."
+        },
+        {
+          "t": "p",
+          "x": "[Executive function theory Miyake](card:Executive%20function%20theory%20Miyake): the three functions tested in Miyake and Friedman's 2000 study, inhibition, shifting and updating, correlated yet separable."
+        },
+        {
+          "t": "p",
+          "x": "[Focus theory of attention](card:Focus%20theory%20of%20attention): the attended stimulus dominates awareness and processing; includes Eriksen and St. James's zoom-lens model."
+        },
+        {
+          "t": "p",
+          "x": "[Two modes of attentional control](card:Two%20modes%20of%20attentional%20control): Corbetta and Shulman's two partly separate brain systems, one goal-directed, one a circuit breaker for salient events."
+        },
+        {
+          "t": "p",
+          "x": "[Goal-directed attention](card:Goal-directed%20attention): the top-down half of selection, preparing and applying selection for stimuli and responses according to what you are trying to do."
+        },
+        {
+          "t": "p",
+          "x": "[Goal-directed attentional control](card:Goal-directed%20attentional%20control): the same division of labor stated for practice: attention steered by intention rather than pulled by whatever is loud, new or threatening."
+        },
+        {
+          "t": "p",
+          "x": "[Selective attention (Broadbent's filter model)](card:Selective%20attention%20%28Broadbent%27s%20filter%20model%29): the first influential account of how selection happens: a limited-capacity channel with a filter in front of it."
+        },
+        {
+          "t": "p",
+          "x": "[Load theory of attention](card:Load%20theory%20of%20attention): Lavie's resolution of the early-or-late selection debate, tying the filter's place to how loaded perception is."
+        },
+        {
+          "t": "p",
+          "x": "[Divided attention theory](card:Divided%20attention%20theory): what happens when a person tries to do two things at once; performance usually suffers, and researchers disagree about why."
+        },
+        {
+          "t": "p",
+          "x": "[Attentional blink](card:Attentional%20blink): the finding that attention briefly goes dark after it lands; probes are poorly detected in a window beginning 180 ms after a target."
+        },
+        {
+          "t": "p",
+          "x": "[Inattentional blindness](card:Inattentional%20blindness): the failure to perceive a fully visible but unexpected object when attention is engaged elsewhere; the invisible-gorilla experiment."
+        },
+        {
+          "t": "p",
+          "x": "[Attention Network Test (ANT)](card:Attention%20Network%20Test%20%28ANT%29): the computer task that measures the efficiency of three attentional networks, alerting, orienting and executive attention, in one sitting."
+        },
+        {
+          "t": "p",
+          "x": "[Attention Schema Theory](card:Attention%20Schema%20Theory): Graziano's account of awareness as the brain's simplified model of its own attention."
+        },
+        {
+          "t": "p",
+          "x": "William James gave the field its definition and its stakes, both in the Principles of Psychology:"
+        },
+        {
+          "t": "q",
+          "x": "\"Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration, of consciousness are of its essence. It implies withdrawal from some things in order to deal effectively with others\" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm)) — Primary text; quoted passages checked.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"My experience is what I agree to attend to. Only those items which I notice shape my mind — without selective interest, experience is an utter chaos.\" ([James, Principles of Psychology, ch. 11](https://psychclassics.yorku.ca/James/Principles/prin11.htm)) — Primary text; quoted passages checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Lavie's load theory, in the review that states its central prediction:"
+        },
+        {
+          "t": "q",
+          "x": "\"This led to the predictions that high perceptual load that engages full capacity in relevant processing would leave no spare capacity for perception of task-irrelevant stimuli. In situations of low perceptual load, however, any capacity not taken up in perception of task-relevant stimuli would involuntarily 'spill over' to the perception of task-irrelevant distractors.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "What attention costs and how it recovers"
+        },
+        {
+          "t": "p",
+          "x": "[The effort of attention](card:The%20effort%20of%20attention): James's phrase from the chapter on will: where a thought prevails with effort, attention is doing the work."
+        },
+        {
+          "t": "p",
+          "x": "[Directed attention fatigue](card:Directed%20attention%20fatigue): Kaplan's name for the fatigue of the effortful, voluntarily controlled kind of attention."
+        },
+        {
+          "t": "p",
+          "x": "[Attention restoration](card:Attention%20restoration): Kaplan's framework that directed attention fatigues with use and that certain experiences and environments, natural ones above all, allow it to recover."
+        },
+        {
+          "t": "p",
+          "x": "[Effortless attention](card:Effortless%20attention): Bruya's term for attention or action experienced as effortless, or exertion with lower-than-normal subjective effort while effectiveness holds."
+        },
+        {
+          "t": "p",
+          "x": "[Ultradian rhythms in attention](card:Ultradian%20rhythms%20in%20attention): the roughly 90-minute basic rest-activity cycle Kleitman proposed, as fluctuations in alertness across the day."
+        },
+        {
+          "t": "p",
+          "x": "[Attention residue](card:Attention%20residue): Leroy's name for what remains of attention on a previous task after switching, degrading the next task while it persists."
+        },
+        {
+          "t": "p",
+          "x": "[Attention management](card:Attention%20management): the practice of governing where attention goes: choosing, protecting, and handling what switching costs."
+        },
+        {
+          "t": "p",
+          "x": "[Sustained attention theory](card:Sustained%20attention%20theory): how people hold a detection-ready state over time, and why that state degrades."
+        },
+        {
+          "t": "p",
+          "x": "[Vigilance decrement](card:Vigilance%20decrement): the decline in the ability to detect critical signals as time on a monitoring task increases; one of the most consistently replicated findings in attention research."
+        },
+        {
+          "t": "p",
+          "x": "James gave the effort its place in the will:"
+        },
+        {
+          "t": "q",
+          "x": "\"Effort of attention is thus the essential phenomenon of will.\" ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt)) — Primary text; quoted passages checked.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"The essential achievement of the will, in short, when it is most 'voluntary,' is to attend to a difficult object and hold it fast before the mind.\" ([James, Principles of Psychology, vol. 2, ch. XXVI](https://www.gutenberg.org/cache/epub/57634/pg57634.txt)) — Primary text; quoted passages checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The degradation of attention over time on task, in the meta-analytic review's own terms:"
+        },
+        {
+          "t": "q",
+          "x": "\"Maintaining attention for more than a few seconds is essential for mastering everyday life. Yet, our ability to stay focused on a particular task is limited, resulting in well-known performance decrements with increasing time on task.\" ([Langner and Eickhoff 2012, Psychological Bulletin](https://pmc.ncbi.nlm.nih.gov/articles/PMC3627747/)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "Attention and the emotional life"
+        },
+        {
+          "t": "p",
+          "x": "[Attentional bias research](card:Attentional%20bias%20research): whether what attention selects toward threat contributes to emotional vulnerability or merely accompanies it; the field's question is causal."
+        },
+        {
+          "t": "p",
+          "x": "[Attentional bias theory MacLeod](card:Attentional%20bias%20theory%20MacLeod): anxiety maintained partly by where attention goes; the 1986 dot-probe study founded the paradigm."
+        },
+        {
+          "t": "p",
+          "x": "[Attentional control theory (Eysenck)](card:Attentional%20control%20theory%20%28Eysenck%29): what anxiety does to thinking, developing the processing efficiency account."
+        },
+        {
+          "t": "p",
+          "x": "[Cognitive attentional syndrome Wells](card:Cognitive%20attentional%20syndrome%20Wells): Wells's name, within his self-regulatory executive function model, for the perseverative, self-relevant, negatively loaded style of processing he treats as underlying most psychological disorders."
+        },
+        {
+          "t": "p",
+          "x": "[Avoidance versus attentional engagement](card:Avoidance%20versus%20attentional%20engagement): the behavioural activation model of what keeps depression going: withdrawal brings short-term relief while removing the experiences that could counter the low mood."
+        },
+        {
+          "t": "p",
+          "x": "[Attentional deployment theory](card:Attentional%20deployment%20theory): one of the five families in Gross's process model of emotion regulation: moving attention within a situation toward or away from emotional stimuli."
+        },
+        {
+          "t": "p",
+          "x": "[Positive attention training attentional deployment toward positive stimuli](card:Positive%20attention%20training%20attentional%20deployment%20toward%20positive%20stimuli): the laboratory methods that shift attention toward positive information and test whether emotional responses change."
+        },
+        {
+          "t": "p",
+          "x": "[Regulatory focus theory](card:Regulatory%20focus%20theory): Higgins's promotion and prevention foci; the same goal pursued under the two foci is a different pursuit."
+        },
+        {
+          "t": "p",
+          "x": "[Compassion-focused therapy](card:Compassion-focused%20therapy): Gilbert's approach for high shame and self-criticism, training soothing rhythms of attention among its three emotion-regulation systems."
+        },
+        {
+          "t": "h2",
+          "x": "The contemplative trainings"
+        },
+        {
+          "t": "p",
+          "x": "[Focused-attention meditation](card:Focused-attention%20meditation): directing and sustaining attention on a chosen object, noticing wandering, disengaging, returning."
+        },
+        {
+          "t": "p",
+          "x": "[Anchors in focused attention meditation](card:Anchors%20in%20focused%20attention%20meditation): the chosen object as the stable point attention is brought back to."
+        },
+        {
+          "t": "p",
+          "x": "[Open-monitoring meditation](card:Open-monitoring%20meditation): non-reactive awareness of moment-to-moment experience without a single object as its explicit focus."
+        },
+        {
+          "t": "p",
+          "x": "[Bare attention in mindfulness practice](card:Bare%20attention%20in%20mindfulness%20practice): Nyanaponika Thera's way of observing experience without immediately answering it with action or commentary."
+        },
+        {
+          "t": "p",
+          "x": "[Mindful attention](card:Mindful%20attention): attention deliberately trained on present experience; Kabat-Zinn's operational definition is the field's touchstone."
+        },
+        {
+          "t": "p",
+          "x": "[Anapanasati (mindfulness of breathing)](card:Anapanasati%20%28mindfulness%20of%20breathing%29): mindfulness of in-and-out breathing, the breath as the portable anchor."
+        },
+        {
+          "t": "p",
+          "x": "[Walking meditation](card:Walking%20meditation): deliberate awareness brought to walking itself: contact, movement, breath."
+        },
+        {
+          "t": "p",
+          "x": "[Right concentration](card:Right%20concentration): the eighth factor of the Noble Eightfold Path; the four jhānas, each quieter than the last."
+        },
+        {
+          "t": "p",
+          "x": "[The noticing-wandering-returning cycle in meditation](card:The%20noticing-wandering-returning%20cycle%20in%20meditation): the repeating sequence inside a session of breath-focused meditation; the study behind it measured the cycle's brain signatures, and the training reading is the compendium's own framing."
+        },
+        {
+          "t": "p",
+          "x": "[Focusing](card:Focusing): Gendlin's method for attending to experience before it has words, the felt sense as its object."
+        },
+        {
+          "t": "p",
+          "x": "[Attentional control training and the role of repeated redirection](card:Attentional%20control%20training%20and%20the%20role%20of%20repeated%20redirection): practising the noticing of distraction and the return of attention to a chosen object."
+        },
+        {
+          "t": "p",
+          "x": "[Progressive overload in attentional training](card:Progressive%20overload%20in%20attentional%20training): the strength-training analogy applied to attention: raise the demand in steps so the system keeps adapting; the page records a citation gap behind the stronger versions of the claim."
+        },
+        {
+          "t": "p",
+          "x": "[Vigilance theory](card:Vigilance%20theory): Oaten and Cheng's account of self-control as a strength that practice can build."
+        },
+        {
+          "t": "p",
+          "x": "The FA/OM distinction, in the review that introduced it to the meditation-science literature:"
+        },
+        {
+          "t": "q",
+          "x": "\"A widespread style of Buddhist practice consists in sustaining selective attention moment by moment on a chosen object, such as a subset of localized sensations caused by respiration. To sustain this focus, the meditator must also constantly monitor the quality of attention. At first, the attention wanders away from the chosen object, and the typical instruction is to recognize the wandering and then restore attention to the chosen object.\" ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"One aims to remain only in the monitoring state, attentive moment by moment to anything that occurs in experience without focusing on any explicit object... the 'effortful' selection or 'grasping' of an object as primary focus is gradually replaced by the 'effortless' sustaining of an awareness without explicit selection.\" ([Lutz et al. 2008, Trends in Cognitive Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The laboratory study that gave the meditation cycle its four intervals:"
+        },
+        {
+          "t": "q",
+          "x": "\"This model proposes four intervals in a cognitive cycle: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention.\" ([Hasenkamp et al. 2012, NeuroImage](https://wendyhasenkamp.net/wp-content/uploads/2016/02/hasenkamp-neuroimage-2012.pdf)) — Study; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "h2",
+          "x": "Absorption and its varieties"
+        },
+        {
+          "t": "p",
+          "x": "[Flow](card:Flow): the state of full immersion in an activity, presented by Csikszentmihalyi in 1975."
+        },
+        {
+          "t": "p",
+          "x": "[Hyperfocus theory](card:Hyperfocus%20theory): complete absorption in a task to the point of tuning out everything else; poorly defined within the literature."
+        },
+        {
+          "t": "p",
+          "x": "[Effortless attention](card:Effortless%20attention): the Bruya volume's subject: attention or action experienced as effortless, with effectiveness normal or elevated."
+        },
+        {
+          "t": "p",
+          "x": "[ADHD — interest-based attention](card:ADHD%20%E2%80%94%20interest-based%20attention): attention driven by strong personal interest or imminent unpleasantness rather than by the importance of the task, in Brown's account."
+        },
+        {
+          "t": "p",
+          "x": "[Autistic cognition — detail-focused processing](card:Autistic%20cognition%20%E2%80%94%20detail-focused%20processing): the weak coherence account: strength in detail and pattern where the typical style pulls for gist and global form."
+        },
+        {
+          "t": "h2",
+          "x": "Attention in the social field"
+        },
+        {
+          "t": "p",
+          "x": "[Social attention](card:Social%20attention): the way one person's attention is guided by what others attend to, most clearly through where they look."
+        },
+        {
+          "t": "p",
+          "x": "[Attentional synchronisation in groups](card:Attentional%20synchronisation%20in%20groups): group members converge in attentional focus; the gaze of conversational pairs is coupled across several seconds."
+        },
+        {
+          "t": "h2",
+          "x": "Attention in action: process, craft and the economy of the gaze"
+        },
+        {
+          "t": "p",
+          "x": "[Process focus research](card:Process%20focus%20research): whether attending to the means of a goal works better than attending to its desired result."
+        },
+        {
+          "t": "p",
+          "x": "[Process versus outcome focus](card:Process%20versus%20outcome%20focus): where attention rests while pursuing something: on the controllable actions of the moment, or on the desired result."
+        },
+        {
+          "t": "p",
+          "x": "[The attention economy](card:The%20attention%20economy): Herbert Simon's scarcity, commercialised; the page also carries the contested finding that mere smartphone presence reduces cognitive capacity."
+        },
+        {
+          "t": "p",
+          "x": "[Notification and feed research on attention capture](card:Notification%20and%20feed%20research%20on%20attention%20capture): whether smartphone notifications and infinite feeds pull attention away from what a person is doing; the notification study's distraction effects were comparable to actively using the device."
+        },
+        {
+          "t": "p",
+          "x": "[Heavy media multitasking](card:Heavy%20media%20multitasking): Ophir, Nass and Wagner's media-use pattern: chronic multitasking across incoming streams, studied as a challenge for human cognition."
+        },
+        {
+          "t": "h2",
+          "x": "The moral face of attention"
+        },
+        {
+          "t": "p",
+          "x": "[The craft of attention](card:The%20craft%20of%20attention): Simone Weil's account: the trained capacity to suspend one's own thought so that the thing or person in front of one can appear."
+        },
+        {
+          "t": "p",
+          "x": "[The discipline of attention](card:The%20discipline%20of%20attention): Weil's essay on school studies: prayer as attention, and attention to a sufferer as what she calls almost a miracle."
+        },
+        {
+          "t": "p",
+          "x": "[Spiritual vigilance](card:Spiritual%20vigilance): Pierre Hadot's name for the watchful attention the ancient Stoic kept over his own mind, hour by hour; the Greek term is prosoche."
+        },
+        {
+          "t": "p",
+          "x": "[Body scan in MBSR (Kabat-Zinn)](card:Body%20scan%20in%20MBSR%20%28Kabat-Zinn%29): the first formal practice taught in mindfulness-based stress reduction: attention moved slowly through the body, lying on the back."
+        },
+        {
+          "t": "p",
+          "x": "The compendium holds the theme in narrative form too:"
+        },
+        {
+          "t": "p",
+          "x": "[ST023 — Simone Weil on Attention](card:ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil's essay on school studies: every time we really attend to something, we exercise the same faculty that prayer and friendship require."
+        },
+        {
+          "t": "p",
+          "x": "Weil's own lines, from the essay collected in Waiting for God:"
+        },
+        {
+          "t": "q",
+          "x": "\"Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated by the object; it means holding in our minds, within reach of this thought, but on a lower level and not in contact with it, the diverse knowledge we have acquired which we are forced to make use of.\" ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf)) — Primary text; quoted passages checked.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"The key to a Christian conception of studies is the realization that prayer consists of attention. It is the orientation of all the attention of which the soul is capable toward God.\" ([Weil, Reflections on the Right Use of School Studies](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf)) — Primary text; quoted passages checked.",
+          "s": null
+        },
+        {
+          "t": "h",
+          "x": "Where the traditions genuinely disagree"
+        },
+        {
+          "t": "h2",
+          "x": "Where does selection happen: early or late?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question, in Lavie's statement of it: when attention selects, at what stage does what is not selected stop being processed? The debate the review opens with:"
+        },
+        {
+          "t": "q",
+          "x": "\"Mixed results as to whether focusing attention on task-relevant stimuli can exclude distractors from early perceptual processing (an 'early' selection effect) or can only prevent distractors from controlling behaviour and memory (a 'late' selection effect) has fuelled a longstanding debate between early- and late-selection views of attention.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Her resolution ties the filter's place to how loaded perception is, in the passage quoted in the map above: under high perceptual load there is no spare capacity for distractors, and under low load capacity spills over to them. The review's own summary of where the research landed:"
+        },
+        {
+          "t": "q",
+          "x": "\"This research indicates that distractor perception can be prevented (early selection) when processing of task-relevant stimuli involves high perceptual load, and that although distractors are perceived in tasks of low perceptual load (late selection), their impact on behaviour depends on other types of load, such as that on working memory.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "What the resolution does not do is hand one side the victory. The second kind of load cuts the other way:"
+        },
+        {
+          "t": "q",
+          "x": "\"Whereas high perceptual load can eliminate distractor processing, high load on 'frontal' cognitive control processes increases distractor processing.\" ([Lavie 2005, Trends in Cognitive Sciences](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "What remains unresolved is therefore not the filter's location but its behaviour under load: the question has been reframed from where selection happens to which kind of load is operating, and the two kinds move distractor processing in opposite directions. A reader managing distraction inherits that as a practical caution: filling perception with the task helps only while the load is perceptual; a mind loaded on control processes lets more in, not less."
+        },
+        {
+          "t": "h2",
+          "x": "Under what conditions does a wandering mind cost more than it returns?"
+        },
+        {
+          "t": "p",
+          "x": "The shared question is not whether wandering has effects but under which conditions the costs outweigh the functions. Killingsworth and Gilbert's smartphone study, sampling 2250 adults at random moments, measured the mood difference:"
+        },
+        {
+          "t": "q",
+          "x": "\"Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love.\" ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)) — Study; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost.\" ([Killingsworth and Gilbert 2010, Science](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)) — Study; quoted passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "Mooneyham and Schooler's review accepts the cost findings and proposes functions under particular conditions rather than disputing the measurements:"
+        },
+        {
+          "t": "q",
+          "x": "\"Substantial evidence suggests that mind-wandering typically occurs at a significant cost to performance. Mind-wandering-related deficits in performance have been observed in many contexts, most notably reading, tests of sustained attention, and tests of aptitude.\" ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "q",
+          "x": "\"Contemplating this question leads us to propose the following potential functions of mind-wandering: attentional cycling, dishabituation, and relief from boredom... mind-wandering appeared to partially insulate people against the mood costs of engaging in a particularly tedious task.\" ([Mooneyham and Schooler 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)) — Scholarly review; cited passage checked.",
+          "s": null
+        },
+        {
+          "t": "p",
+          "x": "The two papers do not contradict each other: one measures the average mood while wandering, the other proposes boundary conditions under which wandering serves a function. What remains unresolved is where the boundary sits — which tasks, moods and people get the insulation rather than the cost — and whether the contemplative trainings, which treat the noticing of wandering as the trainable moment, are suppressing the default or harvesting it."
+        },
+        {
+          "t": "h",
+          "x": "Practice: variation, selection, retention"
+        },
+        {
+          "t": "vs",
+          "l": "Variation",
+          "x": "What tends to need varying on this theme is where attention goes by default: captured by whatever is loud, new or threatening; left behind on the previous task after a switch; spent on feeds engineered to hold it; and drawn from a directed-attention budget that fatigues with use and recovers in some environments and not others. The adaptive direction is selection guided by intention, the return trained rather than the absence of wandering, recovery time set aside for it, and absorption available when the task deserves it."
+        },
+        {
+          "t": "vs",
+          "l": "Selection",
+          "x": "The kernels the compendium holds on this theme, each a selected source of that variation:"
+        },
+        {
+          "t": "n",
+          "i": 1,
+          "x": "[Breath anchoring](card:K100%20%E2%80%94%20Breath%20anchoring): resting attention on the physical sensation of breathing, noting where it went, returning; the return is the practice, not a failure."
+        },
+        {
+          "t": "n",
+          "i": 2,
+          "x": "[Open monitoring](card:K101%20%E2%80%94%20Open%20monitoring): settling first, then widening attention to whatever arises in the field of awareness, letting it come and go without following or pushing."
+        },
+        {
+          "t": "n",
+          "i": 3,
+          "x": "[Body scan](card:K102%20%E2%80%94%20Body%20scan): moving attention slowly through the body, noticing sensations in each region without trying to change them."
+        },
+        {
+          "t": "n",
+          "i": 4,
+          "x": "[Noting and labeling](card:K103%20%E2%80%94%20Noting%20and%20labeling): silently naming what is present — \"breathing,\" \"hearing,\" \"thinking\" — the label a pointer, not a judgment."
+        },
+        {
+          "t": "n",
+          "i": 5,
+          "x": "[Mindful walking](card:K104%20%E2%80%94%20Mindful%20walking): attending to the sensations of movement, lifting, moving, placing the foot; useful when the mind is too restless for seated practice."
+        },
+        {
+          "t": "n",
+          "i": 6,
+          "x": "[Single-tasking](card:K105%20%E2%80%94%20Single-tasking): one thing at a time with full attention, the current task protected from interruption for a defined period."
+        },
+        {
+          "t": "n",
+          "i": 7,
+          "x": "[Five-senses grounding](card:K106%20%E2%80%94%20Five-senses%20grounding): five things seen, four heard, three touched, two smelled, one tasted; pulling attention out of rumination and into the present sensory field."
+        },
+        {
+          "t": "n",
+          "i": 8,
+          "x": "[Soft fascination](card:K107%20%E2%80%94%20Soft%20fascination): time in an environment that gently engages attention without demanding it, letting attention rest and restore."
+        },
+        {
+          "t": "n",
+          "i": 9,
+          "x": "[Meta-awareness check](card:K108%20%E2%80%94%20Meta-awareness%20check): the periodic question \"where is my attention right now?\", cued to transitions, meals or hourly alarms."
+        },
+        {
+          "t": "n",
+          "i": 10,
+          "x": "[Quiet eye](card:K109%20%E2%80%94%20Quiet%20eye): before a skilled action, holding a steady final gaze on the target and beginning the movement from inside that stillness."
+        },
+        {
+          "t": "n",
+          "i": 11,
+          "x": "[Savoring](card:K110%20%E2%80%94%20Savoring): when a pleasant moment occurs, deliberately extending it; building the capacity to receive good experience."
+        },
+        {
+          "t": "n",
+          "i": 12,
+          "x": "[Scheduled empty time](card:K112%20%E2%80%94%20Scheduled%20empty%20time): ten to thirty minutes of unfilled time daily, no agenda, no phone; the mind allowed to wander, settle or do nothing."
+        },
+        {
+          "t": "n",
+          "i": 13,
+          "x": "[Transition pause](card:K113%20%E2%80%94%20Transition%20pause): between activities, three breaths, noticing the ending of one thing and the beginning of the next."
+        },
+        {
+          "t": "n",
+          "i": 14,
+          "x": "[Compassion-focused breathing](card:K163%20%E2%80%94%20Compassion-focused%20breathing): breathing at a soothing rhythm of roughly five to six breaths per minute while evoking warmth and safeness."
+        },
+        {
+          "t": "n",
+          "i": 15,
+          "x": "[Aesthetic attention](card:K328%20%E2%80%94%20Aesthetic%20attention): ten minutes with a work of art, music, scene or crafted object, attending to how it appears rather than what it means."
+        },
+        {
+          "t": "n",
+          "i": 16,
+          "x": "[Shared attention](card:K357%20%E2%80%94%20Shared%20attention): with another person, attending to the same thing — a view, music, food tasted together — with the talking left out; the practice takes its shape from joint attention, and from the laboratory finding that shared experiences are stronger than solitary ones."
+        },
+        {
+          "t": "n",
+          "i": 17,
+          "x": "[Flow block](card:K190%20%E2%80%94%20Flow%20block): a block of 45 to 90 minutes protected for deep, single-tasked work, notifications cleared, goal named; the steps are the compendium's protocol, and the conditions they assemble are Csikszentmihalyi's conditions for flow."
+        },
+        {
+          "t": "p",
+          "x": "The evidence limits are uneven across the list, and the kernels say so where it matters: the soft-fascination kernel quotes the experiment behind its mechanism, the aesthetic-attention kernel carries Dewey's account of an experience that runs its course, and several durations (ten minutes for a sit, five to six breaths per minute for the soothing rhythm) are practice-guide conventions rather than tested doses. The general finding behind the family — that attention is trainable — is the AT006 principle, and the cards above carry its evidence."
+        },
+        {
+          "t": "vs",
+          "l": "Retention",
+          "x": "Retention is what people keep because it works for them."
+        }
+      ],
+      "group": "eemm",
+      "status": "published",
+      "art": "assets/dossier-art/attention.jpg"
     }
   ],
   "groups": [
@@ -4888,19 +6259,9 @@ window.fcDossiersData = {
   ],
   "roadmap": [
     {
-      "id": "wisdom",
-      "title": "Wisdom",
-      "group": "flourishing"
-    },
-    {
       "id": "lifes-purpose",
       "title": "Life's Purpose",
       "group": "flourishing"
-    },
-    {
-      "id": "affect",
-      "title": "Affect",
-      "group": "eemm"
     },
     {
       "id": "anxiety",
@@ -4921,11 +6282,6 @@ window.fcDossiersData = {
       "id": "decision-making",
       "title": "Decision-Making",
       "group": "minds-life"
-    },
-    {
-      "id": "attention",
-      "title": "Attention",
-      "group": "eemm"
     },
     {
       "id": "motivation",
