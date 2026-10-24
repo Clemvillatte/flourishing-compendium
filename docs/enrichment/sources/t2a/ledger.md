@@ -25,7 +25,7 @@ FLAG for supervisor: content/concepts/Sufficiency.md is a pre-existing stub
 (46 prose words, failed validator at HEAD before this pass) - needs a concept
 enrichment pass, out of t2a scope. build.py ok (5888 entries).
 
-CORRECTION 06:12Z: the seven Seneca story-card edits (ST194/205/213/214/218/
+CORRECTION 05:38Z: the seven Seneca story-card edits (ST194/205/213/214/218/
 220/221) were reverted before push - the separation guard (scripts/story_guard.py)
 denies workers content/stories/**, which is why the predecessor's story
 backlinks never landed while their state records remained. Story backlinks are

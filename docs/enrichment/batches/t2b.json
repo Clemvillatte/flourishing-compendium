@@ -213,9 +213,12 @@
  ],
  "in_progress": null,
  "flagged": {
-  "content/stories/ST206-ST432-ST023 (3 story cards: Hadot, TNH, Weil)": "blocked by separation guard - draft gloss text in t2b ledger; supervisor disposition requested"
+  "content/stories/ST206-ST432-ST023 (3 story cards: Hadot, TNH, Weil)": "blocked by separation guard - draft gloss text in t2b ledger; supervisor disposition requested",
+  "4 concept pages: Moral development research, Moral dilemma research, Moral dilemmas, Moral emotions": "pre-existing stubs below 150-word floor at HEAD (28/125/110/80) - need concept-enrichment passes, out of t2b scope",
+  "content/concepts/Conversation as method.md + Dependent origination + Engaged Buddhism": "pre-existing stubs (132/59/89 words at HEAD) - need concept-enrichment passes, out of t2b scope",
+  "content/concepts/Attentiveness.md + The inner light": "pre-existing stubs (138/88 words at HEAD) - need concept-enrichment passes, out of t2b scope"
  },
- "updated": "2026-10-24T05:56:49+00:00",
+ "updated": "2026-10-24T05:57:01+00:00",
  "band_done": false,
  "notes": "Minted 2026-10-23 by supervisor-pplx-8c47a5 from the thinker-backlink integration audit (see TASKBOARD supervisor note ~12:35Z).  EXEMPLAR (2026-10-23 ~13:02Z, supervisor-pplx-8c47a5): B008 — gloss grounded in the page’s Hadot treatment (spiritual exercises, Philosophy as a Way of Life); validated ok. Workers follow this pattern.\nWorker session (worker-pplx-t2a-oct23b, 2026-10-23, fallback ladder rung 6 after t2a completion): Hadot (T036) writable list complete - 26 backlinks applied with [[T036 — Hadot, Pierre]] links and grounded glosses. One error caught and repaired in-batch: first pass used [[T036 — Hadot]] (unresolved - the thinker page is 'T036 — Hadot, Pierre'); fixed before any commit was pushed. Remaining t2b thinkers for the next pass: T032 Linehan (43), T033 Haidt (35), T034 Dweck (33), T035 Thich Nhat Hanh (35), T037 Weil (39)."
 }
