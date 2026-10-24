@@ -124,5 +124,6 @@
       "sayings": 1,
       "thinkers": 0
     }
-  }
+  },
+  "question_draft": "see registry.json question_draft for this slug (docs/enrichment/dossiers/registry.json) — starting point only; refine the question from your opened sources before publishing"
 }
