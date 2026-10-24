@@ -946,3 +946,16 @@ current revised dossier). The 8-line punch list is done; "brain faith"
 verification, "the dossier is the exemplar" verdict and the rollout
 remain with the owner. This is a supervisor QC record, not owner
 approval.
+
+## Quote-fidelity check (2026-10-24, supervisor-pplx-1024c-dossiers)
+
+The dossier's single verbatim quotation, NE I.7 "For one swallow does
+not make a summer, nor does one day; and so too one day, or a short
+time, does not make a man blessed and happy.", was checked against
+the carrier (MIT Classics, Ross translation,
+https://classics.mit.edu/Aristotle/nicomachaen.1.i.html) opened this
+session: word-for-word match, including "blessed and happy". No other
+verbatim quotations appear in the dossier body (the remainder is
+paraphrase with card links). Content otherwise untouched; the owner's
+approval decision on the bridged rework remains pending and is not
+affected by this check.
