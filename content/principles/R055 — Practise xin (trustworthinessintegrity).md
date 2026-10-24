@@ -12,21 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Practise xin (信) — trustworthiness/integrity.**
 
-Xin is trustworthiness: the alignment of word and deed that lets other people build on you. Zengzi made it a daily self-audit: "whether, in intercourse with friends, I may have been not sincere" (Analects 1.4, [Legge](https://ctext.org/analects/xue-er)). The Master pairs it with zhong, doing one's utmost for others: "Hold faithfulness and sincerity as first principles" (Analects 1.8, [Legge](https://ctext.org/analects/xue-er)). The warning cuts the other way too: "Fine words and an insinuating appearance are seldom associated with true virtue" (Analects 1.3, [Legge](https://ctext.org/analects/xue-er)). Xin is the substance behind the words, not their polish. The principle sits in the Confucian Relational track because ren runs on it: the relational fabric of the Five Relations (R016) holds only where each strand can be trusted.
+In Analects 2.22, Confucius compares someone without xin to a carriage missing the connection that allows it to be drawn ([Legge translation](https://ctext.org/analects/wei-zheng)). He begins:
 
-Mencius traces the genealogy of being trusted: "There is a way of being trusted by one's friends: if one do not serve his parents so as to make them pleased, he will not be trusted by his friends... Therefore, sincerity is the way of Heaven. To think how to be sincere is the way of man" (Mencius 4A12, [Legge](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07)). Trust grows out of sincerity with the people who know you best.
+> "I do not know how a man without truthfulness is to get on." (Analects 2.22, [Legge translation](https://ctext.org/analects/wei-zheng))
 
-**Plain words**
-Trust is what lets people act on your word without checking it, the way a carpenter relies on a level. Break it once and every future commitment of yours gets quietly priced at a discount. My kernel (K243) names what it protects: others' wellbeing in their hands. Mencius is blunt about where the repair starts: with your parents and with yourself.
+The passage makes trustworthiness a condition of getting along with others, rather than an ornament of good character; Karyn Lai develops this relational reading by treating xin as reliability demonstrated across changing circumstances ([Learning to Be Reliable, pp. 194–197](https://philarchive.org/archive/LAILTB)). Zengzi's daily examination includes whether he has been sincere with friends, giving this concern a recurring place in self-cultivation (Analects 1.4, [Legge translation](https://ctext.org/analects/xue-er)).
 
-**For example**
-Do not say you will call someone back if you have no intention. A Confucian worker who says he will finish the beam tomorrow finishes the beam tomorrow, because his reputation with the tradesman is the same fabric as his virtue itself.
+There is room for judgment about what to promise: Analects 1.13 links making good on agreements with their being right, and Lai cautions against treating fidelity as blind persistence regardless of the situation ([Legge translation](https://ctext.org/analects/xue-er); [Lai, pp. 195–196](https://philarchive.org/archive/LAILTB)).
+
+### Plain words
+
+Before agreeing to something, consider what you can responsibly undertake. Ask what the other person will be counting on you to do. If circumstances change, tell them plainly and discuss what you can now offer.
+
+### For example
+
+Suppose you promised to collect a friend but discover that your car is unsafe. Explain the problem promptly and help arrange another way home. Later, review whether you made the commitment too casually and what you should check before offering again. This is my illustration of reliability exercised with judgment.
 
 ## Sources
 
-- [Legge's Analects, Book 1 (Xue Er), Chinese Text Project](https://ctext.org/analects/xue-er) — 1.3, 1.4, 1.8
-- [Legge's Mencius, Li Lou I (chapter 7 of the Works), Wikisource](https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter07) — 4A12, the trust chain
-- [Legge quotes, Wikiquote](https://en.wikiquote.org/wiki/James_Legge) — "Hold faithfulness and sincerity as first principles"
+- [Legge's Analects, Book 1 (Xue Er), Chinese Text Project](https://ctext.org/analects/xue-er): 1.4 and 1.13.
+- [Legge's Analects, Book 2 (Wei Zheng), Chinese Text Project](https://ctext.org/analects/wei-zheng): 2.22; quotation and carriage comparison.
+- [Karyn Lai, Learning to Be Reliable: Confucius' Analects, pp. 193–207, author preprint](https://philarchive.org/archive/LAILTB): reliability, relationships and situational judgment.
 
 ## Stories
 

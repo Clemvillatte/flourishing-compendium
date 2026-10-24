@@ -13,3 +13,12 @@ are not certified by this body-level review.
 - Saturation: `enrich_find.py mention useless` checked. D084 and T009 already cover the tree; no speculative psychological equivalence or additional reciprocal proposed.
 - Limits: no claim that this exchange proves a universal rule about work, identity or mental health. Inherited Kashdan/SDT parallels and story-card contents remain outside this review.
 - QC: first-item independent review requested; disposition to be recorded after review.
+
+## R055: Practise xin
+
+- Opened: [Analects 1, Legge translation](https://ctext.org/analects/xue-er), especially 1.4 and 1.13; [Analects 2](https://ctext.org/analects/wei-zheng), 2.22; [Karyn Lai, Learning to Be Reliable](https://philarchive.org/archive/LAILTB), pp. 193–204 included in fetched preprint.
+- Also opened [Analects 12](https://ctext.org/analects/yan-yuan), including 12.7; not used because the personal cultivation and promise-judgment distinction gives this short body sufficient scope without compressing the political passage.
+- Evidence: 2.22's opening sentence quoted exactly; the carriage simile is paraphrased rather than mechanically translated into a psychological claim. 1.4 supports the recurring examination of sincerity with friends; 1.13 links agreements and rightness. Lai's pp. 194–197 directly support relationality, reliability over time and judgment about keeping commitments.
+- Repair: removed the unsupported claim that a single lapse permanently discounts every future commitment, the uncited K243 attribution and decorative carpenter/beam metaphors. The car example is hypothetical and explicitly author-designed; it includes noticing changed circumstances, varying the action, reviewing the commitment and carrying that lesson forward.
+- Saturation: `enrich_find.py mention trustworthiness` and the existing Trustworthiness concept were read. No additional graph edge is necessary; the concept and numerous kernels already refer to R055. No reciprocal edit or proposal.
+- Limits: xin is not equated with Aristotelian truthfulness; Lai's reliability reading is attributed, not presented as the only translation. Removed Mencius/Wikiquote citations that no longer support a claim in the rewritten body.
