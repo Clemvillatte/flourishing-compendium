@@ -5,6 +5,13 @@ Registry status stays 'planned'; the supervisor flips and publishes. Band
 state: right-speech left in review-pending, not marked done, pending the
 supervisor's publication decision.
 
+Revision 2 (first QC pass, commit c8c19b51): raw-text quote verification
+against the opened carriers; gloss audit against the cards (14
+repaired); the parrhesia divergence removed as manufactured (kept in
+the map; see the Foucault entry below); the Gita carrier corrected;
+loglines rewritten as incidents only; untruncated full-text sweep
+adding 11 on-theme cards (90 links at that pass); checker exit 0.
+
 Revision 3 (second QC pass): the Gita divergence quote replaced with the
 Wisdom Library translation the Beneficial speech card actually carries
 (carrier opened and verified this pass; the earlier Wisdom Library fetch
