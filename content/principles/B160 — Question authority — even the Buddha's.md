@@ -34,6 +34,9 @@ For example: someone is taught a practice by a respected instructor. They consid
 - [[K139 — Self-as-context|K139 Self-as-context]]
 - [[K140 — The observer question|K140 The observer question]]
 - [[K146 — Ego dissolution practice|K146 Ego dissolution practice]]
+## Stories
+- [[ST466 — Who Spoke the Truth?|466. Who Spoke the Truth?]]
+
 ## Psychology parallels
 
 - **[[Obedience research|Obedience research]]**, authority can override conscience (Milgram, 1963)

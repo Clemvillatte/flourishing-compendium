@@ -26,6 +26,9 @@ Notice whether you are hurrying, holding still, or moving without taking in what
 
 Imagine rehearsing a short talk. After the first attempt, listen to a recording and mark where you ran sentences together. Try it again with pauses at those points, then compare how the two versions sound. The exercise makes tempo something you can examine and adjust.
 
+## Stories
+- [[ST469 — Swaying in Answer|469. Swaying in Answer]]
+
 ## Psychology parallels
 
 - **Structured breathing**: a one-month randomised study found greater improvement in positive mood and reduction in respiratory rate with breathwork, particularly cyclic sighing, than with mindfulness meditation; this does not test the rehearsal exercise above ([Balban et al., 2023, abstract](https://pubmed.ncbi.nlm.nih.gov/36630953/)).

@@ -42,6 +42,9 @@ Two people with the same jobs and friends may live where one walks to all of the
 
 - [[K178 — Situation selection|K178 Situation selection]]
 - [[K215 — Assertiveness and boundaries|K215 Assertiveness and boundaries]]
+## Stories
+- [[ST468 — The Twenty-Eight Dollar House|468. The Twenty-Eight Dollar House]]
+
 ## Psychology parallels
 
 - **[[Person-environment fit|Person-environment fit]]**, congruence between person and setting predicts satisfaction and performance (Kristof-Brown et al., 2005)

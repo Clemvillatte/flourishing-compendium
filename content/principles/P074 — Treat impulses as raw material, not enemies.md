@@ -34,6 +34,9 @@ Imagine the restless child who cannot sit still through a lecture. For this exer
 
 - [Human Nature and Conduct (Dewey, 1922), Project Gutenberg](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm) — pp. 92-93, 95, 110
 
+## Stories
+- [[ST470 — The Little Savage Learns|470. The Little Savage Learns]]
+
 ## Psychology parallels
 
 - **[[Urge surfing|Urge surfing]]**
