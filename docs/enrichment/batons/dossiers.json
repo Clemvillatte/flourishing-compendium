@@ -69,5 +69,7 @@
    "from": "worker-pplx-dossiers-1025",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-24T14:49:33+00:00"
 }
