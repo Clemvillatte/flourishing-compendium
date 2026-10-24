@@ -18,6 +18,10 @@ Patience is a disposition toward calm waiting under difficulty in Schnitker's ps
 ### In the compendium
 
 - [[B104 — Practice patience (kshanti)]] uses Śāntideva's arguments against becoming angry; the concept also appears as a comparison beside the Daoist principles listed below.
+## Related concepts
+
+- [[B113]] — Shantideva's argument that an adversary can provide the occasion for patience, with an everyday application that retains firm boundaries.
+
 ## Sources
 
 - Kierkegaard, Works of Love

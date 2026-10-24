@@ -23,8 +23,10 @@ The same chapter splits the resolve in two, "The mind aspiring to awaken, / And 
 ## Related concepts
 
 
+
 - [[Four immeasurables]] — the Mahayana extension of the four
 - [[K054]] — the concept's Shantideva-based treatment of the awakening mind beside K054's Tsongkhapa-based frame of daily practice.
+- [[B154]] — An everyday service application of the distinction between aspiring to awaken and undertaking the path.
 ## Sources
 
 - Santideva, Bodhicaryavatara
