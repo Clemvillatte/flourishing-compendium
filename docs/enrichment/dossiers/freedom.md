@@ -18,7 +18,7 @@ On the accounts gathered here, freedom arrives with a cost built in: to be free 
 
 1. [Escape from freedom](https://clemvillatte.github.io/flourishing-compendium/#card=Escape%20from%20freedom): Fromm's diagnosis of the modern problem, negative freedom arrived before the capacities to bear it, with the escape mechanisms the work enumerates, especially automaton conformity, the adoption of the offered personality:
 
-> "To put it briefly, the individual ceases to be himself; he adopts entirely the kind of personality offered to him by cultural patterns; and he therefore becomes exactly as all others are and as they expect him to be. ... But the price he pays, however, is high; it is the loss of his self." ([Fromm, Escape from Freedom, panarchy excerpt](https://www.panarchy.org/fromm/escapefreedom.html)): Primary text; both sentences checked against the excerpt this session.
+> "To put it briefly, the individual ceases to be himself; he adopts entirely the kind of personality offered to him by cultural patterns; and he therefore becomes exactly as all others are and as they expect him to be. ... But the price he pays, however, is high; it is the loss of his self." ([Fromm, Escape from Freedom, panarchy excerpt](https://www.panarchy.org/fromm/escapefreedom.html))
 
 2. [ST269 — The Waiter's Dance](https://clemvillatte.github.io/flourishing-compendium/#card=ST269%20%E2%80%94%20The%20Waiter%27s%20Dance): Sartre's café waiter whose movements are too exact, too quick, too waiter-like; the performance of the role with excess precision as the flight from the responsibility of having chosen it, and the card's diagnostic, that a role performed with too much precision is usually such a flight, with the remedy of catching oneself mid-gesture.
 
@@ -36,15 +36,15 @@ On the accounts gathered here, freedom arrives with a cost built in: to be free 
 
 7. [Natural liberty versus the chains](https://clemvillatte.github.io/flourishing-compendium/#card=Natural%20liberty%20versus%20the%20chains): Rousseau's framing of the double question, the chains we are born into and the liberty that obedience to self-prescribed law can restore:
 
-> "Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they." ([Rousseau, The Social Contract, Book I, ch. 1, Cole trans., Project Gutenberg](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm)): Primary text; checked against the Gutenberg edition this session.
+> "Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they." ([Rousseau, The Social Contract, Book I, ch. 1, Cole trans., Project Gutenberg](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm))
 
-> "[T]he mere impulse of appetite is slavery, while obedience to a law which we prescribe to ourselves is liberty." ([Rousseau, The Social Contract, Book I, ch. 8, Cole trans., Project Gutenberg](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm)): Primary text; checked against the same edition this session, with the sentence's opening word bracketed per the full text.
+> "[T]he mere impulse of appetite is slavery, while obedience to a law which we prescribe to ourselves is liberty." ([Rousseau, The Social Contract, Book I, ch. 8, Cole trans., Project Gutenberg](https://www.gutenberg.org/files/46333/46333-h/46333-h.htm))
 
-8. [The Cynic's freedom](https://clemvillatte.github.io/flourishing-compendium/#card=The%20Cynic%27s%20freedom): freedom in three forms, eleutheria, autarkeia and parrhesia, with the poverty that frees one from having to pay court to a ruler, and the exchange that carries the whole stance in two lines, ask of me any boon you like, stand out of my sunlight ([Diogenes, quoted at Philoscopia](https://www.philoscopia.com/en/quotes/diogenes/)): Primary text; both lines checked this session.
+8. [The Cynic's freedom](https://clemvillatte.github.io/flourishing-compendium/#card=The%20Cynic%27s%20freedom): freedom in three forms, eleutheria, autarkeia and parrhesia, with the poverty that frees one from having to pay court to a ruler, and the exchange that carries the whole stance in two lines, ask of me any boon you like, stand out of my sunlight ([Diogenes, quoted at Philoscopia](https://www.philoscopia.com/en/quotes/diogenes/)).
 
 9. [The interdependence of freedoms](https://clemvillatte.github.io/flourishing-compendium/#card=The%20interdependence%20of%20freedoms): Beauvoir's argument that a project has meaning only in a world other people have taken up, so the wish to be free already contains the wish that others be free:
 
-> "To will oneself free is also to will others free. This will is not an abstract formula." ([Beauvoir, The Ethics of Ambiguity, Part II, ch. 1](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)): Primary text; checked against the online text this session.
+> "To will oneself free is also to will others free. This will is not an abstract formula." ([Beauvoir, The Ethics of Ambiguity, Part II, ch. 1](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm))
 
 ## Related questions and parallels
 

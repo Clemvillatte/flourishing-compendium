@@ -66,10 +66,10 @@ was re-read during pass 2 to ground the three-acceptance gloss.
   The card cites Maffie's IEP "Aztec Philosophy" article; not re-opened.
 - B055's AN 5.57 carrier and S104's Gutenberg Long translation: glossed, not
   quoted, to keep every quoted line in the dossier verified this session.
-- Fromm's escape-mechanism enumeration, the DAP-R five dimensions and the
-  Burke figures' meta-analytic scope: reported in glosses as the cards' own
-  records; the Burke figures were additionally verified against PubMed
-  (carrier 6 above), the others remain card-sourced.
+- The DAP-R five dimensions and the Burke figures' meta-analytic scope:
+  reported in glosses as the cards' own records; the Burke figures were
+  additionally verified against PubMed (carrier 6 above), the DAP-R
+  dimensions remain card-sourced.
 
 ## Pass 2 (advisor QC, 2026-10-24) — revisions applied
 
@@ -81,10 +81,13 @@ was re-read during pass 2 to ground the three-acceptance gloss.
 3. Many Labs 4 narrowed to "the paradigm's central effect"; research
    conclusions narrowed to "under their own conditions of study"; the
    Burke figures verified against PubMed and the carrier link added.
-4. "The dissent" renamed "The counter-practice"; "refuses the premise"
-   removed; Spinoza presented as running the emphasis the other way, not
-   as rejecting the remembrance family; the card's own phrase
-   ("counter-practice to the whole remembrance family") is the grounding.
+4. "The dissent" renamed "The counter-practice" in pass 2, then "Meditation
+   on life" in pass 2c; "refuses the premise" removed; the map gloss now
+   limits itself to the verified proposition, with the card's own framing
+   ("For comparison: memento mori") as the grounding. CORRECTION of an
+   earlier ledger claim: "counter-practice to the whole remembrance family"
+   was this worker's editorial phrase, NOT the card's wording; the card
+   sets SP068 beside memento mori for comparison without opposing them.
 5. DAP-R gloss regrounded: the three acceptance types differ in what makes
    death acceptable (biology, what follows, relief from suffering), per the
    card's own wording; "each acceptable" removed.
@@ -94,20 +97,25 @@ was re-read during pass 2 to ground the three-acceptance gloss.
 7. ST272 story logline rewritten without the intellectual-lineage claim
    ("sources every later existential treatment") — the card's own famous-
    and-infamous framing is used instead.
-8. Pass 2b (second advisor round): SEP block reduced to Heidegger's verified
-   inner quotation with citation-only attribution (the wrapping sentence was
-   Wrathall's, not Heidegger's); Many Labs 4 narrowed again to "the specific
-   effect it targeted"; the two research programmes presented as different
-   outcomes under different conditions, not a help-versus-harm contest; the
-   Spinozist Retention clause dropped and the Related-questions sentence
-   softened (contrasting emphasis, not rejection); "an error of emphasis"
-   removed.
+8. Pass 2c (third advisor round): all "Primary text; ... checked this
+   session" workflow notes removed from the body's quote carriers —
+   citations (author/title/locator/URL) kept, narration dropped. This
+   REVERSES the earlier "NOT ADOPTED" decision on this point: the advisor's
+   reading was corroborated by the supervisor's own 2026-10-23 humanizer
+   sweep ("'opened 2026-XX-XX' clauses, 'this session' notes ... reworded
+   to plain reader terms or removed" across ~350 files), so the notes
+   contravene current house style even though older published dossiers
+   (gratitude.md) still carry them. All verification evidence remains in
+   this ledger.
+9. Pass 2c continued: "### The counter-practice" → "### Meditation on life";
+   the SP068 gloss neutralized and the SP068 card's actual text re-read
+   (it says "For comparison: memento mori", not "counter-practice"),
+   correcting the false ledger attribution recorded above.
 
-NOT ADOPTED from the QC: the advice to strip the "Primary text; ... checked
-this session" attribution notes from quote carriers. That note format is the
-published convention of this corpus (gratitude.md, fear.md, acceptance.md all
-carry it after their quotes, and the automated checker requires external
-carriers on quotes); the notes were kept in the same one-line form.
+REVERSED in pass 2c (see item 8 above): the "Primary text; ... checked this
+session" notes were removed from both dossiers after the advisor's reading
+was corroborated by the supervisor's 2026-10-23 humanizer sweep; citations
+were kept, and all verification evidence lives in this ledger.
 
 ## Pass 1 self-review (HUMANIZER-SKILL.md)
 

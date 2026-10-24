@@ -17,7 +17,7 @@ The traditions in this map start from the same observation: a life is finite, an
 
 1. [Being-toward-death](https://clemvillatte.github.io/flourishing-compendium/#card=Being-toward-death): Heidegger's Sein-zum-Tode, death as the one possibility that is mine alone and cannot be outstripped; anticipation rather than brooding, and flight into the conformist everyday as the alternative. The definition, SZ 250, as the encyclopedia entry quotes it:
 
-> "the possibility of the absolute impossibility of Dasein" ([Heidegger, SZ 250, as quoted in Wrathall's SEP entry](https://plato.stanford.edu/entries/heidegger/)): the inner quotation is Heidegger's; the surrounding SEP sentence was checked against the entry this session.
+> "the possibility of the absolute impossibility of Dasein" ([Heidegger, SZ 250, as quoted in Wrathall's SEP entry](https://plato.stanford.edu/entries/heidegger/))
 
 2. [Finitude](https://clemvillatte.github.io/flourishing-compendium/#card=Finitude): the condition of being limited in time, possibility and knowledge; each choice comes at the cost of the possibilities forgone, anxiety as the mood in which that cost is felt, and thrownness as the limit no one chose.
 
@@ -29,13 +29,13 @@ The traditions in this map start from the same observation: a life is finite, an
 
 ### The research programmes
 
-6. [Mortality salience](https://clemvillatte.github.io/flourishing-compendium/#card=Mortality%20salience): the terror-management paradigm; reminders of death were found to increase worldview and self-esteem defense across 164 articles and 277 experiments, moderate effects at r = .35 ([Burke, Martens and Faucher 2010 meta-analysis record](https://pubmed.ncbi.nlm.nih.gov/20097885/)): the scope and effect size were checked against the published record this session. The card also carries the field's own trouble, the 2022 seventeen-lab replication attempt on the specific effect it targeted:
+6. [Mortality salience](https://clemvillatte.github.io/flourishing-compendium/#card=Mortality%20salience): the terror-management paradigm; reminders of death were found to increase worldview and self-esteem defense across 164 articles and 277 experiments, moderate effects at r = .35 ([Burke, Martens and Faucher 2010 meta-analysis record](https://pubmed.ncbi.nlm.nih.gov/20097885/)). The card also carries the field's own trouble, the 2022 seventeen-lab replication attempt on the specific effect it targeted:
 
-> "Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not fully understood or no longer exist." ([Klein et al., Many Labs 4, Collabra: Psychology 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience)): Primary text; quoted from the article's abstract, checked this session.
+> "Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not fully understood or no longer exist." ([Klein et al., Many Labs 4, Collabra: Psychology 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience))
 
 7. [Death reflection](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20reflection): the distinct construct, a specific and vivid contemplation of one's own death rather than an abstract reminder; the apartment-fire scenario, and the finding that vivid confrontation shifted behavior toward intrinsic and grateful responses where mortality salience shifted extrinsic participants toward greed.
 
-> "In conclusion, this study found that when one confronts their own death in a specific and vivid manner, their feelings of gratitude tend to increase." ([Frias et al. 2011, Death and Gratitude](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf)): Primary text; quoted from the study's own conclusion, checked this session.
+> "In conclusion, this study found that when one confronts their own death in a specific and vivid manner, their feelings of gratitude tend to increase." ([Frias et al. 2011, Death and Gratitude](https://greatergood.berkeley.edu/images/uploads/Frias-DeathGratitude.pdf))
 
 8. [Death acceptance](https://clemvillatte.github.io/flourishing-compendium/#card=Death%20acceptance): Wong's DAP-R dimensions; fear of death and death avoidance on one side, and three acceptance types on the other, each making death acceptable for a different reason, its status as biology, a belief about what follows it, or relief from suffering.
 
@@ -53,15 +53,15 @@ The traditions in this map start from the same observation: a life is finite, an
 
 14. [P106 — Let mortality give shape](https://clemvillatte.github.io/flourishing-compendium/#card=P106%20%E2%80%94%20Let%20mortality%20give%20shape): Seneca's refusal of the complaint, life is long enough if you know how to use it, the waste being in the arrangement.
 
-> "Why do we complain of Nature? she has dealt kindly with us." ([Seneca, On the Shortness of Life, Stewart trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/64576/pg64576.txt)): Primary text; the opening of the essay, checked against the Gutenberg text this session.
+> "Why do we complain of Nature? she has dealt kindly with us." ([Seneca, On the Shortness of Life, Stewart trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/64576/pg64576.txt))
 
 15. [D090 — Accept death as transformation](https://clemvillatte.github.io/flourishing-compendium/#card=D090%20%E2%80%94%20Accept%20death%20as%20transformation): the Zhuangzi's True men of old, no love of life or hatred of death, the exit awakening no resistance.
 
-### The counter-practice
+### Meditation on life
 
-16. [SP068 — Think least of death; wisdom meditates on life](https://clemvillatte.github.io/flourishing-compendium/#card=SP068%20%E2%80%94%20Think%20least%20of%20death%3B%20wisdom%20meditates%20on%20life): Spinoza's counter-practice to the whole remembrance family, and it deserves its place at the edge of the map:
+16. [SP068 — Think least of death; wisdom meditates on life](https://clemvillatte.github.io/flourishing-compendium/#card=SP068%20%E2%80%94%20Think%20least%20of%20death%3B%20wisdom%20meditates%20on%20life): Spinoza's line on where wisdom meditates, which the card itself sets beside the memento mori family for comparison:
 
-> "A free man thinks about death less than he thinks about anything else; his wisdom is a meditation on life, not on death." ([Spinoza, Ethics IV P67, Bennett trans.](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)): Primary text; the proposition checked against the translation this session.
+> "A free man thinks about death less than he thinks about anything else; his wisdom is a meditation on life, not on death." ([Spinoza, Ethics IV P67, Bennett trans.](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
 ## Related questions and parallels
 

@@ -102,10 +102,18 @@ Kernel: K315.
    "My use" formulation (no past resolution and no external constraint
    stands between the person and the act).
 
-NOT ADOPTED from the QC: stripping the "Primary text; ... checked this
-session" attribution notes from quote carriers — that note format is the
-published convention of this corpus (gratitude.md, fear.md, acceptance.md
-carry it); kept as is.
+NOT ADOPTED in pass 2, REVERSED in pass 2c (third advisor round): stripping
+the "Primary text; ... checked this session" notes — the advisor's reading
+was corroborated by the supervisor's own 2026-10-23 humanizer sweep
+("'opened 2026-XX-XX' clauses, 'this session' notes ... reworded to plain
+reader terms or removed" across ~350 files), so the notes contravene current
+house style even though older published dossiers still carry them. In pass
+2c all such notes were removed from the body's quote carriers; citations
+were kept, and all verification evidence lives in this ledger.
+
+## Pass 2c (third advisor round) — additional revisions
+
+1. All workflow notes removed from quote carriers (see above).
 
 ## Open points for the supervisor
 
