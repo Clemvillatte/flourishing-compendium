@@ -678,7 +678,27 @@
      "note": "advisor round 1 applied: imagined-scene framing, split quote preserved verbatim, YAML repaired with block scalar, supervisor-routing language moved to QC notes"
     }
    ]
+  },
+  "s1b-031": {
+   "status": "ready",
+   "angle": "B044 just sit: Nanyue-Huairang Mazu tile-polishing dialogue (Guzunsu yulu, Lu Kuan Yu trans.), quotes verified verbatim against opened Terebess page",
+   "history": [
+    {
+     "t": "2026-10-24T14:34:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:34:39+00:00",
+     "to": "qc_pending",
+     "note": "first draft; advisor QC round pending"
+    },
+    {
+     "t": "2026-10-24T14:35:51+00:00",
+     "to": "ready",
+     "note": "advisor round 1 applied: embellishment cut, opening exchange added from opened page, reading narrowed to cautionary companion"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:33:57+00:00"
+ "updated": "2026-10-24T14:35:51+00:00"
 }
