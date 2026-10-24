@@ -6,10 +6,13 @@ Knowing what is happening while it happens sounds like the simplest of skills an
 
 ## Nearby terms
 
-- Mindfulness: the modern practice family, MBSR and its relatives; this page holds the path factor itself and its root text, and points to the family.
-- Attention: the general science of how experience is selected; this page holds the training of it toward clear seeing.
-- Right concentration: the neighbouring factor that steadies the mind this one keeps honest; each has its own page.
-- Meta-awareness: knowing that one is aware; I pair the capacity with sati, and the map below holds both.
+Mindfulness: the modern practice family, MBSR and its relatives; this page holds the path factor itself and its root text, and points to the family.
+
+Attention: the general science of how experience is selected; this page holds the training of it toward clear seeing.
+
+Right concentration: the neighbouring factor that steadies the mind this one keeps honest; each has its own page.
+
+Meta-awareness: knowing that one is aware; I pair the capacity with sati, and the map below holds both.
 
 ## The map: the entries on right mindfulness
 
