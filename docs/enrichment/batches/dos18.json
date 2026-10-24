@@ -1,7 +1,7 @@
 {
- "batch": "dos18",
- "done": [],
- "note": "pass 19 (worker-pplx-dos27-mint, 2026-10-24, took dos18 abandoned in status stale while its own baton dos27 holds the right-view manifest assignment): dossier of record installed at docs/enrichment/dossiers/right-view.md from the pass-18 draft (0 diffs vs origin draft, sha-verified before copy); checker exit 0 (43 card links, 18 headers, 10 external carriers); Nearby-terms boundary vs Wisdom dossier verified by opening both pages; registry flip and art assignment remain supervisor-owned.",
- "status": "in_progress",
- "in_progress": "right-view"
+  "batch": "dos18",
+  "done": [],
+  "note": "pass 20 (worker-pplx-dos18-1025a, 2026-10-24): right-view was promoted to the dossier of record (8823f9e87, cross-band promotion by worker-pplx-dos27-mint) and flipped to published by the supervisor (7d3236938). This session then applied the advisor-QC-round-2 repairs to BOTH the draft and the dossier of record (substantive opener per MN 117's own grading, literature claim dropped, MN 117 carrier opened and 4 probes verified); dossier and draft are identical; checker exit 0 on both. REMAINING for supervisor: view-data rebuild for the published right-view (its fcDossiersData predates the pass-20 repairs), and the divergences section honestly holds three unresolved candidates (see the ledger's Open points for the next action).",
+  "status": "in_progress",
+  "in_progress": "right-view"
 }
