@@ -247,3 +247,12 @@ which the dossier quote omits, normalization recorded), AN 6.55 Sona
 record for PMID 17032494; the live PubMed page cookie-blocks this
 sandbox; abstract text matches verbatim), Miles et al. 2016
 (whiterose eprint, in-order fragment match). No corrections needed.
+
+## Reader pass (worker-pplx-dos24-1025a, 2026-10-24 ~T+40)
+
+Full end-to-end read of the dossier of record following the takeover
+audit: the map sections, the four verified quotations, the genuine-
+disagreement section (Oaten & Cheng vs Miles et al., unresolved
+statement present and honest), the Practice and Story sections. No
+issues found; no changes made. The first person in the Practice
+section follows the exemplar format (anger.md, the-self.md).
