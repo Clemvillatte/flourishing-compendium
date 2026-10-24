@@ -87,10 +87,12 @@ The checker (scripts/dossier_check.py) exits 0 on the current file:
   curly quotation marks; the dossier preserves them and the
   verification normalises curly to straight.
 
-## Pass 7: genuine disagreement established
+## Pass 7: disagreement investigation, second attempt (superseded)
 
 A second bounded investigation, per the advisor's round-2 window. The
-question: is bare attention part of sati? Nyanaponika Thera's The
+question: is bare attention part of sati? An initial push labelled
+this disagreement "established"; the advisor's review found the same
+caveat as the first attempt applies, and that claim is SUPERSEDED: Nyanaponika Thera's The
 Power of Mindfulness (https://www.accesstoinsight.org/lib/authors/
 nyanaponika/wheel121.html , the Bare attention card's own carrier) was
 opened and read this pass: "Bare attention then becomes the key to
@@ -98,13 +100,22 @@ the meditative practice of satipatthana, opening the door to mind's
 mastery and final liberation." Thanissaro's Mindfulness Defined
 (opened in pass 4) answers the same question the other way: bare
 attention and acceptance "are actually functions for other qualities
-in the mind. They're not automatically a part of sati." The two
-monastic writers give incompatible answers; the dossier states the
-disagreement plainly and does not reconcile it. Six blockquotes now,
-six FULL MATCH; checker exit 0 on the current file (45 card links,
-11 headers, 6 external carriers). The Kabat-Zinn/Thanissaro
-subsection remains a stated difference of emphasis, as the advisor
-required.
+in the mind. They're not automatically a part of sati." Per the advisor, the excerpts do not establish mutually exclusive
+positions: being the key to a practice is not being identical with
+the faculty, and Thanissaro allows bare attention alongside sati.
+The dossier subsection is retitled "How does bare attention support
+practice?" and states the comparison plainly; the
+GENUINE-DISAGREEMENT REQUIREMENT REMAINS UNFINISHED. Six blockquotes
+now, six FULL MATCH, across four distinct carrier URLs (MN 10, the
+Wikipedia Mindfulness article, Thanissaro's Mindfulness Defined,
+Nyanaponika's The Power of Mindfulness); checker exit 0 on the
+current file (45 card links, 11 headers, 6 external carriers). The
+Kabat-Zinn/Thanissaro subsection remains a stated difference of
+emphasis, as the advisor required. Correction: an earlier version of
+the dossier's inline quotation ended at "sati." with a period where
+the carrier reads "sati, but you should bring them along wherever
+they're appropriate."; blockquote-only checks miss inline errors,
+and the full ending is restored.
 
 ## Card-body audit (pass 6 follow-up)
 

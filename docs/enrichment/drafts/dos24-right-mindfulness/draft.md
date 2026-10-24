@@ -121,13 +121,13 @@ From the same essay:
 
 These excerpts emphasize different aspects of mindfulness: purposeful, nonjudgmental awareness in the clinical definition, and keeping the practice and its purpose in mind in Thanissaro's account. They do not, by themselves, establish a contradiction. The wiki holds both, the clinical family's cards on one side and the sati cards and this essay on the other, and records the question as open.
 
-### Is bare attention part of sati?
+### How does bare attention support practice?
 
 Nyanaponika Thera makes bare attention the core of the practice:
 
 > "Bare attention then becomes the key to the meditative practice of satipatthana, opening the door to mind's mastery and final liberation." ([Nyanaponika Thera, The Power of Mindfulness](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel121.html)): Primary text by a monastic scholar; quoted passages checked.
 
-Thanissaro assigns it elsewhere, as the passage quoted above says: functions like bringing bare attention to the breath "are actually functions for other qualities in the mind. They're not automatically a part of sati." The two monastic writers give incompatible answers to the same question, whether bare attention belongs to sati: one makes it the key to satipatthana, the other assigns it to other mental qualities. The wiki holds both, the Bare attention card on one side and the sati cards and Thanissaro's essay on the other, and does not reconcile them.
+Thanissaro distinguishes its functions from sati itself while allowing them alongside it, as the passage quoted above says: functions like bringing bare attention to the breath "are actually functions for other qualities in the mind. They're not automatically a part of sati, but you should bring them along wherever they're appropriate." Nyanaponika emphasizes bare attention's importance in satipatthana practice; Thanissaro distinguishes its functions from sati itself while allowing them alongside it. These excerpts do not establish mutually exclusive positions. The wiki holds both, the Bare attention card on one side and the sati cards and Thanissaro's essay on the other, and records the question as open.
 
 ## Practice: variation, selection, retention
 
