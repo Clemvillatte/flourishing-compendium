@@ -39,6 +39,7 @@ The reduction is the analysis the epoché makes possible. The entry glosses it a
 - [[The lifeworld]] — the home the suspension returns to
 - [[Phenomenological psychology]] — the everyday attitude phenomenological psychology suspends and studies
 - [[T049 — Gadamer, Hans-Georg]]: the phenomenological horizon concept the fusion of horizons borrowed.
+
 ## Sources
 
 - Husserl, Ideas I

@@ -25,6 +25,7 @@ The evidence for micro-breaks is modest and honest about its limits. A meta-anal
 - [[Walking meditation]] — the general practice kinhin is a form of
 - [[Attention restoration]] — Kaplan's research-side account of what breaks restore
 - [[T053 — Dogen]]: kinhin, the Soto walking practice between sitting periods the concept describes.
+
 ## Sources
 
 - [Sotoshu Shumucho kinhin instructions, quoted by Terebess](https://terebess.hu/zen/szoto/etikett.html) — Ju-ching's one-breath-per-half-step instruction and the fifty-ten rhythm, verbatim

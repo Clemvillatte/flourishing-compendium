@@ -39,6 +39,7 @@ K011 "See the ego's groundlessness as its nature, not its failure" treats the co
 - [[Tathata, suchness]] — a further reading question: how does "suchness" differ from absence of inherent nature?
 - [[B122]] — the page quotes the MMK 24.8 verse that B122 reads
 - [[T050 — Nagarjuna]]: the doctrine's systematic defender; the concept carries his Mulamadhyamakakarika.
+
 ## Sources
 
 - [Westerhoff, "Nāgārjuna," Stanford Encyclopedia of Philosophy (2010; rev. 2026)](https://plato.stanford.edu/entries/nagarjuna/) — svabhāva analysis; superimposition; the no-master-argument reading; emptiness of emptiness
@@ -55,6 +56,7 @@ K011 "See the ego's groundlessness as its nature, not its failure" treats the co
 [[Y104 — Give up the doer's claim]]
 [[ST091 — Trần Nhân Tông Leaves the Throne]]
 - [[T056 — Nishitani, Keiji]]: the K011 treatment of the constructed self the concept cites beside its principle.
+
 ## Cited in philosophy parallels
 
 - [[AF009 — Understand that affect is constructed, not discovered]]

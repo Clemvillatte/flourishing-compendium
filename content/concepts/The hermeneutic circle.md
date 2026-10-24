@@ -42,6 +42,7 @@ This page describes the idea as the encyclopedia presents it. It does not examin
 - [[Thrownness]] — the situatedness one always interprets from
 - [[Curse of knowledge]] — the everyday failure the circle guards against
 - [[T049 — Gadamer, Hans-Georg]]: the tradition-and-horizon section the concept quotes.
+
 ## Sources
 
 - Gadamer, Truth and Method

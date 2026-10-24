@@ -32,6 +32,7 @@ The culturally embedded self is not cultural determinism. Markus and Kitayama sa
 - [[Social identity theory]]
 - [[Bicultural identity integration]]
 - [[T052 — MacIntyre, Alasdair]]: the embeddedness argument the concept draws from After Virtue beside Taylor and Sandel.
+
 ## Sources
 
 - Taylor, Charles (1989). Sources of the Self: The Making of the Modern Identity. Harvard University Press, p. 27 — accessed via [MacIntyre's review, Philosophy and Phenomenological Research 54(1)](https://eclass.uoa.gr/modules/document/file.php/PRIMEDU143/A.%20MacIntyre,%20Sources%20of%20the%20Self.pdf) (opened; the p. 27 fragment quoted verbatim there)

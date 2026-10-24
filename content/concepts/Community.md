@@ -37,6 +37,7 @@ Bell also records that the charge did not entirely stick: liberals may not have 
 - [[SO062]] — the principle that treats the connections this concept describes as a community resource
 - [[SO038]] — A principle on trust as social capital, grounded in Putnam's own definition
 - [[T052 — MacIntyre, Alasdair]]: the After Virtue sense of community as the local form of life the concept opens with.
+
 ## Sources
 
 - MacIntyre, After Virtue

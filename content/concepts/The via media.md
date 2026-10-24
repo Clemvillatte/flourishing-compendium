@@ -31,6 +31,7 @@ The same review records Bernstein's own conclusion, that to realise the true nat
 
 - [[Both-and]]
 - [[T049 — Gadamer, Hans-Georg]]: the Bernstein review's rationality discussion the concept cites alongside Gadamer.
+
 ## Sources
 
 - Bernstein, Beyond Objectivism and Relativism

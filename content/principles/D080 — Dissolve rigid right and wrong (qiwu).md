@@ -31,6 +31,7 @@ Imagine two colleagues dividing the same hours of work. One wants an earlier shi
 
 - [[T009 — Zhuangzi]]: the monkey-keeper's three-and-four (chapter 2) the page retells for qiwu.
 - [[T050 — Nagarjuna]]: the tetralemma, the Mulamadhyamakakarika examination the page cites beside qiwu.
+
 ## Sources
 
 - [Zhuangzi, Chapter 2, §6, James Legge translation, NOVA Open Publishing](https://pressbooks.nvcc.edu/eng255/chapter/the-zhuangzi/): the monkey-keeper passage quoted above.

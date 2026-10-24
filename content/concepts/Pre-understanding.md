@@ -37,6 +37,7 @@ Read as a unit, the three fores describe one movement: what a reader already hol
 - [[Present-at-hand]] — the companion Heideggerian concept, also from Being and Time
 - [[Hermeneutic circle]] — the circle Heidegger's fore-structure grounds
 - [[T049 — Gadamer, Hans-Georg]]: the fores the concept describes, in his hermeneutics of reading.
+
 ## Sources
 
 - Heidegger, Being and Time, §32

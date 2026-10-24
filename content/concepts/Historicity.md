@@ -31,6 +31,7 @@ Readers of Heidegger should keep two points in view. A philosophy journal essay 
 - [[Fusion of horizons]] — Gadamer's term for what understanding achieves
 - [[Hermeneutic circle]] — the circular structure of interpretation
 - [[T049 — Gadamer, Hans-Georg]]: the situatedness-and-horizon section the concept carries.
+
 ## Sources
 
 - [Wrathall, "Martin Heidegger", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/)

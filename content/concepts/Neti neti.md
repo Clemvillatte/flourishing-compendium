@@ -25,6 +25,7 @@ According to Wikipedia, Shankara reads neti neti as negating all empirical attri
 
 - [[Brahman]] — the negative language the Upaniṣads use for what Brahman is not
 - [[T054 — Shankara]]: the reading the concept cites, negating all empirical attributes and forms, Brahman beyond distinction.
+
 ## Sources
 
 - [Neti Neti (Asivana Yoga)](https://asivanayoga.com/blogs/yoga-mantras/neti-neti)

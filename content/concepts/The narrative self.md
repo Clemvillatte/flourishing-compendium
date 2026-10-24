@@ -26,6 +26,7 @@ The passage continues: we enter human society "with one or more imputed characte
 - [[Narrative identity]] — the psychological and philosophical treatment
 - [[Identity]] — the compendium's broader entry
 - [[T052 — MacIntyre, Alasdair]]: the After Virtue grounding the concept opens with, man as a story-telling animal.
+
 ## Sources
 
 - MacIntyre, After Virtue

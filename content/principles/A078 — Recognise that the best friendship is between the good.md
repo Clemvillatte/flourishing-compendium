@@ -41,6 +41,7 @@ Imagine that a friend admits acting unfairly at work. You might listen, encourag
 - [[Friendship]]: the broader philosophical discussion.
 - [[Eudaimonia]]: the question of flourishing to which friendship contributes.
 - [[T052 — MacIntyre, Alasdair]]: character as an integrated whole, from After Virtue, the page's friendship line.
+
 ## Stories
 
 - [[ST039 — The Ruler Whose People Say We Did It|39. The Ruler Whose People Say "We Did It]]

@@ -35,6 +35,7 @@ For flourishing, shunyata functions as a [[Cognitive defusion|cognitive defusion
 - [[Cognitive flexibility]] — the executive-function construct that parallels loosening fixed essences
 - [[Buddhist emptiness of inherent nature]] — the Sanskrit term's own page for the same Madhyamaka doctrine
 - [[T035 — Thich Nhat Hanh]]: emptiness read as interdependence, the gloss the page carries.
+
 ## Sources
 
 - [Wikipedia, Nagarjuna](https://en.wikipedia.org/wiki/Nagarjuna) — definition, MMK chapter and verse references, and the samsara/nirvana identity at MMK 22.19–20.
@@ -48,6 +49,7 @@ For flourishing, shunyata functions as a [[Cognitive defusion|cognitive defusion
 [[B141 — Let emptiness itself be empty]]
 [[B143 — Emptiness is relational fullness]]
 - [[T050 — Nagarjuna]]: the doctrine's great systematizer; the concept's argument proceeds from dependent origination.
+
 ## Cited in philosophy parallels
 
 - [[B121 — Form is emptiness, emptiness is form (Heart Sutra)]]

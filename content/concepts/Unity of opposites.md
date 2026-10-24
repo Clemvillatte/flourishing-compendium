@@ -32,6 +32,7 @@ The fragments offer examples, not a definition. Another has Heraclitus say of da
 - [[Panta rhei]] — Heraclitus' flux doctrine, read as a special case of the unity
 - [[The many become one]] — Whitehead's formula for the one and the many
 - [[T051 — Nishida Kitaro]]: contradictory identity, his version of holding differences together without sublating them.
+
 ## Sources
 
 - Heraclitus, fragments

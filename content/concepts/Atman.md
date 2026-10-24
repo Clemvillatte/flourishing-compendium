@@ -19,6 +19,7 @@ From the empirical standpoint, consciousness is that by which mental cognition i
 
 - [[Brahman]] — Advaita holds Atman identical with Brahman
 - [[T054 — Shankara]]: the Advaita Vedanta identification of atman with Brahman the concept carries.
+
 ## Sources
 - Śaṅkara (SEP): https://plato.stanford.edu/archives/spr2026/entries/shankara/
 - Advaita Vedanta (IEP): https://iep.utm.edu/advaita-vedanta/

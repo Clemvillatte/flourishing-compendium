@@ -27,6 +27,7 @@ The key term is nonthinking (hishiryo), and it does not mean having no thoughts.
 
 - [[T053 — Dogen]]: the Fukanzazengi instructions this page unpacks, nonthinking and all
 - [[T051 — Nishida Kitaro]]: pure experience, from An Inquiry into the Good, the page's zazen ground.
+
 ## Psychology parallels
 
 - **[[Open-monitoring meditation|Open-monitoring meditation]]**, non-reactive awareness of whatever arises (Lutz et al., 2008)

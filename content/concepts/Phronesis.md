@@ -46,6 +46,7 @@ For habit and flourishing, phronesis names the skill the entire self-improvement
 - [[A091]] — practical wisdom distinguished from contemplation in the scholarly account
 - [[A037]] — the VI.12–13 contrast makes practical wisdom more than efficient means
 - [[T052 — MacIntyre, Alasdair]]: the later uses of phronesis the page lists alongside the Aristotelian Phronesis Model.
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, trans. D. P. Chase, Project Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.txt) — the Book VI young-man passage quoted verbatim

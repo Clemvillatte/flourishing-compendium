@@ -33,6 +33,7 @@ The view you cannot stand is usually a true observation made from a position you
 
 - [[T009 — Zhuangzi]]: the chapter 2 argument that every position is a standpoint before it is a claim.
 - [[T049 — Gadamer, Hans-Georg]]: the fusion of horizons from Truth and Method.
+
 ## Sources
 
 - [Zhuangzi, Legge translation (ETH Zurich PDF)](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 2, that and this

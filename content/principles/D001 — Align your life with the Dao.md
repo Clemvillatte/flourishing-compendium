@@ -27,6 +27,7 @@ Each level takes its law from the level above, and the Dao's law is simply what 
 
 - [[T011 — Socrates]]: the Crito story (ST141) the page lists: the examined life refusing the easy exit.
 - [[T052 — MacIntyre, Alasdair]]: the tradition-as-lived-practice account of the good that the page's story link carries.
+
 ## Stories
 
 - [[ST001 — Cook Ding and the Ox|1. Cook Ding and the Ox]]

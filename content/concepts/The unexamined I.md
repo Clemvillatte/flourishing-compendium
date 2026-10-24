@@ -20,6 +20,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - [[The transformation of consciousness]]
 - [[The traveler's eye]]
 - [[T051 — Nishida Kitaro]]: the self-inspection limit the concept quotes via the SEP entry.
+
 ## Cited in philosophy parallels
 
 - [[K045 — Understand self-cherishing as the root error]]

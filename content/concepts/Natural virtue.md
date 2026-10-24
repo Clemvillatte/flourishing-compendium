@@ -35,6 +35,7 @@ The principles listed below cite this concept. Read them as applications or neig
 - [[Habituation]] — Aristotle's account of how character is shaped after birth
 - [[Eudaimonia]] — the end that virtue in the strict sense serves
 - [[T055 — Mencius]]: The Mencius, the source the concept lists beside the sprouts principle.
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics VI.13, English translation (aristotle-ethics.com)](https://www.aristotle-ethics.com/book/book-6/chapter/chapter-13/paragraph/paragraph-1-virtue-and-practical-wisdom) — the natural virtue and strict virtue passages, quoted above

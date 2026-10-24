@@ -25,6 +25,7 @@ And the upshot of rejecting all four:
 
 - [[Buddhist emptiness of inherent nature]] — the compendium's pairing for the quoted conclusion: none of the four alternatives allows cause and effect to exist with svabhāva.
 - [[T050 — Nagarjuna]]: the four-cornered examination the concept quotes from the Mulamadhyamakakarika.
+
 ## Related thinkers
 
 - [[T009 — Zhuangzi]]: the qiwu equalising D080 pairs with the tetralemma's dissolution of fixed positions.

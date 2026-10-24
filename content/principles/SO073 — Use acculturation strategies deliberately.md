@@ -42,6 +42,7 @@ The same paper concludes that "the role of acculturation for adaptation may be l
 - [[Bicultural identity integration]] — whether two cultural identities sit together or clash
 - [[Multicultural identity theory]] — multiple cultural identities held in harmony or conflict
 - [[T049 — Gadamer, Hans-Georg]]: the fusion of horizons, the page's Gadamer reference for acculturation strategy.
+
 ## Psychology parallels
 
 - Berry (1997, 2005); Sam and Berry (2010) on [[Acculturation theory Berry|acculturation]] and well-being; Virta et al. (2004) on identity; the immigration paradox (Marks et al., 2014); the biculturalism literature (Benet-Martínez and Haritatos, 2005; Huynh et al., 2011).

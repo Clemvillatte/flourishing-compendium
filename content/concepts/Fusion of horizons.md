@@ -48,6 +48,7 @@ The compendium carries the concept socially rather than textually. E080 practise
 - [[Narrative redemption sequences]] — the narrative form the fusion often takes
 - [[SO072]] — a clinical comparison for listening across different accounts of a problem
 - [[T049 — Gadamer, Hans-Georg]]: the term's coiner; the concept carries his Horizontverschmelzung.
+
 ## Cited in philosophy parallels
 
 "The fusion of horizons" — Gadamer, Truth and Method.

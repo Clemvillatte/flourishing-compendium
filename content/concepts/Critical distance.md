@@ -43,6 +43,7 @@ Only the opening summary of the chapter was available, so the account of how dis
 - [[Self-distancing]] — the psychological version of the same stepping-back
 - [[Narrative identity]] — the self-story distance is taken toward
 - [[T049 — Gadamer, Hans-Georg]]: the Truth and Method alternative Ricoeur's antinomy frames the concept against.
+
 ## Sources
 
 - Ricoeur, "The Task of Hermeneutics"

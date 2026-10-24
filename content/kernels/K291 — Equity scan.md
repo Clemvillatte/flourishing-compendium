@@ -30,6 +30,7 @@ The meta-analysis of cooperative decision making summarized the bias in one line
 - [[Prejudice reduction]]: the wider class of practices this scan belongs to
 - [[Prejudice (Vorurteil)]]: what the scan looks for, in Gadamer's sense of judgments formed ahead of the case
 - [[T049 — Gadamer, Hans-Georg]]: the prejudice concept the scan looks for, judgments formed ahead of the evidence.
+
 ## Related kernels
 
 - [[K287 — Fairness audit]]: the retrospective sibling, reviewing a decision already made

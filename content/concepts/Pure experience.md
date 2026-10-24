@@ -42,6 +42,7 @@ Nishida's Inquiry opens with the same move: experience prior to judgment. In the
 - [[K002]] — examines Nishida's account of experience before subject-object differentiation
 - [[K003]] — K003 applies Nishida's pure-experience opening to the unity of knowing and willing.
 - [[T051 — Nishida Kitaro]]: the Kyoto School development section the concept carries.
+
 ## Sources
 
 - [James, Essays in Radical Empiricism (Gutenberg)](https://www.gutenberg.org/files/32547/32547-h/32547-h.htm) — both definitions; the newborn-babes concession; the retrospection act.

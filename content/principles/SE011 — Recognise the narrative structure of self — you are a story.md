@@ -29,6 +29,7 @@ The compendium's reading: if identity is narrated, the narration can be examined
 
 - [[T011 — Socrates]]: the examined-life-as-a-story parallel the page draws.
 - [[T052 — MacIntyre, Alasdair]]: narrative identity, from After Virtue, the page's cross-tradition echo beside Ricoeur.
+
 ## Psychology parallels
 
 - **[[Narrative identity|Narrative identity (McAdams)]]**, identity is a life story with themes, arcs, and meaning (McAdams, 2001; McAdams & McLean, 2013)

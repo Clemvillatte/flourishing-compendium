@@ -36,6 +36,7 @@ Someone has said for ten years that they will learn to meditate. They book a tea
 
 - [[T013 — Seneca]]: the memento mori teaching (Letters 101) the page lists.
 - [[T054 — Shankara]]: the Katha Upanishad 1.3.14 commentary the page quotes, arise and awake.
+
 ## Psychology parallels
 
 - **Deadline structure and implementation intentions**, the benefits of specified timing over vague urgency (Gollwitzer, 1999)

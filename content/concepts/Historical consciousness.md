@@ -35,6 +35,7 @@ One reading for the essays, offered as an interpretation and not a claim from th
 - [[Fusion of horizons]] — Gadamer's term for what understanding achieves
 - [[Historicity]] — the condition of being situated in history
 - [[T049 — Gadamer, Hans-Georg]]: the two senses of historical consciousness the concept distinguishes, from his hermeneutics.
+
 ## Sources
 
 - [Malpas, "Gadamer, Hans-Georg", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/gadamer/)

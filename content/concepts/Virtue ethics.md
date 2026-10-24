@@ -28,6 +28,7 @@ Objections discussed in the entry include application (no codifiable decision pr
 - [[Virtue development research]] — the empirical study of how virtue grows
 - [[A037]] — the relation between good purpose, character and practical judgment
 - [[T052 — MacIntyre, Alasdair]]: the After Virtue revival of the Aristotelian tradition the concept carries.
+
 ## Sources
 
 - Hursthouse, R., & Pettigrove, G. (2003, revised). Virtue Ethics. Stanford Encyclopedia of Philosophy. Opened at https://plato.stanford.edu/entries/ethics-virtue/

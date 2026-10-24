@@ -26,6 +26,7 @@ The Buddha's raft simile in MN 22 gives the warning its plainest form: the Dhamm
 
 - [[T012 — Laozi]]: the sage-wears-rough-cloth-and-holds-jade image (Daodejing 70) the page lists.
 - [[T056 — Nishitani, Keiji]]: Religion and Nothingness and the Zen sickness warning the principle cites.
+
 ## Sources
 
 - [Alagaddupama Sutta, MN 22 (Thanissaro Bhikkhu translation)](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html)

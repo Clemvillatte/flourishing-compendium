@@ -29,6 +29,7 @@ Mencius is explicit that the capacity is not the sages' private property. Of the
 - [[Filial piety]] — the family virtue of the same classical corpus
 - [[Responsibility]] — the Aristotelian counterpart question of what is owed
 - [[T055 — Mencius]]: the Gaozi I valuing of righteousness above life the concept quotes.
+
 ## Sources
 
 - Mencius, The Mencius

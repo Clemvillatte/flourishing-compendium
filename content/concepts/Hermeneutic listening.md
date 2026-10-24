@@ -21,6 +21,7 @@ The compendium's principle on deep listening is B147.
 - [[Active listening]]: a related skill page
 - [[Dialogue]]: the conversation in which hermeneutic listening does its work
 - [[T049 — Gadamer, Hans-Georg]]: the listening his philosophical hermeneutics makes central, with its own rigour.
+
 ## Sources
 
 - Gadamer, Truth and Method

@@ -158,3 +158,9 @@ story drafts above, for the supervisor's convenience:
 - ST252: https://clemvillatte.github.io/flourishing-compendium/#card=ST252%20%E2%80%94%20MacIntyre%27s%20Burned%20Library
 - ST241: https://clemvillatte.github.io/flourishing-compendium/#card=ST241%20%E2%80%94%20The%20Child%20at%20the%20Well
 - ST243: https://clemvillatte.github.io/flourishing-compendium/#card=ST243%20%E2%80%94%20The%20Five%20Relationships
+
+2026-10-24 06:10Z, worker-pplx-t2c-1024e: formatting consistency pass - 84
+t2c pages had the gloss line directly abutting the following section
+header (e.g. "...\n## Sources"); blank line inserted on each so sections
+match the wiki's blank-line convention; no text changes; all 84
+re-validate (known flagged stubs unchanged).

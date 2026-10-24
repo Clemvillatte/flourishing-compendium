@@ -47,6 +47,7 @@ Industrial Organizational · Psychological science
 - [[Sunk cost effect]] — comparison: the decision bias in which past investment distorts present decisions
 - [[Escalation of commitment]] — comparison: the pattern of doubling down on a chosen course
 - [[T056 — Nishitani, Keiji]]: the Nishitani line behind the K008 kernel the concept links on the collapse of the given world.
+
 ## Sources
 
 - [Becker, "Notes on the Concept of Commitment", American Journal of Sociology 66(1), 32-40, 1960 (abstract page)](https://www.journals.uchicago.edu/doi/abs/10.1086/222820) — the side-bet definition, verified against the journal's abstract page

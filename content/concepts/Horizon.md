@@ -18,6 +18,7 @@ The quote is taken from a published lecture that cites Ideas I section 44 direct
 - [[Fusion of horizons]]: Gadamer's later use of the same image, for understanding across traditions
 - [[Hermeneutic circle]]: the parts and the whole that horizons hold together
 - [[T049 — Gadamer, Hans-Georg]]: the later use of the same image, understanding across traditions.
+
 ## Sources
 
 - Husserl, Ideas I

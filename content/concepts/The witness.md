@@ -31,6 +31,7 @@ That account is provisional. From the absolute order, Śaṅkara strips consciou
 - [[The still mirror]]
 - [[Four Noble Truths]]
 - [[T054 — Shankara]]: the Advaita Vedanta witness the concept quotes via the SEP entry on him.
+
 ## Sources
 
 - [Neil Dalal, "Śaṅkara", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/shankara/) — all quotations and locators

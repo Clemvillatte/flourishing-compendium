@@ -32,6 +32,7 @@ Sutra 2.40 says "As a result of cleanliness there is disgust at one's own body a
 
 - [[M032]] — the Yoga observance of shaucha and the Nahua counsel on cleanliness treat the same practice in two traditions
 - [[T053 — Dogen]]: samu, work as practice, from the Tenzo Kyokun.
+
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 181, 188-189

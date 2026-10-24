@@ -28,6 +28,7 @@ The word reduction misleads if heard as diminution. Husserl's operation takes no
 - [[Suspension of the natural attitude]] — the same move described at the level of attitude
 - [[Phenomenological description]] — what the return equips one to do
 - [[T051 — Nishida Kitaro]]: the pure-experience concept the page discusses via Giraud's Husserlian reading.
+
 ## Sources
 
 - [Nagai, Phenomenological Practice of the Epoché (J-Stage PDF)](https://www.jstage.jst.go.jp/article/jnpa/9/0/9_187/_pdf/-char/ja) — Ideas I §32 epoché passage, Findlay/Gibson wording

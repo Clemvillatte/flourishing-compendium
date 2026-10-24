@@ -32,6 +32,7 @@ The companion idea is readiness-to-hand (Zuhandenheit), the mode of being equipm
 - [[Equipment revealed only in breakdown]] — the equipmental web becomes visible when a tool fails.
 - [[Affordances]]
 - [[T051 — Nishida Kitaro]]: the historical body, the reading the K021 principle grounds in.
+
 ## Sources
 
 - [Heidegger, Being and Time, Macquarrie & Robinson translation, p. 97](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.097.html) — the "no such thing as an equipment", totality and "something in-order-to" sentences.
