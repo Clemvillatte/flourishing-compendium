@@ -1,3 +1,48 @@
+# LIVE GF EXEMPLAR HANDOFF — supervisor-11878a6c, 2026-10-24
+
+Owner is awaiting the revised Genuine Flourishing dossier for personal
+validation BEFORE launching six agents. Do not mark the candidate approved
+or transfer this style to all dossiers without that decision.
+
+- Run-clock: `/home/user/workspace/run-clock.txt`, T0 UTC 1792841114;
+  final cap T0+3600. Follow-up messages do not reset it.
+- Supervisor baton claimed and pushed. No separate worker band held.
+- Main was missing the WORK ORDER. Recovered the four-file insurance
+  branch `session-handoff-1024` by fast-forward; that state is now on main.
+- Latest content checkpoint `aa82fb25`: original science chain developed
+  into three paragraphs; original hard-parts chain into four. 147 card
+  links and 23 headers retained. Checker passes; external-carrier
+  occurrences now 46. Opening unchanged.
+- Evidence record: `docs/enrichment/sources/dossiers/genuine-flourishing.md`,
+  candidate passes 1 and 2. All new external claims tied to fetched
+  carriers; several overbroad inherited glosses corrected.
+- Independent advisor `gf_independent_evidence_and_prose_advisor_mvmbg2z9`
+  reviewed first item: scoped pass with corrections (applied: core
+  projects, positive emotions, Ryan/Deci wording, separate flow/vital
+  engagement sources, first-person judgment). Later passes still need QC.
+- EXACT NEXT ACTION: rewrite the remaining conditions/society paragraph,
+  then growth/practice, thinker and story paragraphs. Original lines
+  61/65/69/73 have moved: locate by headers and opening phrases.
+  Then review divergence paragraphs originally 109/129. Preserve links,
+  do not homogenise disagreements, do not modify the opening.
+- Advisor caveats to preserve: Diener/Seligman = correlational study of
+  undergraduates; belonging = hypothesis; Berlin positive freedom has
+  coercion risk; Joshanloo = theoretical review; cultural fit = moderated
+  association; Sanderse = conceptual analysis; PTG = reports, not a
+  universal trauma benefit; Frankl meaning is not a survival guarantee;
+  Diogenes sun story has no source on its card (research or flag).
+- After content/QC: `python3 scripts/dossier_registry_build.py
+  --rebuild=genuine-flourishing`, include `site/assets/app.js` explicitly
+  in supervisor staging, run checker + build + section tests, verify live
+  in cloud browser, and give owner the live review URL. Keep approval gate.
+- SAVE after every item/state change: normal `STORY_ROLE=supervisor
+  scripts/enrich_save.sh "message"` commits but Git push fails here.
+  Follow it with the native secure-proxy path:
+  `pplx credentials run <current list_credentials handle for api.github.com>
+  -- python3 scripts/api_push.py --credential-proxy 2`.
+  The helper now supports proxy auth through curl; no token in URLs/files.
+  Verify origin/main after each checkpoint. Do not echo credentials.
+
 # Supervisor session addendum — 2026-10-24, T+39
 
 - dos18 (Right View): 17 passes, unpublished research draft, blockers

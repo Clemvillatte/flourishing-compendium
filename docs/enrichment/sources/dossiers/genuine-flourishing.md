@@ -314,6 +314,16 @@ External carriers actually fetched for this revision:
 
 Independent advisor review requested; pending, not a clearance.
 
+First-item advisor returned scoped pass with minor corrections, now
+applied: positive emotions terminology, core personal projects, tighter
+Ryan/Deci paraphrase, split flow/vital-engagement source placement, and a
+first-person value judgment without an invented experience. Advisor
+independently re-opened Fredrickson 2001 and Seligman et al. 2005.
+The actual header is "What the science took from it"; "Can a good life
+be measured?" was only a mistaken locator in a message, not a page header.
+Checker after pass 1: 147 card links, 23 headers, 35 external-carrier
+occurrences. After pass 2: 147 / 23 / 46 respectively.
+
 ### Candidate pass 2: meaning and adversity (supervisor-11878a6c)
 
 Rewrote the "hard parts" chain as four connected paragraphs. All 12 card
