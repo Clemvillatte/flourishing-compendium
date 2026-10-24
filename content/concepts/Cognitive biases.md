@@ -26,7 +26,7 @@ The meta-analysis covered "172 studies (N = 2,263 anxious, N = 1,768 nonanxious)
 
 ## Sources
 
-- Kahneman, 2011
+- [[T022 — Kahneman, Daniel|Kahneman]], 2011
 
 - Tversky and Kahneman, 1974
 

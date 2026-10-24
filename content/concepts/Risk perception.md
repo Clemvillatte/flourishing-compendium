@@ -19,7 +19,7 @@ When experts judge risk, their responses correlate highly with technical estimat
 
 - [[D077 — Avoid unnecessary danger]] lists the concept with the gloss that perceived control and familiarity inflate risk tolerance (Slovic, 1987).
 - [[CO034 — Understand the affect heuristic — feelings substitute for reasoning]] connects the concept to the affect heuristic: fears that feel vivid are judged riskier than dull risks regardless of statistics.
-- [[P189 — Live in an aleatory world: accept the gamble, cultivate method]] names risk perception and probability weighting a conceptual parallel (Kahneman and Tversky, 1979), and [[D157 — Don't gamble what matters for what doesn't]] lists the concept with a Slovic 1987 attribution.
+- [[P189 — Live in an aleatory world: accept the gamble, cultivate method]] names risk perception and probability weighting a conceptual parallel ([[T022 — Kahneman, Daniel|Kahneman]] and Tversky, 1979), and [[D157 — Don't gamble what matters for what doesn't]] lists the concept with a Slovic 1987 attribution.
 
 ## Other formulations in this library
 

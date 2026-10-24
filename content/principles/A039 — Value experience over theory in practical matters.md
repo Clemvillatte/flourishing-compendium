@@ -59,7 +59,7 @@ Aristotle's example is medical: a man who knows that light meats are wholesome "
 - [[K360 — Professional phronesis|K360 Professional phronesis]]
 ## Psychology parallels
 
-- **[[Intuitive expertise|Intuitive expertise]]**, pattern recognition in high-feedback domains (Kahneman and Klein, 2009)
+- **[[Intuitive expertise|Intuitive expertise]]**, pattern recognition in high-feedback domains ([[T022 — Kahneman, Daniel|Kahneman]] and Klein, 2009)
 - **[[Tacit knowledge research|Tacit knowledge research]]** (Polanyi, The Tacit Dimension)
 
 ## Philosophy parallels

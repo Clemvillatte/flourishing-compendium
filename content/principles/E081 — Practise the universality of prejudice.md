@@ -33,7 +33,7 @@ The prejudices "that occupy the interpreter's consciousness are not at his free 
 - [Gadamer excerpts from Truth and Method (Weinsheimer and Marshall trans., 2004), compiled by Pierre Legrand](https://www.pierre-legrand.com/gadamer-excerpts.pdf) — pp. 269, 271, 273, 278, 295
 ## Psychology parallels
 
-- **[[Cognitive biases|Cognitive biases]]** (Kahneman, 2011; Tversky and Kahneman, 1974)
+- **[[Cognitive biases|Cognitive biases]]** ([[T022 — Kahneman, Daniel|Kahneman]], 2011; Tversky and Kahneman, 1974)
 
 ## Philosophy parallels
 

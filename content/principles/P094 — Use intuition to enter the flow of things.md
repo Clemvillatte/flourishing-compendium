@@ -33,7 +33,7 @@ Analysis fixes a thing long enough to label its parts. Intuition follows the thi
 
 ## Psychology parallels
 
-- **[[Intuitive expertise|Intuitive expertise]]**, pattern recognition in high-feedback domains (Kahneman and Klein, 2009)
+- **[[Intuitive expertise|Intuitive expertise]]**, pattern recognition in high-feedback domains ([[T022 — Kahneman, Daniel|Kahneman]] and Klein, 2009)
 
 ## Philosophy parallels
 

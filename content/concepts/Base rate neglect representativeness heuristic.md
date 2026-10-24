@@ -7,7 +7,7 @@ file: "Base rate neglect representativeness heuristic"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-B"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-Base rate neglect, in the account Tversky and Kahneman gave in 1974, arises from the representativeness heuristic: judging by how well a case matches a stereotype, and overlooking how common the categories are to begin with.
+Base rate neglect, in the account Tversky and [[T022 — Kahneman, Daniel|Kahneman]] gave in 1974, arises from the representativeness heuristic: judging by how well a case matches a stereotype, and overlooking how common the categories are to begin with.
 
 ### The heuristic
 

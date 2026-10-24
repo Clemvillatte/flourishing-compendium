@@ -33,7 +33,7 @@ Suppose your last essay took longer because you had to request sources and revis
 
 ## Psychology parallels
 
-- **[[Planning fallacy|Planning fallacy]]**, people underestimate task duration and overestimate benefits (Buehler et al., 1994; Kahneman & Tversky, 1979)
+- **[[Planning fallacy|Planning fallacy]]**, people underestimate task duration and overestimate benefits (Buehler et al., 1994; [[T022 — Kahneman, Daniel|Kahneman]] & Tversky, 1979)
 - **Reference class forecasting improves estimates**, using the actual distribution of similar past projects beats planning from the inside (Flyvbjerg, 2006; Lovallo & Kahneman, 2003)
 
 ## Philosophy parallels

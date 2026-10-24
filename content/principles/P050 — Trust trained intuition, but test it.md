@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 50** — Trust trained intuition, but test it
 
-Kahneman and Klein endorse Herbert Simon's recognition account of skilled intuition: a cue gives the expert access to relevant information stored in memory ([Kahneman and Klein, 2009](https://www.pef.uni-lj.si/wp-content/uploads/2026/05/Kahneman_Klein_2009_Conditions-for-Intuitive-Expertise_A-Failure-to-disagree_Am_Psi.pdf), p. 520).
+[[T022 — Kahneman, Daniel|Kahneman]] and Klein endorse Herbert Simon's recognition account of skilled intuition: a cue gives the expert access to relevant information stored in memory ([Kahneman and Klein, 2009](https://www.pef.uni-lj.si/wp-content/uploads/2026/05/Kahneman_Klein_2009_Conditions-for-Intuitive-Expertise_A-Failure-to-disagree_Am_Psi.pdf), p. 520).
 
 > Intuition is nothing more and nothing less than recognition.
 >

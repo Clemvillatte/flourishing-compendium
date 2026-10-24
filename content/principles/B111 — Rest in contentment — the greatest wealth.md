@@ -37,7 +37,7 @@ Take an inventory of what is already running well: health enough to read this, s
 ## Psychology parallels
 
 - **[[Gratitude|Gratitude interventions]]** (Emmons and McCullough, 2003)
-- **Income satiation findings**, diminishing, context-dependent returns (Kahneman and Deaton, 2010; Killingsworth, Kahneman and Mellers, 2023)
+- **Income satiation findings**, diminishing, context-dependent returns ([[T022 — Kahneman, Daniel|Kahneman]] and Deaton, 2010; Killingsworth, Kahneman and Mellers, 2023)
 
 ## Philosophy parallels
 

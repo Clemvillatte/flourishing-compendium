@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 57** — Recognise the peak-end rule in memory: you remember peaks and endings
 
-Redelmeier and Kahneman recorded pain minute by minute in patients having a colonoscopy (n = 154) or lithotripsy (n = 133), then asked them afterwards how bad the whole procedure had been. Their judgments of total pain "were strongly correlated with the peak intensity of pain" and "with the intensity of pain recorded during the last 3 min of the procedure" ([Redelmeier & Kahneman, 1996, Pain 66(1), abstract](https://pubmed.ncbi.nlm.nih.gov/8857625/)). Length hardly registered: "lengthy procedures were not remembered as particularly aversive."
+Redelmeier and [[T022 — Kahneman, Daniel|Kahneman]] recorded pain minute by minute in patients having a colonoscopy (n = 154) or lithotripsy (n = 133), then asked them afterwards how bad the whole procedure had been. Their judgments of total pain "were strongly correlated with the peak intensity of pain" and "with the intensity of pain recorded during the last 3 min of the procedure" ([Redelmeier & Kahneman, 1996, Pain 66(1), abstract](https://pubmed.ncbi.nlm.nih.gov/8857625/)). Length hardly registered: "lengthy procedures were not remembered as particularly aversive."
 
 The authors suggest that "patients' memories of painful medical procedures largely reflect the intensity of pain at the worst part and at the final part of the experience." The study is about painful procedures. Applying the same rule to holidays, meals or relationships is my extension and has not been checked here.
 

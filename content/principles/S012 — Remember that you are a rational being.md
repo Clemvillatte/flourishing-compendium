@@ -38,7 +38,7 @@ On Epictetus's account, reason is not one tool among many: it is the faculty tha
 - [[K289 — Amends and restitution|K289 Amends and restitution]]
 ## Psychology parallels
 
-- **[[Dual-process theory|Dual-process models]]**, Type 2 (deliberative) reasoning as a distinct human capacity (Kahneman, 2011)
+- **[[Dual-process theory|Dual-process models]]**, Type 2 (deliberative) reasoning as a distinct human capacity ([[T022 — Kahneman, Daniel|Kahneman]], 2011)
 - **[[Rationality research|Rationality research]]** (Stanovich, 2011)
 
 ## Philosophy parallels

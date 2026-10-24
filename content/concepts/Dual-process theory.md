@@ -16,7 +16,7 @@ Type 1's defining characteristic is autonomy: these processes run without contro
 
 ### The architecture and its cautions
 
-Evans and Stanovich favour a default-interventionist architecture: "fast Type 1 processing generates intuitive default responses on which subsequent reflective Type 2 processing may or may not intervene" ([Evans & Stanovich 2013](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf)). One caution travels with the theory's fame: the authors "have recently discontinued and discouraged the use of the labels System 1 and 2," since System 1 is really a plural, "a set of systems in the brain" ([Evans & Stanovich 2013](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf)). Kahneman's Thinking, Fast and Slow made the system names famous; the careful form is Type 1 and Type 2 processing.
+Evans and Stanovich favour a default-interventionist architecture: "fast Type 1 processing generates intuitive default responses on which subsequent reflective Type 2 processing may or may not intervene" ([Evans & Stanovich 2013](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf)). One caution travels with the theory's fame: the authors "have recently discontinued and discouraged the use of the labels System 1 and 2," since System 1 is really a plural, "a set of systems in the brain" ([Evans & Stanovich 2013](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf)). [[T022 — Kahneman, Daniel|Kahneman]]'s Thinking, Fast and Slow made the system names famous; the careful form is Type 1 and Type 2 processing.
 
 ### A different dual process
 

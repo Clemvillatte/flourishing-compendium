@@ -39,7 +39,7 @@ Someone whose necessities are secure forgoes one optional purchase for several d
 - [[K263 — Post-action phronesis review|K263 Post-action phronesis review]]
 ## Psychology parallels
 
-- **Income and well-being**, diminishing but context-dependent returns (Kahneman and Deaton, 2010; Killingsworth, Kahneman and Mellers, 2023)
+- **Income and well-being**, diminishing but context-dependent returns ([[T022 — Kahneman, Daniel|Kahneman]] and Deaton, 2010; Killingsworth, Kahneman and Mellers, 2023)
 - **Simple living and well-being** (Brown and Kasser, 2005)
 
 ## Philosophy parallels

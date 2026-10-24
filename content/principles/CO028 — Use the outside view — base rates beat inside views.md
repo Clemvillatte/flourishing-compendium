@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 28** — Use the outside view: base rates beat inside views
 
-Kahneman and Lovallo drew the distinction from an incident in 1976. Each member of a curriculum team in Israel wrote down how many months the project would need, and the guesses ran "from 18 to 30 months". Kahneman then asked the team's curriculum expert how long similar teams had taken. His answer: about 40% of such teams eventually gave up, and of the rest he could not think of any finished in under seven years, "nor of any that took more than ten" (Kahneman and Lovallo, 1993, [Management Science 39(1), p. 25](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-lovallo-mansci1993.pdf)).
+[[T022 — Kahneman, Daniel|Kahneman]] and Lovallo drew the distinction from an incident in 1976. Each member of a curriculum team in Israel wrote down how many months the project would need, and the guesses ran "from 18 to 30 months". Kahneman then asked the team's curriculum expert how long similar teams had taken. His answer: about 40% of such teams eventually gave up, and of the rest he could not think of any finished in under seven years, "nor of any that took more than ten" (Kahneman and Lovallo, 1993, [Management Science 39(1), p. 25](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-lovallo-mansci1993.pdf)).
 
 They name the two ways to forecast:
 

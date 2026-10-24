@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Duration neglect is the finding that how long an experience lasted has surprisingly little effect on how people rate it afterwards. Memory seems to keep a few moments and drop the length.
 
-In the best-known demonstration, Fredrickson and Kahneman (1993) had people watch pleasant and aversive film clips of different lengths and intensities, rating their feelings in real time and then rating each clip as a whole. The authors report that "[e]ffects of film duration on retrospective evaluations were small, entirely explained by changes in real-time affect and further reduced when made from memory." They suggest that these evaluations "appear to be determined by a weighted average of 'snapshots' of the actual affective experience, as if duration did not matter" ([PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/8355141/)).
+In the best-known demonstration, Fredrickson and [[T022 — Kahneman, Daniel|Kahneman]] (1993) had people watch pleasant and aversive film clips of different lengths and intensities, rating their feelings in real time and then rating each clip as a whole. The authors report that "[e]ffects of film duration on retrospective evaluations were small, entirely explained by changes in real-time affect and further reduced when made from memory." They suggest that these evaluations "appear to be determined by a weighted average of 'snapshots' of the actual affective experience, as if duration did not matter" ([PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/8355141/)).
 
 ### The cold-water study
 

@@ -34,7 +34,7 @@ For example: you decide to stop eating sweets, then reach for another. Afterward
 
 ## Psychology parallels
 
-- **[[Dual-process theory|Dual-process models and self-control failure]]**, the conflict between deliberative and automatic systems (Kahneman, 2011)
+- **[[Dual-process theory|Dual-process models and self-control failure]]**, the conflict between deliberative and automatic systems ([[T022 — Kahneman, Daniel|Kahneman]], 2011)
 - **Ego depletion and self-regulation failure** (Baumeister et al., 1998), a contested effect: a 23-lab preregistered replication found d = 0.04, with a confidence interval that included zero (Hagger et al., 2016)
 
 ## Philosophy parallels

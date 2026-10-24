@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 
 > Contrary to theoretical expectations, measures of willingness to accept greatly exceed measures of willingness to pay. This paper reports several experiments that demonstrate that this "endowment effect" persists even in market settings with opportunities to learn.
 
-(Kahneman, Knetsch and Thaler, "Experimental Tests of the Endowment Effect and the Coase Theorem," Journal of Political Economy 98(6), 1990, abstract; [PDF copy hosted by MIT](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_et_al_1990_Experimental_tests.pdf).)
+([[T022 — Kahneman, Daniel|Kahneman]], Knetsch and Thaler, "Experimental Tests of the Endowment Effect and the Coase Theorem," Journal of Political Economy 98(6), 1990, abstract; [PDF copy hosted by MIT](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_et_al_1990_Experimental_tests.pdf).)
 
 In one of the mug experiments, "the median selling price of $5.75 was over twice the median buying price of $2.25." Coffee mugs were given at random to half the participants. When the researchers ran the same market with tokens that had an assigned cash value, the expected volume of trade appeared, which the authors take to suggest that transaction costs cannot explain the undertrading of mugs.
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 2** — Recognise the two systems (or modes) of thinking: fast intuition and slow analysis
 
-The two modes have a classic description. Kahneman's 2003 article lays out the distinction: System 1's operations are fast, automatic, effortless and associative; System 2's are slower, serial, effortful and deliberately controlled. (Kahneman, 2003.)
+The two modes have a classic description. [[T022 — Kahneman, Daniel|Kahneman]]'s 2003 article lays out the distinction: System 1's operations are fast, automatic, effortless and associative; System 2's are slower, serial, effortful and deliberately controlled. (Kahneman, 2003.)
 
 > "The operations of System 1 are typically fast, automatic, effortless, associative, implicit (not available to introspection), and often emotionally charged; they are also governed by habit and are therefore difficult to control or modify. The operations of System 2 are slower, serial, effortful, more likely to be consciously monitored and deliberately controlled; they are also relatively flexible and potentially rule governed." (Kahneman, 2003, [American Psychologist 58(9):697-720](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/JudgementAndChoice.MappingBoundedRationality.DKahneman2003.pdf))
 

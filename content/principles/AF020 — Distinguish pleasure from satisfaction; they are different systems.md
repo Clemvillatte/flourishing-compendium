@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 20** — Distinguish pleasure from satisfaction; they are different systems
 
-Kahneman and Deaton distinguish two aspects of subjective well-being: the emotional quality of a person's everyday experience, and the appraisal that person makes when thinking about their life as a whole. ([Kahneman & Deaton, 2010](https://doi.org/10.1073/pnas.1011492107)) My application is to record the two separately — the remembered emotional experience of a period and the overall appraisal of the life containing it — before letting either stand in for the other.
+[[T022 — Kahneman, Daniel|Kahneman]] and Deaton distinguish two aspects of subjective well-being: the emotional quality of a person's everyday experience, and the appraisal that person makes when thinking about their life as a whole. ([Kahneman & Deaton, 2010](https://doi.org/10.1073/pnas.1011492107)) My application is to record the two separately — the remembered emotional experience of a period and the overall appraisal of the life containing it — before letting either stand in for the other.
 
 > "Emotional well-being refers to the emotional quality of an individual's everyday experience—the frequency and intensity of experiences of joy, stress, sadness, anger, and affection that make one's life pleasant or unpleasant. Life evaluation refers to the thoughts that people have about their life when they think about it." (Kahneman, D., & Deaton, A. (2010). High income improves evaluation of life but not emotional well-being. PNAS, 107(38), 16489-16493, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2944762/))
 

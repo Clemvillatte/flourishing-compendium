@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "System 1 and System 2" — Kahneman, 2011.
 
-System 1 and System 2 are Daniel Kahneman's names for the two modes of thinking described in Thinking, Fast and Slow (2011): fast, automatic, intuitive thought, and slow, effortful, deliberate thought. Kahneman borrows the terms from the psychologists Keith Stanovich and Richard West, and presents them as characters in a story the reader's mind is always telling.
+System 1 and System 2 are [[T022 — Kahneman, Daniel|Daniel Kahneman]]'s names for the two modes of thinking described in Thinking, Fast and Slow (2011): fast, automatic, intuitive thought, and slow, effortful, deliberate thought. Kahneman borrows the terms from the psychologists Keith Stanovich and Richard West, and presents them as characters in a story the reader's mind is always telling.
 
 > "I will describe mental life by the metaphor of two agents, called System 1 and System 2, which respectively produce fast and slow thinking." (Daniel Kahneman, Thinking, Fast and Slow, [publisher's excerpt, Macmillan](https://us.macmillan.com/books/9780374533557/thinkingfastandslow/))
 

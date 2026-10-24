@@ -31,7 +31,7 @@ As a practical exercise, consider what acquiring and looking after more possessi
 
 ## Psychology parallels
 
-- **[[Endowment effect|The endowment effect]]**, possessions inflate in subjective value and bind behavior (Kahneman, Knetsch and Thaler, 1991)
+- **[[Endowment effect|The endowment effect]]**, possessions inflate in subjective value and bind behavior ([[T022 — Kahneman, Daniel|Kahneman]], Knetsch and Thaler, 1991)
 - **Scarcity mindset impairs bandwidth** (Mullainathan and Shafir, 2013)
 
 ## Philosophy parallels

@@ -29,7 +29,7 @@ Imagine choosing an activity for your child after seeing a frightening news repo
 
 ## Psychology parallels
 
-- **Deliberation improves decisions in novel, high-stakes situations**, System 2 reasoning outperforms intuition when the task is unfamiliar or the stakes are high (Kahneman, 2011; Evans & Stanovich, 2013)
+- **Deliberation improves decisions in novel, high-stakes situations**, System 2 reasoning outperforms intuition when the task is unfamiliar or the stakes are high ([[T022 — Kahneman, Daniel|Kahneman]], 2011; Evans & Stanovich, 2013)
 - **[[Unconscious thought theory (Dijksterhuis)|Unconscious thought theory (Dijksterhuis)]]**, some complex decisions benefit from a period of unconscious processing ("sleep on it"), though this finding is contested (Dijksterhuis & Nordgren, 2006; Nieuwenstein et al., 2015)
 
 ## Philosophy parallels

@@ -43,7 +43,7 @@ Follow Letter 18 for three days: plain food and plain clothes, and each day ask 
 
 ## Psychology parallels
 
-- **Income and well-being** (Kahneman and Deaton, 2010; Killingsworth, Kahneman and Mellers, 2023)
+- **Income and well-being** ([[T022 — Kahneman, Daniel|Kahneman]] and Deaton, 2010; Killingsworth, Kahneman and Mellers, 2023)
 - **Simple living and well-being** (Brown and Kasser, 2005)
 
 ## Philosophy parallels

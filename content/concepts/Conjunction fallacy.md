@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 judging a conjunction (Linda is a feminist and a bank teller) as more probable than a component (Linda is a bank teller) (Tversky & Kahneman, 1983).
 
-The conjunction fallacy is the mistake Amos Tversky and Daniel Kahneman named in 1983: rating a combination of events as more probable than one of its parts. The combination cannot be, and the paper's opening states why:
+The conjunction fallacy is the mistake Amos Tversky and [[T022 — Kahneman, Daniel|Daniel Kahneman]] named in 1983: rating a combination of events as more probable than one of its parts. The combination cannot be, and the paper's opening states why:
 
 > "Perhaps the simplest and the most basic qualitative law of probability is the conjunction rule: The probability of a conjunction, P(A&B), cannot exceed the probabilities of its constituents, P(A) and P(B), because the extension (or the possibility set) of the conjunction is included in the extension of its constituents. Judgments under uncertainty, however, are often mediated by intuitive heuristics that are not bound by the conjunction rule. A conjunction can be more representative than one of its constituents... The representativeness and availability heuristics therefore can make a conjunction appear more probable than one of its constituents." ([Tversky and Kahneman 1983, Psychological Review 90(4):293-315](https://joelvelasco.net/teaching/5311/tverskykahnamen83-Extensional.pdf))
 

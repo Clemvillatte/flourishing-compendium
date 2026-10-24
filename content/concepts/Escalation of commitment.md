@@ -27,7 +27,7 @@ The paper's own examples include a Boston highway project, a nuclear power plant
 
 - [[Sunk cost effect]] — one of the explanations the meta-analysis lists, the extent of sunk costs
 - [[Cognitive dissonance]] — related to self-justification, one of the theoretical perspectives the paper sorts escalation research into; the paper itself cites Festinger (1957) under self-justification
-- [[Prospect theory]] — another of the six perspectives the paper names, citing Kahneman and Tversky (1979)
+- [[Prospect theory]] — another of the six perspectives the paper names, citing [[T022 — Kahneman, Daniel|Kahneman]] and Tversky (1979)
 
 ## Sources
 

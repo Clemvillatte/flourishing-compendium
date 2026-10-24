@@ -38,7 +38,7 @@ I read this refusal as an invitation to judge an acquisition by what you would u
 
 ## Psychology parallels
 
-- **Income and well-being** (Kahneman and Deaton, 2010; Jebb et al., 2018; Killingsworth, Kahneman and Mellers, 2023)
+- **Income and well-being** ([[T022 — Kahneman, Daniel|Kahneman]] and Deaton, 2010; Jebb et al., 2018; Killingsworth, Kahneman and Mellers, 2023)
 - **[[Aspiration index|Aspiration index]]** (Kasser and Ryan, 1993)
 
 ## Philosophy parallels

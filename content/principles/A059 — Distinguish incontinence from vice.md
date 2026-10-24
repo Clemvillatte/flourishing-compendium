@@ -34,7 +34,7 @@ As an analogy : two employees pad an expense claim. One regrets breaking a rule 
 
 ## Psychology parallels
 
-- **[[Dual-process theory|Dual-process models]]** (Kahneman, 2011)
+- **[[Dual-process theory|Dual-process models]]** ([[T022 — Kahneman, Daniel|Kahneman]], 2011)
 - **[[Moral disengagement research|Moral disengagement research]]** (Bandura, 1999)
 
 ## Philosophy parallels

@@ -50,7 +50,7 @@ Imagine preparing an opening line and three points for a difficult conversation.
 
 ## Psychology parallels
 
-- **[[Planning fallacy|The planning fallacy]]**, plans systematically underestimate the time a project will take (Kahneman and Tversky, 1979)
+- **[[Planning fallacy|The planning fallacy]]**, plans systematically underestimate the time a project will take ([[T022 — Kahneman, Daniel|Kahneman]] and Tversky, 1979)
 - **[[Plan-then-adapt strategies outperform rigid plans|Plan-then-adapt strategies outperform rigid plans]]**
 
 ## Philosophy parallels

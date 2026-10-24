@@ -7,7 +7,7 @@ file: "Anchoring effect"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-The anchoring effect is the pulling of a judgment toward a reference point, even when that reference point has no business near the judgment: "a psychological phenomenon in which an individual's judgments or decisions are influenced by a reference point or 'anchor' which can be completely irrelevant" ([Wikipedia, Anchoring effect](https://en.wikipedia.org/wiki/Anchoring_effect)). The canonical demonstration belongs to [[CO018]]: Tversky and Kahneman's roulette wheel, stopping on 10 or 65, moved estimates of African countries in the United Nations from an average of 25 percent to 45 percent ([Wikipedia, Anchoring effect](https://en.wikipedia.org/wiki/Anchoring_effect)).
+The anchoring effect is the pulling of a judgment toward a reference point, even when that reference point has no business near the judgment: "a psychological phenomenon in which an individual's judgments or decisions are influenced by a reference point or 'anchor' which can be completely irrelevant" ([Wikipedia, Anchoring effect](https://en.wikipedia.org/wiki/Anchoring_effect)). The canonical demonstration belongs to [[CO018]]: Tversky and [[T022 — Kahneman, Daniel|Kahneman]]'s roulette wheel, stopping on 10 or 65, moved estimates of African countries in the United Nations from an average of 25 percent to 45 percent ([Wikipedia, Anchoring effect](https://en.wikipedia.org/wiki/Anchoring_effect)).
 
 ### Why the first number wins
 

@@ -7,7 +7,7 @@ file: "Endowment effect"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-ownership increases valuation (Kahneman et al., 1990; Thaler, 1980).
+ownership increases valuation ([[T022 — Kahneman, Daniel|Kahneman]] et al., 1990; Thaler, 1980).
 
 The endowment effect is the finding that owning a thing raises what it is worth to its owner. Richard Thaler named it in 1980, and the 1990 Journal of Political Economy paper by Kahneman, Knetsch and Thaler gave it its decisive experimental test. The paper's abstract states the gap in one line:
 

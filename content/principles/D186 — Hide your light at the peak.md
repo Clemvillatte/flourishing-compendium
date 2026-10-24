@@ -33,7 +33,7 @@ For a finished essay, compare sending it with doing another round of revisions. 
 ## Psychology parallels
 
 - **[[Goal disengagement|Goal disengagement]]** (Wrosch et al., 2003)
-- **[[Peak-end rule|Peak-end research]]** (Kahneman)
+- **[[Peak-end rule|Peak-end research]]** ([[T022 — Kahneman, Daniel|Kahneman]])
 
 ## Philosophy parallels
 

@@ -24,7 +24,7 @@ Ryan and Deci's map of the field:
 
 The two views are described as equally old:
 
-> "The first of these can be broadly labeled hedonism (Kahneman et al 1999) and reflects the view that well-being consists of pleasure or happiness. The second view, both as ancient and as current as the hedonic view, is that well-being consists of more than just happiness. It lies instead in the actualization of human potentials. This view has been called eudaimonism (Waterman 1993), conveying the belief that well-being consists of fulfilling or realizing one’s daimon or true nature." (Ryan & Deci, 2001, [selfdeterminationtheory.org](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf))
+> "The first of these can be broadly labeled hedonism ([[T022 — Kahneman, Daniel|Kahneman]] et al 1999) and reflects the view that well-being consists of pleasure or happiness. The second view, both as ancient and as current as the hedonic view, is that well-being consists of more than just happiness. It lies instead in the actualization of human potentials. This view has been called eudaimonism (Waterman 1993), conveying the belief that well-being consists of fulfilling or realizing one’s daimon or true nature." (Ryan & Deci, 2001, [selfdeterminationtheory.org](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf))
 
 Ryff's measurement work found only weak association between her dimensions and the earlier scales:
 

@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### Definition
 
-The planning fallacy is the confident belief that your project will run as planned, held even while you know that most similar projects ran late. Kahneman and Tversky named it in 1979, and Buehler, Griffin and Ross gave it its working definition in the 1994 paper that made it a research program:
+The planning fallacy is the confident belief that your project will run as planned, held even while you know that most similar projects ran late. [[T022 — Kahneman, Daniel|Kahneman]] and Tversky named it in 1979, and Buehler, Griffin and Ross gave it its working definition in the 1994 paper that made it a research program:
 
 > The tendency to hold a confident belief that one's own project will proceed as planned, even while knowing that the vast majority of similar projects have run late, has been termed the planning fallacy (Kahneman & Tversky, 1979). ([Buehler, Griffin & Ross 1994](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/buehler-et-al-1994.pdf))
 

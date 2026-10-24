@@ -28,7 +28,7 @@ The second move is the one that separates Dewey from fatalism: once the gamble i
 
 ## Psychology parallels
 
-- **Risk perception and probability weighting** (conceptual parallel; Kahneman and Tversky, 1979)
+- **Risk perception and probability weighting** (conceptual parallel; [[T022 — Kahneman, Daniel|Kahneman]] and Tversky, 1979)
 - **Uncertainty intolerance and anxiety** (conceptual parallel; Carleton, 2012)
 
 ## Practice

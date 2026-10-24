@@ -7,7 +7,7 @@ file: "Representativeness heuristic"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-The representativeness heuristic is Amos Tversky and Daniel Kahneman's name for the mind's shortcut in probability judgment: similarity stands in for likelihood. The definition, from their 1974 Science paper:
+The representativeness heuristic is Amos Tversky and [[T022 — Kahneman, Daniel|Daniel Kahneman]]'s name for the mind's shortcut in probability judgment: similarity stands in for likelihood. The definition, from their 1974 Science paper:
 
 > "In answering such questions, people typically rely on the representativeness heuristic, in which probabilities are evaluated by the degree to which A is representative of B, that is, by the degree to which A resembles B." (Tversky & Kahneman, "Judgment under Uncertainty: Heuristics and Biases", Science 185, [paper PDF](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/tversky-kahneman-science-1974.pdf))
 

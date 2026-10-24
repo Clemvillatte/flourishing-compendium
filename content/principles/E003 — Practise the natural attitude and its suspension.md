@@ -58,7 +58,7 @@ Usually, you take the world's existence for granted while dealing with things. F
 ## Psychology parallels
 
 - **[[Dual-process theory|Dual-process theory]]** (Stanovich and West, 2000)
-- **[[System 1 and System 2|System 1 and System 2]]** (Kahneman, 2011)
+- **[[System 1 and System 2|System 1 and System 2]]** ([[T022 — Kahneman, Daniel|Kahneman]], 2011)
 
 ## Philosophy parallels
 

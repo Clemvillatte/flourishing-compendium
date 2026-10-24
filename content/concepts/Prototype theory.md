@@ -18,7 +18,7 @@ The theory rests on two proposed principles of category formation: category syst
 ### Here
 
 - [[P011 — Refuse essences — things have no fixed inner nature]] — Wittgenstein's games: a complicated network of similarities overlapping and criss-crossing, with no common element running through all of them.
-- [[CO035 — Recognise the representativeness heuristic — similarity is mistaken for probability]] — Tversky and Kahneman's definition: probabilities evaluated by the degree to which A resembles B.
+- [[CO035 — Recognise the representativeness heuristic — similarity is mistaken for probability]] — Tversky and [[T022 — Kahneman, Daniel|Kahneman]]'s definition: probabilities evaluated by the degree to which A resembles B.
 - [[CO020 — Know the base rate neglect — you ignore background frequencies]] — the Steve example: librarian assessed by match to the stereotype while the base rates point the other way.
 - [[CO073 — Learn to make decisions under uncertainty — you will never have complete information]] — Gigerenzer and Gaissmaier's review of heuristic decision making.
 - [[E107 — Practise the creation of values]] — Nietzsche: values are given and bestowed, not found in things by nature.

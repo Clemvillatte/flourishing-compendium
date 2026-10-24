@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 41** — Trust intuition in the right domains: it is not always wrong
 
-Kahneman, who studies how judgment goes wrong, and Klein, who studies how experts get it right, spent years disagreeing and then co-wrote a paper on where they agree. Their answer is about the setting where the intuition was learned:
+[[T022 — Kahneman, Daniel|Kahneman]], who studies how judgment goes wrong, and Klein, who studies how experts get it right, spent years disagreeing and then co-wrote a paper on where they agree. Their answer is about the setting where the intuition was learned:
 
 > "An environment of high validity is a necessary condition for the development of skilled intuitions. Other necessary conditions include adequate opportunities for learning the environment (prolonged practice and feedback that is both rapid and unequivocal)." (Kahneman and Klein, 2009, [American Psychologist 64(6), p. 524](http://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-klein-2009.pdf))
 

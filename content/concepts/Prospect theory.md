@@ -7,7 +7,7 @@ file: "Prospect theory"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Prospect theory is Kahneman and Tversky's 1979 descriptive model of choice under risk. Its own summary of what it does:
+Prospect theory is [[T022 — Kahneman, Daniel|Kahneman]] and Tversky's 1979 descriptive model of choice under risk. Its own summary of what it does:
 
 > "This paper presents a critique of expected utility theory as a descriptive model of decision making under risk, and develops an alternative model, called prospect theory." ([Kahneman & Tversky, 1979, Econometrica 47(2), abstract](https://ideas.repec.org/a/ecm/emetrp/v47y1979i2p263-91.html))
 

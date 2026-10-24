@@ -32,7 +32,7 @@ The vivid memory of where you were when big news broke feels like a photograph. 
 
 ## Philosophy parallels
 
-- **[[The illusion of certainty|The illusion of certainty]]** (Kahneman, Thinking, Fast and Slow)
+- **[[The illusion of certainty|The illusion of certainty]]** ([[T022 — Kahneman, Daniel|Kahneman]], Thinking, Fast and Slow)
 - **Appearance vs reality** (Plato, Republic)
 
 ## Practice

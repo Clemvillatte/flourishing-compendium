@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 79** — Build financial security, not financial excess
 
-Two findings frame this principle, and the second changes the first. Kahneman and Deaton analysed more than 450,000 US survey responses and found that emotional well-being "rises with log income, but there is no further progress beyond an annual income of ~$75,000", while, in their words, "Low income exacerbates the emotional pain associated with such misfortunes as divorce, ill health, and being alone" ([PNAS 107, 2010](https://www.pnas.org/doi/10.1073/pnas.1011492107)).
+Two findings frame this principle, and the second changes the first. [[T022 — Kahneman, Daniel|Kahneman]] and Deaton analysed more than 450,000 US survey responses and found that emotional well-being "rises with log income, but there is no further progress beyond an annual income of ~$75,000", while, in their words, "Low income exacerbates the emotional pain associated with such misfortunes as divorce, ill health, and being alone" ([PNAS 107, 2010](https://www.pnas.org/doi/10.1073/pnas.1011492107)).
 
 (Kahneman and Deaton, 2010; Killingsworth et al., 2023, with the caveat that the exact plateau is contested.)
 

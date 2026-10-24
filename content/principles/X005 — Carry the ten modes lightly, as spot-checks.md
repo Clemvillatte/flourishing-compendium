@@ -30,7 +30,7 @@ Someone reading a colleague's email notes their own tiredness, asks another read
 
 ## Psychology parallels
 
-- **Perceptual relativity and framing effects** (Tversky and Kahneman's framing research)
+- **Perceptual relativity and framing effects** (Tversky and [[T022 — Kahneman, Daniel|Kahneman]]'s framing research)
 
 ## Philosophy parallels
 

@@ -52,7 +52,7 @@ The famous case is Priam, prosperous and then ruined:
 ## Psychology parallels
 
 - **[[Social determinants of health|Social determinants of health and well-being]]**, material conditions, social position, and environment shape mental health outcomes (Marmot, 2004; [Determinants of Well-Being: A Causal Framework](h...)
-- **Income and well-being**, diminishing but context-dependent returns (Kahneman and Deaton, 2010; Killingsworth, Kahneman and Mellers, 2023)
+- **Income and well-being**, diminishing but context-dependent returns ([[T022 — Kahneman, Daniel|Kahneman]] and Deaton, 2010; Killingsworth, Kahneman and Mellers, 2023)
 
 ## Philosophy parallels
 
