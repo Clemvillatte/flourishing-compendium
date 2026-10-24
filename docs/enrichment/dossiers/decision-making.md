@@ -185,7 +185,7 @@ On the feeling of being right they are blunt: "Subjective experience is not a re
 
 The shared question: does having more options help a chooser? Iyengar and Lepper reported that it can backfire:
 
-> "people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices." ([Iyengar and Lepper, Journal of Personality and Social Psychology 2000, abstract](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20&%20Lepper%20(2000).pdf)): Secondary source; quoted passage checked.
+> "people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices." ([Iyengar and Lepper, Journal of Personality and Social Psychology 2000, abstract](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf)): Secondary source; quoted passage checked.
 
 A meta-analysis of the later literature found the general effect much weaker than the first studies suggested:
 

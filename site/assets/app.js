@@ -9465,7 +9465,7 @@ window.fcDossiersData = {
         },
         {
           "t": "q",
-          "x": "\"people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices.\" ([Iyengar and Lepper, Journal of Personality and Social Psychology 2000, abstract](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20&%20Lepper%20(2000).pdf)): Secondary source; quoted passage checked.",
+          "x": "\"people are more likely to purchase gourmet jams or chocolates or to undertake optional class essay assignments when offered a limited array of 6 choices rather than a more extensive array of 24 or 30 choices.\" ([Iyengar and Lepper, Journal of Personality and Social Psychology 2000, abstract](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20%282000%29.pdf)): Secondary source; quoted passage checked.",
           "s": null
         },
         {
