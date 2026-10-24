@@ -170,16 +170,22 @@ Bodhi allows nonconceptual observation as a practice. His objection is to making
 
 The stories that best carry the theme's aspects, each retold in a line; the full telling lives on the card.
 
-[ST023 — Simone Weil on Attention](https://clemvillatte.github.io/flourishing-compendium/#card=ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil's reading of attention as the rarest and purest form of generosity, school studies as its training ground.
-
-[ST122 — Augustine's Threefold Present](https://clemvillatte.github.io/flourishing-compendium/#card=ST122%20%E2%80%94%20Augustine%27s%20Threefold%20Present): Augustine's account of the present as a triple structure, a present of things past, of things present and of things future, with attention the one of the three that is lived in.
-
-[ST071 — The Wind and the Flag](https://clemvillatte.github.io/flourishing-compendium/#card=ST071%20%E2%80%94%20The%20Wind%20and%20the%20Flag): two monks argue whether the flag or the wind is moving; Huineng says it is not the wind or the flag, their minds are moving, the Chan tradition's sharpest statement on where events happen.
+### What the factor is
 
 [ST069 — The Four Foundations](https://clemvillatte.github.io/flourishing-compendium/#card=ST069%20%E2%80%94%20The%20Four%20Foundations): the sutta opens by calling its practice the direct path for the purification of beings, then lays out the four frames of reference, body, feelings, mind and mental qualities.
 
-[ST074 — The Five Hindrances as Thieves](https://clemvillatte.github.io/flourishing-compendium/#card=ST074%20%E2%80%94%20The%20Five%20Hindrances%20as%20Thieves): the Buddha catalogues five hindrances that obscure the mind, and the instruction is not to fight them but to know them, noticing when one is present, when absent, and how it arose and passed away.
+[ST068 — The Sixteen Steps of the Breath](https://clemvillatte.github.io/flourishing-compendium/#card=ST068%20%E2%80%94%20The%20Sixteen%20Steps%20of%20the%20Breath): the Buddha trains mindfulness of breathing step by step, breathing in long or short and discerning it, then breathing sensitive to the entire body, calming bodily fabrication, sensitive to rapture and pleasure, on through the mind to relinquishment; the card reads the progression as the point, nothing skipped, each step verifiable in the body.
+
+### The refrain that does the work
 
 [ST061 — Bāhiya's Single Instruction](https://clemvillatte.github.io/flourishing-compendium/#card=ST061%20%E2%80%94%20B%C4%81hiya%27s%20Single%20Instruction): the Buddha's brief instruction to Bahiya, in reference to the seen, there will be only the seen; in reference to the heard, only the heard; the senses received without addition, and Bahiya awakens on the spot.
 
-[ST068 — The Sixteen Steps of the Breath](https://clemvillatte.github.io/flourishing-compendium/#card=ST068%20%E2%80%94%20The%20Sixteen%20Steps%20of%20the%20Breath): the Buddha trains mindfulness of breathing step by step, breathing in long or short and discerning it, then breathing sensitive to the entire body, calming bodily fabrication, sensitive to rapture and pleasure, on through the mind to relinquishment; the card reads the progression as the point, nothing skipped, each step verifiable in the body.
+[ST074 — The Five Hindrances as Thieves](https://clemvillatte.github.io/flourishing-compendium/#card=ST074%20%E2%80%94%20The%20Five%20Hindrances%20as%20Thieves): the Buddha catalogues five hindrances that obscure the mind, and the instruction is not to fight them but to know them, noticing when one is present, when absent, and how it arose and passed away.
+
+### The attention traditions
+
+[ST071 — The Wind and the Flag](https://clemvillatte.github.io/flourishing-compendium/#card=ST071%20%E2%80%94%20The%20Wind%20and%20the%20Flag): two monks argue whether the flag or the wind is moving; Huineng says it is not the wind or the flag, their minds are moving, the Chan tradition's sharpest statement on where events happen.
+
+[ST023 — Simone Weil on Attention](https://clemvillatte.github.io/flourishing-compendium/#card=ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil's reading of attention as the rarest and purest form of generosity, school studies as its training ground.
+
+[ST122 — Augustine's Threefold Present](https://clemvillatte.github.io/flourishing-compendium/#card=ST122%20%E2%80%94%20Augustine%27s%20Threefold%20Present): Augustine's account of the present as a triple structure, a present of things past, of things present and of things future, with attention the one of the three that is lived in.

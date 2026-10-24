@@ -365,6 +365,22 @@ The advisor review of passes 13-15 required corrections, all applied:
   12 headers, 10 external carriers) and the deeper card-body audit is
   kept in remaining work.
 
+## Deeper card-body audit and story grouping (pass 17, worker-pplx-dos24-1025a, 2026-10-24)
+
+The pass-6 open item (deeper mid-body material not exhaustively read) is
+CLOSED. All 49 linked cards (concepts, kernels, stories) were read in
+full body this pass, not openings only: each map line was checked
+against its card's complete body. Findings: every map line is
+supported by its card; no corrections were required. Notes: the Right
+mindfulness card's "What the trials show" section carries the same
+Goyal et al. 2014 findings the dossier now cites (with the opened PMC
+carrier); the ST074 card's carrier citation (MN 2) remains mismatched
+(flagged in pass 11); the ST075 card's single-monkey telling remains
+unsupported (pass 13). The Story section was also regrouped under
+subtheme headers mirroring the map's aspects (What the factor is; The
+refrain that does the work; The attention traditions), matching the
+exemplar structure in anger.md and the-self.md; loglines unchanged.
+
 ## Card-body audit (pass 6 follow-up)
 
 A description audit read the assembled card bodies (frontmatter
