@@ -43,3 +43,4 @@ What you look at becomes what you remember, and what you remember becomes what y
 
 - [[AT012]] — listed for comparison
 - [[T013 — Seneca]] — the Letters' gratitude, attention turned toward what grows
+- [[T011 — Socrates]]: the examined life the page's attention test extends to what you attend to (Apology).

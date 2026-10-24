@@ -27,8 +27,7 @@ Hypothetical illustration: you judge that ending an argument would protect a fri
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the butterfly emblem the page uses for the dream-state of external determination.
-
-## Psychology parallels
+- [[T011 — Socrates]]: the examined life behind the page's bondage question (Apology).## Psychology parallels
 
 - **External locus of control and learned helplessness**, the classic findings linking perceived external determination to depression (Seligman, 1975, Helplessness; Rotter, 1966)
 

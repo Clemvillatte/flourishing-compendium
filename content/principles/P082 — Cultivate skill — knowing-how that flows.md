@@ -39,8 +39,7 @@ Dewey offers a related account of habit from the psychological side:
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the Inner Chapters skill stories the page pairs with Dewey for knowing-how that flows.
-
-## Sources
+- [[T012 — Laozi]]: wu wei, Daodejing 64, behind the page's flowing skill.## Sources
 
 - [Zhuangzi ch. 3 (tr. James Legge)](https://tianmu.org/good-work-library/daoist/zhuangzi/inner-chapters/zhuangzi-nourishing-the-lord-of-life): Cook Ding and the nineteen-year knife
 - [Dewey, Human Nature and Conduct (1922), Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt): habit and unconscious efficiency

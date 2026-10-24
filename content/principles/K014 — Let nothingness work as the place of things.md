@@ -27,8 +27,7 @@ The sky image and the practical advice below belong to the compendium, not to th
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the Inner Chapters' empty usefulness of the hollow, the page's wu at work.
-
-## Sources
+- [[T012 — Laozi]]: the empty hub of the wheel, Daodejing 11, the page's nothingness image.## Sources
 
 - [Stanford Encyclopedia of Philosophy, "Kyoto School", sections 3.2 and 3.5](https://plato.stanford.edu/entries/kyoto-school/) — field of emptiness and Nishitani's passage
 

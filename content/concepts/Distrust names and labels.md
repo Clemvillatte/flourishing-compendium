@@ -39,8 +39,7 @@ Both passages concern naming the Tao. The extension to the labels put on people,
 - [[Affect labeling]] — the label as the feeling's name, not its verdict
 - [[The limits of language]] — Wittgenstein's Tractatus limit-drawing: what cannot be said clearly must be passed over
 - [[Language on holiday]] — Wittgenstein's diagnosis of philosophical confusion as language idling rather than working
-
-## Related thinkers
+- [[T012 — Laozi]]: the Daodejing 1 opening the page is built on.## Related thinkers
 
 - [[T009 — Zhuangzi]]: the critique of argumentative words that never reach their point, paired with D016.
 

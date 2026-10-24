@@ -31,8 +31,7 @@ The compendium's practical reading: the same event can be read as catastrophe or
 ## Related concepts
 
 - [[T011 — Socrates]]: the exemplar behind Epictetus's Enchiridion teaching, which the page's source cites.
-
-## Sources
+- [[T012 — Laozi]]: the distrust of names, Daodejing 1, alongside the page's judgement distinction.## Sources
 
 - [Epictetus, Enchiridion 5 (Internet Classics Archive)](https://classics.mit.edu/Epictetus/epicench.html) — quotations verbatim
 

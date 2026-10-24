@@ -36,7 +36,7 @@ D180 carries the concept directly, with Zhuangzi 18 and Daodejing 80 as its sour
 - [[Sati]] — the presence that makes the ordinary appear
 - [[Joy]] — the everyday register of joy given its own page
 - [[Death reflection]] — the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)
-## Related thinkers
+- [[T012 — Laozi]]: Daodejing 80 in the page's sources.## Related thinkers
 
 - [[T009 — Zhuangzi]]: the chapter 18 source D180 carries for delight in the ordinary.
 

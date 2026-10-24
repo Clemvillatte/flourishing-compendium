@@ -45,8 +45,7 @@ The remedy he prescribes:
 
 - [Seneca, Of Anger Book I (tr. Aubrey Stewart), Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_I): anger as short madness, definitions, reason versus anger
 - [Seneca, Of Anger Book II (tr. Aubrey Stewart), Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_II): the remedy of delay
-
-## Stories
+- [[T012 — Laozi]]: the empty boat reflection, the Laozi/Zhuangzi tradition the page pairs with De Ira.## Stories
 
 - [[ST205 — Seneca on Anger|205. Seneca on Anger]]
 - [[ST206 — The Inner Citadel|206. The Inner Citadel]]

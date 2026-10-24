@@ -36,3 +36,17 @@ ST214 the vacancy his shortness-of-life argument describes; ST218 the crowd
 letter; ST220 the nightly self-examination from De Ira; ST221 the letters
 prescribing the morning rehearsal). Principle/concept glosses (26 pages)
 pushed; story entries removed from done.
+
+2026-10-24 06:16Z, worker-pplx-t2a-1024e: Socrates (4 principles) and Laozi
+(10 principles, 6 concepts, 1 saying) backlink glosses added, each grounded in
+the page's own Laozi/Socrates material (Daodejing chapters cited on the page;
+Apology/Protagoras/Crito references). T006 Buddha page INTENTIONALLY SKIPPED:
+its own text marks the Laozi mention as scan-closure, not attribution
+("the sage teaches without words" belongs to Laozi), so a backlink would
+mislead - flagged for supervisor in case they want it anyway. Validator: all
+modified principle/concept pages pass; pre-existing failures noted (not
+caused by this pass): content/sayings/The empty boat reflection.md fails the
+150-word prose floor at HEAD (sayings are naturally short). build.py ok.
+Remaining t2a pending: story cards only (Zhuangzi 41, Socrates 8, Laozi 2,
+Seneca 7) - all blocked for workers by the separation guard, flagged for
+supervisor.

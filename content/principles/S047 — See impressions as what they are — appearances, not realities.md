@@ -25,8 +25,7 @@ The training is to intercept the impression before it hardens into opinion: "be 
 ## Related concepts
 
 - [[T011 — Socrates]]: the exemplar behind the page's separation of impression from reality.
-
-## Stories
+- [[T012 — Laozi]]: the distrust of names, Daodejing 1, behind the page's appearances caution.## Stories
 
 - [[ST203 — Socrates as the Stoic Before the Stoics|203. Socrates as the Stoic Before the Stoics]]
 

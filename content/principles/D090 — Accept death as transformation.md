@@ -43,8 +43,7 @@ The famous scene is in chapter 18. Zhuangzi's wife has died and he is found drum
 
 - Zhuangzi, chs. 2, 6, 18 and 22, trans. James Legge, *The Texts of Taoism* (1891), ETH Zurich Metis edition: [PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)
 - Laozi, Daodejing, ch. 50, trans. Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
-
-## Stories
+- [[T012 — Laozi]]: Daodejing 50, the death chapter in the page's sources.## Stories
 
 - [[ST031 — Zhuangzi Drums on a Basin|31. Zhuangzi Drums on a Basin]]
 - [[ST032 — The Skull by the Road|32. The Skull by the Road]]

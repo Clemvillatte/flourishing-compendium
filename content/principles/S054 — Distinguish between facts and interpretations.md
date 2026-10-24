@@ -27,8 +27,7 @@ For example: a friend misses an agreed call; "she didn't call" is the fact, "she
 ## Related concepts
 
 - [[T011 — Socrates]]: the exemplar behind the page's Enchiridion quote on opinions versus things.
-
-## Psychology parallels
+- [[T012 — Laozi]]: the distrust of names, Daodejing 1, beside the page's facts-versus-interpretations line.## Psychology parallels
 
 - **[[Cognitive defusion|Cognitive defusion]]** (Hayes et al., 2011)
 - **[[Mindfulness|Mindfulness research]]** (Kabat-Zinn, 1990)

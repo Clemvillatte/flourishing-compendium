@@ -12,8 +12,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Related thinkers
 
 - [[T009 — Zhuangzi]]: the tradition this saying belongs to.
-
-## Sources
+- [[T012 — Laozi]]: the tradition the saying's page carries, Laozi/Zhuangzi.## Sources
 
 - Laozi/Zhuangzi tradition
 

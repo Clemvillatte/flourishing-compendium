@@ -26,8 +26,7 @@ His reason for acceptance is the belief that events belong to an ordered whole a
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the basin-drumming story (ST031) the page lists for acceptance after death.
-
-## Stories
+- [[T012 — Laozi]]: the Dao moves by reversal, Daodejing 40, beside the page's providence acceptance.## Stories
 
 - [[ST031 — Zhuangzi Drums on a Basin|31. Zhuangzi Drums on a Basin]]
 - [[ST032 — The Skull by the Road|32. The Skull by the Road]]
