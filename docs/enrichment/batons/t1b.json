@@ -33,5 +33,7 @@
    "from": "worker-pplx-t1b-2233",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-24T15:03:15+00:00"
 }

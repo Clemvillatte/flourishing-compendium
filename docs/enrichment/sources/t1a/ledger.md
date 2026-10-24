@@ -42,3 +42,18 @@ OWNER-UPDATE-2026-10-22 Directive 3 mass-minting gate for this band.
 - Flag item "humanizer tells": scanned for the standard tell patterns (imagined/imaginary markers, session language, hypothetical-example framing); none found in T002.
 - REMAINING flag items for the next t1a owner: translator metadata (NE quotes are the Jowett Gutenberg translation — verify the metadata line states this), peripatetic/treatises claims (see note above on the dropped clause), why-section sourcing.
 - Follow-up verification (same worker): all three T002 Nicomachean Ethics quotes re-verified verbatim against the linked carrier (Gutenberg 8438, D. P. Chase translation), including the ellipsis-truncated I.7 quote up to the ellipsis. The Sources section already credits the Chase translation as the source of all quotations, so the flag's "translator metadata" item is satisfied. No further edits to T002 this session.
+
+## Routed-repair verification pass (2026-10-24, worker-t1a-promptskill-1024)
+- T007 Spinoza: the routed reword (remove "were inspected this session" /
+  "supervisor, please confirm" narration) was verified ALREADY APPLIED; the
+  connected-here section now reads as plain reader scoping. The 34
+  cross-tradition parallels scoping decision remains pending owner, untouched.
+- T011 Socrates: both routed fixes verified applied and correct. (1) The
+  unexamined-life quote now opens lower-case ("if I say again..."), matching
+  the carrier's mid-sentence continuation, and the MIT Classics Jowett
+  carrier (classics.mit.edu/Plato/apology.html, opened this session) confirms
+  the sentence ends at "believe." — the page's closing period is the carrier's
+  own sentence end, not an editorial close, so no end-truncation mark is
+  needed. (2) "The sentence that cost him his life" was already reworded to
+  "The sentence the jury heard as defiance", which the Apology context
+  supports. No page changes were needed this session.
