@@ -1,5 +1,15 @@
 {
- "batch": "dos14",
- "done": [],
- "note": "minted 2026-10-24; one dossier per band; see bands/dos14-manifest.json"
+  "batch": "dos14",
+  "done": [
+    {
+      "slug": "agency",
+      "worker": "worker-pplx-dos14-1024k",
+      "state": "publication: pending supervisor",
+      "verification": "first build: title sweep + full-text sweep (agency/autonomy/competence/efficacy/locus of control/helpless/empowerment/free will/volition/self-determination/Bandura/Rotter/Dewey), 53 card links all opened and read, checker exit 0; three external quotes verified word-for-word against opened carriers (Epictetus Enchiridion 1 Carter/MIT, Bandura 1977 PDF, Rotter 1966 PDF); evidence ledger in docs/enrichment/sources/dossiers/agency.md; locus-of-evaluation boundary call and White 1959 carrier failures flagged there",
+      "dates": {
+        "built": "2026-10-24"
+      }
+    }
+  ],
+  "note": "minted 2026-10-24; one dossier per band; see bands/dos14-manifest.json. Agency dossier built 2026-10-24 by worker-pplx-dos14-1024k; registry status left planned for supervisor flip."
 }
