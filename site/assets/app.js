@@ -2998,7 +2998,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). That answer is an activity: his account of [happiness as activity](card:Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the exercise of [excellence](card:Arete). It is final: [desired for its own sake](card:Everyone%20desires%20eudaimonia), the [sufficient good](card:The%20sufficient%20good), so that [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). And it belongs to a whole life rather than a lucky stretch:"
+          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). On his account the good is an activity, not a passing state: his account of [happiness as activity](card:Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the exercise of [excellence](card:Arete). It is final: [desired for its own sake](card:Everyone%20desires%20eudaimonia), the [sufficient good](card:The%20sufficient%20good), so that [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). And it belongs to a whole life rather than a lucky stretch:"
         },
         {
           "t": "q",
@@ -3011,11 +3011,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Knowing that still leaves the practical question: what does acting well require here, in this situation? Courage shows the difficulty. Aristotle explains [the doctrine of the mean](card:The%20doctrine%20of%20the%20mean) through [courage: cowardice involves excessive fear and too little confidence, while rashness involves excessive confidence](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html). A person facing danger can get the fear wrong in either direction — flinching from what should be faced, or charging into what should be weighed — and no rule fixes the right amount in advance. Finding it is the work of [practical wisdom](card:Practical%20wisdom), which involves [recognising what the situation calls for and choosing an action toward a good end](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html). His [virtue-ethical account](card:Virtue%20ethics) asks us to judge how to act in a particular situation. He also takes [the pleasure of virtuous action](card:The%20joy%20of%20virtue) as a sign of the character doing it: [enjoyment of the activity itself](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
+          "x": "Knowing that still leaves the practical question: what does acting well require here, in this situation? Courage shows the difficulty. Aristotle explains [the doctrine of the mean](card:The%20doctrine%20of%20the%20mean) through [courage: cowardice involves excessive fear and too little confidence, while rashness involves excessive confidence](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html). A person facing danger can get the fear wrong in either direction — flinching from what should be faced, or charging into what should be weighed. Locating the mean between those failures is the work of [practical wisdom](card:Practical%20wisdom), which involves [recognising what the situation calls for and choosing an action toward a good end](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html). His [virtue-ethical account](card:Virtue%20ethics) asks us to judge how to act in a particular situation. He also takes [the pleasure of virtuous action](card:The%20joy%20of%20virtue) as [a sign of the character doing it](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html): [enjoyment of the activity itself](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
         },
         {
           "t": "p",
-          "x": "Epicurus gives pleasure a different place. He tends to describe the goal of life by negation, as freedom from bodily pain and mental disturbance: [freedom from disturbance](card:Ataraxia) and [settled pleasure](card:Katastematic%20pleasure) make [freedom from bodily pain and mental distress](https://plato.stanford.edu/entries/epicurus/) central to a happy life. His [self-sufficiency](card:Autarky) encourages [contentment with little, alongside a high regard for friendship](https://plato.stanford.edu/entries/epicurus/)."
+          "x": "Epicurus gives pleasure a different place. He tends to describe the goal of life by negation: [freedom from disturbance](card:Ataraxia) and [settled pleasure](card:Katastematic%20pleasure) make [freedom from bodily pain and mental distress](https://plato.stanford.edu/entries/epicurus/) central to a happy life. His [self-sufficiency](card:Autarky) encourages [contentment with little, alongside a high regard for friendship](https://plato.stanford.edu/entries/epicurus/)."
         },
         {
           "t": "p",
@@ -3067,7 +3067,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Character received its own catalogue in this research: [Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues. For [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara), [positive-emotion research](card:Positive%20emotions%20research) asks what these emotions make possible: her [broaden-and-build](card:Broaden-and-build) theory proposes [that they widen thought and action and help build lasting resources, with early evidence presented as preliminary](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)."
+          "x": "Research on the good life then took two further shapes. One classified character: [Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues. Another asked what positive emotions do: for [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara), [positive-emotion research](card:Positive%20emotions%20research) asks what these emotions make possible, and her [broaden-and-build](card:Broaden-and-build) theory proposes [that they widen thought and action and help build lasting resources, with early evidence presented as preliminary](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)."
         },
         {
           "t": "p",
@@ -3147,7 +3147,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Philosophy offers a different kind of argument toward the same conclusion — not an explanation of that study, but an account of what a person is. [Communitarianism](card:Communitarianism), including Sandel's account of [constitutive attachments](card:Constitutive%20relationality), [gives communities a role in shaping identity](https://plato.stanford.edu/entries/communitarianism/). The Nguni maxim associated with [Ubuntu](card:Ubuntu) says [a person is a person through other persons](https://plato.stanford.edu/entries/federalism/). These accounts challenge me to ask what an exclusively individual account of fulfilment leaves out."
+          "x": "That evidence concerns how happy people live. Philosophy's question is different: what a person even is. [Communitarianism](card:Communitarianism), including Sandel's account of [constitutive attachments](card:Constitutive%20relationality), [gives communities a role in shaping identity](https://plato.stanford.edu/entries/communitarianism/). The Nguni maxim associated with [Ubuntu](card:Ubuntu) says [a person is a person through other persons](https://plato.stanford.edu/entries/federalism/). These accounts challenge me to ask what an exclusively individual account of fulfilment leaves out."
         },
         {
           "t": "p",
@@ -3215,7 +3215,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "Admiration offers another way to look beyond ourselves. [Zagzebski's moral theory](https://www.rivistateoria.eu/index.php/teoria/article/download/44/43) begins with [exemplars](card:Moral%20exemplarism): people whose lives make goodness desirable. Related findings appear in [research on spirituality](https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9), which finds associations involving [self-transcendent emotions](card:Self-transcendent%20emotions) such as awe, gratitude and love. Those cross-sectional findings do not establish a cause; I take them as a reason to ask what a practice helps us notice and care about, not just how it makes us feel."
+          "x": "Admiration offers another way to look beyond ourselves. [Zagzebski's moral theory](https://www.rivistateoria.eu/index.php/teoria/article/download/44/43) begins with [exemplars](card:Moral%20exemplarism): people whose lives make goodness desirable. That is a philosophical claim; the empirical study of these outward-turning emotions is a separate line of work: [research on spirituality](https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9) finds associations involving [self-transcendent emotions](card:Self-transcendent%20emotions) such as awe, gratitude and love. Those cross-sectional findings do not establish a cause; I take them as a reason to ask what a practice helps us notice and care about, not just how it makes us feel."
         },
         {
           "t": "h2",

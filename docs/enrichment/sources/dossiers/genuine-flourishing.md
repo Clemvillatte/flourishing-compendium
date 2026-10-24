@@ -836,3 +836,29 @@ after the markdown was committed; "Courage shows the difficulty" and the
 other QC2 phrasings verified present in the compiled fcDossiersData).
 Future sessions: commit the markdown FIRST, then rebuild, then commit
 app.js.
+
+### Process note correction (supervisor)
+
+The previous note said the registry rebuild "reads COMMITTED state" —
+that was an unverified guess and it is WRONG. Code inspection
+(scripts/dossier_registry_build.py, lines 173-179) shows the rebuild
+reads the working-tree markdown via open(md_path). The verified facts:
+- enrich_save.sh stages only content/ docs/ scripts/ sources/ handoff.md
+  (line in scripts/enrich_save.sh: "git add -A content docs scripts
+  sources handoff.md") — site/assets/app.js is NOT staged, so a rebuilt
+  app.js stays unstaged and blocks the script's pull --rebase step.
+- What happened in the d6094750 save: the markdown commit went through,
+  the pull failed on the unstaged app.js, and the app.js had to be
+  committed separately. Why the 12:53 rebuild output was stale was not
+  fully root-caused; the practical rule stands: after rebuilding, GREP
+  the compiled app.js for a distinctive new phrasing, and commit app.js
+  explicitly (git add site/assets/app.js).
+Advisor final-QC round 2 prose repairs applied this session: "That
+answer is an activity" category error fixed; Epicurus duplication
+removed; communitarian bridge now framed as a different question (not
+convergent evidence); character-strengths/Fredrickson and
+exemplarism/spirituality juxtapositions replaced with explicit
+"two research shapes" / "philosophical claim vs empirical line"
+distinctions; courage pleasure-as-sign now carried by the opened
+NE II.2 passage; unsupported "no rule fixes the amount in advance"
+removed. GF remains UNAPPROVED pending owner validation.
