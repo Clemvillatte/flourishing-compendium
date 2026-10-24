@@ -220,3 +220,11 @@ are not certified by this body-level review.
 - Evidence: the retained quotation matches the carrier. Hansen connects the story to circumstance-dependent judgment and accommodation, while expressly allowing criticism of careless, dogmatic or unwarranted judgments.
 - Repair: Plain words directly explains how different concerns can produce different responses. The modern shift case includes a short trial, joint review and further revision.
 - Limits: no universal relativism, guarantee of agreement or claim that an unchanged total proves a timing preference irrational. Scheduling is the page's application, not a historical claim about the monkeys' actual motives.
+
+## D141: Life-care within the work
+
+- Opened: [Zhuangzi, Legge/METIS](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf), chapter 3 §§1–2, the complete cook dialogue re-read.
+- Evidence: both retained quotations match the text after joining line wraps. The nineteen-year knife, caution at the difficult joint, slow hand and cleaning/sheathing occur in the dialogue; the ruler explicitly hears a lesson in nourishing life.
+- Repair: Plain words now explains that life-care can shape the conduct of work. Preserved the modern editor case's actual reduction in accepted work, one-week trial and renegotiation.
+- Saturation: Yangsheng read and mention searches for yangsheng/qiwu performed; the principle already links Yangsheng, whose Here section already links D141. No indiscriminate new edge.
+- Limits: the dialogue is a philosophical analogy, not evidence of a longevity effect or a medical regimen. Meals and asking for help belong to the modern application.

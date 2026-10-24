@@ -28,7 +28,7 @@ The analogy makes care part of how work is done. Applying it to a modern workloa
 
 ### Plain words
 
-When a task becomes difficult, find where the difficulty lies before pushing harder. You may need a slower pace, a different method or help. Include looking after yourself in the arrangement, instead of treating it as a reward available only after everything is finished.
+Care for life can be practised in the way a task is done. A difficult point may call for slowing down or changing the method. In a modern workload, that can also mean making room for meals or asking for help while the work is still unfinished.
 
 ### For example
 
