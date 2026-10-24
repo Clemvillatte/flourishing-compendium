@@ -1,0 +1,13 @@
+{
+ "baton": "dos22",
+ "agent": "worker-pplx-dos22-1024h",
+ "clocked_in": "2026-10-24T07:43:43+00:00",
+ "takeovers": [
+  {
+   "by": "worker-pplx-dos22-1024h",
+   "at": "2026-10-24T07:43:43+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
