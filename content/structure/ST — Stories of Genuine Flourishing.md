@@ -175,6 +175,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST438 — The Jewel Bound in the Robe]]
     - [[ST459 — Sariputta at Anathapindika's Deathbed]]
     - [[ST464 — Linji Slaps Huangbo]]
+    - [[ST465 — Xuanzang Loses His Water]]
   - [[ST-S02.07 — II.7 Ethics and Relations]]
     - [[ST084 — Sigālaka's Six Directions]]
     - [[ST085 — The Quarrel at Kosambī]]

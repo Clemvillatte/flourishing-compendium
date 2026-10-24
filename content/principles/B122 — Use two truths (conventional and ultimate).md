@@ -38,6 +38,9 @@ Garfield's commentary on the chapter reads the relation this way: understanding 
 
 - [[K134 — Two-truths drill|K134 Two-truths drill]]
 - [[K138 — Multiple versioning|K138 Multiple versioning]]
+## Stories
+- [[ST465 — Xuanzang Loses His Water|465. Xuanzang Loses His Water]]
+
 ## Psychology parallels
 
 - **[[Construal-level theory|Construal-level theory]]**, the same event is processed at near and far levels (Trope and Liberman, 2010)
