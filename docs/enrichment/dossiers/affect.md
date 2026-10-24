@@ -40,6 +40,7 @@ How to read this page: each entry is a link into the compendium's own explanatio
 - [Mixed emotions theory Miyamoto](https://clemvillatte.github.io/flourishing-compendium/#card=Mixed%20emotions%20theory%20Miyamoto): Japan and the United States compared on how readily opposites are felt together.
 - [Emotional granularity](https://clemvillatte.github.io/flourishing-compendium/#card=Emotional%20granularity) and [Emotion differentiation](https://clemvillatte.github.io/flourishing-compendium/#card=Emotion%20differentiation): how finely a person distinguishes among their own feelings — the fineness that predicts better regulation.
 - [Emotion awareness](https://clemvillatte.github.io/flourishing-compendium/#card=Emotion%20awareness): Lane and Schwartz's five structural levels of the ability to process emotion — a cognitive-developmental ladder.
+- [Appraisal theory](https://clemvillatte.github.io/flourishing-compendium/#card=Appraisal%20theory): the family of emotion theories holding that emotions arise from evaluations, called appraisals.
 
 ### The feeling families
 
@@ -52,6 +53,9 @@ How to read this page: each entry is a link into the compendium's own explanatio
 - [Envy](https://clemvillatte.github.io/flourishing-compendium/#card=Envy): pain at another's good fortune — van de Ven, Zeelenberg and Pieters' definition.
 - [Self-transcendent emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Self-transcendent%20emotions): the class that sorts by fit to religious and spiritual life — awe, gratitude, love and peace against amusement.
 - [Mudita (sympathetic joy)](https://clemvillatte.github.io/flourishing-compendium/#card=Mudita%20%28sympathetic%20joy%29): the third brahmavihara — gladness at another's good fortune as if it were one's own.
+- [Benign envy](https://clemvillatte.github.io/flourishing-compendium/#card=Benign%20envy): one of the two forms of envy distinguished by van de Ven, Zeelenberg and Pieters (2009).
+- [Malicious envy](https://clemvillatte.github.io/flourishing-compendium/#card=Malicious%20envy): the second of the two forms of envy distinguished by the same authors.
+- [Guilt motivates reparative behaviour](https://clemvillatte.github.io/flourishing-compendium/#card=Guilt%20motivates%20reparative%20behaviour): guilt as the pain of a specific act, whose adaptive job is to move the person who did the harm toward undoing it.
 
 ### The passions, named and ordered
 
@@ -77,6 +81,7 @@ How to read this page: each entry is a link into the compendium's own explanatio
 - [Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=Affect%20labeling): putting a feeling into words as it occurs — the 2007 neuroimaging result that labeling reduces amygdala reactivity.
 - [Moral emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Moral%20emotions): Tangney and colleagues' review — the emotions that link moral standards to moral behavior.
 - [Affective disposition theory](https://clemvillatte.github.io/flourishing-compendium/#card=Affective%20disposition%20theory): Zillmann and Cantor's account of media enjoyment — we like seeing liked characters succeed and disliked ones suffer.
+- [Reinforcement-Affect Theory](https://clemvillatte.github.io/flourishing-compendium/#card=Reinforcement-Affect%20Theory): Byrne and Clore's account — we come to like stimuli and people associated with positive affect.
 
 ### Regulating and shaping feeling
 
@@ -88,6 +93,10 @@ How to read this page: each entry is a link into the compendium's own explanatio
 - [Dialectical behaviour therapy, emotion modulation](https://clemvillatte.github.io/flourishing-compendium/#card=Dialectical%20behaviour%20therapy%2C%20emotion%20modulation): Linehan's skills module for emotions that fire easily, hit hard and take long to subside.
 - [Action precedes feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20precedes%20feeling) and [Action before feeling](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20before%20feeling): the double tradition — Aristotle's virtues acquired by doing the acts, and James's body moving before the feeling forms.
 - [Ideal affect theory Tsai](https://clemvillatte.github.io/flourishing-compendium/#card=Ideal%20affect%20theory%20Tsai): affect valuation theory — cultures differ in the emotions they value and want to feel; people act to move toward their ideal affect.
+- [State-matched emotion regulation](https://clemvillatte.github.io/flourishing-compendium/#card=State-matched%20emotion%20regulation): the matching of a regulation strategy to the circumstance, rather than relying on one strategy in all cases.
+- [Compassion-focused therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion-focused%20therapy): Gilbert's integrated approach for people with high shame and self-criticism.
+- [Pre-commitment as wisdom](https://clemvillatte.github.io/flourishing-compendium/#card=Pre-commitment%20as%20wisdom): Seneca's counsel for dealing with emotion by timing — arranging in advance what the emotion would otherwise undo.
+- [The paradox of valuing a goal excessively](https://clemvillatte.github.io/flourishing-compendium/#card=The%20paradox%20of%20valuing%20a%20goal%20excessively): Mauss and colleagues' finding on wanting something too much.
 
 ### Feeling between people
 
@@ -97,6 +106,8 @@ How to read this page: each entry is a link into the compendium's own explanatio
 - [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion): being moved by suffering and motivated to act — Gilbert's definition, a basic kindness with deep awareness.
 - [Group affective synchronisation](https://clemvillatte.github.io/flourishing-compendium/#card=Group%20affective%20synchronisation): Barsade's group emotional contagion — the transfer of moods among people in a group and its influence on group dynamics.
 - [Co-regulation of affect in relationships](https://clemvillatte.github.io/flourishing-compendium/#card=Co-regulation%20of%20affect%20in%20relationships): Butler and Randall's dyadic emotional system — partners regulating each other's affect rather than only their own.
+- [Co-regulation in relationships](https://clemvillatte.github.io/flourishing-compendium/#card=Co-regulation%20in%20relationships): Butler's 2011 TIES framework — the temporal, interconnected emotion systems of a relationship.
+- [Conflict spirals](https://clemvillatte.github.io/flourishing-compendium/#card=Conflict%20spirals): Gottman's pattern in which one partner's negative affect is met with the other's.
 
 ### Sayings
 
@@ -105,9 +116,9 @@ How to read this page: each entry is a link into the compendium's own explanatio
 ### Kernels
 
 - [Low emotional response](https://clemvillatte.github.io/flourishing-compendium/#card=K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; do not match the other person's escalation.
-- [Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not "stressed" but "tight chest, dread, buzzing"; the kernel's outcome claim, stated on its card, is that fine-grained labeling reduces amygdala reactivity.
+- [Affect labeling](https://clemvillatte.github.io/flourishing-compendium/#card=K159%20%E2%80%94%20Affect%20labeling): name the emotion precisely — not "stressed" but "tight chest, dread, buzzing".
 - [Feeling-tone pass](https://clemvillatte.github.io/flourishing-compendium/#card=K160%20%E2%80%94%20Feeling-tone%20pass): three times daily, name the tone of the moment as pleasant, unpleasant or neutral, before any story about it.
-- [Emotional writing](https://clemvillatte.github.io/flourishing-compendium/#card=K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four days in a row, unedited and uncensored; the kernel's outcome claim, stated on its card, is that putting experience into language reduces its intensity.
+- [Emotional writing](https://clemvillatte.github.io/flourishing-compendium/#card=K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four days in a row, unedited and uncensored.
 - [Body-first emotion work](https://clemvillatte.github.io/flourishing-compendium/#card=K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body — tension, temperature, texture; the body often knows first.
 
 ## Where the traditions genuinely disagree
@@ -120,15 +131,17 @@ Ekman's research programme takes the categorical side, and states the alternativ
 >
 > "Distinctive universal expressions have been identified for anger, fear, disgust, sadness, and enjoyment."
 >
-> Ekman concludes the research supports conceiving "of emotions as separate discrete states, such as fear, anger, and disgust, rather than simply as positive versus negative states or even more simply as differing only in respect to arousal." ([Ekman 1993](https://www.cl.cam.ac.uk/~pr10/iui/ekman93.pdf), American Psychologist 49(4), "Facial Expression and Emotion"; award address; quoted passages checked, pp. 384-387)
+> Ekman concludes the research supports conceiving "of emotions as separate discrete states, such as fear, anger, and disgust, rather than simply as positive versus negative states or even more simply as differing only in respect to arousal." ([Ekman 1993](https://www.cl.cam.ac.uk/~pr10/iui/ekman93.pdf), American Psychologist 48(4), April 1993, "Facial Expression and Emotion"; award address; quoted passages checked, pp. 384-387)
 
-The circumplex model takes the dimensional position Ekman names as the rival hypothesis — that what varies is valence and arousal, not category membership:
+The circumplex model takes the dimensional position Ekman names as the rival hypothesis — that what varies is valence and arousal, not category membership. Its authors state the contrast themselves:
 
-> "Investigations of the subjective, or experiential, components of emotion, rather than supporting a one to one correspondence between a discrete emotion and an underlying neural system, have instead suggested that emotions arise from cognitive interpretations of core physiological experiences (Cacioppo et al., 2000; Russell, 2003)."
+> "This model stands in contrast to theories of basic emotions, which posit that a discrete and independent neural system subserves every emotion."
+>
+> "We propose that clinicians and researchers move away from a strictly basic emotion model of affective states, where each emotion is thought to emerge from independent neural systems, to more dimensional models of emotions, in which all affective states are understood to arise from common, overlapping neurophysiological systems."
 >
 > Posner, Russell and Peterson propose instead that "all affective states arise from two independent neurophysiological systems," the valence and arousal systems ([Posner, Russell and Peterson 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC2367156/), Development and Psychopathology; scholarly review; cited passages checked).
 
-Each claim rests on a different evidential base: Ekman's on the cross-cultural recognition of facial expressions, the circumplex on the structure of subjective reports of feeling. Whether the two are competing explanations of the same phenomenon or descriptions of different phenomena is part of what is disputed.
+The incompatibility is stated by the circumplex authors, not inferred here: a discrete and independent neural system for every emotion, against affective states arising from common, overlapping systems. Each claim rests on a different evidential base: Ekman's on the cross-cultural recognition of facial expressions, the circumplex on the structure of subjective reports of feeling.
 
 ## Practice: variation, selection, retention
 
@@ -140,7 +153,7 @@ Each claim rests on a different evidential base: Ekman's on the cross-cultural r
 2. [Feeling-tone pass](https://clemvillatte.github.io/flourishing-compendium/#card=K160%20%E2%80%94%20Feeling-tone%20pass): three times daily, name the tone of this moment as pleasant, unpleasant or neutral, before any story about it.
 3. [Emotional writing](https://clemvillatte.github.io/flourishing-compendium/#card=K171%20%E2%80%94%20Emotional%20writing): fifteen to twenty minutes, three or four consecutive days, uncensored; no editing, no censoring.
 4. [Body-first emotion work](https://clemvillatte.github.io/flourishing-compendium/#card=K172%20%E2%80%94%20Body-first%20emotion%20work): when an emotion is hard to locate or name, start with the body — where is the tension, what is the temperature, what is the texture.
-5. [Low emotional response](https://clemvillatte.github.io/flourishing-compendium/#card=K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; do not match the other person's escalation. The kernel adds, as its own claim, that calm is contagious in both directions.
+5. [Low emotional response](https://clemvillatte.github.io/flourishing-compendium/#card=K124%20%E2%80%94%20Low%20emotional%20response): when provoked, respond with low emotional intensity; do not match the other person's escalation.
 
 Evidence limits: the outcome language in the kernel descriptions above is the kernels' own text, compressed; this dossier verified no trial of these exact exercises. The labeling kernel rests on the affect-labeling study cited on its card, the writing kernel on the expressive-writing literature cited on its card, the DBT module on the treatment literature for its clinical population — none of those carriers was opened here, and no claim about their study sizes or designs is made. The feeling-tone and low-response practices carry no outcome claim verified in this dossier. The categorical-versus-dimensional disagreement is a live theoretical dispute; no practice selection follows from either side alone.
 

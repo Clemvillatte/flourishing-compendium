@@ -14,7 +14,17 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 2.
   cards were left to the Anger dossier, and socioemotional selectivity was
   left out as a motivation rather than affect entry; these exclusions are
   editorial boundary calls recorded here. The screen was a title search
-  over the concept files, not a full-text body sweep - a recorded limit.
+  over the concept files, followed by a body sweep of the concept
+  cards' opening claims: 16 candidates screened, 10 added on reading
+  (Appraisal theory; Benign envy; Malicious envy; Guilt motivates
+  reparative behaviour; Reinforcement-Affect Theory; State-matched emotion
+  regulation; Compassion-focused therapy; Pre-commitment as wisdom; The
+  paradox of valuing a goal excessively; Co-regulation in relationships;
+  Conflict spirals), and the anger-specific candidates (Anger management,
+  Anger reappraisal, Anger regulation research, Anger's attributional
+  analysis) left to the Anger dossier; Shamefastness (aidos) left out as
+  a virtue-theory card. A full-text sweep of every card body remains
+  undone - a recorded limit.
   Affect heuristic appears in both dos2 and dos3 sweeps and is mapped in
   both dossiers, each from its own side.
 - Every per-entry description is a compressed restatement of the linked
@@ -32,8 +42,11 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 2.
    word-for-word; the dossier omits the source's closing comma after
    "tremble", noted at the quote.
 2. https://www.cl.cam.ac.uk/~pr10/iui/ekman93.pdf — Ekman 1993,
-   "Facial Expression and Emotion", American Psychologist 49(4); journal,
-   title, volume and year taken from the document on a second fetch. Three
+   "Facial Expression and Emotion", American Psychologist 48(4), April
+   1993, pp. 384-392; journal, title, volume, year and pages transcribed
+   from the printed first page on a third fetch (an earlier extraction
+   had given the volume as 49; the printed page says 48, and the dossier
+   was corrected). Three
    passages compared word-for-word: the cross-cultural agreement
    sentence, the distinctive-universal-expressions sentence, and the
    discrete-states sentence.
@@ -68,8 +81,12 @@ Verification record for docs/enrichment/dossiers/affect.md, revision 2.
   and in the Cognition dossier, each from its own side, with a Nearby
   terms note.
 - The divergence was narrowed after review to the discrete-categories vs
-  valence/arousal-dimensions contrast, with each side's evidential base
-  stated; the James 1884 quotation was moved beside the James-Lange map
+  valence/arousal-dimensions contrast; the circumplex authors' own
+  contrast sentence ("stands in contrast to theories of basic emotions,
+  which posit that a discrete and independent neural system subserves
+  every emotion") and their move-away proposal were then verified and
+  quoted, so the incompatibility is stated by the sources rather than
+  inferred; the James 1884 quotation was moved beside the James-Lange map
   entry rather than doing duty for either side.
 - The anger-family cards were treated as belonging to the Anger
   dossier's theme where they are specific to anger; Empathy, Sympathy and
