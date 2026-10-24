@@ -740,3 +740,22 @@ Item evidence, advisor QC, verification limits and cross-band observations are r
   already carries an explicit Sources section. The flag's repair is applied and
   verified; the earlier p. 86 citation the supervisor saw was corrected by a
   later worker before this session. No page changes were needed.
+
+### SE062 and AT041 — flagged review candidates (2026-10-24, worker-p1s-promptskill-1024)
+- Both cards were flagged by the 2026-10-22 weak-evidence survey as review
+  candidates. Both were read in full this session.
+- SE062: all three abstract quotes re-verified verbatim on PubMed (Sisk et al.
+  2018 "Overall effects were weak for both meta-analyses."; Yeager et al. 2019
+  "improved grades among lower-achieving students and increased overall
+  enrolment to advanced mathematics courses"; Macnamara & Burgoyne 2023
+  conclusion sentence plus the d = 0.05 publication-bias sentence, both
+  verbatim in the abstract). Repairs applied: the "the entry's wording"
+  editorial-history narration reworded to reader-facing prose; the two
+  commentary-style Psychology-parallels entries restructured as normal
+  parallel entries. The honest weak-evidence framing was kept as found.
+- AT041: quotes verified verbatim against the open-access carriers (Albulescu
+  et al. 2022 PLOS ONE definition, effects and depleting-tasks sentences;
+  Helton & Russell 2012 "All experimental groups had an equivalent robust
+  vigilance decrement" and the Bayesian null sentence, both in the abstract).
+  The card already frames its evidence honestly ("The attention claim is
+  weaker than the title suggests"); no changes needed.
