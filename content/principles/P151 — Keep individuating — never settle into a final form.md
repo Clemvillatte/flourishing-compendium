@@ -32,6 +32,9 @@ Imagine someone whose role was built around circumstances that have since change
 
 - [Gilbert Simondon, L'individu et sa genèse physico-biologique (1964), trans. Taylor Adkins, "Physico-Biological Genesis of the Individual" (Topological Media Lab PDF)](https://topologicalmedialab.net/xinwei/classes/readings/Simondon/Physico-BiologicalGenesisIndiv.pdf) — ch. 1, Section I: first blockquote from subsection 2 (Validity of the hylemorphic model), second from subsection 3 (Limits of the hylemorphic model)
 
+## Stories
+- [[ST485 — Stay, You Are So Fair|485. Stay, You Are So Fair]]
+
 ## Psychology parallels
 
 - **[[Lifespan development|Lifespan development]]** (Roberts et al., 2006)

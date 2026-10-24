@@ -283,6 +283,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST353 — The Four Clock Strokes Bergson Had Not Counted]]
     - [[ST355 — Brekhunov Warms the Man He Underpaid]]
     - [[ST484 — The Shrine That Is Never Finished]]
+    - [[ST485 — Stay, You Are So Fair]]
   - [[ST-S03.07 — III.7 Growth, Education, Art, and Experience]]
     - [[ST124 — Dewey Finds Art in the Everyday]]
     - [[ST125 — Maslow and the Peak Experiences]]
