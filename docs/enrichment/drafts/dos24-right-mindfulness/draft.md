@@ -65,6 +65,10 @@ The observation is not detached watching; it is effortful and free of grasping. 
 
 [Beginner's mind](https://clemvillatte.github.io/flourishing-compendium/#card=Beginner%27s%20mind): the Zen practice of meeting experience as if for the first time, many possibilities where the expert's mind holds few.
 
+[Clarity of mind](https://clemvillatte.github.io/flourishing-compendium/#card=Clarity%20of%20mind): the compendium's label for the unclouded mental state the contemplative traditions describe, Stoic assent, Daoist purity-and-stillness, Buddhist clear seeing.
+
+[The lived body](https://clemvillatte.github.io/flourishing-compendium/#card=The%20lived%20body): the body as experienced from within, the body one is rather than only the body one has; the first frame's home.
+
 ### The modern family
 
 [Mindfulness](https://clemvillatte.github.io/flourishing-compendium/#card=Mindfulness): the compendium's entry for the modern practice family.
@@ -144,3 +148,5 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 [ST023 — Simone Weil on Attention](https://clemvillatte.github.io/flourishing-compendium/#card=ST023%20%E2%80%94%20Simone%20Weil%20on%20Attention): Weil's reading of attention as the rarest and purest form of generosity, school studies as its training ground.
 
 [ST122 — Augustine's Threefold Present](https://clemvillatte.github.io/flourishing-compendium/#card=ST122%20%E2%80%94%20Augustine%27s%20Threefold%20Present): Augustine's account of the present as a triple structure, a present of things past, of things present and of things future, with attention the one of the three that is lived in.
+
+[ST071 — The Wind and the Flag](https://clemvillatte.github.io/flourishing-compendium/#card=ST071%20%E2%80%94%20The%20Wind%20and%20the%20Flag): two monks argue whether the flag or the wind is moving; Huineng says it is not the wind or the flag, their minds are moving, the Chan tradition's sharpest statement on where events happen.
