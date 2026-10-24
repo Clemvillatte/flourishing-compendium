@@ -2,13 +2,13 @@
 
 > Which of the two moral emotions repairs a life, and which corrodes it?
 
-The two feelings arrive on the same occasion: a wrong done, usually by oneself. The classical traditions treated that whole territory under names like aidos, repentance and teshuva, and asked how the pain over a wrong should be used. The research tradition split the territory in two and found the split consequential: one emotion evaluates an act and reaches for repair, the other evaluates the self and reaches for cover. My map holds both halves — the classical treatments of the pain over wrong, and the modern distinction that gives each half its own career.
+Shame and guilt answer occasions of exposure and of wrong: a harm done, a standard broken, a self seen and found wanting. The classical traditions treated that whole territory under names like aidos, repentance and teshuva, and asked how the pain over a wrong should be used. The modern research tradition split the territory in two and staked much on the split: one emotion evaluates an act and reaches for repair, the other evaluates the self and reaches for cover. Both the classical treatments and the split have a claim on a reader who has done wrong and wants to know what to do next.
 
 ## Nearby terms
 
-- Embarrassment: exposure without a wrong done. The family's umbrella research sits on [Self-conscious emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Self-conscious%20emotions); a reader whose question is the flush of social exposure should start there.
-- Remorse: the pain over a freely done act. I hold it inside [Repentance](https://clemvillatte.github.io/flourishing-compendium/#card=Repentance), where Spinoza's definition and its consequences are worked through.
-- Humiliation: the wrong done to a person by force or marking. The unchosen humiliations appear in Aristotle's material on shame; the social marking of people is [Stigma research](https://clemvillatte.github.io/flourishing-compendium/#card=Stigma%20research).
+- Embarrassment: the family's research treats embarrassment as the briefer social-exposure member of the set; the umbrella sits on [Self-conscious emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Self-conscious%20emotions), and a reader whose question is the flush of exposure should start there.
+- Remorse: I hold it inside [Repentance](https://clemvillatte.github.io/flourishing-compendium/#card=Repentance), where Spinoza's definition makes the belief clause — pain over an act believed freely done — the operative part.
+- Humiliation: the unchosen exposures appear in Aristotle's material on shame ([Shame](https://clemvillatte.github.io/flourishing-compendium/#card=Shame)); the social marking of people is [Stigma research](https://clemvillatte.github.io/flourishing-compendium/#card=Stigma%20research).
 - Self-consciousness: the family umbrella. The set of emotions that take the self as object — shame, guilt, embarrassment, pride — is mapped on [Self-conscious emotions](https://clemvillatte.github.io/flourishing-compendium/#card=Self-conscious%20emotions).
 
 ## The map: the entries on shame and guilt
@@ -23,7 +23,7 @@ The two feelings arrive on the same occasion: a wrong done, usually by oneself. 
 
 [Shame](https://clemvillatte.github.io/flourishing-compendium/#card=Shame): the negative evaluation of the global self; the feeling that the whole person is defective, with the hiding that follows from that verdict.
 
-The distinction the research tradition runs on comes from Helen Block Lewis, restated in Tangney and colleagues' review of the moral emotions:
+The distinction the research runs on comes from Helen Block Lewis, restated in Tangney and colleagues' review of the moral emotions:
 
 > "According to Lewis (1971), shame involves a negative evaluation of the global self; guilt involves a negative evaluation of a specific behavior." ([Tangney, Stuewig & Mashek, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/))
 
@@ -35,13 +35,13 @@ The action tendencies, from the same review:
 
 > "On the one hand, shame corresponds with attempts to deny, hide, or escape the shame-inducing situation. Guilt, on the other hand, corresponds with reparative actions including confessions, apologies, and undoing the consequences of the behavior." ([Tangney, Stuewig & Mashek, 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/))
 
-The same review records the cost side: proneness to shame is related to a wide variety of psychological symptoms, from low self-esteem and depression to suicidal ideation. These are correlations with proneness, and the review does not describe a cure.
+The same review records the cost side: proneness to shame is related to a wide variety of psychological symptoms, from low self-esteem and depression to suicidal ideation. These are correlations with proneness, and the review does not describe a cure. Aristotle's brake and these correlations are claims about different things — a state that restrains a developing character, and a stable disposition measured across people — and neither settles the other.
 
-Guilt has its own failure mode. The advantages of guilt are lost when the guilt experience is magnified and generalized to the self — the review's example is the slide from "Oh, look at what a horrible thing I have done" to "… and aren't I a horrible person" ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). The clinical literature adds obsessional guilt: chronic self-blame and rumination over transgressions, measured in Shafran and colleagues' study of guilt in obsessive-compulsive disorder.
+Guilt has its own failure mode. The advantages of guilt are lost when the guilt experience is magnified and generalized to the self — the review's example is the slide from "Oh, look at what a horrible thing I have done" to "… and aren't I a horrible person" ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). The clinical literature adds obsessional guilt: "In both populations, trait guilt significantly predicted obsessional compulsive complaints, independent of anxiety and depression" ([Shafran, Watkins & Charman, 1996](https://kclpure.kcl.ac.uk/portal/en/publications/guilt-in-obsessive-compulsive-disorder/)).
 
 ### The learner's brake: aidos
 
-[Shamefastness (aidos)](https://clemvillatte.github.io/flourishing-compendium/#card=Shamefastness%20%28aidos%29): the Homeric restraint of the young, backed by the dread of others' sight, the felt brake on misconduct, until the mature agent's own principles take over.
+[Shamefastness (aidos)](https://clemvillatte.github.io/flourishing-compendium/#card=Shamefastness%20%28aidos%29): the brake that restrains before the principled agent has finished forming, backed by the dread of others' sight; the concept trains honour kept even when no one watches.
 
 [Shamefastness as quasi-virtue](https://clemvillatte.github.io/flourishing-compendium/#card=Shamefastness%20as%20quasi-virtue): Aristotle's NE IV.9 account of shame — short of virtue, aimed at the developing character.
 
@@ -59,7 +59,7 @@ Spinoza defines shame by that audience and judges it double-sided:
 
 > "Shame is pain accompanied by the idea of some action of our own, which we believe to be blamed by others." ([Spinoza, Ethics III, Definitions of the Affects XXXI, Elwes translation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))
 
-> "Shame, like compassion, though not a virtue, is yet good, in so far as it shows, that the feeler of shame is really imbued with the desire to live honourably." ([Spinoza, Ethics IV, LVIII note, Elwes translation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))
+> "I will only add that shame, like compassion, though not a virtue, is yet good, in so far as it shows, that the feeler of shame is really imbued with the desire to live honourably; in the same way as suffering is good, as showing that the injured part is not mortified." ([Spinoza, Ethics IV, LVIII note, Elwes translation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm))
 
 ### Shame before the eyes of others
 
@@ -67,25 +67,25 @@ Spinoza defines shame by that audience and judges it double-sided:
 
 [Being-for-others](https://clemvillatte.github.io/flourishing-compendium/#card=Being-for-others): the dimension of selfhood the look opens; the keyhole example is its founding scene.
 
-[The body-for-others](https://clemvillatte.github.io/flourishing-compendium/#card=The%20body-for-others): the body as it exists for the other's gaze, the shame-bearing side of embodiment.
+[The body-for-others](https://clemvillatte.github.io/flourishing-compendium/#card=The%20body-for-others): the body as it exists for the other's gaze, in Sartre's account in Being and Nothingness.
 
 The Stanford Encyclopedia's account of the keyhole scene gives the structure:
 
-> "Suddenly, though, we hear footsteps, and we have an involuntary apprehension of ourselves as an object in the eyes of another; a 'pre-moral' experience of shame; a shudder of recognition that we are the object that the other sees, without room for any sort of inferential theorising or cognising." ([SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/))
+> "Suddenly, though, we hear footsteps, and we have an involuntary apprehension of ourselves as an object in the eyes of another; a 'pre-moral' experience of shame; a shudder of recognition that we are the object that the other sees, without room for any sort of inferential theorising or cognising (at least that is manifest to our own consciousness)." ([SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/))
 
-[Stigma research](https://clemvillatte.github.io/flourishing-compendium/#card=Stigma%20research): the sociology of shame imposed rather than felt — a marked difference turned into a disqualifying identity, with status loss and rejection as its consequences.
+[Stigma research](https://clemvillatte.github.io/flourishing-compendium/#card=Stigma%20research): the sociology of a marked difference turned into a disqualifying social identity — an attribute "deeply discrediting", with status loss and social rejection as its consequences; a social process, distinct from the emotion felt from inside.
 
 ### Correction without humiliation
 
 Nietzsche's Gay Science pair gives the rule for correcting others:
 
-> "Whom dost thou call Bad?—Him who always wants to put others to shame." ([Nietzsche, The Joyful Wisdom §273, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))
+> "Whom dost thou call Bad? Him who always wants to put others to shame." ([Nietzsche, The Joyful Wisdom §273, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))
 
-> "What dost thou think most humane?—To spare a person shame." ([Nietzsche, The Joyful Wisdom §274, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))
+> "What dost thou think most humane? To spare a person shame." ([Nietzsche, The Joyful Wisdom §274, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))
 
 And the self-directed version, the mark of a finished liberty:
 
-> "What is the Seal of Liberty Attained?—To be no longer ashamed of oneself." ([Nietzsche, The Joyful Wisdom §275, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))
+> "What is the Seal of Liberty Attained? To be no longer ashamed of oneself." ([Nietzsche, The Joyful Wisdom §275, Common translation](https://www.gutenberg.org/files/52881/52881-0.txt))
 
 ### The turn: guilt's repair practices
 
@@ -99,17 +99,19 @@ Maimonides gives the practice its classic form:
 
 > "What constitutes Teshuvah? That a sinner should abandon his sins and remove them from his thoughts, resolving in his heart, never to commit them again... Similarly, he must regret the past... He must verbally confess and state these matters which he resolved in his heart." ([Maimonides, Mishneh Torah, Repentance 2:2](https://www.sefaria.org/Mishneh_Torah%2C_Repentance.2.2?lang=bi))
 
-[Metanoia (transformation)](https://clemvillatte.github.io/flourishing-compendium/#card=Metanoia%20%28transformation%29): the New Testament word for repentance as a change of mind, a turning rather than a penance.
+[Metanoia (transformation)](https://clemvillatte.github.io/flourishing-compendium/#card=Metanoia%20%28transformation%29): the New Testament word for repentance; Thayer's lexicon gives the sense as a change of mind that embraces recognition of sin, sorrow for it and hearty amendment, with good deeds as its tokens.
 
 [Conscience (Gewissen)](https://clemvillatte.github.io/flourishing-compendium/#card=Conscience%20%28Gewissen%29): Heidegger's silent call by which the self is summoned to own its situation; the event that replaces the rule-storage picture of conscience.
 
+[The call of conscience](https://clemvillatte.github.io/flourishing-compendium/#card=The%20call%20of%20conscience): the same account's treatment of guilt — the guilt the call summons to is ontological rather than moral; "Dasein is guilty before it has incurred any debt."
+
 [Apology research](https://clemvillatte.github.io/flourishing-compendium/#card=Apology%20research): the experimental study of what makes apologies work; acknowledgment of responsibility carries the most weight, an offer of repair the second most.
 
-[Self-forgiveness](https://clemvillatte.github.io/flourishing-compendium/#card=Self-forgiveness): Hall and Fincham's construct — the motivational changes whereby one becomes decreasingly motivated to avoid, retaliate against or withdraw from the self after an offense.
+[Self-forgiveness](https://clemvillatte.github.io/flourishing-compendium/#card=Self-forgiveness): Hall and Fincham's construct — the motivational changes whereby one becomes decreasingly motivated to avoid stimuli associated with the offense, decreasingly motivated to retaliate against the self, and increasingly motivated to act benevolently toward the self.
 
-The mirror the Buddha holds up to his son Rahula gives the review its shape, with confession and restraint for harm and refreshment for skillful conduct:
+The mirror the Buddha holds up to his son gives the review its shape, with confession and restraint for harm and refreshment for skillful conduct:
 
-> "What do you think, Rahula: What is a mirror for?" ... "For reflection, sir." ... "In the same way, Rahula, bodily actions, verbal actions & mental actions are to be done with repeated reflection." ([MN 61, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html))
+> "What do you think, Rahula: What is a mirror for?" ... "For reflection, sir." ... "In the same way, Rahula, bodily actions, verbal actions, & mental actions are to be done with repeated reflection." ([MN 61, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html))
 
 ### When the feelings turn on the self
 
@@ -119,33 +121,35 @@ The mirror the Buddha holds up to his son Rahula gives the review its shape, wit
 
 > "In compassion-focused therapy it is hypothesised that this affect regulation system is poorly accessible in people with high shame and self-criticism, in whom the 'threat' affect regulation system dominates orientation to their inner and outer worlds." ([Gilbert, 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088))
 
-[Self-compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Self-compassion): Neff's construct — self-kindness, common humanity, mindfulness — the stance toward suffering that does not need a global self-evaluation to defend.
+[Self-compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Self-compassion): Neff's construct — self-kindness, common humanity, mindfulness — a stance toward suffering that does not need a global self-evaluation to defend.
 
 [Grace](https://clemvillatte.github.io/flourishing-compendium/#card=Grace): what is received before it is earned; Augustine's formulation against the ledger of merit.
 
-[Opposite action (Linehan)](https://clemvillatte.github.io/flourishing-compendium/#card=Opposite%20action%20%28Linehan%29): the DBT skill of acting against the emotion's urge, applied to shame; the laboratory isolation found opposite action cut intensity for sadness and guilt/shame conditions specifically.
+[Be gentle with yourself in the review](https://clemvillatte.github.io/flourishing-compendium/#card=S066%20%E2%80%94%20Be%20gentle%20with%20yourself%20in%20the%20review): Marcus Aurelius's instruction after failure — "Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again" (Meditations V.9); Seneca's nightly audit hands down a pardon with a correction attached.
 
-The hiding claim needs one qualification: in de Hooge and colleagues' two studies, people experiencing shame preferred to be together with others over being alone, and this was not found for guilt. Shame's social pull may run toward approach as well as withdrawal.
+### Show up, do not hide
+
+[Opposite action (Linehan)](https://clemvillatte.github.io/flourishing-compendium/#card=Opposite%20action%20%28Linehan%29): the DBT skill of acting against the emotion's urge, applied to shame; a five-person pilot found shame about a specific event could be reduced over a short period.
+
+[The truth sets you free](https://clemvillatte.github.io/flourishing-compendium/#card=The%20truth%20sets%20you%20free): the Christian tradition's one-line case for confession (John 8:32).
+
+The hiding claim needs one qualification. De Hooge and colleagues note the literature's usual portrayal and their own finding:
+
+> "Whereas psychology literature typically portrays shame as being bad for social relations, motivating social avoidance and withdrawal, there are recent indications that shame can be reinterpreted as having clear social tendencies in the form of motivating approach and social affiliation." ([de Hooge et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29303420/))
+
+> "Two studies (N = 148 and N = 133) using different shame inductions both showed people experiencing shame to prefer to be together with others (social approach) over being alone (social withdrawal)." ([de Hooge et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29303420/))
 
 ## Where the traditions genuinely disagree
 
-### Is shame worth keeping?
+### Is the flash of shame a judgment?
 
-Aristotle and Spinoza both answer a version of this question, and both keep shame in the arsenal. For Aristotle the feeling restrains the young while character is under construction, and a person past that stage should have little occasion for it; he calls it conditionally a good thing. Spinoza is more sparing still: shame is not a virtue, yet good in so far as it shows the desire to live honourably.
+Sartre's account and the appraisal account in Tangney's tradition describe the same flash and give incompatible answers to what it is. For Sartre, shame is pre-moral and pre-reflective: the shudder of finding oneself an object in another's eyes, arriving "without room for any sort of inferential theorising or cognising" ([SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/)). For the appraisal tradition, shame is a cognizing — an evaluation of the global self as defective ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)). One account says the feeling carries no judgment; the other says the feeling is a judgment.
 
-The research tradition, asking what shame-proneness actually goes with, gives a darker answer: proneness to shame is related to low self-esteem, depression, anxiety, PTSD symptoms and suicidal ideation, and shame's action tendency runs toward denial, hiding and escape rather than repair ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)).
-
-The disagreement is genuine and the positions do not merely talk past each other: Aristotle's claim is about the feeling as a brake on the developing character, the research findings are about shame-proneness as a stable disposition correlated with symptoms. Whether a state that restrains and a trait that corrodes are the same phenomenon in different doses is what remains unresolved. De Hooge's approach finding — people feeling shame seeking company — suggests the picture is not finished even on the research side.
-
-### What does shame report?
-
-Sartre's account and the cognitive-evaluative account describe the same flash and disagree about what it discloses. For Sartre, shame is pre-moral: the shudder of finding oneself an object in another's eyes, a structure of being-seen that arrives before any judgment about what was done ([SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/)). For the research tradition, shame is a judgment — an evaluation of the global self as defective ([Tangney et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/)).
-
-The positions answer the same question — what the heat in the face is evidence of — and part ways on whether it reports a fact about a self or a fact about exposure. What remains unresolved is whether the two accounts can both be true of one feeling: a judgment that borrows its sting from the structure of being seen.
+What remains unresolved is whether both can be true of one experience: a judgment that borrows its sting from the structure of being seen. The two accounts also disagree about what the feeling is for — Sartre reads it as disclosing a dimension of selfhood, the appraisal tradition as a signal with repair and hiding as its outlets — and that difference in what the feeling reports follows directly from the disagreement about what it is.
 
 ## Practice: variation, selection, retention
 
-::Variation:: What tends to need varying on this theme is the slide from act to self: the miss that becomes "I am a fraud", the confession that becomes a hiding, the correction that arrives wrapped in contempt. The adaptive direction runs the other way: name the particular act, ask what repair is still available, and deliver correction — to others and to oneself — without the global verdict.
+::Variation:: What tends to need varying on this theme is the slide from act to self: the miss that becomes "I am a fraud", the apology that never gets made because the person stops showing up, the correction that arrives wrapped in contempt. The adaptive direction runs the other way: name the particular act, ask what repair is still available, and deliver correction — to others and to oneself — without the global verdict.
 
 ::Selection:: The kernels I have selected as sources of that variation:
 
@@ -153,19 +157,19 @@ The positions answer the same question — what the heat in the face is evidence
 
 2. [Amends and restitution](https://clemvillatte.github.io/flourishing-compendium/#card=K289%20%E2%80%94%20Amends%20and%20restitution): name what you did without softening clauses, acknowledge the impact as the other person describes it, offer concrete repair and do it. The supporting study measured victim-side responses to imagined apology and restitution; it does not test wrongdoers making real amends.
 
-3. [Opposite action](https://clemvillatte.github.io/flourishing-compendium/#card=K184%20%E2%80%94%20Opposite%20action): when shame urges hiding, do the reverse — keep the appointment, tell one safe person. The laboratory finding holds for guilt/shame conditions specifically, in a small sample.
+3. [Opposite action](https://clemvillatte.github.io/flourishing-compendium/#card=K184%20%E2%80%94%20Opposite%20action): when shame urges hiding and the urge runs against your values, do the reverse — keep the appointment, tell one safe person. The laboratory finding holds for guilt/shame conditions specifically, in a small sample.
 
 4. [The Two Teachers: change the tone, keep the lesson](https://clemvillatte.github.io/flourishing-compendium/#card=K380%20%E2%80%94%20The%20Two%20Teachers%3A%20change%20the%20tone%2C%20keep%20the%20lesson): write the inner critic's sentence down, rewrite it in a warm teacher's voice, keep the information and drop the contempt. From Kolts's compassion-focused therapy workbook.
 
 5. [Self-compassion practice](https://clemvillatte.github.io/flourishing-compendium/#card=K162%20%E2%80%94%20Self-compassion%20practice): hand on chest — "This is a moment of suffering. Suffering is part of life. May I be kind to myself in this moment." The meta-analytic association with lower psychopathology is correlational.
 
-::Retention:: Retention is what people keep because it works for them. A reader who keeps the act-self distinction, or the amends, or the warm-teacher rewrite has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
+::Retention:: What a reader keeps from this theme is usually a question rather than a technique: after a miss, "what exactly did I do, and what can I put right?" A reader who keeps asking it, and who keeps the amends they promised, has the theme's core; whether they add the self-compassion break or the opposite-action experiment is a matter of what their own shame answers to.
 
 ## Story: the stories that carry the theme
 
 ### The act named and repaired
 
-[ST380 — A Mirror for Rahula](https://clemvillatte.github.io/flourishing-compendium/#card=ST380%20%E2%80%94%20A%20Mirror%20for%20Rahula): the Buddha asks his seven-year-old son what a mirror is for, then runs the same reflection through every action before, during and after: harm confessed to the Teacher or a knowledgeable companion, restraint ahead, and refreshment and joy for conduct that was skillful.
+[ST380 — A Mirror for Rahula](https://clemvillatte.github.io/flourishing-compendium/#card=ST380%20%E2%80%94%20A%20Mirror%20for%20Rahula): the Buddha asks his son what a mirror is for, then runs the same reflection through every action before, during and after: harm confessed to the Teacher or a knowledgeable companion, restraint ahead, and refreshment and joy for conduct that was skillful.
 
 ### Being seen
 
@@ -178,5 +182,3 @@ The positions answer the same question — what the heat in the face is evidence
 ### Release from guilt
 
 [ST390 — The Tinker's Chains Fall Off in a Field](https://clemvillatte.github.io/flourishing-compendium/#card=ST390%20%E2%80%94%20The%20Tinker%27s%20Chains%20Fall%20Off%20in%20a%20Field): Bunyan's heart "as full of fear and guilt as ever heart could hold" until, crossing a field with dashes on his conscience, the sentence "Thy righteousness is in heaven" falls upon his soul and the chains come off his legs.
-
-[ST289 — Jaspers's Shipwreck](https://clemvillatte.github.io/flourishing-compendium/#card=ST289%20%E2%80%94%20Jaspers%27s%20Shipwreck): guilt named as one of the limit situations, with death, chance and struggle, that cannot be resolved, only clarified; the response to the shipwreck is illumination, and the choice is how to meet it.

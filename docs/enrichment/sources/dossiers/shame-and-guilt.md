@@ -1,77 +1,92 @@
 # Evidence record — Shame & Guilt dossier
 
 Writer: worker-pplx-dos29-1024a, band dos29 (mint 4, The Affective Life).
-Registry status stays 'planned'; the supervisor flips and publishes. Band state:
-shame-and-guilt left in review-pending, not marked done, pending the
+Registry status stays 'planned'; the supervisor flips and publishes. Band
+state: shame-and-guilt left in review-pending, not marked done, pending the
 supervisor's publication decision.
 
 ## Carriers opened this session and verified word-for-word
 
 - Tangney, Stuewig & Mashek (2007), "Moral Emotions and Moral Behavior",
-  Annual Review of Psychology 58 (PMC3083636), full text opened. Verified:
-  the Lewis (1971) global-self vs specific-behavior sentence; the
-  deny/hide/escape vs confessions/apologies/undoing action-tendencies
-  passage; the proneness-to-shame symptoms passage (low self-esteem,
-  depression, anxiety, PTSD, suicidal ideation); the guilt-generalization
-  passage ("Oh, look at what a horrible thing I have done" / "aren't I a
+  Annual Review of Psychology 58, https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/ —
+  full text opened. Verified: the Lewis (1971) global-self vs
+  specific-behavior sentence; the deny/hide/escape vs
+  confessions/apologies/undoing action-tendencies passage; the
+  proneness-to-shame symptoms passage; the guilt-generalization passage
+  ("Oh, look at what a horrible thing I have done" / "… and aren't I a
   horrible person").
-- Aristotle, Nicomachean Ethics IV.9, Ross translation (Internet Classics
-  Archive), opened. Verified: "Shame should not be described as a
-  virtue..."; the young-people-restrained-by-shame passage; the
-  "conditionally a good thing" passage.
-- Aristotle, Rhetoric II.6, Roberts translation (Internet Classics
-  Archive), opened. Verified: the pain-or-disturbance-in-regard-to-bad-
-  things definition and the people-before-whom-we-feel-shame sentence.
-- Spinoza, Ethics, Elwes translation (Gutenberg 3800-h), opened. Verified:
-  Shame (Definitions of the Affects XXXI); Repentance (XXVII); the IV LVIII
-  note ("shame, like compassion, though not a virtue, is yet good...").
-- Nietzsche, The Joyful Wisdom, Common translation (Gutenberg 52881-0.txt),
-  opened. Verified: §§273, 274, 275 as printed (em dashes in the original
-  aphorism titles retained inside quotation).
-- Maimonides, Mishneh Torah, Repentance 2:2 (Sefaria), opened. Verified:
-  "What constitutes Teshuvah?..." passage including regret and verbal
-  confession.
-- Stanford Encyclopedia of Philosophy, "Jean-Paul Sartre" entry, opened.
-  Verified: the keyhole footsteps passage ("pre-moral experience of shame")
-  quoted from the entry, not from Being and Nothingness directly.
+- Aristotle, Nicomachean Ethics IV.9, Ross translation, https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html —
+  opened. Verified: "Shame should not be described as a virtue..."; the
+  young-people-restrained-by-shame passage; the "conditionally a good
+  thing" passage.
+- Aristotle, Rhetoric II.6, Roberts translation, https://classics.mit.edu/Aristotle/rhetoric.2.ii.html —
+  opened. Verified: the pain-or-disturbance definition and the
+  people-before-whom-we-feel-shame sentence.
+- Spinoza, Ethics, Elwes translation, https://www.gutenberg.org/files/3800/3800-h/3800-h.htm —
+  opened. Verified: Shame (Definitions of the Affects XXXI); Repentance
+  (XXVII); the IV LVIII note quoted in full ("I will only add that
+  shame...").
+- Nietzsche, The Joyful Wisdom, Common translation, https://www.gutenberg.org/files/52881/52881-0.txt —
+  opened. Verified §§273, 274, 275 as printed (question and answer as
+  separate sentences, no em dashes added).
+- Maimonides, Mishneh Torah, Repentance 2:2 (Sefaria), https://www.sefaria.org/Mishneh_Torah%2C_Repentance.2.2?lang=bi —
+  opened. Verified: "What constitutes Teshuvah?..." with ellipses marking
+  the scripture citations omitted.
+- SEP, "Jean-Paul Sartre", https://plato.stanford.edu/entries/sartre/ —
+  opened. Verified: the keyhole footsteps passage in full, including "(at
+  least that is manifest to our own consciousness)".
 - Gilbert (2009), "Introducing compassion-focused therapy", Advances in
-  Psychiatric Treatment 15 (Cambridge Core), opened. Verified: the
-  affect-regulation-system sentence for people with high shame and
-  self-criticism.
-- MN 61, Ambalatthika-rahulovada Sutta, Thanissaro translation (Access to
-  Insight), opened. Verified: the mirror exchange.
+  Psychiatric Treatment 15, https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088 —
+  opened. Verified: the affect-regulation-system sentence for people with
+  high shame and self-criticism.
+- MN 61, Thanissaro translation, https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html —
+  opened. Verified: the mirror exchange, comma before "&" preserved.
+- de Hooge, Breugelmans, Wagemans & Zeelenberg (2018), Cognition and
+  Emotion 32(8), PubMed abstract https://pubmed.ncbi.nlm.nih.gov/29303420/ —
+  opened. Verified: the "typically portrays shame" sentence and the
+  two-studies finding, both quoted in the dossier.
+- Shafran, Watkins & Charman (1996), "Guilt in obsessive-compulsive
+  disorder", Journal of Anxiety Disorders, King's College London record
+  https://kclpure.kcl.ac.uk/portal/en/publications/guilt-in-obsessive-compulsive-disorder/ —
+  opened. Verified: the trait-guilt prediction sentence, quoted in the
+  dossier.
 
-## Quotes carried over without a fresh fetch
+## Material carried from already-verified wiki pages (no fresh fetch)
 
-- None. Every quotation in this dossier was verified against a carrier
-  opened this session, listed above.
-
-## Map descriptions
-
-Each per-entry description is compressed from the linked entry's own opening
-claim (source: the content/ file for each card). The de Hooge 2018 approach
-qualification and the Shafran obsessional-guilt sentence are stated from
-the BE034 and AF054 principle pages respectively, which hold those findings
-with their carriers; both are described without quotation.
+- The Marcus Aurelius Meditations V.9 line on the S066 principle page
+  (carrier: Gutenberg Long translation, held verified on the page).
+- The ST390 Bunyan quotations ("as full of fear and guilt as ever heart
+  could hold", "Thy righteousness is in heaven") — verbatim on the story
+  card, whose Sources section records the Gutenberg carrier and the
+  paragraph numbers.
+- The K162 exercise wording ("This is a moment of suffering...") — the
+  kernel's own protocol text.
+- Map-entry descriptions: compressed from each linked card's own opening
+  claim. de Hooge and Shafran findings are additionally quoted from
+  freshly opened carriers (above).
 
 ## Card links
 
-All 36 #card= targets verified by scripts/dossier_check.py: 0 unresolved.
+All 39 #card= targets verified by scripts/dossier_check.py: 0 unresolved.
+The principle cards linked inline (S066) and the saying card (The truth
+sets you free) were included because each directly carries a group's
+argument, per the right-action precedent on principle inclusion.
 
 ## Story section
 
-All five loglines (ST380, ST283, ST363, ST390, ST289) were rebuilt from the
-story cards' own text, opened this session. ST390's "as full of fear and
-guilt as ever heart could hold" and "Thy righteousness is in heaven" are
-verbatim from the Bunyan card; ST283's keyhole scene matches the card.
-ST428 duplicates ST390 (same title, two files) — flagged for the
-supervisor; ST390 was used.
+Four loglines (ST380, ST283, ST363, ST390) rebuilt from the story cards'
+own text, opened this session. ST289 (Jaspers's Shipwreck) was dropped
+from the Story section on advisor QC: its card carries a philosophical
+summary with no concrete incident, and a logline cannot be built from it
+without inventing a scene. The guilt-as-limit-situation idea is not
+asserted elsewhere in the dossier; if the supervisor wants it, it belongs
+in the map with a Heidegger/Jaspers line.
 
 ## Practice section
 
-The five kernels cited (K352, K289, K184, K380, K162) were verified to exist
-and read in full; each Selection entry carries its own evidence-limit note
-from the kernel's Evidence section (Litz et al. is a conceptual review with
+The five kernels cited (K352, K289, K184, K380, K162) were read from their
+content/ files; each Selection entry carries the evidence-limit note from
+the kernel's own Evidence section (Litz et al. is a conceptual review with
 no audit trial; Witvliet et al. is a victim-side scenario design; the
 Sauer-Zavala opposite-action finding is a small laboratory sample; K380 is
 from Kolts's CFT workbook; the self-compassion meta-analysis is
@@ -79,15 +94,33 @@ correlational).
 
 ## Divergences
 
-Two, both grounded in carriers opened this session: (1) Aristotle/Spinoza
-(shame as the learner's brake, conditionally good) vs Tangney et al. 2007
-(shame-proneness correlated with symptoms and hiding), with the
-state-vs-trait gap and the de Hooge approach finding stated as unresolved;
-(2) Sartre's pre-moral being-seen account vs the cognitive-evaluative
-global-self account, with the SEP entry as the Sartre carrier.
+One, grounded in carriers opened this session: Sartre's pre-moral,
+non-cognitive account vs the appraisal tradition's shame-as-evaluation,
+stated as incompatible answers to the question "is the flash of shame a
+judgment?". The second candidate (Aristotle/Spinoza's shame-as-brake vs
+Tangney's shame-proneness findings) was judged compatible-in-scope on
+advisor QC (a state that restrains vs a trait that correlates with
+symptoms), so it is presented in the map as a scope limit, not as a
+divergence. Flagged for the supervisor: the divergence requirement is
+carried by one section; the second contrast is available if the owner
+wants it developed under a tighter question.
 
 ## Flags for the supervisor
 
-- ST428/ST390 duplicate story files exist in content/stories/; this
-  dossier links ST390 only.
+- ST428 and ST390 are two files with the same title in content/stories/;
+  possible duplicate requiring inspection. This dossier links ST390 only.
 - Registry status left 'planned' per the dossier band rules.
+
+## Revision history
+
+- Revision 1 (pushed 0ba2bcd9b): first draft, checker exit 0.
+- Revision 2 (this push): advisor QC applied — both original divergences
+  reworked (one removed as compatible-in-scope and restated as a map
+  limit, one rebuilt as a genuine incompatibility); SEP quote restored in
+  full; Nietzsche quotes restored to the fetched punctuation; MN 61 comma
+  restored; Spinoza IV LVIII note quoted in full; self-forgiveness line
+  rewritten from the Hall & Fincham definition; opening paragraph freed of
+  meta-text; ST289 dropped from Story; Rahula's age dropped; de Hooge and
+  Shafran upgraded to directly opened carriers with quotes; "The call of
+  conscience", "The truth sets you free" and S066 added to the map;
+  Retention paragraph rewritten theme-specific.
