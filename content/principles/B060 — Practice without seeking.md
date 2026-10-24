@@ -33,6 +33,9 @@ Meditating to 'achieve calm' and getting tense about progress — the measuremen
 
 - [Eihei Dogen, Genjokoan, trans. Shohaku Okumura (Tricycle)](https://tricycle.org/article/dogen-genjokoan/)
 
+## Stories
+- [[ST480 — Everyday Life Is the Path|480. Everyday Life Is the Path]]
+
 ## Psychology parallels
 
 - **[[The paradox of valuing a goal excessively|The paradox of valuing a goal excessively]]** (Mauss et al., 2011)

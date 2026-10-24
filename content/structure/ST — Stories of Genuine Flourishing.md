@@ -207,6 +207,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST432 — Jim Forest Washes the Dishes]]
     - [[ST458 — The Telephone as a Bell of Mindfulness]]
     - [[ST461 — Kabat-Zinn Starts the Stress Reduction Program]]
+    - [[ST480 — Everyday Life Is the Path]]
 - [[ST-S03 — Part III — Pragmatist and Process Stories]]
   - [[ST-S03.01 — III.1 First Principles of Process]]
     - [[ST096 — Heraclitus and the River]]
