@@ -129,3 +129,7 @@ wants it developed under a tighter question.
   and the inference-drawing sentence removed (absence of inferential
   theorising does not establish absence of evaluation; the unresolved
   both-can-be-true reading carries the section).
+
+## Flag sharpened (~T+28)
+
+ST428 and ST390 ("The Tinker's Chains Fall Off in a Field") re-checked: the two files are byte-identical except the id/title/file metadata lines. Pure duplicate; the compendium should keep one (the dossier links ST390). Supervisor decision, not taken by this worker.

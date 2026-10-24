@@ -167,3 +167,7 @@ deleted the same way).
 ## Flag re-check (post-rev2, 2026-10-24 ~T+26)
 
 The four card-repair flags above were re-checked against the current card states: "Courage" (no Marcus/Meditations quote remains; Aristotle NE + IEP only), "The fearless mind" (MN 58 quotes with MN 58 sources; no Marcus 6.30 attribution remains), "The examination of fear" (Epicurus Menoeceus quotes with epicurus.net carrier; no Seneca De Beneficiis citation remains), and "Epicurean argument against the fear of death" (no Lucretius "fort without walls" quote remains). The flagged material was removed during the rev2 courage-cluster rewrite; the cards as pushed no longer carry the unverifiable quotes. The flags are RESOLVED for the cards' current states; the supervisor may still want to confirm the epicurus.net Cook translation carrier independently.
+
+## Courage card spot-check (~T+28)
+
+The Courage card's remaining Aristotle NE quotes ("courage is a mean with respect to things that inspire confidence or fear..." and the "merits of the case... as the rule directs" sentence) verified verbatim against the MIT Ross translation of NE Book III. The card's Aristotle material is clean; the IEP habituation summary remains card-carried (not re-verified this session).
