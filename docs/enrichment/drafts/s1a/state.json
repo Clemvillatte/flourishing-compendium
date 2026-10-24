@@ -1456,7 +1456,22 @@
      "note": "advisor QC fixes applied (Dewey opened, figures dated, mapping source-bounded)"
     }
    ]
+  },
+  "s1a-045": {
+   "status": "ready",
+   "angle": "B029: MN 107 — the Buddha's answer to Ganaka-Moggallana on why some attain and some don't: the frontier-city gatekeeper and the shown path",
+   "history": [
+    {
+     "t": "2026-10-24T14:11:37+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:12:29+00:00",
+     "to": "ready",
+     "note": "story_check clean; MN 107 opened and quoted verbatim"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:10:51+00:00"
+ "updated": "2026-10-24T14:12:29+00:00"
 }
