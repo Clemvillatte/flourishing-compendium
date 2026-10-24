@@ -30,3 +30,11 @@ changed.
 - Later meta-analysis abstract, PubMed Central — Secondary source
 - Comment on the three meta-analyses, PubMed — Secondary source
 - Deci and Ryan, Canadian Psychology 2008 — Secondary source
+
+## Carrier re-verification (2026-10-25)
+
+The Deci, Koestner and Ryan 1999 carrier (PubMed abstract,
+Psychological Bulletin) was re-opened this session. The quoted
+passage including the effect sizes (d = -0.40, -0.36, -0.28) is
+verbatim. No discrepancy found. Other carriers were not re-opened
+this session.
