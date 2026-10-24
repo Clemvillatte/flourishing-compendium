@@ -18,9 +18,9 @@ Thich Nhat Hanh describes the Lazy Day as training in not being afraid of doing 
 
 (Thich Nhat Hanh, Happiness, 'Lazy Day' section, p. 103, [Parallax Press PDF](https://www.parallax.org/wp-content/uploads/2020/06/Happiness_2020FreeDownload.pdf).)
 
-The [Lazy Day](https://www.parallax.org/wp-content/uploads/2020/06/Happiness_2020FreeDownload.pdf) has no scheduled activities, but is not simply permission to do whatever one wants; its purpose is to examine the need to keep doing something (pp. 103-104). This is a contemplative teaching, not evidence that enduring boredom treats depression.
+The [Lazy Day](https://www.parallax.org/wp-content/uploads/2020/06/Happiness_2020FreeDownload.pdf) has no scheduled activities, but is not simply permission to do whatever one wants; its stated purpose is to train us not to fear doing nothing and to loosen the habit of always doing something (pp. 103-104). This is a contemplative teaching, not evidence that enduring boredom treats depression.
 
-A psychological account asks a different question: [Eastwood and colleagues (2012)](https://pubmed.ncbi.nlm.nih.gov/26168505/) define boredom as “the aversive experience of wanting, but being unable, to engage in satisfying activity.” Their theoretical synthesis concerns attention, not a trial of the Lazy Day.
+A psychological account asks a different question: [Eastwood and colleagues (2012)](https://pubmed.ncbi.nlm.nih.gov/26168505/) argue that boredom is universally conceptualised as “the aversive experience of wanting, but being unable, to engage in satisfying activity.” Their theoretical synthesis concerns attention, not a trial of the Lazy Day.
 
 **Plain words** A free moment can feel surprisingly difficult to inhabit. Reaching for entertainment may be an enjoyable choice, a way to avoid a feeling, or a search for something worth doing. The pause is an opportunity to tell those possibilities apart. It is not a contest to see how much boredom you can tolerate, and choosing an activity remains allowed.
 

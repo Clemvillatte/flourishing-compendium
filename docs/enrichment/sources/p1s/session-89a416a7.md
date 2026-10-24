@@ -117,3 +117,16 @@ The unchanged Practice section of BE039 says CBT-I “has no side effects.” Th
 - Corrected the old introductory attribution: the visitors passage describes the Tathagata, not an unspecified monk. The subsequent speech instructions concern the monk. Kept the monastic/meditative scope instead of making seclusion a universal social rule.
 - Fresh Plain words explains the difference between an unfilled pause and necessary speech. A rumour versus a project question, the concrete usefulness of an answer and applying the distinction in the next setting give variation/selection/retention. No measured cognitive-recovery or mental-health outcome claimed.
 - Source section added; removed internal “the page lists” wording. Sparse speech already occurs in the protected link inventory. Broader Kaplan/Wittgenstein parallels remain inherited and outside the source certification.
+
+## B190: noticing a breath is not a controlled-breathwork protocol
+
+- Opened unprompted: [MN 118](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html), complete discourse and notes; [Plum Village, The Art of Mindful Living](https://plumvillage.org/mindfulness/mindfulness-practice), mindful-breathing section; [Balban et al. 2023, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/36630953/). Search: Balban/structured respiration/five minutes, then Plum Village/mindful breathing/not controlling.
+- Retained long-breath quotation and new Plum Village no-control sentence are verbatim. The sixteen steps and final relinquishment step were read in MN 118.
+- The Balban trial's comparison and duration are from the authors' abstract. No HRV, mood, anxiety or clinical benefit is extrapolated to one ordinary breath; no full-article reading claimed.
+- The old Plum Village Living Gems route was opened, but its summary is explicitly “Not yet reviewed” with a warning of possible inaccuracies. Replaced reliance on that summary with the established practice page. No claim to have listened to the talk.
+- Plain words explains recognition versus breath control and removes the question/checklist formulation. Belly versus nostrils, ease of noticing and reuse supply variation/selection/retention. Non-urgent messages avoid imposing a delay on urgent action.
+- Read Anapanasati (mindfulness of breathing), which already backlinks B190; added the missing substantive forward link, so no reciprocal proposal needed. Mention sweep for “one breath” found many adjacent but non-identical practices; no bulk links added.
+
+## Meals/gratitude/boredom milestone review
+
+Advisor `p1s_meals_gratitude_boredom_milestone_qc_mvly9rvs`: B169 and B113 scoped PASS; independently confirmed B181 quotation on printed p. 103 using actual PDF boundaries. Two required B181 precision edits applied: use the author's stated training purpose, and describe Eastwood's quoted phrase as their account of the universal conceptualisation before their attentional proposal. The quote itself is unchanged. Inherited parallels/reflections remain excluded.

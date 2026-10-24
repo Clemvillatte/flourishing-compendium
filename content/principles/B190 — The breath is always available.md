@@ -18,13 +18,23 @@ The Anapanasati Sutta grounds the practice in the breath itself ([MN 118, Thanis
 
 (MN 118, [Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html).)
 
-The instruction continues with short breaths, sensitivity to the whole body, and calming bodily fabrication. The passage introduces a seated practice in a secluded place. Plum Village's teaching for young people describes the same tool applied to daily difficulties, following the breath at the nostrils, the cool inbreath and the warm outbreath, to calm body and mind ([Plum Village](https://plumvillage.org/gems/event/Be-in-with-the-young-people-mVAvCtLiuHyzhT2MnGsW8n/preview?lang)).
+The [sutta](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) introduces a seated, secluded practice and continues through sixteen instructions, including sensitivity to the whole body and attention to relinquishment. Plum Village's [daily-practice guidance](https://plumvillage.org/mindfulness/mindfulness-practice) makes a distinction useful here: “We don’t need to control the breath in any way.”
 
-The compendium suggests noticing one ordinary in-breath and out-breath before replying. This brief exercise does not reproduce the sutta's full training.
+The compendium suggests noticing an ordinary breath before replying, without treating that pause as the whole training. It also differs from research on structured breathwork: [Balban and colleagues (2023)](https://pubmed.ncbi.nlm.nih.gov/36630953/) compared daily five-minute breathing exercises with mindfulness meditation over a month. That trial does not establish an effect for this one-breath exercise.
 
-**Plain words** In this brief exercise, pay attention to the breath you are already taking. Is it long or short? There is no requirement to feel calmer or to give a better answer afterward.
+**Plain words** The breath is something happening now, before you have decided what to say. Noticing it gives attention a simple subject. You need not make a long breath short, turn a shallow breath deep, or produce a peaceful feeling. In this small exercise, the achievement is recognising an experience rather than controlling it.
 
-*For example:* Imagine being asked a question you did not expect. You notice one in-breath and one out-breath, then answer. The pause is brief and the answer is whatever it is; the exercise is the noticing.
+For example: Before answering two non-urgent messages, someone tries noticing the breath at the nostrils once and at the belly another time. She keeps the location where breathing is easier to notice, then uses that cue again. She still answers the messages; neither a calmer mood nor a better reply is promised.
+
+## Sources
+
+- [MN 118, Anapanasati Sutta, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) — breath recognition and the wider sixteen-part training
+- [Plum Village, The Art of Mindful Living](https://plumvillage.org/mindfulness/mindfulness-practice) — naturally encountered breath, at belly or nostrils
+- [Balban et al. (2023), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/36630953/) — a month of five-minute practices, not a trial of a single noticed breath
+
+## Related concepts
+
+- [[Anapanasati (mindfulness of breathing)]] — the wider training from which this short everyday exercise borrows the recognition of breathing.
 
 ## Stories
 
