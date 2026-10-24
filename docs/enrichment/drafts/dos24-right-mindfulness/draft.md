@@ -99,6 +99,24 @@ The observation is not detached watching; it is effortful and free of grasping. 
 
 [Delight in the ordinary](https://clemvillatte.github.io/flourishing-compendium/#card=Delight%20in%20the%20ordinary): the capacity to find sufficiency and freshness in plain, repeated things, the food, clothes, work and people already at hand.
 
+## Related questions and parallels
+
+### Is mindfulness bare, non-judgmental presence?
+
+The clinical definition that the modern practice family works from, Kabat-Zinn's, reads:
+
+> "the awareness that emerges through paying attention, on purpose, in the present moment, and non-judgmentally to the unfolding of experience moment by moment." ([Wikipedia, "Mindfulness", quoting Jon Kabat-Zinn](https://en.wikipedia.org/wiki/Mindfulness)): Reference article quoting the primary definition; quoted passage checked.
+
+Thanissaro, reading the Pali sati against that definition, denies that this is what sati is; the remembering, keeping-in-mind quality is the factor, and bare non-judgmental presence belongs to other mental qualities:
+
+> "Directions such as “bring bare attention to the breath,” or “accept the breath,” or whatever else modern teachers tell us that mindfulness is supposed to do, are actually functions for other qualities in the mind. They're not automatically a part of sati." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)): Scholarly essay by a monastic translator; quoted passages checked.
+
+And he rejects the passivity the clinical definition suggests, from the same essay:
+
+> "meditation isn't just a passive process of being nonjudgmentally present with whatever's there and not changing it at all." ([Thanissaro Bhikkhu, "Mindfulness Defined"](https://www.accesstoinsight.org/lib/authors/thanissaro/mindfulnessdefined.html)): Scholarly essay by a monastic translator; quoted passages checked.
+
+The two sides answer the same question, what the trained capacity is, in incompatible ways: on one side attention that receives the present without judgment, on the other a keeping in mind that remembers a path and works at it. The wiki holds both, the clinical family's cards on one side, the sati cards and this essay on the other, and does not reconcile them.
+
 ## Practice: variation, selection, retention
 
 ::Variation:: What tends to need varying on this theme is the default setting of the unattended life: experience passing unexamined, the body noticed only when it complains, attention captured by whatever arrives loudest. The adaptive direction is the factor's own shape, awareness established on some frame of the present, breath, body, feeling or thought, and returned to without drama when it wanders.
