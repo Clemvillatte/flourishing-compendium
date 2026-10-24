@@ -124,3 +124,18 @@ logline is not duplicated).
 - Divergence 1 re-grounded with the fuller Diamond Sutra section 31
   passage; the unresolved question is now levels-of-one-training vs
   opposed stances, honestly stated.
+
+## Pass 10 notes (advisor QC round 4)
+
+- ST065 (Nagasena and the Chariot): restore only after opening a carrier
+  visibly carrying the chariot exchange (Rhys Davids archive.org full
+  text, or sacred-texts/wisdomlib in a browser session; both refuse
+  automated fetch). The K144 kernel's Questions-of-Milinda background
+  is unverified for the same reason.
+- Open research questions now three: cultivation-vs-non-establishment
+  (MN 117 vs Diamond Sutra 31, quotes in place, opposition unproven),
+  convictions-vs-discernment, tasks-vs-beliefs. All need opposed
+  positions from opened carriers before any becomes a grounded
+  divergence.
+- Kernel assessment incomplete: 63-candidate list in the ledger; K388
+  considered, not added; boundary calls to check.

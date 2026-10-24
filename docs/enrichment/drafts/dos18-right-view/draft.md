@@ -107,23 +107,21 @@ The modern cards in this subtheme are editorial connections the compendium draws
 
 ## Where the traditions genuinely disagree
 
-### Should the training affirm a view or dissolve the views?
+No same-question disagreement between traditions is yet grounded on this theme; the candidates below are recorded as open research questions, each missing either an opposed position quoted from an opened carrier or the demonstration that the two positions answer the same question.
 
-Both positions answer the same question: is the training's work with views a cultivation of a right view to be held, or a non-establishment of view? The early discourses answer by cultivating right view as forerunner:
+### Is the work with views a cultivation or a non-establishment?
+
+The strongest candidate pairs two passages that may not oppose each other. The early discourses cultivate right view as forerunner:
 
 > "Of those, right view is the forerunner. And how is right view the forerunner? In one of right view, wrong view is abolished. The many evil, unskillful qualities that come into play with wrong view as their condition are also abolished, while the many skillful qualities that have right view as their condition go to the culmination of their development." ([MN 117, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html)): Primary text; quoted passages checked.
 
-The Mahāyāna answer extends the same dissolution to the perception of the teaching itself:
+The Mahāyāna passage that grounds the candidate extends the same dissolution to the perception of the teaching itself:
 
 > "That which has been taught by the Tathagata as 'view of self', as a no-view has that been taught by the Tathagata. Therefore is it called 'view of self'... someone who has set out in the Bodhisattva-vehicle should know all dharmas, view them, be intent on them. And he should know, view and be intent on them in such a way that he does not set up the perception of a dharma... 'Perception of dharma, perception of dharma,' Subhuti, as no-perception has this been taught by the Tathagata. Therefore is it called 'perception of dharma'." ([Diamond Sutra, section 31, Conze rendering, full text](http://www.nyx.net/~dbachman/texts/Diamond.txt)): Primary text; quoted passages checked against the raw text.
 
 The Stanford Encyclopedia frames the Madhyamaka move as a corrective rather than a new position, which is context for the disagreement, not one of its poles: emptiness is "not some kind of primordial reality ante rem but a corrective to a mistaken view of how the world exists" ([SEP, Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/)): Scholarly interpretation; cited passages checked.
 
-What remains unresolved is the relation between the two: MN 117 affirms a view whose holding culminates skillful qualities; the Diamond Sutra instructs knowing and viewing dharmas while not setting up the perception of a dharma. The Diamond Sutra's own wording both directs the viewing and dissolves the view's reification, so the two texts may be levels of one training, a view held for cultivation but not clung to, or genuinely opposed stances toward views; the compendium holds both without adjudicating.
-
-### Open research questions
-
-Two further candidates do not yet meet the bar, a same-question disagreement with each position quoted from an opened carrier:
+Whether this is a disagreement at all is what remains unresolved: MN 117 affirms a view whose holding culminates skillful qualities; the Diamond Sutra instructs knowing and viewing dharmas while not setting up the perception of a dharma. The Diamond Sutra's own wording both directs the viewing and dissolves the view's reification, so the two texts may be levels of one training, a view held for cultivation but not clung to, or genuinely opposed stances toward views. Until a carrier is opened in which a tradition reads the early right view under this dissolution, the compendium holds both texts without certifying an opposition.
 
 ### Is the view a set of convictions or a direct discernment?
 
@@ -155,7 +153,7 @@ The propositional reading exists in summary sources, but no carrier advocating a
 
 6. [The pragmatic maxim](https://clemvillatte.github.io/flourishing-compendium/#card=K132%20%E2%80%94%20The%20pragmatic%20maxim): take the belief doing the most work in your thinking and ask what conceivable practical difference it makes against its rival; if no difference can be found, the dispute is about a word, not a world.
 
-7. [The chariot analysis](https://clemvillatte.github.io/flourishing-compendium/#card=K144%20%E2%80%94%20The%20chariot%20analysis): when a self-image starts speaking as the whole self, give it the chariot treatment; ask which part is the pole, the axle, the wheels, and watch the designation fail to land on any of them.
+7. [The chariot analysis](https://clemvillatte.github.io/flourishing-compendium/#card=K144%20%E2%80%94%20The%20chariot%20analysis): when a self-image starts speaking as the whole self, the wounded child, the achiever, the critic, give it the chariot treatment; ask, part by part, where the designation lands, and watch it fail to land on any of them.
 
 8. [Evidence-versus-interpretation drill](https://clemvillatte.github.io/flourishing-compendium/#card=K270%20%E2%80%94%20Evidence-versus-interpretation%20drill): lay a distressing thought out and write the evidence for it, the evidence against it, and an alternative reading; the written version of Epictetus's question, which is the thing and which the notion.
 
@@ -165,7 +163,7 @@ The propositional reading exists in summary sources, but no carrier advocating a
 
 ## Story: the stories that carry the theme
 
-Two of the compendium's view-family stories carry the theme; the third, ST065 (Nagasena and the Chariot), is held back from this page until a carrier visibly carrying the chariot exchange can be opened, because the summary sources reachable this session do not show it.
+Two of the compendium's view-family stories carry the theme, one for the view of effort and one for the view of mastery.
 
 ### The view of effort
 
@@ -173,4 +171,4 @@ Two of the compendium's view-family stories carry the theme; the third, ST065 (N
 
 ### The view of mastery
 
-- [ST067 — Fletcher's Classroom](https://clemvillatte.github.io/flourishing-compendium/#card=ST067%20%E2%80%94%20Fletcher%27s%20Classroom): a conductor answers a car crash with a demand to play, and the drummer plays on bleeding hands; in the final scene the drummer seizes control of the performance itself.
+- [ST067 — Fletcher's Classroom](https://clemvillatte.github.io/flourishing-compendium/#card=ST067%20%E2%80%94%20Fletcher%27s%20Classroom): the drummer practices until his hands bleed, arrives bloodied from a car crash and is dismissed mid-performance; in the final scene he reclaims the drum kit and cuts the conductor off by cueing the band himself.

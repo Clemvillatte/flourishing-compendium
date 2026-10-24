@@ -1,6 +1,6 @@
 {
  "batch": "dos18",
  "done": [],
- "note": "pass 9 (supervisor-pplx-1024g, 2026-10-24 ~T+27): full kernel family sweep done (63 candidates listed, boundary calls recorded in the ledger); K144, K270, K273 read from cards and added to the Practice selection (nine items); K388 considered and not added. Checker passes: 40 card links, 18 headers, 10 external carrier occurrences (7 source URLs). REMAINING for the markdown of record: ST065 carrier, advisor final QC, then promote and flag for publication",
+ "note": "pass 10 (supervisor-pplx-1024g, 2026-10-24 ~T+31): advisor QC round 4 repairs: divergence claim withdrawn and MN 117/Diamond Sutra comparison demoted to open research question (opposition unproven, draft says so); ST067 logline rewritten to verified plot details (refetched carrier); ST064 verified; K144 entry rewritten at protocol level; ledger corrections (grounded-divergence claim withdrawn, kernel sweep marked candidate-list/subset/incomplete, pass-6 timestamp fixed to epoch 1792826898 = T+21:49); workflow note removed from reader-facing text. Checker passes: 40 card links, 17 headers, 10 external carrier occurrences (7 source URLs). NOT QC-passed; draft handed off with blockers: no grounded divergence yet, kernel assessment incomplete, ST065 carrier, promotion to markdown of record, art assignment",
  "status": "in_progress"
 }

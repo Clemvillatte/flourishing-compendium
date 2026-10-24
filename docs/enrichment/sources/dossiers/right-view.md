@@ -218,3 +218,34 @@ The remaining candidates on the list are self-distancing, reappraisal,
 narrative and relationship kernels that belong to other dossiers
 (self-as-context, narrative reconstruction, repair, values); the
 boundary calls are recorded here for the next pass to check.
+
+## Pass 10, advisor QC round 4 repairs (2026-10-24)
+
+- The "grounded divergence" and "divergence re-grounded" claims are
+  WITHDRAWN. The MN 117 / Diamond Sutra section 31 comparison is demoted
+  to an open research question in the draft: the section 31 passage
+  directs knowing and viewing dharmas while avoiding reification, which
+  does not reject the right view affirmed in MN 117; the draft now says
+  so explicitly and holds both texts without certifying an opposition.
+  No same-question disagreement is grounded on this theme yet.
+- Story carriers, round 3 (both extraction-checked on the opened pages):
+  Whiplash Wikipedia refetched; the plot details the logline uses are
+  confirmed (practices until his hands bleed; car hit by a truck,
+  arrives bloodied; final scene: reclaims the drum kit and cuts Fletcher
+  off by cueing the band). The logline was rewritten to these verified
+  details. AN 6.55 refetched; "doing walking meditation until the skin
+  of his soles was split & bleeding" is on the opened page; the ST064
+  logline stands.
+- K144's practice entry was rewritten at protocol level; the Questions
+  of Milinda exchange it descends from remains unverified (no openable
+  carrier this session) and is flagged in prep for the next pass.
+- Timestamp correction, corrected: pass 6's recorded epoch was
+  1792826898 = T0 + 21:49 (07:28:18Z), not the T+16/07:47Z guessed in
+  the pass-8 note.
+- Kernel sweep record corrected: CANDIDATE LIST GENERATED (63 files),
+  SUBSET INSPECTED (K132, K144, K270, K273, K388 read from their
+  cards), ASSESSMENT INCOMPLETE. The boundary calls assigning the
+  remaining candidates to other dossiers are working notes for the next
+  pass, not a completed assessment.
+- The workflow note about ST065 being held back was removed from the
+  reader-facing draft and lives in prep only.
