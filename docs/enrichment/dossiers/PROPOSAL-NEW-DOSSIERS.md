@@ -76,6 +76,10 @@ Supporting cards (core cards read in full this session):
 - cards opened in part: Stuckness as suffering,
   Four Noble Truths, Tanha, Karuna, Judgment adds the harm, Attitudinal values,
   Compassion
+- Stuckness as suffering and Judgment adds the harm were then read in full:
+  stuckness reads dukkha through SN 56.11's origination formula with the cessation
+  sentence; judgment adds the harm holds the Stoic Enchiridion 5 doctrine and the
+  Sallatha Sutta's two arrows side by side, both quoted with carriers
 - principles B001 Face suffering directly, B006 Craving is the engine of suffering,
   B069 Don't shoot the second arrow, B099 Karuna in action, B182 Separate pain from
   suffering daily, E064 Meaning through attitude, M020 Suffering as teacher, SP095,
