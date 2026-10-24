@@ -165,7 +165,7 @@ The acceptance-and-commitment tradition's answer keeps the thought and moves the
 
 > "to see thoughts and feelings for what they are (i.e., a verbally entangled process of minding) rather than what they advertise themselves to be (e.g., the world understood, structured reality)" ([Hayes, Strosahl and Wilson 1999, quoted in Bernstein et al. 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/)) — Scholarly interpretation; cited passage checked.
 
-Both positions answer the same question, what to do with a painful thought, and they part on whether the thought is an object to be corrected or an event to be watched. What remains unresolved is which works when: the outcome literature has both families of techniques supporting their cases, and the wiki holds both without adjudicating; the defusion card itself notes the cross-tradition cognates, which suggests the practices may be training the same observation from two ends.
+Both positions answer the same question, what to do with a painful thought, and they part on whether the thought is an object to be corrected or an event to be watched. The wiki holds both without adjudicating which works when; the defusion card itself notes the cross-tradition cognates, which suggests the practices may be training the same observation from two ends.
 
 ## Practice: variation, selection, retention
 
