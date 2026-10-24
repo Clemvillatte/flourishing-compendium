@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-24 06:02 UTC (input revision `cbbf1d6ed`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 07:02 UTC.
+As of 2026-10-24 06:02 UTC (input revision `7525be2fc`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 07:02 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,8 +9,8 @@ As of 2026-10-24 06:02 UTC (input revision `cbbf1d6ed`). Scope: principles and c
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2182 | 0 | 2182 | 100.0% |
-| Concepts | 2257 | 5 | 2262 | 99.8% |
-| **Combined** | **4439** | **5** | **4444** | **99.9%** |
+| Concepts | 2258 | 4 | 2262 | 99.8% |
+| **Combined** | **4440** | **4** | **4444** | **99.9%** |
 
 ## Stories (separate pipeline)
 
@@ -32,7 +32,7 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 
 | Program | Pages | Done entries (bands) | Distinct done K-IDs | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queued IDs not in done |
 |---|---|---|---|---|---|---|---|
-| Kernels | 316 | 1507 (cmp, k1a, k1b, k1c, k1d, k1e, kpr, maintenance, t2a, t2b, t2c) | 316 | 316 | 100.0% | 216 | 0 |
+| Kernels | 316 | 1508 (cmp, k1a, k1b, k1c, k1d, k1e, kpr, maintenance, t2a, t2b, t2c) | 316 | 316 | 100.0% | 216 | 0 |
 | Thinkers | 56 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 56 | — |
 
 - Thinker reconciliation: 56 thinker page(s) exist (T001, T002, T003, T004, T005…); the thinker queue holds 56 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 12 recorded done. No completion percentage is computed: the program has no defined completion denominator.
