@@ -2,12 +2,16 @@
 
 Verification record for docs/enrichment/dossiers/right-intention.md, revision 1.
 Every quoted fragment in this dossier was fetched and read from its carrier
-during this session (2026-10-24, ~07:30–08:00 UTC) with the page-open tool.
+during this session (2026-10-24, ~07:30–07:45 UTC) with the page-open tool.
 Every quoted passage was then re-verified against raw, unprompted carrier
 text (direct fetch of each carrier URL, tags stripped, whitespace
-normalised, substring check). All quoted passages across the six
-carriers are FULL MATCH against the raw carrier text; the dossier contains
-10 external carrier-link occurrences covering 6 distinct carrier URLs.
+normalised, substring check; the Ryan & Deci PDF verified by download and
+pdftotext extraction, with a documented line-break hyphenation artifact,
+self-esteem extracted as selfesteem, the only difference). The dossier
+contains 10 external carrier-link occurrences covering 6 distinct carrier
+URLs. The heading over the two closing questions is "Related questions
+and parallels": neither pair of carriers establishes opposing positions,
+and both are framed as open questions.
 
 ## Quotes opened this session (fetch of the carrier page)
 
@@ -48,8 +52,11 @@ carriers are FULL MATCH against the raw carrier text; the dossier contains
   quoted from page 75: the intrinsic/extrinsic aspirations passage
   ("placing strong relative importance on intrinsic aspirations was
   positively associated with well-being indicators ..."). The PDF was
-  opened and read this session; the passage appears on the aspiration
-  study page.
+  downloaded and extracted with pdftotext this session; the passage is
+  present in the extraction (substring match after removing the running
+  header; the extraction renders self-esteem as selfesteem due to a
+  line-break hyphenation artifact, the only difference from the dossier's
+  quotation).
 
 ## Map descriptions
 
@@ -81,10 +88,11 @@ dossier text.
 
 A full title and full-text sweep of content/ for the theme family
 (intention, resolve, aim, vow, purpose, renunciation, craving, ill will,
-goodwill, harm, compassion, attachment) found five cards missed in pass 1,
+goodwill, harm, compassion, attachment) found four cards missed in pass 1,
 now added with lines compressed from their own openings: Compassion,
 Non-attachment, Distinguishing needs from wants (SDT), Eudaimonic
-motivation, intrinsic goals, plus the MN 117 two-forms quote. Cards
+motivation, intrinsic goals; plus one new carrier quotation, the MN 117
+two-forms of right resolve. Cards
 checked and deliberately left out: Boulesis (rational desire) (card body
 empty), Desire and Desire analyzed (held by the Motivation and Goals
 boundary per the registry scope), Hope/Elpis (expectation, not resolve),
@@ -108,6 +116,29 @@ question (e.g. a commentary tradition that rejects the abstention reading,
 or a source that argues against re-aiming wanting); both divergence
 entries currently quote both sides from opened carriers but frame the
 matter as open. This is flagged for the supervisor.
+
+## Story carriers
+
+- ST376 (Meghiya): carrier Ud 4.1 at accesstoinsight.org opened and read
+  this session; the logline's details (the three kinds of unskillful
+  thoughts, sensuality, ill will, doing harm) are supported verbatim.
+- ST066 (Kalamas): carrier AN 3.65 opened and read; the logline was
+  aligned to the carrier's own wording (qualities, adopted and carried
+  out, leading to harm and suffering or welfare and happiness).
+- ST085 (Kosambi): FLAGGED. The seed card cites "Kosambi Sutta, AN 3.123"
+  with the link an03.123.than.html, but that page is the Gotamaka-cetiya
+  Sutta and does not contain the episode. The dossier's logline has been
+  shortened to what the card's own summary and commentary assert, and the
+  seed card's carrier link is flagged here for the supervisor. The
+  alms-withdrawal and starvation details were removed from the logline.
+- ST352 (Cowherd) and ST064: the MN 19 carrier (already opened and
+  raw-verified) supports the simile material.
+- ST301 (Aspiration Index): the seed card cites a Wikipedia biography,
+  not the study; the logline compresses the card's own summary and is
+  not otherwise verified.
+- ST086 (Tigress): the seed card itself states the interpretation
+  (extreme case placed at the edge of the map on purpose); the logline
+  compresses the card's own words.
 
 ## Registry
 

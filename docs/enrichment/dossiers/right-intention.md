@@ -25,7 +25,7 @@ How to read this page. Each line gives the entry's own opening claim, compressed
 
 [Karma](https://clemvillatte.github.io/flourishing-compendium/#card=Karma): the Buddha's definition of karma as intention makes this factor the place where practice touches what karma is; what is done deliberately through body, speech or mind sets results going.
 
-[Right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view): the factor listed just before intention; SN 45.8 names right view, then right resolve, then right speech and right action, so the resolve sits between the seeing and any conduct.
+[Right view](https://clemvillatte.github.io/flourishing-compendium/#card=Right%20view): the factor listed just before intention; SN 45.8 names right view, then right resolve, then right speech and right action.
 
 The Magga-vibhanga Sutta gives the definition:
 
@@ -149,13 +149,13 @@ And the mechanism the discourse names is practice bending the mind:
 
 [Distinguishing needs from wants (SDT)](https://clemvillatte.github.io/flourishing-compendium/#card=Distinguishing%20needs%20from%20wants%20%28SDT%29): the theory's line between the few innate needs whose satisfaction grows a person and the wants that can crowd them out.
 
-[Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals): the pull toward intrinsic aspirations, affiliation, growth and contribution, named by the wiki for the aim side of this factor.
+[Eudaimonic motivation, intrinsic goals](https://clemvillatte.github.io/flourishing-compendium/#card=Eudaimonic%20motivation%2C%20intrinsic%20goals): the wiki's label for the pull toward intrinsic aspirations, affiliation, growth and contribution; the source paper frames the distinction as intrinsic versus extrinsic aspirations.
 
 [Action over intention](https://clemvillatte.github.io/flourishing-compendium/#card=Action%20over%20intention): the label for the right action factor, which comes fourth on the path, after right speech; the map of this factor ends where the path moves from resolve to conduct.
 
-## Where the traditions genuinely disagree
+## Related questions and parallels
 
-The two questions below are recorded as the dossier's open questions. Each is framed around one proposition with each side quoted from a carrier opened this session; where the carriers do not settle the matter, the wiki says so rather than manufacturing a disagreement.
+The two questions below gather passages the wiki holds side by side. Each is framed around one proposition with quotations from carriers opened this session; in both cases the carriers can be read as compatible, and the wiki records the open question rather than manufacturing a disagreement. Research for carriers that argue the positions against each other is unfinished, and is flagged for the supervisor.
 
 ### Is the resolve an abstention or a cultivation?
 
@@ -175,7 +175,7 @@ The motivation science studies what people aim at and what aiming does to them. 
 
 > "They found, first, that placing strong relative importance on intrinsic aspirations was positively associated with well-being indicators such as self-esteem, self-actualization, and the inverse of depression and anxiety, whereas placing strong relative importance on extrinsic aspirations was negatively related to these well-being indicators." ([Ryan & Deci 2000, Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)): Scholarly review; cited passage checked.
 
-The two findings run alongside each other: some aims impoverish a life, and the fit between aims and needs predicts well-being. What the carriers do not settle is whether the resolve on renunciation and the re-aiming of wanting are the same work described twice or two different works; the compendium's own principle on the factor keeps the parallel deliberately loose, noting that the fit-between-goals-and-values finding is about fit, not about renunciation or harmlessness. The wiki records this as an open question rather than a settled disagreement.
+The two findings run alongside each other: the aspiration studies report associations between what people emphasise and their well-being, and the path grades the aims it names. What the carriers do not settle is whether the resolve on renunciation and the re-aiming of wanting are the same work described twice or two different works; the compendium's own principle on the factor keeps the parallel deliberately loose, noting that the fit-between-goals-and-values finding is about fit, not about renunciation or harmlessness. The wiki records this as an open question rather than a settled disagreement.
 
 ## Practice: variation, selection, retention
 
@@ -219,11 +219,11 @@ The compendium's stories that best carry this theme's aspects, each retold in a 
 
 ### Testing the aim
 
-[ST066 — The Kālāmas Test It](https://clemvillatte.github.io/flourishing-compendium/#card=ST066%20%E2%80%94%20The%20K%C4%81l%C4%81mas%20Test%20It): teachers contradict each other in the Kālāmas' town, and the Buddha tells them to know for themselves which undertakings lead to harm and which to welfare.
+[ST066 — The Kālāmas Test It](https://clemvillatte.github.io/flourishing-compendium/#card=ST066%20%E2%80%94%20The%20K%C4%81l%C4%81mas%20Test%20It): teachers contradict each other in the Kālāmas' town, and the Buddha tells them to know for themselves which qualities, adopted and carried out, lead to harm and suffering and which to welfare and happiness.
 
 ### Ill will and its costs
 
-[ST085 — The Quarrel at Kosambī](https://clemvillatte.github.io/flourishing-compendium/#card=ST085%20%E2%80%94%20The%20Quarrel%20at%20Kosamb%C4%AB): monks at Kosambī harden into factions, the Buddha's two reconciliation attempts fail, and the supporters withdraw alms until the factions, starved and chastened, come to him.
+[ST085 — The Quarrel at Kosambī](https://clemvillatte.github.io/flourishing-compendium/#card=ST085%20%E2%80%94%20The%20Quarrel%20at%20Kosamb%C4%AB): monks at Kosambī quarrel over a point of monastic rule and harden into two factions; the Buddha's attempts to reconcile them fail and he leaves, and the episode's teaching is the founder's limits, reconciliation could not be imposed.
 
 ### Harmlessness at the far end
 
