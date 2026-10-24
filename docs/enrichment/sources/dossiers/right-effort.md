@@ -204,3 +204,23 @@ registry flip and the art assignment remain supervisor-only.
   the primary JPSP PDF; not attempted this session for time. The grit
   gloss carries the card's own quoted abstract line and the 4% figure.
   The divergence requirement remains UNFINISHED; see the header note.
+
+## Revision 9 (advisor QC round 2, same takeover session)
+
+Bounded wording applied to the divergence prose per advisor review:
+"found nothing to strengthen" replaced with "did not detect improvements
+on its self-control measures"; the Friese sentence no longer flattens the
+meta-analysis into a midpoint but states its own abstract's limits
+(mechanism poorly understood, the critical role of repeatedly
+overriding responses unestablished). New grounding recorded: the Miles
+et al. 2016 accepted-manuscript text explicitly attributes the earlier
+positive findings' wide-ranging benefits to possible confounds, quoting
+"could be attributable to confounds such as Hawthorne effects, placebo
+effects, and demand characteristics" (verbatim against the downloaded
+PDF text, Discussion, Does Training Generalize section), and names
+Oaten & Cheng's studies as the passive-control lab-measured lineage the
+later study was built against. The opposition is grounded in the later
+study's explicit methodological challenge, not merely in opposite
+results from different interventions. The band state's verification
+wording is likewise narrowed: the divergence is grounded and quoted
+from opened carriers; content approval remains with the supervisor.

@@ -396,3 +396,17 @@ are Bhagavad Gita material, off this page's boundary.
   pending supervisor integration; the divergences section honestly
   holds unresolved candidates, which is the standing blocker for the
   registry flip alongside the art assignment.
+
+## Pass 18 addendum (advisor QC round 2, same session)
+
+The rewritten opener was repaired again per advisor review: the
+forerunner claim is stated as dependence (wrong view abolished,
+qualities that follow), not as a training sequence, and the two-forms
+sentence now follows MN 117's own grading (everyday convictions vs
+noble, without-effluents discernment) instead of the inaccurate "not
+the opinions it contains". The convictions-vs-discernment candidate no
+longer claims knowledge of the literature ("no such reading is known"
+dropped); the question stands open on the page. The draft remains
+UNPUBLISHED pending supervisor integration; next action for the
+supervisor: resolve or drop the three divergence candidates (see Open
+points above), then the registry flip with the art assignment.

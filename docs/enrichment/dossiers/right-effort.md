@@ -99,11 +99,11 @@ The shared question: the Self-control training card holds both sides of it. Does
 
 > "Relative to the control phase, participants who exercised showed significant improvement in self-regulatory capacity... The uptake and maintenance of an exercise programme over a 2-month period produced significant improvements in a wide range of regulatory behaviours." ([Oaten & Cheng 2006, British Journal of Health Psychology](https://pubmed.ncbi.nlm.nih.gov/17032494/))
 
-The six-week training study, built with active control conditions and real-world measures to answer the same question, found nothing to strengthen:
+The six-week training study, built with active control conditions and real-world measures to answer the same question, did not detect improvements on its self-control measures:
 
 > "Despite high levels of adherence to the training tasks, there was no effect of training on any measure of self-control... The implication is that training self-control through repeated practice does not result in generalized improvements in self-control." ([Miles et al. 2016, Journal of Experimental Psychology: General](https://eprints.whiterose.ac.uk/id/eprint/107549/))
 
-The disagreement turns on method: the earlier gains came against passive control phases, and the later study was designed to rule exactly that out. The meta-analysis that followed lands between the two, a small-to-medium effect of g = 0.30 that shrinks under bias correction and grows with inactive controls ([Friese et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28846503/)). What remains unresolved is whether some forms of practice, a maintained exercise programme against small laboratory tasks, build something the others do not; the mechanisms are still poorly understood.
+The disagreement turns on method: the earlier gains came against passive control phases, and the later study was built to rule exactly that out; its own text names the suspicion that the wide-ranging benefits observed after self-control training could be attributable to confounds such as Hawthorne effects, placebo effects, and demand characteristics. The meta-analysis that followed finds a small effect whose mechanism remains poorly understood, with the critical role of repeatedly overriding responses still unestablished ([Friese et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28846503/)). What remains unresolved is whether some forms of practice, a maintained exercise programme against small laboratory tasks, build something the others do not.
 
 For the four directions of the path factor, nothing here changes the aiming. What the disagreement questions is the hope of a general capacity built by rehearsal.
 
