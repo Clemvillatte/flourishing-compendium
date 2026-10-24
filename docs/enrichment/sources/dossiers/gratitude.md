@@ -62,14 +62,16 @@ received, its attention, expression, reciprocity or indebtedness, or
 a clearly labelled neighbouring practice), rather than mere mention.
 Inclusions and exclusions with reasons, recorded for the supervisor:
 
-Full-review record (final, reconciled): a zone-aware audit script
-classified all 178 candidate files by whether their gratitude
-matches fall in body text or in backlink/source zones; totals:
-154 files with body-evidence matches (body fragments read before
-the inclusion decisions below), 24 backlink-only (excluded without a
-full read; the backlink zone was verified to contain the matches),
-0 unreviewed. The audit record is saved in the session workspace.
-The decisions name the categories with representative cards.
+Coverage record: a zone-aware audit script classified all 178
+candidate files by whether their gratitude matches fall in body
+text or in backlink/source zones; automated classification totals:
+154 files with body-evidence matches, 24 backlink-only, 0 files
+left unclassified. The body-matching fragments were read before the
+inclusion decisions below, but the classification is automated, so
+the dossier should be treated as a draft map requiring coverage
+review rather than an exhaustively reviewed map. The audit record is
+saved in the session workspace. The decisions name the categories
+with representative cards.
 
 - The positive-affect family that mentions gratitude in passing
   (Broaden-and-build, Positive activity interventions,
