@@ -823,7 +823,27 @@
      "note": "advisor repairs applied: English labeled editorial with Chinese verified verbatim, narrated-demonstration framing, unverified chapter number removed, Yijing facet dropped"
     }
    ]
+  },
+  "s1b-038": {
+   "status": "ready",
+   "angle": "D192 dying aligned: Zhuangzi ch.32 deathbed refusal of grand burial (Legge via 100jia.net), quotes verified verbatim",
+   "history": [
+    {
+     "t": "2026-10-24T14:52:48+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-24T14:52:48+00:00",
+     "to": "qc_pending",
+     "note": "first draft; advisor QC round pending"
+    },
+    {
+     "t": "2026-10-24T14:54:12+00:00",
+     "to": "ready",
+     "note": "advisor repairs applied: authorship/lifetime claims removed, motive removed, quote location corrected to Legge introduction, acceptance facet marked"
+    }
+   ]
   }
  },
- "updated": "2026-10-24T14:51:50+00:00"
+ "updated": "2026-10-24T14:54:12+00:00"
 }
