@@ -7,7 +7,8 @@ across the WHOLE PROJECT. The "not X, but Y" scaffold is one example,
 not the entire definition of the problem. Do not substitute semantic
 correction for structural rewriting, or a phrase scan for editorial review.
 
-Latest published checkpoint before final save: `b8893be75142567a68cbe6360b344727b5b2d762`.
+Latest published content checkpoint before baton release:
+`7e8f039add97d7b1aa94db518f1dfdebbb15fdc5`.
 GF remains UNAPPROVED and unfinished as an exemplar. Read owner corrections
 above all older instructions. Do not launch six agents copying this draft.
 
@@ -26,6 +27,11 @@ below the article and needs a considered navigation fix, not an untested
 last-minute redesign. Preview deployment blocked by existing storage APIs;
 GitHub Pages works. Public source-backed gallery corrections are pushed;
 underlying story-card repair backlog remains in GF evidence ledger.
+TOC jump after narrow-to-desktop resize was not confirmed by the browser
+position check; inspect this flow before giving navigation sign-off.
+Final checks pass: dossier checker,5 readability tests,6 voice-audit
+tests,2 optional-stats tests, dossier section DOM test, node syntax check,
+and exact147-card occurrence comparison to the work-order baseline.
 
 ## Latest owner override: GF opening rejected; no dossier underlining
 
