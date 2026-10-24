@@ -56,10 +56,10 @@ matrix row as evidence.
 
 | Term family | Umbrella dossier | Nearby terms | Status |
 |---|---|---|---|
-| Anger | Anger (published) | irritation, resentment, contempt, rage, indignation | published pattern to follow — an editorial treatment, not a settled scholarly classification |
+| Anger | Anger (published) | irritation, resentment, contempt, rage, indignation | published — an editorial treatment, not a settled scholarly classification |
 | Anxiety | Anxiety (planned) | stress, worry, angst, fear, dread, apprehension | matrix to be built by the Anxiety writer |
 | Happiness | Happiness (planned) | joy, contentment, pleasure, subjective well-being | boundary vs Genuine Flourishing set in the registry |
-| Self | The Self (published) | identity, ego, self-concept | published pattern to follow |
+| Self | The Self (published) | identity, ego, self-concept | published |
 | Motivation | Motivation (planned) | desire, craving, drive, willpower | Goals and Agency are separate dossiers by owner direction, not nearby terms |
 
 ## First task of the Anxiety writer
