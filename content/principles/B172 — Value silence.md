@@ -12,20 +12,24 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 172** — Value silence
 
-MN 122 frames silence as a decision about talk and company. The Buddha tells Ananda that a monk who delights in company cannot obtain at will, without difficulty or trouble, the pleasure of seclusion, and describes a monk dwelling in internal emptiness who, when visitors come, converses with them only as much as is necessary for them to take their leave. The same passage puts a fence around speech itself ([MN 122, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html)):
+[MN 122](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html) concerns seclusion and a meditative dwelling of emptiness, rather than a general rule that fewer words are always better. The Buddha describes himself receiving visitors while inclined to seclusion, then gives instructions for a monk considering speech ([same discourse](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html)):
 
 > If, while he is dwelling by means of this dwelling, his mind inclines to speaking, he resolves that 'I will not engage in talk that is base, vulgar, common, ignoble, unbeneficial, that does not lead to disenchantment, dispassion, cessation, calm, direct knowledge, self-awakening, or Unbinding...'
 
 (MN 122, [Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html); abridged, the passage continues with a list of the kinds of talk meant.)
 
-The monk also resolves to engage in talk that is scrupulous, conducive to release of awareness, and leads to disenchantment, dispassion, cessation, calm, direct knowledge, self-awakening and Unbinding. The passage sorts talk by where it leads rather than forbidding speech.
+The [next instruction](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html) positively permits talk on contentment, persistence, virtue and discernment, among other subjects. The distinction is therefore about speech's direction within that training, not silence as an achievement in itself. The compendium's everyday application is to leave some conversations unstarted while still meeting the needs of people around us.
 
-**Plain words** Before speaking, ask whether what you are about to say serves a purpose. The compendium suggests sometimes leaving a pause unfilled. You can still answer someone who needs your attention.
+**Plain words** A pause does not have to be filled merely because it is there. A warning, an honest answer or a request for help may deserve words; an unverified rumour may not. In this application, silence makes room for useful speech. It is no excuse for refusing to hear someone or leaving a necessary concern unspoken.
 
-*For example:* Imagine overhearing a rumour about a colleague and feeling the pull to pass it on. You decide not to start that conversation, and when someone later asks you a practical question about the shared project, you answer it directly.
+For example: At a work break, someone considers passing on a rumour or asking a colleague about a stalled project. She chooses the question she can act on, notices that it produces a concrete next step, and takes that distinction to the group chat. Her trial concerns what to say, not how to avoid speaking altogether.
+
+## Sources
+
+- [MN 122, Maha-suññata Sutta, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html) — internal emptiness, visitors, and harmful and beneficial conversation within monastic training
 
 ## Psychology parallels
-- [[T012 — Laozi]]: the sparse-speech parallel (Daodejing 23) the page lists.
+- [[T012 — Laozi]]: a separate sparse-speech comparison, not the source of MN 122's monastic instructions.
 
 - **[[Restorative environments|Restorative environments]]**, quiet and natural settings aid recovery from attentional load (Kaplan, 1995)
 

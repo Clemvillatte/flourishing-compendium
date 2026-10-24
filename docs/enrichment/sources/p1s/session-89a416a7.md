@@ -109,3 +109,11 @@ The unchanged Practice section of BE039 says CBT-I “has no side effects.” Th
 - Removed the old causal paraphrase about tension/depression dissolving, while retaining the original training account and clarifying it is not depression-treatment evidence.
 - Plain words explains multiple possible meanings of the urge for stimulation without diagnosing the reader. Immediate phone use versus noticing first supplies variation; clarity supplies selection; preserving the pause as an option supplies retention. The phone is not categorically rejected.
 - Read Boredom and ran Lazy Day mention sweep; Boredom already links B181. No reciprocal required. Internal “the page lists” gloss removed; Daoist comparison does not imply the traditions are identical.
+
+## B172: choose speech by its direction, not its word count
+
+- Opened unprompted: [MN 122, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html), complete introduction, discourse and notes. Search: Maha-sunnata/silence/talk/MN122.
+- Retained quote's words are verbatim with the existing explicitly noted terminal abridgment. The following positive instruction on speech was read in full.
+- Corrected the old introductory attribution: the visitors passage describes the Tathagata, not an unspecified monk. The subsequent speech instructions concern the monk. Kept the monastic/meditative scope instead of making seclusion a universal social rule.
+- Fresh Plain words explains the difference between an unfilled pause and necessary speech. A rumour versus a project question, the concrete usefulness of an answer and applying the distinction in the next setting give variation/selection/retention. No measured cognitive-recovery or mental-health outcome claimed.
+- Source section added; removed internal “the page lists” wording. Sparse speech already occurs in the protected link inventory. Broader Kaplan/Wittgenstein parallels remain inherited and outside the source certification.
