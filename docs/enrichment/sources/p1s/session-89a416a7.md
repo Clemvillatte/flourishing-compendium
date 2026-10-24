@@ -176,3 +176,10 @@ Advisor `p1s_silence_breathing_aims_milestone_qc_mvlyf10r`: scoped PASS B172/B19
 ## Advisor availability
 
 Advisor `p1s_learning_empathy_equanimity_milestone_qc_mvlyl34h` stopped because its execution credit allocation was exhausted. No review verdict was received for P176/P168/B096; no independent PASS claimed. Own source checks and validators remain recorded above. Earlier scoped advisor clearances are unaffected.
+
+## D094: the observer shares the mistake
+
+- Opened unprompted: [METIS Legge Zhuangzi PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf), chapter 20 section 8 including the return home and disciple's question, printed pp. 102-103. Retained mantis quote matches word-for-word, including the translator's parenthetical insertions.
+- The narrative does not stop before Zhuang Zhou's own implication. Crossbow, withdrawal, forester's reproach and the later admission are all in the opened passage.
+- Fresh Plain words explains visible gain versus the cost less easily represented, rather than repeating a decision checklist. Four shifts/one shift, actual time/pay feedback and reusing the comparison supply variation/selection/retention. This is the compendium's application, not a claim that the ancient source studies overwork or effort/reward health.
+- Read the relevant inherited concept introductions (effort-reward imbalance, materialism, having mode) for relation context; did not certify their empirical claims. Also read the linked empathy, self-concordance, equanimity and scale concepts after P168/P176/B096/D106, confirming the revised scope does not identify distinct models.

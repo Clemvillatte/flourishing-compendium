@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 94** — Don't exhaust yourself for what you don't need
 
-In Zhuangzi's story, each creature is absorbed in the gain just in front of it. A cicada settles in the shade and forgets to watch for danger; a mantis pounces on it and forgets its own safety; a strange bird seizes them both and forgets its own preservation. Zhuang Zhou puts away his crossbow and hurries back; the forester pursues him with reproaches. He concludes that "things bring evil on one another" and admits he was guarding his person and forgot himself. (Zhuangzi 20.)
+In [Zhuangzi's story](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf), each creature is absorbed in the gain just in front of it. A cicada settles in the shade and forgets danger; a mantis pounces and forgets its own safety; a strange bird seizes them both and forgets its preservation. Zhuang Zhou, pursuing the bird with a crossbow, sees the chain:
 
 > "a preying mantis raised its feelers, and pounced on the cicada, in its eagerness for its prey, (also) forgetting (its care for) its body" (Zhuangzi 20, [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The compendium uses this story as a prompt to examine what a pursuit leaves out of view.
+He puts away the bow and hurries back, but the [forester reproaches him](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf). The observer has shared the creatures' mistake. Later he admits that he was guarding his person and forgot himself. The compendium applies the story to the costs a desirable gain can hide.
 
 **Plain words**
-Before accepting a new commitment, write down what you hope to gain and what you would give up. Would you still choose it after counting the missed time or added expense? What would you need to protect if you went ahead?
+A gain can be real and still cost more than you would willingly pay. Extra money is easy to picture; a month with no unhurried evening is harder to put beside it. The point is to let both enter the decision. Wanting something does not oblige you to pursue it, and declining this opportunity need not mean that ambition itself is wrong.
 
-*For example:* Imagine being offered a bonus for extra evening shifts. You check which planned visits to a friend you would have to cancel before deciding.
+For example: You compare taking all four offered evening shifts with taking one. Put the extra pay beside the visits you would miss. You decide that one shift preserves a visit you value, then review the actual pay and time afterwards. Use that fuller comparison when another offer arrives.
 
 ## Related concepts
 
