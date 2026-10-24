@@ -66,3 +66,11 @@ The unchanged Practice section of BE039 says CBT-I “has no side effects.” Th
 - The goodwill/intimacy distinction is attributed to the teacher's essay. No requirement to feel affection, approve harmful conduct or resume contact is implied. The private-wish example is illustrative and promises no interpersonal or clinical outcome.
 - Read Metta (loving-kindness) and Hostility research; goodwill mention sweep confirms the primary concept already has B080 and the neighbouring principles. No reciprocal needed.
 - Fixed the fused Spinoza/Metta parallel bullet without changing either claim or the wikilink. Protected reflections and the unverified Spinoza assertion remain untouched.
+
+## B109: attend to a fear's content without declaring all fear unreal
+
+- Opened unprompted: [MN 18, complete translator introduction and discourse](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html); [MN 20, complete discourse](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html); [Dhammapada XVI, including 212](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html). Web search: Madhupindika/objectification/Thanissaro.
+- The retained three-sentence MN 18 excerpt is verbatim. The public account explicitly attributes objectification to Thanissaro; his introduction acknowledges uncertain translation and offers alternatives. No universal theory of fear is attributed to the discourse.
+- MN 20 addresses thoughts involving desire/aversion/delusion and has multiple methods; scrutinising drawbacks is accurately one method. No blanket claim that fear is delusion or that all feared outcomes are unreal.
+- Plain words replaces a writing checklist with a distinction among observation, prediction and missing information. Two preparation routes, concrete answerable questions and subsequent reuse give the example variation/selection/retention. It is explicitly an inquiry exercise, not anxiety-disorder treatment.
+- Saturation: papanca mention sweep; read Intolerance of uncertainty, The examination of fear and Anxiety about the future. Existing concept backlinks already reach B109; no new reciprocal necessary. The Epicurean and Kierkegaardian material remains comparison, not identity.

@@ -12,16 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 109** — Examine fear
 
-MN 18 describes a sequence from contact and feeling through perception, thinking and objectification. In Thanissaro's translation, the resulting perceptions and categories concern past, present and future sensory objects. (MN 18.) MN 20 offers several methods for dealing with unskillful thoughts involving desire, aversion or delusion; scrutinizing their drawbacks is one method. (MN 20.) Dhammapada 212 associates endearment with grief and fear. (Dhammapada 212.)
+[MN 18](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html) traces a sequence from contact and feeling through perception and thinking to what Thanissaro translates as objectification:
 
 > "What one feels, one perceives (labels in the mind). What one perceives, one thinks about. What one thinks about, one objectifies." (MN 18, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html))
 
-The compendium's exercise is to distinguish observations, predictions and unanswered questions in a particular fear.
+Thanissaro's [introduction](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html) acknowledges the difficulty of giving the Pali term papanca a precise English equivalent; the discourse's concern is wider than anxious predictions. [MN 20](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html) offers several responses to thoughts involving desire, aversion or delusion, including scrutiny of their drawbacks, while [Dhammapada 212](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html) connects endearment with grief and fear.
+
+The compendium adapts these passages by distinguishing what has happened from what a fear predicts. This does not classify every fear as an unskillful thought or dismiss real danger.
 
 **Plain words**
-Write down what has happened and what you fear might happen. For each prediction, note the evidence and anything you need to find out. Decide whether some practical preparation is warranted.
+A missed email, a forecast of losing your job and uncertainty about your manager's intentions are different things to deal with. Examining fear means finding out which of them needs your attention. Some concerns call for preparation; others need information you do not yet have. The exercise leaves room for a risk to be real.
 
-*For example:* Imagine worrying about a presentation. You list the questions you cannot yet answer and ask the organiser what the audience expects.
+For example: Before a presentation, someone compares two preparations: rehearsing imagined hostile questions and asking the organiser about the audience's actual concerns. He checks which leaves concrete questions he can prepare for, then uses that approach for the next talk. This is a suggested inquiry exercise, not a treatment for an anxiety disorder.
 
 ## Sources
 
