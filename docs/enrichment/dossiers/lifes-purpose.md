@@ -66,7 +66,7 @@ Frankl's own list of the routes:
 
 [The meaning of suffering](https://clemvillatte.github.io/flourishing-compendium/#card=The%20meaning%20of%20suffering): what survives even in the camps: the freedom of attitude, through which a meaning holds to the last moment.
 
-> "everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way." ([Frankl, Man's Search for Meaning](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl)): Primary text; quoted passages checked.
+> "everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.
 
 [Meaning-centred therapy](https://clemvillatte.github.io/flourishing-compendium/#card=Meaning-centred%20therapy): Breitbart and colleagues' short-term group treatment for people with advanced cancer, rooted in Frankl's writings, built to sustain or enhance a sense of meaning, peace and purpose near the end of life.
 
@@ -174,7 +174,7 @@ Entries with a claim on the title that were read and left out: [Elan vital](http
 
 The shared question: is there a meaning a life is for, such that the task is to find and answer it, or does the world give no answer, such that the task is to stand in the gap honestly? Frankl's position, from the book that carries it:
 
-> "it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly." ([Frankl, Man's Search for Meaning](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl)): Primary text; quoted passages checked.
+> "it did not really matter what we expected from life, but rather what life expected from us. We needed to stop asking about the meaning of life, and instead to think of ourselves as those who were being questioned by life—daily and hourly." ([Frankl, Man's Search for Meaning](https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf)): Primary text; quoted passages checked.
 
 Camus's position, from the essay that carries his:
 

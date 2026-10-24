@@ -211,3 +211,28 @@ prompted extraction:
 
 dossier_check.py after revision 3: 67 card links resolve, 19 headers,
 19 external carriers, exit 0 (Story section present).
+
+## Inherited-quote verification pass (worker-pplx-dos6-1024e, 2026-10-24)
+
+The revision-1 dossier (concurrent session) carried quotes this session had
+not opened. All of them were downloaded and substring-checked:
+
+- Camus, The Myth of Sisyphus (rintintin.colorado.edu PDF): feeling-of-
+  absurdity passage, confrontation sentence, scorn sentence: MATCH.
+- Plato, Apology (classics.mit.edu): daimon-sign passage: MATCH.
+- Yeager et al. 2014 (web.stanford.edu PDF): purpose-for-learning
+  definition: MATCH.
+- Frankl camp future-goal passage (archive.org djvu text): MATCH (the
+  carrier prints curly apostrophes; the page's straight apostrophe is the
+  only difference).
+- Frankl attitude-freedom and questioned-by-life quotes: the page had
+  pointed them at the archive.org book landing page, which does not contain
+  the text (verified MISS). Both quotes substring-MATCH in the
+  antilogicalism.com full-text PDF, so the two carrier links were switched
+  to that PDF. No wording changed.
+
+### Validation after this pass
+
+dossier_check.py: 67 card links resolve, 19 headers, 19 external carriers,
+exit 0. Every quoted passage on the page is now verified against a
+downloaded or rendered carrier by this session.
