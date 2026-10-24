@@ -60,3 +60,19 @@ All four cleared for publication: checks pass, quotes verified (sampled), artwor
 - The dossiers worker's corpus-wide quote-fidelity sweep (commits through 5dd27bd7e)
   independently re-verified my s1a registrations' quotes and corrected a Baumeister quote in
   overload-overwhelm; their ledger records reviewed and accepted.
+
+## Addendum 2 — advisor round 2 verification, 2026-10-24 ~15:02 UTC
+
+- Advisor re-review of the second registration batch (ST471-ST491) required four
+  corrections; all applied and pushed in commit 278ab46b (ST468 unsupported claim;
+  ST488-491 metadata/backlink sync; app.js gloss sync; queue restore) — see handoff
+  pass 3 for detail.
+- Verification scope honestly stated: my independent checks on this batch were
+  registration metadata, per-quote verification against freshly opened carriers, and
+  full reader passes of the four advisor-flagged scopes (ST471 Rogers analogy, ST473
+  Preface + chronology, ST485 German passages, ST488 Martin Writings) plus earlier
+  full reader passes of ST433/ST463-ST470. Remaining bodies were checked at
+  metadata + quotation level with worker evidence reviewed, not exhaustively
+  re-read line by line.
+- ST468 is the concrete instance of what quotation matching alone does not catch
+  (narrative claim contradicted by the page's own figures); fixed.

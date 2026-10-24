@@ -2554,3 +2554,42 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   structure, labeled claims; acceptable).
 - enrich_apply preflight still blocked on t1a/t1d/t1f thinker-links guard (multi-session
   work, unchanged). Integration NOT run this pass.
+
+## Supervisor pass 3 — supervisor-pplx-1024j, 2026-10-24 ~14:59-15:03 UTC (advisor round 2 corrections)
+
+- COUNT CORRECTED: ST471-ST491 is 21 registrations, not 16 (pass-2 heading said 16;
+  30 total this session with ST433 and ST463-ST470). Commit list in pass 2 is accurate.
+- CORRECTIONS PUSHED (commit 278ab46b, all story_check clean x30 + build clean):
+  (1) ST468 — removed the unsupported "largest standing cost on the list" claim about
+  transportation (the ledger shows boards $8.03 1/2 vs transportation $1.40); the passage
+  now only carries the ledger's own note that he carried a good part himself.
+  (2) ST488-ST491 — front-matter title/file fields, structure-page entries and principle
+  backlinks (B109, D041, D102, D160) synced to the renamed canonical filenames (the
+  registration tool had copied the drafts' numbered titles; the sed patterns in pass 2
+  had missed them).
+  (3) app.js — the Behaviour habit-body gloss still carried the pre-fix "third location"
+  wording in the hand-checked block; synced by hand to the corrected markdown of record
+  (dossier_registry_build never regenerates existing blocks; dossier_build.py is
+  forbidden as it overwrites hand-polished glosses). "third location" now 0 hits repo-wide
+  outside the QC log's historical record.
+  (4) queue-concepts.json — my enrich_stats.py runs regenerated the file (7,833 deletions);
+  RESTORED to HEAD and never pushed. Do not run enrich_stats.py without git checkout
+  afterwards (known from earlier sessions too).
+- RECONCILIATION COMPLETED: s1a-042 (Milinda's Chariot, B122) duplicates published ST065
+  Nagasena and the Chariot — correctly NOT registered; flagged for the owner (duplicate
+  anecdote, lane state misleadingly said ready). s1a-043 (Yan Hui zuowang, D047) is
+  genuinely drafting, no published equivalent — correctly not registered. With s1a-051
+  deferred (duplicate squirrel anecdote, see pass 2), the "every genuinely READY draft is
+  registered" claim now holds item by item, not just by title-match.
+- ROUTE RULING QUALIFIED: the standing ruling is SCOPE APPROVAL only — it permits
+  registering ready drafts aimed at zero-story principles in the owner's priority
+  traditions; it does not bypass content QC, duplicate review or chapter selection
+  (all of which were still run on every registration).
+- READER-PASS SPOT CHECKS (advisor-flagged scopes, all verified this pass): ST471's
+  Rogers comparison read in full — an explicitly hedged analogy, no Rogersian mechanism
+  attributed to Mill. ST473's Preface quote re-verified verbatim against Gutenberg #16550
+  (all three fragments); chronology (1802 walk, 1804 composition, 1807 publication)
+  sourced to Wikipedia + the raw texts. ST485's German passages re-verified verbatim
+  against Gutenberg #2230 (all five quoted lines). ST488's Martin Writings passages
+  re-verified verbatim against the archive.org Writings PDF (all six quoted fragments).
+- enrich_apply: still blocked on the t1a/t1d/t1f thinker-links guard; unchanged.
