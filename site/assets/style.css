@@ -1875,6 +1875,18 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 /* ═══ Dossiers (Academy: theme compilations) ═══ */
 .dossier-card { cursor:pointer; }
 .dossier-plate { background:linear-gradient(160deg, color-mix(in srgb, var(--gold) 16%, var(--bg)) 0%, color-mix(in srgb, var(--bg) 92%, var(--gold)) 58%, var(--bg) 100%); min-height:150px; display:flex; align-items:flex-start; }
+.dossier-plate .dossier-art { width:100%; height:100%; object-fit:cover; display:block; }
+.dossier-chips { display:flex; flex-wrap:wrap; gap:8px; margin:14px 0 20px; }
+.dossier-chip { font-family:'Fraunces',Georgia,serif; font-size:12.5px; letter-spacing:.03em; color:var(--muted); background:none; border:1px solid var(--line); border-radius:999px; padding:5px 14px; cursor:pointer; transition:color .15s, border-color .15s; }
+.dossier-chip:hover { color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 45%, transparent); }
+.dossier-chip.on { color:var(--gold-ink); border-color:color-mix(in srgb, var(--gold) 60%, transparent); background:color-mix(in srgb, var(--gold) 8%, var(--bg)); }
+.dossier-eyebrow { font-size:11px; letter-spacing:.09em; text-transform:uppercase; color:var(--gold-ink); margin-bottom:6px; }
+.dossier-empty { margin:0 0 18px; }
+.dossier-roadmap { margin-top:30px; border-top:1px solid var(--line); padding-top:18px; }
+.dossier-roadmap-title { font-family:'Fraunces',Georgia,serif; font-size:14px; color:var(--muted); margin-bottom:10px; }
+.dossier-roadmap-row { display:flex; gap:14px; align-items:baseline; padding:4px 0; flex-wrap:wrap; }
+.dossier-roadmap-row .dossier-eyebrow { flex:0 0 170px; margin:0; }
+.dossier-roadmap-names { font-size:13.5px; color:var(--faint); }
 .dossier-band { position:relative; min-height:170px; display:flex; flex-direction:column; align-items:flex-start; gap:8px; border-radius:14px; overflow:hidden; margin-bottom:26px; padding:34px 26px 22px; background:linear-gradient(160deg, color-mix(in srgb, var(--gold) 14%, var(--bg)) 0%, var(--bg) 70%); }
 .dossier-band .acad-btn { position:relative; }
 .dossier-band .acad-band-title { position:relative; }

@@ -3815,7 +3815,10 @@ window.fcDossiersData = {
           "l": "Retention",
           "x": "Retention is what people keep because it works for them. Keep a practice that helped, and give it a place in ordinary life; a name for the observer, a kinder sentence to say to yourself, a story you found out you could re-tell."
         }
-      ]
+      ],
+      "group": "self",
+      "status": "published",
+      "art": "assets/dossier-art/the-self.jpg"
     },
     {
       "id": "anger",
@@ -4121,7 +4124,139 @@ window.fcDossiersData = {
           "l": "Retention",
           "x": "Retention is what people keep because it works for them. A reader who keeps the delay, or the dissection, or the release has what the theme offered; what stays is a matter of fit between the practice and the life it enters."
         }
-      ]
+      ],
+      "group": "affect",
+      "status": "published",
+      "art": "assets/dossier-art/anger.jpg"
+    }
+  ],
+  "groups": [
+    {
+      "id": "flourishing",
+      "label": "Flourishing & Wisdom"
+    },
+    {
+      "id": "affect",
+      "label": "Affect"
+    },
+    {
+      "id": "cognition",
+      "label": "Cognition"
+    },
+    {
+      "id": "attention",
+      "label": "Attention"
+    },
+    {
+      "id": "self",
+      "label": "Self"
+    },
+    {
+      "id": "motivation",
+      "label": "Motivation"
+    },
+    {
+      "id": "behaviour",
+      "label": "Behaviour"
+    },
+    {
+      "id": "others",
+      "label": "Others"
+    },
+    {
+      "id": "body",
+      "label": "Body"
+    },
+    {
+      "id": "challenges",
+      "label": "Life Challenges"
+    }
+  ],
+  "roadmap": [
+    {
+      "id": "genuine-flourishing",
+      "title": "Genuine Flourishing",
+      "group": "flourishing"
+    },
+    {
+      "id": "wisdom",
+      "title": "Wisdom",
+      "group": "flourishing"
+    },
+    {
+      "id": "lifes-purpose",
+      "title": "Life's Purpose",
+      "group": "flourishing"
+    },
+    {
+      "id": "affect",
+      "title": "Affect",
+      "group": "affect"
+    },
+    {
+      "id": "anxiety",
+      "title": "Anxiety",
+      "group": "affect"
+    },
+    {
+      "id": "happiness",
+      "title": "Happiness",
+      "group": "affect"
+    },
+    {
+      "id": "cognition",
+      "title": "Cognition",
+      "group": "cognition"
+    },
+    {
+      "id": "decision-making",
+      "title": "Decision-Making",
+      "group": "cognition"
+    },
+    {
+      "id": "attention",
+      "title": "Attention",
+      "group": "attention"
+    },
+    {
+      "id": "motivation",
+      "title": "Motivation",
+      "group": "motivation"
+    },
+    {
+      "id": "goals",
+      "title": "Goals",
+      "group": "motivation"
+    },
+    {
+      "id": "agency",
+      "title": "Agency",
+      "group": "motivation"
+    },
+    {
+      "id": "behaviour",
+      "title": "Behaviour",
+      "group": "behaviour"
+    },
+    {
+      "id": "others",
+      "title": "Others",
+      "group": "others"
+    },
+    {
+      "id": "body",
+      "title": "Body",
+      "group": "body"
+    },
+    {
+      "id": "uncertainty",
+      "title": "Uncertainty",
+      "group": "challenges"
+    },
+    {
+      "id": "overload-overwhelm",
+      "title": "Overload & Overwhelm",
+      "group": "challenges"
     }
   ]
 };
@@ -4132,14 +4267,52 @@ function renderDossiers(){
   top.appendChild(el('h2','acad-title','Dossiers'));
   top.appendChild(el('p','acad-sub','One theme at a time: what the compendium holds on it, where its traditions genuinely disagree, and how it is practiced. Every quoted passage checked against an opened source.'));
   wrap.appendChild(top);
+  const data = window.fcDossiersData;
+  const groups = data.groups||[];
+  const groupLabel = id => { const g = groups.find(x=>x.id===id); return g ? g.label : id; };
+  const chips = el('div','dossier-chips');
+  chips.setAttribute('role','tablist');
+  const filterState = { group: 'all' };
+  const chipAll = el('button','dossier-chip on','All');
+  chipAll.setAttribute('role','tab');
+  chipAll.onclick = () => { filterState.group='all'; syncChips(); };
+  chips.appendChild(chipAll);
+  const chipEls = { 'all': chipAll };
+  groups.forEach(g=>{
+    const c = el('button','dossier-chip', g.label);
+    c.setAttribute('role','tab');
+    c.onclick = () => { filterState.group=g.id; syncChips(); };
+    chipEls[g.id] = c;
+    chips.appendChild(c);
+  });
+  wrap.appendChild(chips);
   const grid = el('div','acad-hall-grid');
-  (window.fcDossiersData.dossiers||[]).forEach(d=>{
+  const empty = el('div','acad-empty dossier-empty');
+  empty.style.display='none';
+  const syncChips = () => {
+    Object.keys(chipEls).forEach(k=>{ chipEls[k].classList.toggle('on', filterState.group===k); });
+    let shown = 0;
+    grid.childNodes.forEach(card=>{
+      const show = filterState.group==='all' || card.dataset.group===filterState.group;
+      card.style.display = show ? '' : 'none';
+      if(show) shown++;
+    });
+    empty.style.display = shown ? 'none' : '';
+  };
+  (data.dossiers||[]).forEach(d=>{
     const card = el('div','acad-hall dossier-card');
+    card.dataset.group = d.group || '';
     card.tabIndex = 0; card.setAttribute('role','button'); card.setAttribute('aria-label','Open dossier: ' + d.title);
     const plate = el('div','acad-hall-plate dossier-plate');
-    plate.appendChild(el('span','acad-hall-rn','01'));
+    if(d.art){
+      const img = el('img','dossier-art');
+      img.src = d.art; img.alt = '';
+      img.loading = 'lazy'; img.decoding = 'async';
+      plate.appendChild(img);
+    }
     card.appendChild(plate);
     const body = el('div','acad-hall-body');
+    if(d.group) body.appendChild(el('div','dossier-eyebrow', groupLabel(d.group)));
     body.appendChild(el('div','acad-hall-title', d.title));
     body.appendChild(el('div','acad-hall-desc', d.question));
     const foot = el('div','acad-hall-foot');
@@ -4151,6 +4324,24 @@ function renderDossiers(){
     grid.appendChild(card);
   });
   wrap.appendChild(grid);
+  wrap.appendChild(empty);
+  syncChips();
+  const roadmap = data.roadmap||[];
+  if(roadmap.length){
+    const rd = el('div','dossier-roadmap');
+    rd.appendChild(el('div','dossier-roadmap-title','In preparation'));
+    groups.forEach(g=>{
+      const items = roadmap.filter(r=>r.group===g.id);
+      if(!items.length) return;
+      const row = el('div','dossier-roadmap-row');
+      row.appendChild(el('span','dossier-eyebrow', g.label));
+      const names = el('span','dossier-roadmap-names');
+      names.textContent = items.map(r=>r.title).join(' \u00b7 ');
+      row.appendChild(names);
+      rd.appendChild(row);
+    });
+    wrap.appendChild(rd);
+  }
   return wrap;
 }
 
@@ -4162,6 +4353,9 @@ function renderDossierDetail(id){
   const back = el('button','acad-btn ghost','\u2190 Dossiers');
   back.onclick = () => { A.view='dossiers'; renderAcademy(); };
   band.appendChild(back);
+  const data = window.fcDossiersData;
+  const g = (data.groups||[]).find(x=>x.id===d.group);
+  if(g) band.appendChild(el('div','dossier-eyebrow', g.label));
   band.appendChild(el('h2','acad-band-title', d.title));
   band.appendChild(el('p','acad-band-desc', d.question));
   wrap.appendChild(band);
