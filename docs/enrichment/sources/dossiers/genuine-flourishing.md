@@ -715,3 +715,34 @@ from HTML but app.js wrote `.textContent` without a null guard, stopping
 Wiki, then Randomiser and Academy. Minimal optional-node guard applied.
 Regression tests cover node present/absent. Live eb28c763 has no caught
 or uncaught errors, GF route and147 internal card links render.
+
+### Candidate pass 15: owner rejects the inherited opening
+
+NEW OWNER INSTRUCTION overrides the earlier opening-protection rule.
+Owner found "Flourishing is a flower word" meaningless and "etymology
+is not decoration..." AI-generated. Entire inherited opening replaced
+with plain editorial framing. No etymological inference about human
+flourishing retained. Three dictionary quotations removed from public
+copy; earlier fetched carriers remain recorded here:
+https://en.wiktionary.org/wiki/flourish ,
+https://en.wiktionary.org/wiki/genuine ,
+https://en.wiktionary.org/wiki/genus#Latin .
+The new opening expresses the writer's questions and values, not new
+empirical claims or attributed quotations. Aristotle's source-backed
+quotation remains elsewhere. All147 card occurrences unchanged.
+Nearby terms split into separate rendered paragraphs, headings aligned
+to their content, "extreme encounters" corrected to "famous scenes".
+This supersedes the protected-opening review flag in pass14.
+Owner separately requests NO underlining on any dossier page.
+
+### Candidate pass 16: whole-text standard, not a few patched examples
+
+Owner rejected "halfway courageous" and explicitly clarified ALL DOSSIERS.
+Full classical section re-read and rewritten to explain the accounts
+directly. The mean example was freshly checked against:
+https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html .
+Scope note: this is not a completed semantic review of all other dossiers.
+GF cannot be labelled approved/ready based on source and structural checks.
+Shared Humanizer and dossier policy now make that distinction explicit.
+Sitewide dossier underlining removed at the CSS level, with link colour
+and focus outline retained. No other band's dossier prose edited.

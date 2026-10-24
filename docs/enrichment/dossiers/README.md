@@ -14,6 +14,15 @@ opened for it.
 
 ### Readability correction: newest owner direction, 2026-10-24
 
+LATEST CLARIFICATION: this applies to every sentence in ALL DOSSIERS,
+including GF. It is not a request to patch only examples the owner reports.
+The owner rejected the inherited GF opening and "halfway courageous".
+The old opening protection is superseded. GF remains UNAPPROVED as an
+exemplar. A source-supported claim still fails if its prose is glib,
+opaque, formulaic, or substitutes a clever contrast for an explanation.
+Read and revise the complete argument, then obtain owner validation.
+Remove underlining throughout dossier views, while retaining working links.
+
 The owner explicitly rejected dense prose composed of successive quotes,
 source summaries and verification labels. A dossier must be an enjoyable,
 navigable synthesis that someone can understand, not an annotated

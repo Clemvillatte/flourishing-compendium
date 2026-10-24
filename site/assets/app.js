@@ -2958,42 +2958,15 @@ window.fcDossiersData = {
       "blocks": [
         {
           "t": "p",
-          "x": "Flourishing is a flower word. It enters English from the Old French florir and the Latin flōrēre, to bloom, from flōs, flower:"
-        },
-        {
-          "t": "q",
-          "x": "\"From Middle English floryschen, from Old French florir (via the arrhizotonic stem floriss-), from Late Latin flōrīre, from Latin flōrēre, from Latin flōrem (\"flower\", noun). Corresponds to flower + -ish.\" ([Wiktionary, \"flourish\"](https://en.wiktionary.org/wiki/flourish)).",
-          "s": null
+          "x": "I want to understand what makes a life worth living. I care about the people I can rely on, what I give my time to, the way I treat others, and how much choice I have. I use genuine flourishing to consider how these parts of a life support or undermine one another."
         },
         {
           "t": "p",
-          "x": "The etymology is not decoration; it is the oldest theory attached to the word. A plant in bloom is not resting, not decorating and not succeeding at anything. It is doing what its nature builds toward when conditions allow, which is why people reach for this word rather than success or pleasure when they mean a life going well at its root. What the word suggests at first glance is close to what it is usually taken to mean: feeling good, doing well, the life that photographs well in summer."
+          "x": "This is what I mean by asking about genuine flourishing. The question concerns how a whole life is going, including what makes it worth living and what would need to change. It cannot be answered only by looking inward, because the people and circumstances around us belong in the answer too."
         },
         {
           "t": "p",
-          "x": "Then the trouble starts, because half of the first-glance meanings are counterfeits, and the traditions disagree about which half. The feeling of a life going well can be bought cheaply. The thing itself, most of the classical accounts insist, cannot, and the science that measured the feeling kept finding the same gap from the other side."
-        },
-        {
-          "t": "p",
-          "x": "Genuine carries the second thread. In ordinary use it means the real thing as against the counterfeit. Its root is lineage: borrowed from the Latin genuīnus, from genus, a word whose senses run from birth, origin, lineage and descent to kind and type, itself from a root meaning to produce, to beget:"
-        },
-        {
-          "t": "q",
-          "x": "\"Borrowed from Latin genuīnus, from genus + -ūs.\" ([Wiktionary, \"genuine\"](https://en.wiktionary.org/wiki/genuine)).",
-          "s": null
-        },
-        {
-          "t": "q",
-          "x": "\"From Proto-Italic *genos, from Proto-Indo-European *ǵénh₁os n (\"race\"), from the root *ǵenh₁- (\"to produce, beget\")\" ([Wiktionary, \"genus\" (Latin)](https://en.wiktionary.org/wiki/genus#Latin)).",
-          "s": null
-        },
-        {
-          "t": "p",
-          "x": "To be genuine is, in the word's own history, to be of one's own stock: true to what one is rather than grafted onto an appearance. The two halves of the title together name the problem the theme carries: a life in bloom, and that bloom being the life's own rather than borrowed, forced or displayed. Everything I have gathered on the theme turns out to answer one of the four questions that problem breaks into: what the good life is, what gets mistaken for it, what it is made of and what it costs, and how it is built."
-        },
-        {
-          "t": "p",
-          "x": "The large question, what a good life consists of, lives here; the affective state and its research, how pleasant feelings behave, why they fade, why they slip away when chased, lives with Happiness. The two overlap, and the overlap is a live scholarly dispute. Hedonic adaptation and the pleasant feeling itself sit mainly with Happiness; what a life is for, what it needs and what it must not be confused with sit here."
+          "x": "When someone is suffering, the first question I want to ask is what would help, before asking what they might learn from it. A useful account of flourishing should help us recognise what needs care or change. It should not turn hardship into a test that people are expected to pass."
         },
         {
           "t": "h2",
@@ -3001,7 +2974,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "- Happiness: I distinguish feeling happy from judging how a life is going. Aristotle complicates that distinction by treating [happiness as activity](card:Happiness%20as%20activity), [not simply a feeling](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). - Well-being: a broad term that includes [meaning and functioning](card:Eudaimonic%20well-being), while [the two-factor model](card:The%20two-factor%20model%20of%20well-being) [distinguishes mental well-being from mental illness](https://pubmed.ncbi.nlm.nih.gov/12096700/). - Eudaimonia: [Aristotle's term](card:Eudaimonia) for [living and acting well across a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). - Thriving: when I use this near-synonym, I want to ask about both [real possibilities for living](card:Flourishing%20as%20capability) and [positive mental health](card:Complete%20mental%20health%20model), rather than visible success alone."
+          "x": "- Happiness: I distinguish feeling happy from judging how a life is going. Aristotle complicates that distinction by treating [happiness as activity](card:Happiness%20as%20activity), [not simply a feeling](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
+        },
+        {
+          "t": "p",
+          "x": "- Well-being: a broad term that includes [meaning and functioning](card:Eudaimonic%20well-being), while [the two-factor model](card:The%20two-factor%20model%20of%20well-being) [distinguishes mental well-being from mental illness](https://pubmed.ncbi.nlm.nih.gov/12096700/)."
+        },
+        {
+          "t": "p",
+          "x": "- Eudaimonia: [Aristotle's term](card:Eudaimonia) for [living and acting well across a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
+        },
+        {
+          "t": "p",
+          "x": "- Thriving: when I use this near-synonym, I want to ask about both [real possibilities for living](card:Flourishing%20as%20capability) and [positive mental health](card:Complete%20mental%20health%20model), rather than visible success alone."
         },
         {
           "t": "h",
@@ -3013,11 +2998,11 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) is not a mood that arrives when life is comfortable. It is [happiness as activity](card:Happiness%20as%20activity): [a life of acting well](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), expressing [excellence](card:Arete). [Virtue](card:Virtue) is [a disposition learned through action](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html), not simply a favourable opinion about goodness."
+          "x": "For [Aristotle](card:T002%20%E2%80%94%20Aristotle), [eudaimonia](card:Eudaimonia) means [living and acting well over a complete life](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). His account of [happiness as activity](card:Happiness%20as%20activity) concerns [what we do with our abilities and how well we do it](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), or [excellence](card:Arete). [Virtue](card:Virtue) develops through [repeated actions that shape character](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)."
         },
         {
           "t": "p",
-          "x": "His [function argument](card:The%20function%20argument) asks what humans characteristically do and what doing it well would mean. In [Nicomachean Ethics I.7](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), the answer is reasoned activity in accordance with virtue across a complete life. The [sufficient good](card:The%20sufficient%20good), [desired for its own sake](card:Everyone%20desires%20eudaimonia), is not another instrument for getting something else."
+          "x": "His [function argument](card:The%20function%20argument) [identifies the human good with using reason well in a life of virtuous activity](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html). Eudaimonia is the [sufficient good](card:The%20sufficient%20good), [desired for its own sake](card:Everyone%20desires%20eudaimonia): [we seek it as the end of our other pursuits](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
         },
         {
           "t": "q",
@@ -3026,19 +3011,19 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "This [virtue-ethical account](card:Virtue%20ethics) requires judgment. [The mean](card:The%20doctrine%20of%20the%20mean) is [a fitting response between excess and deficiency](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html), not an instruction to be halfway courageous. [Practical wisdom](card:Practical%20wisdom) [attends to the particular situation and a good aim](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html). Even [the pleasure of virtuous action](card:The%20joy%20of%20virtue) [belongs within the activity](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html), rather than being an unrelated reward."
+          "x": "This [virtue-ethical account](card:Virtue%20ethics) asks us to judge how to act in a particular situation. Aristotle explains [the mean](card:The%20doctrine%20of%20the%20mean) through [courage: cowardice involves excessive fear and too little confidence, while rashness involves excessive confidence](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html). [Practical wisdom](card:Practical%20wisdom) involves [recognising what the situation calls for and choosing an action toward a good end](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html). He also describes [the pleasure of virtuous action](card:The%20joy%20of%20virtue) as [enjoyment of the activity itself](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)."
         },
         {
           "t": "p",
-          "x": "Epicurus gives pleasure a different place. [Freedom from disturbance](card:Ataraxia) and [settled pleasure](card:Katastematic%20pleasure) make [freedom from bodily pain and mental distress](https://plato.stanford.edu/entries/epicurus/) central to a happy life. His [self-sufficiency](card:Autarky) means [being content with little, not dispensing with friendship](https://plato.stanford.edu/entries/epicurus/). Needing less is not the same as needing nobody."
+          "x": "Epicurus gives pleasure a different place. [Freedom from disturbance](card:Ataraxia) and [settled pleasure](card:Katastematic%20pleasure) make [freedom from bodily pain and mental distress](https://plato.stanford.edu/entries/epicurus/) central to a happy life. His [self-sufficiency](card:Autarky) encourages [contentment with little, alongside a high regard for friendship](https://plato.stanford.edu/entries/epicurus/)."
         },
         {
           "t": "p",
-          "x": "Other accounts ask whether the pursuit itself has gone wrong. The Daoist teaching of [sufficiency](card:Contentment%20with%20sufficiency) asks [whether we know when to stop wanting more](https://www.gutenberg.org/files/216/216-h/216-h.htm). [Spinoza's blessedness](card:Blessedness) is [an active joy of understanding](https://plato.stanford.edu/entries/spinoza/). These are distinct proposals about what is worth seeking, not interchangeable names for feeling pleasant."
+          "x": "The Daoist teaching of [sufficiency](card:Contentment%20with%20sufficiency) asks [whether we know when to stop wanting more](https://www.gutenberg.org/files/216/216-h/216-h.htm). [Spinoza's blessedness](card:Blessedness) instead concerns [the joy of understanding](https://plato.stanford.edu/entries/spinoza/). Contentment with what is enough and joy in understanding offer different answers to the question of what is worth seeking."
         },
         {
           "t": "p",
-          "x": "There is also a question of scale. In Aristotle's [Politics](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm), [the city](card:The%20polis) exists not merely to keep people alive but for [living well together](card:Common%20flourishing). His [complete friendship](card:Aristotelian%20friendship) is [grounded in character rather than usefulness or amusement](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html). I do not want flourishing to become so private that the shared world, or the people in it, cease to matter."
+          "x": "Aristotle also places the good life within a community: in his [Politics](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm), [the city](card:The%20polis) exists for [living well together](card:Common%20flourishing). His [complete friendship](card:Aristotelian%20friendship) involves [people valuing one another's character and wishing one another well](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html). Relationships and shared institutions are part of his account of how a good life becomes possible."
         },
         {
           "t": "h2",
@@ -3050,7 +3035,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "For [Ryff](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), [psychological well-being](card:Psychological%20well-being) includes accepting oneself, good relationships, autonomy, managing one's circumstances, purpose and growth. This [broader view](card:Holistic%20well-being) makes room for questions a mood rating cannot answer. The [eudaimonic approach](card:Eudaimonic%20well-being) is concerned with [meaning and functioning, not simply pleasure](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf)."
+          "x": "For [Ryff](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf), [psychological well-being](card:Psychological%20well-being) includes accepting oneself, good relationships, autonomy, managing one's circumstances, purpose and growth. This [broader view](card:Holistic%20well-being) gives several dimensions to consider when asking how a person is doing. The [eudaimonic approach](card:Eudaimonic%20well-being) concerns [meaning and functioning](https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2001_RyanDeci_Happiness.pdf)."
         },
         {
           "t": "p",
@@ -3070,7 +3055,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "That explanation also makes room for the setting. [Ryan and Deci](card:T015%20%E2%80%94%20Ryan%2C%20Richard%20M.%20and%20Deci%2C%20Edward%20L.) describe people as [potentially engaged or alienated, depending largely on the social conditions in which they develop and function](https://pubmed.ncbi.nlm.nih.gov/11392867/). I use [self-determined personality growth](card:Self-determined%20personality%20growth) as a label for this connection, not as a reason to make each person solely responsible for how they fare."
+          "x": "That explanation also makes room for the setting. [Ryan and Deci](card:T015%20%E2%80%94%20Ryan%2C%20Richard%20M.%20and%20Deci%2C%20Edward%20L.) describe people as [potentially engaged or alienated, depending largely on the social conditions in which they develop and function](https://pubmed.ncbi.nlm.nih.gov/11392867/). I use [self-determined personality growth](card:Self-determined%20personality%20growth) as my label for this connection between development and the conditions that support it."
         },
         {
           "t": "p",
@@ -3082,7 +3067,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "[Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues. For [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara), [positive-emotion research](card:Positive%20emotions%20research) asks what these emotions make possible: her [broaden-and-build](card:Broaden-and-build) theory proposes [that they widen thought and action and help build lasting resources, with early evidence presented as preliminary](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/). A theory about positive emotions is not a command to feel positive."
+          "x": "[Peterson and Seligman's classification](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) names 24 [character strengths](card:Character%20strengths%20%28Peterson%20%26%20Seligman%29) under six broad virtues. For [Fredrickson](card:T027%20%E2%80%94%20Fredrickson%2C%20Barbara), [positive-emotion research](card:Positive%20emotions%20research) asks what these emotions make possible: her [broaden-and-build](card:Broaden-and-build) theory proposes [that they widen thought and action and help build lasting resources, with early evidence presented as preliminary](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/)."
         },
         {
           "t": "p",
@@ -3234,7 +3219,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "What research cannot decide for us"
+          "x": "Building well-being without forgetting suffering"
         },
         {
           "t": "p",
@@ -3242,7 +3227,7 @@ window.fcDossiersData = {
         },
         {
           "t": "h2",
-          "x": "Judging from inside a life"
+          "x": "Judging a whole life, or a present moment"
         },
         {
           "t": "p",
@@ -3254,7 +3239,7 @@ window.fcDossiersData = {
         },
         {
           "t": "p",
-          "x": "These are extreme encounters, but the question also belongs in an ordinary day. [Responding to someone's good news](card:ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News) brings it down to a small choice: will I make room for another person's joy, or hurry past it?"
+          "x": "These are famous scenes, but the question also belongs in an ordinary day. [Responding to someone's good news](card:ST316%20%E2%80%94%20How%20You%20Respond%20to%20Good%20News) brings it down to a small choice: will I make room for another person's joy, or hurry past it?"
         },
         {
           "t": "h",

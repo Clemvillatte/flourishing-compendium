@@ -1,5 +1,29 @@
 # LIVE GF EXEMPLAR HANDOFF — supervisor-11878a6c, 2026-10-24
 
+## Latest owner override: GF opening rejected; no dossier underlining
+
+Owner explicitly rejected "Flourishing is a flower word" as unclear and
+"The etymology is not decoration..." as AI-generated. This SUPERSEDES
+the older work-order protection of the opening below. The old opening is
+not approved, must not be restored or copied as an exemplar. Replaced with
+plain editorial framing about relationships, choice, worthwhile activity
+and responding to suffering. Etymology material belongs in evidence
+notes if needed, not as a claim that a word contains an ancient theory.
+Owner also requested removal of ALL underlining on dossier pages.
+Keep links functional and preserve keyboard focus.
+Owner validation remains required before six-agent exemplar rollout.
+
+## Whole-corpus quality gate remains CLOSED
+
+Owner has now clarified that the standard applies to ALL DOSSIERS, not
+the particular sentences they flag. They also rejected "not an instruction
+to be halfway courageous". Classical GF prose rewritten with an actual
+Aristotelian example. This is repair work, not proof of a successful
+full-corpus humanisation pass. Do not report GF ready or any corpus-wide
+absence of AI-sounding prose. All other dossiers still need semantic
+reader review. Existing active worker files must not be overwritten.
+Advisor is conducting a read-only cross-corpus prose audit.
+
 Owner is awaiting the revised Genuine Flourishing dossier for personal
 validation BEFORE launching six agents. Do not mark the candidate approved
 or transfer this style to all dossiers without that decision.

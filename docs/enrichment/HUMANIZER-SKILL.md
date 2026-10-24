@@ -12,6 +12,34 @@ metadata:
 
 # Humanizer: remove AI writing patterns
 
+## Owner correction: whole-text standard, not spot repairs
+
+STRUCTURAL CLARIFICATION FROM OWNER: the issue is specifically the
+recognisable "This is not X, it is Y" / "not X, but Y" rhetorical
+construction, including variants across adjacent sentences. Finding
+a more accurate Y does not fix it. State the idea directly, or explain
+the two positions in separate affirmative sentences. Audit this pattern
+throughout ALL dossiers. Retain necessary evidence limitations and
+verbatim quotations faithfully, without adding habitual contrast scaffolds.
+
+The owner rejected the GF candidate after reading only its opening, then
+rejected "not an instruction to be halfway courageous". The directive
+applies to ALL DOSSIERS. Removing a few reported sentences is not the task.
+The current GF candidate is NOT an approved exemplar.
+
+Read the whole text as a reader, including inherited or formerly protected
+passages. For every sentence ask what it actually explains. Replace
+pseudo-clever analogies, decorative etymology, invented misconceptions,
+formulaic contrasts and wise-sounding closers with a clear account or a
+concrete, source-checked example. Delete a sentence when it adds no meaning.
+Do not merely replace "I would..." with a rhetorical question.
+
+Source fidelity and good prose are separate gates. A citation can support
+a claim that is nevertheless badly written. No source checker, word limit,
+phrase scan, advisor count or absence of a blacklist certifies human prose.
+No unreviewed dossier may inherit approval from a previous exemplar label.
+Owner validation is required before copying GF to six more agents.
+
 ## Readable synthesis, not a citation display (latest owner directive, 2026-10-24)
 
 The owner rejected a GF paragraph beginning "Its goal research adds..."
