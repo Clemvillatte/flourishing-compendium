@@ -70,6 +70,34 @@ for each term. The dossier's Nearby terms section is written from
 that matrix. A future split (say, a standalone Stress dossier) is
 proposed with the matrix row as evidence, not assumed now.
 
+Supervisor-prepared title-sweep inventory (2026-10-24, from content/
+filenames — the writer verifies each card's substance and adds the
+full-text sweep for stragglers):
+
+- Anxiety: 17 cards (incl. Anxiety about the future, Anxiety buffer
+disruption theory, Death anxiety research, Metacognitive model of
+anxiety and depression (Wells), K314 Anxiety-as-signal, plus
+principles AF048/AT020/AT070/BE025/BE031/BE070).
+- Stress: 27 cards (incl. Stress appraisal, Lazarus and Folkman's
+Transaction Theory of Stress and Coping, Diathesis-stress model, HPA
+axis theory stress, Stress mindset, Stress cycle completion, Distress
+tolerance (DBT), Mindfulness-based stress reduction, Minority stress
+theory, Cognitive mediation of distress, Empathic distress).
+- Fear: 27 cards (incl. Fear, The examination of fear, The
+classification of fears, Courage — action despite fear, Epicurean
+argument against the fear of death, plus principles A116/AF047/AF049/B109).
+- Worry: 4 cards (Worry research, Worry theory cognitive avoidance
+Borkovec, CO048 Distinguish worry from problem-solving, P185 The
+sovereign cure for worry).
+- Angst: 2 cards (Angst, E044 Practise anxiety (Angst)).
+- Dread: no dedicated cards (title hits are false positives from
+'mindreading' and 'this life's rarity').
+
+Read of the inventory: Stress and Fear have enough distinct material
+that the Anxiety dossier must genuinely disambiguate rather than
+absorb; Worry and Angst are thin and likely live inside Anxiety as
+subthemes unless the writer's opened sources argue otherwise.
+
 ## Boundaries that are already set
 
 These are EDITORIAL STARTING SCOPES, not settled scholarly
