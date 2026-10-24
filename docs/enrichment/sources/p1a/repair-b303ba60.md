@@ -85,11 +85,12 @@ are not certified by this body-level review.
 
 ## D037: Empty the heart-mind
 
-- Opened: [Legge/METIS Zhuangzi 4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf), §§1–2, PDF pp. 15–18; [Fraser, Heart-Fasting, Forgetting, and Using the Heart Like a Mirror](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf), complete author manuscript, especially pp. 9–11 and 20–21; [Hansen's SEP discussion](https://plato.stanford.edu/entries/zhuangzi/) for interpretive diversity.
+- Opened: [Legge/METIS Zhuangzi 4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf), §§1–2, PDF pp. 15–18; [Fraser, Heart-Fasting, Forgetting, and Using the Heart Like a Mirror](http://cjfraser.net/images/2013/08/Fraser_Heart-FastingForgetting.pdf), complete author manuscript, especially pp. 9–11 and 20–24; [Hansen's SEP discussion](https://plato.stanford.edu/entries/zhuangzi/) for interpretive diversity.
 - Evidence: retained quotation matches Legge after joining PDF hyphenation. The ruler's danger, Yan Hui's reform intention, ritual-fast distinction and aperture/apartment image occur in the primary dialogue. Fraser explicitly interprets heart-fasting as abstaining from fully formed preconceptions and treats emptiness/mirroring metaphorically, with effective responsiveness as a criterion.
 - Repair: restored political and interpersonal stakes instead of presenting a free-floating mindfulness slogan. Identified Zhongni as the dialogue's Confucius rather than presenting the scene as a historical report. Plain words directly explains revisability in listening; the existing deadline example now includes checking understanding, changing the response and subsequent review.
 - Saturation: mind/heart/emptiness concepts and the existing T009/T037 connections were checked. No general Buddhist emptiness or meditation-equivalence edge proposed.
 - Limits: modern listening exercise does not exhaust the cultivation ideal; no guarantee of safety with tyrants, dangerous people or abusive relationships, and no claim of a treatment effect.
+- Milestone QC repair: advisor verified the passage and interpretation, then requested that the Fraser locator extend through p. 24. Accepted and added his qualification that practical success alone does not establish the course's fittingness.
 
 ## D039: Rest as root of activity
 
@@ -130,3 +131,11 @@ are not certified by this body-level review.
 - Repair: moved the actual comparison into the explanation and supplied a real essay-use example that records sample/task/context, seeks further evidence, narrows the claim and revisits it. Added a genuine scholarly challenge rather than treating the original review as an uncontested final classification of humanity.
 - Saturation: sample/generalization concept inventory checked; existing Henrich link retained, no speculative new graph edge.
 - Limits: game offers are task-specific measurements, not rankings of moral worth or national generosity. The critique neither invalidates all Western research nor establishes that every psychological pattern differs across cultures. No newly collected empirical result is claimed.
+
+## S007: Providence and acceptance
+
+- Opened: [Meditations V, Long translation](https://classics.mit.edu/Antoninus/meditations.5.five.html), complete book, especially V.8 and the paragraph conventionally V.36; [Kamtekar, Marcus Aurelius, SEP](https://plato.stanford.edu/entries/marcus-aurelius/), extraction on providence, justice, social duty and interpretive context.
+- Evidence: retained V.8 quotation matches the fetched text. V.36 explicitly directs giving help according to ability; Kamtekar connects loving what is allotted and acting justly, and distinguishes cosmological belief from practical ethical convergence.
+- Repair: retained the actual providential premise instead of silently secularizing it. Added the social-action qualification and made the hypothetical promotion response include feedback, fair questioning and review. A modern acknowledgment exercise is explicitly a separate application whose argument differs if providence is set aside.
+- Saturation: existing acceptance, Zhuangzi and Laozi links retained as comparisons rather than identical cosmologies. No graph addition.
+- Limits: no declaration that any particular unfair decision or abuse was morally right, no prohibition on seeking remedies, and no expectation that disappointment immediately vanishes.

@@ -12,21 +12,32 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 129** — Accept what happens as the will of providence
 
-Marcus compares adversity to a physician's prescription. He argues that something disagreeable to an individual can contribute to the health of the universe:
+Marcus compares adversity to a physician's prescription, arguing that something disagreeable to an individual can contribute to the health of the universe ([Meditations V.8](https://classics.mit.edu/Antoninus/meditations.5.five.html)):
 
 > "And so accept everything which happens, even if it seem disagreeable, because it leads to this, to the health of the universe and to the prosperity and felicity of Zeus (the universe)."
 > (Med. V.8, [George Long's translation](https://classics.mit.edu/Antoninus/meditations.5.five.html))
 
-His reason for acceptance is the belief that events belong to an ordered whole and serve its good. I draw an everyday exercise from this account: acknowledge what has happened and consider how to respond.
+The argument depends on a providential ordering of the whole; Rachana Kamtekar explains how Marcus joins welcoming what is allotted with acting justly towards others ([Marcus Aurelius](https://plato.stanford.edu/entries/marcus-aurelius/)). In the same book, he directs himself to help others according to his ability ([V.36](https://classics.mit.edu/Antoninus/meditations.5.five.html)).
 
-**Plain words** Marcus asks you to believe that a disappointment in your own life can serve the good of the universe as a whole. His advice depends on that belief about how the world is governed. The practical exercise is to recognise the event you now face and decide what to do next.
+I draw an exercise from this conjunction: acknowledge the event you now face, then consider the response you owe to yourself and others. This exercise can be considered separately from the providential belief, but doing so changes the argument Marcus gives.
 
-*For example:* Suppose someone else receives the promotion you wanted. A person practising Marcus's view would try to accept the outcome as part of the larger order, then consider their next action.
+### Plain words
+
+In Marcus's view, a personal disappointment belongs within a larger order whose good can exceed your own immediate advantage ([V.8](https://classics.mit.edu/Antoninus/meditations.5.five.html)). Acceptance accompanies responsibility for how you act towards people; it does not replace that responsibility ([Kamtekar](https://plato.stanford.edu/entries/marcus-aurelius/)).
+
+### For example
+
+Suppose someone else receives the promotion you wanted. After acknowledging the decision, you might seek feedback, consider whether there are fair grounds to question it and decide how to treat your colleague. Later, review whether your response expressed the fairness you value. This is my illustration, not a claim that the outcome was just or that disappointment must immediately disappear.
 
 ## Related concepts
 
 - [[T009 — Zhuangzi]]: the basin-drumming story (ST031) the page lists for acceptance after death.
 - [[T012 — Laozi]]: the Dao moves by reversal, Daodejing 40, beside the page's providence acceptance.
+
+## Sources
+
+- [Marcus Aurelius, Meditations V.8 and V.36, George Long translation](https://classics.mit.edu/Antoninus/meditations.5.five.html): providential acceptance and help according to ability.
+- [Rachana Kamtekar, Marcus Aurelius, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcus-aurelius/): providence, justice and social duty.
 ## Stories
 
 - [[ST031 — Zhuangzi Drums on a Basin|31. Zhuangzi Drums on a Basin]]
