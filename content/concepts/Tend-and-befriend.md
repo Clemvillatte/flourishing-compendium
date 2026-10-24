@@ -36,5 +36,5 @@ On this model, the stressed colleague who rounds up the team for a joint plan is
 
 ## Sources
 
-- Taylor, S. E., Klein, L. C., Lewis, B. P., Gruenewald, T. L., Gurung, R. A. R., & Updegraff, J. A. (2000). Biobehavioral responses to stress in females: Tend-and-befriend, not fight-or-flight. Psychological Review, 107(3), 411–429. Abstract opened at https://pubmed.ncbi.nlm.nih.gov/10941275/
-- Taylor, S. E., & Master, S. L. (undated chapter; year not stated in the document). Social Responses to Stress: The Tend and Befriend Model. Chapter opened at https://taylorlab.psych.ucla.edu/wp-content/uploads/sites/5/2014/11/2010_Affiliative-Responses-to-Stress.pdf
+- Taylor, S. E., Klein, L. C., Lewis, B. P., Gruenewald, T. L., Gurung, R. A. R., & Updegraff, J. A. (2000). Biobehavioral responses to stress in females: Tend-and-befriend, not fight-or-flight. Psychological Review, 107(3), 411–429. Abstract via https://pubmed.ncbi.nlm.nih.gov/10941275/
+- Taylor, S. E., & Master, S. L. (undated chapter; year not stated in the document). Social Responses to Stress: The Tend and Befriend Model. Chapter PDF at https://taylorlab.psych.ucla.edu/wp-content/uploads/sites/5/2014/11/2010_Affiliative-Responses-to-Stress.pdf
