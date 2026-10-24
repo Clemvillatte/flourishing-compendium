@@ -1,15 +1,19 @@
 {
  "baton": "dos13",
- "agent": "supervisor-pplx-1024c-dos13",
- "clocked_in": "2026-10-24T05:47:06+00:00",
+ "agent": "worker-pplx-dos13-1025",
+ "clocked_in": "2026-10-24T13:40:26+00:00",
  "takeovers": [
   {
    "by": "supervisor-pplx-1024c-dos13",
    "at": "2026-10-24T05:45:52+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-pplx-dos13-1025",
+   "at": "2026-10-24T13:40:26+00:00",
+   "from": "supervisor-pplx-1024c-dos13",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-24T05:47:13+00:00"
+ ]
 }
