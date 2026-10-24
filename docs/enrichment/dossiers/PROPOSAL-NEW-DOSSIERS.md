@@ -118,6 +118,8 @@ Supporting cards (core cards read in full this session):
 - plus cards opened in part: Amor fati (Nietzsche quoted), Experiential avoidance
   theory, Action commitment, Chronic pain acceptance
 - kernels K123 Radical acceptance and K385 Cognitive acceptance (titles verified)
+- saying "Accept pain as part of nature" (opened and read: Marcus Aurelius,
+  Meditations VII.33, with ST213 linked from it)
 - principles AF039 and AF040 (titles verified; the feeling-vs-circumstance distinction
   is the map's spine)
 
@@ -160,6 +162,8 @@ Supporting cards (opened in part this session, the two named cards read in full)
   (Frankfurt 1971), Psychological reactance (Brehm 1966), Natural liberty versus the
   chains (Rousseau quoted)
 - story ST273 The Dizziness of Freedom (opened and read)
+- kernel K315 Freedom in constraint (opened and read: take one fixed constraint and
+  list three choices inside it, tied to Hayes's psychological flexibility)
 
 Draft opening question: "What is freedom for, and why do people run from it?"
 
@@ -195,6 +199,9 @@ Supporting cards (core cards read in full this session):
   gratitude, Deep ecology
 - story ST345 The Army Enlisted Against Nature (opened and read; William James's
   moral-equivalent-of-war address)
+- kernels K205 Nature exposure and K303 Sensory nature immersion (opened and read;
+  K303 carries its own honest note that the research offers the theory and one
+  controlled experiment, not the schedule)
 
 Draft opening question: "What does contact with the living world do to a mind?"
 
@@ -259,6 +266,8 @@ Supporting cards (opened in part this session):
 - The chain of virtue (read in full: NE Book II acts-to-habits-to-character),
   The rehearsal of virtue, Natural virtue, Character development (NE II quoted),
   Friendship shapes character (NE IX), Arete, Habituation, Sophrosyne
+- kernel K251 Signature strengths in new ways (opened and read: the VIA top-five
+  exercise, tied to the verified Seligman et al. 2005 carrier)
 
 Draft opening question: "Can character be built, and what builds it?"
 
