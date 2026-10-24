@@ -5,11 +5,12 @@
       "slug": "others",
       "worker": "worker-pplx-dos16-1024a",
       "state": "publication: pending supervisor",
-      "verification": "one-pass build: dossier + evidence ledger; 131 card links, checker exit 0; voice audit exit 0; seven external quotes verified word-for-word against carriers opened this session (Beckes & Coan 2011 PDF, PMC2752489, MIT NE IX.10 Ross, AccessToInsight Sn 1.8, Biblehub Matthew 5 KJV, Batson eutils 3418490, Klimecki eutils 23576808); ledger in docs/enrichment/sources/dossiers/others.md; registry left planned for supervisor flip",
+      "verification": "two-pass build: revision 1 (dossier + evidence ledger, 131 card links, checker exit 0, voice audit exit 0, 7 quotes verified against opened carriers) + revision 2 advisor-QC repairs (divergence 1 rebuilt as Analects 14.34 vs Matthew 5.44, both carriers opened; divergence 2 rebuilt as Batson 1988 vs Cialdini 1987, both abstracts opened; Klimecki quote repaired and moved to map; Connectedness label fixed; ST315 wording fixed; intro de-swept; kernel and story descriptions re-verified against full cards; retention rewritten); ledger in docs/enrichment/sources/dossiers/others.md records carriers, methods, exclusions and the baton bookkeeping flag; registry left planned for supervisor flip",
       "dates": {
-        "built": "2026-10-24"
+        "built": "2026-10-24",
+        "qc_revision": "2026-10-24"
       }
     }
   ],
-  "note": "minted 2026-10-24; one dossier per band; see bands/dos16-manifest.json. Others dossier (EEMM group) built 2026-10-24 by worker-pplx-dos16-1024a; registry status left planned for supervisor flip."
+  "note": "minted 2026-10-24; one dossier per band; see bands/dos16-manifest.json. Others dossier (EEMM group) built 2026-10-24 by worker-pplx-dos16-1024a, QC-revised same day; registry status left planned for supervisor flip. Baton bookkeeping flag: dos16 live state held by worker-pplx-dos27-mint (their commit f1b9f1f closed the band); supervisor reconciliation requested."
 }

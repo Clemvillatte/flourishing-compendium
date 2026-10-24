@@ -2,7 +2,7 @@
 
 > What do other people do to a person's mind and flourishing, and what does one person owe another?
 
-The person asking how to live well is never asking alone. Other people are the environment the human brain is built to expect, the material the self is made from, the ones who see it, wound it and confirm it, and the ones a good life is asked to serve. The traditions organize the territory differently: some start from the bond (friendship, care, the face of the other), some from the command (love your enemy, bear one another's burdens), some from the mechanism (empathy, co-regulation, social support). The research keeps converging on the same finding from opposite directions: the quantity and quality of a person's relationships travel with their health, their mood and their survival, and the practices that matter most are the ones that build, widen or repair the ties.
+This dossier holds a double question: what other people do to a person's mind and flourishing, and what one person owes another. Other people are the environment the human brain is built to expect, the material the self is made from, and the ones a good life is asked to serve. The traditions organize the territory differently. Some start from the bond (friendship, care, the face of the other), others from the command (love your enemy, bear one another's burdens), and the research starts from the mechanism (empathy, co-regulation, social support). The research association is plain in the findings gathered below: the quantity and quality of a person's relationships travel with their health, their mood and their survival.
 
 ## Nearby terms
 
@@ -20,7 +20,7 @@ The person asking how to live well is never asking alone. Other people are the e
 
 [Micro-moments of connection](https://clemvillatte.github.io/flourishing-compendium/#card=Micro-moments%20of%20connection): this page's title for Fredrickson's positivity resonance: the brief shared positive states that constitute love as a day-to-day biological event.
 
-[Connectedness in well-being research](https://clemvillatte.github.io/flourishing-compendium/#card=Connectedness%20in%20well-being%20research): Diener and Seligman's label for the findings in which people's ties to others travel with how well their lives go.
+[Connectedness in well-being research](https://clemvillatte.github.io/flourishing-compendium/#card=Connectedness%20in%20well-being%20research): this wiki's label for the findings in which people's ties to others travel with how well their lives go (Diener and Seligman, 2002).
 
 [Social support theory Cohen Wills](https://clemvillatte.github.io/flourishing-compendium/#card=Social%20support%20theory%20Cohen%20Wills): the classic review distinguishing two proposed relationships between support and health.
 
@@ -88,6 +88,10 @@ Cacioppo and Hawkley give the negative side of the same arrangement:
 
 [Confirming the other](https://clemvillatte.github.io/flourishing-compendium/#card=Confirming%20the%20other): Buber's term for what the other person does in a dialogic relation.
 
+The training research separates two states a person can bring to another's pain. In Klimecki and colleagues' study, one group was trained first in empathic resonance and then in compassion; the resonance training raised negative affect and the brain activations associated with empathy for pain, and the compassion training reversed it:
+
+> "We conclude that training compassion may reflect a new coping strategy to overcome empathic distress and strengthen resilience." ([Klimecki et al. 2014, PubMed 23576808](https://pubmed.ncbi.nlm.nih.gov/23576808/))
+
 ### Compassion, kindness and care
 
 [Compassion](https://clemvillatte.github.io/flourishing-compendium/#card=Compassion): the wish to relieve suffering when it is seen, trainable as a capacity.
@@ -95,6 +99,10 @@ Cacioppo and Hawkley give the negative side of the same arrangement:
 [Karuna](https://clemvillatte.github.io/flourishing-compendium/#card=Karuna): the second brahmavihara: where metta wishes all beings well, karuna responds to their pain.
 
 [Metta (loving-kindness)](https://clemvillatte.github.io/flourishing-compendium/#card=Metta%20%28loving-kindness%29): the first immeasurable: goodwill for all beings without limit.
+
+The Karaṇīya Metta Sutta gives the instruction its measure:
+
+> "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings." ([Karaṇīya Metta Sutta, Sn 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
 [Mudita (sympathetic joy)](https://clemvillatte.github.io/flourishing-compendium/#card=Mudita%20%28sympathetic%20joy%29): the third immeasurable: gladness at another's good fortune as if it were one's own.
 
@@ -137,6 +145,10 @@ Cacioppo and Hawkley give the negative side of the same arrangement:
 [Three kinds of friendship](https://clemvillatte.github.io/flourishing-compendium/#card=Three%20kinds%20of%20friendship): the kinds counted by what people find lovable: the useful, the pleasant and the good.
 
 [Friendship shapes character](https://clemvillatte.github.io/flourishing-compendium/#card=Friendship%20shapes%20character): Aristotle's claim that the company we keep shapes the people we become.
+
+Aristotle caps the account with the scarcity of the real thing:
+
+> "it would seem actually impossible to be a great friend to many people... but one cannot have with many people the friendship based on virtue and on the character of our friends themselves, and we must be content if we find even a few such." ([Aristotle, Nicomachean Ethics IX.10, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html))
 
 [The wounds of love](https://clemvillatte.github.io/flourishing-compendium/#card=The%20wounds%20of%20love): Alcibiades' complaint in the Symposium about the injuries Socrates inflicts.
 
@@ -254,9 +266,9 @@ The theme comes in narrative form too:
 
 [ST288 — Joel and Clementine Erase Each Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): a failed couple erase each other from memory, and the erasure preserves what it destroys.
 
-[ST315 — Loneliness and Mortality](https://clemvillatte.github.io/flourishing-compendium/#card=ST315%20%E2%80%94%20Loneliness%20and%20Mortality): Holt-Lunstad's meta-analysis: stronger social relationships confer a 50 per cent increased likelihood of survival.
+[ST315 — Loneliness and Mortality](https://clemvillatte.github.io/flourishing-compendium/#card=ST315%20%E2%80%94%20Loneliness%20and%20Mortality): Holt-Lunstad's meta-analysis: people with stronger social relationships had a 50 per cent increased likelihood of survival.
 
-[ST313 — Jane Goodall's Two Careers](https://clemvillatte.github.io/flourishing-compendium/#card=ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): the naturalist whose discoveries at Gombe redefined the boundary between human and animal, and whose 1986 conference turned her toward the animals' defense.
+[ST313 — Jane Goodall's Two Careers](https://clemvillatte.github.io/flourishing-compendium/#card=ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): the naturalist whose discoveries at Gombe redefined the boundary between human and animal, and who left fieldwork permanently after the 1986 conference on the chimpanzees' conditions.
 
 [ST262 — Georges Cares for Anne](https://clemvillatte.github.io/flourishing-compendium/#card=ST262%20%E2%80%94%20Georges%20Cares%20for%20Anne): Haneke's Amour: the feeding, the washing, the refusal of the hospital, and love that stays at the bedside to the end.
 
@@ -264,57 +276,53 @@ The theme comes in narrative form too:
 
 ## Where the traditions genuinely disagree
 
-### Can goodwill extend to everyone?
+### Should injury be answered with kindness?
 
-The shared question: whom does a good will cover? Aristotle's account of friendship in the Nicomachean Ethics answers: the few whose character one can actually know.
+The shared question: what does one owe the person who has done harm? The Analects record the proposal and Confucius' rejection of it:
 
-> "Presumably, then, it is well not to seek to have as many friends as possible, but as many as are enough for the purpose of living together... it would seem actually impossible to be a great friend to many people... but one cannot have with many people the friendship based on virtue and on the character of our friends themselves, and we must be content if we find even a few such." ([Aristotle, Nicomachean Ethics IX.10, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html))
+> "Some one said, 'What do you say concerning the principle that injury should be recompensed with kindness?' The Master said, 'With what then will you recompense kindness? Recompense injury with justice, and recompense kindness with kindness.'" ([Confucius, Analects 14.34, Legge translation](https://ctext.org/analects/xian-wen))
 
-The Buddhist metta instruction removes the limit:
-
-> "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings." ([Karaṇīya Metta Sutta, Sn 1.8, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
-
-And the Gospel command crosses into the territory of hostility:
+The Gospel commands the opposite economy:
 
 > "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;" ([Matthew 5.43-44 KJV](https://www.biblehub.com/kjv/matthew/5.htm))
 
-The positions answer the same question and part on whether the limitless instruction is livable. What remains unresolved is whether the disagreement is a contradiction at all: one can hold that virtue-friendship requires the few while goodwill requires no limit, a reading Confucius' correction in Analects 14.34 supports from a fourth direction, since he refuses even to repay injury with kindness, on the grounds that uprightness is what injury is repaid with. Whether goodwill without measure exhausts itself, as Aristotle's argument implies, or whether the limit is what needs justifying, as the universal-love traditions claim, is a live boundary between a virtue of discernment and a practice of orientation.
+The two positions answer the same question and part on the currency of kindness. Confucius treats goodness as a finite economy: spent on the injurer, nothing remains with which to repay the benefactor. The Gospel treats goodness as a currency that grows by being spent on those who cannot repay. What remains unresolved is whether Confucius' rhetorical question, with what then will you recompense kindness, names a real depletion that the command ignores, or whether the command's refusal of measure is the point; the traditions cannot settle it from inside their own premises.
 
-### When you feel with someone in pain, whom does the feeling serve?
+### Is empathy-based helping for the other or for the self?
 
-The shared question: does feeling with another person move you toward them or toward your own relief? Batson's program answers with a motivational split:
+The shared question: when empathy moves a person to help, whose welfare is the motivation's ultimate goal? Batson's research program says the other's:
 
 > "Emotional arousal elicited by witnessing another person in need increases helping if the observer experiences empathic emotion; it decreases helping if the observer experiences personal distress." ([Batson et al. 1988, PubMed 3418490](https://pubmed.ncbi.nlm.nih.gov/3418490/))
 
-The compassion-training tradition answers with a different split, found by training people in each state separately:
+Cialdini's group answered with the opposite interpretation, tested in the paradigm Batson's associates typically used:
 
-> "empathy training, but not memory training (control group), increased negative affect and brain activations in anterior insula and anterior midcingulate cortex—brain regions previously associated with empathy for pain... We conclude that training compassion may reflect a new coping strategy to overcome empathic distress and strengthen resilience." ([Klimecki et al. 2014, PubMed 23576808](https://pubmed.ncbi.nlm.nih.gov/23576808/))
+> "We hypothesized that an observer's heightened empathy for a sufferer brings with it increased personal sadness in the observer and that it is the egoistic desire to relieve the sadness, rather than the selfless desire to relieve the sufferer, that motivates helping... The results were interpreted as providing support for an egoistically based interpretation of helping under conditions of high empathy." ([Cialdini et al. 1987, JPSP 52.4, abstract via SciSpace](https://scispace.com/papers/empathy-based-helping-is-it-selflessly-or-selfishly-4li7tvq2d9))
 
-The divergence: Batson's tradition treats empathic concern as the input that produces genuinely other-directed motivation, while the training tradition treats raw resonance as a fragility that burns out, prescribing a distinct state, compassion, to be cultivated in its place. What remains unresolved is definitional and empirical at once: whether Batson's empathic concern and the training studies' compassion name the same state, and whether the altruistic motivation measured in laboratory paradigms survives the scale and duration at which real helping is demanded. The wiki's own entries carry both positions without reconciling them, which is the honest state of the research.
+The disagreement is direct: the same laboratory situation, the same helping behaviour, and two rival accounts of what the helper is seeking. Each camp published experiments it read as disconfirming the other's account; the wiki's own entry on the program records Batson's summary judgment that the support for the altruistic reading is remarkably strong and consistent, alongside the limits it keeps honestly. What remains unresolved is the measurement crux both camps share: whether any laboratory separation of empathic concern from personal sadness can be made clean enough to show whose welfare the motivation actually serves.
 
 ## Practice: variation, selection, retention
 
-::Variation:: What tends to need varying on this theme is the default of managing alone, the circle drawn at kin and friend, the feeling-with that overwhelms and withdraws, and the kindness left as intention. The adaptive direction runs against each: leaning on trusted others as the designed condition rather than a fallback, widening the circle deliberately instead of once, converting resonance into care before it becomes distress, and putting kindness into acts and spending where it can land.
+::Variation:: What tends to need varying on this theme is the default of managing alone, the circle drawn at kin and friend, the feeling-with that overwhelms and withdraws, and the kindness that stays an intention. The adaptive direction leans on trusted others as the designed condition, widens the circle on purpose, converts resonance into care before it turns into distress, and puts kindness into acts and spending where it can land.
 
 ::Selection:: The kernels I have selected as sources of that variation:
 
-1. [K161 — Loving-kindness meditation](https://clemvillatte.github.io/flourishing-compendium/#card=K161%20%E2%80%94%20Loving-kindness%20meditation): the phased goodwill practice, moving from self to friend to stranger to difficult person.
+1. [K161 — Loving-kindness meditation](https://clemvillatte.github.io/flourishing-compendium/#card=K161%20%E2%80%94%20Loving-kindness%20meditation): the phased goodwill practice: phrases of goodwill for yourself, a friend, a neutral person, a difficult person, and all beings.
 
-2. [K414 — Compassion meditation (CCT-style)](https://clemvillatte.github.io/flourishing-compendium/#card=K414%20%E2%80%94%20Compassion%20meditation%20%28CCT-style%29): the contemplative compassion training sequence for strengthening the response to suffering.
+2. [K414 — Compassion meditation (CCT-style)](https://clemvillatte.github.io/flourishing-compendium/#card=K414%20%E2%80%94%20Compassion%20meditation%20%28CCT-style%29): the daily meditations of Compassion Cultivation Training: where loving-kindness wishes beings well, this practice attends to difficulty.
 
-3. [K211 — Acts of kindness](https://clemvillatte.github.io/flourishing-compendium/#card=K211%20%E2%80%94%20Acts%20of%20kindness): the deliberate kind acts used in well-being interventions.
+3. [K211 — Acts of kindness](https://clemvillatte.github.io/flourishing-compendium/#card=K211%20%E2%80%94%20Acts%20of%20kindness): one visible act of help daily; small counts, and the study behind it counted acts rather than weighing them.
 
-4. [K213 — Prosocial spending](https://clemvillatte.github.io/flourishing-compendium/#card=K213%20%E2%80%94%20Prosocial%20spending): spending money to benefit others.
+4. [K213 — Prosocial spending](https://clemvillatte.github.io/flourishing-compendium/#card=K213%20%E2%80%94%20Prosocial%20spending): spending a small amount of money on someone else, from the research on how the direction of small spending shapes mood.
 
-5. [K166 — Sympathetic joy](https://clemvillatte.github.io/flourishing-compendium/#card=K166%20%E2%80%94%20Sympathetic%20joy): the practice of gladness at another's good fortune.
+5. [K166 — Sympathetic joy](https://clemvillatte.github.io/flourishing-compendium/#card=K166%20%E2%80%94%20Sympathetic%20joy): deliberately rejoicing when someone you might compare yourself to does well.
 
-6. [K219 — Social accountability](https://clemvillatte.github.io/flourishing-compendium/#card=K219%20%E2%80%94%20Social%20accountability): committing where others can see the commitment.
+6. [K219 — Social accountability](https://clemvillatte.github.io/flourishing-compendium/#card=K219%20%E2%80%94%20Social%20accountability): tell one person about the goal or practice and let them ask about it, as in the Matthews study's weekly progress reports.
 
-7. [K221 — Community engagement](https://clemvillatte.github.io/flourishing-compendium/#card=K221%20%E2%80%94%20Community%20engagement): the practice of showing up in a group that shares an aim.
+7. [K221 — Community engagement](https://clemvillatte.github.io/flourishing-compendium/#card=K221%20%E2%80%94%20Community%20engagement): time spent in a community not one's own, listening rather than advising.
 
-8. [K399 — The kindness pool (unblock the spring)](https://clemvillatte.github.io/flourishing-compendium/#card=K399%20%E2%80%94%20The%20kindness%20pool%20%28unblock%20the%20spring%29): unblocking the spring of kindness when it runs dry.
+8. [K399 — The kindness pool (unblock the spring)](https://clemvillatte.github.io/flourishing-compendium/#card=K399%20%E2%80%94%20The%20kindness%20pool%20%28unblock%20the%20spring%29): unblocking the spring that feeds the kindness pool rather than rationing the pool, through the befriending meditation.
 
-::Retention:: Retention is what people keep because it works for them. A reader who keeps the metta phrases, the weekly kindness act, or the willingness to ask before the crisis has what the theme offered; what stays is a matter of fit between the practice and the life it enters.
+::Retention:: Retention is what people keep because it works for them. A reader who keeps the metta phrases, the weekly kindness act, or the willingness to ask for company before the crisis has what this theme offered. What tends to persist first is the discovery that a load shared with a trusted other is managed differently from one carried alone; the rest is a matter of fit between the practice and the life it enters.
 
 ## Story: the stories that carry the theme
 
@@ -328,7 +336,7 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 [ST243 — The Five Relationships](https://clemvillatte.github.io/flourishing-compendium/#card=ST243%20%E2%80%94%20The%20Five%20Relationships): the junzi is cultivated inside the wulun, five relationships defined by reciprocal duties, not unilateral authority.
 
-[ST288 — Joel and Clementine Erase Each Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): Joel and Clementine each pay to erase the other from memory; inside his own mind Joel fights the procedure, hiding her in memories that do not belong to her.
+[ST288 — Joel and Clementine Erase Each Other](https://clemvillatte.github.io/flourishing-compendium/#card=ST288%20%E2%80%94%20Joel%20and%20Clementine%20Erase%20Each%20Other): Joel and Clementine each pay to erase the other from memory; inside his own mind Joel fights the procedure, hiding Clementine in memories she does not belong to.
 
 [ST194 — Seneca Writes to His Mother](https://clemvillatte.github.io/flourishing-compendium/#card=ST194%20%E2%80%94%20Seneca%20Writes%20to%20His%20Mother): from Corsica, Seneca refuses to console Helvia with the usuals, and argues that nothing was taken from him that was ever his; the letter is the bond.
 
@@ -344,4 +352,4 @@ The stories that best carry the theme's aspects, each retold in a line; the full
 
 [ST079 — Won't You Be My Neighbour](https://clemvillatte.github.io/flourishing-compendium/#card=ST079%20%E2%80%94%20Won%27t%20You%20Be%20My%20Neighbour): thirty-three years of feeding the fish and asking the question, a theology of the neighbourhood delivered to children.
 
-[ST313 — Jane Goodall's Two Careers](https://clemvillatte.github.io/flourishing-compendium/#card=ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): Gombe redefined the boundary between human and animal; the 1986 conference on the chimpanzees' condition turned the naturalist into their advocate.
+[ST313 — Jane Goodall's Two Careers](https://clemvillatte.github.io/flourishing-compendium/#card=ST313%20%E2%80%94%20Jane%20Goodall%27s%20Two%20Careers): at the 1986 conference on the chimpanzees' conditions she sees the scale of the destruction and leaves fieldwork permanently, becoming an activist travelling roughly 300 days a year and founding Roots and Shoots.
