@@ -1,0 +1,39 @@
+---
+schema: 0
+id: "ST479"
+type: "story"
+title: "479.  The Road to Rajagaha"
+file: "ST479 — The Road to Rajagaha"
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.02 — II.2 The Training — Ethics, Concentration, Wisdom", "parent": ""}
+---
+
+Northeast India, the Buddha's time · Majjhima Nikaya 107 · a canonical dialogue, Thanissaro Bhikkhu translation
+
+A brahmin asked the Buddha a question that any teacher dreads: with you as the guide, why do some of your disciples attain unbinding and some don't? The Buddha answered in two moves, and together they carry the whole of B029. First he gave the training as a graded sequence, each step conditional on the one before it. Then he handed the question back with a simile about the road to Rajagaha, and let the brahmin answer it himself. ([MN 107, Thanissaro](https://www.dhammatalks.org/suttas/MN107.html))
+
+The question, as Ganaka-Moggallana put it ([MN 107](https://www.dhammatalks.org/suttas/MN/MN107.html)):
+
+> "What is the reason, what is the cause—when unbinding is there, and the path leading to unbinding is there, and Master Gotama is there as the guide—that when Master Gotama's disciples are thus exhorted & instructed by him, some attain unbinding, the absolute conclusion, and some don't?"
+
+The Buddha's first move was the sequence itself, opened with a horse-trainer simile ([MN 107](https://www.dhammatalks.org/suttas/MN/MN107.html)):
+
+> "Brahman, a step-by-step training, a step-by-step activity, a step-by-step practice can likewise be described in this Dhamma & Vinaya. Just as when a dexterous horse-tamer, on getting a fine thoroughbred colt, first makes it perform the task of wearing the bit, and then trains it further, in the same way, when the Tathāgata gets a person fit to be tamed, he first trains him thus: 'Come, monk. Be virtuous. Dwell restrained in accordance with the Pāṭimokkha, consummate in your behavior & sphere of activity. Train yourself, having undertaken the training rules, seeing danger in the slightest faults.'"
+
+> "When the monk is virtuous… seeing danger in the slightest faults, the Tathāgata then trains him further"
+
+The "further" steps then follow in the same conditional form: guarding the sense doors, moderation in eating, devotion to wakefulness, mindfulness and alertness in every posture, seclusion, the abandoning of the five hindrances, and the four jhanas, each introduced only when the previous step is in place ([MN 107](https://www.dhammatalks.org/suttas/MN/MN107.html)).
+
+The second move answers the original question. The Buddha asks the brahmin whether he knows the road to Rajagaha, then describes two travelers given the same full directions, village by village and town by town. The first "would take a wrong road and arrive out west"; the second arrives safely at the city with its "delightful parks, delightful forests, delightful stretches of land, & delightful lakes" ([MN 107](https://www.dhammatalks.org/suttas/MN/MN107.html)). And then the brahmin answers his own question ([MN 107](https://www.dhammatalks.org/suttas/MN/MN107.html)):
+
+> "What can I do about that, Master Gotama? I'm the one who shows the way."
+
+> "In the same way, brahman—when unbinding is there, and the path leading to unbinding is there, and I am there as the guide—when my disciples are thus exhorted & instructed by me, some attain unbinding, the absolute conclusion, and some don't. What can I do about that, brahman? The Tathāgata is the one who shows the way."
+
+My reading: the dialogue gives B029 its two faces in one exchange. The training is gradual by design, with each instruction conditional on the previous step being in place, the form a trainer uses with an animal that is being brought along. And the outcome is not the teacher's to deliver: the road is described completely, the same instructions are given to both travelers, and the difference is made on the road. The story carries the sequence and the division of labor whole; it does not argue the content of any single step, which a complementary story can take up.
+
+**Principles:**
+- [[B029 — Follow the gradual training|29. Follow the gradual training]] — the sutta shows the steps in their conditional order and the road simile that puts the walking on the traveler; the graded form and the shown-path division of labor are the whole principle
+
+## Sources
+- [MN 107, Ganaka-Moggallana Sutta, Thanissaro Bhikkhu translation, dhammatalks.org](https://www.dhammatalks.org/suttas/MN/MN107.html) — the question, the horse-tamer opening, the step-by-step training, the road simile and the conclusion; the only source used for every quotation and factual claim

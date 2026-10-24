@@ -36,6 +36,9 @@ Trying advanced meditation on top of a chaotic life is like calculus before arit
 
 - [MN 107 Gaṇakamoggallāna Sutta (full translation, suttas.neocities.org)](https://suttas.neocities.org/mn/mn_e_107) — opening simile; horse-trainer passage
 
+## Stories
+- [[ST479 — The Road to Rajagaha|479. The Road to Rajagaha]]
+
 ## Psychology parallels
 
 - **Shaping and graded exposure**, complex behavior is built step by step (Skinner; behavior therapy)
