@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-24 14:43 UTC (input revision `42356d1b4`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 15:43 UTC.
+As of 2026-10-24 14:57 UTC (input revision `b54f55813`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 15:57 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -14,17 +14,17 @@ As of 2026-10-24 14:43 UTC (input revision `42356d1b4`). Scope: principles and c
 
 ## Stories (separate pipeline)
 
-Published story pages (content/stories/ST*.md): 465. The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
+Published story pages (content/stories/ST*.md): 491. The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
 
 | Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
 | s1a | 0 | 39 | 20 | 3 |
-| s1b | 0 | 30 | 0 | 4 |
+| s1b | 0 | 33 | 0 | 5 |
 | s1c | 0 | 38 | 1 | 0 |
 | s1d | 3 | 7 | 0 | 0 |
 | s1e | 2 | 0 | 6 | 0 |
 | s1f | 0 | 10 | 0 | 0 |
-| **All lanes** | **5** | **124** | **27** | **7** |
+| **All lanes** | **5** | **127** | **27** | **8** |
 
 ## Kernels and thinkers (enrichment programs)
 

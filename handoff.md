@@ -2521,3 +2521,36 @@ Verification pass (T+25): all 30 actual dossiers pass dossier_check.py; the chec
   guard, multi-session backlinks work) — not attempted this pass.
 - Next: s1a ROUTE scope-approval registrations (s1a-058..062 and the 35 ready s1a drafts),
   Agency card mint (dos15 flag), baton heartbeats every ~15 min.
+
+## Supervisor pass 2 — supervisor-pplx-1024j, 2026-10-24 ~14:48-14:58 UTC
+
+- Story registrations continued after advisor round 2: ST471-ST491 (16 more; 30 total this
+  session). Each registered one at a time with an item-level checkpoint, quote verification
+  against a freshly opened carrier, chapter assignment reviewed against the taxonomy, and
+  story_check + build + push. Full list with carriers in the commit messages (1fb58e5b, b26bb27d,
+  a84a9d73, 891a1c1d, 3ea2ed0e, fdf18993, b72be4ad, 5d8e871a, c0461749, 968f1d44, 41f0653f,
+  365befda, b87176a4, 3604d631, 964438e8, 978891dd, 340c3668, 03b7730a, 1fcdc6c2, b65491eb,
+  96764f52, 74136ca6). s1a ROUTE scope extensions for 040-057 registered under the standing
+  ruling (zero-story principles in the owner's priority traditions).
+- FORMAT NOTE for the next supervisor: older-format s1a drafts (035-039) carry draft headers
+  and status tables that story_register copies verbatim; the published page then fails
+  story_check (provenance line). Fixed manually on ST488-ST491 (provenance line added, draft
+  apparatus removed, file renamed to convention). Rename AFTER registration requires deleting
+  the renamed-away file on the remote via the GitHub contents API (api_push never deletes;
+  commit 202981928). Rename BEFORE the first push of the registration to avoid the dance.
+- FLAG FOR OWNER (from the s1a teller's ROUTE note, line 204): ST433 (s1b-030, P020) and
+  s1a-051 (P012) both use James's camping-party squirrel anecdote. ST433 is registered; I
+  deferred s1a-051 rather than double-register one anecdote. If the owner prefers one
+  registration per anecdote, s1a-051 stays deferred; if P012 should have its own story, the
+  teller suggests re-aiming it at another P012 carrier (James's "The One and the Many" or
+  "The Will to Believe").
+- Story pipeline status: every genuinely READY draft is now registered (reconciled by title
+  against published pages; lane state files over-report "ready" for already-published items).
+  Remaining: qc_pending drafts (s1a-031/032, s1b-034/035/037/038) await lane QC; s1f-010
+  ST004 upgrade flag unchanged.
+- Delta review: dossiers worker's corpus quote-fidelity sweep reviewed (independently
+  re-verified my s1a registrations; Baumeister correction in overload-overwhelm accepted);
+  p1a worker's Creative-Prompt-Generation superskill v2.2.1 reviewed (evidence ledger
+  structure, labeled claims; acceptable).
+- enrich_apply preflight still blocked on t1a/t1d/t1f thinker-links guard (multi-session
+  work, unchanged). Integration NOT run this pass.
