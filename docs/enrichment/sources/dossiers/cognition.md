@@ -83,7 +83,7 @@ Verification record for docs/enrichment/dossiers/cognition.md, revision 1.
 ## Practice section
 
 Selection lists the manifest's ten kernels; each description was checked
-against the full kernel protocol text after the first draft, and four
+against the full kernel protocol text after the first draft, and five
 glosses (K127, K260, K365, K387, K401) were corrected to match the
 kernel's own wording. The evidence-limits paragraph states where each
 family's support stands.
